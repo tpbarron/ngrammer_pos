@@ -1,0 +1,40 @@
+<p>|P_START
+<s>|S_START will|MD the|DT sun|NN set|VBD on|IN germanys|NNS aaa|NN rating|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN moodys|NNS cut|VBD the|DT outlook|NN on|IN germanys|NNS prized|VBN aaa|NN credit|NN rating|NN from|IN stable|JJ to|TO negative|JJ monday|NN </s>|S_END
+<s>|S_START the|DT move|NN could|MD precede|VB a|DT fullblown|NN downgrade|NN which|WDT would|MD mark|VB a|DT grim|JJ turn|NN for|IN a|DT country|NN long|RB thought|VBD of|IN as|IN a|DT bulwark|NN of|IN financial|JJ stability|NN in|IN europe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT rating|NN agency|NN also|RB revised|VBD the|DT outlooks|NNS on|IN the|DT aaa|NN ratings|NNS of|IN the|DT netherlands|NNS and|CC luxembourg|NN from|IN stable|JJ to|TO negative|JJ </s>|S_END
+<s>|S_START finland|NN maintained|VBD its|PRP$ aaa|NN rating|NN and|CC stable|JJ outlook|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START moodys|NNS said|VBD the|DT revisions|NNS for|IN the|DT three|CD countries|NNS were|VBD prompted|VBN by|IN the|DT rising|VBG uncertainty|NN regarding|VBG the|DT outcome|NN of|IN the|DT euro|NN area|NN debt|NN crisis|NN and|CC the|DT increasing|VBG likelihood|NN that|IN greater|JJR collective|JJ support|NN for|IN other|JJ euro|NN area|NN sovereigns|NNS most|JJS notably|RB spain|RB and|CC italy|RB will|MD be|VB required|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT possibility|NN of|IN a|DT greek|NN exit|NN from|IN the|DT euro|NN moodys|VBZ said|VBN could|MD threaten|VB banks|NNS throughout|IN the|DT eurozone|NN </s>|S_END
+<s>|S_START german|NN banks|NNS also|RB have|VBP significant|JJ exposure|NN to|TO other|JJ struggling|NN countries|NNS on|IN the|DT continent|NN particularly|RB italy|RB and|CC spain|VB the|DT agency|NN added|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB if|IN the|DT monetary|JJ union|NN remains|VBZ intact|NN moodys|NNS said|VBD germany|NN as|IN the|DT eurozones|NNS largest|JJS economy|NN will|MD likely|RB bear|VB an|DT increased|VBN financial|JJ burden|NN as|IN further|JJ bailout|IN funds|NNS are|VBP required|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP reiterate|VBP our|PRP$ strong|JJ commitment|NN to|TO ensure|VB the|DT stability|NN of|IN the|DT euro|NN area|NN as|IN a|DT whole|JJ said|VBD eurogroup|NN president|NN jeanclaude|NN juncker|NN following|VBG moodys|NNS actions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START stocks|NNS fell|VBD globally|RB on|IN monday|NN amid|IN fears|NNS that|IN spain|NN may|MD need|VB an|DT expanded|VBN bailout|IN package|NN </s>|S_END
+<s>|S_START the|DT yield|NN on|IN 10year|JJ spanish|NN bonds|NNS shot|VBD up|RP monday|NN to|TO a|DT euroera|NN record|NN of|IN 7565|CD a|DT level|NN widely|RB considered|VBN unsustainable|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fellow|JJ ratings|NNS agency|NN standard|NN poors|NNS has|VBZ germany|NN rated|VBN aaa|NN with|IN a|DT stable|NN outlook |NN </s>|S_END
+</p>|P_END
+

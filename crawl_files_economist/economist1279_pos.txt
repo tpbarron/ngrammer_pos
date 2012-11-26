@@ -1,0 +1,82 @@
+<p>|P_START
+<s>|S_START contagion|NN how|WRB commerce|NN has|VBZ spread|VBN disease|NN </s>|S_END
+<s>|S_START by|IN mark|NN harrison|NN </s>|S_END
+<s>|S_START yale|NN university|NN press|NN 376|CD pages|NNS £25|-NONE- </s>|S_END
+<s>|S_START to|TO be|VB published|VBN in|IN america|NN in|IN january|JJ $|$ 38|CD </s>|S_END
+<s>|S_START buy|NN from|IN amazoncom|NN amazoncouk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pillover|NN animal|NN infections|NNS and|CC the|DT next|JJ human|NN pandemic|JJ </s>|S_END
+<s>|S_START by|IN david|VBD quammen|NNS </s>|S_END
+<s>|S_START ww|NN norton|VBD 592|CD pages|NNS $|$ 2895|CD </s>|S_END
+<s>|S_START bodley|NN head|NN £20|-NONE- </s>|S_END
+<s>|S_START buy|NN from|IN amazoncom|NN amazoncouk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN october|NN 2nd|CD a|DT british|JJ traveller|NN flying|VBG home|NN to|TO glasgow|VB from|IN afghanistan|JJ began|NN to|TO feel|VB ill|JJ </s>|S_END
+<s>|S_START within|IN hours|NNS he|PRP was|VBD diagnosed|VBN with|IN crimeancongo|NN haemorrhagic|NN fever|NN a|DT virus|NN nasty|NN enough|RB for|IN him|PRP to|TO be|VB put|VBN onto|IN a|DT military|JJ transport|NN aircraft|NN for|IN transfer|NN to|TO an|DT isolation|NN hospital|NN in|IN london|NN </s>|S_END
+<s>|S_START less|JJR than|IN 24|CD hours|NNS later|JJ he|PRP was|VBD dead|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT outbreak|NN on|IN top|JJ of|IN another|DT death|NN last|JJ month|NN in|IN saudi|NN arabia|NN from|IN a|DT previously|RB unknown|VBN virus|NN a|DT cousin|NN of|IN the|DT severe|JJ acute|NN respiratory|NN syndrome|NN sars|NNS has|VBZ set|VBN global|JJ health|NN agencies|NNS on|IN edge|NN </s>|S_END
+<s>|S_START ten|RB years|NNS ago|RB the|DT deaths|NNS of|IN a|DT couple|NN of|IN travellers|NNS from|IN foreign|JJ parts|NNS might|MD not|RB have|VB been|VBN news|NN at|IN all|DT </s>|S_END
+<s>|S_START but|CC the|DT fright|NN of|IN the|DT sars|NNS outbreak|VBP in|IN 2003|CD has|VBZ left|VBN a|DT lasting|JJ impression|NN and|CC scientists|NNS and|CC publichealth|NN officials|NNS now|RB tend|VBP to|TO see|VB any|DT putative|JJ disease|NN threat|NN through|IN its|PRP$ len|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP is|VBZ refreshing|VBG therefore|RB to|TO take|VB a|DT wider|NN look|NN at|IN the|DT problem|NN of|IN infectious|JJ disease|NN </s>|S_END
+<s>|S_START two|CD recent|JJ books|NNS take|VBP very|RB different|JJ approaches|NNS to|TO the|DT narrative|JJ of|IN bacteria|NN and|CC viruses|NNS prions|NNS and|CC protists|NNS that|WDT humanity|NN has|VBZ known|VBN for|IN centuries|NNS and|CC the|DT brand|NN new|JJ bugs|NNS that|WDT by|IN opportunistic|JJ accident|NN hop|NN between|IN species|NNS and|CC start|VB a|DT new|JJ evolutionary|NN tussle|NN </s>|S_END
+<s>|S_START mark|NN harrison|NN director|NN of|IN oxford|NN university’s|NNS wellcome|VBP unit|NN for|IN the|DT history|NN of|IN medicine|NN charts|NNS a|DT chronological|JJ path|NN through|IN the|DT history|NN of|IN such|JJ disease|NN </s>|S_END
+<s>|S_START david|VBD quammen|VBN an|DT american|JJ science|NN journalist|NN picks|NNS up|IN the|DT story|NN of|IN contemporary|JJ blights|NNS exploring|VBG how|WRB the|DT next|JJ pandemic|JJ will|MD be|VB detected|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “quarantines|NNS have|VBP become|VBN tariffs|NNS by|IN another|DT name”|NNP mr|NN harrison|NN states|VBZ at|IN the|DT beginning|NN of|IN “contagion”|NNP which|WDT moves|VBZ with|IN scholarly|RB deliberateness|JJ from|IN 12thcentury|JJ europe|NN through|IN to|TO the|DT globalised|VBN early|JJ 20th|JJ century|NN to|TO demonstrate|VB how|WRB modernday|NN quarantines|NNS evolved|VBD </s>|S_END
+<s>|S_START commerce|NN was|VBD already|RB associated|VBN with|IN infection|NN during|IN the|DT black|JJ death|NN though|IN it|PRP would|MD be|VB hundreds|NNS of|IN years|NNS before|IN rats|NNS were|VBD singled|VBN out|RP as|RB its|PRP$ carrier|NN and|CC the|DT first|JJ quarantines|NNS followed|VBN soon|RB after|IN </s>|S_END
+<s>|S_START when|WRB the|DT plague|NN reappeared|VBD in|IN britain|NN and|CC on|IN the|DT continent|NN in|IN the|DT 1660s|CD european|JJ countries|NNS used|VBN titfortat|IN quarantines|NNS to|TO keep|VB out|RP competitors|NNS skim|VBP fees|NNS from|IN merchants|NNS reassure|VBP trading|VBG partners|NNS and|CC punish|VB those|DT who|WP quarantined|VBN them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN harrison|NN follows|VBZ the|DT loosening|NN of|IN quarantines|NNS as|IN the|DT tides|NNS of|IN free|JJ trade|NN rose|VBD in|IN the|DT mid19th|NNP century|NN </s>|S_END
+<s>|S_START a|DT series|NN of|IN international|JJ conferences|NNS and|CC another|DT bad|JJ bout|NN of|IN plague|NN finally|RB gave|VBD birth|JJ to|TO the|DT first|JJ international|JJ health|NN regulations|NNS in|IN 1907|CD with|IN the|DT object|NN of|IN smoothing|VBG out|IN commerce|NN </s>|S_END
+<s>|S_START on|IN both|DT sides|NNS of|IN the|DT atlantic|JJ quarantine|NN was|VBD increasingly|RB replaced|VBN by|IN better|JJR intelligence|NN and|CC proactive|JJ measure|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC current|JJ quarantine|NN regulations|NNS are|VBP not|RB immune|JJ to|TO politicisation|NN and|CC it|PRP is|VBZ in|IN making|VBG this|DT point|NN that|IN mr|NN harrison’s|NNS book|NN is|VBZ most|JJS illuminating|VBG though|IN this|DT forms|NNS a|DT small|JJ part|NN of|IN the|DT overall|JJ narrative|JJ </s>|S_END
+<s>|S_START in|IN defending|NN “biosecurity”|NN governments|NNS have|VBP tended|VBN to|TO react|VB defensively|RB to|TO diseases|NNS like|IN the|DT h5n1|NNP bird|NN flu|NN and|CC madcow|NN disease|NN or|CC bse|NN disrupting|VBG not|RB just|RB bilateral|JJ trade|NN but|CC international|JJ markets|NNS as|IN well|RB </s>|S_END
+<s>|S_START for|IN instance|NN in|IN the|DT 2009|CD swineflu|NN pandemic|JJ russia|NN china|NN and|CC others|NNS banned|VBD pork|NN imports|NNS from|IN north|JJ america|NN and|CC mexico|NN despite|IN protests|NNS by|IN the|DT world|NN trade|NN organisation|NN and|CC the|DT european|JJ union|NN that|WDT there|EX was|VBD no|DT evidence|NN the|DT virus|NN could|MD travel|VB in|IN meat|NN </s>|S_END
+<s>|S_START disease|NN scares|NNS still|RB provide|VB an|DT appealing|NN cover|NN for|IN trade|NN protectionism|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN quammen’s|NNS book|NN “spillover”|-NONE- is|VBZ a|DT scientific|JJ narrative|JJ rather|RB than|IN an|DT historical|JJ one|CD focusing|VBG on|IN zoonotic|JJ infections|NNS those|DT that|WDT pass|VBZ from|IN animals|NNS to|TO human|JJ </s>|S_END
+<s>|S_START this|DT category|NN makes|VBZ up|RP nearly|RB twothirds|NNS of|IN all|DT human|JJ infectious|JJ diseases|NNS including|VBG rabies|NNS ebola|NN and|CC malaria|NN </s>|S_END
+<s>|S_START the|DT three|CD most|JJS recent|JJ outbreaks—of|JJ sars|NNS bird|JJ flu|NN and|CC swine|NN flu—indicate|JJ that|IN the|DT next|JJ pandemic|JJ is|VBZ likely|JJ to|TO be|VB zoonotic|JJ in|IN origin|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN quammen|VBN analyses|NNS individual|JJ diseases|NNS searching|VBG for|IN patterns|NNS in|IN their|PRP$ outbreak|NN </s>|S_END
+<s>|S_START most|JJS of|IN the|DT chapters|NNS focus|VBZ on|IN a|DT single|JJ infection|NN and|CC he|PRP ranges|VBZ with|IN ease|NN over|IN decades|NNS and|CC continents|NNS drawing|VBG upon|IN years|NNS of|IN interviews|NNS and|CC field|NN trips|NNS with|IN scientist|NN </s>|S_END
+<s>|S_START mr|NN quammen|VBN is|VBZ a|DT lively|RB writer|NN and|CC a|DT good|JJ detective|NN tracing|VBG diseases|NNS from|IN their|PRP$ first|JJ appearance|NN back|RB to|TO their|PRP$ origins—in|JJ some|DT cases|NNS still|RB unsettled|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START familiar|JJ diseases|NNS are|VBP given|VBN a|DT fresh|JJ gloss|NN while|IN even|RB the|DT most|RBS devoted|JJ hypochondriac|NN will|MD find|VB some|DT new|JJ ones|NNS to|TO worry|VB about|IN </s>|S_END
+<s>|S_START ever|RB heard|VBN of|IN parrot|NN fever|NN </s>|S_END
+<s>|S_START one|CD of|IN the|DT most|RBS surprising|JJ chapters|NNS is|VBZ on|IN hiv|NN about|IN which|WDT much|JJ has|VBZ already|RB been|VBN written|VBN </s>|S_END
+<s>|S_START mr|NN quammen|VBN traces|NNS the|DT various|JJ strains|NNS of|IN hiv|NN back|RB to|TO the|DT beginning|NN of|IN the|DT 20th|JJ century|NN when|WRB the|DT virus|NN is|VBZ likely|JJ to|TO have|VB moved|VBN from|IN a|DT chimpanzee|NN into|IN a|DT human|JJ </s>|S_END
+<s>|S_START with|IN judicious|JJ use|NN of|IN a|DT fictional|JJ narrative|JJ he|PRP then|RB draws|VBZ the|DT story|NN forward|NN bringing|VBG in|IN some|DT startling|JJ new|JJ evidence|NN for|IN how|WRB hiv|NN was|VBD able|JJ to|TO spread|VB so|RB widely|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO his|PRP$ credit|NN mr|NN quammen|NNS does|VBZ not|RB shy|VB away|RB from|IN the|DT lurid|JJ question|NN of|IN the|DT “next|JJ big|JJ one”|NN that|WDT will|MD be|VB on|IN readers’|JJ minds|NNS from|IN the|DT start|NN </s>|S_END
+<s>|S_START but|CC he|PRP folds|VBZ it|PRP into|IN the|DT story|NN with|IN due|JJ scientific|JJ rigour|NN </s>|S_END
+<s>|S_START from|IN one|CD disease|NN to|TO the|DT next|JJ he|PRP asks|VBZ “why|JJ hasn’t|JJ this|DT gone|NN big”|NN in|IN the|DT case|NN of|IN sars|NNS for|IN instance|NN the|DT answer|NN may|MD be|VB mostly|RB sheer|JJR luck|NN </s>|S_END
+<s>|S_START neither|DT quarantines|NNS nor|CC eradication|NN programmes|NNS nor|CC even|RB disease|VB detectives|NNS will|MD be|VB enough|RB to|TO guard|VB mankind|JJ against|IN the|DT next|JJ outbreak|NN </s>|S_END
+<s>|S_START but|CC wise|VBP precautions|NNS may|MD limit|VB collateral|JJ damage|NN as|IN humanity|NN tries|NNS to|TO stave|VB off|RP the|DT next|JJ big|JJ one|CD </s>|S_END
+</p>|P_END
+

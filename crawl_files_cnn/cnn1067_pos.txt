@@ -1,0 +1,77 @@
+<p>|P_START
+<s>|S_START washington|NN cnnmoney|NN microsoft|NN has|VBZ saved|VBN nearly|RB $|$ 7|CD billion|CD off|IN its|PRP$ us|PRP tax|NN bill|NN since|IN 2009|CD by|IN using|NN loopholes|NNS to|TO shift|VB profits|NNS offshore|IN a|DT senate|NN panel|NN said|VBD in|IN a|DT report|NN released|VBN thursday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hewlettpackard|NN also|RB avoided|VBD paying|VBG taxes|NNS through|IN a|DT series|NN of|IN loans|NNS some|DT spanning|VBG 30|CD months|NNS that|WDT shifted|VBN billions|NNS of|IN dollars|NNS between|IN two|CD offshore|JJ subsidiaries|NNS according|VBG to|TO the|DT senate|NN panel|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT permanent|NN subcommittee|NN on|IN investigations|NNS reviewed|VBN tax|NN loopholes|NNS used|VBN by|IN dozens|NNS of|IN companies|NNS in|IN the|DT hightech|NN industry|NN to|TO shift|VB profits|NNS offshore|IN </s>|S_END
+<s>|S_START but|CC it|PRP focused|VBD on|IN moves|NNS by|IN microsoft|NN msft|NN fortune|NN 500|CD and|CC hewlettpackard|NN hpq|NN fortune|NN 500|CD according|VBG to|TO sen|VB carl|NN levin|NN the|DT michigan|NN democrat|NN who|WP runs|VBZ the|DT panel|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT republicans|NNS on|IN the|DT panel|NN including|VBG ranking|NN member|NN tom|NN coburn|NN of|IN oklahoma|NN said|VBD they|PRP support|NN the|DT report|NN while|IN stressing|VBG it|PRP found|VBD nothing|NN illegal|JJ </s>|S_END
+<s>|S_START coburn|NN said|VBD the|DT report|NN shows|VBZ the|DT need|NN for|IN reforms|NNS to|TO the|DT tax|NN code|NN and|CC lower|JJR corporate|JJ tax|NN rates|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT senate|NN investigation|NN which|WDT included|VBD subpoenas|RB and|CC voluntary|JJ correspondence|NN with|IN the|DT companies|NNS provided|VBN an|DT indepth|NN look|NN into|IN how|WRB the|DT companies|NNS set|VBD up|RP and|CC use|VB overseas|JJ tax|NN shelters|NNS as|IN well|RB as|IN the|DT impact|NN on|IN government|NN coffers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START levin|NN acknowledged|VBD that|IN microsoft|NN has|VBZ broken|VBN no|DT laws|NNS </s>|S_END
+<s>|S_START but|CC he|PRP blamed|VBD a|DT loose|NN tax|NN code|NN congress|NN and|CC tax|NN officials|NNS for|IN allowing|VBG the|DT loopholes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT tax|NN practices|NNS and|CC gimmicks|NNS range|VBP from|IN egregious|JJ to|TO dubious|JJ validity|NN levin|NN said|VBD </s>|S_END
+<s>|S_START what|WP these|DT gimmicks|NNS do|VBP is|VBZ shift|VBN the|DT burden|NN of|IN taxes|NNS to|TO citizens|NNS that|IN dont|NN use|NN armies|NNS of|IN lawyers|NNS and|CC accountants|NNS and|CC subsidiaries|NNS to|TO lower|JJR their|PRP$ tax|NN bill|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT case|NN of|IN microsoft|NN the|DT company|NN transferred|VBD nearly|RB half|NN of|IN its|PRP$ net|JJ revenue|NN from|IN us|PRP retail|JJ sales|NNS to|TO a|DT puerto|NN rican|NN subsidiary|NN between|IN 2009|CD and|CC 2011|CD </s>|S_END
+<s>|S_START that|DT saved|VBD the|DT firm|NN $|$ 45|CD billion|CD in|IN us|PRP taxes|VBZ according|VBG to|TO the|DT panel|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD tax|NN battle|NN obama|NN vs|NNS romney|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tapping|VBG a|DT different|JJ tax|NN loophole|NN microsoft|NN saved|VBD another|DT $|$ 243|CD billion|CD by|IN checking|NN a|DT box|NN on|IN an|DT irs|NNS form|NN that|IN tells|NNS tax|NN officials|NNS to|TO ignore|VB passive|JJ income|NN from|IN royalties|NNS on|IN things|NNS such|JJ as|IN patents|NNS moved|VBD to|TO its|PRP$ offshore|NN subsidiaries|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoft|NN vice|NN president|NN of|IN worldwide|NN tax|NN william|NN j|NN </s>|S_END
+<s>|S_START sample|NN defended|VBD the|DT companies|NNS use|VBP of|IN legal|JJ tax|NN avoidance|NN maneuvers|NNS saying|VBG it|PRP helps|VBZ them|PRP be|VB competitive|JJ overseas|JJ and|CC creates|VBZ jobs|NNS in|IN the|DT united|VBN states|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD of|IN the|DT business|NN imperatives|VBZ faced|VBN by|IN microsoft|NN and|CC many|JJ usbased|VBD businesses|NNS today|NN is|VBZ that|IN we|PRP must|MD operate|VB in|IN foreign|JJ markets|NNS in|IN order|NN to|TO compete|VB and|CC succeed|VB as|IN a|DT company|NN sample|NN said|VBD in|IN remarks|NNS prepared|VBN for|IN delivery|NN at|IN the|DT hearing|NN </s>|S_END
+<s>|S_START foreign|JJ revenue|NN growth|NN helps|NNS support|NN the|DT growth|NN of|IN our|PRP$ us|PRP operations|NNS creating|VBG additional|JJ us|PRP jobs|VBZ and|CC supporting|VBG an|DT economic|JJ ripple|NN effect|NN that|IN leads|NNS to|TO greater|JJR growth|NN in|IN local|JJ communities|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT case|NN of|IN hewlettpackard|NN the|DT investigation|NN found|VBD the|DT computer|NN maker|NN whittles|NNS down|IN its|PRP$ cash|NN kept|VBD in|IN the|DT united|VBN states|NNS by|IN tapping|VBG a|DT series|NN of|IN loans|NNS made|VBN from|IN subsidiaries|NNS in|IN belgium|NN and|CC the|DT cayman|NN islands|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN example|NN in|IN 2009|CD hewlettpackard|NN held|NN $|$ 125|CD billion|CD in|IN foreign|JJ cash|NN but|CC only|RB $|$ 800|CD million|CD in|IN the|DT united|VBN states|NNS </s>|S_END
+<s>|S_START it|PRP only|RB pays|VBZ taxes|NNS on|IN the|DT us|PRP portion|NN while|IN tapping|VBG a|DT series|NN of|IN ongoing|JJ shortterm|NN loans|NNS that|WDT taken|VBN together|RP stretched|VBN for|IN 30|CD straight|JJ months|NNS according|VBG to|TO the|DT panel|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT pattern|NN of|IN keeping|VBG most|RBS of|IN hps|NNS cash|NN offshore|NN and|CC obtaining|VBG loans|NNS from|IN its|PRP$ offshore|NN entities|NNS to|TO fund|VB its|PRP$ us|PRP operations|NNS was|VBD also|RB carried|VBN out|RP in|IN earlier|JJR years|NNS the|DT report|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hewlettpackard|NN spokesman|NN howard|NN clabo|NN said|VBD the|DT company|NN has|VBZ complied|VBN with|IN the|DT us|PRP tax|NN code|NN and|CC its|PRP$ auditor|NN ernst|NN young|NN has|VBZ signed|VBN off|RP on|IN the|DT accuracy|NN of|IN its|PRP$ financial|JJ statement|NN </s>|S_END
+<s>|S_START he|PRP said|VBD the|DT irs|NNS has|VBZ permanent|JJ offices|NNS at|IN two|CD of|IN its|PRP$ facilities|NNS and|CC has|VBZ never|RB raised|VBN any|DT concerns|NNS about|IN its|PRP$ programs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP are|VBP disappointed|VBN to|TO see|VB what|WP appears|NNS to|TO be|VB a|DT politically|RB motivated|VBN attack|NN on|IN one|CD of|IN americas|NNS largest|JJS employers|NNS clabo|RB said|VBD </s>|S_END
+</p>|P_END
+

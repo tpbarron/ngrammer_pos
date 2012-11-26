@@ -1,0 +1,101 @@
+<p>|P_START
+<s>|S_START facebook|NN ceo|VBD and|CC founder|NN mark|NN zuckerberg|NN rang|NN the|DT opening|VBG bell|NN remotely|RB from|IN company|NN headquarters|NNS in|IN california|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN facebooks|NNS stock|NN market|NN debut|NN finally|RB came|VBD and|CC went|VBD but|CC for|IN all|DT the|DT breathless|NN hype|NN shares|NNS ended|VBD right|JJ near|IN their|PRP$ offering|NN price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN thursday|NN night|NN facebook|NN fb|NN set|NN its|PRP$ final|JJ ipo|NN price|NN at|IN $|$ 38|CD a|DT share|NN </s>|S_END
+<s>|S_START when|WRB the|DT stock|NN began|VBD trading|NN at|IN 1130|CD am|NN </s>|S_END
+<s>|S_START et|NN on|IN friday|NN the|DT first|JJ trade|NN came|VBD in|IN at|IN $|$ 4205|CD per|IN share|NN a|DT gain|NN of|IN nearly|RB 11|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT stock|NN quickly|RB reversed|VBD course|NN dropping|NN down|IN to|TO hover|VB right|RB around|IN the|DT $|$ 38|CD ipo|CD price|NN for|IN much|RB of|IN midday|NN trading|NN </s>|S_END
+<s>|S_START though|IN shares|NNS rose|VBD modestly|RB for|IN short|JJ bursts|NNS of|IN time|NN throughout|IN the|DT day|NN they|PRP ended|VBD the|DT session|NN at|IN $|$ 3823|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN the|DT price|NN itself|PRP didnt|VBP move|NN much|RB trading|NN was|VBD fast|JJ and|CC intense|JJ </s>|S_END
+<s>|S_START more|JJR than|IN 80|CD million|CD shares|NNS changed|VBD hands|NNS in|IN the|DT first|JJ 30|CD seconds|NNS of|IN trading|NN </s>|S_END
+<s>|S_START by|IN the|DT end|NN of|IN the|DT day|NN volume|NN had|VBD spiked|VBN to|TO around|IN 567|CD million|CD shares|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT easily|RB set|VBN a|DT new|JJ volume|NN record|NN for|IN ipos|NNS smashing|VBG the|DT previous|JJ record|NN that|WDT automaker|NN general|NN motors|NNS gm|VBP fortune|NN 500|CD set|NN in|IN 2010|CD with|IN trading|NN of|IN around|IN 450|CD million|CD shares|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START facebooks|NNS trading|NN had|VBD been|VBN expected|VBN to|TO start|VB around|IN 11|CD am|NN </s>|S_END
+<s>|S_START et|NN but|CC the|DT opening|VBG was|VBD delayed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START facebook|NN founder|NN and|CC ceo|NN mark|NN zuckerberg|NN rang|NN the|DT nasdaq|NN opening|VBG bell|NN remotely|RB from|IN the|DT companys|NNS headquarters|NNS in|IN california|NN </s>|S_END
+<s>|S_START facebook|NN celebrated|VBD its|PRP$ public|JJ debut|NN by|IN gathering|NN its|PRP$ staff|NN thursday|NN night|NN for|IN an|DT allnight|NN hackathon|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT $|$ 38|CD ipo|CD price|NN facebook|NN is|VBZ on|IN track|NN to|TO raise|VB $|$ 16|CD billion|CD making|VBG it|PRP the|DT largest|JJS tech|NN ipo|NN in|IN history|NN </s>|S_END
+<s>|S_START its|PRP$ the|DT third|JJ largest|JJS us|PRP ipo|RB ever|RB trailing|VBG only|RB the|DT $|$ 197|CD billion|CD raised|VBN by|IN visa|NN v|NN fortune|NN 500|CD in|IN march|NN 2008|CD and|CC the|DT $|$ 181|CD billion|CD raised|VBN by|IN automaker|NN gm|NN in|IN november|NN 2010|CD according|VBG to|TO rankings|NNS by|IN thomson|NN reuters|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START underwriters|NNS have|VBP the|DT option|NN to|TO purchase|VB an|DT extra|JJ 632|CD million|CD shares|NNS to|TO cover|VB any|DT socalled|VBN overallotments|NNS for|IN excess|NN demand|NN </s>|S_END
+<s>|S_START if|IN that|DT happens|VBZ facebook|NN will|MD sell|VB 4844|CD million|CD shares|NNS in|IN total|JJ </s>|S_END
+<s>|S_START that|DT would|MD bring|VB the|DT amount|NN raised|VBD to|TO $|$ 184|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB much|JJ facebook|NN is|VBZ worth|JJ at|IN $|$ 38|CD per|IN share|NN facebooks|NNS market|NN capitalization|NN would|MD be|VB around|IN $|$ 81|CD billion|CD on|IN ipo|NN day|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ facebook|NN employees|NNS and|CC executives|NNS hold|VBP unexercised|VBN stock|NN options|NNS </s>|S_END
+<s>|S_START if|IN all|DT of|IN those|DT shares|NNS were|VBD exercised|VBN facebooks|NNS outstanding|JJ share|NN count|NN would|MD rise|VB to|TO around|IN 28|CD billion|CD pushing|NN the|DT companys|NNS total|VBP valuation|NN closer|NN to|TO $|$ 107|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START among|IN all|DT global|JJ companies|NNS facebook|VBP has|VBZ the|DT thirdhighest|JJS ipoday|NN valuation|NN in|IN history|NN according|VBG to|TO data|NNS from|IN deallogic|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START secondmarket|NN an|DT exchange|NN on|IN which|WDT people|NNS can|MD buy|VB and|CC sell|VB stock|NN in|IN private|JJ companies|NNS posted|VBD data|NNS on|IN friday|NN about|IN facebooks|NNS privatetrading|VBG history|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP wasnt|VBD until|IN 2010|CD that|WDT secondmarkets|NNS facebook|VBP trades|NNS racked|VBN up|RP significant|JJ volume|NN so|IN facebooks|NNS trades|NNS before|IN that|IN tended|VBN to|TO be|VB oneoff|RP deals|NNS at|IN a|DT low|JJ pershare|NN price|NN </s>|S_END
+<s>|S_START in|IN april|NN 2010|CD facebook|NN fetched|VBD an|DT average|JJ price|NN of|IN $|$ 982|CD per|IN share|NN on|IN a|DT monthly|JJ average|NN basis|NN </s>|S_END
+<s>|S_START one|CD year|NN later|JJ the|DT rate|NN jumped|VBD to|TO $|$ 3146|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN of|IN april|NN 5|CD facebook|NN shares|NNS were|VBD trading|VBG for|IN an|DT average|JJ of|IN $|$ 4272|CD each|DT nearly|RB $|$ 4|CD higher|JJR than|IN the|DT ipo|NN price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whos|NNS selling|VBG shares|NNS zuckerberg|IN plans|NNS to|TO sell|VB 302|CD million|CD shares|NNS in|IN the|DT ipo|NN offering|NN </s>|S_END
+<s>|S_START that|DT will|MD net|VB zuckerberg|NN about|IN $|$ 11|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC zuckerberg|VBP wont|NN be|VB hanging|VBG on|IN to|TO his|PRP$ cash|NN </s>|S_END
+<s>|S_START facebook|NN said|VBD he|PRP will|MD use|VB the|DT substantial|JJ majority|NN of|IN the|DT windfall|NN to|TO cover|VB the|DT massive|JJ tax|NN bill|NN hell|NN be|VB hit|VBN with|IN thanks|NNS to|TO his|PRP$ plan|NN to|TO exercise|VB a|DT large|JJ stockoptions|NNS grant|NN that|IN will|MD increase|VB his|PRP$ ownership|NN stake|NN in|IN the|DT company|NN he|PRP founded|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN the|DT offering|NN zuckerberg|NN will|MD still|RB hold|VB 5036|CD million|CD shares|NNS or|CC about|IN 31|CD of|IN the|DT company|NN </s>|S_END
+<s>|S_START that|DT stake|NN is|VBZ worth|JJ $|$ 191|CD billion|CD at|IN the|DT ipo|NN price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START venture|NN capital|NN firm|NN accel|NN partners|NNS which|WDT is|VBZ the|DT largest|JJS shareholder|NN outside|IN of|IN zuckerberg|NN is|VBZ selling|VBG 49|CD million|CD shares|NNS in|IN the|DT offering|NN </s>|S_END
+<s>|S_START thats|NNS about|IN a|DT quarter|NN of|IN its|PRP$ facebook|NN holdings|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnnmoneys|NNS chris|VBP isidore|JJ and|CC maureen|JJ farrell|NN contributed|VBD reporting |JJ </s>|S_END
+</p>|P_END
+

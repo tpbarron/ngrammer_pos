@@ -1,0 +1,77 @@
+<p>|P_START
+<s>|S_START merchant|NN soldier|NN sage|NN a|DT new|JJ history|NN of|IN power|NN </s>|S_END
+<s>|S_START by|IN david|VBD priestland|NN </s>|S_END
+<s>|S_START allen|NN lane|NN 352|CD pages|NNS £20|-NONE- </s>|S_END
+<s>|S_START to|TO be|VB published|VBN in|IN america|NN by|IN penguin|NN in|IN march|NN </s>|S_END
+<s>|S_START buy|NN from|IN amazoncom|NN amazoncouk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT view|NN of|IN history|NN as|IN a|DT perpetual|JJ tussle|NN between|IN competing|VBG classes|NNS and|CC interest|NN groups|NNS is|VBZ not|RB exactly|RB new|JJ </s>|S_END
+<s>|S_START max|NN weber|NN and|CC karl|NN marx|NN the|DT founders|NNS of|IN historical|JJ sociology|NN spawned|VBD an|DT army|NN of|IN disciple|NN </s>|S_END
+<s>|S_START david|VBD priestland|VBN an|DT oxford|NN don|NN and|CC the|DT author|NN of|IN a|DT wideranging|NN history|NN of|IN communism|NN is|VBZ happy|JJ to|TO acknowledge|VB his|PRP$ intellectual|JJ debt|NN </s>|S_END
+<s>|S_START yet|RB he|PRP argues|VBZ that|IN this|DT view|NN of|IN history|NN underestimates|NNS the|DT importance|NN of|IN the|DT way|NN people|NNS in|IN power|NN think|NN behave|VBP and|CC persuade|NN others|NNS of|IN the|DT supremacy|NN of|IN their|PRP$ value|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN priestland’s|NNS thesis|VBZ in|IN this|DT lively|RB opinionated|VBD but|CC ultimately|RB disappointing|JJ “essay”|NN his|PRP$ term|NN is|VBZ that|IN throughout|IN most|JJS of|IN history|NN three|CD “castes”—the|JJ soldier|NN the|DT merchant|NN and|CC the|DT sage—have|JJ struggled|VBN for|IN predominance|NN over|IN a|DT fourth|JJ the|DT worker|NN </s>|S_END
+<s>|S_START when|WRB one|CD of|IN these|DT castes|NNS achieves|VBZ unchallenged|VBN control|NN over|IN the|DT others|NNS he|PRP writes|VBZ the|DT result|NN is|VBZ war|NN revolution|NN or|CC economic|JJ disaster|NN </s>|S_END
+<s>|S_START the|DT aim|NN of|IN this|DT book|NN is|VBZ to|TO use|VB the|DT lessons|NNS of|IN history|NN to|TO understand|VB the|DT current|JJ financial|JJ crisi|NN </s>|S_END
+<s>|S_START mr|NN priestland|VBD argues|NNS that|IN the|DT west|NN is|VBZ now|RB paying|VBG the|DT price|NN for|IN succumbing|VBG to|TO the|DT values|NNS of|IN merchants|NNS who|WP believe|VBP in|IN the|DT justice|NN of|IN the|DT market|NN prize|NN the|DT pursuit|NN of|IN shortterm|NN profit|NN and|CC worship|NN credit|NN and|CC risk|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS societies|NNS are|VBP based|VBN on|IN an|DT informal|JJ alliance|NN between|IN two|CD of|IN these|DT three|CD castes|NNS writes|NNS mr|VBP priestland|NN </s>|S_END
+<s>|S_START early|RB agrarian|JJ empires|NNS were|VBD often|RB led|VBN by|IN aristocrats|NNS with|IN warrior|JJ and|CC landowner|NN values|NNS soldiers|NNS in|IN close|JJ alliance|NN with|IN priests|NNS sages|NNS who|WP provided|VBN a|DT spiritual|JJ justification|NN for|IN their|PRP$ rule|NN </s>|S_END
+<s>|S_START the|DT merchant|NN was|VBD tolerated|VBN for|IN bringing|NN wealth|NN through|IN trade|NN but|CC also|RB resented|VBD for|IN being|VBG cleverer|NN and|CC often|RB richer|RBR than|IN traditional|JJ elite|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START merchant|NN power|NN waxed|VBD and|CC waned|VBN throughout|IN most|JJS of|IN the|DT premodern|NN period|NN always|RB dependent|JJ on|IN protection|NN from|IN the|DT warrior|JJ caste|NN </s>|S_END
+<s>|S_START it|PRP was|VBD not|RB until|IN the|DT late|JJ 17th|CD century|NN that|WDT merchants|VBZ first|RB emerged|VBN as|IN a|DT dominant|JJ caste|NN in|IN england|NN and|CC holland|NN </s>|S_END
+<s>|S_START mr|NN priestland|VBD sets|NNS out|IN to|TO show|VB how|WRB merchant|NN ideals|NNS and|CC the|DT reaction|NN to|TO them|PRP often|RB in|IN the|DT form|NN of|IN a|DT warrior|JJ resurgence|NN have|VBP shaped|VBN and|CC largely|RB misshaped|VBD the|DT modern|JJ world|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT 19th|JJ century|NN saw|VBD the|DT seemingly|RB inexorable|JJ rise|NN of|IN what|WP mr|NN priestland|VBP describes|NNS as|IN “soft|JJ merchant”|NN values|NNS when|WRB britain|NN used|VBN its|PRP$ growing|VBG empire|NN as|IN a|DT force|NN for|IN promoting|VBG freetrade|NN and|CC globalisation|NN ostensibly|RB in|IN the|DT interests|NNS of|IN all|DT </s>|S_END
+<s>|S_START britain’s|NNS competitors|NNS however|RB regarded|VBN this|DT imperial|JJ project|NN as|IN less|JJR benign|NN </s>|S_END
+<s>|S_START as|IN mr|NN priestland|NN puts|NNS it|PRP by|IN the|DT mid19th|NNP century|NN “the|NNP world|NN of|IN cosmopolitan|NN merchants|NNS was|VBD becoming|VBG one|CD of|IN competing|VBG business|NN cartels|NNS increasingly|RB backed|VBN by|IN the|DT might|MD of|IN nation|NN states”|NN no|DT country|NN adopted|VBN the|DT values|NNS of|IN the|DT “warriorhard|JJ merchant”|NN with|IN more|JJR vigour|PRP$ than|IN bismarckian|JJ germany|NN where|WRB repression|NN at|IN home|NN and|CC brutal|JJ zerosum|NN commercial|JJ competition|NN with|IN other|JJ rising|VBG industrial|JJ powers|NNS became|VBD the|DT order|NN of|IN the|DT day|NN </s>|S_END
+<s>|S_START mr|NN priestland|VBD sees|NNS the|DT first|JJ world|NN war|NN as|IN both|DT the|DT consequence|NN and|CC the|DT graveyard|NN of|IN that|DT system|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN the|DT war|NN america|NN emerged|VBD as|IN the|DT wealthiest|JJS nation|NN and|CC dominant|JJ exporter|NN of|IN capital|NN </s>|S_END
+<s>|S_START this|DT led|VBN to|TO the|DT spread|NN of|IN a|DT new|JJ form|NN of|IN merchant|NN power|NN across|IN much|JJ of|IN the|DT developed|JJ world|NN in|IN the|DT form|NN of|IN debtfuelled|VBN consumer|NN capitalism|NN </s>|S_END
+<s>|S_START yet|RB the|DT massive|JJ financial|JJ and|CC trade|VB imbalances|NNS that|WDT resulted|VBN ended|VBD up|RP bringing|VBG this|DT “first|JJ merchant|NN age”|NN to|TO a|DT shuddering|NN halt|NN with|IN the|DT great|JJ depression|NN of|IN the|DT early|JJ 1930|CD </s>|S_END
+<s>|S_START the|DT years|NNS of|IN fiscal|JJ austerity|NN and|CC social|JJ turmoil|NN that|WDT followed|VBD writes|VBZ mr|NN priestland|NN contributed|VBD to|TO the|DT militarisation|NN of|IN germany|NN and|CC japan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bloodletting|NN of|IN the|DT second|JJ world|NN war|NN ultimately|RB inspired|VBN a|DT new|JJ alliance|NN of|IN “sagely|JJ technocrats”|NN and|CC “soft|JJ merchants”|NN </s>|S_END
+<s>|S_START determined|VBD to|TO learn|VB the|DT lessons|NNS of|IN the|DT past|JJ this|DT partnership|NN worked|VBD to|TO create|VB a|DT new|JJ world|NN order|NN writes|VBZ mr|NN priestland|NN </s>|S_END
+<s>|S_START the|DT early|JJ fruit|NN was|VBD the|DT bretton|NN woods|NNS monetary|JJ system|NN which|WDT established|VBD the|DT rules|NNS governing|VBG commercial|JJ relations|NNS between|IN the|DT big|JJ industrial|JJ nation|NN </s>|S_END
+<s>|S_START the|DT result|NN the|DT author|NN contends|VBZ was|VBD the|DT postwar|NN golden|NN age|NN of|IN prosperity|NN and|CC social|JJ harmony|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC with|IN the|DT collapse|NN of|IN bretton|NN woods|NNS in|IN 1971|CD due|JJ to|TO fiscal|JJ incontinence|NN rising|VBG inflation|NN and|CC union|NN militancy|NN came|VBD what|WP mr|NN priestland|VBP sees|NNS as|IN the|DT tragic|JJ demise|NN of|IN sagely|RB technocrats|VBZ and|CC a|DT renaissance|NN of|IN hard|JJ merchant|NN power|NN </s>|S_END
+<s>|S_START led|VBD by|IN ronald|NN reagan|NN and|CC margaret|NN thatcher|NN this|DT period|NN marked|VBD the|DT rise|NN of|IN “davos|JJ man”|NN and|CC the|DT socalled|JJ washington|NN consensu|NN </s>|S_END
+<s>|S_START it|PRP launched|VBD the|DT second|JJ merchant|NN age|NN which|WDT persists|NNS today|NN albeit|NN in|IN a|DT rather|RB broken|VBN state|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN priestland|VBD regards|NNS the|DT banking|NN and|CC sovereigndebt|NN crisis|NN of|IN the|DT past|JJ five|CD years|NNS as|IN the|DT entirely|RB “predictable”|JJ consequence|NN of|IN allowing|VBG merchant|NN values|NNS to|TO dictate|VB the|DT ethos|NNS of|IN western|JJ policymaker|NN </s>|S_END
+<s>|S_START he|PRP laments|VBZ that|IN these|DT leaders|NNS are|VBP still|RB in|IN thrall|NN to|TO financial|JJ markets|NNS and|CC international|JJ business|NN and|CC he|PRP is|VBZ appalled|VBN by|IN what|WP he|PRP sees|VBZ as|IN a|DT collective|JJ instinct|NN to|TO try|VB to|TO repair|VB a|DT failing|VBG system|NN rather|RB than|IN change|NN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unfortunately|RB the|DT author|NN seems|VBZ to|TO have|VB little|JJ idea|NN of|IN how|WRB this|DT change|NN might|MD come|VB about|RB </s>|S_END
+<s>|S_START because|IN today’s|JJ politicians|NNS came|VBD of|IN age|NN when|WRB the|DT sagely|RB consensus|VBZ of|IN the|DT 1970s|CD was|VBD under|IN attack|NN he|PRP suspects|VBZ the|DT lessons|NNS of|IN this|DT crisis|NN will|MD be|VB understood|VBN only|RB by|IN a|DT new|JJ generation|NN who|WP will|MD forge|VB a|DT caste|NN balance|NN that|WDT puts|VBZ the|DT merchant|NN in|IN his|PRP$ proper|NN subservient|NN place|NN and|CC restores|NNS the|DT technocratic|JJ sage|NN to|TO hi|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN a|DT foundation|NN for|IN this|DT new|JJ world|NN order|NN mr|NN priestland|NN is|VBZ hoping|VBG for|IN a|DT new|JJ bretton|NN woodsstyle|NN agreement—one|NN that|WDT would|MD regulate|VB international|JJ capital|NN movements|NNS and|CC thus|RB tame|VBD the|DT power|NN of|IN the|DT bond|NN market|NN </s>|S_END
+<s>|S_START but|CC he|PRP has|VBZ no|DT idea|NN how|WRB such|JJ a|DT pact|NN might|MD be|VB created|VBN or|CC why|WRB it|PRP would|MD not|RB succumb|VB to|TO the|DT same|JJ strain|NN </s>|S_END
+<s>|S_START mr|NN priestland|VBD has|VBZ some|DT interesting|JJ things|NNS to|TO say|VB about|IN why|WRB power|NN relationships|NNS shift|VBP and|CC what|WP happens|NNS when|WRB they|PRP do|VBP but|CC his|PRP$ call|NN for|IN a|DT return|NN to|TO a|DT better|JJR yesterday|NN is|VBZ too|RB glib|RB to|TO be|VB convincing|VBG </s>|S_END
+</p>|P_END
+

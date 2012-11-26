@@ -1,0 +1,59 @@
+<p>|P_START
+<s>|S_START chris|NNS christie|VBP new|JJ jersey’s|NNS governor|CC ordered|VBN atlantic|JJ city’s|NNS 12|CD casinos|NNS to|TO close|VB before|IN superstorm|NN sandy|NN came|VBD ashore|RB </s>|S_END
+<s>|S_START when|WRB hurricane|NN irene|NN caused|VBD a|DT similar|JJ threeday|NN shutdown|NN last|JJ year|NN the|DT casinos|NNS lost|VBD $|$ 45mworth|CD of|IN busine|NN </s>|S_END
+<s>|S_START this|DT time|NN moody’s|VBZ investors|NNS service|NN expects|VBZ the|DT earnings|NNS of|IN atlantic|JJ city’s|NNS casinos|NNS to|TO fall|VB by|IN 4050|CD over|IN the|DT next|JJ two|CD quarter|NN </s>|S_END
+<s>|S_START little|RB wonder|JJR then|RB that|IN within|IN 90|CD minutes|NNS of|IN mr|NN christie|NN lifting|VBG atlantic|JJ city’s|NNS evacuation|NN order|NN and|CC allowing|VBG the|DT casinos|NNS to|TO resume|VB operations|NNS on|IN november|NN 2nd|CD the|DT golden|JJ nugget|NN reopened|VBD </s>|S_END
+<s>|S_START others|NNS soon|RB followed|VBN </s>|S_END
+<s>|S_START till|NN many|JJ casino|NN floors|NNS remain|VBP quiet|JJ </s>|S_END
+<s>|S_START and|CC some|DT guests|NNS at|IN the|DT golden|JJ nugget|NN are|VBP not|RB gambler|JJR </s>|S_END
+<s>|S_START the|DT hotel|NN is|VBZ housing|VBG red|VBN cross|NNS staff|NN outofstate|NN coastguard|NN members|NNS and|CC teams|NNS from|IN alabama|NN power|NN who|WP are|VBP working|VBG in|IN the|DT area|NN to|TO restore|VB electricity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START normality|NN is|VBZ still|RB far|RB away|RB for|IN many|JJ of|IN those|DT affected|VBN by|IN the|DT storm|NN which|WDT killed|VBD at|IN least|JJS 119|CD americans|NNS and|CC affected|VBD 15|CD states|NNS an|DT area|NN larger|NN than|IN western|JJ europe|NN </s>|S_END
+<s>|S_START nearly|RB 673000|CD customers|NNS in|IN the|DT region|NN are|VBP still|RB without|IN power|NN and|CC temperatures|NNS are|VBP falling|VBG </s>|S_END
+<s>|S_START andrew|VBD cuomo|VBN new|JJ york’s|NNS governor|CC is|VBZ losing|VBG patience|NN with|IN the|DT utility|NN companies|NNS and|CC has|VBZ threatened|VBN to|TO revoke|VB their|PRP$ licence|NN </s>|S_END
+<s>|S_START handmade|NN signs|NNS in|IN stilldark|NN areas|NNS warn|VBP looters|NNS they|PRP will|MD be|VB shot|VBN </s>|S_END
+<s>|S_START those|DT without|IN power|NN are|VBP forced|VBN to|TO use|VB “warming|JJ centres”|NN emergency|NN shelters|NNS and|CC temporary|JJ shower|NN </s>|S_END
+<s>|S_START owners|NNS of|IN small|JJ businesses|NNS struggle|JJ to|TO remain|VB open|JJ even|RB with|IN help|NN from|IN insurance|NN and|CC the|DT small|JJ business|NN administration|NN a|DT federal|JJ agency|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tens|NNS of|IN thousands|NNS are|VBP homeless|JJ with|IN many|JJ staying|VBG in|IN shelter|NN </s>|S_END
+<s>|S_START ome|NN including|VBG andrew|NN ragati|NN a|DT new|JJ jersey|NN policeman|NN queue|NN up|IN at|IN the|DT makeshift|NN offices|NNS of|IN fema|NN the|DT federal|JJ emergency|NN management|NN agency|NN to|TO file|VB claim|NN </s>|S_END
+<s>|S_START mr|NN ragati|NN who|WP has|VBZ lost|VBN his|PRP$ point|NN pleasant|NN beach|NN house|NN is|VBZ no|DT stranger|NN to|TO devastation|NN </s>|S_END
+<s>|S_START he|PRP saw|VBD the|DT worst|JJS of|IN hurricane|NN katrina|NN when|WRB he|PRP was|VBD with|IN the|DT coastguard|NN </s>|S_END
+<s>|S_START he|PRP sees|VBZ the|DT same|JJ looks|NNS on|IN new|JJ jersey|NN faces|NNS that|WDT he|PRP saw|VBD in|IN 2005|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START transport|NN is|VBZ still|RB difficult|JJ </s>|S_END
+<s>|S_START ome|NN tunnels|NNS are|VBP still|RB under|IN water|NN </s>|S_END
+<s>|S_START people|NNS in|IN new|JJ york|NN and|CC new|JJ jersey|NN often|RB wait|VB hours|NNS for|IN petrol—which|JJ is|VBZ also|RB needed|VBN to|TO run|VB power|NN generators—only|RB to|TO find|VB that|IN supplies|NNS have|VBP run|VBN out|RP </s>|S_END
+<s>|S_START mr|NN christie|NN decided|VBD to|TO ration|NN fuel|NN in|IN new|JJ jersey|NN which|WDT helped|VBD a|DT bit|NN </s>|S_END
+<s>|S_START john|NN liu|VBD new|JJ york|NN city’s|NNS comptroller|NN estimates|NNS that|WDT the|DT long|JJ queues|NNS at|IN petrol|NN stations|NNS have|VBP cost|VBN new|JJ yorkers|NNS $|$ 100m|CD in|IN wasted|JJ time|NN </s>|S_END
+<s>|S_START the|DT economic|JJ impact|NN is|VBZ significant|JJ </s>|S_END
+<s>|S_START eqecat|IN a|DT riskmodelling|NN firm|NN has|VBZ doubled|VBN its|PRP$ forecast|NN insuredloss|NN estimates|NNS to|TO $|$ 10|CD billion20|CD billion|CD and|CC has|VBZ increased|VBN its|PRP$ total|JJ economic|JJ damage|NN estimates|NNS to|TO $|$ 30|CD billion50|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO add|VB insult|NN to|TO injury|NN another|DT storm|NN arrived|VBD this|DT week|NN promising|VBG more|JJR surges|NNS as|IN well|RB as|IN snow|NN </s>|S_END
+<s>|S_START nursing|VBG homes|NNS in|IN rockaway|NN an|DT area|NN of|IN new|JJ york|NN city|NN hammered|VBD last|JJ week|NN by|IN the|DT storm|NN surge|NN have|VBP been|VBN evacuated|VBN </s>|S_END
+<s>|S_START areas|NNS near|IN the|DT jersey|NN shore|NN have|VBP also|RB been|VBN evacuated|VBN </s>|S_END
+<s>|S_START worried|VBD about|IN high|JJ winds|NNS sanitation|NN workers|NNS and|CC the|DT army|NN have|VBP worked|VBN around|IN the|DT clock|NN to|TO remove|VB debri|NN </s>|S_END
+<s>|S_START fema|NN has|VBZ temporarily|RB suspended|VBN operations|NNS at|IN its|PRP$ three|CD centres|NNS on|IN staten|NNS island|VBP a|DT badly|RB hit|VBN area|NN which|WDT had|VBD felt|VBN neglected|VBN in|IN the|DT days|NNS after|IN sandy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START disastrous|JJ storms|NNS may|MD well|RB become|VB the|DT norm|NN </s>|S_END
+<s>|S_START one|CD firm|NN predicts|NNS that|WDT catastrophe|PRP losses|VBZ will|MD double|VB every|DT decade|NN because|IN of|IN growing|VBG population|NN density|NN on|IN the|DT coast|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ projected|VBN that|IN by|IN 2020|CD 39|CD of|IN americans|NNS will|MD live|VB in|IN shoreline|NN countie|NN </s>|S_END
+<s>|S_START in|IN new|JJ jersey|NN alone|RB 235000|CD people|NNS live|JJ less|NN than|IN five|CD feet|NNS above|IN the|DT highwater|NN mark|NN </s>|S_END
+<s>|S_START rebuilding|VBG will|MD have|VB to|TO take|VB this|DT into|IN account|NN </s>|S_END
+<s>|S_START ome|NN question|NN the|DT sense|NN of|IN rebuilding|VBG in|IN flood|NN zones|NNS yet|RB tourist|VBP spots|NNS like|IN the|DT jersey|NN shore|NN with|IN its|PRP$ 217|CD miles|NNS of|IN white|JJ atlantic|JJ beaches|NNS are|VBP an|DT economic|JJ engine|NN for|IN the|DT state|NN generating|VBG $|$ 38|CD billion|CD last|JJ year|NN </s>|S_END
+<s>|S_START tourismrelated|VBD jobs|NNS count|VBP for|IN nearly|RB 10|CD of|IN all|DT jobs|NNS in|IN new|JJ jersey|NN </s>|S_END
+<s>|S_START and|CC even|RB in|IN disaster|NN there|EX are|VBP symbols|NNS of|IN hope|NN </s>|S_END
+<s>|S_START a|DT rollercoaster|NN which|WDT once|RB sat|VBD on|IN a|DT pier|NN in|IN seaside|NN heights|NNS now|RB stands|VBZ badly|RB damaged|VBN in|IN the|DT ocean|JJ </s>|S_END
+<s>|S_START not|RB unlike|IN new|JJ jersey|NN battered|VBN waterlogged|JJ but|CC still|RB there|EX </s>|S_END
+</p>|P_END
+

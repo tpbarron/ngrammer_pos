@@ -1,0 +1,16 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 78|CD gdp|NN $|$ 2367bn|CD ppp|CD $|$ 5083bn|CD inflation|NN 77|CD population|NN 1220m|CD gdp|NN per|IN head|NN $|$ 1940|CD ppp|CD $|$ 4170|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT congressled|VBN coalition|NN government|NN is|VBZ leaking|VBG support|NN because|IN of|IN widespread|JJ corruption|NN and|CC a|DT patchy|JJ economic|JJ record|NN </s>|S_END
+<s>|S_START graft|NN in|IN particular|JJ has|VBZ been|VBN highlighted|VBN by|IN activist|NN anna|NN hazare|NN whose|WP$ wellpublicised|VBN protests|NNS have|VBP inspired|VBN nationwide|JJ demonstration|NN </s>|S_END
+<s>|S_START nevertheless|RB the|DT government|NN of|IN the|DT prime|JJ minister|NN manmohan|IN singh|JJ will|NN hold|NN on|IN until|IN the|DT end|NN of|IN its|PRP$ term|NN in|IN 2014—not|CD least|JJS because|IN the|DT opposition|NN bharatiya|NN janata|NN party|NN is|VBZ equally|RB tarnished|VBN </s>|S_END
+<s>|S_START trong|IN internal|JJ growth|NN and|CC foreign|JJ demand|NN for|IN indias|NNS services|NNS will|MD propel|VB the|DT economy|NN though|IN the|DT rate|NN of|IN expansion|NN will|MD slow|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB humpbacked|VBN </s>|S_END
+<s>|S_START as|IN well|RB as|IN racing|VBG there|EX will|MD be|VB dromedary|JJ dancing|NN acrobatics|NNS and|CC a|DT beauty|NN contest|NN at|IN the|DT bikaner|NN camel|NN festival|NN in|IN january |NNP </s>|S_END
+</p>|P_END
+

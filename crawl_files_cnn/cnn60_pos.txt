@@ -1,0 +1,108 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN those|DT pesky|JJ popup|NN ads|NNS from|IN the|DT 90s|CD are|VBP back|RB but|CC this|DT time|NN theyre|NN holding|VBG your|PRP$ smartphone|NN hostage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tens|NNS of|IN thousands|NNS of|IN smartphone|NN apps|NNS are|VBP running|VBG ads|NNS from|IN rogue|JJ advertising|NN networks|NNS that|WDT change|NN smartphone|NN settings|NNS and|CC take|VB contact|NN information|NN without|IN permission|NN according|VBG to|TO a|DT new|JJ study|NN released|VBN monday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START aggressive|JJ ad|NN networks|NNS can|MD disguise|VB ads|NNS as|IN text|JJ message|NN notifications|NNS or|CC app|VB icons|NNS and|CC sometimes|RB change|VB browser|NN settings|NNS and|CC bookmarks|NNS </s>|S_END
+<s>|S_START often|RB the|DT ads|NNS will|MD upload|VB your|PRP$ contacts|NNS list|VBP to|TO the|DT ad|NN networks|VBZ servers|NNS information|NN the|DT ad|NN network|NN can|MD then|RB sell|VB to|TO marketers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sounds|NNS scary|VBP </s>|S_END
+<s>|S_START its|PRP$ not|RB a|DT giant|JJ problem|NN yet|RB but|CC its|PRP$ a|DT growing|VBG one|CD </s>|S_END
+<s>|S_START as|IN many|JJ as|IN 5|CD of|IN free|JJ mobile|JJ apps|NNS use|VBP an|DT aggressive|JJ ad|NN network|NN to|TO make|VB money|NN according|VBG to|TO lookout|VB a|DT san|NN franciscobased|VBN mobile|JJ security|NN company|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN millions|NNS of|IN mobile|JJ apps|NNS in|IN stores|NNS that|WDT small|JJ sliver|NN adds|VBZ up|RP to|TO a|DT big|JJ number|NN </s>|S_END
+<s>|S_START the|DT study|NN found|VBD that|IN 19200|CD of|IN the|DT 384000|CD apps|NNS it|PRP tested|VBD used|VBN malicious|JJ ad|NN networks|NNS </s>|S_END
+<s>|S_START those|DT apps|NNS have|VBP been|VBN downloaded|VBN a|DT whopping|NN 80|CD million|CD times|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START phoneliving|VBG was|VBD one|CD of|IN the|DT most|RBS prevalent|JJ app|NN developers|NNS to|TO use|VB these|DT kinds|NNS of|IN ad|NN networks|NNS according|VBG to|TO lookout|VB their|PRP$ dozens|NNS of|IN talking|VBG animal|JJ apps|NNS have|VBP been|VBN downloaded|VBN several|JJ million|CD times|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START phoneliving|VBG says|VBZ it|PRP has|VBZ mended|VBN its|PRP$ ways|NNS </s>|S_END
+<s>|S_START the|DT company|NN acknowledged|VBD using|VBG invasive|JJ techniques|NNS to|TO make|VB money|NN from|IN its|PRP$ apps|NNS but|CC says|VBZ it|PRP dropped|VBD those|DT methods|NNS at|IN the|DT start|NN of|IN this|DT month|NN because|IN of|IN bad|JJ reviews|NNS and|CC declining|VBG downloads|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP have|VBP removed|VBN all|DT of|IN the|DT notificationicon|NN ads|NNS from|IN all|DT of|IN our|PRP$ talking|NN apps|NNS a|DT company|NN spokesman|NN said|VBD </s>|S_END
+<s>|S_START we|PRP have|VBP made|VBN this|DT switch|NN to|TO benefit|VB our|PRP$ users|NNS despite|IN the|DT lower|JJR profits|NNS involved|VBN in|IN other|JJ types|NNS of|IN ads|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT most|RBS popular|JJ type|NN of|IN apps|NNS that|WDT use|NN aggressive|VBP ad|NN networks|NNS are|VBP personalization|NN apps|NNS which|WDT include|VBP wallpapers|NNS </s>|S_END
+<s>|S_START comic|JJ arcade|NN and|CC entertainment|NN apps|NNS are|VBP also|RB among|IN the|DT most|RBS likely|JJ to|TO have|VB rogue|JJ ad|NN networks|NNS running|VBG behind|IN the|DT scenes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START like|IN aggressive|JJ popups|NNS on|IN pcs|NNS the|DT bad|JJ software|NN isnt|NN easy|NN to|TO shed|VBD </s>|S_END
+<s>|S_START though|IN the|DT damage|NN can|MD typically|RB be|VB reversed|VBN by|IN deleting|NN the|DT app|NN it|PRP can|MD be|VB hard|RB to|TO pinpoint|VB which|WDT app|NN is|VBZ causing|VBG the|DT problems|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sometimes|RB you|PRP download|VBD 10|CD apps|NNS at|IN a|DT time|NN so|RB you|PRP dont|VBP know|VBP which|WDT is|VBZ responsible|JJ said|VBD kevin|NN mahaffey|NN lookouts|NNS cto|IN </s>|S_END
+<s>|S_START its|PRP$ not|RB unlike|JJ adware|NN in|IN the|DT early|JJ pc|NN days|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB developers|NNS create|VBP free|JJ mobile|JJ apps|NNS they|PRP usually|RB make|VBP money|NN through|IN ads|NNS displayed|VBN within|IN the|DT app|NN </s>|S_END
+<s>|S_START that|DT free|JJ version|NN of|IN angry|NN birds|NNS didnt|VBP cost|NN you|PRP anything|NN because|IN of|IN the|DT popup|NN ad|NN that|WDT appears|VBZ right|RB as|IN youre|NN catapulting|VBG the|DT red|NN bird|NN at|IN its|PRP$ target|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT vast|JJ majority|NN of|IN ads|NNS run|VBP on|IN wellknown|NN ad|NN networks|VBZ like|IN jumptap|NN apples|NNS aapl|VBP fortune|NN 500|CD iad|NN and|CC googles|NNS goog|VBP fortune|NN 500|CD admob|NN </s>|S_END
+<s>|S_START they|PRP collect|VBP some|DT information|NN about|IN their|PRP$ users|NNS but|CC they|PRP dont|VBP go|VBP to|TO the|DT extremes|NNS of|IN uploading|VBG contact|NN lists|NNS and|CC changing|VBG settings|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT appeal|NN of|IN the|DT ad|NN networks|VBZ that|IN lookout|IN calls|NNS aggressive|JJ is|VBZ that|IN they|PRP generate|VBP more|RBR revenue|NN for|IN app|NN developers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START android|VBD ad|VBN network|NN airpush|NN for|IN example|NN places|NNS ads|NNS in|IN users|NNS notification|NN bars|NNS and|CC home|NN pages|NNS </s>|S_END
+<s>|S_START that|DT generates|VBZ more|JJR clicks|NNS and|CC more|JJR money|NN for|IN developers|NNS since|IN even|RB inactive|JJ users|NNS can|MD view|VB the|DT ads|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lookout|IN has|VBZ criticized|VBN airpush|JJ in|IN the|DT past|JJ for|IN being|VBG overly|RB aggressive|JJ with|IN its|PRP$ marketing|NN techniques|NNS </s>|S_END
+<s>|S_START airpush|NN remains|VBZ the|DT secondbiggest|JJS ad|NN network|NN for|IN android|JJ devices|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START airpush|NN gives|VBZ customers|NNS the|DT option|NN of|IN opting|VBG out|IN of|IN its|PRP$ push|JJ notification|NN ads|NNS and|CC users|NNS are|VBP notified|VBN the|DT first|JJ time|NN they|PRP launch|VBP an|DT airpushequipped|JJ app|NN about|IN the|DT apps|NNS advertising|VBG methods|NNS </s>|S_END
+<s>|S_START all|DT of|IN airpushs|NNS ads|NNS include|VBP the|DT name|NN of|IN the|DT app|NN transmitting|VBG the|DT ad|NN the|DT company|NN says|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START an|DT airpush|NN representative|NN says|VBZ the|DT company|NN plans|VBZ to|TO move|VB within|IN the|DT next|JJ two|CD weeks|NNS to|TO an|DT affirmative|JJ optin|NN system|NN for|IN its|PRP$ push|NN notification|NN ads|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START app|NN makers|NNS dont|VBP usually|RB disclose|JJ what|WP ad|NN network|NN theyre|NN using|VBG which|WDT makes|VBZ it|PRP hard|RB to|TO avoid|VB the|DT known|NN offenders|NNS </s>|S_END
+<s>|S_START the|DT best|JJS defense|NN is|VBZ to|TO read|VB reviews|NNS and|CC avoid|VBD downloading|VBG apps|NNS that|WDT have|VBP attracted|VBN a|DT trail|NN of|IN complaints|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lookouts|NNS mahaffey|VBP says|VBZ bad|JJ actors|NNS are|VBP more|RBR prevalent|JJ on|IN android|JJ phones|NNS than|IN iphones|NNS because|IN the|DT google|NN play|NN app|NN store|NN has|VBZ fewer|JJR restrictions|NNS and|CC gatekeepers|NNS than|IN apples|NNS itunes|NNS app|VBP store|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT iphone|NN isnt|NN immune|NN other|JJ ad|NN networks|NNS lookout|IN considers|NNS aggressive|JJ include|NN moolah|NN media|NNS and|CC leadbolt|NN which|WDT publish|JJ apps|NNS for|IN both|DT android|JJ and|CC ios|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START correction|NN a|DT photo|NN caption|NN on|IN an|DT earlier|JJR version|NN of|IN this|DT story|NN incorrectly|RB suggested|VBD that|IN airpush|JJ takes|NNS contact|NN information|NN from|IN users|NNS phones|NNS the|DT company|NN does|VBZ not|RB </s>|S_END
+<s>|S_START the|DT story|NN has|VBZ been|VBN updated|VBN with|IN a|DT response|NN from|IN airpush|JJ </s>|S_END
+<s>|S_START also|RB lookout|VBD initally|RB cited|VBN mocean|JJ mobile|NN as|IN an|DT aggressive|JJ network|NN but|CC later|JJ retracted|VBN that|IN classification|NN and|CC called|VBN it|PRP an|DT error|NN </s>|S_END
+<s>|S_START mocean|JJ mobile|NN is|VBZ an|DT adserving|VBG platform|NN not|RB an|DT ad|NN network|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

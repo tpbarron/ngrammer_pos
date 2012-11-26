@@ -1,0 +1,33 @@
+<p>|P_START
+<s>|S_START as|IN more|JJR and|CC more|JJR components|NNS are|VBP packed|VBN onto|IN computer|NN chips|NNS the|DT problems|NNS of|IN getting|VBG electrical|JJ energy|NN to|TO where|WRB it|PRP is|VBZ needed|VBN in|IN a|DT microprocessor|NN and|CC of|IN dispersing|VBG the|DT heat|NN which|WDT that|IN energy|NN is|VBZ turned|VBN into|IN by|IN the|DT chips|NNS operation|NN both|DT become|NN harder|NN </s>|S_END
+<s>|S_START the|DT latest|JJS aspiration|NN of|IN chip|NN designers—to|-NONE- stack|NN the|DT things|NNS on|IN top|JJ of|IN one|CD another|DT so|RB that|IN their|PRP$ components|NNS can|MD communicate|VB in|IN three|CD dimensions—complicates|NNS matters|NNS still|RB further|JJ </s>|S_END
+<s>|S_START but|CC a|DT group|NN of|IN engineers|NNS at|IN ibm|NN think|NN they|PRP have|VBP a|DT single|JJ answer|NN to|TO both|DT problem|NN </s>|S_END
+<s>|S_START bruno|NN michel|NN and|CC his|PRP$ colleagues|NNS at|IN the|DT computer|NN giants|NNS zurich|WDT research|NN laboratory|NN in|IN switzerland|NN propose|NN using|VBG a|DT liquid|NN coolant|NN that|WDT generates|VBZ electricity|NN inside|NN the|DT chip|NN itself|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ibm|NN is|VBZ already|RB working|VBG on|IN the|DT problem|NN of|IN cooling|VBG 3d|CD chip|NN </s>|S_END
+<s>|S_START its|PRP$ answer|NN is|VBZ to|TO etch|VB layers|NNS of|IN tiny|JJ channels|NNS between|IN the|DT slivers|NNS of|IN silicon|NN that|IN carry|NN the|DT component|NN </s>|S_END
+<s>|S_START by|IN pumping|NN fluid|VBD through|IN these|DT channels|NNS it|PRP is|VBZ possible|JJ to|TO carry|VB heat|NN out|IN of|IN a|DT stacked|VBN chip|NN fast|RB enough|RB to|TO keeping|VBG it|PRP running|VBG nicely|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN michels|NNS proposal|NN is|VBZ to|TO use|VB the|DT same|JJ system|NN to|TO power|NN the|DT chips|NNS too|RB </s>|S_END
+<s>|S_START instead|RB of|IN a|DT single|JJ network|NN of|IN channels|NNS running|VBG through|IN a|DT stacked|VBN chip|NN of|IN this|DT sort|NN he|PRP suggests|VBZ there|RB should|MD be|VB two|CD </s>|S_END
+<s>|S_START each|DT would|MD carry|VB a|DT fluid|NN doped|VBD with|IN vanadium|NN ions|NNS but|CC those|DT ions|NNS would|MD be|VB in|IN different|JJ oxidative|JJ states|NNS in|IN the|DT different|JJ channel|NN systems—at|JJ least|NN they|PRP would|MD be|VB when|WRB they|PRP entered|VBD the|DT chip|NN </s>|S_END
+<s>|S_START at|IN the|DT heart|NN of|IN the|DT device|NN however|RB the|DT channels|NNS would|MD be|VB lined|VBN with|IN a|DT catalyst|NN that|WDT reacted|VBN with|IN the|DT electrolyte|NN and|CC also|RB acted|VBD as|IN an|DT electrode|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB the|DT fluid|NN was|VBD pumped|VBN around|IN the|DT chip|NN a|DT piece|NN of|IN chemistry|NN called|VBN a|DT redox|NN reaction|NN would|MD take|VB place|NN as|IN one|CD sort|NN of|IN vanadium|NN ion|NN gave|VBD up|RP electrons|NNS to|TO the|DT other|JJ sort|NN </s>|S_END
+<s>|S_START for|IN that|DT to|TO happen|VB the|DT electrons|NNS would|MD have|VB to|TO pass|VB between|IN the|DT channel|NN systems|NNS via|IN the|DT wiring|NN of|IN the|DT chip|NN </s>|S_END
+<s>|S_START this|DT would|MD produce|VB a|DT current|JJ to|TO power|NN the|DT chip|NN </s>|S_END
+<s>|S_START the|DT electrolytes|NNS would|MD then|RB be|VB pumped|VBN out|RP of|IN the|DT chip|NN carrying|VBG heat|NN away|RB with|IN them|PRP </s>|S_END
+<s>|S_START once|RB cooled|VBD they|PRP would|MD be|VB reinvigorated|VBN back|RP to|TO their|PRP$ original|JJ ionic|JJ states|NNS by|IN an|DT external|JJ electric|JJ current|JJ and|CC pumped|VBD back|RP into|IN the|DT chip|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START although|IN dr|NN michel|NN has|VBZ not|RB yet|RB applied|VBD his|PRP$ idea|NN to|TO an|DT entire|JJ chip|NN he|PRP has|VBZ shown|VBN that|IN the|DT electricitygeneration|NN part|NN of|IN the|DT process|NN can|MD be|VB made|VBN to|TO work|VB perfectly|RB well|RB in|IN a|DT system|NN of|IN channels|NNS like|IN those|DT found|VBN in|IN a|DT 3d|JJ chip|NN </s>|S_END
+<s>|S_START if|IN the|DT electrodes|NNS can|MD be|VB connected|VBN successfully|RB to|TO the|DT rest|NN of|IN a|DT chip|NN the|DT result|NN would|MD be|VB a|DT new|JJ type|NN of|IN liquidfuelled|VBN computer|NN </s>|S_END
+</p>|P_END
+

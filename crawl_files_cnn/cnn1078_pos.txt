@@ -1,0 +1,82 @@
+<p>|P_START
+<s>|S_START shortterm|NN bond|NN yields|NNS plunged|VBD this|DT week|NN for|IN the|DT most|JJS creditworthy|JJ governments|NNS in|IN the|DT euro|NN area|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN there|EX is|VBZ a|DT remarkable|JJ trend|NN developing|VBG in|IN european|JJ bond|NN markets|NNS where|WRB investors|NNS are|VBP increasingly|RB willing|JJ to|TO lend|VB money|NN to|TO certain|JJ governments|NNS in|IN exchange|NN for|IN next|JJ to|TO nothing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT most|RBS extreme|JJ example|NN yields|NNS on|IN 2year|JJ german|NN bonds|NNS turned|VBD negative|JJ this|DT week|NN falling|VBG to|TO a|DT record|NN 05|CD </s>|S_END
+<s>|S_START that|DT means|VBZ in|IN theory|NN at|IN least|JJS investors|NNS could|MD end|VB up|RP losing|VBG money|NN if|IN they|PRP hold|VBP the|DT bonds|NNS to|TO maturity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START germany|NN is|VBZ the|DT eurozones|NNS largest|JJS economy|NN and|CC its|PRP$ bunds|NNS are|VBP considered|VBN among|IN the|DT safest|JJS assets|NNS available|JJ for|IN investors|NNS who|WP are|VBP expecting|VBG the|DT worst|JJS </s>|S_END
+<s>|S_START but|CC the|DT flight|NN to|TO safety|NN is|VBZ becoming|VBG more|RBR widespread|JJ as|IN investors|NNS hunt|VBP for|IN a|DT marginally|RB better|RBR return|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT week|NN 2year|JJ yields|NNS briefly|RB turned|VBD negative|JJ for|IN france|NN while|IN denmark|NN and|CC switzerland|NN are|VBP more|RBR firmly|RB below|IN zero|CD </s>|S_END
+<s>|S_START shortterm|NN yields|NNS for|IN aaarated|VBN finland|NN and|CC the|DT netherlands|NNS fell|VBD to|TO record|VB lows|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT trend|NN reflects|VBZ a|DT heightened|VBN aversion|NN to|TO risk|VB as|IN spain|NN and|CC italy|RB struggle|JJ to|TO avoid|VB falling|VBG victim|NN to|TO the|DT crisis|NN that|IN dragged|JJ down|IN greece|NN portugal|NN and|CC ireland|NN </s>|S_END
+<s>|S_START yields|NNS on|IN bonds|NNS issued|VBN by|IN italy|RB and|CC spain|VB rose|VBD this|DT week|NN as|IN investors|NNS demand|NN higher|JJR premiums|NNS to|TO hold|VB debt|NN that|IN is|VBZ considered|VBN risky|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT rise|NN in|IN benchmark|NN yields|NNS in|IN say|NN italy|RB and|CC spain|VB to|TO worryingly|RB high|JJ levels|NNS shows|VBZ a|DT deep|NN concern|NN amongst|NN many|JJ participants|NNS about|IN their|PRP$ fiscal|JJ sustainability|NN said|VBD andrew|NN milligan|NN head|NN of|IN global|JJ strategy|NN at|IN standard|JJ life|NN investments|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT yield|NN or|CC interest|NN rate|NN on|IN a|DT bond|NN falls|VBZ when|WRB prices|NNS rise|VBP </s>|S_END
+<s>|S_START a|DT negative|JJ yield|NN means|VBZ investors|NNS are|VBP effectively|RB paying|VBG the|DT government|NN to|TO take|VB their|PRP$ money|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT analogy|NN i|PRP use|VBP is|VBZ that|IN its|PRP$ like|IN putting|VBG money|NN under|IN the|DT mattress|NN said|VBD schwab|NN fixedincome|NN strategist|NN kathy|NN jones|NNS </s>|S_END
+<s>|S_START investors|NNS trust|VBP the|DT core|NN countries|NNS and|CC noneuro|NN countries|NNS to|TO return|VB their|PRP$ money|NN even|RB it|PRP costs|VBZ them|PRP something|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT analysts|NNS say|VBP the|DT surge|NN in|IN demand|NN for|IN shortterm|NN ultrasafe|NN bonds|NNS is|VBZ due|JJ to|TO moves|NNS by|IN the|DT european|JJ central|JJ bank|NN which|WDT recently|RB cut|VBD the|DT rate|NN it|PRP pays|VBZ banks|NNS to|TO hold|VB money|NN overnight|NN to|TO zero|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START without|IN getting|VBG a|DT yield|NN from|IN the|DT ecb|NN banks|NNS that|WDT want|VBP a|DT safe|NN place|NN to|TO park|VB their|PRP$ money|NN are|VBP looking|VBG elsewhere|RB </s>|S_END
+<s>|S_START and|CC that|DT means|VBZ the|DT shortdated|VBN debt|NN of|IN the|DT least|JJS risky|JJ economies|NNS in|IN the|DT single|JJ currency|NN area|NN said|VBD nicholas|NNS spiro|IN director|NN of|IN londonbased|VBN consultancy|NN spiro|NN sovereign|NN strategy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ another|DT reason|NN why|WRB the|DT move|NN helped|VBD drive|JJ down|IN yields|NNS this|DT week|NN said|VBD tobias|NNS blattner|NN a|DT former|JJ ecb|NN economist|NN who|WP now|RB works|VBZ at|IN daiwa|NN capital|NN markets|NNS in|IN london|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT deposit|NN rate|NN serves|VBZ as|RB a|DT floor|NN for|IN money|NN market|NN funds|NNS he|PRP said|VBD many|JJ of|IN which|WDT stopped|VBN accepting|VBG inflows|NNS this|DT week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START investors|NNS who|WP normally|RB park|VBP money|NN in|IN those|DT funds|NNS need|VBP to|TO put|VB it|PRP somewhere|RB else|RB said|VBD blattner|NN </s>|S_END
+<s>|S_START shortterm|NN bonds|NNS issued|VBN by|IN aaarated|VBN governments|NNS which|WDT are|VBP safe|JJ and|CC liquid|NN are|VBP one|CD of|IN the|DT main|JJ alternatives|NNS he|PRP added|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT drop|NN in|IN shortterm|NN french|NN bond|NN yields|NNS this|DT week|NN represents|VBZ a|DT significant|JJ change|NN in|IN market|NN sentiment|NN toward|IN president|NN françois|NNS hollande|VBP who|WP came|VBD to|TO power|NN in|IN may|MD by|IN campaigning|NN against|IN government|NN austerity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN now|RB investors|NNS are|VBP giving|VBG hollande|NN the|DT benefit|NN of|IN the|DT doubt|NN said|VBD nick|NN stamenkovic|JJ a|DT fixedincome|NN strategist|NN ria|NN capital|NN markets|NNS in|IN edinburgh|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN his|PRP$ heated|JJ campaign|NN rhetoric|NN hollande|NN has|VBZ taken|VBN a|DT more|RBR moderate|JJ approach|NN since|IN the|DT election|NN said|VBD antonio|NN barroso|NN an|DT analyst|NN at|IN political|JJ research|NN firm|NN eurasia|NN group|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START overall|JJ the|DT strategy|NN of|IN hollande|NN regarding|VBG fiscal|JJ consolidation|NN seems|VBZ to|TO be|VB one|CD of|IN incrementalism|NN and|CC anticipated|VBD damage|NN control|NN barroso|NN wrote|VBD in|IN a|DT note|NN to|TO clients|NNS </s>|S_END
+<s>|S_START the|DT president|NN knows|VBZ that|IN despite|IN the|DT current|JJ positive|JJ market|NN environment|NN the|DT pressure|NN on|IN french|NN sovereign|NN debt|NN could|MD return|VB at|IN any|DT moment|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

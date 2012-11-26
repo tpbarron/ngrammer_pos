@@ -1,0 +1,57 @@
+<p>|P_START
+<s>|S_START there|EX are|VBP still|RB many|JJ questions|NNS about|IN the|DT taxes|NNS mitt|VBP romney|NN paid|VBN over|RP the|DT last|JJ 20|CD years|NNS despite|IN the|DT release|NN of|IN a|DT summary|NN from|IN his|PRP$ accountant|NN friday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN after|IN months|NNS of|IN criticism|NN for|IN saying|VBG he|PRP would|MD release|VB only|RB two|CD years|NNS of|IN tax|NN returns|NNS mitt|VBP romney|NN on|IN friday|NN put|VBD out|RP a|DT report|NN from|IN his|PRP$ accountants|NNS about|IN taxes|NNS he|PRP has|VBZ paid|VBN over|IN 20|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT onepage|NN document|NN left|VBN key|JJ questions|NNS unanswered|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT report|NN which|WDT summarized|VBN romneys|NNS tax|NN returns|NNS from|IN 1990|CD to|TO 2009|CD was|VBD prepared|VBN by|IN pricewaterhousecoopers|NNS one|CD of|IN the|DT nations|NNS largest|JJS accounting|VBG firms|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT notarized|VBN letter|NN said|VBD that|IN romney|NN and|CC his|PRP$ wife|NN ann|NN never|RB paid|VBN less|JJR than|IN 1366|CD of|IN their|PRP$ adjusted|VBN gross|NN income|NN in|IN any|DT one|CD year|NN </s>|S_END
+<s>|S_START it|PRP said|VBD the|DT average|JJ federal|JJ income|NN tax|NN bill|NN came|VBD to|TO 202|CD of|IN income|NN and|CC the|DT average|JJ state|NN income|NN payment|NN was|VBD 836|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT letter|NN did|VBD not|RB give|VB any|DT dollar|NN amounts|VBZ of|IN income|NN or|CC taxes|NNS paid|VBD </s>|S_END
+<s>|S_START and|CC it|PRP only|RB referred|VBD to|TO adjusted|VBN gross|NN income|NN rather|RB than|IN total|JJ income|NN which|WDT can|MD be|VB substantially|RB higher|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START adjusted|VBD gross|NNS income|NN is|VBZ not|RB a|DT full|JJ measure|NN of|IN income|NN said|VBD roberton|NN williams|NNS a|DT senior|JJ fellow|NN at|IN the|DT tax|NN policy|NN center|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START williams|NNS said|VBD the|DT wealthy|JJ often|RB use|VBP tax|NN shelters|NNS and|CC investments|NNS overseas|RB to|TO reduce|VB their|PRP$ adjusted|VBN gross|NN income|NN and|CC the|DT resulting|VBG tax|NN bite|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP youd|VBN like|IN to|TO know|VB is|VBZ what|WP was|VBD his|PRP$ full|JJ income|NN from|IN all|DT sources|NNS and|CC what|WP taxes|NNS did|VBD he|PRP pay|VB williams|NNS said|VBD </s>|S_END
+<s>|S_START that|DT would|MD give|VB you|PRP an|DT appropriate|JJ measure|NN of|IN his|PRP$ effective|JJ tax|NN rate|NN rate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD kinda|NN rich|NN and|CC really|RB rich|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB the|DT 202|CD average|NN federal|JJ tax|NN bill|NN in|IN the|DT letter|NN is|VBZ likely|JJ overstated|VBN by|IN at|IN least|JJS a|DT few|JJ percentage|NN points|NNS williams|NNS said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS because|IN the|DT accountants|NNS averaged|VBD the|DT effective|JJ tax|NN rates|NNS for|IN each|DT of|IN the|DT 20|CD years|NNS rather|RB than|IN compare|NN total|NN taxes|NNS paid|VBN to|TO total|JJ adjusted|VBN gross|NN income|NN </s>|S_END
+<s>|S_START this|DT method|NN gives|VBZ too|RB much|JJ weight|NN to|TO the|DT years|NNS romney|NN had|VBD a|DT higher|JJR effective|JJ rate|NN williams|NNS said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB asked|VBD friday|NN the|DT campaign|NN would|MD not|RB provide|VB any|DT comparison|NN of|IN taxes|NNS paid|VBN to|TO total|JJ income|NN for|IN the|DT 20|CD years|NNS covered|VBN by|IN the|DT statement|NN from|IN the|DT accountants|NNS </s>|S_END
+<s>|S_START it|PRP also|RB would|MD not|RB disclose|VB what|WP percentage|NN of|IN total|JJ adjusted|VBN gross|NN income|NN over|IN the|DT 20|CD years|NNS was|VBD paid|VBN in|IN federal|JJ income|NN taxes|NNS </s>|S_END
+</p>|P_END
+

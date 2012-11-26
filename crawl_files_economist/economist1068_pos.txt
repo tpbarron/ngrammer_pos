@@ -1,0 +1,141 @@
+<p>|P_START
+<s>|S_START ummer|NN in|IN texas|NNS last|JJ year|NN was|VBD the|DT hottest|JJS on|IN record|NN </s>|S_END
+<s>|S_START demand|NN for|IN power|NN spiked|VBD as|IN air|NN conditioners|NNS hummed|VBD across|IN the|DT state|NN </s>|S_END
+<s>|S_START the|DT electric|JJ reliability|NN council|NN of|IN texas|NNS ercot|VBP the|DT state|NN grid|VBD operator|NN only|RB narrowly|RB avoided|VBN having|VBG to|TO impose|VB rolling|NN blackout|IN </s>|S_END
+<s>|S_START to|TO do|VB so|RB it|PRP had|VBD to|TO buy|VB all|DT the|DT electricity|NN it|PRP could|MD find|VB on|IN the|DT spot|NN market|NN in|IN some|DT cases|NNS paying|VBG an|DT eyewatering|VBG 30|CD times|NNS the|DT normal|JJ price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN paper|NN at|IN least|JJS ercot|NN ought|NN to|TO have|VB had|VBN plenty|NN of|IN power|NN </s>|S_END
+<s>|S_START in|IN 2010|CD it|PRP reported|VBD 84400|CD megawatts|NNS mw|VBP of|IN total|JJ generation|NN capacity|NN well|RB over|IN last|JJ summers|NNS peak|VBP demand|NN of|IN 68294mw|CD </s>|S_END
+<s>|S_START in|IN theory|NN this|DT is|VBZ enough|RB to|TO produce|VB some|DT 740|CD billion|CD kilowatt|NN hours|NNS kwh|VBP of|IN electricity|NN a|DT year—more|JJ than|IN double|JJ the|DT 319|CD billion|CD kwh|NN that|WDT ercots|VBZ customers|NNS actually|RB demanded|VBD during|IN 2010|CD </s>|S_END
+<s>|S_START in|IN electricity|NN generation|NN however|RB aggregates|VBZ and|CC averages|NNS carry|VBP little|JJ weight|NN </s>|S_END
+<s>|S_START one|CD problem|NN is|VBZ that|IN wind|JJ energy|NN accounted|VBD for|IN 9500mw|CD of|IN ercots|NNS total|VBP capacity|NN and|CC the|DT wind|NN does|VBZ not|RB blow|VB all|DT the|DT time|NN </s>|S_END
+<s>|S_START it|PRP tends|VBZ to|TO be|VB strongest|JJS at|IN night|NN when|WRB demand|NN is|VBZ low|JJ </s>|S_END
+<s>|S_START moreover|RB power|NN firms|NNS are|VBP required|VBN by|IN regulators|NNS to|TO maintain|VB a|DT safety|NN margin|NN over|IN total|JJ estimated|VBN demand—of|JJ 1375|CD in|IN ercots|NNS case—in|JJ order|NN to|TO ensure|VB reliable|JJ supply|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN only|RB it|PRP were|VBD easier|JJR for|IN ercot|NN and|CC other|JJ utilities|NNS to|TO store|VB excess|JJ energy|NN such|JJ as|IN that|DT produced|VBN by|IN wind|NN turbines|NNS at|IN night|NN for|IN later|JJ use|NN at|IN peak|NN time|NN </s>|S_END
+<s>|S_START uch|JJ “time|JJ shifting”|NN would|MD compensate|VB for|IN the|DT intermittent|NN nature|NN of|IN wind|NN and|CC solar|JJ power|NN making|VBG them|PRP more|JJR attractive|JJ and|CC easier|JJR to|TO integrate|VB into|IN the|DT grid|JJ </s>|S_END
+<s>|S_START energy|NN storage|NN also|RB allows|VBZ “peak|JJ shaving”|NN </s>|S_END
+<s>|S_START by|IN tapping|NN stored|VBD energy|NN rather|RB than|IN firing|VBG up|RP standby|JJ generators|NNS utilities|NNS can|MD save|VB money|NN by|IN avoiding|NN expensive|JJ spotmarket|NN purchase|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START urely|RB the|DT answer|NN is|VBZ to|TO use|VB giant|JJ batterie|NN </s>|S_END
+<s>|S_START although|IN batteries|NNS can|MD deliver|VB power|NN for|IN short|JJ periods|NNS and|CC can|MD smooth|VB out|RP the|DT bumps|NNS as|IN different|JJ sources|NNS of|IN power|NN are|VBP switched|VBN on|IN and|CC off|IN they|PRP can|MD not|RB provide|VB “grid|JJ scale”|NN performance|NN storing|VBG and|CC discharging|VBG energy|NN at|IN high|JJ rates|NNS hundreds|NNS of|IN megawatts|NNS and|CC in|IN really|RB large|JJ quantities|NNS thousands|NNS of|IN megawatt|NN hour|NN </s>|S_END
+<s>|S_START o|NN other|JJ technologies|NNS are|VBP needed—and|JJ growing|VBG demand|NN driven|RB chiefly|RB by|IN wider|NN use|NN of|IN intermittent|NN renewableenergy|NN sources|NNS is|VBZ sparking|VBG plenty|NN of|IN new|JJ idea|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ got|VBD potential|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT most|RBS widely|RB used|JJ form|NN of|IN bulkenergy|NN storage|NN is|VBZ currently|RB pumpedstorage|NN hydropower|NN psh|NN which|WDT uses|NNS the|DT simple|JJ combination|NN of|IN water|NN and|CC gravity|NN to|TO capture|VB offpeak|JJ power|NN and|CC release|NN it|PRP at|IN times|NNS of|IN high|JJ demand|NN </s>|S_END
+<s>|S_START pumpedhydro|NN facilities|NNS typically|RB take|VB advantage|NN of|IN natural|JJ topography|NN and|CC are|VBP built|VBN around|IN two|CD reservoirs|NNS at|IN different|JJ height|NN </s>|S_END
+<s>|S_START offpeak|NN electricity|NN is|VBZ used|VBN to|TO pump|VB water|NN from|IN the|DT lower|JJR to|TO the|DT higher|JJR reservoir|NN turning|VBG electrical|JJ energy|NN into|IN gravitational|JJ potential|JJ energy|NN </s>|S_END
+<s>|S_START when|WRB power|NN is|VBZ needed|VBN water|NN is|VBZ released|VBN back|RB down|IN to|TO the|DT lower|JJR reservoir|NN spinning|VBG a|DT turbine|NN and|CC generating|VBG electricity|NN along|IN the|DT way|NN </s>|S_END
+<s>|S_START psh|NN accounts|NNS for|IN more|JJR than|IN 99|CD of|IN bulk|NN storage|NN capacity|NN worldwide|NN around|IN 127000mw|CD according|VBG to|TO the|DT electric|JJ power|NN research|NN institute|NN epri|NN the|DT research|NN arm|NN of|IN americas|NNS power|NN utilitie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB despite|IN its|PRP$ dominance|NN traditional|JJ psh|NN has|VBZ limited|VBN capacity|NN for|IN expansion|NN </s>|S_END
+<s>|S_START the|DT kind|NN of|IN sites|NNS needed|VBN for|IN such|JJ systems|NNS are|VBP few|JJ and|CC far|RB between|IN </s>|S_END
+<s>|S_START as|IN a|DT result|NN several|JJ firms|NNS are|VBP devising|VBG new|JJ forms|NNS of|IN psh|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD ambitious|JJ idea|NN pictured|VBD above|IN is|VBZ the|DT green|JJ power|NN island|NN concept|NN devised|VBD by|IN gottlieb|NN paludan|NN a|DT danish|JJ architecture|NN firm|NN together|RB with|IN researchers|NNS at|IN the|DT technical|JJ university|NN of|IN denmark|NN </s>|S_END
+<s>|S_START this|DT involves|VBZ building|NN artificial|JJ islands|NNS with|IN wind|JJ turbines|NNS and|CC a|DT deep|NN central|JJ reservoir|NN </s>|S_END
+<s>|S_START when|WRB the|DT wind|NN blows|VBZ the|DT energy|NN is|VBZ used|VBN to|TO pump|VB water|NN out|IN of|IN the|DT reservoir|NN into|IN the|DT sea|NN </s>|S_END
+<s>|S_START when|WRB power|NN is|VBZ needed|VBN seawater|NN is|VBZ allowed|VBN to|TO flow|VB back|RB into|IN the|DT reservoir|JJ driving|NN turbines|NNS to|TO produce|VB electricity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gravity|NN power|NN a|DT startup|NN based|VBN in|IN california|NN has|VBZ devised|VBN a|DT system|NN that|WDT relies|VBZ on|IN two|CD waterfilled|VBN shafts|NNS one|CD wider|NN than|IN the|DT other|JJ which|WDT are|VBP connected|VBN at|IN both|DT end|NN </s>|S_END
+<s>|S_START water|NN is|VBZ pumped|VBN down|RP through|IN the|DT smaller|JJR shaft|NN to|TO raise|VB a|DT piston|NN in|IN the|DT larger|JJR shaft|NN </s>|S_END
+<s>|S_START when|WRB demand|NN peaks|VBZ the|DT piston|NN is|VBZ allowed|VBN to|TO sink|VB back|RB down|IN the|DT main|JJ shaft|NN forcing|NN water|NN through|IN a|DT generator|NN to|TO create|VB electricity|NN </s>|S_END
+<s>|S_START the|DT systems|NNS relatively|RB compact|JJ nature|NN means|VBZ it|PRP can|MD be|VB installed|VBN close|JJ to|TO areas|NNS of|IN high|JJ demand|NN and|CC extra|JJ modules|NNS can|MD be|VB added|VBN when|WRB more|RBR capacity|NN is|VBZ needed|VBN says|VBZ tom|NN mason|NN the|DT firms|NNS bo|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT company|NN looking|VBG to|TO harness|NN the|DT potential|NN of|IN gravity|NN is|VBZ advanced|VBN rail|NN energy|NN storage|NN ares|NNS based|VBN in|IN santa|NN monica|NN california|NN </s>|S_END
+<s>|S_START its|PRP$ system|NN uses|NNS modified|VBD railway|NN cars|NNS on|IN a|DT specially|RB built|VBN track|NN </s>|S_END
+<s>|S_START offpeak|NN electricity|NN is|VBZ used|VBN to|TO pull|VB the|DT cars|NNS to|TO the|DT top|JJ of|IN a|DT hill|NN </s>|S_END
+<s>|S_START when|WRB energy|NN is|VBZ needed|VBN the|DT cars|NNS are|VBP released|VBN and|CC as|IN they|PRP run|VBP back|RB down|IN the|DT track|NN their|PRP$ motion|NN drives|NNS a|DT generator|NN </s>|S_END
+<s>|S_START like|IN psh|NN the|DT ares|NNS system|NN requires|VBZ specific|JJ topography|NN </s>|S_END
+<s>|S_START but|CC william|NN peitzke|NN the|DT firms|NNS boss|VBP says|VBZ ares|NNS delivers|NNS more|RBR power|NN for|IN the|DT same|JJ height|NN differential|JJ </s>|S_END
+<s>|S_START he|PRP also|RB says|VBZ it|PRP is|VBZ more|RBR efficient|JJ with|IN a|DT roundtrip|NN efficiency—the|NN ratio|NN of|IN energy|NN out|IN to|TO energy|NN in—of|JJ more|RBR than|IN 85|CD compared|VBN with|IN 7075|CD for|IN psh|JJ </s>|S_END
+<s>|S_START a|DT demonstration|NN system|NN is|VBZ being|VBG built|VBN in|IN california|NN and|CC should|MD become|VB operational|JJ in|IN 2013|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT secondbiggest|JJS form|NN of|IN bulkenergy|NN storage|NN though|IN it|PRP is|VBZ dwarfed|VBN by|IN psh|JJ is|VBZ compressedair|JJ energy|NN storage|NN cae|NN </s>|S_END
+<s>|S_START this|DT involves|VBZ compressing|VBG air|NN and|CC storing|VBG it|PRP in|IN large|JJ repositories|NNS such|JJ as|IN underground|NN salt|NN cavern|NN </s>|S_END
+<s>|S_START during|IN peak|NN hours|NNS the|DT air|NN is|VBZ released|VBN to|TO drive|VB a|DT turbine|NN </s>|S_END
+<s>|S_START there|EX are|VBP only|RB two|CD commercial|JJ caes|NNS plants|NNS in|IN operation|NN one|CD in|IN huntorf|NN germany|NN and|CC the|DT other|JJ in|IN mcintosh|JJ alabama|NN </s>|S_END
+<s>|S_START the|DT big|JJ drawback|NN of|IN caes|NNS is|VBZ its|PRP$ inefficiency|NN </s>|S_END
+<s>|S_START according|VBG to|TO rwe|VB a|DT german|NN utility|NN the|DT huntorf|NN plant|NN is|VBZ only|RB 42|CD efficient|NN and|CC the|DT one|CD in|IN alabama|NN is|VBZ only|RB slightly|RB better|RBR </s>|S_END
+<s>|S_START the|DT problem|NN is|VBZ that|IN air|NN heats|NNS up|IN when|WRB pressurised|VBN and|CC cools|NNS down|IN when|WRB expanded|VBN </s>|S_END
+<s>|S_START in|IN existing|VBG caes|NNS systems|NNS energy|NN is|VBZ lost|VBN as|RB heat|JJ during|IN compression|NN and|CC the|DT air|NN must|MD then|RB be|VB reheated|VBN before|IN expansion|NN </s>|S_END
+<s>|S_START the|DT energy|NN to|TO do|VB this|DT usually|RB comes|VBZ from|IN natural|JJ gas|NN reducing|VBG efficiency|NN and|CC increasing|VBG greenhousegas|NN emission|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN with|IN hydro|NN storage|NN efforts|NNS are|VBP under|IN way|NN to|TO adapt|VB the|DT basic|JJ concept|NN of|IN caes|NNS to|TO make|VB it|PRP more|JJR efficient|JJ and|CC easier|JJR to|TO install|VB </s>|S_END
+<s>|S_START rwe|NN is|VBZ working|VBG with|IN ge|NN an|DT industrial|JJ conglomerate|NN and|CC others|NNS to|TO commercialise|VB a|DT compressedair|NN system|NN that|WDT captures|VBZ the|DT heat|NN produced|VBN during|IN compression|NN stores|NNS it|PRP and|CC then|RB reapplies|NNS it|PRP during|IN the|DT expansion|NN process|NN eliminating|VBG the|DT need|NN for|IN additional|JJ sources|NNS of|IN heat|NN </s>|S_END
+<s>|S_START having|VBG proven|VBN the|DT theoretical|JJ feasibility|NN of|IN this|DT concept|NN the|DT partners|NNS must|MD now|RB overcome|VB the|DT technical|JJ hurdles|NNS which|WDT include|VBP developing|VBG pumps|NNS to|TO compress|NN air|NN to|TO 70|CD times|NNS atmospheric|JJ pressure|NN and|CC ceramic|JJ materials|NNS to|TO store|VB heat|NN at|IN up|IN to|TO 600°c|CD </s>|S_END
+<s>|S_START the|DT aim|NN is|VBZ to|TO start|VB building|NN a|DT 90mw|CD demonstration|NN plant|NN in|IN strasfurt|NN germany|NN in|IN 2013|CD says|VBZ peter|NN moser|NN the|DT head|NN of|IN rwes|NNS research|NN arm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START everal|JJ smaller|NN outfits|NNS are|VBP also|RB developing|VBG more|JJR efficient|JJ forms|NNS of|IN cae|NN </s>|S_END
+<s>|S_START ustainx|NN a|DT company|NN spun|NN out|IN of|IN dartmouth|NN universitys|NNS engineering|VBG school|NN and|CC supported|VBD by|IN americas|NNS department|NN of|IN energy|NN doe|NN and|CC ge|NN among|IN others|NNS has|VBZ developed|VBN what|WP it|PRP calls|VBZ “isothermal|JJ caes”|NN which|WDT removes|NNS heat|VBP from|IN the|DT compressed|VBN air|NN by|IN injecting|NN water|NN vapour|NN </s>|S_END
+<s>|S_START the|DT water|NN absorbs|VBZ the|DT heat|NN and|CC is|VBZ then|RB stored|VBN and|CC reapplied|VBD to|TO the|DT air|NN during|IN the|DT expansion|NN proce|NN </s>|S_END
+<s>|S_START and|CC rather|RB than|IN relying|VBG on|IN salt|NN caverns|NNS sustainx|VBP uses|NNS standard|JJ steel|NN pipes|NNS to|TO store|VB the|DT compressed|VBN air|NN allowing|NN its|PRP$ systems|NNS to|TO be|VB installed|VBN wherever|NN they|PRP are|VBP needed|VBN </s>|S_END
+<s>|S_START the|DT firm|NN has|VBZ built|VBN a|DT 40|CD kilowatt|NN demonstration|NN plant|NN and|CC is|VBZ partnering|VBG with|IN aes|NNS a|DT utility|NN to|TO build|VB a|DT 12mw|CD system|NN </s>|S_END
+<s>|S_START general|JJ compression|NN a|DT massachusettsbased|VBN company|NN also|RB backed|VBD by|IN the|DT doe|NN has|VBZ developed|VBN an|DT isothermal|JJ caes|NNS system|NN focused|VBD on|IN providing|NN support|NN to|TO wind|VB farm|NN </s>|S_END
+<s>|S_START with|IN the|DT backing|NN of|IN conocophillips|NNS an|DT energy|NN giant|NN it|PRP is|VBZ building|VBG a|DT 2mw|CD demonstration|NN plant|NN in|IN texa|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT way|NN to|TO store|VB energy|NN is|VBZ in|IN the|DT form|NN of|IN heat|NN </s>|S_END
+<s>|S_START that|DT is|VBZ the|DT approach|NN taken|VBN by|IN isentropic|JJ a|DT company|NN based|VBN in|IN cambridge|NN england|NN with|IN a|DT system|NN it|PRP calls|VBZ pumped|VBN heat|NN electricity|NN storage|NN phes|NNS which|WDT uses|NNS argon|VBP gas|NN to|TO transfer|VB heat|NN between|IN two|CD vast|JJ tanks|NNS filled|VBN with|IN gravel|NN </s>|S_END
+<s>|S_START incoming|VBG energy|NN drives|NNS a|DT heat|NN pump|NN compressing|VBG and|CC heating|NN the|DT argon|NN and|CC creating|VBG a|DT temperature|NN differential|NN between|IN the|DT two|CD tanks|NNS with|IN one|CD at|IN 500°c|CD and|CC the|DT other|JJ at|IN 160°c|CD </s>|S_END
+<s>|S_START during|IN periods|NNS of|IN high|JJ demand|NN the|DT heat|NN pump|NN runs|VBZ in|IN reverse|NN as|IN a|DT heat|NN engine|NN expanding|VBG and|CC cooling|VBG the|DT argon|NN and|CC generating|VBG electricity|NN </s>|S_END
+<s>|S_START isentropic|JJ says|VBZ its|PRP$ system|NN has|VBZ an|DT efficiency|NN of|IN 7280|CD depending|VBG on|IN size|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START brightsource|NN energy|NN an|DT energy|NN company|NN based|VBN in|IN oakland|NN california|NN has|VBZ signed|VBN a|DT deal|NN with|IN southern|NN california|NNS edison|NN a|DT utility|NN to|TO implement|VB a|DT system|NN that|WDT stores|VBZ energy|NN in|IN molten|NN salt|NN </s>|S_END
+<s>|S_START brightsource|NN generates|NNS electricity|NN using|VBG an|DT approach|NN called|VBN concentrated|VBN solar|JJ power|NN in|IN which|WDT computercontrolled|VBN mirrors|NNS known|VBN as|IN heliostats|NNS focus|CC the|DT suns|NNS heat|VBP to|TO boil|VB water|NN and|CC turn|VB a|DT steam|NN turbine|NN </s>|S_END
+<s>|S_START but|CC this|DT approach|NN works|VBZ only|RB while|IN the|DT sun|NN is|VBZ shining|VBG </s>|S_END
+<s>|S_START the|DT storage|NN system|NN called|VBN solarplus|NN uses|NNS a|DT heat|NN exchanger|NN to|TO transfer|VB some|DT of|IN the|DT heat|NN captured|VBD by|IN the|DT heliostats|NNS to|TO the|DT molten|NN salt|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ then|RB run|VBN back|RB through|IN the|DT heat|NN exchanger|NN to|TO drive|VB the|DT steam|NN turbine|NN when|WRB needed|VBN </s>|S_END
+<s>|S_START this|DT allows|VBZ brightsources|NNS plants|NNS to|TO deliver|VB energy|NN even|RB after|IN dark|JJ and|CC gives|VBZ utilities|NNS and|CC grid|VBD operators|NNS more|RBR flexibility|NN than|IN solar|JJ power|NN usually|RB provide|VB </s>|S_END
+<s>|S_START brightsource|NN is|VBZ planning|VBG to|TO equip|VB three|CD of|IN its|PRP$ plants|NNS with|IN solarplu|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START changing|VBG the|DT rule|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT potential|JJ market|NN is|VBZ huge|JJ according|VBG to|TO pike|VB research|NN a|DT marketresearch|NN firm|NN $|$ 122|CD billion|CD will|MD be|VB invested|VBN in|IN energystorage|NN projects|NNS between|IN 2011|CD and|CC 2021|CD </s>|S_END
+<s>|S_START it|PRP predicts|VBZ that|IN the|DT bulk|NN of|IN this|DT spending|NN will|MD go|VB towards|NNS new|JJ forms|NNS of|IN cae|NN </s>|S_END
+<s>|S_START greenminded|VBD governments|NNS and|CC regulators|NNS are|VBP taking|VBG a|DT closer|NN interest|NN in|IN the|DT technology|NN </s>|S_END
+<s>|S_START california|NN has|VBZ passed|VBN a|DT law|NN requiring|VBG utilities|NNS to|TO consider|VB storage|NN in|IN their|PRP$ plan|NN </s>|S_END
+<s>|S_START germanys|NNS environment|VBD ministry|NN last|JJ year|NN proposed|VBD a|DT project|NN to|TO assess|NN technology|NN developments|NNS and|CC funding|NN needs|VBZ for|IN energy|NN storage|NN </s>|S_END
+<s>|S_START and|CC the|DT british|JJ governments|NNS “lowcarbon|JJ networks”|NN fund|NN is|VBZ being|VBG used|VBN to|TO build|VB some|DT demonstration|NN project|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB largescale|VBP deployment|NN of|IN bulk|NN storage|NN systems|NNS will|MD require|VB regulatory|JJ as|IN well|RB as|IN technical|JJ progre|NN </s>|S_END
+<s>|S_START torage|NN systems|NNS do|VBP not|RB fit|VB neatly|RB into|IN regulatory|JJ frameworks|NNS that|WDT distinguish|JJ between|IN power|NN providers|NNS and|CC grid|VBD operators|NNS since|IN they|PRP can|MD be|VB used|VBN by|IN both|DT </s>|S_END
+<s>|S_START their|PRP$ ability|NN to|TO take|VB power|NN off|IN the|DT grid|JJ store|NN it|PRP and|CC then|RB release|VB it|PRP later|JJ creates|NNS “potential|JJ problems|NNS for|IN current|JJ tariff|NN billing|NN and|CC metering|VBG approaches”|NN notes|NNS the|DT epri|NN in|IN a|DT recent|JJ report|NN </s>|S_END
+<s>|S_START nor|CC is|VBZ it|PRP clear|RB whether|IN power|NN companies|NNS will|MD be|VB allowed|VBN to|TO pass|VB on|IN the|DT cost|NN of|IN storage|NN facilities|NNS to|TO their|PRP$ customer|NN </s>|S_END
+<s>|S_START but|CC given|VBN the|DT technologys|NNS potential|JJ to|TO make|VB power|NN grids|NNS cleaner|JJR and|CC more|JJR reliable|JJ it|PRP seems|VBZ likely|JJ that|IN changes|NNS to|TO the|DT rules|NNS are|VBP in|IN store|NN </s>|S_END
+</p>|P_END
+

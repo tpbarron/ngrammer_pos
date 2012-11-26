@@ -1,0 +1,25 @@
+<p>|P_START
+<s>|S_START my|PRP$ mom|NN wants|NNS to|TO invest|VB $|$ 60000|CD for|IN her|PRP$ grandkids|NNS ages|NNS 4|CD to|TO 11|CD to|TO get|VB at|IN age|NN 25|CD </s>|S_END
+<s>|S_START how|WRB should|MD she|PRP do|VB it —|JJ jill|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START her|PRP$ simplest|NN investment|NN option|NN is|VBZ to|TO put|VB the|DT $|$ 60000|CD in|IN a|DT lowcost|NN balanced|VBN fund|NN such|JJ as|IN one|CD from|IN the|DT money|NN 70|CD </s>|S_END
+<s>|S_START then|RB she|PRP should|MD insert|VB a|DT bequest|NN in|IN her|PRP$ will|MD identifying|VB the|DT grandkids|NNS as|IN equal|JJ beneficiaries|NNS of|IN the|DT fund|NN says|VBZ new|JJ york|NN estateplanning|VBG attorney|NN lynne|NN stebbins|VBZ </s>|S_END
+<s>|S_START specify|NN that|IN if|IN the|DT kids|NNS are|VBP under|IN 25|CD when|WRB she|PRP dies|VBZ the|DT money|NN should|MD be|VB held|VBN in|IN a|DT testamentary|JJ trust|NN until|IN they|PRP reach|VBP that|IN age|NN </s>|S_END
+<s>|S_START the|DT cost|NN of|IN getting|VBG an|DT estateplanning|VBG attorney|NN to|TO do|VB this|DT $|$ 500|CD to|TO $|$ 1000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT cheaper|JJR setup|NN if|IN your|PRP$ mom|NN is|VBZ willing|JJ to|TO let|VB the|DT kids|NNS have|VBP the|DT money|NN sooner|NN is|VBZ for|IN her|PRP$ to|TO open|VB an|DT utma|NN uniform|NN transfer|NN to|TO minors|NNS act|VB account|NN for|IN each|DT theyll|NN get|NN the|DT money|NN at|IN age|NN 18|CD in|IN 10|CD states|NNS or|CC 21|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START —|NN lauren|VBN gensler|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START got|VBD a|DT question|NN for|IN the|DT help|NN desk|NN </s>|S_END
+<s>|S_START send|NN it|PRP to helpdeskcnnmoneycom|NNP </s>|S_END
+</p>|P_END
+

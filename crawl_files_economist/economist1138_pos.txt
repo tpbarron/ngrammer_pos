@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 31|CD gdp|NN $|$ 228bn|CD ppp|CD $|$ 256bn|CD inflation|NN 11|CD population|NN 107m|CD gdp|NN per|IN head|NN $|$ 21370|CD ppp|CD $|$ 24040|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economic|JJ policy|NN will|MD be|VB determined|VBN by|IN the|DT conditions|NNS attached|VBD to|TO the|DT €78bn|JJ $|$ 106bn|CD rescue|NN package|NN agreed|VBD upon|IN with|IN the|DT eu|NN and|CC the|DT imf|NN in|IN 2011|CD combining|VBG severe|JJ austerity|NN with|IN structural|JJ reform|NN </s>|S_END
+<s>|S_START these|DT will|MD cause|VB considerable|JJ pain|NN among|IN workers|NNS civil|VBP servants|NNS landlords|NNS and|CC protected|VBD professions|NNS and|CC will|MD test|VB portugals|NNS tradition|NN of|IN social|JJ stability|NN </s>|S_END
+<s>|S_START the|DT objective|NN a|DT decline|NN in|IN the|DT budget|NN deficit|NN to|TO below|VB 3|CD of|IN gdp|NN by|IN 2013|CD will|MD stay|VB roughly|RB on|IN track|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,44 @@
+<p>|P_START
+<s>|S_START amazon|NN currently|RB employs|VBZ 20000|CD people|NNS at|IN its|PRP$ 40|CD fulfillment|NN centers|NNS across|IN the|DT country|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN its|PRP$ only|JJ october|NN but|CC companies|NNS like|IN amazon|NN are|VBP already|RB thinking|VBG about|IN the|DT holidays|NNS </s>|S_END
+<s>|S_START the|DT online|NN retailer|NN is|VBZ the|DT latest|JJS to|TO announce|VB its|PRP$ seasonal|JJ hiring|NN plan|NN and|CC its|PRP$ significant|JJ 50000|CD jobs|NNS in|IN the|DT united|VBN states|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START amazon|NN amzn|NN fortune|NN 500|CD currently|RB employs|VBZ 20000|CD people|NNS at|IN its|PRP$ 40|CD fulfillment|NN centers|NNS across|IN the|DT country|NN where|WRB the|DT seasonal|JJ employees|NNS will|MD be|VB placed|VBN </s>|S_END
+<s>|S_START the|DT company|NN said|VBD it|PRP expects|VBZ thousands|NNS of|IN seasonal|JJ workers|NNS to|TO stay|VB at|IN amazon|NN in|IN fulltime|NN positions|NNS after|IN the|DT holidays|NNS are|VBP over|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START amazon|NN didnt|VBD specify|NN the|DT types|NNS of|IN positions|NNS for|IN which|WDT its|PRP$ hiring|NN but|CC workers|NNS at|IN the|DT fulfillment|NN centers|VBZ typically|RB perform|NN a|DT range|NN of|IN tasks|NNS involved|VBN in|IN online|NN orders|NNS pulling|VBG items|NNS from|IN warehouse|NN shelves|NNS packing|VBG up|RP boxes|NNS for|IN shipment|NN and|CC storing|VBG incoming|NN merchandise|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ just|RB one|CD of|IN several|JJ big|JJ seasonal|JJ hiring|NN announcements|NNS recently|RB </s>|S_END
+<s>|S_START outplacement|NN firm|NN challenger|NN gray|NN christmas|NNS reported|VBD that|IN as|IN of|IN last|JJ week|NN us|PRP retailers|NNS including|VBG restaurants|NNS have|VBP so|RB far|RB announced|VBN plans|NNS to|TO hire|VB 413700|CD seasonal|JJ workers|NNS </s>|S_END
+<s>|S_START thats|NNS a|DT fiveyear|JJ high|NN for|IN seasonal|JJ hiring|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START macys|NNS m|VBP fortune|NN 500|CD which|WDT also|RB owns|VBZ bloomingdales|NNS department|NN stores|NNS plans|VBZ to|TO bring|VB on|IN 80000|CD temporary|JJ workers|NNS </s>|S_END
+<s>|S_START the|DT retailer|NN said|VBD it|PRP will|MD need|VB the|DT extra|JJ workers|NNS to|TO staff|NN its|PRP$ sales|NNS floors|NNS store|VBP operations|NNS and|CC call|NN centers|NNS as|IN well|RB as|IN shipping|NN centers|NNS for|IN online|NN orders|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START toys|NNS r|VBP us|PRP said|VBD last|JJ month|NN that|WDT it|PRP will|MD hire|VB 45000|CD seasonal|JJ workers|NNS an|DT increase|NN of|IN 5000|CD compared|VBN to|TO last|JJ year|NN </s>|S_END
+<s>|S_START department|NN store|NN chain|NN kohls|NNS kss|VBP fortune|NN 500|CD also|RB announced|VBD last|JJ month|NN that|WDT it|PRP will|MD hire|VB 52700|CD seasonal|JJ workers|NNS which|WDT is|VBZ a|DT 10|CD jump|NN compared|VBN to|TO the|DT prior|NN year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT stores|NNS are|VBP all|DT hoping|VBG to|TO take|VB advantage|NN of|IN a|DT holiday|NN sales|NNS season|NN thats|NNS expected|VBN to|TO be|VB strong|JJ </s>|S_END
+<s>|S_START earlier|JJR this|DT month|NN the|DT national|JJ retail|NN federation|NN predicted|VBD that|IN the|DT seasons|NNS sales|NNS will|MD increase|VB 41|CD from|IN last|JJ year|NN to|TO $|$ 586|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START holiday|NN sales|NNS rose|VBD 56|CD last|JJ year|NN and|CC have|VB risen|VBN 35|CD on|IN average|JJ over|IN the|DT past|JJ decade|NN the|DT nrf|NN said|VBD </s>|S_END
+<s>|S_START the|DT industry|NN group|NN defines|NNS holiday|NN sales|NNS as|IN retail|JJ industry|NN sales|NNS in|IN november|NN and|CC december|NN excluding|VBG car|NN dealers|NNS gas|NN stations|NNS and|CC restaurants|NNS </s>|S_END
+</p>|P_END
+

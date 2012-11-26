@@ -1,0 +1,63 @@
+<p>|P_START
+<s>|S_START federal|JJ reserve|NN officials|NNS including|VBG vice|NN chair|NN janet|NN yellen|NN are|VBP indicating|VBG that|IN an|DT accommodative|JJ monetary|NN policy|NN is|VBZ needed|VBN to|TO maintain|VB the|DT us|PRP recovery|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN federal|JJ reserve|NN vice|NN chair|NN janet|NN yellen|NN has|VBZ reiterated|VBN her|PRP$ view|NN that|IN further|JJ action|NN by|IN the|DT central|JJ bank|NN might|MD be|VB necessary|JJ to|TO stimulate|VB the|DT sputtering|NN us|PRP economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START an|DT extended|VBD period|NN of|IN highly|RB accommodative|JJ policy|NN is|VBZ necessary|JJ to|TO combat|VB the|DT persistent|NN headwinds|NNS to|TO recovery|VB yellen|VBN said|VBD wednesday|NN in|IN remarks|NNS prepared|VBN for|IN delivery|NN to|TO the|DT boston|NN economic|JJ club|NN dinner|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT pace|NN of|IN the|DT current|JJ recovery|NN has|VBZ turned|VBN out|RP to|TO be|VB persistently|RB slower|JJR than|IN most|JJS observers|NNS expected|VBN she|PRP added|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yellen|NN was|VBD the|DT latest|JJS fed|VBN official|NN to|TO weigh|VB in|IN this|DT week|NN on|IN the|DT state|NN of|IN the|DT economy|NN </s>|S_END
+<s>|S_START her|PRP$ remarks|NNS came|VBD amid|IN gathering|NN anxiety|NN among|IN investors|NNS following|VBG last|JJ weeks|NNS dismal|JJ may|MD jobs|NNS report|VB and|CC concerns|NNS about|IN europes|NNS debt|NN crisis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START observers|NNS have|VBP been|VBN parsing|VBG comments|NNS from|IN fed|JJ officials|NNS for|IN clues|NNS about|IN whether|IN or|CC not|RB the|DT central|JJ bank|NN will|MD take|VB some|DT further|JJ stimulative|JJ action|NN </s>|S_END
+<s>|S_START investors|NNS have|VBP speculated|VBN that|IN the|DT fed|JJ could|MD extend|VB operation|NN twist|NN its|PRP$ program|NN of|IN swapping|VBG shortterm|NN bonds|NNS for|IN ones|NNS with|IN longer|JJR duration|NN to|TO help|VB keep|VB 10year|JJ and|CC 30year|JJ bond|NN yields|NNS low|JJ or|CC launch|NN a|DT third|JJ round|NN of|IN asset|NN purchases|NNS known|VBN as|RB quantitative|JJ easing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yellen|NN noted|VBD that|IN there|EX is|VBZ considerable|JJ uncertainty|NN about|IN the|DT impact|NN of|IN these|DT policies|NNS going|VBG forward|RB but|CC said|VBD circumstances|NNS may|MD warrant|VB them|PRP nonetheless|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP a|DT number|NN of|IN significant|JJ downside|NN risks|NNS to|TO the|DT economic|JJ outlook|NN and|CC hence|NN it|PRP may|MD well|RB be|VB appropriate|JJ to|TO insure|VB against|IN adverse|JJ shocks|NNS she|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yellens|NNS remarks|NNS followed|VBD a|DT speech|NN earlier|RBR wednesday|NN by|IN atlanta|NN fed|VBD president|NN dennis|NNS lockhart|NN who|WP said|VBD that|IN extending|NN operation|NN twist|NN is|VBZ an|DT option|NN on|IN the|DT table|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START also|RB on|IN wednesday|NN san|NN francisco|NN fed|VBD president|NN john|NN williams|NNS said|VBD he|PRP supported|VBD further|RB stimulus|RB should|MD the|DT economy|NN worsen|NN </s>|S_END
+<s>|S_START he|PRP suggested|VBD that|IN such|JJ action|NN could|MD include|VB purchases|NNS of|IN mortgagebacked|VBN securities|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START williams|NNS like|IN lockhart|NN is|VBZ seen|VBN as|IN fairly|RB moderate|JJ when|WRB it|PRP comes|VBZ to|TO monetary|JJ policy|NN </s>|S_END
+<s>|S_START yellen|NN is|VBZ viewed|VBN as|IN dovish|JJ or|CC more|JJR inclined|VBN toward|IN stimulus|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT comments|NNS by|IN the|DT fed|VBN officials|NNS were|VBD a|DT prelude|NN to|TO thursdays|NNS appearance|NN by|IN chairman|NN ben|VBN bernanke|NN before|IN the|DT joint|JJ economic|JJ committee|NN of|IN congress|NN </s>|S_END
+<s>|S_START while|IN investors|NNS always|RB consider|JJR the|DT comments|NNS of|IN any|DT fed|VBN official|NN bernankes|NNS testimony|NN will|MD get|VB particular|JJ scrutiny|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT feds|NNS next|IN policy|NN meeting|NN is|VBZ a|DT twoday|NN session|NN concluding|VBG june|NN 20|CD just|RB 10|CD days|NNS before|IN operation|NN twist|NN is|VBZ set|VBN to|TO expire|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START us|PRP stocks|VBZ rallied|VBN wednesday|NN on|IN hopes|NNS that|IN additional|JJ stimulus|NNS of|IN some|DT kind|NN might|MD be|VB coming|VBG </s>|S_END
+<s>|S_START while|IN this|DT seemed|VBD improbable|JJ as|IN recently|RB as|IN a|DT few|JJ weeks|NNS ago|IN the|DT disappointing|JJ jobs|NNS report|NN and|CC mounting|VBG problems|NNS in|IN europe|NN have|VBP stoked|VBN fears|NNS that|IN the|DT us|PRP recovery|VBP is|VBZ in|IN jeopardy|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

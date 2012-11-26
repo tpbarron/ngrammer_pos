@@ -1,0 +1,24 @@
+<p>|P_START
+<s>|S_START in|IN a|DT short|JJ story|NN called|VBN “franchise”|-NONE- isaac|NN asimov|NN dreamed|VBD up|RP a|DT computer|NN that|WDT saved|VBD americans|NNS from|IN going|VBG to|TO the|DT poll|NN </s>|S_END
+<s>|S_START the|DT machine|NN was|VBD fed|VBN data|NNS and|CC interviewed|VBD one|CD representative|JJ voter|NN before|IN announcing|VBG a|DT result|NN that|WDT perfectly|RB reflected|VBD what|WP would|MD have|VB happened|VBN had|VBN the|DT election|NN been|VBN held|VBN </s>|S_END
+<s>|S_START in|IN real|JJ life|NN americans|NNS still|RB form|NN long|RB lines|VBZ to|TO vote|VB but|CC the|DT fantasy|JJ is|VBZ not|RB so|RB absurd|JJ </s>|S_END
+<s>|S_START a|DT group|NN of|IN datahungry|NN forecasters|NNS have|VBP recently|RB become|VBN rather|RB good|JJ at|IN predicting|VBG what|WP will|MD happen|VB on|IN election|NN day|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT most|RBS wellknown|JJ of|IN this|DT bunch|NN is|VBZ nate|JJ silver|NN a|DT blogger|NN for|IN the|DT new|JJ york|NN time|NN </s>|S_END
+<s>|S_START after|IN plugging|VBG this|DT year’s|JJ data|NNS into|IN his|PRP$ statistical|JJ model|NN mr|NN silver|NN predicted|VBD a|DT large|JJ electoralcollege|NN victory|NN for|IN barack|NN obama|NN </s>|S_END
+<s>|S_START the|DT forecast|NN was|VBD so|RB out|IN of|IN step|NN with|IN the|DT conventional|JJ wisdom|NN that|WDT the|DT race|NN was|VBD tight|JJ that|IN some|DT accused|VBN him|PRP of|IN liberal|JJ bia|NN </s>|S_END
+<s>|S_START in|IN fact|NN he|PRP underestimated|VBD mr|NN obama’s|NNS performance|NN </s>|S_END
+<s>|S_START but|CC he|PRP got|VBD all|PDT 50|CD states|NNS right|RB compared|VBN with|IN 49|CD in|IN 2008|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START like|IN asimov’s|JJ computer|NN the|DT soothsayers|NNS analyse|VBP reams|NNS of|IN data|NNS but|CC they|PRP do|VBP not|RB settle|VB for|IN one|CD interview|NN </s>|S_END
+<s>|S_START their|PRP$ models|NNS rely|RB on|IN the|DT many|JJ state|NN polls|NNS released|VBN each|DT week|NN </s>|S_END
+<s>|S_START these|DT are|VBP aggregated|VBN and|CC weighted|VBN to|TO form|NN a|DT picture|NN of|IN the|DT electorate|NN </s>|S_END
+<s>|S_START ome|NN in|IN the|DT media|NNS seem|VBP put|VBN out|RP by|IN the|DT forecasters’|NNP success|NN as|IN it|PRP devalues|VBZ their|PRP$ own|JJ analysis|NN full|JJ as|IN it|PRP is|VBZ of|IN exciting|VBG but|CC often|RB trivial|JJ narrative|JJ not|RB dull|JJ regression|NN analysi|NN </s>|S_END
+<s>|S_START with|IN the|DT boffins|NNS in|IN the|DT ascendant|NN the|DT future|NN of|IN reporting|VBG may|MD be|VB more|RBR boring|VBG </s>|S_END
+<s>|S_START but|CC it|PRP should|MD also|RB be|VB more|RBR accurate|JJ </s>|S_END
+</p>|P_END
+

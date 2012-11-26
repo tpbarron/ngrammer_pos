@@ -1,0 +1,146 @@
+<p>|P_START
+<s>|S_START news|NN flash|NN </s>|S_END
+<s>|S_START president|NN obama|VBD is|VBZ not|RB the|DT one|CD pulling|VBG the|DT strings|NNS when|WRB it|PRP comes|VBZ to|TO moving|VBG the|DT market|NN </s>|S_END
+<s>|S_START concerns|NNS about|IN europe|NN earnings|NNS the|DT fiscal|JJ cliff|NN and|CC monetary|JJ policy|NN are|VBP far|RB more|RBR important|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT opinions|NNS expressed|VBN in|IN this|DT commentary|JJ are|VBP solely|RB those|DT of|IN paul|JJ r|NN la|NN monica|NN </s>|S_END
+<s>|S_START other|JJ than|IN time|NN warner|NN the|DT parent|NN of|IN cnnmoney|NN and|CC abbott|NN laboratories|NNS la|VBP monica|NN does|VBZ not|RB own|VB positions|NNS in|IN any|DT individual|JJ stocks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT market|NN plunged|VBD wednesday|NN and|CC many|JJ on|IN wall|NN street|NN were|VBD quick|JJ to|TO point|NN the|DT finger|NN at|IN president|NN obama|NN </s>|S_END
+<s>|S_START the|DT huge|JJ slide|NN clearly|RB must|MD have|VB been|VBN investors|NNS way|NN of|IN showing|NN how|WRB disappointed|JJ they|PRP were|VBD that|IN mitt|NN romney|NN did|VBD not|RB win|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS overly|RB simplistic|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sure|RB a|DT romney|NN victory|NN would|MD have|VB likely|JJ been|VBN cheered|VBN </s>|S_END
+<s>|S_START he|PRP was|VBD viewed|VBN by|IN market|NN strategists|NNS as|IN the|DT more|RBR marketfriendly|RB candidate|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START profits|NNS are|VBP going|VBG to|TO suffer|VB because|IN of|IN a|DT lack|NN of|IN confidence|NN </s>|S_END
+<s>|S_START there|EX is|VBZ a|DT huge|JJ amount|NN of|IN cash|NN on|IN the|DT sidelines|NNS waiting|VBG to|TO be|VB deployed|VBN and|CC thats|NNS not|RB going|VBG to|TO happen|VB now|RB said|VBD george|NN schwartz|NN president|NN of|IN schwartz|NN investment|NN counsel|NN inc|NN and|CC manager|NN of|IN the|DT ave|NN maria|NN family|NN of|IN mutual|JJ funds|NNS in|IN bloomfield|NN hills|NNS mich|WDT the|DT election|NN was|VBD an|DT opportunity|NN to|TO make|VB some|DT good|JJ changes|NNS on|IN taxes|NNS and|CC other|JJ things|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS a|DT valid|JJ point|NN </s>|S_END
+<s>|S_START i|PRP also|RB think|VBP its|PRP$ fair|JJ to|TO say|VB that|IN the|DT pummeling|NN of|IN bank|NN of|IN america|NN bac|NN goldman|NN sachs|NNS gs|NNS jpmorgan|VBP chase|NN jpm|NN citigroup|NN c|NN morgan|NN stanley|NN ms|NNS and|CC other|JJ big|JJ banks|NNS wednesday|NN can|MD be|VB attributed|VBN to|TO obamas|NNS reelection|NN </s>|S_END
+<s>|S_START doddfrank|NN is|VBZ here|RB to|TO stay|VB and|CC that|IN definitely|RB could|MD hurt|VB wall|JJ streets|NNS profits|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC stocks|NNS have|VBP been|VBN due|JJ for|IN a|DT big|JJ slump|NN for|IN awhile|NN </s>|S_END
+<s>|S_START even|RB after|IN a|DT down|RB month|NN in|IN october|NN the|DT market|NN was|VBD still|RB sitting|VBG on|IN decent|NN gains|NNS for|IN the|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC with|IN the|DT election|NN now|RB mercifully|RB behind|IN us|PRP investors|NNS can|MD once|RB again|RB focus|VBZ on|IN many|JJ of|IN the|DT challenges|NNS facing|VBG stocks|NNS </s>|S_END
+<s>|S_START i|PRP think|VBP thats|NNS a|DT big|JJ reason|NN why|WRB stocks|NNS were|VBD down|RB a|DT bit|NN thursday|NN instead|RB of|IN enjoying|VBG a|DT kneejerk|NN rebound|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+</p>|P_END
+
+<p>|P_START
+<s>|S_START consider|NN that|DT futures|NNS were|VBD actually|RB flattish|JJ in|IN very|RB early|JJ trading|NN wednesday|NN </s>|S_END
+<s>|S_START initially|RB there|EX was|VBD no|DT obama|NN selloff|IN in|IN the|DT cards|NNS </s>|S_END
+<s>|S_START but|CC futures|NNS tanked|VBD after|IN ecb|NN president|NN mario|NN draghi|NN made|VBD a|DT speech|NN in|IN which|WDT he|PRP noted|VBD that|IN the|DT european|JJ debt|NN crisis|NN was|VBD starting|VBG to|TO impact|VB germany|NN </s>|S_END
+<s>|S_START that|DT set|VBN the|DT tone|NN for|IN an|DT ugly|JJ market|NN open|JJ and|CC the|DT selling|NN got|VBD worse|NN as|IN the|DT day|NN progressed|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT makes|VBZ sense|NN </s>|S_END
+<s>|S_START europe|NN is|VBZ a|DT disaster|NN </s>|S_END
+<s>|S_START and|CC draghi|VBP would|MD have|VB said|VBN the|DT same|JJ thing|NN about|IN the|DT continent|NN if|IN romney|NN had|VBD won|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START greece|NN is|VBZ still|RB a|DT problem|NN </s>|S_END
+<s>|S_START spain|NN and|CC italy|RB are|VBP a|DT problem|NN </s>|S_END
+<s>|S_START but|CC investors|NNS were|VBD thinking|VBG at|IN least|JJS we|PRP have|VBP strength|NN in|IN germany|NN </s>|S_END
+<s>|S_START now|RB it|PRP appears|VBZ that|IN germany|NN has|VBZ a|DT cold|JJ said|VBD matt|NN lifson|NN a|DT senior|JJ foreign|JJ exchange|NN trader|NN and|CC market|NN analyst|NN with|IN cambridge|NN mercantile|IN group|NN in|IN princeton|NN nj|NN lifson|NN said|VBD that|IN he|PRP thinks|VBZ only|RB about|IN 25|CD of|IN wednesdays|NNS selloff|IN was|VBD really|RB due|JJ to|TO obamas|NNS reelection|NN and|CC the|DT rest|NN was|VBD about|IN europe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD germanys|NNS economy|NN shows|VBZ signs|NNS of|IN slowing|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC europe|VBP isnt|NN the|DT only|JJ issue|NN </s>|S_END
+<s>|S_START concerns|NNS about|IN chinas|NNS economy|NN dont|NN help|NN matters|NNS </s>|S_END
+<s>|S_START as|IN a|DT result|NN investors|NNS are|VBP worried|VBN about|IN weak|JJ profits|NNS </s>|S_END
+<s>|S_START even|RB market|NN phenom|NN apple|NN aapl|NN is|VBZ now|RB in|IN bear|JJ territory|NN as|IN investors|NNS realize|VBP that|IN it|PRP is|VBZ mortal|JJ </s>|S_END
+<s>|S_START a|DT challenging|NN global|JJ economy|NN will|MD lead|VB to|TO more|JJR sluggish|JJ growth|NN for|IN all|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN the|DT election|NN over|IN people|NNS are|VBP looking|VBG again|RB at|IN the|DT inadequacies|NNS of|IN earnings|NNS and|CC the|DT reality|NN of|IN the|DT difficulties|NNS in|IN europe|NN and|CC the|DT rest|NN of|IN the|DT global|JJ economy|NN said|VBD daniel|NN alpert|NN a|DT managing|VBG director|NN with|IN westwood|NN capital|NN in|IN new|JJ york|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START theres|NNS also|RB those|DT looming|VBG tax|NN hikes|NNS and|CC massive|JJ spending|NN cuts|NNS in|IN the|DT us|PRP at|IN the|DT end|NN of|IN the|DT year|NN </s>|S_END
+<s>|S_START the|DT fact|NN that|IN nothing|NN has|VBZ changed|VBN in|IN washington|NN obama|NN in|IN the|DT white|JJ house|NN elephants|NNS controlling|VBG the|DT house|NN and|CC donkeys|NNS with|IN the|DT majority|NN in|IN the|DT senate|NN is|VBZ the|DT worst|JJS case|NN scenario|NN for|IN investors|NNS </s>|S_END
+<s>|S_START no|DT party|NN has|VBZ a|DT clear|JJ mandate|NN to|TO fix|VB the|DT budget|NN and|CC deficit|NN quagmire|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC even|RB if|IN romney|NN had|VBD won|VBN there|RB would|MD have|VB been|VBN little|JJ reason|NN to|TO expect|VB that|IN the|DT fiscal|JJ cliff|NN could|MD be|VB resolved|VBN quickly|RB and|CC favorably|RB unless|IN republicans|NNS also|RB won|VBD more|JJR seats|NNS in|IN the|DT senate|NN </s>|S_END
+<s>|S_START in|IN other|JJ words|NNS investors|NNS were|VBD likely|JJ to|TO wake|VB up|RP to|TO lingering|NN uncertainty|NN wednesday|NN no|DT matter|NN what|WP the|DT outcome|NN was|VBD in|IN the|DT race|NN for|IN president|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT markets|NNS attention|NN has|VBZ to|TO revert|VB immediately|RB to|TO the|DT fiscal|JJ cliff|NN </s>|S_END
+<s>|S_START that|DT would|MD have|VB happened|VBN regardless|NN of|IN who|WP won|NN the|DT election|NN said|VBD david|JJ joy|NN chief|NN market|NN strategist|NN with|IN ameriprise|NN financial|JJ in|IN boston|NN </s>|S_END
+<s>|S_START this|DT market|NN downturn|NN could|MD be|VB a|DT buying|NN opportunity|NN but|CC theres|NNS no|DT need|NN for|IN investors|NNS to|TO be|VB a|DT hero|NN just|RB yet|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD what|WP obamas|RB win|VBP means|NNS for|IN fiscal|JJ cliff|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START exactly|RB </s>|S_END
+<s>|S_START the|DT rush|NN into|IN treasury|NN bonds|NNS wednesday|NN was|VBD another|DT sign|NN that|IN nervous|JJ investors|NNS are|VBP more|RBR interested|JJ in|IN supposedly|RB safer|JJR assets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ like|IN a|DT bad|JJ karate|NN kid|VBD movie|NN </s>|S_END
+<s>|S_START risk|NN on|IN </s>|S_END
+<s>|S_START risk|NN off|IN </s>|S_END
+<s>|S_START risk|NN on|IN </s>|S_END
+<s>|S_START risk|NN off|IN said|VBD lifson|NN </s>|S_END
+<s>|S_START right|RB now|RB its|PRP$ risk|NN off|IN again|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START investors|NNS are|VBP likely|JJ to|TO be|VB on|IN pins|NNS and|CC needles|NNS until|IN the|DT end|NN of|IN the|DT year|NN unless|IN a|DT fiscal|JJ cliff|NN deal|NN is|VBZ reached|VBN </s>|S_END
+<s>|S_START president|NN obama|VBD deserves|NNS some|DT of|IN the|DT blame|NN for|IN that|DT </s>|S_END
+<s>|S_START but|CC not|RB all|DT </s>|S_END
+<s>|S_START its|PRP$ politics|NNS as|IN usual|JJ thats|NNS the|DT problem|NN </s>|S_END
+<s>|S_START not|RB the|DT fact|NN that|IN obama|NN beat|NN romney |NN and|CC if|IN congress|NN and|CC the|DT white|JJ house|NN merely|RB agree|VBP on|IN a|DT stopgap|NN measure|NN regarding|VBG taxes|NNS and|CC spending|NN cuts|NNS that|WDT doesnt|NN solve|VBP the|DT budget|NN woes|VBZ for|IN good|JJ stocks|NNS are|VBP probably|RB going|VBG to|TO remain|VB on|IN a|DT rocky|JJ path|NN throughout|IN 2013|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dangling|VBG but|CC not|RB falling|VBG off|RP the|DT cliff|NN is|VBZ a|DT big|JJ fear|NN </s>|S_END
+<s>|S_START it|PRP would|MD just|RB prolong|VB the|DT inevitable|JJ said|VBD matt|NN santini|NN a|DT portfolio|NN manager|NN with|IN cls|NNS investments|NNS in|IN omaha|NN </s>|S_END
+<s>|S_START if|IN there|EX is|VBZ only|RB a|DT temporary|JJ reprieve|NN the|DT market|NN would|MD realize|VB that|IN is|VBZ not|RB a|DT concrete|JJ change|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START finally|RB id|VBD be|VB remiss|JJ if|IN i|PRP didnt|VBP mention|NN the|DT role|NN that|IN central|JJ banks|NNS have|VBP played|VBN in|IN helping|NN to|TO pump|VB up|RP stocks|NNS this|DT year|NN </s>|S_END
+<s>|S_START qe3|NNP from|IN the|DT federal|JJ reserve|NN and|CC a|DT variety|NN of|IN bond|NN buying|VBG programs|NNS from|IN the|DT european|JJ central|JJ bank|NN have|VBP helped|VBN mask|NN the|DT weakness|NN in|IN the|DT global|JJ economy|NN </s>|S_END
+<s>|S_START but|CC this|DT story|NN is|VBZ getting|VBG old|JJ </s>|S_END
+<s>|S_START investors|NNS looking|VBG ahead|RB to|TO 2013|CD may|MD be|VB slowly|RB coming|VBG to|TO grips|NNS with|IN the|DT fact|NN that|IN stocks|NNS cant|VBP keep|VB climbing|VBG solely|RB due|JJ to|TO low|JJ interest|NN rates|NNS and|CC loose|VB monetary|JJ policy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START people|NNS had|VBD been|VBN acting|VBG as|IN if|IN the|DT market|NN depended|VBD on|IN who|WP won|NN the|DT election|NN </s>|S_END
+<s>|S_START but|CC there|EX is|VBZ now|RB going|VBG to|TO be|VB a|DT broadbased|VBN realization|NN about|IN how|WRB fake|NN this|DT rally|NN has|VBZ beensaid|VBN jeffrey|NN sica|NN president|NN and|CC chief|NN investment|NN officer|NN of|IN sica|NN wealth|NN management|NN in|IN morristown|NN nj|NN mario|NN draghi|NN and|CC ben|NN bernanke|NN have|VBP been|VBN the|DT puppet|NN masters|NNS behind|IN this|DT with|IN all|DT the|DT liquidity|NN they|PRP have|VBP supplied|VBN </s>|S_END
+</p>|P_END
+

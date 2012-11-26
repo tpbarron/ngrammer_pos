@@ -1,0 +1,164 @@
+<p>|P_START
+<s>|S_START in|IN the|DT early|JJ afternoon|NN of|IN august|NN 18th|CD 2008|CD a|DT reconnaissance|NN unit|NN of|IN about|RB 100|CD french|NN paratroopers|NNS accompanied|VBD by|IN a|DT small|JJ number|NN of|IN afghan|NN and|CC american|JJ soldiers|NNS was|VBD ambushed|VBN by|IN a|DT similarly|RB sized|VBN taliban|NN force|NN in|IN the|DT uzbin|NN valley|NN not|RB far|RB from|IN kabul|JJ </s>|S_END
+<s>|S_START ten|RB french|JJ soldiers|NNS were|VBD killed|VBN in|IN fighting|NN that|IN continued|VBN into|IN the|DT night—frances|NNS biggest|JJS loss|NN since|IN it|PRP sent|VBD soldiers|NNS to|TO afghanistan|VB in|IN 2002|CD </s>|S_END
+<s>|S_START but|CC it|PRP might|MD have|VB been|VBN avoided|VBN had|VBD the|DT unit|NN had|VBD a|DT single|JJ aerialrobot|NN scout|IN says|NNS gérard|JJ de|NN boisboissel|NN a|DT specialist|NN on|IN military|JJ robots|NNS at|IN the|DT french|JJ armys|NNS saintcyr|VBP military|JJ academy|NN </s>|S_END
+<s>|S_START that|DT assessment|NN shared|VBD by|IN many|JJ led|VBN to|TO a|DT retooling|NN of|IN frances|NNS armed|VBN force|NN </s>|S_END
+<s>|S_START today|NN drones|NNS also|RB called|VBN unmanned|VBN aerial|JJ vehicles|NNS uavs|NNS routinely|RB accompany|JJ even|RB small|JJ french|NN unit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START more|JJR broadly|RB fighting|VBG forces|NNS and|CC intelligence|NN services|NNS worldwide|VBP are|VBP equipping|VBG themselves|PRP with|IN all|DT manner|NN of|IN robots|NNS that|WDT operate|VBP on|IN land|NN and|CC sea|NN and|CC in|IN the|DT air|NN </s>|S_END
+<s>|S_START the|DT conduct|NN of|IN war|NN is|VBZ being|VBG transformed—and|JJ largely|RB it|PRP seems|VBZ to|TO the|DT wests|NNS advantage|NN </s>|S_END
+<s>|S_START but|CC knotty|RB ethical|JJ quandaries|NNS are|VBP cropping|VBG up|RP as|IN the|DT mechanical|JJ guts|NNS electronic|JJ sensors|NNS and|CC digital|JJ brains|NNS of|IN robots|NNS continue|VBP to|TO improve|VB </s>|S_END
+<s>|S_START ome|NN fear|NN that|IN robots|NNS which|WDT are|VBP ingeniously|RB mobile|JJ and|CC can|MD collect|VB and|CC process|NN huge|JJ quantities|NNS of|IN data|NNS make|VBP it|PRP too|RB easy|JJ to|TO launch|VB attack|NN </s>|S_END
+<s>|S_START others|NNS worry|VBP whether|IN robots|NNS can|MD be|VB trusted|VBN to|TO make|VB their|PRP$ own|JJ decisions|NNS while|IN in|IN combat|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dragonflies|NNS fleas|VBD and|CC dog|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START military|JJ robots|NNS come|VBP in|IN an|DT astonishing|NN range|NN of|IN shapes|NNS and|CC size|VB </s>|S_END
+<s>|S_START delfly|RB a|DT dragonflyshaped|JJ surveillance|NN drone|NN built|VBN at|IN the|DT delft|NN university|NN of|IN technology|NN in|IN the|DT netherlands|NNS weighs|VBZ less|JJR than|IN a|DT gold|NN wedding|VBG ring|NN camera|NN included|VBD </s>|S_END
+<s>|S_START at|IN the|DT other|JJ end|NN of|IN the|DT scale|NN is|VBZ americas|NNS biggest|JJS and|CC fastest|JJS drone|NN the|DT $|$ 15m|CD avenger|JJR the|DT first|JJ of|IN which|WDT recently|RB began|VBD testing|NN in|IN afghanistan|NN </s>|S_END
+<s>|S_START it|PRP uses|VBZ a|DT jet|NN engine|NN to|TO carry|VB up|RP to|TO 27|CD tonnes|NNS of|IN bombs|NNS sensors|NNS and|CC other|JJ types|NNS of|IN payload|NN at|IN more|JJR than|IN 740kph|CD 460mph|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN the|DT ground|NN robots|NNS range|VBP from|IN trucksized|JJ to|TO tiny|JJ </s>|S_END
+<s>|S_START terramax|NN a|DT robotics|NN kit|NN made|VBD by|IN oshkosh|JJ defense|NN based|VBN in|IN wisconsin|NN turns|NNS military|JJ lorries|NNS or|CC armoured|VBN vehicles|NNS into|IN remotely|RB controlled|JJ or|CC autonomous|JJ machine|NN </s>|S_END
+<s>|S_START and|CC smaller|JJR robotic|JJ beasties|NNS are|VBP hopping|VBG crawling|VBG and|CC running|VBG into|IN action|NN as|IN three|CD models|NNS built|VBN by|IN boston|NN dynamics|NNS a|DT spinout|NN from|IN the|DT massachusetts|NNS institute|VBP of|IN technology|NN mit|NN illustrate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN jabbing|NN the|DT ground|NN with|IN a|DT gaspowered|VBN piston|NN the|DT sand|NN flea|NN can|MD leap|VB through|IN a|DT window|NN or|CC onto|IN a|DT roof|NN nine|CD metres|NNS up|IN </s>|S_END
+<s>|S_START gyrostabilisers|NNS provide|VBP smooth|JJ inair|NN filming|VBG and|CC landing|VBG </s>|S_END
+<s>|S_START the|DT 5kg|JJ robot|NN then|RB rolls|VBZ along|IN on|IN wheels|NNS until|IN another|DT hop|NN is|VBZ needed—to|JJ jump|NN up|IN some|DT stairs|NNS perhaps|RB or|CC to|TO a|DT rooftop|NN across|IN the|DT street|NN </s>|S_END
+<s>|S_START another|DT robot|NN rise|NN resembles|NNS a|DT giant|JJ cockroach|NN and|CC uses|NNS six|CD legs|NNS tipped|VBD with|IN short|JJ velcrolike|NN spikes|VBZ to|TO climb|VB coarse|NN wall|NN </s>|S_END
+<s>|S_START biggest|JJS of|IN all|DT is|VBZ the|DT ls3|NNP pictured|VBD above|IN a|DT fourlegged|JJ doglike|NN robot|NN that|WDT uses|VBZ computer|NN vision|NN to|TO trot|VB behind|IN a|DT human|JJ over|IN rough|JJ terrain|NN carrying|VBG more|JJR than|IN 180kg|CD of|IN supplie|NN </s>|S_END
+<s>|S_START the|DT firm|NN says|VBZ it|PRP could|MD be|VB deployed|VBN within|IN three|CD year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START demand|NN for|IN land|NN robots|NNS also|RB known|VBN as|IN unmanned|VBN ground|NN vehicles|NNS ugvs|VBZ began|JJ to|TO pick|VB up|RP a|DT decade|NN ago|IN after|IN americanled|VBN forces|NNS knocked|VBD the|DT taliban|NN from|IN power|NN in|IN afghanistan|NN </s>|S_END
+<s>|S_START oldiers|NNS hunting|VBG osama|NN bin|NN laden|NN and|CC his|PRP$ alqaeda|NN fighters|NNS in|IN the|DT hindu|NN kush|NN were|VBD keen|VBN to|TO send|VB robot|NN scouts|NNS into|IN caves|NNS first|JJ </s>|S_END
+<s>|S_START remotecontrolled|VBD ground|VBN robots|NNS then|RB proved|VBD enormously|RB helpful|JJ in|IN the|DT discovery|NN and|CC removal|NN of|IN makeshift|NN roadside|NN bombs|NNS in|IN afghanistan|NN iraq|NN and|CC elsewhere|RB </s>|S_END
+<s>|S_START visiongain|NN a|DT research|NN firm|NN reckons|NNS a|DT total|NN of|IN $|$ 689m|CD will|MD be|VB spent|VBN on|IN ground|NN robots|NNS this|DT year|NN </s>|S_END
+<s>|S_START the|DT ten|VBN biggest|JJS buyers|NNS in|IN descending|VBG order|NN are|VBP america|NN followed|VBN by|IN israel|NN a|DT distant|JJ second|JJ and|CC britain|NN germany|NN china|NN south|NN korea|NN singapore|NN australia|NN france|NN and|CC canada|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START robots|NNS capabilities|NNS have|VBP steadily|RB improved|VBN </s>|S_END
+<s>|S_START upload|NN a|DT mugshot|NN into|IN an|DT sugv|NN a|DT briefcasesized|JJ robot|NN than|IN runs|NNS on|IN caterpillar|JJ tracks|NNS and|CC it|PRP can|MD identify|VB a|DT man|NN walking|VBG in|IN a|DT crowd|NN and|CC follow|VB him|PRP </s>|S_END
+<s>|S_START its|PRP$ maker|NN irobot|NN another|DT mit|NN spinout|IN is|VBZ best|JJS known|VBN for|IN its|PRP$ robot|NN vacuum|NN cleaner|NN </s>|S_END
+<s>|S_START its|PRP$ latest|JJS military|JJ robot|NN firstlook|NN is|VBZ a|DT smaller|JJR device|NN that|IN also|RB runs|VBZ on|IN track|NN </s>|S_END
+<s>|S_START equipped|VBD with|IN four|CD cameras|NNS it|PRP is|VBZ designed|VBN to|TO be|VB thrown|VBN through|IN windows|NNS or|CC over|IN wall|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT throwable|JJ reconnaissance|NN robot|NN the|DT scout|NN xt|NN throwbot|NN made|VBD by|IN recon|NN robotics|NNS based|VBN in|IN edina|NN minnesota|NN was|VBD one|CD of|IN the|DT stars|NNS of|IN the|DT ground|NN robotics|NNS capabilities|NNS conference|NN held|VBD in|IN san|NN diego|NN in|IN march|NN </s>|S_END
+<s>|S_START haped|VBD like|IN a|DT twoheaded|JJ hammer|NN with|IN wheels|NNS on|IN each|DT head|NN the|DT scout|NN xt|NN has|VBZ the|DT heft|NN of|IN a|DT grenade|NN and|CC can|MD be|VB thrown|VBN through|IN glass|NN window|NN </s>|S_END
+<s>|S_START wheel|NN spikes|VBZ provide|VB traction|NN on|IN steep|NN or|CC rocky|JJ surface|NN </s>|S_END
+<s>|S_START in|IN february|JJ the|DT us|PRP army|VBP ordered|VBN 1100|CD scout|IN xts|NNS for|IN $|$ 139m|CD </s>|S_END
+<s>|S_START another|DT version|NN being|VBG developed|VBN with|IN the|DT us|PRP navy|VBP can|MD be|VB taken|VBN to|TO a|DT ship|NN inside|NN a|DT small|JJ aquatic|JJ robot|NN and|CC will|MD use|VB magnetic|JJ wheels|NNS to|TO climb|VB up|RP the|DT hull|NN and|CC onto|IN the|DT deck|NN says|VBZ alan|NN bignall|NN recons|NNS bo|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB more|JJR exotic|JJ designs|NNS are|VBP in|IN development|NN </s>|S_END
+<s>|S_START darpa|NN the|DT research|NN arm|NN of|IN americas|NNS department|NN of|IN defence|NN is|VBZ funding|VBG the|DT development|NN of|IN small|JJ soft|JJ robots|NNS that|WDT move|NN like|IN jerky|NN slithering|VBG blob|NN </s>|S_END
+<s>|S_START eatr|NN another|DT darpa|NN project|NN is|VBZ a|DT foraging|NN robot|NN that|WDT gathers|NNS leaves|VBZ and|CC wood|NN for|IN fuel|NN and|CC then|RB burns|VBZ it|PRP to|TO generate|VB electricity|NN </s>|S_END
+<s>|S_START researchers|NNS at|IN italys|NNS santanna|NNS school|NN of|IN advanced|JJ studies|NNS in|IN pisa|NN have|VBP designed|VBN a|DT snakelike|NN aquatic|JJ robot|NN </s>|S_END
+<s>|S_START and|CC a|DT small|JJ helicopter|NN drone|NN called|VBN the|DT pelican|NN designed|VBN by|IN german|NN and|CC american|JJ companies|NNS could|MD remain|VB aloft|JJ for|IN weeks|NNS powered|VBD by|IN energy|NN from|IN a|DT groundbased|VBN laser|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT this|DT technology|NN may|MD not|RB always|RB provide|VB a|DT meaningful|JJ advantage|NN </s>|S_END
+<s>|S_START this|DT year|NN the|DT us|PRP marine|VBP corps|NNS will|MD start|VB testing|NN boston|NN dynamicss|NN fourlegged|VBD beast|JJ of|IN burden|NN the|DT ls3|NNP </s>|S_END
+<s>|S_START its|PRP$ elaborate|JJ design|NN keeps|NNS it|PRP upright|VBD even|RB on|IN rocky|JJ ground|NN and|CC it|PRP is|VBZ very|RB difficult|JJ to|TO knock|VB over|IN </s>|S_END
+<s>|S_START but|CC its|PRP$ petrol|NN engine|NN makes|VBZ it|PRP as|RB loud|VBD as|IN a|DT lawnmower|NN </s>|S_END
+<s>|S_START the|DT taliban|NN have|VBP a|DT much|RB stealthier|JJR system|NN notes|NNS a|DT former|JJ french|NN army|NN lieutenant|NN </s>|S_END
+<s>|S_START their|PRP$ mules|NNS quietly|RB eat|JJ gra|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT slippery|JJ slope|NN to|TO war|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT larger|JJR worry|NN is|VBZ that|IN countries|NNS with|IN highperformance|NN military|JJ robots|NNS may|MD be|VB more|RBR inclined|VBN to|TO launch|VB attack|NN </s>|S_END
+<s>|S_START robots|NNS protect|VBP soldiers|NNS and|CC improve|VB their|PRP$ odds|NNS of|IN succe|NN </s>|S_END
+<s>|S_START using|VBG drones|NNS sidesteps|NNS the|DT tricky|JJ politics|NNS of|IN putting|VBG boots|NNS on|IN foreign|JJ soil|NN </s>|S_END
+<s>|S_START in|IN the|DT past|JJ eight|NN years|NNS drone|NN strikes|NNS by|IN americas|NNS central|JJ intelligence|NN agency|NN cia|NN have|VBP killed|VBN more|RBR than|IN 2400|CD people|NNS in|IN pakistan|JJ including|NN 479|CD civilians|NNS according|VBG to|TO the|DT bureau|NN for|IN investigative|JJ journalism|NN in|IN london|NN </s>|S_END
+<s>|S_START technological|JJ progress|NN appears|VBZ to|TO have|VB contributed|VBN to|TO an|DT increase|NN in|IN the|DT frequency|NN of|IN strike|NN </s>|S_END
+<s>|S_START in|IN 2005|CD cia|NN drones|NNS struck|VBP targets|NNS in|IN pakistan|NN three|CD times|NNS last|JJ year|NN there|RB were|VBD 76|CD strikes|NNS there|RB </s>|S_END
+<s>|S_START do|VBP armed|VBN robots|NNS make|VBP killing|VBG too|RB easy|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START not|RB necessarily|RB </s>|S_END
+<s>|S_START when|WRB mary|JJ cummings|NNS a|DT former|JJ us|PRP navy|JJ pilot|NN stopped|VBD flying|VBG f18|NNP fighter|NN jets|NNS in|IN 1997|CD there|EX were|VBD no|DT video|NN links|VBZ between|IN cockpits|NNS and|CC command|NN centres|NNS and|CC even|RB radio|NN contact|NN was|VBD patchy|JJ at|IN time|NN </s>|S_END
+<s>|S_START as|IN a|DT result|NN pilots|NNS often|RB made|VBN their|PRP$ own|JJ calls|NNS on|IN whether|IN or|CC not|RB to|TO strike|VB </s>|S_END
+<s>|S_START todays|NNS drones|NNS blimps|NNS unmanned|VBD boats|NNS and|CC reconnaissance|NN robots|NNS collect|VBP and|CC transmit|NN so|IN much|RB data|NNS she|PRP says|VBZ that|IN western|JJ countries|NNS now|RB practise|VBP “warfare|JJ by|IN committee”|JJ </s>|S_END
+<s>|S_START government|NN lawyers|NNS and|CC others|NNS in|IN operation|NN rooms|NNS monitor|NN video|NN feeds|NNS from|IN robots|NNS to|TO call|VB off|RP strikes|NNS that|WDT are|VBP illegal|JJ or|CC would|MD “look|VB bad|JJ on|IN cnn”|JJ says|NNS ms|NNS cummings|NNS who|WP is|VBZ now|RB a|DT robotics|NNS researcher|NN at|IN mit|NN </s>|S_END
+<s>|S_START and|CC unlike|IN pilots|NNS at|IN the|DT scene|NN these|DT remote|NN observers|NNS are|VBP unaffected|VBN by|IN the|DT physical|JJ toil|NN of|IN flying|VBG a|DT jet|NN or|CC the|DT adrenalin|NN rush|NN of|IN combat|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN march|NN britains|NNS royal|JJ artillery|NN began|VBD buying|VBG robotic|JJ missiles|NNS designed|VBN by|IN mbda|NN a|DT french|NN company|NN </s>|S_END
+<s>|S_START the|DT fire|NN shadow|NN is|VBZ a|DT “loitering|JJ munition”|NN capable|JJ of|IN travelling|NN 100km|CD more|JJR than|IN twice|NN the|DT maximum|NN range|NN of|IN a|DT traditional|JJ artillery|NN shell|NN </s>|S_END
+<s>|S_START it|PRP can|MD circle|VB in|IN the|DT sky|NN for|IN hours|NNS using|VBG sensors|NNS to|TO track|VB even|RB a|DT moving|NN target|NN </s>|S_END
+<s>|S_START a|DT human|NN operator|NN viewing|VBG a|DT video|NN feed|VBN then|RB issues|NNS an|DT instruction|NN to|TO attack|VB fly|RB elsewhere|RB to|TO find|VB a|DT better|JJR target|NN or|CC abort|NN the|DT mission|NN by|IN destroying|NN itself|PRP </s>|S_END
+<s>|S_START but|CC bypassing|VBG the|DT human|JJ operator|NN to|TO automate|VB attacks|NNS would|MD be|VB technologically|RB in|IN the|DT “realm|NN of|IN feasibility”|NNP an|DT mbda|NN spokesman|NN say|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START could|MD the|DT “man|JJ in|IN the|DT loop”|NN be|VB removed|VBN from|IN robotic|JJ weapon|NN </s>|S_END
+<s>|S_START the|DT israel|NN defence|NN forces|NNS have|VBP installed|VBN “combat|JJ proven”|NN robot|NN machineguns|NNS along|IN the|DT countrys|NNS border|VBP </s>|S_END
+<s>|S_START when|WRB sensors|NNS detect|VBP an|DT intruder|NN the|DT barrel|NN pivots|NNS to|TO follow|VB him|PRP </s>|S_END
+<s>|S_START a|DT human|NN soldier|NN watching|VBG the|DT scene|NN remotely|RB via|IN a|DT fibreoptic|JJ link|NN decides|VBZ whether|IN or|CC not|RB to|TO issue|VB a|DT warning|VBG through|IN a|DT loudspeaker|NN or|CC press|NN the|DT fire|NN button|NN </s>|S_END
+<s>|S_START the|DT robot|NN sentry|NN the|DT samson|NN remote|NN weapon|NN station|NN could|MD function|VB without|IN human|JJ intervention|NN says|VBZ david|JJ ishai|NN of|IN rafael|NN its|PRP$ israeli|NN manufacturer|NN based|VBN in|IN haifa|NN </s>|S_END
+<s>|S_START but|CC he|PRP says|VBZ switching|VBG to|TO automatic|JJ mode|NN would|MD be|VB a|DT bad|JJ idea—and|NN illegal|JJ to|TO boot|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START traditional|JJ rules|NNS of|IN engagement|NN stipulate|NN that|WDT a|DT human|NN must|MD decide|VB if|IN a|DT weapon|NN is|VBZ to|TO be|VB fired|VBN </s>|S_END
+<s>|S_START but|CC this|DT restriction|NN is|VBZ starting|VBG to|TO come|VB under|IN pressure|NN </s>|S_END
+<s>|S_START already|RB defence|VBP planners|NNS are|VBP considering|VBG whether|IN a|DT drone|NN aircraft|NN should|MD be|VB able|JJ to|TO fire|VB a|DT weapon|NN based|VBN on|IN its|PRP$ own|JJ analysi|NN </s>|S_END
+<s>|S_START in|IN 2009|CD the|DT authors|NNS of|IN a|DT us|PRP air|NN force|NN report|NN suggested|VBD that|IN humans|NNS will|MD increasingly|RB operate|VB not|RB “in|JJ the|DT loop”|NN but|CC “on|NNP the|DT loop”|NNP monitoring|NN armed|VBD robots|NNS rather|RB than|IN fully|RB controlling|VBG them|PRP </s>|S_END
+<s>|S_START better|JJR artificial|JJ intelligence|NN will|MD eventually|RB allow|VB robots|NNS to|TO “make|VB lethal|JJ combat|NN decisions”|NN they|PRP wrote|VBD provided|VBN legal|JJ and|CC ethical|JJ issues|NNS can|MD be|VB resolved|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT report|NN on|IN the|DT matter|NN issued|VBD by|IN britains|NNS ministry|VBP of|IN defence|NN last|JJ year|NN argued|VBD that|IN if|IN a|DT drones|NNS control|NN system|NN takes|VBZ appropriate|NN account|NN of|IN the|DT law|NN on|IN armed|VBN conflicts|NNS basically|RB military|JJ necessity|NN humanity|NN proportionality|NN and|CC the|DT ability|NN to|TO distinguish|VB between|IN military|JJ targets|NNS and|CC civilians|NNS then|RB an|DT autonomous|JJ strike|NN could|MD meet|VB legal|JJ norm|NN </s>|S_END
+<s>|S_START testing|NN and|CC certifying|VBG such|JJ a|DT system|NN would|MD be|VB difficult|JJ </s>|S_END
+<s>|S_START but|CC the|DT authors|NNS concluded|VBD that|IN “as|JJ technology|NN matures…policymakers|NNS will|MD need|VB to|TO be|VB aware|JJ of|IN the|DT potential|JJ legal|JJ issues|NNS and|CC take|VB advice|NN at|IN a|DT very|RB early|JJ stage|NN of|IN any|DT new|JJ systems|NNS procurement|NN cycle”|-NONE- </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pressure|NN will|MD grow|VB for|IN armies|NNS to|TO automate|VB their|PRP$ robots|NNS if|IN only|RB so|RB machines|NNS can|MD shoot|VB before|IN being|VBG shot|NN says|VBZ jürgen|JJ altmann|NN of|IN the|DT technical|JJ university|NN of|IN dortmund|NN in|IN germany|NN and|CC a|DT founder|NN of|IN the|DT international|JJ committee|NN for|IN robot|NN arms|NNS control|NN an|DT advocacy|NN group|NN </s>|S_END
+<s>|S_START ome|NN robot|VBD weapons|NNS already|RB operate|VBP without|IN human|JJ operators|NNS to|TO save|VB precious|JJ second|JJ </s>|S_END
+<s>|S_START an|DT incoming|NN antiship|NN missile|NN detected|VBD even|RB a|DT dozen|NN miles|NNS away|RB can|MD be|VB safely|RB shot|JJ down|IN only|RB by|IN a|DT robot|NN says|VBZ frank|NN biemans|NNS head|NN of|IN sensing|VBG technologies|NNS for|IN the|DT goalkeeper|NN automatic|JJ shipdefence|NN cannons|NNS made|VBN by|IN thales|NNS nederland|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START admittedly|RB that|IN involves|NNS a|DT machine|NN destroying|VBG another|DT machine|NN </s>|S_END
+<s>|S_START but|CC as|IN human|JJ operators|NNS struggle|NN to|TO assimilate|VB the|DT information|NN collected|VBD by|IN robotic|JJ sensors|NNS decisionmaking|VBG by|IN robots|NNS seems|VBZ likely|JJ to|TO increase|VB </s>|S_END
+<s>|S_START this|DT might|MD be|VB a|DT good|JJ thing|NN says|VBZ ronald|NN arkin|NN a|DT roboticist|NN at|IN the|DT georgia|NN institute|NN of|IN technology|NN who|WP is|VBZ developing|VBG “ethics|NNS software”|-NONE- for|IN armed|VBN robot|NN </s>|S_END
+<s>|S_START by|IN crunching|NN data|NNS from|IN drone|NN sensors|NNS and|CC military|JJ databases|NNS it|PRP might|MD be|VB possible|JJ to|TO predict|VB for|IN example|NN that|WDT a|DT strike|NN from|IN a|DT missile|JJ could|MD damage|VB a|DT nearby|JJ religious|JJ building|NN </s>|S_END
+<s>|S_START clever|NN software|NN might|MD be|VB used|VBN to|TO call|VB off|RP attacks|NNS as|IN well|RB as|IN initiate|JJ them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT air|NN on|IN land|NN and|CC at|IN sea|NN military|JJ robots|NNS are|VBP proliferating|VBG </s>|S_END
+<s>|S_START but|CC the|DT revolution|NN in|IN military|JJ robotics|NNS does|VBZ have|VBP an|DT achilles|NNS heel|VBP notes|NNS emmanuel|NN goffi|NN of|IN the|DT french|JJ airforce|NN academy|NN in|IN salondeprovence|NN </s>|S_END
+<s>|S_START as|IN robots|NNS become|VBP more|RBR autonomous|JJ identifying|NN a|DT human|NN to|TO hold|VB accountable|JJ for|IN a|DT bloody|NN blunder|NN will|MD become|VB very|RB difficult|JJ he|PRP say|VBP </s>|S_END
+<s>|S_START hould|MD it|PRP be|VB the|DT robots|NNS programmer|NN designer|NN manufacturer|NN human|NN overseer|NN or|CC his|PRP$ superior|JJ </s>|S_END
+<s>|S_START it|PRP is|VBZ hard|RB to|TO say|VB </s>|S_END
+<s>|S_START the|DT backlash|NN from|IN a|DT deadly|RB and|CC wellpublicised|VBD mistake|NN may|MD be|VB the|DT only|JJ thing|NN that|WDT can|MD halt|VB the|DT rapid|JJ march|NN of|IN the|DT robot|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START credit|NN for|IN bottom|NN image|NN irobotcom|NN </s>|S_END
+</p>|P_END
+

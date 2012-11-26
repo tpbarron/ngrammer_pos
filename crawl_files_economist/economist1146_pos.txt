@@ -1,0 +1,11 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 37|CD gdp|NN $|$ 1926bn|CD ppp|CD $|$ 2505bn|CD inflation|NN 67|CD population|NN 1412m|CD gdp|NN per|IN head|NN $|$ 13650|CD ppp|CD $|$ 17750|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT countrys|NNS political|JJ tag|NN team|NN vladimir|NN putin|NN and|CC dmitry|NN medvedev|NN announced|VBD in|IN september|NN their|PRP$ intention|NN to|TO switch|VB jobs|NNS yet|RB again|RB another|DT farcical|JJ step|NN that|WDT has|VBZ kept|VBN the|DT presidency|NN and|CC prime|JJ ministership|NN shuffling|VBG between|IN the|DT two|CD </s>|S_END
+<s>|S_START the|DT actual|JJ election|NN in|IN march|NN will|MD be|VB a|DT formality|NN and|CC a|DT further|JJ sign|NN of|IN russias|NNS slide|VBP into|IN authoritarianism|NN </s>|S_END
+<s>|S_START public|JJ support|NN for|IN the|DT two|CD has|VBZ waned|VBN as|IN austerity|NN has|VBZ hurt|VBN living|VBG standards|NNS and|CC highlighted|VBD perennially|RB deep|VB corruption|NN </s>|S_END
+<s>|S_START economically|RB russias|VBD oilfuelled|VBN resurgence|NN will|MD continue|VB though|IN crude|JJ prices|NNS will|MD fall|VB </s>|S_END
+</p>|P_END
+

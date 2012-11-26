@@ -1,0 +1,33 @@
+<p>|P_START
+<s>|S_START tay|NN or|CC go|VB </s>|S_END
+<s>|S_START that|DT question|NN has|VBZ dogged|VBN deutsche|NN telekom|NN ever|RB since|IN regulators|NNS blocked|VBD the|DT german|NN company’s|VBZ sale|NN of|IN tmobile|NN usa|NN its|PRP$ american|JJ wireless|NN business|NN to|TO att|VB on|IN competition|NN grounds|NNS last|JJ year|NN </s>|S_END
+<s>|S_START now|RB the|DT germans|NNS have|VBP given|VBN an|DT answer|NN on|IN october|NN 3rd|CD deutsche|NN telekom|NN and|CC metropcs|NNS announced|VBD that|IN tmobile|JJ usa|NN would|MD merge|VB with|IN its|PRP$ smaller|JJR american|JJ rival|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START regulators|NNS are|VBP unlikely|RB to|TO stand|VB in|IN the|DT way|NN of|IN the|DT deal|NN which|WDT the|DT two|CD firms|NNS hope|VBP to|TO complete|VB by|IN mid2013|NNP </s>|S_END
+<s>|S_START together|RB they|PRP have|VBP almost|RB 43m|CD subscribers|NNS but|CC their|PRP$ combined|VBN share|NN of|IN the|DT wireless|NN market|NN will|MD still|RB be|VB less|JJR than|IN that|DT of|IN sprint|NN nextel|NN america’s|NNS thirdlargest|VBP player|NN see|NN chart|NN </s>|S_END
+<s>|S_START “this|NNS deal|VBP does|VBZ not|RB appear|VB to|TO trigger|VB any|DT regulatory|JJ tripwires”|NN says|VBZ paul|JJ gallant|NN of|IN guggenheim|NN partners|NNS an|DT investment|NN firm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC it|PRP should|MD trigger|VB plenty|NN of|IN benefits|NNS by|IN creating|VBG a|DT stronger|JJR competitor|NN for|IN att|NN and|CC verizon|NN wireless|NN which|WDT dominate|NN the|DT industry|NN </s>|S_END
+<s>|S_START the|DT new|JJ firm|NN to|TO be|VB called|VBN tmobile|JJ will|MD have|VB access|NN to|TO more|JJR precious|JJ wireless|NN spectrum|NN and|CC can|MD streamline|VB investment|NN in|IN a|DT superfast|NN 4g|CD network|NN </s>|S_END
+<s>|S_START it|PRP will|MD also|RB have|VB the|DT financial|JJ clout|NN to|TO promote|VB the|DT lowcost|JJS nocontract|NN call|NN plans|NNS that|WDT have|VBP boosted|VBN metropc|NN </s>|S_END
+<s>|S_START anford|NN c|NN bernstein|NN an|DT investment|NN bank|NN estimates|NNS that|WDT the|DT firm|NN will|MD have|VB almost|RB 30|CD of|IN this|DT part|NN of|IN the|DT market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT proposal|NN also|RB gives|VBZ deutsche|PRP telekom|VBP a|DT way|NN to|TO reduce|VB its|PRP$ exposure|NN to|TO america|VB though|IN it|PRP claims|VBZ it|PRP is|VBZ committed|VBN to|TO the|DT country|NN </s>|S_END
+<s>|S_START the|DT new|JJ firm|NN of|IN which|WDT the|DT germans|NNS will|MD get|VB 74|CD and|CC metropcs’s|JJ shareholders|NNS will|MD get|VB the|DT rest|NN plus|VBZ $|$ 15|CD billion|CD in|IN cash|NN will|MD use|VB metropcs’s|NNS stockmarket|NN listing|NN </s>|S_END
+<s>|S_START this|DT setup|NN will|MD eventually|RB allow|VB deutsche|PRP telekom|VB to|TO sell|VB shares|NNS without|IN losing|VBG control|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT big|JJ loser|NN from|IN all|DT this|DT is|VBZ likely|JJ to|TO be|VB sprint|JJ sandwiched|VBN between|IN att|NN and|CC verizon|NN which|WDT rule|NN the|DT high|JJ end|NN of|IN the|DT market|NN and|CC the|DT new|JJ tmobile|NN below|IN </s>|S_END
+<s>|S_START print|NN could|MD still|RB offer|VB to|TO buy|VB tmobile|JJ usa|NN for|IN a|DT fat|JJ premium|NN but|CC the|DT germans|NNS seem|VBP keen|VBN on|IN the|DT fit|NN with|IN metropc|NN </s>|S_END
+<s>|S_START it|PRP could|MD make|VB a|DT hostile|JJ bid|NN for|IN metropcs|NNS but|CC such|JJ a|DT battle|NN would|MD be|VB hard|RB to|TO win|VB </s>|S_END
+<s>|S_START or|CC it|PRP could|MD try|VB to|TO buy|VB the|DT merged|JJ firm|NN later|JJ but|CC regulators|NNS might|MD object|VB to|TO thi|VB </s>|S_END
+<s>|S_START print|NN may|MD have|VB nowhere|RB to|TO run|VB </s>|S_END
+</p>|P_END
+

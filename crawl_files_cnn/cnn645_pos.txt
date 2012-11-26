@@ -1,0 +1,29 @@
+<p>|P_START
+<s>|S_START job|NN seekers|NNS pick|VBP up|RP applications|NNS at|IN a|DT career|NN fair|NN in|IN los|NNS angeles|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN firsttime|NN claims|VBZ for|IN unemployment|NN benefits|NNS fell|VBD last|JJ week|NN but|CC the|DT broader|JJR trend|NN remains|VBZ choppy|JJ making|VBG it|PRP difficult|VBD to|TO get|VB a|DT clear|JJ reading|NN on|IN the|DT job|NN market|NN in|IN october|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START about|IN 369000|CD people|NNS filed|VBN for|IN firsttime|NN unemployment|NN benefits|NNS in|IN the|DT week|NN ended|VBD october|NN 20|CD down|IN 23000|CD from|IN the|DT previous|JJ week|NN the|DT labor|NN department|NN said|VBD thursday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT initial|JJ claims|NNS number|NN has|VBZ bounced|VBN around|IN for|IN the|DT last|JJ five|CD weeks|NNS pointing|VBG to|TO little|JJ improvement|NN in|IN the|DT job|NN market|NN since|IN september|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fourweek|NN moving|VBG average|JJ which|WDT smooths|NNS out|IN some|DT of|IN the|DT volatility|NN has|VBZ risen|VBN for|IN the|DT last|JJ two|CD weeks|NNS but|CC overall|JJ the|DT story|NN there|RB has|VBZ largely|RB remained|VBN the|DT same|JJ since|IN july|RB </s>|S_END
+<s>|S_START initial|JJ claims|NNS are|VBP stuck|JJ in|IN a|DT range|NN that|WDT seems|VBZ to|TO point|NN to|TO job|VB growth|NN around|IN 150000|CD each|DT month|NN just|RB enough|RB to|TO keep|VB up|RP with|IN population|NN growth|NN but|CC not|RB strong|JJ enough|RB to|TO point|VB to|TO robust|VB improvement|NN in|IN the|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD check|NN the|DT unemployment|NN rate|NN in|IN your|PRP$ state|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START about|IN 33|CD million|CD americans|NNS continued|VBD to|TO file|VB for|IN their|PRP$ second|JJ week|NN of|IN unemployment|NN benefits|NNS in|IN the|DT week|NN ended|VBD october|NN 13|CD the|DT most|RBS recent|JJ data|NNS available|JJ </s>|S_END
+</p>|P_END
+

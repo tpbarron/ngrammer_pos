@@ -1,0 +1,56 @@
+<p>|P_START
+<s>|S_START they|PRP will|MD turn|VB up|RP on|IN driveways|NNS with|IN a|DT recharging|NN lead|NN snaking|VBG into|IN the|DT garage|NN and|CC will|MD creep|VB along|IN silently|RB in|IN traffic|JJ jam|NN </s>|S_END
+<s>|S_START driving|VBG on|IN volts|NNS rather|RB than|IN petrol|NN will|MD accelerate|VB in|IN 2012|CD as|IN many|JJ new|JJ electric|JJ and|CC hybrid|JJ cars|NNS arrive|JJ in|IN showroom|NN </s>|S_END
+<s>|S_START for|IN the|DT first|JJ time|NN the|DT sales|NNS of|IN such|JJ vehicles|NNS will|MD exceed|VB 1m|CD worldwide|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START potential|JJ customers|NNS however|RB will|MD face|VB difficult|JJ buying|NN decision|NN </s>|S_END
+<s>|S_START for|IN a|DT start|NN the|DT cars|NNS will|MD be|VB pricey—even|JJ after|IN various|JJ subsidie|NN </s>|S_END
+<s>|S_START and|CC consumers|NNS will|MD find|VB it|PRP harder|JJR to|TO calculate|VB if|IN this|DT additional|JJ cost|NN can|MD be|VB recovered|VBN in|IN fuel|NN saving|VBG </s>|S_END
+<s>|S_START this|DT is|VBZ because|IN petrol|NN and|CC diesel|NN engines|NNS will|MD become|VB more|RBR economical|JJ </s>|S_END
+<s>|S_START expect|NN news|NN of|IN 100mpg|CD 28|CD litres100km|NNP small|JJ city|NN model|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB trickier|JJR will|MD be|VB deciding|VBG whether|IN you|PRP need|VBP an|DT hev|NN a|DT phev|NN or|CC a|DT bev|NN </s>|S_END
+<s>|S_START an|DT hev|NN is|VBZ a|DT hybrid|JJ electric|JJ vehicle|NN like|IN the|DT toyota|NN prius|VBZ which|WDT first|RB went|VBD on|IN sale|NN in|IN japan|NN in|IN 1997|CD </s>|S_END
+<s>|S_START hevs|NNS use|VBP a|DT petrol|NN engine|NN but|CC also|RB have|VBP an|DT electric|JJ motor|NN to|TO boost|VB overtaking|NN or|CC travel|NN short|JJ distances|NNS without|IN the|DT engine|NN running|VBG </s>|S_END
+<s>|S_START the|DT battery|NN is|VBZ topped|VBN up|RP by|IN recovering|NN energy|NN when|WRB the|DT car|NN slows|VBZ or|CC brake|VB </s>|S_END
+<s>|S_START in|IN 2012|CD many|JJ new|JJ cars|NNS will|MD come|VB with|IN a|DT hybrid|JJ option|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START phevs|NNS are|VBP plugin|RB hybrids|NNS with|IN larger|JJR batteries|NNS that|WDT can|MD also|RB be|VB recharged|VBN from|IN the|DT main|JJ </s>|S_END
+<s>|S_START they|PRP range|VBP from|IN a|DT new|JJ plugin|NN prius|NN for|IN 2012|CD which|WDT can|MD travel|VB for|IN about|IN 20km|CD 12|CD miles|NNS on|IN electric|JJ power|NN to|TO hybrids|NNS that|IN are|VBP driven|VBN by|IN electric|JJ motors|NNS but|CC use|VB a|DT “rangeextender”—in|JJ effect|NN a|DT petrol|NN engine|NN running|VBG as|IN a|DT generator—to|JJ go|NN longer|NN distance|NN </s>|S_END
+<s>|S_START the|DT chevrolet|NN volt|NN opelvauxhall|NN ampera|NN in|IN europe|NN and|CC the|DT fisker|NN karma|NN a|DT luxury|NN sports|NNS saloon|RB have|VBP allelectric|JJ ranges|NNS of|IN around|IN 80km|CD and|CC several|JJ hundred|CD more|RBR with|IN the|DT extender|NN running|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN a|DT bev|NN you|PRP have|VB only|RB the|DT battery|NN to|TO rely|RB on|IN </s>|S_END
+<s>|S_START but|CC without|IN the|DT weight|NN of|IN an|DT engine|NN these|DT purely|RB electric|JJ cars|NNS are|VBP lighter|JJR so|RB they|PRP can|MD travel|VB farther|RBR </s>|S_END
+<s>|S_START the|DT nissan|NN leaf|NN renault|NN zoe|NN and|CC mitsubishi|NN imiev|NN are|VBP among|IN the|DT many|JJ contender|NN </s>|S_END
+<s>|S_START teslas|NNS new|JJ car|NN the|DT model|NN s|VBZ will|MD have|VB a|DT bigbattery|NN option|NN supposed|VBD to|TO be|VB good|JJ for|IN 480km|CD on|IN a|DT single|JJ charge|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START john|NN gartner|NN research|NN director|NN of|IN pike|NN research|NN a|DT colorado|NN company|NN which|WDT monitors|NNS clean|VBP technologies|NNS predicts|NNS that|WDT of|IN the|DT 13m|CD electrified|VBD vehicles|NNS he|PRP expects|VBZ to|TO be|VB sold|VBN worldwide|NN in|IN 2012|CD 80|CD will|MD be|VB hevs|NNS 11|CD bevs|NNS and|CC 9|CD phev|NN </s>|S_END
+<s>|S_START the|DT bevs|NNS he|PRP says|VBZ will|MD be|VB most|RBS popular|JJ in|IN crowded|JJ cities|NNS in|IN europe|NN and|CC asia|NN where|WRB shorter|NN journeys|NNS are|VBP more|RBR common|JJ </s>|S_END
+<s>|S_START reallife|NN ranges|NNS though|IN will|MD depend|VB on|IN how|WRB hard|JJ drivers|NNS use|VBP the|DT accelerator|NN and|CC how|WRB much|JJ electrical|JJ equipment|NN lights|NNS wipers|NNS heater|VBP etc|NN is|VBZ running|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB most|RBS trips|NNS are|VBP short|JJ </s>|S_END
+<s>|S_START in|IN europe|NN half|NN of|IN all|DT car|NN journeys|NNS are|VBP under|IN 10km|CD and|CC in|IN america|NN about|IN 60|CD of|IN vehicles|NNS are|VBP driven|VBN only|RB up|RP to|TO 50km|CD a|DT day|NN </s>|S_END
+<s>|S_START bmw|NN and|CC daimlers|NNS smart|NN have|VBP found|VBN electriccar|NN drivers|NNS charge|VBP up|RP mostly|RB at|IN home|NN on|IN average|JJ just|RB three|CD times|NNS a|DT week|NN </s>|S_END
+<s>|S_START o|NN “range|NN anxiety”|NN may|MD well|RB turn|VB out|RP to|TO be|VB less|JJR of|IN a|DT worry|NN with|IN cars|NNS powered|VBN only|RB by|IN a|DT battery|NN than|IN some|DT people|NNS imagine |-NONE- </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START paul|NN markillie|NN innovation|NN editor|NN the|DT economist|NN </s>|S_END
+</p>|P_END
+

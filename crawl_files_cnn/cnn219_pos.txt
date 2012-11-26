@@ -1,0 +1,51 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN priceline|NN has|VBZ agreed|VBN to|TO buy|VB travel|NN price|NN comparison|NN engine|NN kayak|NN in|IN a|DT $|$ 18|CD billion|CD cashandstock|NN deal|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT deal|NN values|NNS kayak|VBP kyak|NN which|WDT went|NN public|JJ less|NN than|IN four|CD months|NNS ago|RB at|IN $|$ 40|CD per|IN share|NN </s>|S_END
+<s>|S_START priceline|NN pcln|NN plans|NNS to|TO pay|VB for|IN the|DT acquisition|NN with|IN $|$ 500|CD million|CD cash|NN and|CC $|$ 13|CD billion|CD in|IN equity|NN and|CC assumed|VBD stock|NN options|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START kayak|NN shares|NNS closed|VBD thursday|NN at|IN $|$ 3104|CD but|CC shot|JJ up|RP 26|CD in|IN afterhours|NNS trading|NN after|IN the|DT priceline|NN deal|NN was|VBD announced|VBN </s>|S_END
+<s>|S_START priceline|NN shares|NNS dropped|VBD 2|CD after|IN hours|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START kayak|NN and|CC priceline|NN are|VBP both|DT based|VBN in|IN norwalk|NN conn|NN but|CC priceline|NN said|VBD it|PRP will|MD operate|VB kayak|NN as|IN an|DT independent|JJ subsidiary|NN run|VBN by|IN kayaks|NNS current|JJ management|NN team|NN </s>|S_END
+<s>|S_START pending|VBG shareholder|NN and|CC regulatory|JJ approvals|NNS the|DT companies|NNS expect|VBP the|DT transaction|NN to|TO close|VB in|IN early|JJ 2013|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START kayak|NN has|VBZ world|VBN class|NN technology|NN and|CC a|DT tradition|NN of|IN innovation|NN in|IN building|NN great|NN user|NN interfaces|NNS priceline|VBP ceo|NN jeffery|NN boyd|NN said|VBD in|IN a|DT prepared|VBN statement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START launched|VBD eight|VBN years|NNS ago|IN kayak|NN made|VBN its|PRP$ mark|NN in|IN the|DT crowded|VBN travel|NN space|NN with|IN a|DT metasearch|NN engine|NN that|WDT lets|VBZ shoppers|NNS easily|RB compare|VBP prices|NNS for|IN flights|NNS hotels|NNS and|CC rental|JJ cars|NNS across|IN many|JJ different|JJ vendors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pricelines|NNS past|VBP acquisitions|NNS include|VBP european|JJ hotel|NN bookings|NNS website|VBP bookingcom|NN uk|NN car|NN rentals|NNS site|VBP traveljigsaw|NN and|CC asiapacific|JJ bookings|NNS site|VBP agodacom|NN </s>|S_END
+<s>|S_START kayak|NN is|VBZ the|DT first|JJ major|JJ us|PRP acquisition|NN in|IN pricelines|NNS 12year|JJ history|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START priceline|NN is|VBZ probably|RB among|IN the|DT best|JJS acquirers|NNS in|IN internet|NN history|NN said|VBD rafat|JJ ali|NN founder|NN of|IN travel|NN news|NN and|CC information|NN site|IN skift|NN </s>|S_END
+<s>|S_START bookingcom|NN turned|VBD out|RP to|TO be|VB among|IN the|DT best|JJS acquisitions|NNS ever|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START kayak|NN was|VBD an|DT early|JJ pioneer|NN in|IN the|DT travel|NN field|NN and|CC drew|VBD attention|NN for|IN its|PRP$ innovative|JJ approach|NN such|JJ as|IN requiring|VBG all|DT of|IN its|PRP$ employees|NNS including|VBG its|PRP$ programmers|NNS to|TO field|VB customer|NN service|NN calls|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP has|VBZ lately|RB faced|VBN intensifying|VBG competition|NN from|IN giants|NNS like|IN microsofts|NNS bing|VBG travel|NN and|CC google|JJ goog|NN fortune|NN 500|CD which|WDT snapped|VBN up|RP airline|NN search|NN company|NN ita|NN </s>|S_END
+<s>|S_START its|PRP$ also|RB being|VBG challenged|VBN by|IN upstarts|NNS like|IN hipmunk|NN which|WDT stole|NN some|DT of|IN kayaks|NNS thunder|IN with|IN a|DT widely|RB praised|VBN search|NN interface|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START kayak|NN also|RB on|IN thursday|NN released|VBN its|PRP$ thirdquarter|NN results|NNS </s>|S_END
+<s>|S_START the|DT company|NN reported|VBD net|JJ income|NN of|IN $|$ 8|CD million|CD on|IN sales|NNS of|IN $|$ 786|CD million|CD up|IN 29|CD from|IN a|DT year|NN ago|IN </s>|S_END
+</p>|P_END
+

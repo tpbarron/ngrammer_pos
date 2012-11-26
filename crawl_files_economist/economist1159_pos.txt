@@ -1,0 +1,16 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 53|CD gdp|NN $|$ 584bn|CD ppp|CD $|$ 726bn|CD inflation|NN 43|CD population|NN 289m|CD gdp|NN per|IN head|NN $|$ 20220|CD ppp|CD $|$ 25130|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START arabspring|VBG tides|NNS have|VBP barely|RB washed|VBN saudi|NN shores|NNS old|JJ age|NN and|CC poor|JJ health|NN will|MD continue|VB to|TO be|VB the|DT drivers|NNS of|IN change|NN </s>|S_END
+<s>|S_START the|DT king|NN is|VBZ pushing|VBG 90|CD and|CC potential|JJ successors|NNS are|VBP elderly|RB and|CC no|DT less|NN conservative|JJ </s>|S_END
+<s>|S_START the|DT economy|NN will|MD benefit|VB from|IN the|DT decision|NN to|TO pump|VB extra|JJ oil|NN in|IN 2011|CD </s>|S_END
+<s>|S_START capital|NN investments|NNS and|CC social|JJ spending |NN will|MD keep|VB growth|NN strong|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB stone|NN love|VB </s>|S_END
+<s>|S_START joaillerie|NN saudi|NN arabia|NN 2012|CD brings|NNS blingmakers|NNS and|CC enthusiasts|NNS to|TO riyadh|VB in|IN may|MD for|IN an|DT exhibition|NN of|IN the|DT worlds|NNS finest|JJS jewellery |JJ </s>|S_END
+</p>|P_END
+

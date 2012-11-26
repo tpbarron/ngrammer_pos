@@ -1,0 +1,53 @@
+<p>|P_START
+<s>|S_START it|PRP is|VBZ perhaps|RB no|DT coincidence|NN that|IN luis|NNS de|VBP guindos|NNS spains|NNS new|JJ finance|NN minister|NN is|VBZ a|DT former|JJ banker|NN </s>|S_END
+<s>|S_START he|PRP has|VBZ been|VBN charged|VBN by|IN mariano|NN rajoy|NN the|DT new|JJ prime|NN minister|NN with|IN the|DT task|NN of|IN whipping|VBG spains|NNS bloated|VBN financial|JJ system|NN into|IN shape|NN </s>|S_END
+<s>|S_START mr|NN de|IN guindos|NNS reckons|NNS the|DT countrys|NNS banks|NNS need|VBP to|TO set|VB aside|JJ another|DT €50|NN billion|NN $|$ 65|CD billion|CD in|IN provisions|NNS for|IN bad|JJ property|NN loan|NN </s>|S_END
+<s>|S_START this|DT would|MD help|VB tidy|JJ up|IN their|PRP$ balancesheets|NNS but|CC its|PRP$ not|RB yet|RB clear|JJ how|WRB it|PRP will|MD happen|VB or|CC who|WP will|MD foot|VB the|DT bill|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bank|NN of|IN spain|NN says|VBZ there|EX are|VBP €176|-NONE- billion|CD of|IN nonperforming|NN realestate|NN loans|NNS and|CC foreclosed|VBD assets|NNS 52|CD of|IN the|DT banking|NN systems|NNS total|VBP property|NN book|NN </s>|S_END
+<s>|S_START banks|NNS have|VBP already|RB set|VBN aside|NN provisions|NNS covering|VBG a|DT third|JJ of|IN these|DT bad|JJ asset|NN </s>|S_END
+<s>|S_START add|NN in|IN an|DT extra|JJ €50|NN billion|NN which|WDT is|VBZ about|IN 5|CD of|IN spains|NNS gdp|VBP and|CC provisions|NNS would|MD cover|VB eventual|JJ losses|NNS of|IN 60|CD in|IN line|NN with|IN the|DT average|JJ haircuts|NNS that|WDT were|VBD applied|VBN to|TO irish|VB property|NN loans|NNS when|WRB they|PRP were|VBD transferred|VBN to|TO that|DT countrys|VBZ bad|JJ bank|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT difference|NN with|IN ireland|NN is|VBZ that|IN spain|NN is|VBZ not|RB now|RB planning|VBG on|IN setting|VBG up|RP a|DT large|JJ bad|JJ bank|NN of|IN its|PRP$ own|JJ to|TO warehouse|VB impaired|VBN property|NN asset|NN </s>|S_END
+<s>|S_START pains|NNS largest|VBP banks—santander|JJ bbva|NN and|CC caixabank—were|JJ all|DT dead|JJ against|IN it|PRP </s>|S_END
+<s>|S_START and|CC in|IN an|DT irishstyle|NN scenario|NN where|WRB the|DT government|NN swallows|VBZ discounted|VBN loans|NNS on|IN land|NN and|CC buildings|NNS as|IN well|RB as|IN foreclosed|VBN assets|NNS the|DT state|NN would|MD need|VB over|IN €100|-NONE- billion|CD to|TO purchase|VB the|DT assets|NNS and|CC recapitalise|VB the|DT banks|NNS according|VBG to|TO morgan|VB stanleys|NNS estimates|NNS or|CC more|JJR than|IN 10|CD of|IN gdp|NN </s>|S_END
+<s>|S_START this|DT would|MD have|VB compromised|VBN spains|NNS relatively|RB low|JJ debttogdp|NN ratio|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN any|DT case|NN the|DT state|NN already|RB owns|VBZ quite|RB a|DT few|JJ bad|JJ asset|NN </s>|S_END
+<s>|S_START it|PRP nationalised|VBD four|CD weak|JJ lenders|NNS last|JJ year|NN and|CC auctioned|VBD off|RP a|DT fifth|JJ banco|NN cam|NN with|IN a|DT generous|JJ assetprotection|NN scheme|NN </s>|S_END
+<s>|S_START banks|NNS are|VBP partfinancing|VBG these|DT rescues|NNS the|DT industrybacked|JJ depositguarantee|NN fund|NN fgd|NN provided|VBN cams|NNS guarantee|NN </s>|S_END
+<s>|S_START but|CC the|DT fgd|NN has|VBZ limited|VBN resource|NN </s>|S_END
+<s>|S_START ultimately|RB the|DT state|NN is|VBZ still|RB on|IN the|DT hook|NN </s>|S_END
+<s>|S_START barclays|NNS capital|NN estimates|NNS that|WDT the|DT government|NN is|VBZ already|RB exposed|VBN to|TO €40|-NONE- billion|CD of|IN potential|JJ losse|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN de|IN guindos|NNS says|VBZ that|IN the|DT majority|NN of|IN banks|NNS can|MD pay|VB for|IN the|DT new|JJ provisions|NNS out|IN of|IN their|PRP$ profits|NNS and|CC it|PRP could|MD be|VB done|VBN over|RP several|JJ year|NN </s>|S_END
+<s>|S_START this|DT sounds|VBZ too|RB optimistic|JJ </s>|S_END
+<s>|S_START the|DT european|JJ central|JJ banks|NNS move|VBP in|IN december|NN to|TO give|VB europes|NNS banks|NNS cheap|VBP threeyear|JJ loans|NNS has|VBZ given|VBN spanish|JJ banks|NNS some|DT breathing|VBG room|NN </s>|S_END
+<s>|S_START but|CC spanish|JJ lenders|NNS will|MD make|VB just|RB less|JJR than|IN €20|-NONE- billion|CD in|IN preprovision|NN profits|NNS this|DT year|NN according|VBG to|TO estimates|NNS by|IN cheuvreux|NN a|DT broker|NN with|IN large|JJ variations|NNS among|IN individual|JJ institution|NN </s>|S_END
+<s>|S_START dragging|VBG the|DT provisioning|VBG process|NN out|IN over|IN several|JJ years|NNS would|MD just|RB be|VB kicking|VBG the|DT can|MD down|VB the|DT road|NN and|CC risks|NNS exacerbating|VBG a|DT credit|NN crunch|NN </s>|S_END
+<s>|S_START and|CC although|IN the|DT new|JJ cushion|NN looks|NNS about|IN right|JJ for|IN now|RB the|DT total|JJ amount|NN of|IN dud|NN loans|NNS could|MD well|RB rise|VB as|IN spain|NN dips|NNS back|RB into|IN recession|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT government|NN doubtless|NN hopes|VBZ that|IN the|DT new|JJ provisioning|NN requirements|NNS act|NN as|IN a|DT wakeup|NN call|NN for|IN weak|JJ banks|NNS to|TO start|VB looking|VBG for|IN partner|NN </s>|S_END
+<s>|S_START mergers|NNS could|MD theoretically|RB help|VB to|TO sort|VB out|RP banks|NNS that|WDT face|NN large|JJ losse|NN </s>|S_END
+<s>|S_START and|CC spain|NN is|VBZ overbanked|VBN </s>|S_END
+<s>|S_START “the|DT big|JJ banks|NNS could|MD play|VB a|DT useful|JJ role|NN in|IN a|DT rapid|JJ restructuring|NN and|CC spain|NN should|MD take|VB advantage|NN of|IN that”|JJ says|NNS francisco|VBP uria|NNS of|IN kpmg|NN an|DT accounting|NN firm|NN </s>|S_END
+<s>|S_START the|DT caveat|NN is|VBZ that|IN the|DT big|JJ banks—the|NN natural|JJ buyers|NNS of|IN the|DT large|JJ weak|NN savings|NNS banks|NNS or|CC cajas—are|JJ already|RB short|JJ of|IN capital|NN </s>|S_END
+<s>|S_START they|PRP have|VBP been|VBN ordered|VBN to|TO raise|VB a|DT whopping|NN €261|-NONE- billion|CD by|IN the|DT european|JJ banking|NN authority|NN eba|NN by|IN june|NN only|RB greek|VBP banks|NNS had|VBD a|DT bigger|JJR shortfall|NN in|IN the|DT ebas|NNS latest|JJS stress|NN test|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ another|DT source|NN of|IN capital|NN bondholders|NNS of|IN dud|NN banks|NNS could|MD be|VB forced|VBN to|TO take|VB losse|NN </s>|S_END
+<s>|S_START but|CC the|DT snag|NN is|VBZ that|IN most|JJS of|IN these|DT bonds|NNS are|VBP held|VBN by|IN retail|JJ investor|NN </s>|S_END
+<s>|S_START mr|NN de|IN guindos|NNS may|MD yet|RB have|VB to|TO dip|VB into|IN government|NN coffers|NNS to|TO find|VB the|DT cash|NN </s>|S_END
+</p>|P_END
+

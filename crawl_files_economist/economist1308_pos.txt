@@ -1,0 +1,46 @@
+<p>|P_START
+<s>|S_START that|DT manchester|NN united|VBD a|DT perennially|RB successful|JJ english|JJ football|NN team|NN managed|VBD by|IN sir|NN alex|NN ferguson|NN pictured|VBD lost|VBN its|PRP$ league|NN title|NN to|TO manchester|VB city|NN last|JJ year|NN surprised|VBD many|JJ </s>|S_END
+<s>|S_START that|DT investors|NNS in|IN the|DT club’s|JJ initial|JJ public|JJ offering|NN ipo|NN on|IN the|DT new|JJ york|NN stock|NN exchange|NN have|VBP lost|VBN money|NN is|VBZ less|JJR of|IN a|DT shock|NN </s>|S_END
+<s>|S_START almost|RB a|DT month|NN after|IN manchester|NN united’s|NNS shares|NNS began|VBD trading|VBG at|IN $|$ 14|CD a|DT share|NN they|PRP have|VBP dipped|VBN to|TO $|$ 1290|CD </s>|S_END
+<s>|S_START many|JJ recall|NN how|WRB a|DT spate|JJ of|IN european|JJ footballclub|NN ipos|NNS in|IN the|DT 1990s|NNS ended|VBD badly|RB </s>|S_END
+<s>|S_START is|VBZ there|EX a|DT case|NN for|IN backing|NN professional|JJ sports|NNS teams|NNS off|IN the|DT pitch|NN as|IN well|RB as|IN on|IN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START european|JJ football|NN teams|NNS have|VBP been|VBN particularly|RB patchy|JJ bet|NN </s>|S_END
+<s>|S_START many|JJ clubs|NNS are|VBP managed|VBN with|IN the|DT goal|NN of|IN securing|VBG trophies|NNS not|RB turning|VBG a|DT profit|NN </s>|S_END
+<s>|S_START those|DT that|DT do|VBP try|NN to|TO balance|NN the|DT books|NNS are|VBP hardpressed|VBN to|TO win|VB bidding|NN wars|NNS for|IN players|NNS against|IN owners|NNS who|WP want|VBP success|NN at|IN all|DT costs|NNS freespending|VBG manchester|NN city|NN for|IN example|NN is|VBZ owned|VBN by|IN mansour|PRP$ bin|NN zayed|VBD al|JJ nahyan|NN an|DT emirati|NN sheikh|NN </s>|S_END
+<s>|S_START many|JJ clubs|NNS keel|VBP over|IN </s>|S_END
+<s>|S_START there|EX were|VBD 54|CD insolvencies|NNS in|IN england’s|JJ top|NN four|CD divisions|NNS between|IN 1992|CD and|CC 2011|CD according|VBG to|TO deloitte|VB a|DT consultancy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START things|NNS may|MD be|VB getting|VBG better|JJR </s>|S_END
+<s>|S_START the|DT english|JJ premier|NN league|NN recently|RB signed|VBD a|DT domestic|JJ television|NN deal|NN worth|NN over|IN £1|-NONE- billion|CD $|$ 16|CD billion|CD a|DT year|NN and|CC is|VBZ expected|VBN to|TO secure|VB a|DT similarly|RB rich|JJ pact|NN for|IN its|PRP$ foreign|JJ right|NN </s>|S_END
+<s>|S_START manchester|NN united|VBD itself|PRP derives|VBZ around|IN a|DT third|JJ of|IN its|PRP$ income|NN from|IN merchandise|NN sales|NNS which|WDT do|VBP not|RB directly|RB depend|VB on|IN its|PRP$ record|NN on|IN the|DT pitch|NN </s>|S_END
+<s>|S_START and|CC a|DT new|JJ set|NN of|IN salary|NN restrictions|NNS called|VBN “financial|JJ fair|NN play”|NN is|VBZ scheduled|VBN to|TO take|VB effect|NN across|IN european|JJ football|NN in|IN the|DT coming|VBG years|NNS which|WDT should|MD stop|VB wage|NN bills|NNS from|IN spiralling|VBG ever|RB higher|JJR </s>|S_END
+<s>|S_START much|RB of|IN this|DT good|JJ news|NN is|VBZ already|RB baked|VBN into|IN the|DT share|NN price|NN of|IN manchester|NN united|VBN whose|WP$ investors|NNS include|VBP george|NN soros|NNS but|CC it|PRP suggests|VBZ that|IN european|JJ football|NN teams|NNS will|MD have|VB a|DT better|JJR chance|NN of|IN earning|VBG sustainable|JJ profit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN evidence|NN look|NN to|TO north|JJ america|NN where|WRB sports|NNS teams|NNS have|VBP generally|RB been|VBN great|JJ investments|NNS the|DT average|JJ national|JJ football|NN league|NN nfl|NN team|NN has|VBZ increased|VBN in|IN value|NN by|IN 282|CD since|IN 1998|CD according|VBG to|TO forbes|NNS magazine|NN </s>|S_END
+<s>|S_START they|PRP often|RB receive|JJ favourable|JJ leases|NNS to|TO play|VB in|IN taxpayerfunded|VBN stadium|NN </s>|S_END
+<s>|S_START ince|NN there|EX is|VBZ no|DT such|JJ thing|NN as|IN promotion|NN or|CC relegation|NN they|PRP stay|VBP in|IN the|DT highest|JJS “major”|NN league|NN and|CC get|VB a|DT share|NN of|IN its|PRP$ generous|JJ revenues|NNS no|DT matter|NN how|WRB they|PRP play|VBP </s>|S_END
+<s>|S_START alary|JJ restraints|NNS prevent|VBP freespending|VBG owners|NNS from|IN driving|VBG up|RP the|DT cost|NN of|IN talent|NN </s>|S_END
+<s>|S_START when|WRB the|DT clubs’|NNP profits|VBZ have|VBP dwindled|VBN they|PRP have|VBP not|RB hesitated|VBN to|TO lock|VB players|NNS out|IN to|TO negotiate|VB better|JJR terms|NNS as|IN both|DT the|DT national|JJ basketball|NN association|NN and|CC the|DT nfl|NN did|VBD in|IN 2011|CD </s>|S_END
+<s>|S_START that|DT option|NN is|VBZ not|RB credible|JJ in|IN europe|NN since|IN players|NNS can|MD earn|VB shedloads|NNS by|IN moving|VBG to|TO another|DT country|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT problem|NN for|IN ordinary|JJ investors|NNS is|VBZ that|IN american|JJ teams|NNS rarely|RB sell|VBP shares|NNS to|TO the|DT public|NN </s>|S_END
+<s>|S_START they|PRP must|MD secure|VB approval|NN from|IN their|PRP$ sports’|JJ commissioners|NNS to|TO issue|VB stock|NN and|CC the|DT leagues|NNS have|VBP been|VBN reluctant|JJ to|TO disclose|VB clubs’|JJ financial|JJ information|NN </s>|S_END
+<s>|S_START in|IN the|DT past|JJ few|JJ decades|NNS only|RB three|CD american|JJ teams|NNS have|VBP traded|VBN on|IN public|JJ markets—baseball’s|NNS cleveland|VBP indians|NNS basketball’s|-NONE- boston|NN celtics|NNS and|CC ice|NN hockey’s|NNS florida|NN panther|NN </s>|S_END
+<s>|S_START all|DT have|VBP since|IN delisted|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT said|VBD massive|JJ appreciation|NN in|IN franchise|NN values|NNS in|IN north|JJ america|NN has|VBZ pushed|VBN the|DT cost|NN of|IN acquiring|VBG a|DT team|NN past|NN the|DT means|NNS of|IN all|DT but|CC the|DT richest|JJS private|JJ investor|NN </s>|S_END
+<s>|S_START an|DT ipo|NN may|MD soon|RB be|VB the|DT only|JJ way|NN for|IN an|DT owner|NN to|TO cash|NN out|IN </s>|S_END
+<s>|S_START and|CC if|IN the|DT dallas|NNS cowboys|VBZ or|CC the|DT new|JJ york|NN yankees|NNS were|VBD ever|RB to|TO hit|VB the|DT market|NN the|DT record|NN of|IN publicly|RB traded|VBN sports|NNS teams|NNS should|MD swiftly|RB improve|VB </s>|S_END
+</p>|P_END
+

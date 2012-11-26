@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 39|CD gdp|NN $|$ 25bn|CD ppp|CD $|$ 54bn|CD inflation|NN 73|CD population|NN 104m|CD gdp|NN per|IN head|NN $|$ 2440|CD ppp|CD $|$ 5210|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT movimiento|NN al|NN socialismo|NN government|NN under|IN leftist|NN president|NN evo|NN morales|NNS has|VBZ a|DT large|JJ majority|NN in|IN the|DT legislature|NN but|CC is|VBZ losing|VBG the|DT people|NNS </s>|S_END
+<s>|S_START even|RB with|IN the|DT tailwinds|NNS provided|VBN by|IN revenue|NN from|IN exports|NNS of|IN natural|JJ gas|NN living|NN standards|NNS are|VBP falling|VBG far|RB short|JJ of|IN expectation|NN </s>|S_END
+<s>|S_START violent|NN protest|NN and|CC ineffective|JJ government|NN and|CC doses|NNS of|IN martial|JJ law|NN will|MD prevent|VB development|NN outside|IN the|DT naturalresources|NNS sector|NN </s>|S_END
+</p>|P_END
+

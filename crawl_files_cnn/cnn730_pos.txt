@@ -1,0 +1,73 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN americans|NNS have|VBP racked|VBN up|RP $|$ 150|CD billion|CD in|IN private|JJ student|NN loan|NN debt|NN with|IN many|JJ graduates|NNS owing|VBG more|JJR than|IN they|PRP can|MD afford|VB according|VBG to|TO a|DT new|JJ report|NN from|IN the|DT consumer|NN financial|JJ protection|NN bureau|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN these|DT loans|NNS represent|VBP a|DT small|JJ slice|NN of|IN the|DT total|JJ outstanding|JJ student|NN loan|NN debt|NN in|IN the|DT country|NN which|WDT topped|VBD $|$ 1|CD trillion|CD in|IN 2011|CD they|PRP have|VBP caused|VBN big|JJ financial|JJ problems|NNS for|IN borrowers|NNS the|DT cfpb|NN and|CC the|DT department|NN of|IN education|NN found|VBD after|IN analyzing|NN data|NNS from|IN nine|CD of|IN the|DT biggest|JJS private|JJ student|NN lenders|NNS on|IN roughly|RB 5|CD million|CD loans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START private|JJ student|NN loans|NNS were|VBD aggressively|RB marketed|VBN to|TO students|NNS before|IN the|DT financial|JJ crisis|NN and|CC typically|RB came|VBD with|IN fewer|JJR protections|NNS and|CC higher|JJR interest|NN rates|NNS than|IN federal|JJ loans|NNS the|DT report|NN found|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START too|RB many|JJ student|NN loan|NN borrowers|NNS were|VBD given|VBN loans|NNS they|PRP could|MD not|RB afford|VB and|CC sometimes|RB for|IN more|JJR money|NN than|IN they|PRP needed|VBD cfpb|NN director|NN richard|NN cordray|NN said|VBD on|IN a|DT call|NN with|IN reporters|NNS </s>|S_END
+<s>|S_START they|PRP are|VBP now|RB overwhelmed|VBN by|IN debt|NN and|CC regret|NN the|DT decisions|NNS they|PRP made|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START defaulted|VBD private|JJ loans|NNS currently|RB total|VBP more|JJR than|IN $|$ 81|CD billion|CD representing|VBG 850000|CD individual|JJ loans|NNS according|VBG to|TO the|DT report|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START before|IN the|DT financial|JJ crisis|NN private|JJ lenders|NNS engaged|VBD in|IN aggressive|JJ marketing|NN and|CC risky|JJ underwriting|NN often|RB borrowers|NNS didnt|VBP have|VBP good|JJ enough|RB credit|NN to|TO qualify|VB for|IN the|DT loan|NN said|VBD cordray|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB the|DT financial|JJ crisis|NN hit|NN lenders|NNS began|VBD tightening|VBG their|PRP$ lending|VBG standards|NNS </s>|S_END
+<s>|S_START now|RB they|PRP are|VBP doing|VBG a|DT better|JJR job|NN of|IN lending|VBG more|JJR appropriate|JJ amounts|NNS of|IN money|NN to|TO students|NNS working|VBG more|JJR closely|RB with|IN schools|NNS to|TO determine|VB a|DT borrowers|NNS needs|VBZ and|CC asking|VBG for|IN cosigners|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN the|DT financial|JJ markets|NNS crashed|VBD some|DT commonsense|NN practices|NNS returned|VBD cordray|NN said|VBD </s>|S_END
+<s>|S_START without|IN investors|NNS willing|VBG to|TO buy|VB risky|JJ loans|NNS lenders|NNS were|VBD forced|VBN to|TO care|VB more|JJR about|IN a|DT borrowers|NNS ability|NN to|TO repay|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC that|DT doesnt|NN help|NN the|DT students|NNS who|WP took|VBD out|RP loans|NNS before|IN 2008|CD </s>|S_END
+<s>|S_START and|CC while|IN federal|JJ loans|NNS come|VBP with|IN certain|JJ protections|NNS if|IN a|DT borrower|NN is|VBZ having|VBG trouble|NN repaying|VBG the|DT loan|NN private|JJ loans|NNS dont|VBP have|VBP most|JJS of|IN the|DT same|JJ protections|NNS like|IN flexible|JJ repayment|NN options|NNS as|IN well|RB as|IN forbearance|NN deferment|NN and|CC forgiveness|NN options|NNS the|DT report|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START private|JJ student|NN loans|NNS used|VBN to|TO be|VB dischargeable|JJ in|IN bankruptcy|NN like|IN any|DT other|JJ consumer|NN debt|NN but|CC under|IN a|DT 2005|CD change|NN to|TO the|DT bankruptcy|NN code|NN private|JJ student|NN loans|NNS can|MD no|RB longer|RBR be|VB discharged|VBN unless|IN borrowers|NNS can|MD prove|VB undue|JJ hardship|NN the|DT same|JJ rule|NN that|IN applies|NNS for|IN discharging|VBG federal|JJ student|NN loans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC while|IN federal|JJ interest|NN rates|NNS are|VBP fixed|VBN private|JJ loans|NNS typically|RB carry|VBP varying|VBG and|CC often|RB higher|JJR interest|NN rates|NNS based|VBN on|IN credit|NN worthiness|NN </s>|S_END
+<s>|S_START even|RB when|WRB some|DT private|JJ lenders|NNS advertise|VBP interest|NN rates|NNS that|WDT are|VBP competitive|JJ to|TO federal|JJ loans|NNS the|DT cfpb|NN said|VBD they|PRP are|VBP often|RB only|RB available|JJ for|IN borrowers|NNS with|IN excellent|NN credit|NN or|CC who|WP have|VBP cosigners|NNS with|IN excellent|NN credit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO prevent|VB students|NNS from|IN taking|VBG out|RP private|JJ loans|NNS they|PRP cant|VBP afford|NN and|CC to|TO help|VB those|DT who|WP are|VBP already|RB struggling|VBG to|TO pay|VB back|RB private|JJ loans|NNS cordray|VBP made|VBN five|CD recommendations|NNS to|TO congress|NN in|IN the|DT report|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START first|JJ he|PRP said|VBD congress|NN should|MD consider|VB requiring|VBG private|JJ lenders|NNS to|TO coordinate|VB with|IN schools|NNS before|IN they|PRP are|VBP able|JJ to|TO extend|VB a|DT loan|NN to|TO a|DT student|NN and|CC he|PRP said|VBD the|DT lenders|NNS should|MD get|VB the|DT loan|NN amount|NN approved|VBD with|IN the|DT school|NN to|TO make|VB sure|JJ the|DT student|NN isnt|NN taking|VBG out|RP a|DT larger|JJR loan|NN than|IN they|PRP need|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cordray|NN also|RB recommended|VBD that|IN congress|NN determine|NN whether|IN the|DT bankruptcy|NN code|NN should|MD be|VB modified|VBN to|TO allow|VB private|JJ loans|NNS to|TO be|VB discharged|VBN </s>|S_END
+<s>|S_START while|IN the|DT 2005|CD changes|NNS to|TO the|DT bankruptcy|NN code|NN which|WDT stopped|VBD consumers|NNS from|IN discharging|VBG private|JJ student|NN loan|NN debt|NN aimed|VBN to|TO bring|VB down|RP private|JJ loan|NN prices|NNS and|CC increase|VB access|NN to|TO credit|NN the|DT cfpb|NN said|VBD it|PRP found|VBD no|DT evidence|NN that|IN this|DT has|VBZ happened|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START other|JJ recommendations|NNS included|VBD clarifying|VBG the|DT definition|NN of|IN a|DT private|JJ student|NN loan|NN to|TO prevent|VB confusion|NN among|IN borrowers|NNS and|CC finding|VBG a|DT way|NN to|TO clarify|VB overall|JJ debt|NN obligations|NNS for|IN private|JJ loans|NNS </s>|S_END
+<s>|S_START he|PRP said|VBD students|NNS also|RB need|VBP to|TO receive|VB more|JJR information|NN about|IN what|WP kind|NN of|IN postgraduation|NN outcome|NN they|PRP can|MD expect|VB before|IN enrolling|NN in|IN a|DT certain|JJ school|NN like|IN what|WP kind|NN of|IN employment|NN options|NNS and|CC salaries|NNS may|MD be|VB available|JJ upon|IN graduation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN many|JJ of|IN these|DT people|NNS the|DT decision|NN about|IN how|WRB to|TO pay|VB for|IN college|NN was|VBD their|PRP$ first|JJ major|JJ financial|JJ decision|NN said|VBD cordray|NN </s>|S_END
+<s>|S_START without|IN clear|JJ guidance|NN or|CC a|DT good|JJ way|NN to|TO compare|VB the|DT pros|NNS and|CC cons|NNS of|IN different|JJ loan|NN options|NNS many|JJ students|NNS got|VBD in|IN over|IN their|PRP$ heads|NNS in|IN debt|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

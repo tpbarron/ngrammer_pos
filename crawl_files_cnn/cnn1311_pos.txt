@@ -1,0 +1,88 @@
+<p>|P_START
+<s>|S_START the|DT race|NN for|IN us|PRP senate|VBP in|IN massachusetts|NNS is|VBZ the|DT priciest|JJS congressional|JJ race|NN this|DT year|NN with|IN harvard|NN university|NN professor|NN elizabeth|NN warren|NN running|VBG against|IN sen|JJ scott|NN brown|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START washington|NN cnnmoney|NN the|DT $|$ 48|CD million|CD fight|NN for|IN the|DT senate|NN seat|NN in|IN massachusetts|NNS pitting|VBG harvard|NN university|NN professor|NN elizabeth|NN warren|NN against|IN sen|NN scott|NN brown|NN is|VBZ now|RB this|DT years|NNS priciest|VBP congressional|JJ race|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START warren|NNS a|DT democrat|NN is|VBZ the|DT nations|NNS most|JJS recognized|JJ consumer|NN advocate|NN who|WP helped|VBD create|VBP the|DT consumer|NN financial|JJ protection|NN bureau|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START brown|NN is|VBZ a|DT popular|JJ incumbent|NN republican|NN best|JJS known|VBN nationally|RB for|IN winning|VBG the|DT 2010|CD massachusetts|NNS senate|VBP seat|NN long|RB held|VBN by|IN sen|NN edward|NN kennedy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START wall|NN street|VBD is|VBZ watching|VBG the|DT race|NN closely|RB pouring|VBG more|JJR money|NN into|IN this|DT congressional|JJ campaign|NN than|IN any|DT other|JJ according|VBG to|TO the|DT center|NN for|IN responsive|JJ politics|NNS which|WDT analyzes|NNS political|JJ spending|NN </s>|S_END
+<s>|S_START wall|NN street|VBD is|VBZ browns|NNS biggest|JJS contributor|NN accounting|VBG for|IN $|$ 24|CD million|CD of|IN his|PRP$ total|JJ $|$ 194|CD million|CD haul|JJ from|IN individuals|NNS at|IN companies|NNS like|IN goldman|NN sachs|NNS gs|NNS fortune|VBP 500|CD and|CC jpmorgan|JJ chase|NN jpm|NN fortune|NN 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS despite|IN the|DT fact|NN that|IN brown|JJ has|VBZ sought|VBN to|TO distance|NN himself|PRP from|IN wall|DT street|NN </s>|S_END
+<s>|S_START his|PRP$ was|VBD a|DT key|JJ crossover|NN republican|NN vote|NN that|WDT helped|VBD get|VBP wall|JJ street|NN reforms|NNS passed|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD obamas|NNS 18|CD small|JJ business|NN tax|NN cuts|NNS explained|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT lot|NN of|IN the|DT contributions|NNS may|MD have|VB do|VB more|RBR with|IN the|DT fact|NN that|IN warren|NNS is|VBZ browns|NNS rival|NN </s>|S_END
+<s>|S_START its|PRP$ no|DT secret|NN that|IN wall|NN street|NN doesnt|NN want|NN to|TO see|VB warren|NNS in|IN a|DT position|NN of|IN power|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START she|PRP has|VBZ taken|VBN on|IN wall|NN street|NN since|IN the|DT financial|JJ crisis|NN of|IN 2008|CD when|WRB she|PRP was|VBD appointed|VBN to|TO head|VB a|DT congressional|JJ oversight|NN panel|NN overseeing|VBG bailouts|NNS </s>|S_END
+<s>|S_START in|IN her|PRP$ campaign|NN warren|NN doesnt|NN miss|NN an|DT opportunity|NN to|TO bash|VB bank|NN executives|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START she|PRP has|VBZ also|RB spent|VBN more|JJR than|IN any|DT other|JJ congressional|JJ candidate|NN on|IN television|NN ads|NNS that|WDT criticize|NN wall|MD street|VB according|VBG to|TO kantar|VB medias|NNS campaign|NN media|NNS analysis|NN group|NN which|WDT has|VBZ analyzed|VBN such|JJ ads|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB warren|VBN wasnt|NN his|PRP$ opponent|NN in|IN 2010|CD browns|NNS collected|VBN just|RB $|$ 743000|CD from|IN the|DT financial|JJ industry|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START warren|NNS has|VBZ raised|VBN $|$ 282|CD million|CD so|RB far|JJ largely|RB from|IN law|NN firms|NNS universities|NNS including|VBG harvard|NN and|CC leftleaning|VBG advocacy|NN groups|NNS like|IN emilys|NNS list|VBP which|WDT aims|NNS to|TO elect|VB prochoice|NN women|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT race|NN has|VBZ become|VBN expensive|JJ despite|IN both|DT candidates|NNS largely|RB successful|JJ pledge|NN to|TO ban|VB spending|NN by|IN secretive|JJ super|NN pacs|NNS according|VBG to|TO the|DT center|NN for|IN responsive|JJ politics|NNS </s>|S_END
+<s>|S_START add|NN the|DT dollars|NNS spent|VBD by|IN candidates|NNS no|DT longer|NN in|IN the|DT fray|NN and|CC the|DT total|JJ is|VBZ $|$ 53|CD million|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD why|WRB the|DT rich|JJ vote|NN more|RBR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD reason|NN for|IN the|DT big|JJ price|NN tag|NN is|VBZ because|IN its|PRP$ expensive|JJ to|TO run|VB television|NN ads|NNS in|IN boston|NN </s>|S_END
+<s>|S_START also|RB big|JJ money|NN follows|VBZ strong|JJ candidates|NNS said|VBD julian|JJ e|NN zelizer|NN professor|NN of|IN history|NN and|CC public|JJ affairs|NNS at|IN princeton|NN university|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START elizabeth|NN warren|VBN is|VBZ a|DT symbol|NN for|IN many|JJ democrats|NNS of|IN what|WP 2008|CD was|VBD about|IN zelizer|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT race|NN also|RB could|MD hold|VB the|DT key|NN to|TO determining|NN who|WP controls|NNS the|DT us|PRP senate|VBP </s>|S_END
+<s>|S_START besides|IN zelizer|NN said|VBD many|JJ republicans|NNS view|VBP brown|VBN as|IN a|DT powerful|JJ force|NN in|IN the|DT party|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hes|NNS attractive|VBP and|CC hes|NNS a|DT republican|JJ that|IN can|MD do|VB well|RB in|IN a|DT blue|JJ state|NN he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN far|RB the|DT price|NN tag|NN isnt|NN close|NN to|TO the|DT historic|JJ $|$ 70|CD million|CD dropped|VBD on|IN the|DT us|PRP senate|VBP race|NN for|IN new|JJ york|NN in|IN 2000|CD when|WRB hillary|JJ clinton|NN beat|NN rick|NN lazio|NN nor|CC the|DT jawdropping|NN $|$ 160|CD million|CD failed|VBD 2010|CD bid|NN by|IN meg|NN whitman|NN of|IN ebay|NN ebay|NN fortune|NN 500fame|CD for|IN california|NN governor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT warren|VBN campaign|NN said|VBD 40000|CD massachusetts|NNS residents|NNS have|VBP contributed|VBN to|TO their|PRP$ campaign|NN with|IN more|JJR than|IN 80|CD of|IN those|DT contributing|VBG $|$ 50|CD or|CC less|JJR according|VBG to|TO campaign|NN spokeswoman|NN alethea|NN harney|NN </s>|S_END
+<s>|S_START the|DT brown|NN campaign|NN didnt|NN respond|NN to|TO requests|NNS for|IN comment|NN </s>|S_END
+</p>|P_END
+

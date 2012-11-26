@@ -1,0 +1,117 @@
+<p>|P_START
+<s>|S_START many|JJ us|PRP trade|VBP schools|NNS such|JJ as|IN the|DT lanier|NN technical|JJ college|NN outside|IN atlanta|NN are|VBP seeing|VBG a|DT jump|NN in|IN enrollment|NN in|IN manufacturingrelated|JJ programs|NNS as|IN need|NN for|IN skilled|JJ factory|NN workers|NNS explodes|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN trade|NN schools|NNS nationwide|VBP are|VBP bursting|VBG at|IN the|DT seams|NNS as|IN demand|NN for|IN skilled|JJ factory|NN workers|NNS pushes|VBZ enrollment|NN to|TO record|VB highs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START american|NN manufacturers|NNS in|IN certain|JJ sectors|NNS are|VBP enjoying|VBG a|DT rebirth|JJ fueled|VBN by|IN the|DT return|NN of|IN overseas|JJ production|NN back|RB to|TO the|DT united|VBN states|NNS </s>|S_END
+<s>|S_START as|IN factories|NNS crank|VBP up|RP they|PRP have|VBP an|DT urgent|NN need|VBP for|IN highskilled|VBN workers|NNS such|JJ as|IN machinists|NNS and|CC toolanddie|VB makers|NNS knowledgeable|JJ in|IN computers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START trade|NN school|NN officials|NNS say|VBP manufacturing|VBG programs|NNS are|VBP experiencing|VBG an|DT influx|NN of|IN students|NNS young|JJ people|NNS starting|VBG out|RP midcareer|NN workers|NNS who|WP are|VBP retraining|VBG after|IN a|DT layoff|NN and|CC incumbent|NN factory|NN workers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START workers|NNS are|VBP drawn|VBN not|RB only|RB by|IN the|DT opportunity|NN but|CC also|RB the|DT pay|NN starting|VBG salaries|NNS of|IN $|$ 50000|CD to|TO $|$ 60000|CD are|VBP not|RB out|IN of|IN range|NN for|IN highskilled|VBN talent|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT surge|NN in|IN enrollment|NN is|VBZ posing|VBG unique|JJ challenges|NNS for|IN schools|NNS many|JJ of|IN which|WDT are|VBP running|VBG at|IN or|CC beyond|IN full|JJ capacity|NN for|IN the|DT first|JJ time|NN in|IN decades|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START school|NN administrators|NNS are|VBP clamoring|VBG to|TO hire|VB more|JJR instructors|NNS and|CC secure|NN funding|NN to|TO buy|VB additional|JJ equipment|NN and|CC add|VBD classes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT infrastructure|NN limitations|NNS and|CC the|DT fact|NN that|IN it|PRP can|MD take|VB a|DT year|NN or|CC more|JJR to|TO train|VB highskilled|VBN factory|NN workers|NNS mean|VBP that|IN the|DT current|JJ labor|NN shortage|NN could|MD persist|VB for|IN several|JJ years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unlike|IN 20|CD years|NNS ago|RB manufacturing|VBG today|NN requires|NNS workers|NNS who|WP are|VBP computer|RBR literate|JJ and|CC skilled|VBD in|IN computeraided|VBN design|NN and|CC engineering|NN said|VBD sandra|NN krebsbach|NN executive|NN director|NN of|IN the|DT american|JJ technical|JJ education|NN association|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START demand|NN through|IN the|DT roof|NN the|DT dunwoody|NN college|NN of|IN technology|NN a|DT private|JJ nonprofit|NN school|NN in|IN minneapolis|NNS offers|NNS twoyear|VBP programs|NNS in|IN tool|NN and|CC die|VB computeraided|VBN and|CC robotics|NNS manufacturing|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dunwoody|NN will|MD have|VB 120|CD students|NNS across|IN its|PRP$ manufacturing|NN programs|NNS this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS the|DT highest|JJS level|NN of|IN enrollees|NNS weve|VBP had|VBN in|IN 15|CD years|NNS said|VBD ej|NN </s>|S_END
+<s>|S_START daigle|NN the|DT schools|NNS director|NN of|IN robotics|NNS and|CC manufacturing|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN the|DT first|JJ time|NN in|IN the|DT schools|NNS 99year|JJ history|NN dunwoody|NN will|MD this|DT fall|NN introduce|NN a|DT sixmonth|NN certificate|NN program|NN designed|VBN to|TO fasttrack|VB training|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT program|NN will|MD allow|VB the|DT school|NN to|TO churn|VB out|RP an|DT additional|JJ 40|CD graduates|NNS trained|VBN specifically|RB in|IN computeraided|VBN manufacturing|NN said|VBD daigle|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS of|IN these|DT fasttrack|NN students|NNS are|VBP older|JJR in|IN their|PRP$ 30s|CD and|CC 40s|CD who|WP cant|JJ take|VBP two|CD years|NNS off|IN to|TO go|VB to|TO school|NN he|PRP said|VBD adding|VBG that|IN these|DT students|NNS have|VBP the|DT option|NN to|TO return|VB at|IN any|DT time|NN and|CC complete|JJ the|DT twoyear|NN degree|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START demand|NN for|IN skilled|JJ workers|NNS has|VBZ shot|VBN through|IN the|DT roof|NN in|IN his|PRP$ area|NN spurred|VBD largely|RB by|IN minneapolis|NNS robust|RB medical|JJ devices|NNS industry|NN led|VBD by|IN medtronic|JJ mdt|NN fortune|NN 500|CD said|VBD daigle|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP graduated|VBD 20|CD students|NNS in|IN june|NN and|CC we|PRP had|VBD 400|CD inquiries|NNS about|IN them|PRP from|IN manufacturers|NNS he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ a|DT similar|JJ story|NN in|IN parts|NNS of|IN wyoming|VBG said|VBD ami|NN erickson|NN dean|NN of|IN agriculture|NN and|CC technical|JJ careers|NNS at|IN northern|JJ wyoming|NN community|NN college|NN in|IN sheridan|NN and|CC gillette|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START demand|NN for|IN skilled|JJ workers|NNS in|IN wyoming|NN is|VBZ coming|VBG primarily|RB from|IN mining|VBG and|CC natural|JJ gas|NN companies|NNS she|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT industries|NNS also|RB have|VBP incumbent|VBN workers|NNS nearing|VBG retirement|NN who|WP will|MD need|VB to|TO be|VB replaced|VBN erickson|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START starting|VBG salaries|NNS run|VBP as|RB high|JJ as|IN $|$ 80000|CD and|CC possibly|RB more|RBR with|IN overtime|JJ because|IN of|IN the|DT worker|NN shortage|NN </s>|S_END
+<s>|S_START not|RB surprisingly|RB the|DT schools|NNS diesel|VBP and|CC welding|VBG technology|NN programs|NNS have|VBP large|JJ waiting|VBG lists|NNS she|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START erickson|NN is|VBZ on|IN the|DT hunt|NN to|TO add|VB instructors|NNS in|IN both|DT schools|NNS but|CC money|NN is|VBZ tight|JJ </s>|S_END
+<s>|S_START as|IN a|DT public|JJ school|NN were|VBD funded|VBN by|IN the|DT state|NN </s>|S_END
+<s>|S_START lately|RB weve|VBP had|VBN a|DT pullback|NN in|IN funding|NN she|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START highskilled|VBD workers|NNS are|VBP a|DT hot|JJ commodity|NN in|IN georgia|NN as|IN new|JJ manufacturers|NNS set|VBP up|RP base|NN and|CC existing|VBG ones|NNS expand|VBP operations|NNS said|VBD linda|NN barrow|NN vice|NN president|NN of|IN academic|JJ affairs|NNS at|IN lanier|JJR technical|JJ college|NN a|DT twoyear|NN public|NN school|NN outside|IN atlanta|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP expect|VBP enrollment|NN in|IN our|PRP$ programs|NNS will|MD jump|VB 8|CD to|TO 15|CD said|VBD barrow|NN </s>|S_END
+<s>|S_START but|CC accommodating|VBG more|JJR students|NNS is|VBZ a|DT challenge|NN </s>|S_END
+<s>|S_START our|PRP$ most|RBS handson|NN classes|NNS have|VBP at|IN most|JJS 20|CD students|NNS each|DT for|IN adequate|JJ training|NN and|CC safety|NN reasons|NNS she|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN the|DT schools|NNS come|VBP up|RP with|IN a|DT creative|JJ solution|NN virtual|JJ training|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START barrow|NN said|VBD the|DT school|NN recently|RB purchased|VBD a|DT virtual|JJ welding|NN trainer|NN that|WDT allows|VBZ students|NNS to|TO learn|VB and|CC practice|NN skills|NNS on|IN a|DT screen|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN a|DT student|NN takes|VBZ too|RB long|RB on|IN a|DT conventional|JJ machine|NN they|PRP can|MD go|VB practice|NN on|IN the|DT virtual|JJ trainer|NN she|PRP said|VBD </s>|S_END
+<s>|S_START this|DT way|NN the|DT whole|JJ class|NN isnt|NN held|VBD up|RP and|CC we|PRP can|MD also|RB train|VB more|JJR students|NNS </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

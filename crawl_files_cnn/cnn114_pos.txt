@@ -1,0 +1,51 @@
+<p>|P_START
+<s>|S_START retail|JJ sales|NNS rose|VBD 08|CD in|IN july|RB marking|VBG the|DT first|JJ increase|NN in|IN four|CD months|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN us|PRP retail|JJ sales|NNS rose|VBD for|IN the|DT first|JJ time|NN in|IN four|CD months|NNS in|IN july|RB an|DT encouraging|VBG sign|NN that|IN the|DT economy|NN may|MD have|VB started|VBN strengthening|VBG in|IN the|DT middle|NN of|IN the|DT summer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START overall|JJ retail|NN sales|NNS rose|VBD 08|CD in|IN the|DT month|NN according|VBG to|TO a|DT commerce|NN department|NN report|NN released|VBD tuesday|NN </s>|S_END
+<s>|S_START the|DT increase|NN was|VBD well|RB above|IN economists|NNS expectations|NNS for|IN growth|NN of|IN 02|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START prior|RB to|TO july|RB retail|JJ sales|NNS had|VBD declined|VBN for|IN three|CD straight|JJ months|NNS dragging|VBG on|IN overall|JJ economic|JJ growth|NN and|CC heightening|VBG calls|NNS for|IN the|DT federal|JJ reserve|NN to|TO do|VB more|JJR to|TO boost|VB the|DT recovery|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC now|RB that|IN july|RB has|VBZ brought|VBN stronger|JJR data|NNS on|IN both|DT consumer|NN spending|NN and|CC hiring|VBG it|PRP seems|VBZ less|JJR likely|JJ that|IN the|DT fed|JJ will|MD announce|VB any|DT new|JJ stimulus|NN plans|NNS at|IN its|PRP$ next|JJ meeting|NN in|IN september|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT retail|JJ sales|NNS data|NNS suggest|VBP that|IN the|DT us|PRP economy|NN fared|VBD surprisingly|RB well|RB in|IN the|DT face|NN of|IN ongoing|JJ uncertainty|NN and|CC renewed|VBD contraction|NN in|IN the|DT eurozone|NN and|CC argues|NNS against|IN the|DT need|NN for|IN additional|JJ stimulus|NN from|IN the|DT fed|VBN chris|NNS williamson|NN chief|NN economist|NN for|IN markit|NN said|VBD in|IN a|DT note|NN to|TO clients|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP cautioned|VBD against|IN getting|VBG too|RB excited|VBN about|IN the|DT stronger|JJR data|NNS though|IN </s>|S_END
+<s>|S_START its|PRP$ just|RB one|CD month|NN of|IN data|NNS and|CC the|DT retail|JJ sales|NNS numbers|NNS can|MD be|VB volatile|JJ from|IN month|NN to|TO month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START should|MD improvement|VB continue|VB over|IN the|DT coming|VBG months|NNS it|PRP could|MD give|VB a|DT muchneeded|JJ boost|NN to|TO the|DT job|NN market|NN and|CC gross|JJ domestic|JJ product|NN </s>|S_END
+<s>|S_START consumer|NN spending|NN alone|RB makes|VBZ up|RP roughly|RB twothirds|NNS of|IN the|DT us|PRP economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN july|RB the|DT gains|NNS were|VBD broad|JJ based|VBN with|IN every|DT major|JJ industry|NN reporting|NN stronger|NN sales|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START furniture|NN sales|NNS rose|VBD 11|CD in|IN july|RB and|CC spending|NN on|IN building|NN materials|NNS and|CC garden|JJ supplies|NNS rose|VBD 1|CD adding|VBG to|TO other|JJ signs|NNS of|IN a|DT gradual|JJ housing|NN recovery|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB spending|NN at|IN sporting|NN goods|NNS hobby|VBP book|NN and|CC music|JJ stores|NNS posted|VBD the|DT biggest|JJS gain|NN with|IN sales|NNS on|IN those|DT items|NNS rising|VBG 16|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START spending|NN at|IN gasoline|NN stations|NNS rose|VBD 05 |CD </s>|S_END
+</p>|P_END
+

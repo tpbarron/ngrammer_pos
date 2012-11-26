@@ -1,0 +1,113 @@
+<p>|P_START
+<s>|S_START obama|NN and|CC romney|NN want|NN to|TO tame|VB deficits|NNS and|CC the|DT national|JJ debt|NN </s>|S_END
+<s>|S_START but|CC they|PRP have|VBP very|RB different|JJ plans|NNS for|IN doing|VBG it|PRP </s>|S_END
+<s>|S_START and|CC budget|NN experts|NNS say|VBP both|DT fall|NN short|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN both|DT president|NN obama|NN and|CC mitt|NN romney|NN share|NN a|DT similar|JJ goal|NN when|WRB it|PRP comes|VBZ to|TO the|DT federal|JJ debt|NN they|PRP want|VBP to|TO get|VB it|PRP under|IN control|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB they|PRP would|MD do|VB it|PRP differs|NNS greatly|RB </s>|S_END
+<s>|S_START obamas|NNS goal|VBP is|VBZ more|RBR restrained|VBN he|PRP wants|VBZ to|TO keep|VB deficits|NNS from|IN growing|VBG faster|JJR than|IN the|DT economy|NN </s>|S_END
+<s>|S_START romneys|NNS aim|VBP is|VBZ to|TO flatout|VB balance|NN the|DT federal|JJ budget|NN in|IN eight|CD years|NNS </s>|S_END
+<s>|S_START related|VBD the|DT candidates|NNS and|CC the|DT fiscal|JJ cliff|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unfortunately|RB budget|VBD experts|NNS say|VBP both|DT candidates|NNS plans|VBZ fall|NN short|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START obamas|NNS numbers|NNS are|VBP more|RBR realistic|JJ but|CC they|PRP dont|VBP get|VB us|PRP very|RB far|RB said|VBD robert|NN bixby|NN who|WP runs|VBZ the|DT concord|NN coalition|NN a|DT deficit|NN watchdog|NN group|NN </s>|S_END
+<s>|S_START romneys|NNS numbers|NNS get|VBP us|PRP a|DT long|JJ way|NN but|CC they|PRP arent|VBP very|RB realistic|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START obama|NN stop|VBP debt|NN growing|VBG faster|JJR than|IN gdp|NN the|DT presidents|NNS proposed|VBD budget|NN for|IN fiscal|JJ year|NN 2013|CD would|MD reduce|VB annual|JJ deficits|NNS to|TO below|VB 3|CD of|IN the|DT size|NN of|IN the|DT economy|NN after|IN a|DT few|JJ years|NNS </s>|S_END
+<s>|S_START the|DT deficit|NN this|DT year|NN is|VBZ projected|VBN to|TO be|VB about|RB 7|CD </s>|S_END
+<s>|S_START obama|NN is|VBZ trying|VBG to|TO achieve|VB whats|NNS called|VBN primary|JJ budget|NN balance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT means|VBZ all|DT federal|JJ spending|NN except|IN interest|NN owed|VBD on|IN the|DT countrys|NNS debt|NN would|MD be|VB paid|VBN for|IN by|IN federal|JJ revenue|NN </s>|S_END
+<s>|S_START it|PRP also|RB means|VBZ annual|JJ deficits|NNS would|MD no|RB longer|RBR be|VB growing|VBG faster|JJR than|IN the|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START from|IN 2020|CD through|IN 2022|CD obamas|NNS budget|NN proposals|NNS would|MD stabilize|VB the|DT debt|NN held|VBD by|IN the|DT public|NN at|IN 76|CD of|IN gdp|NN according|VBG to|TO an|DT analysis|NN by|IN the|DT congressional|JJ budget|NN office|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS a|DT necessary|JJ first|JJ step|NN in|IN making|VBG the|DT budget|NN sustainable|JJ but|CC independent|JJ fiscal|JJ hawks|NNS would|MD prefer|VB the|DT debt|NN be|VB stabilized|VBN at|IN a|DT lower|JJR level|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START over|IN the|DT next|JJ decade|NN obamas|NNS budget|NN would|MD rack|VB up|RP $|$ 64|CD trillion|CD in|IN deficits|NNS below|IN the|DT $|$ 10|CD trillion|CD that|WDT would|MD accrue|VB if|IN todays|NNS policies|NNS were|VBD extended|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START obama|NN would|MD achieve|VB his|PRP$ deficit|NN savings|NNS on|IN both|DT the|DT spending|NN and|CC revenue|NN sides|NNS of|IN the|DT ledger|NN </s>|S_END
+<s>|S_START he|PRP would|MD also|RB incorporate|VB many|JJ of|IN the|DT spending|NN caps|VBZ established|VBN in|IN the|DT budget|NN control|NN act|NN the|DT 2011|CD compromise|NN law|NN that|WDT resolved|VBD the|DT debt|NN ceiling|NN crisis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN a|DT result|NN discretionary|NN spending|NN as|IN a|DT share|NN of|IN the|DT economy|NN would|MD fall|VB to|TO the|DT lowest|JJS level|NN in|IN 50|CD years|NNS but|CC overall|JJ spending|NN would|MD average|VB 225|CD over|IN the|DT next|JJ decade|NN </s>|S_END
+<s>|S_START thats|NNS below|IN where|WRB its|PRP$ been|VBN in|IN the|DT past|JJ few|JJ years|NNS but|CC above|IN the|DT historical|JJ average|NN of|IN 208|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN the|DT first|JJ decade|NN however|RB the|DT presidents|NNS budget|NN would|MD not|RB constrain|VB the|DT growth|NN in|IN debt|NN because|IN his|PRP$ budget|NN does|VBZ not|RB include|VB broad|JJ reforms|NNS to|TO medicare|VB which|WDT is|VBZ one|CD of|IN the|DT biggest|JJS drivers|NNS of|IN the|DT countrys|NNS debt|NN over|IN the|DT long|JJ term|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START beyond|IN 2022|CD the|DT fiscal|JJ position|NN gradually|RB deteriorates|VBZ mainly|RB because|IN of|IN the|DT aging|NN of|IN the|DT population|NN and|CC the|DT high|JJ continuing|VBG cost|NN of|IN the|DT governments|NNS health|NN programs|NNS the|DT white|JJ house|NN budget|NN office|NN noted|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD $|$ 3500|CD fiscal|JJ cliff|NN tax|NN hit|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romney|NN cut|VBD cap|NN and|CC balance|NN just|RB how|WRB big|JJ of|IN an|DT effect|NN romneys|VBZ economic|JJ proposals|NNS would|MD have|VB on|IN deficits|NNS depend|VBP on|IN details|NNS he|PRP has|VBZ yet|RB to|TO offer|VB and|CC on|IN how|WRB much|JJ economic|JJ growth|NN his|PRP$ plans|NNS would|MD generate|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START broadly|RB the|DT gop|NN nominee|NN wants|VBZ to|TO cut|VB both|DT tax|NN rates|NNS and|CC spending|NN while|IN reforming|VBG the|DT tax|NN code|NN and|CC entitlement|NN programs|NNS </s>|S_END
+<s>|S_START that|DT combination|NN his|PRP$ economic|JJ advisers|NNS and|CC others|NNS say|VBP could|MD spur|VB economic|JJ growth|NN </s>|S_END
+<s>|S_START that|DT in|IN turn|NN could|MD generate|VB new|JJ revenue|NN which|WDT helps|NNS reduce|VBP deficits|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START specifically|RB romney|NN has|VBZ promised|VBN to|TO cap|VB government|NN spending|NN at|IN 20|CD of|IN gdp|NN and|CC balance|NN the|DT budget|NN by|IN 2020|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP has|VBZ ruled|VBN out|RP raising|VBG taxes|NNS so|IN he|PRP would|MD achieve|VB these|DT goals|NNS by|IN cutting|VBG spending|NN although|IN not|RB on|IN defense|NN </s>|S_END
+<s>|S_START indeed|RB by|IN some|DT estimates|NNS he|PRP would|MD increase|VB defense|NN spending|NN by|IN more|RBR than|IN $|$ 2|CD trillion|CD over|IN a|DT decade|NN an|DT increase|NN he|PRP has|VBZ promised|VBN to|TO pay|VB for|IN with|IN other|JJ spending|NN cuts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN a|DT minimum|JJ then|RB to|TO balance|NN the|DT budget|NN he|PRP might|MD need|VB to|TO cut|VB funding|NN nearly|RB in|IN half|DT across|NN many|JJ areas|NNS of|IN government|NN by|IN 2020|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN the|DT revenue|NN side|NN romney|NN has|VBZ promised|VBN to|TO cut|VB todays|NNS income|NN tax|NN rates|NNS by|IN 20|CD repeal|NN the|DT alternative|NN minimum|NN tax|NN and|CC the|DT estate|NN tax|NN and|CC make|VB investment|NN income|NN tax|NN free|JJ for|IN those|DT earning|VBG less|JJR than|IN $|$ 200000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romney|NN has|VBZ promised|VBN to|TO pay|VB for|IN those|DT changes|NNS through|IN higher|JJR economic|JJ growth|NN and|CC by|IN curbing|NN tax|NN breaks|NNS </s>|S_END
+<s>|S_START this|DT week|NN he|PRP mentioned|VBD that|IN one|CD way|NN to|TO rein|VB in|IN tax|NN breaks|NNS is|VBZ to|TO cap|VB the|DT amount|NN in|IN itemized|JJ deductions|NNS at|IN no|DT more|RBR than|IN $|$ 17000|CD </s>|S_END
+<s>|S_START its|PRP$ unclear|JJ without|IN more|RBR details|NNS how|WRB much|RB revenue|NN such|JJ a|DT proposal|NN would|MD raise|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START without|IN offsets|NNS his|PRP$ tax|NN plan|NN could|MD reduce|VB revenue|NN by|IN $|$ 5|CD trillion|CD over|IN a|DT decade|NN according|VBG to|TO tax|NN policy|NN center|NN estimates|NNS </s>|S_END
+<s>|S_START so|IN thats|NNS the|DT hole|NN he|PRP would|MD need|VB to|TO fill|VB just|RB to|TO ensure|VB his|PRP$ tax|NN changes|NNS dont|VBP increase|NN deficits|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT committee|NN for|IN a|DT responsible|JJ federal|JJ budget|NN estimates|NNS that|WDT even|RB if|IN romney|NN accomplishes|NNS that|WDT his|PRP$ economic|JJ plan|NN would|MD still|RB leave|VB debt|NN as|IN a|DT percentage|NN of|IN gdp|NN around|IN 85|CD at|IN the|DT end|NN of|IN the|DT decade|NN </s>|S_END
+</p>|P_END
+

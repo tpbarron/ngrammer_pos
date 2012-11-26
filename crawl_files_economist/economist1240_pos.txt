@@ -1,0 +1,45 @@
+<p>|P_START
+<s>|S_START link|NN rot|VBD afflicts|NNS the|DT connective|JJ tissue|NN of|IN the|DT internet|NN </s>|S_END
+<s>|S_START if|IN sites|NNS rejig|VBP their|PRP$ content|NN carelessly|RB useful|JJ web|NN addresses|NNS technically|RB known|VBN as|IN urls|NNS may|MD bring|VB up|RP only|RB an|DT error|NN message|NN </s>|S_END
+<s>|S_START a|DT technical|JJ glitch|NN on|IN october|NN 8th|CD at|IN twitter|NN brought|VBD an|DT ominous|JJ outbreak|NN of|IN link|NN rot|NN when|WRB the|DT microblogging|NN site’s|VBZ tco|NN link|NN shortener|NN suffered|VBD a|DT 40minute|JJ outage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hortening|VBG services|NNS turn|VB long|JJ web|NN addresses|NNS into|IN handy|NN short|JJ ones|NNS a|DT tweet|NN featuring|VBG this|DT article’s|JJ cumbersome|NN address|NN economistcomnode21564506|NNP would|MD instead|VB show|NN tco6ekequoz|NNP </s>|S_END
+<s>|S_START that|DT is|VBZ particularly|RB handy|JJ for|IN those|DT constrained|VBN by|IN twitter’s|NNP 140character|CD message|NN limit|NN </s>|S_END
+<s>|S_START but|CC short|JJ links|NNS are|VBP useful|JJ anywhere|RB on|IN the|DT internet|NN where|WRB concision|NN is|VBZ valued|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START convenience|NN has|VBZ its|PRP$ cost|NN </s>|S_END
+<s>|S_START twitter’s|NNS glitch|VBP highlights|NNS a|DT serious|JJ weakness|NN notes|NNS mikko|VBP hypponen|VBN an|DT internetsecurity|NN expert|NN </s>|S_END
+<s>|S_START manufactured|VBD short|JJ links|NNS are|VBP particularly|RB prone|JJ to|TO link|VB rot|NN </s>|S_END
+<s>|S_START they|PRP contain|VBP no|DT clue|NN about|IN the|DT ultimate|JJ destination|NN </s>|S_END
+<s>|S_START if|IN the|DT providers|NNS vanish|VBP so|RB do|VBP all|DT the|DT vital|JJ signposts|NNS they|PRP have|VBP created|VBN and|CC stored|VBD </s>|S_END
+<s>|S_START when|WRB that|DT happens|VBZ the|DT user|NN has|VBZ little|JJ or|CC no|DT recourse|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN around|IN 1000|CD link|NN shorteners|NNS launched|VBD since|IN 2001|CD 600odd|CD had|VBD folded|VBN by|IN may|MD 2012|CD according|VBG to|TO yitl|VB a|DT new|JJ service|NN </s>|S_END
+<s>|S_START many|JJ were|VBD used|VBN as|IN disguise|NN by|IN spammers|NNS and|CC scammer|NN </s>|S_END
+<s>|S_START but|CC bona|VBP fide|JJ services|NNS have|VBP failed|VBN too|RB </s>|S_END
+<s>|S_START when|WRB twitter|NN chose|NN bitly|RB a|DT leading|VBG linkshrinker|NN as|IN its|PRP$ default|NN shortener|NN in|IN 2009|CD the|DT owners|NNS of|IN trim|JJ a|DT popular|JJ service|NN with|IN nearly|RB 1m|CD users|NNS a|DT month|NN declared|VBD bitly|RB “the|JJ market|NN winner”|NN </s>|S_END
+<s>|S_START they|PRP said|VBD they|PRP would|MD stop|VB paying|VBG for|IN the|DT upkeep|NN of|IN the|DT site|JJ it|PRP once|RB claimed|VBD to|TO be|VB “the|JJ original|JJ url|NN shortener”|NN </s>|S_END
+<s>|S_START its|PRP$ links|NNS are|VBP now|RB dead|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START clever|NN names|VBZ such|JJ as|IN isgd|JJ have|VBP to|TO compete|VB against|IN the|DT clout|NN of|IN web|NN giants’|NN inhouse|NN shorteners|NNS such|JJ as|IN google’s|JJ gco|NN </s>|S_END
+<s>|S_START peter|NN stern|NN the|DT boss|NN of|IN bitly|RB says|VBZ shortening|VBG alone|RB is|VBZ “rather|JJ silly”|NN from|IN a|DT business|NN viewpoint|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB twitter|NN started|VBN tco|NN bitly|RB lost|VBD out|IN </s>|S_END
+<s>|S_START but|CC it|PRP still|RB makes|VBZ money|NN from|IN shrinking|VBG link|NN </s>|S_END
+<s>|S_START it|PRP creates|VBZ inhouse|NN shorteners|NNS such|JJ as|IN nytims|NNS pepsi|VBP and|CC econst|IN </s>|S_END
+<s>|S_START at|IN sufficient|NN scale|NN analysing|VBG the|DT clicks|NNS on|IN these|DT short|JJ links|NNS to|TO harvest|VB data|NNS can|MD be|VB a|DT profitable|JJ busine|NN </s>|S_END
+<s>|S_START other|JJ providers|NNS meanwhile|IN promote|NN a|DT cause|NN or|CC a|DT country|NN </s>|S_END
+<s>|S_START patrons|NNS of|IN shorteners|NNS such|JJ as|IN utags|NNS and|CC goodly|RB can|MD turn|VB other|JJ people’s|JJ clicks|NNS into|IN tiny|JJ donations|NNS to|TO designated|VBN charitie|NN </s>|S_END
+<s>|S_START while|IN they|PRP last|JJ that|IN i|PRP </s>|S_END
+</p>|P_END
+

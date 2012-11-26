@@ -1,0 +1,40 @@
+<p>The Gmail phishing e-mails sent to U.S. officials convincingly posed as messages from people they knew.</p>
+
+<p>NEW YORK (CNNMoney) -- The targeted phishing scheme that struck hundreds of top U.S. government officials' personal Gmail accounts was neither difficult to perform nor incredibly sophisticated.</p>
+
+<p>The attackers were able to pose as legitimate, trusted senders from the State Department, Office of the Secretary of Defense and the Defense Intelligence Agency by sending e-mails from what appeared -- even on close inspection -- to be real e-mail addresses ending in familiar domains like state.gov, osd.mil and dia.mil.</p>
+
+<p>To accomplish that, the attackers told their mail server to send e-mails from the spoofed addresses rather than their own. Though most e-mail clients like Gmail or Microsoft (MSFT, Fortune 500) Outlook don't allow users to do that, that's one of the fields an administrator of an e-mail server can easily change.</p>
+
+<p>When that's done, it's incredibly difficult or sometimes impossible for a user to know that the sender is really an impostor.</p>
+
+<p>In this case, malicious e-mails were sent with some text and what appeared to be an attachment. According to the Contagio blog, which first discovered the attack in February, one e-mail sent to State Department officials read:</p>
+
+<p>"This is the latest version of State's joint statement. My understanding is that State put in placeholder econ language and am happy to have us fill in but in their rush to get a cleared version from the WH, they sent the attached to Mike."</p>
+
+<p>At the bottom of that particular e-mail, a prompt was shown for what appeared to be a download link for an attached Word document called "Joint Statement - U S draft_KC edits.doc." Except it wasn't a download link -- it was formatted to look like one with some underscores, bold and hyperlinked text.</p>
+
+<p>When the victim clicked on that link, he or she was redirected to a fake but very convincing login page for Gmail. It's unusual for Gmail to ask users to log in again, but perhaps the victims thought their e-mail session had timed out.</p>
+
+<p>After victims entered their log-in information into the fake page, the attackers collected their passwords and were able to gain access to their Gmail accounts.</p>
+
+<p>It's far from rocket science, and it can be carried out by just about anyone.</p>
+
+<p>Eric Fiterman, a former FBI special agent, proved the point for us. He's the founder of Rogue Networks, a security startup housed in a new Baltimore-based cybersecurity incubator program backed by Northrop Grumman (NOC, Fortune 500) and the University of Maryland Baltimore County. As part of the service Fiterman offers clients, he launches mock phishing attacks to test the security of corporate networks.</p>
+
+<p>Using a virtual Linux-based mail server, which costs just a few dollars a month to run, Fiterman was able to spoof e-mail addresses from Ted Turner, Nancy Pelosi as well as my own in a matter of minutes. Neither the Turner e-mail client nor Gmail detected any problems with the e-mails. (Click here for more on how Fiterman faked the e-mails.)</p>
+
+<p>"Not only is it very easy to forge e-mails, but for Google (GOOG, Fortune 500) to find it would be akin to finding a needle in a haystack," he said. "Massive phishing schemes are easy to detect and throw in a spam folder, but targeted attacks are hard to find."</p>
+
+<p>In the case of targeted phishing attacks, or "spear phishing," it often takes a pair of human eyes to discern the misdirection. But some attackers have gotten so clever, their schemes are becoming almost seamless.</p>
+
+<p>"If someone knows what they're doing, and they send a well-crafted spoof e-mail that targets specific users, it's nearly impossible for the end user to detect," said Kevin Haley, director at Symantec (SYMC, Fortune 500) Security Response.</p>
+
+<p>There are some ways to uncover such schemes, however.</p>
+
+<p>End users can usually view the original source of the e-mail (in Gmail, you can do that by clicking the down arrow next to the reply button and clicking "show original.") It looks like a giant garble of code, but it provides some useful information.</p>
+
+<p>For instance, if the "return-path" or "sender" field does not match the e-mail address that appeared to send the e-mail, it's likely a spoof. Another tip off is if the "SPF" (sender policy framework) field says it "does not designate the sender's IP address as a permitted sender," or if it says the IP address "is neither permitted nor denied by best guess record for the domain."</p>
+
+<p>In the case of the phishing attack against the U.S. government officials, some of the e-mails were really sent from addresses like flash10f@163.com, jeffreybader1965@163.com. But the recipients only would have known that by doing a deep dive into code. </p>
+

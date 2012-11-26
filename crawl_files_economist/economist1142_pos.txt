@@ -1,0 +1,11 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 32 |CD gdp|NN $|$ 542bn|CD ppp|CD $|$ 805bn |CD inflation|NN 30 |CD population|NN 381m|CD gdp|NN per|IN head|NN $|$ 14250|CD ppp|CD $|$ 21140|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT civic|JJ platform|NN party|NN cruised|VBD to|TO victory|NN in|IN polands|NNS general|JJ election|NN in|IN october|NN and|CC will|MD reform|VB its|PRP$ old|JJ coalition|NN with|IN the|DT agrarian|JJ polish|JJ peasants|NNS party|NN </s>|S_END
+<s>|S_START this|DT will|MD be|VB the|DT first|JJ time|NN a|DT polish|JJ prime|NN minister—donald|JJ tusk—has|JJ led|VBN two|CD consecutive|JJ governments|NNS since|IN the|DT fall|NN of|IN communism|NN </s>|S_END
+<s>|S_START enthusiasm|NN for|IN euro|NN adoption|NN has|VBZ waned|VBN and|CC the|DT issue|NN will|MD be|VB shuffled|VBN to|TO the|DT bottom|NN of|IN the|DT policy|NN deck|NN </s>|S_END
+<s>|S_START trong|IN domestic|JJ consumption|NN will|MD drive|VB growth|NN and|CC inflation|NN will|MD fall|VB back|RB to|TO a|DT more|RBR acceptable|JJ level |NN </s>|S_END
+</p>|P_END
+

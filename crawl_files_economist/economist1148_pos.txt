@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 33|CD gdp|NN $|$ 97bn|CD ppp|CD $|$ 134bn|CD inflation|NN 20|CD population|NN 54m|CD gdp|NN per|IN head|NN $|$ 18090|CD ppp|CD $|$ 24700|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT government|NN fell|VBD in|IN october|NN when|WRB the|DT legislature|NN blocked|VBD a|DT plan|NN to|TO beef|VB up|RP the|DT euro|NN zones|NNS bailout|IN plan—which|JJ was|VBD approved|VBN in|IN a|DT subsequent|JJ vote|NN days|NNS later|JJ </s>|S_END
+<s>|S_START lovakia|NN is|VBZ now|RB lumbered|VBN with|IN a|DT lameduck|NN interim|JJ government|NN until|IN elections|NNS in|IN march|NN </s>|S_END
+<s>|S_START with|IN a|DT less|JJR reformist|NN government|NN likely|JJ to|TO be|VB formed|VBN after|IN the|DT vote|NN slovakia|NN will|MD struggle|VB to|TO weather|VB the|DT euro|NN area|NN storm|NN </s>|S_END
+</p>|P_END
+

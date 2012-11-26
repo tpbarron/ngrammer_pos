@@ -1,0 +1,43 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN chases|NNS website|VBP was|VBD slow|JJ and|CC unavailable|JJ for|IN some|DT users|NNS for|IN several|JJ hours|NNS on|IN wednesday|NN one|CD day|NN after|IN bank|NN of|IN america|NN experienced|VBN similar|JJ issues|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START around|IN 140|CD pm|NN </s>|S_END
+<s>|S_START et|NN on|IN wednesday|NN chases|NNS twitter|NN account|NN tweeted|VBD chasecom|NN is|VBZ experiencing|VBG intermittent|NN issues|NNS </s>|S_END
+<s>|S_START were|VBD working|VBG to|TO restore|VB full|JJ connectivity|NN apologize|NN for|IN any|DT inconvenience|NN </s>|S_END
+<s>|S_START chase|NN spokesman|NN patrick|NN linehan|NN repeated|VBD a|DT similar|JJ statement|NN and|CC declined|VBD to|TO comment|NN further|RB on|IN the|DT reason|NN for|IN the|DT problems|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START monitoring|VBG firm|NN keynote|NN says|VBZ the|DT trouble|NN appeared|VBD to|TO start|VB around|IN 1215|CD pm|NN et|NN and|CC was|VBD mostly|RB resolved|VBN by|IN the|DT late|JJ afternoon|NN although|IN some|DT sluggishness|NN remained|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START chases|NNS site|VBP issues|NNS broke|VBP out|RP just|RB as|IN bank|NN of|IN america|NN bac|NN fortune|NN 500|CD was|VBD recovering|VBG from|IN its|PRP$ own|JJ intermittent|NN slowness|NN </s>|S_END
+<s>|S_START bank|NN of|IN america|NN didnt|NN reveal|NN the|DT cause|NN of|IN its|PRP$ glitches|NNS but|CC both|DT banks|NNS recently|RB rolled|VBD out|IN changes|NNS to|TO their|PRP$ website|JJ that|IN could|MD have|VB inadvertently|RB caused|VBN a|DT problem|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN blogs|NNS and|CC twitter|NN some|DT hacker|NN groups|NNS were|VBD claiming|VBG responsibility|NN for|IN the|DT issues|NNS at|IN both|DT banks|NNS </s>|S_END
+<s>|S_START the|DT problems|NNS at|IN both|DT banks|NNS began|VBD soon|RB after|IN one|CD group|NN posted|VBD messages|NNS on|IN pastebin|NN calling|VBG for|IN attacks|NNS on|IN the|DT banks|NNS sites|VBZ </s>|S_END
+<s>|S_START the|DT website|NN of|IN the|DT new|JJ york|NN stock|NN exchange|NN also|RB mentioned|VBD as|IN a|DT target|NN in|IN tuesdays|NNS message|NN did|VBD not|RB suffer|VB any|DT apparent|JJ outages|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT favorite|JJ weapon|NN for|IN these|DT kinds|NNS of|IN cyberattacks|NNS is|VBZ a|DT distributed|VBN denial|JJ of|IN service|NN ddos|NNS attack|VBP which|WDT directs|NNS a|DT flood|NN of|IN traffic|JJ to|TO a|DT website|JJ and|CC temporarily|RB crashes|VBZ it|PRP by|IN overwhelming|VBG its|PRP$ servers|NNS </s>|S_END
+<s>|S_START it|PRP doesnt|VBD actually|RB involve|VB any|DT hacking|NN or|CC security|NN breaches|NNS </s>|S_END
+<s>|S_START a|DT ddos|NN attack|NN would|MD typically|RB cause|VB the|DT type|NN of|IN slowness|NN and|CC intermittent|NN unavailability|NN that|WDT both|DT chase|NN jpm|NN fortune|NN 500|CD and|CC bank|NN of|IN america|NN experienced|VBN this|DT week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC there|EX was|VBD no|DT immediate|JJ evidence|NN to|TO support|VB the|DT hackers|NNS claims|VBZ and|CC several|JJ recent|JJ ones|NNS turned|VBD out|RP to|TO be|VB hoaxes|NNS </s>|S_END
+<s>|S_START earlier|JJR this|DT month|NN a|DT person|NN affiliated|VBN with|IN the|DT hacktivist|NN collective|JJ anonymous|JJ said|VBD the|DT group|NN took|VBD down|RB the|DT web|NN hosting|VBG service|NN godaddy|NN and|CC in|IN june|NN the|DT group|NN ugnazi|NN claimed|VBD responsibility|NN for|IN downing|NN twitter|NN </s>|S_END
+<s>|S_START both|DT outages|NNS were|VBD later|JJ revealed|VBN to|TO be|VB technical|JJ issues|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP can|MD assure|VB you|PRP we|PRP continuously|RB take|VBP proactive|JJ measures|NNS to|TO secure|VB our|PRP$ systems|NNS bank|NN of|IN americas|NNS spokesman|NN said|VBD on|IN tuesday|NN in|IN response|NN to|TO a|DT question|NN about|IN whether|IN the|DT company|NN had|VBD seen|VBN any|DT signs|NNS of|IN a|DT cyberattack|NN </s>|S_END
+<s>|S_START chases|NNS spokesman|NN declined|VBD to|TO comment|NN about|IN the|DT issue|NN </s>|S_END
+</p>|P_END
+

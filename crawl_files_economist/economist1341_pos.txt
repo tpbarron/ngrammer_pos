@@ -1,0 +1,49 @@
+<p>|P_START
+<s>|S_START waste|NN disposal|NN is|VBZ still|RB a|DT big|JJ part|NN of|IN postcrisis|NN banking|NN </s>|S_END
+<s>|S_START a|DT large|JJ amount|NN of|IN toxic|JJ securities|NNS and|CC loans|NNS remains|VBZ on|IN banks|NNS balancesheet|VBP </s>|S_END
+<s>|S_START after|IN its|PRP$ bailout|NN citigroup|NN for|IN example|NN split|NN itself|PRP into|IN a|DT “good|JJ bank”|NN and|CC a|DT “bad|JJ bank”|NN for|IN operational|JJ purpose|NN </s>|S_END
+<s>|S_START the|DT nasty|NN bit|NN still|RB represents|VBZ a|DT fifth|JJ of|IN the|DT firms|NNS assets|NNS and|CC accounts|NNS for|IN a|DT third|JJ of|IN its|PRP$ capital|NN requirement|NN </s>|S_END
+<s>|S_START two|CD other|JJ rescued|VBN firms|NNS royal|VBP bank|NN of|IN scotland|NN and|CC commerzbank|NN took|VBD a|DT similar|JJ approach|NN </s>|S_END
+<s>|S_START add|NN in|IN hsbc|NN too|RB which|WDT was|VBD not|RB bailed|VBN out|RP but|CC which|WDT is|VBZ running|VBG down|IN a|DT ringfenced|VBN portfolio|NN of|IN consumer|NN and|CC housing|VBG loans|NNS in|IN america|NN and|CC the|DT total|JJ “badbank”|NN assets|NNS in|IN these|DT four|CD firms|NNS alone|RB amount|NN to|TO nearly|RB $|$ 1|CD trillion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT number|NN of|IN bad|JJ banks|NNS is|VBZ actually|RB going|VBG up|RP </s>|S_END
+<s>|S_START bank|NN of|IN america|NN announced|VBD this|DT month|NN that|IN it|PRP would|MD set|VB up|RP a|DT new|JJ unit|NN to|TO manage|VB the|DT firms|NNS soured|VBD mortgage|NN </s>|S_END
+<s>|S_START many|JJ other|JJ firms|NNS have|VBP fiddlier|JJR arrangement|NN </s>|S_END
+<s>|S_START kbc|NN a|DT bailedout|NN belgian|NN firm|NN still|RB has|VBZ some|DT €25|JJ billion|NN $|$ 36|CD billion|CD of|IN notional|JJ exposure|NN to|TO collateraliseddebt|VB obligations|NNS although|IN it|PRP says|VBZ these|DT are|VBP largely|RB written|VBN off|RP or|CC covered|VBN by|IN a|DT specific|JJ state|NN guarantee|NN </s>|S_END
+<s>|S_START barclays|NNS has|VBZ an|DT offbalancesheet|NN vehicle|NN called|VBN protium|NN into|IN which|WDT it|PRP dumped|VBD some|DT $|$ 123|CD billion|CD of|IN risky|JJ asset|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bad|JJ banks|NNS are|VBP partly|RB about|IN slick|NN presentation|NN </s>|S_END
+<s>|S_START hareholders|NNS and|CC creditors|NNS still|RB own|JJ a|DT single|JJ firm|NN but|CC feel|NN more|RBR confident|JJ if|IN they|PRP can|MD see|VB a|DT consistently|RB profitable|JJ division|NN within|IN it|PRP </s>|S_END
+<s>|S_START egregating|VBG assets|NNS can|MD also|RB concentrate|VB managers|NNS minds|NNS on|IN the|DT task|NN of|IN getting|VBG rid|JJ of|IN the|DT rubbish|JJ </s>|S_END
+<s>|S_START taking|VBG citigroup|NN rbs|NNS commerzbank|VBP and|CC hsbc|NN together|RB badbank|NN assets|NNS have|VBP fallen|VBN from|IN $|$ 16|CD trillion|CD in|IN early|JJ 2009|CD to|TO almost|RB $|$ 1|CD trillion|CD </s>|S_END
+<s>|S_START quarterly|RB pretax|NN losses|NNS on|IN these|DT holdings|NNS have|VBP dropped|VBN sharply|RB see|VB chart|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT job|NN is|VBZ not|RB done|VBN yet|RB </s>|S_END
+<s>|S_START two|CD years|NNS ago|RB the|DT hits|NNS came|VBD mainly|RB from|IN securities|NNS that|WDT had|VBD to|TO be|VB marked|VBN to|TO market|NN </s>|S_END
+<s>|S_START now|RB those|DT same|JJ instruments|NNS are|VBP producing|VBG modest|JJ profits|NNS for|IN some|DT firms|NNS such|JJ as|IN commerzbank|NN </s>|S_END
+<s>|S_START the|DT bulk|NN of|IN losses|NNS today|NN are|VBP from|IN commercialproperty|NN and|CC consumer|NN loan|NN </s>|S_END
+<s>|S_START most|JJS firms|NNS expect|VBP continued|VBN heavy|JJ writedowns|NNS this|DT year|NN but|CC an|DT improvement|NN thereafter|NN rbs|NNS for|IN example|NN reckons|NNS its|PRP$ bad|JJ bank|NN has|VBZ now|RB recognised|VBN some|DT 5075|CD of|IN the|DT impairments|NNS the|DT assets|NNS are|VBP expected|VBN to|TO generate|VB </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ possible|JJ that|IN losses|NNS could|MD start|VB rising|VBG again|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bigger|JJR concern|NN is|VBZ the|DT time|NN it|PRP takes|VBZ to|TO clean|VB things|NNS up|IN </s>|S_END
+<s>|S_START based|VBN on|IN its|PRP$ experience|NN last|JJ year|NN citis|NNS bad|JJ bank|NN shrinks|VBZ by|IN only|RB about|IN 10|CD a|DT year|NN of|IN its|PRP$ own|JJ accord|NN as|IN assets|NNS mature|VBP </s>|S_END
+<s>|S_START rbs|NNS has|VBZ suggested|VBN a|DT similar|JJ rate|NN of|IN natural|JJ decline|NN </s>|S_END
+<s>|S_START o|NN far|RB most|JJS firms|NNS have|VBP achieved|VBN far|RB faster|JJR rates|NNS of|IN reduction|NN by|IN restructuring|NN and|CC selling|VBG bad|JJ assets|NNS but|CC some|DT worry|NN that|IN the|DT easy|JJ gains|NNS have|VBP now|RB been|VBN made|VBN </s>|S_END
+<s>|S_START hsbc|NN has|VBZ indicated|VBN that|IN the|DT sluggish|JJ american|NN housing|NN market|NN will|MD mean|VB its|PRP$ portfolio|NN may|MD shrink|VB more|RBR slowly|RB that|IN it|PRP once|RB hoped|VBD for|IN instance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START looming|VBG over|IN all|DT of|IN this|DT are|VBP the|DT new|JJ capital|NN rule|NN </s>|S_END
+<s>|S_START the|DT unspoken|VBN goal|NN of|IN almost|RB all|DT firms|NNS is|VBZ quickly|RB to|TO offload|VB the|DT remaining|VBG dodgy|NN assets|NNS on|IN their|PRP$ balancesheets|NNS thus|RB releasing|VBG capital|NN to|TO offset|VB the|DT higher|JJR overall|JJ capital|NN standards|NNS being|VBG imposed|VBN on|IN them|PRP </s>|S_END
+<s>|S_START but|CC the|DT rate|NN of|IN natural|JJ shrinkage|NN of|IN their|PRP$ bad|JJ banks|NNS is|VBZ low|JJ and|CC the|DT remaining|VBG dud|NN assets|NNS are|VBP hard|RB to|TO sell|VB at|IN reasonable|JJ price|NN </s>|S_END
+<s>|S_START theyre|NN called|VBN toxic|JJ for|IN a|DT reason|NN </s>|S_END
+</p>|P_END
+

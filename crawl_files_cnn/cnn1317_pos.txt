@@ -1,0 +1,76 @@
+<p>|P_START
+<s>|S_START one|CD in|IN four|CD spanish|JJ workers|NNS are|VBP now|RB without|IN a|DT job|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START london|NN cnnmoney|NN spains|NNS unemployment|NN rate|NN hit|VBD a|DT record|NN high|JJ of|IN 25|CD in|IN the|DT third|JJ quarter|NN as|IN the|DT jobless|NN total|NN grew|VBD to|TO nearly|RB 58|CD million|CD people|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT latest|JJS unemployment|NN data|NNS reflects|VBZ the|DT impact|NN of|IN the|DT regions|NNS recession|NN and|CC spains|VBZ government|NN cuts|NNS aimed|VBN at|IN restoring|NN stability|NN to|TO the|DT countrys|NNS finances|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT national|JJ statistics|NNS office|NN said|VBD unemployment|NN in|IN the|DT july|NN to|TO september|VB period|NN rose|VBD 04|CD compared|VBN to|TO the|DT previous|JJ quarter|NN and|CC 35|CD compared|VBN to|TO the|DT year|NN prior|RB as|IN another|DT 85000|CD people|NNS were|VBD left|VBN without|IN work|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT sharp|JJ fall|NN in|IN the|DT number|NN of|IN public|JJ sector|NN workers|NNS accounted|VBD for|IN a|DT large|JJ portion|NN of|IN the|DT unemployment|NN rate|NN increase|NN </s>|S_END
+<s>|S_START almost|RB 50000|CD fewer|JJR workers|NNS were|VBD employed|VBN in|IN the|DT public|NN sector|NN in|IN the|DT third|JJ quarter|NN representing|VBG a|DT fall|NN of|IN 7|CD yearoveryear|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT 17|CD million|CD spanish|JJ households|NNS have|VBP no|DT adult|NN of|IN working|VBG age|NN in|IN employment|NN a|DT rise|NN of|IN more|JJR than|IN 300000|CD over|IN the|DT past|JJ year|NN </s>|S_END
+<s>|S_START that|DT means|VBZ around|RP 10|CD of|IN all|DT spanish|JJ homes|NNS are|VBP now|RB without|IN a|DT breadwinner|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT unemployment|NN figures|NNS underscore|VBP the|DT impact|NN of|IN spains|NNS second|JJ recession|NN in|IN the|DT last|JJ three|CD years|NNS </s>|S_END
+<s>|S_START the|DT eurozones|NNS fourth|JJ biggest|NN economy|NN had|VBD fewer|JJR than|IN 2|CD million|CD people|NNS out|IN of|IN work|NN at|IN the|DT end|NN of|IN 2007|CD when|WRB it|PRP was|VBD riding|VBG a|DT boom|NN before|IN the|DT financial|JJ crisis|NN hit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START full|JJ coverage|NN of|IN europes|NNS debt|NN crisis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START analysts|NNS believe|VBP spains|NNS unemployment|NN rate|NN could|MD deteriorate|VB further|JJ next|JJ year|NN as|IN the|DT economy|NN continues|VBZ to|TO contract|NN and|CC more|JJR austerity|NN measures|NNS begin|VBP to|TO bite|VB as|IN madrid|JJ struggles|NNS to|TO contain|VB its|PRP$ budget|NN deficit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START prime|JJ minister|NN mariano|NN rajoys|NNS government|NN and|CC the|DT international|JJ monetary|NN fund|NN predict|NN that|IN spain|NN will|MD remain|VB stuck|NN in|IN recession|NN next|IN year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START data|NNS published|VBD by|IN the|DT spanish|JJ central|JJ bank|NN earlier|RBR this|DT week|NN showed|VBD the|DT countrys|NNS economy|NN shrank|VBD by|IN 17|CD in|IN the|DT third|JJ quarter|NN compared|VBN to|TO a|DT year|NN earlier|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START spains|NNS economic|JJ decline|NN has|VBZ been|VBN driven|VBN by|IN a|DT real|JJ estate|NN bubble|JJ burst|NN that|WDT destroyed|VBN the|DT capital|NN base|NN of|IN its|PRP$ banks|NNS </s>|S_END
+<s>|S_START a|DT recent|JJ audit|NN showed|VBD spanish|JJ banks|NNS need|VBP 60|CD billion|CD euros|NNS to|TO plug|VB holes|NNS in|IN their|PRP$ balance|NN sheets|NNS and|CC madrids|NNS european|JJ partners|NNS have|VBP agreed|VBN to|TO provide|VB up|RP to|TO 100|CD billion|CD euros|NNS in|IN bailout|NN loans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START recent|JJ surveys|NNS of|IN business|NN activity|NN for|IN the|DT eurozone|NN point|NN to|TO a|DT darkening|NN outlook|NN for|IN the|DT region|NN as|IN a|DT whole|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD eu|VBN leaders|NNS punt|VBP on|IN thorny|NN issues|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN soaring|VBG to|TO unsustainable|JJ levels|NNS earlier|RBR this|DT year|NN spains|VBZ borrowing|VBG costs|NNS have|VBP fallen|VBN sharply|RB after|IN a|DT european|JJ central|JJ bank|NN pledge|NN to|TO buy|VB eurozone|NN sovereign|NN bonds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC for|IN that|DT to|TO be|VB triggered|VBN spain|NN would|MD need|VB to|TO request|VB assistance|NN from|IN the|DT european|JJ stability|NN mechanism|NN the|DT eurozones|NNS rescue|VBP fund|NN for|IN debtstricken|NN members|NNS </s>|S_END
+<s>|S_START some|DT economists|NNS expect|VBP that|IN to|TO happen|VB soon|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START earlier|JJR this|DT month|NN standard|VBD poors|NNS cut|VBD spains|NNS rating|VBG credit|NN rating|NN by|IN two|CD notches|NNS to|TO bbb|VB citing|NN rising|VBG social|JJ discontent|NN as|IN one|CD of|IN the|DT countrys|NNS risks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+</p>|P_END
+

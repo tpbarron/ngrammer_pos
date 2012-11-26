@@ -1,0 +1,45 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN amazon|NN said|VBD thursday|NN it|PRP is|VBZ terminating|VBG its|PRP$ relationship|NN with|IN thousands|NNS of|IN california|NN associates|NNS because|IN of|IN a|DT new|JJ law|NN that|WDT would|MD require|VB the|DT online|NN megaretailer|NN to|TO collect|VB sales|NNS taxes|NNS if|IN it|PRP has|VBZ affiliates|NNS in|IN the|DT state|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START governor|NN jerry|NN brown|NN signed|VBD the|DT measure|NN into|IN law|NN on|IN thursday|NN as|IN part|NN of|IN the|DT states|NNS plan|VBP to|TO reduce|VB its|PRP$ budget|NN gap|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ expected|VBN to|TO add|VB $|$ 200|CD million|CD to|TO the|DT golden|NN states|VBZ coffers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP oppose|VBP this|DT bill|NN because|IN it|PRP is|VBZ unconstitutional|JJ and|CC counterproductive|JJ amazon|NN wrote|VBD in|IN its|PRP$ letter|NN to|TO associates|NNS </s>|S_END
+<s>|S_START similar|JJ legislation|NN in|IN other|JJ states|NNS has|VBZ led|VBN to|TO job|VB and|CC income|NN losses|NNS and|CC little|RB if|IN any|DT new|JJ tax|NN revenue|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START brown|NN and|CC lawmakers|NNS responded|VBD by|IN saying|VBG the|DT measure|NN levels|NNS the|DT playing|NN field|NN for|IN californias|NNS brickandmortar|NN retailers|NNS which|WDT are|VBP required|VBN to|TO collect|VB sales|NNS taxes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ odd|JJ that|IN a|DT company|NN would|MD voluntarily|RB dilute|VB its|PRP$ business|NN in|IN the|DT most|RBS populous|JJ state|NN in|IN the|DT country|NN simply|RB because|IN its|PRP$ being|VBG asked|VBN to|TO collect|VB what|WP is|VBZ lawfully|RB owed|VBN said|VBD mark|NN hedlund|NN a|DT spokesman|NN for|IN senate|NN president|NN pro|NN tem|NN darrell|NN steinberg|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START other|JJ states|NNS that|IN have|VBP passed|VBN the|DT socalled|VBN amazon|NN tax|NN in|IN recent|JJ years|NNS include|VBP connecticut|NN illinois|NNS new|JJ york|NN north|NN carolina|NN arkansas|NNS and|CC rhode|VB island|NN </s>|S_END
+<s>|S_START the|DT retailer|NN has|VBZ dropped|VBN the|DT associates|NNS program|NN in|IN all|DT these|DT states|NNS except|IN new|JJ york|NN where|WRB it|PRP has|VBZ a|DT brought|NN a|DT lawsuit|NN against|IN the|DT state|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START amazons|NNS amzn|VBP fortune|NN 500|CD associates|NNS program|NN provides|VBZ a|DT commission|NN to|TO website|VB or|CC blog|VB operators|NNS who|WP refer|NN shoppers|NNS to|TO the|DT retailers|NNS site|VBP </s>|S_END
+<s>|S_START the|DT operators|NNS are|VBP paid|VBN if|IN the|DT shopper|NN makes|VBZ a|DT purchase|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT retailer|NN which|WDT has|VBZ had|VBN associates|NNS in|IN california|NN for|IN more|JJR than|IN a|DT decade|NN works|VBZ with|IN 10000|CD affiliates|NNS in|IN the|DT golden|NN state|NN </s>|S_END
+<s>|S_START they|PRP range|VBP from|IN momandpop|NN shops|NNS who|WP participate|NN to|TO supplement|VB their|PRP$ income|NN to|TO larger|JJR companies|NNS that|WDT survive|JJ on|IN marketing|NN referrals|NNS said|VBD rebecca|NN madigan|NN executive|NN director|NN performance|NN marketing|NN association|NN a|DT trade|NN group|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT law|NN could|MD force|VB some|DT affiliates|NNS to|TO close|VB their|PRP$ doors|NNS said|VBD steve|NN gill|NN an|DT accounting|NN professor|NN at|IN san|NN diego|RB state|NN university|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP could|MD be|VB devastating|VBG for|IN certain|JJ businesses|NNS in|IN california|NN he|PRP said |-NONE- </s>|S_END
+</p>|P_END
+

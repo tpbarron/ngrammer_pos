@@ -1,0 +1,52 @@
+<p>
+<s>ravens have a bad reputation</s>
+<s>medieval monks who liked to give names to everything even things that did not need them came up with “an unkindness” as the collective noun for these corvids</s>
+<s>blake hannaford and his colleagues at the university of washington in seattle however hope to change the impression engendered by the word</s>
+<s>they are about to release a flock of medical robots with winglike arms called ravens in the hope of stimulating innovation in the nascent field of robotic surgery</s>
+</p>
+
+<p>
+<s>robotassisted surgery today is dominated by the da vinci surgical system a device that scales down a surgeons hand movements to let him make tiny incisions</s>
+<s>that leads to less tissue damage and thus a quicker recovery for patients</s>
+<s>almost 2000 da vincis have been made and they are used in about 200000 operations a year around the world most commonly hysterectomies and prostate removals</s>
+</p>
+
+<p>
+<s>but the da vinci is far from perfect</s>
+<s>it is immobile and weighs more than half a tonne which limits its deployability and it costs $18m which puts it beyond the reach of all but the richest institutions</s>
+<s>it also uses proprietary software</s>
+<s>even if researchers keen to experiment with new robotic technologies and treatments could afford one they cannot tinker with da vincis operating system</s>
+</p>
+
+<p>
+<s>none of that is true of the raven</s>
+<s>originally developed for the american army by dr hannaford and jacob rosen of the university of california santa cruz as a prototype for robotic surgery on the battlefield it is compact light and cheap relatively speaking at around $250000</s>
+<s>more importantly for academics it is also the first surgical robot to use opensource software</s>
+<s>its linuxbased operating system lets anyone modify and improve the original code creating a way for researchers to experiment and collaborate</s>
+</p>
+
+<p>
+<s>universities across america took delivery of the first brood of ravens in february</s>
+<s>at harvard rob howe and his team hope to use a raven to operate on a beating heart by automatically compensating for its motion</s>
+<s>at the moment heart surgery requires that the organ be stopped and then restarted</s>
+<s>at the university of california los angeles meanwhile warren grundfest is working on ways to give the robot a sense of touch that is communicated to the operator</s>
+<s>pieter abbeel and ken goldberg at the university of california berkeley will try teaching the robot to operate autonomously by mimicking surgeons</s>
+<s>and dr rosen himself will work on ways to get human and robotic surgeons to work together</s>
+</p>
+
+<p>
+<s>crucially although individual laboratories will retain the rights to their own particular innovations the results of these studies and the improvements they suggest will be stored in an online repository available to all</s>
+<s>what happens after that is less certain</s>
+<s>the researchoriented raven has not yet been approved by american regulators so all these investigations are for the moment restricted to operations on animals or human cadavers</s>
+<s>and there is another legal problem</s>
+<s>intuitive surgical the company behind the da vinci holds patents that could make launching a commercial competitor tricky—at least in the immediate future</s>
+</p>
+
+<p>
+<s>once those patents expire however the university of washington could spin off the raven into a startup company</s>
+<s>in the meantime four more universities including two outside america have expressed an interest in buying one of the new robots</s>
+<s>and even those without $250000 to spare can participate in its development</s>
+<s>the university of washington is releasing a graphical simulation of the raven that can be used to test its control system virtually</s>
+<s>dr hannaford hopes that robotics researchers and amateurs will then help to find and fix bugs in the opensource code</s>
+</p>
+

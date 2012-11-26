@@ -1,0 +1,92 @@
+<p>|P_START
+<s>|S_START decades|NNS of|IN “manna|NNP from|IN heaven”|NNP </s>|S_END
+<s>|S_START that|DT is|VBZ how|WRB trevor|NN mudge|NN a|DT computer|NN scientist|NN at|IN the|DT university|NN of|IN michigan|NN ann|NN arbor|NN describes|VBZ the|DT technological|JJ impact|NN of|IN the|DT steady|JJ doubling|NN roughly|RB every|DT two|CD years|NNS of|IN the|DT number|NN of|IN transistors|NNS that|WDT can|MD be|VB crammed|VBN onto|IN a|DT silicon|NN chip|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ increased|VBN the|DT processing|NN power|NN and|CC storage|NN capacity|NN of|IN computers|NNS while|IN reducing|VBG their|PRP$ size|NN and|CC energy|NN consumption|NN </s>|S_END
+<s>|S_START the|DT results|NNS are|VBP all|DT around|IN u|NN </s>|S_END
+<s>|S_START but|CC this|DT steady|JJ doubling|NN known|VBN as|IN moores|NNS law|NN after|IN gordon|NN moore|NN the|DT engineer|NN who|WP first|RB pointed|VBD it|PRP out|IN in|IN 1965|CD can|MD not|RB go|VB on|IN for|IN ever|RB and|CC nearly|RB five|CD decades|NNS later|JJ the|DT limits|NNS may|MD finally|RB be|VB within|IN sight|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START transistors|NNS now|RB measure|VBP as|IN little|JJ as|IN 22|CD nanometres|NNS billionths|NNS of|IN a|DT metre|NN in|IN width|NN smaller|NN than|IN the|DT wavelength|NN of|IN light|JJ with|IN which|WDT they|PRP are|VBP etched|VBN and|CC just|RB a|DT few|JJ tens|NNS of|IN atoms|NNS acro|VBP </s>|S_END
+<s>|S_START as|IN transistors|NNS get|VBP smaller|JJR keeping|VBG them|PRP cool|JJ and|CC errorfree|JJ becomes|NNS more|RBR difficult|JJ </s>|S_END
+<s>|S_START lowering|VBG the|DT voltage|NN at|IN which|WDT transistors|NNS operate|VBP produces|NNS less|RBR heat|JJ but|CC further|JJ reductions|NNS are|VBP now|RB difficult|JJ because|IN feebler|NN voltages|NNS result|NN in|IN more|JJR frequent|NN error|NN </s>|S_END
+<s>|S_START the|DT march|NN towards|NNS eversmaller|JJR and|CC faster|JJR chips|NNS “is|-NONE- starting|VBG to|TO come|VB unglued”|JJ says|NNS dr|VBP mudge|NN </s>|S_END
+<s>|S_START that|DT is|VBZ why|WRB he|PRP and|CC other|JJ computer|NN scientists|NNS are|VBP taking|VBG a|DT new|JJ approach|NN designing|VBG microchips|NNS that|WDT can|MD tolerate|VB errors|NNS in|IN their|PRP$ operation|NN </s>|S_END
+<s>|S_START uch|JJ inexact|NN or|CC “sloppy”|JJ chips|NNS as|IN they|PRP are|VBP also|RB known|VBN can|MD be|VB smaller|JJR faster|JJR and|CC more|JJR energyefficient|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT important|JJ thing|NN is|VBZ to|TO control|NN where|WRB the|DT errors|NNS occur|VBP </s>|S_END
+<s>|S_START masahiro|NN fujita|NN who|WP is|VBZ designing|VBG sloppy|NN chips|NNS at|IN the|DT university|NN of|IN tokyo|NN notes|NNS that|WDT a|DT single|JJ mistake|NN at|IN the|DT beginning|NN of|IN a|DT sequence|NN of|IN instructions|NNS can|MD propagate|VB through|IN subsequent|JJ calculations|NNS and|CC completely|RB mess|NN up|RP the|DT behaviour|NN of|IN a|DT computer|NN or|CC robot|RB </s>|S_END
+<s>|S_START but|CC he|PRP says|VBZ even|RB relatively|RB numerous|JJ mistakes|NNS are|VBP no|DT big|JJ deal|NN in|IN other|JJ circumstances|NNS such|JJ as|IN when|WRB handling|NN sound|NN images|NNS or|CC video|VB </s>|S_END
+<s>|S_START tiny|NN sound|VBD distortions|NNS or|CC slightly|RB miscoloured|VBN pixels|NNS will|MD go|VB unnoticed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START an|DT international|JJ team|NN of|IN researchers|NNS at|IN rice|NN university|NN in|IN houston|NN texas|NNS the|DT swiss|JJ centre|NN for|IN electronics|NNS and|CC microtechnology|NN csem|NN in|IN neuchâtel|NNP and|CC nanyang|NN technological|JJ university|NN in|IN singapore|NN found|VBD that|IN by|IN reducing|NN the|DT operating|NN voltage|NN sloppy|NN chips|NNS could|MD deliver|VB equivalent|NN performance|NN to|TO ordinary|JJ chips|NNS using|VBG a|DT quarter|NN of|IN the|DT energy|NN </s>|S_END
+<s>|S_START for|IN audio|NN playback|NN the|DT researchers|NNS found|VBD sound|NN quality|NN was|VBD acceptable|JJ even|RB with|IN error|NN rates|NNS of|IN 8|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hearing|NN aids|NNS or|CC mobile|JJ phones|NNS should|MD let|VB people|NNS trade|VB sound|JJ quality|NN for|IN battery|NN life|NN says|VBZ krishna|NN palem|NN the|DT head|NN of|IN the|DT project|NN </s>|S_END
+<s>|S_START when|WRB the|DT battery|NN is|VBZ running|VBG low|JJ they|PRP could|MD switch|VB to|TO a|DT higherror|NN mode|NN and|CC put|VBD up|RP with|IN the|DT static|JJ </s>|S_END
+<s>|S_START a|DT prototype|NN sloppy|NN chip|NN developed|VBD with|IN funding|NN from|IN intel|NN the|DT worlds|NNS largest|JJS chipmaker|NN and|CC americas|VBZ department|NN of|IN defence|NN is|VBZ now|RB ready|RB for|IN production|NN </s>|S_END
+<s>|S_START dr|NN palem|NN plans|NNS to|TO establish|VB a|DT startup|NN to|TO sell|VB such|JJ chips|NNS for|IN use|NN in|IN hearing|NN aids|NNS with|IN long|JJ battery|NN live|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT trick|NN is|VBZ called|VBN “pruning”|-NONE- </s>|S_END
+<s>|S_START chips|NNS are|VBP wired|VBN so|RB more|RBR power|NN is|VBZ delivered|VBN to|TO more|RBR important|JJ areas|NNS while|IN areas|NNS that|WDT compute|NN nonessential|NN data|NNS or|CC are|VBP infrequently|RB used|VBN are|VBP given|VBN less|RBR power|NN or|CC simply|RB removed|VBD altogether|RB </s>|S_END
+<s>|S_START tests|NNS at|IN csem|NN by|IN avinash|NN lingamneni|NN found|VBD that|IN pruned|VBN circuits|NNS were|VBD twice|NN as|IN fast|JJ consumed|VBN half|NN as|IN much|JJ energy|NN and|CC were|VBD half|DT the|DT size|NN of|IN conventional|JJ circuit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START managing|VBG the|DT probability|NN of|IN errors|NNS and|CC limiting|VBG where|WRB they|PRP occur|VBP can|MD ensure|VB that|IN the|DT errors|NNS do|VBP not|RB cause|VB any|DT problem|NN </s>|S_END
+<s>|S_START the|DT result|NN of|IN a|DT mathematical|JJ calculation|NN for|IN example|NN need|VBP not|RB always|RB be|VB calculated|VBN precisely—an|-NONE- accuracy|NN of|IN two|CD or|CC three|CD decimal|JJ places|NNS is|VBZ often|RB enough|RB </s>|S_END
+<s>|S_START dr|NN palem|NN offers|NNS the|DT analogy|NN of|IN a|DT person|NN about|IN to|TO cross|NNS a|DT big|JJ room|NN </s>|S_END
+<s>|S_START rather|RB than|IN wasting|VBG time|NN and|CC energy|NN calculating|VBG the|DT shortest|JJS path|NN its|PRP$ better|NN just|RB to|TO start|VB walking|NN in|IN roughly|RB the|DT right|NN direction|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START perfection|NN is|VBZ overrated|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT microprocessor|NN that|IN powers|NNS a|DT laptop|NN typically|RB contains|VBZ more|JJR than|IN two|CD billion|CD transistors|NNS but|CC it|PRP could|MD run|VB just|RB fine|NN with|IN oneeighth|JJ or|CC even|RB more|RBR of|IN them|PRP producing|VBG sloppy|NN results|NNS says|VBZ mr|NN lingamneni|NN </s>|S_END
+<s>|S_START the|DT key|JJ is|VBZ to|TO ensure|VB that|IN sloppy|JJ circuitry|NN is|VBZ used|VBN only|RB for|IN certain|JJ task|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ not|RB acceptable|JJ if|IN one|CD file|NN is|VBZ attached|VBN to|TO an|DT email|NN but|CC another|DT file|NN ends|VBZ up|RP being|VBG sent|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START can|MD information|NN that|IN must|MD be|VB processed|VBN accurately|RB be|VB kept|VBN away|RB from|IN the|DT faster|NN sloppier|NN circuit|NN </s>|S_END
+<s>|S_START mr|NN lingamneni|NN thinks|NNS it|PRP can|MD </s>|S_END
+<s>|S_START csem|NN is|VBZ developing|VBG an|DT errorprone|NN chip|NN for|IN audiovisual|JJ processing|NN in|IN mobile|JJ phones|NNS that|WDT dispatches|VBZ different|JJ processing|NN tasks|NNS to|TO the|DT appropriate|NN circuitry|NN </s>|S_END
+<s>|S_START the|DT voltage|NN is|VBZ reduced|VBN in|IN parts|NNS of|IN the|DT chip|NN that|IN finish|JJ calculations|NNS faster|JJR or|CC with|IN greater|JJR accuracy|NN than|IN necessary|JJ </s>|S_END
+<s>|S_START other|JJ parts|NNS of|IN the|DT chip|NN where|WRB more|JJR important|JJ calculations|NNS are|VBP made|VBN operate|JJ at|IN higher|JJR voltage|NN and|CC with|IN fewer|JJR error|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT approach|NN to|TO managing|VBG errors|NNS called|VBN “asymmetric|JJ reliability”|NN uses|NNS errorprone|NN circuits|NNS for|IN number|NN crunching|VBG to|TO save|VB power|NN and|CC run|VBP faster|JJR says|NNS subhasish|VBP mitra|NN a|DT computer|NN scientist|NN at|IN stanford|NN university|NN </s>|S_END
+<s>|S_START conventional|JJ circuits|NNS are|VBP then|RB used|VBN to|TO spot|VB and|CC weed|VB out|RP unacceptable|JJ error|NN </s>|S_END
+<s>|S_START his|PRP$ work|NN is|VBZ funded|VBN by|IN americas|NNS department|NN of|IN defence|NN and|CC companies|NNS including|VBG bosch|NN cisco|NN infineon|NN intel|NN semiconductor|NN research|NN corporation|NN samsung|NN and|CC texas|VBZ instrument|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN this|DT technique|NN the|DT mechanics|NNS of|IN computing|VBG become|NN more|JJR akin|NN to|TO those|DT of|IN human|JJ thought|NN says|VBZ joseph|NN bates|NNS of|IN singular|JJ computing|NN a|DT firm|NN based|VBN in|IN newton|NN massachusett|NN </s>|S_END
+<s>|S_START in|IN the|DT “messy|JJ process”|NN of|IN brain|NN activity|NN synapses|NNS transmit|NN signals|NNS imperfectly|RB between|IN nerve|NN cells|NNS he|PRP note|VBP </s>|S_END
+<s>|S_START rather|RB than|IN squandering|VBG resources|NNS in|IN a|DT futile|NN attempt|NN to|TO eliminate|VB minor|JJ errors|NNS the|DT brain|NN filters|NNS them|PRP out|IN as|RB processing|VBG moves|NNS up|IN to|TO higher|JJR mental|JJ function|NN </s>|S_END
+<s>|S_START together|RB with|IN charles|NNS river|IN analytics|NNS a|DT software|NN firm|NN singular|NN is|VBZ working|VBG on|IN a|DT $|$ 700000|CD project|NN for|IN the|DT us|PRP navy|VBP to|TO design|VB an|DT “approximate|JJ computing”|NN videoprocessing|VBG chip|NN to|TO increase|VB the|DT ability|NN of|IN batterypowered|VBN drones|NNS to|TO track|VB potential|JJ target|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT technology|NN behind|IN sloppy|NN microchips|NNS is|VBZ now|RB ready|RB for|IN widespread|JJ use|NN says|VBZ vivek|NN de|IN intels|NNS head|NN of|IN circuit|NN research|NN in|IN hillsboro|NN oregon|NN </s>|S_END
+<s>|S_START but|CC will|MD companies|NNS that|WDT exploit|NN sloppiness|NN to|TO boost|VB performance|NN or|CC battery|NN life|NN want|NN to|TO admit|VB it|PRP </s>|S_END
+<s>|S_START buyers|NNS might|MD think|VB twice|NN before|IN buying|NN a|DT device|NN that|WDT operates|VBZ with|IN errors|NNS as|IN a|DT matter|NN of|IN course|NN concedes|NNS hang|VBP chang|JJ chieh|NN a|DT professor|NN at|IN the|DT national|JJ university|NN of|IN singapore|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START researchers|NNS have|VBP coined|VBN a|DT variety|NN of|IN euphemisms|NNS to|TO describe|VB the|DT technology|NN such|JJ as|IN “inexact|JJ hardware”|NN “probabilistic|JJ computing”|NN “relaxed|JJ correctness”|NN and|CC “relaxed|JJ reliability”|NN </s>|S_END
+<s>|S_START in|IN five|CD years|NNS your|PRP$ smartphone|NN or|CC computer|NN is|VBZ unlikely|RB to|TO sport|VB a|DT sticker|NN boasting|VBG that|IN it|PRP contains|VBZ chips|NNS that|IN sometimes|RB get|VB their|PRP$ sums|NNS wrong|JJ </s>|S_END
+<s>|S_START even|RB so|RB such|JJ chips|NNS may|MD be|VB lurking|VBG inside|NN increasing|VBG performance|NN and|CC extending|VBG battery|NN life|NN </s>|S_END
+</p>|P_END
+

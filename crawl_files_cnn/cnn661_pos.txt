@@ -1,0 +1,65 @@
+<p>|P_START
+<s>|S_START the|DT bill|NN and|CC melinda|NN gates|NNS foundation|NN have|VBP contributed|VBN billions|NNS of|IN dollars|NNS toward|IN improving|VBG health|NN care|NN and|CC college|NN education|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT bill|NN and|CC melinda|NN gates|NNS foundation|NN is|VBZ launching|VBG a|DT competition|NN today|NN that|WDT will|MD award|VB up|RP to|TO 30|CD grants|NNS of|IN $|$ 50000|CD to|TO $|$ 100000|CD to|TO winners|NNS who|WP come|RB up|RB with|IN apps|NNS websites|NNS or|CC other|JJ online|NN tools|NNS that|WDT help|NN high|RB schoolers|NNS especially|RB lowincome|JJ students|NNS get|VB into|IN and|CC succeed|VBN in|IN college|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO kick|VB off|RP the|DT college|NN knowledge|NN challenge|NN which|WDT runs|VBZ through|IN november|NN 16|CD the|DT foundation|NN is|VBZ holding|VBG a|DT daylong|JJ hackathon|NN at|IN facebooks|NNS menlo|VBP park|NN calif|IN headquarters|NNS </s>|S_END
+<s>|S_START at|IN the|DT event|NN up|RP to|TO 100|CD entrepreneurs|NNS and|CC programmers|NNS will|MD work|VB on|IN developing|VBG tools|NNS that|WDT help|NN teens|VBZ navigate|JJ the|DT college|NN application|NN and|CC funding|NN maze|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START anyone|NN not|RB invited|VBN to|TO the|DT hackathon|NN can|MD submit|VB a|DT prototype|NN and|CC proposal|NN that|WDT explains|VBZ how|WRB their|PRP$ web|NN app|NN will|MD provide|VB useful|JJ college|NN advice|NN or|CC a|DT service|NN said|VBD emily|RB dalton|JJ smith|NN the|DT program|NN officer|NN for|IN the|DT gates|NNS foundation|NN who|WP is|VBZ running|VBG the|DT competition|NN </s>|S_END
+<s>|S_START the|DT winners|NNS of|IN the|DT $|$ 25|CD million|CD grant|JJ competition|NN will|MD be|VB announced|VBN in|IN january|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT foundation|NN is|VBZ concerned|VBN about|IN low|JJ college|NN attendance|NN and|CC graduation|NN rates|NNS among|IN all|DT students|NNS smith|IN said|VBD </s>|S_END
+<s>|S_START but|CC it|PRP especially|RB wants|VBZ to|TO help|VB minorities|NNS and|CC lowincome|VB students|NNS she|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD gallery|NN colleges|NNS with|IN the|DT highestpaid|JJ grads|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START just|RB 32|CD of|IN hispanicamericans|NNS ages|NNS 18|CD to|TO 24|CD are|VBP enrolled|VBN in|IN college|NN today|NN versus|NN 38|CD of|IN africanamericans|NNS and|CC 43|CD of|IN whites|NNS according|VBG to|TO a|DT recent|JJ report|NN by|IN the|DT pew|NN research|NN center|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT winners|NNS will|MD be|VB chosen|VBN by|IN a|DT panel|NN of|IN judges|NNS made|VBN up|RP of|IN gates|NNS foundation|NN staffers|NNS officials|NNS from|IN collegerelated|VBN nonprofits|NNS academics|NNS and|CC tech|NN industry|NN experts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT foundation|NN wants|VBZ to|TO emphasize|VB tools|NNS or|CC apps|NNS that|IN are|VBP innovative|JJ quickly|RB doable|JJ and|CC take|VB advantage|NN of|IN social|JJ media|NNS smith|IN said|VBD </s>|S_END
+<s>|S_START at|IN the|DT least|JJS the|DT tool|NN should|MD offer|VB a|DT facebook|NN login|NN as|IN an|DT option|NN she|PRP said|VBD </s>|S_END
+<s>|S_START further|RB details|VBZ can|MD be|VB found|VBN at|IN the|DT college|NN knowledge|NN challenges|NNS website|VBP and|CC on|IN facebooks|NNS website|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START entrepreneurs|NNS who|WP plan|NN to|TO profit|NN from|IN their|PRP$ tool|NN by|IN charging|NN a|DT fee|NN can|MD apply|VB for|IN the|DT grants|NNS as|IN long|RB as|IN the|DT fee|NN is|VBZ low|JJ enough|RB to|TO be|VB afforded|VBN by|IN lowincome|NN teens|NNS smith|IN added|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dozens|NNS of|IN entrepreneurs|NNS and|CC nonprofits|NNS are|VBP already|RB plotting|VBG out|RP new|JJ tools|NNS to|TO compete|VB for|IN the|DT awards|NNS </s>|S_END
+<s>|S_START greatschoolsorg|NN a|DT website|NN that|WDT provides|VBZ test|NN score|NN teacher|NN qualifications|NNS and|CC student|NN demographic|JJ information|NN for|IN elementary|JJ schools|NNS and|CC high|JJ schools|NNS sent|VBN two|CD programmers|NNS and|CC a|DT designer|NN to|TO facebooks|NNS offices|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START calculator|NN how|WRB much|JJ will|MD college|VB really|RB cost|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START they|PRP plan|VBP to|TO develop|VB a|DT tool|NN that|WDT enables|VBZ middle|NN and|CC high|JJ school|NN students|NNS to|TO connect|VB with|IN alumni|NN of|IN their|PRP$ schools|NNS via|IN facebook|NN said|VBD karissa|NN sparks|NNS vice|NN president|NN of|IN marketing|NN </s>|S_END
+<s>|S_START the|DT goal|NN is|VBZ to|TO connect|VB students|NNS with|IN alumni|NNS who|WP have|VBP already|RB graduated|VBN from|IN college|NN and|CC who|WP share|NN similar|JJ interests|NNS </s>|S_END
+<s>|S_START that|DT way|NN students|NNS can|MD get|VB support|NN and|CC advice|NN from|IN someone|NN they|PRP are|VBP comfortable|JJ with|IN sparks|NNS explained|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START founded|VBD by|IN microsoft|NN msft|NN fortune|NN 500|CD chairman|NN bill|NN gates|VBZ and|CC his|PRP$ wife|NN melinda|NN the|DT $|$ 356|CD billion|CD gates|NNS foundation|NN supports|NNS a|DT large|JJ number|NN of|IN causes|NNS particularly|RB those|DT relating|VBG to|TO improving|VBG global|JJ healthcare|NN and|CC education|NN </s>|S_END
+<s>|S_START for|IN example|NN the|DT foundation|NN has|VBZ granted|VBN $|$ 137|CD billion|CD to|TO the|DT gates|NNS millennium|NN scholars|NNS program|NN which|WDT provides|VBZ college|NN scholarships|NNS to|TO minority|NN students|NNS </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,100 @@
+<p>|P_START
+<s>|S_START “it|JJ truly|RB is|VBZ a|DT new|JJ era|NN at|IN microsoft”|NN gushed|VBD steve|NN ballmer|NN the|DT giant|JJ software|NN company’s|NNS boss|IN in|IN a|DT letter|NN to|TO shareholders|NNS this|DT month|NN </s>|S_END
+<s>|S_START for|IN once|RB such|JJ grandiloquence|NN seems|VBZ justified|VBN </s>|S_END
+<s>|S_START on|IN october|NN 26th|CD windows|NNS 8|CD the|DT newest|JJS version|NN of|IN microsoft’s|JJ operating|NN system|NN for|IN personal|JJ computers|NNS is|VBZ due|JJ to|TO be|VB released|VBN </s>|S_END
+<s>|S_START it|PRP looks|VBZ very|RB different|JJ from|IN past|JJ editions|NNS it|PRP is|VBZ designed|VBN for|IN touchscreens|NNS on|IN both|DT pcs|NNS and|CC tablets|NNS and|CC it|PRP can|MD run|VB on|IN processors|NNS designed|VBN by|IN arm|NN a|DT british|JJ company|NN whose|WP$ allies|NNS dominate|VBP mobile|JJ devices|NNS as|IN well|RB as|IN chips|NNS made|VBN by|IN intel|NN microsoft’s|NNS longterm|VBP partner|NN </s>|S_END
+<s>|S_START also|RB on|IN sale|NN will|MD be|VB the|DT surface|NN a|DT tabletcumpc|NN bearing|VBG microsoft’s|NNS own|JJ brand|NN </s>|S_END
+<s>|S_START a|DT version|NN of|IN windows|NNS 8|CD for|IN smartphones|NNS is|VBZ due|JJ on|IN october|NN 29th|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whether|IN the|DT new|JJ era|NN will|MD be|VB a|DT successful|JJ one|CD is|VBZ an|DT open|JJ question|NN </s>|S_END
+<s>|S_START it|PRP got|VBD off|RP to|TO a|DT stumbling|NN start|NN when|WRB the|DT european|JJ commission|NN warned|VBD microsoft|NN not|RB to|TO repeat|VB the|DT sin|NN of|IN steering|VBG users|NNS away|RB from|IN rivals|NNS to|TO its|PRP$ explorer|NN browser|NN </s>|S_END
+<s>|S_START the|DT company|NN insisted|VBD all|DT would|MD be|VB well|RB before|IN the|DT launch|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP is|VBZ not|RB in|IN doubt|NN is|VBZ how|WRB much|JJ is|VBZ at|IN stake|NN for|IN microsoft|NN </s>|S_END
+<s>|S_START to|TO see|VB that|IN look|NN at|IN the|DT chart|NN </s>|S_END
+<s>|S_START in|IN its|PRP$ past|NN financial|JJ year|NN its|PRP$ windows|NNS division|NN accounted|VBD for|IN about|IN a|DT quarter|NN of|IN its|PRP$ revenue|NN of|IN $|$ 737|CD billion|CD threequarters|NNS of|IN that|DT came|NN from|IN sales|NNS of|IN windows|NNS to|TO pcmakers|NNS for|IN installation|NN on|IN new|JJ desk|NN and|CC laptop|VB </s>|S_END
+<s>|S_START windows|NNS is|VBZ the|DT dominant|JJ system|NN on|IN such|JJ devices|NNS with|IN more|JJR than|IN 90|CD of|IN the|DT market|NN despite|IN the|DT growing|VBG popularity|NN of|IN apple’s|JJ mac|NN </s>|S_END
+<s>|S_START but|CC that|DT market|NN has|VBZ slowed|VBN </s>|S_END
+<s>|S_START in|IN the|DT year|NN to|TO the|DT third|JJ quarter|NN shipments|NNS of|IN pcs|NNS fell|VBD by|IN 86|CD according|VBG to|TO idc|VB a|DT research|NN firm|NN </s>|S_END
+<s>|S_START however|RB the|DT drop|NN largely|RB reflected|VBD a|DT clearout|NN of|IN stocks|NNS by|IN pcsellers|NNS before|IN windows|NNS 8’s|CD arrival|NN as|IN well|RB as|IN the|DT ropiness|NN of|IN the|DT world|NN economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START people|NNS are|VBP doing|VBG more|JJR and|CC more|JJR computing|VBG on|IN the|DT go|NN using|VBG tablets|NNS and|CC smartphone|NN </s>|S_END
+<s>|S_START apple|NN rules|NNS the|DT tablet|NN market|NN although|IN devices|NNS powered|VBN by|IN google’s|NNP android|VBD operating|VBG system|NN have|VBP been|VBN taking|VBG a|DT bigger|JJR share|NN </s>|S_END
+<s>|S_START on|IN october|NN 23rd|CD apple|NN unveiled|VBD the|DT fourth|JJ incarnation|NN of|IN the|DT ipad|NN as|IN well|RB as|IN a|DT smaller|JJR version|NN with|IN a|DT screen|NN less|RBR than|IN eight|CD inches|NNS 20cm|CD across|IN google|JJ and|CC amazon|NN had|VBD already|RB launched|VBN much|RB cheaper|JJR seveninch|NN tablet|NN </s>|S_END
+<s>|S_START in|IN smartphones|NNS android|VBD devices|NNS account|VBP for|IN most|JJS of|IN the|DT volume|NN apple’s|VBZ iphone|NN scoops|NNS most|JJS of|IN the|DT profit|NN </s>|S_END
+<s>|S_START windows|NNS has|VBZ a|DT tiny|NN share|NN of|IN smartphones|NNS in|IN tablets|NNS it|PRP is|VBZ invisible|JJ </s>|S_END
+<s>|S_START if|IN you|PRP lump|VBP these|DT in|IN with|IN pcs|NNS says|VBZ frank|NN gillett|NN of|IN forrester|NN another|DT research|NN company|NN microsoft’s|VBZ share|NN of|IN personalcomputing|NN devices|NNS drops|NNS to|TO only|RB 30|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoft’s|NNS plan|VBP has|VBZ several|JJ parts|NNS starting|VBG with|IN the|DT transformation|NN of|IN windows|NNS into|IN a|DT system|NN for|IN touchscreen|NN </s>|S_END
+<s>|S_START “tiles”|NN replace|NN the|DT icons|NNS that|WDT have|VBP cluttered|VBN screens|NNS since|IN windows|NNS 95|CD appeared|VBD 17|CD years|NNS ago|IN </s>|S_END
+<s>|S_START tiles|NNS can|MD represent|VB pretty|RB much|RB anything|NN you|PRP like|IN from|IN applications|NNS to|TO photos|NNS of|IN loved|VBN one|CD </s>|S_END
+<s>|S_START they|PRP are|VBP also|RB “live”|-NONE- showing|VBG new|JJ information|NN as|IN it|PRP comes|VBZ in|IN </s>|S_END
+<s>|S_START xbox|NN microsoft’s|NNS games|NNS and|CC homeentertainment|NN hub|NN and|CC existing|VBG windows|NNS phones|NNS already|RB have|VBP this|DT look|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START complementarity|NN between|IN devices|NNS goes|VBZ beyond|NN appearance|NN </s>|S_END
+<s>|S_START using|VBG microsoft’s|NNS cloud|VBP services|NNS owners|NNS of|IN windows|NNS 8|CD devices|NNS will|MD be|VB able|JJ to|TO start|VB doing|VBG something|NN on|IN one|CD machine|NN working|VBG in|IN the|DT office|NN say|VBP and|CC continue|VB on|IN another|DT finishing|NN a|DT document|NN on|IN the|DT road|NN </s>|S_END
+<s>|S_START they|PRP will|MD also|RB be|VB able|JJ to|TO play|VB xbox’s|JJ music|NN video|NN and|CC game|NN </s>|S_END
+<s>|S_START in|IN effect|NN says|VBZ josé|JJ piñero|NN of|IN microsoft’s|JJ entertainment|NN and|CC devices|NNS division|NN this|DT stretches|VBZ xbox’s|NNP reach|NN from|IN the|DT 67m|CD consoles|NNS sold|VBN so|RB far|RB to|TO “hundreds|NNS of|IN millions”|JJ of|IN device|NN </s>|S_END
+<s>|S_START through|IN an|DT app|NN called|VBN smartglass|NN tablets|NNS and|CC phones|NNS can|MD become|VB adjuncts|NNS to|TO xboxes|NNS in|IN the|DT home|NN showing|VBG information|NN about|IN a|DT film|NN playing|NN on|IN the|DT screen|NN in|IN the|DT living|NN room|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT distinguishes|NNS microsoft|VBP from|IN apple|NNS </s>|S_END
+<s>|S_START apple’s|NNS desk|VBP and|CC laptops|NNS on|IN the|DT one|CD hand|NN and|CC its|PRP$ iphones|NNS and|CC ipads|NNS on|IN the|DT other|JJ have|VBP different|JJ operating|VBG systems|NNS and|CC appearance|NN </s>|S_END
+<s>|S_START microsoft|NN is|VBZ also|RB more|RBR generous|JJ than|IN apple|NN to|TO its|PRP$ army|NN of|IN developers|NNS on|IN whom|WP it|PRP must|MD rely|RB to|TO fill|VB the|DT windows|NNS store|VBP the|DT online|NN shop|NN for|IN windows|NNS 8|CD app|NN </s>|S_END
+<s>|S_START apple|NN like|IN google|NN snaffles|NNS 30|CD of|IN all|DT revenue|NN from|IN its|PRP$ store|NN </s>|S_END
+<s>|S_START microsoft|NN will|MD take|VB 30|CD only|RB of|IN the|DT first|JJ $|$ 25000|CD and|CC 20|CD on|IN the|DT rest|NN </s>|S_END
+<s>|S_START developers|NNS may|MD also|RB take|VB payment|NN outside|IN the|DT shop|NN cutting|VBG microsoft|NN out|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT same|JJ time|NN microsoft|NN is|VBZ taking|VBG a|DT leaf|NN out|IN of|IN apple’s|NNS book|VBP by|IN making|VBG and|CC selling|VBG its|PRP$ own|JJ device|NN </s>|S_END
+<s>|S_START hitherto|IN it|PRP has|VBZ supplied|VBN the|DT operating|NN system|NN others|NNS have|VBP made|VBN the|DT pc|NN </s>|S_END
+<s>|S_START although|IN lots|NNS of|IN devices|NNS will|MD be|VB on|IN offer|NN the|DT surface|NN says|VBZ tami|NN reller|NN the|DT chief|NN financial|JJ officer|NN of|IN the|DT windows|NNS division|NN is|VBZ “the|NNP perfect|NN stage|NN for|IN windows|NNS 8”|CD </s>|S_END
+<s>|S_START the|DT most|RBS basic|JJ version|NN costs|NNS $|$ 499|CD the|DT same|JJ as|IN the|DT cheapest|JJS fullsized|VBN new|JJ ipad|NN another|DT $|$ 100|CD buys|NNS a|DT cover|NN containing|VBG a|DT keyboard|NN </s>|S_END
+<s>|S_START at|IN least|JJS at|IN first|RB the|DT surface|NN will|MD be|VB sold|VBN only|RB online|JJ or|CC through|IN microsoft’s|JJ own|JJ bricksandmortar|NN shop|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mark|NN moerdler|NN of|IN sanford|NN c|NN bernstein|NN a|DT research|NN firm|NN says|VBZ that|IN although|IN windows|NNS 8|CD may|MD sell|VB on|IN pcs|NNS it|PRP is|VBZ “a|NNP tablet|NN operating|VBG system|NN first|RB and|CC foremost”|NNP </s>|S_END
+<s>|S_START unlike|IN apple’s|JJ and|CC google’s|JJ systems|NNS he|PRP says|VBZ it|PRP has|VBZ been|VBN designed|VBN to|TO allow|VB people|NNS to|TO create|VB content|NN as|IN well|RB as|IN to|TO consume|VB it|PRP </s>|S_END
+<s>|S_START being|VBG able|JJ to|TO use|VB microsoft’s|NNS popular|JJ office|NN suite|NN of|IN word|NN document|NN excel|NN spreadsheet|NN and|CC powerpoint|NN slide|NN software|NN on|IN a|DT tablet|NN designed|VBN for|IN the|DT purpose|NN should|MD give|VB windows|NNS 8|CD an|DT edge|NN over|IN its|PRP$ competitor|NN </s>|S_END
+<s>|S_START a|DT version|NN will|MD be|VB installed|VBN on|IN devices|NNS that|IN run|VBN windows|NNS rt|NN the|DT cheaper|NN less|NN powerful|JJ armbased|VBN flavour|PRP$ of|IN windows|NNS 8|CD such|JJ as|IN the|DT first|JJ surface|NN </s>|S_END
+<s>|S_START microsoft|NN does|VBZ not|RB make|VB office|NN for|IN the|DT ipad|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoft|NN says|VBZ advance|NN sales|NNS have|VBP been|VBN brisk|JJ at|IN $|$ 800m|CD by|IN the|DT end|NN of|IN september|NN they|PRP were|VBD 40|CD higher|JJR than|IN for|IN windows|NNS 7|CD before|IN its|PRP$ launch|NN in|IN 2009|CD </s>|S_END
+<s>|S_START even|RB so|RB there|RB are|VBP obstacle|JJ </s>|S_END
+<s>|S_START one|CD suggested|VBD by|IN some|DT previews|NNS is|VBZ that|IN the|DT new|JJ look|NN and|CC feel|NN will|MD take|VB getting|NN used|VBN to—though|JJ ms|NNS reller|JJR says|VBZ that|IN in|IN trials|NNS 84|CD of|IN people|NNS got|VBD to|TO grips|NNS with|IN it|PRP within|IN a|DT day|NN </s>|S_END
+<s>|S_START another|DT is|VBZ that|IN windows|VBZ 7|CD has|VBZ been|VBN popular|JJ so|IN people|NNS may|MD be|VB wary|JJ of|IN upgrading|NN </s>|S_END
+<s>|S_START and|CC touchscreen|VBN adds|NNS about|IN $|$ 100|CD to|TO the|DT cost|NN of|IN a|DT pc|NN reckons|NNS kirk|VBP yang|JJ who|WP covers|NNS technology|VBP hardware|NN for|IN barclays|NNS in|IN hong|JJ kong|JJ </s>|S_END
+<s>|S_START all|DT this|DT may|MD make|VB consumers|NNS hesitate|VB before|IN they|PRP buy|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START companies|NNS are|VBP likely|JJ to|TO be|VB slower|JJR on|IN the|DT uptake|NN than|IN consumer|NN </s>|S_END
+<s>|S_START many|JJ have|VBP not|RB long|RB switched|VBN to|TO windows|NNS 7|CD or|CC are|VBP still|RB using|VBG windows|NNS xp|NN released|VBN 11|CD years|NNS ago|RB </s>|S_END
+<s>|S_START they|PRP will|MD be|VB in|IN no|DT hurry|NN to|TO invest|VB in|IN touchscreen|NN pcs|NNS or|CC to|TO retrain|VB staff|NN to|TO use|VB windows|NNS 8|CD </s>|S_END
+<s>|S_START they|PRP may|MD however|RB be|VB happy|JJ to|TO see|VB their|PRP$ staff|NN using|VBG tablets|NNS with|IN office|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN gillett|VBD at|IN forrester|NN thinks|NNS that|WDT for|IN all|DT these|DT reasons|NNS sales|NNS may|MD not|RB really|RB get|VB going|VBG until|IN 2014|CD </s>|S_END
+<s>|S_START but|CC he|PRP forecasts|VBZ that|IN by|IN 2016|CD microsoft|NN will|MD have|VB over|IN a|DT quarter|NN of|IN the|DT tablet|NN market|NN and|CC a|DT fair|NN if|IN smaller|JJR share|NN of|IN smartphone|NN operating|VBG systems|NNS too|RB </s>|S_END
+<s>|S_START the|DT personalcomputing|NN market|NN is|VBZ shifting|VBG fast|RB from|IN deskbound|NN to|TO mobile|VB and|CC from|IN mouseandkeyboard|NN to|TO touch|VB </s>|S_END
+<s>|S_START microsoft|NN had|VBD little|JJ choice|NN but|CC to|TO go|VB mobile|JJ </s>|S_END
+<s>|S_START its|PRP$ chances|NNS of|IN success|NN boil|NN down|IN to|TO how|WRB much|RB people|NNS care|VBP about|IN having|VBG more|JJR or|CC less|JJR the|DT same|JJ operating|NN system|NN tools|NNS and|CC content|NN in|IN the|DT office|NN on|IN the|DT road|NN and|CC on|IN the|DT sofa|NN as|IN well|RB as|IN on|IN the|DT quality|NN of|IN what|WP microsoft|NN has|VBZ to|TO offer|VB </s>|S_END
+<s>|S_START it|PRP is|VBZ touch|JJ and|CC go|VB </s>|S_END
+</p>|P_END
+

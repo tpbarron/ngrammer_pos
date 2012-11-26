@@ -1,0 +1,128 @@
+<p>|P_START
+<s>|S_START where|WRB sciencefiction|NN leads|NNS science|NN sometimes|RB follow|JJ </s>|S_END
+<s>|S_START in|IN 2009|CD when|WRB james|NNS cameron|VBP made|VBN “avatar”|-NONE- he|PRP set|VBD his|PRP$ colonial|JJ allegory|NN not|RB on|IN an|DT alien|NN planet|NN but|CC on|IN the|DT moon|NN of|IN such|JJ a|DT planet|NN </s>|S_END
+<s>|S_START perhaps|RB he|PRP felt|VBD that|IN exoplanets|NNS themselves|PRP were|VBD passé|-NONE- as|IN settings|NNS for|IN fiction|NN since|IN in|IN fact|NN so|IN many|JJ had|VBD been|VBN discovered|VBN </s>|S_END
+<s>|S_START if|IN so|RB he|PRP got|VBD in|IN just|RB in|IN time|NN for|IN reality|NN may|MD soon|RB imitate|VB art|NN in|IN the|DT matter|NN of|IN moons|NNS as|IN well|RB as|IN planet|JJ </s>|S_END
+<s>|S_START that|DT is|VBZ because|IN a|DT few|JJ astronomers|NNS are|VBP indeed|RB beginning|VBG the|DT search|NN for|IN satellites|NNS around|IN some|DT of|IN the|DT thousands|NNS of|IN known|VBN and|CC suspected|VBN exoplanet|NN </s>|S_END
+<s>|S_START besides|IN the|DT lure|NN of|IN being|VBG the|DT first|JJ to|TO find|VB something|NN new|JJ there|EX are|VBP cameronian|JJ motives|NNS too|RB </s>|S_END
+<s>|S_START for|IN there|EX is|VBZ reason|NN to|TO suspect|VB that|IN if|IN life|NN does|VBZ exist|NN elsewhere|RB than|IN on|IN earth|JJ then|RB the|DT moon|NN of|IN an|DT alien|NN planet|NN might|MD not|RB be|VB a|DT bad|JJ place|NN to|TO search|NN for|IN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START finding|VBG something|NN that|WDT is|VBZ orbiting|VBG something|NN that|WDT is|VBZ orbiting|VBG a|DT star|NN hundreds|VBZ of|IN lightyears|NNS away|RB is|VBZ hardly|RB a|DT trivial|JJ task|NN and|CC not|RB everyone|NN is|VBZ convinced|VBN it|PRP is|VBZ possible|JJ </s>|S_END
+<s>|S_START but|CC that|DT does|VBZ not|RB deter|VB enthusiast|JJ </s>|S_END
+<s>|S_START they|PRP point|VBP out|RP that|IN similar|JJ objections|NNS were|VBD raised|VBN against|IN the|DT idea|NN of|IN looking|VBG for|IN exoplanets|NNS in|IN the|DT first|JJ place|NN </s>|S_END
+<s>|S_START the|DT best|JJS way|NN to|TO shut|VB the|DT naysayers|NNS up|IN they|PRP reckon|VBP is|VBZ to|TO try|NN it|PRP and|CC succeed|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT most|RBS organised|VBN attempt|NN at|IN the|DT moment|NN is|VBZ called|VBN the|DT hunt|NN for|IN exomoons|NNS with|IN kepler|JJR or|CC hek|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ led|VBN by|IN david|JJ kipping|NN of|IN the|DT harvardsmithsonian|JJ centre|NN for|IN astrophysics|NNS in|IN cambridge|NN massachusetts|NNS and|CC it|PRP has|VBZ the|DT advantage|NN that|IN it|PRP makes|VBZ use|NN of|IN data|NNS which|WDT have|VBP already|RB been|VBN collected|VBN </s>|S_END
+<s>|S_START kepler|NN an|DT orbiting|NN telescope|NN owned|VBN by|IN nasa|NN america’s|NNS space|NN agency|NN looks|NNS for|IN exoplanets|NNS by|IN identifying|VBG the|DT tiny|NN dip|NN in|IN brightness|NN caused|VBN when|WRB one|CD of|IN them|PRP passes|VBZ in|IN front|NN of|IN its|PRP$ host|NN star|NN as|IN seen|VBN from|IN earth—a|NNP phenomenon|NN known|VBN as|IN “transiting”|NNP </s>|S_END
+<s>|S_START o|NN far|RB 105|CD planets|NNS have|VBP been|VBN discovered|VBN this|DT way|NN and|CC the|DT existence|NN of|IN a|DT further|JJ 2321|CD has|VBZ been|VBN suggested|VBN though|IN their|PRP$ reality|NN remains|VBZ to|TO be|VB confirmed|VBN by|IN the|DT observation|NN of|IN subsequent|NN transit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP the|DT hek|NN why|WRB not|RB try|JJ it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN kipping’s|NNS technique|VBP relies|NNS on|IN the|DT fact|NN that|IN moons|NNS do|VBP not|RB simply|RB revolve|VB around|IN their|PRP$ host|NN planets|NNS planets|NNS also|RB revolve|VBP around|IN their|PRP$ moons—or|JJ rather|RB the|DT two|CD bodies|NNS both|DT revolve|NN around|IN their|PRP$ common|JJ centre|NN of|IN ma|NN </s>|S_END
+<s>|S_START if|IN a|DT planet|NN is|VBZ large|JJ and|CC its|PRP$ moon|NN small|JJ the|DT distinction|NN is|VBZ trivial|JJ </s>|S_END
+<s>|S_START but|CC if|IN the|DT planet|NN is|VBZ small|JJ and|CC the|DT moon|NN is|VBZ large|JJ it|PRP is|VBZ not|RB </s>|S_END
+<s>|S_START in|IN the|DT case|NN of|IN earth|JJ and|CC its|PRP$ moon|NN for|IN example|NN the|DT common|JJ centre|NN lies|NNS only|RB around|IN 1700km|CD 1100|CD miles|NNS beneath|NN the|DT earth’s|NNP surface|NN </s>|S_END
+<s>|S_START omeone|NN looking|VBG from|IN afar|JJ at|IN the|DT movement|NN of|IN earth|JJ would|MD thus|RB be|VB able|JJ to|TO deduce|VB the|DT moon’s|NNP existence|NN without|IN having|VBG to|TO see|VB it|PRP directly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN kipping|VBG hopes|NNS to|TO see|VB similar|JJ gyrations|NNS in|IN the|DT paths|NNS of|IN transiting|VBG planets|NNS detected|VBN by|IN kepler|NN </s>|S_END
+<s>|S_START this|DT sort|NN of|IN technique|NN has|VBZ already|RB been|VBN used|VBN to|TO identify|VB the|DT small|JJ perturbations|NNS induced|VBN by|IN unseen|VBN nontransiting|VBG planets|NNS which|WDT interfere|RB with|IN the|DT orbits|NNS of|IN their|PRP$ transiting|NN brethren|NNS </s>|S_END
+<s>|S_START for|IN moons|NNS though|IN the|DT effects|NNS are|VBP likely|JJ to|TO be|VB not|RB just|RB small|JJ but|CC minute—right|JJ on|IN the|DT “hairy|JJ edge”|NN of|IN what|WP kepler|JJR can|MD do|VB says|VBZ greg|VB laughlin|NN a|DT planethunter|NN at|IN the|DT university|NN of|IN california|NN santa|NN cruz|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN a|DT start|NN most|JJS of|IN the|DT exoplanets|NNS detected|VBD so|RB far|RB are|VBP much|RB bigger|JJR than|IN earth|JJ so|RB for|IN moons|NNS going|VBG around|IN them|PRP to|TO be|VB detectable|JJ they|PRP would|MD have|VB to|TO be|VB considerably|RB bigger|JJR than|IN any|DT moon|NN in|IN the|DT solar|JJ system|NN </s>|S_END
+<s>|S_START pecifically|RB dr|VBP kipping|VBG reckons|NNS they|PRP would|MD need|VB to|TO have|VB at|IN least|JJS a|DT fifth|JJ of|IN the|DT mass|NN of|IN earth|JJ </s>|S_END
+<s>|S_START ganymede|NN jupiter’s|NNS most|JJS massive|JJ satellite|NN and|CC also|RB the|DT biggest|JJS in|IN the|DT local|JJ solar|NN system|NN has|VBZ only|RB a|DT fortieth|NN of|IN the|DT earth’s|JJ ma|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB supposing|VBG such|JJ bodies|NNS exist|VBP the|DT statistical|JJ alchemy|NN needed|VBN to|TO distinguish|VB the|DT signal|NN they|PRP produce|VBP during|IN a|DT transit|NN from|IN any|DT fluctuations|NNS in|IN the|DT light|JJ of|IN the|DT star|NN being|VBG transited|VBN or|CC from|IN gravitational|JJ effects|NNS caused|VBN by|IN other|JJ planets|NNS that|IN might|MD be|VB lurking|VBG nearby|JJ is|VBZ formidable|JJ </s>|S_END
+<s>|S_START dr|NN kipping|VBG is|VBZ nevertheless|NN hard|RB at|IN work|NN </s>|S_END
+<s>|S_START he|PRP and|CC his|PRP$ team|NN plan|NN to|TO present|VB their|PRP$ first|JJ batch|NN of|IN data|NNS to|TO a|DT meeting|NN of|IN the|DT american|JJ astronomical|JJ society|NN in|IN january|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN dr|PRP$ kipping’s|NNS approach|VBP does|VBZ not|RB come|VB up|RP with|IN the|DT goods|NNS though|IN moonhunters|NNS need|VBP not|RB despair|JJ </s>|S_END
+<s>|S_START in|IN february|JJ nasa|NN will|MD decide|VB whether|IN to|TO pay|VB for|IN a|DT new|JJ planethunting|NN spacecraft|NN called|VBN the|DT transiting|NN exoplanet|NN survey|NN satellite|NN te|NN </s>|S_END
+<s>|S_START unlike|IN kepler|JJR which|WDT stares|NNS fixedly|RB at|IN a|DT single|JJ patch|NN of|IN space|NN tess|NN would|MD survey|VB the|DT whole|JJ sky|NN </s>|S_END
+<s>|S_START crucially|RB the|DT stars|NNS it|PRP is|VBZ intended|VBN to|TO examine|VB are|VBP much|RB closer—and|JJ which|WDT therefore|RB appear|VBP brighter—than|JJ those|DT kepler|NN is|VBZ looking|VBG at|IN </s>|S_END
+<s>|S_START that|DT makes|VBZ both|DT planet|NN hunting|VBG and|CC moon|NN hunting|VBG easier|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN nasa|NN does|VBZ go|VB ahead|RB with|IN tess|NN the|DT telescope|NN could|MD be|VB in|IN orbit|NN by|IN 2016|CD </s>|S_END
+<s>|S_START a|DT couple|NN of|IN years|NNS after|IN that|DT the|DT european|JJ space|NN agency|NN plans|NNS to|TO launch|VB a|DT telescope|NN of|IN its|PRP$ own|JJ the|DT awkwardly|JJ acronymed|VBN plato|NN planetary|NN transits|NNS and|CC oscillations|NNS of|IN star|NN </s>|S_END
+<s>|S_START this|DT will|MD also|RB examine|VB brighter|JJR stars|NNS than|IN those|DT studied|VBN by|IN kepler|NN offering|NN another|DT boon|NN to|TO exomoonhunter|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT hot|JJ topic|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ also|RB a|DT sliver|NN of|IN hope|NN that|IN the|DT biggest|JJS space|NN telescope|NN of|IN them|PRP all—the|JJ enormous|JJ exquisitely|RB sensitive|JJ massively|RB overbudget|NN and|CC very|RB late|JJ james|NNS webb|VBP space|NN telescope|NN now|RB due|JJ for|IN launch|NN so|RB it|PRP is|VBZ claimed|VBN in|IN 2018—could|JJ give|JJ astronomers|NNS the|DT opportunity|NN to|TO take|VB pictures|NNS of|IN exomoons|NNS directly|RB </s>|S_END
+<s>|S_START in|IN a|DT paper|NN posted|VBD on|IN arxiv|NN an|DT online|NN repository|NN of|IN scientific|JJ papers|NNS in|IN september|NN mary|NN anne|NN peters|NNS and|CC edwin|VB turner|NN of|IN princeton|NN university|NN ponder|NN whether|IN some|DT moons|NNS might|MD shine|VB brightly|RB enough|RB to|TO be|VB visible|JJ from|IN earth|JJ </s>|S_END
+<s>|S_START their|PRP$ idea|NN relies|NNS on|IN a|DT phenomenon|NN called|VBN tidal|NN heating|NN </s>|S_END
+<s>|S_START in|IN the|DT same|JJ way|NN that|IN the|DT gravitational|JJ pull|NN of|IN earth’s|JJ moon|NN causes|NNS tides|VBZ in|IN the|DT oceans|NNS a|DT planet|NN will|MD tug|VB more|RBR strongly|RB on|IN the|DT near|NN sides|VBZ of|IN its|PRP$ moons|NNS than|IN on|IN their|PRP$ far|NN side|NN </s>|S_END
+<s>|S_START these|DT tidal|JJ forces|NNS knead|VBP the|DT inside|NN of|IN the|DT moon|NN and|CC the|DT resulting|VBG friction|NN generates|NNS heat|VBP </s>|S_END
+<s>|S_START the|DT volcanoes|NNS of|IN io|NN jupiter’s|NNS thirdlargest|VBP moon|RB are|VBP powered|VBN this|DT way|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN peters|NNS and|CC dr|NN turner|NN propose|NN to|TO look|VB for|IN a|DT sort|NN of|IN “superio”|NNP </s>|S_END
+<s>|S_START they|PRP have|VBP calculated|VBN that|IN if|IN a|DT largeenough|JJ moon|NN was|VBD orbiting|VBG close|JJ enough|RB to|TO a|DT planet|NN sufficiently|RB distant|JJ from|IN its|PRP$ star|NN for|IN the|DT signal|NN not|RB to|TO be|VB drowned|VBN out|RP by|IN the|DT starlight|NN it|PRP would|MD give|VB off|RP enough|JJ infrared|VBN heat|NN to|TO be|VB visible|JJ from|IN earth—if|JJ it|PRP were|VBD close|RB enough|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT is|VBZ a|DT lot|NN of|IN “ifs”|NN and|CC “enoughs”|NNP </s>|S_END
+<s>|S_START but|CC you|PRP have|VBP to|TO speculate|VB to|TO accumulate|VB </s>|S_END
+<s>|S_START and|CC the|DT prize|NN in|IN the|DT accumulator|NN may|MD be|VB a|DT big|JJ one|CD for|IN in|IN the|DT search|NN for|IN bodies|NNS other|JJ than|IN earth|JJ that|IN might|MD play|VB host|NN to|TO life|VB exomoons|NNS are|VBP not|RB a|DT bad|JJ bet|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START anctuary|JJ moon|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN only|RB one|CD example|NN to|TO go|VB from|IN it|PRP is|VBZ hard|RB to|TO be|VB sure|JJ what|WP conditions|NNS really|RB favour|PRP$ the|DT development|NN of|IN life|NN </s>|S_END
+<s>|S_START that|DT one|CD example|NN does|VBZ however|RB suggest|VBP that|IN something|NN which|WDT is|VBZ rocky|JJ possesses|NNS an|DT atmosphere|NN and|CC lies|NNS within|IN the|DT “habitable|JJ zone”|NN of|IN its|PRP$ star—ie|JJ is|VBZ warm|NN enough|RB to|TO keep|VB any|DT water|NN liquid—is|NN a|DT good|JJ place|NN to|TO start|VB looking|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ nothing|NN that|IN says|VBZ such|JJ a|DT body|NN has|VBZ to|TO be|VB a|DT planet|NN </s>|S_END
+<s>|S_START indeed|RB moons|NNS have|VBP some|DT advantage|NN </s>|S_END
+<s>|S_START there|EX are|VBP likely|JJ to|TO be|VB more|JJR of|IN them|PRP for|IN one|CD thing|NN the|DT solar|JJ system|NN of|IN which|WDT earth|JJ is|VBZ part|NN certainly|RB has|VBZ many|JJ more|JJR moons|NNS than|IN planet|NN </s>|S_END
+<s>|S_START and|CC though|IN comparative|JJ solarsystemology|NN is|VBZ a|DT pretty|RB young|JJ science|NN there|EX are|VBP suggestions|NNS that|IN such|JJ systems|NNS are|VBP chaotic|JJ places|NNS in|IN their|PRP$ youth|NN with|IN gasgiant|JJ planets|NNS forming|VBG and|CC then|RB migrating|VBG in|IN towards|NNS their|PRP$ stars|NNS scattering|VBG any|DT small|JJ rocky|JJ planets|NNS that|WDT are|VBP in|IN the|DT way|NN into|IN more|RBR distant|JJ orbits|NNS or|CC even|RB out|IN of|IN the|DT system|NN altogether|NN </s>|S_END
+<s>|S_START the|DT moons|NNS of|IN gas|NN giants|NNS being|VBG tightly|RB bound|IN by|IN their|PRP$ planets’|JJ gravity|NN would|MD be|VB less|RBR susceptible|JJ to|TO such|JJ early|JJ exit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC moons|NNS might|MD also|RB be|VB more|RBR habitable|JJ </s>|S_END
+<s>|S_START mall|NN planets|NNS close|RB to|TO their|PRP$ parental|JJ stars|NNS risk|VBP becoming|VBG tidally|RB locked|VBN that|IN is|VBZ the|DT lengths|NNS of|IN their|PRP$ days|NNS come|VBP to|TO match|VB their|PRP$ orbital|JJ periods|NNS and|CC they|PRP thus|RB have|VBP one|CD permanently|RB hot|JJ hemisphere|NN and|CC one|CD that|WDT is|VBZ permanently|RB cold|VBN </s>|S_END
+<s>|S_START this|DT would|MD probably|RB not|RB be|VB good|JJ for|IN the|DT development|NN of|IN life|NN </s>|S_END
+<s>|S_START though|IN a|DT moon|NN may|MD become|VB tidally|RB locked|VBN to|TO its|PRP$ parent|NN planet|NN it|PRP can|MD never|RB be|VB locked|VBN to|TO a|DT star|NN so|IN it|PRP will|MD always|RB have|VB some|DT sort|NN of|IN daynight|NN cycle—even|JJ if|IN it|PRP is|VBZ an|DT odd|JJ one|CD from|IN a|DT terrestrial|JJ point|NN of|IN view|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT warmth|NN provided|VBD by|IN tidal|JJ heating|NN might|MD also|RB help|VB make|VB some|DT moons|NNS which|WDT are|VBP outside|IN their|PRP$ stars’|JJ habitable|JJ zones|NNS inhabitable|JJ neverthele|NN </s>|S_END
+<s>|S_START enceladus|NN and|CC europa|NN for|IN instance|NN are|VBP two|CD icebound|IN moons|NNS in|IN the|DT local|JJ solar|NN system|NN with|IN surface|NN temperatures|NNS hundreds|NNS of|IN degrees|NNS below|IN zero|NN </s>|S_END
+<s>|S_START but|CC planetary|JJ scientists|NNS reckon|VBP both|DT may|MD have|VB subsurface|NN oceans|NNS kept|VBD liquid|NN by|IN a|DT combination|NN of|IN radioactive|JJ decay|NN and|CC tidal|JJ heating|NN from|IN saturn|NN and|CC jupiter|NN their|PRP$ respective|JJ parent|NN planet|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN all|DT these|DT reasons|NNS then|RB the|DT search|NN for|IN exomoons|NNS seems|VBZ a|DT worthwhile|NN enterprise|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ hard|RB to|TO believe|VB they|PRP do|VBP not|RB exist|VB </s>|S_END
+<s>|S_START and|CC there|EX is|VBZ no|DT better|JJR way|NN to|TO find|VB something|NN than|IN to|TO look|VB for|IN it|PRP </s>|S_END
+</p>|P_END
+

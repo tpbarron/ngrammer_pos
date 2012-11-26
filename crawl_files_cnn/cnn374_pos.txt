@@ -1,0 +1,51 @@
+<p>|P_START
+<s>|S_START consumer|NN confidence|NN fell|VBD to|TO the|DT lowest|JJS level|NN of|IN the|DT year|NN in|IN august|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN consumer|NN confidence|NN tumbled|VBD in|IN august|NN with|IN the|DT latest|JJS reading|NN indicating|VBG the|DT most|JJS pessimism|NN so|RB far|RB this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT closely|RB watched|VBN index|NN from|IN the|DT conference|NN board|NN a|DT leading|VBG business|NN research|NN firm|NN fell|VBD to|TO 606|CD from|IN 654|CD in|IN july|RB </s>|S_END
+<s>|S_START its|PRP$ the|DT worst|JJS reading|NN since|IN november|NN and|CC was|VBD driven|VBN down|RP by|IN growing|VBG concerns|NNS over|IN the|DT job|NN market|NN as|IN well|RB as|IN the|DT outlook|NN for|IN business|NN conditions|NNS over|IN the|DT next|JJ six|CD months|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START only|RB 7|CD of|IN those|DT surveyed|VBN said|VBD that|IN jobs|NNS are|VBP plentiful|JJ down|IN from|IN 78|CD who|WP believed|VBN that|IN in|IN july|RB </s>|S_END
+<s>|S_START nearly|RB six|CD times|NNS as|RB many|JJ believe|NN jobs|NNS are|VBP tough|JJ to|TO find|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC consumers|NNS dont|VBP believe|VBP conditions|NNS are|VBP likely|JJ to|TO change|VB </s>|S_END
+<s>|S_START only|RB 154|CD of|IN people|NNS surveyed|VBN expect|NN that|IN there|EX will|MD be|VB more|RBR jobs|NNS available|JJ in|IN the|DT next|JJ six|CD months|NNS down|IN from|IN 176|CD in|IN july|RB </s>|S_END
+<s>|S_START the|DT survey|NN also|RB found|VBD that|IN only|RB 165|CD expect|NN business|NN conditions|NNS to|TO improve|VB in|IN the|DT next|JJ six|CD months|NNS down|IN from|IN 19|CD who|WP were|VBD looking|VBG for|IN better|JJR times|NNS ahead|RB last|JJ month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START consumer|NN confidence|NN is|VBZ watched|VBN by|IN economists|NNS and|CC investors|NNS for|IN what|WP it|PRP might|MD mean|VB for|IN consumer|NN spending|NN </s>|S_END
+<s>|S_START paul|NN dales|NNS senior|JJ us|PRP economist|VBP for|IN capital|NN economics|NNS said|VBD the|DT latest|JJS reading|NN suggests|VBZ that|IN more|JJR households|NNS are|VBP intent|JJ on|IN keeping|NN their|PRP$ wallets|NNS in|IN their|PRP$ pockets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fewer|JJR consumers|NNS said|VBD they|PRP intended|VBD to|TO buy|VB a|DT car|NN or|CC major|JJ appliance|NN in|IN the|DT next|JJ six|CD months|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD housing|VBG rebound|NN in|IN site|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC there|EX were|VBD some|DT glimmers|NNS of|IN optimism|NN as|IN the|DT number|NN of|IN people|NNS who|WP expect|VBP to|TO buy|VB a|DT home|NN rose|VBD as|IN did|JJ those|DT who|WP plan|NN to|TO travel|NN on|IN vacation|NN rose|VBD </s>|S_END
+<s>|S_START and|CC 157|CD expect|NN to|TO see|VB their|PRP$ own|JJ income|NN to|TO improve|VB in|IN the|DT next|JJ six|CD months|NNS which|WDT is|VBZ up|RP from|IN julys|NNS reading|VBG and|CC matches|NNS the|DT most|JJS optimistic|JJ reading|NN over|IN the|DT last|JJ 12|CD months|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC dales|NNS said|VBD the|DT weak|JJ confidence|NN reading|NN is|VBZ an|DT argument|NN for|IN the|DT federal|JJ reserve|NN taking|VBG additional|JJ steps|NNS at|IN its|PRP$ september|NN meeting|NN to|TO try|VB to|TO provide|VB more|JJR stimulus|JJ to|TO businesses|NNS and|CC consumers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START last|JJ week|NN in|IN a|DT reply|NN to|TO california|VB rep|NN darrell|NN issa|NN federal|JJ reserve|NN chairman|NN ben|NN bernanke|NN said|VBD the|DT central|JJ bank|NN still|RB has|VBZ room|NN to|TO boost|VB the|DT economy|NN if|IN needed|VBN </s>|S_END
+<s>|S_START bernanke|NN is|VBZ expected|VBN to|TO speak|VB friday|NN at|IN a|DT key|JJ economic|JJ symposium|NN hosted|VBD by|IN the|DT federal|JJ reserve|NN bank|NN of|IN kansas|NNS city|NN every|DT year|NN in|IN jackson|NN hole|NN wyo|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,89 @@
+<p>|P_START
+<s>|S_START early|RB october|JJR brought|NN an|DT unseasonal|JJ chill|NN and|CC a|DT handful|NN of|IN snowflakes|NNS to|TO america’s|NNS northern|JJ state|NN </s>|S_END
+<s>|S_START the|DT candidacy|NN of|IN barack|NN obama|NN seemed|VBD to|TO catch|VB a|DT chill|NN also|RB </s>|S_END
+<s>|S_START presidential|JJ polls|NNS tightened|VBN after|IN a|DT first|JJ debate|NN in|IN which|WDT mr|NN obama|NN struggled|VBD to|TO defend|VB his|PRP$ economic|JJ record|NN against|IN the|DT attacks|NNS of|IN his|PRP$ republican|JJ challenger|NN mitt|NN romney|NN </s>|S_END
+<s>|S_START yet|RB the|DT sledding|NN has|VBZ been|VBN harder|JJR for|IN mr|NN romney|NN than|IN might|MD have|VB been|VBN imagined|VBN given|VBN the|DT jobless|NN figure|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT american|NN economy|NN lost|VBD almost|RB 9m|CD jobs|NNS between|IN january|JJ 2008|CD and|CC early|RB 2010|CD </s>|S_END
+<s>|S_START it|PRP remains|VBZ 45m|CD jobs|NNS short|JJ of|IN the|DT prerecession|NN employment|NN peak—a|NN height|NN it|PRP will|MD not|RB regain|VB for|IN another|DT 32|CD months|NNS at|IN recent|JJ jobcreation|NN rate|NN </s>|S_END
+<s>|S_START till|NN bookmakers|NNS think|VBP the|DT president|NN more|JJR likely|JJ to|TO win|VB than|IN not|RB </s>|S_END
+<s>|S_START the|DT simple|JJ explanation|NN for|IN the|DT tight|JJ race|NN is|VBZ the|DT ambiguity|NN of|IN the|DT economy’s|JJ recent|JJ performance|NN too|RB weak|JJ to|TO make|VB mr|NN obama|NN a|DT shooin|NN too|RB strong|JJ to|TO earn|VB him|PRP a|DT sacking|VBG </s>|S_END
+<s>|S_START the|DT issue|NN of|IN jobs|NNS adds|VBZ to|TO the|DT complexity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN wintry|NN flurries|NNS the|DT midwest’s|NNS economic|JJ weather|NN seems|VBZ to|TO be|VB turning|VBG balmier|JJR </s>|S_END
+<s>|S_START the|DT unemployment|NN rate|NN is|VBZ below|IN the|DT 78|CD national|JJ figure|NN in|IN swing|NN states|NNS like|IN ohio|NN and|CC wisconsin|NN </s>|S_END
+<s>|S_START in|IN janesville|NN wisconsin|NN home|NN of|IN paul|NN ryan|NN the|DT republican|JJ vicepresidential|JJ candidate|NN the|DT unemployment|NN rate|NN dropped|VBD from|IN 139|CD in|IN august|JJ 2009|CD to|TO just|RB 86|CD in|IN august|JJ this|DT year|NN </s>|S_END
+<s>|S_START ome|NN businessmen|NNS in|IN the|DT area|NN say|VBP they|PRP are|VBP planning|VBG to|TO increase|VB hiring|NN </s>|S_END
+<s>|S_START a|DT worker|NN at|IN a|DT local|JJ petrol|NN station|NN says|VBZ he|PRP has|VBZ turned|VBN “cautiously|RB optimistic”|-NONE- </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT same|JJ modest|NN momentum|NN is|VBZ slowly|RB emerging|VBG in|IN national|JJ figure|NN </s>|S_END
+<s>|S_START retail|JJ sales|NNS were|VBD up|RB 54|CD in|IN the|DT year|NN to|TO september|VB and|CC new|JJ housing|NN starts|NNS in|IN september|NN were|VBD up|RB 35|CD from|IN a|DT year|NN ago|IN </s>|S_END
+<s>|S_START the|DT september|NN drop|NN in|IN the|DT unemployment|NN rate|NN from|IN 81|CD to|TO 78|CD allows|NNS mr|NN obama|NN to|TO claim|VB that|IN the|DT unemployment|NN rate|NN has|VBZ not|RB increased|VBN on|IN his|PRP$ watch|NN </s>|S_END
+<s>|S_START unemployment|NN is|VBZ down|IN substantially|RB from|IN a|DT 90|CD rate|NN a|DT year|NN ago|IN </s>|S_END
+<s>|S_START economic|JJ confidence|NN is|VBZ rising|VBG </s>|S_END
+<s>|S_START upport|NN for|IN mr|NN obama|NN may|MD follow|VB </s>|S_END
+<s>|S_START voters|NNS are|VBP usually|RB reluctant|JJ to|TO toss|NNS out|IN incumbents|NNS who|WP bring|VBG improvement|NN however|RB limited|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB there|RB is|VBZ another|DT side|NN to|TO the|DT recovery|NN </s>|S_END
+<s>|S_START even|RB as|IN activity|NN picks|NNS up|IN on|IN main|JJ streets|NNS the|DT legacy|NN of|IN hard|JJ times|NNS is|VBZ unmistakable|JJ </s>|S_END
+<s>|S_START in|IN a|DT janesville|NN coffee|NN shop|NN a|DT woman|NN suggests|VBZ that|IN this|DT is|VBZ a|DT silver|NN lining|VBG not|RB a|DT sunrise|NN things|NNS feel|VBP better|RBR because|IN homes|NNS are|VBP cheap|NN and|CC many|JJ of|IN the|DT jobless|NN have|VBP moved|VBN away|RB </s>|S_END
+<s>|S_START he|PRP has|VBZ a|DT point|NN since|IN the|DT worst|JJS days|NNS of|IN the|DT recession|NN in|IN janesville|NN not|RB long|RB after|IN the|DT closure|NN of|IN the|DT venerable|JJ general|JJ motors|NNS plant|NN the|DT number|NN of|IN unemployed|VBN in|IN the|DT city|NN has|VBZ fallen|VBN by|IN about|RB 4230|CD while|IN employment|NN has|VBZ fallen|VBN by|IN 461|CD </s>|S_END
+<s>|S_START the|DT difference|NN represents|VBZ those|DT who|WP have|VBP given|VBN up|RP searching|VBG for|IN jobs|NNS or|CC have|VBP moved|VBN away|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START across|IN america|NN the|DT story|NN is|VBZ much|JJ the|DT same|JJ </s>|S_END
+<s>|S_START labour|PRP$ markets|NNS are|VBP recovering|VBG employment|NN has|VBZ risen|VBN by|IN 43m|CD jobs|NNS since|IN early|JJ 2010|CD </s>|S_END
+<s>|S_START but|CC much|JJ of|IN the|DT observed|VBN decline|NN in|IN the|DT unemployment|NN rate|NN has|VBZ come|VBN from|IN the|DT departure|NN of|IN discouraged|JJ workers|NNS to|TO early|JJ retirement|NN to|TO collect|VB disability|NN insurance|NN or|CC to|TO linger|JJR on|IN the|DT fringes|NNS of|IN the|DT workforce|NN supported|VBD by|IN other|JJ household|NN member|NN </s>|S_END
+<s>|S_START the|DT share|NN of|IN america’s|NNS population|NN that|IN is|VBZ working|VBG a|DT measure|NN which|WDT takes|VBZ account|NN of|IN labourforce|NN dropouts|NNS plunged|VBD during|IN the|DT recession|NN and|CC has|VBZ scarcely|RB recovered|VBN </s>|S_END
+<s>|S_START this|DT is|VBZ the|DT obama|NN record|NN against|IN which|WDT mr|NN romney|NN would|MD prefer|VB to|TO run|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN obama’s|NNS inauguration|NN however|RB was|VBD not|RB the|DT beginning|NN of|IN america’s|JJ trouble|NN </s>|S_END
+<s>|S_START neither|DT was|VBD the|DT onset|NN of|IN recession|NN in|IN late|JJ 2007|CD </s>|S_END
+<s>|S_START the|DT share|NN of|IN americans|NNS working|VBG never|RB fully|RB recovered|VBN after|IN the|DT 2001|CD recession|NN job|NN growth|NN in|IN the|DT recovery|NN from|IN that|DT downturn|NN was|VBD slower|JJR than|IN after|IN any|DT recession|NN since|IN 1948|CD including|VBG the|DT most|JJS recent|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START earnings|NNS have|VBP stagnated|VBN the|DT inflationadjusted|VBN income|NN of|IN a|DT typical|JJ american|NN family|NN is|VBZ back|RB where|WRB it|PRP was|VBD in|IN the|DT mid1990|NNP </s>|S_END
+<s>|S_START jacob|NN hacker|NN a|DT political|JJ scientist|NN at|IN yale|NN university|NN calculates|VBZ an|DT “economic|JJ security|NN index”|NN which|WDT tracks|NNS the|DT proportion|NN of|IN americans|NNS who|WP see|VBP their|PRP$ disposable|JJ household|NN income|NN after|IN debt|NN service|NN and|CC medical|JJ costs|NNS decline|VBP by|IN 25|CD or|CC more|JJR from|IN one|CD year|NN to|TO the|DT next|JJ </s>|S_END
+<s>|S_START the|DT index|NN hit|VBD a|DT new|JJ high|NN during|IN the|DT recession|NN as|IN more|JJR than|IN one|CD in|IN five|CD americans|NNS experienced|VBN a|DT drop|NN in|IN such|JJ income|NN of|IN 25|CD or|CC more|JJR </s>|S_END
+<s>|S_START but|CC the|DT index|NN has|VBZ been|VBN rising|VBG steadily|RB since|IN the|DT mid1990|NNP </s>|S_END
+<s>|S_START even|RB when|WRB households|NNS have|VBP been|VBN flush|JJ with|IN cash|NN demands|NNS such|JJ as|IN rising|VBG healthcare|NN costs|NNS have|VBP left|VBN them|PRP in|IN perilous|JJ economic|JJ strait|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT campaigns|NNS are|VBP reluctant|JJ to|TO bring|VB up|RP this|DT broader|JJR perspective|NN </s>|S_END
+<s>|S_START it|PRP reflects|VBZ poorly|RB on|IN both|DT candidate|NN </s>|S_END
+<s>|S_START mr|NN obama|NN has|VBZ been|VBN unable|JJ to|TO provide|VB relief|JJ in|IN four|CD year|NN </s>|S_END
+<s>|S_START mr|NN romney|NN as|IN a|DT republican|JJ is|VBZ tarnished|VBN by|IN the|DT bush|JJ administration’s|NNS performance|NN </s>|S_END
+<s>|S_START ilence|NN also|RB comes|VBZ from|IN a|DT lack|NN of|IN consensus|NN about|IN the|DT source|NN of|IN the|DT trouble|NN </s>|S_END
+<s>|S_START inequality|NN has|VBZ been|VBN rising|VBG for|IN three|CD decade|NN </s>|S_END
+<s>|S_START the|DT share|NN of|IN income|NN earned|VBD by|IN labour|PRP$ as|IN opposed|VBN to|TO capital|NN has|VBZ fallen|VBN over|IN the|DT course|NN of|IN a|DT generation|NN </s>|S_END
+<s>|S_START neither|DT party|NN can|MD easily|RB blame|VB the|DT other|JJ for|IN these|DT longterm|NN trend|NN </s>|S_END
+<s>|S_START yet|RB they|PRP are|VBP an|DT important|JJ part|NN of|IN the|DT backdrop|NN of|IN the|DT national|JJ election|NN as|IN they|PRP have|VBP been|VBN for|IN over|IN a|DT decade|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START voters|NNS may|MD not|RB hold|VB grudges|NNS on|IN november|NN 6th|CD </s>|S_END
+<s>|S_START political|JJ scientists|NNS reckon|VBP that|IN economic|JJ fundamentals|NNS strongly|RB influence|NN the|DT performance|NN of|IN the|DT incumbent|NN party|NN in|IN big|JJ elections|NNS and|CC that|IN voters|NNS place|VBP the|DT biggest|JJS emphasis|NN on|IN the|DT most|RBS recent|JJ trends|NNS in|IN such|JJ things|NNS as|IN income|NN and|CC employment|NN </s>|S_END
+<s>|S_START the|DT perception|NN that|IN hard|JJ times|NNS were|VBD retreating|VBG carried|VBN both|DT franklin|NN roosevelt|VBD and|CC ronald|NN reagan|VBD to|TO reelection|NN in|IN 1936|CD and|CC 1984|CD despite|IN economic|JJ struggles|NNS earlier|RBR in|IN their|PRP$ term|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ discomfort|NN with|IN recent|JJ performance|NN that|WDT leaves|VBZ mr|NN obama|NN facing|VBG such|JJ a|DT tight|JJ race|NN </s>|S_END
+<s>|S_START economic|JJ models|NNS predict|VBP a|DT virtual|JJ dead|NN heat|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD last|JJ month’s|NNS worth|IN of|IN jobs|NNS data—|-NONE- october’s—will|MD be|VB released|VBN before|IN the|DT election|NN </s>|S_END
+<s>|S_START whatever|NN the|DT numbers|NNS mr|VBP obama|NN will|MD be|VB unable|JJ to|TO make|VB a|DT reaganlike|NN claim|NN that|IN morning|NN has|VBZ returned|VBN to|TO america|VB </s>|S_END
+<s>|S_START if|IN mr|PRP$ romney|NN is|VBZ unable|JJ to|TO capitalise|VB on|IN this|DT that|IN may|MD be|VB because|IN of|IN his|PRP$ failure|NN matched|VBD by|IN his|PRP$ opponent’s|JJ to|TO offer|VB the|DT country|NN a|DT convincing|NN explanation|NN for|IN its|PRP$ longrun|NN labourmarket|NN trouble|NN </s>|S_END
+</p>|P_END
+

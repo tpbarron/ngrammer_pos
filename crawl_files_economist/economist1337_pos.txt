@@ -1,0 +1,29 @@
+<p>|P_START
+<s>|S_START like|IN drinkers|NNS in|IN an|DT english|JJ pub|NN who|WP crowd|NN the|DT bar|NN well|RB before|IN the|DT bell|NN is|VBZ rung|VBN for|IN last|JJ orders|NNS europes|NNS banks|NNS are|VBP jostling|VBG to|TO get|VB to|TO the|DT front|NN of|IN the|DT queue|NN to|TO raise|VB extra|JJ capital|NN </s>|S_END
+<s>|S_START italys|NNS ubi|VBP banca|NN tapped|VBD markets|NNS for|IN €1|-NONE- billion|CD $|$ 14|CD billion|CD at|IN the|DT end|NN of|IN march|NN </s>|S_END
+<s>|S_START this|DT week|NN intesa|NN sanpaolo|NN the|DT countrys|NNS secondlargest|VBP bank|NN said|VBD it|PRP would|MD raise|VB €5|-NONE- billion|CD </s>|S_END
+<s>|S_START germanys|NNS commerzbank|VBP has|VBZ also|RB joined|VBN the|DT rush|NN announcing|VBG plans|NNS on|IN april|NN 6th|CD to|TO gather|JJR €83|-NONE- billion|CD by|IN selling|NN share|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START other|JJ italian|JJ banks|NNS will|MD be|VB under|IN pressure|NN to|TO follow|VB </s>|S_END
+<s>|S_START first|JJ among|IN them|PRP may|MD be|VB monte|JJ dei|NN paschi|NN di|NN siena|NN which|WDT is|VBZ expected|VBN to|TO raise|VB about|RB €2|-NONE- billion|CD </s>|S_END
+<s>|S_START unicredit|NN italys|NNS biggest|JJS bank|NN hopes|NNS to|TO sit|VB this|DT round|NN out|IN </s>|S_END
+<s>|S_START it|PRP is|VBZ pointing|VBG investors|NNS to|TO its|PRP$ core|NN tier1|NNP ratio|NN of|IN 86|CD a|DT healthy|JJ enough|JJ figure|NN but|CC one|CD that|WDT may|MD begin|VB to|TO look|VB anaemic|JJ as|IN the|DT average|NN held|VBD by|IN other|JJ italian|JJ banks|NNS ratchets|NNS up|RP </s>|S_END
+<s>|S_START the|DT last|JJ time|NN unicredit|NN needed|VBN capital|NN the|DT libyan|NN sovereignwealth|NN fund|NN was|VBD happy|JJ to|TO oblige|VB </s>|S_END
+<s>|S_START its|PRP$ stake|NN of|IN 76|CD is|VBZ now|RB frozen|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ostensible|JJ reason|NN for|IN the|DT rush|NN is|VBZ that|IN the|DT italians|NNS want|VBP to|TO meet|VB the|DT new|JJ capital|NN requirements|NNS of|IN basel|NN 3|CD immediately|RB instead|RB of|IN waiting|VBG until|IN 2019|CD when|WRB all|DT the|DT rules|NNS will|MD finally|RB be|VB in|IN force|NN </s>|S_END
+<s>|S_START europes|NNS latest|VBP round|NN of|IN stress|NN tests|NNS provides|VBZ another|DT incentive|NN to|TO boost|VB buffer|NN </s>|S_END
+<s>|S_START o|NN does|VBZ the|DT sovereigndebt|NN crisis|NN banks|NNS are|VBP paying|VBG over|IN the|DT odds|NNS to|TO borrow|VB in|IN wholesale|JJ markets|NNS because|IN of|IN worries|NNS about|IN the|DT effect|NN of|IN debt|NN restructuring|NN and|CC italys|NNS own|JJ creditworthine|NN </s>|S_END
+<s>|S_START ince|NN writedowns|NNS are|VBP absorbing|VBG about|IN half|DT of|IN italian|JJ banks|NNS operating|VBG profits|NNS they|PRP have|VBP less|JJR chance|NN of|IN building|NN up|IN capital|NN via|IN retained|VBN profit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START commerzbank|NN has|VBZ a|DT different|JJ goal|NN to|TO pay|VB off|RP the|DT german|NN governments|NNS hybrid|VBD capital|NN although|IN the|DT government|NN will|MD provide|VB some|DT of|IN the|DT funds|NNS itself|PRP by|IN subscribing|VBG to|TO the|DT rights|NNS issue|NN </s>|S_END
+<s>|S_START but|CC the|DT banks|NNS core|VBP tier1|NNP capital|NN ratio|NN will|MD fall|VB to|TO 88|CD as|IN a|DT result|NN of|IN the|DT repayment|NN </s>|S_END
+<s>|S_START investors|NNS will|MD hope|VB that|IN commerzbank|NN does|VBZ not|RB end|VB up|RP wanting|VBG another|DT round|NN later|JJ </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,68 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN att|NN activated|VBD about|IN 13|CD million|CD iphone|NN 5s|CD last|JJ quarter|NN double|JJ verizons|NNS totals|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT companies|NNS cited|VBD supply|RB constraints|NNS for|IN the|DT surprisingly|RB low|JJ number|NN of|IN iphone|NN 5s|CD sold|VBD in|IN their|PRP$ first|JJ week|NN on|IN store|NN shelves|NNS </s>|S_END
+<s>|S_START while|IN verizons|NNS iphone|NN 5|CD sales|NNS fell|VBD short|JJ of|IN wall|JJ streets|NNS expectations|NNS att|VBP t|NN fortune|NN 500|CD managed|VBN to|TO meet|VB them|PRP </s>|S_END
+<s>|S_START the|DT highly|RB anticipated|VBN smartphone|NN went|VBD on|IN sale|NN on|IN sept|NN 21|CD 10|CD days|NNS before|IN the|DT end|NN of|IN the|DT third|JJ quarter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC selling|VBG so|RB many|JJ iphones|NNS comes|VBZ with|IN consequences|NNS thanks|NNS to|TO its|PRP$ industryhigh|JJ subsidy|NN of|IN about|RB $|$ 400|CD per|IN iphone|NN apples|NNS smartphone|NN tends|NNS to|TO decimate|VB carriers|NNS profit|NN margins|NNS particularly|RB when|WRB new|JJ iphones|NNS launch|VBP </s>|S_END
+<s>|S_START the|DT iphone|NN can|MD be|VB quite|RB lucrative|JJ for|IN carriers|NNS in|IN the|DT long|JJ run|NN but|CC the|DT huge|JJ rush|NN of|IN subscribers|NNS upgrading|VBG to|TO the|DT new|JJ device|NN tends|NNS to|TO have|VB a|DT nasty|NN immediate|NN impact|NN on|IN their|PRP$ bottom|JJ lines|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START att|NN said|VBD its|PRP$ thirdquarter|NN wireless|NN profit|NN margin|NN fell|VBD to|TO 408|CD way|NN down|IN from|IN 45|CD in|IN the|DT second|JJ quarter|NN and|CC 437|CD a|DT year|NN ago|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START verizon|NN vz|NN fortune|NN 500|CD meanwhile|RB reported|VBN record|NN wireless|NN profit|NN margin|NN of|IN 50|CD last|JJ quarter|NN </s>|S_END
+<s>|S_START thats|NNS because|IN just|RB less|JJR than|IN half|PDT of|IN verizons|NNS 65|CD million|CD smartphone|NN sales|NNS were|VBD iphones|NNS last|JJ quarter|NN and|CC only|RB 651000|CD were|VBD iphone|VBN 5s|CD </s>|S_END
+<s>|S_START by|IN contrast|NN the|DT 47|CD million|CD total|JJ iphones|NNS sold|VBN last|JJ quarter|NN represented|VBD 77|CD of|IN atts|NNS overall|JJ smartphone|NN sales|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ralph|NN de|IN la|DT vega|NN att|NN wireless|NN ceo|NN said|VBD on|IN a|DT conference|NN call|NN with|IN investment|NN analysts|NNS that|WDT the|DT company|NN is|VBZ trying|VBG to|TO increase|VB its|PRP$ share|NN of|IN smartphones|NNS that|WDT come|VBP with|IN a|DT lower|JJR upfront|NN cost|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP look|VBP every|DT day|NN for|IN devices|NNS that|WDT cost|NN less|RBR and|CC carry|VB less|RBR subsidy|JJ de|NN la|NN vega|NN said|VBD citing|VBG nokias|NNS nok|VBP windows|NNS phone|NN 8|CD devices|NNS as|IN an|DT example|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START att|NN didnt|VBD benefit|NN from|IN the|DT iphone|NN 5|CD launch|NN as|IN much|JJ as|IN verizon|NN in|IN terms|NNS of|IN adding|VBG new|JJ customers|NNS </s>|S_END
+<s>|S_START att|NN added|VBD a|DT net|JJ 151000|CD new|JJ customers|NNS under|IN contract|NN last|JJ quarter|NN about|IN a|DT tenth|NN of|IN verizons|NNS haul|VBP of|IN 15|CD million|CD net|JJ new|JJ contracted|JJ customers|NNS a|DT fouryear|JJ high|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ma|NN bell|VBD blamed|VBN the|DT iphone|NN 5s|CD supply|NN constraints|NNS for|IN the|DT weak|JJ new|JJ customer|NN additions|NNS noting|VBG that|IN most|JJS of|IN the|DT iphone|NN 5s|CD att|NN activated|VBD went|NN to|TO existing|VBG customers|NNS </s>|S_END
+<s>|S_START the|DT company|NN expects|VBZ that|IN to|TO change|VB this|DT quarter|NN de|IN la|DT vega|NN said|VBD att|NN is|VBZ seeing|VBG between|IN 5000|CD and|CC 10000|CD more|RBR net|JJ adds|NNS per|IN day|NN when|WRB apple|NN delivers|NNS iphone|NN 5s|CD to|TO its|PRP$ stores|NNS compared|VBN to|TO days|NNS where|WRB it|PRP has|VBZ no|DT supply|NN of|IN apples|NNS smartphone|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT good|JJ news|NN for|IN att|NN is|VBZ that|IN its|PRP$ making|VBG more|JJR money|NN off|IN of|IN its|PRP$ customers|NNS posting|VBG the|DT biggest|JJS gain|NN in|IN average|JJ revenue|NN per|IN user|NN in|IN six|CD quarters|NNS </s>|S_END
+<s>|S_START att|NN introduced|VBD shared|VBN data|NNS plans|NNS called|VBN mobile|JJ share|NN in|IN july|RB which|WDT are|VBP intended|VBN to|TO encourage|VB higher|JJR data|NNS usage|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT plan|NN has|VBZ paid|VBN off|RP </s>|S_END
+<s>|S_START more|JJR than|IN a|DT third|JJ of|IN atts|NNS new|JJ mobile|JJ share|NN plan|NN customers|NNS are|VBP choosing|VBG the|DT largest|JJS plans|NNS of|IN 10|CD gigabytes|NNS or|CC more|JJR the|DT company|NN said|VBD </s>|S_END
+<s>|S_START even|RB though|IN the|DT new|JJ customer|NN plans|NNS can|MD actually|RB prove|VB cheaper|JJR than|IN the|DT one|CD theyre|NN replacing|NN att|NN is|VBZ still|RB making|VBG more|JJR money|NN overall|JJ as|IN customers|NNS ramp|VBP up|RP their|PRP$ gigabytes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START att|NN reported|VBD earnings|NNS of|IN $|$ 36|CD billion|CD for|IN the|DT quarter|NN even|RB with|IN a|DT year|NN ago|IN on|IN sales|NNS of|IN $|$ 315|CD billion|CD also|RB its|PRP$ third|JJ quarter|NN of|IN 2011|CD total|JJ </s>|S_END
+<s>|S_START profit|NN was|VBD slightly|RB higher|JJR than|IN wall|JJ streets|NNS expectations|NNS while|IN sales|NNS came|VBD in|IN slightly|RB below|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shares|NNS were|VBD down|RB about|IN 1|CD in|IN morning|NN trading|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rival|NN sprint|VBD s|NNS fortune|NN 500|CD is|VBZ on|IN tap|NN to|TO report|VB their|PRP$ earnings|NNS thursday|NN </s>|S_END
+<s>|S_START sprint|NN recently|RB agreed|VBD to|TO sell|VB a|DT majority|NN of|IN the|DT company|NN to|TO japanese|VB tech|NN giant|NN softbank|NN </s>|S_END
+</p>|P_END
+

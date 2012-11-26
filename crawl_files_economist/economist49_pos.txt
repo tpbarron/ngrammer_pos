@@ -1,0 +1,106 @@
+<p>|P_START
+<s>|S_START in|IN most|JJS countries|NNS it|PRP is|VBZ illegal|JJ to|TO buy|VB or|CC sell|VB a|DT kidney|NN </s>|S_END
+<s>|S_START if|IN you|PRP need|VBP a|DT transplant|NN you|PRP join|VBP a|DT waiting|VBG list|NN until|IN a|DT matching|NN organ|NN becomes|VBZ available|JJ </s>|S_END
+<s>|S_START this|DT drives|NNS economists|VBZ nut|VBN </s>|S_END
+<s>|S_START why|WRB not|RB allow|VBP willing|JJ donors|NNS to|TO sell|VB spare|NN kidneys|NNS and|CC let|VB patients|NNS or|CC the|DT government|NN acting|VBG on|IN their|PRP$ behalf|NN bid|NN for|IN them|PRP </s>|S_END
+<s>|S_START the|DT waiting|VBG list|NN would|MD disappear|VB overnight|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT reason|NN is|VBZ that|IN most|JJS societies|NNS find|VBP the|DT concept|NN of|IN mixing|VBG kidneys|NNS and|CC cash|NN repugnant|NN </s>|S_END
+<s>|S_START people|NNS often|RB exclude|VBP financial|JJ considerations|NNS from|IN their|PRP$ most|RBS important|JJ decisions|NNS from|IN the|DT person|NN they|PRP marry|VBP to|TO the|DT foster|NN child|NN they|PRP adopt|VBP </s>|S_END
+<s>|S_START even|RB some|DT transactions|NNS that|WDT do|VBP involve|VBP money|NN are|VBP not|RB really|RB about|IN price|NN </s>|S_END
+<s>|S_START universities|NNS in|IN america|NN do|VBP not|RB admit|VB students|NNS based|VBN on|IN who|WP pays|NNS the|DT most|JJS for|IN example|NN </s>|S_END
+<s>|S_START rather|RB they|PRP select|VBP students|NNS based|VBN on|IN complex|JJ criteria|NNS that|WDT include|VBP grades|VBZ test|NN scores|NNS and|CC diversity|NN </s>|S_END
+<s>|S_START imilarly|RB students|NNS choose|VBP their|PRP$ university|NN on|IN more|JJR than|IN just|RB financial|JJ factor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START money|NN is|VBZ not|RB essential|JJ to|TO a|DT market|NN </s>|S_END
+<s>|S_START after|IN all|DT economics|NNS is|VBZ about|IN maximising|VBG welfare|NN not|RB gdp|VB </s>|S_END
+<s>|S_START but|CC the|DT absence|NN of|IN a|DT price|NN to|TO allocate|VB supply|RB and|CC demand|NN makes|VBZ it|PRP harder|JJR to|TO know|VB whether|IN welfare|NN is|VBZ being|VBG maximised|VBN </s>|S_END
+<s>|S_START this|DT year’s|JJ nobel|NN prize|NN in|IN economics|NNS went|VBD to|TO two|CD scholars—alvin|JJ roth|NN who|WP has|VBZ just|RB joined|VBN the|DT economics|NNS department|NN at|IN stanford|NN university|NN and|CC lloyd|NN shapley|NN a|DT retired|VBN mathematician|JJ at|IN the|DT university|NN of|IN california|NN los|NNS angeles—who|-NONE- have|VBP grappled|VBN with|IN that|DT very|RB problem|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN 1962|CD david|NN gale|NN who|WP died|VBD in|IN 2008|CD and|CC mr|NN shapley|NN now|RB 89|CD published|VBD a|DT playful|JJ paper|NN called|VBN “college|JJ admissions|NNS and|CC the|DT stability|NN of|IN marriage”|NNP </s>|S_END
+<s>|S_START they|PRP noted|VBD the|DT similarity|NN between|IN college|NN admissions|NNS in|IN which|WDT students|NNS and|CC universities|NNS are|VBP trying|VBG to|TO pair|VB up|RP to|TO their|PRP$ mutual|JJ satisfaction|NN and|CC the|DT marriage|NN market|NN in|IN which|WDT a|DT fixed|VBN number|NN of|IN men|NNS and|CC women|NNS are|VBP trying|VBG to|TO find|VB a|DT match|NN </s>|S_END
+<s>|S_START in|IN romantic|JJ comedies|NNS each|DT man|NN and|CC woman|NN marries|NNS their|PRP$ own|JJ true|JJ love|NN </s>|S_END
+<s>|S_START in|IN real|JJ life|NN some|DT people|NNS settle|VBP for|IN secondbest|JJS which|WDT can|MD lead|VB to|TO lots|NNS of|IN trouble|JJ </s>|S_END
+<s>|S_START if|IN john|NN and|CC mary|JJ love|NN each|DT other|JJ but|CC are|VBP married|VBN to|TO other|JJ people|NNS they|PRP will|MD be|VB tempted|VBN to|TO leave|VB their|PRP$ current|JJ partner|NN and|CC marry|NN each|DT other|JJ </s>|S_END
+<s>|S_START but|CC if|IN john|NN loves|NNS mary|JJ while|IN mary|JJ loves|NNS her|PRP husband|VBP more|JJR than|IN john|NN both|DT will|MD stay|VB put|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN gale|NN and|CC mr|NN shapley|NN devised|VBD an|DT algorithm|NN for|IN matching|JJ an|DT equal|JJ number|NN of|IN men|NNS and|CC women|NNS that|WDT would|MD guarantee|VB this|DT second|JJ more|RBR stable|JJ outcome|NN </s>|S_END
+<s>|S_START each|DT man|NN and|CC woman|NN ranks|NNS their|PRP$ preferred|VBN partner|NN </s>|S_END
+<s>|S_START each|DT man|NN proposes|NNS to|TO his|PRP$ highestranked|VBN woman|NN </s>|S_END
+<s>|S_START each|DT woman|NN rejects|NNS all|DT the|DT proposals|NNS she|PRP gets|VBZ except|IN the|DT highestranked|VBN among|IN them|PRP </s>|S_END
+<s>|S_START but|CC she|PRP does|VBZ not|RB accept|VB the|DT proposal|NN in|IN case|NN a|DT man|NN she|PRP prefers|VBZ even|RB more|JJR proposes|NNS next|JJ time|NN </s>|S_END
+<s>|S_START the|DT algorithm|NN is|VBZ rerun|VBN until|IN all|DT women|NNS have|VBP a|DT satisfactory|JJ proposal|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START adly|RB “cooperative|JJ game|NN theory”|NN has|VBZ not|RB yet|RB had|VBD the|DT opportunity|NN to|TO transform|NN the|DT marriage|NN market|NN </s>|S_END
+<s>|S_START but|CC mr|PRP$ roth|NN spotted|VBD practical|JJ applications|NNS in|IN other|JJ area|NN </s>|S_END
+<s>|S_START in|IN the|DT 1940s|CD the|DT competition|NN for|IN new|JJ doctors|NNS sometimes|RB saw|VBD hospitals|NNS making|VBG offers|NNS to|TO students|NNS years|NNS before|IN they|PRP graduated|VBD and|CC thus|RB before|IN their|PRP$ qualifications|NNS were|VBD truly|RB known|VBN </s>|S_END
+<s>|S_START the|DT national|JJ resident|NN matching|NN programme|NN was|VBD devised|VBN to|TO match|VB doctors|NNS to|TO hospitals|NNS in|IN a|DT way|NN that|WDT maximised|VBN their|PRP$ satisfaction|NN </s>|S_END
+<s>|S_START this|DT programme|NN mr|NN roth|NN noted|VBD in|IN a|DT 1984|CD paper|NN was|VBD a|DT reallife|NN example|NN of|IN the|DT “deferredacceptance”|JJ algorithm|NN of|IN messrs|NNS gale|VBP and|CC shapley|NN </s>|S_END
+<s>|S_START the|DT tests|NNS of|IN a|DT welldesigned|VBN market|NN are|VBP that|IN participants|NNS are|VBP satisfied|VBN enough|JJ that|IN they|PRP don’t|VBP go|VBP around|IN it|PRP and|CC that|IN there|EX is|VBZ little|JJ incentive|NN to|TO game|NN the|DT system—by|JJ for|IN example|NN lying|VBG about|IN their|PRP$ preference|NN </s>|S_END
+<s>|S_START this|DT was|VBD true|JJ of|IN the|DT residentmatching|NN programme|NN mr|NN roth|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START other|JJ systems|NNS worked|VBD far|RB less|JJR well|RB </s>|S_END
+<s>|S_START both|DT the|DT new|JJ york|NN and|CC boston|NN publicschool|NN systems|NNS used|VBN to|TO assign|VB students|NNS according|VBG to|TO their|PRP$ preferred|VBN choices|NNS but|CC students|NNS often|RB had|VBD to|TO decide|VB before|IN knowing|VBG all|DT their|PRP$ option|NN </s>|S_END
+<s>|S_START thousands|NNS ended|VBD up|RP at|IN schools|NNS for|IN which|WDT they|PRP had|VBD expressed|VBN no|DT preference|NN </s>|S_END
+<s>|S_START mr|NN roth|NN helped|VBD both|DT design|NN algorithms|NNS that|WDT significantly|RB reduced|VBD these|DT mismatche|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP also|RB applied|VBD his|PRP$ expertise|NN to|TO organ|VB donation|NN </s>|S_END
+<s>|S_START a|DT man|NN who|WP would|MD not|RB donate|VB a|DT kidney|NN in|IN other|JJ circumstances|NNS may|MD do|VB so|RB if|IN his|PRP$ wife|NN needs|VBZ one|CD </s>|S_END
+<s>|S_START if|IN their|PRP$ blood|NN types|NNS do|VBP not|RB match|VB they|PRP can|MD be|VB paired|VBN with|IN a|DT couple|NN in|IN the|DT mirrorimage|NN position|NN </s>|S_END
+<s>|S_START the|DT new|JJ england|NN programme|NN for|IN kidney|NN exchange|NN which|WDT was|VBD partly|RB designed|VBN by|IN mr|NN roth|NN incorporates|VBZ much|JJ more|JJR complex|JJ chains|NNS of|IN donors|NNS and|CC recipients|NNS and|CC raises|VBZ the|DT supply|NN of|IN kidneys|NNS by|IN making|VBG a|DT donor|NN more|RBR confident|JJ his|PRP$ loved|JJ one|CD will|MD find|VB a|DT match|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP love|VBP you|PRP subject|VBP to|TO the|DT next|JJ algorithm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN time|NN the|DT internet|NN could|MD make|VB formal|JJ matching|NN systems|NNS viable|JJ for|IN even|RB more|JJR transaction|NN </s>|S_END
+<s>|S_START existing|VBG systems|NNS can|MD not|RB always|RB be|VB improved|VBN upon|IN however|RB </s>|S_END
+<s>|S_START utku|NN Ünver|NN at|IN boston|NN college|NN who|WP helped|VBD develop|VB the|DT kidneyexchange|NN programme|NN with|IN mr|NN roth|NN points|NNS to|TO the|DT allocation|NN of|IN law|NN students|NNS to|TO federaljudge|VB clerkship|NN </s>|S_END
+<s>|S_START judges|NNS have|VBP complete|JJ control|NN over|IN whom|WP they|PRP hire|VBP and|CC many|JJ students|NNS to|TO choose|VB from|IN so|RB there|RB are|VBP fewer|JJR benefits|NNS to|TO a|DT formal|JJ clearinghouse|NN system|NN </s>|S_END
+<s>|S_START when|WRB economics|NNS departments|NNS hire|VBP new|JJ phds|NNS their|PRP$ preferences|NNS are|VBP too|RB difficult|JJ to|TO codify|VB in|IN a|DT matching|NN system|NN </s>|S_END
+<s>|S_START and|CC in|IN many|JJ cases|NNS such|JJ systems|NNS should|MD only|RB facilitate|VB transactions|NNS not|RB execute|VB them|PRP </s>|S_END
+<s>|S_START mr|NN unver|NN and|CC his|PRP$ colleagues|NNS are|VBP developing|VBG a|DT way|NN of|IN recommending|VBG foster|NN children|NNS to|TO adoptive|VB parents|NNS in|IN pennsylvania|NN but|CC the|DT final|JJ decision|NN is|VBZ left|VBN to|TO social|JJ workers|NNS and|CC the|DT familie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN their|PRP$ 1962|CD article|NN mr|NN gale|NN and|CC mr|NN shapley|NN noted|VBD that|IN their|PRP$ algorithm|NN was|VBD not|RB particularly|RB complicated|VBN illustrating|VBG a|DT larger|JJR point|NN about|IN their|PRP$ discipline|NN “any|NN argument|NN that|WDT is|VBZ carried|VBN out|RP with|IN sufficient|JJ precision|NN is|VBZ mathematical”|JJ the|DT recognition|NN of|IN mr|NN shapley’s|NNS and|CC mr|NN roth’s|NNS work|VBP is|VBZ also|RB a|DT reminder|NN that|WDT for|IN all|DT the|DT bad|JJ press|NN economics|NNS has|VBZ received|VBN since|IN the|DT crisis|NN the|DT discipline|NN still|RB brims|VBZ over|IN with|IN insights|NNS that|IN can|MD solve|VB reallife|NN problem|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ource|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START college|NN admissions|NNS and|CC the|DT stability|NN of|IN marriage|NN by|IN d|NN gale|NN and|CC l|NN </s>|S_END
+<s>|S_START hapley|NN american|VBD mathematical|JJ monthly|JJ 1962|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START table|JJ allocations|NNS and|CC the|DT practice|NN of|IN market|NN design|NN compiled|VBD by|IN the|DT economic|JJ sciences|NNS prize|VBP committee|NN of|IN the|DT royal|JJ swedish|NN academy|NN of|IN sciences|NNS 2012|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT evolution|NN of|IN the|DT labour|NN market|NN for|IN medical|JJ interns|NNS and|CC residents|NNS a|DT case|NN study|NN in|IN game|NN theory|NN by|IN ae|NN </s>|S_END
+<s>|S_START roth|NN journal|NN of|IN political|JJ economy|NN 1984|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogsfreeexchange|NN </s>|S_END
+</p>|P_END
+

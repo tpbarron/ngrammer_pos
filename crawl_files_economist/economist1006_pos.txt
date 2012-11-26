@@ -1,0 +1,82 @@
+<p>|P_START
+<s>|S_START every|DT summer|NN seattle|NN holds|NNS a|DT raft|NN race|NN in|IN green|JJ lake|NN a|DT park|NN that|WDT is|VBZ the|DT eponymous|JJ home|NN of|IN the|DT water|NN the|DT rafts|NNS must|MD cro|VB </s>|S_END
+<s>|S_START entries|NNS for|IN the|DT milk|NN carton|NN derby|NN have|VBP to|TO be|VB made|VBN from|IN old|JJ plastic|JJ milk|NN bottle|NN </s>|S_END
+<s>|S_START the|DT result|NN is|VBZ a|DT wonderfully|RB heathrobinson|NN collection|NN of|IN improvised|VBN craft|NN </s>|S_END
+<s>|S_START but|CC this|DT year|NN one|CD stood|NN out|IN the|DT entry|NN from|IN the|DT university|NN of|IN washington’s|NNP engineering|NN department|NN actually|RB looked|VBD like|IN a|DT boat|JJ </s>|S_END
+<s>|S_START the|DT students|NNS who|WP built|VBN it|PRP matthew|VBD rogge|NN bethany|NN weeks|NNS and|CC brandon|NN bowman|NN had|VBD shredded|VBN and|CC melted|VBN their|PRP$ bottles|NNS and|CC then|RB used|VBN a|DT 3d|JJ printer|NN to|TO print|VB themselves|PRP a|DT plastic|JJ vessel|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START no|DT doubt|NN the|DT milkcartonderby|NN rules|NNS will|MD be|VB tightened|VBN next|JJ year—though|JJ in|IN the|DT end|NN the|DT team|NN came|VBD only|RB second|JJ </s>|S_END
+<s>|S_START but|CC they|PRP did|VBD come|VB first|RB in|IN a|DT competition|NN that|WDT mattered|VBD more|JJR </s>|S_END
+<s>|S_START on|IN october|NN 19th|CD they|PRP won|VBD $|$ 100000|CD in|IN the|DT 3d4d|JJ challenge|NN organised|VBD by|IN a|DT charity|NN called|VBN techfortrade|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START 3d|JJ printing|NN is|VBZ all|DT the|DT rage|NN at|IN the|DT moment|NN </s>|S_END
+<s>|S_START everal|JJ varieties|NNS of|IN the|DT technique|NN exist|NN using|VBG a|DT wide|JJ range|NN of|IN materials|NNS as|IN the|DT “ink”|NNP </s>|S_END
+<s>|S_START one|CD of|IN the|DT most|RBS popular|JJ methods|NNS though—and|JJ the|DT one|CD used|JJ by|IN the|DT team—works|NNS by|IN extruding|VBG a|DT filament|NN of|IN molten|NN plastic|JJ </s>|S_END
+<s>|S_START in|IN the|DT case|NN of|IN the|DT team’s|JJ printer|NN this|DT plastic|NN was|VBD highdensity|NN polyethylene|NN from|IN milk|NN bottle|NN </s>|S_END
+<s>|S_START the|DT print|NN head|NN makes|VBZ repeated|VBN passes|NNS over|IN the|DT thing|NN being|VBG printed|VBN leaving|VBG a|DT plastic|JJ trail|NN as|IN it|PRP does|VBZ so|RB </s>|S_END
+<s>|S_START it|PRP thus|RB builds|VBZ up|RP a|DT threedimensional|JJ structure|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START 3d|JJ printing|NN is|VBZ now|RB taken|VBN seriously|RB by|IN manufacturers|NNS as|IN an|DT alternative|NN to|TO cutting|VBG bending|NN pressing|VBG and|CC moulding|VBG thing|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ also|RB a|DT popular|JJ hobby|NN among|IN those|DT of|IN a|DT geeky|JJ disposition|NN </s>|S_END
+<s>|S_START what|WP it|PRP has|VBZ not|RB been|VBN used|VBN for|IN so|RB far|RB is|VBZ to|TO help|VB people|NNS in|IN poor|JJ countries|NNS improve|VBP their|PRP$ everyday|NN live|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN rogge|NN ms|NNS weeks|NNS and|CC mr|NN bowman|NN intend|NN to|TO employ|VB their|PRP$ prize|NN money|NN to|TO do|VB precisely|RB that|IN </s>|S_END
+<s>|S_START they|PRP plan|VBP to|TO form|NN a|DT firm|NN that|WDT will|MD in|VB partnership|NN with|IN a|DT charity|NN called|VBN water|NN for|IN humans|NNS custombuild|VBP composting|VBG toilets|NNS and|CC rainwater|NN collector|NN </s>|S_END
+<s>|S_START the|DT partnership|NN will|MD look|VB for|IN suitable|JJ local|JJ entrepreneurs|NNS in|IN poor|JJ countries|NNS and|CC will|MD train|VB them|PRP how|WRB to|TO build|VB use|NN and|CC maintain|VB the|DT printer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START once|RB the|DT technology|NN is|VBZ established|VBN for|IN toilets|NNS and|CC water|NN collectors|NNS other|JJ products|NNS will|MD be|VB introduced|VBN </s>|S_END
+<s>|S_START the|DT local|JJ partners|NNS will|MD know|VB what|WP products|NNS are|VBP needed|VBN and|CC how|WRB much|JJ people|NNS are|VBP prepared|VBN to|TO pay|VB for|IN them—and|JJ therefore|NN what|WP is|VBZ worth|JJ making|VBG </s>|S_END
+<s>|S_START the|DT operation|NN will|MD thus|RB run|VB on|IN a|DT commercial|JJ basi|NN </s>|S_END
+<s>|S_START but|CC the|DT software|NN that|IN controls|NNS the|DT printers|NNS will|MD be|VB opensource|NN and|CC available|JJ to|TO all|DT as|IN will|MD many|JJ of|IN the|DT designs|NNS for|IN things|NNS the|DT printers|NNS can|MD make|VB </s>|S_END
+<s>|S_START that|DT way|NN the|DT technology|NN can|MD spread|VB </s>|S_END
+<s>|S_START a|DT trial|NN will|MD begin|VB soon|RB in|IN oaxaca|NN mexico|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT crucial|JJ point|NN about|IN the|DT team’s|NNS printer|NN is|VBZ that|IN it|PRP combines|VBZ size|NN and|CC cheapne|NN </s>|S_END
+<s>|S_START printers|NNS used|VBN by|IN hobbyists|NNS are|VBP not|RB expensive|JJ but|CC they|PRP are|VBP small|JJ </s>|S_END
+<s>|S_START many|JJ would|MD find|VB it|PRP hard|RB to|TO make|VB anything|NN larger|JJR than|IN a|DT coffee|NN cup|NN </s>|S_END
+<s>|S_START those|DT used|VBN by|IN engineering|NN companies|NNS cost|VB serious|JJ money—and|NN even|RB they|PRP might|MD balk|VB at|IN printing|NN an|DT object|NN the|DT size|NN of|IN the|DT milk|NN carton|NN derby|NN boat|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT team’s|JJ printer|NN is|VBZ built|VBN around|IN a|DT secondhand|NN computercontrolled|VBN plasma|NN cutter|NN a|DT device|NN used|VBN for|IN carving|NN up|RB sheets|VBZ of|IN metal|NN </s>|S_END
+<s>|S_START this|DT directs|NNS the|DT movement|NN of|IN an|DT extruder|NN that|IN melts|NNS flakes|VBZ of|IN plastic|JJ into|IN a|DT thin|JJ stream|NN which|WDT can|MD be|VB squirted|VBN out|RP as|RB required|VBN </s>|S_END
+<s>|S_START it|PRP is|VBZ able|JJ to|TO create|VB things|NNS with|IN dimensions|NNS of|IN up|IN to|TO 25|CD metres|NNS by|IN 12|CD metres|NNS by|IN 1|CD metre|NN </s>|S_END
+<s>|S_START appropriately|RB many|JJ of|IN its|PRP$ parts|NNS were|VBD themselves|PRP manufactured|VBN on|IN a|DT desktop|NN 3d|CD printer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ink|NN is|VBZ cheap|NN too|RB </s>|S_END
+<s>|S_START highdensity|NN polyethylene|NN is|VBZ as|IN common|JJ as|IN muck—literally|JJ for|IN a|DT lot|NN of|IN it|PRP ends|VBZ up|RP on|IN refuse|NN tip|NN </s>|S_END
+<s>|S_START chop|NN it|PRP up|IN though|IN and|CC it|PRP is|VBZ grist|JJ to|TO the|DT mill|NN </s>|S_END
+<s>|S_START mr|NN rogge|NN estimates|NNS that|WDT if|IN he|PRP and|CC his|PRP$ colleagues|NNS had|VBD printed|VBN their|PRP$ boat|JJ from|IN commercial|JJ plastic|JJ filament|NN it|PRP would|MD have|VB cost|NN them|PRP $|$ 800|CD </s>|S_END
+<s>|S_START instead|RB 250|CD clean|NN empty|NN milk|NN bottles|NNS set|VBD them|PRP back|RB just|RB $|$ 320|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN technical|JJ questions|NNS remain|VBP </s>|S_END
+<s>|S_START highdensity|NN polyethylene|NN shrinks|VBZ when|WRB it|PRP cool|VBP </s>|S_END
+<s>|S_START that|DT stresses|VBZ the|DT object|NN being|VBG printed|VBN and|CC can|MD sometimes|RB tear|VB it|PRP apart|VB </s>|S_END
+<s>|S_START the|DT students|NNS are|VBP therefore|RB working|VBG on|IN a|DT second|JJ prototype|NN that|WDT prints|VBZ things|NNS faster|JJR allowing|VBG the|DT layers|NNS of|IN plastic|JJ to|TO cool|NN almost|RB simultaneously|RB </s>|S_END
+<s>|S_START they|PRP are|VBP also|RB experimenting|VBG with|IN making|VBG things|NNS from|IN other|JJ types|NNS of|IN waste|NN plastic|JJ that|IN suffer|NN less|RBR from|IN shrinkage|NN </s>|S_END
+<s>|S_START and|CC until|IN a|DT production|NN version|NN of|IN the|DT printer|NN is|VBZ ready|JJ and|CC priced|VBN it|PRP remains|VBZ to|TO be|VB seen|VBN how|WRB competitive|JJ its|PRP$ output|NN really|RB will|MD be|VB with|IN massproduced|VBN item|NN </s>|S_END
+<s>|S_START mr|NN rogge|NN doubts|NNS for|IN example|NN that|WDT a|DT 3dprinted|JJ bucket—even|JJ one|CD made|NN from|IN milk|NN bottles—will|NN ever|RB be|VB cheaper|JJR than|IN one|CD made|VBN in|IN a|DT factory|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START boats|NNS though|IN could|MD be|VB a|DT hit|NN </s>|S_END
+<s>|S_START one|CD of|IN the|DT judges|NNS at|IN the|DT 3d4d|JJ challenge|NN noted|VBD that|IN many|JJ small|JJ vessels|NNS in|IN west|JJS africa|NN are|VBP made|VBN from|IN trees|NNS such|JJ as|IN teak|JJ that|IN are|VBP becoming|VBG scarce|NN </s>|S_END
+<s>|S_START making|VBG them|PRP from|IN waste|NN plastic|NN instead|RB would|MD be|VB an|DT environmental|JJ twofer|NN rare|NN species|NNS would|MD be|VB conserved|VBN and|CC less|JJR rubbish|JJ thrown|NN away|RB </s>|S_END
+</p>|P_END
+

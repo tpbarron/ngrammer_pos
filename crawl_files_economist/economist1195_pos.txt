@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 38|CD gdp|NN $|$ 23bn|CD ppp|CD $|$ 35bn|CD inflation|NN 69|CD population|NN 67m|CD gdp|NN per|IN head|NN $|$ 3550|CD ppp|CD $|$ 5570|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT shadow|NN of|IN 2013|CD elections|NNS will|MD loom|VB over|IN politic|JJ </s>|S_END
+<s>|S_START fernando|NN lugos|NNS leftwing|VBG administration|NN lacking|VBG a|DT majority|NN and|CC weakened|VBD by|IN an|DT illadvised|VBN attempt|NN to|TO lift|VB the|DT constitutional|JJ bar|NN on|IN his|PRP$ candidacy|NN for|IN a|DT second|JJ term|NN will|MD be|VB in|IN no|DT position|NN to|TO advance|NN social|JJ and|CC economic|JJ reform|NN </s>|S_END
+<s>|S_START expansionary|JJ fiscal|JJ policy|NN will|MD stay|VB in|IN place|NN in|IN the|DT runup|NN to|TO the|DT election|NN raising|NN the|DT risk|NN of|IN a|DT hard|JJ landing|NN afterwards |NN </s>|S_END
+</p>|P_END
+

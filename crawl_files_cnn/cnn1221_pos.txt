@@ -1,0 +1,115 @@
+<p>|P_START
+<s>|S_START the|DT euro|NN currency|NN faces|NNS many|JJ challenges|NNS in|IN the|DT next|JJ few|JJ weeks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN spain|NN officially|RB requested|VBN a|DT bailout|NN for|IN the|DT nations|NNS banks|NNS saturday|VBP but|CC euphoria|NNS about|IN the|DT weekends|NNS announcement|NN was|VBD shortlived|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START stocks|NNS were|VBD lower|JJR monday|NN morning|NN as|IN the|DT market|NN quickly|RB remembered|VBD that|IN the|DT euro|NN currency|NN union|NN faces|NNS several|JJ key|JJ hurdles|NNS </s>|S_END
+<s>|S_START here|RB is|VBZ what|WP investors|NNS need|VBP to|TO focus|VB on|IN in|IN the|DT days|NNS and|CC weeks|NNS ahead|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START spain|NN while|IN investors|NNS initially|RB cheered|VBN the|DT plan|NN to|TO rescue|VB spanish|JJ banks|NNS many|JJ details|NNS remain|VBP to|TO be|VB finalized|VBN including|VBG how|WRB much|JJ money|NN the|DT banks|NNS will|MD need|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START european|JJ union|NN finance|NN ministers|NNS agreed|VBD saturday|NN to|TO lend|VB up|RP to|TO €100|-NONE- billion|CD to|TO the|DT spanish|JJ bailout|NN fund|NN to|TO recapitalize|VB insolvent|NN banks|NNS </s>|S_END
+<s>|S_START but|CC the|DT amount|NN needed|VBN will|MD not|RB be|VB known|VBN until|IN an|DT external|JJ audit|NN of|IN the|DT banks|NNS is|VBZ completed|VBN later|JJ this|DT month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ also|RB unclear|JJ how|WRB the|DT loans|NNS will|MD impact|VB the|DT spanish|JJ governments|NNS credit|NN rating|NN although|IN the|DT rescue|NN will|MD not|RB involve|VB any|DT new|JJ austerity|NN measures|NNS </s>|S_END
+<s>|S_START investors|NNS are|VBP on|IN the|DT lookout|NN for|IN another|DT downgrade|NN of|IN spanish|JJ debt|NN after|IN fitch|NN cut|VBD the|DT nations|NNS credit|NN rating|NN to|TO one|CD step|VB above|IN junk|NN status|NN last|JJ week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT deal|NN was|VBD put|VBN together|RP quickly|RB as|IN eu|NN authorities|NNS hope|VBP to|TO eliminate|VB speculation|NN about|IN spanish|JJ banks|NNS ahead|RB of|IN the|DT elections|NNS in|IN greece|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT plan|NN looks|VBZ like|IN a|DT classic|JJ eurozone|NN fudge|NN banking|NN analysts|NNS at|IN societe|JJ generale|NN wrote|VBD in|IN a|DT note|NN to|TO clients|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START spain|NN also|RB has|VBZ many|JJ challenges|NNS beyond|IN the|DT banks|NNS </s>|S_END
+<s>|S_START unemployment|NN stands|VBZ at|IN nearly|RB 25|CD </s>|S_END
+<s>|S_START spain|NN has|VBZ a|DT relatively|RB low|JJ level|NN of|IN public|JJ debt|NN but|CC the|DT government|NN has|VBZ had|VBN trouble|JJ recently|RB borrowing|VBG in|IN the|DT bond|NN markets|NNS as|IN investors|NNS demand|NN higher|JJR interest|NN rates|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START greece|NN after|IN last|JJ months|NNS election|NN failed|VBD to|TO produce|VB a|DT governing|NN coalition|NN greek|NN voters|NNS will|MD return|VB to|TO the|DT polls|NNS sunday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT concern|NN is|VBZ that|IN antiausterity|NN politicians|NNS will|MD win|VB enough|RB seats|NNS in|IN parliament|NN to|TO derail|VB the|DT bailout|NN program|NN greece|NN secured|VBD earlier|RBR this|DT year|NN </s>|S_END
+<s>|S_START that|DT would|MD put|VB the|DT nation|NN in|IN jeopardy|NN of|IN being|VBG forced|VBN out|RP of|IN the|DT euro|NN currency|NN union|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START analysts|NNS are|VBP expecting|VBG a|DT close|JJ race|NN between|IN the|DT farleft|NN syriza|NN and|CC moderate|JJ new|JJ democracy|NN parties|NNS </s>|S_END
+<s>|S_START but|CC neither|DT group|NN is|VBZ expected|VBN to|TO win|VB an|DT absolute|JJ majority|NN according|VBG to|TO wolfano|VB piccoli|NN a|DT director|NN at|IN political|JJ research|NN firm|NN eurasia|NN group|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START regardless|NN of|IN the|DT final|JJ outcome|NN there|EX is|VBZ a|DT significant|JJ risk|NN that|WDT these|DT elections|NNS would|MD lead|VB to|TO the|DT creation|NN of|IN a|DT weak|JJ shortterm|NN government|NN leaving|VBG the|DT country|NN leaderless|NN and|CC adrift|NN said|VBD piccoli|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START france|NN greece|NN is|VBZ not|RB the|DT only|JJ country|NN holding|VBG elections|NNS sunday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START french|NN president|NN francois|VBZ hollandes|VBZ socialist|JJ party|NN made|VBD gains|NNS in|IN the|DT first|JJ round|NN of|IN legislative|JJ elections|NNS over|IN the|DT weekend|NN </s>|S_END
+<s>|S_START but|CC the|DT ultimate|JJ balance|NN of|IN power|NN in|IN the|DT national|JJ assembly|NN will|MD not|RB be|VB determined|VBN until|IN after|IN runoff|NN elections|NNS on|IN june|NN 17|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT concern|NN is|VBZ that|IN socialist|JJ party|NN candidates|NNS will|MD not|RB win|VB the|DT 289|CD seats|NNS required|VBN to|TO form|NN a|DT majority|NN and|CC will|MD need|VB to|TO join|VB forces|NNS with|IN the|DT left|NN front|NN which|WDT opposes|NNS government|NN austerity|NN measures|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT outcome|NN would|MD pull|VB the|DT french|JJ government|NN further|RB to|TO the|DT left|NN and|CC widen|NN divisions|NNS between|IN paris|NNS and|CC berlin|VB over|IN how|WRB to|TO manage|VB the|DT euro|NN crisis|NN said|VBD alastair|NN newton|NN a|DT geopolitical|JJ analyst|NN at|IN nomura|NN securities|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banking|NN union|NN european|NN union|NN leaders|NNS are|VBP expected|VBN to|TO discuss|VB plans|NNS to|TO form|NN a|DT banking|NN union|NN in|IN europe|NN when|WRB they|PRP hold|VBP a|DT summit|NN june|NN 2829|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT eu|NN proposal|NN would|MD include|VB a|DT single|JJ deposit|NN guarantee|NN organization|NN covering|VBG all|DT banks|NNS in|IN the|DT union|NN something|NN similar|JJ to|TO the|DT fdic|JJ in|IN the|DT us|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX would|MD also|RB be|VB a|DT common|JJ authority|NN and|CC a|DT common|JJ fund|NN that|WDT would|MD deal|VB with|IN bailouts|NNS needed|VBN for|IN the|DT crossborder|NN banks|NNS that|WDT are|VBP major|JJ players|NNS in|IN the|DT european|JJ banking|NN system|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN there|EX would|MD be|VB a|DT single|JJ eu|NN supervisor|NN with|IN ultimate|JJ decisionmaking|NN powers|NNS for|IN the|DT major|JJ banks|NNS and|CC a|DT common|JJ set|NN of|IN banking|NN rules|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT move|NN would|MD represent|VB a|DT step|NN towards|NNS greater|JJR centralization|NN of|IN european|JJ authority|NN </s>|S_END
+<s>|S_START but|CC it|PRP remains|VBZ to|TO be|VB seen|VBN if|IN all|PDT 17|CD eurozone|NN governments|NNS will|MD agree|VB to|TO sacrifice|VB sovereignty|NN for|IN the|DT sake|NN of|IN the|DT union|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ecb|NN the|DT european|JJ central|JJ bank|NN is|VBZ widely|RB expected|VBN to|TO announce|NN a|DT 025|CD interest|NN rate|NN cut|VBD at|IN its|PRP$ next|JJ policy|NN meeting|NN in|IN july|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN its|PRP$ june|NN policy|NN meeting|NN the|DT ecb|NN left|VBD its|PRP$ benchmark|NN rate|NN unchanged|JJ at|IN 1|CD where|WRB it|PRP has|VBZ been|VBN since|IN december|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ecb|NN is|VBZ under|IN pressure|NN to|TO act|VB as|IN recent|JJ reports|NNS suggest|VBP the|DT eurozone|NN economy|NN is|VBZ headed|VBN for|IN a|DT slowdown|NN in|IN the|DT second|JJ quarter|NN </s>|S_END
+<s>|S_START eurozone|NN manufacturing|NN activity|NN fell|VBD in|IN may|NN to|TO its|PRP$ lowest|JJS level|NN in|IN nearly|RB three|CD years|NNS while|IN unemployment|NN rose|VBD in|IN april|NN to|TO 11|CD the|DT highest|JJS level|NN since|IN the|DT euro|NN was|VBD launched|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gross|NN domestic|JJ product|NN in|IN the|DT eurozone|NN stagnated|VBD in|IN the|DT first|JJ quarter|NN of|IN 2012|CD following|VBG a|DT decline|NN of|IN 03|CD in|IN the|DT final|JJ three|CD months|NNS of|IN 2011|CD </s>|S_END
+<s>|S_START there|EX are|VBP 11|CD countries|NNS in|IN the|DT eu|NN that|IN are|VBP now|RB judged|VBN to|TO be|VB in|IN recession|NN including|VBG greece|NN and|CC spain |NNP </s>|S_END
+</p>|P_END
+

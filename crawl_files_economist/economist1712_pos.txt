@@ -1,0 +1,85 @@
+<p>|P_START
+<s>|S_START chinese|NN companies|NNS have|VBP started|VBN to|TO win|VB first|RB place|NN in|IN global|JJ market|NN </s>|S_END
+<s>|S_START huawei|NN has|VBZ just|RB overtaken|VBN sweden’s|-NONE- ericsson|NN to|TO become|VB the|DT world’s|NNP largest|JJS telecomsequipmentmaker|NN </s>|S_END
+<s>|S_START even|RB though|IN many|JJ foreigners|NNS still|RB can|MD not|RB pronounce|VB its|PRP$ name|NN some|DT call|NN it|PRP “hawaii”|-NONE- and|CC the|DT firm|NN has|VBZ even|RB produced|VBN a|DT video|NN teaching|NN people|NNS to|TO say|VB hwahway|NN huawei|NN is|VBZ becoming|VBG an|DT increasingly|RB powerful|JJ global|JJ player|NN capable|JJ of|IN going|VBG headtohead|NN with|IN the|DT best|JJS in|IN intensely|RB competitive|JJ market|NN </s>|S_END
+<s>|S_START it|PRP follows|VBZ haier|JJR which|WDT is|VBZ already|RB the|DT leading|VBG whitegoodsmaker|NN now|RB lenovo|RB is|VBZ challenging|VBG hewlettpackard|NN as|IN the|DT world’s|NNP biggest|JJS pcmaker|NN </s>|S_END
+<s>|S_START plenty|NN more|JJR will|MD follow|VB see|VB article|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START huawei|NN a|DT private|JJ firm|NN is|VBZ a|DT standardbearer|NN in|IN china’s|NNP long|RB march|NN into|IN western|JJ market|NN </s>|S_END
+<s>|S_START its|PRP$ founder|NN ren|NN zhengfei|NN who|WP served|VBN as|IN an|DT engineer|NN in|IN the|DT people’s|JJ liberation|NN army|NN pla|NN at|IN first|JJ struggled|VBN to|TO win|VB customers|NNS even|RB in|IN china|NN </s>|S_END
+<s>|S_START but|CC his|PRP$ company|NN followed|VBD mao’s|NNP strategy|NN of|IN using|VBG the|DT countryside|NN to|TO encircle|VB and|CC capture|NN the|DT cities|NNS and|CC it|PRP has|VBZ moved|VBN on|IN to|TO win|VB foreign|JJ markets|NNS too|RB in|IN europe|NN it|PRP is|VBZ involved|VBN in|IN over|IN half|DT of|IN the|DT superfast|JJ 4g|CD telecoms|NNS networks|NNS that|WDT have|VBP been|VBN announced|VBN and|CC it|PRP has|VBZ become|VBN a|DT strong|JJ competitor|NN in|IN mobile|JJ phones|NNS see|VBP article|NN </s>|S_END
+<s>|S_START the|DT company|NN is|VBZ now|RB a|DT $|$ 32billion|CD business|NN empire|NN with|IN 140000|CD employees|NNS and|CC customers|NNS in|IN 140|CD countrie|NN </s>|S_END
+<s>|S_START it|PRP commands|VBZ respect|NN by|IN delivering|NN highquality|NN telecoms|NNS equipment|NN at|IN low|JJ price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START they|PRP did|VBD it|PRP huawei|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC huawei|VBP inspires|NNS fear|IN too—and|JJ not|RB just|RB among|IN its|PRP$ competitor|NN </s>|S_END
+<s>|S_START the|DT company|NN is|VBZ said|VBN to|TO be|VB too|RB close|JJ for|IN comfort|NN to|TO the|DT pla|NN </s>|S_END
+<s>|S_START westerners|NNS fret|VBP that|IN the|DT networks|NNS the|DT firm|NN is|VBZ building|VBG are|VBP used|VBN by|IN chinese|JJ spooks|NNS to|TO eavesdrop|VB during|IN peacetime|NN and|CC could|MD be|VB shut|VBN down|RP suddenly|RB during|IN wartime|NN </s>|S_END
+<s>|S_START they|PRP see|VBP the|DT firm|NN as|IN a|DT potent|NN weapon|NN in|IN china’s|NNP burgeoning|NN cyberarsenal|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP is|VBZ a|DT view|NN that|WDT some|DT governments|NNS are|VBP taking|VBG seriously|RB </s>|S_END
+<s>|S_START earlier|JJR this|DT year|NN australia|IN blocked|VBN huawei’s|-NONE- participation|NN in|IN a|DT scheme|NN to|TO build|VB a|DT national|JJ broadband|NN network|NN in|IN the|DT country|NN </s>|S_END
+<s>|S_START the|DT company|NN has|VBZ also|RB faced|VBN opposition|NN to|TO its|PRP$ commercial|JJ expansion|NN in|IN india|NN </s>|S_END
+<s>|S_START and|CC in|IN america|NN where|WRB huawei’s|JJ attempts|NNS to|TO grow|VB have|VBP often|RB been|VBN stymied|VBN a|DT congressional|JJ committee|NN that|WDT focuses|VBZ on|IN intelligence|NN matters|NNS is|VBZ putting|VBG the|DT firm|NN under|IN a|DT microscope|NN suspicions|NNS have|VBP been|VBN aggravated|VBN by|IN a|DT recent|JJ spate|NN of|IN cyberattacks|NNS attributed|VBN to|TO chinese|VB hacker|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START western|NN governments|NNS are|VBP also|RB suspicious|JJ of|IN the|DT subsidies|NNS lowinterest|VBP loans|NNS and|CC generous|JJ export|NN credits|NNS lavished|VBD on|IN favoured|VBN champions|NNS including|VBG huawei|NN </s>|S_END
+<s>|S_START the|DT european|JJ commission|NN is|VBZ considering|VBG opening|VBG an|DT investigation|NN </s>|S_END
+<s>|S_START ome|NN people|NNS suppose|VBP that|IN the|DT chinese|JJ government|NN is|VBZ helping|VBG huawei|NN win|NN overseas|RB contracts|VBZ so|RB that|IN spies|NNS can|MD exploit|VB its|PRP$ networks|NNS to|TO snoop|VB on|IN ever|NN more|JJR of|IN the|DT world’s|JJ electronic|JJ traffic|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START arguments|NNS against|IN imports|NNS always|RB need|VBP to|TO be|VB viewed|VBN with|IN caution|NN since|IN they|PRP will|MD be|VB used|VBN by|IN protectionists|NNS to|TO keep|VB emerging|VBG rivals|NNS out|IN </s>|S_END
+<s>|S_START till|NN it|PRP is|VBZ reasonable|JJ to|TO worry|VB about|IN security|NN in|IN telecoms|NNS recent|JJ reports|NNS have|VBP pointed|VBN to|TO the|DT efforts|NNS of|IN chinese|JJ statesponsored|VBN hackers|NNS to|TO vacuum|VB up|RP valuable|JJ western|NN commercial|NN secrets|NNS on|IN a|DT massive|JJ scale|NN </s>|S_END
+<s>|S_START western|NN intelligence|NN agencies|NNS are|VBP also|RB alert|NN to|TO the|DT risks|NNS of|IN eavesdropping|VBG and|CC cyberattacks|NNS because|IN they|PRP themselves|VBZ are|VBP practitioners|NNS a|DT prime|JJ example|NN being|VBG the|DT stuxnet|NN virus|VBZ aimed|VBN at|IN iran’s|NNP nuclear|JJ programme|NN </s>|S_END
+<s>|S_START as|IN for|IN huawei|NN a|DT firm|NN that|WDT controls|VBZ a|DT network’s|JJ creation|NN and|CC management|NN is|VBZ ideally|RB placed|VBN to|TO sneak|VB in|IN malware|NN and|CC sneak|VB out|RP sensitive|JJ data|NNS </s>|S_END
+<s>|S_START even|RB though|IN it|PRP is|VBZ a|DT private|JJ company|NN with|IN an|DT awful|JJ lot|NN to|TO lose|VB if|IN it|PRP were|VBD caught|VBN spying|VBG the|DT power|NN of|IN the|DT state|NN in|IN china’s|NNP version|NN of|IN capitalism|NN means|VBZ the|DT west|NN is|VBZ right|RB to|TO be|VB vigilant|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC banning|VBG huawei|NN from|IN bidding|NN for|IN commercial|JJ contracts|NNS is|VBZ wrongheaded|VBN for|IN two|CD reason|NN </s>|S_END
+<s>|S_START one|CD is|VBZ that|IN the|DT economic|JJ benefit|NN of|IN competition|NN from|IN china|NN in|IN general|JJ and|CC huawei|NN in|IN particular|JJ is|VBZ huge|JJ </s>|S_END
+<s>|S_START it|PRP boosts|VBZ growth|NN and|CC thus|RB wellbeing|VBG </s>|S_END
+<s>|S_START huawei’s|NNS cheap|VBP but|CC effective|JJ equipment|NN helped|VBD make|VB africa’s|JJ mobiletelecoms|NNS revolution|NN possible|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START distrust|RB and|CC verify|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT other|JJ reason|NN for|IN not|RB banning|VBG huawei|NN is|VBZ the|DT dirty|NN little|RB secret|NN that|IN its|PRP$ foreign|JJ rivals|NNS strangely|RB neglect|VBP to|TO mention|NN just|RB about|IN everybody|NN makes|VBZ telecoms|NNS equipment|NN in|IN china|NN these|DT day|NN </s>|S_END
+<s>|S_START chinese|NN manufacturers|NNS and|CC designers|NNS have|VBP become|VBN an|DT integral|JJ part|NN of|IN the|DT global|JJ telecoms|NNS supply|RB chain|NN </s>|S_END
+<s>|S_START blocking|VBG huawei|NN or|CC its|PRP$ rival|NN chinese|NN telecoms|NNS giant|JJ zte|NN while|IN allowing|VBG gear|NN from|IN say|NN alcatellucent|NN or|CC ericsson|NN on|IN a|DT network|NN may|MD make|VB politicians|NNS feel|VB good|JJ </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ no|DT guarantee|NN of|IN security|NN </s>|S_END
+<s>|S_START huawei’s|NNS competitors|NNS have|VBP a|DT vested|VBN interest|NN in|IN hyping|NN concerns|NNS about|IN it|PRP while|IN disguising|VBG their|PRP$ own|JJ reliance|NN on|IN chinese|JJ subcontractors|NNS and|CC on|IN subsidie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT answer|NN is|VBZ to|TO insist|VB on|RP greater|JJR scrutiny|NN all|DT round|NN not|RB just|RB of|IN chinese|JJ firm|NN </s>|S_END
+<s>|S_START governments|NNS should|MD be|VB crystalclear|JJ about|IN what|WP conditions|NNS telecoms|VBZ firms|NNS need|VBP to|TO meet|VB to|TO win|VB business—something|JJ america’s|NNS secretive|JJ securityreview|NN process|NN does|VBZ not|RB do|VB today|NN </s>|S_END
+<s>|S_START they|PRP should|MD also|RB do|VB more|JJR to|TO ensure|VB that|IN equipment|NN is|VBZ secure|NN no|DT matter|NN who|WP makes|VBZ it|PRP </s>|S_END
+<s>|S_START that|DT means|VBZ demanding|VBG to|TO know|VB where|WRB hardware|NN components|NNS and|CC software|NN come|NN from|IN and|CC requiring|VBG intrusive|JJ random|NN inspections|NNS of|IN code|NN and|CC equipment|NN </s>|S_END
+<s>|S_START america|NN has|VBZ no|DT effective|JJ system|NN of|IN supplychain|NN check|NN </s>|S_END
+<s>|S_START in|IN britain|NN by|IN contrast|NN where|WRB bt|NN is|VBZ a|DT big|JJ customer|NN huawei|NN has|VBZ established|VBN a|DT unit|NN run|VBN in|IN close|JJ cooperation|NN with|IN gchq|NN britain’s|NNS signalsintelligence|NN agency|NN with|IN securitycleared|JJ personnel|NN including|VBG former|NN employees|NNS of|IN gchq|NN who|WP vet|NN gear|VBP from|IN china|NNS before|IN it|PRP is|VBZ installed|VBN </s>|S_END
+<s>|S_START uch|JJ scrutiny|NN will|MD drive|VB up|RP costs|NNS but|CC these|DT pale|JJ in|IN comparison|NN with|IN those|DT imposed|VBN by|IN bans|NNS on|IN chinese|JJ firms|NNS which|WDT diminish|JJ competition|NN and|CC push|VB up|RP price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START huawei|NN can|MD also|RB help|VB allay|NN foreigners’|-NONE- fear|NN </s>|S_END
+<s>|S_START the|DT company’s|JJ opaque|NN ownership|NN structure|NN and|CC secretive|JJ culture|NN have|VBP damaged|VBN its|PRP$ reputation|NN </s>|S_END
+<s>|S_START it|PRP needs|VBZ to|TO be|VB far|RB more|RBR open|JJ </s>|S_END
+<s>|S_START one|CD way|NN to|TO achieve|VB this|DT would|MD be|VB for|IN the|DT closely|RB held|VBN firm|NN to|TO seek|VB a|DT listing|NN on|IN a|DT global|JJ stockmarket—if|JJ not|RB in|IN america|NN then|RB at|IN least|JJS in|IN hong|JJ kong|JJ </s>|S_END
+<s>|S_START greater|JJR openness|NN would|MD also|RB help|VB clarify|JJ the|DT real|JJ threat|NN that|WDT chinese|JJ firms|NNS such|JJ as|IN huawei|NN pose|NN to|TO america|VB and|CC other|JJ countries|NNS that|IN they|PRP are|VBP starting|VBG to|TO outinnovate|VB the|DT homegrown|NN competition|NN </s>|S_END
+</p>|P_END
+

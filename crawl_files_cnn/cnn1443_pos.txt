@@ -1,0 +1,66 @@
+<p>|P_START
+<s>|S_START whitney|NN tilson|NN is|VBZ doubling|VBG down|IN on|IN netflix|CD nflx|NN and|CC warren|NNS buffetts|NNS berkshire|VBP hathaway|NN brka|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START speaking|VBG to|TO investors|NNS at|IN the|DT value|NN investing|NN congress|NN in|IN new|JJ york|NN monday|NN the|DT wellknown|NN hedge|NN fund|NN manager|NN said|VBD netflix|CD is|VBZ due|JJ for|IN an|DT amazonstyle|NN amzn|NN ride|NN over|IN the|DT next|JJ decade|NN </s>|S_END
+<s>|S_START investors|NNS seemed|VBD to|TO agree|VB at|IN least|JJS for|IN now|RB sending|VBG shares|NNS of|IN netflix|CD up|IN 3|CD monday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tilson|NN said|VBD netflix|CD has|VBZ shown|VBN minimal|JJ profits|NNS because|IN its|PRP$ largely|RB reinvested|VBN in|IN growth|NN areas|NNS and|CC in|IN international|JJ expansion|NN much|RB like|IN amazon|NN did|VBD earlier|RBR in|IN the|DT 2000s|CD </s>|S_END
+<s>|S_START and|CC amazons|NNS stock|NN has|VBZ soared|VBN since|IN then|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START netflix|NN also|RB has|VBZ 10|CD times|NNS the|DT number|NN of|IN subscribers|NNS of|IN its|PRP$ nearest|NN competitor|NN hulu|NN which|WDT carries|VBZ a|DT market|NN valuation|NN of|IN about|RB $|$ 2|CD billion|CD said|VBD tilson|NN </s>|S_END
+<s>|S_START comparatively|RB netflix|VBP has|VBZ a|DT market|NN cap|NN just|RB over|IN $|$ 3|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT worstcase|NN scenario|NN for|IN netflixs|NNS stock|NN is|VBZ the|DT company|NN getting|VBG snapped|VBD up|RP by|IN one|CD of|IN its|PRP$ rivals|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tilson|NN said|VBD netflix|CD could|MD be|VB a|DT bitesized|VBN acquisition|NN for|IN a|DT half|NN dozen|NN companies|NNS and|CC any|DT offer|NN would|MD likely|RB spark|VB a|DT bidding|NN war|NN for|IN the|DT companys|NNS nearly|RB 30|CD million|CD subscribers|NNS </s>|S_END
+<s>|S_START he|PRP added|VBD that|IN netflix|NN would|MD likely|RB then|RB get|VB taken|VBN out|RP above|IN its|PRP$ current|JJ share|NN price|NN around|IN $|$ 55|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN course|NN tilson|NN hasnt|NN always|RB been|VBN right|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START his|PRP$ calls|NNS on|IN netflix|NN have|VBP been|VBN particularly|RB illtimed|VBN </s>|S_END
+<s>|S_START he|PRP took|VBD to|TO seeking|VBG alpha|NN in|IN february|JJ 2011|CD to|TO tell|VB traders|NNS to|TO short|JJ netflix|NN as|IN its|PRP$ shares|NNS were|VBD soaring|VBG </s>|S_END
+<s>|S_START that|DT prompted|VBD netflix|CD ceo|NN reed|NN hastings|NNS to|TO defend|VB his|PRP$ company|NN on|IN the|DT same|JJ blog|NN and|CC netflixs|NNS stock|NN continued|VBD to|TO move|VB higher|JJR for|IN several|JJ more|JJR months|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN late|JJ 2011|CD tilson|NN changed|VBD his|PRP$ tune|NN and|CC called|VBN netflix|NN a|DT buy|NN noting|VBG that|IN its|PRP$ stock|NN had|VBD already|RB been|VBN battered|VBN too|RB much|RB </s>|S_END
+<s>|S_START apparently|RB sellers|NNS werent|VBP through|IN with|IN netflix|CD and|CC shares|NNS are|VBP down|RB more|RBR than|IN 20|CD this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB the|DT company|NN reported|VBD earnings|NNS in|IN july|RB it|PRP warned|VBD the|DT remainder|NN of|IN 2012|CD would|MD be|VB weak|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tilsons|NNS other|JJ key|JJ pick|NN berkshire|NN hathaway|NN was|VBD one|CD he|PRP touted|VBD at|IN last|JJ years|NNS conference|NN </s>|S_END
+<s>|S_START buffetts|NNS empire|VBP has|VBZ had|VBN a|DT good|JJ year|NN with|IN berkshires|NNS class|NNS a|DT stock|NN surging|VBG 19|CD since|IN tilson|NN made|VBN his|PRP$ call|NN last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD stock|NN picks|NNS from|IN top|JJ hedge|NN fund|NN managers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tilson|NN is|VBZ well|RB known|VBN for|IN making|VBG bold|JJ stock|NN picks|NNS if|IN not|RB always|RB winnings|VBZ ones|NNS </s>|S_END
+<s>|S_START he|PRP admitted|VBD in|IN the|DT question|NN and|CC answer|NN session|NN that|WDT his|PRP$ fund|NN is|VBZ flat|JJ in|IN 2012|CD </s>|S_END
+<s>|S_START tilson|NN also|RB recently|RB ended|VBD his|PRP$ partnership|NN with|IN glenn|NN tongue|NN and|CC returned|VBD money|NN to|TO investors|NNS after|IN inking|VBG steep|NN losses|NNS in|IN that|DT fund|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN 12|CD years|NNS of|IN feeling|VBG pretty|RB smart|NN getting|VBG my|PRP$ butt|NN kicked|VBD by|IN the|DT market|NN over|IN the|DT last|JJ two|CD years|NNS hasnt|NN been|VBN fun|VBN said|VBD tilson|NN </s>|S_END
+</p>|P_END
+

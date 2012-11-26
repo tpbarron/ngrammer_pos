@@ -1,0 +1,35 @@
+<p>|P_START
+<s>|S_START the|DT fossil|NN record|NN is|VBZ famously|RB full|JJ of|IN hole|NN </s>|S_END
+<s>|S_START one|CD such|JJ lacuna|NN has|VBZ been|VBN the|DT absence|NN of|IN wellpreserved|VBN feathers|NNS from|IN the|DT cretaceous—the|JJ period|NN between|IN 145m|CD and|CC 65m|CD years|NNS ago|RB that|IN ended|VBD with|IN the|DT mass|NN extinction|NN that|WDT wiped|VBD out|RP the|DT dinosaur|NN </s>|S_END
+<s>|S_START now|RB this|DT gap|NN has|VBZ been|VBN partly|RB filled|VBN </s>|S_END
+<s>|S_START in|IN this|DT weeks|NNS science|NN a|DT team|NN led|VBN by|IN ryan|NN mckellar|NN from|IN the|DT university|NN of|IN alberta|NN report|NN the|DT discovery|NN of|IN eleven|NN feathers|NNS preserved|VBD in|IN amber|NN from|IN the|DT latter|NN part|NN of|IN the|DT cretaceous|JJ about|IN 70m85m|CD years|NNS ago|RB </s>|S_END
+<s>|S_START intriguingly|RB not|RB all|DT of|IN them|PRP seem|VBP to|TO come|VB from|IN bird|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT origin|NN of|IN feathers|NNS is|VBZ a|DT mystery|NN </s>|S_END
+<s>|S_START the|DT earliest|JJS known|VBN bird|NN archaeopteryx|NN lived|VBD during|IN the|DT jurassic|JJ the|DT period|NN before|IN the|DT cretaceou|NN </s>|S_END
+<s>|S_START but|CC fossils|NNS from|IN china|NN suggest|VBP the|DT precursors|NNS of|IN feathers—simple|JJ filamentlike|NN structures|NNS possibly|RB used|VBN for|IN insulation—evolved|JJ in|IN landlubbing|NN dinosaurs|NNS and|CC were|VBD only|RB later|JJ adapted|VBN for|IN flight|NN </s>|S_END
+<s>|S_START the|DT top|JJ picture|NN shows|VBZ similar|JJ filaments|NNS discovered|VBN by|IN dr|NN mckellar|NN and|CC his|PRP$ team|NN suggesting|VBG flightless|NN dinosaurs|NNS sporting|VBG such|JJ protofeathers|NNS were|VBD still|RB around|IN in|IN the|DT late|JJ cretaceou|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START not|RB all|DT the|DT feathers|NNS found|VBD by|IN dr|NN mckellar|NN were|VBD so|RB primitive|JJ though|IN </s>|S_END
+<s>|S_START the|DT second|JJ picture|NN shows|VBZ one|CD similar|JJ in|IN shape|NN to|TO those|DT sported|VBN by|IN modern|JJ bird|NN </s>|S_END
+<s>|S_START modern|JJ feathers|NNS consist|VBP of|IN thousands|NNS of|IN fibres|NNS held|VBN together|RP by|IN tiny|NN hook|NN </s>|S_END
+<s>|S_START the|DT details|NNS of|IN that|DT design|NN can|MD be|VB tweaked|VBN to|TO change|VB a|DT feathers|NNS characteristics|NNS offering|VBG waterproofing|VBG insulation|NN streamlining|VBG and|CC so|RB on|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT third|JJ picture|NN shows|VBZ feathers|NNS that|IN have|VBP just|RB such|JJ a|DT specialisation|NN coiling|VBG reminiscent|NN of|IN that|DT seen|VBN in|IN the|DT feathers|NNS of|IN modern|JJ diver|NN </s>|S_END
+<s>|S_START uch|JJ coiling|NN allows|VBZ a|DT feather|NN to|TO absorb|VB water|NN which|WDT streamlines|NNS and|CC insulates|NNS the|DT owner|NN </s>|S_END
+<s>|S_START these|DT feathers|NNS then|RB presumably|RB adorned|VBN a|DT diving|NN bird—perhaps|RB hesperornis|VBZ a|DT flightless|NN north|NN american|NN diver|NN from|IN precisely|RB this|DT period|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT final|JJ picture|NN shows|VBZ pigmentation|NN preserved|VBN in|IN a|DT fossil|NN feather|NN </s>|S_END
+<s>|S_START different|JJ feathers|NNS have|VBP different|JJ patterns|NNS of|IN colour|PRP$ suggesting|NN that|WDT cretaceous|VBZ dinosaurs—flying|JJ or|CC otherwise—used|JJ their|PRP$ feathers|NNS for|IN display|NN </s>|S_END
+<s>|S_START charles|NNS darwin|VBP once|RB said|VBD that|IN contemplating|NN a|DT peacocks|NNS tail|NN made|VBD him|PRP sick|VBP such|JJ was|VBD the|DT difficulty|NN of|IN explaining|VBG its|PRP$ complexity|NN </s>|S_END
+<s>|S_START dr|NN mckellars|NNS finds|NNS suggest|VBP at|IN least|JJS that|IN that|DT complexity|NN began|VBD to|TO evolve|VB a|DT long|JJ time|NN ago|RB </s>|S_END
+</p>|P_END
+

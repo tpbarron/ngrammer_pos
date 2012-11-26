@@ -1,0 +1,65 @@
+<p>|P_START
+<s>|S_START in|IN california|NN where|WRB republicans|NNS wielding|VBG power|NN have|VBP been|VBN hunted|VBN to|TO extinction|NN most|JJS political|JJ debates|NNS take|VBP place|NN exclusively|RB on|IN the|DT left|NN </s>|S_END
+<s>|S_START ometimes|NNS this|DT works|NNS well|RB enough|RB </s>|S_END
+<s>|S_START but|CC on|IN occasion|NN it|PRP produces|VBZ a|DT spectacle|NN of|IN singular|JJ bloodine|NN </s>|S_END
+<s>|S_START the|DT row|NN over|IN proposition|NN 30|CD a|DT taxraising|NN measure|NN that|WDT the|DT state’s|NNP voters|NNS will|MD consider|VB in|IN november|NN is|VBZ one|CD such|JJ case|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START prop|NN 30|CD as|IN it|PRP is|VBZ universally|RB known|VBN would|MD temporarily|RB lift|VB the|DT state’s|NNP sales|NNS tax|NN by|IN 025|CD percentage|NN points|NNS and|CC less|JJR temporarily|RB but|CC more|RBR vitally|RB raise|VB incometax|NN rates|NNS on|IN the|DT wealthy|JJ </s>|S_END
+<s>|S_START much|RB of|IN the|DT $|$ 6|CD billion|CD raised|VBN annually|RB would|MD be|VB directed|VBN to|TO schools|NNS and|CC colleges|NNS going|VBG some|DT way|NN to|TO repair|VB the|DT damage|NN done|NN by|IN years|NNS of|IN cut|NN </s>|S_END
+<s>|S_START this|DT week|NN jerry|NN brown|NN the|DT democratic|JJ governor|NN stepped|VBD up|RP his|PRP$ campaign|NN for|IN the|DT measure|NN with|IN a|DT tour|NN of|IN californian|JJ campuse|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START peaking|VBG at|IN ucla|NN mr|NN brown|NN identified|VBD complacency|NN as|IN the|DT enemy|NN </s>|S_END
+<s>|S_START a|DT potentially|RB more|RBR dangerous|JJ foe|NN was|VBD left|VBN unnamed|VBN </s>|S_END
+<s>|S_START mr|NN brown|VBN has|VBZ found|VBN himself|PRP up|RP against|IN molly|RB munger|JJR a|DT rich|JJ lawyer|NN who|WP is|VBZ bankrolling|VBG an|DT alternative|JJ ballot|NN measure|NN </s>|S_END
+<s>|S_START proposition|NN 38|CD would|MD raise|VB taxes|NNS further|RB than|IN prop|NN 30|CD and|CC send|NN most|RBS of|IN the|DT revenues|NNS straight|RB to|TO schools|NNS bypassing|VBG the|DT state|NN government|NN </s>|S_END
+<s>|S_START if|IN voters|NNS approve|VBP both|DT the|DT measure|NN that|IN secures|NNS most|RBS support|NN will|MD be|VB enacted|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT looks|VBZ unlikely|RB ms|VBZ munger’s|JJ measure|NN is|VBZ struggling|VBG in|IN the|DT poll|NN </s>|S_END
+<s>|S_START prop|NN 30|CD on|IN the|DT other|JJ hand|NN was|VBD until|IN recently|RB winning|VBG the|DT support|NN of|IN most|JJS voter|JJ </s>|S_END
+<s>|S_START but|CC then|RB the|DT gloves|NNS came|VBD off|RP </s>|S_END
+<s>|S_START television|NN spots|NNS for|IN prop|NN 38|CD began|VBD claiming|VBG that|IN if|IN prop|NN 30|CD passed|VBD politicians|NNS might|MD find|VB other|JJ uses|NNS for|IN the|DT revenues|NNS it|PRP raised|VBD </s>|S_END
+<s>|S_START at|IN around|IN the|DT same|JJ time|NN one|CD of|IN ms|NNS munger’s|-NONE- brothers|NNS donated|VBN $|$ 10m|CD to|TO a|DT committee|NN devoted|VBN to|TO among|IN other|JJ things|NNS trashing|VBG prop|NN 30|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START under|IN heavy|JJ fire|NN this|DT week|NN ms|VBZ munger’s|JJ campaign|NN dropped|VBD its|PRP$ attack|NN ad|NN claiming|VBG gamely|RB that|IN it|PRP had|VBD made|VBN its|PRP$ point|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ too|RB early|RB to|TO know|VB if|IN blood|NN has|VBZ been|VBN drawn|VBN but|CC the|DT most|RBS recent|JJ poll|NN conducted|VBD before|IN the|DT ads|NNS were|VBD aired|VBN found|VBN support|NN for|IN prop|NN 30|CD at|IN just|RB 495|CD </s>|S_END
+<s>|S_START the|DT pollster|NN california|NN business|NN roundtable|JJ said|VBD it|PRP expected|VBN that|IN number|NN to|TO fall|VB further|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ bad|JJ news|NN for|IN mr|NN brown|NN who|WP has|VBZ tied|VBN his|PRP$ political|JJ fortunes|NNS to|TO his|PRP$ ballot|NN measure|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ worse|JJR news|NN for|IN california’s|NNS schools|NNS and|CC colleges|NNS for|IN the|DT revenues|NNS prop|VBP 30|CD would|MD raise|VB are|VBP baked|VBN into|IN the|DT budget|NN mr|NN brown|NN pushed|VBD through|IN the|DT assembly|RB in|IN june|NN </s>|S_END
+<s>|S_START if|IN it|PRP fails|VBZ almost|RB $|$ 6|CD billion|CD will|MD automatically|RB be|VB slashed|VBN from|IN education|NN budget|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START californians|NNS are|VBP already|RB highly|RB taxed|VBN but|CC they|PRP prize|VBP education|NN and|CC mr|NN brown’s|NNS guntothetemple|VBP tactic|JJ may|MD yet|RB see|VB prop|NN 30|CD through|IN </s>|S_END
+<s>|S_START ome|NN opponents|NNS suggest|VBP that|IN even|RB if|IN it|PRP fails|VBZ the|DT triggercuts|NNS could|MD be|VB avoided|VBN by|IN tweaking|NN the|DT budget|NN after|IN november|NN </s>|S_END
+<s>|S_START but|CC mr|PRP$ brown|NN has|VBZ denied|VBN this|DT so|RB emphatically|RB that|IN it|PRP is|VBZ hard|RB to|TO see|VB him|PRP going|VBG back|RB on|IN his|PRP$ word|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO other|JJ critics|NNS mr|VBP brown|VBN has|VBZ adopted|VBN the|DT disarming|NN posture|NN of|IN basically|RB agreeing|VBG with|IN them|PRP </s>|S_END
+<s>|S_START yes|NNS there|EX would|MD have|VB been|VBN better|RBR ways|NNS to|TO plug|VB the|DT fiscal|JJ gap|NN perhaps|RB by|IN slapping|NN taxes|NNS on|IN the|DT extractive|JJ industries|NNS but|CC alas|RB that|IN would|MD galvanise|VB too|RB much|RB opposition|NN </s>|S_END
+<s>|S_START regrettably|RB prop|VBP 30|CD will|MD worsen|VB the|DT state’s|NNP dependence|NN on|IN the|DT volatile|JJ income|NN of|IN a|DT small|JJ number|NN of|IN wealthy|JJ resident|NN </s>|S_END
+<s>|S_START but|CC hey|PRP mr|VBP brown|RP is|VBZ a|DT politician|JJ not|RB a|DT policy|NN wonk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN brown|VBN still|RB has|VBZ cause|NN for|IN cheer|NN </s>|S_END
+<s>|S_START he|PRP has|VBZ won|VBN backing|NN from|IN business|NN groups|NNS and|CC endorsements|NNS from|IN most|JJS of|IN california’s|NNS big|JJ newspapers|NNS mostly|RB of|IN the|DT “hold|JJ your|PRP$ nose”|NN variety|NN </s>|S_END
+<s>|S_START the|DT campaign|NN for|IN prop|NN 30|CD has|VBZ raised|VBN far|RB more|RBR money|NN than|IN the|DT formal|JJ opposition|NN ha|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN for|IN the|DT deeper|NN question|NN of|IN why|WRB voters|NNS are|VBP being|VBG asked|VBN to|TO rule|NN on|IN a|DT matter|NN that|WDT in|IN most|JJS places|NNS would|MD be|VB reserved|VBN to|TO legislators|NNS the|DT short|JJ answer|NN is|VBZ that|IN tax|NN increases|NNS in|IN california|NN need|NN a|DT twothirds|NNS majority|NN to|TO pass—a|NNP threshold|NN too|RB high|JJ even|RB in|IN this|DT democratic|JJ stronghold|NN </s>|S_END
+<s>|S_START the|DT longer|NN answer|NN is|VBZ that|IN politics|NNS and|CC tax|NN policy|NN have|VBP a|DT uniquely|RB destructive|JJ relationship|NN in|IN this|DT state|NN and|CC that|IN the|DT fate|NN of|IN one|CD piece|NN of|IN fiscal|JJ legislation|NN will|MD do|VB little|RB to|TO change|VB that|IN </s>|S_END
+</p>|P_END
+

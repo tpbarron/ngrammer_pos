@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 72|CD gdp|NN $|$ 19bn|CD ppp|CD $|$ 32bn|CD inflation|NN 32|CD population|NN 320m|CD gdp|NN per|IN head|NN $|$ 590|CD ppp|CD $|$ 1020|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT president|NN hamid|VBD karzai|NN will|MD be|VB severely|RB constrained|VBN by|IN the|DT need|NN to|TO repay|VB the|DT loyalty|NN of|IN powerful|JJ groups|NNS whose|WP$ backing|VBG secured|VBN him|PRP reelection|NN </s>|S_END
+<s>|S_START the|DT taliban|NN will|MD harry|VB the|DT regime|NN and|CC attacks|NNS will|MD be|VB frequent|VBN and|CC bloody|NN and|CC will|MD include|VB key|JJ international|JJ target|NN </s>|S_END
+<s>|S_START there|EX will|MD be|VB slow|JJ but|CC measurable|JJ progress|NN on|IN economic|JJ development|NN and|CC reform|NN and|CC several|JJ new|JJ foreigninvestment|NN projects|NNS will|MD break|VB ground|NN </s>|S_END
+</p>|P_END
+

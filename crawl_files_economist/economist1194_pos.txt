@@ -1,0 +1,17 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 00|CD gdp|NN $|$ 3488bn|CD ppp|CD $|$ 3159bn|CD inflation|NN 18|CD population|NN 817m|CD gdp|NN per|IN head|NN $|$ 43740|CD ppp|CD $|$ 40280|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START germany|NN wants|VBZ to|TO preserve|VB the|DT euro|NN but|CC germans|NNS dont|VBP want|JJ to|TO bail|VB out|RP feckless|NN southern|NN european|NN </s>|S_END
+<s>|S_START in|IN 2012|CD either|DT the|DT voters|NNS or|CC the|DT euro|NN will|MD prevail|VB </s>|S_END
+<s>|S_START either|DT path|NN spells|NNS trouble|NN for|IN chancellor|NN angela|NN merkel|NN and|CC her|PRP$ coalition|NN government|NN and|CC this|DT is|VBZ likely|JJ to|TO be|VB their|PRP$ last|JJ year|NN in|IN office|NN ahead|RB of|IN elections|NNS in|IN 2013|CD </s>|S_END
+<s>|S_START assuming|VBG the|DT euro|NN survives|VBZ the|DT alternative|NN is|VBZ too|RB awful|JJ to|TO contemplate|VB the|DT country|NN will|MD still|RB have|VB to|TO contend|VB with|IN austerity|NN among|IN major|JJ trade|NN partners|NNS and|CC the|DT economy|NN will|MD stagnate|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB heaven|RB on|IN earth|JJ </s>|S_END
+<s>|S_START genesis|NN a|DT theme|NN park|NN based|VBN on|IN the|DT bible|JJ is|VBZ planned|VBN for|IN an|DT undetermined|JJ site|NN in|IN germany|NN </s>|S_END
+<s>|S_START attractions|NNS will|MD include|VB a|DT tower|NN of|IN babel|NN a|DT “heaven|JJ and|CC hell”|JJ rollercoaster|NN and|CC a|DT lifesized|JJ noahs|NNS ark|VBP </s>|S_END
+</p>|P_END
+

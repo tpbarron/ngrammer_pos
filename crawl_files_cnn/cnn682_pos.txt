@@ -1,0 +1,56 @@
+<p>|P_START
+<s>|S_START googles|NNS new|JJ flight|NN search|NN allows|VBZ users|NNS to|TO find|VB and|CC book|NN travel|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN google|NN launched|VBD a|DT new|JJ flight|NN search|NN service|NN on|IN tuesday|NN putting|VBG it|PRP in|IN direct|JJ competition|NN with|IN travel|NN search|NN players|NNS including|VBG orbitz|NN and|CC kayak|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START starting|VBG tuesday|NN when|WRB a|DT user|NN searches|VBZ for|IN flight|NN information|NN like|IN flights|NNS from|IN new|JJ york|NN to|TO chicago|VB a|DT flights|NNS link|VBP will|MD appear|VB on|IN the|DT left|NN side|NN of|IN googles|NNS search|VBP page|NN </s>|S_END
+<s>|S_START google|NN flight|VBD search|NN can|MD also|RB be|VB accessed|VBN directly|RB at|IN googlecomflights|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START from|IN there|EX google|JJ goog|NN fortune|NN 500|CD displays|NNS a|DT shortlist|NN of|IN flights|NNS based|VBN on|IN cost|NN and|CC total|JJ travel|NN time|NN including|VBG various|JJ departure|NN times|NNS and|CC airlines|NNS </s>|S_END
+<s>|S_START filters|NNS are|VBP set|VBN for|IN reasonable|JJ price|NN and|CC duration|NN but|CC users|NNS can|MD manipulate|VB them|PRP to|TO show|VB more|JJR flights|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD unique|JJ feature|NN is|VBZ an|DT openended|VBN destination|NN users|NNS can|MD click|VB the|DT flight|NN search|NN map|NN and|CC use|NN filters|NNS to|TO see|VB where|WRB they|PRP can|MD go|VB within|IN certain|JJ time|NN and|CC cash|NN boundaries|NNS </s>|S_END
+<s>|S_START for|IN example|NN a|DT san|NN francisco|NN flyer|NN can|MD check|VB where|WRB he|PRP can|MD visit|VB within|IN 3|CD hours|NNS for|IN less|JJR than|IN $|$ 300|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT selection|NN of|IN flights|NNS shown|IN is|VBZ not|RB influenced|VBN by|IN any|DT paid|VBN relationships|NNS with|IN the|DT airlines|NNS google|VBP said|VBN </s>|S_END
+<s>|S_START flight|NN search|NN is|VBZ currently|RB limited|VBN to|TO roundtrip|VB economyclass|NN flights|NNS between|IN certain|JJ us|PRP cities|VBZ but|CC it|PRP will|MD be|VB expanded|VBN in|IN the|DT future|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START flight|NN search|NN is|VBZ the|DT first|JJ product|NN of|IN googles|NNS controversial|JJ $|$ 700|CD million|CD purchase|NN of|IN ita|NN the|DT worlds|NNS largest|JJS airline|NN search|NN software|NN company|NN </s>|S_END
+<s>|S_START ita|NN data|NNS is|VBZ used|VBN on|IN websites|NNS including|VBG kayak|NN orbitz|NN expediacom|NN tripadvisor|NN and|CC microsofts|NNS msft|VBP fortune|NN 500|CD bing|VBG as|IN well|RB as|IN a|DT number|NN of|IN airlines|NNS websites|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN google|JJ announced|VBN its|PRP$ intent|NN to|TO buy|VB ita|NN in|IN july|RB 2010|CD travel|NN search|NN players|NNS raised|VBD concerns|NNS about|IN search|NN behemoth|NN google|NN having|VBG unfettered|VBN access|NN to|TO valuable|JJ flight|NN data|NNS </s>|S_END
+<s>|S_START reuters|NNS said|VBD that|IN kayak|NN with|IN backing|NN from|IN expediacom|NN offered|VBD to|TO buy|VB ita|NN to|TO prevent|VB google|JJ from|IN purchasing|VBG it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN april|NN the|DT department|NN of|IN justice|NN said|VBD google|JJ could|MD buy|VB ita|NN only|RB if|IN the|DT search|NN giant|NN accepted|VBD certain|JJ restrictions|NNS to|TO avoid|VB a|DT monopoly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB with|IN the|DT caveats|NNS googles|VBZ entry|NN into|IN the|DT travel|NN search|NN space|NN is|VBZ a|DT blow|NN to|TO rivals|NNS </s>|S_END
+<s>|S_START for|IN example|NN bing|VBG has|VBZ advertised|VBN flight|NN information|NN as|IN a|DT key|JJ point|NN of|IN differentiation|NN between|IN it|PRP and|CC google|VB </s>|S_END
+<s>|S_START on|IN bing|NN users|NNS can|MD enter|VB domestic|JJ flight|NN queries|NNS and|CC the|DT engine|NN will|MD predict|VB when|WRB it|PRP is|VBZ best|JJS for|IN users|NNS to|TO buy|VB a|DT ticket|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START beyond|IN the|DT big|JJ players|NNS newbies|NNS in|IN the|DT field|NN are|VBP surely|RB taking|VBG note|NN startups|NNS like|IN hipmunk|NN which|WDT is|VBZ focused|VBN solely|RB on|IN simplifying|NN flight|NN search|NN are|VBP now|RB contending|VBG with|IN a|DT huge|JJ name|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START david|VBD goldman|NN contributed|VBN reporting |-NONE- </s>|S_END
+</p>|P_END
+

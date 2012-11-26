@@ -1,0 +1,80 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT ubiquitous|JJ totem|NN of|IN many|JJ office|NN workers|NNS the|DT securid|NN tokens|VBZ used|VBN to|TO access|NN sensitive|VB corporate|JJ systems|NNS are|VBP under|IN attack|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rsa|NN security|NN offered|VBD this|DT week|NN to|TO replace|VB or|CC monitor|NN all|DT securids|NNS an|DT offer|NN several|JJ major|JJ customers|NNS including|VBG bank|NN of|IN america|NN bac|NN fortune|NN 500|CD and|CC sap|NN sap|NN immediately|RB accepted|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP have|VBP recommended|VBN very|RB careful|JJ use|NN of|IN tokens|NNS while|IN we|PRP are|VBP finalizing|VBG the|DT details|NNS of|IN a|DT full|JJ replacement|NN with|IN rsa|NN said|VBD saswato|NN das|NNS a|DT rep|NN for|IN sap|NN </s>|S_END
+<s>|S_START we|PRP have|VBP been|VBN talking|VBG to|TO them|PRP for|IN months|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT bank|NN of|IN america|NN spokeswoman|NN said|VBD the|DT company|NN is|VBZ in|IN the|DT process|NN of|IN replacing|VBG securids|NNS for|IN all|DT of|IN its|PRP$ employees|NNS and|CC the|DT small|JJ number|NN of|IN clients|NNS who|WP use|NN the|DT tokens|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ the|DT latest|JJS twist|NN in|IN a|DT securitybreach|NN saga|NN that|WDT started|VBD in|IN march|NN when|WRB rsa|NN a|DT division|NN of|IN emc|NN corp|NN emc|NN fortune|NN 500|CD disclosed|VBN that|IN hackers|NNS had|VBD broken|VBN into|IN its|PRP$ systems|NNS and|CC made|VBD off|RP with|IN information|NN about|IN its|PRP$ securid|JJ products|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT time|NN rsa|NN assured|VBD customers|NNS that|IN the|DT information|NN the|DT hackers|NNS got|VBD would|MD not|RB allow|VB them|PRP to|TO break|VB into|IN customers|NNS systems|NNS but|CC disconcertingly|RB the|DT company|NN said|VBD the|DT the|DT information|NN could|MD be|VB used|VBN as|IN part|NN of|IN a|DT broader|JJR attack|NN to|TO reduce|VB the|DT effectiveness|NN of|IN rsas|NNS authentication|NN system|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC late|RB last|JJ month|NN defense|NN contractor|NN lockheed|VBD martin|NN lmt|NN fortune|NN 500|CD disclosed|VBN a|DT significant|JJ and|CC tenacious|JJ cyber|NN attack|NN on|IN its|PRP$ it|PRP systems|VBZ </s>|S_END
+<s>|S_START rsa|NN said|VBD monday|NN that|IN information|NN obtained|VBD from|IN rsa|NN in|IN the|DT march|NN hacking|VBG was|VBD used|VBN in|IN the|DT lockheed|NN martin|NN attack|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT prompted|VBD rsas|NNS offer|VBP to|TO replace|VB all|DT of|IN its|PRP$ customers|NNS securid|VBD tokens|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP recognize|VBP that|IN the|DT increasing|VBG frequency|NN and|CC sophistication|NN of|IN cyber|NN attacks|NNS generally|RB and|CC the|DT recent|JJ announcements|NNS by|IN lockheed|NN martin|NN may|MD reduce|VB some|DT customers|NNS overall|VBP risk|NN tolerance|NN the|DT company|NN wrote|VBD in|IN a|DT letter|NN posted|VBD on|IN its|PRP$ website|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT very|RB serious|JJ attack|NN securid|NN tokens|NNS use|VBP a|DT twofactor|NN authentication|NN method|NN meaning|NN they|PRP require|VBP two|CD separate|JJ unique|NN bits|NNS of|IN secret|NN data|NNS for|IN a|DT successful|JJ login|NN </s>|S_END
+<s>|S_START in|IN addition|NN to|TO their|PRP$ username|NN users|NNS must|MD enter|VB a|DT password|NN or|CC pin|VB number|NN that|WDT they|PRP have|VBP memorized|VBN plus|RB the|DT sixdigit|NN number|NN currently|RB displayed|VBN on|IN their|PRP$ securid|JJ </s>|S_END
+<s>|S_START the|DT tokens|NNS display|VBP a|DT new|JJ number|NN every|DT 60|CD seconds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ a|DT very|RB serious|JJ hack|NN said|VBD josh|JJ daymont|NN principal|NN at|IN securisea|NN </s>|S_END
+<s>|S_START its|PRP$ not|RB known|VBN exactly|RB what|WP was|VBD compromised|VBN but|CC securids|NNS control|NN a|DT significant|JJ portion|NN of|IN access|NN for|IN corporate|JJ america|NN </s>|S_END
+<s>|S_START its|PRP$ not|RB just|RB lockheed|VBN that|IN should|MD be|VB concerned|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT reuters|NNS report|NN said|VBD the|DT lockheed|NN attack|NN was|VBD carried|VBN out|RP with|IN duplicate|JJ securid|NN tokens|NNS </s>|S_END
+<s>|S_START a|DT rep|NN for|IN rsa|NN said|VBD wednesday|NN that|IN is|VBZ merely|RB speculation|NN but|CC she|PRP declined|VBD to|TO elaborate|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN its|PRP$ letter|NN this|DT week|NN rsa|NN said|VBD the|DT lockheed|NN attack|NN does|VBZ not|RB reflect|VB a|DT new|JJ threat|NN or|CC vulnerability|NN in|IN securid|NN </s>|S_END
+<s>|S_START the|DT company|NN also|RB said|VBD lockheeds|NNS breach|VBP is|VBZ the|DT only|JJ confirmed|VBN use|NN to|TO date|NN of|IN the|DT extracted|VBN rsa|NN product|NN information|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT may|MD be|VB cold|VBN comfort|NN to|TO rsas|NNS 25000|CD global|JJ customers|NNS who|WP use|NN securid|VBD many|JJ of|IN whom|WP are|VBP big|JJ names|NNS in|IN corporate|JJ america|NN </s>|S_END
+<s>|S_START the|DT companys|NNS site|VBP revealed|VBN that|IN as|IN of|IN 2009|CD more|JJR than|IN 40|CD million|CD people|NNS used|VBN securid|JJ worldwide|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT rsa|NN rep|NN said|VBD the|DT company|NN no|DT longer|NN reveals|NNS how|WRB many|JJ people|NNS use|VBP securid|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START daymont|NN the|DT securisea|NN expert|NN said|VBD he|PRP was|VBD concerned|VBN that|IN not|RB all|DT of|IN rsas|NNS customers|NNS will|MD take|VB the|DT company|NN up|RP on|IN its|PRP$ offer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START absolutely|RB everyone|VBN needs|NNS to|TO have|VB their|PRP$ tokens|NNS replaced|VBD no|DT question|NN daymont|NN said|VBD </s>|S_END
+<s>|S_START in|IN the|DT long|JJ run|NN the|DT threat|NN is|VBZ not|RB to|TO rsa|VB its|PRP$ to|TO the|DT securid|NN customers|NNS </s>|S_END
+<s>|S_START they|PRP need|VBP to|TO do|VB all|PDT they|PRP can|MD to|TO minimize|VB the|DT damage|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

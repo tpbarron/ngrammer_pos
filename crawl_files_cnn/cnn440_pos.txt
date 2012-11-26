@@ -1,0 +1,105 @@
+<p>|P_START
+<s>|S_START hurricane|NN sandy|NN and|CC obamas|VBZ reelection|NN threw|NN climate|NN change|NN in|IN the|DT spotlight|NN again|RB putting|VBG policy|NN changes|NNS like|IN a|DT carbon|NN tax|NN back|RB on|IN the|DT table|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN climate|NN change|NN is|VBZ once|RB again|RB a|DT hot|NN topic|NN in|IN the|DT untied|JJ states|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hurricane|NN sandy|NN brought|VBD the|DT issue|NN back|RB into|IN the|DT spotlight|JJ just|RB days|VBZ before|IN the|DT presidential|JJ election|NN </s>|S_END
+<s>|S_START pundits|NNS were|VBD quick|JJ to|TO note|VB the|DT irony|NN of|IN a|DT massive|JJ superstorm|NN striking|VBG after|IN three|CD presidential|JJ debates|NNS that|WDT didnt|NN mention|NN climate|NN change|NN once|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN the|DT storm|NN new|JJ york|NN mayor|NN michael|NN bloomberg|NN evoked|VBD the|DT issue|NN again|RB pointing|VBG to|TO climate|VB change|NN specifically|RB in|IN an|DT unexpected|JJ lastminute|NN endorsement|NN of|IN president|NN obama|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC if|IN there|EX was|VBD any|DT lingering|NN doubt|NN about|IN the|DT issue|NN being|VBG back|RB in|IN the|DT limelight|NN the|DT president|NN dispelled|VBD it|PRP tuesday|NN night|NN by|IN mentioning|NN global|JJ warming|NN in|IN his|PRP$ acceptance|NN speech|NN alongside|NN other|JJ priorities|NNS like|IN budget|NN and|CC tax|NN reform|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP want|VBP our|PRP$ children|NNS to|TO live|VB in|IN an|DT america|NN that|IN isnt|NN burdened|VBD by|IN debt|NN that|IN isnt|NN weakened|VBD by|IN inequality|NN that|IN isnt|NN threatened|VBD by|IN the|DT destructive|JJ power|NN of|IN a|DT warming|NN planet|NN he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START senate|NN majority|NN leader|NN harry|NN reid|VBD also|RB indicated|VBN there|EX could|MD be|VB action|NN on|IN the|DT climate|NN front|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START climate|NN change|NN is|VBZ an|DT extremely|RB important|JJ issue|NN for|IN me|PRP and|CC i|PRP hope|VBP we|PRP can|MD address|VB it|PRP reasonably|RB he|PRP said|VBD wednesday|NN at|IN a|DT press|NN conference|NN </s>|S_END
+<s>|S_START its|PRP$ something|NN as|IN weve|JJ seen|NN with|IN these|DT storms|NNS that|WDT are|VBP overwhelming|VBG our|PRP$ country|NN and|CC the|DT world|NN we|PRP need|VBP to|TO do|VB something|NN about|IN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT question|NN now|RB is|VBZ this|DT when|WRB do|VBP we|PRP see|VB an|DT actual|JJ proposal|NN to|TO limit|VB greenhouse|NN gases|NNS and|CC what|WP does|VBZ it|PRP look|VB like|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START reining|VBG in|IN climate|NN change|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD option|NN is|VBZ some|DT type|NN of|IN tax|NN on|IN carbon|NN coming|VBG in|IN 2013|CD as|IN part|NN of|IN broader|JJR negotiations|NNS over|IN the|DT budget|NN and|CC deficit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP many|JJ different|JJ ways|NNS to|TO structure|VB a|DT carbon|NN tax|NN but|CC it|PRP generally|RB involves|VBZ taxing|VBG the|DT use|NN of|IN fossil|NN fuels|NNS like|IN coal|NN or|CC oil|NN and|CC using|VBG the|DT proceeds|NNS for|IN tax|NN cuts|NNS deficit|NN reduction|NN or|CC clean|JJ energy|NN funding|NN </s>|S_END
+<s>|S_START consumers|NNS most|RBS likely|JJ see|NN it|PRP in|IN the|DT form|NN of|IN higher|JJR utility|NN bills|NNS or|CC possibly|RB gasoline|NN prices|NNS </s>|S_END
+<s>|S_START most|JJS proposals|NNS have|VBP some|DT type|NN of|IN mechanism|NN to|TO exempt|VB low|JJ income|NN people|NNS from|IN paying|VBG it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD proposal|NN studied|VBD by|IN the|DT congressional|JJ budget|NN office|NN said|VBD a|DT carbon|NN tax|NN would|MD raise|VB between|IN $|$ 88|CD billion|CD and|CC $|$ 144|CD billion|CD a|DT year|NN for|IN the|DT government|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD carbon|VBN tax|NN gets|NNS unusual|JJ support|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT idea|NN has|VBZ bipartisan|VBN support|NN </s>|S_END
+<s>|S_START conservatives|NNS like|IN it|PRP as|IN the|DT money|NN can|MD be|VB used|VBN to|TO reduce|VB the|DT deficit|NN or|CC cut|VB other|JJ taxes|NNS and|CC liberals|NNS like|IN it|PRP because|IN it|PRP makes|VBZ cleaner|JJR energy|NN like|IN wind|NN and|CC solar|JJ more|RBR competitive|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN were|VBD going|VBG to|TO do|VB a|DT grand|NN deal|NN on|IN taxes|NNS a|DT carbon|NN tax|NN will|MD be|VB high|JJ on|IN the|DT presidents|NNS list|VBP of|IN priorities|NNS said|VBD dan|NN clifton|NN a|DT partner|NN at|IN strategas|NN a|DT research|NN firm|NN that|WDT serves|VBZ institutional|JJ investors|NNS </s>|S_END
+<s>|S_START but|CC it|PRP would|MD have|VB to|TO be|VB part|NN of|IN a|DT compromise|NN for|IN republicans|NNS to|TO accept|VB something|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START clifton|NN puts|NNS the|DT chances|NNS of|IN a|DT carbon|NN tax|NN up|IN for|IN serious|JJ debate|NN at|IN 20|CD currently|RB but|CC higher|JJR if|IN a|DT grand|NN deal|NN on|IN taxes|NNS takes|VBZ shape|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START still|RB the|DT chances|NNS of|IN a|DT carbon|NN tax|NN actually|RB passing|VBG remains|NNS low|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP think|VBP there|RB will|MD be|VB some|DT opposition|NN from|IN many|JJ sides|NNS said|VBD whitney|NN stanco|NN an|DT energy|NN analyst|NN at|IN guggenheim|NN securities|NNS washington|VBP research|NN group|NN </s>|S_END
+<s>|S_START from|IN conservatives|NNS because|IN its|PRP$ a|DT tax|NN increase|NN from|IN liberals|NNS because|IN its|PRP$ likely|JJ a|DT regressive|JJ tax|NN increase|NN and|CC from|IN environmental|JJ groups|NNS because|IN it|PRP would|MD be|VB used|VBN to|TO pay|VB down|RP the|DT deficit|NN not|RB invest|VBP in|IN clean|JJ technologies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START stanco|NN sees|NNS several|JJ climate|NN proposals|NNS emerging|VBG in|IN the|DT next|JJ congress|NN which|WDT could|MD include|VB anything|NN from|IN requirements|NNS that|IN utilities|NNS buy|VB more|JJR renewable|JJ power|NN to|TO the|DT rebirth|NN of|IN laws|NNS capping|VBG greenhouse|NN gases|NNS </s>|S_END
+<s>|S_START but|CC she|PRP doesnt|VBD see|VB any|DT of|IN them|PRP going|VBG very|RB far|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yes|NNS the|DT climate|NN change|NN issue|NN will|MD likely|RB gain|VB some|DT momentum|NN postsandy|NN but|CC its|PRP$ got|NN a|DT long|JJ way|NN to|TO go|VB from|IN its|PRP$ current|JJ rank|NN at|IN the|DT bottom|NN of|IN voters|NNS priority|NN list|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT way|NN additional|JJ climate|NN change|NN rules|NNS could|MD become|VB more|RBR enshrined|VBN in|IN us|PRP policy|NN is|VBZ the|DT continued|VBN tightening|VBG of|IN rules|NNS from|IN the|DT environmental|JJ protection|NN agency|NN combined|VBN with|IN actions|NNS from|IN other|JJ nations|NNS that|IN force|NN costs|NNS on|IN us|PRP companies|NNS that|WDT arent|NN operating|VBG under|IN some|DT type|NN of|IN mandatory|NN carbon|NN reduction|NN plan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START warming|VBG policy|NN is|VBZ back|RB on|IN the|DT front|NN burner|NN but|CC we|PRP think|VBP it|PRP has|VBZ less|JJR to|TO do|VB with|IN superstorm|NN sandy|NN and|CC more|JJR to|TO do|VB with|IN trade|NN pressures|NNS on|IN the|DT other|JJ side|NN of|IN the|DT atlantic|JJ and|CC pending|VBG epa|NN rules|NNS said|VBD kevin|NN book|NN managing|VBG director|NN of|IN research|NN at|IN clearview|NN energy|NN partners|NNS </s>|S_END
+<s>|S_START a|DT secondterm|NN obama|NN administration|NN sets|VBZ up|RP progress|NN on|IN both|DT fronts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnns|NNS lisa|VBP desjardins|NNS contributed|VBN to|TO this|DT report|NN </s>|S_END
+</p>|P_END
+

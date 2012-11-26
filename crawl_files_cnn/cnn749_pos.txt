@@ -1,0 +1,105 @@
+<p>|P_START
+<s>|S_START eagleview|NN founder|NN chris|VBZ pershing|VBG changed|VBN how|WRB the|DT roofing|NN industry|NN operates|VBZ with|IN a|DT software|NN breakthrough|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN sometimes|RB one|CD bright|JJ idea|NN and|CC a|DT whole|JJ lot|NN of|IN work|NN to|TO implement|VB it|PRP can|MD reshape|VB an|DT entire|JJ industry|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN 2006|CD roofing|VBG salesman|NN david|NN carlson|NN vented|VBD to|TO his|PRP$ brotherinlaw|NN about|IN his|PRP$ frustrations|NNS from|IN climbing|VBG onto|IN rooftops|NNS and|CC manually|RB measuring|VBG to|TO give|VB estimates|NNS on|IN repair|NN work|NN </s>|S_END
+<s>|S_START measuring|VBG by|IN hand|NN is|VBZ a|DT tedious|JJ process|NN </s>|S_END
+<s>|S_START plus|RB people|NNS fall|VBP off|RP roofs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START carlsons|NNS brotherinlaw|VBD chris|NNS pershing|VBG happened|VBN to|TO be|VB a|DT software|NN engineer|NN </s>|S_END
+<s>|S_START he|PRP did|VBD more|JJR than|IN listen|CD pershing|VBG set|NN out|RP to|TO build|VB a|DT software|NN program|NN that|WDT would|MD literally|RB change|VB the|DT way|NN the|DT $|$ 30|CD billion|CD roofing|NN industry|NN views|NNS americas|VBZ rooftops|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START today|NN pershings|NNS company|NN eagleview|NN uses|VBZ aerial|JJ photography|NN and|CC 3d|CD modeling|VBG to|TO produce|VB ondemand|NN reports|NNS for|IN accurate|JJ measurements|NNS of|IN almost|RB every|DT roof|NN in|IN the|DT country|NN </s>|S_END
+<s>|S_START no|DT ladder|NN no|DT tape|NN measurers|NNS and|CC no|DT perilous|JJ timeconsuming|NN estimates|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START having|VBG an|DT eagle|NN view|NN report|NN has|VBZ become|VBN an|DT industry|NN accepted|VBN standard|JJ says|NNS kirk|VBP belz|NN a|DT partner|NN at|IN midamerica|NN adjusting|VBG services|NNS an|DT ozark|NN mo|NN company|NN that|WDT investigates|VBZ claims|VBZ for|IN national|JJ insurers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eagleviews|NNS reports|NNS priced|VBN at|IN $|$ 20|CD to|TO $|$ 80|CD each|DT are|VBP now|RB used|VBN by|IN around|IN 50000|CD roofers|NNS and|CC almost|RB every|DT single|JJ large|JJ insurance|NN company|NN </s>|S_END
+<s>|S_START sales|NNS are|VBP on|IN track|NN to|TO hit|VB $|$ 40|CD million|CD this|DT year|NN up|RP from|IN $|$ 14|CD million|CD three|CD years|NNS ago|RB and|CC the|DT 175person|CD company|NN plans|NNS to|TO hire|VB another|DT 40|CD to|TO 50|CD sales|NNS and|CC software|NN people|NNS in|IN the|DT coming|VBG year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START back|RB in|IN 2006|CD when|WRB pershing|VBG first|JJ considered|VBN the|DT idea|NN of|IN automating|VBG rooftop|NN measurements|NNS he|PRP was|VBD sure|JJ someone|NN had|VBD already|RB invented|VBN it|PRP </s>|S_END
+<s>|S_START he|PRP hunted|VBD the|DT internet|NN for|IN software|NN that|WDT used|VBN photographs|NNS to|TO generate|VB estimates|NNS but|CC found|VBN nothing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN he|PRP began|VBD experimenting|VBG with|IN sites|NNS like|IN microsofts|NNS msft|VBP fortune|NN 500|CD bing|VBG and|CC google|JJ goog|NN fortune|NN 500|CD earth|NN searching|VBG for|IN satellite|JJ images|NNS </s>|S_END
+<s>|S_START what|WP he|PRP discovered|VBD surprised|VBN him|PRP aerial|JJ photography|NN rather|RB than|IN satellite|JJ imagery|NN could|MD provide|VB better|JJR pictures|NNS and|CC more|JJR accurate|JJ measurements|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP thought|VBD there|RB was|VBD certainly|RB a|DT huge|JJ opportunity|NN out|IN there|EX says|VBZ pershing|NN 39|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pershing|VBG studied|VBN one|CD of|IN his|PRP$ wifes|NNS birdhouses|VBZ staring|VBG at|IN the|DT roof|NN from|IN different|JJ angles|NNS </s>|S_END
+<s>|S_START he|PRP took|VBD snapshots|NNS in|IN his|PRP$ head|NN of|IN those|DT angles|NNS and|CC then|RB sketched|VBD various|JJ viewpoints|NNS of|IN the|DT roof|NN </s>|S_END
+<s>|S_START over|IN the|DT next|JJ few|JJ months|NNS he|PRP holed|VBD up|RP at|IN his|PRP$ computer|NN on|IN nights|NNS and|CC weekends|NNS developing|VBG software|NN that|IN would|MD use|VB algorithms|NNS to|TO infer|VB the|DT size|NN shape|NN pitch|NN and|CC area|NN of|IN the|DT roof|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP practiced|VBD his|PRP$ algorithms|NNS on|IN a|DT few|JJ addresses|NNS including|VBG his|PRP$ own|JJ and|CC his|PRP$ neighbors|NNS </s>|S_END
+<s>|S_START he|PRP even|RB pulled|VBD up|RP imagery|NN of|IN pyramids|NNS in|IN egypt|NN estimating|VBG the|DT height|NN of|IN the|DT pyramid|JJ to|TO within|VB a|DT couple|NN of|IN bricks|NNS </s>|S_END
+<s>|S_START he|PRP got|VBD the|DT slope|NN of|IN his|PRP$ neighbors|NNS homes|VBZ almost|RB exactly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN the|DT end|NN of|IN 2007|CD pershing|VBG quit|NN his|PRP$ job|NN making|VBG software|NN for|IN ultrasound|NN machines|NNS and|CC started|VBD eagleview|NN in|IN a|DT small|JJ rented|VBN office|NN outside|IN seattle|NN </s>|S_END
+<s>|S_START he|PRP convinced|VBD family|RB and|CC friends|NNS to|TO invest|VB $|$ 200000|CD into|IN his|PRP$ new|JJ venture|NN and|CC set|VBD out|RP to|TO buy|VB rights|NNS to|TO aerial|JJ photographs|NNS normally|RB used|VBN by|IN states|NNS counties|NNS and|CC the|DT us|PRP geological|JJ survey|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB pershing|VBG began|NN telling|VBG contractors|NNS and|CC insurance|NN claims|NNS adjustors|NNS about|IN his|PRP$ technology|NN they|PRP were|VBD skeptical|JJ </s>|S_END
+<s>|S_START the|DT industry|NN had|VBD for|IN decades|NNS measured|VBN by|IN hand|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP thought|VBD there|RB is|VBZ no|DT way|NN says|VBZ belz|NN the|DT missouri|NN claims|VBZ adjustor|NN </s>|S_END
+<s>|S_START but|CC once|RB a|DT few|JJ big|JJ insurers|NNS embraced|VBN the|DT technology|NN belz|NN and|CC others|NNS began|VBD to|TO follow|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pershing|VBG hired|VBN tech|NN veteran|NN chris|VBZ barrow|NN to|TO be|VB ceo|RB in|IN 2008|CD and|CC changed|VBD roles|NNS to|TO become|VB chief|JJ technology|NN officer|NN </s>|S_END
+<s>|S_START barrow|NN then|RB raised|VBD $|$ 6|CD million|CD from|IN investors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD of|IN the|DT smartest|JJS things|NNS chris|NNS did|VBD was|VBD step|VB away|RB says|VBZ roger|JJR mcomber|NN an|DT angel|NN investor|NN in|IN dallas|NNS </s>|S_END
+<s>|S_START its|PRP$ hard|JJ to|TO do|VB but|CC its|PRP$ that|IN team|NN mentality|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START today|NN eagleview|VBD customers|NNS can|MD order|VB reports|NNS online|NN or|CC through|IN a|DT smartphone|NN app|NN and|CC can|MD get|VB a|DT pdf|NN report|NN delivered|VBD in|IN an|DT hour|NN </s>|S_END
+<s>|S_START a|DT dozen|NN competitors|NNS including|VBG sites|NNS like|IN geoestimatorcom|NN and|CC roofwalkcom|NN offer|NN similar|JJ services|NNS </s>|S_END
+<s>|S_START despite|IN the|DT competition|NN and|CC the|DT recession|NN eagleviews|VBZ sales|NNS grew|VBD at|IN a|DT 200|CD clip|NN last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START belz|NN the|DT claims|NNS adjustor|NN says|VBZ he|PRP can|MD process|VB 25|CD more|JJR claims|NNS each|DT day|NN without|IN ever|RB sending|VBG an|DT adjustor|NN onto|IN a|DT roof|NN saving|VBG at|IN least|JJS 45|CD minutes|NNS per|IN job|NN </s>|S_END
+<s>|S_START it|PRP really|RB speeds|VBZ the|DT day|NN up|RB for|IN adjustors|NNS he|PRP says|VBZ </s>|S_END
+<s>|S_START and|CC going|VBG onto|IN the|DT roof|NN is|VBZ one|CD of|IN the|DT most|RBS dangerous|JJ parts|NNS of|IN the|DT job|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT software|NN also|RB produces|VBZ more|JJR precise|JJ estimates|NNS than|IN workers|NNS with|IN tape|NN measurers|NNS says|VBZ james|NNS arry|VBP housch|JJ who|WP owns|VBZ arrys|VBZ roofing|VBG services|NNS inc|NN in|IN tarpon|NN springs|NNS fla|VBP </s>|S_END
+<s>|S_START instead|RB of|IN handing|VBG a|DT customer|NN a|DT piece|NN of|IN scratch|NN paper|NN with|IN some|DT numbers|NNS and|CC a|DT business|NN card|NN arrys|NNS roofing|VBG salesmen|NNS give|VBP potential|JJ customers|NNS a|DT professional|JJ pdf|NN report|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP sets|VBZ us|PRP apart|RB from|IN the|DT competition|NN housch|NN says |NN </s>|S_END
+</p>|P_END
+

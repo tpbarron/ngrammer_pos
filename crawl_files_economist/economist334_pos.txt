@@ -1,0 +1,80 @@
+<p>|P_START
+<s>|S_START malaria|NN has|VBZ been|VBN infecting|VBG humans|NNS for|IN over|IN 5000|CD years|NNS and|CC even|RB now|RB more|RBR than|IN a|DT century|NN after|IN scientists|NNS discovered|VBN that|IN malaria|NN is|VBZ transmitted|VBN by|IN mosquitoes|NNS some|DT 800000|CD people|NNS a|DT year|NN still|RB die|VB from|IN the|DT disease|NN many|JJ of|IN them|PRP children|NNS </s>|S_END
+<s>|S_START all|DT the|DT more|RBR cheering|VBG then|RB that|IN scientists|NNS can|MD now|RB list|VB the|DT tools|NNS including|VBG new|JJ drugs|NNS and|CC innovative|JJ vaccines|NNS which|WDT could|MD work|VB alongside|JJ more|RBR traditional|JJ methods|NNS of|IN keeping|VBG mosquitoes|NNS at|IN bay|NN to|TO eliminate|VB malaria|NN </s>|S_END
+<s>|S_START the|DT battle|NN cant|NN be|VB won|VBN for|IN many|JJ decades|NNS and|CC absolutely|RB requires|VBZ that|IN the|DT current|JJ enthusiasm|NN for|IN the|DT fight|NN does|VBZ not|RB dim|VB </s>|S_END
+<s>|S_START however|RB in|IN 2011|CD “eradication”|NN is|VBZ no|DT longer|NN just|RB a|DT rallying|NN cry|NN but|CC a|DT realistic|JJ possibility|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START prime|JJ ministers|NNS rock|NN stars|NNS eager|JJR activists|NNS and|CC the|DT wealthy|JJ gates|NNS foundation|NN have|VBP all|DT taken|VBN up|RP the|DT cause|NN of|IN controlling|VBG malaria|NN with|IN donor|NN money|NN growing|VBG fivefold|NN over|IN the|DT past|JJ five|CD year|NN </s>|S_END
+<s>|S_START progress|NN in|IN basic|JJ research|NN comes|VBZ alongside|NN successes|NNS in|IN distributing|VBG free|JJ insecticidetreated|JJ bednets|NNS and|CC artemisinin|VB therapies|NNS together|RB they|PRP have|VBP sent|VBN malaria|NNS death|NN rates|NNS tumbling|VBG where|WRB effective|JJ organisation|NN has|VBZ been|VBN possible|JJ </s>|S_END
+<s>|S_START in|IN zambia|NN malaria|NN deaths|NNS have|VBP fallen|VBN by|IN over|IN 60|CD and|CC in|IN rwanda|NN and|CC zanzibar|NN childhood|NN mortality|NN has|VBZ been|VBN halved|VBN since|IN the|DT introduction|NN of|IN proper|NN control|NN measure|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT magic|JJ bullet|NN which|WDT kills|NNS every|DT last|JJ parasite|NN isnt|NN necessary|JJ to|TO defeat|VB malaria|NNS </s>|S_END
+<s>|S_START rather|RB the|DT transmission|NN rate|NN needs|VBZ to|TO be|VB pushed|VBN down|RP so|RB that|IN each|DT malaria|NN infection|NN is|VBZ passed|VBN on|IN to|TO less|JJR than|IN one|CD new|JJ person|NN and|CC the|DT disease|NN gradually|RB dies|VBZ out|RP </s>|S_END
+<s>|S_START used|VBD skilfully|RB every|DT way|NN of|IN attacking|VBG the|DT parasite|JJ will|MD help|VB but|CC new|JJ weapons|NNS are|VBP still|RB needed|VBN for|IN the|DT coup|NN de|IN grâce|JJ </s>|S_END
+<s>|S_START by|IN early|RB 2011|CD both|DT the|DT malaria|NN eradication|NN research|NN agenda|NN malera|NN an|DT international|JJ scientific|JJ group|NN which|WDT is|VBZ identifying|VBG the|DT tools|NNS needed|VBD to|TO eradicate|VB malaria|NNS globally|RB and|CC the|DT malaria|NN elimination|NN group|NN meg|NN which|WDT provides|VBZ practical|JJ advice|NN for|IN countries|NNS where|WRB elimination|NN is|VBZ already|RB feasible|JJ will|MD have|VB published|VBN maps|NNS for|IN the|DT route|NN ahead|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT malaria|NN parasite|NN is|VBZ a|DT terrible|JJ foe|NN </s>|S_END
+<s>|S_START the|DT disease|NN begins|VBZ with|IN the|DT bite|JJ of|IN an|DT infected|VBN mosquito|NN when|WRB a|DT small|JJ number|NN of|IN parasites|NNS enter|JJR into|IN the|DT skin|NN </s>|S_END
+<s>|S_START they|PRP travel|VBP on|IN to|TO the|DT liver|NN and|CC remain|NN hidden|NN away|RB multiplying|VBG rapidly|RB until|IN there|EX are|VBP tens|NNS of|IN thousands|NNS of|IN them|PRP </s>|S_END
+<s>|S_START then|RB they|PRP transform|VBP and|CC infect|VB red|VBN blood|NN cell|NN </s>|S_END
+<s>|S_START inside|NN these|DT cells|NNS the|DT parasites|NNS feast|VBP on|IN haemoglobin|NN and|CC multiply|RB still|RB further|JJ periodically|RB breaking|VBG out|RP to|TO infect|VB yet|RB more|RBR blood|NN cell|NN </s>|S_END
+<s>|S_START oon|NN a|DT single|JJ person|NN contains|VBZ billions|NNS of|IN the|DT parasites|NNS and|CC the|DT symptoms|NNS of|IN malaria|NNS begin|VBP </s>|S_END
+<s>|S_START at|IN each|DT outbreak|NN the|DT waste|NN from|IN the|DT broken|VBN red|VBN blood|NN cells|NNS poisons|NNS the|DT body|NN triggering|VBG a|DT high|JJ fever|NN </s>|S_END
+<s>|S_START finally|RB the|DT parasite|JJ returns|NNS to|TO a|DT mosquito|NN when|WRB the|DT insect|NN bites|VBZ an|DT infected|VBN person|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT parasite|NN is|VBZ hard|JJ for|IN the|DT bodys|NNS immune|VBP defences|NNS to|TO fight|NN because|IN at|IN every|DT stage|NN it|PRP either|RB hides|VBZ away|RB inside|JJ its|PRP$ hosts|NNS cells|NNS so|RB it|PRP can|MD not|RB be|VB seen|VBN or|CC if|IN it|PRP reveals|VBZ its|PRP$ presence|NN it|PRP shows|VBZ an|DT everchanging|NN set|NN of|IN surface|NN proteins|NNS that|WDT make|VBP it|PRP difficult|JJ to|TO pin|VB down|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cience|NN can|MD help|VB with|IN the|DT growing|VBG understanding|NN of|IN the|DT parasite|JJ and|CC of|IN how|WRB antimalarial|JJ drugs|NNS work|NN </s>|S_END
+<s>|S_START cientists|NNS now|RB know|VBP for|IN example|NN that|WDT drugs|NNS like|VBP chloroquine|NN interfere|RB with|IN the|DT parasites|NNS ability|NN to|TO store|VB safely|RB the|DT toxic|JJ haeme|NN that|WDT it|PRP produces|VBZ as|IN it|PRP gobbles|VBZ up|RP haemoglobin|NN </s>|S_END
+<s>|S_START uch|JJ knowledge|NN will|MD make|VB it|PRP easier|JJR to|TO develop|VB new|JJ drug|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pop|NN goes|VBZ the|DT parasite|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ tricks|NNS in|IN making|VBG vaccines|NNS are|VBP also|RB helping|VBG </s>|S_END
+<s>|S_START by|IN taking|NN apart|NN the|DT surface|NN proteins|NNS on|IN the|DT parasite|JJ and|CC fusing|VBG them|PRP with|IN others|NNS it|PRP is|VBZ possible|JJ to|TO engineer|NN vaccines|NNS which|WDT help|NN “teach”|-NONE- the|DT immune|NN system|NN what|WP to|TO look|VB out|RP for|IN and|CC destroy|NN </s>|S_END
+<s>|S_START even|RB a|DT partly|RB effective|JJ vaccine|NN can|MD help|VB </s>|S_END
+<s>|S_START in|IN 2011|CD trials|NNS will|MD finish|VB on|IN one|CD vaccine|NN rtss|NN which|WDT has|VBZ proved|VBN successful|JJ in|IN reducing|NN severe|RB cases|VBZ of|IN malaria|NN by|IN 50|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT year|NN ahead|RB malera|NN will|MD also|RB push|VB for|IN a|DT remarkable|JJ “transmissionblocking”|NN vaccine|NN </s>|S_END
+<s>|S_START unlike|IN other|JJ vaccines|NNS it|PRP is|VBZ not|RB designed|VBN to|TO protect|VB an|DT individual|NN directly|RB from|IN infection|NN but|CC to|TO prevent|VB the|DT parasite|JJ being|VBG passed|VBN on|IN to|TO new|JJ victim|NN </s>|S_END
+<s>|S_START another|DT oddity|NN is|VBZ that|IN although|IN it|PRP is|VBZ humans|NNS who|WP are|VBP vaccinated|VBN the|DT vaccine|NN has|VBZ its|PRP$ impact|NN inside|NN the|DT gut|NN of|IN a|DT mosquito|NN after|IN the|DT insect|NN has|VBZ taken|VBN its|PRP$ meal|NN </s>|S_END
+<s>|S_START this|DT seems|VBZ puzzling|VBG until|IN you|PRP understand|VBP that|IN a|DT recently|RB fed|VBN mosquito|NN is|VBZ really|RB “a|JJ flying|NN human|NN drop|NN of|IN blood”|JJ explains|NNS richard|VBP carter|NN a|DT malaria|NN researcher|NN at|IN the|DT university|NN of|IN edinburgh|NN </s>|S_END
+<s>|S_START human|NN immune|NN reactions|NNS can|MD continue|VB for|IN hours|NNS inside|VBP that|IN drop|NN of|IN blood|NN until|IN it|PRP is|VBZ all|DT digested|VBN </s>|S_END
+<s>|S_START it|PRP is|VBZ a|DT time|NN when|WRB the|DT malaria|NN parasite|NN is|VBZ peculiarly|RB vulnerable|JJ </s>|S_END
+<s>|S_START after|IN blood|NN passes|NNS into|IN the|DT mosquito|NN gut|NN the|DT parasites|NNS quickly|RB turn|VB into|IN male|JJ and|CC female|JJ forms—the|NN gametes—and|NN emerge|NN from|IN their|PRP$ hiding|NN place|NN inside|NN the|DT red|NN blood|NN cells|NNS to|TO mate|VB </s>|S_END
+<s>|S_START later|JJ their|PRP$ progeny|NN will|MD head|VB back|RB into|IN the|DT mosquitos|NNS salivary|JJ glands|NNS and|CC infect|VB its|PRP$ next|JJ victim|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN vaccinating|NN humans|NNS against|IN proteins|NNS on|IN the|DT gametes|NNS stillactive|VBP immune|JJ agents|NNS in|IN the|DT blood|NN sucked|VBD up|RP by|IN the|DT mosquito|NN can|MD recognise|VB and|CC destroy|VB the|DT parasites|NNS as|IN soon|RB as|IN they|PRP come|VBP out|RP of|IN hiding|NN </s>|S_END
+<s>|S_START “the|DT gametes|NNS swim|VBP out|RP into|IN a|DT lethal|JJ sea”|NN explains|VBZ professor|NN carter|NN “and|NN they|PRP just|RB pop|VBP and|CC are|VBP gone|VBN </s>|S_END
+<s>|S_START you|PRP can|MD see|VB it|PRP under|IN the|DT microscope|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ very|RB gratifying”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uch|JJ a|DT vaccine|NN will|MD work|VB especially|RB well|RB in|IN a|DT community|NN </s>|S_END
+<s>|S_START if|IN enough|JJ people|NNS are|VBP vaccinated|VBN then|RB an|DT everdecreasing|NN number|NN of|IN mosquitoes|NNS will|MD carry|VB the|DT parasite|JJ on|IN to|TO new|JJ victim|NN </s>|S_END
+<s>|S_START and|CC eventually|RB with|IN enough|JJ effort|NN and|CC the|DT help|NN of|IN the|DT full|JJ range|NN of|IN antimalaria|NN weaponry|NN none|NN at|IN all|DT will|MD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START alun|NN anderson|NN science|NN journalist|NN and|CC author|NN </s>|S_END
+</p>|P_END
+

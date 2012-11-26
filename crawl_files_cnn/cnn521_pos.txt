@@ -1,0 +1,96 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN theres|NNS a|DT good|JJ chance|NN your|PRP$ banks|NNS website|VBP was|VBD attacked|VBN over|IN the|DT past|JJ week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START since|IN sept|NN 19|CD the|DT websites|NNS of|IN bank|NN of|IN america|NN bac|NN fortune|NN 500|CD jpmorgan|NN chase|NN jpm|NN fortune|NN 500|CD wells|NNS fargo|IN wfc|NN fortune|NN 500|CD us|PRP bank|NN usb|NN fortune|NN 500|CD and|CC pnc|NN bank|NN have|VBP all|DT suffered|VBN daylong|JJ slowdowns|NNS and|CC been|VBN sporadically|RB unreachable|JJ for|IN many|JJ customers|NNS </s>|S_END
+<s>|S_START the|DT attackers|NNS who|WP took|VBD aim|VBP at|IN bank|NN of|IN america|NN first|RB went|VBD after|IN their|PRP$ targets|NNS in|IN sequence|NN </s>|S_END
+<s>|S_START thursdays|NNS victim|VBP pncs|NNS website|IN was|VBD inaccessible|JJ at|IN the|DT time|NN this|DT article|NN was|VBD published|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START security|NN experts|NNS say|VBP the|DT outages|NNS stem|VBP from|IN one|CD of|IN the|DT biggest|JJS cyberattacks|NNS theyve|VBP ever|RB seen|VBN </s>|S_END
+<s>|S_START these|DT denial|JJ of|IN service|NN attacks|NNS huge|JJ amounts|NNS of|IN traffic|JJ directed|VBN at|IN a|DT website|JJ to|TO make|VB it|PRP crash|VB were|VBD the|DT largest|JJS ever|RB recorded|VBN by|IN a|DT wide|JJ margin|NN according|VBG to|TO two|CD researchers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banks|NNS get|VBP hit|VBN by|IN cyberattackers|NNS all|DT the|DT time|NN and|CC typically|RB have|VBP some|DT of|IN the|DT best|JJS defenses|NNS against|IN them|PRP </s>|S_END
+<s>|S_START this|DT time|NN they|PRP were|VBD outgunned|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT volume|NN of|IN traffic|JJ sent|NN to|TO these|DT sites|NNS is|VBZ frankly|RB unprecedented|VBN said|VBD dmitri|NN alperovitch|NN cofounder|NN of|IN crowdstrike|NN a|DT security|NN firm|NN that|WDT has|VBZ been|VBN investigating|VBG the|DT attacks|NNS </s>|S_END
+<s>|S_START its|PRP$ 10|CD to|TO 20|CD times|NNS the|DT volume|NN that|IN we|PRP normally|RB see|VBP and|CC twice|NN the|DT previous|JJ record|NN for|IN a|DT denial|JJ of|IN service|NN attack|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO carry|VB out|RP the|DT cyberattacks|NNS the|DT attackers|NNS got|VBD hold|VBN of|IN thousands|NNS of|IN highpowered|VBN application|NN servers|NNS and|CC pointed|VBD them|PRP all|DT at|IN the|DT targeted|VBN banks|NNS </s>|S_END
+<s>|S_START that|DT overwhelmed|VBN bank|NN of|IN america|NN and|CC chases|NNS web|VBP servers|NNS on|IN sept|NN 19|CD wells|NNS fargo|IN and|CC us|PRP bank|VBD on|IN wednesday|NN and|CC pnc|NN on|IN thursday|NN </s>|S_END
+<s>|S_START fred|VBD solomon|VBN a|DT spokesman|NN for|IN pnc|NN confirmed|VBD that|IN a|DT high|JJ volume|NN of|IN traffic|JJ on|IN thursday|NN was|VBD affecting|VBG users|NNS ability|NN to|TO access|NN the|DT website|JJ but|CC he|PRP declined|VBD to|TO go|VB into|IN more|JJR detail|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START denial|JJ of|IN service|NN attacks|NNS are|VBP an|DT effective|JJ but|CC unsophisticated|VBN tool|NN that|IN doesnt|NN involve|VBP any|DT actual|JJ hacking|NN </s>|S_END
+<s>|S_START no|DT data|NN was|VBD stolen|VBN from|IN the|DT banks|NNS and|CC their|PRP$ transactional|JJ systems|NNS like|IN their|PRP$ atm|NN networks|NNS remained|VBD unaffected|VBN </s>|S_END
+<s>|S_START the|DT aim|NN of|IN the|DT attacks|NNS was|VBD simply|RB to|TO temporarily|RB knock|VB down|IN the|DT banks|NNS publicfacing|VBG websites|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO get|VB hold|JJ of|IN all|DT the|DT servers|NNS necessary|JJ to|TO launch|VB such|JJ huge|JJ attacks|NNS the|DT organizers|NNS needed|VBD to|TO plan|NN for|IN months|NNS alperovitch|VBP said|VBN </s>|S_END
+<s>|S_START the|DT servers|NNS had|VBD to|TO be|VB compromised|VBN and|CC linked|VBN together|RP into|IN a|DT network|NN called|VBN a|DT botnet|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT level|NN of|IN preplanning|VBG is|VBZ a|DT deviation|NN from|IN the|DT kinds|NNS of|IN denial|JJ of|IN service|NN attacks|NNS launched|VBD at|IN banks|NNS in|IN the|DT past|JJ by|IN socalled|JJ hacktivists|NNS </s>|S_END
+<s>|S_START typically|RB hacktivists|VBZ use|NN home|NN pcs|NNS infected|VBD with|IN malware|NN to|TO amass|NN their|PRP$ botnets|NNS </s>|S_END
+<s>|S_START attacks|NNS on|IN this|DT scale|NN would|MD be|VB impossible|JJ to|TO carry|VB out|RP with|IN home|NN pcs|NNS users|NNS too|RB frequently|RB turn|VB them|PRP off|IN or|CC disconnect|VB them|PRP from|IN the|DT internet|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT islamist|NN group|NN izz|NN addin|NN alqassam|NN cyber|NN fighters|NNS publicly|RB claimed|VBD responsibility|NN for|IN the|DT attacks|NNS in|IN what|WP it|PRP called|VBD operation|NN ababil|NN but|CC researchers|NNS are|VBP divided|VBN about|IN how|WRB seriously|RB to|TO take|VB their|PRP$ claims|NNS </s>|S_END
+<s>|S_START the|DT group|NN has|VBZ launched|VBN attacks|NNS in|IN the|DT past|JJ but|CC those|DT have|VBP been|VBN far|RB less|RBR coordinated|VBN than|IN the|DT recent|JJ batch|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sen|NN joe|NN lieberman|NN an|DT independent|JJ from|IN connecticut|NN said|VBD in|IN a|DT cspan|NN interview|NN on|IN wednesday|NN that|IN he|PRP believed|VBD the|DT attacks|NNS were|VBD launched|VBN by|IN iran|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP dont|VBP believe|VBP these|DT were|VBD just|RB hackers|NNS who|WP were|VBD skilled|VBN enough|JJ to|TO cause|VB disruption|NN of|IN the|DT websites|NNS he|PRP said|VBD </s>|S_END
+<s>|S_START i|PRP think|VBP this|DT was|VBD done|VBN by|IN iran|NN and|CC i|PRP believe|VBP it|PRP was|VBD a|DT response|NN to|TO the|DT increasingly|RB strong|JJ economic|JJ sanctions|NNS that|WDT the|DT united|VBD states|NNS and|CC our|PRP$ european|JJ allies|NNS have|VBP put|VBN on|IN iranian|JJ financial|JJ institutions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT call|NN requesting|VBG comment|NN from|IN the|DT department|NN of|IN homeland|NN securitys|NNS cybersecurity|NN office|NN was|VBD not|RB immediately|RB returned|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT cybersecurity|NN firm|NN following|VBG the|DT attacks|NNS also|RB expressed|VBD doubt|NN about|IN the|DT connections|NNS between|IN the|DT cyber|NN fighters|NNS and|CC the|DT bank|NN attacks|NNS </s>|S_END
+<s>|S_START on|IN social|JJ networks|NNS and|CC chat|IN forums|NNS the|DT group|NN urged|VBD its|PRP$ followers|NNS to|TO use|VB a|DT mobile|JJ low|JJ orbit|NN ion|NN cannon|NN a|DT software|NN tool|NN typically|RB used|VBN by|IN anonymous|JJ and|CC other|JJ hacktivist|NN groups|NNS to|TO direct|VB a|DT massive|JJ flood|NN of|IN traffic|JJ at|IN a|DT targeted|VBN site|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT tool|NN was|VBD not|RB used|VBN in|IN the|DT attack|NN according|VBG to|TO ronen|VB kenig|JJ director|NN of|IN security|NN products|NNS at|IN network|NN security|NN firm|NN radware|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START supporters|NNS of|IN this|DT group|NN didnt|NN join|NN in|IN the|DT attack|NN at|IN all|DT or|CC they|PRP joined|VBD in|IN but|CC didnt|NN use|NN that|WDT tool|NN said|VBD kenig|NN </s>|S_END
+<s>|S_START the|DT attack|NN used|VBD a|DT botnet|NN instead|RB </s>|S_END
+<s>|S_START he|PRP doesnt|VBD think|VBP the|DT cyber|NN fighters|NNS would|MD have|VB access|NN to|TO a|DT botnet|NN as|IN advanced|JJ as|IN the|DT one|CD used|JJ by|IN the|DT attackers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC crowdstrikes|VBZ alperovitch|NN said|VBD he|PRP is|VBZ quite|RB confident|JJ the|DT perpetrator|NN was|VBD the|DT izz|NN addin|NN alqassam|NN cyber|NN fighters|NNS since|IN they|PRP announced|VBD each|DT attack|NN well|RB before|IN it|PRP was|VBD carried|VBN out|RP and|CC the|DT attack|NN wasnt|NN that|WDT sophisticated|JJ it|PRP just|RB took|VBD significant|JJ planning|NN </s>|S_END
+<s>|S_START pnc|NN was|VBD the|DT last|JJ target|NN on|IN the|DT lists|NNS the|DT cyber|NN fighters|NNS have|VBP circulated|VBN but|CC more|RBR attacks|NNS could|MD still|RB be|VB coming|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT researchers|NNS agree|VBP that|IN the|DT controversial|JJ antimuslim|NN youtube|NN video|NN was|VBD not|RB the|DT initial|JJ impetus|NN for|IN the|DT attacks|NNS as|IN the|DT cyber|NN fighters|NNS claimed|VBD in|IN messages|NNS recruiting|VBG volunteers|NNS to|TO join|VB in|IN </s>|S_END
+<s>|S_START before|IN the|DT video|NN was|VBD even|RB released|VBN the|DT group|NN claimed|VBD responsibility|NN for|IN similar|JJ attacks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT video|NN is|VBZ simply|RB an|DT excuse|NN alperovitch|NN said|VBD </s>|S_END
+<s>|S_START its|PRP$ a|DT red|JJ herring|NN </s>|S_END
+</p>|P_END
+

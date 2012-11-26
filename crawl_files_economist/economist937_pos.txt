@@ -1,0 +1,48 @@
+<p>|P_START
+<s>|S_START when|WRB neil|NN armstrong|IN who|WP died|VBN on|IN august|JJ 25th|CD see|NN obituary|JJ took|NN his|PRP$ giant|JJ leap|NN for|IN mankind|NN he|PRP did|VBD so|RB from|IN eagle|JJ a|DT singleuse|NN craft|NN of|IN a|DT type|NN known|VBN as|IN a|DT lunar|NN excursion|NN module|NN </s>|S_END
+<s>|S_START eagle|NN whose|VBD job|NN was|VBD to|TO ferry|VB mr|NN armstrong|IN and|CC his|PRP$ copilot|NN buzz|NN aldrin|NN the|DT 100km|CD from|IN lunar|NN orbit|NN to|TO the|DT moon’s|NNS surface|NN and|CC back|RB weighed|VBD half|NN as|IN much|JJ as|IN the|DT command|NN and|CC service|NN module|NN that|WDT was|VBD waiting|VBG in|IN orbit|NN to|TO carry|VB them|PRP all|DT the|DT way|NN back|RB to|TO earth|VB a|DT journey|NN of|IN almost|RB 400000km|CD </s>|S_END
+<s>|S_START the|DT weight|NN of|IN the|DT lunar|NN module|NN on|IN top|JJ of|IN the|DT command|NN and|CC service|NN module|NN was|VBD the|DT main|JJ reason|NN why|WRB the|DT saturn|NN v|NN rockets|NNS that|WDT shot|NN apollo|VBP astronauts|NNS into|IN space|NN needed|VBN to|TO be|VB the|DT tallest|JJS heaviest|JJS and|CC most|JJS powerful|JJ ever|NN flown|NN a|DT record|NN they|PRP still|RB hold|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eagle|NN was|VBD also|RB a|DT crotchety|NN bird|NN </s>|S_END
+<s>|S_START it|PRP overshot|VBD the|DT planned|VBN landing|VBG site|JJ sounded|JJ several|JJ worrying|VBG alarms|NNS on|IN its|PRP$ flight|NN and|CC eventually|RB touched|VBD down|IN under|IN manual|JJ control|NN with|IN a|DT mere|JJ 25|CD seconds|NNS of|IN fuel|NN remaining|VBG </s>|S_END
+<s>|S_START how|WRB much|JJ cheaper|NN and|CC easier|JJR if|IN less|JJR dramatic|JJ it|PRP would|MD have|VB been|VBN if|IN mr|NN armstrong|IN and|CC mr|NN aldrin|NN could|MD simply|RB have|VB stepped|VBN into|IN a|DT lift|NN car|NN in|IN space|NN pressed|VBN m|NN for|IN moon|NN and|CC descended|VBD in|IN tranquillity|NN to|TO the|DT sea|NN of|IN that|DT name|NN </s>|S_END
+<s>|S_START at|IN the|DT 2012|CD space|NN elevator|NN conference|NN held|VBD in|IN seattle|NN from|IN august|JJ 25th|CD to|TO 27th|CD much|RB of|IN the|DT buzz|NN was|VBD around|IN just|RB such|JJ a|DT flight|NN of|IN fancy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT idea|NN of|IN a|DT space|NN lift|NN which|WDT goes|VBZ back|RB to|TO 1959|CD is|VBZ to|TO lower|JJR a|DT cable|JJ from|IN a|DT satellite|JJ in|IN orbit|NN around|IN a|DT planet|NN to|TO a|DT base|NN on|IN that|DT planet’s|JJ equator|NN </s>|S_END
+<s>|S_START to|TO do|VB this|DT the|DT satellite|NN would|MD need|VB to|TO be|VB in|IN a|DT synchronous|JJ orbit|NN one|CD whose|WP$ orbital|JJ period|NN is|VBZ the|DT same|JJ as|IN the|DT period|NN of|IN revolution|NN of|IN the|DT planet|NN underneath|NN and|CC the|DT descending|NN cable|NN would|MD have|VB to|TO be|VB counterbalanced|VBN by|IN an|DT ascending|VBG one|CD extending|VBG off|RP into|IN space|NN </s>|S_END
+<s>|S_START robotic|JJ cars|NNS would|MD then|RB whizz|VB up|RP and|CC down|IN the|DT descending|VBG cable|JJ providing|NN a|DT means|VBZ of|IN reaching|VBG orbit|NN that|IN does|VBZ not|RB rely|RB on|IN dangerous|JJ and|CC expensive|JJ rocket|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT challenge|NN of|IN building|NN such|JJ a|DT lift|NN on|IN earth|JJ is|VBZ immense|NN </s>|S_END
+<s>|S_START it|PRP would|MD have|VB to|TO be|VB made|VBN from|IN a|DT material|NN at|IN least|JJS ten|NNS times|NNS stronger|JJR than|IN any|DT available|JJ today|NN to|TO withstand|VB earth’s|JJ gravity|NN </s>|S_END
+<s>|S_START a|DT lunar|NN space|NN lift|NN by|IN contrast|NN would|MD have|VB only|RB the|DT moon’s|NNS weak|VBP gravity|NN to|TO contend|VB with|IN </s>|S_END
+<s>|S_START it|PRP could|MD thus|RB be|VB made|VBN from|IN existing|VBG material|NN </s>|S_END
+<s>|S_START dyneema|NN kevlar|NN m5|NNP spectra|NN and|CC zylon|NN all|DT now|RB used|VBN for|IN bulletproof|IN waistcoats|NNS have|VBP the|DT necessary|JJ strength|NN and|CC lightne|NN </s>|S_END
+<s>|S_START zylon|NN indeed|VBD has|VBZ already|RB been|VBN deployed|VBN on|IN a|DT space|NN mission|NN </s>|S_END
+<s>|S_START it|PRP provided|VBD the|DT tethers|NNS supporting|VBG nasa’s|NNS spirit|NN and|CC opportunity|NN rovers|NNS as|IN they|PRP dropped|VBD by|IN parachute|NN to|TO the|DT plains|NNS of|IN mar|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT conference|NN a|DT group|NN called|VBN liftport|NN announced|VBD it|PRP is|VBZ planning|VBG a|DT pilot|NN study|NN of|IN a|DT lunar|NN space|NN lift|NN </s>|S_END
+<s>|S_START it|PRP wants|VBZ to|TO build|VB a|DT robot|NN capable|JJ of|IN climbing|NN a|DT 2kmhigh|JJ ribbon|NN of|IN zylon|NN or|CC similar|JJ material|NN this|DT would|MD be|VB tethered|VBN to|TO helium|NN balloons|NNS rather|RB than|IN a|DT satellite|JJ in|IN order|NN to|TO test|NN how|WRB such|JJ a|DT cable|JJ responds|NNS to|TO stress|NN strain|NN and|CC sunlight|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START liftport’s|NNS leader|VBP michael|NN laine|NN thinks|NNS that|WDT eight|CD years|NNS and|CC $|$ 800m|CD would|MD be|VB sufficient|JJ to|TO construct|VB a|DT lift|NN capable|JJ of|IN carrying|NN a|DT 200kg|CD payload|NN to|TO and|CC from|IN the|DT moon|NN using|VBG solar|NN energy|NN to|TO run|VB the|DT motor|NN </s>|S_END
+<s>|S_START that|DT would|MD in|IN principle|NN enable|JJ someone|NN in|IN a|DT spacesuit|NN to|TO make|VB the|DT journey|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP he|PRP would|MD do|VB when|WRB he|PRP got|VBD there|RB of|IN course|NN is|VBZ moot|VBN </s>|S_END
+<s>|S_START but|CC space|NN adventures|NNS a|DT travel|NN company|NN that|WDT has|VBZ already|RB sent|VBN seven|CD tourists|NNS into|IN space|NN one|CD of|IN them|PRP twice|NN thinks|NNS there|EX is|VBZ a|DT market|NN for|IN lunar|NN flybys|NNS at|IN $|$ 150m|CD a|DT pop|NN </s>|S_END
+<s>|S_START actually|RB walking|VBG on|IN the|DT moon|NN would|MD surely|RB command|VB a|DT higher|JJR price|NN than|IN that|DT </s>|S_END
+<s>|S_START even|RB including|VBG launch|NN costs|NNS then|RB it|PRP might|MD require|VB only|RB a|DT dozen|NN or|CC so|RB adventurous|JJ billionaires|NNS to|TO make|VB the|DT venture|NN profitable|JJ </s>|S_END
+<s>|S_START whether|IN mr|NN laine’s|NNS lunar|NN lift|NN will|MD be|VB built|VBN before|IN london|NN has|VBZ a|DT new|JJ airport|NN is|VBZ questionable|JJ </s>|S_END
+<s>|S_START but|CC it|PRP might|MD </s>|S_END
+</p>|P_END
+

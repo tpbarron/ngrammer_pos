@@ -1,0 +1,86 @@
+<p>|P_START
+<s>|S_START rsa|NN executive|NN chairman|NN arthur|NN coviello|NN spoke|NN about|IN rsas|NNS massive|JJ data|NNS breach|VBP last|JJ year|NN in|IN his|PRP$ opening|NN keynote|NN at|IN rsas|NNS annual|JJ cybersecurity|NN conference|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START san|NN francisco|VBD cnnmoney|NN this|DT past|NN years|NNS wave|VBP of|IN highprofile|JJ extremely|RB sophisticated|JJ cyberattacks|NNS are|VBP a|DT watershed|JJ moment|NN for|IN the|DT security|NN field|NN according|VBG to|TO rsa|VB chief|NN arthur|NN coviello|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START people|NNS in|IN our|PRP$ line|NN of|IN work|NN have|VBP been|VBN going|VBG through|IN hell|NN in|IN the|DT past|JJ 12|CD months|NNS coviello|RB said|VBD during|IN his|PRP$ kickoff|NN keynote|NN for|IN rsas|NNS 2012|CD conference|NN one|CD of|IN the|DT largest|JJS annual|JJ gatherings|NNS of|IN us|PRP cybersecurity|NN professionals|NNS </s>|S_END
+<s>|S_START our|PRP$ networks|NNS will|MD be|VB penetrated|VBN </s>|S_END
+<s>|S_START we|PRP should|MD no|RB longer|RBR be|VB surprised|VBN by|IN this|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START coviello|NN was|VBD speaking|VBG from|IN personal|JJ experience|NN </s>|S_END
+<s>|S_START in|IN march|NN rsa|NN was|VBD among|IN the|DT victims|NNS of|IN a|DT massive|JJ cyberattack|NN that|WDT targeted|VBN hundreds|NNS of|IN major|JJ american|NN companies|NNS and|CC government|NN agencies|NNS </s>|S_END
+<s>|S_START the|DT attackers|NNS breached|VBD rsas|NNS systems|NNS and|CC made|VBD off|RP with|IN information|NN that|IN rsa|NN said|VBD could|MD reduce|VB the|DT effectiveness|NN of|IN its|PRP$ widely|RB used|JJ securid|NN authentication|NN system|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT hackers|NNS who|WP have|VBP not|RB yet|RB been|VBN publicly|RB identified|VBD then|RB used|VBN information|NN obtained|VBD from|IN rsa|NN to|TO mount|VB an|DT attack|NN on|IN defense|NN contractor|NN lockheed|VBD martin|NN lmt|NN fortune|NN 500|CD </s>|S_END
+<s>|S_START that|DT kind|NN of|IN painstaking|NN campaign|NN known|VBN in|IN the|DT industry|NN as|IN an|DT advanced|JJ persistent|NN threat|NN marks|VBZ an|DT escalation|NN in|IN the|DT cybersecurity|NN arms|NNS race|NN coviello|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START never|RB have|VBP the|DT attacks|NNS been|VBN as|RB targeted|VBN with|IN the|DT aim|NN of|IN breaching|VBG one|CD organization|NN as|IN a|DT stepping|NN stone|NN to|TO breaching|NN others|NNS he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START coviello|NN dealt|VBD quickly|RB with|IN the|DT elephant|JJ in|IN the|DT room|NN acknowledging|VBG rsas|NNS black|VBP eye|NN over|IN the|DT breach|NN one|CD of|IN the|DT largest|JJS in|IN terms|NNS of|IN the|DT number|NN of|IN clients|NNS put|VBN at|IN risk|NN through|IN a|DT vendors|NNS vulnerability|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START my|PRP$ colleagues|NNS and|CC i|PRP feel|VBP this|DT as|IN personally|RB as|IN everyone|NN in|IN this|DT room|NN he|PRP told|VBD the|DT crowd|NN of|IN thousands|NNS </s>|S_END
+<s>|S_START since|IN the|DT breach|NN weve|NN been|VBN dedicated|VBN to|TO regaining|NN and|CC maintaining|VBG your|PRP$ confidence|NN in|IN us|PRP </s>|S_END
+<s>|S_START we|PRP have|VBP a|DT sense|NN of|IN urgency|NN as|IN never|RB before|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC for|IN companies|NNS to|TO protect|VB their|PRP$ most|JJS critical|JJ systems|NNS they|PRP have|VBP to|TO fundamentally|RB overhaul|JJ their|PRP$ approach|NN according|VBG to|TO rsa|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START online|NN security|NN has|VBZ traditionally|RB been|VBN about|IN building|NN the|DT biggest|JJS fiercest|JJS defenses|NNS possible|JJ to|TO keep|VB attackers|NNS out|IN </s>|S_END
+<s>|S_START thats|NNS not|RB enough|RB </s>|S_END
+<s>|S_START now|RB you|PRP have|VBP to|TO assume|VB youve|JJ been|VBN compromised|VBN and|CC invest|JJS just|RB as|RB heavily|RB in|IN detection|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START less|JJR than|IN 5|CD of|IN cybersecurity|NN breaches|NNS are|VBP discovered|VBN within|IN hours|NNS according|VBG to|TO the|DT latest|JJS edition|NN of|IN verizons|NNS threat|IN report|NN the|DT industrys|NNS most|JJS comprehensive|JJ annual|JJ study|NN </s>|S_END
+<s>|S_START almost|RB 80|CD werent|NN found|VBD for|IN weeks|NNS or|CC months|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rsa|NN a|DT unit|NN of|IN emc|NN corp|NN emc|NN fortune|NN 500|CD is|VBZ practicing|VBG what|WP it|PRP now|RB preaches|VBZ </s>|S_END
+<s>|S_START the|DT breach|NN changed|VBD the|DT companys|NNS approach|VBP from|IN defend|NN to|TO defend|VB and|CC detect|VB rsa|NN chief|NN technology|NN officer|NN bret|NN hartman|NN told|VBD cnnmoney|NN in|IN an|DT earlier|JJR interview|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ a|DT shift|NN in|IN the|DT level|NN of|IN paranoia|NN to|TO assume|VB that|IN youre|NN always|RB in|IN a|DT state|NN of|IN partial|JJ compromise|NN hartman|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START companies|NNS have|VBP some|DT options|NNS for|IN adjusting|VBG to|TO that|DT reality|NN including|VBG deploying|NN a|DT new|JJ wave|NN of|IN monitoring|VBG tools|NNS aimed|VBN at|IN finding|NN breaches|NNS and|CC reconstructing|VBG the|DT data|NNS trail|VBP of|IN what|WP has|VBZ disappeared|VBN through|IN them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC they|PRP also|RB need|VBP to|TO change|VB how|WRB they|PRP approach|VBP the|DT new|JJ threat|NN landscape|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP need|VBP to|TO tap|VB more|JJR military|JJ experience|NN and|CC military|JJ intelligence|NN experience|NN coviello|NN said|VBD </s>|S_END
+<s>|S_START the|DT new|JJ breed|NN of|IN analysts|NNS im|VBP talking|VBG about|IN need|NN to|TO be|VB offensive|JJ in|IN their|PRP$ mindset|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP said|VBD that|IN level|NN of|IN expertise|NN is|VBZ needed|VBN to|TO counter|VB the|DT mounting|NN attacks|NNS from|IN criminals|NNS hacktivists|NNS and|CC irresponsible|JJ nation|NN states|NNS a|DT direct|JJ dig|NN at|IN china|NN which|WDT security|NN researchers|NNS view|NN as|IN one|CD of|IN the|DT largest|JJS and|CC most|JJS potent|JJ cyberespionage|NN threats|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT reality|NN today|NN is|VBZ that|IN we|PRP are|VBP in|IN a|DT race|NN with|IN our|PRP$ adversaries|NNS coviello|VBP said|VBN </s>|S_END
+<s>|S_START and|CC right|VBD now|RB more|JJR often|RB than|IN not|RB they|PRP are|VBP winning|VBG </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

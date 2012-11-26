@@ -1,0 +1,132 @@
+<p>|P_START
+<s>|S_START in|IN 1962|CD as|IN britain|NN pulled|VBD slowly|RB out|IN of|IN recession|NN harold|NN macmillan|NN told|VBD an|DT audience|NN that|WDT he|PRP was|VBD determined|VBN to|TO “prevent|JJ two|CD nations|NNS developing|VBG geographically|RB a|DT poor|JJ north|NN and|CC a|DT rich|JJ and|CC overcrowded|VBD south”|JJ </s>|S_END
+<s>|S_START the|DT price|NN of|IN failure|NN the|DT conservative|JJ prime|NN minister|NN said|VBD would|MD be|VB that|IN “our|JJ successors|NNS will|MD reproach|VB us|PRP as|IN we|PRP reproach|VBP the|DT victorians|NNS for|IN complacency|NN about|IN slums|NNS and|CC ugliness”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN macmillan|NN has|VBZ escaped|VBN reproach|NN it|PRP is|VBZ not|RB because|IN he|PRP succeeded|VBD but|CC because|IN the|DT task|NN was|VBD so|RB hopele|JJ </s>|S_END
+<s>|S_START the|DT north’s|JJ industrial|JJ economy|NN had|VBD begun|VBN to|TO crumble|JJ after|IN the|DT first|JJ world|NN war|NN subsequent|NN wars|NNS and|CC government|NN policy|NN slowed|VBD the|DT decline|NN but|CC could|MD not|RB stop|VB it|PRP </s>|S_END
+<s>|S_START between|IN 1918|CD and|CC 1962|CD the|DT proportion|NN of|IN the|DT population|NN living|VBG in|IN england’s|JJ three|CD northern|JJ regions|NNS the|DT north|JJ east|NN north|NN west|NN and|CC yorkshire|NN and|CC the|DT humber|NN declined|VBD from|IN 35|CD to|TO 30|CD reversing|VBG the|DT northward|NN migration|NN of|IN the|DT 19th|JJ century|NN </s>|S_END
+<s>|S_START in|IN the|DT 50|CD years|NNS since|IN it|PRP has|VBZ declined|VBN to|TO 25|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN macmillan’s|JJ successors|NNS including|VBG david|NN cameron|NN another|DT etoneducated|VBN tory|NN with|IN onenation|NN ideals|NNS the|DT challenge|NN is|VBZ just|RB as|IN tough|JJ </s>|S_END
+<s>|S_START the|DT north|JJ remains|NNS poorer|NN than|IN the|DT south|NN with|IN sharply|RB lower|JJR employment|NN rates|NNS and|CC average|JJ income|NN </s>|S_END
+<s>|S_START in|IN 1965|CD men|NNS in|IN the|DT north|JJ were|VBD 16|CD more|JJR likely|JJ to|TO die|VB under|IN the|DT age|NN of|IN 75|CD than|IN men|NNS in|IN the|DT south|NN </s>|S_END
+<s>|S_START by|IN 2008|CD they|PRP were|VBD 20|CD more|JJR likely|JJ to|TO according|VBG to|TO a|DT study|NN published|VBN last|JJ year|NN in|IN the|DT british|JJ medical|JJ journal|JJ </s>|S_END
+<s>|S_START this|DT is|VBZ not|RB just|RB because|IN poor|JJ people|NNS die|VB young|JJ rich|NN northerners|NNS apparently|RB live|JJ shorter|NN lives|NNS than|IN their|PRP$ southern|NN peer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC yet|RB england’s|JJ north|NN has|VBZ never|RB been|VBN as|IN uniformly|RB grim|JJ as|IN sentimental|JJ films|NNS like|IN “billy|RB elliot”|JJ “brassed|JJ off”|NN and|CC “the|NNP full|JJ monty”|NN suggest|NN </s>|S_END
+<s>|S_START it|PRP contains|VBZ poor|JJ exindustrial|JJ cities|NNS like|IN bradford|NN and|CC middlesbrough|IN and|CC depressed|VBN towns|NNS like|IN consett|NN near|IN newcastle|NN </s>|S_END
+<s>|S_START but|CC there|EX are|VBP also|RB impressively|RB wealthy|JJ parts|NNS such|JJ as|IN sheffield|NN hallam|NN where|WRB 60|CD of|IN the|DT residents|NNS have|VBP degrees|NNS and|CC york|NN where|WRB the|DT unemployment|NN rate|NN is|VBZ a|DT quarter|NN lower|JJR than|IN the|DT national|JJ average|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN danny|JJ dorling|NN of|IN the|DT university|NN of|IN sheffield|NN puts|NNS it|PRP the|DT difference|NN is|VBZ that|IN in|IN the|DT north|JJ there|EX are|VBP “islands|NNS of|IN affluence|NN in|IN a|DT sea|NN of|IN poverty”|JJ </s>|S_END
+<s>|S_START in|IN the|DT south|NN the|DT sea|NN is|VBZ of|IN affluence|NN </s>|S_END
+<s>|S_START and|CC the|DT contrast|NN is|VBZ growing|VBG </s>|S_END
+<s>|S_START for|IN much|RB of|IN the|DT past|JJ 20|CD years|NNS growth|NN in|IN the|DT british|JJ economy|NN has|VBZ come|VBN from|IN two|CD sectors|NNS government|NN spending|NN primarily|RB on|IN health|NN care|NN and|CC education|NN and|CC the|DT private|JJ service|NN sector|NN </s>|S_END
+<s>|S_START the|DT north|JJ has|VBZ benefited|VBN only|RB from|IN the|DT first|JJ and|CC it|PRP is|VBZ ebbing|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whereas|IN government|NN spending|NN is|VBZ spread|VBN fairly|RB evenly|RB across|IN the|DT country—nurses|NNS and|CC teachers|NNS are|VBP needed|VBN roughly|RB in|IN proportion|NN to|TO the|DT population—privatesector|NN growth|NN has|VBZ been|VBN heavily|RB concentrated|VBN mostly|RB in|IN and|CC around|IN london|NN </s>|S_END
+<s>|S_START between|IN 1997|CD and|CC 2010|CD gross|NNS valueadded|VBD a|DT measure|NN of|IN output|NN grew|VBD by|IN 61|CD in|IN the|DT three|CD northern|JJ region|NN </s>|S_END
+<s>|S_START in|IN london|NN and|CC the|DT south|NN east|NN it|PRP shot|VBD up|RP by|IN 92|CD see|NN map|NN </s>|S_END
+<s>|S_START according|VBG to|TO a|DT study|NN by|IN the|DT centre|NN for|IN research|NN on|IN sociocultural|JJ change|NN at|IN the|DT university|NN of|IN manchester|NN the|DT state|NN accounted|VBD directly|RB and|CC indirectly|RB for|IN 64|CD of|IN the|DT jobs|NNS created|VBD in|IN the|DT north|JJ between|IN 1998|CD and|CC 2007|CD against|IN just|RB 38|CD in|IN the|DT south|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START now|RB public|JJ spending|NN is|VBZ being|VBG cut|VBN everywhere|RB as|IN the|DT government|NN tries|NNS to|TO tackle|VB a|DT huge|JJ budget|NN deficit|NN </s>|S_END
+<s>|S_START that|DT would|MD be|VB expected|VBN to|TO hurt|VB the|DT north|JJ more|JJR anyway|NN but|CC the|DT cuts|NNS are|VBP actually|RB sharper|JJR there|EX in|IN three|CD way|NN </s>|S_END
+<s>|S_START first|JJ the|DT government|NN has|VBZ cut|VBN funding|NN for|IN the|DT regional|JJ development|NN agencies|NNS which|WDT doled|VBN out|RP cash|NN to|TO support|VB growth|NN in|IN northern|JJ region|NN </s>|S_END
+<s>|S_START econd|NN under|IN the|DT formulae|NN used|VBD to|TO determined|VBN local|JJ government|NN financing|VBG cuts|NNS to|TO council|VB budgets|NNS are|VBP deeper|JJ in|IN poorer|NN places—which|JJ includes|NNS most|JJS northern|JJ local|JJ authoritie|NN </s>|S_END
+<s>|S_START finally|RB although|IN infrastructure|NN spending|NN has|VBZ been|VBN cut|VBN everywhere|RB in|IN the|DT south|NN several|JJ large|JJ projects|NNS have|VBP been|VBN left|VBN intact|NN including|VBG crossrail|NN thameslink|NN and|CC the|DT olympic|JJ game|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT institute|NN for|IN fiscal|JJ studies|NNS a|DT thinktank|NN estimates|VBZ that|IN local|JJ authorities|NNS in|IN the|DT north|JJ east|NN and|CC north|JJ west|NN must|MD cut|VB their|PRP$ spending|NN by|IN around|IN 12|CD compared|VBN with|IN just|RB 46|CD in|IN the|DT south|NN east|NN </s>|S_END
+<s>|S_START ippr|NN another|DT thinktank|NN estimates|VBZ that|IN 86|CD of|IN the|DT government’s|JJ spending|NN on|IN big|JJ transport|NN projects|NNS is|VBZ in|IN london|NN </s>|S_END
+<s>|S_START the|DT big|JJ infrastructure|NN debate|NN at|IN the|DT moment|NN is|VBZ over|IN whether|IN it|PRP would|MD be|VB better|JJR to|TO expand|VB london’s|JJ heathrow|NN airport|NN or|CC build|VB an|DT entirely|RB new|JJ airport|NN in|IN the|DT southeast|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT private|JJ sector|NN has|VBZ not|RB yet|RB come|VBN close|RB to|TO filling|VBG the|DT gap|NN left|VBD by|IN the|DT retreating|VBG state|NN </s>|S_END
+<s>|S_START in|IN the|DT north|JJ east|NN where|WRB the|DT publicsector|NN is|VBZ proportionately|RB the|DT largest|JJS see|NN chart|NN and|CC has|VBZ shrunk|NN fastest|JJS the|DT unemployment|NN rate|NN has|VBZ risen|VBN by|IN 12|CD percentage|NN points|NNS over|IN the|DT past|JJ two|CD year|NN </s>|S_END
+<s>|S_START in|IN the|DT north|JJ west|NN and|CC in|IN yorkshire|NN and|CC the|DT humber|NN it|PRP has|VBZ risen|VBN by|IN 09|CD point|NN </s>|S_END
+<s>|S_START in|IN the|DT south|NN east|NN by|IN contrast|NN unemployment|NN is|VBZ almost|RB unchanged|JJ while|IN in|IN london|NN it|PRP has|VBZ actually|RB fallen|VBN by|IN 03|CD point|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT conservative|JJ party|NN is|VBZ retreating|VBG in|IN the|DT north|JJ too|RB </s>|S_END
+<s>|S_START its|PRP$ problem|NN is|VBZ not|RB just|RB that|WDT northern|JJ seats|NNS tend|VBP to|TO be|VB poorer|NN and|CC thus|RB more|RBR likely|JJ to|TO vote|VB labour|PRP$ </s>|S_END
+<s>|S_START broad|JJ mistrust|NN of|IN the|DT tories|NNS cemented|VBD during|IN the|DT 1980s|CD recession|NN means|VBZ middleclass|NN voters|NNS in|IN the|DT north|JJ are|VBP actually|RB more|RBR likely|JJ to|TO vote|VB labour|PRP$ than|IN are|VBP workingclass|NNS voters|NNS in|IN the|DT south|NN </s>|S_END
+<s>|S_START policy|NN exchange|NN a|DT thinktank|NN points|NNS out|IN that|DT conservatives|VBZ held|VBN twofifths|NNS of|IN northern|JJ seats|NNS in|IN 1951|CD </s>|S_END
+<s>|S_START they|PRP now|RB hold|VBP less|JJR than|IN a|DT third|JJ mostly|RB in|IN rural|JJ area|NN </s>|S_END
+<s>|S_START in|IN the|DT cities|NNS and|CC in|IN formercoal|NN mining|NN areas|NNS the|DT party|NN is|VBZ all|DT but|CC invisible|JJ </s>|S_END
+<s>|S_START in|IN july|RB the|DT sheffield|NN conservative|JJ party|NN was|VBD forced|VBN to|TO relocate|VB to|TO nearby|VB rotherham|NN as|IN it|PRP is|VBZ so|RB short|JJ of|IN cash|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT worries|NNS mps|VBZ and|CC strategists|NNS who|WP know|RB that|IN the|DT tories|NNS can|MD not|RB secure|VB a|DT parliamentary|JJ majority|NN in|IN 2015|CD without|IN winning|JJ more|JJR seats|NNS in|IN the|DT north|JJ and|CC midland|NN </s>|S_END
+<s>|S_START northern|NN mps|NNS argue|VBP that|IN the|DT problem|NN is|VBZ partly|RB one|CD of|IN image|NN their|PRP$ party|NN is|VBZ seen|VBN as|IN too|RB southern|JJ and|CC wealthy|JJ and|CC tarred|VBD by|IN its|PRP$ history|NN </s>|S_END
+<s>|S_START but|CC present|VBD policy|NN is|VBZ a|DT concern|NN too|RB </s>|S_END
+<s>|S_START almost|RB all|DT northern|JJ mps|NNS object|VBP to|TO ideas|NNS floated|VBN by|IN george|NN osborne|NN the|DT chancellor|NN of|IN the|DT exchequer|NN and|CC championed|VBD by|IN southern|NN tory|NN mps|NNS in|IN safe|NN seats|NNS to|TO “localise”|NNP publicsector|NN pay|NN according|VBG to|TO living|VBG costs|NNS an|DT idea|NN which|WDT in|IN practice|NN would|MD mean|VB hefty|JJ pay|NN cuts|NNS for|IN publicsector|NN workers|NNS in|IN much|JJ of|IN the|DT north|JJ </s>|S_END
+<s>|S_START everal|JJ are|VBP also|RB nervous|JJ that|IN a|DT planned|VBN highspeed|VBN railway|NN link|NN between|IN london|NN and|CC several|JJ northern|JJ cities|NNS may|MD be|VB scaled|VBN back|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN osborne|NN who|WP represents|NNS a|DT seat|NN in|IN cheshire|NN is|VBZ not|RB deaf|JJ to|TO such|JJ concern|NN </s>|S_END
+<s>|S_START he|PRP has|VBZ pledged|VBN to|TO “rebalance”|NNP the|DT economy|NN away|RB from|IN the|DT financial|JJ sector|NN and|CC the|DT overcrowded|JJ southeast|NN corner|NN of|IN england|NN </s>|S_END
+<s>|S_START in|IN a|DT speech|NN to|TO manufacturers|NNS in|IN march|NN he|PRP argued|VBD that|IN britain|NN has|VBZ become|VBN too|RB dependent|JJ on|IN the|DT city|NN of|IN london|NN </s>|S_END
+<s>|S_START the|DT chancellor|NN wants|VBZ growth|NN to|TO come|VB from|IN an|DT exportoriented|JJ manufacturing|NN renaissance—which|JJ ought|NN to|TO benefit|VB the|DT north|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT nissan|NN car|NN factory|NN near|IN sunderland|NN in|IN the|DT north|JJ east|NN this|DT strategy|NN seems|VBZ to|TO be|VB working|VBG </s>|S_END
+<s>|S_START pop|NN music|NN blares|NNS from|IN overhead|JJ speakers|NNS as|IN forklift|NN trucks|NNS rush|VBP around|IN with|IN component|NN </s>|S_END
+<s>|S_START the|DT factory’s|JJ workers|NNS are|VBP mostly|RB workingclass|JJ schoolleavers—but|NN they|PRP are|VBP wellpaid|VBN and|CC highly|RB trained|VBN and|CC use|VB the|DT most|JJS advanced|JJ technology|NN </s>|S_END
+<s>|S_START the|DT factory|NN employs|VBZ 5700|CD people|NNS to|TO produce|VB around|IN 500000|CD cars|NNS per|IN year|NN mostly|RB the|DT popular|JJ qashqai|NN and|CC production|NN is|VBZ expanding|VBG </s>|S_END
+<s>|S_START partly|RB as|IN a|DT result|NN britain|NN exported|VBD more|JJR cars|NNS than|IN it|PRP imported|VBD earlier|JJR this|DT year|NN for|IN the|DT first|JJ time|NN since|IN 1976|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT chancellor’s|NNS idea|NN is|VBZ based|VBN on|IN a|DT myth—that|JJ the|DT north|JJ still|RB depends|VBZ on|IN manufacturing|NN </s>|S_END
+<s>|S_START in|IN fact|NN making|VBG stuff|NN only|RB accounts|VBZ for|IN 97|CD of|IN employment|NN in|IN the|DT three|CD northern|JJ regions|NNS barely|RB higher|JJR than|IN the|DT national|JJ average|NN </s>|S_END
+<s>|S_START as|IN kevin|NN fitzpatrick|NN nissan’s|NNS manufacturing|VBG vice|NN president|NN in|IN britain|NN points|NNS out|IN the|DT price|NN of|IN cars|NNS “never|JJ goes|NNS up|IN so|RB we|PRP have|VBP to|TO get|VB more|JJR efficient”|JJ </s>|S_END
+<s>|S_START nissan’s|NNS expansion|NN is|VBZ possible|JJ precisely|RB because|IN the|DT firm|NN is|VBZ so|RB good|JJ at|IN producing|VBG lots|NNS of|IN cars|NNS with|IN comparatively|RB few|JJ worker|NN </s>|S_END
+<s>|S_START between|IN june|NN 2010|CD and|CC june|NN 2012|CD employment|NN in|IN manufacturing|NN in|IN the|DT north|JJ east|NN declined|VBD by|IN 6|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START londons|NNS of|IN the|DT north|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT better|JJR plan|NN perhaps|RB is|VBZ to|TO persuade|VB more|JJR professional|JJ types|NNS to|TO move|VB northward|NN bringing|VBG their|PRP$ jobs|NNS with|IN them|PRP </s>|S_END
+<s>|S_START many|JJ northern|JJ cities|NNS including|VBG middlesbrough|IN and|CC huddersfield|NN have|VBP been|VBN smartened|VBN up|RP with|IN bright|JJ new|JJ universities|NNS but|CC the|DT flow|NN of|IN graduates|NNS is|VBZ still|RB strongly|RB southward|IN </s>|S_END
+<s>|S_START according|VBG to|TO research|NN by|IN prospects|NNS a|DT governmentsponsored|JJ careers|NNS service|NN 45|CD of|IN graduates|NNS resident|VBP in|IN london|NN come|NN from|IN elsewhere|RB in|IN the|DT country|NN </s>|S_END
+<s>|S_START in|IN the|DT north|JJ east|NN only|RB 23|CD do|VBP </s>|S_END
+<s>|S_START as|IN a|DT result|NN between|IN 1995|CD and|CC 2008|CD though|IN the|DT absolute|NN number|NN of|IN graduates|NNS increased|VBN everywhere|RB only|RB london|RB successfully|RB increased|VBN its|PRP$ share|NN as|IN a|DT proportion|NN of|IN the|DT total|JJ according|VBG to|TO research|NN by|IN the|DT centre|NN for|IN cities|NNS a|DT thinktank|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN that|DT could|MD be|VB reversed|VBN growth|NN would|MD follow|VB </s>|S_END
+<s>|S_START it|PRP is|VBZ already|RB happening|VBG somewhat|RB in|IN manchester|NN and|CC leeds|NNS where|WRB an|DT influx|NN of|IN yuppies|NNS has|VBZ helped|VBN regenerate|JJ the|DT city|NN centre|NN </s>|S_END
+<s>|S_START local|JJ worthies|NNS rave|VBP about|IN the|DT economic|JJ boost|NN provided|VBN by|IN the|DT university|NN of|IN manchester|NN which|WDT has|VBZ almost|RB doubled|VBN in|IN size|NN since|IN 2004|CD when|WRB two|CD older|JJR institutions|NNS merged|VBD </s>|S_END
+<s>|S_START in|IN 2010|CD two|CD scientists|NNS at|IN the|DT university|NN won|VBD a|DT nobel|NN prize|NN for|IN their|PRP$ work|NN on|IN graphene|NN a|DT material|NN which|WDT could|MD one|CD day|NN replace|NN silicon|NN in|IN computer|NN chip|NN </s>|S_END
+<s>|S_START in|IN leeds|NNS the|DT names|NNS of|IN multinational|JJ companies’|NN offices|NNS loom|VBP from|IN buildings|NNS above|IN a|DT bright|JJ new|JJ shopping|NN centre|NN half|NN way|NN through|IN construction|NN </s>|S_END
+<s>|S_START this|DT government|NN is|VBZ quietly|RB moving|VBG from|IN trying|VBG to|TO revive|VB regions|NNS labour’s|-NONE- preoccupation|NN to|TO boosting|NN cities|NNS and|CC their|PRP$ hinterland|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP may|MD be|VB right|RB </s>|S_END
+<s>|S_START in|IN the|DT mid19th|NNP century|NN the|DT big|JJ northern|NN cities|NNS sought|VBD to|TO compete|VB with|IN london|NN erecting|VBG municipal|JJ temples|NNS of|IN red|VBN brick|NN and|CC marble|JJ </s>|S_END
+<s>|S_START that|DT ambition|NN burns|VBZ still|RB </s>|S_END
+<s>|S_START but|CC they|PRP have|VBP a|DT long|JJ way|NN to|TO go|VB and|CC it|PRP is|VBZ unlikely|RB that|IN the|DT government|NN will|MD be|VB able|JJ to|TO help|VB much|JJ </s>|S_END
+<s>|S_START david|VBD cameron|VBN like|IN his|PRP$ onenation|NN hero|NN macmillan|NN appears|VBZ fated|VBN to|TO watch|VB england|NN continue|VB its|PRP$ slow|JJ separation|NN into|IN two|CD distinct|JJ countrie|NN </s>|S_END
+</p>|P_END
+

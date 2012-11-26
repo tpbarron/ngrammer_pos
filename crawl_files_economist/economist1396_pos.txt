@@ -1,0 +1,40 @@
+<p>|P_START
+<s>|S_START telegraph|NN avenue|NN </s>|S_END
+<s>|S_START by|IN michael|NN chabon|NN </s>|S_END
+<s>|S_START harper|NN 468|CD pages|NNS $|$ 2799|CD </s>|S_END
+<s>|S_START fourth|JJ estate|NN £1899|-NONE- </s>|S_END
+<s>|S_START buy|NN from|IN amazoncom|NN amazoncouk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START readers|NNS of|IN michael|NN chabon|NN a|DT pulitzer|NN prizewinning|VBG american|JJ writer|NN will|MD be|VB familiar|JJ with|IN the|DT intricate|JJ plotting|NN of|IN his|PRP$ novel|NN </s>|S_END
+<s>|S_START “telegraph|JJ avenue”|NN his|PRP$ seventh|NN tries|NNS to|TO weave|VB the|DT stories|NNS of|IN nearly|RB a|DT dozen|NN different|NN characters|NNS into|IN a|DT cogent|NN narrative|NN </s>|S_END
+<s>|S_START archy|NN stallings|NNS and|CC nat|VB jaffe|NN own|VB a|DT failing|VBG record|NN shop|NN their|PRP$ wives|NNS gwen|VBP and|CC aviva|NN are|VBP midwives|NNS who|WP specialise|RB in|IN home|NN birth|NN </s>|S_END
+<s>|S_START the|DT main|JJ character|NN of|IN the|DT book|NN however|RB is|VBZ the|DT “telegraph|JJ avenue”|NN of|IN the|DT title|NN a|DT four|CD and|CC a|DT half|NN mile|NN 7km|CD street|NN bordering|VBG oakland|NN and|CC berkeley|NN and|CC the|DT point|NN at|IN which|WDT mr|NN chabon|NN sees|NNS the|DT intersection|NN of|IN black|JJ and|CC white|NN californian|NN society|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START two|CD families|NNS one|CD black|JJ and|CC one|CD white|JJ are|VBP at|IN the|DT centre|NN of|IN this|DT story|NN </s>|S_END
+<s>|S_START archy’s|NNS main|VBP problem|NN is|VBZ his|PRP$ wayward|NN father|NN luther|NN stallings|NNS a|DT faded|JJ star|NN of|IN the|DT “blaxploitation”|JJ era|NN whereas|NNS his|PRP$ wife|NN gwen’s|-NONE- professional|JJ partnership|NN with|IN the|DT white|JJ aviva|NN is|VBZ tested|VBN by|IN a|DT racially|RB aggravated|VBN legal|JJ case|NN against|IN their|PRP$ midwifery|NN busine|NN </s>|S_END
+<s>|S_START a|DT further|JJ complication|NN is|VBZ the|DT gay|NN interracial|NN relationship|NN between|IN archy|JJ and|CC nat’s|JJ adolescent|NN son|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN chabon’s|NNS weaker|NN secondary|JJ theme|NN concerns|NNS the|DT arrival|NN of|IN big|JJ business|NN in|IN the|DT berkeley|NN suburb|NN </s>|S_END
+<s>|S_START “brokeland|JJ records”|NN archy|NN and|CC nat’s|NNP vinyl|NN record|NN shop|NN is|VBZ threatened|VBN by|IN a|DT business|NN mogul|NN the|DT fifthrichest|JJS black|JJ man|NN in|IN america|NN who|WP plans|NNS to|TO open|VB a|DT music|NN megastore|NN just|RB down|IN the|DT road|NN </s>|S_END
+<s>|S_START the|DT friendship|NN begins|VBZ to|TO crack|VB along|IN racial|JJ line|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT book|NN aims|VBZ to|TO be|VB “a|JJ californian|NN middlemarch|NN set|NN to|TO the|DT funky|NN beat|NN of|IN classic|JJ vinyl|NN souljazz”|NN </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ more|RBR like|IN a|DT confused|JJ soap|NN opera|NN overcrowded|VBD with|IN characters|NNS and|CC suffering|NN from|IN the|DT constant|JJ desire|NN to|TO prove|VB itself|PRP au|VB fait|NN with|IN its|PRP$ cool|NN surrounding|VBG </s>|S_END
+<s>|S_START archy|NN is|VBZ introduced|VBN as|RB “moonfaced|JJ mountainous”|NN and|CC “moderately|JJ stoned”|NN at|IN the|DT front|NN desk|NN of|IN his|PRP$ record|NN shop|NN while|IN gwen|NN and|CC aviva|NN the|DT “berkeley|JJ birth|NN partners”|NN are|VBP repeatedly|RB dubbed|VBN “baby|JJ catchers”|NN in|IN the|DT novel’s|JJ interminable|JJ slang|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START overwriting|VBG is|VBZ a|DT problem|NN throughout|IN </s>|S_END
+<s>|S_START mr|NN chabon|NN has|VBZ a|DT liking|NN for|IN metaphors|NNS and|CC cliché|JJ he|PRP describes|VBZ the|DT “hot|JJ smell”|NN of|IN childbirth|JJ as|IN somewhere|JJ “between|JJ sex|NN and|CC butchery”|NNP and|CC a|DT greyhound|NN station|NN as|IN looming|VBG “like|JJ a|DT promise|NN of|IN adventure”|NNP </s>|S_END
+<s>|S_START much|RB of|IN his|PRP$ more|JJR successful|JJ work|NN has|VBZ been|VBN pseudohistorical|JJ fiction|NN set|NN in|IN the|DT first|JJ half|DT of|IN the|DT 20th|JJ century|NN and|CC involving|VBG meticulous|JJ research|NN </s>|S_END
+<s>|S_START “telegraph|JJ avenue”|NN reveals|NNS mr|VBP chabon|NN to|TO be|VB less|JJR at|IN home|NN in|IN the|DT present—and|JJ with|IN his|PRP$ own|JJ imagination|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,62 @@
+<p>|P_START
+<s>|S_START click|NN the|DT chart|NN to|TO track|VB shares|NNS of|IN sina|NN corp|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sina|NN corp|NN which|WDT operates|VBZ chinas|VBZ twitterlike|IN microblogging|VBG site|JJ weibo|NN posted|VBD a|DT surprise|NN secondquarter|NN profit|NN of|IN $|$ 332|CD million|CD more|JJR than|IN triple|JJ the|DT amount|NN a|DT year|NN ago|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT results|NNS which|WDT included|VBD an|DT 11|CD jump|NN in|IN revenue|NN blew|NN investors|NNS away|RB since|IN analysts|NNS had|VBD predicted|VBN that|IN the|DT company|NN would|MD post|VB a|DT slim|NN loss|NN for|IN the|DT quarter|NN </s>|S_END
+<s>|S_START shares|NNS of|IN sina|NN sina|NN surged|VBD 14|CD to|TO their|PRP$ highest|JJS level|NN since|IN may|MD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sinas|NNS ceo|VBP charles|NNS chao|IN noted|VBN that|IN weibo|NN which|WDT is|VBZ likened|VBN to|TO twitter|VB is|VBZ continuing|VBG to|TO gain|VB momentum|NN which|WDT helps|NNS it|PRP grow|VBP market|NN share|NN in|IN online|NN advertising|NN </s>|S_END
+<s>|S_START the|DT companys|NNS online|VBP advertising|NN revenues|NNS rose|VBD 12|CD during|IN the|DT second|JJ quarter|NN which|WDT chao|NN said|VBD he|PRP was|VBD pleased|VBN with|IN in|IN the|DT face|NN of|IN chinas|NNS challenging|VBG macroeconomic|JJ environment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN most|JJS users|NNS of|IN stocktwits|NNS are|VBP microblogging|VBG about|IN their|PRP$ pleasant|JJ surprise|NN over|IN sinas|NNS results|NNS but|CC not|RB on|IN weibo|NN a|DT few|JJ are|VBP more|RBR wary|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lamonicabuzz twitter|JJ isnt|NN public|JJ yet|NN </s>|S_END
+<s>|S_START but|CC chinas|VBD twitter|NN is |-NONE- $|$ sina|NN parent|NN company|NN of|IN weibo|NN up|IN more|JJR than|IN 11|CD on|IN better|JJR than|IN expected|VBN earnings|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bigjm |NN $|$ sina brand|JJ ads|NNS to|TO grow|VB 1921|CD yoy|NN boom|NN weibo|NN doesnt|NN really|RB matter|NN how|WRB it|PRP trades|VBZ fundamentals|NNS will|MD win|VB out|RP lt|NN here|RB and|CC they|PRP look|VBP good|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START niubi 368m|NN registered|VBD weibo|NN accounts|NNS at|IN june|NN 30|CD vs|NNS 324m|CD march|NN 30|CD </s>|S_END
+<s>|S_START 365m|CD daily|JJ active|JJ users|NNS </s>|S_END
+<s>|S_START 69|CD use|NN mobile|NN to|TO access|NN june|NN 30|CD 64|CD march|NN 30 |CD $|$ sina|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN growth|NN among|IN mobile|JJ users|NNS is|VBZ a|DT good|JJ thing|NN sina|NN is|VBZ struggling|VBG with|IN its|PRP$ mobile|JJ advertising|NN strategy|NN just|RB like|IN fellow|JJ social|JJ media|NNS site|JJ facebook|NN fb|NN </s>|S_END
+<s>|S_START revenue|NN from|IN mobile|JJ advertising|NN declined|VBD more|JJR than|IN 9|CD during|IN the|DT quarter|NN compared|VBN to|TO a|DT year|NN ago|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START kevinzhang |NN $|$ sina i|NNP think|VBP er|NN is|VBZ good|JJ however|NN china|NN economy|NN right|RB now|RB is|VBZ little|RB fuzzy|JJ just|RB be|VB aware|JJ of|IN </s>|S_END
+<s>|S_START i|PRP wont|VBP touch|JJ chinese|NN stocks|NNS anymore|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS a|DT valid|JJ point|NN </s>|S_END
+<s>|S_START china|NN is|VBZ growing|VBG at|IN its|PRP$ slowest|NN pace|NN since|IN the|DT recession|NN </s>|S_END
+<s>|S_START it|PRP grew 76|-NONE- in|IN the|DT second|JJ quarter|NN marking|VBG a|DT deceleration|NN from|IN an|DT 81|CD growth|NN rate|NN in|IN the|DT prior|NN quarter|NN and|CC the|DT slowest|NN growth|NN since|IN early|JJ 2009|CD </s>|S_END
+<s>|S_START while|IN that|DT may|MD not|RB affect|VB the|DT number|NN of|IN users|NNS on|IN weibocom|NN it|PRP could|MD impact|VB advertising|NN revenue|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START arnuminous |NN $|$ sina still|JJ climbing |NN $|$ bidu looks|NNS like|IN it|PRP wants|VBZ to|TO follow|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fellow|JJ chinese|NN internet|NN companies|NNS bauidu|VBP bidu|NN chinas|NNS google|VBP and|CC sinas|NNS rvial|JJ sohu|NN sohu|NN also|RB rose|VBD sharply|RB </s>|S_END
+</p>|P_END
+

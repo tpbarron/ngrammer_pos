@@ -1,0 +1,119 @@
+<p>|P_START
+<s>|S_START senate|NN majority|NN leader|NN harry|NN reid|VBD and|CC house|NN speaker|NN john|NN boehner|NN reached|VBD a|DT deal|NN to|TO avert|VB the|DT risk|NN of|IN a|DT government|NN shutdown|NN </s>|S_END
+<s>|S_START but|CC congress|NN wont|NN vote|NN on|IN that|DT deal|NN until|IN this|DT fall|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT federal|JJ reserve|NN has|VBZ made|VBN clear|RB its|PRP$ standing|NN down|IN for|IN now|RB on|IN more|JJR steps|NNS to|TO aid|VB the|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN the|DT job|NN is|VBZ back|RB to|TO congress|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT us|PRP economy|NN of|IN course|NN faces|NNS a|DT lot|NN of|IN risks|NNS </s>|S_END
+<s>|S_START but|CC one|CD of|IN the|DT biggest|JJS is|VBZ congress|NN itself|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC its|PRP$ a|DT risk|NN that|WDT federal|JJ reserve|NN chairman|NN ben|NN bernanke|NN has|VBZ said|VBN repeatedly|RB he|PRP cant|VBD counteract|NN if|IN lawmakers|NNS fail|VBP to|TO agree|VB on|IN how|WRB to|TO lessen|VB the|DT impact|NN of|IN the|DT fiscal|JJ cliff|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT cliff|NN is|VBZ made|VBN up|RP of|IN $|$ 7|CD trillion|CD worth|NN of|IN tax|NN increases|NNS and|CC spending|NN cuts|NNS set|VBD to|TO start|VB taking|VBG effect|NN 5|CD months|NNS from|IN now|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economists|NNS have|VBP warned|VBN that|IN letting|NN those|DT policies|NNS take|VBP effect|NN in|IN full|JJ could|MD push|VB the|DT economy|NN into|IN a|DT recession|NN next|IN year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN no|DT action|NN were|VBD to|TO be|VB taken|VBN the|DT size|NN of|IN the|DT fiscal|JJ cliff|NN is|VBZ such|JJ that|IN theres|NNS i|PRP think|VBP absolutely|RB no|DT chance|NN that|IN the|DT federal|JJ reserve|NN could|MD or|CC would|MD have|VB any|DT ability|NN whatsoever|NN to|TO offset|VB that|IN effect|NN on|IN the|DT economy|NN bernanke|NN said|VBD a|DT few|JJ months|NNS ago|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT month|NN he|PRP was|VBD equally|RB blunt|JJ noting|NN it|PRP is|VBZ not|RB the|DT feds|NNS role|NN to|TO crack|VB the|DT whip|NN on|IN lawmakers|NNS to|TO act|VB fiscally|RB responsible|JJ </s>|S_END
+<s>|S_START congress|NN is|VBZ in|IN charge|NN here|RB he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN is|VBZ congress|JJ taking|NN charge|NN </s>|S_END
+<s>|S_START lawmakers|NNS are|VBP trying|VBG to|TO show|VB that|IN theyre|NN taking|VBG charge|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START leaders|NNS from|IN both|DT parties|NNS have|VBP made|VBN much|RB of|IN two|CD bipartisan|JJ deals|NNS reached|VBD this|DT week|NN that|IN must|MD still|RB be|VB approved|VBN by|IN both|DT chambers|NNS of|IN congress|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT first|JJ is|VBZ an|DT agreement|NN to|TO fund|VB the|DT government|NN for|IN the|DT first|JJ six|CD months|NNS of|IN fiscal|JJ year|NN 2013|CD which|WDT starts|NNS in|IN october|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT agreement|NN reached|VBD between|IN the|DT senate|NN the|DT house|NN and|CC the|DT white|JJ house|NN provides|VBZ stability|NN for|IN the|DT coming|VBG months|NNS said|VBD senate|NN majority|NN leader|NN harry|NN reid|VBD on|IN tuesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START except|IN that|DT it|PRP really|RB wont|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sure|RB it|PRP would|MD prevent|VB the|DT threat|NN of|IN a|DT government|NN shutdown|NN </s>|S_END
+<s>|S_START but|CC it|PRP does|VBZ nothing|NN to|TO address|VB any|DT of|IN the|DT measures|NNS of|IN the|DT fiscal|JJ cliff|NN except|IN to|TO establish|VB the|DT funding|NN level|NN from|IN which|WDT the|DT socalled|VBD sequester|NN of|IN spending|NN cuts|NNS must|MD be|VB made|VBN </s>|S_END
+<s>|S_START other|JJ than|IN that|DT this|DT deal|NN doesnt|NN affect|NN the|DT sequester|NN whatsoever|NN said|VBD budget|NN expert|NN stan|NN collender|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT measure|NN wont|NN be|VB voted|VBN on|IN until|IN lawmakers|NNS return|VBP from|IN summer|NN recess|NN in|IN september|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START then|RB theres|VBZ the|DT bipartisan|NN deal|NN cut|VBD wednesday|NN by|IN the|DT top|JJ democrat|NN and|CC republican|JJ on|IN the|DT senates|NNS taxwriting|VBG committee|NN </s>|S_END
+<s>|S_START that|DT deal|NN will|MD extend|VB for|IN a|DT year|NN many|JJ smaller|NN tax|NN breaks|NNS that|WDT are|VBP set|VBN to|TO expire|VB or|CC already|RB have|VBP and|CC it|PRP eliminates|VBZ 25|CD of|IN the|DT usual|JJ tax|NN extenders|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT win|NN shows|VBZ were|VBD able|JJ to|TO come|VB together|RP to|TO tackle|VB tough|JJ problems|NNS said|VBD sen|VBN max|NN baucus|NN the|DT committee|NN chairman|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ranking|VBG member|NN orrin|NN hatch|NN described|VBD it|PRP as|IN a|DT first|JJ step|NN towards|NNS tax|NN reform|NN that|WDT shows|VBZ that|IN there|EX is|VBZ a|DT path|NN to|TO resolving|NN the|DT challenges|NNS we|PRP face|VBP as|IN a|DT nation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC as|IN tough|JJ problems|NNS and|CC first|JJ steps|NNS go|VBP its|PRP$ not|RB that|IN hard|JJ or|CC that|IN big|JJ a|DT leap|NN to|TO agree|VB on|IN extending|VBG many|JJ popular|JJ tax|NN breaks|NNS and|CC add|VB the|DT cost|NN an|DT estimated|VBN $|$ 205|CD billion|CD to|TO deficits|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT meantime|NN the|DT house|NN this|DT week|NN had|VBD a|DT predictable|JJ partisan|NN debate|NN over|IN how|WRB to|TO extend|VB the|DT bush|NN tax|NN cuts|NNS a|DT major|JJ part|NN of|IN the|DT fiscal|JJ cliff|NN </s>|S_END
+<s>|S_START the|DT republicanpreferred|VBN version|NN passed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC it|PRP will|MD go|VB nowhere|RB in|IN the|DT senate|NN which|WDT went|VBD through|IN the|DT same|JJ exercise|NN last|JJ week|NN </s>|S_END
+<s>|S_START the|DT senate|NN passed|VBD the|DT democraticpreferred|VBN version|NN which|WDT will|MD go|VB nowhere|RB in|IN the|DT house|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START then|RB theres|VBZ the|DT specter|NN of|IN the|DT nearly|RB $|$ 1|CD trillion|CD in|IN spending|NN cuts|NNS half|PDT in|IN defense|NN and|CC half|DT in|IN nondefense|NN that|IN neither|DT party|NN likes|VBZ but|CC which|WDT congress|NN has|VBZ yet|RB to|TO seriously|RB focus|VB on|IN replacing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT house|NN armed|VBD services|NNS committee|NN on|IN wednesday|NN held|NN a|DT hearing|NN to|TO discuss|VB how|WRB the|DT obama|NN administration|NN will|MD direct|VB federal|JJ agencies|NNS to|TO plan|NN for|IN the|DT cuts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT of|IN the|DT hearing|NN stayed|VBD on|IN point|NN but|CC the|DT rest|NN devolved|VBD into|IN a|DT blame|JJ game|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START first|JJ there|EX was|VBD backandforth|JJ on|IN who|WP is|VBZ to|TO blame|VB for|IN the|DT sequester|NN in|IN the|DT first|JJ place|NN </s>|S_END
+<s>|S_START then|RB it|PRP switched|VBD to|TO which|WDT party|NN is|VBZ to|TO blame|VB for|IN holding|VBG up|RP a|DT bush|NN tax|NN cut|VBD extension|NN </s>|S_END
+<s>|S_START and|CC then|RB finally|RB conversation|NN turned|VBD to|TO who|WP was|VBD to|TO blame|VB for|IN turning|VBG the|DT hearing|NN on|IN a|DT very|RB bipartisan|JJ issue|NN into|IN a|DT partisan|JJ food|NN fight|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP was|VBD in|IN short|JJ a|DT microcosm|NN of|IN the|DT endless|NN backandforth|NN thats|NNS been|VBN going|VBG on|IN for|IN more|JJR than|IN a|DT year|NN in|IN congress |NNP </s>|S_END
+</p>|P_END
+

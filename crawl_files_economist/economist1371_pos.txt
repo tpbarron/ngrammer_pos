@@ -1,0 +1,68 @@
+<p>|P_START
+<s>|S_START even|RB if|IN you|PRP still|RB have|VBP to|TO think|VB twice|NN about|IN the|DT meaning|NN of|IN “giga”|NNP and|CC “tera”|NNP in|IN computerspeak|NN youd|NN better|NN get|NN ready|RB for|IN “peta”|JJ “exa”|NN and|CC “zetta”|NNP </s>|S_END
+<s>|S_START these|DT binary|JJ prefixes|NNS which|WDT denote|NN 1m|CD 1|CD billion|CD and|CC 1|CD trillion|NN gigabytes|NNS respectively|RB will|MD be|VB used|VBN more|RBR and|CC more|RBR often|RB the|DT amount|NN of|IN digital|NN data|NNS is|VBZ exploding|VBG with|IN a|DT staggering|JJ 18|CD zettabytes|NNS in|IN 2011|CD up|IN from|IN 12|CD zettabytes|NNS in|IN the|DT previous|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT deluge|NN has|VBZ long|RB been|VBN a|DT topic|JJ among|IN geeks|NNS 2012|CD will|MD be|VB the|DT year|NN in|IN which|WDT the|DT big|JJ data|NNS trend|NN gets|NNS noticed|VBD beyond|IN their|PRP$ rank|NN </s>|S_END
+<s>|S_START many|JJ more|JJR firms|NNS will|MD start|VB to|TO analyse|VB huge|JJ piles|NNS of|IN data|NNS to|TO optimise|VB ­everything|JJ from|IN their|PRP$ supply|NN chains|NNS to|TO their|PRP$ customer|NN relationship|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT past|JJ because|IN data|NNS storage|VBP was|VBD expensive|JJ lots|NNS had|VBD to|TO be|VB thrown|VBN away|RB </s>|S_END
+<s>|S_START information|NN was|VBD locked|VBN up|RP in|IN computer|NN systems|NNS and|CC could|MD not|RB be|VB combined|VBN with|IN other|JJ source|NN </s>|S_END
+<s>|S_START even|RB if|IN firms|NNS were|VBD able|JJ to|TO aggregate|VB their|PRP$ data|NNS in|IN one|CD place|NN called|VBN a|DT “data|NNP warehouse”|NNP and|CC sift|NN through|IN the|DT information|NN it|PRP was|VBD often|RB already|RB out|IN of|IN date|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT this|DT is|VBZ changing—rapidly|RB </s>|S_END
+<s>|S_START the|DT price|NN for|IN storage|NN is|VBZ plunging|VBG by|IN 2020|CD storing|VBG a|DT petabyte|NN will|MD cost|VB a|DT mere|JJ $|$ 4|CD predicts|NNS forrester|JJR a|DT marketresearch|NN firm|NN </s>|S_END
+<s>|S_START oftware|NN to|TO handle|VB such|JJ huge|JJ amounts|NNS of|IN data|NNS is|VBZ improving|VBG too|RB </s>|S_END
+<s>|S_START hadoop|NN a|DT new|JJ type|NN of|IN database|NN can|MD be|VB used|VBN to|TO sift|VB through|IN big|JJ data|NNS streams|NNS in|IN real|JJ time—and|NN not|RB just|RB orderly|RB numbers|NNS but|CC also|RB “unstructured”|-NONE- data|NNS for|IN instance|NN any|DT kind|NN of|IN text|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT world|NN oozing|VBG data|NNS sensors|NNS measure|VBP everything|VBG from|IN speed|NN to|TO smell|VB </s>|S_END
+<s>|S_START martphone|NN applications|NNS generate|VBP vast|JJ quantities|NNS of|IN “data|NNP exhaust”|NNP information|NN that|WDT is|VBZ produced|VBN when|WRB users|NNS engage|VBP in|IN say|NN skiing|VBG and|CC thanks|NNS to|TO a|DT motion|NN sensor|NN the|DT phone|NN can|MD tell|VB whether|IN somebody|NN has|VBZ just|RB had|VBD a|DT bad|JJ fall|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ocial|JJ media|NNS are|VBP adding|VBG to|TO the|DT flood|NN the|DT number|NN of|IN messages|NNS on|IN twitter|NN will|MD exceed|VB 500m|CD per|IN day|NN by|IN the|DT end|NN of|IN 2012|CD </s>|S_END
+<s>|S_START by|IN opening|VBG their|PRP$ data|NNS vaults|NNS some|DT ­national|JJ and|CC local|JJ governments|NNS are|VBP doing|VBG the|DT same|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS important|JJ firms|NNS will|MD discover|VB that|IN they|PRP can|MD extract|VB value|NN from|IN the|DT data|NNS </s>|S_END
+<s>|S_START a|DT study|NN by|IN the|DT mckinsey|NN global|JJ institute|NN a|DT thinktank|NN found|VBD that|IN analysing|NN healthcare|NN data|NNS could|MD yield|VB $|$ 300|CD billionworth|JJ of|IN savings|NNS in|IN america|NN alone|RB </s>|S_END
+<s>|S_START one|CD of|IN the|DT pioneers|NNS in|IN this|DT field|NN is|VBZ britains|NNS national|JJ institute|NN for|IN health|NN and|CC clinical|JJ excellence|NN which|WDT uses|NNS large|VBP datasets|NNS to|TO investigate|VB the|DT cost|NN and|CC benefit|NN of|IN new|JJ drugs|NNS and|CC existing|VBG expensive|JJ treatment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START firms|NNS will|MD also|RB use|VB data|NNS for|IN new|JJ business|NN model|NN </s>|S_END
+<s>|S_START rollsroyce|NN no|DT longer|NN needs|VBZ to|TO sell|VB all|PDT its|PRP$ jet|NN engines|NNS it|PRP can|MD charge|VB for|IN their|PRP$ use|NN </s>|S_END
+<s>|S_START by|IN continuously|RB assessing|VBG their|PRP$ performance|NN it|PRP can|MD predict|VB when|WRB engines|NNS are|VBP more|RBR likely|JJ to|TO fail|VB so|RB that|IN customers|NNS can|MD schedule|VB engine|NN change|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START already|RB the|DT number|NN of|IN datadriven|JJ startups|NNS is|VBZ growing—particularly|JJ when|WRB it|PRP comes|VBZ to|TO social|JJ media|NNS </s>|S_END
+<s>|S_START lexalytics|NNS for|IN instance|NN analyses|NNS the|DT sentiment|NN of|IN utterings|NNS on|IN twitter|NN facebook|NN and|CC other|JJ such|JJ service|NN </s>|S_END
+<s>|S_START klout|IN measures|NNS the|DT influence|NN of|IN socialmedia|NNS users|NNS and|CC some|DT firms|NNS give|VBP people|NNS with|IN a|DT high|JJ klout|IN score|NN preferential|JJ treatment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN big|JJ data|NNS to|TO become|VB huge|JJ however|NN there|EX are|VBP still|RB hurdles|NNS to|TO leap|VB </s>|S_END
+<s>|S_START for|IN one|CD thing|NN the|DT tools|NNS to|TO analyse|VB data|NNS are|VBP not|RB yet|RB good|JJ enough|RB </s>|S_END
+<s>|S_START and|CC people|NNS with|IN the|DT skills|NNS to|TO analyse|VB data|NNS are|VBP scarce|JJ and|CC will|MD become|VB scarcer|NN </s>|S_END
+<s>|S_START by|IN 2018|CD there|EX will|MD be|VB a|DT “talent|JJ gap”|NN of|IN between|IN 140000|CD and|CC 190000|CD people|NNS says|VBZ the|DT mc­kinsey|NNP global|JJ institute|NN </s>|S_END
+<s>|S_START the|DT main|JJ problem|NN may|MD be|VB privacy|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ unlikely|RB that|IN people|NNS will|MD want|VB to|TO live|VB in|IN a|DT “yotta|NNP world”|NNP 1000|CD trillion|NN gigabytes|NNS in|IN which|WDT their|PRP$ every|DT move|NN is|VBZ instantly|RB digitised|VBN and|CC added|VBD to|TO the|DT flood|NN of|IN public|JJ data |JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ludwig|NN siegele|NN online|NN business|NN and|CC finance|NN editor|NN the|DT economist|NN </s>|S_END
+</p>|P_END
+

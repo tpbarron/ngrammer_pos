@@ -1,0 +1,27 @@
+<p>|P_START
+<s>|S_START humans|NNS are|VBP peculiar|JJ as|IN a|DT species|NN so|IN what|WP makes|VBZ them|PRP so|RB must|MD be|VB hidden|VBN in|IN their|PRP$ genome|NN </s>|S_END
+<s>|S_START to|TO an|DT almost|RB disconcerting|VBG extent|NN though|IN the|DT human|NN genome|NN looks|NNS similar|JJ to|TO the|DT genomes|NNS of|IN other|JJ primates|NNS especially|RB when|WRB it|PRP comes|VBZ to|TO the|DT particular|JJ proteins|NNS it|PRP allows|VBZ cells|NNS to|TO make|VB </s>|S_END
+<s>|S_START the|DT powerful|JJ new|JJ ways|NNS of|IN looking|VBG at|IN the|DT genome|NN being|VBG pioneered|VBN by|IN the|DT encode|NN consortium|NN see|NN article|NN though|IN provide|NN ways|NNS to|TO seek|VB out|RP the|DT subtle|NN speciesspecific|NN signal|NN </s>|S_END
+<s>|S_START lucas|NNS ward|VBD and|CC manolis|NNS kellis|NNS of|IN the|DT massachusetts|NNS institute|VBP of|IN technology|NN report|NN on|IN the|DT results|NNS of|IN such|JJ sleuthing|NN in|IN a|DT paper|NN just|RB published|VBD in|IN science|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT two|CD researchers|NNS used|VBN data|NNS from|IN encode|NN to|TO identify|VB the|DT bits|NNS of|IN the|DT genome|NN that|IN actually|RB do|VBP things|NNS and|CC data|NNS from|IN the|DT 1000|CD genomes|NNS project|VBP which|WDT has|VBZ studied|VBN humangenome|NN variation|NN across|IN hundreds|NNS of|IN people|NNS to|TO discover|VB how|WRB much|RB these|DT functional|JJ elements|NNS vary|JJ from|IN person|NN to|TO person|NN </s>|S_END
+<s>|S_START in|IN particular|JJ they|PRP looked|VBD for|IN telltales|NNS that|WDT an|DT element|NN is|VBZ being|VBG maintained|VBN by|IN natural|JJ selection|NN </s>|S_END
+<s>|S_START if|IN something|NN is|VBZ evolutionarily|RB important|JJ then|RB random|NN variations|NNS in|IN its|PRP$ dna|NN sequence|NN will|MD be|VB slowly|RB eliminated|VBN from|IN the|DT population|NN keeping|VBG it|PRP on|IN the|DT functional|JJ straight|NN and|CC narrow|NN in|IN a|DT process|NN known|VBN as|IN purifying|NN selection|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN ward|VBD and|CC dr|NN kellis|NNS found|VBD that|IN in|IN addition|NN to|TO the|DT 5|CD of|IN human|JJ dna|NN that|WDT is|VBZ conserved|VBN between|IN mammals|NNS an|DT additional|JJ 4|CD of|IN human|JJ dna|NN appears|VBZ to|TO be|VB uniquely|RB human|JJ in|IN the|DT sense|NN that|IN it|PRP is|VBZ prone|VBN to|TO purifying|NN selection|NN in|IN humans|NNS but|CC not|RB in|IN other|JJ mammal|JJ </s>|S_END
+<s>|S_START much|RB of|IN this|DT proprietary|JJ dna|NN is|VBZ involved|VBN in|IN regulating|NN gene|NN activity—for|NN example|NN controlling|VBG how|WRB much|JJ of|IN a|DT protein|NN is|VBZ produced|VBN rather|RB than|IN changing|VBG the|DT nature|NN of|IN the|DT protein|NN itself|PRP </s>|S_END
+<s>|S_START this|DT finding|NN is|VBZ in|IN line|NN with|IN modern|JJ thinking|VBG that|IN a|DT lot|NN of|IN evolutionary|NN change|NN is|VBZ connected|VBN with|IN regulatory|JJ elements|NNS rather|RB than|IN actual|JJ protein|NN structure|NN </s>|S_END
+<s>|S_START the|DT researchers|NNS also|RB found|VBD that|IN long|RB noncoding|VBG segments|NNS that|WDT are|VBP not|RB conserved|VBN in|IN other|JJ mammals|NNS are|VBP in|IN fact|NN highly|RB constrained|VBN in|IN humans|NNS suggesting|VBG they|PRP have|VBP humanspecific|JJ function|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN areas|NNS identified|VBD as|IN particularly|RB human|JJ are|VBP the|DT regulation|NN of|IN the|DT cone|NN cells|NNS of|IN the|DT retina|NN which|WDT are|VBP involved|VBN in|IN colour|PRP$ vision|NN and|CC the|DT regulation|NN of|IN nervecell|NN growth|NN </s>|S_END
+<s>|S_START these|DT processes|NNS evolved|VBD rapidly|RB in|IN man’s|JJ primate|NN ancestors|NNS but|CC are|VBP now|RB under|IN strong|JJ purifying|NN selection|NN to|TO maintain|VB their|PRP$ beneficial|JJ function|NN </s>|S_END
+<s>|S_START the|DT implications|NNS of|IN that|DT given|VBN humanity’s|-NONE- main|JJ distinguishing|NN feature—its|NNS huge|JJ brain—are|JJ obviou|NN </s>|S_END
+<s>|S_START dr|NN ward|VBD and|CC dr|NN kellis|NNS have|VBP thus|RB created|VBN a|DT powerful|JJ tool|NN for|IN investigating|VBG in|IN detail|NN just|RB what|WP it|PRP is|VBZ that|IN makes|VBZ a|DT human|JJ being|VBG human|NN </s>|S_END
+</p>|P_END
+

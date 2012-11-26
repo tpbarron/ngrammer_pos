@@ -1,0 +1,42 @@
+<p>|P_START
+<s>|S_START walmart|NN is|VBZ cutting|VBG the|DT fee|NN it|PRP charges|VBZ layaway|NN customers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN walmart|NN stores|NNS said|VBD tuesday|NN it|PRP is|VBZ cutting|VBG the|DT upfront|NN fee|NN it|PRP charges|VBZ customers|NNS who|WP use|NN its|PRP$ layaway|NN plan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START walmart|NN wmt|VBD fortune|NN 500|CD the|DT nations|NNS largest|JJS retailer|NN announced|VBD the|DT change|NN in|IN fee|NN going|VBG from|IN $|$ 15|CD to|TO $|$ 5|CD soon|RB after|IN retailer|NN toys|NNS r|VBP us|PRP announced|VBD it|PRP would|MD offer|VB its|PRP$ customers|NNS free|JJ layaway|NN on|IN purchases|NNS made|VBN by|IN oct|NN 31|CD </s>|S_END
+<s>|S_START after|IN that|DT date|NN toys|VBZ r|NN us|PRP will|MD also|RB charge|VB $|$ 5|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START layaway|NN allows|VBZ customers|NNS to|TO hold|VB an|DT item|NN for|IN a|DT period|NN of|IN time|NN while|IN they|PRP make|VBP incremental|JJ payments|NNS to|TO cover|VB its|PRP$ total|JJ cost|NN </s>|S_END
+<s>|S_START walmart|NN had|VBD stopped|VBN allowing|VBG layaway|NN purchases|NNS after|IN the|DT 2006|CD holiday|NN season|NN but|CC brought|VBD the|DT practice|NN back|RB last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START walmart|NN said|VBD its|PRP$ customers|NNS will|MD get|VB the|DT upfront|NN fee|NN back|RB on|IN a|DT walmart|NN gift|NN card|NN once|RB they|PRP complete|VBP payments|NNS on|IN the|DT items|NNS they|PRP had|VBD on|IN layaway|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP believe|VBP this|DT rollback|NN strengthens|VBZ our|PRP$ layaway|NN offering|NN said|VBD duncan|NN mac|NN naughton|NN chief|NN merchandising|NN and|CC marketing|NN officer|NN for|IN walmarts|NNS us|PRP unit|NN </s>|S_END
+<s>|S_START its|PRP$ even|RB more|RBR attractive|JJ to|TO our|PRP$ customers|NNS and|CC makes|VBZ walmart|NN more|JJR competitive|JJ in|IN the|DT marketplace|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START walmart|NN reported|VBD improved|VBN sales|NNS and|CC earnings|NNS for|IN its|PRP$ just|RB completed|VBN quarter|NN and|CC raised|VBD its|PRP$ financial|JJ targets|NNS for|IN the|DT rest|NN of|IN the|DT fiscal|JJ year|NN </s>|S_END
+<s>|S_START still|RB it|PRP is|VBZ facing|VBG generally|RB sluggish|JJ retail|NN sales|NNS along|IN with|IN tough|JJ competition|NN from|IN retailers|NNS such|JJ as|IN target|NN tgt|NN fortune|NN 500|CD </s>|S_END
+<s>|S_START all|DT retailers|NNS are|VBP striving|VBG to|TO attract|VB holiday|NN shoppers|NNS despite|IN a|DT relatively|RB weak|JJ economy|NN and|CC high|JJ unemployment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START layaway|NN has|VBZ become|VBN an|DT increasingly|RB popular|JJ method|NN to|TO make|VB purchases|NNS </s>|S_END
+<s>|S_START earlier|JJR this|DT summer|NN sears|VBZ shld|NN fortune|NN 500|CD announced|VBD that|IN it|PRP would|MD offer|VB vacation|NN packages|NNS on|IN layaway|NN through|IN its|PRP$ searsvacationscom|NN site|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START staff|NN writer|NN aaron|NN smith|IN contributed|VBN to|TO this|DT report|NN </s>|S_END
+</p>|P_END
+

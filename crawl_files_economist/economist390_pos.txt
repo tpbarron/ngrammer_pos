@@ -1,0 +1,69 @@
+<p>|P_START
+<s>|S_START of|IN all|DT the|DT methods|NNS of|IN communication|NN invented|VBN by|IN humanity|NN over|IN the|DT centuries|NNS none|NN has|VBZ disseminated|VBN so|RB much|RB information|NN so|IN widely|RB at|IN such|JJ high|JJ speeds|NNS as|IN the|DT internet|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ both|DT a|DT unifying|NN force|NN and|CC a|DT globalising|NN one|CD </s>|S_END
+<s>|S_START but|CC as|IN this|DT report|NN has|VBZ argued|VBN its|PRP$ very|JJ ubiquity|NN makes|VBZ it|PRP a|DT localising|VBG one|CD too|RB because|IN it|PRP is|VBZ clearly|RB not|RB the|DT same|JJ everywhere|NN either|DT in|IN what|WP it|PRP provides|VBZ or|CC how|WRB it|PRP is|VBZ operated|VBN and|CC regulated|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT smartphone|NN has|VBZ liberated|VBN its|PRP$ user|NN from|IN the|DT pc|NN on|IN his|PRP$ desk|NN granting|VBG him|PRP access|NN on|IN the|DT go|NN not|RB just|RB to|TO remote|VB computers|NNS and|CC longlost|VB friends|NNS on|IN the|DT other|JJ side|NN of|IN the|DT world|NN but|CC also|RB to|TO the|DT places|NNS around|IN him|PRP </s>|S_END
+<s>|S_START if|IN he|PRP lives|VBZ in|IN a|DT city|NN as|IN most|JJS users|NNS do|VBP then|RB his|PRP$ fellow|NN citydwellers|NNS and|CC the|DT buildings|NNS cars|NNS and|CC streets|NNS around|IN them|PRP are|VBP throwing|VBG off|RP almost|RB unimaginable|JJ quantities|NNS of|IN valuable|JJ data|NNS from|IN which|WDT he|PRP will|MD benefit|VB </s>|S_END
+<s>|S_START and|CC although|IN communications|NNS across|IN continents|NNS have|VBP become|VBN cheap|NN and|CC easy|JJ physical|JJ proximity|NN to|TO others|NNS remains|VBZ important|JJ in|IN creating|NN new|JJ ideas|NNS and|CC products—especially|RB and|CC perhaps|RB ironically|RB for|IN companies|NNS offering|VBG online|NN service|NN </s>|S_END
+<s>|S_START you|PRP can|MD not|RB yet|VB have|VBP a|DT coffee|NN together|NN online|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT simultaneously|RB more|RBR localised|VBN and|CC more|RBR globalised|VBN world|NN will|MD be|VB more|RBR complicated|JJ than|IN the|DT world|NN of|IN old|JJ </s>|S_END
+<s>|S_START different|JJ rules|NNS will|MD continue|VB to|TO apply|VB to|TO different|JJ countries’|NN bits|NNS of|IN cyberspace|NN </s>|S_END
+<s>|S_START gartner’s|NNS mr|VBP prentice|NN thinks|NNS that|WDT three|CD basic|JJ forces|NNS will|MD shape|VB the|DT mobile|JJ internet|NN the|DT transport|NN of|IN data|NNS across|IN it|PRP and|CC the|DT content|NN available|JJ on|IN it|PRP politicians’|-NONE- demand|NN for|IN control|NN most|JJS people’s|JJ desire|NN for|IN freedom|NN and|CC companies’|NNP pursuit|NN of|IN profit|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ possible|JJ to|TO imagine|NN scenarios|NNS in|IN which|WDT one|CD of|IN these|DT forces|NNS comes|VBZ out|RP on|IN top|JJ for|IN instance|NN a|DT “big|JJ brother”|NN state|NN that|WDT keeps|VBZ a|DT close|JJ eye|NN on|IN the|DT internet|NN and|CC determines|NNS who|WP can|MD do|VB what|WP on|IN it|PRP </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ more|RBR likely|JJ says|NNS mr|VBP prentice|NN that|IN different|JJ combinations|NNS of|IN the|DT three|CD forces|NNS will|MD prevail|VB in|IN different|JJ place|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP seems|VBZ certain|JJ is|VBZ that|IN life|NN online|NN will|MD become|VB more|RBR local|JJ without|IN becoming|VBG any|DT less|JJR global|JJ </s>|S_END
+<s>|S_START with|IN a|DT smartphone|NN in|IN your|PRP$ hand|NN you|PRP can|MD find|VB out|RP more|JJR if|IN you|PRP want|VBP to|TO about|IN what|WP is|VBZ going|VBG on|IN immediately|RB around|IN you|PRP </s>|S_END
+<s>|S_START the|DT next|JJ bus|NN goes|VBZ in|IN five|CD minute|NN </s>|S_END
+<s>|S_START the|DT coffee|NN shop|NN across|IN the|DT street|NN where|WRB you|PRP haven’t|JJ been|VBN for|IN a|DT few|JJ weeks|NNS is|VBZ offering|VBG you|PRP a|DT free|JJ cappuccino|NN </s>|S_END
+<s>|S_START those|DT cushions|NNS you|PRP looked|VBD at|IN online|NN are|VBP available|JJ in|IN the|DT department|NN store|NN around|IN the|DT corner|NN </s>|S_END
+<s>|S_START mr|NN hudsonsmith|IN of|IN ucl|NN speculates|NNS that|WDT the|DT smartphone|NN could|MD even|RB help|VB revive|JJ the|DT high|JJ street|NN if|IN people|NNS knew|VBP that|IN they|PRP could|MD take|VB home|NN today|NN what|WP amazon|NN could|MD not|RB deliver|VB until|IN tomorrow|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START none|NN of|IN this|DT will|MD reduce|VB the|DT scope|NN or|CC the|DT appetite|NN for|IN catching|NN up|RB with|IN friends|NNS news|NNS and|CC stories|NNS from|IN far|RB away|RB </s>|S_END
+<s>|S_START “the|DT truth|NN is|VBZ that|IN three|CD things|NNS will|MD go|VB on|IN at|IN once”|NNP says|VBZ danny|JJ miller|NN an|DT anthropologist|NN at|IN ucl|NN </s>|S_END
+<s>|S_START there|EX will|MD continue|VB to|TO be|VB “unprecedented|JJ opportunities|NNS for|IN homogenisation|NN and|CC globalisation”|NNP but|CC there|EX are|VBP also|RB “possibilities|NNS for|IN great|JJ localisation”—including|JJ services|NNS such|JJ as|IN foursquare|NN </s>|S_END
+<s>|S_START lastly|RB there|EX will|MD be|VB a|DT new|JJ localism|NN thanks|NNS to|TO an|DT internet|NN full|JJ of|IN local|JJ differences|NNS that|WDT are|VBP not|RB confined|VBN to|TO particular|JJ place|NN </s>|S_END
+<s>|S_START for|IN example|NN trinidadians|NNS use|VBP facebook|NN in|IN a|DT distinctive|JJ way|NN to|TO reflect|VB local|JJ concepts|NNS of|IN scandal|NN and|CC gossip|NN </s>|S_END
+<s>|S_START but|CC because|IN more|JJR than|IN half|PDT of|IN trinidadian|JJ families|NNS have|VBP at|IN least|JJS one|CD member|NN living|NN abroad|RB this|DT form|NN of|IN use|NN is|VBZ not|RB tied|VBN to|TO trinidad|VB it|PRP could|MD just|RB as|IN easily|RB be|VB adopted|VBN by|IN trinidadians|NNS living|VBG in|IN london|NN or|CC toronto|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT further|JJ prediction|NN is|VBZ that|IN as|IN people|NNS rely|RB more|RBR on|IN connected|VBN devices|NNS to|TO explore|VB the|DT physical|JJ world|NN digital|NN information|NN will|MD have|VB a|DT growing|VBG influence|NN on|IN how|WRB they|PRP see|VBP the|DT physical|JJ realm|NN and|CC on|IN how|WRB they|PRP move|VBP through|IN it|PRP </s>|S_END
+<s>|S_START mr|NN graham|NN and|CC mr|NN zook|NN with|IN andrew|JJ boulton|NN also|RB of|IN the|DT university|NN of|IN kentucky|JJ begin|NN a|DT forthcoming|NN paper|NN by|IN imagining|NN a|DT young|JJ woman’s|JJ progress|NN through|IN dublin|NN on|IN a|DT saturday|NN night—a|NN kind|NN of|IN digital|JJ “ulysses”|NN </s>|S_END
+<s>|S_START he|PRP checks|VBZ texts|NNS and|CC tweets|NNS from|IN her|PRP$ boyfriend|NN where|WRB is|VBZ he|PRP </s>|S_END
+<s>|S_START passes|NNS a|DT bar|NN a|DT favourite|NN band|NN once|RB played|VBN here|RB and|CC looks|NNS up|RP a|DT review|NN of|IN a|DT restaurant|NN seems|VBZ good|JJ </s>|S_END
+<s>|S_START but|CC the|DT city|NN she|PRP sees|VBZ has|VBZ been|VBN digitally|RB constructed|VBN for|IN her|PRP$ </s>|S_END
+<s>|S_START her|PRP$ boyfriend|NN sends|NNS her|PRP$ a|DT text|NN to|TO arrange|VB a|DT meeting|NN place|NN </s>|S_END
+<s>|S_START he|PRP knows|VBZ about|IN the|DT band|NN because|IN her|PRP$ past|NN online|NN searches|NNS have|VBP prompted|VBN her|PRP$ smartphone|NN to|TO provide|VB the|DT detail|NN </s>|S_END
+<s>|S_START and|CC the|DT restaurant|NN review|NN is|VBZ nothing|NN more|JJR than|IN the|DT sum|NN of|IN other|JJ people’s|NNS opinions|NNS delivered|VBN electronically|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT this|DT is|VBZ harmless|NN even|RB helpful|JJ but|CC there|EX is|VBZ a|DT darker|NN side|NN to|TO it|PRP </s>|S_END
+<s>|S_START eli|NN pariser|NN an|DT american|JJ journalist|NN has|VBZ written|VBN of|IN a|DT “filter|JJ bubble”|NN in|IN which|WDT people|NNS are|VBP presented|VBN only|RB with|IN ideas|NNS and|CC opinions|NNS that|WDT their|PRP$ past|JJ online|NN behaviour|NN suggests|VBZ they|PRP are|VBP likely|JJ to|TO agree|VB with|IN </s>|S_END
+<s>|S_START as|IN they|PRP make|VBP their|PRP$ digital|JJ way|NN through|IN the|DT physical|JJ realm|NN something|NN similar|JJ may|MD happen|VB </s>|S_END
+<s>|S_START being|VBG steered|VBN away|RB from|IN areas|NNS of|IN high|JJ crime|NN late|JJ at|IN night|NN is|VBZ no|DT bad|JJ thing|NN </s>|S_END
+<s>|S_START but|CC not|RB being|VBG pointed|VBN towards|NNS a|DT museum|NN or|CC a|DT club|NN because|IN you|PRP haven’t|JJ been|VBN anywhere|RB like|IN it|PRP before|IN may|MD be|VB a|DT missed|VBN opportunity|NN </s>|S_END
+<s>|S_START tanding|VBG in|IN front|NN of|IN a|DT monument|NN and|CC being|VBG given|VBN a|DT version|NN of|IN history|NN that|IN reinforces|NNS your|PRP$ prejudices|NNS closes|NNS rather|RB than|IN opens|NNS the|DT mind|NN </s>|S_END
+<s>|S_START messrs|NNS graham|VBP zook|NN and|CC boulton|NN point|NN out|RP that|IN google|JJ provides|NNS very|RB different|JJ information|NN about|IN the|DT bronze|NN soldier|NN of|IN tallinn|NN to|TO estonian|JJ and|CC to|TO russianspeaker|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB on|IN the|DT whole|JJ it|PRP is|VBZ surely|RB a|DT good|JJ thing|NN for|IN the|DT digital|JJ and|CC the|DT physical|JJ worlds|NNS to|TO become|VB increasingly|RB interwoven|VBN </s>|S_END
+<s>|S_START they|PRP are|VBP complements|NNS not|RB substitutes|VBZ for|IN each|DT other|JJ </s>|S_END
+<s>|S_START the|DT digital|JJ overlay|NN will|MD in|IN effect|NN allow|NN people|NNS to|TO see|VB not|RB only|RB through|IN walls|NNS what’s|NNS in|IN that|DT shop|NN </s>|S_END
+<s>|S_START and|CC around|IN corners|NNS is|VBZ there|RB a|DT taxi|NN nearby|NN </s>|S_END
+<s>|S_START but|CC even|RB through|IN time|NN what|WP happened|VBN here|RB in|IN 1945|CD </s>|S_END
+<s>|S_START each|DT realm|NN on|IN its|PRP$ own|JJ is|VBZ fascinating|VBG together|RB they|PRP are|VBP irresistible|JJ </s>|S_END
+</p>|P_END
+

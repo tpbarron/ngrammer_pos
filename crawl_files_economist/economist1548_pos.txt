@@ -1,0 +1,49 @@
+<p>|P_START
+<s>|S_START april|NN 23rd|CD 2002|CD was|VBD a|DT turningpoint|NN in|IN american|JJ internet|NN companies’|NN relations|NNS with|IN china|NN though|IN few|JJ knew|NN so|IN at|IN the|DT time|NN </s>|S_END
+<s>|S_START on|IN that|DT day|NN beijing’s|VBZ statesecurity|NN bureau|NN requested|VBD information|NN from|IN the|DT beijing|NN office|NN of|IN yahoo|NN an|DT american|JJ internet|NN company|NN about|IN the|DT creator|NN of|IN an|DT online|NN forum|NN as|IN well|RB as|IN email|NN registrations|NNS and|CC messages|NNS in|IN a|DT case|NN of|IN what|WP the|DT bureau|NN called|VBD “inciting|JJ subversion”|NN </s>|S_END
+<s>|S_START yahoo|RB </s>|S_END
+<s>|S_START complied|VBD with|IN this|DT notice|NN and|CC another|DT one|CD that|WDT year|NN and|CC soon|RB the|DT authorities|NNS had|VBD detained|VBN wang|NN xiaoning|NN a|DT democracy|NN activist|NN who|WP had|VBD anonymously|RB been|VBN using|VBG the|DT forum|NN and|CC email|NN accounts|NNS to|TO press|NN for|IN free|JJ election|NN </s>|S_END
+<s>|S_START he|PRP was|VBD sentenced|VBN to|TO ten|VB years|NNS in|IN prison|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN wang|VBD now|RB 62|CD was|VBD released|VBN on|IN august|JJ 31st|CD </s>|S_END
+<s>|S_START much|RB about|IN the|DT internet|NN both|DT in|IN china|NN and|CC globally|RB has|VBZ changed|VBN in|IN the|DT intervening|NN decade|NN </s>|S_END
+<s>|S_START american|NN companies|NNS notably|RB yahoo|RB have|VBP learned|VBN from|IN the|DT ghastly|RB lesson|NN offered|VBD by|IN his|PRP$ case|NN </s>|S_END
+<s>|S_START before|IN then|RB china|NN had|VBD been|VBN viewed|VBN simply|RB as|IN a|DT promising|NN commercial|NN market|NN </s>|S_END
+<s>|S_START then|RB from|IN 2002|CD to|TO 2004|CD yahoo|NN </s>|S_END
+<s>|S_START complied|VBD with|IN government|NN requests|NNS in|IN at|IN least|JJS three|CD other|JJ cases|NNS similar|JJ to|TO mr|VB wang’|JJ </s>|S_END
+<s>|S_START this|DT emerged|VBD publicly|RB in|IN 2005|CD when|WRB shi|NN tao|NN a|DT chinese|NN journalist|NN was|VBD sentenced|VBN to|TO ten|VB years|NNS for|IN an|DT email|NN he|PRP sent|VBD from|IN a|DT yahoo|NN </s>|S_END
+<s>|S_START account|NN to|TO an|DT overseas|JJ prodemocracy|NN website|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yahoo|RB </s>|S_END
+<s>|S_START was|VBD vilified|VBN as|IN were|VBD other|JJ companies|NNS which|WDT had|VBD caved|VBN in|IN to|TO chinese|VB pressure|NN </s>|S_END
+<s>|S_START in|IN 2005|CD microsoft|NN deleted|VBD the|DT blog|NN of|IN an|DT activist|NN michael|NN anti|NN and|CC in|IN 2006|CD google|NN launched|VBD a|DT chinesebased|VBN censored|VBN version|NN of|IN its|PRP$ search|NN engine|NN the|DT company|NN shut|NN it|PRP down|IN in|IN 2010|CD </s>|S_END
+<s>|S_START all|DT three|CD firms|NNS were|VBD hauled|VBN before|IN an|DT american|JJ congressional|JJ hearing|NN in|IN 2006|CD along|IN with|IN cisco|NN which|WDT sells|NNS equipment|VBP that|IN china|NN uses|NNS for|IN internet|NN monitoring|VBG and|CC filtering|VBG </s>|S_END
+<s>|S_START at|IN another|DT congressional|JJ hearing|NN in|IN 2007|CD jerry|NN yang|NN a|DT founder|NN of|IN yahoo|NN apologised|VBN to|TO mr|VB shi’s|JJ mother|NN </s>|S_END
+<s>|S_START yahoo|RB </s>|S_END
+<s>|S_START also|RB settled|VBD a|DT lawsuit|NN with|IN the|DT families|NNS of|IN both|DT mr|NN shi|NN and|CC mr|NN wang|NN and|CC has|VBZ since|IN condemned|VBN the|DT suppression|NN of|IN free|JJ speech|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START today|NN yahoo|VBD microsoft|NN and|CC google|JJ are|VBP members|NNS of|IN the|DT global|JJ network|NN initiative|NN an|DT organisation|NN that|IN has|VBZ agreed|VBN on|IN principles|NNS of|IN free|JJ expression|NN and|CC online|NN privacy|NN </s>|S_END
+<s>|S_START the|DT companies|NNS have|VBP limited|VBN their|PRP$ presence|NN in|IN some|DT authoritarian|JJ countrie|NN </s>|S_END
+<s>|S_START rebecca|NN mackinnon|VBD an|DT expert|NN on|IN internet|NN freedom|NN notes|NNS that|WDT microsoft|NN and|CC google|JJ keen|NN to|TO avoid|VB yahoo’s|JJ fate|NN never|RB introduced|VBN chinesebased|VBN versions|NNS of|IN hotmail|NN and|CC gmail|NN </s>|S_END
+<s>|S_START to|TO keep|VB its|PRP$ nose|NN clean|NN in|IN vietnam|NN yahoo|NN </s>|S_END
+<s>|S_START maintains|NNS its|PRP$ vietnameselanguage|NN servers|NNS in|IN singapore|NN </s>|S_END
+<s>|S_START facebook|NN and|CC twitter|NN used|VBD by|IN some|DT chinese|JJ activists|NNS are|VBP blocked|VBN in|IN china|NN and|CC accessible|JJ only|RB using|VBG special|JJ tool|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yahoo’s|NNS chinese|VBP operations|NNS meanwhile|RB have|VBP been|VBN under|IN the|DT control|NN of|IN alibaba|NN group|NN a|DT chinese|NN internet|NN company|NN since|IN 2005|CD </s>|S_END
+<s>|S_START chinese|NN companies|NNS though|IN often|RB listed|VBN overseas|RB with|IN significant|JJ foreign|JJ ownership|NN must|MD cooperate|VB with|IN authorities|NNS in|IN selfcensorship|NN shutting|VBG down|IN accounts|NNS and|CC identifying|VBG users|NNS if|IN they|PRP want|VBP to|TO stay|VB in|IN busine|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START china’s|NNS microblogs|NNS are|VBP a|DT much|RB more|RBR vibrant|JJ space|NN for|IN discussion|NN than|IN the|DT internet|NN of|IN mr|NN wang’s|NNS day|NN but|CC the|DT authorities|NNS still|RB impose|JJ harsh|JJ punishments|NNS for|IN speech|NN they|PRP deem|VBP subversive|JJ wherever|NN they|PRP find|VBP it|PRP </s>|S_END
+<s>|S_START in|IN may|MD 2011|CD lu|VB jiaping|JJ his|PRP$ wife|NN yu|NN junyi|NN and|CC a|DT friend|NN jin|NN andi|NN were|VBD imprisoned|VBN for|IN “inciting|JJ subversion”|NN by|IN posting|NN and|CC emailing|VBG essays|NNS criticising|VBG the|DT communist|NN party|NN much|RB as|IN mr|NN wang|NN did|VBD ten|VBN years|NNS ago|IN </s>|S_END
+<s>|S_START chinese|NN internet|VBD companies|NNS including|VBG sina|NN listed|VBN on|IN america’s|NNP nasdaq|NN provided|VBD authorities|NNS with|IN information|NN that|IN helped|VBD convict|NN them|PRP </s>|S_END
+</p>|P_END
+

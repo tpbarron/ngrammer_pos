@@ -1,0 +1,84 @@
+<p>|P_START
+<s>|S_START rising|VBG home|NN sales|NNS have|VBP historically|RB boosted|VBN revenue|NN for|IN home|NN depot|NN and|CC other|JJ housingrelated|JJ retailers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT article|NN was|VBD published|VBN in|IN the|DT october|NN issue|NN of|IN money|NN magazine|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN paul|NN r|NN la|NN monica|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START stop|NN me|PRP if|IN youve|JJ heard|NN this|DT one|CD before|IN the|DT housing|NN market|NN has|VBZ finally|RB hit|VBN bottom|NN </s>|S_END
+<s>|S_START after|IN years|NNS of|IN false|NN hope|NN that|IN may|MD seem|VB hard|JJ to|TO believe|VB </s>|S_END
+<s>|S_START but|CC home|NN sales|NNS are|VBP indeed|RB rebounding|VBG </s>|S_END
+<s>|S_START and|CC prices|NNS nationwide|VBP climbed|VBN 25|CD in|IN june|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START be|VB careful|JJ though|IN about|IN how|WRB you|PRP invest|VBP in|IN this|DT nascent|NN recovery|NN </s>|S_END
+<s>|S_START homebuilder|NN stocks|NNS have|VBP been|VBN surging|VBG for|IN months|NNS in|IN anticipation|NN of|IN a|DT rebound|NN </s>|S_END
+<s>|S_START shares|NNS of|IN lennar|NN and|CC kb|NN home|NN have|VBP soared|VBN around|IN 60|CD in|IN 2012|CD while|IN pultegroup|NN has|VBZ more|JJR than|IN doubled|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START things|NNS are|VBP looking|VBG up|RP in|IN housing|NN says|VBZ harry|NN clark|NN ceo|NN of|IN clark|NN capital|NN management|NN group|NN but|CC you|PRP cant|VBP buy|VB the|DT builders|NNS now|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD housing|VBG recovery|NN is|VBZ finally|RB here|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN for|IN real|JJ estate|NN investment|NN trusts|NNS many|JJ are|VBP getting|VBG frothy|JJ for|IN an|DT altogether|NN different|NN reason|NN </s>|S_END
+<s>|S_START as|IN yieldstarved|VBN investors|NNS have|VBP flocked|VBN to|TO them|PRP to|TO boost|VB income|NN in|IN an|DT era|NN of|IN low|JJ rates|NNS reits|NNS have|VBP returned|VBN twice|NN what|WP the|DT sp|NN 500|CD has|VBZ over|IN the|DT past|JJ three|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START follow|NN the|DT shoppers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fortunately|RB you|PRP have|VB cheaper|JJR options|NNS </s>|S_END
+<s>|S_START rising|VBG home|NN sales|NNS have|VBP historically|RB boosted|VBN revenue|NN for|IN housingrelated|VBN retailers|NNS such|JJ as|IN home|NN depot|NN hd|NN </s>|S_END
+<s>|S_START the|DT homeimprovement|NN chain|NN shares|NNS of|IN which|WDT clarks|NNS firm|VBP owns|NNS says|VBZ sales|NNS will|MD jump|VB 46|CD this|DT year|NN after|IN having|VBG fallen|VBN 1|CD over|IN the|DT prior|NN three|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN hd|VBN shares|NNS are|VBP up|RB 35|CD this|DT year|NN they|PRP trade|VBP at|IN a|DT priceearnings|NNS ratio|NN based|VBN on|IN projected|VBN profits|NNS 20|CD below|IN that|DT of|IN the|DT homebuilders|NNS even|RB though|IN the|DT stock|NN has|VBZ historically|RB traded|VBN at|IN a|DT premium|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tim|NN holland|VBD a|DT portfolio|NN manager|NN for|IN the|DT astontamro|NN funds|NNS which|WDT owns|VBZ the|DT stock|NN thinks|NNS hd|VBP has|VBZ more|JJR room|NN to|TO run|VB as|IN the|DT market|NN slowly|RB recovers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shares|NNS of|IN homegoods|NNS sellers|NNS williamssonoma|VBP wsm|NN and|CC bed|VBD bath|NN beyond|IN bbby|NN have|VBP also|RB lagged|VBN the|DT builder|NN rally|RB though|IN they|PRP enjoy|VBP much|RB better|RBR growth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START prefer|NN to|TO go|VB with|IN a|DT fund|NN </s>|S_END
+<s>|S_START sp|NN homebuilders|NNS etf|VBP xhb|NN owns|NNS all|DT three|CD stocks|NNS </s>|S_END
+<s>|S_START despite|IN its|PRP$ name|NN this|DT etf|NN holds|VBZ 70|CD of|IN its|PRP$ assets|NNS in|IN shares|NNS of|IN homeappliance |JJ furnishings|NNS and|CC improvement|NN chains|NNS and|CC buildingmaterial|JJ makers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  think|NN outside|IN the|DT big|JJ box|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT option|NN lenders|NNS in|IN healthy|JJ states|NNS that|WDT arent|NN suffering|VBG through|IN the|DT aftermath|NN of|IN a|DT major|JJ housing|NN bubble|JJ holland|NN says|VBZ </s>|S_END
+<s>|S_START these|DT banks|NNS will|MD benefit|VB as|IN purchases|NNS and|CC refinancings|NNS climb|VBP </s>|S_END
+<s>|S_START he|PRP owns|VBZ little|JJ rocks|NNS bank|NN of|IN the|DT ozarks|NNS ozrk|VBP </s>|S_END
+<s>|S_START at|IN 73|CD arkansas|NNS unemployment|NN is|VBZ below|IN the|DT us|NN average|NN </s>|S_END
+<s>|S_START the|DT bank|NN is|VBZ also|RB pushing|VBG into|IN texas|NNS with|IN a|DT booming|VBG energy|NN sector|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN for|IN an|DT indirect|JJ play|NN theres|NNS berkshire|VBP hathaway|NN brkb|NN </s>|S_END
+<s>|S_START though|IN not|RB a|DT pure|NN housing|VBG stock|NN warren|NNS buffetts|NNS company|NN owns|VBZ several|JJ related|JJ businesses|NNS such|JJ as|IN the|DT flooring|NN company|NN shaw|NN industries|NNS and|CC the|DT paintmaker|NN benjamin|NN moore|NN notes|NNS david|VBD rolfe|NN manager|NN of|IN the|DT riverparkwedgewood|NN fund|NN which|WDT owns|VBZ the|DT stock|NN </s>|S_END
+<s>|S_START berkshire|NN also|RB has|VBZ stakes|NNS in|IN leading|VBG mortgage|NN originators|NNS wells|NNS fargo|VBP and|CC bank|NN of|IN america|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,150 @@
+<p>|P_START
+<s>|S_START ellie|NN macbride|VBD san|NN francisco|NN literary|NN magazine|NN editor|NN picks|NNS up|IN extra|JJ cash|NN running|VBG errands|NNS posted|VBD on|IN taskrabbits|NNS website|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnnmoney|NN dread|VBD disposing|VBG of|IN the|DT kitty|NN litter|NN </s>|S_END
+<s>|S_START too|RB lazy|JJ to|TO write|VB a|DT love|NN letter|NN </s>|S_END
+<s>|S_START a|DT new|JJ wave|NN of|IN startups|NNS lets|NNS you|PRP outsource|VBP such|JJ chores|NNS to|TO strangers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fledgling|NN companies|NNS including|VBG taskrabbit|NN agent|NN anything|NN and|CC zaarly|RB let|VB you|PRP turn|VB your|PRP$ neighbors|NNS into|IN personal|JJ assistants|NNS spontaneously|RB tapping|VBG people|NNS in|IN your|PRP$ community|NN to|TO perform|VB jobs|NNS that|WDT are|VBP as|RB selfindulgent|JJ and|CC arbitrary|JJ as|IN you|PRP wish|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START taskmasters|NNS have|VBP paid|VBN gofers|NNS $|$ 200|CD to|TO wait|VB in|IN a|DT long|JJ line|NN for|IN a|DT new|JJ ipad|NN and|CC $|$ 60|CD to|TO set|VB up|RP ikea|NN furniture|NN </s>|S_END
+<s>|S_START one|CD man|NN in|IN austin|NN shelled|VBD out|RP $|$ 100|CD for|IN a|DT latenight|NN cheeseburger|NN delivery|NN </s>|S_END
+<s>|S_START another|DT offered|VBN $|$ 10|CD to|TO have|VB someone|NN write|IN a|DT thankyou|NN note|NN to|TO his|PRP$ parents|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ regular|JJ people|NNS calling|VBG on|IN regular|JJ people|NNS explains|VBZ bo|NN fishback|NN the|DT founder|NN and|CC ceo|NN of|IN zaarlycom|NN one|CD of|IN the|DT newest|JJS of|IN these|DT taskoriented|VBN startups|NNS </s>|S_END
+<s>|S_START the|DT 10employee|CD san|NN francisco|NN company|NN launched|VBD in|IN march|NN and|CC landed|VBD $|$ 1|CD million|CD from|IN investors|NNS including|VBG actor|NN ashton|NN kutcher|NN former|NN google|NN goog|NN fortune|NN 500|CD exec|NN paul|NN buchheit|NN and|CC silicon|NN valley|NN venture|NN firm|NN felicis|VBZ ventures|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO use|VB zaarly|RB clients|NNS provide|VBP their|PRP$ locations|NNS propose|VBP tasks|NNS and|CC deadlines|NNS and|CC state|NN how|WRB much|RB theyre|VBP willing|JJ to|TO pay|VB </s>|S_END
+<s>|S_START zaarly|RB broadcasts|VBZ each|DT message|NN on|IN its|PRP$ website|JJ on|IN twitter|NN and|CC on|IN its|PRP$ smartphone|NN app|NN </s>|S_END
+<s>|S_START tasks|NNS appear|VBP on|IN a|DT map|NN labeled|VBN with|IN dollar|NN signs|NNS inviting|VBG applicants|NNS to|TO respond|VB and|CC say|VB why|WRB theyre|JJ right|NN for|IN the|DT job|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START zaarly|RB posts|VBZ go|RB beyond|IN errands|NNS </s>|S_END
+<s>|S_START theyve|NN included|VBD requests|NNS to|TO buy|VB a|DT used|JJ saxophone|NN or|CC unused|VBN broadway|NN theater|NN tickets|NNS or|CC to|TO pay|VB for|IN an|DT experience|NN like|IN riding|NN in|IN a|DT car|NN that|WDT goes|VBZ from|IN zero|NN to|TO 60|CD miles|NNS per|IN hour|PRP$ in|IN four|CD seconds|NNS </s>|S_END
+<s>|S_START that|DT person|NN offered|VBD $|$ 50|CD to|TO go|VB for|IN a|DT spin|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START zaarly|RB connects|VBZ individual|JJ buyers|NNS and|CC sellers|NNS over|IN the|DT phone|NN through|IN an|DT anonymous|JJ party|NN line|NN </s>|S_END
+<s>|S_START when|WRB a|DT match|NN is|VBZ made|VBN the|DT two|CD people|NNS can|MD arrange|VB to|TO meet|VB facetoface|NN to|TO complete|VB the|DT transaction|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START zaarly|RB takes|VBZ a|DT 99|CD transaction|NN fee|NN for|IN processing|NN electronic|JJ payments|NNS through|IN its|PRP$ system|NN but|CC users|NNS who|WP opt|RB to|TO exchange|VB cash|NN instead|RB avoid|VBD the|DT surcharge|NN </s>|S_END
+<s>|S_START about|IN 40000|CD people|NNS are|VBP now|RB using|VBG zaarly|RB in|IN boston|NN chicago|IN los|NNS angeles|NNS new|JJ york|NN san|NN francisco|NN seattle|NN and|CC washington|NN dc|NN fishback|NN says|VBZ the|DT service|NN should|MD be|VB available|JJ nationwide|NN by|IN the|DT years|NNS end|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START zaarly|RB is|VBZ one|CD of|IN a|DT gaggle|JJ of|IN ondemand|NN errand|NN services|NNS that|WDT have|VBP appeared|VBN in|IN the|DT last|JJ six|CD months|NNS capitalizing|VBG on|IN the|DT rise|NN of|IN mobile|JJ apps|NNS gps|NNS technology|NN and|CC social|JJ networking|NN </s>|S_END
+<s>|S_START each|DT has|VBZ its|PRP$ own|JJ twist|NN </s>|S_END
+<s>|S_START they|PRP range|VBP from|IN agent|NN anything|NN which|WDT enlists|NNS 1800|CD students|NNS at|IN columbia|NN university|NN and|CC new|JJ york|NN university|NN to|TO do|VB missions|NNS for|IN new|JJ yorkers|NNS to|TO chicagobased|VBN airrun|NN a|DT new|JJ smartphone|NN app|NN for|IN connecting|NN seekers|NNS and|CC fetchers|NNS nationwide|VBP </s>|S_END
+<s>|S_START virtual|JJ concierge|NN site|NN fancyhandscom|NN offers|NNS monthly|RB $|$ 35|CD to|TO $|$ 55|CD subscriptions|NNS that|WDT allow|VBP you|PRP to|TO outsource|VB a|DT monthly|JJ quota|NN of|IN 15|CD tasks|NNS that|WDT can|MD be|VB done|VBN remotely|RB such|JJ as|IN scheduling|NN a|DT friday|NN haircut|NN or|CC putting|VBG together|RP a|DT spreadsheet|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START israeli|NN startup|NN fiverrcom|NN lets|NNS users|NNS post|VBP what|WP theyll|NN do|VBP for|IN $|$ 5|CD whether|IN its|PRP$ making|VBG a|DT 30second|JJ video|NN or|CC getting|VBG yucko|NN the|DT clown|NN to|TO prank|VB call|NN and|CC yell|NN at|IN your|PRP$ friends|NNS </s>|S_END
+<s>|S_START another|DT startup|NN in|IN san|NN francisco|NN called|VBN heyneighborcom|NN launched|VBD in|IN early|JJ july|NN to|TO connect|VB neighbors|NNS for|IN free|JJ or|CC paid|VBN favors|NNS like|IN watering|VBG your|PRP$ plants|NNS or|CC moving|VBG a|DT couch|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START critics|NNS worry|VBP about|IN the|DT safety|NN of|IN such|JJ peertopeer|NN networks|NNS pointing|VBG to|TO the|DT spate|NN of|IN crimes|NNS perpetrated|VBN using|VBG craigslist|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START startup|NN executives|NNS however|RB see|VB the|DT biggest|JJS challenge|NN in|IN just|RB getting|VBG enough|RB users|NNS on|IN both|DT sides|NNS of|IN the|DT equation|NN the|DT pool|NN of|IN both|DT bidders|NNS and|CC gofers|NNS to|TO make|VB their|PRP$ services|NNS worthwhile|VBP </s>|S_END
+<s>|S_START taskrabbit|NN and|CC heyneighbor|NN are|VBP tackling|VBG the|DT problem|NN by|IN focusing|NN on|IN key|JJ major|JJ markets|NNS while|IN airrun|NN is|VBZ taking|VBG a|DT go|NN at|IN building|NN a|DT national|JJ brand|NN immediately|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START none|NN of|IN the|DT startups|NNS contacted|VBN for|IN this|DT article|NN would|MD disclose|VB their|PRP$ revenues|NNS </s>|S_END
+<s>|S_START all|DT believe|VBP their|PRP$ business|NN models|NNS will|MD prove|VB profitable|JJ </s>|S_END
+<s>|S_START to|TO get|VB there|RB theyll|VB need|VBN to|TO spark|VB widespread|JJ adoption|NN of|IN their|PRP$ services|NNS to|TO the|DT point|NN where|WRB each|DT task|NN can|MD reach|VB a|DT small|JJ army|NN of|IN willing|JJ and|CC wellsituated|VBD gofers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START zaarly|RB and|CC taskrabbit|NN intend|NN to|TO make|VB money|NN immediately|RB their|PRP$ peertopeer|NN economy|NN with|IN transaction|NN fees|NNS </s>|S_END
+<s>|S_START that|DT revenue|NN model|NN will|MD be|VB key|JJ to|TO survival|NN says|VBZ jake|NN wengroff|IN social|JJ media|NNS research|NN director|NN at|IN frost|NN sullivan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START theres|NNS going|VBG to|TO be|VB a|DT shakeout|NN he|PRP says|VBZ </s>|S_END
+<s>|S_START theres|NNS probably|RB room|VBP for|IN at|IN most|JJS three|CD providers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP will|MD be|VB especially|RB tough|JJ if|IN after|IN their|PRP$ initial|JJ meetings|NNS buyers|NNS and|CC sellers|NNS decide|VBP to|TO then|RB work|VB together|RB privately|RB offline|JJ he|PRP says|VBZ </s>|S_END
+<s>|S_START that|DT revenue|NN will|MD disappear|VB wengroff|RP says|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START none|NN of|IN the|DT gofers|NNS are|VBP making|VBG a|DT living|NN off|RP performing|VBG such|JJ services|NNS yet|RB according|VBG to|TO zaarlys|NNS fishback|VBP though|IN he|PRP knows|VBZ two|CD college|NN students|NNS who|WP decided|VBN to|TO bid|NN for|IN zaarly|RB tasks|VBZ instead|RB of|IN getting|VBG traditional|JJ summer|NN jobs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT services|NNS dont|VBP foster|NN your|PRP$ typical|JJ masterservant|NN relationship|NN </s>|S_END
+<s>|S_START many|JJ of|IN those|DT who|WP run|VBN errands|NNS or|CC find|VBP what|WP others|NNS seek|VBP are|VBP also|RB posting|VBG their|PRP$ own|JJ wants|NNS and|CC needs|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START laura|NN horn|NN in|IN san|NN francisco|NN is|VBZ among|IN them|PRP </s>|S_END
+<s>|S_START after|IN hearing|NN about|IN taskrabbit|NN from|IN friends|NNS on|IN facebook|NN the|DT consumer|NN products|NNS manager|NN used|VBD it|PRP for|IN a|DT handful|NN of|IN errands|NNS paying|VBG $|$ 15|CD for|IN someone|NN to|TO pick|VB up|RP medicine|NN from|IN the|DT drug|NN store|NN and|CC $|$ 12|CD for|IN a|DT delivery|NN of|IN her|PRP$ dry|JJ cleaning|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START six|CD weeks|NNS later|JJ the|DT 42yearold|JJ decided|VBD to|TO do|VB the|DT bidding|NN for|IN others|NNS as|RB a|DT rabbit|NN as|IN well|RB </s>|S_END
+<s>|S_START she|PRP has|VBZ since|IN done|NN more|JJR than|IN 50|CD chores|NNS for|IN people|NNS including|VBG taking|VBG people|NNS to|TO the|DT airport|NN for|IN $|$ 35|CD and|CC finding|NN a|DT permit|NN for|IN a|DT family|NN to|TO hold|VB a|DT birthday|NN party|NN in|IN a|DT local|JJ park|NN for|IN $|$ 20|CD </s>|S_END
+<s>|S_START its|PRP$ sort|NN of|IN a|DT hobby|NN that|WDT brings|VBZ in|IN some|DT extra|JJ spending|NN cash|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN some|DT ways|NNS taskrabbit|VBP fills|NNS my|PRP$ need|NN to|TO help|VB people|NNS and|CC satisfy|NN a|DT fastpace|NN life|NN i|PRP like|VBP to|TO keep|VB horn|NN says|VBZ </s>|S_END
+<s>|S_START i|PRP want|VBP to|TO keep|VB moving|VBG and|CC i|PRP like|VBP the|DT variety|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO become|VB a|DT rabbit|NN horn|NN filled|VBD out|RP an|DT online|NN application|NN did|VBD a|DT phone|NN interview|NN and|CC passed|VBD a|DT background|NN check|NN </s>|S_END
+<s>|S_START taskrabbit|NN now|RB has|VBZ 1000|CD rabbits|NNS like|IN horn|NN and|CC 20000|CD users|NNS who|WP post|RB their|PRP$ tasks|NNS in|IN boston|NN new|JJ york|NN los|NNS angeles|NNS and|CC san|NN francisco|NN says|VBZ founder|NN and|CC ceo|NN leah|NN busque|NN </s>|S_END
+<s>|S_START the|DT company|NN which|WDT started|VBD in|IN 2009|CD has|VBZ raised|VBN $|$ 7|CD million|CD from|IN investors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START busque|NN declined|VBD to|TO disclose|VB revenues|NNS at|IN taskrabbit|NN which|WDT gets|VBZ a|DT 15|CD cut|NN of|IN jobs|NNS that|WDT average|JJ about|IN $|$ 60|CD a|DT piece|NN </s>|S_END
+<s>|S_START most|JJS of|IN the|DT posts|NNS are|VBP for|IN errands|NNS like|IN delivering|VBG groceries|NNS but|CC one|CD woman|NN used|VBN the|DT service|NN to|TO find|VB someone|NN to|TO visit|VB her|PRP$ 20yearold|JJ son|NN at|IN the|DT hospital|JJ when|WRB she|PRP was|VBD out|RP of|IN town|NN for|IN $|$ 25|CD </s>|S_END
+<s>|S_START another|DT man|NN paid|VBD $|$ 25|CD for|IN someone|NN to|TO write|VB a|DT love|NN letter|NN to|TO win|VB back|RB his|PRP$ exgirlfriend|NN busque|NN says|VBZ </s>|S_END
+<s>|S_START it|PRP worked|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START then|RB theres|VBZ jimmy|NN lujan|NN who|WP used|VBN taskrabbit|NN to|TO hire|VB someone|NN to|TO wrap|VB his|PRP$ coworkers|NNS belongings|NNS in|IN cellophane|NN as|IN a|DT practical|JJ joke|NN </s>|S_END
+<s>|S_START the|DT cost|NN $|$ 120|CD </s>|S_END
+<s>|S_START when|WRB his|PRP$ five|CD colleagues|NNS came|VBD into|IN the|DT office|NN their|PRP$ desks|NNS lamps|NNS chairs|NNS even|RB pencils|VBZ and|CC file|JJ folders|NNS were|VBD covered|VBN in|IN the|DT plastic|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP wasnt|VBD the|DT best|JJS thing|NN for|IN the|DT environment|NN says|VBZ lujan|NN a|DT computer|NN engineer|NN who|WP works|NNS at|IN a|DT san|NN francisco|NN tech|NN startup|NN </s>|S_END
+<s>|S_START but|CC it|PRP was|VBD hilarious|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lujan|NN has|VBZ also|RB made|VBN more|JJR productive|JJ use|NN of|IN taskrabbit|NN </s>|S_END
+<s>|S_START he|PRP paid|VBD someone|NN $|$ 100|CD to|TO plant|NN an|DT herb|NN garden|NN and|CC $|$ 100|CD to|TO catalog|VB the|DT contents|NNS of|IN several|JJ boxes|NNS of|IN clothes|NNS records|NNS and|CC books|NNS and|CC take|VB them|PRP to|TO a|DT storage|NN unit|NN </s>|S_END
+<s>|S_START he|PRP had|VBD a|DT vegan|NN milkshake|NN and|CC a|DT rose|NN delivered|VBN to|TO his|PRP$ partner|NN for|IN $|$ 18|CD and|CC he|PRP hired|VBD a|DT woman|NN to|TO haul|VB off|RP a|DT slow|JJ cooker|NN two|CD irons|NNS old|JJ clothing|NN and|CC books|NNS from|IN his|PRP$ front|NN porch|NN for|IN $|$ 60|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP am|VBP one|CD of|IN those|DT people|NNS who|WP is|VBZ willing|JJ to|TO pay|VB for|IN convenience|NN he|PRP says|VBZ </s>|S_END
+<s>|S_START this|DT idea|NN has|VBZ been|VBN around|IN but|CC its|PRP$ the|DT marriage|NN with|IN technology|NN that|IN make|NN it|PRP instant|VBD and|CC hasslefree|VB </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

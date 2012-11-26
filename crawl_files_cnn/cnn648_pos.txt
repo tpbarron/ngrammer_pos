@@ -1,0 +1,83 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT us|PRP housing|VBG industry|NN crucial|JJ to|TO any|DT jobs|NNS recovery|VBP showed|VBN more|RBR signs|NNS of|IN strength|NN according|VBG to|TO two|CD reports|NNS issued|VBN wednesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT census|NN bureau|NN said|VBD housing|VBG starts|NNS and|CC permits|NNS rose|VBD substantially|RB in|IN august|JJ </s>|S_END
+<s>|S_START separately|RB sales|NNS of|IN previously|RB occupied|VBN homes|NNS climbed|VBD 78|CD from|IN a|DT year|NN ago|IN according|VBG to|TO the|DT national|JJ association|NN of|IN realtors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START builders|NNS started|VBD on|IN new|JJ homes|NNS at|IN an|DT annual|JJ rate|NN of|IN 750000|CD up|IN 291|CD compared|VBN with|IN a|DT year|NN earlier|JJR </s>|S_END
+<s>|S_START they|PRP applied|VBD to|TO build|VB another|DT 803000|CD new|JJ homes|NNS on|IN an|DT annual|JJ basis|NN a|DT 245|CD jump|NN compared|VBN with|IN august|JJ 2011|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START home|NN builders|NNS have|VBP become|VBN increasingly|RB bullish|JJ a|DT confidence|NN index|NN from|IN the|DT national|JJ association|NN of|IN home|NN builders|NNS reached|VBD its|PRP$ highest|JJS level|NN since|IN june|NN 2006|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB after|IN recent|JJ gains|NNS housing|VBG starts|NNS lag|NN well|RB behind|IN the|DT peak|NN set|VBD in|IN may|NN 2005|CD when|WRB the|DT pace|NN of|IN building|NN hit|VBD more|JJR than|IN 2|CD million|CD homes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD best|JJS places|NNS to|TO live|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN sales|NNS continue|VBP to|TO gain|VB steam|NN that|IN could|MD help|VB the|DT nation|NN break|NN out|IN of|IN its|PRP$ economic|JJ doldrums|NNS </s>|S_END
+<s>|S_START home|NN building|NN provides|VBZ many|JJ goodpaying|VBG jobs|NNS about|IN three|CD hires|NNS for|IN every|DT home|NN built|NN in|IN a|DT year|NN according|VBG to|TO the|DT national|JJ association|NN of|IN home|NN builders|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT rebound|NN would|MD create|VB other|JJ jobs|NNS too|RB factory|NN jobs|NNS at|IN carpet|NN and|CC furniture|NN makers|NNS for|IN example|NN </s>|S_END
+<s>|S_START truckers|NNS get|VBP work|NN transporting|VBG all|DT those|DT goods|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD buy|NN or|CC rent|NN </s>|S_END
+<s>|S_START 10|CD major|JJ cities|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS housing|VBG markets|NNS around|IN the|DT nation|NN have|VBP reached|VBN a|DT good|JJ balance|NN between|IN sellers|NNS and|CC buyers|NNS according|VBG to|TO the|DT realtors|NNS chief|NN economist|NN lawrence|NN yun|NN </s>|S_END
+<s>|S_START theres|NNS a|DT 61|CD month|NN supply|RB of|IN homes|NNS on|IN the|DT market|NN at|IN the|DT current|JJ pace|NN of|IN sales|NNS </s>|S_END
+<s>|S_START thats|NNS down|IN from|IN 64|CD months|NNS in|IN july|RB and|CC 82|CD months|NNS a|DT year|NN earlier|JJR </s>|S_END
+<s>|S_START the|DT lower|JJR supply|NN provides|VBZ some|DT support|NN for|IN prices|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT housing|NN market|NN has|VBZ shown|VBN several|JJ signs|NNS of|IN life|NN over|IN the|DT last|JJ few|JJ months|NNS with|IN sales|NNS of|IN existing|VBG homes|NNS new|JJ home|NN sales|NNS and|CC home|NN prices|NNS all|DT turning|VBG positive|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START historically|RB low|JJ mortgage|NN rates|NNS have|VBP helped|VBN propel|NN the|DT market|NN forward|NN </s>|S_END
+<s>|S_START this|DT week|NN rates|NNS appear|VBP to|TO be|VB headed|VBN for|IN new|JJ lows|NNS following|VBG last|JJ weeks|NNS announcement|NN from|IN the|DT federal|JJ reserve|NN that|WDT it|PRP would|MD begin|VB to|TO purchase|VB tens|NNS of|IN billions|NNS in|IN mortgage|NN securities|NNS each|DT month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT feds|NNS move|VBP provided|VBN the|DT financial|JJ support|NN to|TO the|DT mortgage|NN market|NN and|CC signaled|VBD an|DT intention|NN to|TO keep|VB rates|NNS low|JJ for|IN the|DT foreseeable|JJ future|JJ said|VBD john|NN tashjian|NN who|WP runs|VBZ a|DT real|JJ estate|NN investment|NN fund|NN centurian|NN real|NN estate|NN partners|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START according|VBG to|TO tashjian|JJ the|DT real|JJ benefit|NN of|IN the|DT feds|NNS action|NN could|MD be|VB to|TO increase|VB lending|VBG volume|NN </s>|S_END
+<s>|S_START the|DT banks|NNS knowing|VBG that|IN any|DT well|RB underwritten|VBN mortgage|NN will|MD find|VB a|DT ready|JJ market|NN should|MD be|VB more|RBR willing|JJ to|TO approve|VB mortgages|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD best|JJS home|NN deals|NNS in|IN the|DT best|JJS places|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START prices|NNS are|VBP on|IN the|DT upswing|NN as|IN well|RB </s>|S_END
+<s>|S_START they|PRP have|VBP benefited|VBN from|IN a|DT change|NN in|IN the|DT mix|NN of|IN homes|NNS sold|VBN with|IN distressed|VBN properties|NNS repossessed|VBN homes|NNS and|CC short|JJ sales|NNS accounting|VBG for|IN only|RB 22|CD of|IN total|JJ sales|NNS down|IN from|IN 31|CD last|JJ august|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT median|JJ home|NN price|NN grew|VBD 95|CD yearoveryear|NN to|TO $|$ 187400|CD </s>|S_END
+<s>|S_START that|DT marked|VBD the|DT sixth|JJ consecutive|JJ month|NN of|IN price|NN increases|NNS the|DT first|JJ time|NN that|WDT has|VBZ happened|VBN since|IN may|MD 2006|CD near|IN the|DT very|JJ peak|NN of|IN the|DT housing|NN price|NN boom|NN </s>|S_END
+</p>|P_END
+

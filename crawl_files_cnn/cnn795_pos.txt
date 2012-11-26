@@ -1,0 +1,81 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN security|NN experts|NNS have|VBP warned|VBN for|IN years|NNS that|WDT our|PRP$ smartphones|NNS are|VBP due|JJ for|IN a|DT major|JJ cyberattack|NN </s>|S_END
+<s>|S_START like|IN pcs|NNS back|VBP in|IN the|DT early|JJ days|NNS the|DT 1990s|NNS mobile|VBP phones|NNS are|VBP largely|RB unprotected|VBN by|IN antivirus|NN software|NN and|CC theyre|NN a|DT treasure|NN trove|NN of|IN valuable|JJ information|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN why|WRB hasnt|NN the|DT smartphone|NN armageddon|NN happened|VBD yet|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START basic|JJ economics|NNS is|VBZ one|CD reason|NN </s>|S_END
+<s>|S_START cyberthieves|NNS are|VBP making|VBG so|RB much|RB money|NN attacking|VBG windows|NNS pcs|NNS that|WDT there|EX hasnt|VBP been|VBN much|RB incentive|JJ to|TO change|VB tactics|NNS </s>|S_END
+<s>|S_START its|PRP$ hard|JJ to|TO track|VB down|RP exact|JJ statistics|NNS on|IN how|WRB much|JJ money|NN is|VBZ stolen|VBN each|DT year|NN through|IN cyberattacks|NNS but|CC most|JJS security|NN experts|NNS put|VBD the|DT dollar|NN figure|NN in|IN the|DT billions|NNS </s>|S_END
+<s>|S_START one|CD single|JJ recent|JJ hack|NN that|WDT verizon|NN vz|VBP fortune|NN 500|CD investigated|VBN debit|NN card|NN numbers|NNS stolen|VBP from|IN merchants|NNS through|IN secretly|RB installed|VBN keyloggers|NNS resulted|VBN in|IN a|DT loss|NN of|IN $|$ 20|CD million|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoft|NN msft|VBD fortune|NN 500|CD windows|NNS is|VBZ still|RB the|DT lowhanging|NN fruit|NN </s>|S_END
+<s>|S_START with|IN 92|CD share|NN of|IN the|DT pc|NN market|NN and|CC a|DT twothirds|NNS share|NN of|IN all|DT internetconnected|VBN devices|NNS windows|VBZ is|VBZ the|DT obvious|JJ target|NN to|TO attack|VB if|IN youre|NN a|DT hacker|NN looking|VBG to|TO make|VB money|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START were|VBD about|IN to|TO hit|VB a|DT tipping|NN point|NN though|IN </s>|S_END
+<s>|S_START most|JJS people|NNS still|RB do|VBP their|PRP$ online|NN banking|NN and|CC shopping|VBG on|IN their|PRP$ pcs|NNS but|CC those|DT transactions|NNS are|VBP happening|VBG on|IN mobile|JJ phones|NNS more|RBR frequently|RB </s>|S_END
+<s>|S_START where|WRB money|NN goes|VBZ cybercrooks|NNS follow|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START here|RB are|VBP the|DT scary|JJ numbers|NNS cyberattacks|NNS on|IN mobile|JJ phones|NNS rose|VBD by|IN a|DT factor|NN of|IN six|CD this|DT year|NN according|VBG to|TO intel|VB intc|NN fortune|NN 500|CD subsidiary|NN mcafee|NN </s>|S_END
+<s>|S_START four|PRP$ in|IN 10|CD mobile|JJ users|NNS will|MD click|VB an|DT unsafe|NN link|NN on|IN a|DT smartphone|NN this|DT year|NN according|VBG to|TO lookout|VB security|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB less|JJR than|IN a|DT fifth|JJ of|IN the|DT devices|NNS run|VBP any|DT antivirus|NN software|NN according|VBG to|TO security|NN research|NN organization|NN sans|NNS </s>|S_END
+<s>|S_START an|DT rsa|NN study|NN shows|VBZ were|VBD much|RB more|RBR likely|JJ to|TO click|VB on|IN phishing|NN attacks|NNS on|IN mobile|JJ devices|NNS than|IN we|PRP are|VBP on|IN pcs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START still|RB not|RB even|RB one|CD major|JJ cyberattack|NN has|VBZ hit|VBN smartphones|NNS </s>|S_END
+<s>|S_START whats|NNS up|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT good|JJ news|NN is|VBZ that|IN developers|NNS learned|VBD from|IN the|DT industrys|NNS long|RB history|NN of|IN cybersecurity|NN debacles|NNS </s>|S_END
+<s>|S_START smartphone|NN operating|NN systems|NNS were|VBD built|VBN from|IN scratch|NN fairly|RB recently|RB not|RB much|RB legacy|RB code|VB here|RB and|CC were|VBD designed|VBN with|IN strong|JJ security|NN protections|NNS </s>|S_END
+<s>|S_START though|IN its|PRP$ possible|JJ its|PRP$ incredibly|RB difficult|JJ to|TO attack|VB a|DT device|NN through|IN one|CD program|NN and|CC then|RB own|JJ an|DT entire|JJ phone|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fragmentation|NN is|VBZ also|RB an|DT unexpected|VBN protection|NN </s>|S_END
+<s>|S_START with|IN so|RB many|JJ different|JJ varieties|NNS of|IN googles|NNS goog|VBP fortune|NN 500|CD android|JJ operating|NN system|NN out|IN there|EX its|PRP$ hard|NN to|TO write|VB the|DT right|NN code|NN for|IN a|DT wide|JJ swath|NN of|IN devices|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB users|NNS of|IN android|JJ the|DT target|NN of|IN almost|RB all|DT mobile|JJ malware|NN are|VBP far|RB less|RBR susceptible|JJ to|TO attack|VB than|IN pc|NN users|NNS </s>|S_END
+<s>|S_START the|DT growth|NN in|IN mobile|JJ threats|NNS is|VBZ dramatic|JJ but|CC the|DT 13000|CD different|JJ kinds|NNS of|IN mobile|JJ malware|NN mcafee|NN has|VBZ found|VBN this|DT year|NN is|VBZ still|RB teeny|JJ compared|VBN with|IN the|DT 90|CD million|CD threats|NNS it|PRP detected|VBD for|IN pcs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START still|RB experts|VBZ say|VBP its|PRP$ just|RB a|DT matter|NN of|IN time|NN before|IN mobile|JJ catches|NNS up|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT money|NN is|VBZ in|IN mobile|JJ and|CC thats|NNS where|WRB theyre|JJ moving|NN said|VBD stu|NN sjouwerman|NN ceo|NN of|IN knowbe4|NNP a|DT security|NN training|NN company|NN </s>|S_END
+<s>|S_START malware|NN on|IN mobile|JJ phones|NNS is|VBZ going|VBG to|TO be|VB as|RB prevalent|JJ as|IN on|IN the|DT pc|NN </s>|S_END
+<s>|S_START its|PRP$ inevitable|JJ unfortunately|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START smartphones|NNS have|VBP become|VBN personal|JJ computers|NNS that|WDT travel|NN around|IN with|IN us|PRP at|IN all|DT times|NNS </s>|S_END
+<s>|S_START mobile|JJ attacks|NNS are|VBP difficult|JJ and|CC the|DT smartphone|NN space|NN may|MD never|RB be|VB as|IN homogeneous|JJ as|IN the|DT pc|NN market|NN but|CC crooks|VBZ follow|JJ the|DT cash|NN </s>|S_END
+<s>|S_START as|IN smartphones|NNS become|VBP our|PRP$ primary|JJ devices|NNS the|DT cybercriminals|NNS motivation|NN for|IN targeting|VBG them|PRP grows|VBZ </s>|S_END
+<s>|S_START all|DT it|PRP will|MD take|VB is|VBZ one|CD slip|NN up|IN by|IN apple|NN aapl|NN fortune|NN 500|CD or|CC google|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP will|MD happen|VB is|VBZ one|CD of|IN these|DT smartphone|NN makers|NNS will|MD release|VB a|DT new|JJ os|NNS or|CC browser|JJR and|CC there|EX will|MD be|VB a|DT hole|NN said|VBD alan|NN wlasuk|NN the|DT managing|VBG partner|NN of|IN wddinc|NN a|DT software|NN development|NN company|NN </s>|S_END
+<s>|S_START an|DT attacker|NN will|MD exploit|VB that|IN </s>|S_END
+<s>|S_START thats|NNS going|VBG to|TO happen|VB for|IN sure|NN </s>|S_END
+</p>|P_END
+

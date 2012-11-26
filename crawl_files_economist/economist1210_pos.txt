@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 36|CD gdp|NN $|$ 418bn|CD ppp|CD $|$ 582bn|CD inflation|NN 52|CD population|NN 488m|CD gdp|NN per|IN head|NN $|$ 8460|CD ppp|CD $|$ 11920|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT midpoint|NN of|IN his|PRP$ fiveyear|NN term|NN jacob|NN zuma|NN the|DT president|NN will|MD face|VB rising|VBG tensions|NNS between|IN and|CC within|IN the|DT three|CD parties|NNS of|IN his|PRP$ ruling|NN coalition|NN </s>|S_END
+<s>|S_START opposition|NN to|TO his|PRP$ promarket|NN platform|NN from|IN leftist|NN allies|NNS risks|NNS disruptive|VBP strike|NN </s>|S_END
+<s>|S_START criticism|NN will|MD come|VB from|IN his|PRP$ own|JJ african|NN national|JJ congress|NN but|CC with|IN no|DT clear|JJ challenger|NN he|PRP wont|VBD lose|DT his|PRP$ job |NN </s>|S_END
+</p>|P_END
+

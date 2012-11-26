@@ -1,0 +1,8 @@
+<p>|P_START
+<s>|S_START the|DT un|NN conference|NN on|IN trade|NN and|CC development|NN unctad|NN revised|VBD down|IN its|PRP$ 2012|CD forecast|NN for|IN global|JJ inflows|NNS of|IN foreign|JJ direct|JJ investment|NN fdi|NN to|TO less|RBR than|IN $|$ 16|CD trillion|CD </s>|S_END
+<s>|S_START inflows|NNS in|IN the|DT first|JJ half|DT of|IN 2012|CD fell|VBD by|IN 8|CD on|IN a|DT year|NN earlier|JJR to|TO $|$ 668|CD billion|CD </s>|S_END
+<s>|S_START despite|IN its|PRP$ inflows|NNS falling|VBG china|NN became|VBD the|DT world’s|JJ largest|JJS recipient|JJ of|IN fdi|NN in|IN the|DT first|JJ half|DT of|IN 2012|CD largely|RB because|IN fdi|NN to|TO america|VB flopped|VBN </s>|S_END
+<s>|S_START but|CC inflows|VBZ to|TO america|VB may|MD perk|VB up|RP softbank|NN a|DT japanese|JJ telecoms|NNS firm|NN recently|RB bought|VBD a|DT $|$ 20|CD billion|CD stake|NN in|IN sprint|NN nextel|NN </s>|S_END
+<s>|S_START as|IN investment|NN into|IN rich|JJ countries|NNS has|VBZ fallen|VBN by|IN 95|CD in|IN the|DT first|JJ half|DT of|IN 2012|CD compared|VBN with|IN the|DT same|JJ period|NN in|IN 2011|CD developing|VBG countries|NNS now|RB receive|JJ over|IN half|DT of|IN global|JJ fdi|NN inflow|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,49 @@
+<p>|P_START
+<s>|S_START any|DT given|VBN episode|NN of|IN a|DT television|NN medical|JJ drama|NN is|VBZ likely|JJ to|TO feature|VB a|DT patient|NN going|VBG into|IN cardiac|NN arrest|JJS </s>|S_END
+<s>|S_START as|IN the|DT victim|NN thrashes|VBZ around|IN a|DT telegenic|JJ doctor|NN summons|NNS a|DT posse|NN of|IN helpers|NNS who|WP start|NN zapping|VBG the|DT patient|NN compressing|VBG his|PRP$ chest|NN or|CC administering|VBG adrenalin|NN jabs|NNS until|IN the|DT heart|NN starts|VBZ ticking|VBG again|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN tv|NN these|DT efforts|NNS almost|RB always|RB succeed|VBN spectacularly|RB and|CC immediately|RB </s>|S_END
+<s>|S_START the|DT real|JJ world|NN sadly|RB is|VBZ crueller|JJR doctors|NNS manage|VBP to|TO restart|VB only|RB about|IN half|DT of|IN the|DT hearts|NNS that|WDT stop|VB in|IN a|DT hospital|NN and|CC only|RB about|RB a|DT sixth|JJ of|IN patients|NNS will|MD go|VB on|IN to|TO survive|VB long|JJ enough|RB to|TO be|VB discharged|VBN </s>|S_END
+<s>|S_START one|CD of|IN the|DT toughest|JJS decisions|NNS faced|VBD by|IN hospital|NN staff|NN is|VBZ how|WRB long|JJ to|TO keep|VB trying|VBG and|CC when|WRB to|TO give|VB up|IN on|IN a|DT particular|JJ patient|NN as|IN a|DT lost|NN cause|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT new|JJ paper|NN published|VBN in|IN the|DT lancet|NN aims|VBZ to|TO provide|VB some|DT scientific|JJ backing|NN for|IN such|JJ decision|NN </s>|S_END
+<s>|S_START a|DT team|NN of|IN researchers|NNS led|VBN by|IN brahmajee|NN nallamothu|NN at|IN the|DT university|NN of|IN michigan|NN looked|VBD at|IN data|NNS from|IN more|RBR than|IN 64000|CD patients|NNS who|WP had|VBD suffered|VBN cardiac|NN arrests|NNS in|IN 435|CD american|JJ hospitals|NNS between|IN 2000|CD and|CC 2008|CD </s>|S_END
+<s>|S_START there|EX are|VBP no|DT official|NN guidelines|NNS specifying|VBG how|WRB long|JJ doctors|NNS should|MD keep|VB trying|VBG to|TO resuscitate|VB flatlining|NN hospital|NN patient|NN </s>|S_END
+<s>|S_START as|IN a|DT result|NN the|DT authors|NNS wondered|VBD whether|IN the|DT amount|NN of|IN time|NN spent|NN attempting|VBG resuscitation|NN might|MD vary|VB from|IN hospital|JJ to|TO hospital|JJ </s>|S_END
+<s>|S_START ure|NN enough|RB it|PRP did|VBD </s>|S_END
+<s>|S_START the|DT median|JJ resuscitation|NN attempts|VBZ in|IN patients|NNS who|WP eventually|RB died|VBD lasted|VBN 16|CD minutes|NNS for|IN the|DT bottom|NN quarter|NN of|IN hospitals|NNS for|IN the|DT top|JJ quarter|NN it|PRP was|VBD 25|CD minute|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT matters|NNS for|IN the|DT researchers|NNS also|RB found|VBD that|IN a|DT greater|JJR willingness|NN to|TO persist|VB correlated|VBN with|IN better|JJR survival|NN chances|NNS for|IN patient|NN </s>|S_END
+<s>|S_START circulation|NN was|VBD restored|VBN in|IN 453|CD of|IN patients|NNS in|IN the|DT bottom|NN quarter|NN of|IN hospitals|NNS 145|CD survived|VBD long|JJ enough|RB to|TO be|VB discharged|VBN </s>|S_END
+<s>|S_START for|IN the|DT top|JJ quarter|NN the|DT figures|NNS were|VBD 507|CD and|CC 162|CD respectively|RB a|DT boost|NN of|IN 12|CD in|IN both|DT case|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD reason|NN why|WRB doctors|NNS are|VBP reluctant|JJ to|TO spend|VB too|RB long|RB attempting|VBG to|TO revive|VB patients|NNS is|VBZ that|IN they|PRP worry|VBP about|IN brain|NN damage|NN caused|VBD by|IN prolonged|VBN lack|NN of|IN oxygen|NN </s>|S_END
+<s>|S_START but|CC the|DT study|NN found|VBD that|IN after|IN adjusting|VBG for|IN factors|NNS such|JJ as|IN age|NN and|CC general|JJ health|NN patients|NNS from|IN hospitals|NNS more|RBR willing|JJ to|TO try|NN long|RB resuscitations|NNS showed|VBD no|DT greater|JJR risk|NN of|IN brain|NN damage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uch|JJ a|DT big|JJ discrepancy|NN in|IN a|DT fairly|RB common|JJ procedure|NN may|MD look|VB odd—if|JJ all|DT hospitals|NNS performed|VBN as|IN well|RB as|IN the|DT best|JJS thousands|NNS of|IN lives|NNS a|DT year|NN might|MD be|VB saved|VBN </s>|S_END
+<s>|S_START but|CC plenty|NN of|IN medicine|NN has|VBZ only|RB a|DT thin|JJ base|NN in|IN scientifically|RB reviewed|VBN evidence|NN meaning|NN that|IN the|DT opinions|NNS judgments|NNS and|CC prejudices|NNS of|IN individual|JJ doctors|NNS often|RB determine|VBP how|WRB treatment|NN is|VBZ given|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT difficulty|NN is|VBZ that|IN medical|JJ decisions|NNS are|VBP complicated|VBN </s>|S_END
+<s>|S_START a|DT doctor|NN considering|VBG whether|IN to|TO continue|VB with|IN chest|JJS compressions|NNS for|IN instance|NN must|MD weigh|VB any|DT number|NN of|IN factors|NNS from|IN the|DT patient’s|NNS age|NN to|TO other|JJ conditions|NNS he|PRP may|MD be|VB suffering|VBG from|IN or|CC the|DT effects|NNS of|IN drugs|NNS used|VBN to|TO treat|VB them|PRP </s>|S_END
+<s>|S_START the|DT presence|NN of|IN so|RB many|JJ confounding|VBG factors|NNS makes|VBZ it|PRP hard|RB to|TO assess|VB the|DT general|JJ effectiveness|NN of|IN any|DT given|VBN treatment—unless|JJ like|IN dr|NN nallamothu|NN and|CC his|PRP$ colleagues|NNS you|PRP have|VBP access|NN to|TO a|DT great|JJ deal|NN of|IN data|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN with|IN any|DT piece|NN of|IN scientific|JJ research|NN there|EX are|VBP caveat|NN </s>|S_END
+<s>|S_START dr|NN nallamothu|VBD points|NNS out|IN that|DT the|DT study|NN could|MD simply|RB be|VB picking|VBG up|RP an|DT effect|NN of|IN better|JJR hospitals|NNS with|IN a|DT willingness|NN to|TO persist|VB with|IN resuscitation|NN a|DT consequence|NN of|IN better|JJR technology|NN or|CC bettertrained|VBN doctors|NNS neither|DT of|IN which|WDT can|MD be|VB detected|VBN by|IN the|DT study|NN </s>|S_END
+<s>|S_START and|CC the|DT tricky|JJ clinical|JJ particulars|NNS of|IN any|DT given|VBN resuscitation|NN mean|NN that|WDT the|DT paper|NN can|MD not|RB give|VB rise|NN to|TO hardandfast|VB rules|NNS about|IN exactly|RB how|WRB long|JJ doctors|NNS should|MD persist|VB </s>|S_END
+<s>|S_START but|CC it|PRP does|VBZ suggest|VBP that|IN plenty|NN of|IN lives|NNS might|MD be|VB saved|VBN if|IN medics|NNS are|VBP willing|JJ to|TO keep|VB trying|VBG for|IN a|DT little|RB bit|NN longer|NN </s>|S_END
+</p>|P_END
+

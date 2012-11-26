@@ -1,0 +1,118 @@
+<p>|P_START
+<s>|S_START cloudflare|NN ceo|VBD matthew|NN prince|NN discusses|NNS cybersecurity|NN and|CC threats|NNS from|IN hackers|NNS at|IN the|DT rsa|NN conference|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START san|NN francisco|VBD cnnmoney|NN on|IN june|NN 2|CD hacktivist|NN collective|JJ lulzsec|NN burst|NN onto|IN the|DT cybersecurity|NN scene|NN with|IN a|DT splashy|JJ exploit|NN it|PRP published|VBD a|DT trove|NN of|IN data|NNS stolen|VBN from|IN 1|CD million|CD user|NN accounts|NNS on|IN sonys|NNS website|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lulzsecs|NNS website|VBP immediately|RB crashed|VBN under|IN a|DT massive|JJ traffic|NN attack|NN from|IN foes|NNS seeking|VBG to|TO hack|VB the|DT hackers|NNS </s>|S_END
+<s>|S_START within|IN the|DT hour|NN lulzsec|NN signed|VBD up|RP for|IN a|DT website|JJ optimization|NN service|NN called|VBN cloudflare|NN and|CC nine|CD minutes|NNS later|JJ its|PRP$ site|JJ was|VBD back|RB online|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS how|WRB cloudflare|JJ a|DT silicon|NN valley|NN startup|NN with|IN a|DT staff|NN of|IN 30|CD found|VBN itself|PRP in|IN the|DT middle|NN one|CD of|IN the|DT years|NNS biggest|JJS cybersecurity|NN battles|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START everyone|NN from|IN threeletter|NN government|NN agencies|NNS to|TO whitehat|VB hackers|NNS to|TO blackhat|VB hackers|NNS spent|VBN the|DT next|JJ 23|CD days|NNS trying|VBG to|TO discover|VB where|WRB exactly|RB is|VBZ lulz|NN hosted|VBN and|CC how|WRB can|MD we|PRP knock|VB them|PRP offline|VB said|VBD cloudflare|NN ceo|NN matthew|NN prince|NN </s>|S_END
+<s>|S_START we|PRP literally|RB sat|VBP in|IN the|DT crossfire|NN of|IN that|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lulzsec|NN burned|VBD bright|JJ and|CC fast|RB </s>|S_END
+<s>|S_START it|PRP followed|VBD the|DT sony|NN hack|NN with|IN a|DT string|NN of|IN highprofile|NN feats|NNS including|VBG crashing|NN the|DT cias|NN website|NN then|RB abruptly|RB announced|VBN its|PRP$ retirement|NN and|CC shut|NN down|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eight|NN months|NNS later|JJ prince|NN shared|VBD his|PRP$ war|NN story|NN during|IN a|DT packed|JJ session|NN at|IN rsas|NNS annual|JJ security|NN conference|NN in|IN san|NN francisco|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB they|PRP took|VBD down|RP the|DT cias|NNS website|VBP that|IN was|VBD a|DT difficult|JJ day|NN for|IN us|PRP prince|NN said|VBD dryly|RB </s>|S_END
+<s>|S_START we|PRP made|VBD a|DT lot|NN of|IN friends|NNS with|IN some|DT government|NN agencies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cloudflare|NN provides|VBZ an|DT invisible|JJ but|CC vital|JJ web|NN service|NN it|PRP speeds|VBZ up|RP the|DT performance|NN of|IN websites|NNS and|CC protects|NNS them|PRP from|IN traffic|JJ surges|NNS and|CC attacks|NNS </s>|S_END
+<s>|S_START thats|NNS something|NN typically|RB handled|VBN by|IN large|JJ vendors|NNS like|IN akamai|NN akam|NN and|CC level|NN 3|CD lvlt|NN </s>|S_END
+<s>|S_START launched|VBD less|JJR than|IN two|CD years|NNS ago|RB cloudflare|JJ shook|NN up|IN the|DT industry|NN by|IN offering|NN many|JJ of|IN its|PRP$ services|NNS at|IN no|DT cost|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS what|WP drew|VBD lulzsec|NN in|IN </s>|S_END
+<s>|S_START with|IN a|DT name|NN and|CC email|NN address|NN customers|NNS can|MD sign|VB up|RP on|IN clouldflares|NNS website|IN for|IN free|JJ and|CC start|NN using|VBG it|PRP seconds|VBZ later|JJ </s>|S_END
+<s>|S_START lulzsec|NN offered|VBD its|PRP$ enthusiastic|JJ endorsement|NN tweeting|VBG out|RP we|PRP love|VBP cloudflare|JJ mr|NN ceo|NN of|IN cloudflare|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cloudflare|NN wasnt|VBD sure|NN it|PRP loved|VBD lulzsec|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT was|VBD a|DT little|RB bit|NN of|IN an|DT existential|JJ crisis|NN for|IN us|PRP </s>|S_END
+<s>|S_START we|PRP sat|VBP back|RB and|CC thought|VBD is|VBZ this|DT who|WP we|PRP want|VBP to|TO have|VB on|IN our|PRP$ network|NN </s>|S_END
+<s>|S_START prince|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT company|NN decided|VBD to|TO keep|VB lulzsec|NN for|IN two|CD reasons|NNS </s>|S_END
+<s>|S_START one|CD it|PRP didnt|VBD want|JJ to|TO go|VB down|RP the|DT slippery|NN slope|NN of|IN censoring|VBG which|WDT sites|NNS it|PRP serves|VBZ </s>|S_END
+<s>|S_START and|CC second|JJ it|PRP wanted|VBD to|TO see|VB what|WP a|DT lightning|NN rod|NN like|IN lulzsec|NN would|MD do|VB to|TO its|PRP$ network|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START prince|NN calls|VBZ lulzsecs|NNS 23day|JJ rampage|NN the|DT kind|NN of|IN stresstest|NN money|NN cant|NN buy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN terms|NNS of|IN actual|JJ traffic|JJ and|CC attacks|NNS lulzsec|VBP turned|VBN out|RP to|TO be|VB a|DT fairly|RB runofthemill|NN customer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN its|PRP$ busiest|NN day|NN the|DT lulzsec|NN site|NN did|VBD around|IN 63|CD million|CD pageviews|NNS a|DT minuscule|NN fraction|NN of|IN the|DT 30|CD billion|CD pageviews|NNS a|DT month|NN cloudflare|NN now|RB supports|VBZ </s>|S_END
+<s>|S_START lulzsec|NN drew|VBD a|DT constant|NN stream|NN of|IN denial|JJ of|IN service|NN ddos|NNS attacks|NNS which|WDT aim|NN to|TO shut|VB a|DT site|JJ down|NN by|IN overwhelming|NN its|PRP$ servers|NNS with|IN traffic|JJ but|CC they|PRP too|RB were|VBD fairly|RB routine|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN the|DT peak|NN day|NN they|PRP got|VBD about|IN 21|CD gb|NN of|IN attack|NN traffic|NN prince|NN recalled|VBD </s>|S_END
+<s>|S_START we|PRP had|VBD an|DT attack|NN this|DT morning|NN that|IN got|NN 30|CD gb|NN of|IN traffic|JJ per|NN second|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ddos|NNS attacks|NNS are|VBP typically|RB viewed|VBN by|IN security|NN pros|NNS as|IN more|JJR of|IN a|DT prank|NN than|IN a|DT serious|JJ attack|NN </s>|S_END
+<s>|S_START theyre|NN lowtech|NN shortlived|VBD and|CC dont|NN involve|VB any|DT actual|JJ data|NNS breaches|NNS </s>|S_END
+<s>|S_START the|DT target|NN site|NN simply|RB crashes|VBZ until|IN the|DT traffic|JJ deluge|NN dies|NNS down|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC theyre|VBP becoming|VBG a|DT tool|NN of|IN choice|NN for|IN cybercriminals|NNS </s>|S_END
+<s>|S_START cloudflares|NNS network|VBP has|VBZ seen|VBN a|DT 700|CD increase|NN in|IN ddos|NNS attacks|NNS over|IN the|DT past|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN an|DT example|NN prince|NN offered|VBD up|RP the|DT case|NN of|IN the|DT valentines|NNS day|NN massacre|NN </s>|S_END
+<s>|S_START on|IN feb|NN 13|CD around|IN 1000|CD smalltime|NN florists|NNS got|VBD an|DT email|NN instructing|VBG them|PRP to|TO send|VB $|$ 1000|CD to|TO an|DT account|NN in|IN china|NN or|CC face|VB a|DT website|JJ blackout|NN the|DT next|JJ day|NN </s>|S_END
+<s>|S_START ftdcom|NN worked|VBD with|IN cloudflare|NN to|TO keep|VB the|DT florists|NNS sites|VBZ online|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START prince|NN said|VBD he|PRP envies|VBZ that|IN level|NN of|IN coordination|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT real|JJ talent|NN these|DT hacking|VBG groups|NNS like|IN anonymous|JJ have|VBP is|VBZ not|RB hacking|VBG skill|RB but|CC the|DT ability|NN to|TO get|VB a|DT lot|NN of|IN people|NNS to|TO move|VB in|IN the|DT same|JJ direction|NN he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT end|NN prince|NN said|VBD that|IN was|VBD one|CD of|IN his|PRP$ biggest|JJS takeaways|NNS from|IN laffair|JJ lulzsec|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT lulzsec|NN folks|NNS caused|VBN real|JJ harm|NN he|PRP said|VBD </s>|S_END
+<s>|S_START its|PRP$ cute|JJ and|CC its|PRP$ fun|NN and|CC they|PRP were|VBD sort|NN of|IN media|NNS darlings|NNS but|CC if|IN we|PRP are|VBP going|VBG to|TO defeat|VB organizations|NNS like|IN this|DT we|PRP have|VBP to|TO start|VB adopting|NN some|DT of|IN their|PRP$ tactics|NNS </s>|S_END
+<s>|S_START we|PRP have|VBP to|TO start|VB working|JJ together|NN more|RBR as|IN a|DT community|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

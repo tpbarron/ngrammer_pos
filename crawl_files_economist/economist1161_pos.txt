@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 63 |CD gdp|NN $|$ 68bn|CD ppp|CD $|$ 126bn|CD inflation|NN 71|CD population|NN 208m|CD gdp|NN per|IN head|NN $|$ 3260|CD ppp|CD $|$ 6040|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT popular|JJ president|NN mahinda|NN rajapakse|NN and|CC his|PRP$ united|VBN peoples|NNS freedom|NN alliance|NN will|MD continue|VB to|TO reap|VB the|DT dividend|NN of|IN victory|NN over|IN tamil|NN separatists|NNS in|IN 2009|CD </s>|S_END
+<s>|S_START the |NN priority|NN will|MD be|VB to|TO rebuild|VB infrastructure|NN destroyed|VBN or|CC neglected|VBN in|IN the|DT war|NN and|CC to|TO spur|VB rural|JJ development|NN </s>|S_END
+<s>|S_START tensions|NNS arising|VBG from|IN mr|NN rajapakses|NNS personalised|VBD hardline|NN approach|NN will|MD build|VB ominously|RB but|CC this|DT should|MD be|VB a|DT year|NN of|IN consolidation|NN and|CC growth |NNP </s>|S_END
+</p>|P_END
+

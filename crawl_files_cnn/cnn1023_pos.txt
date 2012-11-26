@@ -1,0 +1,61 @@
+<p>|P_START
+<s>|S_START halloween|IN mask|NN sales|NNS of|IN presidential|JJ candidates|NNS have|VBP accurately|RB predicted|VBN election|NN outcomes|NNS in|IN the|DT last|JJ four|CD elections|NNS </s>|S_END
+<s>|S_START president|NN obama|VBD masks|NNS are|VBP in|IN the|DT lead|NN this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN polls|NNS may|MD show|VB a|DT hotly|RB contested|VBN presidential|JJ election|NN </s>|S_END
+<s>|S_START but|CC sales|NNS of|IN halloween|JJ masks|NNS of|IN the|DT candidates|NNS are|VBP already|RB calling|VBG the|DT race|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START president|NN obama|VBD masks|NNS have|VBP been|VBN outselling|VBG those|DT of|IN his|PRP$ republican|JJ challenger|NN mitt|NN romney|NN by|IN a|DT 60|CD to|TO 40|CD margin|NN according|VBG to|TO spirit|NN halloween|IN the|DT countrys|NNS largest|JJS seasonal|JJ halloween|NN retailer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT 1000store|JJ chain|NN even|RB has|VBZ its|PRP$ own|JJ presidential|JJ index|NN which|WDT uses|NNS nationwide|VBP sales|NNS of|IN candidates|NNS masks|NNS to|TO predict|VB the|DT outcome|NN of|IN the|DT most|RBS important|JJ us|PRP election|NN every|DT four|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN unscientific|JJ as|IN the|DT methodology|NN may|MD be|VB spirit|NN halloween|VBN has|VBZ accurately|RB predicted|VBN the|DT election|NN winner|NN by|IN charting|NN national|JJ mask|NN sales|NNS since|IN it|PRP started|VBD keeping|VBG track|NN in|IN 1996|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD misery|NN index|NN predicts|NNS obama|VBP will|MD win|VB the|DT election|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START obama|NN beat|VBD out|RP sen|VBN john|NN mccain|NN in|IN mask|NN sales|NNS in|IN 2008|CD with|IN the|DT same|JJ split|NN as|IN this|DT year|NN </s>|S_END
+<s>|S_START the|DT retailer|NN also|RB predicted|VBD a|DT president|NN george|NN w|NN bush|NN win|NN over|IN sen|JJ john|NN kerry|NN in|IN 2004|CD a|DT 2000|CD bush|NN victory|NN over|IN former|JJ vice|NN president|NN al|NN gore|NN and|CC a|DT sen|NN bob|NN dole|NN defeat|NN by|IN president|NN bill|NN clinton|NN in|IN 1996|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT lot|NN of|IN people|NNS are|VBP going|VBG out|RP and|CC supporting|VBG their|PRP$ candidate|NN by|IN wearing|NN their|PRP$ masks|NNS said|VBD lisa|NN barr|NN senior|JJ director|NN of|IN marketing|NN for|IN spirit|NN halloween|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT faceoff|NN between|IN obama|NN and|CC romney|NN masks|NNS which|WDT retail|JJ at|IN spirit|NN for|IN between|IN $|$ 1999|CD and|CC $|$ 2199|CD arent|NN the|DT only|JJ electionrelated|VBN costumes|NNS sparking|VBG sales|NNS for|IN oct|NN 31|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START big|JJ bird|NN costumes|NNS have|VBP been|VBN flying|VBG off|RP the|DT shelves|NNS since|IN the|DT first|JJ presidential|JJ debate|NN when|WRB romney|NN said|VBD he|PRP would|MD cut|VB funding|NN for|IN pbs|NNS the|DT tv|NN home|NN of|IN sesame|NN street|NN </s>|S_END
+<s>|S_START google|NN searches|NNS for|IN big|JJ bird|NN costumes|NNS on|IN the|DT internet|NN also|RB rose|VBD 600|CD after|IN that|DT debate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yon|RB zweibon|VBD owner|NN of|IN beyond|NN costumes|NNS in|IN yonkers|NNS ny|NN said|VBD she|PRP got|VBD a|DT flood|NN of|IN calls|NNS coming|VBG in|IN to|TO rent|NN the|DT stores|NNS big|JJ yellow|NN bird|NN costume|NN this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN rickys|NNS another|DT halloween|NN and|CC beauty|NN store|NN chain|NN big|JJ bird|NN is|VBZ the|DT fifth|JJ most|JJS popular|JJ costume|NN for|IN adults|NNS behind|IN pirates|NNS of|IN the|DT caribbeans|NNS jack|VBP sparrow|NN and|CC catwoman|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT internet|NN has|VBZ also|RB seen|VBN a|DT proliferation|NN of|IN doityourself|PRP guides|VBZ on|IN how|WRB to|TO dress|NN up|IN as|IN a|DT binder|NN full|JJ of|IN women|NNS a|DT phrase|NN uttered|VBN by|IN romney|NN in|IN the|DT second|JJ debate|NN that|WDT set|VBN the|DT web|NN on|IN fire|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT record|NN number|NN of|IN 170|CD million|CD people|NNS plan|NN to|TO celebrate|VB halloween|VBN this|DT year|NN according|VBG to|TO the|DT national|JJ retail|NN federations|NNS 2012|CD consumer|NN spending|NN survey|NN conducted|VBD by|IN biginsight|NN </s>|S_END
+<s>|S_START the|DT average|JJ person|NN will|MD spend|VB nearly|RB $|$ 80|CD on|IN costumes|NNS candy|NN and|CC decoration|NN $|$ 8|CD more|JJR than|IN last|JJ year|NN </s>|S_END
+</p>|P_END
+

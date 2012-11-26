@@ -1,0 +1,129 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT looming|NN spending|NN cuts|NNS at|IN the|DT pentagon|NN played|VBD a|DT starring|NN role|NN in|IN monday|NN nights|NNS foreign|JJ policy|NN debate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mitt|NN romney|NN said|VBD several|JJ times|NNS he|PRP would|MD not|RB cut|VB our|PRP$ military|JJ budget|NN by|IN $|$ 1|CD trillion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN issue|NN are|VBP changes|NNS to|TO defense|VB spending|NN in|IN president|NN obamas|NNS budget|NN as|IN well|RB as|IN the|DT impending|JJ sequester|NN that|WDT will|MD hit|VB the|DT pentagon|NN starting|VBG on|IN jan|NN 2|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN his|PRP$ part|NN obama|NN said|VBD his|PRP$ budget|NN isnt|NN reducing|VBG our|PRP$ military|JJ spending|NN it|PRP is|VBZ maintaining|VBG it|PRP </s>|S_END
+<s>|S_START and|CC he|PRP added|VBD the|DT sequester|NN will|MD not|RB happen|VB </s>|S_END
+<s>|S_START related|VBD obama|NN vs|NNS romney|NN on|IN defense|NN spending|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whos|NNS responsible|VBP for|IN the|DT defense|NN cuts|NNS </s>|S_END
+<s>|S_START both|DT parties|NNS in|IN congress|NN and|CC obama|NN approved|VBD the|DT sequester|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT cuts|NNS are|VBP called|VBN for|IN under|IN the|DT budget|NN control|NN act|NN </s>|S_END
+<s>|S_START the|DT bca|NN which|WDT was|VBD signed|VBN into|IN law|NN in|IN august|JJ 2011|CD was|VBD how|WRB lawmakers|NNS chose|VBP to|TO resolve|VB their|PRP$ bitter|NN fight|NN over|IN raising|VBG the|DT countrys|NNS debt|NN ceiling|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT original|JJ idea|NN was|VBD to|TO pass|VB something|NN so|IN distasteful|JJ it|PRP would|MD light|VB a|DT fire|NN under|IN lawmakers|NNS to|TO finally|RB negotiate|VB a|DT deal|NN to|TO reduce|VB deficits|NNS by|IN at|IN least|JJS $|$ 12|CD trillion|CD over|IN a|DT decade|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC a|DT super|NN committee|NN charged|VBD with|IN doing|NN so|IN failed|VBN </s>|S_END
+<s>|S_START under|IN the|DT budget|NN law|NN the|DT next|JJ step|NN was|VBD the|DT sequester|NN </s>|S_END
+<s>|S_START the|DT cuts|NNS would|MD be|VB evenly|RB divided|VBN between|IN defense|NN and|CC nondefense|NN spending|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START now|RB both|DT parties|NNS and|CC the|DT obama|NN administration|NN say|VB the|DT cuts|NNS are|VBP a|DT terrible|JJ idea|NN largely|RB because|IN they|PRP would|MD be|VB arbitrary|JJ and|CC mostly|RB across|IN the|DT board|NN </s>|S_END
+<s>|S_START related|VBD snapshot|VBN of|IN economy|NN under|IN obama|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB deep|VBP would|MD the|DT defense|NN cuts|NNS be|VB </s>|S_END
+<s>|S_START it|PRP depends|VBZ what|WP you|PRP mean|VBP by|IN cuts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO fiscal|JJ experts|NNS a|DT cut|NN means|VBZ spending|NN that|IN falls|NNS below|IN the|DT level|NN authorized|VBD by|IN congress|NN in|IN the|DT prior|NN year|NN or|CC even|RB spending|NN that|IN stays|NNS at|IN the|DT same|JJ level|NN because|IN it|PRP hasnt|VBP been|VBN adjusted|VBN for|IN inflation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT budget|NN control|NN act|NN actually|RB called|VBN for|IN two|CD rounds|NNS of|IN changes|NNS to|TO defense|VB spending|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT first|JJ round|NN which|WDT is|VBZ already|RB in|IN effect|NN would|MD not|RB be|VB considered|VBN a|DT cut|NN </s>|S_END
+<s>|S_START the|DT bca|NN set|VBD spending|NN caps|NNS which|WDT shaved|VBN $|$ 487|CD billion|CD off|IN the|DT pentagon|NN budget|NN over|IN 10|CD years|NNS </s>|S_END
+<s>|S_START but|CC defense|NN spending|NN would|MD continue|VB to|TO grow|VB at|IN the|DT rate|NN of|IN inflation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romney|NN says|VBZ he|PRP would|MD reinstate|VB the|DT $|$ 487|CD billion|CD obama|NN incorporated|VBN it|PRP into|IN his|PRP$ budget|NN proposal|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT second|JJ round|NN of|IN changes|NNS the|DT actual|JJ sequester|NN would|MD be|VB a|DT real|JJ cut|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START starting|VBG in|IN 2013|CD defense|NN budget|NN authority|NN would|MD be|VB sliced|VBN by|IN 94|CD not|RB including|VBG war|NN funding|NN </s>|S_END
+<s>|S_START the|DT cuts|NNS to|TO some|DT parts|NNS of|IN defense|NN would|MD be|VB higher|JJR because|IN obama|NN has|VBZ exempted|VBN military|JJ personnel|NN and|CC veterans|NNS affairs|NNS from|IN the|DT sequester|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN dollars|NNS the|DT congressional|JJ budget|NN office|NN projects|NNS that|IN the|DT pentagons|NNS base|VBP budget|NN will|MD fall|VB to|TO $|$ 491|CD billion|CD in|IN 2013|CD down|IN from|IN $|$ 554|CD billion|CD in|IN 2012|CD </s>|S_END
+<s>|S_START thereafter|NN defense|NN spending|NN will|MD grow|VB with|IN inflation|NN </s>|S_END
+<s>|S_START that|DT would|MD save|VB roughly|RB $|$ 500|CD billion|CD over|IN a|DT decade|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT pentagon|NN will|MD still|RB be|VB spending|VBG more|JJR in|IN 2013|CD after|IN sequestration|NN than|IN it|PRP did|VBD in|IN 2006|CD at|IN the|DT height|NN of|IN the|DT iraq|NN war|NN noted|VBD lawrence|NN korb|NN who|WP served|VBN as|IN assistant|JJ defense|NN secretary|NN under|IN president|NN reagan|VBD </s>|S_END
+<s>|S_START related|VBD romneys|NNS balanced|VBN budget|NN pledge|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START will|MD the|DT cuts|NNS hurt|VBP defense|NN </s>|S_END
+<s>|S_START everyone|NN from|IN the|DT top|JJ brass|NN at|IN the|DT pentagon|NN to|TO republican|JJ critics|NNS of|IN the|DT budget|NN control|NN act|NN has|VBZ said|VBN the|DT cuts|NNS could|MD result|VB in|IN a|DT hollow|NN force|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT white|JJ house|NN budget|NN office|NN has|VBZ noted|VBN however|RB that|IN the|DT defense|NN department|NN would|MD be|VB able|JJ to|TO shift|VB funds|NNS to|TO maintain|VB critical|JJ military|JJ readiness|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START indeed|RB the|DT operations|NNS and|CC maintenance|NN part|NN of|IN the|DT defense|NN budget|NN the|DT area|NN that|IN most|JJS directly|RB affects|VBZ military|JJ readiness|NN is|VBZ also|RB the|DT most|RBS fungible|JJ part|NN </s>|S_END
+<s>|S_START funds|NNS can|MD be|VB shifted|VBN to|TO what|WP is|VBZ deemed|VBN most|RBS important|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ a|DT management|NN issue|NN not|RB a|DT readiness|NN issue|NN said|VBD gordon|NN adams|NNS who|WP was|VBD the|DT senior|JJ white|JJ house|NN budget|NN official|NN for|IN national|JJ security|NN under|IN president|NN clinton|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START adams|NNS said|VBD the|DT cuts|NNS likely|JJ would|MD be|VB felt|VBN most|JJS heavily|RB by|IN general|JJ service|NN personnel|NN at|IN the|DT pentagon|NN through|IN attrition|NN and|CC furloughs|NNS and|CC by|IN service|NN contractors|NNS those|DT who|WP provide|RB everything|VBG from|IN mess|NN hall|NN services|NNS to|TO security|NN guards|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START none|NN of|IN that|DT means|VBZ however|RB that|IN the|DT cuts|NNS are|VBP advisable|JJ </s>|S_END
+<s>|S_START after|IN all|DT they|PRP only|RB exist|VBP because|IN congress|NN failed|VBD to|TO reduce|VB deficits|NNS in|IN a|DT smarter|NN way|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START why|WRB cant|JJ congress|NN just|RB cancel|NN the|DT cuts|NNS </s>|S_END
+<s>|S_START easier|JJR said|VBD than|IN done|NN </s>|S_END
+<s>|S_START lawmakers|NNS need|VBP to|TO negotiate|VB a|DT deal|NN to|TO avoid|VB the|DT defense|NN cuts|NNS and|CC the|DT rest|NN of|IN the|DT fiscal|JJ cliff|NN $|$ 7|CD trillion|CD in|IN tax|NN increases|NNS and|CC spending|NN cuts|NNS that|WDT start|NN taking|VBG effect|NN next|IN year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC both|DT parties|NNS are|VBP still|RB publicly|RB holding|VBG the|DT line|NN on|IN their|PRP$ demands|NNS </s>|S_END
+<s>|S_START the|DT republicans|NNS want|VBP to|TO cancel|VB the|DT defense|NN cuts|NNS and|CC head|NN off|RP tax|NN increases|NNS </s>|S_END
+<s>|S_START the|DT democrats|NNS want|VBP to|TO increase|VB taxes|NNS on|IN the|DT rich|JJ before|IN they|PRP agree|VBP to|TO replace|VB the|DT sequester|NN with|IN more|JJR gradual|JJ and|CC less|JJR arbitrary|JJ cuts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START just|RB last|JJ week|NN the|DT white|NN house|NN was|VBD signaling|VBG again|RB that|IN the|DT president|NN would|MD not|RB sign|VB legislation|NN that|WDT cancels|VBZ the|DT cuts|NNS but|CC extends|NNS the|DT bushera|NN tax|NN cuts|NNS for|IN highincome|NN taxpayers|NNS </s>|S_END
+</p>|P_END
+

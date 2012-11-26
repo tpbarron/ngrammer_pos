@@ -1,0 +1,26 @@
+<p>|P_START
+<s>|S_START in|IN 1997|CD dma|NN design|NN a|DT british|JJ developer|NN launched|VBD the|DT first|JJ version|NN of|IN “grand|JJ theft|NN auto”|NN an|DT enormously|RB successful|JJ video|NN game|NN in|IN which|WDT players|NNS routinely|RB steal|JJ car|NN </s>|S_END
+<s>|S_START they|PRP would|MD be|VB unlikely|RB to|TO come|VB up|RP with|IN the|DT idea|NN now|RB </s>|S_END
+<s>|S_START in|IN 1997|CD some|DT 369000|CD vehicles|NNS were|VBD stolen|VBN in|IN britain|NN last|JJ year|NN the|DT number|NN was|VBD just|RB 94000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT much|JJ is|VBZ familiar|JJ </s>|S_END
+<s>|S_START but|CC graham|NN farrell|NN a|DT criminologist|NN at|IN loughborough|JJ university|NN believes|NNS the|DT drop|NN in|IN car|NN theft|NN helps|NNS to|TO explain|VB why|WRB overall|JJ crime|NN rates|NNS have|VBP fallen|VBN since|IN the|DT mid1990s—and|JJ not|RB just|RB in|IN britain|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START car|NN theft|VBD he|PRP argues|VBZ is|VBZ an|DT opportunistic|JJ “debut|NN crime”|NN which|WDT can|MD start|VB a|DT criminal|JJ career|NN </s>|S_END
+<s>|S_START those|DT who|WP steal|NN cars|VBZ for|IN fun|NN often|RB go|VBP on|IN to|TO become|VB burglars|NNS or|CC mugger|JJR </s>|S_END
+<s>|S_START and|CC mr|NN farrell|NN points|NNS out|IN that|DT a|DT stolen|NN getaway|NN car|NN is|VBZ often|RB necessary|JJ to|TO commit|VB serious|JJ crimes|NNS such|JJ as|IN armed|VBN robbery|NN </s>|S_END
+<s>|S_START technology|NN that|IN makes|VBZ it|PRP harder|JJR to|TO steal|VB a|DT car|NN such|JJ as|IN vehicle|NN immobilisers|NNS and|CC central|JJ locking|NN thus|RB reduces|VBZ the|DT number|NN of|IN career|NN criminal|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP is|VBZ just|RB one|CD of|IN many|JJ competing|VBG explanations|NNS for|IN the|DT decline|NN in|IN crime|NN in|IN rich|JJ countries|NNS that|IN began|VBD in|IN the|DT 1990|CD </s>|S_END
+<s>|S_START but|CC mr|PRP$ farrell’s|NNS has|VBZ the|DT advantage|NN of|IN crossing|VBG border|NN </s>|S_END
+<s>|S_START it|PRP may|MD explain|VB for|IN example|NN why|WRB crime|NN started|VBD falling|VBG later|JJ in|IN canada|NN than|IN in|IN america|NN immobilisers|NNS were|VBD not|RB mandated|VBN in|IN canada|NN until|IN 2007|CD </s>|S_END
+<s>|S_START that|DT some|DT other|JJ crimes|NNS have|VBP risen|VBN such|JJ as|IN mobile|JJ phone|NN theft|NN and|CC internet|NN fraud|NN supports|NNS the|DT idea|NN that|IN a|DT lot|NN of|IN criminal|JJ activity|NN is|VBZ opportunistic|JJ </s>|S_END
+<s>|S_START and|CC it|PRP makes|VBZ intuitive|JJ sense|NN too|RB as|IN players|NNS of|IN “grand|JJ theft|NN auto”|NN know|VB it|PRP is|VBZ hard|RB to|TO get|VB anything|NN done|NN without|IN a|DT car|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,76 @@
+<p>|P_START
+<s>|S_START most|JJS people|NNS pay|VBP careful|JJ attention|NN to|TO their|PRP$ wage|NN packet|NN </s>|S_END
+<s>|S_START but|CC they|PRP tend|VBP to|TO be|VB much|RB less|JJR interested|JJ in|IN their|PRP$ pensions|NNS even|RB though|IN their|PRP$ financial|JJ wellbeing|NN in|IN the|DT last|JJ 2030|CD years|NNS of|IN their|PRP$ lives|NNS depends|NNS on|IN them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT is|VBZ a|DT great|JJ pity|NN since|IN responsibility|NN for|IN pension|NN provision|NN has|VBZ been|VBN steadily|RB shifting|VBG from|IN the|DT company|NN to|TO the|DT individual|JJ </s>|S_END
+<s>|S_START around|IN 70|CD of|IN american|JJ retirement|NN schemes|NNS are|VBP now|RB definedcontribution|NN dc|NN plans|NNS under|IN which|WDT the|DT final|JJ pension|NN amount|NN is|VBZ dependent|NN on|IN investment|NN performance|NN </s>|S_END
+<s>|S_START in|IN britain|NN the|DT proportion|NN of|IN pension|NN assets|NNS represented|VBD by|IN dc|NN plans|NNS rose|VBD from|IN 8|CD in|IN 2001|CD to|TO 39|CD in|IN 2011|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START poor|NN stockmarket|NN performance|NN has|VBZ reduced|VBN the|DT return|NN that|IN investors|NNS get|VBP on|IN their|PRP$ saving|NN </s>|S_END
+<s>|S_START meanwhile|RB very|RB low|JJ interest|NN rates|NNS and|CC improved|VBN longevity|NN mean|NN that|WDT a|DT much|RB larger|JJR pension|NN pot|NN is|VBZ required|VBN to|TO generate|VB a|DT given|VBN retirement|NN income|NN </s>|S_END
+<s>|S_START according|VBG to|TO alexander|NN forbes|NNS a|DT consultancy|NN the|DT average|JJ british|JJ 30yearold|JJ in|IN 2000|CD could|MD have|VB expected|VBN a|DT pension|NN contribution|NN of|IN 12|CD of|IN wages|NNS to|TO generate|VB a|DT retirement|NN income|NN of|IN 67|CD of|IN their|PRP$ final|JJ salary|NN a|DT 30yearold|JJ today|NN could|MD expect|VB an|DT income|NN worth|NN only|RB 39|CD of|IN final|JJ salary|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT greater|JJR cost|NN of|IN providing|VBG a|DT pension|NN is|VBZ the|DT main|JJ reason|NN why|WRB companies|NNS have|VBP stopped|VBN providing|VBG definedbenefit|NN db|NN schemes|VBZ under|IN which|WDT they|PRP promised|VBD workers|NNS a|DT specified|VBN pension|NN and|CC switched|VBD the|DT burden|NN to|TO employee|VB </s>|S_END
+<s>|S_START but|CC the|DT risk|NN also|RB makes|VBZ pensions|NNS a|DT very|RB unsatisfactory|JJ product|NN for|IN employee|NN </s>|S_END
+<s>|S_START they|PRP put|VBD money|NN aside|NN every|DT month|NN but|CC have|VBP no|DT idea|NN how|WRB much|JJ they|PRP will|MD receive|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS humans|NNS have|VBP a|DT problem|NN with|IN deferred|JJ gratification|NN </s>|S_END
+<s>|S_START a|DT famous|JJ test|NN for|IN children|NNS offered|VBD them|PRP a|DT single|JJ marshmallow|NN up|IN front|NN or|CC two|CD if|IN they|PRP waited|VBD only|RB 30|CD had|VBD the|DT necessary|JJ selfcontrol|NN to|TO delay|VB </s>|S_END
+<s>|S_START pension|NN saving|VBG is|VBZ even|RB more|RBR of|IN a|DT test|NN of|IN patience|NN workers|NNS have|VBP to|TO wait|VB 40|CD years|NNS or|CC more|JJR for|IN the|DT payoff|NN </s>|S_END
+<s>|S_START their|PRP$ pension|NN pots|NNS may|MD not|RB even|RB be|VB worth|JJ the|DT sum|NN total|NN of|IN their|PRP$ contributions|NNS they|PRP may|MD have|VB swapped|VBN marshmallows|NNS for|IN gruel|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP would|MD surely|RB make|VB pension|NN saving|VBG more|JJR attractive|JJ if|IN workers|NNS could|MD be|VB given|VBN a|DT much|RB better|RBR idea|NN of|IN the|DT eventual|JJ rewards|NNS for|IN their|PRP$ thrift|NN </s>|S_END
+<s>|S_START a|DT new|JJ report|NN from|IN the|DT british|JJ institute|NN and|CC faculty|NN of|IN actuaries|NNS examines|NNS whether|IN it|PRP might|MD be|VB possible|JJ to|TO offer|NN guaranteed|VBN pensions|NNS in|IN the|DT dc|NN market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ a|DT simple|JJ way|NN of|IN offering|NN a|DT virtually|RB guaranteed|VBN pension|NN </s>|S_END
+<s>|S_START if|IN investors|NNS buy|VBP indexlinked|VBN government|NN bonds|NNS their|PRP$ savings|NNS will|MD be|VB protected|VBN against|IN inflation|NN unless|IN the|DT government|NN default|NN </s>|S_END
+<s>|S_START but|CC this|DT is|VBZ expensive|JJ because|IN the|DT returns|NNS are|VBP so|RB low|JJ </s>|S_END
+<s>|S_START that|DT expense|NN explains|VBZ why|WRB most|RBS corporate|JJ and|CC government|NN pension|NN funds|NNS have|VBP followed|VBN the|DT strategy|NN of|IN taking|VBG more|JJR risk|NN usually|RB by|IN buying|NN equities|NNS in|IN the|DT hope|NN that|IN excess|NN returns|NNS from|IN the|DT market|NN will|MD let|VB them|PRP make|VB lower|JJR contribution|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN theory|NN you|PRP could|MD insure|VB against|IN equity|NN risk|NN in|IN the|DT derivatives|NNS market|NN by|IN buying|NN a|DT put|NN option|NN the|DT ability|NN to|TO sell|VB shares|NNS at|IN a|DT set|NN price|NN </s>|S_END
+<s>|S_START over|IN the|DT long|JJ run|NN equities|NNS normally|RB rise|VBP in|IN value|NN although|IN that|DT is|VBZ not|RB certain|JJ as|IN japanese|JJ investors|NNS know|VBP all|DT too|RB well|RB </s>|S_END
+<s>|S_START even|RB so|RB buying|VBG a|DT longterm|NN put|VBN option|NN is|VBZ actually|RB more|RBR expensive|JJ than|IN buying|NN a|DT shortterm|NN contract|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START o|NN the|DT actuaries|NNS examine|VBP other|JJ approaches|NNS using|VBG sophisticated|JJ hedging|NN techniques|NNS that|WDT rebalance|NN the|DT portfolio|NN to|TO avoid|VB substantial|JJ losse|NN </s>|S_END
+<s>|S_START the|DT idea|NN is|VBZ to|TO take|VB advantage|NN of|IN the|DT higher|JJR returns|NNS that|WDT equities|NNS can|MD generate|VB but|CC in|IN a|DT lowrisk|NN fashion|NN that|WDT means|VBZ the|DT cost|NN of|IN purchasing|VBG a|DT guarantee|NN is|VBZ reduced|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START although|IN this|DT seems|VBZ a|DT sensible|JJ way|NN forward|NN a|DT couple|NN of|IN caveats|NNS are|VBP needed|VBN </s>|S_END
+<s>|S_START first|JJ the|DT actuaries|NNS can|MD not|RB say|VB how|WRB much|RB a|DT guarantee|NN would|MD cost|VB </s>|S_END
+<s>|S_START they|PRP can|MD calculate|VB only|RB the|DT maximum|NN a|DT pension|NN scheme|NN should|MD pay|VB for|IN a|DT guarantee|NN without|IN making|VBG the|DT strategy|NN selfdefeating|VBG </s>|S_END
+<s>|S_START and|CC any|DT guarantee|NN will|MD involve|VB only|RB the|DT return|NN on|IN contributions|NNS it|PRP will|MD not|RB protect|VB the|DT worker|NN against|IN inflation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT second|JJ caveat|NN is|VBZ that|IN a|DT guarantee|NN is|VBZ only|RB as|IN good|JJ as|IN the|DT guarantor|NN </s>|S_END
+<s>|S_START pensions|NNS are|VBP longterm|JJ products|NNS and|CC the|DT recent|JJ crisis|NN has|VBZ demonstrated|VBN that|IN insurance|NN companies|NNS and|CC investment|NN banks|NNS the|DT likely|JJ guarantors|NNS can|MD not|RB be|VB relied|VBN upon|IN to|TO survive|VB for|IN decade|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT raises|VBZ the|DT question|NN of|IN whether|IN the|DT government|NN should|MD step|VB in|IN </s>|S_END
+<s>|S_START governments|NNS may|MD not|RB want|VB to|TO add|VB to|TO their|PRP$ unfunded|JJ longterm|NN liabilitie|NN </s>|S_END
+<s>|S_START but|CC if|IN a|DT guarantee|NN could|MD be|VB provided|VBN for|IN lowrisk|NN dc|NN schemes|VBZ workers|NNS might|MD be|VB persuaded|VBN to|TO save|VB more|JJR </s>|S_END
+<s>|S_START and|CC if|IN they|PRP do|VBP not|RB save|VB more|JJR than|IN they|PRP do|VBP now|RB they|PRP may|MD end|VB up|RP relying|VBG on|IN government|NN benefits|NNS in|IN any|DT case|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogsbuttonwood|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,34 @@
+<p>|P_START
+<s>|S_START ix|NN argentine|NN pesos|NNS $|$ 130|CD at|IN the|DT official|NN exchange|NN rate|NN or|CC about|IN $|$ 1|CD on|IN the|DT black|JJ market|NN is|VBZ just|RB enough|RB to|TO buy|VB an|DT alfajor|JJ a|DT sweet|JJ biscuit|NN nibbled|VBD between|IN meals|NNS over|IN coffee|NN </s>|S_END
+<s>|S_START but|CC according|VBG to|TO the|DT government|NN it|PRP is|VBZ more|RBR than|IN sufficient|NN to|TO buy|VB an|DT entire|JJ day’s|JJ food|NN </s>|S_END
+<s>|S_START on|IN august|JJ 10th|CD indec|NN the|DT national|JJ statistics|NNS agency|NN declared|VBD that|IN a|DT family|NN of|IN four|CD should|MD be|VB considered|VBN above|IN the|DT poverty|NN line|NN if|IN its|PRP$ monthly|JJ food|NN bill|NN exceeded|VBD 688|CD pesos|NNS equal|JJ to|TO about|RB six|CD pesos|NNS per|IN person|NN per|IN day|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT claim|NN has|VBZ stuck|NN in|IN the|DT throats|NNS of|IN ordinary|JJ argentines|NNS who|WP have|VBP to|TO spend|VB far|RB more|RBR than|IN this|DT to|TO keep|VB hunger|JJR at|IN bay|NN thanks|NNS to|TO galloping|VBG inflation|NN </s>|S_END
+<s>|S_START indignant|NN citizens|NNS created|VBD mock|NN advertisements|NNS featuring|VBG pizzas|NNS the|DT size|NN of|IN finger|JJR nail|NN </s>|S_END
+<s>|S_START hackers|NNS disabled|VBD the|DT indec|NN website|NN tweeting|VBG “now|JJ you’ll|JJ have|VBP to|TO use|VB your|PRP$ six|CD little|JJ pesos|NNS to|TO restore|VB your|PRP$ page|NN ”|: </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START experts|NNS also|RB doubt|NN the|DT government’s|NNP claim|NN </s>|S_END
+<s>|S_START a|DT study|NN by|IN the|DT university|NN of|IN buenos|NNS aires|NNS puts|NNS the|DT minimum|JJ daily|JJ budget|NN for|IN a|DT healthy|JJ diet|NN at|IN 24|CD pesos|NNS per|IN person|NN four|CD times|NNS the|DT official|NN figure|NN </s>|S_END
+<s>|S_START “it|JJ is|VBZ totally|RB impossible|JJ to|TO eat|VB healthily|RB with|IN six|CD pesos”|JJ says|NNS sergio|VBP britos|NNS one|CD of|IN the|DT study’s|JJ author|NN </s>|S_END
+<s>|S_START indec’s|NNS report|VBP “loses|NNS all|DT credibility”|JJ by|IN supposing|NN unrealistically|RB low|JJ foodprices|NNS he|PRP say|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP is|VBZ not|RB the|DT first|JJ time|NN that|WDT official|NN reports|VBZ have|VBP played|VBN down|RP the|DT cost|NN of|IN living|NN </s>|S_END
+<s>|S_START ince|NN 2007|CD the|DT government|NN has|VBZ published|VBN bogus|NN inflation|NN statistics|NNS to|TO beguile|VB voters|NNS and|CC investor|NN </s>|S_END
+<s>|S_START in|IN february|JJ with|IN independent|JJ estimates|NNS running|VBG more|JJR than|IN twice|NN as|IN high|JJ as|IN official|JJ ones|NNS the|DT economist|NN stopped|VBD publishing|NN indec’s|NNS inflation|NN figure|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT gap|NN between|IN official|NN pronouncements|NNS and|CC reality|NN is|VBZ not|RB lost|VBN on|IN the|DT public|NN </s>|S_END
+<s>|S_START margarita|NN barrientos|NNS the|DT founder|NN of|IN a|DT soup|NN kitchen|WRB in|IN one|CD of|IN buenos|NNS aires’|-NONE- poorest|VBP barrios|NNS spends|NNS about|IN six|CD pesos|NNS per|IN person|NN for|IN a|DT single|JJ meal|NN and|CC calls|VBZ indec’s|JJ statement|NN “insulting”|NN </s>|S_END
+<s>|S_START “what|JJ can|MD you|PRP do|VB </s>|S_END
+<s>|S_START the|DT government|NN will|MD always|RB give|VB the|DT figures|NNS that|WDT suit|NN its|PRP$ needs”|NN she|PRP shrug|NN </s>|S_END
+<s>|S_START a|DT beggar|NN in|IN one|CD of|IN the|DT city’s|JJ trendier|NN neighbourhoods|NNS laughs|NNS heartily|RB when|WRB asked|VBN if|IN she|PRP could|MD feed|VB her|PRP family|RB for|IN six|CD pesos|NNS each|DT </s>|S_END
+<s>|S_START “if|JJ that|IN were|VBD true|JJ i|PRP would|MD be|VB rich”|-NONE- she|PRP say|VBP </s>|S_END
+</p>|P_END
+

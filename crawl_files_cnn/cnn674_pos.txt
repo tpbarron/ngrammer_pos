@@ -1,0 +1,73 @@
+<p>|P_START
+<s>|S_START click|NN chart|NN to|TO see|VB more|JJR information|NN about|IN microsofts|NNS stock|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN as|IN microsoft|NN prepares|NNS to|TO launch|VB windows|NNS 8|CD a|DT product|NN it|PRP hopes|VBZ will|MD be|VB transformative|JJ the|DT company|NN posted|VBD financial|JJ results|NNS on|IN thursday|NN showing|NN that|IN its|PRP$ sales|NNS are|VBP treading|VBG water|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pc|NN sales|NNS have|VBP been|VBN woeful|JJ dragging|NN windows|VBZ revenue|NN down|IN 9|CD during|IN the|DT quarter|NN </s>|S_END
+<s>|S_START windows|NNS sales|NNS typically|RB stall|VBP ahead|RB of|IN an|DT anticipated|VBN new|JJ product|NN launch|NN and|CC microsoft|NN is|VBZ gearing|VBG up|RP for|IN a|DT massive|JJ one|CD windows|NNS 8|CD and|CC surface|NN the|DT first|JJ pc|NN tablet|NN of|IN the|DT companys|NNS own|JJ design|NN will|MD go|VB on|IN sale|NN oct|NN 26|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC microsoft|VBD gave|VBD no|DT indication|NN thursday|NN that|WDT windows|VBZ 8|CD or|CC surface|NN will|MD do|VB anything|NN to|TO quickly|RB change|VB that|IN trend|NN </s>|S_END
+<s>|S_START windows|NNS sales|NNS to|TO businesses|NNS are|VBP slowing|VBG the|DT company|NN said|VBD and|CC economic|JJ conditions|NNS particularly|RB in|IN europe|NN are|VBP increasingly|RB tough|JJ </s>|S_END
+<s>|S_START microsoft|NN declined|VBD to|TO give|VB an|DT outlook|NN for|IN either|DT product|NN only|RB saying|VBG that|IN the|DT company|NN is|VBZ excited|VBN about|IN the|DT launches|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START wall|NN street|VBD analysts|NNS grasping|VBG at|IN straws|NNS for|IN any|DT hint|NN about|IN how|WRB microsofts|NNS biggest|JJS product|NN launches|NNS in|IN nearly|RB two|CD decades|NNS will|MD fare|VB got|NN no|DT help|NN from|IN microsoft|JJ chief|NN financial|JJ officer|NN peter|NN klein|NN on|IN a|DT conference|NN call|NN held|VBD thursday|NN afternoon|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB asked|VBD why|WRB microsofts|NNS estimate|VBP for|IN growth|NN in|IN the|DT cost|NN of|IN goods|NNS delivered|VBN was|VBD only|RB in|IN the|DT high|JJ single|JJ digits|NNS for|IN the|DT current|JJ quarter|NN if|IN the|DT company|NN felt|VBD the|DT expensive|JJ surface|NN tablet|NN would|MD sell|VB well|RB klein|VB answered|VBN only|RB well|RB see|VB how|WRB it|PRP goes|VBZ </s>|S_END
+<s>|S_START next|JJ question|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT question|NN about|IN negative|JJ reviews|NNS mentioning|VBG windows|NNS 8s|CD potentially|RB confusing|VBG user|NN interface|NN got|VBD a|DT pat|NN response|NN from|IN klein|NN in|IN the|DT past|JJ innovations|NNS delivered|VBN way|NN more|RBR value|NN capability|NN and|CC usability|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoft|NN seems|VBZ to|TO be|VB taking|VBG the|DT same|JJ waitandsee|NN approach|NN to|TO windows|VBZ 8|CD that|IN analysts|NNS expect|VBP potential|JJ customers|NNS to|TO take|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shares|NNS of|IN microsoft|JJ msft|NN fortune|NN 500|CD fell|VBD 1|CD after|IN hours|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT companys|NNS other|JJ divisions|NNS fared|VBD better|RBR during|IN the|DT quarter|NN helping|VBG to|TO keep|VB overall|JJ sales|NNS flat|JJ year|NN over|IN year|NN </s>|S_END
+<s>|S_START sales|NNS of|IN office|NN rose|VBD 1|CD excluding|VBG some|DT revenue|NN deferrals|NNS for|IN office|NN upgrades|NNS that|WDT were|VBD given|VBN to|TO the|DT recent|JJ crop|NN of|IN office|NN 2010|CD users|NNS </s>|S_END
+<s>|S_START they|PRP will|MD receive|VB free|JJ upgrades|NNS to|TO office|NN 2013|CD when|WRB that|DT product|NN launches|VBZ in|IN the|DT next|JJ few|JJ quarters|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START strong|JJ sales|NNS in|IN the|DT server|NN and|CC tools|NNS division|NN up|RB 8|CD were|VBD boosted|VBN by|IN continued|VBN demand|NN for|IN microsofts|NNS updated|VBN sql|NN server|RB product|NN for|IN businesses|NNS which|WDT was|VBD released|VBN in|IN april|NN </s>|S_END
+<s>|S_START slightly|RB higher|JJR online|NN services|NNS sales|NNS were|VBD helped|VBN by|IN a|DT 15|CD rise|NN in|IN ad|NN revenue|NN mostly|RB due|JJ to|TO more|RBR bing|VBG searches|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START xbox|NN slipped|VBD 1|CD thanks|NNS to|TO a|DT slumping|NN video|NN game|NN console|NN market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START overall|JJ the|DT redmond|NN washbased|VBD company|NN had|VBD revenue|NN of|IN $|$ 173|CD billion|CD in|IN its|PRP$ fiscal|JJ first|JJ quarter|NN </s>|S_END
+<s>|S_START those|DT results|NNS include|VBP $|$ 14|CD billion|CD in|IN early|JJ windows|NNS 8|CD and|CC office|NN sales|NNS that|WDT the|DT company|NN has|VBZ chosen|VBN to|TO defer|VB until|IN the|DT next|JJ few|JJ quarters|NNS </s>|S_END
+<s>|S_START excluding|VBG that|IN deferred|JJ revenue|NN microsoft|NN had|VBD sales|NNS of|IN $|$ 16|CD billion|CD short|JJ of|IN the|DT $|$ 164|CD billion|CD analysts|NNS surveyed|VBN by|IN thomson|NN reuters|NNS were|VBD expecting|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoft|NN said|VBD its|PRP$ net|JJ income|NN fell|VBD 22|CD to|TO $|$ 45|CD billion|CD for|IN the|DT quarter|NN which|WDT ended|VBD sept|VBD 30|CD </s>|S_END
+<s>|S_START those|DT results|NNS did|VBD not|RB include|VB a|DT charge|NN of|IN 13|CD cents|NNS per|IN share|NN for|IN the|DT deferred|VBN windows|VBZ and|CC office|NN sales|NNS </s>|S_END
+<s>|S_START including|VBG the|DT charge|NN microsoft|NN earned|VBD 53|CD cents|NNS per|IN share|NN </s>|S_END
+<s>|S_START wall|NN street|VBD analysts|NNS who|WP stripped|VBN out|RP the|DT deferred|VBN profit|NN from|IN their|PRP$ estimates|NNS had|VBD expected|VBN earnings|NNS of|IN 56|CD cents|NNS per|IN share|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rival|NN google|NN goog|NN fortune|NN 500|CD also|RB reported|VBD its|PRP$ quarterly|JJ finances|NNS thursday|NN posting|VBG a|DT 20|CD drop|NN in|IN earnings|NNS year|NN over|IN year|NN on|IN struggles|NNS in|IN mobile|JJ </s>|S_END
+<s>|S_START apple|NN aapl|NN fortune|NN 500|CD is|VBZ on|IN deck|NN set|NN to|TO report|VB its|PRP$ earnings|NNS on|IN oct|NN 25|CD </s>|S_END
+</p>|P_END
+

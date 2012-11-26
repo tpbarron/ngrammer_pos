@@ -1,0 +1,54 @@
+<p>|P_START
+<s>|S_START outgoing|VBG barclays|NNS ceo|IN bob|NN diamond|NN may|MD make|VB this|DT face|NN when|WRB grilled|VBN by|IN uk|NN lawmakers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START barclays|NNS bcs|VBP spent|VBN nearly|RB £100|-NONE- million|CD $|$ 157|CD million|CD and|CC three|CD years|NNS conducting|VBG an|DT exhaustive|JJ internal|JJ investigation|NN into|IN its|PRP$ traders|NNS and|CC executives|NNS role|NN in|IN manipulating|NN libor|NN a|DT key|JJ global|JJ benchmark|NN interest|NN rate|NN according|VBG to|TO papers|NNS prepared|VBN by|IN the|DT bank|NN ahead|RB of|IN chief|NN executive|NN officer|NN bob|NN diamonds|NNS testimony|NN before|IN british|JJ lawmakers|NNS on|IN wednesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START diamond|NN who|WP resigned|VBN tuesday|NN has|VBZ apologized|VBN and|CC barclays|NNS reiterated|VBD the|DT banks|NNS remorse|VBP in|IN the|DT document|NN these|DT events|NNS should|MD never|RB have|VB taken|VBN place|NN and|CC barclays|NNS deeply|RB regrets|NNS that|WDT they|PRP did|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START still|RB barclays|VBZ also|RB found|VBN a|DT way|NN to|TO point|NN fingers|NNS at|IN the|DT other|JJ banks|NNS involved|VBD in|IN setting|NN and|CC manipulating|VBG interest|NN rates|NNS it|PRP is|VBZ ironic|JJ that|IN there|EX has|VBZ been|VBN such|JJ an|DT intense|NN focus|NN on|IN barclays|NNS alone|RB caused|VBN by|IN our|PRP$ being|VBG first|JJ to|TO settle|VB in|IN the|DT midst|NN of|IN an|DT industrywide|JJ global|JJ investigation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START seven|CD other|JJ banks|NNS are|VBP listed|VBN but|CC not|RB named|VBN in|IN documents|NNS made|VBN public|JJ from|IN barclays|NNS $|$ 453|CD million|CD settlement|NN with|IN uk|NN and|CC us|PRP regulators|NNS </s>|S_END
+<s>|S_START the|DT prepared|VBN documents|NNS continue|VBP to|TO reveal|VB how|WRB even|RB top|JJ british|JJ banking|NN regulators|NNS could|MD be|VB implicated|VBN in|IN this|DT wideranging|NN investigation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START according|VBG to|TO the|DT papers|NNS released|VBN by|IN barclays|NNS chief|NN operating|VBG officer|NN jerry|NN del|NN missier|NN who|WP also|RB stepped|VBD down|RP tuesday|NN told|VBD members|NNS of|IN his|PRP$ bank|NN who|WP provide|VB information|NN on|IN the|DT london|NN interbank|NN offered|VBD rate|NN or|CC libor|NN to|TO push|VB the|DT rate|NN down|IN in|IN late|JJ october|NN 2008|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START over|IN several|JJ confusing|VBG paragraphs|NNS del|NN missier|NN said|VBD he|PRP independently|RB drew|VBD the|DT conclusion|NN to|TO ask|VB members|NNS of|IN barclays|NNS to|TO submit|VB artificially|RB low|JJ rates|NNS to|TO regulators|NNS after|IN a|DT conversation|NN with|IN diamond|NN who|WP had|VBD just|RB wrapped|VBN up|RP a|DT phone|NN call|NN with|IN paul|JJ tucker|NN the|DT deputy|NN governor|NN of|IN the|DT bank|NN of|IN england|NN and|CC relayed|VBD the|DT conversation|NN to|TO del|VB missier|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START barclays|NNS top|VBP executives|NNS at|IN the|DT time|NN suspected|VBN that|IN other|JJ banks|NNS had|VBD been|VBN submitting|VBG artificially|RB low|JJ rates|NNS at|IN the|DT height|NN of|IN the|DT financial|JJ crisis|NN </s>|S_END
+<s>|S_START the|DT documents|NNS however|RB said|VBD that|IN del|NN missier|NN acted|VBD on|IN his|PRP$ own|JJ not|RB because|IN of|IN anything|NN said|VBD by|IN diamond|NN or|CC the|DT bank|NN of|IN england|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD how|WRB big|JJ will|MD the|DT barclays|NNS scandal|NN get|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN to|TO the|DT resignation|NN of|IN diamond|NN del|NN missier|NN and|CC the|DT chairman|NN of|IN the|DT board|NN barclays|VBZ said|VBN many|JJ traders|NNS involved|VBN in|IN the|DT libor|NN manipulation|NN are|VBP no|RB longer|RBR with|IN the|DT bank|NN </s>|S_END
+<s>|S_START but|CC barclays|VBZ plans|NNS to|TO keep|VB these|DT individuals|NNS names|VBZ confidential|JJ since|IN civil|NN and|CC criminal|JJ investigations|NNS are|VBP ongoing|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB diamond|VBP had|VBN been|VBN consistently|RB vocal|JJ about|IN the|DT need|NN for|IN bank|NN to|TO act|VB responsibly |JJ speaking|NN at|IN the|DT fortune|NN most|JJS powerful|JJ women|NNS conference|NN on|IN june|NN 18|CD diamond|NN said|VBD being|VBG a|DT better|JJR citizen|NN is|VBZ critically|RB important|JJ to|TO us|PRP in|IN financial|JJ services|NNS today|NN for|IN all|DT kinds|NNS of|IN reasons|NNS </s>|S_END
+<s>|S_START in|IN order|NN to|TO be|VB effective|JJ we|PRP need|VBP to|TO regain|VB trust|NN in|IN our|PRP$ industry|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP will|MD take|VB diamonds|NNS successor|NN a|DT long|JJ time|NN to|TO rebuild|VB the|DT banks|NNS reputations|NNS </s>|S_END
+<s>|S_START this|DT is|VBZ the|DT start|NN of|IN a|DT long|JJ journey|NN </s>|S_END
+<s>|S_START we|PRP are|VBP determined|VBN that|IN we|PRP will|MD earn|VB back|RB that|IN trust|NN barclays|NNS said|VBD tuesday|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,108 @@
+<p>|P_START
+<s>|S_START the|DT supreme|NN court|NN on|IN june|NN 28|CD put|VBD to|TO bed|VBN the|DT question|NN of|IN whether|IN the|DT individual|JJ mandate|NN to|TO have|VB health|NN insurance|NN is|VBZ constitutional|JJ </s>|S_END
+<s>|S_START it|PRP is|VBZ the|DT court|NN ruled|VBD under|IN congress|NN power|NN to|TO tax|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN now|RB that|IN the|DT supreme|NN court|NN has|VBZ upheld|VBN the|DT health|NN insurance|NN mandate|NN most|JJS americans|NNS must|MD be|VB insured|VBN starting|VBG in|IN 2014|CD or|CC pay|NN a|DT penalty|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT penalty|NN will|MD be|VB assessed|VBN on|IN your|PRP$ tax|NN return|NN and|CC administered|VBD by|IN the|DT irs|NNS </s>|S_END
+<s>|S_START but|CC exactly|RB how|WRB is|VBZ a|DT big|JJ question|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT irs|NNS has|VBZ not|RB issued|VBN its|PRP$ guidance|NN yet|RB </s>|S_END
+<s>|S_START but|CC irs|NNS commissioner|VBP douglas|NNS shulman|NN addressed|VBD the|DT issue|NN shortly|RB after|IN the|DT law|NN was|VBD enacted|VBN in|IN 2010|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START based|VBN on|IN his|PRP$ comments|NNS a|DT reading|NN of|IN the|DT affordable|JJ care|NN act|NN and|CC information|NN from|IN the|DT kaiser|NN family|NN foundation|NN heres|NNS a|DT look|NN at|IN just|RB how|WRB the|DT mandate|NN will|MD work|VB and|CC how|WRB it|PRP will|MD be|VB enforced|VBN </s>|S_END
+<s>|S_START related|VBD what|WP companies|NNS need|VBP to|TO know|VB about|IN the|DT law|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP will|MD i|VB have|VB to|TO pay|VB </s>|S_END
+<s>|S_START in|IN 2014|CD the|DT penalty|NN will|MD be|VB no|RB more|JJR than|IN $|$ 285|CD per|IN family|NN or|CC 1|CD of|IN income|NN whichever|NN is|VBZ greater|JJR </s>|S_END
+<s>|S_START in|IN 2015|CD the|DT cap|NN rises|VBZ to|TO $|$ 975|CD or|CC 2|CD of|IN income|NN </s>|S_END
+<s>|S_START and|CC by|IN 2016|CD the|DT penalty|NN will|MD go|VB to|TO $|$ 2085|CD per|IN family|NN or|CC 25|CD of|IN income|NN whichever|NN is|VBZ greater|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT dollar|NN amounts|VBZ for|IN a|DT single|JJ adult|NN would|MD be|VB $|$ 95|CD $|$ 325|CD and|CC then|RB $|$ 625|CD during|IN that|DT same|JJ time|NN period|NN </s>|S_END
+<s>|S_START the|DT dollar|NN amounts|VBZ per|IN child|NN would|MD be|VB half|PDT that|IN of|IN adults|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT penalty|NN will|MD be|VB prorated|VBN based|VBN on|IN the|DT number|NN of|IN months|NNS during|IN the|DT year|NN that|IN youre|NN uninsured|VBD although|IN those|DT who|WP are|VBP uninsured|VBN for|IN less|JJR than|IN three|CD months|NNS in|IN a|DT given|VBN year|NN would|MD not|RB be|VB subject|JJ to|TO the|DT penalty|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT congressional|JJ budget|NN office|NN estimates|NNS that|WDT roughly|RB 4|CD million|CD people|NNS a|DT year|NN will|MD opt|VB to|TO pay|VB the|DT penalty|NN instead|RB of|IN getting|VBG coverage|NN </s>|S_END
+<s>|S_START related|VBD whats|NNS next|IN for|IN your|PRP$ insurance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START does|VBZ everyone|NN have|VBP to|TO pony|VB up|RP if|IN they|PRP arent|VBP insured|VBN </s>|S_END
+<s>|S_START no|DT </s>|S_END
+<s>|S_START some|DT individuals|NNS will|MD be|VB exempt|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN instance|NN the|DT penalty|NN will|MD be|VB waived|VBN for|IN people|NNS with|IN very|RB low|JJ incomes|NNS who|WP dont|NN have|VBP to|TO file|VB tax|NN returns|NNS those|DT who|WP are|VBP members|NNS of|IN certain|JJ religious|JJ groups|NNS or|CC people|NNS who|WP face|NN insurance|NN premiums|NNS that|IN would|MD exceed|VB 8|CD of|IN family|NN income|NN even|RB after|IN including|VBG employer|NN contributions|NNS and|CC federal|JJ subsidies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN other|JJ examples|NNS of|IN who|WP is|VBZ exempt|VBN heres|NNS a|DT helpful|JJ flow|NN chart|NN from|IN kaiser|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB will|MD anyone|VB know|VB if|IN im|PRP insured|VBD </s>|S_END
+<s>|S_START your|PRP$ insurance|NN provider|NN will|MD have|VB to|TO send|VB you|PRP and|CC the|DT irs|NNS a|DT form|NN confirming|VBG that|IN you|PRP have|VBP the|DT minimum|JJ essential|JJ coverage|NN </s>|S_END
+<s>|S_START when|WRB you|PRP file|VBP your|PRP$ 1040|CD you|PRP will|MD attach|VB that|IN form|NN to|TO your|PRP$ return|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START think|NN of|IN it|PRP like|IN a|DT 1099|CD form|NN on|IN which|WDT your|PRP$ bank|NN reports|NNS your|PRP$ interest|NN income|NN to|TO you|PRP and|CC the|DT irs|NNS shulman|NN noted|VBD in|IN a|DT presentation|NN at|IN the|DT national|JJ press|NN club|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP dont|VBP have|VBP insurance|NN you|PRP will|MD be|VB assessed|VBN a|DT penalty|NN payment|NN that|WDT you|PRP must|MD send|VB when|WRB you|PRP file|VBP your|PRP$ return|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP happens|NNS if|IN i|PRP dont|VBP pay|NN the|DT penalty|NN </s>|S_END
+<s>|S_START the|DT irs|NNS will|MD send|VB you|PRP a|DT letter|NN stating|VBG that|IN you|PRP owe|VBP the|DT government|NN money|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT are|VBP not|RB the|DT kinds|NNS of|IN things|NNS that|WDT we|PRP send|VBP agents|NNS out|IN about|IN </s>|S_END
+<s>|S_START these|DT are|VBP things|NNS where|WRB you|PRP get|VBP a|DT letter|NN from|IN us|PRP shulman|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START failure|NN to|TO pay|VB the|DT penalty|NN will|MD not|RB be|VB treated|VBN as|IN a|DT crime|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT case|NN of|IN any|DT failure|NN by|IN a|DT taxpayer|NN to|TO timely|RB pay|VB any|DT penalty|NN imposed|VBD by|IN this|DT section|NN such|JJ taxpayer|NN shall|MD not|RB be|VB subject|JJ to|TO any|DT criminal|JJ prosecution|NN or|CC penalty|NN with|IN respect|NN to|TO such|JJ failure|NN according|VBG to|TO the|DT law|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT law|NN also|RB prohibits|VBZ the|DT government|NN from|IN putting|VBG liens|NNS or|CC levies|NNS on|IN your|PRP$ property|NN to|TO collect|VB the|DT penalty|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC based|VBN on|IN shulmans|NNS comments|NNS it|PRP seems|VBZ the|DT government|NN will|MD be|VB able|JJ to|TO withhold|VB your|PRP$ future|JJ refunds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP can|MD actually|RB do|VB collection|NN if|IN need|NN be|VB he|PRP said|VBD </s>|S_END
+<s>|S_START people|NNS can|MD get|VB offsets|NNS of|IN their|PRP$ tax|NN returns|NNS in|IN future|JJ years|NNS so|IN theres|NNS a|DT variety|NN of|IN ways|NNS for|IN us|PRP to|TO focus|VB on|IN things|NNS like|IN fraud|NN things|NNS like|IN abuse|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whats|NNS not|RB clear|JJ is|VBZ whether|IN failure|NN to|TO pay|VB the|DT penalty|NN for|IN not|RB having|VBG insurance|NN would|MD subject|VB you|PRP to|TO late|VB payment|NN penalties|NNS to|TO the|DT irs|NNS much|RB the|DT same|JJ way|NN a|DT failure|NN to|TO pay|VB your|PRP$ taxes|NNS on|IN time|NN would |NN </s>|S_END
+</p>|P_END
+

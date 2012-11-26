@@ -1,0 +1,11 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 05|CD gdp|NN $|$ 344bn|CD ppp|CD $|$ 213bn|CD inflation|NN 20|CD population|NN 56m|CD gdp|NN per|IN head|NN $|$ 61340|CD ppp|CD $|$ 38040|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT centreleft|NN ended|VBD the|DT centrerights|NNS threeterm|VBP hold|JJ on|IN power|NN in|IN late2011|NNP elections|NNS with|IN helle|JJ thorningschmidt|NN becoming|VBG the|DT countrys|NNS first|RB female|JJ prime|NN minister|NN </s>|S_END
+<s>|S_START her|PRP$ government|NN is|VBZ likely|JJ to|TO boost|VB public|JJ spending|NN financed|VBN by|IN tax|NN increase|NN </s>|S_END
+<s>|S_START reforms|NNS of|IN the|DT labour|NN and|CC welfare|NN codes|NNS inherited|VBD from|IN the|DT outgoing|NN team|NN will|MD be|VB continued|VBN including|VBG tougher|NN benefits|NNS criteria|NNS a|DT higher|JJR retirement|NN age|NN and|CC a|DT longer|NN working|VBG week|NN </s>|S_END
+<s>|S_START the|DT economy|NN will|MD barely|RB grow|VB as|IN western|JJ europe|NN slumps|NNS badly|RB </s>|S_END
+</p>|P_END
+

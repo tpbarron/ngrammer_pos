@@ -1,0 +1,50 @@
+<p>|P_START
+<s>|S_START “it|JJ will|MD be|VB viable|JJ and|CC will|MD not|RB post|VB losses”|JJ promised|VBN luis|NNS de|IN guindos|NNS spain’s|NNS finance|VBP minister|NN on|IN august|NN 31st|CD as|IN he|PRP unveiled|VBD plans|NNS for|IN a|DT “bad|JJ bank”|NN to|TO take|VB over|RP the|DT dud|NN property|NN assets|NNS of|IN spain’s|NNS troubled|VBD lender|NN </s>|S_END
+<s>|S_START experience|NN suggests|VBZ that|IN such|JJ pledges|NNS are|VBP not|RB easily|RB kept|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START america’s|NNS resolution|NN trust|NN corporation|NN rtc|NN for|IN instance|NN was|VBD set|VBN up|RP in|IN 1989|CD to|TO clean|JJ up|IN savingsandloans|NNS institutions|NNS with|IN $|$ 394|CD billion|CD in|IN asset|NN </s>|S_END
+<s>|S_START the|DT process|NN cost|NN taxpayers|NNS almost|RB $|$ 76|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT example|NN of|IN sweden’s|NNS widely|RB admired|VBN bad|JJ bank|NN in|IN the|DT 1990s|NNS is|VBZ even|RB less|JJR encouraging|VBG </s>|S_END
+<s>|S_START weden’s|NNS bank|VBP regulators|NNS vigorously|RB marked|VBD down|IN souring|NN assets|NNS forced|VBD banks|NNS to|TO recapitalise|VB or|CC be|VB nationalised|VBN and|CC moved|VBD dud|NN loans|NNS into|IN specialised|VBN assetmanagement|NN companie|NN </s>|S_END
+<s>|S_START this|DT was|VBD to|TO allow|VB cleanedup|RP lenders|NNS to|TO operate|VB as|IN “good|JJ banks”|NN that|WDT lent|NN to|TO the|DT real|JJ economy|NN </s>|S_END
+<s>|S_START judged|VBD by|IN its|PRP$ overall|JJ impact|NN the|DT swedish|JJ bad|JJ bank|NN was|VBD a|DT success|NN growth|NN bounced|VBD back|RP quite|RB quickly|RB </s>|S_END
+<s>|S_START but|CC the|DT cost|NN to|TO taxpayers|NNS was|VBD high|JJ </s>|S_END
+<s>|S_START weden|NN paid|VBD about|RB 4|CD of|IN its|PRP$ gdp|NN to|TO bail|VB out|RP its|PRP$ financial|JJ system|NN yet|RB got|VBD back|RB only|RB about|IN half|DT of|IN that|DT from|IN selling|VBG off|IN loans|NNS and|CC stakes|NNS in|IN bank|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START more|JJR reassuring|VBG to|TO spanish|VB taxpayers|NNS is|VBZ maiden|VBN lane|NN a|DT vehicle|NN created|VBN by|IN the|DT new|JJ york|NN federal|JJ reserve|NN to|TO house|VB assets|NNS owned|VBN by|IN bear|JJ stearns|NNS and|CC aig|JJ that|IN have|VBP turned|VBN out|RP to|TO be|VB less|JJR toxic|JJ than|IN expected|VBN </s>|S_END
+<s>|S_START in|IN june|NN this|DT year|NN maiden|IN lane|NN repaid|VBD in|IN full|JJ and|CC with|IN interest|NN the|DT money|NN it|PRP had|VBD borrowed|VBN to|TO fund|VB its|PRP$ purchase|NN </s>|S_END
+<s>|S_START it|PRP still|RB has|VBZ some|DT assets|NNS left|VBN to|TO sell|VB so|RB the|DT government|NN will|MD probably|RB turn|VB a|DT profit|NN on|IN the|DT deal|NN in|IN contrast|NN to|TO earlier|JJR estimates|NNS that|IN it|PRP might|MD lose|VB as|RB much|JJ as|IN $|$ 6|CD billion|CD on|IN its|PRP$ $|$ 29|CD billion|CD in|IN assets|NNS from|IN bear|JJ stearns|NNS alone|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT relative|JJ success|NN may|MD be|VB found|VBN in|IN britain’s|NNP bad|JJ bank|NN which|WDT took|VBD over|RP some|DT of|IN the|DT loans|NNS issued|VBD by|IN northern|JJ rock|NN and|CC all|DT of|IN the|DT ones|NNS held|VBD by|IN bradford|NN bingley|NN </s>|S_END
+<s>|S_START by|IN the|DT end|NN of|IN june|NN 2012|CD it|PRP had|VBD £90|-NONE- billion|CD $|$ 141|CD billion|CD on|IN its|PRP$ books|NNS on|IN which|WDT it|PRP seems|VBZ to|TO be|VB turning|VBG a|DT profit|NN thanks|VBZ to|TO cheap|VB funding|NN from|IN the|DT government|NN </s>|S_END
+<s>|S_START british|JJ taxpayers|NNS have|VBP fared|VBN rather|RB worse|JJR with|IN nominally|RB good|JJ banks|NNS the|DT government’s|JJ equity|NN stakes|NNS in|IN lloyds|NNS banking|VBG group|NN and|CC royal|JJ bank|NN of|IN scotland|NN have|VBP fallen|VBN in|IN value|NN by|IN over|IN £30|-NONE- billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ireland’s|NNS bad|VBD bank|NN the|DT national|JJ asset|NN management|NN agency|NN nama|NN also|RB seems|VBZ to|TO be|VB doing|VBG fairly|RB well|RB in|IN managing|VBG the|DT €74|NN billion|NN $|$ 93|CD billion|CD in|IN loans|NNS it|PRP took|VBD over|RP mainly|RB because|IN it|PRP bought|VBD the|DT assets|NNS from|IN irish|JJ banks|NNS for|IN just|RB €32|-NONE- billion|CD </s>|S_END
+<s>|S_START yet|RB it|PRP is|VBZ now|RB in|IN the|DT invidious|JJ position|NN of|IN being|VBG a|DT longterm|NN manager|NN of|IN a|DT large|JJ portfolio|NN of|IN stateowned|VBN properties|NNS with|IN all|DT the|DT risks|NNS of|IN political|JJ interference|NN that|WDT this|DT entail|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT precedents|NNS suggest|VBP a|DT few|JJ lessons|NNS for|IN spain’s|NNS bad|JJ bank|NN </s>|S_END
+<s>|S_START the|DT first|JJ is|VBZ to|TO be|VB conservative|JJ when|WRB valuing|VBG the|DT assets|NNS that|WDT will|MD go|VB into|IN the|DT bad|JJ bank|NN even|RB if|IN this|DT imposes|NNS steeper|VBP losses|NNS on|IN the|DT banks|NNS handing|VBG them|PRP over|IN </s>|S_END
+<s>|S_START cautious|JJ valuations|NNS will|MD help|VB set|VB a|DT floor|NN for|IN property|NN markets|NNS and|CC make|VB it|PRP easier|JJR for|IN the|DT bad|JJ bank|NN to|TO sell|VB assets|NNS quickly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT second|JJ lesson|NN is|VBZ that|IN borrowing|VBG costs|NNS matter|NN </s>|S_END
+<s>|S_START bad|JJ banks|NNS in|IN britain|NN and|CC america|NN turned|VBD good|JJ because|IN they|PRP could|MD borrow|VB cheaply|RB </s>|S_END
+<s>|S_START unless|IN spain’s|JJ borrowing|NN costs|NNS fall|VBP sharply|RB the|DT government|NN will|MD be|VB hardpressed|VBN to|TO make|VB a|DT turn|NN on|IN even|RB deeply|RB discounted|VBN banking|NN asset|NN </s>|S_END
+<s>|S_START last|JJ is|VBZ the|DT lesson|NN from|IN sweden|JJ and|CC the|DT rtc|NN that|IN bad|JJ banks|NNS may|MD be|VB judged|VBN successful|JJ even|RB if|IN they|PRP incur|VBP large|JJ losse|NN </s>|S_END
+<s>|S_START rather|RB than|IN promising|VBG profits|NNS mr|NN de|IN guindos|NNS might|MD do|VB well|RB to|TO start|VB reminding|NN people|NNS of|IN that|DT </s>|S_END
+</p>|P_END
+

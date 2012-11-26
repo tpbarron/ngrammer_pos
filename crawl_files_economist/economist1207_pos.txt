@@ -1,0 +1,69 @@
+<p>|P_START
+<s>|S_START a|DT new|JJ kind|NN of|IN drug|NN war|NN is|VBZ brewing|VBG </s>|S_END
+<s>|S_START as|IN economies|NNS grow|VBP so|RB do|VBP their|PRP$ rates|NNS of|IN chronic|JJ disease|NN such|JJ as|IN cancer|NN and|CC diabete|JJ </s>|S_END
+<s>|S_START governments|NNS in|IN emerging|VBG markets|NNS want|VBP their|PRP$ citizens|NNS to|TO have|VB better|JJR drug|NN </s>|S_END
+<s>|S_START the|DT big|JJ pharmaceutical|JJ firms|NNS are|VBP keen|VBN to|TO sell|VB to|TO them|PRP </s>|S_END
+<s>|S_START but|CC they|PRP are|VBP fighting|VBG bitterly|RB over|IN the|DT term|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nowhere|RB is|VBZ the|DT battle|NN more|JJR intense|JJ than|IN in|IN india|NN </s>|S_END
+<s>|S_START the|DT crucial|JJ question|NN is|VBZ how|WRB to|TO protect|VB patents|NNS while|IN also|RB expanding|VBG access|NN to|TO drug|NN </s>|S_END
+<s>|S_START the|DT “pharmacy|NN to|TO the|DT world”|NN did|VBD not|RB recognise|VB drug|NN patents|NNS until|IN 2005|CD </s>|S_END
+<s>|S_START its|PRP$ generics|NNS industry|NN which|WDT manufactures|NNS cheap|VBP copies|NNS makes|VBZ india|NNS the|DT thirdlargest|JJS drug|NN producer|NN by|IN volume|NN </s>|S_END
+<s>|S_START domestic|JJ demand|NN is|VBZ rising—the|NNP market|NN may|MD be|VB worth|JJ up|IN to|TO $|$ 74|CD billion|CD by|IN 2020|CD six|CD times|NNS its|PRP$ value|NN in|IN 2010|CD </s>|S_END
+<s>|S_START much|RB now|RB depends|VBZ on|IN two|CD court|NN cases|NNS see|VBP article|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN 2006|CD india|NNS refused|VBD to|TO grant|VB a|DT patent|NN to|TO novartis|NNS a|DT swiss|JJ drug|NN giant|NN for|IN glivec|NN a|DT blockbuster|NN cancer|NN drug|NN saying|VBG it|PRP was|VBD merely|RB a|DT new|JJ form|NN of|IN an|DT older|NN medicine|NN </s>|S_END
+<s>|S_START that|DT case|NN is|VBZ now|RB before|IN the|DT country’s|NNS supreme|VBP court|NN </s>|S_END
+<s>|S_START meanwhile|RB germany’s|JJ bayer|NN is|VBZ appealing|VBG an|DT order|NN issued|VBN in|IN march|NN which|WDT forces|NNS it|PRP to|TO license|VB its|PRP$ patented|VBN cancer|NN drug|NN to|TO an|DT indian|JJ firm|NN natco|NN </s>|S_END
+<s>|S_START the|DT novartis|NN case|NN is|VBZ a|DT test|NN of|IN what|WP qualifies|NNS as|IN incremental|JJ innovation|NN </s>|S_END
+<s>|S_START the|DT bayer|NN one|CD sets|NNS a|DT more|RBR dangerous|JJ precedent|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START natco’s|NNS “compulsory|JJ licence”|NN for|IN nexavar|NN a|DT kidneycancer|NN drug|NN is|VBZ india’s|JJ first|RB </s>|S_END
+<s>|S_START this|DT device|NN by|IN which|WDT a|DT country|NN orders|VBZ a|DT patentholder|NN to|TO license|VB a|DT product|NN against|IN its|PRP$ will|MD has|VB been|VBN accepted|VBN in|IN international|JJ treaties|NNS for|IN more|JJR than|IN a|DT century|NN </s>|S_END
+<s>|S_START it|PRP was|VBD reaffirmed|VBN in|IN the|DT hotly|RB contested|VBN traderelated|VBN aspects|NNS of|IN intellectual|JJ property|NN rights|NNS trips|VBZ agreement|NN of|IN 1994|CD </s>|S_END
+<s>|S_START but|CC views|NNS differ|VBP on|IN when|WRB it|PRP should|MD be|VB used|VBN </s>|S_END
+<s>|S_START it|PRP can|MD be|VB a|DT negotiating|NN tactic|JJ america|NN threatened|VBN to|TO employ|VB it|PRP against|IN bayer|NN again|RB to|TO get|VB hold|JJ of|IN ciprofloxacin|NN during|IN the|DT anthrax|NN scare|NN of|IN 2001|CD </s>|S_END
+<s>|S_START it|PRP serves|VBZ a|DT purpose|NN in|IN emergencies|NNS african|JJ countries|NNS invoked|VBD it|PRP against|IN big|JJ pharma|NN to|TO get|VB cheap|NN drugs|NNS to|TO fight|NN hiv|NN </s>|S_END
+<s>|S_START but|CC compulsory|NN licences|NNS for|IN chronic|JJ diseases|NNS are|VBP more|RBR controversial|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START india’s|NNS patent|VBD controller|NN justified|VBN using|VBG it|PRP on|IN three|CD ground|NN </s>|S_END
+<s>|S_START bayer|NN did|VBD not|RB make|VB nexavar|JJ “reasonably|JJ affordable”|NN it|PRP did|VBD not|RB provide|VB enough|JJ of|IN it|PRP and|CC the|DT patent|NN was|VBD not|RB “worked|JJ in|IN the|DT territory|NN of|IN india”|NNP implying|NN that|WDT bayer|NN should|MD have|VB made|VBN its|PRP$ drug|NN locally|RB </s>|S_END
+<s>|S_START the|DT patent|NN controller|NN ordered|VBD natco|NN to|TO sell|VB nexavar|NN for|IN onethirtieth|NN of|IN bayer’s|JJ price|NN and|CC pay|NN a|DT 6|CD royalty|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT german|NN firm|NN is|VBZ far|RB from|IN faultless|NN it|PRP offered|VBD its|PRP$ drug|NN for|IN a|DT ludicrous|JJ $|$ 5000|CD a|DT month|NN nearly|RB four|CD times|NNS india’s|-NONE- per|IN head|NN gross|NN national|JJ income|NN </s>|S_END
+<s>|S_START but|CC even|RB allowing|VBG for|IN that|DT the|DT patent|NN controller|NN is|VBZ being|VBG shortsighted|VBN </s>|S_END
+<s>|S_START the|DT suggestion|NN that|IN bayer|NN should|MD have|VB made|VBN the|DT drug|NN in|IN india|NN smacks|NNS of|IN protectionism|NN which|WDT could|MD hurt|VB india’s|JJ own|JJ drug|NN exporter|NN </s>|S_END
+<s>|S_START patent|NN officials|NNS should|MD not|RB be|VB in|IN the|DT business|NN of|IN setting|NN price|NN </s>|S_END
+<s>|S_START and|CC weakening|VBG patent|NN protection|NN means|VBZ less|JJR incentive|JJ to|TO invest|VB in|IN new|JJ drug|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START make|VB access|NN not|RB war|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT brawls|NNS are|VBP likely|JJ to|TO get|VB worse|NN with|IN america|NN wanting|VBG new|JJ protection|NN for|IN drugmakers|NNS and|CC china|NN talking|VBG about|IN allowing|VBG compulsory|NN licensing|VBG </s>|S_END
+<s>|S_START in|IN an|DT ideal|NN world|NN trips|NNS would|MD be|VB revised|VBN with|IN clearer|JJR guideline|NN </s>|S_END
+<s>|S_START that|DT will|MD not|RB happen|VB fast|RB if|IN at|IN all|DT </s>|S_END
+<s>|S_START o|NN the|DT onus|NN is|VBZ on|IN firms|NNS and|CC governments|NNS to|TO sort|VB it|PRP out|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START america|NN should|MD not|RB use|VB trade|NN deals|NNS to|TO swaddle|VB drugmakers|NNS in|IN excessive|JJ patent|NN protection|NN </s>|S_END
+<s>|S_START developing|VBG countries|NNS should|MD enforce|VB patent|NN rules|NNS vigorously|RB indian|JJ regulators|NNS have|VBP let|VBN a|DT local|JJ firm|NN sell|NN its|PRP$ version|NN of|IN nexavar|NN for|IN years|NNS and|CC avoid|VBD a|DT rush|NN to|TO compulsory|NN licence|NN </s>|S_END
+<s>|S_START western|NN giants|NNS could|MD be|VB more|RBR flexible|JJ on|IN pricing|NN </s>|S_END
+<s>|S_START roche|PRP another|DT swiss|NN firm|NN is|VBZ cutting|VBG the|DT price|NN of|IN four|CD drugs|NNS in|IN india|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ rebranding|VBG them|PRP and|CC using|VBG a|DT local|JJ packager|NN to|TO distinguish|VB the|DT indian|JJ products|NNS from|IN those|DT sold|VBN elsewhere|RB </s>|S_END
+<s>|S_START uch|JJ experiments|NNS must|MD proliferate|VB if|IN the|DT new|JJ drug|NN war|NN is|VBZ to|TO be|VB contained|VBN </s>|S_END
+</p>|P_END
+

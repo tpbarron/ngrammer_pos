@@ -1,0 +1,120 @@
+<p>|P_START
+<s>|S_START for|IN a|DT weapons|NNS test|NN it|PRP was|VBD a|DT strangely|RB quiet|JJ affair|NN </s>|S_END
+<s>|S_START a|DT motorboat|JJ of|IN just|RB the|DT sort|NN that|IN might|MD be|VB used|VBN by|IN pirates|NNS or|CC suicidebombers|NNS trying|VBG to|TO attack|VB a|DT warship|NN bobbed|VBN on|IN the|DT pacific|JJ swell|NN </s>|S_END
+<s>|S_START a|DT flash|NN of|IN red|VBN flared|VBN up|RP on|IN one|CD of|IN its|PRP$ outboard|NN motor|NN </s>|S_END
+<s>|S_START just|RB a|DT few|JJ seconds|NNS later|JJ smoke|NN was|VBD curling|VBG skyward|RB and|CC the|DT motor|NN started|VBD burning|VBG brightly|RB </s>|S_END
+<s>|S_START the|DT american|NN navy’s|VBZ maritime|JJ laser|NN demonstration|NN program|NN is|VBZ a|DT relatively|RB puny|JJ weapon|NN with|IN a|DT total|JJ power|NN output|NN of|IN just|RB over|IN 100|CD kilowatts|NNS kw|VBP </s>|S_END
+<s>|S_START that|DT is|VBZ a|DT far|RB cry|JJ from|IN the|DT photon|NN torpedoes|VBZ and|CC phasers|NNS of|IN sciencefiction|NN lore|IN and|CC nothing|NN like|IN enough|JJ power|NN to|TO shoot|VB down|RP a|DT fastmoving|NN aircraft|NN or|CC missile|JJ </s>|S_END
+<s>|S_START but|CC the|DT prototype|NN weapon’s|VBZ successful|JJ test|NN in|IN april|NN 2011|CD was|VBD a|DT milestone|NN towards|NNS the|DT employment|NN of|IN lasers|NNS microwaves|NNS and|CC similar|JJ “directenergy|NN weapons”|NN on|IN warships|NNS in|IN the|DT coming|VBG year|NN </s>|S_END
+<s>|S_START it|PRP was|VBD the|DT first|JJ laser|NN weapon|NN to|TO be|VB integrated|VBN with|IN a|DT warship’s|JJ radar|NN and|CC other|JJ systems|NNS and|CC used|VBD at|IN sea|NN to|TO destroy|VB a|DT target|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT notion|NN of|IN using|VBG energy|NN as|IN a|DT weapon|NN of|IN war|NN dates|NNS back|RB at|IN least|JJS as|IN far|RB as|IN the|DT ancient|JJ greek|NN </s>|S_END
+<s>|S_START archimedes|NNS purportedly|RB used|VBN a|DT “heat|JJ ray”|NN in|IN which|WDT the|DT sun’s|NNP rays|VBZ were|VBD focused|VBN by|IN mirrors|NNS to|TO set|VB fire|NN to|TO enemy|VB ships|NNS during|IN the|DT siege|NN of|IN syracuse|NN in|IN the|DT 3rd|JJ century|NN bc|NN </s>|S_END
+<s>|S_START more|JJR recently|RB in|IN the|DT mid1930s|NNP british|NN scientists|NNS looked|VBD into|IN building|NN a|DT deathray|NN that|WDT used|VBN radio|NN waves|NNS to|TO destroy|VB enemy|NN aircraft|NN </s>|S_END
+<s>|S_START they|PRP concluded|VBD that|IN radio|NN waves|NNS could|MD best|VB be|VB used|VBN to|TO determine|VB the|DT position|NN of|IN enemy|NN aircraft|NN instead|RB leading|VBG to|TO the|DT invention|NN of|IN radar|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT late|JJ 1970s|CD and|CC early|RB 1980s|CD the|DT idea|NN was|VBD revived|VBN when|WRB american|JJ strategists|NNS began|VBD thinking|VBG in|IN earnest|JJS about|IN the|DT technologies|NNS they|PRP would|MD need|VB to|TO shoot|VB down|RP nucleararmed|VBN ballistic|JJ missile|NN </s>|S_END
+<s>|S_START among|IN the|DT more|RBR fanciful|JJ ideas|NNS taken|VBN up|RP by|IN ronald|NN reagan’s|NNS strategic|JJ defence|NN initiative|NN more|RBR commonly|RB known|VBN as|IN star|NN wars|NNS was|VBD the|DT xray|NN laser|NN which|WDT aimed|VBN to|TO harness|NN the|DT energy|NN of|IN an|DT atomic|JJ explosion|NN to|TO generate|VB powerful|JJ laser|NN beam|NN </s>|S_END
+<s>|S_START the|DT hassle|NN of|IN having|VBG to|TO explode|VB a|DT nuclear|JJ bomb|NN every|DT time|NN a|DT beam|NN was|VBD needed|VBN meant|NN the|DT idea|NN never|RB went|VBD anywhere|RB though|IN it|PRP did|VBD spur|VB research|NN into|IN highpowered|VBN chemical|JJ lasers|NNS and|CC the|DT sophisticated|JJ optics|NNS needed|VBN to|TO aim|VB and|CC control|NN them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT main|JJ appeal|NN of|IN using|VBG an|DT energy|NN beam|NN to|TO shoot|VB things|NNS is|VBZ that|IN it|PRP travels|VBZ at|IN the|DT speed|NN of|IN light|JJ which|WDT means|VBZ in|IN practice|NN that|IN it|PRP will|MD hit|VB whatever|RB it|PRP is|VBZ aimed|VBN at|IN </s>|S_END
+<s>|S_START trying|VBG to|TO shoot|VB down|RP an|DT incoming|VBG missile|NN or|CC warhead|VB with|IN a|DT physical|JJ projectile|NN by|IN contrast|NN is|VBZ much|JJ more|RBR difficult|JJ </s>|S_END
+<s>|S_START the|DT guidance|NN challenges|NNS of|IN trying|VBG to|TO “hit|JJ a|DT bullet|NN with|IN a|DT bullet”|JJ are|VBP enormous|JJ and|CC are|VBP only|RB gradually|RB being|VBG solved|VBN using|VBG complex|NN radars|NNS and|CC missiles|NNS equipped|VBD with|IN expensive|JJ sensor|NN </s>|S_END
+<s>|S_START a|DT second|JJ attraction|NN of|IN lasers|NNS and|CC other|JJ energy|NN weapons|NNS is|VBZ that|IN in|IN most|JJS cases|NNS they|PRP can|MD not|RB run|VB out|RP of|IN ammunition|NN and|CC can|MD keep|VB firing|VBG for|IN as|RB long|JJ as|IN they|PRP are|VBP plugged|VBN into|IN a|DT power|NN source|NN </s>|S_END
+<s>|S_START the|DT initial|JJ costs|NNS may|MD be|VB quite|RB high|JJ but|CC each|DT shot|NN may|MD then|RB cost|VB only|RB a|DT few|JJ dollars|NNS compared|VBN with|IN a|DT pricetag|NN of|IN $|$ 3m|CD or|CC more|JJR for|IN the|DT latest|JJS missiles|NNS used|VBN to|TO shoot|VB down|RP aircraft|NN or|CC other|JJ missile|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB until|IN very|RB recently|RB despite|IN the|DT billions|NNS of|IN dollars|NNS invested|VBN in|IN them|PRP military|JJ lasers|NNS have|VBP had|VBN a|DT less|JJR than|IN glowing|VBG record|NN </s>|S_END
+<s>|S_START the|DT most|RBS famous|JJ and|CC expensive|JJ experiment|NN was|VBD america’s|JJ airborne|NN laser|NN test|NN bed|VBD </s>|S_END
+<s>|S_START this|DT programme|NN which|WDT cost|NN the|DT pentagon|NN about|IN $|$ 5|CD billion|CD over|IN more|JJR than|IN 15|CD years|NNS was|VBD an|DT effort|NN to|TO cram|VB a|DT huge|JJ laser|NN gun|NN into|IN a|DT boeing|JJ 747|CD </s>|S_END
+<s>|S_START it|PRP was|VBD intended|VBN to|TO shoot|VB down|RP ballistic|JJ missiles|NNS in|IN their|PRP$ “boost|JJ phase”|NN after|IN their|PRP$ launch|NN but|CC before|IN they|PRP had|VBD picked|VBN up|RP enough|RB speed|VBN to|TO leave|VB the|DT atmosphere|NN </s>|S_END
+<s>|S_START the|DT logic|NN was|VBD that|IN this|DT is|VBZ a|DT particularly|RB vulnerable|JJ time|NN for|IN a|DT missile|NN since|IN it|PRP is|VBZ moving|VBG relatively|RB slowly|RB and|CC because|IN even|RB minor|JJ damage|NN to|TO an|DT accelerating|NN rocket|NN could|MD prove|VB fatal|JJ given|VBN the|DT enormous|JJ stresses|NNS it|PRP is|VBZ subjected|VBN to|TO </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT airborne|NN laser|NN showed|VBD some|DT promise|NN in|IN tests|NNS but|CC the|DT programme|NN was|VBD ignominiously|RB zapped|VBN in|IN 2011|CD by|IN the|DT pentagon|NN which|WDT couldn’t|-NONE- quite|RB work|VB out|RP how|WRB it|PRP would|MD be|VB able|JJ to|TO keep|VB a|DT big|JJ slowmoving|NN jumbo|NN jet|NN airborne|NN around|IN the|DT clock|NN deep|NN within|IN enemy|NN territory|NN while|IN waiting|VBG for|IN a|DT missile|NN to|TO blast|VB off|RP nearby|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT laser|NN that|IN came|VBD close|JJ to|TO being|VBG practical|JJ enough|RB to|TO use|VB was|VBD the|DT tactical|JJ high|NN energy|NN laser|NN also|RB known|VBN as|IN the|DT nautilus|NN laser|NN pictured|VBD above|IN which|WDT was|VBD designed|VBN to|TO shoot|VB down|RP incoming|VBG artillery|NN round|NN </s>|S_END
+<s>|S_START it|PRP was|VBD successfully|RB tested|VBN in|IN israel|NN where|WRB it|PRP intercepted|VBD incoming|VBG rockets|NNS and|CC shells|NNS but|CC israel|NN and|CC america|NN decided|VBD to|TO pull|VB the|DT plug|NN on|IN it|PRP </s>|S_END
+<s>|S_START one|CD reason|NN that|WDT it|PRP and|CC the|DT airborne|NN laser|NN were|VBD shot|VBN down|RP was|VBD that|IN military|JJ planners|NNS fell|VBD out|IN of|IN love|NN with|IN chemical|JJ laser|NN </s>|S_END
+<s>|S_START these|DT are|VBP very|RB large|JJ and|CC not|RB especially|RB portable|JJ lasers|NNS that|WDT are|VBP powered|VBN by|IN a|DT chemical|JJ reaction|NN </s>|S_END
+<s>|S_START as|IN well|RB as|IN being|VBG bulky|NN they|PRP require|VBP large|JJ amounts|NNS of|IN toxic|JJ and|CC perishable|JJ chemicals|NNS which|WDT can|MD run|VB out|RP limiting|VBG the|DT number|NN of|IN shots|NNS that|WDT the|DT laser|NN can|MD fire|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START witch|NN off|IN the|DT tv|NN we’re|NN firing|VBG the|DT laser|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN the|DT moment|NN the|DT idea|NN of|IN shooting|VBG down|IN big|JJ nucleartipped|VBN missiles|NNS with|IN lasers|NNS has|VBZ been|VBN put|VBN on|IN hold|NN and|CC proponents|NNS of|IN laser|NN weapons|NNS are|VBP aiming|VBG instead|RB at|IN more|JJR flammable|JJ target|NN </s>|S_END
+<s>|S_START much|RB of|IN the|DT work|NN in|IN this|DT field|NN is|VBZ now|RB being|VBG done|NN by|IN the|DT american|JJ navy|NN mainly|RB because|IN ships|NNS make|VBP excellent|NN platforms|NNS for|IN laser|NN weapons|NNS there|EX is|VBZ usually|RB plenty|JJ of|IN space|NN and|CC oodles|NNS of|IN power|NN available|JJ along|IN with|IN lots|NNS of|IN water|NN for|IN cooling|NN the|DT laser|NN down|IN </s>|S_END
+<s>|S_START many|JJ of|IN the|DT latest|JJS ships|NNS are|VBP also|RB being|VBG built|VBN with|IN electric|JJ propulsion|NN systems|NNS their|PRP$ engines|NNS turn|VBP huge|JJ electricity|NN generators|NNS the|DT power|NN from|IN which|WDT can|MD be|VB used|VBN both|DT to|TO propel|VB the|DT ship|NN and|CC to|TO power|NN its|PRP$ weapon|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT big|JJ trend|NN now|RB is|VBZ to|TO try|NN to|TO scale|VB up|RP three|CD other|JJ sorts|NNS of|IN laser|NN that|IN are|VBP far|RB more|RBR compact|JJ than|IN chemical|JJ lasers|NNS and|CC can|MD fire|VB away|RB merrily|RB as|IN long|RB as|IN they|PRP have|VBP power|NN and|CC don’t|JJ get|NN too|RB hot|JJ </s>|S_END
+<s>|S_START the|DT first|JJ sort|NN is|VBZ the|DT fibre|NN laser|NN in|IN which|WDT the|DT beam|NN is|VBZ generated|VBN within|IN an|DT optical|JJ fibre|NN </s>|S_END
+<s>|S_START because|IN this|DT is|VBZ already|RB used|VBN in|IN industry|NN for|IN welding|VBG and|CC cutting|VBG prices|NNS are|VBP falling|VBG power|NN output|NN is|VBZ increasing|VBG and|CC reliability|NN has|VBZ been|VBN steadily|RB improving|VBG </s>|S_END
+<s>|S_START industrial|JJ lasers|NNS can|MD be|VB turned|VBN into|IN weapons|NNS pretty|RB easily|RB simply|RB by|IN strapping|NN them|PRP to|TO a|DT weapons|NNS mount|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC they|PRP are|VBP not|RB very|RB powerful|JJ </s>|S_END
+<s>|S_START the|DT tactical|JJ laser|NN system|NN being|VBG developed|VBN for|IN the|DT american|JJ navy|NN by|IN bae|NN systems|NNS a|DT british|JJ firm|NN has|VBZ an|DT output|NN of|IN just|RB 10kw|CD enough|RB to|TO run|VB a|DT few|JJ household|NN kettle|NN </s>|S_END
+<s>|S_START even|RB so|RB it|PRP might|MD be|VB useful|JJ for|IN frightening|NN off|IN or|CC burning|VBG holes|NNS in|IN small|JJ boats|NNS that|WDT look|NN threatening|VBG but|CC wouldn’t|JJ warrant|NN a|DT hail|NN of|IN machinegun|NN fire|NN </s>|S_END
+<s>|S_START a|DT slightly|RB bigger|JJR version|NN puts|NNS out|IN about|IN 33kw|CD of|IN power|NN and|CC fits|NNS neatly|RB on|IN existing|VBG turrets|NNS that|WDT house|NN the|DT rotary|NN cannons|NNS used|VBN to|TO shoot|VB down|RP incoming|VBG antiship|NN missile|NN </s>|S_END
+<s>|S_START it|PRP could|MD blind|VB optical|JJ or|CC heatseeking|VBG sensors|NNS on|IN enemy|NN missiles|NNS or|CC puncture|NN small|JJ boat|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START plans|NNS are|VBP afoot|RB to|TO scale|VB military|JJ fibre|NN lasers|NNS up|IN to|TO about|IN 100kw|CD which|WDT would|MD enable|VB them|PRP to|TO shoot|VB down|RP small|JJ unmanned|VBN aircraft|NN </s>|S_END
+<s>|S_START the|DT technology|NN is|VBZ relatively|RB mature|JJ a|DT study|NN by|IN the|DT congressional|JJ research|NN service|NN crs|NNS an|DT american|JJ governmentresearch|NN body|NN reckons|NNS it|PRP would|MD cost|VB around|IN $|$ 150m|CD to|TO develop|VB a|DT prototype|NN and|CC that|IN such|JJ lasers|NNS could|MD be|VB in|IN service|NN by|IN 2017|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT second|JJ technology|NN being|VBG worked|VBN on|IN is|VBZ the|DT slab|NN laser|NN </s>|S_END
+<s>|S_START this|DT is|VBZ similar|JJ to|TO a|DT fibre|NN laser|NN but|CC uses|VBZ a|DT slab|NN of|IN optical|JJ material|NN as|IN the|DT gain|NN medium|NN and|CC produces|VBZ a|DT more|RBR powerful|JJ beam|NN </s>|S_END
+<s>|S_START the|DT crs|NNS estimates|VBZ that|IN existing|VBG technology|NN should|MD be|VB able|JJ to|TO produce|VB 300kw|CD beams|NNS and|CC that|IN it|PRP could|MD be|VB scaled|VBN up|RP to|TO produce|VB beams|NNS of|IN about|RB 600kw|CD </s>|S_END
+<s>|S_START that|DT would|MD be|VB enough|RB to|TO shoot|VB down|RP highspeed|VBN cruise|NN missiles|NNS for|IN example|NN but|CC only|RB sideways|VBZ on|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP would|MD be|VB less|RBR useful|JJ for|IN shooting|NN down|IN targets|NNS flying|VBG directly|RB at|IN the|DT laser|NN because|IN of|IN “thermal|JJ blooming”|NN when|WRB a|DT highpowered|VBN laser|NN fires|NNS in|IN the|DT same|JJ direction|NN for|IN a|DT few|JJ seconds|NNS it|PRP warms|VBZ the|DT air|NN which|WDT affects|NNS the|DT power|NN of|IN the|DT beam|NN </s>|S_END
+<s>|S_START the|DT center|NN for|IN strategic|JJ and|CC budgetary|JJ assessments|NNS a|DT thinktank|NN based|VBN in|IN washington|NN dc|NN argues|NNS that|WDT various|JJ sorts|NNS of|IN solidstate|JJ lasers|NNS could|MD be|VB in|IN service|NN on|IN american|JJ ships|NNS by|IN 2018|CD </s>|S_END
+<s>|S_START it|PRP thinks|VBZ that|IN they|PRP could|MD also|RB be|VB used|VBN to|TO counter|VB cruise|NN missiles|NNS flying|VBG directly|RB at|IN a|DT ship|NN using|VBG relay|NN mirrors|NNS mounted|VBN on|IN nearby|JJ unmanned|VBN aircraft|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO be|VB really|RB suitable|JJ for|IN shooting|NN down|IN ballistic|JJ missiles|NNS however|RB a|DT laser|NN with|IN a|DT power|NN level|NN of|IN more|JJR than|IN a|DT megawatt|NN would|MD be|VB needed|VBN </s>|S_END
+<s>|S_START that|DT would|MD mean|VB using|VBG a|DT third|JJ technology|NN called|VBN a|DT freeelectron|NN laser|NN </s>|S_END
+<s>|S_START uch|JJ lasers|NNS are|VBP being|VBG developed|VBN almost|RB exclusively|RB by|IN the|DT american|JJ navy|NN because|IN they|PRP are|VBP too|RB big|JJ to|TO fit|VB on|IN planes|NNS or|CC truck|VB </s>|S_END
+<s>|S_START they|PRP work|VBP by|IN shooting|NN a|DT stream|NN of|IN electrons|NNS at|IN high|JJ speed|NN through|IN an|DT undulating|VBG magnetic|JJ field|NN causing|VBG the|DT electrons|NNS to|TO emit|VB radiation|NN that|WDT coheres|VBZ to|TO form|NN the|DT beam|NN </s>|S_END
+<s>|S_START as|IN well|RB as|IN being|VBG powerful|JJ freeelectron|NN lasers|NNS have|VBP the|DT advantage|NN that|IN they|PRP can|MD be|VB tuned|VBN to|TO a|DT precise|NN frequency|NN allowing|VBG the|DT beam|NN to|TO be|VB adjusted|VBN for|IN different|JJ atmospheric|JJ condition|NN </s>|S_END
+<s>|S_START for|IN the|DT moment|NN however|RB these|DT lasers|NNS are|VBP bulky|JJ and|CC inefficient|NN and|CC are|VBP probably|RB two|CD decades|NNS away|RB from|IN being|VBG practical|JJ weapon|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START although|IN lasers|NNS have|VBP many|JJ advantages|NNS in|IN short|JJ they|PRP also|RB suffer|VBP from|IN quite|RB severe|JJ limitation|NN </s>|S_END
+<s>|S_START the|DT main|JJ one|CD is|VBZ their|PRP$ relatively|RB low|JJ power|NN output|NN </s>|S_END
+<s>|S_START o|NN much|RB energy|NN is|VBZ needed|VBN to|TO burn|VB through|IN the|DT armour|NN of|IN a|DT tank|NN for|IN instance|NN that|WDT it|PRP is|VBZ easier|JJR simply|RB to|TO fire|VB a|DT rocket|NN at|IN it|PRP </s>|S_END
+<s>|S_START even|RB people|NNS do|VBP not|RB make|VB particularly|RB good|JJ targets|NNS for|IN lasers|NNS human|JJ bodies|NNS can|MD absorb|VB a|DT lot|NN of|IN energy|NN before|IN heating|NN up|IN substantially|RB </s>|S_END
+<s>|S_START eyes|NNS make|VBP a|DT better|JJR target|NN but|CC international|JJ conventions|NNS ban|VBP lasers|NNS designed|VBN to|TO blind|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT further|JJ limitation|NN is|VBZ that|IN laser|NN light|NN can|MD be|VB absorbed|VBN or|CC scattered|VBN by|IN pollution|NN fog|NN or|CC smoke|NN </s>|S_END
+<s>|S_START missiles|NNS or|CC other|JJ targets|NNS can|MD also|RB be|VB protected|VBN by|IN coating|NN them|PRP with|IN mirrors|NNS or|CC wrapping|VBG them|PRP with|IN insulation|NN </s>|S_END
+<s>|S_START in|IN addition|NN laser|NN beams|NNS travel|NN in|IN a|DT straight|JJ line|NN which|WDT means|VBZ they|PRP are|VBP less|RBR useful|JJ than|IN conventional|JJ artillery|NN when|WRB shooting|VBG at|IN something|NN on|IN the|DT other|JJ side|NN of|IN a|DT hill|NN </s>|S_END
+<s>|S_START it|PRP seems|VBZ likely|JJ that|IN laser|NN weapons|NNS will|MD have|VB been|VBN deployed|VBN on|IN ships|NNS by|IN the|DT end|NN of|IN the|DT decade|NN </s>|S_END
+<s>|S_START they|PRP will|MD have|VB their|PRP$ uses|NNS but|CC they|PRP remain|VBP rather|RB less|RBR fearsome|NN than|IN their|PRP$ sciencefiction|NN reputation|NN might|MD suggest|VB </s>|S_END
+</p>|P_END
+

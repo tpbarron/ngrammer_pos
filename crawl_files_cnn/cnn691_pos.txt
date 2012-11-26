@@ -1,0 +1,41 @@
+<p>|P_START
+<s>|S_START death|NN row|NN convicts|NNS are|VBP still|RB slated|VBN for|IN execution|NN at|IN san|NN quentin|NN state|NN prison|NN pictured|VBD here|RB after|IN californians|NNS voted|VBD not|RB to|TO abolish|VB capital|NN punishment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN voters|NNS in|IN california|NN rejected|VBD a|DT referendum|NN to|TO abolish|VB the|DT death|NN penalty|NN despite|IN widespread|JJ complaints|NNS about|IN the|DT states|NNS expensive|VBP and|CC dysfunctional|JJ capital|NN punishment|NN system|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT majority|NN of|IN californians|NNS 53|CD voted|VBD no|DT on|IN proposition|NN 34|CD compared|VBN to|TO 47|CD who|WP voted|VBN in|IN favor|NN of|IN the|DT referendum|NN which|WDT would|MD have|VB gotten|VBN rid|JJ of|IN the|DT death|NN penalty|NN if|IN approved|VBN </s>|S_END
+<s>|S_START this|DT tally|NN is|VBZ based|VBN on|IN 95|CD of|IN the|DT votes|NNS having|VBG been|VBN counted|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN the|DT referendum|NN rejected|VBD california|NN will|MD maintain|VB its|PRP$ death|NN row|NN status|NN quo|NN </s>|S_END
+<s>|S_START that|DT has|VBZ cost|VBN the|DT state|NN $|$ 4|CD billion|CD since|IN 1978|CD even|RB though|IN only|RB 13|CD convicts|NNS have|VBP been|VBN executed|VBN in|IN that|DT time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START supporters|NNS of|IN prop|NN 34|CD wanted|VBD to|TO switch|VB the|DT 700plus|CD residents|NNS of|IN death|NN row|NN to|TO life|VB without|IN parole|JJ </s>|S_END
+<s>|S_START they|PRP estimate|VBP that|IN this|DT could|MD have|VB saved|VBN the|DT cashstrapped|VBN state|NN $|$ 130|CD million|CD per|IN year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD is|VBZ californias|RB death|NN penalty|NN too|RB expensive|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT supporters|NNS including|VBG the|DT group|NN yes|VBZ on|IN 34|CD and|CC former|JJ san|NN quentin|NN state|NN prison|NN warden|NN jeanne|NN woodford|NN highlighted|VBD the|DT problems|NNS with|IN the|DT broken|VBN system|NN </s>|S_END
+<s>|S_START they|PRP note|VBP that|IN the|DT state|NN hasnt|NN executed|VBD any|DT of|IN its|PRP$ death|NN row|NN inmates|VBZ for|IN six|CD years|NNS even|RB though|IN some|DT of|IN them|PRP have|VBP been|VBN awaiting|VBG execution|NN since|IN the|DT 1970s|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT advocates|NNS of|IN capital|NN punishment|NN such|JJ as|IN the|DT organization|NN californians|NNS for|IN justice|NN and|CC public|JJ safety|NN argue|NN that|IN the|DT ultimate|JJ punishment|NN was|VBD only|RB applied|VBN to|TO the|DT most|JJS violent|NN and|CC heinous|JJ killers|NNS </s>|S_END
+<s>|S_START many|JJ advocates|NNS say|VBP that|IN the|DT appeals|NNS process|NN should|MD be|VB limited|VBN in|IN order|NN to|TO curb|VB costs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT of|IN the|DT more|RBR notorious|JJ residents|NNS on|IN californias|NNS death|NN row|NN include|NN mass|NN murderer|NN and|CC serial|JJ rapist|NN richard|NN night|NN stalker|NN ramirez|NN serial|NN killer|NN charles|NNS ng|VBP and|CC also|RB scott|VBD peterson|NN who|WP murdered|VBN his|PRP$ pregnant|JJ wife|NN laci|NN peterson|NN </s>|S_END
+</p>|P_END
+

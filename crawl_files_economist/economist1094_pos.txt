@@ -1,0 +1,46 @@
+<p>|P_START
+<s>|S_START anyone|NN caught|VBD up|RP in|IN recent|JJ months|NNS in|IN the|DT maelstrom|NN of|IN piccadilly|RB and|CC pall|NN mall—west|NN end|NN thoroughfares|NNS whose|WP$ traffic|JJ flow|NN has|VBZ been|VBN subject|JJ to|TO a|DT noisy|NN protracted|VBN redesign—might|JJ be|NN forgiven|VBN for|IN thinking|NN that|WDT london|NN is|VBZ the|DT world|NN capital|NN of|IN roadwork|NN </s>|S_END
+<s>|S_START comparative|JJ statistics|NNS are|VBP hard|RB to|TO come|VB by|IN but|CC there|EX might|MD be|VB something|NN in|IN that|DT hunch|NN </s>|S_END
+<s>|S_START about|IN half|DT a|DT million|NN roadworks|VBZ pock|NN the|DT citys|NNS streets|NNS each|DT year|NN creating|VBG 30|CD of|IN all|DT traffic|JJ disruptions|NNS and|CC costing|VBG about|IN £1|-NONE- billion|CD a|DT year|NN on|IN a|DT conservative|JJ estimate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT explanation|NN for|IN the|DT pain|NN is|VBZ partly|RB historic|JJ </s>|S_END
+<s>|S_START after|IN the|DT destruction|NN of|IN the|DT second|JJ world|NN war|NN some|DT european|JJ cities|NNS were|VBD replanned|VBN to|TO accommodate|VB mass|NN carownership|NN </s>|S_END
+<s>|S_START london|NN came|VBD through|IN the|DT blitz|NN but|CC kept|VBD its|PRP$ mazelike|NN medieval|NN road|NN pattern|NN </s>|S_END
+<s>|S_START meanwhile|RB other|JJ bits|NNS of|IN the|DT citys|NNS infrastructure|VBP are|VBP similarly|RB decrepit|JJ its|PRP$ water|NN pipes|NNS are|VBP antique|JJ its|PRP$ sewage|NN network|NN is|VBZ victorian|JJ </s>|S_END
+<s>|S_START o|NN improvements|NNS are|VBP both|DT frequent|NN and|CC peculiarly|RB disruptive|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START boris|NNS johnson|VBP londons|NNS mayor|NN has|VBZ a|DT plan|NN </s>|S_END
+<s>|S_START in|IN 2009|CD he|PRP introduced|VBD a|DT voluntary|JJ code|NN of|IN conduct|NN to|TO which|WDT six|CD big|JJ utility|NN firms|NNS have|VBP signed|VBN up|RP along|IN with|IN transport|NN for|IN london|NN tfl|NN the|DT citys|NNS transport|NN authority|NN </s>|S_END
+<s>|S_START tfl|NN controls|NNS 5|CD of|IN the|DT citys|NNS roads|NNS but|CC those|DT have|VBP nearly|RB 10|CD of|IN all|DT roadworks|NNS and|CC a|DT third|JJ of|IN all|DT traffic|JJ </s>|S_END
+<s>|S_START the|DT rest|NN are|VBP supervised|VBN by|IN the|DT city|NN of|IN london|NN corporation|NN and|CC the|DT 32|CD borough|NN </s>|S_END
+<s>|S_START the|DT code|NN promotes|VBZ offpeak|NN work|NN the|DT coordination|NN of|IN plans|NNS and|CC covering|VBG up|RP of|IN holes|NNS so|IN cars|NNS can|MD drive|VB over|IN them|PRP </s>|S_END
+<s>|S_START in|IN the|DT two|CD years|NNS of|IN its|PRP$ operation|NN tfl|NN reckons|NNS that|WDT more|JJR than|IN 2000|CD days|NNS of|IN disruption|NN have|VBP been|VBN avoided|VBN by|IN encouraging|NN utilities|NNS to|TO make|VB their|PRP$ upgrades|NNS to|TO the|DT same|JJ streets|NNS at|IN the|DT same|JJ time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT mayor|NN has|VBZ also|RB created|VBN a|DT paidfor|NN permit|NN system—similar|JJ to|TO one|CD used|VBN in|IN new|JJ york|NN city—which|JJ lets|NNS local|JJ authorities|NNS limit|NN the|DT number|NN of|IN works|NNS on|IN their|PRP$ turf|NN and|CC hand|NN out|RP penalties|NNS for|IN violating|VBG the|DT permits|NNS conditions|NNS previously|RB utilities|NNS could|MD simply|RB issue|VB work|NN notices|NNS and|CC expect|VBP drivers|NNS to|TO make|VB way|NN </s>|S_END
+<s>|S_START and|CC tfl|NN has|VBZ also|RB imposed|VBN a|DT cap|NN on|IN the|DT number|NN of|IN roadworks|NNS that|WDT can|MD happen|VB on|IN its|PRP$ own|JJ grid|NN at|IN any|DT one|CD time|NN it|PRP says|VBZ the|DT number|NN and|CC average|JJ duration|NN of|IN works|NNS on|IN it|PRP are|VBP decreasing|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START alas|NNS there|EX are|VBP still|RB big|JJ glitche|NN </s>|S_END
+<s>|S_START boroughs|NNS commission|NN their|PRP$ own|JJ roadworks|NNS and|CC have|VBP less|JJR incentive|JJ than|IN utilities|NNS to|TO work|VB efficiently|RB </s>|S_END
+<s>|S_START budget|NN cuts|NNS mean|VBP upgrades|NNS tend|VBP to|TO be|VB delayed|VBN until|IN they|PRP are|VBP unavoidable—at|JJ which|WDT point|NN they|PRP are|VBP more|RBR troublesome|JJ than|IN planned|VBN maintenance|NN </s>|S_END
+<s>|S_START utilities|NNS may|MD pass|VB on|IN the|DT costs|NNS of|IN permits|NNS to|TO consumer|NN </s>|S_END
+<s>|S_START the|DT same|JJ might|NN go|VB for|IN the|DT costs|NNS of|IN mr|NN johnsons|NNS latest|JJS proposal|NN a|DT lanerental|JJ scheme|NN for|IN tfls|NNS most|JJS congested|VBN street|NN </s>|S_END
+<s>|S_START if|IN implemented|VBN that|IN would|MD allow|VB the|DT authority|NN to|TO charge|VB a|DT hefty|JJ daily|JJ fee|NN for|IN the|DT use|NN of|IN road|NN space|NN at|IN busy|NN time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ another|DT basic|JJ problem|NN with|IN londons|NNS road|VBP </s>|S_END
+<s>|S_START as|IN tony|NN travers|NNS of|IN the|DT london|NN school|NN of|IN economics|NNS points|NNS out|IN londoners|NNS expect|VBP too|RB much|RB from|IN them|PRP </s>|S_END
+<s>|S_START responding|VBG to|TO residents|NNS concerns|NNS councils|NNS have|VBP diverted|VBN traffic|JJ away|NN from|IN smaller|JJR streets|NNS so|RB the|DT big|JJ arterial|JJ roads|NNS are|VBP overburdened—with|JJ bus|NNS and|CC bicycle|NN lanes|NNS and|CC widening|VBG footpaths|NNS as|IN well|RB as|IN more|JJR car|NN </s>|S_END
+<s>|S_START adding|VBG such|JJ features|NNS inflicts|NNS triple|VBP pain|NN on|IN drivers|NNS mr|VBP travers|NNS argue|VBP </s>|S_END
+<s>|S_START the|DT men|NNS in|IN hard|JJ hats|NNS do|VBP their|PRP$ bit|NN then|RB streets|VBZ have|VB less|JJR space|NN for|IN cars|NNS consequently|RB further|JJ roadworks|NNS are|VBP more|RBR disruptive|JJ when|WRB they|PRP happen|VBP </s>|S_END
+<s>|S_START until|IN london|NN decides|VBZ what|WP it|PRP wants|VBZ its|PRP$ roads|NNS to|TO do|VB mr|NN johnsons|NNS measures|VBZ will|MD only|RB offer|VB limited|VBN lubrication|NN </s>|S_END
+</p>|P_END
+

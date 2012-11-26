@@ -1,0 +1,68 @@
+<p>|P_START
+<s>|S_START the|DT big|JJ mac|NN index|NN celebrates|NNS its|PRP$ 25th|JJ birthday|NN this|DT year|NN </s>|S_END
+<s>|S_START invented|VBD by|IN the|DT economist|NN in|IN 1986|CD as|IN a|DT lighthearted|VBN guide|NN to|TO whether|IN currencies|NNS are|VBP at|IN their|PRP$ “correct”|JJ level|NN it|PRP was|VBD never|RB intended|VBN as|IN a|DT precise|NN gauge|NN of|IN currency|NN misalignment|NN merely|RB a|DT tool|NN to|TO make|VB exchangerate|JJ theory|NN more|RBR digestible|JJ </s>|S_END
+<s>|S_START yet|RB the|DT big|JJ mac|NN index|NN has|VBZ become|VBN a|DT global|JJ standard|JJ included|JJ in|IN several|JJ economic|JJ textbooks|NNS and|CC the|DT subject|NN of|IN at|IN least|JJS 20|CD academic|JJ studie|NN </s>|S_END
+<s>|S_START american|NN politicians|NNS have|VBP even|RB cited|VBN the|DT index|NN in|IN their|PRP$ demands|NNS for|IN a|DT big|JJ appreciation|NN of|IN the|DT chinese|JJ yuan|NN </s>|S_END
+<s>|S_START with|IN so|RB many|JJ people|NNS taking|VBG the|DT hamburger|NN standard|NN so|RB seriously|RB it|PRP may|MD be|VB time|NN to|TO beef|VB it|PRP up|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START burgernomics|NNS is|VBZ based|VBN on|IN the|DT theory|NN of|IN purchasingpower|JJR parity|NN ppp|NN the|DT notion|NN that|IN in|IN the|DT long|JJ run|NN exchange|NN rates|NNS should|MD move|VB towards|NNS the|DT rate|NN that|IN would|MD equalise|VB the|DT prices|NNS of|IN an|DT identical|JJ basket|NN of|IN goods|NNS and|CC services|NNS in|IN this|DT case|NN a|DT burger|NN in|IN any|DT two|CD countrie|NN </s>|S_END
+<s>|S_START the|DT average|JJ price|NN of|IN a|DT big|JJ mac|NN in|IN america|NN is|VBZ $|$ 407|CD in|IN china|NN it|PRP is|VBZ only|RB $|$ 227|CD at|IN market|NN exchange|NN rates|NNS 44|CD cheaper|JJR </s>|S_END
+<s>|S_START in|IN other|JJ words|NNS the|DT raw|NN big|JJ mac|NN index|NN suggests|VBZ that|IN the|DT yuan|NN is|VBZ undervalued|VBN by|IN 44|CD against|IN the|DT dollar|NN </s>|S_END
+<s>|S_START in|IN contrast|NN the|DT currencies|NNS of|IN switzerland|NN and|CC norway|NN appear|NN to|TO be|VB overvalued|VBN by|IN around|IN 100|CD </s>|S_END
+<s>|S_START the|DT euro|NN based|VBN on|IN a|DT weighted|JJ average|NN of|IN prices|NNS in|IN member|NN countries|NNS is|VBZ overvalued|VBN by|IN 21|CD against|IN the|DT dollar|NN sterling|VBG is|VBZ slightly|RB undervalued|VBN the|DT japanese|JJ yen|NN seems|VBZ to|TO be|VB spoton|VBN </s>|S_END
+<s>|S_START for|IN the|DT first|JJ time|NN we|PRP have|VBP included|VBN india|NNS in|IN our|PRP$ survey|NN </s>|S_END
+<s>|S_START mcdonalds|NNS does|VBZ not|RB sell|VB big|JJ macs|NNS there|EX so|RB we|PRP have|VBP taken|VBN the|DT price|NN of|IN a|DT maharaja|NN mac|NN made|VBD with|IN chicken|JJ instead|RB of|IN beef|NN </s>|S_END
+<s>|S_START meat|NN accounts|NNS for|IN less|JJR than|IN 10|CD of|IN a|DT burgers|NNS total|VBP cost|NN so|IN this|DT is|VBZ unlikely|RB to|TO distort|VB results|NNS hugely|RB </s>|S_END
+<s>|S_START it|PRP indicates|VBZ that|IN the|DT rupee|NN is|VBZ 53|CD undervalued|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ketchup|NN growth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN find|VBD burgernomics|NNS hard|RB to|TO swallow|VB </s>|S_END
+<s>|S_START burgers|NNS can|MD not|RB easily|RB be|VB traded|VBN across|IN borders|NNS and|CC prices|NNS are|VBP distorted|VBN by|IN big|JJ differences|NNS in|IN the|DT cost|NN of|IN nontraded|VBN local|JJ inputs|NNS such|JJ as|IN rent|NN and|CC workers|NNS wage|NN </s>|S_END
+<s>|S_START the|DT big|JJ mac|NN index|NN suggests|VBZ that|IN most|JJS emergingmarket|NN currencies|NNS are|VBP significantly|RB undervalued|VBN for|IN instance|NN brazil|NN and|CC argentina|NN are|VBP the|DT big|JJ exception|NN </s>|S_END
+<s>|S_START but|CC you|PRP would|MD expect|VB average|JJ prices|NNS to|TO be|VB cheaper|JJR in|IN poor|JJ countries|NNS than|IN in|IN rich|JJ ones|NNS because|IN labour|PRP$ costs|NNS are|VBP lower|JJR </s>|S_END
+<s>|S_START this|DT is|VBZ the|DT basis|NN of|IN the|DT socalled|VBN “balassasamuelson|NN effect”|-NONE- </s>|S_END
+<s>|S_START rich|NN countries|NNS have|VBP much|JJ higher|JJR productivity|NN and|CC hence|NN higher|JJR wages|NNS in|IN the|DT tradedgoods|NNS sector|NN than|IN poor|JJ countries|NNS do|VBP </s>|S_END
+<s>|S_START because|IN firms|NNS compete|VBP for|IN workers|NNS this|DT also|RB pushes|VBZ up|RP wages|NNS in|IN nontradable|JJ goods|NNS and|CC services|NNS where|WRB rich|JJ countries|NNS productivity|NN advantage|NN is|VBZ smaller|JJR </s>|S_END
+<s>|S_START o|NN average|NN prices|NNS are|VBP cheaper|JJR in|IN poor|JJ countrie|NN </s>|S_END
+<s>|S_START the|DT top|JJ chart|NN shows|VBZ a|DT strong|JJ positive|JJ relationship|NN between|IN the|DT dollar|NN price|NN of|IN a|DT big|JJ mac|NN and|CC gdp|VB per|IN person|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START chinas|NNS average|VBP income|NN is|VBZ only|RB onetenth|JJ of|IN that|DT in|IN america|NN so|IN economic|JJ theory|NN would|MD suggest|VB that|IN its|PRP$ exchange|NN rate|NN should|MD be|VB below|IN its|PRP$ longrun|NN ppp|NN ie|NN the|DT rate|NN that|IN would|MD leave|VB a|DT burger|NN costing|VBG the|DT same|JJ in|IN the|DT two|CD countrie|NN </s>|S_END
+<s>|S_START ppp|NN signals|NNS where|WRB exchange|NN rates|NNS should|MD be|VB heading|VBG in|IN the|DT long|JJ run|NN as|IN china|NN gets|NNS richer|RB but|CC it|PRP says|VBZ little|JJ about|IN todays|NNS equilibrium|NN rate|NN </s>|S_END
+<s>|S_START however|RB the|DT relationship|NN between|IN prices|NNS and|CC gdp|VB per|IN person|NN can|MD perhaps|RB be|VB used|VBN to|TO estimate|VB the|DT current|JJ fair|NN value|NN of|IN a|DT currency|NN </s>|S_END
+<s>|S_START the|DT top|JJ chart|NN shows|VBZ the|DT “line|JJ of|IN best|JJS fit”|JJ between|IN big|JJ mac|NN prices|NNS and|CC gdp|VB per|IN person|NN for|IN 48|CD countrie|NN </s>|S_END
+<s>|S_START the|DT difference|NN between|IN the|DT price|NN predicted|VBD by|IN the|DT red|NN line|NN for|IN each|DT country|NN given|VBN its|PRP$ income|NN per|IN head|NN and|CC its|PRP$ actual|JJ price|NN offers|NNS a|DT better|JJR guide|NN to|TO currency|NN under|IN and|CC overvaluation|NN than|IN the|DT pppbased|VBN “raw”|-NONE- index|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT alternative|NN recipe|NN with|IN its|PRP$ adjustment|NN for|IN gdp|NN per|IN person|NN indicates|VBZ that|IN the|DT brazilian|JJ real|JJ is|VBZ still|RB badly|RB overcooked|VBN at|IN more|RBR than|IN 100|CD too|RB dear|JJ see|NN lower|JJR chart|NN </s>|S_END
+<s>|S_START the|DT euro|NN is|VBZ 36|CD overvalued|VBN against|IN the|DT dollar|NN and|CC our|PRP$ beefedup|NN index|NN also|RB throws|VBZ useful|JJ light|NN on|IN the|DT uncompetitiveness|NN of|IN some|DT economies|NNS within|IN the|DT euro|NN area|NN </s>|S_END
+<s>|S_START comparing|VBG burger|JJR prices|NNS in|IN member|NN countries|NNS the|DT adjusted|VBN big|JJ mac|NN index|NN shows|VBZ that|IN the|DT “exchange|JJ rates”|NN of|IN italy|RB spain|JJ greece|NN and|CC portugal|JJ are|VBP all|DT significantly|RB overvalued|VBN relative|JJ to|TO that|DT of|IN germany|NN </s>|S_END
+<s>|S_START as|IN for|IN china|NN the|DT yuan|NN is|VBZ close|JJ to|TO its|PRP$ fair|NN value|NN against|IN the|DT greenback|NN on|IN the|DT adjusted|VBN measure|NN although|IN both|DT are|VBP undervalued|VBN against|IN many|JJ other|JJ currencie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START upersize|NN jubilee|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN tradeweighted|VBN terms|NNS our|PRP$ calculations|NNS suggest|VBP that|IN the|DT yuan|NN is|VBZ a|DT modest|JJ 7|CD undervalued|VBN hardly|RB grounds|VBZ for|IN a|DT trade|NN war|NN </s>|S_END
+<s>|S_START that|DT is|VBZ less|JJR than|IN previous|JJ estimates|NNS of|IN a|DT 2025|CD undervaluation|NN based|VBN on|IN models|NNS that|IN calculate|JJ the|DT appreciation|NN in|IN the|DT yuan|NN needed|VBD to|TO reduce|VB chinas|NNS currentaccount|NN surplus|NN to|TO a|DT manageable|JJ level|NN of|IN say|NN 3|CD of|IN gdp|NN </s>|S_END
+<s>|S_START even|RB this|DT surplusbased|VBN method|NN now|RB points|VBZ to|TO a|DT smaller|JJR yuan|NN undervaluation|NN than|IN it|PRP used|VBD to|TO because|IN chinas|NNS surplus|CC has|VBZ shrunk|NN </s>|S_END
+<s>|S_START everal|JJ privatesector|NN economists|NNS forecast|VBP that|IN it|PRP could|MD drop|VB below|IN 4|CD of|IN gdp|NN this|DT year|NN down|IN from|IN nearly|RB 11|CD in|IN 2007|CD </s>|S_END
+<s>|S_START as|IN its|PRP$ productivity|NN rises|NNS over|IN time|NN china|NN must|MD continue|VB to|TO allow|VB its|PRP$ real|JJ exchange|NN rate|NN to|TO rise|VB either|DT through|IN currency|NN appreciation|NN or|CC through|IN inflation|NN but|CC our|PRP$ new|JJ burger|NN barometer|NN suggests|VBZ that|IN the|DT yuan|NN is|VBZ not|RB hugely|RB undervalued|VBN today|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT quarter|NN of|IN a|DT century|NN after|IN its|PRP$ first|JJ grilling|NN burgernomics|NNS is|VBZ still|RB far|RB from|IN perfect|NN but|CC if|IN adjusted|VBN for|IN gdp|NN per|IN person|NN it|PRP becomes|VBZ tastier|JJR </s>|S_END
+<s>|S_START all|DT the|DT more|RBR reason|NN to|TO keep|VB putting|VBG our|PRP$ money|NN where|WRB our|PRP$ mouth|NN i|PRP </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,68 @@
+<p>|P_START
+<s>|S_START click|NN here|RB to|TO track|VB world|NN markets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN world|NN markets|NNS sold|VBD off|RP friday|NN after|IN moodys|NNS downgraded|VBD 15|CD major|JJ banks|NNS and|CC a|DT report|NN on|IN german|NN confidence|NN was|VBD worse|JJ than|IN expected|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN the|DT close|NN of|IN us|PRP trading|VBG thursday|NN moodys|NNS investors|NNS service|NN downgraded|VBD 15|CD banks|NNS including|VBG giants|NNS like|IN bank|NN of|IN america|NN bac|NN fortune|NN 500|CD goldman|NN sachs|NNS gs|NNS fortune|VBP 500|CD and|CC jpmorgan|JJ jpm|NN fortune|NN 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT weighed|VBD on|IN european|JJ and|CC asian|JJ markets|NNS which|WDT were|VBD closed|VBN when|WRB the|DT downgrades|NNS were|VBD announced|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START londons|NNS ftse|VBP 100|CD ukx|NN closed|VBD 1|CD lower|JJR friday|NN the|DT cac|NN 40|CD cac40|NNP in|IN paris|NN was|VBD down|IN 08|CD and|CC the|DT dax|NN dax|NN in|IN frankfurt|NN slid|VBD 13|CD </s>|S_END
+<s>|S_START but|CC all|DT three|CD indexes|NNS managed|VBN to|TO eke|VB out|RP gains|NNS for|IN the|DT week|NN although|IN less|JJR than|IN 1|CD </s>|S_END
+<s>|S_START the|DT euronext|NN n100|NNP index|NN fell|VBD 08|CD on|IN friday|NN but|CC it|PRP was|VBD also|RB higher|JJR overall|JJ for|IN the|DT week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT hang|NN seng|NN hsi|NN in|IN hong|JJ kong|JJ closed|JJ lower|NN by|IN 14|CD on|IN friday|NN down|IN 12|CD for|IN the|DT week|NN while|IN tokyos|NNS nikkei|VBP 225|CD n225|NNP slipped|VBD 03|CD at|IN the|DT close|NN but|CC managed|VBN gains|NNS of|IN 27|CD for|IN the|DT week|NN </s>|S_END
+<s>|S_START the|DT shanghai|NN composite|JJ shcomp|NN was|VBD closed|VBN for|IN a|DT holiday|NN on|IN friday|NN but|CC was|VBD down|RP 15|CD for|IN the|DT week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT day|NN of|IN weak|JJ data|NNS from|IN germany|NN added|VBD to|TO market|NN pessimism|NN on|IN friday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT german|NN ifo|NN data|NNS was|VBD pretty|RB soft|JJ a|DT twoyear|JJ low|JJ said|VBD kathy|JJ jones|NNS fixed|VBN income|NN strategist|NN for|IN charles|NNS schwab|VBP </s>|S_END
+<s>|S_START now|RB the|DT recession|NN is|VBZ spreading|VBG to|TO all|DT the|DT countries|NNS throughout|IN europe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT closely|RB watched|VBN ifo|NN business|NN climate|NN index|NN for|IN industry|NN and|CC trade|NN in|IN germany|NN fell|VBD to|TO its|PRP$ lowest|JJS level|NN since|IN march|NN 2010|CD and|CC companies|NNS had|VBD far|RB lower|JJR expectations|NNS for|IN the|DT next|JJ six|CD months|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT came|VBD a|DT day|NN after|IN a|DT purchasing|VBG managers|NNS report|NN showed|VBD conditions|NNS deteriorating|VBG for|IN the|DT second|JJ straight|NN month|NN in|IN germany|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START germany|NN a|DT bastion|NN of|IN economic|JJ strength|NN amid|IN its|PRP$ mostly|RB stagnant|JJ european|JJ neighbors|NNS sends|NNS 60|CD of|IN its|PRP$ exports|NNS to|TO other|JJ european|JJ union|NN members|NNS </s>|S_END
+<s>|S_START it|PRP is|VBZ now|RB feeling|VBG the|DT impact|NN from|IN the|DT surrounding|VBG malaise|NN jones|NNS said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN youre|NN going|VBG to|TO have|VB that|IN much|RB of|IN a|DT downturn|NN in|IN europe|NN its|PRP$ going|VBG to|TO be|VB felt|VBN in|IN germany|NN as|IN well|RB she|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT recession|NN is|VBZ certainly|RB being|VBG felt|VBN in|IN spain|NN where|WRB the|DT banking|NN industry|NN needs|VBZ a|DT cash|NN injection|NN of|IN €|NNP 62|CD billion|CD just|RB to|TO stay|VB afloat|JJ according|VBG to|TO an|DT independent|JJ audit|NN published|VBD thursday|NN </s>|S_END
+<s>|S_START after|IN selling|VBG off|IN thursday|NN uslisted|VBN shares|NNS of|IN banco|NN santander|NN san|NN and|CC bbva|NN bbva|NN rebounded|VBD by|IN more|JJR than|IN 3|CD friday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START spanish|JJ debt|NN is|VBZ also|RB still|RB expensive|JJ with|IN the|DT average|JJ yield|NN for|IN its|PRP$ 10year|JJ bond|NN trading|NN at|IN 64|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN the|DT domestic|JJ front|NN wall|NN street|NN rebounded|VBD after|IN getting|VBG thursdays|NNS nasty|NN session|NN out|IN of|IN its|PRP$ system|NN </s>|S_END
+<s>|S_START sp|NN 500|CD spx|NN nasdaq|NN comp|NN and|CC dow|NN jones|NNS industrial|JJ average|NN indu|NN were|VBD all|DT higher|JJR on|IN friday|NN making|VBG modest|NN gains|NNS of|IN less|JJR than|IN 1|CD </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,69 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN a|DT year|NN after|IN graduating|VBG from|IN college|NN women|NNS are|VBP earning|VBG thousands|NNS of|IN dollars|NNS less|JJR per|IN year|NN than|IN their|PRP$ male|JJ peers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START women|NNS who|WP worked|VBD fulltime|VBP jobs|NNS one|CD year|NN after|IN receiving|VBG their|PRP$ diplomas|NNS earned|VBD 82|CD cents|NNS for|IN every|DT dollar|NN men|NNS earned|VBD </s>|S_END
+<s>|S_START thats|NNS according|VBG to|TO a|DT report|NN from|IN the|DT american|JJ association|NN of|IN university|NN women|NNS which|WDT analyzed|VBN data|NNS from|IN a|DT department|NN of|IN education|NN survey|NN of|IN 15000|CD graduates|NNS conducted|VBN in|IN 2009|CD the|DT most|RBS recent|JJ data|NNS available|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN men|NNS earned|VBD average|JJ salaries|NNS of|IN $|$ 42918|CD women|NNS earned|VBD $|$ 35296|CD a|DT nearly|RB $|$ 8000|CD difference|NN the|DT report|NN found|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD colleges|NNS with|IN the|DT highest|JJS paid|VBN grads|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START you|PRP hear|VBP in|IN the|DT news|NN that|IN millennial|JJ women|NNS are|VBP now|RB outearning|VBG their|PRP$ male|JJ peers|NNS but|CC what|WP we|PRP found|VBD in|IN looking|NN at|IN those|DT emerging|VBG from|IN college|NN is|VBZ that|IN there|EX is|VBZ still|RB a|DT gender|NN pay|NN gap|NN said|VBD catherine|NN hill|NN director|NN of|IN research|NN at|IN aauw|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START why|WRB the|DT gap|NN </s>|S_END
+<s>|S_START men|NNS typically|RB choose|VB majors|NNS that|WDT result|NN in|IN more|JJR lucrative|JJ careers|NNS postgraduation|NN like|IN engineering|NN </s>|S_END
+<s>|S_START even|RB if|IN men|NNS and|CC women|NNS major|JJ in|IN the|DT same|JJ subject|NN men|NNS tend|VBP to|TO end|VB up|RP in|IN higherpaying|NN jobs|NNS </s>|S_END
+<s>|S_START men|NNS also|RB work|VB more|JJR hours|NNS according|VBG to|TO aauw|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC even|RB when|WRB controlling|VBG for|IN these|DT factors|NNS by|IN looking|VBG at|IN men|NNS and|CC women|NNS with|IN the|DT same|JJ majors|NNS jobs|NNS and|CC hours|NNS women|NNS were|VBD still|RB paid|VBN 7|CD less|JJR than|IN men|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD women|NNS are|VBP back|RB on|IN the|DT job|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START female|JJ business|NN majors|NNS for|IN example|NN earned|VBD a|DT little|RB over|IN $|$ 38000|CD while|IN men|NNS earned|VBD more|JJR than|IN $|$ 45000|CD </s>|S_END
+<s>|S_START among|IN men|NNS and|CC women|NNS who|WP took|VBD teaching|VBG jobs|NNS women|NNS earned|VBD 89|CD of|IN what|WP men|NNS earned|VBD </s>|S_END
+<s>|S_START and|CC while|IN men|NNS reported|VBD working|VBG 45|CD hours|NNS a|DT week|NN compared|VBN to|TO the|DT 43|CD hours|NNS reported|VBD by|IN women|NNS among|IN those|DT who|WP said|VBD they|PRP work|VBP 40|CD hours|NNS a|DT week|NN women|NNS earned|VBD 84|CD of|IN what|WP men|NNS earned|VBD across|IN all|DT jobs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START other|JJ less|NN measurable|JJ factors|NNS may|MD also|RB be|VB at|IN play|NN such|JJ as|IN gender|NN discrimination|NN and|CC willingness|NN to|TO negotiate|VB salary|JJ which|WDT studies|NNS have|VBP shown|VBN men|NNS are|VBP more|RBR likely|JJ to|TO do|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START debt|NN piles|NNS up|IN for|IN female|JJ grads|NNS thanks|NNS to|TO this|DT pay|NN gap|NN women|NNS are|VBP spending|VBG a|DT much|RB bigger|JJR share|NN of|IN their|PRP$ earnings|NNS on|IN monthly|JJ student|NN loan|NN payments|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN women|NNS and|CC men|NNS borrowed|VBD similar|JJ amounts|NNS of|IN money|NN to|TO fund|VB their|PRP$ education|NN nearly|RB half|NN of|IN women|NNS were|VBD paying|VBG more|JJR than|IN 8|CD of|IN their|PRP$ earnings|NNS toward|IN student|NN loan|NN debt|NN in|IN 2009|CD </s>|S_END
+<s>|S_START less|JJR than|IN 40|CD of|IN men|NNS were|VBD paying|VBG the|DT same|JJ amount|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD the|DT other|JJ reason|NN grads|NNS are|VBP drowning|VBG in|IN debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT aauw|NN estimates|VBZ that|IN based|VBN on|IN pay|NN its|PRP$ unmanageable|JJ for|IN women|NNS to|TO spend|VB more|JJR than|IN 78|CD of|IN their|PRP$ earnings|NNS on|IN student|NN loan|NN debt|NN </s>|S_END
+<s>|S_START yet|RB 53|CD of|IN women|NNS paid|VBN more|RBR than|IN this|DT </s>|S_END
+<s>|S_START meanwhile|RB 39|CD of|IN men|NNS paid|VBN more|RBR than|IN the|DT 89|CD threshold|NN that|WDT aauw|NN says|VBZ is|VBZ affordable|JJ for|IN men|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ shocking|NN that|WDT these|DT numbers|NNS are|VBP as|RB high|JJ as|IN they|PRP are|VBP and|CC it|PRP suggests|VBZ to|TO us|PRP that|IN student|NN debt|NN continues|VBZ to|TO grow|VB but|CC were|VBD not|RB seeing|VBG the|DT same|JJ increases|NNS in|IN wages|NNS and|CC womens|NNS wages|NNS in|IN particular|JJ are|VBP not|RB keeping|VBG pace|NN said|VBD hill|NN </s>|S_END
+</p>|P_END
+

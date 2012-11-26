@@ -1,0 +1,96 @@
+<p>|P_START
+<s>|S_START the|DT white|JJ house|NN is|VBZ looking|VBG for|IN ways|NNS to|TO help|VB graduates|NNS deal|VB with|IN student|NN loans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START washington|NN cnnmoney|NN the|DT deadline|NN for|IN congress|NN to|TO extend|VB the|DT low|JJ 34|CD interest|NN rate|NN on|IN student|NN loans|NNS is|VBZ fast|RB approaching|VBG </s>|S_END
+<s>|S_START but|CC the|DT obama|NN administration|NN eager|NN to|TO make|VB college|NN debt|NN a|DT reelection|NN issue|NN is|VBZ looking|VBG for|IN a|DT way|NN to|TO lessen|VB the|DT burden|NN on|IN graduates|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START last|JJ week|NN the|DT white|NN house|NN rolled|VBD out|RP a|DT plan|NN to|TO make|VB it|PRP easier|JJR for|IN graduates|NNS to|TO enroll|VB in|IN a|DT special|JJ program|NN that|WDT caps|VBZ loan|NN repayment|NN based|VBN on|IN income|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START under|IN the|DT present|NN terms|NNS of|IN the|DT 4yearold|JJ incomebased|VBN repayment|NN plan|NN graduates|VBZ who|WP enroll|RB get|VBP charged|VBN 15|CD of|IN their|PRP$ monthly|JJ discretionary|NN income|NN to|TO pay|VB off|RP loans|NNS </s>|S_END
+<s>|S_START all|DT debt|NN is|VBZ forgiven|VBN after|IN 25|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START currently|RB the|DT program|NN has|VBZ 700000|CD participants|NNS according|VBG to|TO secretary|JJ of|IN education|NN arne|NN duncan|NN </s>|S_END
+<s>|S_START but|CC the|DT administration|NN believes|VBZ millions|NNS more|JJR could|MD benefit|VB from|IN the|DT capped|JJ loan|NN payments|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START president|NN obama|VBD directed|VBN the|DT education|NN agency|NN to|TO create|VB a|DT new|JJ way|NN to|TO allow|VB students|NNS to|TO enroll|VB into|IN the|DT incomebased|VBN loan|NN program|NN online|NN with|IN a|DT single|JJ click|NN </s>|S_END
+<s>|S_START graduates|NNS will|MD be|VB able|JJ to|TO upload|VB financial|JJ data|NNS directly|RB from|IN the|DT irs|NNS instead|RB of|IN filling|VBG out|IN an|DT application|NN with|IN information|NN from|IN a|DT personal|JJ income|NN tax|NN filing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START currently|RB students|NNS can|MD only|RB enroll|VB in|IN the|DT program|NN by|IN first|JJ contacting|NN student|NN loan|NN servicers|NNS and|CC the|DT process|NN can|MD take|VB up|RP to|TO six|CD weeks|NNS education|NN experts|NNS say|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT new|JJ move|NN to|TO go|VB into|IN effect|NN later|JJ this|DT fall|NN would|MD allow|VB students|NNS to|TO bypass|VB servicers|NNS to|TO enroll|VB on|IN their|PRP$ own|JJ via|IN the|DT web|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP have|VBP a|DT long|JJ way|NN to|TO go|VB duncan|JJ said|NN </s>|S_END
+<s>|S_START just|RB by|IN making|VBG the|DT process|NN much|RB less|JJR complicated|VBN and|CC more|RBR simple|JJ well|RB hopefully|RB see|VB many|JJ more|RBR of|IN our|PRP$ folks|NNS take|VBP advantage|NN of|IN this|DT going|VBG forward|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN those|DT enrolled|VBN in|IN the|DT program|NN the|DT monthly|JJ payments|NNS are|VBP based|VBN on|IN income|NN higher|JJR than|IN 150|CD of|IN the|DT poverty|NN line|NN </s>|S_END
+<s>|S_START for|IN a|DT graduate|NN living|VBG alone|NN the|DT payments|NNS would|MD be|VB 15|CD of|IN any|DT income|NN above|IN $|$ 16335|CD based|VBN on|IN the|DT 2011|CD poverty|NN line|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unemployed|VBD graduates|NNS with|IN no|DT income|NN owe|NN no|DT monthly|JJ payments|NNS on|IN their|PRP$ student|NN loans|NNS education|NN experts|NNS say|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START education|NN officials|NNS said|VBD its|PRP$ unclear|JJ how|WRB many|JJ people|NNS could|MD benefit|VB </s>|S_END
+<s>|S_START its|PRP$ not|RB a|DT great|JJ fit|NN for|IN borrowers|NNS with|IN decentpaying|VBG jobs|NNS as|IN the|DT program|NN lengthens|NNS the|DT life|NN of|IN the|DT loan|NN from|IN 10|CD to|TO 25|CD years|NNS tacking|VBG on|IN more|JJR years|NNS of|IN interest|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC for|IN some|DT of|IN the|DT 54|CD million|CD student|NN loan|NN borrowers|NNS that|WDT the|DT new|JJ york|NN federal|JJ reserve|NN says|VBZ are|VBP late|JJ on|IN at|IN least|JJS one|CD payment|NN the|DT program|NN could|MD be|VB a|DT lifesaver|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ very|JJ good|JJ news|NN that|IN the|DT enrollment|NN process|NN will|MD be|VB simplified|VBN said|VBN lauren|NNS asher|IN president|NN of|IN the|DT institute|NN for|IN college|NN access|NN success|NN </s>|S_END
+<s>|S_START but|CC much|JJ more|RBR needs|NNS to|TO be|VB done|VBN to|TO make|VB sure|JJ people|NNS are|VBP aware|JJ that|IN this|DT program|NN can|MD help|VB them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START student|NN loans|NNS are|VBP unique|JJ among|IN all|DT loans|NNS in|IN that|DT they|PRP can|MD not|RB be|VB discharged|VBN in|IN federal|JJ bankruptcy|NN court|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START president|NN obama|VBD has|VBZ made|VBN the|DT financial|JJ strain|NN on|IN students|NNS and|CC recent|JJ graduates|NNS a|DT part|NN of|IN his|PRP$ reelection|NN campaign|NN often|RB calling|VBG on|IN congress|NN to|TO stop|VB student|NN loans|NNS from|IN doubling|VBG to|TO 68|CD come|NN july|RB 1|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START average|JJ student|NN loan|NN debt|NN for|IN the|DT graduating|VBG class|NN of|IN 2010|CD at|IN fouryear|JJ nonprofit|NN colleges|NNS was|VBD $|$ 25250|CD including|VBG all|DT private|JJ and|CC federal|JJ loans|NNS according|VBG to|TO the|DT institute|NN for|IN college|NN access|NN success|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT 35|CD million|CD graduates|NNS have|VBP student|NN loan|NN debt|NN which|WDT at|IN $|$ 904|CD billion|CD nationwide|NN stands|NNS bigger|JJR than|IN outstanding|JJ credit|NN card|NN debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT terms|NNS of|IN the|DT incomebased|VBN repayment|NN program|NN are|VBP about|IN to|TO get|VB more|JJR generous|JJ for|IN loans|NNS that|WDT will|MD be|VB originated|VBN this|DT school|NN year|NN </s>|S_END
+<s>|S_START thanks|NNS to|TO past|VB laws|NNS that|WDT the|DT obama|NN administration|NN fasttracked|VBD monthly|JJ payments|NNS will|MD be|VB capped|VBN at|IN 10|CD of|IN discretionary|JJ income|NN and|CC loan|NN forgiveness|NN kicks|NNS in|IN after|IN 20|CD years|NNS on|IN loans|NNS taken|VBN out|RP this|DT year|NN for|IN future|JJ graduates|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT white|JJ house|NN announcement|NN came|VBD the|DT same|JJ day|NN senate|NN majority|NN leader|NN harry|NN reid|VBD offered|VBN a|DT new|JJ olive|JJ branch|NN to|TO republicans|NNS </s>|S_END
+<s>|S_START he|PRP suggested|VBD a|DT bipartisan|NN way|NN to|TO pay|VB the|DT $|$ 6|CD billion|CD cost|NN of|IN extending|VBG 34|CD interest|NN rates|NNS for|IN federal|JJ student|NN loans|NNS to|TO undergraduates|NNS another|DT year|NN </s>|S_END
+<s>|S_START congressional|JJ negotiations|NNS are|VBP ongoing|VBG aides|NNS say|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START correction|NN an|DT earlier|JJR version|NN of|IN this|DT story|NN gave|VBD the|DT incorrect|NN current|JJ student|NN loan|NN rate|NN </s>|S_END
+<s>|S_START the|DT correct|NN rate|NN is|VBZ 34|CD which|WDT would|MD become|VB 68|CD if|IN congress|NN does|VBZ not|RB extend|VB the|DT lower|JJR rate |NN </s>|S_END
+</p>|P_END
+

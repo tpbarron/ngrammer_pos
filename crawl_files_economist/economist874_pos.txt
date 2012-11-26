@@ -1,0 +1,69 @@
+<p>|P_START
+<s>|S_START barack|NN obama|NN and|CC mitt|NN romney|NN have|VBP spent|VBN many|JJ months|NNS and|CC hundreds|NNS of|IN millions|NNS of|IN dollars|NNS trying|VBG to|TO convince|NN the|DT public|NN that|IN electing|VBG the|DT other|JJ man|NN would|MD lead|VB to|TO economic|JJ catastrophe|NN </s>|S_END
+<s>|S_START they|PRP have|VBP fought|VBN to|TO a|DT draw|NN voters|NNS today|NN are|VBP almost|RB evenly|RB split|JJ over|IN which|WDT man|NN would|MD do|VB a|DT better|JJR job|NN on|IN the|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC whom|WP would|MD the|DT experts|NNS pick|VBP </s>|S_END
+<s>|S_START to|TO find|VB out|RP the|DT economist|NN polled|VBD hundreds|NNS of|IN professional|JJ academic|JJ and|CC business|NN economist|NN </s>|S_END
+<s>|S_START our|PRP$ main|JJ finding|NN should|MD hearten|VB mr|NN obama|NN </s>|S_END
+<s>|S_START by|IN a|DT large|JJ margin|NN they|PRP rate|VBP his|PRP$ overall|JJ economic|JJ plan|NN more|RBR highly|RB than|IN mr|NN romney’s|NNS credit|NN him|PRP with|IN a|DT better|JJR grasp|NN of|IN economics|NNS and|CC think|VBP him|PRP more|JJR likely|JJ to|TO appoint|VB a|DT good|JJ economic|JJ team|NN see|NN chart|NN </s>|S_END
+<s>|S_START they|PRP do|VBP not|RB hold|VB the|DT perpetually|RB disappointing|JJ recovery|NN against|IN him|PRP half|NN of|IN respondents|NNS graded|VBN his|PRP$ record|NN as|IN good|JJ or|CC very|RB good|JJ compared|VBN with|IN just|RB 5|CD who|WP said|VBD that|IN about|IN george|NN bush|NN in|IN our|PRP$ poll|NN four|CD years|NNS ago|RB </s>|S_END
+<s>|S_START “it|JJ all|DT depends|NNS on|IN the|DT counterfactual”|NNP said|VBD justin|NN wolfers|NNS an|DT economist|NN at|IN the|DT university|NN of|IN pennsylvania’s|NNP wharton|NN school|NN referring|VBG to|TO how|WRB bad|JJ things|NNS might|MD have|VB been|VBN without|IN the|DT president’s|NNP emergency|NN measure|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC mr|PRP$ romney|NN can|MD take|VB heart|NN from|IN a|DT deeper|NN dive|NN into|IN the|DT number|NN </s>|S_END
+<s>|S_START the|DT economist|NN polled|VBD two|CD groups|NNS research|NN associates|NNS of|IN the|DT national|JJ bureau|NN of|IN economic|JJ research|NN the|DT country’s|NNP leading|VBG organisation|NN of|IN academic|JJ economists|NNS and|CC the|DT outlook|NN panel|NN of|IN the|DT national|JJ association|NN for|IN business|NN economic|JJ </s>|S_END
+<s>|S_START the|DT academics|NNS gave|VBD mr|NN obama|NN much|RB higher|JJR marks|NNS than|IN mr|NN romney|NN which|WDT may|MD in|IN part|NN reflect|NN partisan|NN preference|NN fully|RB 45|CD of|IN them|PRP identified|VBD themselves|PRP as|IN democrats|NNS and|CC just|RB 7|CD as|IN republican|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN contrast|NN the|DT forecasters|NNS a|DT much|RB less|RBR partisan|JJ crowd|NN consistently|RB assigned|VBD mr|NN romney|NN higher|JJR score|NN </s>|S_END
+<s>|S_START democrats|NNS and|CC republicans|NNS were|VBD equally|RB represented|VBN in|IN this|DT group|NN at|IN 22|CD each|DT </s>|S_END
+<s>|S_START roughly|RB half|DT of|IN both|DT groups|NNS were|VBD either|DT independent|JJ or|CC declined|VBD to|TO state|NN an|DT affiliation|NN </s>|S_END
+<s>|S_START among|IN these|DT independents|NNS and|CC these|DT are|VBP probably|RB the|DT most|RBS compelling|JJ numbers|NNS mr|NN obama’s|NNS platform|NN still|RB got|VBD a|DT higher|JJR grade|NN than|IN mr|NN romney’s|NNS but|CC by|IN a|DT much|JJ smaller|NN margin|NN than|IN in|IN the|DT group|NN as|IN a|DT whole|JJ </s>|S_END
+<s>|S_START the|DT independents|NNS by|IN a|DT slim|NN margin|NN thought|VBD mr|NN obama|NN would|MD name|VB a|DT better|JJR economic|JJ team|NN but|CC also|RB believed|VBD that|IN mr|NN romney|NN has|VBZ the|DT better|JJR grasp|NN of|IN economic|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN we|PRP can|MD not|RB claim|VB that|IN this|DT is|VBZ a|DT scientific|JJ sampling|NN of|IN economists’|NNP opinions|NNS our|PRP$ sample|NN is|VBZ reasonably|RB large|JJ 312|CD of|IN the|DT 902|CD nber|NN research|NN associates|NNS responded|VBD as|IN did|JJ 51|CD around|IN half|NN of|IN the|DT nabe|NN forecast|NN panel’s|NNS member|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START devilish|JJ detail|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START interestingly|RB opinions|NNS of|IN mr|NN obama|NN became|VBD less|JJR favourable|JJ as|IN questions|NNS turned|VBD from|IN the|DT general|JJ to|TO the|DT specific|JJ </s>|S_END
+<s>|S_START on|IN tax|NN reform|NN entitlements|NNS social|JJ security|NN medicaid|VBD and|CC medicare|NN and|CC the|DT deficit|NN respondents|NNS gave|VBD the|DT two|CD men|NNS roughly|RB equal|JJ grade|NN </s>|S_END
+<s>|S_START the|DT independents|NNS by|IN a|DT clear|JJ margin|NN preferred|VBN mr|NN romney’s|-NONE- approach|NN to|TO all|DT these|DT issue|NN </s>|S_END
+<s>|S_START o|NN although|IN the|DT public|NN on|IN balance|NN dislikes|NNS the|DT proposal|NN of|IN mr|NN romney|NN and|CC paul|JJ ryan|NN his|PRP$ runningmate|NN to|TO convert|VB medicare|NN to|TO vouchers|NNS our|PRP$ economists|NNS were|VBD much|RB better|RBR disposed|VBN to|TO it|PRP especially|RB in|IN comparison|NN with|IN mr|NN obama|NN who|WP has|VBZ offered|VBN no|DT overall|JJ solution|NN to|TO the|DT programme’s|NNS insolvency|NN other|JJ than|IN to|TO to|TO cut|VB fees|NNS to|TO providers|NNS and|CC experiment|NN with|IN new|JJ ways|NNS to|TO deliver|VB care|NN </s>|S_END
+<s>|S_START “medicare|JJ plan|NN </s>|S_END
+<s>|S_START keep|VB everything|NN as|IN is|VBZ and|CC wait|NN for|IN santa|NN claus”|-NONE- snorted|VBN one|CD independent|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN mr|NN romney’s|NNS promise|VBP to|TO cut|VB incometax|NN rates|NNS by|IN 20|CD and|CC pay|NN for|IN it|PRP by|IN closing|JJ loopholes|NNS john|VBP mclaren|VBN a|DT democratic|JJ economist|NN from|IN the|DT university|NN of|IN virginia|NN said|VBD “the|NNP only|RB plausible|JJ result|NN is|VBZ a|DT tax|NN cut|VBD for|IN highincome|NN taxpayers|NNS a|DT tax|NN increase|NN for|IN middleincome|NN earners|NNS and|CC a|DT huge|JJ increase|NN in|IN the|DT deficit”|NN but|CC mr|NN obama’s|NNS alternative|VBP a|DT patchwork|NN of|IN tax|NN hikes|NNS on|IN corporations|NNS and|CC the|DT rich|JJ did|VBD not|RB garner|VB much|JJ enthusiasm|NN either|DT </s>|S_END
+<s>|S_START his|PRP$ “support|NN for|IN tax|NN reform|NN is|VBZ positive|JJ but|CC of|IN questionable|JJ sincerity|NN given|VBN his|PRP$ ‘commitment’|NN to|TO impose|VB higher|JJR marginal|JJ rates|NNS on|IN higher|JJR incomes”|JJ one|CD republican|JJ noted|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN two|CD specific|JJ issues|NNS economists—both|JJ the|DT full|JJ sample|NN and|CC the|DT independents—clearly|JJ preferred|VBN mr|NN obama|NN by|IN 58|CD to|TO 10|CD they|PRP thought|VBD he|PRP would|MD handle|VB china|NN better|RBR than|IN mr|NN romney|NN and|CC by|IN 63|CD to|TO 15|CD they|PRP thought|VBD he|PRP would|MD make|VB wiser|NN appointments|NNS to|TO the|DT federal|JJ reserve|NN </s>|S_END
+<s>|S_START like|IN many|JJ past|JJ candidates|NNS mr|VBP romney|NN has|VBZ been|VBN confrontational|JJ towards|NNS china|VBP on|IN the|DT campaign|NN trail|NN promising|VBG to|TO label|VB it|PRP a|DT currency|NN manipulator|NN on|IN his|PRP$ first|JJ day|NN in|IN office|NN which|WDT went|NN over|IN badly|RB with|IN perhaps|RB the|DT only|JJ segment|NN of|IN the|DT electorate|NN that|IN is|VBZ solidly|RB profree|JJ trade|NN </s>|S_END
+<s>|S_START “we|JJ have|VBP to|TO assume|VB romney|NN is|VBZ lying|VBG about|IN most|JJS of|IN his|PRP$ plans”|NN one|CD republican|JJ academic|JJ observed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ who|WP dislike|IN mr|NN obama’s|NNS policies|NNS disagree|VBP on|IN their|PRP$ flaw|NN </s>|S_END
+<s>|S_START everal|JJ people|NNS who|WP gave|VBD low|JJ marks|NNS to|TO the|DT 2009|CD stimulus|NN bill|NN accused|VBD it|PRP of|IN being|VBG too|RB small|JJ others|NNS like|IN dartmouth’s|NNS eric|JJ zitzewitz|NN thought|VBD that|IN “the|DT lack|NN of|IN attention|NN to|TO efficiency|NN undermined|VBN both|DT the|DT first|JJ stimulus’s|NNS effectiveness|NN and|CC the|DT political|JJ will|MD for|IN a|DT second|JJ stimulus”|NN many|JJ critics|NNS of|IN the|DT president’s|JJ health|NN reforms|NNS would|MD have|VB preferred|VBN a|DT singlepayer|NN system|NN </s>|S_END
+<s>|S_START one|CD democratic|JJ academic|JJ said|VBD a|DT “complete|JJ overhaul|NN was|VBD needed|VBN not|RB a|DT bandaid”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT president’s|JJ least|JJS popular|JJ policy|NN was|VBD his|PRP$ financialreform|NN package—though|JJ critics|NNS again|RB disagreed|VBN on|IN why|WRB </s>|S_END
+<s>|S_START laurence|NN ball|VBD of|IN johns|NNS hopkins|NNS blamed|VBN mr|NN obama|NN for|IN failing|VBG to|TO “put|JJ up|IN much|JJ of|IN a|DT fight|NN against|IN wall|NN street|NN lobbyists”|NN while|IN an|DT independent|JJ nabe|NN economist|NN remarked|VBD that|IN “2300|-NONE- pages|NNS is|VBZ evidence|NN of|IN very|RB bad|JJ drafting”|NN </s>|S_END
+<s>|S_START the|DT biggest|JJS complaint|NN was|VBD that|IN the|DT reform|NN did|VBD not|RB address|NN the|DT vulnerabilities|NNS that|WDT existed|VBN in|IN the|DT financial|JJ system|NN before|IN the|DT crisis|NN in|IN particular|JJ the|DT “too|NNP big|JJ to|TO fail”|NNP problem|NN </s>|S_END
+<s>|S_START one|CD independent|JJ nabe|NN economist|NN concluded|VBD “it|JJ would|MD have|VB been|VBN more|RBR effective|JJ to|TO put|VB a|DT couple|NN of|IN the|DT miscreants|NNS behind|IN the|DT financial|JJ crisis|NN in|IN jail”|NNP </s>|S_END
+</p>|P_END
+

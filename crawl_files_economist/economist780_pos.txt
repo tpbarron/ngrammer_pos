@@ -1,0 +1,46 @@
+<p>|P_START
+<s>|S_START male|JJ harris|NNS sparrows|VBZ are|VBP pugnacious|JJ beast|NN </s>|S_END
+<s>|S_START they|PRP signal|VBP their|PRP$ status|NN by|IN the|DT darkness|NN of|IN their|PRP$ plumage|NN and|CC woebetide|VB any|DT male|JJ whose|NN signal|NN is|VBZ false—for|JJ if|IN an|DT itinerant|JJ ethologist|NN blackens|NNS a|DT subordinate’s|JJ feathers|NNS the|DT dominant|JJ birds|NNS recognise|VBP it|PRP as|IN a|DT fraud|NN and|CC beat|VB it|PRP up|RP </s>|S_END
+<s>|S_START normally|RB though|IN behaviour|PRP$ and|CC outward|NN appearance|NN are|VBP in|IN alignment|NN having|VBG been|VBN arranged|JJ that|IN way|NN by|IN evolution|NN and|CC subordinate|JJ birds|NNS do|VBP not|RB push|VB their|PRP$ luck|NN </s>|S_END
+<s>|S_START for|IN female|JJ harris|NNS sparrows|VBZ however|RB plumage|NN does|VBZ not|RB matter|VB in|IN this|DT way|NN </s>|S_END
+<s>|S_START and|CC a|DT paper|NN just|RB published|VBD in|IN psychological|JJ science|NN by|IN michael|NN petersen|VBN of|IN the|DT university|NN of|IN aarhus|NN in|IN denmark|NN and|CC daniel|NN sznycer|NN of|IN the|DT university|NN of|IN california|NN santa|NN barbara|NN suggests|VBZ that|IN in|IN both|DT respects|NNS people|NNS are|VBP similar|JJ to|TO these|DT bird|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN petersen|VBN and|CC dr|NN sznycer|NN were|VBD investigating|VBG the|DT idea|NN that|IN a|DT person’s|JJ political|JJ opinions|NNS might|MD be|VB aligned|VBN with|IN his|PRP$ physical|JJ characteristic|JJ </s>|S_END
+<s>|S_START the|DT opinion|NN in|IN question|NN was|VBD whether|IN resources|NNS should|MD be|VB redistributed|VBN from|IN the|DT rich|JJ to|TO the|DT poor|JJ </s>|S_END
+<s>|S_START the|DT physical|JJ characteristic|JJ was|VBD strength|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START poor|NN people|NNS might|MD be|VB expected|VBN to|TO favour|PRP$ redistribution|NN and|CC the|DT rich|JJ to|TO be|VB against|IN it|PRP regardless|VBZ of|IN how|WRB strong|JJ they|PRP were|VBD </s>|S_END
+<s>|S_START and|CC for|IN women|NNS dr|VBP petersen|VBN and|CC dr|NN sznycer|NN found|VBD that|IN this|DT was|VBD indeed|VBN the|DT case|NN </s>|S_END
+<s>|S_START for|IN men|NNS though|IN opinion|NN did|VBD depend|NN on|IN strength|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT two|CD researchers|NNS came|VBD to|TO this|DT conclusion|NN after|IN looking|VBG at|IN 486|CD americans|NNS 223|CD argentinians|NNS and|CC 793|CD dane|NN </s>|S_END
+<s>|S_START they|PRP collected|VBD data|NNS on|IN their|PRP$ volunteers’|JJ strength|NN by|IN measuring|NN the|DT circumference|NN of|IN the|DT flexed|VBN biceps|NNS of|IN an|DT individual’s|JJ dominant|NN arm|NN </s>|S_END
+<s>|S_START previous|JJ work|NN has|VBZ shown|VBN that|IN this|DT is|VBZ an|DT accurate|JJ proxy|NN for|IN strength|NN </s>|S_END
+<s>|S_START they|PRP then|RB measured|VBD people’s|NNS status|NN with|IN questionnaires|NNS about|IN their|PRP$ economic|JJ situation|NN </s>|S_END
+<s>|S_START and|CC they|PRP determined|VBD a|DT person’s|JJ support|NN for|IN redistribution|NN by|IN asking|NN the|DT degree|NN to|TO which|WDT he|PRP or|CC she|PRP agreed|VBD with|IN statements|NNS like|IN “the|NNP wealthy|JJ should|MD give|VB more|RBR money|NN to|TO those|DT who|WP are|VBP worse|VBP off”|-NONE- and|CC “it|JJ is|VBZ not|RB fair|JJ that|IN people|NNS have|VBP to|TO pay|VB taxes|NNS to|TO fund|VB welfare|NN programmes”|-NONE- they|PRP also|RB asked|VBD about|IN participants’|JJ political|JJ ideologie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN petersen|VBN and|CC dr|NN sznycer|NN found|VBD that|IN regardless|NN of|IN country|NN of|IN origin|NN or|CC apparent|JJ ideology|NN strong|JJ men|NNS argued|VBD for|IN their|PRP$ self|NN interest|NN the|DT poor|JJ for|IN redistribution|NN the|DT rich|JJ against|IN it|PRP </s>|S_END
+<s>|S_START no|DT surprises|NNS there|RB </s>|S_END
+<s>|S_START weaklings|NNS however|RB were|VBD far|RB less|JJR inclined|VBN to|TO make|VB the|DT case|NN that|IN selfinterest|JJS suggested|VBN they|PRP would|MD </s>|S_END
+<s>|S_START among|IN women|NNS by|IN contrast|NN strength|NN had|VBD no|DT correlation|NN with|IN opinion|NN </s>|S_END
+<s>|S_START rich|NN women|NNS wanted|VBD to|TO stay|VB rich|JJ poor|NN women|NNS to|TO become|VB so|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT researchers’|NN conclusion|NN then|RB is|VBZ that|IN if|IN like|IN a|DT subordinate|JJ harris|NN sparrow|NN you|PRP are|VBP not|RB in|IN a|DT position|NN to|TO fight|NN your|PRP$ corner|NN it|PRP makes|VBZ sense|NN not|RB to|TO provoke|VB trouble|NN </s>|S_END
+<s>|S_START in|IN the|DT distant|JJ past|NN when|WRB such|JJ instincts|NNS would|MD have|VB evolved|VBN doing|VBG so|RB would|MD have|VB been|VBN dangerous|JJ and|CC possibly|RB fatal|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START women|NNS by|IN contrast|NN rarely|RB fight|VBD physically|RB for|IN resources|NNS in|IN the|DT way|NN that|IN men|NNS do|VBP so|RB their|PRP$ psychologies|NNS do|VBP not|RB need|VB to|TO be|VB aligned|VBN with|IN their|PRP$ physical|JJ prowe|NN </s>|S_END
+<s>|S_START the|DT hunt|NN for|IN female|JJ physical|JJ and|CC political|JJ correlates|NNS will|MD therefore|VB have|VB to|TO search|VB for|IN more|JJR subtle|JJ signal|JJ </s>|S_END
+</p>|P_END
+

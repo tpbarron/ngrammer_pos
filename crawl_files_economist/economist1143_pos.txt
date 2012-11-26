@@ -1,0 +1,16 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 13|CD gdp|NN $|$ 486bn|CD ppp|CD $|$ 290bn|CD inflation18|CD population|NN 50m|CD gdp|NN per|IN head|NN $|$ 96940|CD ppp|CD $|$ 57800|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT leftleaning|NN government|NN coalition|NN survived|VBD a|DT wobble|JJ in|IN 2011|CD although|IN divisions|NNS persist|VBP it|PRP will|MD see|VB out|RP its|PRP$ term|NN pursuing|VBG reforms|NNS in|IN health|NN care|NN and|CC education|NN the|DT environment|NN and|CC job|NN creation|NN </s>|S_END
+<s>|S_START the|DT most|RBS divisive|JJ issue|NN is|VBZ the|DT tension|NN between|IN exploration|NN and|CC conservation|NN off|RP the|DT northern|JJ coast|NN where|WRB oil|NN and|CC fishing|VBG are|VBP drivers|NNS of|IN the|DT economy|NN </s>|S_END
+<s>|S_START the|DT budget|NN is|VBZ in|IN surplus|NN a|DT european|JJ rarity|NN and|CC the|DT economy|NN will|MD manage|VB to|TO grow|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB cool|NN jazz|NN </s>|S_END
+<s>|S_START the|DT ice|NN music|NN festival|NN featuring|VBG only|RB instruments|NNS made|VBD from|IN local|JJ ice|NN will|MD take|VB place|NN in|IN february|JJ </s>|S_END
+<s>|S_START all|DT performances|NNS are|VBP held|VBN in|IN the|DT chilly|RB late|JJ hours|NNS to|TO preserve|VB perfect|JJ pitch|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,158 @@
+<p>|P_START
+<s>|S_START financial|JJ innovation|NN has|VBZ a|DT dreadful|JJ image|NN these|DT day|NN </s>|S_END
+<s>|S_START paul|NN volcker|NN a|DT former|JJ chairman|NN of|IN americas|NNS federal|JJ reserve|NN who|WP emerged|VBD from|IN the|DT 200708|CD financial|JJ crisis|NN with|IN his|PRP$ reputation|NN intact|NN once|RB said|VBD that|IN none|NN of|IN the|DT financial|JJ inventions|NNS of|IN the|DT past|JJ 25|CD years|NNS matches|NNS up|IN to|TO the|DT atm|NN </s>|S_END
+<s>|S_START paul|NN krugman|NN a|DT nobel|NN prizewinning|VBG economistcumpolemicist|NN has|VBZ written|VBN that|IN it|PRP is|VBZ hard|RB to|TO think|VB of|IN any|DT big|JJ recent|JJ financial|JJ breakthroughs|NNS that|WDT have|VBP aided|VBN society|NN </s>|S_END
+<s>|S_START joseph|NN stiglitz|NN another|DT nobel|NN laureate|NN argued|VBD in|IN a|DT 2010|CD online|NN debate|NN hosted|VBD by|IN the|DT economist|NN that|IN most|JJS innovation|NN in|IN the|DT runup|NN to|TO the|DT crisis|NN “was|-NONE- not|RB directed|VBN at|IN enhancing|NN the|DT ability|NN of|IN the|DT financial|JJ sector|NN to|TO perform|VB its|PRP$ social|JJ functions”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS of|IN these|DT critics|NNS have|VBP marketbased|VBN innovation|NN in|IN their|PRP$ sight|NN </s>|S_END
+<s>|S_START there|EX is|VBZ an|DT enormous|JJ amount|NN of|IN innovation|NN going|VBG on|IN in|IN other|JJ areas|NNS such|JJ as|IN retail|JJ payments|NNS that|WDT has|VBZ the|DT potential|JJ to|TO change|VB the|DT way|NN people|NNS carry|VBP and|CC spend|NN money|NN </s>|S_END
+<s>|S_START but|CC the|DT debate—and|JJ hence|NN this|DT special|JJ report—focuses|NNS mainly|RB on|IN wholesale|JJ products|NNS and|CC techniques|NNS both|DT because|IN they|PRP are|VBP less|RBR obviously|RB useful|JJ than|IN retail|JJ innovations|NNS and|CC because|IN they|PRP were|VBD more|RBR heavily|RB implicated|VBN in|IN the|DT financial|JJ crisis|NN think|NN of|IN those|DT evil|JJ creditdefault|NN swaps|NNS cdss|VBP collateraliseddebt|NN obligations|NNS cdos|NNS and|CC so|RB on|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT debate|NN sometimes|VBZ revolves|NNS around|IN a|DT simple|JJ question|NN is|VBZ financial|JJ innovation|NN good|JJ or|CC bad|JJ </s>|S_END
+<s>|S_START but|CC quantifying|VBG the|DT benefits|NNS of|IN innovation|NN is|VBZ almost|RB impossible|JJ </s>|S_END
+<s>|S_START and|CC like|IN most|JJS things|NNS it|PRP depend|VBP </s>|S_END
+<s>|S_START are|VBP credit|VBN cards|NNS bad|JJ </s>|S_END
+<s>|S_START or|CC mortgage|NN </s>|S_END
+<s>|S_START is|VBZ finance|NN as|IN a|DT whole|JJ </s>|S_END
+<s>|S_START it|PRP is|VBZ true|JJ that|IN some|DT instruments—for|JJ example|NN highly|RB leveraged|JJ ones—are|JJ inherently|RB more|RBR dangerous|JJ than|IN other|JJ </s>|S_END
+<s>|S_START but|CC even|RB innovations|NNS that|IN are|VBP directed|VBN to|TO unimpeachably|RB “good”|JJ ends|NNS often|RB bear|JJ substantial|JJ resemblances|NNS to|TO those|DT that|WDT are|VBP now|RB vilified|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN a|DT demonstration|NN look|NN at|IN peterborough|JJ </s>|S_END
+<s>|S_START the|DT cathedral|JJ city|NN in|IN englands|NNS cambridgeshire|VBP is|VBZ known|VBN for|IN its|PRP$ railway|NN station|NN and|CC an|DT underachieving|NN football|NN club|NN nicknamed|VBD “the|NNP posh”|NNP </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ also|RB the|DT site|JJ of|IN a|DT financial|JJ experiment|NN that|WDT its|PRP$ backers|NNS hope|VBP will|MD have|VB big|JJ ramifications|NNS for|IN the|DT way|NN public|NN services|NNS are|VBP funded|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START peterborough|IN is|VBZ where|WRB the|DT proceeds|NNS of|IN the|DT worlds|NNS first|RB “socialimpact|JJ bond”|NN are|VBP being|VBG spent|NN </s>|S_END
+<s>|S_START this|DT instrument|NN is|VBZ not|RB really|RB a|DT bond|NN at|IN all|DT but|CC behaves|NNS more|RBR like|IN equity|NN </s>|S_END
+<s>|S_START in|IN september|NN 2010|CD an|DT organisation|NN called|VBN social|JJ finance|NN raised|VBD £5m|JJ $|$ 78m|CD from|IN 17|CD investors|NNS both|DT individuals|NNS and|CC charitie|VB </s>|S_END
+<s>|S_START the|DT money|NN is|VBZ being|VBG used|VBN to|TO pay|VB for|IN a|DT programme|NN to|TO help|VB prevent|NN exprisoners|NNS in|IN peterborough|JJ from|IN reoffending|VBG </s>|S_END
+<s>|S_START reconviction|NN rates|NNS among|IN the|DT prisoners|NNS recruited|VBN to|TO the|DT scheme|NN will|MD be|VB measured|VBN against|IN a|DT national|JJ database|NN of|IN prisoners|NNS with|IN a|DT similar|JJ profile|NN and|CC investors|NNS will|MD get|VB payouts|NNS from|IN the|DT ministry|NN of|IN justice|NN if|IN the|DT peterborough|JJ cohort|NN does|VBZ better|JJR than|IN the|DT rest|NN </s>|S_END
+<s>|S_START if|IN all|DT goes|VBZ well|RB the|DT first|JJ payouts|NNS will|MD be|VB made|VBN in|IN 2013|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT scheme|NN is|VBZ getting|VBG lots|NNS of|IN attention|NN and|CC not|RB just|RB in|IN britain|NN </s>|S_END
+<s>|S_START a|DT mixture|NN of|IN social|JJ and|CC financial|JJ returns|NNS is|VBZ central|JJ to|TO a|DT burgeoning|NN asset|NN class|NN known|VBN as|IN “impact|JJ investing”|NN </s>|S_END
+<s>|S_START linking|VBG payouts|NNS to|TO outcomes|NNS is|VBZ attractive|JJ to|TO governments|NNS keen|IN to|TO husband|VB scarce|NN resource|NN </s>|S_END
+<s>|S_START and|CC if|IN service|NN providers|NNS like|IN the|DT people|NNS running|VBG the|DT peterborough|JJ prisonerrehabilitation|NN scheme|NN can|MD get|VB a|DT lump|NN sum|NN up|IN front|NN they|PRP can|MD plan|VB ahead|RB without|IN bearing|VBG any|DT financial|JJ risk|NN </s>|S_END
+<s>|S_START there|EX is|VBZ talk|NN of|IN introducing|VBG socialimpact|NN bonds|NNS in|IN australia|NN canada|NN and|CC the|DT united|JJ state|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START here|RB surely|RB is|VBZ a|DT financial|JJ innovation|NN that|WDT even|RB the|DT industrys|NNS critics|NNS would|MD agree|VB is|VBZ worth|JJ trying|VBG </s>|S_END
+<s>|S_START yet|RB in|IN fundamental|JJ ways|NNS an|DT ostensibly|RB “good”|JJ instrument|NN like|IN a|DT socialimpact|NN bond|NN is|VBZ not|RB so|RB different|JJ from|IN its|PRP$ despised|VBN cousin|NN </s>|S_END
+<s>|S_START first|JJ at|IN its|PRP$ root|NN the|DT socialimpact|NN bond|NN is|VBZ about|IN creating|VBG a|DT set|NN of|IN cashflows|NNS to|TO suit|VB the|DT needs|NNS of|IN the|DT sponsor|NN the|DT provider|NN and|CC the|DT investor|NN </s>|S_END
+<s>|S_START true|JJ the|DT investors|NNS in|IN the|DT peterborough|JJ scheme|NN may|MD be|VB more|RBR willing|JJ than|IN the|DT average|NN individual|JJ or|CC pension|NN fund|NN to|TO sacrifice|NN financial|JJ returns|NNS for|IN social|JJ benefit|NN </s>|S_END
+<s>|S_START but|CC as|IN franklin|NN allen|NN of|IN the|DT wharton|NN school|NN at|IN the|DT university|NN of|IN pennsylvania|NN and|CC glenn|NN yago|RB of|IN the|DT milken|NN institute|NN a|DT thinktank|NN argue|NN in|IN their|PRP$ useful|JJ book|NN “financing|JJ the|DT future”|NN the|DT thread|NN that|IN runs|VBZ through|IN much|JJ wholesale|NN financial|JJ innovation|NN is|VBZ the|DT creation|NN of|IN new|JJ capital|NN structures|NNS that|WDT align|NN the|DT interests|NNS of|IN lots|NNS of|IN different|JJ partie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START econd|NN the|DT socialimpact|NN bond|NN is|VBZ based|VBN on|IN the|DT concept|NN of|IN risk|NN transfer|NN in|IN this|DT case|NN from|IN the|DT government|NN to|TO financial|JJ investors|NNS who|WP will|MD get|VB paid|VBN only|RB if|IN the|DT scheme|NN is|VBZ successful|JJ </s>|S_END
+<s>|S_START risk|NN transfer|VBP is|VBZ also|RB one|CD of|IN the|DT big|JJ ideas|NNS behind|IN securitisation|NN the|DT bundling|NN of|IN the|DT cashflows|NNS from|IN mortgages|NNS and|CC other|JJ types|NNS of|IN debt|NN on|IN lenders|NNS books|NNS into|IN a|DT single|JJ security|NN that|WDT can|MD be|VB sold|VBN to|TO capitalmarkets|NNS investor|NN </s>|S_END
+<s>|S_START the|DT creditdefault|NN swap|NN is|VBZ an|DT even|RB simpler|JJR risktransfer|NN instrument|NN you|PRP pay|VBP someone|NN else|RB an|DT insurance|NN premium|NN to|TO take|VB on|IN the|DT risk|NN that|IN a|DT borrower|NN will|MD default|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START third|JJ even|RB at|IN this|DT early|JJ stage|NN the|DT socialimpact|NN bond|NN is|VBZ grappling|VBG with|IN the|DT difficulties|NNS of|IN measurement|NN and|CC standardisation|NN </s>|S_END
+<s>|S_START an|DT obvious|JJ example|NN is|VBZ the|DT need|NN to|TO create|VB defined|VBN sets|NNS of|IN measurements|NNS in|IN order|NN to|TO work|VB out|RP what|WP triggers|NNS a|DT payout—in|JJ this|DT case|NN the|DT comparison|NN between|IN the|DT peterborough|JJ prisoners|NNS and|CC a|DT control|NN group|NN of|IN other|JJ prisoners|NNS in|IN a|DT national|JJ database|NN </s>|S_END
+<s>|S_START across|IN finance|NN standardisation—around|NN contracts|NNS reporting|VBG performance|NN measures|NNS and|CC the|DT like—is|NNP what|WP enables|VBZ buyers|NNS and|CC sellers|NNS to|TO come|VB together|RP quickly|RB and|CC new|JJ markets|NNS to|TO take|VB off|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START neither|DT angels|NNS nor|CC demon|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN all|DT the|DT similarities|NNS there|RB are|VBP two|CD big|JJ differences|NNS between|IN the|DT socialimpact|NN bond|NN and|CC other|JJ less|NN lauded|VBD financial|JJ instrument|NN </s>|S_END
+<s>|S_START the|DT first|JJ is|VBZ that|IN the|DT new|JJ tool|NN has|VBZ been|VBN designed|VBN explicitly|RB for|IN a|DT social|JJ purpose|NN </s>|S_END
+<s>|S_START but|CC ask|VBP a|DT pensioner|NN how|WRB much|JJ money|NN he|PRP wants|VBZ to|TO put|VB into|IN prisoner|NN rehabilitation|NN and|CC it|PRP isnt|VBD likely|JJ to|TO be|VB all|PDT that|DT much|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whether|IN protecting|VBG a|DT retirement|NN pot|NN or|CC signalling|VBG problems|NNS with|IN a|DT governments|NNS debt|NN burden|NN finance|NN can|MD be|VB “socially|RB useful”|-NONE- to|TO use|VB a|DT phrase|NN popularised|VBN by|IN adair|NN turner|NN the|DT outgoing|NN chairman|NN of|IN britains|NNS financial|JJ services|NNS authority|NN without|IN being|VBG obviously|RB social|JJ </s>|S_END
+<s>|S_START lord|NN turner|NN himself|PRP acknowledged|VBD that|IN in|IN a|DT speech|NN he|PRP gave|VBD in|IN london|NN in|IN 2009|CD “it|JJ is|VBZ in|IN the|DT nature|NN of|IN markets|NNS that|WDT there|EX are|VBP some|DT things|NNS which|WDT are|VBP indirectly|RB socially|RB useful|JJ but|CC which|WDT in|IN the|DT short|JJ term|NN will|MD look|VB to|TO the|DT external|JJ world|NN like|IN pure|NN speculation”|-NONE- </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ people|NNS point|NN to|TO interestrate|VB swaps|NNS which|WDT are|VBP used|VBN to|TO bet|VB on|IN and|CC hedge|NN against|IN future|JJ changes|NNS in|IN interest|NN rates|NNS as|IN an|DT example|NN of|IN a|DT huge|JJ wellfunctioning|NN and|CC useful|JJ innovation|NN of|IN the|DT modern|JJ financial|JJ era|NN </s>|S_END
+<s>|S_START but|CC there|EX are|VBP more|JJR contentious|JJ examples|NNS too|RB </s>|S_END
+<s>|S_START even|RB the|DT mention|NN of|IN sovereign|NN creditdefault|NN swaps|NNS which|WDT offer|NN insurance|NN against|IN a|DT government|NN default|NN makes|VBZ many|JJ europeans|NNS choke|VBP </s>|S_END
+<s>|S_START there|EX are|VBP some|DT specific|JJ problems|NNS with|IN these|DT instruments|NNS particularly|RB when|WRB banks|NNS sell|VBP protection|NN on|IN their|PRP$ own|JJ governments|NNS that|WDT means|VBZ a|DT bank|NN will|MD be|VB hit|VBN by|IN losses|NNS on|IN its|PRP$ holdings|NNS of|IN domestic|JJ government|NN bonds|NNS at|IN the|DT same|JJ time|NN as|IN it|PRP has|VBZ to|TO pay|VB out|RP on|IN its|PRP$ cds|NNS contract|NN </s>|S_END
+<s>|S_START but|CC in|IN general|JJ a|DT sovereign|NN cds|NNS has|VBZ a|DT useful|JJ signalling|NN function|NN in|IN an|DT area|NN tilted|VBN heavily|RB in|IN favour|PRP$ of|IN governments|NNS which|WDT do|VBP not|RB generally|RB have|VBP to|TO post|VB collateral|JJ and|CC can|MD bully|RB domestic|JJ buyers|NNS into|IN investing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT second|JJ difference|NN is|VBZ that|IN socialimpact|NN bonds|NNS are|VBP still|RB in|IN their|PRP$ infancy|NN whereas|NNS other|JJ crisisera|NN innovations|NNS were|VBD directly|RB involved|VBN in|IN a|DT gigantic|JJ financial|JJ crisi|NN </s>|S_END
+<s>|S_START there|EX are|VBP questions|NNS to|TO answer|VB about|IN their|PRP$ culpability|NN </s>|S_END
+<s>|S_START a|DT few|JJ products|NNS from|IN that|DT period|NN do|VBP look|NN inherently|RB flawed|VBD </s>|S_END
+<s>|S_START only|RB the|DT bravest|JJS are|VBP prepared|VBN to|TO defend|VB the|DT more|RBR exotic|JJ mortgage|NN products|NNS that|WDT sprouted|VBN at|IN the|DT height|NN of|IN americas|NNS housing|VBG bubble|JJ as|IN lenders|NNS found|VBD ever|RB more|JJR creative|JJ ways|NNS to|TO bring|VB unaffordable|JJ houses|NNS within|IN reach|NN </s>|S_END
+<s>|S_START finance|NN professionals|NNS almost|RB blush|JJ to|TO recall|VB an|DT instrument|NN called|VBN the|DT constantproportion|NN debt|NN obligation|NN a|DT 2006|CD invention|NN of|IN abn|NN amro|NN that|WDT added|VBD leverage|NN when|WRB it|PRP took|VBD losses|NNS in|IN order|NN to|TO make|VB up|RP the|DT shortfall|NN </s>|S_END
+<s>|S_START the|DT end|NN of|IN the|DT structured|VBN investment|NN vehicle|NN siv|NN an|DT offbalancesheet|NN instrument|NN invented|VBN to|TO game|VB capital|NN rules|NNS is|VBZ not|RB much|JJ lamented|VBN </s>|S_END
+<s>|S_START and|CC the|DT complexity|NN of|IN the|DT “cdosquared”|JJ has|VBZ been|VBN widely|RB condemned|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC even|RB now|RB it|PRP is|VBZ hard|RB to|TO find|VB fault|NN with|IN the|DT concept|NN as|IN opposed|VBN to|TO the|DT practical|JJ application|NN of|IN many|JJ of|IN the|DT most|RBS demonised|VBN product|NN </s>|S_END
+<s>|S_START the|DT muchcriticised|VBN cdo|NN which|WDT pools|NNS and|CC tranches|NNS income|NN from|IN various|JJ securities|NNS is|VBZ really|RB just|RB a|DT capital|NN structure|NN in|IN miniature|NN </s>|S_END
+<s>|S_START riskbearing|VBG equity|NN tranches|NNS take|VBP the|DT first|JJ hit|NN when|WRB things|NNS go|VBP wrong|JJ and|CC more|RBR riskaverse|JJ investors|NNS are|VBP more|RBR protected|VBN from|IN losse|NN </s>|S_END
+<s>|S_START eurozone|NN leaders|NNS like|IN the|DT idea|NN enough|RB to|TO have|VB copied|VBN it|PRP with|IN their|PRP$ plans|NNS for|IN specialpurpose|NN investment|NN vehicles|NNS for|IN peripheral|JJ countries|NNS sovereign|VBP debt|NN </s>|S_END
+<s>|S_START the|DT real|JJ problem|NN with|IN the|DT cdos|NNS that|WDT blew|NN up|RP was|VBD that|IN they|PRP were|VBD stuffed|VBN full|JJ of|IN subprime|NN loans|NNS but|CC treated|VBD by|IN banks|NNS ratings|NNS agencies|NNS and|CC investors|NNS as|IN though|IN they|PRP were|VBD goldplated|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN for|IN securitisation|NN and|CC creditdefault|NN swaps|NNS it|PRP would|MD be|VB blinkered|VBN to|TO argue|VB they|PRP have|VBP no|DT problem|NN </s>|S_END
+<s>|S_START ecuritisation|NN risks|NNS giving|VBG banks|NNS an|DT incentive|JJ to|TO loosen|VB their|PRP$ underwriting|NN standards|NNS in|IN the|DT expectation|NN that|IN someone|NN else|RB will|MD pick|VB up|RP the|DT piece|NN </s>|S_END
+<s>|S_START cds|NNS protection|NN may|MD similarly|RB blunt|VB the|DT incentives|NNS for|IN lenders|NNS to|TO be|VB careful|JJ when|WRB they|PRP extend|VBP credit|NN and|CC there|EX is|VBZ a|DT specific|JJ problem|NN with|IN the|DT way|NN that|IN the|DT risk|NN in|IN these|DT contracts|NNS can|MD suddenly|RB materialise|VB in|IN the|DT event|NN of|IN a|DT default|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT basic|JJ ideas|NNS behind|IN both|DT these|DT two|CD blockbuster|NN innovations|NNS are|VBP sound|VBN </s>|S_END
+<s>|S_START india|NNS with|IN a|DT far|JJ more|RBR conservative|JJ financial|JJ system|NN than|IN america|NN allowed|VBN its|PRP$ first|JJ cds|NNS deals|NNS to|TO be|VB done|VBN in|IN december|NN recognising|NN that|WDT the|DT instrument|NN will|MD help|VB attract|VB creditors|NNS and|CC build|VB its|PRP$ domestic|JJ bond|NN market|NN </s>|S_END
+<s>|S_START imilarly|RB securitisation—which|JJ worked|VBN well|RB for|IN decades—allows|NNS banks|NNS to|TO free|JJ up|IN capital|NN enabling|VBG them|PRP to|TO extend|VB more|JJR credit|NN and|CC helps|NNS diversification|NN of|IN portfolios|NNS as|IN banks|NNS shed|VBD concentrations|NNS of|IN risks|NNS and|CC investors|NNS buy|VB exposures|NNS that|WDT suit|NN them|PRP </s>|S_END
+<s>|S_START “securitisation|NN is|VBZ a|DT good|JJ thing|NN </s>|S_END
+<s>|S_START if|IN everything|NN was|VBD on|IN banks|NNS balancesheets|NNS there|RB wouldnt|JJ be|VB enough|JJ credit”|NN says|VBZ a|DT senior|JJ american|NN regulator|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rather|RB than|IN asking|VBG whether|IN innovations|NNS are|VBP born|VBN bad|JJ the|DT more|RBR useful|JJ question|NN is|VBZ whether|IN there|EX is|VBZ something|NN that|IN makes|VBZ them|PRP likely|JJ to|TO sour|PRP$ over|IN time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START greed|NN is|VBZ bad|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ an|DT easy|JJ answer|NN people|NNS </s>|S_END
+<s>|S_START when|WRB bubbles|NNS froth|VBP greedy|JJ folk|NN use|NN innovations|NNS inappropriately—to|-NONE- take|VB on|RP exposures|NNS that|IN they|PRP should|MD not|RB to|TO manufacture|VB risk|NN rather|RB than|IN transfer|NN it|PRP to|TO add|VB complexity|NN in|IN order|NN to|TO plump|VB up|RP margins|NNS rather|RB than|IN solve|NN problem|NN </s>|S_END
+<s>|S_START but|CC in|IN those|DT circumstances|NNS oldfashioned|VBD finance|NN goes|VBZ mad|JJ too|RB for|IN every|DT securitisation|NN stuffed|VBD with|IN subprime|NN loans|NNS in|IN america|NN there|EX was|VBD a|DT stinking|NN property|NN loan|NN sitting|VBG on|IN the|DT balancesheet|NN of|IN an|DT irish|JJ bank|NN or|CC a|DT spanish|JJ caja|NN </s>|S_END
+<s>|S_START “duff|NN credit|NN analysis|NN is|VBZ always|RB the|DT cause|NN of|IN the|DT problem”|JJ says|VBZ simon|JJ gleeson|NN of|IN clifford|NN chance|NN a|DT law|NN firm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT argument|NN has|VBZ a|DT lot|NN of|IN power|NN </s>|S_END
+<s>|S_START when|WRB greed|VBN takes|VBZ hold|VBN finance|NN in|IN all|DT its|PRP$ forms|NNS is|VBZ undone|VBN </s>|S_END
+<s>|S_START yet|RB blaming|VBG the|DT worst|JJS outcomes|NNS of|IN financial|JJ innovation|NN on|IN human|JJ frailty|NN is|VBZ hardly|RB helpful|JJ </s>|S_END
+<s>|S_START this|DT special|JJ report|NN will|MD point|VB to|TO the|DT features|NNS of|IN financial|JJ innovations|NNS that|WDT can|MD turn|VB them|PRP into|IN troublemakers|NNS over|IN time|NN and|CC show|NN how|WRB these|DT can|MD be|VB managed|VBN better|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN simple|NN terms|NNS finance|NN lacks|NNS an|DT “off”|JJ button|NN </s>|S_END
+<s>|S_START first|JJ the|DT industry|NN has|VBZ a|DT habit|NN of|IN experimenting|VBG ceaselessly|RB as|IN it|PRP seeks|VBZ to|TO build|VB on|IN existing|VBG techniques|NNS and|CC products|NNS to|TO create|VB new|JJ ones|NNS what|WP robert|NN merton|NN an|DT economist|NN termed|VBN the|DT “innovation|NN spiral”|NN </s>|S_END
+<s>|S_START innovations|NNS in|IN finance—unlike|JJ say|NN a|DT drug|NN that|WDT has|VBZ gone|VBN through|IN a|DT rigorous|JJ approval|NN process|NN before|IN coming|VBG to|TO market—are|JJ continually|RB mutating|VBG </s>|S_END
+<s>|S_START econd|NN there|EX is|VBZ a|DT strong|JJ desire|NN to|TO standardise|VB products|NNS so|RB that|IN markets|NNS can|MD deepen|VB which|WDT often|RB accelerates|VBZ the|DT rate|NN of|IN adoption|NN beyond|IN the|DT capacity|NN of|IN the|DT back|NN office|NN and|CC the|DT regulators|NNS to|TO keep|VB up|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN innovations|NNS become|VBP more|RBR and|CC more|RBR successful|JJ they|PRP start|VBP to|TO become|VB systemically|RB significant|JJ </s>|S_END
+<s>|S_START in|IN finance|NN that|IN is|VBZ automatically|RB worrying|VBG because|IN the|DT consequences|NNS of|IN any|DT failure|NN can|MD ripple|VB so|RB widely|RB and|CC unpredictably|RB </s>|S_END
+<s>|S_START in|IN a|DT 2011|CD paper|NN for|IN the|DT national|JJ bureau|NN of|IN economic|JJ research|NN josh|NN lerner|NN of|IN harvard|NN business|NN school|NN and|CC peter|NN tufano|NN of|IN said|VBN business|NN school|NN also|RB argue|VBP that|IN in|IN a|DT typical|JJ “scurve”|NN pattern|NN in|IN which|WDT the|DT earliest|JJS adopters|NNS of|IN an|DT innovation|NN are|VBP the|DT most|RBS knowledgeable|JJ a|DT widely|RB adopted|VBN product|NN is|VBZ more|RBR likely|JJ to|TO have|VB lots|NNS of|IN users|NNS with|IN an|DT inadequate|JJ grasp|NN of|IN the|DT products|NNS risk|VBP </s>|S_END
+<s>|S_START and|CC that|DT can|MD be|VB a|DT big|JJ problem|NN when|WRB things|NNS turn|VBP out|RP to|TO be|VB less|JJR safe|NN than|IN expected|VBN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,49 @@
+<p>|P_START
+</p>|P_END
+
+<p>|P_START
+<s>|S_START british|JJ banking|NN giant|NN hsbc|NN has|VBZ been|VBN accused|VBN of|IN providing|NN accounts|NNS on|IN the|DT island|NN of|IN jersey|NN for|IN alleged|JJ drug|NN dealers|NNS and|CC gun|VBP runners|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hm|NN revenue|NN customs|NNS the|DT uk|NN tax|NN authority|NN has|VBZ obtained|VBN details|NNS on|IN every|DT british|JJ client|NN of|IN hsbc|NN in|IN jersey|NN after|IN a|DT whistleblower|NN leaked|VBN the|DT data|NNS according|VBG to|TO the|DT daily|JJ telegraph|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT newspaper|NN claims|VBZ that|IN the|DT list|NN of|IN more|JJR than|IN 4000|CD clients|NNS includes|VBZ drug|NN dealers|NNS gun|VBP runners|NNS bankers|NNS accused|VBD of|IN fraud|NN and|CC cyber|NN criminals|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hmrc|NN confirmed|VBD friday|NN that|IN it|PRP has|VBZ received|VBN and|CC is|VBZ studying|VBG the|DT data|NNS </s>|S_END
+<s>|S_START the|DT tax|NN authority|NN did|VBD not|RB comment|VB on|IN specific|JJ hsbc|NN clients|NNS but|CC pledged|VBD to|TO crack|VB down|RP on|IN tax|NN cheats|NNS if|IN it|PRP finds|VBZ evidence|NN of|IN wrongdoing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START clamping|VBG down|IN on|IN those|DT who|WP try|NN to|TO cheat|VB the|DT system|NN through|IN evading|VBG taxes|NNS and|CC over|IN claiming|VBG benefits|NNS is|VBZ a|DT top|JJ priority|NN for|IN us|PRP and|CC we|PRP value|VBP the|DT information|NN we|PRP receive|VBP from|IN the|DT public|NN and|CC business|NN community|NN said|VBD an|DT hmrc|NN spokesman|NN in|IN a|DT statement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START jersey|NN a|DT 5by9mile|JJ island|NN just|RB off|IN the|DT coast|JJ of|IN france|NN belonging|VBG to|TO the|DT british|JJ crown|NN is|VBZ one|CD of|IN the|DT richest|JJS tax|NN havens|NNS in|IN the|DT world|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD hsbc|NN in|IN spotlight|NN over|IN money|NN laundering|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hsbc|NN hbc|NN said|VBD it|PRP was|VBD urgently|RB looking|VBG into|IN the|DT matter|NN </s>|S_END
+<s>|S_START the|DT bank|NN added|VBD that|IN it|PRP had|VBD not|RB been|VBN notified|VBN of|IN any|DT investigation|NN by|IN hmrc|NN but|CC said|VBD it|PRP would|MD fully|RB cooperate|VB with|IN authorities|NNS if|IN it|PRP was|VBD notified|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hsbc|NN remains|VBZ fully|RB committed|VBN to|TO adoption|NN of|IN the|DT highest|JJS global|JJ standards|NNS including|VBG the|DT procedures|NNS for|IN the|DT acceptance|NN of|IN clients|NNS the|DT bank|NN said|VBD in|IN a|DT statement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ not|RB the|DT first|JJ time|NN hsbc|NN has|VBZ been|VBN accused|VBN of|IN providing|NN financial|JJ services|NNS for|IN criminals|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN july|RB us|PRP lawmakers|NNS issued|VBD a|DT report|NN claiming|VBG that|IN hsbc|NN failed|VBD to|TO prevent|VB billions|NNS of|IN dollars|NNS worth|NN of|IN money|NN transfers|NNS that|WDT were|VBD allegedly|RB linked|VBN to|TO drug|NN cartels|NNS and|CC terrorist|NN groups|NNS </s>|S_END
+</p>|P_END
+

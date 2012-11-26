@@ -1,0 +1,87 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT american|JJ economy|NN grew|VBD slower|JJR than|IN predicted|VBN in|IN the|DT first|JJ quarter|NN as|IN government|NN spending|NN cuts|NNS offset|VBP a|DT pickup|NN in|IN consumer|NN spending|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gross|NN domestic|JJ product|NN the|DT broadest|JJS measure|NN of|IN the|DT nations|NNS economy|NN grew|VBD at|IN a|DT 22|CD annual|JJ rate|NN in|IN the|DT first|JJ three|CD months|NNS of|IN 2012|CD the|DT commerce|NN department|NN said|VBD friday|NN down|IN from|IN a|DT 3|CD growth|NN rate|NN in|IN the|DT prior|NN quarter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START growth|NN at|IN that|DT rate|NN is|VBZ considered|VBN too|RB weak|JJ to|TO lead|VB to|TO the|DT hiring|NN needed|VBD to|TO put|VB millions|NNS of|IN unemployed|VBN americans|NNS back|RB to|TO work|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT data|NNS was|VBD also|RB lower|JJR than|IN the|DT 25|CD rate|NN economists|NNS had|VBD been|VBN expecting|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT first|JJ quarter|NN was|VBD largely|RB characterized|VBN by|IN consistently|RB stronger|JJR retail|NN sales|NNS but|CC otherwise|RB fickle|JJ economic|JJ data|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START job|NN growth|NN started|VBD off|IN robust|JJ in|IN january|JJ but|CC then|RB faltered|VBD in|IN march|NN </s>|S_END
+<s>|S_START home|NN construction|NN increased|VBD at|IN the|DT beginning|NN of|IN the|DT year|NN but|CC then|RB slumped|VBD </s>|S_END
+<s>|S_START inflation|NN had|VBD been|VBN picking|VBG up|RP earlier|JJR in|IN the|DT year|NN amid|IN rapidly|RB rising|VBG gas|NN prices|NNS but|CC has|VBZ since|IN moderated|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB consumer|NN spending|NN increased|VBD 29|CD </s>|S_END
+<s>|S_START spending|NN was|VBD particularly|RB robust|JJ on|IN long|JJ lasting|NN items|NNS like|IN autos|NNS with|IN durable|JJ goods|NNS spending|NN rising|VBG 153|CD in|IN the|DT quarter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fluctuation|NN in|IN the|DT data|NN however|RB has|VBZ led|VBN many|JJ economists|NNS to|TO believe|VB the|DT mild|NN winter|NN gave|VBD the|DT economy|NN only|RB a|DT temporary|JJ boost|NN at|IN the|DT beginning|NN of|IN the|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN example|NN auto|NN sales|NNS may|MD have|VB been|VBN unusually|RB strong|JJ in|IN january|JJ and|CC february|JJ simply|RB because|IN of|IN warmer|NN temperatures|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START more|JJR shoppers|NNS may|MD have|VB been|VBN walking|VBG the|DT auto|NN lots|NNS because|IN they|PRP werent|VBP covered|VBN in|IN snow|NN said|VBD beata|NNS caranci|VBP deputy|NN chief|NN economist|NN at|IN td|NN economics|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT biggest|JJS drag|NN on|IN the|DT economy|NN came|VBD from|IN government|NN spending|NN cuts|NNS </s>|S_END
+<s>|S_START spending|NN by|IN the|DT federal|JJ government|NN declined|VBD 56|CD driven|CD primarily|RB by|IN defense|NN cuts|NNS while|IN spending|NN by|IN state|NN and|CC local|JJ governments|NNS fell|VBD 12|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP marked|VBD the|DT sixth|JJ consecutive|JJ quarter|NN that|WDT government|NN cuts|NNS have|VBP weighed|VBN on|IN gdp|NN the|DT likes|NNS of|IN which|WDT have|VBP not|RB been|VBN seen|VBN since|IN 1953|CD when|WRB the|DT united|VBN states|NNS was|VBD pulling|VBG out|RP of|IN the|DT korean|JJ war|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT streak|NN is|VBZ not|RB expected|VBN to|TO end|VB anytime|RB soon|RB especially|RB as|IN the|DT economy|NN nears|NNS a|DT fiscal|JJ cliff|NN in|IN 2013|CD </s>|S_END
+<s>|S_START the|DT bush|NN tax|NN cuts|NNS payroll|VBP tax|NN cut|VBD and|CC extended|VBD unemployment|NN benefits|NNS are|VBP all|DT set|NN to|TO end|VB at|IN the|DT same|JJ time|NN that|WDT the|DT government|NN slashes|VBZ more|JJR spending|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START were|VBD going|VBG to|TO see|VB government|NN cuts|NNS for|IN the|DT next|JJ couple|NN quarters|NNS and|CC we|PRP dont|VBP even|RB know|VB what|WP to|TO expect|VB on|IN that|DT front|NN next|IN year|NN caranci|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB the|DT federal|JJ reserve|NN is|VBZ erring|VBG on|IN the|DT side|NN of|IN caution|NN given|VBN mixed|VBN economic|JJ data|NNS lately|RB </s>|S_END
+<s>|S_START in|IN a|DT press|NN conference|NN earlier|RBR this|DT week|NN fed|VBD chairman|NN ben|VBN bernanke|NN said|VBD the|DT fiscal|JJ cliff|NN poses|NNS significant|JJ risk|NN to|TO the|DT recovery|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN no|DT action|NN were|VBD to|TO be|VB taken|VBN by|IN the|DT fiscal|JJ authorities|NNS the|DT size|NN of|IN the|DT fiscal|JJ cliff|NN is|VBZ such|JJ that|IN theres|NNS absolutely|RB no|DT chance|NN the|DT federal|JJ reserve|NN could|MD or|CC would|MD have|VB any|DT ability|NN whatsoever|NN to|TO offset|VB that|IN effect|NN on|IN the|DT economy|NN he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT central|JJ bank|NN predicts|NNS the|DT economy|NN will|MD grow|VB only|RB 24|CD to|TO 29|CD for|IN the|DT year|NN overall|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC still|RB the|DT us|PRP economy|NN sits|NNS in|IN stark|NN contrast|NN to|TO recessions|NNS in|IN the|DT united|VBN kingdom|NN and|CC the|DT euro|NN zone|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT us|PRP economy|NN remains|VBZ a|DT bright|JJ light|NN in|IN the|DT global|JJ economy|NN although|IN the|DT light|NN is|VBZ hardly|RB blinding|VBG and|CC also|RB showing|VBG some|DT signs|NNS of|IN fading|VBG said|VBD chris|NNS williamson|NN chief|NN economist|NN for|IN markit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fridays|NNS number|VBP is|VBZ the|DT commerce|NN departments|NNS first|RB estimate|JJ of|IN first|JJ quarter|NN gdp|NN </s>|S_END
+<s>|S_START as|IN more|JJR data|NNS are|VBP collected|VBN the|DT government|NN will|MD revise|VB the|DT figures|NNS twice|NN in|IN the|DT next|JJ couple|NN months |NN </s>|S_END
+</p>|P_END
+

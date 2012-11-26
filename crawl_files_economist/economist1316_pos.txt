@@ -1,0 +1,59 @@
+<p>|P_START
+<s>|S_START a|DT new|JJ congressional|JJ report|NN about|IN huawei|NN and|CC zte|VB two|CD of|IN china’s|JJ largest|JJS telecoms|NNS firms|NNS appears|VBZ to|TO have|VB been|VBN written|VBN for|IN vegetarian|JJ </s>|S_END
+<s>|S_START at|IN least|JJS there|EX is|VBZ not|RB much|JJ meat|NN in|IN it|PRP </s>|S_END
+<s>|S_START the|DT study|NN which|WDT was|VBD published|VBN on|IN october|NN 8th|CD by|IN the|DT intelligence|NN committee|NN of|IN the|DT us|PRP house|VBP of|IN representatives|NNS declares|NNS the|DT firms|NNS a|DT threat|NN to|TO america’s|NNP national|JJ security|NN </s>|S_END
+<s>|S_START yet|RB it|PRP presents|VBZ little|JJ hard|NN evidence|NN to|TO support|VB its|PRP$ recommendation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT are|VBP draconian|JJ </s>|S_END
+<s>|S_START the|DT committee|NN calls|VBZ for|IN the|DT chinese|JJ firms’|NN networking|NN gear|NN and|CC any|DT other|JJ kit|NN containing|VBG their|PRP$ components|NNS to|TO be|VB excluded|VBN from|IN all|DT american|JJ government|NN systems—and|NN those|DT of|IN contractors|NNS working|VBG on|IN them|PRP </s>|S_END
+<s>|S_START it|PRP wants|VBZ huawei|NN and|CC zte|VB barred|VBN from|IN buying|NN any|DT american|JJ companie|NN </s>|S_END
+<s>|S_START and|CC it|PRP urges|VBZ all|DT american|JJ telecoms|NNS firms|NNS purchasing|VBG networking|NN equipment|NN to|TO shun|VB them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT report|NN comes|VBZ at|IN a|DT time|NN of|IN rising|VBG trade|NN friction|NN thanks|NNS to|TO the|DT election|NN </s>|S_END
+<s>|S_START it|PRP also|RB underlines|VBZ how|WRB deals|NNS involving|VBG hightech|NN infrastructure|NN are|VBP becoming|VBG politicised|VBN </s>|S_END
+<s>|S_START australia|NN has|VBZ already|RB blocked|VBN huawei|NN from|IN taking|VBG part|NN in|IN its|PRP$ countrywide|NN broadband|NN system|NN on|IN nationalsecurity|NN ground|NN </s>|S_END
+<s>|S_START canada|NN hinted|VBD this|DT week|NN that|IN huawei|NN could|MD be|VB excluded|VBN from|IN work|NN on|IN a|DT new|JJ secure|NN government|NN network|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT congressional|JJ study|NN frets|NNS that|WDT huawei’s|-NONE- and|CC zte’s|JJ products|NNS could|MD be|VB used|VBN as|IN trojan|JJ horses|NNS by|IN chinese|JJ spook|NN </s>|S_END
+<s>|S_START it|PRP makes|VBZ much|RB of|IN the|DT firms’|JJ opaque|NN governance|NN and|CC the|DT fact|NN that|IN they|PRP have|VBP internal|JJ communist|NN party|NN committees|NNS as|IN big|JJ chinese|NN firms|NNS generally|RB do|VBP </s>|S_END
+<s>|S_START however|RB it|PRP provides|VBZ no|DT evidence|NN that|IN these|DT have|VBP influenced|VBN the|DT firms’|NNP behaviour|PRP$ </s>|S_END
+<s>|S_START it|PRP drops|VBZ hints|NNS that|IN it|PRP has|VBZ evidence|NN from|IN current|JJ and|CC former|JJ huawei|NN staff|NN that|WDT some|DT of|IN its|PRP$ employees|NNS in|IN america|NN may|MD have|VB been|VBN involved|VBN in|IN “potentially|JJ unethical|JJ or|CC illegal|JJ behaviour”|NN </s>|S_END
+<s>|S_START but|CC it|PRP fails|VBZ to|TO spell|VB out|RP what|WP </s>|S_END
+<s>|S_START the|DT details|NNS are|VBP classified|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT committee’s|JJ investigators|NNS also|RB cast|VBN doubts|NNS over|IN huawei’s|JJ efforts|NNS to|TO build|VB trust|NN in|IN its|PRP$ products|NNS elsewhere|RB </s>|S_END
+<s>|S_START in|IN britain|NN for|IN instance|NN the|DT firm|NN has|VBZ set|VBN up|RP a|DT centre|NN where|WRB securitycleared|VBN staff|NN some|DT of|IN whom|WP used|VBN to|TO work|VB for|IN britain’s|NNS signalsintelligence|NN agency|NN vet|NN the|DT networking|NN kit|NN and|CC software|NN that|IN the|DT chinese|JJ firm|NN wishes|NNS to|TO sell|VB to|TO telecoms|NNS companies|NNS there|RB </s>|S_END
+<s>|S_START bt|NN a|DT british|JJ firms|NNS that|WDT buys|VBZ huawei|VBP equipment|NN says|VBZ that|IN having|VBG the|DT firm|NN as|IN a|DT supplier|NN has|VBZ not|RB jeopardised|VBN the|DT security|NN of|IN its|PRP$ network|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START huawei|NN and|CC zte|VB have|VBP proposed|VBN a|DT similar|JJ approach|NN in|IN america|NN working|VBG with|IN outfits|NNS such|JJ as|IN electronic|JJ warfare|NN associates|NNS and|CC other|JJ private|JJ firms|NNS that|WDT vet|NN hightech|VBP gear|JJ for|IN the|DT us|PRP government|NN </s>|S_END
+<s>|S_START but|CC the|DT report|NN says|VBZ it|PRP is|VBZ not|RB clear|JJ yet|RB that|IN such|JJ steps|NNS would|MD work|VB in|IN america|NN </s>|S_END
+<s>|S_START why|WRB not|RB </s>|S_END
+<s>|S_START it|PRP gives|VBZ no|DT convincing|NN reason|NN </s>|S_END
+<s>|S_START instead|RB it|PRP says|VBZ that|IN a|DT telecoms|NNS supplier|RBR should|MD offer|VB “a|NNP convincing|NN set|VBD of|IN diverse|NN evidence”|NN that|WDT its|PRP$ system|NN “is|NNP worthy|JJ of|IN our|PRP$ trust”|JJ </s>|S_END
+<s>|S_START uch|JJ a|DT </s>|S_END
+<s>|S_START the|DT report|NN does|VBZ not|RB disclose|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START huawei|NN which|WDT generates|VBZ only|RB tiny|JJ sales|NNS in|IN america|NN is|VBZ not|RB happy|JJ </s>|S_END
+<s>|S_START “i|NN can’t|NN work|NN with|IN ifs|NNS buts|NNS and|CC maybes”|JJ complains|NNS john|VBP suffolk|NN huawei’s|NNS global|JJ cybersecurity|NN officer|NN and|CC a|DT former|JJ chief|NN information|NN officer|NN for|IN the|DT british|JJ government|NN </s>|S_END
+<s>|S_START moreover|RB the|DT report|NN glosses|VBZ over|IN the|DT fact|NN that|IN many|JJ telecomsequipment|NN makers|NNS such|JJ as|IN sweden’s|JJ ericsson|NN also|RB source|NN kit|NN and|CC components|NNS in|IN china|NN </s>|S_END
+<s>|S_START “people|JJ might|NN worry|NN that|IN huawei|NN equipment|NN is|VBZ having|VBG malware|NN put|VBD into|IN it|PRP but|CC one|CD could|MD have|VB exactly|RB the|DT same|JJ concerns|NNS about|IN ericsson’s|NNS equipment|NN too”|-NONE- says|VBZ pierre|NN ferragu|NN of|IN sanford|NN c|NN bernstein|NN a|DT bank|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT better|JJR approach|NN as|IN the|DT economist|NN has|VBZ argued|VBN would|MD be|VB for|IN governments|NNS to|TO be|VB crystal|JJ clear|JJ about|IN the|DT standards|NNS that|WDT all|DT telecomsequipment|NN suppliers|NNS must|MD meet|VB to|TO win|VB their|PRP$ busine|NN </s>|S_END
+<s>|S_START instead|RB america’s|JJ politicians|NNS appear|VBP to|TO be|VB indulging|VBG in|IN technonationalism|NN </s>|S_END
+<s>|S_START “america|NN likes|VBZ to|TO tell|VB other|JJ governments|NNS not|RB to|TO meddle|VB in|IN technology|NN and|CC the|DT internet|NN but|CC here|RB we|PRP are|VBP becoming|VBG more|RBR like|IN china”|NNP says|VBZ douglas|NNS guthrie|VBP the|DT dean|NN of|IN george|NN washington|NN university’s|NNS business|NN school|NN </s>|S_END
+</p>|P_END
+

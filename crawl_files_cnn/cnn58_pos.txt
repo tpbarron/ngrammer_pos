@@ -1,0 +1,50 @@
+<p>|P_START
+<s>|S_START a|DT closed|VBN gas|NN station|NN in|IN brooklyn|NN as|IN the|DT city|NN continues|VBZ to|TO recover|VB from|IN superstorm|NN sandy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN new|JJ york|NN officials|NNS announced|VBD plans|NNS thursday|NN to|TO ration|NN gas|NN purchases|NNS as|IN the|DT region|NN continues|VBZ its|PRP$ struggle|NN to|TO recover|VB from|IN superstorm|NN sandy|NN last|JJ week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT rationing|NN applies|NNS to|TO drivers|NNS in|IN new|JJ york|NN city|NN as|IN well|RB as|IN those|DT in|IN nassau|NN and|CC suffolk|NN counties|NNS on|IN long|JJ island|NN </s>|S_END
+<s>|S_START starting|VBG friday|NN drivers|NNS with|IN license|NN plates|NNS ending|VBG in|IN even|JJ numbers|NNS can|MD buy|VB gas|NN on|IN evennumbered|VBN days|NNS of|IN the|DT month|NN only|RB while|IN those|DT with|IN license|NN plates|NNS ending|VBG in|IN odd|JJ numbers|NNS make|VBP their|PRP$ purchases|NNS on|IN oddnumbered|VBN days|NNS </s>|S_END
+<s>|S_START plates|NNS that|IN dont|NN have|VBP numbers|NNS in|IN them|PRP such|JJ as|IN vanity|NN plates|NNS will|MD be|VB counted|VBN as|IN odd|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT move|NN comes|VBZ in|IN response|NN to|TO a|DT gas|NN shortage|NN that|WDT emerged|VBD last|JJ week|NN as|IN traffic|JJ jams|NNS shuttered|VBN ports|NNS and|CC power|NN outages|NNS left|VBN many|JJ gas|NN stations|NNS nonoperational|JJ following|VBG sandy|NN </s>|S_END
+<s>|S_START consumers|NNS have|VBP waited|VBN in|IN lines|NNS stretching|VBG for|IN miles|NNS as|IN they|PRP seek|VBP gas|NN to|TO fuel|VB their|PRP$ vehicles|NNS or|CC to|TO power|NN generators|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN governor|NN andrew|VBD cuomo|NN said|VBD in|IN a|DT statement|NN that|IN the|DT plan|NN was|VBD also|RB prompted|VBN in|IN part|NN by|IN additional|JJ fuel|NN supply|NN disruptions|NNS caused|VBN by|IN the|DT noreaster|NN which|WDT hit|NN the|DT region|NN last|JJ night|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START power|NN outages|NNS in|IN new|JJ york|NN and|CC new|JJ jersey|NN rose|VBD from|IN 607000|CD customers|NNS wednesday|NN to|TO 666000|CD early|RB thursday|JJ following|VBG the|DT storm|NN which|WDT dumped|VBD several|JJ inches|NNS of|IN snow|NN on|IN the|DT east|JJ coast|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START officials|NNS didnt|VBP specify|NN how|WRB long|JJ the|DT gas|NN rationing|VBG plan|NN will|MD be|VB in|IN effect|NN though|IN new|JJ york|NN city|NN mayor|NN michael|NN bloomberg|NN said|VBD the|DT fuel|NN shortage|NN in|IN the|DT region|NN could|MD last|VB possibly|RB another|DT couple|NN of|IN weeks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bloomberg|NN called|VBN the|DT evenodd|NN system|NN the|DT best|JJS way|NN to|TO cut|VB down|RP the|DT lines|NNS and|CC help|VB customers|NNS buy|VB gas|NN faster|NN to|TO help|VB gas|NN stations|NNS stay|VBP open|JJ longer|NN and|CC to|TO reduce|VB the|DT potential|JJ for|IN disorder|NN </s>|S_END
+<s>|S_START police|NN officers|NNS will|MD be|VB deployed|VBN at|IN gas|NN stations|NNS to|TO enforce|VB the|DT restrictions|NNS which|WDT dont|NN apply|RB to|TO commercial|JJ vehicles|NNS taxis|VBZ or|CC the|DT filling|NN of|IN fuel|NN cans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT plan|NN mimics|NNS a|DT rationing|VBG program|NN that|WDT remains|VBZ in|IN effect|NN in|IN 12|CD new|JJ jersey|NN counties|NNS which|WDT governor|NN chris|VBZ christie|NN announced|VBD last|JJ week|NN </s>|S_END
+<s>|S_START mike|IN drewniak|NN a|DT spokesman|NN for|IN christie|NN said|VBD thursday|NN that|IN state|NN officials|NNS believe|VBP it|PRP has|VBZ worked|VBN particularly|RB in|IN the|DT more|RBR urban|JJ and|CC congested|VBD areas|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT governments|NNS energy|NN information|NN administration|NN estimates|NNS that|IN as|IN of|IN thursday|NN 28|CD of|IN the|DT gas|NN stations|NNS in|IN the|DT new|JJ york|NN metropolitan|NN area|NN dont|NN have|VBP gas|NN for|IN sale|NN down|IN from|IN 38|CD wednesday|NN and|CC 67|CD last|JJ week|NN </s>|S_END
+<s>|S_START bloomberg|NN meanwhile|RB estimated|VBD that|IN just|RB 25|CD of|IN gas|NN stations|NNS in|IN new|JJ york|NN city|NN were|VBD open|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnn|NN wires|NNS staff|NN contributed|VBD reporting|VBG </s>|S_END
+</p>|P_END
+

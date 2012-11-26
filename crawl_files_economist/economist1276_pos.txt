@@ -1,0 +1,23 @@
+<p>|P_START
+<s>|S_START most|JJS of|IN the|DT time|NN for|IN most|JJS people|NNS respiratory|JJ diseases|NNS such|JJ as|IN influenza|NN and|CC the|DT common|JJ cold|JJ are|VBP little|JJ more|RBR than|IN a|DT snotty|NN inconvenience|NN </s>|S_END
+<s>|S_START occasionally|RB though|IN the|DT viruses|NNS that|WDT cause|NN them|PRP mutate|VBP into|IN something|NN truly|RB nasty|JJ </s>|S_END
+<s>|S_START the|DT spanish|JJ flu|NN of|IN 1918|CD may|MD have|VB killed|VBN more|RBR people|NNS than|IN the|DT first|JJ world|NN war|NN </s>|S_END
+<s>|S_START more|JJR recently|RB there|RB have|VBP been|VBN worries|NNS about|IN severe|JJ acute|NN respiratory|NN syndrome|NN sars|NNS in|IN 2003|CD and|CC a|DT strain|NN of|IN flu|NN known|VBN as|IN h5n1|NNP in|IN 2008|CD though|IN neither|DT created|VBN the|DT pandemic|JJ researchers|NNS feared|VBD they|PRP might|MD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START now|RB such|JJ viruses|NNS are|VBP in|IN the|DT news|NN again|RB </s>|S_END
+<s>|S_START over|IN the|DT past|JJ few|JJ months|NNS two|CD men|NNS have|VBP been|VBN ill|JJ with|IN a|DT previously|RB unrecorded|VBN type|NN </s>|S_END
+<s>|S_START one|CD in|IN saudi|NN arabia|NN has|VBZ died|VBN </s>|S_END
+<s>|S_START the|DT other|JJ who|WP had|VBD recently|RB been|VBN there|EX is|VBZ seriously|RB ill|JJ in|IN a|DT london|NN hospital|NN </s>|S_END
+<s>|S_START according|VBG to|TO the|DT world|NN health|NN organisation|NN who|WP the|DT culprit|NN is|VBZ a|DT sort|NN of|IN coronavirus|NN the|DT same|JJ family|NN as|IN the|DT bug|NN that|IN causes|NNS sar|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START having|VBG had|VBD close|JJ calls|NNS with|IN both|DT sars|NNS and|CC h5n1|NNP the|DT world|NN is|VBZ watching|VBG and|CC waiting|VBG to|TO see|VB if|IN this|DT new|JJ virus|NN possesses|NNS the|DT combination|NN of|IN infectiousness|NN and|CC lethality|NN that|IN made|VBN those|DT two|CD diseases|NNS such|JJ a|DT worry|NN </s>|S_END
+<s>|S_START with|IN a|DT sample|NN size|NN that|WDT so|RB far|RB stands|VBZ at|IN just|RB two|CD it|PRP is|VBZ hard|RB to|TO know|VB much|JJ for|IN certain|JJ although|IN the|DT new|JJ bug|NN seems|VBZ to|TO cause|VB rapid|JJ kidney|NN failure|NN in|IN those|DT it|PRP infect|VBP </s>|S_END
+<s>|S_START the|DT who|WP is|VBZ looking|VBG for|IN other|JJ cases|NNS but|CC for|IN now|RB most|JJS bugwatchers|NNS seem|VBP cautiously|RB relaxed|VBN </s>|S_END
+<s>|S_START indeed|RB it|PRP may|MD be|VB that|IN its|PRP$ discovery|NN shows|NNS how|WRB well|RB the|DT world’s|NNS healthmonitoring|VBG system|NN is|VBZ working|VBG </s>|S_END
+<s>|S_START andrew|VBD easton|VBN a|DT virologist|NN at|IN the|DT university|NN of|IN warwick|NN reckons|NNS the|DT new|JJ bug|NN may|MD have|VB come|VBN to|TO doctors’|NNP attention|NN only|RB because|IN of|IN the|DT surveillance|NN systems|NNS set|VBD up|RP in|IN the|DT wake|NN of|IN sars|NNS and|CC h5n1|NNP </s>|S_END
+</p>|P_END
+

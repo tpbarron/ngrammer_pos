@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 36|CD gdp|NN $|$ 47bn|CD ppp|CD $|$ 62bn|CD inflation|NN 33|CD population|NN 43m|CD gdp|NN per|IN head|NN $|$ 10880|CD ppp|CD $|$ 14370|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN ever|RB external|JJ forces|NNS will|MD drive|VB internal|JJ developments|NNS in|IN this|DT battered|VBN country|NN </s>|S_END
+<s>|S_START domestic|JJ forces|NNS aligned|VBD with|IN syria|NN and|CC iran|NN will|MD remain|VB in|IN the|DT ascendant|NN despite|IN troubles|NNS facing|VBG the|DT syrian|JJ regime|NN </s>|S_END
+<s>|S_START the|DT government|NN must|MD urgently|RB address|VB a|DT structural|JJ fiscal|JJ deficit|NN chronic|JJ energy|NN shortages|NNS and|CC widespread|JJ corruption|NN </s>|S_END
+</p>|P_END
+

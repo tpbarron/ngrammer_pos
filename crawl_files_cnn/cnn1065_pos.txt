@@ -1,0 +1,67 @@
+<p>|P_START
+<s>|S_START click|NN on|IN chart|NN to|TO track|VB markets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN european|NN stocks|NNS lost|VBD their|PRP$ momentum|NN and|CC took|VBD a|DT dive|JJ on|IN thursday|NN closing|NN lower|JJR as|IN investors|NNS became|VBD nervous|JJ following|NN the|DT european|JJ central|JJ banks|NNS failure|VBP to|TO announce|NN new|JJ measures|NNS to|TO help|VB ailing|VBG european|JJ economies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ecb|NN left|VBD interest|NN rates|NNS unchanged|JJ and|CC president|NN mario|NN draghi|NN simply|RB reiterated|VBN that|IN the|DT ecb|NN was|VBD not|RB ready|RB to|TO buy|VB the|DT bonds|NNS of|IN italy|RB or|CC spain|VB just|RB yet|RB </s>|S_END
+<s>|S_START borrowing|VBG costs|NNS in|IN both|DT nations|NNS have|VBP surged|VBN in|IN the|DT past|JJ year|NN due|JJ to|TO concerns|NNS about|IN their|PRP$ debt|NN loads|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ftse|NN in|IN london|NN closed|VBD lower|JJR by|IN 09|CD </s>|S_END
+<s>|S_START the|DT dax|NN in|IN frankfurt|NN plunged|VBD 23|CD and|CC the|DT cac|NN 40|CD in|IN paris|NNS was|VBD down|RB 21|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT euro|NN also|RB lost|VBD momentum|NN falling|VBG versus|NN the|DT us|PRP dollar|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START draghi|NN said|VBD that|IN governments|NNS should|MD stand|VB ready|JJ to|TO deploy|VB rescue|NN funds|NNS to|TO buy|VB government|NN bonds|NNS when|WRB exceptional|JJ financial|JJ market|NN circumstances|NNS and|CC risks|NNS to|TO financial|JJ stability|NN exist|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START last|JJ week|NN draghi|NN said|VBD he|PRP would|MD do|VB whatever|RB it|PRP takes|VBZ to|TO preserve|VB the|DT euro|NN the|DT currency|NN for|IN the|DT eurozone|NN nations|NNS </s>|S_END
+<s>|S_START in|IN an|DT attempt|NN to|TO quell|VB detractors|NNS he|PRP added|VBD believe|VBP me|PRP it|PRP will|MD be|VB enough|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC his|PRP$ tone|NN on|IN thursday|NN was|VBD much|RB more|RBR cautious|JJ </s>|S_END
+<s>|S_START gus|NN faucher|NN senior|JJ economist|NN for|IN the|DT pnc|NN financial|JJ services|NNS group|NN said|VBD draghi|NN has|VBZ a|DT very|RB complex|JJ task|NN trying|VBG to|TO balance|NN the|DT needs|NNS of|IN the|DT many|JJ different|JJ countries|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP think|VBP draghis|NNS in|IN a|DT difficult|NN situation|NN where|WRB he|PRP cant|VBP get|VB too|RB far|RB out|IN in|IN front|NN said|VBD faucher|NN </s>|S_END
+<s>|S_START its|PRP$ a|DT situation|NN where|WRB the|DT politicians|NNS obviously|RB have|VBP very|RB different|JJ opinions|NNS on|IN what|WP to|TO do|VB </s>|S_END
+<s>|S_START i|PRP think|VBP he|PRP has|VBZ an|DT understanding|NN of|IN what|WP the|DT ecb|NN needs|VBZ to|TO do|VB to|TO get|VB things|NNS going|VBG again|RB but|CC he|PRP has|VBZ to|TO develop|VB a|DT political|JJ consensus|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ecb|NN meeting|NN comes|VBZ one|CD day|NN after|IN the|DT federal|JJ reserve|NN failed|VBD to|TO offer|VB up|RP any|DT new|JJ stimulus|NN measures|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT stakes|NNS are|VBP high|JJ </s>|S_END
+<s>|S_START just|RB 11|CD of|IN europeans|NNS expect|VBP their|PRP$ local|JJ economy|NN to|TO be|VB stronger|JJR in|IN the|DT next|JJ six|CD months|NNS according|VBG to|TO a|DT poll|NN by|IN uk|NN research|NN firm|NN ipsos|NNS mori|VBP </s>|S_END
+<s>|S_START 28|CD expect|VBP the|DT economy|NN to|TO weaken|VB while|IN 60|CD dont|NN expect|NN much|RB change|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START separately|RB a|DT spanish|JJ bond|NN auction|NN for|IN €31|-NONE- billion|CD of|IN two|CD four|CD and|CC 10year|JJ bonds|NNS was|VBD well|RB received|VBN and|CC the|DT average|JJ yield|NN for|IN spanish|JJ 10year|JJ bonds|NNS dropped|VBD to|TO 664|CD </s>|S_END
+<s>|S_START investors|NNS are|VBP no|DT doubt|NN relieved|VBD to|TO see|VB the|DT yield|NN fall|NN below|IN the|DT intimidating|NN 7|CD benchmark|NN where|WRB it|PRP was|VBD recently|RB trading|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START asian|JJ markets|NNS were|VBD mixed|VBN </s>|S_END
+<s>|S_START tokyos|NNS nikkei|VBP ended|VBN slightly|RB higher|JJR by|IN 013|CD while|IN the|DT hang|NN seng|NN in|IN hong|JJ kong|JJ fell|NN 066|CD and|CC the|DT shanghai|NN composite|JJ shed|JJ 057|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START wall|NN street|VBD was|VBD also|RB disappointed|VBN by|IN the|DT ecbs|NNS lack|VBP of|IN action|NN </s>|S_END
+<s>|S_START the|DT dow|NN jones|NNS industrial|JJ average|NN the|DT sp|NN 500|CD and|CC the|DT nasdaq|NN were|VBD all|DT lower |JJ </s>|S_END
+</p>|P_END
+

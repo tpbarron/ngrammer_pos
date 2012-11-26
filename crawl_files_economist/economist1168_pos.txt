@@ -1,0 +1,11 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 136|CD gdp|NN $|$ 66bn|CD ppp|CD $|$ 105bn|CD inflation|NN 52|CD population|NN 60m|CD gdp|NN per|IN head|NN $|$ 10940|CD ppp|CD $|$ 17370|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START efforts|NNS to|TO establish|VB a|DT postqaddafi|NN order|NN will|MD set|VB the|DT scene|NN for|IN years|NNS to|TO come|VB </s>|S_END
+<s>|S_START the|DT national|JJ transitional|JJ council|NN will|MD probably|RB keep|VB its|PRP$ promise|NN to|TO establish|VB an|DT inclusive|JJ elected|VBN government|NN but|CC the|DT way|NN will|MD not|RB be|VB smooth|JJ and|CC delivery|NN may|MD be|VB late|JJ </s>|S_END
+<s>|S_START much|RB will|MD depend|VB on|IN satisfying|NN competing|VBG regional|JJ sectarian|NN and|CC ideological|JJ demands|NNS of|IN the|DT revolutions|NNS many|JJ stakeholder|NN </s>|S_END
+<s>|S_START the|DT economy|NN will|MD recover|VB half|PDT the|DT 25|CD of|IN output|NN it|PRP lost|VBD during|IN the|DT upheaval|NN in|IN 2011 |CD </s>|S_END
+</p>|P_END
+

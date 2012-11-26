@@ -1,0 +1,94 @@
+<p>|P_START
+<s>|S_START mitt|NN romney|NN has|VBZ a|DT new|JJ tax|NN plan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN in|IN a|DT switch|NN to|TO a|DT more|RBR aggressive|JJ tax|NN plan|NN mitt|NN romney|NN said|VBD wednesday|NN that|IN he|PRP now|RB favors|VBZ cutting|VBG marginal|JJ tax|NN rates|NNS for|IN individuals|NNS by|IN 20|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT candidate|NN had|VBD previously|RB said|VBD he|PRP would|MD maintain|VB current|JJ tax|NN rates|NNS on|IN personal|JJ income|NN as|IN president|NN before|IN moving|VBG to|TO a|DT fairer|NN flatter|NN simpler|NN tax|NN structure|NN in|IN the|DT future|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START now|RB romney|VBP appears|NNS to|TO be|VB accelerating|VBG that|IN timetable|JJ announcing|NN a|DT move|NN that|WDT would|MD reduce|VB the|DT current|JJ top|JJ rate|NN paid|VBN on|IN income|NN from|IN 35|CD to|TO 28|CD with|IN similar|JJ reductions|NNS across|IN all|DT tax|NN brackets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN example|NN americans|NNS in|IN the|DT lowest|JJS bracket|NN would|MD pay|VB 8|CD instead|RB of|IN 10|CD </s>|S_END
+<s>|S_START americans|NNS closer|JJR to|TO the|DT middle|NN would|MD pay|VB 20|CD instead|RB of|IN 25|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START obviously|RB this|DT is|VBZ a|DT bigger|JJR step|NN said|VBD roberton|NN williams|NNS a|DT tax|NN policy|NN center|NN scholar|NN who|WP has|VBZ been|VBN analyzing|VBG the|DT 2012|CD candidates|NNS tax|NN plans|NNS </s>|S_END
+<s>|S_START its|PRP$ a|DT substantial|JJ cut|NN and|CC quite|RB the|DT switch|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT tax|NN cuts|NNS will|MD be|VB offset|VBN by|IN limits|NNS placed|VBN on|IN deductions|NNS exemptions|NNS and|CC credits|NNS currently|RB available|JJ to|TO toplevel|NN income|NN earners|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT right|NN way|NN forward|RB is|VBZ a|DT flatter|NN fairer|NN simpler|NN tax|NN system|NN that|WDT generates|VBZ the|DT revenue|NN we|PRP need|VBP to|TO fund|VB a|DT smaller|JJR government|NN that|IN is|VBZ restrained|VBN to|TO its|PRP$ historical|JJ size|NN romney|NN said|VBD in|IN a|DT statement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT conference|NN call|NN with|IN reporters|NNS romney|NN economic|JJ adviser|NN glenn|NN hubbard|NN said|VBD that|IN the|DT tax|NN plan|NN even|RB with|IN rate|NN cuts|NNS for|IN individuals|NNS should|MD be|VB revenue|NN neutral|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hubbard|NN also|RB said|VBD romney|NN was|VBD willing|JJ to|TO examine|NN the|DT tax|NN treatment|NN of|IN carried|VBN interest|NN a|DT provision|NN that|WDT allows|VBZ fund|NN managers|NNS to|TO pay|VB the|DT 15|CD capital|NN gains|NNS rate|NN on|IN portions|NNS of|IN their|PRP$ income|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START should|MD he|PRP become|VB president|NN hubbard|NN said|VBD romney|NN would|MD instruct|VB his|PRP$ treasury|NN secretary|NN to|TO study|NN the|DT issue|NN to|TO determine|VB if|IN a|DT higher|JJR rate|NN was|VBD appropriate|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT candidate|NN is|VBZ expected|VBN to|TO reveal|VB more|JJR details|NNS in|IN a|DT speech|NN to|TO the|DT detroit|NN economic|JJ club|NN on|IN friday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT policy|NN change|NN comes|VBZ as|IN rick|NN santorum|NN once|RB considered|VBN a|DT long|JJ shot|NN sits|NNS at|IN the|DT top|JJ of|IN national|JJ polls|NNS and|CC is|VBZ neckandneck|NN with|IN romney|NN in|IN the|DT latest|JJS surveys|NNS in|IN arizona|NN and|CC michigan|VBD which|WDT both|DT hold|NN primaries|NNS tuesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT candidates|NNS initial|JJ economic|JJ plan|NN released|VBN in|IN september|NN was|VBD billed|VBN by|IN the|DT romney|NN campaign|NN as|IN the|DT most|RBS detailed|JJ plan|NN for|IN economic|JJ growth|NN and|CC job|NN creation|NN of|IN any|DT presidential|JJ candidate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC it|PRP fell|VBD flat|JJ with|IN some|DT influential|JJ conservatives|NNS including|VBG the|DT wall|NN street|NN journal|JJ editorial|NN board|NN which|WDT labeled|VBN the|DT proposals|NNS surprisingly|RB timid|VBD and|CC tactical|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT tax|NN foundation|NN a|DT think|NN tank|NN that|WDT generally|RB advocates|VBZ for|IN lower|JJR tax|NN rates|NNS said|VBD that|IN romneys|NNS initial|JJ plan|NN for|IN the|DT individual|JJ code|NN really|RB takes|VBZ no|DT step|NN toward|IN fundamental|JJ reform|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT updated|VBN plan|NN released|VBN by|IN the|DT campaign|NN reiterates|VBZ other|JJ proposals|NNS that|IN were|VBD first|JJ laid|VBN out|RP in|IN september|NN including|VBG provisions|NNS that|WDT would|MD eliminate|VB taxes|NNS on|IN interest|NN dividends|NNS and|CC capital|NN gains|NNS for|IN taxpayers|NNS who|WP make|VBP less|JJR than|IN $|$ 200000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP also|RB calls|VBZ for|IN the|DT elimination|NN of|IN the|DT estate|NN tax|NN and|CC a|DT reduction|NN in|IN the|DT tax|NN rate|NN paid|VBN by|IN corporations|NNS from|IN 35|CD to|TO 25|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN corporate|JJ taxes|NNS romney|NN still|RB favors|VBZ higher|JJR rates|NNS than|IN his|PRP$ competitors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romneys|NNS 25|CD proposed|VBN rate|NN carries|NNS a|DT less|JJR aggressive|JJ reduction|NN than|IN that|DT of|IN gingrich|NN 125|CD rick|NN santorum|NN 175|CD or|CC ron|NN paul|NN 15|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romney|NN had|VBD previously|RB hinted|VBN at|IN changes|NNS in|IN his|PRP$ tax|NN plan|NN that|WDT would|MD include|VB lower|JJR marginal|JJ tax|NN rates|NNS on|IN income|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START during|IN a|DT debate|NN in|IN january|JJ romney|NN suggested|VBD he|PRP would|MD lower|VB the|DT top|JJ rate|NN to|TO 25|CD or|CC even|RB 20|CD when|WRB asked|JJ to|TO identify|VB the|DT highest|JJS rate|NN any|DT american|JJ should|MD pay|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START more|JJR than|IN 25|CD i|PRP think|VBP is|VBZ taking|VBG too|RB much|RB out|IN of|IN our|PRP$ pockets|NNS romney|NN said |-NONE- </s>|S_END
+</p>|P_END
+

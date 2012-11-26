@@ -1,0 +1,103 @@
+<p>|P_START
+<s>|S_START is|VBZ it|PRP possible|JJ for|IN a|DT child|NN to|TO have|VB three|CD parent|NN </s>|S_END
+<s>|S_START that|DT is|VBZ the|DT question|NN raised|VBD by|IN a|DT paper|NN just|RB published|VBD in|IN nature|NN by|IN shoukhrat|NN mitalipov|NN and|CC his|PRP$ colleagues|NNS at|IN oregon|NN health|NN and|CC science|NN university|NN </s>|S_END
+<s>|S_START and|CC the|DT answer|NN seems|VBZ to|TO be|VB “yes”|JJ for|IN this|DT study|NN paves|VBZ the|DT way|NN for|IN the|DT birth|JJ of|IN children|NNS who|WP genetically|RB have|VBP one|CD father|NN but|CC two|CD mother|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT reason|NN this|DT is|VBZ possible|JJ is|VBZ that|IN a|DT mother’s|JJ genetic|JJ contribution|NN to|TO her|PRP$ offspring|NN comes|VBZ in|IN two|CD separable|JJ piece|NN </s>|S_END
+<s>|S_START by|IN far|RB the|DT largest|JJS is|VBZ packed|VBN into|IN the|DT 23|CD chromosomes|NNS in|IN the|DT nucleus|NN of|IN an|DT unfertilised|VBN egg|NN </s>|S_END
+<s>|S_START in|IN that|DT she|PRP is|VBZ just|RB like|IN the|DT child’s|JJ father|NN who|WP provides|VBZ another|DT 23|CD through|IN his|PRP$ sperm|NN </s>|S_END
+<s>|S_START but|CC the|DT mother|NN also|RB contributes|VBZ what|WP is|VBZ known|VBN as|IN mitochondrial|JJ dna|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mitochondria|NN are|VBP a|DT cell’s|JJ powerpack|NN </s>|S_END
+<s>|S_START they|PRP convert|VBP the|DT energy|NN in|IN sugar|NN into|IN a|DT form|NN usable|JJ by|IN the|DT cell’s|NNP molecular|NN machinery|NN </s>|S_END
+<s>|S_START and|CC because|IN mitochondria|NNS descend|VBP from|IN a|DT bacterium|NN that|WDT about|IN 2|CD billion|CD years|NNS ago|RB became|VBD symbiotic|JJ with|IN the|DT cell|NN from|IN which|WDT animals|NNS and|CC plants|NNS are|VBP descended|VBN they|PRP have|VBP their|PRP$ own|JJ small|JJ chromosome|NN </s>|S_END
+<s>|S_START in|IN people|NNS these|DT chromosomes|NNS carry|VBP only|RB 37|CD genes|NNS compared|VBN with|IN the|DT 20000|CD or|CC so|RB of|IN the|DT nucleu|NN </s>|S_END
+<s>|S_START but|CC all|DT of|IN the|DT mitochondria|NN in|IN a|DT human|NN body|NN are|VBP descended|VBN from|IN those|DT in|IN the|DT egg|NN from|IN which|WDT it|PRP grew|VBD </s>|S_END
+<s>|S_START the|DT sperm|NN contributes|VBZ none|NN </s>|S_END
+<s>|S_START and|CC it|PRP is|VBZ that|IN fact|NN which|WDT has|VBZ allowed|VBN doctors|NNS to|TO conceive|VB of|IN the|DT idea|NN of|IN people|NNS with|IN two|CD mothers|NNS one|CD providing|VBG the|DT nuclear|JJ dna|NN and|CC one|CD the|DT mitochondrial|JJ sort|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT reason|NN for|IN doing|VBG this|DT is|VBZ that|IN mutations|NNS in|IN mitochondrial|JJ dna|NN like|IN those|DT in|IN the|DT nuclear|JJ genes|NNS can|MD cause|VB disease|NN </s>|S_END
+<s>|S_START these|DT diseases|NNS especially|RB affect|JJ organs|NNS such|JJ as|IN the|DT brain|NN and|CC the|DT muscles|NNS which|WDT have|VBP high|JJ energy|NN requirement|NN </s>|S_END
+<s>|S_START each|DT particular|JJ mitochondrial|JJ disease|NN is|VBZ rare|JJ </s>|S_END
+<s>|S_START but|CC there|EX are|VBP lots|NNS of|IN them|PRP </s>|S_END
+<s>|S_START all|DT told|VBD there|RB is|VBZ about|IN one|CD chance|NN in|IN 5000|CD that|WDT a|DT child|NN will|MD develop|VB such|PDT an|DT inherited|VBN disease|NN </s>|S_END
+<s>|S_START that|DT rate|NN is|VBZ similar|JJ for|IN example|NN to|TO the|DT rate|NN of|IN fragilex|NN syndrome|NN which|WDT is|VBZ the|DT secondmostcommon|NN type|NN of|IN congenital|JJ learning|NN difficulty|NN after|IN down’s|NNS syndrome|VBP </s>|S_END
+<s>|S_START mitochondrial|JJ disease|NN is|VBZ thus|RB not|RB a|DT huge|JJ problem|NN but|CC it|PRP is|VBZ not|RB negligible|JJ either|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ batteries|NNS please|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO find|VB out|RP whether|IN mitochondrial|JJ transplantation|NN could|MD work|VB in|IN people|NNS it|PRP has|VBZ already|RB been|VBN demonstrated|VBN in|IN other|JJ species|NNS of|IN mammal|JJ dr|NN mitalipov|NN collected|VBD eggs|NNS from|IN the|DT ovaries|NNS of|IN women|NNS with|IN mutated|JJ mitochondria|NNS and|CC others|NNS from|IN donors|NNS with|IN healthy|JJ mitochondria|NNS </s>|S_END
+<s>|S_START he|PRP then|RB removed|VBD the|DT nuclei|NN of|IN both|DT </s>|S_END
+<s>|S_START those|DT from|IN the|DT healthy|JJ cells|NNS he|PRP discarded|VBD </s>|S_END
+<s>|S_START those|DT from|IN the|DT diseased|VBN cells|NNS he|PRP transplanted|VBD into|IN the|DT healthy|JJ cell|NN </s>|S_END
+<s>|S_START he|PRP then|RB fertilised|VBD the|DT result|NN with|IN sperm|NN and|CC allowed|VBD the|DT fertilised|VBN eggs|NNS to|TO start|VB dividing|NN and|CC thus|RB begin|VB taking|VBG the|DT first|JJ steps|NNS on|IN the|DT journey|NN that|IN might|MD ultimately|RB lead|VB to|TO them|PRP becoming|VBG fullfledged|JJ human|NN being|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nearly|RB all|DT of|IN the|DT experimental|JJ eggs|NNS survived|VBD the|DT replacement|NN of|IN their|PRP$ nuclei|NN and|CC threequarters|NNS were|VBD successfully|RB fertilised|VBN </s>|S_END
+<s>|S_START however|RB just|RB over|IN half|DT of|IN the|DT resulting|VBG zygotes—as|JJ the|DT balls|NNS of|IN cells|NNS that|WDT form|NN from|IN a|DT fertilised|VBN egg’s|-NONE- early|RB division|NN are|VBP known—displayed|JJ abnormalitie|NN </s>|S_END
+<s>|S_START that|DT compared|VBN with|IN an|DT abnormality|NN rate|NN of|IN just|RB an|DT eighth|JJ in|IN control|NN zygotes|NNS grown|VBN from|IN untransplanted|VBN healthy|JJ egg|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT discrepancy|NN surprised—and|NN worried—dr|NN mitalipov|NN </s>|S_END
+<s>|S_START the|DT abnormality|NN rate|NN he|PRP observed|VBD was|VBD much|RB higher|JJR than|IN those|DT seen|VBN when|WRB the|DT procedure|NN is|VBZ carried|VBN out|RP on|IN other|JJ specie|NN </s>|S_END
+<s>|S_START that|DT though|IN could|MD be|VB because|IN this|DT is|VBZ the|DT first|JJ time|NN it|PRP has|VBZ been|VBN attempted|VBN with|IN human|JJ egg|NN </s>|S_END
+<s>|S_START each|DT species|NNS has|VBZ its|PRP$ quirks|NNS and|CC if|IN mitochondrial|JJ transplants|NNS were|VBD to|TO become|VB routine|JJ the|DT quirks|NNS of|IN humans|NNS would|MD no|RB doubt|VB quickly|RB become|VB apparent|JJ </s>|S_END
+<s>|S_START with|IN tweaks|NNS they|PRP could|MD be|VB fixed|VBN dr|NN mitalipov|NN predict|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB turning|VBG this|DT experiment|NN into|IN a|DT medical|JJ procedure|NN would|MD be|VB a|DT long|JJ road|NN and|CC not|RB just|RB scientifically|RB </s>|S_END
+<s>|S_START dr|NN mitalipov|NN has|VBZ little|JJ doubt|NN that|IN his|PRP$ zygotes|NNS could|MD be|VB brought|VBN to|TO term|NN if|IN they|PRP were|VBD transplanted|VBN into|IN a|DT woman’s|JJ womb|NN </s>|S_END
+<s>|S_START that|DT experiment|NN though|IN is|VBZ illegal—and|NNP in|IN the|DT view|NN of|IN some|DT rightly|RB so|RB </s>|S_END
+<s>|S_START but|CC the|DT fact|NN that|IN it|PRP now|RB looks|VBZ possible|JJ will|MD surely|RB stimulate|VB debate|NN about|IN whether|IN the|DT law|NN should|MD be|VB changed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START two|CD kinds|NNS of|IN question|NN arise|NN </s>|S_END
+<s>|S_START one|CD kind|NN is|VBZ pragmatic|JJ would|MD the|DT process|NN usually|RB work|VB and|CC if|IN it|PRP did|VBD would|MD it|PRP always|RB lead|VB to|TO a|DT healthy|JJ baby|NN who|WP would|MD have|VB a|DT normal|JJ chance|NN of|IN growing|VBG into|IN a|DT healthy|JJ adult|NN </s>|S_END
+<s>|S_START the|DT second|JJ kind|NN of|IN question|NN is|VBZ moral|JJ for|IN what|WP is|VBZ being|VBG proposed|VBN is|VBZ in|IN essence|NN genetic|JJ engineering|NN </s>|S_END
+<s>|S_START not|RB perhaps|RB as|IN classically|RB conceived|VBN because|IN no|DT dna|NN is|VBZ artificially|RB modified|VBN </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ engineering|VBG neverthele|NN </s>|S_END
+<s>|S_START and|CC that|DT might|MD worry|VB some|DT people|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN the|DT first|JJ kind|NN of|IN question|NN the|DT auspices|NNS are|VBP good|JJ </s>|S_END
+<s>|S_START when|WRB dr|NN mitalipov|NN tested|VBD his|PRP$ zygotes|NNS he|PRP could|MD find|VB no|DT trace|NN of|IN mutated|VBN mitochondrial|JJ dna|NN in|IN them|PRP so|RB the|DT purpose|NN of|IN the|DT procedure|NN seems|VBZ to|TO have|VB been|VBN achieved|VBN </s>|S_END
+<s>|S_START and|CC an|DT experiment|NN on|IN monkeys|NNS that|IN he|PRP began|VBD three|CD years|NNS ago|RB has|VBZ produced|VBN four|CD healthy|JJ offspring|NN that|WDT are|VBP not|RB apparently|RB different|JJ from|IN any|DT other|JJ young|JJ monkey|NN of|IN their|PRP$ age|NN </s>|S_END
+<s>|S_START these|DT are|VBP preliminary|JJ results|NNS but|CC they|PRP are|VBP encouraging|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP is|VBZ on|IN the|DT moral|JJ questions|NNS that|WDT things|NNS may|MD stumble|VB </s>|S_END
+<s>|S_START there|EX is|VBZ no|DT consensu|NN </s>|S_END
+<s>|S_START ome|NN people|NNS oppose|VBP such|JJ genetic|JJ tinkering|NN in|IN principle|NN </s>|S_END
+<s>|S_START ome|NN worry|NN about|IN the|DT consequences|NNS of|IN a|DT third|JJ adult|NN being|VBG involved|VBN in|IN the|DT traditionally|RB twoperson|NN process|NN of|IN parenthood—though|JJ the|DT mitochondrial|JJ contribution|NN is|VBZ restricted|VBN to|TO genes|NNS for|IN energyprocessing|VBG proteins|NNS and|CC is|VBZ unlikely|RB to|TO have|VB wider|JJR ramifications|NNS on|IN say|NN family|NN resemblance|NN </s>|S_END
+<s>|S_START ome|NN worry|NN that|IN threeparented|VBN individuals|NNS may|MD themselves|PRP be|VB worried|VBN by|IN knowledge|NN of|IN their|PRP$ origin|NN </s>|S_END
+<s>|S_START but|CC until|IN recently|RB such|JJ questions|NNS have|VBP been|VBN hypothetical|JJ </s>|S_END
+<s>|S_START now|RB they|PRP are|VBP real|JJ </s>|S_END
+<s>|S_START in|IN september|NN for|IN example|NN britain’s|NNS human|NN fertilisation|NN and|CC embryology|NN authority|NN which|WDT deals|NNS with|IN such|JJ matters|NNS launched|VBD a|DT public|JJ consultation|NN to|TO discuss|VB the|DT ethics|NNS of|IN creating|VBG threeparent|NN offspring|VBG of|IN the|DT sort|NN dr|NN mitalipov|NN propose|NN </s>|S_END
+<s>|S_START this|DT consultation|NN runs|VBZ till|NN december|NN 7th|CD and|CC the|DT results|NNS will|MD be|VB given|VBN to|TO the|DT government|NN in|IN the|DT spring|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT end|NN whether|IN threeparent|NN children|NNS are|VBP permitted|VBN will|MD probably|RB depend|VB on|IN the|DT public|NN “uggh”|NN factor|NN </s>|S_END
+<s>|S_START there|EX was|VBD once|RB opposition|NN to|TO in|IN vitro|NN fertilisation|NN with|IN pejorative|JJ terms|NNS like|IN “testtube|JJ baby”|NN being|VBG bandied|VBN about|IN </s>|S_END
+<s>|S_START now|RB ivf|VBP is|VBZ routine|JJ and|CC it|PRP is|VBZ routine|JJ because|IN it|PRP is|VBZ successful|JJ </s>|S_END
+<s>|S_START in|IN the|DT case|NN of|IN mitochondrial|JJ transplants|NNS what|WP will|MD probably|RB happen|VB is|VBZ that|IN one|CD country|NN breaks|NNS ranks|VBZ permits|NNS the|DT procedure|NN and|CC the|DT world|NN will|MD then|RB see|VB the|DT consequence|NN </s>|S_END
+<s>|S_START if|IN they|PRP are|VBP good|JJ you|PRP will|MD never|RB find|VB anyone|NN who|WP will|MD admit|VB to|TO having|VB opposed|VBN the|DT transplants|NNS in|IN the|DT first|JJ place|NN </s>|S_END
+<s>|S_START if|IN they|PRP are|VBP bad|JJ the|DT phrase|NN “i|NNP told|VBD you|PRP so”|-NONE- will|MD ring|VB from|IN the|DT rafter|NN </s>|S_END
+</p>|P_END
+

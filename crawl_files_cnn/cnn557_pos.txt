@@ -1,0 +1,95 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN i|PRP manage|VBP my|PRP$ own|JJ portfolio|NN </s>|S_END
+<s>|S_START do|VBP i|PRP need|VBP to|TO use|VB modern|JJ portfolio|NN theory|NN to|TO allocate|VB my|PRP$ assets|NNS </s>|S_END
+<s>|S_START or|CC will|MD my|PRP$ gut|NN feel|NN for|IN the|DT riskreturn|NN of|IN each|DT asset|NN do|VBP </s>|S_END
+<s>|S_START david|VBD wilcox|NN orem|NN utah|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unless|IN your|PRP$ stomach|NN is|VBZ so|RB finely|RB tuned|VBN that|IN it|PRP can|MD not|RB only|RB gauge|VB the|DT risk|NN and|CC return|NN of|IN stocks|NNS bonds|NNS and|CC other|JJ assets|NNS but|CC how|WRB those|DT assets|NNS interact|VBP to|TO determine|VB your|PRP$ portfolios|NNS overall|JJ performance|NN id|VBD forget|NN about|IN the|DT gutfeel|NN approach|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT same|JJ time|NN though|IN you|PRP dont|VBP want|JJ to|TO put|VB too|RB much|RB faith|IN in|IN modern|JJ portfolio|NN theory|NN or|CC mpt|NN as|IN its|PRP$ affectionately|RB known|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START typically|RB investment|NN advisers|NNS who|WP use|NN mpt|VBD rely|RB on|IN optimizer|NN software|NN to|TO help|VB them|PRP create|VB a|DT portfolio|NN from|IN a|DT variety|NN of|IN investments|NNS stocks|NNS bonds|NNS real|JJ estate|NN commodities|NNS whatever|RB </s>|S_END
+<s>|S_START they|PRP plug|VBP in|IN each|DT assets|NNS expected|VBN return|NN volatility|NN and|CC correlation|NN to|TO all|DT the|DT others|NNS and|CC the|DT program|NN calculates|VBZ exactly|RB how|WRB much|RB of|IN each|DT asset|NN you|PRP should|MD put|VB in|IN your|PRP$ portfolio|NN so|IN that|IN theoretically|RB at|IN least|JJS youll|JJ get|NN the|DT highest|JJS possible|JJ return|NN for|IN whatever|NN level|NN of|IN risk|NN youre|NN willing|JJ to|TO accept|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC what|WP works|NNS fine|VBP in|IN theory|NN doesnt|NN always|RB turn|VB out|RP so|RB well|RB in|IN the|DT real|JJ world|NN </s>|S_END
+<s>|S_START investors|NNS armed|VBD with|IN optimizers|NNS can|MD often|RB create|VB extreme|NN portfolios|NNS that|WDT may|MD generate|VB underwhelming|VBG results|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT reason|NN is|VBZ that|IN while|IN the|DT basic|JJ info|NN you|PRP plug|VBP into|IN an|DT optimizer|NN seems|VBZ simple|JJ an|DT assets|NNS expected|VBN return|NN how|WRB much|RB it|PRP jumps|VBZ around|IN and|CC how|WRB it|PRP behaves|VBZ relative|JJ to|TO other|JJ assets|NNS is|VBZ anything|NN but|RB certain|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP can|MD calculate|VB those|DT figures|NNS for|IN the|DT past|JJ </s>|S_END
+<s>|S_START but|CC we|PRP dont|VBP know|VBP what|WP theyll|NN be|VB in|IN the|DT future|NN </s>|S_END
+<s>|S_START if|IN investments|NNS perform|VBP differently|RB in|IN the|DT future|NN than|IN they|PRP did|VBD in|IN the|DT past|JJ even|RB by|IN a|DT small|JJ amount|NN the|DT portfolio|NN that|IN was|VBD so|RB finely|RB crafted|VBN using|VBG mpt|NN can|MD perform|VB abysmally|RB much|RB as|IN a|DT racecar|NN designed|VBN for|IN the|DT indy|NN 500|CD would|MD if|IN it|PRP raced|VBD on|IN a|DT dirt|NN track|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP recommend|VBP a|DT hybrid|JJ approach|NN a|DT mixture|NN of|IN toneddown|NN portfolio|NN theory|NN and|CC common|JJ sense|NN that|IN can|MD reap|VB some|DT of|IN the|DT benefits|NNS of|IN mpt|NN without|IN overdoing|NN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO get|VB a|DT handle|NN on|IN the|DT quantitative|JJ aspects|NNS of|IN creating|VBG a|DT portfolio|NN of|IN different|JJ types|NNS of|IN stocks|NNS bonds|NNS and|CC funds|NNS you|PRP can|MD go|VB to|TO a|DT tool|NN like|IN morningstars|NNS asset|VBP allocator|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN you|PRP drag|VBP the|DT tools|NNS sliders|NNS to|TO create|VB different|JJ combinations|NNS of|IN assets|NNS you|PRP can|MD see|VB the|DT expected|VBN return|NN for|IN each|DT portfolio|NN as|IN well|RB as|IN its|PRP$ volatility|NN </s>|S_END
+<s>|S_START by|IN trying|VBG different|JJ asset|NN combos|NNS you|PRP can|MD home|VB in|IN on|IN a|DT riskreward|NN combo|NN that|WDT feels|VBZ right|RB for|IN you|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START or|CC if|IN you|PRP want|VBP a|DT simpler|NN approach|NN you|PRP can|MD just|RB go|VB to|TO our|PRP$ asset|NN allocation|NN tool|NN answer|NN a|DT couple|NN of|IN questions|NNS and|CC youll|JJ get|NN a|DT pie|NN chart|NN with|IN a|DT recommended|VBN mix|NN of|IN stock|NN and|CC bond|NN funds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START now|RB for|IN the|DT common|JJ sense|NN part|NN of|IN this|DT approach|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whatever|NN portfolio|NN you|PRP eventually|RB settle|VB on|IN realize|NN that|IN its|PRP$ not|RB going|VBG to|TO perform|NN exactly|RB as|IN you|PRP might|MD hope|VB </s>|S_END
+<s>|S_START financial|JJ markets|NNS are|VBP uncertain|RB and|CC no|DT theory|NN investment|NN strategy|NN or|CC combination|NN of|IN assets|NNS can|MD eliminate|VB that|IN uncertainty|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN id|JJ be|NN wary|JJ about|IN creating|VBG a|DT portfolio|NN thats|NNS highly|RB risky|JJ or|CC excessively|RB conservative|JJ </s>|S_END
+<s>|S_START you|PRP want|VBP to|TO avoid|VB a|DT mix|NN of|IN assets|NNS thats|NNS so|RB aggressive|JJ youll|NN end|NN up|IN abandoning|VBG it|PRP if|IN the|DT market|NN tanks|VBZ </s>|S_END
+<s>|S_START similarly|RB you|PRP dont|VBP want|JJ to|TO veer|NN so|IN much|RB to|TO the|DT safety|NN end|NN of|IN the|DT spectrum|NN that|IN you|PRP relegate|VBP yourself|PRP to|TO anemic|JJ returns|NNS over|IN the|DT long|JJ term|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START id|VBD also|RB caution|NN against|IN getting|VBG too|RB fancy|NN </s>|S_END
+<s>|S_START some|DT investors|NNS feel|VBP that|IN to|TO have|VB a|DT welldiversified|VBN portfolio|NN theyve|NN got|VBD to|TO have|VB exposure|NN to|TO every|DT type|NN of|IN fund|NN or|CC etf|NN out|IN there|EX not|RB to|TO mention|VB hedge|NN funds|NNS precious|JJ metals|NNS and|CC other|JJ commodities|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START simple|NN is|VBZ better|RBR </s>|S_END
+<s>|S_START you|PRP can|MD get|VB by|IN perfectly|RB well|RB with|IN a|DT combo|NN of|IN broadly|RB diversified|JJ us|PRP stock|NN and|CC bond|NN funds|NNS with|IN perhaps|RB a|DT dash|NN of|IN foreign|JJ stock|NN funds|NNS thrown|VBP in|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN youre|NN intent|NN on|IN also|RB adding|VBG a|DT small|JJ dollop|NN of|IN real|JJ estate|NN funds|NNS or|CC even|RB a|DT tiny|NN bit|NN of|IN exposure|NN to|TO commodities|NNS fine|NN </s>|S_END
+<s>|S_START but|CC be|VB careful|JJ </s>|S_END
+<s>|S_START as|IN investment|NN adviser|NN and|CC stop|VB the|DT investing|NN ripoff|NN author|NN dave|NN loeper|NN points|NNS out|IN in|IN fake|NN diversification|NN its|PRP$ a|DT mistake|NN to|TO assume|VB complicated|JJ portfolios|NNS perform|NN better|RBR </s>|S_END
+<s>|S_START he|PRP also|RB warns|VBZ that|IN advisors|NNS who|WP recommend|NN them|PRP may|MD be|VB doing|VBG so|RB to|TO justify|VB lofty|JJ fees|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP cant|VBP promise|VBP that|IN this|DT hybrid|NN mptcommon|NN sense|NN strategy|NN will|MD lead|VB to|TO superior|VB performance|NN </s>|S_END
+<s>|S_START but|CC if|IN you|PRP settle|VBP on|IN a|DT portfolio|NN thats|NNS diversified|VBD but|CC not|RB overly|RB so|RB and|CC reflects|NNS your|PRP$ true|JJ tolerance|NN for|IN risk|NN and|CC you|PRP periodically|RB rebalance|VBP youll|JJ have|VBP invested|VBN your|PRP$ money|NN in|IN a|DT rational|JJ and|CC sensible|JJ way|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START do|VBP you|PRP know|VB a|DT money|NN hero|NN </s>|S_END
+<s>|S_START money|NN magazine|NN is|VBZ celebrating|VBG people|NNS both|DT famous|JJ and|CC unsung|JJ who|WP have|VBP done|VBN extraordinary|JJ work|NN to|TO improve|VB others|NNS financial|JJ wellbeing|NN </s>|S_END
+<s>|S_START send|NN an|DT email|NN to|TO nominate|VB your|PRP$ money|NN hero |-NONE- </s>|S_END
+</p>|P_END
+

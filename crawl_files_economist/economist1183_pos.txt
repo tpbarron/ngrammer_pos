@@ -1,0 +1,16 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 24|CD gdp|NN $|$ 63bn|CD ppp|CD $|$ 124bn|CD inflation|NN 57|CD population|NN 112m|CD gdp|NN per|IN head|NN $|$ 5580|CD ppp|CD $|$ 11060|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START market|NN forces|NNS and|CC private|JJ enterprise|NN will|MD take|VB on|IN a|DT greater|JJR role|NN in|IN the|DT economy|NN under|IN the|DT strict|NN guidance|NN of|IN cubas|NNS communist|VBP party|NN </s>|S_END
+<s>|S_START it|PRP aims|VBZ to|TO shift|VB 1m|CD workers|NNS off|IN state|NN payrolls|NNS over|IN the|DT coming|VBG years|NNS phase|NN out|IN rationing|VBG and|CC unify|NN the|DT official|NN and|CC parallel|NN exchange|NN rate|NN </s>|S_END
+<s>|S_START if|IN the|DT ageing|NN leadership|NN can|MD implement|VB these|DT policies|NNS they|PRP could|MD unlock|VB enormous|JJ economic|JJ potential—but|NN not|RB in|IN 2012|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB lifeline|NN </s>|S_END
+<s>|S_START the|DT economy|NN is|VBZ underwritten|VBN by|IN a|DT deal|NN with|IN venezuela|NN which|WDT exchanges|NNS oil|VBP for|IN cuban|NN doctor|NN </s>|S_END
+<s>|S_START if|IN venezuelas|NNS leader|VBP hugo|RB chávez|JJ succumbs|NNS to|TO the|DT cancer|NN for|IN which|WDT he|PRP is|VBZ being|VBG treated|VBN the|DT tap|NN may|MD be|VB turned|VBN off|RP </s>|S_END
+</p>|P_END
+

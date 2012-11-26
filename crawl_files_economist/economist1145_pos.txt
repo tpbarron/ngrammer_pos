@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 38|CD gdp|NN $|$ 30bn|CD ppp|CD $|$ 37bn|CD inflation|NN 60|CD population|NN 67m|CD gdp|NN per|IN head|NN $|$ 4500|CD ppp|CD $|$ 5630|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ince|NN buying|VBG off|RP dissenters|NNS as|IN the|DT arab|NN spring|NN bloomed|VBD elsewhere|RB king|VBG abdullah|NN ii|NN has|VBZ walked|VBN a|DT narrow|NN line|NN between|IN angry|JJ protesters|NNS and|CC cosseted|VBD vested|VBN interest|NN </s>|S_END
+<s>|S_START protests|NNS will|MD continue|VB but|CC backed|VBN by|IN a|DT loyal|JJ and|CC efficient|JJ army|NN the|DT king|NN will|MD manage|VB to|TO stay|VB on|RP the|DT throne|NN </s>|S_END
+<s>|S_START the|DT purchase|NN of|IN peace|NN was|VBD not|RB cheap|VB the|DT budget|NN gap|NN will|MD stay|VB high|JJ but|CC foreign|JJ grants|NNS to|TO the|DT prowestern|NN regime|NN will|MD fill|VB it|PRP comfortably|RB </s>|S_END
+</p>|P_END
+

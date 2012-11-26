@@ -1,0 +1,38 @@
+<p>|P_START
+<s>|S_START rainy|NN days|NNS are|VBP rarely|RB welcome|VB </s>|S_END
+<s>|S_START but|CC in|IN america|NN where|WRB more|JJR than|IN 850|CD communities|NNS rely|RB on|IN ageing|VBG sewer|NN systems|NNS a|DT downpour|NN can|MD be|VB especially|RB bleak|JJ </s>|S_END
+<s>|S_START these|DT cities|NNS collect|VBP stormwater|NN and|CC sewage|NN in|IN the|DT same|JJ pipes|NNS which|WDT means|VBZ that|DT when|WRB sewers|NNS are|VBP overwhelmed|VBN raw|NN sewage|NN floods|NNS directly|RB into|IN rivers|NNS and|CC stream|NN </s>|S_END
+<s>|S_START new|JJ york|NN city|NN for|IN example|NN spills|NNS 520m|CD gallons|NNS 2|CD billion|CD litres|NNS of|IN sewage|NN into|IN waterways|NNS each|DT week|NN on|IN average|JJ according|VBG to|TO riverkeeper|JJR a|DT local|JJ advocacy|NN group|NN </s>|S_END
+<s>|S_START as|IN pipes|NNS erode|VBP the|DT problem|NN gets|VBZ worse|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT federal|JJ environmental|JJ protection|NN agency|NN epa|NN has|VBZ ordered|VBN a|DT number|NN of|IN cities|NNS to|TO upgrade|VB their|PRP$ treatment|NN of|IN stormwater|NN </s>|S_END
+<s>|S_START the|DT typical|JJ solution|NN is|VBZ for|IN a|DT city|NN to|TO build|VB larger|JJR pipes|NNS and|CC a|DT giant|JJ underground|NN tank|NN to|TO hold|VB the|DT excess|NN water|NN until|IN sewers|NNS can|MD handle|VB the|DT flow|NN </s>|S_END
+<s>|S_START but|CC this|DT is|VBZ often|RB expensive|JJ and|CC ineffective|JJ </s>|S_END
+<s>|S_START milwaukee|NN for|IN example|NN has|VBZ spent|VBN around|IN $|$ 4|CD billion|CD over|IN two|CD decades|NNS on|IN stormwater|NN management|NN but|CC still|RB dumps|VBZ billions|NNS of|IN gallons|NNS of|IN sewage|NN into|IN lake|NN michigan|VBD every|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN order|NN to|TO meet|VB the|DT epas|NNS cleanwater|NN standards|NNS philadelphia|VBP would|MD need|VB to|TO spend|VB an|DT estimated|VBN $|$ 8|CD billion|CD on|IN a|DT new|JJ underground|NN tank|NN </s>|S_END
+<s>|S_START but|CC the|DT cashpoor|NN city|NN has|VBZ crafted|VBN a|DT less|JJR expensive|JJ and|CC potentially|RB far|RB more|RBR beneficial|JJ scheme|NN which|WDT may|MD set|VB a|DT new|JJ precedent|NN for|IN urban|NN stormwater|NN management|NN </s>|S_END
+<s>|S_START called|VBN “green|JJ city|NN clean|NN waters”|NN the|DT plan|NN outlines|VBZ a|DT comprehensive|JJ $|$ 16|CD billion|CD 20year|JJ investment|NN in|IN green|JJ infrastructure—everything|JJ from|IN “green|JJ roofs”|NN covered|VBN with|IN vegetation|NN to|TO streetedge|VB gardens—to|JJ keep|NN excess|NN water|NN from|IN entering|VBG sewers|NNS in|IN the|DT first|JJ place|NN </s>|S_END
+<s>|S_START the|DT epa|NN has|VBZ yet|RB to|TO give|VB the|DT proposal|NN a|DT green|JJ light|NN but|CC city|NN officials|NNS hope|VBP that|IN they|PRP can|MD move|VB forward|RB with|IN the|DT plan|NN in|IN 2011|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START though|IN philadelphias|NNS plan|VBP is|VBZ the|DT most|RBS ambitious|JJ to|TO date|NN the|DT greeninfrastructure|NN trend|NN has|VBZ finally|RB taken|VBN root|NN in|IN north|JJ america|NN after|IN decades|NNS of|IN progress|NN in|IN europe|NN </s>|S_END
+<s>|S_START new|JJ york|NN for|IN example|NN has|VBZ run|VBN a|DT number|NN of|IN pilot|NN programmes|NNS around|IN the|DT city|NN involving|VBG everything|NN from|IN rain|NN barrels|NNS to|TO porous|JJ sidewalks|NNS and|CC hopes|NNS to|TO produce|VB a|DT comprehensive|JJ citywide|NN infrastructure|NN plan|NN in|IN 2011|CD </s>|S_END
+<s>|S_START other|JJ cities|NNS such|JJ as|IN milwaukee|NN chicago|IN and|CC seattle|NN are|VBP initiating|VBG more|JJR incentives|NNS for|IN residents|NNS and|CC businessowners|NNS to|TO manage|VB water|NN on|IN their|PRP$ own|JJ property|NN </s>|S_END
+<s>|S_START in|IN 2010|CD toronto|IN became|NN the|DT first|JJ north|NN american|NN city|NN to|TO require|VB green|JJ roofs|NNS on|IN parts|NNS of|IN all|DT new|JJ developments|NNS with|IN more|JJR than|IN 2000|CD square|NN metres|NNS of|IN gross|JJ floor|NN area|NN come|NN january|NN 2011|CD the|DT bylaw|NN will|MD apply|VB to|TO new|JJ industrial|JJ projects|NNS as|IN well|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START research|NN into|IN green|JJ infrastructure|NN has|VBZ shown|VBN that|IN it|PRP not|RB only|RB helps|VBZ cities|NNS handle|VBP their|PRP$ runoff|NN problems|NNS but|CC also|RB helps|VBZ to|TO cool|NN and|CC cleanse|NN urban|NN air|NN cut|VBD energy|NN costs|NNS reduce|VB asthma|NN and|CC create|VB new|JJ job|NN </s>|S_END
+<s>|S_START as|IN philadelphia|NN awaits|NNS the|DT epas|NNS verdict|VBP other|JJ big|JJ cities|NNS will|MD be|VB watching|VBG too|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START emily|RB bobrow|VBP arts|NNS correspondent|NN the|DT economist|NN and|CC online|NN editor|NN intelligent|NN life|NN </s>|S_END
+</p>|P_END
+

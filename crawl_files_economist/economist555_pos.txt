@@ -1,0 +1,51 @@
+<p>|P_START
+<s>|S_START twentyfive|JJ years|NNS ago|IN on|IN october|NN 19th|CD 1987|CD global|JJ stockmarkets|NNS suddenly|RB and|CC unexpectedly|RB collapsed|VBD on|IN what|WP instantly|RB became|VBD known|VBN as|IN black|JJ monday|NN </s>|S_END
+<s>|S_START the|DT dow|NN jones|NNS industrial|JJ average|NN fell|VBD by|IN almost|RB 23|CD in|IN a|DT single|JJ session|NN still|RB a|DT record|NN decline|NN </s>|S_END
+<s>|S_START at|IN the|DT time|NN analysts|NNS rushed|VBD to|TO look|VB backward|NN </s>|S_END
+<s>|S_START parallels|NNS with|IN the|DT 1929|CD crash|NN which|WDT preceded|VBN the|DT great|JJ depression|NN were|VBD immediately|RB made|VBN </s>|S_END
+<s>|S_START in|IN fact|NN they|PRP should|MD have|VB been|VBN looking|VBG forward|RB </s>|S_END
+<s>|S_START three|CD of|IN the|DT main|JJ reasons|NNS why|WRB the|DT crunch|NN happened|VBD in|IN 2007|CD date|NN back|RB to|TO 1987|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT biggest|JJS mistake|NN was|VBD to|TO do|VB with|IN monetary|JJ policy|NN </s>|S_END
+<s>|S_START central|JJ banks|NNS around|IN the|DT world|NN responded|VBD quickly|RB to|TO the|DT crash|NN some|DT cutting|VBG interest|NN rates|NNS others|NNS pumping|VBG money|NN into|IN the|DT system|NN </s>|S_END
+<s>|S_START “the|DT federal|JJ reserve|NN consistent|NN with|IN its|PRP$ responsibilities|NNS as|IN the|DT nation’s|NNP central|JJ bank|NN affirmed|VBD today|NN its|PRP$ readiness|NN to|TO serve|VB as|IN a|DT source|NN of|IN liquidity|NN to|TO support|VB the|DT economic|JJ and|CC financial|JJ system”|NN said|VBD alan|NN greenspan|NN recently|RB appointed|VBN as|IN head|NN of|IN the|DT fed|VBN </s>|S_END
+<s>|S_START calming|VBG a|DT fraught|NN financial|JJ system|NN made|VBN sense|NN at|IN the|DT time|NN but|CC it|PRP introduced|VBD the|DT idea|NN of|IN the|DT “greenspan|JJ put”|NN the|DT notion|NN that|IN central|JJ banks|NNS would|MD always|RB intervene|VB to|TO support|VB the|DT markets|NNS when|WRB they|PRP fell|VBD sharply|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT was|VBD compounded|VBN by|IN mr|NN greenspan|NN taking|VBG the|DT opposite|JJ position|NN when|WRB it|PRP came|VBD to|TO asset|VB bubbles|NNS that|WDT even|RB when|WRB prices|NNS were|VBD skyhigh|JJ it|PRP was|VBD not|RB the|DT job|NN of|IN central|JJ banks|NNS to|TO outguess|NN markets|NNS by|IN trying|VBG to|TO bring|VB them|PRP back|RB to|TO earth|VB </s>|S_END
+<s>|S_START the|DT oneday|NN price|NN fall|NN of|IN 23|CD in|IN 1987|CD seemingly|RB unconnected|VBN to|TO economic|JJ fundamentals|NNS gave|VBP a|DT hint|NN that|WDT markets|VBZ are|VBP not|RB always|RB efficient|JJ </s>|S_END
+<s>|S_START but|CC mr|PRP$ greenspan|NN declined|VBD this|DT newspaper’s|JJ advice|NN to|TO intervene|VB both|DT when|WRB dotcom|NN stocks|NNS surged|VBD in|IN the|DT late|JJ 1990s|CD and|CC when|WRB house|NN prices|NNS rocketed|VBD in|IN the|DT early|JJ 2000|CD </s>|S_END
+<s>|S_START for|IN investors|NNS markets|NNS became|VBD a|DT oneway|NN bet|NN central|JJ banks|NNS would|MD intervene|VB when|WRB markets|NNS were|VBD falling|VBG but|CC not|RB when|WRB they|PRP were|VBD rising|VBG </s>|S_END
+<s>|S_START the|DT “great|JJ moderation”|NN was|VBD a|DT long|JJ period|NN of|IN steady|JJ growth|NN and|CC low|JJ inflation—and|NN a|DT huge|JJ buildup|NN of|IN debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT second|JJ mistake|NN was|VBD to|TO enlarge|VB the|DT protected|VBN part|NN of|IN finance|NN </s>|S_END
+<s>|S_START before|IN 1987|CD the|DT focus|NN was|VBD on|IN the|DT big|JJ deposittaking|NN banks|NNS stockbrokers|NNS and|CC investment|NN banks|NNS were|VBD relatively|RB unimportant|JJ players|NNS in|IN the|DT system|NN </s>|S_END
+<s>|S_START but|CC after|IN black|JJ monday|NN with|IN equity|NN markets|NNS dominating|VBG the|DT headlines|NNS policymakers|NNS expanded|VBD the|DT concept|NN of|IN systemic|JJ risk|NN to|TO other|JJ forms|NNS of|IN finance—which|JJ encouraged|JJ banks|NNS and|CC others|NNS to|TO sprawl|VB </s>|S_END
+<s>|S_START by|IN 2007|CD banks|NNS like|IN citigroup|NN and|CC insurance|NN companies|NNS like|IN american|JJ international|JJ group|NN had|VBD grown|VBN “too|-NONE- big|JJ to|TO fail”|NNP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT third|JJ mistake|NN was|VBD to|TO do|VB with|IN trading|NN </s>|S_END
+<s>|S_START in|IN the|DT mid1980s|NNP many|JJ institutional|JJ investors|NNS adopted|VBN “portfolio|-NONE- insurance”|-NONE- a|DT way|NN of|IN hedging|NN against|IN market|NN decline|NN </s>|S_END
+<s>|S_START it|PRP involved|VBD selling|VBG stockmarket|NN futures|NNS so|RB that|IN investors’|JJ gains|NNS in|IN the|DT derivatives|NNS market|NN offset|NN their|PRP$ losses|NNS on|IN their|PRP$ equity|NN portfolio|NN </s>|S_END
+<s>|S_START but|CC the|DT technique|NN exacerbated|VBD the|DT market’s|NNP decline|NN as|IN waves|NNS of|IN futuresselling|VBG alarmed|VBN equity|NN investor|NN </s>|S_END
+<s>|S_START the|DT lesson|NN that|IN should|MD have|VB been|VBN learned|VBN was|VBD that|IN the|DT market|NN can|MD not|RB insure|VB itself|PRP if|IN most|JJS investors|NNS want|VBP to|TO sell|VB assets|NNS there|RB will|MD be|VB no|RB one|CD on|IN the|DT other|JJ side|NN of|IN the|DT trade|NN with|IN a|DT big|JJ enough|RB wallet|JJ to|TO buy|VB them|PRP </s>|S_END
+<s>|S_START twenty|NN years|NNS later|RBR the|DT same|JJ problem|NN was|VBD demonstrated|VBN when|WRB investors|NNS stampeded|VBN for|IN the|DT exits|NNS in|IN the|DT securitised|VBN mortgage|NN market|NN </s>|S_END
+<s>|S_START with|IN no|DT willing|JJ buyers|NNS prices|NNS collapsed|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START put|VB in|IN its|PRP$ place|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN trading|NN then|RB investors|NNS and|CC their|PRP$ regulators|NNS simply|RB failed|VBD to|TO learn|VB anything|NN and|CC made|VBD the|DT same|JJ mistake|NN again|RB </s>|S_END
+<s>|S_START but|CC the|DT other|JJ two|CD errors|NNS sprang|IN more|JJR from|IN policymakers|NNS opting|VBG for|IN a|DT solution|NN that|WDT itself|PRP created|VBD problem|NN </s>|S_END
+<s>|S_START perhaps|RB the|DT biggest|JJS conclusion|NN of|IN all|DT is|VBZ that|IN any|DT extended|JJ period|NN of|IN rapidly|RB rising|VBG prices|NNS is|VBZ an|DT indication|NN of|IN a|DT bubble—and|JJ that|IN sadly|RB there|EX is|VBZ no|DT painless|NN way|NN to|TO clean|VB up|RP the|DT mess|NN after|IN the|DT bubble|JJ pop|NN </s>|S_END
+</p>|P_END
+

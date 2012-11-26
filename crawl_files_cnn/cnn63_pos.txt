@@ -1,0 +1,80 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN money|NN magazine|NN how|WRB can|MD i|VB find|VB out|RP if|IN my|PRP$ 401k|CD funds|NNS are|VBP invested|VBN in|IN companies|NNS that|WDT ship|NN american|MD jobs|NNS offshore|VB </s>|S_END
+<s>|S_START kevin|NN thousand|VBD oaks|NNS calif|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT issue|NN of|IN american|JJ companies|NNS outsourcing|VBG jobs|NNS to|TO foreign|JJ countries|NNS has|VBZ gotten|VBN lots|NNS of|IN attention|NN throughout|IN the|DT presidential|JJ race|NN </s>|S_END
+<s>|S_START thats|NNS not|RB surprising|VBG </s>|S_END
+<s>|S_START any|DT move|NN thats|NNS perceived|VBD as|IN hurting|NN already|RB struggling|VBG american|JJ workers|NNS is|VBZ going|VBG to|TO arouse|VB controversy|NN and|CC passions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC at|IN the|DT risk|NN of|IN offending|VBG you|PRP and|CC others|NNS who|WP may|MD see|VB this|DT practice|NN as|IN unpatriotic|JJ or|CC worse|NN my|PRP$ advice|NN is|VBZ that|IN you|PRP put|VBD this|DT issue|NN aside|NN when|WRB deciding|VBG how|WRB to|TO invest|VB your|PRP$ 401k|CD or|CC any|DT other|JJ savings|NNS for|IN that|DT matter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP say|VBP this|DT for|IN several|JJ reasons|NNS </s>|S_END
+<s>|S_START one|CD is|VBZ that|IN i|PRP dont|VBP know|RB of|IN any|DT rigorous|JJ way|NN to|TO identify|VB firms|NNS that|WDT ship|NN or|CC may|MD ship|VB jobs|NNS offshore|IN </s>|S_END
+<s>|S_START its|PRP$ not|RB something|VBG you|PRP can|MD screen|VB for|IN like|IN rising|VBG revenues|NNS low|JJ priceearnings|NNS ratios|NNS or|CC a|DT high|JJ return|NN on|IN equity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC while|IN its|PRP$ easy|JJ to|TO say|VB you|PRP dont|VB want|JJ to|TO invest|VB in|IN firms|NNS that|WDT export|NN american|MD jobs|NNS its|PRP$ quite|JJ another|DT to|TO determine|VB which|WDT companies|NNS you|PRP would|MD consider|VB guilty|JJ of|IN that|DT offense|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN example|NN if|IN a|DT large|JJ company|NN shifts|NNS an|DT operation|NN abroad|NN resulting|VBG in|IN the|DT loss|NN of|IN 100|CD us|PRP jobs|VBZ then|RB later|JJ that|IN year|NN hires|NNS an|DT added|JJ 100|CD people|NNS at|IN a|DT different|JJ us|PRP division|NN would|MD you|PRP still|RB consider|VBP it|PRP a|DT job|NN exporter|NN even|RB though|IN the|DT overall|JJ count|NN of|IN american|JJ jobs|NNS stayed|VBN the|DT same|JJ </s>|S_END
+<s>|S_START what|WP if|IN the|DT company|NN added|VBD 200|CD jobs|NNS here|RB giving|VBG it|PRP a|DT net|JJ gain|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD ground|VBN rules|NNS for|IN retirement|NN investing|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START or|CC how|WRB about|IN this|DT scenario|NN two|CD identical|JJ companies|NNS make|VBP video|RB game|NN controllers|NNS except|IN one|CD has|VBZ always|RB imported|VBN joysticks|NNS from|IN abroad|RB while|IN the|DT other|JJ has|VBZ always|RB made|VBN them|PRP in|IN its|PRP$ own|JJ facility|NN here|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START suppose|NN the|DT company|NN that|WDT makes|VBZ its|PRP$ own|JJ joysticks|NNS closes|NNS its|PRP$ plant|NN here|RB and|CC builds|NNS one|CD in|IN a|DT foreign|JJ country|NN to|TO lower|JJR costs|NNS and|CC stay|NN competitive|JJ </s>|S_END
+<s>|S_START presumably|RB it|PRP would|MD be|VB guilty|JJ of|IN shipping|NN jobs|NNS overseas|RB while|IN the|DT company|NN that|WDT has|VBZ always|RB imported|VBN joysticks|NNS wouldnt|VBP be|VB as|IN it|PRP never|RB had|VBD a|DT joystick|NN plant|NN in|IN the|DT us|PRP to|TO close|VB </s>|S_END
+<s>|S_START but|CC are|VBP the|DT two|CD companies|NNS really|RB doing|VBG anything|NN different|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN course|NN i|PRP suppose|VBP you|PRP could|MD say|VB you|PRP wouldnt|VB want|JJ to|TO invest|VB in|IN the|DT company|NN that|WDT imports|VBZ joysticks|NNS either|DT as|IN it|PRP could|MD use|VB an|DT american|JJ manufacturer|NN of|IN the|DT components|NNS instead|RB </s>|S_END
+<s>|S_START but|CC if|IN you|PRP start|VBP eliminating|VBG companies|NNS because|IN they|PRP import|VBP parts|NNS from|IN abroad|RB youre|NN going|VBG to|TO have|VB a|DT small|JJ universe|NN of|IN companies|NNS to|TO choose|VB from|IN when|WRB putting|VBG together|RB a|DT portfolio|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB if|IN you|PRP could|MD come|VB up|RP with|IN some|DT broad|JJ principles|NNS to|TO sort|VB out|RP such|JJ complexities|NNS you|PRP would|MD still|RB run|VB into|IN practical|JJ difficulties|NNS on|IN the|DT investing|NN front|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN one|CD thing|NN most|JJS 401ks|CD offer|NN a|DT menu|NN of|IN mutual|JJ funds|NNS or|CC similar|JJ investment|NN pools|NNS that|WDT contain|NN hundreds|VBZ or|CC even|RB thousands|NNS of|IN businesses|NNS </s>|S_END
+<s>|S_START assuming|VBG you|PRP go|VBP to|TO the|DT trouble|NN of|IN sifting|VBG through|IN all|DT the|DT companies|NNS in|IN a|DT fund|NN in|IN hopes|NNS of|IN identifying|VBG job|NN exporters|NNS you|PRP still|RB wouldnt|VBP be|VB able|JJ to|TO exclude|VB offenders|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB you|PRP invest|VBP in|IN a|DT fund|NN you|PRP get|VBP all|DT the|DT companies|NNS in|IN that|DT fund|NN </s>|S_END
+<s>|S_START you|PRP cant|VBD pick|NN and|CC choose|VB companies|NNS within|IN a|DT fund|NN </s>|S_END
+<s>|S_START you|PRP could|MD decide|VB not|RB to|TO invest|VB in|IN that|DT fund|NN </s>|S_END
+<s>|S_START but|CC i|PRP suspect|VBP that|IN almost|RB any|DT fund|NN in|IN a|DT 401k|CD roster|NN is|VBZ going|VBG to|TO include|VB at|IN least|JJS some|DT companies|NNS that|WDT have|VBP relocated|VBN operations|NNS abroad|RB or|CC that|IN might|MD in|IN the|DT future|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD why|WRB theres|NNS no|DT such|JJ thing|NN as|IN riskfree|JJ investing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START finally|RB even|RB if|IN you|PRP were|VBD somehow|RB able|JJ to|TO create|VB a|DT portfolio|NN made|VBN up|RP solely|RB of|IN companies|NNS that|WDT havent|NN shipped|VBD jobs|NNS overseas|RB and|CC wont|NN in|IN the|DT future|NN im|NN not|RB sure|JJ it|PRP would|MD be|VB a|DT portfolio|NN you|PRP would|MD want|VB to|TO own|VB purely|RB from|IN an|DT investing|NN point|NN of|IN view|NN </s>|S_END
+<s>|S_START at|IN the|DT very|RB least|JJS i|PRP expect|VBP it|PRP would|MD be|VB difficult|JJ to|TO build|VB a|DT truly|RB diversified|VBN portfolio|NN operating|NN under|IN that|DT jobs|NNS constraint|VBP </s>|S_END
+<s>|S_START in|IN any|DT case|NN building|NN such|JJ a|DT portfolio|NN would|MD require|VB a|DT huge|JJ amount|NN of|IN time|NN and|CC effort|NN not|RB to|TO mention|VB expertise|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bottom|NN line|NN if|IN you|PRP want|VBP to|TO make|VB outsourcing|VBG a|DT factor|NN in|IN choosing|NN political|JJ candidates|NNS or|CC you|PRP want|VBP to|TO advocate|VB for|IN specific|JJ policies|NNS in|IN this|DT area|NN go|VBP for|IN it|PRP </s>|S_END
+<s>|S_START but|CC when|WRB it|PRP comes|VBZ to|TO investing|NN your|PRP$ 401k|CD i|PRP recommend|VBP you|PRP ignore|JJR this|DT issue|NN and|CC focus|NN on|IN building|NN the|DT best|JJS retirement|NN portfolio|NN you|PRP can|MD </s>|S_END
+</p>|P_END
+

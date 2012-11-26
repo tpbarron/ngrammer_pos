@@ -1,0 +1,58 @@
+<p>|P_START
+<s>|S_START in|IN most|JJS industries|NNS the|DT loss|NN of|IN a|DT few|JJ thousand|NN jobs|NNS usually|RB prompts|VBZ a|DT rash|NN of|IN sympathetic|JJ newspaper|NN article|NN </s>|S_END
+<s>|S_START if|IN the|DT jobs|NNS are|VBP in|IN manufacturing|NN politicians|NNS will|MD compete|VB in|IN offering|NN proposals|NNS to|TO revive|VB them|PRP </s>|S_END
+<s>|S_START when|WRB thousands|NNS of|IN jobs|NNS are|VBP lost|VBN in|IN investment|NN banks|NNS however|RB there|RB is|VBZ barely|RB disguised|VBN glee|NN </s>|S_END
+<s>|S_START instead|RB of|IN offering|NN soothing|VBG words|NNS and|CC subsidies|NNS politicians|NNS promise|VBP to|TO crack|VB down|RP even|RB harder|JJR on|IN banks|NNS and|CC regulators|NNS draft|VBD new|JJ rules|NNS to|TO hobble|JJ them|PRP further|JJ or|CC tax|NN them|PRP more|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START much|RB of|IN the|DT opprobrium|NN is|VBZ focused|VBN on|IN “casino”|NNP investment|NN banking|NN </s>|S_END
+<s>|S_START the|DT list|NN of|IN measures|NNS to|TO curb|VB the|DT gambling|NN is|VBZ already|RB long|RB </s>|S_END
+<s>|S_START in|IN britain|NN banks|NNS will|MD have|VB to|TO “ringfence”|VB their|PRP$ retailbanking|NN businesses|NNS to|TO protect|VB them|PRP from|IN the|DT failure|NN of|IN their|PRP$ investment|NN bank|NN </s>|S_END
+<s>|S_START in|IN america|NN the|DT volcker|NN rule|NN aims|VBZ to|TO stop|VB banks|NNS trading|NN for|IN their|PRP$ own|JJ profit|NN </s>|S_END
+<s>|S_START more|JJR restrictions|NNS are|VBP coming|VBG </s>|S_END
+<s>|S_START in|IN europe|NN a|DT committee|NN of|IN experts|NNS weighing|VBG the|DT merits|NNS of|IN either|DT a|DT ringfence|NN or|CC a|DT volcker|NN rule|NN seems|VBZ likely|JJ to|TO suggest|VB that|IN brussels|NNS should|MD adopt|VB both|DT in|IN addition|NN to|TO rules|NNS limiting|VBG bonuse|NN </s>|S_END
+<s>|S_START european|JJ officials|NNS are|VBP pressing|VBG for|IN a|DT tax|NN on|IN financial|JJ transactions|NNS that|WDT could|MD cost|VB many|JJ more|RBR jobs|NNS on|IN banks’|JJ trading|NN desk|NN </s>|S_END
+<s>|S_START efforts|NNS to|TO shift|VB much|JJ more|RBR derivatives|NNS trading|VBG on|IN to|TO exchanges|NNS will|MD also|RB eat|VB into|IN investmentbanking|NN margin|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT house|NN lose|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN so|RB many|JJ rules|NNS still|RB in|IN the|DT works|NNS you|PRP could|MD be|VB forgiven|VBN for|IN thinking|NN that|WDT the|DT casino|NN was|VBD packed|VBN with|IN gamblers|NNS and|CC still|RB in|IN urgent|NN need|NN of|IN regulation|NN </s>|S_END
+<s>|S_START on|IN the|DT contrary|NN the|DT industry|NN that|IN politicians|NNS and|CC voters|NNS wish|VBP to|TO humble|JJ has|VBZ already|RB been|VBN brought|VBN to|TO its|PRP$ knees|NNS by|IN a|DT downturn|NN in|IN financial|JJ markets|NNS and|CC by|IN changes|NNS to|TO the|DT rules|NNS on|IN capital|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT full|JJ effects|NNS of|IN these|DT changes|NNS are|VBP yet|RB to|TO be|VB felt|VBN but|CC some|DT consequences|NNS are|VBP already|RB clear|JJ see|NN article|NN </s>|S_END
+<s>|S_START nomura|NN a|DT japanese|JJ bank|NN that|WDT pounced|VBN on|IN the|DT european|JJ and|CC asian|JJ arms|NNS of|IN lehman|NN brothers|NNS is|VBZ licking|VBG its|PRP$ wounds|NNS and|CC retreating|VBG from|IN its|PRP$ ambitions|NNS to|TO build|VB a|DT global|JJ investmentbanking|NN powerhouse|NN </s>|S_END
+<s>|S_START deutsche|PRP bank|VBD long|RB reliant|JJ on|IN its|PRP$ investment|NN bank|NN to|TO boost|VB profits|NNS now|RB hopes|VBZ for|IN utilitylike|NN returns|NNS on|IN equity|NN of|IN just|RB 12|CD compared|VBN with|IN the|DT 20|CD it|PRP used|VBD to|TO earn|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT retreat|NN also|RB has|VBZ a|DT human|JJ cost|NN </s>|S_END
+<s>|S_START the|DT financial|JJ industry|NN in|IN london|NN the|DT world’s|NNS most|JJS international|JJ banking|NN hub|NN will|MD probably|RB have|VB shed|VBN 100000|CD jobs|NNS by|IN the|DT end|NN of|IN this|DT year|NN from|IN its|PRP$ peak|NN of|IN 354000|CD in|IN 2007|CD </s>|S_END
+<s>|S_START in|IN new|JJ york|NN the|DT industry|NN employs|VBZ 20000|CD fewer|JJR people|NNS than|IN it|PRP did|VBD before|IN the|DT crisis|NN and|CC it|PRP is|VBZ likely|JJ to|TO lose|VB 2600|CD more|JJR jobs|NNS this|DT year|NN </s>|S_END
+<s>|S_START pay|NN is|VBZ also|RB falling|VBG fast—down|JJ by|IN about|RB 30|CD since|IN 2007—and|CD it|PRP comes|VBZ with|IN new|JJ string|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN of|IN the|DT industry’s|JJ shrinkage|NN is|VBZ overdue|JJ </s>|S_END
+<s>|S_START bank|NN profits|NNS soared|VBD in|IN the|DT years|NNS before|IN the|DT crisis|NN as|IN western|JJ economies|NNS binged|VBD on|IN cheap|NN credit|NN </s>|S_END
+<s>|S_START that|DT bubble|JJ has|VBZ now|RB burst|RB </s>|S_END
+<s>|S_START rules|NNS on|IN capital|NN and|CC liquidity|NN known|VBN as|IN basel|NN 3|CD are|VBP already|RB crushing|VBG returns|NNS and|CC that|IN in|IN turn|NN is|VBZ bearing|VBG down|IN on|IN both|DT pay|NN and|CC employment|NN </s>|S_END
+<s>|S_START again|RB this|DT is|VBZ broadly|RB a|DT good|JJ thing|NN </s>|S_END
+<s>|S_START weak|JJ capital|NN standards|NNS before|IN the|DT crisis|NN encouraged|VBD banks|NNS to|TO borrow|VB too|RB much|RB and|CC led|VBN investment|NN banks|NNS in|IN particular|JJ to|TO hold|VB more|JJR trading|NN assets|NNS than|IN was|VBD good|JJ for|IN them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB there|RB is|VBZ also|RB a|DT danger|NN of|IN regulating|VBG too|RB fiercely|RB </s>|S_END
+<s>|S_START rules|NNS on|IN securitisation|NN on|IN both|DT sides|NNS of|IN the|DT atlantic|JJ for|IN instance|NN are|VBP making|VBG it|PRP harder|JJR for|IN banks|NNS to|TO shed|JJ risk|NN and|CC free|JJ up|RP their|PRP$ balancesheets|NNS to|TO keep|VB making|VBG new|JJ loan|NN </s>|S_END
+<s>|S_START by|IN unlocking|NN the|DT capital|NN markets|NNS and|CC helping|VBG firms|NNS to|TO manage|VB risks|NNS investment|NN banks|NNS are|VBP important|JJ conduits|NNS of|IN credit|NN to|TO economies|NNS beset|VB by|IN slow|JJ growth|NN and|CC government|NN retrenchment|NN </s>|S_END
+<s>|S_START as|IN more|JJR scandals|NNS emerge—as|-NONE- they|PRP surely|RB will|MD not|RB least|VB as|IN a|DT result|NN of|IN investigations|NNS into|IN the|DT rigging|NN of|IN the|DT libor|NN interest|NN rate—politicians|NNS and|CC regulators|NNS will|MD be|VB tempted|VBN to|TO pile|VB on|IN yet|NN more|JJR rule|NN </s>|S_END
+<s>|S_START they|PRP should|MD be|VB careful|JJ </s>|S_END
+<s>|S_START the|DT industry|NN is|VBZ already|RB changing|VBG </s>|S_END
+</p>|P_END
+

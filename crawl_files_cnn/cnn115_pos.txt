@@ -1,0 +1,60 @@
+<p>|P_START
+<s>|S_START food|NN prices|NNS ticked|VBD up|RB 01|CD in|IN july|RB but|CC consumers|NNS got|VBD relief|JJ from|IN energy|NN prices|NNS which|WDT fell|VBD 03|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN consumer|NN prices|NNS held|VBD steady|JJ last|JJ month|NN as|IN falling|VBG energy|NN prices|NNS largely|RB canceled|VBD out|IN slight|NN increases|NNS in|IN food|NN clothing|NN and|CC shelter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT governments|NNS key|VBP measure|NN of|IN inflation|NN the|DT consumer|NN price|NN index|NN showed|VBD consumer|NN prices|NNS were|VBD unchanged|JJ in|IN july|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economists|NNS had|VBD expected|VBN prices|NNS to|TO edge|VB up|RP 02|CD over|IN the|DT month|NN driven|RB partly|RB by|IN rising|VBG food|NN prices|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START steady|JJ prices|NNS could|MD be|VB a|DT welcome|NN sign|NN for|IN the|DT economy|NN if|IN they|PRP lead|VBP to|TO a|DT pickup|NN in|IN consumer|NN spending|NN </s>|S_END
+<s>|S_START earlier|JJR this|DT week|NN a|DT separate|JJ report|NN showed|VBD retail|JJ sales|NNS recently|RB rose|VBD for|IN the|DT first|JJ time|NN in|IN four|CD months|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC a|DT low|JJ inflation|NN rate|NN can|MD also|RB be|VB a|DT sign|NN of|IN weak|JJ demand|NN </s>|S_END
+<s>|S_START along|IN with|IN flat|JJ hourly|RB wages|VBZ in|IN july|RB it|PRP shows|VBZ consumers|NNS arent|NN necessarily|RB any|DT better|JJR off|IN in|IN july|RB than|IN they|PRP were|VBD a|DT month|NN earlier|RBR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lower|JJR prices|NNS are|VBP good|JJ because|IN they|PRP leave|VBP more|RBR money|NN in|IN consumers|NNS pockets|NNS said|VBD james|NNS marple|NN senior|JJ economist|NN with|IN td|NN economics|NNS </s>|S_END
+<s>|S_START on|IN the|DT other|JJ hand|NN it|PRP does|VBZ represent|VB a|DT relatively|RB weak|JJ economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN the|DT midwest|NN drought|NN food|NN prices|NNS only|RB ticked|VBD up|RP 01|CD </s>|S_END
+<s>|S_START higher|JJR prices|NNS on|IN corn|NN wheat|NN and|CC soybeans|NNS are|VBP likely|JJ to|TO drive|JJ inflation|NN higher|JJR later|JJ this|DT year|NN but|CC only|RB slightly|RB given|VBN food|NN accounts|NNS for|IN only|RB 14|CD of|IN the|DT cpis|NNS basket|NN of|IN goods|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START us|PRP drought|VBD drives|NNS up|IN food|NN prices|NNS worldwide|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB consumers|NNS got|VBD relief|JJ from|IN lower|JJR prices|NNS on|IN electricity|NN and|CC fuel|NN oil|NN in|IN july|RB </s>|S_END
+<s>|S_START overall|JJ energy|NN prices|NNS fell|VBD 03|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START prices|NNS rose|VBD slightly|RB on|IN clothing|NN shelter|NN and|CC medical|JJ care|NN </s>|S_END
+<s>|S_START the|DT price|NN of|IN traveling|VBG declined|VBN significantly|RB though|IN as|IN both|DT airfares|NNS and|CC prices|NNS at|IN motels|NNS and|CC hotels|NNS fell|VBD around|IN 3|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN an|DT annual|JJ basis|NN the|DT cpi|NN was|VBD up|RB 14|CD a|DT slowdown|NN from|IN june|NN when|WRB it|PRP was|VBD up|RB 17|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tame|NN prices|NNS could|MD give|VB the|DT federal|JJ reserve|NN some|DT leeway|NN to|TO stimulate|VB the|DT economy|NN at|IN its|PRP$ next|JJ meeting|NN in|IN september|NN </s>|S_END
+<s>|S_START the|DT central|JJ bank|NN aims|NNS to|TO keep|VB core|NN inflation|NN around|IN 2|CD a|DT year|NN </s>|S_END
+<s>|S_START that|DT measure|NN which|WDT strips|NNS out|IN food|NN and|CC energy|NN prices|NNS is|VBZ currently|RB up|IN 21|CD </s>|S_END
+</p>|P_END
+

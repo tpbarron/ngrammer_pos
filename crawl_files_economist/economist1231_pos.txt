@@ -1,0 +1,61 @@
+<p>|P_START
+<s>|S_START geologists|NNS have|VBP long|RB known|VBN that|IN some|DT marine|NN earthquakes|VBZ generate|JJ fierce|NN tsunamis|NNS and|CC some|DT do|VBP not|RB </s>|S_END
+<s>|S_START but|CC as|IN the|DT situation|NN in|IN japan|NN makes|VBZ painfully|RB clear|JJ there|EX is|VBZ no|DT good|JJ way|NN for|IN people|NNS being|VBG tossed|VBN around|IN by|IN a|DT tremor|NN to|TO know|VB the|DT difference|NN until|IN a|DT wave|NN arrive|NN </s>|S_END
+<s>|S_START a|DT new|JJ earthquakemonitoring|NN system|NN developed|VBD by|IN andrew|NN newman|NN and|CC jaime|VB convers|NNS at|IN the|DT georgia|NN institute|NN of|IN technology|NN may|MD however|RB help|VB to|TO change|VB that|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START during|IN an|DT earthquake|NN the|DT earths|NNS crust|VBP is|VBZ uplifted|VBN </s>|S_END
+<s>|S_START if|IN the|DT epicentre|NN is|VBZ on|IN the|DT seabed|VBN that|IN also|RB lifts|VBZ the|DT water|NN above|IN the|DT bed|VBN creating|VBG a|DT wave|NN </s>|S_END
+<s>|S_START however|RB the|DT size|NN of|IN this|DT wave|NN varies|VBZ with|IN the|DT nature|NN of|IN the|DT uplift|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN tsunamigenerating|NN purposes|NNS earthquakes|VBZ can|MD generally|RB be|VB divided|VBN into|IN two|CD sort|NN </s>|S_END
+<s>|S_START deep|NN ones|NNS as|IN a|DT rule|NN of|IN thumb|NN those|DT below|IN 20km|CD or|CC 12|CD miles|NNS generate|VBP small|JJ or|CC nonexistent|JJ tsunamis|NNS because|IN their|PRP$ uplifting|NN effects|NNS are|VBP absorbed|VBN by|IN the|DT overburden|JJ </s>|S_END
+<s>|S_START hallow|NN ones|NNS above|IN 20km|CD whose|WP$ full|JJ crustdisplacing|NN force|NN is|VBZ felt|VBN at|IN the|DT surface|NN are|VBP the|DT danger|NN </s>|S_END
+<s>|S_START the|DT problem|NN is|VBZ deciding|VBG which|WDT is|VBZ which|WDT </s>|S_END
+<s>|S_START once|RB all|DT the|DT data|NNS are|VBP in|IN an|DT earthquakes|NNS depth|NN can|MD be|VB worked|VBN out|RP with|IN reasonable|JJ accuracy|NN </s>|S_END
+<s>|S_START but|CC that|DT takes|VBZ time|NN </s>|S_END
+<s>|S_START the|DT recent|JJ japanese|NN quake|NN for|IN example|NN was|VBD thought|VBN initially|RB to|TO have|VB happened|VBN 83km|CD down|IN </s>|S_END
+<s>|S_START the|DT latest|JJS measurements|NNS suggests|VBZ its|PRP$ depth|NN was|VBD actually|RB 30km|CD </s>|S_END
+<s>|S_START normally|RB that|IN would|MD still|RB put|VB it|PRP in|IN the|DT class|NN of|IN safe|NN earthquakes|VBZ but|CC it|PRP was|VBD so|RB powerful|JJ that|IN the|DT usual|JJ rules|NNS did|VBD not|RB apply|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT secret|NN of|IN the|DT new|JJ method|NN is|VBZ that|IN depth|NN changes|NNS an|DT earthquakes|NNS character|NN in|IN ways|NNS other|JJ than|IN just|RB its|PRP$ tsunamigenerating|NN propensity|NN </s>|S_END
+<s>|S_START the|DT rupture|NN in|IN the|DT rock|NN that|IN causes|NNS a|DT deep|NN earthquake|NN propagates|VBZ rapidly—at|JJ about|IN 3km|CD a|DT second|JJ </s>|S_END
+<s>|S_START a|DT shallow|JJ rupture|NN moves|NNS more|RBR slowly|RB 1½km|CD a|DT second|JJ is|VBZ common|JJ </s>|S_END
+<s>|S_START the|DT speed|NN seems|VBZ related|VBN to|TO the|DT rigidity|NN of|IN the|DT rock|NN that|IN is|VBZ rupturing|VBG and|CC deep|VB rock|NN which|WDT is|VBZ under|IN more|RBR pressure|NN is|VBZ more|RBR rigid|JJ </s>|S_END
+<s>|S_START hallow|NN rocks|NNS bend|VBP and|CC that|IN slows|NNS the|DT rupture|NN down|IN </s>|S_END
+<s>|S_START the|DT effect|NN is|VBZ to|TO give|VB seismologists|NNS a|DT tool|NN they|PRP can|MD use|VB to|TO make|VB an|DT instant|JJ estimate|NN of|IN an|DT earthquakes|NNS depth|NN and|CC thus|RB if|IN it|PRP is|VBZ submarine|NN the|DT risk|NN of|IN its|PRP$ creating|NN a|DT big|JJ tsunami|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT system|NN dr|NN newman|NN and|CC mr|NN convers|NNS have|VBP developed|VBN taps|NNS into|IN hundreds|NNS of|IN seismic|JJ monitoring|NN stations|NNS around|IN the|DT world|NN </s>|S_END
+<s>|S_START when|WRB an|DT earthquake|NN is|VBZ detected|VBN the|DT software|NN immediately|RB looks|VBZ at|IN the|DT size|NN of|IN the|DT tremor|NN and|CC the|DT location|NN of|IN its|PRP$ epicentre|NN </s>|S_END
+<s>|S_START if|IN the|DT quakes|NNS magnitude|VBP is|VBZ greater|JJR than|IN 65|CD and|CC the|DT epicentre|NN is|VBZ underwater|NN it|PRP then|RB requests|VBZ information|NN from|IN the|DT relevant|JJ stations|NNS on|IN how|WRB long|JJ the|DT earthquake|NN took|VBD from|IN beginning|NN to|TO end|VB </s>|S_END
+<s>|S_START that|DT allows|VBZ it|PRP to|TO work|VB out|RP how|WRB quickly|RB energy|NN was|VBD released|VBN by|IN the|DT earthquake|NN and|CC thus|RB how|WRB fast|JJ the|DT rupture|NN propagated|VBD </s>|S_END
+<s>|S_START an|DT energyrelease|NN rate|NN indicating|VBG a|DT rupture|NN rate|NN of|IN 1½km|CD a|DT second|JJ or|CC less|JJR sets|NNS the|DT alarm|NN bells|NNS ringing|VBG for|IN the|DT earthquake|NN has|VBZ probably|RB spawned|VBN a|DT tsunami—though|JJ the|DT system|NN is|VBZ also|RB sensitive|JJ to|TO the|DT actual|JJ earthquake|NN magnitude|NN and|CC adjusts|NNS accordingly|RB so|RB it|PRP did|VBD not|RB miss|JJ the|DT tsunamicreating|NN potential|NN of|IN the|DT japanese|JJ earthquake|NN either|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT two|CD researchers|NNS tried|VBD their|PRP$ invention|NN out|RP last|JJ year|NN and|CC analysed|VBN a|DT great|JJ many|JJ quakes|NNS including|VBG one|CD of|IN magnitude|NN 78|CD that|WDT happened|VBN on|IN october|NN 25th|CD in|IN western|JJ indonesia|NN </s>|S_END
+<s>|S_START the|DT epicentre|NN was|VBD 70km|CD from|IN the|DT mentawai|NN islands|NNS and|CC the|DT quake|NN was|VBD felt|VBN there|RB only|RB weakly|RB </s>|S_END
+<s>|S_START but|CC it|PRP still|RB raised|VBD a|DT devastating|VBG tsunami|NN see|NN picture|NN above|IN that|DT killed|VBN more|RBR than|IN 400|CD islander|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT system|NN quickly|RB detected|VBN this|DT quake|NN and|CC the|DT two|CD researchers|NNS reported|VBD recently|RB in|IN geophysical|JJ research|NN letters|NNS that|WDT it|PRP automatically|RB identified|VBD the|DT tsunami|NN threat|NN 8½|CD minutes|NNS after|IN the|DT earthquake|NN began|VBD </s>|S_END
+<s>|S_START it|PRP then|RB ran|VBD a|DT series|NN of|IN checks|NNS and|CC after|IN 16½|CD minutes|NNS was|VBD completely|RB certain|JJ that|IN conditions|NNS were|VBD right|RB for|IN a|DT tsunami|NN to|TO form|NN </s>|S_END
+<s>|S_START ince|NN it|PRP took|VBD 35|CD minutes|NNS for|IN the|DT tsunami|NN to|TO come|VB ashore|RB the|DT system|NN could|MD had|VB it|PRP been|VBN used|VBN to|TO sound|VB the|DT alarm|NN have|VBP given|VBN people|NNS 18½|CD minutes|NNS to|TO flee|VB </s>|S_END
+<s>|S_START unfortunately|RB it|PRP was|VBD not|RB then|RB attached|VBN to|TO any|DT sort|NN of|IN alarm|NN that|IN could|MD let|VB the|DT mentawai|NN islanders|NNS know|VBP that|IN they|PRP were|VBD in|IN danger|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN luck|NN such|JJ a|DT lack|NN of|IN warning|VBG will|MD not|RB happen|VB again|RB </s>|S_END
+<s>|S_START by|IN the|DT summer|NN the|DT system|NN should|MD be|VB hooked|VBN up|RP to|TO alarms|NNS around|IN the|DT world|NN and|CC will|MD be|VB able|JJ to|TO determine|VB tsunami|NN risk|NN within|IN seven|CD minutes|NNS of|IN a|DT shock|NN being|VBG detected|VBN </s>|S_END
+<s>|S_START it|PRP will|MD then|RB be|VB up|RP to|TO local|JJ authorities|NNS to|TO have|VB evacuation|NN plans|NNS in|IN place|NN </s>|S_END
+<s>|S_START but|CC they|PRP will|MD no|RB longer|RBR be|VB able|JJ to|TO say|VB they|PRP did|VBD not|RB see|VB it|PRP coming|VBG </s>|S_END
+</p>|P_END
+

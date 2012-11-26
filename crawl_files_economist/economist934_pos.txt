@@ -1,0 +1,64 @@
+<p>|P_START
+<s>|S_START one|CD of|IN the|DT most|RBS significant|JJ phenomena|NN of|IN modern|JJ history|NN is|VBZ the|DT demographic|JJ transition|NN as|IN people|NNS get|VBP richer|JJR they|PRP have|VBP smaller|JJR familie|NN </s>|S_END
+<s>|S_START this|DT slowing|NN of|IN reproduction|NN with|IN economic|JJ development|NN is|VBZ the|DT reason|NN why|WRB thomas|NNS malthus’s|-NONE- prediction|NN of|IN disaster|NN caused|VBN by|IN the|DT human|JJ population|NN outstripping|VBG its|PRP$ supply|NN of|IN food|NN is|VBZ unlikely|RB ever|RB to|TO come|VB true|JJ </s>|S_END
+<s>|S_START in|IN the|DT short|JJ term|NN malthusian|JJ doom|NN has|VBZ been|VBN evaded|VBN by|IN innovations|NNS that|IN increased|VBN the|DT food|NN supply|NN </s>|S_END
+<s>|S_START but|CC in|IN the|DT long|JJ term|NN it|PRP is|VBZ likely|JJ to|TO be|VB a|DT ceiling|NN on|IN demand|NN that|IN helps|NNS to|TO save|VB humanity|NN </s>|S_END
+<s>|S_START the|DT world’s|JJ population|NN now|RB some|DT 7|CD billion|CD is|VBZ expected|VBN to|TO level|NN out|IN at|IN a|DT little|RB over|IN 10|CD billion|CD towards|NNS the|DT end|NN of|IN the|DT century|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START why|WRB the|DT demographic|JJ transition|NN happens|NNS though|IN is|VBZ obscure—for|NNP this|DT reaction|NN by|IN homo|NN sapiens|NNS to|TO abundance|VB looks|NNS biologically|RB bonker|NN </s>|S_END
+<s>|S_START other|JJ species|NNS when|WRB their|PRP$ circumstances|NNS improve|VBP react|NN by|IN raising|NN their|PRP$ reproductive|JJ rate|NN not|RB curtailing|VBG it|PRP </s>|S_END
+<s>|S_START and|CC work|NN just|RB published|VBD by|IN anna|NN goodman|NN of|IN the|DT london|NN school|NN of|IN hygiene|NN and|CC tropical|JJ medicine|NN and|CC her|PRP$ colleagues|NNS in|IN the|DT proceedings|NNS of|IN the|DT royal|JJ society|NN suggests|VBZ what|WP humans|NNS do|VBP is|VBZ indeed|VBN banana|NN </s>|S_END
+<s>|S_START dr|NN goodman|NN has|VBZ shown|VBN that|IN the|DT leading|VBG explanation|NN advanced|VBD by|IN biologists|NNS for|IN the|DT transition|NN does|VBZ not|RB in|IN the|DT context|NN of|IN the|DT modern|JJ world|NN actually|RB deliver|RB the|DT good|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT explanation|NN is|VBZ that|IN according|VBG to|TO circumstances|NNS people|NNS switch|VBP between|IN two|CD reproductive|JJ strategie|NN </s>|S_END
+<s>|S_START one|CD known|VBN to|TO ecologists|NNS as|IN “rselection”|JJ is|VBZ to|TO produce|VB lots|NNS of|IN offspring|VBG but|CC invest|JJS little|JJ in|IN each|DT of|IN them|PRP </s>|S_END
+<s>|S_START this|DT works|NNS in|IN environments|NNS with|IN high|JJ infant|JJ mortality|NN </s>|S_END
+<s>|S_START the|DT other|JJ known|NN as|IN “kselection”|JJ is|VBZ to|TO have|VB only|RB a|DT few|JJ offspring|NN but|CC to|TO nurture|VB them|PRP so|RB that|IN they|PRP are|VBP superb|RB specimens|NNS and|CC will|MD thus|RB do|VB well|RB in|IN the|DT competition|NN for|IN resources|NNS and|CC mates|NNS and|CC produce|VB more|RBR grandchildren|JJ for|IN their|PRP$ parents|NNS than|IN their|PRP$ less|JJR wellnurtured|VBN contemporarie|NN </s>|S_END
+<s>|S_START the|DT demographic|JJ transition|NN according|VBG to|TO this|DT analysis|NN is|VBZ a|DT shift|NN from|IN rtype|NN to|TO ktype|VB behaviour|PRP$ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO test|NN this|DT idea|NN dr|NN goodman|NN turned|VBD to|TO sweden—specifically|RB to|TO a|DT group|NN known|VBN as|RB the|DT uppsala|NN birth|NN cohort|NN </s>|S_END
+<s>|S_START these|DT people|NNS there|RB are|VBP about|IN 14000|CD of|IN them|PRP were|VBD born|VBN between|IN 1915|CD and|CC 1929|CD in|IN uppsala|NN university|NN hospital|NN </s>|S_END
+<s>|S_START they|PRP and|CC their|PRP$ descendants|NNS have|VBP subsequently|RB been|VBN tracked|VBN by|IN sweden’s|NNP efficient|NN system|NN of|IN official|NN record|NN </s>|S_END
+<s>|S_START among|IN other|JJ things|NNS these|DT records|NNS show|VBP their|PRP$ income|NN and|CC socioeconomic|JJ status|NN which|WDT crucially|RB are|VBP also|RB known|VBN for|IN the|DT parents|NNS of|IN members|NNS of|IN the|DT original|JJ cohort|NN how|WRB many|JJ children|NNS have|VBP been|VBN born|VBN to|TO cohort|VB members|NNS and|CC their|PRP$ descendants|NNS and|CC when|WRB </s>|S_END
+<s>|S_START these|DT data|NNS were|VBD dr|NN goodman’s|-NONE- raw|NN material|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT rk|NN interpretation|NN is|VBZ correct|JJ the|DT letters|NNS stand|VBP for|IN the|DT rate|NN of|IN reproduction|NN and|CC the|DT “carrying|JJ capacity”|NN or|CC resource|NN richness|NN of|IN the|DT environment|NN then|RB an|DT advantage|NN of|IN some|DT sort|NN for|IN the|DT socioeconomically|RB privileged|VBD should|MD show|VB up|RP as|IN the|DT generations|NNS succeed|VBD one|CD another|DT </s>|S_END
+<s>|S_START dr|NN goodman’s|NNS analysis|NN shows|NNS that|WDT it|PRP does|VBZ but|CC in|IN a|DT way|NN that|WDT is|VBZ not|RB translated|VBN into|IN any|DT obvious|JJ evolutionary|NN advantage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START reducing|VBG family|NN size|NN certainly|RB creates|VBZ what|WP look|NN on|IN the|DT face|NN of|IN things|NNS like|IN more|JJR competitive|JJ descendant|NN </s>|S_END
+<s>|S_START children|NNS grandchildren|VBP and|CC greatgrandchildren|NNS alike|VBP get|NN better|RBR marks|NNS at|IN school|NN are|VBP more|RBR likely|JJ to|TO go|VB to|TO university|NN and|CC have|VB higher|JJR incomes|NNS as|IN adult|NN </s>|S_END
+<s>|S_START what|WP these|DT competitive|JJ individuals|NNS do|VBP not|RB do|VB though|RB is|VBZ go|RB on|IN to|TO compete|VB in|IN the|DT one|CD arena|NN which|WDT matters|NNS in|IN a|DT darwinian|JJ sense|NN reproduction|NN </s>|S_END
+<s>|S_START if|IN anything|NN the|DT tendency|NN towards|NNS smaller|JJR more|JJR socially|RB successful|JJ families|NNS tends|NNS to|TO feed|VB back|RB on|IN itself|PRP over|IN the|DT generations|NNS and|CC the|DT contribution|NN of|IN the|DT kselected|VBN to|TO the|DT gene|NN pool|NN therefore|RB shrink|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO biologists|NNS this|DT is|VBZ all|DT very|RB puzzling|VBG </s>|S_END
+<s>|S_START if|IN ktype|NN behaviour|PRP$ is|VBZ not|RB delivering|VBG the|DT goods|NNS then|RB it|PRP should|MD never|RB have|VB come|VBN about|IN in|IN the|DT first|JJ place|NN </s>|S_END
+<s>|S_START but|CC there|EX may|MD be|VB an|DT explanation|NN that|IN the|DT psychological|JJ makeup|NN which|WDT encourages|NNS ktype|VBP behaviour|PRP$ worked|VBN in|IN the|DT past|JJ but|CC is|VBZ not|RB appropriate|JJ to|TO modern|JJ circumstance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT does|VBZ seem|VB plausible|JJ </s>|S_END
+<s>|S_START in|IN large|JJ parts|NNS of|IN the|DT world|NN better|NN hygiene|NN nutrition|NN and|CC medicine|NN have|VBP almost|RB abolished|VBN child|NN mortality|NN meaning|NN the|DT advantage|NN of|IN k|NN over|IN r|NN is|VBZ diminished|VBN </s>|S_END
+<s>|S_START education|NN is|VBZ available|JJ free|JJ to|TO all|DT </s>|S_END
+<s>|S_START and|CC haremformation|NN which|WDT would|MD have|VB been|VBN an|DT option|NN in|IN the|DT past|JJ for|IN many|JJ kselected|VBN males|NNS is|VBZ frowned|VBN on|IN these|DT day|NN </s>|S_END
+<s>|S_START in|IN other|JJ words|NNS the|DT disadvantages|NNS of|IN being|VBG rselected|VBN have|VBP disappeared|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT upshot|NN is|VBZ that|IN the|DT demographic|JJ transition|NN may|MD be|VB the|DT result|NN of|IN a|DT mismatch|NN between|IN ancient|NN psychology|NN and|CC the|DT modern|JJ world|NN </s>|S_END
+<s>|S_START in|IN that|DT it|PRP would|MD be|VB like|IN the|DT epidemic|JJ of|IN obesity|NN which|WDT results|NNS from|IN stoneage|NN appetites|NNS meeting|VBG capitalist|NN abundance|NN </s>|S_END
+<s>|S_START unlike|IN obesity|NN though|IN small|JJ families|NNS do|VBP no|DT harm|NN to|TO the|DT individuals|NNS involved|VBD </s>|S_END
+<s>|S_START in|IN fact|NN this|DT particular|JJ mismatch|NN may|MD actually|RB be|VB all|DT that|DT stands|VBZ between|IN humanity|NN and|CC ecological|JJ disaster|NN </s>|S_END
+</p>|P_END
+

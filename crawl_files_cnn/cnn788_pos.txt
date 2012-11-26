@@ -1,0 +1,86 @@
+<p>|P_START
+<s>|S_START coolchip|NN cofounders|NNS steven|RB stoddard|JJ left|NN and|CC william|NN sanchez|NN right|RB impressed|VBN the|DT judges|NNS at|IN mit|NN entrepreneurship|NN competitions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnnmoney|NN every|DT time|NN you|PRP watch|VBP a|DT lady|NN gaga|NN video|NN on|IN youtube|NN or|CC get|VB driving|VBG directions|NNS on|IN google|JJ maps|NNS a|DT server|NN farm|NN somewhere|RB is|VBZ heating|VBG up|RP </s>|S_END
+<s>|S_START the|DT more|RBR you|PRP do|VBP online|JJ and|CC the|DT faster|NN it|PRP happens|VBZ the|DT more|RBR energy|NN it|PRP takes|VBZ </s>|S_END
+<s>|S_START data|NNS centers|NNS now|RB consume|VBP about|IN 2|CD to|TO 3|CD of|IN all|DT electricity|NN generated|VBN annually|RB in|IN the|DT us|PRP thats|VBZ the|DT same|JJ amount|NN it|PRP takes|VBZ to|TO power|NN the|DT state|NN of|IN new|JJ york|NN and|CC demand|NN keeps|NNS climbing|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC most|JJS of|IN the|DT energy|NN data|NNS centers|NNS use|VBP doesnt|NN go|NN directly|RB to|TO running|VBG servers|NNS </s>|S_END
+<s>|S_START instead|RB its|PRP$ dedicated|VBN to|TO keeping|NN them|PRP cool|JJ temperatures|NNS above|IN 75|CD degrees|NNS fahrenheit|NN can|MD cause|VB the|DT chips|NNS inside|VBP the|DT servers|NNS to|TO malfunction|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN decades|NNS of|IN advances|NNS in|IN computer|NN technology|NN the|DT most|JJS common|JJ cooling|NN strategy|NN for|IN servers|NNS hasnt|VBP changed|VBN much|RB </s>|S_END
+<s>|S_START a|DT radiator|NN sits|VBZ on|IN top|JJ of|IN the|DT servers|NNS chips|VBZ drawing|VBG up|RP heat|JJ that|IN gets|NNS dispersed|VBD by|IN a|DT simple|JJ fan|NN that|WDT branches|VBZ off|RP to|TO the|DT side|NN </s>|S_END
+<s>|S_START this|DT is|VBZ an|DT old|JJ method|NN and|CC an|DT inefficient|NN one|CD which|WDT means|VBZ data|NNS centers|NNS still|RB have|VBP to|TO blast|VB their|PRP$ air|NN conditioning|VBG systems|NNS day|NN and|CC night|NN just|RB to|TO keep|VB servers|NNS working|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS where|WRB coolchip|NN technologies|NNS comes|VBZ in|IN </s>|S_END
+<s>|S_START the|DT threeperson|NN company|NN in|IN somerville|NN mass|NN launched|VBD last|JJ fall|NN and|CC is|VBZ developing|VBG two|CD new|JJ highefficiency|NN heat|NN sinks|NNS that|WDT could|MD reduce|VB cooling|NN costs|NNS in|IN data|NNS centers|NNS by|IN up|RB to|TO 40|CD according|VBG to|TO 28yearold|JJ chief|NN executive|NN and|CC mit|NN grad|NN william|NN sanchez|NN </s>|S_END
+<s>|S_START in|IN may|MD coolchip|VB won|NN mits|NNS clean|VBP energy|NN prize|NN netting|VBG about|IN $|$ 230000|CD to|TO fund|NN its|PRP$ efforts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ironically|RB right|RB after|IN we|PRP incorporated|VBD we|PRP had|VBD to|TO move|VB the|DT research|NN out|IN of|IN mit|NN to|TO my|PRP$ garage|NN sanchez|NN says|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mechanical|JJ fans|NNS have|VBP been|VBN around|IN since|IN the|DT 17th|JJ century|NN and|CC theyre|NN seldom|NN improved|VBN upon|IN </s>|S_END
+<s>|S_START but|CC the|DT first|JJ of|IN coolchips|NNS two|CD heat|JJ sink|NN models|NNS uses|VBZ a|DT circular|JJ aluminum|NN fan|NN that|WDT seems|VBZ straight|RB out|IN of|IN the|DT space|NN age|NN </s>|S_END
+<s>|S_START imagine|NN something|NN that|WDT looks|VBZ like|IN a|DT tiny|JJ flying|NN saucer|NN a|DT disc|NN with|IN fan|NN blades|NNS floating|VBG over|IN the|DT heatconducting|NN radiator|NN that|WDT sits|VBZ above|IN the|DT chips|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP manipulated|VBD the|DT fluid|NN dynamics|NNS to|TO get|VB it|PRP to|TO lift|VB and|CC hover|NN sanchez|NN says|VBZ </s>|S_END
+<s>|S_START the|DT spinning|NN motion|NN keeps|NNS it|PRP aloft|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sanchez|NN plans|NNS to|TO bring|VB his|PRP$ initial|JJ heat|NN sinks|NNS to|TO market|NN by|IN late|JJ next|JJ year|NN and|CC to|TO sell|VB them|PRP at|IN a|DT retail|JJ price|NN of|IN $|$ 30|CD </s>|S_END
+<s>|S_START ultimately|RB he|PRP hopes|VBZ to|TO offer|VB a|DT more|RBR advanced|JJ version|NN a|DT combination|NN of|IN the|DT current|JJ model|NN and|CC another|DT design|NN one|CD devised|VBN by|IN mechanical|JJ engineering|NN researchers|NNS at|IN mit|NN and|CC funded|VBD with|IN about|IN $|$ 24|CD million|CD from|IN darpa|NN the|DT pentagons|NNS research|NN arm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sanchez|NN and|CC coolchip|NN cofounder|NN steven|RB stoddard|JJ 26|CD met|NN as|IN engineering|NN grad|NN students|NNS at|IN mit|NN where|WRB they|PRP learned|VBD about|IN technologies|NNS the|DT school|NN was|VBD developing|VBG with|IN the|DT hope|NN that|IN entrepreneurial|JJ students|NNS would|MD commercialize|VB them|PRP </s>|S_END
+<s>|S_START that|DT project|NN portfolio|NN included|VBD the|DT darpafunded|VBN heat|NN sink|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START coolchip|NN licensed|VBD the|DT technology|NN </s>|S_END
+<s>|S_START its|PRP$ biggest|JJS challenge|NN now|RB figuring|VBG out|RP how|WRB to|TO modify|VB the|DT device|NN so|RB it|PRP can|MD be|VB costeffectively|RB manufactured|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS tough|VBP because|IN the|DT device|NN includes|VBZ very|RB small|JJ delicate|JJ parts|NNS says|VBZ ravi|NN prasher|NN program|NN director|NN at|IN the|DT federal|JJ governments|NNS advanced|VBD research|NN projects|NNS agency|NN for|IN energy|NN </s>|S_END
+<s>|S_START a|DT heat|NN sink|NN is|VBZ a|DT commodity|NN and|CC they|PRP have|VBP to|TO figure|VB out|RP how|WRB to|TO maintain|VB their|PRP$ design|NN yet|RB manufacture|NN at|IN high|JJ volume|NN he|PRP says|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START neil|NN rasmussen|VBN senior|JJ vice|NN president|NN of|IN innovation|NN at|IN apc|NN in|IN west|NN kingston|NN ri|NN was|VBD one|CD of|IN the|DT clean|JJ energy|NN prize|NN judges|NNS </s>|S_END
+<s>|S_START it|PRP doesnt|VBD take|VB much|JJ to|TO be|VB a|DT game|NN changer|NN in|IN the|DT heat|NN sink|NN industry|NN he|PRP says|VBZ </s>|S_END
+<s>|S_START coolchips|NNS designs|NNS are|VBP innovative|JJ simply|RB because|IN they|PRP are|VBP smaller|JJR and|CC more|JJR efficient|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP look|VBP at|IN these|DT big|JJ power|NN systems|NNS rasmussen|VBP says|VBZ the|DT chips|NNS in|IN them|PRP might|MD be|VB 14inch|JJ long|JJ and|CC 116|CD of|IN an|DT inch|NN thick|NN but|CC to|TO get|VB the|DT heat|NN out|IN of|IN them|PRP it|PRP takes|VBZ something|NN more|JJR than|IN a|DT thousand|NN times|VBZ larger|JJR </s>|S_END
+<s>|S_START when|WRB he|PRP saw|VBD the|DT coolchip|NN design|NN rasmussen|NN says|VBZ he|PRP was|VBD shocked|VBN that|IN no|DT one|NN had|VBD thought|VBN of|IN it|PRP before|IN </s>|S_END
+<s>|S_START it|PRP makes|VBZ you|PRP wonder|JJR why|WRB people|NNS are|VBP doing|VBG it|PRP the|DT same|JJ way|NN theyve|NN been|VBN doing|VBG it|PRP since|IN the|DT 1950s|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START coolchips|NNS heat|VBD sinks|NNS could|MD also|RB be|VB a|DT boon|NN for|IN gamers|NNS who|WP use|NN computers|NNS with|IN fast|JJ processors|NNS </s>|S_END
+<s>|S_START the|DT company|NN is|VBZ targeting|VBG that|IN demographic|JJ through|IN online|NN retailers|NNS including|VBG frostytech|NN and|CC maximumpc|NN and|CC preorders|NNS are|VBP already|RB coming|VBG in|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT potential|JJ application|NN for|IN coolchips|NNS device|NN is|VBZ drawing|VBG warm|NN air|NN away|RB from|IN electric|JJ motors|NNS which|WDT often|RB require|VBP impractically|RB large|JJ heat|NN sinks|NNS to|TO keep|VB temperatures|NNS tolerable|JJ </s>|S_END
+<s>|S_START i|PRP think|VBP theres|NNS a|DT lot|NN of|IN potential|JJ for|IN wide|JJ commercialization|NN rasmussen|NN says|VBZ </s>|S_END
+<s>|S_START to|TO be|VB honest|JJS i|PRP couldnt|VBP find|JJ a|DT single|JJ weakness|NN in|IN their|PRP$ concept|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

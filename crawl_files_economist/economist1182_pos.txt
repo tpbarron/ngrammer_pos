@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 40|CD gdp|NN $|$ 267bn|CD ppp|CD $|$ 417bn|CD inflation|NN 45|CD population|NN 1038m|CD gdp|NN per|IN head|NN $|$ 2570|CD ppp|CD $|$ 4020|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT president|NN benigno|NN aquino|NN enters|NNS the|DT third|JJ year|NN of|IN a|DT sixyear|JJ term|NN with|IN a|DT solid|JJ mandate|NN and|CC a|DT loyal|JJ lower|NN chamber|NN but|CC his|PRP$ ratings|NNS are|VBP sliding|VBG and|CC his|PRP$ opponents|NNS from|IN the|DT previous|JJ regime|NN are|VBP resisting|VBG investigations|NNS into|IN alleged|JJ corruption|NN on|IN their|PRP$ watch|NN </s>|S_END
+<s>|S_START add|NN to|TO this|DT the|DT pressures|NNS imposed|VBD by|IN festering|NN communist|NN and|CC separatist|NN rebellions|NNS and|CC a|DT powerhungry|NN army|NN and|CC mr|NN aquino|NN faces|NNS a|DT turbulent|NN year|NN </s>|S_END
+<s>|S_START lower|JJR us|PRP growth|NN will|MD weigh|VB on|IN the|DT economy|NN </s>|S_END
+</p>|P_END
+

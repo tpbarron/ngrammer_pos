@@ -1,0 +1,65 @@
+<p>|P_START
+<s>|S_START six|CD months|NNS after|IN you|PRP stop|VBP taking|VBG courses|NNS at|IN least|JJS halftime|NN whether|IN or|CC not|RB youve|VB graduated|VBN your|PRP$ federal|JJ student|NN loan|NN bills|NNS starting|VBG coming|VBG due|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB if|IN youve|JJ moved|VBN and|CC havent|NN received|VBD a|DT bill|NN in|IN the|DT mail|NN you|PRP still|RB owe|VBP uncle|NN sam|NN </s>|S_END
+<s>|S_START its|PRP$ your|PRP$ responsibility|NN to|TO make|VB sure|JJ the|DT government|NN has|VBZ your|PRP$ current|JJ mailing|NN address|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START failing|VBG to|TO pay|VB your|PRP$ federal|JJ student|NN loan|NN on|IN time|NN is|VBZ very|RB costly|RB </s>|S_END
+<s>|S_START the|DT government|NN charges|VBZ late|JJ fees|NNS and|CC if|IN you|PRP let|VBP your|PRP$ bills|NNS go|VBP unpaid|VBN for|IN too|RB long|RB collection|NN fees|NNS </s>|S_END
+<s>|S_START and|CC of|IN course|NN they|PRP report|VBP your|PRP$ delinquency|NN to|TO the|DT credit|NN bureaus|VBZ which|WDT makes|VBZ it|PRP hard|RB for|IN you|PRP to|TO get|VB a|DT credit|NN card|NN car|NN loan|NN mortgage|NN or|CC in|IN some|DT cases|NNS certain|JJ kinds|NNS of|IN jobs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT good|JJ news|NN is|VBZ that|IN there|EX is|VBZ no|DT penalty|NN for|IN paying|VBG down|IN the|DT loan|NN ahead|RB of|IN time|NN </s>|S_END
+<s>|S_START and|CC the|DT government|NN has|VBZ many|JJ different|JJ kinds|NNS of|IN payment|NN plans|NNS that|WDT can|MD reduce|VB the|DT pain|NN of|IN those|DT bills|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START 1|LS </s>|S_END
+<s>|S_START incomebased|VBD repayment|VBN plan|NN </s>|S_END
+<s>|S_START these|DT plans|NNS cap|VBP eligible|JJ students|NNS payments|NNS based|VBN on|IN what|WP they|PRP earn|VBP making|VBG it|PRP easier|JJR for|IN lowincome|NN earners|NNS to|TO afford|VB their|PRP$ loans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN 2012|CD incomebased|VBN repayment|NN plans|NNS allow|VBP you|PRP to|TO cap|VB your|PRP$ monthly|JJ payments|NNS at|IN a|DT maximum|NN of|IN 15|CD of|IN your|PRP$ disposable|JJ income|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START public|JJ servants|NNS such|JJ as|IN teachers|NNS police|NNS officers|NNS and|CC social|JJ workers|NNS who|WP sign|NN up|IN for|IN this|DT option|NN and|CC make|VB 120|CD ontime|NN payments|NNS 10|CD years|NNS worth|IN can|MD have|VB any|DT remaining|VBG balance|NN forgiven|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC to|TO keep|VB this|DT option|NN you|PRP must|MD send|VB the|DT department|NN of|IN education|NN information|NN documenting|VBG your|PRP$ annual|JJ income|NN </s>|S_END
+<s>|S_START every|DT year|NN your|PRP$ income|NN increases|NNS your|PRP$ monthly|JJ loan|NN payment|NN will|MD increase|VB a|DT little|RB as|IN well|RB </s>|S_END
+<s>|S_START here|RB are|VBP some|DT basic|JJ stats|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START 2|LS </s>|S_END
+<s>|S_START standard|JJ 10year|JJ repayment|NN </s>|S_END
+<s>|S_START if|IN you|PRP dont|VBP try|NN for|IN one|CD of|IN the|DT alternates|NNS this|DT is|VBZ the|DT repayment|NN plan|NN youll|NN automatically|RB be|VB assigned|VBN to|TO </s>|S_END
+<s>|S_START if|IN you|PRP can|MD manage|VB to|TO keep|VB to|TO the|DT standard|JJ schedule|NN youll|NN pay|NN off|IN your|PRP$ loans|NNS in|IN a|DT reasonable|JJ amount|NN of|IN time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START 3|LS </s>|S_END
+<s>|S_START graduated|VBD repayment|VBN plan|NN </s>|S_END
+<s>|S_START the|DT graduated|VBN plan|NN starts|VBZ out|RP with|IN low|JJ payments|NNS but|CC then|RB raises|VBZ them|PRP by|IN about|IN $|$ 50|CD every|DT two|CD years|NNS so|IN that|IN you|PRP pay|VBP off|RP the|DT loan|NN in|IN 10|CD years|NNS </s>|S_END
+<s>|S_START its|PRP$ best|JJS for|IN students|NNS who|WP are|VBP certain|JJ their|PRP$ income|NN will|MD rise|VB quickly|RB after|IN graduation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START 4|LS </s>|S_END
+<s>|S_START extended|VBD repayment|VBN plan|NN </s>|S_END
+<s>|S_START you|PRP can|MD ask|VB to|TO make|VB smaller|JJR monthly|JJ payments|NNS for|IN more|JJR years|NNS by|IN stretching|VBG out|IN the|DT payments|NNS from|IN the|DT standard|JJ 10|CD years|NNS to|TO as|RB many|JJ as|IN 25|CD years|NNS with|IN an|DT extended|JJ plan|NN </s>|S_END
+<s>|S_START of|IN course|NN that|IN means|NNS youll|VBP end|NN up|IN paying|VBG a|DT lot|NN more|RBR in|IN the|DT end|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START next|JJ student|NN loan|NN tools|NNS and|CC other|JJ resources|NNS  |: </s>|S_END
+</p>|P_END
+

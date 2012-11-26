@@ -1,0 +1,104 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN tuition|NN hikes|VBZ stagnant|JJ growth|NN in|IN federal|JJ aid|NN and|CC increases|VBZ in|IN other|JJ expenses|NNS have|VBP pushed|VBN public|JJ college|NN costs|NNS to|TO new|JJ heights|NNS yet|RB again|RB this|DT year|NN according|VBG to|TO a|DT college|NN board|NN report|NN out|IN wednesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO attend|VB an|DT instate|NN public|NN college|NN for|IN the|DT 201213|CD academic|JJ year|NN the|DT average|JJ overall|JJ cost|NN or|CC sticker|NN price|NN for|IN students|NNS who|WP dont|NN receive|VBP any|DT financial|JJ aid|NN rose|VBD 38|CD to|TO a|DT record|NN $|$ 22261|CD according|VBG to|TO the|DT report|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tuition|NN accounted|VBD for|IN about|IN half|DT of|IN that|DT increase|NN </s>|S_END
+<s>|S_START public|JJ university|NN tuition|NN and|CC fees|NNS alone|RB rose|VBD 48|CD to|TO $|$ 8655|CD </s>|S_END
+<s>|S_START in|IN addition|NN higher|JJR dorm|NN cafeteria|NN books|NNS and|CC other|JJ expenses|NNS added|VBD significantly|RB to|TO the|DT overall|JJ increase|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN about|IN twothirds|NNS of|IN fulltime|NN students|NNS receive|VBP grants|NNS or|CC federal|JJ tax|NN breaks|NNS many|JJ are|VBP likely|JJ to|TO have|VB to|TO foot|VB more|JJR of|IN the|DT bill|NN themselves|PRP this|DT year|NN </s>|S_END
+<s>|S_START the|DT college|NN boards|NNS economists|NNS estimate|VBP that|IN financial|JJ aid|NN budgets|NNS stayed|VBD flat|JJ leaving|NN students|NNS less|JJR money|NN to|TO cover|VB rising|VBG college|NN costs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN a|DT result|NN the|DT net|NN price|NN the|DT cost|NN after|IN scholarships|NNS grants|NNS and|CC federal|JJ tax|NN benefits|NNS that|WDT instate|JJ students|NNS at|IN public|JJ colleges|NNS will|MD pay|VB this|DT year|NN rose|VBD 46|CD to|TO an|DT average|JJ of|IN $|$ 16510|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS more|JJR than|IN twice|NN the|DT rate|NN of|IN inflation|NN which|WDT rose|VBD just|RB 2|CD over|IN the|DT last|JJ 12|CD months|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD how|WRB much|RB will|MD that|VB college|NN really|RB cost|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN the|DT rate|NN of|IN public|JJ college|NN tuition|NN hikes|VBZ has|VBZ steadily|RB fallen|VBN from|IN the|DT 9|CD rate|NN seen|VBN in|IN 2008|CD sandy|NN baum|NN an|DT economist|NN and|CC lead|NN author|NN of|IN the|DT college|NN boards|NNS report|NN said|VBD not|RB to|TO expect|VB much|JJ more|RBR of|IN an|DT improvement|NN </s>|S_END
+<s>|S_START tuition|NN is|VBZ going|VBG to|TO keep|VB rising|VBG faster|JJR than|IN inflation|NN she|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT college|NN board|NN crunched|VBD the|DT numbers|NNS to|TO explain|VB why|WRB college|NN prices|NNS keep|VB rising|VBG faster|JJR than|IN just|RB about|IN everything|NN else|RB in|IN the|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START states|NNS have|VBP cut|VBN the|DT amount|NN of|IN money|NN they|PRP are|VBP giving|VBG to|TO colleges|NNS by|IN a|DT total|JJ of|IN $|$ 152|CD billion|CD since|IN 2007|CD or|CC 174|CD </s>|S_END
+<s>|S_START at|IN the|DT same|JJ time|NN the|DT number|NN of|IN students|NNS enrolled|VBN in|IN college|NN has|VBZ risen|VBN 12|CD </s>|S_END
+<s>|S_START that|DT means|VBZ the|DT average|JJ public|JJ college|NN gets|VBZ a|DT tax|NN subsidy|NN of|IN only|RB $|$ 6600|CD per|IN student|NN down|IN from|IN $|$ 9300|CD just|RB five|CD years|NNS ago|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT dramatic|JJ increases|NNS in|IN public|JJ college|NN tuition|NN over|IN the|DT years|NNS have|VBP made|VBN up|RP only|RB about|RB twothirds|NNS of|IN those|DT subsidy|NN losses|NNS the|DT college|NN board|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD extreme|VBN ways|NNS to|TO pay|VB for|IN college|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START private|JJ colleges|NNS havent|NN had|VBD to|TO make|VB up|RP for|IN state|NN budget|NN cuts|NNS but|CC have|VBP been|VBN raising|VBG prices|NNS to|TO cover|VB increased|VBN expenses|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tuition|NN and|CC fees|NNS climbed|VBD 42|CD at|IN fouryear|JJ private|JJ schools|NNS to|TO an|DT average|JJ of|IN $|$ 29056|CD this|DT year|NN </s>|S_END
+<s>|S_START overall|JJ prices|NNS were|VBD 4|CD higher|JJR at|IN $|$ 43289|CD </s>|S_END
+<s>|S_START but|CC with|IN more|JJR than|IN 80|CD of|IN students|NNS receiving|VBG scholarships|NNS or|CC grants|NNS the|DT average|JJ private|JJ college|NN student|NN will|MD pay|VB a|DT net|JJ price|NN of|IN about|RB $|$ 27600|CD a|DT 56|CD increase|NN from|IN last|JJ year|NN the|DT college|NN board|NN estimated|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT of|IN the|DT fastest|JJS rising|VBG costs|NNS on|IN private|JJ college|NN campuses|NNS are|VBP employee|NN health|NN care|NN insurance|NN premiums|NNS and|CC technology|NN said|VBD david|JJ l|NN warren|NNS president|NN of|IN the|DT national|JJ association|NN of|IN independent|JJ colleges|NNS and|CC universities|NNS </s>|S_END
+<s>|S_START colleges|NNS have|VBP also|RB been|VBN investing|VBG in|IN student|NN services|NNS like|IN mental|JJ health|NN counseling|NN and|CC programs|NNS aimed|VBN at|IN boosting|NN graduation|NN rates|NNS he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN both|DT public|JJ and|CC private|JJ universities|NNS have|VBP been|VBN raising|VBG dorm|NN and|CC cafeteria|NN prices|NNS at|IN a|DT rate|NN of|IN about|RB 2|CD more|JJR than|IN inflation|NN each|DT year|NN for|IN the|DT last|JJ decade|NN </s>|S_END
+<s>|S_START a|DT years|NNS room|NN and|CC board|NN at|IN a|DT typical|JJ public|JJ university|NN has|VBZ risen|VBN 65|CD over|IN the|DT last|JJ 10|CD years|NNS to|TO an|DT average|JJ of|IN $|$ 9200|CD </s>|S_END
+<s>|S_START meanwhile|RB private|JJ college|NN living|VBG costs|NNS have|VBP climbed|VBN 54|CD to|TO an|DT average|JJ of|IN $|$ 10460|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START vennie|NN gore|VBD assistant|JJ vice|NN president|NN for|IN residential|JJ and|CC hospitality|NN services|NNS at|IN michigan|JJ state|NN university|NN and|CC president|NN of|IN the|DT association|NN of|IN college|NN and|CC university|NN housing|NN officers|NNS international|JJ says|NNS schools|NNS like|IN his|PRP$ have|VBP to|TO raise|VB dorm|NN costs|NNS to|TO fund|VB repairs|NNS upgrade|VB older|JJR dorms|NNS and|CC build|VB new|JJ residence|NN halls|NNS that|WDT meet|VBP todays|NNS students|NNS expectations|NNS for|IN technology|NN privacy|NN and|CC space|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gore|IN says|VBZ students|NNS dont|NN like|IN the|DT oldstyle|NN dorms|NNS with|IN big|JJ shared|VBN bathrooms|NNS </s>|S_END
+<s>|S_START in|IN new|JJ dorms|NNS two|CD rooms|NNS typically|RB share|NN a|DT single|JJ smaller|NN bathroom|NN he|PRP says|VBZ </s>|S_END
+<s>|S_START new|JJ dorms|NNS also|RB typically|RB provide|VB more|RBR common|JJ areas|NNS for|IN cooking|VBG studying|VBG and|CC other|JJ activities|NNS </s>|S_END
+<s>|S_START finally|RB things|NNS we|PRP used|VBD to|TO see|VB as|IN luxuries|NNS such|JJ as|IN internet|JJ and|CC cable|JJ they|PRP see|VBP as|IN basic|JJ necessities|NNS or|CC utilities|NNS he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD how|WRB does|VBZ your|PRP$ community|NN college|NN stack|NN up|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD bright|JJ spot|NN in|IN the|DT college|NN board|NN report|NN were|VBD the|DT findings|NNS from|IN community|NN colleges|NNS which|WDT enroll|NN 26|CD of|IN fulltime|NN college|NN students|NNS </s>|S_END
+<s>|S_START while|IN tuition|NN at|IN community|NN colleges|NNS climbed|VBD an|DT average|JJ of|IN $|$ 168|CD or|CC 56|CD this|DT year|NN to|TO $|$ 3131|CD students|NNS appear|VBP to|TO be|VB getting|VBG enough|RB aid|NN to|TO cover|VB most|JJS of|IN their|PRP$ costs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT college|NN board|NN estimated|VBD that|IN the|DT average|NN community|NN college|NN student|NN received|VBD enough|RB grants|NNS and|CC tax|NN breaks|NNS to|TO cover|VB the|DT typical|JJ tuition|NN and|CC all|DT but|CC $|$ 10|CD of|IN the|DT average|NN $|$ 1230|CD bill|NN for|IN textbooks|NNS and|CC school|NN supplies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN rising|VBG costs|NNS and|CC resulting|VBG student|NN loan|NN debt|NN a|DT college|NN education|NN is|VBZ still|RB worth|JJ it|PRP said|VBD the|DT college|NN boards|NNS baum|NN </s>|S_END
+<s>|S_START theres|NNS a|DT really|RB high|JJ return|NN to|TO investing|NN in|IN a|DT good|JJ college|NN education|NN she|PRP said|VBD </s>|S_END
+</p>|P_END
+

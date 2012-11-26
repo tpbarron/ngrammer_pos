@@ -1,0 +1,135 @@
+<p>|P_START
+<s>|S_START although|IN she|PRP grew|VBD up|RP in|IN missouri|NN lauren|NNS gray|VBP might|MD soon|RB be|VB forced|VBN to|TO return|VB to|TO england|VB </s>|S_END
+<s>|S_START she|PRP turns|VBZ 21|CD on|IN wednesday|NN and|CC can|MD no|DT longer|NN stay|NN on|IN her|PRP$ parents|NNS business|NN visa|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN even|RB as|IN the|DT economy|NN has|VBZ slowed|VBN the|DT nations|NNS visa|VBP system|NN remains|VBZ a|DT high|JJ hurdle|NN for|IN foreigners|NNS who|WP want|VBP to|TO start|VB businesses|NNS and|CC create|VB jobs|NNS in|IN the|DT united|VBN states|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START few|JJ viable|JJ options|NNS exist|VBP for|IN entrepreneurs|NNS eager|JJR to|TO come|VB to|TO america|VB and|CC those|DT that|WDT do|VBP offer|VBP little|RB predictability|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN example|NN the|DT investor|NN visa|NN carries|VBZ a|DT $|$ 1|CD million|CD price|NN tag|NN too|RB high|JJ for|IN most|JJS aspiring|VBG small|JJ business|NN owners|NNS </s>|S_END
+<s>|S_START and|CC the|DT socalled|JJ executive|NN visa|NN requires|VBZ immigrants|NNS to|TO start|VB a|DT firm|NN abroad|NN and|CC create|VB a|DT us|PRP subsidiary|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN those|DT who|WP want|VBP to|TO launch|VB in|IN the|DT united|VBN states|NNS the|DT principal|JJ route|NN is|VBZ through|IN e2|NNP visas|NNS </s>|S_END
+<s>|S_START but|CC theyre|VBP available|JJ only|RB to|TO people|NNS in|IN certain|JJ nations|NNS prohibiting|VBG entry|NN from|IN the|DT worlds|NNS most|JJS promising|VBG countries|NNS such|JJ as|IN brazil|NN india|NNS and|CC china|NN </s>|S_END
+<s>|S_START also|RB they|PRP must|MD be|VB renewed|VBN every|DT few|JJ years|NNS and|CC offer|VBP no|DT path|NN to|TO permanent|VB residency|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT us|PRP policies|VBZ are|VBP at|IN odds|NNS with|IN other|JJ countries|NNS that|IN are|VBP opening|VBG doors|NNS for|IN entrepreneurs|NNS </s>|S_END
+<s>|S_START they|PRP have|VBP the|DT ideas|NNS build|VBP the|DT companies|NNS create|VBP the|DT jobs|NNS </s>|S_END
+<s>|S_START why|WRB not|RB invite|JJ them|PRP in|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START chile|IN does|VBZ it|PRP by|IN offering|NN $|$ 40000|CD of|IN equityfree|JJ capital|NN and|CC temporary|JJ visas|NNS </s>|S_END
+<s>|S_START singapore|IN sets|NNS a|DT low|JJ bar|NN for|IN entrepasses|NNS and|CC creates|NNS an|DT avenue|NN for|IN residency|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB the|DT us|PRP immigration|NN system|NN can|MD be|VB openly|RB hostile|JJ say|NN business|NN owners|NNS advocates|VBZ and|CC lawyers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN a|DT british|JJ couple|NN who|WP came|VBD in|IN 1995|CD to|TO manage|NN a|DT hotel|NN and|CC restaurant|NN in|IN missouri|NN it|PRP might|MD mean|VB soon|RB sending|VBG their|PRP$ eldest|NN daughter|NN back|RB to|TO a|DT country|NN she|PRP barely|RB knows|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ali|NN and|CC ian|JJ gray|NN came|VBD on|IN e2|NNP visas|IN and|CC the|DT program|NN allowed|VBD them|PRP to|TO bring|VB lauren|NNS then|RB four|CD years|NNS old|JJ </s>|S_END
+<s>|S_START she|PRP grew|VBD up|RP on|IN the|DT flat|JJ plains|NNS was|VBD a|DT cheerleader|NN in|IN high|JJ school|NN and|CC studied|VBD dance|NN at|IN a|DT nearby|JJ womens|NNS college|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC she|PRP will|MD no|RB longer|RBR be|VB able|JJ to|TO stay|VB on|RP her|PRP$ parents|NNS visa|VBP as|RB of|IN wednesday|NN when|WRB she|PRP turns|VBZ 21|CD </s>|S_END
+<s>|S_START she|PRP can|MD try|VB and|CC get|VB her|PRP$ own|JJ visa|NN but|CC shes|VBZ been|VBN on|IN that|DT list|NN since|IN she|PRP was|VBD 12|CD </s>|S_END
+<s>|S_START the|DT us|PRP immigration|NN system|NN is|VBZ so|RB backlogged|VBN shes|NNS still|RB in|IN line|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ just|RB not|RB right|RB and|CC not|RB fair|JJ </s>|S_END
+<s>|S_START i|PRP am|VBP an|DT american|JJ lauren|NN said|VBD </s>|S_END
+<s>|S_START i|PRP had|VBD so|RB many|JJ plans|NNS here|RB so|RB many|JJ options|NNS so|RB many|JJ connections|NNS </s>|S_END
+<s>|S_START im|NN going|VBG to|TO have|VB to|TO learn|VB an|DT entire|JJ new|JJ culture|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START no|DT consideration|NN is|VBZ given|VBN to|TO her|PRP$ familys|NNS economic|JJ contribution|NN to|TO the|DT tiny|NN midwestern|NN town|NN of|IN trenton|NN where|WRB theyve|JJ doubled|VBN the|DT staff|NN at|IN the|DT lakeview|NN motor|NN lodge|NN and|CC restaurant|NN to|TO 30|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT lastditch|NN effort|NN lauren|NNS and|CC her|PRP$ mother|NN traveled|VBD to|TO washington|VB dc|NN last|JJ week|NN to|TO meet|VB with|IN congressional|JJ staffers|NNS to|TO plead|VB for|IN a|DT solution|NN </s>|S_END
+<s>|S_START they|PRP faced|VBD resistance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ so|IN frustrating|VBG lauren|NNS gray|VBP said|VBN </s>|S_END
+<s>|S_START they|PRP know|VBP the|DT system|NN is|VBZ broken|VBN but|CC they|PRP still|RB enforce|VBP it|PRP </s>|S_END
+<s>|S_START no|DT one|NN seems|VBZ to|TO think|VB anything|NN can|MD be|VB changed|VBN so|RB theyve|JJ given|VBN up|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT family|NN is|VBZ trying|VBG to|TO get|VB an|DT exemption|NN but|CC its|PRP$ still|RB uncertain|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN entrepreneurs|NNS with|IN an|DT eye|NN toward|IN the|DT united|VBN states|NNS its|PRP$ an|DT ominous|JJ warning|NN you|PRP can|MD come|VB here|RB and|CC hire|VB americans|NNS but|CC expect|VBP no|DT gratitude|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT problem|NN with|IN the|DT e2|NNP visa|NN is|VBZ that|IN renewals|NNS arent|VBP guaranteed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT married|VBN couple|NN from|IN ireland|NN that|IN owns|VBZ a|DT restaurant|NN in|IN new|JJ england|NN experienced|VBN that|IN first|JJ hand|NN earlier|RBR this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN february|JJ they|PRP returned|VBD to|TO ireland|VB to|TO renew|VB their|PRP$ visas|NNS as|IN they|PRP had|VBD done|VBN every|DT two|CD years|NNS for|IN almost|RB a|DT decade|NN </s>|S_END
+<s>|S_START while|IN there|EX us|PRP immigration|NN officials|NNS denied|VBD the|DT renewal|NN and|CC wouldnt|NN let|VB them|PRP back|RB in|IN to|TO shut|VB their|PRP$ business|NN </s>|S_END
+<s>|S_START the|DT restaurant|NN which|WDT had|VBD three|CD employees|NNS eventually|RB closed|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP took|VBD six|CD weeks|NNS and|CC creative|JJ legal|JJ moves|NNS to|TO get|VB them|PRP in|IN temporarily|RB and|CC reunite|VB them|PRP with|IN their|PRP$ children|NNS </s>|S_END
+<s>|S_START theyve|NN asked|VBD to|TO remain|VB unnamed|VBN fearing|VBG retribution|NN in|IN a|DT system|NN without|IN recourse|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START still|RB the|DT e2|NNP visa|NN program|NN is|VBZ popular|JJ </s>|S_END
+<s>|S_START since|IN 2009|CD at|IN least|JJS 33000|CD applications|NNS have|VBP been|VBN filed|VBN every|DT year|NN on|IN average|JJ 25926|CD visas|NNS were|VBD issued|VBN annually|RB </s>|S_END
+<s>|S_START but|CC its|PRP$ narrow|NN options|NNS discourage|NN investment|NN said|VBD brent|NN renison|NN a|DT portland|NN ore|NN immigration|NN attorney|NN representing|VBG the|DT grays|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START people|NNS need|VBP to|TO be|VB assured|VBN that|IN if|IN theyre|NN putting|VBG all|DT this|DT money|NN into|IN the|DT united|JJ states|NNS they|PRP can|MD stay|VB here|RB renison|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT us|PRP state|VBP department|NN which|WDT issues|NNS visas|VBD told|VBN cnnmoney|NN it|PRP can|MD only|RB follow|VB orders|NNS from|IN congress|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT proposal|NN that|WDT seeks|VBZ to|TO change|VB that|IN was|VBD introduced|VBN in|IN a|DT house|NN bill|NN in|IN late|JJ july|RB by|IN rep|NN john|NN conyers|NNS a|DT democrat|NN </s>|S_END
+<s>|S_START it|PRP would|MD offer|VB green|JJ cards|NNS to|TO business|NN owners|NNS here|RB on|IN e2|NNP visas|IN who|WP hire|NN at|IN least|JJS five|CD americans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bills|NNS republican|MD cosponsor|VB rep|VB jason|NN chaffetz|NN said|VBD it|PRP starts|VBZ to|TO chip|NN away|RB at|IN a|DT system|NN that|WDT is|VBZ broken|VBN top|JJ to|TO bottom|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN we|PRP fix|VBP legal|JJ immigration|NN the|DT country|NN will|MD be|VB better|JJR off|IN chaffetz|NN said|VBD </s>|S_END
+<s>|S_START its|PRP$ good|JJ for|IN our|PRP$ economy|NN and|CC its|PRP$ good|JJ for|IN our|PRP$ vitality|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB its|PRP$ doubtful|JJ whether|IN congress|NN can|MD come|VB together|RB to|TO address|VB an|DT issue|NN as|IN divisive|JJ and|CC complex|JJ as|IN immigration|NN especially|RB during|IN an|DT election|NN year |NN </s>|S_END
+</p>|P_END
+

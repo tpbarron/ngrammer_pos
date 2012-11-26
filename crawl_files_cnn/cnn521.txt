@@ -1,0 +1,96 @@
+<p>
+<s>new york cnnmoney  theres a good chance your banks website was attacked over the past week</s>
+</p>
+
+<p>
+<s>since sept 19 the websites of bank of america bac fortune 500 jpmorgan chase jpm fortune 500 wells fargo wfc fortune 500 us bank usb fortune 500 and pnc bank have all suffered daylong slowdowns and been sporadically unreachable for many customers</s>
+<s>the attackers who took aim at bank of america first went after their targets in sequence</s>
+<s>thursdays victim pncs website was inaccessible at the time this article was published</s>
+</p>
+
+<p>
+<s>security experts say the outages stem from one of the biggest cyberattacks theyve ever seen</s>
+<s>these denial of service attacks  huge amounts of traffic directed at a website to make it crash  were the largest ever recorded by a wide margin according to two researchers</s>
+</p>
+
+<p>
+<s>banks get hit by cyberattackers all the time and typically have some of the best defenses against them</s>
+<s>this time they were outgunned</s>
+</p>
+
+<p>
+<s>the volume of traffic sent to these sites is frankly unprecedented said dmitri alperovitch cofounder of crowdstrike a security firm that has been investigating the attacks</s>
+<s>its 10 to 20 times the volume that we normally see and twice the previous record for a denial of service attack</s>
+</p>
+
+<p>
+<s>to carry out the cyberattacks the attackers got hold of thousands of highpowered application servers and pointed them all at the targeted banks</s>
+<s>that overwhelmed bank of america and chases web servers on sept 19 wells fargo and us bank on wednesday and pnc on thursday</s>
+<s>fred solomon a spokesman for pnc confirmed that a high volume of traffic on thursday was affecting users ability to access the website but he declined to go into more detail</s>
+</p>
+
+<p>
+<s>denial of service attacks are an effective but unsophisticated tool that doesnt involve any actual hacking</s>
+<s>no data was stolen from the banks and their transactional systems  like their atm networks  remained unaffected</s>
+<s>the aim of the attacks was simply to temporarily knock down the banks publicfacing websites</s>
+</p>
+
+<p>
+<s>to get hold of all the servers necessary to launch such huge attacks the organizers needed to plan for months alperovitch said</s>
+<s>the servers had to be compromised and linked together into a network called a botnet</s>
+</p>
+
+<p>
+<s>that level of preplanning is a deviation from the kinds of denial of service attacks launched at banks in the past by socalled hacktivists</s>
+<s> typically hacktivists use home pcs infected with malware to amass their botnets</s>
+<s>attacks on this scale would be impossible to carry out with home pcs  users too frequently turn them off or disconnect them from the internet</s>
+</p>
+
+<p>
+<s>the islamist group izz addin alqassam cyber fighters publicly claimed responsibility for the attacks in what it called operation ababil but researchers are divided about how seriously to take their claims</s>
+<s>the group has launched attacks in the past but those have been far less coordinated than the recent batch</s>
+</p>
+
+<p>
+<s>sen joe lieberman an independent from connecticut said in a cspan interview on wednesday that he believed the attacks were launched by iran</s>
+</p>
+
+<p>
+<s>i dont believe these were just hackers who were skilled enough to cause disruption of the websites he said</s>
+<s>i think this was done by iran  and i believe it was a response to the increasingly strong economic sanctions that the united states and our european allies have put on iranian financial institutions</s>
+</p>
+
+<p>
+<s>a call requesting comment from the department of homeland securitys cybersecurity office was not immediately returned</s>
+</p>
+
+<p>
+<s>a cybersecurity firm following the attacks also expressed doubt about the connections between the cyber fighters and the bank attacks</s>
+<s>on social networks and chat forums the group urged its followers to use a mobile low orbit ion cannon  a software tool typically used by anonymous and other hacktivist groups to direct a massive flood of traffic at a targeted site</s>
+</p>
+
+<p>
+<s>that tool was not used in the attack according to ronen kenig director of security products at network security firm radware</s>
+</p>
+
+<p>
+<s>supporters of this group didnt join in the attack at all or they joined in but didnt use that tool said kenig</s>
+<s>the attack used a botnet instead</s>
+<s> he doesnt think the cyber fighters would have access to a botnet as advanced as the one used by the attackers</s>
+</p>
+
+<p>
+<s>but crowdstrikes alperovitch said he is quite confident the perpetrator was the izz addin alqassam cyber fighters since they announced each attack well before it was carried out and the attack wasnt that sophisticated  it just took significant planning</s>
+<s>pnc was the last target on the lists the cyber fighters have circulated but more attacks could still be coming</s>
+</p>
+
+<p>
+<s>both researchers agree that the controversial antimuslim youtube video was not the initial impetus for the attacks as the cyber fighters claimed in messages recruiting volunteers to join in</s>
+<s>before the video was even released the group claimed responsibility for similar attacks</s>
+</p>
+
+<p>
+<s>the video is simply an excuse alperovitch said</s>
+<s>its a red herring</s>
+</p>
+

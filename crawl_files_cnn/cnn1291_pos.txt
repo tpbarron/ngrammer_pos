@@ -1,0 +1,57 @@
+<p>|P_START
+<s>|S_START washington|NN cnnmoney|NN republicans|NNS used|VBN the|DT federal|JJ reserves|NNS announcement|NN of|IN a|DT third|JJ round|NN of|IN stimulus|NN to|TO blast|VB president|NN obama|NN saying|VBG the|DT lackluster|NN economic|JJ recovery|NN hes|NNS overseen|IN is|VBZ behind|IN the|DT central|JJ banks|NNS artificial|JJ and|CC ineffective|JJ move|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS republicans|NNS including|VBG the|DT campaign|NN of|IN presidential|JJ candidate|NN mitt|NN romney|NN used|VBD the|DT feds|NNS move|VBP to|TO tout|IN their|PRP$ main|JJ campaign|NN message|NN going|VBG into|IN the|DT nov|NN 6|CD elections|NNS that|WDT obamas|VBZ economic|JJ stewardship|NN has|VBZ failed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT federal|JJ reserves|NNS announcement|NN of|IN a|DT third|JJ round|NN of|IN quantitative|JJ easing|NN is|VBZ further|RBR confirmation|NN that|IN president|NN obamas|NNS policies|NNS have|VBP not|RB worked|VBN said|VBD lanhee|NN chen|NN policy|NN director|NN for|IN the|DT romney|NN campaign|NN in|IN a|DT statement|NN thursday|NN </s>|S_END
+<s>|S_START we|PRP should|MD be|VB creating|VBG wealth|NN not|RB printing|VBG dollars|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START republicans|NNS including|VBG romney|NN have|VBP criticized|VBN quantitative|JJ easing|NN the|DT feds|NNS prime|VBP tool|NN for|IN juicing|NN the|DT economy|NN by|IN buying|NN debt|NN to|TO increase|VB the|DT flow|NN of|IN money|NN in|IN the|DT financial|JJ system|NN </s>|S_END
+<s>|S_START they|PRP say|VBP fed|VBN is|VBZ risking|VBG a|DT runup|NN in|IN inflation|NN with|IN the|DT moves|NNS which|WDT they|PRP dismiss|VBP as|IN unhelpful|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD federal|JJ reserve|NN launches|NNS qe3|NNP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START several|JJ republicans|NNS including|VBG sen|NN bob|NN corker|NN of|IN tennessee|NN went|VBD so|RB far|RB as|IN to|TO blast|VB the|DT central|JJ banks|NNS actions|NNS as|RB beginning|VBG to|TO do|VB serious|JJ damage|NN to|TO the|DT fed|JJ as|IN an|DT institution|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START openended|VBD purchases|NNS of|IN mortgagebacked|VBN securities|NNS will|MD politicize|VB the|DT fed|VBN and|CC add|JJ substantially|RB to|TO its|PRP$ balance|NN sheet|NN risks|NNS but|CC it|PRP will|MD not|RB help|VB our|PRP$ economys|NNS longterm|NN growth|NN prospects|NNS corker|NN said|VBD in|IN a|DT statement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rep|NN kevin|NN brady|RB a|DT texas|NN republican|NN accused|VBD the|DT fed|VBN of|IN adding|NN more|JJR uncertainty|NN to|TO the|DT market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ time|NN for|IN the|DT fed|JJ to|TO stop|VB said|VBN brady|NN the|DT top|JJ republican|NN on|IN the|DT joint|JJ economic|JJ committee|NN </s>|S_END
+<s>|S_START chairman|NN bernanke|VBD should|MD look|VB president|NN obama|NN and|CC congress|NN in|IN the|DT eye|NN and|CC tell|NN them|PRP the|DT fed|JJ has|VBZ done|VBN all|DT it|PRP can|MD to|TO boost|VB the|DT economy|NN and|CC perhaps|RB too|RB much|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fed|VBD chairman|NN ben|VBN bernanke|NN defended|VBD against|IN such|JJ criticism|NN during|IN a|DT news|NN conference|NN thursday|NN saying|VBG the|DT central|JJ bank|NN would|MD continue|VB monitoring|VBG the|DT financial|JJ system|NN for|IN price|NN stability|NN </s>|S_END
+<s>|S_START he|PRP added|VBD the|DT fed|VBN board|NN sees|NNS no|DT indication|NN of|IN unchecked|VBN inflation|NN in|IN the|DT near|NN future|NN but|CC would|MD keep|VB an|DT eye|NN out|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bernanke|NN also|RB dismissed|VBD any|DT suggestion|NN that|IN the|DT feds|NNS move|VBP might|MD be|VB seen|VBN in|IN a|DT political|JJ way|NN to|TO help|VB democrats|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP have|VBP tried|VBN very|RB very|RB hard|RB and|CC i|PRP think|VBP weve|JJ been|VBN successful|JJ to|TO be|VB nonpartisan|JJ and|CC apolitical|JJ bernanke|NN said|VBD </s>|S_END
+<s>|S_START we|PRP make|VBP our|PRP$ decisions|NNS entirely|RB based|VBN on|IN the|DT state|NN of|IN the|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START last|JJ month|NN romney|NN said|VBD that|IN if|IN elected|VBN he|PRP would|MD not|RB renominate|VB ben|VBN bernanke|NN to|TO a|DT third|JJ term|NN as|IN the|DT federal|JJ reserve|NN board|NN chairman|NN when|WRB bernankes|NNS term|VBP expires|NNS in|IN january|JJ 2014|CD </s>|S_END
+</p>|P_END
+

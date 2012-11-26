@@ -1,0 +1,113 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN us|PRP unemployment|NN fell|VBD to|TO 78|CD in|IN september|NN </s>|S_END
+<s>|S_START but|CC that|DT doesnt|NN mean|NN the|DT other|JJ 922|CD of|IN adults|NNS are|VBP working|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT unemployment|NN rate|NN only|RB measures|VBZ people|NNS who|WP have|VBP searched|VBN for|IN jobs|NNS in|IN the|DT last|JJ four|CD weeks|NNS while|IN millions|NNS of|IN other|JJ outofwork|NN americans|NNS arent|NN included|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC some|DT economists|NNS think|VBP theres|NNS a|DT better|JJR way|NN to|TO measure|VB the|DT health|NN of|IN the|DT job|NN market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START along|IN with|IN the|DT official|NN unemployment|NN rate|NN the|DT department|NN of|IN labor|NN also|RB calculates|VBZ something|NN called|VBN the|DT employmentpopulation|NN ratio|NN which|WDT measures|NNS the|DT percent|NN of|IN the|DT us|PRP adult|VBD population|NN that|IN has|VBZ a|DT job|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT rate|NN currently|RB stands|VBZ at|IN 587|CD </s>|S_END
+<s>|S_START while|IN it|PRP jumps|VBZ around|IN slightly|RB from|IN month|NN to|TO month|NN it|PRP has|VBZ essentially|RB been|VBN stuck|NN there|RB for|IN three|CD years|NNS close|JJ to|TO the|DT lowest|JJS level|NN since|IN the|DT 1980s|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT paints|NNS a|DT much|RB bleaker|NN picture|NN of|IN the|DT job|NN market|NN than|IN the|DT unemployment|NN rate|NN which|WDT has|VBZ fallen|VBN considerably|RB in|IN the|DT last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT employmenttopopulation|NN ratio|NN is|VBZ the|DT best|JJS measure|NN of|IN labor|NN market|NN conditions|NNS and|CC it|PRP currently|RB shows|VBZ that|IN there|EX has|VBZ been|VBN almost|RB no|DT improvement|NN whatsoever|NN over|IN the|DT past|JJ three|CD years|NNS paul|JJ ashworth|JJ chief|NN north|JJ american|NN economist|NN for|IN capital|NN economics|NNS said|VBD in|IN a|DT note|NN to|TO clients|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ratio|NN is|VBZ also|RB telling|VBG because|IN it|PRP means|VBZ that|IN 41|CD of|IN workingage|NN americans|NNS are|VBP out|IN of|IN a|DT job|NN for|IN one|CD reason|NN or|CC another|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN who|WP are|VBP the|DT nonworking|VBG and|CC why|WRB dont|NN they|PRP have|VBP jobs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD why|WRB the|DT unemployment|NN rate|NN wont|NN keep|VB dropping|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START about|IN 5|CD of|IN the|DT adult|NN population|NN is|VBZ unemployed|VBN in|IN the|DT technical|JJ sense|NN of|IN the|DT word|NN meaning|NN they|PRP dont|VBP have|VBP jobs|NNS but|CC they|PRP looked|VBD for|IN one|CD in|IN the|DT last|JJ four|CD weeks|NNS </s>|S_END
+<s>|S_START another|DT 3|CD want|NN a|DT job|NN but|CC havent|NN search|NN for|IN one|CD for|IN at|IN least|JJS a|DT month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT leaves|VBZ about|IN 82|CD million|CD people|NNS who|WP simply|RB dont|VBP want|JJ a|DT job|NN </s>|S_END
+<s>|S_START about|IN 60|CD of|IN them|PRP are|VBP either|RB over|IN age|NN 65|CD or|CC under|IN age|NN 25|CD </s>|S_END
+<s>|S_START presumably|RB many|JJ are|VBP retirees|NNS or|CC fulltime|VB students|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT rest|NN are|VBP in|IN their|PRP$ prime|JJ working|VBG years|NNS between|IN ages|NNS 25|CD and|CC 65|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT could|MD be|VB stayathome|VBN parents|NNS or|CC people|NNS who|WP cant|JJ work|NN due|JJ to|TO health|NN problems|NNS </s>|S_END
+<s>|S_START the|DT wealthy|JJ day|NN trader|NN who|WP lives|NNS off|VBP his|PRP$ investments|NNS is|VBZ in|IN this|DT category|NN too|RB </s>|S_END
+<s>|S_START so|IN is|VBZ the|DT struggling|VBG artist|NN or|CC musician|JJ who|WP might|MD not|RB want|VB a|DT traditional|JJ job|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ultimately|RB the|DT measure|NN is|VBZ really|RB showing|VBG just|RB how|WRB engaged|VBN the|DT american|NN population|NN is|VBZ in|IN wageearning|NN jobs|NNS arguably|RB a|DT better|JJR gauge|NN of|IN economy|NN than|IN the|DT unemployment|NN rate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ratio|NN expresses|VBZ more|JJR clearly|RB how|WRB many|JJ people|NNS find|VBP working|VBG to|TO be|VB a|DT good|JJ or|CC attractive|JJ deal|NN said|VBD tyler|NN cowen|NN economist|NN and|CC director|NN of|IN the|DT mercatus|NN center|NN at|IN george|NN mason|NN university|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD teaching|NN jobs|NNS finally|RB coming|VBG back|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC while|IN the|DT indicator|NN is|VBZ clearly|RB more|RBR intuitive|JJ than|IN the|DT unemployment|NN rate|NN its|PRP$ not|RB a|DT perfect|NN measure|NN of|IN the|DT job|NN market|NN either|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START demographic|JJ trends|NNS can|MD play|VB a|DT role|NN </s>|S_END
+<s>|S_START for|IN example|NN as|IN women|NNS started|VBN entering|VBG the|DT workforce|NN in|IN greater|JJR numbers|NNS in|IN the|DT 1960s|CD the|DT ratio|NN increased|VBD rapidly|RB </s>|S_END
+<s>|S_START gradually|RB a|DT larger|JJR portion|NN of|IN the|DT adult|NN population|NN became|VBD officially|RB employed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN the|DT other|JJ hand|NN the|DT measure|NN can|MD make|VB the|DT job|NN market|NN seem|NN worse|NN if|IN large|JJ groups|NNS are|VBP leaving|VBG the|DT work|NN force|NN </s>|S_END
+<s>|S_START for|IN example|NN the|DT ratio|NN fell|VBD from|IN about|IN 63|CD in|IN 2007|CD to|TO 59|CD just|RB two|CD years|NNS later|RBR </s>|S_END
+<s>|S_START part|NN of|IN that|DT drop|NN is|VBZ due|JJ to|TO people|NNS losing|VBG jobs|NNS in|IN the|DT financial|JJ crisis|NN </s>|S_END
+<s>|S_START another|DT part|NN is|VBZ due|JJ to|TO baby|VB boomers|NNS retiring|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD way|NN to|TO avoid|VB retirees|NNS clouding|VBG the|DT data|NNS is|VBZ to|TO look|VB at|IN the|DT employmentpopulation|NN ratio|NN for|IN the|DT 25|CD to|TO 54|CD age|NN group|NN says|VBZ greg|NN mankiw|NN harvard|NN economist|NN and|CC adviser|NN to|TO mitt|VB romney|NN </s>|S_END
+<s>|S_START that|DT number|NN has|VBZ also|RB shown|VBN little|JJ improvement|NN over|IN the|DT last|JJ three|CD years|NNS and|CC is|VBZ near|IN its|PRP$ lowest|NN level|NN since|IN the|DT 1980s|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD should|MD not|RB overstate|VB the|DT differences|NNS in|IN the|DT pictures|NNS that|WDT the|DT various|JJ statistics|NNS paint|VBP he|PRP said|VBD </s>|S_END
+<s>|S_START they|PRP all|VBP show|VBP that|IN the|DT current|JJ recovery|NN is|VBZ meager|JJR compared|VBN with|IN most|JJS previous|JJ recoveries|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT problem|NN with|IN the|DT ratio|NN is|VBZ that|IN it|PRP can|MD be|VB just|RB as|IN politicized|JJ as|IN the|DT unemployment|NN rate|NN </s>|S_END
+<s>|S_START many|JJ republicans|NNS cried|VBN foul|JJ when|WRB the|DT unemployment|NN rate|NN unexpectedly|RB dropped|VBD two|CD weeks|NNS ago|IN </s>|S_END
+<s>|S_START likewise|NN the|DT employmentpopulation|NN ratio|NN is|VBZ also|RB subject|JJ to|TO political|JJ rhetoric|NN and|CC has|VBZ been|VBN used|VBN to|TO blame|VB the|DT incumbent|NN leadership|NN for|IN underlying|VBG economic|JJ weakness|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ratio|NN makes|VBZ the|DT employment|NN problem|NN look|NN worse|NN and|CC in|IN that|DT sense|NN is|VBZ bad|JJ for|IN obama|NN cowen|NN said|VBD </s>|S_END
+<s>|S_START a|DT deeper|NN look|NN however|RB shows|VBZ the|DT ratio|NN has|VBZ been|VBN declining|VBG for|IN many|JJ years|NNS and|CC that|IN its|PRP$ ongoing|JJ decline|NN predates|NNS obama|VBP and|CC most|JJS likely|JJ represents|NNS longerrun|VBP trends|NNS about|IN the|DT world|NN of|IN work|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,46 @@
+<p>|P_START
+<s>|S_START bernie|NN madoff|IN is|VBZ serving|VBG a|DT 150year|JJ prison|NN sentence|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hong|IN kong|JJ cnnmoney|NN irwin|NN lipkin|NN the|DT former|JJ controller|NN of|IN bernie|NN madoffs|NNS investment|NN company|NN pleaded|VBD guilty|JJ in|IN manhattan|NN federal|JJ court|NN to|TO falsifying|VBG documents|NNS and|CC conspiring|VBG to|TO commit|VB securities|NNS fraud|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START preet|NN bharara|NN the|DT manhattan|NN district|NN attorney|NN described|VBD lipkin|NN in|IN a|DT statement|NN as|IN a|DT loyal|JJ foot|NN soldier|NN to|TO madoff|VB his|PRP$ longtime|NN employer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT guilty|NN plea|NN covers|VBZ charges|NNS of|IN conspiracy|NN to|TO commit|VB securities|NNS fraud|NN to|TO falsify|VB records|NNS and|CC to|TO make|VB false|NN filings|NNS with|IN the|DT securities|NNS and|CC exchange|NN commission|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN his|PRP$ own|JJ admission|NN irwin|NN lipkin|NN aided|VBD and|CC abetted|VBN bernard|NN madoff|IN in|IN his|PRP$ colossal|NN ponzi|NN scheme|NN for|IN more|JJR than|IN two|CD decades|NNS fbi|VBP acting|VBG assistant|NN directorincharge|NN mary|NN galligan|NN said|VBD in|IN a|DT statement|NN </s>|S_END
+<s>|S_START he|PRP regularly|RB and|CC routinely|RB cooked|VBD the|DT books|NNS a|DT recipe|NN for|IN concealing|NN the|DT largest|JJS investment|NN fraud|NN in|IN history|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN the|DT twocount|NN guilty|NN plea|NN lipkin|NN joins|VBZ a|DT growing|VBG list|NN of|IN madoff|NN associates|NNS facing|VBG long|RB jail|NN sentences|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START madoffs|NNS brother|VBP peter|NN who|WP worked|VBD at|IN the|DT firm|NN with|IN him|PRP recently|RB pleaded|VBD guilty|JJ to|TO charges|NNS of|IN conspiracy|NN and|CC falsifying|VBG investment|NN records|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD madoff|IN ruined|VBN thousands|NNS including|VBG his|PRP$ son|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC in|IN october|NN federal|JJ prosecutors|NNS filed|VBN new|JJ charges|NNS against|IN five|CD additional|JJ madoff|NN employees|NNS saying|VBG that|IN his|PRP$ massive|JJ scheme|NN to|TO defraud|VB investors|NNS started|VBN in|IN the|DT 1970s|CD much|JJ earlier|JJR than|IN previously|RB alleged|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START last|JJ year|NN lipkins|NNS son|NN eric|JJ who|WP also|RB worked|VBD for|IN madoff|NN pleaded|VBD guilty|JJ to|TO criminal|JJ charges|NNS of|IN conspiracy|NN fraud|NN and|CC making|VBG false|NN statements|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START madoff|IN pleaded|VBN guilty|JJ in|IN march|NN 2009|CD to|TO orchestrating|NN the|DT largest|JJS ponzi|NN scheme|NN in|IN history|NN cheating|NN thousands|NNS of|IN victims|NNS out|IN of|IN billions|NNS of|IN dollars|NNS </s>|S_END
+<s>|S_START he|PRP is|VBZ currently|RB serving|VBG a|DT 150year|JJ sentence|NN in|IN federal|JJ prison|NN in|IN north|JJ carolina|NN </s>|S_END
+</p>|P_END
+

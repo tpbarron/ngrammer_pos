@@ -1,0 +1,66 @@
+<p>
+<s>an urge to know what others will be up to next is part of the human condition</s>
+<s>soothsayers fortunetellers stockbrokers—and publications like this one—have been catering to that obsession since mankind first began making plans for the future</s>
+<s>their record has been mixed</s>
+<s>the biggest hurdle is the apparent unpredictability of individual behaviour</s>
+<s>but if you knew the mood of all those involved might a clearer picture emerge</s>
+</p>
+
+<p>
+<s>the problem is that those involved can number millions and their thinking is tricky to tap</s>
+<s>but a new breed of forecasters think it is becoming a little easier</s>
+<s>they are using “sentiment analysis” to pick out the emotionally charged words and phrases which pepper online exchanges</s>
+</p>
+
+<p>
+<s>for instance johan bollen of indiana university bloomington has been trawling socialnetworking sites like twitter for hints about peoples disposition—and trying to see how collective mood swings follow and more important foretell the course of events</s>
+<s>dr bollens software has so impressed derwent capital markets that the investment boutique has licensed it for one of its funds</s>
+</p>
+
+<p>
+<s>kalev leetaru of the university of illinois has looked at the still more ubiquitous old media</s>
+<s>he reckons he has found a way to forecast revolutions</s>
+<s>he examined almost 4m articles from the bbcs summary of world broadcasts swb set up by britains authorities shortly before the second world war</s>
+<s>its aim was to scour publicly available foreign information—newspaper articles television and radio broadcasts and the like—for hints of attitudes towards the west plus any other potentially helpful titbits</s>
+</p>
+
+<p>
+<s>today the swb covers 32000 sources in over 130 countries</s>
+<s>foreignlanguage reports are meticulously translated to capture as many vernacular nuances as possible</s>
+<s>crucially swb data going back to 1979 have now been digitised</s>
+<s>this has allowed dr leetaru to recruit a supercomputer to compare the relative frequency of positive and negative words in millions of reports arriving at a figure for each reports emotional tone</s>
+<s>these figures are then combined with placename clues about which part of the world the reports concern to produce a global map of sentiment</s>
+</p>
+
+<p>
+<s>words can of course be used ironically to mean their opposite</s>
+<s>irony has been a bugbear of sentiment analysis computers unlike most people continue to be stumped by it</s>
+<s>yet the length of the swbs content makes that less of a problem than it is for say short tweets</s>
+</p>
+
+<p>
+<s>moreover by looking at seasonal variations in tone caused by factors like availability of food dr leetarus software can tell whether any changes conform to a cycle of collective mood swings which have not historically sparked unrest</s>
+<s>only if the souring of sentiment appears out of the ordinary would the model predict real trouble brewing</s>
+</p>
+
+<p>
+<s>the results are remarkable</s>
+<s>dr leetarus map correctly indicated that resentment for autocratic rule was about to boil over in egypt and libya weeks before it actually did</s>
+<s>the swb had too few articles about tunisia for a reliable prediction</s>
+<s> it also accurately fingered northern pakistan as the area where osama bin laden was most probably hiding</s>
+</p>
+
+<p>
+<s>so far dr leetaru has looked only at how his model would have fared with the benefit of hindsight</s>
+<s>in 2012 there will be more forwardlooking predictions</s>
+<s>that though is just an unscientific hunch</s>
+</p>
+
+<p>
+<s> </s>
+</p>
+
+<p>
+<s>jan piotrowski online science editor the economist</s>
+</p>
+

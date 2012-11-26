@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 02|CD gdp|NN $|$ 2201bn|CD ppp|CD $|$ 1994bn|CD inflation|NN 18|CD population|NN 610m|CD gdp|NN per|IN head|NN $|$ 36100|CD ppp|CD $|$ 32700|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ilvio|NN berlusconi|NN assailed|VBD at|IN home|NN by|IN the|DT courts|NNS and|CC the|DT victims|NNS of|IN austerity|NN and|CC abroad|RB by|IN the|DT financial|JJ markets|NNS will|MD not|RB make|VB it|PRP to|TO the|DT 2013|CD elections|NNS a|DT nationalunity|NN government|NN will|MD probably|RB be|VB convened|VBN to|TO serve|VB out|RP his|PRP$ term|NN </s>|S_END
+<s>|S_START euro|NN woes|VBZ have|VB focused|VBN attention|NN on|IN italys|NNS dysfunctional|JJ economy|NN and|CC policy|NN will|MD move|VB in|IN response|NN to|TO the|DT markets|NNS concern|NN about|IN the|DT countrys|NNS ability|NN to|TO grow|VB its|PRP$ way|NN out|IN of|IN danger|JJR </s>|S_END
+<s>|S_START fiscal|JJ tightening|NN will|MD narrow|VB the|DT budget|NN gap|NN but|CC also|RB weigh|JJ down|IN the|DT economy|NN which|WDT will|MD contract|VB in|IN 2012 |CD </s>|S_END
+</p>|P_END
+

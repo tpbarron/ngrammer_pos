@@ -1,0 +1,12 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 17|CD gdp|NN $|$ 224bn|CD ppp|CD $|$ 283bn|CD inflation|NN 28|CD population|NN 105m|CD gdp|NN per|IN head|NN $|$ 21290|CD ppp|CD $|$ 26870|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START divisions|NNS between|IN and|CC within|IN the|DT three|CD parties|NNS of|IN the|DT ruling|NN centreright|NN coalition|NN as|IN well|RB as|IN a|DT succession|NN of|IN corruption|NN scandals|NNS threaten|VBN the|DT government|NN </s>|S_END
+<s>|S_START the|DT attractions|NNS of|IN incumbency|NN will|MD outweigh|VB them|PRP and|CC the|DT administration|NN will|MD survive|VB </s>|S_END
+<s>|S_START enate|NN elections|NNS are|VBP likely|JJ to|TO see|VB further|JJ gains|NNS by|IN the|DT czech|JJ social|JJ democratic|JJ party|NN cssd|NN which|WDT already|RB dominates|VBZ the|DT chamber|NN </s>|S_END
+<s>|S_START however|RB its|PRP$ senate|NN vetoes|VBZ can|MD be|VB overturned|VBN by|IN the|DT progovernment|NN majority|NN in|IN the|DT lower|JJR house|NN so|IN the|DT cssds|NNS next|IN opportunity|NN for|IN power|NN will|MD not|RB come|VB until|IN general|JJ elections|NNS in|IN 2014|CD </s>|S_END
+<s>|S_START the|DT government|NN aims|VBZ to|TO balance|NN its|PRP$ budget|NN by|IN 2016|CD so|RB austerity|NN will|MD hold|VB back|RB the|DT economy|NN which|WDT will|MD grow|VB at|IN a|DT lacklustre|NN pace|NN </s>|S_END
+</p>|P_END
+

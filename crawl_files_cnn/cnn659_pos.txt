@@ -1,0 +1,108 @@
+<p>|P_START
+<s>|S_START using|VBG the|DT same|JJ underlying|NN hardware|NN as|IN microsofts|NNS kinect|VBP the|DT matterport|NN scanner|NN right|RB creates|VBZ sophisticated|VBN 3d|JJ scans|NNS left|VBN for|IN a|DT fraction|NN of|IN the|DT usual|JJ cost|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN matt|NN bell|NN isnt|NN a|DT big|JJ videogame|NN player|NN but|CC when|WRB microsofts|NNS motionsensing|VBG gaming|VBG system|NN kinect|NN came|VBD out|RP in|IN late|JJ 2010|CD a|DT light|JJ bulb|NN went|NN off|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bell|NN envisioned|VBD using|VBG the|DT kinects|NNS underlying|VBG technology|NN for|IN other|JJ things|NNS like|IN reconstructing|VBG the|DT world|NN in|IN 3d|CD </s>|S_END
+<s>|S_START i|PRP wanted|VBD to|TO be|VB able|JJ to|TO scan|JJ a|DT room|NN digitally|RB send|VBP that|IN to|TO someone|NN else|RB and|CC let|VB them|PRP walk|VBP around|RP in|IN it|PRP on|IN a|DT computer|NN screen|NN he|PRP says|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START creating|VBG a|DT 3d|JJ scan|NN of|IN a|DT physical|JJ environment|NN is|VBZ typically|RB done|VBN with|IN a|DT laser|NN scanner|NN a|DT process|NN thats|NNS laborintensive|VBP and|CC slow|JJ according|VBG to|TO sam|VB pfeifle|JJ executive|NN editor|NN at|IN the|DT spar|NN point|NN group|NN a|DT trade|NN publisher|NN for|IN 3d|CD imaging|VBG professionals|NNS </s>|S_END
+<s>|S_START its|PRP$ also|RB expensive|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT highend|NN laser|NN scanner|NN costs|NNS about|IN $|$ 40000|CD pfeifle|NN says|VBZ </s>|S_END
+<s>|S_START the|DT kinect|NN is|VBZ basically|RB a|DT $|$ 150|CD version|NN of|IN that|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bell|NN dove|VBD in|IN and|CC started|VBD matterport|NN in|IN mountain|NN view|NN calif|IN with|IN longtime|NN friend|NN and|CC programmer|NN david|VBD gausebeck|NN </s>|S_END
+<s>|S_START eight|NN months|NNS later|JJ they|PRP added|VBD mike|IN beebe|NN who|WP worked|VBD on|IN 3d|CD reconstruction|NN for|IN the|DT military|JJ at|IN stanford|NN research|NN institute|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT partners|NNS created|VBD a|DT handheld|NN scanner|NN that|WDT looked|VBD like|IN a|DT cross|NN between|IN a|DT camera|NN and|CC a|DT kinect|NN sensor|NN </s>|S_END
+<s>|S_START it|PRP worked|VBD well|RB for|IN scanning|VBG objects|NNS but|CC wasnt|NN very|RB efficient|JJ for|IN interior|JJ spaces|NNS </s>|S_END
+<s>|S_START cue|NN the|DT redesign|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT latest|JJS model|NN has|VBZ a|DT head|NN that|WDT fully|RB encloses|VBZ two|CD cameras|NNS sitting|VBG atop|NN a|DT tripod|NN </s>|S_END
+<s>|S_START an|DT ipad|NN functions|NNS as|IN the|DT remote|NN </s>|S_END
+<s>|S_START the|DT devices|NNS innards|NNS use|VBP the|DT same|JJ primesense|NN hardware|NN repacked|VBD by|IN asus|NN in|IN its|PRP$ xtion|NN motionsensing|VBG system|NN that|WDT microsoft|NN uses|VBZ for|IN the|DT kinect|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hit|VBD scan|VBN and|CC the|DT head|NN starts|VBZ turning|VBG 360|CD degrees|NNS while|IN the|DT matterports|NNS ipad|VBD screen|VBN shows|NNS the|DT model|NN being|VBG built|VBN up|RP in|IN 3d|JJ </s>|S_END
+<s>|S_START after|IN its|PRP$ finished|VBN an|DT email|NN goes|VBZ out|RP with|IN a|DT link|NN to|TO the|DT scan|NN on|IN a|DT private|JJ site|NN for|IN clients|NNS </s>|S_END
+<s>|S_START the|DT owner|NN can|MD view|VB it|PRP share|VB it|PRP take|VB measurements|NNS or|CC make|VB notes|NNS on|IN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP want|VBP people|NNS to|TO be|VB able|JJ to|TO communicate|VB in|IN 3d|CD says|VBZ florence|NN shaffer|NN matterports|NNS vice|NN president|NN of|IN sales|NNS and|CC marketing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD of|IN the|DT companys|NNS first|RB scans|VBZ was|VBD of|IN elite|JJ tech|NN incubator|NN y|NN combinators|NNS 3500square|JJ foot|NN office|NN space|NN in|IN silicon|NN valley|NN </s>|S_END
+<s>|S_START matterport|NN was|VBD selected|VBN for|IN y|NN combinators|NNS first|RB 2012|CD mentoring|VBG class|NN which|WDT ran|VBD from|IN january|JJ to|TO march|NN </s>|S_END
+<s>|S_START it|PRP takes|VBZ about|IN 45|CD minutes|NNS to|TO scan|VB a|DT space|NN that|WDT size|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO understand|VB how|WRB the|DT scanner|NN works|VBZ think|NN of|IN each|DT captured|VBN image|NN as|IN a|DT jigsaw|NN puzzle|NN piece|NN </s>|S_END
+<s>|S_START the|DT scanners|NNS cameras|VBZ produce|NN individual|JJ 3d|CD snapshots|NNS which|WDT the|DT software|NN fits|VBZ together|RB </s>|S_END
+<s>|S_START aligning|VBG all|DT those|DT images|NNS is|VBZ a|DT complex|JJ process|NN </s>|S_END
+<s>|S_START it|PRP took|VBD matterports|NNS founders|NNS about|IN six|CD months|NNS to|TO develop|VB a|DT prototype|NN that|WDT worked|VBD </s>|S_END
+<s>|S_START then|RB they|PRP spent|VBD a|DT year|NN talking|VBG to|TO customers|NNS to|TO refine|VB their|PRP$ device|NN and|CC make|VB it|PRP easier|JJR to|TO use|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT company|NN is|VBZ currently|RB running|VBG off|IN a|DT $|$ 16|CD million|CD round|NN of|IN seed|NN funding|NN and|CC a|DT small|JJ cash|NN injection|NN from|IN y|NN combinator|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ just|RB begun|VBN delivering|VBG scanners|NNS to|TO paying|VBG clients|NNS although|IN it|PRP still|RB considers|VBZ its|PRP$ technology|NN to|TO be|VB in|IN beta|NN through|IN the|DT end|NN of|IN this|DT year|NN </s>|S_END
+<s>|S_START pricing|NN details|NNS are|VBP still|RB being|VBG worked|VBN out|RP but|CC bell|RB says|VBZ that|IN the|DT cost|NN of|IN a|DT matterport|NN scanner|NN will|MD be|VB a|DT small|JJ fraction|NN of|IN the|DT cost|NN of|IN a|DT laser|NN scanner|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START spar|NN points|NNS pfeifle|VBP says|VBZ matterport|NN created|VBN something|NN no|RB one|CD else|NN has|VBZ yet|RB an|DT industrial|JJ device|NN based|VBN on|IN kinectlike|NN technology|NN </s>|S_END
+<s>|S_START this|DT is|VBZ the|DT first|JJ time|NN ive|NN seen|VBN anyone|NN come|NN out|IN with|IN a|DT product|NN meant|NN for|IN commercial|JJ use|NN and|CC not|RB video|VB games|NNS he|PRP says|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP thinks|VBZ the|DT companys|NNS biggest|JJS challenge|NN will|MD be|VB simply|RB spreading|VBG the|DT word|NN that|IN it|PRP exists|VBZ </s>|S_END
+<s>|S_START there|EX may|MD be|VB problems|NNS that|WDT the|DT scanner|NN could|MD solve|VB that|IN matterports|NNS people|NNS havent|VBP even|RB envisioned|VBN yet|RB he|PRP says|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START matterports|NNS early|RB customers|NNS are|VBP mostly|RB large|JJ companies|NNS in|IN the|DT construction|NN real|NN estate|NN and|CC retail|JJ industries|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START you|PRP could|MD scan|VB the|DT construction|NN site|NN every|DT day|NN which|WDT would|MD allow|VB you|PRP to|TO intervene|VB before|IN there|EX are|VBP any|DT big|JJ problems|NNS bell|NN says|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN retailers|NNS with|IN stores|NNS spread|VBP out|RP geographically|RB 3d|JJ scans|NNS can|MD provide|VB a|DT detailed|JJ window|NN into|IN the|DT physical|JJ layout|NN of|IN merchandise|NN at|IN the|DT store|NN level|NN </s>|S_END
+<s>|S_START real|JJ estate|NN agents|NNS could|MD use|VB matterports|NNS scans|NNS to|TO allow|VB their|PRP$ clients|NNS to|TO virtually|RB visit|NN a|DT house|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START panoramic|JJ photos|NNS dont|VBP let|VB you|PRP walk|VBP around|RP in|IN a|DT space|NN the|DT way|NN a|DT 3d|JJ model|NN can|MD says|VBZ bell|NN </s>|S_END
+<s>|S_START they|PRP also|RB dont|VBP let|VBN you|PRP see|VBP if|IN your|PRP$ couch|JJ fits|NNS in|IN the|DT living|NN room|NN as|IN matterports|NNS scan|MD does|VBZ </s>|S_END
+<s>|S_START thats|NNS one|CD reason|NN why|WRB manhattan|NN startup|NN lofty|NN is|VBZ using|VBG it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START matterports|NNS technology|VBP blew|JJ me|PRP away|RB says|VBZ ceo|NN dave|NN eisenberg|NN who|WP hunted|VBN through|IN many|JJ of|IN the|DT commercially|RB available|JJ 3d|JJ capture|NN options|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lofty|NN takes|VBZ 3d|JJ models|NNS of|IN home|NN and|CC office|NN spaces|NNS and|CC makes|VBZ them|PRP usable|JJ on|IN the|DT web|NN for|IN consumers|NNS </s>|S_END
+<s>|S_START ceo|NN dave|VBD eisenberg|NN says|VBZ his|PRP$ team|NN is|VBZ building|VBG software|NN to|TO layer|NN on|IN top|JJ of|IN matterports|NNS scanning|VBG technology|NN we|PRP will|MD beautify|VB the|DT 3d|JJ models|NNS making|VBG them|PRP more|JJR userfriendly|RB for|IN those|DT who|WP arent|NN familiar|VBP with|IN 3d|JJ </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,90 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN its|PRP$ well|NN established|VBD that|IN the|DT richer|NN you|PRP are|VBP the|DT more|RBR likely|JJ you|PRP are|VBP to|TO vote|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC why|WRB arent|NN the|DT less|RBR welloff|NN turning|VBG out|RP at|IN the|DT polls|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT 2008|CD presidential|JJ election|NN 80|CD of|IN adults|NNS from|IN families|NNS earning|VBG at|IN least|JJS $|$ 100000|CD a|DT year|NN voted|VBD while|IN only|RB 52|CD of|IN adults|NNS from|IN families|NNS earning|VBG $|$ 20000|CD or|CC less|JJR cast|JJ a|DT vote|NN according|VBG to|TO data|NNS from|IN the|DT census|NN bureau|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START married|VBD homeowners|NNS with|IN college|NN degrees|NNS are|VBP also|RB far|RB more|RBR likely|JJ to|TO vote|VB than|IN single|JJ renters|NNS with|IN high|JJ school|NN diplomas|NNS </s>|S_END
+<s>|S_START older|JJR people|NNS are|VBP often|RB more|RBR politically|RB involved|VBN while|IN younger|JJR voters|NNS who|WP tend|VBP to|TO skew|VB lower|JJR in|IN income|NN may|MD not|RB feel|VB as|IN tied|VBN to|TO a|DT community|NN and|CC vote|NN less|RBR frequently|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD reason|NN for|IN the|DT voting|NN disparity|NN is|VBZ that|IN lowerincome|NN people|NNS tend|VBP to|TO be|VB less|JJR educated|VBN and|CC not|RB as|IN politically|RB active|JJ in|IN general|JJ </s>|S_END
+<s>|S_START in|IN contrast|NN wealthier|NN people|NNS are|VBP often|RB better|RBR connected|VBN to|TO donors|NNS community|NN leaders|NNS and|CC politicians|NNS who|WP encourage|NN them|PRP to|TO vote|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START people|NNS with|IN more|JJR income|NN are|VBP likely|JJ to|TO feel|VB like|IN they|PRP have|VBP more|JJR at|IN stake|NN in|IN terms|NNS of|IN taxes|NNS public|JJ services|NNS and|CC various|JJ benefits|NNS said|VBD lane|NN kenworthy|NN professor|NN of|IN social|JJ and|CC political|JJ science|NN at|IN the|DT university|NN of|IN arizona|NN </s>|S_END
+<s>|S_START people|NNS with|IN lower|JJR incomes|NNS are|VBP more|RBR likely|JJ to|TO feel|VB disillusioned|VBN because|IN they|PRP tend|VBP to|TO feel|VB like|IN policy|NN never|RB changes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START why|WRB the|DT poor|JJ should|MD be|VB voting|VBG more|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT people|NNS argue|VBP that|IN the|DT lower|JJR income|NN groups|NNS are|VBP the|DT ones|NNS who|WP need|VBP the|DT most|RBS help|NN from|IN government|NN while|IN others|NNS feel|VBP that|IN they|PRP arent|VBP politically|RB savvy|JJ enough|RB to|TO take|VB on|IN the|DT responsibility|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB the|DT electoral|JJ college|NN was|VBD created|VBN in|IN 1789|CD some|DT feared|JJ that|IN the|DT uneducated|JJ agrarian|NN masses|NNS could|MD not|RB be|VB trusted|VBN to|TO elect|VB a|DT qualified|VBN leader|NN and|CC wanted|VBD congress|NN to|TO choose|VB the|DT president|NN instead|RB </s>|S_END
+<s>|S_START the|DT electoral|JJ college|NN was|VBD created|VBN as|IN a|DT compromise|NN between|IN the|DT two|CD options|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lower|JJR income|NN people|NNS tend|VBP to|TO be|VB less|JJR politically|RB informed|VBN so|RB people|NNS have|VBP long|RB argued|VBN that|IN maybe|RB its|PRP$ just|RB as|IN well|RB that|IN they|PRP dont|VBP vote|NN said|VBD andrew|NN gelman|NN a|DT professor|NN of|IN statistics|NNS and|CC political|JJ science|NN at|IN columbia|NN university|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC to|TO the|DT extent|NN that|IN the|DT government|NN is|VBZ supposed|VBN to|TO represent|VB people|NNS equally|RB then|RB it|PRP is|VBZ a|DT problem|NN that|WDT low|JJ income|NN people|NNS arent|NN as|IN represented|VBN gelman|NN added|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START widening|VBG income|NN inequality|NN and|CC high|JJ unemployment|NN since|IN the|DT recession|NN have|VBP put|VBN more|RBR economic|JJ pressure|NN on|IN the|DT lower|JJR income|NN groups|NNS </s>|S_END
+<s>|S_START workers|NNS with|IN just|RB a|DT high|JJ school|NN degree|NN have|VBP an|DT 88|CD unemployment|NN rate|NN </s>|S_END
+<s>|S_START for|IN workers|NNS with|IN a|DT bachelors|NNS degree|VBP or|CC higher|JJR only|RB 41|CD are|VBP out|RP of|IN work|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD richest|VBN 400|CD americans|NNS get|VBP richer|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT who|WP do|VBP vote|VBP the|DT most|JJS the|DT rich|JJ tend|NN to|TO vote|VB republican|JJ in|IN most|JJS elections|NNS gelman|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC in|IN 2008|CD a|DT small|JJ segment|NN of|IN that|DT group|NN bucked|VBD the|DT broader|JJR trend|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START exit|NN polls|NNS conducted|VBD for|IN cnn|NN show|NN that|IN in|IN addition|NN to|TO winning|VBG the|DT majority|NN of|IN voters|NNS earning|VBG under|IN $|$ 100000|CD a|DT year|NN obama|NN also|RB won|VBD over|IN the|DT majority|NN of|IN the|DT rich|JJ those|DT earning|VBG $|$ 200000|CD a|DT year|NN or|CC more|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START obama|NN had|VBD a|DT lot|NN of|IN appeal|NN to|TO richer|VB voters|NNS </s>|S_END
+<s>|S_START he|PRP was|VBD very|RB well|RB educated|VBN he|PRP had|VBD an|DT urbane|NN style|NN a|DT lot|NN of|IN his|PRP$ supporters|NNS were|VBD from|IN the|DT hightech|NN and|CC financial|JJ industries|NNS gelman|NN said|VBD </s>|S_END
+<s>|S_START mccain|NN really|RB had|VBD less|JJR of|IN that|DT and|CC as|IN a|DT candidate|NN he|PRP and|CC sarah|VB palin|NN had|VBD an|DT antielitist|NN message|NN which|WDT made|VBN them|PRP less|JJR appealing|VBG to|TO rich|JJ people|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT roles|NNS haves|VBZ shifted|VBN dramatically|RB in|IN the|DT 2012|CD election|NN with|IN obama|NN now|RB promoting|VBG a|DT far|NN more|RBR populist|JJ agenda|NN and|CC republican|JJ candidate|NN mitt|NN romney|NN catering|VBG to|TO upper|JJR income|NN voters|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT gallup|NN poll|NN conducted|VBD last|JJ week|NN shows|VBZ the|DT richest|JJS tier|NN of|IN voters|NNS are|VBP again|RB supporting|VBG a|DT republican|JJ ticket|NN </s>|S_END
+<s>|S_START those|DT with|IN a|DT household|NN income|NN of|IN $|$ 120000|CD or|CC more|JJR are|VBP leaning|VBG in|IN favor|NN of|IN romney|NN whereas|NNS households|NNS earning|VBG less|JJR than|IN $|$ 48000|CD are|VBP leaning|VBG toward|IN obama|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT middle|NN class|NN however|RB is|VBZ still|RB up|IN for|IN grabs|NNS </s>|S_END
+<s>|S_START its|PRP$ no|DT wonder|NN then|RB that|IN both|DT candidates|NNS are|VBP focusing|VBG so|RB heavily|RB on|IN trying|VBG to|TO win|VB over|IN middleclass|NN voters|NNS </s>|S_END
+</p>|P_END
+

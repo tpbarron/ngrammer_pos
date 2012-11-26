@@ -1,0 +1,108 @@
+<p>|P_START
+<s>|S_START sales|NNS of|IN certified|JJ used|VBN cars|NNS have|VBP jumped|VBN as|IN car|NN buyers|NNS look|VBP for|IN quality|NN preowned|VBD autos|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START money|NN magazine|NN shopping|VBG for|IN a|DT used|JJ car|NN </s>|S_END
+<s>|S_START buying|VBG a|DT certified|JJ preowned|VBN car|NN can|MD certainly|RB give|VB you|PRP some|DT peace|NN of|IN mind|NN </s>|S_END
+<s>|S_START but|CC just|RB because|IN its|PRP$ certified|VBN doesnt|NN mean|NN its|PRP$ problemfree|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START here|RB are|VBP five|CD things|NNS you|PRP need|VBP to|TO know|VB before|IN walking|VBG onto|IN the|DT used|VBN car|NN lot|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START 1|LS </s>|S_END
+<s>|S_START certification|NN can|MD offer|VB peace|NN of|IN mind|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sales|NNS of|IN certified|JJ preowned|VBN cpo|NN autos|NNS have|VBP risen|VBN 35|CD since|IN 2002|CD while|IN used|JJ car|NN sales|NNS overall|JJ fell|NN 10|CD per|NN edmundscom|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START quality|NN assurance|NN is|VBZ a|DT big|JJ selling|NN point|NN cpos|NNS are|VBP one|CD to|TO fiveyearold|VB cars|NNS that|WDT have|VBP been|VBN inspected|VBN fixed|VBN up|RP and|CC newly|RB warrantied|VBN </s>|S_END
+<s>|S_START theyre|NN priced|VBN $|$ 750|CD to|TO $|$ 3000|CD above|IN noncertified|JJ models|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC if|IN you|PRP dont|VBP want|JJ the|DT hassle|NN of|IN dealing|VBG with|IN repairs|NNS its|PRP$ worth|NN the|DT added|VBN cost|NN says|VBZ edmunds|NNS analyst|NN jessica|NN caldwell|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START 2|LS </s>|S_END
+<s>|S_START but|CC not|RB all|DT programs|NNS offer|VBP the|DT same|JJ protection|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cpos|NNS that|IN are|VBP factorycertified|VBN are|VBP backed|VBN by|IN the|DT manufacturer|NN and|CC undergo|NN a|DT 100plus|CD point|NN inspection|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dealercertified|VBD cars|NNS usually|RB arent|JJ inspected|VBN as|IN rigorously|RB says|VBZ alec|NN gutierrez|NN of|IN kelley|NN blue|NN book|NN </s>|S_END
+<s>|S_START and|CC if|IN the|DT vehicle|NN needs|VBZ repairs|NNS it|PRP has|VBZ to|TO be|VB taken|VBN to|TO that|DT dealership|NN </s>|S_END
+<s>|S_START while|IN it|PRP may|MD cost|VB you|PRP several|JJ hundred|CD more|RBR factorycertified|JJ is|VBZ a|DT better|JJR deal|NN he|PRP says|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START 3|LS </s>|S_END
+<s>|S_START doing|VBG some|DT of|IN your|PRP$ own|JJ homework|NN can|MD pay|VB off|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB factorycertified|VBD vehicles|NNS arent|NN necessarily|RB problemfree|JJ says|NNS consumer|NN protection|NN lawyer|NN daniel|NN blinn|NN who|WP reports|NNS seeing|VBG an|DT increase|NN in|IN cpo|NN complaints|NNS </s>|S_END
+<s>|S_START he|PRP suggests|VBZ reviewing|VBG service|NN records|NNS carefully|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC since|IN accident|NN repairs|NNS paid|VBD for|IN without|IN insurance|NN dont|NN always|RB show|NN up|IN on|IN carfax|NN reports|NNS get|VBP an|DT independent|JJ inspection|NN about|IN $|$ 100|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START 4|LS </s>|S_END
+<s>|S_START the|DT savings|NNS over|IN a|DT new|JJ car|NN may|MD not|RB be|VB as|RB large|JJ as|IN you|PRP expect|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START owing|VBG to|TO high|JJ demand|NN in|IN the|DT last|JJ year|NN used|VBN autos|NNS are|VBP retaining|VBG more|JJR value|NN than|IN ever|NN </s>|S_END
+<s>|S_START and|CC to|TO push|VB sales|NNS dealers|NNS are|VBP saving|VBG the|DT best|JJS financing|VBG for|IN new|JJ cars|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT result|NN </s>|S_END
+<s>|S_START a|DT 2009|CD certified|VBN nissan|NN versa|NN purchased|VBD with|IN a|DT fiveyear|JJ loan|NN is|VBZ only|RB $|$ 26|CD a|DT month|NN cheaper|NN than|IN a|DT 2012|CD model|NN edmunds|NNS found|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START before|IN choosing|NN a|DT cpo|NN use|NN an|DT online|NN calculator|NN to|TO see|VB how|WRB the|DT payments|NNS stack|VBP up|RP against|IN todays|NNS version|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START 5|LS </s>|S_END
+<s>|S_START dealers|NNS wont|VBP start|NN with|IN their|PRP$ best|JJS rate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START an|DT outside|JJ source|NN of|IN financing|NN will|MD usually|RB offer|VB you|PRP a|DT better|JJR rate|NN says|VBZ edmunds|NNS analyst|NN joe|NN spina|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START recently|RB for|IN example|NN nissan|NN dealers|NNS in|IN la|NN advertised|VBN 394|CD on|IN fiveyear|JJ cpo|NN loans|NNS while|IN pentagon|NN federal|JJ credit|NN union|NN offered|VBD 199|CD for|IN all|DT cars|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START get|NN preapproved|VBD for|IN the|DT best|JJS apr|NN you|PRP can|MD then|RB see|VB if|IN the|DT dealer|NN who|WP makes|VBZ money|NN on|IN financing|NN will|MD beat|VB it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dealer|NN wont|VBD budge|NN </s>|S_END
+<s>|S_START press|NN for|IN money|NN off|IN the|DT car|NN price|NN if|IN you|PRP take|VBP their|PRP$ loan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START do|VBP you|PRP know|VB a|DT money|NN hero|NN </s>|S_END
+<s>|S_START money|NN magazine|NN is|VBZ celebrating|VBG people|NNS both|DT famous|JJ and|CC unsung|JJ who|WP have|VBP done|VBN extraordinary|JJ work|NN to|TO improve|VB others|NNS financial|JJ wellbeing|NN </s>|S_END
+<s>|S_START nominate|NN your|PRP$ money|NN hero |-NONE- </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,70 @@
+<p>|P_START
+<s>|S_START stock|NN markets|NNS have|VBP done|VBN better|RBR than|IN the|DT doubters|NNS expected|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START money|NN magazine|NN had|VBD you|PRP looked|VBD back|RP in|IN january|JJ to|TO see|VB how|WRB stocks|NNS did|VBD in|IN the|DT prior|NN decade|NN youd|NN have|VBP been|VBN underwhelmed|VBN by|IN annualized|VBN gains|NNS of|IN just|RB 3|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START repeat|NN that|IN exercise|NN today|NN and|CC youll|JJ get|NN a|DT decidedly|RB brighter|NN picture|NN the|DT dow|NN has|VBZ gained|VBN nearly|RB 9|CD a|DT year|NN and|CC the|DT sp|NN 500|CD more|JJR than|IN 8|CD now|RB that|WDT the|DT effects|NNS of|IN the|DT march|NN 2000|CD to|TO october|NN 2002|CD bear|NN market|NN are|VBP more|RBR than|IN a|DT decade|NN in|IN the|DT rearview|NN mirror|NN </s>|S_END
+<s>|S_START thats|NNS nearing|VBG the|DT 98|CD historical|JJ average|NN return|NN of|IN us|PRP stocks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START no|DT this|DT doesnt|NN erase|NN the|DT sting|NN of|IN the|DT bursting|NN of|IN the|DT tech|NN bubble|JJ or|CC the|DT 2008|CD crash|NN nor|CC does|VBZ it|PRP mean|VB you|PRP should|MD put|VB on|IN rosecolored|VBN glasses|NNS as|IN you|PRP read|VBP about|IN 8|CD unemployment|NN and|CC a|DT looming|NN fiscal|JJ cliff|NN </s>|S_END
+<s>|S_START nevertheless|RB the|DT lost|NN decade|NN for|IN stocks|NNS is|VBZ no|DT more|RBR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN if|IN the|DT past|JJ wasnt|NN quite|RB so|RB bad|JJ you|PRP ought|MD to|TO at|IN least|JJS question|NN the|DT currently|RB fashionable|JJ position|NN that|WDT the|DT future|NN is|VBZ really|RB going|VBG to|TO stink|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN governments|NNS worldwide|VBP struggle|JJ to|TO pay|VB down|RP debt|NN the|DT theory|NN goes|VBZ economic|JJ activity|NN and|CC stock|NN returns|NNS will|MD be|VB depressed|VBN for|IN years|NNS </s>|S_END
+<s>|S_START this|DT is|VBZ what|WP bond|NN guru|NN bill|NN gross|NN and|CC his|PRP$ colleagues|NNS at|IN pimco|NN call|NN the|DT new|JJ normal|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ben|NN inker|NN head|NN of|IN asset|NN allocation|NN at|IN gmo|NN points|NNS out|IN a|DT problem|NN with|IN this|DT assumption|NN </s>|S_END
+<s>|S_START we|PRP dont|VBP disagree|VBP when|WRB it|PRP comes|VBZ to|TO expectations|NNS for|IN economic|JJ growth|NN says|VBZ inker|NN </s>|S_END
+<s>|S_START where|WRB we|PRP disagree|VBP is|VBZ whether|IN the|DT new|JJ normal|JJ has|VBZ to|TO have|VB a|DT bad|JJ impact|NN on|IN stock|NN returns|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START research|NN by|IN a|DT team|NN at|IN the|DT london|NN business|NN school|NN showing|VBG no|DT relationship|NN between|IN how|WRB fast|JJ economies|NNS grow|VBP and|CC how|WRB well|RB stocks|VBZ perform|NN supports|NNS his|PRP$ view|NN </s>|S_END
+<s>|S_START case|NN in|IN point|NN since|IN 1985|CD the|DT us|PRP economy|NN grew|VBD less|JJR than|IN a|DT third|JJ as|IN fast|JJ as|IN chinas|NNS yet|RB american|JJ stocks|NNS gained|VBD more|JJR than|IN twice|NN as|IN much|JJ as|IN chinese|JJ shares|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD china|NN handle|NN with|IN caution|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START inkers|NNS firm|VBP forecasts|NNS that|IN over|IN the|DT next|JJ seven|CD years|NNS highquality|NN us|PRP stocks|VBZ should|MD produce|VB real|JJ or|CC inflationadjusted|VBN returns|NNS of|IN 44|CD a|DT year|NN while|IN foreign|JJ shares|NNS return|VBP 5|CD based|VBN on|IN factors|NNS including|VBG priceearning|VBG ratios|NNS </s>|S_END
+<s>|S_START again|RB thats|VBZ close|JJ to|TO though|IN still|RB less|JJR than|IN longterm|NN averages|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START duncan|NN richardson|NN chief|NN equity|NN investment|NN officer|NN at|IN eaton|NN vance|NN argues|NNS the|DT us|PRP is|VBZ the|DT most|RBS attractive|JJ major|JJ market|NN when|WRB it|PRP comes|VBZ to|TO the|DT fundamentals|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whats|NNS more|JJR sentiment|NN as|IN measured|VBN by|IN money|NN flowing|VBG into|IN or|CC actually|RB out|IN of|IN stock|NN funds|NNS is|VBZ as|RB bad|JJ as|IN its|PRP$ been|VBN in|IN more|RBR than|IN two|CD decades|NNS </s>|S_END
+<s>|S_START most|JJS analysts|NNS believe|VBP thats|NNS really|RB a|DT bullish|JJ sign|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD tips|NNS for|IN investing|VBG in|IN stocks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT doesnt|NN mean|NN its|PRP$ all|DT smooth|NN sailing|VBG ahead|RB </s>|S_END
+<s>|S_START europes|NNS recession|NN and|CC chinas|VBZ decelerating|VBG growth|NN rate|NN are|VBP cutting|VBG into|IN us|PRP corporate|JJ earnings|NNS this|DT year|NN </s>|S_END
+<s>|S_START profit|NN growth|NN for|IN sp|NN 500|CD companies|NNS is|VBZ expected|VBN to|TO reaccelerate|VB in|IN 2013|CD but|CC that|IN assumes|NNS things|NNS dont|VBP get|NN worse|NN from|IN here|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN yes|NNS the|DT risks|NNS are|VBP real|JJ but|CC the|DT doomandgloom|NN forecasts|NNS feel|VBP a|DT bit|NN overwrought|NN </s>|S_END
+</p>|P_END
+

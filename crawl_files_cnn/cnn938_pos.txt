@@ -1,0 +1,135 @@
+<p>|P_START
+<s>|S_START google|NN is|VBZ playing|VBG a|DT risky|JJ game|NN of|IN monopoly|RB as|IN it|PRP leverages|VBZ its|PRP$ search|NN industry|NN dominance|NN to|TO jumpstart|VB its|PRP$ products|NNS in|IN other|JJ fields|NNS like|IN social|JJ networking|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN theres|NNS nothing|NN illegal|JJ about|IN being|VBG so|RB big|JJ that|IN you|PRP dominate|VBP a|DT market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC when|WRB google|JJ goog|NN fortune|NN 500|CD unveiled|VBD a|DT new|JJ feature|NN last|JJ week|NN called|VBN search|NN plus|RB your|PRP$ world|NN some|DT antitrust|JJ experts|NNS believe|VBP google|JJ stepped|VBD over|RP the|DT line|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START googles|NNS new|JJ feature|NN risks|NNS abusing|VBG the|DT companys|NNS dominant|VBP position|NN in|IN the|DT search|NN market|NN to|TO stifle|VB competition|NN from|IN its|PRP$ rivals|NNS </s>|S_END
+<s>|S_START that|DT could|MD be|VB against|IN the|DT law|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN runs|VBZ a|DT very|RB high|JJ risk|NN of|IN being|VBG found|VBN in|IN violation|NN of|IN antitrust|JJ and|CC competition|NN laws|NNS said|VBD ted|VBN henneberry|NN a|DT partner|NN at|IN orrick|NN herrington|NN sutcliffes|NNS antitrust|JJ group|NN </s>|S_END
+<s>|S_START the|DT issue|NN raised|VBD by|IN googles|NNS new|JJ announcement|NN is|VBZ how|WRB it|PRP potentially|RB increases|VBZ its|PRP$ dominance|NN and|CC furthers|NNS its|PRP$ discriminatory|NN treatment|NN of|IN rivals|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START search|NN plus|RB your|PRP$ world|NN tailors|NNS search|NN results|NNS to|TO each|DT individual|JJ user|NN by|IN tapping|NN into|IN googles|NNS social|JJ network|NN google|NN </s>|S_END
+<s>|S_START search|NN results|NNS now|RB include|VBP google|JJ posts|NNS and|CC profiles|NNS </s>|S_END
+<s>|S_START noticeably|RB absent|VBD from|IN the|DT feature|NN are|VBP the|DT much|JJ larger|NN social|JJ networks|NNS of|IN facebook|NN and|CC twitter|NN or|CC any|DT other|JJ social|JJ service|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN insists|NNS that|WDT its|PRP$ users|NNS benefit|NN from|IN search|NN plus|CC your|PRP$ world|NN and|CC that|IN the|DT company|NN has|VBZ no|DT legal|JJ duty|NN to|TO boost|VB its|PRP$ rivals|NNS services|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT laws|NNS are|VBP designed|VBN to|TO help|VB consumers|NNS benefit|VB from|IN innovation|NN not|RB to|TO help|VB competitors|NNS said|VBD adam|NN kovacevich|NN a|DT spokesman|NN for|IN google|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START generally|RB thats|VBZ true|JJ </s>|S_END
+<s>|S_START antitrust|JJ law|NN does|VBZ not|RB stipulate|VB that|IN companies|NNS need|VBP to|TO bend|VB over|IN backwards|NNS to|TO help|VB rivals|NNS </s>|S_END
+<s>|S_START even|RB a|DT monopoly|RB has|VBZ the|DT right|NN to|TO develop|VB new|JJ features|NNS and|CC functions|NNS and|CC the|DT practice|NN of|IN bundling|VBG products|NNS together|RB is|VBZ not|RB in|IN itself|PRP illegal|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC legal|JJ experts|NNS say|VBP dominant|JJ companies|NNS like|IN google|JJ are|VBP in|IN fact|NN required|VBN to|TO go|VB out|RP of|IN their|PRP$ way|NN to|TO ensure|VB fairness|NN to|TO competitors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN a|DT rule|NN a|DT company|NN can|MD favor|VB its|PRP$ own|JJ products|NNS over|IN someone|NN elses|NNS but|CC there|EX are|VBP limits|NNS to|TO that|DT general|JJ rule|NN when|WRB a|DT company|NN is|VBZ a|DT monopolist|NN said|VBD sam|NN miller|NN a|DT partner|NN at|IN sidley|NN austin|NN and|CC the|DT former|JJ lead|NN prosecutor|NN for|IN the|DT united|VBN states|NNS in|IN one|CD of|IN its|PRP$ first|JJ antitrust|JJ cases|NNS against|IN microsoft|NN </s>|S_END
+<s>|S_START sidley|NN ironically|RB counts|VBZ microsoft|VBN msft|NN fortune|NN 500|CD as|IN a|DT client|NN though|IN miller|NN is|VBZ not|RB currently|RB involved|VBN with|IN any|DT cases|NNS for|IN the|DT software|NN giant|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START is|VBZ google|JJ a|DT monopoly|RB </s>|S_END
+<s>|S_START with|IN control|NN of|IN twothirds|NNS of|IN the|DT us|PRP search|VBP market|NN according|VBG to|TO comscore|VB scor|NN experts|NNS say|VBP it|PRP is|VBZ legally|RB within|IN the|DT realm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START market|NN share|NN is|VBZ short|JJ hand|NN for|IN whether|IN a|DT company|NN has|VBZ monopoly|RB power|JJR and|CC 65|CD or|CC more|JJR is|VBZ a|DT good|JJ indicator|NN miller|NN said|VBD </s>|S_END
+<s>|S_START that|DT level|NN gives|VBZ a|DT company|NN the|DT ability|NN to|TO keep|VB prices|NNS above|IN competitive|JJ levels|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN a|DT senate|NN antitrust|JJ committee|NN hearing|NN in|IN september|NN google|NN chairman|NN eric|JJ schmidt|NN acknowledged|VBD that|IN googles|NNS market|NN share|NN is|VBZ within|IN that|DT area|NN of|IN being|VBG monopolistic|JJ though|IN he|PRP said|VBD hed|VBN prefer|NN to|TO let|VB the|DT judges|NNS actually|RB do|VBP such|JJ a|DT finding|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN google|JJ were|VBD to|TO be|VB considered|VBN a|DT dominant|JJ firm|NN cutting|VBG facebook|NN and|CC twitter|NN out|RP from|IN its|PRP$ new|JJ search|NN service|NN could|MD be|VB seen|VBN as|IN an|DT anticompetitive|JJ and|CC illegal|JJ act|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN claims|VBZ that|IN there|EX are|VBP technical|JJ limitations|NNS that|WDT curb|NN its|PRP$ ability|NN to|TO include|VB competitors|NNS content|NN in|IN search|NN plus|CC your|PRP$ world|NN </s>|S_END
+<s>|S_START the|DT company|NN says|VBZ facebook|NN and|CC twitter|NN for|IN instance|NN do|VBP not|RB let|VB google|JJ crawl|NN their|PRP$ sites|NNS for|IN information|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN once|RB partnered|VBD with|IN twitter|NN and|CC featured|VBD tweets|NNS in|IN its|PRP$ realtime|NN search|NN results|NNS </s>|S_END
+<s>|S_START that|DT alliance|NN ended|VBD in|IN july|RB when|WRB googles|NNS contract|NN with|IN twitter|NN expired|VBD </s>|S_END
+<s>|S_START meanwhile|RB facebook|VBD is|VBZ searchable|JJ exclusively|RB on|IN microsofts|NNS bing|VBG engine|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START googles|NNS kovacevich|VBP said|VBN google|NN is|VBZ looking|VBG to|TO include|VB additional|JJ types|NNS of|IN content|NN in|IN search|NN plus|CC your|PRP$ world|NN in|IN the|DT future|NN </s>|S_END
+<s>|S_START antitrust|JJ experts|NNS say|VBP thats|NNS besides|NNS the|DT point|NN </s>|S_END
+<s>|S_START by|IN bundling|NN search|NN with|IN google|JJ google|NN is|VBZ in|IN effect|NN requiring|VBG companies|NNS to|TO join|VB google|JJ in|IN order|NN to|TO get|VB placed|VBN highest|JJS in|IN its|PRP$ search|NN results|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START facebook|NN and|CC twitter|NN are|VBP shut|VBN out|RP of|IN that|DT process|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START locking|VBG out|IN competition|NN is|VBZ among|IN the|DT potential|JJ violations|NNS that|WDT the|DT federal|JJ trade|NN commission|NN is|VBZ currently|RB investigating|VBG in|IN its|PRP$ ongoing|JJ probe|NN of|IN google|JJ </s>|S_END
+<s>|S_START the|DT company|NN first|RB made|VBD the|DT antitrust|JJ probe|NN public|JJ in|IN june|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START antitrust|JJ authorities|NNS grow|VBP concerned|VBN when|WRB a|DT companys|NN success|NN is|VBZ achieved|VBN or|CC maintained|VBN by|IN cutting|NN out|IN rivals|NNS said|VBD jeff|NN schmidt|NN a|DT partner|NN in|IN law|NN firm|NN linklaters|NNS competition|NN and|CC antitrust|JJ practice|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START schmidt|NN was|VBD formerly|RB the|DT director|NN of|IN the|DT ftcs|NNS bureau|VBP of|IN competition|NN </s>|S_END
+<s>|S_START until|IN he|PRP left|VBD in|IN 2008|CD he|PRP led|VBD the|DT regulators|NNS oversight|VBD of|IN google|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB issues|NNS of|IN competition|NN arise|NN google|NN frequently|RB counters|NNS that|WDT there|EX is|VBZ plenty|NN of|IN competition|NN on|IN the|DT internet|NN </s>|S_END
+<s>|S_START as|IN the|DT company|NN often|RB states|VBZ rivals|NNS are|VBP just|RB one|CD click|NN away|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP believe|VBP that|IN our|PRP$ improvements|NNS to|TO search|VB will|MD benefit|VB consumers|NNS by|IN better|JJR surfacing|VBG social|JJ content|NN said|VBD googles|NNS kovacevich|WDT </s>|S_END
+<s>|S_START the|DT great|JJ thing|NN about|IN the|DT openness|NN of|IN the|DT internet|NN is|VBZ that|IN if|IN users|NNS dont|VBP like|IN our|PRP$ service|NN they|PRP can|MD easily|RB switch|VB to|TO another|DT site|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC some|DT legal|JJ experts|NNS say|VBP its|PRP$ not|RB quite|JJ that|IN simple|JJ </s>|S_END
+<s>|S_START microsofts|NNS decadelong|VBP bogglingly|RB complex|JJ series|NN of|IN antitrust|JJ battles|NNS left|VBN reams|NNS of|IN tech|NN industry|NN case|NN law|NN in|IN their|PRP$ wake|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START antitrust|JJ theories|NNS launched|VBD in|IN the|DT microsoft|NN litigation|NN are|VBP destined|VBN to|TO give|VB google|JJ trouble|NN at|IN least|JJS in|IN the|DT short|JJ run|NN said|VBD keith|IN hylton|NN antitrust|JJ professor|NN at|IN boston|NN universitys|NNS school|NN of|IN law|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN could|MD also|RB have|VB a|DT hard|JJ time|NN proving|VBG that|IN its|PRP$ new|JJ service|NN is|VBZ beneficial|JJ </s>|S_END
+<s>|S_START reaction|NN so|IN far|RB has|VBZ been|VBN tepid|JJ at|IN best|JJS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN its|PRP$ in|IN the|DT consumers|NNS best|JJS interest|NN its|PRP$ not|RB damaging|VBG to|TO competition|NN said|VBD eric|JJ goldman|NN director|NN of|IN the|DT high|JJ tech|NN law|NN institute|NN at|IN santa|NN clara|NN law|NN school|NN </s>|S_END
+<s>|S_START but|CC by|IN adding|NN all|DT that|DT stuff|NN to|TO its|PRP$ search|NN page|NN thats|NNS not|RB necessarily|RB helpful|JJ </s>|S_END
+<s>|S_START if|IN we|PRP lose|VBP faith|IN in|IN googles|NNS motivation|NN we|PRP begin|VBP to|TO question|NN why|WRB theyve|JJ done|NN what|WP they|PRP did|VBD </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

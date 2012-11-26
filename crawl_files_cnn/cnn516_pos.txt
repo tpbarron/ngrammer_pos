@@ -1,0 +1,99 @@
+<p>|P_START
+<s>|S_START a|DT cyberattack|NN believed|VBD to|TO be|VB backed|VBN by|IN iran|NN brought|VBD down|IN 75|CD of|IN the|DT pcs|NNS at|IN saudi|NN oil|NN company|NN aramco|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN irans|NNS quest|VBP for|IN a|DT nuclear|JJ weapon|NN has|VBZ been|VBN the|DT subject|NN of|IN much|JJ debate|NN this|DT election|NN season|NN but|CC the|DT presidential|JJ candidates|NNS rarely|RB discuss|VBZ the|DT most|RBS imminent|JJ danger|NN iran|NN poses|NNS to|TO the|DT united|VBN states|NNS cyberwarfare|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START iran|NN is|VBZ believed|VBN to|TO be|VB behind|IN a|DT slew|NN of|IN massive|JJ attacks|NNS in|IN september|NN that|IN took|NN down|IN a|DT string|NN of|IN us|PRP banks|NNS websites|VBZ </s>|S_END
+<s>|S_START the|DT country|NN is|VBZ also|RB thought|VBD to|TO have|VB launched|VBN a|DT devastating|NN cyber|NN time|NN bomb|NN on|IN saudi|NN oil|NN company|NN aramco|NN in|IN august|NN and|CC to|TO have|VB coordinated|VBN a|DT similar|JJ attack|NN on|IN qatars|NNS rasgas|IN an|DT exxon|NN mobil|NN xom|NN fortune|NN 500|CD subsidiary|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bank|NN attacks|NNS were|VBD 10|CD to|TO 20|CD times|NNS bigger|JJR than|IN a|DT typical|JJ denial|NN of|IN service|NN attack|NN and|CC doubled|VBD the|DT previous|JJ record|NN for|IN traffic|JJ maliciously|RB directed|VBN at|IN a|DT particular|JJ site|NN according|VBG to|TO crowdstrike|VB a|DT security|NN firm|NN that|WDT investigated|VBD the|DT attacks|NNS </s>|S_END
+<s>|S_START the|DT aramco|NN attack|NN set|NN to|TO go|VB off|RP on|IN an|DT islamic|JJ holy|NN night|NN unleashed|VBD a|DT virus|NN that|WDT destroyed|VBN about|IN 30000|CD corporate|JJ computers|NNS threequarters|NNS of|IN the|DT companys|NNS pcs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ a|DT show|NN of|IN muscle|NN the|DT united|VBN states|NNS and|CC its|PRP$ allies|NNS are|VBP unaccustomed|VBN to|TO seeing|NN from|IN iran|NN </s>|S_END
+<s>|S_START cyberespionage|NN and|CC online|NN identity|NN theft|NN are|VBP common|JJ tactics|NNS of|IN russian|JJ mafiosos|NNS and|CC chinese|JJ hackers|NNS but|CC iran|JJ is|VBZ relatively|RB new|JJ to|TO this|DT playing|NN field|NN </s>|S_END
+<s>|S_START after|IN a|DT series|NN of|IN painful|JJ economic|JJ sanctions|NNS levied|VBD on|IN the|DT country|NN by|IN the|DT united|VBN states|NNS and|CC europe|NN cybersecurity|NN experts|NNS say|VBP theyre|NN not|RB surprised|VBN that|IN iran|JJ is|VBZ fighting|VBG back|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START iran|NN is|VBZ trying|VBG to|TO demonstrate|VB that|IN it|PRP has|VBZ a|DT capability|NN to|TO disrupt|VB life|NN in|IN the|DT west|NN said|VBD roger|NN cressey|NN senior|JJ vice|NN president|NN at|IN security|NN consultancy|NN booz|NN allen|NN hamilton|NN </s>|S_END
+<s>|S_START its|PRP$ argument|NN is|VBZ whatever|RB you|PRP in|IN the|DT west|NN may|MD do|VB to|TO us|PRP know|VB that|IN it|PRP will|MD not|RB be|VB a|DT painfree|JJ operation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START attributing|VBG attacks|NNS to|TO specific|JJ perpetrators|NNS is|VBZ often|RB difficult|JJ in|IN cyberspace|NN where|WRB identities|NNS can|MD be|VB easily|RB disguised|VBN </s>|S_END
+<s>|S_START but|CC there|EX is|VBZ mounting|VBG belief|NN if|IN not|RB direct|JJ evidence|NN that|IN the|DT iranian|JJ government|NN is|VBZ at|IN least|JJS supporting|VBG the|DT attackers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD story|NN major|JJ banks|NNS hit|VBP with|IN biggest|JJS cyberattacks|NNS in|IN history|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN the|DT september|NN attacks|NNS on|IN banks|NNS sen|VBN joe|NN lieberman|NN an|DT independent|JJ from|IN connecticut|NN immediately|RB said|VBD he|PRP believed|VBD the|DT iranian|JJ government|NN was|VBD behind|IN the|DT attacks|NNS </s>|S_END
+<s>|S_START last|JJ month|NN intelligence|NN officials|NNS told|VBD cnn|NN that|IN both|DT the|DT oil|NN company|NN and|CC bank|NN attacks|NNS came|VBD from|IN iran|JJ and|CC they|PRP are|VBP operating|VBG under|IN the|DT belief|NN that|IN the|DT iranian|JJ government|NN had|VBD some|DT role|NN in|IN the|DT initiative|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT state|NN department|NN declined|VBD to|TO comment|NN for|IN this|DT article|NN but|CC defense|NN secretary|NN leon|NN panetta|NN said|VBD at|IN a|DT cybersecurity|NN event|NN in|IN new|JJ york|NN last|JJ month|NN that|WDT iran|NN has|VBZ undertaken|VBN a|DT concerted|VBN effort|NN to|TO use|VB cyberspace|NN to|TO its|PRP$ advantage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cybercrime|NN experts|NNS largely|RB agree|VBP that|IN iran|NN hasnt|NN yet|RB demonstrated|VBN a|DT capability|NN to|TO cause|VB massive|JJ damage|NN to|TO the|DT united|VBN states|NNS and|CC its|PRP$ allies|NNS as|IN most|JJS believe|JJ chinese|NN or|CC russian|JJ attackers|NNS could|MD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC iran|VBD has|VBZ proven|VBN that|IN its|PRP$ cyberattack|NN abilities|NNS and|CC its|PRP$ ambitions|NNS are|VBP expanding|VBG </s>|S_END
+<s>|S_START analysts|NNS note|VBP that|IN even|RB if|IN iran|JJ doesnt|NN have|VBP advanced|VBN cyber|NN capabilities|NNS of|IN its|PRP$ own|JJ experienced|VBN cybercriminals|NNS have|VBP been|VBN willing|JJ to|TO contract|NN their|PRP$ services|NNS to|TO nation|NN states|NNS in|IN the|DT past|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP theyve|VBP done|VBN so|RB far|RB is|VBZ a|DT high|JJ level|NN annoyance|NN using|VBG weapons|NNS of|IN mass|NN disturbance|NN cressey|NN said|VBD </s>|S_END
+<s>|S_START as|IN long|RB as|IN its|PRP$ in|IN that|DT realm|NN well|RB be|VB fine|NN </s>|S_END
+<s>|S_START does|VBZ that|IN mean|JJ they|PRP cant|VBP be|VB more|RBR sophisticated|JJ </s>|S_END
+<s>|S_START of|IN course|NN not|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START us|PRP relations|NNS with|IN iran|JJ labeled|VBN a|DT terrorist|NN state|NN by|IN the|DT federal|JJ government|NN are|VBP currently|RB far|RB more|RBR tenuous|JJ than|IN with|IN any|DT other|JJ country|NN </s>|S_END
+<s>|S_START the|DT cyberdefense|NN communitys|VBZ growing|VBG fear|NN is|VBZ that|IN iran|JJ wouldnt|NN be|VB afraid|VBN to|TO digitally|RB attack|VB critical|JJ us|PRP infrastructure|NN or|CC the|DT american|JJ financial|JJ sector|NN once|RB it|PRP has|VBZ the|DT capability|NN to|TO do|VB so|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB it|PRP comes|VBZ to|TO most|RBS nation|NN states|NNS the|DT overhanging|VBG threat|NN of|IN mutually|RB assured|VBN destruction|NN tempers|NNS any|DT threat|NN of|IN allout|NN cyberwarfare|NN said|VBD art|NN coviello|NN ceo|NN of|IN security|NN firm|NN rsa|NN a|DT division|NN of|IN emc|NN emc|NN fortune|NN 500|CD </s>|S_END
+<s>|S_START what|WP i|PRP worry|VBP about|IN is|VBZ that|IN terrorists|NNS and|CC nations|NNS that|WDT sponsor|NN terror|NN such|JJ as|IN iran|JJ that|IN demonstrate|JJ cyberattack|NN capabilities|NNS will|MD be|VB far|RB more|RBR reckless|JJ than|IN traditional|JJ adversaries|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START coviello|NN said|VBD irans|NNS nuclear|JJ and|CC cyber|NN threats|NNS should|MD be|VB tied|VBN for|IN first|JJ in|IN the|DT mind|NN of|IN the|DT us|PRP government|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN iran|JJ does|VBZ decide|JJ to|TO take|VB more|JJR serious|JJ action|NN it|PRP would|MD be|VB engaging|VBG in|IN whats|NNS known|VBN as|IN asymmetrical|JJ war|NN </s>|S_END
+<s>|S_START there|EX are|VBP many|JJ more|RBR highimpact|JJ digital|NN targets|NNS to|TO attack|VB in|IN the|DT united|VBN states|NNS than|IN there|EX are|VBP in|IN iran|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN a|DT result|NN secretary|NN of|IN defense|NN panetta|NN has|VBZ said|VBN that|IN the|DT united|JJ states|NNS reserves|NNS the|DT right|NN to|TO respond|VB to|TO a|DT cyberattack|NN with|IN kinetic|JJ force|NN </s>|S_END
+<s>|S_START in|IN other|JJ words|NNS the|DT us|PRP military|JJ could|MD send|VB physical|JJ troops|NNS into|IN a|DT nation|NN that|WDT attacks|VBZ it|PRP digitally|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START preparing|VBG for|IN such|JJ an|DT event|NN is|VBZ something|NN the|DT next|JJ administration|NN will|MD have|VB to|TO consider|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cyberattacks|NNS from|IN iran|JJ will|NN be|VB one|CD of|IN top|JJ policy|NN questions|NNS that|WDT next|IN president|NN has|VBZ to|TO take|VB a|DT stand|NN on|IN said|VBD jarno|NN limnell|NN director|NN of|IN cybersecurty|NN at|IN finnish|JJ security|NN firm|NN stonesoft|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT us|PRP is|VBZ really|RB saying|VBG that|IN these|DT attacks|NNS came|VBD from|IN iran|JJ and|CC if|IN they|PRP are|VBP really|RB attacking|VBG american|JJ financial|JJ systems|NNS which|WDT is|VBZ most|JJS vital|JJ part|NN of|IN its|PRP$ critical|JJ infrastructure|NN behind|IN the|DT united|VBN states|NNS back|RB then|RB how|WRB far|RB will|MD the|DT us|PRP let|VBD them|PRP keep|VB going|VBG forward|RB before|IN this|DT becomes|VBZ a|DT declaration|NN of|IN war|NN </s>|S_END
+</p>|P_END
+

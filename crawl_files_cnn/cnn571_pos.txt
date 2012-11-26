@@ -1,0 +1,29 @@
+<p>|P_START
+<s>|S_START moneymarket|NN mutual|JJ funds|NNS arent|NN insured|VBD by|IN the|DT fdic|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START money|NN magazine|NN an|DT effort|NN to|TO increase|VB the|DT security|NN and|CC transparency|NN of|IN moneymarket|NN mutual|JJ funds|NNS stalled|VBN in|IN august|JJ when|WRB securities|NNS and|CC exchange|NN commission|NN chairman|NN mary|NN schapiro|NN couldnt|NN rally|RB enough|RB sec|JJ support|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN issue|NN investors|NNS belief|IN that|DT money|NN funds|NNS which|WDT arent|NN fdicinsured|VBD are|VBP riskfree|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO counter|NN that|IN perception|NN schapiro|NN wanted|VBD funds|NNS to|TO disclose|VB precise|NN changes|NNS in|IN their|PRP$ net|JJ asset|NN value|NN nav|NN per|IN share|NN currently|RB they|PRP all|DT report|NN $|$ 1|CD but|CC thats|NNS because|IN theyre|NN allowed|VBD to|TO round|NN to|TO the|DT nearest|JJS penny|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD best|JJS banks|NNS 2012|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC to|TO ensure|VB each|DT fund|NN could|MD handle|VB a|DT flood|NN of|IN investor|NN withdrawals|NNS if|IN its|PRP$ nav|NN fell|VBD below|IN $|$ 1|CD in|IN 2008|CD one|CD money|NN funds|NNS nav|VBP hit|VBN 97¢|CD schapiro|NN wanted|VBD funds|NNS to|TO keep|VB a|DT cash|NN cushion|NN on|IN hand|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB without|IN the|DT proposed|VBN changes|NNS its|PRP$ money|NN funds|NNS pitifully|RB low|JJ interest|NN rates|NNS that|WDT should|MD scare|VB you|PRP nowadays|VBZ says|VBZ dallas|RB adviser|JJR charles|NNS sizemore|VBP </s>|S_END
+<s>|S_START put|VB your|PRP$ dough|NN instead|RB in|IN a|DT bank|NN account|NN he|PRP says|VBZ where|WRB returns|NNS are|VBP similar|JJ and|CC your|PRP$ money|NN is|VBZ insured|VBN </s>|S_END
+</p>|P_END
+

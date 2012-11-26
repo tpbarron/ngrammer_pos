@@ -1,0 +1,49 @@
+<p>|P_START
+<s>|S_START in|IN a|DT recent|JJ poll|NN looking|VBG at|IN small|JJ business|NN credit|NN construction|NN companies|NNS topped|VBD the|DT list|NN of|IN those|DT saying|VBG banks|NNS simply|RB wont|JJ lend|NN to|TO their|PRP$ type|NN of|IN business|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN its|PRP$ hard|JJ for|IN all|DT businesses|NNS to|TO get|VB a|DT loan|NN these|DT days|NNS but|CC construction|NN companies|NNS have|VBP it|PRP the|DT worst|JJS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT new|JJ survey|NN by|IN the|DT new|JJ york|NN federal|JJ reserve|NN construction|NN companies|NNS were|VBD the|DT most|JJS likely|JJ to|TO say|VB banks|NNS simply|RB wouldnt|JJ lend|NN to|TO their|PRP$ type|NN of|IN business|NN </s>|S_END
+<s>|S_START other|JJ sectors|NNS reported|VBD tough|JJ times|NNS too|RB but|CC nowhere|RB near|JJ as|IN bad|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT survey|NN included|VBD responses|NNS from|IN 544|CD companies|NNS in|IN connecticut|NN new|JJ jersey|NN and|CC new|JJ york|NN earlier|RBR this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START access|NN to|TO capital|NN was|VBD cited|VBN by|IN 36|CD of|IN companies|NNS as|IN the|DT biggest|JJS growth|NN barrier|NN higher|JJR than|IN government|NN regulations|NNS and|CC difficulties|NNS finding|VBG qualified|VBN workers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START seeking|VBG a|DT small|JJ loan|NN to|TO solve|VB shortterm|JJ problems|NNS like|IN making|VBG payroll|NN </s>|S_END
+<s>|S_START good|JJ luck|NN </s>|S_END
+<s>|S_START the|DT smaller|JJR the|DT loan|NN the|DT more|RBR likely|JJ a|DT lender|NN will|MD deny|VB it|PRP </s>|S_END
+<s>|S_START the|DT denial|JJ rate|NN for|IN applications|NNS for|IN small|JJ loans|NNS less|JJR than|IN $|$ 100000|CD was|VBD more|JJR than|IN twice|NN as|IN high|JJ as|IN it|PRP was|VBD for|IN bigger|JJR loans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START claire|NN kramer|NN a|DT fed|JJ bank|NN officer|NN who|WP worked|VBD on|IN the|DT survey|NN said|VBD that|IN the|DT types|NNS of|IN firms|NNS seeking|VBG smaller|JJR loans|NNS tend|VBP to|TO be|VB younger|JJR weaker|NN and|CC riskier|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT contributing|NN factor|NN could|MD be|VB that|IN small|JJ loans|NNS are|VBP less|JJR profitable|JJ for|IN major|JJ banks|NNS so|IN theres|NNS less|JJR reason|NN to|TO do|VB them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD banks|NNS keep|VB lending|VBG standards|NNS tight|JJ for|IN small|JJ firms|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tapping|VBG into|IN a|DT home|NN equity|NN line|NN proved|VBD to|TO be|VB the|DT best|JJS way|NN to|TO secure|VB a|DT loan|NN with|IN the|DT highest|JJS approval|NN rate|NN at|IN 63|CD </s>|S_END
+<s>|S_START unsurprisingly|RB that|IN option|NN is|VBZ nowhere|RB near|JJ as|IN popular|JJ as|IN it|PRP was|VBD during|IN the|DT housing|NN boom|NN given|VBN that|IN housing|NN prices|NNS have|VBP since|IN plummeted|VBN and|CC few|JJ can|MD claim|VB to|TO have|VB equity|NN in|IN their|PRP$ homes|NNS now|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB the|DT option|NN most|JJS often|RB sought|VBN by|IN businesses|NNS opening|VBG a|DT new|JJ credit|NN line|NN faced|VBD the|DT lowest|JJS approval|NN rate|NN at|IN 13|CD </s>|S_END
+</p>|P_END
+

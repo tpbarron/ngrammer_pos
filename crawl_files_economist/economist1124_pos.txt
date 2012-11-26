@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 80|CD gdp|NN $|$ 30bn|CD $|$ 101bn|CD inflation|NN 125|CD population|NN 762m|CD gdp|NN per|IN head|NN $|$ 390|CD ppp|CD $|$ 1320|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meles|NNS zenawi|VBP the|DT prime|JJ minister|NN heads|NNS a|DT coalition|NN government|NN with|IN a|DT legislative|JJ monopoly|NN and|CC will|MD work|VB to|TO tighten|VB his|PRP$ grip|NN ahead|RB of|IN the|DT 2015|CD election|NN </s>|S_END
+<s>|S_START foreign|JJ policy|NN will|MD remain|VB tricky|JJ given|VBN conflict|NN with|IN eritrea|NN over|IN borders|NNS intervention|NN in|IN somalia|NN water|NN politics|NNS with|IN egypt|JJ and|CC peacekeeping|VBG between|IN newly|RB created|VBN south|NN sudan|NN and|CC the|DT country|NN from|IN which|WDT it|PRP seceded|VBD </s>|S_END
+<s>|S_START the|DT authorities|NNS will|MD struggle|VB to|TO contain|VB inflation|NN in|IN a|DT continuing|VBG growth|NN spurt|NN </s>|S_END
+</p>|P_END
+

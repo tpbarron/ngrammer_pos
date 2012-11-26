@@ -1,0 +1,46 @@
+<p>|P_START
+<s>|S_START dogs|NNS quickly|RB become|VB part|NN of|IN the|DT family|NN </s>|S_END
+<s>|S_START tales|NNS abound|VBD of|IN dogs|NNS celebrating|VBG joy|NN in|IN a|DT household|NN or|CC commiserating|VBG when|WRB tragedy|JJ strike|NN </s>|S_END
+<s>|S_START this|DT may|MD not|RB seem|VB surprising|JJ after|IN 15000|CD years|NNS of|IN coevolution|NN </s>|S_END
+<s>|S_START but|CC what|WP hard|RB evidence|NN is|VBZ there|EX of|IN dogs|NNS empathy|JJ with|IN human|JJ </s>|S_END
+<s>|S_START a|DT new|JJ experiment|NN suggests|VBZ that|IN behind|IN all|DT the|DT waggy|NN tails|NNS there|EX really|RB is|VBZ something|NN deeper|NN going|VBG on|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START past|NN experiments|NNS have|VBP hinted|VBN that|IN animals|NNS can|MD feel|VB sympathy|JJ </s>|S_END
+<s>|S_START rats|NNS and|CC monkeys|NNS had|VBD been|VBN found|VBN to|TO forgo|VB food|NN to|TO avoid|VB delivering|NN electric|JJ shocks|NNS to|TO relative|VB </s>|S_END
+<s>|S_START imilarly|RB apes|VBZ have|VBP recently|RB been|VBN documented|VBN consoling|VBG one|CD another|DT after|NN conflict|NN </s>|S_END
+<s>|S_START however|RB all|DT these|DT experiments|NNS and|CC observations|NNS were|VBD demonstrating|VBG an|DT animals|NNS sensitivity|NN to|TO distress|NN in|IN other|JJ members|NNS of|IN the|DT same|JJ specie|NN </s>|S_END
+<s>|S_START deborah|NN custance|NN and|CC jennifer|NN mayer|NN of|IN goldsmiths|NNS college|VBP london|NN set|NN out|RP to|TO see|VB if|IN dogs|NNS could|MD detect|VB the|DT emotional|JJ state|NN of|IN human|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO do|VB this|DT dr|NN custance|NN and|CC ms|NNS mayer|NN conducted|VBD an|DT experiment|NN to|TO study|NN the|DT response|NN of|IN dogs|NNS when|WRB a|DT nearby|JJ human|NN suddenly|RB began|VBD to|TO cry|NN </s>|S_END
+<s>|S_START the|DT researchers|NNS knew|VBD that|IN interpreting|NN responses|NNS would|MD be|VB difficult|JJ since|IN dogs|NNS tend|VBP to|TO whine|VB nuzzle|JJ lick|NN lay|NN their|PRP$ heads|NNS in|IN laps|NNS and|CC fetch|NN toys|NNS for|IN people|NNS in|IN distre|NN </s>|S_END
+<s>|S_START although|IN such|JJ actions|NNS hint|VBP at|IN a|DT dog|NN wishing|VBG to|TO offer|VB comfort|NN they|PRP could|MD also|RB be|VB signs|NNS of|IN curiosity|NN or|CC suggest|VBP that|IN a|DT dog|NN is|VBZ simply|RB distressed|VBN by|IN seeing|NN its|PRP$ master|NN upset|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO work|VB round|NN this|DT the|DT researchers|NNS presented|VBD 18|CD dogs|NNS of|IN various|JJ breeds|NNS with|IN four|CD separate|JJ 20second|CD condition|NN </s>|S_END
+<s>|S_START they|PRP included|VBD their|PRP$ owner|NN crying|VBG a|DT stranger|NN crying|VBG and|CC both|DT taking|VBG it|PRP in|IN turns|NNS to|TO hum|VB “mary|JJ had|NN a|DT little|RB lamb”|JJ </s>|S_END
+<s>|S_START all|DT four|CD of|IN these|DT conditions|NNS were|VBD preceded|VBN by|IN two|CD minutes|NNS of|IN mundane|NN conversation|NN between|IN ms|NNS mayer|NN who|WP filled|VBN the|DT role|NN of|IN the|DT stranger|NN and|CC the|DT dogs|NNS owner|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN custance|NN and|CC ms|NNS mayer|NN suspected|VBD that|IN if|IN exposure|NN to|TO crying|VBG led|VBN dogs|NNS to|TO feel|VB distress|NN then|RB regardless|RB of|IN who|WP was|VBD crying|VBG the|DT dog|NN would|MD go|VB to|TO their|PRP$ master|NN to|TO seek|VB comfort|NN </s>|S_END
+<s>|S_START they|PRP also|RB theorised|VBD that|IN if|IN curiosity|NN rather|RB than|IN empathy|JJ was|VBD the|DT driving|VBG force|NN then|RB the|DT humming|NN would|MD cause|VB dogs|NNS to|TO engage|VB with|IN people|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN they|PRP report|VBP in|IN animal|JJ cognition|NN “personoriented|JJ behaviour”|NN did|VBD sometimes|RB take|VB place|NN when|WRB either|DT the|DT stranger|NN or|CC the|DT owner|NN hummed|VBD but|CC it|PRP was|VBD more|JJR than|IN twice|NN as|IN likely|JJ to|TO occur|VB if|IN someone|NN was|VBD crying|VBG </s>|S_END
+<s>|S_START this|DT indicated|VBN that|IN dogs|NNS were|VBD differentiating|VBG between|IN odd|JJ behaviour|NN and|CC crying|VBG </s>|S_END
+<s>|S_START and|CC of|IN the|DT 15|CD dogs|NNS in|IN the|DT experiment|NN that|IN showed|VBD personoriented|VBN responses|NNS when|WRB the|DT stranger|NN cried|VBD all|DT of|IN them|PRP directed|VBD their|PRP$ attention|NN towards|NNS the|DT stranger|NN rather|RB than|IN their|PRP$ owner|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT discoveries|NNS suggest|VBP that|IN dogs|NNS do|VBP have|VBP the|DT ability|NN to|TO express|NN empathetic|JJ concern|NN </s>|S_END
+<s>|S_START but|CC although|IN the|DT results|NNS are|VBP clear|JJ enough|RB dr|JJ custance|NN argues|NNS that|WDT more|JJR work|NN needs|VBZ to|TO be|VB done|VBN to|TO be|VB sure|JJ that|IN such|JJ behaviour|NN is|VBZ true|JJ empathy|JJ </s>|S_END
+<s>|S_START it|PRP is|VBZ possible|JJ she|PRP points|VBZ out|RP that|IN the|DT dogs|NNS were|VBD drawing|VBG on|IN previous|JJ experiences|NNS in|IN which|WDT they|PRP were|VBD rewarded|VBN for|IN approaching|NN distressed|VBD human|JJ companion|NN </s>|S_END
+<s>|S_START dogowners|NNS however|RB are|VBP unlikely|RB to|TO need|VB any|DT more|RBR convincing|VBG </s>|S_END
+</p>|P_END
+

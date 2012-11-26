@@ -1,0 +1,43 @@
+<p>|P_START
+<s>|S_START dermatologists|NNS are|VBP good|JJ at|IN spotting|NN unusual|JJ bits|NNS of|IN skin|NN that|IN might|MD or|CC might|MD not|RB be|VB cancer|NN </s>|S_END
+<s>|S_START testing|NN whether|IN they|PRP actually|RB are|VBP though|IN is|VBZ quite|RB literally|RB a|DT bloody|NN pain|NN </s>|S_END
+<s>|S_START for|IN a|DT piece|NN of|IN skin|NN to|TO be|VB identified|VBN as|IN malignant|JJ or|CC benign|JJ it|PRP must|MD be|VB cut|VBN out|RP and|CC sent|NN to|TO a|DT laboratory|NN for|IN examination|NN under|IN a|DT microscope|NN </s>|S_END
+<s>|S_START but|CC a|DT team|NN of|IN researchers|NNS led|VBN by|IN rainer|NN leitgeb|NN a|DT physicist|NN at|IN the|DT medical|JJ university|NN of|IN vienna|NN hope|NN to|TO change|VB that|IN </s>|S_END
+<s>|S_START as|IN they|PRP describe|VBP in|IN biomedical|JJ optics|NNS express|NN dr|NN leitgeb|NN and|CC his|PRP$ colleagues|NNS are|VBP exploring|VBG a|DT technique|NN called|VBN optical|JJ coherence|NN tomography|NN oct|NN which|WDT they|PRP think|VBP will|MD allow|VB skin|NN cancer|NN to|TO be|VB diagnosed|VBN in|IN situ|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START oct|NN is|VBZ a|DT form|NN of|IN optical|JJ echolocation|NN </s>|S_END
+<s>|S_START it|PRP works|VBZ by|IN sending|NN infrared|VBD light|JJ into|IN tissues|NNS and|CC analysing|VBG what|WP bounces|NNS back|VBP </s>|S_END
+<s>|S_START the|DT behaviour|PRP$ of|IN the|DT reflected|VBN rays|NNS yields|NNS information|NN on|IN the|DT structures|NNS that|WDT they|PRP collided|VBD with|IN </s>|S_END
+<s>|S_START that|DT dr|NN leitgeb|NN hoped|VBD could|MD be|VB used|VBN to|TO generate|VB a|DT map|NN of|IN features|NNS just|RB beneath|NN the|DT surface|NN of|IN the|DT skin|NN </s>|S_END
+<s>|S_START imilar|JJ technology|NN has|VBZ been|VBN employed|VBN for|IN nearly|RB two|CD decades|NNS by|IN eye|NN doctors|NNS and|CC dr|NN leitgeb|NN felt|VBD that|IN with|IN a|DT bit|NN of|IN tinkering|VBG it|PRP should|MD work|VB for|IN skin|NN as|IN well|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT oct|NN systems|NNS operated|VBD by|IN ophthalmologists|NNS use|VBP lowpower|NN lasers|NNS which|WDT produce|NN light|VBD with|IN a|DT wavelength|NN of|IN 850|CD nanometre|NN </s>|S_END
+<s>|S_START that|DT is|VBZ just|RB beyond|IN the|DT range|NN detectable|JJ by|IN the|DT rods|NNS and|CC cones|NNS of|IN the|DT eye|NN and|CC is|VBZ thus|RB ideal|JJ for|IN probing|NN that|WDT organ|NN without|IN discomforting|NN the|DT patient|NN </s>|S_END
+<s>|S_START kin|NN however|RB is|VBZ insufficiently|RB transparent|JJ at|IN this|DT wavelength|NN so|IN one|CD thing|NN dr|NN leitgeb|NN had|VBD to|TO do|VB was|VBD change|VB it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT thing|NN which|WDT had|VBD to|TO change|VB was|VBD the|DT speed|NN at|IN which|WDT the|DT laser|NN operate|NN </s>|S_END
+<s>|S_START in|IN the|DT ophthalmological|JJ system|NN images|NNS are|VBP built|VBN up|RP from|IN a|DT series|NN of|IN pulse|NN </s>|S_END
+<s>|S_START the|DT more|RBR of|IN these|DT the|DT laser|NN sends|NNS in|IN the|DT more|RBR light|JJ returns|NNS to|TO the|DT device|NN and|CC the|DT higher|JJR the|DT resolution|NN of|IN the|DT resulting|VBG image|NN </s>|S_END
+<s>|S_START however|RB that|IN image|NN must|MD be|VB built|VBN up|RP quickly|RB otherwise|RB movement|NN of|IN the|DT tissue|NN being|VBG illuminated|VBN will|MD blur|VB it|PRP </s>|S_END
+<s>|S_START for|IN eyes|NNS between|IN 20000|CD and|CC 60000|CD bursts|NNS a|DT second|JJ is|VBZ enough|JJ </s>|S_END
+<s>|S_START but|CC to|TO photograph|NN blood|NN vessels|NNS inside|VBP skin|NN dr|NN leitgeb|NN knew|VBD more|JJR would|MD be|VB needed|VBN </s>|S_END
+<s>|S_START in|IN the|DT end|NN he|PRP commissioned|VBD a|DT group|NN of|IN researchers|NNS at|IN ludwigmaximilians|NNS university|NN in|IN germany|NN to|TO design|VB an|DT instrument|NN which|WDT produces|NNS light|VBD with|IN a|DT wavelength|NN of|IN 1300|CD nanometres|NNS and|CC has|VBZ the|DT ability|NN to|TO fire|VB 440000|CD pulses|NNS a|DT second|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN their|PRP$ new|JJ laser|NN in|IN hand|NN dr|NN leitgeb|NN and|CC his|PRP$ colleagues|NNS set|VBD up|RP an|DT experiment|NN that|IN let|NN them|PRP test|NN the|DT system|NN on|IN a|DT range|NN of|IN skin|NN conditions|NNS including|VBG a|DT healthy|JJ human|NN palm|NN allergyinduced|VBD eczema|NN on|IN the|DT forearm|NN inflammation|NN of|IN the|DT forehead|NN and|CC two|CD previously|RB diagnosed|VBN cases|NNS of|IN basalcell|NN carcinoma|NN </s>|S_END
+<s>|S_START they|PRP expected|VBD to|TO see|VB normal|JJ blood|NN vessels|NNS in|IN the|DT healthy|JJ palm|NN increased|VBD perfusion|NN caused|VBN by|IN dilated|VBN and|CC altered|VBN vessels|NNS in|IN the|DT eczema|NN and|CC the|DT inflammation|NN and|CC a|DT chaotic|JJ jumble|JJ of|IN vessels|NNS feeding|VBG the|DT cancer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC that|DT is|VBZ exactly|RB what|WP they|PRP did|VBD see|VB </s>|S_END
+<s>|S_START moreover|RB the|DT images|NNS of|IN the|DT vessels|NNS supplying|VBG blood|NN to|TO the|DT tumours|NNS were|VBD good|JJ enough|RB to|TO allow|VB them|PRP to|TO calculate|VB bloodflow|JJ rate|NN </s>|S_END
+<s>|S_START that|DT dr|NN leitgeb|NN suggests|VBZ could|MD also|RB help|VB treatment|NN by|IN allowing|NN doctors|NNS to|TO identify|VB the|DT times|NNS during|IN their|PRP$ development|NN when|WRB tumours|NNS are|VBP most|JJS vulnerable|JJ to|TO starvation|NN by|IN having|NN their|PRP$ blood|NN supply|NN cut|VBD off|RP </s>|S_END
+</p>|P_END
+

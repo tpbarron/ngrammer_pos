@@ -1,0 +1,16 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 48|CD gdp|NN $|$ 368bn|CD ppp|CD $|$ 500bn|CD inflation|NN 32|CD population|NN 482m|CD gdp|NN per|IN head|NN $|$ 7650|CD ppp|CD $|$ 10380|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START president|NN juan|VBD manuel|NN santos|NNS will|MD use|VB the|DT strong|JJ mandate|NN enjoyed|VBN by|IN his|PRP$ rightleaning|NN national|JJ unity|NN coalition|NN to|TO push|VB ahead|RB with|IN an|DT ambitious|JJ programme|NN of|IN reform|NN </s>|S_END
+<s>|S_START with|IN a|DT set|NN of|IN fiscal|JJ measures|NNS already|RB gazetted|VBN attention|NN will|MD turn|VB to|TO tax|NN reform|NN and|CC other|JJ probusiness|NN initiatives|NNS though|IN mopping|VBG up|RP 2011s|CD flood|NN damage|NN will|MD absorb|VB some|DT resource|NN </s>|S_END
+<s>|S_START rising|VBG consumer|NN spending|NN and|CC public|JJ investment|NN associated|VBN with|IN flood|NN repairs|NNS will|MD help|VB the|DT economy|NN grow|NN nicely|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB hearts|NNS and|CC mine|JJ </s>|S_END
+<s>|S_START mr|NN santos|NNS a|DT former|JJ defence|NN minister|NN has|VBZ ordered|VBN a|DT rethink|NN of|IN security|NN policy|NN amid|IN a|DT rise|NN in|IN activity|NN from|IN the|DT remnants|NNS of|IN the|DT farc|NN insurgency|NN </s>|S_END
+<s>|S_START there|EX will|MD be|VB more|RBR carrots|NNS but|CC the|DT sticks|NNS will|MD remain|VB </s>|S_END
+</p>|P_END
+

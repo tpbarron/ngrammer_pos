@@ -1,0 +1,106 @@
+<p>
+<s>in most countries it is illegal to buy or sell a kidney</s>
+<s>if you need a transplant you join a waiting list until a matching organ becomes available</s>
+<s>this drives economists nuts</s>
+<s>why not allow willing donors to sell spare kidneys and let patients or the government acting on their behalf bid for them</s>
+<s>the waiting list would disappear overnight</s>
+</p>
+
+<p>
+<s>the reason is that most societies find the concept of mixing kidneys and cash repugnant</s>
+<s>people often exclude financial considerations from their most important decisions from the person they marry to the foster child they adopt</s>
+<s>even some transactions that do involve money are not really about price</s>
+<s>universities in america do not admit students based on who pays the most for example</s>
+<s>rather they select students based on complex criteria that include grades test scores and diversity</s>
+<s>similarly students choose their university on more than just financial factors</s>
+</p>
+
+<p>
+<s>money is not essential to a market</s>
+<s>after all economics is about maximising welfare not gdp</s>
+<s>but the absence of a price to allocate supply and demand makes it harder to know whether welfare is being maximised</s>
+<s>this year’s nobel prize in economics went to two scholars—alvin roth who has just joined the economics department at stanford university and lloyd shapley a retired mathematician at the university of california los angeles—who have grappled with that very problem</s>
+</p>
+
+<p>
+<s>in 1962 david gale who died in 2008 and mr shapley now 89 published a playful paper called “college admissions and the stability of marriage”</s>
+<s>they noted the similarity between college admissions in which students and universities are trying to pair up to their mutual satisfaction and the marriage market in which a fixed number of men and women are trying to find a match</s>
+<s>in romantic comedies each man and woman marries their own true love</s>
+<s>in real life some people settle for secondbest which can lead to lots of trouble</s>
+<s>if john and mary love each other but are married to other people they will be tempted to leave their current partner and marry each other</s>
+<s>but if john loves mary while mary loves her husband more than john both will stay put</s>
+</p>
+
+<p>
+<s>mr gale and mr shapley devised an algorithm for matching an equal number of men and women that would guarantee this second more stable outcome</s>
+<s>each man and woman ranks their preferred partners</s>
+<s>each man proposes to his highestranked woman</s>
+<s>each woman rejects all the proposals she gets except the highestranked among them</s>
+<s>but she does not accept the proposal in case a man she prefers even more proposes next time</s>
+<s>the algorithm is rerun until all women have a satisfactory proposal</s>
+</p>
+
+<p>
+<s>sadly “cooperative game theory” has not yet had the opportunity to transform the marriage market</s>
+<s>but mr roth spotted practical applications in other areas</s>
+<s>in the 1940s the competition for new doctors sometimes saw hospitals making offers to students years before they graduated and thus before their qualifications were truly known</s>
+<s>the national resident matching programme was devised to match doctors to hospitals in a way that maximised their satisfaction</s>
+<s>this programme mr roth noted in a 1984 paper was a reallife example of the “deferredacceptance” algorithm of messrs gale and shapley</s>
+<s>the tests of a welldesigned market are that participants are satisfied enough that they don’t go around it and that there is little incentive to game the system—by for example lying about their preferences</s>
+<s>this was true of the residentmatching programme mr roth said</s>
+</p>
+
+<p>
+<s>other systems worked far less well</s>
+<s>both the new york and boston publicschool systems used to assign students according to their preferred choices but students often had to decide before knowing all their options</s>
+<s>thousands ended up at schools for which they had expressed no preference</s>
+<s>mr roth helped both design algorithms that significantly reduced these mismatches</s>
+</p>
+
+<p>
+<s>he also applied his expertise to organ donation</s>
+<s>a man who would not donate a kidney in other circumstances may do so if his wife needs one</s>
+<s>if their blood types do not match they can be paired with a couple in the mirrorimage position</s>
+<s>the new england programme for kidney exchange which was partly designed by mr roth incorporates much more complex chains of donors and recipients and raises the supply of kidneys by making a donor more confident his loved one will find a match</s>
+</p>
+
+<p>
+<s>i love you subject to the next algorithm</s>
+</p>
+
+<p>
+<s>in time the internet could make formal matching systems viable for even more transactions</s>
+<s>existing systems cannot always be improved upon however</s>
+<s>utku Ünver at boston college who helped develop the kidneyexchange programme with mr roth points to the allocation of law students to federaljudge clerkships</s>
+<s>judges have complete control over whom they hire and many students to choose from so there are fewer benefits to a formal clearinghouse system</s>
+<s>when economics departments hire new phds their preferences are too difficult to codify in a matching system</s>
+<s>and in many cases such systems should only facilitate transactions not execute them</s>
+<s>mr unver and his colleagues are developing a way of recommending foster children to adoptive parents in pennsylvania but the final decision is left to social workers and the families</s>
+</p>
+
+<p>
+<s>in their 1962 article mr gale and mr shapley noted that their algorithm was not particularly complicated illustrating a larger point about their discipline “any argument that is carried out with sufficient precision is mathematical” the recognition of mr shapley’s and mr roth’s work is also a reminder that for all the bad press economics has received since the crisis the discipline still brims over with insights that can solve reallife problems</s>
+</p>
+
+<p>
+<s>sources</s>
+</p>
+
+<p>
+<s>college admissions and the stability of marriage by d gale and ls</s>
+<s>shapley american mathematical monthly 1962</s>
+</p>
+
+<p>
+<s>stable allocations and the practice of market design compiled by the economic sciences prize committee of the royal swedish academy of sciences 2012</s>
+</p>
+
+<p>
+<s>the evolution of the labour market for medical interns and residents a case study in game theory by ae</s>
+<s>roth journal of political economy 1984</s>
+</p>
+
+<p>
+<s>economistcomblogsfreeexchange</s>
+</p>
+

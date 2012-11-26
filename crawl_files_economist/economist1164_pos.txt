@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 35|CD gdp|NN $|$ 729bn|CD ppp|CD $|$ 1121bn|CD inflation|NN 66|CD population|NN 747m|CD gdp|NN per|IN head|NN $|$ 9760|CD ppp|CD $|$ 15000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START entering|VBG its|PRP$ third|JJ successive|JJ term|NN in|IN office|NN the|DT moderately|RB islamist|VBP justice|NN and|CC development|NN party|NN has|VBZ the|DT upper|JJ hand|NN in|IN its|PRP$ longrunning|NN battle|NN with|IN the|DT countrys|NNS secularists|VBZ but|CC its|PRP$ reduced|VBN majority|NN means|VBZ that|DT further|JJ progress|NN on|IN reforming|NN the|DT 1982|CD militarist|NN constitution|NN will|MD have|VB to|TO be|VB negotiated|VBN </s>|S_END
+<s>|S_START the|DT even|RB longerrunning|VBG faceoff|IN between|IN the|DT state|NN and|CC the|DT kurdish|JJ minority|NN is|VBZ also|RB resurfacing|VBG and|CC quelling|VBG dissent|NN before|IN violence|NN takes|VBZ hold|NN will|MD be|VB a|DT priority|NN </s>|S_END
+<s>|S_START turkeys|NNS breakneck|VBP charge|NN out|IN of|IN the|DT 2009|CD recession|NN will|MD slow|VB but|CC its|PRP$ economy|NN will|MD still|RB have|VB some|DT momentum|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,54 @@
+<p>|P_START
+<s>|S_START mortgage|NN rose|VBD slightly|RB higher|JJR this|DT week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN rates|NNS on|IN 30year|JJ fixed|VBN mortgages|NNS climbed|VBD slightly|RB higher|JJR this|DT week|NN breaking|VBG a|DT run|NN that|WDT saw|VBD rates|NNS match|VBP or|CC set|VBN new|JJ record|NN lows|NNS for|IN 13|CD out|IN of|IN the|DT past|JJ 14|CD weeks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT rate|NN on|IN 30year|JJ fixed|VBN mortgages|NNS rose|VBD to|TO 355|CD from|IN 349|CD last|JJ week|NN freddie|NN mac|NN said|VBD in|IN its|PRP$ weekly|JJ report|NN </s>|S_END
+<s>|S_START last|JJ year|NN at|IN this|DT time|NN the|DT mortgage|NN rate|NN averaged|VBD 439|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB the|DT 15year|JJ fixedrate|NN mortgage|NN popular|JJ among|IN those|DT seeking|VBG to|TO refinance|NN also|RB inched|VBD slightly|RB higher|JJR to|TO 283|CD from|IN 280|CD </s>|S_END
+<s>|S_START last|JJ year|NN it|PRP averaged|VBD 354|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT increase|NN in|IN rates|NNS followed|VBN several|JJ positive|JJ economic|JJ announcements|NNS including|VBG debt|NN relief|NN efforts|NNS in|IN the|DT europe|NN an|DT increase|NN in|IN us|PRP consumer|NN confidence|NN in|IN july|RB and|CC a|DT report|NN indicating|VBG that|IN home|NN prices|NNS are|VBP on|IN the|DT rise|NN according|VBG to|TO frank|VB nothaft|NN freddies|NNS chief|NN economist|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START recent|JJ announcements|NNS of|IN additional|JJ debt|NN relief|NN for|IN the|DT eurozone|NN and|CC mixed|VBD domestic|JJ economic|JJ indicators|NNS added|VBD upward|NN pressure|NN on|IN treasury|NN yields|NNS as|IN well|RB as|IN mortgage|NN rates|NNS this|DT week|NN he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mortgage|NN rates|NNS tend|VBP to|TO track|VB yields|NNS on|IN treasurys|NNS which|WDT also|RB climbed|VBD slightly|RB higher|JJR this|DT week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nothaft|NN also|RB pointed|VBD out|RP that|IN while|IN there|EX was|VBD a|DT mixed|VBN bag|NN of|IN housing|NN news|NN including|VBG a|DT disappointing|JJ report|NN on|IN pending|VBG home|NN sales|NNS in|IN june|NN home|NN prices|NNS are|VBP on|IN the|DT upswing|NN again|RB </s>|S_END
+<s>|S_START in|IN may|MD home|VB prices|NNS climbed|VBN for|IN the|DT fourth|JJ consecutive|JJ month|NN according|VBG to|TO the|DT sp|NN caseshiller|NN 20city|NN homeprice|NN index|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB though|IN rates|NNS and|CC home|NN prices|NNS have|VBP climbed|VBN higher|JJR buying|NN a|DT home|NN still|RB remains|VBZ extremely|RB cheap|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT $|$ 200000|CD 30year|CD fixedrate|NN mortgage|NN costs|NNS just|RB $|$ 904|CD a|DT month|NN compared|VBN with|IN the|DT $|$ 1013|CD it|PRP would|MD cost|VB a|DT year|NN ago|IN when|WRB rates|NNS averaged|VBD 44|CD </s>|S_END
+<s>|S_START five|CD years|NNS ago|RB that|IN same|JJ mortgage|NN would|MD have|VB carried|VBN an|DT average|JJ rate|NN of|IN 65|CD and|CC cost|NN $|$ 1264|CD a|DT month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT low|JJ rates|NNS are|VBP likely|JJ to|TO stick|VB around|IN for|IN awhile|NN according|VBG to|TO greg|VB mcbride|JJ a|DT financial|JJ analyst|NN with|IN bankratecom|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT weeks|NNS increase|VBP is|VBZ more|RBR likely|JJ to|TO be|VB a|DT temporary|JJ retreat|NN than|IN a|DT lasting|JJ turn|NN he|PRP said|VBD </s>|S_END
+<s>|S_START mortgage|NN rates|NNS will|MD stay|VB very|RB low|JJ given|VBN the|DT ongoing|JJ uncertainties|NNS surrounding|VBG the|DT economy|NN fiscal|JJ cliff|NN and|CC european|JJ debt|NN circus|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

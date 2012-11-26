@@ -1,0 +1,84 @@
+<p>|P_START
+<s>|S_START international|JJ telecommunication|NN union|NN secretarygeneral|JJ hamadoun|NN touré|NN left|VBD ericsson|NN ceo|NN hans|NNS vestberg|VBP center|NN and|CC mashable|JJ editor|NN lance|NN ulanoff|NN met|NN at|IN the|DT un|NN social|JJ good|JJ summit|NN to|TO analyze|VB the|DT pace|NN of|IN global|JJ mobile|JJ broadband|NN expansion|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN moderating|VBG a|DT discussion|NN on|IN the|DT future|NN of|IN broadband|NN mashable|JJ editorinchief|NN lance|NN ulanoff|NN tossed|VBD a|DT provocative|JJ question|NN to|TO the|DT audience|NN by|IN quick|NN show|NN of|IN hands|NNS how|WRB many|JJ out|IN there|RB think|VBP that|IN broadband|NN is|VBZ a|DT luxury|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START next|JJ question|NN how|WRB many|JJ out|IN there|RB think|VBP it|PRP is|VBZ a|DT human|JJ right|NN </s>|S_END
+<s>|S_START that|DT option|NN easily|RB carried|VBN the|DT audience|NN vote|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ulanoffs|NNS fellow|VBP panelists|NNS at|IN the|DT united|VBN nations|NNS recent|JJ social|JJ good|JJ summit|NN took|VBD a|DT similar|JJ view|NN </s>|S_END
+<s>|S_START held|VBD annually|RB to|TO coincide|VB with|IN the|DT uns|NNS general|JJ assembly|NN the|DT gathering|NN brings|VBZ together|RB business|NN executives|NNS activists|NNS academics|NNS and|CC entrepreneurs|NNS to|TO explore|VB how|WRB technology|NN can|MD help|VB make|VB the|DT world|NN a|DT better|JJR place|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START broadband|NN access|NN is|VBZ too|RB important|JJ to|TO society|NN to|TO be|VB relegated|VBN to|TO a|DT small|JJ privileged|JJ portion|NN of|IN the|DT world|NN population|NN hans|NNS vestberg|VBP president|NN and|CC ceo|NN of|IN ericsson|NN eric|JJ said|VBD during|IN the|DT discussion|NN </s>|S_END
+<s>|S_START dr|NN hamadoun|VBN touré|-NONE- secretarygeneral|JJ of|IN the|DT international|JJ telecommunication|NN union|NN echoed|VBD vestbergs|NNS remarks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP need|VBP to|TO make|VB sure|JJ all|DT the|DT worlds|NNS inhabitants|NNS are|VBP connected|VBN to|TO the|DT goodies|NNS of|IN the|DT online|NN world|NN which|WDT means|VBZ better|JJR health|NN care|NN better|RBR education|NN more|RBR sustainable|JJ economic|JJ and|CC social|JJ development|NN touré|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START vestberg|NN highlighted|VBD the|DT link|NN between|IN broadband|NN services|NNS and|CC economic|JJ growth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START endless|NN studies|NNS have|VBP been|VBN done|VBN across|IN the|DT globe|NN he|PRP said|VBD for|IN every|DT 10|CD of|IN broadband|NN penetration|NN you|PRP get|VBP 1|CD of|IN sustainable|JJ gdp|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT world|NN recently|RB hit|VBD a|DT major|JJ milestone|NN 1|CD billion|CD people|NNS now|RB have|VBP mobile|JJ broadband|NN subscriptions|NNS defined|VBD as|IN speeds|NNS of|IN 3g|CD or|CC higher|JJR </s>|S_END
+<s>|S_START within|IN the|DT next|JJ 5|CD years|NNS that|WDT number|NN is|VBZ forecast|VBN to|TO soar|VB to|TO 5|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START vestberg|NN and|CC touré|NNP both|DT serve|NN on|IN the|DT un|NN broadband|NN commission|NN for|IN digital|JJ development|NN which|WDT late|JJ last|JJ month|NN published|VBD the|DT state|NN of|IN broadband|NN 2012|CD </s>|S_END
+<s>|S_START in|IN the|DT report|NN the|DT commission|NN analyzes|VBZ the|DT current|JJ distribution|NN of|IN broadband|NN worldwide|NN and|CC maps|NNS out|IN goals|NNS for|IN increasing|VBG access|NN mainly|RB through|IN smartphones|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT socalled|VBN digital|JJ gap|NN is|VBZ shrinking|VBG </s>|S_END
+<s>|S_START in|IN 2002|CD an|DT estimated|VBN 8|CD of|IN worlds|NNS population|NN was|VBD online|NN but|CC by|IN 2012|CD that|WDT number|NN had|VBD risen|VBN past|JJ 33|CD </s>|S_END
+<s>|S_START most|JJS of|IN the|DT growth|NN is|VBZ happening|VBG in|IN the|DT developing|VBG world|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT trends|NNS have|VBP profound|VBN global|JJ implications|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN example|NN the|DT number|NN of|IN internet|NN users|NNS accessing|VBG the|DT internet|NN in|IN chinese|JJ will|NN outnumber|NN english|NN language|NN users|NNS by|IN 2015|CD experts|NNS predict|VBP </s>|S_END
+<s>|S_START the|DT total|NN number|NN of|IN smartphones|NNS in|IN the|DT world|NN is|VBZ expected|VBN to|TO top|VB 3|CD billion|CD by|IN 2017|CD and|CC by|IN 2020|CD connected|VBN devices|NNS may|MD outnumber|VB connected|VBN people|NNS by|IN a|DT ratio|NN of|IN 61|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT without|IN connections|NNS will|MD be|VB cut|VBN off|RP from|IN one|CD of|IN the|DT planets|NNS fastest|JJS growing|VBG economies|NNS </s>|S_END
+<s>|S_START the|DT size|NN of|IN the|DT internet|NN economy|NN in|IN the|DT g20|NNP countries|NNS reached|VBD $|$ 23|CD trillion|CD in|IN 2010|CD equivalent|NN to|TO around|IN 41|CD of|IN their|PRP$ gdp|NN and|CC could|MD double|VB by|IN 2016|CD according|VBG to|TO estimates|NNS from|IN the|DT boston|NN consulting|NN group|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START linking|VBG up|IN the|DT twothirds|NNS of|IN the|DT worlds|NNS population|NN that|IN remains|VBZ offline|NN requires|VBZ a|DT mix|NN of|IN initiatives|NNS </s>|S_END
+<s>|S_START right|RB now|RB 199|CD countries|NNS including|VBG the|DT united|JJ states|NNS have|VBP a|DT national|JJ broadband|NN plan|NN and|CC 12|CD more|RBR are|VBP in|IN planning|VBG stages|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT un|NN commissions|NNS report|NN maps|NNS out|IN a|DT series|NN of|IN bestpractices|NNS advice|NN and|CC case|NN studies|NNS for|IN expanding|VBG access|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START getting|VBG the|DT private|JJ sector|NN involved|VBN is|VBZ key|JJ theyre|NN often|RB the|DT ones|NNS actually|RB footing|VBG the|DT bill|NN for|IN infrastructure|NN development|NN </s>|S_END
+<s>|S_START ericssons|NNS vestberg|VBP said|VBN he|PRP sees|VBZ more|JJR governments|NNS exploring|VBG privatesector|NN investment|NN options|NNS and|CC setting|VBG formal|JJ targets|NNS for|IN their|PRP$ digital|JJ goals|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ no|DT longer|NN a|DT luxury|NN touré|NN said|VBD </s>|S_END
+<s>|S_START we|PRP see|VBP this|DT is|VBZ a|DT fundamental|JJ tool|NN that|WDT is|VBZ expected|VBN by|IN everyone|NN </s>|S_END
+</p>|P_END
+

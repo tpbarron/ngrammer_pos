@@ -1,0 +1,46 @@
+<p>|P_START
+<s>|S_START white|IN house|NN budget|NN office|NN made|VBD an|DT effort|NN to|TO stave|VB off|RP layoff|IN notices|NNS from|IN companies|NNS worried|VBN about|IN 2013|CD automatic|JJ spending|NN cuts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT white|NN house|NN on|IN friday|NN told|VBD government|NN contractors|NNS worried|VBD about|IN fiscal|JJ cliff|NN spending|NN cuts|NNS to|TO hold|VB off|RP on|IN warning|NN employees|NNS about|IN possible|JJ layoffs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT government|NN said|VBD it|PRP would|MD cover|VB legal|JJ costs|NNS if|IN contractors|NNS are|VBP forced|VBN to|TO slash|VB their|PRP$ payrolls|NNS because|IN of|IN the|DT looming|NN $|$ 109|CD billion|CD in|IN automatic|JJ cuts|NNS next|JJ year|NN and|CC are|VBP alleged|VBN to|TO have|VB violated|VBN the|DT warn|NN act|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT federal|JJ warn|NN act|NN requires|VBZ businesses|NNS with|IN more|JJR than|IN 100|CD employees|NNS to|TO notify|VB workers|NNS at|IN least|JJS 60|CD days|NNS in|IN advance|NN of|IN a|DT mass|NN layoff|NN or|CC plant|NN closing|VBG </s>|S_END
+<s>|S_START some|DT states|NNS require|VBP more|JJR notice|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START any|DT resulting|VBG employee|NN compensation|NN costs|NNS for|IN warn|NN act|NN liability|NN as|IN determined|VBN by|IN a|DT court|NN as|IN well|RB as|IN attorneys|NNS fees|NNS and|CC other|JJ litigation|NN costs|NNS irrespective|VBP of|IN litigation|NN outcome|NN would|MD qualify|VB as|IN allowable|JJ costs|NNS and|CC be|VB covered|VBN by|IN the|DT contracting|VBG agency|NN if|IN otherwise|NN reasonable|JJ and|CC allocable|JJ the|DT office|NN of|IN management|NN and|CC budget|NN said|VBD in|IN its|PRP$ guidance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START top|JJ ceos|NNS fiscal|JJ cliff|NN is|VBZ hurting|VBG jobs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START defense|NN contractors|NNS in|IN particular|JJ have|VBP warned|VBN for|IN months|NNS that|WDT the|DT upcoming|VBG sequester|NN would|MD cost|VB jobs|NNS in|IN their|PRP$ industry|NN </s>|S_END
+<s>|S_START and|CC lockheed|VBD martins|NNS ceo|IN has|VBZ said|VBN publicly|RB he|PRP may|MD be|VB forced|VBN to|TO issue|VB notice|NN this|DT fall|NN of|IN possible|JJ layoffs|NNS in|IN 2013|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN other|JJ contractors|NNS follow|VBP suit|NN there|EX could|MD be|VB a|DT rash|NN of|IN layoff|NN notices|NNS spooking|VBG employees|NNS right|RB before|IN election|NN day|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT parties|NNS in|IN congress|NN created|VBN the|DT sequester|NN a|DT series|NN of|IN thoughtless|NN automatic|JJ acrosstheboard|NN cuts|NNS as|IN a|DT way|NN to|TO force|VB their|PRP$ hand|NN to|TO agree|VB on|IN a|DT more|RBR gradual|JJ bipartisan|NN debtreduction|NN plan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START well|RB that|IN hasnt|NN happened|VBD yet|RB </s>|S_END
+<s>|S_START and|CC if|IN lawmakers|NNS cant|VBP agree|JJ on|IN how|WRB to|TO replace|VB the|DT sequester|NN soon|RB the|DT cuts|NNS become|VBP effective|JJ on|IN jan|NN 2|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+</p>|P_END
+

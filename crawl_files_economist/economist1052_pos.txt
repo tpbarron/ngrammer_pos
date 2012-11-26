@@ -1,0 +1,31 @@
+<p>|P_START
+<s>|S_START if|IN a|DT fixedwing|NN aircraft|NN loses|NNS power|NN the|DT pilot|NN can|MD at|IN least|JJS rely|RB on|IN the|DT wings|NNS to|TO provide|VB lift|NN until|IN the|DT planes|NNS forward|RB velocity|NN falls|NNS below|IN its|PRP$ stall|NN speed|NN </s>|S_END
+<s>|S_START a|DT helicopter|NN by|IN contrast|NN derives|NNS both|DT propulsion|NN and|CC lift|NN from|IN its|PRP$ blade|NN </s>|S_END
+<s>|S_START if|IN they|PRP stop|VBP rotating|VBG a|DT rapid|JJ and|CC terminal|JJ encounter|NN with|IN the|DT ground|NN beckon|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO prevent|VB that|IN the|DT blades|NNS of|IN most|JJS helicopters|NNS have|VBP a|DT special|JJ clutch|NN that|WDT disengages|VBZ them|PRP from|IN the|DT engine|NN if|IN the|DT engine|NN stop|NN </s>|S_END
+<s>|S_START the|DT pilot|NN must|MD then|RB change|VB the|DT pitch|NN of|IN his|PRP$ craft|NN to|TO let|VB it|PRP enter|JJR a|DT mode|NN called|VBN autorotation|NN in|IN which|WDT the|DT rush|NN of|IN air|NN as|IN it|PRP descends|VBZ keeps|NNS the|DT blades|NNS whirling|VBG thus|RB providing|VBG lift|NN that|IN slows|VBZ the|DT fall|NN </s>|S_END
+<s>|S_START the|DT shift|NN to|TO autorotation|NN is|VBZ perilous|JJ though|IN because|IN it|PRP involves|VBZ a|DT reversal|NN of|IN the|DT airflow|NN through|IN the|DT blade|NN </s>|S_END
+<s>|S_START the|DT pilot|NN must|MD then|RB perform|VB a|DT second|JJ manoeuvre|NN known|VBN as|IN flaring|NN just|RB before|IN he|PRP hits|VBZ the|DT ground|NN </s>|S_END
+<s>|S_START this|DT involves|VBZ pitching|VBG the|DT machines|NNS nose|VBP up|RP to|TO reduce|VB its|PRP$ forward|NN velocity|NN and|CC increase|VB the|DT speed|NN of|IN rotation|NN of|IN the|DT blades|NNS and|CC thus|RB the|DT amount|NN of|IN lift|NN they|PRP provide|VBP to|TO soften|VB the|DT landing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT of|IN these|DT manoeuvres|NNS would|MD be|VB less|RBR hazardous|JJ if|IN the|DT pilot|NN could|MD call|VB on|IN a|DT second|JJ source|NN of|IN power|NN to|TO turn|VB the|DT blades|NNS for|IN a|DT few|JJ seconds|NNS while|IN he|PRP was|VBD performing|VBG them|PRP and|CC jeanmichel|NN billig|NN and|CC his|PRP$ team|NN at|IN eurocopter|NN part|NN of|IN eads|NNS an|DT aerospace|NN and|CC defence|NN group|NN hope|NN to|TO provide|VB just|RB that|IN </s>|S_END
+<s>|S_START they|PRP are|VBP introducing|VBG the|DT fashionable|JJ idea|NN of|IN hybridelectric|JJ drive|JJ into|IN helicopter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT team|NN have|VBP fitted|VBN one|CD of|IN the|DT firms|NNS as350|NNP helicopters|NNS with|IN an|DT electric|JJ motor|NN and|CC lithiumion|NN batteries|NNS to|TO power|NN it|PRP </s>|S_END
+<s>|S_START they|PRP are|VBP now|RB testing|VBG the|DT arrangement|NN to|TO work|VB out|RP how|WRB much|RB power|JJR is|VBZ needed|VBN to|TO keep|VB the|DT craft|NN aloft|NN during|IN the|DT transition|NN to|TO autorotation|NN and|CC during|IN flaring|VBG </s>|S_END
+<s>|S_START mr|NN billig|NN thinks|NNS eurocopter|NN will|MD be|VB able|JJ to|TO offer|VB the|DT system|NN commercially|RB in|IN about|IN a|DT years|NNS time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT raises|VBZ the|DT question|NN of|IN whether|IN it|PRP might|MD be|VB feasible|JJ to|TO build|VB an|DT allelectric|JJ helicopter|NN </s>|S_END
+<s>|S_START at|IN the|DT moment|NN the|DT answer|NN is|VBZ no|DT at|IN least|JJS for|IN manned|VBN craft|NN because|IN of|IN limited|VBN battery|NN capacity|NN </s>|S_END
+<s>|S_START but|CC batteries|NNS are|VBP improving|VBG and|CC if|IN they|PRP were|VBD good|JJ enough|RB then|RB an|DT electrically|RB powered|VBN helicopter|NN would|MD like|VB an|DT electric|JJ car|NN be|VB a|DT more|RBR elegant|JJ solution|NN to|TO the|DT problem|NN of|IN locomotion|NN than|IN the|DT serial|JJ explosions|NNS that|WDT keep|VB an|DT internalcombustion|NN engine|NN ticking|VBG over|IN </s>|S_END
+</p>|P_END
+

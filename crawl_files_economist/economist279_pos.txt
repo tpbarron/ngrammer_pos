@@ -1,0 +1,69 @@
+<p>|P_START
+<s>|S_START if|IN normal|JJ journalism|NN is|VBZ the|DT first|JJ draft|NN of|IN history|NN this|DT publication|NN is|VBZ a|DT stab|NN at|IN a|DT first|JJ draft|NN of|IN the|DT future|NN </s>|S_END
+<s>|S_START how|WRB accurate|JJ was|VBD our|PRP$ effort|NN last|JJ time|NN round|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT predictions|NNS game|NN inevitably|RB you|PRP win|VBP some|DT and|CC you|PRP lose|VBD some|DT </s>|S_END
+<s>|S_START the|DT good|JJ news|NN for|IN the|DT world|NN in|IN 2010|CD is|VBZ that|IN our|PRP$ wins|NNS outnumbered|VBD our|PRP$ losse|NN </s>|S_END
+<s>|S_START the|DT bad|JJ news|NN is|VBZ that|IN some|DT of|IN those|DT losses|NNS were|VBD big|JJ </s>|S_END
+<s>|S_START our|PRP$ record|NN on|IN the|DT british|JJ election|NN american|NN politics|NNS and|CC the|DT global|JJ economy|NN are|VBP three|CD prime|JJ example|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gordon|NN brown|VBN called|VBN a|DT general|JJ election|NN for|IN may|MD 6th|CD exactly|RB when|WRB we|PRP thought|VBD he|PRP would|MD </s>|S_END
+<s>|S_START as|IN we|PRP forecast|VBP he|PRP lost|VBD and|CC the|DT new|JJ conservative|JJ government|NN under|IN david|JJ cameron|NN quickly|RB set|VBN about|IN tackling|VBG the|DT countrys|NNS battered|VBD public|JJ finances|NNS with|IN an|DT emergency|NN budget|NN and|CC the|DT announcement|NN of|IN deep|NN cuts|NNS in|IN public|JJ spending|NN </s>|S_END
+<s>|S_START we|PRP expected|VBD the|DT labour|NN party|NN to|TO pick|VB a|DT miliband|NN as|IN its|PRP$ new|JJ leader|NN and|CC so|RB it|PRP did|VBD </s>|S_END
+<s>|S_START all|DT very|RB prescient—except|JJ that|IN we|PRP expected|VBD a|DT clear|JJ tory|NN majority|NN in|IN parliament|NN not|RB the|DT high|JJ drama|NN of|IN a|DT coalition|NN with|IN nick|NN cleggs|NNS liberal|JJ democrat|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP is|VBZ a|DT similar|JJ story|NN with|IN american|JJ politic|JJ </s>|S_END
+<s>|S_START we|PRP correctly|RB predicted|VBD a|DT bruising|NN year|NN for|IN barack|NN obama|NN with|IN voters|NNS handing|VBG control|NN of|IN the|DT house|NN of|IN representatives|NNS but|CC not|RB the|DT senate|NN to|TO the|DT republican|NN party|NN in|IN the|DT midterm|NN election|NN </s>|S_END
+<s>|S_START we|PRP said|VBD that|IN he|PRP would|MD “own”|VB the|DT grinding|NN war|NN in|IN afghanistan|JJ and|CC unpopular|JJ healthcare|NN reform|NN </s>|S_END
+<s>|S_START but|CC we|PRP failed|VBD to|TO foresee|VB how|WRB many|JJ americans|NNS on|IN the|DT right|NN would|MD channel|VB their|PRP$ anger|NN through|IN the|DT stunning|NN rise|NN of|IN the|DT teaparty|NN movement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN the|DT world|NN economy|NN too|RB we|PRP got|VBD the|DT broad|JJ picture|NN right|RB </s>|S_END
+<s>|S_START we|PRP gave|VBD warning|VBG that|IN the|DT rich|JJ worlds|NNS recovery|NN would|MD be|VB a|DT long|JJ hard|JJ slog|NN as|IN many|JJ countries|NNS struggled|VBN with|IN large|JJ deficits|NNS heavy|JJ public|JJ debts|NNS and|CC stubborn|NN unemployment|NN </s>|S_END
+<s>|S_START o|NN it|PRP has|VBZ turned|VBN out|RP </s>|S_END
+<s>|S_START and|CC as|IN expected|VBN emerging|VBG markets|NNS have|VBP stormed|VBN ahead|RB with|IN china|NNS duly|RB overtaking|VBG japan|NN to|TO become|VB the|DT worlds|NNS secondlargest|VBP economy|NN </s>|S_END
+<s>|S_START however|RB we|PRP largely|RB missed|VBN the|DT biggest|JJS economic|JJ story|NN of|IN 2010|CD the|DT crisis|NN in|IN the|DT euro|NN zone|NN </s>|S_END
+<s>|S_START you|PRP had|VBD to|TO be|VB a|DT careful|JJ reader|NN of|IN “the|NNP world|NN in|IN figures”|NN section|NN to|TO spot|VB that|IN greeces|NNS fiscal|JJ deficit|NN could|MD turn|VB critical|JJ or|CC that|IN ireland|NN faced|VBD an|DT outside|JJ chance|NN of|IN default|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START readers|NNS who|WP look|NN back|VBP at|IN last|JJ years|NNS edition|NN will|MD also|RB find|VB plenty|JJ of|IN other|JJ predictions|NNS that|IN have|VBP turned|VBN out|RP to|TO be|VB right|RB from|IN heightened|VBN interest|NN in|IN greenlands|NNS potential|JJ oil|NN wealth|NN to|TO the|DT nuclear|JJ armscutting|NN deal|NN between|IN russia|NN and|CC america|NN </s>|S_END
+<s>|S_START it|PRP flagged|VBD the|DT coming|VBG controversy|NN over|IN online|NN privacy|NN for|IN firms|NNS such|JJ as|IN facebook|NN and|CC google|JJ as|IN well|RB as|IN the|DT dramatic|JJ rise|NN of|IN ereaders|NNS and|CC tablet|VB computer|NN </s>|S_END
+<s>|S_START it|PRP even—you|PRP heard|VBD it|PRP first|RB here—alerted|JJ football|NN fans|NNS to|TO the|DT joys|NNS of|IN the|DT vuvuzela|NN before|IN the|DT plastic|JJ trumpets|NNS started|VBN screaming|VBG relentlessly|RB at|IN the|DT world|NN cup|NN in|IN south|NN africa|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START humble|JJ pie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC any|DT temptation|NN to|TO brag|VB about|IN successes|NNS should|MD quickly|RB be|VB tempered|VBN by|IN humility|NN over|IN two|CD thing|NN </s>|S_END
+<s>|S_START first|JJ we|PRP of|IN course|NN got|VBD plenty|NN wrong|IN too|RB </s>|S_END
+<s>|S_START happily|RB swine|VBP flu|PRP failed|VBD to|TO devastate|VB </s>|S_END
+<s>|S_START we|PRP did|VBD not|RB imagine|VB the|DT fall|NN of|IN australias|NNS prime|JJ minister|NN kevin|NN rudd|NN nor|CC did|VBD we|PRP trail|VBP the|DT political|JJ violence|NN in|IN thailand|NN </s>|S_END
+<s>|S_START we|PRP utterly|RB misread|VBP polish|JJ politics|NNS even|RB before|IN the|DT terrible|JJ plane|NN crash|NN in|IN which|WDT the|DT countrys|NNS president|NN died|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT crash|NN points|NNS to|TO the|DT second|JJ perennial|JJ reason|NN for|IN humility|NN stuff|NN happen|NN </s>|S_END
+<s>|S_START other|JJ outoftheblue|NN events|NNS in|IN 2010|CD included|VBD a|DT horrendous|JJ earthquake|NN in|IN haiti|NN tragic|NN floods|NNS in|IN pakistan|NN the|DT massive|JJ oil|NN spill|NN in|IN the|DT gulf|NN of|IN mexico|NN and|CC a|DT volcanic|JJ eruption|NN in|IN iceland|NN that|IN played|VBN havoc|NN with|IN air|NN travel|NN </s>|S_END
+<s>|S_START in|IN other|JJ words|NNS they|PRP were|VBD some|DT of|IN the|DT biggest|JJS events|NNS of|IN the|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START o|NN as|IN well|RB as|IN the|DT wins|NNS and|CC losses|NNS of|IN forecasting|VBG there|EX are|VBP the|DT inevitable|JJ misses|NNS too|RB </s>|S_END
+<s>|S_START nassim|NN taleb|NN a|DT contributor|NN to|TO this|DT years|NNS edition|NN see|VBP “the|JJ world|NN in|IN 2036”|CD coined|VBN a|DT phrase|NN for|IN highimpact|NN predictiondefying|VBG events|NNS “black|JJ swans”|NN </s>|S_END
+<s>|S_START there|EX are|VBP sure|JJ to|TO be|VB a|DT few|JJ of|IN them|PRP gliding|VBG around|IN in|IN 2011|CD too|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START daniel|NN franklin|NN editor|NN the|DT world|NN in|IN 2011|CD </s>|S_END
+</p>|P_END
+

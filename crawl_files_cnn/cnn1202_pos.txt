@@ -1,0 +1,71 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN so|IN who|WP are|VBP the|DT americans|NNS that|WDT mitt|NN romney|NN says|VBZ are|VBP dependent|JJ on|IN government|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT lot|NN of|IN them|PRP are|VBP his|PRP$ biggest|JJS fans|NNS seniors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START older|JJR americans|NNS those|DT who|WP get|NN help|VBP from|IN social|JJ security|NN medicare|NN and|CC medicaid|VBD are|VBP a|DT big|JJ part|NN of|IN the|DT nearly|RB half|NN of|IN households|NNS receiving|VBG some|DT kind|NN of|IN federal|JJ benefits|NNS according|VBG to|TO the|DT most|JJS recent|JJ census|NN bureau|NN data|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START seniors|NNS are|VBP the|DT biggest|JJS beneficiaries|NNS of|IN the|DT government|NN said|VBD veronique|NN de|IN rugy|NN senior|JJ research|NN fellow|NN at|IN the|DT mercatus|NN center|NN a|DT freemarket|NN think|NN tank|NN at|IN george|NN mason|NN university|NN in|IN virginia|NN </s>|S_END
+<s>|S_START these|DT are|VBP also|RB the|DT ones|NNS who|WP overwhelmingly|RB vote|VBP for|IN romney|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START according|VBG to|TO a|DT video|NN of|IN romneys|NNS remarks|NNS at|IN a|DT may|MD fundraiser|VB that|IN was|VBD published|VBN monday|NN evening|NN the|DT republican|JJ presidential|JJ candidate|NN told|VBD supporters|NNS that|IN he|PRP couldnt|VBD concentrate|JJ on|IN voters|NNS who|WP are|VBP dependent|VBP on|IN government|NN who|WP believe|VBP that|IN that|IN they|PRP are|VBP victims|NNS who|WP believe|VBP that|IN government|NN has|VBZ the|DT responsibility|NN to|TO care|VB for|IN them|PRP </s>|S_END
+<s>|S_START who|WP believe|VBP that|IN they|PRP are|VBP entitled|VBN to|TO health|NN care|NN to|TO food|NN to|TO housing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romney|NN said|VBD those|DT voters|NNS were|VBD certain|JJ to|TO pick|VB president|NN obama|NN </s>|S_END
+<s>|S_START ill|NN never|RB convince|NN them|PRP they|PRP should|MD take|VB personal|JJ responsibility|NN and|CC care|NN for|IN their|PRP$ lives|NNS he|PRP added|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT most|RBS recent|JJ census|NN data|NNS from|IN the|DT second|JJ quarter|NN of|IN 2011|CD show|NN that|IN 16|CD of|IN households|NNS have|VBP someone|NN receiving|VBG social|JJ security|NN and|CC 15|CD very|RB often|RB the|DT same|JJ households|NNS have|VBP someone|NN benefiting|VBG from|IN medicare|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT only|JJ program|NN that|WDT is|VBZ more|RBR widespread|JJ than|IN social|JJ security|NN is|VBZ medicaid|VBN which|WDT helps|NNS 26|CD of|IN households|NNS </s>|S_END
+<s>|S_START but|CC there|EX arent|NN a|DT lot|NN of|IN votes|NNS for|IN either|DT candidate|NN among|IN medicaid|JJ recipients|NNS half|NN are|VBP children|NNS and|CC a|DT small|JJ portion|NN are|VBP seniors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD romneys|NNS 47|CD washingtons|NNS tax|NN break|NN obsession|NN to|TO blame|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB programs|NNS that|WDT aid|NN poor|NN people|NNS of|IN working|VBG age|NN make|NN up|IN small|JJ chunks|NNS of|IN the|DT federal|JJ aid|NN mix|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START recipients|NNS of|IN food|NN stamps|NNS represent|VBP 16|CD according|VBG to|TO the|DT census|NN figures|NNS </s>|S_END
+<s>|S_START accounting|VBG for|IN less|JJR than|IN 10|CD each|DT are|VBP households|NNS that|IN get|NN help|NN under|IN women|NNS infants|NNS and|CC children|NNS which|WDT provides|VBZ nutrition|NN assistance|NN as|IN well|RB as|IN housing|NN assistance|NN programs|NNS and|CC the|DT temporary|JJ assistance|NN for|IN needy|NN families|NNS program|NN which|WDT is|VBZ commonly|RB referred|VBN to|TO as|RB welfare|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN the|DT fact|NN that|IN unemployment|NN that|WDT was|VBD about|RB 9|CD during|IN the|DT quarter|NN the|DT reading|NN was|VBD taken|VBN less|JJR than|IN 2|CD of|IN households|NNS had|VBD someone|VBN receiving|VBG unemployment|NN benefits|NNS </s>|S_END
+<s>|S_START many|JJ unemployed|VBN job|NN seekers|NNS dont|VBP get|NN help|NN because|IN their|PRP$ jobless|NN benefits|NNS have|VBP run|VBN out|RP or|CC they|PRP didnt|VBP have|VBP a|DT job|NN that|WDT qualified|VBN them|PRP for|IN help|NN in|IN the|DT first|JJ place|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD more|JJR than|IN 20|CD million|CD saved|VBN from|IN poverty|NN by|IN federal|JJ help|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT fundraiser|NN video|NN romney|NN also|RB spoke|VBD of|IN 47|CD who|WP pay|NN no|DT federal|JJ taxes|NNS </s>|S_END
+<s>|S_START but|CC even|RB some|DT social|JJ security|NN recipients|NNS pay|VBP income|NN tax|NN because|IN their|PRP$ income|NN is|VBZ large|JJ enough|RB </s>|S_END
+<s>|S_START and|CC recipients|NNS of|IN other|JJ benefit|NN programs|NNS who|WP work|NN and|CC collect|VB a|DT paycheck|NN get|NN money|NN deducted|VBD for|IN the|DT payroll|NN tax|NN that|WDT funds|NNS social|VBP security|NN and|CC medicare|NN even|RB if|IN they|PRP dont|VBP earn|NN enough|RB to|TO pay|VB federal|JJ income|NN tax|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP think|VBP this|DT is|VBZ a|DT tremendous|JJ unfairness|NN in|IN the|DT system|NN where|WRB the|DT relatively|RB young|JJ and|CC poor|JJ people|NNS must|MD transfer|VB wealth|NN to|TO the|DT old|JJ who|WP might|MD be|VB wealthy|JJ said|NN the|DT mercatus|NN centers|VBZ de|IN rugy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+</p>|P_END
+

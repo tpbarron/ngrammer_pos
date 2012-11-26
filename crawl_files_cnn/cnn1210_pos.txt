@@ -1,0 +1,87 @@
+<p>|P_START
+<s>|S_START wall|NN street|VBD is|VBZ a|DT major|JJ player|NN in|IN this|DT years|NNS elections|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START washington|NN cnnmoney|NN wall|NN street|NN is|VBZ on|IN track|NN to|TO spend|VB more|JJR on|IN this|DT election|NN than|IN it|PRP ever|RB has|VBZ during|IN a|DT campaign|NN season|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN two|CD months|NNS to|TO go|VB before|IN nov|NN 6|CD wall|NN street|NN firms|NNS have|VBP so|RB far|RB spent|VBN $|$ 164|CD million|CD on|IN campaigns|NNS and|CC donations|NNS to|TO political|JJ groups|NNS designed|VBN to|TO influence|NN the|DT elections|NNS according|VBG to|TO the|DT center|NN for|IN responsive|JJ politics|NNS </s>|S_END
+<s>|S_START that|DT puts|VBZ the|DT industry|NN on|IN pace|NN to|TO surpass|NN the|DT spending|NN record|NN of|IN $|$ 170|CD million|CD that|WDT it|PRP set|VBD during|IN the|DT 2008|CD race|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT presidential|JJ and|CC congressional|JJ elections|NNS are|VBP expected|VBN to|TO be|VB the|DT most|JJS expensive|JJ on|IN record|NN </s>|S_END
+<s>|S_START the|DT center|NN expects|VBZ the|DT final|JJ tab|NN to|TO hit|VB $|$ 25|CD billion|CD most|JJS of|IN which|WDT will|MD be|VB spent|VBN on|IN television|NN advertising|NN campaign|NN infrastructure|NN and|CC staff|NN as|IN well|RB as|IN logistical|JJ efforts|NNS to|TO help|VB voters|NNS get|VB to|TO the|DT polls|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START securities|NNS and|CC investment|NN firms|NNS are|VBP one|CD of|IN the|DT biggest|JJS powerhouses|NNS aiming|VBG to|TO influence|NN the|DT elections|NNS according|VBG the|DT center|NN </s>|S_END
+<s>|S_START individuals|NNS from|IN wall|JJ street|NN firms|NNS such|JJ as|IN goldman|NN sachs|NNS gs|NNS fortune|VBP 500|CD bain|NN capital|NN and|CC blackstone|NN group|NN bx|NN have|VBP contributed|VBN millions|NNS of|IN dollars|NNS directly|RB to|TO campaigns|NNS and|CC through|IN political|JJ groups|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT biggest|JJS difference|NN between|IN this|DT election|NN and|CC the|DT race|NN in|IN 2008|CD is|VBZ that|IN wall|DT street|NN is|VBZ now|RB betting|VBG bigger|JJR on|IN republicans|NNS </s>|S_END
+<s>|S_START during|IN the|DT last|JJ cycle|NN 57|CD of|IN individuals|NNS from|IN wall|JJ street|NN gave|VBD to|TO democrats|NNS and|CC president|NN obama|NN </s>|S_END
+<s>|S_START but|CC this|DT year|NN 60|CD of|IN wall|JJ streets|NNS contributions|NNS went|VBD to|TO republicans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START were|VBD going|VBG to|TO see|VB a|DT lot|NN more|RBR money|NN from|IN the|DT securities|NNS and|CC investment|NN firms|NNS going|VBG to|TO both|DT members|NNS of|IN congress|NN and|CC presidential|JJ candidates|NNS said|VBD bill|NN allison|NN editorial|NN director|NN for|IN the|DT sunlight|NN foundation|NN another|DT watchdog|NN group|NN that|WDT tracks|VBZ political|JJ influence|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD how|WRB much|RB should|MD the|DT rich|JJ pay|NN in|IN taxes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START included|VBD in|IN that|DT $|$ 164|CD million|CD is|VBZ some|DT $|$ 50|CD million|CD which|WDT has|VBZ flowed|VBN from|IN the|DT hands|NNS of|IN several|JJ highprofile|JJ hedge|NN fund|NN managers|NNS to|TO socalled|VBN super|NN pacs|NNS secretive|VBP groups|NNS that|WDT can|MD raise|VB unlimited|VBN amounts|NNS of|IN cash|NN </s>|S_END
+<s>|S_START more|JJR than|IN $|$ 40|CD million|CD of|IN those|DT super|NN pac|NN dollars|NNS went|VBD to|TO conservative|VB groups|NNS including|VBG some|DT that|WDT support|NN romney|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START donors|NNS who|WP have|VBP contributed|VBN at|IN least|JJS a|DT million|NN dollars|NNS to|TO super|VB pacs|NNS include|VBP john|NN paulson|NN of|IN paulson|NN co|NN robert|NN mercer|NN of|IN renaissance|NN technologies|NNS corp|VBP julian|JJ robertson|NN of|IN tiger|JJR management|NN and|CC paul|NN singer|NN of|IN elliott|NN management|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fact|NN that|IN romney|NN is|VBZ so|RB popular|JJ on|IN wall|NN street|NN is|VBZ no|DT surprise|NN considering|VBG his|PRP$ long|JJ career|NN in|IN finance|NN which|WDT included|VBD creating|VBG bain|NN capital|NN in|IN 1984|CD </s>|S_END
+<s>|S_START romney|NN has|VBZ raised|VBN $|$ 114|CD million|CD directly|RB from|IN wall|DT street|NN donors|NNS according|VBG to|TO the|DT center|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC wall|VBP street|NN hasnt|NN entirely|RB forgotten|VBN obama|NN even|RB though|IN he|PRP once|RB criticized|VBD wall|NN street|NN fat|JJ cats|NNS early|RB in|IN his|PRP$ presidency|NN </s>|S_END
+<s>|S_START wall|NN street|VBD donors|NNS have|VBP so|RB far|RB contributed|VBN $|$ 41|CD million|CD to|TO his|PRP$ efforts|NNS to|TO stay|VB in|IN the|DT white|JJ house|NN according|VBG to|TO the|DT center|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ in|IN the|DT industry|NN are|VBP interested|JJ in|IN easing|NN or|CC rolling|VBG back|RP parts|NNS of|IN the|DT 2010|CD doddfrank|NN reforms|NNS that|WDT added|VBD a|DT new|JJ layer|NN of|IN regulation|NN to|TO financial|JJ markets|NNS allison|NN said|VBD </s>|S_END
+<s>|S_START but|CC wall|VBP street|NN is|VBZ also|RB concerned|VBN about|IN the|DT eurozone|NN taxes|NNS and|CC the|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START theyre|NN trying|VBG to|TO engender|JJR the|DT good|JJ will|NN of|IN politicians|NNS and|CC they|PRP want|VBP someone|NN in|IN the|DT white|JJ house|NN who|WP understands|NNS their|PRP$ issues|NNS allison|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN wall|NN street|NN may|MD be|VB a|DT favorite|JJ on|IN the|DT fundraising|NN circuit|NN its|PRP$ become|NN a|DT political|JJ punching|NN bag|NN on|IN campaign|NN television|NN commercials|NNS for|IN both|DT parties|NNS according|VBG to|TO kantar|VB medias|NNS campaign|NN media|NNS analysis|NN group|NN which|WDT tracks|VBZ such|JJ ads|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START kantars|NNS elizabeth|VBP wilner|NN said|VBD wall|NN street|NN is|VBZ the|DT bogeyman|NN of|IN this|DT years|NNS election|NN cycle|NN just|RB as|IN big|JJ oil|NN had|VBD been|VBN during|IN the|DT 2010|CD election|NN in|IN the|DT wake|NN of|IN the|DT bp|NN oil|NN spill|NN </s>|S_END
+<s>|S_START she|PRP said|VBD the|DT green|JJ wall|NN street|NN sign|NN and|CC the|DT famous|JJ golden|NN bull|NN in|IN front|NN of|IN the|DT new|JJ york|NN stock|NN exchange|NN have|VBP become|VBN all|DT too|RB common|JJ in|IN congressional|JJ political|JJ ads|NNS as|IN legislators|NNS look|VBP to|TO blame|VB each|DT other|JJ for|IN the|DT economys|NNS current|JJ woes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN contrast|NN wilner|NN said|VBD both|DT presidential|JJ campaigns|NNS have|VBP been|VBN mostly|RB silent|JJ about|IN wall|JJ street|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN everything|NN we|PRP saw|VBD from|IN obamas|NNS populist|VBP campaign|NN he|PRP goes|VBZ to|TO new|JJ york|NN every|DT once|NN in|IN a|DT while|NN to|TO try|NN and|CC raise|VB money|NN from|IN wall|JJ street|NN </s>|S_END
+<s>|S_START so|IN hes|NNS not|RB attacking|VBG them|PRP wilner|JJR said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnns|NNS ali|VBP velshi|NN contributed|VBN to|TO this|DT report|NN </s>|S_END
+</p>|P_END
+

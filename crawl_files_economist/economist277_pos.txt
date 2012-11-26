@@ -1,0 +1,81 @@
+<p>|P_START
+<s>|S_START goldman|NN sachs’s|NNS latest|JJS shrewd|NN investment|NN was|VBD in|IN sandbags|NNS and|CC backup|VB electricity|NN generator|NN </s>|S_END
+<s>|S_START as|IN hurricane|NN sandy|NN approached|VBD new|JJ york|NN the|DT bags|NNS were|VBD stacked|VBN around|IN its|PRP$ headquarter|NN </s>|S_END
+<s>|S_START it|PRP was|VBD one|CD of|IN the|DT few|JJ offices|NNS in|IN downtown|NN manhattan|NN to|TO remain|VB dry|JJ and|CC wellilluminated|VBD as|IN “frankenstorm”|JJ battered|VBN the|DT city|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB a|DT block|NN farther|NN down|IN west|JJS street|NN the|DT headquarters|NNS of|IN verizon|NN were|VBD awash|NN with|IN salty|NN flood|NN water|NN soaking|VBG cables|NNS delivering|VBG phone|NN and|CC internet|NN services|NNS to|TO millions|NNS of|IN customer|NN </s>|S_END
+<s>|S_START the|DT firm|NN was|VBD able|JJ to|TO reroute|VB much|JJ of|IN the|DT traffic|JJ through|IN other|JJ parts|NNS of|IN its|PRP$ network|NN but|CC local|JJ service|NN was|VBD disrupted|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START conedison|NN the|DT electric|JJ utility|NN which|WDT serves|VBZ new|JJ york|NN city|NN and|CC westchester|NN county|NN left|VBD 960000|CD customers|NNS without|IN power|NN after|IN underground|NN equipment|NN was|VBD flooded|VBN and|CC power|NN lines|NNS came|VBD down|RB </s>|S_END
+<s>|S_START it|PRP had|VBD designed|VBN its|PRP$ facilities|NNS to|TO withstand|VB a|DT tidal|JJ surge|NN of|IN 38|CD metres|NNS sandy|JJ caused|VBN a|DT surge|NN of|IN 43|CD metre|NN </s>|S_END
+<s>|S_START nine|NN days|NNS after|IN the|DT storm|NN 79000|CD coned|VBN customers|NNS were|VBD still|RB without|IN power|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START andy|NN is|VBZ the|DT latest|JJS catastrophic|JJ event|NN to|TO test|NN the|DT readiness|NN of|IN the|DT world’s|JJ leading|VBG firms|NNS to|TO cope|VB with|IN disaster|JJR </s>|S_END
+<s>|S_START most|JJS firms|NNS have|VBP improved|VBN “business|JJ continuity”|NN preparations|NNS over|IN the|DT year|NN </s>|S_END
+<s>|S_START the|DT y2k|NNP scare|NN at|IN the|DT turn|NN of|IN the|DT century|NN moved|VBD it|PRP risk|VB high|JJ up|IN the|DT list|NN of|IN worrie|NN </s>|S_END
+<s>|S_START the|DT attacks|NNS of|IN september|NN 11th|CD 2001|CD warned|VBN firms|NNS of|IN the|DT danger|NN of|IN putting|VBG all|DT their|PRP$ computers|NNS and|CC staff|NN in|IN the|DT same|JJ place|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START last|JJ year’s|NNS japanese|JJ tsunami|NN reminded|VBD many|JJ companies|NNS that|WDT moving|VBG to|TO “just|JJ in|IN time”|JJ manufacture|NN through|IN global|JJ supply|NN chains|NNS particularly|RB when|WRB they|PRP involve|VBP outsourcing|VBG can|MD bring|VB new|JJ risk|NN </s>|S_END
+<s>|S_START american|NN carmakers|NNS found|VBD that|IN they|PRP could|MD not|RB get|VB essential|JJ parts|NNS made|VBN in|IN japan|NN </s>|S_END
+<s>|S_START floods|NNS in|IN thailand|NN in|IN the|DT same|JJ year|NN surprised|VBD many|JJ buyers|NNS of|IN harddisk|NN drives|NNS who|WP found|VBN a|DT large|JJ proportion|NN of|IN global|JJ supply|NN comes|VBZ from|IN a|DT rather|RB small|JJ area|NN near|IN bangkok|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT survey|NN published|VBD on|IN november|NN 7th|CD by|IN dhl|NN a|DT logistics|NN firm|NN reported|VBD that|IN 23|CD of|IN big|JJ companies|NNS did|VBD not|RB include|VB their|PRP$ entire|JJ supply|NN chain|NN in|IN their|PRP$ businesscontinuity|NN plan|NN </s>|S_END
+<s>|S_START if|IN disaster|NN riskmanagement|NN stops|NNS at|IN the|DT borders|NNS of|IN the|DT “enterprise”|JJ and|CC does|VBZ not|RB include|VB say|VBP suppliers|NNS further|RBR down|IN the|DT chain|NN it|PRP may|MD provide|VB false|NN comfort|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START each|DT new|JJ disaster|NN tends|NNS to|TO surprise|VB firms|NNS that|WDT thought|VBD they|PRP had|VBD good|JJ plans|NNS in|IN place|NN </s>|S_END
+<s>|S_START hospitals|NNS in|IN new|JJ york|NN that|WDT had|VBD moved|VBN their|PRP$ backup|NN generators|NNS above|IN ground|NN nonetheless|NN lost|VBD power|NN during|IN sandy|NN because|IN they|PRP had|VBD failed|VBN to|TO put|VB fuel|NN and|CC pumps|NNS where|WRB floods|NNS could|MD not|RB reach|VB </s>|S_END
+<s>|S_START running|VBG disasterreadiness|NN drills|NNS regularly|RB it|PRP turns|VBZ out|RP is|VBZ a|DT commonsense|NN idea|NN practised|VBD all|DT too|RB rarely|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “firms|NNS are|VBP increasingly|RB reliant|JJ on|IN networks|NNS but|CC often|RB fail|VBP to|TO understand|VB the|DT risks|NNS that|WDT networks|VBZ bring”|-NONE- says|VBZ don|NN tapscott|NN a|DT management|NN guru|NN </s>|S_END
+<s>|S_START global|JJ supply|NN chains|NNS justintime|VBP and|CC shifting|VBG to|TO the|DT “cloud”|NN tend|NN to|TO bind|VB once|RB unrelated|VBN activities|NNS ever|RB closer|JJR together|RB making|VBG them|PRP more|JJR prone|NN to|TO failing|VBG at|IN the|DT same|JJ time|NN </s>|S_END
+<s>|S_START the|DT current|JJ fad|NN for|IN moving|VBG data|NNS to|TO the|DT “cloud”|NN may|MD appear|VB to|TO reduce|VB risk|NN because|IN there|EX is|VBZ so|RB much|RB spare|VBP capacity|NN in|IN the|DT web|NN </s>|S_END
+<s>|S_START yet|RB some|DT firms|NNS offering|VBG cloud|NN services|NNS have|VBP more|JJR concentrated|VBN operations|NNS than|IN other|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START firms|NNS are|VBP starting|VBG to|TO recognise|VB their|PRP$ vulnerability|NN to|TO cyberattack|VB but|CC few|JJ have|VBP much|JJ idea|NN what|WP they|PRP would|MD do|VB if|IN it|PRP happened|VBD </s>|S_END
+<s>|S_START mr|NN tapscott|VBD thinks|NNS boards|NNS should|MD have|VB a|DT committee|NN explicitly|RB focused|VBN on|IN understanding|NN it|PRP and|CC network|VB risks|NNS and|CC ensuring|VBG they|PRP are|VBP properly|RB managed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bestlaid|VBN plan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dutch|NN leonard|VBD a|DT risk|NN expert|NN at|IN harvard|NN business|NN school|NN says|VBZ that|IN the|DT bestprepared|VBN firms|NNS use|VBP a|DT combination|NN of|IN planning|VBG for|IN specific|JJ events|NNS and|CC planning|VBG to|TO cope|VB with|IN specific|JJ consequences|NNS such|JJ as|IN a|DT loss|NN of|IN a|DT building|NN or|CC supplier|JJR regardless|NN of|IN the|DT cause|NN </s>|S_END
+<s>|S_START he|PRP also|RB recommends|VBZ copying|VBG an|DT approach|NN used|VBN by|IN the|DT armed|VBN forces|NNS using|VBG a|DT group|NN of|IN insiders|NNS to|TO figure|VB out|RP how|WRB the|DT firm|NN could|MD be|VB brought|VBN down|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START andy|NN showed|VBD that|IN when|WRB disaster|NN hits|VBZ firms|NNS depend|VBP on|IN how|WRB the|DT various|JJ arms|NNS of|IN government|NN respond|NN </s>|S_END
+<s>|S_START equally|RB government|NN efforts|NNS can|MD depend|VB on|IN the|DT willingness|NN of|IN private|JJ firms|NNS to|TO join|VB in|IN </s>|S_END
+<s>|S_START hurricane|NN katrina|NN showed|VBD that|IN the|DT logistical|JJ capabilities|NNS of|IN a|DT big|JJ private|JJ firm|NN such|JJ as|IN walmart|NN can|MD deliver|VB essential|JJ supplies|NNS better|RBR than|IN the|DT federal|JJ emergency|NN management|NN agency|NN </s>|S_END
+<s>|S_START monopolistic|JJ utilities|NNS are|VBP often|RB the|DT least|JJS ready|JJ for|IN disaster|NN as|IN sandy|NN showed|VBD </s>|S_END
+<s>|S_START but|CC at|IN least|JJS in|IN new|JJ york|NN and|CC new|JJ jersey|NN att|NN and|CC tmobile|JJ put|NN their|PRP$ rivalry|NN on|IN hold|NN to|TO improve|VB cellphone|NN availability|NN after|IN sandy|NN hit|VBD by|IN sharing|NN wireless|NN mast|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START america’s|NNS poor|VBP physical|JJ infrastructure|NN makes|VBZ the|DT problems|NNS worse|VBP </s>|S_END
+<s>|S_START firms|NNS should|MD make|VB lobbying|VBG government|NN to|TO invest|VB heavily|RB in|IN upgrading|NN that|IN infrastructure|NN a|DT core|NN part|NN of|IN their|PRP$ riskmanagement|NN strategy|NN argues|NNS irwin|VBP redlener|NN of|IN the|DT national|JJ centre|NN for|IN disaster|NN preparedness|NN at|IN columbia|NN university|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START goldman|NN sachs|NNS has|VBZ long|RB been|VBN a|DT leader|NN in|IN disaster|NN planning|VBG because|IN it|PRP understands|VBZ that|IN the|DT situations|NNS in|IN which|WDT it|PRP might|MD not|RB be|VB able|JJ to|TO function|NN are|VBP exactly|RB the|DT sort|NN of|IN events|NNS when|WRB very|RB large|JJ changes|NNS in|IN the|DT value|NN of|IN its|PRP$ investments|NNS could|MD occur|VB says|VBZ mr|NN leonard|NN </s>|S_END
+<s>|S_START yet|RB too|RB many|JJ firms|NNS underinvest|VBP in|IN planning|VBG for|IN disaster|NN because|IN they|PRP don’t|VBP think|VBP it|PRP will|MD pay|VB at|IN least|JJS within|IN the|DT shortterm|NN timeline|NN by|IN which|WDT many|JJ now|RB operate|VBP reckons|NNS yossi|VBP sheffi|NN of|IN mit|NN </s>|S_END
+<s>|S_START a|DT boss|NN who|WP expects|VBZ three|CD or|CC four|CD years|NNS in|IN the|DT job|NN may|MD calculate|VB that|IN there|EX is|VBZ a|DT small|JJ chance|NN of|IN disaster|NN in|IN that|DT time|NN and|CC that|IN preparing|VBG for|IN it|PRP is|VBZ expensive|JJ “so|JJ why|WRB not|RB save|VB the|DT money|NN and|CC hope|NN to|TO move|VB to|TO another|DT job|NN before|IN something|NN happens”|NN alas|NNS all|DT too|RB often|RB firms|NNS will|MD be|VB prudent|VBN only|RB if|IN prudence|NN pays|NNS off|IN quickly|RB </s>|S_END
+</p>|P_END
+

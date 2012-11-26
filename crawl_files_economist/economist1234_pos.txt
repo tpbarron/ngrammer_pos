@@ -1,0 +1,112 @@
+<p>|P_START
+<s>|S_START when|WRB john|VBN keats|NNS read|VB george|NN chapman’s|-NONE- translation|NN of|IN homer|NN he|PRP felt|VBD in|IN his|PRP$ elevated|VBN poetical|JJ way|NN like|IN “some|JJ watcher|NN of|IN the|DT skieswhen|NN a|DT new|JJ planet|NN swims|NNS into|IN his|PRP$ ken”|JJ </s>|S_END
+<s>|S_START o|NN may|MD many|JJ biologists|NNS feel|VBP when|WRB they|PRP get|VBP their|PRP$ hands|NNS on|IN the|DT first|JJ full|JJ release|NN of|IN analysis|NN from|IN a|DT project|NN called|VBN encode—a|-NONE- release|NN which|WDT includes|VBZ some|DT 30|CD research|NN papers|NNS six|CD of|IN them|PRP in|IN the|DT journal|NN nature|NN and|CC a|DT huge|JJ amount|NN of|IN wellcurated|VBN data|NNS being|VBG made|VBN freely|RB available|JJ online|NN yes|NNS there’s|-NONE- even|RB an|DT app|NN </s>|S_END
+<s>|S_START this|DT is|VBZ biology|NN on|IN a|DT scale|NN that|WDT takes|VBZ hundreds|NNS of|IN people|NNS years|NNS of|IN their|PRP$ lives|NNS costing|VBG as|IN much|JJ as|IN all|DT but|CC the|DT biggest|JJS telescopes|NNS used|VBN by|IN today’s|NNP watchers|NNS of|IN the|DT skie|NN </s>|S_END
+<s>|S_START and|CC it|PRP reveals|VBZ a|DT new|JJ world|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT revelation’s|JJ effect|NN may|MD be|VB poetic|JJ in|IN its|PRP$ grandeur|NN </s>|S_END
+<s>|S_START its|PRP$ nature|NN though|IN is|VBZ prosaic|JJ </s>|S_END
+<s>|S_START it|PRP is|VBZ a|DT parts|NNS list|NN encode|NN stands|VBZ for|IN encyclopedia|NN of|IN dna|NN element|NN </s>|S_END
+<s>|S_START the|DT consortium|NN that|IN created|VBN it—442|-NONE- members|NNS in|IN 32|CD institutes|NNS around|IN the|DT world—has|JJ used|JJ the|DT increasingly|RB impressive|JJ tools|NNS available|JJ for|IN sequencing|NN genomes|NNS to|TO mount|VB a|DT systematic|JJ analysis|NN of|IN 147|CD different|JJ types|NNS of|IN human|JJ cell|NN attempting|VBG to|TO say|VB just|RB what|WP each|DT part|NN of|IN the|DT genome|NN is|VBZ doing|VBG in|IN them|PRP </s>|S_END
+<s>|S_START their|PRP$ results|NNS confirm|NN on|IN a|DT grand|NN scale|NN what|WP has|VBZ become|VBN clear|JJ over|IN the|DT decade|NN since|IN the|DT human|JJ genome|NN project|NN first|RB produced|VBN a|DT sequence|NN of|IN the|DT three|CD billion|CD “letters”|NN of|IN which|WDT the|DT genome|NN is|VBZ made|VBN there|RB is|VBZ a|DT great|JJ deal|NN more|RBR to|TO genomes|NNS than|IN their|PRP$ gene|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB genes|NNS were|VBD first|RB given|VBN a|DT molecular|JJ basis|NN it|PRP was|VBD a|DT fairly|RB simple|JJ one|CD </s>|S_END
+<s>|S_START a|DT gene|NN was|VBD a|DT piece|NN of|IN dna|NN that|IN described|VBN a|DT protein|NN </s>|S_END
+<s>|S_START when|WRB a|DT cell|NN had|VBD need|VBN of|IN that|DT protein|NN it|PRP would|MD cause|VB a|DT copy|NN of|IN the|DT gene|NN to|TO be|VB transcribed|VBN from|IN dna|NN into|IN rna|NN a|DT similar|JJ molecule|NN capable|JJ of|IN taking|VBG on|IN more|JJR diverse|JJ form|NN </s>|S_END
+<s>|S_START that|DT rna|NN transcript|NN would|MD then|RB be|VB translated|VBN to|TO make|VB a|DT protein|NN </s>|S_END
+<s>|S_START the|DT bits|NNS of|IN the|DT genome|NN which|WDT describe|NN proteins|VBZ this|DT way|NN have|VBP long|RB been|VBN known|VBN to|TO be|VB only|RB a|DT fraction|NN of|IN the|DT whole—a|NNP bit|NN more|JJR than|IN 1—though|CD it|PRP was|VBD accepted|VBN that|IN some|DT of|IN the|DT surrounding|VBG dna|NN was|VBD necessary|JJ to|TO get|VB the|DT transcription|NN machinery|NN on|IN and|CC off|IN the|DT genes|NNS thus|RB turning|VBG them|PRP on|IN or|CC off|IN as|IN required|VBN </s>|S_END
+<s>|S_START human|NN genes|NNS proved|VBD to|TO be|VB longer|JJR than|IN might|MD have|VB been|VBN expected|VBN with|IN the|DT rna|NN transcripts|VBZ edited|VBN and|CC rearranged|VBD before|IN being|VBG translated|VBN into|IN protein|NN </s>|S_END
+<s>|S_START till|NN it|PRP seemed|VBD as|IN if|IN only|RB a|DT small|JJ fraction|NN of|IN the|DT genome|NN was|VBD actually|RB doing|VBG anything|NN and|CC that|IN a|DT lot|NN of|IN the|DT rest|NN was|VBD or|CC might|MD as|RB well|RB be|VB “junk”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START junk|NN schmunk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START now|RB encode|VBP has|VBZ shown|VBN that|IN fully|RB threequarters|NNS of|IN the|DT genome|NN is|VBZ transcribed|VBN into|IN rna|NN at|IN some|DT stage|NN in|IN at|IN least|JJS one|CD of|IN the|DT body’s|JJ different|JJ types|NNS of|IN cell|NN </s>|S_END
+<s>|S_START ome|NN transcripts|NNS are|VBP whittled|VBN down|RP more|RBR or|CC less|JJR immediately|RB but|CC 62|CD of|IN the|DT genome|NN can|MD end|VB up|RP in|IN the|DT form|NN of|IN a|DT transcript|NN that|WDT looks|VBZ stable|JJ </s>|S_END
+<s>|S_START there|EX is|VBZ a|DT sense|NN in|IN which|WDT these|DT transcripts|NNS are|VBP the|DT basic|JJ constituents|NNS of|IN the|DT genome—its|NNS atoms|VBZ if|IN you|PRP like|VBP </s>|S_END
+<s>|S_START the|DT transcripts|NNS which|WDT are|VBP associated|VBN with|IN genes|NNS describing|VBG proteins|NNS are|VBP just|RB one|CD type|NN among|IN many|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT this|DT rna|NN has|VBZ a|DT wide|JJ variety|NN of|IN use|NN </s>|S_END
+<s>|S_START it|PRP regulates|VBZ what|WP genes|NNS actually|RB make|VBP protein|NN and|CC how|WRB much|JJ is|VBZ made|VBN in|IN all|DT sorts|NNS of|IN complicated|JJ ways|NNS some|DT transcripts|NNS are|VBP millions|NNS of|IN times|NNS more|RBR common|JJ than|IN other|JJ </s>|S_END
+<s>|S_START even|RB encode|VBP has|VBZ not|RB been|VBN able|JJ to|TO catalogue|VB all|DT of|IN this|DT diversity|NN but|CC it|PRP has|VBZ made|VBN headway|NN in|IN clarifying|NN what|WP to|TO look|VB for|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whereas|IN 62|CD of|IN the|DT genome|NN may|MD be|VB turned|VBN into|IN finished|JJ transcripts|NNS in|IN some|DT cell|NN or|CC other|JJ only|RB about|IN 22|CD of|IN the|DT dna|NN ends|VBZ up|RP in|IN such|JJ transcripts|NNS in|IN the|DT typical|JJ cell|NN </s>|S_END
+<s>|S_START this|DT is|VBZ because|IN of|IN molecular|JJ switches|NNS that|WDT turn|VB parts|NNS of|IN the|DT genome|NN on|IN and|CC off|IN depending|VBG on|IN what|WP the|DT cell|NN in|IN question|NN is|VBZ up|IN to|TO </s>|S_END
+<s>|S_START uch|JJ switches|NNS are|VBP as|RB worthy|JJ of|IN their|PRP$ place|NN in|IN the|DT parts|NNS list|VBP as|RB the|DT locations|NNS of|IN particular|JJ regions|NNS that|WDT code|NN for|IN protein|NN </s>|S_END
+<s>|S_START they|PRP are|VBP though|IN harder|JJR to|TO find—and|JJ it|PRP turns|VBZ out|RP much|RB more|RBR numerou|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT you|PRP need|VBP a|DT profusion|NN of|IN such|JJ switches|NNS to|TO get|VB the|DT right|NN pattern|NN of|IN genes|NNS turned|VBD on|IN and|CC off|IN in|IN a|DT given|VBN cell|NN at|IN a|DT given|VBN time|NN is|VBZ obviou|PRP </s>|S_END
+<s>|S_START but|CC the|DT scale|NN of|IN the|DT regulatory|JJ system|NN has|VBZ taken|VBN even|RB some|DT of|IN its|PRP$ cartographers|NNS by|IN surprise|NN </s>|S_END
+<s>|S_START ewan|NN birney|NN of|IN the|DT european|JJ bioinformatics|NNS institute|VBP who|WP was|VBD the|DT lead|NN coordinator|NN of|IN encode’s|JJ dataanalysis|NN team|NN says|VBZ he|PRP was|VBD shocked|VBN when|WRB he|PRP realised|VBD that|IN the|DT genome’s|NNS 20000odd|CD proteincoding|VBG genes|NNS are|VBP controlled|VBN by|IN some|DT 4m|CD switche|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT encode|NN parts|NNS list|VBP makes|NNS available|JJ to|TO biologists|NNS the|DT places|NNS where|WRB rna|NN is|VBZ transcribed|VBN where|WRB proteins|NNS attach|VBP themselves|PRP to|TO dna|VB to|TO turn|VB genes|NNS on|IN or|CC off|IN where|WRB the|DT dna|NN is|VBZ chemically|RB altered|VBN from|IN its|PRP$ normal|JJ state|NN where|WRB it|PRP is|VBZ linked|VBN to|TO the|DT protein|NN scaffolding|VBG that|IN it|PRP is|VBZ wrapped|VBN around|IN in|IN unusual|JJ ways|NNS and|CC more|JJR </s>|S_END
+<s>|S_START this|DT is|VBZ fascinating|VBG to|TO people|NNS interested|JJ in|IN the|DT question|NN of|IN how|WRB genomes|NNS switch|VBP from|IN state|NN to|TO state—say|NNP from|IN the|DT state|NN of|IN a|DT stem|NN cell|NN which|WDT can|MD grow|VB into|IN almost|RB anything|NN to|TO that|DT of|IN a|DT muscle|NN cell|NN committed|VBD to|TO an|DT existence|NN of|IN contraction|NN and|CC expansion|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ also|RB interesting|VBG for|IN people|NNS who|WP want|JJ to|TO understand|VB how|WRB cells|NNS go|VBP wrong|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD of|IN the|DT hot|JJ areas|NNS of|IN research|NN since|IN the|DT human|JJ genome|NN was|VBD originally|RB sequenced|VBN has|VBZ been|VBN genomewide|JJ association|NN studie|NN </s>|S_END
+<s>|S_START these|DT look|NN at|IN many|JJ possessors|NNS of|IN an|DT interesting|JJ trait|NN or|CC sufferers|NNS from|IN a|DT disease|NN to|TO see|VB where|WRB they|PRP seem|VBP to|TO have|VB unusual|JJ dna|NN in|IN common|JJ </s>|S_END
+<s>|S_START many|JJ of|IN the|DT places|NNS in|IN the|DT genome|NN deemed|VBD relevant|JJ to|TO disease|VB in|IN this|DT way|NN have|VBP turned|VBN out|RP not|RB to|TO be|VB actual|JJ gene|NN </s>|S_END
+<s>|S_START the|DT encode|NN studies|NNS now|RB show|VBP though|IN that|DT they|PRP often|RB contain|VBP regulatory|JJ element|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START o|NN for|IN example|NN a|DT number|NN of|IN sites|NNS in|IN the|DT genome|NN that|IN appear|JJ relevant|NN to|TO crohn’s|NNP disease—an|NNP inflammation|NN of|IN the|DT digestive|JJ tract—are|JJ not|RB associated|VBN with|IN any|DT known|VBN proteinmaking|VBG gene|NN </s>|S_END
+<s>|S_START but|CC the|DT parts|NNS list|VBP says|VBZ those|DT regions|NNS contain|VBP or|CC are|VBP close|JJ to|TO a|DT particular|JJ kind|NN of|IN genetic|JJ switch|NN turned|VBD on|IN and|CC off|IN in|IN various|JJ types|NNS of|IN immune|NN cell|NN </s>|S_END
+<s>|S_START this|DT should|MD help|VB researchers|NNS focus|VB on|IN the|DT specific|JJ immunesystem|NN problems|NNS that|WDT underlie|NN the|DT disease|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT way|NN in|IN which|WDT encode|NN could|MD have|VB an|DT impact|NN on|IN medicine|NN is|VBZ simply|RB by|IN showing|NN doctors|NNS what|WP cells|NNS of|IN a|DT specific|JJ type|NN look|NN like|IN on|IN a|DT molecular|JJ level|NN </s>|S_END
+<s>|S_START there|EX is|VBZ a|DT lot|NN of|IN hope|NN and|CC hype|NN around|IN the|DT idea|NN of|IN “regenerative|JJ medicine”|NN that|WDT would|MD reprogram|VB cell|NN </s>|S_END
+<s>|S_START tim|NN hubbard|VBD the|DT director|NN of|IN informatics|NNS at|IN britain’s|JJ sanger|NN institute|NN a|DT factorysized|JJ sequencing|NN lab|NN says|VBZ one|CD thing|NN encode|NN offers|NNS the|DT world|NN is|VBZ a|DT much|JJ better|NN idea|NN of|IN what|WP it|PRP looks|VBZ like|IN for|IN a|DT cell|NN to|TO be|VB programmed|VBN to|TO be|VB a|DT muscle|NN cell|NN or|CC a|DT stem|NN cell|NN or|CC whatever|RB </s>|S_END
+<s>|S_START thus|RB it|PRP offers|VBZ a|DT way|NN to|TO check|VB whether|IN the|DT genomes|NNS of|IN artificially|RB reprogrammed|VBN cells—which|JJ might|NN for|IN example|NN be|VB intended|VBN to|TO serve|VB as|IN new|JJ nerve|NN cells|NNS after|IN a|DT spinal|JJ injury—really|JJ are|VBP working|VBG like|IN the|DT genomes|NNS of|IN the|DT cells|NNS they|PRP seek|VBP to|TO mimic|JJ </s>|S_END
+<s>|S_START to|TO be|VB able|JJ to|TO look|VB at|IN the|DT pattern|NN of|IN a|DT genome’s|JJ activity|NN in|IN such|JJ detail|NN could|MD open|VB a|DT door|NN to|TO worlds|NNS of|IN new|JJ therapy|NN as|IN well|RB as|IN new|JJ knowledge|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START no|DT end|NN in|IN sight|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START keats|NNS saw|VBD the|DT right|NN response|NN to|TO such|JJ revelations|NNS as|IN rapt|NN silent|NN awe|NN </s>|S_END
+<s>|S_START for|IN the|DT encoders|NNS there|RB will|MD be|VB quick|JJ celebrations|NNS and|CC a|DT resumption|NN of|IN the|DT effort|NN </s>|S_END
+<s>|S_START impressive|JJ as|IN it|PRP is|VBZ encode|JJ is|VBZ far|RB from|IN the|DT last|JJ word|NN </s>|S_END
+<s>|S_START for|IN one|CD thing|NN its|PRP$ expertise|NN and|CC carefully|RB calibrated|VBN techniques|NNS need|VBP to|TO be|VB spread|VBN far|RB and|CC wide—to|NNP be|VB adopted|VBN and|CC made|VBD useful|JJ by|IN people|NNS doing|VBG clinical|JJ research|NN </s>|S_END
+<s>|S_START and|CC there|EX is|VBZ more|JJR basic|JJ research|NN to|TO do|VB </s>|S_END
+<s>|S_START only|RB six|CD of|IN the|DT 147|CD cell|NN types|NNS looked|VBD at|IN in|IN encode|NN were|VBD studied|VBN in|IN the|DT amount|NN of|IN detail|NN now|RB possible|JJ </s>|S_END
+<s>|S_START the|DT others|NNS still|RB await|VB their|PRP$ closeup|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC then|RB there|RB are|VBP more|RBR question|NN </s>|S_END
+<s>|S_START o|NN far|RB encode|VBP has|VBZ looked|VBN only|RB at|IN cells|NNS from|IN one|CD person|NN for|IN each|DT of|IN the|DT cell|NN types|NNS studied|VBD </s>|S_END
+<s>|S_START that|DT is|VBZ a|DT reasonable|JJ simplification|NN in|IN terms|NNS of|IN how|WRB the|DT genome|NN works|VBZ the|DT difference|NN between|IN what’s|JJ turned|VBN on|IN and|CC off|IN in|IN a|DT liver|NN cell|NN and|CC a|DT skin|NN cell|NN is|VBZ far|RB greater|JJR than|IN the|DT difference|NN between|IN how|WRB one|CD person’s|JJ skin|NN cells|NNS work|VBP and|CC those|DT of|IN their|PRP$ neighbour|NN however|RB genetically|RB different|JJ the|DT neighbour|NN </s>|S_END
+<s>|S_START but|CC it|PRP will|MD be|VB helpful|JJ to|TO get|VB a|DT sense|NN of|IN differences|NNS between|IN your|PRP$ liver|NN cells|NNS and|CC your|PRP$ neighbour’s—especially|JJ if|IN you|PRP are|VBP ill|RB and|CC he|PRP is|VBZ healthy|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS beguiling|VBG to|TO biologists|NNS though|IN is|VBZ the|DT difference|NN between|IN one|CD of|IN your|PRP$ liver|NN cells|NNS and|CC another|DT </s>|S_END
+<s>|S_START pectacularly|RB sensitive|JJ as|IN they|PRP are|VBP the|DT techniques|NNS used|VBN by|IN encode|NN and|CC other|JJ cuttingedge|NN research|NN still|RB need|VBP to|TO take|VB material|NN from|IN many|JJ cells|NNS in|IN order|NN to|TO put|VB together|RP a|DT picture|NN </s>|S_END
+<s>|S_START but|CC this|DT will|MD blur|VB subtleties—and|JJ even|RB hide|JJ mechanisms|NNS if|IN some|DT cells|NNS work|VBP one|CD way|NN and|CC some|DT another|DT </s>|S_END
+<s>|S_START hence|NN a|DT new|JJ interest|NN in|IN finding|NN ways|NNS to|TO look|VB at|IN what|WP is|VBZ going|VBG on|IN in|IN single|JJ cells|NNS not|RB least|JJS because|IN that|DT will|MD be|VB the|DT way|NN that|IN models|NNS of|IN how|WRB the|DT switching|NN systems|NNS work|VBP can|MD most|JJS easily|RB and|CC thoroughly|RB be|VB tested|VBN </s>|S_END
+<s>|S_START that|DT according|VBG to|TO dr|VB hubbard|NN is|VBZ the|DT thrilling|NN frontier|NN for|IN labs|NNS like|IN those|DT that|WDT worked|VBD on|IN encode|NN </s>|S_END
+<s>|S_START in|IN a|DT decade|NN that|WDT frontier|JJR could|MD go|VB as|RB far|RB beyond|IN encode|NN as|IN encode|NN has|VBZ surpassed|VBN the|DT original|JJ genomesequencing|NN effort|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,11 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 50|CD gdp|NN $|$ 191bn|CD ppp|CD $|$ 321bn|CD inflation|NN 29|CD population|NN 308m|CD gdp|NN per|IN head|NN $|$ 6220|CD ppp|CD $|$ 10430|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT new|JJ president|NN ollanta|NN humala|NN rose|VBD to|TO prominence|NN as|IN a|DT radical|JJ andean|NN nationalist|NN but|CC moderated|VBD his|PRP$ message|NN to|TO win|VB power|NN his|PRP$ patchwork|NN government|NN combines|NNS interests|NNS from|IN the|DT far|NN left|VBD to|TO the|DT centre|NN of|IN the|DT political|JJ spectrum|NN </s>|S_END
+<s>|S_START the|DT breadth|NN of|IN that|DT coalition|NN along|IN with|IN his|PRP$ weak|JJ congressional|JJ position|NN and|CC the|DT deteriorating|NN global|JJ economy|NN limit|NN his|PRP$ room|NN to|TO manoeuvre|VB </s>|S_END
+<s>|S_START add|NN to|TO that|DT the|DT high|JJ expectations|NNS his|PRP$ election|NN has|VBZ raised|VBN among|IN the|DT rural|JJ poor|NN and|CC the|DT threat|NN of|IN meltdown|NN among|IN his|PRP$ congressional|JJ allies|NNS and|CC 2012|CD looks|NNS like|IN a|DT testing|NN year|NN </s>|S_END
+<s>|S_START interventionist|NN tinkering|VBG will|MD undermine|VB the|DT business|NN environment|NN but|CC sound|VB fundamentals|NNS will|MD insulate|VB the|DT economy|NN </s>|S_END
+</p>|P_END
+

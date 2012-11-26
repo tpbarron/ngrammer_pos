@@ -1,0 +1,73 @@
+<p>|P_START
+<s>|S_START every|DT ten|VBN years|NNS since|IN 1790|CD the|DT united|JJ states|NNS has|VBZ held|VBN a|DT censu|NN </s>|S_END
+<s>|S_START in|IN that|DT respect|NN 2010|CD will|MD be|VB no|RB different|JJ from|IN any|DT other|JJ year|NN ending|VBG with|IN a|DT zero|NN </s>|S_END
+<s>|S_START indeed|RB it|PRP would|MD be|VB a|DT breach|NN of|IN the|DT constitution|NN to|TO let|VB it|PRP pass|VBZ without|IN a|DT count|NN of|IN everyone|NN living|VBG in|IN the|DT country|NN whether|IN legally|RB resident|JJ or|CC not|RB </s>|S_END
+<s>|S_START this|DT census|NN will|MD be|VB relatively|RB modest|JJ in|IN ambit|NN </s>|S_END
+<s>|S_START instead|RB of|IN asking|VBG more|JJR than|IN 50|CD questions|NNS as|IN before|IN the|DT 2010|CD form|NN will|MD pose|VB only|RB ten|VBN and|CC will|MD it|PRP is|VBZ hoped|VBN take|NN no|DT more|RBR than|IN ten|CD minutes|NNS to|TO complete|VB </s>|S_END
+<s>|S_START for|IN the|DT first|JJ time|NN too|RB some|DT questionnaires—13m|JJ out|IN of|IN the|DT total|JJ of|IN over|IN 120m—will|CD be|VB distributed|VBN in|IN both|DT english|JJ and|CC spanish|JJ </s>|S_END
+<s>|S_START chinese|NN korean|VBD russian|JJ and|CC vietnamese|JJ versions|NNS will|MD be|VB available|JJ on|IN request|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT longer|NN form|NN used|VBD to|TO be|VB sent|VBN to|TO only|RB a|DT selection|NN of|IN households|NNS from|IN which|WDT general|JJ conclusions|NNS were|VBD inferred|VBN </s>|S_END
+<s>|S_START the|DT details|NNS about|IN income|NN housing|NN education|NN commuting|VBG and|CC employment|NN that|IN it|PRP elicited|VBD are|VBP now|RB gathered|VBN by|IN an|DT annual|JJ survey|NN of|IN a|DT small|JJ proportion|NN of|IN the|DT population|NN </s>|S_END
+<s>|S_START hence|NN the|DT new|JJ shorter|NN form|NN which|WDT will|MD merely|RB count|VB people|NNS and|CC provide|VB basic|JJ information|NN about|IN their|PRP$ names|NNS ages|NNS sex|VBP ethnicity|NN and|CC so|RB on|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START boring|VBG </s>|S_END
+<s>|S_START in|IN countries|NNS like|IN sweden|NN censuses|NNS are|VBP dull|JJ affairs|NNS that|WDT excite|IN only|RB statisticians|VBZ and|CC trendspotters|NNS not|RB trendsetter|JJR </s>|S_END
+<s>|S_START in|IN countries|NNS like|IN nigeria|NN they|PRP precipitate|VBP coups|NNS or|CC tribal|JJ warfare|NN </s>|S_END
+<s>|S_START reactions|NNS in|IN america|NN fall|NN between|IN these|DT extremes|NNS but|CC the|DT norm|NN is|VBZ controversy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT first|JJ disagreements|NNS were|VBD among|IN the|DT founding|NN fathers|NNS who|WP could|MD not|RB agree|VB on|IN what|WP constituted|VBN a|DT person|NN </s>|S_END
+<s>|S_START the|DT infamous|JJ compromise|NN that|WDT found|VBD its|PRP$ way|NN into|IN the|DT constitution|NN counted|VBD slaves|NNS as|IN just|RB threefifths|NNS of|IN a|DT “free”|JJ person|NN </s>|S_END
+<s>|S_START that|DT may|MD today|NN seem|VB like|IN a|DT concession|NN to|TO the|DT wicked|JJ slaveowner|NN </s>|S_END
+<s>|S_START in|IN fact|NN the|DT slaveholding|VBG states|NNS wanted|VBD their|PRP$ captives|NNS to|TO count|VB as|IN full|JJ persons|NNS whereas|IN the|DT saintly|RB states|VBZ that|IN held|NN no|DT slaves|NNS wanted|VBD them|PRP to|TO count|VB for|IN nothing|NN like|IN native|JJ american|JJ </s>|S_END
+<s>|S_START the|DT reason|NN was|VBD that|IN the|DT census|NN was|VBD to|TO be|VB used|VBN as|IN the|DT basis|NN for|IN representation|NN in|IN congress|NN and|CC also|RB in|IN the|DT electoral|JJ college|NN which|WDT chooses|NNS the|DT president|NN so|RB all|DT states|NNS wanted|VBD to|TO maximise|VB their|PRP$ populations|NNS or|CC diminish|JJ other|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT census|NN was|VBD also|RB used|VBN in|IN the|DT early|JJ days|NNS for|IN calculating|VBG direct|JJ taxation|NN as|IN it|PRP had|VBD been|VBN in|IN the|DT days|NNS of|IN caesar|NN augustu|NN </s>|S_END
+<s>|S_START in|IN america|NN the|DT taxation|NN provision|NN was|VBD overtaken|VBN by|IN the|DT 16th|JJ amendment|NN and|CC today|NN the|DT census|NN is|VBZ used|VBN for|IN what|WP might|MD be|VB called|VBN reverse|NN taxation|NN the|DT distribution|NN of|IN about|RB $|$ 400|CD billion|CD in|IN federal|JJ funds|NNS to|TO local|JJ state|NN and|CC tribal|JJ governments|NNS each|DT year|NN </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ also|RB used|VBN to|TO apportion|NN seats|NNS in|IN the|DT house|NN of|IN representatives|NNS and|CC draw|VB boundaries|NNS for|IN state|NN legislatures|NNS and|CC school|NN board|NN </s>|S_END
+<s>|S_START ince|NN these|DT tasks|NNS are|VBP carried|VBN out|RP by|IN partisan|JJ politicians|NNS the|DT census|NN in|IN america|NN is|VBZ seldom|NN uncontroversial|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT most|RBS difficult|JJ people|NNS to|TO count|VB are|VBP the|DT poor|JJ the|DT homeless|JJ the|DT itinerant|JJ and|CC those|DT in|IN overcrowded|JJ building|NN </s>|S_END
+<s>|S_START uch|JJ people|NNS if|IN they|PRP vote|VBP are|VBP more|RBR likely|JJ to|TO vote|VB democratic|JJ so|IN democrats|NNS tend|VBP to|TO favour|PRP$ an|DT overcount|NN and|CC republicans|NNS an|DT undercount|NN </s>|S_END
+<s>|S_START the|DT 1990|CD census|NN apparently|RB overlooked|VBD about|IN 5m|CD people|NNS mostly|RB from|IN minorities|NNS while|IN doublecounting|VBG several|JJ million|CD white|JJ </s>|S_END
+<s>|S_START the|DT 2000|CD census|NN was|VBD said|VBN to|TO have|VB produced|VBN a|DT net|JJ overcount|NN but|CC still|RB missed|VBN about|IN 4m|CD people|NNS 1m|CD of|IN them|PRP latino|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP was|VBD to|TO correct|VB such|JJ undercounting|NN that|WDT robert|NN groves|VBZ a|DT census|NN bureau|NN official|NN suggested|VBD that|IN statistical|JJ sampling|NN be|VB used|VBN in|IN addition|NN to|TO the|DT conventional|JJ enumeration|NN </s>|S_END
+<s>|S_START the|DT idea|NN produced|VBN charges|NNS of|IN political|JJ tampering|NN </s>|S_END
+<s>|S_START now|RB mr|VBP groves|NNS is|VBZ director|NN of|IN the|DT bureau|NN </s>|S_END
+<s>|S_START both|DT he|PRP and|CC the|DT administration|NN have|VBP forsworn|VBN the|DT redrawing|NN of|IN boundaries|NNS but|CC some|DT republicans|NNS remain|VBP mistrustful|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START quirks|NNS in|IN the|DT law|NN can|MD have|VB curious|JJ result|NN </s>|S_END
+<s>|S_START though|IN servicemen|NNS abroad|RB are|VBP assigned|VBN to|TO the|DT states|NNS where|WRB they|PRP were|VBD most|JJS recently|RB living|VBG soldiers|NNS of|IN god|NN similarly|RB deployed|VBN are|VBP granted|VBN no|DT domestic|JJ abode|NN </s>|S_END
+<s>|S_START this|DT gave|VBD north|JJ carolina|NN with|IN 18000|CD troops|NNS and|CC diplomats|NNS overseas|RB an|DT extra|JJ house|NN seat|NN after|IN the|DT 2000|CD census|NN to|TO the|DT chagrin|NN of|IN utah|NN deemed|VBD to|TO have|VB 856|CD fewer|JJR inhabitants|NNS despite|IN its|PRP$ thousands|NNS of|IN mormon|NN missionaries|NNS abroad|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS of|IN the|DT injustices|NNS though|IN occur|NN within|IN states|NNS in|IN the|DT postcensus|NN redrawing|VBG of|IN legislative|JJ boundaries|NNS to|TO take|VB account|NN of|IN population|NN change|NN </s>|S_END
+<s>|S_START the|DT redistricting|NN in|IN illinois|NN after|IN the|DT 2000|CD census|NN produced|VBN a|DT 17th|JJ congressional|JJ district|NN so|IN artfully|RB redesigned|VBN that|IN it|PRP looks|VBZ like|IN nothing|NN so|IN much|RB as|IN a|DT jigsaw|NN puzzle|NN attacked|VBD by|IN flesheating|NN bacteria|IN </s>|S_END
+<s>|S_START born|NN of|IN governor|NN elbridge|NN gerrys|NNS salamanderlike|VBP redistricting|VBG in|IN 1812|CD in|IN massachusetts|NNS gerrymandering|VBG is|VBZ now|RB elaborated|VBN by|IN computers|NNS not|RB pens|VBZ but|CC the|DT guidance|NN still|RB comes|VBZ from|IN shameless|NN politician|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT count|NN will|MD begin|VB in|IN the|DT inupiat|NN eskimo|NN village|NN of|IN noorvik|NN in|IN alaska|NN in|IN january|JJ though|IN census|NN day|NN for|IN most|JJS americans|NNS is|VBZ april|JJ 1st|CD </s>|S_END
+<s>|S_START it|PRP will|MD end|VB with|IN the|DT news|NN that|IN the|DT resident|NN population|NN stands|VBZ at|IN 311349543|CD at|IN yearend|NN give|VB or|CC take|VB a|DT few|JJ hundred|VBN thousand|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START john|NN grimond|VBD writer|NN at|IN large|JJ the|DT economist|NN </s>|S_END
+</p>|P_END
+

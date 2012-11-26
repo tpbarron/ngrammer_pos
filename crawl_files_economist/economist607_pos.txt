@@ -1,0 +1,55 @@
+<p>|P_START
+<s>|S_START omething|VBG odd|JJ has|NNS happened|VBN to|TO the|DT sun|NN </s>|S_END
+<s>|S_START four|PRP$ centuries|NNS after|IN sunspots|NNS were|VBD first|RB seen—by|JJ galileo—they|NN have|VBP disappeared|VBN almost|RB entirely|RB </s>|S_END
+<s>|S_START in|IN 2009|CD weeks|NNS and|CC sometimes|RB months|NNS went|VBD by|IN without|IN a|DT single|JJ sunspot|NN being|VBG discerned|VBN </s>|S_END
+<s>|S_START in|IN 2010|CD they|PRP will|MD return|VB or|CC so|RB say|VBP most|RBS solar|JJ scientist|NN </s>|S_END
+<s>|S_START others|NNS wonder|VBP whether|IN the|DT sun|NN may|MD be|VB going|VBG through|IN an|DT extended|JJ period|NN of|IN inactivity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unspots|NNS are|VBP a|DT bit|NN of|IN a|DT mystery|NN </s>|S_END
+<s>|S_START they|PRP are|VBP transient|JJ tangles|NNS in|IN the|DT suns|NNS magnetic|JJ field|NN that|WDT are|VBP slightly|RB cooler|JJR than|IN their|PRP$ surroundings|NNS and|CC so|RB appear|JJ as|IN dark|JJ patches|NNS in|IN the|DT photosphere—the|NNP surface|NN layer|NN of|IN the|DT sun|NN </s>|S_END
+<s>|S_START they|PRP tend|VBP to|TO appear|VB in|IN pairs|NNS on|IN opposite|JJ sides|NNS of|IN the|DT sun|NN that|IN persist|NN for|IN a|DT fortnight|NN or|CC so|RB before|IN fading|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START normally|RB the|DT number|NN of|IN sunspots|NNS peaks|NNS every|DT 11|CD years|NNS coinciding|VBG with|IN the|DT times|NNS when|WRB the|DT suns|NNS magnetic|JJ field|NN is|VBZ at|IN its|PRP$ strongest|JJS </s>|S_END
+<s>|S_START as|IN the|DT field|NN wanes|NNS the|DT number|NN of|IN sunspots|NNS falls|NNS to|TO a|DT trough|JJ or|CC minimum|JJ at|IN which|WDT point|NN the|DT suns|NNS magnetic|JJ field|NN reverses|NNS direction|NN and|CC starts|VBZ to|TO regain|VB its|PRP$ strength|NN </s>|S_END
+<s>|S_START as|IN it|PRP does|VBZ so|RB sunspots|NNS begin|VBP to|TO appear|VB close|JJ to|TO the|DT poles|NNS of|IN the|DT sun|NN </s>|S_END
+<s>|S_START when|WRB the|DT magnetic|JJ field|NN is|VBZ at|IN its|PRP$ strongest|JJS and|CC sunspots|NNS at|IN their|PRP$ most|RBS plentiful|JJ they|PRP cluster|VBP close|JJ to|TO the|DT equator|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START back|RB in|IN 2008|CD solar|JJ scientists|NNS saw|VBD a|DT highlatitude|NN reversedpolarity|NN sunspot|NN suggesting|VBG the|DT start|NN of|IN a|DT new|JJ solar|NN cycle|NN </s>|S_END
+<s>|S_START ince|NN then|RB however|RB there|RB has|VBZ been|VBN little|JJ activity|NN </s>|S_END
+<s>|S_START reliable|JJ predictions|NNS of|IN sunspot|NN numbers|NNS are|VBP impossible|JJ to|TO make|VB until|IN the|DT solar|JJ cycle|NN is|VBZ well|RB established|VBN usually|RB three|CD years|NNS after|IN the|DT minimum|JJ </s>|S_END
+<s>|S_START o|NN with|IN luck|NN the|DT sunspot|NN riddle|NN should|MD be|VB solved|VBN in|IN 2010|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cientists|NNS from|IN americas|NNS space|NN agency|NN nasa|NN reckon|NN that|WDT the|DT next|JJ peak|NN will|MD come|VB in|IN march|NN or|CC april|NN 2013|CD </s>|S_END
+<s>|S_START however|RB their|PRP$ colleagues|NNS at|IN the|DT national|JJ solar|NN observatory|NN in|IN tucson|NN arizona|NN have|VBP found|VBN that|IN the|DT magnetism|NN of|IN sunspots|NNS the|DT strength|NN of|IN the|DT knot|NN that|IN they|PRP form|VBP has|VBZ been|VBN declining|VBG over|IN the|DT past|JJ couple|NN of|IN decade|NN </s>|S_END
+<s>|S_START if|IN this|DT carries|NNS on|IN solar|JJ magnetic|JJ fields|NNS will|MD become|VB too|RB weak|JJ to|TO form|NN sunspots|NNS which|WDT will|MD vanish|VB completely|RB in|IN 2015|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT past|JJ sunspots|NNS have|VBP disappeared|VBN for|IN decade|NN </s>|S_END
+<s>|S_START between|IN 1645|CD and|CC 1715|CD they|PRP were|VBD rare|JJ </s>|S_END
+<s>|S_START there|EX were|VBD several|JJ years|NNS in|IN which|WDT none|NN at|IN all|DT was|VBD sighted|VBN and|CC others|NNS in|IN which|WDT fewer|JJR than|IN ten|CD were|VBD spotted|VBN </s>|S_END
+<s>|S_START giovanni|NN cassini|NN an|DT italian|JJ astronomer|NN described|VBD a|DT sunspot|NN that|WDT appeared|VBD in|IN 1671|CD as|IN the|DT first|JJ he|PRP had|VBD seen|VBN for|IN many|JJ year|NN </s>|S_END
+<s>|S_START john|NN flamsteed|VBD the|DT first|JJ astronomer|NN royal|NN observed|VBN one|CD in|IN 1684|CD after|IN a|DT gap|NN of|IN ten|NN year|NN </s>|S_END
+<s>|S_START this|DT 70year|JJ period|NN of|IN low|JJ solar|NN activity|NN has|VBZ since|IN been|VBN dubbed|VBN the|DT maunder|NN minimum|NN after|IN an|DT astronomer|NN called|VBN edward|NN maunder|NN a|DT sunspot|NN specialist|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whether|IN the|DT sun|NN has|VBZ taken|VBN that|IN particular|JJ path|NN or|CC will|MD return|VB to|TO normal|JJ will|MD become|VB clear|JJ in|IN 2010|CD </s>|S_END
+<s>|S_START not|RB only|RB astronomers|NNS will|MD be|VB interested|JJ in|IN the|DT answer|NN </s>|S_END
+<s>|S_START the|DT maunder|NN minimum|NN coincided|VBD with|IN a|DT period|NN of|IN exceptionally|RB cold|JJ winters|NNS in|IN europe|NN and|CC north|JJ america|NN and|CC perhaps|RB elsewhere|RB </s>|S_END
+<s>|S_START what|WP happens|NNS if|IN global|JJ warming|NN meets|NNS solar|JJ cooling|NN </s>|S_END
+<s>|S_START expect|NN a|DT hot|JJ debate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START alison|NN goddard|VBD science|NN correspondent|NN the|DT economist|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,34 @@
+<p>|P_START
+<s>|S_START enjoy|NN the|DT extra|JJ cash|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB would|MD you|PRP like|VB to|TO earn|VB an|DT additional|JJ $|$ 650000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START then|RB go|VBP to|TO college|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START typical|JJ college|NN grads|NNS earns|VBZ about|IN $|$ 650000|CD more|JJR than|IN their|PRP$ peers|NNS who|WP just|RB have|VBP a|DT high|JJ school|NN diploma|NN over|IN the|DT course|NN of|IN a|DT 40year|JJ career|NN according|VBG to|TO a|DT pew|NN research|NN center|NN analysis|NN of|IN census|NN and|CC college|NN expense|NN data|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT worker|NN with|IN a|DT bachelors|NNS degree|VBP earns|NNS about|IN $|$ 14|CD million|CD on|IN average|JJ while|IN a|DT high|JJ school|NN grad|NN makes|VBZ about|IN $|$ 770000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN course|NN it|PRP takes|VBZ some|DT cash|NN to|TO go|VB to|TO college|VB so|RB that|IN has|VBZ to|TO be|VB figured|VBN into|IN the|DT equation|NN </s>|S_END
+<s>|S_START after|IN accounting|VBG for|IN the|DT time|NN and|CC cost|VB of|IN higher|JJR education|NN the|DT gain|NN is|VBZ about|IN $|$ 550000|CD assuming|VBG one|CD went|NN to|TO a|DT fouryear|NN public|NN university|NN in|IN ones|NNS home|NN state|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START earnings|NNS however|RB vary|JJ widely|RB by|IN major|JJ and|CC field|NN </s>|S_END
+<s>|S_START workers|NNS with|IN at|IN least|JJS a|DT bachelors|NNS degree|VBP who|WP majored|VBN in|IN engineering|NN earn|NN about|IN $|$ 19|CD million|CD during|IN their|PRP$ careers|NNS while|IN those|DT who|WP studied|VBN education|NN would|MD earn|VB on|IN average|JJ about|IN $|$ 11|CD million|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT payoff|NN for|IN a|DT college|NN education|NN increased|VBD substantially|RB during|IN the|DT 1980s|CD and|CC then|RB either|DT increased|VBN slightly|RB since|IN the|DT early|JJ 1990s|CD or|CC plateaued|VBN pew|JJ says|NNS </s>|S_END
+</p>|P_END
+

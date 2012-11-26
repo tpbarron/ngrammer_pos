@@ -1,0 +1,43 @@
+<p>|P_START
+<s>|S_START it|PRP is|VBZ hard|RB to|TO think|VB of|IN a|DT better|JJR example|NN of|IN how|WRB routine|JJ space|NN flight|NN has|VBZ become|VBN than|IN the|DT cargo|NN missions|NNS that|WDT bring|VBG supplies|NNS to|TO the|DT international|JJ space|NN station|NN i|PRP </s>|S_END
+<s>|S_START but|CC the|DT one|CD that|WDT docked|VBN with|IN it|PRP at|IN 103pm|CD gmt|NN on|IN october|NN 10th|CD is|VBZ special|JJ for|IN two|CD reasons|NNS it|PRP included|VBD a|DT delivery|NN of|IN ice|NN cream|NN a|DT rare|NN treat|NN for|IN the|DT astronauts|NNS exiled|VBD there|RB and|CC it|PRP is|VBZ the|DT first|JJ cargo|NN flight|NN to|TO the|DT station|NN undertaken|NN by|IN a|DT commercial|JJ company|NN </s>|S_END
+<s>|S_START its|PRP$ success|NN is|VBZ a|DT vindication|NN of|IN the|DT decision|NN by|IN nasa|NN america’s|NNS space|NN agency|NN to|TO delegate|VB such|JJ missions|NNS to|TO the|DT private|JJ sector|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pacex|NN the|DT company|NN which|WDT built|VBN the|DT dragon|NN spacecraft|NN that|WDT is|VBZ carrying|VBG the|DT cargo|NN as|IN well|RB as|IN the|DT falcon|NN 9|CD rocket|NN that|WDT blasted|VBN it|PRP into|IN orbit|NN has|VBZ been|VBN to|TO the|DT iss|NN before|IN </s>|S_END
+<s>|S_START in|IN may|MD a|DT demonstration|NN flight|NN saw|VBD another|DT dragon|NN dock|NN successfully|RB with|IN the|DT station|NN </s>|S_END
+<s>|S_START that|DT flight|NN was|VBD the|DT last|JJ of|IN a|DT series|NN of|IN technical|JJ hurdles|NNS that|WDT spacex|NN had|VBD to|TO jump|VB in|IN order|NN to|TO persuade|VB nasa|NN to|TO sign|VB a|DT $|$ 16|CD billion|CD contract|NN for|IN cargo|NN trips|NNS of|IN which|WDT this|DT is|VBZ the|DT first|JJ </s>|S_END
+<s>|S_START eleven|RB more|JJR are|VBP planned|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC although|IN the|DT dragon|NN successfully|RB made|VBN it|PRP to|TO the|DT iss|NN the|DT mission|NN was|VBD far|RB from|IN flawle|NN </s>|S_END
+<s>|S_START one|CD of|IN the|DT falcon’s|JJ nine|CD engines|NNS failed|VBD about|IN a|DT minute|NN into|IN its|PRP$ flight|JJ forcing|NN the|DT rocket|NN to|TO continue|VB into|IN orbit|NN on|IN its|PRP$ remaining|VBG eight|NN motor|NN </s>|S_END
+<s>|S_START pacex|NN was|VBD quick|JJ to|TO make|VB the|DT point|NN that|IN the|DT ability|NN to|TO carry|VB on|RP despite|IN an|DT engine|NN failure|NN demonstrates|VBZ a|DT big|JJ advantage|NN of|IN multiengined|VBN rockets|NNS like|IN the|DT falcon|NN space|NN shuttles|NNS and|CC saturn|VB v|NN moon|NN rockets|NNS could|MD both|VB do|VB something|NN similar|JJ </s>|S_END
+<s>|S_START had|VBD the|DT mission|NN been|VBN using|VBG almost|RB any|DT other|JJ type|NN of|IN rocket|NN its|PRP$ payload|NN would|MD now|RB be|VB at|IN the|DT bottom|NN of|IN the|DT atlantic|JJ </s>|S_END
+<s>|S_START but|CC although|IN the|DT dragon|NN was|VBD unaffected|VBN the|DT engine|NN problem|NN left|VBD a|DT small|JJ communications|NNS satellite|JJ that|IN was|VBD along|JJ for|IN the|DT ride|NN as|IN a|DT secondary|JJ payload|NN unable|JJ to|TO reach|VB its|PRP$ proper|NN orbit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pacex|NN is|VBZ not|RB the|DT only|JJ firm|NN in|IN the|DT privatecargo|NN busine|NN </s>|S_END
+<s>|S_START orbital|JJ sciences|NNS best|JJS known|VBN for|IN making|VBG satellites|NNS hopes|NNS to|TO carry|VB out|RP a|DT muchdelayed|VBN test|NN of|IN its|PRP$ antares|NNS rocket|NN in|IN the|DT coming|VBG week|NN </s>|S_END
+<s>|S_START there|EX is|VBZ talk|NN of|IN a|DT test|NN flight|NN to|TO the|DT iss|NN using|VBG its|PRP$ cygnus|NN spacecraft|NN sometime|NN next|IN year|NN </s>|S_END
+<s>|S_START if|IN it|PRP can|MD prove|VB that|IN its|PRP$ vehicles|NNS work|NN then|RB nasa|VB will|MD pay|VB it|PRP $|$ 19|CD billion|CD to|TO run|VB eight|CD cargo|NN flights|NNS of|IN its|PRP$ own|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nor|CC are|VBP nasa’s|JJ ambitions|NNS for|IN private|JJ space|NN firms|NNS limited|VBN to|TO hauling|NN freight|NN </s>|S_END
+<s>|S_START following|VBG the|DT retirement|NN of|IN the|DT shuttle|NN in|IN 2011|CD america|NN now|RB relies|VBZ on|IN russia’s|JJ soyuz|NN system|NN to|TO ferry|VB its|PRP$ astronauts|NNS to|TO and|CC from|IN the|DT i|NN </s>|S_END
+<s>|S_START but|CC the|DT dragon|NN was|VBD designed|VBN from|IN the|DT start|NN to|TO take|VB passengers|NNS and|CC under|IN a|DT separate|JJ deal|NN called|VBN the|DT commercial|JJ crew|NN development|NN spacex|NN is|VBZ also|RB in|IN the|DT running|NN for|IN a|DT contract|NN to|TO fly|RB people|NNS to|TO the|DT station|NN </s>|S_END
+<s>|S_START if|IN the|DT falcon|NN and|CC the|DT dragon|NN can|MD pass|VB another|DT set|NN of|IN technical|JJ tests|NNS the|DT company|NN could|MD start|VB flying|VBG astronauts|NNS by|IN 2017|CD </s>|S_END
+<s>|S_START two|CD other|JJ firms—the|JJ sierra|NN nevada|NN corporation|NN a|DT conglomerate|NN that|WDT dabbles|VBZ in|IN satellites|NNS energy|NN and|CC medicine|NN and|CC boeing|VBG an|DT aerospace|NN giant—hope|NN to|TO fly|RB similar|JJ missions|NNS with|IN their|PRP$ own|JJ spacecraft|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN theory|NN by|IN delegating|NN to|TO the|DT private|JJ sector|NN the|DT humdrum|NN business|NN of|IN ferrying|NN food|NN and|CC astronauts|NNS to|TO and|CC from|IN lowearth|JJ orbit|NN nasa|NN hopes|VBZ to|TO free|JJ up|IN cash|NN to|TO do|VB other|JJ more|RBR difficult|JJ things|NNS including|VBG sending|VBG people|NNS to|TO nearby|VB asteroids|NNS by|IN 2025|CD and|CC on|IN to|TO mars|NNS by|IN the|DT 2030|CD </s>|S_END
+<s>|S_START many|JJ spacewatchers|NNS are|VBP sceptical|JJ about|IN whether|IN such|JJ missions|NNS will|MD ever|RB happen|VB given|VBN the|DT american|JJ government’s|NNS squeezed|VBN budgets|NNS and|CC nasa’s|JJ historical|JJ role|NN as|IN a|DT political|JJ football|NN </s>|S_END
+<s>|S_START but|CC even|RB if|IN nasa|NN does|VBZ not|RB venture|VB beyond|IN lowearth|JJ orbit|NN others|NNS might|MD </s>|S_END
+<s>|S_START elon|NN musk|NN spacex’s|NNS billionaire|VBP founder|NN has|VBZ never|RB made|VBN any|DT secret|NN of|IN his|PRP$ desire|NN to|TO see|VB dragons|NNS on|IN mar|NN </s>|S_END
+</p>|P_END
+

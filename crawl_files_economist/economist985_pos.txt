@@ -1,0 +1,30 @@
+<p>|P_START
+<s>|S_START international|JJ shindigs|NNS are|VBP noted|VBN for|IN fine|NN dining|VBG </s>|S_END
+<s>|S_START but|CC delegates|VBZ at|IN the|DT recent|JJ world|NN water|NN week|NN conference|NN in|IN stockholm|NN which|WDT discussed|VBN the|DT looming|NN global|JJ food|NN crisis|NN practised|VBD what|WP they|PRP preached|VBD lunches|NNS were|VBD meatless|NN and|CC any|DT leftover|NN quorn|NN or|CC quinoa|NN was|VBD sent|VBN to|TO make|VB bioga|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START would|MD that|DT others|NNS were|VBD so|RB thrifty|JJ </s>|S_END
+<s>|S_START torgny|NN holmgren|VBN of|IN the|DT stockholm|NN international|JJ water|NN institute|NN which|WDT organised|VBN the|DT event|NN reckons|NNS up|IN to|TO half|DT of|IN the|DT food|NN the|DT world|NN produces|VBZ goes|VBZ uneaten|VBN </s>|S_END
+<s>|S_START in|IN india|NN up|IN to|TO 40|CD rots|NNS on|IN the|DT way|NN to|TO market|NN </s>|S_END
+<s>|S_START americans|NNS bin|VBP 40|CD of|IN what|WP they|PRP buy|VBP wasting|VBG $|$ 165|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC america|VBP does|VBZ have|VB the|DT thrifty|NN “doggy|NN bag”|NN in|IN which|WDT restaurants|NNS pack|VBP surplus|NN food|NN nominally|RB for|IN canines|NNS but|CC often|RB for|IN human|JJ </s>|S_END
+<s>|S_START most|JJS countries|NNS shun|VBP them|PRP perhaps|RB for|IN fear|NN of|IN seeming|VBG stingy|NN or|CC because|IN of|IN worries|NNS about|IN hygiene|NN </s>|S_END
+<s>|S_START travel|NN blogs|NNS even|RB warn|VB americans|NNS not|RB to|TO risk|VB disdain|NN by|IN asking|NN for|IN doggy|NN bags|NNS when|WRB eating|VBG out|RP in|IN france|NN or|CC spain|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN britain|NN where|WRB restaurants|NNS throw|VBP away|RB 600000|CD tonnes|NNS of|IN food|NN a|DT year|NN the|DT sustainable|JJ restaurant|NN association|NN has|VBZ launched|VBN a|DT “too|NNP good|JJ to|TO waste”|JJ campaign|NN to|TO promote|VB its|PRP$ doggy|NN boxe|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ signed|VBN up|RP eateries|NNS including|VBG the|DT foyer|NN bar|NN at|IN claridge’s|JJ one|CD of|IN london’s|JJ bestknown|NN hotel|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thrift|NN with|IN food|NN can|MD help|VB poor|JJ people|NNS too|RB </s>|S_END
+<s>|S_START urban|NN gleaners|NNS a|DT charity|NN in|IN portland|NN oregon|NN collects|NNS unused|VBD food|NN from|IN hotels|NNS shops|NNS and|CC eaterie|VB </s>|S_END
+<s>|S_START fareshare|NN a|DT british|JJ one|CD collects|NNS it|PRP mainly|RB from|IN manufacturer|NN </s>|S_END
+<s>|S_START it|PRP estimates|VBZ that|IN 1|CD of|IN the|DT country’s|JJ 3m|CD tonnes|NNS of|IN annual|JJ food|NN waste|NN could|MD provide|VB 70m|CD meal|NN </s>|S_END
+</p>|P_END
+

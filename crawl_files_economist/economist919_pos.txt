@@ -1,0 +1,41 @@
+<p>|P_START
+<s>|S_START controversy|NN about|IN pain|NN relief|NN is|VBZ usually|RB between|IN those|DT who|WP worry|NN about|IN addiction|NN black|NN markets|NNS and|CC overprescription|NN and|CC those|DT who|WP just|RB want|VBP patients|NNS with|IN longrunning|VBG or|CC fatal|JJ diseases|NNS to|TO get|VB the|DT best|JJS pill|NN </s>|S_END
+<s>|S_START but|CC a|DT lesserknown|NN issue|NN is|VBZ gaining|VBG attention|NN too|RB the|DT treatment|NN of|IN acute|NN pain|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN big|JJ advances|NNS in|IN medical|JJ care|NN in|IN most|JJS other|JJ respects|NNS pain|IN relief|NN after|IN surgery|NN has|VBZ not|RB improved|VBN in|IN the|DT past|JJ 60|CD year|NN </s>|S_END
+<s>|S_START a|DT study|NN in|IN 2003|CD found|NN that|IN 80|CD of|IN adults|NNS reported|VBD moderate|JJ to|TO severe|VB pain|NN after|IN surgery|NN just|RB as|IN many|JJ did|VBD in|IN 1950|CD </s>|S_END
+<s>|S_START pain|NN does|VBZ not|RB just|RB cause|VB anguish|JJ the|DT stresshormone|NN cortisol|NN it|PRP releases|VBZ can|MD damage|VB the|DT body|NN </s>|S_END
+<s>|S_START the|DT end|NN result|NN may|MD be|VB heart|VBN attacks|NNS or|CC internal|JJ blood|NN clot|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT dispute|NN is|VBZ not|RB about|IN the|DT drugs|NNS themselves|PRP but|CC concerns|NNS their|PRP$ type|NN quantity|NN and|CC timing|VBG </s>|S_END
+<s>|S_START medical|JJ opinion|NN is|VBZ surprisingly|RB divided|VBN on|IN this|DT chiefly|NN because|IN it|PRP is|VBZ so|RB hard|RB to|TO measure|VB pain|NN accurately|RB </s>|S_END
+<s>|S_START attempts|NNS to|TO determine|VB a|DT global|JJ pain|NN scale|NN have|VBP failed|VBN because|IN pain|NN tolerance|NN varies|NNS from|IN country|NN to|TO country|NN </s>|S_END
+<s>|S_START in|IN nations|NNS with|IN stiff|JJ upper|NN lips|NNS a|DT dose|NN may|MD be|VB too|RB high|JJ </s>|S_END
+<s>|S_START in|IN those|DT with|IN trembling|VBG lower|JJR ones|NNS the|DT same|JJ amount|NN may|MD be|VB too|RB little|JJ </s>|S_END
+<s>|S_START tereotypes|NNS are|VBP misleading|VBG on|IN average|JJ germans|NNS for|IN instance|NN rate|NN pain|NN for|IN similar|JJ conditions|NNS worse|VBP than|IN spaniards|NNS or|CC italians|NNS do|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uch|JJ comparisons|NNS are|VBP rare|JJ but|CC a|DT global|JJ study|NN called|VBN pain|NN out|IN is|VBZ trying|VBG to|TO make|VB them|PRP more|JJR systematic|JJ </s>|S_END
+<s>|S_START it|PRP records|VBZ data|NNS across|IN 16|CD rich|JJ and|CC poor|JJ countrie|NN </s>|S_END
+<s>|S_START patients|NNS fill|VBP in|IN forms|NNS after|IN operations|NNS and|CC doctors|NNS make|VBP notes|NNS of|IN given|VBN treatment|NN </s>|S_END
+<s>|S_START the|DT data|NNS are|VBP fed|VBN into|IN a|DT central|JJ server|NN and|CC can|MD be|VB accessed|VBN freely|RB by|IN researcher|NN </s>|S_END
+<s>|S_START in|IN berlin|NN this|DT month|NN ruth|NN zaslansky|NN of|IN the|DT jena|NN medical|JJ centre|NN in|IN germany|NN will|MD present|VB the|DT results|NNS of|IN the|DT study|NN and|CC actions|NNS taken|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD finding|NN is|VBZ that|IN rwandan|JJ women|NNS undergoing|VBG caesarean|JJ sections|NNS get|VBP worse|JJR therapy|NN than|IN those|DT in|IN any|DT other|JJ rich|JJ or|CC poor|JJ country|NN </s>|S_END
+<s>|S_START as|IN a|DT result|NN says|VBZ antoine|NN bahati|NN kabeza|NN an|DT anaesthetist|NN at|IN kigali|NN university|NN hospital|NN the|DT medical|JJ staff|NN are|VBP changing|VBG its|PRP$ painrelief|NN policies|NNS and|CC the|DT university|NN is|VBZ changing|VBG the|DT way|NN it|PRP teaches|VBZ pain|NN management|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START medical|JJ care|NN inevitably|RB varies|VBZ between|IN rich|JJ and|CC poor|JJ countrie|NN </s>|S_END
+<s>|S_START but|CC pain|NN relief|NN administered|VBD correctly|RB costs|NNS relatively|RB little|JJ given|VBN the|DT good|JJ it|PRP doe|VBP </s>|S_END
+<s>|S_START the|DT psychology|NN of|IN national|JJ character|NN does|VBZ not|RB feature|VB in|IN pharmacological|JJ thinking|NN </s>|S_END
+<s>|S_START perhaps|RB it|PRP should|MD </s>|S_END
+</p>|P_END
+

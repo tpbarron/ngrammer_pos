@@ -1,0 +1,65 @@
+<p>|P_START
+<s>|S_START fossils|NNS stock|NN took|VBD a|DT beating|NN tuesday|NN making|VBG it|PRP the|DT secondworst|JJS performer|NN on|IN the|DT sp|NN 500|CD spx|NN and|CC nasdaq|NN comp|NN after|IN the|DT company|NN reported|VBD weak|JJ revenue|NN and|CC cut|VBD back|RP its|PRP$ sales|NNS outlook|NN for|IN the|DT current|JJ quarter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fossil|NN fosl|NN reported|VBD thirdquarter|NN sales|NNS of|IN $|$ 6842|CD million|CD falling|VBG short|JJ of|IN the|DT $|$ 7131|CD million|CD analysts|NNS had|VBD expected|VBN </s>|S_END
+<s>|S_START earnings|NNS fared|VBD better|RBR </s>|S_END
+<s>|S_START fossil|NN beat|VBD earningspershare|NN forecasts|NNS by|IN 9|CD cents|NNS </s>|S_END
+<s>|S_START but|CC europe|VBP once|RB again|RB reared|VBN its|PRP$ ugly|RB head|JJ and|CC took|VBD a|DT big|JJ bite|NN out|IN of|IN the|DT companys|NNS sales|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT stronger|JJR us|PRP dollar|NN was|VBD also|RB to|TO blame|VB for|IN the|DT sales|NNS shortfall|VBP which|WDT fossil|NN said|VBD resulted|VBN in|IN a|DT decrease|NN of|IN $|$ 222|CD million|CD in|IN overall|JJ thirdquarter|NN sales|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD bright|JJ spot|NN remains|VBZ asia|NN where|WRB sales|NNS rose|VBD nearly|RB 27|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START still|RB that|IN wasnt|NN enough|RB to|TO keep|VB investors|NNS and|CC stocktwits|NNS traders|NNS from|IN weighing|VBG in|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START firstadopter|NN $|$ fosl call|JJ their|PRP$ retail|JJ stores|NNS in|IN europe|NN getting|VBG better|JJR due|JJ to|TO traffic|JJ from|IN new|JJ jewelry|NN offerings|NNS wholesale|VBP biz|NN is|VBZ where|WRB weakening|VBG is|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START wholesale|NN sales|NNS were|VBD barely|RB higher|JJR so|IN if|IN fossil|NN can|MD make|VB it|PRP up|RP with|IN foot|NN traffic|NN to|TO its|PRP$ stores|NNS then|RB there|RB is|VBZ room|NN to|TO turn|VB things|NNS around|IN before|IN yearend|NN </s>|S_END
+<s>|S_START and|CC even|RB though|IN the|DT company|NN trimmed|VBD back|RP its|PRP$ sales|NNS forecast|NN fossil|NN still|RB expects|VBZ a|DT 12|CD increase|NN in|IN the|DT fourth|JJ quarter|NN </s>|S_END
+<s>|S_START thats|NNS not|RB too|RB shabby|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bradloncar|NN $|$ fosl makes|NNS a|DT quality|NN product|NN for|IN a|DT good|JJ price|NN </s>|S_END
+<s>|S_START not|RB the|DT type|NN of|IN company|NN id|VBD want|JJ to|TO short|JJ regardless|NN of|IN an|DT earnings|NNS report|NN or|CC two|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT might|MD be|VB a|DT very|RB good|JJ point|NN </s>|S_END
+<s>|S_START just|RB six|CD months|NNS ago|RB fossils|VBZ stock|NN sank|NN nearly|RB 40|CD for|IN the|DT exact|JJ same|NN reason|NN europe|NN </s>|S_END
+<s>|S_START but|CC fast|RB forward|RB to|TO august|VB when|WRB the|DT stock|NN rallied|VBD 30|CD on|IN a|DT strong|JJ earnings|NNS report|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC not|RB everyone|NN was|VBD sold|VBN on|IN fossils|NNS ability|NN to|TO turn|VB things|NNS around|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START berserker|NN $|$ fosl|NN when|WRB is|VBZ the|DT last|JJ time|NN you|PRP saw|VBD a|DT fossil|NN commercial|NN </s>|S_END
+<s>|S_START 1996|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fossil|NN has|VBZ made|VBN some|DT notable|JJ acquisitions|NNS and|CC shouldnt|NN be|VB written|VBN off|RP just|RB yet|RB </s>|S_END
+<s>|S_START earlier|JJR this|DT year|NN fossil|NN acquired|VBN skagen|NN which|WDT makes|VBZ watches|VBZ and|CC other|JJ accessories|NNS </s>|S_END
+<s>|S_START and|CC the|DT company|NN has|VBZ had|VBN a|DT longstanding|JJ relationship|NN with|IN michael|NN kors|NNS kors|NNS dkny|VBP armani|NN and|CC others|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+</p>|P_END
+
+<p>|P_START
+</p>|P_END
+

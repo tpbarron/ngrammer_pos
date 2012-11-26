@@ -1,0 +1,46 @@
+<p>|P_START
+<s>|S_START kinect|NN microsofts|NNS videogame|VBD controller|NN that|IN registers|NNS a|DT users|NNS intentions|NNS from|IN his|PRP$ gestures|NNS will|MD be|VB the|DT shape|NN of|IN things|NNS to|TO come|VB if|IN chris|NNS harrison|VBP a|DT researcher|NN at|IN the|DT humancomputer|NN interaction|NN institute|NN at|IN carnegie|NN mellon|NN university|NN in|IN pittsburgh|NN has|VBZ his|PRP$ way|NN </s>|S_END
+<s>|S_START mr|NN harrison|NN thinks|NNS the|DT kinects|NNS basic|JJ principles|NNS could|MD be|VB used|VBN to|TO make|VB a|DT technological|JJ panopticon|NN that|WDT monitors|NNS peoples|VBZ movements|NNS and|CC gives|VBZ them|PRP what|WP they|PRP want|VBP wherever|RB they|PRP want|VBP it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START omeone|NN in|IN a|DT shopping|NN mall|NN for|IN example|NN might|MD hold|VB up|RP his|PRP$ hand|NN and|CC see|VB a|DT map|NN appear|NN instantly|RB at|IN his|PRP$ fingertip|NN </s>|S_END
+<s>|S_START this|DT image|NN might|MD then|RB be|VB locked|VBN in|IN place|NN by|IN the|DT user|NN sticking|VBG his|PRP$ thumb|NN out|IN </s>|S_END
+<s>|S_START a|DT visitor|NN to|TO a|DT museum|NN armed|VBN with|IN a|DT suitable|JJ earpiece|NN could|MD get|VB the|DT lowdown|NN on|IN what|WP he|PRP was|VBD looking|VBG at|IN simply|RB by|IN pointing|VBG at|IN it|PRP </s>|S_END
+<s>|S_START and|CC a|DT person|NN who|WP wanted|VBD to|TO send|VB a|DT text|NN message|NN could|MD tap|VB it|PRP out|RP with|IN one|CD hand|NN on|IN a|DT keyboard|NN projected|VBN onto|IN the|DT other|JJ and|CC then|RB send|VB it|PRP by|IN flipping|VBG his|PRP$ hand|NN over|IN </s>|S_END
+<s>|S_START in|IN each|DT case|NN sensors|NNS in|IN the|DT wall|NN or|CC ceiling|VBG would|MD be|VB watching|VBG what|WP he|PRP was|VBD up|RB to|TO looking|VBG for|IN significant|JJ gestures|NNS and|CC reacting|VBG accordingly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN harrisons|NNS prototype|VBP for|IN this|DT idea|NN called|VBD armura|NN started|VBN off|RP as|IN an|DT extension|NN to|TO a|DT project|NN he|PRP worked|VBD on|IN at|IN microsoft|NN </s>|S_END
+<s>|S_START this|DT was|VBD to|TO project|VB interactive|JJ displays|NNS onto|IN nearby|JJ surfaces|NNS including|VBG the|DT users|NNS body|NN </s>|S_END
+<s>|S_START that|DT project|NN omnitouch|NN combined|VBN a|DT kinectlike|NN array|NN of|IN sensors|NNS with|IN a|DT small|JJ shouldermounted|VBN projector|NN </s>|S_END
+<s>|S_START armura|NN takes|VBZ the|DT idea|NN a|DT stage|NN further|RB by|IN mounting|NN both|DT sensors|NNS and|CC projector|NN in|IN the|DT ceiling|NN </s>|S_END
+<s>|S_START this|DT frees|NNS the|DT user|NN from|IN the|DT need|NN to|TO carry|VB anything|NN and|CC also|RB provides|VBZ a|DT convenient|JJ place|NN from|IN which|WDT to|TO spot|VB his|PRP$ gesture|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT actual|JJ detection|NN is|VBZ done|VBN by|IN infrared|VBN light|JJ which|WDT reflects|VBZ off|RP the|DT users|NNS skin|NN and|CC clothe|DT </s>|S_END
+<s>|S_START a|DT camera|NN records|NNS the|DT various|JJ shapes|NNS made|VBN by|IN the|DT users|NNS hands|VBZ and|CC arm|NN </s>|S_END
+<s>|S_START oftware|NN then|RB identifies|VBZ different|JJ arrangements|NNS of|IN the|DT users|NNS arms|VBZ hands|NNS and|CC fingers|NNS such|JJ as|IN armscrossed|VBN thumbsin|NN thumbsout|IN book|NN palmsup|NN palmsdown|NN and|CC so|RB on|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START according|VBG to|TO mr|VB harrison|NN the|DT hands|NNS alone|RB are|VBP capable|JJ of|IN tens|NNS of|IN thousands|NNS of|IN interactions|NNS and|CC gesture|NN </s>|S_END
+<s>|S_START the|DT trick|NN is|VBZ to|TO distinguish|VB between|IN them|PRP matching|VBG the|DT gesturers|NNS intention|NN to|TO his|PRP$ pose|NN precisely|RB enough|RB that|IN the|DT correct|NN consequence|NN follows|VBZ but|CC not|RB so|RB precisely|RB that|IN slightly|RB nonstandard|JJ gestures|NNS are|VBP ignored|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT result|NN is|VBZ that|IN if|IN someone|NN holds|NNS his|PRP$ hands|NNS out|IN like|IN a|DT book|NN information|NN is|VBZ displayed|VBN on|IN each|DT palm|NN as|IN if|IN that|IN palm|NN were|VBD a|DT page|NN </s>|S_END
+<s>|S_START folding|VBG his|PRP$ hands|NNS turns|VBZ the|DT page|NN </s>|S_END
+<s>|S_START arm|NN movements|NNS will|MD reveal|VB the|DT locations|NNS of|IN particular|JJ exhibits|NNS or|CC shop|VB </s>|S_END
+<s>|S_START and|CC if|IN someone|NN fancies|NNS a|DT bit|NN of|IN background|NN music|NN the|DT appropriate|NN hand|NN and|CC arm|NN movements|NNS will|MD control|VB which|WDT track|NN is|VBZ played|VBN and|CC at|IN what|WP volume|NN </s>|S_END
+<s>|S_START with|IN clever|JJR use|NN of|IN microphones|NNS and|CC directional|JJ loudspeakers|NNS indeed|RB it|PRP may|MD even|RB be|VB possible|JJ to|TO make|VB phone|NN call|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN course|NN armura|NN will|MD only|RB work|VB in|IN areas|NNS where|WRB the|DT technology|NN to|TO support|VB it|PRP has|VBZ been|VBN installed|VBN </s>|S_END
+<s>|S_START but|CC the|DT same|JJ is|VBZ true|JJ of|IN mobile|JJ phone|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ a|DT slightly|RB disturbing|JJ thought|NN that|WDT if|IN mr|NN harrisons|NNS technology|NN can|MD be|VB made|VBN to|TO operate|VB routinely|RB the|DT worlds|NNS streets|NNS and|CC train|VB carriages|NNS could|MD be|VB filled|VBN with|IN people|NNS making|VBG odd|JJ gestures|NNS at|IN no|DT one|NN in|IN particular—hoping|JJ as|IN they|PRP do|VBP so|RB for|IN enlightenment|NN </s>|S_END
+</p>|P_END
+

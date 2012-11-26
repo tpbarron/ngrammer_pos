@@ -1,0 +1,42 @@
+<p>|P_START
+<s>|S_START click|NN on|IN chart|NN to|TO track|VB markets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN world|NN markets|NNS rallied|VBD friday|NN after|IN european|JJ union|NN member|NN nations|NNS approved|VBD an|DT economic|JJ growth|NN package|NN and|CC hatched|VBD a|DT deal|NN to|TO ease|VB the|DT recapitalization|NN of|IN struggling|VBG banks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN the|DT seemingly|RB growing|VBG rift|NN between|IN germany|NN and|CC the|DT rest|NN of|IN the|DT major|JJ eurozone|NN governments|NNS these|DT morning|NN headlines|NNS are|VBP enough|RB to|TO cheer|VB the|DT markets|NNS for|IN now|RB wrote|VBD deutsche|PRP bank|NN analysts|NNS jim|VBP reid|JJ and|CC colin|NN tan|NN in|IN a|DT research|NN note|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START londons|NNS ftse|VBP ukx|NN closed|VBD higher|JJR by|IN 1|CD while|IN the|DT dax|NN dax|NN in|IN frankfurt|NN rose|VBD 24|CD and|CC the|DT cac|NN 40|CD cac40|NNP in|IN paris|NN surged|VBD by|IN 32|CD at|IN the|DT close|NN of|IN trading|VBG </s>|S_END
+<s>|S_START madrids|NNS ibex|VBP 35|CD soared|VBN 57|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eu|NN leaders|NNS agreed|VBD to|TO form|NN a|DT single|JJ supervisory|NN body|NN for|IN the|DT continents|NNS banks|NNS </s>|S_END
+<s>|S_START that|DT body|NN would|MD have|VB the|DT ability|NN to|TO aid|NN the|DT banks|NNS without|IN adding|VBG to|TO the|DT sovereign|NN debt|NN of|IN nations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT aim|NN was|VBD to|TO have|VB this|DT in|IN place|NN by|IN the|DT end|NN of|IN the|DT year|NN and|CC to|TO break|VB the|DT vicious|JJ circle|NN between|IN banks|NNS and|CC sovereigns|NNS the|DT deutsche|NN bank|NN analysts|NNS wrote|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS european|JJ bank|NN stocks|NNS rode|VBP the|DT wave|NN </s>|S_END
+<s>|S_START in|IN paris|NN bnp|NN paribas|NNS bnpqf|VBP and|CC credit|NN agricole|NN crary|NN both|DT closed|VBD higher|JJR by|IN more|JJR than|IN 7|CD and|CC societe|JJ generale|NN scgly|RB surged|VBD 11|CD </s>|S_END
+<s>|S_START in|IN frankfurt|NN commerzbank|NN crzby|NN soard|NN 8|CD while|IN deutsche|NN bank|NN db|NN jumped|VBD 7|CD </s>|S_END
+<s>|S_START in|IN madrid|JJ banco|NN santander|NN san|NN also|RB jumped|VBD 47|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START asian|JJ markets|NNS also|RB rallied|VBD </s>|S_END
+<s>|S_START the|DT hang|NN seng|NN hsi|NN in|IN hong|JJ kong|JJ closed|JJ higher|JJR by|IN 24|CD tokyos|NNS nikkei|VBP n225|NNP was|VBD 15|CD higher|JJR at|IN the|DT close|NN and|CC the|DT shanghai|NN composite|JJ shcomp|NN was|VBD up|RB by|IN 12|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT rising|VBG tide|NN spread|NN to|TO the|DT united|VBN states|NNS with|IN the|DT dow|NN jones|NNS industrial|JJ average|NN indu|NN nasdaq|NN comp|NN and|CC sp|VB spx|NN all|DT adding|VBG significant|JJ gains |NN </s>|S_END
+</p>|P_END
+

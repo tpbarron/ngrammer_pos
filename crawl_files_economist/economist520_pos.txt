@@ -1,0 +1,71 @@
+<p>|P_START
+<s>|S_START influenza|NN pandemics|NNS are|VBP remarkable|JJ recurring|VBG events|NNS that|WDT have|VBP historically|RB spread|VBN around|IN the|DT globe|NN in|IN two|CD sometimes|NNS three|CD wave|VBP </s>|S_END
+<s>|S_START caused|VBD by|IN a|DT virus|NN that|WDT is|VBZ new|JJ as|IN well|RB as|IN contagious|JJ they|PRP encounter|VBP no|DT “firewall”|NN of|IN protection|NN from|IN preexisting|VBG immunity|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ this|DT almost|RB universal|NN susceptibility|NN to|TO infection|NN that|IN gives|VBZ pandemics|NNS their|PRP$ power|NN to|TO sweep|VB through|IN the|DT world|NN population|NN </s>|S_END
+<s>|S_START and|CC the|DT large|JJ numbers|NNS infected|VBN within|IN a|DT short|JJ time|NN make|VBP pandemics|NNS disruptive|JJ even|RB when|WRB the|DT virus|NN itself|PRP is|VBZ not|RB an|DT efficient|JJ killer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT pandemic|JJ that|IN began|JJ in|IN 2009|CD is|VBZ unique|JJ in|IN at|IN least|JJS one|CD regard|NN </s>|S_END
+<s>|S_START past|NN pandemics|NNS have|VBP always|RB announced|VBN themselves|PRP with|IN a|DT sudden|JJ explosion|NN of|IN cases|NNS taking|VBG the|DT world|NN by|IN surprise|NN </s>|S_END
+<s>|S_START this|DT time|NN scientists|NNS were|VBD ready|RB and|CC waiting|VBG conditioned|VBN by|IN a|DT nervous|JJ fiveyear|NN watch|NN over|IN the|DT lethal|JJ h5n1|NNP birdflu|NN viru|NN </s>|S_END
+<s>|S_START for|IN once|RB the|DT world|NN was|VBD alert|NN prepared|VBN and|CC most|JJS likely|JJ more|RBR scared|JJ than|IN it|PRP needs|VBZ to|TO be|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB will|MD this|DT preparedness|NN serve|NN the|DT world|NN as|IN the|DT pandemic|JJ continues|NNS to|TO evolve|VB </s>|S_END
+<s>|S_START predictions|NNS are|VBP tricky|JJ </s>|S_END
+<s>|S_START but|CC the|DT behaviour|NN of|IN past|JJ pandemics|NNS offers|NNS a|DT few|JJ ground|NN rule|NN </s>|S_END
+<s>|S_START and|CC because|IN the|DT 2009|CD pandemic|JJ first|JJ spread|NN in|IN countries|NNS with|IN good|JJ surveillance|NN and|CC reporting|VBG systems|NNS the|DT year|NN will|MD begin|VB with|IN a|DT reasonable|JJ body|NN of|IN knowledge|NN about|IN the|DT h1n1|NNP virus|VBZ and|CC the|DT pattern|NN of|IN illness|NN it|PRP can|MD cause|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT pattern|NN seen|VBN during|IN the|DT second|JJ half|DT of|IN 2009|CD will|MD hold|VB </s>|S_END
+<s>|S_START the|DT overwhelming|NN majority|NN of|IN cases|NNS will|MD experience|VB mild|NN symptoms|NNS followed|VBD by|IN rapid|JJ and|CC full|JJ recovery|NN </s>|S_END
+<s>|S_START the|DT virus|NN will|MD preferentially|RB infect|VB a|DT young|JJ age|NN group|NN with|IN schools|NNS and|CC other|JJ institutional|JJ settings|NNS like|IN military|JJ barracks|NNS initially|RB amplifying|VBG local|JJ transmission|NN then|RB spreading|VBG into|IN the|DT wider|NN community|NN </s>|S_END
+<s>|S_START the|DT frail|NN elderly|RB who|WP account|NN for|IN 90|CD of|IN severe|JJ and|CC fatal|JJ cases|NNS during|IN seasonal|JJ flu|NN will|MD be|VB largely|RB spared|VBN at|IN least|JJS during|IN the|DT early|JJ phase|NN of|IN the|DT second|JJ wave|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START evere|RB cases|VBZ will|MD be|VB exceptional|JJ but|CC pregnant|JJ women|NNS will|MD be|VB at|IN increased|VBN risk|NN as|IN will|MD people|NNS with|IN a|DT number|NN of|IN widespread|JJ underlying|VBG conditions|NNS like|IN asthma|NN diabetes|NNS and|CC cardiovascular|JJ disease|NN </s>|S_END
+<s>|S_START obesity|NN and|CC especially|RB morbid|VBD obesity|NN will|MD be|VB observed|VBN in|IN a|DT high|JJ proportion|NN of|IN severe|JJ cases|NNS and|CC scientists|NNS will|MD frantically|RB try|VB to|TO discover|VB why|WRB </s>|S_END
+<s>|S_START the|DT virus|NN will|MD kill|VB but|CC in|IN nowhere|JJ near|NN the|DT numbers|NNS seen|VBN during|IN the|DT devastating|NN 1918|CD pandemic|JJ which|WDT claimed|VBN an|DT estimated|VBN 50m|CD lives|NNS worldwide|VBP </s>|S_END
+<s>|S_START projections|NNS of|IN deaths|NNS and|CC economic|JJ losses|NNS as|IN much|JJ as|IN $|$ 3|CD trillion|CD based|VBN on|IN the|DT lethal|JJ birdflu|NN virus|VBZ will|MD look|VB like|IN gross|NN exaggeration|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT pandemic|JJ will|MD not|RB affect|VB all|DT parts|NNS of|IN the|DT world|NN or|CC even|RB all|DT parts|NNS of|IN a|DT country|NN at|IN the|DT same|JJ time|NN </s>|S_END
+<s>|S_START disruptions|NNS will|MD be|VB abrupt|JJ and|CC acute|JJ but|CC mercifully|RB brief|JJ felt|NN especially|RB as|IN schools|NNS offices|NNS and|CC public|JJ services|NNS experience|NN high|JJ rates|NNS of|IN absenteeism|NN </s>|S_END
+<s>|S_START in|IN a|DT given|VBN area|NN the|DT worst|JJS will|MD usually|RB be|VB over|IN in|IN four|CD to|TO six|CD weeks|NNS as|IN the|DT virus|NN rushes|VBZ through|IN a|DT susceptible|JJ population|NN cases|NNS peak|VBP and|CC infections|NNS decline|VBP with|IN equal|JJ speed|NN </s>|S_END
+<s>|S_START areas|NNS or|CC population|NN subgroups|NNS spared|VBD during|IN the|DT first|JJ wave|NN will|MD be|VB vulnerable|JJ targets|NNS when|WRB the|DT virus|NN return|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START winters|NNS of|IN discontent|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN the|DT pandemic|JJ gains|NNS ground|VBP during|IN the|DT winter|NN seasons|NNS first|RB in|IN the|DT northern|JJ hemisphere|NN later|JJ in|IN the|DT south|NN this|DT largely|RB reassuring|VBG picture|NN will|MD be|VB undercut|VBN by|IN extreme|NN </s>|S_END
+<s>|S_START with|IN the|DT number|NN of|IN infections|NNS growing|VBG exponentially|RB vast|JJ differences—in|JJ the|DT spectrum|NN of|IN illness|NN access|NN to|TO vaccines|NNS response|NN capacity|NN and|CC impact—will|NNP become|NN strikingly|RB apparent|JJ sometimes|NNS tragically|RB so|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS patients|NNS will|MD not|RB need|VB any|DT form|NN of|IN medical|JJ care|NN </s>|S_END
+<s>|S_START but|CC a|DT small|JJ subset|NN of|IN others|NNS will|MD rapidly|RB fall|VB so|RB ill|JJ that|IN their|PRP$ lives|NNS will|MD depend|VB on|IN highly|RB specialised|VBN treatment|NN in|IN intensivecare|NN unit|NN </s>|S_END
+<s>|S_START though|IN the|DT numbers|NNS will|MD be|VB small|JJ the|DT burden|NN in|IN terms|NNS of|IN staff|NN equipment|NN supplies|NNS and|CC costly|RB stays|VBZ in|IN hospital|NN will|MD be|VB enormous—the|JJ potential|JJ tippingpoint|NN for|IN disruptions|NNS in|IN overall|JJ health|NN service|NN </s>|S_END
+<s>|S_START in|IN many|JJ developing|VBG countries|NNS where|WRB health|NN systems|NNS are|VBP weak|JJ most|JJS of|IN these|DT patients|NNS will|MD die|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT supply|NN of|IN vaccines|NNS will|MD be|VB woefully|RB inadequate|JJ </s>|S_END
+<s>|S_START as|IN global|JJ manufacturing|NN capacity|NN is|VBZ not|RB easily|RB augmented|VBN the|DT world|NN will|MD find|VB itself|PRP several|JJ billion|CD doses|NNS short|JJ of|IN what|WP is|VBZ needed|VBN </s>|S_END
+<s>|S_START the|DT distribution|NN of|IN vaccines|NNS among|IN countries|NNS will|MD be|VB extremely|RB uneven|VBN as|IN affluent|NN countries|NNS will|MD have|VB reserved|VBN most|JJS of|IN the|DT years|NNS output|VBD well|RB in|IN advance|NN </s>|S_END
+<s>|S_START many|JJ will|MD have|VB enough|RB to|TO cover|VB their|PRP$ entire|JJ population|NN </s>|S_END
+<s>|S_START for|IN the|DT rest|NN of|IN the|DT world|NN vaccine|NN donations|NNS totalling|VBG 200m|CD doses|NNS secured|VBN by|IN the|DT who|WP will|MD barely|RB be|VB sufficient|JJ to|TO protect|VB health|NN worker|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START above|IN all|DT a|DT truly|RB global|JJ event|NN like|IN this|DT one|CD will|MD reveal|VB in|IN a|DT highly|RB visible|JJ way|NN the|DT consequences|NNS of|IN decades|NNS of|IN failure|NN to|TO invest|VB adequately|RB in|IN basic|JJ health|NN services|NNS and|CC infrastructures|NNS in|IN the|DT developing|VBG world|NN </s>|S_END
+<s>|S_START the|DT same|JJ virus|NN that|IN causes|NNS manageable|JJ disruption|NN in|IN affluent|NN countries|NNS will|MD have|VB a|DT devastating|VBG impact|NN in|IN countries|NNS with|IN too|RB few|JJ health|NN facilities|NNS and|CC staff|NN no|DT regular|JJ supplies|NNS of|IN essential|JJ medicines|NNS little|RB diagnostic|JJ and|CC laboratory|NN capacity|NN and|CC vast|JJ populations|NNS with|IN no|DT access|NN to|TO safe|VB water|NN and|CC sanitation|NN </s>|S_END
+</p>|P_END
+

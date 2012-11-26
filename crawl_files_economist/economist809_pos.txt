@@ -1,0 +1,79 @@
+<p>|P_START
+<s>|S_START japan|NN is|VBZ a|DT topdown|NN society|NN </s>|S_END
+<s>|S_START as|IN in|IN books|NNS where|WRB the|DT characters|NNS flow|VBP from|IN top|JJ to|TO bottom|VB so|RB life|NN is|VBZ run|VBN vertically|RB with|IN seniority|NN often|RB synonymous|JJ with|IN age|NN </s>|S_END
+<s>|S_START in|IN politics|NNS age|NN is|VBZ no|DT disqualification|NN for|IN high|JJ office|NN the|DT new|JJ cabinet|NN is|VBZ on|IN average|JJ over|IN 60|CD </s>|S_END
+<s>|S_START in|IN business|NN the|DT seniority|NN system|NN is|VBZ entrenched|VBN </s>|S_END
+<s>|S_START even|RB in|IN the|DT home|NN hierarchy|NN starts|VBZ young|JJ there|EX is|VBZ an|DT honorific|JJ for|IN little|JJ brothers|NNS to|TO address|VB their|PRP$ bossy|NN big|JJ sister|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB galling|VBG then|RB for|IN those|DT down|IN the|DT pecking|NN order|NN that|WDT the|DT numbers|NNS of|IN people|NNS at|IN the|DT top|JJ are|VBP rising|VBG so|RB fast|RB </s>|S_END
+<s>|S_START in|IN 2010|CD there|EX will|MD be|VB as|RB many|JJ middleaged|JJ people|NNS of|IN 45|CD and|CC over|IN in|IN japan|NN as|IN there|EX will|MD be|VB people|NNS under|IN 45|CD </s>|S_END
+<s>|S_START that|DT not|RB only|RB means|VBZ more|JJR people|NNS to|TO bow|VB to|TO </s>|S_END
+<s>|S_START it|PRP means|VBZ more|JJR layers|NNS to|TO fight|NN through|IN before|IN promotion|NN and|CC more|JJR pensioners|NNS to|TO support|VB by|IN 2010|CD 4m|CD babyboomers|NNS will|MD have|VB retired|VBN since|IN 2007—roughly|JJ the|DT number|NN of|IN inhabitants|NNS of|IN yokohama|NN japans|NNS secondlargest|VBP city|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT retiring|NN bebi|NN bumu|NN generation|NN has|VBZ reasons|NNS to|TO feel|VB proud|JJ of|IN its|PRP$ achievement|NN </s>|S_END
+<s>|S_START over|IN its|PRP$ lifetime|NN industrialisation|NN has|VBZ transformed|VBN japan|NN and|CC the|DT elderly|JJ have|VBP accumulated|VBN savings|NNS that|IN many|JJ can|MD live|VB off|RP comfortably|RB </s>|S_END
+<s>|S_START but|CC do|VBP they|PRP merit|VB all|PDT the|DT deference|NN they|PRP receive|VBP </s>|S_END
+<s>|S_START in|IN 2010|CD there|EX will|MD be|VB several|JJ alarming|VBG statistics|NNS that|WDT suggest|VBP not|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN one|CD the|DT economy|NN the|DT worlds|NNS secondlargest|VBP since|IN the|DT 1960s|CD has|VBZ lurched|VBN so|RB treacherously|RB that|IN it|PRP will|MD fall|VB behind|IN chinas|NNS in|IN size|NN in|IN 2010|CD see|NN article|NN </s>|S_END
+<s>|S_START that|DT will|MD make|VB it|PRP even|RB more|JJR difficult|JJ to|TO persuade|VB the|DT world|NN that|DT japan|NN matter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT legacy|NN of|IN not|RB one|CD but|CC two|CD lost|VBD decades|NNS has|VBZ saddled|VBN japans|NNS future|JJ generations|NNS with|IN a|DT debt|NN whose|WP$ relative|JJ size|NN is|VBZ unprecedented|VBN in|IN the|DT oecd|NN </s>|S_END
+<s>|S_START that|DT organisation|NN reckons|NNS gross|IN borrowings|NNS will|MD exceed|VB 200|CD of|IN gdp|NN in|IN 2010|CD </s>|S_END
+<s>|S_START the|DT borrowing|NN may|MD be|VB underpinned|VBN by|IN high|JJ savings|NNS but|CC it|PRP has|VBZ not|RB brought|VBN security|NN for|IN japans|NNS growing|VBG number|NN of|IN jobless|NN and|CC poor|JJ people|NNS </s>|S_END
+<s>|S_START after|IN a|DT collapse|NN in|IN the|DT economy|NN in|IN 2009|CD the|DT fiscal|JJ deficit|NN is|VBZ expected|VBN by|IN the|DT oecd|NN to|TO rise|VB to|TO nearly|RB 10|CD in|IN 2010|CD </s>|S_END
+<s>|S_START yet|RB social|JJ spending|NN remains|VBZ low|JJ and|CC the|DT more|RBR people|NNS age|NN the|DT more|RBR it|PRP is|VBZ likely|JJ to|TO increase|VB </s>|S_END
+<s>|S_START ooner|NN or|CC later|JJ the|DT japanese|JJ will|MD realise|VB that|IN a|DT country|NN growing|VBG old|JJ so|IN rapidly|RB can|MD not|RB live|VB so|RB absurdly|RB beyond|IN its|PRP$ mean|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT is|VBZ why|WRB the|DT government|NN of|IN yukio|NN hatoyama|NN which|WDT swept|IN to|TO power|NN in|IN 2009|CD ending|VBG more|JJR than|IN half|PDT a|DT century|NN of|IN almost|RB unbroken|VBN rule|NN by|IN the|DT liberal|JJ democratic|JJ party|NN ldp|NN has|VBZ a|DT devilishly|RB hard|JJ task|NN in|IN its|PRP$ first|JJ year|NN in|IN office|NN </s>|S_END
+<s>|S_START it|PRP was|VBD elected|VBN because|IN the|DT japanese|NNS were|VBD sick|NN of|IN the|DT ldps|NNS crony|VBP capitalism|NN in|IN which|WDT government|NN bureaucrats|VBZ and|CC favoured|VBN industries|NNS carved|VBN up|RP the|DT spoils|NNS of|IN the|DT budget|NN </s>|S_END
+<s>|S_START but|CC as|IN it|PRP seeks|VBZ to|TO rebalance|NN the|DT economy|NN by|IN redirecting|NN privileges|NNS away|RB from|IN the|DT export|NN and|CC construction|NN industries|NNS towards|NNS domestic|JJ firms|NNS it|PRP will|MD need|VB to|TO break|VB some|DT labourmarket|NN and|CC wage|NN rigiditie|NN </s>|S_END
+<s>|S_START it|PRP risks|VBZ temporarily|RB pushing|VBG unemployment|NN higher|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT would|MD be|VB unpalatable|JJ unless|NN there|EX were|VBD a|DT stronger|JJR welfare|NN system|NN and|CC retraining|VBG subsidie|NN </s>|S_END
+<s>|S_START but|CC the|DT money|NN for|IN that|DT must|MD compete|VB with|IN government|NN promises|NNS of|IN support|NN for|IN families|NNS to|TO encourage|VB them|PRP to|TO have|VB more|JJR children|NNS and|CC pension|NN support|NN for|IN the|DT old|JJ </s>|S_END
+<s>|S_START it|PRP is|VBZ not|RB clear|JJ whether|IN in|IN its|PRP$ 2010|CD budget|NN the|DT government|NN will|MD be|VB able|JJ to|TO cut|VB enough|JJ waste|NN to|TO pay|VB for|IN such|JJ largesse|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP japan|VBN needs|VBZ is|VBZ tax|NN reform|NN so|RB that|IN revenues|NNS rise|VBP </s>|S_END
+<s>|S_START but|CC that|DT is|VBZ a|DT nonstarter|NN in|IN 2010|CD </s>|S_END
+<s>|S_START the|DT highlight|NN of|IN the|DT political|JJ calendar|NN is|VBZ an|DT upperhouse|NN election|NN in|IN the|DT summer|NN in|IN which|WDT mr|NN hatoyamas|VBZ democratic|JJ party|NN of|IN japan|NN hopes|VBZ for|IN a|DT majority|NN so|IN that|IN it|PRP can|MD pass|VB legislation|NN in|IN both|DT houses|NNS without|IN coalition|NN partner|NN </s>|S_END
+<s>|S_START to|TO achieve|VB that|IN the|DT danger|NN is|VBZ that|IN the|DT new|JJ government|NN will|MD err|VB on|IN the|DT side|NN of|IN timidity|NN and|CC squander|NN its|PRP$ political|JJ capital|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT government|NN can|MD not|RB right|RB the|DT ship|NN can|MD busine|VB </s>|S_END
+<s>|S_START its|PRP$ flair|NN for|IN innovation|NN and|CC design|NN is|VBZ legendary|JJ in|IN 2010|CD nissan|NN will|MD bring|VB the|DT allelectric|JJ leaf|NN to|TO the|DT streets|NNS of|IN japan|NN and|CC america|VB and|CC it|PRP will|MD warn|VB pedestrians|NNS of|IN its|PRP$ approach|NN with|IN a|DT futuristic|JJ sound|NN reminiscent|NN of|IN the|DT flying|NN cars|NNS in|IN “blade|JJ runner”|NN </s>|S_END
+<s>|S_START there|EX may|MD even|RB be|VB a|DT chance|NN for|IN fresh|JJ thinking|VBG in|IN the|DT monolithic|JJ keidanren|NN business|NN chamber|NN after|IN the|DT election|NN of|IN a|DT new|JJ leader|NN in|IN june|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC business|NN too|RB is|VBZ often|RB a|DT slowmoving|NN gerontocracy|NN hidebound|NN by|IN a|DT reluctance|NN to|TO let|VB creative|JJ individuals|NNS make|VBP quick|JJ decision|NN </s>|S_END
+<s>|S_START it|PRP ought|VBD to|TO pile|VB into|IN china|NN and|CC south|NN korea|NN in|IN 2010|CD given|VBN the|DT decline|NN of|IN the|DT american|JJ consumer|NN market|NN </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ likely|JJ that|IN the|DT government|NN will|MD make|VB the|DT greater|JJR inroad|NN </s>|S_END
+<s>|S_START mr|NN hatoyama|NN has|VBZ reached|VBN out|RP to|TO both|DT countries|NNS and|CC on|IN the|DT 100th|JJ anniversary|NN of|IN japans|NNS occupation|NN of|IN korea|NN in|IN 1910|CD there|EX is|VBZ even|RB an|DT invitation|NN for|IN emperor|NN akihito|NN to|TO visit|VB seoul|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP japan|VBN really|RB needs|VBZ in|IN 2010|CD is|VBZ the|DT sort|NN of|IN onceinageneration|NN change|NN in|IN business|NN management|NN that|IN came|VBD to|TO politics|NNS in|IN 2009|CD that|WDT is|VBZ the|DT realisation|NN that|IN those|DT who|WP make|VBP mistakes|VBZ however|RB senior|JJ can|MD be|VB kicked|VBN out|RP and|CC replaced|VBD by|IN fresh|JJ thinker|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ too|RB much|JJ to|TO hope|VB it|PRP will|MD happen|VB in|IN a|DT year|NN </s>|S_END
+<s>|S_START but|CC it|PRP had|VBD better|RBR start|NN soon|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START henry|NN tricks|NNS bureau|VBP chief|JJ the|DT economist|NN </s>|S_END
+</p>|P_END
+

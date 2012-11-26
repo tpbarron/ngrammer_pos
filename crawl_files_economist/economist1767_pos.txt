@@ -1,0 +1,51 @@
+<p>|P_START
+<s>|S_START call|NN the|DT state|NN national|JJ bank|NN of|IN big|JJ spring|NN texas|NNS and|CC the|DT person|NN answering|VBG says|VBZ the|DT bank|NN is|VBZ happy|JJ to|TO help|VB at|IN any|DT of|IN its|PRP$ three|CD count’em|JJ location|NN </s>|S_END
+<s>|S_START ask|NN for|IN the|DT chief|NN executive|NN jim|NN purcell|NN and|CC there|EX is|VBZ a|DT brief|JJ pause|NN to|TO check|VB where|WRB among|IN the|DT 40|CD employees|NNS he|PRP might|MD be|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START america|NN still|RB has|VBZ thousands|NNS of|IN these|DT tiny|JJ bank|NN </s>|S_END
+<s>|S_START they|PRP provide|VBP funds|NNS and|CC senior|JJ managers|NNS to|TO customers|NNS that|IN may|MD be|VB relegated|VBN to|TO automated|VBN phonehell|NN at|IN bigger|JJR institution|NN </s>|S_END
+<s>|S_START and|CC in|IN the|DT case|NN of|IN mr|NN purcell|NN they|PRP bring|VBG a|DT willingness|NN to|TO take|VB a|DT public|JJ stand|NN against|IN the|DT government|NN that|IN executives|NNS at|IN bigger|JJR banks|NNS generally|RB prefer|VBP to|TO take|VB behind|IN closed|VBN door|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START july|RB 21st|JJ was|VBD the|DT second|JJ anniversary|NN of|IN the|DT doddfrank|NN act|NN the|DT massive|JJ rewrite|NN of|IN america’s|JJ financial|JJ system|NN sold|VBD as|IN an|DT effort|NN to|TO prevent|VB a|DT repeat|NN of|IN the|DT financial|JJ crisi|NN </s>|S_END
+<s>|S_START the|DT birthday|NN came|VBD just|RB after|IN in|IN characteristic|JJ form|NN a|DT rule|NN tied|VBN to|TO doddfrank|VB for|IN mortgage|NN “simplification”|-NONE- was|VBD submitted|VBN by|IN the|DT newly|RB created|VBN consumer|NN financial|JJ protection|NN bureau|NN cfpb|NN it|PRP runs|VBZ to|TO 1099|CD pages|NNS a|DT compliance|NN nightmare|NN for|IN small|JJ banks|NNS and|CC is|VBZ packed|VBN with|IN clauses|NNS that|IN could|MD limit|VB the|DT availability|NN of|IN credit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT heads|NNS of|IN america’s|NNS large|JJ financial|JJ institutions|NNS rail|VBP privately|RB about|IN the|DT costly|JJ and|CC contradictory|NN demands|NNS of|IN the|DT doddfrank|NN act|NN </s>|S_END
+<s>|S_START but|CC their|PRP$ criticism|NN in|IN public|JJ is|VBZ measured|VBN out|RP of|IN fear|NN that|IN it|PRP could|MD prompt|VB retribution|NN by|IN regulators|NNS or|CC make|VB them|PRP fodder|JJR for|IN bankbashing|VBG politician|JJ </s>|S_END
+<s>|S_START it|PRP is|VBZ better|RBR they|PRP say|VBP quietly|RB to|TO lobby|VB for|IN preferential|JJ carveouts|NNS an|DT approach|NN that|WDT may|MD serve|VB their|PRP$ own|JJ interests|NNS but|CC only|RB adds|VBZ to|TO the|DT sense|NN of|IN systemic|JJ unfairne|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START into|IN this|DT mess|NN has|VBZ stepped|VBN mr|NN purcell|NN who|WP notwithstanding|VBG the|DT size|NN of|IN his|PRP$ institution|NN $|$ 260m|CD in|IN deposits|NNS making|VBG it|PRP the|DT 177thlargest|JJS bank|NN in|IN texas|NNS has|VBZ suddenly|RB turned|VBN into|IN a|DT rather|RB important|JJ banker|NN in|IN america|NN </s>|S_END
+<s>|S_START on|IN june|NN 21st|CD his|PRP$ bank|NN became|VBD a|DT plaintiff|NN in|IN a|DT legal|JJ challenge|NN brought|NN with|IN two|CD freemarket|NN entities|NNS in|IN washington|NN dc|NN the|DT competitive|JJ enterprise|NN institute|NN and|CC the|DT 60|CD plus|NN association|NN arguing|VBG that|IN doddfrank|NN is|VBZ unconstitutional|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN purcell’s|NNS business|NN model|NN common|JJ among|IN texas|NNS rural|JJ banks|NNS was|VBD to|TO keep|VB loans|NNS on|IN its|PRP$ books|NNS internalising|VBG both|DT their|PRP$ returns|NNS and|CC their|PRP$ risk|NN </s>|S_END
+<s>|S_START in|IN practice|NN this|DT meant|NN making|VBG small|JJ loans|NNS under|IN $|$ 60000|CD at|IN relatively|RB high|JJ rates|NNS 7|CD because|IN small|JJ loans|NNS suffer|VBP from|IN diseconomies|NNS of|IN scale|NN with|IN short|JJ terms|NNS five|CD years|NNS to|TO protect|VB the|DT bank|NN against|IN interestrate|JJ risk|NN and|CC final|JJ “balloon”|NN payments|NNS that|WDT are|VBP usually|RB rolled|VBN over|IN </s>|S_END
+<s>|S_START this|DT approach|NN differs|NNS radically|RB from|IN that|DT of|IN the|DT major|JJ banks|NNS which|WDT syndicated|VBN mortgages|NNS through|IN fannie|NN mae|NN and|CC freddie|VB mac|NN </s>|S_END
+<s>|S_START the|DT bank|NN has|VBZ not|RB repossessed|VBN a|DT home|NN in|IN seven|CD years|NNS or|CC cost|VB taxpayers|NNS a|DT penny|NN but|CC balloon|NN payments|NNS and|CC high|JJ rates|NNS are|VBP targeted|VBN under|IN doddfrank|NN which|WDT grants|NNS regulators|NNS wide|VBP discretion|NN to|TO decide|VB what|WP is|VBZ “abusive”|-NONE- </s>|S_END
+<s>|S_START mr|NN purcell|VBD has|VBZ stopped|VBN issuing|VBG mortgages|NNS and|CC because|IN of|IN other|JJ doddfrank|NN rules|NNS processing|VBG international|JJ remittance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN a|DT consequence|NN he|PRP concludes|VBZ some|DT good|JJ customers|NNS will|MD go|VB to|TO the|DT giant|JJ governmentbacked|VBN banks|NNS and|CC some|DT poorer|NN customers|NNS may|MD not|RB get|VB credit|NN at|IN all|DT </s>|S_END
+<s>|S_START his|PRP$ lawsuit|NN attacks|NNS two|CD key|JJ entities|NNS created|VBN by|IN doddfrank|NN the|DT cfpb|NN and|CC the|DT financial|JJ stability|NN oversight|NN council|NN a|DT group|NN of|IN government|NN officials|NNS which|WDT can|MD designate|VB which|WDT financial|JJ institutions|NNS are|VBP too|RB big|JJ to|TO fail—and|JJ thus|NN which|WDT will|MD receive|VB government|NN support—with|JJ the|DT attendant|JJ benefit|NN of|IN lower|JJR funding|NN cost|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START each|DT of|IN the|DT entities|NNS was|VBD given|VBN rights|NNS that|WDT may|MD infringe|VB on|IN powers|NNS vested|VBN in|IN at|IN least|JJS one|CD of|IN the|DT three|CD traditional|JJ branches|NNS of|IN american|JJ government|NN and|CC thus|RB to|TO constitutional|JJ checks|NNS on|IN power|NN according|VBG to|TO the|DT plaintiff|NN </s>|S_END
+<s>|S_START they|PRP cite|VBP for|IN example|NN the|DT method|NN the|DT obama|NN administration|NN used|VBD to|TO circumvent|VB senate|JJ approval|NN which|WDT is|VBZ explicitly|RB required|VBN under|IN doddfrank|NN for|IN the|DT appointment|NN of|IN the|DT head|NN of|IN the|DT cfpb|NN and|CC the|DT technique|NN of|IN funding|NN the|DT bureau|NN through|IN mandated|VBN payments|NNS by|IN the|DT fed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT response|NN by|IN the|DT government|NN could|MD come|VB in|IN august|JJ an|DT initial|JJ verdict|NN by|IN the|DT upcoming|VBG election|NN </s>|S_END
+<s>|S_START an|DT eventual|JJ appeal|NN to|TO the|DT supreme|NN court|NN would|MD not|RB be|VB a|DT surprise|NN </s>|S_END
+<s>|S_START mr|NN purcell|VBD faces|NNS obstacles|NNS in|IN his|PRP$ case|NN but|CC its|PRP$ very|JJ existence|NN airs|NNS important|JJ questions|NNS about|IN whether|IN efforts|NNS to|TO make|VB finance|NN safer|NN have|VBP gone|VBN too|RB far|RB </s>|S_END
+</p>|P_END
+

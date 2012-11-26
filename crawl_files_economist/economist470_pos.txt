@@ -1,0 +1,196 @@
+<p>|P_START
+<s>|S_START in|IN 1879|CD james|NNS ritty|RB a|DT saloonkeeper|NN in|IN dayton|NN ohio|NN received|VBD a|DT patent|NN for|IN a|DT wooden|NN contraption|NN that|WDT he|PRP dubbed|VBD the|DT “incorruptible|JJ cashier”|NN </s>|S_END
+<s>|S_START with|IN a|DT set|NN of|IN buttons|NNS and|CC a|DT loud|NN bell|NN the|DT device|NN sold|VBD by|IN national|JJ cash|NN register|NN ncr|NN was|VBD little|JJ more|JJR than|IN a|DT simple|JJ adding|NN machine|NN </s>|S_END
+<s>|S_START yet|RB as|IN an|DT early|JJ form|NN of|IN managing|VBG information|NN flows|NNS in|IN american|JJ business|NN the|DT cash|NN register|NN had|VBD a|DT huge|JJ impact|NN </s>|S_END
+<s>|S_START it|PRP not|RB only|RB reduced|VBN pilferage|NN by|IN alerting|NN the|DT shopkeeper|NN when|WRB the|DT till|NN was|VBD opened|VBN by|IN recording|NN every|DT transaction|NN it|PRP also|RB provided|VBD an|DT instant|JJ overview|NN of|IN what|WP was|VBD happening|VBG in|IN the|DT busine|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ales|NNS data|VBP remain|NN one|CD of|IN a|DT companys|NNS most|JJS important|JJ asset|NN </s>|S_END
+<s>|S_START in|IN 2004|CD walmart|NN peered|VBD into|IN its|PRP$ mammoth|JJ databases|NNS and|CC noticed|VBD that|IN before|IN a|DT hurricane|NN struck|NN there|EX was|VBD a|DT run|NN on|IN flashlights|NNS and|CC batteries|NNS as|IN might|MD be|VB expected|VBN but|CC also|RB on|IN poptarts|NNS a|DT sugary|JJ american|NN breakfast|NN snack|NN </s>|S_END
+<s>|S_START on|IN reflection|NN it|PRP is|VBZ clear|JJ that|IN the|DT snack|NN would|MD be|VB a|DT handy|NN thing|NN to|TO eat|VB in|IN a|DT blackout|NN but|CC the|DT retailer|NN would|MD not|RB have|VB thought|VBN to|TO stock|NN up|IN on|IN it|PRP before|IN a|DT storm|NN </s>|S_END
+<s>|S_START the|DT company|NN whose|WP$ system|NN crunched|VBD walmarts|NNS numbers|NNS was|VBD none|NN other|JJ than|IN ncr|NN and|CC its|PRP$ datawarehousing|NN unit|NN teradata|NN now|RB an|DT independent|JJ firm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT few|JJ years|NNS ago|RB such|JJ technologies|NNS called|VBN “business|JJ intelligence”|NN were|VBD available|JJ only|RB to|TO the|DT worlds|NNS biggest|JJS companie|NN </s>|S_END
+<s>|S_START but|CC as|IN the|DT price|NN of|IN computing|VBG and|CC storage|NN has|VBZ fallen|VBN and|CC the|DT software|NN systems|NNS have|VBP got|VBN better|RBR and|CC cheaper|JJR the|DT technology|NN has|VBZ moved|VBN into|IN the|DT mainstream|NN </s>|S_END
+<s>|S_START companies|NNS are|VBP collecting|VBG more|JJR data|NNS than|IN ever|RB before|IN </s>|S_END
+<s>|S_START in|IN the|DT past|JJ they|PRP were|VBD kept|VBN in|IN different|JJ systems|NNS that|WDT were|VBD unable|JJ to|TO talk|VB to|TO each|DT other|JJ such|JJ as|IN finance|NN human|NN resources|NNS or|CC customer|NN management|NN </s>|S_END
+<s>|S_START now|RB the|DT systems|NNS are|VBP being|VBG linked|VBN and|CC companies|NNS are|VBP using|VBG datamining|VBG techniques|NNS to|TO get|VB a|DT complete|JJ picture|NN of|IN their|PRP$ operations—“a|JJ single|JJ version|NN of|IN the|DT truth”|JJ as|IN the|DT industry|NN likes|VBZ to|TO call|VB it|PRP </s>|S_END
+<s>|S_START that|DT allows|VBZ firms|NNS to|TO operate|VB more|JJR efficiently|RB pick|JJ out|IN trends|NNS and|CC improve|VB their|PRP$ forecasting|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START consider|NN cablecom|NN a|DT swiss|NN telecoms|NNS operator|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ reduced|VBN customer|NN defections|NNS from|IN onefifth|JJ of|IN subscribers|NNS a|DT year|NN to|TO under|IN 5|CD by|IN crunching|NN its|PRP$ number|NN </s>|S_END
+<s>|S_START its|PRP$ software|NN spotted|VBD that|IN although|IN customer|NN defections|NNS peaked|VBD in|IN the|DT 13th|JJ month|NN the|DT decision|NN to|TO leave|VB was|VBD made|VBN much|RB earlier|JJR around|IN the|DT ninth|NN month|NN as|IN indicated|JJ by|IN things|NNS like|IN the|DT number|NN of|IN calls|NNS to|TO customer|NN support|NN service|NN </s>|S_END
+<s>|S_START o|NN cablecom|NN offered|VBD certain|JJ customers|NNS special|JJ deals|NNS seven|CD months|NNS into|IN their|PRP$ subscription|NN and|CC reaped|VBD the|DT reward|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START agony|NN and|CC torture|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uch|JJ datamining|NN has|VBZ a|DT dubious|JJ reputation|NN </s>|S_END
+<s>|S_START “torture|JJ the|DT data|NNS long|RB enough|RB and|CC they|PRP will|MD confess|VB to|TO anything”|VB statisticians|NNS quip|VB </s>|S_END
+<s>|S_START but|CC it|PRP has|VBZ become|VBN far|RB more|RBR effective|JJ as|IN more|JJR companies|NNS have|VBP started|VBN to|TO use|VB the|DT technology|NN </s>|S_END
+<s>|S_START best|JJS buy|NN a|DT retailer|NN found|VBD that|IN 7|CD of|IN its|PRP$ customers|NNS accounted|VBN for|IN 43|CD of|IN its|PRP$ sales|NNS so|IN it|PRP reorganised|VBD its|PRP$ stores|NNS to|TO concentrate|VB on|IN those|DT customers|NNS need|VBP </s>|S_END
+<s>|S_START airline|NN yield|VBD management|NN improved|VBN because|IN analytical|JJ techniques|NNS uncovered|VBN the|DT best|JJS predictor|NN that|WDT a|DT passenger|NN would|MD actually|RB catch|VB a|DT flight|NN he|PRP had|VBD booked|VBN that|IN he|PRP had|VBD ordered|VBN a|DT vegetarian|JJ meal|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT it|PRP industry|NN is|VBZ piling|VBG into|IN business|NN intelligence|NN seeing|VBG it|PRP as|IN a|DT natural|JJ successor|NN of|IN services|NNS such|JJ as|IN accountancy|NN and|CC computing|VBG in|IN the|DT first|JJ and|CC second|JJ half|DT of|IN the|DT 20th|JJ century|NN respectively|RB </s>|S_END
+<s>|S_START accenture|NN pricewaterhousecoopers|NNS ibm|VBP and|CC sap|NN are|VBP investing|VBG heavily|RB in|IN their|PRP$ consulting|NN practice|NN </s>|S_END
+<s>|S_START technology|NN vendors|NNS such|JJ as|IN oracle|NN informatica|NN tibco|NN sas|NNS and|CC emc|NN have|VBP benefited|VBN </s>|S_END
+<s>|S_START ibm|NN believes|NNS business|NN intelligence|NN will|MD be|VB a|DT pillar|JJ of|IN its|PRP$ growth|NN as|IN sensors|NNS are|VBP used|VBN to|TO manage|NN things|NNS from|IN a|DT citys|NNS traffic|JJ flow|NN to|TO a|DT patients|NNS blood|NN flow|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ invested|VBN $|$ 12|CD billion|CD in|IN the|DT past|JJ four|CD years|NNS and|CC is|VBZ opening|VBG six|CD analytics|NNS centres|NNS with|IN 4000|CD employees|NNS worldwide|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START analytics—performing|JJ statistical|JJ operations|NNS for|IN forecasting|VBG or|CC uncovering|VBG correlations|NNS such|JJ as|IN between|IN poptarts|NNS and|CC hurricanes—can|JJ have|VBP a|DT big|JJ payoff|NN </s>|S_END
+<s>|S_START in|IN britain|NN the|DT royal|NN shakespeare|NN company|NN rsc|NN sifted|VBD through|IN seven|CD years|NNS of|IN sales|NNS data|NNS for|IN a|DT marketing|NN campaign|NN that|WDT increased|VBD regular|JJ visitors|NNS by|IN 70|CD </s>|S_END
+<s>|S_START by|IN examining|NN more|JJR than|IN 2m|CD transaction|NN records|NNS the|DT rsc|NN discovered|VBD a|DT lot|NN more|RBR about|IN its|PRP$ best|JJS customers|NNS not|RB just|RB income|NN but|CC things|NNS like|IN occupation|NN and|CC family|NN status|NN which|WDT allowed|VBN it|PRP to|TO target|VB its|PRP$ marketing|NN more|JJR precisely|RB </s>|S_END
+<s>|S_START that|DT was|VBD of|IN crucial|JJ importance|NN says|VBZ the|DT rscs|NNS mary|JJ butlin|NN because|IN it|PRP substantially|RB boosted|VBD membership|NN as|IN well|RB as|IN fundraising|VBG revenue|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB making|VBG the|DT most|JJS of|IN data|NNS is|VBZ not|RB easy|JJ </s>|S_END
+<s>|S_START the|DT first|JJ step|NN is|VBZ to|TO improve|VB the|DT accuracy|NN of|IN the|DT information|NN </s>|S_END
+<s>|S_START nestlé|NN for|IN example|NN sells|NNS more|RBR than|IN 100000|CD products|NNS in|IN 200|CD countries|NNS using|VBG 550000|CD suppliers|NNS but|CC it|PRP was|VBD not|RB using|VBG its|PRP$ huge|JJ buying|NN power|NN effectively|RB because|IN its|PRP$ databases|NNS were|VBD a|DT me|NN </s>|S_END
+<s>|S_START on|IN examination|NN it|PRP found|VBD that|IN of|IN its|PRP$ 9m|CD records|NNS of|IN vendors|NNS customers|NNS and|CC materials|NNS around|IN half|DT were|VBD obsolete|JJ or|CC duplicated|VBN and|CC of|IN the|DT remainder|NN about|IN onethird|JJ were|VBD inaccurate|JJ or|CC incomplete|JJ </s>|S_END
+<s>|S_START the|DT name|NN of|IN a|DT vendor|NN might|MD be|VB abbreviated|VBN in|IN one|CD record|NN but|CC spelled|VBD out|RP in|IN another|DT leading|VBG to|TO doublecounting|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START plainer|NN vanilla|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START over|IN the|DT past|JJ ten|NN years|NNS nestlé|-NONE- has|VBZ been|VBN overhauling|VBG its|PRP$ it|PRP system|NN using|VBG sap|NN software|NN and|CC improving|VBG the|DT quality|NN of|IN its|PRP$ data|NNS </s>|S_END
+<s>|S_START this|DT enabled|VBN the|DT firm|NN to|TO become|VB more|JJR efficient|JJ says|NNS chris|VBZ johnson|NN who|WP led|VBN the|DT initiative|JJ </s>|S_END
+<s>|S_START for|IN just|RB one|CD ingredient|NN vanilla|NN its|PRP$ american|JJ operation|NN was|VBD able|JJ to|TO reduce|VB the|DT number|NN of|IN specifications|NNS and|CC use|VB fewer|JJR suppliers|NNS saving|VBG $|$ 30m|CD a|DT year|NN </s>|S_END
+<s>|S_START overall|JJ such|JJ operational|JJ improvements|NNS save|VBP more|JJR than|IN $|$ 1|CD billion|CD annually|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nestlé|NN is|VBZ not|RB alone|RB in|IN having|VBG problems|NNS with|IN its|PRP$ database|NN </s>|S_END
+<s>|S_START most|JJS cios|NNS admit|VBP that|IN their|PRP$ data|NNS are|VBP of|IN poor|JJ quality|NN </s>|S_END
+<s>|S_START in|IN a|DT study|NN by|IN ibm|NN half|NN the|DT managers|NNS quizzed|VBD did|VBD not|RB trust|VB the|DT information|NN on|IN which|WDT they|PRP had|VBD to|TO base|VB decision|NN </s>|S_END
+<s>|S_START many|JJ say|VBP that|IN the|DT technology|NN meant|VBD to|TO make|VB sense|NN of|IN it|PRP often|RB just|RB produces|VBZ more|JJR data|NNS </s>|S_END
+<s>|S_START instead|RB of|IN finding|NN a|DT needle|NN in|IN the|DT haystack|NN they|PRP are|VBP making|VBG more|JJR hay|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START till|NN as|IN analytical|JJ techniques|NNS become|VBP more|RBR widespread|JJ business|NN decisions|NNS will|MD increasingly|RB be|VB made|VBN or|CC at|IN least|JJS corroborated|VBN on|IN the|DT basis|NN of|IN computer|NN algorithms|NNS rather|RB than|IN individual|JJ hunche|NN </s>|S_END
+<s>|S_START this|DT creates|VBZ a|DT need|NN for|IN managers|NNS who|WP are|VBP comfortable|JJ with|IN data|NNS but|CC statistics|NNS courses|NNS in|IN business|NN schools|NNS are|VBP not|RB popular|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ new|JJ business|NN insights|NNS come|VBP from|IN “dead|JJ data”|NN stored|VBD information|NN about|IN past|JJ transactions|NNS that|WDT are|VBP examined|VBN to|TO reveal|VB hidden|VBN correlation|NN </s>|S_END
+<s>|S_START but|CC now|RB companies|NNS are|VBP increasingly|RB moving|VBG to|TO analysing|VBG realtime|NN information|NN flow|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START walmart|NN is|VBZ a|DT good|JJ example|NN </s>|S_END
+<s>|S_START the|DT retailer|NN operates|VBZ 8400|CD stores|NNS worldwide|VBP has|VBZ more|JJR than|IN 2m|CD employees|NNS and|CC handles|NNS over|IN 200m|CD customer|NN transactions|NNS each|DT week|NN </s>|S_END
+<s>|S_START its|PRP$ revenue|NN last|JJ year|NN around|IN $|$ 400|CD billion|CD is|VBZ more|RBR than|IN the|DT gdp|NN of|IN many|JJ entire|JJ countrie|NN </s>|S_END
+<s>|S_START the|DT sheer|NN scale|NN of|IN the|DT data|NNS is|VBZ a|DT challenge|NN admits|VBZ rollin|NN ford|NN the|DT cio|NN at|IN walmarts|NNS headquarters|NNS in|IN bentonville|NN arkansa|NN </s>|S_END
+<s>|S_START “we|JJ keep|NN a|DT healthy|JJ paranoia”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START not|RB a|DT sparrow|NN fall|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START walmarts|NNS inventorymanagement|VBD system|NN called|VBN retail|NN link|NN enables|VBZ suppliers|NNS to|TO see|VB the|DT exact|JJ number|NN of|IN their|PRP$ products|NNS on|IN every|DT shelf|NN of|IN every|DT store|NN at|IN that|DT precise|NN moment|NN </s>|S_END
+<s>|S_START the|DT system|NN shows|VBZ the|DT rate|NN of|IN sales|NNS by|IN the|DT hour|NN by|IN the|DT day|NN over|IN the|DT past|JJ year|NN and|CC more|JJR </s>|S_END
+<s>|S_START begun|NN in|IN the|DT 1990s|NNS retail|VBP link|NN gives|NNS suppliers|NNS a|DT complete|JJ overview|NN of|IN when|WRB and|CC how|WRB their|PRP$ products|NNS are|VBP selling|VBG and|CC with|IN what|WP other|JJ products|NNS in|IN the|DT shopping|NN cart|NN </s>|S_END
+<s>|S_START this|DT lets|NNS suppliers|NNS manage|VBP their|PRP$ stocks|NNS better|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT technology|NN enabled|VBD walmart|NN to|TO change|VB the|DT business|NN model|NN of|IN retailing|NN </s>|S_END
+<s>|S_START in|IN some|DT cases|NNS it|PRP leaves|VBZ stock|NN management|NN in|IN the|DT hands|NNS of|IN its|PRP$ suppliers|NNS and|CC does|VBZ not|RB take|VB ownership|NN of|IN the|DT products|NNS until|IN the|DT moment|NN they|PRP are|VBP sold|VBN </s>|S_END
+<s>|S_START this|DT allows|VBZ it|PRP to|TO shed|VBD inventory|NN risk|NN and|CC reduce|VB its|PRP$ cost|NN </s>|S_END
+<s>|S_START in|IN essence|NN the|DT shelves|NNS in|IN its|PRP$ shops|NNS are|VBP a|DT highly|RB efficiently|RB managed|VBN depot|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT company|NN that|WDT capitalises|VBZ on|IN realtime|NN information|NN flows|VBZ is|VBZ li|NN fung|NN one|CD of|IN the|DT worlds|NNS biggest|JJS supplychain|NN operator|NN </s>|S_END
+<s>|S_START founded|VBD in|IN guangzhou|NN in|IN southern|NN china|NN a|DT century|NN ago|IN it|PRP does|VBZ not|RB own|VB any|DT factories|NNS or|CC equipment|NN but|CC orchestrates|VBZ a|DT network|NN of|IN 12000|CD suppliers|NNS in|IN 40|CD countries|NNS sourcing|VBG goods|NNS for|IN brands|NNS ranging|VBG from|IN kate|JJ spade|NN to|TO walt|VB disney|NN </s>|S_END
+<s>|S_START its|PRP$ turnover|NN in|IN 2008|CD was|VBD $|$ 14|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START li|NN fung|VBD used|VBN to|TO deal|VB with|IN its|PRP$ clients|NNS mostly|RB by|IN phone|NN and|CC fax|NN with|IN email|NN counting|VBG as|IN high|JJ technology|NN </s>|S_END
+<s>|S_START but|CC thanks|NNS to|TO a|DT new|JJ webservices|NNS platform|NN its|PRP$ processes|NNS have|VBP speeded|VBN up|RP </s>|S_END
+<s>|S_START orders|NNS flow|VBP through|IN a|DT web|NN portal|NN and|CC bids|NNS can|MD be|VB solicited|VBN from|IN prequalified|JJ supplier|NN </s>|S_END
+<s>|S_START agents|NNS now|RB audit|NN factories|NNS in|IN real|JJ time|NN with|IN handheld|NN computer|NN </s>|S_END
+<s>|S_START clients|NNS are|VBP able|JJ to|TO monitor|NN the|DT details|NNS of|IN every|DT stage|NN of|IN an|DT order|NN from|IN the|DT initial|JJ production|NN run|VBN to|TO shipping|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD of|IN the|DT most|RBS important|JJ technologies|NNS has|VBZ turned|VBN out|RP to|TO be|VB videoconferencing|VBG </s>|S_END
+<s>|S_START it|PRP allows|VBZ buyers|NNS and|CC manufacturers|NNS to|TO examine|VB the|DT colour|NN of|IN a|DT material|NN or|CC the|DT stitching|NN on|IN a|DT garment|NN </s>|S_END
+<s>|S_START “before|JJ we|PRP werent|VBP able|JJ to|TO send|VB a|DT 500mb|CD image—wed|JJ post|NN a|DT dvd|NN </s>|S_END
+<s>|S_START now|RB we|PRP can|MD stream|VB it|PRP to|TO show|VB vendors|NNS in|IN our|PRP$ office|NN </s>|S_END
+<s>|S_START with|IN realtime|JJ images|NNS we|PRP can|MD make|VB changes|NNS quicker”|-NONE- says|VBZ manuel|NN fernandez|NN li|NN fungs|NNS chief|NN technology|NN officer|NN </s>|S_END
+<s>|S_START data|NNS flowing|VBG through|IN its|PRP$ network|NN soared|VBD from|IN 100|CD gigabytes|NNS a|DT day|NN only|RB 18|CD months|NNS ago|RB to|TO 1|CD terabyte|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT information|NN system|NN also|RB allows|VBZ li|NN fung|NN to|TO look|VB across|RP its|PRP$ operations|NNS to|TO identify|VB trend|NN </s>|S_END
+<s>|S_START in|IN southern|NN china|NN for|IN instance|NN a|DT shortage|NN of|IN workers|NNS and|CC new|JJ legislation|NN raised|VBN labour|PRP$ costs|NNS so|RB production|NN moved|VBD north|JJ </s>|S_END
+<s>|S_START “we|JJ saw|NN that|WDT before|IN it|PRP actually|RB happened”|-NONE- says|VBZ mr|NN fernandez|NN </s>|S_END
+<s>|S_START the|DT company|NN also|RB got|VBD advance|NN warning|VBG of|IN the|DT economic|JJ crisis|NN and|CC later|JJ the|DT recovery|NN from|IN retailers|NNS orders|NNS before|IN these|DT trends|NNS became|VBD apparent|JJ </s>|S_END
+<s>|S_START investment|NN analysts|NNS use|VBP country|NN information|NN provided|VBD by|IN li|NN fung|IN to|TO gain|VB insights|NNS into|IN macroeconomic|JJ pattern|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START now|RB that|DT they|PRP are|VBP able|JJ to|TO process|NN information|NN flows|VBZ in|IN real|JJ time|NN organisations|NNS are|VBP collecting|VBG more|JJR data|NNS than|IN ever|RB </s>|S_END
+<s>|S_START one|CD use|NN for|IN such|JJ information|NN is|VBZ to|TO forecast|VB when|WRB machines|NNS will|MD break|VB down|IN </s>|S_END
+<s>|S_START this|DT hardly|RB ever|RB happens|VBZ out|RP of|IN the|DT blue|JJ there|EX are|VBP usually|RB warning|VBG signs|NNS such|JJ as|IN noise|NN vibration|NN or|CC heat|VB </s>|S_END
+<s>|S_START capturing|VBG such|JJ data|NNS enables|VBZ firms|NNS to|TO act|VB before|IN a|DT breakdown|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START imilarly|RB the|DT use|NN of|IN “predictive|JJ analytics”|NN on|IN the|DT basis|NN of|IN large|JJ data|NNS sets|NNS may|MD transform|VB health|NN care|NN </s>|S_END
+<s>|S_START dr|NN carolyn|NN mcgregor|NN of|IN the|DT university|NN of|IN ontario|NN working|VBG with|IN ibm|NN conducts|NNS research|NN to|TO spot|VB potentially|RB fatal|JJ infections|NNS in|IN premature|NN babie|NN </s>|S_END
+<s>|S_START the|DT system|NN monitors|NNS subtle|VBP changes|NNS in|IN seven|CD streams|NNS of|IN realtime|NN data|NNS such|JJ as|IN respiration|NN heart|NN rate|NN and|CC blood|NN pressure|NN </s>|S_END
+<s>|S_START the|DT electrocardiogram|NN alone|NN generates|VBZ 1000|CD readings|NNS per|IN second|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT kind|NN of|IN information|NN is|VBZ turned|VBN out|RP by|IN all|DT medical|JJ equipment|NN but|CC it|PRP used|VBD to|TO be|VB recorded|VBN on|IN paper|NN and|CC examined|VBD perhaps|RB once|RB an|DT hour|NN </s>|S_END
+<s>|S_START by|IN feeding|NN the|DT data|NNS into|IN a|DT computer|NN dr|NN mcgregor|NN has|VBZ been|VBN able|JJ to|TO detect|VB the|DT onset|NN of|IN an|DT infection|NN before|IN obvious|JJ symptoms|NNS emerge|VBP </s>|S_END
+<s>|S_START “you|PRP cant|VBD see|VB it|PRP with|IN the|DT naked|VBN eye|NN but|CC a|DT computer|NN can”|NN she|PRP say|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START open|JJ sesame|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START two|CD technology|NN trends|NNS are|VBP helping|VBG to|TO fuel|VB these|DT new|JJ uses|NNS of|IN data|NNS cloud|VBP computing|VBG and|CC opensource|NN software|NN </s>|S_END
+<s>|S_START cloud|NN computing—in|NN which|WDT the|DT internet|NN is|VBZ used|VBN as|RB a|DT platform|NN to|TO collect|VB store|NN and|CC process|NN data—allows|NNS businesses|NNS to|TO lease|VB computing|NN power|NN as|IN and|CC when|WRB they|PRP need|VBP it|PRP rather|RB than|IN having|VBG to|TO buy|VB expensive|JJ equipment|NN </s>|S_END
+<s>|S_START amazon|NN google|NN and|CC microsoft|NN are|VBP the|DT most|RBS prominent|JJ firms|NNS to|TO make|VB their|PRP$ massive|JJ computing|NN infrastructure|NN available|JJ to|TO client|NN </s>|S_END
+<s>|S_START as|IN more|JJR corporate|JJ functions|NNS such|JJ as|IN human|JJ resources|NNS or|CC sales|NNS are|VBP managed|VBN over|IN a|DT network|NN companies|NNS can|MD see|VB patterns|NNS across|IN the|DT whole|JJ of|IN the|DT business|NN and|CC share|NN their|PRP$ information|NN more|JJR easily|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT free|JJ programming|NN language|NN called|VBN r|NN lets|NNS companies|NNS examine|VBP and|CC present|NN big|JJ data|NNS sets|NNS and|CC free|JJ software|NN called|VBN hadoop|NN now|RB allows|VBZ ordinary|JJ pcs|NNS to|TO analyse|VB huge|JJ quantities|NNS of|IN data|NNS that|WDT previously|RB required|VBD a|DT supercomputer|NN </s>|S_END
+<s>|S_START it|PRP does|VBZ this|DT by|IN parcelling|NN out|IN the|DT tasks|NNS to|TO numerous|JJ computers|NNS at|IN once|RB </s>|S_END
+<s>|S_START this|DT saves|NNS time|NN and|CC money|NN </s>|S_END
+<s>|S_START for|IN example|NN the|DT new|JJ york|NN times|NNS a|DT few|JJ years|NNS ago|RB used|VBD cloud|VBN computing|NN and|CC hadoop|VB to|TO convert|VB over|IN 400000|CD scanned|VBN images|NNS from|IN its|PRP$ archives|NNS from|IN 1851|CD to|TO 1922|CD </s>|S_END
+<s>|S_START by|IN harnessing|NN the|DT power|NN of|IN hundreds|NNS of|IN computers|NNS it|PRP was|VBD able|JJ to|TO do|VB the|DT job|NN in|IN 36|CD hour|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START visa|NN a|DT creditcard|NN company|NN in|IN a|DT recent|JJ trial|NN with|IN hadoop|NN crunched|VBD two|CD years|NNS of|IN test|NN records|NNS or|CC 73|CD billion|CD transactions|NNS amounting|VBG to|TO 36|CD terabytes|NNS of|IN data|NNS </s>|S_END
+<s>|S_START the|DT processing|NN time|NN fell|VBD from|IN one|CD month|NN with|IN traditional|JJ methods|NNS to|TO a|DT mere|JJ 13|CD minute|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ a|DT striking|JJ successor|NN of|IN rittys|NNS incorruptible|JJ cashier|NN for|IN a|DT datadriven|NN age|NN </s>|S_END
+</p>|P_END
+

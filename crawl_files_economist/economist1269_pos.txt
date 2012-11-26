@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 14|CD gdp|NN $|$ 521bn|CD ppp|CD $|$ 439bn|CD inflation|NN 26|CD population|NN 107m|CD gdp|NN per|IN head|NN $|$ 48890|CD ppp|CD $|$ 41260|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START like|IN a|DT marriage|NN with|IN kids|NNS the|DT difficulties|NNS of|IN separation|NN may|MD be|VB the|DT only|JJ thing|NN keeping|VBG belgiums|NNS flemishspeakers|NNS and|CC francophones|NNS together|RB </s>|S_END
+<s>|S_START if|IN agreement|NN on|IN a|DT new|JJ government|NN can|MD not|RB be|VB reached—and|JJ none|NN has|VBZ emerged|VBN since|IN elections|NNS in|IN june|NN 2010—big|JJ issues|NNS such|JJ as|IN dealing|NN with|IN europes|NNS thirdlargest|VBP foreign|JJ debt|NN burden|NN will|MD also|RB remain|VB unresolved|VBN </s>|S_END
+<s>|S_START the|DT economy|NN will|MD stutter|VB and|CC the|DT fiscal|JJ deficit|NN will|MD close|VB just|RB a|DT bit|NN </s>|S_END
+</p>|P_END
+

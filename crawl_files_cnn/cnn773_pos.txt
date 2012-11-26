@@ -1,0 +1,70 @@
+<p>|P_START
+<s>|S_START yahoo|RB is|VBZ paying|VBG lavishly|RB for|IN marissa|NN mayer|NN its|PRP$ fourth|JJ ceo|NN in|IN as|IN many|JJ years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN yahoo|NN coughed|VBD up|RP a|DT lot|NN of|IN cash|NN to|TO land|VB its|PRP$ hotshot|NN new|JJ ceo|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START marissa|NN mayers|NNS compensation|NN package|NN could|MD be|VB worth|JJ an|DT eyepopping|NN $|$ 71|CD million|CD over|IN the|DT next|JJ five|CD years|NNS according|VBG to|TO regulatory|JJ documents|NNS yahoo|RB filed|VBN on|IN thursday|NN and|CC it|PRP would|MD top|VB $|$ 120|CD million|CD if|IN an|DT extra|JJ batch|NN of|IN stock|NN grants|NNS that|WDT she|PRP is|VBZ eligible|JJ for|IN comes|NNS through|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mayers|NNS pay|VBP package|NN is|VBZ by|IN far|RB the|DT most|RBS lavish|JJ that|IN the|DT company|NN has|VBZ offered|VBN to|TO its|PRP$ recent|JJ string|NN of|IN ceos|NNS </s>|S_END
+<s>|S_START on|IN top|JJ of|IN a|DT $|$ 1|CD million|CD annual|JJ salary|NN and|CC $|$ 2|CD million|CD target|NN bonus|NN the|DT deal|NN includes|VBZ a|DT rich|JJ combination|NN of|IN stock|NN grants|NNS and|CC options|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mayer|NN is|VBZ getting|VBG a|DT stock|NN grant|NN valued|VBN at|IN $|$ 14|CD million|CD to|TO compensate|VB her|PRP$ for|IN the|DT google|NN pay|NN she|PRP left|VBD behind|IN when|WRB she|PRP resigned|VBD from|IN her|PRP$ previous|JJ employer|NN on|IN monday|NN </s>|S_END
+<s>|S_START those|DT shares|NNS will|MD vest|VB in|IN stages|NNS through|IN 2014|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yahoo|RB also|RB gave|VBD mayer|NN a|DT onetime|NN $|$ 30|CD million|CD retention|NN award|NN that|WDT will|MD vest|VB gradually|RB over|IN the|DT next|JJ five|CD years|NNS </s>|S_END
+<s>|S_START half|NN of|IN the|DT award|NN will|MD be|VB a|DT straight|JJ stock|NN grant|NN the|DT other|JJ half|NN will|MD be|VB stock|NN options|NNS with|IN performancebased|VBN vesting|VBG criteria|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mayer|NN also|RB netted|VBD an|DT equity|NN award|NN worth|NN an|DT additional|JJ $|$ 12|CD million|CD in|IN stock|NN and|CC options|NNS </s>|S_END
+<s>|S_START that|DT award|NN will|MD vest|VB over|IN the|DT next|JJ three|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START adding|VBG all|DT of|IN those|DT equity|NN awards|NNS together|RB plus|RB the|DT $|$ 15|CD million|CD in|IN salary|JJ and|CC bonus|NN that|IN she|PRP stands|VBZ to|TO collect|VB over|IN the|DT next|JJ five|CD years|NNS puts|NNS mayers|NNS total|VBP package|NN at|IN roughly|RB $|$ 71|CD million|CD although|IN its|PRP$ actual|JJ value|NN will|MD depend|VB heavily|RB on|IN how|WRB yahoos|NNS stock|NN fares|NNS and|CC whether|IN mayer|NN hits|NNS her|PRP$ performance|NN goals|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START her|PRP$ real|JJ payout|NN could|MD be|VB significant|JJ higher|JJR </s>|S_END
+<s>|S_START mayer|NN will|MD be|VB eligible|JJ for|IN additional|JJ equity|NN grants|NNS each|DT year|NN which|WDT yahoo|RB envisions|VBZ will|MD be|VB not|RB less|JJR than|IN the|DT $|$ 12|CD million|CD she|PRP stands|VBZ to|TO collect|VB for|IN 2012|CD </s>|S_END
+<s>|S_START the|DT size|NN of|IN those|DT annual|JJ grants|NNS will|MD be|VB subject|JJ to|TO the|DT boards|NNS evaluation|NN of|IN mayers|NNS performance|NN and|CC current|JJ market|NN compensatory|NN levels|NNS and|CC practices|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yahoo|RB has|VBZ a|DT history|NN of|IN being|VBG generous|JJ to|TO its|PRP$ long|JJ string|NN of|IN incoming|VBG ceos|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START scott|NN thompson|NN who|WP lasted|VBN a|DT mere|JJ four|CD months|NNS got|VBD a|DT $|$ 1|CD million|CD annual|JJ salary|NN and|CC incentives|NNS that|WDT could|MD have|VB pushed|VBN the|DT value|NN of|IN his|PRP$ firstyear|NN pay|NN package|NN as|IN high|JJ as|IN $|$ 26|CD million|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START instead|RB thompson|VBD left|VBN with|IN no|DT severance|NN after|IN a|DT scandal|NN over|IN his|PRP$ embellished|JJ educational|JJ credentials|NNS </s>|S_END
+<s>|S_START he|PRP was|VBD able|JJ to|TO keep|VB around|IN $|$ 7|CD million|CD in|IN cash|NN and|CC stock|NN grants|NNS that|WDT yahoo|RB yhoo|VBP fortune|NN 500|CD had|VBD already|RB made|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yahoo|RB also|RB paid|VBD out|RP $|$ 3|CD million|CD last|JJ year|NN in|IN severance|NN to|TO carol|NN bartz|NN the|DT ceo|NN whom|WP yahoos|NNS board|VBP fired|VBN in|IN september|NN </s>|S_END
+<s>|S_START bartzs|NNS deal|VBP included|VBN accelerated|VBN vesting|NN on|IN stock|NN grants|NNS and|CC options|NNS that|WDT are|VBP worth|IN millions|NNS more|RBR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mayer|NN already|RB made|VBN a|DT fortune|NN from|IN her|PRP$ time|NN at|IN google|JJ goog|NN fortune|NN 500|CD </s>|S_END
+<s>|S_START as|IN one|CD of|IN the|DT search|NN giants|NNS first|RB employees|NNS she|PRP scored|VBD big|JJ when|WRB the|DT company|NN went|VBD public|JJ and|CC has|VBZ a|DT net|NN worth|NN that|WDT is|VBZ frequently|RB estimated|VBN to|TO be|VB in|IN the|DT $|$ 300|CD million|CD range|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START she|PRP bought|VBD a|DT few|JJ splashy|JJ toys|NNS with|IN that|DT money|NN including|VBG a|DT $|$ 5|CD million|CD penthouse|NN atop|NN san|NN franciscos|NNS four|CD seasons|NNS hotel|NN with|IN a|DT custom|NN dale|NN chihuly|RB glass|NN installation|NN covering|VBG the|DT ceiling|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

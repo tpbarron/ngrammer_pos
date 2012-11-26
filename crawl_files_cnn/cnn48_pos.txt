@@ -1,0 +1,95 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN in|IN the|DT aftermath|NN of|IN superstorm|NN sandy|NN gas|NN prices|NNS are|VBP expected|VBN to|TO rise|VB a|DT bit|NN but|CC it|PRP probably|RB wont|VBP last|JJ long|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT storm|NN is|VBZ causing|VBG ripples|NNS in|IN gas|NN supply|NN chains|VBZ but|CC at|IN this|DT point|NN they|PRP seem|VBP to|TO be|VB minimal|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN the|DT plus|NN side|NN the|DT northeasts|NNS largest|JJS refinery|NN is|VBZ coming|VBG back|RB online|JJ </s>|S_END
+<s>|S_START the|DT philadelphia|NN energy|NN solutions|NNS plant|NN which|WDT processes|NNS a|DT third|JJ of|IN the|DT regions|NNS oil|NN said|VBD it|PRP came|VBD through|IN the|DT storm|NN in|IN excellent|NN condition|NN </s>|S_END
+<s>|S_START that|DT lessens|VBZ the|DT risk|NN of|IN a|DT gasoline|NN shortage|NN that|WDT would|MD drive|VB up|RP prices|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC some|DT refineries|NNS werent|VBP so|RB lucky|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT secondlargest|JJS plant|NN in|IN the|DT region|NN phillips|NNS 66|CD psxs|NNS bayway|RB refinery|JJ in|IN linden|JJ nj|NN has|VBZ lost|VBN electricity|NN </s>|S_END
+<s>|S_START the|DT company|NN reported|VBD that|IN parts|NNS of|IN the|DT facility|NN have|VBP flooded|VBN and|CC theres|NNS no|DT telling|VBG yet|RB whether|IN equipment|NN has|VBZ been|VBN damaged|VBN </s>|S_END
+<s>|S_START normally|RB the|DT plant|NN would|MD process|VB 238000|CD barrels|NNS of|IN oil|NN per|IN day|NN </s>|S_END
+<s>|S_START three|CD of|IN the|DT its|PRP$ terminals|NNS nearby|JJ also|RB remain|JJ shut|NN down|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD sandy|NN cleanup|NN will|MD cost|VB towns|NNS millions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hess|NN hes|NNS fortune|VBP 500|CD which|WDT runs|VBZ a|DT refinery|NN in|IN port|NN reading|NN nj|NN lost|VBD power|NN monday|NN night|NN and|CC isnt|NN sure|NN when|WRB it|PRP will|MD restart|VB </s>|S_END
+<s>|S_START meanwhile|RB hess|VBP has|VBZ suspended|VBN operations|NNS at|IN terminals|NNS in|IN connecticut|NN maryland|NN new|JJ york|NN new|JJ jersey|NN and|CC virginia|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT major|JJ player|NN in|IN the|DT region|NN nustar|NN ns|NNS fortune|VBP 500|CD said|VBD five|CD terminals|NNS across|IN the|DT northeast|NN appear|NN to|TO be|VB in|IN good|JJ shape|NN while|IN two|CD other|JJ terminals|NNS have|VBP been|VBN damaged|VBN by|IN water|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB while|IN they|PRP go|VBP back|RB online|JJ though|IN refineries|NNS still|RB have|VBP to|TO wait|VB for|IN oil|NN shipping|VBG to|TO ramp|VB up|RP again|RB </s>|S_END
+<s>|S_START the|DT regions|NNS largest|JJS refinery|NN in|IN philadelphia|NN wont|NN go|VB back|RB to|TO processing|NN 330000|CD barrels|NNS of|IN oil|NN per|IN day|NN until|IN that|DT much|JJ is|VBZ coming|VBG in|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START analysts|NNS have|VBP warned|VBN that|IN prolonged|VBN disruption|NN say|VBP upwards|NNS of|IN a|DT week|NN would|MD cause|VB prices|NNS to|TO spike|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN this|DT point|NN were|VBD seeing|VBG a|DT massive|JJ squeeze|NN </s>|S_END
+<s>|S_START supplies|NNS are|VBP at|IN wellbelownormal|JJ levels|NNS said|VBD stephen|VBN schork|NN editor|NN of|IN the|DT schork|NN report|NN a|DT daily|JJ energy|NN markets|NNS research|NN letter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS because|IN the|DT capacity|NN of|IN northeast|NN oil|NN refineries|NNS is|VBZ much|JJ smaller|NN than|IN it|PRP was|VBD a|DT few|JJ years|NNS ago|RB </s>|S_END
+<s>|S_START they|PRP handle|VBP just|RB under|IN 1|CD million|CD barrels|NNS of|IN oil|NN per|IN day|NN down|IN from|IN 16|CD million|CD barrels|NNS per|IN day|NN in|IN 2007|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START oil|NN refineries|NNS in|IN europe|NN have|VBP undergone|VBN a|DT similar|JJ decline|NN which|WDT means|VBZ that|DT the|DT united|JJ states|NNS cant|VBP simply|RB turn|VB to|TO europe|VB for|IN extra|JJ supply|NN as|IN it|PRP has|VBZ in|IN the|DT past|JJ </s>|S_END
+<s>|S_START the|DT solution|NN to|TO any|DT supply|NN problems|NNS might|MD come|VB from|IN nations|NNS gulf|IN coast|JJ states|NNS via|IN pipelines|NNS and|CC ships|NNS </s>|S_END
+<s>|S_START however|RB drawing|VBG gasoline|NN away|RB from|IN the|DT southeast|JJ would|MD cause|VB nationwide|JJ pressures|NNS on|IN supply|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sandy|NN is|VBZ the|DT first|JJ real|JJ test|NN since|IN the|DT big|JJ decline|NN in|IN refining|NN capacity|NN </s>|S_END
+<s>|S_START unlike|IN last|JJ years|NNS hurricane|NN irene|NN which|WDT stayed|VBN just|RB east|JJ of|IN the|DT refinery|NN region|NN sandy|NN tore|NN right|RB through|IN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD sandy|NN puts|NNS power|NN grids|NNS to|TO the|DT test|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB if|IN gas|NN prices|NNS rise|VBP though|IN schork|NN thinks|NNS theyll|VBP soon|RB fall|VBP anyway|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT nations|NNS drivers|NNS typically|RB use|VB about|IN 60|CD million|CD barrels|NNS of|IN gasoline|NN every|DT week|NN but|CC thats|NNS expected|VBN to|TO drop|VB to|TO 55|CD million|CD because|IN of|IN the|DT damage|NN caused|VBD by|IN the|DT storm|NN estimates|VBZ tom|NN kloza|NN chief|NN analyst|NN at|IN the|DT oil|NN price|NN information|NN service|NN which|WDT compiles|NNS prices|NNS for|IN aaa|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC that|DT drop|NN will|MD only|RB go|VB so|RB far|RB said|VBD michael|NN hewson|NN senior|JJ market|NN analyst|NN for|IN cmc|NN markets|NNS in|IN london|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP noted|VBD the|DT price|NN of|IN an|DT oil|NN barrel|NN has|VBZ traded|VBN at|IN about|RB the|DT same|JJ for|IN six|CD months|NNS and|CC that|IN could|MD prevent|VB the|DT price|NN from|IN falling|VBG dramatically|RB in|IN the|DT weeks|NNS ahead|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnnmoney|NN writer|NN chris|VBZ isidore|NN contributed|VBN to|TO this|DT report|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+</p>|P_END
+

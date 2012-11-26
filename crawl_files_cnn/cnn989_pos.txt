@@ -1,0 +1,99 @@
+<p>|P_START
+<s>|S_START france|NN and|CC germany|NN may|MD be|VB the|DT standouts|NNS when|WRB it|PRP comes|VBZ to|TO economic|JJ growth|NN in|IN europe|NN </s>|S_END
+<s>|S_START but|CC thats|NNS not|RB saying|VBG much|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT opinions|NNS expressed|VBN in|IN this|DT commentary|JJ are|VBP solely|RB those|DT of|IN paul|JJ r|NN la|NN monica|NN </s>|S_END
+<s>|S_START other|JJ than|IN time|NN warner|NN the|DT parent|NN of|IN cnnmoney|NN and|CC abbott|NN laboratories|NNS la|VBP monica|NN does|VBZ not|RB own|VB positions|NNS in|IN any|DT individual|JJ stocks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START investors|NNS seemed|VBD relieved|VBN by|IN the|DT latest|JJS gdp|NN figures|NNS out|IN of|IN europe|NN tuesday|NN </s>|S_END
+<s>|S_START but|CC why|WRB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sure|RB i|PRP guess|VBP the|DT numbers|NNS could|MD have|VB been|VBN a|DT lot|NN worse|NN </s>|S_END
+<s>|S_START but|CC the eurozones|NNS overall|VBP economy|NN shrunk|NN by|IN 02|CD from|IN the|DT first|JJ quarter|NN to|TO the|DT second|JJ quarter|NN </s>|S_END
+<s>|S_START and|CC germanys|NNS economy|NN rose|VBD by|IN only|RB 03|CD compared|VBN to|TO the|DT first|JJ quarter|NN </s>|S_END
+<s>|S_START keep|VB in|IN mind|NN that|IN germany|NN is|VBZ supposed|VBN to|TO be|VB the|DT star|NN of|IN europe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN europe|NN were|VBD a|DT baseball|NN team|NN germany|NN might|MD have|VB a|DT batting|NN average|NN of |NN only|RB 255|CD and|CC that|IN only|RB looks|VBZ good|JJ because|IN france|NN which|WDT reported|VBD no|DT change|NN in|IN gdp|NN is|VBZ batting|VBG 240|CD while|IN greece|NN spain|NN italy|RB and|CC portugal|JJ are|VBP struggling|VBG to|TO stay|VB above|IN 200|CD </s>|S_END
+<s>|S_START being|VBG the|DT best|JJS of|IN a|DT sorry|NN lot|NN doesnt|NN necessarily|RB mean|JJ you|PRP are|VBP good|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START making|VBG matters|NNS worse|JJR its|PRP$ hard|JJ to|TO imagine|VB how|WRB much|RB longer|RBR germany|NN can|MD continue|VB to|TO prop|VB up|RP the|DT rest|NN of|IN europe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economists|NNS for|IN brokerage|NN firm|NN brockhouse|NN cooper|NN in|IN montreal|NN noted|VBD in|IN a|DT report|NN tuesday|NN morning|NN that|WDT it|PRP is|VBZ no|DT secret|NN that|IN germany|NN is|VBZ heavily|RB tradedependent|JJ </s>|S_END
+<s>|S_START the|DT economists|NNS expressed|VBN concerns|NNS that|IN germany|NN wont|NN be|VB able|JJ to|TO boost|VB domestic|JJ demand|NN enough|RB to|TO buffer|VB against|IN the|DT storm|NN circles|NNS in|IN the|DT rest|NN of|IN europe|NN and|CC warned|VBD that|IN germany|NN should|MD prepare|VB for|IN a|DT rocky|JJ road|NN ahead|RB as|IN the|DT countrys|NNS trade|VBP partners|NNS remain|NN in|IN rough|JJ shape|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT germans|NNS themselves|PRP seem|VBP increasingly|RB nervous|JJ about|IN the|DT rest|NN of|IN europe|NN as|IN well|RB </s>|S_END
+<s>|S_START a|DT report|NN issued|VBD tuesday|NN by|IN the|DT the|DT centre|NN for|IN european|JJ economic|JJ research|NN in|IN mannheim|NN indicated|VBD that|IN economic|JJ sentiment|NN in|IN germany|NN was|VBD at|IN its|PRP$ lowest|JJS level|NN of|IN the|DT year|NN a|DT sign|NN that|IN germans|NNS expect|VBP their|PRP$ economy|NN to|TO slow|VB further|JJ over|IN the|DT second|JJ half|DT of|IN the|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN germany|NN cant|NN support|NN the|DT eurozone|NN who|WP can|MD </s>|S_END
+<s>|S_START france|NN </s>|S_END
+<s>|S_START thats|NNS unlikely|RB </s>|S_END
+<s>|S_START so|IN investors|NNS should|MD not|RB get|VB fooled|VBN into|IN thinking|NN that|IN the|DT debt|NN crisis|NN is|VBZ over|IN just|RB because|IN longterm|JJ bond|NN yields|NNS in|IN spain|NN and|CC italy|RB have|VBP retreated|VBN from|IN the|DT peak|NN crisis|NN levels|NNS </s>|S_END
+<s>|S_START more|JJR importantly|RB european|JJ central|JJ bank|NN chief|NN mario|NN draghi|NN should|MD not|RB get|VB lulled|VBN into|IN a|DT sense|NN of|IN false|NN security|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN draghi|NN obviously|RB would|MD prefer|VB for|IN sovereign|NN nations|NNS to|TO fix|VB their|PRP$ own|JJ fiscal|JJ problems|NNS its|PRP$ increasingly|RB clear|JJ that|IN some|DT european|JJ leaders|NNS lack|VBP the|DT political|JJ will|MD or|CC economic|JJ knowhow|NN to|TO effectively|RB do|VB so|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD ecb|NN ties|NNS bond|NN market|NN aid|NN to|TO government|NN cuts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START draghi|NN still|RB needs|VBZ to|TO leave|VB all|DT options|NNS on|IN the|DT table|NN including|VBG more|JJR aggressive|JJ purchases|NNS of|IN debt|NN from|IN the|DT most|RBS troubled|JJ southern|NN european|JJ nations|NNS </s>|S_END
+<s>|S_START it|PRP would|MD also|RB behoove|VB draghi|PRP to|TO continue|VB putting|VBG pressure|NN on|IN germany|NN to|TO reconsider|NN its|PRP$ position|NN regarding|VBG the|DT issuance|NN of|IN common|JJ european|JJ debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START germany|NN has|VBZ been|VBN reluctant|JJ to|TO consider|VB socalled|VBN eurobonds|NNS because|IN those|DT bonds|NNS would|MD likely|RB fetch|VB much|JJ higher|JJR interest|NN rates|NNS than|IN germanys|NNS ultralow|VBP yield|NN of|IN about|RB 15|CD on|IN its|PRP$ 10year|JJ bund|NN </s>|S_END
+<s>|S_START but|CC thats|NNS shortsighted|VBD </s>|S_END
+<s>|S_START the|DT biggest|JJS folly|RB of|IN the|DT eurozone|NN is|VBZ that|IN the|DT various|JJ members|NNS share|NN a|DT currency|NN but|CC not|RB debt|NN </s>|S_END
+<s>|S_START this|DT would|MD be|VB akin|JJ to|TO the|DT united|VBN states|NNS having|VBG no|DT federal|JJ treasury|NN bonds|NNS and|CC instead|RB merely|RB having|VBG 50|CD different|JJ bonds|NNS and|CC notes|NNS for|IN each|DT of|IN the|DT states|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whats|NNS more|JJR germany|NN also|RB clearly|RB benefits|VBZ from|IN the|DT fact|NN that|IN its|PRP$ neighbors|NNS are|VBP in|IN such|JJ sorry|NN shape|NN </s>|S_END
+<s>|S_START if|IN there|EX was|VBD no|DT euro|NN and|CC we|PRP went|VBD back|RB to|TO a|DT world|NN of|IN drachmas|NNS lire|VBP pesetas|NNS escudos|NNS and|CC francs|NNS the|DT deutsche|NN mark|NN would|MD undoubtedly|RB be|VB much|RB stronger|JJR than|IN nearly|RB all|DT the|DT other|JJ individual|JJ european|JJ currencies|NNS </s>|S_END
+<s>|S_START and|CC that|DT would|MD hurt|VB germanys|NNS exporting|VBG power|NN around|IN the|DT world|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START germany|NN may|MD not|RB like|VB subsidizing|VBG the|DT rest|NN of|IN europe|NN </s>|S_END
+<s>|S_START but|CC the|DT alternative|NN may|MD be|VB scarier|RBR </s>|S_END
+<s>|S_START so|IN hopefully|RB draghi|NN can|MD show|VB just|RB how|WRB super|JJ he|PRP is|VBZ by|IN convincing|NN angela|NN merkel|NN to|TO work|VB even|RB more|RBR closely|RB with|IN frances|NNS francois|NNS hollande|VBP and|CC other|JJ key|JJ european|JJ leaders|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START remember|NN that|IN the|DT european|JJ crisis|NN has|VBZ been|VBN going|VBG on|IN since|IN the|DT beginning|NN of|IN 2010|CD </s>|S_END
+<s>|S_START weve|NN all|DT been|VBN waiting|VBG for|IN an|DT epic|JJ collapse|NN of|IN a|DT nation|NN or|CC big|JJ financial|JJ institution|NN to|TO shake|VB europe|NN to|TO its|PRP$ core|NN like|IN the|DT united|VBN states|NNS was|VBD in|IN 2008|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB that|IN may|MD never|RB happen|VB </s>|S_END
+<s>|S_START instead|RB of|IN greece|NN spain|NN or|CC italy|RB subbing|VBG for|IN lehman|NN fannie|NN mae|NN and|CC aig|JJ we|PRP may|MD continue|VB to|TO get|VB a|DT slow|JJ bleed|NN unless|IN europe|NN finally|RB decides|VBZ that|IN the|DT only|JJ way|NN out|IN of|IN the|DT economic|JJ malaise|NN is|VBZ through|IN actual|JJ unified|VBN action|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START until|IN theres|NNS strong|JJ evidence|NN of|IN true|JJ cooperation|NN investors|NNS would|MD be|VB silly|RB to|TO buy|VB into|IN any|DT hype|NN about|IN a|DT european|JJ recovery|NN </s>|S_END
+<s>|S_START but|CC as|IN the|DT chart|NN below|IN shows|NNS investors|NNS in|IN french|NN and|CC german|JJ stocks|NNS clearly|RB are|VBP holding|VBG their|PRP$ nose|NN and|CC hoping|VBG for|IN the|DT best|JJS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+</p>|P_END
+

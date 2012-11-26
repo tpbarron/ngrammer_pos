@@ -1,0 +1,33 @@
+<p>
+<s>as more and more components are packed onto computer chips the problems of getting electrical energy to where it is needed in a microprocessor and of dispersing the heat which that energy is turned into by the chips operation both become harder</s>
+<s>the latest aspiration of chip designers—to stack the things on top of one another so that their components can communicate in three dimensions—complicates matters still further</s>
+<s>but a group of engineers at ibm think they have a single answer to both problems</s>
+<s>bruno michel and his colleagues at the computer giants zurich research laboratory in switzerland propose using a liquid coolant that generates electricity inside the chip itself</s>
+</p>
+
+<p>
+<s>ibm is already working on the problem of cooling 3d chips</s>
+<s>its answer is to etch layers of tiny channels between the slivers of silicon that carry the components</s>
+<s>by pumping fluid through these channels it is possible to carry heat out of a stacked chip fast enough to keeping it running nicely</s>
+</p>
+
+<p>
+<s>dr michels proposal is to use the same system to power the chips too</s>
+<s>instead of a single network of channels running through a stacked chip of this sort he suggests there should be two</s>
+<s>each would carry a fluid doped with vanadium ions but those ions would be in different oxidative states in the different channel systems—at least they would be when they entered the chip</s>
+<s>at the heart of the device however the channels would be lined with a catalyst that reacted with the electrolyte and also acted as an electrode</s>
+</p>
+
+<p>
+<s>when the fluid was pumped around the chip a piece of chemistry called a redox reaction would take place as one sort of vanadium ion gave up electrons to the other sort</s>
+<s>for that to happen the electrons would have to pass between the channel systems via the wiring of the chip</s>
+<s>this would produce a current to power the chip</s>
+<s>the electrolytes would then be pumped out of the chip carrying heat away with them</s>
+<s>once cooled they would be reinvigorated back to their original ionic states by an external electric current and pumped back into the chip</s>
+</p>
+
+<p>
+<s>although dr michel has not yet applied his idea to an entire chip he has shown that the electricitygeneration part of the process can be made to work perfectly well in a system of channels like those found in a 3d chip</s>
+<s>if the electrodes can be connected successfully to the rest of a chip the result would be a new type of liquidfuelled computer</s>
+</p>
+

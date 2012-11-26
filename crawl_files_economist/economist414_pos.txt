@@ -1,0 +1,70 @@
+<p>|P_START
+<s>|S_START walk|NN into|IN a|DT restaurant|JJ in|IN mexico|NN midmorning|VBG and|CC you|PRP will|MD find|VB a|DT surplus|NN of|IN idle|NN waiter|NN </s>|S_END
+<s>|S_START return|NN at|IN lunchtime|NN and|CC you|PRP will|MD find|VB the|DT same|JJ number|NN of|IN staff|NN rushed|VBD off|RP their|PRP$ feet|NNS </s>|S_END
+<s>|S_START like|IN many|JJ mexican|JJ businesses|NNS restaurants|NNS are|VBP alternately|RB over|IN and|CC understaffed|VBD because|IN the|DT ancient|JJ labour|NN laws|NNS restrict|VBP parttime|JJ work|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT labour|PRP$ code|NN was|VBD last|JJ overhauled|VBN in|IN 1970|CD and|CC it|PRP show|VBP </s>|S_END
+<s>|S_START mexico|NN is|VBZ the|DT only|JJ country|NN in|IN latin|NN america|NN where|WRB it|PRP is|VBZ legal|JJ to|TO sack|VB a|DT woman|NN for|IN being|VBG pregnant|JJ </s>|S_END
+<s>|S_START probationary|JJ periods|NNS are|VBP not|RB recognised|VBN </s>|S_END
+<s>|S_START the|DT rigid|JJ rules|NNS are|VBP intended|VBN to|TO protect|VB worker|NN </s>|S_END
+<s>|S_START but|CC they|PRP are|VBP so|RB cumbersome|JJ that|IN many|JJ smaller|JJR businesses|NNS ignore|VBP them|PRP leaving|VBG workers|NNS with|IN no|DT rights|NNS at|IN all|DT </s>|S_END
+<s>|S_START mexico|NN has|VBZ one|CD of|IN the|DT largest|JJS informal|JJ economies|NNS in|IN latin|NN america|NN </s>|S_END
+<s>|S_START the|DT world|NN bank|NN reckons|NNS that|WDT less|JJR than|IN 30|CD of|IN workers|NNS pay|VBP into|IN a|DT pension|NN one|CD indicator|NN of|IN formal|JJ employment|NN compared|VBN with|IN nearly|RB 60|CD in|IN brazil|NN and|CC chile|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START firing|VBG is|VBZ as|IN awkward|NN as|IN hiring|NN sacking|VBG an|DT employee|NN after|IN a|DT year|NN costs|VBZ three|CD times|NNS as|RB much|JJ as|IN in|IN chile|NN and|CC eight|CD times|NNS more|JJR than|IN in|IN brazil|NN </s>|S_END
+<s>|S_START the|DT generous|JJ payouts|NNS bankrupt|JJ some|DT small|JJ companie|NN </s>|S_END
+<s>|S_START others|NNS shirk|VBP the|DT rule|NN </s>|S_END
+<s>|S_START with|IN no|DT unemployment|NN insurance|NN many|JJ workers|NNS settle|VBP for|IN a|DT tiny|NN payout|IN rather|RB than|IN pursue|NN a|DT lengthy|JJ tribunal|JJ case|NN </s>|S_END
+<s>|S_START even|RB when|WRB they|PRP win|VBP in|IN 60|CD of|IN such|JJ cases|NNS the|DT judgment|NN is|VBZ not|RB enforced|VBN according|VBG to|TO david|VB kaplan|NN of|IN the|DT interamerican|NN development|NN bank|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT bill|NN before|IN congress|NN aims|NNS to|TO modernise|VB the|DT labour|NN code|NN introducing|VBG hourly|RB pay|NN trial|NN periods|NNS of|IN up|IN to|TO six|CD months|NNS and|CC a|DT tighter|NN cap|NN on|IN severance|NN pay|NN though|IN it|PRP does|VBZ nothing|NN to|TO encourage|VB disputesettlement|NN without|IN recourse|NN to|TO tribunal|JJ </s>|S_END
+<s>|S_START it|PRP would|MD also|RB introduce|VB clearer|JJR rules|NNS on|IN outsourcing|VBG and|CC bring|VBG women’s|NNS rights|NNS into|IN the|DT 21st|JJ century|NN </s>|S_END
+<s>|S_START the|DT government|NN says|VBZ the|DT reform|NN would|MD create|VB an|DT extra|JJ 400000|CD jobs|NNS a|DT year|NN </s>|S_END
+<s>|S_START by|IN reducing|NN informality|NN it|PRP could|MD increase|VB economic|JJ growth|NN by|IN 03|CD percentage|NN points|NNS according|VBG to|TO bnp|VB paribas|NNS a|DT bank|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT bill|NN risks|NNS foundering|VBG over|IN the|DT ambition|NN of|IN the|DT outgoing|NN government|NN of|IN the|DT conservative|JJ national|JJ action|NN party|NN pan|NN to|TO clean|VB up|RP mexico’s|JJ powerful|JJ trade|NN union|NN </s>|S_END
+<s>|S_START the|DT bill|NN requires|VBZ unions|NNS to|TO elect|VB officials|NNS by|IN secret|NN ballot|NN and|CC to|TO submit|VB accounts|NNS for|IN auditing|VBG </s>|S_END
+<s>|S_START that|DT threatens|VBZ the|DT hitherto|NN unchallenged|VBD power|NN of|IN some|DT union|NN bosse|NN </s>|S_END
+<s>|S_START the|DT head|NN of|IN the|DT telecoms’|JJ workers|NNS has|VBZ been|VBN in|IN his|PRP$ job|NN for|IN 36|CD years|NNS after|IN 23|CD years|NNS in|IN office|NN the|DT teachers’|NN leader|NN elba|NN esther|NN gordillo|NN last|JJ month|NN arranged|VBD another|DT sixyear|NN term|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT proposals|NNS would|MD affect|VB only|RB privatesector|NN unions|NNS and|CC the|DT staterun|NN oil|NN industry|NN </s>|S_END
+<s>|S_START but|CC the|DT unions|NNS have|VBP long|RB been|VBN a|DT corporatist|NN pillar|NN of|IN the|DT institutional|JJ revolutionary|NN party|NN pri|NN of|IN enrique|NN peña|NN nieto|NN who|WP takes|VBZ office|NN as|IN mexico’s|JJ president|NN on|IN december|NN 1st|CD </s>|S_END
+<s>|S_START the|DT pri|NN duly|RB voted|VBD to|TO strike|VB out|RP the|DT union|NN measures|VBZ from|IN the|DT bill|NN in|IN the|DT chamber|NN of|IN deputie|NN </s>|S_END
+<s>|S_START but|CC in|IN the|DT senate|NN the|DT pan|NN allied|VBD with|IN leftwing|NN parties|NNS which|WDT have|VBP no|DT love|NN for|IN the|DT pri|NN union|NN bosses|NNS to|TO reinstate|VB the|DT unionmodernising|NN clause|NN </s>|S_END
+<s>|S_START on|IN october|NN 25th|CD the|DT bill|NN was|VBD sent|VBN back|RB to|TO the|DT lower|JJR house|NN </s>|S_END
+<s>|S_START the|DT pri|NN is|VBZ now|RB mulling|VBG its|PRP$ next|JJ move|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT legislative|JJ pingpong|NN is|VBZ the|DT first|JJ glimpse|NN of|IN what|WP awaits|NNS mr|VBP peña|JJ who|WP has|VBZ promised|VBN some|DT farreaching|NN reform|NN </s>|S_END
+<s>|S_START the|DT easy|JJ passage|NN of|IN the|DT labourmarket|NN part|NN of|IN the|DT bill|NN suggests|VBZ that|IN he|PRP can|MD count|VB on|IN the|DT pan|NN to|TO support|VB his|PRP$ plans|NNS to|TO open|VB the|DT energy|NN sector|NN and|CC simplify|NN the|DT tax|NN code|NN </s>|S_END
+<s>|S_START but|CC the|DT pan’s|NNS insistence|NN on|IN the|DT unionbusting|NN clauses|VBZ and|CC his|PRP$ own|JJ party’s|NNS rejection|NN of|IN them|PRP suggests|VBZ trouble|JJ ahead|RB </s>|S_END
+<s>|S_START ideologically|RB the|DT pri|NN and|CC pan|NN are|VBP “closer|JJ than|IN ever”|JJ says|NNS héctor|NN aguilar|NN camín|NN a|DT historian|JJ </s>|S_END
+<s>|S_START but|CC the|DT unions|NNS are|VBP “one|JJ of|IN the|DT great|JJ vulnerabilities”|NN of|IN the|DT new|JJ government|NN and|CC could|MD curb|VB the|DT pri’s|NNP appetite|NN for|IN reform|NN he|PRP say|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT affair|NN has|VBZ also|RB made|VBN a|DT mockery|NN of|IN the|DT president’s|JJ new|JJ power|NN to|TO beat|VB gridlock|NN by|IN fasttracking|NN two|CD bills|NNS per|IN congressional|JJ session|NN </s>|S_END
+<s>|S_START each|DT chamber|NN has|VBZ 30|CD days|NNS to|TO vote|VB on|IN such|JJ measure|NN </s>|S_END
+<s>|S_START but|CC unbelievably|RB there|EX is|VBZ no|DT provision|NN for|IN what|WP should|MD happen|VB if|IN a|DT bill|NN is|VBZ sent|VBN back|RB for|IN reconsideration|NN as|IN has|VBZ happened|VBN to|TO the|DT labour|NN reform|NN </s>|S_END
+<s>|S_START manlio|NN fabio|NN beltrones|NNS the|DT experienced|VBN leader|NN of|IN the|DT pri|NN in|IN the|DT lower|JJR house|NN warned|VBD on|IN october|NN 29th|CD that|WDT the|DT labour|NN reform|NN would|MD not|RB pass|VB before|IN december|NN 1st|CD contradicting|VBG a|DT preelection|NN promise|NN by|IN mr|NN peña’s|NNS team|NN </s>|S_END
+<s>|S_START mexico|NN has|VBZ been|VBN frustrated|VBN before|IN by|IN wideranging|NN legislative|JJ “whole|JJ enchiladas|NNS which|WDT end|NN up|RP giving|VBG indigestion|NN to|TO the|DT eater”|NN mr|NN beltrones|NNS said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP may|MD be|VB that|IN mr|NN peña|-NONE- has|VBZ done|VBN a|DT deal|NN with|IN the|DT unions|NNS to|TO secure|VB their|PRP$ backing|NN for|IN other|JJ measures|NNS such|JJ as|IN an|DT energy|NN shakeup|NN </s>|S_END
+<s>|S_START the|DT prospects|NNS of|IN such|JJ reforms|NNS remain|VBP better|RBR than|IN they|PRP have|VBP looked|VBN for|IN year|NN </s>|S_END
+<s>|S_START alternatively|RB he|PRP could|MD defy|VB the|DT unions|NNS and|CC order|NN his|PRP$ party’s|NNS legislators|NNS to|TO pass|VB the|DT bill|NN with|IN both|DT its|PRP$ economic|JJ and|CC unionbusting|VBG components|NNS intact|NN </s>|S_END
+<s>|S_START either|DT way|NN the|DT first|JJ test|NN of|IN mr|NN peña’s|NNS mettle|VBP has|VBZ come|VBN even|RB before|IN he|PRP has|VBZ taken|VBN office|NN </s>|S_END
+</p>|P_END
+

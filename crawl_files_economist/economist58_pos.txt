@@ -1,0 +1,103 @@
+<p>|P_START
+<s>|S_START the|DT idea|NN that|IN american|JJ bosses|NNS are|VBP obscenely|RB overpaid|VBN is|VBZ conventional|JJ wisdom|NN and|CC not|RB just|RB among|IN the|DT true|JJ believers|NNS at|IN the|DT democratic|JJ convention|NN </s>|S_END
+<s>|S_START the|DT new|JJ york|NN times|NNS complains|VBZ of|IN “fat|JJ paychecks|NNS awarded|VBN to|TO chief|NN executives|NNS who|WP by|IN many|JJ measures|NNS don’t|JJ deserve|NN them”|NN forbes|NNS hardly|RB the|DT inhouse|NN journal|NN of|IN occupy|NN wall|NN street|NN frets|NNS that|WDT ceo|NN pay|NN is|VBZ “gravitydefying”|JJ </s>|S_END
+<s>|S_START an|DT issue|NN in|IN april|NN gave|VBD warning|VBG that|IN “our|JJ report|NN on|IN executive|JJ compensation|NN will|MD only|RB fuel|VB the|DT outrage|NN over|IN corporate|JJ greed”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT orthodoxy|NN rests|VBZ on|IN three|CD propositions|NNS that|WDT ceo|NN pay|NN just|RB keeps|VBZ on|IN going|VBG up|RP that|DT it|PRP is|VBZ not|RB tied|VBN to|TO performance|NN and|CC that|IN boards|NNS are|VBP not|RB doing|VBG their|PRP$ job|NN of|IN holding|VBG fat|JJ cats’|NN paws|NNS to|TO the|DT fire|NN </s>|S_END
+<s>|S_START these|DT propositions|NNS in|IN turn|NN rest|NN on|IN a|DT bigger|JJR argument|NN that|IN ceos|NNS are|VBP using|VBG their|PRP$ political|JJ power|NN to|TO rig|VB the|DT system|NN and|CC that|IN an|DT efficient|JJ market|NN for|IN talent|NN would|MD produce|VB very|RB different|JJ result|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START teven|RB kaplan|VBP of|IN chicago’s|NNS booth|IN school|NN of|IN business|NN has|VBZ been|VBN poking|VBG holes|NNS in|IN this|DT orthodoxy|NN for|IN year|NN </s>|S_END
+<s>|S_START he|PRP has|VBZ now|RB gathered|VBN his|PRP$ research|NN together|RB in|IN a|DT new|JJ paper|NN “executive|JJ compensation|NN and|CC corporate|JJ governance|NN in|IN the|DT us|PRP perceptions|VBZ facts|NNS and|CC challenges”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START his|PRP$ argument|NN is|VBZ wellgrounded|VBN and|CC intricate|JJ </s>|S_END
+<s>|S_START he|PRP distinguishes|VBZ for|IN example|NN between|IN “estimated”|NN and|CC “realised”|NNP pay|NN </s>|S_END
+<s>|S_START estimated|VBD pay|NN is|VBZ the|DT estimated|VBN value|NN of|IN the|DT ceo’s|JJ pay|NN including|VBG stock|NN options|NNS when|WRB the|DT board|NN does|VBZ the|DT hiring|NN </s>|S_END
+<s>|S_START realised|VBD pay|NN is|VBZ what|WP the|DT ceo|NN actually|RB makes|VBZ when|WRB he|PRP exercises|VBZ his|PRP$ option|NN </s>|S_END
+<s>|S_START there|EX is|VBZ a|DT big|JJ difference|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ now|RB impossible|JJ to|TO talk|VB sensibly|RB about|IN this|DT subject|NN without|IN first|JJ grappling|NN with|IN mr|NN kaplan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP starts|VBZ off|RP by|IN questioning|NN the|DT idea|NN that|IN ceo|NN pay|NN always|RB goes|VBZ up|RP </s>|S_END
+<s>|S_START granted|VBD it|PRP shot|VBD up|RP between|IN 1993|CD and|CC 2000|CD </s>|S_END
+<s>|S_START but|CC since|IN then|RB it|PRP has|VBZ fallen|VBN </s>|S_END
+<s>|S_START average|JJ estimated|VBN pay|NN for|IN the|DT bosses|NNS of|IN sp|NN 500|CD companies|NNS has|VBZ declined|VBN by|IN 46|CD since|IN 2000|CD </s>|S_END
+<s>|S_START median|JJ ceo|NN pay|NN has|VBZ declined|VBN since|IN 2001|CD though|IN only|RB slightly|RB </s>|S_END
+<s>|S_START in|IN 2010|CD ceos|NNS were|VBD paid|VBN about|IN as|RB much|JJ in|IN real|JJ terms|NNS as|IN they|PRP were|VBD in|IN 1998|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT captains|NNS of|IN the|DT corner|NN office|NN are|VBP hardly|RB going|VBG short|JJ </s>|S_END
+<s>|S_START in|IN 2010|CD the|DT average|JJ package|NN for|IN an|DT sp|NN 500|CD ceo|NN was|VBD $|$ 10m|CD and|CC the|DT median|JJ ceo|NN took|VBD home|NN $|$ 85m|CD </s>|S_END
+<s>|S_START egalitarians|NNS will|MD not|RB be|VB thrilled|VBN to|TO learn|VB that|IN the|DT average|NN sp|NN 500|CD ceo|NN who|WP made|VBN 350|CD times|NNS the|DT median|NN household|NN income|NN in|IN 2000|CD now|RB makes|VBZ only|RB 200|CD times|NNS as|IN much|JJ </s>|S_END
+<s>|S_START but|CC sp|VBP 500|CD ceos|NNS are|VBP not|RB doing|VBG well|RB when|WRB compared|VBN with|IN other|JJ 01|CD percenter|NN </s>|S_END
+<s>|S_START bosses|NNS of|IN unlisted|VBN companies|NNS and|CC people|NNS in|IN the|DT hedgefund|NN and|CC privateequity|NN industries|NNS have|VBP pulled|VBN rapidly|RB ahead|RB </s>|S_END
+<s>|S_START leading|VBG lawyers|NNS in|IN contrast|NN have|VBP roughly|RB kept|VBN pace|NN with|IN sp|NN 500|CD ceo|NN </s>|S_END
+<s>|S_START the|DT top|JJ 25|CD hedgefund|NN managers|NNS regularly|RB earn|VB more|JJR as|IN a|DT group|NN than|IN all|DT 500|CD sp|NN ceos|NNS put|VBD together|RP </s>|S_END
+<s>|S_START the|DT ratio|NN of|IN average|JJ ceo|NN pay|NN to|TO the|DT average|JJ pay|NN of|IN other|JJ 01|CD percenters|NNS is|VBZ comparable|JJ to|TO or|CC lower|JJR than|IN the|DT ratio|NN in|IN the|DT early|JJ 1990s|CD and|CC roughly|RB similar|JJ to|TO the|DT average|JJ ratio|NN since|IN the|DT 1930|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP about|IN the|DT relationship|NN between|IN pay|NN and|CC performance|NN </s>|S_END
+<s>|S_START mr|NN kaplan|VBD argues|NNS that|IN ceos|NNS are|VBP clearly|RB paid|VBN for|IN improving|NN the|DT performance|NN of|IN their|PRP$ company’s|JJ stock|NN </s>|S_END
+<s>|S_START firms|NNS with|IN ceos|NNS in|IN the|DT highest|JJS 20|CD of|IN realised|VBN pay|NN generated|VBN stock|NN returns|NNS 60|CD greater|JJR than|IN those|DT of|IN other|JJ firms|NNS in|IN their|PRP$ industries|NNS over|IN the|DT previous|JJ three|CD year|NN </s>|S_END
+<s>|S_START firms|NNS with|IN ceos|NNS in|IN the|DT bottom|NN 20|CD underperform|NN their|PRP$ industries|NNS by|IN almost|RB 20|CD </s>|S_END
+<s>|S_START ceos|NNS are|VBP also|RB kicked|VBD out|RP if|IN they|PRP fail|VBP to|TO perform|VB well|RB </s>|S_END
+<s>|S_START in|IN the|DT 1970s|CD one|CD fortune|NN 500|CD boss|NNS in|IN ten|NN was|VBD tossed|VBN from|IN the|DT top|JJ floor|NN in|IN any|DT given|VBN year|NN </s>|S_END
+<s>|S_START in|IN the|DT 2000s|CD that|WDT number|NN increased|VBD to|TO one|CD in|IN six|CD </s>|S_END
+<s>|S_START the|DT sharp|JJ decline|NN in|IN ceo|NN tenure—from|NN eight|NN years|NNS in|IN the|DT 1990s|NNS to|TO six|CD years|NNS today—also|RB means|VBZ that|IN the|DT average|NN ceo|NN spends|NNS 25|CD less|JJR time|NN on|IN the|DT payroll|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN kaplan|VBD provides|VBZ a|DT valuable|JJ corrective|JJ to|TO much|JJ of|IN the|DT rhetoric|JJ that|IN surrounds|NNS this|DT subject|NN </s>|S_END
+<s>|S_START but|CC two|CD questions|NNS remain|NN troubling|VBG </s>|S_END
+<s>|S_START one|CD is|VBZ about|IN shorttermism|NN </s>|S_END
+<s>|S_START many|JJ critics|NNS of|IN ceo|NN pay|NN argue|NN that|IN the|DT problem|NN lies|NNS not|RB with|IN the|DT size|NN of|IN the|DT pay|NN packets|NNS but|CC with|IN the|DT incentives|NNS that|WDT they|PRP create|VBP </s>|S_END
+<s>|S_START many|JJ bosses|NNS receive|VBP options|NNS that|IN are|VBP worthless|NNS unless|IN the|DT company’s|NNP shares|NNS reach|VBP a|DT certain|JJ price|NN but|CC fabulously|RB lucrative|JJ if|IN they|PRP exceed|VBP it|PRP </s>|S_END
+<s>|S_START this|DT may|MD spur|VB them|PRP to|TO take|VB big|JJ risks|NNS to|TO boost|VB share|NN prices|NNS in|IN the|DT short|JJ term|NN and|CC then|RB cash|NN out|IN </s>|S_END
+<s>|S_START but|CC if|IN their|PRP$ bets|NNS go|VBP sour|PRP$ other|JJ shareholders|NNS suffer|VBP </s>|S_END
+<s>|S_START it|PRP would|MD be|VB better|JJR to|TO pay|VB bosses|NNS in|IN restricted|JJ shares|NNS which|WDT they|PRP must|MD hold|VB for|IN a|DT specified|VBN period|NN rather|RB than|IN choosing|VBG when|WRB to|TO sell|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT second|JJ question|NN concerns|NNS the|DT political|JJ economy|NN of|IN inequality|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ one|CD thing|NN for|IN ceos|NNS to|TO earn|VB $|$ 10m|CD a|DT year|NN when|WRB the|DT economy|NN is|VBZ booming|VBG but|CC quite|RB another|DT when|WRB unemployment|NN is|VBZ 8|CD </s>|S_END
+<s>|S_START big|JJ companies|NNS are|VBP still|RB refusing|VBG to|TO hire|VB despite|IN sitting|VBG on|IN piles|NNS of|IN cash|NN </s>|S_END
+<s>|S_START and|CC a|DT handful|NN of|IN bosses|NNS are|VBP still|RB making|VBG eyepopping|VBG sums|NNS the|DT ceos|NNS of|IN cbs|NNS oracle|NN and|CC viacom|NN all|DT earned|VBD more|JJR than|IN $|$ 50m|CD in|IN 2010|CD </s>|S_END
+<s>|S_START bosses|NNS should|MD not|RB underestimate|VB the|DT risk|NN that|IN their|PRP$ riches|NNS could|MD provoke|VB a|DT backlash|NN against|IN busine|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pay|NN for|IN performance|NN fire|NN failure|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nonetheless|RB mr|VBP kaplan|JJ is|VBZ surely|RB right|RB to|TO argue|VB that|IN there|EX is|VBZ no|DT quick|NN fix|NN </s>|S_END
+<s>|S_START ome|NN fatcat|VBD floggers|NNS want|VBP governments|NNS to|TO regulate|VB pay|NN to|TO reduce|VB inequality|NN within|IN firm|NN </s>|S_END
+<s>|S_START that|DT would|MD have|VB perverse|NN consequence|NN </s>|S_END
+<s>|S_START to|TO appear|VB more|JJR equal|JJ without|IN losing|VBG their|PRP$ best|JJS people|NNS many|JJ firms|NNS would|MD outsource|VB more|RBR lowpaid|JJ job|NN </s>|S_END
+<s>|S_START other|JJ reformers|NNS say|VBP the|DT way|NN to|TO deal|VB with|IN high|JJ pay|NN is|VBZ to|TO give|VB more|JJR power|NN to|TO boards|NNS or|CC shareholder|NN </s>|S_END
+<s>|S_START the|DT doddfrank|NN law|NN of|IN 2010|CD required|VBN all|DT public|JJ firms|NNS to|TO hold|VB an|DT annual|JJ “say|NN on|IN pay”|NNP vote|NN for|IN top|JJ executive|NN </s>|S_END
+<s>|S_START but|CC turnover|RB rates|VBZ suggest|VBP that|IN boards|NNS have|VBP been|VBN getting|VBG tougher|RB on|IN ceos|NNS for|IN year|NN </s>|S_END
+<s>|S_START and|CC last|JJ year|NN despite|IN a|DT lot|NN of|IN noise|NN by|IN activists|NNS shareholders|NNS voted|VBD to|TO uphold|VB 98|CD of|IN pay|NN proposal|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT evidence|NN suggests|VBZ that|IN ceo|NN pay|NN is|VBZ determined|VBN mostly|RB by|IN supply|NN and|CC demand|NN not|RB bad|JJ corporate|JJ governance|NN or|CC skewed|VBN incentive|JJ </s>|S_END
+<s>|S_START companies|NNS compete|VBP for|IN scarce|NN talent|NN </s>|S_END
+<s>|S_START they|PRP reap|VBP big|JJ rewards|NNS for|IN a|DT smart|NN hire|NN because|IN they|PRP are|VBP growing|VBG larger|JJR and|CC more|JJR global|JJ </s>|S_END
+<s>|S_START they|PRP suffer|VBP big|JJ losses|NNS from|IN a|DT bad|JJ hire|NN for|IN much|RB the|DT same|JJ reason|NN </s>|S_END
+<s>|S_START they|PRP pay|VBP what|WP it|PRP takes|VBZ to|TO woo|VB the|DT best|JJS bosses|NNS and|CC sack|NN them|PRP if|IN they|PRP stumble|VBP </s>|S_END
+<s>|S_START that|DT is|VBZ how|WRB it|PRP should|MD work|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogsschumpeter|NN </s>|S_END
+</p>|P_END
+

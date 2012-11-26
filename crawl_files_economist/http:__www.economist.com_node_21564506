@@ -1,0 +1,12 @@
+<p>LINK rot afflicts the connective tissue of the internet. If sites rejig their content carelessly, useful web addresses (technically known as URLs) may bring up only an error message. A technical glitch on October 8th at Twitter brought an ominous outbreak of link rot, when the microblogging site’s t.co link shortener suffered a 40-minute outage.</p>
+
+<p>Shortening services turn long web addresses into handy short ones: a tweet featuring this article’s cumbersome address, economist.com/node/21564506, would instead show t.co/6EkeQuOZ. That is particularly handy for those constrained by Twitter’s 140-character message limit. But short links are useful anywhere on the internet where concision is valued.</p>
+
+<p>Convenience has its cost. Twitter’s glitch highlights a serious weakness, notes Mikko Hypponen, an internet-security expert. Manufactured short links are particularly prone to link rot. They contain no clue about the ultimate destination. If the providers vanish, so do all the vital signposts they have created and stored. When that happens, the user has little or no recourse.</p>
+
+<p>Of around 1,000 link shorteners launched since 2001, 600-odd had folded by May 2012 according to yi.tl (a new service). Many were used as disguise by spammers and scammers. But bona fide services have failed, too. When Twitter chose bit.ly, a leading link-shrinker, as its default shortener in 2009, the owners of tr.im, a popular service with nearly 1m users a month, declared bit.ly “the market winner”. They said they would stop paying for the upkeep of the site (it once claimed to be “the original url shortener”). Its links are now dead.</p>
+
+<p>Clever names such as is.gd have to compete against the clout of web giants’ in-house shorteners, such as Google’s g.co. Peter Stern, the boss of bit.ly, says shortening alone is “rather silly” from a business viewpoint.</p>
+
+<p>When Twitter started t.co, bit.ly lost out. But it still makes money from shrinking links. It creates in-house shorteners such as nyti.ms, pep.si and econ.st. At sufficient scale, analysing the clicks on these short links to harvest data can be a profitable business. Other providers, meanwhile, promote a cause or a country. Patrons of shorteners such as uta.gs and good.ly can turn other people’s clicks into tiny donations to designated charities. While they last, that is.</p>
+

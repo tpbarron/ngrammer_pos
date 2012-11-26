@@ -1,0 +1,56 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN starbucks|NNS coffee|VBP co|NN has|VBZ signed|VBN on|IN with|IN square|JJ inc|NN to|TO process|NN its|PRP$ credit|NN and|CC debit|NN card|NN purchases|NNS the|DT coffee|NN shop|NN franchiser|NN said|VBD wednesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN part|NN of|IN the|DT deal|NN starbucks|NNS sbux|VBP fortune|NN 500|CD pledged|VBD to|TO invest|VB $|$ 25|CD million|CD in|IN square|JJ a|DT mobile|JJ payment|NN platform|NN for|IN retailers|NNS </s>|S_END
+<s>|S_START in|IN addition|NN starbucks|NNS ceo|VBP howard|NN schultz|NN will|MD join|VB squares|NNS board|NN of|IN directors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN the|DT fall|NN customers|NNS will|MD be|VB able|JJ to|TO use|VB the|DT pay|NN with|IN square|JJ mobile|JJ application|NN to|TO purchase|VB their|PRP$ cappuccinos|NNS and|CC lattes|NNS said|VBD starbucks|NNS which|WDT competes|NNS against|IN green|JJ mountain|NN coffee|NN roasters|NNS gmcr|VBP and|CC dunkin|NN brands|NNS dnkn|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START square|NN provides|VBZ credit|NN card|NN reader|NN applications|NNS for|IN smartphones|NNS including|VBG the|DT iphone|NN ipad|NN and|CC android|VBD to|TO process|NN transactions|NNS </s>|S_END
+<s>|S_START it|PRP also|RB offers|VBZ a|DT consumer|NN app|NN that|WDT lets|VBZ shoppers|NNS use|VBP their|PRP$ phones|NNS to|TO pay|VB merchants|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START starbucks|NNS plans|VBP to|TO roll|VB out|RP squares|NNS technology|NN in|IN its|PRP$ 7000|CD companyowned|VBN stores|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START traditionally|RB square|VBP has|VBZ been|VBN known|VBN as|IN a|DT tool|NN for|IN small|JJ business|NN owners|NNS who|WP want|VBP to|TO accept|VB credit|NN card|NN payments|NNS </s>|S_END
+<s>|S_START the|DT move|NN puts|VBZ the|DT fastgrowing|NN startup|NN into|IN the|DT hands|NNS of|IN a|DT visible|JJ large|JJ retailer|NN an|DT indication|NN that|IN the|DT mobile|JJ payments|NNS trend|VBP may|MD be|VB hitting|VBG mainstream|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ an|DT epic|JJ partnership|NN square|NN chief|NN executive|NN office|NN jack|NN dorsey|NN said|VBD at|IN a|DT press|NN event|NN in|IN new|JJ york|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START starbucks|NNS was|VBD an|DT early|JJ pioneer|NN in|IN mobile|JJ payments|NNS </s>|S_END
+<s>|S_START in|IN early|RB 2011|CD it|PRP launched|VBD its|PRP$ own|JJ phone|NN app|NN for|IN instore|NN payments|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START over|IN a|DT million|NN people|NNS a|DT week|NN are|VBP using|VBG the|DT phone|NN to|TO pay|VB schultz|NN said|VBD at|IN wednesdays|NNS event|NN </s>|S_END
+<s>|S_START i|PRP cant|VBP think|VBP of|IN anything|NN weve|NN introduced|VBD in|IN the|DT last|JJ 40|CD years|NNS that|WDT had|VBD this|DT kind|NN of|IN adoption|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START starbucks|NNS mobile|VBP app|NN currently|RB lets|VBZ customers|NNS pay|VBP with|IN a|DT credit|NN card|NN or|CC with|IN ebays|NNS paypal|JJ </s>|S_END
+<s>|S_START there|EX are|VBP no|DT plans|NNS to|TO change|VB the|DT current|JJ app|NN a|DT starbucks|NNS spokeswoman|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD drawback|NN for|IN square|JJ is|VBZ that|IN its|PRP$ app|NN is|VBZ not|RB currently|RB integrated|VBN with|IN starbucks|NNS rewards|NNS card|NN system|NN </s>|S_END
+<s>|S_START that|DT will|MD change|VB starbucks|NNS said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START our|PRP$ goal|NN is|VBZ to|TO eventually|RB integrate|VB my|PRP$ starbucks|NNS rewards|NNS into|IN the|DT pay|NN with|IN square|JJ payment|NN option|NN a|DT company|NN representative|NN said|VBD </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

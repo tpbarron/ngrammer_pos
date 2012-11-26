@@ -1,0 +1,102 @@
+<p>|P_START
+<s>|S_START hotel|NN rooms|NNS have|VBP been|VBN booked|VBN for|IN the|DT extralong|JJ weekend|NN </s>|S_END
+<s>|S_START preadsheets|NNS are|VBP being|VBG readied|VBN </s>|S_END
+<s>|S_START bogus|NN arguments|NNS and|CC blackmail|NN strategies|NNS are|VBP being|VBG honed|VBN </s>|S_END
+<s>|S_START as|IN european|JJ leaders|NNS prepare|VBP for|IN their|PRP$ sevenyearly|JJ epic|JJ battle|NN over|IN the|DT eu’s|NNS budget|NN they|PRP will|MD now|RB be|VB on|IN their|PRP$ worst|JJ behaviour|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START herman|NN van|VBD rompuy|NN the|DT president|NN of|IN the|DT european|JJ council|NN who|WP will|MD chair|VB a|DT special|JJ budget|NN summit|NN on|IN november|NN 22nd|CD and|CC 23rd|CD has|VBZ told|VBN leaders|NNS to|TO be|VB prepared|VBN to|TO stay|VB in|IN brussels|NNS for|IN several|JJ night|NN </s>|S_END
+<s>|S_START veterans|NNS of|IN past|JJ budgets|NNS say|VBP reaching|VBG agreement|NN at|IN the|DT first|JJ attempt|NN would|MD be|VB remarkable|JJ </s>|S_END
+<s>|S_START this|DT time|NN the|DT economic|JJ crisis|NN in|IN the|DT euro|NN zone|NN raises|VBZ the|DT stake|NN </s>|S_END
+<s>|S_START a|DT stalemate|NN would|MD only|RB feed|VB the|DT uncertainty|NN that|IN already|RB surrounds|VBZ the|DT european|JJ project|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bitterness|NN that|IN the|DT eu|NN budget|NN generates|NNS is|VBZ disproportionate|JJ to|TO its|PRP$ importance|NN </s>|S_END
+<s>|S_START it|PRP accounts|VBZ for|IN just|RB 1|CD of|IN the|DT union’s|JJ gdp|NN or|CC about|IN 2|CD of|IN government|NN spending|NN the|DT disputed|JJ amount|NN is|VBZ a|DT fraction|NN of|IN thi|NN </s>|S_END
+<s>|S_START till|NN over|IN the|DT seven|CD years|NNS of|IN the|DT “multiannual|JJ financial|JJ framework”|NN the|DT pot|NN of|IN money|NN at|IN stake|NN is|VBZ about|IN €1|-NONE- trillion|NN $|$ 13|CD trillion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN poorer|NN countries|NNS in|IN central|JJ and|CC eastern|JJ europe|NN net|NN transfers|NNS from|IN the|DT eu|NN are|VBP a|DT big|JJ boost|NN for|IN some|DT approaching|VBG 5|CD of|IN national|JJ gdp|NN </s>|S_END
+<s>|S_START for|IN southern|NN countries|NNS deep|VBP in|IN recession|NN such|JJ as|IN greece|NN and|CC spain|NN they|PRP are|VBP a|DT lifeline|NN </s>|S_END
+<s>|S_START for|IN italy|RB which|WDT has|VBZ become|VBN the|DT biggest|JJS net|JJ contributor|NN and|CC fears|NNS its|PRP$ position|NN will|MD worsen|VB paying|VBG in|IN to|TO the|DT eu|NN makes|VBZ getting|VBG its|PRP$ finances|NNS in|IN order|NN even|RB harder|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START countries|NNS are|VBP coalescing|VBG around|IN loose|JJ yet|NN often|RB divided|VBN group|NN </s>|S_END
+<s>|S_START there|EX are|VBP the|DT “friends|NNS of|IN cohesion”|JJ the|DT net|JJ recipients|NNS of|IN regional|JJ spending|NN such|JJ as|IN poland|NN hungary|NN and|CC the|DT baltic|JJ state|NN </s>|S_END
+<s>|S_START and|CC there|EX are|VBP the|DT “friends|NNS of|IN better|JJR spending”|NN the|DT net|NN contributors|NNS such|JJ as|IN germany|NN france|NN britain|NN and|CC several|JJ northern|JJ european|JJ state|NN </s>|S_END
+<s>|S_START less|JJR organised|VBN are|VBP the|DT supporters|NNS of|IN farm|NN subsidies|NNS under|IN the|DT common|JJ agricultural|JJ policy|NN who|WP straddle|NN both|DT camps|NNS including|VBG france|NN spain|NN italy|RB ireland|VBP and|CC romania|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT furthest|JJS end|NN of|IN the|DT tugofwar|NN stands|VBZ the|DT european|JJ parliament|NN the|DT friend|NN of|IN all|DT eu|NN spending|NN </s>|S_END
+<s>|S_START it|PRP wants|VBZ the|DT union|NN to|TO have|VB more|JJR “own|JJ resources”|NN meaning|NN revenues|NNS independent|JJ of|IN national|JJ treasuries|NNS and|CC is|VBZ covetous|JJ of|IN the|DT financialtransactions|NNS tax|NN that|IN 11|CD countries|NNS plan|NN to|TO introduce|VB </s>|S_END
+<s>|S_START if|IN it|PRP does|VBZ not|RB get|VB new|JJ own|JJ resources|NNS says|VBZ the|DT parliament|NN it|PRP will|MD veto|VB the|DT budget|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tugging|VBG hard|RB alongside|JJ is|VBZ the|DT european|JJ commission|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ revised|VBN its|PRP$ draft|NN budget|NN to|TO €1033|-NONE- billion|CD after|IN adding|VBG money|NN for|IN croatia|NN which|WDT joins|VBZ next|JJ year|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ resorted|VBN to|TO the|DT old|JJ fiscal|JJ trick|NN of|IN keeping|VBG some|DT items|NNS offbudget|VBP </s>|S_END
+<s>|S_START when|WRB these|DT are|VBP added|VBN its|PRP$ proposal|NN comes|VBZ to|TO €1091|-NONE- billion—a|NNP 6|CD increase|NN in|IN real|JJ term|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT other|JJ end|NN of|IN the|DT rope|NN stands|VBZ britain|NN with|IN few|JJ real|JJ friends|NNS these|DT day|NN </s>|S_END
+<s>|S_START it|PRP wants|VBZ spending|NN frozen|VBN at|IN 2011|CD level|NN </s>|S_END
+<s>|S_START and|CC it|PRP wants|VBZ the|DT budget|NN set|NN using|VBG the|DT actual|JJ sums|NNS paid|VBN out|RP which|WDT are|VBP lower|JJR than|IN the|DT “commitments”|NN in|IN today’s|NNP budget|NN that|WDT makes|VBZ for|IN some|DT fuzziness|NN in|IN the|DT british|JJ bid|NN it|PRP seeks|VBZ to|TO reduce|VB the|DT commission’s|JJ request|NN by|IN between|IN €100|-NONE- billion|CD and|CC €200|-NONE- billion|CD depending|VBG on|IN who|WP does|VBZ the|DT sum|NN </s>|S_END
+<s>|S_START the|DT british|JJ say|NN that|IN for|IN a|DT country|NN sharply|RB cutting|VBG expenditure|NN to|TO curb|VB its|PRP$ budget|NN deficit|NN a|DT realterms|NNS freeze|VBP for|IN the|DT eu|NN is|VBZ generou|PRP </s>|S_END
+<s>|S_START david|VBD cameron|VBN britain’s|-NONE- prime|JJ minister|NN says|VBZ he|PRP too|RB is|VBZ ready|RB to|TO cast|VB his|PRP$ veto|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT british|JJ are|VBP also|RB at|IN the|DT centre|NN of|IN another|DT fight|NN about|IN their|PRP$ budget|NN rebate|NN </s>|S_END
+<s>|S_START over|IN the|DT years|NNS other|JJ states|NNS have|VBP secured|VBN reductions|NNS now|RB the|DT danes|NNS want|VBP one|CD too|RB </s>|S_END
+<s>|S_START the|DT commission|NN proposes|NNS to|TO simplify|VB the|DT complex|NN system|NN of|IN abatement|NN </s>|S_END
+<s>|S_START but|CC regardless|RB of|IN the|DT merit|NN of|IN reform|NN no|DT tory|NN prime|NN minister|NN could|MD touch|VB the|DT rebate|NN won|VBD in|IN 1984|CD by|IN margaret|NN thatcher|NN </s>|S_END
+<s>|S_START many|JJ now|RB ask|VBP whether|IN mr|NN cameron|NN really|RB wants|VBZ a|DT compromise|NN or|CC would|MD prefer—for|VB domestic|JJ reasons—to|NN cast|NN his|PRP$ veto|NN as|IN he|PRP did|VBD last|JJ december|NN </s>|S_END
+<s>|S_START the|DT cost|NN of|IN stalemate|NN apart|NN from|IN isolation|NN would|MD be|VB to|TO roll|VB over|IN the|DT 2013|CD budget|NN plus|CC inflation|NN meaning|NN that|IN the|DT budget|NN would|MD be|VB bigger|JJR than|IN britain|NN seeks|NNS and|CC mess|NN up|RP planning|VBG for|IN regional|JJ fund|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT will|MD be|VB watching|VBG mighty|NN germany|NN </s>|S_END
+<s>|S_START it|PRP says|VBZ the|DT budget|NN should|MD be|VB capped|VBN at|IN 1|CD of|IN the|DT eu’s|JJ gross|NN national|JJ income|NN reducing|VBG the|DT commission’s|JJ plan|NN by|IN about|RB €130|-NONE- billion|CD but|CC is|VBZ being|VBG pulled|VBN in|IN many|JJ a|DT direction|NN </s>|S_END
+<s>|S_START as|IN an|DT advocate|NN of|IN austerity|NN it|PRP sympathises|VBZ with|IN the|DT british|JJ </s>|S_END
+<s>|S_START but|CC as|IN a|DT big|JJ recipient|NN of|IN farm|NN subsidies|NNS and|CC as|IN the|DT other|JJ half|NN of|IN the|DT francogerman|NN partnership|NN it|PRP may|MD collude|VB with|IN france|NN to|TO preserve|VB agricultural|JJ spending|NN </s>|S_END
+<s>|S_START and|CC it|PRP will|MD want|VB to|TO keep|VB supporting|NN the|DT eu’s|NNP excommunist|NN members|NNS around|IN and|CC beyond|IN its|PRP$ eastern|NN border|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START looming|VBG over|IN the|DT fight|NN are|VBP two|CD broader|JJR questions|NNS the|DT future|NN of|IN the|DT euro|NN zone|NN and|CC the|DT future|NN of|IN britain|NN in|IN the|DT eu|NN </s>|S_END
+<s>|S_START the|DT euro|NN zone|NN is|VBZ talking|VBG about|IN “fiscal|JJ capacity”|NN jargon|NN for|IN creating|NN a|DT separate|JJ budget|NN to|TO stabilise|VB the|DT currency|NN </s>|S_END
+<s>|S_START at|IN the|DT last|JJ summit|NN in|IN october|NN mr|NN cameron|NN argued|VBD long|JJ and|CC hard|JJ over|IN the|DT degree|NN to|TO which|WDT the|DT two|CD budgets|NNS were|VBD “unrelated”|JJ </s>|S_END
+<s>|S_START ome|NN fear|NN he|PRP wants|VBZ to|TO use|VB the|DT “fiscal|JJ capacity”|NN to|TO demand|NN cuts|NNS in|IN the|DT eu|NN budget|NN </s>|S_END
+<s>|S_START more|JJR likely|JJ he|PRP wants|VBZ to|TO set|VB a|DT marker|NN for|IN the|DT looming|VBG treaty|NN renegotiation|NN in|IN which|WDT britain|NN may|MD seek|VB to|TO loosen|VB its|PRP$ tie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dreadful|JJ deadlock|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START o|NN after|IN all|DT the|DT hue|NN and|CC cry|NN the|DT most|JJS likely|JJ outcome|NN is|VBZ a|DT budget|NN that|WDT offers|VBZ little|RB change|NN </s>|S_END
+<s>|S_START the|DT partisans|NNS of|IN farm|NN subsidies|NNS regional|JJ funds|NNS and|CC the|DT rebates|NNS will|MD fight|VB each|DT other|JJ to|TO a|DT standstill|NN </s>|S_END
+<s>|S_START the|DT most|RBS likely|JJ casualties|NNS are|VBP sensible|JJ growthpromoting|VBG forms|NNS of|IN spending|NN such|JJ as|IN crossborder|NN infrastructure|NN and|CC research|NN that|WDT have|VBP no|DT entrenched|VBN lobbie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT eu|NN were|VBD starting|VBG anew|JJ it|PRP would|MD not|RB come|VB up|RP with|IN today’s|NNS budget|NN </s>|S_END
+<s>|S_START it|PRP would|MD not|RB spend|VB 40|CD of|IN its|PRP$ cash|NN on|IN agriculture|NN </s>|S_END
+<s>|S_START it|PRP would|MD not|RB need|VB all|DT sorts|NNS of|IN rebate|JJ </s>|S_END
+<s>|S_START and|CC it|PRP would|MD not|RB have|VB a|DT budget|NN of|IN absurd|NN rigidity|NN in|IN which|WDT even|RB unspent|VBD money|NN must|MD remain|VB in|IN “national|JJ envelopes”|NN </s>|S_END
+<s>|S_START even|RB if|IN a|DT deal|NN is|VBZ reached|VBN next|JJ month|NN the|DT summit|NN will|MD be|VB a|DT wasted|VBN opportunity|NN </s>|S_END
+<s>|S_START if|IN this|DT crisis|NN is|VBZ not|RB the|DT time|NN for|IN radical|JJ reform|NN when|WRB i|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogscharlemagne|NN </s>|S_END
+</p>|P_END
+

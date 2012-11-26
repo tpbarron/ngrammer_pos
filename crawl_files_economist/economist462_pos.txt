@@ -1,0 +1,70 @@
+<p>|P_START
+<s>|S_START iron|NN curtain|NN the|DT crushing|NN of|IN eastern|NN europe|NN 19441956|CD </s>|S_END
+<s>|S_START by|IN anne|NN applebaum|NN </s>|S_END
+<s>|S_START allen|NN lane|NN 614|CD pages|NNS £25|-NONE- </s>|S_END
+<s>|S_START doubleday|NN $|$ 35|CD </s>|S_END
+<s>|S_START buy|NN from|IN amazoncom|NN amazoncouk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT spring|NN of|IN 1945|CD the|DT polish|JJ city|NN of|IN lodz|NN was|VBD swamped|VBN with|IN refugee|NN </s>|S_END
+<s>|S_START local|JJ women|NNS organised|VBD themselves|PRP to|TO help|VB </s>|S_END
+<s>|S_START opening|VBG a|DT shelter|NN at|IN the|DT city|NN railway|NN station|NN they|PRP called|VBD themselves|PRP the|DT women’s|NNP league|NN </s>|S_END
+<s>|S_START five|CD years|NNS later|RBR the|DT league|NN had|VBD been|VBN transformed|VBN </s>|S_END
+<s>|S_START it|PRP had|VBD a|DT central|JJ office|NN in|IN warsaw|NN which|WDT controlled|VBN its|PRP$ regional|JJ offices|NNS and|CC its|PRP$ goals|NNS were|VBD to|TO “raise|JJ the|DT level|NN of|IN women’s|JJ social|JJ consciousness”|NN and|CC to|TO mobilise|VB them|PRP “to|-NONE- the|DT most|RBS complete|JJ realisation|NN of|IN the|DT goals|NNS of|IN the|DT sixyear|JJ plan”|NN </s>|S_END
+<s>|S_START it|PRP had|VBD become|VBN in|IN other|JJ words|NNS the|DT women’s|NNS section|NN of|IN the|DT polish|JJ communist|NN party|NN </s>|S_END
+<s>|S_START all|DT over|IN central|JJ europe|NN fledgling|VBG elements|NNS of|IN civil|JJ society—clubs|NNS associations|NNS schools|NNS and|CC churches—were|JJ thus|NN coopted|VBD into|IN new|JJ sovietoccupied|JJ communist|NN state|NN </s>|S_END
+<s>|S_START how|WRB did|VBD this|DT happen|NN and|CC why|WRB did|VBD the|DT soviet|NN union’s|VBZ attempt|NN to|TO impose|VB totalitarianism|NN on|IN its|PRP$ new|JJ empire|NN ultimately|RB fail|VBP </s>|S_END
+<s>|S_START these|DT are|VBP the|DT questions|NNS that|WDT lie|NN at|IN the|DT core|NN of|IN anne|NN applebaum’s|NNS illuminating|VBG new|JJ book|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START though|IN from|IN the|DT outset|NN central|JJ europeans|NNS suffered|VBD arbitrary|JJ expropriations|NNS and|CC arrests|NNS initially|RB the|DT soviet|JJ authorities|NNS sought|VBN to|TO create|VB the|DT semblance|NN of|IN national|JJ independence|NN and|CC political|JJ pluralism|NN </s>|S_END
+<s>|S_START local|JJ communist|NN parties|NNS ruled|VBD in|IN notional|JJ coalition|NN </s>|S_END
+<s>|S_START national|JJ symbols|NNS were|VBD reinstated|VBN </s>|S_END
+<s>|S_START in|IN berlin|NN the|DT future|NN spymaster|NN markus|VBZ wolf|NN hosted|VBN a|DT radio|NN programme|NN entitled|VBD “you|PRP ask|VBP we|PRP answer”|-NONE- which|WDT as|IN well|RB as|IN praising|VBG russian|JJ communism|NN answered|VBD listeners’|JJ queries|NNS on|IN vegetable|JJ supplies|NNS and|CC the|DT reopening|NN of|IN the|DT berlin|NN zoo|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT mask|NN dropped|VBD with|IN the|DT first|JJ postwar|NN election|NN </s>|S_END
+<s>|S_START these|DT were|VBD held|VBN ms|NNS applebaum|NN stresses|NNS because|IN central|JJ europe’s|NNS “little|JJ stalins”|NN sincerely|RB believed|VBD they|PRP would|MD win|VB </s>|S_END
+<s>|S_START in|IN the|DT event|NN in|IN hungary’s|NNP national|JJ elections|NNS of|IN november|NN 1945|CD the|DT communists|NNS took|VBD just|RB 17|CD of|IN the|DT vote|NN and|CC in|IN january|JJ 1947|CD the|DT polish|JJ peasants’|NN party|NN led|VBD by|IN a|DT former|JJ member|NN of|IN general|JJ wladyslaw|NN sikorksi’s|NNS governmentinexile|IN won|NN a|DT parliamentary|JJ election|NN so|IN thoroughly|RB despite|IN violent|NN intimidation|NN that|WDT the|DT results|NNS had|VBD brazenly|RB to|TO be|VB falsified|VBN </s>|S_END
+<s>|S_START nowhere|RB were|VBD the|DT real|JJ victors|NNS allowed|VBN to|TO take|VB power|NN and|CC opposition|NN leaders|NNS were|VBD subsequently|RB arrested|VBN or|CC fled|VBN into|IN exile|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT solution|NN to|TO this|DT moscow|NN believed|VBD was|VBD not|RB less|JJR communism|NN but|CC more|RBR </s>|S_END
+<s>|S_START central|JJ europeans|NNS like|IN russians|NNS could|MD be|VB moulded|VBN into|IN homo|NN sovieticus|NNS conformist|VBP optimistic|JJ hardworking|NN and|CC socially|RB consciou|PRP </s>|S_END
+<s>|S_START across|IN the|DT block|NN schoolchildren|NN like|IN their|PRP$ russian|JJ counterparts|NNS before|IN them|PRP started|VBD learning|VBG ditties|NNS in|IN praise|NN of|IN stalin|NN </s>|S_END
+<s>|S_START in|IN factories|NNS workers|NNS competed|VBD to|TO become|VB stakhanovite|JJ “shockworkers”|NN </s>|S_END
+<s>|S_START writers|NNS and|CC artists|NNS lured|VBD home|NN by|IN promises|NNS of|IN fat|JJ commissions|NNS and|CC vast|JJ print|NN runs|VBZ found|VBN themselves|PRP turning|VBG out|RP unreadable|JJ novels|NNS and|CC socialist|JJ realist|NN mural|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC stalinism|NN contained|VBD the|DT seeds|NNS of|IN its|PRP$ own|JJ destruction|NN </s>|S_END
+<s>|S_START in|IN a|DT system|NN that|WDT seeks|VBZ to|TO control|NN everything|NN ms|NNS applebaum|NN points|NNS out|IN any|DT sort|NN of|IN spontaneity|NN or|CC individuality|NN however|RB apolitical|JJ becomes|NNS a|DT form|NN of|IN protest|NN </s>|S_END
+<s>|S_START and|CC spontaneity|NN there|EX wa|NN </s>|S_END
+<s>|S_START in|IN newly|RB built|VBN steel|NN towns|NNS anxious|JJ officials|NNS reported|VBD workers|NNS failed|VBD to|TO attend|VB the|DT theatre|NN after|IN work|NN haunting|VBG instead|RB pubs|NNS and|CC underground|NN brothel|NN </s>|S_END
+<s>|S_START young|JJ people|NNS began|VBD sporting|VBG drainpipe|NN trousers|NNS ducktail|VBP quiffs|NNS kipper|JJR ties|NNS and|CC makarturki|NN named|VBD for|IN the|DT style|NN of|IN sunglasses|NNS worn|VBP by|IN general|JJ douglas|NNS macarthur|VBP </s>|S_END
+<s>|S_START in|IN germany|NN hundreds|NNS of|IN thousands|NNS crossed|VBN from|IN east|JJ to|TO west|VB despite|IN evertightening|VBG soviet|JJ border|NN control|NN </s>|S_END
+<s>|S_START everywhere|RB people|NNS told|VBD bitterly|RB satirical|JJ joke|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT cracks|NNS widened|VBD dramatically|RB with|IN stalin’s|JJ death|NN in|IN march|NN 1953|CD </s>|S_END
+<s>|S_START within|IN months|NNS strikes|VBZ broke|NN out|IN in|IN several|JJ german|NN cities|NNS demands|NNS for|IN better|JJR pay|NN being|VBG underlined|VBN by|IN attacks|NNS on|IN party|NN headquarters|NNS and|CC russianlanguage|NN bookshop|NN </s>|S_END
+<s>|S_START walter|NN ulbricht|VBD and|CC his|PRP$ puppet|NN government|NN holed|VBD up|RP in|IN the|DT offices|NNS of|IN the|DT soviet|JJ ambassador|NN and|CC russian|JJ tanks|NNS not|RB east|JJ german|NN police|NN fired|VBD at|IN the|DT demonstrator|NN </s>|S_END
+<s>|S_START three|CD years|NNS later|RBR a|DT second|JJ shock|NN nikita|NN khrushchev’s|NNS “secret|JJ speech”|NN to|TO the|DT 20th|JJ party|NN congress|NN denouncing|VBG stalin’s|NNS purges|NNS and|CC personality|NN cult|NN sparked|VBD the|DT hungarian|JJ uprising|NN </s>|S_END
+<s>|S_START it|PRP was|VBD crushed|VBN but|CC so|RB too|RB was|VBD the|DT totalitarian|JJ dream|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START human|NN beings|NNS as|IN ms|NNS applebaum|NN rousingly|RB concludes|VBZ do|VBP not|RB acquire|VB “totalitarian|JJ personalities”|NN with|IN ease|NN </s>|S_END
+<s>|S_START even|RB when|WRB they|PRP seem|VBP bewitched|JJ by|IN the|DT cult|NN of|IN the|DT leader|NN or|CC of|IN the|DT party|NN appearances|NNS can|MD deceive|VB she|PRP write|VB </s>|S_END
+<s>|S_START when|WRB it|PRP seems|VBZ as|IN if|IN they|PRP buy|VBP into|IN the|DT most|RBS absurd|JJ propaganda—marching|JJ in|IN parades|NNS chanting|VBG slogans|NNS singing|VBG that|IN the|DT party|NN is|VBZ always|RB right—the|JJ spell|NN can|MD suddenly|RB unexpectedly|RB dramatically|RB be|VB broken|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START anne|NN applebaum|NN will|MD be|VB discussing|VBG iron|NN curtain|NN as|IN part|NN of|IN the|DT economists|NNS books|VBZ of|IN the|DT year|NN festival|NN at|IN southbank|NN centre|NN in|IN london|NN on|IN december|NN 8th|CD 2012|CD </s>|S_END
+</p>|P_END
+

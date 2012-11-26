@@ -1,0 +1,61 @@
+<p>|P_START
+<s>|S_START in|IN tokyo|NN last|JJ week|NN the|DT bigwigs|NNS of|IN international|JJ finance|NN paid|VBN close|JJ attention|NN to|TO a|DT speech|NN by|IN ben|NN bernanke|NN chairman|NN of|IN america’s|NNP federal|JJ reserve|NN </s>|S_END
+<s>|S_START his|PRP$ speech|NN urged|VBD them|PRP in|IN effect|NN to|TO pay|VB less|JJR attention|NN </s>|S_END
+<s>|S_START many|JJ policymakers|NNS in|IN emerging|VBG markets|NNS complain|VBP that|IN fed|VBN easing|VBG destabilises|NNS their|PRP$ economies|NNS contributing|VBG to|TO higher|JJR inflation|NN and|CC asset|NN price|NN </s>|S_END
+<s>|S_START mr|NN bernanke|VBD pointed|VBN out|RP that|IN emerging|VBG economies|NNS can|MD insulate|VB themselves|PRP from|IN his|PRP$ decisions|NNS by|IN simply|RB decoupling|VBG their|PRP$ currencies|NNS from|IN the|DT dollar|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ their|PRP$ habit|NN of|IN shadowing|VBG america’s|NNS currency|NN however|RB loosely|RB that|IN obliges|NNS emerging|VBG economies|NNS to|TO ease|VB monetary|JJ policy|NN whenever|NN he|PRP doe|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START policymakers|NNS may|MD heed|VB mr|NN bernanke’s|-NONE- words—freeing|JJ them|PRP to|TO ignore|VB his|PRP$ decisions—sooner|NN than|IN he|PRP think|VBP </s>|S_END
+<s>|S_START in|IN a|DT more|RBR thinly|RB attended|VBN speech|NN on|IN the|DT same|JJ day|NN a|DT deputy|NN governor|NN of|IN china’s|JJ central|JJ bank|NN pointed|VBD out|RP that|IN china|NN no|DT longer|NN hoovers|NNS up|IN dollar|NN reserves|NNS with|IN its|PRP$ past|JJ abandon|NN </s>|S_END
+<s>|S_START and|CC according|VBG to|TO a|DT new|JJ study|NN by|IN arvind|NN subramanian|JJ and|CC martin|NN kessler|NN of|IN the|DT peterson|NN institute|NN for|IN international|JJ economics|NNS in|IN washington|NN dc|NN the|DT dollar’s|NNP influence|NN is|VBZ waning|VBG in|IN the|DT emerging|NN world|NN </s>|S_END
+<s>|S_START currencies|NNS that|IN used|VBN to|TO shadow|VB the|DT greenback|NN are|VBP no|RB longer|RBR following|VBG it|PRP so|RB closely|RB </s>|S_END
+<s>|S_START ome|NN are|VBP floating|VBG more|JJR freely|RB </s>|S_END
+<s>|S_START but|CC in|IN other|JJ cases|NNS they|PRP are|VBP steadily|RB falling|VBG under|IN the|DT spell|NN of|IN a|DT different|JJ currency|NN the|DT yuan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN inflationprone|NN emerging|VBG economies|NNS such|JJ as|IN ecuador|NN have|VBP adopted|VBN the|DT dollar|NN as|IN their|PRP$ official|NN currency|NN </s>|S_END
+<s>|S_START others|NNS such|JJ as|IN jordan|JJ peg|NN their|PRP$ exchange|NN rate|NN to|TO it|PRP </s>|S_END
+<s>|S_START these|DT official|JJ policies|NNS are|VBP one|CD measure|NN of|IN the|DT dollar’s|JJ international|JJ role|NN </s>|S_END
+<s>|S_START messrs|NNS subramanian|VBP and|CC kessler|NN use|NN a|DT different|JJ measure|NN based|VBN on|IN the|DT way|NN exchange|NN rates|NNS behave|VBP in|IN the|DT market|NN </s>|S_END
+<s>|S_START they|PRP identify|VBP currencies|NNS that|IN tend|NN to|TO move|VB in|IN sympathy|NN with|IN the|DT dollar|NN in|IN its|PRP$ daily|JJ fluctuations|NNS against|IN a|DT third|JJ currency|NN such|JJ as|IN the|DT swiss|NN franc|NN </s>|S_END
+<s>|S_START this|DT “comovement”|NN could|MD reflect|VB market|NN forces|NNS not|RB official|JJ policie|NN </s>|S_END
+<s>|S_START it|PRP need|VBP not|RB be|VB a|DT perfect|NN correlation|NN </s>|S_END
+<s>|S_START it|PRP need|VBP only|RB be|VB close|JJ enough|RB to|TO rule|NN out|RP coincidence|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START based|VBN on|IN this|DT measure|NN the|DT dollar|NN still|RB exerts|VBZ a|DT significant|JJ pull|NN over|IN 31|CD of|IN the|DT 52|CD emergingmarket|NN currencies|NNS in|IN their|PRP$ study|NN </s>|S_END
+<s>|S_START but|CC a|DT number|NN of|IN countries|NNS including|VBG india|NN malaysia|NN the|DT philippines|NNS and|CC russia|NN appear|NN to|TO have|VB slipped|VBN anchor|NN since|IN the|DT financial|JJ crisi|NN </s>|S_END
+<s>|S_START comparing|VBG the|DT past|JJ two|CD years|NNS with|IN the|DT precrisis|NN years|NNS from|IN july|RB 2005|CD to|TO july|RB 2008|CD they|PRP show|VBP that|IN the|DT dollar’s|NNS influence|NN has|VBZ declined|VBN in|IN 38|CD case|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT greenback|NN has|VBZ in|IN the|DT past|JJ played|VBN a|DT dominant|JJ role|NN in|IN east|JJ asia|NN </s>|S_END
+<s>|S_START but|CC if|IN anything|NN the|DT region|NN is|VBZ now|RB on|IN a|DT yuan|JJ standard|JJ </s>|S_END
+<s>|S_START even|RB currencies|VBZ in|IN the|DT region|NN now|RB follow|VBP the|DT yuan|NN or|CC redback|NN more|RBR closely|RB than|IN the|DT green|JJ see|NN chart|NN </s>|S_END
+<s>|S_START when|WRB the|DT dollar|NN moves|VBZ by|IN 1|CD east|JJ asia’s|NNS currencies|NNS move|VBP in|IN the|DT same|JJ direction|NN by|IN 038|CD on|IN average|JJ </s>|S_END
+<s>|S_START when|WRB the|DT yuan|NN moves|VBZ they|PRP shift|VBP by|IN 053|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN course|NN the|DT yuan|NN does|VBZ not|RB yet|RB float|RB freely|RB itself|PRP </s>|S_END
+<s>|S_START ince|NN june|NN 2010|CD it|PRP has|VBZ climbed|VBN by|IN about|RB 9|CD against|IN the|DT dollar|NN fluctuating|VBG within|IN narrow|NN daily|RB band|NN </s>|S_END
+<s>|S_START its|PRP$ close|JJ relationship|NN with|IN the|DT greenback|NN poses|VBZ a|DT statistical|JJ conundrum|NN for|IN messrs|NNS subramanian|JJ and|CC kessler|NN </s>|S_END
+<s>|S_START how|WRB can|MD they|PRP tell|VBP if|IN a|DT currency|NN is|VBZ following|VBG in|IN the|DT dollar’s|JJ footsteps|NNS or|CC the|DT yuan’s|JJ if|IN those|DT two|CD currencies|NNS are|VBP moving|VBG in|IN close|JJ step|NN with|IN each|DT other|JJ </s>|S_END
+<s>|S_START in|IN previous|JJ studies|NNS wherever|RB this|DT ambiguity|NN arose|NN currencies|NNS were|VBD assumed|VBN to|TO be|VB following|VBG the|DT dollar|NN </s>|S_END
+<s>|S_START the|DT authors|NNS relax|VBP this|DT assumption|NN arguing|VBG that|IN the|DT yuan|NN now|RB moves|VBZ independently|RB enough|RB to|TO allow|VB them|PRP to|TO distinguish|VB its|PRP$ influence|NN </s>|S_END
+<s>|S_START but|CC some|DT of|IN the|DT yuan’s|JJ apparent|NN prominence|NN may|MD still|RB be|VB the|DT dollar’s|JJ reflected|JJ glory|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START outside|IN east|JJ asia|NN the|DT redback’s|NNP influence|NN is|VBZ still|RB limited|VBN </s>|S_END
+<s>|S_START when|WRB the|DT dollar|NN moves|VBZ by|IN 1|CD emergingmarket|NN currencies|NNS move|VB by|IN 045|CD on|IN average|JJ </s>|S_END
+<s>|S_START in|IN response|NN to|TO the|DT yuan|NN they|PRP move|VBP by|IN only|RB 019|CD </s>|S_END
+<s>|S_START but|CC china’s|JJ currency|NN will|MD continue|VB to|TO grow|VB in|IN stature|NN as|IN its|PRP$ economy|NN and|CC trading|NN activity|NN grow|NN in|IN size|NN </s>|S_END
+<s>|S_START based|VBN on|IN these|DT two|CD forces|NNS alone|RB china’s|JJ currency|NN should|MD surpass|VB the|DT dollar|NN as|IN a|DT key|JJ currency|NN some|DT time|NN around|RP 2035|CD mr|NN subramanian|NN guesse|NN </s>|S_END
+<s>|S_START by|IN that|DT point|NN the|DT fed|JJ chairman|NN will|MD be|VB the|DT one|CD pulling|VBG in|IN the|DT smaller|JJR audience|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,17 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 63|CD gdp|NN $|$ 989bn|CD ppp|CD $|$ 1216bn|CD inflation|NN 52|CD population|NN 2482m|CD gdp|NN per|IN head|NN $|$ 3990|CD ppp|CD $|$ 4900|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT secondterm|NN coalition|NN government|NN of|IN the|DT president|NN susilo|NN bambang|NN yudhoyono|NN is|VBZ not|RB popular|JJ and|CC corruption|NN scandals|NNS and|CC infighting|VBG are|VBP dogging|VBG his|PRP$ administration|NN </s>|S_END
+<s>|S_START nevertheless|RB its|PRP$ survival|NN is|VBZ not|RB threatened|VBN and|CC a|DT strong|JJ economy|NN will|MD dampen|VB public|JJ ire|NN </s>|S_END
+<s>|S_START china|NN will|MD partly|RB displace|VB western|JJ trade|NN partners|NNS but|CC the|DT government|NN will|MD remain|VB true|JJ to|TO the|DT countrys|NNS nonaligned|VBD tradition|NN as|IN it|PRP wields|VBZ increasing|VBG influence|NN abroad|RB </s>|S_END
+<s>|S_START rising|VBG domestic|JJ consumption|NN will|MD support|VB the|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB after|IN aceh|NN </s>|S_END
+<s>|S_START the|DT terrorist|NN threat|NN from|IN separatist|NN groups|NNS in|IN the|DT scattered|VBN archipelago|NN will|MD persist|VB despite|IN the|DT 2005|CD peace|NN accords|NNS with|IN some|DT of|IN the|DT biggest|JJS </s>|S_END
+<s>|S_START poradic|JJ but|CC deadly|RB attacks|VBZ are|VBP likely |JJ </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,132 @@
+<p>|P_START
+<s>|S_START many|JJ lowincome|NN parents|NNS could|MD see|VB their|PRP$ tax|NN bills|NNS jump|VB by|IN thousands|NNS of|IN dollars|NNS next|IN year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN many|JJ lowincome|NN parents|NNS could|MD see|VB their|PRP$ tax|NN bills|NNS jump|VB by|IN thousands|NNS of|IN dollars|NNS next|IN year|NN if|IN nothing|NN is|VBZ done|VBN to|TO stop|VB a|DT series|NN of|IN tax|NN breaks|NNS from|IN expiring|VBG january|JJ 1|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unless|IN congress|NN takes|VBZ action|NN before|IN the|DT end|NN of|IN the|DT year|NN four|CD important|JJ credits|NNS for|IN families|NNS the|DT child|NN tax|NN credit|NN earned|VBD income|NN tax|NN credit|NN child|NN and|CC dependent|NN care|NN credit|NN and|CC the|DT american|NN opportunity|NN credit|NN will|MD revert|VB back|RB to|TO previous|JJ levels|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN this|DT happens|NNS many|JJ families|NNS will|MD be|VB worse|RB off|IN by|IN hundreds|NNS or|CC even|RB thousands|NNS of|IN dollars|NNS said|VBD roberton|NN williams|NNS a|DT senior|JJ fellow|NN at|IN the|DT tax|NN policy|NN center|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP have|VBP what|WP it|PRP takes|VBZ to|TO qualify|VB for|IN these|DT particular|JJ benefits|NNS you|PRP will|MD get|VB hit|VBN said|VBD williams|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT families|NNS will|MD take|VB a|DT hit|NN on|IN several|JJ fronts|NNS if|IN they|PRP qualify|VBP for|IN more|JJR than|IN one|CD tax|NN break|NN </s>|S_END
+<s>|S_START a|DT lowincome|NN couple|NN with|IN three|CD kids|NNS for|IN example|NN will|MD lose|VB as|IN much|JJ as|IN $|$ 1500|CD from|IN expiring|VBG provisions|NNS of|IN the|DT child|NN tax|NN credit|NN </s>|S_END
+<s>|S_START if|IN their|PRP$ income|NN is|VBZ low|JJ enough|RB they|PRP could|MD also|RB see|VB a|DT smaller|JJR refund|NN from|IN the|DT earned|JJ income|NN tax|NN credit|NN and|CC benefits|NNS from|IN the|DT child|NN and|CC dependent|NN care|NN credit|NN could|MD be|VB reduced|VBN as|IN well|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT upcoming|NN presidential|JJ election|NN has|VBZ left|VBN the|DT fate|NN of|IN these|DT tax|NN breaks|NNS uncertain|VBP </s>|S_END
+<s>|S_START democrats|NNS and|CC republicans|NNS in|IN congress|NN continue|NN to|TO butt|VB heads|NNS about|IN which|WDT tax|NN cuts|NNS should|MD be|VB extended|VBN and|CC theres|NNS virtually|RB no|DT chance|NN they|PRP will|MD agree|VB on|IN a|DT specific|JJ plan|NN before|IN the|DT november|NN election|NN williams|NNS said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB if|IN an|DT agreement|NN is|VBZ reached|VBN by|IN the|DT end|NN of|IN the|DT year|NN which|WDT is|VBZ far|RB from|IN a|DT sure|NN thing|NN either|DT next|JJ years|NNS tax|NN policy|NN will|MD ultimately|RB depend|VB on|IN who|WP takes|VBZ over|IN the|DT oval|NN office|NN </s>|S_END
+<s>|S_START related|VBD americans|NNS face|NN $|$ 3500|CD fiscal|JJ cliff|NN tax|NN hit|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START 1|LS </s>|S_END
+<s>|S_START child|NN tax|NN credit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT child|NN tax|NN credit|NN allows|VBZ lowerincome|NN parents|NNS to|TO claim|VB as|IN much|JJ as|IN $|$ 1000|CD for|IN each|DT child|NN under|IN age|NN 17|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START under|IN george|NN w|NN bushs|NNS tax|NN relief|NN reconciliation|NN act|NN the|DT maximum|NN value|NN of|IN the|DT credit|NN was|VBD doubled|VBN to|TO $|$ 1000|CD </s>|S_END
+<s>|S_START obamas|NNS 2010|CD tax|NN relief|NN act|NN then|RB extended|VBD the|DT credit|NN until|IN the|DT end|NN of|IN this|DT year|NN and|CC made|VBD it|PRP so|RB families|VBZ whose|WP$ income|NN tax|NN is|VBZ lower|JJR than|IN the|DT credits|NNS value|NN could|MD receive|VB more|RBR of|IN the|DT credit|NN in|IN a|DT cash|NN refund|NN once|RB any|DT tax|NN liability|NN is|VBZ zeroed|VBN out|RP </s>|S_END
+<s>|S_START the|DT credit|NN phases|NNS out|IN for|IN married|VBN couples|NNS whose|WP$ income|NN is|VBZ $|$ 110000|CD or|CC for|IN single|JJ people|NNS with|IN income|NN of|IN $|$ 75000|CD or|CC more|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START should|MD the|DT bush|NN and|CC obama|NN provisions|NNS expire|VBP the|DT tax|NN break|NN will|MD drop|VB back|RB down|IN to|TO a|DT maximum|NN of|IN $|$ 500|CD and|CC only|RB working|VBG families|NNS with|IN three|CD or|CC more|JJR children|NNS will|MD be|VB eligible|JJ to|TO receive|VB cash|NN refunds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT couple|NN with|IN two|CD children|NNS could|MD therefore|VB end|NN up|RP paying|VBG an|DT added|JJ $|$ 1000|CD in|IN taxes|NNS next|IN year|NN </s>|S_END
+<s>|S_START since|IN they|PRP have|VBP fewer|JJR than|IN three|CD children|NNS they|PRP will|MD no|RB longer|RBR be|VB eligible|JJ for|IN a|DT cash|NN refund|NN </s>|S_END
+<s>|S_START and|CC if|IN they|PRP dont|VBP owe|PRP any|DT taxes|NNS they|PRP cant|VBP apply|RB the|DT credit|NN either|DT said|VBD williams|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START 2|LS </s>|S_END
+<s>|S_START child|NN and|CC dependent|NN care|NN tax|NN credit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT credit|NN allows|VBZ working|VBG parents|NNS or|CC those|DT looking|VBG for|IN work|NN to|TO report|VB up|RP to|TO $|$ 3000|CD of|IN child|NN carerelated|VBN expenses|NNS per|IN child|NN up|IN to|TO a|DT maximum|NN of|IN $|$ 6000|CD per|IN family|NN </s>|S_END
+<s>|S_START families|NNS can|MD receive|VB up|RP to|TO 35|CD of|IN their|PRP$ expenses|NNS as|IN a|DT credit|NN with|IN lowerincome|NN families|NNS receiving|VBG the|DT highest|JJS percentages|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START prior|RB to|TO bushs|NNS tax|NN cuts|NNS parents|NNS could|MD only|RB report|VB up|RP to|TO $|$ 2400|CD per|IN child|NN or|CC $|$ 4800|CD per|IN family|NN and|CC families|NNS received|VBD a|DT maximum|NN credit|NN of|IN just|RB 30|CD of|IN expenses|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START should|MD the|DT tax|NN breaks|VBZ expire|NN at|IN the|DT end|NN of|IN the|DT year|NN the|DT credit|NN will|MD revert|VB back|RB to|TO these|DT lower|JJR levels|NNS </s>|S_END
+<s>|S_START that|DT would|MD mean|VB the|DT biggest|JJS credit|NN that|WDT parents|VBZ with|IN two|CD children|NNS could|MD receive|VB next|JJ year|NN would|MD be|VB $|$ 1440|CD compared|VBN to|TO a|DT $|$ 2100|CD credit|NN under|IN the|DT current|JJ tax|NN code|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START 3|LS </s>|S_END
+<s>|S_START earned|VBD income|NN tax|NN credit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT government|NN estimates|VBZ that|IN the|DT earned|JJ income|NN tax|NN credit|NN lifts|NNS millions|NNS of|IN americans|NNS out|IN of|IN poverty|NN each|DT year|NN by|IN allowing|NN them|PRP to|TO hold|VB onto|IN more|JJR of|IN their|PRP$ earnings|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT more|RBR children|NNS you|PRP have|VBP the|DT more|RBR money|NN you|PRP receive|VBP </s>|S_END
+<s>|S_START for|IN example|NN married|VBD couples|NNS filing|VBG jointly|RB who|WP have|VBP income|VBN below|IN $|$ 50270|CD and|CC three|CD or|CC more|JJR qualifying|VBG children|NNS can|MD receive|VB up|RP to|TO $|$ 5891|CD this|DT year|NN </s>|S_END
+<s>|S_START if|IN a|DT married|VBN couple|NN doesnt|NN have|VBP any|DT qualifying|VBG children|NNS but|CC has|VBZ income|VBN below|IN $|$ 19190|CD the|DT maximum|NN credit|NN drops|NNS to|TO $|$ 475|CD </s>|S_END
+<s>|S_START related|VBD dont|VBN overlook|NN this|DT $|$ 6000|CD tax|NN credit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START since|IN 2001|CD the|DT income|NN thresholds|NNS at|IN which|WDT the|DT credit|NN begins|VBZ phasing|VBG out|RP for|IN married|VBN couples|NNS were|VBD raised|VBN by|IN about|RB $|$ 5000|CD by|IN the|DT bush|JJ and|CC obama|NN tax|NN plans|NNS </s>|S_END
+<s>|S_START but|CC at|IN the|DT end|NN of|IN this|DT year|NN phaseout|IN thresholds|NNS for|IN married|JJ couples|NNS are|VBP scheduled|VBN to|TO revert|VB back|RB to|TO the|DT lower|JJR income|NN levels|NNS that|WDT apply|RB for|IN single|JJ filers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START obama|NN also|RB raised|VBD the|DT maximum|NN credit|NN for|IN families|NNS with|IN three|CD or|CC more|JJR children|NNS from|IN 40|CD to|TO 45|CD of|IN a|DT households|NNS earnings|NNS up|IN to|TO a|DT maximum|NN amount|NN and|CC that|IN rate|NN is|VBZ slated|VBN to|TO go|VB back|RB to|TO 40|CD in|IN 2013|CD </s>|S_END
+<s>|S_START this|DT decrease|NN could|MD amount|VB to|TO a|DT loss|NN of|IN more|JJR than|IN $|$ 600|CD for|IN families|NNS with|IN at|IN least|JJS three|CD children|NNS who|WP had|VBD previously|RB claimed|VBN this|DT credit|NN said|VBD williams|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START 4|LS </s>|S_END
+<s>|S_START american|NN opportunity|NN tax|NN credit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START introduced|VBD as|IN part|NN of|IN obamas|NNS stimulus|CC plan|NN the|DT american|JJ opportunity|NN tax|NN credit|NN aims|NNS to|TO help|VB lowerincome|DT families|NNS pay|VBP for|IN college|NN </s>|S_END
+<s>|S_START it|PRP replaced|VBD the|DT hope|NN credit|NN and|CC allows|VBZ qualifying|VBG families|NNS to|TO claim|VB up|RP to|TO $|$ 2500|CD each|DT year|NN for|IN four|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START obama|NN made|VBD the|DT credit|NN 40|CD refundable|JJ meaning|NN a|DT family|NN that|WDT qualifies|VBZ for|IN the|DT full|JJ $|$ 2500|CD can|MD receive|VB $|$ 1000|CD of|IN the|DT credit|NN in|IN cash|NN and|CC the|DT rest|NN must|MD be|VB applied|VBN toward|IN their|PRP$ tax|NN liability|NN </s>|S_END
+<s>|S_START that|DT refundable|JJ $|$ 1000|CD is|VBZ especially|RB important|JJ for|IN lowincome|NN families|NNS since|IN they|PRP often|RB dont|VBP have|VBP big|JJ enough|RB tax|NN bills|NNS to|TO apply|VB a|DT nonrefundable|JJ credit|NN </s>|S_END
+<s>|S_START often|RB the|DT refundable|JJ amount|NN is|VBZ the|DT only|JJ portion|NN they|PRP receive|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT american|JJ opportunity|NN tax|NN credit|NN is|VBZ scheduled|VBN to|TO disappear|VB at|IN the|DT end|NN of|IN this|DT year|NN and|CC revert|NN back|RB to|TO the|DT hope|NN credit|NN </s>|S_END
+<s>|S_START at|IN that|DT point|NN the|DT maximum|NN credit|NN will|MD drop|VB to|TO $|$ 1800|CD </s>|S_END
+<s>|S_START also|RB families|VBZ will|MD only|RB be|VB able|JJ to|TO claim|VB the|DT credit|NN for|IN two|CD years|NNS and|CC it|PRP will|MD no|RB longer|RBR be|VB refundable|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START because|IN the|DT hope|NN credit|NN is|VBZ not|RB at|IN all|DT refundable|JJ thats|NNS potentially|RB $|$ 1000|CD dollars|NNS out|IN of|IN the|DT pocket|NN of|IN a|DT college|NN student|NN and|CC when|WRB youre|NN trying|VBG to|TO go|VB to|TO college|VB $|$ 1000|CD is|VBZ a|DT lot|NN of|IN money|NN said|VBD williams|NNS </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,116 @@
+<p>|P_START
+<s>|S_START square|NN ceo|VBD jack|NN dorsey|NN nabbed|VBD his|PRP$ biggest|JJS customer|NN yet|RB starbucks|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN two|CD years|NNS ago|RB i|PRP met|VBP square|JJ ceo|NN jack|NN dorsey|NN at|IN third|JJ rail|NN one|CD of|IN his|PRP$ favorite|JJ coffee|NN shops|NNS in|IN downtown|NN new|JJ york|NN </s>|S_END
+<s>|S_START he|PRP held|VBD up|RP a|DT small|JJ plastic|JJ square|NN and|CC told|VBD me|PRP that|IN the|DT future|NN of|IN payments|NNS was|VBD in|IN this|DT tiny|NN device|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT entire|JJ industry|NN was|VBD about|IN to|TO change|VB he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dorsey|NN was|VBD in|IN the|DT middle|NN of|IN a|DT major|JJ change|NN himself|PRP </s>|S_END
+<s>|S_START recently|RB ousted|VBD from|IN twitter|NN the|DT company|NN he|PRP cofounded|VBD he|PRP rebounded|VBD by|IN shifting|NN his|PRP$ famously|RB intense|JJ focus|NN to|TO a|DT new|JJ pain|NN point|NN the|DT way|NN we|PRP pay|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START squares|NNS pitch|VBP a|DT simple|JJ fee|NN structure|NN and|CC technology|NN that|IN just|RB works|VBZ was|VBD a|DT quick|JJ hit|NN with|IN small|JJ merchants|NNS like|IN third|JJ rail|NN </s>|S_END
+<s>|S_START square|NN now|RB has|VBZ 2|CD million|CD users|NNS and|CC an|DT annual|JJ transaction|NN volume|NN approaching|VBG $|$ 6|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT was|VBD just|RB phase|NN one|CD it|PRP turns|VBZ out|RP </s>|S_END
+<s>|S_START dorsey|NN wasnt|VBD kidding|VBG about|IN reinventing|VBG the|DT entire|JJ concept|NN of|IN payments|NNS </s>|S_END
+<s>|S_START last|JJ week|NN he|PRP struck|VBD a|DT partnership|NN that|WDT will|MD begin|VB to|TO bring|VB his|PRP$ vision|NN to|TO the|DT mass|NN market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT fall|NN starbucks|VBZ sbux|NN fortune|NN 500|CD will|MD begin|VB accepting|VBG payments|NNS through|IN squares|NNS mobile|JJ app|NN </s>|S_END
+<s>|S_START customers|NNS will|MD be|VB able|JJ to|TO pay|VB for|IN their|PRP$ lattes|NNS by|IN holding|VBG up|RP their|PRP$ phone|NN and|CC allowing|VBG starbucks|NNS to|TO automatically|RB charge|VB the|DT customers|NNS card|NN on|IN the|DT back|NN end|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS the|DT first|JJ step|NN </s>|S_END
+<s>|S_START in|IN the|DT not|RB too|RB distant|JJ future|JJ dorsey|NN and|CC starbucks|NNS plan|VBP to|TO let|VB customers|NNS ditch|VBP their|PRP$ phones|NNS completely|RB </s>|S_END
+<s>|S_START all|DT theyll|NN need|VBP is|VBZ the|DT pay|NN with|IN square|JJ app|NN which|WDT stores|NNS credit|VBP card|NN numbers|NNS and|CC other|JJ financial|JJ data|NNS and|CC a|DT name|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT system|NN uses|VBZ the|DT phones|NNS gps|VBZ to|TO detect|VB that|IN youve|JJ walked|JJ into|IN a|DT squareenabled|JJ retailer|NN </s>|S_END
+<s>|S_START the|DT stores|NNS checkout|IN software|NN then|RB automatically|RB connects|VBZ with|IN your|PRP$ square|NN app|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START you|PRP can|MD actually|RB walk|VB into|IN a|DT merchant|NN keep|NN your|PRP$ phone|NN in|IN pocket|NN keep|VB your|PRP$ wallet|NN in|IN your|PRP$ pocket|NN and|CC a|DT picture|NN of|IN you|PRP pops|VBZ up|RP on|IN the|DT register|NN dorsey|NN told|VBD me|PRP </s>|S_END
+<s>|S_START you|PRP can|MD just|RB say|VB im|PRP laurie|VB and|CC id|JJ like|IN a|DT cappuccino|NN and|CC your|PRP$ card|NN is|VBZ charged|VBN in|IN the|DT background|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD story|NN the|DT death|NN of|IN cash|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START square|NN has|VBZ been|VBN experimenting|VBG with|IN that|DT kind|NN of|IN almost|RB invisible|JJ payment|NN system|NN at|IN small|JJ shops|NNS like|IN new|JJ yorks|NNS café|-NONE- grumpy|VBP but|CC starbucks|NNS can|MD dramatically|RB accelerate|VB it|PRP </s>|S_END
+<s>|S_START the|DT company|NN averages|VBZ more|JJR than|IN 8|CD million|CD customers|NNS a|DT day|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT shoppers|NNS are|VBP already|RB embracing|VBG mobile|JJ payments|NNS </s>|S_END
+<s>|S_START starbucks|NNS introduced|VBD its|PRP$ own|JJ paybyphone|NN app|NN last|JJ year|NN and|CC is|VBZ now|RB doing|VBG 1|CD million|CD transactions|NNS a|DT week|NN through|IN it|PRP according|VBG to|TO ceo|VB howard|NN schultz|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP cant|VBP think|VBP of|IN anything|NN weve|NN introduced|VBD in|IN the|DT last|JJ 40|CD years|NNS that|WDT had|VBD this|DT kind|NN of|IN adoption|NN schultz|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP was|VBD schultz|NN who|WP reached|VBN out|RP to|TO dorsey|VB </s>|S_END
+<s>|S_START he|PRP had|VBD been|VBN contacted|VBN by|IN a|DT variety|NN of|IN companies|NNS focused|VBN on|IN mobile|JJ payments|NNS over|IN the|DT last|JJ six|CD months|NNS but|CC turned|VBD his|PRP$ attention|NN to|TO square|VB after|IN adam|NN brotman|NN starbucks|NNS chief|NN digital|JJ officer|NN took|VBD the|DT technology|NN for|IN a|DT test|NN drive|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START once|RB jack|VBP and|CC i|PRP sat|VBP down|RP it|PRP was|VBD very|RB obvious|JJ schultz|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START squares|NNS fee|VBP structure|NN a|DT flat|JJ 275|CD fee|NN per|IN credit|NN card|NN swipe|NN is|VBZ a|DT better|JJR fit|NN for|IN small|JJ businesses|NNS than|IN large|JJ ones|NNS which|WDT have|VBP the|DT heft|NN to|TO negotiate|VB better|JJR terms|NNS with|IN their|PRP$ payment|NN processors|NNS </s>|S_END
+<s>|S_START starbucks|NNS appears|VBZ to|TO have|VB scored|VBN a|DT break|NN from|IN square|JJ to|TO lure|NN it|PRP aboard|VBD schultz|NN said|VBD the|DT company|NN will|MD save|VB money|NN through|IN the|DT arrangement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT starbucks|NNS representative|JJ wouldnt|NN elaborate|NN on|IN the|DT financial|JJ terms|NNS saying|VBG only|RB that|IN it|PRP will|MD be|VB a|DT reduced|VBN cost|NN over|IN what|WP our|PRP$ current|JJ provider|NN is|VBZ charging|VBG us|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START will|MD this|DT open|JJ the|DT door|NN to|TO bringing|NN other|JJ big|JJ brands|NNS aboard|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START were|VBD open|VBN to|TO large|JJ retail|NN medium|NN retailers|NNS we|PRP want|VBP this|DT to|TO be|VB a|DT general|JJ transaction|NN experience|NN that|WDT benefits|VBZ everyone|NN dorsey|NN said|VBD </s>|S_END
+<s>|S_START starbucks|NNS started|VBD as|IN one|CD coffee|NN shop|NN in|IN seattle|NN and|CC the|DT way|NN its|PRP$ grown|NN has|VBZ been|VBN fantastic|JJ </s>|S_END
+<s>|S_START we|PRP want|VBP that|IN same|JJ sort|NN of|IN trajectory|NN for|IN all|DT of|IN our|PRP$ merchants|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START theres|NNS a|DT land|NN grab|NN happening|VBG right|NN now|RB in|IN the|DT mobile|JJ payments|NNS space|NN </s>|S_END
+<s>|S_START ebays|NNS ebay|VBP fortune|NN 500|CD paypal|JJ is|VBZ fighting|VBG to|TO extend|VB its|PRP$ web|NN payments|NNS empire|VBP while|IN new|JJ entrants|NNS like|IN google|NN goog|NN fortune|NN 500|CD which|WDT recently|RB updated|VBD its|PRP$ google|NN wallet|NN app|NN are|VBP trying|VBG to|TO carve|VB out|RP territory|NN </s>|S_END
+<s>|S_START visa|NN v|NN fortune|NN 500|CD mastercard|NN ma|NN fortune|NN 500and|CD the|DT traditional|JJ giants|NNS which|WDT make|VBP money|NN off|IN every|DT swipe|NN are|VBP experimenting|VBG widely|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dorsey|NN hopes|VBZ to|TO eclipse|VB them|PRP all|DT by|IN pursuing|NN the|DT most|JJS radical|JJ vision|NN </s>|S_END
+<s>|S_START that|DT little|JJ plastic|NN device|NN that|WDT put|VBD square|VBP on|IN the|DT map|NN </s>|S_END
+<s>|S_START he|PRP cant|VBD wait|VB till|NN it|PRP disappears|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS dorseys|NNS ideal|VBP payment|NN process|NN just|RB your|PRP$ name|NN your|PRP$ coffee|NN order|NN and|CC a|DT system|NN that|WDT invisibly|RB takes|VBZ care|NN of|IN the|DT details|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP are|VBP building|VBG technologies|NNS that|WDT fade|NN away|RB that|IN go|IN into|IN the|DT background|NN so|RB people|NNS can|MD focus|VB on|IN what|WP is|VBZ most|JJS meaningful|JJ to|TO them|PRP he|PRP said|VBD </s>|S_END
+</p>|P_END
+

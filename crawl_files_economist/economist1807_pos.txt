@@ -1,0 +1,75 @@
+<p>|P_START
+<s>|S_START dallas|NNS is|VBZ in|IN confident|NN mood|NN </s>|S_END
+<s>|S_START the|DT city|NN one|CD of|IN the|DT fastestgrowing|NN metropolitan|NN areas|NNS in|IN america|NN is|VBZ investing|VBG around|IN $|$ 11|CD billion|CD in|IN improving|NN its|PRP$ road|NN rail|NN and|CC air|NN link|NN </s>|S_END
+<s>|S_START the|DT perot|NN museum|NN of|IN nature|NN science|NN is|VBZ being|VBG built|VBN downtown|RP along|IN with|IN a|DT new|JJ park|NN that|WDT will|MD cover|VB the|DT woodall|NN rodgers|NNS expressway|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP clearly|RB helps|VBZ the|DT local|JJ economy|NN that|WDT texas|VBZ is|VBZ abundant|JJ in|IN both|DT oil|NN and|CC shale|NN gas|NN even|RB if|IN the|DT price|NN of|IN the|DT latter|NN is|VBZ rather|RB lower|JJR than|IN producers|NNS would|MD like|VB </s>|S_END
+<s>|S_START but|CC is|VBZ betting|VBG on|IN energy|NN a|DT good|JJ idea|NN </s>|S_END
+<s>|S_START after|IN all|DT the|DT state|NN went|VBD though|IN a|DT nasty|NN bust|NN in|IN the|DT mid1980s|NNP when|WRB the|DT oil|NN price|NN collapsed|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economists|NNS have|VBP long|RB talked|VBN of|IN the|DT “resource|JJ curse”|NN that|WDT can|MD affect|VB economies|NNS with|IN lots|NNS of|IN energy|NN and|CC mineral|JJ </s>|S_END
+<s>|S_START the|DT curse|NN comes|VBZ in|IN two|CD main|JJ form|NN </s>|S_END
+<s>|S_START first|JJ high|JJ revenues|NNS from|IN resource|NN development|NN allow|NN governing|VBG politicians|NNS to|TO be|VB “rentseekers”|JJ seizing|NN control|NN of|IN the|DT assets|NNS and|CC using|VBG the|DT income|NN to|TO buy|VB off|RP opposition|NN to|TO their|PRP$ rule|NN </s>|S_END
+<s>|S_START mobutu|NN sese|VBD seko|NN a|DT former|JJ dictator|NN of|IN what|WP was|VBD then|RB zaire|VB is|VBZ the|DT most|RBS glaring|VBG example|NN of|IN this|DT tendency|NN </s>|S_END
+<s>|S_START the|DT result|NN is|VBZ that|IN more|JJR stable|JJ forms|NNS of|IN government|NN fail|NN to|TO develop|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT second|JJ form|NN of|IN the|DT curse|NN is|VBZ dubbed|VBN “dutch|JJ disease”|NN a|DT term|NN coined|VBN by|IN the|DT economist|NN to|TO describe|VB the|DT problems|NNS of|IN the|DT manufacturing|VBG sector|NN in|IN the|DT netherlands|NNS in|IN the|DT 1970|CD </s>|S_END
+<s>|S_START dutch|NN ownership|NN of|IN naturalgas|NN resources|NNS pushed|VBD up|RP the|DT countrys|NNS real|JJ exchange|NN rate|NN making|VBG manufacturing|NN less|JJR competitive|JJ </s>|S_END
+<s>|S_START although|IN the|DT problem|NN of|IN poor|JJ governance|NN has|VBZ particularly|RB affected|VBN developing|VBG countries|NNS dutch|VBP disease|NN is|VBZ more|RBR of|IN a|DT problem|NN for|IN the|DT developed|JJ world|NN </s>|S_END
+<s>|S_START another|DT example|NN was|VBD sterlings|NNS brief|JJ heyday|NN as|IN a|DT “petrocurrency”|NN in|IN the|DT early|JJ 1980s|CD which|WDT coincided|VBN with|IN a|DT slump|NN in|IN britains|NNS manufacturing|VBG industry|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT curse|NN was|VBD highlighted|VBN in|IN 1995|CD in|IN a|DT paper|NN by|IN jeffrey|NN sachs|NNS and|CC andrew|VB warner|NN then|RB of|IN harvard|NN university|NN which|WDT found|VBN that|IN countries|NNS with|IN a|DT higher|JJR proportion|NN of|IN resource|NN exports|NNS had|VBD experienced|VBN a|DT slower|NN rate|NN of|IN economic|JJ growth|NN </s>|S_END
+<s>|S_START but|CC more|RBR recent|JJ work|NN by|IN christa|NN brunnschweiler|NN and|CC erwin|VB bulte|JJ two|CD swissbased|VBN economists|NNS draws|NNS a|DT very|RB different|JJ conclusion|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT swissbased|VBN academics|NNS make|VBP a|DT crucial|JJ distinction|NN between|IN abundance|NN having|VBG lots|NNS of|IN resources|NNS and|CC dependence|NN having|VBG a|DT high|JJ proportion|NN of|IN exports|NNS in|IN resourcerelated|JJ industrie|NN </s>|S_END
+<s>|S_START they|PRP found|VBD that|IN greater|JJR resource|NN abundance|NN leads|NNS to|TO better|JJR political|JJ institutions|NNS and|CC more|JJR rapid|JJ growth|NN and|CC suggest|VBP that|IN the|DT sachswarner|NN paper|NN which|WDT focused|VBN on|IN dependence|NN got|VBD the|DT causation|NN the|DT wrong|JJ way|NN round|NN </s>|S_END
+<s>|S_START countries|NNS with|IN poor|JJ political|JJ institutions|NNS like|IN zaire|NN are|VBP unlikely|RB to|TO develop|VB other|JJ sectors|NNS of|IN the|DT economy|NN to|TO reduce|VB their|PRP$ dependence|NN on|IN natural|JJ resource|NN </s>|S_END
+<s>|S_START but|CC countries|NNS with|IN good|JJ institutions|NNS are|VBP able|JJ to|TO do|VB so|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT past|JJ few|JJ years|NNS have|VBP increased|VBN governments|NNS desire|VBP to|TO get|VB their|PRP$ hands|NNS on|IN natural|JJ resources|NNS particularly|RB in|IN the|DT field|NN of|IN energy|NN </s>|S_END
+<s>|S_START first|JJ events|NNS such|JJ as|IN the|DT revolt|NN in|IN libya|NN and|CC russias|NNS disputes|NNS with|IN ukraine|NN over|IN gas|NN supplies|NNS have|VBP shown|VBN that|IN foreign|JJ sources|NNS of|IN energy|NN can|MD be|VB disrupted|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START econd|NN the|DT most|JJS recent|JJ recession|NN in|IN the|DT developed|JJ world|NN showed|VBD a|DT change|NN from|IN previous|JJ cycle|NN </s>|S_END
+<s>|S_START in|IN the|DT past|JJ the|DT west|NN has|VBZ been|VBN the|DT key|JJ determinant|NN of|IN commodity|NN price|NN </s>|S_END
+<s>|S_START o|NN commodity|NN prices|NNS tended|VBD to|TO fall|VB sharply|RB during|IN western|JJ recessions|NNS delivering|VBG a|DT “double|JJ whammy”|NN to|TO resourcedependent|VB economie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START although|IN oil|NN prices|NNS fell|VBD in|IN the|DT second|JJ half|DT of|IN 2008|CD they|PRP have|VBP risen|VBN significantly|RB since|IN then|RB thanks|VBZ to|TO demand|NN in|IN the|DT developing|VBG world|NN </s>|S_END
+<s>|S_START the|DT west|NN has|VBZ turned|VBN into|IN a|DT pricetaker|NN rather|RB than|IN a|DT pricesetter|NN of|IN commoditie|NN </s>|S_END
+<s>|S_START in|IN one|CD sense|NN this|DT is|VBZ very|RB bad|JJ news|NN since|IN consumers|NNS have|VBP had|VBN their|PRP$ real|JJ incomes|NNS squeezed|VBN by|IN higher|JJR energy|NN and|CC food|NN price|NN </s>|S_END
+<s>|S_START that|DT makes|VBZ it|PRP harder|JJR to|TO deal|VB with|IN the|DT rich|JJ worlds|NNS debt|NN problem|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC for|IN those|DT developed|VBN economies|NNS with|IN greater|JJR reserves|NNS of|IN natural|JJ resources|NNS a|DT buoyant|NN energy|NN sector|NN has|VBZ acted|VBN as|IN a|DT cushion|NN </s>|S_END
+<s>|S_START the|DT chart|NN shows|VBZ the|DT recent|JJ growth|NN record|NN of|IN those|DT oecd|JJ countries|NNS that|IN are|VBP big|JJ net|JJ energy|NN exporters|NNS those|DT oecd|NN members|NNS that|WDT are|VBP broadly|RB neutral|JJ in|IN their|PRP$ energy|NN balance|NN and|CC those|DT countries|NNS that|IN are|VBP big|JJ net|JJ importer|NN </s>|S_END
+<s>|S_START lots|NNS of|IN other|JJ forces|NNS have|VBP been|VBN at|IN work|NN in|IN that|DT time|NN of|IN course|NN but|CC the|DT differences|NNS in|IN performance|NN are|VBP very|RB suggestive|JJ </s>|S_END
+<s>|S_START as|IN for|IN the|DT threat|NN of|IN “dutch|JJ disease”|NN the|DT currencies|NNS of|IN places|NNS like|IN canada|NN and|CC norway|NN have|VBP risen|VBN significantly|RB but|CC not|RB enough|RB to|TO derail|VB either|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN its|PRP$ part|NN texas|NNS is|VBZ much|JJ less|NN dependent|NN on|IN oil|NN and|CC gas|NN than|IN it|PRP was|VBD in|IN the|DT 1980|CD </s>|S_END
+<s>|S_START around|IN 9|CD of|IN its|PRP$ output|NN is|VBZ now|RB energyrelated|VBN as|IN opposed|VBN to|TO 20|CD in|IN the|DT 1980s|CD according|VBG to|TO mine|VB yücel|JJ of|IN the|DT federal|JJ reserve|NN bank|NN of|IN dalla|NN </s>|S_END
+<s>|S_START but|CC a|DT paper|NN by|IN ms|NNS yücel|NNP and|CC jackson|NN thies|NNS concludes|VBZ that|IN “despite|JJ its|PRP$ decline|NN in|IN importance|NN the|DT oil|NN and|CC gas|NN industry|NN still|RB remains|VBZ a|DT potent|NN force|NN </s>|S_END
+<s>|S_START price|NN increases|NNS still|RB benefit|JJ the|DT state”|NN like|IN other|JJ resourcerich|NN places|NNS texas|VBZ doesnt|NN seem|VBP all|DT that|DT cursed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogsbuttonwood|NN </s>|S_END
+</p>|P_END
+

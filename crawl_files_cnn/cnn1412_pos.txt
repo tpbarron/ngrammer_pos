@@ -1,0 +1,81 @@
+<p>|P_START
+<s>|S_START cyberattacks|NNS through|IN malware|JJ are|VBP growing|VBG at|IN their|PRP$ fastest|NN pace|NN in|IN four|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT bad|JJ guys|NNS are|VBP winning|VBG the|DT war|NN on|IN cybercrime|JJ computer|NN viruses|NNS trojans|NNS and|CC web|NN attacks|NNS are|VBP soaring|VBG at|IN their|PRP$ fastest|NN pace|NN in|IN four|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN its|PRP$ quarterly|JJ threats|NNS report|NN intel|NN intc|NN fortune|NN 500|CD subsidiary|NN mcafee|NN said|VBD that|IN it|PRP had|VBD found|VBN more|JJR than|IN 8|CD million|CD new|JJ kinds|NNS of|IN malware|NN in|IN the|DT second|JJ quarter|NN up|IN 23|CD from|IN the|DT first|JJ quarter|NN </s>|S_END
+<s>|S_START there|EX are|VBP now|RB more|RBR than|IN 90|CD million|CD unique|JJ strands|NNS of|IN malware|NN in|IN the|DT wild|NN the|DT security|NN company|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoft|NN msft|VBD fortune|NN 500|CD windows|NNS pcs|NNS remain|VBP by|IN far|RB the|DT largest|JJS targets|NNS for|IN malicious|JJ cyberattacks|NNS but|CC hackers|NNS are|VBP targeting|VBG other|JJ devices|NNS too|RB including|VBG apple|NN macintosh|NN computers|NNS and|CC mobile|JJ phones|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START attacks|NNS that|IN weve|JJ traditionally|RB seen|VBN on|IN pcs|NNS are|VBP now|RB making|VBG their|PRP$ way|NN to|TO other|JJ devices|NNS said|VBD vincent|NN weafer|NN head|NN of|IN mcafee|NN labs|NNS </s>|S_END
+<s>|S_START this|DT report|NN highlights|VBZ the|DT need|NN for|IN protection|NN on|IN all|DT devices|NNS that|WDT may|MD be|VB used|VBN to|TO access|NN the|DT internet|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apple|NN aapl|NN fortune|NN 500|CD got|VBD a|DT wakeup|NN call|NN in|IN the|DT second|JJ quarter|NN </s>|S_END
+<s>|S_START the|DT company|NN had|VBD advertised|VBN that|IN macs|NNS didnt|VBP get|NN viruses|NNS but|CC a|DT virus|NN called|VBN flashback|NN changed|VBD all|DT that|DT </s>|S_END
+<s>|S_START the|DT scary|JJ piece|NN of|IN malware|NN which|WDT infected|VBN hundreds|NNS of|IN thousands|NNS of|IN macintosh|JJ computers|NNS looked|VBD like|IN a|DT normal|JJ adobe|NN adbe|NN flash|NN browser|NN plugin|NN but|CC stole|NN thousands|NNS of|IN usernames|NNS and|CC passwords|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN macintosh|JJ grows|NNS its|PRP$ pc|NN market|NN share|NN it|PRP is|VBZ now|RB the|DT thirdlargest|JJS computer|NN platform|NN in|IN the|DT united|VBN states|NNS hackers|NNS have|VBP increasingly|RB targeted|VBN apple|NN computers|NNS </s>|S_END
+<s>|S_START this|DT summer|NN the|DT company|NN scaled|VBD back|RP its|PRP$ security|NN claims|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD cyberweapon|VBN targets|NNS middle|VBP east|JJ accounts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN goog|NN fortune|NN 500|CD is|VBZ also|RB a|DT growing|VBG recipient|NN of|IN attacks|NNS </s>|S_END
+<s>|S_START the|DT companys|NNS mobile|VBP android|JJ software|NN is|VBZ the|DT target|NN of|IN virtually|RB all|DT new|JJ mobile|JJ malware|NN viruses|NNS that|WDT are|VBP soaring|VBG in|IN number|NN </s>|S_END
+<s>|S_START so|IN far|RB mcafee|JJ has|VBZ found|VBN about|IN 13000|CD different|JJ kinds|NNS of|IN mobile|JJ malware|NN this|DT year|NN compared|VBN to|TO fewer|JJR than|IN 2000|CD in|IN 2011|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START android|VBD malware|NN shows|NNS no|DT signs|NNS of|IN slowing|VBG down|IN putting|VBG users|NNS on|IN high|JJ alert|NN the|DT company|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ kinds|NNS of|IN attacks|NNS include|VBP sending|VBG spam|NN text|NN messages|NNS commandeering|VBG a|DT phone|NN for|IN use|NN in|IN massive|JJ botnets|NNS holding|VBG a|DT phone|NN hostage|NN in|IN exchange|NN for|IN ransom|NN and|CC attacking|VBG a|DT phone|NN in|IN a|DT mobile|JJ driveby|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ransomware|NN a|DT popular|JJ tool|NN for|IN cybercriminals|NNS a|DT decade|NN ago|IN is|VBZ fashionable|JJ again|NN on|IN smartphones|NNS </s>|S_END
+<s>|S_START after|IN a|DT user|NN inadvertently|RB downloads|VBZ a|DT piece|NN of|IN ransomware|NN the|DT virus|NN take|NN control|NN of|IN the|DT users|NNS device|NN and|CC data|NNS relinquishing|VBG it|PRP only|RB if|IN the|DT user|NN pays|VBZ money|NN to|TO the|DT attacker|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN years|NNS of|IN ransomware|JJ dormancy|NN the|DT attack|NN method|NN has|VBZ grown|VBN rapidly|RB in|IN recent|JJ months|NNS </s>|S_END
+<s>|S_START the|DT second|JJ quarter|NN was|VBD the|DT biggest|JJS ever|RB for|IN new|JJ kinds|NNS of|IN ransomware|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD lying|VBG social|JJ engineer|NN hacks|NNS walmart|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START driveby|NN downloads|NNS are|VBP another|DT old|JJ form|NN of|IN pc|NN attack|NN that|WDT has|VBZ been|VBN recently|RB repurposed|VBN for|IN smartphones|NNS </s>|S_END
+<s>|S_START theyre|NN called|VBN driveby|NN because|IN attackers|NNS break|VBP into|IN websites|NNS and|CC infect|VB all|DT users|NNS who|WP visit|NN them|PRP </s>|S_END
+<s>|S_START mcafee|NN said|VBD it|PRP found|VBD its|PRP$ first|JJ instances|NNS of|IN mobile|JJ driveby|NN downloads|NNS in|IN the|DT second|JJ quarter|NN attackers|NNS dropping|VBG malware|NN on|IN your|PRP$ phone|NN when|WRB you|PRP visit|VBP an|DT infected|JJ site|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT victim|NN still|RB needs|VBZ to|TO install|VB the|DT downloaded|JJ malware|NN but|CC when|WRB an|DT attacker|NN names|VBZ the|DT file|NN android|VBD system|NN update|NN 40apk|CD most|JJS suspicions|NNS vanish|VBP the|DT report|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB twitter|JJR has|VBZ become|VBN a|DT tool|NN for|IN attacks|NNS from|IN botnets|NNS large|JJ collectives|NNS of|IN infected|VBN pcs|NNS and|CC phones|NNS that|WDT do|VBP the|DT bidding|NN of|IN the|DT attacker|NN </s>|S_END
+<s>|S_START instead|RB of|IN connecting|VBG to|TO all|DT the|DT infected|VBN devices|NNS via|IN a|DT web|NN server|NN cybercriminals|NNS are|VBP increasingly|RB building|VBG viruses|NNS that|WDT are|VBP trained|VBN to|TO search|NN for|IN commands|NNS from|IN specific|JJ twitter|NN accounts|NNS </s>|S_END
+<s>|S_START using|VBG twitter|NN means|NNS attackers|NNS no|DT longer|NN have|VBP to|TO buy|VB an|DT expensive|JJ web|NN server|NN or|CC go|VB through|IN the|DT trouble|NN of|IN stealing|VBG one|CD </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,11 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 03|CD gdp|NN $|$ 1537bn|CD ppp|CD $|$ 1489|CD inflation|NN 18|CD population|NN 463m|CD gdp|NN per|IN head|NN $|$ 33180|CD ppp|CD $|$ 32140|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT centreright|NN peoples|NNS party|NN pp|NN was|VBD poised|VBN to|TO retake|VB power|NN from|IN the|DT spanish|JJ socialist|NN workers|NNS party|NN in|IN early|JJ elections|NNS scheduled|VBN for|IN november|NN 2011|CD </s>|S_END
+<s>|S_START but|CC as|IN with|IN all|DT recent|JJ spanish|JJ governments|NNS the|DT dominant|JJ party|NN will|MD need|VB the|DT support|NN of|IN regional|JJ groups|NNS to|TO hold|VB power|NN giving|VBG much|RB influence|NN to|TO catalans|NNS and|CC basque|VB </s>|S_END
+<s>|S_START a|DT pp|NN government|NN will|MD toe|VB the|DT austere|JJ line|NN imposed|VBD by|IN spains|NNS precarious|JJ fiscal|JJ and|CC financial|JJ position|NN and|CC add|VBD a|DT reform|NN programme|NN designed|VBN to|TO encourage|VB private|JJ investment|NN </s>|S_END
+<s>|S_START the|DT economy|NN on|IN the|DT long|JJ climb|NN back|RB from|IN recession|NN will|MD grow|VB fractionally|RB </s>|S_END
+</p>|P_END
+

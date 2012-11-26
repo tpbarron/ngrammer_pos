@@ -1,0 +1,143 @@
+<p>|P_START
+<s>|S_START which|WDT plastic|JJ gadget|NN fitting|VBG neatly|RB in|IN one|CD hand|NN can|MD most|VB quickly|RB improve|VB the|DT lives|NNS of|IN the|DT world’s|JJ poorest|NN people|NNS </s>|S_END
+<s>|S_START for|IN the|DT past|JJ decade|NN the|DT answer|NN has|VBZ been|VBN clear|JJ the|DT mobile|JJ phone|NN </s>|S_END
+<s>|S_START but|CC over|IN the|DT next|JJ decade|NN it|PRP will|MD be|VB the|DT solarpowered|VBN lamp|NN made|VBN up|RP of|IN a|DT few|JJ lightemitting|NN diodes|NNS leds|VBZ a|DT solar|JJ panel|NN and|CC a|DT small|JJ rechargeable|JJ battery|NN encased|VBD in|IN a|DT durable|JJ plastic|NN shell|NN </s>|S_END
+<s>|S_START just|RB as|IN the|DT spread|NN of|IN mobile|JJ phones|NNS in|IN poor|JJ countries|NNS has|VBZ transformed|VBN lives|NNS and|CC boosted|VBD economic|JJ activity|NN solar|NN lighting|VBG is|VBZ poised|VBN to|TO improve|VB incomes|NNS educational|JJ attainment|NN and|CC health|NN across|IN the|DT developing|VBG world|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN previously|RB happened|VBN with|IN mobile|JJ phones|NNS solar|JJ lighting|NN is|VBZ falling|VBG in|IN price|NN improving|VBG in|IN quality|NN and|CC benefiting|VBG from|IN new|JJ business|NN models|NNS that|WDT make|VBP it|PRP more|JJR accessible|JJ and|CC affordable|JJ to|TO those|DT at|IN the|DT bottom|NN of|IN the|DT pyramid|JJ </s>|S_END
+<s>|S_START and|CC its|PRP$ spread|NN is|VBZ sustainable|JJ because|IN it|PRP is|VBZ being|VBG driven|VBN by|IN market|NN forces|NNS not|RB charity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START phones|NNS spread|VBP quickly|RB because|IN they|PRP provided|VBD a|DT substitute|NN for|IN travel|NN and|CC poor|JJ infrastructure|NN helped|VBD traders|NNS find|VBP better|JJR prices|NNS and|CC boosted|VBD entrepreneurship|NN </s>|S_END
+<s>|S_START for|IN a|DT fisherman|NN or|CC a|DT farmer|NN buying|VBG a|DT mobile|JJ phone|NN made|VBD sense|NN because|IN it|PRP paid|VBD for|IN itself|PRP within|IN a|DT few|JJ month|NN </s>|S_END
+<s>|S_START the|DT economic|JJ case|NN for|IN solar|JJ lighting|NN is|VBZ even|RB clearer|JJR buying|NN a|DT lamp|NN that|WDT charges|VBZ in|IN the|DT sun|NN during|IN the|DT day|NN and|CC then|RB produces|VBZ light|JJ at|IN night|NN can|MD eliminate|VB spending|NN on|IN the|DT kerosene|NN that|IN fuels|NNS conventional|JJ lamp|NN </s>|S_END
+<s>|S_START of|IN the|DT 14|CD billion|CD people|NNS without|IN access|NN to|TO grid|VB electricity|NN most|JJS live|JJ in|IN equatorial|JJ latitudes|NNS where|WRB the|DT sun|NN sets|VBZ quickly|RB and|CC there|EX is|VBZ only|RB a|DT brief|JJ period|NN of|IN twilight|NN </s>|S_END
+<s>|S_START but|CC solar|JJ lamps|NNS work|NN anywhere|RB the|DT sun|NN shines|NNS even|RB in|IN places|NNS that|WDT are|VBP off|RP the|DT grid|JJ or|CC where|WRB grid|JJ power|NN is|VBZ expensive|JJ or|CC unreliable|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT potential|JJ savings|NNS are|VBP huge|JJ </s>|S_END
+<s>|S_START according|VBG to|TO a|DT recent|JJ study|NN by|IN the|DT international|JJ finance|NN corporation|NN an|DT arm|NN of|IN the|DT world|NN bank|NN $|$ 10|CD billion|CD a|DT year|NN is|VBZ spent|VBN on|IN kerosene|NN in|IN subsaharan|NN africa|NN alone|NN to|TO illuminate|VB homes|NNS workplaces|NNS and|CC community|NN area|NN </s>|S_END
+<s>|S_START globally|RB the|DT figure|NN has|VBZ been|VBN put|VBN at|IN $|$ 36|CD billion|CD </s>|S_END
+<s>|S_START flexiway|NN an|DT australianargentine|NN maker|NN of|IN solar|JJ lamps|NNS found|VBD in|IN its|PRP$ trials|NNS in|IN tanzania|NN that|IN households|NNS often|RB spent|JJ more|RBR than|IN 10|CD of|IN their|PRP$ income|NN on|IN kerosene|NN and|CC other|JJ studies|NNS have|VBP put|VBN the|DT figure|NN as|IN high|JJ as|IN 25|CD </s>|S_END
+<s>|S_START and|CC kerosene|NN does|VBZ not|RB merely|RB eat|VB up|RP household|NN income|NN that|WDT could|MD be|VB spent|VBN on|IN other|JJ thing|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ also|RB dangerou|PRP </s>|S_END
+<s>|S_START kerosene|NN lanterns|NNS a|DT centuryold|NN technology|NN are|VBP fire|RB hazard|JJ </s>|S_END
+<s>|S_START the|DT wicks|NNS smoke|VBP the|DT glass|NN cracks|NNS and|CC the|DT light|NN may|MD be|VB too|RB weak|JJ to|TO read|VB by|IN </s>|S_END
+<s>|S_START the|DT world|NN health|NN organisation|NN says|VBZ the|DT fine|NN particles|NNS in|IN kerosene|NN fumes|NNS cause|VBP chronic|JJ pulmonary|NN disease|NN </s>|S_END
+<s>|S_START burning|VBG kerosene|NN also|RB produces|VBZ climatechanging|VBG carbondioxide|NN emission|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START take|VB a|DT look|NN at|IN some|DT of|IN the|DT solar|JJ lamps|NNS now|RB available|JJ in|IN africa|NN asia|NN and|CC latin|NN america|NN and|CC their|PRP$ advantages|NNS are|VBP immediately|RB apparent|JJ </s>|S_END
+<s>|S_START even|RB the|DT most|RBS basic|JJ solar|NN lamps|NNS outperform|NN kerosene|NN lantern|NN </s>|S_END
+<s>|S_START a|DT typical|JJ device|NN takes|VBZ eight|NN to|TO ten|VB hours|NNS to|TO charge|VB and|CC then|RB provides|VBZ four|CD or|CC five|CD hours|NNS of|IN clear|JJ white|JJ light|JJ from|IN highefficiency|NN white|NN led|VBD </s>|S_END
+<s>|S_START the|DT number|NN of|IN times|NNS solar|JJ lamps|NNS can|MD be|VB charged|VBN before|IN their|PRP$ internal|JJ batteries|NNS wear|VBP out|RP has|VBZ improved|VBN enormously|RB in|IN recent|JJ years|NNS along|IN with|IN their|PRP$ ability|NN to|TO cope|VB with|IN dust|JJ water|NN and|CC being|VBG dropped|VBD </s>|S_END
+<s>|S_START the|DT starting|NN price|NN of|IN $|$ 10|CD or|CC so|RB is|VBZ still|RB too|RB high|JJ for|IN the|DT poorest|JJS customers|NNS to|TO pay|VB at|IN least|JJS up|IN front|NN </s>|S_END
+<s>|S_START but|CC as|IN with|IN mobile|JJ phones|NNS prices|NNS continue|VBP to|TO fall|VB and|CC novel|NN business|NN models|NNS are|VBP starting|VBG to|TO provide|VB new|JJ ways|NNS to|TO spread|VB the|DT cost|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START let|NN there|EX be|VB light|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “the|DT technology|NN end|NN of|IN the|DT solar|JJ business|NN is|VBZ there—now|JJ we|PRP have|VBP to|TO think|VB of|IN the|DT business|NN model”|NN says|VBZ nick|NN hughes|NNS cofounder|NN of|IN mkopa|NN a|DT startup|NN based|VBN in|IN kenya|NN </s>|S_END
+<s>|S_START he|PRP previously|RB helped|VBD develop|NN mpesa|NN kenya’s|NNS worldleading|VBG mobilemoney|NN transfer|NN scheme|NN which|WDT is|VBZ used|VBN by|IN nearly|RB 70|CD of|IN the|DT adult|NN population|NN and|CC has|VBZ spawned|VBN imitators|NNS in|IN many|JJ other|JJ countrie|NN </s>|S_END
+<s>|S_START mr|NN hughes|NNS now|RB wants|VBZ to|TO apply|RB the|DT same|JJ thinking|NN to|TO lighting|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT mkopa|NN system|NN consists|NNS of|IN a|DT basestation|NN with|IN a|DT solar|JJ panel|NN three|CD lamps|NNS and|CC a|DT charging|NN kit|NN for|IN phones—an|JJ entire|NN electrical|JJ system|NN for|IN a|DT small|JJ house|NN that|IN would|MD normally|RB cost|VB around|IN $|$ 200|CD </s>|S_END
+<s>|S_START customers|NNS in|IN kenya|NN pay|NN $|$ 30|CD up|IN front|NN and|CC then|RB pay|VB off|RP the|DT balance|NN in|IN small|JJ instalments|NNS using|VBG their|PRP$ mobile|JJ phone|NN </s>|S_END
+<s>|S_START as|IN long|RB as|IN they|PRP keep|VBP making|VBG payments|NNS the|DT system|NN provides|VBZ free|JJ light|NN and|CC power|NN and|CC eventually|RB they|PRP own|VBP it|PRP outright|MD </s>|S_END
+<s>|S_START using|VBG mobile|JJ money|NN as|IN a|DT flexible|JJ payment|NN mechanism|NN means|VBZ that|DT relatives|VBZ can|MD chip|VB in|IN remotely|RB and|CC allows|VBZ farmers|NNS to|TO vary|VB the|DT size|NN of|IN payments|NNS depending|VBG on|IN their|PRP$ cashflow|NN </s>|S_END
+<s>|S_START it|PRP also|RB provides|VBZ a|DT mechanism|NN for|IN the|DT government|NN to|TO provide|VB subsidies|NNS for|IN households|NNS with|IN infants|NNS or|CC children|NNS studying|VBG for|IN exam|NN </s>|S_END
+<s>|S_START in|IN addition|NN the|DT basestation|NN provides|VBZ a|DT payment|NN record|NN which|WDT could|MD be|VB used|VBN by|IN banks|NNS as|IN a|DT credit|NN history|NN when|WRB offering|NN loans|NNS or|CC mortgage|NN </s>|S_END
+<s>|S_START the|DT first|JJ commercial|JJ units|NNS went|VBD on|IN sale|NN in|IN june|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eight19|NNP a|DT startup|NN spun|NN out|IN of|IN cambridge|NN university|NN has|VBZ a|DT similar|JJ model|NN in|IN which|WDT small|JJ payments|NNS like|IN those|DT used|VBN to|TO buy|VB kerosene|NN allow|NN the|DT purchase|NN of|IN a|DT solarlighting|NN system|NN to|TO be|VB spread|VBN out|RP </s>|S_END
+<s>|S_START users|NNS of|IN its|PRP$ indigo|NN system|NN pay|NN around|IN $|$ 10|CD up|IN front|NN </s>|S_END
+<s>|S_START they|PRP then|RB buy|VB scratch|NN cards|NNS for|IN as|RB little|JJ as|IN $|$ 1|CD each|DT and|CC send|NN the|DT number|NN on|IN each|DT card|NN by|IN text|NN message|NN to|TO a|DT central|JJ server|NN that|WDT responds|VBZ with|IN an|DT access|NN code|NN that|WDT is|VBZ tapped|VBN into|IN the|DT indigo|NN unit|NN and|CC provides|VBZ a|DT certain|JJ number|NN of|IN hours|NNS of|IN lighting|VBG </s>|S_END
+<s>|S_START again|RB each|DT payment|NN goes|VBZ toward|NN buying|NN the|DT system|NN outright|NN and|CC a|DT typical|JJ family|NN will|MD have|VB paid|VBN for|IN it|PRP after|IN 18|CD months|NNS of|IN use|NN </s>|S_END
+<s>|S_START even|RB while|IN paying|VBG off|RP the|DT loan|NN with|IN scratch|NN cards|NNS users|NNS pay|VBP half|DT as|IN much|JJ for|IN each|DT hour|NN of|IN lighting|VBG as|IN they|PRP did|VBD with|IN kerosene|NN </s>|S_END
+<s>|S_START with|IN both|DT mkopa|NN and|CC eight19|NNP models|NNS the|DT lights|NNS go|VBP out|RP if|IN the|DT payments|NNS stop|VBP providing|VBG an|DT incentive|NN to|TO keep|VB paying|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT novel|NN approach|NN is|VBZ that|IN taken|VBN by|IN socialite|JJ a|DT scheme|NN developed|VBD by|IN wa|NN polytechnic|JJ in|IN ghana|NN and|CC the|DT cooper|NN union|NN in|IN new|JJ york|NN </s>|S_END
+<s>|S_START it|PRP involves|VBZ a|DT centralised|VBN villagelevel|NN system|NN with|IN a|DT large|JJ solar|NN panel|NN that|WDT charges|VBZ a|DT car|NN battery|NN </s>|S_END
+<s>|S_START this|DT is|VBZ used|VBN in|IN turn|NN to|TO charge|VB smaller|JJR batteries|NNS in|IN the|DT lanterns|NNS which|WDT are|VBP built|VBN using|VBG local|JJ material|NN </s>|S_END
+<s>|S_START a|DT family|NN pays|VBZ $|$ 45|CD for|IN the|DT lamp|NN in|IN effect|NN for|IN membership|NN of|IN the|DT scheme|NN and|CC then|RB $|$ 12|CD a|DT month|NN for|IN recharging|NN </s>|S_END
+<s>|S_START these|DT charges|NNS enabled|VBD the|DT villagers|NNS to|TO pay|VB for|IN the|DT entire|JJ system|NN within|IN 18|CD months|NNS or|CC so|RB </s>|S_END
+<s>|S_START everything|NN is|VBZ designed|VBN to|TO be|VB maintained|VBN and|CC repaired|VBN by|IN locals|NNS if|IN a|DT lamp|NN fails|VBZ it|PRP is|VBZ replaced|VBN with|IN another|DT one|CD while|IN being|VBG repaired|VBN </s>|S_END
+<s>|S_START this|DT improves|VBZ reliability|NN and|CC centralising|VBG the|DT solar|JJ charging|NN reduces|NNS the|DT cost|NN of|IN each|DT lamp|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lighting|VBG africa|NN a|DT world|NN bank|NN project|NN whose|WP$ aim|NN is|VBZ to|TO “catalyse|JJ markets|NNS for|IN modern|JJ lighting”|NN has|VBZ certified|VBN a|DT list|NN of|IN solar|JJ lamps|NNS that|WDT meet|VBP minimum|JJ standards|NNS for|IN reliability|NN and|CC recommended|VBD targets|NNS for|IN brightness|NN and|CC run|VBP time|NN </s>|S_END
+<s>|S_START one|CD of|IN the|DT suppliers|NNS on|IN its|PRP$ list|NN is|VBZ an|DT american|JJ company|NN dlight|NN which|WDT specialises|NNS in|IN durable|JJ utilitarian|NN design|NN </s>|S_END
+<s>|S_START its|PRP$ workhorse|NN is|VBZ the|DT s10|NNP lantern|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ intended|VBN to|TO deliver|VB ambient|NN light|NN rather|RB than|IN directed|VBN light|JJ for|IN tasks|NNS and|CC contains|NNS a|DT nickelmetalhydride|NN battery|NN rather|RB than|IN a|DT cheaper|JJR nickelcadmium|NN cell|NN </s>|S_END
+<s>|S_START in|IN an|DT informal|JJ test|NN of|IN solar|JJ lights|NNS carried|VBN out|RP by|IN the|DT economist|NN in|IN africa|NN users|NNS grumbled|VBD about|IN the|DT soapy|NN quality|NN of|IN light|JJ and|CC lanternstyle|NN design|NN </s>|S_END
+<s>|S_START but|CC the|DT company|NN has|VBZ won|VBN plaudits|NNS for|IN its|PRP$ other|JJ models|NNS its|PRP$ largest|JJS lamp|NN the|DT s250|NNP was|VBD included|VBN by|IN the|DT british|JJ museum|NN in|IN its|PRP$ “history|JJ of|IN the|DT world|NN in|IN 100|CD objects”|NN exhibition|NN as|IN the|DT 100th|CD object|NN </s>|S_END
+<s>|S_START the|DT smaller|JJR s1|NNP model|NN which|WDT costs|NNS $|$ 8|CD is|VBZ intended|VBN for|IN use|NN as|IN a|DT desk|NN lamp|NN see|NN photo|NN above|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tried|VBD and|CC tested|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT n200|NNP lantern|NN made|VBD by|IN another|DT american|JJ firm|NN nokero|NN for|IN “no|JJ kerosene”|NN has|VBZ a|DT design|NN inspired|VBN by|IN a|DT light|JJ bulb|NN and|CC costs|NNS about|IN $|$ 15|CD </s>|S_END
+<s>|S_START it|PRP worked|VBD well|RB for|IN cooking|VBG cleaning|VBG and|CC sitting|VBG around|IN a|DT table|NN but|CC was|VBD deemed|VBN less|JJR suitable|JJ for|IN studying|NN </s>|S_END
+<s>|S_START the|DT solar|JJ muscle|NN a|DT solar|JJ lamp|NN made|VBD by|IN flexiway|NN can|MD be|VB used|VBN as|IN a|DT desk|NN light|NN </s>|S_END
+<s>|S_START its|PRP$ compact|NN square|NN design|NN with|IN a|DT solar|JJ panel|NN on|IN one|CD side|NN and|CC leds|NNS on|IN the|DT other|JJ also|RB allows|VBZ several|JJ lamps|NNS to|TO be|VB snapped|VBN together|RP to|TO make|VB a|DT larger|JJR panel|NN </s>|S_END
+<s>|S_START the|DT square|NN design|NN arose|NN after|IN an|DT earlier|JJR circular|JJ version|NN was|VBD mistaken|VBN for|IN a|DT landmine|NN says|VBZ james|NNS fraser|JJR of|IN flexiway|NN </s>|S_END
+<s>|S_START the|DT firm|NN can|MD pack|VB 2750|CD of|IN its|PRP$ $|$ 10|CD lamps|NNS in|IN a|DT cubic|JJ metre—a|NN plus|CC in|IN countries|NNS where|WRB transport|NN is|VBZ expensive|JJ </s>|S_END
+<s>|S_START they|PRP are|VBP being|VBG distributed|VBN by|IN ngos|NNS in|IN papua|NN new|JJ guinea|NN and|CC several|JJ african|JJ countrie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT best|JJS solar|JJ lamp|NN among|IN those|DT tested|VBN was|VBD the|DT sun|NN king|VBG produced|VBN by|IN an|DT indian|JJ company|NN greenlight|NN planet|NN </s>|S_END
+<s>|S_START it|PRP was|VBD purchased|VBN off|RP the|DT shelf|NN from|IN an|DT african|JJ supermarket|NN for|IN $|$ 24|CD </s>|S_END
+<s>|S_START the|DT sun|NN king’s|VBZ almost|RB dazzling|VBG light|NN was|VBD appreciated|VBN by|IN users|NNS as|IN was|VBD its|PRP$ seemingly|RB unbreakable|JJ design|NN </s>|S_END
+<s>|S_START the|DT awkwardlooking|NN wire|NN stand|VBP worked|VBN well|RB </s>|S_END
+<s>|S_START the|DT lamp’s|JJ only|RB drawback|VBP was|VBD that|IN its|PRP$ solar|JJ panel|NN is|VBZ separate|JJ rather|RB than|IN being|VBG built|VBN into|IN the|DT lamp|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN with|IN mobile|JJ phones|NNS a|DT decade|NN ago|IN there|EX is|VBZ still|RB plenty|JJ of|IN scope|NN for|IN improvement|NN and|CC innovation|NN </s>|S_END
+<s>|S_START on|IN the|DT technical|JJ front|NN the|DT biggest|JJS remaining|VBG problem|NN is|VBZ the|DT batterie|NN </s>|S_END
+<s>|S_START nickelmetalhydride|NN batteries|NNS are|VBP more|RBR expensive|JJ and|CC less|JJR polluting|VBG than|IN nickelcadmium|NN cells|NNS and|CC have|VBP a|DT longer|JJR life|NN </s>|S_END
+<s>|S_START lithiumion|NN batteries|NNS the|DT sort|NN found|VBD in|IN laptops|NNS and|CC mobile|JJ phones|NNS are|VBP better|RBR still|RB but|CC are|VBP too|RB expensive|JJ </s>|S_END
+<s>|S_START most|JJS solar|JJ lamps|NNS allow|VBP the|DT battery|NN to|TO be|VB replaced|VBN once|RB it|PRP wears|VBZ out|RP and|CC some|DT such|JJ as|IN flexiway’s|JJ use|NN standardsized|VBD rechargeable|JJ batteries|NNS to|TO make|VB replacement|NN as|IN simple|JJ as|IN possible|JJ </s>|S_END
+<s>|S_START but|CC this|DT creates|VBZ a|DT new|JJ pollution|NN problem|NN there|EX are|VBP no|DT facilities|NNS to|TO recycle|VB the|DT old|JJ batterie|NN </s>|S_END
+<s>|S_START flexiway|NN suggests|VBZ that|IN entrepreneurs|NNS selling|VBG rechargeable|JJ batteries|NNS could|MD offer|VB a|DT discount|NN when|WRB old|JJ batteries|NNS were|VBD traded|VBN in|IN and|CC gather|DT them|PRP up|RP for|IN centralised|VBN recycling|VBG but|CC it|PRP is|VBZ unclear|JJ whether|IN this|DT model|NN would|MD work|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT importance|NN of|IN design|NN should|MD not|RB be|VB overlooked|VBN </s>|S_END
+<s>|S_START just|RB as|IN mobile|JJ phones|NNS have|VBP become|VBN status|NN symbols|NNS the|DT same|JJ could|MD happen|VB with|IN personal|JJ solar|NN lamp|NN </s>|S_END
+<s>|S_START that|DT will|MD mean|VB placing|VBG more|JJR emphasis|NN on|IN styling|NN and|CC appealing|VBG to|TO younger|JJR consumers|NNS for|IN whom|WP a|DT device|NN capable|JJ of|IN doubling|NN as|IN a|DT torch|NN and|CC desk|NN light|NN would|MD be|VB particularly|RB useful|JJ </s>|S_END
+<s>|S_START a|DT lamp|NN pictured|VBN made|VBN by|IN a|DT danish|JJ designer|NN frederik|NN ottesen|NN and|CC an|DT icelandic|JJ artist|NN olafur|NN eliasson|NN wins|VBZ plaudits|NNS in|IN this|DT regard|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START called|VBN little|JJ sun|NN it|PRP looks|VBZ like|IN a|DT plastic|JJ sunflower|NN </s>|S_END
+<s>|S_START the|DT design|NN helps|VBZ keep|VB the|DT battery|NN cool|NN while|IN charging|VBG and|CC protects|NNS the|DT lamp|NN if|IN it|PRP is|VBZ dropped|VBN </s>|S_END
+<s>|S_START because|IN the|DT average|NN age|NN of|IN the|DT projected|VBN user|NN is|VBZ 15|CD says|VBZ mr|NN ottesen|VBN “the|JJ aim|NN was|VBD to|TO make|VB it|PRP friendly|RB like|IN a|DT pokemon|NN figure”|NN he|PRP hopes|VBZ to|TO sell|VB 400000|CD lamps|NNS at|IN around|IN $|$ 10|CD each|DT through|IN local|JJ retailers|NNS in|IN kenya|NN ethiopia|NN and|CC zimbabwe|NN </s>|S_END
+<s>|S_START mr|NN eliasson|NN known|VBN for|IN his|PRP$ largescale|NN light|NN installations|NNS such|JJ as|IN the|DT “weather|JJ project”|NN at|IN tate|NN modern|NN says|VBZ solar|JJ lamps|NNS “should|MD not|RB be|VB designed|VBN with|IN the|DT language|NN of|IN the|DT aid|NN and|CC relief|NN industry”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START demand|NN for|IN cheap|NN efficient|NN lighting|VBG is|VBZ only|RB going|VBG to|TO grow|VB </s>|S_END
+<s>|S_START even|RB in|IN the|DT bestcase|NN scenarios|NNS the|DT number|NN of|IN people|NNS without|IN electricity|NN will|MD tick|VB up|RP to|TO 15|CD billion|CD by|IN 2030|CD as|IN population|NN growth|NN outstrips|NNS electrification|NN </s>|S_END
+<s>|S_START the|DT rate|NN of|IN innovation|NN in|IN delivery|NN models|NNS technology|NN and|CC design|NN in|IN both|DT rich|JJ and|CC poor|JJ countries|NNS suggests|VBZ a|DT bright|JJ future|JJ for|IN solar|JJ lamps—and|NN a|DT slow|JJ dimming|NN of|IN kerosene’s|JJ flame|NN </s>|S_END
+</p>|P_END
+

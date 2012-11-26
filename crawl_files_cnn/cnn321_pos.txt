@@ -1,0 +1,46 @@
+<p>|P_START
+<s>|S_START a|DT hacker|NN known|VBN only|RB as|IN pinkie|NN pie|NN has|VBZ taken|VBN home|NN a|DT second|JJ $|$ 60000|CD prize|NN for|IN uncovering|NN a|DT google|NN chrome|NN exploit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN google|NN is|VBZ one|CD of|IN a|DT growing|VBG number|NN of|IN companies|NNS to|TO offer|VB a|DT bug|NN bounty|NN to|TO hackers|NNS who|WP can|MD find|VB security|NN issues|NNS in|IN its|PRP$ products|NNS and|CC on|IN wednesday|NN a|DT teenager|NN scored|VBN the|DT top|JJ $|$ 60000|CD prize|NN for|IN uncovering|NN a|DT vulnerability|NN in|IN the|DT chrome|NN browser|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ the|DT second|JJ time|NN that|WDT the|DT hacker|NN a|DT teenage|NN male|NN who|WP goes|VBZ by|IN the|DT handle|NN pinkie|NN pie|NN has|VBZ taken|VBN home|NN googles|NNS money|NN </s>|S_END
+<s>|S_START google|NN fixed|VBN the|DT problem|NN with|IN a|DT software|NN update|NN about|IN 10|CD hours|NNS after|IN the|DT bug|NN was|VBD exposed|VBN congratulating|VBG pinkie|NN pie|NN on|IN another|DT beautiful|JJ piece|NN of|IN work|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN goog|NN fortune|NN 500|CD first|JJ announced|JJ its|PRP$ chromium|NN security|NN rewards|NNS program|NN in|IN 2010|CD offering|NN small|JJ monetary|JJ rewards|NNS to|TO researchers|NNS who|WP found|VBN potential|JJ security|NN holes|NNS in|IN its|PRP$ chrome|NN web|NN browser|NN </s>|S_END
+<s>|S_START the|DT company|NN upped|VBD the|DT ante|NN in|IN february|JJ 2012|CD sponsoring|VBG a|DT pwnium|NN contest|NN that|WDT sought|VBD fully|RB functional|JJ exploits|NNS and|CC awarded|VBD big|JJ sums|NNS to|TO those|DT who|WP found|VBN them|PRP </s>|S_END
+<s>|S_START pinkie|NN pie|NN was|VBD one|CD of|IN two|CD hackers|NNS to|TO score|VB a|DT $|$ 60000|CD prize|NN at|IN that|DT event|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START googles|NNS pwnium|VBP 2|CD competition|NN took|VBD place|NN on|IN tuesday|NN at|IN a|DT conference|NN called|VBN hack|NN in|IN the|DT box|NN held|VBD in|IN kuala|NN lumpur|NN malaysia|NN </s>|S_END
+<s>|S_START pinkie|NN pie|NN again|RB took|VBD home|NN $|$ 60000|CD for|IN his|PRP$ fresh|JJ exploit|NN which|WDT relied|VBN entirely|RB on|IN bugs|NNS within|IN chrome|NN itself|PRP </s>|S_END
+<s>|S_START he|PRP appears|VBZ to|TO be|VB the|DT only|JJ topprize|NN winner|NN as|IN googles|NNS chromium|NN blog|NN announcement|NN didnt|NN mention|NN any|DT other|JJ hackers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START facebook|NN fb|NN launched|VBD its|PRP$ own|JJ bug|NN bounty|NN security|NN initiative|NN last|JJ year|NN through|IN which|WDT it|PRP pays|VBZ out|RP a|DT reward|NN of|IN least|JJS $|$ 500|CD to|TO users|NNS who|WP spot|NN vulnerabilities|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT bugspotting|VBG programs|NNS can|MD be|VB quite|RB lucrative|JJ for|IN skilled|JJ security|NN researchers|NNS and|CC they|PRP offer|VBP bragging|VBG rights|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT weeks|NNS exploit|VBP is|VBZ another|DT feather|NN in|IN the|DT cap|NN of|IN pinkie|NN pie|NN who|WP told|VBD wired|VBN in|IN march|NN that|IN he|PRP applied|VBD for|IN a|DT job|NN at|IN google|NN in|IN 2011|CD </s>|S_END
+<s>|S_START he|PRP wrote|VBD in|IN his|PRP$ cover|NN letter|NN that|IN he|PRP could|MD crack|VB google|JJ chrome|NN on|IN apples|NNS aapl|NN fortune|NN 500|CD osx|NN operating|NN system|NN for|IN mac|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pinkie|NN pie|NN never|RB received|VBD a|DT reply|NN but|CC a|DT google|JJ rep|NN told|VBD wired|VBN at|IN the|DT time|NN that|IN theyd|NN be|VB taking|VBG a|DT second|JJ look|NN at|IN his|PRP$ resume|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN this|DT rate|NN though|IN continuing|VBG to|TO hack|VB his|PRP$ potential|JJ employer|NN might|MD be|VB a|DT better|JJR gig|NN than|IN a|DT fulltime|NN job|NN </s>|S_END
+</p>|P_END
+

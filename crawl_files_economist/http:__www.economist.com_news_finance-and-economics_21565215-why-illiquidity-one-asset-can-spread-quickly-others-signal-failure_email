@@ -1,0 +1,28 @@
+<p>THE flash crash of May 6th 2010 titillated financial academics and lovers of mystery alike. Within the space of about 20 minutes the prices of thousands of securities on Wall Street collapsed, sometimes by more than 60%, before recovering almost as quickly. It is not so much a whodunnit as a whydidit?</p>
+
+<p>An official report pointed to a sell order in the futures market as the spark. But that still raises the question of why, in a supposedly efficient market, a single transaction caused so much chaos.</p>
+
+<p>The answer, according to a recent paper* by Giovanni Cespa of the Cass Business School and Thierry Foucault of HEC Paris, lies in the way that market participants try to control their risks. Like a retailer on the high street, securities dealers carry an inventory so they can fulfil their customers’ orders. That means they incur the risk that a sudden price plunge will cause them to offload their inventory at a loss, just as greengrocers suffer when they try to flog pumpkins after Halloween.</p>
+
+<p>To safeguard themselves dealers monitor liquidity signals in other asset classes. These, they reason, may give them useful information about the assets they hold on their own books. If one asset suddenly becomes illiquid, that may indicate a change in the risk appetite of investors. As a result dealers will become less willing to provide liquidity in other markets, too. That will mean either that the gap between bids and offers will widen, or that individual buy-and-sell orders will have a much bigger effect on prices.</p>
+
+<p>In consequence a liquidity shock in one asset class may have an effect in others, as dealers become ever more risk-averse. In the words of Mr Cespa and Mr Foucault, “dealers’ beliefs about the informativeness of the prices and liquidity of other securities are self-fulfilling.” In short order markets can turn from being very liquid to being highly illiquid.</p>
+
+<p>In some circumstances—a bad piece of economic news, say, or a default by a large debtor—a sudden loss of liquidity may be quite understandable. All assets sometimes have to be repriced to take account of a change in fundamentals. But sometimes an individual asset may fall for entirely idiosyncratic reasons—a software glitch on a dealer’s computer, for example. The effect on other markets may be similar, however, because dealers still interpret the liquidity decline as conveying useful information.</p>
+
+<p>What role do high-frequency traders play in this process? Lots of them look for examples of mispriced securities, hoping to make profits by buying and selling them but adding liquidity to the markets in the process. But they, too, depend on being able to trade with the dealers: if liquidity dries up, the high-frequency traders will also become less active.</p>
+
+<p>The authors say that the disappearance of high-frequency traders during the flash crash was most obvious in the world of exchange-traded funds (ETFs). These funds consist of baskets of securities, usually linked to an index. In theory the value of an ETF should closely follow the value of the securities it owns. When the two prices get out of line, high-frequency traders are often the ones stepping in to make a profit. But ETFs were among the most illiquid assets during the flash crash, suggesting that high-frequency traders had pulled back from this market.</p>
+
+<p>All this can happen very rapidly, as the flash crash demonstrated. But what can be done about it? Many exchanges already have circuit-breakers in place so that trading is halted once prices have fallen by a significant amount. These safeguards date back to “Black Monday” 25 years ago, when the Dow Jones Industrial Average fell by almost 23%.</p>
+
+<p>The authors suggest that a liquidity circuit-breaker should apply as well. A version already exists on the Chicago Mercantile Exchange. Trading is halted if there is a huge imbalance in buy and sell orders that is likely to lead to an exaggerated change in price. Something similar could be designed for other markets.</p>
+
+<p>It may seem perverse to respond to market illiquidity by halting all trading. It sounds a bit like responding to food shortages by closing down all supermarkets. But the idea is to give investors and traders time to pause and reflect. This should prevent illiquidity from spreading.</p>
+
+<p>It is surely in the long-term interest of the markets that events like the flash crash are avoided. Investors have had enough bad news about equities to contend with over the past decade. It will do nothing to restore their confidence in stockmarkets if the price-setting mechanism appears to be a lottery. </p>
+
+<p> </p>
+
+<p>Economist.com/blogs/buttonwood</p>
+

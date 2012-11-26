@@ -1,0 +1,88 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN a|DT new|JJ kind|NN of|IN global|JJ arms|NNS race|NN is|VBZ unfolding|VBG and|CC this|DT one|CD is|VBZ measured|VBN in|IN petaflops|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START titan|NN the|DT us|PRP department|NN of|IN energys|NNS top|VBP open|JJ science|NN computer|NN is|VBZ going|VBG live|JJ on|IN monday|NN with|IN an|DT upgrade|NN that|IN will|MD likely|RB make|VB it|PRP the|DT fastest|JJS supercomputer|NN on|IN the|DT planet|NN </s>|S_END
+<s>|S_START at|IN 20|CD petaflops|NNS thats|NNS 20|CD quadrillion|NN calculations|NNS each|DT second|JJ titan|NN outperforms|NNS by|IN four|CD petaflops|NNS the|DT does|VBZ sequoia|NN supercomputer|NN which|WDT has|VBZ held|VBN the|DT crown|NN since|IN june|NN </s>|S_END
+<s>|S_START the|DT official|JJ top|NN 500|CD ranking|VBG of|IN the|DT worlds|NNS fastest|JJS supercomputers|NNS will|MD be|VB announced|VBN next|JJ month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT united|VBN states|NNS is|VBZ back|RB on|IN top|JJ of|IN the|DT computing|NN world|NN after|IN ceding|VBG ground|NN to|TO japan|VB china|NN and|CC germany|NN over|IN the|DT past|JJ three|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS not|RB just|RB a|DT badge|NN of|IN honor|NN its|PRP$ also|RB critical|JJ to|TO national|JJ security|NN and|CC the|DT countrys|NNS economic|JJ viability|NN </s>|S_END
+<s>|S_START titan|NN will|MD help|VB us|PRP scientists|NNS pioneer|VBP research|NN into|IN climate|NN change|NN biofuels|NNS nuclear|JJ energy|NN new|JJ materials|NNS and|CC other|JJ crucial|JJ fields|NNS which|WDT will|MD help|VB them|PRP create|VB the|DT next|JJ wave|NN of|IN car|NN batteries|NNS switchgrass|VBP ethanol|NN and|CC improved|VBN weather|NN forecasting|NN tools|NNS all|DT developed|VBD in|IN america|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START formerly|RB known|VBN as|IN jaguar|NN the|DT cray|NN cray|NN supercomputer|NN at|IN the|DT does|NNS oak|VBP ridge|NN national|JJ laboratory|NN got|VBD a|DT major|JJ upgrade|NN and|CC an|DT appropriately|RB intimidating|VBG new|JJ name|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START titan|NN replaced|VBD its|PRP$ predecessors|NNS 224256|CD central|JJ processing|NN units|NNS cpus|VBZ with|IN 299008|CD faster|JJR cpus|NN made|VBD by|IN amd|NN amd|NN fortune|NN 500|CD along|IN with|IN 18688|CD graphics|NNS processing|VBG units|NNS gpus|VBZ made|VBN by|IN nvidia|NN nvda|NN </s>|S_END
+<s>|S_START the|DT gpus|NN serve|NN as|IN accelerators|NNS to|TO the|DT cpus|NN </s>|S_END
+<s>|S_START thats|NNS why|WRB titan|JJ has|VBZ just|RB a|DT third|JJ more|RBR central|JJ processors|NNS and|CC the|DT same|JJ number|NN of|IN computing|NN nodes|NNS and|CC cabinets|NNS as|IN jaguar|NN but|CC delivers|NNS 10|CD times|NNS the|DT performance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB more|JJR crucially|RB titans|VBZ processors|NNS are|VBP five|CD times|NNS more|JJR energyefficient|NN than|IN their|PRP$ predecessors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD story|NN what|WP its|PRP$ like|IN to|TO play|VB with|IN the|DT jaguar|NN supercomputer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START power|NN constraints|NNS are|VBP the|DT biggest|JJS challenge|NN in|IN the|DT race|NN to|TO maximize|VB speed|NN </s>|S_END
+<s>|S_START running|VBG at|IN just|RB 23|CD petaflops|NNS jaguar|NN required|VBN 7|CD megawatts|NNS of|IN energy|NN the|DT same|JJ amount|NN of|IN electricity|NN required|VBN to|TO power|NN 7000|CD homes|NNS </s>|S_END
+<s>|S_START the|DT cost|NN of|IN simply|RB plugging|VBG in|IN jaguar|NN was|VBD $|$ 7|CD million|CD last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN jaguar|NN had|VBD been|VBN expanded|VBN with|IN cpus|JJ not|RB gpus|VBZ a|DT 20|CD petaflop|NN machine|NN would|MD have|VB required|VBN 60|CD megawatts|NNS of|IN power|NN at|IN a|DT cost|NN of|IN $|$ 60|CD million|CD </s>|S_END
+<s>|S_START that|DT would|MD have|VB been|VBN a|DT dealbreaker|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT oak|NN ridge|NN national|JJ laboratory|NN says|VBZ titans|NNS energy|NN costs|NNS are|VBP very|RB slightly|RB higher|JJR than|IN jaguars|NNS </s>|S_END
+<s>|S_START the|DT systems|NNS design|NN is|VBZ a|DT responsible|JJ move|NN toward|IN lowering|NN our|PRP$ carbon|NN footprint|NN says|VBZ jeff|NN nichols|NNS laboratory|NN director|NN at|IN the|DT oak|NN ridge|NN national|JJ laboratory|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT gpus|NN powering|VBG titan|NN arent|NN special|JJ </s>|S_END
+<s>|S_START theyre|NN actually|RB same|JJ the|DT hardware|NN thats|NNS in|IN highend|NN consumer|NN pcs|NNS popularized|VBD by|IN hardcore|NN pc|NN gamers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ not|RB the|DT first|JJ time|NN gaming|VBG has|VBZ helped|VBN supercomputing|VBG </s>|S_END
+<s>|S_START ibms|NNS ibm|VBP fortune|NN 500|CD roadrunner|NN supercomputer|NN at|IN the|DT los|NNS alamos|VBZ national|JJ laboratory|NN runs|VBZ on|IN the|DT same|JJ processors|NNS used|VBN in|IN the|DT sony|NN sne|NN playstation|NN 3|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP costs|VBZ billions|NNS of|IN dollars|NNS to|TO develop|VB highperformance|NN computing|NN processors|NNS and|CC theres|NNS no|DT way|NN to|TO make|VB that|IN money|NN back|RB says|VBZ steve|JJ scott|NN chief|NN technology|NN officer|NN at|IN nvidia|NN </s>|S_END
+<s>|S_START we|PRP couldnt|VBP do|VBP what|WP were|VBD doing|VBG without|IN a|DT consumer|NN business|NN for|IN these|DT processors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN whats|NNS the|DT does|VBZ plan|NN for|IN all|DT of|IN titans|NNS new|JJ speed|NN and|CC power|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT oak|NN ridge|NN national|JJ laboratory|NN plans|NNS to|TO stay|VB focused|VBN on|IN the|DT 40|CD projects|NNS currently|RB using|VBG the|DT supercomputer|NN </s>|S_END
+<s>|S_START instead|RB of|IN tens|NNS of|IN millions|NNS of|IN cpu|NN hours|NNS each|DT project|NN will|MD get|VB hundreds|NNS of|IN millions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT will|MD help|VB researchers|NNS accelerate|VB their|PRP$ breakthroughs|NNS </s>|S_END
+<s>|S_START still|RB its|PRP$ only|RB a|DT matter|NN of|IN time|NN before|IN theyll|NN want|NN more|RBR </s>|S_END
+<s>|S_START by|IN 2016|CD the|DT department|NN of|IN energy|NN will|MD be|VB upgrading|VBG titan|NN to|TO its|PRP$ successor|NN which|WDT it|PRP hopes|VBZ will|MD reach|VB 200|CD petaflops|NNS 10|CD times|NNS the|DT speed|NN of|IN titan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START demand|NN will|MD never|RB stop|VB scott|NN says|VBZ </s>|S_END
+<s>|S_START once|RB were|VBD on|IN the|DT verge|NN of|IN an|DT exaflop|NN thats|NNS 1|CD quintillion|NN calculations|NNS per|IN second|JJ scientists|NNS will|MD be|VB talking|VBG about|IN their|PRP$ demand|NN for|IN a|DT zettaflop|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,179 @@
+<p>|P_START
+<s>|S_START bob|NN johnson|NN im|NN not|RB the|DT smartest|JJS guy|NN on|IN the|DT block|NN but|CC ive|JJ had|VBD more|RBR opportunities|NNS than|IN others|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fortune|NN you|PRP may|MD know|VB robert|NN l|NN bob|NN johnson|NN best|JJS for|IN launching|NN black|NN entertainment|NN television|NN bet|NN back|RB in|IN 1980|CD </s>|S_END
+<s>|S_START but|CC after|IN selling|VBG bet|NN to|TO viacom|VB for|IN $|$ 3|CD billion|CD the|DT 66yearold|JJ johnson|NN has|VBZ branched|VBN out|RP into|IN hotels|NNS marriott|VBP auto|NN dealerships|NNS part|NN ownership|NN of|IN the|DT charlotte|NN bobcats|NNS and|CC even|RB british|JJ drama|NN </s>|S_END
+<s>|S_START his|PRP$ story|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP was|VBD born|VBN in|IN hickory|NN miss|NN the|DT ninth|NN of|IN 10|CD children|NNS </s>|S_END
+<s>|S_START my|PRP$ mother|NN was|VBD a|DT schoolteacher|NN and|CC my|PRP$ father|NN was|VBD a|DT farm|NN worker|NN </s>|S_END
+<s>|S_START we|PRP moved|VBD north|JJ to|TO freeport|VB ill|NN where|WRB both|DT of|IN them|PRP became|VBD factory|NN workers|NNS to|TO earn|VB better|JJR wages|NNS and|CC get|VB away|RB from|IN discrimination|NN in|IN the|DT south|NN </s>|S_END
+<s>|S_START they|PRP taught|VBD us|PRP theres|VBZ no|DT such|JJ thing|NN as|IN lowly|RB work|NN as|IN long|RB as|IN its|PRP$ honest|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN the|DT time|NN i|PRP went|VBD to|TO college|VB in|IN 1964|CD there|EX was|VBD a|DT movement|NN to|TO push|VB african|JJ americans|NNS toward|IN higher|JJR education|NN </s>|S_END
+<s>|S_START i|PRP attended|VBD the|DT university|NN of|IN illinois|NNS through|IN the|DT national|JJ defense|NN student|NN loan|NN program|NN and|CC was|VBD a|DT history|NN major|JJ </s>|S_END
+<s>|S_START after|IN i|PRP graduated|VBD in|IN 1968|CD i|PRP went|VBD to|TO princeton|VB which|WDT was|VBD looking|VBG to|TO recruit|VB minorities|NNS and|CC attended|VBD the|DT woodrow|NN wilson|NN school|NN of|IN public|JJ and|CC international|JJ affairs|NNS for|IN my|PRP$ masters|NNS degree|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP didnt|VBP think|VBP about|IN going|VBG into|IN business|NN at|IN first|JJ </s>|S_END
+<s>|S_START after|IN college|NN i|PRP had|VBD a|DT series|NN of|IN jobs|NNS working|VBG for|IN the|DT corporation|NN of|IN public|JJ broadcasting|NN the|DT national|JJ urban|NN league|NN and|CC as|IN press|NN secretary|NN for|IN walter|NN fauntroy|NN the|DT first|JJ dc|NN delegate|NN to|TO the|DT house|NN of|IN representatives|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN 1977|CD i|PRP was|VBD introduced|VBN to|TO bob|VB schmidt|NN president|NN of|IN the|DT national|JJ cable|JJ television|NN association|NN and|CC became|VBD vice|NN president|NN for|IN governmental|JJ relations|NNS </s>|S_END
+<s>|S_START i|PRP met|VBD the|DT leaders|NNS of|IN the|DT industry|NN and|CC struck|NN up|RP a|DT friendship|NN with|IN john|NN malone|NN then|RB president|NN and|CC ceo|NN of|IN tci|NN </s>|S_END
+<s>|S_START he|PRP said|VBD to|TO me|PRP im|VB a|DT business|NN guy|NN and|CC if|IN you|PRP have|VBP any|DT ideas|NNS id|VBD be|VB interested|VBN in|IN supporting|NN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN an|DT african|JJ american|NN i|PRP had|VBD a|DT desire|NN to|TO demonstrate|VB the|DT potential|JJ of|IN african|JJ americans|NNS to|TO create|VB value|NN wealth|NN and|CC opportunity|NN </s>|S_END
+<s>|S_START i|PRP wanted|VBD to|TO share|VB the|DT stories|NNS of|IN african|JJ americans|NNS that|WDT mainstream|NN media|NNS was|VBD not|RB covering|VBG </s>|S_END
+<s>|S_START black|NN radio|NN was|VBD playing|VBG and|CC black|JJ music|NN was|VBD growing|VBG and|CC i|PRP wanted|VBD to|TO reach|VB the|DT consumers|NNS who|WP didnt|NN have|VBP access|NN to|TO it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN the|DT evolution|NN of|IN satellite|JJ technology|NN you|PRP could|MD reach|VB niche|PRP markets|NNS that|WDT you|PRP couldnt|VBP reach|DT with|IN broadcast|JJ tv|NN </s>|S_END
+<s>|S_START so|IN i|PRP told|VBD john|JJ malone|NN about|IN my|PRP$ idea|NN of|IN creating|VBG black|JJ entertainment|NN television|NN </s>|S_END
+<s>|S_START it|PRP was|VBD 1979|CD and|CC he|PRP had|VBD an|DT interest|NN in|IN seeing|NN minority|NN cable|JJ happen|NN because|IN he|PRP had|VBD a|DT station|NN in|IN louisville|NN that|IN had|VBD a|DT large|JJ black|NN population|NN </s>|S_END
+<s>|S_START so|IN he|PRP put|VBD the|DT first|JJ half|DT million|NN in|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START more|JJR how|WRB we|PRP got|VBD started|VBN the|DT blue|JJ man|NN group|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP bought|VBD 20|CD of|IN the|DT company|NN for|IN $|$ 180000|CD and|CC loaned|VBD me|PRP $|$ 320000|CD </s>|S_END
+<s>|S_START it|PRP was|VBD a|DT great|JJ strategy|NN for|IN me|PRP because|IN if|IN he|PRP put|VBD in|RP the|DT money|NN as|IN debt|NN bet|NN would|MD be|VB a|DT minoritycontrolled|VBN company|NN </s>|S_END
+<s>|S_START he|PRP told|VBD me|PRP he|PRP believed|VBD id|VBN work|NN harder|NN for|IN myself|PRP than|IN i|PRP would|MD for|IN him|PRP </s>|S_END
+<s>|S_START as|IN we|PRP grew|VBD the|DT company|NN john|NN put|VBD in|IN more|JJR money|NN as|IN debt|NN and|CC it|PRP all|DT got|VBD paid|VBN back|RB </s>|S_END
+<s>|S_START his|PRP$ initial|JJ $|$ 180000|CD investment|NN netted|VBD him|PRP $|$ 700|CD million|CD in|IN stock|NN when|WRB we|PRP later|JJ sold|NN to|TO viacom|VB via|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP served|VBD on|IN the|DT bet|NN board|NN for|IN 18|CD years|NNS </s>|S_END
+<s>|S_START most|JJS talented|VBN african|JJ americans|NNS are|VBP not|RB given|VBN the|DT opportunity|NN or|CC access|NN to|TO support|VB from|IN someone|NN like|IN john|NN malone|NN </s>|S_END
+<s>|S_START the|DT white|JJ community|NN knows|VBZ a|DT lot|NN about|IN black|JJ athletes|NNS and|CC musicians|NNS but|CC doesnt|NN have|VBP the|DT same|JJ affinity|NN for|IN black|JJ businessmen|NNS </s>|S_END
+<s>|S_START when|WRB i|PRP would|MD go|VB to|TO the|DT bank|NN for|IN an|DT investment|NN theyd|NN ask|NN me|PRP who|WP else|RB is|VBZ in|IN the|DT deal|NN </s>|S_END
+<s>|S_START id|VBD say|VBP john|NN malone|NN and|CC you|PRP could|MD feel|VB the|DT instant|JJ seal|NN of|IN approval|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START my|PRP$ first|JJ problem|NN starting|VBG bet|NN was|VBD persuading|VBG cable|JJ operators|NNS to|TO carry|VB the|DT programming|NN </s>|S_END
+<s>|S_START back|RB then|RB the|DT cable|JJ system|NN had|VBD 20|CD to|TO 30|CD channels|NNS </s>|S_END
+<s>|S_START an|DT operator|NN would|MD tell|VB me|PRP i|PRP only|RB have|VBP 5|CD of|IN blacks|NNS in|IN my|PRP$ market|NN </s>|S_END
+<s>|S_START why|WRB should|MD i|VB give|JJ a|DT channel|NN to|TO you|PRP </s>|S_END
+<s>|S_START i|PRP told|VBD them|PRP that|IN quality|NN entertainment|NN was|VBD colorblind|JJ and|CC the|DT industry|NN had|VBD to|TO show|VB politically|RB that|IN it|PRP was|VBD diverse|JJ to|TO be|VB deregulated|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT difficulty|NN was|VBD the|DT programming|NN </s>|S_END
+<s>|S_START back|RB then|RB hollywood|VBD wasnt|NN producing|VBG black|JJ programming|NN </s>|S_END
+<s>|S_START the|DT successful|JJ shows|NNS they|PRP did|VBD the|DT bill|NN cosby|NN show|NN the|DT jeffersons|NNS and|CC good|JJ times|NNS were|VBD all|DT on|IN the|DT broadcast|NN networks|VBZ </s>|S_END
+<s>|S_START so|IN we|PRP would|MD license|VB blackoriented|VBN movies|NNS from|IN studios|NNS that|WDT werent|NN being|VBG released|VBN and|CC developed|VBD original|JJ programming|NN with|IN africanamerican|JJ creators|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP launched|VBD jan|JJ 25|CD 1980|CD broadcasting|VBG two|CD hours|NNS a|DT week|NN on|IN friday|NN nights|NNS and|CC reached|VBD 35|CD million|CD households|NNS </s>|S_END
+<s>|S_START in|IN 1981|CD when|WRB mtv|NN didnt|NN feature|NN rap|NN and|CC hiphop|VB artists|NNS it|PRP gave|VBD us|PRP an|DT opening|VBG </s>|S_END
+<s>|S_START we|PRP got|VBD free|JJ music|NN videos|NNS from|IN the|DT record|NN companies|NNS </s>|S_END
+<s>|S_START we|PRP ran|VBD black|JJ college|NN football|NN and|CC black|JJ gospel|NN music|NN </s>|S_END
+<s>|S_START we|PRP served|VBD a|DT unique|JJ audience|NN that|WDT other|JJ businesses|NNS werent|NN serving|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN 1983|CD taft|NN broadcasting|VBG came|NN in|IN as|IN an|DT investor|NN with|IN $|$ 1|CD million|CD or|CC $|$ 2|CD million|CD </s>|S_END
+<s>|S_START time|NN warner|NN twx|NN fortune|NN 500|CD started|VBN giving|VBG inkind|NN help|NN with|IN cable|JJ carriage|NN and|CC satellite|JJ distribution|NN in|IN 1986|CD and|CC we|PRP became|VBD cashflow|RB positive|JJ </s>|S_END
+<s>|S_START i|PRP decided|VBD to|TO take|VB the|DT company|NN public|NN and|CC in|IN 1991|CD we|PRP became|VBD the|DT first|JJ africanamerican|NN company|NN to|TO be|VB traded|VBN on|IN the|DT new|JJ york|NN stock|NN exchange|NN </s>|S_END
+<s>|S_START eight|NN years|NNS later|RBR john|JJ and|CC i|PRP were|VBD looking|VBG at|IN the|DT business|NN and|CC the|DT market|NN wasnt|NN giving|VBG us|PRP the|DT valuation|NN it|PRP did|VBD to|TO others|NNS </s>|S_END
+<s>|S_START we|PRP were|VBD at|IN $|$ 32|CD a|DT share|NN we|PRP ended|VBD up|RP buying|VBG the|DT company|NN back|RB at|IN $|$ 62|CD a|DT share|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START more|JJR how|WRB we|PRP got|VBD started|VBN the|DT lucky|JJ jeans|NNS guys|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shortly|RB after|IN that|DT viacom|NN approached|VBD john|NN about|IN buying|VBG discovery|NN and|CC he|PRP said|VBD you|PRP might|MD want|VB to|TO talk|VB to|TO bob|VB about|IN bet|NN </s>|S_END
+<s>|S_START i|PRP was|VBD trying|VBG to|TO buy|VB some|DT radio|NN stations|NNS and|CC was|VBD ready|JJ to|TO close|VB the|DT deal|NN when|WRB i|PRP heard|VBP that|IN time|NN warner|NN and|CC aol|NN had|VBD merged|VBN </s>|S_END
+<s>|S_START aol|NN had|VBD paid|VBN a|DT huge|JJ amount|NN for|IN content|NN and|CC i|PRP decided|VBD to|TO pull|VB back|RB because|IN content|NN was|VBD so|RB valuable|JJ </s>|S_END
+<s>|S_START i|PRP talked|VBD to|TO viacom|VB and|CC said|VBD that|IN as|IN long|RB as|IN we|PRP can|MD work|VB out|RP some|DT issues|NNS id|VBD sell|NN </s>|S_END
+<s>|S_START i|PRP thought|VBD there|RB would|MD never|RB be|VB a|DT better|JJR time|NN to|TO maximize|VB our|PRP$ returns|NNS </s>|S_END
+<s>|S_START so|IN in|IN 2001|CD we|PRP sold|VBD bet|NN for|IN $|$ 3|CD billion|CD and|CC i|PRP stayed|VBD on|IN as|IN ceo|NN through|IN 2006|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN i|PRP sold|VBD bet|JJ i|NN could|MD have|VB done|VBN nothing|NN </s>|S_END
+<s>|S_START but|CC my|PRP$ goal|NN is|VBZ to|TO prove|VB that|IN african|JJ americans|NNS can|MD create|VB wealth|NN in|IN every|DT sector|NN </s>|S_END
+<s>|S_START so|IN i|PRP decided|VBD to|TO create|VB a|DT company|NN with|IN a|DT diverse|JJ portfolio|NN </s>|S_END
+<s>|S_START i|PRP continued|VBD to|TO serve|VB as|IN ceo|NN of|IN bet|NN while|IN starting|VBG rlj|NN development|NN a|DT company|NN i|PRP formed|VBD with|IN tom|NN baltimore|IN formerly|RB a|DT vp|NN with|IN hilton|NN hotels|NNS and|CC purchased|VBD six|CD hotels|NNS in|IN 2001|CD </s>|S_END
+<s>|S_START we|PRP instantly|RB became|VBD the|DT largest|JJS africanamerican|NN hotel|NN owner|NN in|IN the|DT country|NN </s>|S_END
+<s>|S_START today|NN we|PRP have|VBP 144|CD hotels|NNS with|IN an|DT enterprise|NN value|NN of|IN $|$ 28|CD billion|CD </s>|S_END
+<s>|S_START i|PRP started|VBD the|DT rlj|NN cos|NNS in|IN 2002|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START theres|NNS often|RB reluctance|NN on|IN the|DT part|NN of|IN white|JJ business|NN owners|NNS to|TO cast|VB their|PRP$ lot|NN with|IN black|JJ entrepreneurs|NNS </s>|S_END
+<s>|S_START but|CC when|WRB white|JJ americans|NNS get|VBP to|TO know|VB you|PRP they|PRP think|VBP heres|NNS a|DT guy|NN i|PRP can|MD do|VB business|NN with|IN </s>|S_END
+<s>|S_START i|PRP got|VBD into|IN private|JJ equity|NN with|IN the|DT carlyle|NN group|NN because|IN david|JJ rubenstein|NN and|CC i|PRP were|VBD both|DT on|IN the|DT board|NN of|IN johns|NNS hopkins|NNS university|NN </s>|S_END
+<s>|S_START we|PRP created|VBD a|DT deal|NN rlj|NN equity|NN partners|NNS and|CC are|VBP buying|VBG companies|NNS together|RB now|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START likewise|NN i|PRP was|VBD a|DT friend|NN of|IN bill|NN clintons|NNS and|CC got|VBD to|TO know|VB mack|NN mclarty|NN who|WP was|VBD his|PRP$ white|JJ house|NN chief|NN of|IN staff|NN </s>|S_END
+<s>|S_START mack|NN said|VBD hes|NNS got|VBD some|DT car|NN dealerships|NNS and|CC would|MD like|VB to|TO grow|VB them|PRP </s>|S_END
+<s>|S_START so|IN now|RB i|PRP have|VBP 60|CD in|IN it|PRP rlj|VBP mclarty|NN landers|NNS automotive|JJ holdings|NNS and|CC were|VBD the|DT largest|JJS minorityowned|VBN automotive|JJ dealership|NN in|IN the|DT country|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START now|RB ive|VBP come|VBN full|JJ circle|NN with|IN the|DT acquisition|NN of|IN image|NN entertainment|NN and|CC acorn|NN media|NNS group|NN to|TO form|NN rlj|NN entertainment|NN </s>|S_END
+<s>|S_START i|PRP want|VBP to|TO make|VB acorn|NN tv|NN the|DT brand|NN for|IN exciting|NN british|JJ drama|NN and|CC mysteries|NNS and|CC use|VB images|NNS urban|VB titles|NNS to|TO create|VB a|DT digital|JJ channel|NN for|IN africanamerican|NN programming|NN along|IN with|IN original|JJ programming|NN </s>|S_END
+<s>|S_START were|VBD thinking|VBG of|IN creating|VBG a|DT hispanic|JJ channel|NN that|WDT will|MD be|VB competitive|JJ with|IN telemundo|NN and|CC univision|NN next|IN </s>|S_END
+<s>|S_START the|DT asian|JJ market|NN would|MD be|VB great|JJ too|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START im|NN not|RB the|DT smartest|JJS guy|NN on|IN the|DT block|NN but|CC ive|JJ had|VBD more|RBR opportunities|NNS than|IN others|NNS </s>|S_END
+<s>|S_START there|EX are|VBP two|CD things|NNS im|VBP proudest|JJS of|IN achieving|VBG </s>|S_END
+<s>|S_START one|CD is|VBZ starting|VBG bet|NN which|WDT will|MD be|VB around|IN long|RB after|IN im|NN gone|NN </s>|S_END
+<s>|S_START second|JJ my|PRP$ success|NN can|MD be|VB used|VBN as|IN a|DT beacon|NN to|TO the|DT broader|JJR white|JJ business|NN community|NN to|TO say|VB if|IN bob|NN johnson|NN can|MD do|VB it|PRP then|RB there|RB are|VBP a|DT lot|NN of|IN africanamerican|NN guys|NNS and|CC women|NNS who|WP can|MD do|VB it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START my|PRP$ advice|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START establish|JJ strategic|JJ partnerships|NNS </s>|S_END
+<s>|S_START have|VBP people|NNS who|WP will|MD go|VB to|TO bat|VB for|IN you|PRP vouch|VBP for|IN you|PRP or|CC take|VB a|DT risk|NN for|IN you|PRP when|WRB you|PRP need|VBP it|PRP </s>|S_END
+<s>|S_START make|VB those|DT friendships|NNS before|IN you|PRP need|VBP them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START create|NN a|DT brand|NN identity|NN </s>|S_END
+<s>|S_START your|PRP$ brand|NN is|VBZ your|PRP$ personal|JJ character|NN what|WP you|PRP say|VBP how|WRB you|PRP carry|VBP yourself|PRP how|WRB you|PRP respond|VBP to|TO people|NNS </s>|S_END
+<s>|S_START you|PRP have|VBP to|TO be|VB able|JJ to|TO project|VB a|DT sense|NN that|WDT theres|VBZ value|NN in|IN knowing|NN you|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START let|NN the|DT people|NNS who|WP work|NN for|IN you|PRP know|VBP that|IN youre|NN all|DT in|IN it|PRP together|RB </s>|S_END
+<s>|S_START if|IN i|PRP make|VBP money|NN youll|NN make|VBP money|NN </s>|S_END
+<s>|S_START if|IN im|PRP here|RB working|VBG until|IN midnight|NN you|PRP need|VBP to|TO be|VB here|RB till|IN midnight|NN </s>|S_END
+<s>|S_START they|PRP get|VBP to|TO ride|VB up|RP the|DT elevator|NN with|IN you|PRP and|CC if|IN you|PRP dont|VBP go|VBP up|RP theyre|JJ in|IN the|DT same|JJ position|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START note|VB on|IN may|MD 11|CD 2011|CD rlj|NN development|NN previously|RB a|DT privately|RB held|VBN real|JJ estate|NN investment|NN company|NN became|VBD rlj|NN lodging|NN trust|NN rlj|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT story|NN is|VBZ from|IN the|DT november|NN 12|CD 2012|CD issue|NN of|IN fortune|NN </s>|S_END
+</p>|P_END
+

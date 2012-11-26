@@ -1,0 +1,154 @@
+<p>|P_START
+<s>|S_START ever|RB feel|VBP like|IN the|DT financial|JJ markets|NNS are|VBP simply|RB a|DT rigged|JJ game|NN where|WRB the|DT house|NN ie|NN </s>|S_END
+<s>|S_START the|DT worlds|NNS largest|JJS banks|NNS always|RB win|VBP </s>|S_END
+<s>|S_START reading|NN text|VBD messages|NNS and|CC emails|NNS between|IN traders|NNS at|IN barclays|NNS bcs|NNS about|IN their|PRP$ often|RB successful|JJ attempts|NNS to|TO manipulate|VB global|JJ benchmarks|NNS for|IN interest|NN rates|NNS will|MD only|RB reinforce|VB that|IN belief|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT traders|NNS influenced|VBD the|DT pricing|NN of|IN the|DT london|NN interbank|NN offered|VBD rate|NN or|CC libor|NN a|DT benchmark|NN that|WDT dictates|VBZ the|DT pricing|NN of|IN up|IN to|TO $|$ 800|CD trillion|CD of|IN securities|NNS yes|NNS trillion|NN and|CC several|JJ other|JJ key|JJ benchmarks|NNS between|IN 2005|CD and|CC 2009|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START traders|NNS emails|VBP and|CC text|NN messages|NNS were|VBD made|VBN public|JJ as|IN part|NN of|IN a|DT $|$ 453|CD million|CD settlement|NN barclays|NNS with|IN us|PRP and|CC uk|VB regulators|NNS to|TO settle|VB its|PRP$ role|NN in|IN the|DT libor|NN manipulation|NN </s>|S_END
+<s>|S_START libor|NN rates|NNS are|VBP reset|VBN daily|JJ by|IN british|JJ banking|NN regulators|NNS who|WP receive|JJ quotes|NNS from|IN up|IN to|TO 18|CD banks|NNS on|IN what|WP it|PRP costs|VBZ them|PRP to|TO borrow|VB in|IN the|DT public|NN markets|NNS each|DT day|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START interest|NN rate|NN swaps|NNS traders|NNS in|IN new|JJ york|NN and|CC london|NN asked|VBD barclays|NNS employees|NNS and|CC employees|NNS at|IN other|JJ banks|NNS to|TO move|VB rates|NNS in|IN directions|NNS that|WDT benefited|VBD their|PRP$ trading|NN positions|NNS according|VBG to|TO the|DT banks|NNS settlement|NN with|IN the|DT commodity|NN futures|NNS trading|NN commission|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD explaining|VBG the|DT libor|NN scandal|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START barclays|NNS settlements|NNS with|IN the|DT cftc|NN and|CC the|DT uks|NNS primary|JJ banking|NN regulator|NN reveal|NN emails|NNS from|IN barclays|NNS and|CC traders|NNS at|IN other|JJ banks|NNS that|WDT have|VBP not|RB yet|RB been|VBN named|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START traders|NNS refer|VBP to|TO the|DT fixings|NNS as|IN the|DT numbers|NNS used|VBN to|TO calculate|VB libor|NN </s>|S_END
+<s>|S_START banking|NN regulators|NNS that|WDT use|NN information|NN from|IN the|DT banks|NNS to|TO set|VB the|DT rates|NNS typically|RB throw|VBP out|RP the|DT highest|JJS and|CC lowest|JJS borrowing|VBG costs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN one|CD email|NN dated|VBD november|NN 22|CD 2005|CD a|DT senior|JJ trader|NN in|IN new|JJ york|NN wrote|NN to|TO a|DT trader|NN in|IN london|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP have|VBP to|TO get|VB kicked|VBN out|RP of|IN the|DT fixings|NNS tomorrow|NN </s>|S_END
+<s>|S_START we|PRP need|VBP a|DT 417|CD fix|NN in|IN 1m|CD low|JJ fix|NN we|PRP need|VBP a|DT 441|CD fix|NN in|IN 3m|CD high|JJ fix|NN </s>|S_END
+<s>|S_START 1m|CD and|CC 3m|CD refer|NN to|TO onemonth|NN and|CC threemonth|NN libor|NN rates|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nearly|RB six|CD months|NNS later|JJ on|IN february|JJ 1|CD 2006|CD another|DT new|JJ york|NN trader|NN asks|VBZ a|DT london|NN trader|NN to|TO keep|VB the|DT threemonth|NN libor|NN rate|NN low|JJ until|IN the|DT bank|NN gets|VBZ out|RP of|IN its|PRP$ position|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START you|PRP need|VBP to|TO take|VB a|DT close|JJ look|NN at|IN the|DT reset|NN ladder|NN </s>|S_END
+<s>|S_START we|PRP need|VBP 3m|CD to|TO stay|VB low|JJ for|IN the|DT next|JJ 3|CD sets|NNS and|CC then|RB i|PRP think|VBP that|IN we|PRP will|MD be|VB completely|RB out|RP of|IN our|PRP$ 3m|CD position|NN </s>|S_END
+<s>|S_START then|RB its|PRP$ on|IN </s>|S_END
+<s>|S_START submitter|NN has|VBZ to|TO go|VB crazy|JJ with|IN raising|NN 3m|CD libor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN consumers|NNS lower|JJR rates|NNS on|IN mortgages|NNS auto|NN loans|NNS and|CC student|NN loans|NNS dictated|VBD by|IN libor|NN are|VBP something|VBG to|TO cheer|NN </s>|S_END
+<s>|S_START and|CC in|IN many|JJ cases|NNS barclays|NNS traders|NNS did|VBD act|NN to|TO push|VB rates|NNS down|IN  |CD but|CC not|RB all|DT the|DT time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP have|VBP another|DT big|JJ fixing|NN tomorrow|NN and|CC with|IN the|DT market|NN move|NN i|PRP was|VBD hoping|VBG we|PRP could|MD set|VB the|DT 1m|CD and|CC 3m|CD libors|NNS as|IN high|JJ as|IN possible|JJ a|DT trader|NN in|IN new|JJ york|NN asked|VBN an|DT individual|JJ who|WP submits|NNS the|DT banks|NNS rates|NNS to|TO british|VB regulators|NNS on|IN may|MD 31|CD 2006|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START going|VBG through|IN the|DT emails|NNS it|PRP looks|VBZ like|IN the|DT submitters|NNS were|VBD usually|RB happy|JJ to|TO oblige|VB any|DT request|NN from|IN traders|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN you|PRP anything|NN </s>|S_END
+<s>|S_START i|PRP am|VBP going|VBG to|TO go|VB 78|CD and|CC 925|CD </s>|S_END
+<s>|S_START it|PRP is|VBZ difficult|JJ to|TO go|VB lower|JJR than|IN that|DT in|IN threes|NNS a|DT submitter|NN wrote|VBD to|TO a|DT trader|NN in|IN response|NN to|TO his|PRP$ request|NN for|IN a|DT high|JJ onemonth|NN and|CC low|JJ threemonth|NN us|PRP dollar|NN libor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START responses|NNS from|IN two|CD other|JJ submitters|NNS read|VBP always|RB happy|JJ to|TO help|VB leave|VB it|PRP with|IN me|PRP sir|VBP and|CC done|NN for|IN you|PRP big|JJ boy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START senior|JJ trader|NN owes|NNS me|PRP </s>|S_END
+<s>|S_START reads|NNS another|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP seems|VBZ that|IN the|DT rewards|NNS were|VBD tasty|NN </s>|S_END
+<s>|S_START champagne|NN was|VBD popped|VBN judging|VBG from|IN another|DT email|NN dude|NN </s>|S_END
+<s>|S_START i|PRP owe|VBP you|PRP big|JJ time|NN </s>|S_END
+<s>|S_START come|NN over|IN one|CD day|NN after|IN work|NN and|CC im|NN opening|VBG a|DT bottle|NN of|IN bollinger|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD barclays|NNS points|NNS finger|JJR at|IN other|JJ banks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT emails|NNS clearly|RB paint|VBP a|DT picture|NN of|IN collusion|NN among|IN banks|NNS </s>|S_END
+<s>|S_START a|DT former|JJ barclays|NNS senior|JJ euro|NN swaps|NNS trader|NN sent|NN requests|NNS back|RB to|TO barclays|NNS from|IN another|DT bank|NN for|IN help|NN with|IN his|PRP$ derivatives|NNS positions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START senior|JJ euro|NN swaps|NNS trader|NN i|PRP have|VBP a|DT huge|JJ 1m|CD fixing|VBG today|NN and|CC it|PRP would|MD really|RB help|VB to|TO have|VB a|DT low|JJ 1m|CD tx|NN a|DT lot|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START submitter|NN ill|VBD do|VBP my|PRP$ best|JJS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START senior|JJ euro|NN swaps|NNS trader|NN because|IN i|PRP am|VBP aware|JJ some|DT other|JJ banks|NNS need|VBP a|DT very|RB high|JJ one|CD if|IN you|PRP could|MD push|VB it|PRP very|RB low|JJ it|PRP would|MD help|VB </s>|S_END
+<s>|S_START i|PRP have|VBP 50bn|CD fixing|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB according|VBG to|TO cftc|VB documents|NNS once|RB articles|VBZ about|IN possible|JJ rigging|NN on|IN libor|NN appeared|VBD in|IN the|DT wall|NN street|NN journal|JJ in|IN april|NN 2008|CD a|DT senior|JJ barclays|NNS treasury|NN manager|NN told|VBD an|DT official|NN at|IN the|DT british|JJ bankers|NNS association|NN in|IN a|DT telephone|NN call|NN that|WDT the|DT bank|NN had|VBD not|RB been|VBN reporting|VBG libor|NN accurately|RB but|CC hinted|VBN that|IN barclays|NNS was|VBD not|RB the|DT worst|JJS offender |NN were|VBD clean|JJ but|CC were|VBD dirtyclean|JJ rather|RB than|IN cleanclean|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bba|NN representative|NN responded|VBD no|DT ones|NNS cleanclean|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN another|DT scenario|NN traders|NNS from|IN several|JJ banks|NNS tried|VBD to|TO influence|NN a|DT rate|NN for|IN futures|NNS contracts|NNS expiring|VBG in|IN march|NN 2007|CD </s>|S_END
+<s>|S_START to|TO do|VB this|DT a|DT trader|NN asked|VBD traders|NNS at|IN three|CD other|JJ banks|NNS to|TO push|VB these|DT rates|NNS in|IN a|DT specific|JJ direction|NN </s>|S_END
+<s>|S_START excerpts|NNS from|IN an|DT instant|JJ message|NN conversation|NN from|IN one|CD trader|NN labelled|VBD e|NN read|NN as|IN follows|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP know|VBP how|WRB to|TO keep|VB a|DT secret|NN ill|NN bring|VBG you|PRP in|IN on|IN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START were|VBD going|VBG to|TO push|VB the|DT cash|NN downwards|NNS on|IN the|DT imm|NN day|NN the|DT imm|NN day|NN is|VBZ one|CD of|IN four|CD days|NNS per|IN year|NN that|IN futures|NNS contracts|NNS settle|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP breathe|VBP a|DT word|NN of|IN this|DT im|NN not|RB telling|VBG you|PRP anything|NN else|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN traders|NNS learn|VBP that|IN their|PRP$ attempts|NNS to|TO influence|VB rates|NNS were|VBD successful|JJ trader|NN e|NN writes|VBZ via|IN instant|JJ message|NN again|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ the|DT way|NN you|PRP pull|VBP off|RP deals|NNS like|IN this|DT dont|NN talk|NN about|IN it|PRP too|RB much|RB 2|CD months|NNS of|IN preparation|NN the|DT trick|NN is|VBZ you|PRP must|MD not|RB do|VB this|DT alone|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START according|VBG to|TO the|DT barclays|NNS documents|NNS libor|VBP and|CC other|JJ key|JJ benchmarks|NNS were|VBD rigged|VBN between|IN 2005|CD and|CC 2009|CD </s>|S_END
+<s>|S_START since|IN the|DT settlement|NN was|VBD announced|VBN last|JJ week|NN and|CC some|DT documents|NNS became|VBD public|JJ the|DT fallout|NN for|IN barclays|NNS has|VBZ been|VBN swift|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START barclays|NNS ceo|VBP coo|RB and|CC chairman|NN of|IN the|DT board|NN have|VBP all|DT resigned|VBN this|DT week|NN </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ still|RB too|RB soon|RB to|TO say|VB if|IN the|DT bank|NN is|VBZ getting|VBG close|NN to|TO finally|RB putting|VBG the|DT libor|NN mess|NN behind|IN it|PRP and|CC whether|IN the|DT damage|NN might|MD be|VB even|RB worse|JJR at|IN other|JJ banks|NNS </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,11 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 62|CD gdp|NN $|$ 189bn|CD ppp|CD $|$ 233bn|CD inflation|NN 60|CD population|NN 166m|CD gdp|NN per|IN head|NN $|$ 11380|CD ppp|CD $|$ 14040|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nursultan|NN nazarbayev|NN in|IN charge|NN since|IN soviet|JJ times|NNS will|MD stay|VB there|EX thanks|NNS to|TO a|DT mix|NN of|IN patronage|NN repression|NN and|CC oilfired|VBD economic|JJ growth|NN </s>|S_END
+<s>|S_START living|VBG standards|NNS are|VBP rising|VBG unemployment|NN is|VBZ modest|JJ and|CC the|DT opposition|NN enfeebled|VBD </s>|S_END
+<s>|S_START political|JJ reforms|NNS mean|VBP a|DT second|JJ party|NN will|MD enter|VB the|DT legislature|NN in|IN the|DT 2012|CD elections|NNS but|CC it|PRP will|MD probably|RB be|VB a|DT stooge|NN for|IN the|DT government|NN </s>|S_END
+<s>|S_START economic|JJ growth|NN will|MD slow|VB a|DT little|RB from|IN 2011|CD </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,56 @@
+<p>|P_START
+<s>|S_START boeing|VBG ceo|NN jim|NN mcnerney|NN said|VBD wednesday|NN that|IN ceos|NNS are|VBP worried|VBN about|IN the|DT fiscal|JJ cliff|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START washington|NN cnnmoney|NN ceos|NNS of|IN major|JJ us|PRP companies|NNS expect|VBP to|TO hire|VB fewer|JJR people|NNS and|CC invest|JJS less|JJR in|IN the|DT next|JJ six|CD months|NNS because|IN of|IN uncertainty|NN surrounding|VBG the|DT fiscal|JJ cliff|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT automatic|JJ tax|NN increases|NNS and|CC acrosstheboard|NN spending|NN cuts|NNS that|WDT could|MD take|VB effect|NN next|IN year|NN throw|NN cold|NN water|NN on|IN long|JJ term|NN planning|VBG said|VBD w|NN james|NNS mcnerney|NN ceo|NN of|IN boeing|VBG ba|NN fortune|NN 500|CD and|CC business|NN roundtable|JJ board|NN chairman|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ceo|NN economic|JJ expectations|NNS are|VBP at|IN their|PRP$ lowest|JJS level|NN since|IN the|DT third|JJ quarter|NN of|IN 2009|CD according|VBG to|TO a|DT survey|NN conducted|VBN by|IN the|DT business|NN roundtable|JJ a|DT lobbying|NN group|NN of|IN ceos|NNS of|IN top|JJ companies|NNS such|JJ as|IN honeywell|NN international|JJ hon|NN fortune|NN 500|CD dow|NN chemical|JJ dow|NN fortune|NN 500|CD xerox|NN xrx|NN fortune|NN 500|CD and|CC general|JJ electric|JJ ge|NN fortune|NN 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START only|RB 29|CD of|IN ceos|NNS said|VBD they|PRP expect|VBP to|TO hire|VB more|JJR employees|NNS in|IN the|DT next|JJ six|CD months|NNS down|IN from|IN 36|CD in|IN the|DT last|JJ quarter|NN </s>|S_END
+<s>|S_START company|NN leaders|NNS are|VBP also|RB cutting|VBG back|RB on|IN capital|NN spending|NN plans|NNS just|RB 30|CD expected|VBN to|TO increase|VB spending|NN compared|VBN to|TO 43|CD last|JJ quarter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START congress|NN has|VBZ until|IN the|DT midnight|NN of|IN dec|NN 31|CD to|TO act|VB to|TO prevent|VB a|DT series|NN of|IN tax|NN cuts|NNS from|IN expiring|VBG and|CC to|TO stop|VB funding|NN cuts|NNS to|TO hundreds|NNS of|IN federal|JJ programs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN congress|NN does|VBZ nothing|NN the|DT us|PRP will|MD go|VB over|IN the|DT fiscal|JJ cliff|NN triggering|VBG $|$ 7|CD trillion|CD worth|NN of|IN tax|NN increases|NNS and|CC spending|NN cuts|NNS </s>|S_END
+<s>|S_START that|DT will|MD take|VB more|RBR than|IN $|$ 500|CD billion|CD out|IN of|IN the|DT economy|NN in|IN 2013|CD alone|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ceos|NNS dont|VBP want|JJ congress|NN to|TO delay|VB the|DT cuts|NNS by|IN a|DT few|JJ months|NNS either|CC which|WDT would|MD only|RB prolong|VB economic|JJ purgatory|NN said|VBD mcnerney|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD obama|NN vs|NNS romney|NN how|WRB theyd|JJ handle|NN the|DT $|$ 7|CD trillion|CD fiscal|JJ cliff|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT nations|NNS top|VBP business|NN leaders|NNS are|VBP so|RB concerned|VBN that|IN they|PRP plan|VBP to|TO launch|VB a|DT media|NN campaign|NN after|IN the|DT nov|NN 6|CD presidential|JJ elections|NNS </s>|S_END
+<s>|S_START the|DT campaign|NN will|MD push|VB congress|NN to|TO avoid|VB the|DT fiscal|JJ cliff|NN and|CC implement|NN a|DT plan|NN that|WDT gives|VBZ companies|NNS more|JJR certainty|NN said|VBD the|DT lobbying|NN groups|NNS president|NN john|NN engler|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT group|NN is|VBZ urging|VBG congress|NN to|TO use|VB the|DT bowlessimpson|NN plan|NN as|IN a|DT guide|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START erskine|NN bowles|NNS was|VBD white|JJ house|NN chief|NN of|IN staff|NN under|IN president|NN bill|NN clinton|NN while|IN alan|NN simpson|NN is|VBZ a|DT former|JJ republican|NN senator|NN </s>|S_END
+<s>|S_START they|PRP cochaired|VBD president|NN obamas|NNS debt|NN reduction|NN commission|NN in|IN 2010|CD and|CC submitted|VBD a|DT bipartisan|NN report|NN which|WDT was|VBD widely|RB praised|VBN but|CC ignored|VBN by|IN the|DT obama|NN administration|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT business|NN survey|NN took|VBD place|NN from|IN aug|NN 30|CD through|IN sept|JJ 14|CD and|CC included|VBD responses|NNS from|IN 138|CD ceos|NNS or|CC 65|CD of|IN the|DT groups|NNS members|NNS </s>|S_END
+</p>|P_END
+

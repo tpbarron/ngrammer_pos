@@ -1,0 +1,65 @@
+<p>|P_START
+<s>|S_START the|DT copenhagen|NN climate|NN summit|NN of|IN 2009|CD was|VBD never|RB going|VBG to|TO deliver|VB what|WP its|PRP$ framers|NNS craved|VBD </s>|S_END
+<s>|S_START its|PRP$ failure|NN to|TO do|VB so|RB though|IN has|VBZ left|VBN the|DT politics|NNS of|IN climate|NN floundering|VBG and|CC the|DT subsequent|JJ failure|NN of|IN president|NN barack|NN obama|NN and|CC his|PRP$ democratic|JJ party|NN to|TO get|VB a|DT price|NN on|IN carbon|NN into|IN american|JJ law|NN has|VBZ made|VBN things|NNS worse|VBP </s>|S_END
+<s>|S_START it|PRP is|VBZ clear|JJ that|IN the|DT nations|NNS of|IN the|DT world|NN will|MD not|RB commit|VB themselves|PRP to|TO controls|NNS on|IN carbon|NN emissions|NNS anything|NN like|IN as|IN strict|JJ as|IN enthusiasts|NNS imagined|VBN </s>|S_END
+<s>|S_START but|CC no|DT alternative|NN has|VBZ yet|RB garnered|VBN much|RB support|NN </s>|S_END
+<s>|S_START meanwhile|RB the|DT first|JJ decade|NN of|IN the|DT 21st|CD century|NN has|VBZ taken|VBN its|PRP$ place|NN as|IN the|DT warmest|JJS on|IN record|NN and|CC industrial|JJ carbondioxide|NN emissions|NNS continue|VBP to|TO climb|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START reducing|VBG those|DT emissions|NNS remains|VBZ important|JJ and|CC efforts|NNS to|TO that|DT end|NN are|VBP still|RB worthwhile|JJ </s>|S_END
+<s>|S_START but|CC after|IN copenhagen|NN this|DT can|MD not|RB be|VB the|DT beall|NN and|CC endall|NN of|IN climate|NN action|NN </s>|S_END
+<s>|S_START nor|CC should|MD it|PRP be|VB </s>|S_END
+<s>|S_START it|PRP is|VBZ time|NN to|TO broaden|VB the|DT approach|NN to|TO climate|VB change|NN in|IN at|IN least|JJS three|CD way|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START first|JJ the|DT global|JJ climate|NN meetings|NNS in|IN mexico|NN in|IN late|JJ 2010|CD and|CC south|JJ africa|NN in|IN 2011|CD should|MD put|VB much|JJ more|RBR emphasis|NN on|IN the|DT links|NNS between|IN climate|NN action|NN and|CC development|NN </s>|S_END
+<s>|S_START climate|NN change|NN should|MD never|RB be|VB used|VBN as|IN a|DT reason|NN for|IN condemning|NN the|DT worlds|NNS poor|JJ to|TO continued|VBN poverty|NN </s>|S_END
+<s>|S_START but|CC their|PRP$ road|NN to|TO riches|NNS should|MD take|VB the|DT climate|NN into|IN account|NN </s>|S_END
+<s>|S_START the|DT cities|NNS where|WRB ever|RB more|JJR people|NNS will|MD be|VB living|VBG need|NN to|TO grow|VB in|IN ways|NNS that|WDT dont|NN exacerbate|VBP the|DT problem|NN the|DT farms|NNS where|WRB ever|RB fewer|JJR people|NNS are|VBP having|VBG to|TO produce|VB ever|RB more|JJR food|NN must|MD be|VB far|RB better|RBR supplied|VBN with|IN knowhow|NN improved|VBN crops|NNS and|CC insurance|NN against|IN the|DT adverse|NN effects|NNS that|WDT are|VBP sure|RB to|TO come|VB </s>|S_END
+<s>|S_START development|NN needs|VBZ to|TO be|VB climateready|RB even|RB if|IN it|PRP can|MD not|RB be|VB climateproof|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START econd|NN new|JJ thinking|NN is|VBZ needed|VBN on|IN how|WRB to|TO change|VB the|DT energy|NN mix|NN that|WDT the|DT world|NN use|NN </s>|S_END
+<s>|S_START making|VBG fossilfuel|NN energy|NN more|RBR expensive|JJ has|VBZ so|RB far|RB not|RB delivered|VBN much|RB by|IN way|NN of|IN controlling|VBG emission|NN </s>|S_END
+<s>|S_START the|DT better|JJR way|NN is|VBZ to|TO make|VB clean|JJ renewable|JJ energies|NNS cheaper|JJR </s>|S_END
+<s>|S_START research|NN and|CC development|NN can|MD be|VB part|NN of|IN that|DT solution|NN </s>|S_END
+<s>|S_START but|CC so|RB can|MD a|DT willingness|NN by|IN banks|NNS and|CC donors|NNS to|TO increase|VB the|DT market|NN for|IN such|JJ energy|NN system|NN </s>|S_END
+<s>|S_START buying|VBG in|IN bulk|NN is|VBZ a|DT tried|JJ and|CC tested|VBD way|NN of|IN bringing|VBG down|IN price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uch|JJ assistance|NN and|CC subsidy|NN have|VBP the|DT attraction|NN of|IN a|DT builtin|NN cutoff|NN </s>|S_END
+<s>|S_START as|IN soon|RB as|IN increased|VBN demand|NN and|CC improved|VBN technology|NN make|NN renewables|NNS cheaper|JJR than|IN fossil|NN alternatives|NNS the|DT desire|NN to|TO generate|VB energy|NN through|IN the|DT burning|NN of|IN coal|NN and|CC oil|NN will|MD seem|VB perverse|JJ and|CC the|DT transition|NN to|TO a|DT future|NN beyond|NN fossil|NN fuels|NNS will|MD become|VB irreversible|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT trouble|NN is|VBZ the|DT climate|NN change|NN that|WDT will|MD come|VB about|RB before|IN then|RB </s>|S_END
+<s>|S_START climateready|RB development|VBD can|MD help|VB people|NNS cope|VB with|IN its|PRP$ effects|NNS such|JJ as|IN extreme|NN weather|NN but|CC only|RB up|RP to|TO a|DT point|NN </s>|S_END
+<s>|S_START even|RB with|IN the|DT smartest|JJS of|IN strategies|NNS to|TO adapt|VB to|TO climate|VB change|NN there|EX will|MD be|VB a|DT high|JJ toll|NN of|IN misery|NN for|IN many|JJ especially|RB the|DT poor|JJ </s>|S_END
+<s>|S_START hence|NN a|DT third|JJ element|NN in|IN the|DT reordering|NN of|IN priorities|NNS a|DT greater|JJR emphasis|NN on|IN the|DT smaller|JJR but|CC more|RBR attainable|JJ remedies|NNS to|TO the|DT climate|NN problem—the|DT ones|NNS that|WDT risk|NN receiving|VBG too|RB little|JJ attention|NN amid|IN the|DT efforts|NNS to|TO get|VB a|DT grand|NN global|JJ carbon|NN bargain|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dont|NN ignore|VBD the|DT easier|JJR thing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT climate|NN change|NN produced|VBN by|IN industrial|JJ gases|NNS by|IN oxides|NNS of|IN nitrogen|NN by|IN ozone|NN near|IN the|DT planets|NNS surface|NN by|IN soot|NN from|IN the|DT burning|NN of|IN forests|NNS and|CC fuel|NN and|CC by|IN the|DT clearing|VBG of|IN woodland|NN is|VBZ a|DT secondorder|NN problem|NN only|RB by|IN comparison|NN with|IN the|DT vast|JJ amounts|NNS of|IN carbon|NN dioxide|NN emitted|VBD from|IN smokestacks|NNS funnels|NNS and|CC exhaust|JJ pipe|NN </s>|S_END
+<s>|S_START the|DT worlds|NNS inability|NN quickly|RB to|TO curb|VB carbon|NN dioxide|NN should|MD prompt|VB action|NN on|IN these|DT only|JJ comparatively|RB minor|JJ factor|NN </s>|S_END
+<s>|S_START teppedup|NN efforts|NNS to|TO reduce|VB deforestation|NN are|VBP a|DT welcome|NN part|NN of|IN this|DT but|CC there|EX must|MD be|VB much|RB more|RBR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC in|IN 2011|CD perhaps|RB there|RB should|MD be|VB a|DT fourth|JJ element|NN in|IN the|DT mix|NN too|RB greater|JJR attention|NN to|TO ideas|NNS that|IN could|MD cool|VB rather|RB than|IN warm|NN the|DT planet|NN </s>|S_END
+<s>|S_START uch|JJ “geoengineering”|NN schemes|NNS pose|VBP large|JJ risks|NNS and|CC raise|VB huge|JJ questions|NNS of|IN justice|NN and|CC equity|NN </s>|S_END
+<s>|S_START they|PRP will|MD surely|RB be|VB no|RB easier|JJR for|IN the|DT world|NN to|TO agree|VB on|IN than|IN the|DT provisions|NNS of|IN copenhagen|NN were|VBD </s>|S_END
+<s>|S_START but|CC in|IN a|DT broadened|VBN debate|NN on|IN climate|NN such|JJ provisions|NNS deserve|VBP a|DT place—if|JJ only|RB as|IN an|DT escape|NN route|NN so|RB sobering|VBG that|IN it|PRP increases|VBZ commitment|NN to|TO the|DT alternative|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START oliver|NN morton|VBD environment|NN editor|NN the|DT economist|NN </s>|S_END
+</p>|P_END
+

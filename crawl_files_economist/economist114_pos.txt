@@ -1,0 +1,105 @@
+<p>|P_START
+<s>|S_START healthcare|NN expenditure|NN in|IN america|NN is|VBZ growing|VBG at|IN a|DT disturbing|JJ rate|NN in|IN 1960|CD it|PRP was|VBD just|RB over|IN 5|CD of|IN gdp|NN in|IN 2011|CD almost|RB 18|CD </s>|S_END
+<s>|S_START by|IN 2105|CD the|DT number|NN could|MD reach|VB 60|CD according|VBG to|TO william|VB baumol|NN of|IN new|JJ york|NN university’s|NNS stern|VBP school|NN of|IN busine|NN </s>|S_END
+<s>|S_START incredible|JJ </s>|S_END
+<s>|S_START it|PRP is|VBZ simply|RB the|DT result|NN of|IN extrapolating|NN the|DT impact|NN of|IN a|DT phenomenon|NN mr|NN baumol|NN has|VBZ become|VBN famous|JJ for|IN identifying|NN “cost|-NONE- disease”|-NONE- </s>|S_END
+<s>|S_START his|PRP$ new|JJ book|NN gives|VBZ a|DT nuanced|VBN diagnosis|NN offerings|NNS both|DT a|DT vision|NN of|IN a|DT highcost|NN future|NN and|CC a|DT large|JJ dose|NN of|IN optimism|NN </s>|S_END
+<s>|S_START the|DT cost|NN disease|NN may|MD be|VB incurable|JJ but|CC it|PRP is|VBZ also|RB survivable—if|JJ treated|VBN correctly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO understand|VB the|DT cost|NN disease|NN start|NN with|IN a|DT simple|JJ observation|NN whatever|NN the|DT economy’s|NNP average|NN rate|NN of|IN productivity|NN growth|NN some|DT industries|NNS outpace|VBP other|JJ </s>|S_END
+<s>|S_START take|VB car|NN manufacturing|NN </s>|S_END
+<s>|S_START in|IN 1913|CD ford|NN introduced|VBD assembly|RB lines|NNS to|TO move|VB cars|NNS between|IN workstation|NN </s>|S_END
+<s>|S_START this|DT allowed|VBN workers|NNS and|CC their|PRP$ tools|NNS to|TO stay|VB in|IN one|CD place|NN which|WDT cut|VBD the|DT time|NN to|TO build|VB a|DT model|NN t|NN car|NN from|IN 12|CD hours|NNS to|TO less|JJR than|IN two|CD </s>|S_END
+<s>|S_START as|IN output|NN per|IN worker|NN grows|VBZ in|IN such|JJ “progressive”|JJ sectors|NNS firms|NNS can|MD afford|VB to|TO increase|VB wage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN some|DT sectors|NNS of|IN the|DT economy|NN however|RB such|JJ productivity|NN gains|NNS are|VBP much|RB harder|JJR to|TO come|VB by—if|JJ not|RB impossible|JJ </s>|S_END
+<s>|S_START performing|VBG a|DT mozart|NN quartet|NN takes|VBZ just|RB as|IN long|RB in|IN 2012|CD as|IN it|PRP did|VBD in|IN the|DT late|JJ 18th|CD century|NN </s>|S_END
+<s>|S_START mr|NN baumol|NN calls|VBZ industries|NNS in|IN which|WDT productivity|NN growth|NN is|VBZ low|JJ or|CC even|RB nonexistent|JJ “stagnant”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START employers|NNS in|IN such|JJ sectors|NNS face|VBP a|DT problem|NN they|PRP also|RB need|VBP to|TO increase|VB their|PRP$ wages|NNS so|RB workers|NNS don’t|JJ defect|NN </s>|S_END
+<s>|S_START the|DT result|NN is|VBZ that|IN although|IN output|NN per|IN worker|NN rises|NNS only|RB slowly|RB or|CC not|RB at|IN all|DT wages|NNS go|VBP up|RP as|IN fast|JJ as|IN they|PRP do|VBP in|IN the|DT rest|NN of|IN the|DT economy|NN </s>|S_END
+<s>|S_START as|IN the|DT costs|NNS of|IN production|NN in|IN stagnant|JJ sectors|NNS rise|VBP firms|NNS are|VBP forced|VBN to|TO raise|VB price|NN </s>|S_END
+<s>|S_START these|DT increases|NNS are|VBP faster|JJR than|IN those|DT in|IN sectors|NNS where|WRB productivity|NN is|VBZ improving|VBG and|CC faster|JJR than|IN inflation|NN which|WDT blends|NNS together|VBP all|DT the|DT prices|NNS in|IN the|DT economy|NN </s>|S_END
+<s>|S_START o|NN prices|NNS of|IN goods|NNS from|IN stagnant|JJ sectors|NNS must|MD rise|VB in|IN real|JJ term|NN </s>|S_END
+<s>|S_START hence|NN “cost|NN disease”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT disease|NN is|VBZ most|JJS virulent|JJ in|IN industries|NNS where|WRB standardisation|NN and|CC automation|NN are|VBP hard|RB </s>|S_END
+<s>|S_START the|DT best|JJS examples|NNS are|VBP goods|NNS tailored|VBN to|TO meet|VB customerspecific|JJ demands|NNS such|JJ as|IN bespoke|NN suits|NNS and|CC haircut|VBD </s>|S_END
+<s>|S_START but|CC mr|PRP$ baumol|NN focuses|NNS on|IN industries|NNS in|IN which|WDT the|DT cost|NN disease|NN is|VBZ rife|NN because|IN human|JJ interaction|NN is|VBZ important|JJ such|JJ as|IN health|NN care|NN education|NN and|CC the|DT performing|NN art|NN </s>|S_END
+<s>|S_START because|IN it|PRP is|VBZ often|RB human|JJ input|NN that|WDT makes|VBZ the|DT products|NNS of|IN these|DT industries|NNS valuable|JJ cutting|NN labour|NN would|MD be|VB selfdefeating|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START historical|JJ data|NNS confirm|NN that|IN the|DT cost|NN disease|NN is|VBZ real|JJ </s>|S_END
+<s>|S_START ince|NN the|DT 1980s|CD the|DT price|NN of|IN university|NN education|NN in|IN america|NN has|VBZ risen|VBN by|IN 440|CD and|CC the|DT cost|NN of|IN medical|JJ care|NN by|IN 250|CD </s>|S_END
+<s>|S_START for|IN the|DT economy|NN as|IN a|DT whole|JJ the|DT average|JJ price|NN and|CC wage|NN increases|NNS were|VBD only|RB 110|CD and|CC 150|CD respectively|RB see|VB lefthand|NN chart|NN </s>|S_END
+<s>|S_START mr|NN baumol’s|NNS theory|NN makes|VBZ for|IN scary|JJ extrapolation|NN </s>|S_END
+<s>|S_START america’s|NNS healthcare|VBP spending|NN as|IN a|DT share|NN of|IN gdp|NN for|IN instance|NN is|VBZ growing|VBG by|IN around|IN 14|CD a|DT year|NN </s>|S_END
+<s>|S_START if|IN it|PRP continued|VBD to|TO expand|VB at|IN this|DT rate|NN for|IN a|DT century|NN it|PRP would|MD rise|VB to|TO that|DT eyepopping|NN figure|NN of|IN 60|CD in|IN 2105|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START although|IN america|NN leads|NNS the|DT pack|NN in|IN medical|JJ inflation|NN it|PRP is|VBZ not|RB the|DT only|JJ country|NN that|WDT is|VBZ infected|VBN </s>|S_END
+<s>|S_START in|IN japan|NN healthcare|NN spending|NN per|IN person|NN grew|VBD by|IN 57|CD a|DT year|NN in|IN real|JJ terms|NNS between|IN 1960|CD and|CC 2006|CD in|IN britain|NN it|PRP rose|VBD by|IN 35|CD a|DT year|NN over|IN the|DT same|JJ period|NN </s>|S_END
+<s>|S_START applying|VBG mr|NN baumol’s|NNS logic|NN healthcare|NN spending|NN in|IN both|DT countries|NNS could|MD if|IN nothing|NN was|VBD done|VBN about|IN it|PRP rise|VBP from|IN around|IN 10|CD of|IN gdp|NN to|TO more|JJR than|IN 50|CD in|IN the|DT next|JJ 100|CD year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fortunately|RB possibilities|VBZ abound|NN to|TO mitigate|VB the|DT impact|NN of|IN the|DT cost|NN disease|NN </s>|S_END
+<s>|S_START cutting|VBG waste|NN in|IN health|NN care|NN can|MD shift|VB down|IN the|DT level|NN of|IN spending|NN </s>|S_END
+<s>|S_START though|IN this|DT is|VBZ no|DT cure|NN it|PRP does|VBZ mean|JJ costs|NNS grow|VBP from|IN a|DT lower|JJR base|NN when|WRB the|DT disease|NN inevitably|RB takes|VBZ hold|VBN </s>|S_END
+<s>|S_START and|CC innovation|NN will|MD mean|VB that|IN activities|NNS within|IN the|DT stagnant|JJ sector|NN like|IN handdelivered|VBN post|NN can|MD be|VB replaced|VBN by|IN alternatives|NNS where|WRB productivity|NN improvements|NNS are|VBP more|RBR likely|JJ like|IN texts|NNS and|CC email|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rising|VBG costs|NNS will|MD also|RB encourage|VB hard|JJ thinking|NN about|IN whether|IN a|DT personal|JJ and|CC tailored|VBD touch|JJ is|VBZ needed|VBN </s>|S_END
+<s>|S_START if|IN not|RB productivity|NN gains|NNS are|VBP easier|JJR to|TO find|VB </s>|S_END
+<s>|S_START in|IN some|DT areas|NNS of|IN medicine|NN computers|NNS now|RB have|VBP better|JJR diagnostic|JJ skills|NNS than|IN human|JJ </s>|S_END
+<s>|S_START in|IN education|NN lectures|NNS can|MD be|VB recorded|VBN allowing|VBG star|NN academics|NNS to|TO teach|VB million|CD </s>|S_END
+<s>|S_START in|IN the|DT arts|NNS live|VBP opera|NN performances|NNS are|VBP beamed|VBN to|TO audiences|NNS in|IN cinemas|NNS across|IN the|DT world|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT bigger|JJR slice|NN of|IN a|DT much|JJ bigger|NN pie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC that|DT still|RB leaves|VBZ a|DT rump|NN of|IN services|NNS within|IN medicine|NN education|NN and|CC the|DT arts|NNS that|WDT are|VBP resistant|JJ to|TO productivity|NN gain|NN </s>|S_END
+<s>|S_START for|IN these|DT mr|NN baumol|NN offers|NNS his|PRP$ most|JJS intriguing|VBG prediction|NN although|IN their|PRP$ costs|NNS will|MD grow|VB alarmingly|RB high|JJ they|PRP will|MD remain|VB affordable|JJ </s>|S_END
+<s>|S_START in|IN a|DT way|NN the|DT disease|NN produces|VBZ its|PRP$ own|JJ cure|NN </s>|S_END
+<s>|S_START if|IN america’s|JJ economy|NN grows|VBZ by|IN 2|CD per|IN year|NN its|PRP$ longterm|NN rate|NN it|PRP will|MD be|VB eight|VBN times|NNS bigger|JJR in|IN 100|CD year|NN </s>|S_END
+<s>|S_START in|IN addition|NN goods|NNS and|CC services|NNS in|IN innovative|JJ sectors|NNS will|MD become|VB much|JJ cheaper|NN </s>|S_END
+<s>|S_START in|IN 1908|CD the|DT average|JJ american|NN had|VBD to|TO work|VB for|IN around|IN 4700|CD hours|NNS to|TO earn|VB enough|JJ to|TO buy|VB a|DT model|NN t|NN ford|NN </s>|S_END
+<s>|S_START a|DT century|NN later|JJ a|DT typical|JJ car|NN can|MD be|VB had|VBN for|IN only|RB 1365|CD hours|NNS of|IN labour|PRP$ </s>|S_END
+<s>|S_START this|DT means|VBZ that|IN even|RB if|IN health|NN care|NN really|RB did|VBD eat|VB up|RP 60|CD of|IN the|DT pie|NN there|RB would|MD still|RB be|VB much|JJ more|RBR to|TO spend|VB on|IN everything|NN else|NN see|NN righthand|NN chart|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT real|JJ problem|NN is|VBZ not|RB the|DT cost|NN disease|NN mr|NN baumol|NN argues|NNS but|CC kneejerk|NN reactions|NNS to|TO it|PRP </s>|S_END
+<s>|S_START the|DT most|RBS likely|JJ response|NN to|TO spiralling|NN budgets|NNS for|IN publicly|RB provided|VBN medicine|NN and|CC education|NN is|VBZ to|TO shift|VB provision|NN to|TO the|DT private|JJ sector|NN </s>|S_END
+<s>|S_START but|CC that|DT will|MD not|RB cure|VB the|DT underlying|VBG disease|NN </s>|S_END
+<s>|S_START high|JJ costs|NNS could|MD also|RB lead|VB to|TO excessive|VB rationing|NN slowing|VBG development|NN over|IN the|DT long|JJ term|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN it|PRP happens|VBZ such|JJ a|DT reaction|NN rests|VBZ on|IN a|DT mistaken|NN premise|NN that|WDT the|DT rising|VBG costs|NNS in|IN the|DT stagnant|NN sectors|NNS make|VBP people|NNS poorer|JJR </s>|S_END
+<s>|S_START in|IN fact|NN buying|NN power|NN is|VBZ growing|VBG much|RB faster|JJR than|IN medicine|NN education|NN and|CC the|DT arts|NNS are|VBP becoming|VBG dearer|NN </s>|S_END
+<s>|S_START mr|NN baumol’s|NNS crystal|NN ball|NN says|VBZ that|IN in|IN 100|CD years|NNS a|DT live|JJ performance|NN of|IN a|DT mozart|NN quartet|NN will|MD be|VB vastly|RB more|JJR expensive|JJ but|CC people|NNS will|MD still|RB be|VB able|JJ to|TO afford|VB it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “the|DT cost|NN disease|NN why|WRB computers|NNS get|VBP cheaper|JJR and|CC health|NN care|NN doesn’t”|NN by|IN william|NN baumol|NN 2012|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogsfreeexchange|NN </s>|S_END
+</p>|P_END
+

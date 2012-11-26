@@ -1,0 +1,49 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN attorney|NN general|NN eric|NN schneiderman|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN new|JJ york|NN attorney|NN general|NN eric|NN schneiderman|NN announced|VBD monday|NN that|IN he|PRP was|VBD investigating|VBG reports|NNS of|IN price|NN gouging|VBG in|IN the|DT aftermath|NN of|IN hurricane|NN sandy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START schneiderman|NN said|VBD he|PRP had|VBD received|VBN hundreds|NNS of|IN complaints|NNS from|IN consumers|NNS who|WP claim|NN merchants|VBZ have|VB hiked|VBN prices|NNS on|IN essential|JJ goods|NNS since|IN the|DT hurricane|NN hit|VBD last|JJ week|NN </s>|S_END
+<s>|S_START under|IN new|JJ york|NN law|NN its|PRP$ illegal|JJ for|IN merchants|NNS to|TO sell|VB products|NNS at|IN unconscionably|RB excessive|JJ prices|NNS during|IN an|DT abnormal|JJ disruption|NN of|IN the|DT market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS complaints|NNS schneidermans|NNS office|NN has|VBZ received|VBN relate|NN to|TO gasoline|NN prices|NNS the|DT attorney|NN general|NN said|VBD in|IN a|DT statement|NN </s>|S_END
+<s>|S_START motorists|NNS have|VBP lined|VBN up|RP for|IN blocks|NNS at|IN gas|NN stations|NNS in|IN new|JJ york|NN and|CC new|JJ jersey|NN in|IN recent|JJ days|NNS amid|IN fears|NNS of|IN a|DT gas|NN shortage|NN with|IN many|JJ stations|NNS remaining|VBG closed|VBN in|IN the|DT absence|NN of|IN electricity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD behind|IN the|DT gas|NN panic|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START other|JJ consumers|NNS have|VBP complained|VBN about|IN prices|NNS for|IN hotel|NN rooms|NNS generators|NNS food|NN and|CC water|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP have|VBP contacted|VBN the|DT targets|NNS as|IN part|NN of|IN a|DT preliminary|JJ inquiry|NN and|CC vendors|NNS are|VBP now|RB on|IN notice|NN schneiderman|NN said|VBD </s>|S_END
+<s>|S_START while|IN most|JJS retailers|NNS understand|VBP that|IN customers|NNS are|VBP also|RB neighbors|NNS and|CC would|MD never|RB think|VB of|IN taking|VBG advantage|NN of|IN new|JJ yorkers|NNS during|IN such|JJ disruptive|JJ times|NNS emergency|NN circumstances|NNS always|RB require|VB an|DT extra|JJ sense|NN of|IN vigilance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ yorks|NNS price|NN gouging|VBG law|NN doesnt|NN specifically|RB define|NN what|WP constitutes|VBZ an|DT unconscionably|RB excessive|JJ price|NN </s>|S_END
+<s>|S_START while|IN some|DT disparity|NN in|IN prices|NNS before|IN and|CC after|IN a|DT market|NN disruption|NN is|VBZ allowed|VBN gross|NN disparities|NNS are|VBP illegal|JJ when|WRB it|PRP is|VBZ clear|JJ that|IN a|DT business|NN is|VBZ taking|VBG unfair|JJ advantage|NN of|IN consumers|NNS under|IN severe|JJ circumstances|NNS that|WDT call|NN for|IN shared|VBN sacrifices|NNS the|DT attorney|NN generals|NNS office|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ jersey|NN officials|NNS have|VBP also|RB warned|VBN merchants|NNS against|IN price|NN gouging|VBG announcing|VBG on|IN friday|NN that|IN they|PRP had|VBD issued|VBN subpoenas|NNS on|IN the|DT issue|NN to|TO 65|CD businesses|NNS in|IN response|NN to|TO more|JJR than|IN 500|CD consumer|NN complaints|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fuel|NN electricity|NN food|NN and|CC a|DT place|NN to|TO sleep|VB are|VBP not|RB luxuries|NNS certainly|RB not|RB for|IN individuals|NNS who|WP have|VBP been|VBN displaced|VBN from|IN their|PRP$ homes|NNS and|CC in|IN many|JJ cases|NNS have|VBP limited|VBN resources|NNS at|IN their|PRP$ disposal|NN new|JJ jersey|NN governor|NN chris|VBZ christie|NN said|VBD in|IN a|DT statement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP are|VBP not|RB asking|VBG businesses|NNS to|TO function|NN as|IN charities|NNS </s>|S_END
+<s>|S_START we|PRP require|VBP that|IN they|PRP obey|VBP new|JJ jerseys|NNS laws|NNS or|CC pay|VB significant|JJ penalties|NNS </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,63 @@
+<p>|P_START
+<s>|S_START brian|JJ harrison|NN ceo|NN of|IN solyndra|NN the|DT solar|JJ company|NN that|WDT received|VBD a|DT $|$ 535|CD million|CD government|NN loan|NN guarantee|NN has|VBZ stepped|VBN down|RP according|VBG to|TO bankruptcy|NN court|NN records|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN its|PRP$ lights|NNS out|IN for|IN embattled|VBN solyndra|NN ceo|NN brian|NN harrison|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT head|NN of|IN the|DT bankrupt|JJ energy|NN firm|NN has|VBZ resigned|VBN according|VBG to|TO documents|NNS filed|VBN in|IN delaware|NN court|NN this|DT week|NN as|IN the|DT company|NN finds|VBZ itself|PRP embroiled|VBD in|IN a|DT mounting|NN scandal|NN that|WDT may|MD leave|VB the|DT us|PRP government|NN on|IN the|DT hook|NN for|IN over|IN $|$ 500|CD million|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START harrison|NN stepped|VBD down|RP last|JJ week|NN </s>|S_END
+<s>|S_START the|DT company|NN proposed|VBD r|NN todd|NN neilson|NN of|IN berkeley|NN research|NN group|NN to|TO take|VB his|PRP$ place|NN serving|VBG as|IN chief|NN restructuring|NN officer|NN </s>|S_END
+<s>|S_START his|PRP$ appointment|NN to|TO the|DT position|NN is|VBZ subject|JJ to|TO the|DT bankruptcy|NN courts|NNS approval|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT cro|NN will|MD assist|VB the|DT debtors|NNS in|IN their|PRP$ ongoing|JJ efforts|NNS to|TO sell|VB estate|NN assets|NNS winding|VBG down|IN the|DT debtors|NNS operations|NNS following|VBG such|JJ sale|NN or|CC sales|NNS and|CC otherwise|RB managing|VBG the|DT cases|NNS the|DT documents|NNS state|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START solyndra|NN is|VBZ a|DT california|NN solar|NN panel|NN manufacturer|NN that|WDT had|VBD received|VBN $|$ 535|CD million|CD in|IN federal|JJ loan|NN guarantees|NNS before|IN it|PRP was|VBD forced|VBN to|TO halt|VB operations|NNS and|CC file|IN for|IN bankruptcy|NN at|IN the|DT end|NN of|IN august|NN putting|VBG more|JJR than|IN 1000|CD workers|NNS out|IN of|IN work|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START before|IN its|PRP$ failure|NN the|DT company|NN had|VBD been|VBN touted|VBN as|IN an|DT example|NN of|IN the|DT benefits|NNS of|IN creating|VBG green|JJ jobs|NNS by|IN the|DT obama|NN administration|NN </s>|S_END
+<s>|S_START but|CC since|IN then|RB it|PRP has|VBZ become|VBN the|DT center|NN of|IN congressional|JJ criticism|NN and|CC a|DT probe|NN by|IN the|DT fbi|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START harrison|NN and|CC fellow|JJ solyndra|NN executive|NN wg|NN </s>|S_END
+<s>|S_START stover|NN were|VBD called|VBN before|IN the|DT house|NN subcommittee|NN on|IN oversight|NN and|CC investigations|NNS last|JJ month|NN to|TO testify|VB on|IN the|DT case|NN maintaining|VBG that|IN no|DT wrongdoing|NN took|VBD place|NN at|IN the|DT company|NN but|CC repeatedly|RB invoking|VBG their|PRP$ 5th|JJ amendment|NN right|RB not|RB to|TO answer|VB questions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lawmakers|NNS are|VBP using|VBG the|DT companys|NNS failure|VBP as|RB a|DT case|NN study|NN highlighting|VBG the|DT danger|NN of|IN government|NN funding|NN for|IN private|JJ firms|NNS </s>|S_END
+<s>|S_START they|PRP want|VBP to|TO know|VB why|WRB one|CD month|NN before|RB it|PRP filed|VBD for|IN bankruptcy|NN the|DT executives|NNS told|VBD them|PRP and|CC the|DT department|NN of|IN energy|NN that|IN the|DT company|NN was|VBD doing|VBG just|RB fine|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START following|VBG last|JJ months|NNS hearing|VBG the|DT justice|NN department|NN asked|VBD a|DT judge|NN to|TO install|VB a|DT trustee|NN in|IN the|DT case|NN saying|VBG the|DT top|JJ executives|NNS refusal|NN to|TO testify|VB in|IN the|DT probe|NN of|IN the|DT company|NN made|VBD the|DT additional|JJ oversight|NN necessary|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START jason|NN kilborn|NN resident|NN scholar|NN at|IN the|DT american|JJ bankruptcy|NN institute|NN said|VBD harrisons|NNS departure|NN was|VBD par|NN for|IN the|DT course|NN in|IN bankruptcy|NN cases|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ the|DT rare|NN chapter|NN 11|CD reorganization|NN where|WRB the|DT ceo|NN or|CC whoever|RB was|VBD really|RB in|IN charge|NN of|IN the|DT show|NN doesnt|NN step|NN down|IN or|CC isnt|NN removed|VBD kilborn|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START analysts|NNS say|VBP the|DT government|NN may|MD be|VB able|JJ to|TO recover|VB some|DT portion|NN of|IN the|DT $|$ 535|CD million|CD loan|NN guarantee|NN whether|IN through|IN some|DT form|NN of|IN buyout|NN of|IN solyndra|NN by|IN another|DT firm|NN or|CC a|DT liquidation|NN of|IN its|PRP$ assets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START neilson|NN solyndras|VBD proposed|VBN restructuring|NN officer|NN is|VBZ a|DT former|JJ fbi|NN agent|NN and|CC a|DT seasoned|JJ reorganization|NN professional|JJ having|NN served|VBD as|IN bankruptcy|NN trustee|NN for|IN clients|NNS including|VBG boxer|NN mike|NN tyson|NN and|CC hip|NN hop|NN mogul|NN suge|NN knight|NN </s>|S_END
+<s>|S_START he|PRP has|VBZ also|RB negotiated|VBN sales|NNS of|IN ownership|NN stakes|NNS in|IN the|DT los|NNS angeles|VBZ kings|NNS and|CC nashville|NN predators|NNS hockey|VBP teams|NNS according|VBG to|TO his|PRP$ bio|NN on|IN the|DT berkeley|NN research|NN group|NN website|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,132 @@
+<p>|P_START
+<s>|S_START president|NN obama|VBD signs|NNS the|DT wall|NN street|NN reform|NN law|NN on|IN july|RB 21|CD 2010|CD </s>|S_END
+<s>|S_START law|NN namesakes|VBZ christopher|RB dodd|JJ and|CC barney|NN frank|NN are|VBP standing|VBG on|IN the|DT right|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START washington|NN cnnmoney|NN a|DT year|NN after|IN congress|NN enacted|VBN the|DT most|RBS sweeping|JJ changes|NNS in|IN financial|JJ regulation|NN since|IN the|DT 1930s|CD wall|NN street|NN is|VBZ still|RB waiting|VBG for|IN the|DT full|JJ impact|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lawmakers|NNS narrowly|RB passed|VBN the|DT reforms|NNS in|IN the|DT doddfrank|NN act|NN to|TO strengthen|VB consumer|NN protection|NN rein|NN in|IN complex|JJ financial|JJ products|NNS and|CC head|NN off|RP more|JJR bank|NN bailouts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT year|NN later|JJ theres|NNS a|DT new|JJ process|NN in|IN place|NN to|TO wind|VB down|RP failing|VBG firms|NNS and|CC avert|VB bailouts|NNS and|CC the|DT new|JJ consumer|NN financial|JJ protection|NN bureau|NN is|VBZ launching|VBG to|TO regulate|VB credit|NN cards|NNS and|CC mortgages|NNS among|IN other|JJ financial|JJ products|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC no|DT one|NN knows|VBZ whether|IN the|DT federal|JJ government|NN will|MD truly|RB allow|VB firms|NNS to|TO fail|VB </s>|S_END
+<s>|S_START and|CC no|DT one|NN knows|VBZ how|WRB effective|JJ the|DT new|JJ consumer|NN bureau|NN will|MD be|VB especially|RB lacking|VBG a|DT senateconfirmed|JJ director|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP other|JJ big|JJ question|NN marks|NNS regulators|NNS have|VBP yet|RB to|TO detail|VB new|JJ rules|NNS reining|VBG in|IN derivatives|NNS credit|NN rating|NN agencies|NNS and|CC nonbanking|VBG financial|JJ firms|NNS that|WDT played|VBN a|DT role|NN in|IN the|DT financial|JJ crisis|NN that|WDT crippled|VBD the|DT us|PRP economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB if|IN regulators|NNS come|VBP out|RP with|IN new|JJ rules|NNS republicans|NNS in|IN congress|NN have|VBP balked|VBN at|IN funding|NN those|DT agencies|NNS which|WDT have|VBP not|RB been|VBN able|JJ to|TO beef|NN up|IN enforcement|NN teams|NNS that|WDT would|MD go|VB after|IN rulebreakers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC although|IN progress|NN has|VBZ been|VBN slow|JJ some|DT important|JJ safeguards|NNS are|VBP about|IN to|TO go|VB into|IN effect|NN </s>|S_END
+<s>|S_START and|CC some|DT financial|JJ firms|NNS arent|VBP waiting|VBG for|IN the|DT new|JJ rules|NNS to|TO kick|VB in|IN to|TO change|VB their|PRP$ way|NN of|IN doing|VBG business|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN example|NN a|DT crackdown|NN on|IN banks|NNS that|IN make|NN speculative|JJ bets|NNS with|IN their|PRP$ own|JJ money|NN has|VBZ prompted|VBN goldman|NN sachs|NNS gs|NNS fortune|VBP 500|CD morgan|NN stanley|NN ms|NNS fortune|VBP 500|CD and|CC jpmorgan|JJ chase|NN jpm|NN fortune|NN 500|CD to|TO plan|NN to|TO shut|VB or|CC cut|VB loose|JJ their|PRP$ proprietary|JJ trading|NN desks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP think|VBP there|RB has|VBZ been|VBN more|JJR progress|NN than|IN people|NNS think|VBP said|VBD former|JJ assistant|NN treasury|NN secretary|NN michael|NN barr|NN a|DT professor|NN at|IN the|DT university|NN of|IN michigan|NN who|WP helped|VBD shape|VBP the|DT reforms|NNS </s>|S_END
+<s>|S_START i|PRP think|VBP the|DT financial|JJ system|NN is|VBZ significantly|RB more|RBR resilient|JJ than|IN it|PRP was|VBD two|CD years|NNS ago|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT of|IN the|DT doddfrank|NN provisions|NNS that|WDT have|VBP kicked|VBN into|IN place|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START too|RB big|JJ to|TO fail|VB the|DT federal|JJ deposit|NN insurance|NN corp|NN now|RB has|VBZ a|DT mechanism|NN to|TO take|VB down|RP giant|JJ failing|VBG financial|JJ firms|NNS that|WDT threaten|VBN the|DT financial|JJ system|NN an|DT effort|NN to|TO put|VB an|DT end|NN to|TO the|DT concept|NN of|IN too|RB big|JJ to|TO fail|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT big|JJ question|NN lingers|NNS will|MD the|DT federal|JJ government|NN truly|RB turn|VB the|DT lights|NNS off|IN at|IN a|DT firm|NN whose|WP$ failure|NN could|MD once|RB again|RB threaten|VBN an|DT already|RB weakened|VBN economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ one|CD of|IN those|DT things|NNS they|PRP critics|NNS of|IN the|DT law|NN wont|NN really|RB believe|VBP until|IN one|CD fails|NNS and|CC the|DT government|NN does|VBZ not|RB step|VB in|IN said|VBN a|DT top|JJ treasury|NN official|NN in|IN a|DT briefing|NN with|IN the|DT media|NNS last|JJ week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START extra|NN cushions|NNS for|IN big|JJ banks|NNS a|DT global|JJ panel|NN of|IN regulators|NNS this|DT week|NN deemed|VBD 28|CD global|JJ banks|NNS as|IN so|RB big|JJ and|CC important|JJ that|IN their|PRP$ failure|NN could|MD threaten|VB the|DT economy|NN </s>|S_END
+<s>|S_START those|DT global|JJ banks|NNS will|MD have|VB to|TO create|VB living|NN wills|NNS and|CC keep|VB extra|JJ thick|NN capital|NN cushions|NNS on|IN hand|NN to|TO help|VB them|PRP weather|JJR another|DT financial|JJ crisis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START earlier|JJR this|DT year|NN the|DT fed|VBN released|VBN new|JJ rules|NNS that|WDT would|MD require|VB the|DT biggest|JJS 35|CD us|PRP banks|NNS to|TO submit|VB their|PRP$ annual|JJ capital|NN plans|NNS for|IN review|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START deposit|NN insurance|NN the|DT fdic|JJ also|RB permanently|RB raised|VBN the|DT amount|NN protected|VBD in|IN an|DT individuals|NNS bank|NN account|NN to|TO $|$ 250000|CD from|IN $|$ 100000|CD carrying|VBG through|IN on|IN a|DT change|NN initiated|VBN during|IN the|DT financial|JJ crisis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START say|VBP on|IN pay|NN shareholders|NNS have|VBP been|VBN holding|VBG nonbinding|NN votes|NNS on|IN executive|JJ pay|NN and|CC generous|JJ packages|NNS for|IN executives|NNS who|WP part|NN ways|VBZ with|IN the|DT company|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START consumer|NN financial|JJ protection|NN bureau|NN the|DT new|JJ independent|NN agency|NN launches|NNS thursday|NN and|CC will|MD wield|VB powers|NNS regulating|VBG mortgages|NNS and|CC credit|NN cards|NNS </s>|S_END
+<s>|S_START the|DT agency|NN will|MD be|VB able|JJ to|TO police|VB the|DT largest|JJS banks|NNS to|TO make|VB sure|JJ theyre|NN abiding|VBG by|IN consumer|NN rules|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB until|IN a|DT director|NN is|VBZ in|IN place|NN the|DT bureau|NN will|MD lack|VB new|JJ powers|NNS critical|JJ to|TO preventing|NN the|DT next|JJ financial|JJ crisis|NN </s>|S_END
+<s>|S_START these|DT include|VBP regulating|VBG the|DT nonbanking|NN firms|NNS that|WDT originated|VBN hundreds|NNS of|IN millions|NNS of|IN dollars|NNS in|IN subprime|NN mortgages|NNS during|IN the|DT height|NN of|IN the|DT boom|NN to|TO families|NNS who|WP couldnt|NN afford|VBD them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bureau|NN also|RB cant|JJ deem|NN financial|JJ products|NNS abusive|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START credit|NN scores|NNS all|DT consumers|NNS have|VBP been|VBN able|JJ to|TO get|VB one|CD free|JJ credit|NN report|NN a|DT year|NN from|IN the|DT credit|NN rating|NN agencies|NNS </s>|S_END
+<s>|S_START but|CC now|RB consumers|NNS denied|VBN credit|NN or|CC offered|VBN credit|NN on|IN unfavorable|JJ terms|NNS can|MD get|VB a|DT copy|NN of|IN their|PRP$ actual|JJ credit|NN score|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START swipe|NN fees|NNS on|IN oct|NN 1|CD swipe|NN fees|NNS that|WDT the|DT biggest|JJS banks|NNS charge|VBP retailers|NNS when|WRB customers|NNS use|VBP debit|NN cards|NNS will|MD be|VB capped|VBN at|IN around|IN 21|CD cents|NNS about|IN half|DT of|IN the|DT current|JJ average|NN swipe|NN fee|NN of|IN 44|CD cents|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP still|RB lots|NNS of|IN rules|NNS left|VBN to|TO hashed|VBN out|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START derivatives|NNS regulators|NNS have|VBP delayed|VBN until|IN the|DT end|NN of|IN the|DT year|NN the|DT bulk|NN of|IN a|DT crackdown|NN on|IN the|DT $|$ 600|CD trillion|CD in|IN complex|JJ financial|JJ products|NNS that|WDT posed|VBN such|JJ a|DT threat|NN to|TO the|DT financial|JJ system|NN </s>|S_END
+<s>|S_START regulators|NNS have|VBP big|JJ decisions|NNS to|TO make|VB such|JJ as|IN figuring|NN out|IN which|WDT swaps|NNS will|MD need|VB to|TO be|VB cleared|VBN or|CC settled|VBN up|RP with|IN and|CC figuring|VBG out|RP who|WP needs|NNS to|TO post|VB collateral|JJ when|WRB making|VBG bets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START they|PRP also|RB are|VBP in|IN the|DT midst|NN of|IN carving|VBG out|IN exemptions|NNS for|IN businesses|NNS such|JJ as|IN airlines|NNS and|CC farmers|NNS that|WDT use|NN swaps|VBZ to|TO spread|VB the|DT risk|NN of|IN a|DT massive|JJ price|NN increases|NNS in|IN resources|NNS such|JJ as|IN fuel|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ban|NN on|IN speculative|JJ bank|NN trades|NNS regulators|NNS have|VBP until|IN next|JJ year|NN to|TO carry|VB out|RP a|DT new|JJ rule|NN that|WDT bans|VBZ banks|NNS from|IN owning|VBG big|JJ stakes|NNS in|IN hedge|NN funds|NNS and|CC speculating|VBG with|IN their|PRP$ own|JJ money|NN </s>|S_END
+<s>|S_START named|VBD for|IN former|JJ federal|JJ reserve|NN chairman|NN paul|NN volcker|NN the|DT rule|NN gives|VBZ regulators|NNS leeway|RB in|IN figuring|NN out|IN whats|NNS considered|VBN proprietary|JJ trading|NN or|CC trading|VBG on|IN banks|NNS own|JJ accounts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START credit|NN rating|NN agencies|NNS new|JJ laws|NNS left|VBN the|DT securities|NNS and|CC exchange|NN commission|NN in|IN charge|NN of|IN cracking|VBG down|IN on|IN rating|NN agencies|NNS whose|WP$ acquiescence|NN on|IN mortgagebacked|VBN securities|NNS helped|VBD fuel|NN the|DT crisis|NN </s>|S_END
+<s>|S_START regulators|NNS are|VBP still|RB working|VBG on|IN rules|NNS that|IN would|MD force|VB those|DT agencies|NNS to|TO tell|VB regulators|NNS more|RBR about|IN how|WRB they|PRP come|VBP up|RP with|IN ratings|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START skin|NN in|IN the|DT game|NN regulators|NNS are|VBP considering|VBG exempting|VBG banks|NNS from|IN a|DT requirement|NN that|WDT they|PRP hold|VBP at|IN least|JJS 5|CD of|IN securities|NNS tied|VBN to|TO mortgages|NNS but|CC only|RB when|WRB mortgages|NNS are|VBP considered|VBN safe|NN because|IN the|DT buyers|NNS made|VBD a|DT 20|CD down|IN payment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START proxy|NN access|NN the|DT provision|NN that|IN would|MD have|VB allowed|VBN investors|NNS to|TO more|JJR easily|RB nominate|JJ their|PRP$ own|JJ candidates|NNS to|TO the|DT boards|NNS of|IN publicly|RB traded|VBN companies|NNS is|VBZ delayed|VBN while|IN its|PRP$ being|NN challenged|VBD in|IN court|NN </s>|S_END
+<s>|S_START a|DT decision|NN is|VBZ expected|VBN soon |-NONE- </s>|S_END
+</p>|P_END
+

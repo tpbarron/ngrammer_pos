@@ -1,0 +1,78 @@
+<p>|P_START
+<s>|S_START chrysler|NN posted|VBD the|DT best|JJS sales|NNS gain|NN of|IN the|DT three|CD us|PRP automakers|NNS in|IN october|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN automakers|NNS reported|VBD another|DT month|NN of|IN improved|VBN car|NN sales|NNS in|IN october|NN but|CC sandy|NN may|MD have|VB hit|VBN monthend|NN results|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START general|JJ motors|NNS gm|VBP fortune|NN 500|CD reported|VBD a|DT 5|CD rise|NN in|IN sales|NNS </s>|S_END
+<s>|S_START chrysler|NN group|NN did|VBD the|DT best|JJS of|IN the|DT traditional|JJ big|JJ three|CD with|IN a|DT 10|CD increase|NN </s>|S_END
+<s>|S_START fords|NNS f|VBP fortune|NN 500|CD gain|NN was|VBD just|RB 04|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START toyota|NN motor|NN tm|NN sales|NNS increased|VBD 158|CD but|CC that|IN was|VBD in|IN comparison|NN to|TO a|DT year|NN earlier|JJR when|WRB results|NNS were|VBD still|RB depressed|VBN by|IN the|DT earthquake|NN and|CC tsunami|NN that|IN had|VBD struck|NN japan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START results|NNS were|VBD all|DT weaker|NN than|IN forecasts|NNS which|WDT had|VBD been|VBN made|VBN well|RB before|IN the|DT severity|NN of|IN sandy|NN was|VBD known|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT storm|NN likely|JJ had|VBD an|DT impact|NN on|IN october|NN sales|NNS especially|RB since|IN it|PRP came|VBD at|IN the|DT end|NN of|IN the|DT month|NN said|VBD jessica|NN caldwell|NN senior|JJ analyst|NN with|IN edmundscom|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gm|NN and|CC ford|NN both|DT estimated|VBN are|VBP that|IN industrywide|JJ sales|NNS were|VBD probably|RB off|IN by|IN more|JJR than|IN 25000|CD vehicles|NNS in|IN the|DT month|NN due|JJ to|TO the|DT storm|NN or|CC about|IN 22|CD of|IN the|DT average|NN sales|NNS forecast|NN for|IN the|DT month|NN before|RB the|DT storm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START edmunds|NNS estimates|VBZ that|IN 305|CD of|IN october|NN sales|NNS typically|RB take|VB place|NN in|IN the|DT final|JJ days|NNS of|IN the|DT month|NN as|IN dealerships|NNS push|VBP to|TO make|VB their|PRP$ targets|NNS </s>|S_END
+<s>|S_START the|DT region|NN most|JJS directly|RB affected|VBD by|IN sandy|NN typically|RB accounts|VBZ for|IN about|IN 20|CD of|IN national|JJ vehicle|NN sales|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD mulally|RB staying|VBG fords|NNS ceo|IN into|IN 2014|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START not|RB only|RB were|VBD many|JJ dealerships|NNS closed|VBD the|DT final|JJ few|JJ days|NNS of|IN the|DT month|NN due|JJ to|TO the|DT storm|NN and|CC resulting|VBG loss|NN of|IN power|NN but|CC many|JJ people|NNS who|WP had|VBD planned|VBN to|TO pick|VB up|RP a|DT new|JJ car|NN over|IN the|DT weekend|NN were|VBD instead|RB making|VBG preparations|NNS for|IN the|DT storm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gm|NN spokesman|NN jim|NN cain|NN said|VBD some|DT insurers|NNS stopped|VBD writing|VBG policies|NNS on|IN new|JJ cars|NNS in|IN the|DT affected|VBN areas|NNS in|IN the|DT days|NNS before|IN the|DT storm|NN to|TO limit|VB the|DT risk|NN of|IN exposure|NN from|IN a|DT new|JJ car|NN being|VBG damaged|VBN </s>|S_END
+<s>|S_START cars|NNS cant|VBP be|VB sold|VBN without|IN proof|JJ of|IN insurance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT sales|NNS wont|NN disappear|NN altogether|RB said|VBD caldwell|NN </s>|S_END
+<s>|S_START she|PRP said|VBD some|DT buyers|NNS may|MD just|RB end|VB up|RP buying|VBG in|IN november|NN </s>|S_END
+<s>|S_START and|CC those|DT with|IN cars|NNS damaged|VBN by|IN the|DT storm|NN may|MD be|VB forced|VBN into|IN the|DT market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD what|WP to|TO do|VB if|IN sandy|JJ flooded|VBN your|PRP$ car|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT automakers|NNS also|RB are|VBP expecting|VBG any|DT lost|NN october|NN sales|NNS to|TO be|VB reflected|VBN in|IN the|DT coming|VBG months|NNS numbers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ no|DT question|NN the|DT poor|JJ folks|NNS are|VBP dealing|VBG with|IN a|DT lot|NN right|RB now|RB said|VBD kurt|VBN mcneil|NN vice|NN president|NN us|PRP sales|VBZ operations|NNS for|IN gm|NN </s>|S_END
+<s>|S_START but|CC there|EX are|VBP strong|JJ fundamentals|NNS in|IN the|DT economy|NN right|RB now|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START us|PRP car|NN buyers|NNS have|VBP been|VBN returning|VBG to|TO showrooms|NNS in|IN recent|JJ months|NNS as|IN greater|JJR access|NN to|TO financing|NN pentup|NN demand|NN for|IN vehicles|NNS and|CC some|DT improvement|NN in|IN the|DT jobs|NNS market|NN have|VBP lifted|VBN consumer|NN confidence|NN and|CC created|VBD demand|NN for|IN new|JJ cars|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT sales|NNS pace|NN for|IN september|NN car|NN sales|NNS reached|VBD the|DT highest|JJS level|NN in|IN more|JJR than|IN four|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+</p>|P_END
+

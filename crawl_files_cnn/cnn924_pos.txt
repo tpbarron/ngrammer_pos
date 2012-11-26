@@ -1,0 +1,49 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN groupon|NN is|VBZ throwing|VBG down|IN hard|JJ in|IN the|DT mobile|JJ payment|NN space|NN with|IN a|DT guarantee|NN that|WDT its|PRP$ new|JJ payments|NNS service|NN is|VBZ the|DT lowestcost|NN option|NN for|IN merchants|NNS who|WP run|VBN a|DT daily|JJ deal|NN with|IN the|DT company|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START groupon|IN payments|NNS which|WDT is|VBZ available|JJ through|IN an|DT app|NN for|IN the|DT companys|NNS merchants|NNS is|VBZ the|DT latest|JJS entry|NN in|IN the|DT whitehot|NN mobile|NN payments|NNS field|NN </s>|S_END
+<s>|S_START groupons|NNS rate|VBP is|VBZ 18|CD plus|RB 15|CD cents|NNS per|IN swiped|JJ transaction|NN for|IN mastercard|NN ma|NN fortune|NN 500|CD visa|NN v|NN fortune|NN 500|CD and|CC discover|NN dfs|NNS fortune|VBP 500|CD cards|NNS </s>|S_END
+<s>|S_START for|IN american|JJ express|NN axp|NN fortune|NN 500|CD its|PRP$ 3|CD plus|CC 15|CD cents|NNS per|IN transaction|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS a|DT pretty|RB sweet|JJ deal|NN for|IN retailers|NNS </s>|S_END
+<s>|S_START the|DT swipe|NN fees|NNS that|WDT credit|NN cards|NNS typically|RB charge|VB can|MD vary|VB from|IN one|CD small|JJ business|NN to|TO another|DT but|CC they|PRP usually|RB fall|VBP between|IN 24|CD of|IN the|DT transaction|NN for|IN credit|NN cards|NNS debit|NN card|NN rates|NNS are|VBP typically|RB lower|JJR </s>|S_END
+<s>|S_START shares|NNS of|IN groupon|NN grpn|NN were|VBD up|RB more|RBR than|IN 7|CD in|IN midday|NN trading|NN after|IN the|DT announcement|NN </s>|S_END
+<s>|S_START the|DT deal|NN is|VBZ available|JJ to|TO us|PRP merchants|NNS only|RB for|IN now|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START can|MD groupon|VB actually|RB make|VB money|NN on|IN this|DT arrangement|NN or|CC is|VBZ it|PRP a|DT lossleader|NN intended|VBN to|TO grow|VB the|DT companys|NNS discounts|NNS business|NN </s>|S_END
+<s>|S_START the|DT company|NN isnt|NN saying|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP wouldnt|VBP comment|NN on|IN profit|NN or|CC loss|NN </s>|S_END
+<s>|S_START it|PRP doesnt|VBD make|VB sense|NN to|TO do|VB that|DT </s>|S_END
+<s>|S_START but|CC i|PRP can|MD say|VB that|IN we|PRP want|VBP to|TO make|VB a|DT real|JJ business|NN out|IN of|IN this|DT said|VBD mihir|NN shah|NN groupons|NNS vice|NN president|NN of|IN mobile|JJ and|CC merchant|NN products|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START groupon|IN developed|VBN the|DT idea|NN for|IN payments|NNS shah|VBP said|VBN after|IN the|DT company|NN realized|VBD many|JJ merchants|NNS couldnt|VBP answer|JJR a|DT simple|JJ question|NN what|WP rate|NN are|VBP you|PRP paying|VBG for|IN transactions|NNS </s>|S_END
+<s>|S_START the|DT mission|NN is|VBZ to|TO slash|VB the|DT complexity|NN and|CC costs|NNS of|IN accepting|VBG credit|NN card|NN payments|NNS and|CC groupon|IN is|VBZ planning|VBG to|TO roll|VB out|RP other|JJ services|NNS aimed|VBN at|IN simplifying|NN life|NN for|IN merchants|NNS he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN some|DT cases|NNS groupon|VBP payments|NNS severely|RB undercuts|NNS even|RB lowcost|VB competitors|NNS like|IN square|JJ </s>|S_END
+<s>|S_START the|DT startup|NN backed|VBD by|IN twitter|NN cofounder|NN jack|NN dorsey|NN lets|NNS small|JJ business|NN swipe|NN credit|NN cards|NNS through|IN a|DT tiny|NN device|NN that|WDT attaches|VBZ to|TO a|DT phone|NN </s>|S_END
+<s>|S_START square|NN offers|NNS two|CD plans|NNS for|IN businesses|NNS pay|VBP one|CD flat|JJ fee|NN of|IN $|$ 275|CD per|IN month|NN or|CC pay|NN 275|CD per|IN swipe|NN </s>|S_END
+<s>|S_START ebay|NN ebay|NN fortune|NN 500owned|CD paypal|JJ charges|NNS 27|CD per|IN swipe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START square|NN which|WDT has|VBZ raised|VBN more|JJR than|IN $|$ 200|CD million|CD in|IN funding|NN and|CC is|VBZ valued|VBN at|IN more|RBR than|IN $|$ 32|CD billion|CD is|VBZ just|RB one|CD of|IN the|DT companies|NNS trying|VBG to|TO lead|VB the|DT fastgrowing|NN mobile|NN payments|NNS space|NN </s>|S_END
+<s>|S_START the|DT list|NN also|RB includes|VBZ google|JJ goog|NN fortune|NN 500|CD which|WDT is|VBZ pushing|VBG its|PRP$ wallet|NN service|NN and|CC financial|JJ services|NNS companies|NNS like|IN verifone|NN pay|NN and|CC ncr|NN ncr|NN fortune|NN 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START though|IN groupon|NN payments|NNS is|VBZ designed|VBN for|IN businesses|NNS that|WDT run|VBN daily|RB deals|NNS through|IN the|DT company|NN a|DT temporary|JJ pilot|NN program|NN for|IN nongroupon|NN merchants|NNS offers|VBZ rates|NNS of|IN 22|CD for|IN most|JJS cards|NNS 3|CD for|IN american|JJ express|NN plus|VBZ 15|CD cents|NNS per|IN swipe|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,54 @@
+<p>|P_START
+<s>|S_START innovation|NN economics|NNS the|DT race|NN for|IN global|JJ advantage|NN </s>|S_END
+<s>|S_START by|IN robert|NN atkinson|NN and|CC stephen|RB ezell|RB </s>|S_END
+<s>|S_START yale|NN university|NN press|NN 440|CD pages|NNS $|$ 30|CD and|CC £20|-NONE- </s>|S_END
+<s>|S_START buy|NN from|IN amazoncom|NN amazoncouk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP is|VBZ not|RB surprising|JJ that|IN americans|NNS regard|VBP their|PRP$ country|NN as|IN an|DT innovation|NN goliath|NN </s>|S_END
+<s>|S_START the|DT world’s|JJ brightest|NN scientists|NNS compete|VBP to|TO study|NN at|IN its|PRP$ universities|NNS its|PRP$ feistiest|NN entrepreneurs|NNS dream|VBP of|IN moving|VBG to|TO silicon|NN valley|NN and|CC its|PRP$ savviest|NN consumers|NNS buy|VB its|PRP$ ipads|NNS and|CC software|NN program|NN </s>|S_END
+<s>|S_START the|DT russians|NNS claim|VBP to|TO be|VB building|VBG their|PRP$ own|JJ equivalent|NN of|IN silicon|NN valley|NN by|IN the|DT name|NN of|IN skolkovo|NN </s>|S_END
+<s>|S_START you|PRP only|RB have|VBP to|TO imagine|VB americans|NNS talking|VBG about|IN building|VBG a|DT united|JJ states|NNS equivalent|NN of|IN skolkovo|NN to|TO see|VB how|WRB thoroughly|RB they|PRP thrashed|VBD their|PRP$ former|JJ rival|NN at|IN the|DT innovation|NN game|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB america’s|JJ innovation|NN advantage|NN is|VBZ fading|VBG rapidly|RB indeed|RB in|IN a|DT growing|VBG number|NN of|IN areas|NNS it|PRP has|VBZ already|RB turned|VBN into|IN an|DT innovation|NN deficit|NN </s>|S_END
+<s>|S_START in|IN “innovation|NN economics”|NN robert|NN atkinson|NN and|CC stephen|RB ezell|RB of|IN the|DT information|NN technology|NN and|CC innovation|NN foundation|NN in|IN washington|NN dc|NN document|NN this|DT claim|NN in|IN laborious|JJ detail|NN and|CC also|RB explain|VB why|WRB it|PRP is|VBZ happening|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT authors|NNS argue|VBP that|IN america|NN is|VBZ losing|VBG its|PRP$ appetite|NN for|IN innovation—or|JJ at|IN least|JJS for|IN the|DT discipline|NN that|IN produces|NNS innovation—at|JJ exactly|RB the|DT same|JJ time|NN that|WDT other|JJ countries|NNS are|VBP gaining|VBG their|PRP$ </s>|S_END
+<s>|S_START america|NN ranks|NNS eighth|JJ among|IN oecd|JJ countries|NNS in|IN the|DT percentage|NN of|IN gdp|NN that|IN it|PRP devotes|VBZ to|TO rd|VB 28|CD well|RB behind|IN such|JJ rising|VBG innovation|NN powers|NNS as|IN israel|NN 43|CD and|CC finland|NN 4|CD </s>|S_END
+<s>|S_START only|RB three|CD of|IN the|DT top|JJ ten|NN companies|NNS receiving|VBG us|PRP patents|NNS in|IN 2009|CD were|VBD based|VBN in|IN the|DT united|VBN state|NN </s>|S_END
+<s>|S_START american|NN companies|NNS are|VBP moving|VBG rd|NN jobs|NNS to|TO the|DT emerging|NN world|NN at|IN exactly|RB the|DT same|JJ time|NN that|WDT emergingworld|NN companies|NNS are|VBP building|VBG rd|NN centres|NNS of|IN their|PRP$ own|JJ </s>|S_END
+<s>|S_START thus|RB shanghai|VBP boasts|NNS brandnew|VBP universities|NNS and|CC research|NN centres|NNS bearing|VBG the|DT logos|NNS of|IN american|JJ as|IN well|RB as|IN chinese|JJ companies|NNS while|IN trenton|NN new|JJ jersey|NN suffers|NNS from|IN shuttered|VBN factories|NNS and|CC ganginfested|VBD street|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT shift|NN is|VBZ being|VBG hastened|VBN by|IN two|CD policy|NN failure|NN </s>|S_END
+<s>|S_START the|DT first|JJ is|VBZ what|WP the|DT authors|NNS dub|VBP “innovation|NN mercantilism”|-NONE- </s>|S_END
+<s>|S_START the|DT chinese|NN government|NN forces|NNS foreign|JJ companies|NNS to|TO hand|VB over|IN intellectual|JJ capital|NN to|TO chinese|VB companies|NNS as|IN a|DT condition|NN of|IN gaining|VBG entry|NN into|IN the|DT world’s|JJ most|JJS populous|JJ market|NN </s>|S_END
+<s>|S_START it|PRP also|RB protects|VBZ “infant|JJ innovators”|NN from|IN foreign|JJ competition|NN by|IN a|DT mix|NN of|IN overt|NN protectionism|NN and|CC regulatory|JJ subterfuge|NN </s>|S_END
+<s>|S_START the|DT second|JJ is|VBZ that|IN american|JJ politicians|NNS are|VBP blind|JJ to|TO what|WP is|VBZ happening|VBG </s>|S_END
+<s>|S_START america|NN is|VBZ going|VBG through|IN the|DT same|JJ process|NN of|IN decline|NN and|CC denial|JJ that|IN britain|NN went|VBD through|IN in|IN the|DT 1950s|CD and|CC 1960s|CD the|DT authors|NNS argue|VBP rather|RB than|IN freeing|VBG people|NNS to|TO move|VB to|TO more|JJR valueadded|VBN activities|NNS the|DT loss|NN of|IN manufacturing|NN jobs|NNS can|MD lead|VB to|TO the|DT loss|NN of|IN entire|JJ ecosystems|NNS of|IN innovation|NN </s>|S_END
+<s>|S_START only|RB if|IN it|PRP adopts|VBZ a|DT comprehensive|JJ innovation|NN policy|NN can|MD america|VB avoid|JJ britain’s|NNS dismal|JJ fate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ much|JJ to|TO object|VB to|TO in|IN all|DT thi|NN </s>|S_END
+<s>|S_START the|DT authors|NNS are|VBP too|RB easily|RB impressed|VBN by|IN grand|NN sounding|VBG innovation|NN policie|NN </s>|S_END
+<s>|S_START they|PRP are|VBP also|RB much|RB too|RB quick|JJ to|TO assume|VB that|IN the|DT sort|NN of|IN blueprints|NNS that|WDT work|NN for|IN city|NN states|NNS like|IN singapore|NN or|CC small|JJ countries|NNS like|IN denmark|NN might|MD work|VB for|IN goliaths|NNS like|IN the|DT united|VBN state|NN </s>|S_END
+<s>|S_START the|DT european|JJ union’s|NNS lisbon|NN agenda|NN which|WDT declared|VBD that|IN europe|NN would|MD be|VB the|DT world’s|JJ most|JJS innovative|JJ economy|NN by|IN 2010|CD produced|VBN nothing|NN but|CC a|DT few|JJ chuckles|NNS in|IN china’s|JJ politburo|NN </s>|S_END
+<s>|S_START for|IN all|DT its|PRP$ recent|JJ failings|NNS america’s|-NONE- system|NN of|IN decentralised|VBN innovation|NN with|IN states|NNS universities|NNS thinktanks|NNS and|CC companies|NNS experimenting|VBG with|IN all|DT sorts|NNS of|IN different|JJ ideas|NNS is|VBZ a|DT far|RB better|RBR model|NN than|IN any|DT washingtondriven|NN system|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT said|VBD “innovation|NN economics”|NN is|VBZ a|DT valuable|JJ book|NN </s>|S_END
+<s>|S_START the|DT authors|NNS are|VBP right|RB to|TO warn|VB that|IN america’s|JJ leadership|NN in|IN several|JJ areas|NNS has|VBZ eroded|VBN much|JJ more|RBR rapidly|RB than|IN most|JJS americans|NNS think|VBP </s>|S_END
+<s>|S_START they|PRP are|VBP right|RB to|TO argue|VB that|IN classical|JJ economists|NNS are|VBP often|RB blind|JJ to|TO the|DT fact|NN that|IN innovation|NN is|VBZ the|DT product|NN of|IN ecosystems|NNS rather|RB than|IN individual|JJ companies|NNS and|CC that|IN ecosystems|NNS are|VBP fragile|JJ </s>|S_END
+<s>|S_START they|PRP are|VBP also|RB right|RB to|TO worry|VB that|IN “innovation|NN mercantilism”|-NONE- can|MD be|VB much|RB more|RBR harmful|JJ to|TO its|PRP$ targets|NNS than|IN traditional|JJ mercantilism|NN even|RB if|IN it|PRP doesn’t|JJ benefit|NN the|DT sinner|NN in|IN the|DT long|JJ run|NN it|PRP can|MD seriously|RB damage|VB the|DT sinned|VBN against|IN </s>|S_END
+<s>|S_START america|NN will|MD never|RB again|VB have|VBP the|DT same|JJ dominance|NN that|IN it|PRP had|VBD in|IN the|DT second|JJ half|DT of|IN the|DT 20th|JJ century|NN </s>|S_END
+<s>|S_START but|CC wiser|NN policy|NN can|MD ensure|VB that|IN it|PRP profits|VBZ from|IN the|DT rise|NN of|IN the|DT rest|NN of|IN the|DT world|NN rather|RB than|IN seeing|VBG its|PRP$ companies|NNS battered|VBN and|CC its|PRP$ living|NN standards|NNS reduced|VBD </s>|S_END
+</p>|P_END
+

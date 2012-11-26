@@ -1,0 +1,72 @@
+<p>|P_START
+<s>|S_START italian|JJ prime|NN minister|NN mario|NN monti|NN confirmed|VBD earlier|RBR this|DT week|NN that|IN he|PRP will|MD not|RB seek|VB a|DT second|JJ term|NN in|IN office|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN italy|RB successfully|RB sold|VBN €525|-NONE- billion|CD of|IN short|JJ and|CC longterm|JJ bonds|NNS friday|NN despite|IN being|VBG downgraded|VBN by|IN moodys|NNS a|DT day|NN earlier|RBR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT italian|JJ government|NN sold|VBD €35|-NONE- billion|CD of|IN 3year|JJ bonds|NNS at|IN an|DT average|JJ yield|NN of|IN 465|CD down|IN from|IN 530|CD at|IN the|DT last|JJ auction|NN in|IN june|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC investors|NNS demanded|VBD higher|JJR rates|NNS on|IN the|DT smaller|JJR offerings|NNS of|IN longterm|NN bonds|NNS </s>|S_END
+<s>|S_START italy|RB sold|VBD €766|-NONE- million|CD of|IN 7year|JJ bonds|NNS at|IN 558|CD €600|-NONE- million|CD of|IN 10year|JJ bonds|NNS at|IN 582|CD and|CC €384|-NONE- million|CD of|IN 11year|JJ bonds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT secondary|JJ market|NN where|WRB investors|NNS trade|VBP bonds|NNS yields|NNS on|IN 10year|JJ italian|JJ bonds|NNS rose|VBD to|TO 6|CD </s>|S_END
+<s>|S_START thats|NNS down|IN from|IN highs|NNS above|IN 7|CD earlier|RBR this|DT year|NN but|CC still|RB near|IN levels|NNS that|WDT italy|RB could|MD struggle|VB to|TO pay|VB over|RP the|DT long|JJ term|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT auctions|NNS came|VBD one|CD day|NN after|IN moodys|NNS downgraded|VBD italys|NNS credit|NN rating|NN two|CD notches|NNS to|TO baa2|NNP from|IN a3|NNP pushing|NN it|PRP closer|JJR to|TO speculative|JJ or|CC junk|NN grade|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START moodys|NNS cited|VBD an|DT increased|VBN risk|NN of|IN italys|NNS borrowing|VBG costs|NNS rising|VBG as|IN contagion|NN in|IN the|DT bond|NN market|NN spreads|NNS from|IN spain|NN </s>|S_END
+<s>|S_START in|IN addition|NN moodys|NNS said|VBD the|DT italian|JJ economy|NN has|VBZ deteriorated|VBN which|WDT will|MD make|VB it|PRP harder|JJR for|IN the|DT government|NN to|TO raise|VB revenue|NN and|CC meet|VB its|PRP$ deficit|NN reduction|NN targets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START moodys|NNS outlook|VBP for|IN italy|RB is|VBZ negative|JJ which|WDT means|VBZ the|DT country|NN could|MD face|VB further|JJ downgrades|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN italian|JJ prime|NN minister|NN mario|NN monti|NN has|VBZ taken|VBN steps|NNS to|TO make|VB the|DT economy|NN more|JJR competitive|JJ moodys|NNS warned|VBD that|IN political|JJ headwinds|NNS could|MD slow|VB the|DT nations|NNS progress|NN on|IN deeper|NN structural|JJ reforms|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT political|JJ climate|NN particularly|RB as|IN the|DT spring|NN 2013|CD elections|NNS draw|VBP near|IN is|VBZ also|RB a|DT source|NN of|IN implementation|NN risk|NN said|VBD moodys|NNS analysts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START monti|NN confirmed|VBD earlier|RBR this|DT week|NN that|IN he|PRP will|MD step|VB down|IN when|WRB his|PRP$ mandate|NN ends|VBZ next|JJ year|NN </s>|S_END
+<s>|S_START a|DT wellrespected|VBN economist|NN monti|NN was|VBD appointed|VBN by|IN european|JJ union|NN officials|NNS last|JJ year|NN after|IN his|PRP$ predecessor|NN silvio|NN berlusconi|NN resigned|VBD under|IN pressure|NN </s>|S_END
+<s>|S_START also|RB this|DT week|NN berlusconi|NN announced|VBD that|IN he|PRP plans|VBZ to|TO seek|VB reelection|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT news|NN that|IN former|JJ prime|JJ minister|NN silvio|NN berlusconi|NN will|MD again|VB run|VBN for|IN the|DT premiership|NN will|MD not|RB be|VB received|VBN well|RB by|IN the|DT markets|NNS wrote|VBD nicholas|NNS spiro|IN director|NN of|IN londonbased|VBN consultancy|NN spiro|NN sovereign|NN strategy|NN in|IN a|DT note|NN to|TO clients|NNS </s>|S_END
+<s>|S_START the|DT risk|NN is|VBZ that|IN investors|NNS start|VBP to|TO fret|VB about|IN a|DT more|RBR unstable|JJ and|CC populist|NN postmonti|NN political|JJ landscape|NN in|IN italy|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START traders|NNS said|VBD italian|JJ banks|NNS continue|VBP to|TO be|VB the|DT main|JJ buyers|NNS of|IN domestic|JJ government|NN bonds|NNS as|IN foreign|JJ investors|NNS have|VBP largely|RB fled|VBN the|DT market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START since|IN the|DT european|JJ central|JJ bank|NN started|VBD flooding|VBG the|DT banking|NN system|NN with|IN liquidity|NN late|JJ last|JJ year|NN italian|JJ banks|NNS have|VBP been|VBN hoovering|VBG up|RP italian|JJ bonds|NNS said|VBD nick|NN stamenkovic|JJ market|NN strategist|NN at|IN ria|NN capital|NN markets|NNS in|IN edinburgh|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN domestic|JJ buyers|NNS could|MD continue|VB to|TO pick|VB up|RP the|DT slack|NN in|IN the|DT short|JJ term|NN stamenkovic|JJ said|VBD italy|RB is|VBZ struggling|VBG to|TO sell|VB bonds|NNS with|IN maturities|NNS in|IN excess|NN of|IN 10|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START investors|NNS are|VBP worried|VBN about|IN the|DT poor|JJ performance|NN of|IN the|DT italian|JJ economy|NN and|CC the|DT danger|NN that|IN structural|JJ reforms|NNS will|MD be|VB watered|VBN down|RP he|PRP added|VBD </s>|S_END
+<s>|S_START the|DT situation|NN in|IN italy|RB is|VBZ still|RB very|RB fragile|JJ </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

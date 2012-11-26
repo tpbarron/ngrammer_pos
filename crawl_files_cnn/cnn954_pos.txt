@@ -1,0 +1,61 @@
+<p>|P_START
+<s>|S_START microsofts|NNS surface|VBP tablet|JJ and|CC windows|VBZ 8|CD will|MD both|DT go|VB on|IN sale|NN by|IN the|DT end|NN of|IN october|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN microsofts|NNS first|RB tablet|VB pc|NN and|CC its|PRP$ biggest|NN update|NN to|TO windows|VBZ in|IN nearly|RB two|CD decades|NNS are|VBP less|JJR than|IN four|CD months|NNS away|RB from|IN going|VBG on|IN sale|NN to|TO the|DT public|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT software|NN giant|NN announced|VBD monday|NN that|IN windows|VBZ 8|CD will|MD hit|VB store|NN shelves|NNS by|IN the|DT end|NN of|IN october|NN </s>|S_END
+<s>|S_START surface|NN the|DT tablet|NN that|IN microsoft|NN designed|VBN inhouse|NN will|MD also|RB go|VB on|IN sale|NN when|WRB windows|VBZ 8|CD is|VBZ released|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START windows|NNS 8|CD reimagines|NNS the|DT pc|NN operating|NN system|NN by|IN switching|NN its|PRP$ focus|NN away|RB from|IN the|DT desktop|NN and|CC toward|IN a|DT touchenabled|JJ start|NN screen|NN </s>|S_END
+<s>|S_START with|IN its|PRP$ metrostyle|NN interface|NN the|DT windows|NNS 8|CD start|NN screen|NN features|NNS apps|NNS with|IN large|JJ interactive|JJ live|JJ tiles|NNS ultrasimple|VBP navigation|NN and|CC instinctive|JJ commands|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoft|NN msft|VBD fortune|NN 500|CD still|RB hasnt|JJ announced|VBN pricing|NN for|IN windows|NNS 8|CD or|CC surface|NN but|CC the|DT company|NN last|JJ week|NN said|VBD that|IN pc|NN users|NNS running|VBG windows|NNS xp|VB vista|NN or|CC 7|CD can|MD upgrade|VB to|TO windows|NNS 8|CD for|IN $|$ 40|CD during|IN a|DT promotion|NN that|WDT lasts|VBZ until|IN the|DT end|NN of|IN january|JJ 2013|CD </s>|S_END
+<s>|S_START people|NNS who|WP buy|NN windows|VBZ 7|CD pcs|NNS between|IN now|RB and|CC january|JJ can|MD upgrade|VB to|TO windows|NNS 8|CD for|IN $|$ 15|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START windows|NNS 8|CD will|MD come|VB in|IN three|CD varieties|NNS for|IN consumers|NNS windows|VBZ 8|CD windows|NNS 8|CD pro|NN and|CC windows|VBZ rt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT first|JJ two|CD versions|NNS support|NN all|DT the|DT desktop|NN apps|NNS that|WDT run|VBN on|IN windows|NNS 7|CD and|CC the|DT pro|NN version|NN comes|VBZ with|IN some|DT advanced|JJ features|NNS such|JJ as|IN remote|NN desktop|NN support|NN </s>|S_END
+<s>|S_START both|DT run|VBN on|IN processors|NNS designed|VBN or|CC licensed|VBN by|IN intel|NN intc|NN fortune|NN 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START windows|NNS rt|VBP runs|NNS on|IN powersipping|VBG microchips|NNS designed|VBN by|IN arm|NN armh|NN which|WDT are|VBP prevalent|JJ in|IN most|JJS tablets|NNS and|CC smartphones|NNS today|NN </s>|S_END
+<s>|S_START but|CC windows|VBZ rt|NN does|VBZ not|RB support|VB any|DT desktop|NN apps|NNS that|WDT run|VBN on|IN windows|NNS 7|CD other|JJ than|IN microsoft|JJ office|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT new|JJ windows|NNS app|VBP store|NN plans|NNS to|TO feature|VB metro|NN versions|NNS of|IN many|JJ popular|JJ apps|NNS that|WDT run|VBN on|IN windows|NNS 7|CD today|NN including|VBG rival|NN browsers|NNS like|IN google|NN goog|NN fortune|NN 500|CD chrome|NN and|CC mozillas|NNS firefox|VBP </s>|S_END
+<s>|S_START but|CC it|PRP wont|VBD have|VBP anything|NN close|RB to|TO the|DT 225000|CD apps|NNS specifically|RB designed|VBN for|IN apples|NNS ipad|VBP or|CC even|RB the|DT thousands|NNS of|IN apps|NNS available|JJ for|IN tablets|NNS running|VBG googles|NNS android|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoft|NN is|VBZ also|RB remaining|VBG mum|NN on|IN the|DT surfaces|NNS cost|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT company|NN said|VBD at|IN the|DT tablets|NNS launch|VBP event|NN in|IN june|NN that|IN a|DT windows|VBZ rt|NN version|NN of|IN surface|NN will|MD be|VB priced|VBN comparably|RB to|TO the|DT ipad|NN which|WDT starts|VBZ at|IN $|$ 499|CD </s>|S_END
+<s>|S_START the|DT fuller|NN windows|VBZ 8|CD pro|NN version|NN of|IN surface|NN is|VBZ expected|VBN to|TO cost|VB about|IN the|DT same|JJ as|IN an|DT ultrabook|NN which|WDT tend|NN to|TO be|VB priced|VBN at|IN around|IN $|$ 1000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ultrabooks|NNS will|MD support|VB many|JJ of|IN the|DT touchsensitive|JJ features|NNS for|IN windows|NNS 8|CD </s>|S_END
+<s>|S_START many|JJ will|MD come|VB with|IN touchscreens|NNS and|CC some|DT will|MD support|VB touch|JJ gestures|NNS unique|VBP to|TO windows|NNS 8|CD including|VBG swiping|NN in|IN from|IN the|DT four|CD sides|NNS of|IN the|DT screen|NN to|TO launch|VB features|NNS like|IN the|DT computers|NNS settings|NNS previously|RB viewed|VBD apps|NNS and|CC the|DT home|NN screen|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START intel|NN is|VBZ expected|VBN to|TO unveil|VB windows|NNS 8ready|JJ ultrabooks|NNS at|IN an|DT event|NN in|IN new|JJ york|NN on|IN tuesday|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

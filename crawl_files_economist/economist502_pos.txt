@@ -1,0 +1,39 @@
+<p>|P_START
+<s>|S_START economic|JJ inequality|NN can|MD be|VB measured|VBN in|IN many|JJ ways—by|JJ the|DT distribution|NN of|IN wealth|NN income|NN or|CC consumption|NN or|CC between|IN races|NNS sexes|NNS regions|NNS or|CC individual|JJ </s>|S_END
+<s>|S_START the|DT resulting|VBG picture|NN can|MD vary|VB a|DT lot|NN </s>|S_END
+<s>|S_START in|IN america|NN for|IN instance|NN the|DT income|NN gap|NN between|IN blacks|NNS and|CC whites|NNS and|CC men|NNS and|CC women|NNS has|VBZ narrowed|VBN over|IN the|DT past|JJ 30|CD years|NNS even|RB as|IN that|IN between|IN individuals|NNS has|VBZ widened|VBN </s>|S_END
+<s>|S_START disparities|NNS in|IN consumption|NN are|VBP always|RB smaller|JJR than|IN those|DT in|IN income|NN because|IN people|NNS save|VBP and|CC borrow|NN to|TO smooth|DT their|PRP$ living|NN standard|NN </s>|S_END
+<s>|S_START the|DT distribution|NN of|IN wealth|NN is|VBZ usually|RB less|JJR equal|JJ than|IN that|DT of|IN annual|JJ income|NN </s>|S_END
+<s>|S_START gaps|NNS in|IN pretax|JJ income|NN are|VBP larger|JJR than|IN those|DT in|IN disposable|JJ income|NN after|IN taxes|NNS and|CC government|NN transfer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT main|JJ measures|NNS of|IN economic|JJ inequality|NN used|VBN in|IN this|DT special|JJ report|NN are|VBP the|DT gini|NN coefficients|NNS for|IN disposable|JJ income|NN and|CC consumption|NN derived|VBD from|IN household|NN survey|NN </s>|S_END
+<s>|S_START these|DT surveys|NNS are|VBP now|RB conducted|VBN in|IN almost|RB all|DT countrie|NN </s>|S_END
+<s>|S_START in|IN the|DT rich|JJ world|NN and|CC in|IN latin|NN america|NN official|NN gini|NN coefficients|NNS are|VBP usually|RB based|VBN on|IN income|NN </s>|S_END
+<s>|S_START in|IN asia|NN and|CC africa|NN consumptionbased|VBD figures|NNS are|VBP more|RBR common|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START crosscountry|NN comparisons|NNS can|MD be|VB tricky|JJ </s>|S_END
+<s>|S_START inequality|NN in|IN india|NN for|IN instance|NN is|VBZ often|RB said|VBD to|TO be|VB lower|JJR than|IN in|IN china|NN </s>|S_END
+<s>|S_START but|CC china’s|JJ gini|NN coefficient|NN of|IN 048|CD measures|NNS inequality|NN of|IN income|NN whereas|IN india’s|NNS official|NN gini|NN of|IN 033|CD measures|NNS consumption|NN </s>|S_END
+<s>|S_START peter|NN lanjouw|VBD and|CC rinku|NN murgai|NN of|IN the|DT world|NN bank|NN calculated|VBD an|DT income|NN gini|NN for|IN india|NNS which|WDT at|IN 054|CD is|VBZ much|JJ higher|JJR than|IN china’s|JJ and|CC close|JJ to|TO brazil’|NNP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT problem|NN is|VBZ that|IN there|EX are|VBP several|JJ international|JJ databases|NNS all|DT slightly|RB different|JJ </s>|S_END
+<s>|S_START nor|CC are|VBP household|VBN surveys|NNS good|JJ at|IN capturing|NN inequality|NN at|IN the|DT very|RB top|JJ not|RB least|JJS because|IN it|PRP is|VBZ all|DT but|CC impossible|JJ to|TO get|VB the|DT ultrarich|NN to|TO take|VB part|NN in|IN them|PRP </s>|S_END
+<s>|S_START the|DT best|JJS information|NN on|IN the|DT highest|JJS incomes|NNS comes|VBZ from|IN tax|NN returns|NNS thanks|NNS to|TO work|VB pioneered|VBN by|IN two|CD french|JJ economists|NNS emmanuel|VBP saez|NN and|CC thomas|VBZ piketty|NN together|RB with|IN a|DT briton|NN anthony|NN atkinson|NN and|CC an|DT argentine|JJ facundo|NN alvaredo|NN </s>|S_END
+<s>|S_START these|DT four|CD have|VBP built|VBN a|DT huge|JJ database|NN of|IN top|JJ incomes|NNS which|WDT now|RB includes|VBZ 26|CD countrie|NN </s>|S_END
+<s>|S_START their|PRP$ statistics|NNS go|VBP back|RB much|RB further|RB than|IN household|NN surveys|NNS in|IN america’s|JJ case|NN to|TO 1913|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gini|NN coefficients|NNS and|CC the|DT top|JJ income|NN share|NN can|MD paint|VB different|JJ picture|NN </s>|S_END
+<s>|S_START argentina’s|NNS gini|VBP for|IN instance|NN has|VBZ fallen|VBN sharply|RB over|IN the|DT past|JJ decade|NN even|RB as|IN the|DT share|NN of|IN income|NN going|VBG to|TO the|DT top|JJ 1|CD has|VBZ risen|VBN </s>|S_END
+<s>|S_START germany’s|NNS gini|VBP has|VBZ risen|VBN by|IN 32|CD since|IN the|DT early|JJ 1980s|CD but|CC the|DT share|NN of|IN income|NN going|VBG to|TO the|DT very|JJ top|JJ has|VBZ barely|RB budged|VBN </s>|S_END
+<s>|S_START one|CD reason|NN is|VBZ that|IN the|DT statistics|NNS cover|VBP different|JJ people|NNS another|DT is|VBZ arithmetic|JJ </s>|S_END
+<s>|S_START the|DT gini|NN aggregates|VBZ all|DT disparities|NNS so|RB it|PRP is|VBZ a|DT better|JJR summary|NN measure|NN but|CC it|PRP does|VBZ not|RB tell|VB you|PRP where|WRB the|DT gaps|NNS are|VBP growing|VBG </s>|S_END
+</p>|P_END
+

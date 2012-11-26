@@ -1,0 +1,56 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN bank|NN of|IN americas|NNS website|VBP was|VBD sluggish|JJ and|CC intermittently|RB unavailable|JJ for|IN many|JJ users|NNS on|IN tuesday|NN in|IN an|DT outage|NN that|IN the|DT bank|NN hadnt|NN explained|VBD by|IN the|DT end|NN of|IN the|DT day|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bank|NN of|IN america|NN bac|NN fortune|NN 500|CD spokesman|NN mark|NN pipitone|NN said|VBD the|DT company|NN is|VBZ working|VBG to|TO ensure|VB full|JJ availability|NN and|CC that|IN online|NN banking|NN is|VBZ available|JJ although|IN some|DT customers|NNS may|MD experience|VB occasional|JJ slowness|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT banks|NNS official|NN twitter|NN account|NN sent|NN similar|JJ messages|NNS to|TO customers|NNS who|WP complained|VBD about|IN the|DT issues|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT majority|NN of|IN bank|NN of|IN americas|NNS customers|NNS were|VBD able|JJ to|TO access|NN the|DT site|JJ which|WDT remained|VBN online|NN throughout|IN the|DT day|NN pipitone|NN said|VBD </s>|S_END
+<s>|S_START still|RB many|JJ customers|NNS were|VBD unable|JJ to|TO connect|VB because|IN of|IN the|DT sites|NNS slowness|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START data|NNS from|IN keynote|NN a|DT testing|NN and|CC monitoring|VBG company|NN showed|VBD that|IN the|DT problems|NNS began|VBD around|IN 10|CD am|NN </s>|S_END
+<s>|S_START et|NN and|CC were|VBD still|RB ongoing|JJ as|IN of|IN 610|CD pm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ possible|JJ that|IN something|NN bank|NN of|IN america|NN has|VBZ done|VBN on|IN its|PRP$ end|NN some|DT kind|NN of|IN change|NN caused|VBN the|DT problem|NN said|VBD aaron|NN rudger|NN keynotes|VBZ senior|JJ marketing|NN manager|NN of|IN web|NN performance|NN </s>|S_END
+<s>|S_START the|DT banks|NNS homepage|VBP looked|VBN different|JJ before|IN the|DT trouble|NN began|VBD he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN of|IN about|IN 6|CD pm|NN tuesday|NN rudger|NN said|VBD a|DT small|JJ percentage|NN of|IN website|JJ requests|NNS were|VBD being|VBG fulfilled|VBN successfully|RB but|CC the|DT majority|NN were|VBD still|RB met|VBN with|IN errors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN wednesday|NN morning|NN rudger|NN said|VBD that|IN the|DT bank|NN appeared|VBD to|TO have|VB rolled|VBN out|RP some|DT change|NN that|IN improved|VBN the|DT situation|NN and|CC modestly|RB reduced|VBN the|DT long|JJ timeout|NN failures|NNS on|IN tuesday|NN night|NN </s>|S_END
+<s>|S_START by|IN midmorning|NN on|IN wednesday|NN keynotes|NNS data|NNS showed|VBD the|DT sites|NNS performance|NN had|VBD stabilized|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT problem|NN is|VBZ indeed|VBN due|JJ to|TO system|NN updates|NNS that|WDT bank|NN of|IN america|NN rolled|VBD out|IN it|PRP wouldnt|VBP be|VB the|DT first|JJ time|NN </s>|S_END
+<s>|S_START the|DT bank|NN experienced|VBD nearly|RB a|DT full|JJ week|NN of|IN outages|NNS in|IN october|NN 2011|CD and|CC later|JJ explained|VBD that|IN the|DT problems|NNS stemmed|VBD from|IN a|DT combination|NN of|IN technical|JJ difficulties|NNS and|CC heavier|JJR than|IN normal|JJ traffic|NN </s>|S_END
+<s>|S_START the|DT bank|NN had|VBD been|VBN migrating|VBG its|PRP$ online|NN banking|NN to|TO a|DT new|JJ platform|NN and|CC deploying|VBG new|JJ tools|NNS for|IN customers|NNS when|WRB the|DT problems|NNS began|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN blogs|NNS and|CC twitter|NN some|DT hacker|NN groups|NNS were|VBD claiming|VBG responsibility|NN for|IN the|DT outage|NN </s>|S_END
+<s>|S_START but|CC there|EX was|VBD no|DT evidence|NN to|TO support|VB those|DT claims|NNS and|CC several|JJ recent|JJ ones|NNS turned|VBD out|RP to|TO be|VB hoaxes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START earlier|JJR this|DT month|NN a|DT person|NN affiliated|VBN with|IN the|DT hacktivist|NN collective|JJ anonymous|JJ said|VBD the|DT group|NN took|VBD down|RB the|DT web|NN hosting|VBG service|NN godaddy|NN and|CC in|IN june|NN the|DT group|NN ugnazi|NN claimed|VBD responsibility|NN for|IN downing|NN twitter|NN </s>|S_END
+<s>|S_START both|DT outages|NNS were|VBD later|JJ revealed|VBN to|TO be|VB technical|JJ issues|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP can|MD assure|VB you|PRP we|PRP continuously|RB take|VBP proactive|JJ measures|NNS to|TO secure|VB our|PRP$ systems|NNS bank|NN of|IN americas|NNS spokesman|NN said|VBD in|IN response|NN to|TO a|DT question|NN about|IN whether|IN the|DT company|NN had|VBD seen|VBN any|DT signs|NNS on|IN tuesday|NN of|IN a|DT cyberattack|NN </s>|S_END
+</p>|P_END
+

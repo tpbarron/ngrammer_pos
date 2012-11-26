@@ -1,0 +1,84 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN american|NN airlines|NNS parent|NN amr|NN one|CD of|IN the|DT few|JJ major|JJ us|PRP airlines|VBZ to|TO avoid|VB bankruptcy|NN finally|RB succumbed|VBD tuesday|NN and|CC filed|VBD for|IN chapter|NN 11|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START amr|NN said|VBD that|IN all|DT of|IN its|PRP$ subsidiaries|NNS will|MD honor|VB tickets|NNS and|CC reservations|NNS and|CC operate|VB normal|JJ flight|NN schedules|NNS during|IN the|DT bankruptcy|NN process|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT airline|NN also|RB announced|VBD that|IN gerard|NN arpey|NN its|PRP$ chairman|NN and|CC ceo|NN is|VBZ retiring|VBG </s>|S_END
+<s>|S_START he|PRP is|VBZ being|VBG succeeded|VBN by|IN thomas|NNS horton|IN who|WP said|VBD at|IN a|DT press|NN conference|NN that|WDT arpey|NN had|VBD opposed|VBN the|DT bankruptcy|NN filing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN an|DT interview|NN with|IN cnns|NNS richard|VBP quest|JJS horton|NN said|VBD the|DT airline|NN was|VBD forced|VBN into|IN bankruptcy|NN because|IN of|IN cost|NN disadvantages|NNS it|PRP faced|VBD compared|VBN to|TO rivals|NNS that|IN had|VBD already|RB gone|VBN though|IN bankruptcies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START folks|NNS at|IN american|JJ have|VBP worked|VBN very|RB hard|RB and|CC honorably|RB to|TO avoid|VB that|IN path|NN over|IN the|DT last|JJ decade|NN but|CC it|PRP became|VBD clear|JJ that|IN gap|NN had|VBD become|VBN too|RB wide|RB now|RB it|PRP had|VBD become|VBN untenable|JJ and|CC it|PRP was|VBD time|NN to|TO turn|VB the|DT page|NN said|VBD horton|NN who|WP was|VBD named|VBN president|NN of|IN amr|NN in|IN july|RB 2010|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START before|IN tuesdays|NNS filing|VBG american|JJ southwest|NN luv|NN fortune|NN 500|CD and|CC jetblue|JJ jblu|NN were|VBD the|DT only|JJ major|JJ us|PRP airlines|VBZ that|IN had|VBD not|RB filed|VBN for|IN bankruptcy|NN reorganization|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT timing|NN surprised|VBD airline|NN analyst|NN jeff|NN kaufman|NN of|IN sterne|NN agee|NN since|IN amr|NN had|VBD enough|RB cash|NN to|TO ride|VB out|RP losses|NNS probably|RB through|IN next|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT same|JJ time|NN he|PRP said|VBD the|DT filing|NN makes|VBZ sense|NN because|IN of|IN several|JJ factors|NNS including|VBG increased|VBN fuel|NN prices|NNS amrs|NNS loss|VBP of|IN business|NN travel|NN customers|NNS to|TO competitors|NNS and|CC tough|JJ labor|NN union|NN negotiations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START american|NN was|VBD the|DT worlds|NNS largest|JJS carrier|NN as|RB recently|RB as|IN 2006|CD </s>|S_END
+<s>|S_START but|CC mergers|NNS have|VBP pushed|VBN it|PRP to|TO third|JJ in|IN terms|NNS of|IN miles|NNS flown|IN by|IN paying|NN passengers|NNS behind|IN united|VBN continental|JJ ual|JJ fortune|NN 500|CD and|CC delta|NN air|NN lines|NNS dal|JJ fortune|NN 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START american|NN has|VBZ been|VBN widely|RB seen|VBN as|IN the|DT weakest|JJS of|IN the|DT major|JJ airlines|NNS for|IN some|DT time|NN now|RB </s>|S_END
+<s>|S_START it|PRP has|VBZ reported|VBN a|DT profit|NN in|IN only|RB one|CD quarter|NN since|IN 2007|CD and|CC it|PRP lost|VBD $|$ 48|CD billion|CD over|IN those|DT 312|CD years|NNS </s>|S_END
+<s>|S_START analysts|NNS surveyed|VBD by|IN thomson|NN reuters|NNS expect|VBP its|PRP$ losses|NNS to|TO continue|VB through|IN at|IN least|JJS 2012|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START still|RB the|DT company|NN officials|NNS had|VBD been|VBN insisting|VBG that|IN it|PRP was|VBD not|RB looking|VBG at|IN bankruptcy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN tuesday|NN horton|NN told|VBD cnn|NN that|IN bankruptcy|NN never|RB has|VBZ been|VBN a|DT goal|NN or|CC preference|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP said|VBD that|IN american|JJ is|VBZ paying|VBG $|$ 800|CD million|CD a|DT year|NN more|JJR in|IN labor|NN costs|NNS than|IN it|PRP would|MD be|VB if|IN it|PRP had|VBD labor|NN contracts|NNS comparable|JJ to|TO its|PRP$ competitors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START clearly|RB it|PRP was|VBD our|PRP$ preference|NN to|TO do|VB this|DT in|IN consensual|JJ fashion|NN he|PRP said|VBD </s>|S_END
+<s>|S_START unfortunately|RB we|PRP were|VBD not|RB successful|JJ in|IN that|DT regard|NN </s>|S_END
+<s>|S_START american|NN will|MD now|RB gain|VB significantly|RB greater|JJR leverage|NN in|IN those|DT talks|NNS given|VBN the|DT bankruptcy|NN courts|NNS power|NN to|TO void|JJ contracts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START kaufman|NN the|DT industry|NN expert|NN said|VBD american|JJ needs|NNS contracts|NNS that|WDT would|MD allow|VB it|PRP the|DT greater|JJR flexibility|NN and|CC lower|JJR staffing|NN levels|NNS that|WDT other|JJ carriers|NNS have|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START horton|NN also|RB told|VBD cnn|VBN that|IN it|PRP planned|VBD to|TO move|VB ahead|RB with|IN a|DT massive|JJ order|NN for|IN 460|CD jets|NNS from|IN boeing|VBG ba|NN fortune|NN 500|CD and|CC airbus|VBZ it|PRP announced|VBD in|IN july|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START americans|NNS current|VBD fleet|NN includes|VBZ 247|CD md80|NNP planes|NNS that|WDT havent|NN been|VBN made|VBN since|IN 1999|CD and|CC are|VBP considered|VBN to|TO be|VB fuel|NN guzzlers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT airline|NN said|VBD that|IN its|PRP$ cash|NN reserves|NNS coupled|VBN with|IN the|DT cash|NN from|IN ongoing|VBG ticket|NN sales|NNS should|MD give|VB it|PRP the|DT funds|NNS it|PRP needs|VBZ during|IN reorganization|NN </s>|S_END
+<s>|S_START therefore|RB it|PRP will|MD not|RB need|VB what|WP is|VBZ known|VBN as|IN a|DT debtorinpossession|NN loan|NN that|IN bankrupt|JJ companies|NNS typically|RB use|VBP to|TO operate|VB under|IN chapter|NN 11|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shares|NNS of|IN amr|NN amr|NN fortune|NN 500|CD which|WDT had|VBD already|RB plunged|VBN nearly|RB 80|CD since|IN the|DT start|NN of|IN the|DT year|NN tumbled|VBD another|DT 81|CD to|TO 30|CD cents|NNS a|DT share|NN on|IN tuesday|NN </s>|S_END
+<s>|S_START shareholders|NNS are|VBP typically|RB wiped|VBN out|RP during|IN the|DT bankruptcy|NN process |NN </s>|S_END
+</p>|P_END
+

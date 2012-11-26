@@ -1,0 +1,139 @@
+<p>|P_START
+<s>|S_START in|IN 2008|CD the|DT royal|JJ bank|NN of|IN scotland|NN rbs|NNS was|VBD the|DT biggest|JJS bank|NN in|IN the|DT world|NN with|IN assets|NNS of|IN £24|-NONE- trillion|NN $|$ 35|CD trillion|CD </s>|S_END
+<s>|S_START it|PRP was|VBD sunk|NN by|IN a|DT loss|NN of|IN £8|-NONE- billion|CD or|CC 03|CD of|IN its|PRP$ asset|NN </s>|S_END
+<s>|S_START rbs|NNS and|CC its|PRP$ regulators|NNS had|VBD let|VBN the|DT simplest|JJS measure|NN of|IN balancesheet|NN strength|NN how|WRB much|JJ equity|NN it|PRP had|VBD compared|VBN with|IN its|PRP$ total|JJ assets|NNS fall|VBP below|IN 1|CD </s>|S_END
+<s>|S_START other|JJ lenders|NNS were|VBD in|IN similar|JJ position|NN </s>|S_END
+<s>|S_START in|IN response|NN regulators|NNS want|VBP banks|NNS to|TO hold|VB more|JJR capital|NN </s>|S_END
+<s>|S_START banks|NNS in|IN turn|NN warn|NN that|WDT new|JJ rules|NNS will|MD choke|VB credit|NN </s>|S_END
+<s>|S_START what|WP light|VBD can|MD history|NN shed|VBD on|IN the|DT debate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START equity|NN comes|VBZ with|IN benefits|NNS and|CC cost|VB </s>|S_END
+<s>|S_START tart|NN with|IN the|DT benefit|NN </s>|S_END
+<s>|S_START along|IN with|IN wholesale|JJ debt|NN and|CC deposits|NNS equity|NN is|VBZ one|CD of|IN banks’|NNP three|CD main|JJ sources|NNS of|IN fund|NN </s>|S_END
+<s>|S_START these|DT funds|NNS a|DT bank’s|JJ liabilities|NNS are|VBP channelled|VBN into|IN assets|NNS of|IN various|JJ type|NN </s>|S_END
+<s>|S_START but|CC assets|NNS are|VBP risky|JJ and|CC in|IN a|DT downturn|NN their|PRP$ value|NN can|MD fall|VB </s>|S_END
+<s>|S_START a|DT bank’s|JJ liabilities|NNS must|MD then|RB also|RB fall|VBP to|TO ensure|VB that|IN what|WP it|PRP is|VBZ owed|VBN and|CC what|WP it|PRP owes|VBZ add|JJ up|IN </s>|S_END
+<s>|S_START equity|NN is|VBZ the|DT balancing|NN item|NN taking|VBG the|DT hit|NN so|RB that|IN debt|NN and|CC deposits|NNS are|VBP shielded|VBN from|IN losse|NN </s>|S_END
+<s>|S_START as|IN a|DT bank’s|JJ equity|NN cushion|NN rises|NNS the|DT hit|NN that|IN it|PRP can|MD absorb|VB gets|NNS bigger|JJR too|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC shockabsorbing|VBG equity|NN comes|VBZ with|IN costs|NNS too|RB </s>|S_END
+<s>|S_START take|VB danish|JJ banks|NNS which|WDT had|VBD average|JJ capital|NN ratios|NNS of|IN 75|CD in|IN the|DT mid1800|NNP </s>|S_END
+<s>|S_START a|DT bank|NN like|IN this|DT funded|JJ mainly|RB by|IN equity|NN can|MD make|VB loans|NNS to|TO borrowers|NNS but|CC has|VBZ limited|VBN capacity|NN to|TO accept|VB deposit|NN </s>|S_END
+<s>|S_START turning|VBG shortterm|NN deposits|NNS into|IN longterm|NN loans|NNS is|VBZ one|CD of|IN the|DT main|JJ reasons|NNS banks|NNS exist|VBP enabling|VBG customers|NNS to|TO have|VB the|DT comfort|NN of|IN deposits|NNS that|WDT can|MD be|VB withdrawn|VBN at|IN any|DT time|NN together|RP with|IN the|DT certainty|NN of|IN mortgages|NNS that|WDT might|MD last|VB for|IN 25|CD year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB at|IN lower|JJR ratios|NNS capital|NN has|VBZ its|PRP$ cost|NN </s>|S_END
+<s>|S_START although|IN more|JJR equity|NN implies|NNS a|DT safer|NN bank|NN and|CC can|MD lower|VB debt|NN costs|NNS it|PRP still|RB tends|VBZ to|TO mean|VB a|DT higher|JJR overall|JJ cost|NN of|IN capital|NN </s>|S_END
+<s>|S_START the|DT tax|NN advantages|NNS of|IN debt|NN specifically|RB the|DT tax|NN deductibility|NN of|IN interest|NN payments|NNS can|MD also|RB cause|VB firms|NNS to|TO favour|VB debt|NN over|IN equity|NN financing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START capitalratio|NN decisions|NNS must|MD balance|VB these|DT costs|NNS and|CC benefit|NN </s>|S_END
+<s>|S_START until|IN regulated|VBN capital|NN ratios|NNS were|VBD introduced|VBN with|IN the|DT first|JJ set|NN of|IN basel|NN accords|NNS in|IN 1988|CD banks|NNS picked|VBD their|PRP$ own|JJ levels|NNS of|IN equity|NN </s>|S_END
+<s>|S_START over|IN time|NN they|PRP opted|VBD for|IN less|JJR and|CC le|NN </s>|S_END
+<s>|S_START in|IN a|DT 2005|CD paper|NN harald|NN benink|NN of|IN tilburg|NN university|NN and|CC george|NN benston|NN of|IN emory|NN university|NN tracked|VBD european|JJ banks’|NN equitytoassets|NNS ratio|VBP </s>|S_END
+<s>|S_START in|IN 1900|CD the|DT average|JJ across|NN six|CD european|JJ countries|NNS was|VBD 24|CD </s>|S_END
+<s>|S_START by|IN 1992|CD it|PRP had|VBD fallen|VBN to|TO just|RB over|IN 5|CD </s>|S_END
+<s>|S_START american|NN capital|NN ratios|NNS fell|VBD too|RB from|IN 55|CD in|IN 1840|CD to|TO about|IN 7|CD in|IN 1992|CD </s>|S_END
+<s>|S_START canada|NN saw|VBD similar|JJ trend|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT benign|NN reason|NN why|WRB banks|NNS thinned|VBN their|PRP$ capital|NN cushions|NNS was|VBD that|IN a|DT rush|NN of|IN bank|NN mergers|NNS meant|VBD banks|NNS became|VBD more|JJR diversified|JJ </s>|S_END
+<s>|S_START in|IN 1900|CD britain|NN had|VBD 188|CD banks|NNS and|CC canada|NN had|VBD 35|CD </s>|S_END
+<s>|S_START within|IN 25|CD years|NNS over|IN half|DT the|DT banks|NNS had|VBD disappeared|VBN in|IN both|DT countrie|NN </s>|S_END
+<s>|S_START the|DT enlarged|VBN banks|NNS spanned|VBN different|JJ regions|NNS and|CC were|VBD no|DT longer|NN exposed|VBN to|TO one|CD area|NN or|CC industry|NN </s>|S_END
+<s>|S_START forrest|NN capie|NN of|IN cass|NN business|NN school|NN and|CC mark|VB billings|NNS of|IN exeter|NN university|NN have|VBP mapped|VBN this|DT effect|NN in|IN britain|NN because|IN midland|NN bank|NN was|VBD large|JJ and|CC diversified|JJ for|IN example|NN it|PRP held|VBD less|JJR capital|NN than|IN martins|NNS a|DT bank|NN with|IN heavy|JJ exposure|NN to|TO liverpool’s|NNP households|NNS and|CC firm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT reason|NN banks’|NN capital|NN buffers|NNS dropped|VBD was|VBD less|JJR positive|JJ </s>|S_END
+<s>|S_START america’s|NNS banking|VBG landscape|NN is|VBZ still|RB crowded|VBN with|IN lenders|NNS but|CC it|PRP suffered|VBD a|DT wave|NN of|IN bank|NN failures|NNS following|VBG the|DT 1929|CD wall|NN street|NN crash|NN </s>|S_END
+<s>|S_START in|IN 1933|CD the|DT federal|JJ deposit|NN insurance|NN corporation|NN fdic|NN was|VBD set|VBN up|RP to|TO ensure|VB that|IN depositors|NNS were|VBD paid|VBN back|RB in|IN the|DT event|NN of|IN a|DT bank|NN failure|NN </s>|S_END
+<s>|S_START the|DT existence|NN of|IN the|DT fdic|JJ meant|NN that|WDT depositors’|-NONE- safety|NN was|VBD less|JJR closely|RB tied|VBN to|TO their|PRP$ bank’s|NNS capital|NN position|NN </s>|S_END
+<s>|S_START as|IN the|DT public|NN cushion|NN fattened|VBD the|DT private|JJ ones|NNS slimmed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START british|JJ banks|NNS between|IN 1920|CD and|CC 1970|CD provide|VB an|DT insight|NN into|IN what|WP happens|NNS when|WRB neither|DT consolidation|NN nor|CC safety|NN nets|NNS are|VBP at|IN work|NN </s>|S_END
+<s>|S_START the|DT merger|NN era|NN was|VBD over|IN the|DT big|JJ five|CD banks|NNS already|RB had|VBD 80|CD of|IN deposits|NNS by|IN 1920|CD </s>|S_END
+<s>|S_START deposit|NN insurance|NN did|VBD not|RB exist|VB so|RB the|DT banks|NNS relied|VBD on|IN their|PRP$ own|JJ capital|NN cushions|NNS to|TO protect|VB them|PRP from|IN unexpected|JJ hit|NN </s>|S_END
+<s>|S_START the|DT tax|NN treatment|NN of|IN debt|NN was|VBD relatively|RB stable|JJ </s>|S_END
+<s>|S_START the|DT banks’|NN capital|NN ratios|NNS were|VBD nonetheless|RB pushed|VBN down|RP by|IN two|CD force|NN </s>|S_END
+<s>|S_START the|DT second|JJ world|NN war|NN forced|VBD the|DT british|JJ government|NN to|TO borrow|VB heavily|RB issuing|VBG debt|NN that|IN the|DT banks|NNS bought|VBD inflating|VBG their|PRP$ asset|NN </s>|S_END
+<s>|S_START in|IN an|DT attempt|NN to|TO let|VB the|DT postwar|NN government|NN raise|NN finance|NN more|RBR easily|RB banks|NNS and|CC many|JJ other|JJ private|JJ firms|NNS were|VBD prohibited|VBN from|IN issuing|VBG fresh|JJ equity|NN </s>|S_END
+<s>|S_START with|IN assets|NNS up|IN and|CC equity|NN capped|VBD banks’|JJ published|VBN capital|NN ratios|NNS fell|VBD to|TO around|IN 25|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START man|NN bites|NNS dog|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT banks’|NN reaction|NN was|VBD an|DT unfamiliar|JJ one|CD by|IN modern|JJ standard|JJ </s>|S_END
+<s>|S_START they|PRP lobbied|VBD government|NN to|TO be|VB allowed|VBN to|TO issue|VB new|JJ equity|NN </s>|S_END
+<s>|S_START they|PRP retained|VBD earnings|NNS building|VBG up|RP secret|NN reserves|NNS mr|VBP capie|NN and|CC mr|NN billings|NNS show|VBP that|IN actual|JJ capital|NN was|VBD often|RB twice|NN the|DT level|NN of|IN published|JJ capital|NN </s>|S_END
+<s>|S_START adjusting|VBG for|IN this|DT their|PRP$ true|JJ capital|NN ratios|NNS were|VBD around|IN 5|CD on|IN average|JJ </s>|S_END
+<s>|S_START and|CC when|WRB the|DT equityissuance|NN restrictions|NNS were|VBD lifted|VBN in|IN 1959|CD the|DT big|JJ five|CD tapped|VBD the|DT market|NN within|IN a|DT year|NN </s>|S_END
+<s>|S_START in|IN the|DT absence|NN of|IN state|NN support|NN british|NN banks|NNS clearly|RB thought|VBD that|IN a|DT 5|CD equitytoassets|NNS ratio|IN was|VBD too|RB low|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN comparison|NN the|DT new|JJ basel|NN 3|CD capital|NN standards|NNS require|VBP a|DT “riskweighted”|NN commonequity|NN ratio|NN of|IN 7|CD </s>|S_END
+<s>|S_START this|DT translates|VBZ into|IN an|DT equitytoassets|NNS ratio|VBP of|IN perhaps|RB 35|CD lower|JJR than|IN the|DT banks|NNS themselves|PRP thought|VBD prudent|NN in|IN the|DT years|NNS before|IN basel|NN </s>|S_END
+<s>|S_START history|NN also|RB weakens|VBZ the|DT argument|NN that|IN the|DT new|JJ rules|NNS will|MD choke|VB credit|NN growth|NN </s>|S_END
+<s>|S_START although|IN it|PRP is|VBZ true|JJ that|IN the|DT years|NNS of|IN strongest|JJS credit|NN growth|NN before|IN basel|NN coincide|NN with|IN the|DT years|NNS of|IN lowest|JJS capital|NN see|NN chart|NN below|IN banks|NNS still|RB had|VBD more|JJR equity|NN than|IN basel|NN 3|CD require|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT highcapital|JJ years|NNS had|VBD decent|JJ credit|NN growth|NN too|RB </s>|S_END
+<s>|S_START between|IN 1880|CD and|CC 1914|CD the|DT average|JJ capital|NN ratio|NN in|IN britain|NN and|CC america|NN was|VBD 173|CD </s>|S_END
+<s>|S_START yet|RB in|IN that|DT period|NN bank|NN assets|NNS grew|VBD from|IN around|IN 30|CD of|IN gdp|NN to|TO 80|CD in|IN america|NN according|VBG to|TO a|DT new|JJ paper|NN by|IN moritz|NN schularick|NN of|IN the|DT free|JJ university|NN of|IN berlin|NN and|CC alan|NN taylor|NN of|IN the|DT university|NN of|IN virginia|NN </s>|S_END
+<s>|S_START in|IN britain|NN they|PRP went|VBD from|IN 31|CD to|TO 51|CD </s>|S_END
+<s>|S_START the|DT banks|NNS are|VBP right|RB that|IN equity|NN has|VBZ a|DT cost|NN but|CC the|DT new|JJ capital|NN framework|NN is|VBZ anything|NN but|RB excessive|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ource|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT future|NN of|IN banking|NN regulation|NN in|IN developed|JJ countries|NNS lessons|NNS from|IN and|CC for|IN europe|NN by|IN ha|NN </s>|S_END
+<s>|S_START benink|NN and|CC george|NN j|NN benston|NN 2005|CD financial|JJ markets|NNS institutions|NNS instruments|NNS vol|VBP </s>|S_END
+<s>|S_START 14|CD no|DT </s>|S_END
+<s>|S_START 5|LS pp|NN </s>|S_END
+<s>|S_START 289328|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT impact|NN of|IN consolidation|NN and|CC safetynet|NN support|NN on|IN canadian|JJ us|PRP and|CC uk|VB banks|NNS 18931992|CD by|IN a|DT saunders|NNS and|CC b|NN wilson|NN 1999|CD journal|JJ of|IN banking|NN and|CC finance|NN 23|CD pp|NN </s>|S_END
+<s>|S_START 537571|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT role|NN of|IN capital|NN in|IN financial|JJ institutions|NNS by|IN a|DT berger|NN r|NN herring|VBG and|CC g|NN szegö|NN 1995|CD journal|JJ of|IN banking|NN and|CC finance|NN pp|NN </s>|S_END
+<s>|S_START 393–430|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START credit|NN booms|NNS gone|NN bust|NN monetary|NN policy|NN leverage|NN cycles|NNS and|CC financial|JJ crises|NNS 18702008|CD by|IN moritz|NN schularick|NN and|CC alan|NN m|NN taylor|NN 2012|CD american|JJ economic|JJ review|NN 1022|CD 102961|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “capital|JJ in|IN british|JJ banking|NN 1920–1970”|CD by|IN mark|NN billings|NNS and|CC forrest|JJS capie|NN 2007|CD business|NN history|NN vol|NN </s>|S_END
+<s>|S_START 49|CD issue|NN 2|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogsfreeexchange|NN </s>|S_END
+</p>|P_END
+

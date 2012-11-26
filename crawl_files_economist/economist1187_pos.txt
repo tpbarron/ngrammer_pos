@@ -1,0 +1,218 @@
+<p>|P_START
+<s>|S_START in|IN an|DT average|JJ month|NN 108000|CD people|NNS are|VBP killed|VBN in|IN traffic|JJ accidents|NNS around|IN the|DT world|NN and|CC the|DT death|NN toll|NN is|VBZ increasing|VBG </s>|S_END
+<s>|S_START on|IN current|JJ trends|NNS it|PRP will|MD exceed|VB 150000|CD people|NNS a|DT month|NN by|IN 2020|CD according|VBG to|TO the|DT world|NN health|NN organisation|NN as|IN cars|NNS become|VBP more|RBR widespread|JJ in|IN developing|VBG countries|NNS increasing|VBG the|DT number|NN of|IN vehicles|NNS on|IN the|DT world’s|NNP roads|NNS from|IN around|IN 1|CD billion|CD in|IN 2010|CD to|TO 2|CD billion|CD </s>|S_END
+<s>|S_START many|JJ lives|NNS will|MD be|VB spared|VBN by|IN outfitting|NN more|JJR vehicles|NNS with|IN airbags|NNS the|DT biggest|JJS lifesavers|NNS in|IN car|NN technology|NN since|IN seat|NN belt|NN </s>|S_END
+<s>|S_START but|CC now|RB a|DT far|RB greater|JJR revolution|NN in|IN road|NN safety|NN is|VBZ within|IN reach|NN </s>|S_END
+<s>|S_START around|IN 90|CD of|IN accidents|NNS are|VBP caused|VBN by|IN human|NN error|NN </s>|S_END
+<s>|S_START design|NN vehicles|NNS so|RB that|IN they|PRP can|MD drive|VB themselves|PRP goes|VBZ the|DT theory|NN and|CC death|NN tolls|NNS will|MD plummet|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START driverless|NN cars|NNS would|MD provide|VB further|JJ benefits|NNS beyond|IN safety|NN </s>|S_END
+<s>|S_START they|PRP could|MD coordinate|VB their|PRP$ routes|NNS and|CC travel|NN in|IN close|NN formation|NN increasing|VBG the|DT capacity|NN of|IN road|NN networks|NNS reducing|VBG congestion|NN and|CC saving|VBG fuel|NN </s>|S_END
+<s>|S_START they|PRP would|MD be|VB able|JJ to|TO drop|VB someone|NN off|IN and|CC then|RB go|VB and|CC park|VB themselve|JJ </s>|S_END
+<s>|S_START they|PRP might|MD even|RB usher|VB in|IN an|DT era|NN of|IN widespread|JJ carsharing|NN with|IN vehicles|NNS dispatched|VBN on|IN demand|NN to|TO people|NNS who|WP need|VBP them|PRP rather|RB than|IN spending|NN most|RBS of|IN the|DT day|NN sitting|VBG idle|NN by|IN the|DT side|NN of|IN the|DT road|NN </s>|S_END
+<s>|S_START and|CC they|PRP would|MD of|IN course|NN do|VBP away|RB with|IN the|DT stress|NN of|IN driving|VBG allowing|NN their|PRP$ occupants|NNS to|TO read|VB browse|NN the|DT internet|NN or|CC take|VB a|DT nap|NN </s>|S_END
+<s>|S_START it|PRP may|MD sound|VB like|IN science|NN fiction|NN but|CC much|RB of|IN the|DT technology|NN needed|VBD to|TO turn|VB ordinary|JJ vehicles|NNS into|IN selfdriving|VBG ones|NNS already|RB exist|VBP </s>|S_END
+<s>|S_START indeed|RB almost|RB all|DT carmakers|NNS are|VBP developing|VBG sensors|NNS control|NN systems|NNS and|CC other|JJ equipment|NN that|IN turns|NNS cars|NNS in|IN effect|NN into|IN autonomous|JJ robot|NN </s>|S_END
+<s>|S_START prototypes|NNS are|VBP on|IN the|DT roads|NNS today|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thilo|NN koslowski|NN an|DT analyst|NN at|IN gartner|NN a|DT marketresearch|NN firm|NN predicts|NNS that|WDT such|JJ vehicles|NNS will|MD be|VB on|IN sale|NN within|IN eight|CD year|NN </s>|S_END
+<s>|S_START erik|NN coelingh|VBD a|DT senior|JJ engineer|NN for|IN “driver|JJ support”|NN systems|NNS at|IN volvo|NN a|DT swedish|JJ carmaker|NN reckons|NNS it|PRP will|MD take|VB at|IN least|JJS ten|NNS </s>|S_END
+<s>|S_START however|RB long|RB it|PRP takes|VBZ the|DT transition|NN will|MD be|VB gradual|JJ </s>|S_END
+<s>|S_START before|IN fully|RB autonomous|JJ vehicles|NNS arrive|JJ humans|NNS will|MD remain|VB behind|IN the|DT wheel|NN gradually|RB handing|VBG off|IN more|JJR and|CC more|JJR of|IN the|DT job|NN of|IN driving|VBG to|TO an|DT autopilot|NN </s>|S_END
+<s>|S_START owners|NNS of|IN cars|NNS with|IN advanced|JJ driverassistance|NN features|NNS have|VBP already|RB embarked|VBN on|IN this|DT transition|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START just|RB around|IN the|DT corner|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ince|NN the|DT late|JJ 1990s|CD some|DT cars|NNS have|VBP had|VBN the|DT option|NN of|IN “adaptive”|NNP cruise|NN control|NN that|WDT uses|VBZ a|DT radar|NN system|NN to|TO monitor|NN the|DT position|NN of|IN the|DT car|NN in|IN front|NN and|CC accelerates|VBZ or|CC brakes|NNS automatically|RB </s>|S_END
+<s>|S_START general|JJ motors|NNS america’s|-NONE- biggest|JJS carmaker|NN is|VBZ designing|VBG a|DT “super|JJ cruise”|NN option|NN that|WDT steers|NNS automatically|RB in|IN slow|JJ traffic|NN following|VBG lane|NN markers|NNS and|CC avoiding|VBG other|JJ vehicles|NNS says|VBZ jeremy|JJ salinger|NN of|IN gm|NN who|WP heads|NNS the|DT team|NN developing|VBG the|DT technology|NN </s>|S_END
+<s>|S_START ford|NN america’s|NNS secondlargest|VBP carmaker|NN is|VBZ developing|VBG something|NN similar|JJ called|VBN traffic|JJ jam|NN assist|NN </s>|S_END
+<s>|S_START bmw|NN plans|NNS to|TO launch|VB a|DT compact|NN electric|JJ car|NN the|DT i3|NNP that|IN can|MD do|VB this|DT trick|NN next|IN year|NN </s>|S_END
+<s>|S_START it|PRP will|MD cost|VB less|JJR than|IN €40000|-NONE- $|$ 50000|CD says|VBZ ralph|JJ huber|NN of|IN bmw|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START autonomous|JJ driving|NN in|IN slow|JJ traffic|NN is|VBZ a|DT logical|JJ combination|NN of|IN adaptive|JJ cruisecontrol|NN and|CC the|DT lanekeeping|NN systems|NNS already|RB available|JJ in|IN some|DT vehicles|NNS which|WDT either|DT warn|NN the|DT driver|NN if|IN the|DT car|NN starts|VBZ to|TO drift|VB out|RP of|IN lane|NN or|CC apply|RB corrective|JJ steering|NN to|TO keep|VB it|PRP in|IN lane|NN </s>|S_END
+<s>|S_START in|IN addition|NN a|DT growing|VBG number|NN of|IN car|NN models|NNS have|VBP the|DT option|NN of|IN selfparking|VBG system|NN </s>|S_END
+<s>|S_START the|DT job|NN of|IN the|DT driver|NN is|VBZ in|IN short|JJ slowly|RB being|VBG chipped|VBN away|RB </s>|S_END
+<s>|S_START the|DT industry|NN will|MD build|VB fully|RB autonomous|JJ cars|NNS says|VBZ mr|NN salinger|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT addition|NN of|IN autonomous|JJ control|NN need|NN not|RB add|VB much|JJ to|TO the|DT cost|NN </s>|S_END
+<s>|S_START an|DT extra|JJ $|$ 3000|CD or|CC so|RB should|MD cover|VB it|PRP mr|VB coelingh|JJ believe|NN </s>|S_END
+<s>|S_START and|CC there|EX is|VBZ evidence|NN that|IN drivers|NNS are|VBP prepared|VBN to|TO pay|VB for|IN addons|NNS that|WDT improve|VB safety|NN as|IN well|RB as|IN convenience|NN </s>|S_END
+<s>|S_START volvo|NN already|RB sells|VBZ a|DT popular|JJ driverassistance|NN option|NN called|VBN city|NN safety|NN for|IN around|IN $|$ 2000|CD for|IN example|NN </s>|S_END
+<s>|S_START it|PRP slams|VBZ on|IN the|DT brakes|NNS if|IN a|DT distancemeasuring|NN laser|NN or|CC camera|NN detects|NNS a|DT vehicle|NN or|CC pedestrian|JJ in|IN the|DT car’s|JJ path|NN </s>|S_END
+<s>|S_START city|NN safety|NN can|MD prevent|VB collisions|NNS completely|RB at|IN speeds|NNS of|IN up|IN to|TO 30kph|CD 18mph|CD and|CC at|IN higher|JJR speeds|NNS it|PRP softens|VBZ the|DT impact|NN </s>|S_END
+<s>|S_START a|DT similar|JJ braking|NN system|NN on|IN mercedesbenz|NN vehicles|NNS has|VBZ reduced|VBN insurance|NN claims|NNS for|IN bodily|RB injury|JJ by|IN roughly|RB a|DT sixth|JJ according|VBG to|TO the|DT highway|NN loss|NN data|NNS institute|VBP an|DT american|JJ research|NN group|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN adaptive|JJ cruise|NN controls|NNS selfparking|VBG options|NNS and|CC automatedbraking|VBG systems|NNS gradually|RB become|VB more|RBR capable|JJ and|CC widespread|JJ it|PRP is|VBZ not|RB a|DT big|JJ leap|NN to|TO full|JJ autonomous|JJ control|NN </s>|S_END
+<s>|S_START prototypes|NNS are|VBP starting|VBG to|TO move|VB off|RP test|NN tracks|NNS and|CC onto|IN real|JJ road|NN </s>|S_END
+<s>|S_START last|JJ year|NN bmw|IN sent|NN a|DT robotic|JJ car|NN at|IN motorway|NN speeds|NNS from|IN munich|JJ the|DT german|NN carmaker’s|VBZ hometown|VBN to|TO nuremberg|VB about|IN 170km|CD to|TO the|DT north|JJ </s>|S_END
+<s>|S_START a|DT professional|JJ driver|NN sat|NN behind|IN the|DT wheel|NN just|RB in|IN case|NN </s>|S_END
+<s>|S_START audi|NN part|NN of|IN the|DT volkswagen|NN group|NN caused|VBD a|DT stir|NN two|CD years|NNS ago|RB when|WRB it|PRP sent|VBD a|DT selfdriving|NN tts|NNS coupe|VBP through|IN 156|CD tight|JJ curves|NNS along|IN nearly|RB 20km|CD of|IN paved|JJ and|CC dirt|NN road|NN on|IN colorado’s|NNS pikes|VBZ peak|NN with|IN nobody|NN behind|IN the|DT wheel|NN </s>|S_END
+<s>|S_START modified|VBD with|IN help|NN from|IN roboticists|NNS at|IN stanford|NN university|NN the|DT car|NN travelled|VBD about|IN as|IN fast|JJ as|IN one|CD driven|CD by|IN an|DT average|JJ driver|NN </s>|S_END
+<s>|S_START peter|NN oel|NN head|NN of|IN volkswagen’s|JJ silicon|NN valley|NN electronics|NNS research|NN lab|NN says|VBZ his|PRP$ team|NN even|RB programmed|VBN the|DT car|NN named|VBD shelley|NN to|TO skid|VB its|PRP$ rear|JJ tyres|NNS on|IN tight|JJ corners|NNS a|DT trick|NN known|VBN as|IN “drifting”|NNP </s>|S_END
+<s>|S_START the|DT same|JJ car|NN recently|RB drove|VBD itself|PRP at|IN 190kph|CD on|IN a|DT racetrack|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START getting|VBG a|DT car|NN to|TO drive|VB along|IN an|DT open|JJ road|NN without|IN crashing|NN into|IN other|JJ vehicles|NNS is|VBZ one|CD thing|NN </s>|S_END
+<s>|S_START getting|VBG it|PRP to|TO handle|VB a|DT complete|JJ journey|NN on|IN its|PRP$ own—including|JJ navigating|NN junctions|NNS and|CC roundabouts|NNS responding|VBG appropriately|RB at|IN pedestrian|JJ crossings|NNS and|CC avoiding|VBG obstacles|NNS on|IN the|DT road—is|NNP rather|RB more|JJR difficult|JJ </s>|S_END
+<s>|S_START to|TO build|VB such|JJ a|DT machine|NN costs|VBZ around|IN $|$ 1m|CD for|IN the|DT car|NN kit|NN software|NN and|CC brainpower|NN says|VBZ jonathan|IN sprinkle|NN coleader|NN of|IN an|DT americanaustralian|JJ team|NN that|WDT entered|VBD a|DT driverless|NN vehicle|NN in|IN the|DT 2007|CD darpa|NN urban|NN challenge|NN a|DT roboticcar|NN contest|NN sponsored|VBD by|IN the|DT research|NN arm|NN of|IN the|DT american|JJ department|NN of|IN defence|NN </s>|S_END
+<s>|S_START because|IN modern|JJ engines|NNS drivetrains|VBZ and|CC brakes|VBZ already|RB receive|JJ their|PRP$ instructions|NNS via|IN electronic|JJ signals|NNS there|EX is|VBZ surprisingly|RB little|JJ need|NN for|IN additional|JJ mechanical|JJ part|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP is|VBZ needed|VBN however|RB is|VBZ an|DT array|NN of|IN extra|JJ sensors|NNS to|TO make|VB cars|NNS more|RBR aware|JJ of|IN their|PRP$ surrounding|NN </s>|S_END
+<s>|S_START mapping|VBG nearby|JJ features|NNS spotting|VBG road|NN edges|NNS and|CC lane|NN markings|NNS reading|VBG signs|NNS and|CC traffic|JJ lights|NNS and|CC identifying|VBG pedestrians|NNS is|VBZ done|VBN using|VBG a|DT combination|NN of|IN cameras|NNS radar|VBP and|CC lidar|NN which|WDT works|NNS like|IN radar|NN but|CC with|IN pulses|NNS of|IN light|JJ rather|RB than|IN radio|NN wave|NN </s>|S_END
+<s>|S_START ultrasonic|JJ detectors|NNS provide|VBP more|RBR accurate|JJ mapping|NN of|IN the|DT surroundings|NNS at|IN short|JJ range|NN for|IN example|NN when|WRB parking|NN </s>|S_END
+<s>|S_START gyroscopes|NNS accelerometers|NNS and|CC altimeters|NNS provide|VB more|RBR accurate|JJ positioning|NN than|IN is|VBZ possible|JJ using|VBG globalpositioning|NN system|NN gps|NNS satellites|VBZ alone|RB </s>|S_END
+<s>|S_START all|DT this|DT can|MD cost|VB $|$ 200000|CD for|IN an|DT experimental|JJ car|NN says|VBZ dr|NN sprinkle|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN spent|VBD roughly|RB that|IN much|RB fitting|VBG out|RP each|DT of|IN the|DT dozen|NN or|CC so|RB robotic|JJ vehicles|NNS it|PRP has|VBZ built|VBN by|IN modifying|NN american|JJ german|NN and|CC japanese|JJ car|NN </s>|S_END
+<s>|S_START eventually|RB fewer|JJR and|CC cheaper|JJR sensors|NNS should|MD do|VB the|DT trick|NN but|CC google|JJ and|CC other|JJ researchers|NNS are|VBP still|RB working|VBG out|RP how|WRB to|TO combine|VB readings|NNS from|IN multiple|JJ sensors|NNS and|CC determining|VBG which|WDT sensors|NNS work|VBP best|JJS in|IN conditions|NNS such|JJ as|IN night|NN driving|VBG or|CC heavy|JJ rain|NN </s>|S_END
+<s>|S_START o|NN far|RB the|DT internet|NN giant’s|VBZ fleet|NN has|VBZ collectively|RB clocked|VBN up|RP nearly|RB 500000km|CD under|IN autonomous|JJ control|NN on|IN both|DT test|NN tracks|NNS and|CC public|JJ roads|NNS including|VBG san|NN francisco’s|NNS lombard|VBP street|NN one|CD of|IN america’s|JJ steepest|NN and|CC most|JJS twisty|JJ roadway|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START teaching|NN computers|NNS to|TO drive|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START once|RB the|DT sensors|NNS and|CC activators|NNS are|VBP in|IN place|NN building|NN a|DT driverless|NN car|NN is|VBZ essentially|RB a|DT software|NN problem|NN </s>|S_END
+<s>|S_START google’s|NNS approach|VBP involves|NNS driving|VBG a|DT route|NN manually|RB with|IN all|DT the|DT sensors|NNS switched|VBD on|IN to|TO build|VB a|DT detailed|JJ 3d|JJ map|NN of|IN features|NNS such|JJ as|IN signs|NNS guardrails|NNS and|CC overpasses|NNS says|VBZ anthony|NN levandowski|NN project|NN leader|NN for|IN google’s|NNS selfdriving|VBG car|NN </s>|S_END
+<s>|S_START then|RB when|WRB the|DT autonomousdriving|NN mode|NN is|VBZ switched|VBN on|IN accompanied|VBN by|IN a|DT spaceship|NN soundeffect|NN the|DT software|NN can|MD predict|VB hazards|NNS with|IN reasonable|JJ accuracy|NN </s>|S_END
+<s>|S_START a|DT shaded|VBN bridge|NN in|IN a|DT damp|NN valley|NN for|IN example|NN may|MD be|VB icy|NN until|IN noon|NN if|IN the|DT nighttime|NN temperature|NN drops|NNS below|IN a|DT certain|JJ point|NN </s>|S_END
+<s>|S_START each|DT time|NN a|DT car|NN follows|VBZ a|DT particular|JJ route|NN it|PRP collects|VBZ more|JJR data|NNS </s>|S_END
+<s>|S_START google’s|NNS software|VBP also|RB ingests|VBZ data|NNS on|IN speed|NN limits|NNS and|CC recorded|VBD accident|NN </s>|S_END
+<s>|S_START because|IN the|DT car’s|NNP roofmounted|VBD sensors|NNS can|MD see|VB in|IN all|DT directions|NNS it|PRP arguably|RB has|VBZ greater|JJR situational|JJ awareness|NN than|IN a|DT human|JJ driver|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD area|NN where|WRB humans|NNS are|VBP still|RB clearly|RB superior|JJ however|RB is|VBZ in|IN judging|NN an|DT object’s|JJ material|NN or|CC weight|NN </s>|S_END
+<s>|S_START unable|JJ to|TO tell|VB the|DT difference|NN between|IN a|DT chunk|NN of|IN mattress|NN and|CC a|DT block|NN of|IN steel|NN on|IN the|DT carriageway|NN a|DT selfdriving|NN vehicle|NN might|MD brake|VB harder|NN than|IN would|MD be|VB wise|RB says|VBZ sebastian|JJ thrun|NN a|DT stanford|NN university|NN roboticist|NN who|WP led|VBN the|DT development|NN of|IN google’s|NNS driverless|IN car|NN </s>|S_END
+<s>|S_START imilarly|RB a|DT carpet|NN of|IN leaves|NNS or|CC snow|VB might|MD lead|VB a|DT robotic|JJ car|NN to|TO miscalculate|VB the|DT position|NN of|IN the|DT road’s|JJ edge|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC as|IN driverless|NN cars|NNS clock|NN up|RB more|RBR miles|NNS solutions|NNS are|VBP being|VBG worked|VBN out|RP </s>|S_END
+<s>|S_START to|TO evaluate|VB the|DT danger|NN posed|VBD by|IN an|DT object|JJ on|IN the|DT road|NN google’s|VBZ software|NN takes|VBZ into|IN account|NN the|DT behaviour|NN of|IN other|JJ vehicle|NN </s>|S_END
+<s>|S_START if|IN other|JJ cars|NNS do|VBP not|RB swerve|VB or|CC brake|VB to|TO avoid|VB it|PRP it|PRP is|VBZ more|RBR likely|JJ to|TO be|VB a|DT plastic|JJ bag|NN than|IN a|DT rock|NN </s>|S_END
+<s>|S_START “fusing”|NN data|NNS from|IN various|JJ types|NNS of|IN sensors|NNS can|MD also|RB remove|VB uncertainty|NN </s>|S_END
+<s>|S_START to|TO judge|VB distances|NNS for|IN example|NN radar|NN or|CC lidar|NN sensors|NNS in|IN the|DT front|NN bumpers|NNS can|MD be|VB supplemented|VBN by|IN video|NN camera|NN </s>|S_END
+<s>|S_START infrared|VBD sensors|NNS can|MD pick|VB up|RP the|DT heat|NN signature|NN of|IN a|DT human|JJ obscured|VBN by|IN fog|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP is|VBZ even|RB possible|JJ to|TO make|VB judgments|NNS about|IN the|DT mental|JJ or|CC physical|JJ state|NN of|IN other|JJ driver|NN </s>|S_END
+<s>|S_START oftware|NN developed|VBD by|IN probayes|NNS a|DT firm|NN based|VBN near|IN grenoble|JJ in|IN france|NN identifies|NNS and|CC then|RB steers|NNS clear|VBP of|IN drivers|NNS who|WP are|VBP angry|JJ drowsy|NN tipsy|NN or|CC aggressive|JJ </s>|S_END
+<s>|S_START upset|NN drivers|NNS tend|VBP to|TO speed|VB up|RP and|CC brake|VB quickly|RB </s>|S_END
+<s>|S_START leepy|NN drivers|NNS tend|VBP to|TO drift|VB off|RP course|NN gradually|RB and|CC veer|NN back|RB sharply|RB </s>|S_END
+<s>|S_START drunk|NN drivers|NNS struggle|VBP to|TO keep|VB a|DT straight|JJ line|NN </s>|S_END
+<s>|S_START the|DT firm|NN sells|VBZ its|PRP$ software|NN to|TO toyota|VB japan’s|JJ car|NN giant|NN </s>|S_END
+<s>|S_START google’s|NNS cars|NNS have|VBP even|RB been|VBN programmed|VBN to|TO behave|VB appropriately|RB at|IN junctions|NNS such|JJ as|IN fourway|NN stops|NNS edging|VBG forward|RB cautiously|RB to|TO signal|VB their|PRP$ intentions|NNS and|CC stopping|VBG quickly|RB if|IN another|DT driver|NN moves|VBZ out|RP of|IN turn|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START o|NN far|RB google’s|JJ vehicles|NNS have|VBP not|RB been|VBN involved|VBN in|IN a|DT single|JJ accident|NN while|IN under|IN computer|NN control|NN although|IN a|DT google|NN car|NN crashed|VBD into|IN the|DT back|NN of|IN another|DT car|NN in|IN 2011|CD it|PRP was|VBD being|VBG driven|VBN by|IN a|DT human|JJ at|IN the|DT time|NN </s>|S_END
+<s>|S_START the|DT company|NN says|VBZ its|PRP$ cars|NNS have|VBP yet|RB to|TO master|VB snowcovered|VBN roads|NNS or|CC reading|VBG temporary|JJ signs|NNS and|CC signals|NNS around|IN roadwork|NN </s>|S_END
+<s>|S_START a|DT telling|NN sign|NN of|IN progress|NN however|RB is|VBZ that|IN google|JJ researchers|NNS have|VBP recently|RB started|VBN using|VBG the|DT cars|NNS solo|VBP rather|RB than|IN in|IN pair|NN </s>|S_END
+<s>|S_START this|DT lets|NNS individual|VBP researchers|NNS commute|VBP to|TO work|VB in|IN their|PRP$ autonomous|JJ car|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT road|NN ahead|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START autonomous|JJ vehicles|NNS for|IN individuals|NNS may|MD still|RB be|VB a|DT few|JJ years|NNS away|RB but|CC they|PRP are|VBP already|RB being|VBG used|VBN in|IN industry|NN </s>|S_END
+<s>|S_START late|RB last|JJ year|NN rio|IN tinto|IN an|DT angloaustralian|JJ mining|NN giant|NN decided|VBD to|TO increase|VB its|PRP$ fleet|NN of|IN selfdriving|VBG trucks|NNS which|WDT haul|JJ iron|NN ore|NN from|IN ten|CD to|TO 150|CD vehicles|NNS within|IN four|CD year|NN </s>|S_END
+<s>|S_START manufactured|VBD by|IN a|DT subsidiary|NN of|IN komatsu|NN a|DT japanese|JJ firm|NN each|DT truck|NN is|VBZ the|DT size|NN of|IN a|DT threestorey|NN house|NN and|CC uses|NNS satellite|VBP positioning|VBG to|TO carry|VB nearly|RB 300|CD tonnes|NNS of|IN ore|JJR along|IN predefined|VBN route|NN </s>|S_END
+<s>|S_START an|DT accident|NN then|RB could|MD be|VB very|RB nasty|JJ indeed|RB </s>|S_END
+<s>|S_START but|CC james|VBZ petty|JJ head|NN of|IN rio|NN tinto’s|NNS robotictrucks|NNS programme|VBP says|VBZ the|DT trucks’|NNP emergencybraking|NN and|CC evasiveaction|NN systems|NNS have|VBP not|RB been|VBN triggered|VBN once|RB since|IN the|DT technology|NN was|VBD introduced|VBN in|IN 2008|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD reason|NN is|VBZ that|IN as|IN well|RB as|IN using|VBG the|DT usual|JJ plethora|NN of|IN sensors|NNS the|DT trucks|NNS inform|NN each|DT other|JJ of|IN their|PRP$ position|NN and|CC speed|VBD using|VBG “vehicle|JJ to|TO vehicle”|NNP v2v|NNP wireless|NN links|VBZ so|RB that|IN they|PRP can|MD for|IN example|NN coordinate|NN their|PRP$ actions|NNS at|IN junction|NN </s>|S_END
+<s>|S_START human|NN truckdrivers|NNS by|IN contrast|NN regularly|RB have|VBP to|TO take|VB evasive|JJ action|NN </s>|S_END
+<s>|S_START they|PRP also|RB demand|VBP salaries|NNS of|IN around|IN a|DT $|$ 100000|CD $|$ 100000|CD to|TO work|VB in|IN the|DT remote|NN pilbara|NN region|NN of|IN western|JJ australia|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START initially|RB driverless|VBP vehicles|NNS will|MD be|VB in|IN a|DT minority|NN but|CC eventually|RB it|PRP may|MD make|VB sense|NN to|TO redesign|VB road|NN networks|NNS around|IN them|PRP </s>|S_END
+<s>|S_START using|VBG v2v|NNP communication|NN for|IN example|NN driverless|NN cars|NNS approaching|VBG a|DT junction|NN could|MD coordinate|VB their|PRP$ movements|NNS to|TO keep|VB traffic|JJ flowing|NN smoothly|RB rather|RB than|IN having|VBG to|TO stop|VB and|CC take|VB turn|NN </s>|S_END
+<s>|S_START traffic|JJ lights|NNS and|CC road|VB signs|NNS would|MD no|RB longer|RBR be|VB needed|VBN </s>|S_END
+<s>|S_START v2v|NNP would|MD also|RB allow|VB vehicles|NNS to|TO travel|NN together|RB in|IN platoons|NNS or|CC “road|JJ trains”|NN making|VBG more|JJR efficient|JJ use|NN of|IN road|NN capacity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT consortium|NN of|IN european|JJ companies|NNS has|VBZ tested|VBN fivevehicle|NN platoons|NNS in|IN which|WDT the|DT lead|NN vehicle|NN is|VBZ controlled|VBN by|IN a|DT human|JJ driver|NN and|CC the|DT other|JJ four|CD travel|NN close|NN behind|IN it|PRP under|IN autonomous|JJ control|NN </s>|S_END
+<s>|S_START trials|NNS including|VBG a|DT 200km|CD trip|NN on|IN a|DT motorway|NN near|IN barcelona|NN in|IN may|MD have|VB found|VBN that|IN platooning|NN cuts|NNS fuel|NN consumption|NN by|IN about|RB 15|CD because|IN each|DT vehicle|NN apart|NN from|IN the|DT lead|NN vehicle|NN travels|NNS in|IN the|DT slipstream|NN of|IN the|DT one|CD in|IN front|NN </s>|S_END
+<s>|S_START passengers|NNS find|VBP the|DT proximity|NN unnerving|VBG at|IN first|JJ but|CC they|PRP quickly|RB get|VB used|VBN to|TO it|PRP says|VBZ eric|JJ chan|NN of|IN ricardo|NN the|DT british|JJ technology|NN firm|NN leading|VBG the|DT project|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START clearly|RB a|DT shift|NN towards|NNS driverless|NN cars|NNS would|MD completely|RB transform|VB the|DT experience|NN of|IN road|NN travel|NN </s>|S_END
+<s>|S_START but|CC there|EX would|MD be|VB further|RB knockon|VB effects|NNS beyond|IN the|DT car|NN itself|PRP </s>|S_END
+<s>|S_START elfdriving|VBG vehicles|NNS would|MD keep|VB the|DT growing|VBG numbers|NNS of|IN elderly|RB people|NNS in|IN ageing|VBG societies|NNS mobile|JJ for|IN longer|NN for|IN example|NN </s>|S_END
+<s>|S_START the|DT design|NN of|IN cars|NNS would|MD undoubtedly|RB change|VB if|IN the|DT controls|NNS are|VBP rarely|RB needed|VBN steering|VBG wheels|NNS and|CC pedals|NNS will|MD vanish|VB and|CC cars|NNS will|MD be|VB built|VBN instead|RB for|IN comfort|NN perhaps|RB with|IN a|DT playstationlike|NN controller|NN that|WDT pops|VBZ out|RP on|IN the|DT rare|NN occasions|NNS when|WRB manual|JJ control|NN is|VBZ needed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT nature|NN of|IN car|NN ownership|NN could|MD be|VB transformed|VBN </s>|S_END
+<s>|S_START why|WRB own|JJ a|DT car|NN outright|NN if|IN you|PRP can|MD rent|VB or|CC share|VB more|RBR cheaply|RB summoning|VBG a|DT nearby|JJ vehicle|NN with|IN your|PRP$ smartphone|NN </s>|S_END
+<s>|S_START you|PRP could|MD be|VB picked|VBN up|RP by|IN a|DT vehicle|NN while|IN its|PRP$ owner|NN works|NNS or|CC sleeps|NNS says|VBZ sebastian|JJ ballweg|NN cofounder|NN of|IN autonetzer|NN a|DT german|NN “carsharing”|NN broker|NN of|IN hourly|RB or|CC daily|RB rentals|NNS between|IN private|JJ individual|JJ </s>|S_END
+<s>|S_START ome|NN people|NNS regard|VBP their|PRP$ choice|NN of|IN car|NN as|IN an|DT important|JJ means|NNS of|IN social|JJ signalling|NN but|CC fractional|JJ or|CC shared|VBN ownership|NN might|MD be|VB cheaper|JJR and|CC more|JJR convenient|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT rise|NN of|IN driverless|NN cars|NNS would|MD also|RB affect|VB the|DT planning|NN and|CC layout|IN of|IN citie|NN </s>|S_END
+<s>|S_START assuming|VBG that|DT autonomous|JJ vehicles|NNS make|VBP journeys|NNS quicker|NN and|CC use|VBP road|NN space|NN more|RBR efficiently|RB how|WRB should|MD planners|NNS exploit|VB the|DT benefits|NNS of|IN automation|NN </s>|S_END
+<s>|S_START on|IN the|DT one|CD hand|NN it|PRP would|MD allow|VB cities|NNS to|TO get|VB bigger|JJR by|IN reducing|NN the|DT time|NN and|CC stress|NN associated|VBD with|IN commuting|NN </s>|S_END
+<s>|S_START on|IN the|DT other|JJ it|PRP could|MD allow|VB cities|NNS to|TO become|VB denser|NN by|IN reducing|NN the|DT amount|NN of|IN space|NN that|IN needs|VBZ to|TO be|VB dedicated|VBN to|TO roads|NNS and|CC parking|VBG </s>|S_END
+<s>|S_START alternatively|RB space|VBP allocated|VBN to|TO roads|NNS in|IN city|NN centres|NNS could|MD be|VB used|VBN for|IN bike|NN lanes|NNS or|CC park|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN driverless|NN vehicles|NNS are|VBP to|TO become|VB commonplace|NN several|JJ problems|NNS must|MD be|VB solved|VBN aside|NN from|IN working|VBG out|IN how|WRB to|TO build|VB them|PRP in|IN the|DT first|JJ place|NN </s>|S_END
+<s>|S_START appropriate|NN regulation|NN will|MD be|VB needed|VBN to|TO ensure|VB safety|NN and|CC reassure|NN other|JJ road|NN user|NN </s>|S_END
+<s>|S_START in|IN america|NN nevada|NN has|VBZ taken|VBN the|DT lead|NN in|IN this|DT regard|NN </s>|S_END
+<s>|S_START in|IN may|MD the|DT state’s|NNS department|NN of|IN motor|NN vehicles|NNS dmv|VBP based|VBN in|IN carson|NN city|NN issued|VBD its|PRP$ first|JJ three|CD autonomousvehicle|NN licences|NNS to|TO google|VB </s>|S_END
+<s>|S_START applications|NNS from|IN two|CD other|JJ firms|NNS are|VBP expected|VBN soon|RB </s>|S_END
+<s>|S_START licences|NNS are|VBP issued|VBN on|IN condition|NN that|IN applicants|NNS post|VBP a|DT $|$ 1m|CD bond|NN </s>|S_END
+<s>|S_START this|DT is|VBZ intended|VBN to|TO prevent|VB tinkerers|NNS from|IN “building|JJ a|DT little|RB project|NN in|IN their|PRP$ garage|NN and|CC jumping|VBG on|IN the|DT road”|NNP and|CC causing|VBG an|DT accident|NN says|VBZ bruce|NN breslow|NN the|DT head|NN of|IN nevada’s|JJ dmv|NN </s>|S_END
+<s>|S_START the|DT state|NN also|RB requires|VBZ that|IN robotic|JJ vehicles|NNS have|VBP “black|JJ boxes”|NN that|WDT store|NN the|DT previous|JJ 30|CD seconds|NNS of|IN camera|NN footage|NN and|CC sensor|NN data|NNS to|TO establish|VB who|WP or|CC what|WP is|VBZ at|IN fault|NN in|IN the|DT event|NN of|IN an|DT accident|NN </s>|S_END
+<s>|S_START other|JJ states|NNS are|VBP passing|VBG similar|JJ law|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP additional|JJ worrie|NN </s>|S_END
+<s>|S_START vehiclecontrol|NN software|NN remains|VBZ “fairly|JJ hackable”|NN says|VBZ david|JJ zuby|NN chief|NN researcher|NN at|IN the|DT insurance|NN institute|NN for|IN highway|NN safety|NN an|DT american|JJ industry|NN body|NN </s>|S_END
+<s>|S_START unless|IN protocols|NNS for|IN vehicletovehicle|NN communication|NN are|VBP robust|RB and|CC secure|NN attackers|NNS could|MD cause|VB chaos|NNS by|IN making|VBG cars|NNS crash|NN into|IN each|DT other|JJ </s>|S_END
+<s>|S_START john|NN simpson|NN a|DT privacy|NN advocate|NN at|IN consumer|NN watchdog|NN a|DT california|NN lobby|NN group|NN is|VBZ concerned|VBN that|IN google|JJ is|VBZ not|RB so|RB much|RB teaching|VBG computers|NNS to|TO drive|VB as|IN it|PRP is|VBZ pioneering|VBG a|DT nightmarish|JJ form|NN of|IN advertising|NN </s>|S_END
+<s>|S_START google|NN might|MD be|VB tempted|VBN for|IN a|DT fee|NN to|TO favour|PRP$ routes|NNS that|WDT lead|NN past|NN its|PRP$ advertiser|NN </s>|S_END
+<s>|S_START he|PRP presented|VBD his|PRP$ case|NN in|IN june|NN in|IN testimony|NN to|TO the|DT transportation|NN committee|NN of|IN california’s|NNS state|VBP assembly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC although|IN driverless|NN cars|NNS can|MD be|VB expected|VBN to|TO reduce|VB the|DT number|NN of|IN accidents|NNS and|CC road|VB deaths|NNS they|PRP will|MD not|RB eliminate|VB them|PRP altogether|RB </s>|S_END
+<s>|S_START it|PRP is|VBZ only|RB a|DT matter|NN of|IN time|NN before|IN the|DT maker|NN of|IN an|DT autonomous|JJ vehicle|NN is|VBZ sued|VBN for|IN unleashing|NN a|DT killer|NN robot|NN says|VBZ michael|NN toscano|RB head|NN of|IN the|DT association|NN for|IN unmanned|VBN vehicle|NN systems|NNS international|JJ an|DT industry|NN body|NN in|IN arlington|NN virginia|NN </s>|S_END
+<s>|S_START but|CC if|IN selfdriving|VBG cars|NNS really|RB are|VBP safer|RB than|IN cars|NNS driven|VBN by|IN humans|NNS the|DT law|NN could|MD work|VB in|IN their|PRP$ favour|NN too|RB </s>|S_END
+<s>|S_START ome|NN cities|NNS might|MD ban|VB manual|JJ driving|VBG to|TO save|VB lives|NNS and|CC ease|VB congestion|NN </s>|S_END
+<s>|S_START there|EX is|VBZ no|DT doubt|NN that|IN selfdriving|VBG cars|NNS are|VBP coming|VBG </s>|S_END
+<s>|S_START it|PRP is|VBZ less|JJR clear|JJ where|WRB they|PRP will|MD take|VB u|NN </s>|S_END
+</p>|P_END
+

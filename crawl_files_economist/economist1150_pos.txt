@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 31|CD gdp|NN $|$ 307bn|CD ppp|CD $|$ 384bn|CD inflation|NN 306|CD population|NN 296m|CD gdp|NN per|IN head|NN $|$ 10360|CD ppp|CD $|$ 12940|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hugo|IN chávez|JJ the|DT populist|NN president|NN is|VBZ fighting|VBG cancer|NN and|CC the|DT countrys|NNS prospects|VBZ hang|JJ on|IN the|DT outcome|NN </s>|S_END
+<s>|S_START if|IN he|PRP can|MD see|VB out|RP his|PRP$ term|NN to|TO 2013|CD or|CC win|IN a|DT new|JJ one|CD in|IN elections|NNS in|IN 2012|CD a|DT further|JJ period|NN of|IN subpar|NN growth|NN looms|NNS as|IN the|DT government|NN spends|NNS oil|NN revenue|NN on|IN pet|NN projects|NNS and|CC intervenes|NNS in|IN all|DT corners|NNS of|IN the|DT market|NN </s>|S_END
+<s>|S_START if|IN he|PRP succumbs|VBZ weak|JJ institutions|NNS will|MD find|VB it|PRP hard|RB to|TO contain|VB the|DT animosity|NN separating|VBG his|PRP$ supporters|NNS and|CC his|PRP$ enemies|NNS and|CC the|DT contest|NN to|TO fill|VB the|DT vacuum|NN may|MD turn|VB violent|NN </s>|S_END
+</p>|P_END
+

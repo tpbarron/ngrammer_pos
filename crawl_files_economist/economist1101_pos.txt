@@ -1,0 +1,56 @@
+<p>|P_START
+<s>|S_START it|PRP was|VBD disgustingly|RB hot|JJ in|IN san|NN francisco|NN as|IN october|NN began|VBD </s>|S_END
+<s>|S_START the|DT sun|NN blazed|VBD and|CC the|DT thick|NN fog|NN that|WDT often|RB sweeps|VBZ into|IN the|DT city|NN in|IN the|DT evening|NN was|VBD nowhere|RB to|TO be|VB seen|VBN </s>|S_END
+<s>|S_START the|DT only|JJ clouds|NNS that|WDT mattered|VBN were|VBD digital|JJ </s>|S_END
+<s>|S_START larry|NN ellison|NN the|DT boss|NN of|IN oracle|NN boasted|VBN about|IN some|DT new|JJ cloudbased|VBN initiatives|NNS at|IN openworld|NN the|DT software|NN company’s|VBZ annual|JJ jamboree|NN for|IN customers|NNS and|CC partner|NN </s>|S_END
+<s>|S_START and|CC on|IN october|NN 1st|CD workday|NN a|DT young|JJ californian|NN firm|NN selling|VBG cloudbased|VBN software|NN that|IN helps|NNS large|JJ companies|NNS manage|NN backoffice|NN functions|NNS such|JJ as|IN finance|NN and|CC payroll|NN revealed|VBD that|IN it|PRP was|VBD aiming|VBG for|IN a|DT valuation|NN of|IN up|IN to|TO $|$ 38|CD billion|CD in|IN a|DT forthcoming|JJ initial|JJ public|JJ offering|NN ipo|NN on|IN the|DT new|JJ york|NN stock|NN exchange|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN it|PRP achieves|VBZ it|PRP workday|NN will|MD become|VB the|DT latest|JJS example|NN of|IN a|DT trend|NN that|WDT is|VBZ transforming|VBG corporate|JJ computing|NN </s>|S_END
+<s>|S_START pioneered|VBD by|IN salesforcecom|NN a|DT 13yearold|JJ san|NN francisco|NN company|NN this|DT is|VBZ the|DT delivery|NN of|IN software|NN on|IN demand|NN via|IN the|DT internet|NN rather|RB than|IN as|IN a|DT prepackaged|JJ offering|NN hosted|VBD on|IN a|DT firm’s|JJ own|NN computer|NN </s>|S_END
+<s>|S_START over|IN the|DT past|JJ few|JJ years|NNS cloud|VBP companies|NNS such|JJ as|IN workday|NN have|VBP been|VBN overshadowed|VBN by|IN facebook|NN zynga|NN and|CC other|JJ consumerfocused|VBN web|NN startup|NN </s>|S_END
+<s>|S_START but|CC as|IN these|DT firms|NNS and|CC their|PRP$ share|NN prices|NNS have|VBP fallen|VBN like|IN icarus|NN in|IN a|DT hoodie|NN businesssoftware|NN companies|NNS have|VBP been|VBN enjoying|VBG plenty|NN of|IN attention|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN july|RB yammer|NN which|WDT makes|VBZ socialnetworking|VBG software|NN for|IN companies|NNS was|VBD snapped|VBN up|RP by|IN microsoft|NN for|IN $|$ 12|CD billion|CD </s>|S_END
+<s>|S_START the|DT same|JJ month|NN box|NN an|DT onlinecontent|NN sharing|VBG and|CC storage|NN service|NN raised|VBD $|$ 125m|CD of|IN venture|NN capital|NN at|IN a|DT yammersize|NN valuation|NN </s>|S_END
+<s>|S_START and|CC palo|VBD alto|NN networks|NNS which|WDT makes|VBZ networksecurity|NN software|NN floated|VBD on|IN the|DT stockmarket|NN and|CC has|VBZ since|IN seen|VBN its|PRP$ share|NN price|NN rise|NN from|IN $|$ 42|CD to|TO over|IN $|$ 65|CD giving|VBG it|PRP a|DT market|NN capitalisation|NN of|IN $|$ 44|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START workday|NN has|VBZ set|VBN investors’|-NONE- pulses|VBZ racing|VBG too|RB not|RB least|JJS because|IN of|IN its|PRP$ cofounders’|JJ pedigree|NN </s>|S_END
+<s>|S_START dave|NN duffield|VBD is|VBZ a|DT serial|JJ entrepreneur|NN and|CC the|DT creator|NN of|IN peoplesoft|NN a|DT successful|JJ businesssoftware|NN firm|NN swallowed|VBD by|IN oracle|NN in|IN 2004|CD after|IN a|DT hostile|NN bid|NN </s>|S_END
+<s>|S_START his|PRP$ fellow|JJ founder|NN aneel|NN bhusri|NN is|VBZ a|DT former|JJ peoplesoft|NN executive|NN </s>|S_END
+<s>|S_START workday|NN which|WDT was|VBD set|VBN up|RP in|IN 2005|CD now|RB has|VBZ over|IN 325|CD customers|NNS including|VBG lenovo|NN a|DT chinese|NN computermaker|NN and|CC four|CD seasons|NNS a|DT hotel|NN group|NN </s>|S_END
+<s>|S_START its|PRP$ revenues|NNS almost|RB doubled|VBD to|TO $|$ 134m|CD in|IN its|PRP$ latest|JJS fiscal|JJ year|NN which|WDT ended|VBD on|IN january|JJ 31st|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uch|JJ growth|NN is|VBZ impressive|JJ though|IN workday’s|JJ ipo|NN filing|NN makes|VBZ clear|JJ it|PRP is|VBZ still|RB losing|VBG plenty|NN of|IN money|NN $|$ 47m|CD in|IN the|DT six|CD months|NNS to|TO july|RB on|IN revenues|NNS of|IN $|$ 120m|CD and|CC is|VBZ unlikely|RB to|TO be|VB profitable|JJ “for|JJ the|DT foreseeable|JJ future”|NN </s>|S_END
+<s>|S_START that|DT will|MD not|RB deter|VB investors|NNS who|WP believe|VBP cloud|VBP startups|NNS have|VBP several|JJ big|JJ advantages|NNS over|IN rival|NN </s>|S_END
+<s>|S_START for|IN one|CD thing|NN they|PRP typically|RB charge|VBP a|DT simple|JJ subscription|NN fee|NN per|IN user|NN making|VBG the|DT cost|NN of|IN information|NN technology|NN easier|JJR to|TO see|VB and|CC manage|NN </s>|S_END
+<s>|S_START for|IN another|DT cloud|NN offerings|NNS are|VBP easily|RB upgraded|VBN and|CC are|VBP tailormade|VBN for|IN a|DT mobile|JJ workforce|NN </s>|S_END
+<s>|S_START “the|DT vast|JJ majority|NN of|IN legacy|NN services|NNS don’t|JJ support|NN this|DT new|JJ way|NN of|IN working”|NNP explains|VBZ aaron|NN levie|NN the|DT affable|JJ boss|NN of|IN box|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN a|DT long|JJ time|NN oracle’s|NNS mr|VBP ellison|NN poohpoohed|VBD the|DT notion|NN that|IN the|DT cloud|NN would|MD transform|VB the|DT industry|NN dominated|VBD by|IN his|PRP$ firm|NN and|CC sap|NN of|IN germany|NN </s>|S_END
+<s>|S_START but|CC this|DT week|NN coaches|VBZ plastered|VBN with|IN ads|NNS promoting|VBG “the|JJ oracle|NN cloud”|NN could|MD be|VB seen|VBN weaving|VBG through|IN san|JJ francisco’s|NNS street|VBP </s>|S_END
+<s>|S_START the|DT company|NN has|VBZ developed|VBN numerous|JJ applications|NNS that|WDT can|MD be|VB delivered|VBN over|RP the|DT web|NN and|CC has|VBZ splashed|VBN out|RP on|IN firms|NNS such|JJ as|IN taleo|NN a|DT competitor|NN of|IN workday’s|JJ which|WDT it|PRP bought|VBD in|IN february|JJ for|IN $|$ 19|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN his|PRP$ speeches|NNS this|DT week|NN mr|NN ellison|NN revealed|VBD that|IN oracle|NN was|VBD reinforcing|VBG its|PRP$ cloud|NN portfolio|NN by|IN for|IN instance|NN offering|NN computing|VBG capacity|NN that|IN firms|NNS can|MD rent|VB for|IN their|PRP$ own|JJ needs|NNS and|CC by|IN creating|NN “private|JJ clouds”|NN that|WDT sit|NN behind|IN a|DT company’s|JJ firewall|NN but|CC whose|WP$ hardware|NN and|CC software|NN are|VBP managed|VBN by|IN oracle|NN </s>|S_END
+<s>|S_START these|DT could|MD appeal|VB to|TO banks|NNS and|CC others|NNS that|WDT need|VBP tight|MD safeguards|NNS on|IN data|NNS for|IN regulatory|JJ reason|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN are|VBP impressed|VBN by|IN oracle’s|NNP move|NN </s>|S_END
+<s>|S_START “the|DT turnaround|NN the|DT firm|NN has|VBZ made|VBN in|IN terms|NNS of|IN the|DT cloud|NN in|IN the|DT past|JJ couple|NN of|IN years|NNS is|VBZ remarkable”|JJ says|NNS paul|JJ hamerman|NN of|IN forrester|NN a|DT research|NN firm|NN </s>|S_END
+<s>|S_START but|CC mr|PRP$ duffield|NN will|MD be|VB keen|VBN to|TO show|VB that|IN oracle|NN is|VBZ not|RB invincible|JJ </s>|S_END
+<s>|S_START he|PRP is|VBZ said|VBN still|RB to|TO be|VB miffed|VBN that|IN mr|NN ellison|NN snatched|VBD peoplesoft|NN away|RB from|IN him|PRP and|CC promptly|RB fired|VBD thousands|NNS of|IN its|PRP$ workers|NNS as|IN part|NN of|IN an|DT integration|NN plan|NN </s>|S_END
+<s>|S_START prepare|NN for|IN a|DT dogfight|NN in|IN the|DT cloud|NN </s>|S_END
+</p>|P_END
+

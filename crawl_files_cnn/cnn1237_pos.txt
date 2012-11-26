@@ -1,0 +1,59 @@
+<p>|P_START
+<s>|S_START click|NN on|IN chart|NN to|TO track|VB markets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN world|NN markets|NNS rebounded|VBD wednesday|NN as|IN a|DT report|NN on|IN eurozone|NN economic|JJ growth|NN revealed|VBD no|DT further|JJ weakness|NN helping|VBG abate|NN concerns|NNS about|IN the|DT european|JJ debt|NN crisis|NN and|CC teetering|VBG banks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eurostat|IN the|DT statistical|JJ office|NN of|IN the|DT european|JJ union|NN left|NN unchanged|VBD its|PRP$ estimate|NN of|IN firstquarter|NN gross|NN domestic|JJ product|NN the|DT broadest|JJS measure|NN of|IN the|DT economy|NN </s>|S_END
+<s>|S_START the|DT agency|NN said|VBD the|DT 17|CD nations|NNS that|WDT use|NN the|DT euro|NN saw|VBD a|DT 01|CD decline|NN in|IN gdp|NN in|IN the|DT quarter|NN while|IN the|DT 27|CD nations|NNS in|IN the|DT european|JJ union|NN had|VBD a|DT combined|VBN 01|CD increase|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START european|JJ stocks|NNS rallied|VBD on|IN the|DT figures|NNS which|WDT some|DT economists|NNS had|VBD predicted|VBN would|MD be|VB lowered|VBN </s>|S_END
+<s>|S_START the|DT data|NNS were|VBD also|RB an|DT improvement|NN from|IN the|DT fourth|JJ quarters|NNS decline|VBP of|IN 03|CD in|IN both|DT the|DT eurozone|NN and|CC the|DT eu|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT dax|NN dax|NN in|IN germany|NN closed|VBD 21|CD higher|JJR and|CC the|DT cac|NN 40|CD cac40|NNP in|IN france|NN was|VBD up|RB 22|CD </s>|S_END
+<s>|S_START londons|NNS ftse|VBP ukx|NN soared|VBD 24|CD in|IN its|PRP$ first|JJ session|NN following|VBG a|DT twoday|NN closure|NN to|TO celebrate|VB the|DT royal|JJ jubilee|NN and|CC a|DT bank|NN holiday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT european|JJ central|JJ bank|NN left|VBD interest|NN rates|NNS unchanged|JJ at|IN its|PRP$ governing|NN council|NN meeting|NN wednesday|NN </s>|S_END
+<s>|S_START however|RB investors|NNS will|MD be|VB listening|VBG to|TO the|DT news|NN conference|NN with|IN ecb|NN president|NN mario|NN draghi|NN for|IN signs|NNS on|IN a|DT coordinated|JJ effort|NN to|TO deal|VB with|IN europes|NNS debt|NN problems|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN particular|JJ policymakers|NNS are|VBP dealing|VBG with|IN a|DT spanish|JJ banking|NN system|NN on|IN the|DT edge|NN of|IN collapse|NN and|CC greece|NN edging|VBG closer|NN to|TO a|DT possible|JJ exit|NN from|IN the|DT euro|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START things|NNS were|VBD looking|VBG so|RB bad|JJ by|IN the|DT end|NN of|IN last|JJ week|NN that|IN we|PRP are|VBP now|RB slowly|RB starting|VBG to|TO price|NN the|DT next|JJ round|NN of|IN intervention|NN on|IN both|DT sides|NNS of|IN atlantic|JJ wrote|NN deutsche|NN bank|NN analysts|NNS jim|VBP reid|JJ and|CC colin|NN tan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START earlier|JJR wednesday|NN the|DT european|JJ union|NN announced|VBD a|DT proposal|NN for|IN a|DT continentwide|NN banking|NN union|NN that|WDT would|MD deal|VB with|IN future|JJ banking|NN crises|NNS rather|RB than|IN leave|NN them|PRP in|IN the|DT hands|NNS of|IN already|RB struggling|VBG national|JJ governments|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT latest|JJS slap|NN to|TO the|DT european|JJ banking|NN system|NN moodys|NNS downgraded|VBD several|JJ german|NN and|CC austrian|JJ banks|NNS </s>|S_END
+<s>|S_START investec|NN analysts|NNS elisabeth|VBP afseth|JJ and|CC brian|JJ barry|NN wrote|VBD in|IN a|DT market|NN report|NN that|WDT the|DT banks|NNS are|VBP hurt|VBN by|IN euroarea|NN crisis|NN exposure|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START asian|JJ markets|NNS were|VBD mostly|RB higher|JJR at|IN the|DT close|NN </s>|S_END
+<s>|S_START the|DT shanghai|NN composite|JJ shcomp|NN slipped|VBD 01|CD but|CC the|DT hang|NN seng|NN hsi|NN in|IN hong|JJ kong|JJ jumped|JJ 14|CD and|CC japans|NNS nikkei|VBP n225|NNP rose|VBD 18|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START anticipation|NN of|IN positive|JJ comments|NNS from|IN the|DT ecb|NN also|RB drove|VBD a|DT rally|RB on|IN wall|JJ street|NN </s>|S_END
+<s>|S_START the|DT dow|NN jones|NNS indu|VBP industrial|JJ average|NN jumped|VBD 18|CD the|DT sp|NN 500|CD spx|NN rose|VBD 19|CD and|CC the|DT nasdaq|NN comp|NN surged|VBD 21|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnnmoneys|NNS fear|VBP greed|VBN index|NN remained|VBD in|IN extreme|NN fear|NN territory |NN </s>|S_END
+</p>|P_END
+

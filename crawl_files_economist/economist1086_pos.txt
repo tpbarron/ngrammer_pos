@@ -1,0 +1,136 @@
+<p>|P_START
+<s>|S_START the|DT idea|NN of|IN measuring|VBG things|NNS to|TO chart|VB progress|NN towards|NNS a|DT goal|NN is|VBZ commonplace|NN in|IN large|JJ organisation|NN </s>|S_END
+<s>|S_START governments|NNS tot|VBD up|RP trade|NN figures|NNS hospital|VBP waiting|VBG times|NNS and|CC exam|NN results|NNS companies|NNS measure|VBP their|PRP$ turnover|NN profits|NNS and|CC inventory|NN </s>|S_END
+<s>|S_START but|CC the|DT use|NN of|IN metrics|NNS by|IN individuals|NNS is|VBZ rather|RB less|JJR widespread|JJ with|IN the|DT notable|JJ exceptions|NNS of|IN people|NNS who|WP are|VBP trying|VBG to|TO lose|VB weight|NN or|CC improve|VB their|PRP$ fitne|NN </s>|S_END
+<s>|S_START most|JJS people|NNS do|VBP not|RB routinely|RB record|VB their|PRP$ moods|NNS sleeping|VBG patterns|NNS or|CC activity|NN levels|NNS track|VBP how|WRB much|RB alcohol|NN or|CC caffeine|NN they|PRP drink|VBP or|CC chart|NN how|WRB often|RB they|PRP walk|VBP the|DT dog|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC some|DT people|NNS are|VBP doing|VBG just|RB these|DT thing|NN </s>|S_END
+<s>|S_START they|PRP are|VBP an|DT eclectic|JJ mix|NN of|IN early|JJ adopters|NNS fitness|NN freaks|NNS technology|NN evangelists|NNS personaldevelopment|VBP junkies|NNS hackers|NNS and|CC patients|NNS suffering|VBG from|IN a|DT wide|JJ variety|NN of|IN health|NN problem|NN </s>|S_END
+<s>|S_START what|WP they|PRP share|VBP is|VBZ a|DT belief|NN that|WDT gathering|VBG and|CC analysing|VBG data|NNS about|IN their|PRP$ everyday|NN activities|NNS can|MD help|VB them|PRP improve|VB their|PRP$ lives—an|JJ approach|NN known|VBN as|IN “selftracking”|NNP “body|NNP hacking”|NNP or|CC “selfquantifying”|NNP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN some|DT ways|NNS this|DT is|VBZ not|RB a|DT new|JJ idea|NN </s>|S_END
+<s>|S_START athletes|NNS and|CC their|PRP$ coaches|NNS commonly|RB make|VB detailed|JJ notes|NNS on|IN nutrition|NN training|NN sessions|NNS sleep|VBP and|CC other|JJ variable|JJ </s>|S_END
+<s>|S_START imilar|JJ tactics|NNS have|VBP long|RB been|VBN used|VBN to|TO combat|VB health|NN problems|NNS like|IN allergies|NNS and|CC migraine|NN </s>|S_END
+<s>|S_START but|CC new|JJ technologies|NNS make|VBP it|PRP simpler|JJR than|IN ever|RB to|TO gather|VB and|CC analyse|VB personal|JJ data|NNS </s>|S_END
+<s>|S_START ensors|NNS have|VBP shrunk|NN and|CC become|VB cheaper|JJR </s>|S_END
+<s>|S_START accelerometers|NNS which|VBP measure|NN changes|NNS in|IN direction|NN and|CC speed|VBD used|VBN to|TO cost|VB hundreds|NNS of|IN pounds|NNS but|CC are|VBP now|RB cheap|VB and|CC small|JJ enough|RB to|TO be|VB routinely|RB included|VBN in|IN smartphone|NN </s>|S_END
+<s>|S_START this|DT makes|VBZ it|PRP much|RB easier|JJR to|TO take|VB the|DT quantitative|JJ methods|NNS used|VBN in|IN science|NN and|CC business|NN and|CC apply|RB them|PRP to|TO the|DT personal|JJ sphere|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START perhaps|RB unsurprisingly|RB the|DT notion|NN of|IN marrying|VBG technology|NN with|IN selfimprovement|NN originated|VBN in|IN san|NN francisco|NN where|WRB gary|JJ wolf|NN a|DT journalist|NN and|CC author|NN cofounded|VBD the|DT “quantified|JJ self”|NN blog|NN in|IN 2007|CD </s>|S_END
+<s>|S_START this|DT led|VBN to|TO regular|JJ meetings|NNS which|WDT are|VBP now|RB held|VBN in|IN about|IN 50|CD cities|NNS around|IN the|DT world|NN </s>|S_END
+<s>|S_START quantified|VBD self|PRP conferences|NNS were|VBD held|VBN in|IN 2011|CD in|IN america|NN and|CC europe|NN </s>|S_END
+<s>|S_START “almost|JJ everything|NN we|PRP do|VBP generates|NNS data”|-NONE- says|VBZ mr|NN wolf|NN </s>|S_END
+<s>|S_START at|IN the|DT moment|NN he|PRP says|VBZ data|NNS from|IN phones|NNS computers|NNS and|CC credit|NN cards|NNS are|VBP mostly|RB used|VBN by|IN companies|NNS to|TO target|VB advertising|NN recommend|NN products|NNS or|CC spot|NN fraud|NN </s>|S_END
+<s>|S_START but|CC tapping|VBG into|IN the|DT stream|NN of|IN data|NNS they|PRP generate|VBP can|MD give|VB people|NNS new|JJ ways|NNS to|TO deal|VB with|IN medical|JJ problems|NNS or|CC improve|VB their|PRP$ quality|NN of|IN life|NN in|IN other|JJ way|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START quantify|NN thi|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START elfquantifying|VBG is|VBZ being|VBG taken|VBN seriously|RB by|IN startups|NNS in|IN silicon|NN valley|NN and|CC elsewhere|RB which|WDT are|VBP launching|VBG new|JJ devices|NNS and|CC software|NN aimed|VBN at|IN selftracker|NN </s>|S_END
+<s>|S_START it|PRP may|MD even|RB provide|VB a|DT glimpse|NN of|IN the|DT future|NN of|IN health|NN care|NN in|IN which|WDT a|DT greater|JJR emphasis|NN is|VBZ placed|VBN on|IN monitoring|NN using|VBG a|DT variety|NN of|IN gizmos|NNS to|TO prevent|VB disease|NN prolong|IN lives|NNS and|CC reduce|VB medical|JJ cost|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO see|VB how|WRB selftracking|VBG can|MD pay|VB dividends|NNS consider|JJR the|DT example|NN of|IN david|NN not|RB his|PRP$ real|JJ name|NN an|DT investment|NN banker|NN in|IN london|NN </s>|S_END
+<s>|S_START with|IN his|PRP$ routine|NN of|IN early|JJ starts|NNS and|CC 11hour|CD days|NNS he|PRP found|VBD that|IN he|PRP had|VBD trouble|JJ falling|NN asleep|NN and|CC worried|VBD that|IN this|DT affected|JJ his|PRP$ concentration|NN at|IN work|NN </s>|S_END
+<s>|S_START he|PRP started|VBD using|VBG a|DT headband|NN made|VBN by|IN zeo|NN a|DT startup|NN based|VBN in|IN newton|NN massachusett|NN </s>|S_END
+<s>|S_START it|PRP tracks|VBZ sleep|VB quantity|NN and|CC quality|NN by|IN measuring|NN brainwave|VBP activity|NN to|TO determine|VB how|WRB long|JJ the|DT wearer|NN spends|NNS in|IN light|JJ deep|NN and|CC rapideyemovement|NN rem|NN sleep|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START david|VBD recorded|VBN his|PRP$ sleep|NN data|NNS along|IN with|IN information|NN on|IN his|PRP$ diet|NN health|NN supplements|NNS exercise|VBP and|CC alcohol|NN consumption|NN uploading|VBG it|PRP all|DT onto|IN the|DT zeo|NN website|NN </s>|S_END
+<s>|S_START he|PRP also|RB tried|VBD interventions|NNS such|JJ as|IN taking|VBG magnesium|NN supplements|NNS cutting|VBG out|RP caffeine|NN and|CC changing|VBG the|DT lighting|NN conditions|NNS in|IN his|PRP$ bedroom|NN </s>|S_END
+<s>|S_START using|VBG the|DT readings|NNS from|IN the|DT headband|NN he|PRP could|MD see|VB how|WRB each|DT of|IN these|DT things|NNS affected|VBD his|PRP$ sleep|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP found|VBD that|IN drinking|NN too|RB much|RB alcohol|NN undermined|VBD his|PRP$ sleep|NN quality|NN but|CC also|RB determined|VBD that|IN taking|VBG magnesium|NN supplements|NNS helped|VBD him|PRP sleep|VB more|JJR soundly|RB and|CC reach|VBP deep|RP sleep|NN more|RBR quickly|RB </s>|S_END
+<s>|S_START he|PRP now|RB sleeps|VBZ for|IN an|DT average|JJ of|IN sevenandahalf|NN hours|NNS a|DT night|NN up|RP from|IN six|CD hours|NNS before|IN he|PRP began|VBD his|PRP$ selftracking|NN experiment|NN </s>|S_END
+<s>|S_START “i|NN feel|NN more|RBR relaxed|VBN sharper|NN and|CC more|JJR switched|JJ on”|NN he|PRP say|VBP </s>|S_END
+<s>|S_START “seeing|JJ the|DT facts|NNS on|IN your|PRP$ computer|NN screen|NN makes|VBZ them|PRP difficult|JJ to|TO ignore”|NNP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ of|IN the|DT 250|CD people|NNS who|WP attended|VBD the|DT quantified|VBN self|PRP europe|VBP conference|NN in|IN amsterdam|NN last|JJ november|NN had|VBD similar|JJ stories|NNS to|TO tell|VB </s>|S_END
+<s>|S_START robin|NN barooah|NN a|DT software|NN designer|NN said|VBD he|PRP had|VBD lost|VBN 20kg|CD by|IN monitoring|NN his|PRP$ afterlunch|NN mood|NN using|VBG flashcards|NNS which|WDT heightened|VBN his|PRP$ awareness|NN of|IN how|WRB different|JJ foods|NNS made|VBN him|PRP feel|VBP </s>|S_END
+<s>|S_START ara|NN riggare|VBP an|DT engineer|NN from|IN sweden|JJ described|VBN how|WRB she|PRP used|VBD an|DT iphone|NN app|NN to|TO determine|VB the|DT best|JJS drug|NN combination|NN to|TO control|NN her|PRP$ parkinsons|NNS disease|NN and|CC a|DT nintendo|NN wii|NN game|NN to|TO monitor|NN and|CC improve|VB her|PRP$ balance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START christian|JJ kleineidam|NN a|DT student|NN from|IN berlin|NN who|WP suffers|NNS from|IN a|DT spinal|JJ condition|NN explained|VBD how|WRB he|PRP used|VBD a|DT device|NN to|TO measure|VB his|PRP$ breathing|NN and|CC identify|NN which|WDT relaxation|NN exercises|VBZ were|VBD most|RBS effective|JJ </s>|S_END
+<s>|S_START this|DT helped|VBN him|PRP improve|VB his|PRP$ lung|NN function|NN by|IN 30|CD </s>|S_END
+<s>|S_START also|RB discussed|VBD was|VBD asthmapolis|NNS a|DT startup|NN based|VBN in|IN madison|NN wisconsin|NN which|WDT has|VBZ developed|VBN a|DT device|NN called|VBN the|DT spiroscout|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ a|DT sensor|NN that|WDT attaches|VBZ to|TO an|DT asthma|NN inhaler|NN and|CC uses|NNS satellitepositioning|VBG data|NNS to|TO enable|JJ patients|NNS and|CC researchers|NNS to|TO work|VB out|RP which|WDT environments|NNS make|VBP their|PRP$ condition|NN worse|NN such|JJ as|IN proximity|NN to|TO a|DT particular|JJ type|NN of|IN crop|NN </s>|S_END
+<s>|S_START many|JJ people|NNS mentioned|VBN boozerlyzer|NN an|DT app|NN for|IN android|JJ smartphones|NNS that|WDT helps|VBZ people|NNS track|VBP their|PRP$ drinking|NN and|CC uses|NNS simple|VBP games|NNS to|TO help|VB them|PRP measure|VB the|DT effect|NN of|IN alcohol|NN on|IN their|PRP$ coordination|NN reaction|NN times|NNS memory|NN and|CC emotion|NN </s>|S_END
+<s>|S_START and|CC there|EX was|VBD much|JJ talk|NN of|IN the|DT potential|JJ to|TO encourage|NN selftracking|NN through|IN “gamification”—turning|JJ everyday|NN activities|NNS into|IN games|NNS by|IN awarding|VBG points|NNS and|CC trophies|NNS and|CC encouraging|VBG people|NNS to|TO compete|VB with|IN their|PRP$ friend|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN selfquantifiers|NNS can|MD come|VB across|RP as|IN a|DT little|RB odd|JJ </s>|S_END
+<s>|S_START not|RB everyone|VBN carries|NNS out|IN experiments|NNS to|TO see|VB whether|IN wearing|NN orangetinted|VBN glasses|NNS or|CC performing|VBG regular|JJ hopping|NN exercises|NNS can|MD improve|VB sleep|VB quality|NN or|CC whether|IN as|IN has|VBZ been|VBN claimed|VBN eating|VBG butter|NN improves|NNS arithmetic|JJ ability|NN </s>|S_END
+<s>|S_START an|DT obvious|JJ problem|NN is|VBZ that|IN selfquantification|NN experiments|NNS lack|VBP the|DT rigorous|JJ controls|NNS and|CC doubleblinding|VBG of|IN pharmaceutical|JJ trial|NN </s>|S_END
+<s>|S_START there|EX could|MD also|RB be|VB placebo|VBN effect|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “with|JJ selftracking|NN you|PRP never|RB really|RB know|VB whether|IN it|PRP is|VBZ your|PRP$ experiment|NN that|WDT is|VBZ affecting|VBG the|DT outcome|NN or|CC your|PRP$ expectations|NNS of|IN the|DT experiment”|JJ says|VBZ nancy|NN dougherty|NN a|DT selftracking|NN enthusiast|NN who|WP works|NNS as|IN a|DT hardware|NN engineer|NN at|IN proteus|NN biomedical|JJ a|DT medicaldevices|NNS company|NN in|IN redwood|NN city|NN california|NN </s>|S_END
+<s>|S_START using|VBG an|DT adhesive|JJ patch|NN developed|VBD by|IN proteus|NN she|PRP has|VBZ experimented|VBN with|IN measuring|NN her|PRP$ heart|NN rate|NN posture|NN motion|NN and|CC temperature|NN and|CC relating|VBG the|DT data|NNS with|IN her|PRP$ mood|NN </s>|S_END
+<s>|S_START he|PRP found|VBD that|IN taking|VBG dummy|NN pills|NNS labelled|VBD “happy”|JJ “calm”|NN “focus”|NN and|CC “will|NNP power”|NNP had|VBD a|DT noticeable|JJ impact|NN even|RB though|IN she|PRP knew|VBD they|PRP were|VBD placebo|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC with|IN careful|JJ design|NN of|IN experiments|NNS there|EX is|VBZ scope|NN for|IN selftracking|NN to|TO produce|VB useful|JJ data|NNS </s>|S_END
+<s>|S_START the|DT zeo|NN for|IN example|NN has|VBZ already|RB generated|VBN the|DT largestever|NN database|NN on|IN sleep|NN stages|NNS which|WDT revealed|VBN differences|NNS between|IN men|NNS and|CC women|NNS in|IN remsleep|NN quantity|NN </s>|S_END
+<s>|S_START asthmapolis|NNS also|RB hopes|VBZ to|TO pool|NN data|NNS from|IN thousands|NNS of|IN inhalers|NNS fitted|VBN with|IN its|PRP$ spiroscout|IN sensor|NN in|IN an|DT effort|NN to|TO improve|VB the|DT management|NN of|IN asthma|NN </s>|S_END
+<s>|S_START and|CC data|NNS from|IN the|DT boozerlyzer|NN app|NN is|VBZ anonymised|VBN and|CC aggregated|VBN to|TO investigate|VB the|DT variation|NN in|IN peoples|NNS response|NN to|TO alcohol|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START keeping|VBG track|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT may|MD sound|VB creepy|NN but|CC tens|VBZ of|IN thousands|NNS of|IN patients|NNS around|IN the|DT world|NN are|VBP already|RB sharing|VBG information|NN about|IN symptoms|NNS and|CC treatments|NNS for|IN hundreds|NNS of|IN conditions|NNS on|IN websites|NNS such|JJ as|IN patientslikeme|NN and|CC curetogether|NN </s>|S_END
+<s>|S_START this|DT has|VBZ yielded|VBN valuable|JJ results|NNS such|JJ as|IN the|DT finding|NN that|IN patients|NNS who|WP suffered|VBN from|IN vertigo|RB during|IN migraines|NNS were|VBD four|CD times|NNS more|JJR likely|JJ to|TO have|VB painful|JJ side|NN effects|NNS when|WRB using|VBG a|DT particular|JJ migraine|NN drug|NN </s>|S_END
+<s>|S_START the|DT growing|VBG number|NN of|IN selftracking|VBG devices|NNS now|RB reaching|VBG the|DT market|NN will|MD increase|VB the|DT scope|NN for|IN largescale|NN data|NNS collection|NN enabling|VBG users|NNS to|TO analyse|VB their|PRP$ own|JJ readings|NNS and|CC aggregate|VB them|PRP with|IN those|DT of|IN other|JJ people|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT thumbsized|VBN fitbit|NN for|IN example|NN made|VBD by|IN a|DT company|NN of|IN the|DT same|JJ name|NN based|VBN in|IN san|NN francisco|NN clips|NNS onto|IN a|DT belt|NN and|CC uses|NNS an|DT accelerometer|NN and|CC altimeter|NN to|TO measure|VB activity|NN levels|NNS and|CC sleep|VB pattern|NN </s>|S_END
+<s>|S_START a|DT readout|NN shows|VBZ steps|NNS walked|VBN stairs|NNS climbed|VBD and|CC calories|NNS burned|VBD </s>|S_END
+<s>|S_START information|NN is|VBZ also|RB uploaded|VBN wirelessly|RB to|TO a|DT website|JJ that|IN analyses|NNS and|CC displays|NNS the|DT data|NNS and|CC lets|NNS users|NNS compare|VBP notes|NNS with|IN their|PRP$ friend|NN </s>|S_END
+<s>|S_START jawbone|NN also|RB based|VBN in|IN san|NN francisco|NN has|VBZ released|VBN the|DT up|RP a|DT wristband|NN that|WDT communicates|VBZ with|IN an|DT iphone|NN and|CC can|MD also|RB measure|VB physical|JJ activity|NN and|CC sleep|VB pattern|NN </s>|S_END
+<s>|S_START basis|NN another|DT san|NN francisco|NN startup|NN is|VBZ about|IN to|TO launch|VB a|DT wristwatchlike|NN device|NN capable|JJ of|IN measuring|NN heart|NN rate|NN skin|NN conductance|NN related|VBD to|TO stress|NN levels|NNS and|CC sleep|VB patterns|NNS all|DT of|IN which|WDT can|MD then|RB be|VB displayed|VBN on|IN a|DT “health|JJ dashboard”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START greengoose|NN yet|RB another|DT san|NN francisco|NN startup|NN has|VBZ devised|VBN tiny|NN motion|NN sensors|NNS that|WDT can|MD be|VB attached|VBN to|TO everyday|NN items|NNS sending|VBG a|DT wireless|NN signal|NN to|TO a|DT basestation|NN whenever|NN the|DT item|NN is|VBZ used|VBN </s>|S_END
+<s>|S_START a|DT sensor|NN can|MD be|VB attached|VBN to|TO a|DT toothbrush|NN for|IN example|NN or|CC a|DT watering|NN can|MD or|CC the|DT collar|NN of|IN a|DT dog|NN making|VBG it|PRP possible|JJ to|TO measure|NN and|CC track|NN how|WRB often|RB you|PRP brush|VBP your|PRP$ teeth|NN water|NN your|PRP$ plants|NNS or|CC walk|VBP your|PRP$ dog|NN </s>|S_END
+<s>|S_START the|DT companys|NNS aim|VBP is|VBZ to|TO establish|VB a|DT platform|NN for|IN the|DT gamification|NN of|IN everyday|NN activitie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START large|JJ technology|NN companies|NNS are|VBP also|RB keeping|VBG an|DT eye|NN on|IN selftracking|NN technology|NN </s>|S_END
+<s>|S_START the|DT amsterdam|NN conference|NN was|VBD sponsored|VBN by|IN philips|NNS vodafone|VBP and|CC intel|NN all|DT of|IN which|WDT regard|NN healthtracking|VBG as|IN a|DT promising|NN area|NN for|IN future|JJ growth|NN </s>|S_END
+<s>|S_START philips|NNS has|VBZ launched|VBN vital|JJ signs|NNS an|DT experimental|JJ app|NN for|IN apple|NN devices|NNS that|WDT uses|VBZ the|DT builtin|NN camera|NN to|TO measure|VB the|DT users|NNS heart|NN rate|NN and|CC breathing|VBG rate|NN and|CC chart|NN them|PRP over|IN time|NN </s>|S_END
+<s>|S_START intel|NN has|VBZ developed|VBN an|DT app|NN called|VBN mobile|JJ therapy|NN that|WDT pops|VBZ up|RP randomly|RB and|CC asks|NNS users|NNS to|TO record|VB their|PRP$ mood|NN to|TO see|VB how|WRB it|PRP varies|VBZ during|IN the|DT week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN populations|NNS age|NN and|CC healthcare|NN costs|NNS increase|VB there|RB is|VBZ likely|JJ to|TO be|VB a|DT greater|JJR emphasis|NN on|IN monitoring|NN prevention|NN and|CC maintaining|VBG “wellness”|NN in|IN future|JJ with|IN patients|NNS taking|VBG a|DT more|JJR active|JJ role—an|JJ approach|NN sometimes|RB called|VBN “health|JJ 20”|CD </s>|S_END
+<s>|S_START with|IN their|PRP$ sleep|NN monitors|NNS and|CC health|NN dashboards|NNS the|DT aficionados|NNS of|IN selftracking|VBG may|MD end|VB up|RP being|VBG seen|VBN as|IN pioneers|NNS of|IN this|DT model|NN </s>|S_END
+<s>|S_START mr|NN wolf|NN draws|VBZ an|DT analogy|NN with|IN the|DT homebrew|NN computer|NN club|NN which|WDT met|NN in|IN silicon|NN valley|NN in|IN the|DT 1970s|CD and|CC went|VBD from|IN a|DT hobbyists|NNS group|NN to|TO the|DT basis|NN of|IN a|DT new|JJ industry|NN </s>|S_END
+<s>|S_START “we|JJ were|VBD inspired|VBN by|IN our|PRP$ knowledge|NN of|IN this|DT history|NN of|IN personal|JJ computing”|NN he|PRP say|VBP </s>|S_END
+<s>|S_START “we|JJ asked|VBD ourselves|NNS what|WP would|MD happen|VB if|IN we|PRP convened|VBD advanced|VBN users|NNS of|IN selftracking|VBG technologies|NNS to|TO see|VB what|WP we|PRP could|MD learn|VB from|IN each|DT other”|NN selftracking|VBG may|MD look|VB geeky|JJ now|RB but|CC the|DT same|JJ was|VBD once|RB true|JJ of|IN email|NN </s>|S_END
+<s>|S_START and|CC what|WP geeks|NNS do|VBP today|NN the|DT rest|NN of|IN us|PRP often|RB end|VBP up|RP doing|VBG tomorrow|NN </s>|S_END
+</p>|P_END
+

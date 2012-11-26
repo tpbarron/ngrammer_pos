@@ -1,0 +1,96 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN for|IN anthony|NN hardwick|NN thanksgiving|VBG has|VBZ special|JJ meaning|NN </s>|S_END
+<s>|S_START last|JJ year|NN he|PRP proposed|VBD to|TO his|PRP$ girlfriend|NN denise|NN in|IN front|NN of|IN her|PRP$ whole|JJ family|NN during|IN the|DT holiday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT year|NN though|IN he|PRP will|MD be|VB working|VBG </s>|S_END
+<s>|S_START a|DT parttime|NN employee|NN at|IN target|NN in|IN omaha|NN neb|NN hardwick|NN said|VBD his|PRP$ manager|NN requested|VBD he|PRP start|VB his|PRP$ shift|NN at|IN 11|CD pm|NN </s>|S_END
+<s>|S_START in|IN order|NN to|TO make|VB it|PRP through|IN the|DT night|NN hell|NN need|VBP to|TO sleep|VB on|IN thanksgiving|NN day|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START my|PRP$ fiancée|NN is|VBZ sad|JJ because|IN i|PRP was|VBD supposed|VBN to|TO have|VB thanksgiving|VBG dinner|NN with|IN her|PRP$ family|NN and|CC talk|VBP about|IN wedding|VBG plans|NNS he|PRP said|VBD </s>|S_END
+<s>|S_START its|PRP$ kind|NN of|IN a|DT raw|JJ deal|NN he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hardwick|NN started|VBD an|DT online|NN petition|NN entitled|VBD tell|NN target|NN to|TO save|VB thanksgiving|NN in|IN the|DT hope|NN that|IN the|DT retailer|NN would|MD push|VB the|DT store|NN opening|VBG back|RB to|TO friday|VB to|TO allow|VB workers|NNS to|TO spend|VB more|JJR time|NN with|IN family|NN </s>|S_END
+<s>|S_START working|VBG with|IN online|NN advocacy|NN site|NN changeorg|NN he|PRP has|VBZ collected|VBN more|JJR than|IN 80000|CD signatures|NNS as|IN of|IN tuesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START target|NN spokeswoman|NN molly|RB snyder|JJR said|VBD hardwick|NN is|VBZ not|RB currently|RB scheduled|VBN to|TO work|VB on|IN thanksgiving|NN or|CC black|JJ friday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT year|NN marks|VBZ targets|NNS earliest|VBP opening|VBG ever|RB </s>|S_END
+<s>|S_START target|NN tgt|VBD fortune|NN 500|CD best|JJS buy|NN bby|RB fortune|JJ 500|CD macys|NNS m|NN fortune|NN 500|CD and|CC kohls|NNS kss|VBP fortune|NN 500|CD are|VBP all|DT opening|VBG at|IN midnight|NN on|IN thanksgiving|NN eve|NN </s>|S_END
+<s>|S_START walmart|NN wmt|VBD fortune|NN 500|CD recently|RB announced|VBD plans|NNS to|TO open|VB its|PRP$ doors|NNS to|TO the|DT public|NN at|IN 10|CD pm|NN then|RB toys|VBZ r|NN us|PRP followed|VBD suit|NN announcing|NN it|PRP would|MD open|VB most|RBS stores|NNS as|IN early|JJ as|IN 9|CD pm|NN the|DT day|NN before|IN black|JJ friday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP have|VBP heard|VBN from|IN our|PRP$ guests|NNS that|WDT they|PRP want|VBP to|TO shop|VB following|VBG their|PRP$ thanksgiving|NN celebrations|NNS rather|RB than|IN only|RB having|VBG the|DT option|NN of|IN getting|VBG up|IN in|IN the|DT middle|NN of|IN the|DT night|NN target|NN said|VBD in|IN a|DT statement|NN </s>|S_END
+<s>|S_START target|NN will|MD offer|VB holiday|NN pay|NN to|TO all|DT hourly|RB team|NN members|NNS who|WP work|NN on|IN thanksgiving|NN day|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thanksgiving|VBG day|NN openings|NNS have|VBP been|VBN a|DT boon|NN to|TO retailers|NNS during|IN the|DT economic|JJ downturn|NN </s>|S_END
+<s>|S_START the|DT number|NN of|IN people|NNS who|WP shop|NN on|IN thanksgiving|NN both|DT online|NN and|CC in|IN stores|NNS rose|VBD to|TO 223|CD million|CD in|IN 2010|CD about|IN double|JJ the|DT amount|NN just|RB five|CD years|NNS earlier|RBR according|VBG to|TO the|DT national|JJ retail|NN federation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START last|JJ year|NN the|DT number|NN of|IN people|NNS who|WP began|VBD their|PRP$ black|NN friday|NN shopping|VBG at|IN midnight|NN was|VBD triple|RB the|DT amount|NN in|IN 2009|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START retailers|NNS have|VBP been|VBN through|IN a|DT very|RB difficult|JJ three|CD or|CC four|CD years|NNS said|VBD michael|NN hicks|NNS director|NN of|IN the|DT center|NN for|IN business|NN and|CC economic|JJ research|NN at|IN ball|NN state|NN university|NN in|IN muncie|NN ind|NN </s>|S_END
+<s>|S_START theyre|NN looking|VBG for|IN a|DT competitive|JJ advantage|NN anyway|NN they|PRP can|MD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC once|RB the|DT retailers|NNS move|VBP into|IN thanksgiving|NN day|NN its|PRP$ hard|NN to|TO back|VB off|RP of|IN these|DT things|NNS he|PRP said|VBD </s>|S_END
+<s>|S_START how|WRB do|VBP you|PRP put|VB the|DT genie|NN back|RB in|IN the|DT bottle|NN on|IN what|WP has|VBZ traditionally|RB been|VBN a|DT day|NN without|IN consumers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT consumers|NNS believe|VBP retailers|NNS have|VBP gone|VBN too|RB far|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP used|VBD to|TO love|VB shopping|NN on|IN black|JJ friday|NN said|VBD sarah|NN caron|NN 31|CD but|CC the|DT earlier|JJR hours|NNS or|CC worse|VB opening|VBG on|IN thanksgiving|VBG have|VBP been|VBN a|DT complete|JJ turnoff|NN to|TO me|PRP </s>|S_END
+<s>|S_START that|DT takes|VBZ people|NNS away|RB from|IN their|PRP$ families|NNS on|IN a|DT day|NN that|WDT should|MD be|VB all|RB about|IN family|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START caron|NN said|VBD she|PRP plans|VBZ to|TO refrain|VB from|IN shopping|VBG at|IN any|DT store|NN that|IN opens|NNS on|IN thanksgiving|VBG day|NN because|IN of|IN the|DT complete|JJ disrespect|NN for|IN our|PRP$ culture|NN heritage|NN and|CC their|PRP$ employees|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN some|DT consumers|NNS though|IN black|JJ friday|NN shopping|NN is|VBZ considered|VBN part|NN of|IN the|DT thanksgiving|NN holiday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START about|IN a|DT third|JJ of|IN consumers|NNS want|VBP to|TO go|VB shopping|NN after|IN thanksgiving|VBG dinner|NN explained|VBD kit|NN yarrow|NN consumer|NN psychologist|NN and|CC chair|NN of|IN the|DT psychology|NN department|NN at|IN golden|NN gate|NN university|NN in|IN san|NN francisco|NN </s>|S_END
+<s>|S_START they|PRP feel|VBP like|IN thanksgiving|VBG is|VBZ ending|VBG when|WRB the|DT dishes|NNS are|VBP done|VBN and|CC black|JJ friday|NN is|VBZ starting|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START amanda|NN ostrowski|NN 25|CD is|VBZ embracing|VBG the|DT new|JJ hours|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START im|NN thankful|JJ these|DT stores|NNS are|VBP opening|VBG on|IN thanksgiving|VBG said|VBD ostrowski|NN who|WP has|VBZ made|VBN black|JJ friday|NN an|DT annual|JJ event|NN even|RB camping|VBG out|RP at|IN best|JJS buy|NN last|JJ year|NN </s>|S_END
+<s>|S_START its|PRP$ easier|JJR to|TO wait|VB outside|IN during|IN the|DT day|NN and|CC this|DT year|NN we|PRP dont|VBP have|VBP to|TO sleep|VB outside|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS other|JJ shoppers|NNS though|IN find|NN it|PRP an|DT offense|NN that|IN a|DT national|JJ holiday|NN is|VBZ being|VBG encroached|VBN upon|IN said|VBN yarrow|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START are|VBP you|PRP an|DT extreme|NN black|NN friday|NN shopper|NN </s>|S_END
+<s>|S_START tell|NN us|PRP your|PRP$ game|NN plan|NN and|CC alltime|VB best|JJS deal|NN </s>|S_END
+<s>|S_START email|NN your|PRP$ response|NN to|TO jessicadicklerturnercomand|VB your|PRP$ story|NN could|MD be|VB part|NN of|IN an|DT upcoming|NN article |NN </s>|S_END
+</p>|P_END
+

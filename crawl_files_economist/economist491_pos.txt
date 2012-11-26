@@ -1,0 +1,35 @@
+<p>|P_START
+<s>|S_START africa’s|NNS “mobile|JJ decade”|NN when|WRB telephones|NNS at|IN last|JJ reached|VBN most|JJS corners|NNS of|IN the|DT continent|NN has|VBZ meant|VBN a|DT huge|JJ improvement|NN in|IN the|DT lives|NNS of|IN the|DT poor|JJ </s>|S_END
+<s>|S_START but|CC quantifying|VBG it|PRP is|VBZ hard|RB </s>|S_END
+<s>|S_START how|WRB useful|JJ can|MD a|DT mobile|JJ phone|NN be|VB to|TO someone|VB living|NN on|IN less|JJR than|IN $|$ 250|CD a|DT day|NN the|DT world|NN bank’s|VBZ standard|JJ benchmark|NN of|IN poverty|NN </s>|S_END
+<s>|S_START researchers|NNS in|IN kenya|NN have|VBP given|VBN a|DT partial|JJ answer|NN </s>|S_END
+<s>|S_START they|PRP find|VBP that|IN people|NNS will|MD skip|VB a|DT meal|NN or|CC choose|VB to|TO walk|VB instead|RB of|IN paying|VBG for|IN a|DT bus|NN fare|NN so|RB that|IN they|PRP can|MD keep|VB their|PRP$ phone|NN in|IN credit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT weekly|JJ value|NN of|IN these|DT sacrifices|NNS averages|NNS just|RB over|IN 72|CD kenyan|NN shillings|NNS 84|CD american|JJ cents—not|JJ a|DT trivial|JJ amount|NN seeing|VBG that|IN the|DT daily|JJ wage|NN of|IN a|DT kenyan|NN labourer|NN can|MD be|VB as|RB little|JJ as|IN a|DT dollar|NN </s>|S_END
+<s>|S_START the|DT report|NN by|IN ihub|NN an|DT incubator|NN for|IN kenyan|NN tech|NN startups|NNS suggests|VBZ that|IN discretionary|JJ spending|NN by|IN the|DT poor|JJ is|VBZ now|RB influenced|VBN greatly|RB by|IN their|PRP$ expenditure|NN on|IN mobile|JJ phone|NN </s>|S_END
+<s>|S_START interviews|NNS conducted|VBD at|IN half|NN a|DT dozen|NN spots|NNS around|IN the|DT country|NN showed|VBD how|WRB fine|NN are|VBP the|DT margins|NNS in|IN the|DT decisions|NNS made|VBN by|IN the|DT poor|JJ </s>|S_END
+<s>|S_START ome|NN would|MD for|IN instance|NN forgo|NN meat|NN at|IN meal|NN time|NN in|IN the|DT hope|NN of|IN making|VBG a|DT call|NN or|CC sending|VBG an|DT sms|NNS that|WDT would|MD enable|VB them|PRP to|TO put|VB more|JJR food|NN on|IN the|DT table|NN later|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START almost|RB half|DT of|IN those|DT surveyed|VBN were|VBD using|VBG internetenabled|VBN smart|NN or|CC “feature”|JJ phone|NN </s>|S_END
+<s>|S_START the|DT scratch|NN cards|NNS that|WDT many|JJ kenyans|NNS use|VBP to|TO charge|VB their|PRP$ mobiles|NNS have|VBP recently|RB begun|VBN to|TO advertise|VB their|PRP$ value|NN in|IN terms|NNS of|IN data|NNS rather|RB than|IN talk|NN time|NN </s>|S_END
+<s>|S_START meanwhile|RB mobilephone|VBN operators|NNS have|VBP been|VBN giving|VBG free|JJ access|NN to|TO sites|NNS such|JJ as|IN wikipedia|NN to|TO entice|NN customer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START till|NN only|RB 16|CD of|IN respondents|NNS said|VBD they|PRP were|VBD using|VBG their|PRP$ phones|NNS to|TO browse|VB the|DT internet|NN </s>|S_END
+<s>|S_START the|DT real|JJ breakthrough|NN in|IN the|DT kenyan|NN market|NN has|VBZ been|VBN in|IN people’s|NNP ability|NN to|TO send|VB and|CC receive|JJ money|NN with|IN more|JJR than|IN twothirds|NNS doing|VBG so|RB by|IN phone|NN </s>|S_END
+<s>|S_START east|NN africa’s|NNS biggest|JJS success|NN has|VBZ been|VBN mpesa|NN a|DT mobilebased|VBN moneytransfer|NN system|NN pioneered|VBD by|IN safaricom|NN a|DT leading|VBG kenyan|NN operator|NN </s>|S_END
+<s>|S_START its|PRP$ simple|NN interface|NN which|WDT works|NNS on|IN any|DT phone|NN has|VBZ brought|VBN financial|JJ services|NNS to|TO kenya’s|JJ poor|NN majority|NN enabling|VBG the|DT movement|NN of|IN some|DT $|$ 86|CD billion|CD in|IN the|DT first|JJ half|DT of|IN this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC mpesa’s|JJ success|NN has|VBZ not|RB escaped|VBN the|DT notice|NN of|IN a|DT government|NN struggling|VBG to|TO meet|VB its|PRP$ financial|JJ commitment|NN </s>|S_END
+<s>|S_START the|DT finance|NN ministry|NN plans|NNS to|TO slap|VB a|DT tax|NN of|IN 10|CD on|IN the|DT fees|NNS charged|VBD by|IN operators|NNS of|IN mobilemoney|NN transfer|NN </s>|S_END
+<s>|S_START this|DT cost|NN will|MD inevitably|RB be|VB passed|VBN on|IN to|TO customers|NNS including|VBG the|DT very|JJ poor|NN thus—according|JJ to|TO the|DT gsma|NN a|DT global|JJ lobby|NN of|IN mobilephone|NN operators—stifling|JJ an|DT important|JJ source|NN of|IN development|NN </s>|S_END
+<s>|S_START but|CC if|IN kenya’s|NNS president|NN mwai|NN kibaki|NN who|WP is|VBZ due|JJ to|TO retire|VB next|JJ year|NN is|VBZ mindful|JJ of|IN his|PRP$ legacy|NN he|PRP may|MD refuse|VB to|TO let|VB the|DT bill|NN pa|NN </s>|S_END
+</p>|P_END
+

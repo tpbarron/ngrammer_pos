@@ -1,0 +1,38 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN should|MD search|VB engines|NNS like|IN google|NN have|VBP to|TO pay|VB publishers|NNS like|IN newspapers|NNS for|IN linking|VBG to|TO their|PRP$ content|NN </s>|S_END
+<s>|S_START france|NN says|VBZ yes|NNS google|VBP says|VBZ no|DT and|CC its|PRP$ prepared|VBN to|TO go|VB nuclear|JJ on|IN the|DT issue|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN executives|NNS met|VBP with|IN french|JJ government|NN officials|NNS on|IN friday|NN to|TO discuss|VB the|DT companys|NNS threat|VBP to|TO drop|VB french|JJ media|NNS sites|VBZ from|IN its|PRP$ search|NN results|NNS if|IN france|NN goes|VBZ through|IN with|IN a|DT proposal|NN to|TO make|VB search|NN engines|NNS pay|VBP commissions|NNS for|IN links|NNS to|TO news|NN content|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT owners|NNS of|IN many|JJ french|JJ newspapers|NNS are|VBP in|IN favor|NN of|IN the|DT tax|NN believing|VBG their|PRP$ revenue|NN and|CC copyrights|NNS are|VBP compromised|VBN when|WRB googles|NNS search|VBP results|NNS display|VBP their|PRP$ content|NN </s>|S_END
+<s>|S_START french|NN culture|NN minister|NN aurelie|NN filippetti|NN seems|VBZ to|TO agree|VB </s>|S_END
+<s>|S_START she|PRP told|VBD a|DT parliamentary|JJ commission|NN it|PRP is|VBZ a|DT tool|NN that|WDT it|PRP seems|VBZ important|JJ to|TO me|PRP to|TO develop|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN says|VBZ that|IN such|JJ a|DT law|NN would|MD threaten|VB its|PRP$ very|JJ existence|NN according|VBG to|TO a|DT letter|NN it|PRP sent|VBD to|TO several|JJ french|JJ officials|NNS </s>|S_END
+<s>|S_START the|DT letter|NN was|VBD first|JJ publicized|VBN by|IN french|NN news|NN service|NN agence|NN francepresse|NN which|WDT obtained|VBD a|DT copy|NN </s>|S_END
+<s>|S_START google|NN later|JJ posted|VBD the|DT full|JJ letter|NN on|IN its|PRP$ european|JJ blog|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN goog|NN fortune|NN 500|CD says|VBZ in|IN the|DT letter|NN that|IN it|PRP can|MD not|RB accept|VB such|JJ a|DT move|NN and|CC consequently|RB would|MD be|VB forced|VBN to|TO stop|VB referencing|NN french|NN sites|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START googles|NNS representatives|NNS met|VBP in|IN paris|NNS with|IN fleur|NN pellerin|NN the|DT french|NN minister|NN for|IN small|JJ business|NN innovation|NN and|CC numeric|JJ economy|NN according|VBG to|TO arnaud|VB guillois|NNS a|DT spokesman|NN for|IN the|DT french|JJ embassy|NN in|IN washington|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START france|NN isnt|VBD the|DT only|JJ country|NN in|IN europe|NN to|TO propose|VB such|JJ legislation|NN </s>|S_END
+<s>|S_START germany|NN is|VBZ considering|VBG a|DT similar|JJ law|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START such|JJ rules|NNS would|MD be|VB very|RB damaging|VBG to|TO the|DT internet|NN google|NN said|VBD in|IN its|PRP$ blog|NN post|NN </s>|S_END
+</p>|P_END
+

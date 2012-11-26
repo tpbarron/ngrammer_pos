@@ -1,0 +1,106 @@
+<p>|P_START
+<s>|S_START nyja|NN horton|VBD a|DT 39yearold|JJ single|JJ mother|NN of|IN two|CD has|VBZ received|VBN $|$ 18000|CD over|IN the|DT 12|CD years|NNS she|PRP has|VBZ been|VBN eligible|JJ for|IN the|DT earned|JJ income|NN tax|NN credit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN many|JJ of|IN the|DT people|NNS who|WP could|MD use|VB a|DT little|RB extra|JJ money|NN the|DT most|JJS are|VBP missing|VBG out|RP on|IN a|DT tax|NN credit|NN worth|NN up|IN to|TO nearly|RB $|$ 6000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START aimed|VBN at|IN helping|NN the|DT working|VBG poor|NN the|DT earned|JJ income|NN tax|NN credit|NN lifts|NNS millions|NNS of|IN americans|NNS out|IN of|IN poverty|NN each|DT year|NN yet|RB one|CD in|IN five|CD taxpayers|NNS eligible|JJ for|IN the|DT credit|NN doesnt|NN end|NN up|IN claiming|VBG this|DT extra|JJ windfall|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS a|DT big|JJ loss|NN because|IN the|DT credit|NN is|VBZ one|CD of|IN the|DT largest|JJS the|DT irs|NNS provides|VBZ </s>|S_END
+<s>|S_START the|DT tax|NN policy|NN center|NN has|VBZ found|VBN that|IN it|PRP is|VBZ the|DT second|JJ largest|JJS cash|NN assistance|NN program|NN for|IN lowincome|NN families|NNS in|IN the|DT country|NN after|IN the|DT governments|NNS food|NN stamp|NN program|NN which|WDT doled|VBN out|RP nearly|RB $|$ 72|CD billion|CD in|IN benefits|NNS last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN claiming|NN the|DT eitc|NN nearly|RB 27|CD million|CD taxpayers|NNS received|VBD about|IN $|$ 595|CD billion|CD from|IN the|DT credit|NN in|IN 2011|CD with|IN refunds|NNS averaging|VBG $|$ 2240|CD according|VBG to|TO the|DT irs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT payments|NNS helped|VBD an|DT estimated|VBN 63|CD million|CD people|NNS escape|NN poverty|NN in|IN 2010|CD according|VBG to|TO the|DT most|JJS recent|JJ data|NNS from|IN the|DT center|NN on|IN budget|NN and|CC policy|NN priorities|NNS </s>|S_END
+<s>|S_START about|IN half|DT of|IN those|DT people|NNS were|VBD children|NNS </s>|S_END
+<s>|S_START the|DT government|NN defines|VBZ the|DT poverty|NN threshold|VBD as|IN having|NN an|DT annual|JJ income|NN of|IN under|IN about|IN $|$ 11000|CD for|IN an|DT individual|NN and|CC about|IN $|$ 22000|CD for|IN a|DT family|NN of|IN four|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN people|NNS earning|VBG minimum|JJ wage|NN having|VBG enough|JJ money|NN to|TO get|VB by|IN can|MD be|VB really|RB problematic|JJ said|VBD michael|NN saltsman|NN a|DT research|NN fellow|NN at|IN the|DT employment|NN policy|NN institute|NN </s>|S_END
+<s>|S_START this|DT credit|NN is|VBZ not|RB only|RB reducing|VBG poverty|NN but|CC stimulating|VBG employment|NN so|IN theres|NNS definitely|RB an|DT increased|VBN effort|NN on|IN the|DT part|NN of|IN the|DT government|NN to|TO let|VB people|NNS know|VB its|PRP$ out|RP there|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB it|PRP works|VBZ since|IN the|DT eitc|NN is|VBZ refundable|JJ claiming|NN it|PRP lowers|VBZ the|DT total|JJ amount|NN of|IN taxes|NNS owed|VBD and|CC can|MD result|VB in|IN a|DT refund|NN if|IN the|DT amount|NN of|IN the|DT credit|NN exceeds|VBZ the|DT tax|NN liability|NN </s>|S_END
+<s>|S_START this|DT essentially|RB allows|VBZ lowincome|NN earners|NNS to|TO hold|VB on|IN to|TO more|JJR of|IN the|DT money|NN they|PRP earned|VBD during|IN the|DT year|NN instead|RB of|IN forcing|JJ them|PRP to|TO give|VB it|PRP all|DT back|RB to|TO the|DT government|NN in|IN the|DT form|NN of|IN taxes|NNS said|VBD saltsman|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO claim|VB the|DT credit|NN the|DT taxpayer|NN must|MD have|VB a|DT job|NN and|CC their|PRP$ income|NN must|MD fall|VB under|IN certain|JJ thresholds|NNS </s>|S_END
+<s>|S_START the|DT credit|NN amount|NN increases|NNS with|IN the|DT number|NN of|IN children|NNS claimed|VBN as|IN dependents|NNS </s>|S_END
+<s>|S_START for|IN the|DT 2011|CD tax|NN year|NN single|JJ filers|NNS earning|VBG $|$ 13660|CD or|CC less|JJR who|WP have|VBP no|DT children|NNS are|VBP eligible|JJ for|IN credits|NNS of|IN up|IN to|TO $|$ 464|CD while|IN married|JJ filers|NNS with|IN income|NN of|IN less|JJR than|IN $|$ 49078|CD and|CC single|JJ filers|NNS reporting|VBG income|NN of|IN under|IN $|$ 43998|CD who|WP have|VBP three|CD or|CC more|JJR qualifying|VBG children|NNS are|VBP eligible|JJ for|IN credits|NNS of|IN up|IN to|TO $|$ 5751|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nyja|NN horton|VBD a|DT 39yearold|JJ single|JJ mother|NN of|IN two|CD who|WP earns|NNS $|$ 28000|CD working|VBG full|JJ time|NN as|IN a|DT manager|NN at|IN a|DT nonprofit|JJ found|NN out|IN about|IN the|DT credit|NN from|IN a|DT tv|NN commercial|NN </s>|S_END
+<s>|S_START over|IN the|DT course|NN of|IN 12|CD years|NNS she|PRP estimates|VBZ she|PRP has|VBZ received|VBN a|DT total|JJ of|IN $|$ 18000|CD by|IN claiming|NN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP was|VBD very|RB surprised|VBN and|CC very|RB grateful|JJ when|WRB i|PRP found|VBP out|RP how|WRB much|RB i|PRP would|MD get|VB said|VBD horton|NN </s>|S_END
+<s>|S_START it|PRP meant|VBD i|PRP didnt|VBP have|VBP to|TO keep|VB stretching|NN paycheck|NN to|TO paycheck|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN the|DT money|NN from|IN the|DT credit|NN she|PRP has|VBZ been|VBN able|JJ to|TO grow|VB her|PRP$ savings|NNS and|CC even|RB take|VB a|DT few|JJ family|NN vacations|NNS </s>|S_END
+<s>|S_START last|JJ year|NN she|PRP put|VBD the|DT $|$ 1800|CD she|PRP got|VBD back|RP toward|IN a|DT 2005|CD honda|NN accord|NN a|DT purchase|NN that|WDT came|VBD in|IN handy|NN after|IN her|PRP$ previous|JJ car|NN was|VBD totaled|VBN in|IN an|DT accident|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START not|RB only|RB does|VBZ the|DT tax|NN credit|NN help|NN put|VBD extra|JJ money|NN in|IN the|DT pockets|NNS of|IN lowincome|NN workers|NNS but|CC it|PRP also|RB encourages|VBZ people|NNS to|TO at|IN least|JJS find|NN parttime|NN jobs|NNS in|IN order|NN to|TO qualify|VB said|VBN saltsman|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT who|WP claim|NN it|PRP should|MD be|VB careful|JJ however|NN </s>|S_END
+<s>|S_START because|IN of|IN the|DT large|JJ amounts|NNS of|IN money|NN being|VBG doled|VBN out|RP the|DT credit|NN is|VBZ a|DT big|JJ target|NN for|IN fraud|NN </s>|S_END
+<s>|S_START the|DT government|NN accountability|NN office|NN a|DT division|NN of|IN congress|NN that|IN examines|NNS irs|NNS procedures|NNS estimated|VBD that|IN the|DT irs|NNS made|VBN about|IN $|$ 152|CD billion|CD in|IN improper|JJ eitc|NN payments|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ due|JJ in|IN part|NN to|TO confusion|NN about|IN eligibility|NN but|CC some|DT preparers|NNS also|RB fraudulently|RB overstate|JJ the|DT amount|NN that|IN a|DT taxpayer|NN qualifies|NNS for|IN or|CC file|JJ claims|NNS for|IN unqualified|JJ taxpayers|NNS </s>|S_END
+<s>|S_START and|CC identity|NN thieves|NNS often|RB pose|VBP as|IN eitc|NN recipients|NNS to|TO cash|NN in|IN on|IN the|DT credit|NN </s>|S_END
+<s>|S_START as|IN a|DT result|NN the|DT audit|NN rate|NN for|IN taxpayers|NNS claiming|VBG this|DT credit|NN is|VBZ typically|RB about|IN twice|NN the|DT average|JJ audit|NN rate|NN according|VBG to|TO irs|NNS data|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START why|WRB are|VBP so|RB many|JJ people|NNS missing|VBG out|RP </s>|S_END
+<s>|S_START often|RB the|DT people|NNS who|WP qualify|NN for|IN the|DT eitc|NN have|VBP such|JJ low|JJ incomes|NNS that|WDT they|PRP arent|VBP required|VBN to|TO file|VB their|PRP$ taxes|NNS and|CC have|VBP no|DT idea|NN that|IN they|PRP could|MD benefit|VB from|IN the|DT credit|NN said|VBD vincent|NN consenza|NN cpa|NN at|IN accounting|NN firm|NN shanholt|NN glassman|NN klein|NN kramer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN people|NNS who|WP get|NN their|PRP$ hours|NNS cut|VBD or|CC go|VB from|IN fulltime|JJ to|TO parttime|VB or|CC freelance|NN positions|NNS dont|VBP always|RB realize|VB when|WRB they|PRP have|VBP become|VBN eligible|JJ for|IN the|DT credit|NN since|IN they|PRP have|VBP never|RBR claimed|VBN it|PRP before|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO help|VB get|VB the|DT word|NN out|IN the|DT irs|NNS is|VBZ adding|VBG information|NN to|TO its|PRP$ website|JJ sending|NN out|IN fliers|NNS and|CC putting|VBG up|RP posters|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT agency|NN has|VBZ also|RB partnered|VBN with|IN companies|NNS like|IN new|JJ orleansbased|VBN energy|NN provider|NN entergy|NN which|WDT has|VBZ 27|CD million|CD customers|NNS 20|CD to|TO 30|CD of|IN whom|WP are|VBP at|IN or|CC below|IN the|DT poverty|NN line|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START entergy|NN is|VBZ helping|VBG the|DT irs|NNS spread|VBP the|DT word|NN about|IN the|DT eitc|NN by|IN sending|NN out|IN 22|CD million|CD statements|NNS to|TO customers|NNS with|IN their|PRP$ bills|NNS issuing|VBG press|NN releases|NNS holding|VBG free|JJ workshops|NNS and|CC putting|VBG up|RP yard|NN signs|NNS </s>|S_END
+<s>|S_START thanks|NNS in|IN part|NN to|TO these|DT recent|JJ publicity|NN efforts|NNS at|IN least|JJS 9000|CD entergy|NN customers|NNS received|VBD more|JJR than|IN $|$ 129|CD million|CD in|IN refunds|NNS last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN the|DT country|NN in|IN such|JJ economic|JJ strife|NN whatever|NN amount|NN of|IN money|NN theyre|NN able|JJ to|TO claim|VB through|IN this|DT tax|NN credit|NN is|VBZ a|DT benefit|NN said|VBD rod|NN west|NN executive|NN vice|NN president|NN at|IN entergy|NN </s>|S_END
+<s>|S_START he|PRP said|VBD a|DT number|NN of|IN customers|NNS at|IN or|CC below|IN the|DT poverty|NN line|NN are|VBP spending|VBG a|DT huge|JJ portion|NN of|IN their|PRP$ income|NN on|IN energy|NN bills|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO find|VB out|RP if|IN you|PRP qualify|VBP for|IN the|DT eitc|NN the|DT irs|NNS website|VBP has|VBZ a|DT tool|NN you|PRP can|MD use|VB where|WRB you|PRP enter|VBP basic|JJ information|NN about|IN your|PRP$ tax|NN situation|NN </s>|S_END
+<s>|S_START turbotaxs|NNS smartphone|VBP app|NN eitc|NN finder|NN also|RB helps|VBZ you|PRP determine|VBP if|IN youre|NN eligible |NN </s>|S_END
+</p>|P_END
+

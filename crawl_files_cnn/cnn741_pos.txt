@@ -1,0 +1,58 @@
+<p>|P_START
+<s>|S_START a|DT crane|NN collapsed|VBN by|IN sandys|NNS high|JJ winds|NNS on|IN the|DT 90th|JJ floor|NN of|IN one57|NNP in|IN midtown|NN manhattan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN it|PRP has|VBZ attracted|VBN billionaire|NN buyers|NNS and|CC plenty|NN of|IN media|NNS buzz|VBP but|CC this|DT kind|NN of|IN attention|NN the|DT developers|NNS of|IN one57|NNP new|JJ yorks|NNS soontobe|VBP tallest|JJS residential|JJ building|NN certainly|RB dont|NN want|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT eyes|NNS are|VBP on|IN the|DT scaffolded|VBN highrise|NN as|IN a|DT crane|NN hangs|VBZ precipitously|RB from|IN its|PRP$ 90th|JJ floor|NN </s>|S_END
+<s>|S_START high|JJ winds|NNS from|IN superstorm|NN sandy|NN caused|VBD the|DT crane|NN to|TO collapse|VB spurring|NN the|DT city|NN to|TO shut|VB down|RP streets|NNS and|CC evacuate|VB nearby|JJ buildings|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN wednesday|NN new|JJ york|NN mayor|NN michael|NN bloomberg|NN said|VBD the|DT ties|NNS binding|VBG the|DT crane|NN to|TO the|DT building|NN are|VBP secure|NN but|CC added|VBD time|NN will|MD be|VB needed|VBN to|TO build|VB another|DT crane|NN to|TO remove|VB the|DT damaged|JJ one|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ a|DT devastating|VBG setback|NN for|IN a|DT building|NN that|WDT has|VBZ led|VBN a|DT mostly|RB charmed|VBN existence|NN said|VBD jonathan|IN miller|NN ceo|NN of|IN new|JJ yorkbased|VBN appraisal|NN firm|NN miller|NN samuel|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START earlier|JJR this|DT year|NN an|DT unnamed|VBN buyer|NN paid|VBN $|$ 90|CD million|CD for|IN the|DT buildings|NNS more|JJR than|IN 10000|CD squarefoot|NN penthouse|NN the|DT highest|JJS price|NN ever|RB paid|VBN for|IN a|DT new|JJ york|NN city|NN condo|NN </s>|S_END
+<s>|S_START the|DT penthouse|NN features|NNS 23foot|CD ceilings|NNS and|CC a|DT wall|NN of|IN windows|NNS overlooking|VBG central|JJ park|NN which|WDT is|VBZ just|RB two|CD blocks|NNS away|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START prices|NNS for|IN apartments|NNS in|IN the|DT 92unit|JJ building|NN start|NN at|IN $|$ 7|CD million|CD </s>|S_END
+<s>|S_START so|IN far|RB 60|CD of|IN the|DT units|NNS have|VBP been|VBN sold|VBN according|VBG to|TO bovis|NNS lend|VBP lease|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT crane|NN operator|NN pinnacle|NN industries|NNS did|VBD not|RB answer|VB its|PRP$ phones|NNS and|CC developer|NN extell|NN development|NN declined|VBD to|TO comment|NN and|CC referred|VBD questions|NNS to|TO the|DT construction|NN manager|NN bovis|NNS lend|VBP lease|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lend|NN lease|NN said|VBD in|IN a|DT press|NN release|NN thursday|NN that|WDT it|PRP is|VBZ working|VBG with|IN structural|JJ engineers|NNS and|CC city|NN agencies|NNS to|TO secure|VB the|DT crane|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD gallery|NN inside|NN new|JJ yorks|NNS most|JJS expensive|JJ apartment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START miller|NN said|VBD the|DT crane|NN incident|NN is|VBZ unlikely|JJ to|TO affect|VB prices|NNS at|IN the|DT building|NN since|IN it|PRP occurred|VBD during|IN one|CD of|IN the|DT worst|JJS storms|NNS in|IN new|JJ york|NN history|NN </s>|S_END
+<s>|S_START however|RB if|IN the|DT buildings|NNS spring|VBG 2013|CD opening|VBG is|VBZ delayed|VBN it|PRP could|MD discourage|VB some|DT buyers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT only|JJ question|NN mark|NN is|VBZ how|WRB long|JJ it|PRP will|MD take|VB for|IN it|PRP to|TO go|VB back|RB online|JJ he|PRP said|VBD </s>|S_END
+<s>|S_START if|IN its|PRP$ six|CD months|NNS that|WDT they|PRP cant|VBP sell|VBP or|CC show|WRB it|PRP can|MD take|VB away|RP from|IN their|PRP$ momentum|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START luckily|RB though|IN few|JJ people|NNS house|VBP hunting|VBG at|IN one57|NNP urgently|RB need|VBP a|DT place|NN to|TO crash|VB </s>|S_END
+<s>|S_START the|DT upper|JJ floors|NNS are|VBP a|DT virtual|JJ international|JJ billionaires|NNS club|VBP hong|JJ kong|JJ apparel|NN company|NN moguls|NNS silas|VBZ chou|PRP and|CC his|PRP$ canadian|JJ business|NN partner|NN lawrence|NN stroll|NN both|DT of|IN whom|WP cashed|VBN in|IN big|JJ when|WRB they|PRP took|VBD michael|NN kors|NNS kors|NNS public|JJ </s>|S_END
+</p>|P_END
+

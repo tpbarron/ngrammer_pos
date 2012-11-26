@@ -1,0 +1,90 @@
+<p>|P_START
+<s>|S_START german|NN chancellor|NN angela|NN merkel|NN welcomes|VBZ greeces|NNS prime|JJ minister|NN antonis|NNS samaras|NNS in|IN front|JJ of|IN the|DT chancellery|NN in|IN berlin|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN greek|NN prime|NN minister|NN antonis|VBZ samaras|NNS said|VBD friday|NN that|IN greece|NN wants|NNS to|TO stand|VB up|RP on|IN our|PRP$ own|JJ feet|NNS as|IN he|PRP seeks|VBZ to|TO negotiate|VB some|DT breathing|VBG room|NN for|IN his|PRP$ debtstricken|NN government|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START samaras|NNS made|VBD the|DT remark|NN after|IN meeting|NN with|IN german|NN chancellor|NN angela|NN merkel|NN in|IN berlin|NN </s>|S_END
+<s>|S_START samaras|NNS is|VBZ set|VBN to|TO meet|VB saturday|NN with|IN french|JJ president|NN françois|NNS hollande|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eurozone|NN leaders|NNS have|VBP indicated|VBN that|IN any|DT concessions|NNS for|IN greece|NN will|MD not|RB be|VB made|VBN until|IN after|IN a|DT report|NN on|IN the|DT nations|NNS finances|NNS is|VBZ complete|JJ next|JJ month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP dont|VBP like|IN having|VBG to|TO depend|VB on|IN borrowed|VBN money|NN said|VBD samaras|NNS who|WP hopes|NNS to|TO extend|VB the|DT nations|NNS bailout|IN program|NN by|IN two|CD years|NNS to|TO give|VB greece|NN more|JJR time|NN to|TO implement|VB difficult|JJ reforms|NNS </s>|S_END
+<s>|S_START but|CC he|PRP stressed|VBD that|IN greece|NN is|VBZ up|IN to|TO the|DT challenge|NN and|CC that|IN his|PRP$ three|CD monthold|NN government|NN will|MD bear|VB results|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START samaras|NNS said|VBD he|PRP was|VBD certain|JJ that|IN the|DT report|NN by|IN officials|NNS from|IN greeces|NNS international|JJ lenders|NNS known|VBN as|IN the|DT troika|NN will|MD demonstrate|VB his|PRP$ governments|NNS resolve|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START merkel|NN said|VBD she|PRP is|VBZ absolutely|RB convinced|VBN that|IN samaras|NNS and|CC his|PRP$ partners|NNS in|IN greeces|NNS coalition|NN government|NN are|VBP doing|VBG everything|NN they|PRP can|MD to|TO solve|VB the|DT nations|NNS economic|JJ problems|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT chancellor|NN said|VBD twice|NN that|IN she|PRP wants|VBZ greece|NN to|TO remain|VB a|DT member|NN of|IN the|DT euro|NN currency|NN union|NN </s>|S_END
+<s>|S_START but|CC she|PRP also|RB argued|VBD that|IN the|DT euro|NN crisis|NN stems|NNS from|IN a|DT lack|NN of|IN trust|NN which|WDT she|PRP said|VBD must|MD be|VB rebuilt|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP have|VBP made|VBN clear|RB today|NN that|IN we|PRP absolutely|RB expect|VBP from|IN greece|NN that|IN the|DT promises|NNS which|WDT were|VBD made|VBN will|MD also|RB be|VB kept|VBN and|CC implemented|VBN said|VBD merkel|NN </s>|S_END
+<s>|S_START that|DT actions|NNS will|MD follow|VB their|PRP$ promises|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START greece|NN has|VBZ been|VBN at|IN the|DT center|NN of|IN europes|NNS longrunning|VBG debt|NN crisis|NN which|WDT is|VBZ now|RB threatening|VBG to|TO envelop|VB spain|NN and|CC italy|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD europes|NNS unstable|JJ hammock|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB after|IN a|DT historic|JJ restructuring|NN in|IN march|NN greece|NN is|VBZ still|RB struggling|VBG to|TO cope|VB with|IN a|DT punishing|VBG debt|NN load|NN as|IN its|PRP$ economy|NN remains|VBZ mired|VBN in|IN a|DT yearslong|JJ recession|NN </s>|S_END
+<s>|S_START many|JJ investors|NNS and|CC economists|NNS believe|VBP there|RB is|VBZ at|IN least|JJS a|DT 50|CD chance|NN that|IN greece|NN will|MD leave|VB the|DT currency|NN union|NN or|CC be|VB forced|VBN out|RP this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START samaras|NNS was|VBD elected|VBN in|IN june|NN following|VBG one|CD failed|JJ elections|NNS that|WDT highlighted|VBN the|DT deep|NN resentment|NN greeks|NNS have|VBP toward|IN the|DT austerity|NN measures|VBZ that|IN are|VBP the|DT price|NN of|IN greeces|NNS financial|JJ rescue|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO make|VB the|DT reforms|NNS less|JJR painful|JJ samaras|NNS is|VBZ hoping|VBG to|TO get|VB an|DT extension|NN of|IN the|DT bailout|NN program|NN that|WDT greece|NN agreed|VBD to|TO under|IN pressure|NN in|IN march|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START an|DT extension|NN is|VBZ possible|JJ but|CC its|PRP$ unlikely|JJ that|IN germany|NN will|MD agree|VB to|TO provide|VB any|DT additional|JJ bailout|IN money|NN said|VBD anatoli|NN annenkov|NN an|DT economist|NN at|IN societe|JJ generale|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ no|DT appetite|NN for|IN providing|VBG more|JJR money|NN to|TO greece|VB annenkov|NN wrote|VBD in|IN a|DT note|NN to|TO clients|NNS adding|VBG that|IN samaras|NNS has|VBZ suggested|VBN other|JJ means|NNS to|TO cover|VB an|DT expected|VBN €20|-NONE- billion|CD budget|NN gap|NN </s>|S_END
+<s>|S_START this|DT should|MD be|VB sufficient|JJ to|TO keep|VB greece|NN out|IN of|IN the|DT headlines|NNS at|IN least|JJS until|IN the|DT german|NN elections|NNS next|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD everything|NN you|PRP need|VBP to|TO know|VB about|IN where|WRB things|NNS stand|VBP in|IN europe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START greece|NN is|VBZ widely|RB believed|VBN to|TO have|VB gone|VBN offtrack|NN with|IN its|PRP$ program|NN following|VBG the|DT political|JJ turmoil|NN of|IN this|DT years|NNS elections|NNS which|WDT left|VBN the|DT nation|NN without|IN a|DT fullyfunctioning|NN government|NN for|IN weeks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB samaras|VBD and|CC his|PRP$ coalition|NN partners|NNS have|VBP reportedly|RB identified|VBN the|DT roughly|RB €11|-NONE- billion|CD in|IN additional|JJ budget|NN cuts|NNS that|WDT it|PRP needs|VBZ to|TO secure|VB the|DT latest|JJS installment|NN of|IN bailout|NN money|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START troika|NN officials|NNS are|VBP set|VBN to|TO return|VB to|TO athens|NNS in|IN early|JJ september|NN to|TO complete|VB their|PRP$ review|NN </s>|S_END
+<s>|S_START that|DT means|VBZ eurozone|NN finance|NN ministers|NNS will|MD probably|RB not|RB make|VB a|DT decision|NN on|IN greeces|NNS bailout|IN money|NN until|IN they|PRP meet|VBP on|IN october|NN 8|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+</p>|P_END
+

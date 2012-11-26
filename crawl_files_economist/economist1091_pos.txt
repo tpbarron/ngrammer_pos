@@ -1,0 +1,46 @@
+<p>|P_START
+<s>|S_START concern|NN that|IN the|DT public|NN was|VBD being|VBG sold|VBN investments|NNS that|IN “had|JJ no|DT more|RBR substance|NN than|IN so|RB many|JJ cubic|JJ feet|NNS of|IN kansas|NNS blue|JJ sky”|NN led|VBN kansas|NNS in|IN 1911|CD to|TO become|VB the|DT first|JJ american|NN state|NN to|TO pass|NN “blue|JJ sky”|NN rules|NNS governing|VBG the|DT public|NN offering|NN of|IN securitie|NN </s>|S_END
+<s>|S_START this|DT began|VBD a|DT process|NN that|WDT culminated|VBN in|IN the|DT 1933|CD securities|NNS act|NN a|DT federal|JJ law|NN that|WDT established|VBD the|DT initial|JJ public|JJ offering|NN ipo|NN process|NN as|IN it|PRP now|RB exists—including|JJ the|DT requirement|NN that|IN a|DT firm|NN selling|VBG shares|NNS to|TO the|DT public|NN issue|NN a|DT prospectus|NN and|CC then|RB enter|VB a|DT “quiet|JJ period”|NN until|IN the|DT shares|NNS start|VBP trading|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT theory|NN behind|IN the|DT quiet|JJ period|NN is|VBZ that|IN it|PRP ensures|VBZ all|DT investors|NNS have|VBP equal|JJ access|NN to|TO information|NN because|IN the|DT prospectus|NN is|VBZ all|DT there|RB i|PRP </s>|S_END
+<s>|S_START but|CC the|DT usefulness|NN and|CC viability|NN of|IN the|DT quiet|JJ period|NN is|VBZ now|RB being|VBG called|VBN into|IN question|NN because|IN of|IN flaws|NNS revealed|VBN by|IN the|DT recent|JJ ipo|NN of|IN facebook|NN and|CC changes|NNS introduced|VBD in|IN april|NN by|IN the|DT jumpstart|NN our|PRP$ business|NN startups|NNS jobs|NNS act|VBP intended|VBN to|TO cut|VB the|DT cost|NN to|TO growing|VBG firms|NNS of|IN raising|VBG capital|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ not|RB the|DT first|JJ time|NN such|JJ questions|NNS have|VBP been|VBN raised|VBN </s>|S_END
+<s>|S_START in|IN 1997|CD unsuccessfully|RB proposing|VBG a|DT reduction|NN of|IN the|DT quiet|JJ period|NN to|TO a|DT bare|NN minimum|NN arthur|NN levitt|NN then|RB chairman|NN of|IN the|DT securities|NNS and|CC exchange|NN commission|NN sec|NN argued|VBD that|IN even|RB back|RB in|IN 1933|CD it|PRP had|VBD been|VBN difficult|JJ to|TO stop|VB leaks|NNS of|IN information|NN beyond|IN that|DT contained|VBN in|IN the|DT prospectus|NN by|IN 1997|CD it|PRP had|VBD become|VBN “impossible”|-NONE- </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN that|DT was|VBD true|JJ in|IN 1997|CD it|PRP is|VBZ likely|JJ to|TO be|VB even|RB truer|JJR today|NN </s>|S_END
+<s>|S_START mary|JJ schapiro|NN mr|NN levitt’s|NNS latest|JJS successor|NN at|IN the|DT sec|NN seems|VBZ to|TO agree|VB up|RP to|TO a|DT point|NN </s>|S_END
+<s>|S_START in|IN a|DT letter|NN on|IN august|NN 23rd|CD to|TO darrell|VB issa|NN a|DT congressman|NN who|WP had|VBD raised|VBN concerns|NNS about|IN the|DT facebook|NN ipo|NN she|PRP agreed|VBD there|RB should|MD be|VB a|DT review|NN of|IN the|DT quiet|JJ period|NN in|IN light|JJ of|IN recent|JJ changes|NNS to|TO financial|JJ markets|NNS and|CC modern|JJ communications|NNS technology|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ms|NNS schapiro|VBP avoided|VBN commenting|VBG specifically|RB on|IN the|DT facebook|NN offering|NN </s>|S_END
+<s>|S_START lawsuits|NNS have|VBP been|VBN filed|VBN after|IN some|DT investors|NNS appear|VBP to|TO have|VB been|VBN given|VBN negative|JJ information|NN that|WDT was|VBD not|RB in|IN the|DT prospectus|NN resulting|VBG in|IN a|DT postipo|NN plunge|NN in|IN the|DT social|JJ network’s|NNS share|NN price|NN </s>|S_END
+<s>|S_START but|CC the|DT sec|NN chief|NN argued|VBD that|IN the|DT quiet|JJ period|NN still|RB produces|VBZ “substantive|JJ benefits|NNS to|TO the|DT marketplace”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ms|NNS schapiro|VBP notes|NNS that|IN unlike|JJ in|IN the|DT facebook|NN case|NN ipos|NNS are|VBP typically|RB followed|VBN by|IN an|DT immediate|JJ surge|NN in|IN the|DT share|NN price|NN </s>|S_END
+<s>|S_START he|PRP suggests|VBZ this|DT is|VBZ not|RB because|IN information|NN is|VBZ being|VBG held|VBN back|RP from|IN the|DT public|NN citing|VBG studies|NNS attributing|VBG the|DT price|NN “pop”|NN to|TO other|JJ factors|NNS such|JJ as|IN issuers|NNS intentionally|RB rewarding|VBG institutional|JJ investors|NNS for|IN the|DT risk|NN of|IN taking|VBG part|NN in|IN the|DT ipo|NN proce|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT jobs|NNS act|VBP meanwhile|RB calls|VBZ for|IN rule|NN changes|NNS that|WDT reduce|VB quietperiod|NN obligations|NNS for|IN “emerging|JJ growth|NN companies”|NN with|IN revenues|NNS of|IN less|JJR than|IN $|$ 1|CD billion|CD a|DT category|NN that|WDT would|MD have|VB covered|VBN 90|CD of|IN the|DT ipos|NNS in|IN america|NN last|JJ year|NN </s>|S_END
+<s>|S_START this|DT week|NN the|DT sec|NN belatedly|RB proposed|VBN a|DT new|JJ rule|NN also|RB required|VBN by|IN the|DT jobs|NNS act|VBP making|VBG it|PRP easier|JJR for|IN firms|NNS to|TO advertise|VB private|JJ sales|NNS of|IN shares|NNS to|TO accredited|VBN investors|NNS typically|RB with|IN assets|NNS of|IN at|IN least|JJS $|$ 1m|CD </s>|S_END
+<s>|S_START ome|NN backers|NNS of|IN the|DT law|NN which|WDT got|VBD bipartisan|NN support|NN in|IN congress|NN still|RB worry|VBP that|IN the|DT persistence|NN of|IN the|DT quietperiod|NN rule|NN discourages|NNS the|DT greater|JJR openness|NN that|IN the|DT jobs|NNS act|VBP seeks|NNS to|TO encourage|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START two|CD questions|NNS are|VBP at|IN the|DT heart|NN of|IN this|DT debate|NN </s>|S_END
+<s>|S_START one|CD is|VBZ whether|IN all|DT investors|NNS should|MD have|VB equal|JJ access|NN to|TO information|NN </s>|S_END
+<s>|S_START the|DT other|JJ is|VBZ whether|IN allowing|VBG looser|NN corporate|JJ tongues|NNS is|VBZ good|JJ leading|VBG to|TO better|JJR pricing|NN or|CC bad|JJ leading|VBG to|TO hype|NN </s>|S_END
+<s>|S_START mr|NN levitt|VBD took|VBD an|DT important|JJ step|NN in|IN 2000|CD when|WRB he|PRP introduced|VBD a|DT rule|NN obliging|VBG public|JJ firms|NNS to|TO disclose|VB information|NN to|TO all|DT investors|NNS simultaneously|RB </s>|S_END
+<s>|S_START his|PRP$ instincts|NNS were|VBD right|RB on|IN the|DT quiet|JJ period|NN too|RB </s>|S_END
+</p>|P_END
+

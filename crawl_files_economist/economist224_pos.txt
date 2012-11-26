@@ -1,0 +1,63 @@
+<p>|P_START
+<s>|S_START unday|NN nights|NNS in|IN paris|NNS are|VBP busy|JJ on|IN the|DT northern|JJ tip|NN of|IN the|DT canal|JJ saintmartin|NN </s>|S_END
+<s>|S_START on|IN either|DT side|NN of|IN the|DT water|NN two|CD groups|NNS form|NN long|RB ordered|VBN queues|NNS albeit|NN for|IN different|JJ reason|NN </s>|S_END
+<s>|S_START one|CD queue|NN is|VBZ for|IN those|DT hoping|VBG to|TO buy|VB something|NN to|TO eat|VB from|IN a|DT new|JJ gourmet|NN hamburger|NN truck|NN hourlong|IN waits|NNS are|VBP normal|JJ </s>|S_END
+<s>|S_START the|DT other|JJ queue|NN almost|RB all|DT young|JJ north|NN african|NN men|NNS is|VBZ for|IN those|DT hoping|VBG to|TO find|VB a|DT seat|NN on|IN a|DT bus|NN to|TO a|DT homeless|JJ shelter|NN on|IN the|DT outskirts|NNS of|IN the|DT city|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START paris|NNS is|VBZ no|DT stranger|NN to|TO such|JJ contrast|NN </s>|S_END
+<s>|S_START luxury|NN and|CC penury|NN have|VBP always|RB coexisted|VBN there|EX in|IN uneasy|NN tension|NN </s>|S_END
+<s>|S_START but|CC now|RB a|DT growing|VBG number|NN of|IN homeless|JJ are|VBP stretching|VBG the|DT limits|NNS of|IN the|DT city’s|JJ generosity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “it|JJ is|VBZ easier|JJR to|TO be|VB homeless|JJ in|IN paris|NNS than|IN any|DT other|JJ city|NN in|IN the|DT european|JJ union”|NN says|VBZ julien|VBN damon|NN a|DT sociologist|NN at|IN sciences|NNS po|VBP a|DT university|NN </s>|S_END
+<s>|S_START paris|NNS is|VBZ a|DT magnet|NN for|IN the|DT transient|NN </s>|S_END
+<s>|S_START parisian|JJ police|NN are|VBP more|RBR tolerant|JJ of|IN the|DT homeless|NN than|IN those|DT in|IN other|JJ european|JJ cities|NNS and|CC rarely|RB trouble|JJ rough|IN sleepers—an|JJ approach|NN that|WDT has|VBZ deep|VBP cultural|JJ root|NN </s>|S_END
+<s>|S_START in|IN european|JJ surveys|NNS french|VBP respondents|NNS are|VBP the|DT most|RBS likely|JJ to|TO see|VB homelessness|NN as|IN a|DT product|NN of|IN unemployment|NN and|CC the|DT least|JJS likely|JJ to|TO see|VB it|PRP as|IN the|DT result|NN of|IN drug|NN or|CC alcohol|NN addiction|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nobody|NN knows|VBZ how|WRB many|JJ homeless|JJ there|EX are|VBP in|IN pari|NN </s>|S_END
+<s>|S_START data|NNS collection|NN is|VBZ meagre|JJ and|CC infrequent|NN </s>|S_END
+<s>|S_START the|DT last|JJ meaningful|JJ estimate|NN by|IN insee|NN france’s|NNS national|JJ statistics|NNS office|NN dates|NNS from|IN the|DT mid|JJ 2000s|CD and|CC pegged|VBD the|DT number|NN including|VBG those|DT sleeping|VBG rough|JJ or|CC in|IN emergency|NN shelters|NNS on|IN any|DT given|VBN night|NN at|IN around|IN 12000|CD </s>|S_END
+<s>|S_START anecdotal|JJ evidence|NN suggests|VBZ that|IN the|DT number|NN is|VBZ considerably|RB higher|JJR today|NN </s>|S_END
+<s>|S_START despite|IN a|DT big|JJ expansion|NN in|IN shelter|NN capacity|NN since|IN 2004|CD demand|NN still|RB outstrips|VBZ supply|RB </s>|S_END
+<s>|S_START calls|NNS to|TO an|DT emergency|NN number|NN run|VBN by|IN samusocial|JJ de|IN paris|NNS a|DT governmentfunded|JJ charity|NN that|WDT allocates|VBZ beds|VBZ in|IN emergency|NN shelters|NNS doubled|VBD between|IN 2009|CD and|CC 2010|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT faces|NNS of|IN the|DT homeless|NN are|VBP changing|VBG too|RB </s>|S_END
+<s>|S_START twenty|NN years|NNS ago|IN the|DT typical|JJ homeless|NN person|NN in|IN paris|NN was|VBD likely|JJ to|TO be|VB a|DT single|JJ middleaged|JJ french|NN man|NN </s>|S_END
+<s>|S_START now|RB the|DT homeless|JJ are|VBP more|RBR likely|JJ to|TO be|VB younger|JJR with|IN a|DT family|NN and|CC foreignborn|NN </s>|S_END
+<s>|S_START interpreters|NNS have|VBP become|VBN indispensable|JJ figures|NNS at|IN most|JJS paris|NNS soup|VBP kitchen|VBN </s>|S_END
+<s>|S_START joint|JJ patrols|NNS of|IN french|NN and|CC romanian|JJ police|NN each|DT officer|NN wearing|VBG his|PRP$ own|JJ national|JJ uniform|NN help|NN deal|NN with|IN an|DT influx|NN of|IN roma|NN from|IN eastern|NN europe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “our|JJ problem|NN is|VBZ too|RB much|JJ bureaucracy|NN and|CC centralisation”|NNP explains|NNS mr|VBP damon|JJ </s>|S_END
+<s>|S_START dealing|VBG with|IN homelessness|NN he|PRP argues|VBZ should|MD be|VB the|DT exclusive|JJ responsibility|NN of|IN the|DT paris|NNS city|NN council|NN </s>|S_END
+<s>|S_START instead|RB at|IN least|JJS 12|CD different|JJ government|NN bodies|NNS are|VBP charged|VBN with|IN caring|NN for|IN the|DT homeless|NN in|IN pari|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START overlapping|VBG responsibility|NN means|NNS duplication|NN </s>|S_END
+<s>|S_START paris|NNS has|VBZ three|CD separate|JJ publicly|RB funded|VBN groups|NNS that|WDT transport|NN homeless|NN people|NNS to|TO shelter|VB </s>|S_END
+<s>|S_START ome|NN complain|NN about|IN being|VBG woken|VBN up|RP over|IN the|DT course|NN of|IN an|DT evening|NN by|IN different|JJ homeless|NN service|NN </s>|S_END
+<s>|S_START philippe|NN redom|NN a|DT 56yearold|JJ rough|JJ sleeper|NN and|CC former|JJ chef|NN prefers|NNS to|TO remain|VB in|IN his|PRP$ alcove|NN outside|IN an|DT office|NN block|NN </s>|S_END
+<s>|S_START the|DT shelters|NNS are|VBP “too|RB big|JJ and|CC there|EX is|VBZ no|DT privacy”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN spaces|NNS in|IN shelters|NNS are|VBP in|IN short|JJ supply|NN paris|NNS rents|NNS hotel|VBP room|NN </s>|S_END
+<s>|S_START a|DT report|NN in|IN 2011|CD by|IN the|DT cour|NN des|VBZ comptes|NNS france’s|-NONE- national|JJ auditor|NN warily|RB noted|VBD that|IN more|JJR than|IN 90|CD of|IN the|DT samusocial’s|JJ annual|JJ budget|NN of|IN €116m|JJ $|$ 150m|CD went|VBD to|TO hotel|VB </s>|S_END
+<s>|S_START in|IN september|NN the|DT french|NN government|NN announced|VBD €50m|JJ in|IN emergency|NN spending|NN on|IN housing|NN the|DT homeless|NN in|IN pari|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN of|IN those|DT funds|NNS would|MD be|VB better|JJR spent|NN on|IN collecting|NN better|NN data|NNS yet|RB the|DT most|RBS useful|JJ fix|NN would|MD be|VB for|IN rough|JJ sleepers|NNS to|TO go|VB closer|JJR to|TO the|DT top|JJ of|IN the|DT queue|NN for|IN permanent|NN public|JJ housing|NN as|IN happens|NNS in|IN london|NN with|IN good|JJ result|NN </s>|S_END
+<s>|S_START the|DT problem|NN is|VBZ not|RB just|RB that|WDT there|EX are|VBP not|RB enough|RB houses|VBZ but|CC also|RB that|IN the|DT wrong|JJ people|NNS tend|VBP to|TO get|VB them|PRP </s>|S_END
+<s>|S_START however|RB welcoming|VBG the|DT streets|NNS of|IN paris|NNS the|DT homeless|NN would|MD do|VB better|RBR with|IN a|DT roof|NN over|IN their|PRP$ head|NN </s>|S_END
+</p>|P_END
+

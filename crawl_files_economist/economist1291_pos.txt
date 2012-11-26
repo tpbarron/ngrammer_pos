@@ -1,0 +1,83 @@
+<p>|P_START
+<s>|S_START makers|NNS the|DT new|JJ industrial|JJ revolution|NN </s>|S_END
+<s>|S_START by|IN chris|NN anderson|NN </s>|S_END
+<s>|S_START crown|NN business|NN 257|CD pages|NNS $|$ 26|CD </s>|S_END
+<s>|S_START random|NN house|NN business|NN £20|-NONE- </s>|S_END
+<s>|S_START buy|NN from|IN amazoncom|NN amazoncouk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START heart|NN smarts|NNS guts|NNS and|CC luck|NN what|WP it|PRP takes|VBZ to|TO be|VB an|DT entrepreneur|NN and|CC build|VB a|DT great|JJ busine|NN </s>|S_END
+<s>|S_START by|IN anthony|NN tjan|NN richard|NN harrington|NN and|CC tsunyan|NN hsieh|NN </s>|S_END
+<s>|S_START harvard|NN business|NN review|NN press|NN 236|CD pages|NNS $|$ 25|CD and|CC £1699|JJ </s>|S_END
+<s>|S_START buy|NN from|IN amazoncom|NN amazoncouk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT slice|NN of|IN the|DT pie|NN how|WRB to|TO build|VB a|DT big|JJ little|JJ busine|NN </s>|S_END
+<s>|S_START by|IN nick|NN sarillo|NN </s>|S_END
+<s>|S_START portfolio|NN 272|CD pages|NNS $|$ 2695|CD </s>|S_END
+<s>|S_START buy|NN from|IN amazoncom|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tough|IN times|NNS in|IN the|DT economy|NN have|VBP often|RB been|VBN the|DT best|JJS times|NNS to|TO start|VB a|DT new|JJ busine|NN </s>|S_END
+<s>|S_START great|JJ companies|NNS born|NN in|IN a|DT recession|NN include|NN general|NN electric|NN walt|NN disney|NN burger|NN king|VBG and|CC microsoft|NN </s>|S_END
+<s>|S_START with|IN unemployment|NN remaining|VBG stubbornly|RB high|JJ across|IN the|DT rich|JJ world|NN and|CC big|JJ companies|NNS still|RB blaming|VBG “unprecedented|JJ uncertainty”|NN for|IN their|PRP$ reluctance|NN to|TO dip|VB into|IN record|NN profits|NNS to|TO bet|VB on|IN risky|JJ new|JJ ideas|NNS people|NNS with|IN ideas|NNS are|VBP increasingly|RB asking|VBG why|WRB not|RB launch|JJ my|PRP$ own|JJ startup|NN </s>|S_END
+<s>|S_START there|EX is|VBZ an|DT abundance|NN of|IN new|JJ books|NNS to|TO help|VB them|PRP answer|VB that|IN question|NN and|CC they|PRP fall|VBP into|IN three|CD broad|JJ categories|NNS the|DT big|JJ picture|NN selfhelp|NN and|CC the|DT inspirational|JJ success|NN story|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN some|DT ways|NNS opportunities|NNS for|IN entrepreneurs|NNS have|VBP never|RB been|VBN greater|JJR </s>|S_END
+<s>|S_START as|IN chris|NNS anderson|NN explains|NNS in|IN “makers”|JJ the|DT mix|NN of|IN technological|JJ innovation|NN and|CC intensifying|VBG globalisation|NN is|VBZ ushering|VBG in|IN a|DT new|JJ industrial|JJ revolution|NN that|WDT is|VBZ now|RB spreading|VBG from|IN software|NN to|TO manufacturing|NN in|IN ways|NNS that|WDT promise|VBP to|TO give|VB a|DT huge|JJ boost|NN to|TO innovative|VB entrepreneur|NN </s>|S_END
+<s>|S_START this|DT “industrialising|JJ of|IN the|DT doityourself|NN spirit”|NN is|VBZ built|VBN on|IN the|DT growing|VBG ability|NN to|TO be|VB at|IN once|RB small|JJ and|CC global|JJ artisanal|JJ and|CC innovative|JJ and|CC high|JJ tech|NN and|CC low|JJ cost|NN argues|NNS mr|VBP anderson|NN who|WP wrote|VBD for|IN the|DT economist|NN before|IN becoming|VBG editorinchief|NN of|IN wired|VBN in|IN 2001|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT transformation|NN is|VBZ well|RB illustrated|VBN by|IN mr|NN anderson’s|NNS success|NN in|IN creating|NN a|DT version|NN 20|CD of|IN a|DT garden|JJ sprinkler|NN invented|VBN and|CC patented|VBN by|IN his|PRP$ grandfather|NN </s>|S_END
+<s>|S_START anderson|NN grandpère|JJ took|NN years|NNS to|TO profit|NN from|IN his|PRP$ idea|NN and|CC then|RB only|RB by|IN selling|NN it|PRP to|TO an|DT existing|VBG company|NN </s>|S_END
+<s>|S_START but|CC with|IN the|DT help|NN of|IN the|DT opensource|NN community|NN his|PRP$ grandson|NN was|VBD able|JJ to|TO design|NN a|DT better|JJR sprinkler|NN that|IN thanks|NNS to|TO modern|VB global|JJ supply|NN chains|NNS could|MD be|VB made|VBN and|CC sold|VBN at|IN a|DT modest|JJ profit|NN for|IN around|IN $|$ 100—maybe|CD a|DT third|JJ of|IN the|DT price|NN of|IN the|DT existing|VBG commercial|JJ alternative|NN </s>|S_END
+<s>|S_START getting|VBG the|DT product|NN to|TO market|NN cost|NN under|IN $|$ 5000|CD less|JJR than|IN his|PRP$ grandfather|NN had|VBD paid|VBN in|IN fees|NNS to|TO patent|VB lawyer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN with|IN his|PRP$ previous|JJ bestsellers|NNS “the|JJ long|JJ tail”|NN 2006|CD and|CC “free”|JJ 2009|CD mr|NN anderson|NN has|VBZ exaggerated|VBN a|DT bit|NN to|TO make|VB a|DT point|NN </s>|S_END
+<s>|S_START deskside|NN 3d|CD printers|NNS attending|VBG makers’|NN fairs|NNS and|CC fundraising|VBG via|IN kickstarter|NN are|VBP in|IN their|PRP$ early|JJ day|NN </s>|S_END
+<s>|S_START yet|RB even|RB if|IN this|DT revolution|NN advances|NNS more|RBR slowly|RB than|IN he|PRP hopes|VBZ the|DT trends|NNS he|PRP writes|VBZ about|IN are|VBP real|JJ and|CC important|JJ and|CC his|PRP$ descriptions|NNS of|IN how|WRB big|JJ companies|NNS are|VBP opening|VBG up|RP their|PRP$ innovation|NN processes|NNS to|TO outsiders|NNS and|CC the|DT new|JJ ecosystem|NN that|WDT is|VBZ forming|VBG to|TO finance|VB startups|NNS should|MD gladden|VB the|DT heart|NN of|IN any|DT budding|VBG entrepreneur|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START heart|NN is|VBZ one|CD of|IN the|DT four|CD key|JJ factors|NNS anyone|NN considering|VBG starting|VBG a|DT business|NN needs|VBZ argue|NN anthony|NN tjan|NN richard|NN harrington|NN and|CC tsunyan|NN hsieh|NN three|CD successful|JJ businessmen|NNS </s>|S_END
+<s>|S_START it|PRP was|VBD added|VBN to|TO an|DT original|JJ three|CD factors|NNS they|PRP had|VBD identified|VBN earlier|JJR smarts|NNS balls|NNS and|CC luck|NN </s>|S_END
+<s>|S_START the|DT balls|NNS were|VBD then|RB replaced|VBN with|IN guts|NNS at|IN the|DT behest|NN of|IN a|DT timid|JJ publisher|NN </s>|S_END
+<s>|S_START “without|IN heart|NN few|JJ businesses|NNS ever|RB become|VB truly|RB successful|JJ passion|NN and|CC purpose|NN are|VBP crucial|JJ instigators|NNS and|CC guides”|JJ they|PRP write|VBP illustrating|VBG this|DT with|IN colourful|JJ examples|NNS such|JJ as|IN ferran|JJ adrià|NN the|DT chef|NN behind|IN elbulli|NN and|CC guy|NN laliberté|NN the|DT founder|NN of|IN cirque|NN du|NN soleil|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN those|DT not|RB put|VBN off|RP by|IN its|PRP$ remorselessly|RB chirpy|JJ tone|NN this|DT book|NN contains|VBZ some|DT valuable|JJ selfhelp|NN advice|NN not|RB least|JJS in|IN a|DT discussion|NN about|IN luck|NN which|WDT apart|NN from|IN the|DT dumb|NN kind|NN the|DT authors|NNS believe|VBP is|VBZ something|VBG that|IN can|MD be|VB influenced|VBN </s>|S_END
+<s>|S_START to|TO develop|VB a|DT “lucky|JJ network”|NN of|IN helpful|JJ contacts|NNS for|IN instance|NN they|PRP recommend|VBP practising|VBG humility|NN intellectual|JJ curiosity|NN optimism|NN vulnerability|NN authenticity|NN generosity|NN and|CC openne|NN </s>|S_END
+<s>|S_START they|PRP also|RB offer|VBP tips|NNS on|IN how|WRB to|TO overcome|VB and|CC even|RB benefit|VB from|IN failure|NN a|DT fact|NN of|IN life|NN for|IN most|JJS entrepreneur|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START readers|NNS are|VBP invited|VBN to|TO take|VB an|DT entrepreneurial|JJ aptitude|NN test|NN to|TO assess|NN their|PRP$ prospects|NNS for|IN achieving|VBG a|DT successful|JJ startup|NN </s>|S_END
+<s>|S_START ome|NN questions|NNS are|VBP harder|JJR than|IN others|NNS are|VBP you|PRP for|IN instance|NN more|JJR brilliant|JJ than|IN bold|JJ </s>|S_END
+<s>|S_START perhaps|RB the|DT most|RBS controversial|JJ aspect|NN of|IN the|DT book|NN is|VBZ the|DT authors’|NN conviction|NN that|WDT greater|JJR selfawareness|NN is|VBZ an|DT asset|NN for|IN an|DT entrepreneur|NN a|DT view|NN that|WDT challenges|VBZ today’s|-NONE- conventional|JJ wisdom|NN that|WDT the|DT magic|NN ingredient|NN for|IN entrepreneurial|JJ success|NN is|VBZ an|DT unreasonable|JJ bloodyminded|VBN determination|NN to|TO keep|VB going|VBG come|NN hell|NN or|CC high|JJ water|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nick|NN sarillo|VBD came|VBD perilously|RB close|JJ to|TO giving|VBG up|RP the|DT struggle|NN after|IN the|DT 2008|CD financial|JJ crisis|NN made|VBN his|PRP$ recent|JJ expansion|NN look|NN foolish|NN and|CC threatened|VBN to|TO plunge|VB nick’s|JJ pizza|NN pub|NN his|PRP$ restaurant|NN chain|NN into|IN bankruptcy|NN </s>|S_END
+<s>|S_START it|PRP was|VBD only|RB in|IN early|JJ 2011|CD when|WRB against|IN the|DT advice|NN of|IN his|PRP$ publicrelations|NNS firm|NN he|PRP sent|VBD an|DT email|NN to|TO 16000|CD customers|NNS spelling|VBG out|RP the|DT company’s|NNS difficulties|NNS that|WDT things|NNS turned|VBD around|IN </s>|S_END
+<s>|S_START in|IN the|DT week|NN after|IN the|DT email|NN sales|NNS doubled|VBD as|RB customers|NNS who|WP had|VBD long|RB appreciated|VBN the|DT quality|NN of|IN service|NN and|CC the|DT pizza|NN upped|VBD their|PRP$ orders|NNS to|TO keep|VB their|PRP$ favourite|JJ restaurant|NN alive|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN “makers”|JJ mr|NN anderson|NN notes|NNS that|WDT at|IN least|JJS until|IN now|RB of|IN the|DT small|JJ firms|NNS that|WDT create|VB most|JJS new|JJ jobs|NNS in|IN america|NN “too|RB few|JJ are|VBP innovative|JJ and|CC too|RB many|JJ are|VBP strictly|RB local”|JJ citing|NN pizza|NN restaurants|NNS as|IN an|DT example|NN along|IN with|IN dry|JJ cleaners|NNS and|CC corner|NN shop|NN </s>|S_END
+<s>|S_START for|IN mr|NN sarillo|NN who|WP embodies|NNS the|DT characteristics|NNS celebrated|VBD by|IN messrs|NNS tjan|VBP et|NN al|NN right|RB down|IN to|TO his|PRP$ meatballs|NNS even|RB local|JJ pizza|NN joints|NNS can|MD be|VB as|RB good|JJ as|IN a|DT global|JJ leader|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START from|IN the|DT moment|NN mr|NN sarillo|NN quit|NN his|PRP$ job|NN as|IN a|DT carpenter|NN in|IN the|DT mid1990s|NNP to|TO open|VB a|DT restaurant|NN he|PRP set|VBD out|RP to|TO prove|VB that|IN even|RB a|DT small|JJ business|NN can|MD build|VB a|DT worldclass|NN culture|NN “by|JJ disciplining|NN yourself|PRP and|CC your|PRP$ organisation|NN to|TO work|VB the|DT company’s|NNP culture|NN into|IN every|DT decision|NN you|PRP make|VBP and|CC every|DT action|NN you|PRP take”|-NONE- the|DT result|NN has|VBZ been|VBN profit|NN margins|NNS twice|NN those|DT of|IN the|DT average|NN pizza|NN joint|NN employee|NN turnover|NN less|RBR than|IN 20|CD of|IN the|DT industry|NN average|NN and|CC customers|NNS who|WP are|VBP loyal|JJ enough|JJ to|TO buy|VB more|JJR to|TO help|VB avoid|JJ bankruptcy|NN </s>|S_END
+<s>|S_START if|IN any|DT of|IN today’s|JJ army|NN of|IN wouldbe|NN entrepreneurs|NNS needs|VBZ inspiration|NN to|TO take|VB the|DT plunge|NN mr|NN sarillo|NN offers|NNS not|RB just|RB a|DT great|JJ pizza|NN but|CC a|DT fine|NN role|NN model|NN </s>|S_END
+</p>|P_END
+

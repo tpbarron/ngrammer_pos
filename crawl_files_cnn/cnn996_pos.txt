@@ -1,0 +1,73 @@
+<p>|P_START
+<s>|S_START the|DT postal|JJ service|NN could|MD run|VB out|RP of|IN cash|NN in|IN october|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START washington|NN cnnmoney|NN without|IN help|NN from|IN congress|NN the|DT postal|JJ service|NN will|MD not|RB only|RB default|VB on|IN payments|NNS for|IN retiree|JJ health|NN care|NN benefits|NNS but|CC it|PRP could|MD lack|VB cash|NN for|IN operations|NNS by|IN midoctober|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN of|IN midnight|NN wednesday|NN the|DT postal|JJ service|NN was|VBD in|IN default|NN for|IN the|DT first|JJ time|NN in|IN its|PRP$ history|NN on|IN a|DT $|$ 55|CD billion|CD payment|NN owed|VBD the|DT federal|JJ government|NN to|TO prepay|VB health|NN care|NN benefits|NNS for|IN retirees|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN the|DT postal|JJ service|NN is|VBZ in|IN big|JJ financial|JJ trouble|NN due|JJ to|TO fewer|JJR people|NNS sending|VBG mail|NN and|CC the|DT mandate|NN to|TO prepay|VB retiree|JJ benefits|NNS the|DT default|NN is|VBZ largely|RB symbolic|JJ </s>|S_END
+<s>|S_START the|DT agency|NN will|MD skip|VB that|IN payment|NN and|CC another|DT $|$ 56|CD billion|CD payment|NN due|JJ sept|NN 30|CD while|IN continuing|VBG to|TO pay|VB employees|NNS and|CC contractors|NNS to|TO deliver|VB the|DT mail|NN on|IN time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB by|IN oct|NN 15|CD the|DT agencys|NNS cash|NN crunch|NN could|MD result|VB in|IN a|DT $|$ 100|CD million|CD shortfall|NN according|VBG to|TO david|VB c|NN williams|NNS the|DT services|NNS inspector|NN general|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP concur|VBP with|IN the|DT postal|JJ services|NNS projections|NNS that|WDT it|PRP might|MD not|RB have|VB sufficient|JJ cash|NN to|TO fund|VB its|PRP$ operations|NNS in|IN october|NN 2012|CD and|CC at|IN other|JJ times|NNS during|IN fiscal|JJ year|NN 2013|CD williams|NNS wrote|VBD in|IN a|DT july|RB 25|CD memo|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT timing|NN is|VBZ significant|JJ because|IN experts|NNS dont|VBP expect|VBP congress|NN to|TO make|VB much|JJ headway|NN on|IN saving|NN the|DT postal|JJ service|NN until|IN after|IN the|DT november|NN election|NN </s>|S_END
+<s>|S_START while|IN the|DT senate|NN passed|VBD a|DT bill|NN in|IN april|NN the|DT house|NN has|VBZ yet|RB to|TO take|VB up|RP its|PRP$ version|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT postal|JJ service|NN runs|VBZ out|RP of|IN money|NN in|IN october|NN it|PRP may|MD be|VB brief|JJ according|VBG to|TO the|DT service|NN and|CC the|DT inspector|NN generals|NNS office|NN </s>|S_END
+<s>|S_START the|DT service|NN is|VBZ expecting|VBG an|DT uptick|NN in|IN mail|NN volume|NN and|CC revenue|NN thanks|NNS to|TO the|DT 2012|CD presidential|JJ election|NN and|CC the|DT holiday|NN season|NN to|TO help|VB make|VB ends|NNS meet|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC if|IN election|NN and|CC holiday|NN mail|NN dont|NN come|NN through|IN financial|JJ shortfalls|NNS could|MD be|VB worse|JJ the|DT inspector|NN general|NN warns|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT postal|JJ service|NN has|VBZ a|DT backup|NN plan|NN to|TO conserve|VB cash|NN so|IN itll|NN be|VB able|JJ to|TO deliver|VB mail|NN on|IN time|NN and|CC keep|VB the|DT lights|NNS on|IN at|IN post|NN offices|NNS </s>|S_END
+<s>|S_START it|PRP would|MD skip|VB paying|VBG into|IN the|DT federal|JJ retirement|NN system|NN and|CC would|MD skimp|VB on|IN workers|NNS compensation|NN payments|NNS due|JJ to|TO the|DT department|NN of|IN labor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START stiffing|VBG the|DT retirement|NN system|NN wouldnt|NN be|VB so|RB bad|JJ since|IN the|DT postal|JJ service|NN has|VBZ overpaid|VBN that|IN program|NN to|TO the|DT tune|NN of|IN $|$ 114|CD billion|CD </s>|S_END
+<s>|S_START both|DT bills|NNS in|IN congress|NN would|MD allow|VB the|DT service|NN to|TO recoup|VB that|IN money|NN in|IN order|NN to|TO pay|VB off|RP other|JJ debts|NNS including|VBG a|DT $|$ 127|CD billion|CD loan|NN from|IN treasury|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC shortchanging|VBG the|DT workers|NNS compensation|NN payments|NNS could|MD have|VB consequences|NNS the|DT inspector|NN general|NN warned|VBD </s>|S_END
+<s>|S_START the|DT department|NN of|IN labor|NN may|MD not|RB have|VB enough|RB in|IN reserve|NN for|IN its|PRP$ program|NN which|WDT compensates|VBZ federal|JJ employees|NNS who|WP have|VBP been|VBN injured|VBN on|IN the|DT job|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START postal|JJ service|NN chief|NN financial|JJ officer|NN stephen|WRB j|NN </s>|S_END
+<s>|S_START masse|NN said|VBD officials|NNS hadnt|VBP made|VBN a|DT decision|NN about|IN whether|IN to|TO take|VB any|DT extraordinary|JJ cash|NN preservation|NN measures|VBZ and|CC would|MD monitor|VB the|DT cash|NN situation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START postal|JJ watchers|NNS expect|VBP the|DT house|NN to|TO take|VB up|RP a|DT bill|NN authored|VBN by|IN rep|NN darrell|NN issa|NN a|DT california|NN republican|NN after|IN nov|NN 6|CD </s>|S_END
+<s>|S_START if|IN the|DT bill|NN passes|VBZ then|RB the|DT two|CD chambers|NNS would|MD meet|VB to|TO resolve|VB differences|NNS between|IN the|DT bills|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START theyre|NN not|RB going|VBG to|TO be|VB doing|VBG anything|NN other|JJ than|IN posturing|VBG before|IN the|DT election|NN said|VBD anthony|NN conway|NN executive|NN director|NN of|IN the|DT alliance|NN of|IN nonprofit|JJ mailers|NNS </s>|S_END
+<s>|S_START while|IN i|PRP think|VBP issa|NN has|VBZ the|DT votes|NNS its|PRP$ a|DT tough|JJ vote|NN to|TO take|VB right|NN before|IN the|DT election|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START conway|NN says|VBZ he|PRP expects|VBZ congress|NN will|MD eventually|RB step|VB up|RP and|CC rescue|NN the|DT postal|JJ service|NN before|IN the|DT agency|NN is|VBZ forced|VBN to|TO contemplate|VB the|DT kind|NN of|IN insolvency|NN that|IN would|MD prevent|VB workers|NNS from|IN being|VBG paid |JJ </s>|S_END
+</p>|P_END
+

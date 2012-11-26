@@ -1,0 +1,71 @@
+<p>|P_START
+<s>|S_START the|DT chinese|NN economy|NN has|VBZ a|DT habit|NN of|IN beating|VBG expectation|NN </s>|S_END
+<s>|S_START for|IN ten|VBN years|NNS in|IN a|DT row|NN from|IN 2001|CD to|TO 2010|CD its|PRP$ growth|NN rate|NN exceeded|VBD the|DT imf’s|NNP spring|NN forecast|VBD often|RB by|IN a|DT big|JJ margin|NN </s>|S_END
+<s>|S_START but|CC this|DT year|NN it|PRP is|VBZ likely|JJ to|TO disappoint|VB </s>|S_END
+<s>|S_START in|IN recent|JJ months|NNS industrial|JJ output|NN has|VBZ slowed|VBN sharply|RB stocks|NNS of|IN unsold|JJ goods|NNS are|VBP piling|VBG up|RP and|CC shanghai’s|NNS stockmarket|NN is|VBZ at|IN a|DT threeyear|JJ low|JJ </s>|S_END
+<s>|S_START for|IN the|DT first|JJ time|NN this|DT century|NN in|IN 2012|CD china’s|NNS growth|NN rate|NN may|MD dip|VB below|IN 8|CD </s>|S_END
+<s>|S_START with|IN the|DT world|NN ever|RB more|RBR dependent|JJ on|IN china’s|JJ economy|NN that|WDT is|VBZ worrying|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START no|DT economy|NN can|MD grow|VB by|IN double|JJ digits|NNS forever|RB </s>|S_END
+<s>|S_START as|IN china’s|JJ economy|NN matures|NNS and|CC its|PRP$ labour|NN force|NN peaks|NNS it|PRP is|VBZ only|RB natural|JJ that|IN its|PRP$ pace|NN of|IN expansion|NN ease|NN </s>|S_END
+<s>|S_START but|CC the|DT slowdown|NN of|IN recent|JJ quarters|NNS is|VBZ cyclical|JJ not|RB structural|JJ reflecting|NN a|DT loss|NN of|IN puff|NN rather|RB than|IN a|DT shortening|NN stride|NN </s>|S_END
+<s>|S_START china|NN has|VBZ seen|VBN a|DT sharp|JJ drop|NN in|IN demand|NN as|IN export|NN sales|NNS fall|VBP and|CC residential|JJ investment|NN falter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN of|IN the|DT global|JJ headwinds|NNS buffeting|VBG china|NN were|VBD foreseeable|JJ see|NN article|NN </s>|S_END
+<s>|S_START nonetheless|RB most|RBS economists|NNS assumed|VBD the|DT country’s|NNP policymakers|NNS could|MD quickly|RB revive|VB growth|NN if|IN necessary|JJ </s>|S_END
+<s>|S_START in|IN china|NN in|IN contrast|NN to|TO japan|VB or|CC america|VB interest|NN rates|NNS and|CC bank|NN reserve|NN requirements|NNS have|VBP plenty|NN of|IN room|NN to|TO fall|VB </s>|S_END
+<s>|S_START china|NN has|VBZ an|DT enviable|JJ amount|NN of|IN fiscal|JJ leeway|NN </s>|S_END
+<s>|S_START and|CC its|PRP$ property|NN slowdown|NN largely|RB reflects|VBZ government|NN curbs|NNS on|IN speculative|JJ homebuying|NN that|WDT officials|NNS could|MD lift|VB if|IN they|PRP so|RB chose|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT government|NN has|VBZ done|VBN some|DT of|IN what|WP was|VBD expected|VBN of|IN it|PRP </s>|S_END
+<s>|S_START it|PRP has|VBZ cut|VBN rates|NNS and|CC reserve|VB requirements|NNS a|DT bit|NN </s>|S_END
+<s>|S_START infrastructure|NN spending|NN has|VBZ picked|VBN up|RP </s>|S_END
+<s>|S_START in|IN replacing|NN business|NN taxes|NNS with|IN a|DT valueadded|VBN tax|NN the|DT government|NN has|VBZ eased|VBN the|DT fiscal|JJ burden|NN on|IN small|JJ firm|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ also|RB happy|JJ to|TO help|VB firsttime|JJ homebuyer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC its|PRP$ actions|NNS have|VBP lacked|VBN any|DT of|IN the|DT clarity|NN or|CC urgency|NN of|IN november|NN 2008|CD when|WRB policymakers|NNS rallied|VBN the|DT banks|NNS stateowned|VBD enterprises|NNS and|CC local|JJ officials|NNS to|TO fend|VB off|RP the|DT global|JJ financial|JJ crisi|NN </s>|S_END
+<s>|S_START that|DT stimulus|VBZ turned|VBN out|RP to|TO be|VB bigger|JJR than|IN the|DT crisis|NN warranted|VBD </s>|S_END
+<s>|S_START this|DT year|NN in|IN the|DT face|NN of|IN a|DT much|JJ smaller|NN shock|NN the|DT government’s|NNP response|NN has|VBZ fallen|VBN short|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP explains|VBZ its|PRP$ hesitation|NN </s>|S_END
+<s>|S_START ome|NN now|RB doubt|NN the|DT central|JJ bank’s|NNS ability|NN to|TO revive|VB growth|NN </s>|S_END
+<s>|S_START even|RB if|IN it|PRP did|VBD ease|VB rates|NNS and|CC other|JJ lending|VBG restraints|NNS credit|NN would|MD not|RB rebound|VB they|PRP argue|VBP because|IN the|DT banks|NNS can|MD not|RB find|VB willing|JJ borrower|NN </s>|S_END
+<s>|S_START as|IN with|IN the|DT proverbial|JJ slow|JJ boat|NN to|TO china|VB there|RB is|VBZ a|DT rip|NN in|IN the|DT country’s|JJ monetary|NN sail|NN </s>|S_END
+<s>|S_START others|NNS blame|VBD a|DT twist|NN in|IN the|DT rudder|NN the|DT policymakers|NNS who|WP steer|NN the|DT economy|NN are|VBP distracted|VBN and|CC divided|VBN preoccupied|JJ with|IN this|DT year’s|JJ handover|NN of|IN power|NN which|WDT is|VBZ not|RB going|VBG as|IN smoothly|RB as|IN hoped|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START erring|VBG do|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ some|DT truth|NN in|IN these|DT argument|NN </s>|S_END
+<s>|S_START but|CC they|PRP are|VBP not|RB the|DT whole|JJ story|NN </s>|S_END
+<s>|S_START china’s|NNS policymakers|NNS are|VBP still|RB capable|JJ of|IN reviving|NN growth|NN </s>|S_END
+<s>|S_START but|CC some|DT are|VBP no|DT longer|JJR willing|JJ to|TO do|VB so|RB at|IN any|DT cost|NN </s>|S_END
+<s>|S_START the|DT divisions|NNS at|IN the|DT top|JJ are|VBP philosophical|JJ as|IN well|RB as|IN political|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economic|JJ expansion|NN used|VBN to|TO trump|VB almost|RB everything|NN else|RB </s>|S_END
+<s>|S_START keeping|VBG the|DT growth|NN rate|NN up|IN was|VBD second|JJ only|RB to|TO keeping|VBG the|DT birth|JJ rate|NN down|IN on|IN the|DT list|NN of|IN prioritie|NN </s>|S_END
+<s>|S_START but|CC some|DT chinese|JJ policymakers|NNS now|RB worry|VBP about|IN china’s|NNS reliance|NN on|IN investment|NN and|CC about|IN property|NN speculation|NN which|WDT has|VBZ priced|VBN some|DT middleclass|NN families|NNS out|IN of|IN bigcity|NN market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT past|JJ a|DT chinese|NN government|NN faced|VBD with|IN a|DT nasty|NN downturn|NN would|MD already|RB be|VB repealing|VBG property|NN curbs|NNS and|CC appealing|VBG to|TO stateowned|JJ firms|NNS to|TO expand|VB capacity|NN </s>|S_END
+<s>|S_START uch|JJ a|DT clumsy|NN conventional|JJ response|NN would|MD no|RB doubt|VB revive|JJ growth|NN but|CC would|MD also|RB delay|VB the|DT structural|JJ reforms|NNS like|IN financial|JJ liberalisation|NN that|WDT the|DT country|NN require|NN </s>|S_END
+<s>|S_START policymakers|NNS outside|VBP china|NN may|MD long|RB for|IN more|JJR decisive|JJ action|NN </s>|S_END
+<s>|S_START but|CC if|IN hesitation|NN enables|NNS china|VBP to|TO keep|VB to|TO the|DT path|NN of|IN rebalancing|VBG its|PRP$ economy|NN it|PRP will|MD be|VB good|JJ news|NN for|IN everyone|NN </s>|S_END
+</p>|P_END
+

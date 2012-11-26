@@ -1,0 +1,77 @@
+<p>|P_START
+<s>|S_START imagine|NN that|IN the|DT world’s|NNS best|JJS specialists|NNS in|IN a|DT particular|JJ disease|NN have|VBP convened|VBN to|TO study|NN a|DT serious|JJ and|CC intractable|JJ case|NN </s>|S_END
+<s>|S_START they|PRP offer|VBP competing|VBG diagnoses|NNS and|CC treatment|NN </s>|S_END
+<s>|S_START yet|RB preying|VBG on|IN their|PRP$ minds|NNS is|VBZ a|DT discomfiting|NN fact|NN nothing|NN they|PRP have|VBP done|VBN has|VBZ worked|VBN and|CC they|PRP don’t|VBP know|VBP why|WRB </s>|S_END
+<s>|S_START that|DT sums|NNS up|RP the|DT atmosphere|NN at|IN the|DT annual|JJ economic|JJ symposium|NN in|IN jackson|NN hole|NN wyoming|VBG convened|VBN by|IN the|DT federal|JJ reserve|NN bank|NN of|IN kansas|NNS city|NN and|CC attended|VBD by|IN central|JJ bankers|NNS and|CC economists|NNS from|IN around|IN the|DT world|NN </s>|S_END
+<s>|S_START near|IN the|DT end|NN donald|NN kohn|NN who|WP retired|VBN in|IN 2010|CD after|IN 40|CD years|NNS with|IN the|DT fed|VBN asked|VBD “what’s|-NONE- holding|VBG the|DT economy|NN back|RB despite|IN such|JJ accommodative|JJ monetary|NN policy|NN for|IN so|RB long”|JJ there|EX was|VBD no|DT lack|NN of|IN theorie|NN </s>|S_END
+<s>|S_START but|CC as|IN mr|NN kohn|NN admitted|VBD none|NN is|VBZ entirely|RB satisfying|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START his|PRP$ question|NN could|MD hardly|RB be|VB more|RBR timely|RB </s>|S_END
+<s>|S_START as|IN the|DT economist|NN went|VBD to|TO press|NN the|DT european|JJ central|JJ bank|NN ecb|NN was|VBD meeting|VBG to|TO discuss|VB a|DT resumption|NN in|IN purchases|NNS of|IN bonds|NNS of|IN peripheral|JJ eurozone|NN members|NNS in|IN a|DT bid|NN to|TO alleviate|VB strains|NNS on|IN the|DT single|JJ currency|NN </s>|S_END
+<s>|S_START ben|NN bernanke|VBD the|DT chairman|NN of|IN the|DT federal|JJ reserve|NN suggested|VBD in|IN his|PRP$ speech|NN in|IN jackson|NN hole|NN that|WDT a|DT third|JJ round|NN of|IN quantitative|JJ easing|NN qe|NN the|DT purchase|NN of|IN bonds|NNS with|IN newly|RB created|VBN money|NN would|MD be|VB on|IN the|DT table|NN when|WRB the|DT fed’s|NNP policy|NN committee|NN meets|NNS on|IN september|NN 12th13th|CD </s>|S_END
+<s>|S_START mr|NN bernanke|VBD cited|VBN research|NN by|IN the|DT fed|VBN that|IN previous|JJ bouts|NNS of|IN qe|NN had|VBD lowered|VBN bond|NN yields|NNS and|CC boosted|VBD gdp|NN by|IN as|RB much|JJ as|IN 3|CD </s>|S_END
+<s>|S_START that|DT is|VBZ good|JJ but|CC not|RB good|JJ enough|RB </s>|S_END
+<s>|S_START in|IN america|NN britain|NN and|CC the|DT euro|NN zone|NN interest|NN rates|NNS are|VBP at|IN or|CC near|IN zero|CD and|CC central|JJ banks’|NN balancesheets|NNS have|VBP ballooned|VBN yet|RB unemployment|NN remains|VBZ high|JJ and|CC growth|NN sluggish|JJ see|NN chart|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD school|NN of|IN thought|NN is|VBZ that|IN a|DT high|JJ unemployment|NN rate|NN is|VBZ structural|JJ and|CC immune|JJ to|TO the|DT stimulative|JJ effects|NNS of|IN monetary|JJ policy|NN </s>|S_END
+<s>|S_START edward|NN lazear|NN of|IN stanford|NN university|NN and|CC james|VBZ spletzer|NN of|IN america’s|JJ census|NN bureau|NN argue|NN otherwise|NN </s>|S_END
+<s>|S_START in|IN a|DT paper|NN presented|VBN to|TO the|DT conference|NN they|PRP showed|VBD that|IN those|DT sectors|NNS and|CC demographic|JJ groups|NNS that|WDT contributed|VBD most|JJS to|TO the|DT rise|NN in|IN unemployment|NN in|IN 200709|CD also|RB contributed|VBD most|RBS to|TO its|PRP$ decline|NN in|IN 200912|CD which|WDT suggests|VBZ that|IN shifts|NNS in|IN relative|JJ demand|NN for|IN workers|NNS could|MD not|RB explain|VB the|DT high|JJ level|NN of|IN unemployment|NN </s>|S_END
+<s>|S_START the|DT mismatch|NN between|IN the|DT skills|NNS of|IN the|DT unemployed|VBN and|CC the|DT skills|NNS employers|NNS demand|VBP did|VBD rise|VB during|IN the|DT recession|NN </s>|S_END
+<s>|S_START but|CC by|IN late|JJ 2011|CD the|DT mismatch|NN was|VBD back|RB down|RB to|TO prerecession|NN level|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN most|JJS unemployment|NN is|VBZ cyclical|JJ not|RB structural|JJ the|DT fed|JJ could|MD theoretically|RB help|VB by|IN stimulating|NN demand|NN with|IN easier|JJR monetary|JJ policy|NN </s>|S_END
+<s>|S_START but|CC how|WRB </s>|S_END
+<s>|S_START michael|NN woodford|VBD of|IN columbia|NN university|NN told|VBD the|DT conference|NN that|IN with|IN shortterm|JJ rates|NNS around|IN zero|NN central|JJ banks|NNS have|VBP tried|VBN two|CD broad|JJ strategies|NNS “forward|JJ guidance”|NN or|CC promising|VBG to|TO keep|VB the|DT interest|NN rate|NN at|IN zero|CD for|IN some|DT time|NN or|CC expanding|VBG their|PRP$ balancesheets|NNS through|IN qe|NN and|CC the|DT like|NN </s>|S_END
+<s>|S_START mr|NN woodford|VBD acknowledged|VBN these|DT strategies|NNS had|VBD brought|VBN down|RP expected|VBN shortterm|NN and|CC actual|JJ longterm|NN interest|NN rates|NNS but|CC was|VBD sceptical|JJ about|IN their|PRP$ impact|NN on|IN economic|JJ output|NN </s>|S_END
+<s>|S_START in|IN his|PRP$ paper|NN he|PRP recommended|VBD that|IN the|DT fed|JJ commit|NN to|TO keeping|VBG policy|NN easy|JJ until|IN the|DT economy|NN reaches|VBZ a|DT particular|JJ target|NN such|JJ as|IN nominal|JJ gdp|NN ie|NN output|NN unadjusted|VBD for|IN inflation|NN returning|VBG to|TO its|PRP$ prerecession|NN path|NN </s>|S_END
+<s>|S_START the|DT fed|VBN is|VBZ not|RB about|IN to|TO do|VB that|DT although|IN it|PRP might|MD decide|VB to|TO link|VB future|JJ policy|NN action|NN to|TO progress|NN on|IN unemployment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START adam|NN posen|VBN who|WP recently|RB left|VBD the|DT bank|NN of|IN england’s|NNP monetarypolicy|NN committee|NN had|VBD a|DT different|JJ explanation|NN for|IN the|DT apparent|JJ impotence|NN of|IN monetary|JJ policy|NN </s>|S_END
+<s>|S_START ince|NN many|JJ financial|JJ markets|NNS are|VBP dysfunctional|JJ the|DT monetary|JJ medicine|NN isn’t|NN getting|VBG into|IN the|DT economy’s|JJ bloodstream|NN </s>|S_END
+<s>|S_START the|DT solution|NN is|VBZ for|IN central|JJ banks|NNS to|TO buy|VB more|JJR assets|NNS in|IN the|DT markets|NNS that|WDT are|VBP most|JJS obviously|RB impaired|VBD </s>|S_END
+<s>|S_START that|DT is|VBZ what|WP the|DT bank|NN of|IN england|NN is|VBZ doing|VBG by|IN providing|VBG subsidised|VBN credit|NN to|TO banks|NNS that|IN lend|NN more|JJR what|WP the|DT ecb|NN is|VBZ set|VBN to|TO do|VB when|WRB it|PRP resumes|VBZ purchasing|VBG sovereign|NN bonds|NNS and|CC what|WP the|DT fed|VBN could|MD do|VB by|IN buying|NN more|JJR mortgagebacked|VBN securitie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ages|NNS or|CC dinosaur|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN another|DT paper|NN markus|VBZ brunnermeier|JJR and|CC yuliy|NN sannikov|NN of|IN princeton|NN university|NN provided|VBD theoretical|JJ justification|NN for|IN this|DT approach|NN </s>|S_END
+<s>|S_START monetary|JJ easing|NN usually|RB works|VBZ by|IN encouraging|NN businesses|NNS and|CC households|NNS to|TO move|VB future|JJ consumption|NN and|CC investment|NN forward|NN to|TO today|NN </s>|S_END
+<s>|S_START but|CC it|PRP also|RB has|VBZ “redistributive”|JJ effect|NN </s>|S_END
+<s>|S_START for|IN example|NN low|JJ shortterm|NN interest|NN rates|NNS redistribute|VBP income|NN from|IN depositors|NNS to|TO banks|NNS which|WDT allows|VBZ them|PRP to|TO rebuild|VB capital|NN and|CC encourages|NNS them|PRP to|TO lend|VB more|JJR </s>|S_END
+<s>|S_START imilarly|RB purchases|VBZ of|IN tenyear|JJ government|NN bonds|NNS enrich|WDT some|DT investors|NNS while|IN hurting|VBG others|NNS such|JJ as|IN pension|NN funds|NNS that|WDT depend|NN on|IN bond|NN income|NN to|TO meet|VB longerdated|VBN liabilitie|NN </s>|S_END
+<s>|S_START by|IN tailoring|NN their|PRP$ instruments|NNS to|TO sectors|NNS most|JJS in|IN need|NN of|IN support|NN central|JJ banks|NNS can|MD get|VB more|RBR bang|JJ for|IN their|PRP$ buck|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD problem|NN is|VBZ identifying|VBG the|DT areas|NNS where|WRB direct|JJ intervention|NN will|MD do|VB the|DT most|JJS good|JJ </s>|S_END
+<s>|S_START amir|PRP$ sufi|NN of|IN the|DT university|NN of|IN chicago|NN told|VBD the|DT conference|NN that|IN raising|VBG banks’|NN profits|NNS has|VBZ not|RB done|VBN much|RB to|TO restart|VB demand|NN because|IN the|DT real|JJ problem|NN is|VBZ that|IN indebted|VBN households|NNS can|MD not|RB or|CC will|MD not|RB borrow|VB </s>|S_END
+<s>|S_START he|PRP presented|VBD evidence|NN that|IN retail|JJ spending|NN and|CC car|NN sales|NNS have|VBP been|VBN weaker|JJR in|IN states|NNS that|WDT entered|VBD the|DT recession|NN with|IN higher|JJR household|NN debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START an|DT even|RB bigger|JJR issue|NN is|VBZ the|DT political|JJ controversy|NN that|WDT ensues|VBZ when|WRB central|JJ banks|NNS favour|PRP$ particular|JJ sector|NN </s>|S_END
+<s>|S_START fed|VBD officials|NNS are|VBP constantly|RB told|JJ that|IN zero|NN interest|NN rates|NNS are|VBP hurting|VBG savers|NNS without|IN helping|VBG businesse|NN </s>|S_END
+<s>|S_START ecb|NN purchases|NNS of|IN peripheral|JJ countries’|NN bonds|NNS transfer|VBP risk|NN from|IN debtor|NN to|TO creditor|NN states|NNS prompting|VBG opposition|NN from|IN the|DT bundesbank|NN and|CC voters|NNS in|IN creditor|NN countrie|NN </s>|S_END
+<s>|S_START mr|NN posen|VBN decried|VBN the|DT “selfimposed|JJ taboos”|NN and|CC “prehistoric|JJ thinking”|NN that|WDT makes|VBZ central|JJ banks|NNS worry|VBP that|IN targeted|VBN lending|VBG will|MD distort|VB the|DT allocation|NN of|IN credit|NN or|CC turn|VB into|IN politically|RB motivated|VBN moneyprinting|VBG </s>|S_END
+<s>|S_START this|DT drew|NN a|DT retort|NN from|IN larry|NN lindsey|NN a|DT former|JJ fed|VBN governor|NN “in|-NONE- a|DT free|JJ society|NN individuals|NNS and|CC institutions|NNS don’t|JJ do|VBP unusual|JJ things|NNS because|IN if|IN you|PRP do|VBP and|CC break|VB custom|NN and|CC happen|VB to|TO be|VB wrong|JJ you’re|JJ betting|NN the|DT farm” |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogsfreeexchange|NN </s>|S_END
+</p>|P_END
+

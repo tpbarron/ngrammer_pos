@@ -1,0 +1,137 @@
+<p>|P_START
+<s>|S_START hugo|IN chávez|JJ was|VBD reelected|VBN as|IN president|NN of|IN venezuela|NN beating|VBG henrique|NN capriles|NNS a|DT centrist|NN state|NN governor|NN by|IN 55|CD to|TO 44|CD </s>|S_END
+<s>|S_START if|IN he|PRP completes|VBZ his|PRP$ sixyear|NN term|NN mr|NN chávez|NN will|MD have|VB ruled|VBN venezuela|NN for|IN 20|CD year|NN </s>|S_END
+<s>|S_START he|PRP has|VBZ undergone|VBN three|CD operations|NNS for|IN an|DT unspecified|JJ abdominal|JJ cancer|NN but|CC says|VBZ he|PRP is|VBZ now|RB cured|VBN </s>|S_END
+<s>|S_START ee|NN article|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mexican|NN marines|NNS killed|VBD heriberto|IN lazcano|NN a|DT leader|NN of|IN the|DT violent|NN zetas|VBZ gang|NN </s>|S_END
+<s>|S_START after|IN the|DT killing|VBG a|DT group|NN of|IN gunmen|NNS arrived|VBN at|IN the|DT funeral|JJ home|NN where|WRB the|DT body|NN was|VBD being|VBG kept|VBN threatened|VBN the|DT staff|NN and|CC drove|VBD off|RP with|IN it|PRP </s>|S_END
+<s>|S_START lazcano’s|NNS death|VBP is|VBZ likely|JJ to|TO further|RBR weaken|VB the|DT zetas|NNS and|CC could|MD lead|VB to|TO more|JJR violence|NN in|IN mexico’s|NNP northeast|NN </s>|S_END
+<s>|S_START ee|NN article|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START brazil’s|NNS supreme|VBP court|NN voted|VBD to|TO convict|VB josé|JJ dirceu|NN the|DT chief|NN of|IN staff|NN during|IN the|DT government|NN of|IN luiz|NN inácio|NN lula|NN da|NN silva|NN in|IN a|DT trial|NN concerning|VBG a|DT votebuying|NN scheme|NN in|IN congre|NN </s>|S_END
+<s>|S_START dilma|NN rousseff|NN the|DT current|JJ president|NN replaced|VBD mr|NN dirceu|NN and|CC was|VBD lula’s|JJ chosen|VBN successor|NN but|CC has|VBZ not|RB been|VBN implicated|VBN in|IN the|DT scandal|NN </s>|S_END
+<s>|S_START ee|NN article|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT canadian|JJ naval|NN intelligence|NN officer|NN pleaded|VBD guilty|JJ to|TO spying|NN </s>|S_END
+<s>|S_START jeffrey|NN delisle|NN regularly|RB downloaded|VBD secret|NN information|NN from|IN a|DT computer|NN network|NN shared|VBD with|IN canadian|JJ allies|NNS and|CC sold|VBD it|PRP to|TO russia|VB </s>|S_END
+<s>|S_START his|PRP$ sentencing|NN hearing|NN is|VBZ expected|VBN in|IN january|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START october|NN surprise|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mitt|NN romney|NN had|VBD an|DT excellent|NN week|NN in|IN the|DT polls|NNS boosted|VBD by|IN his|PRP$ performance|NN in|IN the|DT first|JJ debate|NN which|WDT 72|CD of|IN americans|NNS and|CC even|RB 49|CD of|IN democrats|NNS said|VBD he|PRP had|VBD won|VBN </s>|S_END
+<s>|S_START barack|NN obama’s|NNS solid|VBD leads|NNS in|IN almost|RB all|DT the|DT swing|NN states|VBZ evaporated|VBN and|CC the|DT realclearpolitics|NNS average|VBP of|IN polls|NNS put|VBN mr|NN romney|NN ahead|RB in|IN the|DT race|NN overall|NN </s>|S_END
+<s>|S_START ee|NN article|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN romney|NN gave|VBD what|WP his|PRP$ campaign|NN billed|VBD as|IN a|DT big|JJ speech|NN on|IN foreign|JJ affair|NN </s>|S_END
+<s>|S_START but|CC apart|NN from|IN criticising|VBG mr|NN obama’s|NNS policy|NN on|IN the|DT middle|NN east|NN the|DT address|NN was|VBD short|JJ on|IN specific|JJ </s>|S_END
+<s>|S_START meanwhile|RB a|DT congressional|JJ committee|NN held|VBD a|DT hearing|NN into|IN the|DT recent|JJ assault|NN on|IN an|DT american|JJ consulate|NN in|IN libya|NN that|IN killed|JJ the|DT ambassador|NN </s>|S_END
+<s>|S_START one|CD official|JJ said|VBD he|PRP had|VBD never|RB seen|VBN “an|JJ attack|NN of|IN such|JJ ferocity|NN and|CC intensity”|NNP during|IN his|PRP$ entire|JJ diplomatic|JJ career|NN </s>|S_END
+<s>|S_START ee|NN article|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN ohio|NN the|DT republican|JJ state|NN administration|NN asked|VBD the|DT federal|JJ supreme|NN court|NN to|TO overturn|VB a|DT lowercourt|NN decision|NN that|WDT allows|VBZ early|RB voting|VBG in|IN the|DT state|NN in|IN the|DT three|CD days|NNS before|IN the|DT presidential|JJ election|NN </s>|S_END
+<s>|S_START early|RB voting|VBG is|VBZ said|VBN to|TO help|VB increase|NN turnout|IN among|IN minoritie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START britain|NN extradited|VBD abu|NN hamza|NN an|DT egyptianborn|NN militant|NN islamist|NN to|TO america|VB along|IN with|IN four|CD other|JJ men|NNS to|TO face|VB terrorism|NN charge|NN </s>|S_END
+<s>|S_START mr|NN hamza|NN was|VBD indicted|VBN in|IN 2004|CD in|IN relation|NN to|TO taking|VBG hostages|NNS in|IN yemen|NNS among|IN other|JJ things|NNS and|CC had|VBD fought|VBN his|PRP$ removal|NN from|IN britain|NN ever|RB since|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT struggle|NN to|TO educate|VB girl|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN pakistan’s|JJ northwest|NN the|DT pakistani|NN taliban|NN claimed|VBD responsibility|NN for|IN shooting|NN a|DT 14yearold|JJ girl|NN malala|NN yousafzai|NN in|IN the|DT head|NN </s>|S_END
+<s>|S_START they|PRP claimed|VBD she|PRP “promoted|JJ secularism”|NN including|VBG campaigning|NN in|IN a|DT programme|NN on|IN the|DT bbc’s|NNP urdu|NN service|NN for|IN the|DT right|NN for|IN girls|NNS to|TO go|VB to|TO school|NN </s>|S_END
+<s>|S_START malala|NN survived|VBD </s>|S_END
+<s>|S_START ee|NN article|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT philippines|NNS the|DT government|NN announced|VBD the|DT framework|NN of|IN a|DT peace|NN agreement|NN with|IN the|DT moro|NN islamic|JJ liberation|NN front|NN which|WDT has|VBZ fought|VBN for|IN an|DT independent|JJ homeland|NN in|IN mindanao|NN in|IN the|DT country’s|JJ south|NN </s>|S_END
+<s>|S_START a|DT violent|NN insurgency|NN has|VBZ rumbled|VBN on|IN for|IN decades|NNS killing|VBG 120000|CD people|NNS but|CC the|DT agreement|NN envisages|NNS the|DT front|NN giving|VBG up|RP its|PRP$ demand|NN for|IN a|DT homeland|NN in|IN return|NN for|IN autonomy|NN and|CC development|NN </s>|S_END
+<s>|S_START ee|NN article|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START north|JJ korea|NN said|VBD it|PRP felt|VBD more|JJR at|IN liberty|NN to|TO test|NN its|PRP$ longrange|NN missiles|NNS hitherto|IN a|DT flop|NN now|RB that|IN south|NN korea|NN with|IN american|JJ blessing|NN will|MD triple|VB the|DT range|NN of|IN its|PRP$ ballistic|JJ missile|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START reaching|VBG out|IN for|IN support|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START israel’s|NNS prime|VBP minister|NN binyamin|NN netanyahu|NN called|VBN an|DT early|JJ general|JJ election|NN for|IN january|JJ 2013|CD after|IN failing|VBG to|TO get|VB his|PRP$ coalition|NN partners|NNS to|TO agree|VB on|IN next|JJ year’s|NNS budget|NN </s>|S_END
+<s>|S_START opinion|NN polls|NNS put|VBD him|PRP well|RB in|IN the|DT lead|NN </s>|S_END
+<s>|S_START ee|NN article|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START libya’s|NNS fledgling|VBG parliament|NN sacked|VBD the|DT country’s|JJ proposed|VBN new|JJ prime|JJ minister|NN mustafa|NN abushagur|NN only|RB three|CD weeks|NNS after|IN electing|VBG him|PRP and|CC before|IN he|PRP had|VBD taken|VBN office|NN because|IN it|PRP objected|VBD to|TO the|DT government|NN of|IN technocrats|NNS that|WDT he|PRP had|VBD proposed|VBN </s>|S_END
+<s>|S_START a|DT weak|JJ caretaker|NN government|NN will|MD continue|VB in|IN the|DT meantime|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START turkish|JJ jets|NNS forced|VBD a|DT syrian|JJ passenger|NN plane|NN en|NN route|NN to|TO moscow|VB to|TO land|VB in|IN turkey|NN because|IN there|EX was|VBD “objectionable”|JJ material|NN on|IN board|NN according|VBG to|TO the|DT foreign|JJ minister|NN </s>|S_END
+<s>|S_START turkey|NN and|CC syria|NN have|VBP been|VBN shelling|VBG each|DT other|JJ in|IN recent|JJ weeks|NNS as|IN tension|NN spills|NNS over|IN from|IN the|DT syrian|JJ uprising|NN </s>|S_END
+<s>|S_START ee|NN article|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START muhammad|NN morsi|NN egypt’s|NNS president|NN pardoned|VBD all|DT political|JJ prisoners|NNS arrested|VBN since|IN the|DT start|NN of|IN the|DT revolt|NN last|JJ year|NN against|IN hosni|NN mubarak|NN except|IN those|DT convicted|VBN of|IN murder|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN jordan|NN a|DT group|NN close|NN to|TO the|DT muslim|NN brotherhood|NN organised|VBD the|DT biggest|JJS demonstration|NN in|IN the|DT capital|NN amman|NN since|IN the|DT arab|NN spring|NN began|VBD nearly|RB two|CD years|NNS ago|RB </s>|S_END
+<s>|S_START it|PRP held|VBD the|DT protest|NN against|IN what|WP it|PRP claimed|VBD was|VBD king|VBG abdullah’s|NNS failure|NN to|TO make|VB adequate|JJ reforms|NNS in|IN the|DT runup|NN to|TO an|DT election|NN expected|VBN next|JJ year|NN which|WDT the|DT brotherhood|NN said|VBD it|PRP would|MD boycott|VB </s>|S_END
+<s>|S_START ee|NN article|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START abdi|NN farah|NN shirdon|NN said|VBD a|DT businessman|NN who|WP worked|VBD as|IN an|DT economist|NN for|IN somalia’s|NNS government|NN in|IN the|DT 1980s|CD was|VBD appointed|VBN prime|JJ minister|NN in|IN a|DT new|JJ government|NN that|WDT hopes|VBZ to|TO end|VB two|CD decades|NNS of|IN strife|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nigerian|JJ troops|NNS killed|VBD at|IN least|JJS 30|CD people|NNS when|WRB they|PRP opened|VBD fire|NN and|CC burned|VBD buildings|NNS in|IN the|DT northeastern|NN city|NN of|IN maiduguri|NN which|WDT has|VBZ been|VBN under|IN attack|NN by|IN a|DT militant|JJ islamist|NN group|NN boko|NN haram|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT moment|NN of|IN sort|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eurozone|NN finance|NN ministers|NNS formally|RB inaugurated|VBN a|DT permanent|NN €500|-NONE- billion|CD rescuefund|NN called|VBN the|DT european|JJ stability|NN mechanism|NN but|CC the|DT issue|NN of|IN whether|IN it|PRP should|MD be|VB used|VBN to|TO shoulder|NN the|DT existing|VBG bad|JJ debts|NNS of|IN irish|JJ and|CC spanish|JJ banks|NNS was|VBD left|VBN unresolved|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pain’s|NNS credit|VBP rating|VBG was|VBD downgraded|VBN to|TO just|RB above|IN junk|NN status|NN by|IN standard|JJ poor’|NN </s>|S_END
+<s>|S_START pain|NN has|VBZ resisted|VBN requesting|VBG a|DT bailout|NN so|IN far|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START angela|NN merkel|NN paid|VBD a|DT quick|NN visit|NN to|TO athen|VB </s>|S_END
+<s>|S_START germany’s|NNS chancellor|VBP said|VBN she|PRP hoped|VBD that|IN greece|NN would|MD remain|VB a|DT member|NN of|IN the|DT euro|NN zone|NN praised|VBD the|DT country’s|NNP progress|NN on|IN cutting|NN expenditure|NN and|CC offered|VBD “practical”|JJ assistance|NN with|IN structural|JJ reform|NN </s>|S_END
+<s>|S_START ee|NN article|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD of|IN the|DT three|CD female|JJ members|NNS of|IN the|DT punk|NN collective|JJ pussy|NN riot|NN sentenced|VBD to|TO two|CD years|NNS in|IN prison|NN in|IN august|JJ for|IN “hooliganism|JJ motivated|VBN by|IN religious|JJ hatred”|NN was|VBD freed|VBN by|IN a|DT court|NN in|IN moscow|NN </s>|S_END
+</p>|P_END
+

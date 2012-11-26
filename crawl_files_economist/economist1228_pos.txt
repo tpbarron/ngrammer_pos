@@ -1,0 +1,280 @@
+<p>|P_START
+<s>|S_START what’s|NNS a|DT man|NN </s>|S_END
+<s>|S_START or|CC indeed|VBN a|DT woman|NN </s>|S_END
+<s>|S_START biologically|RB the|DT answer|NN might|MD seem|VB obviou|PRP </s>|S_END
+<s>|S_START a|DT human|NN being|VBG is|VBZ an|DT individual|JJ who|WP has|VBZ grown|VBN from|IN a|DT fertilised|VBN egg|NN which|WDT contained|VBD genes|NNS from|IN both|DT father|NN and|CC mother|NN </s>|S_END
+<s>|S_START a|DT growing|VBG band|NN of|IN biologists|NNS however|RB think|VBP this|DT definition|NN incomplete|NN </s>|S_END
+<s>|S_START they|PRP see|VBP people|NNS not|RB just|RB as|IN individuals|NNS but|CC also|RB as|IN ecosystem|NN </s>|S_END
+<s>|S_START in|IN their|PRP$ view|NN the|DT descendant|NN of|IN the|DT fertilised|VBN egg|NN is|VBZ merely|RB one|CD component|NN of|IN the|DT system|NN </s>|S_END
+<s>|S_START the|DT others|NNS are|VBP trillions|NNS of|IN bacteria|NNS each|DT equally|RB an|DT individual|JJ which|WDT are|VBP found|VBN in|IN a|DT person’s|JJ gut|NN his|PRP$ mouth|NN his|PRP$ scalp|NN his|PRP$ skin|NN and|CC all|DT of|IN the|DT crevices|NNS and|CC orifices|NNS that|WDT subtend|NN from|IN his|PRP$ body’s|NNS surface|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT healthy|JJ adult|NN human|NN harbours|NNS some|DT 100|CD trillion|NN bacteria|NN in|IN his|PRP$ gut|NN alone|RB </s>|S_END
+<s>|S_START that|DT is|VBZ ten|VBN times|NNS as|RB many|JJ bacterial|JJ cells|NNS as|IN he|PRP has|VBZ cells|NNS descended|VBN from|IN the|DT sperm|NN and|CC egg|NN of|IN his|PRP$ parent|NN </s>|S_END
+<s>|S_START these|DT bugs|NNS moreover|RB are|VBP diverse|JJ </s>|S_END
+<s>|S_START egg|NN and|CC sperm|NN provide|VB about|IN 23000|CD different|JJ gene|NN </s>|S_END
+<s>|S_START the|DT microbiome|NN as|IN the|DT body’s|NNP commensal|NN bacteria|NN are|VBP collectively|RB known|VBN is|VBZ reckoned|VBN to|TO have|VB around|IN 3m|CD </s>|S_END
+<s>|S_START admittedly|RB many|JJ of|IN those|DT millions|NNS are|VBP variations|NNS on|IN common|JJ themes|NNS but|CC equally|RB many|JJ are|VBP not|RB and|CC even|RB the|DT number|NN of|IN those|DT that|WDT are|VBP adds|VBZ something|NN to|TO the|DT body’s|NNS genetic|JJ mix|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC it|PRP really|RB is|VBZ a|DT system|NN for|IN evolution|NN has|VBZ aligned|VBN the|DT interests|NNS of|IN host|NN and|CC bug|NN </s>|S_END
+<s>|S_START in|IN exchange|NN for|IN raw|NN materials|NNS and|CC shelter|NN the|DT microbes|NNS that|WDT live|JJ in|IN and|CC on|IN people|NNS feed|VBP and|CC protect|VB their|PRP$ hosts|NNS and|CC are|VBP thus|RB integral|JJ to|TO that|DT host’s|JJ wellbeing|NN </s>|S_END
+<s>|S_START neither|DT wishes|NNS the|DT other|JJ harm|NN </s>|S_END
+<s>|S_START in|IN bad|JJ times|NNS though|IN this|DT alignment|NN of|IN interest|NN can|MD break|VB down|IN </s>|S_END
+<s>|S_START then|RB the|DT microbiome|NN may|MD misbehave|VB in|IN ways|NNS which|WDT cause|NN disease|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT bacteria|NN can|MD cause|VB disease|NN is|VBZ no|DT revelation|NN </s>|S_END
+<s>|S_START but|CC the|DT diseases|NNS in|IN question|NN are|VBP </s>|S_END
+<s>|S_START often|RB they|PRP are|VBP not|RB acute|JJ infections|NNS of|IN the|DT sort|NN 20thcentury|CD medicine|NN has|VBZ been|VBN so|RB good|JJ at|IN dealing|VBG with|IN and|CC which|WDT have|VBP coloured|VBN doctors’|-NONE- views|NNS of|IN bacteria|NNS in|IN ways|NNS that|WDT have|VBP made|VBN medical|JJ science|NN slow|JJ to|TO appreciate|VB the|DT richness|NN and|CC relevance|NN of|IN people’s|JJ microbial|JJ ecosystem|NN </s>|S_END
+<s>|S_START they|PRP are|VBP rather|RB the|DT chronic|JJ illnesses|NNS that|WDT are|VBP now|RB at|IN least|JJS in|IN the|DT rich|JJ world|NN the|DT main|JJ focus|NN of|IN medical|JJ attention|NN </s>|S_END
+<s>|S_START for|IN from|IN obesity|NN and|CC diabetes|VBZ via|IN heart|NN disease|NN asthma|NN and|CC multiple|NN sclerosis|NN to|TO neurological|JJ conditions|NNS such|JJ as|IN autism|NN the|DT microbiome|NN seems|VBZ to|TO play|VB a|DT crucial|JJ role|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT bug’s|JJ life|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD way|NN to|TO think|VB of|IN the|DT microbiome|NN is|VBZ as|IN an|DT additional|JJ human|NN organ|NN albeit|NN a|DT rather|RB peculiar|JJ one|CD </s>|S_END
+<s>|S_START it|PRP weighs|VBZ as|IN much|JJ as|IN many|JJ organs|NNS about|IN a|DT kilogram|NN or|CC a|DT bit|NN more|RBR than|IN two|CD pound|NN </s>|S_END
+<s>|S_START and|CC although|IN it|PRP is|VBZ not|RB a|DT distinct|JJ structure|NN in|IN the|DT way|NN that|IN a|DT heart|NN or|CC a|DT liver|NN is|VBZ distinct|JJ an|DT organ|NN does|VBZ not|RB have|VB to|TO have|VB form|NN and|CC shape|NN to|TO be|VB real|RB </s>|S_END
+<s>|S_START the|DT immune|NN system|NN for|IN example|NN consists|NNS of|IN cells|NNS scattered|VBN all|DT around|IN the|DT body|NN but|CC it|PRP has|VBZ the|DT salient|NN feature|NN of|IN an|DT organ|JJ namely|RB that|IN it|PRP is|VBZ an|DT organised|VBN system|NN of|IN cell|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT microbiome|NN too|RB is|VBZ organised|VBN </s>|S_END
+<s>|S_START biology|NN recognises|NNS about|IN 100|CD large|JJ groups|NNS of|IN bacteria|NN known|VBN as|IN phyla|NN that|IN each|DT have|VBP a|DT different|JJ repertoire|NN of|IN biochemical|JJ capabilitie|NN </s>|S_END
+<s>|S_START human|NN microbiomes|VBZ are|VBP dominated|VBN by|IN just|RB four|CD of|IN these|DT phyla|NN the|DT actinobacteria|NN bacteroidetes|VBZ firmicutes|NNS and|CC proteobacteria|VB </s>|S_END
+<s>|S_START clearly|RB living|VBG inside|NN a|DT human|NN being|VBG is|VBZ a|DT specialised|VBN existence|NN that|IN is|VBZ appropriate|JJ only|RB to|TO certain|JJ types|NNS of|IN bug|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pecialised|VBD but|CC not|RB monotonou|PRP </s>|S_END
+<s>|S_START just|RB as|IN ecosystems|NNS such|JJ as|IN forests|NNS grasslands|NNS and|CC coral|JJ reefs|NNS differ|VBP from|IN place|NN to|TO place|VB so|RB it|PRP is|VBZ with|IN microbiome|NN </s>|S_END
+<s>|S_START those|DT of|IN children|NNS in|IN malawi|NN and|CC rural|JJ venezuela|NN for|IN instance|NN contain|NN more|RBR riboflavinproducing|VBG bugs|NNS than|IN do|VB those|DT of|IN north|JJ american|JJ </s>|S_END
+<s>|S_START they|PRP are|VBP also|RB better|RBR at|IN extracting|VBG nutrition|NN from|IN mother’s|NNP milk|NN because|IN they|PRP turn|VBP out|RP lots|NNS of|IN an|DT enzyme|NN known|VBN as|IN glycoside|NN hydrolase|NN </s>|S_END
+<s>|S_START this|DT converts|NNS carbohydrates|VBZ called|VBN glycans|NNS of|IN which|WDT milk|NN has|VBZ many|JJ into|IN usable|JJ sugar|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT detail|NN is|VBZ significant|JJ </s>|S_END
+<s>|S_START glycans|NNS are|VBP indigestible|JJ by|IN any|DT enzyme|NN encoded|VBD in|IN the|DT 23000|CD human|NN gene|NN </s>|S_END
+<s>|S_START only|RB bacterial|JJ enzymes|NNS can|MD do|VB the|DT job|NN </s>|S_END
+<s>|S_START yet|RB natural|JJ selection|NN has|VBZ stuffed|VBN milk|NN full|JJ of|IN them—a|NNP nice|NN example|NN of|IN coevolution|NN at|IN work|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT early|JJ nutritional|JJ role|NN moreover|RB is|VBZ magnified|VBN throughout|IN life|NN </s>|S_END
+<s>|S_START like|IN the|DT glycans|NNS in|IN milk|NN a|DT lot|NN of|IN carbohydrates|NNS would|MD be|VB indigestible|JJ if|IN all|DT the|DT digestive|JJ system|NN had|VBD to|TO work|VB with|IN were|RB the|DT enzymes|NNS that|WDT it|PRP makes|VBZ for|IN itself|PRP </s>|S_END
+<s>|S_START the|DT far|NN larger|NN genome|NN of|IN the|DT microbiome|NN has|VBZ correspondingly|RB greater|JJR capabilities|NNS and|CC complex|JJ carbohydrates|NNS are|VBP no|DT match|NN for|IN it|PRP </s>|S_END
+<s>|S_START they|PRP are|VBP relentlessly|RB chewed|VBN up|RP and|CC their|PRP$ remains|NNS spat|VBP out|RP as|RB small|JJ fattyacid|NN molecules|NNS particularly|RB formic|JJ acid|NN acetic|JJ acid|NN and|CC butyric|JJ acid|NN that|WDT can|MD pass|VB through|IN the|DT gut|NN wall|NN into|IN the|DT bloodstream—whence|JJ they|PRP are|VBP fed|VBN into|IN biochemical|JJ pathways|NNS that|WDT either|DT liberate|NN energy|NN from|IN them|PRP 1015|CD of|IN the|DT energy|NN used|VBD by|IN an|DT average|JJ adult|NN is|VBZ generated|VBN this|DT way|NN or|CC lay|NN them|PRP down|IN as|IN fat|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fat|JJ of|IN the|DT land|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT role|NN in|IN nutrition|NN points|NNS to|TO one|CD way|NN in|IN which|WDT an|DT offkilter|NN microbiome|NN can|MD affect|VB its|PRP$ host|NN what|WP feeds|NNS a|DT body|NN can|MD also|RB overfeed|VB or|CC underfeed|VBN it|PRP </s>|S_END
+<s>|S_START one|CD of|IN the|DT first|JJ analyses|NNS of|IN such|JJ an|DT effect|NN was|VBD jeffrey|NN gordon’s|-NONE- work|VB on|IN bacteria|NN and|CC obesity|NN </s>|S_END
+<s>|S_START in|IN 2006|CD dr|NN gordon|NN who|WP works|NNS at|IN the|DT washington|NN university|NN school|NN of|IN medicine|NN in|IN st|NN louis|NNS missouri|VBP published|VBN a|DT study|NN that|WDT looked|VBD at|IN the|DT mixture|NN of|IN bacteria|NN in|IN the|DT guts|NNS of|IN fat|JJ and|CC thin|JJ american|NN </s>|S_END
+<s>|S_START fat|JJ people|NNS he|PRP discovered|VBD had|VBD more|JJR firmicutes|NNS and|CC fewer|JJR bacteroidetes|NNS than|IN thin|JJ one|CD </s>|S_END
+<s>|S_START and|CC if|IN dieting|VBG made|VBN a|DT fat|JJ person|NN thin|NN his|PRP$ bacterial|JJ flora|NN changed|VBD to|TO match|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START experiments|NNS on|IN mice|NN suggest|NN this|DT is|VBZ not|RB just|RB a|DT question|NN of|IN the|DT bacteria|NN responding|VBG to|TO altered|VBN circumstance|NN </s>|S_END
+<s>|S_START they|PRP actually|RB assist|VBP the|DT process|NN of|IN slimming|VBG by|IN suppressing|NN production|NN of|IN a|DT hormone|NN that|WDT facilitates|VBZ the|DT storage|NN of|IN fat|JJ and|CC of|IN an|DT enzyme|NN that|IN stops|NNS fat|VBP being|VBG burned|VBN </s>|S_END
+<s>|S_START this|DT may|MD help|VB explain|VB an|DT otherwise|NN weird|NN observation|NN from|IN agriculture|NN which|WDT is|VBZ that|IN adding|VBG antibiotics|NNS to|TO cattle|VB feed|VBN helps|NNS fatten|VBN beasts|NNS up—though|JJ cattle|NN treated|VBD in|IN this|DT way|NN put|VBD on|IN muscle|NN mass|NN as|IN well|RB as|IN fat|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START having|VBG shown|VBN that|IN gut|NN bacteria|NNS are|VBP involved|VBN in|IN obesity|NN dr|NN gordon|NN wondered|VBD if|IN the|DT converse|NN was|VBD true|JJ </s>|S_END
+<s>|S_START in|IN a|DT study|NN he|PRP conducted|VBD in|IN malawi|NN he|PRP revealed|VBD at|IN a|DT meeting|NN last|JJ year|NN he|PRP found|VBD that|IN it|PRP i|PRP </s>|S_END
+<s>|S_START having|VBG the|DT wrong|JJ sort|NN of|IN bacteria|NN can|MD cause|VB malnutrition|NN too|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO show|VB this|DT he|PRP and|CC his|PRP$ team|NN looked|VBD at|IN 317|CD pairs|NNS of|IN twins|NNS some|DT fraternal|JJ some|DT identical|JJ </s>|S_END
+<s>|S_START in|IN 43|CD of|IN these|DT pairs|NNS both|DT members|NNS were|VBD well|RB nourished|VBN </s>|S_END
+<s>|S_START in|IN 7|CD both|DT were|VBD malnourished|VBN </s>|S_END
+<s>|S_START crucially|RB though|IN in|IN 50|CD of|IN them|PRP one|CD twin|NN was|VBD well|RB nourished|VBN and|CC one|CD malnourished|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN in|IN the|DT case|NN of|IN overweight|NN and|CC slim|NN westerners|NNS the|DT wellnourished|JJ and|CC malnourished|VBD twins|NNS had|VBD different|JJ microbiome|NN </s>|S_END
+<s>|S_START the|DT bugs|NNS in|IN the|DT malnourished|JJ children|NNS lacked|VBD both|DT the|DT ability|NN to|TO synthesise|VB vitamins|NNS and|CC the|DT ability|NN to|TO digest|VB complex|JJ carbohydrate|NN </s>|S_END
+<s>|S_START and|CC when|WRB dr|NN gordon|NN transplanted|VBD some|DT of|IN the|DT microbiomes|NNS into|IN specially|RB prepared|VBN mice|NN which|WDT had|VBD up|RP until|IN that|DT point|NN had|VBD sterile|JJ guts|NNS the|DT bacteria|NN induced|VBD the|DT same|JJ results|NNS in|IN the|DT rodents|NNS as|IN had|VBD appeared|VBN in|IN the|DT people|NNS they|PRP were|VBD taken|VBN from|IN </s>|S_END
+<s>|S_START thus|RB it|PRP would|MD seem|VB bacteria|NNS might|MD cause|VB malnutrition|NN even|RB in|IN someone|NN whose|WP$ diet|NN would|MD otherwise|VB be|VB sufficient|JJ to|TO sustain|VB him|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN that|DT is|VBZ true|JJ and|CC the|DT human|JJ studies|NNS to|TO prove|VB the|DT point|NN have|VBP yet|RB to|TO be|VB done|VBN it|PRP is|VBZ an|DT extraordinary|JJ result|NN </s>|S_END
+<s>|S_START ome|NN malnutrition|NN obviously|RB is|VBZ caused|VBN by|IN an|DT inadequate|JJ diet|NN </s>|S_END
+<s>|S_START but|CC in|IN the|DT case|NN of|IN twins|NNS their|PRP$ diet|NN can|MD be|VB assumed|VBN to|TO be|VB the|DT same|JJ and|CC therefore|RB in|IN the|DT case|NN of|IN the|DT discordant|JJ twins|NNS to|TO be|VB adequate|JJ </s>|S_END
+<s>|S_START it|PRP might|MD thus|RB be|VB possible|JJ to|TO treat|VB quite|RB a|DT lot|NN of|IN malnutrition|NN by|IN rejigging|NN a|DT sufferer’s|JJ gut|NN bacteria|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB more|JJR surprising|JJ than|IN the|DT microbiome’s|NNP contribution|NN to|TO diseases|NNS of|IN nutrition|NN though|IN is|VBZ its|PRP$ apparent|NN contribution|NN to|TO heart|VB disease|NN diabetes|NNS multiple|VBP sclerosis|NN and|CC many|JJ other|JJ disorder|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT link|NN with|IN heart|NN disease|NN is|VBZ twofold|VBN an|DT observation|NN in|IN people|NNS and|CC an|DT experiment|NN on|IN mice|NN </s>|S_END
+<s>|S_START the|DT observation|NN in|IN people|NNS was|VBD made|VBN by|IN jeremy|NN nicholson|NN of|IN imperial|JJ college|NN london|NN </s>|S_END
+<s>|S_START dr|NN nicholson|NN who|WP studies|NNS the|DT links|NNS between|IN metabolic|JJ products|NNS and|CC disease|NN has|VBZ shown|VBN that|IN the|DT amount|NN of|IN formic|JJ acid|NN in|IN someone’s|NNP urine|NN is|VBZ inversely|RB related|VBN to|TO his|PRP$ blood|NN pressure—a|NNP risk|NN factor|NN for|IN cardiac|NN problem|NN </s>|S_END
+<s>|S_START the|DT connection|NN appears|VBZ to|TO be|VB an|DT effect|NN that|IN formic|JJ acid|NN has|VBZ on|IN the|DT kidneys|NNS it|PRP acts|VBZ as|IN a|DT signalling|NN molecule|NN changing|VBG the|DT amount|NN of|IN salt|NN they|PRP absorb|VBP back|RB into|IN the|DT body|NN from|IN blood|NN plasma|NN that|WDT is|VBZ destined|VBN to|TO become|VB urine|NN </s>|S_END
+<s>|S_START ince|NN the|DT predominant|NN source|NN of|IN formic|JJ acid|NN is|VBZ the|DT gut|NN microbiome|NN dr|NN nicholson|NN thinks|NNS the|DT mix|NN of|IN bacteria|NN there|EX is|VBZ a|DT factor|NN in|IN heart|NN disease|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tanley|NN hazen|VBN of|IN the|DT cleveland|NN clinic|NN in|IN ohio|NN has|VBZ come|VBN up|RP with|IN a|DT second|JJ way|NN that|IN the|DT microbiome|NN can|MD affect|VB the|DT heart|NN </s>|S_END
+<s>|S_START he|PRP and|CC his|PRP$ colleagues|NNS worked|VBD with|IN mice|NN specially|RB bred|VBN to|TO be|VB susceptible|JJ to|TO hardening|NN of|IN the|DT arterie|NN </s>|S_END
+<s>|S_START they|PRP found|VBD that|IN killing|NN off|IN the|DT microbiome|NN in|IN these|DT mice|NN using|VBG antibiotics|NNS significantly|RB reduced|VBN their|PRP$ atherosclerosis—though|JJ why|WRB this|DT should|MD be|VB so|RB remains|VBZ obscure|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT link|NN with|IN diabetes|NNS was|VBD noticed|VBN in|IN morbidly|RB obese|JJ people|NNS who|WP had|VBD opted|VBN for|IN a|DT procedure|NN known|VBN as|IN rouxeny|NN which|WDT shortcircuits|NNS the|DT small|JJ intestine|NN and|CC thus|RB reduces|NNS the|DT amount|NN of|IN food|NN the|DT body|NN can|MD absorb|VB </s>|S_END
+<s>|S_START uch|JJ people|NNS are|VBP almost|RB always|RB diabetic|JJ </s>|S_END
+<s>|S_START as|IN a|DT treatment|NN for|IN obesity|NN rouxeny|NN is|VBZ effective|JJ </s>|S_END
+<s>|S_START as|IN a|DT treatment|NN for|IN diabetes|NNS it|PRP is|VBZ extraordinary|JJ </s>|S_END
+<s>|S_START in|IN 80|CD of|IN cases|NNS the|DT condition|NN vanishes|VBZ within|IN day|NN </s>|S_END
+<s>|S_START experiments|NNS conducted|VBD on|IN mice|NN by|IN dr|NN nicholson|NN and|CC his|PRP$ colleagues|NNS show|VBP that|IN rouxeny|NN causes|NNS the|DT composition|NN of|IN the|DT gut|NN microbiome|NN to|TO change|VB </s>|S_END
+<s>|S_START dr|NN nicholson|NN thinks|NNS this|DT explains|VBZ the|DT sudden|JJ disappearance|NN of|IN diabete|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT diabetes|NNS in|IN question|NN is|VBZ known|VBN as|IN type2|NNP </s>|S_END
+<s>|S_START it|PRP is|VBZ caused|VBN by|IN the|DT insensitivity|NN of|IN body|NN cells|NNS to|TO insulin|VB a|DT hormone|NN that|WDT regulates|VBZ the|DT level|NN of|IN blood|NN sugar|NN </s>|S_END
+<s>|S_START insulin|NN sensitivity|NN is|VBZ part|NN of|IN a|DT complex|JJ and|CC imperfectly|RB understood|VBD web|NN of|IN molecular|JJ signal|NN </s>|S_END
+<s>|S_START dr|NN nicholson|NN suspects|VBZ though|IN he|PRP can|MD not|RB yet|VB prove|RB that|IN some|DT crucial|JJ part|NN of|IN this|DT web|NN is|VBZ regulated|VBN by|IN the|DT microbiome|NN in|IN a|DT way|NN similar|JJ to|TO the|DT role|NN played|VBD by|IN formic|JJ acid|NN in|IN the|DT case|NN of|IN high|JJ blood|NN pressure|NN </s>|S_END
+<s>|S_START the|DT intestinal|JJ bypass|NN by|IN disrupting|NN the|DT microbiome|NN resets|NNS the|DT signal|JJ and|CC the|DT diabetes|NNS vanishe|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ignal|JJ failure|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START besides|IN heart|NN disease|NN and|CC type2|NNP diabetes|NNS dr|VBP nicholson|NN also|RB thinks|VBZ several|JJ autoimmune|NN diseases|NNS in|IN which|WDT the|DT body’s|NNP immune|NN system|NN attacks|NNS healthy|JJ cells|NNS involve|VBP the|DT microbiome|NN </s>|S_END
+<s>|S_START a|DT lot|NN of|IN immunesystem|NN cells|NNS live|VBP in|IN the|DT gut|NN wall|NN where|WRB they|PRP have|VBP the|DT unenviable|JJ task|NN of|IN distinguishing|VBG friendly|RB bacteria|IN from|IN hostile|JJ one|CD </s>|S_END
+<s>|S_START they|PRP do|VBP so|RB on|IN the|DT basis|NN of|IN molecules|NNS generally|RB proteins|VBZ or|CC carbohydrates|NNS on|IN the|DT bacteria’s|NNP surface|NN </s>|S_END
+<s>|S_START occasionally|RB a|DT resemblance|NN between|IN a|DT suspiciouslooking|NN bacterial|NN marker|NN and|CC one|CD from|IN a|DT human|JJ cell|NN leads|NNS the|DT immune|NN system|NN to|TO attack|VB that|IN cell|NN type|NN too|RB </s>|S_END
+<s>|S_START as|IN with|IN many|JJ of|IN the|DT links|NNS between|IN the|DT microbiome|NN and|CC ill|NN health|NN it|PRP is|VBZ not|RB clear|JJ whether|IN this|DT is|VBZ just|RB bad|JJ luck|NN or|CC reflects|VBZ circumstances|NNS in|IN which|WDT the|DT interests|NNS of|IN some|DT set|NN of|IN bugs|NNS in|IN the|DT microbiome|NN diverge|NN from|IN those|DT of|IN the|DT ecosystem|NN as|IN a|DT whole|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START autoimmune|NN diseases|NNS linked|VBD by|IN dr|NN nicholson|NN to|TO the|DT microbiome|NN include|NN type1|NNP diabetes|VBZ caused|VBN not|RB by|IN insulin|NN resistance|NN but|CC by|IN the|DT autoimmune|NN destruction|NN of|IN insulinsecreting|VBG cells|NNS asthma|NN eczema|NN and|CC multiple|NN sclerosi|NN </s>|S_END
+<s>|S_START again|RB the|DT details|NNS are|VBP obscure|JJ but|CC in|IN each|DT case|NN some|DT component|NN of|IN the|DT microbiome|NN seems|VBZ to|TO be|VB confusing|VBG the|DT immune|NN system|NN to|TO the|DT detriment|NN of|IN body|NN cells|NNS elsewhere|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT case|NN of|IN multiple|NN sclerosis|NN a|DT confirmatory|NN study|NN was|VBD published|VBN last|JJ year|NN by|IN kerstin|NN berer|NN and|CC her|PRP$ colleagues|NNS at|IN the|DT max|NN planck|NN institute|NN for|IN immunobiology|NN and|CC epigenetics|NNS in|IN freiburg|NN germany|NN </s>|S_END
+<s>|S_START they|PRP showed|VBD again|RB in|IN mice|NN that|IN gut|NN bacteria|NNS are|VBP indeed|RB involved|VBN in|IN triggering|NN the|DT reaction|NN that|IN causes|NNS the|DT body’s|NNS immune|VBP system|NN to|TO turn|VB against|IN certain|JJ nerve|NN cells|NNS and|CC strip|NN away|RB their|PRP$ insulation|NN in|IN precisely|RB the|DT way|NN that|IN leads|NNS to|TO multiple|VB sclerosi|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT and|CC other|JJ examples|NNS of|IN microbiomes|NNS going|VBG awry|NN raise|NN an|DT intriguing|NN question|NN </s>|S_END
+<s>|S_START if|IN gut|NN bacteria|NN are|VBP making|VBG you|PRP ill|MD can|MD swapping|VB them|PRP make|VB you|PRP healthy|JJ </s>|S_END
+<s>|S_START the|DT yogurt|NN industry|NN has|VBZ been|VBN saying|VBG so|RB loudly|RB for|IN many|JJ years|NNS “top|JJ up|IN your|PRP$ good|NN bacteria”|NN one|CD advert|NN enjoin|NN </s>|S_END
+<s>|S_START the|DT implication|NN is|VBZ that|IN an|DT external|JJ dose|NN of|IN suitable|JJ species|NNS acts|NNS as|IN a|DT tonic|JJ to|TO health|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT question|NN of|IN culture|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START clinical|JJ trials|NNS have|VBP indeed|VBN shown|RP that|IN probiotics|NNS a|DT mixture|NN of|IN bacteria|NN found|VBD for|IN example|NN in|IN yogurt|NN ease|NN the|DT symptoms|NNS of|IN people|NNS with|IN irritablebowel|NN syndrome|NN who|WP often|RB have|VBP slightly|RB abnormal|JJ gut|NN microbiome|NN </s>|S_END
+<s>|S_START whether|IN they|PRP can|MD cause|VB a|DT beneficial|JJ shift|NN in|IN other|JJ people|NNS is|VBZ not|RB known|VBN </s>|S_END
+<s>|S_START a|DT paper|NN published|VBN last|JJ year|NN by|IN dr|NN gordon’s|NNS group|NN reported|VBD that|IN in|IN healthy|JJ identical|JJ twins|NNS the|DT microbiome|NN is|VBZ unaffected|VBN by|IN yogurt|NN when|WRB one|CD twin|NN was|VBD asked|VBN to|TO eat|VB yogurt|NN regularly|RB for|IN a|DT couple|NN of|IN months|NNS while|IN his|PRP$ sibling|NN did|VBD not|RB no|DT change|NN in|IN the|DT microbiome|NN was|VBD seen|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yogurts|NNS are|VBP limited|VBN in|IN the|DT range|NN of|IN bacteria|NN they|PRP can|MD transmit|VB </s>|S_END
+<s>|S_START another|DT intervention|NN though|IN allows|NNS entire|VBP bacterial|JJ ecosystems|NNS to|TO be|VB transferred|VBN from|IN one|CD gut|NN to|TO another|DT </s>|S_END
+<s>|S_START this|DT is|VBZ the|DT transplanting|NN of|IN a|DT small|JJ amount|NN of|IN faece|NN </s>|S_END
+<s>|S_START mark|NN mellow|VBD of|IN the|DT baptist|NN medical|JJ centre|NN in|IN oklahoma|NN city|NN uses|NNS such|JJ faecal|JJ transplants|NNS to|TO treat|VB infections|NNS of|IN clostridium|NN difficile|IN a|DT bug|NN that|WDT causes|VBZ severe|RB diarrhoea|NN and|CC other|JJ symptoms|NNS particularly|RB among|IN patients|NNS already|RB in|IN hospital|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START according|VBG to|TO america’s|NNP centres|NNS for|IN disease|NN control|NN and|CC prevention|NN c|NN difficile|NN kills|NNS 14000|CD people|NNS a|DT year|NN in|IN america|NN alone|RB </s>|S_END
+<s>|S_START the|DT reason|NN is|VBZ that|IN many|JJ strains|NNS are|VBP resistant|JJ to|TO common|JJ antibiotic|JJ </s>|S_END
+<s>|S_START that|DT requires|VBZ wheeling|VBG out|RP the|DT heavy|JJ artillery|NN of|IN the|DT field|NN drugs|NNS such|JJ as|IN vancomycin|NN and|CC metronidazole|NN </s>|S_END
+<s>|S_START these|DT also|RB kill|VBP most|RBS of|IN the|DT patient’s|JJ gut|NN microbiome|NN </s>|S_END
+<s>|S_START if|IN they|PRP do|VBP this|DT while|IN not|RB killing|VBG off|RP the|DT c|NN difficile|NN it|PRP can|MD return|VB with|IN a|DT vengeance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN mellow|VBD has|VBZ found|VBN that|IN treating|NN patients|NNS with|IN an|DT enema|NN containing|VBG faeces|NNS from|IN a|DT healthy|JJ individual|JJ often|RB does|VBZ the|DT trick|NN </s>|S_END
+<s>|S_START the|DT new|JJ bugs|NNS multiply|RB rapidly|RB and|CC take|VB over|RP the|DT lower|JJR intestine|NN driving|VBG c|NN difficile|NN away|RB </s>|S_END
+<s>|S_START last|JJ year|NN he|PRP and|CC his|PRP$ colleagues|NNS announced|VBD they|PRP had|VBD performed|VBN this|DT procedure|NN on|IN 77|CD patients|NNS in|IN five|CD hospitals|NNS with|IN an|DT initial|JJ success|NN rate|NN of|IN 91|CD </s>|S_END
+<s>|S_START moreover|RB when|WRB the|DT seven|CD who|WP did|VBD not|RB respond|VB were|VBD given|VBN a|DT second|JJ course|NN of|IN treatment|NN six|CD were|VBD cured|VBN </s>|S_END
+<s>|S_START though|IN faecal|JJ transplantation|NN for|IN c|NN difficile|NN has|VBZ still|RB to|TO undergo|VB a|DT formal|JJ clinical|JJ trial|NN with|IN a|DT proper|NN control|NN group|NN it|PRP looks|VBZ a|DT promising|NN and|CC cheap|VB answer|NN to|TO a|DT serious|JJ threat|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START perhaps|RB the|DT most|RBS striking|JJ claim|NN however|RB for|IN links|NNS between|IN the|DT microbiome|NN and|CC human|NN health|NN has|VBZ to|TO do|VB with|IN the|DT brain|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ been|VBN known|VBN for|IN a|DT long|JJ time|NN that|WDT people|NNS with|IN autism|NN generally|RB have|VBP intestinal|JJ problems|NNS as|IN well|RB and|CC that|IN these|DT are|VBP often|RB coupled|VBN with|IN abnormal|JJ microbiome|NN </s>|S_END
+<s>|S_START in|IN particular|JJ their|PRP$ guts|NNS are|VBP rich|JJ in|IN species|NNS of|IN clostridia|NNS </s>|S_END
+<s>|S_START this|DT may|MD be|VB crucial|JJ to|TO their|PRP$ condition|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT well|RB functioning|VBG microbiome|NN is|VBZ not|RB one|CD without|IN internal|JJ conflicts—there|JJ is|VBZ competition|NN in|IN every|DT ecosystem|NN even|RB stable|JJ productive|JJ one|CD </s>|S_END
+<s>|S_START clostridia|NNS kill|VBP bacteria|NNS competing|VBG for|IN their|PRP$ niches|NNS with|IN chemicals|NNS called|VBN phenols|NNS carbolic|JJ acid|NN the|DT first|JJ antiseptic|JJ is|VBZ one|CD such|JJ </s>|S_END
+<s>|S_START but|CC phenols|NNS are|VBP poisonous|JJ to|TO human|JJ cells|NNS too|RB and|CC thus|RB have|VBP to|TO be|VB neutralised|VBN </s>|S_END
+<s>|S_START this|DT is|VBZ done|VBN by|IN adding|NN sulphate|NN to|TO them|PRP </s>|S_END
+<s>|S_START o|NN having|VBG too|RB many|JJ clostridia|NNS producing|VBG too|RB many|JJ phenols|NNS will|MD deplete|VB the|DT body’s|NNP reserves|VBZ of|IN sulphur|NN </s>|S_END
+<s>|S_START and|CC sulphur|PRP$ is|VBZ needed|VBN for|IN other|JJ things—including|JJ brain|NN development|NN </s>|S_END
+<s>|S_START if|IN an|DT unusual|JJ microbiome|NN leads|NNS to|TO the|DT gut|NN needing|VBG extra|JJ sulphur|NN the|DT brain|NN may|MD pay|VB the|DT price|NN by|IN developing|VBG abnormally|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whether|IN this|DT actually|RB is|VBZ a|DT cause|NN of|IN autism|NN is|VBZ as|IN yet|RB unproven|VBN </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ telling|VBG that|IN many|JJ autistic|JJ people|NNS have|VBP a|DT genetic|JJ defect|NN which|WDT interferes|NNS with|IN their|PRP$ sulphur|NN metabolism|NN </s>|S_END
+<s>|S_START the|DT clostridia|NN in|IN their|PRP$ guts|NNS could|MD thus|RB be|VB pushing|VBG them|PRP over|IN the|DT edge|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT microbiome|NN made|VBD much|RB easier|JJR to|TO study|NN by|IN new|JJ dnasequencing|NN technology|NN which|WDT lets|NNS you|PRP distinguish|VBP between|IN bugs|NNS without|IN having|VBG to|TO grow|VB them|PRP on|IN petri|NN dishes|NNS is|VBZ thus|RB a|DT trendy|NN area|NN of|IN science|NN </s>|S_END
+<s>|S_START that|DT in|IN itself|PRP brings|VBZ risk|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ possible|JJ that|IN longterm|NN neglect|NN of|IN the|DT microbes|NNS within|IN is|VBZ being|VBG replaced|VBN by|IN excessive|JJ respect|NN and|CC that|IN some|DT of|IN the|DT medical|JJ importance|NN now|RB being|VBG imputed|VBN to|TO the|DT microbiome|NN may|MD prove|VB misplaced|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whether|IN or|CC not|RB that|IN is|VBZ true|JJ though|IN there|EX is|VBZ no|DT doubt|NN that|IN the|DT microbiome|NN does|VBZ feed|VBN people|NNS does|VBZ help|VB keep|VB their|PRP$ metabolisms|NNS ticking|VBG over|IN correctly|RB and|CC has|VBZ at|IN least|JJS some|DT and|CC maybe|RB many|JJ ways|NNS of|IN causing|VBG harm|NN </s>|S_END
+<s>|S_START and|CC it|PRP may|MD do|VB one|CD other|JJ thing|NN it|PRP may|MD link|VB the|DT generations|NNS in|IN previously|RB unsuspected|VBN way|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START generation|NN game|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT lot|NN of|IN the|DT medical|JJ conditions|NNS the|DT microbiome|NN is|VBZ being|VBG implicated|VBN in|IN are|JJ puzzling|VBG </s>|S_END
+<s>|S_START they|PRP seem|VBP to|TO run|VB in|IN families|NNS but|CC no|DT one|NN can|MD track|VB down|IN the|DT genes|NNS involved|VBD </s>|S_END
+<s>|S_START this|DT may|MD be|VB because|IN the|DT effects|NNS are|VBP subtly|RB spread|VBN between|IN many|JJ different|JJ gene|NN </s>|S_END
+<s>|S_START but|CC it|PRP may|MD also|RB be|VB that|IN some—maybe|JJ a|DT fair|JJ few—of|JJ those|DT genes|NNS are|VBP not|RB to|TO be|VB found|VBN in|IN the|DT human|JJ genome|NN at|IN all|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START though|IN less|JJR reliably|RB so|RB than|IN the|DT genes|NNS in|IN egg|NN and|CC sperm|NN microbiomes|NNS too|RB can|MD be|VB inherited|VBN </s>|S_END
+<s>|S_START many|JJ bugs|NNS are|VBP picked|VBN up|RP directly|RB from|IN the|DT mother|NN at|IN birth|JJ </s>|S_END
+<s>|S_START others|NNS arrive|VBP shortly|RB afterwards|NNS from|IN the|DT immediate|JJ environment|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ possible|JJ therefore|NN that|WDT apparently|RB genetic|JJ diseases|NNS whose|WP$ causative|JJ genes|NNS can|MD not|RB be|VB located|VBN really|RB are|VBP heritable|JJ but|CC that|IN the|DT genes|NNS which|WDT cause|NN them|PRP are|VBP bacterial|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ of|IN more|JJR than|IN merely|RB intellectual|JJ interest|NN </s>|S_END
+<s>|S_START known|NN genetic|JJ diseases|NNS are|VBP often|RB hard|RB to|TO treat|VB and|CC always|RB incurable|JJ </s>|S_END
+<s>|S_START the|DT best|JJS that|IN can|MD be|VB hoped|VBN for|IN is|VBZ a|DT course|NN of|IN drugs|NNS for|IN life|NN </s>|S_END
+<s>|S_START but|CC the|DT microbiome|NN is|VBZ medically|RB accessible|JJ and|CC manipulable|JJ in|IN a|DT way|NN that|WDT the|DT human|NN genome|NN is|VBZ not|RB </s>|S_END
+<s>|S_START it|PRP can|MD be|VB modified|VBN both|DT with|IN antibiotics|NNS and|CC with|IN transplant|JJ </s>|S_END
+<s>|S_START if|IN the|DT microbiome|NN does|VBZ turn|VB out|RP to|TO be|VB as|RB important|JJ as|IN current|JJ research|NN is|VBZ hinting|VBG then|RB a|DT whole|JJ new|JJ approach|NN to|TO treatment|NN beckon|NN </s>|S_END
+</p>|P_END
+

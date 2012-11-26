@@ -1,0 +1,68 @@
+<p>|P_START
+<s>|S_START gigaomcom|NN in|IN addition|NN to|TO surviving|VBG one|CD of|IN the|DT most|RBS divisive|JJ elections|NNS in|IN recent|JJ history|NN we|PRP just|RB wrapped|VBD up|RP gigaom’s|JJ conference|NN season|NN with|IN this|DT week’s|JJ successful|NN and|CC totally|RB sold|VBD out|RP </s>|S_END
+<s>|S_START gigaom|NN roadmap|NN </s>|S_END
+<s>|S_START if|IN you|PRP weren’t|VBP able|JJ to|TO join|VB us|PRP in|IN san|NN francisco|NN on|IN monday|NN our|PRP$ editorial|NN team|NN has|VBZ done|VBN a|DT fantastic|JJ event|NN wrapup|NN highlighting|VBG each|DT of|IN the|DT day’s|JJ talks|NNS and|CC panels|NNS </s>|S_END
+<s>|S_START over|IN on|IN gigaom|NN pro|NN our|PRP$ analysts|NNS shared|VBD their|PRP$ own|JJ perspective|NN on|IN the|DT conference|NN as|IN well|RB as|IN research|NN on|IN the|DT crowd|NN labor|NN market|NN the|DT increasing|VBG importance|NN of|IN mobile|JJ technology|NN in|IN politics|NNS and|CC more|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START note|VB gigaom|NN pro|NN is|VBZ a|DT subscriptionbased|VBN research|NN service|NN offering|NN indepth|NN timely|RB analysis|VBZ of|IN developing|VBG trends|NNS and|CC technologies|NNS </s>|S_END
+<s>|S_START visit progigaomcom to|JJ learn|NN more|RBR about|IN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cleantech 4|NN takeaways|NNS from|IN gigaom|NN roadmap|NN 2012|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START adam|NN lesser|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP couldn’t|VBP make|VBP it|PRP to|TO gigaom|VB roadmap|NN this|DT week|NN hopefully|RB you|PRP were|VBD able|JJ to|TO follow|VB along|IN with|IN our|PRP$ live|JJ stream|NN and|CC blog|NN coverage|NN </s>|S_END
+<s>|S_START pro|NN analyst|NN adam|NN lesser|NN focused|VBD on|IN four|CD major|JJ themes|NNS from|IN the|DT conference|NN as|IN well|RB as|IN the|DT workshops|NNS that|WDT occurred|VBD throughout|IN the|DT day|NN </s>|S_END
+<s>|S_START he’s|NNS compressed|VBD them|PRP all|DT into|IN this|DT succinct|NN thorough|IN summary|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cloud real­time|JJ query|NN for|IN hadoop|NN democratizes|NNS access|NN to|TO big|JJ data|NNS analytics |-NONE- </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START george|NN gilbert|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hadoop|NN is|VBZ a|DT major|JJ name|NN in|IN the|DT big|JJ data|NNS realm|NN but|CC has|VBZ often|RB remained|VBN in|IN the|DT rarefied|VBN realm|NN of|IN data|NNS scientists|NNS and|CC other|JJ specialists|NNS </s>|S_END
+<s>|S_START however|RB realtime|VBD query|NN is|VBZ now making|JJ hadoop|NN accessible|JJ to|TO many|JJ more|JJR users|NNS than|IN ever|RB before|IN </s>|S_END
+<s>|S_START pro|NN analyst|NN george|NN gilbert|NN takes|VBZ a|DT detailed|JJ look|NN at|IN what|WP this|DT means|VBZ for|IN the|DT business|NN intelligence|NN market|NN —|NN and|CC specifically|RB how a|JJ unified|VBN platform|NN for|IN big|JJ data|NNS analytics|NNS could|MD benefit|VB and|CC change|VB the|DT big|JJ data|NNS ecosystem|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mobile|JJ the|DT business|NN of|IN mobile|JJ democracy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shannon|NN arvizu|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START now|RB that|DT the|DT furor|NN over|IN election|NN day|NN has|VBZ passed|VBN we|PRP can|MD refocus|VB on|IN the|DT realization|NN that|IN “the|DT mobile|JJ disruption|NN of|IN the|DT politicalcampaign|NN market|NN has|VBZ only|RB just|RB begun”|JJ while|IN the|DT big|JJ data|NNS strategies|NNS and|CC resources|NNS used|VBN by|IN both|DT the|DT obama|NN and|CC romney|NN camps|NNS received|VBD a|DT lot|NN of|IN press|NN over|IN the|DT past|JJ year|NN pro|NN analyst|NN shannon|NN arvizu|NN instead|RB takes|VBZ a|DT look|NN at|IN the|DT role|NN of|IN mobile|JJ in|IN campaign|NN strategy|NN —|: and|CC success|NN </s>|S_END
+<s>|S_START during|IN the|DT 2012|CD election|NN cycle|NN mobile|NN has|VBZ played|VBN an|DT everincreasing|NN role|NN in|IN fundraising|NN as|IN an|DT organizing|NN tool|NN and|CC as|IN a|DT key|JJ engagement|NN tool|NN </s>|S_END
+<s>|S_START but|CC most|JJS importantly|RB this|DT is|VBZ just|RB the|DT beginning|NN –|: arvizu|NN is|VBZ already|RB looking|VBG ahead|RB to|TO what|WP mobile|JJ democracy|NN can|MD do|VB in|IN 2016|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START social sector|NN roadmap|NN crowd|NN labor|NN platforms|NNS in|IN 2012|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START joseph|NN turian|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN startups|NNS like|IN taskrabbit|NN and|CC exec|NN have|VBP received|VBN press|NN for|IN their|PRP$ services|NNS —|: which|WDT enable|JJ individual|JJ users|NNS to|TO outsource|VB errands|NNS and|CC odd|JJ jobs|NNS to|TO a|DT vetted|JJ crew|NN of|IN oncall|NN assistants|NNS —|: crowd|NN labor|NN “outsourced|JJ information|NN work|NN that|WDT can|MD be|VB provisioned|VBN automatically”|-NONE- has|VBZ maintained|VBN a|DT decidedly|RB lower|JJR profile|NN </s>|S_END
+<s>|S_START most|JJS gigaom|NN readers|NNS are|VBP familiar|JJ with|IN amazon’s|JJ mechanical|JJ turk|NN but|CC the|DT crowd|NN labor|NN ecosystem|NN extends|NNS to|TO many|JJ other|JJ offerings|NNS and|CC types|NNS of|IN work|NN </s>|S_END
+<s>|S_START pro|NN analyst|NN joseph|NN turian|NN employs|NNS the|DT sector|NN roadmap|NN methodology|NN –|: gigaom|NN pro’s|NNS newest|VBP type|NN of|IN ecosystem|NN analysis|NN and|CC research|NN content|NN –|: to|TO generate|VB his|PRP$ analysis|NN of|IN this|DT rapidlyevolving|NN marketplace|NN </s>|S_END
+</p>|P_END
+

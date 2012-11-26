@@ -1,0 +1,19 @@
+<p>|P_START
+<s>|S_START it|PRP is|VBZ a|DT political|JJ truism|NN that|WDT incumbents|VBZ win|VBP with|IN a|DT strong|JJ economy|NN and|CC lose|VB in|IN tough|JJ time|NN </s>|S_END
+<s>|S_START by|IN this|DT measure|NN how|WRB does|VBZ barack|NN obama|NN fare|NN </s>|S_END
+<s>|S_START the|DT economist|NN tracked|VBD his|PRP$ performance|NN in|IN terms|NNS of|IN growth|NN and|CC unemployment|NN for|IN the|DT 18|CD months|NNS before|IN election|NN day|NN and|CC compared|VBN it|PRP against|IN all|DT postwar|NN reelection|NN bid|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START looking|VBG at|IN gdp|NN first|RB chart|NN the|DT latest|JJS growth|NN figure|NN 21|CD puts|NNS mr|NN obama|NN much|RB closer|JJR to|TO the|DT records|NNS of|IN losing|VBG candidates|NNS and|CC below|IN their|PRP$ average|NN </s>|S_END
+<s>|S_START only|RB one|CD incumbent|NN dwight|NN eisenhower|NN in|IN 1956|CD won|NN with|IN an|DT economy|NN growing|VBG more|RBR slowly|RB </s>|S_END
+<s>|S_START the|DT situation|NN is|VBZ even|RB grimmer|JJR when|WRB it|PRP comes|VBZ to|TO joblessness|NN second|JJ chart|NN </s>|S_END
+<s>|S_START even|RB at|IN the|DT recently|RB improved|VBN rate|NN of|IN 78|CD mr|NN obama|NN faces|NNS the|DT worst|JJS rate|NN of|IN any|DT incumbent|NN for|IN more|JJR than|IN 50|CD year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC mr|PRP$ obama|NN can|MD take|VB a|DT crumb|NN of|IN comfort|NN too|RB </s>|S_END
+<s>|S_START growth|NN may|MD be|VB pretty|RB much|RB flat|JJ though|IN at|IN least|JJS not|RB falling|VBG as|IN with|IN past|JJ losers|NNS but|CC the|DT unemployment|NN rate|NN has|VBZ fallen|VBN from|IN more|RBR than|IN 9|CD over|IN this|DT period|NN </s>|S_END
+<s>|S_START that|DT is|VBZ a|DT performance|NN in|IN line|NN with|IN those|DT of|IN incumbents|NNS who|WP won|VBD </s>|S_END
+</p>|P_END
+

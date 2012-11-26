@@ -1,0 +1,166 @@
+<p>|P_START
+<s>|S_START the|DT economy|NN is|VBZ the|DT election’s|JJ main|NN issue|NN but|CC health|NN care|NN is|VBZ its|PRP$ most|RBS incendiary|JJ </s>|S_END
+<s>|S_START according|VBG to|TO democrats|NNS mitt|VB romney|NN and|CC paul|JJ ryan|NN his|PRP$ runningmate|NN want|NN to|TO disembowel|VB medicare|NN the|DT elderly’s|NNP sacred|VBD public|JJ health|NN programme|NN and|CC slash|NN medicaid|VBD its|PRP$ programme|NN for|IN the|DT poor|JJ </s>|S_END
+<s>|S_START according|VBG to|TO republicans|NNS mr|VB obama’s|JJ reforms|NNS of|IN 2010|CD trample|NNS on|IN states’|JJ rights|NNS steals|NNS billions|NNS from|IN medicare|JJ and|CC will|MD shove|VB america|NN off|IN a|DT fiscal|JJ cliff|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN the|DT hyperbole|NN the|DT fight|NN over|IN health|NN care|NN is|VBZ vital|JJ </s>|S_END
+<s>|S_START nearly|RB 18|CD of|IN america’s|JJ gdp|NN is|VBZ spent|VBN on|IN health|NN </s>|S_END
+<s>|S_START millions|NNS of|IN babyboomers|NNS are|VBP retiring|VBG the|DT young|JJ are|VBP developing|VBG chronic|JJ disease|NN as|IN never|RB before|IN </s>|S_END
+<s>|S_START it|PRP is|VBZ unclear|JJ that|IN america|NN can|MD care|VB for|IN them|PRP without|IN going|VBG bankrupt|JJ </s>|S_END
+<s>|S_START the|DT future|NN health|NN of|IN america’s|JJ economy|NN and|CC citizens|NNS depends|NNS on|IN reforms|NNS made|VBN now|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT two|CD candidates|NNS offer|VBP two|CD very|RB different|JJ choice|NN </s>|S_END
+<s>|S_START if|IN mr|PRP$ obama|NN is|VBZ reelected|VBN he|PRP will|MD implement|VB his|PRP$ vast|JJ law|NN in|IN full|JJ moving|NN america|NN significantly|RB further|JJ towards|NNS universal|NN health|NN coverage|NN </s>|S_END
+<s>|S_START mr|NN romney|NN would|MD transform|VB medicare|JJ and|CC throw|NN “obamacare”|NN in|IN the|DT bin|NN </s>|S_END
+<s>|S_START the|DT fight|NN over|IN health|NN helped|VBD oust|JJ democrats|NNS from|IN the|DT house|NN of|IN representatives|NNS in|IN 2010|CD </s>|S_END
+<s>|S_START it|PRP may|MD determine|VB the|DT presidential|JJ election|NN too|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN obama’s|NNS law|NN covers|NNS everything|VBG from|IN menus|NN to|TO electronic|JJ health|NN records|NNS though|IN its|PRP$ most|RBS prominent|JJ reforms|NNS will|MD not|RB come|VB into|IN effect|NN until|IN 2014|CD </s>|S_END
+<s>|S_START controversy|NN has|VBZ centred|VBN on|IN the|DT law’s|NNP “individual|JJ mandate”|NN the|DT requirement|NN to|TO buy|VB health|NN insurance|NN or|CC pay|NN a|DT fine|NN </s>|S_END
+<s>|S_START the|DT mandate|NN tries|NNS to|TO end|VB the|DT freeriding|NN that|IN occurs|NNS when|WRB the|DT uninsured|VBN receive|JJ free|JJ care|NN at|IN hospitals|NNS which|WDT pass|NN the|DT costs|NNS to|TO everyone|NN else|RB in|IN the|DT form|NN of|IN higher|JJR fee|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ also|RB a|DT tool|NN to|TO offset|VB the|DT cost|NN of|IN insuring|VBG the|DT very|JJ ill|NN mr|NN obama’s|NNS law|NN requires|VBZ insurers|NNS to|TO cover|VB those|DT with|IN preexisting|VBG conditions|NNS from|IN 2014|CD without|IN unduly|RB raising|VBG their|PRP$ rate|NN </s>|S_END
+<s>|S_START if|IN cheap|NN healthy|JJ young|JJ people|NNS must|MD have|VB insurance|NN their|PRP$ premiums|NNS will|MD help|VB pay|VB for|IN the|DT cost|NN of|IN insuring|VBG the|DT ill|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN obama|NN also|RB sought|VBD a|DT big|JJ extension|NN of|IN medicaid|NN </s>|S_END
+<s>|S_START previously|RB states|VBZ were|RB required|VBN to|TO cover|VB only|RB specific|JJ groups|NNS of|IN the|DT poor|JJ such|JJ as|IN pregnant|JJ women|NNS </s>|S_END
+<s>|S_START mr|NN obama’s|NNS law|NN extended|VBD medicaid|VBN to|TO all|DT those|DT with|IN incomes|NNS of|IN up|IN to|TO 138|CD of|IN the|DT federal|JJ poverty|NN level—|NN $|$ 23050|CD for|IN a|DT family|NN of|IN four|CD </s>|S_END
+<s>|S_START washington|NN would|MD pay|VB for|IN all|PDT of|IN the|DT expansion|NN in|IN 2014|CD falling|VBG to|TO 90|CD by|IN 2020|CD </s>|S_END
+<s>|S_START those|DT who|WP do|VBP not|RB qualify|VB for|IN medicaid|VBN but|CC who|WP can|MD not|RB afford|VB insurance—those|JJ with|IN incomes|NNS between|IN 100|CD and|CC 400|CD of|IN the|DT federal|JJ poverty|NN level—will|NN get|NN tapering|VBG subsidies|NNS to|TO buy|VB insurance|NN on|IN new|JJ health|NN exchange|NN </s>|S_END
+<s>|S_START run|NN by|IN states|NNS these|DT markets|NNS will|MD let|VB individuals|NNS compare|VBP and|CC buy|VB insurance|NN product|NN </s>|S_END
+<s>|S_START in|IN all|DT the|DT law|NN was|VBD meant|JJ to|TO expand|VB coverage|NN to|TO 32m|CD americans|NNS who|WP lacked|VBN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tates|NNS challenged|VBD the|DT reform|NN within|IN minutes|NNS of|IN it|PRP being|VBG signed|VBN into|IN law|NN </s>|S_END
+<s>|S_START they|PRP argued|VBD that|IN congress|NN could|MD not|RB force|VB americans|NNS to|TO buy|VB insurance|NN </s>|S_END
+<s>|S_START but|CC in|IN june|NN the|DT supreme|NN court|NN upheld|VBD the|DT law|NN </s>|S_END
+<s>|S_START the|DT decision|NN was|VBD not|RB a|DT complete|JJ victory|NN for|IN the|DT democrat|NN </s>|S_END
+<s>|S_START the|DT court|NN held|VBD that|IN congress|NN must|MD make|VB the|DT medicaid|JJ expansion|NN optional|JJ </s>|S_END
+<s>|S_START telling|VBG states|NNS to|TO expand|VB the|DT programme|NN or|CC forgo|VB all|DT aid|NN amounted|VBD to|TO unconstitutional|JJ coercion|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ruling|NN was|VBD a|DT huge|JJ relief|NN for|IN the|DT white|JJ house|NN but|CC it|PRP did|VBD not|RB solve|VB mr|NN obama’s|-NONE- problem|NN </s>|S_END
+<s>|S_START most|JJS important|JJ for|IN his|PRP$ political|JJ survival|NN the|DT law|NN is|VBZ still|RB divisive|JJ </s>|S_END
+<s>|S_START according|VBG to|TO a|DT kaiser|NN family|NN foundation|NN poll|NN in|IN late|JJ september|NN 45|CD of|IN voters|NNS approved|VBN of|IN the|DT reform|NN and|CC 40|CD opposed|VBD it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START then|RB there|EX is|VBZ the|DT thorny|NN task|NN of|IN implementation|NN </s>|S_END
+<s>|S_START the|DT supreme|NN court’s|VBZ decision|NN on|IN medicaid|NN is|VBZ a|DT headache|NN </s>|S_END
+<s>|S_START the|DT very|JJ poor|NN are|VBP particularly|RB vulnerable—if|JJ states|NNS choose|VBP not|RB to|TO expand|VB medicaid|VBN more|RBR than|IN 11m|CD uninsured|VBN would|MD qualify|VB for|IN neither|DT medicaid|NN nor|CC the|DT subsidies|NNS on|IN the|DT new|JJ health|NN exchange|NN </s>|S_END
+<s>|S_START the|DT exchanges|NNS themselves|PRP are|VBP uncertain|RB </s>|S_END
+<s>|S_START only|RB 19|CD states|NNS and|CC washington|NN dc|NN have|VBP taken|VBN steps|NNS toward|IN creating|VBG them|PRP </s>|S_END
+<s>|S_START by|IN far|RB the|DT biggest|JJS threat|NN to|TO the|DT reforms|NNS however|RB comes|VBZ from|IN the|DT fact|NN that|IN americans|NNS may|MD choose|VB to|TO elect|VB a|DT president|NN who|WP wants|VBZ to|TO throw|VB them|PRP out|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN romney|NN makes|VBZ a|DT very|RB odd|JJ crusader|NN against|IN obamacare|NN </s>|S_END
+<s>|S_START the|DT reform|NN is|VBZ modelled|VBN after|IN the|DT one|CD that|WDT he|PRP passed|VBD in|IN massachusett|NN </s>|S_END
+<s>|S_START nevertheless|RB he|PRP has|VBZ vowed|VBN to|TO “repeal|JJ and|CC replace”|JJ the|DT law|NN </s>|S_END
+<s>|S_START whether|IN he|PRP could|MD actually|RB do|VB so|RB is|VBZ debatable|JJ </s>|S_END
+<s>|S_START he|PRP would|MD probably|RB offer|VB states|NNS waivers|NNS from|IN the|DT law|NN some|DT would|MD not|RB accept|VB then|RB try|VB to|TO repeal|VB the|DT law|NN in|IN its|PRP$ entirety|NN </s>|S_END
+<s>|S_START if|IN he|PRP wins|VBZ the|DT presidency|NN there|RB is|VBZ a|DT good|JJ chance|NN that|IN the|DT republicans|NNS will|MD also|RB take|VB the|DT senate|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ highly|RB unlikely|RB however|RB that|IN they|PRP will|MD win|VB 60|CD seats|NNS or|CC more|JJR so|IN democrats|NNS would|MD surely|RB filibuster|VB attempts|NNS at|IN repeal|NN </s>|S_END
+<s>|S_START mr|NN romney|NN may|MD try|VB to|TO scuttle|VB parts|NNS of|IN the|DT law|NN through|IN “reconciliation”|JJ a|DT process|NN usually|RB reserved|VBD for|IN budget|NN measures|NNS which|WDT requires|NNS a|DT simple|JJ majority|NN vote|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB if|IN mr|NN romney|NN were|VBD to|TO repeal|VB the|DT law|NN it|PRP is|VBZ unclear|JJ what|WP he|PRP would|MD replace|VB it|PRP with—or|-NONE- if|IN congress|NN would|MD have|VB the|DT appetite|NN to|TO replace|VB it|PRP at|IN all|DT </s>|S_END
+<s>|S_START mr|NN romney’s|NNS governing|VBG philosophy|NN is|VBZ that|IN washington’s|JJ role|NN should|MD shrink|VB with|IN states|NNS and|CC the|DT private|JJ sector|NN leading|VBG reform|NN instead|RB </s>|S_END
+<s>|S_START he|PRP offers|VBZ a|DT few|JJ further|JJ sketche|NN </s>|S_END
+<s>|S_START like|IN congressional|JJ republicans|NNS he|PRP favours|VBZ letting|VBG insurers|NNS sell|VBP products|NNS across|IN state|NN line|NN </s>|S_END
+<s>|S_START he|PRP wants|VBZ tax|NN breaks|NNS for|IN individuals|NNS who|WP buy|NN insurance|NN on|IN their|PRP$ own|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START turning|VBG his|PRP$ back|NN on|IN everything|NN he|PRP did|VBD in|IN massachusetts|NNS mr|NN romney|NN has|VBZ few|JJ plans|NNS to|TO expand|VB coverage|NN </s>|S_END
+<s>|S_START he|PRP would|MD gut|VB mr|NN obama’s|-NONE- medicaid|VBD provisions|NNS the|DT state|NN exchanges|NNS and|CC their|PRP$ accompanying|NN subsidie|NN </s>|S_END
+<s>|S_START mr|NN romney|NN would|MD instead|VB give|JJ states|NNS a|DT set|NN amount|NN of|IN money|NN for|IN their|PRP$ medicaid|NN patients|NNS to|TO contain|VB spending|NN </s>|S_END
+<s>|S_START confusingly|RB in|IN september|NN he|PRP said|VBD he|PRP would|MD keep|VB parts|NNS of|IN mr|NN obama’s|NNS law|NN such|JJ as|IN guaranteed|VBN coverage|NN for|IN the|DT sick|NN </s>|S_END
+<s>|S_START he|PRP did|VBD not|RB explain|VB that|IN the|DT guarantee|NN would|MD be|VB only|RB for|IN those|DT previously|RB insured|VBN </s>|S_END
+<s>|S_START mr|NN romney’s|NNS plans|VBZ are|VBP thus|RB pretty|RB muddy|RB </s>|S_END
+<s>|S_START more|JJR clear|JJ is|VBZ his|PRP$ vision|NN for|IN one|CD of|IN america’s|JJ most|RBS popular|JJ programmes|NNS medicare|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ilver|NN power|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START medicare|NN is|VBZ beloved|VBN by|IN america’s|NNP most|RBS powerful|JJ voting|NN bloc|NN </s>|S_END
+<s>|S_START the|DT elderly|JJ turn|NN out|IN in|IN higher|JJR numbers|NNS than|IN any|DT other|JJ group|NN </s>|S_END
+<s>|S_START in|IN florida|NN the|DT most|JJS important|JJ swing|NN state|NN those|DT 65|CD and|CC older|JJR comprised|VBN 22|CD of|IN voters|NNS in|IN 2008|CD </s>|S_END
+<s>|S_START there|EX is|VBZ the|DT pesky|JJ fact|NN however|RB that|IN medicare|NN is|VBZ blatantly|RB unaffordable|JJ </s>|S_END
+<s>|S_START america|NN spent|VBD $|$ 549|CD billion|CD on|IN it|PRP in|IN 2011|CD </s>|S_END
+<s>|S_START the|DT cost|NN of|IN services|NNS continues|VBZ to|TO rise|VB and|CC babyboomers|NNS are|VBP now|RB entering|VBG the|DT programme|NN en|NN masse|NN </s>|S_END
+<s>|S_START the|DT question|NN is|VBZ how|WRB to|TO lower|JJR spending|NN without|IN committing|NN political|JJ suicide|NN </s>|S_END
+<s>|S_START messrs|NNS obama|VBP and|CC romney|NN offer|NN two|CD very|RB different|JJ answer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN obama’s|NNS health|NN law|NN cuts|NNS medicare|VBP costs|NNS in|IN two|CD main|JJ way|NN </s>|S_END
+<s>|S_START first|JJ it|PRP reduces|VBZ federal|JJ payments|NNS to|TO hospitals|NNS doctors|NNS and|CC insurer|NN </s>|S_END
+<s>|S_START econd|NN it|PRP creates|VBZ an|DT independent|JJ payment|NN advisory|NN board|NN </s>|S_END
+<s>|S_START the|DT controversial|JJ appointed|VBN board|NN must|MD suggest|VB cuts|NNS to|TO keep|VB medicare|JJ growth|NN below|IN that|DT of|IN nominal|JJ gdp|NN plus|CC one|CD percent|NN </s>|S_END
+<s>|S_START these|DT cuts|NNS would|MD automatically|RB become|VB law|NN unless|IN congress|NN makes|VBZ equal|JJ ones|NNS through|IN another|DT mechanism|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN to|TO these|DT two|CD rather|RB blunt|JJ tools|NNS mr|VBP obama|NN is|VBZ using|VBG medicare|NN to|TO test|NN better|NN ways|NNS to|TO deliver|VB and|CC pay|VB for|IN care|NN </s>|S_END
+<s>|S_START to|TO date|NN america|NN has|VBZ rewarded|VBN doctors|NNS for|IN the|DT quantity|NN rather|RB than|IN quality|NN of|IN their|PRP$ service|NN </s>|S_END
+<s>|S_START companies|NNS are|VBP slowly|RB trying|VBG new|JJ schemes|NNS mr|VBP obama’s|JJ law|NN accelerates|VBZ thi|NN </s>|S_END
+<s>|S_START new|JJ “accountable|JJ care|NN organisations”|NN for|IN example|NN reward|NN those|DT that|WDT provide|IN good|JJ care|NN to|TO medicare|VB patients|NNS while|IN keeping|VBG costs|NNS down|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN romney|NN presents|NNS a|DT radically|RB different|JJ vision|NN </s>|S_END
+<s>|S_START mr|NN obama|NN makes|VBZ topdown|VBN cuts|NNS while|IN encouraging|VBG experimentation|NN </s>|S_END
+<s>|S_START mr|NN romney|NN says|VBZ he|PRP trusts|VBZ market|NN competition|NN to|TO transform|NN medicare|NN praising|VBG the|DT plan|NN of|IN his|PRP$ runningmate|NN </s>|S_END
+<s>|S_START mr|NN ryan|VBD wants|NNS to|TO give|VB the|DT elderly|JJ vouchers|NNS to|TO spend|VB on|IN insurance|NN </s>|S_END
+<s>|S_START he|PRP initially|RB suggested|VBD scrapping|VBG medicare|NN entirely|RB </s>|S_END
+<s>|S_START in|IN a|DT plan|NN presented|VBN in|IN december|NN with|IN ron|NN wyden|NNS a|DT democratic|JJ senator|NN he|PRP proposed|VBD letting|VBG the|DT elderly|JJ put|NN their|PRP$ subsidy|NN toward|IN either|DT a|DT private|JJ plan|NN or|CC traditional|JJ medicare|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START beginning|NN in|IN 2022|CD beneficiaries|NNS could|MD buy|VB insurance|NN on|IN a|DT new|JJ “medicare|JJ exchange”|NN </s>|S_END
+<s>|S_START they|PRP would|MD keep|VB the|DT savings|NNS if|IN a|DT plan|NN cost|NN less|RBR than|IN their|PRP$ voucher|NN and|CC pay|NN the|DT extra|JJ if|IN a|DT plan|NN cost|NN more|RBR </s>|S_END
+<s>|S_START competition|NN would|MD supposedly|RB contain|VB cost|NN </s>|S_END
+<s>|S_START if|IN it|PRP did|VBD not|RB the|DT ryanwyden|NN plan|NN would|MD cap|VB growth|NN at|IN the|DT rate|NN of|IN nominal|JJ gdp|NN plus|CC 1|CD mr|NN romney|NN has|VBZ yet|RB to|TO endorse|VB this|DT cap|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ironically|RB mr|VBP ryan|JJ and|CC mr|NN obama|NN each|DT favour|NN health|NN exchanges|NNS but|CC mr|NN obama|NN hates|VBZ the|DT idea|NN for|IN the|DT elderly|JJ and|CC mr|NN ryan|NN would|MD scrap|VB the|DT idea|NN for|IN the|DT rest|NN </s>|S_END
+<s>|S_START nevertheless|RB the|DT candidates’|NN plans|VBZ for|IN health|NN reveal|NN a|DT clear|JJ ideological|JJ gap|NN </s>|S_END
+<s>|S_START mr|NN romney|NN would|MD shrink|VB washington’s|JJ role|NN in|IN health|NN care|NN capping|VBG costs|NNS while|IN leaving|VBG innovation|NN to|TO the|DT states|NNS and|CC the|DT private|JJ sector|NN </s>|S_END
+<s>|S_START mr|NN obama|NN believes|VBZ that|IN a|DT big|JJ package|NN of|IN reforms—expanding|JJ insurance|NN improving|VBG preventive|JJ care|NN testing|NN new|JJ ways|NNS to|TO deliver|VB services|NNS and|CC squeezing|VBG payments|NNS to|TO hospitals—will|NNP improve|VB america’s|NNP fiscal|JJ and|CC physical|JJ health|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT debate|NN is|VBZ simplified|VBN on|IN the|DT trail|NN </s>|S_END
+<s>|S_START republicans|NNS have|VBP attacked|VBN mr|NN obama’s|-NONE- health|NN policies|NNS for|IN year|NN </s>|S_END
+<s>|S_START on|IN medicare|NN democrats|NNS can|MD now|RB thrash|VB mr|NN romney|NN and|CC mr|NN ryan|NN with|IN equal|JJ gusto|NN </s>|S_END
+<s>|S_START republicans|NNS say|VBP that|IN they|PRP will|MD save|VB medicare|NN and|CC accuse|VB mr|NN obama|NN of|IN stealing|VBG $|$ 716|CD billion|CD from|IN the|DT programme|NN </s>|S_END
+<s>|S_START democrats|NNS declare|VBP that|IN republicans|NNS would|MD “end|VB medicare|JJ as|IN we|PRP know|VBP it”|-NONE- forcing|VBG beneficiaries|NNS to|TO pay|VB for|IN more|JJR health|NN costs|NNS themselve|VBP </s>|S_END
+<s>|S_START what|WP is|VBZ more|RBR the|DT $|$ 716|CD billionworth|JJ of|IN cuts|NNS is|VBZ mostly|RB for|IN hospitals|NNS and|CC insurers|NNS the|DT savings|NNS will|MD extend|VB medicare’s|NNS solvency|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START interestingly|RB attacks|VBZ on|IN obamacare|NN seem|NN to|TO be|VB increasingly|RB ineffective|JJ </s>|S_END
+<s>|S_START polls|NNS in|IN september|NN showed|VBD voters|NNS still|RB closely|RB divided|VBN over|IN the|DT new|JJ health|NN law|NN but|CC they|PRP think|VBP mr|JJ obama|NN is|VBZ better|RBR equipped|VBN to|TO improve|VB american|JJ health|NN care|NN </s>|S_END
+<s>|S_START on|IN medicare|NN in|IN particular|JJ voters|NNS favour|PRP$ the|DT president|NN </s>|S_END
+<s>|S_START the|DT issue|NN that|IN doomed|VBN democrats|NNS in|IN 2010|CD might|MD even|RB help|VB them|PRP in|IN 2012|CD after|IN all|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

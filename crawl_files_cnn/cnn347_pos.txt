@@ -1,0 +1,86 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN an|DT increasing|VBG number|NN of|IN colleges|NNS are|VBP charging|VBG more|JJR than|IN what|WP the|DT average|JJ american|NN earns|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT number|NN of|IN colleges|NNS and|CC universities|NNS with|IN tuition|NN and|CC fees|NNS totaling|VBG more|JJR than|IN $|$ 50000|CD for|IN a|DT single|JJ year|NN rose|VBD to|TO 123|CD for|IN the|DT 20112012|CD year|NN up|IN from|IN 100|CD institutions|NNS in|IN the|DT previous|JJ year|NN </s>|S_END
+<s>|S_START meanwhile|RB the|DT national|JJ average|NN wage|NN for|IN american|JJ workers|NNS stands|VBZ at|IN a|DT little|RB less|RBR than|IN $|$ 42000|CD a|DT year|NN according|VBG to|TO the|DT social|JJ security|NN administration|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT 20092010|CD academic|JJ year|NN only|RB 58|CD schools|NNS charged|VBD more|JJR than|IN $|$ 50000|CD a|DT year|NN according|VBG to|TO college|VB board|NN data|NNS analyzed|VBD by|IN the|DT chronicle|NN of|IN higher|JJR education|NN </s>|S_END
+<s>|S_START and|CC the|DT year|NN before|IN that|IN only|RB five|CD colleges|NNS dared|VBD to|TO put|VB such|JJ a|DT high|JJ price|NN on|IN their|PRP$ institutions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START among|IN the|DT elite|JJ club|NN of|IN colleges|NNS with|IN combined|VBN tuition|NN fees|NNS room|VBP and|CC board|NN exceeding|VBG $|$ 50000|CD per|IN year|NN are|VBP ivy|JJ leagues|NNS like|IN harvard|NN and|CC yale|NN along|IN with|IN liberal|JJ arts|NNS colleges|NNS including|VBG whitman|NN williams|NNS vassar|NN and|CC oberlin|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sarah|NN lawrence|NN college|NN is|VBZ this|DT years|NNS most|JJS expensive|JJ school|NN with|IN a|DT price|NN tag|NN of|IN $|$ 59170|CD </s>|S_END
+<s>|S_START rounding|VBG out|IN the|DT top|JJ five|CD most|JJS expensive|JJ schools|NNS are|VBP landmark|JJ college|NN a|DT twoyear|NN college|NN in|IN vermont|NN for|IN students|NNS with|IN learning|VBG disabilities|NNS new|JJ york|NN university|NN columbia|NN university|NN and|CC harvey|NN mudd|NN college|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START heres|NNS the|DT full|JJ top|JJ ten|NN list|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sarah|NN lawrence|NN college|NN $|$ 59170|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START landmark|NN college|NN $|$ 57330|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN university|NN $|$ 56787|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START columbia|NN university|NN school|NN of|IN general|JJ studies|NNS $|$ 56310|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START harvey|NN mudd|VBD college|NN $|$ 56268|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START wesleyan|NN university|NN $|$ 56006|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START claremont|NN mckenna|NN college|NN $|$ 55865|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START johns|NNS hopkins|VBZ university|NN $|$ 55742|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START berklee|NN college|NN of|IN music|JJ $|$ 55615|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bard|NN college|NN $|$ 55592|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START students|NNS were|VBD dealt|VBN some|DT major|JJ tuition|NN hikes|NNS </s>|S_END
+<s>|S_START this|DT school|NN year|NN 39|CD schools|NNS on|IN the|DT list|NN raised|VBD tuition|NN fees|NNS room|VBP and|CC board|NN by|IN more|RBR than|IN 4|CD and|CC seven|CD increased|VBD costs|NNS by|IN more|RBR than|IN 5|CD </s>|S_END
+<s>|S_START the|DT biggest|JJS jump|NN of|IN 101|CD was|VBD seen|VBN at|IN rosehulman|NN institute|NN of|IN technology|NN followed|VBN by|IN berklee|NN college|NN of|IN music|JJ which|WDT raised|VBN costs|NNS by|IN 83|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START last|JJ year|NN costs|NNS rose|VBD by|IN more|JJR than|IN 4|CD at|IN 34|CD schools|NNS and|CC by|IN more|RBR than|IN 5|CD at|IN six|CD schools|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN no|DT public|NN institutions|NNS made|VBN it|PRP into|IN the|DT $|$ 50k|CD club|CD this|DT year|NN that|IN doesnt|NN mean|NN they|PRP havent|VBP been|VBN hiking|VBG tuition|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START given|VBN severe|JJ budget|NN cuts|NNS at|IN many|JJ public|JJ schools|NNS many|JJ state|NN colleges|NNS and|CC universities|NNS have|VBP boosted|VBN tuition|NN drastically|RB in|IN the|DT past|JJ year|NN </s>|S_END
+<s>|S_START so|IN while|IN california|NN state|NN university|NN still|RB only|RB costs|VBZ $|$ 9022|CD in|IN instate|JJ tuition|NN for|IN a|DT year|NN thats|NNS a|DT whopping|VBG 21|CD increase|NN from|IN the|DT previous|JJ year |NN </s>|S_END
+</p>|P_END
+

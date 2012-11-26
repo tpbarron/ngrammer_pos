@@ -1,0 +1,34 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT october|NN jobs|NNS report|NN will|MD come|VB out|RP on|IN friday|NN morning|NN as|IN scheduled|VBN the|DT department|NN of|IN labor|NN announced|VBD wednesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN superstorm|NN sandy|NN closing|NN federal|JJ offices|NNS for|IN two|CD days|NNS the|DT departments|NNS ability|NN to|TO produce|VB the|DT highlyanticipated|VBN report|NN was|VBD thrown|VBN into|IN doubt|NN </s>|S_END
+<s>|S_START the|DT report|NN will|MD provide|VB a|DT last|JJ look|NN at|IN the|DT health|NN of|IN the|DT job|NN market|NN before|IN tuesdays|NNS presidential|JJ election|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT only|JJ other|JJ time|NN the|DT monthly|JJ jobs|NNS report|NN has|VBZ been|VBN delayed|VBN was|VBD in|IN january|JJ 1996|CD when|WRB a|DT deadlock|NN between|IN the|DT white|JJ house|NN and|CC congress|NN over|IN an|DT operating|NN budget|NN led|VBD to|TO a|DT shutdown|NN of|IN the|DT federal|JJ government|NN </s>|S_END
+<s>|S_START the|DT december|NN jobs|NNS report|NN did|VBD not|RB come|VBN out|RP until|IN jan|NN 19|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD check|NN the|DT unemployment|NN rate|NN in|IN your|PRP$ state|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START any|DT delay|NN in|IN this|DT weeks|NNS jobs|VBZ report|NN would|MD have|VB touched|VBN off|RP a|DT political|JJ firestorm|NN </s>|S_END
+<s>|S_START though|IN the|DT report|NN is|VBZ considered|VBN nonpartisan|NN a|DT sharp|JJ drop|NN in|IN septembers|NNS unemployment|NN rate|NN led|VBD critics|NNS of|IN president|NN obama|NN to|TO claim|VB that|IN the|DT report|NN was|VBD being|VBG manipulated|VBN by|IN democrats|NNS </s>|S_END
+<s>|S_START former|JJ general|JJ electric|JJ ceo|NN jack|NN welch|NN tweeted|VBD that|IN the|DT numbers|NNS were|VBD unbelievable|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT september|NN report|NN showed|VBD that|IN the|DT national|JJ unemployment|NN rate|NN fell|VBD to|TO 78|CD down|IN from|IN 81|CD the|DT month|NN before|RB </s>|S_END
+<s>|S_START it|PRP now|RB stands|VBZ at|IN the|DT same|JJ place|NN as|IN when|WRB obama|NN took|VBD office|NN in|IN january|JJ 2009|CD </s>|S_END
+<s>|S_START businesses|NNS added|VBD 114000|CD jobs|NNS in|IN september|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnn|NN chief|NN white|NN house|NN correspondent|NN jessica|NN yellin|NN and|CC cnnmoney|NN senior|JJ writer|NN chris|NNS isidore|VBP contributed|VBN to|TO this|DT report|NN </s>|S_END
+</p>|P_END
+

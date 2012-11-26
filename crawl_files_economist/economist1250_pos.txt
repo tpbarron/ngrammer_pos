@@ -1,0 +1,145 @@
+<p>|P_START
+<s>|S_START this|DT year’s|JJ nobel|NN prize|NN for|IN medicine|NN went|VBD to|TO sir|VB john|NN gurdon|NN and|CC shinya|NN yamanaka|NN both|DT pictured|VBN above|IN for|IN a|DT crucial|JJ discovery|NN in|IN stemcell|NN science|NN how|WRB to|TO make|VB what|WP are|VBP known|VBN as|IN pluripotent|NN stem|NN cells|NNS from|IN ordinary|JJ body|NN cell|NN </s>|S_END
+<s>|S_START what|WP the|DT citation|NN did|VBD not|RB say|VB was|VBD that|IN this|DT work|NN also|RB allows|VBZ clones|NNS to|TO be|VB made|VBN from|IN adult|NN animals|NNS potentially|RB including|VBG people|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT stem|NN cell|NN is|VBZ one|CD that|WDT can|MD differentiate|VB into|IN daughter|NN cells|NNS specialised|VBD for|IN particular|JJ functions|NNS and|CC all|DT the|DT cells|NNS in|IN a|DT body|NN are|VBP thus|RB derived|VBN from|IN stem|NN cell|NN </s>|S_END
+<s>|S_START that|DT includes|VBZ the|DT stem|NN cells|NNS themselves|PRP which|WDT derive|JJ from|IN “ur”|JJ stem|NN cells|NNS found|VBD in|IN embryo|NN </s>|S_END
+<s>|S_START these|DT embryonic|JJ stem|NN cells|NNS are|VBP the|DT pluripotent|NN ones|NNS meaning|VBG they|PRP can|MD turn|VB into|IN many|JJ sometimes|NNS all|DT other|JJ sorts|NNS of|IN cell|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pluripotent|NN embryonic|JJ stem|NN cells|NNS are|VBP of|IN great|JJ value|NN to|TO researchers|NNS but|CC if|IN the|DT embryos|NNS they|PRP come|VBP from|IN are|VBP human|JJ their|PRP$ use|NN is|VBZ controversial|JJ </s>|S_END
+<s>|S_START this|DT controversy|NN indeed|RB was|VBD what|WP had|VBD originally|RB stimulated|VBN dr|NN yamanaka|NN to|TO start|VB his|PRP$ investigations|NNS in|IN the|DT hope|NN that|IN embryonic|JJ cells|NNS might|MD no|RB longer|RBR be|VB needed|VBN </s>|S_END
+<s>|S_START also|RB if|IN such|JJ cells|NNS are|VBP ever|RB to|TO play|VB a|DT useful|JJ role|NN in|IN medicine|NN perhaps|RB for|IN repairing|VBG damaged|VBN tissue|NN then|RB they|PRP will|MD have|VB to|TO be|VB available|JJ in|IN bulk—and|JJ ideally|RB in|IN a|DT form|NN whose|WP$ dna|NN matches|NNS that|WDT of|IN the|DT recipient|JJ </s>|S_END
+<s>|S_START ir|PRP$ john|NN and|CC dr|NN yamanaka|NN have|VBP both|DT conducted|VBN work|NN that|IN should|MD help|VB make|VB this|DT possible|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ir|PRP$ john’s|JJ prizewinning|NN study|NN published|VBD half|PDT a|DT century|NN ago|IN in|IN 1962|CD when|WRB he|PRP was|VBD at|IN oxford|NN was|VBD to|TO transplant|VB the|DT nuclei|NN of|IN cells|NNS from|IN adults|NNS of|IN a|DT frog|NN called|VBN xenopus|NN laevis|NNS into|IN enucleated|JJ eggs|NNS of|IN that|DT specie|NN </s>|S_END
+<s>|S_START the|DT eggs|NNS in|IN question|NN then|RB developed|VBD into|IN healthy|JJ adult|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT showed|VBD that|IN dna|NN is|VBZ not|RB altered|VBN during|IN embryonic|JJ development|NN at|IN least|JJS in|IN xenopu|NN </s>|S_END
+<s>|S_START that|DT was|VBD subsequently|RB shown|VBN to|TO be|VB true|JJ in|IN other|JJ species|NNS too|RB </s>|S_END
+<s>|S_START it|PRP therefore|VBD suggested|VBN it|PRP might|MD be|VB possible|JJ to|TO get|VB an|DT entire|JJ adult|NN cell|NN to|TO perform|VB a|DT similar|JJ trick|NN without|IN involving|VBG an|DT egg|NN at|IN all|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT was|VBD what|WP dr|NN yamanaka|NN did|VBD </s>|S_END
+<s>|S_START he|PRP and|CC his|PRP$ colleagues|NNS at|IN kyoto|NN university|NN managed|VBD to|TO insert|VB extra|JJ copies|NNS of|IN four|CD crucial|JJ genes|NNS into|IN adult|NN mouse|NN cell|NN </s>|S_END
+<s>|S_START these|DT genes|NNS each|DT encode|NN a|DT protein|NN of|IN a|DT type|NN known|VBN as|IN a|DT transcription|NN factor|NN </s>|S_END
+<s>|S_START uch|JJ factors|NNS control|NN the|DT expression|NN of|IN dna|NN </s>|S_END
+<s>|S_START together|RB these|DT particular|JJ four|CD can|MD trick|VB a|DT cell|NN into|IN thinking|VBG it|PRP is|VBZ part|NN of|IN an|DT embryo|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT first|JJ experiment|NN conducted|VBN in|IN 2006|CD dr|NN yamanaka|NN did|VBD not|RB produce|VB complete|JJ mice|NN but|CC he|PRP did|VBD turn|VB the|DT adult|NN cells|NNS into|IN pluripotent|NN stem|NN cell|NN </s>|S_END
+<s>|S_START ubsequent|NN work|NN has|VBZ produced|VBN embryos|NNS which|WDT if|IN transplanted|VBD into|IN the|DT womb|NN of|IN a|DT female|JJ mouse|NN will|MD go|VB all|DT the|DT way|NN to|TO adulthood|NN </s>|S_END
+<s>|S_START and|CC in|IN 2007|CD dr|NN yamanaka|NN managed|VBD to|TO activate|VB the|DT same|JJ four|CD genes|NNS in|IN adult|NN human|NN cells|NNS thus|RB generating|VBG pluripotent|NN human|NN stem|NN cell|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN principle|NN that|IN opens|NNS the|DT door|NN to|TO human|JJ cloning|NN though|IN no|DT one|NN as|IN far|RB as|IN is|VBZ known|VBN has|VBZ yet|RB tried|VBN this—and|-NONE- in|IN most|JJS countries|NNS such|JJ an|DT experiment|NN would|MD be|VB illegal|JJ </s>|S_END
+<s>|S_START it|PRP also|RB opens|VBZ the|DT door|NN though|IN to|TO bespoke|VB tissue|NN repair|NN since|IN it|PRP could|MD allow|VB cells|NNS of|IN whatever|NN type|NN were|VBD desired|VBN to|TO be|VB grown|VBN from|IN say|NN a|DT few|JJ skin|NN cells|NNS and|CC then|RB transplanted|VBD back|RB into|IN the|DT donor|NN without|IN risking|NN an|DT adverse|NN reaction|NN from|IN his|PRP$ immune|NN system|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB that|DT would|MD work|VB in|IN practice|NN remains|VBZ to|TO be|VB seen|VBN </s>|S_END
+<s>|S_START but|CC if|IN it|PRP works|VBZ well|RB then|RB sir|JJ john|NN and|CC dr|NN yamanaka|NN may|MD turn|VB out|RP to|TO have|VB been|VBN the|DT pioneers|NNS of|IN a|DT whole|JJ new|JJ field|NN regenerative|JJ medicine|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START trappings|NNS of|IN succe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT physics|NN prize|NN went|VBD to|TO two|CD cat|JJ hunter|NN </s>|S_END
+<s>|S_START the|DT feline|NN in|IN question|NN is|VBZ schrödinger’s|JJ cat|NN and|CC the|DT prizewinners|NNS are|VBP serge|JJ haroche|NN of|IN the|DT collège|JJ de|NN france|NN in|IN paris|NN and|CC david|VBD wineland|NN of|IN america’s|JJ national|JJ institute|NN of|IN standards|NNS and|CC technology|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START erwin|NN schrödinger’s|NNS famous|JJ puss—famous|JJ for|IN being|VBG both|DT alive|JJ and|CC dead|JJ at|IN the|DT same|JJ time—was|JJ born|NN in|IN 1935|CD </s>|S_END
+<s>|S_START it|PRP was|VBD part|NN of|IN a|DT thought|NN experiment|NN intended|VBD to|TO illustrate|VB the|DT bizarre|NN nature|NN of|IN the|DT quantum|NN world|NN in|IN which|WDT particles|NNS can|MD persist|VB in|IN two|CD states|NNS at|IN once|RB and|CC as|IN a|DT consequence|NN a|DT cat|NN can|MD be|VB both|DT dead|JJ and|CC alive|JJ </s>|S_END
+<s>|S_START however|RB the|DT cat|NN or|CC rather|RB subatomic|JJ particles|NNS that|WDT behave|VBP like|IN the|DT cat|JJ has|VBZ proved|VBN hard|JJ to|TO hunt|NN down|IN in|IN practice|NN because|IN such|JJ superpositions|NNS of|IN states|NNS are|VBP fragile|JJ and|CC easily|RB disrupted|VBN phenomena|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uperposition|NN is|VBZ nevertheless|NN crucial|JJ to|TO the|DT idea|NN of|IN building|NN what|WP is|VBZ known|VBN as|IN a|DT quantum|NN computer|NN </s>|S_END
+<s>|S_START uch|JJ a|DT device|NN would|MD be|VB able|JJ to|TO carry|VB out|RP many|JJ calculations|NNS in|IN parallel|NN with|IN each|DT of|IN the|DT superposed|VBN states|NNS acting|VBG as|IN part|NN of|IN the|DT calculation|NN </s>|S_END
+<s>|S_START but|CC the|DT computer|NN would|MD work|VB only|RB if|IN the|DT operator|NN could|MD interact|VB with|IN it|PRP without|IN destroying|VBG the|DT superposition|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN haroche|NN and|CC dr|NN wineland|NN led|VBD independent|JJ teams|NNS which|WDT beginning|VBG in|IN the|DT 1980s|CD devised|VBN ways|NNS to|TO measure|VB and|CC manipulate|VB particles|NNS while|IN preserving|VBG superposition|NN </s>|S_END
+<s>|S_START dr|NN haroche|NN worked|VBD on|IN photons|NNS the|DT particles|NNS of|IN light|JJ and|CC other|JJ forms|NNS of|IN electromagnetic|JJ radiation|NN </s>|S_END
+<s>|S_START dr|NN wineland|VBD worked|VBN on|IN atom|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN haroche|NN trapped|VBD his|PRP$ photons|NNS by|IN getting|VBG them|PRP to|TO bounce|VB back|RB and|CC forth|JJ between|IN two|CD tiny|JJ superconducting|NN mirror|NN </s>|S_END
+<s>|S_START he|PRP then|RB “entangled”|-NONE- them|PRP another|DT weird|NN quantum|NN process|NN with|IN what|WP are|VBP known|VBN as|IN rydberg|NN atom|NN </s>|S_END
+<s>|S_START a|DT rydberg|NN atom|NN is|VBZ one|CD whose|WP$ outer|NN electrons|NNS have|VBP been|VBN tweaked|VBN to|TO make|VB it|PRP about|IN 1000|CD times|NNS bigger|JJR than|IN a|DT normal|JJ atom|NN and|CC the|DT process|NN of|IN entanglement|NN means|VBZ that|DT measuring|VBG the|DT atom|NN reveals|NNS the|DT quantum|NN state|NN of|IN the|DT photon|NN just|RB how|WRB dead|JJ and|CC alive|JJ the|DT “cat”|NN is|VBZ while|IN leaving|VBG the|DT photon|NN itself|PRP intact|VBP and|CC thereby|NN preserving|VBG its|PRP$ superposition|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN haroche|NN thus|RB used|VBN atoms|NNS to|TO probe|VB photon|NN </s>|S_END
+<s>|S_START dr|NN wineland|VBD meanwhile|RB did|VBD the|DT opposite|NN </s>|S_END
+<s>|S_START he|PRP used|VBD photons|NNS in|IN the|DT form|NN of|IN carefully|RB calibrated|VBN pulses|NNS of|IN laser|NN light|NN to|TO probe|VB atom|NN </s>|S_END
+<s>|S_START the|DT atoms|NNS in|IN question|NN were|VBD stripped|VBN of|IN their|PRP$ outer|NN electrons|NNS and|CC trapped|VBD in|IN an|DT electric|JJ field|NN in|IN a|DT vacuum|NN at|IN extremely|RB low|JJ temperature|NN </s>|S_END
+<s>|S_START the|DT pulses|NNS served|VBD to|TO cool|NN them|PRP even|RB further|RB by|IN settling|NN them|PRP into|IN their|PRP$ lowest|JJS possible|JJ energy|NN states|NNS and|CC then|RB to|TO nudge|VB them|PRP into|IN a|DT superposition|NN of|IN two|CD different|JJ energy|NN state|NN </s>|S_END
+<s>|S_START this|DT let|NN them|PRP stand|VBP in|IN for|IN the|DT mythical|JJ cat|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START quantum|NN computers|NNS remain|VBP science|NN fiction|NN though|IN dr|NN wineland’s|NNS group|NN and|CC others|NNS have|VBP managed|VBN to|TO perform|NN a|DT few|JJ primitive|JJ calculations|NNS with|IN trapped|JJ atoms|NNS in|IN order|NN to|TO prove|VB the|DT point|NN </s>|S_END
+<s>|S_START dr|NN wineland|VBD has|VBZ however|RB built|VBN a|DT working|NN clock|NN with|IN his|PRP$ atoms—and|JJ it|PRP is|VBZ the|DT most|RBS accurate|JJ clock|NN in|IN history|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT escapement|NN of|IN this|DT clock|NN consists|VBZ of|IN two|CD entangled|JJ atoms|NNS one|CD of|IN which|WDT is|VBZ used|VBN to|TO read|VB the|DT inherent|NN vibrations|NNS of|IN the|DT other|JJ </s>|S_END
+<s>|S_START those|DT vibrations|NNS can|MD be|VB measured|VBN so|RB precisely|RB and|CC without|IN interruption|NN because|IN entanglement|NN is|VBZ not|RB broken|VBN that|IN dr|NN wineland’s|NNS clock|NN would|MD had|VB it|PRP been|VBN set|VBN running|VBG at|IN the|DT beginning|NN of|IN the|DT universe|NN 137|CD billion|CD years|NNS ago|RB be|VB off|RP today|NN by|IN only|RB about|IN five|CD second|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT chemistry|NN prize|NN as|IN is|VBZ now|RB almost|RB a|DT nobel|NN tradition|NN went|VBD for|IN work|NN that|WDT might|MD equally|RB have|VB won|VBN one|CD of|IN the|DT other|JJ two—in|JJ this|DT case|NN the|DT medicine|NN prize|NN </s>|S_END
+<s>|S_START the|DT laureates|NNS were|VBD robert|VBN lefkowitz|NN of|IN duke|NN university|NN and|CC brian|JJ kobilka|NN of|IN stanford|NN who|WP between|IN them|PRP laid|VBD the|DT groundwork|NN for|IN the|DT study|NN of|IN what|WP are|VBP known|VBN as|IN gproteincoupled|VBN receptor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT gproteincoupled|VBN receptor|NN is|VBZ a|DT protein|NN that|WDT floats|VBZ in|IN a|DT cell’s|JJ surface|NN membrane|NN </s>|S_END
+<s>|S_START its|PRP$ job|NN is|VBZ to|TO pass|VB signals|NNS from|IN the|DT outside|NN world|NN to|TO the|DT cellular|JJ interior|NN </s>|S_END
+<s>|S_START it|PRP does|VBZ this|DT by|IN interacting|NN with|IN a|DT small|JJ molecule|NN such|JJ as|IN adrenalin|NN known|VBN as|IN a|DT ligand|NN in|IN a|DT way|NN that|WDT causes|VBZ its|PRP$ shape|NN to|TO change|VB </s>|S_END
+<s>|S_START that|DT shapechange|NN releases|NNS into|IN the|DT cell|NN a|DT piece|NN of|IN a|DT second|JJ protein|NN known|VBN as|IN a|DT gprotein|NN because|IN it|PRP likes|VBZ to|TO bind|VB to|TO molecules|NNS containing|VBG a|DT substance|NN called|VBN guanine|NN that|IN had|VBD previously|RB been|VBN attached|VBN to|TO the|DT part|NN of|IN the|DT receptor|NN that|IN is|VBZ inside|JJ the|DT cell|NN below|IN the|DT membrane|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT release|NN in|IN turn|NN stimulates|NNS a|DT chain|NN of|IN chemical|JJ reactions|NNS which|WDT cause|NN the|DT cell|NN to|TO change|VB its|PRP$ behaviour|NN in|IN some|DT way|NN </s>|S_END
+<s>|S_START exactly|RB which|WDT way|NN depends|VBZ on|IN which|WDT gprotein|NN is|VBZ released|VBN which|WDT depends|NNS on|IN which|WDT receptor|NN was|VBD tickled|VBN which|WDT depends|NNS on|IN which|WDT ligand|NN did|VBD the|DT tickling|NN </s>|S_END
+<s>|S_START given|VBN that|IN around|IN 1000|CD different|JJ gproteincoupled|JJ receptors|NNS have|VBP thanks|NNS to|TO the|DT human|JJ genome|NN project|NN now|RB been|VBN discovered|VBN the|DT result|NN is|VBZ a|DT sophisticated|JJ system|NN whereby|NN cells|NNS can|MD regulate|VB each|DT other|JJ by|IN secreting|NN appropriate|NN ligand|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hitting|VBG the|DT gspot|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT web|NN of|IN receptors|NNS also|RB provides|VBZ a|DT rich|JJ supply|NN of|IN drug|NN target|NN </s>|S_END
+<s>|S_START for|IN example|NN nine|CD sorts|NNS of|IN gproteincoupled|VBN receptor|NN respond|NN in|IN different|JJ ways|NNS to|TO adrenalin|VB or|CC its|PRP$ cousin|NN noradrenaline|NN </s>|S_END
+<s>|S_START by|IN crafting|NN drugs|NNS known|VBN as|IN betablockers|NNS which|WDT interact|NN mainly|RB with|IN just|RB one|CD of|IN these|DT a|DT version|NN of|IN the|DT beta|NN adrenergic|NN receptor|NN pharmacologists|NNS have|VBP devised|VBN a|DT way|NN of|IN mimicking|VBG some|DT of|IN adrenalin’s|NNP functions|NNS those|DT concerned|VBN with|IN regulating|VBG the|DT heart|NN without|IN stimulating|NN others|NNS such|JJ as|IN the|DT fightorflight|NN reaction|NN in|IN the|DT brain|NN </s>|S_END
+<s>|S_START knowing|VBG all|DT of|IN the|DT receptors|NNS affected|VBD by|IN adrenalin|NN enables|NNS researchers|NNS to|TO tailor|VB drugs|NNS in|IN ways|NNS that|WDT minimise|VBP undesired|VBN interactions|NNS and|CC thus|RB to|TO reduce|VB the|DT risk|NN of|IN side|NN effect|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN lefkowitz’s|NNS roles|NNS in|IN this|DT story|NN were|VBD first|JJ to|TO identify|VB several|JJ receptors|NNS using|VBG radioactive|JJ ligands|NNS and|CC then|RB to|TO clone|NN in|IN 1986|CD the|DT gene|NN for|IN beta|NN adrenergic|NN receptors—the|NN first|RB time|NN this|DT had|VBD been|VBN done|VBN for|IN any|DT gproteincoupled|VBN receptor|NN gene|NN </s>|S_END
+<s>|S_START the|DT other|JJ eight|NN quickly|RB followed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN kobilka|NN who|WP worked|VBD alongside|VBP dr|NN lefkowitz|NN before|IN he|PRP moved|VBD to|TO stanford|VB then|RB discovered|VBN the|DT structure|NN of|IN beta|NN receptors|NNS using|VBG xray|NN crystallography|NN </s>|S_END
+<s>|S_START he|PRP confirmed|VBD that|IN their|PRP$ aminoacid|JJ chains|NNS weave|VBP in|IN and|CC out|IN of|IN the|DT cell|NN seven|CD times|NNS a|DT pattern|NN repeated|VBN in|IN all|DT gproteincoupled|VBN receptors|NNS the|DT molecules|NNS are|VBP sometimes|RB also|RB referred|VBD to|TO as|IN seventransmembrane|NN receptor|NN </s>|S_END
+<s>|S_START the|DT consequence|NN has|VBZ been|VBN a|DT revolution|NN in|IN medical|JJ understanding|NN for|IN it|PRP is|VBZ now|RB known|VBN that|IN about|IN half|DT the|DT drugs|NNS on|IN the|DT market|NN work|NN by|IN interacting|NN with|IN gproteincoupled|JJ receptor|NN </s>|S_END
+</p>|P_END
+

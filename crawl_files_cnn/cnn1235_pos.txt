@@ -1,0 +1,75 @@
+<p>|P_START
+<s>|S_START chrysler|NN group|NN posted|VBD its|PRP$ best|JJS july|RB sales|NNS since|IN 2007|CD helped|VBN by|IN strong|JJ sales|NNS of|IN its|PRP$ car|NN models|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN a|DT good|JJ year|NN for|IN us|PRP car|NN sales|NNS hit|VBD a|DT soft|JJ patch|NN in|IN july|RB as|IN the|DT largest|JJS automakers|NNS reported|VBD disappointing|JJ results|NNS wednesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sales|NNS fell|VBD from|IN yearago|NN levels|NNS at|IN both|DT general|JJ motors|NNS gm|VBP fortune|NN 500|CD and|CC ford|NN motor|NN f|NN fortune|NN 500|CD the|DT two|CD largest|JJS automakers|NNS in|IN terms|NNS of|IN us|PRP sales|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gm|NN sales|NNS dropped|VBD 64|CD while|IN ford|NN sales|NNS slid|VBD 38|CD </s>|S_END
+<s>|S_START both|DT declines|NNS were|VBD bigger|JJR those|DT forecast|NN by|IN sales|NNS trackers|NNS edmundscom|VBP truecar|NN and|CC kelley|NN blue|NN book|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START no|DT </s>|S_END
+<s>|S_START 3|LS automaker|NN toyota|NN motor|NN tm|NN reported|VBD a|DT 26|CD jump|NN in|IN sales|NNS but|CC that|IN was|VBD only|RB in|IN comparison|NN to|TO very|RB weak|JJ results|NNS a|DT year|NN earlier|JJR when|WRB its|PRP$ supply|NN of|IN vehicles|NNS had|VBD been|VBN choked|VBN off|RP by|IN the|DT earthquake|NN and|CC tsumani|NN in|IN japan|NN in|IN march|NN 2011|CD </s>|S_END
+<s>|S_START despite|IN the|DT improvement|NN toyotas|VBZ latest|JJS sales|NNS fell|VBD short|JJ of|IN some|DT forecasts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START no|DT </s>|S_END
+<s>|S_START 4|LS chrysler|NN group|NN reported|VBD its|PRP$ best|JJS july|RB since|IN 2007|CD with|IN a|DT 13|CD rise|NN driven|RB by|IN a|DT stronger|JJR lineup|NN of|IN car|NN models|NNS than|IN in|IN the|DT past|JJ </s>|S_END
+<s>|S_START but|CC it|PRP also|RB fell|VBD short|JJ of|IN some|DT forecasts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START were|VBD stuck|VBD in|IN second|JJ gear|NN said|VBD jesse|NN toprak|NN analyst|NN with|IN sales|NNS tracker|NN truecar|NN </s>|S_END
+<s>|S_START its|PRP$ not|RB a|DT disastrous|JJ month|NN but|CC it|PRP wasnt|VBD the|DT great|JJ july|RB we|PRP expected|VBD to|TO happen|VB </s>|S_END
+<s>|S_START people|NNS are|VBP thinking|VBG twice|NN before|IN they|PRP buy|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START adam|NN jonas|VBD auto|NN analyst|NN with|IN morgan|JJ stanley|NN said|VBD his|PRP$ firms|NNS checks|NNS with|IN dealers|NNS showed|VBD lukewarm|NN floor|NN traffic|NN at|IN best|JJS with|IN consumers|NNS becoming|VBG more|RBR reluctant|JJ to|TO buy|VB despite|IN larger|JJR cashback|NN offers|NNS and|CC other|JJ promotions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP still|RB is|VBZ sticking|VBG with|IN his|PRP$ forecast|NN of|IN us|PRP auto|NN sales|NNS of|IN 144|CD million|CD this|DT year|NN which|WDT would|MD represent|VB a|DT 127|CD jump|NN from|IN last|JJ years|NNS total|VBP </s>|S_END
+<s>|S_START but|CC jonas|VBD cautioned|VBN we|PRP need|VBP to|TO start|VB seeing|VBG stronger|JJR numbers|NNS in|IN earnest|JJS in|IN august|NN and|CC september|NN to|TO make|VB good|JJ on|IN this|DT forecast|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START overall|JJ us|PRP auto|NN sales|NNS have|VBP been|VBN strong|JJ this|DT year|NN rising|VBG 148|CD through|IN june|NN the|DT best|JJS first|JJ half|NN of|IN a|DT year|NN since|IN 2008|CD even|RB as|IN the|DT broader|JJR us|PRP economic|JJ growth|NN has|VBZ remained|VBN sluggish|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START july|RB sales|NNS rose|VBD 89|CD from|IN a|DT year|NN ago|IN according|VBG to|TO sales|NNS tracker|NN autodata|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS the|DT weakest|JJS sales|NNS rate|NN of|IN the|DT year|NN and|CC a|DT bit|NN short|NN of|IN the|DT forecasts|NNS of|IN a|DT 101|CD gain|NN in|IN sales|NNS </s>|S_END
+<s>|S_START still|RB it|PRP was|VBD the|DT best|JJS july|RB for|IN the|DT industry|NN since|IN 2007|CD </s>|S_END
+<s>|S_START last|JJ years|NNS july|RB sales|NNS pace|NN was|VBD 127|CD million|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START part|NN of|IN the|DT weakness|NN in|IN the|DT july|NN numbers|NNS was|VBD due|JJ to|TO drops|NNS in|IN less|JJR profitable|JJ fleet|NN sales|NNS to|TO business|NN customers|NNS such|JJ as|IN rental|JJ car|NN companies|NNS which|WDT are|VBP tougher|RB for|IN analysts|NNS to|TO forecast|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gm|NN reported|VBD that|IN sales|NNS to|TO rental|JJ car|NN companies|NNS fell|VBD 41|CD while|IN ford|NN reported|VBD its|PRP$ overall|JJ fleet|NN sales|NNS fell|VBD 16|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC retail|JJ sales|NNS to|TO consumers|NNS at|IN gm|NN and|CC ford|NN werent|NN great|NN either|DT with|IN gm|NN reporting|VBG a|DT 3|CD decline|NN and|CC ford|NN only|RB a|DT 2|CD increase|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT slowdown|NN in|IN us|PRP sales|NNS would|MD be|VB very|RB bad|JJ news|NN for|IN the|DT major|JJ global|JJ automakers|NNS which|WDT have|VBP been|VBN enjoying|VBG strong|JJ north|JJ american|NN results|NNS to|TO balance|VB out|RP losses|NNS in|IN europe|NN </s>|S_END
+<s>|S_START sales|NNS in|IN europe|NN have|VBP fallen|VBN in|IN the|DT face|NN of|IN high|JJ unemployment|NN and|CC much|RB of|IN the|DT continent|NN suffering|NN from|IN recession|NN related|VBN to|TO the|DT european|JJ sovereign|NN debt|NN crisis |NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,60 @@
+<p>|P_START
+<s>|S_START to|TO the|DT surprise|NN of|IN everybody|NN but|CC toru|IN hashimoto|NN a|DT local|JJ political|JJ insurrection|NN centred|VBD on|IN the|DT industrial|JJ powerhouse|NN of|IN osaka|NN has|VBZ now|RB set|VBN all|DT japan|NN on|IN fire|NN </s>|S_END
+<s>|S_START on|IN september|NN 12th|CD mr|NN hashimoto|IN the|DT 43yearold|JJ cando|NN mayor|NN of|IN osaka|NN formally|RB launched|VBN his|PRP$ national|JJ party|NN </s>|S_END
+<s>|S_START its|PRP$ name|NN nihon|NN ishin|NN no|DT kai|NN the|DT japan|NN restoration|NN party|NN or|CC jrp|VB reflects|NNS mr|VB hashimoto’s|JJ promise|NN to|TO sweep|VB away|RP the|DT existing|VBG political|JJ order|NN </s>|S_END
+<s>|S_START a|DT general|JJ election|NN will|MD soon|RB be|VB called|VBN </s>|S_END
+<s>|S_START polling|VBG gives|NNS his|PRP$ insurrection|NN more|JJR support|NN than|IN the|DT ruling|NN party|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START needed|VBD fresh|JJ heir|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN hashimoto’s|NNS arrival|NN on|IN a|DT dismal|JJ political|JJ scene|NN is|VBZ welcome|VBN </s>|S_END
+<s>|S_START japan’s|NNS political|JJ establishment|NN is|VBZ incapable|JJ of|IN leadership|NN </s>|S_END
+<s>|S_START the|DT ruling|NN democratic|JJ party|NN of|IN japan|NN dpj|NN is|VBZ consumed|VBN by|IN infighting|NN and|CC defection|NN </s>|S_END
+<s>|S_START the|DT conservative|JJ liberal|NN democratic|JJ party|NN ldp|NN which|WDT the|DT dpj|NN ousted|VBD in|IN 2009|CD is|VBZ grey|JJ and|CC cynical|JJ </s>|S_END
+<s>|S_START it|PRP controls|VBZ the|DT upper|JJ house|NN from|IN where|WRB it|PRP practises|VBZ brutish|JJ obstructionism|NN </s>|S_END
+<s>|S_START the|DT resulting|VBG gridlock|NN and|CC drift|NN ill|NN serves|NNS japan|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT country|NN is|VBZ beset|VBN by|IN high|JJ government|NN debts|NNS a|DT rapidly|RB ageing|VBG population|NN and|CC an|DT uncertain|NN future|NN for|IN the|DT young|JJ </s>|S_END
+<s>|S_START and|CC so|RB both|DT the|DT style|NN and|CC content|NN of|IN mr|NN hashimoto’s|NNS message|NN are|VBP welcome|VBN </s>|S_END
+<s>|S_START the|DT mayor’s|JJ talent|NN for|IN political|JJ theatre|NN evokes|VBZ memories|NNS of|IN junichiro|NN koizumi|NN the|DT maverick|NN prime|NN minister|NN from|IN 2001|CD to|TO 2006|CD </s>|S_END
+<s>|S_START like|IN mr|NN koizumi|NN mr|NN hashimoto|NN preaches|NNS a|DT gospel|NN of|IN deregulation|NN </s>|S_END
+<s>|S_START mr|NN koizumi|NN was|VBD from|IN the|DT establishment|NN but|CC mr|NN hashimoto|IN is|VBZ a|DT true|JJ outsider|NN see|NN article|NN </s>|S_END
+<s>|S_START in|IN today’s|JJ japan|NN that|WDT counts|VBZ for|IN something|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP rose|VBD to|TO prominence|NN in|IN osaka|NN by|IN promising|NN to|TO cut|VB through|IN the|DT bureaucracy|NN </s>|S_END
+<s>|S_START he|PRP empowered|VBD parents|NNS by|IN giving|VBG them|PRP vouchers|NNS for|IN their|PRP$ children’s|JJ education|NN </s>|S_END
+<s>|S_START nationally|RB he|PRP combines|VBZ these|DT ideas|NNS with|IN proposals|NNS for|IN radical|JJ decentralisation|NN through|IN the|DT creation|NN of|IN germanstyle|NN länder|NN </s>|S_END
+<s>|S_START he|PRP wants|VBZ to|TO halve|VB the|DT number|NN sitting|VBG in|IN the|DT lower|JJR house|NN of|IN the|DT diet|NN while|IN abolishing|VBG an|DT excessively|RB powerful|JJ upper|NN house|NN </s>|S_END
+<s>|S_START he|PRP wants|VBZ the|DT prime|JJ minister|NN to|TO be|VB directly|RB elected|VBN and|CC endowed|VBD with|IN strong|JJ power|NN </s>|S_END
+<s>|S_START and|CC he|PRP wants|VBZ to|TO rewrite|VB japan’s|JJ pacifist|NN constitution|NN to|TO allow|VB for|IN the|DT right|NN to|TO collective|VB selfdefence|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START two|CD caveats|NNS accompany|NN the|DT hashimoto|NN phenomenon|NN </s>|S_END
+<s>|S_START the|DT first|JJ is|VBZ his|PRP$ rightwing|NN populism|NN </s>|S_END
+<s>|S_START he|PRP is|VBZ prone|VBN to|TO denying|NN the|DT cruel|NN excesses|VBZ of|IN japan’s|JJ imperial|JJ past|NN </s>|S_END
+<s>|S_START this|DT is|VBZ a|DT shortsighted|VBN even|RB dangerous|JJ provocation|NN at|IN a|DT time|NN of|IN rising|VBG nationalism|NN in|IN the|DT region|NN fuelled|VBD by|IN maritime|NN disputes|NNS between|IN japan|NN china|NN see|VB article|NN and|CC south|NN korea|NN over|IN specks|NNS of|IN rock|NN </s>|S_END
+<s>|S_START uch|JJ jingoism|NN is|VBZ also|RB selfdefeating|VBG </s>|S_END
+<s>|S_START outh|NN korea|NN ought|MD to|TO be|VB japan’s|JJ ally|RB in|IN arrangements|NNS for|IN collective|JJ selfdefence|NN yet|RB relations|NNS have|VBP hit|VBN a|DT lowpoint|NN </s>|S_END
+<s>|S_START north|JJ korea|NN must|MD be|VB laughing|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT second|JJ caveat|NN is|VBZ that|IN far|RB from|IN being|VBG the|DT solution|NN to|TO a|DT fragmenting|NN political|JJ system|NN at|IN the|DT next|JJ general|JJ election|NN the|DT jrp’s|NNP arrival|NN will|MD be|VB part|NN of|IN the|DT problem|NN </s>|S_END
+<s>|S_START the|DT party|NN intends|NNS to|TO field|VB about|IN 300|CD candidates|NNS and|CC may|MD win|VB 3070|CD seat|NN </s>|S_END
+<s>|S_START mr|NN hashimoto|IN himself|PRP will|MD not|RB run|VB this|DT time|NN saying|VBG he|PRP wants|VBZ to|TO sort|NN out|IN osaka|NN first|RB </s>|S_END
+<s>|S_START probably|RB the|DT ldp|NN will|MD win|VB a|DT plurality|NN of|IN seats|NNS and|CC its|PRP$ next|JJ leader|NN perhaps|RB nobuteru|VB ishihara|NN will|MD hope|VB to|TO bring|VB the|DT jra|NN into|IN a|DT coalition|NN </s>|S_END
+<s>|S_START yet|RB the|DT jrp’s|NNS freshmen|NNS will|MD all|VB be|VB green|VBN and|CC with|IN skeletons|NNS not|RB yet|RB out|RB of|IN the|DT cupboard|NN scandalprone|NN </s>|S_END
+<s>|S_START the|DT coalition|NN will|MD be|VB fractious|JJ and|CC pushing|VBG through|IN a|DT hashimoto|NN programme|NN will|MD prove|VB a|DT very|RB tall|JJ order|NN </s>|S_END
+<s>|S_START continued|VBD gridlock|NN is|VBZ likely|JJ kneejerk|NN jingoism|NN the|DT popular|JJ default|NN </s>|S_END
+<s>|S_START it|PRP will|MD take|VB at|IN least|JJS one|CD more|JJR election|NN cycle|NN and|CC maybe|VB two|CD before|IN a|DT broken|NN system|NN can|MD begin|VB to|TO mend|VB </s>|S_END
+</p>|P_END
+

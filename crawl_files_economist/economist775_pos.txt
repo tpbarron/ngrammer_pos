@@ -1,0 +1,222 @@
+<p>|P_START
+<s>|S_START as|IN they|PRP wake|VBP on|IN november|NN 6th|CD politicalscience|NN students|NNS at|IN temple|NN university|NN in|IN philadelphia|NN will|MD receive|VB emails|NNS reminding|VBG them|PRP that|IN it|PRP is|VBZ election|NN day|NN via|IN their|PRP$ department’s|NNS automated|VBN mailing|VBG list|NN </s>|S_END
+<s>|S_START once|RB out|IN of|IN bed|VBN they|PRP will|MD find|VB student|NN democratic|JJ volunteers|NNS bustling|VBG about|IN with|IN ipads|NNS and|CC smartphones|NNS ready|RB to|TO tell|VB them|PRP which|WDT is|VBZ their|PRP$ polling|NN station|NN and|CC to|TO provide|VB direction|NN </s>|S_END
+<s>|S_START democrats|NNS are|VBP in|IN a|DT thumping|NN majority|NN on|IN this|DT diverse|NN innercity|NN campus|NN and|CC for|IN weeks|NNS the|DT obama|NN campaign|NN has|VBZ deployed|VBN a|DT paid|VBN field|NN organiser|NN at|IN temple|NN registering|VBG students|NNS to|TO vote|VB </s>|S_END
+<s>|S_START the|DT college|NN democrats’|NN president|NN dylan|NN morpurgo|NN has|VBZ honed|VBN a|DT special|JJ pitch|NN for|IN students|NNS uninterested|VBN in|IN election|NN </s>|S_END
+<s>|S_START he|PRP points|VBZ out|RP that|IN politicians|NNS decide|VBP such|JJ things|NNS as|IN tuition|NN fees|NNS and|CC studentloan|NN interest|NN rates|NNS and|CC that|IN thanks|NNS to|TO barack|VB obama|NN young|JJ graduates|NNS can|MD stay|VB on|RP their|PRP$ parents’|JJ health|NN insurance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT nannying|NN at|IN temple|NN is|VBZ bipartisan|JJ </s>|S_END
+<s>|S_START erik|NN jacobs|NNS leader|NN of|IN temple’s|JJ small|JJ republican|JJ society|NN will|MD be|VB emailing|VBG his|PRP$ own|JJ members|NNS with|IN details|NNS of|IN where|WRB to|TO vote|VB and|CC sending|VBG them|PRP to|TO the|DT polls|NNS in|IN gaggle|JJ </s>|S_END
+<s>|S_START it|PRP can|MD be|VB intimidating|VBG to|TO hand|VB over|IN a|DT republican|NN voting|NN card|NN at|IN a|DT philadelphia|NN polling|VBG station|NN he|PRP explains|VBZ “we|JJ try|NN to|TO make|VB it|PRP easy”|-NONE- </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START put|VB to|TO one|CD side|NN the|DT startling|JJ news|NN that|IN today’s|JJ politicalscience|NN majors|NNS need|VBP reminding|VBG that|IN there|EX is|VBZ a|DT presidential|JJ election|NN on|IN or|CC that|IN young|JJ republicans|NNS fear|NN being|VBG teased|VBN </s>|S_END
+<s>|S_START the|DT coddling|NN and|CC handholding|VBG of|IN modern|JJ voters|NNS is|VBZ a|DT phenomenon|NN worth|NN pondering|VBG and|CC extends|NNS well|RB beyond|IN college|NN campuse|NN </s>|S_END
+<s>|S_START deeply|RB liberal|JJ temple|NN is|VBZ a|DT microcosm|NN of|IN the|DT wider|NN city|NN of|IN philadelphia|NN which|WDT mr|NN obama|NN swept|NN by|IN a|DT margin|NN of|IN five|CD to|TO one|CD at|IN the|DT last|JJ election|NN handing|VBG him|PRP the|DT electorally|RB vital|JJ state|NN of|IN pennsylvania|NN he|PRP won|VBD the|DT state|NN by|IN 620000|CD votes|NNS almost|RB 600000|CD of|IN them|PRP from|IN philadelphia|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT dowdy|NN shopping|VBG mall|NN in|IN the|DT city’s|JJ northeast|NN a|DT new|JJ obama|NN field|NN office|NN has|VBZ the|DT task|NN of|IN seeking|VBG out|IN local|JJ bluecollar|JJ republicans—firemen|JJ city|NN workers|NNS policemen|NNS and|CC the|DT like—who|NNP might|MD be|VB persuaded|VBN to|TO vote|VB for|IN mr|NN obama|NN </s>|S_END
+<s>|S_START yet|RB such|JJ attempts|NNS to|TO convert|VB voters|NNS are|VBP rare|JJ </s>|S_END
+<s>|S_START obama|NN campaign|NN chiefs|NNS have|VBP deemed|VBN the|DT neighbourhood|NN with|IN its|PRP$ unusual|JJ mix|NN of|IN republican|JJ democratic|JJ and|CC independent|JJ voters|NNS the|DT only|JJ “persuasion|NN area”|NN in|IN all|DT philadelphia|NN </s>|S_END
+<s>|S_START elsewhere|RB philadelphia|VBP is|VBZ a|DT “turnout|JJ city”|NN </s>|S_END
+<s>|S_START as|IN the|DT broader|JJR electoral|JJ map|NN divides|VBZ into|IN regions|NNS of|IN everdeeper|NN ideological|JJ consistency|NN the|DT nationwide|NN list|NN of|IN areas|NNS where|WRB it|PRP is|VBZ worth|JJ trying|VBG to|TO convince|NN people|NNS is|VBZ shrinking|VBG more|JJR and|CC more|JJR battles|NNS will|MD be|VB fought|VBN in|IN those|DT where|WRB turning|VBG out|RP the|DT already|RB converted|VBN is|VBZ the|DT main|JJ game|NN </s>|S_END
+<s>|S_START luckily|RB reflects|VBZ a|DT pennsylvania|NN party|NN boss|NN “the|NN art|NN of|IN reaching|NN out|IN to|TO our|PRP$ respective|JJ bases|NNS keeps|NNS on|IN getting|VBG more|JJR and|CC more|JJR sophisticated”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ nothing|NN intrinsically|RB wrong|JJ with|IN thi|NN </s>|S_END
+<s>|S_START parties|NNS have|VBP every|DT right|NN to|TO concentrate|VB their|PRP$ efforts|NNS on|IN turning|VBG out|RP their|PRP$ own|JJ </s>|S_END
+<s>|S_START mr|NN morpurgo|VBD and|CC mr|NN jacobs|NNS may|MD be|VB surrounded|VBN by|IN undergraduate|NN slackers|NNS who|WP more|JJR or|CC less|JJR need|NN roping|VBG and|CC leading|VBG to|TO the|DT polls|NNS but|CC if|IN any|DT of|IN them|PRP actually|RB wants|VBZ a|DT crunchier|JJR debate|NN both|DT student|NN activists|NNS are|VBP eager|JJ to|TO argue|VB about|IN everything|NN from|IN the|DT deficit|NN to|TO gun|VB control|NN and|CC gay|NN marriage|NN </s>|S_END
+<s>|S_START politics|NNS is|VBZ not|RB dead|JJ in|IN short|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB politicians|VBZ should|MD not|RB be|VB blind|JJ to|TO the|DT implications|NNS of|IN a|DT growing|VBG emphasis|NN on|IN turnout|IN rather|RB than|IN persuasion|NN </s>|S_END
+<s>|S_START before|IN elections|NNS candidates|NNS of|IN both|DT parties|NNS are|VBP happy|JJ to|TO boast|VB about|IN their|PRP$ clever|NN getoutthevote|NN operations|NNS specialinterest|VBP campaigns|NNS or|CC ballot|NN initiatives|NNS designed|VBN to|TO lure|NN specific|NN voter|NN groups|NNS to|TO the|DT poll|NN </s>|S_END
+<s>|S_START the|DT obama|NN campaign|NN has|VBZ 44|CD field|NN offices|NNS in|IN pennsylvania|NN each|DT supporting|VBG dozens|NNS of|IN neighbourhood|NN teams|NNS that|WDT have|VBP been|VBN honing|VBG and|CC updating|VBG target|NN voter|NN lists|NNS since|IN may|MD 2011|CD recording|VBG the|DT issues—education|NN the|DT environment|NN the|DT economy|NN and|CC so|RB on—that|JJ resonate|NN in|IN each|DT household|NN </s>|S_END
+<s>|S_START the|DT romney|NN campaign|NN has|VBZ worked|VBN hard|JJ to|TO catch|VB up|RP and|CC brags|NNS that|WDT nationwide|JJ its|PRP$ staff|NN and|CC volunteers|NNS have|VBP knocked|VBN on|IN nearly|RB 2m|CD more|JJR doors|NNS than|IN in|IN 2008|CD and|CC made|VBD six|CD times|NNS more|JJR phone|NN calls|NNS than|IN at|IN this|DT point|NN four|CD years|NNS ago|RB targeting|VBG voters|NNS in|IN battleground|NN states|NNS with|IN an|DT “aggressive”|JJ push|NN to|TO apply|VB for|IN absentee|NN ballots|NNS or|CC take|VB advantage|NN of|IN early|JJ voting|NN rule|NN </s>|S_END
+<s>|S_START yet|RB after|IN being|VBG propelled|VBN over|IN the|DT winning|NN line|NN by|IN such|JJ efforts|NNS politicians|NNS tend|VBP to|TO say|VB things|NNS like|IN “elections|NNS have|VBP consequences”|JJ as|IN if|IN they|PRP had|VBD won|VBN office|NN on|IN the|DT merits|NNS of|IN their|PRP$ arguments|NNS rather|RB than|IN on|IN the|DT quality|NN of|IN their|PRP$ operations|NNS on|IN the|DT ground|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hope|NN and|CC change|NN was|VBD not|RB really|RB a|DT manifesto|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START overinterpreting|VBG his|PRP$ victory|NN led|VBD mr|NN obama|NN to|TO push|VB ahead|RB with|IN cherished|JJ reforms|NNS that|WDT he|PRP assumed|VBD were|VBD popular|JJ because|IN he|PRP had|VBD won|VBN but|CC in|IN fact|NN were|VBD rather|RB contentiou|PRP </s>|S_END
+<s>|S_START ome|NN of|IN these|DT policies|NNS have|VBP much|JJ to|TO recommend|VB them|PRP in|IN principle|NN such|JJ as|IN his|PRP$ push|NN for|IN universal|NN healthcare|NN coverage|NN pragmatic|JJ immigration|NN reforms|NNS or|CC action|NN on|IN climate|NN change|NN </s>|S_END
+<s>|S_START yet|RB the|DT fragility|NN of|IN his|PRP$ mandate|NN emboldened|VBD his|PRP$ republican|NN foes|VBZ in|IN congress|NN who|WP would|MD not|RB have|VB dared|VBN be|VB so|RB obstructive|JJ if|IN they|PRP had|VBD felt|VBN that|IN mr|NN obama|NN had|VBD made|VBN a|DT case|NN that|WDT had|VBD won|VBD over|IN the|DT centre|NN ground|NN and|CC the|DT country|NN had|VBD massed|VBN at|IN the|DT president’s|NNS side|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT would|MD apply|VB to|TO mr|VB romney|NN just|RB as|IN much|JJ should|MD he|PRP win|VB </s>|S_END
+<s>|S_START if|IN he|PRP were|VBD to|TO eke|VB out|RP a|DT victory|NN many|JJ republicans|NNS would|MD claim|VB a|DT mandate|NN to|TO slash|VB taxes|NNS welfare|VBP and|CC other|JJ spending|NN </s>|S_END
+<s>|S_START in|IN fact|NN his|PRP$ most|JJS likely|JJ path|NN to|TO victory|NN lies|NNS in|IN mobilising|VBG conservatives|NNS who|WP neither|DT like|IN nor|CC trust|NN him|PRP very|RB much|RB and|CC making|VBG rather|RB vague|JJ appeals|NNS to|TO americans|NNS unhappy|JJ with|IN mr|NN obama|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START parties|NNS can|MD hardly|RB be|VB stopped|VBN from|IN seeking|VBG supporters’|JJ support|NN </s>|S_END
+<s>|S_START but|CC when|WRB victories|NNS are|VBP increasingly|RB assembled|VBN from|IN coalitions|NNS of|IN coddled|VBN partisans|NNS and|CC scientificallytargeted|VBD special|JJ interest|NN voters|NNS politicians|NNS should|MD be|VB more|RBR willing|JJ to|TO reach|VB across|RP party|NN lines|NNS and|CC embrace|NN compromise|NN </s>|S_END
+<s>|S_START that|DT would|MD not|RB please|VB the|DT base|NN but|CC in|IN today’s|JJ bitterly|RB divisive|JJ politics|NNS a|DT bit|NN more|RBR diffidence|NN could|MD go|VB a|DT long|JJ way|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogslexington|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN a|DT mandate|NN of|IN slacker|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN there|EX goes|VBZ the|DT neighbourhood|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN deeds|NNS not|RB word|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN shindig|NN fatigue|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN as|IN north|JJ dakota|NN goe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN attack|VBD and|CC defence|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN proposing|VBG vicepresident|NN ryan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN how|WRB not|RB to|TO manage|VB a|DT boom|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN meddling|VBG for|IN morality|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN man|NN in|IN the|DT middle|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN the|DT long|JJ fight|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN the|DT chinabashing|NN syndrome|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN what’s|NNS eating|VBG appalachia|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN the|DT very|JJ odd|JJ couple|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN examining|VBG marco|NN rubio|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN waiting|VBG for|IN robbo|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN stick|VBD or|CC carrot|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN the|DT war|NN over|IN class|NN war|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN moral|JJ quandary|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN declinism|NN resurgent|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN a|DT tilted|JJ playing|NN field|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN are|VBP the|DT republicans|NNS mad|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN enough|RB to|TO make|VB you|PRP veep|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN the|DT real|JJ back|NN yard|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN the|DT scarcer|NN sex|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN umpire|NN of|IN liberty|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN a|DT lament|NN for|IN america’s|NNS jew|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN the|DT president|NN and|CC the|DT pump|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN the|DT view|NN from|IN tehran|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN one|CD nation|NN under|IN god|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START republican|NN fratricide|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START obamas|NNS war|VBP on|IN religion|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START butteringup|NN and|CC scolding|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT classes|NNS drift|VBP apart|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT unions|NNS state|VBP is|VBZ dire|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN the|DT palmetto|NN primary|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN running|VBG out|RP of|IN move|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lexington|NN rick|VBD santorum’s|NNS ride|VBP </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,94 @@
+<p>
+<s>the gmail phishing emails sent to us officials convincingly posed as messages from people they knew</s>
+</p>
+
+<p>
+<s>new york cnnmoney  the targeted phishing scheme that struck hundreds of top us government officials personal gmail accounts was neither difficult to perform nor incredibly sophisticated</s>
+</p>
+
+<p>
+<s>the attackers were able to pose as legitimate trusted senders from the state department office of the secretary of defense and the defense intelligence agency by sending emails from what appeared  even on close inspection  to be real email addresses ending in familiar domains like stategov osdmil and diamil</s>
+</p>
+
+<p>
+<s>to accomplish that the attackers told their mail server to send emails from the spoofed addresses rather than their own</s>
+<s>though most email clients like gmail or microsoft msft fortune 500 outlook dont allow users to do that thats one of the fields an administrator of an email server can easily change</s>
+</p>
+
+<p>
+<s>when thats done its incredibly difficult or sometimes impossible for a user to know that the sender is really an impostor</s>
+</p>
+
+<p>
+<s>in this case malicious emails were sent with some text and what appeared to be an attachment</s>
+<s>according to the contagio blog which first discovered the attack in february one email sent to state department officials read</s>
+</p>
+
+<p>
+<s>this is the latest version of states joint statement</s>
+<s>my understanding is that state put in placeholder econ language and am happy to have us fill in but in their rush to get a cleared version from the wh they sent the attached to mike</s>
+</p>
+
+<p>
+<s>at the bottom of that particular email a prompt was shown for what appeared to be a download link for an attached word document called joint statement  u s draftkc editsdoc</s>
+<s> except it wasnt a download link  it was formatted to look like one with some underscores bold and hyperlinked text</s>
+</p>
+
+<p>
+<s>when the victim clicked on that link he or she was redirected to a fake but very convincing login page for gmail</s>
+<s>its unusual for gmail to ask users to log in again but perhaps the victims thought their email session had timed out</s>
+</p>
+
+<p>
+<s>after victims entered their login information into the fake page the attackers collected their passwords and were able to gain access to their gmail accounts</s>
+</p>
+
+<p>
+<s>its far from rocket science and it can be carried out by just about anyone</s>
+</p>
+
+<p>
+<s>eric fiterman a former fbi special agent proved the point for us</s>
+<s>hes the founder of rogue networks a security startup housed in a new baltimorebased cybersecurity incubator program backed by northrop grumman noc fortune 500 and the university of maryland baltimore county</s>
+<s>as part of the service fiterman offers clients he launches mock phishing attacks to test the security of corporate networks</s>
+</p>
+
+<p>
+<s>using a virtual linuxbased mail server which costs just a few dollars a month to run fiterman was able to spoof email addresses from ted turner nancy pelosi as well as my own in a matter of minutes</s>
+<s>neither the turner email client nor gmail detected any problems with the emails</s>
+<s>click here for more on how fiterman faked the emails</s>
+</p>
+
+<p>
+<s>not only is it very easy to forge emails but for google goog fortune 500 to find it would be akin to finding a needle in a haystack he said</s>
+<s>massive phishing schemes are easy to detect and throw in a spam folder but targeted attacks are hard to find</s>
+</p>
+
+<p>
+<s>in the case of targeted phishing attacks or spear phishing it often takes a pair of human eyes to discern the misdirection</s>
+<s>but some attackers have gotten so clever their schemes are becoming almost seamless</s>
+</p>
+
+<p>
+<s>if someone knows what theyre doing and they send a wellcrafted spoof email that targets specific users its nearly impossible for the end user to detect said kevin haley director at symantec symc fortune 500 security response</s>
+</p>
+
+<p>
+<s>there are some ways to uncover such schemes however</s>
+</p>
+
+<p>
+<s>end users can usually view the original source of the email in gmail you can do that by clicking the down arrow next to the reply button and clicking show original</s>
+<s> it looks like a giant garble of code but it provides some useful information</s>
+</p>
+
+<p>
+<s>for instance if the returnpath or sender field does not match the email address that appeared to send the email its likely a spoof</s>
+<s>another tip off is if the spf sender policy framework field says it does not designate the senders ip address as a permitted sender or if it says the ip address is neither permitted nor denied by best guess record for the domain</s>
+</p>
+
+<p>
+<s>in the case of the phishing attack against the us government officials some of the emails were really sent from addresses like flash10f163com jeffreybader1965163com</s>
+<s>but the recipients only would have known that by doing a deep dive into code </s>
+</p>
+

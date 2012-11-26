@@ -1,0 +1,15 @@
+<p>|P_START
+<s>|S_START gdp|NN growth 40|-NONE- gdp|NN $|$ 470bn|CD ppp|CD $|$ 754bn|CD inflation|NN 96|CD population|NN 413m|CD gdp|NN per|IN head|NN $|$ 11380|CD ppp|CD $|$ 18260|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START president|NN cristina|VBD fernández|NNP de|IN kirchner|NN will|MD start|VB 2012|CD with|IN a|DT fresh|JJ mandate|NN following|VBG elections|NNS in|IN late|JJ 2011|CD but|CC this|DT will|MD be|VB a|DT quite|JJ different|JJ administration|NN </s>|S_END
+<s>|S_START fiscal|JJ breathing|NN space|NN afforded|VBD by|IN a|DT commodities|NNS boom|NN is|VBZ close|JJ to|TO exhaustion—the|NNP more|JJR so|IN if|IN global|JJ economic|JJ conditions|NNS worsen|VBN bringing|VBG commodity|NN prices|NNS down|IN </s>|S_END
+<s>|S_START even|RB if|IN commodity|NN prices|NNS stay|VBP high|JJ the|DT economy|NN will|MD slow|VB as|IN policy|NN tightens|NNS to|TO address|VB inflation|NN and|CC exchangerate|VB distortion|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB painle|JJ </s>|S_END
+<s>|S_START the|DT world|NN federation|NN of|IN societies|NNS of|IN anaesthesiologists|NNS will|MD hold|VB its|PRP$ fouryearly|JJ world|NN congress|NN in|IN buenos|NNS aires |-NONE- </s>|S_END
+</p>|P_END
+

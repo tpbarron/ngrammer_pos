@@ -1,0 +1,64 @@
+<p>|P_START
+<s>|S_START when|WRB he|PRP was|VBD at|IN the|DT treasury|NN nearly|RB 20|CD years|NNS ago|RB larry|JJ summers|NNS would|MD counsel|VB president|NN bill|NN clinton|NN on|IN the|DT merits|NNS of|IN “stimulative|JJ austerity”|NN cut|VBD deficits|NNS and|CC interest|NN rates|NNS will|MD fall|VB by|IN enough|JJ to|TO produce|VB stronger|JJR economic|JJ growth|NN </s>|S_END
+<s>|S_START now|RB mr|VBP summers|NNS is|VBZ making|VBG the|DT opposite|JJ case|NN stimulate|NN growth|NN through|IN a|DT bigger|JJR deficit|NN and|CC the|DT longterm|NN debt|NN may|MD shrink|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT new|JJ paper|NN written|VBN with|IN brad|JJ delong|JJ of|IN the|DT university|NN of|IN california|NN berkeley|NN mr|NN summers|NNS now|RB at|IN harvard|NN after|IN a|DT stint|NN as|IN barack|NN obamas|NNS chief|NN economic|JJ adviser|NN says|VBZ that|IN in|IN the|DT odd|JJ circumstances|NNS america|VBP faces|NNS today|NN temporary|NN stimulus|VBZ “may|JJ actually|RB be|VB selffinancing”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT sort|NN of|IN argument|NN is|VBZ not|RB new|JJ </s>|S_END
+<s>|S_START advisers|NNS to|TO john|VB kennedy|JJ and|CC lyndon|NN johnson|NN thought|VBD their|PRP$ 1964|CD tax|NN cut|VBD might|MD stimulate|VB so|RB much|RB new|JJ spending|NN it|PRP would|MD pay|VB for|IN itself|PRP </s>|S_END
+<s>|S_START in|IN the|DT early|JJ 1980s|CD supplyside|NN economists|NNS argued|VBD something|NN similar|JJ about|IN ronald|NN reagans|NNS tax|NN cut|VBD </s>|S_END
+<s>|S_START neither|DT claim|NN stood|VBD the|DT test|NN of|IN time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN delong|IN and|CC mr|NN summers|NNS are|VBP careful|JJ to|TO say|VB stimulus|NN almost|RB never|RB pays|VBZ for|IN itself|PRP </s>|S_END
+<s>|S_START when|WRB the|DT economy|NN is|VBZ near|IN full|JJ employment|NN deficits|NNS crowd|VBD out|IN private|JJ spending|NN and|CC investment|NN </s>|S_END
+<s>|S_START in|IN a|DT recession|NN the|DT central|JJ bank|NN will|MD respond|VB to|TO fiscal|JJ stimulus|NN by|IN keeping|NN interest|NN rates|NNS higher|JJR than|IN they|PRP would|MD otherwise|VB be|VB </s>|S_END
+<s>|S_START both|DT effects|NNS mean|VBP that|IN in|IN normal|JJ times|NNS the|DT fiscal|JJ “multiplier”—the|NNP amount|NN by|IN which|WDT output|NN rises|VBZ for|IN each|DT dollar|NN of|IN government|NN spending|NN or|CC tax|NN cuts—is|NNS probably|RB close|JJ to|TO zero|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uch|JJ constraints|NNS are|VBP not|RB present|JJ now|RB </s>|S_END
+<s>|S_START investment|NN and|CC demand|NN are|VBP deeply|RB depressed|VBN and|CC the|DT central|JJ bank|NN having|VBG cut|NN interest|NN rates|NNS to|TO zero|VB is|VBZ not|RB about|IN to|TO raise|VB them|PRP </s>|S_END
+<s>|S_START the|DT multiplier|NN is|VBZ higher|JJR than|IN usual|JJ as|IN a|DT result|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ economists|NNS have|VBP made|VBN this|DT point|NN </s>|S_END
+<s>|S_START mr|NN delong|IN and|CC mr|NN summers|NNS go|VBP further|RB by|IN introducing|NN the|DT role|NN of|IN “hysteresis”—the|NNP tendency|NN of|IN a|DT temporary|JJ change|NN in|IN unemployment|NN to|TO become|VB permanent|JJ </s>|S_END
+<s>|S_START mr|NN summers|NNS has|VBZ looked|VBN into|IN this|DT topic|JJ before|IN </s>|S_END
+<s>|S_START in|IN an|DT early|JJ paper|NN he|PRP found|VBD that|IN the|DT surge|NN in|IN demand|NN for|IN women|NNS workers|NNS during|IN the|DT second|JJ world|NN war|NN permanently|RB raised|VBD the|DT presence|NN of|IN women|NNS in|IN the|DT workforce|NN a|DT case|NN of|IN positive|JJ hysteresi|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT worry|NN now|RB is|VBZ very|RB different|JJ </s>|S_END
+<s>|S_START between|IN 3|CD and|CC 4|CD of|IN the|DT labour|NN force|NN has|VBZ been|VBN unemployed|VBN for|IN at|IN least|JJS six|CD months|NNS see|VBP chart|NN the|DT highest|JJS proportion|NN in|IN over|IN 60|CD year|NN </s>|S_END
+<s>|S_START the|DT longer|NN the|DT economy|NN stays|VBZ depressed|VBN the|DT more|RBR likely|JJ those|DT workers|NNS are|VBP to|TO quit|VB the|DT labour|NN force|NN altogether|RB </s>|S_END
+<s>|S_START by|IN putting|NN these|DT people|NNS back|RB to|TO work|VB today|NN stimulus|NN generates|VBZ higher|JJR taxes|NNS not|RB just|RB this|DT year|NN but|CC for|IN years|NNS to|TO come|VB lowering|NN the|DT longterm|NN debt|NN burden|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN delong|IN and|CC mr|NN summers|NNS build|VBP a|DT model|NN that|WDT tests|VBZ when|WRB stimulus|NN is|VBZ likely|JJ to|TO pay|VB for|IN itself|PRP </s>|S_END
+<s>|S_START as|IN an|DT example|NN if|IN the|DT multiplier|NN is|VBZ 1|CD roughly|RB in|IN the|DT middle|NN of|IN independent|JJ estimates|NNS for|IN the|DT current|JJ stimulus|NN taxes|NNS are|VBP 33|CD of|IN gdp|NN and|CC the|DT hysteresis|NN effect|NN is|VBZ 5—that|JJ is|VBZ a|DT $|$ 1|CD loss|NN of|IN output|NN this|DT year|NN reduces|NNS potential|JJ output|NN by|IN 5|CD cents|NNS per|IN year—then|JJ stimulus|NN pays|NNS for|IN itself|PRP provided|VBD the|DT real|JJ interest|NN rate|NN is|VBZ no|DT more|RBR than|IN 25|CD percentage|NN points|NNS above|IN the|DT economic|JJ growth|NN rate|NN </s>|S_END
+<s>|S_START those|DT criteria|NNS are|VBP met|VBN today|NN </s>|S_END
+<s>|S_START the|DT real|JJ interest|NN rate|NN at|IN around|IN zero|CD is|VBZ well|RB below|IN the|DT growth|NN rate|NN at|IN 25|CD </s>|S_END
+<s>|S_START although|IN reliable|JJ estimates|NNS of|IN hysteresis|NN in|IN america|NN are|VBP scarce|NN those|DT that|WDT mr|NN delong|VBP and|CC mr|NN summers|NNS present|NN are|VBP far|RB higher|JJR than|IN 5|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP some|DT shortcomings|NNS in|IN their|PRP$ case|NN </s>|S_END
+<s>|S_START concepts|NNS such|JJ as|IN fiscal|JJ multipliers|NNS and|CC hysteresis|NN are|VBP imprecise|RB </s>|S_END
+<s>|S_START the|DT authors|NNS assume|VBP increased|VBN deficits|NNS wont|VBP scare|JJ investors|NNS away|RB from|IN a|DT countrys|NNS bond|NN </s>|S_END
+<s>|S_START and|CC there|EX is|VBZ the|DT risk|NN that|IN their|PRP$ model|NN is|VBZ used|VBN to|TO justify|VB deficits|NNS even|RB when|WRB conditions|NNS arent|VBP right|JJ </s>|S_END
+<s>|S_START their|PRP$ conclusions|NNS apply|RB “only|JJ in|IN circumstances|NNS of|IN a|DT kind|NN we|PRP havent|VBP seen|VBN in|IN the|DT us|PRP in|IN 70some|JJ years|NNS and|CC once|RB this|DT episode|NN ends|VBZ wont|NN see|NN again|RB in|IN more|JJR than|IN 70|CD years”|NN says|VBZ mr|NN summer|NN </s>|S_END
+<s>|S_START even|RB now|RB “it|JJ depends|NNS on|IN the|DT ability|NN to|TO do|VB something|NN that|WDT may|MD be|VB politically|RB hard|JJ keeping|NN the|DT stimulus|NN timely|RB and|CC targeted”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “fiscal|JJ policy|NN in|IN a|DT depressed|VBN economy”|-NONE- by|IN brad|NN delong|IN and|CC larry|NN summers|NNS presented|VBD at|IN the|DT brookings|NNS papers|NNS on|IN economic|JJ activity|NN march|NN 22nd|CD 2012|CD </s>|S_END
+</p>|P_END
+

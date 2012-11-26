@@ -1,0 +1,134 @@
+<p>|P_START
+<s>|S_START goodbye|NN aaa|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN credit|NN rating|NN agency|NN standard|NN and|CC poors|NNS made|VBD good|JJ on|IN its|PRP$ saberrattling|NN on|IN friday|NN and|CC downgraded|VBD us|PRP debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT move|NN is|VBZ unprecedented|VBN and|CC the|DT effects|NNS unclear|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN what|WP exactly|RB is|VBZ going|VBG on|IN here|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rating|NN agencies|NNS sp|VBP moodys|NNS and|CC fitch|NN analyze|NN risk|NN and|CC give|VB debt|NN a|DT grade|NN that|WDT reflects|VBZ the|DT borrowers|NNS ability|NN to|TO pay|VB the|DT underlying|VBG loans|NNS </s>|S_END
+<s>|S_START the|DT safest|JJS bets|NNS are|VBP stamped|VBN aaa|NN </s>|S_END
+<s>|S_START thats|NNS where|WRB us|PRP debt|NN has|VBZ stood|VBN for|IN years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START moodys|NNS first|RB assigned|VBD the|DT united|VBN states|NNS a|DT aaa|NN rating|NN in|IN 1917|CD </s>|S_END
+<s>|S_START the|DT countrys|NNS new|JJ sp|NN rating|NN is|VBZ aa|NN still|RB strong|JJ but|CC not|RB the|DT highest|JJS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT downgrade|NN puts|VBZ the|DT us|PRP debt|NN rating|NN on|IN par|NN with|IN that|DT of|IN belgium|NN but|CC below|IN countries|NNS like|IN the|DT united|VBN kingdom|NN and|CC australia|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START why|WRB did|VBD this|DT happen|NN now|RB </s>|S_END
+<s>|S_START sp|NN gave|VBD two|CD primary|JJ reasons|NNS for|IN downgrading|VBG us|PRP debt|NN the|DT nations|NNS fiscal|JJ path|NN and|CC its|PRP$ broken|VBN political|JJ system|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT agency|NN has|VBZ been|VBN harping|VBG on|IN those|DT two|CD issues|NNS for|IN months|NNS </s>|S_END
+<s>|S_START sp|NN argues|NNS that|WDT the|DT us|PRP debttogdp|VBP trajectory|NN is|VBZ unsustainable|JJ and|CC that|IN the|DT politics|NNS involved|VBD are|VBP so|RB caustic|JJ that|IN lawmakers|NNS are|VBP unable|JJ to|TO make|VB the|DT tough|JJ choices|NNS needed|VBN to|TO correct|VB the|DT problem|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START during|IN the|DT debt|NN ceiling|NN debate|NN lawmakers|NNS blew|VBP their|PRP$ big|JJ chance|NN to|TO make|VB a|DT difference|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO avoid|VBD a|DT downgrade|NN sp|NN said|VBD the|DT united|VBN states|NNS needed|VBN to|TO not|RB only|RB raise|VB the|DT debt|NN ceiling|NN but|CC also|RB develop|VB a|DT credible|JJ plan|NN to|TO tackle|VB the|DT nations|NNS longterm|VBP debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT agency|NN has|VBZ indicated|VBN it|PRP preferred|VBD a|DT deal|NN that|WDT would|MD have|VB reduced|VBN deficits|NNS by|IN $|$ 4|CD trillion|CD over|IN ten|CD years|NNS </s>|S_END
+<s>|S_START instead|RB lawmakers|NNS settled|VBD for|IN a|DT measure|NN that|WDT will|MD cut|VB only|RB $|$ 25|CD trillion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP does|VBZ a|DT downgrade|NN mean|NN for|IN my|PRP$ finances|NNS </s>|S_END
+<s>|S_START well|RB its|PRP$ tough|JJ to|TO say|VB </s>|S_END
+<s>|S_START remember|NN this|DT has|VBZ never|RB happened|VBN before|IN to|TO the|DT united|VBN states|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC it|PRP doesnt|VBD necessarily|RB mean|JJ disaster|NN for|IN your|PRP$ money|NN </s>|S_END
+<s>|S_START the|DT united|VBN states|NNS has|VBZ not|RB been|VBN downgraded|VBN to|TO junk|NN status|NN like|IN say|NN greece|NN </s>|S_END
+<s>|S_START the|DT rating|NN is|VBZ still|RB very|RB high|JJ just|RB not|RB tops|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bottom|NN line|NN its|PRP$ not|RB going|VBG to|TO help|VB matters|NNS especially|RB with|IN the|DT economy|NN already|RB in|IN a|DT soft|JJ patch|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT reaction|NN is|VBZ expected|VBN in|IN the|DT stock|NN market|NN </s>|S_END
+<s>|S_START major|JJ indexes|NNS around|IN the|DT world|NN were|VBD battered|VBN last|JJ week|NN and|CC a|DT downgrade|NN can|MD only|RB increase|VB uncertainty|NN and|CC fear|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ unclear|JJ how|WRB the|DT treasury|NN market|NN will|MD react|VB </s>|S_END
+<s>|S_START some|DT experts|NNS think|VBP yields|NNS could|MD spike|VB and|CC that|IN could|MD impact|VB consumers|NNS by|IN leading|VBG to|TO rate|NN hikes|VBZ on|IN items|NNS like|IN car|NN loans|NNS mortgages|NNS and|CC student|NN loans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC others|NNS predict|VBP investors|NNS will|MD shrug|VB off|RP the|DT downgrade|NN </s>|S_END
+<s>|S_START why|WRB </s>|S_END
+<s>|S_START because|IN the|DT us|PRP fiscal|JJ situation|NN is|VBZ well|RB known|VBN and|CC sp|NN is|VBZ not|RB basing|VBG its|PRP$ rating|NN on|IN any|DT information|NN that|IN is|VBZ not|RB already|RB available|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START can|MD the|DT us|PRP return|VBP to|TO a|DT aaa|NN rating|NN </s>|S_END
+<s>|S_START it|PRP can|MD </s>|S_END
+<s>|S_START but|CC it|PRP will|MD be|VB tough|JJ and|CC it|PRP wont|VBD happen|VBN for|IN a|DT while|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START john|NN chambers|NNS the|DT head|NN of|IN sovereign|NN ratings|NNS at|IN sp|NN told|VBD cnn|NN that|IN his|PRP$ agencys|NNS decision|NN is|VBZ likely|JJ to|TO have|VB a|DT longterm|NN impact|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START once|RB you|PRP lose|VBP your|PRP$ aaa|NN it|PRP doesnt|VBD usually|RB bounce|NN back|RB he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ unclear|JJ exactly|RB what|WP steps|NNS are|VBP needed|VBN to|TO change|VB sps|NNS mind|IN </s>|S_END
+<s>|S_START a|DT source|NN familiar|NN with|IN the|DT discussion|NN said|VBD friday|NN evening|NN that|WDT the|DT rating|NN agency|NN had|VBD not|RB discussed|VBN a|DT return|NN to|TO aaa|VB status|NN with|IN the|DT treasury|NN department|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START was|VBD this|DT avoidable|JJ </s>|S_END
+<s>|S_START yes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sp|NN has|VBZ gone|VBN out|RP of|IN its|PRP$ way|NN to|TO point|NN to|TO the|DT political|JJ brinkmanship|NN over|IN the|DT debt|NN ceiling|NN as|IN a|DT key|JJ reason|NN for|IN the|DT downgrade|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT puts|VBZ the|DT blame|NN squarely|RB on|IN lawmakers|NNS and|CC the|DT political|JJ culture|NN they|PRP cultivate|VBP and|CC participate|VB in|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT first|JJ thing|NN lawmakers|NNS could|MD have|VB done|VBN is|VBZ to|TO have|VB raised|VBN the|DT debt|NN ceilng|NN in|IN a|DT timely|JJ manner|NN so|IN that|IN much|JJ of|IN this|DT debate|NN had|VBD been|VBN avoided|VBN to|TO begin|VB with|IN as|IN it|PRP had|VBD done|VBN 60|CD or|CC 70|CD times|NNS since|IN 1960|CD without|IN that|DT much|JJ debate|NN chambers|NNS said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START is|VBZ one|CD party|NN to|TO blame|VB over|IN the|DT other|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ a|DT problem|NN thats|NNS been|VBN a|DT long|JJ time|NN in|IN the|DT making|VBG chambers|NNS said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT sign|NN that|IN message|NN had|VBD not|RB been|VBN received|VBN lawmakers|NNS and|CC candidates|NNS for|IN political|JJ office|NN issued|VBN a|DT slew|NN of|IN partisan|JJ statements|NNS friday|NN night|NN casting|VBG blame|NN and|CC throwing|VBG rhetorical|JJ stones|NNS just|RB hours|NNS after|IN the|DT downgrade|NN was|VBD announced |JJ </s>|S_END
+</p>|P_END
+

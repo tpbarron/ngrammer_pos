@@ -1,0 +1,103 @@
+<p>|P_START
+<s>|S_START tax|NN plans|NNS from|IN senate|JJ majority|NN leader|NN harry|NN reid|VBD and|CC minority|NN leader|NN mitch|NN mcconnell|NN epitomize|NN the|DT diviide|NN between|IN democrats|NNS and|CC republicans|NNS when|WRB it|PRP comes|VBZ to|TO taxes|NNS in|IN 2013|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN congress|NN starts|VBZ voting|VBG this|DT week|NN over|IN competing|VBG proposals|NNS for|IN how|WRB to|TO extend|VB the|DT bush|NN tax|NN cuts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START none|NN of|IN them|PRP is|VBZ likely|JJ to|TO be|VB enacted|VBN as|IN is|VBZ nor|CC is|VBZ the|DT debate|NN likely|JJ to|TO be|VB resolved|VBN before|IN the|DT november|NN elections|NNS at|IN the|DT earliest|JJS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT proposals|NNS frame|VBD the|DT terms|NNS of|IN a|DT fight|NN that|WDT will|MD be|VB waging|VBG for|IN months|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC at|IN stake|NN are|VBP the|DT tax|NN bills|NNS of|IN millions|NNS of|IN americans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START competing|VBG proposals|NNS senate|VBP democrats|NNS have|VBP proposed|VBN to|TO extend|VB all|DT the|DT bush|NN tax|NN cuts|NNS for|IN one|CD year|NN on|IN income|NN up|IN to|TO $|$ 200000|CD for|IN individuals|NNS $|$ 250000|CD for|IN married|JJ couples|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START democrats|NNS would|MD also|RB extend|VB the|DT 2009|CD expansion|NN of|IN a|DT few|JJ tax|NN credits|NNS for|IN lowincome|NN and|CC middleincome|NN americans|NNS including|VBG the|DT earned|JJ income|NN tax|NN credit|NN the|DT child|NN tax|NN credit|NN and|CC the|DT american|NN opportunity|NN tax|NN credit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START highincome|NN households|NNS would|MD see|VB their|PRP$ top|JJ two|CD income|NN tax|NN rates|NNS increase|VB to|TO 36|CD and|CC 396|CD from|IN 33|CD and|CC 35|CD today|NN </s>|S_END
+<s>|S_START their|PRP$ ability|NN to|TO benefit|VB from|IN certain|JJ tax|NN breaks|NNS would|MD be|VB limited|VBN </s>|S_END
+<s>|S_START and|CC their|PRP$ tax|NN rates|NNS on|IN capital|NN gains|NNS and|CC dividends|NNS would|MD increase|VB to|TO 20|CD from|IN 15|CD now|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START democrats|NNS dropped|VBD a|DT provision|NN that|WDT would|MD have|VB reset|VBN estate|NN tax|NN parameters|NNS at|IN 2009|CD levels|NNS under|IN which|WDT one|CD could|MD exempt|VB up|RP to|TO $|$ 35|CD million|CD of|IN an|DT estate|NN and|CC face|NN a|DT top|JJ rate|NN of|IN 45|CD on|IN the|DT taxable|JJ portion|NN </s>|S_END
+<s>|S_START otherwise|RB the|DT exemption|NN level|NN is|VBZ set|VBN to|TO fall|VB to|TO $|$ 1|CD million|CD next|JJ year|NN and|CC the|DT top|JJ rate|NN would|MD rise|VB to|TO 55|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START senate|NN republicans|NNS meanwhile|RB have|VBP proposed|VBN a|DT full|JJ oneyear|NN extension|NN of|IN the|DT bush|NN tax|NN cuts|NNS including|VBG the|DT lower|JJR rates|NNS on|IN investment|NN income|NN </s>|S_END
+<s>|S_START they|PRP do|VBP not|RB however|RB continue|VB the|DT 2009|CD expansion|NN of|IN the|DT low|JJ and|CC middleincome|NN tax|NN breaks|NNS included|VBD in|IN the|DT democratic|JJ plan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START republicans|NNS would|MD extend|VB the|DT current|JJ estate|NN tax|NN which|WDT allows|VBZ for|IN a|DT $|$ 5|CD million|CD exemption|NN level|NN and|CC imposes|NNS a|DT top|JJ rate|NN of|IN 35|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT parties|NNS would|MD offer|VB protection|NN for|IN the|DT middle|NN class|NN from|IN the|DT alternative|NN minimum|NN tax|NN although|IN the|DT democrats|NNS plan|VBP only|RB does|VBZ so|RB for|IN 2012|CD while|IN republicans|NNS would|MD provide|VB it|PRP for|IN both|DT 2012|CD and|CC 2013|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bottom|NN line|NN under|IN gop|NN plan|NN under|IN the|DT republican|JJ proposal|NN 154|CD of|IN households|NNS would|MD see|VB tax|NN increases|NNS but|CC the|DT increases|NNS would|MD primarily|RB hit|VB people|NNS making|VBG under|IN $|$ 80000|CD according|VBG to|TO a|DT new|JJ analysis|NN from|IN the|DT independent|JJ tax|NN policy|NN center|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START drilling|VBG down|IN 20|CD of|IN households|NNS making|VBG less|JJR than|IN $|$ 48000|CD would|MD see|VB average|JJ tax|NN increases|NNS as|IN high|JJ as|IN $|$ 958|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT 14|CD in|IN the|DT middle|NN of|IN the|DT income|NN scale|NN roughly|RB between|IN $|$ 48000|CD and|CC $|$ 80000|CD would|MD pay|VB an|DT average|JJ of|IN $|$ 783|CD more|JJR than|IN they|PRP do|VBP today|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT very|RB high|JJ end|NN of|IN the|DT income|NN scale|NN at|IN least|JJS $|$ 600000|CD less|JJR than|IN 005|CD would|MD see|VB a|DT tax|NN increase|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bottom|NN line|NN under|IN democratic|JJ plan|NN the|DT breakdown|NN gets|VBZ more|JJR complicated|JJ for|IN the|DT democrats|NNS proposal|NN because|IN it|PRP doesnt|VBP include|VBP protection|NN from|IN the|DT amt|NN for|IN 2013|CD even|RB though|IN the|DT going|VBG assumption|NN is|VBZ that|IN democrats|NNS would|MD eventually|RB back|VB such|JJ a|DT patch|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT amt|NN is|VBZ supposed|VBN to|TO hit|VB wealthy|JJ filers|NNS but|CC without|IN a|DT patch|NN it|PRP would|MD hit|VB tens|NNS of|IN millions|NNS of|IN nonwealthy|JJ households|NNS </s>|S_END
+<s>|S_START thats|NNS why|WRB congress|NN regularly|RB passes|VBZ one|CD on|IN a|DT bipartisan|NN basis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB much|JJ of|IN a|DT difference|NN does|VBZ the|DT patch|NN make|VBP </s>|S_END
+<s>|S_START without|IN it|PRP 23|CD of|IN households|NNS would|MD see|VB a|DT tax|NN hike|NN under|IN the|DT democrats|NNS plan|VBP with|IN the|DT majority|NN of|IN those|DT increases|NNS hitting|VBG folks|NNS making|VBG more|JJR than|IN $|$ 80000|CD at|IN an|DT average|JJ of|IN $|$ 5323|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC with|IN an|DT amt|NN patch|NN only|RB 14|CD of|IN households|NNS would|MD see|VB their|PRP$ taxes|NNS go|VBP up|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN example|NN no|DT one|NN making|VBG less|JJR than|IN $|$ 133000|CD would|MD see|VB a|DT tax|NN increase|NN according|VBG to|TO the|DT tax|NN policy|NN center|NN analysis|NN </s>|S_END
+<s>|S_START and|CC only|RB 94|CD of|IN those|DT in|IN the|DT top|JJ quintile|NN of|IN households|NNS would|MD pay|VB more|RBR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START within|IN the|DT highincome|NN groups|NNS only|RB half|DT a|DT percent|NN of|IN those|DT making|VBG between|IN $|$ 180000|CD and|CC $|$ 252000|CD would|MD have|VB a|DT bigger|JJR tax|NN bill|NN owing|VBG an|DT average|JJ of|IN $|$ 25286|CD more|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START roughly|RB a|DT fifth|JJ of|IN those|DT making|VBG between|IN $|$ 252000|CD and|CC $|$ 600000|CD would|MD owe|VB more|RBR paying|VBG an|DT additional|JJ $|$ 5358|CD on|IN average|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC the|DT vast|JJ majority|NN of|IN people|NNS making|VBG more|JJR than|IN $|$ 600000|CD would|MD have|VB higher|JJR taxes|NNS and|CC they|PRP would|MD pay|VB $|$ 62608|CD more|JJR on|IN average |JJ </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,65 @@
+<p>|P_START
+<s>|S_START not|RB long|RB after|IN a|DT jury|NN in|IN the|DT californian|JJ city|NN of|IN san|NN jose|NN concluded|VBD on|IN august|JJ 24th|CD that|WDT samsung|JJ should|MD pay|VB apple|NN just|RB over|IN $|$ 1|CD billion|CD in|IN damages|NNS for|IN infringing|VBG six|CD of|IN the|DT american|JJ firm’s|NNS software|NN and|CC design|NN patents|NNS stills|NNS from|IN a|DT yearold|NN sitcom|NN episode|NN in|IN which|WDT a|DT character|NN demonstrates|VBZ an|DT absurd|NN triangular|NN tablet|NN computer|NN began|VBD recirculating|VBG on|IN the|DT internet|NN </s>|S_END
+<s>|S_START the|DT images|NNS were|VBD being|VBG used|VBN to|TO poke|VB fun|NN at|IN the|DT jury’s|NNS ruling|VBG that|IN the|DT south|NN korean|NN firm|NN had|VBD copied|VBN the|DT shape|NN of|IN apple’s|JJ wildly|RB popular|JJ iphone|NN which|WDT like|IN most|JJS is|VBZ rectangular|JJ with|IN curved|JJ corner|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT titanic|JJ tussle|NN between|IN the|DT two|CD giants|NNS which|WDT has|VBZ led|VBN to|TO one|CD of|IN the|DT biggest|JJS penalties|NNS for|IN patent|NN violations|NNS in|IN legal|JJ history|NN is|VBZ far|RB from|IN over|IN </s>|S_END
+<s>|S_START on|IN august|JJ 28th|CD apple|NN said|VBD it|PRP wanted|VBD lucy|NN koh|NN the|DT judge|NN presiding|VBG over|IN the|DT case|NN to|TO ban|VB the|DT sale|NN in|IN america|NN of|IN eight|CD of|IN samsung’s|JJ smartphone|NN </s>|S_END
+<s>|S_START amsung|NN which|WDT is|VBZ trying|VBG to|TO persuade|VB the|DT judge|NN to|TO overturn|VB the|DT jury’s|NNP overall|JJ verdict|NN said|VBD it|PRP would|MD “take|VB all|DT necessary|JJ measures”|NN to|TO keep|VB its|PRP$ products|NNS on|IN sale|NN </s>|S_END
+<s>|S_START judge|NN koh|VBD has|VBZ scheduled|VBN a|DT hearing|NN for|IN september|NN 20th|CD to|TO review|VB an|DT existing|VBG ban|NN on|IN sales|NNS in|IN america|NN of|IN a|DT version|NN of|IN samsung’s|JJ galaxy|NN tab|NN tablet|NN computer|NN </s>|S_END
+<s>|S_START another|DT hearing|NN is|VBZ set|VBN for|IN december|NN to|TO consider|VB imposing|NN a|DT ban|NN on|IN the|DT phones|NNS targeted|VBD by|IN apple|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB if|IN these|DT devices|NNS are|VBP blocked|VBN the|DT impact|NN on|IN samsung’s|NNS bottom|IN line|NN should|MD be|VB modest|JJ because|IN a|DT ban|NN will|MD affect|VB older|JJR devices|NNS not|RB the|DT firm’s|NNP snazzy|NN new|JJ galaxy|NN phone|NN </s>|S_END
+<s>|S_START but|CC the|DT case|NN still|RB has|VBZ big|JJ implications|NNS for|IN the|DT tech|NN industry|NN which|WDT is|VBZ facing|VBG a|DT tsunami|NN of|IN patentrelated|VBN lawsuit|NN </s>|S_END
+<s>|S_START it|PRP shows|VBZ how|WRB patents|NNS covering|VBG the|DT look|NN and|CC feel|NN of|IN devices|NNS are|VBP increasingly|RB being|VBG “weaponised”|NN by|IN their|PRP$ holder|NN </s>|S_END
+<s>|S_START it|PRP highlights|VBZ the|DT propensity|NN of|IN juries|NNS to|TO award|VB huge|JJ damages|NNS in|IN intellectualproperty|NN dispute|NN </s>|S_END
+<s>|S_START and|CC it|PRP will|MD give|VB added|VBN ammunition|NN to|TO those|DT who|WP feel|NN that|IN the|DT current|JJ system|NN of|IN granting|VBG and|CC policing|VBG tech|NN patents|NNS in|IN america|NN needs|NNS to|TO be|VB overhauled|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT legal|JJ battle|NN between|IN samsung|JJ and|CC apple|NN is|VBZ also|RB intriguing|VBG because|IN the|DT archenemies|NNS work|VBP closely|RB together|RB </s>|S_END
+<s>|S_START amsung|NN is|VBZ one|CD of|IN the|DT biggest|JJS suppliers|NNS of|IN components|NNS such|JJ as|IN memory|NN chips|NNS for|IN apple’s|NNS gadget|VBP </s>|S_END
+<s>|S_START but|CC its|PRP$ phones|NNS and|CC tablets|NNS which|WDT so|RB far|RB have|VBP used|VBN google’s|-NONE- android|JJ operating|NN system|NN compete|NN headon|NN with|IN apple’s|JJ iphones|NNS and|CC ipad|VB tablet|NN </s>|S_END
+<s>|S_START the|DT tension|NN between|IN the|DT two|CD firms|NNS has|VBZ grown|VBN as|IN competition|NN in|IN the|DT smartphone|NN arena|NN has|VBZ intensified|VBN see|NN article|NN </s>|S_END
+<s>|S_START gartner|NN a|DT research|NN firm|NN says|VBZ that|IN more|JJR than|IN half|PDT of|IN the|DT smartphones|NNS shipped|VBD worldwide|JJ in|IN the|DT second|JJ quarter|NN run|VBN on|IN android|JJ </s>|S_END
+<s>|S_START apple’s|NNS late|VBP boss|NNS steve|VBP jobs|NNS promised|VBN “thermonuclear|JJ war”|NN against|IN what|WP he|PRP saw|VBD as|IN android’s|JJ systematic|JJ copying|NN of|IN apple|NN feature|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START amsung|NN has|VBZ been|VBN leading|VBG the|DT charge|NN of|IN the|DT android|JJ </s>|S_END
+<s>|S_START to|TO counter|NN it|PRP apple|VBP has|VBZ launched|VBN a|DT bombardment|NN of|IN lawsuits|NNS against|IN its|PRP$ rival|NN around|IN the|DT world|NN claiming|VBG that|IN samsung’s|JJ devices|NNS breach|VBP various|JJ patents|NNS it|PRP hold|VBP </s>|S_END
+<s>|S_START on|IN the|DT day|NN that|IN the|DT jury|NN in|IN san|NN jose|NN delivered|VBD its|PRP$ ruling|NN a|DT court|NN in|IN south|NN korea|NN hearing|NN a|DT similar|JJ case|NN said|VBD both|DT firms|NNS were|VBD guilty|JJ of|IN patent|NN violations|NNS against|IN the|DT other|JJ and|CC banned|VBD some|DT of|IN their|PRP$ devices|NNS from|IN sale|NN in|IN the|DT country|NN </s>|S_END
+<s>|S_START but|CC since|IN america|NN is|VBZ the|DT world’s|JJ largest|JJS market|NN for|IN consumer|NN electronics|NNS the|DT californian|NN ruling|NN will|MD have|VB a|DT far|JJ greater|NN impact|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT jury|NN in|IN san|NN jose|NN concluded|VBD that|IN samsung|JJ had|VBD violated|VBN several|JJ of|IN apple’s|JJ utility|NN patents|NNS covering|VBG things|NNS such|JJ as|IN bounceback|NN scrolling|VBG which|WDT makes|VBZ such|JJ things|NNS as|IN onscreen|JJ icons|NNS and|CC web|NN pages|NNS rebound|VBP if|IN swiped|VBN too|RB far|RB and|CC taptozoom|NN functionality|NN which|WDT makes|VBZ it|PRP easy|JJ to|TO zero|VB in|IN on|IN say|NN an|DT image|NN or|CC a|DT map|NN </s>|S_END
+<s>|S_START it|PRP also|RB said|VBD the|DT south|NN korean|NN company|NN had|VBD copied|VBN the|DT overall|JJ look|NN of|IN the|DT iphone|NN including|VBG the|DT rounded|JJ corners|NNS of|IN icons|NNS thus|RB breaching|VBG several|JJ of|IN apple’s|JJ design|NN patent|NN </s>|S_END
+<s>|S_START to|TO add|VB insult|NN to|TO injury|NN the|DT jurors|NNS tossed|VBD out|IN the|DT south|NN korean|NN firm’s|NNS claims|VBZ that|IN apple|NN had|VBD ripped|VBN off|RP some|DT of|IN its|PRP$ own|JJ innovation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START amsung|NN and|CC other|JJ firms|NNS are|VBP likely|JJ to|TO tweak|VB the|DT design|NN of|IN their|PRP$ devices|NNS to|TO avoid|VB further|JJ legal|JJ bombshells|NNS in|IN america|NN </s>|S_END
+<s>|S_START ome|NN patent|NN lawyers|NNS say|VBP this|DT is|VBZ as|IN it|PRP should|MD be|VB </s>|S_END
+<s>|S_START “in|JJ many|JJ ways|NNS the|DT system|NN is|VBZ working|VBG well|RB from|IN an|DT economic|JJ viewpoint”|NN says|VBZ wil|NN rao|NN of|IN mcandrews|NNS held|VBN malloy|NN a|DT law|NN firm|NN </s>|S_END
+<s>|S_START but|CC other|JJ experts|NNS worry|VBP that|IN design|NN patents|NNS in|IN particular|JJ are|VBP often|RB drawn|VBN too|RB broadly|RB and|CC granted|VBD too|RB easily|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whopping|VBG penalties|NNS imposed|VBN on|IN patent|NN infringers|NNS are|VBP also|RB a|DT cause|NN for|IN concern|NN </s>|S_END
+<s>|S_START ome|NN experts|NNS blame|VBD these|DT on|IN the|DT increased|VBN use|NN of|IN juries|NNS in|IN patent|NN case|NN </s>|S_END
+<s>|S_START according|VBG to|TO a|DT study|NN published|VBN last|JJ year|NN by|IN pwc|NN a|DT consultancy|NN juries|NNS decided|VBD an|DT average|JJ of|IN 14|CD of|IN such|JJ cases|NNS in|IN america|NN in|IN the|DT 1980s|CD since|IN 2000|CD that|WDT figure|NN has|VBZ risen|VBN to|TO 56|CD </s>|S_END
+<s>|S_START the|DT problem|NN says|VBZ brian|JJ love|NN a|DT law|NN professor|NN at|IN santa|NN clara|NN university|NN is|VBZ that|IN jurors|NNS tend|VBP to|TO have|VB a|DT gut|NN reaction|NN against|IN patent|NN violators|NNS and|CC therefore|RB often|RB award|JJ damages|NNS that|WDT are|VBP vastly|RB higher|JJR than|IN the|DT economic|JJ harm|NN that|WDT has|VBZ been|VBN done|VBN </s>|S_END
+<s>|S_START experienced|VBD judges|NNS tend|VBP to|TO see|VB things|NNS in|IN a|DT more|RBR nuanced|VBN light|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT wellknown|NN federal|JJ judge|NN richard|NN posner|NN an|DT outspoken|NN critic|JJ of|IN america’s|JJ patent|NN system|NN has|VBZ even|RB suggested|VBN that|IN the|DT country’s|NNS patent|NN and|CC trademark|NN office|NN be|VB given|VBN the|DT job|NN of|IN hearing|NN patent|NN disputes—and|NN sufficient|NN resources|NNS to|TO handle|VB a|DT wider|NN remit|NN </s>|S_END
+<s>|S_START apple|NN knows|VBZ judge|NN posner|NN all|DT too|RB well|RB </s>|S_END
+<s>|S_START earlier|JJR this|DT year|NN he|PRP dismissed|VBD a|DT lawsuit|NN it|PRP brought|VBD against|IN motorola|NN mobility|NN mocking|VBG some|DT of|IN the|DT claims|NNS apple|VBP had|VBN made|VBN about|IN the|DT harm|NN it|PRP had|VBD suffered|VBN </s>|S_END
+<s>|S_START amsung’s|NNS lawyers|NNS trying|VBG to|TO get|VB the|DT august|JJS ruling|NN reversed|VBD will|MD be|VB hoping|VBG judge|NN koh|NN looks|NNS closely|RB at|IN her|PRP$ colleague’s|NNS findings|NNS when|WRB battle|NN resumes|VBZ in|IN san|NN jose|NN </s>|S_END
+</p>|P_END
+

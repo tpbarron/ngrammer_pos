@@ -1,0 +1,47 @@
+<p>|P_START
+<s>|S_START predictions|NNS of|IN an|DT energy|NN crisis|NN have|VBP been|VBN in|IN the|DT air|NN for|IN year|NN </s>|S_END
+<s>|S_START but|CC the|DT term|NN “blackout”|NN is|VBZ an|DT attentiongetter|NN </s>|S_END
+<s>|S_START the|DT warning|NN comes|VBZ from|IN ofgem|NN the|DT industry|NN regulator|NN which|WDT predicts|NNS an|DT imminent|JJ drop|NN in|IN spare|NN electricity|NN capacity|NN from|IN a|DT margin|NN of|IN 14|CD at|IN present|JJ to|TO just|RB 4|CD by|IN 2015|CD </s>|S_END
+<s>|S_START roughly|RB a|DT fifth|JJ of|IN britain’s|JJ power|NN stations|NNS are|VBP due|JJ to|TO be|VB retired|VBN in|IN the|DT coming|VBG decade|NN mostly|RB because|IN they|PRP are|VBP old|JJ and|CC dirty|JJ </s>|S_END
+<s>|S_START despite|IN years|NNS of|IN government|NN incentives|NNS few|JJ new|JJ ones|NNS are|VBP being|VBG built|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START energy|NN suppliers|NNS have|VBP easily|RB met|VBN capacity|NN requirements|NNS in|IN recent|JJ years|NNS owing|VBG to|TO the|DT economic|JJ downturn|NN and|CC the|DT availability|NN of|IN cheap|NN coal|NN </s>|S_END
+<s>|S_START britain’s|NNS coalfired|VBD power|NN stations|NNS have|VBP been|VBN busily|RB generating|VBG as|IN much|JJ energy|NN as|IN possible—roughly|JJ onethird|NN of|IN the|DT country’s|JJ electricity—before|JJ europewide|NN pollution|NN rules|NNS force|VBP many|JJ of|IN them|PRP to|TO close|VB by|IN 2015|CD </s>|S_END
+<s>|S_START this|DT glut|NN has|VBZ deterred|VBN new|JJ investment|NN and|CC high|JJ gas|NN prices|NNS have|VBP encouraged|VBN companies|NNS to|TO mothball|VB costly|RB gasfired|VBN power|NN plant|NN </s>|S_END
+<s>|S_START a|DT big|JJ shortfall|NN is|VBZ expected|VBN when|WRB the|DT coal|NN plants|NNS shut|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC a|DT bigger|JJR problem|NN is|VBZ that|IN britain’s|JJ energy|NN market|NN has|VBZ become|VBN too|RB uncertain|RB for|IN investors|NNS to|TO entertain|VB the|DT risks|NNS of|IN new|JJ project|NN </s>|S_END
+<s>|S_START a|DT new|JJ energy|NN bill|NN is|VBZ designed|VBN to|TO stimulate|VB some|DT £110|-NONE- billion|CD $|$ 176|CD billion|CD in|IN new|JJ investment|NN largely|RB by|IN guaranteeing|NN energy|NN prices|NNS for|IN different|JJ technologies|NNS from|IN wind|JJ to|TO nuclear|JJ </s>|S_END
+<s>|S_START this|DT is|VBZ meant|VBN to|TO ensure|VB a|DT secure|NN and|CC less|JJR carbonintensive|JJ electricity|NN supply|NN as|IN part|NN of|IN a|DT pledge|NN to|TO obtain|VB 15|CD of|IN britain’s|JJ total|JJ energy|NN consumption|NN from|IN renewable|JJ sources|NNS by|IN 2020|CD </s>|S_END
+<s>|S_START yet|RB the|DT policy|NN has|VBZ left|VBN many|JJ questions|NNS unanswered|VBN such|JJ as|IN what|WP these|DT energy|NN prices|NNS will|MD be|VB how|WRB long|JJ contracts|NNS will|MD last|VB and|CC how|WRB much|JJ energy|NN will|MD be|VB needed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START complicating|VBG matters|NNS a|DT fixed|VBN price|NN for|IN renewables—which|JJ are|VBP costly|RB and|CC intermittent—encourages|NNS companies|NNS to|TO lobby|VB for|IN similar|JJ safeguards|NNS for|IN more|JJR traditional|JJ sources|NNS of|IN power|NN such|JJ as|IN ga|NN </s>|S_END
+<s>|S_START this|DT is|VBZ because|IN the|DT market|NN for|IN all|DT generators|NNS is|VBZ being|VBG distorted|VBN </s>|S_END
+<s>|S_START “once|NN you|PRP start|VB meddling|VBG you|PRP have|VBP to|TO fix|VB everything”|JJ says|NNS dieter|RBR helm|NN an|DT energy|NN economist|NN at|IN oxford|NN university|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT was|VBD the|DT substance|NN of|IN an|DT open|JJ letter|NN sent|NN by|IN industry|NN leaders|NNS to|TO george|VB osborne|NN the|DT chancellor|NN of|IN the|DT exchequer|NN ahead|RB of|IN his|PRP$ speech|NN to|TO the|DT conservative|JJ party|NN on|IN october|NN 8th|CD </s>|S_END
+<s>|S_START responding|VBG to|TO the|DT government’s|NNS mixed|VBN signals|NNS over|IN subsidies|NNS and|CC preferred|VBN technologies—with|JJ mr|NN osborne|NN clearly|RB keener|NN on|IN shale|NN gas|NN than|IN pricey|NN renewables—the|DT letter|NN called|VBN for|IN greater|JJR clarity|NN and|CC a|DT clear|JJ carbon|NN target|NN for|IN 2030|CD </s>|S_END
+<s>|S_START only|RB when|WRB the|DT government|NN unveils|NNS its|PRP$ full|JJ plans|NNS for|IN the|DT sector|NN will|MD these|VB companies|NNS stump|VB up|RP for|IN new|JJ plant|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT government’s|JJ first|JJ effort|NN to|TO fix|VB a|DT price|NN to|TO encourage|VB new|JJ infrastructure—in|JJ the|DT case|NN of|IN nuclear|JJ power—is|NN hardly|RB auspiciou|PRP </s>|S_END
+<s>|S_START nuclear|JJ energy|NN is|VBZ enticingly|RB clean|JJ so|IN a|DT raft|NN of|IN new|JJ reactors|NNS to|TO replace|VB the|DT country’s|NNP current|JJ stock|NN was|VBD meant|JJ to|TO be|VB a|DT central|JJ part|NN of|IN britain’s|NNP decarbonised|VBD energy|NN supply|NN </s>|S_END
+<s>|S_START yet|RB a|DT wide|JJ array|NN of|IN potential|JJ investors|NNS has|VBZ been|VBN whittled|VBN to|TO one|CD </s>|S_END
+<s>|S_START france’s|NNS edf|VBP is|VBZ now|RB in|IN talks|NNS with|IN the|DT energy|NN department|NN over|IN an|DT energy|NN price|NN that|WDT might|MD make|VB a|DT highrisk|NN new|JJ reactor|NN worthwhile|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB capacity|NN margins|VBZ narrow|NN energy|NN prices|NNS rise|VBP and|CC become|VB more|RBR volatile|JJ </s>|S_END
+<s>|S_START this|DT puts|NNS energy|NN companies|NNS in|IN a|DT strong|JJ position|NN to|TO twist|VB the|DT government’s|NNP and|CC thus|RB the|DT taxpayer’s|NNS arm|NN for|IN more|JJR generous|JJ contract|NN </s>|S_END
+<s>|S_START perhaps|RB then|RB the|DT electricity|NN grid|VBD will|MD finally|RB see|VB some|DT more|RBR juice|NN </s>|S_END
+</p>|P_END
+

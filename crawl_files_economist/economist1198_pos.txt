@@ -1,0 +1,11 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 109|CD gdp|NN $|$ 112bn|CD ppp|CD $|$ 159bn|CD inflation|NN 61|CD population|NN 328m|CD gdp|NN per|IN head|NN $|$ 3410|CD ppp|CD $|$ 4850|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START improving|VBG security|NN will|MD reinforce|VB the|DT virtuous|JJ cycle|NN of|IN rising|VBG foreign|JJ investment|NN in|IN oil|NN and|CC infrastructure|NN increasing|VBG incomes|NNS and|CC domestic|JJ demand|NN and|CC growing|VBG retail|NN and|CC services|NNS spending|NN </s>|S_END
+<s>|S_START nuri|NN almalikis|NNS nationalunity|NN government|NN is|VBZ weak|JJ and|CC divided|VBD and|CC may|MD lose|VB some|DT members|NNS to|TO the|DT opposition|NN but|CC it|PRP will|MD stay|VB in|IN power|NN </s>|S_END
+<s>|S_START americans|NNS will|MD keep|VB some|DT boots|NNS on|IN the|DT ground|NN if|IN mr|NN almaliki|NN suggests|VBZ it|PRP </s>|S_END
+<s>|S_START economic|JJ progress|NN will|MD be|VB slow|JJ but|CC the|DT bounceback|NN will|MD keep|VB growth|NN at|IN a|DT very|RB high|JJ rate|NN </s>|S_END
+</p>|P_END
+

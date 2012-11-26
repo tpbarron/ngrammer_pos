@@ -1,0 +1,87 @@
+<p>|P_START
+<s>|S_START the|DT us|PRP economy|NN slowed|VBD in|IN the|DT second|JJ quarter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT united|VBN states|NNS economy|NN slowed|VBD in|IN the|DT second|JJ quarter|NN amid|IN weak|JJ consumer|NN spending|NN government|NN cuts|NNS and|CC a|DT rise|NN in|IN imports|NNS from|IN foreign|JJ countries|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gross|NN domestic|JJ product|NN the|DT broadest|JJS measure|NN of|IN the|DT nations|NNS economic|JJ health|NN grew|VBD at|IN an|DT annual|JJ rate|NN of|IN 15|CD from|IN april|NN to|TO june|VB the|DT commerce|NN department|NN said|VBD friday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS down|IN significantly|RB from|IN a|DT 2|CD rate|NN in|IN the|DT first|JJ three|CD months|NNS of|IN the|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT commerce|NN department|NN also|RB released|VBD revisions|NNS going|VBG back|RB to|TO the|DT start|NN of|IN 2009|CD </s>|S_END
+<s>|S_START while|IN the|DT revisions|NNS showed|VBD that|IN growth|NN in|IN 2010|CD was|VBD weaker|NN than|IN previously|RB thought|VBD 2009|CD and|CC 2011|CD were|VBD slightly|RB stronger|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT secondquarter|NN slowdown|NN was|VBD not|RB entirely|RB surprising|JJ given|VBN consumer|NN spending|NN has|VBZ been|VBN weak|JJ recently|RB the|DT government|NN has|VBZ been|VBN cutting|VBG its|PRP$ spending|NN and|CC hiring|VBG has|VBZ been|VBN tepid|JJ </s>|S_END
+<s>|S_START economists|NNS surveyed|VBN by|IN cnnmoney|NN were|VBD expecting|VBG to|TO see|VB 14|CD growth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT economy|NN needs|VBZ to|TO grow|VB around|IN 3|CD a|DT year|NN to|TO bring|VB the|DT unemployment|NN rate|NN down|IN significantly|RB and|CC since|IN consumer|NN spending|NN accounts|NNS for|IN roughly|RB twothirds|NNS of|IN the|DT economy|NN it|PRP too|RB needs|VBZ to|TO grow|VB around|IN 3|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC spending|NN slowed|VBD to|TO 15|CD down|IN from|IN 24|CD in|IN the|DT first|JJ quarter|NN showing|NN that|IN households|NNS are|VBP continuing|VBG to|TO deleverage|NN three|CD years|NNS after|IN the|DT recession|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shoppers|NNS cut|VBD back|RB on|IN buying|NN bigticket|NN items|NNS like|IN automobiles|NNS as|IN well|RB as|IN smaller|JJR items|NNS like|IN clothing|NN and|CC groceries|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN usual|JJ the|DT us|PRP also|RB imported|VBD more|JJR goods|NNS and|CC services|NNS from|IN foreign|JJ countries|NNS than|IN it|PRP exported|VBD which|WDT subtracts|NNS from|IN economic|JJ growth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START government|NN cuts|NNS especially|RB at|IN the|DT state|NN and|CC local|JJ level|NN also|RB weighed|VBD on|IN growth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START spending|NN by|IN businesses|NNS remained|VBD a|DT small|JJ strength|NN </s>|S_END
+<s>|S_START businesses|NNS increased|VBD their|PRP$ purchases|NNS of|IN equipment|NN and|CC software|NN to|TO a|DT 72|CD annual|JJ rate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economists|NNS are|VBP hopeful|JJ the|DT economy|NN will|MD grow|VB slightly|RB faster|JJR in|IN the|DT second|JJ half|DT of|IN the|DT year|NN </s>|S_END
+<s>|S_START the|DT housing|NN market|NN has|VBZ recently|RB shown|VBN signs|NNS of|IN recovering|VBG which|WDT could|MD translate|VB into|IN more|JJR construction|NN jobs|NNS and|CC consumer|NN spending|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT effect|NN is|VBZ likely|JJ to|TO be|VB slow|JJ and|CC hardly|RB any|DT forecasters|NNS are|VBP predicting|VBG gdp|NN growth|NN above|IN 2|CD any|DT time|NN soon|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START im|NN having|VBG a|DT hard|JJ time|NN seeing|VBG where|WRB growth|NN drivers|NNS would|MD come|VB from|IN said|VBN chris|NNS jones|NNS economist|VBP with|IN td|JJ bank|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uncertainty|NN about|IN europes|NNS debt|NN crisis|NN and|CC the|DT looming|NN fiscal|JJ cliff|NN give|JJ businesses|NNS little|JJ incentive|NN to|TO invest|VB or|CC hire|VB new|JJ workers|NNS </s>|S_END
+<s>|S_START given|VBN the|DT divisive|JJ political|JJ climate|NN in|IN washington|NN dc|NN its|PRP$ unlikely|JJ the|DT government|NN will|MD agree|VB on|IN measures|NNS to|TO boost|VB the|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT federal|JJ reserve|NN could|MD consider|VB further|JJ monetary|JJ stimulus|NN at|IN its|PRP$ meeting|NN next|IN week|NN but|CC economists|NNS say|VBP thats|NNS hardly|RB encouraging|VBG </s>|S_END
+<s>|S_START any|DT efforts|NNS by|IN the|DT central|JJ bank|NN are|VBP unlikely|RB to|TO make|VB much|JJ difference|NN at|IN this|DT point|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START interest|NN rates|NNS are|VBP not|RB the|DT issuethe|NN problem|NN right|RB now|RB isnt|VBP the|DT supply|NN of|IN credit|NN its|PRP$ the|DT demand|NN for|IN it|PRP jones|VBZ said|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whats|NNS left|VBN </s>|S_END
+<s>|S_START the|DT weight|NN of|IN the|DT recovery|NN falls|VBZ on|IN consumers|NNS but|CC theyre|NN not|RB able|JJ to|TO spend|VB their|PRP$ way|NN to|TO prosperity|NN because|IN theyre|NN still|RB focused|VBN on|IN deleveraging|NN he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT commerce|NN department|NN stressed|VBD that|IN the|DT numbers|NNS released|VBN friday|NN were|VBD based|VBN on|IN incomplete|JJ data|NNS and|CC it|PRP plans|VBZ to|TO revise|VB the|DT gdp|NN figures|NNS twice|NN in|IN the|DT next|JJ few|JJ months |JJ </s>|S_END
+</p>|P_END
+

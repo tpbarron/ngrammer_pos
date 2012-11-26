@@ -1,0 +1,65 @@
+<p>|P_START
+<s>|S_START smartthings|NNS will|MD let|VB you|PRP control|NN your|PRP$ household|NN appliances|NNS from|IN your|PRP$ mobile|JJ devices|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN kickstarters|NNS latest|JJS tech|NN darling|VBG promises|NNS to|TO let|VB you|PRP run|VBP your|PRP$ entire|NN world|NN from|IN your|PRP$ smartphone|NN control|NN your|PRP$ air|NN conditioning|VBG lock|NN your|PRP$ doors|NNS or|CC get|VB an|DT alert|NN when|WRB your|PRP$ plumbing|NN starts|NNS leaking|VBG </s>|S_END
+<s>|S_START its|PRP$ called|VBN smartthings|NNS and|CC its|PRP$ slated|VBN to|TO start|VB shipping|NN in|IN december|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START smartthings|NNS founder|VBP alex|NN hawkinson|NN got|VBD the|DT idea|NN for|IN a|DT system|NN linking|VBG regular|JJ household|NN items|NNS to|TO the|DT internet|NN after|IN a|DT power|NN outage|NN in|IN his|PRP$ vacation|NN home|NN caused|VBD the|DT basement|NN pipes|NNS to|TO explode|VB </s>|S_END
+<s>|S_START when|WRB hawkinson|NN showed|VBD up|RP at|IN the|DT house|NN a|DT month|NN later|JJ he|PRP wished|VBD there|RB had|VBD been|VBN a|DT way|NN for|IN him|PRP to|TO get|VB a|DT notification|NN that|WDT something|NN was|VBD up|RB before|IN chaos|NNS broke|VBP out|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START imagine|NN if|IN you|PRP wanted|VBD to|TO create|VB a|DT sprinkler|NN that|WDT knows|VBZ when|WRB its|PRP$ going|VBG to|TO rain|VB he|PRP says|VBZ </s>|S_END
+<s>|S_START amazing|VBG things|NNS become|VBP possible|JJ when|WRB you|PRP connect|VBP regular|JJ things|NNS to|TO the|DT internet|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START smartthings|NNS system|VBP is|VBZ powered|VBN by|IN a|DT wireless|NN hub|NN that|WDT links|VBZ to|TO a|DT collection|NN of|IN sensors|NNS users|NNS can|MD place|VB around|IN their|PRP$ home|NN </s>|S_END
+<s>|S_START the|DT entire|JJ system|NN can|MD be|VB controlled|VBN through|IN a|DT smartphone|NN </s>|S_END
+<s>|S_START apple|NN inc|NN aapl|NN fortune|NN 500|CD iphone|NN and|CC google|JJ inc|NN goog|NN fortune|NN 500s|CD android|NN will|MD be|VB ready|RB at|IN launch|NN hawkinson|NN says|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT company|NN plans|VBZ to|TO kick|VB off|RP with|IN support|NN for|IN power|NN outlets|NNS for|IN turning|VBG devices|NNS on|IN and|CC off|IN open|JJ and|CC shut|NN sensors|NNS for|IN monitoring|VBG windows|NNS and|CC doors|NNS motion|NN sensors|NNS and|CC presence|NN detectors|NNS </s>|S_END
+<s>|S_START it|PRP expects|VBZ its|PRP$ thing|NN collection|NN to|TO grow|VB as|IN developers|NNS build|VBP more|JJR sensor|NN links|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START home|NN automation|NN systems|NNS have|VBP been|VBN around|IN for|IN decades|NNS </s>|S_END
+<s>|S_START smartthings|NNS breakthrough|VBP is|VBZ its|PRP$ price|NN tag|NN </s>|S_END
+<s>|S_START a|DT basic|JJ kit|NN one|CD hub|NN and|CC three|CD thing|NN sensors|NNS currently|RB starts|VBZ at|IN $|$ 174|CD on|IN kickstarter|NN </s>|S_END
+<s>|S_START addon|NN things|NNS cost|VBP $|$ 25|CD to|TO $|$ 35|CD each|DT </s>|S_END
+<s>|S_START hawkinson|NN plans|NNS to|TO eventually|RB charge|VB monthly|JJ fees|NNS of|IN $|$ 5|CD to|TO $|$ 10|CD for|IN smartthings|NNS service|NN but|CC kickstarter|NN backers|NNS will|MD have|VB those|DT fees|NNS waived|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START too|RB good|JJ to|TO be|VB true|JJ </s>|S_END
+<s>|S_START hawkinson|NN says|VBZ the|DT technology|NN is|VBZ ready|JJ to|TO roll|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP feel|VBP confident|JJ because|IN all|DT the|DT pieces|NNS already|RB exist|VBP and|CC were|VBD just|RB making|VBG refinements|NNS at|IN this|DT point|NN he|PRP says|VBZ </s>|S_END
+<s>|S_START if|IN you|PRP check|VBP out|RP the|DT app|NN demo|NN youll|NN see|NN simple|NN examples|NNS of|IN how|WRB the|DT hub|NN the|DT things|NNS the|DT cloud|NN smartapps|NNS and|CC the|DT mobile|JJ app|NN are|VBP already|RB working|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT kickstarter|NN community|NN has|VBZ flocked|VBN to|TO the|DT project|NN </s>|S_END
+<s>|S_START smartthings|NNS has|VBZ raised|VBN more|JJR than|IN $|$ 750000|CD through|IN a|DT campaign|NN that|WDT will|MD end|VB next|JJ week|NN </s>|S_END
+<s>|S_START its|PRP$ also|RB attracted|VBD outside|IN developers|NNS hawkinson|NN says|VBZ several|JJ hundred|CD are|VBP already|RB working|VBG on|IN addon|NN apps|NNS for|IN the|DT systems|NNS open|JJ platform|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP envisions|VBZ apps|NNS for|IN literally|RB everything|VBG allowing|VBG people|NNS to|TO wire|VB up|RP their|PRP$ things|NNS like|IN you|PRP can|MD install|VB apps|NNS into|IN your|PRP$ phone|NN </s>|S_END
+<s>|S_START want|NN to|TO keep|VB track|NN of|IN your|PRP$ kitty|NN </s>|S_END
+<s>|S_START slap|NN a|DT presence|NN sensor|NN on|IN her|PRP$ collar|NN and|CC track|NN her|PRP$ location|NN with|IN the|DT oh|NN no|DT my|PRP$ pet|NN is|VBZ loose|JJ </s>|S_END
+<s>|S_START smartapp|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP think|VBP were|VBD a|DT good|JJ example|NN of|IN a|DT coming|VBG hardware|NN renaissance|NN in|IN the|DT us|PRP that|IN is|VBZ really|RB software|NN companies|NNS dressed|VBN up|RP with|IN some|DT very|RB specialized|VBN hardware|NN hawkinson|NN says|VBZ </s>|S_END
+</p>|P_END
+

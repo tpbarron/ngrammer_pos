@@ -1,0 +1,50 @@
+<p>|P_START
+<s>|S_START patrick|NN leigh|VBD fermor|NN an|DT adventure|NN </s>|S_END
+<s>|S_START by|IN artemis|NN cooper|NN </s>|S_END
+<s>|S_START john|NN murray|VBP 448|CD pages|NNS £25|-NONE- </s>|S_END
+<s>|S_START buy|NN from|IN amazoncom|NN amazoncouk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ir|PRP$ patrick|NN leigh|NN fermor|NN who|WP died|VBD last|JJ year|NN at|IN the|DT age|NN of|IN 96|CD was|VBD known|VBN to|TO everyone|NN as|IN paddy|NN “a|NNP friendly|RB cheerful|JJ name|NN with|IN a|DT spring|NN in|IN its|PRP$ step”|JJ writes|NNS his|PRP$ biographer|NN artemis|VBZ cooper|NN </s>|S_END
+<s>|S_START leigh|NN fermor|NN lived|VBD to|TO the|DT full|JJ a|DT charmed|VBN life|NN packed|VBD with|IN incident|NN and|CC adventure|NN despite|IN its|PRP$ unpropitious|JJ beginning|NN </s>|S_END
+<s>|S_START his|PRP$ parents|NNS returned|VBD to|TO india|VB shortly|RB after|IN his|PRP$ birth|NN and|CC only|RB when|WRB his|PRP$ mother|NN reappeared|VBD four|CD years|NNS later|RBR did|VBD he|PRP discover|RB that|IN he|PRP had|VBD been|VBN living|VBG very|RB happily|RB in|IN someone|NN else’s|NNS family|NN </s>|S_END
+<s>|S_START his|PRP$ parents|NNS were|VBD illsuited|VBN and|CC soon|RB parted|VBN </s>|S_END
+<s>|S_START leigh|NN fermor|NN was|VBD never|RB close|JJ to|TO his|PRP$ father|NN an|DT austere|JJ distinguished|JJ civil|NN servant|NN and|CC he|PRP found|VBD his|PRP$ mother’s|NNS tendency|NN to|TO veer|NN between|IN possessive|JJ love|NN and|CC complete|JJ neglect|NN destabilising|NN </s>|S_END
+<s>|S_START “a|NN dangerous|JJ mixture|NN of|IN sophistication|NN and|CC recklessness”|NNP he|PRP was|VBD repeatedly|RB expelled|VBN from|IN school|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START aged|VBD 18|CD precocious|JJ and|CC disillusioned|VBD he|PRP set|VBD out|RP to|TO walk|VB from|IN hook|NN of|IN holland|NN to|TO constantinople|VB </s>|S_END
+<s>|S_START he|PRP explored|VBD eastern|JJ europe|NN fell|VBD in|IN love|NN with|IN a|DT romanian|JJ princess|NN and|CC lived|VBD with|IN her|PRP$ in|IN a|DT balkan|NN idyll|NN until|IN the|DT outbreak|NN of|IN war|NN </s>|S_END
+<s>|S_START back|RB in|IN england|NN he|PRP was|VBD commissioned|VBN in|IN the|DT intelligence|NN corps|NNS and|CC sent|NN to|TO the|DT middle|NN east|NN </s>|S_END
+<s>|S_START after|IN escaping|VBG from|IN a|DT defeated|VBN greece|NN he|PRP returned|VBD to|TO crete|VB to|TO help|VB organise|NN the|DT resistance|NN and|CC made|VBD his|PRP$ name|NN with|IN the|DT capture|NN and|CC evacuation|NN to|TO egypt|VB of|IN a|DT german|NN general|NN </s>|S_END
+<s>|S_START thereafter|NN he|PRP was|VBD widely|RB regarded|VBN in|IN greece|NN as|IN a|DT hero|NN second|JJ only|RB to|TO lord|VB byron|NN </s>|S_END
+<s>|S_START the|DT affection|NN was|VBD mutual|JJ and|CC 20|CD years|NNS later|RBR he|PRP built|VBD and|CC settled|VBN in|IN a|DT house|NN in|IN the|DT south|NN of|IN the|DT peloponnese|JJ </s>|S_END
+<s>|S_START after|IN the|DT war|NN leigh|NN fermor|NN continued|VBD to|TO travel|NN widely|RB and|CC he|PRP used|VBD his|PRP$ facility|NN with|IN languages|NNS scholarship|NN and|CC extraordinary|JJ memory|NN to|TO good|JJ effect|NN as|IN an|DT author|NN </s>|S_END
+<s>|S_START easily|RB distracted|VBN and|CC notoriously|RB slow|JJ to|TO complete|JJ a|DT piece|NN of|IN writing|VBG he|PRP published|VBD fewer|JJR than|IN a|DT dozen|NN work|NN </s>|S_END
+<s>|S_START but|CC his|PRP$ two|CD books|NNS on|IN greece|NN and|CC most|JJS especially|RB “a|JJ time|NN of|IN gifts”|JJ the|DT first|JJ of|IN two|CD volumes|NNS recounting|VBG the|DT story|NN of|IN his|PRP$ prewar|NN walk|NN across|IN europe|NN established|VBD him|PRP as|IN an|DT acclaimed|VBN and|CC bestselling|NN travel|NN writer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START leigh|NN fermor|NN was|VBD a|DT man|NN of|IN legendary|JJ charm|NN with|IN a|DT great|JJ gift|NN for|IN friendship|NN </s>|S_END
+<s>|S_START as|IN a|DT young|JJ man|NN footloose|NN with|IN rucksack|NN and|CC notebook|NN he|PRP was|VBD readily|RB welcomed|VBN into|IN houses|NNS humble|JJ and|CC palatial|JJ </s>|S_END
+<s>|S_START in|IN his|PRP$ company|NN people|NNS felt|VBD livelier|JJR and|CC more|JJR entertaining|VBG </s>|S_END
+<s>|S_START a|DT friend|NN wished|VBN that|IN he|PRP could|MD come|VB in|IN pillform|NN to|TO be|VB taken|VBN whenever|RP one|CD felt|NN depressed|VBD </s>|S_END
+<s>|S_START he|PRP was|VBD amusing|VBG and|CC amused|VBD quick|JJ to|TO burst|VB into|IN song|JJ ever|NN the|DT last|JJ to|TO leave|VB a|DT party|NN </s>|S_END
+<s>|S_START energetic|JJ attractive|JJ and|CC susceptible|JJ he|PRP regularly|RB fell|VBD in|IN love|NN but|CC was|VBD devoted|VBN to|TO his|PRP$ wife|NN joan|NN eyres|NNS monsell|VBP </s>|S_END
+<s>|S_START despite|IN smoking|NN 80|CD to|TO 100|CD cigarettes|NNS a|DT day|NN and|CC drinking|VBG prodigious|JJ amounts|NNS of|IN alcohol|NN he|PRP remained|VBD remarkably|RB fit|JJ </s>|S_END
+<s>|S_START at|IN the|DT age|NN of|IN 69|CD he|PRP emulated|VBD byron|NN and|CC swam|NN the|DT hellespont|NN in|IN turkey|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP is|VBZ not|RB easy|JJ to|TO convey|NN the|DT flavour|NN of|IN a|DT man|NN whose|WP$ fame|NN to|TO a|DT large|JJ extent|NN rests|NNS on|IN his|PRP$ ebullient|NN personality|NN and|CC conversation|NN but|CC ms|NNS cooper|VBP succeeds|NNS admirably|RB in|IN this|DT readable|JJ and|CC entertaining|JJ book|NN </s>|S_END
+<s>|S_START nor|CC is|VBZ she|PRP shy|RB of|IN admitting|VBG his|PRP$ shortcomings|NNS and|CC his|PRP$ bouts|NNS of|IN depression|NN when|WRB he|PRP would|MD retreat|VB to|TO a|DT trappist|NN monastery|NN in|IN france|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START leigh|NN fermor|NN was|VBD not|RB to|TO everyone’s|NNP taste|NN </s>|S_END
+<s>|S_START ome|NN found|VBD him|PRP insufferably|RB bumptious|JJ his|PRP$ enthusiasm|NN and|CC noise|VB could|MD be|VB “wearing”|JJ </s>|S_END
+<s>|S_START essentially|RB though|IN he|PRP was|VBD well|RB loved|VBN a|DT man|NN of|IN action|NN and|CC a|DT selftaught|NN intellectual|JJ who|WP brightened|VBN the|DT lives|NNS of|IN his|PRP$ many|JJ friends|NNS and|CC reader|NN </s>|S_END
+</p>|P_END
+

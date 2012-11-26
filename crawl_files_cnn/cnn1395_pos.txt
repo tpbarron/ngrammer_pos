@@ -1,0 +1,54 @@
+<p>|P_START
+<s>|S_START gas|NN prices|NNS are|VBP at|IN a|DT record|NN high|JJ for|IN labor|NN day|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN gas|NN prices|NNS are|VBP higher|JJR than|IN theyve|JJ been|VBN going|VBG into|IN any|DT other|JJ labor|NN day|NN weekend|NN on|IN record|NN but|CC experts|NNS predict|VBP some|DT relief|NN at|IN the|DT pump|NN is|VBZ coming|VBG fairly|RB soon|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START according|VBG to|TO aaa|VB the|DT national|JJ average|NN price|NN of|IN regular|JJ gas|NN jumped|VBD 94|CD in|IN august|JJ the|DT biggest|JJS percentage|NN gain|NN in|IN more|JJR than|IN three|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START according|VBG to|TO tom|VB kloza|NN chief|NN analyst|NN at|IN the|DT oil|NN price|NN information|NN service|NN many|JJ factors|NNS combined|VBN to|TO send|VB prices|NNS steadily|RB higher|JJR in|IN august|JJ </s>|S_END
+<s>|S_START among|IN them|PRP were|VBD issues|NNS at|IN a|DT number|NN of|IN refineries|NNS such|JJ as|IN a|DT fire|NN at|IN a|DT major|JJ chevron|NN cvx|NN fortune|NN 500|CD facility|NN in|IN richmond|NN calif|IN on|IN aug|NN 6|CD and|CC the|DT shutdown|NN of|IN a|DT significant|JJ share|NN of|IN the|DT nations|NNS refinery|VBP capacity|NN in|IN advance|NN of|IN hurricane|NN isaac|NN over|IN the|DT last|JJ week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP wasnt|VBD just|RB refinery|NN issues|NNS lifting|VBG pump|NN prices|NNS though|IN </s>|S_END
+<s>|S_START global|JJ issues|NNS helped|VBD to|TO lift|VB oil|NN futures|NNS about|IN 7|CD over|IN the|DT last|JJ month|NN </s>|S_END
+<s>|S_START worries|NNS about|IN the|DT european|JJ sovereign|NN debt|NN crisis|NN began|VBD to|TO ease|VB </s>|S_END
+<s>|S_START expectations|NNS that|IN the|DT federal|JJ reserve|NN was|VBD preparing|VBG to|TO provide|VB more|JJR economic|JJ stimulus|NN grew|VBD while|IN worries|NNS about|IN irans|NNS nuclear|JJ program|NN and|CC the|DT strict|NN sanctions|VBZ imposed|VBN on|IN the|DT oilrich|NN nation|NN flared|VBD up|RP again|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD isaac|NN gas|NN price|NN spike|NN reaches|NNS to|TO ohio|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC kloza|VBP said|VBN a|DT number|NN of|IN factors|NNS are|VBP likely|JJ to|TO lower|JJR gas|NN prices|NNS fairly|RB soon|RB </s>|S_END
+<s>|S_START the|DT damage|NN from|IN hurricane|NN isaac|NN is|VBZ not|RB believed|VBN to|TO be|VB serious|JJ which|WDT should|MD allow|VB gulf|PRP coast|RB refineries|VBZ to|TO get|VB back|RB to|TO work|VB quickly|RB </s>|S_END
+<s>|S_START the|DT end|NN of|IN the|DT summer|NN blend|NN of|IN gasoline|NN on|IN sept|NN 15|CD could|MD bring|VB prices|NNS down|IN 20|CD cents|NNS a|DT gallon|NN over|IN the|DT next|JJ month|NN or|CC so|RB </s>|S_END
+<s>|S_START and|CC kloza|VBD believes|NNS concerns|NNS about|IN europe|NN could|MD again|VB start|NN to|TO hit|VB oil|NN prices|NNS globally|RB in|IN the|DT coming|VBG weeks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP think|VBP that|IN $|$ 325|CD a|DT gallon|NN for|IN gasoline|NN for|IN the|DT last|JJ month|NN of|IN the|DT year|NN is|VBZ achievable|JJ kloza|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD rules|NNS to|TO double|VB us|PRP fuel|NN economy|NN to|TO 545|CD mpg|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START indeed|RB the|DT aaa|NN national|JJ average|NN dropped|VBD saturday|NN by|IN twotenths|NNS of|IN a|DT cent|NN to|TO just|RB under|IN $|$ 383|CD the|DT first|JJ decline|NN in|IN nine|CD days|NNS </s>|S_END
+<s>|S_START the|DT price|NN has|VBZ remain|VBN unchanged|JJ for|IN the|DT past|JJ two|CD days|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START still|RB that|IN price|NN beat|NN the|DT previous|JJ record|NN of|IN $|$ 367|CD heading|VBG into|IN the|DT 2008|CD labor|NN day|NN weekend|NN </s>|S_END
+<s>|S_START that|DT summer|NN oil|NN and|CC gas|NN hit|VBD their|PRP$ highest|JJS prices|NNS of|IN all|DT time|NN </s>|S_END
+<s>|S_START but|CC prices|NNS plunged|VBD later|JJ due|JJ to|TO the|DT meltdown|NN in|IN financial|JJ markets|NNS that|WDT followed|VBD the|DT lehman|NN brothers|NNS bankruptcy|NN </s>|S_END
+</p>|P_END
+

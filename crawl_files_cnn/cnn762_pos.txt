@@ -1,0 +1,49 @@
+<p>|P_START
+<s>|S_START proteus|NN digital|NN healths|NNS monitoring|VBG system|NN includes|VBZ a|DT mobile|JJ app|NN pills|NNS with|IN embedded|JJ chips|NNS and|CC a|DT stickon|NN patch|NN that|WDT tracks|VBZ your|PRP$ body|NN data|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN ever|RB wonder|JJR if|IN you|PRP remembered|VBD to|TO take|VB your|PRP$ pills|NNS this|DT morning|NN </s>|S_END
+<s>|S_START a|DT medical|JJ tech|NN startup|NN has|VBZ a|DT novel|NN solution|NN swallow|NN a|DT computer|NN chip|NN that|WDT will|MD help|VB you|PRP keep|VB track|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START proteus|NN digital|NN health|NN scored|VBD a|DT big|JJ victory|NN this|DT week|NN when|WRB the|DT us|PRP food|VBD and|CC drug|NN administration|NN granted|VBD approval|NN for|IN the|DT companys|NNS ingestible|JJ sensor|NN invention|NN </s>|S_END
+<s>|S_START the|DT 1|CD square|NN millimeter|NN device|NN roughly|RB the|DT size|NN of|IN a|DT grain|NN of|IN sand|NN can|MD relay|VB information|NN about|IN your|PRP$ insides|NNS to|TO you|PRP and|CC if|IN you|PRP choose|VBP to|TO your|PRP$ doctor|NN or|CC nurse|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT chip|NN works|VBZ by|IN being|VBG imbedded|VBN into|IN a|DT pill|NN </s>|S_END
+<s>|S_START ingest|NN it|PRP at|IN the|DT same|JJ time|NN that|WDT you|PRP take|VBP your|PRP$ medication|NN and|CC it|PRP will|MD go|VB to|TO work|VB inside|NN you|PRP recording|VBG the|DT time|NN you|PRP took|VBD your|PRP$ dose|NN </s>|S_END
+<s>|S_START it|PRP transmits|VBZ that|IN information|NN through|IN your|PRP$ skin|NN to|TO a|DT stickon|NN patch|NN which|WDT in|IN turn|NN sends|NNS the|DT data|NNS to|TO a|DT mobile|JJ phone|NN application|NN and|CC any|DT other|JJ devices|NNS you|PRP authorize|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT systems|NNS goal|NN is|VBZ to|TO overcome|VB our|PRP$ forgetful|JJ impulses|NNS says|VBZ andrew|JJ thompson|NN the|DT ceo|NN and|CC cofounder|NN of|IN proteus|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START people|NNS live|VBP busy|JJ and|CC complex|JJ lives|NNS and|CC as|IN a|DT result|NN often|RB dont|NN take|VB their|PRP$ medicines|NNS correctly|RB thompson|NN says|VBZ </s>|S_END
+<s>|S_START we|PRP wanted|VBD to|TO develop|VB a|DT solution|NN that|WDT would|MD help|VB make|VB existing|VBG medicines|NNS more|JJR effective|JJ in|IN real|JJ life|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT european|JJ union|NN approved|VBD proteus|NN system|NN device|NN in|IN 2010|CD according|VBG to|TO the|DT company|NN </s>|S_END
+<s>|S_START the|DT redwood|NN city|NN calif|IN company|NN plans|NNS to|TO bring|VB its|PRP$ first|JJ product|NN called|VBN helius|NN to|TO market|NN later|JJ this|DT year|NN in|IN the|DT uk|NN in|IN partnership|NN with|IN the|DT lloydspharmacy|NN chain|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START helius|NN includes|VBZ proteus|NN mobile|IN health|NN app|NN a|DT supply|NN of|IN its|PRP$ stickon|NN patches|NNS they|PRP last|VBP seven|CD days|NNS then|RB need|VBP replacing|VBG and|CC a|DT stash|NN of|IN its|PRP$ sensorequipped|VBN placebo|NN chips|NNS </s>|S_END
+<s>|S_START the|DT company|NN declined|VBD to|TO comment|NN on|IN the|DT systems|NNS planned|VBD price|NN tag|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT first|JJ wave|NN of|IN proteus|NN products|NNS will|MD rely|RB on|IN placebo|NN pills|NNS taken|VBN at|IN the|DT same|JJ time|NN as|IN the|DT patients|NNS medication|NN </s>|S_END
+<s>|S_START the|DT company|NN hopes|VBZ to|TO eventually|RB get|VB its|PRP$ sensors|NNS built|VBN straight|JJ into|IN common|JJ medications|NNS thompson|NN says|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START proteus|NN spent|VBD four|CD years|NNS working|VBG through|IN the|DT fda|NN approval|NN process|NN </s>|S_END
+<s>|S_START now|RB that|DT its|PRP$ got|NN a|DT green|JJ light|NN it|PRP plans|VBZ to|TO begin|VB working|NN on|IN a|DT us|PRP version|NN of|IN its|PRP$ helius|NN system |NN </s>|S_END
+</p>|P_END
+

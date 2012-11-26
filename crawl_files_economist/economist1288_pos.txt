@@ -1,0 +1,9 @@
+<p>|P_START
+<s>|S_START according|VBG to|TO the|DT conference|NN board|NN a|DT businessresearch|NN outfit|NN growth|NN in|IN global|JJ productivity|NN measured|VBN as|IN gdp|NN per|IN person|NN in|IN work|NN rose|VBD by|IN 33|CD in|IN 2010|CD after|IN falling|VBG by|IN 12|CD the|DT previous|JJ year|NN </s>|S_END
+<s>|S_START the|DT spurt|NN in|IN productivity|NN growth|NN was|VBD typical|JJ of|IN the|DT period|NN immediately|RB after|IN the|DT end|NN of|IN a|DT recession|NN as|IN output|NN recovered|VBD smartly|RB but|CC unemployment|NN remained|VBD high|JJ </s>|S_END
+<s>|S_START productivity|NN in|IN rich|JJ countries|NNS grew|VBD by|IN 3|CD in|IN 2010|CD and|CC the|DT conference|NN board|NN expects|VBZ it|PRP to|TO come|VB down|RP to|TO 16|CD in|IN 2011|CD as|IN output|NN growth|NN slows|VBZ and|CC employment|NN recover|NN </s>|S_END
+<s>|S_START china|NN led|VBD the|DT worlds|NNS big|JJ economies|NNS in|IN productivity|NN growth|NN </s>|S_END
+<s>|S_START its|PRP$ gdp|NN per|IN person|NN employed|VBN grew|NN by|IN 87|CD in|IN 2010|CD </s>|S_END
+<s>|S_START chinas|NNS productivity|NN growth|NN has|VBZ been|VBN among|IN the|DT highest|JJS in|IN the|DT world|NN since|IN the|DT mid1990|NNP </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,188 @@
+<p>|P_START
+<s>|S_START house|NN speaker|NN john|NN boehner|NN has|VBZ said|VBN he|PRP again|RB will|MD insist|VB there|EX be|VB more|JJR spending|NN cuts|NNS and|CC reforms|NNS than|IN any|DT debt|NN ceiling|NN increase|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN wow|NN </s>|S_END
+<s>|S_START so|IN here|RB we|PRP are|VBP again|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START washington|NN is|VBZ spoiling|VBG for|IN a|DT fight|NN over|IN the|DT countrys|NNS debt|NN ceiling|NN less|RBR than|IN a|DT year|NN after|IN a|DT showdown|NN that|WDT induced|VBN a|DT credit|NN downgrade|NN rocked|VBD the|DT markets|NNS and|CC eroded|VBD confidence|NN in|IN congress|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START last|JJ week|NN house|NN speaker|NN john|NN boehner|NN said|VBD he|PRP would|MD not|RB permit|VB another|DT increase|NN in|IN the|DT countrys|NNS legal|JJ borrowing|NN limit|NN without|IN a|DT larger|JJR amount|NN of|IN spending|NN cuts|NNS and|CC reforms|NNS approved|VBD in|IN tandem|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP suspect|VBP blood|NN pressure|NN readings|NNS went|VBD up|RB that|IN afternoon|NN said|VBD budget|NN expert|NN joe|NN minarik|NN senior|JJ vice|NN president|NN of|IN the|DT committee|NN for|IN economic|JJ development|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT would|MD be|VB understandable|JJ given|VBN how|WRB damaging|JJ the|DT last|JJ debt|NN ceiling|NN showdown|NN turned|VBD out|RP to|TO be|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC well|RB get|VB to|TO that|DT in|IN a|DT minute|NN </s>|S_END
+<s>|S_START first|JJ it|PRP pays|VBZ to|TO remember|VB just|RB how|WRB the|DT debt|NN ceiling|NN actually|RB works|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP is|VBZ the|DT debt|NN ceiling|NN exactly|RB </s>|S_END
+<s>|S_START its|PRP$ a|DT legal|JJ cap|NN set|NN by|IN congress|NN on|IN the|DT amount|NN of|IN money|NN the|DT federal|JJ government|NN can|MD borrow|VB </s>|S_END
+<s>|S_START the|DT ceiling|NN applies|NNS to|TO debt|NN owed|VBN to|TO the|DT public|NN ie|NN anyone|NN who|WP buys|NNS us|PRP bonds|NNS plus|CC debt|NN owed|VBD to|TO federal|JJ government|NN trust|NN funds|NNS such|JJ as|IN those|DT for|IN social|JJ security|NN and|CC medicare|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT first|JJ limit|NN established|VBD in|IN 1917|CD was|VBD set|VBN at|IN $|$ 115|CD billion|CD according|VBG to|TO the|DT committee|NN for|IN a|DT responsible|JJ federal|JJ budget|NN </s>|S_END
+<s>|S_START by|IN setting|NN a|DT limit|NN congress|NN gave|VBD the|DT treasury|NN department|NN authority|NN to|TO borrow|VB money|NN as|IN needed|VBN </s>|S_END
+<s>|S_START previously|RB congress|VBP had|VBN to|TO sign|VB off|RP every|DT time|NN the|DT federal|JJ government|NN issued|VBD debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB high|JJ is|VBZ the|DT debt|NN limit|NN right|RB now|RB </s>|S_END
+<s>|S_START the|DT ceiling|NN is|VBZ currently|RB set|VBN at|IN $|$ 16394|CD trillion|CD </s>|S_END
+<s>|S_START the|DT countrys|NNS accrued|VBD debt|NN subject|NN to|TO the|DT limit|NN as|IN of|IN friday|NN was|VBD $|$ 15670|CD trillion|CD </s>|S_END
+<s>|S_START heres|NNS where|WRB the|DT treasury|NN posts|NNS daily|RB updates|VBZ of|IN the|DT number|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB will|MD we|VB hit|NN it|PRP </s>|S_END
+<s>|S_START treasury|NN secretary|NN tim|NN geithner|NN has|VBZ said|VBN he|PRP estimates|VBZ that|IN us|PRP borrowing|VBG could|MD hit|VB the|DT debt|NN ceiling|NN by|IN the|DT end|NN of|IN 2012|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC by|IN taking|NN extraordinary|JJ measures|NNS such|JJ as|IN suspending|NN investments|NNS in|IN federal|JJ retirement|NN funds|NNS geithner|NN might|MD be|VB able|JJ to|TO buy|VB enough|JJ time|NN to|TO keep|VB borrowing|NN below|IN the|DT legal|JJ limit|NN until|IN early|JJ 2013|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB is|VBZ the|DT ceiling|NN determined|VBD </s>|S_END
+<s>|S_START they|PRP never|RB admit|VB it|PRP but|CC every|DT time|NN lawmakers|NNS vote|VBP to|TO hike|VB spending|NN or|CC cut|VB taxes|NNS and|CC not|RB pay|VB for|IN them|PRP theyre|VBP tacitly|RB acknowledging|VBG that|IN the|DT debt|NN ceiling|NN will|MD need|VB to|TO raised|VBN in|IN the|DT future|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN arguing|VBG over|IN the|DT debt|NN ceiling|NN after|IN the|DT fact|NN is|VBZ essentially|RB arguing|VBG over|IN whether|IN to|TO pay|VB the|DT bills|NNS the|DT country|NN has|VBZ already|RB incurred|VBN and|CC which|WDT congress|NN has|VBZ already|RB approved|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB many|JJ times|NNS has|VBZ the|DT ceiling|NN been|VBN raised|VBN </s>|S_END
+<s>|S_START since|IN march|NN 1962|CD debt|NN ceiling|NN increases|NNS have|VBP been|VBN enacted|VBN 76|CD times|NNS according|VBG to|TO the|DT congressional|JJ research|NN service|NN </s>|S_END
+<s>|S_START congress|NN has|VBZ voted|VBN to|TO raise|VB the|DT ceiling|NN 11|CD of|IN those|DT times|NNS since|IN 2001|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START expect|NN more|JJR of|IN the|DT same|JJ over|IN the|DT next|JJ decade|NN </s>|S_END
+<s>|S_START barring|VBG major|JJ changes|NNS to|TO spending|NN and|CC tax|NN policies|NNS congress|NN would|MD repeatedly|RB face|VB demands|NNS to|TO raise|VB the|DT debt|NN limit|NN crs|NNS wrote|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START why|WRB does|VBZ congress|JJ even|RB bother|RBR to|TO set|VB a|DT debt|NN limit|NN </s>|S_END
+<s>|S_START in|IN theory|NN the|DT limit|NN is|VBZ supposed|VBN to|TO help|VB congress|NN control|NN spending|NN </s>|S_END
+<s>|S_START in|IN reality|NN it|PRP doesnt|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START every|DT time|NN the|DT debt|NN limit|NN needs|VBZ to|TO be|VB raised|VBN lawmakers|NNS and|CC the|DT president|NN are|VBP forced|VBN to|TO take|VB stock|NN of|IN the|DT countrys|NNS fiscal|JJ direction|NN which|WDT in|IN theory|NN isnt|NN a|DT bad|JJ thing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT decision|NN about|IN how|WRB high|JJ to|TO set|VB the|DT ceiling|NN is|VBZ usually|RB a|DT political|JJ one|CD depending|VBG on|IN how|WRB quickly|RB the|DT minority|NN party|NN wants|VBZ to|TO raise|VB the|DT issue|NN again|RB for|IN political|JJ gain|NN or|CC to|TO extract|VB concessions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN any|DT case|NN the|DT vote|NN usually|RB comes|VBZ after|IN lawmakers|NNS have|VBP already|RB passed|VBN the|DT spending|NN hikes|VBZ and|CC tax|NN cuts|NNS that|WDT necessitate|NN an|DT increase|NN in|IN the|DT first|JJ place|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP happens|NNS if|IN congress|NN doesnt|NN raise|VB the|DT debt|NN ceiling|NN </s>|S_END
+<s>|S_START treasury|NN would|MD not|RB be|VB able|JJ to|TO borrow|VB any|DT more|RBR money|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT means|VBZ the|DT government|NN would|MD fall|VB short|JJ of|IN what|WP it|PRP needs|VBZ to|TO pay|VB all|DT its|PRP$ bills|NNS in|IN full|JJ which|WDT include|NN funding|NN government|NN operations|NNS and|CC paying|VBG creditors|NNS and|CC contractors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START during|IN last|JJ years|NNS debate|VBP geithners|NNS critics|NNS said|VBD he|PRP could|MD prevent|VB default|NN by|IN simply|RB paying|VBG the|DT interest|NN due|JJ to|TO bondholders|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC since|IN average|JJ spending|NN minus|NN interest|NN outpaces|NNS revenue|NN by|IN about|RB $|$ 115|CD billion|CD a|DT month|NN geithner|NN would|MD have|VB to|TO pick|VB and|CC choose|VB whom|WP to|TO pay|VB and|CC whom|WP to|TO put|VB off|RP every|DT day|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC theres|NNS no|DT guarantee|NN that|IN paying|VBG interest|NN while|IN shirking|VBG other|JJ legal|JJ obligations|NNS will|MD protect|VB the|DT country|NN from|IN the|DT perception|NN of|IN default|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START geithner|NN said|VBD it|PRP would|MD be|VB akin|JJ to|TO a|DT homeowner|NN who|WP pays|NNS his|PRP$ mortgage|NN but|CC puts|VBZ off|RP his|PRP$ car|NN loan|NN and|CC credit|NN cards|NNS </s>|S_END
+<s>|S_START translation|NN the|DT homeowners|NNS credit|NN could|MD still|RB be|VB damaged|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ultimately|RB if|IN lawmakers|NNS fail|VBP to|TO raise|VB the|DT ceiling|NN they|PRP will|MD have|VB two|CD choices|NNS both|DT awful|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START they|PRP could|MD immediately|RB enact|VB massive|JJ spending|NN cuts|NNS or|CC tax|NN increases|NNS </s>|S_END
+<s>|S_START or|CC they|PRP could|MD acknowledge|VB that|IN the|DT country|NN would|MD be|VB unable|JJ to|TO pay|VB what|WP it|PRP owes|VBZ in|IN full|JJ and|CC the|DT united|JJ states|NNS could|MD effectively|RB default|VB on|IN some|DT of|IN its|PRP$ obligations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT first|JJ option|NN is|VBZ impossible|JJ to|TO execute|VB without|IN serious|JJ economic|JJ repercussions|NNS </s>|S_END
+<s>|S_START and|CC the|DT second|JJ option|NN could|MD cripple|VB the|DT economy|NN and|CC send|NN world|NN markets|NNS into|IN a|DT tailspin|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START not|RB only|RB the|DT default|NN but|CC efforts|NNS to|TO resolve|VB it|PRP would|MD arguably|RB have|VB negative|JJ repercussions|NNS on|IN both|DT domestic|JJ and|CC international|JJ financial|JJ markets|NNS and|CC economies|NNS according|VBG to|TO the|DT crs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START will|MD reaching|VB the|DT debt|NN ceiling|NN cause|NN a|DT government|NN shutdown|NN </s>|S_END
+<s>|S_START technically|RB no|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT government|NN shutdown|NN occurs|NNS if|IN lawmakers|NNS fail|VBP to|TO appropriate|VB money|NN for|IN federal|JJ agencies|NNS and|CC programs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN contrast|NN if|IN the|DT debt|NN ceiling|NN is|VBZ breached|VBN uncle|NN sam|NN would|MD still|RB have|VB revenue|NN coming|VBG in|IN that|DT could|MD be|VB used|VBN to|TO fund|VB the|DT government|NN noted|VBD rudolph|NN penner|NN a|DT former|JJ congressional|JJ budget|NN office|NN director|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC if|IN geithner|NN is|VBZ coming|VBG up|RP short|JJ by|IN $|$ 115|CD billion|CD on|IN average|JJ every|NN month|NN and|CC lawmakers|NNS just|RB decide|VBP to|TO cut|VB spending|NN by|IN that|DT amount|NN that|IN could|MD effectively|RB mean|VB a|DT partial|JJ government|NN shutdown|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN what|WP happened|VBN last|JJ year|NN </s>|S_END
+<s>|S_START the|DT 2011|CD debt|NN ceiling|NN showdown|NN resulted|VBD in|IN a|DT threepart|NN increase|NN to|TO the|DT debt|NN ceiling|NN in|IN exchange|NN for|IN among|IN other|JJ things|NNS at|IN least|JJS $|$ 21|CD trillion|CD in|IN debt|NN reduction|NN over|IN 10|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT debt|NN ceiling|NN deal|NN known|VBN as|IN the|DT budget|NN control|NN act|NN also|RB empowered|VBD a|DT socalled|VBN super|NN committee|NN of|IN lawmakers|NNS from|IN both|DT parties|NNS to|TO negotiate|VB how|WRB to|TO achieve|VB at|IN least|JJS $|$ 12|CD trillion|CD of|IN that|DT debt|NN reduction|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT committee|NN failed|VBD however|RB thereby|JJ triggering|NN a|DT sequester|NN of|IN nearly|RB $|$ 1|CD trillion|CD in|IN automatic|JJ spending|NN cuts|NNS mostly|RB across|IN defense|NN and|CC nondefense|NN discretionary|NN spending|NN </s>|S_END
+<s>|S_START that|DT latter|NN category|NN pays|NNS for|IN many|JJ common|JJ and|CC popular|JJ governmental|NN functions|NNS from|IN food|NN inspections|NNS to|TO the|DT operation|NN of|IN national|JJ parks|NNS </s>|S_END
+<s>|S_START those|DT cuts|NNS are|VBP set|VBN to|TO start|VB taking|VBG effect|NN in|IN january|JJ 2013|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ lawmakers|NNS hate|VBP those|DT cuts|NNS but|CC apparently|RB not|RB enough|RB yet|RB to|TO negotiate|VB a|DT bipartisan|NN deal|NN to|TO replace|VB them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT debt|NN ceiling|NN showdown|NN of|IN 2011|CD also|RB created|VBD a|DT lot|NN of|IN bad|JJ blood|NN between|IN the|DT parties|NNS and|CC between|IN republicans|NNS and|CC the|DT white|JJ house|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC it|PRP sparked|VBD the|DT firstever|NN downgrade|NN of|IN the|DT us|PRP credit|NN rating|NN by|IN standard|JJ poors|NNS which|WDT cited|VBN political|JJ brinksmanship|NN as|IN the|DT chief|NN cause|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT in|IN turn|NN caused|VBN one|CD of|IN the|DT most|RBS volatile|JJ weeks|NNS in|IN world|NN markets|NNS and|CC left|VBD americans|NNS and|CC investors|NNS with|IN the|DT sense|NN that|IN congress|NN cant|NN handle|NN even|RB the|DT most|RBS elemental|JJ tasks|NNS without|IN a|DT lot|NN of|IN destructive|JJ drama |NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,67 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN american|NN manufacturing|NN continued|VBD to|TO slow|VB in|IN july|RB contracting|VBG for|IN the|DT second|JJ month|NN in|IN a|DT row|NN according|VBG to|TO a|DT survey|NN of|IN purchasing|VBG managers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT institute|NN for|IN supply|NN management|NN reported|VBD wednesday|NN that|IN its|PRP$ monthly|JJ index|NN rose|VBD to|TO 498|CD in|IN july|RB from|IN a|DT 497|CD reading|NN in|IN june|NN </s>|S_END
+<s>|S_START any|DT reading|NN below|IN 50|CD indicates|NNS contraction|NN in|IN the|DT sector|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT index|NN showed|VBD that|IN while|IN the|DT sector|NN contracted|VBD it|PRP did|VBD so|RB at|IN a|DT slightly|RB slower|JJR rate|NN than|IN it|PRP did|VBD the|DT month|NN before|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT index|NN came|VBD in|IN below|IN the|DT expectations|NNS of|IN economists|NNS surveyed|VBN by|IN briefingcom|NN who|WP forecast|NN it|PRP would|MD rise|VB to|TO 501|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT new|JJ orders|NNS component|VBP a|DT forwardlooking|NN indicator|NN continued|VBD to|TO contract|NN but|CC the|DT rate|NN of|IN contraction|NN slowed|VBD </s>|S_END
+<s>|S_START it|PRP rose|VBD to|TO 48|CD in|IN july|RB from|IN 479|CD the|DT month|NN before|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ism|NN report|NN came|VBD as|IN another|DT worrying|NN sign|NN following|VBG last|JJ months|NNS surprisingly|RB low|JJ number|NN which|WDT ended|VBD a|DT 34month|JJ growth|NN streak|NN </s>|S_END
+<s>|S_START manufacturing|NN had|VBD been|VBN one|CD segment|NN in|IN the|DT us|PRP economy|NN that|IN until|IN last|JJ month|NN shown|NN consistent|NN growth|NN during|IN the|DT recovery|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC this|DT months|NNS report|NN wont|NN alleviate|NN concerns|NNS about|IN slowing|VBG global|JJ growth|NN and|CC the|DT eurozone|NN crisis|NN dragging|VBG the|DT sector|NN down|IN </s>|S_END
+<s>|S_START poor|NN numbers|NNS out|IN of|IN asia|NN and|CC europe|NN on|IN wednesday|NN showed|VBD that|IN the|DT ripple|NN effect|NN from|IN europe|NN has|VBZ hit|VBN manufacturing|NN across|IN the|DT globe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START china|NN reported|VBD on|IN wednesday|NN that|IN growth|NN in|IN its|PRP$ once|NN vibrant|NN manufacturing|NN sector|NN slowed|VBD to|TO a|DT near|NN halt|NN in|IN july|RB </s>|S_END
+<s>|S_START the|DT national|JJ bureau|NN of|IN statistics|NNS said|VBD its|PRP$ index|NN of|IN purchasing|VBG managers|NNS sentiment|NN slipped|VBD to|TO 501|CD from|IN 502|CD in|IN june|NN </s>|S_END
+<s>|S_START just|RB as|IN in|IN the|DT united|VBN states|NNS any|DT reading|NN above|IN 50|CD signals|NNS growth|NN in|IN the|DT manufacturing|NN sector|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START manufacturing|NN activity|NN also|RB continued|VBD to|TO contract|NN across|IN the|DT eurozone|NN </s>|S_END
+<s>|S_START the|DT markit|NN final|JJ eurozone|NN manufacturing|NN pmi|NN fell|VBD to|TO 44|CD in|IN july|RB a|DT more|RBR than|IN threeyear|JJ low|JJ but|CC roughly|RB in|IN line|NN with|IN forecasts|NNS </s>|S_END
+<s>|S_START italys|NNS manufacturing|VBG activity|NN was|VBD at|IN a|DT threemonth|NN low|JJ while|IN manufacturing|NN activity|NN in|IN spain|NN rose|VBD to|TO a|DT threemonth|NN high|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economists|NNS say|VBP that|IN while|IN the|DT number|NN is|VBZ disappointing|VBG it|PRP is|VBZ not|RB at|IN all|DT surprising|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT numbers|NNS dont|VBP really|RB change|NN the|DT anemic|JJ picture|NN much|RB said|VBD paul|JJ ashworth|NN senior|JJ us|PRP economist|VBP at|IN capital|NN economics|NNS </s>|S_END
+<s>|S_START this|DT shows|VBZ that|IN the|DT manufacturing|VBG index|NN is|VBZ more|RBR exposed|VBN to|TO the|DT global|JJ economic|JJ slowdown|NN and|CC thats|NNS no|DT shock|NN after|IN the|DT weak|JJ pmis|NNS out|IN of|IN china|NN and|CC europe|NN </s>|S_END
+<s>|S_START this|DT is|VBZ just|RB confirming|VBG what|WP we|PRP know|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT respondents|NNS to|TO isms|NNS survey|NN shared|VBD their|PRP$ jitters|NNS about|IN the|DT economy|NN going|VBG forward|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START taking|VBG a|DT conservative|JJ approach|NN to|TO spending|NN including|VBG hiring|NN travel|NN and|CC inventory|NN </s>|S_END
+<s>|S_START us|PRP economy|VBP seems|VBZ stuck|NN at|IN best|JJS with|IN little|JJ to|TO no|DT growth|NN said|VBD one|CD apparel|NN and|CC leather|NN manufacturer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START investors|NNS reacted|VBD to|TO the|DT new|JJ us|PRP manufacturing|VBG numbers|NNS and|CC all|DT three|CD indexes|NNS edged|VBD lower|JJR in|IN the|DT minutes|NNS after|IN the|DT reports|NNS release |-NONE- </s>|S_END
+</p>|P_END
+

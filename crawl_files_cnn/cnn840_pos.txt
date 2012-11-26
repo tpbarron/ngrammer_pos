@@ -1,0 +1,64 @@
+<p>|P_START
+<s>|S_START president|NN obama|VBD called|VBN on|IN congress|NN to|TO extend|VB the|DT bush|NN tax|NN cuts|NNS for|IN one|CD year|NN for|IN everyone|NN except|IN highincome|NN housesholds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN president|NN obama|NN and|CC republicans|NNS battled|VBD monday|NN over|IN a|DT familiar|JJ dividing|NN line|NN the|DT bush|NN tax|NN cuts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN they|PRP disagree|VBP over|IN taxing|VBG the|DT rich|JJ both|DT support|NN extending|VBG the|DT bush|NN tax|NN cuts|NNS for|IN the|DT middle|NN class|NN for|IN one|CD year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START still|RB middle|VBP class|NN americans|NNS may|MD end|VB up|RP paying|VBG more|JJR in|IN taxes|NNS next|IN year|NN anyway|RB </s>|S_END
+<s>|S_START thats|NNS because|IN neither|DT side|NN is|VBZ pushing|VBG to|TO extend|VB the|DT payroll|NN tax|NN cut|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT payroll|NN tax|NN cut|VBD is|VBZ worth|JJ 2|CD of|IN ones|NNS wages|NNS up|IN to|TO $|$ 110100|CD for|IN 160|CD million|CD working|VBG americans|NNS </s>|S_END
+<s>|S_START it|PRP was|VBD originally|RB intended|VBN as|IN a|DT temporary|JJ measure|NN for|IN 2011|CD but|CC was|VBD then|RB extended|VBN for|IN this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN a|DT result|NN a|DT person|NN making|VBG $|$ 50000|CD has|VBZ enjoyed|VBN roughly|RB $|$ 83|CD extra|JJ a|DT month|NN while|IN someone|NN making|VBG $|$ 110100|CD has|VBZ been|VBN taking|VBG home|NN an|DT extra|JJ $|$ 18350|CD a|DT month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN an|DT annual|JJ basis|NN if|IN the|DT payroll|NN tax|NN cut|VBD is|VBZ allowed|VBN to|TO expire|VB those|DT making|VBG $|$ 50000|CD will|MD pay|VB another|DT $|$ 1000|CD in|IN payroll|NN taxes|NNS while|IN those|DT making|VBG $|$ 110100|CD and|CC up|IN will|MD pay|VB another|DT $|$ 2202|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START revenue|NN from|IN the|DT payroll|NN tax|NN is|VBZ intended|VBN for|IN social|JJ security|NN which|WDT is|VBZ a|DT payasyougo|NN system|NN </s>|S_END
+<s>|S_START and|CC at|IN this|DT point|NN the|DT system|NN uses|VBZ every|DT dollar|NN of|IN payroll|NN tax|NN revenue|NN it|PRP gets|VBZ to|TO pay|VB benefits|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT estimated|VBN total|JJ cost|NN of|IN the|DT payroll|NN tax|NN cut|VBD is|VBZ roughly|RB $|$ 120|CD billion|CD a|DT year|NN </s>|S_END
+<s>|S_START social|JJ security|NN is|VBZ not|RB absorbing|VBG that|IN loss|NN however|RB because|IN the|DT treasury|NN department|NN has|VBZ been|VBN replacing|VBG the|DT lost|JJS payroll|NN tax|NN revenue|NN with|IN money|NN from|IN general|JJ funds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN reality|NN its|PRP$ doing|NN so|IN by|IN borrowing|NN money|NN thereby|NN adding|VBG to|TO the|DT countrys|NNS debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN unless|IN congress|NN decides|VBZ on|IN a|DT new|JJ way|NN to|TO fund|VB social|JJ security|NN the|DT payroll|NN tax|NN cut|VBD can|MD not|RB go|VB on|IN forever|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START indeed|RB treasury|VBP secretary|JJ tim|NN geithner|NN said|VBD as|IN much|JJ before|IN the|DT senate|NN budget|NN committee|NN earlier|RBR this|DT year|NN </s>|S_END
+<s>|S_START this|DT has|VBZ to|TO be|VB a|DT temporary|JJ tax|NN cut|VBD </s>|S_END
+<s>|S_START i|PRP dont|VBP see|VB any|DT reason|NN to|TO consider|VB supporting|NN its|PRP$ extension|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN course|NN that|IN doesnt|NN mean|NN some|DT in|IN congress|NN wont|NN push|NN for|IN one|CD especially|RB during|IN an|DT election|NN year|NN in|IN which|WDT the|DT economy|NN is|VBZ weaker|NN than|IN expected|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN now|RB supporters|NNS of|IN the|DT cuts|NNS are|VBP keeping|VBG quiet|JJ said|VBD sean|JJ west|NN us|PRP director|NN of|IN the|DT eurasia|NN group|NN </s>|S_END
+<s>|S_START they|PRP may|MD well|RB wait|VB until|IN after|IN the|DT election|NN to|TO push|VB for|IN it|PRP specifically|RB </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,308 @@
+<p>|P_START
+<s>|S_START january|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pain|NN assumes|VBZ the|DT rotating|NN presidency|NN of|IN the|DT european|JJ union|NN and|CC pécs|NNS in|IN hungary|JJ essen|NN germany|NN and|CC istanbul|JJ turkey|NN become|NN european|JJ capitals|NNS of|IN culture|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT great|JJ and|CC good|JJ from|IN business|NN politics|NNS and|CC the|DT media|NNS puzzle|VBP out|RP the|DT state|NN of|IN the|DT world|NN at|IN the|DT world|NN economic|JJ forum|NN in|IN davos|NNS switzerland|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START president|NN barack|VBD obama|NN delivers|NNS his|PRP$ first|JJ stateoftheunion|NN address|NN telling|VBG americans|NNS how|WRB it|PRP i|PRP </s>|S_END
+<s>|S_START mr|NN obamas|VBD selfimposed|VBN deadline|NN arrives|NNS for|IN the|DT closure|NN of|IN the|DT guantánamo|NNP bay|NN detention|NN centre|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START february|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START chinese|NN around|IN the|DT world|NN welcome|NN the|DT year|NN of|IN the|DT tiger|NN symbolising|VBG power|NN and|CC sensitivity|NN but|CC also|RB short|JJ tempers|NNS just|RB as|IN the|DT worlds|NNS lovers|NNS actual|JJ or|CC wouldbe|VB celebrate|JJ st|NN valentines|NNS day|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN legal|JJ battles|NNS controversy|NN surrounds|NNS the|DT 33rd|JJ americas|NNS cup|VBP a|DT yachting|NN contest|NN for|IN fractious|JJ billionaire|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rio|NN de|IN janeiros|NNS hedonists|NNS revel|VBP in|IN the|DT worlds|NNS most|JJS famous|JJ carnival|NN </s>|S_END
+<s>|S_START trinidad|NN and|CC new|JJ orleans|NNS do|VBP their|PRP$ best|JJS to|TO compete|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START american|NN giants|NNS confront|VBP each|DT other|JJ in|IN miami|NN in|IN footballs|NNS 44th|CD super|NN bowl|NN </s>|S_END
+<s>|S_START lesser|NN mortals|NNS by|IN their|PRP$ millions|NNS watch|VBP the|DT game|NN and|CC ads|NNS on|IN tv|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START costa|NN rica|NN holds|NNS its|PRP$ presidential|JJ election|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nowloving|VBG athletes|NNS compete|JJ in|IN the|DT winter|NN olympics|NNS in|IN vancouver|NN canada|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START march|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START musicians|NNS delight|VBD in|IN the|DT music|NN of|IN chopin|NN born|NN 200|CD years|NNS ago|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hollywood|NN rolls|NNS out|IN the|DT red|NN carpet|NN for|IN the|DT 82nd|CD academy|NN award|NN </s>|S_END
+<s>|S_START oscars|NNS for|IN the|DT film|NN worlds|NNS best|JJS come|NN after|IN golden|JJ raspberries|NNS for|IN the|DT film|NN worlds|NNS worst|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START frenchspeakers|NNS around|IN the|DT world|NN wax|NN eloquent|NN on|IN the|DT international|JJ day|NN of|IN la|NN francophonie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START canada|NN upsets|NNS seallovers|NNS as|IN it|PRP begins|VBZ its|PRP$ annual|JJ seal|NN hunt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START outhernhemisphere|RB naturists|VBZ from|IN australia|NN to|TO south|VB africa|NN celebrate|NN their|PRP$ nudity|NN with|IN a|DT naked|VBN bike|NN ride|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START april|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START april|NN fools|NNS make|VBP fun|VBN around|IN the|DT world|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START american|NN households|NNS answer|VB supposedly|RB the|DT onceinadecade|NN census|VBZ questionnaire|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tiger|NN woods|NNS attempts|VBZ to|TO win|VB the|DT us|PRP masters|VBZ golf|PRP tournament|NN in|IN augusta|NN for|IN a|DT fifth|JJ time|NN just|RB one|CD behind|NN jack|NN nicklauss|NN record|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START austria|NN holds|NNS its|PRP$ sixyearly|JJ presidential|JJ election|NN and|CC hungary|JJ elects|NNS a|DT parliament|NN </s>|S_END
+<s>|S_START with|IN luck|NN the|DT sudanese|NN vote|NN in|IN presidential|JJ and|CC general|JJ elections—the|NN first|RB for|IN many|JJ years|NNS in|IN their|PRP$ wartorn|NN nation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START coffeemakers|NNS from|IN around|IN the|DT world|NN gather|NN in|IN london|NN for|IN the|DT world|NN barista|NN championship|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START may|MD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT 189|CD signatories|NNS of|IN the|DT nuclear|JJ nonproliferation|NN treaty|NN meet|NN in|IN new|JJ york|NN to|TO review|VB it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pare|NN a|DT grin|NN for|IN world|NN laughter|NN day|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT philippines|NNS elects|VBZ a|DT new|JJ president|NN and|CC congre|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START britain|NN holds|NNS its|PRP$ general|JJ election|NN this|DT month|NN if|IN not|RB next|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT sixmonth|NN world|NN expo|NN 2010|CD begins|NNS in|IN shanghai|NN china|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START norway|NN hosts|NNS the|DT kitschfilled|JJ eurovision|NN song|IN contest|JJS france|NN hosts|NNS the|DT starstudded|VBN cannes|NNS film|NN festival|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START macedonia|NN assumes|VBZ the|DT leadership|NN of|IN the|DT council|NN of|IN europe|NN promoting|VBG democracy|NN and|CC human|NN right|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START june|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START france|NN celebrates|NNS the|DT summer|NN solstice|NN with|IN the|DT fête|JJ de|NN la|NN musique|NN free|JJ music|NN played|VBN outdoors|NNS from|IN paris|NNS to|TO the|DT smallest|JJS village|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START canada|NN hosts|NNS a|DT summit|NN of|IN both|DT the|DT g8|NNP and|CC g20|NNP in|IN huntsville|NN ontario|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START occers|NNS best|VBP nations|NNS convene|NN in|IN south|NN africa|NN for|IN the|DT monthlong|JJ fifa|NN world|NN cup|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT tennis|NN elite|NN moves|NNS from|IN the|DT red|NN clay|NN of|IN the|DT french|JJ open|JJ to|TO the|DT green|JJ grass|NN of|IN wimbledon|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START july|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START belgium|NN takes|VBZ a|DT sixmonth|NN turn|NN as|IN president|NN of|IN the|DT european|JJ union|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cyclings|NNS tour|PRP$ de|NN france|NN three|CD weeks|NNS of|IN athletic|JJ agony|NN begins|VBZ confusingly|RB in|IN the|DT netherland|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT san|NN fermín|NN festival|NN macho|NN types—both|JJ spanish|NN and|CC foreign—taunt|JJ stampeding|NN bulls|NNS in|IN the|DT pamplona|NN bull|NN run|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START america|NN celebrates|NNS independence|NN on|IN the|DT 4th|JJ and|CC france|NN celebrates|NNS revolution|NN on|IN the|DT 14th|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START trong|IN men|NNS compete|VBP in|IN finlands|NNS wifecarrying|VBG world|NN championship|NN </s>|S_END
+<s>|S_START the|DT winner|NN gets|VBZ his|PRP$ wifes|NNS weight|VBD in|IN beer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fashion|NN world|NN crowds|NNS the|DT catwalk|NN for|IN the|DT paris|NNS haute|VBP couture|NN week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START august|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT deadline|NN arrives|VBZ for|IN american|JJ combat|NN troops|NNS to|TO leave|VB iraq|NN </s>|S_END
+<s>|S_START others|NNS will|MD stay|VB to|TO train|VB iraqi|NN soldiers|NNS and|CC police|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START much|RB of|IN europe|NN takes|VBZ a|DT monthlong|JJ holiday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START freeflying|VBG aesthetes|NNS in|IN the|DT skies|NNS of|IN russia|NN conclude|NN the|DT world|NN artistic|JJ skydiving|NN championship|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thousands|NNS gather|VBP in|IN londons|NNS notting|VBG hill|NN district|NN for|IN europes|NNS biggest|JJS street|NN carnival|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START postgenocide|NN rwanda|NN holds|NNS its|PRP$ second|JJ presidential|JJ election|NN with|IN the|DT winner|NN in|IN office|NN for|IN seven|CD year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eptember|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bookworms|NNS salute|VBP international|JJ literacy|NN day|NN designed|VBN to|TO increase|VB their|PRP$ number|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START intrepid|VBD rallydrivers|NNS meet|VBP in|IN beijing|NN for|IN the|DT start|NN of|IN the|DT peking|NN to|TO paris|NNS motor|NN challenge|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT worlds|NNS diplomats|NNS gather|VBP in|IN new|JJ york|NN for|IN the|DT un|NN general|NN assembly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START october|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START beerlovers|NNS end|VBP the|DT munich|NN oktoberfest|NN having|VBG downed|VBN enough|JJ gallons|NNS to|TO keep|VB it|PRP as|IN the|DT worlds|NNS biggest|JJS beer|NN festival|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START americas|NNS best|VBP travel|NN to|TO wales|NNS to|TO compete|VB with|IN europes|NNS best|JJS for|IN golfs|NNS ryder|JJR cup|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hawaii|NN challenges|NNS the|DT fittest|JJS to|TO survive|VB its|PRP$ ironman|NN triathlon|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START germany|NN celebrates|NNS 20|CD years|NNS since|IN unification|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT nobel|NN peace|NN laureate|NN is|VBZ proclaimed|VBN in|IN oslo|NN other|JJ laureates|NNS are|VBP announced|VBN in|IN stockholm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START egyptians|NNS elect|VBP a|DT 518member|JJ peoples|NNS assembly|RB with|IN 64|CD seats|NNS now|RB reserved|VBN for|IN women|NNS and|CC brazil|NN holds|NNS presidential|JJ and|CC general|JJ election|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START athletes|NNS from|IN 71|CD nations|NNS compete|JJ in|IN the|DT commonwealth|NN games|VBZ in|IN delhi|NN india|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START november|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START americans|NNS elect|VBP a|DT new|JJ 435member|JJ house|NN of|IN representatives|NNS and|CC a|DT third|JJ of|IN the|DT 100seat|JJ senate|NN </s>|S_END
+<s>|S_START ome|NN 39|CD states|NNS choose|VBP a|DT governor|NN too|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START guangzhou|PRP in|IN china|NN hosts|NNS the|DT asian|JJ game|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eoul|NN south|NN korea|NN hosts|NNS a|DT g20|NNP summit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START burkina|NN faso|RB elects|VBZ a|DT president|NN and|CC azerbaijan|NN a|DT parliament|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START japan|NN hosts|NNS heads|NNS of|IN government|NN at|IN an|DT asiapacific|JJ economic|JJ cooperation|NN summit|NN in|IN yokohama|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START beautiful|JJ women|NNS and|CC their|PRP$ male|JJ admirers|NNS travel|NN to|TO nha|VB trang|JJ vietnam|NN for|IN the|DT 60th|JJ miss|NN world|NN contest|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START december|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tanzania|NN holds|NNS presidential|JJ parliamentary|NN and|CC local|JJ election|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN announces|NNS the|DT mostsearched|JJ items|NNS of|IN the|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT kluge|NN prize|NN worth|NN $|$ 1m|CD is|VBZ awarded|VBN in|IN washington|NN for|IN lifetime|NN achievement|NN in|IN disciplines|NNS such|JJ as|IN linguistics|NNS and|CC anthropology|NN not|RB covered|VBN by|IN the|DT nobel|NN prize|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START america|NN celebrates|NNS the|DT 390th|JJ anniversary|NN of|IN the|DT landing|NN of|IN the|DT pilgrim|JJ father|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT illustrations|NNS on|IN this|DT page|NN by|IN kevin|NN kallaugher|NN are|VBP from|IN the|DT economist|NN 2010|CD wall|NN calendar|NN which|WDT is|VBZ available|JJ at|IN wwweconomistcom2010calendar|NNP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN the|DT help|NN of|IN contributions|NNS from|IN wwwforesightnewscouk|NN </s>|S_END
+</p>|P_END
+

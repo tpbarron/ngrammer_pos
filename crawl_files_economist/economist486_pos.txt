@@ -1,0 +1,60 @@
+<p>|P_START
+<s>|S_START in|IN horatio|NN alger’s|NNS famous|JJ story|NN “ragged|JJ dick”|NN a|DT plucky|JJ boot|NN shiner|NN improves|VBZ his|PRP$ lot|NN through|IN hard|JJ work|NN honesty|NN and|CC learning|VBG his|PRP$ “three|JJ rs”|NN reading|NN ’riting|NN and|CC ’rithmetic|JJ </s>|S_END
+<s>|S_START the|DT marks|NNS of|IN his|PRP$ success|NN are|VBP a|DT suit|NN an|DT office|NN job|NN and|CC a|DT new|JJ name|NN “richard|JJ hunter|NN esq”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT days|NNS economists|NNS use|VBP more|JJR sophisticated|JJ gauge|NN </s>|S_END
+<s>|S_START they|PRP measure|VBP mobility|NN over|IN a|DT lifetime|NN rags|NNS to|TO riches|NNS or|CC the|DT reverse|NN between|IN generations|NNS how|WRB children|NNS do|VBP relative|JJ to|TO their|PRP$ parents|NNS in|IN absolute|JJ terms|NNS whether|IN children|NNS are|VBP richer|RB or|CC poorer|JJR than|IN their|PRP$ parents|NNS or|CC in|IN relative|JJ ones|NNS whether|IN children|NNS are|VBP higher|JJR or|CC lower|JJR on|IN the|DT income|NN ladder|NN than|IN their|PRP$ parent|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB countries|NNS are|VBP growing|VBG fast|RB there|RB is|VBZ a|DT lot|NN of|IN absolute|NN upward|NN economic|JJ mobility|NN </s>|S_END
+<s>|S_START in|IN most|JJS emerging|VBG economies|NNS children|NNS almost|RB invariably|RB earn|VB more|JJR than|IN their|PRP$ parent|NN </s>|S_END
+<s>|S_START even|RB in|IN america|NN despite|IN slow|JJ growth|NN and|CC widening|VBG income|NN gaps|NNS most|JJS people|NNS do|VBP better|RBR than|IN the|DT generation|NN above|IN them|PRP a|DT recent|JJ study|NN by|IN the|DT pew|NN charitable|JJ trusts|NNS found|VBD that|IN 84|CD of|IN adult|NN americans|NNS had|VBD higher|JJR real|JJ incomes|NNS than|IN their|PRP$ parent|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT more|RBR important|JJ gauge|NN of|IN a|DT meritocracy|NN however|RB is|VBZ relative|JJ mobility|NN particularly|RB between|IN generation|NN </s>|S_END
+<s>|S_START in|IN a|DT society|NN with|IN broad|JJ equality|NN of|IN opportunity|NN the|DT parents’|NN position|NN on|IN the|DT income|NN ladder|NN should|MD have|VB little|JJ impact|NN on|IN that|DT of|IN their|PRP$ children|NNS </s>|S_END
+<s>|S_START economic|JJ historians|NNS use|VBP clever|RB techniques|NNS to|TO measure|VB thi|NN </s>|S_END
+<s>|S_START gregory|NN clark|VBD at|IN the|DT university|NN of|IN california|NN davis|NNS and|CC neil|NN cummins|NNS of|IN city|NN university|NN of|IN new|JJ york|NN for|IN instance|NN have|VBP tracked|VBN families|NNS with|IN rare|JJ surname|NN </s>|S_END
+<s>|S_START looking|VBG at|IN english|JJ census|NNS records|NNS since|IN 1800|CD they|PRP picked|VBD out|RP names|NNS such|JJ as|IN bazalgette|NN and|CC leschallas|NNS and|CC compared|VBN them|PRP with|IN records|NNS of|IN students|NNS at|IN elite|JJ institutions|NNS such|JJ as|IN oxford|NN and|CC cambridge|NN universitie|NN </s>|S_END
+<s>|S_START their|PRP$ results|NNS show|VBP that|IN even|RB over|IN 200|CD years|NNS social|JJ mobility|NN has|VBZ been|VBN rather|RB limited|VBN </s>|S_END
+<s>|S_START the|DT wealth|NN and|CC social|JJ status|NN of|IN people|NNS with|IN rare|JJ surnames|NNS in|IN 1800|CD is|VBZ strongly|RB correlated|VBN with|IN that|DT of|IN their|PRP$ descendants|NNS today|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START individual|JJ families’|NN fortunes|NNS over|IN time|NN can|MD now|RB be|VB tracked|VBN by|IN statistical|JJ survey|NN </s>|S_END
+<s>|S_START this|DT allows|VBZ economists|NNS to|TO measure|VB how|WRB much|RB parents’|JJ position|NN has|VBZ influenced|VBN their|PRP$ adult|NN children’s|NNS relative|JJ income|NN or|CC education|NN </s>|S_END
+<s>|S_START the|DT resulting|VBG coefficient|NN the|DT inelegantly|RB named|VBD “intergenerational|JJ elasticity|NN of|IN income”|NNP is|VBZ today’s|NNP main|NN measure|NN of|IN social|JJ mobility|NN </s>|S_END
+<s>|S_START the|DT higher|JJR the|DT coefficient|NN the|DT less|RBR mobility|NN there|RB has|VBZ been|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT technique|NN shows|VBZ scandinavian|JJ societies|NNS to|TO be|VB very|RB mobile|JJ </s>|S_END
+<s>|S_START only|RB around|IN 20|CD of|IN parents’|JJ relative|JJ wealth|NN or|CC poverty|NN is|VBZ passed|VBN on|IN to|TO their|PRP$ kid|NN </s>|S_END
+<s>|S_START china|NN in|IN contrast|NN is|VBZ fairly|RB immobile|JJ 60|CD of|IN income|NN differences|NNS persist|VBP between|IN generation|NN </s>|S_END
+<s>|S_START the|DT big|JJ surprise|NN is|VBZ the|DT united|VBN states|NNS where|WRB parental|JJ income|NN explains|VBZ around|IN half|DT of|IN the|DT differences|NNS in|IN adult|NN children’s|NNS income|NN much|RB more|RBR than|IN in|IN canada|NN and|CC more|JJR than|IN in|IN any|DT european|JJ country|NN except|IN italy|RB and|CC britain|VB </s>|S_END
+<s>|S_START according|VBG to|TO this|DT measure|NN social|NN mobility|NN in|IN america|NN now|RB is|VBZ lower|JJR than|IN in|IN most|JJS of|IN europe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT way|NN to|TO measure|VB economic|JJ opportunity|NN is|VBZ to|TO tease|VB out|RP what|WP share|NN of|IN inequality|NN can|MD be|VB explained|VBN by|IN factors|NNS over|IN which|WDT people|NNS have|VBP no|DT control|NN race|NN gender|NN birthplace|NN parents’|NN education|NN and|CC occupation|NN </s>|S_END
+<s>|S_START the|DT smaller|JJR that|IN fraction|NN the|DT greater|JJR a|DT country’s|JJ equality|NN of|IN opportunity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uch|JJ an|DT “inequality|NN of|IN opportunity|NN index”|NN was|VBD pioneered|VBN by|IN francisco|NN ferreira|NN of|IN the|DT world|NN bank|NN and|CC now|RB exists|VBZ for|IN 40|CD countrie|NN </s>|S_END
+<s>|S_START at|IN one|CD extreme|NN lies|NNS norway|VBP where|WRB only|RB 2|CD of|IN the—already|JJ low—inequality|NN can|MD be|VB explained|VBN by|IN accidents|NNS of|IN birth|JJ </s>|S_END
+<s>|S_START at|IN the|DT other|JJ extreme|NN in|IN brazil|NN a|DT third|JJ of|IN the|DT high|JJ income|NN inequality|NN is|VBZ due|JJ to|TO people’s|NNP background|NN </s>|S_END
+<s>|S_START america|NN is|VBZ closer|JJR to|TO brazil|VB than|IN to|TO norway|VB see|NN chart|NN 1|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economists|NNS also|RB gauge|VB equality|NN of|IN opportunity|NN by|IN measuring|NN disparities|NNS in|IN children’s|JJ access|NN to|TO basic|JJ services|NNS that|WDT will|MD influence|VB their|PRP$ prospects|NNS such|JJ as|IN education|NN or|CC running|VBG water|NN </s>|S_END
+<s>|S_START the|DT world|NN bank|NN is|VBZ developing|VBG indices|NNS which|WDT adjust|RB overall|JJ access|NN to|TO such|JJ services|NNS by|IN a|DT measure|NN of|IN the|DT inequality|NN in|IN that|DT acce|NN </s>|S_END
+<s>|S_START outh|NN africa|NN for|IN instance|NN has|VBZ the|DT same|JJ overall|NN rate|NN of|IN access|NN to|TO sanitation|NN as|IN nicaragua|NN </s>|S_END
+<s>|S_START but|CC once|RB you|PRP adjust|MD for|IN race|NN disparities|NNS its|PRP$ “human|JJ opportunity|NN index”|NN for|IN sanitation|NN is|VBZ much|JJ lower|JJR </s>|S_END
+</p>|P_END
+

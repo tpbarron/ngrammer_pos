@@ -1,0 +1,48 @@
+<p>|P_START
+<s>|S_START for|IN decades|NNS navies|NNS have|VBP employed|VBN human|JJ divers|NNS dolphins|VBZ and|CC sea|NN lions|NNS to|TO search|VB for|IN explosives|NNS attached|VBN to|TO the|DT hulls|NNS of|IN warships|NNS by|IN a|DT scubadiving|NN enemy|NN </s>|S_END
+<s>|S_START although|IN these|DT minefinding|NN tactics|NNS work|VBP they|PRP are|VBP less|RBR than|IN ideal|NN </s>|S_END
+<s>|S_START divers|NNS can|MD be|VB killed|VBN or|CC injured|VBN and|CC marine|NN mammals|NNS are|VBP extremely|RB costly|RB to|TO maintain|VB on|IN a|DT boat|JJ </s>|S_END
+<s>|S_START mines|NNS are|VBP also|RB getting|VBG smaller|JJR and|CC harder|JJR to|TO detect|VB </s>|S_END
+<s>|S_START the|DT idea|NN of|IN using|VBG aquatic|JJ robots|NNS to|TO search|VB for|IN the|DT mines|NNS instead|RB is|VBZ alluring|VBG but|CC it|PRP is|VBZ difficult|JJ to|TO teach|VB machines|NNS how|WRB to|TO navigate|VB around|IN hulls|NNS without|IN crashing|VBG into|IN them|PRP or|CC getting|VBG lost|NN </s>|S_END
+<s>|S_START franz|NN hover|NN and|CC brendan|NN englot|NN at|IN the|DT massachusetts|NNS institute|VBP of|IN technology|NN mit|NN have|VBP come|VBN up|RP with|IN a|DT way|NN to|TO improve|VB things|NNS by|IN using|VBG a|DT twostep|NN proce|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START programming|NN robots|NNS to|TO scan|VB hulls|NNS would|MD be|VB relatively|RB easy|JJ if|IN limpet|NN mines|NNS were|VBD still|RB as|IN large|JJ as|IN watermelon|NN </s>|S_END
+<s>|S_START the|DT robot|NN would|MD simply|RB be|VB told|VBN to|TO maintain|VB a|DT safe|NN working|VBG distance|NN and|CC swim|NN back|RB and|CC forth|JJ using|NN its|PRP$ sonar|NN scanners|NNS to|TO generate|VB an|DT image|NN of|IN the|DT hull’s|JJ topography|NN </s>|S_END
+<s>|S_START if|IN the|DT resulting|VBG image|NN perfectly|RB matched|VBN that|IN of|IN a|DT clean|JJ hull|NN stored|VBD in|IN the|DT robot’s|JJ memory|NN it|PRP could|MD be|VB safely|RB assumed|VBN that|IN there|EX were|VBD no|DT mines|NNS attached|VBN </s>|S_END
+<s>|S_START if|IN not|RB it|PRP could|MD raise|VB an|DT alarm|NN </s>|S_END
+<s>|S_START yet|RB nowadays|VBZ mines|NNS can|MD be|VB as|RB tiny|JJ as|IN a|DT mobile|JJ phone|NN </s>|S_END
+<s>|S_START uch|JJ a|DT mine|JJ might|NN not|RB blast|JJ a|DT hole|NN in|IN the|DT hull|NN but|CC if|IN carefully|RB placed|VBN it|PRP could|MD disable|VB a|DT ship’s|JJ propeller|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT problem|NN then|RB is|VBZ one|CD of|IN definition|NN </s>|S_END
+<s>|S_START onar|NN scans|NNS done|NN at|IN a|DT safe|NN distance|NN of|IN 10|CD metres|NNS create|VBP a|DT rough|JJ image|NN known|VBN as|IN a|DT datapoint|NN cloud|NN </s>|S_END
+<s>|S_START but|CC this|DT lacks|NNS the|DT detail|NN necessary|JJ to|TO spot|NN small|JJ explosive|JJ charge|NN </s>|S_END
+<s>|S_START the|DT addition|NN of|IN video|NN cameras|NNS may|MD not|RB do|VB much|RB to|TO help|VB because|IN harbour|PRP$ waters|NNS are|VBP often|RB murky|JJ </s>|S_END
+<s>|S_START to|TO work|VB around|IN these|DT problems|NNS dr|VBP hover|RB came|VBD up|RP with|IN the|DT idea|NN of|IN using|VBG the|DT datapoint|NN cloud|NN not|RB to|TO spot|VB mines|NNS but|CC as|IN a|DT guide|NN to|TO help|VB the|DT robot|NN take|NN a|DT closer|NN look|NN at|IN the|DT hull|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN this|DT in|IN mind|NN dr|NN hover|NN and|CC mr|NN englot|NN along|IN with|IN a|DT team|NN of|IN colleagues|NNS used|VBN a|DT robot|NN known|VBN as|IN the|DT hovering|NN autonomous|VBZ underwater|NN vehicle|NN hauv|NN which|WDT was|VBD developed|VBN at|IN mit|NN and|CC has|VBZ since|IN been|VBN commercialised|VBN by|IN a|DT company|NN called|VBN bluefin|NN robotic|JJ </s>|S_END
+<s>|S_START the|DT robot|NN was|VBD programmed|VBN to|TO create|VB a|DT datapoint|NN cloud|NN using|VBG a|DT traditional|JJ sonar|NN scan|NN </s>|S_END
+<s>|S_START this|DT grainy|NN image|NN was|VBD then|RB processed|VBN by|IN an|DT algorithm|NN designed|VBN to|TO connect|VB the|DT data|NNS points|NNS and|CC create|VB a|DT threedimensional|JJ grid|NN map|NN that|WDT the|DT hauv|NN could|MD use|VB as|IN a|DT guide|NN for|IN moving|VBG in|IN closer|JJR to|TO perform|VB a|DT second|JJ scan|NN at|IN a|DT distance|NN of|IN one|CD metre|NN </s>|S_END
+<s>|S_START in|IN the|DT image|NN above|IN the|DT robot|NN is|VBZ shown|VBN in|IN yellow|JJ and|CC the|DT range|NN of|IN its|PRP$ sonar|NN scanner|NN in|IN red|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START early|RB results|NNS are|VBP promising|VBG </s>|S_END
+<s>|S_START letting|VBG the|DT newly|RB programmed|VBN hauv|NN loose|NN on|IN the|DT curtiss|NN a|DT 183metre|JJ militarysupport|NN ship|NN in|IN san|NN diego|NN and|CC the|DT seneca|NN an|DT 82metre|JJ cutter|NN in|IN boston|NN showed|VBD that|IN a|DT robot|NN can|MD do|VB the|DT job|NN </s>|S_END
+<s>|S_START first|JJ a|DT scan|NN at|IN a|DT range|NN of|IN 8|CD metres|NNS generated|VBN a|DT 3d|JJ model|NN </s>|S_END
+<s>|S_START this|DT was|VBD then|RB used|VBN as|IN a|DT guide|NN for|IN a|DT closeup|NN inspection|NN of|IN the|DT tight|JJ and|CC tuckedaway|NN spaces|NNS between|IN the|DT propeller|NN shafting|VBG rudder|NN and|CC hull|JJ </s>|S_END
+<s>|S_START “if|JJ there|EX is|VBZ a|DT need|NN to|TO see|VB everything|NN on|IN the|DT hull|NN in|IN great|JJ detail|NN the|DT robots|NNS win|VBP big”|JJ says|NNS dr|VBP hover|RB </s>|S_END
+<s>|S_START bluefin|NN has|VBZ a|DT $|$ 30m|CD contract|NN from|IN the|DT us|PRP navy|VBP to|TO develop|VB the|DT hauv|NN with|IN mit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START robots|NNS are|VBP not|RB about|IN to|TO take|VB over|RP all|DT hull|NN examinations|NNS however|RB </s>|S_END
+<s>|S_START the|DT hauv|NN was|VBD less|JJR successful|JJ at|IN carrying|NN out|IN its|PRP$ task|NN when|WRB working|VBG in|IN strong|JJ or|CC complex|JJ currents|NNS of|IN the|DT sort|NN that|IN trained|VBN marine|NN mammals|NNS would|MD simply|RB ignore|VB </s>|S_END
+<s>|S_START o|NN in|IN some|DT conditions|NNS the|DT dolphins|NNS and|CC sea|NN lions|NNS will|MD continue|VB to|TO have|VB a|DT clear|JJ advantage—for|JJ the|DT time|NN being|VBG at|IN least|JJS </s>|S_END
+</p>|P_END
+

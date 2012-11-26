@@ -1,0 +1,12 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 13|CD gdp|NN $|$ 15604bn|CD ppp|CD $|$ 15604bn|CD inflation|NN 21|CD population|NN 3163m|CD gdp|NN per|IN head|NN $|$ 49340|CD ppp|CD $|$ 49340|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START campaigning|VBG for|IN presidential|JJ and|CC congressional|JJ elections|NNS in|IN november|NN will|MD dominate|VB every|DT waking|NN hour|NN of|IN the|DT political|JJ calendar|NN </s>|S_END
+<s>|S_START barack|NN obama|NN will|MD be|VB running|VBG for|IN a|DT second|JJ term|NN amid|IN the|DT highest|JJS unemployment|NN rate|NN in|IN 30|CD years|NNS placing|VBG him|PRP in|IN a|DT hugely|RB vulnerable|JJ position|NN </s>|S_END
+<s>|S_START but|CC his|PRP$ electoral|JJ chances|NNS will|MD depend|VB as|IN much|JJ on|IN the|DT nature|NN of|IN his|PRP$ republican|JJ opponent|NN as|IN on|IN his|PRP$ own|JJ record|NN if|IN the|DT republicans|NNS nominate|VBP a|DT candidate|NN on|IN the|DT teaparty|NN fringe|NN they|PRP will|MD lose|VB </s>|S_END
+<s>|S_START if|IN they|PRP select|VBP someone|NN more|RBR moderate|JJ mr|NN obama|NN is|VBZ in|IN trouble|NN </s>|S_END
+<s>|S_START the|DT economy|NN will|MD also|RB be|VB in|IN trouble|NN though|IN it|PRP should—just—avoid|JJ another|DT recession |NN </s>|S_END
+</p>|P_END
+

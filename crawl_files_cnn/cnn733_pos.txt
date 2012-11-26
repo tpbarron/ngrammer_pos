@@ -1,0 +1,72 @@
+<p>|P_START
+<s>|S_START automobile|NN magazine|NN cited|VBD the|DT model|NN ss|NN powerful|JJ performance|NN as|IN well|RB as|IN its|PRP$ intriguing|NN host|NN of|IN technologies|NNS in|IN awarding|VBG the|DT model|NN car|NN of|IN the|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN automobile|NN magazine|NN has|VBZ named|VBN the|DT tesla|NN model|NN s|NNS its|PRP$ car|NN of|IN the|DT year|NN citing|VBG the|DT cars|NNS design|NN and|CC impressive|JJ speed|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ the|DT performance|NN that|IN won|NN us|PRP over|IN automobile|JJ editorinchief|NN jean|NN jennings|NNS said|VBD in|IN the|DT magazines|NNS january|JJ 2013|CD issue|NN </s>|S_END
+<s>|S_START the|DT crazy|NN speed|NN builds|NNS silently|RB and|CC then|RB pulls|NNS back|RB the|DT edges|NNS of|IN your|PRP$ face|NN </s>|S_END
+<s>|S_START it|PRP had|VBD all|PDT of|IN us|PRP endangering|VBG our|PRP$ licenses|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT model|NN s|VBZ is|VBZ an|DT allelectric|JJ luxury|NN sedan|NN that|WDT can|MD accelerate|VB from|IN zero|CD to|TO 60|CD miles|NNS per|IN hour|PRP$ in|IN just|RB 43|CD seconds|NNS </s>|S_END
+<s>|S_START thats|NNS fast|VBP for|IN any|DT car|NN but|CC especially|RB one|CD with|IN the|DT size|NN and|CC roominess|NN of|IN the|DT model|NN s|VBZ in|IN a|DT test|NN arranged|VBD by|IN the|DT magazine|NN the|DT model|NN s|VBZ even|RB beat|VB a|DT 560|CD horsepower|NN bmw|NN m5|NNP sedan|NN in|IN a|DT race|NN to|TO which|WDT could|MD hit|VB 100|CD miles|NNS an|DT hour|NN first|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START besides|IN being|VBG electric|JJ the|DT model|NN s|VBZ doesnt|NN have|VBP a|DT key|JJ or|CC a|DT start|NN button|NN just|RB sitting|VBG in|IN the|DT car|NN with|IN the|DT key|JJ in|IN your|PRP$ pocket|NN turns|VBZ it|PRP on|IN </s>|S_END
+<s>|S_START put|VB your|PRP$ foot|NN on|IN the|DT brake|NN shift|NN into|IN drive|JJ and|CC the|DT car|NN is|VBZ ready|JJ to|TO go|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gallery|NN inside|VBD the|DT tesla|NN model|NN s|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START instead|RB of|IN dashboard|NN and|CC console|NN buttons|NNS everything|VBG from|IN the|DT stereo|NN and|CC air|NN conditioning|VBG to|TO the|DT panoramic|JJ sunroof|NN is|VBZ controlled|VBN by|IN a|DT huge|JJ central|JJ touch|NN screen|NN that|WDT resembles|VBZ a|DT massive|JJ ipad|NN </s>|S_END
+<s>|S_START that|DT same|JJ screen|NN can|MD also|RB be|VB used|VBN to|TO check|VB email|NN and|CC surf|NN the|DT web|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT was|VBD an|DT electric|JJ car|NN that|WDT felt|VBD very|RB much|RB like|IN a|DT real|JJ car|NN automobile|NN senior|JJ editor|NN joe|NN lorio|NN said|VBD </s>|S_END
+<s>|S_START it|PRP doesnt|VBD feel|NN like|IN a|DT science|NN project|NN </s>|S_END
+<s>|S_START it|PRP doesnt|VBD feel|NN like|IN a|DT second|JJ or|CC third|JJ car|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB equipped|VBD with|IN an|DT optional|JJ pair|NN of|IN rearfacing|VBG childrens|NNS seats|NNS the|DT model|NN s|VBZ can|MD hold|VB up|RP to|TO seven|CD people|NNS </s>|S_END
+<s>|S_START since|IN there|EX is|VBZ no|DT engine|NN both|DT the|DT back|NN and|CC front|NN of|IN the|DT car|NN can|MD be|VB used|VBN for|IN cargo|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT model|NN s|VBZ ranges|NNS from|IN $|$ 50000|CD for|IN a|DT car|NN that|WDT can|MD go|VB 160|CD miles|NNS on|IN a|DT charge|NN to|TO almost|RB $|$ 100000|CD for|IN a|DT richly|RB equipped|VBN model|NN that|IN can|MD go|VB 300|CD miles|NNS </s>|S_END
+<s>|S_START it|PRP went|VBD into|IN production|NN this|DT summere|NN and|CC by|IN the|DT beginning|NN of|IN october|NN tesla|NN said|VBD it|PRP had|VBD sold|VBN about|IN 250|CD model|NN s|NNS sedans|NNS </s>|S_END
+<s>|S_START it|PRP expects|VBZ to|TO sell|VB about|IN 3200|CD by|IN end|NN of|IN this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START chief|NN executive|NN elon|NN musk|NN has|VBZ said|VBN he|PRP expects|VBZ tesla|NN motors|NNS tsla|VBP to|TO become|VB profitable|JJ in|IN november|NN </s>|S_END
+<s>|S_START tesla|NN has|VBZ accepted|VBN $|$ 465|CD million|CD in|IN department|NN of|IN energy|NN loans|NNS which|WDT the|DT automaker|NN expects|VBZ to|TO begin|VB repaying|NN in|IN december|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START teslas|NNS startup|VBP status|NN was|VBD one|CD factor|NN that|WDT gave|VBD automobile|NN judges|NNS pause|VBP when|WRB making|VBG this|DT selection|NN lorio|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP if|IN we|PRP give|VBP the|DT car|NN this|DT honor|NN and|CC a|DT year|NN from|IN now|RB the|DT company|NN disappears|VBZ in|IN a|DT ball|NN of|IN flakiness|NN </s>|S_END
+<s>|S_START he|PRP said|VBD are|VBP we|PRP going|VBG to|TO feel|VB foolish|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT end|NN lorio|NN said|VBD the|DT judges|NNS decided|VBD the|DT award|NN must|MD be|VB for|IN the|DT car|NN and|CC not|RB necessarily|RB the|DT business|NN which|WDT will|MD stand|VB or|CC fall|VB on|IN its|PRP$ own|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT car|NN is|VBZ here|RB now|RB and|CC we|PRP think|VBP its|PRP$ a|DT significant|JJ milestone|NN he|PRP said|VBD </s>|S_END
+</p>|P_END
+

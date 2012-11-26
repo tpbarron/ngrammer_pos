@@ -1,0 +1,75 @@
+<p>|P_START
+<s>|S_START republican|NN politicians|NNS do|VBP not|RB yet|RB blame|VB barack|NN obama|NN personally|RB for|IN the|DT recent|JJ changes|NNS in|IN americas|NNS weather|VBP </s>|S_END
+<s>|S_START that|DT would|MD stick|VB in|IN the|DT craw|NN given|VBN that|IN in|IN spite|NN of|IN overwhelming|VBG scientific|JJ evidence|NN most|JJS of|IN them|PRP still|RB question|VBP and|CC many|JJ deny|NN that|WDT man|NN plays|VBZ a|DT role|NN in|IN global|JJ warming|NN </s>|S_END
+<s>|S_START they|PRP do|VBP however|RB blame|VB mr|NN obama|NN for|IN the|DT rise|NN in|IN the|DT price|NN of|IN oil|NN </s>|S_END
+<s>|S_START this|DT is|VBZ odd|JJ too|RB especially|RB for|IN a|DT party|NN that|WDT as|IN a|DT rule|NN likes|VBZ to|TO believe|VB in|IN the|DT impotence|NN of|IN governments|NNS and|CC the|DT omnipotence|NN of|IN market|NN </s>|S_END
+<s>|S_START as|IN any|DT competent|NN economist|NN will|MD tell|VB you|PRP the|DT price|NN of|IN oil|NN is|VBZ set|VBN in|IN the|DT market—the|NNP world|NN market|NN that|IN is—and|JJ not|RB in|IN the|DT white|JJ house|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP times|NNS however|RB when|WRB the|DT temptation|NN to|TO blame|VB the|DT man|NN in|IN the|DT white|JJ house|NN is|VBZ simply|RB too|RB great|JJ and|CC this|DT is|VBZ one|CD of|IN them|PRP </s>|S_END
+<s>|S_START in|IN recent|JJ weeks|NNS the|DT conventional|JJ wisdom|NN in|IN politics|NNS has|VBZ been|VBN that|IN the|DT neverending|NN republican|NN primaries|NNS the|DT assorted|VBN weaknesses|NNS of|IN the|DT four|CD remaining|VBG candidates|NNS and|CC the|DT gradual|JJ but|CC steady|JJ improvement|NN in|IN the|DT economy|NN have|VBP transformed|VBN mr|NN obamas|NNS chances|NNS of|IN a|DT second|JJ term|NN </s>|S_END
+<s>|S_START the|DT improving|NN economy|NN is|VBZ especially|RB bothersome|JJ to|TO republicans|NNS since|IN it|PRP was|VBD the|DT lack|NN of|IN growth|NN and|CC jobs|NNS that|WDT was|VBD supposed|VBN to|TO guarantee|VB the|DT presidents|NNS defenestration|NN in|IN november|NN </s>|S_END
+<s>|S_START with|IN one|CD possible|JJ eleventhhour|NN exception|NN attempts|VBZ to|TO find|VB alternative|JJ angles|NNS of|IN attack|NN have|VBP not|RB shown|VBN conspicuous|JJ succe|NN </s>|S_END
+<s>|S_START newt|NN gingrich|NN and|CC especially|RB rick|JJ santorum|NN have|VBP done|VBN their|PRP$ best|JJS to|TO reheat|VB the|DT culture|NN war|NN </s>|S_END
+<s>|S_START but|CC knocking|VBG abortion|NN contraception|NN and|CC the|DT 21st|CD century|NN in|IN general|JJ does|NNS not|RB look|VB like|IN a|DT winning|JJ strategy|NN far|RB beyond|IN deepfried|VBN southern|NN states|NNS such|JJ as|IN alabama|NN and|CC mississippi|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT possible|JJ eleventhhour|NN exception|NN is|VBZ the|DT rising|VBG price|NN of|IN petrol|NN gasoline|NN </s>|S_END
+<s>|S_START the|DT average|JJ american|NN motorist|NN is|VBZ now|RB paying|VBG $|$ 380|CD a|DT gallon|NN a|DT record|NN for|IN the|DT time|NN of|IN year|NN </s>|S_END
+<s>|S_START as|IN prices|NNS have|VBP risen|VBN all|DT the|DT republican|JJ candidates|NNS have|VBP been|VBN selling|VBG the|DT idea|NN that|IN the|DT blame|NN for|IN this|DT rise|NN belongs|VBZ primarily|RB with|IN mr|NN obama—not|JJ with|IN the|DT markets|NNS fear|VBP of|IN a|DT war|NN with|IN iran|JJ climbing|NN demand|NN in|IN china|NN or|CC any|DT other|JJ more|RBR plausible|JJ explanation|NN </s>|S_END
+<s>|S_START unhappily|RB for|IN the|DT president|NN many|JJ voters|NNS appear|VBP to|TO be|VB buying|VBG this|DT snake|NN oil|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN march|NN 12th|CD a|DT washington|NN postabc|NN poll|NN found|VBD that|IN nearly|RB twothirds|NNS of|IN americans|NNS disapproved|VBN of|IN mr|NN obamas|NNS handling|VBG of|IN petrol|NN prices|NNS and|CC the|DT same|JJ poll|NN showed|VBD that|IN februarys|NNS 50|CD to|TO 46|CD approval|NN of|IN his|PRP$ overall|JJ performance|NN had|VBD flipped|VBN </s>|S_END
+<s>|S_START a|DT new|JJ york|NN timescbs|NNS news|NN poll|NN the|DT same|JJ day|NN also|RB reported|VBD a|DT big|JJ fall|NN in|IN voters|NNS good|JJ opinions|NNS of|IN the|DT president|NN </s>|S_END
+<s>|S_START a|DT month|NN ago|RB 50|CD approved|VBN of|IN how|WRB he|PRP was|VBD doing|VBG his|PRP$ job|NN only|RB 41|CD approve|VBP now|RB and|CC 47|CD disapprove|NN </s>|S_END
+<s>|S_START for|IN all|DT the|DT recent|JJ talk|NN not|RB least|JJS in|IN this|DT column|NN about|IN the|DT damage|NN the|DT republicans|NNS are|VBP inflicting|VBG on|IN themselves|NNS in|IN their|PRP$ primaries|NNS both|DT polls|NNS had|VBD mr|NN obama|NN and|CC mitt|NN romney|NN just|RB about|IN level|NN for|IN novembers|NNS election|NN with|IN mr|NN santorums|NNS chances|NNS against|IN mr|NN obama|NN only|RB a|DT few|JJ points|NNS behind|IN mr|NN romney|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT polls|NNS do|VBP not|RB reveal|VB how|WRB much|RB of|IN the|DT presidents|NNS shrivelling|VBG approval|NN is|VBZ caused|VBN by|IN rising|NN petrol|NN price|NN </s>|S_END
+<s>|S_START nor|CC is|VBZ it|PRP likely|RB unless|IN they|PRP inflict|VBP much|RB broader|JJR damage|NN on|IN the|DT recovery|NN that|IN they|PRP alone|RB will|MD determine|VB who|WP wins|NNS in|IN november|NN </s>|S_END
+<s>|S_START till|NN america|NN lives|NNS on|IN its|PRP$ wheels|NNS so|IN the|DT anxiety|NN in|IN the|DT white|JJ house|NN is|VBZ palpable|JJ and|CC mr|NN obama|NN has|VBZ accordingly|RB taken|VBN to|TO the|DT airwaves|NNS to|TO rebut|VB the|DT republican|JJ argument|NN that|WDT he|PRP has|VBZ restricted|VBN drilling|VBG in|IN pursuit|NN of|IN some|DT sinister|JJ green|JJ conspiracy|NN </s>|S_END
+<s>|S_START on|IN his|PRP$ watch|NN he|PRP says|VBZ the|DT number|NN of|IN operating|NN oil|NN rigs|NNS has|VBZ quadrupled|VBN and|CC production|NN has|VBZ reached|VBN an|DT eightyear|JJ high|NN </s>|S_END
+<s>|S_START but|CC the|DT president|NN also|RB makes|VBZ the|DT point|NN that|IN a|DT country|NN with|IN only|RB 2|CD of|IN the|DT worlds|NNS oil|NN reserves|NNS can|MD not|RB simply|RB drill|RB its|PRP$ way|NN to|TO lower|JJR petrol|NN price|NN </s>|S_END
+<s>|S_START that|DT he|PRP argues|VBZ is|VBZ the|DT reason|NN for|IN his|PRP$ other|JJ measures|NNS including|VBG tighter|NN emissions|NNS standards|NNS for|IN cars|NNS and|CC investment|NN in|IN green|JJ technology|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START needless|NN to|TO say|VB mr|NN obamas|NNS policies|NNS have|VBP their|PRP$ imperfection|NN </s>|S_END
+<s>|S_START the|DT bankruptcy|NN of|IN a|DT favoured|VBN solarcell|NN manufacturer|NN solyndra|NN was|VBD a|DT reminder|NN that|WDT governments|VBZ have|VBP a|DT poor|JJ record|NN of|IN picking|VBG winners|NNS in|IN technology|NN whether|IN green|JJ or|CC any|DT other|JJ colour|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ disingenuous|JJ of|IN the|DT administration|NN to|TO imply|RB that|IN extracting|VBG more|JJR tax|NN from|IN the|DT oil|NN companies|NNS which|WDT it|PRP would|MD do|VB like|IN a|DT shot|NN if|IN congress|NN allowed|VBD it|PRP would|MD not|RB raise|VB prices|NNS at|IN the|DT pump|NN </s>|S_END
+<s>|S_START and|CC the|DT presidents|NNS equivocation|NN on|IN the|DT keystone|NN xl|NN pipeline|NN which|WDT was|VBD going|VBG to|TO carry|VB oil|NN from|IN the|DT canadian|JJ tar|NN sands|NNS to|TO the|DT gulf|NN of|IN mexico|NN but|CC has|VBZ now|RB been|VBN stymied|VBN was|VBD a|DT textbook|NN example|NN of|IN how|WRB to|TO evade|VB hard|JJ decisions|NNS in|IN an|DT election|NN year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN the|DT main|JJ question|NN however|RB mr|NN obama|NN has|VBZ the|DT better|JJR of|IN the|DT argument|NN </s>|S_END
+<s>|S_START america|NN already|RB taxes|VBZ petrol|NN far|RB more|RBR lightly|RB than|IN other|JJ developed|VBN countries|NNS do|VBP </s>|S_END
+<s>|S_START hort|NN of|IN cutting|VBG petrol|NN taxes|NNS still|RB further|JJ john|NN mccain|NN and|CC hillary|JJ clinton|NN proposed|VBD a|DT tax|NN holiday|NN during|IN the|DT 2008|CD race|NN or|CC mounting|VBG an|DT irresponsible|JJ raid|NN on|IN the|DT strategic|JJ oil|NN reserve|NN for|IN political|JJ purposes|NNS he|PRP has|VBZ no|DT ready|NN way|NN to|TO make|VB petrol|NN cheaper|JJR for|IN the|DT american|JJ voter|NN </s>|S_END
+<s>|S_START nor|CC do|VBP his|PRP$ republican|JJ critics|NNS even|RB though|IN mr|NN gingrich|NN is|VBZ pushing|VBG a|DT cockamamie|NN claim|NN that|IN unbridled|VBN drilling|VBG could|MD swiftly|RB cut|VB the|DT price|NN to|TO $|$ 250|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START americas|NNS sacred|VBD plenty|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT being|VBG said|VBD having|VBG the|DT better|JJR of|IN the|DT argument|NN is|VBZ not|RB the|DT only|JJ thing|NN that|WDT matters|NNS in|IN politic|JJ </s>|S_END
+<s>|S_START the|DT republican|JJ case|NN does|VBZ not|RB survive|VB much|JJ scrutiny|NN but|CC on|IN this|DT issue|NN mr|NN obamas|NNS opponents|NNS may|MD be|VB more|RBR in|IN tune|NN than|IN he|PRP is|VBZ with|IN americas|NNS instinct|VBP </s>|S_END
+<s>|S_START the|DT president|NN is|VBZ after|IN all|DT undeniably|RB guilty|JJ of|IN some|DT cautious|JJ environmentalism|NN </s>|S_END
+<s>|S_START and|CC as|IN simon|NN schama|NN a|DT historian|JJ pointed|VBN out|RP four|CD years|NNS ago|RB in|IN “the|DT american|JJ future”|NN bodley|NN head|NN no|DT one|NN ever|RB won|VBD an|DT election|NN by|IN telling|NN america|NN that|WDT it|PRP had|VBD come|VBN to|TO the|DT end|NN of|IN its|PRP$ “providential|JJ allotment|NN of|IN inexhaustible|JJ plenty”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP may|MD then|RB be|VB no|RB coincidence|NN that|IN mr|NN obamas|NNS nobelprizewinning|VBG energy|NN secretary|NN steven|RB chu|VB chose|JJ this|DT week|NN to|TO tell|VB congress|NN that|WDT he|PRP no|DT longer|NN wishes|VBZ as|RB he|PRP did|VBD before|IN getting|NN his|PRP$ job|NN for|IN american|JJ fuel|NN prices|NNS to|TO rise|VB to|TO european|VB levels|NNS to|TO encourage|VB efficiency|NN </s>|S_END
+<s>|S_START mr|NN obama|NN can|MD not|RB cut|VB the|DT price|NN of|IN petrol|NN </s>|S_END
+<s>|S_START but|CC he|PRP had|VBD better|RBR at|IN least|JJS give|JJ the|DT impression|NN that|IN he|PRP wants|VBZ to|TO </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogslexington|NN </s>|S_END
+</p>|P_END
+

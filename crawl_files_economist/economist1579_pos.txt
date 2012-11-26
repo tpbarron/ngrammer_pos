@@ -1,0 +1,39 @@
+<p>|P_START
+<s>|S_START on|IN september|NN 26th|CD google|NN an|DT internetsearch|NN firm|NN announced|VBD that|IN users|NNS of|IN its|PRP$ google|JJ maps|NNS software|NN would|MD be|VB able|JJ to|TO take|VB virtual|JJ dives|NNS on|IN the|DT great|JJ barrier|NN reef|NN the|DT largest|JJS coral|JJ formation|NN in|IN the|DT world|NN located|VBD off|RP the|DT northeastern|NN coast|NN of|IN australia|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC although|IN the|DT great|JJ barrier|NN reef|NN is|VBZ one|CD of|IN the|DT most|RBS legally|RB protected|VBN on|IN earth|JJ it|PRP is|VBZ like|IN other|JJ reefs|NNS suffering|VBG from|IN the|DT effects|NNS of|IN predators|NNS pollution|NN and|CC climate|NN change|NN </s>|S_END
+<s>|S_START a|DT paper|NN just|RB published|VBD in|IN the|DT proceedings|NNS of|IN the|DT national|JJ academy|NN of|IN sciences|NNS attempts|VBZ to|TO put|VB some|DT numbers|NNS to|TO the|DT decline|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT researchers|NNS led|VBD by|IN glenn|NN de’ath|JJ of|IN the|DT australian|JJ institute|NN of|IN marine|NN science|NN examined|VBD data|NNS from|IN more|RBR than|IN 2200|CD reef|NN surveys|NNS dating|VBG back|RB to|TO 1985|CD </s>|S_END
+<s>|S_START although|IN some|DT parts|NNS of|IN the|DT reef|NN had|VBD grown|VBN the|DT overall|JJ trend|NN was|VBD sharply|RB downward|RB </s>|S_END
+<s>|S_START dr|NN de’ath|NN and|CC his|PRP$ colleagues|NNS found|VBD that|IN average|JJ coral|JJ cover—in|JJ other|JJ words|NNS the|DT proportion|NN of|IN the|DT reef|NN that|IN hosts|NNS live|VBP coral|JJ polyps|NNS as|IN opposed|VBN to|TO their|PRP$ unoccupied|JJ exoskeletons—has|JJ dropped|JJ by|IN around|IN half|DT from|IN 28|CD in|IN 1985|CD to|TO 138|CD today|NN </s>|S_END
+<s>|S_START that|DT is|VBZ a|DT decline|NN of|IN 05|CD percentage|NN points|NNS a|DT year|NN </s>|S_END
+<s>|S_START the|DT decrease|NN was|VBD not|RB uniform|NN </s>|S_END
+<s>|S_START the|DT relatively|RB isolated|VBN northern|JJ parts|NNS have|VBP done|VBN best|JJS while|IN cover|NN on|IN parts|NNS of|IN the|DT southern|NN end|NN has|VBZ fallen|VBN as|RB low|JJ as|IN 82|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT researchers|NNS also|RB tried|VBD to|TO estimate|VB what|WP was|VBD responsible|JJ for|IN the|DT decline|NN </s>|S_END
+<s>|S_START damage|NN from|IN tropical|JJ storms|NNS they|PRP reckon|VBP accounted|VBN for|IN about|IN half|DT of|IN coral|JJ death|NN </s>|S_END
+<s>|S_START bleaching—in|JJ which|NN symbiotic|JJ algae|NN that|WDT live|JJ within|IN many|JJ corals|NNS and|CC which|WDT photosynthesise|NN on|IN their|PRP$ behalf|NN are|VBP expelled|VBN often|RB with|IN fatal|JJ results—explained|JJ another|DT 10|CD </s>|S_END
+<s>|S_START bleaching|VBG is|VBZ triggered|VBN by|IN high|JJ temperatures|NNS and|CC its|PRP$ frequency|NN has|VBZ increased|VBN probably|RB in|IN response|NN to|TO global|JJ warming|NN </s>|S_END
+<s>|S_START the|DT remaining|VBG twofifths|NNS they|PRP say|VBP was|VBD predation|NN by|IN the|DT crownofthorns|NNS starfish|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START although|IN it|PRP is|VBZ a|DT natural|JJ inhabitant|NN of|IN the|DT great|JJ barrier|NN reef|NN the|DT crownofthorns|NNS has|VBZ in|IN recent|JJ years|NNS undergone|NN several|JJ population|NN explosion|NN </s>|S_END
+<s>|S_START the|DT reason|NN is|VBZ uncertain|NN but|CC the|DT most|RBS likely|JJ explanation|NN is|VBZ that|IN more|JJR of|IN its|PRP$ larvae|NN than|IN normal|JJ are|VBP reaching|VBG adulthood|NN </s>|S_END
+<s>|S_START these|DT larvae|NN feed|VBD on|IN planktonic|JJ algae|NN </s>|S_END
+<s>|S_START agricultural|JJ fertilisers|NNS washed|VBD off|RP the|DT land|NN by|IN rain|NN can|MD cause|VB algal|JJ population|NN booms|NNS making|VBG more|JJR food|NN available|JJ to|TO the|DT larvae|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT good|JJ news|NN is|VBZ that|IN what|WP people|NNS give|VBP people|NNS can|MD in|IN theory|NN take|NN away|RB </s>|S_END
+<s>|S_START in|IN the|DT absence|NN of|IN the|DT crownofthorns|NNS dr|VBP de’ath|JJ reckons|NNS the|DT coral|JJ coverage|NN would|MD grow|VB by|IN 089|CD a|DT year|NN despite|IN pressures|NNS imposed|VBN by|IN bleaching|NN and|CC cyclone|NN </s>|S_END
+<s>|S_START efforts|NNS to|TO cull|VB the|DT starfish|JJ have|VBP had|VBN some|DT success|NN but|CC a|DT better|JJR approach|NN would|MD be|VB to|TO reduce|VB agricultural|JJ runoff|NN and|CC thus|RB cut|VBD the|DT banquet|NN enjoyed|VBD by|IN the|DT larvae|NN </s>|S_END
+</p>|P_END
+

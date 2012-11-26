@@ -1,0 +1,40 @@
+<p>|P_START
+<s>|S_START weet|NN tooth|NN </s>|S_END
+<s>|S_START by|IN ian|JJ mcewan|NN </s>|S_END
+<s>|S_START jonathan|IN cape|NN 320|CD pages|NNS £1899|-NONE- </s>|S_END
+<s>|S_START to|TO be|VB published|VBN in|IN america|NN by|IN nan|NN a|DT talese|NN in|IN november|NN </s>|S_END
+<s>|S_START buy|NN from|IN amazoncom|NN amazoncouk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN 64|CD with|IN a|DT hollywood|NN film|NN a|DT man|NN booker|NN prize|NN and|CC a|DT gong|JJ from|IN the|DT queen|NN ian|NN mcewan|NN has|VBZ become|VBN a|DT grand|NN old|JJ man|NN of|IN british|JJ letter|NN </s>|S_END
+<s>|S_START publication|NN of|IN his|PRP$ latest|JJS novel|NN “sweet|NN tooth”|NN was|VBD announced|VBN on|IN the|DT evening|NN new|JJ </s>|S_END
+<s>|S_START a|DT reading|NN at|IN the|DT edinburgh|JJ book|NN festival|NN was|VBD introduced|VBN by|IN none|NN other|JJ than|IN the|DT first|JJ minister|NN alex|NN salmond|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN all|DT the|DT attendant|JJ publicity|NN “sweet|JJ tooth”|NN is|VBZ not|RB mr|JJ mcewan’s|NNS finest|JJS book|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ neither|DT the|DT darkness|NN of|IN “the|NNP comfort|NN of|IN strangers”|NNP nor|CC the|DT passion|NN of|IN “enduring|JJ love”|NN nor|CC even|RB the|DT forensic|JJ observation|NN that|WDT made|VBN “on|-NONE- chesil|NN beach”|-NONE- such|JJ an|DT uncomfortable|JJ and|CC memorable|JJ read|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ a|DT clever|NN book—ostensibly|RB about|IN spying|VBG yet|RB really|RB about|IN writers|NNS and|CC the|DT alchemy|NN of|IN fiction|NN </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ also|RB curiously|RB forgettable|JJ </s>|S_END
+<s>|S_START what|WP it|PRP lacks|VBZ is|VBZ not|RB so|RB much|RB an|DT animating|VBG spirit|NN as|IN a|DT heart|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT novel|NN is|VBZ set|VBN in|IN 1972|CD a|DT pivotal|JJ year|NN in|IN postwar|NN british|JJ history|NN when|WRB a|DT series|NN of|IN bloody|NN ira|NN bombings|NNS and|CC debilitating|VBG miners’|NN strikes|NNS seemed|VBD to|TO presage|NN the|DT political|JJ and|CC economic|JJ chaos|NNS that|WDT would|MD mark|VB the|DT rest|NN of|IN the|DT decade|NN </s>|S_END
+<s>|S_START farther|PRP$ afield|NN the|DT cold|NN war|NN stumbled|VBD on|IN as|IN east|JJ and|CC west|JJS battled|JJ for|IN cultural|JJ influence|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN her|PRP$ final|JJ year|NN at|IN cambridge—nest|JJS of|IN an|DT earlier|JJR generation|NN of|IN spies—serena|NNP frome|NN rhymes|VBZ with|IN “plume”|JJ the|DT reader|NN is|VBZ swiftly|RB told|VBN for|IN no|DT discernible|JJ reason|NN has|VBZ an|DT affair|NN with|IN an|DT older|JJR man|NN who|WP helps|NNS recruit|VBP her|PRP to|TO become|VB a|DT junior|JJ spy|NN </s>|S_END
+<s>|S_START at|IN the|DT time|NN the|DT west|NN was|VBD spending|NN millions|NNS spreading|VBG antisoviet|NN propaganda|NN and|CC america|NN was|VBD bankrolling|VBG newspapers|NNS and|CC broadcasters|NNS like|IN radio|NN free|JJ europe|NN </s>|S_END
+<s>|S_START erena|NN a|DT compulsive|JJ reader|NN of|IN fiction|NN is|VBZ sent|VBN on|IN a|DT secret|NN mission|NN to|TO convert|VB a|DT promising|NN young|NN novelist|NN tom|NN haley|NN to|TO the|DT cause|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT two|CD become|NN lover|NN </s>|S_END
+<s>|S_START their|PRP$ hedonistic|JJ affair|NN is|VBZ full|JJ of|IN chablis|NNS and|CC long|JJ discussions|NNS about|IN famous|JJ writers|NNS and|CC publishers|NNS of|IN the|DT time|NN martin|NN amis|NNS tom|VBP maschler|NN </s>|S_END
+<s>|S_START the|DT book|NN chugs|NNS along|IN this|DT way|NN until|IN the|DT end|NN when|WRB mr|NN mcewan|NN delivers|NNS an|DT unwieldy|NN denouement|NN and|CC some|DT unearned|VBN sadne|NN </s>|S_END
+<s>|S_START by|IN then|RB it|PRP is|VBZ hard|RB to|TO feel|VB much|JJ of|IN anything|NN for|IN these|DT heroes|NNS who|WP are|VBP all|DT notions|NNS and|CC no|DT depth|NN </s>|S_END
+</p>|P_END
+

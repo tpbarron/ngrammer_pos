@@ -1,0 +1,41 @@
+<p>|P_START
+<s>|S_START target|NN is|VBZ the|DT latest|JJS retailer|NN to|TO announce|VB it|PRP will|MD match|VB prices|NNS from|IN online|NN merchants|NNS this|DT holiday|NN season|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN target|NN tgt|NN fortune|NN 500|CD became|VBD the|DT latest|JJS retail|NN store|NN chain|NN to|TO join|VB in|IN the|DT pricematching|NN bandwagon|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT company|NN said|VBD it|PRP will|MD match|VB prices|NNS from|IN online|NN rivals|NNS amazoncom|VBP bestbuycom|NN toysruscom|NN and|CC babiesrus|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT move|NN comes|VBZ days|NNS after|IN best|JJS buy|NN bby|RB fortune|JJ 500|CD and|CC toys|NNS r|VBP us|PRP also|RB said|VBD they|PRP would|MD match|VB prices|NNS of|IN online|NN competitors|NNS like|IN amazon|NN amzn|NN fortune|NN 500|CD walmart|NN wmt|NN fortune|NN 500and|CD sears|NNS shld|MD fortune|VB 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN the|DT holiday|NN shopping|VBG season|NN gets|NNS started|VBD amid|IN economic|JJ uncertainty|NN retailers|NNS are|VBP gearing|VBG up|RP with|IN deals|NNS to|TO lure|VB even|RB online|VB shoppers|NNS into|IN their|PRP$ stores|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START online|NN holiday|NN sales|NNS are|VBP projected|VBN to|TO increase|VB 12|CD to|TO around|IN $|$ 96|CD billion|CD this|DT year|NN </s>|S_END
+<s>|S_START thats|NNS about|IN a|DT fifth|JJ of|IN all|DT retail|JJ holiday|NN sales|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD holiday|NN sales|NNS projected|VBD to|TO increase|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START online|NN shoppers|NNS are|VBP usually|RB a|DT savvy|NN lot|NN used|VBD to|TO comparing|NN prices|NNS from|IN across|IN the|DT internet|NN with|IN a|DT click|NN of|IN a|DT mouse|NN or|CC with|IN their|PRP$ mobile|JJ phones|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START stores|NNS like|IN target|NN and|CC toys|NNS r|VBP us|PRP are|VBP hoping|VBG the|DT price|NN matching|VBG programs|NNS will|MD help|VB them|PRP compete|VB better|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START stores|NNS would|MD rather|RB keep|VB the|DT sale|NN at|IN a|DT slightly|RB lower|JJR margin|NN than|IN lose|NN it|PRP all|DT together|RB said|VBD craig|JJ johnson|NN president|NN of|IN customer|NN growth|NN partners|NNS </s>|S_END
+</p>|P_END
+

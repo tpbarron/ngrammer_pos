@@ -1,0 +1,35 @@
+<p>|P_START
+<s>|S_START chinas|NNS yuan|VBP has|VBZ risen|VBN against|IN the|DT dollar|NN in|IN the|DT past|JJ few|JJ years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT treasury|NN department|NN said|VBD friday|NN that|IN it|PRP was|VBD delaying|VBG the|DT release|NN of|IN a|DT report|NN on|IN international|JJ exchange|NN rates|NNS that|WDT often|RB contains|VBZ criticism|NN of|IN chinas|NNS currency|NN policies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT semiannual|JJ report|NN originally|RB due|JJ next|JJ week|NN is|VBZ frequently|RB delayed|VBN </s>|S_END
+<s>|S_START it|PRP will|MD now|RB be|VB published|VBN at|IN some|DT point|NN after|IN the|DT g20|NNP finance|NN ministers|NNS meet|VBP in|IN mexico|NN city|NN early|RB next|JJ month|NN the|DT treasury|NN department|NN said|VBD meaning|VBG it|PRP likely|JJ will|MD come|VB after|IN the|DT presidential|JJ election|NN on|IN nov|NN 6|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START earlier|JJR versions|NNS of|IN the|DT treasury|NN report|NN have|VBP criticized|VBN china|NNS for|IN intervening|VBG in|IN the|DT foreign|JJ exchange|NN market|NN to|TO depress|NN the|DT value|NN of|IN its|PRP$ currency|NN the|DT yuan|NN </s>|S_END
+<s>|S_START but|CC the|DT obama|NN administration|NN has|VBZ stopped|VBN short|JJ of|IN formally|RB designating|VBG china|NN a|DT currency|NN manipulator|NN a|DT move|NN that|WDT could|MD lead|VB to|TO trade|VB sanctions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD will|MD chinas|VB auto|NN boycott|NN backfire|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START republican|NN presidential|JJ candidate|NN mitt|NN romney|NN has|VBZ vowed|VBN to|TO take|VB this|DT step|NN should|MD he|PRP win|VB the|DT election|NN a|DT move|NN sure|NN to|TO increase|VB tensions|NNS in|IN the|DT already|RB rocky|JJ economic|JJ relationship|NN between|IN china|NN and|CC the|DT us|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT treasury|NN department|NN announced|VBD the|DT reports|NNS delay|VBP on|IN a|DT day|NN when|WRB the|DT yuan|NN reached|VBD its|PRP$ highest|JJS level|NN against|IN the|DT dollar|NN since|IN 1994|CD when|WRB china|NN first|RB introduced|VBN its|PRP$ modern|JJ currencytrading|NN system|NN according|VBG to|TO dow|VB jones|NNS </s>|S_END
+<s>|S_START in|IN the|DT last|JJ edition|NN of|IN the|DT report|NN published|VBD in|IN may|NN treasury|NN credited|VBD china|NN with|IN allowing|NN necessary|JJ external|JJ adjustments|NNS to|TO take|VB place|NN to|TO boost|VB the|DT yuans|NNS value|NN though|IN it|PRP urged|VBD beijing|VBG to|TO do|VB more|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START although|IN the|DT obama|NN administration|NN has|VBZ avoided|VBN action|NN on|IN the|DT yuan|NN directly|RB it|PRP has|VBZ filed|VBN trade|NN cases|NNS against|IN china|NN over|IN exports|NNS of|IN rare|JJ earth|NN minerals|NNS and|CC auto|NN parts|NNS and|CC has|VBZ introduced|VBN tariffs|NNS on|IN chinesemade|NN solar|NN panels|NNS </s>|S_END
+</p>|P_END
+

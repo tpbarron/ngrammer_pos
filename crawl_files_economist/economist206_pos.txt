@@ -1,0 +1,106 @@
+<p>|P_START
+<s>|S_START it|PRP is|VBZ among|IN the|DT hoariest|JJS of|IN film|NN cliché|NN </s>|S_END
+<s>|S_START the|DT hero|NN subdues|VBZ one|CD foe|NN and|CC turns|VBZ his|PRP$ attention|NN to|TO another|DT only|RB to|TO find|VB that|IN the|DT first|JJ villain|NN is|VBZ still|RB alive|JJ and|CC bent|NN on|IN destruction|NN </s>|S_END
+<s>|S_START two|CD years|NNS ago|RB the|DT rich|JJ world|NN thought|VBD that|IN the|DT global|JJ recession|NN was|VBD over|IN vanquished|VBN by|IN a|DT wave|NN of|IN fiscal|JJ and|CC monetary|JJ stimulu|NN </s>|S_END
+<s>|S_START policymakers|NNS turned|VBD their|PRP$ backs|NNS to|TO clean|VB up|RP the|DT government|NN debt|NN that|WDT had|VBD been|VBN left|VBN behind|IN </s>|S_END
+<s>|S_START in|IN 2011|CD and|CC 2012|CD structural|JJ deficits|NNS across|IN the|DT rich|JJ world|NN will|MD have|VB been|VBN reduced|VBN by|IN about|RB 075|CD of|IN gdp|NN a|DT pace|NN that|WDT is|VBZ forecast|VBP to|TO rise|VB in|IN 2013|CD </s>|S_END
+<s>|S_START but|CC economic|JJ gloom|NN has|VBZ not|RB gone|VBN indeed|RB fiscal|JJ consolidation|NN seems|VBZ to|TO have|VB deepened|VBN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START olvency|NN worries|NNS drove|VBP the|DT turn|NN from|IN stimulus|NN to|TO austerity|NN </s>|S_END
+<s>|S_START markets|NNS started|VBD losing|VBG their|PRP$ appetite|NN for|IN greek|NN debt|NN in|IN late|JJ 2009|CD </s>|S_END
+<s>|S_START many|JJ governments|NNS feared|VBN they|PRP might|MD be|VB next|JJ </s>|S_END
+<s>|S_START in|IN october|NN 2010|CD the|DT imf|NN called|VBD for|IN belttightening|NN and|CC turned|VBD to|TO gauging|NN its|PRP$ probable|JJ impact|NN </s>|S_END
+<s>|S_START yet|RB controversy|JJ surrounded|VBN this|DT switch|NN </s>|S_END
+<s>|S_START the|DT imf|NN argued|VBD that|IN austerity|NN would|MD be|VB painful|JJ but|CC necessary|JJ some|DT academics|NNS reckoned|VBD that|IN cuts|NNS could|MD do|VB more|RBR harm|JJ than|IN good|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT debate|NN centred|VBD on|IN the|DT value|NN of|IN an|DT economic|JJ variable|JJ called|VBN a|DT “multiplier”|NNP </s>|S_END
+<s>|S_START a|DT fiscal|JJ multiplier|NN describes|VBZ the|DT change|NN in|IN gdp|NN that|IN is|VBZ due|JJ to|TO a|DT change|NN in|IN taxandspending|NN policy|NN </s>|S_END
+<s>|S_START a|DT multiplier|NN of|IN 15|CD for|IN instance|NN means|VBZ that|DT $|$ 1|CD in|IN governmentspending|NN cuts|NNS reduces|NNS gdp|VBP by|IN $|$ 150|CD a|DT multiplier|NN of|IN 05|CD means|NNS a|DT $|$ 1|CD cut|VBD in|IN spending|NN only|RB reduces|VBZ gdp|NN by|IN 50|CD cent|NN </s>|S_END
+<s>|S_START multipliers|NNS work|VBP both|DT ways|NNS during|IN the|DT recession|NN experts|NNS bickered|VBD over|IN the|DT extra|JJ economic|JJ bang|NN to|TO be|VB expected|VBN from|IN a|DT given|VBN stimulus|NN buck|NN </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ the|DT impact|NN of|IN austerity|NN that|IN now|RB preoccupies|VBZ people|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT simple|JJ example|NN illustrates|NNS the|DT multiplier’s|NNS importance|NN </s>|S_END
+<s>|S_START take|VB an|DT economy|NN growing|VBG at|IN 15|CD a|DT year|NN and|CC with|IN a|DT government|NN budget|NN deficit|NN of|IN 1|CD of|IN gdp|NN </s>|S_END
+<s>|S_START if|IN the|DT multiplier|NN is|VBZ 2|CD spending|NN cuts|NNS big|JJ enough|RB to|TO close|VB the|DT deficit|NN produce|NN a|DT drop|NN in|IN gdp|NN in|IN the|DT year|NN the|DT cuts|NNS take|VBP effect|NN </s>|S_END
+<s>|S_START for|IN its|PRP$ pains|NNS the|DT economy|NN ends|VBZ the|DT year|NN with|IN a|DT higher|JJR debttogdp|NN ratio|NN than|IN it|PRP started|VBD with|IN </s>|S_END
+<s>|S_START a|DT multiplier|NN below|IN 15|CD means|NNS slow|JJ growth|NN and|CC a|DT lower|JJR debt|NN burden|NN at|IN year’s|JJ end|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START estimates|NNS of|IN fiscal|JJ multipliers|NNS are|VBP all|DT over|IN the|DT map|NN </s>|S_END
+<s>|S_START ome|NN like|IN alberto|NN alesina|NN and|CC silvia|IN ardagna|NN of|IN harvard|NN university|NN argue|NN that|IN fiscal|JJ consolidation|NN may|MD actually|RB raise|VB growth|NN even|RB in|IN the|DT short|JJ run|NN </s>|S_END
+<s>|S_START but|CC the|DT loose|NN consensus|NN a|DT couple|NN of|IN years|NNS ago|IN was|VBD that|IN multipliers|NNS were|VBD typically|RB around|IN 1|CD or|CC perhaps|RB a|DT bit|NN below|IN </s>|S_END
+<s>|S_START in|IN their|PRP$ 2010|CD analysis|NN imf|NN economists|NNS reckoned|VBD that|IN governments|NNS cutting|VBG deficits|NNS by|IN 1|CD of|IN gdp|NN could|MD expect|VB a|DT shortrun|NN hit|NN to|TO gdp|VB growth|NN of|IN about|IN half|DT a|DT percentage|NN point|NN a|DT multiplier|NN of|IN about|RB 05|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT view|NN was|VBD predicated|VBN on|IN the|DT idea|NN that|IN other|JJ factors|NNS can|MD offset|VB the|DT blow|NN from|IN budget|NN cut|VBD </s>|S_END
+<s>|S_START pending|VBG cuts|NNS may|MD “crowd|VB in”|-NONE- privatesector|NN activity|NN if|IN governments|NNS are|VBP using|VBG up|RP scarce|NN capital|NN and|CC labour|PRP$ then|RB austerity|NN creates|NNS room|VBP for|IN private|JJ firms|NNS to|TO expand|VB </s>|S_END
+<s>|S_START in|IN open|JJ economies|NNS austerity’s|-NONE- bite|VBP can|MD be|VB passed|VBN on|IN to|TO other|JJ countries|NNS through|IN reduced|VBN import|NN </s>|S_END
+<s>|S_START most|JJS important|JJ of|IN all|DT monetary|JJ policy|NN can|MD act|VB as|IN a|DT counterweight|NN to|TO fiscal|JJ policy|NN </s>|S_END
+<s>|S_START pending|VBG cuts|NNS that|WDT threaten|VBN to|TO drag|VB growth|NN below|IN a|DT desired|VBN level|NN should|MD prompt|VB monetary|JJ easing|NN limiting|VBG the|DT multiplier|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP that|DT means|VBZ is|VBZ that|IN austerity|NN may|MD hurt|VB much|JJ more|RBR at|IN some|DT times|NNS than|IN other|JJ </s>|S_END
+<s>|S_START in|IN a|DT 2010|CD paper|NN alan|NN auerbach|NN and|CC yuriy|NN gorodnichenko|NN of|IN the|DT university|NN of|IN california|NN berkeley|NN argued|VBD that|IN the|DT fiscal|JJ multiplier|NN may|MD be|VB negative|JJ during|IN booms|NNS meaning|VBG that|IN spending|NN cuts|NNS actually|RB raise|VBP growth|NN </s>|S_END
+<s>|S_START in|IN recessions|NNS by|IN contrast|NN it|PRP could|MD be|VB as|RB high|JJ as|IN 25|CD </s>|S_END
+<s>|S_START a|DT study|NN by|IN lawrence|NN christiano|RB martin|NN eichenbaum|NN and|CC sergio|NN rebelo|NN of|IN northwestern|NN university|NN suggested|VBD that|IN although|IN the|DT multiplier|NN may|MD hover|VB at|IN around|IN 1|CD normally|RB it|PRP could|MD rise|VB to|TO more|JJR than|IN 3|CD when|WRB interest|NN rates|NNS fall|VBP to|TO near|VB zero|CD leaving|VBG the|DT central|JJ bank|NN with|IN less|JJR room|NN to|TO act|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT timing|NN of|IN postcrisis|NN austerity|NN could|MD hardly|RB have|VB been|VBN less|JJR auspiciou|PRP </s>|S_END
+<s>|S_START first|JJ with|IN many|JJ economies|NNS cutting|VBG budgets|NNS at|IN once|RB the|DT impact|NN of|IN austerity|NN on|IN growth|NN couldn’t|JJ easily|RB be|VB deflected|VBN elsewhere|RB </s>|S_END
+<s>|S_START that|DT is|VBZ a|DT big|JJ problem|NN in|IN the|DT euro|NN zone|NN where|WRB trade|NN links|NNS are|VBP tight|JJ and|CC countries|NNS are|VBP unable|JJ to|TO devalue|VB their|PRP$ currencie|NN </s>|S_END
+<s>|S_START econd|NN whereas|VBD cuts|NNS in|IN government|NN spending|NN might|MD normally|RB be|VB expected|VBN to|TO free|JJ up|IN resources|NNS for|IN private|JJ use|NN that|WDT mattered|VBN far|RB less|JJR when|WRB unemployment|NN and|CC saving|VBG were|VBD high|JJ </s>|S_END
+<s>|S_START third|JJ with|IN borrowing|NN costs|NNS already|RB at|IN rock|NN bottom|NN in|IN safe|NN havens|NNS like|IN britain|NN and|CC america|NN there|RB was|VBD less|JJR room|NN for|IN them|PRP to|TO fall|VB further|JJ to|TO offset|VB the|DT impact|NN of|IN austerity|NN on|IN demand|NN </s>|S_END
+<s>|S_START finally|RB as|IN many|JJ interest|NN rates|NNS neared|VBD zero|CD monetarypolicy|NN action|NN had|VBD less|JJR scope|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lasher|PRP$ movie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO be|VB fair|JJ the|DT imf|NN cautioned|VBD in|IN 2010|CD that|WDT austerity|NN might|MD be|VB more|RBR painful|JJ than|IN normal|JJ for|IN just|RB these|DT reason|NN </s>|S_END
+<s>|S_START even|RB so|RB it|PRP underestimated|VBD the|DT hit|NN from|IN budget|NN cut|VBD </s>|S_END
+<s>|S_START in|IN the|DT fund’s|JJ latest|JJS “world|JJ economic|JJ outlook”|NN released|VBN this|DT month|NN olivier|NN blanchard|NN its|PRP$ chief|NN economist|NN and|CC daniel|NN leigh|NN study|NN how|WRB well|RB their|PRP$ past|JJ forecasts|NNS turned|VBD out|RP </s>|S_END
+<s>|S_START they|PRP analyse|VBP the|DT imf’s|NNP 2010vintage|CD forecasts|NNS for|IN 28|CD rich|WDT economies|NNS and|CC find|VBP that|IN planned|VBN fiscal|JJ cuts|NNS of|IN 1|CD of|IN gdp|NN generally|RB led|VBN the|DT imf|NN to|TO overestimate|VB a|DT country’s|JJ subsequent|NN growth|NN by|IN about|IN a|DT percentage|NN point|NN </s>|S_END
+<s>|S_START fiscal|JJ multipliers|NNS since|IN the|DT recession|NN seem|VBP to|TO have|VB been|VBN between|IN 09|CD and|CC 17|CD they|PRP write|VBP rather|RB than|IN the|DT 05|CD figure|NN used|VBN in|IN initial|JJ forecast|NN </s>|S_END
+<s>|S_START that|DT meant|VBD more|JJR economic|JJ hardship|NN for|IN less|JJR improvement|NN in|IN public|JJ finance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START given|VBN the|DT small|JJ sample|NN size|NN these|DT conclusions|NNS should|MD also|RB be|VB treated|VBN cautiously|RB </s>|S_END
+<s>|S_START yet|RB a|DT battery|NN of|IN tests|NNS conducted|VBN by|IN mr|NN blanchard|NN and|CC mr|NN leigh|NN shows|VBZ that|IN the|DT fund’s|NNS new|JJ results|NNS hold|VBP when|WRB controlling|VBG for|IN things|NNS such|JJ as|IN banking|NN crises|NNS and|CC remain|VB statistically|RB meaningful|JJ when|WRB countries|NNS on|IN imf|NN programmes|NNS such|JJ as|IN greece|NN and|CC portugal|JJ are|VBP excluded|VBN </s>|S_END
+<s>|S_START rapid|JJ belttightening|NN may|MD bring|VB down|IN deficits|NNS but|CC it|PRP hurts|VBZ growth|NN more|JJR than|IN the|DT fund|NN anticipated|VBD </s>|S_END
+<s>|S_START the|DT imf|NN has|VBZ seen|VBN this|DT film|NN before|IN say|NN critics|NNS of|IN austerity|NN it|PRP should|MD have|VB seen|VBN this|DT coming|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ource|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT design|NN of|IN fiscal|JJ adjustments|NNS by|IN alberto|NN alesina|NN and|CC silvia|IN ardagna|NN nber|NN working|VBG paper|NN 18423|CD september|NN 2012|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START measuring|VBG the|DT output|NN responses|NNS to|TO fiscal|JJ policy|NN by|IN alan|NN auerbach|NN and|CC yuriy|NN gorodnichenko|NN nber|NN working|VBG paper|NN 16311|CD august|NN 2010|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB is|VBZ the|DT government|NN spending|NN multiplier|NN large|JJ </s>|S_END
+<s>|S_START by|IN lawrence|NN christiano|RB martin|NN eichenbaum|NN and|CC sergio|NN rebelo|NN nber|NN working|VBG paper|NN 15394|CD october|NN 2009|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogsfreeexchange|NN </s>|S_END
+</p>|P_END
+

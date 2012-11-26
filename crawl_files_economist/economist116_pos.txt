@@ -1,0 +1,85 @@
+<p>|P_START
+<s>|S_START the|DT climate|NN in|IN which|WDT george|NN osborne|NN will|MD make|VB his|PRP$ third|JJ budget|NN statement|NN as|IN chancellor|NN of|IN the|DT exchequer|NN on|IN march|NN 21st|CD is|VBZ far|RB from|IN balmy|PRP$ </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ better|RBR than|IN he|PRP could|MD have|VB hoped|VBN for|IN in|IN the|DT stormy|NN days|NNS of|IN autumn|NN </s>|S_END
+<s>|S_START britains|NNS economy|VBP which|WDT shrank|NN in|IN the|DT final|JJ quarter|NN of|IN 2011|CD has|VBZ revived|VBN this|DT year|NN making|VBG it|PRP likely|RB that|IN the|DT country|NN will|MD avoid|VB another|DT recession|NN </s>|S_END
+<s>|S_START prospects|NNS for|IN the|DT countrys|NNS main|VBP export|NN markets|NNS especially|RB america|VBP seem|VBP brighter|JJR </s>|S_END
+<s>|S_START the|DT recession|NN in|IN the|DT euro|NN zone|NN where|WRB twofifths|NNS of|IN british|JJ exports|NNS are|VBP sold|VBN now|RB looks|VBZ likely|JJ to|TO be|VB fairly|RB mild|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT public|NN finances|NNS also|RB seem|VBP a|DT bit|NN stronger|NN than|IN they|PRP did|VBD </s>|S_END
+<s>|S_START public|JJ borrowing|NN for|IN 201112|CD is|VBZ likely|JJ to|TO be|VB below|IN the|DT £127|NN billion|NN $|$ 199|CD billion|CD forecast|NN four|CD months|NNS ago|RB and|CC not|RB much|RB above|IN the|DT £116|NN billion|NN forecast|NN in|IN june|NN 2010|CD when|WRB mr|NN osborne|NN delivered|VBD his|PRP$ first|JJ budget|NN </s>|S_END
+<s>|S_START but|CC the|DT squeeze|NN continue|NN </s>|S_END
+<s>|S_START fitch|NN affirmed|VBD britains|NNS aaa|NN credit|NN rating|NN on|IN march|NN 14th|CD but|CC said|VBD there|EX was|VBD a|DT chance|NN of|IN a|DT downgrade|NN in|IN the|DT next|JJ two|CD years|NNS if|IN public|JJ borrowing|NN is|VBZ higher|JJR than|IN expected|VBN </s>|S_END
+<s>|S_START in|IN november|NN the|DT office|NN for|IN budget|NN responsibility|NN obr|NN the|DT fiscal|JJ watchdog|NN estimated|VBD it|PRP will|MD take|VB until|IN 201617|CD two|CD years|NNS later|RBR than|IN had|VBD been|VBN hoped|VBN to|TO reach|VB mr|NN osbornes|NNS goal|NN of|IN eliminating|VBG the|DT “structural”|NN budget|NN deficit|NN ie|NN after|IN allowing|VBG for|IN the|DT influence|NN of|IN the|DT business|NN cycle|NN and|CC for|IN capital|NN spending|NN by|IN government|NN </s>|S_END
+<s>|S_START overall|JJ public|JJ borrowing|NN will|MD have|VB to|TO fall|VB from|IN around|IN 8|CD of|IN gdp|NN in|IN the|DT current|JJ fiscal|JJ year|NN to|TO a|DT little|RB over|IN 1|CD of|IN gdp|NN in|IN five|CD years|NNS time|NN to|TO hit|VB that|IN target|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB the|DT economy|NN holds|VBZ up|RP under|IN this|DT fiscal|JJ tightening|NN depends|NNS on|IN the|DT private|JJ sectors|NNS response|NN </s>|S_END
+<s>|S_START if|IN companies|NNS and|CC householders|NNS attempt|VBD to|TO save|VB hard|JJ even|RB as|IN the|DT state|NN tries|NNS to|TO borrow|VB less|JJR the|DT economy|NN will|MD falter|VB </s>|S_END
+<s>|S_START but|CC if|IN companies|NNS in|IN particular|JJ stop|NN hoarding|VBG cash|NN and|CC instead|RB use|VB it|PRP to|TO invest|VB and|CC hire|VB the|DT government|NN could|MD safely|RB cut|VB its|PRP$ borrowing|NN without|IN choking|NN recovery|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START private|JJ saving|NN is|VBZ unusually|RB high|JJ </s>|S_END
+<s>|S_START in|IN the|DT year|NN to|TO the|DT third|JJ quarter|NN of|IN 2011|CD the|DT latest|JJS period|NN for|IN which|WDT net|JJ borrowing|NN for|IN each|DT sector|NN is|VBZ available|JJ the|DT government|NN deficit|NN was|VBD just|RB below|IN 9|CD of|IN gdp|NN </s>|S_END
+<s>|S_START that|DT was|VBD balanced|VBN by|IN a|DT privatesector|NN savings|NNS surplus|VBZ of|IN around|IN 65|CD of|IN gdp|NN and|CC borrowing|VBG from|IN abroad|RB equal|JJ to|TO the|DT currentaccount|NN deficit|NN of|IN some|DT 25|CD of|IN gdp|NN </s>|S_END
+<s>|S_START part|NN of|IN this|DT higher|JJR saving|VBG is|VBZ natural|JJ and|CC desirable|JJ householders|NNS need|VBP to|TO put|VB a|DT bigger|JJR slice|NN of|IN income|NN aside|NN to|TO pay|VB off|RP the|DT debts|NNS racked|VBD up|RP during|IN the|DT long|JJ credit|NN boom|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB the|DT privatesector|NN savings|NNS glut|IN is|VBZ largely|RB down|IN to|TO companies|NNS which|WDT unlike|IN consumers|NNS had|VBD not|RB been|VBN spendthrifts|NNS during|IN the|DT boom|NN </s>|S_END
+<s>|S_START private|JJ nonbank|NN companies|NNS have|VBP for|IN years|NNS had|VBD money|NN left|VBN over|IN from|IN profits|NNS once|RB they|PRP had|VBD covered|VBN their|PRP$ interest|NN costs|NNS dividend|NN payments|NNS and|CC other|JJ outgoing|NN </s>|S_END
+<s>|S_START this|DT corporate|JJ surplus|NN recently|RB rose|VBD to|TO almost|RB 6|CD of|IN gdp|NN see|NN first|RB chart|NN </s>|S_END
+<s>|S_START each|DT quarters|NNS saving|VBG adds|NNS to|TO an|DT already|RB large|JJ stockpile|NN </s>|S_END
+<s>|S_START the|DT cash|NN held|VBD by|IN companies|NNS reached|VBN more|RBR than|IN £700|-NONE- billion|CD last|JJ year|NN </s>|S_END
+<s>|S_START the|DT corporate|JJ sectors|NNS net|JJ debt|NN its|PRP$ borrowings|NNS minus|CC its|PRP$ cash|NN pile|NN has|VBZ fallen|VBN sharply|RB as|IN a|DT result|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT consequence|NN is|VBZ clear|JJ </s>|S_END
+<s>|S_START business|NN investment|NN in|IN britain|NN is|VBZ now|RB weak|JJ compared|VBN with|IN countries|NNS like|IN america|NN see|VBP second|JJ chart|NN </s>|S_END
+<s>|S_START the|DT cause|NN of|IN the|DT investment|NN dearth|NN is|VBZ more|RBR of|IN a|DT puzzle|NN </s>|S_END
+<s>|S_START in|IN the|DT years|NNS before|IN the|DT financial|JJ crisis|NN it|PRP could|MD be|VB explained|VBN by|IN the|DT strength|NN of|IN the|DT pound|NN which|WDT boosted|VBN consumers|NNS spending|NN power|NN but|CC raised|VBD the|DT relative|JJ cost|NN of|IN producing|VBG in|IN britain|NN </s>|S_END
+<s>|S_START but|CC sterling|VBG has|VBZ settled|VBN around|IN 20|CD below|IN its|PRP$ precrisis|NN level|NN against|IN a|DT basket|NN of|IN other|JJ currencies|NNS making|VBG the|DT country|NN a|DT more|RBR costeffective|JJ place|NN to|TO invest|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START business|NN investment|NN has|VBZ been|VBN low|JJ relative|JJ not|RB just|RB to|TO profit|NN growth|NN but|CC also|RB to|TO demand|VB which|WDT itself|PRP has|VBZ been|VBN sluggish|JJ </s>|S_END
+<s>|S_START nor|CC is|VBZ it|PRP obvious|VBZ that|IN businesses|NNS have|VBP much|JJ excess|NN capacity|NN </s>|S_END
+<s>|S_START a|DT measure|NN of|IN industrial|JJ capacity|NN published|VBD by|IN the|DT cbi|NN an|DT employers|NNS group|NN is|VBZ close|RB to|TO its|PRP$ longrun|NN average|NN </s>|S_END
+<s>|S_START it|PRP seems|VBZ that|IN firms|NNS have|VBP been|VBN reluctant|JJ to|TO invest|VB mostly|RB out|IN of|IN anxiety|NN </s>|S_END
+<s>|S_START it|PRP makes|VBZ sense|NN for|IN them|PRP to|TO hold|VB a|DT cash|NN buffer|NN if|IN they|PRP have|VBP little|JJ faith|NN in|IN banks|NNS or|CC in|IN the|DT broader|JJR financial|JJ system|NN to|TO supply|RB cash|NN when|WRB they|PRP need|VBP it|PRP </s>|S_END
+<s>|S_START the|DT escalation|NN of|IN the|DT eurozone|NN crisis|NN in|IN the|DT autumn|NN made|VBD firms|NNS more|RBR cautiou|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT audacity|NN of|IN hope|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START growing|VBG confidence|NN about|IN the|DT world|NN economy|NN might|MD persuade|VB firms|NNS to|TO loosen|VB their|PRP$ pursestring|NN </s>|S_END
+<s>|S_START the|DT governments|NNS large|JJ budget|NN deficit|NN could|MD not|RB be|VB sustained|VBN indefinitely|RB the|DT same|JJ goes|NNS for|IN the|DT corporate|JJ savings|NNS glut|VBP </s>|S_END
+<s>|S_START at|IN some|DT point|NN firms|NNS will|MD feel|VB they|PRP have|VBP enough|RB of|IN a|DT cash|NN buffer|NN and|CC with|IN bankdeposit|NN rates|NNS so|RB low|JJ the|DT scales|NNS will|MD tip|VB from|IN saving|VBG to|TO spending|NN </s>|S_END
+<s>|S_START ome|NN of|IN the|DT money|NN will|MD probably|RB be|VB used|VBN to|TO buy|VB other|JJ companie|NN </s>|S_END
+<s>|S_START mergers|NNS and|CC acquisitions|NNS would|MD have|VB a|DT smaller|JJR impact|NN on|IN shortterm|NN gdp|NN growth|NN than|IN would|MD building|NN new|VB factories|NNS or|CC updating|VBG equipment—particularly|JJ if|IN firms|NNS use|VBP their|PRP$ savings|NNS to|TO build|VB a|DT presence|NN in|IN emerging|NN market|NN </s>|S_END
+<s>|S_START but|CC at|IN least|JJS the|DT city|NN would|MD benefit|VB from|IN the|DT advisory|NN fees|NNS and|CC the|DT legal|JJ work|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB there|RB are|VBP reasons|NNS to|TO be|VB hopeful|JJ that|IN britishbased|VBN companies|NNS will|MD spend|VB some|DT of|IN their|PRP$ spare|NN cash|NN at|IN home|NN not|RB least|JJS of|IN which|WDT is|VBZ a|DT more|RBR competitive|JJ currency|NN </s>|S_END
+<s>|S_START the|DT path|NN of|IN business|NN investment|NN has|VBZ been|VBN rather|RB similar|JJ in|IN the|DT past|JJ four|CD years|NNS to|TO the|DT one|CD it|PRP took|VBD in|IN the|DT first|JJ four|CD years|NNS of|IN the|DT 1990s|CD recession|NN says|VBZ geoffrey|NN dicks|NNS an|DT economist|NN who|WP helped|VBD set|VBN up|RP the|DT obr|NN </s>|S_END
+<s>|S_START in|IN the|DT following|JJ four|CD years|NNS business|NN investment|NN rose|VBD by|IN a|DT cumulative|JJ 57|CD </s>|S_END
+<s>|S_START a|DT repeat|NN would|MD give|VB the|DT economy|NN a|DT big|JJ lift|NN </s>|S_END
+<s>|S_START “we|JJ live|JJ in|IN hope”|JJ writes|NNS mr|VBP dicks|NNS now|RB of|IN novus|NNS capital|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT chancellor|NN has|VBZ not|RB been|VBN trusting|VBG only|RB to|TO hope|VB </s>|S_END
+<s>|S_START mr|NN osborne|NN lowered|VBD the|DT main|JJ corporatetax|NN rate|NN in|IN his|PRP$ first|JJ two|CD budgets|NNS paying|VBG for|IN that|DT in|IN part|NN with|IN less|JJR generous|JJ tax|NN relief|NN on|IN capital|NN spending|NN </s>|S_END
+<s>|S_START in|IN principle|NN this|DT helps|NNS to|TO attract|VB the|DT sort|NN of|IN surefire|NN profitable|JJ investment|NN projects|NNS that|WDT might|MD be|VB located|VBN anywhere|RB </s>|S_END
+<s>|S_START biggish|JJ and|CC internationally|RB mobile|JJ firms|NNS have|VBP the|DT wherewithal|JJ to|TO spend|VB </s>|S_END
+<s>|S_START with|IN consumers|NNS and|CC the|DT government|NN struggling|VBG to|TO contain|VB their|PRP$ debts|NNS corporate|JJ investment|NN offers|NNS the|DT best|JJS hope|NN for|IN a|DT sustained|VBN recovery|NN </s>|S_END
+</p>|P_END
+

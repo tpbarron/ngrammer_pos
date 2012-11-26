@@ -1,0 +1,113 @@
+<p>|P_START
+<s>|S_START a|DT staffer|NN at|IN a|DT federal|JJ agency|NN says|VBZ he|PRP is|VBZ often|RB asked|VBN how|WRB many|JJ entities|NNS investigate|VBP and|CC prosecute|NN financial|JJ firms|NNS in|IN america|NN </s>|S_END
+<s>|S_START the|DT only|JJ short|JJ answer|NN he|PRP can|MD give|VB is|VBZ “a|NNP lot”|NNP </s>|S_END
+<s>|S_START here’s|NNS a|DT longer|NN one|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN entities|NNS are|VBP obvious|JJ the|DT securities|NNS and|CC exchange|NN commission|NN sec|NN the|DT commodity|NN futures|NNS trading|NN commission|NN cftc|NN the|DT office|NN of|IN the|DT comptroller|NN of|IN the|DT currency|NN the|DT federal|JJ deposit|NN insurance|NN corporation|NN and|CC the|DT department|NN of|IN justice|NN doj|NN </s>|S_END
+<s>|S_START others|NNS are|VBP less|JJR well|RB known|VBN the|DT office|NN of|IN foreign|JJ assets|NNS control|NN and|CC the|DT financial|JJ crimes|NNS enforcement|NN network|NN are|VBP both|DT part|NN of|IN the|DT treasury|NN for|IN example|NN </s>|S_END
+<s>|S_START the|DT federal|JJ reserve|NN has|VBZ gained|VBN new|JJ powers|NNS and|CC responsibilities|NNS under|IN the|DT doddfrank|NN act|NN it|PRP is|VBZ also|RB obliged|VBN to|TO pour|PRP$ money|NN into|IN the|DT newly|RB created|VBN consumer|NN financial|JJ protection|NN bureau|NN </s>|S_END
+<s>|S_START the|DT federal|JJ housing|NN finance|NN agency|NN has|VBZ filed|VBN lawsuits|NNS against|IN banks|NNS for|IN allegedly|RB selling|VBG risky|NN home|NN loans|NNS to|TO fannie|VB mae|NN and|CC freddie|VB mac|NN without|IN proper|NN disclosure|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START other|JJ departments|NNS with|IN nominally|RB different|JJ patches|NNS participate|VBP in|IN prosecutions|NNS too|RB </s>|S_END
+<s>|S_START the|DT department|NN of|IN housing|NN and|CC urban|NN development|NN for|IN example|NN had|VBD a|DT hand|NN in|IN a|DT $|$ 25|CD billion|CD mortgage|NN settlement|NN struck|NN with|IN big|JJ banks|NNS earlier|RBR this|DT year|NN </s>|S_END
+<s>|S_START the|DT federal|JJ trade|NN commission|NN is|VBZ explicitly|RB blocked|VBN from|IN regulating|VBG banking|NN but|CC it|PRP too|RB has|VBZ been|VBN involved|VBN with|IN litigation|NN concerning|VBG the|DT servicing|NN of|IN loan|NN </s>|S_END
+<s>|S_START pensions|NNS are|VBP regulated|VBN by|IN the|DT department|NN of|IN labour|PRP$ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ of|IN these|DT entities|NNS have|VBP subdepartments|NNS that|IN act|NN independently|RB of|IN each|DT other|JJ </s>|S_END
+<s>|S_START one|CD bank|NN in|IN the|DT recent|JJ past|NN found|VBD itself|PRP under|IN investigation|NN by|IN three|CD separate|JJ offices|NNS of|IN the|DT sec|NN there|RB are|VBP a|DT dozen|NN </s>|S_END
+<s>|S_START the|DT doj|NN often|RB works|VBZ through|IN its|PRP$ 93|CD regional|JJ office|NN </s>|S_END
+<s>|S_START historically|RB financial|JJ wrongdoing|NN was|VBD prosecuted|VBN out|RP of|IN the|DT southern|NN district|NN of|IN new|JJ york|NN which|WDT this|DT week|NN sued|VBD san|NN franciscobased|VBN wells|NNS fargo|IN for|IN allegedly|RB “reckless”|JJ lending|VBG practices|NNS among|IN other|JJ thing|NN </s>|S_END
+<s>|S_START but|CC other|JJ attorneys|NNS have|VBP elbowed|VBN into|IN this|DT patch|NN as|IN has|VBZ headquarters|NNS which|WDT has|VBZ created|VBN a|DT unit|NN for|IN financial|JJ crimes|NNS in|IN washington|NN dc|NN </s>|S_END
+<s>|S_START any|DT of|IN these|DT units|NNS can|MD start|VB its|PRP$ own|JJ inquiries|NNS as|IN can|MD congress|NN itself—witness|NN its|PRP$ recent|JJ probe|NN of|IN hsbc’s|JJ involvement|NN in|IN processing|NN illicit|NN iranian|NN and|CC mexican|JJ payment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START beyond|IN all|DT these|DT are|VBP parallel|JJ departments|NNS in|IN state|NN governments|NNS each|DT of|IN which|WDT has|VBZ an|DT attorneygeneral|JJ cynically|RB referred|VBN to|TO as|RB “almost|JJ governors”|NN </s>|S_END
+<s>|S_START their|PRP$ statewide|JJ jurisdiction|NN overlaps|NNS with|IN district|NN attorneys|NNS who|WP are|VBP elected|VBN locally|RB and|CC are|VBP in|IN no|DT short|JJ supply—62|-NONE- in|IN new|JJ york|NN state|NN 58|CD in|IN california|NN and|CC on|IN and|CC on—as|JJ well|RB as|IN with|IN various|JJ departments|NNS in|IN each|DT state|NN devoted|VBN to|TO the|DT regulation|NN of|IN banking|NN securities|NNS and|CC insurance|NN </s>|S_END
+<s>|S_START tandard|NN chartered’s|NNS recent|JJ $|$ 340m|CD settlement|NN over|IN allegations|NNS of|IN evading|VBG iranian|JJ sanctions|NNS for|IN example|NN was|VBD with|IN the|DT new|JJ york|NN department|NN of|IN financial|JJ services|NNS df|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC behind|IN them|PRP of|IN course|NN are|VBP private|JJ armies|NNS of|IN lawyers|NNS ready|RB to|TO march|VB wherever|RB there|RB is|VBZ money|NN </s>|S_END
+<s>|S_START during|IN fiscal|JJ year|NN 2011|CD the|DT sec|NN collected|VBD $|$ 414m|CD in|IN fines|NNS from|IN large|JJ financial|JJ institutions|NNS in|IN america|NN according|VBG to|TO nera|VB an|DT economic|JJ consultancy|NN settlements|NNS in|IN classaction|NN lawsuits|NNS reached|VBD $|$ 15|CD billion|CD during|IN the|DT 2011|CD calendar|NN year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT upshot|NN is|VBZ a|DT deluge|NN of|IN paperwork|NN </s>|S_END
+<s>|S_START if|IN banks|NNS once|RB did|VBD banking|NN now|RB they|PRP practise|VBP law|NN </s>|S_END
+<s>|S_START wells|NNS fargo|VBP has|VBZ lower|JJR legal|JJ costs|NNS than|IN many|JJ of|IN its|PRP$ rivals|NNS see|VBP chart|NN but|CC still|RB receives|VBZ around|IN 300|CD state|NN federal|JJ and|CC grandjury|NN subpoenas|NNS a|DT week|NN on|IN average|JJ </s>|S_END
+<s>|S_START ome|NN are|VBP against|IN the|DT bank|NN itself|PRP though|IN many|JJ are|VBP legal|JJ orders|NNS pertaining|VBG to|TO the|DT suspected|VBN crimes|NNS of|IN other|JJ </s>|S_END
+<s>|S_START the|DT bank|NN gets|VBZ so|RB many|JJ legal|JJ orders—5000|-NONE- a|DT week|NN in|IN total—that|JJ it|PRP has|VBZ two|CD centres|NNS that|WDT work|NN fulltime|VBP on|IN processing|NN them|PRP one|CD on|IN the|DT west|NN coast|NN one|CD on|IN the|DT east|JJ </s>|S_END
+<s>|S_START a|DT specific|JJ group|NN works|NNS on|IN prioritising|VBG the|DT bank’s|JJ response|NN to|TO subpoenas|NNS a|DT weekly|JJ call|NN involving|VBG 2530|CD of|IN the|DT more|RBR senior|JJ people|NNS in|IN the|DT compliance|NN division|NN is|VBZ designed|VBN to|TO iron|VB out|RP problems|NNS that|WDT arise|VBP from|IN all|DT these|DT request|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START given|VBN what|WP went|NN on|IN during|IN the|DT crisis|NN it|PRP is|VBZ no|DT surprise|NN that|IN there|EX is|VBZ lots|NNS of|IN litigation|NN </s>|S_END
+<s>|S_START but|CC financial|JJ institutions|NNS can|MD be|VB hit|VBN from|IN multiple|JJ directions|NNS at|IN once|RB </s>|S_END
+<s>|S_START investigations|NNS into|IN allegations|NNS of|IN libor|NN ratefixing|VBG for|IN instance|NN already|RB involve|VB the|DT cftc|NN the|DT doj|NN state|NN attorneygenerals|NNS from|IN connecticut|NN new|JJ york|NN massachusetts|NNS florida|NN north|NN carolina|NN and|CC maryland|NN and|CC at|IN least|JJS 30|CD serious|JJ civil|NN litigant|NN </s>|S_END
+<s>|S_START a|DT reported|VBN investigation|NN by|IN eric|JJ schneiderman|NN new|JJ york|NN state’s|NNS attorneygeneral|JJ into|IN tax|NN strategies|NNS on|IN the|DT part|NN of|IN privateequity|NN funds|NNS could|MD easily|RB also|RB fall|VBP into|IN the|DT purview|NN of|IN the|DT internal|JJ revenue|NN service|NN and|CC the|DT sec|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT cast|VBN list|NN this|DT varied|JJ requires|NNS coordination|NN </s>|S_END
+<s>|S_START there|EX is|VBZ a|DT history|NN of|IN different|JJ government|NN entities|NNS working|VBG together|RB to|TO prosecute|VB crime|NN </s>|S_END
+<s>|S_START ome|NN of|IN this|DT cooperation|NN is|VBZ practical|JJ it|PRP also|RB reflects|VBZ the|DT legal|JJ principle|NN of|IN “comity”|NNP a|DT type|NN of|IN reciprocity|NN that|IN results|NNS in|IN one|CD legal|JJ jurisdiction|NN voluntarily|RB deferring|VBG to|TO another|DT </s>|S_END
+<s>|S_START ince|NN the|DT sec|NN is|VBZ limited|VBN to|TO civil|VB charges|NNS it|PRP often|RB refers|VBZ cases|NNS to|TO the|DT doj|NN </s>|S_END
+<s>|S_START investigations|NNS into|IN terrorist|NN finance|NN sanction|NN evasion|NN and|CC moneylaundering|VBG have|VBP traditionally|RB been|VBN in|IN the|DT remit|NN of|IN the|DT manhattan|NN district|NN attorney|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC as|IN the|DT standard|JJ chartered|VBN case|NN showed|VBD when|WRB the|DT dfs|NNS brought|VBD its|PRP$ charges|NNS unilaterally|RB and|CC secured|VBD a|DT rapid|JJ settlement|NN with|IN the|DT bank|NN coordination|NN between|IN agencies|NNS is|VBZ not|RB guaranteed|VBN </s>|S_END
+<s>|S_START indeed|RB the|DT dfs’s|NNS success|NN in|IN collecting|NN $|$ 340m|CD may|MD sharpen|VB the|DT incentives|NNS to|TO “prosecute|JJ by|IN press|NN release”|-NONE- if|IN only|RB because|IN the|DT rewards|NNS for|IN being|VBG the|DT first|JJ to|TO file|VB can|MD be|VB so|RB great|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT settlement|NN with|IN one|CD regulator|NN moreover|RB does|VBZ not|RB mean|VB settlement|NN with|IN them|PRP all|DT </s>|S_END
+<s>|S_START in|IN theory|NN american|NN law|NN discourages|NNS double|JJ jeopardy—being|JJ prosecuted|VBN twice|NN for|IN the|DT same|JJ crime|NN </s>|S_END
+<s>|S_START but|CC in|IN practice|NN this|DT does|VBZ not|RB apply|RB to|TO civil|VB cases|NNS or|CC to|TO cases|NNS prosecuted|VBN in|IN different|JJ systems|NNS ie|VBP federal|JJ or|CC state—a|NNP distinction|NN often|RB misunderstood|NN says|VBZ david|JJ aufhauser|NN an|DT attorney|NN with|IN williams|NNS and|CC connolly|RB and|CC a|DT former|JJ treasury|NN official|NN </s>|S_END
+<s>|S_START tandard|NN chartered|VBD is|VBZ still|RB being|VBG investigated|VBN by|IN state|NN and|CC federal|JJ agencies|NNS over|IN its|PRP$ iranian|JJ payment|NN </s>|S_END
+<s>|S_START many|JJ banks|NNS involved|VBN in|IN the|DT mortgage|NN settlement|NN in|IN february|JJ with|IN an|DT array|NN of|IN federal|JJ departments|NNS and|CC state|NN attorneygenerals|NNS are|VBP still|RB enmeshed|VBN in|IN litigation|NN california’s|NNS new|JJ “homeowner|NN bill|NN of|IN rights”|NNP has|VBZ created|VBN the|DT opportunity|NN for|IN more|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unsettled|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB eliot|VBD spitzer|NN was|VBD new|JJ york’s|NNS attorneygeneral|JJ he|PRP justified|VBD this|DT prosecutorial|JJ marketplace|NN by|IN arguing|NN that|IN it|PRP lit|VBD a|DT fire|NN underneath|NN dozy|NN regulator|NN </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ hard|RB to|TO argue|VB that|IN the|DT current|JJ setup|NN serves|NNS justice|NN </s>|S_END
+<s>|S_START ince|NN an|DT indictment|NN against|IN a|DT financial|JJ institution|NN can|MD lead|VB to|TO a|DT suspension|NN of|IN its|PRP$ licence|NN and|CC open|JJ the|DT door|NN to|TO private|JJ litigation|NN firms|NNS often|RB choose|VBP to|TO settle|VB when|WRB an|DT investigation|NN is|VBZ launched|VBN </s>|S_END
+<s>|S_START according|VBG to|TO nera|VB in|IN the|DT course|NN of|IN fiscal|JJ year|NN 2011|CD and|CC the|DT first|JJ half|DT of|IN fiscal|JJ year|NN 2012|CD the|DT sec|NN reached|VBD 13|CD settlements|NNS of|IN $|$ 5m|CD or|CC more|JJR with|IN big|JJ financial|JJ firm|NN </s>|S_END
+<s>|S_START all|DT were|VBD announced|VBN on|IN the|DT same|JJ day|NN the|DT sec|NN filed|VBD its|PRP$ complaint|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT settlement|NN often|RB suits|VBZ the|DT authorities|NNS as|IN well|RB as|IN the|DT bank|NN </s>|S_END
+<s>|S_START fines|NNS are|VBP frequently|RB used|VBN to|TO fund|VB government|NN budgets|NNS and|CC many|JJ a|DT political|JJ career|NN has|VBZ been|VBN launched|VBN on|IN the|DT back|NN of|IN a|DT highprofile|JJ deal|NN without|IN the|DT need|NN to|TO prove|VB allegations|NNS in|IN court|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT cosy|NN alignment|NN of|IN incentives|NNS worries|NNS some|DT </s>|S_END
+<s>|S_START if|IN an|DT institution|NN has|VBZ committed|VBN an|DT offence|NN a|DT settlement|NN mitigates|VBZ the|DT risks|NNS of|IN harsher|JJR penaltie|NN </s>|S_END
+<s>|S_START if|IN it|PRP has|VBZ not|RB done|VBN anything|NN wrong|IN shareholders|NNS are|VBP paying|VBG up|RP to|TO get|VB prosecutors|NNS off|IN their|PRP$ back|NN </s>|S_END
+<s>|S_START oklahoma’s|NNS attorneygeneral|VBP scott|NN pruitt|NN was|VBD the|DT only|JJ one|CD of|IN his|PRP$ colleagues|NNS not|RB to|TO participate|VB in|IN the|DT national|JJ mortgage|NN settlement|NN earlier|RBR this|DT year|NN </s>|S_END
+<s>|S_START mr|NN pruitt|VBD said|VBN it|PRP had|VBD nothing|VBG to|TO do|VB with|IN genuine|JJ fairness|NN or|CC justice|NN rewarded|VBD bad|JJ behaviour|NN and|CC reflected|VBD an|DT illicit|NN expansion|NN of|IN regulatory|JJ power|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT courts|NNS themselves|PRP have|VBP also|RB voiced|VBN concern—particularly|JJ about|IN how|WRB cases|NNS are|VBP settled|VBN through|IN backroom|NN negotiation|NN </s>|S_END
+<s>|S_START “an|JJ application|NN of|IN judicial|JJ power|NN that|WDT does|VBZ not|RB rest|VB on|IN facts|NNS is|VBZ worse|JJR than|IN mindless|NN it|PRP is|VBZ inherently|RB dangerous”|JJ wrote|NN judge|NN jed|VBD rakoff|NN in|IN response|NN to|TO a|DT settlement|NN by|IN citigroup|NN with|IN the|DT sec|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO cope|VB with|IN the|DT deluge|NN of|IN litigation|NN banks|NNS are|VBP falling|VBG over|IN themselves|NNS to|TO hire|VB exregulators|NNS feeding|VBG the|DT idea|NN that|IN the|DT law|NN is|VBZ too|RB chaotic|JJ to|TO be|VB understood|VBN by|IN anyone|NN outside|IN the|DT system|NN </s>|S_END
+<s>|S_START financial|JJ firms|NNS should|MD of|IN course|NN be|VB held|VBN to|TO account|NN when|WRB they|PRP do|VBP wrong|JJ </s>|S_END
+<s>|S_START but|CC there|EX must|MD be|VB a|DT better|JJR way|NN </s>|S_END
+</p>|P_END
+

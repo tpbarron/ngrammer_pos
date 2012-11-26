@@ -1,0 +1,75 @@
+<p>|P_START
+<s>|S_START it|PRP is|VBZ supposed|VBN to|TO be|VB constructed|VBN using|VBG banks|NNS own|JJ honest|NN estimates|NNS of|IN what|WP it|PRP costs|VBZ for|IN them|PRP to|TO borrow|VB money|NN </s>|S_END
+<s>|S_START but|CC regulators|NNS around|IN the|DT world|NN suspect|NN that|WDT libor|NN the|DT london|NN interbank|NN offered|VBD rate|NN a|DT financial|JJ benchmark|NN that|WDT is|VBZ set|VBN every|DT day|NN by|IN collating|NN these|DT estimates|NNS has|VBZ been|VBN subject|JJ to|TO manipulation|NN </s>|S_END
+<s>|S_START little|RB information|NN has|VBZ been|VBN publicly|RB released|VBN by|IN the|DT regulators|NNS that|WDT are|VBP investigating|VBG </s>|S_END
+<s>|S_START but|CC canadian|JJ and|CC american|JJ legal|JJ documents|NNS seen|VBN by|IN the|DT economist|NN paint|NN a|DT picture|NN of|IN what|WP is|VBZ alleged|VBN </s>|S_END
+<s>|S_START it|PRP is|VBZ not|RB pretty|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uspicions|NNS that|IN something|NN was|VBD wrong|JJ with|IN libor|NN were|VBD aroused|VBN in|IN 2008|CD when|WRB financial|JJ risks|NNS began|VBD to|TO pick|VB up|RP but|CC the|DT benchmark|NN which|WDT ought|MD to|TO have|VB ticked|VBN upwards|NNS too|RB did|VBD not|RB move|VB </s>|S_END
+<s>|S_START that|DT same|JJ year|NN a|DT group|NN of|IN american|JJ academics|NNS circulated|VBN a|DT paper|NN showing|VBG that|IN banks|NNS individual|JJ estimates|NNS of|IN their|PRP$ borrowing|NN costs|NNS were|VBD surprisingly|RB close|JJ given|VBN their|PRP$ different|JJ levels|NNS of|IN risk|NN </s>|S_END
+<s>|S_START that|DT suggested|VBD something|NN fishy|NN but|CC was|VBD not|RB conclusive|JJ proof|NN according|VBG to|TO rosa|VB abrantesmetz|NN of|IN new|JJ york|NN university|NN stern|NN school|NN of|IN business|NN one|CD of|IN the|DT papers|NNS author|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT case|NN brought|VBN by|IN the|DT canadian|JJ competition|NN bureau|NN provides|VBZ harder|NN evidence|NN that|IN some|DT banks|NNS submissions|NNS were|VBD being|VBG manipulated|VBN </s>|S_END
+<s>|S_START the|DT court|NN documents|NNS suggest|VBP that|IN a|DT group|NN of|IN traders|NNS regularly|RB contacted|VBN one|CD another|DT to|TO discuss|VB how|WRB to|TO influence|NN the|DT yen|NN libor|NN rate|NN </s>|S_END
+<s>|S_START if|IN true|JJ that|IN would|MD have|VB breached|VBN two|CD principle|NNS </s>|S_END
+<s>|S_START one|CD is|VBZ that|IN traders|NNS from|IN different|JJ banks|NNS should|MD not|RB be|VB aligning|VBG their|PRP$ positions|NNS in|IN this|DT way|NN </s>|S_END
+<s>|S_START the|DT other|JJ is|VBZ that|IN traders|NNS are|VBP supposed|VBN to|TO be|VB separated|VBN from|IN staff|NN within|IN the|DT same|JJ bank|NN who|WP estimate|NN libor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT case|NN filing|NN summarises|NNS messages|NNS sent|VBN by|IN “trader|JJ a”|NN an|DT employee|NN of|IN an|DT unnamed|VBN whistleblowing|VBG bank|NN </s>|S_END
+<s>|S_START many|JJ institutions|NNS are|VBP implicated|VBN in|IN the|DT document|NN but|CC the|DT following|VBG excerpt|NN cites|NNS rbs|VBZ to|TO show|VB how|WRB the|DT alleged|JJ scheme|NN worked|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rbs|NNS says|VBZ that|IN it|PRP has|VBZ “legal|JJ and|CC factual|JJ defences”|NN against|IN such|JJ claim|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT canadian|JJ case|NN opens|NNS a|DT window|NN into|IN how|WRB libor|JJ manipulation|NN may|MD have|VB happened|VBN </s>|S_END
+<s>|S_START civil|NN cases|NNS brought|VBD by|IN banks|NNS customers|NNS in|IN america|NN suggest|NN who|WP might|MD have|VB suffered|VBN if|IN the|DT rate|NN was|VBD being|VBG gamed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT cases|NNS can|MD be|VB grouped|VBN into|IN four|CD types|NNS according|VBG to|TO bill|NN butterfield|NN and|CC anthony|NN maton|NN of|IN hausfeld|NN a|DT law|NN firm|NN </s>|S_END
+<s>|S_START first|JJ there|EX are|VBP large|JJ individual|JJ investment|NN firms|NNS seeking|VBG damages|NNS on|IN their|PRP$ own|JJ </s>|S_END
+<s>|S_START the|DT other|JJ three|CD types|NNS of|IN case|NN are|VBP brought|VBN by|IN customers|NNS acting|VBG as|IN group|NN </s>|S_END
+<s>|S_START one|CD group|NN includes|VBZ traders|NNS who|WP were|VBD on|IN the|DT wrong|JJ side|NN of|IN libor|NN bet|NN </s>|S_END
+<s>|S_START a|DT second|JJ group|NN includes|VBZ investors|NNS in|IN large|JJ companies|NNS liborlinked|VBN debt|NN who|WP may|MD have|VB lost|VBN out|RP on|IN interest|NN payments|NNS if|IN libor|NN was|VBD set|VBN too|RB low|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT final|JJ group|NN is|VBZ made|VBN up|RP of|IN customers|NNS that|WDT bought|VBD interestrate|VBP swaps|NNS from|IN bank|NN </s>|S_END
+<s>|S_START this|DT group|NN includes|VBZ the|DT city|NN of|IN baltimore|NN which|WDT is|VBZ represented|VBN by|IN hausfeld|NN and|CC whose|WP$ case|NN is|VBZ especially|RB revealing|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START american|NN cities|NNS borrow|VBP to|TO finance|VB the|DT construction|NN of|IN largescale|JJ public|JJ works|NNS like|IN roads|NNS and|CC sewerage|NN system|NN </s>|S_END
+<s>|S_START they|PRP can|MD borrow|VB most|RBS cheaply|RB at|IN floating|VBG rates|NNS but|CC this|DT option|NN lacks|VBZ the|DT stability|NN that|IN fixedrate|NN borrowing|VBG give|JJ </s>|S_END
+<s>|S_START waps|NNS can|MD help|VB them|PRP get|VB the|DT best|JJS of|IN both|DT world|NN </s>|S_END
+<s>|S_START the|DT city|NN first|RB borrows|VBZ at|IN a|DT low|JJ floating|NN rate|NN </s>|S_END
+<s>|S_START it|PRP then|RB buys|VBZ an|DT interestrate|NN swap|NN from|IN a|DT bank|NN </s>|S_END
+<s>|S_START under|IN the|DT swap|NN deal|NN it|PRP receives|VBZ a|DT libor|NN floating|VBG rate|NN which|WDT cancels|NNS out|IN the|DT payments|NNS it|PRP must|MD make|VB to|TO investors|NNS in|IN its|PRP$ debt|NN </s>|S_END
+<s>|S_START in|IN exchange|NN the|DT city|NN pays|VBZ the|DT bank|NN a|DT fixed|VBN rate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START baltimore|IN entered|VBN into|IN over|IN $|$ 100m|CD in|IN interestrate|JJ swaps|NNS according|VBG to|TO case|VB document|NN </s>|S_END
+<s>|S_START lower|JJR liborlinked|VBN payments|NNS to|TO the|DT city|NN would|MD have|VB meant|JJ less|JJR money|NN to|TO cover|VB the|DT outgoing|NN fixedrate|NN payment|NN </s>|S_END
+<s>|S_START if|IN libor|NN was|VBD artificially|RB suppressed|VBN the|DT city|NN would|MD have|VB been|VBN losing|VBG millions|NNS annually|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT case|NN is|VBZ upheld|VBN damages|NNS could|MD be|VB big|JJ </s>|S_END
+<s>|S_START the|DT american|NN cases|NNS are|VBP being|VBG pursued|VBN under|IN “class|JJ action”|NN litigation|NN </s>|S_END
+<s>|S_START this|DT means|VBZ that|IN if|IN baltimores|NNS case|VBP is|VBZ upheld|VBN other|JJ cities|NNS sold|VBD the|DT same|JJ products|NNS will|MD also|RB be|VB able|JJ to|TO claim|VB damage|NN </s>|S_END
+<s>|S_START across|IN america|NN 40|CD states|NNS allow|VBP municipalities|NNS to|TO enter|VB into|IN swap|NN agreement|NN </s>|S_END
+<s>|S_START the|DT total|NN estimated|VBD amount|NN in|IN 2010|CD was|VBD $|$ 250|CD billion500|CD billion|CD according|VBG to|TO an|DT imf|NN paper|NN </s>|S_END
+<s>|S_START whats|NNS more|JJR cases|NNS are|VBP being|VBG brought|VBN under|IN the|DT sherman|NN act|NN americas|VBZ antitrust|JJ law|NN which|WDT allows|VBZ for|IN triple|NN damage|NN </s>|S_END
+<s>|S_START assume|NN the|DT worst|JJS and|CC damages|NNS for|IN american|JJ cities|NNS alone|RB could|MD go|VB as|RB high|JJ as|IN $|$ 40|CD billion|CD </s>|S_END
+</p>|P_END
+

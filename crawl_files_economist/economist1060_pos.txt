@@ -1,0 +1,66 @@
+<p>|P_START
+<s>|S_START one|CD of|IN the|DT crucial|JJ transitions|NNS of|IN modern|JJ health|NN care|NN was|VBD from|IN herbal|JJ to|TO chemical|JJ medicine|NN </s>|S_END
+<s>|S_START doctors|NNS had|VBD known|VBN for|IN millennia|NN that|WDT willow|IN bark|NN and|CC poppy|NN sap|NN relieve|NN pain|NN </s>|S_END
+<s>|S_START but|CC it|PRP was|VBD not|RB until|IN the|DT late|JJ 19th|CD century|NN when|WRB felix|NN hoffman|NN synthesised|VBD versions|NNS of|IN their|PRP$ active|JJ ingredients|NNS namely|RB acetylsalicylic|JJ acid|NN and|CC diamorphine|NN or|CC aspirin|NN and|CC heroin|NN as|IN they|PRP are|VBP more|RBR commonly|RB known|VBN that|IN proper|NN pharmaceutical|JJ science|NN got|VBD going|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START just|RB possibly|RB something|NN similar|JJ is|VBZ happening|VBG now|RB </s>|S_END
+<s>|S_START the|DT past|JJ few|JJ years|NNS have|VBP shown|VBN that|IN having|VBG good|JJ relations|NNS with|IN the|DT 100|CD trillion|NN bacteria|NN which|WDT inhabit|NN the|DT gut|NN is|VBZ essential|JJ to|TO human|JJ health|NN </s>|S_END
+<s>|S_START if|IN relations|NNS break|VBP down|IN hostile|NN bacteria|NN may|MD invade|VB and|CC previously|RB friendly|RB ones|NNS may|MD turn|VB hostile|NN </s>|S_END
+<s>|S_START when|WRB things|NNS do|VBP go|RB wrong|JJ though|IN doses|NNS of|IN corrective|JJ bacteria|NN can|MD make|VB a|DT difference|NN </s>|S_END
+<s>|S_START these|DT may|MD be|VB administered|VBN orally|RB in|IN foodstuffs|NNS such|JJ as|IN yogurt|NN or|CC and|CC those|DT of|IN a|DT nervous|JJ disposition|NN should|MD look|VB away|RB now|RB anally|RB via|IN transplants|NNS of|IN faeces|NNS from|IN healthy|JJ people|NNS </s>|S_END
+<s>|S_START ome|NN doctors|NNS however|RB see|VB these|DT approaches|NNS as|IN the|DT equivalent|NN of|IN decoctions|NNS of|IN willow|JJ bark|NN and|CC tinctures|NNS of|IN opium|NN </s>|S_END
+<s>|S_START they|PRP would|MD like|VB to|TO put|VB the|DT whole|JJ idea|NN on|IN a|DT more|RBR scientific|JJ footing|NN and|CC two|CD groups|NNS of|IN them|PRP have|VBP just|RB published|VBN papers|NNS that|IN are|VBP steps|NNS on|IN the|DT road|NN to|TO doing|VBG so|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START trevor|NN lawley|NN and|CC his|PRP$ colleagues|NNS at|IN the|DT wellcome|NN trust|NN sanger|NN institute|NN near|IN cambridge|NN hope|NN to|TO replace|VB faecal|JJ transplants|NNS as|IN a|DT way|NN of|IN dealing|VBG with|IN a|DT bug|NN called|VBN clostridium|NN difficile|IN </s>|S_END
+<s>|S_START this|DT is|VBZ a|DT particular|JJ scourge|NN of|IN those|DT being|VBG treated|VBN in|IN hospital|NN with|IN oral|JJ antibiotics|NNS that|WDT as|IN a|DT sideeffect|NN kill|NN many|JJ gut|NN microbes|NNS and|CC thus|RB let|VB c|NN difficile|NN run|VBN wild|NN </s>|S_END
+<s>|S_START faecal|JJ transplants|NNS are|VBP effective|JJ but|CC dr|NN lawley|NN wanted|VBD both|DT to|TO understand|VB why|WRB they|PRP work|VBP and|CC to|TO see|VB if|IN a|DT more|RBR tailored|VBN version|NN of|IN the|DT treatment|NN might|MD be|VB possible|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP found|VBD that|IN in|IN mice|NN at|IN least|JJS it|PRP i|PRP </s>|S_END
+<s>|S_START he|PRP cultured|VBD the|DT faecal|JJ bacteria|NN of|IN healthy|JJ mice|NN and|CC tried|VBD various|JJ combinations|NNS of|IN them|PRP on|IN animals|NNS infected|VBN with|IN c|NN difficile|IN </s>|S_END
+<s>|S_START as|IN he|PRP reports|VBZ in|IN the|DT public|NN library|NN of|IN science|NN one|CD combination|NN of|IN six|CD species|NNS three|CD previously|RB unknown|JJ to|TO science|NN worked|VBD almost|RB perfectly—and|JJ just|RB as|IN well|RB as|IN transplanting|VBG homogenised|VBN faece|NN </s>|S_END
+<s>|S_START moreover|RB it|PRP was|VBD not|RB simply|RB a|DT case|NN of|IN these|DT species|NNS being|VBG the|DT main|JJ missing|NN bacteria|NN in|IN the|DT guts|NNS of|IN the|DT infected|VBN animal|JJ </s>|S_END
+<s>|S_START the|DT cocktail|NN also|RB stimulated|VBN the|DT growth|NN of|IN other|JJ species|NNS that|IN c|NN difficile|NN was|VBD suppressing|VBG </s>|S_END
+<s>|S_START if|IN something|NN similar|JJ works|NNS in|IN people|NNS then|RB the|DT scourge|NN of|IN hospitaltransmitted|VBN c|NN difficile|IN infection|NN which|WDT kills|NNS 14000|CD people|NNS a|DT year|NN in|IN america|NN alone|RB might|MD be|VB eliminated|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START elastic|JJ response|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN lawley’s|NNS treatment|NN does|VBZ however|RB still|RB use|VB natural|JJ bacteria|NN </s>|S_END
+<s>|S_START nathalie|NN vergnolle|NN of|IN france’s|JJ national|JJ institute|NN of|IN health|NN and|CC medical|JJ research|NN wants|NNS to|TO go|VB a|DT stage|NN further|RB </s>|S_END
+<s>|S_START her|PRP$ putative|JJ therapy|NN for|IN inflammatory|NN bowel|NN disease|NN which|WDT she|PRP and|CC her|PRP$ team|NN describe|NN in|IN science|NN translational|JJ medicine|NN employs|NNS bugs|NNS that|WDT have|VBP been|VBN genetically|RB engineered|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ evidence|NN that|IN treating|VBG bowel|NN inflammation|NN which|WDT can|MD result|VB in|IN things|NNS like|IN crohn’s|NNS disease|VBP and|CC ulcerative|JJ colitis|NNS with|IN bacteria|NNS such|JJ as|IN lactococcus|NN lactis|NNS and|CC lactobacillus|VBZ casei|NN helps|NNS ease|VBP symptom|NN </s>|S_END
+<s>|S_START these|DT bacteria|NN are|VBP found|VBN in|IN dairy|NN products|NNS like|IN yogurt|NN which|WDT is|VBZ the|DT basis|NN of|IN claims|NNS that|WDT eating|VBG yogurt|NN is|VBZ good|JJ for|IN your|PRP$ gut|NN </s>|S_END
+<s>|S_START but|CC dr|PRP$ vergnolle|NN reckons|NNS they|PRP could|MD be|VB tweaked|VBN to|TO work|VB better|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD cause|NN of|IN inflammation|NN is|VBZ the|DT activity|NN of|IN an|DT enzyme|NN called|VBN elastase|NN </s>|S_END
+<s>|S_START this|DT as|IN its|PRP$ name|NN suggests|VBZ degrades|NNS proteins|NNS that|WDT make|VBP the|DT gut|NN wall|NN elastic|JJ </s>|S_END
+<s>|S_START inflammation|NN reduces|NNS the|DT abundance|NN of|IN another|DT protein|NN elafin|NN which|WDT inhibits|NNS elastase’s|-NONE- action|NN </s>|S_END
+<s>|S_START dr|NN vergnolle|NN therefore|RB equipped|VBD both|DT lactococcus|NN lactis|VBZ and|CC lactobacillus|RB casei|VB with|IN the|DT gene|NN that|IN encodes|NNS elafin|VBP and|CC let|VB the|DT bugs|NNS loose|VBP on|IN mice|NN with|IN inflamed|VBN bowel|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT result|NN was|VBD a|DT great|JJ succe|NN </s>|S_END
+<s>|S_START the|DT guts|NNS of|IN her|PRP$ mice|NN returned|VBD more|JJR or|CC less|JJR to|TO normal|JJ appearance|NN and|CC chemical|JJ analysis|NN showed|VBD that|IN their|PRP$ levels|NNS of|IN proteins|NNS called|VBN cytokines|NNS which|WDT are|VBP associated|VBN with|IN inflammation|NN also|RB returned|VBD to|TO normal|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whether|IN either|DT technique|NN would|MD work|VB on|IN people|NNS remains|VBZ to|TO be|VB seen|VBN though|IN dr|NN vergnolle|NN did|VBD mix|NN her|PRP$ bacteria|NN with|IN cells|NNS from|IN the|DT guts|NNS of|IN colitis|NNS patients|NNS and|CC that|IN calmed|VBN these|DT cells|NNS down|IN in|IN the|DT way|NN the|DT mouse|NN guts|NNS were|VBD calmed|VBN </s>|S_END
+<s>|S_START if|IN they|PRP do|VBP work|NN they|PRP may|MD open|VB avenues|NNS for|IN the|DT bacterial|JJ treatment|NN of|IN other|JJ conditions|NNS linked|VBN to|TO gut|VB bacteria|NNS </s>|S_END
+<s>|S_START these|DT conditions|NNS include|VBP obesity|NN diabetes|NNS and|CC even|RB possibly|RB autism|NN </s>|S_END
+<s>|S_START a|DT new|JJ era|NN of|IN bacterial|JJ medicine|NN could|MD thus|RB be|VB about|IN to|TO dawn|VB </s>|S_END
+</p>|P_END
+

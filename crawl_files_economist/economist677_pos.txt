@@ -1,0 +1,145 @@
+<p>|P_START
+<s>|S_START late|RB in|IN the|DT primary|JJ season|NN mitt|NN romney|NN recorded|VBD an|DT interview|NN with|IN a|DT television|NN station|NN in|IN colorado|NN </s>|S_END
+<s>|S_START the|DT reporter|NN having|VBG asked|VBN a|DT series|NN of|IN questions|NNS about|IN gay|NN marriage|NN began|VBD to|TO quiz|VB the|DT candidate|NN on|IN the|DT pros|NNS and|CC cons|NNS of|IN legalising|VBG marijuana|NNS for|IN medical|JJ purpose|NN </s>|S_END
+<s>|S_START mr|NN romney|NN increasingly|RB exasperated|VBN finally|RB interjected|VBN “aren’t|JJ there|RB issues|VBZ of|IN significance|NN that|IN you’d|JJ like|IN to|TO talk|VB about|IN </s>|S_END
+<s>|S_START the|DT economy|NN the|DT economy|NN the|DT economy|NN </s>|S_END
+<s>|S_START the|DT growth|NN of|IN job|NN </s>|S_END
+<s>|S_START the|DT need|NN to|TO put|VB people|NNS back|RB to|TO work”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT year’s|JJ election|NN has|VBZ turned|VBN a|DT standard|JJ assumption|NN about|IN american|JJ electoral|JJ politics|NNS on|IN its|PRP$ head|NN </s>|S_END
+<s>|S_START normally|RB it|PRP is|VBZ the|DT democrats|NNS who|WP want|VBP to|TO talk|VB about|IN jobs|NNS and|CC other|JJ pocketbook|NN issues|NNS and|CC the|DT republicans|NNS who|WP drone|NN on|IN about|IN value|NN </s>|S_END
+<s>|S_START indeed|RB republican|JJ strategists|NNS typically|RB view|NN “social|JJ issues”—or|NN talk|NN of|IN guns|NNS gays|NNS and|CC god|NN to|TO use|VB another|DT shorthand—as|JJ a|DT useful|JJ means|NNS to|TO mobilise|VB the|DT base|NN of|IN the|DT party|NN </s>|S_END
+<s>|S_START democratic|JJ candidates|NNS in|IN turn|NN live|NN in|IN fear|NN of|IN ballot|NN initiatives|NNS on|IN gay|NN marriage|NN or|CC abortion|NN which|WDT they|PRP assume|VBP will|MD draw|VB lots|NNS of|IN rightwing|VBG voters|NNS to|TO the|DT poll|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB mr|VBP romney|NN would|MD be|VB a|DT lot|NN happier|NN if|IN the|DT electoral|JJ debate|NN never|RB strayed|VBN from|IN the|DT economy|NN </s>|S_END
+<s>|S_START at|IN the|DT republican|JJ convention|NN this|DT year|NN in|IN tampa|NN speaker|NN after|IN speaker|NN strode|NN to|TO the|DT podium|NN to|TO denounce|VB barack|NN obama|NN for|IN pinioning|NN small|JJ businesses|NNS and|CC strangling|VBG the|DT recovery|NN </s>|S_END
+<s>|S_START at|IN the|DT democrats’|NNP hoedown|NN in|IN charlotte|NN by|IN contrast|NN there|EX was|VBD endless|JJ talk|NN of|IN contraception|NN abortion|NN and|CC gay|NN right|RB </s>|S_END
+<s>|S_START women|NNS in|IN particular|JJ were|VBD repeatedly|RB warned|VBN that|IN the|DT republicans|NNS hoped|VBD to|TO take|VB away|RP their|PRP$ freedom|NN to|TO make|VB basic|JJ decisions|NNS about|IN their|PRP$ health|NN care|NN </s>|S_END
+<s>|S_START rightwingers|NNS some|DT democrats|NNS maintained|VBD were|VBD trying|VBG to|TO turn|VB the|DT clock|NN back|RB to|TO the|DT last|JJ century—or|NN the|DT one|CD before|IN that|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN practice|NN the|DT policies|NNS peddled|VBD by|IN the|DT two|CD men|NNS in|IN this|DT area|NN are|VBP fairly|RB typical|JJ of|IN their|PRP$ partie|NN </s>|S_END
+<s>|S_START mr|NN obama|NN broadly|RB supports|VBZ gay|NN rights|NNS access|NN to|TO abortion|NN and|CC related|JJ causes|NNS mr|VBP romney|NN does|VBZ not|RB </s>|S_END
+<s>|S_START but|CC republican|JJ orthodoxy|NN on|IN these|DT subjects|NNS has|VBZ become|VBN ever|RB more|RBR extreme|JJ leaving|NN it|PRP out|RP of|IN kilter|NN with|IN public|JJ opinion|NN </s>|S_END
+<s>|S_START that|DT makes|VBZ them|PRP awkward|RB issues|VBZ for|IN mr|NN romney|NN and|CC more|JJR comfortable|JJ ones|NNS for|IN mr|NN obama|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START take|VB abortion|NN typically|RB the|DT main|JJ flashpoint|NN in|IN the|DT culture|NN war|NN </s>|S_END
+<s>|S_START when|WRB running|VBG for|IN office|NN in|IN massachusetts|NNS in|IN 2002|CD mr|NN romney|NN said|VBD he|PRP personally|RB opposed|VBD the|DT practice|NN but|CC would|MD not|RB seek|VB to|TO restrict|VB it|PRP </s>|S_END
+<s>|S_START but|CC before|IN beginning|NN his|PRP$ first|JJ campaign|NN for|IN the|DT presidency|NN he|PRP had|VBD a|DT change|NN of|IN heart|NN </s>|S_END
+<s>|S_START abortion|NN should|MD be|VB illegal|JJ he|PRP said|VBD except|IN in|IN cases|NNS of|IN rape|NN or|CC incest|NN or|CC to|TO preserve|VB the|DT life|NN of|IN the|DT mother|NN </s>|S_END
+<s>|S_START as|IN president|NN he|PRP pledged|VBD he|PRP would|MD appoint|VB to|TO the|DT supreme|NN court|NN only|RB judges|VBZ of|IN like|IN mind|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uch|JJ a|DT conversion|NN is|VBZ the|DT price|NN of|IN admission|NN to|TO the|DT republican|NN primaries|NNS these|DT day|NN </s>|S_END
+<s>|S_START yet|RB even|RB after|IN the|DT scales|NNS had|VBD fallen|VBN from|IN mr|NN romney’s|NNS eyes|VBZ he|PRP still|RB struggled|VBD to|TO win|VB the|DT votes|NNS of|IN suspicious|JJ evangelical|JJ christian|JJ </s>|S_END
+<s>|S_START much|RB of|IN his|PRP$ party|NN after|IN all|DT goes|VBZ further|JJ </s>|S_END
+<s>|S_START the|DT republican|JJ platform|NN adopted|VBN at|IN tampa|NN called|VBN for|IN a|DT constitutional|JJ amendment|NN to|TO ban|VB abortion|NN without|IN any|DT exceptions|NNS at|IN all|DT </s>|S_END
+<s>|S_START paul|NN ryan|VBD mr|NN romney’s|NNS runningmate|VBP has|VBZ cosponsored|VBN several|JJ crusading|NN antiabortion|NN bills|NNS including|VBG one|CD that|WDT would|MD have|VB required|VBN women|NNS to|TO have|VB a|DT mandatory|NN ultrasound|NN before|IN terminating|VBG a|DT pregnancy|NN in|IN an|DT attempt|NN to|TO change|VB their|PRP$ mind|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT republican|JJ state|NN legislature|NN in|IN virginia|NN went|VBD as|IN far|RB as|IN to|TO mandate|VB that|IN women|NNS seeking|VBG an|DT abortion|NN should|MD have|VB the|DT sort|NN of|IN ultrasound|NN that|IN would|MD provide|VB the|DT best|JJS image|NN of|IN the|DT fetus—in|JJ effect|NN imposing|VBG on|IN most|JJS of|IN them|PRP an|DT unwanted|JJ vaginal|JJ probe|NN </s>|S_END
+<s>|S_START another|DT popular|JJ ruse|NN on|IN the|DT right|NN is|VBZ to|TO attempt|VB to|TO amend|VB state|NN constitutions|NNS to|TO define|VB “personhood”|JJ as|IN beginning|NN at|IN conception|NN thereby|RB making|VBG abortion|NN as|IN well|RB as|IN some|DT types|NNS of|IN contraception|NN tantamount|NN to|TO murder|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT democrats|NNS cobbling|VBG such|JJ episodes|NNS together|RB claim|VBP the|DT republican|JJ party|NN has|VBZ declared|VBN a|DT “war|JJ on|IN women”|JJ </s>|S_END
+<s>|S_START the|DT most|RBS hardfought|JJ skirmishes|NNS in|IN that|DT war|NN concern|NN not|RB abortion|NN but|CC contraception|NN </s>|S_END
+<s>|S_START mr|NN obama’s|NNS healthcare|VBP reforms|NNS require|VBP insurers|NNS to|TO offer|VB preventive|JJ measures|NNS such|JJ as|IN breastcancer|NN screenings|NNS and|CC birth|JJ control|NN without|IN any|DT extra|JJ payment|NN </s>|S_END
+<s>|S_START earlier|JJR this|DT year|NN the|DT administration|NN declared|VBD that|IN although|IN religious|JJ institutions|NNS themselves|PRP would|MD be|VB exempt|JJ from|IN the|DT “contraception|NN mandate”|NN the|DT schools|NNS and|CC hospitals|NNS they|PRP run|VBP would|MD not|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START republicans|NNS pounced|VBD insisting|VBG that|IN mr|NN obama|NN was|VBD infringing|VBG religious|JJ freedom|NN and|CC forcing|NN catholics|NNS in|IN particular|JJ to|TO contravene|NN a|DT basic|JJ tenet|NN of|IN their|PRP$ faith|NN </s>|S_END
+<s>|S_START but|CC mr|PRP$ obama|NN seems|VBZ to|TO have|VB embraced|VBN the|DT charge|NN arguing|VBG that|IN republicans|NNS want|VBP to|TO take|VB away|RP a|DT woman’s|JJ say|NN over|IN a|DT basic|JJ element|NN of|IN her|PRP$ health|NN care|NN </s>|S_END
+<s>|S_START he|PRP also|RB likes|VBZ to|TO point|NN out|RP that|IN the|DT first|JJ law|NN he|PRP signed|VBD was|VBD the|DT lilly|RB ledbetter|JJR act|NN which|WDT makes|VBZ it|PRP easier|JJR for|IN women|NNS to|TO sue|VB for|IN wage|NN discrimination|NN </s>|S_END
+<s>|S_START mr|NN ryan|VBD democrats|NNS note|VBP voted|VBN against|IN it|PRP </s>|S_END
+<s>|S_START and|CC by|IN repealing|NN obamacare|NN the|DT charge|NN sheet|NN continues|VBZ republicans|NNS will|MD do|VB away|RB with|IN other|JJ measures|NNS favourable|JJ to|TO women|NNS including|VBG a|DT ban|NN on|IN insurers|NNS charging|VBG higher|JJR premiums|NNS to|TO women|NNS than|IN men|NNS for|IN the|DT same|JJ policie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START revealingly|RB the|DT romney|NN campaign’s|VBZ retort|NN is|VBZ that|IN the|DT biggest|JJS assault|NN on|IN women|NNS these|DT days|NNS comes|VBZ from|IN the|DT weak|JJ economy|NN </s>|S_END
+<s>|S_START it|PRP points|VBZ out|RP that|IN most|JJS people|NNS who|WP have|VBP lost|VBN their|PRP$ jobs|NNS during|IN mr|NN obama’s|NNS tenure|VBP are|VBP women|NNS </s>|S_END
+<s>|S_START the|DT implication|NN is|VBZ that|IN abortion|NN and|CC contraception|NN are|VBP distractions—as|JJ democrats|NNS themselves|PRP used|VBD to|TO argue|VB when|WRB the|DT topic|JJ seemed|VBD to|TO play|VB in|IN the|DT republicans’|NN favour|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START much|RB the|DT same|JJ dynamic|JJ applies|NNS to|TO gay|VB right|RB </s>|S_END
+<s>|S_START in|IN 2010|CD after|IN much|JJ hemming|NN and|CC hawing|VBG mr|NN obama|NN ended|VBD the|DT longstanding|NN ban|NN on|IN homosexuals|NNS serving|VBG openly|RB in|IN the|DT armed|VBN force|NN </s>|S_END
+<s>|S_START earlier|JJR this|DT year–again|JJ after|IN long|RB vacillation—he|JJ declared|VBN himself|PRP a|DT supporter|NN of|IN gay|NN marriage|NN </s>|S_END
+<s>|S_START the|DT justice|NN department|NN is|VBZ no|DT longer|NN fighting|VBG legal|JJ challenges|NNS to|TO the|DT defence|NN of|IN marriage|NN act|NN which|WDT bars|NNS the|DT federal|JJ government|NN from|IN recognising|VBG gay|NN marriages|NNS performed|VBN in|IN the|DT handful|NN of|IN states|NNS that|WDT allow|VBP them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN romney|NN opposes|NNS not|RB only|RB gay|VBP marriage|NN but|CC also|RB civil|VBP unions|NNS designed|VBN to|TO approximate|VB it|PRP </s>|S_END
+<s>|S_START when|WRB the|DT massachusetts|NNS supreme|VBP court|NN ruled|VBD in|IN 2004|CD that|WDT the|DT state|NN could|MD not|RB deny|VB marriage|NN to|TO gay|VB couples|NNS he|PRP helped|VBD as|IN governor|NN to|TO lead|VB the|DT movement|NN to|TO overturn|VB the|DT ruling|NN </s>|S_END
+<s>|S_START he|PRP says|VBZ that|IN as|IN president|NN he|PRP would|MD start|VB defending|VBG doma|NN again|RB and|CC would|MD back|VB a|DT constitutional|JJ amendment|NN to|TO define|VB marriage|NN to|TO the|DT exclusion|NN of|IN gay|NN couples—taking|JJ the|DT whole|JJ issue|NN out|IN of|IN the|DT courts’|JJ hand|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB as|IN mr|NN romney|NN suggested|VBD in|IN colorado|NN he|PRP would|MD really|RB rather|RB not|RB dwell|VB on|IN the|DT subject|NN </s>|S_END
+<s>|S_START although|IN the|DT religious|JJ right|NN applauds|NNS his|PRP$ stances|NNS a|DT slender|NN majority|NN of|IN the|DT electorate|NN as|IN a|DT whole|JJ approves|NNS of|IN gay|NN marriage|NN according|VBG to|TO pollster|VB </s>|S_END
+<s>|S_START perhaps|RB more|JJR important|JJ shrill|NN denunciations|NNS of|IN gays|NNS abortion|NN and|CC the|DT like|NN tend|NN to|TO put|VB off|RP allimportant|JJ swing|NN voter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP is|VBZ more|RBR mr|JJ romney|NN makes|VBZ an|DT unconvincing|NN cultural|JJ warrior|NN </s>|S_END
+<s>|S_START he|PRP has|VBZ come|VBN to|TO his|PRP$ conservative|JJ opinions|NNS on|IN social|JJ issues|NNS late|JJ in|IN life|NN </s>|S_END
+<s>|S_START as|IN governor|NN of|IN massachusetts|NNS he|PRP signed|VBD a|DT ban|NN on|IN assault|NN weapons|NNS in|IN 2004|CD before|IN taking|VBG out|RP a|DT lifetime|NN membership|NN of|IN the|DT national|JJ rifle|NN association|NN two|CD years|NNS later|RBR at|IN the|DT age|NN of|IN 59|CD </s>|S_END
+<s>|S_START the|DT following|VBG year|NN he|PRP gamely|RB claimed|VBD to|TO be|VB an|DT occasional|JJ hunter|NN of|IN “varmints”|NNP </s>|S_END
+<s>|S_START he|PRP now|RB says|VBZ as|IN does|VBZ mr|NN obama|NN that|WDT no|DT new|JJ guncontrol|NN laws|NNS are|VBP needed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START two|CD harvard|VBD lawyer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN romney’s|NNS wealth|NN and|CC privileged|VBD upbringing|VBG as|IN the|DT son|NN of|IN a|DT governor|NN and|CC cabinet|NN secretary|NN do|VBP not|RB help|VB to|TO convince|VB “values|NNS voters”|-NONE- that|IN he|PRP is|VBZ one|CD of|IN them|PRP </s>|S_END
+<s>|S_START he|PRP is|VBZ also|RB a|DT mormon|NN a|DT group|NN viewed|VBD as|RB heretical|JJ by|IN many|JJ on|IN the|DT christian|JJ right|NN </s>|S_END
+<s>|S_START and|CC the|DT obama|NN campaign’s|VBZ remorseless|NN exhumation|NN of|IN every|DT layoff|NN factory|NN closure|NN or|CC cut|VB in|IN benefits|NNS that|WDT occurred|VBD at|IN the|DT firms|NNS that|WDT bain|NN capital|NN invested|VBN in|IN when|WRB mr|NN romney|NN was|VBD in|IN charge|NN of|IN the|DT privateequity|NN firm|NN have|VBP left|VBN many|JJ workingclass|NN voters|NNS who|WP feel|NN strongly|RB about|IN social|JJ issues|NNS mistrustful|JJ of|IN him|PRP for|IN different|JJ reason|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN obama|NN has|VBZ his|PRP$ vulnerabilities|NNS in|IN this|DT area|NN too|RB </s>|S_END
+<s>|S_START while|IN running|VBG for|IN president|NN last|JJ time|NN he|PRP complained|VBD about|IN the|DT price|NN of|IN arugula|NN rocket|NN at|IN whole|JJ foods|NNS a|DT fancy|NN supermarket|NN chain|NN </s>|S_END
+<s>|S_START more|JJR damagingly|RB he|PRP was|VBD caught|VBN describing|VBG smalltown|RP voters|NNS in|IN pennsylvania|NN as|IN clinging|NN bitterly|RB “to|JJ guns|NNS or|CC religion|NN or|CC antipathy|JJ to|TO people|NNS who|WP aren’t|-NONE- like|IN them”|NNP </s>|S_END
+<s>|S_START he|PRP and|CC mr|VB romney|NN both|DT attended|VBD harvard|NN law|NN school|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP is|VBZ more|RBR mr|JJ obama’s|NNS exotic|JJ background|NN an|DT african|JJ father|NN an|DT indonesian|JJ halfsister|NN a|DT muslim|NN middle|NN name|NN a|DT childhood|NN in|IN hawaii|NN render|NN him|PRP an|DT alien|NN figure|NN to|TO many|JJ american|JJ </s>|S_END
+<s>|S_START a|DT good|JJ proportion|NN say|VBP they|PRP believe|VBP he|PRP is|VBZ muslim|PRP others|NNS question|VBP his|PRP$ citizenship|NN despite|IN the|DT release|NN of|IN his|PRP$ birth|JJ certificate|NN </s>|S_END
+<s>|S_START but|CC mr|PRP$ obama|NN and|CC his|PRP$ family|NN encapsulate|NN america’s|NNS changing|VBG demography|NN </s>|S_END
+<s>|S_START the|DT country|NN is|VBZ growing|VBG steadily|RB browner|JJR and|CC more|JJR urban|JJ </s>|S_END
+<s>|S_START last|JJ year|NN minorities|NNS accounted|VBN for|IN more|JJR than|IN half|PDT of|IN all|DT babies|NNS born|VBP in|IN the|DT country|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN obama|NN has|VBZ made|VBN a|DT point|NN of|IN appointing|VBG minorities|NNS to|TO important|JJ posts|NNS the|DT first|JJ hispanic|JJ supreme|NN court|NN justice|NN for|IN example|NN and|CC the|DT first|JJ black|NN attorneygeneral|NN </s>|S_END
+<s>|S_START by|IN dint|NN of|IN his|PRP$ own|JJ skin|NN colour|NN he|PRP appeals|VBZ to|TO those|DT who|WP welcome|NN a|DT more|RBR multicultural|JJ america|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN romney|NN to|TO be|VB fair|JJ is|VBZ no|DT slouch|JJ when|WRB it|PRP comes|VBZ to|TO diversity|NN </s>|S_END
+<s>|S_START in|IN business|NN and|CC in|IN government|NN he|PRP seems|VBZ to|TO have|VB hired|VBN plenty|NN of|IN women|NNS and|CC minorities|NNS and|CC even|RB the|DT odd|JJ homosexual|NN though|IN he|PRP failed|VBD to|TO prevent|VB one|CD gay|NN staffer|NN being|VBG hounded|VBN out|RP of|IN his|PRP$ job|NN by|IN rightwinger|NN </s>|S_END
+<s>|S_START his|PRP$ campaign|NN filled|VBD the|DT roster|NN of|IN speakers|NNS at|IN the|DT convention|NN with|IN prominent|JJ black|NN and|CC hispanic|JJ republicans|NNS many|JJ of|IN them|PRP women|NNS </s>|S_END
+<s>|S_START but|CC mr|PRP$ romney’s|NNS nativist|VBP tone|NN on|IN immigration|NN puts|NNS off|IN many|JJ hispanic|JJ voter|NN </s>|S_END
+<s>|S_START others|NNS detect|VBP a|DT coded|VBN racism|NN in|IN his|PRP$ complaints|NNS about|IN the|DT undeserving|NN beneficiaries|NNS of|IN government|NN handouts|NNS although|IN his|PRP$ campaign|NN rejects|NNS any|DT such|JJ inference|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whether|IN either|DT party|NN intends|NNS it|PRP or|CC not|RB there|RB is|VBZ a|DT growing|VBG racial|JJ divide|NN in|IN the|DT electorate|NN </s>|S_END
+<s>|S_START minorities|NNS whose|VBP numbers|NNS are|VBP growing|VBG favour|PRP$ the|DT democrats|NNS and|CC workingclass|NN whites|NNS prefer|VBP republican|JJ </s>|S_END
+<s>|S_START if|IN he|PRP is|VBZ to|TO win|VB mr|NN romney|NN will|MD need|VB a|DT bigger|JJR share|NN of|IN the|DT white|JJ vote|NN than|IN ronald|NN reagan|NN or|CC the|DT bushes|NNS ever|RB won|VBD </s>|S_END
+<s>|S_START the|DT focus|NN on|IN the|DT economy|NN during|IN the|DT campaign|NN has|VBZ tended|VBN to|TO obscure|VB this|DT rift—but|JJ it|PRP is|VBZ one|CD that|WDT will|MD surely|RB present|VB problems|NNS for|IN the|DT next|JJ president|NN whoever|NN win|NN </s>|S_END
+</p>|P_END
+

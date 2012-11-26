@@ -1,0 +1,48 @@
+<p>|P_START
+<s>|S_START beauty|NN may|MD be|VB in|IN the|DT eye|NN of|IN the|DT beholder|NN but|CC a|DT symmetrical|JJ face|NN is|VBZ usually|RB a|DT big|JJ help|NN </s>|S_END
+<s>|S_START in|IN contrast|NN asymmetry|NN is|VBZ often|RB associated|VBN with|IN malignance|NN </s>|S_END
+<s>|S_START biologists|NNS have|VBP long|RB speculated|VBN why|WRB this|DT i|PRP </s>|S_END
+<s>|S_START in|IN theory|NN evolution|NN provides|VBZ a|DT logical|JJ answer|NN unfit|NN individuals|NNS are|VBP less|JJR likely|JJ than|IN fitter|NN folk|NN to|TO be|VB able|JJ to|TO maintain|VB the|DT symmetrical|JJ development|NN of|IN their|PRP$ bodies|NNS when|WRB exposed|VBN to|TO stress|NN and|CC disease|NN </s>|S_END
+<s>|S_START in|IN other|JJ words|NNS many|JJ parts|NNS of|IN the|DT body|NN are|VBP supposed|VBN to|TO be|VB symmetrical|JJ so|IN any|DT deviation|NN from|IN perfect|NN symmetry|NN indicates|VBZ that|IN an|DT animal|JJ has|VBZ not|RB been|VBN able|JJ to|TO grow|VB as|IN intended|VBN </s>|S_END
+<s>|S_START as|IN an|DT animal|JJ is|VBZ unlikely|JJ to|TO want|VB to|TO mix|VB its|PRP$ genes|NNS with|IN an|DT unfit|NN or|CC diseased|VBN partner|NN evolution|NN selects|NNS symmetry|NN as|IN an|DT attractive|JJ trait|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whether|IN asymmetry|NN and|CC poor|JJ health|NN or|CC fitness|NN really|RB go|VB hand|NN in|IN hand|NN has|VBZ not|RB been|VBN easy|JJ to|TO prove|VB </s>|S_END
+<s>|S_START research|NN on|IN this|DT in|IN humans|NNS causes|NNS ethical|JJ problems|NNS and|CC can|MD raise|VB hackle|NN </s>|S_END
+<s>|S_START now|RB a|DT new|JJ study|NN conducted|VBN with|IN macaque|JJ monkeys|NNS hints|NNS that|WDT there|EX is|VBZ indeed|VBN a|DT connection|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START previous|JJ studies|NNS with|IN macaques|NNS have|VBP demonstrated|VBN that|IN the|DT animals|NNS will|MD gaze|VB longer|RBR at|IN symmetrical|JJ faces|NNS than|IN they|PRP do|VBP at|IN asymmetric|JJ ones|NNS which|WDT could|MD be|VB interpreted|VBN as|IN the|DT monkeys|NNS finding|VBG such|JJ faces|NNS more|RBR attractive|JJ </s>|S_END
+<s>|S_START the|DT results|NNS of|IN these|DT studies|NNS have|VBP led|VBN researchers|NNS to|TO believe|VB that|IN the|DT monkeys|NNS have|VBP a|DT preference|NN for|IN symmetry|NN just|RB as|IN humans|NNS do|VBP </s>|S_END
+<s>|S_START however|RB a|DT clear|JJ connection|NN between|IN health|NN and|CC symmetry|NN had|VBD not|RB been|VBN made|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fascinated|VBD by|IN this|DT question|NN anthony|NN little|RB of|IN the|DT university|NN of|IN stirling|VBG in|IN scotland|NN and|CC annika|NN paukner|NN of|IN the|DT national|JJ institutes|NNS of|IN health|NN in|IN america|NN established|VBD a|DT new|JJ study|NN with|IN 93|CD female|JJ macaque|NN monkey|NN </s>|S_END
+<s>|S_START the|DT monkeys|NNS came|VBD from|IN three|CD different|JJ groups|NNS it|PRP was|VBD difficult|JJ to|TO find|VB one|CD large|JJ group|NN and|CC had|VBD been|VBN raised|VBN in|IN some|DT degree|NN of|IN captivity|NN </s>|S_END
+<s>|S_START all|DT of|IN the|DT monkeys|NNS between|IN the|DT ages|NNS of|IN five|CD and|CC 20|CD were|VBD photographed|VBN face|NN forward|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN little|RB and|CC his|PRP$ colleagues|NNS analysed|VBD facial|JJ symmetry|NN using|VBG a|DT computer|NN to|TO measure|VB the|DT distance|NN of|IN various|JJ features|NNS like|IN the|DT edges|NNS of|IN the|DT nostrils|NNS lips|VBZ and|CC eyes|NNS from|IN a|DT line|NN drawn|VBN down|IN the|DT centre|NN of|IN the|DT monkey’s|JJ face|NN </s>|S_END
+<s>|S_START these|DT distances|NNS were|VBD then|RB compared|VBN and|CC any|DT differences|NNS between|IN them|PRP say|VBP from|IN one|CD nostril|NN and|CC another|DT were|VBD added|VBN to|TO an|DT overall|JJ asymmetry|NN score|NN </s>|S_END
+<s>|S_START thus|RB a|DT perfectly|RB symmetrical|JJ face|NN with|IN eyes|NNS lips|NNS and|CC nostrils|NNS exactly|RB the|DT same|JJ distance|NN from|IN the|DT central|JJ line|NN would|MD earn|VB a|DT score|NN of|IN zero|NN </s>|S_END
+<s>|S_START a|DT highly|RB asymmetric|JJ one|CD would|MD score|VB the|DT sum|NN of|IN all|DT the|DT distance|NN differences|NNS between|IN features|NNS on|IN the|DT face|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT team|NN then|RB considered|VBN the|DT overall|JJ health|NN of|IN the|DT monkeys|NNS during|IN their|PRP$ first|JJ four|CD years|NNS of|IN life|NN </s>|S_END
+<s>|S_START this|DT comparison|NN was|VBD made|VBN from|IN veterinary|JJ records|NNS and|CC evidence|NN of|IN health|NN problem|NN </s>|S_END
+<s>|S_START the|DT researchers|NNS looked|VBD out|IN for|IN minor|JJ wounds|NNS that|WDT had|VBD been|VBN noted|VBN by|IN staff|NN but|CC left|VBN to|TO heal|VB on|IN their|PRP$ own|JJ major|JJ wounds|NNS such|JJ as|IN bites|NNS that|WDT required|VBN stitches|NNS levels|NNS of|IN subcutaneous|JJ fat|JJ and|CC muscle|NN the|DT quality|NN of|IN their|PRP$ coat|JJ and|CC their|PRP$ weight|NN gain|NN </s>|S_END
+<s>|S_START these|DT health|NN factors|NNS were|VBD compiled|VBN into|IN two|CD scores|NNS one|CD reflecting|VBG wounds|NNS and|CC one|CD reflecting|VBG the|DT monkey’s|JJ general|JJ condition|NN and|CC they|PRP were|VBD compared|VBN with|IN the|DT asymmetry|NN score|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN little|RB and|CC his|PRP$ colleagues|NNS report|NN in|IN behavioural|JJ ecology|NN and|CC sociobiology|NN that|IN whereas|NNS wounds|NNS showed|VBD no|DT relationship|NN to|TO asymmetry|NN as|IN the|DT monkeys’|NNP condition|NN scores|NNS declined|VBD so|RB too|RB did|VBD their|PRP$ facialsymmetry|NN result|NN </s>|S_END
+<s>|S_START the|DT researchers|NNS argue|VBP that|IN this|DT health|NN connection|NN is|VBZ what|WP makes|VBZ macaque|JJ monkeys|NNS look|VBP longer|JJR at|IN symmetrical|JJ faces|NNS than|IN they|PRP do|VBP at|IN uneven|RB one|CD </s>|S_END
+<s>|S_START thus|RB facial|JJ symmetry|NN really|RB does|VBZ appear|JJ to|TO be|VB an|DT indicator|NN of|IN health|NN at|IN least|JJS among|IN macaque|NN </s>|S_END
+<s>|S_START and|CC what|WP is|VBZ true|JJ for|IN them|PRP is|VBZ likely|JJ to|TO be|VB true|JJ for|IN people|NNS too|RB </s>|S_END
+</p>|P_END
+

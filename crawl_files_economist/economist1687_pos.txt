@@ -1,0 +1,105 @@
+<p>|P_START
+<s>|S_START with|IN its|PRP$ leafy|NN avenues|NNS and|CC gothic|JJ buildings|NNS the|DT university|NN of|IN chicago|NN seems|VBZ a|DT sober|NN solid|JJ sort|NN of|IN place|NN </s>|S_END
+<s>|S_START john|NN d|VBD rockefeller|NN whose|WP$ money|NN built|VBN it|PRP said|VBD it|PRP was|VBD the|DT “best|JJ investment|NN i|PRP ever|RB made”|JJ </s>|S_END
+<s>|S_START yet|RB chicago|RB and|CC other|JJ notforprofit|NN american|NN universities|NNS have|VBP been|VBN piling|VBG on|IN the|DT debt|NN as|IN if|IN they|PRP were|VBD hightech|JJ startup|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START longterm|NN debt|NN at|IN notforprofit|NN universities|NNS in|IN america|NN has|VBZ been|VBN growing|VBG at|IN 12|CD a|DT year|NN estimate|NN bain|NN company|NN a|DT consultancy|NN and|CC sterling|NN partners|NNS a|DT privateequity|NN firm|NN see|NN chart|NN 1|CD </s>|S_END
+<s>|S_START a|DT new|JJ report|NN looked|VBD at|IN the|DT balancesheets|NNS and|CC cashflow|VB statements|NNS of|IN 1692|CD universities|NNS and|CC colleges|NNS between|IN 2006|CD and|CC 2010|CD and|CC found|VBN that|IN onethird|JJ were|VBD significantly|RB weaker|JJR than|IN they|PRP had|VBD been|VBN several|JJ years|NNS previously|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT crisis|NN in|IN higher|JJR education|NN has|VBZ been|VBN brewing|VBG for|IN year|NN </s>|S_END
+<s>|S_START universities|NNS have|VBP been|VBN spending|VBG like|IN students|NNS in|IN a|DT bar|NN who|WP think|NN a|DT rockefeller|NN will|MD pick|VB up|RP the|DT tab|NN </s>|S_END
+<s>|S_START in|IN the|DT past|JJ two|CD years|NNS the|DT university|NN of|IN chicago|NN has|VBZ built|VBN a|DT spiffy|NN new|JJ library|NN where|WRB the|DT books|NNS are|VBP cleverly|RB retrieved|VBN by|IN robots|NNS a|DT new|JJ arts|NNS centre|VBP and|CC a|DT tenstorey|NN hospital|NN building|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ also|RB opened|VBN a|DT new|JJ campus|NN in|IN beijing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC it|PRP is|VBZ not|RB alone|RB </s>|S_END
+<s>|S_START universities|NNS hope|VBP that|IN vast|JJ investments|NNS will|MD help|VB them|PRP attract|VB the|DT best|JJS staff|NN and|CC students|NNS draw|VBP in|IN research|NN grants|NNS and|CC donations|NNS and|CC ultimately|RB boost|VB their|PRP$ ranking|NN in|IN league|NN tables|NNS drawing|VBG in|IN yet|NN more|JJR talent|NN and|CC money|NN </s>|S_END
+<s>|S_START they|PRP have|VBP also|RB increased|VBN the|DT proportion|NN of|IN outlays|NNS gobbled|VBN up|RP by|IN administrators|NNS see|VBP chart|NN 2|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO pay|VB for|IN all|PDT this|DT universities|NNS have|VBP been|VBN enrolling|VBG more|JJR students|NNS and|CC jacking|VBG up|RP their|PRP$ fee|NN </s>|S_END
+<s>|S_START the|DT average|JJ cost|NN of|IN college|NN per|IN student|NN has|VBZ risen|VBN by|IN three|CD times|NNS the|DT rate|NN of|IN inflation|NN since|IN 1983|CD </s>|S_END
+<s>|S_START the|DT cost|NN of|IN tuition|NN alone|RB has|VBZ soared|VBN from|IN 23|CD of|IN median|JJ annual|JJ earnings|NNS in|IN 2001|CD to|TO 38|CD in|IN 2010|CD </s>|S_END
+<s>|S_START uch|JJ increases|NNS plainly|RB can|MD not|RB continue|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tudent|NN debt|NN has|VBZ reportedly|RB reached|VBN a|DT record|NN $|$ 1|CD trillion|CD </s>|S_END
+<s>|S_START before|IN the|DT financial|JJ crisis|NN some|DT private|JJ lenders|NNS stoked|VBD the|DT frenzy|NN by|IN securitising|NN risky|NN student|NN loans—rather|JJ like|IN subprime|NN mortgage|NN </s>|S_END
+<s>|S_START this|DT practice|NN has|VBZ been|VBN stopped|VBN but|CC at|IN its|PRP$ peak|NN in|IN 2008|CD private|JJ lenders|NNS disbursed|VBN $|$ 20|CD billion|CD </s>|S_END
+<s>|S_START last|JJ year|NN they|PRP shelled|VBD out|RP only|RB $|$ 6|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START federal|JJ support|NN for|IN higher|JJR education|NN remains|VBZ at|IN historically|RB high|JJ levels|NNS but|CC states|VBZ have|VBP cut|VBN back|RB </s>|S_END
+<s>|S_START to|TO make|VB matters|NNS worse|JJR endowments|NNS and|CC their|PRP$ returns|NNS have|VBP shrunk|NN money|NN from|IN philanthropy|NN has|VBZ dried|VBN up|RP and|CC those|DT universities|NNS that|IN provide|JJ needbased|JJ aid|NN have|VBP suddenly|RB found|VBN their|PRP$ students|NNS are|VBP needier|RBR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT this|DT suggests|VBZ that|IN colleges|NNS have|VBP good|JJ cause|NN to|TO worry|VB about|IN their|PRP$ debt|NN </s>|S_END
+<s>|S_START unlike|IN grades|NNS they|PRP can|MD not|RB be|VB inflated|VBN away|RB </s>|S_END
+<s>|S_START even|RB harvard|VBD yale|JJ cornell|NN and|CC georgetown|NN have|VBP been|VBN on|IN an|DT unsustainable|JJ path|NN in|IN recent|JJ years|NNS says|VBZ bain|NN though|IN all|DT have|VBP big|JJ endowments|NNS to|TO cushion|NN themselve|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START glenn|NN reynolds|NNS the|DT author|NN of|IN “the|NNP higher|JJR education|NN bubble”|-NONE- predicts|VBZ that|IN the|DT bubble|JJ will|MD burst|VB “messily”|-NONE- </s>|S_END
+<s>|S_START people|NNS have|VBP long|RB believed|VBN that|IN “whatever|JJ the|DT cost|NN a|DT college|NN education|NN is|VBZ a|DT necessary|JJ ticket|NN to|TO future|VB prosperity”|JJ easy|JJ credit|NN has|VBZ allowed|VBN them|PRP to|TO pay|VB ever|RB more|JJR and|CC colleges|NNS have|VBP raised|VBN fees|NNS to|TO absorb|VB the|DT extra|JJ cash|NN </s>|S_END
+<s>|S_START however|RB this|DT can|MD not|RB go|VB on|IN forever|NN says|VBZ mr|NN reynolds|NNS especially|RB when|WRB people|NNS start|VBP asking|VBG whether|IN a|DT degree|NN in|IN religious|JJ and|CC women’s|JJ studies|NNS is|VBZ worth|JJ the|DT $|$ 100000|CD debt|NN incurred|VBN to|TO pay|VB for|IN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START jeff|NN denneen|VBN a|DT bain|NN consultant|NN puts|NNS it|PRP more|JJR cautiously|RB </s>|S_END
+<s>|S_START higher|JJR education|NN has|VBZ not|RB delivered|VBN extra|JJ value|NN to|TO match|VB the|DT extra|JJ costs|NNS he|PRP say|VBP </s>|S_END
+<s>|S_START indeed|RB the|DT average|JJ student|NN is|VBZ studying|VBG for|IN fewer|JJR hours|NNS and|CC learning|VBG less|JJR than|IN in|IN the|DT past|JJ </s>|S_END
+<s>|S_START grade|NN inflation|NN only|RB partially|RB masks|VBZ these|DT trend|NN </s>|S_END
+<s>|S_START mr|NN denneen|VBN agrees|NNS that|IN the|DT bubble|JJ will|MD burst|VB though|IN he|PRP does|VBZ not|RB say|VB “messily”|-NONE- </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN universities|NNS are|VBP addressing|VBG their|PRP$ financial|JJ problem|NN </s>|S_END
+<s>|S_START cornell|NN began|VBD in|IN 2009|CD kent|NN fuchs|NNS the|DT provost|NN offered|VBD to|TO cut|VB the|DT costs|NNS of|IN administration|NN by|IN $|$ 70m|CD if|IN the|DT faculty|NN would|MD concentrate|VB on|IN excelling|NN at|IN a|DT limited|VBN number|NN of|IN important|JJ things|NNS rather|RB than|IN trying|VBG to|TO do|VB everything|NN </s>|S_END
+<s>|S_START mr|NN fuchs|NNS says|VBZ that|IN a|DT university|NN can|MD become|VB too|RB broad|JJ a|DT financial|JJ squeeze|NN is|VBZ an|DT opportunity|NN to|TO become|VB more|JJR focused|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ince|NN 2010|CD many|JJ endowments|NNS have|VBP recovered|VBN their|PRP$ value|NN and|CC data|NNS from|IN 823|CD institutions|NNS show|VBP a|DT return|NN of|IN 19|CD for|IN 2011|CD </s>|S_END
+<s>|S_START the|DT university|NN of|IN chicago|NN is|VBZ one|CD of|IN many|JJ whose|WP$ finances|NNS have|VBP improved|VBN since|IN 2010|CD </s>|S_END
+<s>|S_START brandname|NN institutions|NNS are|VBP unlikely|RB to|TO go|VB bust|RB says|VBZ mr|NN denneen|IN but|CC they|PRP may|MD have|VB to|TO curb|VB needsblind|NN admission|NN or|CC hire|VB fewer|JJR star|NN professor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lesserknown|NN colleges|NNS which|WDT lack|VBP big|JJ endowments|NNS will|MD have|VB to|TO cut|VB deeper|NN </s>|S_END
+<s>|S_START timidly|RB trimming|VBG a|DT bit|NN from|IN every|DT department|NN each|DT year|NN in|IN the|DT hope|NN that|IN good|JJ times|NNS return|VBP will|MD not|RB work|VB </s>|S_END
+<s>|S_START departments|NNS and|CC courses|NNS must|MD be|VB shed|VBN and|CC whole|JJ campuses|NNS merged|VBD or|CC shuttered|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START public|JJ universities|NNS with|IN more|JJR centralised|VBN leadership|NN find|IN it|PRP easier|JJR to|TO consolidate|VB </s>|S_END
+<s>|S_START new|JJ jersey|NN is|VBZ merging|VBG its|PRP$ medical|JJ college|NN into|IN rutgers|NNS university|NN and|CC there|EX are|VBP four|CD sets|NNS of|IN mergers|NNS in|IN georgia|NN alone|RB </s>|S_END
+<s>|S_START one|CD will|MD combine|VB augusta|NN state|NN and|CC georgia|NN health|NN sciences|NNS universities|NNS and|CC will|MD strip|VB administrative|JJ costs|NNS and|CC overhead|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START forprofit|NN universities|NNS have|VBP proved|VBN to|TO be|VB the|DT exception|NN to|TO the|DT rule|NN most|JJS are|VBP in|IN good|JJ financial|JJ health|NN </s>|S_END
+<s>|S_START however|RB they|PRP face|VBP pressure|NN from|IN lawmakers|NNS who|WP think|VBP they|PRP fail|VBP to|TO deliver|VB value|NN for|IN the|DT $|$ 32|CD billion|CD in|IN subsidies|NNS they|PRP receive|VBP </s>|S_END
+<s>|S_START a|DT new|JJ report|NN from|IN senator|NN tom|NN harkin|NN decries|NNS the|DT forprofit|NN sector’s|VBZ aggressive|JJ recruiting|NN poor|NN academic|JJ results|NNS and|CC excessive|JJ fee|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START collegeboosters|NNS have|VBP several|JJ retorts|NNS to|TO all|DT this|DT doommongering|NN </s>|S_END
+<s>|S_START urely|RB they|PRP say|VBP as|IN technology|NN advances|NNS the|DT demand|NN for|IN education|NN will|MD continue|VB to|TO grow|VB </s>|S_END
+<s>|S_START cynics|NNS add|VBP that|IN bain’s|JJ recommendations|NNS should|MD be|VB taken|VBN warily|RB since|IN it|PRP stands|VBZ to|TO win|VB fat|JJ consulting|NN contracts|NNS if|IN lots|NNS of|IN american|JJ universities|NNS decide|VBP to|TO restructure|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START till|NN the|DT doomsayers|NNS may|MD be|VB onto|IN something|NN </s>|S_END
+<s>|S_START fouryear|NN residential|JJ colleges|NNS can|MD not|RB keep|VB on|IN forever|NN raising|NN their|PRP$ fees|NNS faster|JJR than|IN the|DT public’s|NNP capacity|NN to|TO pay|VB them|PRP especially|RB when|WRB online|NN degrees|NNS are|VBP so|RB much|RB cheaper|JJR </s>|S_END
+<s>|S_START universities|NNS that|IN fail|NN to|TO prepare|VB for|IN the|DT hurricane|NN ahead|RB are|VBP likely|JJ to|TO be|VB flattened|VBN by|IN it|PRP </s>|S_END
+</p>|P_END
+

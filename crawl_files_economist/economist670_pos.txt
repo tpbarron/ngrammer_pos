@@ -1,0 +1,9 @@
+<p>|P_START
+<s>|S_START in|IN our|PRP$ article|NN on|IN mexico’s|NNS stockmarket|NN last|JJ week|NN elektric|JJ shock|NN we|PRP said|VBD elektra|NN a|DT retail|JJ chain|NN was|VBD believed|VBN to|TO have|VB entered|VBN into|IN an|DT equity|NN swap|NN with|IN ubs|NNS a|DT bank|NN last|JJ year|NN </s>|S_END
+<s>|S_START ubs|NNS says|VBZ that|IN this|DT is|VBZ not|RB the|DT case|NN </s>|S_END
+<s>|S_START and|CC in|IN our|PRP$ piece|NN on|IN inflation|NN in|IN india|NN who|WP cares|NNS about|IN the|DT price|NN of|IN onion|NN </s>|S_END
+<s>|S_START we|PRP wrote|VBD that|IN the|DT country|NN gained|VBD independence|NN in|IN 1949|CD </s>|S_END
+<s>|S_START it|PRP was|VBD of|IN course|NN in|IN 1947|CD </s>|S_END
+<s>|S_START we|PRP are|VBP doubly|RB sorry|JJ </s>|S_END
+</p>|P_END
+

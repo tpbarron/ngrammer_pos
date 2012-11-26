@@ -1,0 +1,31 @@
+<p>|P_START
+<s>|S_START greg|NN smith|IN is|VBZ one|CD of|IN life’s|JJ smaller|NN big|JJ winner|NN </s>|S_END
+<s>|S_START his|PRP$ ticket|NN out|IN of|IN johannesburg|NN came|VBD from|IN winning|VBG a|DT scholarship|NN to|TO stanford|VB university|NN insight|NN into|IN a|DT computerised|VBN application|NN system|NN opened|VBD the|DT way|NN to|TO an|DT internship|NN at|IN goldman|NN sachs|NNS and|CC an|DT understanding|NN of|IN its|PRP$ darwinian|JJ hiring|NN system|NN led|VBD to|TO a|DT job|NN luxurious|JJ perks|NNS and|CC high|JJ pay|NN </s>|S_END
+<s>|S_START his|PRP$ 12year|JJ career|NN ended|VBD with|IN a|DT scathing|NN denunciation|NN of|IN the|DT bank|NN on|IN the|DT editorial|NN page|NN of|IN the|DT new|JJ york|NN times|NNS and|CC the|DT publication|NN this|DT week|NN of|IN a|DT book|NN whose|WP$ title|NN “why|JJ i|NN left|NN goldman|NN sachs”|NN could|MD spark|VB an|DT entire|JJ genre|NN by|IN disaffected|JJ drones|NNS in|IN successful|JJ organisation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT whispering|NN campaign|NN of|IN sorts|NNS has|VBZ undermined|VBN mr|NN smith|IN suggesting|VBG he|PRP never|RB really|RB was|VBD up|RB to|TO goldman’s|NNS standard|JJ </s>|S_END
+<s>|S_START this|DT is|VBZ probably|RB true|JJ although|IN a|DT similar|JJ criticism|NN could|MD be|VB made|VBN of|IN everyone|NN who|WP ever|RB worked|VBD there|EX </s>|S_END
+<s>|S_START and|CC to|TO mr|VB smith’s|JJ credit|NN he|PRP left|VBD on|IN his|PRP$ own|JJ terms|NNS no|DT small|JJ feat|NN </s>|S_END
+<s>|S_START of|IN the|DT 75|CD college|NN graduates|NNS recruited|VBN from|IN his|PRP$ year|NN only|RB 7|CD were|VBD still|RB at|IN the|DT firm|NN when|WRB he|PRP departed|VBD for|IN the|DT last|JJ time|NN </s>|S_END
+<s>|S_START no|DT doubt|NN others|NNS left|VBN voluntarily|RB but|CC one|CD theme|NN that|WDT keeps|VBZ popping|VBG up|RP is|VBZ that|IN goldman|NN is|VBZ a|DT difficult|JJ place|NN to|TO join|VB and|CC a|DT difficult|NN place|NN to|TO stay|VB </s>|S_END
+<s>|S_START critics|NNS have|VBP panned|VBN the|DT book|NN for|IN being|VBG short|JJ on|IN killer|NN details|NNS but|CC it|PRP provides|VBZ a|DT rare|NN inside|NN look|NN into|IN a|DT career|NN path|NN to|TO which|WDT many|JJ aspire|NN from|IN nothing|NN to|TO wall|VB street|NN affluence|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP will|MD also|RB be|VB read|VBN because|IN of|IN its|PRP$ characterisation|NN of|IN goldman’s|JJ integrity|NN </s>|S_END
+<s>|S_START where|WRB once|RB it|PRP profited|VBD from|IN helping|VBG clients|NNS prosper|JJR the|DT bank|NN shifted|VBD mr|NN smith|IN contends|NNS into|IN an|DT entity|NN that|IN profited|VBN from|IN client|NN </s>|S_END
+<s>|S_START this|DT sentiment|NN was|VBD particularly|RB evident|JJ mr|NN smith|IN says|NNS in|IN the|DT firm’s|JJ london|NN office|NN where|WRB greed|NN and|CC selfinterest|JJS ran|NN riot|NN and|CC clients|NNS were|VBD derisively|RB referred|VBN to|TO as|RB “muppets”|JJ suggesting|NN a|DT childlike|NN naivety|NN that|WDT could|MD be|VB exploited|VBN </s>|S_END
+<s>|S_START mr|NN smith|IN is|VBZ stunned|VBN by|IN a|DT colleague|JJ who|WP says|VBZ it|PRP is|VBZ easier|JJR to|TO recover|VB a|DT lost|NN reputation|NN than|IN lost|NN principal|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START goldman|NN denies|NNS this|DT portrait|NN </s>|S_END
+<s>|S_START it|PRP reportedly|RB scanned|VBD internal|JJ emails|NNS to|TO see|VB how|WRB often|RB muppets|VBZ were|RB mentioned|VBN </s>|S_END
+<s>|S_START nearly|RB all|DT referred|VBN to|TO last|JJ year’s|NNS film|NN about|IN kermit|NN and|CC miss|NN piggy|NN </s>|S_END
+<s>|S_START but|CC the|DT old|JJ business|NN model|NN of|IN merely|RB being|VBG an|DT intermediary|JJ acting|NN on|IN behalf|NN of|IN clients|NNS does|VBZ seem|VB to|TO have|VB run|VBN its|PRP$ course|NN </s>|S_END
+<s>|S_START for|IN mr|NN smith|NN that|WDT is|VBZ to|TO goldman’s|JJ discredit|NN </s>|S_END
+<s>|S_START but|CC his|PRP$ book|NN implicitly|RB raises|VBZ another|DT question|NN why|WRB clients|NNS don’t|JJ wise|NN up|IN </s>|S_END
+</p>|P_END
+

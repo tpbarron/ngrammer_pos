@@ -1,0 +1,54 @@
+<p>|P_START
+<s>|S_START keeping|VBG drugs|NNS and|CC particularly|RB vaccines|NNS potent|VBP in|IN tropical|JJ climes|NNS is|VBZ a|DT challenge|NN </s>|S_END
+<s>|S_START heat|NN tends|NNS to|TO damage|VB them|PRP </s>|S_END
+<s>|S_START uch|JJ medicines|NNS have|VBP therefore|JJR to|TO be|VB moved|VBN from|IN one|CD refrigerator|NN to|TO another|DT along|NN what|WP is|VBZ referred|VBN to|TO as|RB a|DT cold|NN chain|NN until|IN they|PRP arrive|VBP at|IN the|DT clinics|NNS where|WRB they|PRP are|VBP to|TO be|VB administered|VBN </s>|S_END
+<s>|S_START fridges|NNS however|RB are|VBP expensive|JJ </s>|S_END
+<s>|S_START they|PRP also|RB require|VBP electricity|NN which|WDT is|VBZ not|RB always|RB available—or|JJ is|VBZ available|JJ only|RB unreliably—in|JJ the|DT poorer|NN parts|NNS of|IN the|DT world|NN </s>|S_END
+<s>|S_START as|IN a|DT consequence|NN breaks|VBZ in|IN cold|JJ chains|NNS are|VBP estimated|VBN by|IN the|DT world|NN health|NN organisation|NN to|TO destroy|VB almost|RB half|DT of|IN the|DT vaccines|NNS produced|VBN around|IN the|DT world|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN vaccines|NNS can|MD be|VB freezedried|VBN which|WDT help|NN </s>|S_END
+<s>|S_START but|CC even|RB when|WRB treated|VBN in|IN this|DT way|NN their|PRP$ lifetime|NN out|RP of|IN the|DT fridge|NN is|VBZ limited|VBN </s>|S_END
+<s>|S_START ways|NNS of|IN keeping|VBG drugs|NNS and|CC vaccines|NNS stable|JJ at|IN tropical|JJ temperatures|NNS would|MD therefore|VB be|VB welcome|VBN </s>|S_END
+<s>|S_START and|CC david|VBD kaplan|NN of|IN tufts|NNS university|NN in|IN massachusetts|NNS thinks|NNS he|PRP has|VBZ found|VBN one|CD </s>|S_END
+<s>|S_START put|VB simply|RB he|PRP and|CC his|PRP$ colleagues|NNS have|VBP worked|VBN out|RP how|WRB to|TO pack|VB medicines|NNS into|IN tiny|JJ silk|NN pouches|NNS in|IN a|DT manner|NN that|WDT makes|VBZ them|PRP almost|RB indifferent|VBP to|TO heat|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN kaplan|VBD and|CC his|PRP$ team|NN describe|NN their|PRP$ technique|NN in|IN a|DT recent|JJ issue|NN of|IN proceedings|NNS of|IN the|DT national|JJ academy|NN of|IN science|NN </s>|S_END
+<s>|S_START they|PRP start|VBP with|IN silkworm|NN cocoons—the|DT raw|NN material|NN for|IN almost|RB all|DT silk|NN production|NN </s>|S_END
+<s>|S_START they|PRP boil|VBP the|DT cocoons|NNS in|IN a|DT solution|NN of|IN sodium|NN carbonate|NN to|TO separate|JJ a|DT protein|NN called|VBN fibroin|NN which|WDT is|VBZ the|DT one|CD they|PRP want|VBP from|IN another|DT called|VBN sericin|NN which|WDT they|PRP do|VBP not|RB </s>|S_END
+<s>|S_START they|PRP treat|VBP the|DT fibroin|NN with|IN salt|NN then|RB mix|NN it|PRP with|IN the|DT substance|NN to|TO be|VB preserved|VBN and|CC spread|NN the|DT result|NN out|IN as|RB films|VBZ before|IN freezedrying|VBG it|PRP </s>|S_END
+<s>|S_START the|DT resulting|VBG films|NNS consist|VBP of|IN a|DT fibroin|NN matrix|NN filled|VBD with|IN tiny|JJ pockets|NNS a|DT few|JJ hundred|VBN nanometres|NNS billionths|NNS of|IN a|DT metre|NN acro|NN </s>|S_END
+<s>|S_START these|DT pockets|NNS contain|VBP the|DT medicine|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START packaging|NN delicate|NN medicines|NNS in|IN this|DT way|NN does|VBZ indeed|RB help|VB preserve|JJ them|PRP </s>|S_END
+<s>|S_START it|PRP immobilises|VBZ the|DT molecules|NNS preventing|VBG them|PRP from|IN unfolding|VBG and|CC thus|RB losing|VBG their|PRP$ potency|NN </s>|S_END
+<s>|S_START it|PRP also|RB minimises|VBZ residual|JJ moisture|NN even|RB better|RBR than|IN normal|JJ freezedrying|NN </s>|S_END
+<s>|S_START dr|NN kaplan|VBD and|CC his|PRP$ team|NN demonstrated|VBD the|DT effectiveness|NN of|IN their|PRP$ new|JJ technique|NN by|IN trying|VBG it|PRP out|RP on|IN the|DT mmr|NN measles|NNS mumps|NNS and|CC rubella|NN vaccine|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START prolonged|VBD storage|NN at|IN just|RB 25°c|CD will|MD cause|VB even|RB the|DT freezedried|JJ version|NN of|IN mmr|NN to|TO break|VB down|RP </s>|S_END
+<s>|S_START after|IN six|CD months|NNS it|PRP retains|VBZ only|RB 6075|CD of|IN its|PRP$ potency|NN </s>|S_END
+<s>|S_START if|IN kept|VBD for|IN that|DT length|NN of|IN time|NN at|IN 45°c|CD extreme|NN but|CC not|RB unknown|VBN in|IN the|DT tropics|NNS it|PRP is|VBZ practically|RB worthle|JJ </s>|S_END
+<s>|S_START when|WRB stored|VBN using|VBG dr|NN kaplan’s|NNS silk|VBP sheets|NNS however|RB it|PRP was|VBD still|RB about|RB 85|CD potent|NN after|IN six|CD months|NNS regardless|RB of|IN temperature|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB the|DT researchers|NNS tried|VBD the|DT same|JJ trick|NN with|IN tetracycline|NN a|DT commonly|RB prescribed|VBN antibiotic|JJ they|PRP got|VBD similar|JJ result|NN </s>|S_END
+<s>|S_START tetracycline|NN stored|VBD at|IN body|NN temperature|NN lost|VBD 80|CD of|IN its|PRP$ potency|NN after|IN four|CD weeks|NNS in|IN ordinary|JJ solution|NN but|CC lost|VBD none|NN when|WRB stored|VBN in|IN silk|NN film|NN </s>|S_END
+<s>|S_START the|DT new|JJ technique|NN also|RB worked|VBD with|IN penicillin|NN </s>|S_END
+<s>|S_START moreover|RB fibroin|VBP is|VBZ harmless|RBR to|TO people—silk|NNP is|VBZ after|IN all|DT often|RB used|VBN in|IN sutures—so|NNP there|EX is|VBZ little|JJ risk|NN of|IN adverse|NN sideeffect|NN </s>|S_END
+<s>|S_START it|PRP probably|RB does|VBZ not|RB matter|VB if|IN some|DT silk|NN gets|NNS into|IN a|DT vaccine|NN when|WRB it|PRP is|VBZ dissolved|VBN in|IN water|NN prior|RB to|TO inoculation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT said|VBD the|DT vaccines|NNS and|CC antibiotics|NNS stored|VBD in|IN this|DT new|JJ way|NN have|VBP yet|RB to|TO be|VB tested|VBN on|IN people|NNS </s>|S_END
+<s>|S_START that|DT is|VBZ the|DT next|JJ step|NN </s>|S_END
+<s>|S_START but|CC if|IN they|PRP work|VBP this|DT new|JJ trick|NN will|MD help|VB save|VB lives|NNS being|VBG needlessly|RB lost|VBN in|IN some|DT of|IN the|DT poorest|JJS parts|NNS of|IN the|DT world|NN </s>|S_END
+</p>|P_END
+

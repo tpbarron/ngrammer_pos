@@ -1,0 +1,72 @@
+<p>|P_START
+<s>|S_START thanksgiving|VBG is|VBZ coming|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “i’m|NN gon|VBD na|NN stop|NN the|DT subsidy|NN to|TO pbs…i|NNP like|IN pb|NN </s>|S_END
+<s>|S_START i|PRP love|VBP big|JJ bird”|NN mitt|NN romney|NN details|NNS one|CD budget|NN cut—to|-NONE- end|NN the|DT federal|JJ funding|NN of|IN pbs|NNS home|NN of|IN sesame|NN street—at|JJ last|JJ week’s|NNS presidential|JJ debate|NN october|NN 3rd|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START worst|NN excuse|NN of|IN the|DT week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “romney|NN did|VBD his|PRP$ debate|NN prep|NN in|IN denver|NN </s>|S_END
+<s>|S_START when|WRB you|PRP go|VBP to|TO 5000|CD feet|NNS and|CC you|PRP have|VBP only|RB a|DT few|JJ hours|NNS to|TO adjust|VB uh|NN i|PRP don’t|JJ know|NN maybe…”|NN al|NN gore|NN does|VBZ not|RB seem|VB entirely|RB convinced|VBN by|IN his|PRP$ own|JJ attempt|NN to|TO explain|VB barack|NN obama’s|-NONE- lacklustre|NN performance|NN in|IN the|DT debate|NN </s>|S_END
+<s>|S_START currenttv|NN october|NN 4th|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START regrets|NNS i’ve|VBP had|VBN a|DT few|JJ 1|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “everybody|JJ here|RB are|VBP incredible|JJ professionals…they|JJ just|RB perform|NN flawlessly|RB night|NN after|IN night|NN </s>|S_END
+<s>|S_START i|PRP can’t|VBP always|RB say|VB the|DT same”|JJ mr|NN obama|NN fundraising|VBG with|IN celebrities|NNS comments|NNS on|IN his|PRP$ own|JJ debate|NN performance|NN </s>|S_END
+<s>|S_START october|NN 7th|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START regrets|NNS i’ve|VBP had|VBN a|DT few|JJ 2|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “in|JJ this|DT case|NN i|PRP said|VBD something|NN that’s|NNS just|RB completely|RB wrong|JJ </s>|S_END
+<s>|S_START and|CC i|PRP absolutely|RB believe|VBP however|RB that|IN my|PRP$ life|NN has|VBZ shown|VBN that|IN i|PRP care|VBP about|IN 100”|CD mitt|NN romney|NN denounces|NNS his|PRP$ “47”|NN comment|NN </s>|S_END
+<s>|S_START fox|NN news|NN october|NN 4th|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START compliment|NN or|CC insult|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “joe|JJ biden|NN is|VBZ a|DT gifted|VBN orator|NN </s>|S_END
+<s>|S_START he|PRP is|VBZ very|RB good|JJ at|IN rhetoric|JJ and|CC i|PRP think|VBP he|PRP is|VBZ very|RB relatable”|JJ reince|NN priebus|VBZ head|NN of|IN the|DT republican|JJ national|JJ committee|NN managing|VBG expectations|NNS for|IN the|DT vicepresidential|JJ debate|NN </s>|S_END
+<s>|S_START cnn|NN october|NN 7th|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START power|NN grab|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “so|RB obviously|RB at|IN some|DT point|NN you|PRP need|VBP to|TO take|VB control|NN but|CC i|PRP don’t|VBP think|VBP you|PRP take|VBP control|NN because|IN you|PRP can|MD or|CC you|PRP should|MD </s>|S_END
+<s>|S_START but|CC i|PRP think|VBP you|PRP take|VBP control|NN because|IN you|PRP want|VBP the|DT conversation|NN to|TO move|VB and|CC not|RB kind|VB of|IN be|VB stuck|JJ on|IN it”|JJ cnn’s|NNS candy|NN crowley|NN who|WP will|MD moderate|VB the|DT next|JJ presidential|NN debate|NN promises|VBZ a|DT firm|NN hand|NN </s>|S_END
+<s>|S_START cnn|NN october|NN 5th|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT treason|NN of|IN the|DT clerk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “unbelievable|JJ jobs|NNS numbers…these|JJ chicago|NN guys|NNS will|MD do|VB anything…can’t|JJ debate|NN so|IN change|NN numbers”|NN jack|NN welch|NN former|NN chairman|NN of|IN ge|NN accused|VBD the|DT bureau|NN of|IN labour|PRP$ statistics|NNS of|IN manipulating|VBG unemployment|NN data|NNS to|TO aid|VB mr|NN obama’s|-NONE- reelection|NN </s>|S_END
+<s>|S_START twitter|NN october|NN 5th|CD </s>|S_END
+</p>|P_END
+

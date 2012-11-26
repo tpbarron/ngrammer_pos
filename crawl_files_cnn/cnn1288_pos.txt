@@ -1,0 +1,99 @@
+<p>|P_START
+<s>|S_START john|NN and|CC marlit|NN stubb|NN 46|CD and|CC 48|CD with|IN kids|NNS anneliese|VBP and|CC reagan|JJ of|IN kirkland|NN wash|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START money|NN magazine|NN the|DT recession|NN dealt|NN the|DT stubb|NN family|NN a|DT double|JJ blow|NN in|IN late|JJ 2008|CD john|NN lost|VBD his|PRP$ job|NN in|IN ad|NN sales|NNS </s>|S_END
+<s>|S_START marlit|NN an|DT auto|NN industry|NN performance|NN manager|NN was|VBD laid|VBN off|RP in|IN early|JJ 2009|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN john|NN found|VBD a|DT new|JJ gig|NN quickly|RB marlit|NN was|VBD out|IN of|IN work|NN for|IN two|CD full|JJ years|NNS </s>|S_END
+<s>|S_START going|VBG from|IN a|DT combined|JJ income|NN of|IN $|$ 230000|CD to|TO $|$ 90000|CD we|PRP cut|VBD everything|VBG we|PRP could|MD vacations|NNS dinners|NNS out|IN and|CC saving|VBG for|IN retirement|NN he|PRP says|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START doing|VBG so|RB they|PRP just|RB covered|VBD their|PRP$ $|$ 6000|CD monthly|RB expenses|VBZ out|RP of|IN income|NN </s>|S_END
+<s>|S_START so|IN when|WRB marlit|NN was|VBD hired|VBN by|IN chrysler|NN last|JJ february|NN bringing|VBG their|PRP$ income|NN to|TO $|$ 185000|CD they|PRP found|VBD themselves|PRP with|IN a|DT monthly|JJ surplus|NN of|IN $|$ 2000|CD even|RB after|IN restoring|VBG retirement|NN savings|NNS meals|NNS out|IN and|CC home|NN repairs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP to|TO do|VB with|IN that|DT cash|NN has|VBZ been|VBN a|DT source|NN of|IN debate|NN </s>|S_END
+<s>|S_START john|NN wants|VBZ to|TO save|VB more|JJR for|IN retirement|NN </s>|S_END
+<s>|S_START marlit|NN wants|VBZ to|TO speed|VB up|RP payment|NN of|IN their|PRP$ mortgage|NN </s>|S_END
+<s>|S_START theyd|NN both|DT like|NN to|TO bolster|VB college|NN funds|NNS for|IN children|NNS reagan|VBD and|CC anneliese|JJ ages|NNS 11|CD and|CC 14|CD </s>|S_END
+<s>|S_START seattle|NN financial|JJ planner|NN michelle|NN fait|NN offers|NNS a|DT compromise|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START three|CD fixes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START get|NN real|RB about|IN retirement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT stubbs|NNS would|MD like|VB to|TO quit|VB in|IN 12|CD years|NNS when|WRB marlit|JJ is|VBZ 60|CD john|NN is|VBZ 58|CD and|CC the|DT kids|NNS are|VBP out|IN of|IN college|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START theyre|NN now|RB saving|VBG $|$ 11250|CD a|DT year|NN in|IN johns|NNS 401k|CD he|PRP gets|VBZ a|DT $|$ 2100|CD match|NN and|CC $|$ 10000|CD in|IN roth|DT iras|NNS </s>|S_END
+<s>|S_START at|IN a|DT 6|CD average|NN annual|JJ return|NN theyll|NN have|VBP $|$ 14|CD million|CD by|IN 2023|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT wont|NN sustain|NN their|PRP$ lifestyle|NN for|IN 35|CD years|NNS fait|NN says|VBZ </s>|S_END
+<s>|S_START but|CC if|IN they|PRP delay|VBP five|CD years|NNS and|CC john|VB ups|NNS his|PRP$ 401k|CD savings|NNS to|TO $|$ 16500|CD an|DT extra|JJ $|$ 437|CD pretax|NN per|IN month|NN theyll|NN have|VBP $|$ 25|CD million|CD which|WDT should|MD do|VB the|DT trick|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pump|NN up|IN the|DT cash|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START marlit|NN wants|VBZ the|DT mortgage|NN paid|VBD off|RP because|IN shes|NNS worried|VBN that|IN if|IN she|PRP loses|VBZ her|PRP$ job|NN again|RB they|PRP could|MD lose|VB their|PRP$ house|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fait|NN says|VBZ that|IN is|VBZ unlikely|RB given|VBN how|WRB well|RB they|PRP navigated|VBD the|DT last|JJ layoff|NN </s>|S_END
+<s>|S_START so|IN rather|RB than|IN having|VBG them|PRP tie|VB up|RP money|NN in|IN an|DT illiquid|NN asset|NN she|PRP suggests|VBZ increasing|VBG cash|NN reserves|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START saving|VBG $|$ 1500|CD a|DT month|NN gets|VBZ them|PRP to|TO $|$ 70000|CD nine|CD months|NNS of|IN current|NN expenses|NNS in|IN 18|CD months|NNS </s>|S_END
+<s>|S_START this|DT takes|VBZ some|DT anxiety|NN off|RP the|DT table|JJ and|CC gives|VBZ them|PRP flexibility|NN says|VBZ fait|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START send|NN the|DT help|NN desk|NN your|PRP$ questions|NNS about|IN family|NN financial|JJ planning|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fund|NN college|NN wisely|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START john|NN and|CC marlit|NN want|NN to|TO foot|VB at|IN least|JJS half|NN their|PRP$ kids|NNS tuition|NN but|CC have|VBP only|RB $|$ 31000|CD saved|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN shoring|VBG up|RP cash|NN they|PRP can|MD redirect|VB part|NN of|IN the|DT $|$ 1500|CD to|TO college|VB savings|NNS accounts|NNS part|NN to|TO a|DT taxable|JJ account|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT will|MD allow|VB them|PRP to|TO use|VB some|DT of|IN the|DT money|NN for|IN retirement|NN if|IN the|DT kids|NNS choose|VBP public|JJ universities|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START also|RB by|IN annelieses|NNS freshman|NN year|NN they|PRP can|MD spend|VB down|IN their|PRP$ reserves|NNS to|TO six|CD months|NNS of|IN costs|NNS since|IN theyll|NN be|VB close|JJ to|TO paying|VBG off|RP their|PRP$ mortgage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START total|JJ assets|NNS $|$ 1229000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START total|JJ liabilities|NNS $|$ 135000|CD </s>|S_END
+</p>|P_END
+

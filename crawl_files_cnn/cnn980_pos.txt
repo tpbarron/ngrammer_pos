@@ -1,0 +1,87 @@
+<p>|P_START
+<s>|S_START newsweek|NN will|MD stop|VB its|PRP$ print|NN edition|NN after|IN the|DT dec|NN 31|CD issue|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN weekly|RB news|NN magazine|NN newsweek|NN announced|VBD thursday|NN it|PRP will|MD shift|VB to|TO onlineonly|RB publication|NN next|IN year|NN discontinuing|VBG its|PRP$ print|NN version|NN after|IN 80|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tina|NN brown|VBN the|DT editorinchief|NN of|IN both|DT newsweek|NN and|CC the|DT daily|JJ beast|NN the|DT online|NN news|NN site|NN that|WDT was|VBD combined|VBN with|IN the|DT magazine|NN last|JJ year|NN made|VBD the|DT announcement|NN on|IN line|NN </s>|S_END
+<s>|S_START she|PRP said|VBD the|DT growing|VBG use|NN of|IN tablet|NN computers|NNS by|IN readers|NNS combined|VBN with|IN continued|VBN weakness|NN in|IN print|NN advertising|NN forced|VBD the|DT decision|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START exiting|VBG print|NN is|VBZ an|DT extremely|RB difficult|JJ moment|NN for|IN all|DT of|IN us|PRP who|WP love|RB the|DT romance|NN of|IN print|NN and|CC the|DT unique|JJ weekly|JJ camaraderie|NN of|IN those|DT hectic|JJ hours|NNS before|IN the|DT close|NN on|IN friday|NN night|NN she|PRP said|VBD in|IN the|DT statement|NN </s>|S_END
+<s>|S_START but|CC as|IN we|PRP head|VBP for|IN the|DT 80th|JJ anniversary|NN of|IN newsweek|NN next|IN year|NN we|PRP must|MD sustain|VB the|DT journalism|NN that|IN gives|VBZ the|DT magazine|NN its|PRP$ purpose—and|JJ embrace|NN the|DT alldigital|JJ future|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT final|JJ print|NN edition|NN will|MD be|VB the|DT dec|NN 31|CD 2012|CD issue|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN decades|NNS newsweek|VBP was|VBD owned|VBN by|IN the|DT washington|NN post|NN wpo|NN </s>|S_END
+<s>|S_START but|CC the|DT post|NN sold|VBD the|DT magazine|NN to|TO audio|VB industry|NN pioneer|NN sidney|NN harman|NN in|IN august|NN 2010|CD </s>|S_END
+<s>|S_START it|PRP was|VBD merged|VBN with|IN the|DT daily|JJ beast|NN in|IN a|DT deal|NN finalized|VBN in|IN february|JJ 2011|CD creating|VBG a|DT joint|JJ venture|NN that|IN was|VBD halfowned|VBN by|IN iacinteractivecorp|NN iaci|NN </s>|S_END
+<s>|S_START iacinteractive|JJ took|VBD a|DT controlling|NN interest|NN in|IN the|DT joint|JJ venture|NN earlier|RBR this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN its|PRP$ most|RBS recent|JJ quarter|NN iac|NN reported|VBD a|DT $|$ 73|CD million|CD operating|NN loss|NN from|IN its|PRP$ media|NNS unit|NN of|IN which|WDT newsweek|NN is|VBZ a|DT major|JJ component|NN </s>|S_END
+<s>|S_START losses|NNS are|VBP expected|VBN to|TO rise|VB the|DT rest|NN of|IN this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT newsweek|NN brand|NN is|VBZ good|JJ iac|NN ceo|NN barry|NN diller|NN told|VBD investors|NNS during|IN a|DT conference|NN call|NN on|IN company|NN earnings|NNS in|IN july|RB </s>|S_END
+<s>|S_START what|WP is|VBZ the|DT problem|NN </s>|S_END
+<s>|S_START the|DT problem|NN is|VBZ in|IN manufacturing|NN producing|VBG a|DT weekly|JJ news|NN magazine|NN and|CC that|IN has|VBZ to|TO be|VB solved|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shares|NNS of|IN iac|NN were|VBD little|JJ changed|VBN in|IN morning|NN trading|NN thursday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START newsweeks|NNS print|VBP edition|NN had|VBD a|DT paid|VBN circulation|NN of|IN 12|CD million|CD copies|NNS over|IN the|DT last|JJ 12|CD months|NNS while|IN it|PRP had|VBD only|RB 26394|CD paid|VBN electronic|JJ copies|NNS on|IN average|JJ according|VBG to|TO circulation|NN data|NNS printed|VBD in|IN the|DT most|RBS recent|JJ edition|NN </s>|S_END
+<s>|S_START its|PRP$ paid|VBN circulation|NN was|VBD over|IN 31|CD million|CD as|IN recently|RB as|IN 2006|CD </s>|S_END
+<s>|S_START time|NN its|PRP$ primary|JJ competitor|NN has|VBZ a|DT paid|VBN circulation|NN of|IN 33|CD million|CD for|IN its|PRP$ print|NN edition|NN </s>|S_END
+<s>|S_START cnnmoney|NN and|CC time|NN are|VBP both|DT owned|VBN by|IN time|NN warner|NN twx|NN fortune|NN 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD twitter|NN to|TO media|NNS honchos|NNS were|VBD not|RB the|DT enemy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START brown|NN said|VBD reaching|VBG readers|NNS in|IN the|DT future|NN increasingly|RB depends|VBZ on|IN the|DT digital|JJ version|NN citing|VBG a|DT pew|NN research|NN center|NN survey|NN that|WDT said|VBD 39|CD of|IN americans|NNS get|VBP their|PRP$ news|NN from|IN an|DT online|NN source|NN </s>|S_END
+<s>|S_START and|CC there|EX are|VBP expected|VBN to|TO be|VB 70|CD million|CD computer|NN tablet|NN users|NNS by|IN the|DT end|NN of|IN the|DT year|NN she|PRP said|VBD up|RP from|IN 13|CD million|CD just|RB two|CD years|NNS ago|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN having|VBG so|RB much|RB more|RBR paid|VBN readership|NN for|IN its|PRP$ print|NN version|NN than|IN its|PRP$ digital|JJ version|NN newsweeks|NNS print|VBP advertising|NN has|VBZ been|VBN in|IN a|DT steep|NN steady|NN decline|NN in|IN recent|JJ years|NNS plunging|VBG by|IN $|$ 334|CD million|CD or|CC 70|CD between|IN 2007|CD and|CC 2011|CD according|VBG to|TO figures|NNS from|IN the|DT publishers|NNS information|NN bureau|NN </s>|S_END
+<s>|S_START while|IN newsweek|NN enjoyed|VBD a|DT rebound|NN in|IN ad|NN revenue|NN in|IN the|DT first|JJ six|CD months|NNS of|IN this|DT year|NN that|IN recouped|VBN only|RB about|IN 2|CD of|IN the|DT revenue|NN it|PRP lost|VBD in|IN the|DT previous|JJ four|CD years|NNS </s>|S_END
+<s>|S_START and|CC advertising|NN has|VBZ traditionally|RB been|VBN the|DT key|JJ to|TO print|VB profitability|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD the|DT man|NN reinventing|VBG the|DT news|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT new|JJ online|NN publication|NN will|MD be|VB called|VBN newsweek|NN global|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START regrettably|RB we|PRP anticipate|VBP staff|NN reductions|NNS and|CC the|DT streamlining|NN of|IN our|PRP$ editorial|NN and|CC business|NN operations|NNS both|DT here|RB in|IN the|DT us|PRP and|CC internationally|RB brown|JJ said|VBD in|IN the|DT statement|NN although|IN she|PRP did|VBD not|RB give|VB any|DT details|NNS on|IN the|DT extent|NN of|IN the|DT staffing|NN cuts|NNS to|TO come|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START richard|NN stengel|NN managing|VBG editor|NN of|IN time|NN said|VBD in|IN a|DT television|NN appearance|NN thursday|NN that|WDT he|PRP believes|VBZ there|RB is|VBZ still|RB value|NN in|IN publishing|NN a|DT paper|NN version|NN of|IN a|DT magazine|NN despite|IN the|DT costs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT still|RB is|VBZ the|DT single|JJ the|DT most|RBS expensive|JJ thing|NN to|TO chop|VB down|RP trees|NNS to|TO put|VB ink|NN on|IN paper|NN put|VBD it|PRP on|IN a|DT truck|NN and|CC deliver|NN it|PRP to|TO your|PRP$ house|NN he|PRP said|VBD while|IN on|IN msnbcs|NNS morning|VBG joe|NN </s>|S_END
+<s>|S_START but|CC i|PRP do|VBP think|VBP that|IN that|IN becomes|NNS a|DT premium|NN product|NN </s>|S_END
+</p>|P_END
+

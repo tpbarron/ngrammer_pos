@@ -1,0 +1,74 @@
+<p>|P_START
+<s>|S_START the|DT clock|NN is|VBZ ticking|VBG on|IN a|DT tax|NN break|NN that|WDT saves|VBZ struggling|VBG homeowners|NNS from|IN paying|VBG thousands|NNS of|IN dollars|NNS to|TO the|DT irs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT clock|NN is|VBZ ticking|VBG on|IN a|DT tax|NN break|NN that|WDT saves|VBZ struggling|VBG homeowners|NNS from|IN paying|VBG thousands|NNS of|IN dollars|NNS to|TO the|DT irs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT mortgage|NN forgiveness|NN debt|NN relief|NN act|NN of|IN 2007|CD does|VBZ not|RB get|VB extended|VBN by|IN congress|NN by|IN the|DT end|NN of|IN the|DT year|NN homeowners|NNS will|MD have|VB to|TO start|VB paying|VBG income|NN taxes|NNS on|IN the|DT portion|NN of|IN their|PRP$ mortgage|NN that|WDT is|VBZ forgiven|VBN in|IN a|DT foreclosure|NN short|NN sale|NN or|CC principal|JJ reduction|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN if|IN you|PRP owe|VBP $|$ 150000|CD on|IN your|PRP$ home|NN and|CC it|PRP sells|VBZ for|IN $|$ 100000|CD in|IN a|DT foreclosure|NN auction|NN the|DT irs|NNS could|MD tax|VB you|PRP on|IN the|DT remaining|VBG $|$ 50000|CD </s>|S_END
+<s>|S_START for|IN someone|NN in|IN the|DT 25|CD tax|NN bracket|NN that|WDT would|MD mean|VB paying|VBG $|$ 12500|CD in|IN taxes|NNS on|IN the|DT foreclosure|NN </s>|S_END
+<s>|S_START similar|JJ taxes|NNS would|MD apply|VB for|IN forgiven|VBN amounts|NNS in|IN short|JJ sales|NNS and|CC principal|JJ reductions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START people|NNS trying|VBG to|TO do|VB short|JJ sales|NNS are|VBP freaked|VBN out|RP about|IN it|PRP said|VBD elizabeth|NN weintraub|NN a|DT real|JJ estate|NN agent|NN in|IN sacramento|NN calif|IN theyre|NN telling|VBG me|PRP theyll|MD do|VB whatever|RB it|PRP takes|VBZ to|TO close|VB by|IN the|DT end|NN of|IN the|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD where|WRB homes|NNS are|VBP affordable|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START should|MD the|DT tax|NN break|NN expire|NN a|DT large|JJ number|NN of|IN mortgage|NN borrowers|NNS could|MD be|VB affected|VBN </s>|S_END
+<s>|S_START more|JJR than|IN 50000|CD homeowners|NNS go|VBP through|IN foreclosure|NN each|DT month|NN </s>|S_END
+<s>|S_START meanwhile|RB the|DT number|NN of|IN short|JJ sales|NNS has|VBZ tripled|VBN over|IN the|DT past|JJ three|CD years|NNS to|TO a|DT rate|NN of|IN about|RB half|DT a|DT million|NN a|DT year|NN </s>|S_END
+<s>|S_START and|CC under|IN the|DT terms|NNS of|IN the|DT $|$ 25|CD billion|CD foreclosure|NN abuse|NN settlement|NN roughly|RB one|CD million|CD borrowers|NNS may|MD have|VB their|PRP$ mortgage|NN debt|NN lowered|VBN through|IN principal|JJ reductions|NNS over|IN the|DT next|JJ couple|NN of|IN years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN there|EX ever|RB was|VBD a|DT nobrainer|NN in|IN housing|NN policy|NN this|DT would|MD be|VB it|PRP said|VBD jaret|NN seiberg|NN a|DT policy|NN analyst|NN for|IN guggenheim|NN securities|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB seiberg|VBP is|VBZ skeptical|JJ the|DT exemption|NN will|MD get|VB extended|VBN </s>|S_END
+<s>|S_START now|RB that|DT the|DT election|NN is|VBZ over|IN he|PRP thinks|VBZ congress|NN will|MD be|VB heading|VBG into|IN a|DT lame|JJ duck|NN session|NN with|IN very|RB little|JJ legislation|NN moving|VBG forward|RB through|IN the|DT end|NN of|IN the|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN the|DT cost|NN of|IN the|DT exemption|NN could|MD make|VB it|PRP a|DT point|NN of|IN contention|NN he|PRP said|VBD </s>|S_END
+<s>|S_START the|DT office|NN of|IN sen|NN max|NN baucus|VBZ who|WP heads|NNS the|DT finance|NN committee|NN estimated|VBD the|DT cost|NN of|IN a|DT oneyear|JJ extension|NN at|IN $|$ 13|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START others|NNS disagree|VBP </s>|S_END
+<s>|S_START tom|NN kolpien|VBN the|DT press|NN secretary|NN for|IN rep|NN tom|NN reed|VBD of|IN new|JJ york|NN said|VBD congress|NN will|MD likely|RB act|VB before|IN the|DT end|NN of|IN the|DT year|NN </s>|S_END
+<s>|S_START reed|VBD is|VBZ currently|RB pushing|VBG for|IN the|DT extension|NN on|IN the|DT house|NN ways|NNS and|CC means|VBZ committee|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD obamas|NNS housing|VBG scorecard|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT parties|NNS both|DT houses|NNS of|IN congress|NN agree|VBP its|PRP$ good|JJ policy|NN and|CC it|PRP needs|VBZ to|TO get|VB done|VBN said|VBD jamie|NN gregory|NN chief|NN lobbyist|NN for|IN the|DT national|JJ association|NN of|IN realtors|NNS which|WDT supports|NNS an|DT extension|NN </s>|S_END
+<s>|S_START the|DT hold|NN up|RP is|VBZ the|DT process|NN </s>|S_END
+<s>|S_START im|NN confident|VBD it|PRP will|MD get|VB done|VBN </s>|S_END
+<s>|S_START i|PRP just|RB dont|JJ know|NN how|WRB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB if|IN congress|NN allowed|VBD the|DT exemption|NN to|TO expire|VB not|RB all|DT borrowers|NNS with|IN forgiven|JJ mortgage|NN debt|NN will|MD take|VB a|DT tax|NN hit|NN </s>|S_END
+<s>|S_START if|IN the|DT debt|NN is|VBZ discharged|VBN in|IN a|DT bankruptcy|NN no|DT tax|NN is|VBZ due|JJ </s>|S_END
+<s>|S_START and|CC anyone|NN who|WP is|VBZ insolvent|VBN meaning|VBG they|PRP have|VBP more|JJR debt|NN than|IN assets|NNS at|IN the|DT time|NN the|DT debt|NN was|VBD forgiven|VBN would|MD not|RB have|VB to|TO pay|VB the|DT tax|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START also|RB in|IN some|DT states|NNS like|IN california|NN certain|JJ borrowers|NNS are|VBP protected|VBN against|IN paying|VBG the|DT tax|NN because|IN of|IN the|DT way|NN the|DT state|NN treats|NNS foreclosures|NNS </s>|S_END
+</p>|P_END
+

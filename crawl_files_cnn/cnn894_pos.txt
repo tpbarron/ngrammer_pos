@@ -1,0 +1,134 @@
+<p>|P_START
+<s>|S_START the|DT public|NN has|VBZ every|DT right|NN to|TO be|VB outraged|VBN over|RP allegations|NNS that|WDT banks|NNS manipulated|VBD key|JJ global|JJ interest|NN rates|NNS </s>|S_END
+<s>|S_START but|CC some|DT consumers|NNS may|MD have|VB actually|RB benefited|VBN from|IN the|DT libor|NN mess|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN public|JJ outrage|NN is|VBZ growing|VBG over|IN allegations|NNS that|WDT banks|NNS manipulated|VBD key|JJ global|JJ interest|NN rates|NNS </s>|S_END
+<s>|S_START but|CC some|DT consumers|NNS may|MD have|VB actually|RB benefited|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START wall|NN street|VBD has|VBZ been|VBN abuzz|JJ the|DT past|JJ two|CD weeks|NNS since|IN british|JJ banking|NN giant|NN barclays|NNS bcs|NNS reached|VBD a|DT $|$ 453|CD million|CD settlement|NN with|IN us|PRP and|CC uk|VB regulators|NNS admitting|VBG that|IN its|PRP$ staffers|NNS attempted|VBN to|TO manipulate|VB the|DT london|NN interbank|NN offered|VBD rate|NN or|CC libor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START libor|NN is|VBZ the|DT worlds|NNS most|JJS important|JJ benchmark|NN for|IN interest|NN rates|NNS </s>|S_END
+<s>|S_START roughly|RB $|$ 10|CD trillion|CD in|IN loans|NNS including|VBG some|DT credit|NN card|NN rates|NNS car|NN loans|NNS student|NN loans|NNS and|CC adjustablerate|VB mortgages|NNS as|IN well|RB as|IN some|DT $|$ 350|CD trillion|CD in|IN derivatives|NNS are|VBP tied|VBN to|TO libor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START given|VBN its|PRP$ vast|JJ reach|NN any|DT changes|NNS to|TO libor|VB mean|JJ huge|JJ shifts|NNS of|IN resources|NNS globally|RB </s>|S_END
+<s>|S_START if|IN the|DT banks|NNS systematically|RB suppressed|VBN it|PRP during|IN the|DT financial|JJ crisis|NN as|IN has|VBZ been|VBN alleged|VBN many|JJ borrowers|NNS likely|JJ enjoyed|VBN lower|JJR interest|NN payments|NNS as|IN a|DT result|NN </s>|S_END
+<s>|S_START on|IN the|DT other|JJ hand|NN pensions|NNS and|CC mutual|JJ funds|NNS with|IN investments|NNS in|IN liborbased|VBN securities|NNS effectively|RB lenders|NNS would|MD have|VB earned|VBN less|JJR in|IN interest|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN every|DT single|JJ person|NN it|PRP just|RB depends|VBZ on|IN how|WRB much|JJ you|PRP borrow|VBP versus|PRP how|WRB much|RB you|PRP lend|VBP and|CC it|PRP also|RB depends|VBZ the|DT specifics|NNS of|IN your|PRP$ own|JJ contracts|NNS and|CC investments|NNS said|VBD rosa|NN abrantesmetz|NN an|DT associate|NN professor|NN at|IN new|JJ york|NN universitys|NNS stern|VBP school|NN of|IN business|NN who|WP has|VBZ studied|VBN libor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START libor|NN is|VBZ designed|VBN to|TO measure|VB the|DT cost|NN of|IN borrowing|NN between|IN the|DT worlds|NNS largest|JJS banks|NNS generating|VBG rates|NNS that|WDT are|VBP used|VBN in|IN contracts|NNS for|IN all|DT sorts|NNS of|IN loans|NNS and|CC derivatives|NNS </s>|S_END
+<s>|S_START for|IN example|NN an|DT adjustablerate|NN mortgage|NN might|MD require|VB you|PRP to|TO pay|VB interest|NN based|VBN on|IN a|DT given|VBN libor|NN rate|NN plus|VBZ 2|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START libor|NN rates|NNS are|VBP set|VBN each|DT business|NN day|NN through|IN a|DT process|NN overseen|VBN by|IN the|DT british|JJ bankers|NNS association|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START between|IN six|CD and|CC 18|CD large|JJ banks|NNS are|VBP asked|VBN what|WP interest|NN rate|NN they|PRP would|MD have|VB to|TO pay|VB to|TO borrow|VB money|NN for|IN a|DT certain|JJ period|NN of|IN time|NN and|CC in|IN a|DT certain|JJ currency|NN </s>|S_END
+<s>|S_START the|DT responses|NNS are|VBP collected|VBN by|IN thomson|NN reuters|NNS which|WDT removes|NNS a|DT certain|JJ percentage|NN of|IN the|DT highest|JJS and|CC lowest|JJS figures|NNS before|IN calculating|VBG the|DT averages|NNS and|CC creating|VBG the|DT libor|NN quotes|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT concerns|NNS about|IN libors|NNS integrity|NN center|NN on|IN two|CD kinds|NNS of|IN alleged|JJ manipulation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN barclays|NNS settlement|NN documents|NNS the|DT bank|NN admitted|VBD that|IN between|IN 2005|CD and|CC 2008|CD its|PRP$ traders|NNS repeatedly|RB requested|VBN that|IN colleagues|NNS in|IN charge|NN of|IN the|DT libor|NN process|NN tailor|NN the|DT banks|NNS submissions|NNS to|TO benefit|VB their|PRP$ trading|NN positions|NNS </s>|S_END
+<s>|S_START they|PRP also|RB colluded|VBD with|IN traders|NNS at|IN other|JJ banks|NNS in|IN an|DT attempt|NN to|TO manipulate|VB rates|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT logic|NN is|VBZ similar|JJ to|TO that|DT of|IN insider|NN trading|NN in|IN the|DT stock|NN market|NN if|IN you|PRP have|VBP advance|NN knowledge|NN of|IN information|NN that|IN will|MD affect|VB a|DT security|NN you|PRP can|MD make|VB trades|NNS to|TO profit|NN from|IN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ hard|JJ to|TO say|VB what|WP cumulative|JJ affect|NN if|IN any|DT these|DT actions|NNS had|VBD on|IN consumers|NNS the|DT biggest|JJS victims|NNS were|VBD likely|JJ other|JJ traders|NNS </s>|S_END
+<s>|S_START emails|NNS disclosed|VBD as|IN part|NN of|IN the|DT barclays|NNS settlement|NN show|NN traders|NNS requesting|VBG that|IN rates|NNS move|VBP both|DT up|IN and|CC down|IN apparently|RB with|IN no|DT systematic|JJ bias|NN in|IN either|DT direction|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START separately|RB however|RB barclays|VBZ admitted|VBN to|TO artificially|RB lowering|VBG its|PRP$ libor|NN submissions|NNS between|IN august|JJ 2007|CD and|CC january|JJ 2009|CD as|IN the|DT financial|JJ crisis|NN gathered|VBN force|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bank|NN was|VBD afraid|VBN that|IN if|IN its|PRP$ submissions|NNS were|VBD too|RB high|JJ it|PRP would|MD get|VB punished|VBN in|IN the|DT markets|NNS as|IN investors|NNS questioned|VBD its|PRP$ health|NN </s>|S_END
+<s>|S_START it|PRP claims|VBZ it|PRP was|VBD only|RB following|VBG the|DT lead|NN of|IN other|JJ institutions|NNS engaged|VBD in|IN the|DT same|JJ behavior|NN and|CC in|IN fact|NN even|RB its|PRP$ artificially|RB low|JJ submissions|NNS were|VBD sometimes|RB above|IN the|DT average|NN level|NN from|IN other|JJ banks|NNS according|VBG to|TO settlement|NN documents|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START deutsche|PRP bank|VBD db|NN royal|NN bank|NN of|IN scotland|NN rbs|NNS credit|NN suisse|NN cs|NNS citigroup|NN c|NN fortune|NN 500|CD ubs|NNS ubs|NNS and|CC jpmorgan|VBD jpm|NN fortune|NN 500|CD are|VBP among|IN the|DT other|JJ institutions|NNS that|IN have|VBP acknowledged|VBN they|PRP are|VBP being|VBG investigated|VBN by|IN regulators|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ difficult|NN to|TO say|VB exactly|RB what|WP libor|NN rates|NNS should|MD have|VB been|VBN during|IN the|DT crisis|NN given|VBN that|IN banks|NNS were|VBD reluctant|JJ to|TO lend|VB to|TO one|CD another|DT and|CC real|JJ transactions|NNS on|IN which|WDT to|TO base|VB libor|NN submissions|NNS were|VBD scarce|NN </s>|S_END
+<s>|S_START nonetheless|RB the|DT evidence|NN suggests|VBZ the|DT banks|NNS pushed|VBD rates|NNS lower|JJR than|IN they|PRP would|MD have|VB been|VBN in|IN an|DT honest|NN accounting|VBG providing|NN a|DT subsidy|NN to|TO many|JJ borrowers|NNS in|IN the|DT process|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN it|PRP really|RB was|VBD the|DT case|NN that|IN the|DT banks|NNS were|VBD systematically|RB lying|VBG on|IN the|DT low|JJ side|NN during|IN the|DT crisis|NN a|DT lot|NN of|IN people|NNS were|VBD paying|VBG less|JJR on|IN mortgages|NNS and|CC loans|NNS said|VBD dean|JJ baker|NN codirector|NN of|IN the|DT center|NN for|IN economic|JJ and|CC policy|NN research|NN </s>|S_END
+<s>|S_START on|IN the|DT flip|NN side|NN people|NNS holding|VBG those|DT mortgages|NNS and|CC notes|NNS were|VBD earning|VBG less|JJR than|IN they|PRP should|MD have|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT number|NN of|IN litigants|NNS have|VBP already|RB filed|VBN civil|NN suits|NNS against|IN the|DT banks|NNS claiming|VBG that|IN they|PRP lost|VBD profits|NNS on|IN liborbased|VBN securities|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN one|CD suit|NN for|IN example|NN charles|NNS schwab|NN schw|NN fortune|NN 500|CD says|VBZ one|CD of|IN its|PRP$ investment|NN funds|NNS purchased|VBN debt|NN securities|NNS from|IN the|DT banks|NNS in|IN which|WDT the|DT interest|NN payments|NNS rose|VBD and|CC fell|VBD with|IN libor|NN </s>|S_END
+<s>|S_START with|IN libors|NNS alleged|VBN suppression|NN charles|NNS schwab|VBP says|VBZ it|PRP was|VBD deprived|VBN of|IN the|DT higher|JJR interest|NN payments|NNS it|PRP deserved|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN another|DT complaint|NN investor|NN ellen|NN gelboim|NN claims|VBZ she|PRP purchased|VBD corporate|JJ debt|NN that|IN paid|VBN variable|JJ interest|NN based|VBN on|IN libor|NN and|CC suffered|VBD lower|JJR returns|NNS as|IN the|DT banks|NNS held|VBD the|DT rate|NN down|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB exactly|RB such|JJ investments|NNS were|VBD affected|VBN depends|NNS on|IN their|PRP$ specific|JJ terms|NNS abrantesmetz|VBP said|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP also|RB investors|NNS who|WP purchased|VBN futures|NNS that|WDT allowed|VBD them|PRP to|TO speculate|VB on|IN the|DT direction|NN of|IN interest|NN rates|NNS </s>|S_END
+<s>|S_START due|JJ to|TO libors|NNS alleged|VBN suppression|NN theyve|NN claimed|VBD in|IN lawsuits|NNS their|PRP$ futures|NNS contracts|NNS paid|VBD out|IN less|JJR than|IN they|PRP should|MD have|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START beyond|IN the|DT individual|JJ level|NN many|JJ municipalities|NNS claim|VBP to|TO have|VB been|VBN hit|VBN hard|JJ by|IN a|DT lower|JJR libor|NN </s>|S_END
+<s>|S_START plaintiffs|NNS like|IN the|DT city|NN of|IN baltimore|NN and|CC a|DT public|JJ employee|NN pension|NN fund|NN in|IN connecticut|NN say|NN they|PRP suffered|VBD after|IN purchasing|VBG common|JJ financial|JJ products|NNS called|VBN interest|NN rate|NN swaps|NNS from|IN the|DT banks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN these|DT swaps|NNS the|DT banks|NNS paid|VBD interest|NN at|IN a|DT variable|JJ rate|NN based|VBN on|IN libor|NN </s>|S_END
+<s>|S_START with|IN libor|NN suppressed|VBN the|DT suits|NNS claim|VBP the|DT banks|NNS paid|VBD millions|NNS of|IN dollars|NNS less|JJR than|IN they|PRP should|MD have|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START defendants|NNS caused|VBD libor|NN to|TO be|VB calculated|VBN or|CC suppressed|VBN artificially|RB low|JJ reaping|NN hundreds|NNS of|IN millions|NNS if|IN not|RB billions|NNS of|IN dollars|NNS in|IN illgotten|NN gains|NNS baltimores|NNS suit|VBP says|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START attempts|NNS to|TO quantify|VB the|DT effect|NN on|IN a|DT particular|JJ group|NN or|CC individual|JJ are|VBP complicated|VBN by|IN the|DT complexity|NN of|IN the|DT liborsetting|NN process|NN the|DT variety|NN of|IN banks|NNS involved|VBN and|CC the|DT myriad|JJ of|IN financial|JJ instruments|NNS libor|NN influences|NNS </s>|S_END
+<s>|S_START in|IN any|DT case|NN beyond|IN any|DT individual|JJ gains|NNS and|CC losses|NNS the|DT economy|NN has|VBZ been|VBN harmed|VBN in|IN a|DT broader|JJR sense|NN if|IN the|DT allegations|NNS are|VBP proven|VBN correct|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN one|CD thing|NN market|NN participants|NNS and|CC regulators|NNS were|VBD given|VBN inaccurate|JJ information|NN on|IN which|WDT to|TO assess|NN the|DT health|NN of|IN the|DT banks|NNS as|IN they|PRP made|VBD investment|NN or|CC policy|NN decisions|NNS </s>|S_END
+<s>|S_START for|IN another|DT regardless|NN of|IN whether|IN the|DT manipulation|NN attempts|VBZ were|VBD successful|JJ the|DT revelations|NNS of|IN the|DT past|JJ two|CD weeks|NNS have|VBP further|JJ eroded|VBN trust|NN among|IN investors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT real|JJ issue|NN is|VBZ that|IN alleged|VBN manipulation|NN undermines|NNS the|DT credibility|NN of|IN financial|JJ markets|NNS and|CC thats|NNS what|WP regulators|NNS should|MD have|VB zero|CD tolerance|NN for|IN said|VBD greg|NN mcbride|NN a|DT senior|JJ analyst|NN at|IN bankratecom |NNP </s>|S_END
+</p>|P_END
+

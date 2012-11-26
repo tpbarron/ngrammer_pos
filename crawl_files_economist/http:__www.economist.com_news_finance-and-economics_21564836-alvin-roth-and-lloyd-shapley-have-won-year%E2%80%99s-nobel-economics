@@ -1,0 +1,32 @@
+<p>IN MOST countries it is illegal to buy or sell a kidney. If you need a transplant you join a waiting list until a matching organ becomes available. This drives economists nuts. Why not allow willing donors to sell spare kidneys and let patients (or the government, acting on their behalf) bid for them? The waiting list would disappear overnight.</p>
+
+<p>The reason is that most societies find the concept of mixing kidneys and cash repugnant. People often exclude financial considerations from their most important decisions, from the person they marry to the foster child they adopt. Even some transactions that do involve money are not really about price. Universities in America do not admit students based on who pays the most, for example. Rather, they select students based on complex criteria that include grades, test scores and diversity. Similarly, students choose their university on more than just financial factors.</p>
+
+<p>Money is not essential to a market. After all, economics is about maximising welfare, not GDP. But the absence of a price to allocate supply and demand makes it harder to know whether welfare is being maximised. This year’s Nobel prize in economics went to two scholars—Alvin Roth, who has just joined the economics department at Stanford University, and Lloyd Shapley, a retired mathematician at the University of California, Los Angeles—who have grappled with that very problem.</p>
+
+<p>In 1962 David Gale (who died in 2008) and Mr Shapley, now 89, published a playful paper called “College Admissions and the Stability of Marriage”. They noted the similarity between college admissions, in which students and universities are trying to pair up to their mutual satisfaction, and the marriage market, in which a fixed number of men and women are trying to find a match. In romantic comedies, each man and woman marries their own true love. In real life, some people settle for second-best, which can lead to lots of trouble. If John and Mary love each other but are married to other people, they will be tempted to leave their current partner and marry each other. But if John loves Mary, while Mary loves her husband more than John, both will stay put.</p>
+
+<p>Mr Gale and Mr Shapley devised an algorithm for matching an equal number of men and women that would guarantee this second, more stable outcome. Each man and woman ranks their preferred partners. Each man proposes to his highest-ranked woman. Each woman rejects all the proposals she gets except the highest-ranked among them. But she does not accept the proposal, in case a man she prefers even more proposes next time. The algorithm is rerun until all women have a satisfactory proposal.</p>
+
+<p>Sadly, “co-operative game theory” has not yet had the opportunity to transform the marriage market. But Mr Roth spotted practical applications in other areas. In the 1940s the competition for new doctors sometimes saw hospitals making offers to students years before they graduated and thus before their qualifications were truly known. The National Resident Matching Programme was devised to match doctors to hospitals in a way that maximised their satisfaction. This programme, Mr Roth noted in a 1984 paper, was a real-life example of the “deferred-acceptance” algorithm of Messrs Gale and Shapley. The tests of a well-designed market are that participants are satisfied enough that they don’t go around it, and that there is little incentive to game the system—by, for example, lying about their preferences. This was true of the resident-matching programme, Mr Roth said.</p>
+
+<p>Other systems worked far less well. Both the New York and Boston public-school systems used to assign students according to their preferred choices, but students often had to decide before knowing all their options. Thousands ended up at schools for which they had expressed no preference. Mr Roth helped both design algorithms that significantly reduced these mismatches.</p>
+
+<p>He also applied his expertise to organ donation. A man who would not donate a kidney in other circumstances may do so if his wife needs one. If their blood types do not match, they can be paired with a couple in the mirror-image position. The New England Programme for Kidney Exchange, which was partly designed by Mr Roth, incorporates much more complex chains of donors and recipients and raises the supply of kidneys by making a donor more confident his loved one will find a match.</p>
+
+<p>I love you, subject to the next algorithm</p>
+
+<p>In time the internet could make formal matching systems viable for even more transactions. Existing systems cannot always be improved upon, however. Utku Ünver at Boston College, who helped develop the kidney-exchange programme with Mr Roth, points to the allocation of law students to federal-judge clerkships. Judges have complete control over whom they hire, and many students to choose from, so there are fewer benefits to a formal clearing-house system. When economics departments hire new PhDs, their preferences are too difficult to codify in a matching system. And in many cases such systems should only facilitate transactions, not execute them. Mr Unver and his colleagues are developing a way of recommending foster children to adoptive parents in Pennsylvania, but the final decision is left to social workers and the families.</p>
+
+<p>In their 1962 article Mr Gale and Mr Shapley noted that their algorithm was not particularly complicated, illustrating a larger point about their discipline: “any argument that is carried out with sufficient precision is mathematical.” The recognition of Mr Shapley’s and Mr Roth’s work is also a reminder: that for all the bad press economics has received since the crisis, the discipline still brims over with insights that can solve real-life problems.</p>
+
+<p>Sources</p>
+
+<p>"College admissions and the stability of marriage", by D. Gale and L.S. Shapley, American Mathematical Monthly, 1962</p>
+
+<p>"Stable Allocations and the Practice of Market Design", compiled by the Economic Sciences Prize Committee of the Royal Swedish Academy of Sciences, 2012</p>
+
+<p>"The evolution of the labour market for medical interns and residents: A case study in game theory", by A.E. Roth, Journal of Political Economy, 1984</p>
+
+<p>Economist.com/blogs/freeexchange</p>
+

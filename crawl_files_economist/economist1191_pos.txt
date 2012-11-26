@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 29|CD gdp|NN $|$ 161bn|CD ppp|CD $|$ 140bn|CD inflation|NN 25|CD population|NN 45m|CD gdp|NN per|IN head|NN $|$ 35880|CD ppp|CD $|$ 31240|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ruling|NN national|JJ party|NN was|VBD poised|VBN to|TO win|VB a|DT second|JJ term|NN in|IN late2011|NNP elections|NNS and|CC may|MD even|RB secure|VB an|DT overall|JJ majority|NN unprecedented|VBD under|IN current|JJ voting|NN rule|NN </s>|S_END
+<s>|S_START policy|NN will|MD continue|VB to|TO focus|VB on|IN fiscal|JJ stimulus|NN as|IN the|DT country|NN recovers|NNS from|IN the|DT christchurch|NN earthquake|NN </s>|S_END
+<s>|S_START discussions|NNS will|MD progress|VB with|IN australia|NN on|IN tightening|NN economic|JJ ties|NNS in|IN line|NN with|IN the|DT eventual|JJ creation|NN of|IN a|DT single|JJ market|NN </s>|S_END
+</p>|P_END
+

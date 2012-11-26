@@ -1,0 +1,77 @@
+<p>|P_START
+<s>|S_START pity|NN the|DT financial|JJ regulator|NN </s>|S_END
+<s>|S_START the|DT evidence|NN suggests|VBZ that|IN bank|NN executives|NNS and|CC the|DT independent|JJ directors|NNS on|IN their|PRP$ boards|NNS fail|VBP to|TO understand|VB the|DT complex|NN organisations|NNS they|PRP control|VBP </s>|S_END
+<s>|S_START how|WRB is|VBZ an|DT outside|JJ supervisor|NN to|TO manage|NN particularly|RB when|WRB the|DT best|JJS and|CC brightest|JJS of|IN its|PRP$ staff|NN can|MD be|VB lured|VBN away|RB by|IN the|DT higher|JJR salaries|NNS on|IN offer|NN in|IN the|DT city|NN or|CC on|IN wall|JJ street|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN practice|NN as|IN andrew|JJ haldane|NN of|IN the|DT bank|NN of|IN england|NN highlighted|VBN in|IN a|DT speech|NN at|IN the|DT recent|JJ jackson|NN hole|NN meeting|NN of|IN central|JJ bankers|NNS see|VBP free|JJ exchange|NN regulators|NNS have|VBP responded|VBN by|IN trying|VBG to|TO match|VB the|DT complexity|NN of|IN the|DT firms|NNS they|PRP supervise|VBP </s>|S_END
+<s>|S_START the|DT first|JJ set|NN of|IN basel|NN rules|NNS on|IN bank|NN capital|NN was|VBD just|RB 30|CD pages|NNS long|RB the|DT second|JJ go|NN had|VBD 347|CD pages|NNS basel|NN 3|CD has|VBZ 616|CD </s>|S_END
+<s>|S_START in|IN america|NN the|DT glasssteagall|NN act|NN of|IN 1933|CD which|WDT separated|VBN commercial|JJ and|CC investment|NN banking|NN was|VBD a|DT concise|NN 37|CD pages|NNS the|DT doddfrank|NN act|NN of|IN 2010|CD ran|NN to|TO 848|CD and|CC may|MD spawn|VB a|DT further|JJ 30000|CD pages|NNS of|IN detailed|JJ rulemaking|NN by|IN various|JJ agencie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT these|DT rules|NNS require|VBP banks|NNS to|TO fill|VB in|IN reams|NNS of|IN forms|NNS and|CC regulators|NNS to|TO monitor|NN the|DT result|NN </s>|S_END
+<s>|S_START mr|NN haldane|NN estimates|NNS that|WDT basel|NN 3|CD may|MD consume|VB the|DT time|NN of|IN 70000|CD workers|NNS in|IN the|DT european|JJ banking|NN industry|NN </s>|S_END
+<s>|S_START in|IN 1935|CD there|EX was|VBD one|CD american|JJ financial|JJ regulator|NN for|IN every|DT three|CD banks|NNS now|RB there|RB are|VBP three|CD regulators|NNS for|IN every|DT bank|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT financial|JJ crisis|NN of|IN 200708|CD and|CC the|DT continued|VBN weakness|NN of|IN banks|NNS suggest|VBP that|IN complexity|NN has|VBZ not|RB served|VBN its|PRP$ purpose|NN </s>|S_END
+<s>|S_START in|IN a|DT world|NN of|IN multiple|NN connections|NNS where|WRB the|DT distribution|NN of|IN future|JJ probabilities|NNS can|MD not|RB be|VB known|VBN unlike|IN the|DT probabilities|NNS involved|VBD when|WRB spinning|VBG a|DT roulette|NN wheel|NN simple|NN rules|NNS of|IN thumb|NN may|MD be|VB more|RBR useful|JJ than|IN sophisticated|JJ model|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN haldane|NN uses|NNS the|DT analogy|NN of|IN dogs|NNS such|JJ as|IN border|NN collies|NNS which|WDT are|VBP very|RB reliable|JJ catchers|NNS of|IN frisbees|NNS without|IN being|VBG aware|NN of|IN the|DT complex|JJ calculations|NNS wind|VBP speed|VBN air|NN resistance|NN etc|NN that|WDT might|MD be|VB involved|VBN </s>|S_END
+<s>|S_START the|DT rule|NN which|WDT the|DT dog’s|NNP brain|NN has|VBZ subliminally|RB worked|VBN out|RP is|VBZ to|TO run|VB at|IN a|DT speed|NN so|IN that|IN the|DT angle|NN of|IN gaze|NN to|TO the|DT frisbee|NN remains|VBZ constant|JJ </s>|S_END
+<s>|S_START baseball|NN players|NNS and|CC cricketers|NNS follow|VBP similar|JJ strategie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT simple|JJ rule|NN that|IN mr|NN haldane|NN suggests|VBZ for|IN regulators|NNS is|VBZ to|TO look|VB at|IN the|DT “leverage|JJ ratio”|NN the|DT relationship|NN between|IN a|DT bank’s|JJ equity|NN capital|NN and|CC the|DT assets|NNS on|IN its|PRP$ balancesheet|NN </s>|S_END
+<s>|S_START a|DT bank’s|JJ assets|NNS are|VBP largely|RB the|DT loans|NNS it|PRP makes|VBZ customer|NN deposits|NNS count|VBP as|RB liabilitie|JJ </s>|S_END
+<s>|S_START a|DT low|JJ leverage|NN ratio|NN is|VBZ counterintuitively|RB a|DT bad|JJ thing|NN if|IN a|DT bank’s|JJ loans|NNS turn|VBP bad|JJ there|EX is|VBZ more|JJR risk|NN that|IN its|PRP$ equity|NN will|MD be|VB wiped|VBN out|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT regulators|NNS behind|IN the|DT basel|NN rules|NNS have|VBP tended|VBN to|TO think|VB a|DT leverage|NN ratio|NN is|VBZ too|RB unsophisticated|VBN </s>|S_END
+<s>|S_START take|VB two|CD banks|NNS each|DT with|IN $|$ 4|CD billion|CD of|IN equity|NN and|CC $|$ 100|CD billion|CD of|IN asset|NN </s>|S_END
+<s>|S_START on|IN a|DT simple|JJ measure|NN of|IN leverage|NN they|PRP look|VBP equally|RB risky|JJ </s>|S_END
+<s>|S_START but|CC bank|VBD a’s|NNS assets|NNS are|VBP invested|VBN entirely|RB in|IN treasury|NN bonds|NNS and|CC bank|NN b’s|NNS are|VBP lent|VBN to|TO miami|VB condominium|NN developer|NN </s>|S_END
+<s>|S_START common|JJ sense|NN suggests|VBZ bank|NN b’s|NNS balancesheet|VBP is|VBZ much|RB more|RBR risky|JJ and|CC the|DT basel|NN rules|NNS “riskweight”|-NONE- assets|NNS so|IN that|IN it|PRP ends|VBZ up|RP holding|VBG more|JJR capital|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC risk|VB weighting|VBG creates|NNS problems|NNS of|IN its|PRP$ own|JJ </s>|S_END
+<s>|S_START before|IN the|DT crisis|NN the|DT basel|NN rules|NNS provided|VBN an|DT incentive|NN to|TO create|VB aaarated|VBN securities|NNS such|JJ as|IN the|DT infamous|JJ structured|VBN products|NNS linked|VBN to|TO subprime|VB mortgages|NNS since|IN they|PRP carried|VBD a|DT low|JJ capital|NN charge|NN for|IN bank|NN </s>|S_END
+<s>|S_START in|IN addition|NN banks|NNS were|VBD allowed|VBN to|TO use|VB their|PRP$ own|JJ models|NNS to|TO calculate|VB the|DT riskiness|NN of|IN their|PRP$ balancesheet|NN </s>|S_END
+<s>|S_START unsurprisingly|RB they|PRP erred|VBD on|IN the|DT side|NN of|IN optimism|NN </s>|S_END
+<s>|S_START the|DT result|NN as|IN the|DT world|NN headed|VBD into|IN 2007|CD was|VBD that|IN banks’|-NONE- balancesheets|NNS were|VBD much|RB riskier|JJR than|IN they|PRP appeared|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN course|NN no|DT regulation|NN is|VBZ foolproof|IN </s>|S_END
+<s>|S_START american|NN commercial|JJ banks|NNS were|VBD subject|JJ to|TO a|DT leverage|NN ratio|NN in|IN the|DT runup|NN to|TO the|DT financial|JJ crisis|NN they|PRP still|RB ran|VBD into|IN trouble|NN </s>|S_END
+<s>|S_START herein|NN lies|NNS the|DT regulators’|NN dilemma|NN </s>|S_END
+<s>|S_START focus|NN on|IN any|DT one|CD measure|NN and|CC banks|NNS will|MD find|VB ways|NNS to|TO get|VB around|IN it|PRP </s>|S_END
+<s>|S_START the|DT temptation|NN is|VBZ to|TO add|VB further|JJ measures|NNS to|TO restrict|VB their|PRP$ wiggleroom|NN basel|NN 3|CD uses|NNS both|DT risk|NN weights|NNS and|CC a|DT leverage|NN ratio|NN </s>|S_END
+<s>|S_START but|CC the|DT more|RBR measures|NNS that|WDT are|VBP used|VBN the|DT more|RBR complex|JJ the|DT system|NN become|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START although|IN the|DT thrust|NN of|IN mr|NN haldane’s|NNS analysis|NN is|VBZ surely|RB right|RB it|PRP is|VBZ surprising|VBG that|IN he|PRP does|VBZ not|RB focus|VB on|IN another|DT simple|NN factor|NN change|NN </s>|S_END
+<s>|S_START as|IN peter|NN hahn|NN of|IN the|DT cass|NN business|NN school|NN in|IN london|NN points|NNS out|IN a|DT bank|NN that|WDT suddenly|RB increases|VBZ its|PRP$ market|NN share|NN or|CC expands|NNS its|PRP$ balancesheet|NN is|VBZ usually|RB the|DT one|CD to|TO watch|VB </s>|S_END
+<s>|S_START that|DT was|VBD the|DT case|NN with|IN northern|JJ rock|NN a|DT british|JJ bank|NN that|WDT grew|VBD explosively|RB before|IN failing|VBG in|IN 2007|CD </s>|S_END
+<s>|S_START there|EX is|VBZ always|RB a|DT chance|NN that|WDT the|DT bank|NN has|VBZ a|DT new|JJ model|NN that|WDT is|VBZ transforming|VBG the|DT industry|NN </s>|S_END
+<s>|S_START but|CC the|DT odds|NNS are|VBP that|IN the|DT bank|NN is|VBZ either|DT lowering|VBG its|PRP$ credit|NN standards|NNS or|CC undercharging|VBG for|IN the|DT risks|NNS it|PRP is|VBZ taking|VBG </s>|S_END
+<s>|S_START a|DT regulator|NN who|WP has|VBZ lived|VBN through|IN a|DT few|JJ cycles|NNS should|MD be|VB able|JJ to|TO spot|NN the|DT danger|NN without|IN the|DT need|NN for|IN a|DT sophisticated|JJ model|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogsbuttonwood|NN </s>|S_END
+</p>|P_END
+

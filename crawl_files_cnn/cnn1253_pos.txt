@@ -1,0 +1,90 @@
+<p>|P_START
+<s>|S_START lulz|NN security|NN advertised|VBD its|PRP$ sony|NN hack|NN in|IN an|DT ascii|NN art|NN festooned|VBD press|NN release|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN sony|NN just|RB cant|JJ catch|NN a|DT break|NN from|IN hackers|NNS </s>|S_END
+<s>|S_START a|DT group|NN calling|VBG itself|PRP lulz|NN security|NN announced|VBD a|DT fresh|JJ attack|NN on|IN thursday|NN posting|VBG online|NN snippets|NNS of|IN data|NNS it|PRP says|VBZ came|VBD from|IN a|DT breach|NN earlier|RBR this|DT week|NN of|IN more|JJR than|IN 1|CD million|CD user|NN accounts|NNS on|IN sonys|NNS website|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lulz|NN began|VBD posting|VBG messages|NNS to|TO twitter|VB on|IN thursday|NN about|IN its|PRP$ sownage|NN campaign|NN and|CC around|IN 430|CD pm|NN </s>|S_END
+<s>|S_START et|NN it|PRP posted|VBD links|NNS to|TO download|VB what|WP it|PRP claimed|VBD was|VBD a|DT giant|JJ cache|NN of|IN sony|NN user|NN data|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT documents|NNS posted|VBD include|NN names|NNS passwords|NNS email|VBP addresses|NNS home|NN addresses|NNS and|CC dates|NNS of|IN birth|JJ for|IN thousands|NNS of|IN people|NNS </s>|S_END
+<s>|S_START lulz|NN said|VBD it|PRP grabbed|VBD the|DT material|NN by|IN exploiting|NN a|DT vulnerability|NN on|IN a|DT sony|NN page|NN advertising|NN the|DT companys|NNS ghostbusters|NNS franchise|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lulz|NN posted|VBD the|DT websites|NNS address|NN in|IN its|PRP$ data|NN dump|NN and|CC encouraged|VBD fellow|JJ hackers|NNS to|TO tear|VB the|DT living|NN shit|NN out|IN of|IN it|PRP while|IN you|PRP can|MD take|VB from|IN them|PRP everything|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT sony|NN sne|NN spokeswoman|NN wasnt|NN able|JJ to|TO confirm|VB or|CC deny|VB the|DT hack|NN but|CC sony|NN quickly|RB took|VBD down|IN the|DT webpage|NN identified|VBD in|IN lulzs|NNS documents|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT claim|NN is|VBZ valid|JJ it|PRP would|MD be|VB a|DT devastating|NN blow|NN to|TO sony|VB which|WDT is|VBZ trying|VBG to|TO recover|VB from|IN major|JJ hacks|NNS in|IN april|NN and|CC may|MD </s>|S_END
+<s>|S_START those|DT attacks|NNS forced|VBD the|DT company|NN to|TO pull|VB its|PRP$ playstation|NN qriocity|NN and|CC sony|NN online|NN gaming|VBG networks|NNS offline|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnnmoney|NN contacted|VBD several|JJ of|IN the|DT people|NNS whose|WP$ email|NN addresses|NNS were|VBD listed|VBN in|IN the|DT lulz|NN documents|NNS </s>|S_END
+<s>|S_START one|CD replied|VBD that|IN her|PRP$ account|NN which|WDT she|PRP created|VBD to|TO enter|VB a|DT contest|NN had|VBD been|VBN hacked|VBN </s>|S_END
+<s>|S_START but|CC she|PRP wasnt|VBD concerned|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ information|NN that|IN except|IN for|IN the|DT password|NN can|MD be|VB found|VBN by|IN anyone|NN looking|VBG on|IN the|DT internet|NN laura|NN lemons|NNS said|VBD in|IN an|DT email|NN </s>|S_END
+<s>|S_START this|DT seems|VBZ minor|NN to|TO me|PRP unless|IN they|PRP hacked|VBD my|PRP$ credit|NN card|NN numbers|NNS or|CC my|PRP$ banking|NN information|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN an|DT internet|NN relay|NN chat|WDT channel|NN lulz|NN set|NN up|IN to|TO discuss|NNS the|DT hack|NN several|JJ participants|NNS reported|VBD that|IN they|PRP were|VBD able|JJ to|TO break|VB into|IN gmail|NN and|CC facebook|NN accounts|NNS because|IN sony|NN customers|NNS used|VBN the|DT same|JJ password|NN there|EX that|IN they|PRP did|VBD on|IN sonys|NNS website|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT statement|NN posted|VBD on|IN lulzs|NNS site|IN titled|VBN pretentious|JJ press|NN statement|NN said|VBD sonypicturescom|NN was|VBD owned|VBN by|IN a|DT very|RB simple|JJ sql|NN injection|NN </s>|S_END
+<s>|S_START that|DT type|NN of|IN attack|NN exploits|NNS a|DT web|NN application|NN vulnerability|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lulzs|NNS statement|VBD said|VBD sony|NN was|VBD asking|VBG for|IN it|PRP by|IN storing|VBG more|JJR than|IN 1|CD million|CD user|NN passwords|NNS in|IN plain|NN text|NN instead|RB of|IN encrypting|VBG them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ just|RB a|DT matter|NN of|IN taking|VBG it|PRP </s>|S_END
+<s>|S_START this|DT is|VBZ disgraceful|JJ and|CC insecure|NN lulz|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lulz|NN also|RB said|VBD it|PRP had|VBD compromised|VBN all|DT admin|NN details|NNS of|IN sony|NN pictures|NNS including|VBG passwords|NNS as|IN well|RB as|IN 75000|CD music|NN codes|NNS and|CC 35|CD million|CD music|JJ coupons|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT previously|RB unknown|JJ hacker|NN group|NN burst|NN onto|IN the|DT scene|NN this|DT weekend|NN with|IN an|DT attack|NN on|IN the|DT website|JJ of|IN pbs|NNS which|WDT apparently|RB drew|VBD their|PRP$ ire|NN with|IN a|DT documentary|JJ on|IN wikileaks|NNS </s>|S_END
+<s>|S_START lulz|NN posted|VBD a|DT fake|NN story|NN on|IN pbsorg|NN announcing|VBG that|IN rapper|JJR tupac|NN shakur|NN who|WP has|VBZ been|VBN dead|JJ for|IN almost|RB 15|CD years|NNS is|VBZ alive|JJ and|CC living|NN in|IN new|JJ zealand|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sony|NN is|VBZ becoming|VBG a|DT whipping|JJ boy|NN for|IN hackers|NNS </s>|S_END
+<s>|S_START the|DT culprits|NNS behind|IN the|DT first|JJ round|NN of|IN sony|NN hacks|NNS have|VBP not|RB yet|RB been|VBN identified|VBN but|CC sony|NN said|VBD in|IN a|DT letter|NN to|TO congress|NN that|IN it|PRP believes|VBZ websiteattacking|VBG group|NN anonymous|JJ was|VBD responsible|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START anonymous|JJ is|VBZ a|DT decentralized|VBN group|NN that|IN originated|VBN on|IN imageboard|NN site|IN 4chanorg|CD </s>|S_END
+<s>|S_START it|PRP organizes|VBZ swarms|NNS to|TO try|VB to|TO crash|VB the|DT websites|NNS of|IN those|DT it|PRP deems|VBZ enemies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sonys|NNS letter|VBP to|TO congress|NN pointed|VBN out|RP that|IN the|DT company|NN recently|RB landed|VBD in|IN anonymous|JJ crosshairs|NNS for|IN suing|VBG two|CD people|NNS who|WP were|VBD distributing|VBG instructions|NNS on|IN how|WRB to|TO hack|VB a|DT playstation|NN 3|CD game|NN system|NN and|CC then|RB going|VBG after|IN identifying|VBG details|NNS on|IN anyone|NN who|WP ever|RB viewed|VBD the|DT instructions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT purported|VBN anonymous|JJ news|NN site|NN anonnewsorg|NN posted|VBD a|DT statement|NN on|IN april|NN 22|CD titled|VBD for|IN once|RB we|PRP didnt|VBP do|VBP it|PRP </s>|S_END
+<s>|S_START but|CC the|DT poster|NN did|VBD acknowledge|NN that|IN since|IN anonymous|JJ is|VBZ a|DT decentralized|VBN group|NN it|PRP could|MD be|VB the|DT case|NN that|IN other|JJ anons|NNS have|VBP acted|VBN by|IN themselves|PRP though|IN the|DT group|NN does|VBZ not|RB take|VB responsibility|NN as|IN a|DT whole|JJ for|IN whatever|NN has|VBZ happened|VBN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

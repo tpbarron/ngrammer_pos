@@ -1,0 +1,89 @@
+<p>|P_START
+<s>|S_START money|NN magazine|NN how|WRB and|CC when|WRB can|MD small|JJ investors|NNS buy|VB facebook|NN stock|NN </s>|S_END
+<s>|S_START kr|NN green|VBN valley|NN ariz|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START assuming|VBG the|DT muchballyhooed|JJ initial|JJ public|JJ offering|NN of|IN facebook|NN comes|VBZ off|RP later|JJ this|DT week|NN you|PRP should|MD have|VB no|DT trouble|NN getting|VBG facebook|NN shares|NNS </s>|S_END
+<s>|S_START however|RB its|PRP$ highly|RB unlikely|RB youll|JJ be|VB able|JJ to|TO get|VB them|PRP at|IN the|DT favorable|JJ initial|JJ offering|NN price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN soon|RB as|IN the|DT ipo|NN is|VBZ completed|VBN and|CC shares|NNS begin|VBP trading|VBG youll|NN be|VB able|JJ to|TO buy|VB them|PRP at|IN the|DT market|NN price|NN through|IN any|DT brokerage|NN firm|NN </s>|S_END
+<s>|S_START the|DT more|RBR important|JJ question|NN though|IN is|VBZ should|MD individual|JJ investors|NNS be|VB buying|VBG facebook|NN stock|NN </s>|S_END
+<s>|S_START i|PRP say|VBP the|DT answer|NN is|VBZ no|DT with|IN a|DT few|JJ exceptions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT value|NN of|IN the|DT shares|NNS you|PRP intend|VBP to|TO buy|VB represents|NNS only|RB a|DT tiny|NN portion|NN of|IN an|DT otherwise|NN broadlydiversified|VBN portfolio|NN or|CC youre|NN investing|NN a|DT sum|NN thats|NNS not|RB really|RB meaningful|JJ to|TO you|PRP i|PRP suppose|VBP i|PRP could|MD see|VB taking|VBG a|DT flier|NN on|IN facebook|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START or|CC if|IN facebook|NN eventually|RB becomes|VBZ part|NN of|IN a|DT broad|JJ benchmark|NN like|IN the|DT dow|NN jones|NNS us|PRP total|VBP stock|NN market|NN index|NN dwcf|NN as|IN google|JJ goog|NN fortune|NN 500|CD did|VBD about|IN a|DT month|NN after|IN its|PRP$ ipo|NN in|IN 2004|CD id|NN have|VBP no|DT problem|NN with|IN individual|JJ investors|NNS owning|VBG facebook|NN shares|NNS within|IN an|DT index|NN fund|NN or|CC etf|NN that|IN tracks|NNS the|DT index|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START otherwise|RB i|PRP think|VBP youre|JJ better|NN off|IN just|RB watching|VBG the|DT whole|JJ facebook|NN frenzy|NN from|IN afar|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD reason|NN is|VBZ that|IN i|PRP dont|VBP place|NN a|DT great|JJ deal|NN of|IN trust|NN in|IN the|DT ipo|NN system|NN as|IN practiced|VBN on|IN wall|NN street|NN these|DT days|NNS </s>|S_END
+<s>|S_START shares|NNS are|VBP doled|VBN out|RP to|TO investment|NN banks|NNS institutional|JJ investors|NNS and|CC big|JJ customers|NNS by|IN some|DT brokerage|NN firms|NNS at|IN the|DT initial|JJ offering|NN price|NN which|WDT is|VBZ set|VBN by|IN the|DT underwriters|NNS before|IN the|DT stock|NN is|VBZ available|JJ to|TO the|DT public|NN </s>|S_END
+<s>|S_START in|IN this|DT case|NN that|IN price|NN is|VBZ expected|VBN to|TO be|VB between|IN $|$ 34|CD and|CC $|$ 38|CD a|DT share|NN </s>|S_END
+<s>|S_START but|CC with|IN rare|JJ exceptions|NNS individual|JJ investors|NNS cant|VBP buy|NN at|IN that|DT price|NN </s>|S_END
+<s>|S_START they|PRP buy|VBP at|IN the|DT market|NN price|NN once|RB the|DT companys|NNS shares|NNS start|VBP to|TO trade|VB publicly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC in|IN highly|RB anticipated|VBN ipos|NNS its|PRP$ not|RB uncommon|JJ for|IN the|DT market|NN price|NN to|TO skyrocket|VB as|IN small|JJ investors|NNS and|CC others|NNS shut|VBD out|IN of|IN the|DT initial|JJ offering|NN scramble|JJ for|IN shares|NNS </s>|S_END
+<s>|S_START the|DT result|NN is|VBZ that|IN smaller|JJR investors|NNS often|RB pay|VBP a|DT huge|JJ premium|NN over|IN the|DT offering|NN price|NN making|VBG them|PRP vulnerable|JJ if|IN shares|NNS subsequently|RB sink|VBP but|CC almost|RB assuring|VBG a|DT profit|NN to|TO the|DT privileged|JJ investors|NNS who|WP got|VBD in|IN early|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT whole|JJ process|NN is|VBZ so|RB choreographed|VBN and|CC ripe|NN for|IN potential|JJ abuse|NN that|WDT i|PRP think|VBP small|JJ investors|NNS should|MD just|RB steer|VB clear|JJ of|IN ipos|NNS especially|RB hot|JJ ones|NNS at|IN least|JJS until|IN the|DT hysteria|NN dies|NNS down|IN and|CC share|NN prices|NNS reflect|VBP fundamentals|NNS more|RBR than|IN raw|NN emotion|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC theres|NNS another|DT compelling|VBG reason|NN i|PRP think|VBP small|JJ investors|NNS should|MD pass|VB on|IN facebook|NN at|IN least|JJS for|IN now|RB theres|VBZ just|RB too|RB much|JJ uncertainty|NN surrounding|VBG the|DT stocks|NNS potential|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB if|IN you|PRP think|VBP facebook|NN is|VBZ a|DT truly|RB transformative|JJ company|NN and|CC you|PRP passionately|RB believe|VBP in|IN the|DT company|NN culture|NN that|IN founder|NN mark|NN zuckerberg|NN refers|NNS to|TO as|RB the|DT hacker|NN way|NN the|DT central|JJ issue|NN from|IN an|DT investing|NN standpoint|NN is|VBZ whether|IN the|DT company|NN can|MD generate|VB enough|RB revenue|NN and|CC profits|NNS to|TO justify|VB the|DT price|NN you|PRP end|VBP up|RP paying|VBG for|IN your|PRP$ shares|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT can|MD be|VB a|DT tough|JJ call|NN with|IN any|DT company|NN </s>|S_END
+<s>|S_START but|CC its|PRP$ even|JJ tougher|NN when|WRB youre|NN dealing|VBG with|IN a|DT young|JJ company|NN thats|NNS still|RB trying|VBG to|TO find|VB a|DT way|NN to|TO effectively|RB monetize|VB its|PRP$ 901|CD million|CD active|JJ monthly|JJ users|NNS not|RB to|TO mention|VB one|CD that|WDT operates|VBZ in|IN the|DT fastmoving|NN tech|NN world|NN where|WRB todays|NNS leader|VBP can|MD be|VB tomorrows|NNS laggard|IN see|NN yahoo|NN </s>|S_END
+<s>|S_START throw|NN in|IN the|DT euphoria|NN that|IN often|RB surrounds|VBZ a|DT muchhyped|JJ ipo|NN and|CC i|PRP think|VBP investors|NNS who|WP jump|VB in|IN quickly|RB run|VBN a|DT big|JJ risk|NN of|IN overpaying|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START more|JJR on|IN facebooks|NNS ipo|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS not|RB to|TO say|VB that|IN buying|NN facebook|NN shares|NNS might|MD not|RB pay|VB off|RP big|JJ time|NN </s>|S_END
+<s>|S_START investors|NNS who|WP got|VBD into|IN google|JJ goog|NN fortune|NN 500|CD in|IN the|DT wake|NN of|IN its|PRP$ ipo|NN have|VBP done|VBN splendidly|RB </s>|S_END
+<s>|S_START but|CC we|PRP tend|VBP to|TO think|VB less|JJR about|IN the|DT companies|NNS that|WDT struggle|NN after|IN going|VBG public|JJ groupon|NN grpn|NN is|VBZ down|IN roughly|RB 60|CD from|IN its|PRP$ firsttradingday|NN high|JJ of|IN $|$ 31|CD and|CC we|PRP often|RB forget|VBP about|IN those|DT that|WDT simply|RB crashed|VBD and|CC died|VBD </s>|S_END
+<s>|S_START remember|NN 2000|CD when|WRB the|DT internet|NN bubble|JJ burst|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START buying|VBG into|IN facebook|NN now|RB is|VBZ as|IN much|JJ an|DT act|NN of|IN faith|NN as|IN a|DT rational|JJ investing|NN decision|NN based|VBN on|IN the|DT numbers|NNS </s>|S_END
+<s>|S_START thats|NNS no|DT way|NN to|TO invest|VB retirement|NN savings|NNS or|CC any|DT other|JJ money|NN youre|NN really|RB counting|VBG on|IN for|IN financial|JJ security|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC if|IN youre|NN willing|JJ to|TO incur|VB the|DT risk|NN and|CC uncertainty|NN for|IN the|DT possibility|NN of|IN a|DT big|JJ gain|NN or|CC you|PRP just|RB want|VBP to|TO gamble|JJ with|IN a|DT little|RB mad|VBN money|NN fine|NN </s>|S_END
+<s>|S_START but|CC even|RB then|RB i|PRP think|VBP you|PRP should|MD first|RB take|VB a|DT gander|NN at|IN facebooks|NNS registration|NN statement|NN and|CC especially|RB the|DT risk|NN factors|NNS section|NN so|IN you|PRP have|VBP a|DT better|JJR sense|NN of|IN what|WP youre|NN getting|VBG into|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC if|IN you|PRP find|VBP this|DT document|NN is|VBZ simply|RB too|RB dense|JJ to|TO wade|VB through|IN maybe|RB thats|NNS a|DT sign|NN you|PRP should|MD pass|VB on|IN buying|NN facebook|NN now|RB after|IN all|DT and|CC instead|RB opt|VBD for|IN a|DT small|JJ piece|NN when|WRB it|PRP becomes|VBZ part|NN of|IN an|DT index|NN fund|NN or|CC etf|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START money|NN magazine|NN is|VBZ celebrating|VBG people|NNS both|DT famous|JJ and|CC unsung|JJ who|WP have|VBP done|VBN extraordinary|JJ work|NN to|TO improve|VB others|NNS financial|JJ wellbeing|NN </s>|S_END
+<s>|S_START send|NN an|DT email|NN to|TO nominate|VB your|PRP$ money|NN hero |-NONE- </s>|S_END
+</p>|P_END
+

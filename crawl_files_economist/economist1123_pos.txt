@@ -1,0 +1,91 @@
+<p>|P_START
+<s>|S_START the|DT composer|NN has|VBZ just|RB heard|VBN that|IN he|PRP has|VBZ won|VBN a|DT coveted|VBN award|NN worth|NN $|$ 350000|CD and|CC is|VBZ celebrating|VBG in|IN his|PRP$ own|JJ distinctive|JJ way|NN with|IN colleagues|NNS at|IN the|DT wissenschaftskolleg|NN a|DT sabbatical|JJ haven|NN for|IN artists|NNS and|CC scholars|NNS in|IN the|DT leafy|NN western|NN suburbs|NNS of|IN berlin|NN </s>|S_END
+<s>|S_START other|JJ modern|JJ composers|NNS mindful|JJ of|IN the|DT precariousness|NN of|IN their|PRP$ work|NN might|MD give|VB in|IN to|TO a|DT moment|NN or|CC two|CD of|IN untrammelled|JJ joy|NN </s>|S_END
+<s>|S_START but|CC gyorgy|NN ligeti|NN sounds|NNS glum|NN </s>|S_END
+<s>|S_START money|NN and|CC commerce|NN he|PRP believes|VBZ are|VBP ruining|VBG art|NN and|CC he|PRP thinks|VBZ that|IN a|DT littleheard|NN russian|NN composer|NN whom|WP he|PRP particularly|RB admires|VBZ galina|NN ustvolskaya|NN deserved|VBD the|DT prize|NN more|JJR </s>|S_END
+<s>|S_START propounding|VBG what|WP he|PRP calls|VBZ ligetis|NNS law|NN he|PRP says|VBZ “artists|NNS who|WP become|RB famous|JJ are|VBP no|DT good|JJ because|IN they|PRP have|VBP no|DT time|NN to|TO be|VB good”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN notes|NNS towards|NNS an|DT acceptance|NN speech|NN this|DT sounds|VBZ less|JJR than|IN grateful|JJ </s>|S_END
+<s>|S_START but|CC mr|PRP$ ligeti|NN is|VBZ speaking|VBG with|IN characteristic|JJ irony|NN </s>|S_END
+<s>|S_START when|WRB you|PRP hear|VBP him|PRP talk|VBP as|IN when|WRB you|PRP listen|VBP to|TO his|PRP$ music|NN you|PRP soon|RB learn|VBP to|TO recognise|VB microshades|NNS of|IN mood|NN and|CC meaning|VBG </s>|S_END
+<s>|S_START behind|IN the|DT grumpiest|JJS of|IN his|PRP$ remarks|NNS there|RB is|VBZ the|DT trace|NN of|IN a|DT smile|JJ though|IN hardly|RB an|DT innocent|NN one|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN a|DT composer|NN of|IN mainly|RB “abstract”|JJ music—work|NN that|WDT doesnt|NN tell|VBD a|DT story|NN but|CC is|VBZ listened|VBN to|TO for|IN itself—his|DT life|NN has|VBZ been|VBN cut|VBN through|IN with|IN history|NN </s>|S_END
+<s>|S_START he|PRP was|VBD born|VBN 78|CD years|NNS ago|RB to|TO a|DT hungarian|JJ family|NN in|IN the|DT large|JJ swathe|NN of|IN transylvania|NN awarded|VBN to|TO romania|VB after|IN 1918|CD </s>|S_END
+<s>|S_START he|PRP wanted|VBD to|TO be|VB a|DT scientist|NN but|CC the|DT jewish|JJ quota|NN in|IN university|NN science|NN places|NNS was|VBD full|JJ </s>|S_END
+<s>|S_START against|IN the|DT wishes|NNS of|IN his|PRP$ parents|NNS who|WP kept|VBD him|PRP from|IN the|DT piano|NN until|IN he|PRP was|VBD 14|CD he|PRP took|VBD up|RP music|JJ first|JJ at|IN cluj|NN and|CC then|RB in|IN budapest|NN which|WDT he|PRP reached|VBD on|IN foot|NN </s>|S_END
+<s>|S_START in|IN the|DT second|JJ world|NN war|NN his|PRP$ father|NN and|CC a|DT brother|NN vanished|VBN in|IN nazi|NN camp|NN </s>|S_END
+<s>|S_START he|PRP himself|PRP lived|VBD under|IN communism|NN in|IN budapest|NN until|IN the|DT failed|VBN uprising|VBG of|IN 1956|CD when|WRB he|PRP fled|VBD to|TO austria|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unlike|IN other|JJ prominent|NN composers|NNS of|IN his|PRP$ generation—pierre|JJ boulez|NN and|CC karlheinz|NN stockhausen|NN come|NN to|TO mind—recognition|NN for|IN mr|NN ligeti|NN came|VBD late|RB </s>|S_END
+<s>|S_START tanley|NN kubrick|VBD who|WP was|VBD always|RB ahead|RB of|IN the|DT crowd|NN used|VBD his|PRP$ music|NN in|IN the|DT 1968|CD film|NN “2001|-NONE- a|DT space|NN odyssey”|NN </s>|S_END
+<s>|S_START on|IN leaving|NN hungary|NN he|PRP worked|VBD with|IN mr|NN stockhausen|VBN on|IN electronic|JJ music|NN but|CC soon|RB abandoned|VBN it|PRP preferring|VBG to|TO plunder|JJR the|DT worlds|NNS stock|NN of|IN existing|VBG instruments—ocarinas|JJ and|CC gamelan|NN fiddles|NNS for|IN example|NN as|IN well|RB as|IN piccolos|NNS and|CC violins—to|JJ find|NN strange|NN and|CC beautiful|JJ new|JJ sound|NN </s>|S_END
+<s>|S_START he|PRP is|VBZ equally|RB piratical|JJ with|IN the|DT worlds|NNS musical|JJ style|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT early|JJ 1960s|CD he|PRP composed|VBD a|DT symphonic|JJ poem|NN for|IN 100|CD metronomes|NNS it|PRP sounds|VBZ like|IN blind|JJ men|NNS applauding|VBG with|IN their|PRP$ canes|NNS which|WDT run|VBN down|RP for|IN 19|CD minutes|NNS until|IN only|RB one|CD is|VBZ left|VBN </s>|S_END
+<s>|S_START nowadays|NNS he|PRP laughes|VBZ this|DT off|NN as|IN a|DT provocative|JJ joke|NN </s>|S_END
+<s>|S_START but|CC humour|PRP$ of|IN a|DT subtler|NN kind|NN and|CC a|DT taste|NN for|IN surprise|NN have|VBP never|RB left|VBN him|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB you|PRP first|RB hear|JJ mr|NN ligetis|NNS music|JJ it|PRP can|MD sound|VB frozen|VBN or|CC static|JJ as|IN if|IN not|RB going|VBG anywhere|RB </s>|S_END
+<s>|S_START but|CC unlike|IN many|JJ minimalist|NN compositions—a|-NONE- label|NN wrongly|RB applied|VBD to|TO his|PRP$ work—it|JJ is|VBZ not|RB repetitiou|PRP </s>|S_END
+<s>|S_START it|PRP changes|VBZ slowly|RB with|IN surprising|JJ results|NNS as|IN do|VB certain|JJ mathematical|JJ expansion|NN </s>|S_END
+<s>|S_START he|PRP loves|VBZ dynamic|JJ extremes|NNS a|DT passage|NN in|IN his|PRP$ 1966|CD cello|NN concerto|IN is|VBZ marked|VBN ppppppppand|NN unusual|JJ rhythms|NNS and|CC tempo|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT least|JJS doctrinaire|NN of|IN composers|NNS mr|VBP ligeti|NN has|VBZ said|VBN he|PRP has|VBZ no|DT message|NN and|CC is|VBZ always|RB ready|JJ to|TO change|VB his|PRP$ musical|JJ language|NN </s>|S_END
+<s>|S_START he|PRP has|VBZ tried|VBN serialism|NN tone|NN clusters|NNS and|CC conventional|JJ chords|NNS unconventionally|RB arranged|VBD </s>|S_END
+<s>|S_START he|PRP has|VBZ tuned|VBN violins|NNS in|IN odd|JJ ways|NNS and|CC explored|VBD tiny|JJ intervals|NNS of|IN sound|NN </s>|S_END
+<s>|S_START when|WRB a|DT ligeti|NN festival|NN was|VBD held|VBN on|IN londons|NNS south|IN bank|NN in|IN 1997|CD it|PRP was|VBD called|VBN suitably|RB “clocks|-NONE- and|CC clouds”|NNP </s>|S_END
+<s>|S_START for|IN a|DT less|JJR gifted|VBN mind|NN such|JJ an|DT unbounded|JJ menu|NN of|IN sound|NN could|MD so|RB easily|RB produce|VB chao|NN </s>|S_END
+<s>|S_START but|CC mr|PRP$ ligeti|NN has|VBZ a|DT natural|JJ fluency|NN and|CC a|DT lyric|JJ gift|NN that|WDT makes|VBZ it|PRP difficult|VBD for|IN him|PRP to|TO write|VB a|DT boring|NN passage|NN or|CC an|DT ugly|JJ bar|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START his|PRP$ musical|JJ judgments|NNS about|IN others|NNS are|VBP fierce|JJ and|CC unexpected|JJ and|CC he|PRP delivers|VBZ them|PRP with|IN mischievous|JJ certitude|NN conlon|NN nancarrow|NN is|VBZ the|DT most|RBS original|JJ of|IN composers|NNS since|IN stravinsky|JJ and|CC bartok|NN carlo|NN gesualdo|NN a|DT 16thcentury|JJ neapolitan|NN count|NN is|VBZ one|CD of|IN the|DT greatest|JJS composers|NNS ever|RB reinbert|VB de|IN leeuw|NN is|VBZ among|IN the|DT very|JJ best|JJS of|IN contemporary|JJ conductor|NN </s>|S_END
+<s>|S_START mr|NN ligeti|NN you|PRP suspect|VBP knows|VBZ perfectly|RB well|RB that|IN many|JJ of|IN us|PRP will|MD be|VB gasping|VBG who|WP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN contrast|NN there|EX is|VBZ nothing|NN playful|JJ or|CC ironic|JJ when|WRB mr|NN ligeti|NN talks|NNS about|IN performances|NNS of|IN his|PRP$ own|JJ music|NN </s>|S_END
+<s>|S_START when|WRB sony|NN began|VBD to|TO issue|VB cds|NNS of|IN all|DT his|PRP$ work|NN he|PRP approved|VBD of|IN the|DT “etudes”|JJ and|CC “musica|NNP ricercata”|NNP played|VBD by|IN pierrelaurent|NN aimard|NN his|PRP$ favourite|NN among|IN players|NNS of|IN his|PRP$ piano|NN work|NN sk|NN 62308|CD and|CC he|PRP liked|VBD also|RB the|DT chamber|NN music|NN disc|NN sk|NN 62309|CD </s>|S_END
+<s>|S_START but|CC he|PRP was|VBD scathing|VBG about|IN the|DT recordings|NNS of|IN his|PRP$ orchestral|JJ work|NN and|CC he|PRP has|VBZ fought|VBN sony|NN in|IN court|NN successfully|RB so|RB far|RB to|TO prevent|VB their|PRP$ release|NN </s>|S_END
+<s>|S_START his|PRP$ preferred|VBN conductor|NN mr|NN de|IN leeuw|NN appears|VBZ on|IN the|DT first|JJ of|IN a|DT new|JJ ligeti|NN project|NN for|IN teldec|NN 8573839532|CD </s>|S_END
+<s>|S_START this|DT includes|VBZ the|DT lovely|RB “melodien”|JJ 1971|CD as|IN good|JJ an|DT introduction|NN to|TO his|PRP$ music|NN as|IN you|PRP could|MD want|VB and|CC one|CD which|WDT mr|NN ligeti|NN himself|PRP prefers|VBZ to|TO the|DT moreoftenplayed|VBN “lontano”|-NONE- </s>|S_END
+<s>|S_START the|DT teldec|NN label|NN is|VBZ now|RB owned|VBN by|IN aol|NN time|NN warner|NN and|CC to|TO mr|VB ligetis|NNS regret|VB disbanded|VBN in|IN all|DT but|CC name|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START frugal|JJ and|CC disciplined|VBD in|IN manner|NN mr|NN ligeti|NN lives|NNS for|IN his|PRP$ music|NN </s>|S_END
+<s>|S_START his|PRP$ clothes|NNS look|VBP as|IN if|IN they|PRP were|VBD bought|VBN at|IN jumble|JJ sale|NN </s>|S_END
+<s>|S_START his|PRP$ trademark|NN missoni|NN jerseys|NNS with|IN their|PRP$ repeating|NN patterns|NNS are|VBP gifts|NNS from|IN wellwisher|DT </s>|S_END
+<s>|S_START he|PRP has|VBZ spent|VBN most|RBS of|IN his|PRP$ days|NNS in|IN berlin|NN in|IN his|PRP$ bare|NN room|NN with|IN only|RB a|DT few|JJ book|NN </s>|S_END
+<s>|S_START there|EX is|VBZ not|RB even|RB a|DT computer|NN </s>|S_END
+<s>|S_START pushing|VBG down|IN a|DT key|JJ and|CC having|VBG a|DT note|NN appear|NN on|IN the|DT screen|NN he|PRP finds|VBZ is|VBZ too|RB quick|JJ and|CC too|RB mechanical|JJ </s>|S_END
+<s>|S_START all|DT he|PRP needs|VBZ is|VBZ a|DT pencil|NN and|CC eraser|NN with|IN a|DT piano|NN nearby|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN lunches|NNS in|IN the|DT wissenschaftskolleg|NN mr|NN ligeti|NN has|VBZ been|VBN a|DT star|NN engaging|VBG voraciously|RB in|IN conversation|NN with|IN all|DT comers|NNS on|IN almost|RB any|DT subject|NN in|IN one|CD of|IN six|CD and|CC a|DT half|NN languages|NNS romanian|JJ hungarian|NN german|NN french|NN english|NN swedish|NN with|IN a|DT musicians|NNS italian|JJ counting|NN as|IN half|PDT </s>|S_END
+<s>|S_START mostly|RB he|PRP prefers|VBZ to|TO talk|VB about|IN science|NN </s>|S_END
+<s>|S_START he|PRP is|VBZ a|DT friend|NN of|IN benoît|JJ mandelbrot|NN a|DT founder|NN of|IN fractal|JJ geometry—the|JJ study|NN of|IN figures|NNS generated|VBN by|IN successive|JJ simple|NN operations|NNS such|JJ as|IN division—whom|JJ mr|NN ligeti|NN sought|VBD out|RP after|IN concluding|VBG that|IN he|PRP had|VBD been|VBN using|VBG fractal|JJ patterns|NNS in|IN his|PRP$ music|NN for|IN year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT mathematician|JJ manqué|NN mr|NN ligeti|NN likes|VBZ to|TO say|VB “i|NNP am|NN not|RB a|DT musician|JJ i|NN am|NN a|DT scientist”|NN this|DT is|VBZ not|RB simply|RB a|DT boutade|NN for|IN he|PRP takes|VBZ an|DT unfashionably|RB objective|JJ view|NN of|IN his|PRP$ work|NN one|CD in|IN which|WDT communication|NN seems|VBZ to|TO play|VB little|JJ part|NN </s>|S_END
+<s>|S_START at|IN a|DT lunchtime|NN setto|NN recently|RB about|IN who|WP it|PRP is|VBZ that|IN artists|NNS create|VBP for|IN one|CD person|NN mentioned|VBD that|IN their|PRP$ poethusband|NN wrote|VBD for|IN 30|CD people|NNS who|WP could|MD understand|VB his|PRP$ work|NN </s>|S_END
+<s>|S_START omeone|NN else|RB cited|VBD an|DT artist|NN who|WP worked|VBD strictly|RB for|IN herself|PRP </s>|S_END
+<s>|S_START mr|NN ligeti|NN cut|VBD in|IN “i|NNP create|NN neither|DT for|IN an|DT audience|NN nor|CC for|IN myself|PRP </s>|S_END
+<s>|S_START i|PRP create|VBP for|IN solutions”|JJ luckily|NN more|RBR and|CC more|RBR of|IN us|PRP can|MD hear|VB how|WRB right|JJ his|PRP$ solutions|NNS sound|VBP </s>|S_END
+</p>|P_END
+

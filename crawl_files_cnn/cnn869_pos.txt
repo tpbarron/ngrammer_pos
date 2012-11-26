@@ -1,0 +1,90 @@
+<p>|P_START
+<s>|S_START federal|JJ reserve|NN chairman|NN ben|NN bernanke|NN testifies|NNS before|IN congress|NN wednesday|NN noting|VBG the|DT job|NN market|NN remains|VBZ far|JJ from|IN normal|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN federal|JJ reserve|NN chairman|NN ben|NN bernanke|NN headed|VBD to|TO capitol|NN hill|NN wednesday|NN to|TO give|VB congress|NN his|PRP$ semiannual|JJ report|NN on|IN the|DT economy|NN and|CC what|WP he|PRP had|VBD to|TO say|VB wasnt|NN exactly|RB rosy|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT job|NN market|NN remains|VBZ far|JJ from|IN normal|JJ household|NN income|NN is|VBZ flat|JJ and|CC access|NN to|TO credit|NN remains|VBZ too|RB tight|RB for|IN many|JJ people|NNS he|PRP said|VBD </s>|S_END
+<s>|S_START meanwhile|RB rising|VBG gas|NN prices|NNS are|VBP likely|JJ to|TO reduce|VB consumer|NN buying|VBG power|NN and|CC the|DT housing|NN market|NN remains|VBZ a|DT drag|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT things|NNS considered|VBN the|DT central|JJ bank|NN is|VBZ likely|JJ to|TO keep|VB monetary|JJ policy|NN loose|NN for|IN the|DT foreseeable|JJ future|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN its|PRP$ last|JJ meeting|NN in|IN january|JJ the|DT fed|JJ signaled|VBN that|IN it|PRP plans|VBZ to|TO keep|VB interest|NN rates|NNS near|IN record|NN lows|NNS until|IN the|DT end|NN of|IN 2014|CD to|TO help|VB stimulate|JJ the|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN that|DT policy|NN came|VBD under|IN fire|NN from|IN house|NN republicans|NNS wednesday|NN bernanke|NN stuck|NN to|TO his|PRP$ guns|NNS and|CC fired|VBD back|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ arguable|JJ that|IN interest|NN rates|NNS are|VBP too|RB high|JJ that|IN theyre|NN being|VBG constrained|VBN by|IN the|DT fact|NN that|IN interest|NN rates|NNS cant|JJ go|NN below|IN zero|CD </s>|S_END
+<s>|S_START bernanke|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP have|VBP an|DT economy|NN where|WRB demand|NN falls|NNS far|RB short|JJ of|IN the|DT capacity|NN of|IN the|DT economy|NN to|TO produce|VB </s>|S_END
+<s>|S_START when|WRB asked|VBD about|IN the|DT job|NN market|NN bernanke|NN pointed|VBD to|TO data|NNS that|IN shows|NNS about|IN 43|CD of|IN americas|NNS unemployed|VBN workers|NNS have|VBP been|VBN so|RB for|IN six|CD months|NNS or|CC more|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT concern|NN in|IN particular|JJ is|VBZ that|IN people|NNS who|WP are|VBP out|RP of|IN work|NN for|IN six|CD months|NNS or|CC more|JJR will|MD be|VB starting|VBG to|TO lose|VB skills|NNS bernanke|VB said|VBD </s>|S_END
+<s>|S_START and|CC thats|NNS really|RB one|CD reason|NN for|IN urgency|NN to|TO try|VB to|TO get|VB jobs|NNS created|VBN and|CC try|NN and|CC bring|VBG the|DT economy|NN back|RB to|TO a|DT more|RBR normal|JJ labor|NN market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT feds|NNS two|CD main|JJ goals|NNS keeping|VBG prices|NNS stable|JJ and|CC maximizing|VBG employment|NN are|VBP collectively|RB referred|VBN to|TO as|RB its|PRP$ dual|JJ mandate|NN </s>|S_END
+<s>|S_START but|CC the|DT central|JJ bank|NN is|VBZ currently|RB succeeding|VBG on|IN only|RB one|CD of|IN those|DT fronts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START inflation|NN excluding|VBG energy|NN and|CC food|NN is|VBZ currently|RB around|IN the|DT feds|NNS target|VBP of|IN 2|CD a|DT year|NN but|CC the|DT unemployment|NN rate|NN at|IN 83|CD is|VBZ still|RB above|IN what|WP the|DT fed|VBN considers|NNS normal|JJ between|IN 52|CD and|CC 6|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ republicans|NNS are|VBP concerned|VBN with|IN how|WRB the|DT feds|NNS stimulative|VBP policies|NNS could|MD trigger|VB a|DT rapid|JJ rise|NN in|IN inflation|NN and|CC devalue|NN the|DT dollar|NN </s>|S_END
+<s>|S_START rising|VBG gas|NN prices|NNS they|PRP say|VBP could|MD be|VB just|RB the|DT start|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rep|NN ron|VBD paul|JJ who|WP often|RB likes|VBZ to|TO wax|VB poetic|JJ about|IN going|VBG back|RB to|TO the|DT gold|NN standard|NN held|VBD up|RP a|DT oneounce|NN silver|NN coin|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT ounce|NN of|IN silver|NN back|RB in|IN 2006|CD would|MD buy|VB over|IN four|CD gallons|NNS of|IN gasoline|NN he|PRP said|VBD </s>|S_END
+<s>|S_START today|NN it|PRP will|MD buy|VB almost|RB 11|CD gallons|NNS of|IN gasoline|NN </s>|S_END
+<s>|S_START thats|NNS preservation|NN of|IN value|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bernanke|NN said|VBD he|PRP expects|VBZ rising|VBG gas|NN prices|NNS to|TO be|VB merely|RB a|DT temporary|JJ phenomenon|NN pointing|VBG to|TO tension|NN with|IN iran|JJ as|IN the|DT main|JJ cause|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP dont|VBP think|VBP the|DT fed|VBN can|MD do|VB too|RB much|RB about|IN price|NN of|IN gas|NN he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bernanke|NN also|RB urged|VBD congress|NN to|TO focus|VB on|IN cutting|NN federal|JJ debt|NN over|IN the|DT longterm|NN without|IN derailing|NN shortterm|NN growth|NN </s>|S_END
+<s>|S_START he|PRP warned|VBD that|IN the|DT economy|NN is|VBZ heading|VBG toward|IN a|DT fiscal|JJ cliff|NN as|IN the|DT beginning|NN of|IN 2013|CD brings|NNS both|DT massive|JJ spending|NN cuts|NNS and|CC tax|NN increases|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP have|VBP a|DT number|NN of|IN measures|NNS including|VBG both|DT tax|NN increases|NNS the|DT expiration|NN of|IN the|DT payroll|NN tax|NN cut|VBD the|DT sequestration|NN that|IN comes|VBZ out|RP of|IN the|DT super|NN committee|NN negotiations|NNS bernanke|VBP said|VBN </s>|S_END
+<s>|S_START all|DT those|DT things|NNS are|VBP hitting|VBG on|IN the|DT same|JJ day|NN basically|RB and|CC thats|NNS quite|RB a|DT big|JJ impact|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT federal|JJ reserve|NN predicts|NNS the|DT economy|NN will|MD grow|VB only|RB 22|CD to|TO 27|CD this|DT year|NN not|RB much|RB faster|JJR than|IN it|PRP grew|VBD in|IN the|DT second|JJ half|DT of|IN 2011|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN thursday|NN bernanke|NN will|MD also|RB testify|VB before|IN the|DT senate|NN committee|NN on|IN banking|NN housing|NN and|CC urban|NN affairs |NN </s>|S_END
+</p>|P_END
+

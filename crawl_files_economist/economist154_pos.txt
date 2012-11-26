@@ -1,0 +1,80 @@
+<p>|P_START
+<s>|S_START with|IN luck|NN 2012|CD will|MD be|VB the|DT year|NN cancer|NN is|VBZ cracked|VBN </s>|S_END
+<s>|S_START not|RB cured|VBN </s>|S_END
+<s>|S_START not|RB by|IN a|DT long|JJ chalk|NN </s>|S_END
+<s>|S_START but|CC understood|VBD systematically|RB in|IN ways|NNS that|WDT will|MD bring|VB cures|NNS much|RB closer|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT reason|NN is|VBZ that|IN cheap|NN rapid|VBD genesequencing|VBG technology|NN means|NNS cancer|NN genomes|NNS can|MD now|RB be|VB processed|VBN on|IN an|DT industrial|JJ scale|NN </s>|S_END
+<s>|S_START the|DT international|JJ cancer|NN genome|NN consortium|NN a|DT group|NN of|IN genesequencing|VBG laboratories|NNS scattered|VBN around|IN the|DT world|NN from|IN cambridge|NN england|NN via|IN cambridge|NN massachusetts|NNS to|TO shenzhen|VB china|NN therefore|RB plans|VBZ to|TO look|VB at|IN several|JJ hundred|CD samples|NNS from|IN each|DT of|IN 50|CD types|NNS of|IN tumour|PRP$ to|TO compare|VB them|PRP with|IN each|DT other|JJ and|CC with|IN healthy|JJ tissue|NN from|IN the|DT patients|NNS other|JJ organ|NN </s>|S_END
+<s>|S_START that|DT will|MD allow|VB oncologists|NNS to|TO sort|VB the|DT needles|NNS of|IN causation|NN from|IN the|DT haystacks|NNS of|IN confusion|NN in|IN the|DT messedup|NN dna|NN that|WDT most|JJS tumours|NNS have|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cancer|NN from|IN an|DT evolutionary|JJ point|NN of|IN view|NN is|VBZ a|DT cell|NN reverting|VBG to|TO type|NN </s>|S_END
+<s>|S_START most|JJS living|VBG organisms|NNS are|VBP individual|JJ cell|NN </s>|S_END
+<s>|S_START uch|JJ cells|NNS can|MD behave|VB completely|RB selfishly|RB because|IN each|DT of|IN them|PRP contributes|VBZ directly|RB to|TO the|DT next|JJ generation|NN </s>|S_END
+<s>|S_START multicellular|JJ organisms|NNS though|IN are|VBP different|JJ </s>|S_END
+<s>|S_START most|JJS cells|NNS in|IN a|DT multicellular|JJ body|NN a|DT human|NN being|VBG for|IN example|NN have|VBP a|DT supporting|VBG role|NN in|IN reproduction|NN not|RB a|DT direct|JJ one|CD </s>|S_END
+<s>|S_START they|PRP assist|VBP the|DT gonads|NNS in|IN making|VBG sex|NN cells|NNS and|CC in|IN finding|NN and|CC mating|VBG with|IN members|NNS of|IN the|DT opposite|JJ sex|NN </s>|S_END
+<s>|S_START that|DT is|VBZ not|RB a|DT problem|NN in|IN darwinian|JJ terms|NNS since|IN the|DT dna|NN in|IN nonsex|NN cells|NNS is|VBZ identical|JJ to|TO that|DT in|IN sex|NN cells|NNS except|IN that|DT in|IN any|DT given|VBN sex|NN cell|NN there|EX is|VBZ only|RB half|DT as|IN much|JJ of|IN it|PRP </s>|S_END
+<s>|S_START nonsex|NN cells|NNS thus|RB propagate|JJ their|PRP$ genes|NNS collaterally|RB </s>|S_END
+<s>|S_START for|IN a|DT body|NN to|TO work|VB the|DT nonsex|NN cells|NNS must|MD subscribe|VB to|TO a|DT selfdenying|NN ordinance|NN that|WDT curbs|VBZ their|PRP$ own|JJ reproduction|NN </s>|S_END
+<s>|S_START that|DT ordinance|NN is|VBZ enforced|VBN by|IN genetic|JJ mechanisms|NNS which|WDT control|NN the|DT cycle|NN of|IN cell|NN growth|NN and|CC division|NN </s>|S_END
+<s>|S_START these|DT genes|NNS have|VBP been|VBN installed|VBN by|IN natural|JJ selection|NN over|IN the|DT millennia|NN without|IN them|PRP nonsex|NN cells|NNS would|MD reproduce|VB wildly|RB and|CC organs|NNS and|CC tissues|NNS would|MD become|VB chaotic—in|JJ other|JJ words|NNS cancerou|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cells|NNS are|VBP not|RB sentient|JJ and|CC do|VB not|RB know|VB they|PRP are|VBP restricting|VBG their|PRP$ own|JJ reproduction|NN for|IN the|DT greater|JJR good|JJ </s>|S_END
+<s>|S_START o|NN if|IN one|CD of|IN the|DT anticancer|NN genes|NNS mutates|VBZ the|DT cell|NN it|PRP is|VBZ in|IN may|MD reproduce|VB more|RBR than|IN it|PRP is|VBZ supposed|VBN to|TO </s>|S_END
+<s>|S_START the|DT more|RBR mutated|JJ anticancer|NN genes|NNS there|EX are|VBP in|IN a|DT cell|NN the|DT more|RBR it|PRP will|MD reproduce|VB </s>|S_END
+<s>|S_START natural|JJ selection|NN will|MD thus|RB take|VB over|IN and|CC drive|JJ things|NNS in|IN ways|NNS that|WDT are|VBP not|RB good|JJ for|IN the|DT body|NN even|RB though|IN they|PRP are|VBP very|RB good|JJ in|IN the|DT short|JJ term|NN for|IN the|DT mutated|VBN cell|NN </s>|S_END
+<s>|S_START cancer|NN cells|NNS in|IN other|JJ words|NNS behave|VBP a|DT lot|NN like|IN their|PRP$ distant|JJ unicellular|NN ancestor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START identify|NN the|DT cancercausing|NN mutations|NNS and|CC you|PRP might|MD be|VB able|JJ to|TO develop|VB drugs|NNS specifically|RB tailored|VBN to|TO deal|VB with|IN such|JJ reverted|JJ cell|NN </s>|S_END
+<s>|S_START this|DT has|VBZ already|RB happened|VBN </s>|S_END
+<s>|S_START gleevec|NN a|DT treatment|NN for|IN chronic|JJ myelogenous|JJ leukaemia|NN and|CC herceptin|NN a|DT treatment|NN for|IN some|DT types|NNS of|IN breast|JJ cancer|NN are|VBP both|DT specific|JJ to|TO particular|JJ mutation|NN </s>|S_END
+<s>|S_START o|NN is|VBZ vemurafenib|NN a|DT new|JJ drug|NN against|IN malignant|JJ melanoma|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT problem|NN is|VBZ that|IN identifying|VBG the|DT relevant|NN mutations|NNS is|VBZ hard|JJ </s>|S_END
+<s>|S_START because|IN evolution|NN has|VBZ come|VBN up|RP with|IN many|JJ anticancer|NN mechanisms|NNS for|IN a|DT cancer|NN to|TO take|VB hold|NN properly|RB requires|VBZ several|JJ mutation|NN </s>|S_END
+<s>|S_START that|DT is|VBZ unlikely|RB to|TO happen|VB unless|IN the|DT mutation|NN rate|NN in|IN a|DT cell|NN is|VBZ abnormally|RB high|JJ </s>|S_END
+<s>|S_START a|DT common|JJ factor|NN in|IN cancer|NN is|VBZ an|DT overarching|VBG mutation|NN in|IN the|DT dnarepair|NN mechanism|NN </s>|S_END
+<s>|S_START lack|NN of|IN proper|NN dna|NN repair|NN allows|VBZ mutation|NN to|TO run|VB riot|NN increasing|VBG the|DT chance|NN that|IN several|JJ anticancer|NN genes|NNS will|MD be|VB affected|VBN but|CC also|RB hiding|VBG those|DT mutations|NNS in|IN a|DT plethora|NN of|IN others|NNS that|WDT have|VBP no|DT relevance|NN to|TO cancer|NN formation|NN </s>|S_END
+<s>|S_START the|DT former|JJ are|VBP the|DT needles|NNS that|WDT oncologists|VBZ wish|NN to|TO identify|VB </s>|S_END
+<s>|S_START the|DT latter|NN are|VBP the|DT haystack|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT tissue|NN of|IN lie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START comparison|NN of|IN healthy|JJ and|CC cancerous|JJ tissue|NN from|IN the|DT same|JJ individual|JJ will|MD show|VB which|WDT genes|NNS have|VBP mutated|VBN </s>|S_END
+<s>|S_START comparison|NN of|IN the|DT sets|NNS of|IN mutated|VBN genes|NNS from|IN different|JJ examples|NNS of|IN the|DT same|JJ tumour|NN will|MD show|VB which|WDT mutations|NNS are|VBP coincidences|NNS and|CC which|WDT are|VBP cause|RB </s>|S_END
+<s>|S_START not|RB only|RB will|MD this|DT tell|NN drugdevelopers|NNS where|WRB to|TO concentrate|VB their|PRP$ efforts|NNS it|PRP will|MD also|RB test|VB a|DT theory|NN that|WDT is|VBZ gaining|VBG ground|NN among|IN oncologist|NN </s>|S_END
+<s>|S_START this|DT is|VBZ that|IN classifying|VBG cancers|NNS by|IN tissue|NN type|NN is|VBZ fundamentally|RB wrong|JJ and|CC that|IN they|PRP should|MD be|VB classified|VBN by|IN genetic|JJ mechanism|NN no|DT matter|NN where|WRB they|PRP occur|VBP in|IN the|DT body|NN </s>|S_END
+<s>|S_START once|RB the|DT consortium|NN has|VBZ finished|VBN its|PRP$ work|NN it|PRP will|MD be|VB clear|JJ whether|IN that|DT is|VBZ a|DT good|JJ way|NN of|IN looking|VBG at|IN things|NNS or|CC whether|IN by|IN contrast|NN particular|JJ types|NNS of|IN tissue|NN usually|RB become|VB cancerous|JJ in|IN their|PRP$ own|JJ distinct|NN ways|NNS with|IN only|RB minimal|JJ similarities|NNS between|IN one|CD tissue|NN and|CC another|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN of|IN october|NN 2011|CD 39|CD laboratories|NNS had|VBD signed|VBN up|RP to|TO analyse|VB 20|CD types|NNS of|IN cancer|NN </s>|S_END
+<s>|S_START the|DT rest|NN should|MD find|VB labs|NNS soon|RB </s>|S_END
+<s>|S_START though|IN the|DT last|JJ “i”s|NNS will|MD not|RB be|VB dotted|VBN and|CC “t”s|NNP crossed|VBD until|IN 2015|CD by|IN the|DT end|NN of|IN 2012|CD the|DT consortiums|NNS data|NNS coordination|NN centre|NN in|IN toronto|NN will|MD be|VB awash|JJ with|IN results|NNS and|CC drug|NN companies|NNS will|MD be|VB able|JJ to|TO start|VB wading|NN in|IN and|CC picking|VBG out|RP promising|VBG target|NN </s>|S_END
+<s>|S_START turning|VBG the|DT new|JJ knowledge|NN into|IN treatments|NNS will|MD still|RB take|VB a|DT while|NN </s>|S_END
+<s>|S_START but|CC the|DT size|NN of|IN the|DT task|NN will|MD suddenly|RB be|VB a|DT lot|NN clearer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START geoffrey|NN carr|NN science|NN and|CC technology|NN editor|NN the|DT economist|NN </s>|S_END
+</p>|P_END
+

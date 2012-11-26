@@ -1,0 +1,106 @@
+<p>
+<s>only rarely does the dry theorising of mathematicians strike a chord with the public</s>
+<s>most people have heard of einstein and his famous equation emc2 or of isaac newton and his apochryphal falling apple without necessarily understanding the detail of their elaborate theories</s>
+<s>but even when mathematics has direct relevance to everyday life—in encrypting your creditcard details as they are sent over the internet for example—the theorists who dream up the underlying numerical recipes do not become household names</s>
+<s>so benoit mandelbrot is a rare kind of mathematician</s>
+<s>for even if you have not heard of him you are very likely to recognise the swirling computergenerated images of the mandelbrot set the colourful corallike mathematical structure that bears his name</s>
+<s>sometimes called the most beautiful object in mathematics it has appeared in pop videos and coffeetable books and on tshirts posters and computer screensavers</s>
+<s>like einsteins equation and newtons apple it has crossed over into the public consciousness</s>
+</p>
+
+<p>
+<s>the mandelbrot set is a fractal a term coined by dr mandelbrot that has a complicated mathematical definition but in essence refers to rough shapes that look the same whether viewed from far away or close up</s>
+<s>this phenomenon is common in nature a head of cauliflower for example is fractal in shape as are coastlines mountain ranges tree branches riverbed patterns and clouds</s>
+<s>in each case a small fragment when enlarged resembles the larger whole</s>
+<s>with the invention of the theory of fractal geometry dr mandelbrot thus extended geometry so that it could be applied to complex rough objects as well as simple smooth ones</s>
+</p>
+
+<p>
+<s>this solved a number of troublesome problems in mathematics such as the existence of objects that could not be classified as one two or threedimensional but seemed to fall somewhere in between</s>
+<s>a classic example involves determining the length of a coastline</s>
+<s>as you zoom in on the coastline more detail is revealed so that it appears to get longer</s>
+<s>indeed it is mathematically possible to have an infinitely long coastline contained within a finite space</s>
+<s>but using dr mandelbrots new theories such curves could be assigned “fractional” dimensions</s>
+<s>the coastline of britain for example turns out to be roughly 124dimensional</s>
+<s> fractal geometry can also be used to model and describe though not to explain or predict the clustering of galaxies fluctuations of stockmarkets and turbulence of fluids</s>
+</p>
+
+<p>
+<s>what is striking is that fractals or at least hints of them have been under our noses all along</s>
+<s>“fractals as a tool of science are useful but the idea of fractality has been there for ever and ever” says dr mandelbrot</s>
+<s>many painters had an eye for fractals he notes including leonardo da vinci eugène delacroix and in particular katsushika hokusai some of whose paintings of landscapes and crashing waves contain regular fractallike structures</s>
+<s>there are also fractal motifs in some celtic jewellery</s>
+<s>“here was an aspect of shape in the world that had been seen by others but never expressed in words” he says</s>
+<s>“i overturned a horn of plenty in which all kinds of things humanity has always known were located”</s>
+</p>
+
+<p>
+<s>so how was he able to put all of these pieces together</s>
+<s>dr mandelbrot attributes his success to his unusual approach as a mathematician which was in turn due to his unconventional education</s>
+<s>born in warsaw in 1924 he was tutored by his uncle with whom he spent much of his time playing chess and looking at maps</s>
+<s>in 1936 the family moved to paris where he came under the influence of another uncle his fathers brother szolem who was a professor of mathematics and a keen painter</s>
+<s>the family moved several times during the second world war further disrupting the young mandelbrots education but with the result that he preserved a native gift for shape that might he suggests otherwise have been drummed out of him by a conventional education</s>
+<s>he found that he could solve difficult equations more easily by relating them to geometrical forms and filling in the algebra afterwards</s>
+</p>
+
+<p>
+<s>after a variety of academic positions including a stint at the institute for advanced study in princeton under john von neumann a computing pioneer dr mandelbrot went to work in 1958 for the research arm of ibm</s>
+<s>he was first taken on to work in the field of machine translation the use of computers to translate documents from one human language into another but had soon moved on to other areas from the statistical properties of noise on telephone lines to the management of water resources</s>
+</p>
+
+<p>
+<s>the organisation of ibm research proved to be an ideal environment in which dr mandelbrot could pursue his unique geometrical approach because unlike university departments it was not rigidly divided into departmental “guilds” such as physics mathematics and so on</s>
+<s>he was free to move from subject to subject developing what would emerge as his theory of fractal geometry</s>
+</p>
+
+<p>
+<s>ibm also provided the vital tools dr mandelbrot needed to get people to pay attention to his work powerful computers capable of generating graphical images</s>
+<s>he started off using graphical plotters of the kind used to produce architectural line drawings to draw artificially generated river patterns that could not be distinguished from real ones</s>
+<s>then in the late 1970s dr mandelbrot began to explore a set of equations that had previously been investigated by gaston julia a french mathematician in the 1920s</s>
+<s>generalising from julias work and plotting the result using specially written graphics software dr mandelbrot produced the first images of the mandelbrot set in 1980</s>
+<s>“when the first pictures came out it was an extraordinary event” he recalls</s>
+</p>
+
+<p>
+<s>suddenly people started to pay attention as dr mandelbrots obscure formulas and eccentric geometrical theories were revealed as the source of images of astonishing beauty and complexity</s>
+<s>“i could never get a hearing by formulas alone because they were too different from what everyone else was doing” he says</s>
+<s>but as a result of his images dr mandelbrots theories and the interconnections they established between otherwise disparate fields were taken seriously too</s>
+<s>since the publication of his book “the fractal geometry of nature” in 1982 dr mandelbrot has been awarded honours and prizes in a wide range of fields</s>
+<s>in 1993 when he won the wolf prize for physics he was cited for “having changed our view of nature”</s>
+<s>most recently this year he was awarded the japan prize by the science and technology foundation of japan</s>
+</p>
+
+<p>
+<s>dr mandelbrots work also demonstrated the usefulness of computerbased visualisation and experimentation in mathematics</s>
+<s>many mathematicians he says liked the idea that certain structures defined by formulas were simply unimaginable during the 20th century he notes many of them took refuge in wilfully obscure branches of mathematics on the basis that such work had no military application</s>
+<s>ironically the work of these pacifist mathematicians in areas such as number theory provided the foundations for modern cryptography a key military tool</s>
+</p>
+
+<p>
+<s>fractals such as the mandelbrot set are commonly associated with the study of complexity also known by the trendier moniker of chaos theory</s>
+<s>but the study of chaos is now somewhat discredited having failed to make any useful progress</s>
+<s>dr mandelbrot has always distanced himself from such voguishness preferring to avoid any topic “in which the data are not abundant and proof cannot be provided” he is also unimpressed by “selforganising complexity” another trendy topic the idea has he says been around for centuries</s>
+<s>instead he defines his work as having provided “a reasonable beginning of a science of roughness”</s>
+</p>
+
+<p>
+<s>dr mandelbrot is worried by the increasing specialisation of science or as he terms it its concentration into subjectspecific “guilds”</s>
+<s>science he says has become like a professional sport where an athletes worth is assessed solely within a narrowly defined event</s>
+<s>while the tendency to form guilds is natural he says a few mavericks are essential or the guildbased nature of science could lead to a loss of public interest and trust</s>
+<s>science requires the approval of society which depends in turn on the availability of credible and articulate interlocutors</s>
+<s>yet guilds spend too little time forming connections with other guilds let alone with the public at large</s>
+<s>he believes that interdisciplinary mavericks can both break down the barriers between guilds and reconnect them with the wider world</s>
+</p>
+
+<p>
+<s>now approaching 80 years old dr mandelbrot continues to publish papers in mathematics and economics and is writing his memoirs</s>
+<s>but he has one particular project that he would like to complete to form a capstone for his unusual career a book and accompanying art exhibition to demonstrate the historical precursors of fractals and their abundance in art and nature to a mass audience</s>
+<s>since his work is capable of drawing together so many threads of human experience and history he explains “i would like to put it in a fashion that people can appreciate without any attention to technical detail”</s>
+</p>
+
+<p>
+<s>the long saga of fractals says dr mandelbrot can be perceived as a ring from art through mathematics finance many corners of science and engineering and finally back to art</s>
+<s>within this smooth ring dr mandelbrot has pursued his unusual and roughedged career path</s>
+<s>with its many unpredictable twists and turns but governed by an unseen logic it is tempting—not to mention fitting—to liken the course of his life to a fractal</s>
+</p>
+

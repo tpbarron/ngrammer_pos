@@ -1,0 +1,40 @@
+<p>|P_START
+<s>|S_START greece|NN quickly|RB appointed|VBN a|DT new|JJ finance|NN minister|NN yannis|NNS stournaras|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN greece|NN moved|VBD quickly|RB to|TO appoint|VB a|DT new|JJ finance|NN minister|NN tuesday|NN one|CD day|NN after|IN vassilis|NNS rapanos|NNS turned|VBD in|IN his|PRP$ resignation|NN due|JJ to|TO health|NN reasons|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT greek|NN government|NN named|VBD athens|NNS university|NN economics|NNS professor|NN yannis|NNS stournaras|NNS as|IN its|PRP$ new|JJ finance|NN minister|NN </s>|S_END
+<s>|S_START stournaras|NNS is|VBZ considered|VBN one|CD of|IN the|DT most|RBS influential|JJ economists|NNS in|IN greece|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP has|VBZ also|RB served|VBN as|IN the|DT head|NN of|IN the|DT foundation|NN for|IN economic|JJ and|CC industrial|JJ research|NN an|DT influential|JJ private|JJ think|NN tank|NN that|WDT often|RB advises|VBZ the|DT government|NN </s>|S_END
+<s>|S_START according|VBG to|TO several|JJ news|NN reports|NNS stournaras|NNS was|VBD part|NN of|IN the|DT team|NN that|WDT helped|VBD negotiate|VBP the|DT nations|NNS entrance|NN into|IN the|DT eurozone|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rapanos|NNS resigned|VBD after|IN being|VBG hospitalized|VBN for|IN acute|JJ nausea|NN and|CC dizziness|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT change|NN up|RP at|IN the|DT helm|NN of|IN greeces|NNS finance|NN ministry|NN comes|VBZ ahead|RB of|IN a|DT key|JJ meeting|NN of|IN european|JJ union|NN leaders|NNS on|IN thursday|NN and|CC friday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ unclear|JJ whether|IN stournaras|NNS will|MD represent|VB greece|NN at|IN the|DT eu|NN summit|NN </s>|S_END
+<s>|S_START prime|JJ minister|NN samaras|NNS who|WP was|VBD hospitalized|VBN last|JJ week|NN for|IN eye|NN surgery|NN is|VBZ not|RB expected|VBN to|TO attend|VB the|DT summit|NN in|IN brussels|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START greeces|NNS new|JJ coalition|NN government|NN has|VBZ promised|VBN to|TO honor|VB greeces|NNS financial|JJ commitments|NNS but|CC it|PRP is|VBZ also|RB expected|VBN to|TO renegotiate|VB the|DT terms|NNS of|IN the|DT nations|NNS bailout|IN package|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnnmoneys|NNS ben|VBP rooney|NN contributed|VBN to|TO this|DT report|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

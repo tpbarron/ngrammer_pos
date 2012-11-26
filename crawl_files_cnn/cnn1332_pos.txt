@@ -1,0 +1,42 @@
+<p>|P_START
+<s>|S_START some|DT 23|CD of|IN americans|NNS say|VBP they|PRP plan|VBP to|TO go|VB shopping|NN on|IN black|JJ friday|NN up|IN from|IN prior|RB years|NNS according|VBG to|TO a|DT cnnorc|NN international|JJ poll|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN heading|VBG out|RP for|IN some|DT shopping|VBG on|IN friday|NN morning|NN </s>|S_END
+<s>|S_START youll|NN have|VBP some|DT company|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT 23|CD of|IN americans|NNS say|VBP they|PRP plan|VBP to|TO go|VB shopping|NN on|IN black|JJ friday|NN up|IN from|IN prior|RB years|NNS according|VBG to|TO a|DT cnnorc|NN international|JJ poll|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT increased|VBN turnout|RP could|MD provide|VB a|DT muchneeded|JJ boost|NN to|TO retailers|NNS looking|VBG to|TO jumpstart|VB sales|NNS in|IN an|DT otherwise|NN weak|NN economy|NN </s>|S_END
+<s>|S_START only|RB 37|CD say|VBP they|PRP plan|VBP to|TO spend|VB less|JJR on|IN gifts|NNS this|DT year|NN than|IN last|JJ year|NN compared|VBN to|TO roughly|RB half|DT in|IN 2009|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT figures|NNS are|VBP in|IN line|NN with|IN a|DT positive|JJ trend|NN in|IN retail|JJ sales|NNS in|IN recent|JJ months|NNS </s>|S_END
+<s>|S_START retail|JJ sales|NNS went|VBD up|RB 05|CD in|IN october|NN after|IN increasing|VBG 11|CD in|IN september|NN according|VBG to|TO the|DT commerce|NN department|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT national|JJ retail|NN federation|NN has|VBZ increased|VBN its|PRP$ estimate|NN for|IN the|DT total|JJ number|NN of|IN shoppers|NNS over|IN black|JJ friday|NN weekend|NN by|IN 10|CD this|DT year|NN </s>|S_END
+<s>|S_START last|JJ years|NNS turnout|IN was|VBD 212|CD million|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT tough|JJ economic|JJ times|NNS will|MD still|RB take|VB a|DT toll|NN on|IN holiday|NN shoppers|NNS however|RB </s>|S_END
+<s>|S_START nearly|RB half|NN say|VBP that|IN current|JJ economic|JJ conditions|NNS will|MD make|VB this|DT holiday|NN more|JJR stressful|JJ than|IN in|IN previous|JJ years|NNS including|VBG 56|CD of|IN americans|NNS who|WP make|VBP less|JJR than|IN $|$ 50000|CD a|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START about|IN 85|CD rated|VBN economic|JJ conditions|NNS in|IN the|DT country|NN today|NN as|IN poor|JJ including|NN 51|CD who|WP described|VBN them|PRP as|IN very|RB poor|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT poll|NN was|VBD based|VBN on|IN interviews|NNS with|IN 1019|CD adult|NN americans|NNS conducted|VBD between|IN november|NN 18|CD and|CC 20|CD with|IN a|DT sampling|NN error|NN of|IN plus|NN or|CC minus|CC 3|CD </s>|S_END
+<s>|S_START the|DT question|NN about|IN whether|IN the|DT holidays|NNS will|MD be|VB more|RBR stressful|JJ this|DT year|NN had|VBD a|DT sampling|NN error|NN of|IN plus|NN or|CC minus|CC 45 |CD </s>|S_END
+</p>|P_END
+

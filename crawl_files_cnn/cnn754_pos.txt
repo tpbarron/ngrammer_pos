@@ -1,0 +1,74 @@
+<p>|P_START
+<s>|S_START recent|JJ data|NNS suggests|VBZ the|DT housing|NN market|NN is|VBZ beginning|VBG to|TO rebound|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN foreclosures|NNS fell|VBD in|IN nearly|RB twothirds|NNS of|IN the|DT nations|NNS largest|JJS metro|NN areas|NNS during|IN the|DT third|JJ quarter|NN according|VBG to|TO realtytrac|VB thursday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN 62|CD of|IN the|DT nations|NNS 212|CD largest|JJS markets|NNS seeing|VBG foreclosure|NN activity|NN shrink|NN during|IN the|DT latest|JJS quarter|NN the|DT ongoing|JJ decline|NN is|VBZ yet|RB another|DT sign|NN that|IN the|DT housing|NN market|NN is|VBZ starting|VBG to|TO stabilize|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START during|IN september|NN foreclosure|NN activity|NN in|IN 58|CD of|IN the|DT major|JJ metro|NN markets|NNS had|VBD even|RB dropped|VBN below|IN september|NN 2007|CD levels|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT numbers|NNS indicate|VBP that|IN most|JJS of|IN the|DT nations|NNS housing|VBG markets|NNS are|VBP past|JJ the|DT worst|JJS of|IN the|DT foreclosure|NN problem|NN daren|NNS blomquist|VBP realtytracs|NNS vice|NN president|NN said|VBD in|IN the|DT report|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START major|JJ cities|NNS like|IN san|NN francisco|NN detroit|NN los|NNS angeles|NNS phoenix|VBP and|CC san|NN diego|NN saw|VBD foreclosures|NNS fall|VBP by|IN doubledigit|NN percentages|NNS of|IN 26|CD or|CC more|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD best|JJS places|NNS to|TO live|VB where|WRB homes|NNS are|VBP affordable|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START stockton|NN calif|IN which|WDT saw|NN a|DT 21|CD decline|NN in|IN foreclosures|NNS still|RB managed|VBN to|TO claim|VB the|DT nations|NNS highest|JJS foreclosure|NN rate|NN however|RB </s>|S_END
+<s>|S_START that|DT foreclosures|VBZ there|RB are|VBP still|RB the|DT highest|JJS in|IN the|DT country|NN speaks|VBZ to|TO how|WRB severe|JJ the|DT problem|NN was|VBD said|VBN blomquist|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START other|JJ california|NN cities|NNS in|IN the|DT top|JJ 10|CD riverside|NN vallejo|NN modesto|NN merced|VBD bakersfield|VBN and|CC sacramento|IN all|DT posted|VBN yearoveryear|NN declines|NNS of|IN between|IN 22|CD and|CC 34|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB there|RB are|VBP still|RB some|DT trouble|JJ spots|NNS particularly|RB in|IN florida|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN miami|NN which|WDT had|VBD the|DT 10th|JJ highest|NN foreclosure|NN rate|NN filings|NNS rose|VBD 11|CD </s>|S_END
+<s>|S_START in|IN jacksonville|NN foreclosures|NNS were|VBD up|RB 32|CD palm|NN bay|NN saw|VBD a|DT 64|CD increase|NN tampa|NN was|VBD up|RB 43|CD and|CC orlando|NN notched|VBD a|DT 15|CD jump|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START blomquist|NN attributed|VBD floridas|NNS problems|NNS to|TO the|DT after|NN effects|NNS of|IN the|DT robosigning|NN scandal|NN </s>|S_END
+<s>|S_START florida|NN is|VBZ a|DT judicial|JJ state|NN where|WRB foreclosures|NNS get|VBP processed|VBN through|IN the|DT courts|NNS </s>|S_END
+<s>|S_START lenders|NNS hesitated|VBD to|TO bring|VB foreclosure|NN cases|NNS before|IN a|DT judge|NN until|IN they|PRP were|VBD confident|JJ their|PRP$ paperwork|NN would|MD stand|VB up|RP to|TO the|DT steppedup|NN scrutiny|NN that|WDT followed|VBD the|DT scandal|NN </s>|S_END
+<s>|S_START but|CC now|RB that|IN new|JJ rules|NNS have|VBP been|VBN put|VBN in|IN place|NN through|IN the|DT $|$ 25|CD billion|CD mortgage|NN settlement|NN they|PRP are|VBP playing|VBG catchup|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN the|DT metro|NN areas|NNS with|IN the|DT 20|CD highest|JJS foreclosure|NN rates|NNS all|DT are|VBP still|RB in|IN california|NN arizona|NN nevada|NN and|CC florida|NN with|IN two|CD notable|JJ exceptions|NNS </s>|S_END
+<s>|S_START chicago|RB saw|VBD a|DT 34|CD jump|NN from|IN a|DT yearago|NN and|CC had|VBD the|DT ninth|JJ highest|NN foreclosure|NN rate|NN </s>|S_END
+<s>|S_START atlanta|NN had|VBD the|DT 15th|JJ highest|NN rate|NN </s>|S_END
+<s>|S_START the|DT good|JJ news|NN there|EX foreclosures|NNS fell|VBD 20|CD yearoveryear|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD government|NN we|PRP plan|VBP to|TO sue|VB more|JJR banks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN las|NNS vegas|IN filings|NNS fell|VBD dramatically|RB 71|CD because|IN of|IN state|NN legislation|NN passed|VBD last|JJ year|NN that|IN requires|VBZ lenders|NNS to|TO file|VB affidavits|NNS vouching|VBG for|IN their|PRP$ paperwork|NN and|CC their|PRP$ foreclosure|NN action|NN against|IN a|DT borrower|NN blomquist|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ lenders|NNS now|RB bypass|VBP the|DT foreclosure|NN process|NN entirely|RB in|IN nevada|NN working|VBG with|IN troubled|JJ borrowers|NNS to|TO arrange|VB short|JJ sales|NNS even|RB before|IN filing|NN notices|NNS of|IN default|NN </s>|S_END
+<s>|S_START thats|NNS not|RB all|DT good|JJ news|NN however|RB </s>|S_END
+<s>|S_START for|IN cities|NNS like|IN las|NNS vegas|VBP its|PRP$ a|DT shift|NN in|IN the|DT way|NN the|DT distress|NN is|VBZ handled|VBN rather|RB than|IN the|DT distress|NN evaporating|VBG said|VBD blomquist|NN </s>|S_END
+</p>|P_END
+

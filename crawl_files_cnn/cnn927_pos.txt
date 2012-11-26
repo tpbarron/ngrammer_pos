@@ -1,0 +1,117 @@
+<p>|P_START
+<s>|S_START the|DT honeymoon|NN period|NN for|IN hp|NN ceo|NN meg|NN whitman|NN may|MD be|VB over|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START running|VBG the|DT fiscally|RB challenged|VBD state|NN of|IN california|NN might|MD have|VB been|VBN an|DT easier|JJR task|NN for|IN meg|NN whitman|NN than|IN trying|VBG to|TO turn|VB around|IN hewlettpackard|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS what|WP she|PRP would|MD be|VB doing|VBG right|RB now|RB if|IN she|PRP hadnt|VBP lost|VBN the|DT golden|JJ state|NN gubernatorial|JJ race|NN to|TO jerry|VB brown|RP in|IN 2010|CD </s>|S_END
+<s>|S_START alas|NNS she|PRP has|VBZ to|TO settle|VB for|IN the|DT more|RBR lucrative|JJ but|CC arguably|RB more|RBR thankless|JJ job|NN as|IN ceo|NN of|IN troubled|JJ hp|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hewlettpackard|NN hpq|NN shares|NNS are|VBP down|RB nearly|RB 25|CD this|DT year|NN making|VBG the|DT company|NN the|DT worst|JJS performer|NN in|IN the|DT dow|NN jones|NNS industrial|JJ average|NN by|IN far|RB </s>|S_END
+<s>|S_START mcdonalds|NNS mcd|VBD is|VBZ secondworst|VBN with|IN a|DT loss|NN of|IN 12|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN hp|NN this|DT really|RB is|VBZ a|DT case|NN of|IN adding|VBG insult|NN to|TO injury|NN </s>|S_END
+<s>|S_START hp|NN was|VBD the|DT third|JJ worst|NN dow|NN stock|NN in|IN 2011|CD tumbling|VBG nearly|RB 40|CD </s>|S_END
+<s>|S_START shares|NNS are|VBP now|RB trading|VBG below|IN $|$ 20|CD their|PRP$ lowest|JJS level|NN since|IN may|MD 2005|CD </s>|S_END
+<s>|S_START to|TO put|VB that|IN in|IN perspective|JJ may|NN 2005|CD was|VBD just|RB a|DT few|JJ months|NNS after|IN carly|RB fiorina|NN was|VBD shown|VBN the|DT door|NN </s>|S_END
+<s>|S_START eons|NNS ago|IN in|IN the|DT fastmoving|NN world|NN of|IN tech|NN </s>|S_END
+<s>|S_START whitman|NN is|VBZ hps|NNS fifth|JJ ceo|NN counting|VBG two|CD interim|JJ chiefs|NNS since|IN fiorinas|NNS ouster|JJR </s>|S_END
+<s>|S_START hp|NN is|VBZ rivaling|VBG yahoo|RB yhoo|RB in|IN terms|NNS of|IN csuite|JJ shakeups|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD how|WRB hp|NN lost|VBD its|PRP$ way|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START making|VBG matters|NNS worse|JJR hp|NN cant|NN really|RB blame|VBD the|DT volatile|JJ market|NN and|CC sluggish|JJ economy|NN for|IN its|PRP$ woes|NNS </s>|S_END
+<s>|S_START it|PRP is|VBZ struggling|VBG even|RB as|IN many|JJ of|IN its|PRP$ partners|NNS and|CC competitors|NNS thrive|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shares|NNS of|IN microsoft|JJ msft|NN are|VBP up|IN 16|CD in|IN 2012|CD </s>|S_END
+<s>|S_START chipmaker|NN intel|NN intc|NN has|VBZ gained|VBN more|JJR than|IN 8|CD </s>|S_END
+<s>|S_START ibm|NN ibm|NN is|VBZ up|IN 5|CD and|CC is|VBZ less|RBR than|IN 10|CD below|IN its|PRP$ alltime|NN high|JJ </s>|S_END
+<s>|S_START that|DT really|RB has|VBZ to|TO sting|VBG considering|NN that|IN big|JJ blue|JJ is|VBZ the|DT company|NN hp|NN has|VBZ been|VBN trying|VBG for|IN years|NNS to|TO mimic|JJ </s>|S_END
+<s>|S_START the|DT failure|NN of|IN hp|NN to|TO replicate|VB the|DT softwareservicesservers|NNS model|VBP that|IN ibm|NN has|VBZ down|RB pat|IN has|VBZ prompted|VBN me|PRP to|TO brand|VB hp|NN as|IN little|JJ blue|NN and|CC ibm|NN lite|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START then|RB theres|VBZ oracle|NN orcl|NN </s>|S_END
+<s>|S_START shares|NNS of|IN the|DT larry|NN ellisonrun|NN software|NN company|NN are|VBP up|IN 10|CD this|DT year|NN </s>|S_END
+<s>|S_START its|PRP$ success|NN may|MD be|VB even|RB tougher|JJR for|IN hp|NN to|TO stomach|VB than|IN ibms|NNS given|VBN that|IN ellison|NN loves|NNS taking|VBG jabs|NNS at|IN hp|NN whenever|RB he|PRP can|MD and|CC that|IN oracle|NN president|NN mark|NN hurd|NN joined|VBD oracle|NN after|IN being|VBG forced|VBN out|RP of|IN the|DT ceo|NN spot|NN of|IN hp|NN in|IN the|DT wake|NN of|IN a|DT bizarre|NN expense|NN report|NN scandal|NN </s>|S_END
+<s>|S_START since|IN hurd|NN was|VBD hired|VBN by|IN oracle|NN in|IN september|NN 2010|CD shares|NNS of|IN oracle|NN are|VBP up|IN 24|CD while|IN shares|NNS of|IN hp|NN are|VBP down|RB 50|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN what|WP can|MD whitman|VB do|VB to|TO save|VB hp|NN </s>|S_END
+<s>|S_START shes|NNS already|RB started|VBN to|TO downsize|VB the|DT company|NN announcing|VBG 27000|CD layoffs|NNS that|WDT will|MD take|VB place|NN between|IN now|RB and|CC fiscal|JJ 2014|CD </s>|S_END
+<s>|S_START whitman|NN also|RB reversed|VBD the|DT decision|NN by|IN her|PRP$ shortlived|VBN predecessor|NN leo|NN apotheker|NN to|TO spinoff|VB the|DT companys|NNS pc|NN business|NN </s>|S_END
+<s>|S_START instead|RB that|IN unit|NN is|VBZ now|RB being|VBG merged|VBN with|IN hps|NNS cash|NN cow|NN printer|NN division|NN a|DT move|NN that|WDT probably|RB makes|VBZ sense|NN given|VBN how|WRB consumerfocused|VBN both|DT businesses|NNS are|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC is|VBZ restructuring|VBG enough|RB </s>|S_END
+<s>|S_START hurd|NN was|VBD notorious|JJ for|IN cost|NN cutting|VBG too|RB </s>|S_END
+<s>|S_START reducing|VBG headcount|NN may|MD make|VB profits|NNS look|VB good|JJ in|IN the|DT short|JJ term|NN </s>|S_END
+<s>|S_START however|RB waves|VBZ of|IN pink|NN slips|NNS and|CC early|RB retirement|NN packages|NNS do|VBP nothing|NN to|TO add|VB to|TO revenues|NNS over|IN the|DT long|JJ haul|NN </s>|S_END
+<s>|S_START only|RB cool|VBP innovative|JJ products|NNS and|CC services|NNS will|MD do|VB that|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT appears|VBZ to|TO be|VB hps|NNS biggest|JJS problem|NN </s>|S_END
+<s>|S_START hp|NN has|VBZ been|VBN left|VBN behind|IN in|IN the|DT mobile|JJ revolution|NN </s>|S_END
+<s>|S_START hurd|NN bought|VBD smartphone|NN maker|NN palm|NN in|IN 2010|CD but|CC apotheker|NN shut|VBD the|DT business|NN down|RP </s>|S_END
+<s>|S_START consumers|NNS love|VBP their|PRP$ ipads|NNS and|CC iphones|NNS from|IN apple|NN aapl|NN and|CC hp|VB is|VBZ suffering|VBG as|IN a|DT result|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC while|IN its|PRP$ possible|JJ that|IN microsofts|NNS upcoming|VBG tabletfriendly|RB windows|VBZ 8|CD operating|VBG system|NN will|MD lead|VB to|TO a|DT resurgence|NN in|IN pc|NN sales|NNS thats|NNS not|RB certain|JJ </s>|S_END
+<s>|S_START it|PRP also|RB doesnt|VBP help|NN that|IN microsoft|NN is|VBZ now|RB going|VBG to|TO compete|VB directly|RB with|IN its|PRP$ hardware|NN partners|NNS by|IN offering|NN its|PRP$ own|JJ surface|NN tablet|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ worth|NN noting|VBG that|IN the|DT one|CD hp|NN rival|NN i|PRP have|VBP yet|RB to|TO mention|VB is|VBZ dell|RB dell|RB </s>|S_END
+<s>|S_START it|PRP is|VBZ the|DT only|JJ major|JJ hp|NN competitor|NN whose|WP$ stock|NN is|VBZ also|RB down|RB this|DT year|NN </s>|S_END
+<s>|S_START shares|NNS have|VBP fallen|VBN about|IN 20|CD </s>|S_END
+<s>|S_START dell|NN like|IN hp|NN is|VBZ still|RB tied|VBN too|RB closely|RB to|TO the|DT moribund|NN pc|NN business|NN </s>|S_END
+<s>|S_START they|PRP are|VBP peas|RB in|IN a|DT pod|NN </s>|S_END
+<s>|S_START unfortunately|RB the|DT pods|NNS have|VBP been|VBN ravaged|VBN by|IN insects|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD ipad|VBN challengers|NNS disappointment|NN dismay|NN and|CC disaster|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sure|RB hp|VBP isnt|NN in|IN nearly|RB as|IN much|JJ trouble|NN as|IN smartphone|NN makers|NNS nokia|VBP nok|NN and|CC research|NN in|IN motion|NN rimm|NN </s>|S_END
+<s>|S_START those|DT two|CD companies|NNS are|VBP arguably|RB fighting|VBG for|IN their|PRP$ survival|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB the|DT more|RBR i|PRP look|VBP at|IN hp|NN and|CC to|TO a|DT lesser|NN extent|NN dell|NN the|DT more|RBR i|PRP see|VBP a|DT company|NN that|WDT resembles|VBZ telecoms|NNS verizon|IN vz|NN and|CC att|NN t|NN </s>|S_END
+<s>|S_START hps|NNS growth|NN is|VBZ painfully|RB slow|JJ with|IN analysts|NNS predicting|VBG a|DT revenue|NN increase|NN of|IN just|RB 1|CD in|IN fiscal|JJ 2013|CD </s>|S_END
+<s>|S_START and|CC analysts|NNS are|VBP forecasting|VBG an|DT annual|JJ earnings|NNS increase|NN of|IN only|RB 34|CD a|DT year|NN on|IN average|JJ for|IN the|DT next|JJ few|JJ years|NNS </s>|S_END
+<s>|S_START so|IN even|RB trading|NN at|IN just|RB 4|CD times|NNS fiscal|JJ 2013|CD earnings|NNS estimates|NNS hp|VBP still|RB may|MD not|RB be|VB a|DT bargain|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC hp|VBP like|IN big|JJ red|JJ and|CC ma|NN bell|NN does|VBZ pay|NN a|DT handsome|NN dividend|NN </s>|S_END
+<s>|S_START hp|NN yields|NNS 27|CD more|JJR than|IN a|DT percentage|NN point|NN higher|JJR than|IN what|WP you|PRP can|MD get|VB from|IN holding|VBG a|DT 10year|JJ us|PRP treasury|NN note|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS nice|VBP but|CC its|PRP$ not|RB exactly|RB a|DT ringing|NN endorsement|NN </s>|S_END
+<s>|S_START unless|IN whitmans|NNS changes|NNS on|IN the|DT organization|NN chart|NN actually|RB lead|VBP to|TO a|DT renewed|VBN spirit|NN of|IN innovation|NN at|IN a|DT company|NN that|WDT used|VBD to|TO have|VB the|DT tag|NN line|NN of|IN invent|NN then|RB the|DT best|JJS thing|NN people|NNS will|MD be|VB able|JJ to|TO say|VB about|IN hp|NN is|VBZ that|IN its|PRP$ a|DT widows|NN and|CC orphans|NNS stock|NN for|IN the|DT 21st|CD century|NN </s>|S_END
+</p>|P_END
+

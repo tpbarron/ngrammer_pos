@@ -1,0 +1,15 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 22|CD gdp|NN $|$ 540bn|CD ppp|CD $|$ 976bn|CD inflation|NN 165|CD population|NN 768m|CD gdp|NN per|IN head|NN $|$ 7040|CD ppp|CD $|$ 12720|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START opponents|NNS of|IN president|NN mahmoud|NN ahmadinejad|NN will|MD use|VB the|DT 2012|CD parliamentary|JJ elections|NNS to|TO reclaim|VB powers|NNS for|IN the|DT legislature|NN and|CC preparations|NNS will|MD gather|VB speed|VBN for|IN his|PRP$ replacement|NN in|IN the|DT 2013|CD presidential|JJ contest|NN </s>|S_END
+<s>|S_START ayatollah|NN ali|NN khamenei|NN the|DT supreme|NN leader|NN will|MD stick|VB by|IN his|PRP$ fractious|JJ president|NN at|IN a|DT high|JJ cost|NN to|TO his|PRP$ own|JJ authority|NN </s>|S_END
+<s>|S_START international|JJ sanctions|NNS fragmented|VBN government|NN and|CC clerical|JJ meddling|NN will|MD crimp|VB the|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB iran|JJ rising|NN </s>|S_END
+<s>|S_START although|IN official|JJ protests|NNS are|VBP sharply|RB limited|VBN by|IN the|DT regime|NN a|DT popular|JJ uprising|NN inspired|VBD by|IN the|DT arab|NN spring|NN is|VBZ a|DT distinct|JJ possibility|NN </s>|S_END
+</p>|P_END
+

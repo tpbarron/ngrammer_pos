@@ -1,0 +1,57 @@
+<p>|P_START
+<s>|S_START hardly|RB a|DT week|NN goes|VBZ by|RB without|IN an|DT announcement|NN of|IN a|DT big|JJ lawsuit|NN against|IN a|DT bank|NN in|IN america|NN </s>|S_END
+<s>|S_START wells|NNS fargo|VBP was|VBD this|DT week’s|JJ target|NN the|DT department|NN of|IN justice|NN sued|VBN the|DT bank|NN for|IN allegedly|RB dodgy|NN lending|VBG among|IN other|JJ thing|NN </s>|S_END
+<s>|S_START last|JJ week|NN it|PRP was|VBD jpmorgan|JJ chase’s|NNS turn|VBP as|RB new|JJ york’s|NNS attorneygeneral|JJ took|NN aim|NN at|IN practices|NNS at|IN bear|JJ stearns|NNS a|DT crisisera|NN acquisition|NN </s>|S_END
+<s>|S_START foreign|JJ banks|NNS have|VBP also|RB been|VBN hit|VBN hsbc|NN standard|RB chartered|VBN and|CC barclays|NNS have|VBP all|DT been|VBN on|IN the|DT end|NN of|IN highprofile|NN charges|NNS recently|RB </s>|S_END
+<s>|S_START considering|VBG the|DT banks’|NN role|NN in|IN america’s|NNP worst|NN recession|NN since|IN the|DT depression|NN this|DT is|VBZ hardly|RB surprising|JJ </s>|S_END
+<s>|S_START but|CC the|DT deluge|NN of|IN litigation|NN has|VBZ got|VBN out|RP of|IN hand|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START first|JJ america’s|NNS overlapping|VBG layers|NNS of|IN regulators|NNS and|CC litigators—state|JJ federal|JJ and|CC contingencyfeefinanced|VBD civil|JJ action—have|JJ all|DT expanded|VBN </s>|S_END
+<s>|S_START o|NN banks|NNS face|VBP a|DT prosecutorial|JJ maze|NN </s>|S_END
+<s>|S_START they|PRP can|MD find|VB themselves|PRP under|IN investigation|NN by|IN several|JJ different|JJ offices|NNS of|IN the|DT same|JJ federal|JJ agency|NN while|IN grappling|VBG with|IN other|JJ federal|JJ departments|NNS state|NN ones|NNS and|CC classaction|NN lawsuit|NN </s>|S_END
+<s>|S_START in|IN theory|NN overlaps|NNS should|MD be|VB minimised|VBN by|IN the|DT deference|NN government|NN entities|NNS grant|VBP to|TO one|CD another|DT in|IN the|DT name|NN of|IN efficiency|NN </s>|S_END
+<s>|S_START in|IN practice|NN numerous|JJ entities|NNS now|RB descend|VBP on|IN financial|JJ institutions|NNS if|IN only|RB to|TO demand|VB reams|NNS of|IN document|NN </s>|S_END
+<s>|S_START wells|NNS receives|NNS about|IN 5000|CD legal|JJ orders|NNS a|DT week|NN and|CC has|VBZ two|CD centres|NNS one|CD on|IN each|DT coast|NN devoted|VBN to|TO processing|NN them—and|NN its|PRP$ legal|JJ costs|NNS are|VBP lower|JJR than|IN most|JJS </s>|S_END
+<s>|S_START double|JJ jeopardy|NN does|VBZ not|RB apply|RB to|TO the|DT banks|NNS the|DT end|NN of|IN an|DT investigation|NN by|IN one|CD agency|NN does|VBZ not|RB mean|VB an|DT end|NN to|TO scrutiny|NN by|IN other|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START econd|NN lawsuits|NNS and|CC investigations|NNS too|RB often|RB end|VBP up|RP looking|VBG like|IN a|DT shakedown|NN </s>|S_END
+<s>|S_START because|IN of|IN the|DT sheer|NN volume|NN of|IN cases|NNS and|CC because|IN banks|NNS believe|VBP there|RB is|VBZ often|RB little|JJ choice|NN but|CC to|TO cut|VB a|DT deal|NN the|DT outcome|NN is|VBZ far|RB likelier|JJR to|TO be|VB a|DT settlement|NN than|IN a|DT determination|NN of|IN guilt|NN in|IN a|DT courtroom|NN </s>|S_END
+<s>|S_START during|IN fiscal|JJ year|NN 2011|CD the|DT securities|NNS and|CC exchange|NN commission|NN collected|VBD $|$ 414m|CD in|IN fines|NNS from|IN big|JJ financial|JJ institutions|NNS and|CC settlements|NNS in|IN classaction|NN lawsuits|NNS reached|VBD $|$ 15|CD billion|CD during|IN the|DT corresponding|NN calendar|NN year|NN </s>|S_END
+<s>|S_START these|DT murky|JJ resolutions|NNS make|VBP it|PRP impossible|JJ to|TO know|VB if|IN banks|NNS are|VBP being|VBG wrongly|RB attacked|VBN or|CC their|PRP$ injustices|NNS are|VBP being|VBG wrongly|RB buried|VBN see|NN article|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT damages|NNS the|DT banks|NNS the|DT justice|NN system|NN and|CC america|NN as|IN a|DT whole|JJ </s>|S_END
+<s>|S_START a|DT healthy|JJ financial|JJ system|NN is|VBZ not|RB one|CD that|WDT collects|VBZ money|NN from|IN investors|NNS at|IN one|CD end|NN and|CC pays|NNS a|DT big|JJ chunk|NN of|IN it|PRP out|IN at|IN the|DT other|JJ end|NN to|TO lawyers|NNS in|IN fees|NNS and|CC to|TO the|DT government|NN in|IN fine|NN </s>|S_END
+<s>|S_START this|DT mess|NN therefore|NN needs|VBZ to|TO be|VB brought|VBN under|IN control|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START divide|NN and|CC rule|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD step|NN would|MD be|VB to|TO introduce|VB a|DT far|JJ clearer|NN divide|NN between|IN federal|JJ and|CC state|NN systems|NNS of|IN regulation|NN </s>|S_END
+<s>|S_START national|JJ issues|NNS international|JJ moneylaundering|NN terrorist|NN finance|NN tax|NN matters|NNS should|MD be|VB supervised|VBN in|IN washington|NN dc|NN </s>|S_END
+<s>|S_START responsibility|NN for|IN consumer|NN protection|NN which|WDT is|VBZ inevitably|RB tied|VBN to|TO local|JJ tradeoffs|NNS more|RBR properly|RB belongs|VBZ with|IN the|DT state|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START regulators|NNS should|MD not|RB be|VB in|IN the|DT business|NN of|IN extracting|NN cash|NN from|IN banks|NNS in|IN behindthescenes|NNS settlement|NN </s>|S_END
+<s>|S_START uch|JJ deals|NNS are|VBP a|DT nice|JJ little|JJ earner|NN for|IN regulators—too|RB nice|JJ because|IN banks|NNS are|VBP always|RB in|IN a|DT rush|NN to|TO settle|VB so|RB regulators|NNS are|VBP rarely|RB required|VBN to|TO prove|VB their|PRP$ case|NN in|IN court|NN </s>|S_END
+<s>|S_START the|DT danger|NN of|IN losing|VBG in|IN an|DT open|JJ trial|NN might|MD discourage|VB regulators|NNS from|IN pursuing|VBG weak|JJ case|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uch|JJ an|DT approach|NN will|MD carry|VB costs|NNS of|IN its|PRP$ own|JJ </s>|S_END
+<s>|S_START reducing|VBG competition|NN between|IN different|JJ agencies|NNS for|IN instance|NN may|MD allow|VB banks|NNS and|CC regulators|NNS to|TO get|VB too|RB cosy|JJ </s>|S_END
+<s>|S_START protecting|VBG consumers|NNS at|IN state|NN level|NN would|MD create|VB a|DT patchwork|NN across|IN the|DT country|NN making|VBG life|NN harder|NN for|IN nationwide|JJ institution|NN </s>|S_END
+<s>|S_START court|NN cases|NNS might|MD be|VB costlier|RBR than|IN settlement|NN </s>|S_END
+<s>|S_START even|RB so|RB it’s|JJ worth|NN the|DT price|NN </s>|S_END
+<s>|S_START america|NN needs|VBZ a|DT way|NN out|IN of|IN its|PRP$ legal|JJ labyrinth|NN </s>|S_END
+</p>|P_END
+

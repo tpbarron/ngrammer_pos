@@ -1,0 +1,16 @@
+<p>|P_START
+<s>|S_START depending|VBG on|IN whether|IN the|DT annuity|NN is|VBZ fixed|VBN or|CC variable|JJ immediate|JJ annuities|NNS can|MD have|VB various|JJ drawbacks|NNS ranging|VBG from|IN loss|NN of|IN purchasing|VBG power|NN from|IN inflation|NN with|IN a|DT fixed|VBN annuity|NN or|CC high|JJ fees|NNS with|IN a|DT variable|JJ annuity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN example|NN a|DT fixed|VBN annuity|NN guarantees|NNS you|PRP a|DT set|NN payment|NN for|IN a|DT long|JJ period|NN of|IN time|NN possibly|RB the|DT rest|NN of|IN your|PRP$ life|NN </s>|S_END
+<s>|S_START but|CC you|PRP might|MD live|VB longer|RBR than|IN you|PRP think|VBP </s>|S_END
+<s>|S_START those|DT payments|NNS you|PRP started|VBD getting|VBG when|WRB you|PRP first|RB retired|VBD wont|NN change|NN at|IN all|DT and|CC they|PRP might|MD seem|VB pretty|RB measly|RB after|IN 40|CD years|NNS of|IN inflation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT variable|JJ immediate|NN annuity|NN might|MD keep|VB your|PRP$ payments|NNS from|IN being|VBG eroded|VBN by|IN inflation|NN but|CC then|RB again|RB they|PRP might|MD not|RB </s>|S_END
+<s>|S_START payments|NNS bounce|VBP up|RP or|CC down|IN each|DT month|NN depending|VBG on|IN the|DT performance|NN of|IN your|PRP$ underlying|JJ investments|NNS which|WDT can|MD make|VB budgeting|VBG tricky|JJ </s>|S_END
+<s>|S_START and|CC payments|NNS can|MD drop|VB substantially|RB over|IN the|DT short|JJ term|NN if|IN the|DT markets|NNS fall|VBP </s>|S_END
+</p>|P_END
+

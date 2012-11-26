@@ -1,0 +1,78 @@
+<p>|P_START
+<s>|S_START elite|NN athletes|NNS have|VBP long|RB gotten|VBN free|JJ rides|NNS at|IN schools|NNS with|IN top|JJ sports|NNS teams|NNS </s>|S_END
+<s>|S_START and|CC many|JJ schools|NNS offer|VBP fulltuition|NN scholarships|NNS for|IN especially|RB outstanding|JJ students|NNS </s>|S_END
+<s>|S_START but|CC you|PRP dont|VBP necessarily|RB have|VBP to|TO be|VB a|DT football|NN star|NN or|CC math|NN genius|NN to|TO get|VB a|DT higher|JJR education|NN for|IN next|JJ to|TO nothing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN fact|NN even|RB the|DT most|RBS expensive|JJ colleges|NNS are|VBP personalizing|VBG their|PRP$ prices|NNS for|IN students|NNS depending|VBG on|IN their|PRP$ financial|JJ situation|NN and|CC talents|NNS </s>|S_END
+<s>|S_START ivy|NN league|NN colleges|NNS for|IN example|NN generally|RB offer|VBP completely|RB free|JJ educations|NNS to|TO students|NNS from|IN families|NNS earning|VBG less|JJR than|IN about|IN $|$ 60000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT makes|VBZ it|PRP difficult|VBD to|TO provide|VB a|DT general|JJ list|NN of|IN colleges|NNS that|WDT will|MD be|VB free|JJ for|IN you|PRP </s>|S_END
+<s>|S_START you|PRP can|MD try|VB to|TO estimate|VB your|PRP$ net|JJ cost|NN at|IN any|DT particular|JJ school|NN using|VBG moneys|NNS calculator|NN </s>|S_END
+<s>|S_START but|CC we|PRP can|MD tell|VB you|PRP which|WDT colleges|NNS offer|VBP free|JJ tuition|NN for|IN all|DT students|NNS all|DT of|IN the|DT time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START alice|NN lloyd|VBD college|NN students|NNS from|IN the|DT appalachian|JJ region|NN get|NN free|JJ tuition|NN at|IN this|DT pippa|NN passes|VBZ ky|JJ liberal|NN arts|NNS college|NN in|IN return|NN for|IN at|IN least|JJS 10|CD hours|NNS a|DT week|NN of|IN work|NN </s>|S_END
+<s>|S_START students|NNS must|MD fund|VB their|PRP$ own|JJ living|NN expenses|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START berea|NN college|NN this|DT kentucky|NN college|NN generally|RB only|RB admits|VBZ students|NNS from|IN lowincome|NN families|NNS </s>|S_END
+<s>|S_START it|PRP provides|VBZ all|DT admitted|VBN students|NNS with|IN fulltuition|NN scholarships|NNS </s>|S_END
+<s>|S_START every|DT student|NN is|VBZ also|RB offered|VBN a|DT paying|NN parttime|NN job|NN </s>|S_END
+<s>|S_START students|NNS are|VBP responsible|JJ for|IN living|NN costs|NNS however|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START college|NN of|IN the|DT ozarks|NNS students|NNS work|VBP off|RP their|PRP$ tuition|NN at|IN this|DT point|NN lookout|IN mo|NN liberal|NN arts|NNS college|NN </s>|S_END
+<s>|S_START students|NNS have|VBP to|TO fund|VB their|PRP$ own|JJ living|NN costs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cooper|NN union|NN this|DT new|JJ york|NN city|NN college|NN specializing|VBG in|IN art|NN architecture|NN and|CC engineering|NN offers|NNS fulltuition|NN scholarships|NNS to|TO all|DT admitted|VBN students|NNS </s>|S_END
+<s>|S_START students|NNS are|VBP responsible|JJ for|IN living|NN costs|NNS however|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START curtis|NNS institute|VBP of|IN music|JJ this|DT philadelphia|NN music|NN college|NN offers|NNS full|JJ tuition|NN scholarships|NNS to|TO all|DT admitted|VBN students|NNS </s>|S_END
+<s>|S_START students|NNS are|VBP responsible|JJ for|IN living|NN costs|NNS however|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START deep|NN springs|NNS college|VBP this|DT free|JJ twoyear|NN cowboy|NN college|NN in|IN the|DT californianevada|NN desert|NN generally|RB admits|VBZ only|RB 13|CD students|NNS a|DT year|NN </s>|S_END
+<s>|S_START currently|RB allmale|VBP it|PRP has|VBZ announced|VBN it|PRP may|MD start|VB admitting|VBG women|NNS for|IN the|DT first|JJ time|NN in|IN 2013|CD </s>|S_END
+<s>|S_START along|IN with|IN traditional|JJ liberal|JJ arts|NNS classes|NNS students|NNS work|VBP on|IN a|DT ranch|NN </s>|S_END
+<s>|S_START many|JJ graduates|NNS have|VBP transferred|VBN to|TO ivy|VB league|JJ schools|NNS </s>|S_END
+<s>|S_START students|NNS pay|VBP only|RB for|IN their|PRP$ travel|NN to|TO the|DT school|NN and|CC incidentals|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START macaulay|NN honors|NNS college|VBP at|IN cuny|NN this|DT new|JJ york|NN city|NN public|JJ college|NN offers|VBZ top|JJ students|NNS from|IN anywhere|RB free|JJ tuition|NN but|CC not|RB fees|NNS plus|RB a|DT macbook|NN laptop|NN and|CC $|$ 7500|CD in|IN funding|NN for|IN research|NN study|NN abroad|RB or|CC special|JJ projects|NNS </s>|S_END
+<s>|S_START students|NNS must|MD fund|VB living|NN costs|NNS however|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START military|JJ service|NN academies|NNS the|DT competition|NN is|VBZ fierce|NN and|CC the|DT workload|NN is|VBZ brutal|JJ but|CC the|DT air|NN force|NN coast|NN guard|NN military|JJ and|CC naval|NN academies|NNS offer|VBP free|JJ topnotch|NN educations|NNS and|CC living|VBG stipends|NNS in|IN return|NN for|IN typically|RB at|IN least|JJS five|CD years|NNS of|IN fulltime|JJ service|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START webb|NN institute|NN if|IN youre|NN passionate|NN about|IN naval|NN architecture|NN and|CC marine|NN engineering|NN this|DT small|JJ specialty|NN college|NN in|IN glen|NN cove|NN ny|NN will|MD teach|VB you|PRP everything|VBG you|PRP need|VBP to|TO know|VB tuitionfree|JJ </s>|S_END
+<s>|S_START students|NNS are|VBP responsible|JJ for|IN funding|NN living|VBG costs|NNS and|CC buying|VBG a|DT computer|NN and|CC software|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START international|JJ colleges|NNS if|IN you|PRP can|MD study|VB in|IN foreign|JJ languages|NNS such|JJ as|IN german|JJ norwegian|NN or|CC finnish|JJ you|PRP may|MD be|VB able|JJ to|TO win|VB admission|NN to|TO tuitionfree|VB foreign|JJ schools|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP dont|VBP care|JJ about|IN getting|VBG credit|NN or|CC a|DT diploma|NN there|EX are|VBP thousands|NNS of|IN free|JJ classes|NNS that|WDT will|MD teach|VB you|PRP something|NN new|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START next|JJ how|WRB to|TO find|VB cheap|NN colleges |-NONE- </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,85 @@
+<p>|P_START
+<s>|S_START the|DT moment|NN when|WRB a|DT throng|JJ of|IN peacefully|RB moving|VBG people|NNS turns|NNS into|IN a|DT panicked|JJ herd|NN is|VBZ difficult|JJ to|TO predict|VB </s>|S_END
+<s>|S_START yet|RB once|RB triggered|VBN it|PRP is|VBZ almost|RB impossible|JJ to|TO calm|VB the|DT hysteria|NN </s>|S_END
+<s>|S_START in|IN financial|JJ markets|NNS too|RB it|PRP is|VBZ better|RBR to|TO avert|VB panic|JJ than|IN to|TO try|NN to|TO pacify|VB it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN italys|NNS bond|NN market|NN the|DT worlds|NNS thirdlargest|VBP where|WRB yields|NNS had|VBD been|VBN rising|VBG for|IN weeks|NNS fear|VBP turned|VBN to|TO panic|JJ early|JJ on|IN november|NN 9th|CD </s>|S_END
+<s>|S_START risk|NN officers|NNS at|IN lchclearnet|NN which|WDT stands|VBZ between|IN banks|NNS trading|NN in|IN bonds|NNS said|VBD that|IN its|PRP$ members|NNS would|MD have|VB to|TO post|VB much|JJ higher|JJR margins|NNS against|IN their|PRP$ holdings|NNS of|IN italian|JJ government|NN bond|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT was|VBD intended|VBN to|TO protect|VB the|DT clearing|NN house|NN by|IN reducing|NN the|DT risks|NNS posed|VBD by|IN banks|NNS trading|VBG italian|JJ government|NN bonds|NNS given|VBN the|DT wild|NN swings|NNS in|IN their|PRP$ prices|NNS over|IN the|DT past|JJ few|JJ month|NN </s>|S_END
+<s>|S_START yet|RB this|DT technical|JJ change|NN to|TO a|DT part|NN of|IN the|DT financial|JJ system|NN that|WDT most|JJS people|NNS have|VBP never|RB heard|VBN of|IN had|JJ the|DT same|JJ effect|NN as|IN shouting|NN “fire”|NN in|IN a|DT crowded|VBN theatre|NN </s>|S_END
+<s>|S_START almost|RB at|IN a|DT stroke|NN banks|NNS trading|NN italian|JJ government|NN bonds|NNS or|CC using|VBG them|PRP as|IN collateral|JJ for|IN other|JJ transactions|NNS would|MD have|VB either|DT had|VBN to|TO come|VB up|RP with|IN billions|NNS of|IN euros|NNS in|IN extra|JJ cash|NN or|CC would|MD have|VB quickly|RB had|VBD to|TO sell|VB some|DT of|IN their|PRP$ holding|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START within|IN minutes|NNS of|IN the|DT market|NN opening|VBG there|EX was|VBD a|DT fully|RB fledged|VBN run|VBN on|IN italian|JJ government|NN bond|NN </s>|S_END
+<s>|S_START buyers|NNS were|VBD hard|RB to|TO find|VB and|CC in|IN thin|JJ markets|NNS yields|NNS on|IN the|DT bonds|NNS jumped|VBD past|JJ 7|CD before|IN stabilising|NN just|RB below|IN 75|CD on|IN what|WP traders|NNS assumed|VBD was|VBD buying|VBG by|IN the|DT european|JJ central|JJ bank|NN </s>|S_END
+<s>|S_START “the|DT clearing|NN platforms|NNS have|VBP no|DT option|NN but|CC to|TO protect|VB their|PRP$ members|NNS and|CC in|IN doing|NN so|IN they|PRP will|MD inevitably|RB turn|VB the|DT screw|NN on|IN italian|JJ government|NN bond|NN markets|NNS and|CC push|VB yields|NNS closer|JJR to|TO levels|NNS which|WDT could|MD potentially|RB trigger|VB a|DT death|NN spiral”|NN wrote|VBD don|NN smith|IN of|IN icap|NN which|WDT helps|NNS dealers|NNS trade|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT margin|NN increase|NN was|VBD not|RB entirely|RB unexpected|VBN </s>|S_END
+<s>|S_START over|IN the|DT past|JJ year|NN the|DT clearing|NN house|NN asked|VBD for|IN more|JJR margin|NN on|IN portuguese|JJ and|CC irish|JJ bonds|NNS after|IN their|PRP$ prices|NNS fell|VBD sharply|RB </s>|S_END
+<s>|S_START yet|RB the|DT increase|NN on|IN italian|JJ debt|NN came|VBD sooner|NN than|IN expected|VBN as|RB it|PRP was|VBD triggered|VBN before|IN italian|JJ bonds|NNS crossed|VBN a|DT threshold|NN that|WDT the|DT clearing|VBG house|NN was|VBD thought|VBN to|TO use|VB 45|CD percentage|NN points|NNS above|IN the|DT average|NN interest|NN rate|NN of|IN aaarated|VBN government|NN bonds|NNS in|IN the|DT euro|NN zone|NN </s>|S_END
+<s>|S_START and|CC the|DT margin|NN increase|NN is|VBZ unlikely|RB to|TO be|VB reversed|VBN even|RB if|IN ecb|NN buying|VBG drives|NNS yields|NNS back|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT triggering|NN of|IN margin|NN calls|NNS has|VBZ changed|VBN investors|NNS perceptions|NNS of|IN italian|JJ government|NN bonds|NNS and|CC will|MD worsen|VB the|DT governments|NNS funding|VBG position|NN </s>|S_END
+<s>|S_START the|DT immediate|JJ risk|NN is|VBZ that|IN banks|NNS which|WDT might|MD have|VB held|VBN italian|JJ bonds|NNS as|IN part|NN of|IN their|PRP$ liquidity|NN reserves|NNS or|CC the|DT building|NN blocks|NNS of|IN other|JJ financial|JJ products|NNS are|VBP dumping|VBG them|PRP for|IN safer|NN bets|NNS such|JJ as|IN german|JJ bund|NN </s>|S_END
+<s>|S_START “there|JJ is|VBZ a|DT reason|NN why|WRB bund|NN yields|NNS are|VBP approaching|VBG 200year|JJ lows”|NN says|VBZ hans|NNS lorenzen|VBN of|IN citigroup|NN a|DT bank|NN </s>|S_END
+<s>|S_START “everyone|NN is|VBZ trying|VBG to|TO crowd|VB into|IN the|DT same|JJ trade”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START among|IN the|DT large|JJ european|NN banks|NNS that|WDT are|VBP dumping|VBG italian|JJ bonds|NNS are|VBP bnp|RB paribas|RB and|CC commerzbank|NN </s>|S_END
+<s>|S_START “it|JJ is|VBZ what|WP the|DT market|NN is|VBZ asking|VBG us|PRP to|TO do”|NNP says|VBZ one|CD banker|NN </s>|S_END
+<s>|S_START at|IN the|DT top|JJ of|IN many|JJ bankers|NNS minds|NNS are|VBP the|DT woes|NNS of|IN mf|NN global|JJ a|DT midsized|JJ investment|NN bank|NN that|WDT went|VBD bust|RB at|IN the|DT end|NN of|IN october|NN after|IN loading|VBG up|RP on|IN italian|JJ and|CC other|JJ peripheral|JJ european|JJ government|NN bond|NN </s>|S_END
+<s>|S_START o|NN toxic|VBD is|VBZ their|PRP$ taint|NN that|WDT shares|NNS in|IN jefferies|NNS another|DT midsized|VBN american|NN investment|NN bank|NN were|VBD pummelled|VBN over|IN the|DT firms|NNS trades|VBZ in|IN european|JJ bonds|NNS despite|IN the|DT fact|NN that|IN it|PRP had|VBD “shorted”|-NONE- them|PRP and|CC stood|VBD to|TO benefit|VB if|IN they|PRP fell|VBD in|IN price|NN </s>|S_END
+<s>|S_START it|PRP too|RB has|VBZ been|VBN forced|VBN to|TO cut|VB back|RB both|DT its|PRP$ holdings|NNS and|CC bets|NNS that|WDT they|PRP might|MD fall|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START now|RB that|DT a|DT run|NN on|IN bond|NN markets|NNS has|VBZ started|VBN it|PRP may|MD well|RB keep|VB feeding|VBG on|IN itself|PRP </s>|S_END
+<s>|S_START after|IN clearing|VBG houses|NNS raised|VBD margin|NN requirements|NNS on|IN portuguese|JJ and|CC irish|JJ bonds|NNS their|PRP$ prices|NNS fell|VBD sharply|RB pushing|VBG yields|NNS up|IN prompting|VBG clearing|NN houses|NNS to|TO increase|VB margins|NNS yet|RB again|RB see|VB chart|NN 1|CD </s>|S_END
+<s>|S_START eurozone|NN bailouts|NNS followed|VBD shortly|RB afterward|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rising|VBG bond|NN yields|NNS can|MD themselves|PRP stoke|VB worries|NNS about|IN a|DT countrys|NNS ability|NN to|TO service|NN its|PRP$ debt|NN </s>|S_END
+<s>|S_START italys|NNS national|VBP debt|NN is|VBZ high|JJ but|CC affordable|JJ at|IN the|DT yields|NNS it|PRP was|VBD paying|VBG earlier|JJR this|DT year|NN </s>|S_END
+<s>|S_START if|IN its|PRP$ borrowing|NN costs|NNS were|VBD to|TO climb|VB for|IN a|DT sustained|VBN period|NN its|PRP$ debt|NN would|MD begin|VB to|TO look|VB unaffordable|JJ prompting|NN further|RB selling|VBG and|CC further|JJ increases|NNS in|IN bond|NN yield|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START borrowing|VBG costs|NNS paid|VBD by|IN italian|JJ banks|NNS and|CC companies|NNS are|VBP also|RB likely|JJ to|TO rise|VB </s>|S_END
+<s>|S_START banks|NNS are|VBP generally|RB unable|JJ to|TO issue|VB longterm|JJ bonds|NNS at|IN interest|NN rates|NNS lower|JJR than|IN those|DT paid|VBN by|IN their|PRP$ governments|NNS because|IN they|PRP would|MD be|VB hardesthit|VBN by|IN a|DT default|NN </s>|S_END
+<s>|S_START higher|JJR borrowing|VBG costs|NNS for|IN banks|NNS will|MD force|VB them|PRP to|TO rely|RB more|JJR on|IN the|DT ecb|NN to|TO keep|VB credit|NN flowing|VBG and|CC it|PRP will|MD mean|VB scarcer|NN and|CC costlier|JJR loans|NNS for|IN italian|JJ companies|NNS which|WDT in|IN turn|NN may|MD slow|VB economic|JJ growth|NN and|CC hamper|NN debt|NN repayment|NN </s>|S_END
+<s>|S_START italys|NNS strongest|VBP companies|NNS can|MD sell|VB bonds|NNS directly|RB but|CC the|DT rates|NNS they|PRP pay|VBP are|VBP also|RB correlated|VBN to|TO the|DT yields|NNS on|IN government|NN bond|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT very|JJ visible|JJ signs|NNS of|IN runs|NNS in|IN government|NN and|CC corporate|JJ bond|NN markets|NNS seem|VBP to|TO be|VB mirrored|VBN in|IN more|JJR opaque|JJ corners|NNS of|IN finance|NN </s>|S_END
+<s>|S_START greek|NN banks|NNS have|VBP been|VBN bleeding|VBG deposits|NNS for|IN months|NNS yet|RB panic|JJ may|MD be|VB setting|VBG in|IN </s>|S_END
+<s>|S_START reuters|NNS reports|NNS that|IN over|IN the|DT past|JJ week|NN as|IN much|JJ as|IN €5|JJ billion|NN was|VBD withdrawn|VBN by|IN saver|NN </s>|S_END
+<s>|S_START “my|JJ father|NN sent|NN me|PRP money|NN as|IN a|DT ‘gift|JJ to|TO get|VB it|PRP out”|-NONE- says|VBZ one|CD londonbased|VBN but|CC greekborn|NN banker|NN </s>|S_END
+<s>|S_START in|IN italy|RB corporate|JJ deposits|NNS have|VBP also|RB been|VBN moving|VBG out|RP of|IN the|DT country|NN to|TO other|JJ members|NNS of|IN the|DT euro|NN zone|NN or|CC to|TO the|DT subsidiaries|NNS of|IN foreignowned|VBN banks|NNS in|IN italy|RB according|VBG to|TO banker|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT sign|NN of|IN strain|NN may|MD be|VB found|VBN in|IN demand|NN for|IN €500|-NONE- bill|NN </s>|S_END
+<s>|S_START these|DT are|VBP too|RB large|JJ for|IN everyday|NN transactions|NNS and|CC are|VBP mainly|RB used|VBN for|IN mattressstuffing|NN or|CC money|NN laundering|VBG say|NN banker|NN </s>|S_END
+<s>|S_START demand|NN for|IN them|PRP surged|VBD after|IN the|DT collapse|NN of|IN lehman|NN brothers|NNS in|IN 2008|CD and|CC it|PRP has|VBZ ticked|VBN up|RP again|RB in|IN recent|JJ months|NNS see|VBP chart|NN 2|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START worrying|VBG too|RB are|VBP signs|NNS that|IN companies|NNS across|IN europe|NN are|VBP preparing|VBG for|IN the|DT possibility|NN of|IN a|DT breakup|NN of|IN the|DT euro|NN zone|NN </s>|S_END
+<s>|S_START one|CD london|NN lawyer|NN says|VBZ he|PRP has|VBZ been|VBN inundated|VBN by|IN requests|NNS from|IN clients|NNS asking|VBG about|IN the|DT validity|NN of|IN contract|NN </s>|S_END
+<s>|S_START “there|JJ is|VBZ a|DT contractual|JJ obligation|NN to|TO make|VB payment|NN in|IN euros”|NNP he|PRP say|VBP </s>|S_END
+<s>|S_START “people|JJ are|VBP asking|VBG what|WP happens|NNS if|IN there|EX isnt|NN a|DT euro”|NN </s>|S_END
+</p>|P_END
+

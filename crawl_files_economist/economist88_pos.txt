@@ -1,0 +1,48 @@
+<p>|P_START
+<s>|S_START for|IN more|JJR than|IN a|DT decade|NN bankers|NNS have|VBP fretted|VBN about|IN the|DT threat|NN posed|VBD to|TO them|PRP by|IN the|DT banking|NN arms|NNS of|IN supermarket|NN </s>|S_END
+<s>|S_START the|DT likes|NNS of|IN walmart|NN and|CC tesco|NN have|VBP thousands|NNS of|IN outlets|NNS that|WDT customers|NNS visit|VBP millions|NNS of|IN times|NNS a|DT week|NN </s>|S_END
+<s>|S_START their|PRP$ networks|NNS dwarf|VBP those|DT of|IN ordinary|JJ banks|NNS small|JJ wonder|NN the|DT bankers|NNS were|VBD scared|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB now|RB the|DT boot|NN is|VBZ on|IN the|DT other|JJ foot|NN </s>|S_END
+<s>|S_START banks|NNS and|CC other|JJ financial|JJ institutions|NNS are|VBP learning|VBG to|TO crunch|NN the|DT data|NNS they|PRP hold|VBP on|IN their|PRP$ customer|NN </s>|S_END
+<s>|S_START instead|RB of|IN being|VBG supplanted|VBN by|IN supermarkets|NNS banks|NNS may|MD sway|VB shopper|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT leader|NN in|IN this|DT field|NN is|VBZ cardlytics|NNS a|DT private|JJ american|NN company|NN founded|VBD in|IN 2008|CD </s>|S_END
+<s>|S_START it|PRP has|VBZ developed|VBN technology|NN to|TO analyse|VB transaction|NN data|NNS held|VBD by|IN banks|NNS and|CC to|TO use|VB this|DT information|NN to|TO sell|VB targeted|VBN advertisements|NNS to|TO retailers|NNS and|CC other|JJ </s>|S_END
+<s>|S_START a|DT supermarket|NN might|MD for|IN example|NN be|VB interested|JJ in|IN customers|NNS who|WP spend|VBP $|$ 100|CD or|CC more|JJR a|DT month|NN at|IN rival|NN grocers|NNS but|CC who|WP have|VBP not|RB entered|VBN its|PRP$ own|JJ stores|NNS for|IN six|CD month|NN </s>|S_END
+<s>|S_START it|PRP might|MD then|RB offer|VB these|DT people|NNS a|DT 20|CD discount|NN on|IN their|PRP$ next|JJ shopping|NN trip|NN at|IN its|PRP$ store|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cardlytics|NNS would|MD insert|VB an|DT advertisement|NN to|TO this|DT effect|NN into|IN these|DT customers’|JJ onlinebank|NN statements|NNS ideally|RB under|IN a|DT relevant|NN transaction|NN such|JJ as|IN a|DT payment|NN to|TO a|DT rival|NN retailer|NN </s>|S_END
+<s>|S_START customers|NNS can|MD accept|VB the|DT discount|NN online|NN by|IN clicking|NN a|DT box|NN </s>|S_END
+<s>|S_START this|DT connects|NNS the|DT discount|NN coupon|NN to|TO their|PRP$ debit|NN card|NN so|RB that|IN the|DT discount|NN is|VBZ automatically|RB rebated|VBN to|TO their|PRP$ account|NN when|WRB they|PRP meet|VBP the|DT conditions|NNS by|IN for|IN instance|NN shopping|VBG at|IN the|DT store|NN within|IN a|DT certain|JJ period|NN of|IN time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT potential|JJ revenues|NNS are|VBP alluring|VBG to|TO banks|NNS which|WDT are|VBP struggling|VBG to|TO maintain|VB profitability|NN in|IN the|DT face|NN of|IN low|JJ interest|NN rates|NNS which|WDT depress|NN their|PRP$ margins|NNS and|CC consumer|NN legislation|NN that|WDT has|VBZ outlawed|VBN or|CC reduced|VBN many|JJ of|IN the|DT fees|NNS they|PRP are|VBP able|JJ to|TO charge|VB </s>|S_END
+<s>|S_START cardlytics|NNS which|VBP recently|RB struck|VBD an|DT agreement|NN with|IN bank|NN of|IN america|NN and|CC is|VBZ now|RB working|VBG with|IN 327|CD banks|NNS that|WDT reach|VBP 78m|CD households|NNS in|IN america|NN says|VBZ it|PRP is|VBZ able|JJ to|TO charge|VB retailers|NNS an|DT average|JJ advertising|NN fee|NN worth|NN some|DT 10|CD of|IN the|DT price|NN of|IN the|DT purchase|NN made|VBD by|IN the|DT customer|NN which|WDT is|VBZ then|RB split|VBN with|IN the|DT bank|NN </s>|S_END
+<s>|S_START it|PRP also|RB claims|VBZ mouthwatering|VBG rates|NNS of|IN “click|JJ through”|NN </s>|S_END
+<s>|S_START ome|NN 1520|CD of|IN customers|NNS accept|IN offers|NNS of|IN which|WDT about|IN one|CD third|JJ are|VBP actually|RB redeemed|VBN </s>|S_END
+<s>|S_START by|IN contrast|NN clickthrough|IN rates|NNS in|IN most|JJS other|JJ onlineadvertising|NN media|NNS are|VBP less|JJR than|IN 2|CD and|CC in|IN some|DT cases|NNS as|IN low|JJ as|IN 02|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START other|JJ firms|NNS are|VBP also|RB trying|VBG their|PRP$ hand|NN in|IN this|DT area|NN </s>|S_END
+<s>|S_START card|NN networks|NNS such|JJ as|IN mastercard|NN and|CC visa|NN have|VBP begun|VBN mining|VBG their|PRP$ data|NNS to|TO provide|VB targeted|VBN advertisement|NN </s>|S_END
+<s>|S_START o|NN have|VBP some|DT bank|NN </s>|S_END
+<s>|S_START citigroup|NN for|IN instance|NN monitors|NNS the|DT creditcard|NN transactions|NNS of|IN its|PRP$ customers|NNS in|IN some|DT asian|JJ countries|NNS and|CC uses|NNS the|DT information|NN to|TO send|VB text|NN messages|NNS offering|VBG special|JJ deal|NN </s>|S_END
+<s>|S_START a|DT customer|NN buying|VBG clothes|NNS at|IN around|IN lunchtime|NN for|IN example|NN might|MD be|VB offered|VBN a|DT discounted|JJ meal|NN at|IN a|DT nearby|JJ restaurant|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START although|IN these|DT initiatives|NNS offer|VBP financial|JJ institutions|NNS a|DT way|NN of|IN exploiting|VBG the|DT vast|JJ troves|NNS of|IN data|NNS they|PRP hold|VBP they|PRP also|RB raise|VBP the|DT risk|NN of|IN a|DT consumer|NN backlash|NN over|IN privacy|NN </s>|S_END
+<s>|S_START in|IN most|JJS cases|NNS firms|NNS offer|VBP customers|NNS the|DT opportunity|NN to|TO opt|VB out|RP of|IN such|JJ offer|NN </s>|S_END
+<s>|S_START they|PRP also|RB promise|VBP anonymity|NN cardlytics|NNS says|VBZ the|DT banks|NNS it|PRP works|VBZ with|IN never|RB reveal|JJ the|DT individual|JJ identities|NNS of|IN any|DT of|IN their|PRP$ customer|NN </s>|S_END
+<s>|S_START even|RB so|RB customers|NNS may|MD yet|RB balk|VB when|WRB pesky|JJ ads|NNS invade|VBP the|DT sanctuary|JJ of|IN the|DT bank|NN account|NN </s>|S_END
+</p>|P_END
+

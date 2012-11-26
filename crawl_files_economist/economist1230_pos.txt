@@ -1,0 +1,16 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 00|CD gdp|NN $|$ 219bn|CD ppp|CD $|$ 191bn|CD inflation|NN 13|CD population|NN 42m|CD gdp|NN per|IN head|NN $|$ 52180|CD ppp|CD $|$ 45370|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fine|NN gaellabour|NN party|NN government|NN faces|NNS no|DT threat|NN from|IN a|DT fragmented|VBN opposition|NN swept|IN out|IN of|IN power|NN in|IN the|DT devastation|NN of|IN the|DT 200809|CD financial|JJ collapse|NN and|CC will|MD concentrate|VB on|IN administering|NN the|DT bitter|NN medicine|NN imposed|VBD by|IN europe|NN and|CC the|DT imf|NN in|IN return|NN for|IN an|DT €85bn|JJ $|$ 115bn|CD rescue|NN </s>|S_END
+<s>|S_START this|DT includes|VBZ a|DT hard|JJ fiscal|JJ squeeze|NN wage|NN restraint|NN and|CC political|JJ reform|NN </s>|S_END
+<s>|S_START when|WRB the|DT country|NN returns|NNS to|TO voluntary|JJ credit|NN markets|NNS in|IN late|JJ 2012|CD or|CC early|RB 2013|CD the|DT rates|NNS on|IN offer|NN are|VBP likely|JJ to|TO be|VB prohibitive|JJ and|CC a|DT new|JJ rescue|NN may|MD be|VB needed|VBN </s>|S_END
+<s>|S_START the|DT economy|NN will|MD not|RB grow|VB at|IN all|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB bringing|NN the|DT house|NN down|IN </s>|S_END
+<s>|S_START a|DT referendum|NN will|MD be|VB held|VBN on|IN whether|IN to|TO scrap|VB the|DT seanad|NN the|DT upper|JJ house|NN of|IN parliament|NN </s>|S_END
+</p>|P_END
+

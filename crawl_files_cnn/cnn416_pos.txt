@@ -1,0 +1,54 @@
+<p>|P_START
+<s>|S_START greeks|NNS protest|VBP as|RB parliament|JJ passes|NNS a|DT new|JJ package|NN of|IN austerity|NN measures|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START london|NN cnnmoney|NN greek|NN unemployment|NN hit|VBD a|DT new|JJ record|NN of|IN 254|CD in|IN august|JJ as|IN five|CD years|NNS of|IN recession|NN and|CC government|NN spending|NN cuts|NNS continued|VBD to|TO take|VB their|PRP$ toll|NN with|IN young|JJ people|NNS hit|VBP hardest|JJS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT greek|NN statistics|NNS office|NN elstat|NN said|VBD the|DT seasonallyadjusted|VBN jobless|NN number|NN rose|VBD to|TO 127|CD million|CD in|IN august|JJ up|IN 352000|CD from|IN the|DT same|JJ month|NN a|DT year|NN earlier|JJR when|WRB the|DT unemployment|NN rate|NN stood|VBD at|IN 184|CD </s>|S_END
+<s>|S_START in|IN july|RB 2012|CD the|DT figure|NN was|VBD 248|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nearly|RB 6|CD in|IN 10|CD workers|NNS under|IN the|DT age|NN of|IN 24|CD are|VBP now|RB without|IN a|DT job|NN </s>|S_END
+<s>|S_START a|DT third|JJ of|IN workers|NNS aged|VBN 2534|CD are|VBP unemployed|VBN elstat|JJ said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT figures|NNS underscore|VBP the|DT social|JJ cost|NN of|IN a|DT recession|NN that|WDT has|VBZ cut|VBN the|DT size|NN of|IN the|DT greek|NN economy|NN by|IN about|RB 20|CD since|IN 2008|CD and|CC efforts|NNS by|IN the|DT government|NN to|TO rein|VB in|IN its|PRP$ soaring|NN budget|NN deficit|NN projected|VBD to|TO hit|VB 190|CD of|IN gross|JJ domestic|JJ product|NN next|IN year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START greece|NN has|VBZ received|VBN two|CD bailouts|NNS from|IN international|JJ creditors|NNS but|CC payments|NNS of|IN funds|NNS under|IN the|DT second|JJ program|NN were|VBD suspended|VBN earlier|JJR this|DT year|NN after|IN athens|NNS fell|VBD behind|IN its|PRP$ fiscal|JJ targets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT greek|NN parliament|NN wednesday|NN approved|VBD a|DT further|JJ round|NN of|IN labor|NN market|NN reforms|NNS and|CC spending|NN cuts|NNS in|IN the|DT face|NN of|IN violent|NN street|NN protests|NNS by|IN tens|NNS of|IN thousands|NNS of|IN greeks|NNS angry|JJ at|IN years|NNS of|IN belttightening|VBG that|IN have|JJ slashed|VBN the|DT living|NN standards|NNS for|IN many|JJ of|IN greeces|NNS population|NN of|IN 10|CD million|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD greeces|NNS misery|VBP wont|NN end|NN with|IN bailout|NN vote|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START greece|NN estimates|NNS that|WDT nearly|RB 3|CD in|IN 10|CD people|NNS are|VBP now|RB materially|RB deprived|VBN in|IN one|CD way|NN or|CC another|DT up|RP by|IN nearly|RB 50|CD since|IN before|IN the|DT crisis|NN hit|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT new|JJ austerity|NN measures|NNS and|CC a|DT revised|VBN 2013|CD budget|NN both|DT need|NN parliamentary|NN support|NN if|IN greece|NN is|VBZ to|TO stand|VB any|DT chance|NN of|IN receiving|VBG the|DT next|JJ 315|CD billion|CD euros|NNS in|IN bailout|NN funds|NNS from|IN the|DT eu|NN european|NN central|JJ bank|NN and|CC international|JJ monetary|NN fund|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT budget|NN will|MD be|VB debated|VBN sunday|NN and|CC eurozone|NN finance|NN ministers|NNS could|MD agree|VB as|IN early|JJ as|IN next|JJ week|NN to|TO give|VB greece|NN two|CD more|JJR years|NNS to|TO meet|VB its|PRP$ fiscal|JJ targets|NNS paving|VBG the|DT way|NN for|IN release|NN of|IN the|DT bailout|NN money|NN which|WDT would|MD avert|VB insolvency|NN and|CC a|DT catastrophic|JJ exit|NN from|IN the|DT eurozone|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START critics|NNS of|IN the|DT government|NN argue|NN that|IN the|DT austerity|NN measures|VBZ are|VBP pulling|VBG greece|NN into|IN a|DT downward|JJ spiral|JJ of|IN economic|JJ contraction|NN and|CC impoverishment|NN </s>|S_END
+<s>|S_START the|DT economy|NN is|VBZ forecast|VBN to|TO contract|NN by|IN 45|CD in|IN 2013|CD a|DT sixth|JJ straight|NN year|NN of|IN recession|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+</p>|P_END
+

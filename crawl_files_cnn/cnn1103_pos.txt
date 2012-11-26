@@ -1,0 +1,49 @@
+<p>|P_START
+<s>|S_START bnp|NN was|VBD one|CD of|IN three|CD major|JJ french|NN banks|NNS downgraded|VBD by|IN sp|NN thursday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN credit|NN agency|NN standard|NN poors|NNS has|VBZ cut|VBN its|PRP$ ratings|NNS on|IN bnp|NN paribas|NNS and|CC two|CD other|JJ major|JJ french|NN banks|NNS citing|VBG the|DT rising|VBG economic|JJ risks|NNS that|WDT they|PRP face|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT downgrade|NN which|WDT came|VBD after|IN the|DT market|NN closed|VBD in|IN paris|NN thursday|NN also|RB cut|VBD the|DT ratings|NNS for|IN banque|NN solfea|NN and|CC cofidis|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP see|VBP them|PRP as|IN more|JJR exposed|VBN to|TO this|DT more|RBR difficult|JJ european|JJ environment|NN said|VBD the|DT statement|NN from|IN sp|NN </s>|S_END
+<s>|S_START in|IN our|PRP$ view|NN the|DT economic|JJ risks|NNS under|IN which|WDT french|JJ banks|NNS operate|VBP are|VBP increasing|VBG leaving|VBG them|PRP moderately|RB more|JJR exposed|VBN to|TO the|DT potential|JJ of|IN a|DT more|RBR protracted|JJ recession|NN in|IN the|DT eurozone|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT downgrades|NNS might|MD not|RB be|VB the|DT last|JJ to|TO hit|VB frances|NNS banking|VBG system|NN </s>|S_END
+<s>|S_START while|IN sp|NN left|VBD the|DT credit|NN ratings|NNS unchanged|JJ for|IN 11|CD other|JJ major|JJ banks|NNS it|PRP changed|VBD the|DT outlook|NN on|IN those|DT ratings|NNS to|TO negative|VB from|IN stable|JJ suggesting|NN that|WDT future|JJ downgrades|NNS were|VBD possible|JJ </s>|S_END
+<s>|S_START that|DT group|NN includes|VBZ societe|JJ generale|NN credit|NN agricole|NN and|CC allianz|NN banque|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD moodys|NNS puts|NNS european|VBP union|NN on|IN notice|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START france|NN the|DT no|DT </s>|S_END
+<s>|S_START 2|LS economy|NN in|IN the|DT eu|NN behind|IN germany|NN is|VBZ facing|VBG a|DT stagnant|JJ economy|NN although|IN its|PRP$ not|RB in|IN as|IN much|JJ trouble|NN as|IN many|JJ other|JJ countries|NNS that|IN are|VBP struggling|VBG with|IN the|DT european|JJ sovereign|NN debt|NN crisis|NN </s>|S_END
+<s>|S_START its|PRP$ gross|NN domestic|JJ product|NN the|DT broad|JJ measure|NN of|IN its|PRP$ economic|JJ activity|NN has|VBZ been|VBN unchanged|JJ since|IN the|DT third|JJ quarter|NN of|IN last|JJ year|NN although|IN thats|NNS better|JJR than|IN 02|CD decline|NN in|IN gdp|NN that|IN the|DT eurozone|NN as|IN a|DT whole|JJ posted|VBN for|IN the|DT second|JJ quarter|NN </s>|S_END
+<s>|S_START many|JJ nations|NNS in|IN europe|NN are|VBP now|RB mired|VBN in|IN recession|NN </s>|S_END
+<s>|S_START and|CC frances|NNS unemployment|NN rate|NN in|IN august|NN was|VBD 106|CD only|RB slightly|RB better|RBR than|IN the|DT 114|CD rate|NN across|IN the|DT eurozone|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD somethings|NNS rotten|VBN in|IN paris|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT global|JJ and|CC european|JJ banking|NN system|NN is|VBZ so|RB interconnected|VBN that|IN the|DT problems|NNS in|IN countries|NNS like|IN spain|NN italy|RB and|CC greece|VB can|MD affect|VB the|DT outlook|NN for|IN banks|NNS in|IN other|JJ countries|NNS </s>|S_END
+<s>|S_START last|JJ week|NN european|JJ leaders|NNS agreed|VBD to|TO a|DT eurozonewide|NN banking|NN supervisor|NN in|IN 2013|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN june|NN credit|NN agency|NN moodys|NNS downgraded|VBD 15|CD major|JJ banks|NNS around|IN the|DT globe|NN including|VBG bnp|NN as|IN well|RB as|IN us|PRP banking|VBG giants|NNS such|JJ as|IN bank|NN of|IN america|NN bac|NN fortune|NN 500|CD citigroup|NN c|NN fortune|NN 500|CD goldman|NN sachs|NNS gs|NNS fortune|VBP 500|CD jpmorgan|NN chase|NN jpm|NN fortune|NN 500|CD and|CC morgan|JJ stanley|NN ms|NNS fortune|VBP 500|CD </s>|S_END
+<s>|S_START sp|NN had|VBD downgraded|VBN those|DT banks|NNS in|IN november|NN of|IN 2011|CD </s>|S_END
+</p>|P_END
+

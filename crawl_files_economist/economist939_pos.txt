@@ -1,0 +1,65 @@
+<p>|P_START
+<s>|S_START a|DT history|NN of|IN the|DT world|NN in|IN twelve|NN map|NN </s>|S_END
+<s>|S_START by|IN jerry|NN brotton|NN </s>|S_END
+<s>|S_START allen|NN lane|NN 514|CD pages|NNS £30|-NONE- </s>|S_END
+<s>|S_START buy|NN from|IN amazoncouk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START around|IN 150ad|JJ an|DT astronomer|NN named|VBN claudius|NN ptolemy|NN wrote|VBD a|DT book|NN about|IN how|WRB to|TO make|VB a|DT proper|NN map|NN of|IN the|DT world|NN </s>|S_END
+<s>|S_START penned|VBD in|IN greek|NN on|IN a|DT papyrus|NN scroll|NN the|DT work|NN known|VBN as|IN the|DT “geography”|NNP is|VBZ one|CD of|IN the|DT most|RBS famous|JJ ancient|NN texts|NNS on|IN the|DT science|NN of|IN mapmaking|VBG </s>|S_END
+<s>|S_START it|PRP placed|VBD the|DT job|NN firmly|RB in|IN the|DT domain|NN of|IN the|DT geographer|NN who|WP could|MD use|VB astronomy|NN and|CC mathematics|NN to|TO calculate|VB from|IN the|DT stars|NNS what|WP the|DT world|NN looked|VBD like|IN below|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ptolemy’s|NNS “geography”|VBP was|VBD an|DT attempt|NN to|TO take|VB myths|NNS out|IN of|IN map|NN </s>|S_END
+<s>|S_START it|PRP recommended|VBD using|VBG geometric|JJ lines|NNS of|IN latitude|NN and|CC longitude|NN to|TO convey|NN a|DT threedimensional|JJ earth|NN on|IN a|DT twodimensional|JJ surface|NN and|CC it|PRP included|VBD the|DT coordinates|NNS of|IN over|IN 8000|CD locations|NNS in|IN the|DT ancient|JJ world|NN </s>|S_END
+<s>|S_START whether|IN ptolemy|PRP$ drew|NN his|PRP$ own|JJ maps|NNS is|VBZ unclear|JJ </s>|S_END
+<s>|S_START the|DT “geography”|NN disappeared|VBD for|IN a|DT thousand|NN years|NNS only|RB for|IN an|DT unoriginal|JJ copy|NN to|TO appear|VB in|IN the|DT 13th|JJ century|NN replete|JJ with|IN coloured|JJ maps|NNS drawn|VBN by|IN byzantine|NN scribe|NN </s>|S_END
+<s>|S_START regardless|NN these|DT geographic|JJ drawings|NNS and|CC all|DT other|JJ maps|NNS based|VBN on|IN scientific|JJ calculation|NN are|VBP his|PRP$ legacy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC as|IN jerry|JJ brotton|NN explains|VBZ in|IN “a|NNP history|NN of|IN the|DT world|NN in|IN twelve|NN maps”|NN ptolemy’s|NNS scientific|JJ influence|NN tells|NNS only|RB part|NN of|IN the|DT story|NN </s>|S_END
+<s>|S_START mapmakers|NNS operate|VBP in|IN environments|NNS of|IN subjective|JJ knowledge|NN </s>|S_END
+<s>|S_START their|PRP$ work|NN is|VBZ influenced|VBN by|IN politics|NNS and|CC patrons|NNS regional|JJ assumptions|NNS and|CC religious|JJ beliefs|NNS all|DT of|IN which|WDT jostles|NNS with|IN the|DT science|NN in|IN determining|NN what|WP a|DT map|NN looks|VBZ like|IN and|CC what|WP it|PRP is|VBZ used|VBN for|IN </s>|S_END
+<s>|S_START mapmakers|NNS may|MD be|VB geographers|NNS and|CC cartographers|NNS but|CC they|PRP can|MD also|RB be|VB artists|NNS and|CC imperialists|NNS storytellers|NNS and|CC propagandist|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN brotton|VBD a|DT professor|NN of|IN renaissance|NN studies|NNS at|IN queen|CD mary|JJ university|NN of|IN london|NN examines|NNS the|DT complexity|NN of|IN mapmaking|VBG through|IN the|DT stories|NNS of|IN 12|CD maps|NNS which|WDT stretch|NN across|IN space|NN and|CC over|IN time|NN </s>|S_END
+<s>|S_START the|DT examples|NNS are|VBP impressively|RB varied|VBN from|IN ptolemy’s|NNP toils|NNS to|TO google|VB earth|JJ and|CC include|VBP some|DT lesserknown|NN islamic|JJ and|CC east|JJ asian|JJ work|NN </s>|S_END
+<s>|S_START despite|IN their|PRP$ differences|NNS these|DT maps|NNS enjoy|VBP some|DT intriguing|VBG similarities|NNS largely|RB for|IN the|DT way|NN they|PRP illustrate|VBP the|DT priorities|NNS of|IN their|PRP$ author|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT medieval|NN mappa|NN mundi|NN in|IN england’s|NNP hereford|NN cathedral|JJ for|IN example|NN is|VBZ little|JJ more|RBR than|IN drawings|NNS on|IN vellum|NN or|CC stretched|VBD calfskin|NN and|CC it|PRP lacks|VBZ ptolemy’s|JJ geometric|JJ method|NN </s>|S_END
+<s>|S_START yet|RB it|PRP is|VBZ a|DT beautifully|RB detailed|VBN map|NN of|IN the|DT christian|JJ world|NN based|VBN on|IN the|DT topography|NN of|IN the|DT bible—bewildering|JJ to|TO the|DT geographer|NN but|CC sensible|JJ to|TO people|NNS of|IN faith|NN </s>|S_END
+<s>|S_START oriented|VBD east|VBN jerusalem|NN sits|NNS at|IN the|DT centre|NN </s>|S_END
+<s>|S_START britain|NN clings|NNS insignificantly|RB to|TO the|DT edge|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START time|NN would|MD change|VB this|DT view|NN of|IN the|DT world|NN in|IN the|DT eyes|NNS of|IN british|JJ mapmaker|NN </s>|S_END
+<s>|S_START by|IN the|DT 19th|JJ century|NN maps|NNS often|RB placed|VBN the|DT british|JJ isles|NNS at|IN the|DT core|NN </s>|S_END
+<s>|S_START one|CD such|JJ map|NN in|IN the|DT book|NN features|NNS a|DT view|NN of|IN the|DT globe|NN with|IN britain|NN and|CC the|DT north|JJ atlantic|JJ in|IN the|DT centre|NN to|TO better|RBR portray|NN the|DT empire’s|NNP sea|NN power|NN australia|NN and|CC half|DT of|IN south|JJ america|NN are|VBP left|VBN off|RP </s>|S_END
+<s>|S_START many|JJ of|IN these|DT maps|NNS like|IN those|DT of|IN the|DT spanish|JJ and|CC portuguese|JJ imperialists|NNS of|IN the|DT 16th|JJ century|NN did|VBD more|JJR to|TO illustrate|VB dominance|NN and|CC ambition|NN than|IN to|TO improve|VB cartographical|JJ practice|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB now|RB when|WRB mapmakers|NNS have|VBP access|NN to|TO tools|NNS such|JJ as|IN satellite|JJ images|NNS there|EX is|VBZ still|RB no|DT objective|NN and|CC universally|RB accepted|VBN map|NN argues|NNS mr|NN brotton|NN </s>|S_END
+<s>|S_START “the|DT idea|NN of|IN the|DT world|NN may|MD be|VB common|JJ to|TO all|DT societies|NNS but|CC different|JJ societies|NNS have|VBP very|RB distinct|JJ ideas|NNS of|IN the|DT world|NN and|CC how|WRB it|PRP should|MD be|VB represented”|-NONE- the|DT author|NN reckons|NNS that|WDT google|JJ earth|NN and|CC other|JJ digital|JJ mapping|NN applications|NNS are|VBP just|RB as|IN vulnerable|JJ as|IN their|PRP$ predecessors|NNS to|TO national|JJ priorities|NNS and|CC cultural|JJ norm|NN </s>|S_END
+<s>|S_START these|DT maps|NNS can|MD be|VB cluttered|VBN with|IN links|NNS to|TO commercial|JJ enterprises|NNS and|CC are|VBP subject|JJ to|TO censorship|NN </s>|S_END
+<s>|S_START at|IN their|PRP$ most|RBS penetrating|VBG they|PRP raise|VBP questions|NNS of|IN privacy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START though|IN he|PRP sets|VBZ out|RP to|TO examine|VB a|DT mere|JJ 12|CD maps|NNS mr|NN brotton|NN can|MD not|RB help|VB but|CC give|VB dozens|NNS more|RBR at|IN least|JJS a|DT passing|NN mention|NN </s>|S_END
+<s>|S_START ironically|RB this|DT can|MD be|VB disorienting|VBG </s>|S_END
+<s>|S_START till|NN there|EX is|VBZ much|JJ to|TO gain|VB from|IN this|DT rich|JJ if|IN overly|RB detailed|VBN book|NN </s>|S_END
+<s>|S_START as|IN the|DT products|NNS of|IN both|DT art|NN and|CC science|NN maps|NNS are|VBP often|RB fascinating|VBG interpretations|NNS of|IN the|DT perceived|VBN world|NN </s>|S_END
+<s>|S_START they|PRP are|VBP about|IN data|NNS and|CC spatial|JJ awareness|NN but|CC also|RB about|IN money|NN empire|NN and|CC discovery|NN </s>|S_END
+<s>|S_START they|PRP tend|VBP to|TO reveal|VB more|JJR about|IN the|DT mapmakers|NNS than|IN the|DT lands|NNS they|PRP chronicle|VBP </s>|S_END
+<s>|S_START mr|NN brotton|VBD may|MD fall|VB short|JJ of|IN providing|VBG the|DT promised|JJ “history|JJ of|IN the|DT world”|JJ but|CC he|PRP offers|VBZ plenty|NN of|IN good|JJ reasons|NNS to|TO see|VB old|JJ maps|NNS as|IN windows|NNS to|TO lost|VB time|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,9 @@
+<p>|P_START
+<s>|S_START the|DT pace|NN of|IN hiring|VBG has|VBZ slowed|VBN in|IN 26|CD of|IN the|DT 42|CD countries|NNS tracked|VBD by|IN manpower|NN an|DT employmentservices|NNS firm|NN </s>|S_END
+<s>|S_START compared|VBN with|IN a|DT year|NN ago|IN in|IN some|DT big|JJ emerging|NN markets|NNS the|DT balance|NN of|IN employers|NNS expecting|VBG to|TO increase|VB their|PRP$ workforce|NN in|IN the|DT last|JJ quarter|NN of|IN the|DT year|NN has|VBZ fallen|VBN sharply|RB though|IN it|PRP remains|VBZ positive|JJ </s>|S_END
+<s>|S_START in|IN italy|RB and|CC spain|VB more|RBR employers|NNS still|RB plan|VBP to|TO cut|VB the|DT size|NN of|IN their|PRP$ workforce|NN than|IN expand|NN it|PRP </s>|S_END
+<s>|S_START uncertainty—about|IN the|DT euro|NN crisis|NN china’s|NNS slowdown|IN and|CC america’s|JJ presidential|JJ election—is|NN hurting|VBG hiring|NN intention|NN </s>|S_END
+<s>|S_START but|CC the|DT prospect|NN of|IN more|JJR jobs|NNS in|IN wholesale|JJ and|CC retail|JJ trade|NN is|VBZ helping|VBG america|NN maintain|NN its|PRP$ pace|NN of|IN hiring|VBG </s>|S_END
+<s>|S_START in|IN mexico|NN city|NN the|DT employment|NN outlook|NN is|VBZ stronger|JJR than|IN at|IN any|DT time|NN since|IN 2002|CD </s>|S_END
+</p>|P_END
+

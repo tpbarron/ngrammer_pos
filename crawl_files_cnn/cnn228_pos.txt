@@ -1,0 +1,82 @@
+<p>|P_START
+<s>|S_START new|JJ jersey|NN residents|NNS waited|VBD in|IN line|NN at|IN a|DT getty|NN gas|NN station|NN in|IN sayreville|NN on|IN oct|NN 31|CD to|TO try|VB and|CC keep|VB their|PRP$ generators|NNS running|VBG their|PRP$ only|JJ source|NN of|IN power|NN in|IN the|DT wake|NN of|IN superstorm|NN sandy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN motorists|NNS in|IN new|JJ york|NN and|CC new|JJ jersey|NN are|VBP lining|VBG up|RP for|IN gas|NN in|IN queues|NNS that|WDT are|VBP miles|NNS long|RB in|IN the|DT wake|NN of|IN superstorm|NN sandy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gasoline|NN supplies|NNS have|VBP been|VBN disrupted|VBN by|IN everything|NN from|IN traffic|JJ jams|NNS to|TO shuttered|VBN ports|NNS and|CC power|NN outages|NNS caused|VBN by|IN the|DT storm|NN that|IN carved|VBN a|DT deadly|RB swath|NN through|IN the|DT region|NN on|IN monday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gas|NN lines|NNS are|VBP stretching|VBG for|IN a|DT couple|NN of|IN miles|NNS said|VBD anthony|NN ammiano|NN mayor|NN of|IN freehold|NN nj|NN who|WP recalled|VBN the|DT oil|NN crisis|NN of|IN the|DT 1970s|CD </s>|S_END
+<s>|S_START its|PRP$ like|IN the|DT jimmy|NN carter|NN years|NNS </s>|S_END
+<s>|S_START its|PRP$ a|DT flashback|NN of|IN bad|JJ memories|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS major|JJ gas|NN station|NN chains|VBZ from|IN exxonmobil|NN xom|NN fortune|NN 500|CD to|TO hess|NN hes|NNS fortune|VBP 500|CD are|VBP experiencing|VBG disruptions|NNS </s>|S_END
+<s>|S_START there|EX are|VBP also|RB pedestrians|VBZ toting|VBG gas|NN cans|NNS waiting|VBG for|IN their|PRP$ turn|NN at|IN the|DT pump|NN so|RB they|PRP can|MD power|VB their|PRP$ home|NN generators|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ real|JJ bad|JJ said|NN patricia|NN fitzpatrick|NN of|IN manalapan|NN nj|NN as|IN she|PRP stood|VBD with|IN gas|NN cans|NNS in|IN an|DT hourlong|JJ line|NN at|IN a|DT wawa|NN station|NN in|IN jackson|NN nj|NN ive|NN got|VBD a|DT 100yearold|JJ mother|NN at|IN home|NN </s>|S_END
+<s>|S_START ive|JJ got|VBD a|DT grandson|NN whos|VBZ four|CD months|NNS old|JJ </s>|S_END
+<s>|S_START i|PRP have|VBP to|TO keep|VB them|PRP warm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD sandy|NN victims|NNS to|TO celebs|NNS we|PRP need|VBP your|PRP$ money|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START troy|NN terris|NNS who|WP was|VBD also|RB waiting|VBG in|IN line|NN with|IN cans|NNS in|IN hand|NN said|VBD the|DT gas|NN shortage|NN was|VBD driving|VBG some|DT people|NNS to|TO crime|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START my|PRP$ sister|NN in|IN manalapan|NN had|VBD a|DT can|NN of|IN gas|NN sitting|VBG out|RP front|JJ for|IN her|PRP generator|NN and|CC it|PRP got|VBD stolen|VBN overnight|NN he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START robert|NN sinclair|NN jr|NN new|JJ york|NN spokesman|NN for|IN the|DT motorist|NN group|NN aaa|NN said|VBD that|IN ports|NNS in|IN new|JJ jersey|NN and|CC staten|RB island|VBP ny|JJ are|VBP closed|VBN for|IN fuel|NN transport|NN and|CC that|IN shuttered|VBN public|JJ transportation|NN has|VBZ caused|VBN traffic|JJ jams|NNS making|VBG it|PRP difficult|VBD for|IN trucks|NNS to|TO transport|VB gasoline|NN to|TO gas|NN stations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START perhaps|RB the|DT biggest|JJS problem|NN of|IN all|DT is|VBZ the|DT loss|NN of|IN power|NN to|TO areas|NNS of|IN new|JJ york|NN city|NN new|JJ jersey|NN and|CC long|JJ island|NN ny|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN theres|NNS no|DT power|NN gas|NN pumps|NNS dont|VBP work|NN said|VBD sinclair|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT lack|NN of|IN power|NN has|VBZ also|RB shut|VBN down|IN the|DT colonial|JJ pipeline|NN which|WDT supplies|VBZ gas|NN from|IN the|DT gulf|NN coast|NN to|TO the|DT northeast|NN and|CC is|VBZ slated|VBN to|TO resume|VB production|NN on|IN friday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD largest|JJS refinery|NN ok|NN but|CC gas|NN shortage|NN still|RB a|DT risk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START matt|NN smith|IN analyst|NN for|IN summit|NN energy|NN services|NNS said|VBD that|IN refineries|NNS in|IN the|DT northeast|NN were|VBD closed|VBN by|IN the|DT storm|NN but|CC largely|RB undamaged|VBD so|RB they|PRP could|MD be|VB up|RP and|CC running|VBG again|RB in|IN a|DT few|JJ days|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC with|IN so|RB much|RB damage|NN to|TO the|DT regions|NNS infrastructure|VBP getting|VBG the|DT gas|NN to|TO where|WRB its|PRP$ needed|VBN will|MD continue|VB to|TO be|VB an|DT issue|NN for|IN a|DT while|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP could|MD very|RB well|RB see|VB shortages|NNS through|IN the|DT weekend|NN and|CC into|IN the|DT next|JJ smith|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN the|DT shortage|NN gas|NN prices|NNS have|VBP actually|RB declined|VBN in|IN recent|JJ days|NNS both|DT nationwide|NN and|CC in|IN the|DT stormaffected|VBN areas|NNS according|VBG to|TO aaa|VB </s>|S_END
+<s>|S_START this|DT is|VBZ primarily|RB due|JJ to|TO a|DT seasonal|JJ slump|NN in|IN demand|NN following|VBG the|DT summer|NN driving|VBG season|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START aaa|NN said|VBD in|IN its|PRP$ monthly|JJ gas|NN price|NN report|NN that|WDT it|PRP expects|VBZ that|IN gas|NN prices|NNS across|IN the|DT country|NN will|MD continue|VB to|TO drop|VB through|IN the|DT end|NN of|IN the|DT year|NN assuming|VBG production|NN resumes|NNS smoothly|RB following|VBG hurricane|NN sandy|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,45 @@
+<p>|P_START
+<s>|S_START “more|JJ capital|NN better|RBR capital”|JJ has|VBZ been|VBN the|DT chant|JJ of|IN central|JJ bankers|NNS and|CC regulators|NNS as|IN they|PRP strive|VBP to|TO rebuild|VB the|DT banking|NN system|NN on|IN more|JJR solid|JJ foundation|NN </s>|S_END
+<s>|S_START the|DT debate|NN about|IN how|WRB much|JJ capital|NN banks|NNS should|MD hold|VB against|IN unexpected|VBN losses|NNS has|VBZ captured|VBN much|JJ attention|NN </s>|S_END
+<s>|S_START but|CC a|DT lawsuit|NN in|IN germany|NN raises|NNS equally|RB pressing|VBG questions|NNS about|IN the|DT sorts|NNS of|IN capital|NN banks|NNS hold|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT thinking|NN behind|IN the|DT regulatory|JJ push|NN for|IN simplicity|NN and|CC solidity|NN is|VBZ that|IN over|IN the|DT past|JJ few|JJ decades|NNS banks|NNS have|VBP been|VBN allowed|VBN to|TO build|VB complex|JJ capital|NN structures|NNS made|VBD from|IN inferior|JJ material|NN </s>|S_END
+<s>|S_START the|DT best|JJS sort|NN of|IN capital|NN to|TO ensure|VB a|DT stable|NN banking|NN system|NN is|VBZ equity|NN because|IN it|PRP directly|RB absorbs|VBZ losses|NNS and|CC can|MD thus|RB cushion|VB against|IN systemic|JJ shock|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ however|RB expensive|JJ so|IN banks|NNS have|VBP sought|VBN to|TO dilute|VB it|PRP with|IN cheap|NN fillers|NNS such|JJ as|IN the|DT delightfullynamed|VBN “hybrid|JJ capital”|NN and|CC other|JJ fancy|NN instrument|NN </s>|S_END
+<s>|S_START one|CD reason|NN for|IN their|PRP$ popularity|NN with|IN the|DT banks|NNS that|WDT issued|VBN them|PRP was|VBD that|IN they|PRP paid|VBD fixed|VBN interest|NN which|WDT was|VBD taxdeductible|JJ </s>|S_END
+<s>|S_START regulators|NNS for|IN their|PRP$ part|NN took|VBD comfort|NN from|IN the|DT fact|NN that|IN hybrids|NNS were|VBD a|DT bit|NN like|IN equity|NN in|IN that|DT payments|NNS could|MD be|VB stopped|VBN to|TO preserve|VB capital|NN should|MD a|DT bank|NN run|VBN into|IN trouble|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START adly|RB hybrids|VBZ have|VBP not|RB behaved|VBN quite|RB as|IN expected|VBN </s>|S_END
+<s>|S_START where|WRB banks|NNS have|VBP been|VBN compelled|VBN to|TO halt|VB interest|NN payments|NNS as|IN a|DT condition|NN of|IN receiving|VBG state|NN bailouts|NNS which|WDT is|VBZ the|DT case|NN across|IN the|DT european|JJ union|NN they|PRP have|VBP sometimes|RB been|VBN unable|JJ to|TO do|VB so|RB </s>|S_END
+<s>|S_START for|IN instance|NN kbc|NN a|DT belgian|JJ bank|NN insisted|VBD that|IN payments|NNS on|IN its|PRP$ hybrid|JJ securities|NNS were|VBD “mandatory”|JJ </s>|S_END
+<s>|S_START in|IN contrast|NN royal|NN bank|NN of|IN scotland|NN rescued|VBN by|IN the|DT british|JJ taxpayer|NN was|VBD able|JJ to|TO suspend|VB interest|NN payments|NNS on|IN only|RB some|DT of|IN its|PRP$ hybrid|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN germany|NN the|DT confused|JJ status|NN of|IN hybrid|JJ instruments|NNS is|VBZ epitomised|VBN by|IN a|DT peculiar|JJ set|NN of|IN notes|NNS issued|VBN by|IN banks|NNS known|VBN as|RB “profitparticipation|JJ certificates”|NN </s>|S_END
+<s>|S_START these|DT pay|NN a|DT fixed|VBN rate|NN of|IN interest|NN but|CC only|RB if|IN the|DT bank|NN is|VBZ profitable|JJ </s>|S_END
+<s>|S_START the|DT trouble|NN is|VBZ german|JJ banks|NNS do|VBP not|RB quite|VB seem|PRP to|TO know|VB the|DT precise|NN rules|NNS that|WDT govern|NN these|DT payment|NN </s>|S_END
+<s>|S_START last|JJ year|NN commerzbank|NN paid|VBN interest|NN on|IN notes|NNS issued|VBN by|IN eurohypo|NN its|PRP$ propertylending|NN subsidiary|NN even|RB though|IN it|PRP suffered|VBD losse|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START commerzbank|NN suspended|VBD the|DT payments|NNS this|DT year|NN following|VBG a|DT stern|NN talkingto|NN by|IN germanys|NNS bank|VBP regulator|NN and|CC its|PRP$ bank|NN bailout|IN fund|NN </s>|S_END
+<s>|S_START in|IN principle|NN this|DT response|NN is|VBZ hard|JJ to|TO fault|VB but|CC irate|VB holders|NNS of|IN the|DT notes|NNS point|VBP to|TO quirks|NNS in|IN german|NN law|NN that|WDT they|PRP say|VBP compel|NN commerzbank|NN to|TO pay|VB up|RP </s>|S_END
+<s>|S_START they|PRP have|VBP filed|VBN a|DT lawsuit|NN to|TO that|DT effect|NN </s>|S_END
+<s>|S_START imilar|JJ grumbles|NNS are|VBP also|RB heard|RB from|IN annoyed|VBN debtholders|NNS in|IN america|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT picture|NN is|VBZ further|RBR complicated|JJ by|IN germanys|NNS takeover|NN laws|NNS which|WDT give|JJ minority|NN shareholders|NNS the|DT right|NN to|TO earn|VB a|DT fixed|VBN dividend|NN on|IN their|PRP$ shares|NNS even|RB if|IN the|DT company|NN makes|VBZ a|DT lo|NN </s>|S_END
+<s>|S_START this|DT has|VBZ led|VBN to|TO a|DT bizarre|NN situation|NN in|IN which|WDT minority|NN shareholders|NNS in|IN eurohypo|NN are|VBP receiving|VBG dividends|NNS from|IN commerzbank|NN even|RB though|IN they|PRP should|MD normally|RB expect|VB to|TO be|VB first|RB in|IN line|NN to|TO share|VB in|IN the|DT firms|NNS losse|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whatever|NN the|DT outcome|NN in|IN court|NN the|DT case|NN suggests|VBZ that|IN many|JJ of|IN the|DT securities|NNS introduced|VBD to|TO banks|NNS capital|NN structures|NNS need|VBP to|TO be|VB looked|VBN at|IN again|RB </s>|S_END
+<s>|S_START far|RB from|IN being|VBG an|DT innovation|NN that|IN satisfies|NNS banks|NNS investors|NNS and|CC regulators|NNS hybrid|VBD instruments|NNS may|MD represent|VB the|DT worst|JJS of|IN all|DT world|NN </s>|S_END
+</p>|P_END
+

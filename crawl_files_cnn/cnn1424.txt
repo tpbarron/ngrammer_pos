@@ -1,0 +1,98 @@
+<p>
+<s>code from the gauss virus a new cyberweapon that attacks bank accounts</s>
+</p>
+
+<p>
+<s>new york cnnmoney  a new cyberweapon that secretly steals bank account information from its victims was exposed on thursday</s>
+</p>
+
+<p>
+<s>the sophisticated malware discovered by internet security company kaspersky labs has been capturing online bank account login credentials from its victims since september 2011</s>
+<s>theres no evidence its been used to steal any money</s>
+<s>the virus instead appears to be a spy interested in tracking funds it collects banking login information sends it back to a server and quickly selfdestructs</s>
+</p>
+
+<p>
+<s>dubbed gauss a name taken from some of the unique file names in its code the malware appears to be a cyberespionage weapon designed by a country to target and track specific individuals</s>
+<s>its not known yet who created it but gauss shares many of the same code and characteristics of other famous statesponsored cyberweapons including stuxnet duqu and flame</s>
+</p>
+
+<p>
+<s>those viruses are widely believed to have been developed by the us government</s>
+<s>but unlike stuxnet and flame which targeted an iranian nuclear facility and spied on irans government officials gauss seems to have primarily gone after people in lebanon</s>
+</p>
+
+<p>
+<s>of the 2500 or so discovered instances of gauss across the world about 1660 of them were found in lebanon</s>
+<s>the virus is specifically designed to target customers of lebanese banks as well as citibank c fortune 500 and ebays ebay fortune 500 paypal which are widely used in lebanon</s>
+</p>
+
+<p>
+<s>kaspersky also found 483 instances of gauss in israel and 261 in the palestinian territories</s>
+<s>only 43 gauss instances were found to be in the united states and just a handful were discovered in other parts of the world</s>
+</p>
+
+<p>
+<s>when certain regions are specifically targeted thats a telltale marker that a piece of malware has been created by a government</s>
+<s>viruses developed by financially motivated criminals are designed to target as many people as possible</s>
+</p>
+
+<p>
+<s>related story the cyber cold war is raging</s>
+</p>
+
+<p>
+<s>another sign that a government is behind the attack gauss doesnt selfpropagate</s>
+<s>kaspersky couldnt figure out how it got onto the targeted systems in the first place</s>
+<s>gauss destroys itself once it has done the damage  more evidence that this is no ordinary computer virus</s>
+</p>
+
+<p>
+<s>gauss is likely the first statesponsored cyberweapon to specifically target bank accounts kaspersky said</s>
+<s>though most malware goes after financial information in one form or another thats not something governmentsponsored cyber attackers have typically been interested in</s>
+</p>
+
+<p>
+<s>gausss goal isnt known but its activation date might be a hint it launched on september 1 2011 the same date that cyberespionage weapon duqu was publicly discovered</s>
+<s>vitaly kamlyuk a senior antivirus expert at kaspersky lab said that its possible that after duqu was found the developers just took out another arrow from their quiver</s>
+</p>
+
+<p>
+<s>we dont know if gauss took the place of duqu but its a strong possibility he said</s>
+</p>
+
+<p>
+<s>kasperky labs found gauss in may when it was commissioned by the united nations international telecommunication union to look for malicious applications similar to the potent flame virus discovered earlier this year</s>
+<s>like flame duqu and stuxnet gauss is written in a computer language called c and it shares a similar structure and code base</s>
+<s>the biggest tipoff gauss and flame both contain the exact same line avnxsysuwip</s>
+</p>
+
+<p>
+<s>gauss is even more intelligent than flame kamlyuk thinks</s>
+<s>it exploits a vulnerability found in microsoft msft fortune 500 windows to break into a users browser</s>
+<s>even if a user shuts off windows autorun feature gauss will start up when the computer boots and go on the attack</s>
+</p>
+
+<p>
+<s>one gauss function remains a mystery its got an encrypted payload kasperky hasnt cracked</s>
+</p>
+
+<p>
+<s>the payload is run by infected usb sticks and is designed to surgically target a certain system or systems which have a specific program installed the company wrote in its analysis</s>
+<s>one can only speculate on the purpose of this mysterious payload</s>
+</p>
+
+<p>
+<s>the company has called on cryptography experts to try to crack the code</s>
+</p>
+
+<p>
+<s>this is a cyberweapon and we dont know hot it could be used said kamlyuk</s>
+<s>it could be used to cause a big disaster</s>
+</p>
+
+<p>
+<s>gauss was uncovered just months after flames discovery</s>
+<s>brace for more now that researchers know what to look for kamlyuk said he expects analysts to find many additional pieces of gausslike statesponsored malware out in the wild</s>
+</p>
+

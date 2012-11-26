@@ -1,0 +1,62 @@
+<p>|P_START
+<s>|S_START gop|NN presidential|JJ candidate|NN mitt|NN romney|NN says|VBZ he|PRP has|VBZ never|RB paid|VBN less|JJR than|IN 13|CD of|IN his|PRP$ income|NN in|IN taxes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN republican|NN presidential|JJ candidate|NN mitt|NN romney|NN said|VBD thursday|NN he|PRP never|RB paid|VBD less|JJR than|IN 13|CD in|IN taxes|NNS batting|VBG back|RB criticisms|NNS that|WDT he|PRP hasnt|VBP paid|VBN enough|JJ to|TO the|DT federal|JJ government|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP did|VBD go|VB back|RB and|CC look|VB at|IN my|PRP$ taxes|NNS and|CC over|IN the|DT past|JJ ten|NN years|NNS </s>|S_END
+<s>|S_START i|PRP never|RB paid|VBD less|JJR than|IN 13|CD he|PRP said|VBD on|IN the|DT campaign|NN trail|NN in|IN greer|NN sc|NN i|PRP think|VBP the|DT most|RBS recent|JJ year|NN is|VBZ 136|CD or|CC something|NN like|IN that|DT </s>|S_END
+<s>|S_START i|PRP paid|VBD taxes|NNS every|DT single|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT presumptive|JJ gop|NN nominee|NN has|VBZ faced|VBN criticism|NN over|IN the|DT release|NN of|IN his|PRP$ tax|NN returns|NNS including|VBG a|DT charge|NN by|IN senate|NN democratic|JJ leader|NN harry|NN reid|VBD that|IN romney|NN paid|VBD no|DT taxes|NNS in|IN ten|NN years|NNS </s>|S_END
+<s>|S_START democrats|NNS want|VBP romney|NN to|TO release|VB more|JJR tax|NN returns|NNS than|IN the|DT full|JJ tax|NN returns|NNS for|IN 2010|CD and|CC a|DT summary|NN for|IN 2011|CD hes|NNS produced|VBN already|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD whose|VBN medicare|NN plan|NN cuts|NNS more|RBR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN declaring|NN hes|NNS paid|VBD more|JJR than|IN 13|CD in|IN taxes|NNS romney|NN is|VBZ describing|VBG his|PRP$ effective|JJ tax|NN rate|NN the|DT percentage|NN of|IN his|PRP$ actual|JJ income|NN he|PRP gave|VBD to|TO the|DT federal|JJ government|NN </s>|S_END
+<s>|S_START over|IN the|DT past|JJ two|CD years|NNS romneys|NNS effective|JJ tax|NN rate|NN was|VBD 145|CD based|VBN on|IN the|DT records|NNS hes|VBZ revealed|VBN already|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START effective|JJ tax|NN rates|NNS are|VBP always|RB lower|JJR than|IN top|JJ income|NN tax|NN rates|NNS due|JJ to|TO credits|NNS deductions|NNS and|CC exemptions|NNS that|WDT cancel|NN out|RP all|DT or|CC much|JJ of|IN the|DT income|NN tax|NN many|JJ americans|NNS would|MD otherwise|VB owe|PRP in|IN taxes|NNS </s>|S_END
+<s>|S_START some|DT 80|CD of|IN americans|NNS have|VBP an|DT effective|JJ rate|NN below|IN 15|CD according|VBG to|TO the|DT tax|NN policy|NN center|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN families|NNS making|VBG $|$ 50000|CD to|TO $|$ 75000|CD the|DT effective|JJ tax|NN rate|NN is|VBZ 57|CD </s>|S_END
+<s>|S_START from|IN $|$ 75000|CD to|TO $|$ 100000|CD its|PRP$ 72|CD </s>|S_END
+<s>|S_START and|CC if|IN you|PRP make|VBP $|$ 200000|CD it|PRP goes|VBZ up|RP to|TO 99|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB households|VBZ at|IN the|DT highest|JJS income|NN brackets|NNS like|IN romneys|NNS make|VBP a|DT lot|NN of|IN their|PRP$ money|NN from|IN taxadvantaged|JJ investments|NNS such|JJ as|IN capital|NN gains|NNS and|CC taxfree|VB bonds|NNS </s>|S_END
+<s>|S_START and|CC they|PRP tend|VBP to|TO have|VB a|DT lot|NN of|IN itemized|VBN deductions|NNS which|WDT can|MD greatly|RB reduce|VB how|WRB much|RB they|PRP owe|VBP the|DT tax|NN man|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS of|IN us|PRP dont|VBP get|VB most|JJS of|IN our|PRP$ income|NN from|IN capital|NN gains|NNS and|CC dividends|NNS said|VBD roberton|NN williams|NNS a|DT senior|JJ fellow|NN at|IN the|DT tax|NN policy|NN center|NN </s>|S_END
+<s>|S_START romney|NN is|VBZ in|IN that|DT group|NN of|IN people|NNS who|WP really|RB really|RB benefit|VB from|IN low|JJ tax|NN rates|NNS on|IN capital|NN gains|NNS and|CC dividends|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romneys|NNS financial|JJ disclosures|NNS suggest|VBP his|PRP$ net|JJ worth|NN is|VBZ as|IN high|JJ as|IN $|$ 264|CD million|CD making|VBG him|PRP one|CD of|IN the|DT wealthiest|JJS candidates|NNS in|IN history|NN to|TO seek|VB the|DT us|PRP presidency|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN romneys|NNS assertions|NNS of|IN paying|VBG taxes|NNS sen|VBN reid|JJ is|VBZ not|RB taking|VBG back|RB his|PRP$ accusations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START well|RB believe|VBP it|PRP when|WRB we|PRP see|VBP it|PRP said|VBD reid|JJ spokesman|NN adam|NN jentleson|NN </s>|S_END
+<s>|S_START until|IN mitt|NN romney|NN releases|NNS his|PRP$ tax|NN returns|NNS americans|NNS will|MD continue|VB to|TO wonder|VB what|WP hes|NNS hiding|VBG </s>|S_END
+</p>|P_END
+

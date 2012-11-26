@@ -1,0 +1,79 @@
+<p>|P_START
+<s>|S_START minnesota|NN gov|NN </s>|S_END
+<s>|S_START mark|NN dayton|VBD said|VBN shutdown|NN marked|VBD a|DT day|NN of|IN great|JJ sorrow|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN a|DT budget|NN stalemate|NN forced|VBD a|DT virtual|JJ full|JJ shut|NN down|IN of|IN the|DT minnesota|NN government|NN on|IN friday|NN and|CC left|VBN only|RB a|DT limited|VBN array|NN of|IN state|NN services|NNS in|IN operation|NN over|IN the|DT busy|NN holiday|NN weekend|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START visitors|NNS wont|VBP be|VB able|JJ to|TO go|VB to|TO the|DT state|NN parks|NNS and|CC travelers|NNS will|MD find|VB the|DT highway|NN rest|NN stops|NNS shuttered|VBD </s>|S_END
+<s>|S_START road|NN construction|NN projects|NNS will|MD cease|VB as|IN will|MD licensing|VB for|IN teachers|NNS and|CC businesses|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ social|JJ service|NN agencies|NNS will|MD lose|VB their|PRP$ funding|NN cutting|VBG state|NN support|NN for|IN programs|NNS such|JJ as|IN job|NN training|NN and|CC homelessness|NN prevention|NN </s>|S_END
+<s>|S_START those|DT that|DT dont|NN have|VBP reserves|NNS will|MD likely|RB close|VB their|PRP$ doors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START up|IN to|TO 23000|CD state|NN workers|NNS are|VBP scheduled|VBN to|TO be|VB laid|VBN off|RP though|IN they|PRP will|MD continue|VB to|TO get|VB health|NN benefits|NNS and|CC can|MD return|VB to|TO their|PRP$ jobs|NNS when|WRB the|DT budget|NN impasse|NN is|VBZ resolved|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START basic|JJ health|NN and|CC safety|NN services|NNS will|MD continue|VB a|DT judge|NN ruled|VBD on|IN wednesday|NN </s>|S_END
+<s>|S_START the|DT state|NN must|MD continue|VB funding|NN custodial|JJ care|NN for|IN residents|NNS in|IN prisons|NNS treatment|NN centers|NNS and|CC nursing|VBG homes|NNS </s>|S_END
+<s>|S_START the|DT state|NN troopers|NNS will|MD continue|VB to|TO patrol|VB and|CC state|NN universities|NNS will|MD also|RB remain|VB open|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN being|VBG closed|VBN down|RP for|IN two|CD days|NNS the|DT minnesota|NN zoo|NN was|VBD set|VBN to|TO reopen|VB sunday|NN after|IN the|DT judge|NN ruled|VBD that|IN it|PRP could|MD use|VB funds|NNS from|IN admissions|NNS parking|VBG concessions|NNS memberships|NNS and|CC donations|NNS to|TO operate|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT stalemate|NN is|VBZ not|RB likely|JJ to|TO end|VB soon|RB </s>|S_END
+<s>|S_START there|EX were|VBD no|DT talks|NNS scheduled|VBN for|IN the|DT holiday|NN weekend|NN between|IN governor|NN mark|NN dayton|NN and|CC republican|JJ lawmakers|NNS who|WP control|NN the|DT legislature|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dayton|NN held|VBD a|DT news|NN conference|NN to|TO announce|VB an|DT impasse|NN in|IN budget|NN talks|NNS on|IN thursday|NN two|CD hours|NNS before|IN the|DT fiscal|JJ year|NN ended|VBD at|IN midnight|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN issue|NN is|VBZ whether|IN to|TO close|VB the|DT remaining|VBG $|$ 14|CD billion|CD gap|NN by|IN increasing|VBG taxes|NNS or|CC making|VBG spending|NN cuts|NNS </s>|S_END
+<s>|S_START the|DT governor|NN who|WP ran|VBD on|IN a|DT platform|NN of|IN taxing|VBG the|DT rich|JJ wants|NNS to|TO raise|VB taxes|NNS on|IN the|DT wealthiest|JJS 19|CD of|IN minnesotans|NNS as|IN well|RB as|IN cut|NN spending|NN </s>|S_END
+<s>|S_START republicans|NNS would|MD not|RB go|VB along|IN with|IN a|DT tax|NN hike|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dayton|NN and|CC gop|VB leaders|NNS spent|VBN hours|NNS behind|IN closed|VBN doors|NNS over|IN the|DT past|JJ week|NN trying|VBG to|TO hammer|NN out|IN a|DT compromise|NN </s>|S_END
+<s>|S_START but|CC they|PRP could|MD not|RB resolve|VB their|PRP$ differences|NNS in|IN time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ a|DT night|NN of|IN deep|NN sorrow|NN for|IN me|PRP dayton|VBP said|VBN adding|VBG that|IN he|PRP did|VBD not|RB want|VB to|TO slash|VB the|DT state|NN safety|NN net|NN to|TO spare|VB millionaires|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shortly|RB after|IN dayton|NN held|VBD the|DT news|NN conference|NN house|NN and|CC senate|NN republicans|NNS met|VBD with|IN the|DT media|NNS and|CC accused|VBD the|DT governor|NN of|IN throwing|VBG in|IN the|DT towel|NN with|IN two|CD hours|NNS to|TO go|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ very|RB disappointing|JJ very|RB disheartening|VBG house|NN speaker|NN kurt|NN zellers|NNS said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ the|DT second|JJ time|NN in|IN six|CD years|NNS the|DT minnesota|NN government|NN has|VBZ been|VBN forced|VBN to|TO shut|VB down|RP after|IN budget|NN talks|NNS failed|VBD </s>|S_END
+<s>|S_START the|DT last|JJ shutdown|NN was|VBD a|DT partial|JJ one|CD that|WDT lasted|VBN for|IN eight|CD days|NNS in|IN 2005|CD when|WRB tim|JJ pawlenty|NN was|VBD governor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START state|NN government|NN shutdowns|NNS are|VBP relatively|RB rare|JJ </s>|S_END
+<s>|S_START though|IN its|PRP$ not|RB uncommon|JJ for|IN states|NNS to|TO enter|VB the|DT fiscal|JJ year|NN without|IN a|DT budget|NN in|IN place|NN officials|NNS usually|RB extend|VBP funding|VBG for|IN operations|NNS for|IN several|JJ days|NNS or|CC weeks|NNS until|IN a|DT spending|NN plan|NN can|MD be|VB put|VBN in|RP place|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT cnn|NN wire|NN report|NN was|VBD used|VBN in|IN compiling|NN this|DT article |NN </s>|S_END
+</p>|P_END
+

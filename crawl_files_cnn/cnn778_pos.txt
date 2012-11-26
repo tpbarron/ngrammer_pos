@@ -1,0 +1,49 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN apple|NN said|VBD monday|NN that|IN it|PRP sold|VBD 3|CD million|CD ipads|NNS since|IN fridays|NNS debut|CC of|IN the|DT new|JJ ipad|NN mini|NN and|CC updated|VBD fullsized|VBN ipad|NN tablet|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT weekend|NN haul|NN doubled|VBD apples|NNS previous|JJ threeday|NN sales|NNS record|NN of|IN 15|CD million|CD ipads|NNS which|WDT was|VBD set|VBN in|IN march|NN after|IN the|DT debut|NN of|IN the|DT thirdgeneration|NN ipad|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shares|NNS of|IN apple|JJ aapl|NN fortune|NN 500|CD jumped|VBD 1|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apple|NN did|VBD not|RB break|VB out|RP sales|NNS figures|NNS for|IN the|DT different|JJ variations|NNS of|IN its|PRP$ tablet|NN but|CC ceo|NN tim|NN cook|NN noted|VBD that|IN ipad|JJ minis|NNS were|VBD practically|RB sold|VBN out|RP </s>|S_END
+<s>|S_START at|IN apples|NNS flagship|NN store|NN on|IN fifth|JJ avenue|NN in|IN manhattan|NN the|DT white|NN ipad|NN mini|NN sold|VBD out|RP in|IN just|RB an|DT hour|NN and|CC the|DT black|JJ versions|NNS sold|VBN out|RP in|IN two|CD hours|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START were|VBD working|VBG hard|RB to|TO build|VB more|JJR quickly|RB to|TO meet|VB the|DT incredible|JJ demand|NN said|VBD cook|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apple|NN has|VBZ been|VBN plagued|VBN with|IN supply|NN constraints|NNS for|IN its|PRP$ new|JJ devices|NNS lately|RB so|RB it|PRP wasnt|VBP surprising|VBG that|IN demand|NN easily|RB outstripped|VBD supply|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START brian|JJ white|JJ analyst|NN at|IN topeka|NN capital|NN markets|NNS said|VBD checks|NNS with|IN asian|JJ suppliers|NNS revealed|VBD that|IN it|PRP would|MD be|VB a|DT while|NN before|IN apple|NN could|MD deliver|VB all|DT the|DT ipad|NN mini|NN tablets|NNS that|WDT customers|NNS want|VBP thanks|NNS to|TO the|DT complexity|NN of|IN certain|JJ components|NNS that|WDT go|VB into|IN the|DT eightinch|NN tablet|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT wifi|NN only|RB versions|NNS of|IN the|DT tablet|NN are|VBP the|DT only|JJ ones|NNS on|IN sale|NN yet|RB </s>|S_END
+<s>|S_START apple|NN said|VBD the|DT 4g|JJ versions|NNS of|IN both|DT the|DT ipad|NN mini|NN and|CC the|DT new|JJ fourthgeneration|NN ipad|NN will|MD ship|VB in|IN a|DT few|JJ weeks|NNS in|IN the|DT united|VBN states|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ipad|NN mini|NN which|WDT starts|VBZ at|IN $|$ 329|CD is|VBZ onethird|JJ smaller|NN overall|JJ than|IN than|IN its|PRP$ 10inch|JJ cousin|NN and|CC weighs|NNS less|RBR than|IN a|DT pound|NN </s>|S_END
+<s>|S_START its|PRP$ also|RB 23|CD thinner|NN than|IN the|DT fullsized|VBN ipad|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apple|NN also|RB began|VBD selling|VBG a|DT slightly|RB updated|VBN fourthgeneration|NN traditional|JJ ipad|NN on|IN friday|NN which|WDT features|NNS a|DT new|JJ twiceasfast|NN processor|NN and|CC us|PRP 4glte|CD coverage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ipad|NN commanded|VBD roughly|RB half|DT the|DT tablet|NN market|NN in|IN the|DT third|JJ quarter|NN according|VBG to|TO idc|VB </s>|S_END
+<s>|S_START thats|NNS more|JJR than|IN double|JJ the|DT market|NN share|NN of|IN samsung|NN its|PRP$ nextclosest|NN competitor|NN but|CC samsung|JJ amazon|NN and|CC asus|VBZ have|VBP come|VBN on|IN strong|JJ over|IN the|DT past|JJ several|JJ months|NNS </s>|S_END
+<s>|S_START over|IN the|DT past|JJ year|NN theyve|NN eaten|NN away|RB about|IN 10|CD percentage|NN points|NNS of|IN apples|NNS tablet|VBP share|NN </s>|S_END
+</p>|P_END
+

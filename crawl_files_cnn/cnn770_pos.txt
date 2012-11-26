@@ -1,0 +1,92 @@
+<p>|P_START
+<s>|S_START gigwalk|NN founders|NNS from|IN left|VBN matt|NN crampton|NN ariel|NN seidman|NN and|CC david|VBD watanabe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnnmoney|NN most|JJS people|NNS make|VBP a|DT living|NN while|IN theyre|NN at|IN work|NN </s>|S_END
+<s>|S_START but|CC what|WP if|IN you|PRP could|MD earn|VB a|DT few|JJ bucks|NNS just|RB walking|VBG to|TO the|DT office|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gigwalk|NN a|DT startup|NN founded|VBN last|JJ summer|NN in|IN mountain|NN view|NN calif|IN takes|NNS the|DT phrase|NN mobile|NN workforce|NN literally|RB </s>|S_END
+<s>|S_START the|DT company|NN harnesses|VBZ americas|NNS vast|VBP army|JJ of|IN iphone|NN users|NNS enlisting|VBG them|PRP to|TO complete|VB various|JJ gigs|NNS when|WRB theyre|NN out|IN and|CC about|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rates|NNS for|IN these|DT microtasks|NNS have|VBP included|VBN $|$ 5|CD to|TO snap|VB a|DT picture|NN of|IN a|DT restaurants|NNS chalkboard|VBP menu|NN for|IN an|DT online|NN restaurant|NN guide|NN $|$ 7|CD to|TO visit|VB a|DT wireless|NN store|NN and|CC check|NN on|IN product|NN placement|NN for|IN a|DT cell|NN phone|NN manufacturer|NN and|CC $|$ 30|CD to|TO test|NN out|IN a|DT new|JJ iphone|NN app|NN </s>|S_END
+<s>|S_START users|NNS are|VBP encouraged|VBN to|TO work|VB gigs|NNS into|IN their|PRP$ regular|JJ routines|NNS picking|VBG up|RP pocket|NN cash|NN while|IN they|PRP make|VBP trips|NNS to|TO the|DT gym|NN or|CC run|VBN errands|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ whatever|NN is|VBZ convenient|JJ says|NNS ariel|VBP seidman|NN the|DT cofounder|NN and|CC ceo|NN of|IN gigwalk|NN </s>|S_END
+<s>|S_START inspiration|NN for|IN the|DT service|NN came|VBD last|JJ spring|NN when|WRB seidman|NN 34|CD was|VBD the|DT director|NN of|IN mobile|JJ search|NN for|IN yahoo|NN yhoo|NN fortune|NN 500|CD </s>|S_END
+<s>|S_START he|PRP watched|VBD mapping|VBG companies|NNS spend|VBP exorbitant|JJ amounts|NNS of|IN time|NN and|CC money|NN dispatching|VBG contractors|NNS to|TO gather|VB information|NN from|IN farflung|JJ locales|NNS </s>|S_END
+<s>|S_START what|WP if|IN they|PRP could|MD rely|RB instead|VB on|IN iphone|NN users|NNS who|WP were|VBD already|RB there|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START seidman|NN left|VBD his|PRP$ job|NN last|JJ june|NN </s>|S_END
+<s>|S_START he|PRP enlisted|VBD two|CD former|JJ yahoo|NN colleagues|NNS matt|VBP crampton|NN and|CC david|VBD watanabe|NN to|TO help|VB build|NN the|DT software|NN platform|NN that|WDT would|MD bring|VB his|PRP$ idea|NN to|TO life|VB </s>|S_END
+<s>|S_START in|IN december|NN gigwalk|NN landed|VBD $|$ 17|CD million|CD in|IN startup|NN capital|NN from|IN sources|NNS including|VBG the|DT greylock|NN discovery|NN fund|NN managed|VBD by|IN linkedin|NN lnkd|NN cofounder|NN reed|VBD hoffman|NN and|CC harrison|NN metal|NN founded|VBD by|IN michael|NN dearing|VBG a|DT former|JJ senior|JJ vice|NN president|NN of|IN ebay|NN ebay|NN fortune|NN 500|CD and|CC an|DT early|JJ funder|NN of|IN admob|NN which|WDT google|JJ goog|NN fortune|NN 500|CD bought|NN for|IN $|$ 750|CD million|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP thought|VBD it|PRP was|VBD an|DT amazing|NN concept|NN says|VBZ jeff|NN clavier|NN a|DT managing|VBG partner|NN at|IN softtech|NN vc|NN which|WDT also|RB invested|VBD in|IN gigwalk|NN </s>|S_END
+<s>|S_START after|IN five|CD minutes|NNS i|PRP thought|VBD this|DT is|VBZ like|IN mobile|JJ crowdsourcing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gigwalks|NNS corporate|VBP clients|NNS include|VBP tomtom|NN the|DT dutch|NN maker|NN of|IN portable|JJ gps|NNS systems|NNS and|CC menupagescom|NN the|DT new|JJ york|NN online|NN restaurant|NN guide|NN </s>|S_END
+<s>|S_START gigwalk|NN executives|NNS would|MD not|RB say|VB how|WRB many|JJ clients|NNS in|IN total|JJ have|VBP signed|VBN on|IN so|RB far|RB </s>|S_END
+<s>|S_START they|PRP also|RB declined|VBD to|TO release|VB their|PRP$ revenues|NNS and|CC the|DT number|NN of|IN active|JJ gigwalkers|NNS saying|VBG only|RB that|IN thousands|NNS of|IN people|NNS have|VBP completed|VBN tasks|NNS in|IN seven|CD cities|NNS boston|IN chicago|RB los|VBZ angeles|NNS miami|VBP new|JJ york|NN philadelphia|NN and|CC san|NN francisco|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO sign|VB up|IN for|IN the|DT service|NN iphone|NN users|NNS download|VBD an|DT app|NN then|RB register|JJR with|IN gigwalk|NN and|CC pass|NN a|DT background|NN check|NN </s>|S_END
+<s>|S_START the|DT company|NN plans|VBZ to|TO launch|VB an|DT app|NN for|IN android|JJ owners|NNS later|JJ this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gigwalk|NN uses|NNS iphone|NN owners|NNS gps|NNS locations|NNS and|CC home|NN addresses|NNS to|TO filter|VB and|CC distribute|VB appropriate|JJ gigs|NNS for|IN them|PRP </s>|S_END
+<s>|S_START once|RB a|DT user|NN accepts|VBZ a|DT gig|NN theres|VBZ a|DT limited|JJ time|NN to|TO finish|VB it|PRP usually|RB a|DT couple|NN of|IN days|NNS </s>|S_END
+<s>|S_START after|IN a|DT completed|VBN task|NN is|VBZ approved|VBN the|DT user|NN gets|VBZ paid|VBN through|IN paypal|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO commission|NN gigwalk|NN for|IN a|DT job|NN companies|NNS specify|VBP what|WP tasks|NNS theyd|VBP like|IN to|TO outsource|VB to|TO smartphone|VB users|NNS and|CC pay|VB gigwalk|NN a|DT lump|NN sum|NN upfront|NN </s>|S_END
+<s>|S_START a|DT percentage|NN of|IN that|DT sum|NN goes|VBZ directly|RB gigwalk|NN the|DT company|NN would|MD not|RB disclose|VB how|WRB much|RB and|CC the|DT rest|NN goes|VBZ to|TO paying|VBG gigwalkers|NNS as|IN they|PRP complete|VBP their|PRP$ tasks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START reliable|JJ workers|NNS those|DT who|WP do|VBP a|DT good|JJ job|NN and|CC dont|NN submit|NN fuzzy|NN menu|NN photos|NNS are|VBP rewarded|VBN with|IN the|DT first|JJ pick|NN of|IN betterpaying|VBG gigs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gigwalk|NN has|VBZ become|VBN a|DT big|JJ timesaver|NN for|IN menupages|NNS which|WDT maintains|NNS 32000|CD online|NN listings|NNS for|IN restaurants|NNS across|IN the|DT country|NN according|VBG to|TO tom|VB bohan|IN the|DT companys|NNS director|NN of|IN content|NN operations|NNS </s>|S_END
+<s>|S_START one|CD of|IN menupages|NNS biggest|JJS challenges|NNS is|VBZ keeping|VBG track|NN of|IN current|NN information|NN new|JJ food|NN items|NNS hours|NNS of|IN operation|NN whether|IN theres|NNS outdoor|CC seating|VBG and|CC wheelchair|JJ access|NN </s>|S_END
+<s>|S_START in|IN the|DT past|JJ theyve|NN mostly|RB used|JJ craigslist|NN to|TO hire|VB hourly|RB contractors|NNS who|WP can|MD visit|VB those|DT businesses|NNS in|IN person|NN to|TO collect|VB data|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bohan|IN discovered|VBN gigwalk|NN late|RB last|JJ year|NN </s>|S_END
+<s>|S_START though|IN they|PRP cost|VBP about|IN the|DT same|JJ as|IN his|PRP$ regular|JJ contractors|NNS gigwalkers|NNS turn|VBP assignments|NNS around|IN for|IN him|PRP much|RB faster|JJR he|PRP says|VBZ typically|RB in|IN about|IN two|CD weeks|NNS instead|RB of|IN eight|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gigwalks|NNS biggest|VBP challenge|NN </s>|S_END
+<s>|S_START getting|VBG people|NNS to|TO take|VB time|NN out|RP of|IN their|PRP$ day|NN for|IN small|JJ payouts|NNS of|IN just|RB $|$ 2|CD to|TO $|$ 15|CD apiece|NN </s>|S_END
+<s>|S_START seidman|NN says|VBZ he|PRP doesnt|VBP expect|VBP anyone|NN to|TO drive|VB 15|CD minutes|NNS to|TO do|VB a|DT $|$ 2|CD or|CC $|$ 5|CD gig|CD </s>|S_END
+<s>|S_START but|CC he|PRP hopes|VBZ theyll|RB be|VB willing|JJ to|TO work|VB multiple|NN gigs|NNS into|IN their|PRP$ morning|NN commutes|NNS or|CC squeeze|VB in|IN a|DT task|NN thats|NNS just|RB two|CD doors|NNS down|IN from|IN wherever|NN they|PRP happen|VBP to|TO be|VB at|IN the|DT moment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS worked|VBD out|RP well|RB for|IN andrew|JJ schut|NN 47|CD a|DT medical|JJ device|NN consultant|NN in|IN new|JJ york|NN city|NN whos|NNS the|DT topgrossing|VBG gigwalker|NN so|IN far|RB earning|VBG $|$ 2173|CD since|IN march|NN </s>|S_END
+<s>|S_START schut|NN maps|RB out|IN clusters|NNS of|IN gigs|NNS whenever|IN he|PRP goes|VBZ for|IN a|DT walk|NN and|CC tries|NNS to|TO knock|VB out|RP a|DT couple|NN on|IN the|DT way|NN to|TO his|PRP$ clients|NNS offices|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ given|VBN me|PRP the|DT motivation|NN to|TO see|VB parts|NNS of|IN the|DT city|NN i|PRP didnt|VBP know|RB about|IN says|NNS schut|IN who|WP created|VBN an|DT online|NN community|NN called|VBN gigwalkingtipscom|NN </s>|S_END
+<s>|S_START the|DT beauty|NN of|IN it|PRP is|VBZ you|PRP do|VBP it|PRP when|WRB you|PRP have|VBP time|NN and|CC if|IN you|PRP have|VBP time|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

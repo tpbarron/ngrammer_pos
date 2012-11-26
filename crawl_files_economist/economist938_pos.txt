@@ -1,0 +1,85 @@
+<p>|P_START
+<s>|S_START tar|NN wars|NNS fans|NNS raised|VBD their|PRP$ light|JJ sabres|NNS to|TO rejoice|VB </s>|S_END
+<s>|S_START yet|RB another|DT whizzbang|NN goodversusevil|NN trilogy|NN looms|NNS starting|VBG in|IN 2015|CD </s>|S_END
+<s>|S_START and|CC it’s|JJ all|DT thanks|NNS to|TO the|DT darkest|JJS force|NN in|IN the|DT galaxy|NN mickey|NN mouse|NN </s>|S_END
+<s>|S_START on|IN october|NN 30th|CD disney|NN agreed|VBD to|TO buy|VB lucasfilm|NN the|DT production|NN company|NN behind|IN “star|JJ wars”|NN for|IN $|$ 4|CD billion|CD in|IN cash|NN and|CC stock|NN </s>|S_END
+<s>|S_START the|DT entire|JJ bounty|NN goes|VBZ to|TO george|VB lucas|NNS the|DT creator|NN of|IN star|NN wars|NNS who|WP owns|VBZ 100|CD of|IN lucasfilm|NN </s>|S_END
+<s>|S_START it|PRP cements|VBZ his|PRP$ reputation|NN as|IN the|DT most|RBS financially|RB canny|JJ filmmaker|NN alive|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN lucas|VBD who|WP is|VBZ 68|CD is|VBZ expected|VBN to|TO retire|VB </s>|S_END
+<s>|S_START kathleen|IN kennedy|JJ a|DT business|NN partner|NN of|IN steven|NN spielberg|NN and|CC producer|NN of|IN hits|NNS such|JJ as|IN “et”|JJ and|CC “jurassic|JJ park”|NN was|VBD appointed|VBN cohead|NN of|IN lucasfilm|NN only|RB four|CD months|NNS ago|RB perhaps|RB with|IN this|DT transition|NN in|IN mind|NN </s>|S_END
+<s>|S_START yet|RB mr|VBP lucas|NNS will|MD remain|VB a|DT forceful|JJ presence|NN </s>|S_END
+<s>|S_START he|PRP will|MD be|VB one|CD of|IN disney’s|JJ largest|JJS shareholders|NNS and|CC he|PRP is|VBZ sure|JJ to|TO advise|VB it|PRP on|IN the|DT new|JJ star|NN wars|NNS film|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mouse|NN attack|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN disney|NN buying|VBG another|DT megafranchise|NN makes|VBZ sense|NN </s>|S_END
+<s>|S_START disney|NN has|VBZ been|VBN doing|VBG well|RB </s>|S_END
+<s>|S_START its|PRP$ share|NN price|NN has|VBZ risen|VBN to|TO an|DT alltime|NN high|NN of|IN $|$ 53|CD on|IN strong|JJ growth|NN in|IN its|PRP$ themepark|NN tv|NN and|CC movie|NN businesse|NN </s>|S_END
+<s>|S_START as|IN of|IN june|NN it|PRP had|VBD around|IN $|$ 44|CD billion|CD in|IN cash|NN on|IN hand|NN </s>|S_END
+<s>|S_START but|CC analysts|NNS recently|RB started|VBD to|TO downgrade|VB disney’s|JJ shares|NNS doubting|VBG that|IN its|PRP$ stellar|JJ recent|JJ performance|NN would|MD continue|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lucasfilm|NN gives|VBZ disney|NN material|NN for|IN fresh|JJ hits|NNS in|IN tough|JJ time|NN </s>|S_END
+<s>|S_START tudio|NN bosses|NNS complain|VBP that|IN the|DT only|JJ films|NNS that|WDT pull|VBP crowds|NNS to|TO cinemas|NNS are|VBP familiar|JJ franchises|NNS such|JJ as|IN batman|NN or|CC james|VBZ bond|NN </s>|S_END
+<s>|S_START people|NNS are|VBP spending|VBG more|JJR time|NN watching|VBG small|JJ screens|NNS and|CC shelling|VBG out|RP less|JJR to|TO watch|VB features|NNS on|IN large|JJ ones|NNS even|RB when|WRB studios|NNS are|VBP spending|VBG more|JJR to|TO make|VB them|PRP </s>|S_END
+<s>|S_START around|IN 128|CD billion|CD movie|NN tickets|NNS were|VBD sold|VBN in|IN america|NN last|JJ year|NN the|DT fewest|NN since|IN 1995|CD </s>|S_END
+<s>|S_START this|DT summer|NN would|MD have|VB been|VBN dismal|JJ without|IN the|DT success|NN of|IN “the|NNP avengers”|NNP and|CC “the|NNP dark|NN knight|VBD rises”|JJ </s>|S_END
+<s>|S_START tudios|NNS have|VBP kept|VBN revenues|NNS stable|JJ only|RB by|IN raising|NN ticket|NN price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what’s|NNS more|JJR few|JJ people|NNS buy|VB films|NNS on|IN dvd|NN these|DT days|NNS which|WDT has|VBZ hit|VBN studios|NNS hard|RB </s>|S_END
+<s>|S_START they|PRP are|VBP scaling|VBG back|RB the|DT number|NN of|IN films|NNS they|PRP make|VBP by|IN around|IN a|DT third|JJ </s>|S_END
+<s>|S_START if|IN disney|NN is|VBZ going|VBG to|TO place|VB fewer|JJR bets|NNS it|PRP makes|VBZ sense|NN for|IN “star|JJ wars”|NN to|TO be|VB one|CD of|IN them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ince|NN 2005|CD when|WRB bob|NN iger|NN replaced|VBD michael|NN eisner|NN as|IN boss|NN disney|NN has|VBZ been|VBN good|JJ at|IN empirebuilding|NN </s>|S_END
+<s>|S_START in|IN 2006|CD it|PRP paid|VBD $|$ 74|CD billion|CD for|IN pixar|NN an|DT animation|NN studio|NN cocreated|VBD by|IN steve|NN jobs|NNS of|IN apple|NN that|IN made|VBN hits|NNS such|JJ as|IN “toy|JJ story”|NN and|CC “finding|JJ nemo”|NN </s>|S_END
+<s>|S_START in|IN 2009|CD disney|NN bought|VBD marvel|NN entertainment|NN for|IN $|$ 42|CD billion|CD thus|RB recruiting|VBG an|DT army|NN of|IN comicbook|NN heroes|VBZ to|TO cast|VB in|IN blockbusters|NNS such|JJ as|IN “the|JJ avengers”|NN which|WDT has|VBZ grossed|VBN more|JJR than|IN $|$ 15|CD billion|CD worldwide|NN this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT were|VBD tricky|JJ deal|NN </s>|S_END
+<s>|S_START disney’s|NNS rivals|NNS such|JJ as|IN newscorp|NN or|CC sony|NN might|MD well|RB have|VB messed|VBN them|PRP up|RP </s>|S_END
+<s>|S_START but|CC disney|NN found|VBD synergies|NNS with|IN the|DT new|JJ firms|NNS while|IN allowing|VBG their|PRP$ creative|JJ types|NNS the|DT freedom|NN to|TO carry|VB on|RP with|IN what|WP they|PRP do|VBP well|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START disney|NN knows|VBZ that|IN big|JJ hits|NNS can|MD help|VB it|PRP make|VB big|JJ sums|NNS on|IN toys|NNS tshirts|NNS and|CC other|JJ product|NN </s>|S_END
+<s>|S_START this|DT year|NN a|DT quarter|NN of|IN lucasfilm’s|NNP revenue—around|NNP $|$ 200m—will|CD come|NN from|IN licensing|VBG toy|NN droids|NNS sith|IN lord|NN helmets|NNS and|CC the|DT like|NN </s>|S_END
+<s>|S_START that|DT is|VBZ not|RB bad|JJ for|IN a|DT year|NN which|WDT has|VBZ not|RB alas|RB seen|VBN a|DT new|JJ “star|JJ wars”|NN film|NN </s>|S_END
+<s>|S_START disney|NN hopes|VBZ to|TO help|VB expand|NN lucasfilm’s|-NONE- global|JJ reach|NN and|CC integrate|NN its|PRP$ characters|NNS into|IN its|PRP$ cable|JJ networks|NNS and|CC theme|NN park|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT real|JJ prize|NN in|IN lucasfilm|NN may|MD be|VB its|PRP$ technology|NN </s>|S_END
+<s>|S_START hollywood|NN today|NN is|VBZ in|IN a|DT “special|JJ effects|NNS arms|NNS race”|-NONE- says|VBZ the|DT boss|NN of|IN a|DT major|JJ studio|NN </s>|S_END
+<s>|S_START lucasfilm’s|NNS thx|VBP sound|NN systems|NNS and|CC industrial|JJ light|NN magic|NN specialeffects|NNS unit|NN are|VBP regarded|VBN as|IN the|DT best|JJS in|IN the|DT busine|NN </s>|S_END
+<s>|S_START pixar|NN sprang|VBD from|IN lucasfilm’s|NNP animation|NN technology|NN </s>|S_END
+<s>|S_START video|NN games|NNS which|WDT rely|RB on|IN special|JJ effects|NNS are|VBP a|DT bigger|JJR part|NN of|IN the|DT business|NN than|IN ever|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START jeffrey|NN katzenberg|NN who|WP cofounded|VBN dreamworks|NNS animation|NN with|IN mr|NN spielberg|NN and|CC david|VBD geffen|VBN after|IN being|VBG forced|VBN out|RP of|IN disney|NN in|IN 1994|CD recently|RB described|VBN new|JJ animation|NN technology|NN as|IN “maybe|JJ the|DT most|RBS powerful|JJ paintbrush|NN ever|RB put|VBN in|IN the|DT hands|NNS of|IN artists”|JJ </s>|S_END
+<s>|S_START in|IN the|DT past|JJ four|CD years|NNS dreamworks|NNS whose|WP$ hits|NNS include|VBP “shrek”|JJ and|CC “madagascar”|JJ has|VBZ joined|VBN forces|NNS with|IN intel|NN a|DT chipmaker|NN to|TO devise|VB even|RB zappier|JJR technology|NN </s>|S_END
+<s>|S_START the|DT empty|NN theatres|NNS playing|VBG “john|JJ carter”|NN a|DT scifi|NN flop|NN reminded|VBD disney|NN that|IN liveaction|NN films|NNS are|VBP less|JJR predictable|JJ hits|NNS than|IN animated|VBN one|CD </s>|S_END
+<s>|S_START animated|VBD films|NNS are|VBP also|RB easier|JJR and|CC cheaper|JJR to|TO tweak|VB if|IN test|NN audiences|NNS hate|VBP them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN 2005|CD when|WRB the|DT last|JJ “star|NN wars”|NN film|NN was|VBD released|VBN lucasfilm|NN generated|VBN around|IN $|$ 550m|CD in|IN operating|NN profit|NN </s>|S_END
+<s>|S_START disney|NN is|VBZ hoping|VBG for|IN similarly|RB vast|JJ reward|NN </s>|S_END
+<s>|S_START and|CC indeed|VBD there|RB is|VBZ plenty|NN of|IN life|NN left|VBN in|IN old|JJ franchise|NN </s>|S_END
+<s>|S_START ony’s|NNS “skyfall”|VBP the|DT latest|JJS instalment|NN of|IN a|DT franchise|NN that|WDT began|VBD even|RB far|RB farther|RB back|RB than|IN star|NN wars|NNS is|VBZ expected|VBN to|TO be|VB the|DT most|JJS lucrative|JJ yet|RB </s>|S_END
+<s>|S_START as|IN yoda|NN might|MD have|VB put|VBN it|PRP “dollars|VBZ billions|NNS you|PRP will|MD make”|VB </s>|S_END
+</p>|P_END
+

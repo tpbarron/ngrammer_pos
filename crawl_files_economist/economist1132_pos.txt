@@ -1,0 +1,11 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 99|CD gdp|NN $|$ 124bn|CD ppp|CD $|$ 152bn|CD inflation|NN 139|CD population|NN 202m|CD gdp|NN per|IN head|NN $|$ 6160|CD ppp|CD $|$ 7560|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT 2010|CD constitutional|JJ reform|NN removed|VBD the|DT inconvenience|NN of|IN presidential|JJ elections|NNS and|CC although|IN legislators|NNS face|VBP the|DT voters|NNS this|DT year|NN victory|NN for|IN forces|NNS loyal|JJ to|TO president|NN eduardo|VB dos|NNS santos|NNS is|VBZ a|DT foregone|NN conclusion|NN </s>|S_END
+<s>|S_START policy|NN will|MD focus|VB on|IN the|DT transition|NN to|TO sustained|VBN growth|NN after|IN postconflict|NN rebuilding|VBG </s>|S_END
+<s>|S_START progress|NN will|MD be|VB hampered|VBN by|IN vested|VBN interests|NNS and|CC the|DT fiscal|JJ burden|NN from|IN fuel|NN subsidie|NN </s>|S_END
+<s>|S_START oil|NN revenues|NNS will|MD keep|VB growth|NN racing|VBG ahead|RB </s>|S_END
+</p>|P_END
+

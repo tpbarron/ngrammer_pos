@@ -1,0 +1,70 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN mortgage|NN rates|NNS fell|VBD to|TO record|VB low|JJ levels|NNS once|RB again|RB last|JJ week|NN as|IN the|DT federal|JJ reserves|NNS decision|NN to|TO buy|VB billions|NNS in|IN home|NN loans|NNS for|IN the|DT foreseeable|JJ future|JJ helped|JJ bring|NN lending|VBG costs|NNS down|RB for|IN home|NN buyers|NNS and|CC owners|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mortgage|NN finance|NN backer|NN freddie|NN macs|NNS weekly|RB survey|NN of|IN mortgage|NN rates|NNS showed|VBD the|DT average|JJ 30year|JJ fixedrate|NN mortgage|NN fell|VBD to|TO 349|CD from|IN 355|CD the|DT previous|JJ week|NN </s>|S_END
+<s>|S_START that|DT matched|VBN the|DT previous|JJ record|NN low|JJ set|NN in|IN july|RB </s>|S_END
+<s>|S_START the|DT fixedrate|NN 15year|JJ mortgage|NN reached|VBD a|DT new|JJ record|NN low|JJ of|IN 277|CD down|IN from|IN 285|CD a|DT week|NN earlier|RBR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fed|VBN announced|VBD last|JJ thursday|NN that|IN it|PRP would|MD be|VB buying|VBG $|$ 40|CD billion|CD in|IN mortgagebacked|JJ securities|NNS each|DT month|NN for|IN the|DT foreseeable|JJ future|JJ </s>|S_END
+<s>|S_START the|DT idea|NN of|IN the|DT purchases|NNS popularly|RB know|VBP as|IN qe3|NNP is|VBZ to|TO spur|VB economic|JJ activity|NN buy|NN pumping|VBG more|JJR cash|NN into|IN the|DT economy|NN and|CC driving|VBG down|IN rates|NNS </s>|S_END
+<s>|S_START those|DT taking|VBG out|RP new|JJ home|NN loans|NNS either|CC to|TO purchase|VB or|CC refinance|NN will|MD be|VB among|IN the|DT first|JJ beneficiaries|NNS of|IN the|DT feds|NNS policy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START keith|IN gumbinger|JJR vice|NN president|NN of|IN hshcom|NN a|DT provider|NN of|IN mortgage|NN information|NN and|CC analysis|NN said|VBD he|PRP would|MD expect|VB rates|NNS will|MD likely|RB go|VB about|IN 02|CD percentage|NN point|NN lower|JJR in|IN the|DT coming|VBG weeks|NNS as|IN the|DT market|NN reacts|NNS to|TO the|DT feds|NNS mortgage|NN bond|NN purchases|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP dont|VBP think|VBP youve|JJ seen|NNS the|DT full|JJ effect|NN of|IN the|DT feds|NNS influence|NN in|IN the|DT market|NN yet|RB he|PRP said|VBD </s>|S_END
+<s>|S_START i|PRP think|VBP well|RB have|VBP to|TO see|VB a|DT slowdown|NN in|IN mortgage|NN applications|NNS working|VBG through|IN some|DT of|IN the|DT volume|NN in|IN the|DT pipeline|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT low|JJ rates|NNS can|MD help|VB the|DT economy|NN even|RB beyond|IN the|DT effect|NN it|PRP has|VBZ on|IN the|DT housing|NN market|NN by|IN putting|NN more|JJR money|NN in|IN the|DT pockets|NNS of|IN homeowners|NNS who|WP refinance|NN </s>|S_END
+<s>|S_START someone|NN who|WP bought|VBD a|DT house|NN a|DT year|NN ago|IN by|IN borrowing|NN $|$ 200000|CD at|IN the|DT 409|CD 30year|JJ rate|NN a|DT year|NN ago|IN can|MD still|RB reduce|VB their|PRP$ payments|NNS by|IN more|RBR than|IN $|$ 1000|CD a|DT year|NN by|IN refinancing|NN at|IN the|DT current|JJ rates|NNS </s>|S_END
+<s>|S_START savings|NNS are|VBP larger|JJR if|IN they|PRP borrowed|VBD more|RBR money|NN or|CC paid|VBN higher|JJR rates|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD im|PRP trapped|VBD in|IN a|DT highinterest|NN rate|NN mortgage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT lower|JJR rates|NNS also|RB allow|VBP home|NN buyers|NNS to|TO pay|VB more|JJR for|IN a|DT home|NN which|WDT many|JJ believe|VBP has|VBZ been|VBN a|DT factor|NN in|IN the|DT recent|JJ turnaround|NN in|IN home|NN prices|NNS </s>|S_END
+<s>|S_START frank|NN nothaft|VBD chief|NN economist|NN at|IN freddie|NN mac|NN said|VBD the|DT lower|JJR rates|NNS should|MD help|VB the|DT ongoing|JJ housing|NN recovery|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN wednesday|NN the|DT national|JJ association|NN of|IN realtors|NNS reported|VBD a|DT 78|CD gain|NN in|IN sales|NNS of|IN previously|RB owned|VBN homes|NNS compared|VBN to|TO a|DT year|NN earlier|JJR while|IN the|DT census|NN bureau|NN reported|VBD that|IN housing|NN starts|NNS and|CC building|VBG permits|NNS rose|VBD substantially|RB in|IN august|JJ </s>|S_END
+<s>|S_START other|JJ readings|NNS have|VBP reported|VBN that|IN home|NN prices|NNS are|VBP finally|RB turning|VBG higher|JJR after|IN years|NNS of|IN steady|JJ decline|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC while|IN the|DT housing|NN market|NN is|VBZ showing|VBG signs|NNS of|IN improvement|NN prices|NNS and|CC sales|NNS are|VBP still|RB hurt|VBN by|IN an|DT excess|JJ inventory|NN of|IN foreclosed|VBN homes|NNS and|CC continued|VBD jobs|NNS market|NN weakness|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD fed|VBN policies|NNS benefit|NN the|DT wealthy|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gumbinger|NN said|VBD while|IN the|DT lower|JJR rates|NNS are|VBP a|DT positive|JJ for|IN the|DT housing|NN market|NN they|PRP are|VBP only|RB part|NN of|IN the|DT solution|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mortgage|NN rates|NNS havent|NN been|VBN the|DT impediment|NN to|TO home|NN sales|NNS for|IN quite|RB some|DT time|NN he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gumbinger|NN said|VBD many|JJ potential|JJ buyers|NNS cant|JJ qualify|NN for|IN the|DT low|JJ rates|NNS due|JJ to|TO recent|JJ foreclosures|NNS ruining|VBG their|PRP$ credit|NN </s>|S_END
+<s>|S_START and|CC other|JJ buyers|NNS who|WP might|MD qualify|VB still|RB are|VBP reluctant|JJ to|TO buy|VB after|IN watching|VBG the|DT damage|NN done|NN by|IN falling|NN prices|NNS in|IN recent|JJ years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START theres|NNS a|DT sizable|JJ part|NN of|IN the|DT market|NN that|IN cant|JJ be|VB served|VBN or|CC wont|NN be|VB served|VBN by|IN low|JJ rates|NNS he|PRP said|VBD </s>|S_END
+</p>|P_END
+

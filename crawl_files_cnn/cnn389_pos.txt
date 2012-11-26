@@ -1,0 +1,113 @@
+<p>|P_START
+<s>|S_START money|NN magazine|NN are|VBP moneymarket|NN accounts|NNS and|CC moneymarket|NN funds|NNS the|DT same|JJ thing|NN </s>|S_END
+<s>|S_START ed|VBD middleburg|VBN heights|NNS ohio|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START not|RB by|IN a|DT long|JJ shot|NN </s>|S_END
+<s>|S_START even|RB though|IN the|DT names|NNS are|VBP similar|JJ and|CC many|JJ investors|NNS think|VBP of|IN them|PRP as|IN interchangeable|JJ stashes|NNS for|IN ready|JJ cash|NN and|CC emergency|NN funds|NNS moneymarket|NN accounts|NNS and|CC moneymarket|NN funds|NNS are|VBP very|RB different|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC while|IN it|PRP might|MD have|VB once|RB been|VBN ok|NN to|TO gloss|NNS over|IN their|PRP$ differences|NNS in|IN todays|NNS postfinancial|JJ crisis|NN world|NN you|PRP need|VBP to|TO understand|VB the|DT distinctions|NNS between|IN the|DT two|CD as|IN well|RB as|IN the|DT different|JJ levels|NNS of|IN security|NN they|PRP provide|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT moneymarket|NN account|NN is|VBZ essentially|RB a|DT savings|NN account|NN with|IN checkwriting|VBG privileges|NNS thats|NNS offered|VBD by|IN a|DT bank|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START each|DT bank|NN sets|VBZ the|DT interest|NN rate|NN that|IN its|PRP$ moneymarket|NN account|NN pays|NNS about|IN 05|CD on|IN average|JJ lately|RB and|CC that|IN rate|NN is|VBZ usually|RB higher|JJR than|IN the|DT yield|NN on|IN regular|JJ savings|NNS accounts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN long|RB as|IN the|DT bank|NN is|VBZ a|DT member|NN of|IN the|DT federal|JJ deposit|NN insurance|NN system|NN its|PRP$ moneymarket|NN accounts|NNS are|VBP fdicinsured|VBN which|WDT means|VBZ youre|NN generally|RB covered|VBN up|RP to|TO a|DT limit|NN of|IN $|$ 250000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT moneymarket|NN fund|NN on|IN the|DT other|JJ hand|NN is|VBZ a|DT mutual|JJ fund|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ not|RB a|DT bank|NN account|NN and|CC doesnt|NN qualify|NN for|IN fdic|JJ insurance|NN even|RB if|IN you|PRP happen|VBP to|TO get|VB into|IN a|DT moneymarket|NN fund|NN through|IN your|PRP$ bank|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START moneymarket|NN funds|NNS can|MD invest|VB in|IN the|DT shortterm|NN debt|NN of|IN the|DT us|PRP government|NN and|CC its|PRP$ agencies|NNS as|IN well|RB as|IN in|IN the|DT shortterm|NN obligations|NNS of|IN domestic|JJ and|CC foreign|JJ corporations|NNS and|CC banks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT yield|NN on|IN those|DT investments|NNS determines|NNS how|WRB much|JJ moneymarket|NN funds|NNS pay|VBP </s>|S_END
+<s>|S_START because|IN shortterm|NN interest|NN rates|NNS have|VBP been|VBN scraping|VBG along|IN the|DT floor|NN of|IN late|JJ moneymarket|NN funds|NNS these|DT days|NNS yield|NN a|DT measly|RB 003|CD or|CC so|RB on|IN average|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START moneymarket|NN funds|NNS are|VBP designed|VBN to|TO maintain|VB a|DT stable|NN price|NN of|IN $|$ 1|CD per|IN share|NN with|IN each|DT dollar|NN of|IN interest|NN you|PRP collect|VBP earning|VBG you|PRP an|DT additional|JJ share|NN of|IN the|DT fund|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC theres|NNS no|DT guarantee|NN that|IN a|DT moneyfunds|NNS share|NN value|NN wont|NN sink|NN below|IN $|$ 1|CD </s>|S_END
+<s>|S_START and|CC in|IN fact|NN after|IN decades|NNS of|IN a|DT nearly|RB flawless|NN record|NN of|IN money|NN funds|NNS preserving|VBG a|DT $|$ 1|CD per|IN share|NN value|NN in|IN september|NN 2008|CD the|DT reserve|NN primary|NN fund|NN broke|NN the|DT buck|NN or|CC let|VB its|PRP$ share|NN price|NN slip|NN below|IN $|$ 1|CD after|IN suffering|NN losses|NNS on|IN lehman|NN brothers|NNS debt|NN it|PRP owned|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT loss|NN combined|VBD with|IN other|JJ problems|NNS in|IN the|DT credit|NN markets|NNS as|IN the|DT financial|JJ crisis|NN unfolded|VBD resulted|VBN in|IN a|DT number|NN of|IN investment|NN firms|NNS having|VBG to|TO shore|VB up|RP their|PRP$ money|NN funds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO prevent|VB a|DT run|NN on|IN money|NN funds|NNS the|DT treasury|NN department|NN also|RB created|VBD a|DT special|JJ program|NN to|TO guarantee|VB the|DT value|NN of|IN money|NN fund|NN assets|NNS </s>|S_END
+<s>|S_START that|DT program|NN ended|VBD in|IN september|NN 2009|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START since|IN then|RB the|DT securities|NNS and|CC exchange|NN commission|NN has|VBZ required|VBN money|NN funds|NNS to|TO tighten|VB their|PRP$ investing|NN standards|NNS to|TO reduce|VB the|DT chance|NN of|IN them|PRP breaking|VBG the|DT buck|NN again|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT sec|NN and|CC the|DT money|NN fund|NN industry|NN have|VBP also|RB been|VBN trying|VBG to|TO hammer|NN out|IN a|DT number|NN of|IN other|JJ reforms|NNS </s>|S_END
+<s>|S_START they|PRP could|MD include|VB such|JJ provisions|NNS as|IN allowing|VBG money|NN funds|NNS share|NN price|NN to|TO go|VB up|RP and|CC down|IN like|IN any|DT other|JJ mutual|JJ funds|NNS share|NN price|NN requiring|VBG money|NN funds|NNS to|TO hold|VB more|JJR capital|NN or|CC having|VBG money|NN funds|NNS hold|VBP back|RB a|DT portion|NN say|NN 3|CD of|IN investor|NN redemptions|NNS for|IN 30|CD days|NNS </s>|S_END
+<s>|S_START at|IN this|DT point|NN its|PRP$ unclear|JJ which|WDT reforms|NNS might|MD eventually|RB be|VB put|VBN into|IN place|NN and|CC when|WRB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN what|WP does|VBZ all|DT this|DT mean|JJ for|IN individuals|NNS like|IN you|PRP who|WP are|VBP deciding|VBG where|WRB to|TO put|VB the|DT cash|NN they|PRP want|VBP to|TO keep|VB safe|JJ for|IN everyday|NN living|VBG expenses|NNS or|CC as|IN an|DT emergency|NN reserve|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START well|RB if|IN you|PRP want|VBP the|DT highest|JJS level|NN of|IN yield|NN and|CC safety|NN moneymarket|NN accounts|NNS are|VBP the|DT clear|JJ choice|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START granted|VBD unless|IN youre|NN investing|NN pretty|RB large|JJ amounts|NNS their|PRP$ extra|JJ payouts|NNS may|MD not|RB amount|VB to|TO a|DT whole|JJ lot|NN </s>|S_END
+<s>|S_START the|DT difference|NN between|IN earning|VBG 05|CD and|CC 003|CD on|IN $|$ 10000|CD is|VBZ just|RB $|$ 47|CD a|DT year|NN or|CC less|JJR than|IN $|$ 4|CD a|DT month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC even|RB if|IN the|DT yield|NN advantage|NN doesnt|NN create|NN a|DT windfall|NN youre|NN also|RB getting|VBG an|DT investment|NN thats|NNS more|RBR secure|JJ than|IN a|DT money|NN market|NN fund|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS not|RB to|TO say|VB money|NN funds|NNS are|VBP unsafe|JJ </s>|S_END
+<s>|S_START i|PRP think|VBP the|DT risk|NN of|IN loss|NN in|IN them|PRP is|VBZ still|RB very|RB low|JJ </s>|S_END
+<s>|S_START but|CC the|DT financial|JJ crisis|NN has|VBZ shown|VBN that|IN money|NN funds|NNS can|MD run|VB into|IN problems|NNS during|IN extreme|NN times|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT doesnt|NN mean|NN you|PRP should|MD necessarily|RB dump|VB money|NN funds|NNS if|IN you|PRP own|VBP them|PRP </s>|S_END
+<s>|S_START i|PRP still|RB own|JJ money|NN funds|NNS mostly|RB for|IN the|DT convenience|NN of|IN having|VBG my|PRP$ ready|NN cash|NN with|IN the|DT same|JJ firm|NN that|WDT holds|VBZ my|PRP$ other|JJ investments|NNS </s>|S_END
+<s>|S_START but|CC im|VBP aware|JJ that|IN im|NN paying|VBG for|IN this|DT convenience|NN in|IN the|DT form|NN of|IN lower|JJR yields|NNS and|CC a|DT somewhat|NN elevated|VBN although|IN in|IN my|PRP$ view|NN still|RB small|JJ level|NN of|IN risk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT could|MD all|DT change|NN in|IN the|DT future|NN </s>|S_END
+<s>|S_START the|DT sec|NN may|MD enact|VB rules|NNS that|WDT will|MD make|VB money|NN funds|NNS less|JJR vulnerable|JJ during|IN periods|NNS of|IN upheaval|NN while|IN still|RB affording|VBG investors|NNS easy|JJ access|NN to|TO their|PRP$ dough|JJ </s>|S_END
+<s>|S_START or|CC when|WRB interest|NN rates|NNS start|VB to|TO rise|VB perhaps|RB money|NN funds|NNS will|MD start|VB paying|VBG higher|JJR rates|NNS than|IN moneymarket|NN accounts|NNS as|IN was|VBD often|RB the|DT case|NN before|IN the|DT financial|JJ crisis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN now|RB though|IN convenience|NN aside|NN moneymarket|NN accounts|NNS are|VBP the|DT better|JJR place|NN to|TO be|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START money|NN magazine|NN is|VBZ celebrating|VBG people|NNS both|DT famous|JJ and|CC unsung|JJ who|WP have|VBP done|VBN extraordinary|JJ work|NN to|TO improve|VB others|NNS financial|JJ wellbeing|NN </s>|S_END
+<s>|S_START send|NN an|DT email|NN to|TO nominate|VB your|PRP$ money|NN hero|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

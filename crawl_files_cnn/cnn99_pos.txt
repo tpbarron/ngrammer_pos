@@ -1,0 +1,76 @@
+<p>|P_START
+<s>|S_START coal|NN miners|NNS look|VBP on|IN as|IN republican|JJ presidential|JJ candidate|NN and|CC former|JJ massachusetts|NNS governor|NN mitt|NN romney|NN speaks|NNS during|IN a|DT campaign|NN rally|NN at|IN ohios|NNS american|JJ energy|NN corportation|NN a|DT murray|NN subsidiary|NN in|IN august|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN a|DT coal|NN company|NN headed|VBD by|IN a|DT prominent|JJ mitt|NN romney|NN donor|NN has|VBZ laid|VBN off|RP more|RBR than|IN 160|CD workers|NNS in|IN response|NN to|TO president|NN obamas|NNS election|NN victory|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START murray|NN energy|NN said|VBD friday|NN that|IN it|PRP had|VBD been|VBN forced|VBN to|TO make|VB the|DT layoffs|NNS in|IN response|NN to|TO the|DT bleak|NN prospects|NNS for|IN the|DT coal|NN industry|NN during|IN obamas|NNS second|JJ term|NN </s>|S_END
+<s>|S_START in|IN a|DT prayer|NN circulated|VBN by|IN the|DT company|NN ceo|NN robert|NN murray|NN said|VBD americans|NNS had|VBD voted|VBN in|IN favor|NN of|IN redistribution|NN national|JJ weakness|NN and|CC reduced|VBD standard|JJ of|IN living|NN and|CC lower|JJR and|CC lower|JJR levels|NNS of|IN personal|JJ freedom|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT american|NN people|NNS have|VBP made|VBN their|PRP$ choice|NN </s>|S_END
+<s>|S_START they|PRP have|VBP decided|VBN that|IN america|NN must|MD change|VB its|PRP$ course|NN away|RB from|IN the|DT principals|NNS sic|JJ of|IN our|PRP$ founders|NNS murray|VBP said|VBN in|IN the|DT prayer|NN which|WDT was|VBD delivered|VBN in|IN a|DT meeting|NN with|IN staff|NN members|NNS earlier|RBR this|DT week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lord|NN please|NN forgive|NN me|PRP and|CC anyone|NN with|IN me|PRP in|IN murray|NN energy|NN corporation|NN for|IN the|DT decisions|NNS that|IN we|PRP are|VBP now|RB forced|VBN to|TO make|VB to|TO preserve|VB the|DT very|JJ existence|NN of|IN any|DT of|IN the|DT enterprises|NNS that|WDT you|PRP have|VBP helped|VBN us|PRP build|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START murray|NN cited|VBD pending|VBG regulations|NNS from|IN the|DT environmental|JJ protection|NN agency|NN and|CC the|DT possibility|NN of|IN a|DT carbon|NN tax|NN as|IN factors|NNS that|WDT could|MD lead|VB to|TO the|DT total|JJ destruction|NN of|IN the|DT coal|NN industry|NN by|IN as|RB early|JJ as|IN 2030|CD </s>|S_END
+<s>|S_START one|CD hundred|VBN and|CC two|CD layoffs|NNS are|VBP planned|VBN for|IN murray|NN operations|NNS in|IN utah|NN with|IN 54|CD from|IN illinois|NNS and|CC seven|CD from|IN west|JJS virginia|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN august|NN murray|NN shuttered|VBD an|DT operation|NN in|IN ohio|NN again|RB blaming|VBG the|DT obama|NN administration|NN and|CC its|PRP$ alleged|JJ war|NN on|IN coal|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mitt|NN romney|NN echoed|VBD this|DT line|NN on|IN the|DT campaign|NN trail|NN accusing|VBG obama|NN of|IN undermining|VBG the|DT countrys|NNS energy|NN security|NN during|IN a|DT rally|NN at|IN a|DT murrayowned|VBN mine|JJ in|IN ohio|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START footage|NN from|IN the|DT rally|NN was|VBD used|VBN in|IN a|DT romney|NN ad|NN </s>|S_END
+<s>|S_START workers|NNS in|IN the|DT spot|NN later|JJ complained|VBD to|TO a|DT local|JJ radio|NN host|NN that|WDT they|PRP were|VBD forced|VBN to|TO attend|VB the|DT rally|NN and|CC werent|NN paid|VBD for|IN the|DT time|NN claims|VBZ denied|VBN by|IN murray|NN energy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD whats|NNS to|TO blame|VB for|IN lost|JJS coal|NN jobs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START administration|NN officials|NNS responded|VBD to|TO romneys|NNS attacks|NNS by|IN affirming|VBG that|IN obama|NN supports|NNS clean|VBP coal|NN </s>|S_END
+<s>|S_START they|PRP also|RB pointed|VBD out|RP that|IN more|JJR coal|NN miners|NNS were|VBD on|IN the|DT job|NN in|IN the|DT us|PRP this|DT year|NN than|IN at|IN any|DT time|NN since|IN 1997|CD and|CC that|IN us|PRP coal|NN exports|NNS have|VBP risen|VBN 31|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START domestically|RB however|RB coal|JJ production|NN has|VBZ dropped|VBN sharply|RB falling|VBG roughly|RB 15|CD in|IN 2011|CD versus|NN years|NNS prior|RB according|VBG to|TO the|DT national|JJ mining|NN association|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT industrys|NNS woes|VBZ go|VB way|NN beyond|IN obamas|NNS policies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START utility|NN companies|NNS are|VBP increasingly|RB ditching|VBG coal|NN in|IN favor|NN of|IN cheaper|JJR cleaner|JJR natural|JJ gas|NN </s>|S_END
+<s>|S_START in|IN addition|NN the|DT recession|NN and|CC improved|VBN energy|NN efficiency|NN have|VBP crimped|VBN demand|NN for|IN power|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START looking|VBG ahead|RB the|DT coal|NN industry|NN faces|NNS a|DT rule|NN going|VBG into|IN effect|NN in|IN 2015|CD that|WDT tightens|VBZ the|DT amount|NN of|IN mercury|NN coal|NN plants|NNS can|MD emit|VB as|RB well|RB as|IN regulations|NNS on|IN mountaintop|NN mining|NN </s>|S_END
+<s>|S_START both|DT will|MD make|VB coal|NN production|NN and|CC coalfired|VBD power|NN plants|NNS more|RBR expensive|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT rules|NNS themselves|PRP are|VBP not|RB obamas|RB doing|VBG although|IN he|PRP has|VBZ implemented|VBN them|PRP fairly|RB quickly|RB </s>|S_END
+<s>|S_START most|JJS stem|NN from|IN the|DT clean|JJ air|NN act|NN which|WDT was|VBD signed|VBN by|IN richard|NN nixon|NN and|CC strengthened|VBD during|IN the|DT first|JJ bush|NN presidency|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnnmoneys|NNS steve|VBP hargreaves|NNS contributed|VBN reporting|VBG </s>|S_END
+</p>|P_END
+

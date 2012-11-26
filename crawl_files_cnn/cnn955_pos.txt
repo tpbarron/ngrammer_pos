@@ -1,0 +1,88 @@
+<p>|P_START
+<s>|S_START microsoft|NN executives|NNS mike|VBP angiulo|NN left|VBN and|CC steven|RB sinofsky|JJ showed|VBN off|RP an|DT early|JJ version|NN of|IN windows|NNS 8|CD at|IN microsofts|NNS build|VBP conference|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN if|IN youre|NN considering|VBG an|DT upgrade|NN to|TO windows|VBZ 8|CD this|DT fall|NN microsoft|NN just|RB made|VBN the|DT option|NN much|RB cheaper|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT software|NN giant|NN announced|VBD monday|NN that|IN anyone|NN running|VBG windows|NNS xp|VB or|CC a|DT more|RBR recent|JJ version|NN can|MD upgrade|VB to|TO windows|NNS 8|CD pro|NN for|IN just|RB $|$ 40|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS significantly|RB less|JJR than|IN what|WP microsoft|NN typically|RB charges|VBZ customers|NNS to|TO update|VB their|PRP$ operating|NN systems|NNS </s>|S_END
+<s>|S_START for|IN instance|NN the|DT cheapest|JJS upgrade|NN version|NN of|IN windows|NNS 7|CD for|IN those|DT running|VBG older|JJR editions|NNS of|IN windows|NNS costs|NNS $|$ 120|CD on|IN microsofts|NNS online|NN store|NN </s>|S_END
+<s>|S_START even|RB upgrading|VBG from|IN one|CD windows|NNS 7|CD version|NN to|TO another|DT will|MD set|VB you|PRP back|RB at|IN least|JJS $|$ 65|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoft|NN msft|VBD fortune|NN 500|CD said|VBD the|DT $|$ 40|CD upgrade|NN fee|NN is|VBZ a|DT promotional|JJ rate|NN that|WDT will|MD last|VB through|IN the|DT end|NN of|IN january|JJ 2013|CD and|CC it|PRP will|MD require|VB that|IN users|NNS download|VBP windows|NNS 8|CD over|IN the|DT internet|NN </s>|S_END
+<s>|S_START a|DT dvd|NN version|NN will|MD be|VB available|JJ in|IN stores|NNS for|IN $|$ 70|CD throughout|IN the|DT promotion|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT company|NN didnt|NN say|VB anything|NN else|RB about|IN windows|NNS 8s|CD general|JJ pricing|NN or|CC availability|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START slashing|VBG the|DT price|NN of|IN a|DT new|JJ os|NNS worked|VBN well|RB for|IN windows|NNS biggest|JJS competitor|NN </s>|S_END
+<s>|S_START apple|NN aapl|NN fortune|NN 500|CD has|VBZ charged|VBN just|RB $|$ 29|CD to|TO upgrade|VB to|TO the|DT last|JJ two|CD versions|NNS of|IN mac|NN os|NNS x|VBP and|CC when|WRB the|DT newest|JJS update|NN called|VBD mountain|NN lion|NN goes|VBZ on|IN sale|NN later|JJ this|DT month|NN the|DT company|NN will|MD charge|VB just|RB $|$ 20|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nearly|RB 85|CD of|IN macs|NNS are|VBP running|VBG the|DT latest|JJS mac|NN os|NNS 107|CD lion|NN or|CC the|DT previous|JJ version|NN mac|NN os|NNS 106|CD snow|NN leopard|NN according|VBG to|TO net|JJ applications|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT rapid|JJ adoption|NN hasnt|NN been|VBN matched|VBN by|IN microsoft|NN customers|NNS </s>|S_END
+<s>|S_START almost|RB half|DT of|IN windows|NNS pcs|NNS are|VBP still|RB running|VBG the|DT 11year|JJ old|JJ windows|NNS xp|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START upgrading|VBG an|DT aging|VBG pc|NN to|TO a|DT brandnew|JJ version|NN of|IN windows|NNS is|VBZ usually|RB a|DT bad|JJ idea|NN windows|VBZ can|MD be|VB a|DT notorious|JJ resource|NN hog|NN but|CC windows|VBZ 8|CD could|MD be|VB the|DT exception|NN </s>|S_END
+<s>|S_START its|PRP$ the|DT trimmest|JJS and|CC quickest|JJS of|IN all|DT of|IN microsofts|NNS recent|JJ windows|NNS releases|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnnmoney|NN has|VBZ been|VBN testing|VBG windows|NNS 8|CD out|IN on|IN a|DT fiveyearold|NN outofcommission|NN dell|NN latitude|NN laptop|NN designed|VBN for|IN windows|NNS xp|VBP </s>|S_END
+<s>|S_START it|PRP booted|VBD up|RP in|IN 16|CD seconds|NNS and|CC ran|VBD smoothly|RB under|IN a|DT typical|JJ application|NN load|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoft|NN has|VBZ plenty|NN of|IN motive|JJ for|IN urging|NN customers|NNS to|TO adopt|VB windows|NNS 8|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT windows|NNS 8|CD operating|VBG system|NN is|VBZ optimized|VBN for|IN touchscreens|NNS giving|VBG it|PRP the|DT ability|NN to|TO adapt|VB to|TO a|DT large|JJ number|NN of|IN form|NN factors|NNS including|VBG tablets|NNS which|WDT have|VBP begun|VBN to|TO eat|VB into|IN pc|NN sales|NNS </s>|S_END
+<s>|S_START microsoft|NN last|JJ month|NN unveiled|VBD its|PRP$ own|JJ surface|NN tablet|NN which|WDT will|MD go|VB on|IN sale|NN when|WRB windows|VBZ 8|CD debuts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC microsofts|NNS primary|JJ concern|NN is|VBZ getting|VBG a|DT critical|JJ mass|NN of|IN users|NNS so|IN that|IN its|PRP$ new|JJ app|NN store|NN will|MD thrive|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT versions|NNS of|IN windows|NNS 8|CD will|MD run|VB legacy|NN windows|NNS applications|NNS but|CC the|DT new|JJ operating|NN system|NN will|MD prominently|RB feature|VB a|DT tabletstyle|NN layout|IN called|VBN metro|NN which|WDT runs|VBZ a|DT new|JJ version|NN of|IN apps|NNS only|RB available|JJ in|IN microsofts|NNS app|VBP store|NN </s>|S_END
+<s>|S_START microsoft|NN has|VBZ most|JJS of|IN the|DT key|JJ apps|NNS covered|VBN but|CC its|PRP$ offerings|NNS are|VBP nowhere|RB close|JJ to|TO the|DT hundreds|NNS of|IN thousands|NNS of|IN apps|NNS that|WDT apple|NN and|CC google|JJ have|VBP for|IN their|PRP$ smartphones|NNS and|CC tablets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO break|VB the|DT chickenandegg|NN problem|NN many|JJ customers|NNS dont|VBP want|JJ devices|NNS until|IN lots|NNS of|IN apps|NNS are|VBP available|JJ but|CC developers|NNS wont|VBP spend|NN time|NN writing|VBG apps|NNS for|IN devices|NNS until|IN they|PRP have|VBP millions|NNS of|IN users|NNS microsoft|VBP is|VBZ working|VBG both|DT sides|NNS of|IN the|DT issue|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP has|VBZ tried|VBN to|TO lure|NN developers|NNS with|IN contests|NNS favorable|JJ revenuesharing|NN terms|NNS and|CC other|JJ bait|NN </s>|S_END
+<s>|S_START now|RB its|PRP$ aiming|NN to|TO draw|VB in|IN customers|NNS with|IN the|DT lowest|JJS price|NN it|PRP has|VBZ ever|RB offered|VBN for|IN a|DT windows|NN upgrade|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT customers|NNS can|MD get|VB windows|NNS 8|CD for|IN even|RB cheaper|JJR </s>|S_END
+<s>|S_START the|DT company|NN is|VBZ running|VBG a|DT separate|JJ promotion|NN on|IN its|PRP$ website|JJ under|IN which|WDT customers|NNS who|WP buy|VB a|DT windows|NN 7|CD pc|NN between|IN june|NN 2|CD 2012|CD and|CC jan|JJ 31|CD 2013|CD can|MD get|VB a|DT windows|NN 8|CD pro|NN upgrade|NN for|IN $|$ 15|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT kind|NN of|IN windows|NNS promotions|NNS are|VBP typical|JJ when|WRB the|DT latest|JJS version|NN is|VBZ about|IN to|TO be|VB phased|VBN out|RP </s>|S_END
+<s>|S_START offering|NN upgrades|VBZ at|IN such|JJ a|DT discounted|JJ rate|NN will|MD likely|RB keep|VB windows|NNS 7|CD sales|NNS afloat|IN through|IN the|DT holidays|NNS when|WRB windows|NNS 8|CD is|VBZ expected|VBN to|TO go|VB on|IN sale |NNP </s>|S_END
+</p>|P_END
+

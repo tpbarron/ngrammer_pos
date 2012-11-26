@@ -1,0 +1,59 @@
+<p>|P_START
+<s>|S_START after|IN months|NNS of|IN firing|VBG up|RP core|JJR supporters|NNS in|IN swing|NN states|NNS with|IN partisan|JJ attack|NN lines|NNS and|CC bloodchilling|VBG predictions|NNS about|IN the|DT other|JJ side’s|NNS plans|NNS barack|VBP obama|NN and|CC mitt|NN romney|NN found|VBD themselves|PRP in|IN their|PRP$ first|JJ televised|VBN debate|NN on|IN october|NN 3rd|CD obliged|VBD to|TO pitch|VB for|IN undecided|VBN voters|NNS and|CC independents|NNS nationwide|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT mr|NN obama|NN and|CC mr|NN romney|NN duly|RB struck|NN a|DT moderate|JJ tone|NN with|IN none|NN of|IN the|DT personal|JJ attacks|NNS that|WDT have|VBP marked|VBN the|DT rest|NN of|IN the|DT campaign|NN </s>|S_END
+<s>|S_START mr|NN obama|NN even|RB declined|VBD to|TO shoot|VB at|IN a|DT goal|NN left|VBN open|JJ when|WRB mr|NN romney|NN joked|VBD about|IN tax|NN breaks|NNS for|IN firms|NNS that|WDT moved|VBD jobs|NNS overseas|RB saying|VBG that|IN since|IN he|PRP knew|VBD nothing|NN about|IN them|PRP “i|NNP maybe|RB need|VBP to|TO get|VB a|DT new|JJ accountant”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN one|CD sense|NN the|DT first|JJ debate|NN achieved|VBN the|DT worst|JJS of|IN all|DT worlds|NNS it|PRP managed|VBD to|TO be|VB technical|JJ even|RB dull|JJ without|IN being|VBG substantive|JJ or|CC especially|RB honest|JJ </s>|S_END
+<s>|S_START but|CC mr|PRP$ romney—who|JJ was|VBD conversational|JJ engaged|VBN and|CC engaging—did|JJ himself|PRP many|JJ more|RBR favours|NNS than|IN the|DT president|NN who|WP was|VBD professorial|JJ and|CC ponderous|JJ and|CC at|IN times|NNS seemed|VBD to|TO be|VB wishing|VBG himself|PRP far|RB away|RB from|IN the|DT debate|NN hall|NN at|IN the|DT university|NN of|IN denver|NN </s>|S_END
+<s>|S_START an|DT instant|JJ poll|NN of|IN registered|VBN voters|NNS by|IN cnn|NN a|DT television|NN channel|NN found|VBD that|IN 67|CD thought|VBD mr|NN romney|NN had|VBD won|VBN against|IN 25|CD for|IN mr|NN obama|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN obama’s|NNS problems|NNS were|VBD partly|RB structural|JJ </s>|S_END
+<s>|S_START an|DT incumbent|NN must|MD defend|VB the|DT realities|NNS and|CC compromises|NNS of|IN government|NN while|IN a|DT challenger|NN is|VBZ freer|NN to|TO promise|VB the|DT earth|JJ details|NNS to|TO follow|VB </s>|S_END
+<s>|S_START mr|NN obama’s|NNS odd|JJ solution|NN was|VBD to|TO play|VB both|DT incumbent|NN and|CC challenger|NN jumping|VBG from|IN a|DT defence|NN of|IN his|PRP$ record|NN to|TO indignation|NN at|IN such|JJ ills|NNS as|IN overcrowded|VBN classrooms|NNS and|CC tax|NN breaks|NNS for|IN big|JJ oil|NN companie|NN </s>|S_END
+<s>|S_START at|IN times|NNS he|PRP sounded|VBD as|IN if|IN it|PRP were|VBD 2008|CD as|IN he|PRP denounced|VBD the|DT legacy|NN of|IN the|DT bush|NN administration|NN </s>|S_END
+<s>|S_START mr|NN romney|NN understandably|RB sounded|VBD disbelieving|VBG as|IN he|PRP reminded|VBD his|PRP$ opponent|NN of|IN broken|VBN promises|NNS to|TO halve|VB the|DT deficit|NN and|CC noted|VBD “you’ve|JJ been|VBN president|NN four|CD years”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN romney|NN came|VBD close|RB to|TO performing|VBG the|DT tack|NN to|TO the|DT centre|NN that|IN many|JJ had|VBD expected|VBN after|IN he|PRP won|VBD the|DT brutal|JJ republican|NN primary|JJ </s>|S_END
+<s>|S_START he|PRP talked|VBD up|RP his|PRP$ record|NN as|IN governor|NN of|IN massachusetts|NNS when|WRB he|PRP worked|VBD very|RB successfully|RB with|IN a|DT democratic|JJ state|NN legislature|NN </s>|S_END
+<s>|S_START he|PRP acknowledged|VBD the|DT need|NN for|IN effective|JJ regulation|NN of|IN wall|NN street|NN and|CC other|JJ markets|NNS for|IN public|JJ investment|NN in|IN education|NN and|CC vowed|VBD that|IN he|PRP would|MD not|RB support|VB any|DT tax|NN cut|VBD that|IN increased|VBN deficit|NN </s>|S_END
+<s>|S_START rather|RB than|IN vowing|VBG to|TO shrink|VB government|NN for|IN the|DT sake|NN of|IN it|PRP he|PRP offered|VBD a|DT test|NN to|TO ask|VB if|IN a|DT programme|NN was|VBD so|RB critical|JJ “it’s|NNS worth|NN borrowing|VBG money|NN from|IN china|NN to|TO pay|VB for|IN it”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB on|IN the|DT hardest|JJS question—explaining|JJ how|WRB he|PRP would|MD keep|VB his|PRP$ pledge|NN to|TO lower|JJR tax|NN rates|NNS across|IN the|DT board|NN while|IN avoiding|VBG adding|NN to|TO the|DT deficit|NN and|CC at|IN the|DT same|JJ time|NN avoiding|VBG regressive|JJ changes|NNS to|TO the|DT tax|NN code|NN that|WDT would|MD hit|VB the|DT middle|NN classes|NNS more|RBR than|IN the|DT wealthy—mr|JJ romney|NN again|RB failed|VBD to|TO provide|VB clear|JJ answer|NN </s>|S_END
+<s>|S_START he|PRP also|RB repeated|VBD false|NN claims|NNS about|IN mr|NN obama|NN cutting|VBG hundreds|NNS of|IN billions|NNS from|IN medicare|JJ programmes|NNS for|IN the|DT elderly|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START political|JJ history|NN is|VBZ strewn|VBN with|IN debate|NN triumphs|NNS or|CC gaffes|NNS said|VBD to|TO have|VB altered|VBN the|DT course|NN of|IN several|JJ presidential|JJ races|NNS though|IN unscrambling|VBG the|DT effects|NNS is|VBZ always|RB hard|RB </s>|S_END
+<s>|S_START ronald|NN reagan’s|NNS amiable|JJ “there|JJ you|PRP go|VBP again”|-NONE- riposte|NN in|IN his|PRP$ 1980|CD debate|NN with|IN jimmy|NN carter|NN is|VBZ credited|VBN with|IN reassuring|JJ voters|NNS that|WDT he|PRP was|VBD not|RB the|DT fierce|NN ideologue|NN some|DT feared|VBN </s>|S_END
+<s>|S_START yet|RB the|DT debate|NN period|NN was|VBD also|RB filled|VBN with|IN bad|JJ news|NN for|IN mr|NN carter|NN involving|VBG the|DT economy|NN and|CC american|JJ hostages|NNS in|IN iran|NN </s>|S_END
+<s>|S_START in|IN 2004|CD television|NN viewers|NNS told|VBD pollsters|NNS that|IN john|NN kerry|NN won|VBD each|DT of|IN his|PRP$ three|CD debates|NNS with|IN george|NN bush|NN </s>|S_END
+<s>|S_START that|DT did|VBD not|RB stop|VB the|DT democrat|NN from|IN losing|VBG the|DT election|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START two|CD close|JJ elections|NNS were|VBD clearly|RB determined|VBN by|IN debate|NN </s>|S_END
+<s>|S_START in|IN 2000|CD al|JJ gore|NN threw|NN away|RB a|DT comfortable|JJ lead|NN in|IN opinion|NN polls|NNS with|IN woeful|JJ performance|NN </s>|S_END
+<s>|S_START most|JJS decisively|RB richard|RB nixon’s|JJ pale|NN haggard|NN appearance|NN in|IN a|DT 1960|CD clash|NN with|IN a|DT tanned|VBN relaxed|VBN john|NN f|NN kennedy|NN was|VBD understood|VBN that|IN same|JJ night|NN as|IN a|DT disaster|NN for|IN the|DT republican|JJ </s>|S_END
+<s>|S_START but|CC even|RB that|IN debate|NN has|VBZ been|VBN misremembered|VBN with|IN much|RB talk|VBP of|IN lazyshave|NN instant|NN makeup|NN applied|VBD to|TO conceal|VB nixon’s|JJ five|CD o’clock|JJ shadow|NN </s>|S_END
+<s>|S_START nixon’s|NNS bigger|JJR problem|NN was|VBD a|DT fever|NN and|CC pain|NN from|IN an|DT injured|VBN knee|NN </s>|S_END
+<s>|S_START in|IN any|DT case|NN nixon|NN drew|VBD his|PRP$ own|JJ conclusions|NNS refusing|VBG to|TO debate|VB in|IN later|JJ presidential|JJ contest|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN obama|NN has|VBZ no|DT such|JJ luxury|NN open|JJ to|TO him|PRP </s>|S_END
+<s>|S_START two|CD more|JJR presidential|JJ debates|NNS are|VBP to|TO come|VB as|RB well|RB as|IN a|DT vicepresidential|JJ debate|NN on|IN october|NN 11th|CD </s>|S_END
+<s>|S_START mr|NN romney’s|NNS combative|VBP showing|VBG puts|NNS him|PRP back|RB in|IN the|DT game|NN after|IN trailing|VBG for|IN weeks|NNS in|IN key|JJ state|NN </s>|S_END
+<s>|S_START mr|NN obama’s|NNS listless|NN first|RB performance|NN will|MD remind|VB voters|NNS of|IN a|DT question|NN as|IN yet|RB unanswered|VBN what|WP exactly|RB would|MD this|DT president|NN do|VBP with|IN four|CD more|JJR years|NNS in|IN office|NN </s>|S_END
+</p>|P_END
+

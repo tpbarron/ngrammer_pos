@@ -1,0 +1,63 @@
+<p>|P_START
+<s>|S_START kayak|NN enjoyed|VBD a|DT strong|JJ debut|NN in|IN its|PRP$ initial|JJ public|JJ offering|NN proof|IN that|DT facebooks|NNS troubled|VBD deal|NN didnt|NN kill|NN demand|NN for|IN new|JJ stocks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN much|RB for|IN facebook|NN fb|NN nailing|VBG the|DT ipo|NN window|NN shut|NN </s>|S_END
+<s>|S_START palo|NN alto|IN networks|NNS panw|VBP shot|JJ up|IN more|RBR than|IN 30|CD in|IN its|PRP$ debut|NN on|IN the|DT nyse|NN friday|NN morning|NN </s>|S_END
+<s>|S_START and|CC morgan|VBD stanley|NN ms|NNS was|VBD one|CD of|IN the|DT underwriters|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START online|NN travel|NN site|NN kayak|NN kyak|NN finally|RB debuted|VBN friday|NN it|PRP was|VBD in|IN the|DT pipeline|NN for|IN years|NNS </s>|S_END
+<s>|S_START shares|NNS shot|VBD up|RB nearly|RB 30|CD and|CC morgan|JJ stanley|NN was|VBD also|RB one|CD of|IN its|PRP$ underwriters|NNS </s>|S_END
+<s>|S_START whats|NNS more|JJR kayak|NN is|VBZ listed|VBN on|IN nasdaq|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN thursday|NN five|CD below|IN five|CD showed|VBD that|IN maybe|NN it|PRP deserves|VBZ the|DT fb|NN ticker|NN </s>|S_END
+<s>|S_START the|DT discount|NN retailer|NN catering|VBG to|TO teens|NNS surged|VBD 55|CD </s>|S_END
+<s>|S_START and|CC late|JJ last|JJ month|NN cloud|NN computing|VBG company|NN servicenow|NN now|RB gained|VBD more|JJR than|IN 30|CD on|IN its|PRP$ first|JJ day|NN of|IN trading|NN </s>|S_END
+<s>|S_START shares|NNS have|VBP held|VBN steady|JJ since|IN then|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD the|DT antifacebook|NN servicenow|NN soars|NNS in|IN ipo|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT this|DT shows|VBZ that|IN talk|NN of|IN the|DT initial|JJ public|JJ offering|NN market|NN being|VBG broken|VBN in|IN the|DT wake|NN of|IN facebook|NN is|VBZ a|DT bit|NN misguided|VBN </s>|S_END
+<s>|S_START sure|RB facebooks|VBZ botched|VBN deal|NN exposed|VBN many|JJ cracks|NNS in|IN the|DT system|NN </s>|S_END
+<s>|S_START morgan|NN stanley|NN arguably|RB pushed|VBD to|TO sell|VB too|RB many|JJ shares|NNS at|IN too|RB high|JJ a|DT price|NN </s>|S_END
+<s>|S_START and|CC the|DT nasdaq|NN ndaq|NN clearly|RB was|VBD not|RB ready|RB to|TO handle|VB the|DT deluge|NN of|IN orders|NNS that|WDT accompanied|VBD the|DT most|JJS widelyanticipated|VBN ipo|NN since|IN google|NN goog|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START still|RB the|DT fate|NN of|IN any|DT ipo|NN is|VBZ always|RB subject|JJ to|TO whats|NNS going|VBG on|IN in|IN the|DT broader|JJR markets|NNS and|CC economy|NN </s>|S_END
+<s>|S_START for|IN some|DT firms|NNS going|VBG public|JJ doesnt|NN make|NN sense|NN now|RB </s>|S_END
+<s>|S_START guitar|NN maker|NN fender|NN was|VBD expected|VBN to|TO sell|VB stock|NN this|DT week|NN </s>|S_END
+<s>|S_START but|CC on|IN thursday|NN the|DT company|NN went|VBD acoustic|JJ pulling|NN the|DT plug|NN on|IN its|PRP$ ipo|NN </s>|S_END
+<s>|S_START the|DT company|NN cited|VBD the|DT turmoil|NN in|IN europe|NN as|IN a|DT challenge|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC companies|NNS with|IN an|DT interesting|JJ story|NN and|CC not|RB too|RB much|RB hype|VBP can|MD still|RB go|VB public|JJ and|CC do|VB reasonably|RB well|RB </s>|S_END
+<s>|S_START five|CD below|IN for|IN example|NN is|VBZ profitable|JJ and|CC posted|VBD a|DT sales|NNS increase|NN of|IN more|JJR than|IN 50|CD in|IN its|PRP$ most|RBS recent|JJ fiscal|NN year|NN </s>|S_END
+<s>|S_START palo|NN alto|IN which|WDT competes|NNS with|IN cisco|NN systems|NNS csco|VBP and|CC juniper|NN networks|NNS jnpr|VBP in|IN the|DT network|NN security|NN market|NN reported|VBD that|IN revenues|NNS more|RBR than|IN doubled|VBN in|IN the|DT first|JJ nine|CD months|NNS of|IN this|DT fiscal|JJ year|NN </s>|S_END
+<s>|S_START it|PRP also|RB eked|VBD out|RP a|DT small|JJ net|JJ profit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC before|IN facebooks|NNS midmay|VBP debacle|NN companies|NNS ranging|VBG from|IN organic|JJ mac|NN cheese|NN maker|NN annies|NNS bnny|VBP to|TO big|JJ data|NNS tech|VBP firm|NN splunk|NN splk|NN and|CC online|NN reviews|NNS site|VBP yelp|NN yelp|NN also|RB made|VBD a|DT big|JJ splash|NN when|WRB they|PRP went|VBD public|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP facebook|VBD taught|VBD us|PRP is|VBZ not|RB that|IN its|PRP$ a|DT mistake|NN to|TO go|VB public|JJ </s>|S_END
+<s>|S_START its|PRP$ a|DT mistake|NN to|TO have|VB the|DT hubris|NNS to|TO think|VB that|IN just|RB because|IN you|PRP have|VBP 900|CD million|CD users|NNS you|PRP can|MD clearly|RB justify|VB a|DT valuation|NN of|IN more|JJR than|IN $|$ 100|CD billion|CD especially|RB when|WRB your|PRP$ growth|NN is|VBZ already|RB starting|VBG to|TO slow|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT opinions|NNS expressed|VBN in|IN this|DT commentary|JJ are|VBP solely|RB those|DT of|IN paul|JJ r|NN la|NN monica|NN </s>|S_END
+<s>|S_START other|JJ than|IN time|NN warner|NN the|DT parent|NN of|IN cnnmoney|NN and|CC abbott|NN laboratories|NNS la|VBP monica|NN does|VBZ not|RB own|VB positions|NNS in|IN any|DT individual|JJ stocks|NNS </s>|S_END
+</p>|P_END
+

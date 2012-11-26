@@ -1,0 +1,66 @@
+<p>|P_START
+<s>|S_START for|IN those|DT interested|JJ in|IN the|DT future|NN of|IN the|DT media|NNS 2010|CD was|VBD the|DT year|NN of|IN the|DT ipad|NN </s>|S_END
+<s>|S_START book|NN newspaper|NN and|CC magazine|NN publishers|NNS raced|VBD to|TO get|VB their|PRP$ content|NN onto|IN apples|NNS tablet|VBP computer|NN which|WDT went|NN on|IN sale|NN in|IN april|NN </s>|S_END
+<s>|S_START an|DT updated|VBN ipad|NN will|MD follow|VB in|IN 2011|CD along|IN with|IN rival|NN devices|NNS from|IN other|JJ firm|NN </s>|S_END
+<s>|S_START but|CC the|DT big|JJ trend|NN in|IN the|DT media|NNS will|MD be|VB the|DT return|NN of|IN the|DT paywall|NN as|IN an|DT increasing|VBG number|NN of|IN websites|NNS ask|VBP users|NNS to|TO pay|VB </s>|S_END
+<s>|S_START the|DT most|RBS prominent|JJ example|NN will|MD be|VB the|DT new|JJ york|NN times|NNS which|WDT will|MD switch|VB on|IN a|DT new|JJ paywall|NN in|IN january|JJ or|CC february|JJ but|CC by|IN april|NN several|JJ dozen|NN other|JJ american|JJ newspapers|NNS will|MD have|VB followed|VBN suit|NN says|VBZ ken|VBN doctor|NN a|DT mediaindustry|NN analyst|NN and|CC the|DT author|NN of|IN “newsonomics”|NNP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ in|IN part|NN a|DT response|NN to|TO the|DT ipad|NN </s>|S_END
+<s>|S_START publishers|NNS are|VBP keen|VBN to|TO exploit|VB readers|NNS apparent|JJ willingness|NN to|TO pay|VB for|IN content|NN on|IN mobile|JJ devices|NNS they|PRP pay|VBP for|IN music|JJ games|NNS and|CC other|JJ apps|NNS after|IN all|DT </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ difficult|JJ to|TO justify|VB charging|NN for|IN content|NN on|IN a|DT tablet|NN computer|NN if|IN you|PRP are|VBP also|RB giving|VBG it|PRP away|RB on|IN the|DT web|NN </s>|S_END
+<s>|S_START during|IN 2010|CD both|DT time|NN magazine|NN in|IN america|NN and|CC the|DT times|NNS newspaper|NN in|IN britain|NN bolstered|VBN their|PRP$ paywalls|NNS in|IN parallel|NN with|IN the|DT launch|NN of|IN their|PRP$ ipad|NN edition|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT deeper|NN reason|NN for|IN the|DT sudden|JJ appearance|NN of|IN paywalls|NNS in|IN 2011|CD is|VBZ that|IN publishers|NNS are|VBP at|IN last|JJ admitting|NN that|IN webbased|VBN advertising|NN revenue|NN will|MD not|RB cover|VB their|PRP$ costs|NNS and|CC so|RB they|PRP will|MD have|VB to|TO start|VB charging|NN reader|NN </s>|S_END
+<s>|S_START for|IN years|NNS newspapers|NNS reassured|VBD themselves|PRP that|IN it|PRP was|VBD still|RB early|JJ days|NNS and|CC that|IN eventually|RB someone|NN would|MD figure|VB out|RP a|DT business|NN model|NN for|IN news|NN on|IN the|DT web|NN says|VBZ clay|NN shirky|NN a|DT media|NNS expert|NN at|IN new|JJ york|NN university|NN </s>|S_END
+<s>|S_START but|CC not|RB any|DT more|RBR </s>|S_END
+<s>|S_START “journalists|NNS are|VBP finally|RB willing|JJ to|TO believe|VB that|IN this|DT is|VBZ it”|NNP he|PRP say|VBP </s>|S_END
+<s>|S_START having|VBG previously|RB tried|VBD to|TO attract|VB as|IN much|JJ traffic|NN from|IN readers|NNS as|IN possible|JJ publishers|NNS will|MD now|RB focus|VB on|IN extracting|NN revenue|NN from|IN their|PRP$ core|NN readership|NN </s>|S_END
+<s>|S_START that|DT means|VBZ putting|VBG up|RP paywall|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC not|RB all|DT paywalls|NNS are|VBP created|VBN equal|JJ </s>|S_END
+<s>|S_START “today|JJ people|NNS talk|VBP about|IN paywalls|NNS in|IN a|DT monolithic|JJ way|NN but|CC the|DT reality|NN is|VBZ that|IN there|EX are|VBP a|DT number|NN of|IN different|JJ strategies|NNS and|CC models”|JJ says|NNS josh|VBP cohen|VBN of|IN google|JJ </s>|S_END
+<s>|S_START at|IN one|CD extreme|NN are|VBP very|RB strict|JJ paywalls|NNS like|IN that|DT of|IN the|DT london|NN times|VBZ only|RB paying|VBG subscribers|NNS are|VBP allowed|VBN to|TO see|VB articles|NNS which|WDT are|VBP even|RB hidden|VBN from|IN internet|JJ search|NN engine|NN </s>|S_END
+<s>|S_START at|IN the|DT other|JJ extreme|NN are|VBP newspapers|NNS that|IN give|JJ everything|NN away|RB and|CC allow|VB anyone|NN to|TO read|VB anything|NN in|IN order|NN to|TO attract|VB as|IN many|JJ readers|NNS and|CC hence|NN advertisers|NNS as|IN possible|JJ </s>|S_END
+<s>|S_START there|EX is|VBZ lots|NNS of|IN middle|JJ ground|NN </s>|S_END
+<s>|S_START the|DT favoured|VBN model|NN is|VBZ now|RB a|DT “metered”|JJ paywall|NN that|WDT lets|VBZ users|NNS read|VBP a|DT limited|VBN number|NN of|IN articles|NNS without|IN paying|VBG but|CC asks|NNS for|IN payment|NN if|IN they|PRP go|VBP beyond|IN that|DT number|NN </s>|S_END
+<s>|S_START the|DT advantage|NN of|IN this|DT approach|NN which|WDT was|VBD pioneered|VBN by|IN the|DT financial|JJ times|NNS and|CC is|VBZ being|VBG adopted|VBN by|IN the|DT economist|NN is|VBZ that|IN publishers|NNS can|MD “turn|VB the|DT dial”|NN to|TO adjust|VB how|WRB many|JJ free|JJ articles|NNS readers|NNS are|VBP allowed|VBN to|TO see|VB depending|VBG on|IN the|DT market|NN condition|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “the|DT metering|NN model|NN is|VBZ really|RB important|JJ because|IN of|IN its|PRP$ flexibility”|JJ says|NNS mr|VBP doctor|NN </s>|S_END
+<s>|S_START eventually|RB he|PRP says|VBZ it|PRP will|MD be|VB possible|JJ to|TO adjust|VB the|DT dials|NNS dynamically|RB by|IN region|NN season|NN user|NN demographics|NNS and|CC article|NN type|NN </s>|S_END
+<s>|S_START a|DT newspaper|NN website|NN in|IN lancaster|NN pennsylvania|NN for|IN example|NN discovered|VBN that|IN its|PRP$ obituaries|NNS were|VBD particularly|RB popular|JJ among|IN older|JJR readers|NNS who|WP had|VBD moved|VBN away|RB </s>|S_END
+<s>|S_START o|NN in|IN july|RB 2010|CD it|PRP set|VBD up|RP a|DT metered|VBN paywall|NN on|IN those|DT pages|NNS charging|VBG outofstate|NN readers|NNS $|$ 199|CD a|DT month|NN for|IN access|NN beyond|NN seven|CD free|JJ pages|NNS a|DT month|NN using|VBG software|NN from|IN a|DT startup|NN called|VBN journalism|NN online|NN </s>|S_END
+<s>|S_START there|EX will|MD be|VB more|RBR examples|NNS of|IN this|DT sort|NN of|IN thing|NN with|IN publishers|NNS charging|VBG for|IN specific|JJ types|NNS of|IN highly|RB valued|VBN content|NN such|JJ as|IN crosswords|NNS or|CC local|JJ sports|NNS news|NN during|IN 2011|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charge|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT does|VBZ not|RB mean|VB that|IN paywalls|NNS will|MD save|VB newspapers|NNS however|RB </s>|S_END
+<s>|S_START a|DT study|NN of|IN british|JJ newspapers|NNS by|IN enders|NNS analysis|NN a|DT consultancy|NN found|VBD that|IN online|NN subscribers|NNS produce|VBP less|JJR than|IN onethird|JJ as|IN much|JJ revenue|NN as|IN print|NN subscriber|NN </s>|S_END
+<s>|S_START “even|JJ if|IN every|DT single|JJ print|NN buyer|NN is|VBZ successfully|RB converted|VBN to|TO the|DT paywall|NN newspapers|NNS will|MD still|RB face|VB a|DT basic|JJ problem|NN of|IN scale”|NNP it|PRP noted|VBD </s>|S_END
+<s>|S_START many|JJ american|NN papers|NNS which|WDT rely|RB heavily|RB on|IN syndicated|VBN stories|NNS for|IN national|JJ and|CC international|JJ news|NN supplemented|VBN with|IN local|JJ reporting|NN face|NN a|DT similar|JJ problem|NN </s>|S_END
+<s>|S_START “no|NN model|NN of|IN paywall|NN will|MD save|VB generalinterest|JJS papers|NNS running|VBG commodity|NN news”|-NONE- says|VBZ mr|NN shirky|NN </s>|S_END
+<s>|S_START he|PRP expects|VBZ continued|VBN consolidation|NN and|CC draws|VBZ an|DT analogy|NN with|IN the|DT music|JJ industry|NN it|PRP eventually|RB found|VBD ways|NNS to|TO make|VB money|NN online|NN but|CC the|DT resulting|VBG industry|NN is|VBZ much|RB smaller|JJR than|IN it|PRP was|VBD a|DT decade|NN ago|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN is|VBZ also|RB thought|VBD to|TO be|VB readying|VBG a|DT scheme|NN to|TO help|VB publishers|NNS charge|VB for|IN content|NN said|VBD to|TO be|VB called|VBN newspass|NN which|WDT may|MD allow|VB a|DT single|JJ account|NN to|TO work|VB across|RP several|JJ publication|NN </s>|S_END
+<s>|S_START “just|JJ as|IN there|EX is|VBZ no|DT single|JJ cause|NN behind|IN the|DT challenges|NNS that|WDT publishers|NNS are|VBP facing|VBG there|RB is|VBZ no|DT single|JJ solution”|NN says|VBZ mr|NN cohen|RB </s>|S_END
+<s>|S_START putting|VBG up|IN a|DT paywall|NN may|MD work|VB for|IN some|DT publications|NNS he|PRP says|VBZ but|CC “its|NNS not|RB a|DT panacea|NN that|WDT will|MD work|VB for|IN everyone”|JJ what|WP is|VBZ clear|JJ is|VBZ that|IN there|EX is|VBZ suddenly|RB much|JJ more|RBR willingness|JJ to|TO try|NN charging|VBG for|IN content|NN </s>|S_END
+<s>|S_START as|IN you|PRP read|VBP the|DT news|NN online|NN in|IN 2011|CD expect|NN to|TO be|VB asked|VBN to|TO cough|VB up|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tom|NN standage|NN digital|NN editor|NN the|DT economist|NN </s>|S_END
+</p>|P_END
+

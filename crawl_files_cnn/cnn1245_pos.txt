@@ -1,0 +1,62 @@
+<p>|P_START
+<s>|S_START fatter|NN paychecks|NNS did|VBD not|RB produce|VB more|JJR spending|NN by|IN consumers|NNS in|IN june|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN consumers|NNS enjoyed|VBD a|DT healthy|JJ increase|NN in|IN income|NN in|IN june|NN but|CC that|IN didnt|NN get|NN them|PRP to|TO open|VB their|PRP$ wallets|NNS according|VBG to|TO a|DT government|NN report|NN released|VBD tuesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START income|NN rose|VBD 05|CD from|IN the|DT prior|JJ month|NN according|VBG to|TO the|DT report|NN from|IN the|DT commerce|NN department|NN the|DT best|JJS improvement|NN in|IN paychecks|NNS since|IN march|NN </s>|S_END
+<s>|S_START economists|NNS surveyed|VBN by|IN briefingcom|NN had|VBD forecast|VBN a|DT 04|CD rise|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT rise|NN in|IN income|NN means|VBZ that|DT incomes|VBZ are|VBP now|RB up|IN 35|CD compared|VBN to|TO june|VB 2011|CD the|DT best|JJS 12month|JJ gain|NN in|IN income|NN so|IN far|RB this|DT year|NN </s>|S_END
+<s>|S_START it|PRP also|RB was|VBD roughly|RB twice|NN the|DT pace|NN of|IN increase|NN in|IN prices|NNS over|IN the|DT last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC spending|NN by|IN consumers|NNS remained|VBD unchanged|JJ and|CC the|DT may|MD reading|NN was|VBD revised|VBN to|TO a|DT 01|CD drop|NN from|IN being|VBG flat|JJ </s>|S_END
+<s>|S_START economists|NNS had|VBD expected|VBN a|DT 01|CD increase|NN in|IN june|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START controlling|VBG for|IN inflation|NN spending|NN actually|RB fell|VBD 01|CD in|IN the|DT latest|JJS reading|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START income|NN and|CC spending|NN are|VBP both|DT important|JJ to|TO the|DT nations|NNS overall|VBP economic|JJ health|NN </s>|S_END
+<s>|S_START spending|NN by|IN consumers|NNS makes|VBZ up|RP more|JJR than|IN twothirds|NNS of|IN the|DT nations|NNS economic|JJ activity|NN </s>|S_END
+<s>|S_START while|IN the|DT increase|NN in|IN income|NN is|VBZ a|DT good|JJ sign|NN the|DT reluctance|NN of|IN consumers|NNS to|TO spend|VB could|MD keep|VB economic|JJ growth|NN weaker|NN than|IN had|VBD been|VBN hoped|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START other|JJ government|NN readings|NNS on|IN retail|JJ spending|NN have|VBP shown|VBN a|DT steady|JJ decline|NN for|IN the|DT last|JJ several|JJ months|NNS driven|RB partly|RB by|IN the|DT drop|NN in|IN gasoline|NN prices|NNS which|WDT has|VBZ allowed|VBN consumers|NNS to|TO hang|VB onto|IN more|JJR of|IN their|PRP$ income|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT report|NN doesnt|NN break|NN down|IN spending|NN on|IN gasoline|NN specifically|RB but|CC spending|NN on|IN energy|NN overall|JJ fell|NN 21|CD in|IN this|DT reading|NN </s>|S_END
+<s>|S_START but|CC spending|NN on|IN durable|JJ goods|NNS typically|RB big|JJ ticket|NN items|NNS like|IN cars|NNS and|CC appliances|NNS also|RB fell|VBD 01|CD while|IN spending|NN on|IN nondurable|JJ goods|NNS other|JJ than|IN energy|NN such|JJ as|IN food|NN was|VBD essentially|RB unchanged|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START only|RB a|DT 02|CD increase|NN in|IN spending|NN on|IN services|NNS prevented|VBN a|DT drop|NN in|IN overall|JJ spending|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN gas|NN prices|NNS have|VBP started|VBN to|TO rise|VB again|RB in|IN recent|JJ weeks|NNS that|WDT rise|VBP happened|VBN after|IN this|DT latest|JJS economic|JJ reading|NN was|VBD taken|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT combination|NN of|IN rising|VBG income|NN and|CC no|DT spending|NN growth|NN helped|VBD to|TO improve|VB the|DT nations|NNS savings|NNS rate|NN lifting|VBG it|PRP to|TO 44|CD from|IN 4|CD in|IN may|MD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START joseph|NN lavorgna|NN chief|NN us|PRP economist|NN for|IN deutsche|NN bank|NN said|VBD that|IN the|DT improved|VBN savings|NNS rate|NN puts|NNS us|PRP households|VBZ in|IN a|DT good|JJ position|NN to|TO start|VB spending|NN again|RB soon|RB since|IN they|PRP have|VBP more|JJR cash|NN relative|JJ to|TO debt|NN than|IN at|IN any|DT time|NN in|IN the|DT last|JJ 10|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP expect|VBP consumer|NN spending|NN to|TO accelerate|VB after|IN what|WP was|VBD an|DT intrasecond|NN quarter|NN slowdown|NN he|PRP wrote|VBD in|IN a|DT note|NN to|TO clients|NNS tuesday |-NONE- </s>|S_END
+</p>|P_END
+

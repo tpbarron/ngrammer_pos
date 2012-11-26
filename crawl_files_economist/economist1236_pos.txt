@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 28|CD gdp|NN $|$ 1396bn|CD ppp|CD $|$ 963bn|CD inflation|NN 28|CD population|NN 229m|CD gdp|NN per|IN head|NN $|$ 61040|CD ppp|CD $|$ 42130|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT secondterm|NN labor|NN governments|NNS fragile|JJ majority|NN may|MD not|RB survive|VB the|DT year|NN and|CC early|RB elections|NNS are|VBP on|IN the|DT card|NN </s>|S_END
+<s>|S_START the|DT governments|NNS vulnerability|NN is|VBZ reflected|VBN in|IN the|DT divisive|JJ proposal|NN for|IN a|DT carbon|NN tax|NN promised|VBD in|IN return|NN for|IN the|DT vote|NN of|IN parliaments|NNS only|RB green|JJ member|NN but|CC contravening|VBG a|DT preelection|NN pledge|NN by|IN the|DT prime|JJ minister|NN julia|NN gillard|NN </s>|S_END
+<s>|S_START the|DT governments|NNS economic|JJ programme|NN was|VBD eroded|VBN by|IN the|DT flooding|VBG of|IN 2010|CD and|CC 2011|CD resources|NNS will|MD be|VB diverted|VBN to|TO recovery|VB work|NN but|CC strong|JJ commodities|NNS earnings|NNS will|MD help|VB growth|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,95 @@
+<p>|P_START
+<s>|S_START severe|RB bandwidth|VBP caps|NNS in|IN canada|NN make|NN streaming|VBG video|NN very|RB expensive|JJ leading|VBG to|TO big|JJ losses|NNS for|IN netflix|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN netflixs|NNS first|RB foray|VBP into|IN international|JJ markets|NNS has|VBZ been|VBN rough|JJ </s>|S_END
+<s>|S_START why|WRB </s>|S_END
+<s>|S_START blame|NN canada|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thanks|NNS to|TO some|DT new|JJ and|CC severe|JJ bandwidth|NN caps|NNS by|IN canadian|JJ telecoms|NNS and|CC cable|JJ companies|NNS streaming|VBG video|NN is|VBZ very|RB expensive|JJ for|IN our|PRP$ northern|JJ neighbors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START canadian|JJ internet|NN service|NN providers|NNS began|VBD rolling|VBG out|IN payasyougo|RB data|NNS plans|NNS in|IN 2008|CD in|IN which|WDT customers|NNS pay|VBP out|RP the|DT nose|NN if|IN they|PRP go|VBP over|IN their|PRP$ allotted|VBN limits|NNS </s>|S_END
+<s>|S_START but|CC things|NNS got|VBD even|RB worse|JJR last|JJ september|NN when|WRB canadian|JJ regulators|NNS approved|VBN a|DT strict|JJ usagebased|VBN billing|NN plan|NN from|IN top|JJ telco|NN bell|NN canada|NN bce|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START within|IN the|DT last|JJ year|NN bell|NN and|CC other|JJ major|JJ isps|NNS including|VBG rogers|NNS communications|NNS rci|VBP drastically|RB cut|VBN the|DT bandwidth|NN allowances|NNS on|IN their|PRP$ plans|NNS </s>|S_END
+<s>|S_START many|JJ customers|NNS are|VBP now|RB capped|VBN at|IN about|IN 25|CD gigabytes|NNS per|IN month|NN </s>|S_END
+<s>|S_START additional|JJ data|NNS can|MD cost|VB $|$ 1|CD or|CC more|JJR per|IN gb|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT canadian|JJ data|NNS plans|NNS offer|VBP as|RB little|JJ as|IN 2|CD gb|NN which|WDT is|VBZ enough|RB to|TO stream|VB just|RB two|CD hours|NNS of|IN standardquality|NN video|NN an|DT obvious|JJ nightmare|NN for|IN netflix|NN which|WDT launched|VBN in|IN canada|NN late|JJ last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START edward|NN williams|NNS research|NN analyst|NN at|IN bmo|NN capital|NN markets|NNS says|VBZ bandwidth|NN caps|RB are|VBP a|DT top|JJ concern|NN for|IN netflix|NN right|RB now|RB especially|RB if|IN us|PRP firms|NNS follow|VBP suit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT cable|JJ companies|NNS who|WP are|VBP losing|VBG customers|NNS to|TO netflix|VB are|VBP also|RB the|DT toll|NN takers|NNS when|WRB it|PRP comes|VBZ to|TO bandwidth|NN williams|NNS points|NNS out|IN </s>|S_END
+<s>|S_START thats|NNS an|DT extremely|RB important|JJ dynamic|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN fact|NN data|NNS caps|RB already|RB made|VBD their|PRP$ way|NN stateside|NN in|IN march|NN courtesy|NN of|IN att|NN and|CC comcast|JJ cmcsa|NN fortune|NN 500|CD albeit|NN at|IN a|DT much|JJ more|RBR generous|JJ level|NN than|IN canadian|JJ plans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START att|NN t|VBD fortune|NN 500|CD limited|VBN its|PRP$ uverse|NN customers|NNS who|WP subscribe|VBP to|TO its|PRP$ highspeed|NN broadband|NN television|NN and|CC telephone|NN network|NN to|TO 250|CD gigabytes|NNS of|IN internet|NN usage|NN each|DT month|NN </s>|S_END
+<s>|S_START each|DT additional|JJ 50|CD gb|NN beyond|IN the|DT limit|NN costs|VBZ $|$ 10|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START heavy|JJ international|JJ losses|NNS in|IN 2011|CD netflixs|NNS growing|VBG pains|NNS in|IN canada|NN seem|NN to|TO have|VB even|RB caught|VBN the|DT company|NN by|IN surprise|NN </s>|S_END
+<s>|S_START netflix|NN nflx|NN ended|VBD the|DT first|JJ quarter|NN with|IN about|IN 800000|CD canadian|JJ subscribers|NNS which|WDT came|VBD in|IN at|IN the|DT low|JJ end|NN of|IN company|NN forecasts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START netflix|NN also|RB said|VBD in|IN january|JJ that|IN it|PRP expected|VBD $|$ 50|CD million|CD in|IN operating|NN losses|NNS in|IN the|DT second|JJ half|DT of|IN the|DT year|NN from|IN its|PRP$ international|JJ business|NN </s>|S_END
+<s>|S_START but|CC in|IN its|PRP$ firstquarter|NN earnings|NNS release|NN last|JJ month|NN it|PRP revised|VBD that|IN forecast|NN to|TO between|IN $|$ 50|CD million|CD and|CC $|$ 70|CD million|CD in|IN losses|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START netflix|NN said|VBD it|PRP was|VBD comfortable|JJ with|IN the|DT losses|NNS given|VBN the|DT size|NN of|IN the|DT opportunity|NN </s>|S_END
+<s>|S_START but|CC a|DT large|JJ portion|NN of|IN last|JJ quarters|NNS earnings|NNS report|NN was|VBD devoted|VBN to|TO explaining|NN the|DT canada|NN situation|NN </s>|S_END
+<s>|S_START netflix|NN called|VBN the|DT pergigabyte|NN fees|NNS excessive|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT company|NN also|RB noted|VBD that|IN in|IN march|NN it|PRP changed|VBD the|DT default|NN setting|VBG for|IN canadian|JJ netflix|NN customers|NNS to|TO a|DT lowerquality|NN video|NN that|WDT consumes|VBZ 9|CD gb|NN for|IN 30|CD hours|NNS of|IN viewing|VBG versus|NN 3070|CD gb|NN for|IN 30|CD hours|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START netflix|NN has|VBZ to|TO roll|VB with|IN the|DT punches|NNS here|RB says|VBZ williams|NNS </s>|S_END
+<s>|S_START their|PRP$ compressed|VBN data|NNS workaround|IN did|VBD help|NN and|CC theyre|VB simply|RB going|VBG to|TO have|VB to|TO work|VB within|IN the|DT confines|NNS that|WDT the|DT isps|NNS providers|NNS put|VBD on|IN them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC canada|NN is|VBZ a|DT great|JJ testing|NN ground|NN williams|NNS adds|VBZ </s>|S_END
+<s>|S_START its|PRP$ similar|JJ to|TO the|DT us|PRP market|NN and|CC the|DT situation|NN has|VBZ forced|VBN netflix|NN to|TO come|VB up|RP with|IN datacap|NN solutions|NNS before|IN it|PRP continues|VBZ to|TO expand|VB internationally|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START netflix|NN plans|NNS to|TO expand|VB even|RB more|RBR for|IN all|PDT of|IN its|PRP$ concerns|NNS about|IN still|RB learning|VBG the|DT seasonality|NN curve|NN and|CC nuances|NNS specific|JJ to|TO canada|VB as|IN netflix|NN said|VBD in|IN its|PRP$ earnings|NNS release|NN the|DT company|NN also|RB revealed|VBD it|PRP is|VBZ planning|VBG to|TO soon|RB move|VB into|IN two|CD more|JJR international|JJ markets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN netflix|NN is|VBZ spending|VBG more|JJR on|IN international|JJ markets|NNS than|IN analysts|NNS had|VBD predicted|VBN williams|NNS said|VBD its|PRP$ money|NN well|RB spent|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN other|JJ countries|NNS netflix|IN doesnt|NN have|VBP the|DT same|JJ brand|NN awareness|NN that|WDT it|PRP does|VBZ in|IN the|DT us|PRP williams|VBZ says|VBZ </s>|S_END
+<s>|S_START they|PRP need|VBP to|TO be|VB first|RB to|TO market|NN and|CC focused|VBD with|IN a|DT strategy|NN that|WDT theyre|NN pursuing|VBG aggressively|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT international|JJ concerns|NNS havent|VBP dented|VBN netflixs|NNS meteoric|JJ stock|NN rise|VB </s>|S_END
+<s>|S_START shares|NNS are|VBP up|RB 140|CD over|IN the|DT last|JJ 12|CD months|NNS and|CC 37|CD in|IN 2011|CD alone |NN </s>|S_END
+</p>|P_END
+

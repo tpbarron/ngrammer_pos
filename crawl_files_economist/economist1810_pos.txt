@@ -1,0 +1,145 @@
+<p>|P_START
+<s>|S_START at|IN first|JJ glance|NN it|PRP appears|VBZ to|TO be|VB a|DT minuscule|NN marble|JJ spinning|NN around|IN its|PRP$ vertical|JJ axi|NN </s>|S_END
+<s>|S_START look|NN closer|NN however|RB and|CC you|PRP see|VBP a|DT stationary|JJ spherical|JJ membrane|NN of|IN fluid|NN just|RB 3|CD microns|NNS acro|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ the|DT stuff|NN inside|NN the|DT droplet|NN that|IN is|VBZ rotating|VBG </s>|S_END
+<s>|S_START this|DT selfcontained|VBN centrifuge|NN has|VBZ been|VBN created|VBN by|IN blasting|NN a|DT droplet|NN of|IN fluid|NN with|IN sound|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP doesnt|VBD just|RB look|VBP cool|JJ </s>|S_END
+<s>|S_START the|DT manipulation|NN of|IN drops|NNS of|IN liquid|NN using|VBG sound|NN known|NN as|IN acoustic|JJ microfluidics|NNS is|VBZ spawning|VBG a|DT growing|VBG number|NN of|IN application|NN </s>|S_END
+<s>|S_START jonathan|IN cooper|NN of|IN the|DT university|NN of|IN glasgow|NN thinks|NNS the|DT technique|NN could|MD do|VB away|RB with|IN bulky|JJ laboratory|NN equipment|NN with|IN all|DT its|PRP$ finicky|JJ moving|NN part|NN </s>|S_END
+<s>|S_START this|DT dr|NN cooper|NN suggests|VBZ could|MD radically|RB cut|VB the|DT cost|NN of|IN diagnosing|VBG and|CC treating|VBG diseases|NNS or|CC detecting|VBG harmful|JJ pathogens|NNS in|IN hospitals|NNS water|NN sources|NNS or|CC foodprocessing|VBG facilitie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ounds|NNS it|PRP turns|VBZ out|RP are|VBP ideally|RB suited|VBN for|IN handling|NN unruly|RB fluid|VBD </s>|S_END
+<s>|S_START by|IN carefully|RB controlling|VBG the|DT way|NN sound|NN makes|VBZ the|DT transition|NN from|IN a|DT solid|JJ to|TO a|DT fluid|NN medium|NN it|PRP is|VBZ possible|JJ to|TO pump|VB mix|NN or|CC heat|VB up|RP a|DT fluid|NN </s>|S_END
+<s>|S_START with|IN enough|JJ power|NN droplets|NNS can|MD even|RB be|VB made|VBN to|TO vaporise|VB or|CC squirt|VB spectacularly|RB off|IN the|DT solid|JJ surface|NN like|IN the|DT ink|NN in|IN an|DT inkjet|NN printer|NN but|CC without|IN the|DT nozzle|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START onic|JJ screwdriving|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT this|DT is|VBZ done|VBN by|IN harnessing|NN surface|NN acoustic|JJ waves|NNS saw|VBD </s>|S_END
+<s>|S_START when|WRB these|DT intense|JJ oscillations|NNS travelling|VBG through|IN a|DT solid|JJ medium|NN come|NN into|IN contact|NN with|IN a|DT drop|NN of|IN fluid|JJ lying|NN on|IN its|PRP$ surface|NN the|DT drop|NN absorbs|VBZ some|DT of|IN their|PRP$ energy|NN </s>|S_END
+<s>|S_START this|DT energy|NN tends|VBZ to|TO dissipate|VB rapidly|RB but|CC when|WRB saws|NNS reach|VBP a|DT frequency|NN of|IN around|IN 10mhz|CD in|IN waterbased|VBN fluids|NNS they|PRP give|VBP rise|VBP to|TO an|DT unusual|JJ phenomenon|NN called|VBN acoustic|JJ streaming|NN </s>|S_END
+<s>|S_START as|IN the|DT name|NN suggests|VBZ instead|RB of|IN spreading|VBG throughout|IN the|DT fluid|NN as|IN humdrum|NN compression|NN waves|NNS the|DT saws|NNS cause|VBP some|DT sections|NNS of|IN the|DT liquid|NN to|TO flow|VB but|CC not|RB others|NNS creating|VBG steady|JJ microcurrent|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN varying|NN the|DT angle|NN and|CC direction|NN of|IN saws|NNS relative|JJ to|TO the|DT droplet|NN the|DT internal|JJ streams|NNS can|MD be|VB made|VBN to|TO flow|VB in|IN just|RB about|IN any|DT direction|NN </s>|S_END
+<s>|S_START aim|NN the|DT wave|NN at|IN the|DT centre|NN of|IN the|DT droplet|NN but|CC at|IN an|DT angle|NN and|CC the|DT forces|NNS generated|VBD will|MD cause|VB the|DT droplet|NN to|TO roll|VB </s>|S_END
+<s>|S_START ideswipe|NN it|PRP and|CC you|PRP will|MD get|VB a|DT whirlpool|NN which|WDT can|MD be|VB used|VBN to|TO stir|VB the|DT content|NN </s>|S_END
+<s>|S_START drive|JJ the|DT stream|NN faster|NN and|CC the|DT opposite|JJ happens|NNS liquid|VBD separates|NNS as|IN it|PRP would|MD in|IN a|DT centrifuge|NN </s>|S_END
+<s>|S_START vaporisation|NN is|VBZ achieved|VBN by|IN ramping|NN up|IN the|DT saws|NNS energy|NN and|CC jetting|VBG occurs|NNS when|WRB a|DT droplet|NN is|VBZ bombarded|VBN by|IN waves|NNS from|IN all|DT directions|NNS and|CC then|RB has|VBZ nowhere|RB to|TO go|VB but|CC up|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT idea|NN of|IN getting|VBG saws|NNS to|TO do|VB useful|JJ work|NN is|VBZ not|RB entirely|RB new|JJ </s>|S_END
+<s>|S_START they|PRP have|VBP long|RB been|VBN employed|VBN in|IN devices|NNS like|IN mobile|JJ phones|NNS to|TO filter|VB electric|JJ signals|NNS which|WDT can|MD be|VB done|VBN by|IN converting|NN electrical|JJ into|IN mechanical|JJ energy|NN and|CC back|RB again|RB </s>|S_END
+<s>|S_START then|RB in|IN 1999|CD achim|NN wixforth|NN a|DT physicist|NN at|IN the|DT university|NN of|IN augsburg|NN in|IN germany|NN discovered|VBN that|IN when|WRB small|JJ quantities|NNS of|IN liquid|NN were|VBD placed|VBN in|IN their|PRP$ path|NN they|PRP caused|VBD it|PRP to|TO stir|VB </s>|S_END
+<s>|S_START by|IN placing|NN interleaved|VBD comblike|NN electrodes|NNS on|IN the|DT surface|NN of|IN lithium|NN niobate|NN a|DT material|NN that|WDT is|VBZ piezoelectric|JJ and|CC so|RB expands|VBZ or|CC contracts|NNS as|IN a|DT current|JJ is|VBZ passed|VBN through|IN it|PRP dr|VBP wixforth|JJ was|NNS able|JJ to|TO finetune|VB the|DT waves|NNS to|TO do|VB his|PRP$ bidding|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP quickly|RB realised|VBD that|IN the|DT technique|NN might|MD come|VB in|IN handy|NN when|WRB mixing|VBG tiny|NN quantities|NNS of|IN different|JJ liquids—in|JJ dna|NN microarrays|NNS for|IN example|NN </s>|S_END
+<s>|S_START these|DT are|VBP tiny|JJ glass|NN chips|NNS dotted|VBD with|IN thousands|NNS of|IN microscopic|JJ wells|NNS where|WRB dna|NN fragments|NNS react|VBP with|IN other|JJ chemicals|NNS in|IN order|NN to|TO measure|VB the|DT activity|NN of|IN genes|NNS or|CC identify|VB genetic|JJ variation|NN </s>|S_END
+<s>|S_START using|VBG saws|NNS to|TO mix|VB the|DT reagents|NNS would|MD speed|VB up|RP analysi|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ much|RB harder|JJR than|IN it|PRP sound|VBD </s>|S_END
+<s>|S_START the|DT wells|NNS minute|VBP size|NN makes|NNS mechanical|JJ stirring|NN impractical|JJ </s>|S_END
+<s>|S_START imple|NN vibrations|NNS do|VBP not|RB do|VB the|DT trick|NN while|IN heat|NN risks|NNS damaging|VBG the|DT sample|NN </s>|S_END
+<s>|S_START typically|RB scientists|VBZ have|VBP no|DT choice|NN but|CC to|TO await|VB patiently|RB for|IN the|DT diffusion|NN to|TO proceed|VB at|IN its|PRP$ natural|JJ pace|NN which|WDT can|MD be|VB painfully|RB slow|JJ </s>|S_END
+<s>|S_START using|VBG saws|NNS dr|NN wixforth|NN was|VBD able|JJ to|TO nudge|VB them|PRP along|IN </s>|S_END
+<s>|S_START in|IN 2000|CD a|DT company|NN called|VBN advalytix|NN was|VBD spun|VBN out|RP of|IN his|PRP$ research|NN which|WDT through|IN a|DT series|NN of|IN acquisitions|NNS ended|VBD up|RP as|IN part|NN of|IN danaher|NN a|DT big|JJ maker|NN of|IN electronic|JJ sensor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START besides|IN mixing|VBG dr|NN wixforth|NN also|RB showed|VBD how|WRB saws|NNS could|MD channel|VB fluids|NNS as|IN part|NN of|IN more|JJR complex|JJ tasks|NNS on|IN socalled|VBN microfluidic|JJ labonachip|NN device|NN </s>|S_END
+<s>|S_START one|CD example|NN is|VBZ the|DT polymerase|NN chain|NN reaction|NN pcr|NN a|DT standard|JJ technique|NN which|WDT employs|NNS enzymes|VBZ to|TO churn|VB out|RP millions|NNS of|IN copies|NNS of|IN a|DT dna|NN sequence|NN and|CC involves|VBZ cycles|NNS of|IN gentle|JJ heating|NN and|CC cooling|VBG </s>|S_END
+<s>|S_START it|PRP can|MD be|VB achieved|VBN in|IN half|DT the|DT time|NN when|WRB saws|NNS are|VBP used|VBN to|TO mix|VB the|DT fluids|NNS and|CC guide|VB them|PRP around|IN the|DT device|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN cooper|NN and|CC julien|NN reboud|NN also|RB from|IN the|DT university|NN of|IN glasgow|NN have|VBP now|RB developed|VBN a|DT way|NN to|TO carry|VB out|RP the|DT entire|JJ pcr|NN process—mixing|JJ heating|NN and|CC cooling|VBG as|IN well|RB as|IN analysis—using|JJ a|DT single|JJ piezoelectric|JJ source|NN without|IN the|DT need|NN for|IN separate|JJ heating|NN elements|NNS or|CC detection|NN equipment|NN </s>|S_END
+<s>|S_START better|JJR yet|RB fluid|VBD no|DT longer|NN needs|VBZ to|TO move|VB from|IN one|CD reaction|NN chamber|NN to|TO the|DT next|JJ </s>|S_END
+<s>|S_START instead|RB the|DT droplet|NN is|VBZ first|JJ spun|NN until|IN the|DT cell|NN membranes|NNS rupture|VBP in|IN a|DT process|NN called|VBN lysis|NN releasing|NN the|DT dna|NN inside|NN </s>|S_END
+<s>|S_START then|RB the|DT waves|NNS frequency|NN is|VBZ tweaked|VBN and|CC the|DT sample|NN blasted|VBD headon|NN in|IN order|NN to|TO heat|VB it|PRP </s>|S_END
+<s>|S_START cooling|VBG occurs|NNS through|IN unaided|VBN dissipation|NN though|IN this|DT too|NN is|VBZ quicker|NN with|IN smaller|JJR droplets|NNS which|WDT lose|DT energy|NN more|JJR rapidly|RB than|IN bigger|JJR one|CD </s>|S_END
+<s>|S_START repeating|VBG the|DT cycle|NN drives|NNS pcr|VBP </s>|S_END
+<s>|S_START finally|RB saws|VBZ are|VBP also|RB used|VBN to|TO measure|VB the|DT change|NN in|IN density|NN of|IN the|DT fluid|NN caused|VBD by|IN the|DT newly|RB replicated|VBN dna|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN £10|-NONE- $|$ 16|CD a|DT pop|NN piezoelectric|JJ actuators|NNS are|VBP not|RB costly|RB </s>|S_END
+<s>|S_START till|NN using|VBG one|CD acoustic|JJ source|NN means|VBZ that|DT the|DT devices|NNS can|MD be|VB made|VBN cheaper|JJR still|RB </s>|S_END
+<s>|S_START on|IN the|DT face|NN of|IN it|PRP though|IN relying|VBG on|IN a|DT single|JJ source|NN limits|NNS the|DT sorts|NNS of|IN wave|NN that|IN can|MD be|VB produced|VBN and|CC therefore|RB the|DT types|NNS of|IN task|NN they|PRP can|MD perform|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN cooper|NN and|CC dr|NN reboud|NN found|VBD a|DT clever|NN way|NN round|NN thi|NN </s>|S_END
+<s>|S_START they|PRP use|VBP phononic|JJ lattices—arrays|NNS of|IN bumps|NNS and|CC dimples|NNS embossed|VBD on|IN a|DT substrate—to|JJ alter|NN the|DT way|NN in|IN which|WDT saws|NNS reverberate|VBP </s>|S_END
+<s>|S_START moreover|RB since|IN the|DT resulting|VBG interference|NN pattern|NN also|RB depends|VBZ on|IN the|DT waves|NNS frequency|NN the|DT same|JJ array|NN can|MD concentrate|VB saws|NNS in|IN different|JJ ways|NNS at|IN different|JJ frequencies|NNS working|VBG the|DT liquid|NN sample|NN in|IN different|JJ way|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT researchers|NNS goal|NN is|VBZ to|TO build|VB a|DT pcr|NN system|NN where|WRB a|DT blood|NN sample|NN is|VBZ placed|VBN on|IN a|DT disposable|JJ array|NN made|VBD out|RP of|IN a|DT cheap|NN material|NN such|JJ as|IN paper|NN and|CC inserted|VBD into|IN a|DT handheld|NN device|NN equipped|VBD with|IN the|DT piezoelectric|JJ actuator|NN and|CC other|JJ fixed|VBN element|NN </s>|S_END
+<s>|S_START it|PRP also|RB would|MD make|VB it|PRP easier|JJR to|TO keep|VB impurities|NNS at|IN bay|NN as|IN there|EX will|MD be|VB fewer|JJR components|NNS to|TO be|VB kept|VBN sterile|NN </s>|S_END
+<s>|S_START this|DT would|MD be|VB a|DT boon|NN for|IN diagnosticians|NNS in|IN developing|VBG countries|NNS where|WRB squeaky|JJ clean|JJ wellequipped|JJ labs|NNS are|VBP a|DT rarity|NN </s>|S_END
+<s>|S_START o|NN far|RB dr|NN cooper|NN and|CC dr|NN reboud|NN have|VBP demonstrated|VBN that|IN soundaided|VBN pcr|NN can|MD be|VB used|VBN to|TO detect|VB plasmodium|NN falciparum|NN the|DT parasite|NN which|WDT causes|NNS malaria|VBP in|IN a|DT blood|NN sample|NN </s>|S_END
+<s>|S_START they|PRP are|VBP working|VBG on|IN similar|JJ tests|NNS for|IN tuberculosis|NN and|CC sleeping|VBG sickne|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ound|NN is|VBZ not|RB just|RB good|JJ at|IN detecting|NN disease|NN </s>|S_END
+<s>|S_START it|PRP can|MD also|RB be|VB used|VBN to|TO help|VB treat|JJ them|PRP </s>|S_END
+<s>|S_START leslie|NN yeo|VBD and|CC james|NNS friend|VBP who|WP jointly|RB head|VBP the|DT micronanophysics|NNS research|NN laboratory|NN at|IN rmit|NN university|NN in|IN melbourne|NN are|VBP devising|VBG ways|NNS to|TO use|VB saws|NNS to|TO improve|VB inhalers|NNS which|WDT would|MD allow|VB drugs|NNS and|CC vaccines|NNS to|TO be|VB delivered|VBN to|TO the|DT lungs|NNS with|IN much|JJ greater|JJR efficiency|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START normal|JJ inhalers|NNS produce|VBP a|DT wide|JJ range|NN of|IN droplet|NN size|NN </s>|S_END
+<s>|S_START as|IN a|DT result|NN much|RB of|IN the|DT drug|NN ends|VBZ up|RP being|VBG wasted|VBN because|IN many|JJ droplets|NNS are|VBP too|RB large|JJ to|TO reach|VB deep|NN lung|NN tissue|NN explains|VBZ dr|NN yeo|NN </s>|S_END
+<s>|S_START with|IN saws|NNS it|PRP is|VBZ possible|JJ to|TO tailor|NN droplet|VB size|NN precisely|RB to|TO as|RB little|JJ as|IN a|DT few|JJ microns—small|JJ enough|RB to|TO penetrate|VB all|DT the|DT way|NN inside|NN the|DT lung|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT advantage|NN of|IN using|VBG saws|NNS is|VBZ that|IN they|PRP can|MD perform|VB extremely|RB delicate|JJ manipulation|NN </s>|S_END
+<s>|S_START this|DT can|MD be|VB crucial|JJ when|WRB dealing|VBG with|IN fragile|JJ biomolecules|NNS such|JJ as|IN proteins|NNS peptides|NNS stem|VBP cells|NNS and|CC dna|NN molecules|NNS which|WDT are|VBP easily|RB denatured|VBN or|CC damaged|VBN when|WRB vaporised|VBN </s>|S_END
+<s>|S_START having|VBG successfully|RB tested|VBN an|DT saw|NN asthma|NN inhaler|NN on|IN sheep|NN dr|NN yeo|NN and|CC dr|NN friend|NN are|VBP exploring|VBG a|DT similar|JJ approach|NN for|IN vaccine|NN </s>|S_END
+<s>|S_START this|DT approach|NN like|IN that|DT of|IN dr|NN cooper|NN and|CC dr|NN reboud|NN is|VBZ particularly|RB wellsuited|VBN for|IN the|DT developing|VBG world|NN </s>|S_END
+<s>|S_START even|RB where|WRB injectable|JJ vaccines|NNS are|VBP available|JJ inhalants|NNS are|VBP often|RB more|RBR desirable|JJ </s>|S_END
+<s>|S_START poor|NN countries|NNS most|JJS in|IN need|NN of|IN vaccines|NNS tend|VBP to|TO lack|VB adequate|JJ sanitation|NN </s>|S_END
+<s>|S_START needles|NNS are|VBP often|RB the|DT biggest|JJS transmitters|NNS of|IN disease|NN dr|NN yeo|NN say|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN cooper|NN points|NNS to|TO other|JJ possibilities|NNS offered|VBD by|IN saw|NN devices|NNS low|JJ power|NN requirement|NN </s>|S_END
+<s>|S_START many|JJ parts|NNS of|IN africa|NN for|IN instance|NN do|VBP not|RB enjoy|VB reliable|JJ access|NN to|TO electricity|NN </s>|S_END
+<s>|S_START dr|NN cooper|NN is|VBZ therefore|RB looking|VBG at|IN how|WRB mobile|JJ phones|NNS can|MD be|VB used|VBN to|TO power|NN these|DT portable|JJ devices|NNS and|CC possibly|RB even|RB display|VB test|NN result|NN </s>|S_END
+<s>|S_START ince|NN there|EX are|VBP an|DT estimated|VBN 500m|CD mobile|JJ phones|NNS in|IN africa|NN and|CC because|IN devices|NNS plugged|VBD into|IN mobiles|NNS would|MD need|VB no|DT other|JJ equipment|NN many|JJ more|RBR people|NNS could|MD act|VB as|IN health|NN workers|NNS either|CC for|IN others|NNS in|IN the|DT same|JJ remote|NN village|NN say|VB or|CC just|RB for|IN their|PRP$ own|JJ family|NN </s>|S_END
+<s>|S_START with|IN $|$ 100000|CD from|IN the|DT bill|NN and|CC melinda|NN gates|NNS foundation|NN dr|NN cooper|NN is|VBZ designing|VBG a|DT phonepowered|JJ saw|NN device|NN to|TO diagnose|VB malaria|NNS </s>|S_END
+<s>|S_START o|NN far|RB he|PRP has|VBZ succeeded|VBN in|IN using|NN a|DT fully|RB charged|VBN mobile|JJ to|TO run|VB ten|VBN test|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START you|PRP aint|VBP heard|VBN nothing|NN yet|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN all|DT the|DT recent|JJ developments|NNS dr|NN cooper|NN points|NNS out|IN the|DT field|NN is|VBZ still|RB in|IN its|PRP$ infancy|NN </s>|S_END
+<s>|S_START new|JJ ideas|NNS are|VBP cropping|VBG up|RP all|DT the|DT time|NN </s>|S_END
+<s>|S_START ome|NN researchers|NNS are|VBP putting|VBG saws|NNS to|TO work|VB in|IN cell|NN sorting|VBG where|WRB a|DT short|JJ acoustic|JJ pulse|NN can|MD nudge|VB different|JJ kinds|NNS of|IN cells|NNS down|IN different|JJ channels|NNS and|CC cell|NN separation|NN where|WRB droplets|NNS containing|VBG various|JJ kinds|NNS of|IN cell|NN are|VBP spun|VBN to|TO divide|VB the|DT cells|NNS into|IN groups|NNS as|IN in|IN a|DT centrifuge|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN his|PRP$ part|NN dr|NN wixforth|NN the|DT fields|NNS pioneer|NN has|VBZ recently|RB come|VBN up|RP with|IN a|DT way|NN to|TO simulate|VB a|DT heartbeat|NN and|CC the|DT way|NN it|PRP pumps|VBZ fluid|JJ around|IN a|DT model|NN of|IN the|DT circulatory|NN system|NN using|VBG saw|NN </s>|S_END
+<s>|S_START he|PRP and|CC his|PRP$ colleagues|NNS hope|VBP this|DT will|MD shed|VB light|JJ on|IN the|DT way|NN blood|NN and|CC the|DT molecules|NNS within|IN it—for|JJ instance|NN glycoproteins|NNS which|WDT are|VBP found|VBN in|IN cell|NN membranes|NNS and|CC play|VB a|DT role|NN in|IN interactions|NNS between|IN cells—behave|JJ as|IN they|PRP course|VBP through|IN the|DT human|JJ body|NN </s>|S_END
+<s>|S_START this|DT in|IN turn|NN might|MD help|VB explain|VB what|WP causes|NNS some|DT of|IN them|PRP to|TO malfunction|NN as|IN they|PRP do|VBP in|IN a|DT range|NN of|IN disease|NN </s>|S_END
+<s>|S_START after|IN more|JJR than|IN a|DT decade|NN dr|NN wixforths|NNS discovery|VBP continues|NNS to|TO produce|VB unexpected|VBN reverberation|NN </s>|S_END
+</p>|P_END
+

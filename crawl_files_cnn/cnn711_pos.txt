@@ -1,0 +1,56 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN surprise|NN </s>|S_END
+<s>|S_START its|PRP$ costing|NN students|NNS even|RB more|RBR to|TO attend|VB private|JJ college|NN this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tuition|NN and|CC fees|NNS at|IN private|JJ colleges|NNS and|CC universities|NNS edged|VBD 39|CD higher|JJR for|IN the|DT 201213|CD academic|JJ year|NN according|VBG to|TO a|DT survey|NN of|IN 445|CD private|JJ nonprofit|JJ schools|NNS conducted|VBN by|IN the|DT national|JJ association|NN of|IN independent|JJ colleges|NNS and|CC universities|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tuition|NN has|VBZ been|VBN on|IN the|DT rise|NN ever|RB since|IN the|DT association|NN first|RB began|VBD collecting|VBG data|NNS in|IN 1972|CD </s>|S_END
+<s>|S_START but|CC this|DT years|NNS increase|VBP is|VBZ the|DT smallest|JJS on|IN record|NN and|CC its|PRP$ the|DT first|JJ time|NN that|WDT it|PRP has|VBZ been|VBN less|JJR than|IN 4|CD according|VBG to|TO naicu|VB which|WDT represents|NNS 960|CD private|JJ colleges|NNS and|CC universities|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ also|RB the|DT fourth|JJ year|NN in|IN a|DT row|NN that|WDT the|DT average|NN tuition|NN hike|IN has|VBZ been|VBN below|IN prerecession|NN levels|NNS </s>|S_END
+<s>|S_START increases|NNS ran|VBD at|IN an|DT average|JJ 57|CD per|IN year|NN for|IN the|DT ten|NN years|NNS prior|RB to|TO the|DT 200910|CD academic|JJ year|NN but|CC rates|NNS have|VBP remained|VBN in|IN the|DT mid4|NNP range|NN since|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD colleges|NNS with|IN the|DT highestpaid|JJ grads|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB private|JJ colleges|NNS expanded|VBD their|PRP$ student|NN aid|NN budgets|NNS by|IN an|DT average|JJ 62|CD this|DT year|NN following|VBG a|DT 7|CD increase|NN last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN to|TO boosting|VBG financial|JJ aid|NN some|DT schools|NNS bucked|VBD the|DT tuitionhiking|NN trend|NN with|IN cabrini|NN college|NN in|IN pennsylvania|NN cutting|VBG tuition|NN by|IN 125|CD for|IN 201213|CD and|CC the|DT university|NN of|IN charleston|NN in|IN west|NN virginia|NN slashing|VBG costs|NNS by|IN 22|CD </s>|S_END
+<s>|S_START other|JJ schools|NNS are|VBP taking|VBG more|JJR unconventional|JJ measures|NNS </s>|S_END
+<s>|S_START some|DT are|VBP freezing|VBG tuition|NN offering|NN threeyear|NN degree|NN programs|NNS or|CC giving|VBG students|NNS fouryear|JJ graduation|NN guarantees|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START since|IN the|DT economic|JJ downturn|NN private|JJ colleges|NNS and|CC universities|NNS across|IN the|DT nation|NN have|VBP redoubled|VBN efforts|NNS to|TO cut|VB their|PRP$ operating|NN costs|NNS improve|VBP their|PRP$ efficiency|NN and|CC enhance|NN their|PRP$ affordability|NN naicu|NN president|NN david|VBD warren|VBN said|VBD in|IN a|DT statement|NN </s>|S_END
+<s>|S_START more|JJR will|MD continue|VB to|TO be|VB done|VBN by|IN private|JJ institutions|NNS to|TO stay|VB affordable|JJ and|CC within|IN reach|NN of|IN families|NNS from|IN all|DT backgrounds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD extreme|VBN ways|NNS to|TO pay|VB for|IN college|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC for|IN many|JJ students|NNS and|CC families|NNS even|RB a|DT small|JJ increase|NN in|IN tuition|NN can|MD be|VB tough|JJ to|TO handle|VB </s>|S_END
+<s>|S_START a|DT recent|JJ report|NN from|IN pew|NN research|NN center|NN showed|VBD that|IN a|DT record|NN number|NN of|IN households|NNS now|RB have|VBP student|NN loan|NN debt|NN </s>|S_END
+<s>|S_START meanwhile|RB student|VBD loan|NN default|NN rates|NNS are|VBP continuing|VBG to|TO rise|VB </s>|S_END
+<s>|S_START to|TO deal|VB with|IN higher|JJR costs|NNS more|JJR parents|NNS are|VBP asking|VBG their|PRP$ children|NNS to|TO live|VB at|IN home|NN while|IN in|IN school|NN or|CC to|TO get|VB a|DT job|NN on|IN the|DT side|NN </s>|S_END
+<s>|S_START and|CC some|DT students|NNS are|VBP taking|VBG extreme|NN measures|NNS to|TO fund|VB their|PRP$ own|JJ education|NN even|RB resorting|VBG to|TO egg|VB donation|NN and|CC participating|VBG in|IN scientific|JJ experiments|NNS to|TO bring|VB in|IN extra|JJ cash|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP attend|VBP the|DT right|NN private|JJ school|NN however|RB the|DT cost|NN of|IN tuition|NN could|MD be|VB worth|JJ it|PRP </s>|S_END
+<s>|S_START graduates|NNS from|IN princeton|NN university|NN for|IN example|NN earn|NN average|NN midcareer|NN salaries|NNS of|IN $|$ 137000|CD according|VBG to|TO a|DT recent|JJ report|NN from|IN payscalecom|NN </s>|S_END
+<s>|S_START and|CC if|IN you|PRP get|VBP your|PRP$ degree|NN in|IN a|DT field|NN like|IN petroleum|NN engineering|NN you|PRP could|MD end|VB up|RP with|IN a|DT salary|NN of|IN $|$ 163000|CD </s>|S_END
+</p>|P_END
+

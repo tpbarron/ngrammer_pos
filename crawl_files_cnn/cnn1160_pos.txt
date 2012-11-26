@@ -1,0 +1,46 @@
+<p>|P_START
+<s>|S_START moodys|NNS cuts|NNS the|DT outlook|NN on|IN the|DT european|JJ unions|NNS aaa|VBP credit|NN rating|NN to|TO negative|VB from|IN stable|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN moodys|NNS put|VBD the|DT european|JJ union|NN on|IN notice|NN monday|NN that|WDT its|PRP$ topnotch|NN aaa|NN rating|NN is|VBZ at|IN risk|NN of|IN downgrade|NN cutting|VBG the|DT outlook|NN on|IN the|DT eus|NN creditworthiness|NN to|TO negative|VB from|IN stable|JJ because|IN of|IN the|DT continents|NNS ongoing|VBG debt|NN crisis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT move|NN follows|VBZ a|DT similar|JJ action|NN in|IN july|RB when|WRB moodys|NNS revised|VBN to|TO negative|JJ the|DT outlooks|NNS on|IN aaarated|VBN germany|NN and|CC the|DT netherlands|NNS </s>|S_END
+<s>|S_START the|DT outlooks|NNS of|IN france|NN and|CC the|DT uk|NN had|VBD previously|RB been|VBN revised|VBN to|TO negative|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT four|CD countries|NNS account|NN for|IN about|IN 45|CD of|IN the|DT eus|NN budget|NN revenue|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT creditworthiness|NN of|IN these|DT member|NN states|VBZ is|VBZ highly|RB correlated|VBN as|IN they|PRP are|VBP all|RB exposed|VBN albeit|NN to|TO varying|VBG degrees|NNS to|TO the|DT euro|NN area|NN debt|NN crisis|NN moodys|NNS stated|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START moodys|NNS said|VBD it|PRP lowered|VBD the|DT eus|NN outlook|NN because|IN it|PRP believed|VBD that|IN the|DT countries|NNS likely|JJ would|MD not|RB prioritize|VB the|DT commitment|NN to|TO backstop|VB the|DT eu|NN debt|NN obligations|NNS over|IN servicing|VBG their|PRP$ own|JJ debt|NN obligations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START elerian|JJ europes|NNS unstable|JJ hammock|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT announcement|NN comes|VBZ at|IN a|DT crucial|JJ moment|NN in|IN the|DT european|JJ debt|NN crisis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT european|JJ central|JJ bank|NN which|WDT meets|NNS this|DT week|NN is|VBZ widely|RB expected|VBN on|IN thursday|NN to|TO unveil|VB details|NNS of|IN a|DT new|JJ bondbuying|NN program|NN for|IN countries|NNS that|WDT agree|VBP to|TO certain|JJ conditions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ecb|NN president|NN mario|NN draghi|NN in|IN an|DT opinion|NN article|NN last|JJ week|NN argued|VBD that|IN exceptional|JJ measures|NNS are|VBP justified|VBN under|IN the|DT ecbs|NNS mandate|VBP when|WRB financial|JJ markets|NNS are|VBP influenced|VBN by|IN irrational|JJ fears|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT new|JJ bondbuying|NN program|NN would|MD be|VB primarily|RB aimed|VBN at|IN spain|NN and|CC italy|RB where|WRB bond|NN yields|NNS rose|VBD to|TO unsustainable|JJ levels|NNS in|IN july|RB </s>|S_END
+<s>|S_START borrowing|VBG costs|NNS for|IN both|DT countries|NNS eased|VBD in|IN august|NN following|VBG draghis|NNS pledge|NN to|TO do|VB whatever|RB it|PRP takes|VBZ to|TO preserve|VB the|DT euro|NN currency|NN </s>|S_END
+</p>|P_END
+

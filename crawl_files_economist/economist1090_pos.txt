@@ -1,0 +1,80 @@
+<p>|P_START
+<s>|S_START money|NN as|IN cicero|NN observed|VBN more|RBR than|IN two|CD millennia|NNS ago|RB is|VBZ the|DT sinews|NNS of|IN war|NN </s>|S_END
+<s>|S_START that|DT is|VBZ still|RB true|JJ today|NN </s>|S_END
+<s>|S_START but|CC lately|RB from|IN the|DT american|JJ point|NN of|IN view|NN things|NNS have|VBP got|VBN ridiculou|PRP </s>|S_END
+<s>|S_START guided|VBD missiles|NNS in|IN particular|JJ are|VBP ludicrously|RB expensive|JJ </s>|S_END
+<s>|S_START a|DT tomahawk|NN cruise|NN missile|NN costs|NNS about|IN $|$ 15m|CD and|CC even|RB the|DT hellfire|NN an|DT airtoground|NN rocket|NN that|WDT weighs|VBZ a|DT mere|JJ 50kg|CD is|VBZ $|$ 115000|CD a|DT pop|NN </s>|S_END
+<s>|S_START in|IN exchange|NN for|IN say|NN an|DT enemy|NN tank|NN that|WDT is|VBZ probably|RB a|DT fair|NN price|NN to|TO pay|VB </s>|S_END
+<s>|S_START to|TO knock|VB out|RP a|DT pickup|NN truck|NN crewed|VBD by|IN a|DT few|JJ lightly|RB armed|VBN guerrillas|NNS however|RB it|PRP seems|VBZ a|DT little|RB expensive|JJ and|CC using|VBG its|PRP$ shoulderfired|VBN cousin|NN the|DT javelin|NN $|$ 147000|CD to|TO kill|VB individual|JJ soldiers|NNS in|IN foxholes|NNS as|IN is|VBZ often|RB the|DT case|NN in|IN afghanistan|NN is|VBZ positively|RB profligate|JJ </s>|S_END
+<s>|S_START clearly|RB something|NN has|VBZ to|TO change|VB </s>|S_END
+<s>|S_START and|CC changing|VBG it|PRP i|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START an|DT early|JJ sign|NN of|IN this|DT change|NN came|VBD in|IN march|NN with|IN the|DT deployment|NN in|IN afghanistan|NN of|IN the|DT apkws|NNS ii|VBP advanced|JJ precision|NN kill|NN weapons|NNS system|NN made|VBD by|IN bae|NN system|NN </s>|S_END
+<s>|S_START the|DT apkws|NNS ii|VBP is|VBZ a|DT smart|NN version|NN of|IN the|DT oldfashioned|VBN 70mm|CD 275inch|CD rocket|NN which|WDT has|VBZ been|VBN used|VBN by|IN america’s|NNP armed|VBD forces|NNS since|IN 1948|CD </s>|S_END
+<s>|S_START it|PRP is|VBZ also|RB cheap|VB as|IN guided|VBN missiles|NNS go|VBP costing|VBG $|$ 28000|CD a|DT shot|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT apkws|NNS ii|VBP is|VBZ loaded|VBN and|CC fired|VBD in|IN the|DT same|JJ way|NN pictured|VBD above|IN as|IN its|PRP$ unguided|VBN predecessors|NNS from|IN the|DT same|JJ 19round|CD pods|NNS making|VBG its|PRP$ use|NN straightforward|NN </s>|S_END
+<s>|S_START the|DT difference|NN is|VBZ that|IN it|PRP can|MD strike|VB with|IN an|DT accuracy|NN of|IN one|CD metre|NN because|IN it|PRP has|VBZ been|VBN fitted|VBN with|IN a|DT laserseeking|NN head|NN which|WDT follows|VBZ a|DT beam|NN pointed|VBN at|IN the|DT target|NN by|IN the|DT missile’s|NNP operator|NN </s>|S_END
+<s>|S_START this|DT controls|NNS a|DT set|NN of|IN fins|NNS that|WDT can|MD steer|VB the|DT missile|NN to|TO its|PRP$ destination|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tandard|NN practice|NN with|IN unguided|JJ 70mm|CD missiles|NNS is|VBZ to|TO use|VB as|IN many|JJ as|IN two|CD pods’|JJ worth|NN ie|NN 38|CD rockets|NNS at|IN $|$ 1000|CD a|DT round|NN to|TO blanket|NN a|DT target|NN </s>|S_END
+<s>|S_START that|DT means|VBZ the|DT apkws|NNS ii|VBP comes|NNS in|IN at|IN threequarters|NNS of|IN the|DT cost|NN per|IN kill|NN </s>|S_END
+<s>|S_START it|PRP also|RB means|VBZ that|DT many|JJ more|RBR targets|NNS can|MD be|VB attacked|VBN on|IN a|DT single|JJ mission|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START guide|NN price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bae|NN is|VBZ merely|RB the|DT first|JJ to|TO market|NN with|IN this|DT sort|NN of|IN device|NN </s>|S_END
+<s>|S_START atk|NN lockheed|VBD martin|NN and|CC raytheon|NN are|VBP all|DT close|JJ behind|NN </s>|S_END
+<s>|S_START meanwhile|RB the|DT american|NN navy|NN has|VBZ been|VBN working|VBG on|IN its|PRP$ own|JJ cheap|NN guided|VBD missile|JJ the|DT lowcost|NN imaging|VBG terminal|JJ seeker|NN lcits|NNS which|WDT it|PRP tested|VBD successfully|RB last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT lcits|NNS is|VBZ another|DT upgraded|VBN 70mm|CD weapon|NN but|CC instead|RB of|IN laser|NN guidance|NN it|PRP picks|VBZ out|RP its|PRP$ targets|NNS by|IN their|PRP$ heat|NN signature|NN </s>|S_END
+<s>|S_START because|IN the|DT operators|NNS do|VBP not|RB need|VB to|TO keep|VB pointing|VBG a|DT laser|NN at|IN the|DT target|NN they|PRP can|MD fire|VB several|JJ missiles|NNS in|IN quick|JJ succession—a|NN useful|JJ feature|NN if|IN a|DT ship|NN is|VBZ being|VBG attacked|VBN by|IN a|DT swarm|NN of|IN boat|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START maller|NN precision|NN weapons|NNS are|VBP useful|JJ too|RB in|IN circumstances|NNS where|WRB weight|JJ is|VBZ a|DT crucial|JJ factor|NN </s>|S_END
+<s>|S_START hadow|NN a|DT drone|NN used|VBN by|IN the|DT american|JJ australian|NN and|CC swedish|JJ armies|NNS is|VBZ too|RB light|JJ to|TO be|VB able|JJ to|TO carry|VB hellfires|NNS and|CC is|VBZ thus|RB at|IN the|DT moment|NN restricted|VBD to|TO reconnaissance|NN dutie|NN </s>|S_END
+<s>|S_START but|CC not|RB for|IN much|RB longer|JJR </s>|S_END
+<s>|S_START hadows|NNS are|VBP now|RB being|VBG armed|VBN with|IN a|DT small|JJ stillclassified|VBN guided|VBN missile|JJ </s>|S_END
+<s>|S_START this|DT follows|VBZ the|DT earlier|JJR success|NN of|IN arming|VBG hunter|NN drones|NNS with|IN viper|NN strike|IN a|DT laserguided|VBN glide|NN bomb|NN weighing|VBG 20kg|CD originally|RB developed|VBD by|IN northrop|NN grumman|NN as|IN an|DT antitank|NN weapon|NN and|CC now|RB owned|VBN by|IN mbda|NN </s>|S_END
+<s>|S_START viper|NN strike|NN along|IN with|IN raytheon’s|JJ griffin|NN a|DT similar|JJ weapon|NN also|RB arms|VBZ the|DT marines’|NN harvest|NN hawk|NN an|DT aerial|JJ gunship|NN based|VBN on|IN the|DT hercules|NNS transport|NN aircraft|NN </s>|S_END
+<s>|S_START viper|NN strike|NN means|VBZ these|DT aircraft|NN are|VBP capable|JJ of|IN hitting|VBG a|DT large|JJ number|NN of|IN targets|NNS with|IN great|JJ precision|NN from|IN a|DT distance|NN of|IN several|JJ kilometre|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT most|RBS determined|JJ effort|NN to|TO develop|VB a|DT small|JJ cheap|NN guided|VBD weapon|NN though|IN is|VBZ the|DT forward|NN firing|VBG miniature|NN munition|NN f2m2|NNP or|CC spike|VB missile|JJ from|IN the|DT naval|NN air|NN weapons|NNS station|NN in|IN china|NN lake|NN california|NN </s>|S_END
+<s>|S_START teve|NN felix|NN the|DT f2m2’s|NNP project|NN manager|NN wanted|VBD to|TO make|VB such|JJ a|DT weapon|NN for|IN just|RB $|$ 5000|CD using|VBG offtheshelf|PRP component|NN </s>|S_END
+<s>|S_START the|DT result|NN which|WDT weighs|NNS less|RBR than|IN 3kg|CD and|CC is|VBZ the|DT size|NN of|IN a|DT baguette|NN is|VBZ claimed|VBN to|TO be|VB the|DT world’s|JJ smallest|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pike|IN has|VBZ been|VBN tested|VBN successfully|RB as|IN a|DT shoulderlaunched|JJ missile|NN and|CC also|RB fired|VBD from|IN drone|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ an|DT ingenious|JJ opticalguidance|NN system—a|NN camera|NN that|WDT can|MD either|VB lock|NN on|IN to|TO an|DT operatordesignated|JJ object|NN or|CC can|MD pick|VB up|RP a|DT laser|NN spot|NN and|CC home|NN in|IN on|IN it|PRP </s>|S_END
+<s>|S_START it|PRP has|VBZ a|DT range|NN of|IN 1500|CD metres|NNS and|CC though|IN the|DT warhead|NN is|VBZ too|RB small|JJ to|TO damage|NN a|DT tank|NN it|PRP can|MD destroy|VB cars|NNS and|CC other|JJ light|JJ targets|NNS far|RB more|RBR cheaply|RB than|IN the|DT alternative|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START precision|NN weapons|NNS have|VBP already|RB changed|VBN warfare|NN radically|RB even|RB though|IN they|PRP have|VBP sometimes|RB raised|VBN the|DT price|NN of|IN battle|NN </s>|S_END
+<s>|S_START lowcost|NN guided|VBD missiles|NNS often|RB carried|VBN on|IN small|JJ drones|NNS rather|RB than|IN expensive|JJ piloted|VBN aircraft|NN will|MD change|VB it|PRP further|RB still|RB </s>|S_END
+<s>|S_START when|WRB such|JJ missiles|NNS cost|NN a|DT thousand|NN dollars|NNS rather|RB than|IN a|DT million|NN no|DT target|NN will|MD be|VB too|RB cheap|VB to|TO engage|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START correction|NN this|DT article|NN has|VBZ been|VBN updated|VBN </s>|S_END
+<s>|S_START we|PRP misquoted|VBD the|DT price|NN of|IN apkws|NNS ii|VBP as|RB $|$ 18000|CD in|IN the|DT previous|JJ version|NN </s>|S_END
+<s>|S_START also|RB the|DT system|NN is|VBZ manufactured|VBN purely|RB by|IN bae|NN not|RB by|IN them|PRP in|IN partnership|NN with|IN northrop|NN grumman|NN </s>|S_END
+<s>|S_START apologie|NN </s>|S_END
+</p>|P_END
+

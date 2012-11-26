@@ -1,0 +1,134 @@
+<p>|P_START
+<s>|S_START mitt|NN romney|NN america’s|NNS republican|MD presidential|JJ candidate|NN caused|VBD a|DT kerfuffle|NN earlier|RBR this|DT year|NN when|WRB he|PRP dismissed|VBD concerns|NNS about|IN inequality|NN as|IN the|DT result|NN of|IN “class|NN warfare”|NN that|WDT had|VBD no|DT place|NN in|IN america’s|NNP public|NN discourse|NN </s>|S_END
+<s>|S_START rather|RB than|IN an|DT “envyoriented”|JJ debate|NN about|IN distribution|NN he|PRP argued|VBD in|IN favour|PRP$ of|IN creating|VBG a|DT “meritbased”|JJ america|NN with|IN policies|NNS that|IN focus|NN on|IN economic|JJ growth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN romney’s|NNS nonchalance|NN about|IN income|NN gaps|NNS is|VBZ controversial|JJ even|RB in|IN america|NN </s>|S_END
+<s>|S_START but|CC he|PRP is|VBZ not|RB alone|RB in|IN assuming|VBG that|DT distribution|NN and|CC dynamism|NN do|VB not|RB go|VB together|RB </s>|S_END
+<s>|S_START the|DT predominant|NN view|NN among|IN economists|NNS has|VBZ long|RB been|VBN that|IN there|EX is|VBZ a|DT tradeoff|NN between|IN prosperity|NN and|CC income|NN equality|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT century|NN ago|IN inequality|NN was|VBD deemed|VBN an|DT essential|JJ condition|NN for|IN investment|NN and|CC growth|NN because|IN rich|JJ people|NNS save|VBP more|JJR </s>|S_END
+<s>|S_START keynes|NNS wrote|VBD in|IN 1919|CD that|WDT it|PRP was|VBD “precisely|RB the|DT inequality|NN of|IN the|DT distribution|NN of|IN wealth|NN which|WDT made|VBN possible|JJ those|DT vast|JJ accumulations|NNS of|IN fixed|VBN wealth|NN and|CC of|IN capital|NN improvements|NNS which|WDT distinguished|VBN the|DT gilded|VBN age|NN from|IN all|DT others”|JJ </s>|S_END
+<s>|S_START more|JJR recently|RB the|DT focus|NN has|VBZ been|VBN on|IN its|PRP$ incentive|JJ effect|NN </s>|S_END
+<s>|S_START milton|NN friedman|NN argued|VBD that|IN greater|JJR inequality|NN would|MD spur|VB people|NNS to|TO work|VB harder|JJR and|CC boost|VB productivity|NN </s>|S_END
+<s>|S_START gary|JJ becker|NN of|IN the|DT university|NN of|IN chicago|NN thinks|NNS that|WDT inequality|NN encourages|VBZ people|NNS to|TO invest|VB in|IN their|PRP$ education|NN </s>|S_END
+<s>|S_START redistribution|NN in|IN contrast|NN brings|NNS inefficiencies|NNS as|IN higher|JJR taxes|NNS and|CC government|NN handouts|NNS deter|NN hard|RB work|VB </s>|S_END
+<s>|S_START the|DT bigger|JJR the|DT state|NN the|DT greater|JJR the|DT distortion|NN of|IN private|JJ incentive|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT logic|NN remains|VBZ as|IN powerful|JJ as|IN ever|RB </s>|S_END
+<s>|S_START economic|JJ freedom|NN and|CC better|JJR incentives|NNS boosted|VBN growth|NN in|IN china|NN india|NNS and|CC elsewhere|RB </s>|S_END
+<s>|S_START weden’s|NNS experience|VBP shows|NNS that|IN deregulation|NN lower|JJR taxes|NNS and|CC fewer|JJR benefits|NNS increase|VBP economic|JJ dynamism|NN even|RB as|IN they|PRP reduce|VBP equality|NN </s>|S_END
+<s>|S_START yet|RB the|DT analysis|NN in|IN this|DT special|JJ report|NN suggests|VBZ that|IN logic|NN is|VBZ incomplete|JJ </s>|S_END
+<s>|S_START ome|NN of|IN today’s|JJ inequality|NN may|MD be|VB inefficient|VBN rather|RB than|IN growthpromoting|VBG for|IN several|JJ reason|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START first|JJ in|IN countries|NNS with|IN the|DT biggest|JJS income|NN gaps|RB increasing|VBG inequality|NN is|VBZ partly|RB a|DT function|NN of|IN rigidities|NNS and|CC rentseeking—be|JJ it|PRP labour|PRP$ laws|NNS in|IN india|NN the|DT hukou|NN system|NN and|CC state|NN monopolies|NNS in|IN china|NN or|CC toobigtofail|NN finance|NN in|IN america|NN </s>|S_END
+<s>|S_START uch|JJ distortions|NNS reduce|VBP economies’|-NONE- efficiency|NN </s>|S_END
+<s>|S_START econd|NN rising|VBG inequality|NN has|VBZ not|RB by|IN and|CC large|JJ been|NN accompanied|VBN by|IN a|DT smaller|JJR and|CC hence|NN less|RBR distortive|JJ state|NN </s>|S_END
+<s>|S_START in|IN many|JJ rich|JJ countries|NNS government|NN spending|NN has|VBZ risen|VBN since|IN the|DT 1970|CD </s>|S_END
+<s>|S_START the|DT composition|NN has|VBZ changed|VBN with|IN more|JJR money|NN spent|VBN on|IN the|DT health|NN care|NN of|IN older|JJR richer|NN folk|NN and|CC relatively|RB less|RBR invested|VBN in|IN poorer|NN kid|VBD </s>|S_END
+<s>|S_START modern|JJ transfers|NNS are|VBP both|DT less|RBR progressive|JJ and|CC less|JJR growthpromoting|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START third|JJ recent|JJ experience|NN from|IN china|NN to|TO america|VB suggests|NNS that|WDT high|JJ and|CC growing|VBG levels|NNS of|IN income|NN inequality|NN can|MD translate|VB into|IN growing|VBG inequality|NN of|IN opportunity|NN for|IN the|DT next|JJ generation|NN and|CC hence|NN declining|VBG social|JJ mobility|NN </s>|S_END
+<s>|S_START that|DT link|NN seems|VBZ strongest|JJS in|IN countries|NNS with|IN low|JJ levels|NNS of|IN public|JJ services|NNS and|CC decentralised|VBD funding|NN of|IN education|NN </s>|S_END
+<s>|S_START bigger|JJR gaps|NNS in|IN opportunity|NN in|IN turn|NN mean|NN fewer|NN people|NNS with|IN skills|NNS and|CC hence|NN slower|NN growth|NN in|IN the|DT future|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP is|VBZ not|RB easy|JJ to|TO distinguish|VB between|IN efficient|JJ and|CC inefficient|NN types|NNS of|IN inequality|NN </s>|S_END
+<s>|S_START the|DT development|NN of|IN big|JJ crosscountry|NN statistical|JJ databases|NNS in|IN the|DT 1990s|NNS allowed|VBD economists|NNS to|TO compare|VB gini|NN coefficients|NNS and|CC gdp|VB growth|NN in|IN lots|NNS of|IN countries|NNS over|IN many|JJ years|NNS but|CC the|DT results|NNS were|VBD mixed|VBN </s>|S_END
+<s>|S_START ome|NN studies|NNS found|VBD that|IN wide|JJ income|NN gaps|NNS were|VBD associated|VBN with|IN slower|JJR growth|NN </s>|S_END
+<s>|S_START others|NNS found|VBD the|DT opposite|JJ </s>|S_END
+<s>|S_START in|IN a|DT 2003|CD paper|NN entitled|VBD “inequality|NN and|CC growth|NN what|WP can|MD the|DT data|NNS say”|-NONE- abhijit|NN banerjee|NN and|CC esther|NN duflo|NN of|IN mit|NN concluded|VBD that|IN the|DT answer|NN was|VBD “not|JJ very|RB much”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START more|JJR recent|JJ studies|NNS however|RB support|NN the|DT idea|NN that|IN inequality|NN can|MD be|VB inefficient|VBN </s>|S_END
+<s>|S_START in|IN an|DT influential|JJ analysis|NN in|IN 2011|CD two|CD imf|JJ economists|NNS andrew|VBP berg|NN and|CC jonathan|IN ostry|NN looked|VBD at|IN the|DT length|NN of|IN “growth|JJ spells”|NN rather|RB than|IN simply|RB comparing|VBG growth|NN rate|NN </s>|S_END
+<s>|S_START they|PRP found|VBD that|IN growth|NN was|VBD more|JJR persistent|JJ in|IN more|JJR equal|JJ countries|NNS and|CC that|IN income|NN distribution|NN mattered|VBD more|JJR for|IN the|DT length|NN of|IN growth|NN spells|NNS than|IN either|DT the|DT degree|NN of|IN trade|NN liberalisation|NN or|CC the|DT quality|NN of|IN a|DT country’s|JJ political|JJ institution|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START other|JJ researchers|NNS have|VBP tried|VBN to|TO isolate|VB the|DT “unhealthy”|NN types|NNS of|IN inequality|NN using|VBG the|DT two|CD indices|NNS of|IN inequality|NN of|IN opportunity|NN first|RB developed|VBD by|IN the|DT world|NN bank|NN and|CC described|VBD earlier|RBR in|IN this|DT special|JJ report|NN </s>|S_END
+<s>|S_START two|CD spanish|JJ economists|NNS gustavo|VBP marrer0|NNP and|CC juan|JJ gabriel|NN rodríguez|NN built|VBN an|DT index|NN of|IN economic|JJ opportunity|NN for|IN individual|JJ american|NN state|NN </s>|S_END
+<s>|S_START they|PRP found|VBD that|IN states’|-NONE- gdp|VBP growth|NN was|VBD inversely|RB correlated|VBN with|IN their|PRP$ inequality|NN of|IN opportunity|NN but|CC not|RB with|IN overall|JJ inequality|NN </s>|S_END
+<s>|S_START in|IN a|DT forthcoming|JJ world|NN bank|NN working|VBG paper|NN ezequiel|NN molina|NN jaime|NN saavedra|NN and|CC ambar|NN narayan|NN find|NN that|IN countries|NNS with|IN lower|JJR educational|JJ equality|NN as|IN measured|VBN by|IN the|DT human|JJ opportunity|NN index|NN grow|NN more|RBR slowly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT line|NN of|IN research|NN is|VBZ in|IN its|PRP$ early|JJ stages|NNS but|CC a|DT second|JJ strand|NN of|IN evidence|NN which|WDT examines|NNS the|DT link|NN between|IN inequality|NN and|CC social|JJ mobility|NN is|VBZ more|RBR developed|VBN </s>|S_END
+<s>|S_START there|EX are|VBP now|RB plenty|JJ of|IN studies|NNS which|WDT use|NN the|DT intergenerational|JJ elasticity|NN of|IN income|NN to|TO measure|VB social|JJ mobility|NN in|IN different|JJ countrie|NN </s>|S_END
+<s>|S_START miles|NNS corak|VBP a|DT canadian|JJ economist|NN first|RB plotted|VBN the|DT results|NNS of|IN these|DT studies|NNS on|IN a|DT single|JJ graph|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ known|VBN as|IN the|DT “great|JJ gatsby|NN curve”|NN see|NN chart|NN 4|CD and|CC suggests|VBZ that|IN countries|NNS with|IN higher|JJR gini|NNS coefficients|NNS tend|VBP to|TO have|VB lower|JJR intergenerational|JJ social|JJ mobility|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START perpetuating|VBG advantage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN some|DT ways|NNS the|DT link|NN between|IN wider|NN income|NN gaps|NNS and|CC lower|JJR social|JJ mobility|NN is|VBZ unsurprising|VBG </s>|S_END
+<s>|S_START from|IN violin|NN lessons|NNS to|TO tutors|NNS for|IN tests|NNS richer|JJR parents|NNS can|MD invest|VB more|RBR in|IN their|PRP$ children|NNS improving|VBG their|PRP$ chances|NNS of|IN getting|VBG into|IN the|DT best|JJS universitie|NN </s>|S_END
+<s>|S_START the|DT meritocratic|JJ assumption|NN is|VBZ that|IN public|JJ provision|NN of|IN basic|JJ services|NNS particularly|RB education|NN does|VBZ enough|RB to|TO counter|VB this|DT advantage|NN to|TO give|VB everyone|NN a|DT reasonable|JJ start|NN </s>|S_END
+<s>|S_START that|DT was|VBD never|RB true|JJ in|IN poor|JJ countries|NNS with|IN rudimentary|JJ social|JJ service|NN </s>|S_END
+<s>|S_START increasingly|RB it|PRP does|VBZ not|RB seem|VB to|TO be|VB true|JJ in|IN rich|JJ ones|NNS either|CC particularly|RB america|JJ </s>|S_END
+<s>|S_START but|CC the|DT link|NN between|IN inequality|NN and|CC declining|VBG mobility|NN is|VBZ not|RB inevitable|JJ </s>|S_END
+<s>|S_START countries|NNS such|JJ as|IN sweden|JJ that|IN invest|JJS heavily|RB and|CC progressively|RB in|IN public|JJ services|NNS are|VBP more|RBR likely|JJ to|TO prevent|VB widening|NN income|NN inequality|NN from|IN reducing|VBG opportunity|NN </s>|S_END
+<s>|S_START and|CC latin|VBP america|NN shows|NNS that|WDT investing|VBG more|JJR in|IN education|NN at|IN the|DT bottom|NN can|MD improve|VB social|JJ mobility|NN even|RB in|IN the|DT most|RBS stratified|JJ place|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lower|JJR growth|NN rates|NNS may|MD not|RB be|VB the|DT only|JJ symptom|NN of|IN economic|JJ damage|NN from|IN inequality|NN </s>|S_END
+<s>|S_START another|DT could|MD be|VB macroeconomic|JJ instability|NN </s>|S_END
+<s>|S_START in|IN an|DT influential|JJ recent|JJ book|NN “fault|NN lines”|NN raghuram|NN rajan|NN pointed|VBD to|TO inequality|NN as|IN the|DT underlying|VBG cause|NN of|IN america’s|JJ 2008|CD crash|NN </s>|S_END
+<s>|S_START as|IN lesseducated|VBN americans|NNS saw|VBD their|PRP$ incomes|NNS fall|VBP he|PRP suggested|VBD politicians|NNS encouraged|VBN reckless|NN mortgage|NN lending|VBG so|RB that|IN poorer|NN folk|NN could|MD keep|VB up|RP their|PRP$ living|NN standards|NNS by|IN borrowing|NN </s>|S_END
+<s>|S_START this|DT argument|NN echoed|VBD john|NN kenneth|NN galbraith|IN who|WP wrote|VBD in|IN the|DT 1950s|CD that|WDT “bad|JJ distribution|NN of|IN income”|NNP was|VBD the|DT main|JJ cause|NN of|IN the|DT depression|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT thesis|NN seems|VBZ plausible|JJ </s>|S_END
+<s>|S_START there|EX is|VBZ evidence|NN that|IN widening|VBG income|NN gaps|NNS in|IN america|NN pushed|VBD less|JJR affluent|NN people|NNS to|TO stretch|VB their|PRP$ finances|NNS particularly|RB to|TO buy|VB pricier|JJR house|NN </s>|S_END
+<s>|S_START robert|NN frank|VBD an|DT economist|NN at|IN cornell|NN university|NN has|VBZ documented|VBN “expenditure|JJ cascades”|NN where|WRB rich|JJ people’s|NNS spending|NN patterns|NNS affect|VBP those|DT of|IN the|DT nearrich|NN </s>|S_END
+<s>|S_START one|CD reason|NN is|VBZ that|IN the|DT less|JJR affluent|NN want|NN their|PRP$ children|NNS to|TO go|VB to|TO the|DT best|JJS schools|NNS and|CC house|VB prices|NNS often|RB reflect|VBP the|DT quality|NN of|IN the|DT local|JJ school|NN </s>|S_END
+<s>|S_START other|JJ scholars|NNS have|VBP spotted|VBN a|DT link|NN between|IN inequality|NN and|CC financial|JJ distre|NN </s>|S_END
+<s>|S_START david|VBD moss|NNS at|IN harvard|NN business|NN school|NN for|IN instance|NN found|VBD that|IN the|DT rate|NN of|IN american|JJ bank|NN failures|NNS was|VBD highly|RB correlated|VBN with|IN the|DT level|NN of|IN inequality|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT link|NN is|VBZ not|RB ubiquitou|PRP </s>|S_END
+<s>|S_START in|IN germany|NN and|CC especially|RB in|IN china|NN higher|JJR inequality|NN has|VBZ encouraged|VBN saving|VBG rather|RB than|IN spending|NN </s>|S_END
+<s>|S_START nor|CC are|VBP financial|JJ crises|NNS always|RB preceded|VBN by|IN widening|NN income|NN gap|NN </s>|S_END
+<s>|S_START michael|NN bordo|VBP of|IN rutgers|NNS university|NN and|CC christopher|NN meissner|NN of|IN the|DT university|NN of|IN california|NN davis|NNS looked|VBD at|IN 14|CD financial|JJ busts|NNS in|IN rich|JJ countries|NNS between|IN 1920|CD and|CC 2008|CD and|CC found|VBN that|IN these|DT crises|NNS were|VBD typically|RB preceded|VBN by|IN credit|NN booms|NNS but|CC only|RB occasionally|RB by|IN rising|VBG inequality|NN </s>|S_END
+<s>|S_START in|IN the|DT most|RBS comprehensive|JJ analysis|NN anthony|NN atkinson|NN and|CC salvatore|VB morelli|NN of|IN oxford|NN university|NN looked|VBD at|IN financial|JJ crises|NNS in|IN 25|CD countries|NNS over|IN the|DT past|JJ 100|CD years|NNS and|CC concluded|VBD that|IN there|EX was|VBD no|DT systematic|JJ relationship|NN between|IN inequality|NN and|CC macroeconomic|JJ disaster|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ince|NN both|DT the|DT levels|NNS and|CC the|DT origins|NNS of|IN inequality|NN vary|NN widely|RB it|PRP is|VBZ hardly|RB surprising|JJ that|IN there|EX is|VBZ no|DT established|VBN relationship|NN between|IN income|NN gaps|NNS and|CC financial|JJ crise|NN </s>|S_END
+<s>|S_START that|DT does|VBZ not|RB mean|VB inequality|NN never|RB aggravates|VBZ macroeconomic|JJ instability|NN but|CC unfortunately|RB critics|NNS of|IN inequality|NN often|RB exaggerate|JJ their|PRP$ claim|NN </s>|S_END
+<s>|S_START a|DT case|NN in|IN point|NN is|VBZ “the|NNP spirit|NN level”|-NONE- a|DT book|NN by|IN two|CD british|JJ epidemiologists|NNS richard|VBP wilkinson|NN and|CC kate|VB pickett|NN published|VBN in|IN 2009|CD </s>|S_END
+<s>|S_START they|PRP claimed|VBD that|IN higher|JJR levels|NNS of|IN inequality|NN were|VBD associated|VBN with|IN higher|JJR murder|NN rates|NNS lower|JJR life|NN expectancy|NN more|RBR obesity|NN and|CC all|DT manner|NN of|IN other|JJ ill|NN </s>|S_END
+<s>|S_START their|PRP$ explanation|NN was|VBD a|DT medical|JJ one|CD </s>|S_END
+<s>|S_START inequality|NN literally|RB gets|VBZ “under|JJ your|PRP$ skin”|NN because|IN the|DT stress|NN of|IN keeping|VBG up|RP with|IN the|DT joneses|NNS raises|VBZ cortisol|NN level|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “the|DT spirit|NN level”|NN caused|VBD a|DT sensation|NN when|WRB it|PRP was|VBD first|JJ published|VBN in|IN britain|NN probably|RB because|IN it|PRP reflected|VBD the|DT postcrash|NN zeitgeist|NN </s>|S_END
+<s>|S_START its|PRP$ conclusions|NNS however|RB have|VBP been|VBN largely|RB debunked|VBN </s>|S_END
+<s>|S_START in|IN a|DT devastating|NN critique|NN published|VBD by|IN the|DT democracy|NN institute|NN christopher|NN snowdon|NN showed|VBD that|IN mr|NN wilkinson|NN and|CC ms|NNS pickett|VBP made|VBN highly|RB selective|JJ use|NN of|IN statistic|JJ </s>|S_END
+<s>|S_START other|JJ more|JJR careful|JJ studies|NNS show|VBP that|IN although|IN there|EX is|VBZ a|DT strong|JJ relationship|NN between|IN individual|JJ income|NN and|CC health|NN richer|NN people|NNS tend|VBP to|TO be|VB healthier|JJR and|CC live|JJ longer|NN than|IN poorer|NN ones|NNS the|DT link|NN between|IN countries’|JJ income|NN gaps|NNS and|CC their|PRP$ citizens’|NN health|NN is|VBZ weak|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START exaggerated|VBD claims|NNS of|IN the|DT damage|NN from|IN inequality|NN have|VBP themselves|PRP done|VBN damage|NN by|IN reinforcing|NN caricatures|NNS in|IN an|DT already|RB highly|RB charged|VBN debate|NN </s>|S_END
+<s>|S_START quite|RB legitimately|RB different|JJ people|NNS have|VBP different|JJ notions|NNS of|IN what|WP is|VBZ fair|JJ and|CC what|WP is|VBZ the|DT right|NN balance|NN between|IN fairness|NN and|CC efficiency|NN </s>|S_END
+<s>|S_START but|CC whatever|RB their|PRP$ views|NNS there|RB is|VBZ a|DT reform|NN agenda|NN which|WDT both|DT sides|NNS should|MD embrace|VB one|CD that|WDT both|DT boosts|NNS efficiency|NN and|CC mitigates|VBZ inequality|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,56 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN in|IN its|PRP$ latest|JJS retail|JJ strategy|NN ahead|RB of|IN the|DT holiday|NN shopping|VBG season|NN toys|NNS r|VBP us|PRP will|MD match|VB its|PRP$ prices|NNS against|IN competing|VBG retailers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT retailer|NN said|VBD that|IN it|PRP will|MD offer|VB a|DT price|NN match|NN guarantee|NN on|IN all|DT items|NNS from|IN toys|NNS r|VBP us|PRP or|CC babies|NNS r|VBP us|PRP stores|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START now|RB through|IN christmas|NNS eve|VBP the|DT company|NN will|MD match|VB competitors|NNS instore|IN pricing|NN on|IN identical|JJ items|NNS any|DT time|NN a|DT customer|NN presents|NNS a|DT local|JJ competitors|NNS current|JJ valid|NN print|NN advertisement|NN showing|VBG the|DT item|NN available|JJ for|IN less|JJR said|VBD toys|NNS r|NN us|PRP on|IN tuesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT retailer|NN said|VBD the|DT deal|NN extends|NNS to|TO include|VB the|DT seven|CD days|NNS after|IN the|DT purchase|NN at|IN toys|NNS r|VBP us|PRP is|VBZ made|VBN </s>|S_END
+<s>|S_START customers|NNS can|MD get|VB a|DT price|NN adjustment|NN on|IN their|PRP$ purchase|NN if|IN they|PRP see|VBP the|DT items|NNS advertised|VBN for|IN a|DT lower|JJR price|NN up|RB to|TO seven|CD days|NNS after|IN their|PRP$ purchase|NN at|IN toys|NNS r|VBP us|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ the|DT latest|JJS salvo|NN that|WDT toys|VBZ r|NN us|PRP has|VBZ launched|VBN against|IN competing|VBG retailers|NNS like|IN walmart|NN stores|NNS wmt|VBP fortune|NN 500|CD target|NN tgt|NN fortune|NN 500|CD macys|NNS m|NN fortune|NN 500|CD kohls|NNS kss|NNS fortune|VBP 500|CD and|CC sears|NNS shld|VBD fortune|NN 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START toys|NNS r|VBP us|PRP recently|RB announced|VBD a|DT free|JJ layaway|NN plan|NN ahead|RB of|IN the|DT holidays|NNS and|CC a|DT hot|JJ toy|NN reservation|NN offer|NN </s>|S_END
+<s>|S_START the|DT free|JJ layaway|NN offer|NN runs|VBZ through|IN oct|NN 31|CD after|IN which|WDT the|DT retailer|NN will|MD charge|VB a|DT $|$ 5|CD service|NN fee|NN </s>|S_END
+<s>|S_START the|DT hot|JJ toy|NN offer|NN allows|VBZ customers|NNS to|TO reserve|VB certain|JJ toys|NNS with|IN a|DT 20|CD deposit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START walmart|NN has|VBZ also|RB tried|VBD to|TO make|VB its|PRP$ layaway|NN program|NN more|RBR appealing|VBG to|TO consumers|NNS by|IN reducing|VBG its|PRP$ upfront|NN fee|NN to|TO $|$ 5|CD from|IN $|$ 15|CD </s>|S_END
+<s>|S_START walmart|NN also|RB offers|VBZ an|DT ad|NN match|NN program|NN where|WRB it|PRP matches|VBZ the|DT lower|JJR prices|NNS advertised|VBN by|IN local|JJ competitors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD hot|VBN toys|NNS for|IN the|DT holidays|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START toys|NNS r|VBP us|PRP also|RB announced|VBD that|IN its|PRP$ ramping|NN up|RP holiday|NN hiring|VBG this|DT year|NN by|IN hiring|NN 45000|CD seasonal|JJ workers|NNS </s>|S_END
+<s>|S_START thats|NNS 5000|CD more|JJR than|IN last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START kohls|NNS also|RB announced|VBD plans|NNS to|TO increase|VB holiday|NN hiring|VBG </s>|S_END
+<s>|S_START the|DT retailer|NN will|MD hire|VB 52700|CD seasonal|JJ workers|NNS a|DT 10|CD jump|NN compared|VBN to|TO last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START not|RB to|TO be|VB outdone|VBN macys|NNS is|VBZ planning|VBG to|TO hire|VB 80000|CD holiday|NN workers|NNS to|TO staff|NN its|PRP$ macys|NNS and|CC bloomingdales|NNS stores|NNS </s>|S_END
+<s>|S_START thats|NNS an|DT increase|NN of|IN 2000|CD from|IN last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START retailers|NNS are|VBP bracing|VBG for|IN black|JJ friday|NN the|DT day|NN after|IN thanksgiving|NN </s>|S_END
+<s>|S_START its|PRP$ one|CD of|IN the|DT most|RBS important|JJ shopping|NN days|NNS of|IN the|DT year|NN and|CC a|DT critical|JJ gauge|NN of|IN the|DT consumerdriven|NN economy|NN </s>|S_END
+</p>|P_END
+

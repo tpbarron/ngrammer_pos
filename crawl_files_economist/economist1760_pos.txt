@@ -1,0 +1,45 @@
+<p>|P_START
+<s>|S_START among|IN the|DT first|JJ visitors|NNS to|TO the|DT elysée|JJ palace|NN after|IN françois|NNP hollandes|VBZ victory|NN in|IN the|DT french|JJ presidential|JJ election|NN last|JJ month|NN were|VBD tradeunion|NN leaders|NNS from|IN arcelormittals|NNS steel|NN factory|NN at|IN florange|NN in|IN lorraine|NN </s>|S_END
+<s>|S_START the|DT region|NN is|VBZ the|DT crucible|JJ of|IN frances|NNS traditional|JJ heavy|JJ industry|NN people|NNS have|VBP been|VBN making|VBG iron|NN in|IN lorraine|NN for|IN more|JJR than|IN 300|CD year|NN </s>|S_END
+<s>|S_START but|CC the|DT blastfurnace|NN fires|NNS started|VBD to|TO go|VB out|RP last|JJ year|NN when|WRB recession|NN slashed|VBD demand|NN for|IN steel|NN and|CC forced|VBD arcelormittal|JJ the|DT worlds|NNS biggest|JJS steelmaker|NN by|IN some|DT distance|NN to|TO start|VB closing|JJ its|PRP$ least|JJS efficient|JJ plant|NN </s>|S_END
+<s>|S_START by|IN october|NN both|DT floranges|NNS furnaces|NNS had|VBD been|VBN snuffed|VBN out|RP supposedly|RB for|IN a|DT year|NN </s>|S_END
+<s>|S_START last|JJ month|NN the|DT company|NN said|VBD they|PRP would|MD stay|VB cool|JJ for|IN another|DT six|CD month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT unions|NNS fear|VBP that|IN they|PRP will|MD never|RB be|VB fired|VBN up|RP again|RB and|CC that|IN steelmaking|VBG on|IN a|DT symbolic|JJ site|NN will|MD come|VB to|TO an|DT end|NN </s>|S_END
+<s>|S_START after|IN the|DT union|NN leaders|NNS visit|NN mr|NN hollande|NN asked|VBD arnaud|NN de|IN montebourg|NN the|DT minister|NN for|IN productivity|NN to|TO get|VB an|DT expert|NN to|TO review|VB the|DT prospects|NNS for|IN florange|NN and|CC to|TO request|NN the|DT governments|NNS of|IN belgium|NN germany|NN luxembourg|NN and|CC spain|NN to|TO “act|JJ together|NN visàvis|NNS arcelormittal”—whatever|JJ that|IN mean|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START union|NN fears|NNS are|VBP probably|RB well|RB founded|VBN arcelormittal|JJ has|VBZ labelled|VBN florange|NN and|CC its|PRP$ plants|NNS at|IN liège|JJ in|IN belgium|NN “noncore”|NN </s>|S_END
+<s>|S_START the|DT company|NN has|VBZ already|RB started|VBN the|DT cumbersome|NN twoyear|NN process|NN needed|VBN under|IN belgian|JJ labour|NN law|NN to|TO close|VB liège|JJ permanently|RB </s>|S_END
+<s>|S_START although|IN it|PRP describes|VBZ the|DT florange|NN shutdown|NN as|IN temporary|JJ it|PRP plainly|RB wants|VBZ to|TO close|VB that|IN plant|NN for|IN good|NN too|RB although|IN it|PRP is|VBZ loth|DT to|TO say|VB so|RB in|IN public|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN overcapacity|NN in|IN europe|NN and|CC consolidation|NN worldwide|NN only|RB modern|JJ coastal|NN steelworks|NNS can|MD compete|VB </s>|S_END
+<s>|S_START older|JJR inland|NN sites|NNS originally|RB built|VBN atop|NN ironore|IN mines|NNS are|VBP now|RB seeing|VBG the|DT world|NN pass|NN them|PRP by|IN </s>|S_END
+<s>|S_START pressure|NN to|TO close|VB less|JJR efficient|JJ plants|NNS has|VBZ increased|VBN since|IN arcelor|NN and|CC corus|VBZ both|DT european|JJ firms|NNS were|VBD merged|VBN into|IN the|DT global|JJ mittal|NN and|CC tata|NN empires|NNS in|IN the|DT past|JJ five|CD years|NNS and|CC since|IN recession|NN put|VBD an|DT end|NN to|TO a|DT steel|NN boom|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT florange|NN site|NN has|VBZ more|JJR than|IN just|RB blast|JJ furnaces|NNS they|PRP employ|VBP only|RB about|IN 500|CD workers|NNS out|IN of|IN a|DT total|JJ of|IN 2700|CD </s>|S_END
+<s>|S_START the|DT rest|NN are|VBP in|IN rolling|VBG mills|NNS that|WDT prepare|NN finished|VBD steel|NN for|IN the|DT car|NN and|CC construction|NN industries|NNS or|CC in|IN research|NN and|CC development|NN </s>|S_END
+<s>|S_START with|IN the|DT blast|JJ furnaces|NNS shut|IN steel|NN slabs|NNS are|VBP shipped|VBN inland|NN from|IN the|DT companys|NNS coastal|VBP furnaces|NNS at|IN dunkirk|NN </s>|S_END
+<s>|S_START but|CC that|DT in|IN turn|NN is|VBZ less|JJR efficient|JJ than|IN doing|VBG everything|NN at|IN integrated|VBN coastal|JJ sites|NNS such|JJ as|IN dunkirk|NN which|WDT import|NN ore|VBP at|IN one|CD end|NN and|CC roll|NN out|RP finished|VBN steel|NN at|IN the|DT other|JJ </s>|S_END
+<s>|S_START o|NN the|DT fear|NN is|VBZ that|IN in|IN the|DT long|JJ term|NN even|RB the|DT rolling|NN mills|NNS at|IN florange|NN are|VBP doomed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ince|NN the|DT first|JJ blast|NN furnace|NN closed|VBD last|JJ summer|NN the|DT workers|NNS have|VBP been|VBN mounting|VBG periodic|JJ protests|NNS in|IN florange|NN and|CC occasionally|RB in|IN pari|NN </s>|S_END
+<s>|S_START the|DT accession|NN of|IN mr|NN hollandes|NNS socialist|VBP government|NN has|VBZ brought|VBN them|PRP powerful|JJ friends|NNS or|CC at|IN least|JJS demonstrative|JJ ones|NNS aurélie|JJ filippetti|NN the|DT minister|NN of|IN culture|NN turned|VBD up|RB outside|IN the|DT mill|NN to|TO toast|VB the|DT protesters|NNS with|IN champagne|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB arcelormittal|JJ says|NNS it|PRP has|VBZ had|VBN no|DT contact|NN with|IN the|DT elysée|JJ palace|NN </s>|S_END
+<s>|S_START the|DT company|NN which|WDT has|VBZ its|PRP$ headquarters|NNS in|IN london|NN and|CC luxembourg|NN employs|NNS 300000|CD people—20000|-NONE- in|IN france|NN where|WRB it|PRP is|VBZ a|DT leading|VBG foreign|JJ investor|NN </s>|S_END
+<s>|S_START its|PRP$ foreign|JJ ownership|NN may|MD be|VB one|CD reason|NN why|WRB it|PRP is|VBZ under|IN fire|NN from|IN the|DT new|JJ government|NN but|CC french|NN firms|NNS could|MD also|RB be|VB shot|VBN at|IN once|RB this|DT months|NNS parliamentary|VBP elections|NNS are|VBP out|IN of|IN the|DT way|NN </s>|S_END
+<s>|S_START psa|NN peugeotcitröen|JJ air|NN franceklm|NN and|CC carrefour|PRP$ are|VBP on|IN a|DT long|JJ list|NN of|IN firms|NNS said|VBD by|IN unions|NNS to|TO be|VB preparing|VBG to|TO announce|NN mass|NN redundancie|NN </s>|S_END
+</p>|P_END
+

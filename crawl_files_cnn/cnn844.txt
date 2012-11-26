@@ -1,0 +1,68 @@
+<p>
+<s>gigaomcom  last week redistogo started making its hosted version of the redis key value store available from amazon’s uswest facility data centers to all its customers</s>
+<s>this may not seem like groundbreaking news but it’s worth noting since redistogo was reliant on amazon useast the giant cloud provider’s oldest and biggest data center complex which has been subject to several glitches over the past year</s>
+<s>those issues have have taken down websites running on aws including reddit foursquare and heroku and led many to wonder why these techsavvy companies leave so much of their overall workload in that problematic facility</s>
+</p>
+
+<p>
+<s>according to the redistogo blog</s>
+</p>
+
+<p>
+<s>“2012 has been a rocky year for awseast</s>
+<s>we’ve seen several outages from freak storms to gremlins in the servers making it hard for anyone wanting to achieve 99999 uptime</s>
+<s>we’ve been planning multizones for a while but as hurricane sandy approached awseast we were ready for the worst</s>
+<s>we sent a mail to our customers and opened up our multizone to all customers as a manual process”</s>
+</p>
+
+<p>
+<s>after superstorm sandy — which did not impact useast after all but wreaked havoc on other data centers in new york and new jersey — redistogo offered the uswest zone to all its customers</s>
+</p>
+
+<p>
+<s>as reported before there are reasons that many companies relied so heavily on useast</s>
+<s>some amazon services debut there first and cost less than in other regions where higher labor and utility costs are passed along to customers</s>
+<s>but given the downtimes suffered by these aws customers you have to wonder if all of them are considering a similar move or even a move of some of their workloads to a second cloud provider</s>
+</p>
+
+<p>
+<s>rackspace which would very much like to displace amazon in large accounts is happy with the interest it’s gotten so far in its 3monthold openstackbased cloud compute offering</s>
+<s>now it needs to convert that interest into actual deals rackspace ceo lanham napier told me in an interview after the company’s q3 earnings call on tuesday night</s>
+</p>
+
+<p>
+<s>san antoniobased rackspace is the godfather of the openstack opensource cloud which is now managed by the openstack foundation and in the past few months it’s rolled out more pieces of that private and publiccloud puzzle</s>
+</p>
+
+<p>
+<s>on the public cloud side rackspace will take on amazon at least in service conscious shops that want and need support and service</s>
+<s>but it will also face off against a growing number of its openstack brethren — hewlettpackard cloudscaling internap red hat and others</s>
+<s>but the field is even more crowded than that with more established opensource cloud technologies from eucalyptus cloudstack and opennebula also in the mix</s>
+</p>
+
+<p>
+<s>when centurylink bought savvis two years ago the game plan was to combine centurylink’s telecom expertise with savvis’s data center knowhow to provide cloud infrastructure — which it’s been doing for enterprise customers in a custom oneoff manner</s>
+<s>now the company’s savvisdirect service in beta since last month provides ondemand selfprovisioning infrastructure by the hour according to informationweek</s>
+</p>
+
+<p>
+<s>while aws remains the dominant player in public cloud infrastructure it’s still early yet in the world of cloud migration</s>
+<s>the latest gartner magic quadrant ratings shows that dominance — gartner gives amazon its due</s>
+</p>
+
+<p>
+<s>“aws has by far the largest pool of capacity which makes it one of the few infrastructures suitable for batch computing especially those workloads that require shortterm provisioning of hundreds of servers at a time</s>
+<s>aws also offers specialized infrastructure options for highperformance computing and big data applications along with a “spot pricing” market for compute capacity”</s>
+</p>
+
+<p>
+<s>but aws is not invulnerable</s>
+<s>critics including gartner say its narrowlydefined service level agreements slas leave much to be desired by enterprise customers and that the bewildering array of separately priced cloud services is confusing</s>
+</p>
+
+<p>
+<s>probably most important there is an array of savvy iaas competitors coming down the pike including terremark  csc joyent tier3 networks virtustream and others gartner said</s>
+<s>not mentioned is google which launched the google compute engine in june</s>
+<s>i would be willing to bet that amazon has its eyes on that effort as well</s>
+</p>
+

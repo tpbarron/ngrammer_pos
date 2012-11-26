@@ -1,0 +1,45 @@
+<p>|P_START
+<s>|S_START people|NNS living|VBG in|IN the|DT towns|NNS of|IN subsaharan|NN africa|NN spend|NN a|DT bigger|NN share|NN of|IN their|PRP$ income|NN on|IN food|NN than|IN do|VB urban|JJ residents|NNS almost|RB anywhere|RB else|RB in|IN the|DT world|NN </s>|S_END
+<s>|S_START labourers|NNS often|RB use|VBP up|RP over|IN half|DT their|PRP$ wage|NN just|RB to|TO eat|VB </s>|S_END
+<s>|S_START and|CC since|IN africans|NNS tend|VBP to|TO depend|VB on|IN a|DT few|JJ staple|NN crops|NNS rises|NNS in|IN cereal|NN prices|NNS can|MD be|VB devastating|VBG </s>|S_END
+<s>|S_START more|JJR money|NN on|IN food|NN means|VBZ less|JJR on|IN school|NN fees|NNS sanitation|NN and|CC health|NN </s>|S_END
+<s>|S_START it|PRP may|MD also|RB mean|VB more|JJR girls|NNS forced|VBD into|IN prostitution|NN and|CC more|JJR violent|NN crime|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN some|DT african|JJ markets|NNS maize|VBP and|CC wheat|NN prices|NNS have|VBP risen|VBN by|IN 30|CD this|DT year|NN </s>|S_END
+<s>|S_START political|JJ tension|NN invariably|RB rises|VBZ too|RB </s>|S_END
+<s>|S_START burkina|NN faso|RB mozambique|JJ senegal|JJ and|CC uganda|NN have|VBP had|VBN foodrelated|VBN demonstrations|NNS and|CC riot|NN </s>|S_END
+<s>|S_START ome|NN people|NNS worry|VBP that|IN price|NN rises|NNS may|MD push|VB sierra|NN leone|NN back|RB into|IN chaos|NNS and|CC keep|VB côte|JJ divoire|NN on|IN edge|NN </s>|S_END
+<s>|S_START higher|JJR prices|NNS have|VBP left|VBN providers|NNS to|TO the|DT hungriest|JJS such|JJ as|IN the|DT uns|NNS world|NN food|NN programme|NN badly|RB short|JJ of|IN cash|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN african|VBD governments|NNS are|VBP managing|VBG food|NN markets|NNS well|RB </s>|S_END
+<s>|S_START kenya|NN recently|RB waived|VBD duty|NN on|IN wheat|NN and|CC maize|VB imports|NNS dampening|VBG prices|NNS as|IN well|RB as|IN anger|JJR </s>|S_END
+<s>|S_START other|JJ countries|NNS have|VBP offset|VBN increases|NNS by|IN launching|VBG foodforwork|NN schemes|NNS or|CC handing|VBG out|RP vouchers|NNS for|IN water|NN and|CC other|JJ services|NNS to|TO boost|VB the|DT amount|NN of|IN money|NN consumers|NNS can|MD spend|VB on|IN food|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC such|JJ methods|NNS can|MD not|RB work|VB for|IN ever|RB </s>|S_END
+<s>|S_START food|NN prices|NNS may|MD not|RB come|VB down|RB for|IN a|DT long|JJ time|NN </s>|S_END
+<s>|S_START moreover|RB shortages|VBZ in|IN africa|NN are|VBP partly|RB caused|VBN by|IN inefficient|NN farming|VBG an|DT estimated|VBN loss|NN of|IN 40|CD of|IN produce|NN on|IN the|DT way|NN to|TO market|NN and|CC the|DT high|JJ cost|NN of|IN fuel|NN </s>|S_END
+<s>|S_START and|CC while|IN africa|NN has|VBZ more|JJR virgin|NN farmland|NN than|IN anywhere|RB else|RB in|IN some|DT areas|NNS good|JJ land|NN is|VBZ scarce|NN </s>|S_END
+<s>|S_START many|JJ families|NNS for|IN instance|NN in|IN western|JJ kenya|NN or|CC northern|JJ ethiopia|NN have|VBP less|JJR than|IN the|DT 03|CD hectares|NNS 074|CD acres|NNS deemed|VBD the|DT minimum|JJ for|IN supporting|NN a|DT family|NN </s>|S_END
+<s>|S_START land|NN title|NN is|VBZ still|RB often|RB held|VBN communally|RB making|VBG it|PRP nighimpossible|JJ for|IN farmers|NNS to|TO get|VB credit|NN </s>|S_END
+<s>|S_START women|NNS especially|RB find|VBP it|PRP hard|RB to|TO get|VB property|NN rights|NNS though|IN they|PRP often|RB do|VBP most|RBS of|IN the|DT farm|NN work|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC not|RB all|DT is|VBZ gloom|NN </s>|S_END
+<s>|S_START just|RB as|IN high|JJ oil|NN prices|NNS help|VB africas|NNS petroleum|VB economies|NNS so|IN higher|JJR prices|NNS for|IN beans|NNS cereals|NNS dairy|VBP products|NNS and|CC meat|NN boost|NN smallholder|NN </s>|S_END
+<s>|S_START rwandas|NNS minister|VBP of|IN finance|NN john|NN rwangombwa|NN says|VBZ the|DT higher|JJR cost|NN of|IN food|NN imports|NNS in|IN his|PRP$ country|NN is|VBZ partly|RB offset|VBN by|IN increased|VBN revenues|NNS from|IN coffee|NN and|CC tea|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP hopes|NNS that|IN africa|NN will|MD increase|VB yields|NNS by|IN exploiting|VBG unfarmed|VBN land|NN building|NN more|RBR reservoirs|NNS warehouses|NNS and|CC roads|NNS using|VBG better|JJR seeds|NNS and|CC more|JJR fertiliser|NN and|CC installing|VBG drip|NN irrigation|NN </s>|S_END
+<s>|S_START farm|NN loans|NNS crop|NN insurance|NN and|CC saving|VBG schemes|NNS can|MD help|VB </s>|S_END
+<s>|S_START tanzanias|NNS president|NN jakaya|NN kikwete|NN says|VBZ a|DT $|$ 2|CD billion|CD scheme|NN in|IN his|PRP$ country|NN to|TO develop|VB a|DT transport|NN corridor|NN from|IN dar|NN es|NNS salaam|VBP the|DT commercial|JJ capital|NN to|TO lake|VB malawi|NN may|MD raise|VB production|NN to|TO record|VB level|NN </s>|S_END
+<s>|S_START but|CC indebted|VBD countries|NNS that|IN import|NN a|DT lot|NN of|IN food|NN such|JJ as|IN neighbouring|NN burundi|NN are|VBP likely|JJ to|TO get|VB even|RB poorer|JJR </s>|S_END
+</p>|P_END
+

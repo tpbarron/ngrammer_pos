@@ -1,0 +1,84 @@
+<p>|P_START
+<s>|S_START san|NN francisco|VBD cnnmoney|NN the|DT number|NN one|CD way|NN hackers|NNS get|VBP into|IN protected|VBN systems|NNS isnt|VBP through|IN a|DT fancy|NN technical|JJ exploit|NN </s>|S_END
+<s>|S_START its|PRP$ by|IN guessing|VBG the|DT password|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS not|RB too|RB hard|RB when|WRB the|DT most|RBS common|JJ password|NN used|VBN on|IN business|NN systems|NNS is|VBZ password1|NNP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START theres|NNS a|DT technical|JJ reason|NN for|IN password1s|NNP popularity|NN its|PRP$ got|NN an|DT uppercase|NN letter|NN a|DT number|NN and|CC nine|CD characters|NNS </s>|S_END
+<s>|S_START that|DT satisfies|VBZ the|DT complexity|NN rules|NNS for|IN many|JJ systems|NNS including|VBG the|DT default|NN settings|NNS for|IN microsofts|NNS msft|VBP fortune|NN 500|CD widely|RB used|JJ active|JJ directory|NN identity|NN management|NN software|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START security|NN services|NNS firm|NN trustwave|VBP spotlighted|VBN the|DT password1|NNP problem|NN in|IN its|PRP$ recently|RB released|VBN 2012|CD global|JJ security|NN report|NN which|WDT summarizes|VBZ the|DT firms|NNS findings|NNS from|IN nearly|RB 2|CD million|CD network|NN vulnerability|NN scans|NNS and|CC 300|CD recent|JJ security|NN breach|NN investigations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START around|IN 5|CD of|IN passwords|NNS involve|VBP a|DT variation|NN of|IN the|DT word|NN password|NN the|DT companys|NNS researchers|NNS found|VBD </s>|S_END
+<s>|S_START the|DT runnerup|NN welcome|NN turns|VBZ up|RP in|IN more|JJR than|IN 1|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START easily|RB guessable|JJ or|CC entirely|RB blank|NN passwords|NNS were|VBD the|DT most|JJS common|JJ vulnerability|NN trustwaves|NNS spiderlabs|NNS unit|NN found|VBD in|IN its|PRP$ penetration|NN tests|NNS last|JJ year|NN on|IN clients|NNS systems|NNS </s>|S_END
+<s>|S_START the|DT firm|NN set|VBD an|DT assortment|NN of|IN widely|RB available|JJ passwordcracking|NN tools|NNS loose|VBP on|IN 25|CD million|CD passwords|NNS and|CC successfully|RB broke|VB more|JJR than|IN 21|CD million|CD of|IN them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START verizon|NN came|VBD up|RP with|IN similar|JJ results|NNS in|IN its|PRP$ 2012|CD data|NNS breach|VBP investigations|NNS report|NN one|CD of|IN the|DT security|NN industrys|VBZ most|JJS comprehensive|JJ annual|JJ studies|NNS </s>|S_END
+<s>|S_START the|DT full|JJ report|NN will|MD be|VB released|VBN in|IN several|JJ months|NNS but|CC verizon|NN vz|NN fortune|NN 500|CD previewed|VBD some|DT of|IN its|PRP$ findings|NNS at|IN this|DT weeks|NNS rsa|VBP conference|NN in|IN san|NN francisco|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START exploiting|VBG weak|JJ or|CC guessable|JJ passwords|NNS was|VBD the|DT top|JJ method|NN attackers|NNS used|VBN to|TO gain|VB access|NN last|JJ year|NN </s>|S_END
+<s>|S_START it|PRP played|VBD a|DT role|NN in|IN 29|CD of|IN the|DT security|NN breaches|VBZ verizons|NNS response|NN team|NN investigated|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START verizons|NNS scariest|VBP finding|VBG was|VBD that|IN attackers|NNS are|VBP often|RB inside|JJ victims|NNS networks|NNS for|IN months|NNS or|CC years|NNS before|IN theyre|JJ discovered|VBN </s>|S_END
+<s>|S_START less|JJR than|IN 20|CD of|IN the|DT intrusions|NNS verizon|VBP studied|VBN were|VBD discovered|VBN within|IN days|NNS let|VBP alone|RB hours|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB scarier|JJR few|JJ companies|NNS discovered|VBN the|DT breach|NN on|IN their|PRP$ own|JJ </s>|S_END
+<s>|S_START more|JJR than|IN twothirds|NNS learned|VBD theyd|VBN been|VBN attacked|VBN only|RB after|IN an|DT external|JJ party|NN such|JJ as|IN a|DT lawenforcement|NN agency|NN notified|VBD them|PRP </s>|S_END
+<s>|S_START trustwaves|NNS findings|NNS were|VBD almost|RB identical|JJ only|RB 16|CD of|IN the|DT cases|NNS it|PRP investigated|VBD last|JJ year|NN were|VBD internally|RB detected|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN if|IN your|PRP$ password|NN is|VBZ something|NN guessable|JJ whats|NNS the|DT best|JJS way|NN to|TO make|VB it|PRP more|JJR secure|NN </s>|S_END
+<s>|S_START make|VB it|PRP longer|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START adding|VBG complexity|NN to|TO your|PRP$ password|NN swapping|VBG password|NN for|IN ps|NNS $|$ w0rd|NNP protects|NNS against|IN socalled|VBN dictionary|JJ attacks|NNS which|WDT automatically|RB check|VBP against|IN a|DT list|NN of|IN standard|JJ words|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC attackers|NNS are|VBP increasingly|RB using|VBG bruteforce|NN tools|NNS that|WDT simply|RB cycle|VBP through|IN all|DT possible|JJ character|NN combinations|NNS </s>|S_END
+<s>|S_START length|NN is|VBZ the|DT only|JJ effective|JJ guard|NN against|IN those|DT </s>|S_END
+<s>|S_START a|DT sevencharacter|NN password|NN has|VBZ 70|CD trillion|NN possible|JJ combinations|NNS an|DT eightcharacter|NN password|NN takes|VBZ that|IN to|TO more|JJR than|IN 6|CD quadrillion|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB a|DT few|JJ quadrillion|NN options|NNS isnt|VBP a|DT big|JJ deal|NN for|IN modern|JJ machines|NNS though|IN </s>|S_END
+<s>|S_START using|VBG a|DT $|$ 1500|CD computer|NN built|NN with|IN offtheshelf|PRP parts|NNS it|PRP took|VBD trustwave|VBP just|RB 10|CD hours|NNS to|TO harvest|VB its|PRP$ first|JJ 200000|CD broken|VBN passwords|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START weve|NN got|VBD to|TO get|VB ourselves|NNS using|VBG stuff|NN larger|JJR than|IN human|JJ memory|NN capacity|NN independent|NN security|NN researcher|NN dan|NN kaminsky|NN said|VBD during|IN an|DT rsa|NN presentation|NN on|IN why|WRB passwords|NNS dont|VBP work|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP acknowledged|VBD that|IN its|PRP$ an|DT uphill|NN fight|NN </s>|S_END
+<s>|S_START biometric|JJ authentication|NN smartcards|NNS onetime|VBP key|JJ generators|NNS and|CC other|JJ solutions|NNS can|MD increase|VB security|NN but|CC at|IN the|DT cost|NN of|IN adding|VBG complexity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fundamental|JJ win|NN of|IN the|DT password|NN over|IN every|DT other|JJ authentication|NN technology|NN is|VBZ its|PRP$ utter|NN simplicity|NN on|IN every|DT device|NN kaminsky|NN said|VBD </s>|S_END
+<s>|S_START this|DT is|VBZ of|IN course|NN also|RB their|PRP$ fundamental|JJ failing|VBG </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

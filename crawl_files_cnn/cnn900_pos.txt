@@ -1,0 +1,125 @@
+<p>|P_START
+<s>|S_START treasury|NN secretary|NN tim|NN geithner|NN identified|VBD problems|NNS with|IN libor|NN rate|NN setting|VBG process|NN when|WRB he|PRP was|VBD head|VBN of|IN new|JJ york|NN fed|VBN in|IN 08|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN documents|NNS released|VBN friday|NN show|NN a|DT barclays|NNS official|NN admitted|VBD to|TO the|DT new|JJ york|NN federal|JJ reserve|NN in|IN april|NN 2008|CD that|WDT the|DT bank|NN was|VBD underreporting|VBG interest|NN rates|NNS used|VBN to|TO calculate|VB the|DT key|JJ libor|NN rate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT barclays|NNS official|NN who|WP made|VBN the|DT admission|NN said|VBD the|DT underreporting|NN was|VBD done|VBN in|IN order|NN to|TO allay|VB concerns|NNS about|IN any|DT weakness|NN at|IN the|DT bank|NN </s>|S_END
+<s>|S_START he|PRP did|VBD not|RB disclose|VB that|IN it|PRP was|VBD done|VBN as|IN has|VBZ been|VBN revealed|VBN in|IN recent|JJ weeks|NNS in|IN order|NN to|TO unfairly|RB profit|NN in|IN derivatives|NNS trading|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT problems|NNS with|IN the|DT process|NN 18|CD major|JJ banks|NNS use|VBP to|TO set|VB libor|NN a|DT benchmark|NN rate|NN set|NN in|IN london|NN thats|NNS used|VBN to|TO determine|VB trillions|NNS of|IN dollars|NNS of|IN loans|NNS worldwide|VBP have|VBP come|VBN into|IN focus|NN in|IN the|DT past|JJ two|CD weeks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START barclays|NNS bcs|VBP the|DT uks|NNS no|DT </s>|S_END
+<s>|S_START 2|LS bank|NN admitted|VBD that|IN its|PRP$ employees|NNS regularly|RB manipulated|VBN libor|NN between|IN 2007|CD and|CC 2009|CD and|CC that|IN it|PRP was|VBD done|VBN at|IN the|DT request|NN of|IN traders|NNS at|IN the|DT bank|NN and|CC other|JJ banks|NNS </s>|S_END
+<s>|S_START barclays|NNS agreed|VBD to|TO pay|VB $|$ 453|CD million|CD to|TO us|PRP and|CC uk|VB regulators|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START barclays|NNS also|RB admitted|VBD its|PRP$ employees|NNS conspired|VBD with|IN other|JJ banks|NNS to|TO manipulate|VB the|DT rate|NN </s>|S_END
+<s>|S_START since|IN then|RB many|JJ of|IN the|DT worlds|NNS major|JJ banks|NNS including|VBG deutsche|NN bank|NN db|NN royal|NN bank|NN of|IN scotland|NN rbs|NNS credit|NN suisse|NN cs|NNS citigroup|NN c|NN fortune|NN 500|CD ubs|NNS ubs|NNS and|CC jpmorgan|VBD chase|NN jpm|NN fortune|NN 500|CD have|VBP disclosed|VBN that|IN they|PRP are|VBP being|VBG investigated|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC while|IN the|DT new|JJ york|NN fed|VBN officials|NNS were|VBD investigating|VBG the|DT misreporting|VBG of|IN the|DT libor|NN rates|NNS at|IN barclays|NNS and|CC elsewhere|RB it|PRP was|VBD not|RB looking|VBG at|IN derivative|JJ trading|NN as|IN the|DT incentive|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT barclays|NNS employee|VBP did|VBD not|RB state|VB that|IN his|PRP$ bank|NN had|VBD been|VBN involved|VBN in|IN manipulating|NN the|DT rate|NN for|IN its|PRP$ own|JJ trading|NN advantage|NN the|DT new|JJ york|NN fed|VBN said|VBD in|IN its|PRP$ release|NN of|IN documents|NNS involving|VBG barclays|NNS and|CC libor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT document|NN release|NN came|VBD at|IN the|DT request|NN of|IN rep|NN randy|NN neugebauer|NN a|DT texas|NN republican|NN who|WP chairs|NNS the|DT house|NN financial|JJ services|NNS oversight|NN subcommittee|NN </s>|S_END
+<s>|S_START he|PRP asked|VBD for|IN transcripts|NNS between|IN fed|VBN officials|NNS and|CC barclays|NNS dating|VBG from|IN august|JJ 2007|CD through|IN november|NN 2009|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fed|VBN said|VBD there|RB were|VBD concerns|NNS about|IN the|DT libor|NN rates|NNS being|VBG too|RB low|JJ as|IN early|JJ as|IN early|JJ as|IN august|JJ 2007|CD </s>|S_END
+<s>|S_START in|IN the|DT transcript|NN of|IN a|DT call|NN on|IN dec|NN 17|CD 2007|CD a|DT week|NN after|IN a|DT fed|VBN rate|NN cut|VBD between|IN unidentified|VBN barclays|NNS and|CC new|JJ york|NN fed|VBN officials|NNS the|DT barclays|NNS official|NN says|VBZ generally|RB libors|NNS being|VBG set|NN too|RB low|JJ anyway|NN </s>|S_END
+<s>|S_START but|CC there|EX was|VBD no|DT specific|JJ admission|NN of|IN barclays|NNS doing|VBG anything|NN wrong|IN in|IN that|DT call|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fed|VBN released|VBN a|DT transcript|NN of|IN a|DT call|NN between|IN new|JJ york|NN fed|VBN analyst|NN fabiola|NN ravazzolo|NN and|CC an|DT unidentified|JJ executive|NN at|IN barclays|NNS from|IN april|NN 11|CD 2008|CD in|IN which|WDT the|DT barclays|NNS official|NN admitted|VBD it|PRP wasnt|VBP honestly|RB reporting|VBG its|PRP$ real|JJ borrowing|VBG cost|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC he|PRP said|VBD it|PRP was|VBD being|VBG done|VBN to|TO avoid|VB making|VBG the|DT the|DT bank|NN appear|NN weak|NN less|RBR than|IN a|DT month|NN after|IN the|DT collapse|NN of|IN investment|NN bank|NN bear|NN stearns|NNS and|CC discourage|NN market|NN gossip|NN that|IN would|MD cause|VB its|PRP$ share|NN price|NN to|TO go|VB down|RP rather|RB than|IN to|TO try|NN to|TO come|VB out|RP on|IN top|JJ in|IN trading|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP know|VBP that|IN were|WRB not|RB posting|VBG um|NN an|DT honest|NN libor|NN he|PRP told|VBD fabiola|NN </s>|S_END
+<s>|S_START and|CC yet|RB we|PRP are|VBP doing|VBG it|PRP because|IN if|IN we|PRP didnt|VBP do|VBP it|PRP it|PRP draws|VBZ unwanted|VBN attention|NN on|IN ourselves|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT barclays|NNS official|NN also|RB offered|VBD his|PRP$ opinion|NN that|IN other|JJ banks|NNS were|VBD also|RB underreporting|VBG their|PRP$ libor|NN submissions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START treasury|NN secretary|NN tim|NN geithner|NN was|VBD the|DT president|NN of|IN the|DT new|JJ york|NN fed|VBN at|IN that|DT time|NN and|CC he|PRP became|VBD involved|VBN in|IN the|DT banks|NNS investigation|NN into|IN libor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN may|MD 1|CD 2008|CD he|PRP raised|VBD the|DT subject|NN at|IN a|DT meeting|NN of|IN the|DT presidents|NNS working|VBG group|NN on|IN financial|JJ markets|NNS a|DT body|NN that|WDT comprised|VBN the|DT heads|NNS of|IN all|DT the|DT various|JJ us|PRP financial|JJ regulatory|JJ agencies|NNS chaired|VBN by|IN treasury|NN </s>|S_END
+<s>|S_START new|JJ york|NN fed|VBN officials|NNS also|RB gave|VBD a|DT more|RBR detailed|JJ briefing|NN to|TO treasury|VB officials|NNS on|IN may|MD 6|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT june|NN 1|CD email|NN also|RB released|VBD friday|NN geithner|NN reported|VBD some|DT of|IN his|PRP$ concerns|NNS to|TO the|DT bank|NN of|IN england|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT email|NN geithner|NN made|VBD suggestions|NNS to|TO reduce|VB the|DT incentive|NN of|IN banks|NNS to|TO misreport|VB the|DT interest|NN rate|NN at|IN which|WDT they|PRP borrowed|VBD from|IN other|JJ banks|NNS reducing|VBG the|DT risk|NN they|PRP would|MD try|VB to|TO manipulate|VB the|DT market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT memo|NN sent|NN to|TO mervyn|VB king|NN the|DT governor|NN of|IN the|DT bank|NN of|IN england|NN does|VBZ not|RB specifically|RB charge|VB that|IN banks|NNS were|VBD gaming|VBG the|DT system|NN in|IN order|NN to|TO make|VB money|NN as|IN has|VBZ since|IN been|VBN revealed|VBN </s>|S_END
+<s>|S_START but|CC it|PRP said|VBD there|RB needed|VBN to|TO be|VB improvements|NNS in|IN the|DT integrity|NN and|CC transparency|NN of|IN the|DT ratesetting|NN process|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START kings|NNS response|VBP to|TO geithner|RBR said|VBD the|DT bank|NN of|IN england|NN would|MD ask|VB the|DT british|JJ bankers|NNS association|NN which|WDT oversees|NNS the|DT libor|NN collection|NN process|NN to|TO include|VB geithners|NNS suggestions|NNS in|IN its|PRP$ consultation|NN document|NN that|WDT it|PRP gives|VBZ to|TO the|DT major|JJ banks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT new|JJ york|NN fed|VBN which|WDT oversees|NNS many|JJ of|IN the|DT major|JJ us|PRP and|CC foreign|JJ banks|NNS with|IN operations|NNS on|IN wall|NN street|NN has|VBZ already|RB disclosed|VBN it|PRP asked|VBD barclays|NNS about|IN how|WRB it|PRP submitted|VBD its|PRP$ suggested|VBN libor|NN back|RB in|IN 2008|CD </s>|S_END
+<s>|S_START the|DT new|JJ york|NN fed|VBN said|VBD it|PRP had|VBD received|VBN occasional|JJ anecdotal|JJ reports|NNS from|IN barclays|NNS of|IN problems|NNS with|IN libor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT spokeswoman|NN for|IN the|DT treasury|NN department|NN had|VBD no|DT comment|NN on|IN geithners|NNS memo|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START libor|NN is|VBZ used|VBN as|RB a|DT benchmark|NN for|IN an|DT estimated|VBN $|$ 10|CD trillion|CD in|IN loans|NNS worldwide|VBP including|VBG the|DT interest|NN paid|VBD by|IN consumers|NNS on|IN many|JJ variablerate|NN mortgages|NNS and|CC credit|NN cards|NNS in|IN the|DT united|VBN states|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP also|RB is|VBZ used|VBN as|RB the|DT basis|NN for|IN trading|NN in|IN an|DT estimated|VBN $|$ 350|CD trillion|CD in|IN derivatives|NNS worldwide|VBP by|IN major|JJ banks|NNS so|IN the|DT manipulations|NNS may|MD have|VB cost|NN pension|NN funds|NNS and|CC local|JJ governments|NNS that|WDT were|VBD trying|VBG to|TO protect|VB themselves|PRP against|IN changes|NNS in|IN interest|NN rates|NNS by|IN buying|NN the|DT derivatives|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT british|JJ parliament|NN has|VBZ already|RB held|VBN hearings|NNS into|IN the|DT barclays|NNS libor|NN scandal|NN </s>|S_END
+<s>|S_START but|CC despite|IN the|DT request|NN for|IN documents|NNS by|IN neugebauers|NNS house|VBP subcommittee|NN there|EX have|VBP been|VBN no|DT hearings|NNS held|VBN in|IN the|DT united|VBN states|NNS so|RB far|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rep|NN peter|NN welch|NN a|DT vermont|NN democrat|NN is|VBZ circulating|VBG a|DT letter|NN among|IN members|NNS of|IN congress|NN calling|VBG on|IN attorney|NN general|NN eric|NN holder|NN to|TO carefully|RB investigate|JJ and|CC aggressively|RB prosecute|JJ all|DT senior|JJ bank|NN officials|NNS who|WP participated|VBN in|IN manipulating|NN libor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT justice|NN department|NN already|RB disclosed|VBN in|IN february|JJ that|IN it|PRP is|VBZ conducting|VBG a|DT criminal|JJ investigation|NN into|IN alleged|JJ manipulation|NN of|IN libor|NN </s>|S_END
+<s>|S_START that|DT disclosure|NN came|VBD in|IN a|DT filing|NN in|IN a|DT civil|JJ class|NN action|NN suit|NN revolving|VBG around|IN libor|NN manipulation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnnmoney|NN reporter|NN james|VBZ otoole|JJ and|CC cnns|NNS deirdre|VBP walsh|JJ contributed|VBN to|TO this|DT report |NN </s>|S_END
+</p>|P_END
+

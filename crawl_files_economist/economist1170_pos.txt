@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 32|CD gdp|NN $|$ 101bn|CD ppp|CD $|$ 168bn|CD inflation|NN 18|CD population|NN 331m|CD gdp|NN per|IN head|NN $|$ 3050|CD ppp|CD $|$ 5070|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START king|VBG mohammed|VBN vi|NN has|VBZ clipped|VBN local|JJ offshoots|NNS of|IN the|DT arab|NN spring|NN with|IN largesse|NN and|CC mild|NN political|JJ reform|NN although|IN protests|NNS will|MD continue|VB his|PRP$ position|NN is|VBZ safe|JJ </s>|S_END
+<s>|S_START the|DT status|NN quo|NN will|MD be|VB supported|VBN by|IN public|JJ spending|NN on|IN rural|JJ infrastructure|NN housing|NN the|DT poor|JJ and|CC improving|VBG health|NN and|CC education|NN </s>|S_END
+<s>|S_START remittances|NNS squeezed|VBD by|IN europes|NNS slowdown|IN will|MD offset|VB state|NN spending|NN holding|VBG the|DT economy|NN back |NN </s>|S_END
+</p>|P_END
+

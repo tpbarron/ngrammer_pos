@@ -1,0 +1,132 @@
+<p>
+<s>as every parent knows a tidy bedroom is very different from a messy one</s>
+<s>the number of items in the room may be exactly the same but the difference between orderly and disorderly arrangements is immediately apparent</s>
+<s>now imagine a house with millions of rooms each of which is either tidy or messy</s>
+<s>a robot in the house can inspect each room to see which state it is in</s>
+<s>it can also turn a tidy room into a messy one by throwing things on the floor at random and a messy room into a tidy one by tidying it up</s>
+<s>this in essence is how a new class of memory chip works</s>
+<s>it is called “phasechange memory” and like the flash memory that provides storage in mobile phones cameras and some laptops it can retain information even when the power is switched off</s>
+<s>but it promises to be smaller and faster than flash and will probably be storing your photos music and messages within a few years</s>
+</p>
+
+<p>
+<s>the technology relies as its name suggests on special substances called phasechange materials pcms</s>
+<s>these are materials such as salt hydrates that are capable of storing and releasing large amounts of energy when they move from a solid to a liquid state and back again</s>
+<s>traditionally they have been used in cooling systems and more recently in solarthermal power stations where they store heat during the day that can be released to generate power at night</s>
+<s>but for memory devices it is not their thermal properties that make pcms so attractive</s>
+<s>instead it is their ability to switch from a disorderly or amorphous state to an orderly or crystalline one very quickly</s>
+<s>pcm memory chips rely on glasslike materials called chalcogenides typically made of a mixture of germanium antimony and tellurium</s>
+</p>
+
+<p>
+<s>each cell in the memory chip consists of a region of chalcogenide sandwiched between two electrodes see diagram</s>
+<s>the bottom electrode is a resistor that heats up when a current passes through it</s>
+<s>delivering a gentle pulse of electrical energy to the cell turns on this tiny heater and causes the chalcogenide to melt</s>
+<s>as it cools it forms an orderly crystalline structure</s>
+<s>this state corresponds to the memory cell storing a “1”</s>
+<s>applying a shorter stronger pulse of energy to the cell melts the chalcogenide but does not allow crystals to form as it cools</s>
+<s>instead the region of the material above the bottom electrode assumes a disorderly amorphous state corresponding to the cell storing a “0”</s>
+<s>the amorphous state has a higher electrical resistance than the crystalline state allowing the value stored in the cell to be determined</s>
+<s>for this reason pcm memory is sometimes called “resistive memory” and its individual cells are sometimes referred to as “memristors”</s>
+</p>
+
+<p>
+<s>you may already be relying on chalcogenides to store data without realising it because they are used in rewriteable optical storage such as cdrw and dvdrw discs</s>
+<s>bursts of energy from a laser put tiny regions of the material into amorphous or crystalline states to store information</s>
+<s>the amorphous state reflects light less effectively than the crystalline state allowing the data to be read back again</s>
+<s>the technology has in other words already proved that it can work</s>
+<s>now companies like micron technology samsung and sk hynix—the three giants of digital storage—are applying it inside memory chips</s>
+<s>the technology has worked well in the laboratory for some time and has been used in a handful of specialist applications since 2007</s>
+<s>but it is moving towards the mainstream consumer market</s>
+<s>micron started selling its first pcmbased memory chips for mobile phones in july offering 512megabit and onegigabit storage capacity</s>
+</p>
+
+<p>
+<s>thanks for the memories</s>
+</p>
+
+<p>
+<s>pcm memory chips have several advantages over flash memory which works by trapping electrons in an enclosure called a “floating gate” built on top of a modified form of transistor</s>
+<s>the value stored in each cell is 1 or 0 depending on whether the enclosure is full or empty</s>
+<s>but writing to individual flashmemory cells involves erasing an entire region of neighbouring cells first</s>
+<s>this is not necessary with pcm memory which makes it much faster says paolo giuseppe cappelletti who is in charge of micron’s pcm memory project at agrate brianza in italy</s>
+<s>indeed some prototype pcm memory devices can store and retrieve data 100 times faster than flash memory says evangelos eleftheriou head of storage technologies at ibm’s zurich research laboratory in switzerland</s>
+</p>
+
+<p>
+<s>another benefit of pcm memory is that it is extremely durable capable of being written and rewritten at least 10m times</s>
+<s>flash memory by contrast wears out after a few thousand rewrite cycles because of the high voltages that are required to shepherd electrons in and out of the floatinggate enclosure</s>
+<s>accordingly flash memory needs special controllers to keep track of which parts of the chip have become unreliable so they can be avoided</s>
+<s>this increases the cost and complexity of flash and slows it down</s>
+</p>
+
+<p>
+<s>in addition pcm offers greater potential for future miniaturisation than flash</s>
+<s>as flashmemory cells get smaller and devices become denser the number of electrons held in the floating gate decreases</s>
+<s>because the number of electrons is finite there will soon come a point at which this design cannot be shrunk any further says tom eby the head of micron’s embedded solutions group</s>
+<s>“we need a fundamentally different approach” he says</s>
+<s>last year a group led by eric pop at the university of illinois urbanachampaign demonstrated how a prototype pcm memory cell could be made that was just 10 nanometres across bridging a gap between two carbonnanotube electrodes</s>
+<s>the research published in the journal science also showed marked improvements in energy consumption compared with flash</s>
+</p>
+
+<p>
+<s>as well as allowing for smaller cell sizes pcm memory could pack in more data by storing more than one binary digit in each cell</s>
+<s>some flashmemory devices already do this using a trick called “multilevel cells” mlc</s>
+<s>instead of each floating gate being either full or empty two intermediate states are also used</s>
+<s>there are then four states in total which are taken to represent 00 01 10 and 11 rather than just the usual 0 and 1</s>
+<s>two binary digits or bits are then held in each cell doubling the capacity of the memory</s>
+<s>similarly increasing the number of states to eight allows each to hold three bits</s>
+<s>but this trick will become even trickier to pull off as memory devices get smaller</s>
+<s>today’s flashmemory cells have only a few dozen electrons in the floating gate when full</s>
+<s>“currently a few tens of electrons are used to differentiate between various programmed states in mlc flash” says haris pozidis of ibm</s>
+<s>he and dr eleftheriou have been applying the multilevel idea to pcm memory</s>
+</p>
+
+<p>
+<s>this involves careful control of the length of the energy pulse that creates an amorphous region in the memory cell</s>
+<s>a shorter pulse creates a smaller amorphous region</s>
+<s>the smaller the region the lower the electrical resistance of the cell</s>
+<s>it is therefore possible to get a single cell to store multiple bits</s>
+<s>precisely how many remains to be seen</s>
+<s>the ibm researchers have built pcm memory chips with 16 states or four bits per cell and david wright a datastorage researcher at the university of exeter in england has built individual pcm memory cells with 512 states or nine bits per cell</s>
+<s>but the larger the number of states the more difficult it becomes to differentiate between them and the higher the sensitivity of the equipment required to detect them he says</s>
+</p>
+
+<p>
+<s>catch my drift</s>
+</p>
+
+<p>
+<s>there is also the problem of drift</s>
+<s>this is where the resistance of a cell changes gradually in the days and weeks after its state has been updated</s>
+<s>for a singlebit cell this is not a problem because the difference in resistance between its possible two states is large so a small variation does not really matter</s>
+<s>but for multilevel cells drift can eventually cause errors</s>
+<s>to make matters worse the amount of drift is nonlinear says dr eleftheriou and depends on how large the amorphous region is</s>
+</p>
+
+<p>
+<s>but the ibm researchers think they have hit upon a solution by modifying the way cells are written to and read from</s>
+<s>when writing a value into a cell the cell’s resistance is measured after the energy pulse is applied and more pulses are applied if necessary to ensure that the final resistance is set precisely to the appropriate value</s>
+<s>even in the worstcase scenario in which multiple pulses are needed writing to the pcm memory is still 100 times faster than writing to flash</s>
+<s>this approach also makes up for slight variations in the resistance of different cells in a pcm memory</s>
+</p>
+
+<p>
+<s>in addition the ibm researchers devised a “drifttolerant” method to read the value in a cell by reading multiple cells simultaneously and comparing their relative values to determine the state of each one</s>
+<s>they have also developed a way to measure the thickness of the amorphous region more accurately by analysing its electrical properties when a known current is passed through it</s>
+<s>drift causes the resistance of a cell to change but not the thickness of the amorphous region so this provides a more robust way to measure the cell’s state</s>
+</p>
+
+<p>
+<s>ibm is now working with sk hynix to bring multilevel pcmbased memory chips to market</s>
+<s>the aim is to create a form of memory capable of bridging the gap between flash which is used for storage and dynamic randomaccess memory which computers use as shortterm working memory but which loses its contents when switched off</s>
+<s>pcm memory which ibm hopes will be on sale by 2016 would be able to serve simultaneously as storage and working memory—a new category it calls “storageclass memory”</s>
+</p>
+
+<p>
+<s>this in turn could open the door to new computer architectures in which information does not have to be shuffled from relatively slow storage devices to much faster working memory</s>
+<s>such architectures would be capable of crunching huge amounts of information such as the data that will be gathered by the square kilometre array telescope far more efficiently than existing machines says dr eleftheriou</s>
+<s>pcm memory does not merely threaten to dethrone flash in short</s>
+<s>it could also lead to a radical shift in computer design—a phase change on a much larger scale</s>
+</p>
+

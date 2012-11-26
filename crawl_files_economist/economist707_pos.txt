@@ -1,0 +1,99 @@
+<p>|P_START
+<s>|S_START arriving|VBG in|IN birmingham’s|JJ moor|NN street|NN station|NN visitors|NNS see|VBP something|NN odd|NN a|DT grand|NN romancolumned|VBN stone|NN building|NN seemingly|RB abandoned|VBN in|IN a|DT wasteland|NN of|IN tarmac|NN and|CC gra|NN </s>|S_END
+<s>|S_START this|DT neoclassical|JJ remnant|NN curzon|NN street|NN station|NN was|VBD the|DT original|JJ terminus|NN of|IN the|DT london|NN and|CC birmingham|NN railway|NN opened|VBD in|IN 1838|CD </s>|S_END
+<s>|S_START it|PRP closed|VBD to|TO passengers|NNS 55|CD years|NNS later|RBR having|VBG proved|VBN too|RB inconvenient|JJ </s>|S_END
+<s>|S_START like|IN many|JJ of|IN the|DT 19thcentury|JJ buildings|NNS in|IN birmingham’s|JJ eastside|NN it|PRP has|VBZ been|VBN derelict|JJ ever|NN since|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN an|DT efflorescence|NN of|IN striking|VBG architecture|NN both|DT old|JJ and|CC modern|JJ britain’s|NNS secondbiggest|VBP city|NN is|VBZ not|RB doing|VBG well|RB </s>|S_END
+<s>|S_START ome|NN 14|CD of|IN the|DT population|NN is|VBZ unemployed|VBN the|DT highest|JJS level|NN in|IN any|DT big|JJ city|NN in|IN the|DT country|NN </s>|S_END
+<s>|S_START in|IN the|DT innercity|NN wards|NNS of|IN aston|NN and|CC washwood|NN heath|NN the|DT figure|NN is|VBZ higher|JJR than|IN 30|CD </s>|S_END
+<s>|S_START twofifths|NNS of|IN birmingham’s|NNS population|NN live|VBP in|IN areas|NNS classified|VBN as|RB in|IN the|DT 10|CD most|JJS deprived|JJ parts|NNS of|IN england|NN </s>|S_END
+<s>|S_START the|DT city’s|JJ infant|NN mortality|NN rate|NN is|VBZ strikingly|RB high|JJ around|IN 60|CD worse|NN than|IN the|DT national|JJ average|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START birmingham|NN has|VBZ had|VBN lots|NNS of|IN bad|JJ luck|NN </s>|S_END
+<s>|S_START german|NN bombs|NNS destroyed|VBD much|RB of|IN the|DT old|JJ city|NN centre|NN disastrous|JJ postwar|NN planning|VBG strangled|VBN it|PRP with|IN a|DT concrete|JJ ring|NN road|NN </s>|S_END
+<s>|S_START then|RB came|VBD deindustrialisation|NN </s>|S_END
+<s>|S_START by|IN 1971|CD “the|NNP city|NN of|IN a|DT thousand|NN trades”|NN had|VBD become|VBN a|DT sort|NN of|IN british|JJ detroit|NN employing|VBG tens|NNS of|IN thousands|NNS of|IN car|NN worker|NN </s>|S_END
+<s>|S_START when|WRB militant|JJ unions|NNS and|CC incompetent|NN management|NN destroyed|VBD the|DT auto|NN industry|NN birmingham|NN was|VBD hit|VBN brutally|RB </s>|S_END
+<s>|S_START carmaking|VBG in|IN britain|NN is|VBZ now|RB thriving|VBG again—but|CC much|RB less|JJR of|IN it|PRP is|VBZ in|IN birmingham|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT city|NN has|VBZ tried|VBN to|TO reinvent|VB itself|PRP as|IN a|DT business|NN and|CC tourism|NN hub|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ built|VBN a|DT convention|NN centre|NN an|DT opera|NN house|NN and|CC a|DT spectacular|JJ shopping|NN mall|NN </s>|S_END
+<s>|S_START that|DT has|VBZ made|VBN the|DT city|NN a|DT more|RBR pleasant|JJ place|NN to|TO live|VB but|CC it|PRP has|VBZ not|RB replaced|VBN lost|RB manufacturing|VBG job|NN </s>|S_END
+<s>|S_START between|IN 1998|CD and|CC 2008|CD the|DT city|NN lost|VBD some|DT 61000|CD privatesector|NN jobs|NNS according|VBG to|TO the|DT centre|NN for|IN cities|NNS a|DT thinktank|NN </s>|S_END
+<s>|S_START ince|NN around|IN 2004|CD gross|NNS valueadded—a|-NONE- measure|NN of|IN output—has|JJ lagged|JJ see|NN chart|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START demography|NN is|VBZ a|DT structural|JJ challenge|NN </s>|S_END
+<s>|S_START ome|NN 22|CD of|IN birmingham’s|JJ population|NN is|VBZ under|IN the|DT age|NN of|IN 15|CD which|WDT puts|NNS the|DT city|NN on|IN a|DT par|NN with|IN vietnam|NN </s>|S_END
+<s>|S_START though|IN that|DT may|MD become|VB an|DT asset|NN it|PRP puts|VBZ pressure|NN on|IN public|JJ service|NN </s>|S_END
+<s>|S_START only|RB 25|CD of|IN the|DT workingage|NN population|NN have|VBP degreelevel|NN qualifications|NNS in|IN contrast|NN to|TO the|DT 38|CD who|WP do|VBP in|IN manchester|NN </s>|S_END
+<s>|S_START thanks|NNS primarily|RB to|TO the|DT city’s|NNS conservative|VBP pakistani|NN population|NN just|RB 49|CD of|IN women|NNS have|VBP jobs|NNS against|IN 65|CD nationally|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT real|JJ cause|NN of|IN birmingham’s|JJ secondclass|NN status|NN is|VBZ a|DT history|NN of|IN indifferent|NN management|NN </s>|S_END
+<s>|S_START the|DT city’s|JJ government|NN was|VBD once|RB mighty|JJ and|CC dynamic|JJ enough|RB to|TO produce|VB joseph|JJ chamberlain|NN a|DT mayor|NN who|WP went|NN on|IN to|TO become|VB one|CD of|IN victorian|JJ britain’s|NNS most|JJS powerful|JJ men|NNS </s>|S_END
+<s>|S_START over|IN the|DT years|NNS westminster|NN power|NN grabs|NNS have|VBP diluted|VBN the|DT power|NN and|CC legitimacy|NN of|IN britain’s|JJ provincial|JJ council|NN </s>|S_END
+<s>|S_START in|IN manchester|NN where|WRB the|DT council|NN has|VBZ been|VBN led|VBN by|IN the|DT same|JJ two|CD men|NNS since|IN 1998|CD this|DT trend|NN has|VBZ been|VBN partly|RB resisted|VBN </s>|S_END
+<s>|S_START birmingham’s|NNS more|JJR changeable|JJ government|NN has|VBZ proved|VBN less|JJR capable|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START take|VB the|DT city’s|JJ shoddy|NN publictransport|NN system|NN which|WDT is|VBZ mostly|RB provided|VBN by|IN private|JJ bus|NN companie|NN </s>|S_END
+<s>|S_START unlike|IN london|NN and|CC manchester|NN the|DT city|NN has|VBZ been|VBN slow|JJ to|TO organise|VB its|PRP$ transport|NN investment|NN on|IN a|DT cityregion|NN level|NN </s>|S_END
+<s>|S_START as|IN a|DT result|NN it|PRP can|MD be|VB quicker|NN to|TO get|VB to|TO london|VB than|IN around|IN birmingham’s|NNS suburb|VBP </s>|S_END
+<s>|S_START many|JJ of|IN the|DT bestpaid|NN workers|NNS live|VBP in|IN dormitory|NN towns|NNS like|IN bromsgrove|NN or|CC lichfield|NN from|IN where|WRB they|PRP can|MD at|IN least|JJS get|VB to|TO work|VB by|IN train|NN </s>|S_END
+<s>|S_START others|NNS such|JJ as|IN sir|NN albert|NN bore|NN the|DT new|JJ labour|NN council|NN leader|NN face|NN grinding|VBG daily|JJ commutes|NNS by|IN car|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START birmingham|NN is|VBZ bad|JJ at|IN getting|VBG its|PRP$ message|NN acro|NN </s>|S_END
+<s>|S_START many|JJ british|JJ people|NNS now|RB seem|VBP to|TO think|VB that|IN manchester|JJR is|VBZ britain’s|JJ secondbiggest|NN city|NN </s>|S_END
+<s>|S_START the|DT decision|NN by|IN the|DT bbc|NN to|TO close|VB pebble|JJ mill|NN a|DT big|JJ production|NN centre|NN even|RB as|IN it|PRP expanded|VBD in|IN salford|NN near|IN manchester|NN has|VBZ not|RB helped|VBN </s>|S_END
+<s>|S_START embarrassingly|RB the|DT city|NN has|VBZ repeatedly|RB failed|VBN to|TO win|VB competitions|NNS to|TO become|VB a|DT “capital|JJ of|IN culture”—most|JJ recently|RB losing|VBG to|TO derry|VB londonderry|NN to|TO the|DT unionists|NNS a|DT small|JJ city|NN in|IN northern|JJ ireland|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START reviving|VBG birmingham’s|NNS fortunes|NNS will|MD require|VB a|DT sharp|JJ change|NN in|IN direction|NN says|VBZ gisela|NN stuart|NN a|DT local|JJ mp|NN </s>|S_END
+<s>|S_START he|PRP argues|VBZ that|IN the|DT city|NN missed|VBD an|DT opportunity|NN when|WRB it|PRP rejected|VBD an|DT elected|VBN mayor|NN in|IN a|DT referendum|NN in|IN may|MD </s>|S_END
+<s>|S_START uch|JJ a|DT highprofile|JJ figure|NN could|MD have|VB pushed|VBN through|IN radical|JJ reform|NN </s>|S_END
+<s>|S_START the|DT council|NN by|IN contrast|NN is|VBZ hamstrung|VBN by|IN the|DT need|NN to|TO cut|VB £600m|JJ $|$ 960m|CD from|IN its|PRP$ £35|JJ billion|NN budget—a|NN necessity|NN forced|VBD onto|IN it|PRP by|IN a|DT government|NN formula|NN which|WDT is|VBZ hard|RB on|IN big|JJ deprived|VBN citie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP hopeful|JJ signs|NNS including|VBG birmingham’s|NNS improving|VBG school|NN </s>|S_END
+<s>|S_START everal|JJ academies—independent|JJ of|IN the|DT local|JJ authority—have|JJ opened|JJ including|NN one|CD run|NN by|IN the|DT king|VBG edward|NN vi|NN foundation|NN which|WDT manages|NNS the|DT city’s|NNS remaining|VBG grammar|NN school|NN </s>|S_END
+<s>|S_START chools|NNS still|RB under|IN council|NN control|NN are|VBP busy|JJ forging|VBG links|NNS with|IN local|JJ firm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN manchester|NN a|DT second|JJ airport|NN runway|NN helped|VBD attract|NN privatesector|NN investment|NN in|IN the|DT 1990|CD </s>|S_END
+<s>|S_START birmingham|NN is|VBZ finally|RB catching|VBG up|RP </s>|S_END
+<s>|S_START a|DT longer|JJR runway|NN will|MD allow|VB the|DT city’s|JJ airport|NN to|TO offer|VB direct|JJ flights|NNS to|TO east|VB asia|NN </s>|S_END
+<s>|S_START when|WRB a|DT planned|VBN highspeed|VBN rail|NN link|NN opens|VBZ in|IN 2026|CD the|DT airport|NN will|MD be|VB just|RB 40|CD minutes|NNS from|IN london|NN by|IN train|NN says|VBZ paul|JJ kehoe|NN its|PRP$ chief|NN executive|NN </s>|S_END
+<s>|S_START eventually|RB he|PRP hopes|VBZ the|DT annual|JJ passenger|NN flow|NN could|MD increase|VB from|IN 9m|CD now|RB to|TO as|IN much|JJ as|IN 36m|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ plans|NNS could|MD help|VB birmingham’s|JJ eastside|NN too|RB </s>|S_END
+<s>|S_START after|IN passing|VBG through|IN the|DT airport|NN the|DT highspeed|NN link|NN is|VBZ to|TO terminate|VB at|IN a|DT reopened|VBN curzon|NN street|NN station|NN </s>|S_END
+<s>|S_START the|DT city’s|JJ leaders|NNS hope|VBP that|IN will|MD be|VB the|DT final|JJ touch|NN to|TO their|PRP$ “big|JJ city|NN plan”|NN to|TO regenerate|VB the|DT eastside|NN </s>|S_END
+<s>|S_START a|DT new|JJ park|NN is|VBZ to|TO be|VB built|VBN on|IN the|DT wasteland|NN while|IN the|DT crumbling|NN station|NN at|IN new|JJ street|NN is|VBZ to|TO be|VB overhauled|VBN </s>|S_END
+<s>|S_START an|DT entire|JJ quarter|NN of|IN the|DT city|NN has|VBZ been|VBN designated|VBN an|DT “enterprise|JJ zone”|NN with|IN tax|NN relief|NN and|CC simplified|VBD planning|VBG to|TO lure|NN investment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB curzon|NN street|NN opened|VBD the|DT railway|NN allowed|VBD birmingham|NN to|TO sell|VB its|PRP$ products|NNS to|TO the|DT world|NN </s>|S_END
+<s>|S_START later|JJ under|IN chamberlain’s|JJ leadership|NN it|PRP harnessed|VBD private|JJ capital|NN to|TO build|VB the|DT city’s|NNP infrastructure|NN </s>|S_END
+<s>|S_START the|DT current|JJ leadership|NN wants|VBZ to|TO repeat|VB the|DT trick|NN but|CC without|IN anywhere|RB near|IN the|DT resources|NNS or|CC the|DT power|NN </s>|S_END
+<s>|S_START it’s|NNS a|DT tall|JJ order|NN </s>|S_END
+</p>|P_END
+

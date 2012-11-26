@@ -1,0 +1,78 @@
+<p>|P_START
+<s>|S_START tradewatchers|NNS often|RB look|VBP to|TO the|DT oceans|NNS to|TO gauge|VB activity|NN </s>|S_END
+<s>|S_START bustling|VBG docks|NNS and|CC harbours|NNS mean|VBP importers|NNS and|CC exporters|NNS are|VBP busy|JJ and|CC trade|NN figures|NNS are|VBP likely|JJ to|TO be|VB strong|JJ </s>|S_END
+<s>|S_START empty|NN quays|NNS are|VBP ominou|PRP </s>|S_END
+<s>|S_START at|IN the|DT end|NN of|IN 2011|CD data|NNS from|IN big|JJ ports|NNS started|VBN to|TO turn|VB choppy|JJ fuelling|NN fears|NNS of|IN a|DT slowdown|NN that|WDT has|VBZ come|VBN to|TO pa|VB </s>|S_END
+<s>|S_START the|DT oecd|NN reports|NNS that|WDT exports|NNS fell|VBD by|IN over|IN 4|CD in|IN the|DT second|JJ quarter|NN of|IN 2012|CD in|IN britain|NN and|CC india|NN russia|NN and|CC south|NN africa|NN lost|VBD more|JJR than|IN 8|CD </s>|S_END
+<s>|S_START that|DT is|VBZ particularly|RB bad|JJ news|NN for|IN places|NNS like|IN singapore|NN and|CC hong|JJ kong|JJ which|WDT are|VBP important|JJ trade|NN hubs|NNS see|VBP chart|NN 1|CD open|JJ eurozone|NN countries|NNS like|IN ireland|NN and|CC belgium|NN are|VBP also|RB highly|RB exposed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT obvious|JJ cause|NN of|IN falling|VBG trade|NN is|VBZ the|DT global|JJ economic|JJ slowdown|NN </s>|S_END
+<s>|S_START ince|NN exports|NNS are|VBP sales|NNS to|TO foreigners|NNS they|PRP tend|VBP to|TO weaken|VB when|WRB buying|VBG power|NN is|VBZ low|JJ </s>|S_END
+<s>|S_START that|DT means|VBZ trade|NN often|RB tracks|VBZ global|JJ gdp|NN quite|RB closely|RB </s>|S_END
+<s>|S_START at|IN a|DT more|RBR granular|JJ level|NN too|RB the|DT patterns|NNS of|IN trade|NN match|NN the|DT fortunes|NNS of|IN economie|NN </s>|S_END
+<s>|S_START ince|NN 2011|CD imports|NNS into|IN the|DT stagnant|JJ european|NN union|NN have|VBP fallen|VBN by|IN 45|CD </s>|S_END
+<s>|S_START in|IN contrast|NN the|DT oilrich|NN middle|NN east|NN has|VBZ increased|VBN imports|NNS by|IN 74|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT global|JJ economy|NN were|VBD the|DT only|JJ factor|NN in|IN determining|NN trade|NN a|DT pickup|NN in|IN world|NN output|NN would|MD translate|VB automatically|RB into|IN rising|VBG trade|NN </s>|S_END
+<s>|S_START the|DT imf|NN for|IN example|NN thinks|NNS that|WDT trade|NN will|MD grow|VB by|IN 51|CD in|IN 2013|CD on|IN the|DT back|NN of|IN a|DT strengthening|NN economy|NN </s>|S_END
+<s>|S_START but|CC the|DT fund’s|NNS predictions|NNS assume|VBP that|IN looser|NN policies|NNS in|IN the|DT euro|NN area|NN and|CC emerging|VBG markets|NNS will|MD be|VB successful|JJ </s>|S_END
+<s>|S_START if|IN that|DT turns|VBZ out|RP to|TO be|VB too|RB optimistic|JJ then|RB growth|NN and|CC trade|NN could|MD undershoot|VB its|PRP$ forecast|NN </s>|S_END
+<s>|S_START the|DT latest|JJS shipping|VBG data|NNS hold|VBP out|RP little|RB hope|NN for|IN a|DT rapid|JJ rebound|NN </s>|S_END
+<s>|S_START a|DT survey|NN reported|VBD by|IN lloyd’s|JJ list|NN on|IN september|NN 5th|CD showed|VBD that|IN container|NN volumes|NNS from|IN asia|NN to|TO europe|VB plunged|JJ by|IN 132|CD in|IN the|DT year|NN to|TO july|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what’s|NNS more|JJR trade|NN does|VBZ not|RB track|VB business|NN cycles|NNS perfectly|RB </s>|S_END
+<s>|S_START trade|NN has|VBZ generally|RB grown|VBN faster|NN than|IN gdp|NN in|IN recent|JJ years|NNS rising|VBG from|IN 22|CD to|TO 33|CD of|IN world|NN gdp|NN between|IN 1996|CD and|CC 2008|CD </s>|S_END
+<s>|S_START its|PRP$ downturn|NN this|DT year|NN has|VBZ been|VBN more|JJR pronounced|VBN than|IN that|DT of|IN the|DT world|NN economy|NN see|VB chart|NN 2|CD </s>|S_END
+<s>|S_START that|DT suggests|VBZ other|JJ factors|NNS may|MD be|VB at|IN work|NN beyond|IN the|DT pace|NN of|IN global|JJ growth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD candidate|NN is|VBZ decreased|VBN availability|NN of|IN trade|NN finance|NN </s>|S_END
+<s>|S_START businesses|NNS that|IN operate|JJ internationally|RB rely|RB heavily|RB on|IN bank|NN </s>|S_END
+<s>|S_START take|VB exporter|NN </s>|S_END
+<s>|S_START once|RB they|PRP have|VBP bought|VBN raw|NN materials|NNS and|CC other|JJ inputs|NNS they|PRP must|MD make|VB their|PRP$ products|NNS before|IN exporting|VBG them|PRP to|TO a|DT destination|NN country|NN </s>|S_END
+<s>|S_START they|PRP may|MD deliver|VB them|PRP to|TO a|DT final|JJ buyer|NN before|IN receiving|VBG payment|NN </s>|S_END
+<s>|S_START this|DT creates|VBZ a|DT lag|NN between|IN incurring|NN costs|NNS and|CC receiving|VBG revenues|NNS a|DT gap|NN bridged|VBD by|IN shortterm|NN tradefinance|NN loan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START european|JJ banks|NNS are|VBP major|JJ players|NNS in|IN trade|NN finance|NN </s>|S_END
+<s>|S_START according|VBG to|TO a|DT recent|JJ world|NN bank|NN study|NN large|JJ euroarea|NN banks|NNS accounted|VBD for|IN 36|CD of|IN global|JJ trade|NN finance|NN in|IN 2011|CD </s>|S_END
+<s>|S_START french|NN and|CC spanish|JJ banks|NNS alone|RB provided|VBN 40|CD of|IN trade|NN credit|NN to|TO latin|VB america|NN and|CC asia|NN </s>|S_END
+<s>|S_START but|CC eurozone|NN banks|NNS have|VBP been|VBN cutting|VBG back|RB their|PRP$ tradefinancing|NN operations|NNS according|VBG to|TO jeanfrançois|NNP lambert|NN of|IN hsbc|NN an|DT international|JJ bank|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD reason|NN for|IN this|DT withdrawal|NN is|VBZ that|IN international|JJ trade|NN takes|VBZ place|NN in|IN dollars|NNS and|CC riskylooking|VBG eurozone|NN lenders|NNS are|VBP finding|VBG it|PRP harder|JJR to|TO access|NN dollar|NN liquidity|NN </s>|S_END
+<s>|S_START another|DT is|VBZ the|DT need|NN for|IN european|JJ banks|NNS to|TO slim|VB their|PRP$ balancesheets|NNS trade|VBP finance|NN because|IN of|IN its|PRP$ shortterm|NN nature|NN is|VBZ easy|JJ to|TO prune|VB </s>|S_END
+<s>|S_START many|JJ lenders|NNS are|VBP also|RB under|IN pressure|NN to|TO concentrate|VB their|PRP$ activities|NNS on|IN domestic|JJ market|NN </s>|S_END
+<s>|S_START the|DT likes|NNS of|IN hsbc|NN can|MD pick|VB up|RP some|DT of|IN the|DT slack|NN left|VBD by|IN departing|NN european|JJ </s>|S_END
+<s>|S_START japanese|JJ banks|NNS and|CC local|JJ banks|NNS in|IN china|NN and|CC brazil|NN are|VBP also|RB moving|VBG to|TO fill|VB gap|NN </s>|S_END
+<s>|S_START but|CC trade|NN finance|NN is|VBZ likely|JJ to|TO be|VB less|JJR abundant|JJ than|IN it|PRP wa|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START increased|VBD protectionism|NN may|MD also|RB be|VB starting|VBG to|TO drag|VB on|IN trade|NN </s>|S_END
+<s>|S_START in|IN the|DT early|JJ phases|NNS of|IN this|DT crisis|NN it|PRP seemed|VBD that|IN protectionism|NN was|VBD one|CD thing|NN the|DT world|NN did|VBD not|RB have|VB to|TO fret|VB about|IN the|DT lessons|NNS of|IN the|DT 1930s|CD avoid|JJ trade|NN wars|NNS at|IN all|DT costs|NNS had|VBD apparently|RB been|VBN learned|VBN </s>|S_END
+<s>|S_START but|CC the|DT number|NN of|IN new|JJ trade|NN disputes|NNS is|VBZ ratcheting|VBG up|RP to|TO a|DT level|NN that|WDT is|VBZ beginning|VBG to|TO look|VB worrying|NN </s>|S_END
+<s>|S_START argentina|NN is|VBZ involved|VBN in|IN a|DT host|NN of|IN argument|NN </s>|S_END
+<s>|S_START america|NN india|NNS and|CC china|NN are|VBP embroiled|VBN in|IN a|DT spat|NN over|IN steel|NN </s>|S_END
+<s>|S_START on|IN september|NN 4th|CD brazil|NN said|VBD it|PRP would|MD raise|VB tariffs|NNS on|IN 100|CD product|NN </s>|S_END
+<s>|S_START the|DT risk|NN according|VBG to|TO jagdish|VB bhagwati|NN of|IN columbia|NN university|NN is|VBZ that|IN commitment|NN to|TO free|JJ trade|NN could|MD flag|VB particularly|RB as|IN electoral|JJ pressures|NNS take|VBP their|PRP$ toll|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB if|IN a|DT new|JJ round|NN of|IN protectionism|NN can|MD be|VB avoided|VBN ambitions|NNS to|TO liberalise|VB trade|NN further|RB are|VBP disappointingly|RB limited|VBN </s>|S_END
+<s>|S_START the|DT 11yearold|JJ doha|NN round|NN of|IN global|JJ trade|NN negotiations|NNS which|WDT could|MD add|VB 05|CD a|DT year|NN to|TO global|JJ gdp|NN by|IN opening|VBG up|RP new|JJ markets|NNS is|VBZ as|RB good|JJ as|IN dead|JJ </s>|S_END
+<s>|S_START in|IN its|PRP$ place|NN a|DT tangle|NN of|IN regional|JJ deals—a|NN “spaghetti|NNP bowl”|NNP in|IN mr|NN bhagwati’s|NNS words—has|VBZ emerged|VBN </s>|S_END
+<s>|S_START the|DT hope|NN is|VBZ that|IN the|DT most|RBS promising|JJ elements|NNS of|IN doha|NN can|MD somehow|VB be|VB revived|VBN in|IN a|DT new|JJ deal|NN </s>|S_END
+<s>|S_START an|DT agreement|NN on|IN “trade|JJ facilitation”|NN cutting|VBG red|VBN tape|NN at|IN borders|NNS would|MD more|RBR than|IN offset|VBN the|DT petty|NN protectionism|NN of|IN some|DT g20|NNP member|NN </s>|S_END
+<s>|S_START but|CC the|DT tide|NN of|IN support|NN for|IN free|JJ trade|NN is|VBZ ebbing|VBG </s>|S_END
+</p>|P_END
+

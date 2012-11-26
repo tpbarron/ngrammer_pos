@@ -1,0 +1,44 @@
+<p>|P_START
+<s>|S_START obamas|NNS reelection|NN chances|NNS shot|VBD up|RP on|IN intrade|NN after|IN the|DT feds|NNS qe3|NNP announcement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN did|VBD ben|VBN bernanke|NN and|CC friends|NNS boost|VBP president|NN obamas|NNS reelection|NN chances|NNS </s>|S_END
+<s>|S_START intrade|NN investors|NNS who|WP bet|NN on|IN the|DT outcome|NN of|IN the|DT presidential|JJ race|NN seem|NN to|TO think|VB so|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT online|NN futures|NNS market|NN allows|NNS investors|NNS to|TO wager|VB on|IN any|DT number|NN of|IN future|JJ events|NNS from|IN the|DT presidential|JJ election|NN to|TO whether|IN wikileaks|NNS founder|NN julian|NN assange|NN will|MD be|VB arrested|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT 90|CD minutes|NNS after|IN the|DT fed|VBN announced|VBD a|DT new|JJ round|NN of|IN economic|JJ stimulus|NN on|IN thursday|NN the|DT odds|NNS of|IN an|DT obama|NN victory|NN increased|VBD to|TO 65|CD from|IN 635|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP was|VBD a|DT relatively|RB big|JJ bump|NN and|CC gave|VBD obama|NN the|DT best|JJS odds|NNS for|IN reelection|NN on|IN the|DT site|JJ since|IN early|JJ may|NN 2011|CD shortly|RB after|IN osama|NN bin|NN laden|NN was|VBD killed|VBN </s>|S_END
+<s>|S_START the|DT mission|NN which|WDT was|VBD ordered|VBN by|IN the|DT president|NN raised|VBD his|PRP$ odds|NNS to|TO 69|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START obamas|NNS intrade|VBP surge|NN may|MD have|VB been|VBN more|RBR tied|VBN to|TO the|DT stock|NN market|NN than|IN an|DT improved|VBN economic|JJ outlook|NN since|IN the|DT feds|NNS actions|NNS wont|VBP be|VB able|JJ to|TO lift|VB hiring|NN or|CC improve|VB other|JJ key|JJ economic|JJ readings|NNS before|IN the|DT nov|NN 6|CD election|NN said|VBD paul|NN dales|NNS senior|JJ us|PRP economist|VBP for|IN capital|NN economics|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START intrades|NNS predictions|NNS on|IN obamas|NNS election|NN chances|NNS closely|RB mirror|NN the|DT sp|NN 500|CD stock|NN index|NN </s>|S_END
+<s>|S_START thursday|NN after|IN the|DT fed|VBN decision|NN us|PRP stocks|VBZ closed|VBN at|IN a|DT nearly|RB fiveyear|NN high|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dales|NNS said|VBD he|PRP believes|VBZ one|CD of|IN the|DT reasons|NNS for|IN the|DT longterm|NN linkage|NN between|IN the|DT presidents|NNS reelection|NN chances|NNS and|CC the|DT sp|NN is|VBZ that|IN an|DT improving|VBG economy|NN lifts|NNS both|DT stocks|NNS and|CC peoples|NNS view|NN of|IN the|DT incumbent|NN </s>|S_END
+<s>|S_START but|CC a|DT sudden|JJ move|NN like|IN that|DT on|IN thursday|NN is|VBZ due|JJ to|TO expectations|NNS about|IN the|DT markets|NNS direction|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD republicans|NNS blame|VBD obama|NN for|IN fed|VBN action|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP does|VBZ make|VB sense|NN that|IN if|IN the|DT stock|NN market|NN is|VBZ doing|VBG better|JJR obamas|NNS chances|NNS are|VBP better|RBR he|PRP said|VBD </s>|S_END
+</p>|P_END
+

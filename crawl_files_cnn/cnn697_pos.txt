@@ -1,0 +1,50 @@
+<p>|P_START
+<s>|S_START workers|NNS left|VBN jobless|NN by|IN hurricane|NN sandy|NN may|MD qualify|VB for|IN disaster|NN relief|NN payments|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN residents|NNS of|IN three|CD states|NNS pummeled|VBD by|IN hurricane|NN sandy|NN could|MD be|VB eligible|JJ for|IN disaster|NN assistance|NN payments|NNS if|IN they|PRP lost|VBP their|PRP$ job|NN due|JJ to|TO the|DT storm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO qualify|VB for|IN the|DT funds|NNS people|NNS must|MD be|VB unemployed|VBN as|IN a|DT direct|JJ result|NN of|IN the|DT storm|NN and|CC be|VB ineligible|JJ for|IN traditional|JJ unemployment|NN benefits|NNS according|VBG to|TO the|DT national|JJ employment|NN law|NN project|NN an|DT advocacy|NN group|NN </s>|S_END
+<s>|S_START residents|NNS of|IN new|JJ york|NN city|NN and|CC 14|CD counties|NNS in|IN new|JJ york|NN new|JJ jersey|NN and|CC connecticut|VBD that|IN were|VBD declared|VBN federal|JJ disaster|NN areas|NNS are|VBP eligible|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD of|IN the|DT costliest|JJS disasters|NNS in|IN the|DT nations|NNS history|NN sandy|NN could|MD generate|VB nearly|RB $|$ 50|CD billion|CD in|IN losses|NNS both|DT from|IN physical|JJ damage|NN and|CC lost|VBD business|NN revenue|NN according|VBG to|TO estimates|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START payments|NNS which|VBP can|MD last|VB up|RP to|TO 26|CD weeks|NNS range|VBP from|IN $|$ 405|CD a|DT week|NN in|IN new|JJ york|NN to|TO $|$ 648|CD in|IN connecticut|NN </s>|S_END
+<s>|S_START recipients|NNS must|MD show|VB that|IN for|IN every|DT week|NN they|PRP collect|VBP dua|NN their|PRP$ unemployment|NN continues|VBZ to|TO be|VB the|DT direct|JJ result|NN of|IN the|DT disaster|NN not|RB other|JJ factors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hurricane|NN sandy|NN could|MD hit|VB jobs|NNS in|IN november|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START according|VBG to|TO nelp|VB those|DT who|WP may|MD be|VB eligible|JJ for|IN disaster|NN relief|NN and|CC typically|RB could|MD not|RB collect|VB regular|JJ state|NN unemployment|NN benefits|NNS include|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START selfemployed|VBD people|NNS who|WP lost|VBD their|PRP$ business|NN or|CC suffered|VBN a|DT substantial|JJ interruption|NN of|IN activities|NNS as|IN a|DT direct|JJ result|NN of|IN a|DT major|JJ disaster|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unemployed|VBD workers|NNS who|WP have|VBP become|VBN the|DT major|JJ supporter|NN of|IN their|PRP$ household|NN due|JJ to|TO the|DT death|NN of|IN the|DT head|NN of|IN their|PRP$ household|NN directly|RB related|JJ to|TO the|DT disaster|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START workers|NNS unemployed|VBD due|JJ to|TO an|DT injury|NN caused|VBN by|IN the|DT disaster|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START workers|NNS who|WP can|MD not|RB reach|VB their|PRP$ employment|NN as|IN a|DT result|NN of|IN the|DT disaster|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START people|NNS who|WP were|VBD scheduled|VBN to|TO start|VB work|NN but|CC became|VBD unemployed|VBN because|IN they|PRP no|RB longer|RB have|VBP a|DT job|NN due|JJ to|TO the|DT disaster|NN </s>|S_END
+</p>|P_END
+

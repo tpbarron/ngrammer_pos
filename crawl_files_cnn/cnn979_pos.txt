@@ -1,0 +1,90 @@
+<p>|P_START
+<s>|S_START veterans|NNS are|VBP the|DT intended|VBN beneficiaries|NNS of|IN the|DT post911|NNP gi|NN bill|NN but|CC forprofit|NN private|JJ schools|NNS are|VBP raking|VBG in|IN hundreds|NNS of|IN millions|NNS of|IN dollars|NNS from|IN the|DT government|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT gi|NN bill|NN was|VBD designed|VBN to|TO help|VB veterans|NNS but|CC the|DT biggest|JJS beneficiaries|NNS seem|VBP to|TO be|VB the|DT forprofit|NN private|JJ schools|NNS that|WDT are|VBP raking|VBG in|IN taxpayer|NN dollars|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT department|NN of|IN veterans|NNS affairs|NNS bankrolls|NNS four|CD years|NNS of|IN higher|JJR education|NN for|IN veterans|NNS who|WP have|VBP served|VBN since|IN september|NN 11|CD 2001|CD </s>|S_END
+<s>|S_START the|DT va|NN paid|VBD out|RP $|$ 44|CD billion|CD for|IN tuition|NN and|CC fees|NNS in|IN the|DT two|CD academic|JJ years|NNS spanning|VBG 2009|CD to|TO 2011|CD </s>|S_END
+<s>|S_START forprofit|NN private|JJ schools|NNS raked|VBD in|IN 37|CD of|IN those|DT funds|NNS but|CC educated|VBD just|RB 25|CD of|IN veterans|NNS according|VBG to|TO the|DT us|PRP senates|VBZ health|NN education|NN labor|NN and|CC pensions|NNS help|VB committee|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN what|WP are|VBP taxpayers|NNS getting|VBG in|IN return|NN </s>|S_END
+<s>|S_START according|VBG to|TO the|DT va|NN the|DT graduation|NN rate|NN is|VBZ just|RB 28|CD at|IN forprofit|NN schools|NNS like|IN university|NN of|IN phoenix|NN and|CC devry|NN university|NN for|IN all|DT students|NNS not|RB just|RB veterans|VBZ </s>|S_END
+<s>|S_START that|DT compares|VBZ with|IN a|DT graduation|NN rate|NN of|IN 67|CD at|IN nonprofit|JJ private|JJ schools|NNS and|CC 57|CD at|IN public|JJ schools|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT gi|NN bill|NN covers|VBZ all|DT tuition|NN at|IN public|JJ schools|NNS and|CC up|IN to|TO $|$ 17000|CD per|IN year|NN at|IN private|JJ schools|NNS </s>|S_END
+<s>|S_START but|CC tuition|NN at|IN many|JJ private|JJ schools|NNS far|RB exceeds|VBZ that|IN so|RB veterans|NNS take|VBP out|RP loans|NNS to|TO cover|VB the|DT balance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT average|JJ tuition|NN at|IN a|DT forprofit|NN school|NN is|VBZ steep|JJ six|CD times|NNS higher|JJR than|IN a|DT community|NN college|NN and|CC double|JJ the|DT cost|NN of|IN a|DT fouryear|JJ public|JJ school|NN according|VBG to|TO sen|VB tom|NN harkin|NN of|IN iowa|NN chairman|NN of|IN the|DT help|NN committee|NN </s>|S_END
+<s>|S_START and|CC students|NNS at|IN forprofit|NN schools|NNS have|VBP a|DT loandefault|NN rate|NN of|IN 47|CD according|VBG to|TO the|DT senate|NN committee|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN 2010|CD after|IN hearing|NN complaints|NNS from|IN constituents|NNS about|IN problems|NNS with|IN forprofit|NN schools|NNS harkin|VBP conducted|VBN an|DT undercover|NN investigation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT findings|NNS alarmed|VBD me|PRP said|VBD harkin|NN in|IN an|DT email|NN to|TO cnnmoney|NN </s>|S_END
+<s>|S_START we|PRP found|VBD widespread|JJ predatory|NN and|CC deceptive|JJ recruiting|NN practices|NNS high|JJ dropout|IN rates|NNS and|CC inadequate|JJ or|CC even|RB nonexistent|JJ academic|JJ and|CC student|NN support|NN services|NNS among|IN other|JJ things|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB the|DT forprofit|NN schools|NNS are|VBP pulling|VBG in|IN hundreds|NNS of|IN millions|NNS of|IN dollars|NNS in|IN va|NN cash|NN </s>|S_END
+<s>|S_START from|IN 2009|CD to|TO 2011|CD the|DT va|NN paid|VBD $|$ 196|CD million|CD to|TO the|DT university|NN of|IN phoenix|NN $|$ 175|CD million|CD to|TO itt|VB tech|JJ $|$ 128|CD million|CD to|TO devry|JJ university|NN about|IN $|$ 50|CD million|CD each|DT to|TO kaplan|VB and|CC the|DT art|NN institutes|VBZ and|CC $|$ 28|CD million|CD to|TO westwood|NN college|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START during|IN that|DT same|JJ twoyear|NN span|NN the|DT va|NN paid|VBD about|RB $|$ 20|CD million|CD to|TO the|DT university|NN of|IN california|NN and|CC another|DT $|$ 15|CD million|CD to|TO the|DT state|NN university|NN of|IN new|JJ york|NN </s>|S_END
+<s>|S_START even|RB less|JJR money|NN went|VBD to|TO esteemed|VBN and|CC hard|RB to|TO get|VB into|IN nonprofit|JJ private|JJ schools|NNS like|IN harvard|NN which|WDT received|VBD $|$ 36|CD million|CD from|IN the|DT gi|NN bill|NN and|CC princeton|NN university|NN which|WDT received|VBD $|$ 173000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START troublesome|NN allegations|NNS have|VBP been|VBN levied|VBN against|IN forprofit|NN privates|NNS </s>|S_END
+<s>|S_START the|DT white|JJ house|NN accused|VBD some|DT institutions|NNS of|IN recruiting|VBG brain|NN damaged|VBD veterans|NNS without|IN providing|VBG academic|JJ support|NN encouraging|VBG vets|NNS to|TO take|VB out|RP costly|RB loans|NNS from|IN the|DT schools|NNS themselves|PRP withholding|VBG information|NN about|IN graduation|NN rates|NNS and|CC engaging|VBG in|IN misleading|NN recruiting|VBG practices|NNS on|IN military|JJ installations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN april|NN the|DT white|NN house|NN issued|VBD an|DT executive|NN order|NN against|IN these|DT types|NNS of|IN activities|NNS since|IN the|DT post911|NNP gi|NN bill|NN became|VBD law|NN there|RB have|VBP been|VBN reports|NNS of|IN aggressive|JJ and|CC deceptive|JJ targeting|NN of|IN service|NN members|NNS veterans|NNS and|CC their|PRP$ families|NNS by|IN some|DT education|NN institutions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START itt|NN tech|NN devry|NN university|NN kaplan|NN and|CC the|DT art|NN institutes|VBZ didnt|NN return|NN calls|VBZ for|IN comment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC richard|VBD castellano|DT spokesman|NN for|IN the|DT university|NN of|IN phoenix|NN said|VBD that|IN his|PRP$ school|NN has|VBZ worked|VBN with|IN veteran|NN student|NN organizations|NNS to|TO recommend|VB reforms|NNS to|TO congress|NN and|CC the|DT white|JJ house|NN including|VBG a|DT student|NN complaint|NN process|NN and|CC mandatory|NN education|NN counseling|NN </s>|S_END
+<s>|S_START he|PRP said|VBD these|DT reforms|NNS ended|VBD up|RP included|VBN in|IN the|DT presidents|NNS executive|NN order|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START steve|NN gunderson|NN president|NN and|CC chief|NN executive|NN officer|NN of|IN the|DT association|NN for|IN private|JJ sector|NN colleges|NNS and|CC universities|NNS said|VBD forprofit|NN schools|NNS are|VBP one|CD of|IN the|DT most|RBS highly|RB regulated|VBN groups|NNS in|IN the|DT country|NN and|CC have|VB been|VBN working|VBG closely|RB with|IN congress|NN and|CC veteran|NN organizations|NNS to|TO achieve|VB solutions|NNS to|TO the|DT many|JJ areas|NNS of|IN concern|NN </s>|S_END
+<s>|S_START see|NN correction|NN below|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP said|VBD he|PRP was|VBD disappointed|VBN that|IN the|DT white|JJ house|NN circumvented|VBD ongoing|VBG discussions|NNS with|IN congress|NN by|IN implementing|NN its|PRP$ executive|JJ order|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT veterans|NNS have|VBP also|RB complained|VBN about|IN losing|VBG credits|NNS when|WRB they|PRP transfer|VBP from|IN forprofit|NN privates|NNS to|TO other|JJ schools|NNS </s>|S_END
+<s>|S_START gunderson|NN blamed|VBD that|IN problem|NN on|IN the|DT schools|NNS that|WDT refuse|VBP to|TO accept|VB the|DT credits|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP is|VBZ nothing|VBG but|CC academic|JJ elitism|NN by|IN some|DT regionally|RB accredited|VBN institutions|NNS for|IN not|RB accepting|VBG credits|NNS from|IN other|JJ regionallyaccredited|VBN institutions|NNS regardless|RB of|IN institution|NN type|NN he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START correction|NN an|DT earlier|JJR version|NN of|IN this|DT story|NN incorrectly|RB attributed|VBD quotes|NNS to|TO heather|VB greenaway|NN of|IN the|DT association|NN for|IN private|JJ sector|NN colleges|NNS and|CC universities|NNS </s>|S_END
+<s>|S_START the|DT comments|NNS were|VBD made|VBN by|IN the|DT associations|NNS president|NN steve|VBP gunderson |JJ </s>|S_END
+</p>|P_END
+

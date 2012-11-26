@@ -1,0 +1,52 @@
+<p>|P_START
+<s>|S_START as|IN the|DT newly|RB identified|VBD coronavirus|NNS that|IN has|VBZ just|RB turned|VBN up|RP in|IN london|NN reemphasises|NNS see|VBP article|NN new|JJ diseases—and|NN new|JJ versions|NNS of|IN old|JJ diseases—can|JJ appear|NN suddenly|RB apparently|RB from|IN nowhere|RB </s>|S_END
+<s>|S_START developing|VBG and|CC deploying|VBG vaccines|NNS against|IN such|JJ novelties|NNS takes|VBZ time|NN </s>|S_END
+<s>|S_START if|IN a|DT lethal|JJ strain|NN of|IN flu|NN or|CC something|NN else|RB equally|RB deadly|RB were|VBD to|TO emerge|VB that|IN delay|NN could|MD cost|VB a|DT lot|NN of|IN live|JJ </s>|S_END
+<s>|S_START a|DT second|JJ line|NN of|IN defence|NN that|IN took|NN effect|NN immediately|RB would|MD therefore|VB be|VB desirable|JJ </s>|S_END
+<s>|S_START and|CC as|IN they|PRP report|VBP in|IN molecular|JJ pharmaceutics|NNS david|VBD jackson|NN of|IN the|DT university|NN of|IN melbourne|NN and|CC his|PRP$ colleagues|NNS think|VBP they|PRP may|MD have|VB found|VBN one|CD </s>|S_END
+<s>|S_START they|PRP are|VBP working|VBG on|IN a|DT way|NN to|TO create|VB a|DT universal|NN virus|NN shield|NN at|IN the|DT point|NN of|IN entry|NN used|VBN by|IN most|JJS respiratory|JJ viruses|NNS the|DT nose|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT traditional|JJ vaccine|NN works|NNS by|IN stimulating|VBG what|WP is|VBZ known|VBN as|IN the|DT adaptive|JJ immune|NN system|NN </s>|S_END
+<s>|S_START this|DT is|VBZ the|DT part|NN that|IN adjusts|NNS itself|PRP to|TO pathogens|NNS encountered|VBN by|IN the|DT body|NN and|CC crafts|NNS specific|JJ responses|NNS to|TO them|PRP </s>|S_END
+<s>|S_START but|CC the|DT immune|NN system|NN has|VBZ a|DT second|JJ generic|JJ arm|NN known|VBN as|IN the|DT innate|NN immune|NN system|NN that|WDT is|VBZ activated|VBN immediately|RB by|IN a|DT pathogenic|JJ challenge|NN </s>|S_END
+<s>|S_START it|PRP was|VBD this|DT that|IN dr|NN jackson|NN proposed|VBD to|TO enlist|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START his|PRP$ tool|NN was|VBD a|DT molecule|NN called|VBN pam2cys|NNS which|WDT he|PRP knew|VBD binds|NNS to|TO receptors|NNS that|IN activate|JJ the|DT innate|NN immune|NN system|NN </s>|S_END
+<s>|S_START this|DT molecule|NN can|MD be|VB made|VBN artificially|RB so|RB it|PRP would|MD be|VB suitable|JJ for|IN mass|NN production|NN if|IN it|PRP was|VBD found|VBN to|TO be|VB effective|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO explore|VB this|DT possibility|NN dr|NN jackson|NN and|CC his|PRP$ colleagues|NNS turned|VBD to|TO mice|NN </s>|S_END
+<s>|S_START they|PRP divided|VBD their|PRP$ animals|NNS into|IN two|CD groups|NNS and|CC treated|VBD the|DT noses|NNS of|IN one|CD with|IN pam2cys|NNP and|CC those|DT of|IN the|DT other|JJ with|IN a|DT saline|NN solution|NN to|TO act|VB as|IN a|DT control|NN </s>|S_END
+<s>|S_START they|PRP then|RB subdivided|VBD the|DT groups|NNS and|CC infected|VBD the|DT resulting|VBG subgroups|NNS with|IN either|DT h3n1|NNP a|DT mild|NN strain|NN of|IN influenza|NN or|CC h1n1|NNP a|DT virulent|NN strain|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT done|NN they|PRP monitored|VBD the|DT mice|NN for|IN signs|NNS of|IN infection|NN </s>|S_END
+<s>|S_START ome|NN they|PRP killed|VBD and|CC examined|VBN after|IN three|CD days|NNS and|CC others|NNS after|IN seven|CD so|RB that|IN they|PRP could|MD count|VB the|DT number|NN of|IN immune|NN cells|NNS and|CC virus|VBZ particles|NNS in|IN the|DT animals’|NN lung|NN </s>|S_END
+<s>|S_START the|DT rest|NN were|VBD allowed|VBN either|DT to|TO live|VB on|IN if|IN they|PRP showed|VBD no|DT sign|NN of|IN infection|NN or|CC looked|VBN likely|JJ to|TO recover|VB or|CC were|VBD killed|VBN when|WRB it|PRP was|VBD clear|JJ that|IN they|PRP would|MD not|RB recover|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START examination|NN of|IN those|DT mice|NN killed|VBD early|RB on|IN showed|VBN that|IN pam2cys|NNP increases|NNS levels|NNS of|IN immunesystem|NN cells|NNS in|IN the|DT lungs|NNS and|CC decreases|NNS viral|JJ loads|NNS compared|VBN with|IN the|DT levels|NNS and|CC loads|NNS found|VBD in|IN the|DT mice|NN that|IN had|VBD been|VBN treated|VBN with|IN saline|NN </s>|S_END
+<s>|S_START that|DT is|VBZ interesting|JJ </s>|S_END
+<s>|S_START but|CC what|WP was|VBD spectacular|JJ was|VBD the|DT effect|NN on|IN survival|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN jackson|NN and|CC his|PRP$ colleagues|NNS found|VBD that|IN after|IN eight|CD days|NNS of|IN infection|NN only|RB one|CD of|IN the|DT 12|CD mice|NN that|WDT had|VBD been|VBN treated|VBN with|IN saline|NN exposed|VBN to|TO h1n1|NNP and|CC not|RB picked|VBN out|RP for|IN an|DT early|JJ death|NN was|VBD still|RB alive|JJ </s>|S_END
+<s>|S_START in|IN stark|NN contrast|NN only|RB two|CD of|IN the|DT 23|CD treated|VBN with|IN pam2cys|NNP and|CC then|RB exposed|VBD to|TO the|DT h1n1|NNP strain|NN died|VBD in|IN that|DT period|NN </s>|S_END
+<s>|S_START h3n1|NNP did|VBD not|RB prove|VB fatal|JJ to|TO any|DT animal|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whether|IN that|DT result|NN or|CC something|NN like|IN it|PRP would|MD translate|VB into|IN people|NNS remains|VBZ to|TO be|VB seen|VBN </s>|S_END
+<s>|S_START but|CC if|IN it|PRP did|VBD it|PRP would|MD represent|VB a|DT whole|JJ new|JJ way|NN of|IN approaching|VBG viral|JJ pandemic|JJ </s>|S_END
+<s>|S_START at|IN the|DT moment|NN the|DT best|JJS hope|NN is|VBZ to|TO use|VB broadspectrum|NN antiviral|JJ drugs|NNS until|IN a|DT suitable|JJ vaccine|NN can|MD be|VB developed|VBN and|CC deployed|VBN </s>|S_END
+<s>|S_START omething|VBG which|NN activated|VBD the|DT innate|NN immune|NN system|NN as|IN well|RB would|MD provide|VB immunological|JJ braces|NNS to|TO add|VB to|TO that|DT pharmaceutical|JJ belt|NN </s>|S_END
+</p>|P_END
+

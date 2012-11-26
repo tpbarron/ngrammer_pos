@@ -1,0 +1,60 @@
+<p>|P_START
+<s>|S_START in|IN 1967|CD stanley|NN milgram|NN an|DT american|JJ social|JJ scientist|NN conducted|VBD an|DT experiment|NN in|IN which|WDT he|PRP sent|VBD dozens|NNS of|IN packages|NNS to|TO random|VB people|NNS in|IN omaha|NN nebraska|NN </s>|S_END
+<s>|S_START he|PRP asked|VBD them|PRP to|TO pass|VB them|PRP on|IN to|TO acquaintances|NNS who|WP would|MD in|IN turn|NN pass|NN them|PRP on|IN to|TO get|VB the|DT packages|NNS closer|JJR to|TO their|PRP$ intended|VBN final|JJ recipient|NN </s>|S_END
+<s>|S_START his|PRP$ famous|JJ result|NN was|VBD that|IN there|EX were|VBD on|IN average|JJ six|CD degrees|NNS of|IN separation|NN between|IN any|DT two|CD people|NNS </s>|S_END
+<s>|S_START in|IN 2011|CD facebook|NN analysed|VBD the|DT 721m|CD users|NNS of|IN its|PRP$ socialnetworking|NN site|NN and|CC found|VBD that|IN an|DT average|JJ of|IN 47|CD hops|NNS could|MD link|VB any|DT two|CD of|IN them|PRP via|IN mutual|JJ friend|NN </s>|S_END
+<s>|S_START a|DT small|JJ world|NN is|VBZ now|RB it|PRP seems|VBZ even|RB smaller|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START can|MD this|DT be|VB used|VBN to|TO solve|VB realworld|NN problems|NNS by|IN taking|VBG advantage|NN of|IN the|DT talents|NNS and|CC connections|NNS of|IN one’s|NNS friends|NNS and|CC their|PRP$ friend|NN </s>|S_END
+<s>|S_START that|DT is|VBZ the|DT aim|NN of|IN a|DT new|JJ field|NN known|VBN as|IN social|JJ mobilisation|NN which|WDT treats|NNS the|DT population|NN as|IN a|DT distributed|VBN knowledge|NN resource|NN which|WDT can|MD be|VB tapped|VBN using|VBG modern|JJ technology|NN </s>|S_END
+<s>|S_START it|PRP could|MD potentially|RB be|VB used|VBN to|TO help|VB locate|JJ missing|NN children|NNS find|VBP a|DT stolen|NN car|NN or|CC track|NN down|IN a|DT suspect|NN </s>|S_END
+<s>|S_START ocialmobilisation|NN researchers|NNS have|VBP been|VBN examining|VBG its|PRP$ potential|JJ through|IN some|DT unusual|JJ milgramlike|NN experiment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD of|IN the|DT first|JJ examples|NNS was|VBD the|DT red|VBN balloon|NN challenge|NN staged|VBD in|IN 2009|CD by|IN darpa|NN the|DT research|NN arm|NN of|IN the|DT american|JJ department|NN of|IN defence|NN </s>|S_END
+<s>|S_START its|PRP$ aim|NN was|VBD to|TO determine|VB how|WRB quickly|RB and|CC efficiently|RB information|NN could|MD be|VB gathered|VBN using|VBG social|JJ media|NNS </s>|S_END
+<s>|S_START the|DT challenge|NN was|VBD simple|JJ competitors|NNS raced|VBN to|TO locate|VB ten|VBN red|VBN weather|NN balloons|NNS that|WDT had|VBD been|VBN tethered|VBN at|IN random|NN locations|NNS across|IN the|DT united|VBN states|NNS in|IN return|NN for|IN a|DT $|$ 40000|CD prize|NN </s>|S_END
+<s>|S_START in|IN some|DT ways|NNS this|DT was|VBD similar|JJ to|TO the|DT way|NN in|IN which|WDT ushahidi|NN a|DT nonprofit|JJ website|NN gathers|NNS information|NN in|IN situations|NNS such|JJ as|IN the|DT earthquake|NN in|IN haiti|NN and|CC the|DT terrorist|NN bombings|NNS in|IN mumbai|NN </s>|S_END
+<s>|S_START the|DT difference|NN however|RB was|VBD that|IN the|DT red|NN balloon|NN challenge|NN was|VBD not|RB a|DT crisis|NN so|IN participants|NNS had|VBD to|TO find|VB another|DT way|NN to|TO motivate|VB others|NNS to|TO report|VB sightings|NNS of|IN the|DT balloon|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT winning|NN team|NN led|VBD by|IN manuel|NN cebrian|JJ and|CC sandy|NN pentland|NN of|IN the|DT massachusetts|NNS institute|VBP of|IN technology|NN mit|NN found|VBD all|DT the|DT balloons|NNS in|IN just|RB nine|CD hours|NNS using|VBG a|DT clever|NN incentivebased|VBN strategy|NN to|TO encourage|VB participation|NN </s>|S_END
+<s>|S_START the|DT first|JJ person|NN to|TO send|VB the|DT correct|NN coordinates|VBZ of|IN a|DT balloon|NN received|VBD $|$ 2000|CD but|CC whoever|RB recruited|VBN that|IN person|NN received|VBD $|$ 1000|CD and|CC the|DT recruiter’s|NNP recruiter|NN received|VBD $|$ 500|CD and|CC so|RB on|IN </s>|S_END
+<s>|S_START this|DT scheme|NN proved|VBD to|TO be|VB highly|RB optimised|VBN for|IN the|DT task|NN says|VBZ iyad|JJ rahwan|NN who|WP later|JJ joined|VBD the|DT mit|NN team|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN march|NN this|DT year|NN darpa|NN staged|VBD a|DT new|JJ contest|NN the|DT tag|NN challenge|NN </s>|S_END
+<s>|S_START this|DT time|NN the|DT goal|NN was|VBD to|TO locate|VB and|CC photograph|NN five|CD people|NNS each|DT wearing|VBG unique|JJ tshirts|NNS in|IN five|CD named|VBN cities|NNS across|IN two|CD continent|NN </s>|S_END
+<s>|S_START all|DT five|CD had|VBD to|TO be|VB identified|VBN within|IN 12|CD hours|NNS from|IN nothing|NN more|JJR than|IN a|DT mugshot|NN </s>|S_END
+<s>|S_START compared|VBN with|IN the|DT red|NN balloon|NN challenge|NN this|DT was|VBD much|RB more|RBR difficult|JJ says|NNS dr|VBP rahwan|JJ who|WP is|VBZ now|RB at|IN the|DT masdar|NN institute|NN in|IN the|DT united|VBN arab|NN emirate|NN </s>|S_END
+<s>|S_START “it|JJ involves|NNS people|NNS moving|VBG moving|VBG in|IN crowds|NNS and|CC the|DT targets|NNS are|VBP much|RB harder|JJR to|TO spot|VB especially|RB in|IN a|DT big|JJ city”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT event|NN none|NN of|IN the|DT teams|NNS managed|VBN to|TO find|VB all|PDT five|CD target|NN </s>|S_END
+<s>|S_START but|CC dr|PRP$ rahwan’s|NNS team|NN with|IN members|NNS from|IN mit|NN the|DT universities|NNS of|IN edinburgh|JJ and|CC southampton|NN and|CC the|DT university|NN of|IN california|NN san|NN diego|NN did|VBD manage|NN to|TO find|VB three—in|JJ new|JJ york|NN washington|NN dc|NN and|CC bratislava|NN </s>|S_END
+<s>|S_START with|IN a|DT prize|NN fund|NN of|IN $|$ 5000|CD the|DT stakes|NNS were|VBD lower|JJR which|WDT meant|JJ a|DT more|RBR targeted|VBN approach|NN was|VBD needed|VBN says|NNS dr|IN rahwan|NN </s>|S_END
+<s>|S_START o|NN his|PRP$ team|NN built|VBD a|DT website|JJ and|CC a|DT mobile|JJ app|NN to|TO make|VB it|PRP easier|JJR for|IN people|NNS to|TO report|VB sightings|NNS and|CC recruit|NN people|NNS </s>|S_END
+<s>|S_START each|DT finder|NN was|VBD offered|VBN $|$ 500|CD and|CC whoever|NN recruited|VBD the|DT finder|NN $|$ 100|CD </s>|S_END
+<s>|S_START but|CC limiting|VBG the|DT reward|NN in|IN this|DT way|NN meant|VBD that|IN people|NNS who|WP did|VBD not|RB know|VB anyone|NN in|IN one|CD of|IN the|DT target|NN cities|NNS had|VBD no|DT incentive|NN to|TO recruit|VB someone|NN who|WP did|VBD </s>|S_END
+<s>|S_START and|CC despite|IN investing|NN some|DT of|IN the|DT potential|JJ prize|NN money|NN to|TO promote|VB the|DT team|NN on|IN facebook|NN and|CC twitter|NN dr|NN rahwan|NN and|CC his|PRP$ colleagues|NNS found|VBD that|IN most|JJS participants|NNS used|VBN good|JJ oldfashioned|VBN email|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP still|RB counts|VBZ as|IN social|JJ mobilisation|NN says|VBZ nick|NN jennings|NNS one|CD of|IN the|DT team|NN members|NNS at|IN the|DT university|NN of|IN southampton|NN because|IN there|EX was|VBD still|RB persontoperson|NN referral|NN and|CC recruitment|NN </s>|S_END
+<s>|S_START with|IN the|DT red|NN balloon|NN challenge|NN the|DT team|NN recruited|VBD more|JJR than|IN 5000|CD people|NNS with|IN some|DT referral|JJ chains|NNS containing|VBG as|IN many|JJ as|IN 16|CD people|NNS </s>|S_END
+<s>|S_START in|IN the|DT tag|NN challenge|NN only|RB a|DT few|JJ hundred|VBN people|NNS were|VBD recruited|VBN many|JJ of|IN them|PRP directly|RB by|IN the|DT team|NN </s>|S_END
+<s>|S_START nevertheless|RB some|DT participants|NNS found|VBD out|IN about|IN the|DT challenge|NN via|IN friends|NNS and|CC colleague|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eventually|RB says|VBZ dr|NN jennings|NNS smartphones|NNS might|MD have|VB a|DT “social|JJ mobilisation”|NN search|NN app|NN that|WDT can|MD query|VB people|NNS all|DT over|IN the|DT world|NN who|WP then|RB steer|VBP the|DT query|NN towards|NNS the|DT people|NNS with|IN the|DT right|NN information|NN </s>|S_END
+<s>|S_START perhaps|RB some|DT kind|NN of|IN social|JJ currency|NN could|MD be|VB used|VBN as|IN a|DT motivator|NN </s>|S_END
+<s>|S_START in|IN the|DT meantime|NN social|JJ mobilisation|NN seems|VBZ to|TO work|VB best|JJS when|WRB it|PRP is|VBZ done|VBN in|IN a|DT good|JJ cause|NN or|CC offers|NNS a|DT financial|JJ incentive|NN </s>|S_END
+</p>|P_END
+

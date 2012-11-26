@@ -1,0 +1,79 @@
+<p>|P_START
+<s>|S_START europes|NNS sovereign|VBP debt|NN woes|NNS will|MD be|VB felt|VBN on|IN wall|NN street|NN soon|RB as|IN the|DT major|JJ us|PRP banks|NNS face|VBP downgrades|NNS by|IN moodys|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN downgrade|NN fever|NN has|VBZ been|VBN sweeping|JJ across|IN the|DT european|JJ banking|NN system|NN and|CC the|DT major|JJ wall|NN street|NN banks|NNS are|VBP likely|JJ to|TO be|VB the|DT next|JJ to|TO get|VB sick|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rating|NN agency|NN moodys|NNS cut|VBD ratings|NNS for|IN five|CD banking|NN groups|NNS in|IN the|DT netherlands|NNS three|CD in|IN france|NN and|CC one|CD in|IN luxembourg|NN friday|NN </s>|S_END
+<s>|S_START dutch|NN giants|NNS ing|VBG ing|VBG and|CC abn|NN amro|NN were|VBD among|IN the|DT banks|NNS downgraded|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START next|JJ up|IN for|IN the|DT rating|NN agency|NN are|VBP banks|NNS in|IN the|DT uk|NN as|IN well|RB as|IN 17|CD major|JJ banks|NNS with|IN global|JJ capital|NN markets|NNS operations|NNS </s>|S_END
+<s>|S_START that|DT includes|VBZ wall|NN street|NN firms|NNS citigroup|VBP c|NN fortune|NN 500|CD jpmorgan|NN chase|NN jpm|NN fortune|NN 500|CD bank|NN of|IN america|NN bac|NN fortune|NN 500|CD goldman|NN sachs|NNS gs|NNS fortune|VBP 500|CD and|CC morgan|JJ stanley|NN ms|NNS fortune|VBP 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT other|JJ rating|NN agencies|NNS standard|JJ poors|NNS and|CC fitch|NN cut|VBD their|PRP$ ratings|NNS on|IN some|DT of|IN the|DT largest|JJS us|PRP banks|NNS at|IN the|DT end|NN of|IN last|JJ year|NN </s>|S_END
+<s>|S_START banks|NNS have|VBP been|VBN trying|VBG to|TO assure|VB investors|NNS theyre|VB ready|JJ for|IN any|DT further|JJ rating|NN downgrades|NNS ever|RB since|IN moodys|NNS first|RB announced|VBD a|DT review|NN of|IN the|DT sector|NN back|RB in|IN february|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START morgan|NN stanley|NN ceo|NN james|VBZ gorman|NN told|VBD investors|NNS at|IN a|DT conference|NN this|DT week|NN that|IN even|RB if|IN it|PRP is|VBZ downgraded|VBN by|IN three|CD notches|NNS by|IN moodys|NNS it|PRP would|MD be|VB a|DT manageable|JJ outcome|NN due|JJ to|TO the|DT banks|NNS liquidity|NN </s>|S_END
+<s>|S_START executives|NNS at|IN the|DT other|JJ top|JJ banks|NNS have|VBP also|RB said|VBD theyre|NN prepared|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT banks|NNS have|VBP been|VBN addressing|VBG this|DT </s>|S_END
+<s>|S_START they|PRP knew|VBD it|PRP was|VBD coming|VBG said|VBN nancy|NN bush|NN banking|NN analyst|NN for|IN snl|NN </s>|S_END
+<s>|S_START financial|JJ a|DT research|NN firm|NN that|WDT follows|VBZ the|DT financial|JJ sector|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC bush|VBP said|VBN the|DT downgrades|NNS would|MD raise|VB costs|NNS for|IN the|DT major|JJ banks|NNS since|IN theyll|NN have|VBP to|TO pay|VB more|JJR to|TO raise|VB the|DT cash|NN they|PRP need|VBP to|TO operate|VB daytoday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT reason|NN banks|NNS have|VBP been|VBN so|RB profitable|JJ lately|RB is|VBZ that|IN their|PRP$ credit|NN costs|NNS are|VBP so|RB low|JJ said|VBD bush|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN worst|JJS some|DT banks|NNS may|MD find|VB themselves|PRP unable|JJ to|TO sell|VB their|PRP$ commercial|JJ paper|NN to|TO money|NN market|NN funds|NNS </s>|S_END
+<s>|S_START commercial|JJ paper|NN is|VBZ a|DT form|NN of|IN very|RB shortterm|JJ borrowing|NN banks|NNS and|CC other|JJ companies|NNS use|VBP to|TO meet|VB their|PRP$ overnight|NN cash|NN needs|VBZ </s>|S_END
+<s>|S_START money|NN market|NN funds|NNS the|DT most|RBS significant|JJ buyer|NN of|IN commercial|JJ paper|NN have|VBP limits|NNS on|IN the|DT debt|NN they|PRP can|MD buy|VB based|VBN on|IN the|DT credit|NN rating|NN of|IN the|DT companies|NNS offering|VBG it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP may|MD also|RB become|VB more|RBR difficult|JJ for|IN consumers|NNS and|CC businesses|NNS to|TO borrow|VB money|NN if|IN banks|NNS decide|VBP they|PRP need|VBP to|TO hold|VB onto|IN their|PRP$ cash|NN in|IN order|NN to|TO meet|VB their|PRP$ liquidity|NN needs|VBZ bush|JJ said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP certainly|RB does|VBZ not|RB help|VB the|DT cause|NN of|IN easing|VBG credit|NN she|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT uk|NN and|CC major|JJ us|PRP banks|NNS are|VBP likely|JJ to|TO be|VB downgraded|VBN even|RB though|IN neither|DT country|NN is|VBZ in|IN the|DT eurozone|NN </s>|S_END
+<s>|S_START the|DT international|JJ banking|NN system|NN is|VBZ so|RB interconnected|VBN that|IN there|EX is|VBZ no|DT way|NN those|DT banks|NNS can|MD be|VB spared|VBN some|DT pain|NN from|IN problems|NNS in|IN the|DT weaker|NN european|NN countries|NNS and|CC banking|NN system|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN fact|NN that|IN was|VBD the|DT main|JJ reason|NN for|IN the|DT downgrade|NN of|IN the|DT dutch|JJ banks|NNS </s>|S_END
+<s>|S_START moodys|NNS said|VBD they|PRP generally|RB retained|VBN good|JJ access|NN to|TO market|NN funding|NN and|CC asset|NN quality|NN remains|VBZ sound|NN to|TO date|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC their|PRP$ exposure|NN to|TO the|DT european|JJ sovereign|NN debt|NN crisis|NN coupled|VBN with|IN the|DT fact|NN that|IN the|DT fact|NN that|IN the|DT netherlands|NNS is|VBZ in|IN a|DT recession|NN and|CC is|VBZ suffering|VBG from|IN declining|VBG home|NN prices|NNS led|VBD to|TO the|DT downgrade|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fridays|NNS move|VBP follows|NNS actions|NNS by|IN moodys|NNS on|IN banks|NNS across|IN europe|NN over|IN the|DT past|JJ month|NN including|VBG ratings|NNS cuts|NNS of|IN german|NN and|CC austrian|JJ banks|NNS last|JJ week|NN and|CC downgrades|VBZ of|IN banks|NNS in|IN denmark|NN sweden|NN and|CC finland|NN at|IN the|DT end|NN of|IN may|MD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ratings|NNS of|IN institutions|NNS in|IN nations|NNS facing|VBG the|DT most|JJS serious|JJ sovereign|NN debt|NN issues|NNS namely|RB banks|NNS in|IN spain|NN italy|RB and|CC greece|VB have|VBP already|RB been|VBN downgraded|VBN by|IN most|JJS of|IN the|DT ratings|NNS agencies|NNS several|JJ times|NNS </s>|S_END
+<s>|S_START last|JJ weekend|NN spain|NN requested|VBD €100|-NONE- billion|CD from|IN other|JJ eurozone|NN countries|NNS to|TO bail|VB out|RP its|PRP$ banking|NN sector |NN </s>|S_END
+</p>|P_END
+

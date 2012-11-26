@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 40 |CD gdp|NN $|$ 281bn|CD ppp|CD $|$ 261bn|CD inflation|NN 29|CD population|NN 54m|CD gdp|NN per|IN head|NN $|$ 52220|CD ppp|CD $|$ 48560|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT oppositions|NNS performance|NN in|IN the|DT 2011|CD elections—taking|JJ six|CD seats|NNS out|IN of|IN 87—may|CD look|NN unimpressive|JJ but|CC it|PRP represented|VBD a|DT threefold|NN increase|NN and|CC was|VBD based|VBN on|IN a|DT 40|CD share|NN of|IN the|DT vote|NN so|RB the|DT longruling|NN peoples|NNS action|NN party|NN has|VBZ been|VBN warned|VBN </s>|S_END
+<s>|S_START it|PRP will|MD respond|VB by|IN displaying|NN some|DT interest|NN in|IN popular|JJ concerns|NNS but|CC is|VBZ probably|RB incapable|JJ of|IN the|DT fundamental|JJ political|JJ reform|NN that|WDT sooner|NN or|CC later|JJ will|MD be|VB required|VBN </s>|S_END
+<s>|S_START the|DT economy|NN will|MD weaken|VB a|DT bit|NN as|IN global|JJ trade|NN slow|JJ </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,11 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 42|CD gdp|NN $|$ 381bn|CD ppp|CD $|$ 663bn|CD inflation|NN 32|CD population|NN 688m|CD gdp|NN per|IN head|NN $|$ 5540|CD ppp|CD $|$ 9630|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT influence|NN of|IN a|DT populist|NN billionaire|NN thaksin|NN shinawatra|NN established|VBD with|IN his|PRP$ first|JJ election|NN victory|NN in|IN 2001|CD was|VBD barely|RB diminished|VBN by|IN his|PRP$ ouster|NN in|IN a|DT 2006|CD coup|NN and|CC is|VBZ now|RB waxing|VBG once|RB more|JJR </s>|S_END
+<s>|S_START the|DT rise|NN of|IN his|PRP$ sister|NN yingluck|NN shinawatra|NN to|TO the|DT prime|JJ ministership|NN following|VBG a|DT landslide|NN for|IN her|PRP$ puea|NN thai|NN party|NN in|IN 2011|CD appears|NNS to|TO signal|VB the|DT rehabilitation|NN of|IN his|PRP$ policies|NNS if|IN not|RB of|IN the|DT man|NN himself|PRP </s>|S_END
+<s>|S_START policy|NN security|NN and|CC the|DT tenor|NN of|IN daily|JJ life|NN will|MD reflect|VB the|DT long|JJ faceoff|NN between|IN the|DT shinawatra|NN camp|NN and|CC the|DT royalist|NN establishment|NN </s>|S_END
+<s>|S_START the|DT prospect|NN of|IN political|JJ turmoil|NN weighs|NNS on|IN the|DT economic|JJ outlook|NN but|CC growth|NN is|VBZ likely|JJ to|TO stay|VB healthy|JJ </s>|S_END
+</p>|P_END
+

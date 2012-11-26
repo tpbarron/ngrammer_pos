@@ -1,0 +1,36 @@
+<p>|P_START
+<s>|S_START during|IN tuesday|NN nights|NNS debate|VBP mitt|NN romney|NN accused|VBD president|NN obama|NN of|IN presiding|VBG over|IN a|DT decline|NN in|IN oil|NN and|CC gas|NN production|NN from|IN federal|JJ land|NN and|CC waters|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START was|VBD he|PRP right|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT chart|NN above|IN shows|NNS that|IN oil|NN production|NN on|IN federal|JJ property|NN did|VBD in|IN fact|NN decline|NN by|IN 13|CD last|JJ year|NN according|VBG to|TO the|DT us|PRP energy|NN information|NN administration|NN </s>|S_END
+<s>|S_START but|CC that|DT was|VBD mostly|RB the|DT result|NN of|IN the|DT moratorium|NN imposed|VBD after|IN the|DT bp|NN spill|NN in|IN 2010|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START overall|JJ oil|NN production|NN in|IN 2011|CD was|VBD still|RB above|IN where|WRB it|PRP was|VBD when|WRB obama|NN took|VBD office|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START analysts|NNS are|VBP projecting|VBG another|DT fall|NN in|IN oil|NN production|NN from|IN federal|JJ land|NN and|CC water|NN in|IN 2012|CD again|RB largely|RB due|JJ to|TO the|DT lingering|NN effects|NNS of|IN the|DT moratorium|NN </s>|S_END
+<s>|S_START in|IN 2013|CD production|NN is|VBZ expected|VBN to|TO start|VB rising|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB natural|JJ gas|NN production|NN from|IN federal|JJ lands|NNS has|VBZ been|VBN steadily|RB declining|VBG for|IN years|NNS as|IN the|DT industry|NN has|VBZ moved|VBN away|RB from|IN offshore|JJR drilling|VBG in|IN favor|NN of|IN newlyaccessible|JJ onshore|NN shale|NN fields|NNS which|WDT are|VBP mostly|RB located|VBN on|IN private|JJ land|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT decline|NN in|IN production|NN from|IN federally|RB administered|VBN areas|NNS has|VBZ not|RB led|VBN to|TO an|DT overall|JJ decline|NN in|IN us|PRP oil|NN and|CC gas|NN production|NN </s>|S_END
+<s>|S_START indeed|RB the|DT country|NN is|VBZ in|IN the|DT midst|NN of|IN an|DT energy|NN boom|NN mostly|RB occurring|VBG on|IN private|JJ land|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START from|IN 2008|CD to|TO 2011|CD us|PRP crude|JJ oil|NN production|NN has|VBZ jumped|VBN 14|CD going|VBG from|IN 51|CD million|CD barrels|NNS per|IN day|NN at|IN the|DT start|NN of|IN 2008|CD to|TO nearly|RB 58|CD million|CD barrels|NNS per|IN day|NN currently|RB according|VBG to|TO the|DT eia|NN </s>|S_END
+<s>|S_START natural|JJ gas|NN is|VBZ up|IN by|IN about|IN 10|CD over|IN the|DT same|JJ period|NN </s>|S_END
+</p>|P_END
+

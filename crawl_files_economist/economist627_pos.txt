@@ -1,0 +1,47 @@
+<p>|P_START
+<s>|S_START at|IN a|DT time|NN when|WRB financial|JJ firms|NNS will|MD spend|VB hundreds|NNS of|IN millions|NNS of|IN dollars|NNS to|TO settle|VB legal|JJ claims|NNS as|IN a|DT matter|NN of|IN expedience|NN deutsche|NN bank|NN has|VBZ done|VBN the|DT unthinkable|JJ </s>|S_END
+<s>|S_START in|IN response|NN to|TO an|DT order|NN in|IN september|NN from|IN the|DT enforcement|NN division|NN of|IN the|DT federal|JJ energy|NN regulatory|NN commission|NN ferc|NN demanding|VBG $|$ 16m|CD in|IN fines|NNS and|CC disgorgement|NN for|IN alleged|JJ powermarket|NN manipulation|NN the|DT bank|NN has|VBZ drawn|VBN a|DT line|NN in|IN the|DT sand|NN </s>|S_END
+<s>|S_START on|IN november|NN 5th|CD it|PRP submitted|VBD an|DT 83page|JJ response|NN and|CC vowed|VBD to|TO fight|NN the|DT charges|NNS even|RB though|IN it|PRP says|VBZ the|DT cost|NN of|IN the|DT legal|JJ defence|NN will|MD probably|RB exceed|VB the|DT cost|NN of|IN the|DT proposed|VBN penalty|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START deutsche’s|NNS intransigence|VBP is|VBZ set|VBN to|TO be|VB copied|VBN by|IN barclay|NN </s>|S_END
+<s>|S_START on|IN october|NN 31st|CD ferc|NN filed|VBD an|DT “order|JJ to|TO show|VB cause”|JJ demanding|NN that|WDT the|DT british|JJ bank|NN pay|NN a|DT fine|NN of|IN $|$ 470m|CD for|IN its|PRP$ own|JJ alleged|JJ efforts|NNS to|TO manipulate|VB energy|NN markets|NNS it|PRP also|RB levied|VBD $|$ 18m|CD in|IN fines|NNS on|IN four|CD of|IN its|PRP$ trader|NN </s>|S_END
+<s>|S_START barclays|NNS promised|VBD to|TO fight|NN the|DT charges|NNS and|CC issue|NN its|PRP$ own|JJ deutschelike|NN response|NN within|IN 30|CD day|NN </s>|S_END
+<s>|S_START another|DT case|NN is|VBZ said|VBN to|TO be|VB in|IN the|DT works|NNS against|IN jpmorgan|JJ chase|NN and|CC resistance|NN would|MD not|RB be|VB surprising|JJ in|IN that|DT one|CD as|IN well|RB </s>|S_END
+<s>|S_START in|IN march|NN ferc|NN achieved|VBD its|PRP$ biggest|JJS success|NN settling|VBG a|DT case|NN against|IN constellation|NN energy|NN a|DT baltimorebased|VBN utility|NN for|IN $|$ 245m|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT charges|NNS against|IN constellation|NN barclays|NNS and|CC deutsche|PRP all|DT centre|NN on|IN “relatedposition”|NNP cases|NNS meaning|VBG that|IN the|DT companies|NNS traded|VBN in|IN the|DT actual|JJ deliverable|JJ market|NN for|IN electricity|NN while|IN simultaneously|RB trading|NN in|IN financial|JJ markets|NNS tied|VBN to|TO electricity|NN </s>|S_END
+<s>|S_START they|PRP are|VBP accused|VBN of|IN distorting|NN prices|NNS in|IN one|CD market—even|JJ at|IN a|DT loss—to|JJ benefit|NN positions|NNS in|IN the|DT other|JJ </s>|S_END
+<s>|S_START the|DT firms|NNS all|DT hotly|RB deny|JJ these|DT claim|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START indeed|RB deutsche|VBP believes|NNS that|IN the|DT ability|NN of|IN firms|NNS to|TO trade|VB simultaneously|RB in|IN related|JJ markets|NNS is|VBZ under|IN threat|NN from|IN ferc’s|NNP action|NN </s>|S_END
+<s>|S_START “one|NN might|MD wonder|VB why|WRB dbet|NN deutsche|NN bank|NN energy|NN trading|NN has|VBZ not|RB already|RB settled”|-NONE- the|DT bank|NN asked|VBD rhetorically|RB in|IN its|PRP$ filing|NN </s>|S_END
+<s>|S_START “the|DT answer|NN comes|VBZ down|IN to|TO principle”|NNP undermining|NN such|JJ trading|NN says|VBZ deutsche|PRP is|VBZ a|DT “radical”|JJ proposition|NN that|WDT is|VBZ not|RB only|RB wrong|JJ but|CC counterproductive|JJ </s>|S_END
+<s>|S_START it|PRP would|MD “fracture|VB the|DT foundation|NN of|IN organised|VBN power|NN markets”|-NONE- </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT the|DT cases|NNS involve|VBP events|NNS that|IN have|VBP occurred|VBN in|IN the|DT past|JJ few|JJ years|NNS but|CC the|DT core|NN issues|NNS go|VBP back|RB to|TO the|DT 1990s|CD when|WRB america’s|JJ power|NN market|NN was|VBD substantially|RB deregulated|VBN beginning|NN in|IN california|NN </s>|S_END
+<s>|S_START many|JJ utilities|NNS that|WDT previously|RB handled|VBD three|CD critical|JJ activities—energy|JJ generation|NN transmission|NN and|CC distribution—were|JJ broken|NN apart|NN </s>|S_END
+<s>|S_START even|RB regional|JJ transmission|NN organisations|NNS were|VBD created|VBN across|IN america|NN each|DT in|IN effect|NN an|DT independent|JJ market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN roughly|RB the|DT same|JJ time|NN laws|NNS prohibiting|VBG financial|JJ firms|NNS from|IN entering|VBG the|DT energy|NN business|NN were|VBD gradually|RB relaxed|VBN at|IN first|JJ to|TO allow|VB them|PRP into|IN the|DT business|NN of|IN energyrelated|VBN derivative|JJ contracts|NNS and|CC then|RB to|TO help|VB them|PRP manage|VB risks|NNS better|RBR to|TO own|VB the|DT physical|JJ products|NNS directly|RB </s>|S_END
+<s>|S_START about|IN a|DT dozen|NN large|JJ financial|JJ firms|NNS and|CC scores|NNS of|IN small|JJ ones|NNS make|VBP an|DT active|JJ market|NN in|IN electricity|NN in|IN america|NN which|WDT is|VBZ priced|VBN differently|RB according|VBG to|TO when|WRB it|PRP is|VBZ required|VBN peak|NN demand|NN hours|NNS are|VBP more|RBR expensive|JJ and|CC where|WRB </s>|S_END
+<s>|S_START deutsche|PRP is|VBZ accused|VBN of|IN manipulating|NN the|DT market|NN at|IN a|DT point|NN when|WRB california’s|JJ supplies|NNS were|VBD tight|JJ barclays|NNS of|IN manipulating|VBG the|DT price|NN of|IN californian|JJ energy|NN to|TO enhance|NN the|DT price|NN of|IN various|JJ swap|NN contracts|NNS it|PRP traded|VBD on|IN the|DT intercontinentalexchange|NN ice|NN an|DT electronic|JJ market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT current|JJ structure|NN of|IN the|DT energy|NN market|NN is|VBZ wildly|RB complex|JJ </s>|S_END
+<s>|S_START the|DT regulatory|JJ filings|NNS suggest|VBP that|IN insiders|NNS were|VBD themselves|PRP occasionally|RB lost|VBD </s>|S_END
+<s>|S_START it|PRP is|VBZ unclear|JJ how|WRB much|JJ the|DT cleverest|JJS judge|NN or|CC jury|NN will|MD be|VB able|JJ to|TO grasp|VB and|CC whether|IN that|DT will|MD favour|VB the|DT government|NN or|CC the|DT defendant|NN </s>|S_END
+<s>|S_START one|CD lawyer|NN reckons|NNS the|DT cases|NNS will|MD not|RB go|VB to|TO court|VB for|IN at|IN least|JJS a|DT year|NN and|CC maybe|VB as|IN long|RB as|IN three|CD </s>|S_END
+<s>|S_START but|CC if|IN something|NN is|VBZ rotten|VBN about|IN the|DT market|NN the|DT best|JJS answer|NN may|MD be|VB a|DT simpler|NN structure|NN not|RB more|RBR lawsuit|JJ </s>|S_END
+</p>|P_END
+

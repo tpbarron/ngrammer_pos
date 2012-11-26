@@ -1,0 +1,115 @@
+<p>|P_START
+<s>|S_START spains|NNS banking|VBG system|NN is|VBZ healthy|JJ but|CC some|DT banks|NNS are|VBP vulnerable|JJ the|DT imf|NN says|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN spain|NN has|VBZ asked|VBN the|DT european|JJ union|NN for|IN up|IN to|TO €100|-NONE- billion|CD $|$ 125|CD billion|CD to|TO provide|VB a|DT capital|NN buffer|NN for|IN the|DT nations|NNS ailing|VBG banks|NNS the|DT eurogroup|NN said|VBD saturday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT eurogroup|NN has|VBZ been|VBN informed|VBN that|IN the|DT spanish|JJ authorities|NNS will|MD present|VB a|DT formal|JJ request|NN shortly|RB and|CC is|VBZ willing|JJ to|TO respond|VB favorably|RB to|TO such|JJ a|DT request|NN the|DT group|NN said|VBD in|IN a|DT statement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START without|IN specifying|NN the|DT amount|NN sought|VBD spains|NNS economy|NN minister|NN luis|VBZ de|IN guindos|NNS announced|VBD the|DT request|NN at|IN a|DT news|NN conference|NN in|IN madrid|NN </s>|S_END
+<s>|S_START de|IN guindos|NNS said|VBD that|IN the|DT amount|NN sought|VBD would|MD be|VB enough|RB to|TO guarantee|VB the|DT safety|NN of|IN the|DT banks|NNS and|CC signify|VB credibility|NN to|TO the|DT capital|NN markets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT announcement|NN came|VBD in|IN the|DT wake|NN of|IN an|DT international|JJ monetary|NN fund|NN report|NN issued|VBD late|JJ friday|NN saying|VBG that|IN several|JJ banks|NNS in|IN spain|NN would|MD need|VB to|TO raise|VB capital|NN buffers|NNS by|IN a|DT total|JJ of|IN €40|-NONE- billion|CD $|$ 501|CD billion|CD to|TO withstand|VB another|DT financial|JJ shock|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eu|NN officials|NNS are|VBP eager|JJ to|TO resolve|VB the|DT issue|NN before|IN a|DT pivotal|JJ election|NN in|IN greece|NN on|IN june|NN 17|CD which|WDT could|MD present|VB another|DT major|JJ turning|NN point|NN in|IN the|DT longrunning|NN european|NN debt|NN crisis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ details|NNS remain|VBP to|TO be|VB finalized|VBN de|IN guindos|NNS said|VBD in|IN saturdays|NNS news|NN conference|NN </s>|S_END
+<s>|S_START he|PRP said|VBD much|RB will|MD depend|VB on|IN the|DT outcome|NN of|IN two|CD independent|JJ audits|NNS of|IN spanish|JJ banks|NNS that|WDT are|VBP expected|VBN to|TO be|VB done|VBN later|JJ this|DT month|NN </s>|S_END
+<s>|S_START the|DT eurogroup|NN said|VBD in|IN its|PRP$ statement|NN that|IN its|PRP$ aid|NN would|MD be|VB scaled|VBN according|VBG to|TO the|DT results|NNS of|IN the|DT audit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT money|NN will|MD be|VB loaned|VBN to|TO spains|NNS bailout|IN fund|NN which|WDT will|MD then|RB inject|VB it|PRP into|IN banks|NNS that|WDT need|VBP to|TO raise|VB capital|NN according|VBG to|TO de|VB guindos|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT loan|NN will|MD be|VB provided|VBN on|IN very|RB favorable|JJ terms|NNS he|PRP said|VBD adding|VBG that|IN the|DT conditions|NNS will|MD only|RB apply|VB to|TO banks|NNS and|CC not|RB the|DT government|NN </s>|S_END
+<s>|S_START he|PRP stressed|VBD that|IN spain|NN has|VBZ asked|VBN for|IN help|NN with|IN its|PRP$ banks|NNS and|CC that|IN it|PRP has|VBZ not|RB requested|VBN a|DT fullblown|NN bailout|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT european|JJ financial|JJ stability|NN facility|NN could|MD provide|VB some|DT of|IN the|DT capital|NN said|VBD de|IN guindos|NNS </s>|S_END
+<s>|S_START but|CC he|PRP added|VBD that|IN the|DT bailout|NN fund|NN has|VBZ not|RB been|VBN authorized|VBN by|IN all|DT euro|NN area|NN parliaments|NNS to|TO grant|VB such|JJ a|DT request|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT efsf|NN has|VBZ already|RB backed|VBN loans|NNS for|IN greece|NN ireland|NN and|CC portugal|JJ </s>|S_END
+<s>|S_START it|PRP has|VBZ about|IN €200|-NONE- billion|CD in|IN available|JJ funds|NNS according|VBG to|TO some|DT estimates|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT goal|NN is|VBZ to|TO help|VB the|DT spanish|JJ economy|NN recover|NN by|IN recapitalizing|NN insolvent|NN banks|NNS so|RB that|IN those|DT institutions|NNS can|MD begin|VB lending|VBG to|TO companies|NNS and|CC families|NNS said|VBD de|IN guindos|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP believe|VBP this|DT announcement|NN is|VBZ good|JJ news|NN for|IN the|DT spanish|JJ economy|NN and|CC good|JJ news|NN for|IN the|DT eurozone|NN said|VBD de|IN guindos|NNS </s>|S_END
+<s>|S_START it|PRP shows|VBZ the|DT political|JJ willingness|NN of|IN the|DT eu|NN to|TO eliminate|VB the|DT doubts|NNS that|WDT exist|NN now|RB about|RB the|DT euro|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT obama|NN administration|NN hoping|VBG to|TO keep|VB the|DT european|JJ crisis|NN from|IN fouling|VBG the|DT us|PRP economy|NN in|IN an|DT election|NN year|NN reacted|VBD positively|RB to|TO the|DT announcement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP welcome|VBP spains|NNS action|NN to|TO recapitalize|VB its|PRP$ banking|NN system|NN and|CC the|DT commitment|NN by|IN its|PRP$ european|JJ partners|NNS to|TO provide|VB support|NN treasury|NN secretary|NN tim|NN geithner|NN said|VBD in|IN a|DT statement|NN </s>|S_END
+<s>|S_START these|DT are|VBP important|JJ for|IN the|DT health|NN of|IN spains|NNS economy|NN and|CC as|IN concrete|JJ steps|NNS on|IN the|DT path|NN to|TO financial|JJ union|NN which|WDT is|VBZ vital|JJ to|TO the|DT resilience|NN of|IN the|DT euro|NN area|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT imf|NN said|VBD it|PRP subjected|VBD spanish|JJ banks|NNS to|TO a|DT stress|NN test|NN and|CC found|VBD that|IN most|JJS large|JJ banks|NNS are|VBP relatively|RB healthy|JJ </s>|S_END
+<s>|S_START but|CC the|DT group|NN warned|VBD that|IN several|JJ banks|NNS would|MD need|VB to|TO raise|VB buffers|NNS under|IN the|DT worstcase|NN scenario|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT €40|NN billion|NN figure|NN is|VBZ not|RB a|DT definitive|JJ estimate|NN of|IN the|DT banks|NNS capital|NN needs|VBZ </s>|S_END
+<s>|S_START the|DT imf|NN said|VBD banks|NNS would|MD need|VB to|TO raise|VB more|JJR capital|NN depending|VBG on|IN restructuring|NN costs|NNS and|CC loan|NN adjustments|NNS that|IN have|VBP yet|RB to|TO take|VB place|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START going|VBG forward|RB it|PRP will|MD be|VB critical|JJ to|TO communicate|VB clearly|RB the|DT strategy|NN for|IN providing|NN a|DT credible|JJ backstop|NN for|IN capital|NN shortfalls|NNS a|DT backstop|NN that|WDT experience|NN shows|VBZ it|PRP is|VBZ better|RBR to|TO overestimate|VB than|IN underestimate|JJ said|VBD ceyla|NN pazarbasioglu|NN deputy|NN director|NN of|IN the|DT imfs|NNS monetary|JJ and|CC capital|NN markets|NNS department|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fitch|NN ratings|NNS agency|NN which|WDT slashed|VBD spains|VBZ credit|NN rating|NN thursday|NN estimated|VBD that|IN recapitalizing|NN the|DT spanish|JJ banking|NN sector|NN could|MD cost|VB up|RP to|TO €100|-NONE- billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT report|NN was|VBD released|VBN as|IN imf|NN managing|VBG director|NN christine|NN lagarde|NN called|VBN on|IN global|JJ policy|NN makers|NNS to|TO come|VB together|RP for|IN the|DT sake|NN of|IN the|DT global|JJ economy|NN and|CC get|VB the|DT job|NN done|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ no|DT mistaking|NN that|IN global|JJ risks|NNS are|VBP on|IN the|DT rise|NN again|RB she|PRP said|VBD in|IN a|DT friday|NN speech|NN in|IN new|JJ york|NN </s>|S_END
+<s>|S_START the|DT euro|NN area|NN crisis|NN continues|VBZ to|TO be|VB the|DT most|JJS immediate|JJ and|CC most|JJS pressing|VBG threat|NN and|CC there|EX is|VBZ the|DT risk|NN that|IN conditions|NNS could|MD get|VB worse|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN the|DT euro|NN crisis|NN is|VBZ the|DT most|RBS immediate|JJ concern|NN she|PRP also|RB warned|VBD that|IN the|DT us|PRP economy|NN could|MD fall|VB of|IN a|DT fiscal|JJ cliff|NN if|IN the|DT nations|NNS debt|NN is|VBZ not|RB put|VBN on|IN a|DT sustainable|JJ path|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START european|JJ banks|NNS are|VBP at|IN the|DT epicenter|NN of|IN our|PRP$ current|JJ worries|NNS and|CC naturally|RB should|MD be|VB the|DT priority|NN for|IN repair|NN she|PRP said|VBD </s>|S_END
+<s>|S_START but|CC this|DT does|VBZ not|RB mean|VB we|PRP should|MD overlook|VB the|DT broader|JJR implications|NNS of|IN todays|NNS interconnected|VBN world|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lagarde|NN pointed|VBD to|TO the|DT recent|JJ disclosure|NN by|IN jpmorgan|NN chase|NN jpm|NN fortune|NN 500|CD that|WDT the|DT largest|JJS us|PRP bank|VBD by|IN assets|NNS had|VBD lost|VBN at|IN lest|JJS $|$ 2|CD billion|CD on|IN risky|JJ trades|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP still|RB many|JJ questions|NNS surrounding|VBG jpmorgans|NNS trading|NN loss|NN </s>|S_END
+<s>|S_START yet|RB they|PRP should|MD be|VB seen|VBN as|IN a|DT warning|NN shot|NN over|IN the|DT bow|NN she|PRP said|VBD </s>|S_END
+<s>|S_START it|PRP reveals|VBZ that|IN too|RB much|JJ risk|NN remains|VBZ </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

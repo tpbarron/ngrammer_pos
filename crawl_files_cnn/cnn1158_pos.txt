@@ -1,0 +1,68 @@
+<p>|P_START
+<s>|S_START spains|NNS sovereign|VBP debt|NN is|VBZ at|IN risk|NN of|IN falling|VBG into|IN junk|NN bond|NN status|NN according|VBG to|TO rating|NN agency|NN fitch|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN spains|VBZ sovereign|NN debt|NN rating|NN was|VBD slashed|VBN three|CD steps|NNS thursday|NN by|IN credit|NN rating|NN agency|NN fitch|NN which|WDT warned|VBN that|IN the|DT nation|NN is|VBZ at|IN risk|NN of|IN being|VBG downgraded|VBN into|IN junk|NN bond|NN status|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT nations|NNS debt|NN rating|NN was|VBD cut|VBN from|IN a|DT all|NN the|DT way|NN to|TO bbb|VB the|DT lowest|JJS rating|NN that|WDT is|VBZ considered|VBN investment|NN grade|NN </s>|S_END
+<s>|S_START and|CC the|DT new|JJ rating|NN was|VBD given|VBN a|DT negative|JJ outlook|NN meaning|NN it|PRP at|IN risk|NN for|IN further|JJ downgrades|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fitch|NN pointed|VBD to|TO the|DT estimated|VBN cost|NN of|IN a|DT spanish|JJ bank|NN bailout|IN which|WDT it|PRP said|VBD is|VBZ likely|JJ to|TO cost|VB between|IN €60|-NONE- billion|CD to|TO €100|-NONE- billion|CD as|IN well|RB as|IN a|DT prolonged|JJ recession|NN that|WDT fitch|NN now|RB expects|VBZ to|TO run|VB throughout|IN 2013|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START spains|NNS high|VBP level|NN of|IN foreign|JJ indebtedness|NN has|VBZ rendered|VBN it|PRP especially|RB vulnerable|JJ to|TO contagion|NN from|IN the|DT ongoing|JJ crisis|NN in|IN greece|NN the|DT agency|NN said|VBD in|IN the|DT note|NN </s>|S_END
+<s>|S_START the|DT much|JJ reduced|VBN financing|NN flexibility|NN of|IN the|DT spanish|JJ government|NN is|VBZ constraining|VBG its|PRP$ ability|NN to|TO intervene|VB decisively|RB in|IN the|DT restructuring|NN of|IN the|DT banking|NN sector|NN and|CC has|VBZ increased|VBN the|DT likelihood|NN of|IN external|JJ financial|JJ support|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT firm|NN said|VBD that|IN part|NN of|IN the|DT reason|NN for|IN the|DT downgrade|NN was|VBD policy|NN missteps|NNS at|IN the|DT european|JJ level|NN that|WDT in|IN fitchs|NNS opinion|NN have|VBP aggravated|VBN the|DT economic|JJ and|CC financial|JJ challenges|NNS facing|VBG spain|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT absence|NN of|IN a|DT credible|JJ vision|NN of|IN a|DT reformed|VBN eurozone|NN and|CC financial|JJ firewall|NN has|VBZ rendered|VBN spain|NN and|CC other|JJ socalled|JJ peripheral|JJ nations|NNS vulnerable|JJ to|TO capital|NN flight|NN and|CC undercut|VBD their|PRP$ access|NN to|TO affordable|JJ fiscal|JJ funding|NN said|VBD the|DT report|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fitch|NN said|VBD spain|NN is|VBZ helped|VBN by|IN a|DT relatively|RB high|JJ valueadded|VBN and|CC diverse|JJ economy|NN one|CD that|WDT is|VBZ competitive|JJ enough|RB that|IN it|PRP might|MD have|VB a|DT trade|NN surplus|NN this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC spain|NN fell|VBD into|IN recession|NN in|IN the|DT first|JJ quarter|NN of|IN this|DT year|NN </s>|S_END
+<s>|S_START the|DT bursting|NN of|IN a|DT housing|NN bubble|JJ slashed|JJ property|NN values|NNS and|CC sparked|VBD spains|NNS record|NN high|JJ unemployment|NN of|IN 243|CD in|IN april|NN the|DT highest|JJS in|IN the|DT 27nation|CD european|JJ union|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START problems|NNS with|IN spains|NNS banking|VBG system|NN and|CC its|PRP$ sovereign|NN debt|NN have|VBP become|VBN a|DT major|JJ concern|NN for|IN investors|NNS and|CC economists|NNS in|IN recent|JJ weeks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN there|EX are|VBP still|RB uncertainties|NNS about|IN whether|IN greece|NN will|MD be|VB forced|VBN to|TO drop|VB the|DT euro|NN following|VBG its|PRP$ upcoming|NN parliamentary|NN elections|NNS on|IN june|NN 17|CD the|DT possibility|NN of|IN spain|NN needing|VBG help|NN is|VBZ a|DT more|RBR pressing|VBG concern|NN due|JJ to|TO the|DT size|NN of|IN the|DT economy|NN the|DT fourth|JJ largest|JJS in|IN the|DT eurozone|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fear|NN is|VBZ that|IN spain|NN will|MD need|VB to|TO be|VB bailed|VBN out|RP by|IN other|JJ european|JJ countries|NNS if|IN it|PRP can|MD not|RB come|VB up|RP with|IN a|DT way|NN to|TO recapitalize|VB the|DT banking|NN sector|NN </s>|S_END
+<s>|S_START but|CC it|PRP remains|VBZ to|TO be|VB seen|VBN if|IN germany|NN will|MD back|VB a|DT plan|NN to|TO allow|VB bailout|IN funds|NNS to|TO be|VB pumped|VBN directly|RB to|TO banks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN tuesday|NN treasury|NN minister|NN cristobal|NN montoro|NN told|VBD spanish|JJ radio|NN station|NN onda|NN cero|NN that|WDT the|DT risk|NN premium|NN says|VBZ that|IN as|IN a|DT state|NN we|PRP have|VBP a|DT problem|NN in|IN accessing|NN markets|NNS when|WRB we|PRP need|VBP to|TO refinance|NN our|PRP$ debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP called|VBD for|IN more|JJR help|NN from|IN other|JJ european|JJ governments|NNS to|TO help|VB support|NN spanish|VB banks|NNS saying|VBG the|DT country|NN couldnt|NN solve|NN its|PRP$ sovereign|NN debt|NN problems|NNS on|IN its|PRP$ own|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC an|DT spain|NN found|NN strong|JJ demand|NN for|IN its|PRP$ debt|NN in|IN a|DT successful|JJ bond|NN auction|NN thursday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT yield|NN on|IN spains|NNS benchmark|VBP 10year|JJ bond|NN was|VBD down|RB 019|CD percentage|NN point|NN to|TO 608|CD in|IN trading|NN thursday|NN even|RB after|IN the|DT downgrade|NN suggesting|VBG that|IN investors|NNS had|VBD already|RB priced|VBN in|IN the|DT risk|NN of|IN downgrades|NNS before|IN fitchs|NNS announcement |-NONE- </s>|S_END
+</p>|P_END
+

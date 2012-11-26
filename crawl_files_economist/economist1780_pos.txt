@@ -1,0 +1,15 @@
+<p>|P_START
+<s>|S_START in|IN an|DT article|NN on|IN dna|NN tests|NNS for|IN illegal|JJ logs|NNS seeing|VBG the|DT wood|NN for|IN the|DT trees|NNS september|NN 22nd|CD we|PRP misspelled|VBD jonathan|IN geach’s|JJ name|NN </s>|S_END
+<s>|S_START he|PRP is|VBZ the|DT executive|JJ director|NN of|IN doublehelix|NN not|RB the|DT ceo|NN </s>|S_END
+<s>|S_START we|PRP also|RB said|VBD that|IN it|PRP costs|VBZ $|$ 450|CD to|TO test|NN $|$ 45000worth|JJ of|IN merbau|NN wood|NN </s>|S_END
+<s>|S_START the|DT correct|NN figure|NN is|VBZ $|$ 250|CD </s>|S_END
+<s>|S_START and|CC we|PRP suggested|VBD that|IN genetic|JJ mapping|NN is|VBZ required|VBN for|IN all|PDT timber|JJR dna|NN testing|NN service|NN </s>|S_END
+<s>|S_START in|IN fact|NN it|PRP is|VBZ necessary|JJ only|RB for|IN some|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT recent|JJ article|NN on|IN american|JJ beer|NN and|CC spirits|NNS prohibition|NN hangover|NN september|NN 8th|CD we|PRP wrote|VBD that|IN craft|NN distillers|NNS accounted|VBD for|IN just|RB over|IN 25|CD of|IN the|DT spirits|NNS sold|VBD and|CC 45|CD of|IN the|DT revenue|NN from|IN spirits|NNS last|JJ year|NN in|IN america|NN </s>|S_END
+<s>|S_START in|IN fact|NN that|IN is|VBZ the|DT market|NN share|NN not|RB for|IN craft|NN distilleries|NNS but|CC for|IN highend|NN and|CC superpremium|NN spirit|NN </s>|S_END
+<s>|S_START we|PRP apologise|VBP for|IN these|DT error|NN </s>|S_END
+</p>|P_END
+

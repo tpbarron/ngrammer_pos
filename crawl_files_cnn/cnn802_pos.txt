@@ -1,0 +1,97 @@
+<p>|P_START
+<s>|S_START all|DT major|JJ tax|NN changes|NNS have|VBP followed|VBN public|JJ debates|NNS about|IN tax|NN fairness|NN </s>|S_END
+<s>|S_START now|RB were|VBD having|VBG another|DT one|CD about|IN how|WRB much|JJ to|TO tax|NN the|DT rich|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START joseph|NN j|NN thorndike|NN is|VBZ a|DT contributing|NN editor|NN at|IN tax|NN analysts|NNS and|CC a|DT columnist|NN for|IN tax|NN notes|NNS magazine|NN </s>|S_END
+<s>|S_START his|PRP$ new|JJ book|NN the|DT fair|NN share|NN taxing|VBG the|DT rich|JJ in|IN the|DT age|NN of|IN fdr|NN will|MD be|VB published|VBN later|JJ this|DT year|NN by|IN the|DT urban|NN institute|NN press|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP actually|RB two|CD how|WRB much|JJ questions|NNS at|IN play|NN here|RB </s>|S_END
+<s>|S_START how|WRB much|JJ income|NN does|VBZ it|PRP take|VB to|TO be|VB rich|JJ </s>|S_END
+<s>|S_START and|CC assuming|VBG you|PRP qualify|VB how|WRB much|RB should|MD you|PRP be|VB forking|VBG over|IN to|TO the|DT government|NN every|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lots|NNS of|IN politicians|NNS are|VBP prepared|VBN to|TO answer|VB these|DT questions|NNS </s>|S_END
+<s>|S_START president|NN obama|VBD for|IN instance|NN thinks|NNS anyone|NN making|VBG more|JJR than|IN $|$ 1|CD million|CD a|DT year|NN should|MD pay|VB at|IN least|JJS 30|CD in|IN taxes|NNS the|DT socalled|JJ buffett|NN rule|NN after|IN billionaire|NN investor|NN and|CC eager|JJ taxpayer|NN warren|NNS buffett|VBP </s>|S_END
+<s>|S_START more|JJR broadly|RB obama|NN would|MD let|VB the|DT bush|JJ tax|NN cuts|NNS expire|VBP pushing|VBG the|DT top|JJ income|NN tax|NN rate|NN to|TO 396|CD from|IN 35|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START republicans|NNS tend|VBP to|TO disagree|VB with|IN these|DT proposals|NNS </s>|S_END
+<s>|S_START mitt|NN romney|NN for|IN instance|NN would|MD start|VB by|IN making|VBG all|DT the|DT bush|NN tax|NN cuts|NNS permanent|JJ </s>|S_END
+<s>|S_START he|PRP would|MD then|RB cut|VB rates|NNS by|IN another|DT 20|CD bringing|VBG the|DT top|JJ rate|NN to|TO just|RB 28|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN whos|NNS right|RB obama|VBP or|CC romney|NN </s>|S_END
+<s>|S_START both|DT </s>|S_END
+<s>|S_START or|CC neither|DT </s>|S_END
+<s>|S_START take|VB your|PRP$ pick|NN because|IN when|WRB it|PRP comes|VBZ to|TO taxing|VBG the|DT rich|JJ there|EX is|VBZ no|DT single|JJ objectively|RB correct|JJ answer|NN </s>|S_END
+<s>|S_START you|PRP can|MD talk|VB all|PDT you|PRP want|VBP about|IN asking|VBG rich|JJ people|NNS to|TO pay|VB their|PRP$ fair|NN share|NN but|CC dont|NN kid|VBD yourself|PRP youre|NN just|RB trying|VBG turn|NN private|JJ opinions|NNS into|IN public|JJ policy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN the|DT other|JJ hand|NN dont|NN be|VB shy|JJ about|IN those|DT opinions|NNS either|CC </s>|S_END
+<s>|S_START historically|RB theyve|VBP been|VBN crucial|JJ to|TO the|DT development|NN of|IN the|DT federal|JJ tax|NN system|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START until|IN the|DT civil|NN war|NN for|IN instance|NN almost|RB all|DT federal|JJ revenue|NN came|VBD from|IN tariff|NN duties|NNS on|IN imported|VBN goods|NNS </s>|S_END
+<s>|S_START but|CC in|IN 1861|CD complaints|NNS about|IN these|DT regressive|JJ taxes|NNS prompted|VBD lawmakers|NNS to|TO create|VB the|DT first|JJ us|PRP income|NN tax|NN </s>|S_END
+<s>|S_START the|DT new|JJ tax|NN they|PRP insisted|VBD would|MD make|VB the|DT revenue|NN system|NN more|RBR fair|JJ especially|RB crucial|JJ in|IN the|DT midst|NN of|IN a|DT civil|JJ war|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT first|JJ income|NN tax|NN disappeared|VBD in|IN the|DT 1870s|CD but|CC four|CD decades|NNS later|JJ congress|NN brought|NN it|PRP back|RB during|IN another|DT argument|NN about|IN fiscal|JJ fairness|NN </s>|S_END
+<s>|S_START and|CC this|DT time|NN the|DT levy|NN stuck|NN around|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT most|RBS important|JJ tax|NN fairness|NN debate|NN of|IN the|DT last|JJ century|NN took|VBD place|NN during|IN world|NN war|NN ii|NN when|WRB lawmakers|NNS transformed|VBN the|DT income|NN tax|NN from|IN a|DT rich|JJ mans|NNS burden|VBP to|TO a|DT middle|NN class|NN millstone|NN </s>|S_END
+<s>|S_START desperate|NN for|IN taxes|NNS to|TO beat|VB the|DT axis|NNS lawmakers|NNS added|VBD millions|NNS of|IN previouslyexempt|NN taxpayers|NNS to|TO the|DT rolls|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN doing|NN so|IN they|PRP offered|VBD a|DT bargain|NN of|IN sorts|NNS </s>|S_END
+<s>|S_START middleclass|NN americans|NNS would|MD be|VB asked|VBN to|TO shoulder|NN much|RB of|IN the|DT wars|NNS fiscal|JJ burden|NN </s>|S_END
+<s>|S_START but|CC in|IN return|NN rich|NN americans|NNS would|MD be|VB asked|VBN to|TO also|RB pay|VB their|PRP$ fair|NN share|NN including|VBG higher|JJR rates|NNS on|IN large|JJ incomes|NNS </s>|S_END
+<s>|S_START related|VBD estate|NN tax|NN is|VBZ forgotten|VBN fiscal|JJ cliff|NN issue|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT wartime|NN bargain|NN remains|VBZ largely|RB intact|NN some|DT 60|CD years|NNS later|RBR </s>|S_END
+<s>|S_START but|CC heres|NNS the|DT thing|NN that|WDT drives|VBZ conservatives|VBZ crazy|JJ the|DT graduated|JJ rates|NNS at|IN the|DT center|NN of|IN this|DT bargain|NN are|VBP totally|RB and|CC utterly|RB arbitrary|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START scottish|JJ economist|NN jr|NN mccullough|IN made|VBN this|DT point|NN centuries|VBZ ago|RB the|DT moment|NN you|PRP abandon|VBP </s>|S_END
+<s>|S_START the|DT cardinal|JJ principle|NN of|IN exacting|VBG from|IN all|DT individuals|NNS the|DT same|JJ proportion|NN of|IN their|PRP$ income|NN or|CC their|PRP$ property|NN you|PRP are|VBP at|IN sea|NN without|IN rudder|NN or|CC compass|NN and|CC there|EX is|VBZ no|DT amount|NN of|IN injustice|NN or|CC folly|RB you|PRP may|MD not|RB commit|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START modern|JJ conservatives|NNS tend|VBP to|TO agree|VB </s>|S_END
+<s>|S_START establishing|VBG a|DT graduated|JJ rate|NN scale|NN and|CC setting|VBG the|DT top|JJ marginal|JJ rate|NN on|IN that|DT scale|NN are|VBP inherently|RB arbitrary|JJ tasks|NNS kip|VBP hagopian|JJ wrote|NN in|IN a|DT 2011|CD article|NN for|IN the|DT hoover|NN institutions|NNS policy|NN review|NN </s>|S_END
+<s>|S_START talking|VBG about|IN anyones|NNS fair|JJ share|NN he|PRP added|VBD is|VBZ an|DT invitation|NN to|TO abuse|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START perhaps|RB </s>|S_END
+<s>|S_START but|CC americans|NNS have|VBP been|VBN offering|VBG that|IN invitation|NN for|IN decades|NNS </s>|S_END
+<s>|S_START fair|PRP$ share|NN rhetoric|NN has|VBZ been|VBN a|DT fixture|NN of|IN federal|JJ tax|NN debate|NN since|IN at|IN least|JJS the|DT 1930s|CD </s>|S_END
+<s>|S_START and|CC somehow|VBD or|CC at|IN least|JJS so|RB far|RB the|DT nation|NN has|VBZ managed|VBN to|TO survive|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS probably|RB because|IN all|DT tax|NN systems|NNS including|VBG our|PRP$ current|JJ one|CD are|VBP based|VBN on|IN a|DT variety|NN of|IN arbitrary|JJ opinions|NNS and|CC intuitions|NNS </s>|S_END
+<s>|S_START we|PRP rely|RB on|IN the|DT political|JJ system|NN to|TO sort|VB out|RP these|DT opinions|NNS in|IN some|DT reasonable|JJ fashion|NN avoiding|VBG abuse|NN and|CC approximating|VBG fairness|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC lets|NNS be|VB honest|VBN as|IN we|PRP enter|JJR yet|RB another|DT round|NN in|IN this|DT endless|NN debate|NN </s>|S_END
+<s>|S_START the|DT starting|NN point|NN for|IN any|DT discussion|NN of|IN tax|NN fairness|NN should|MD be|VB a|DT confession|NN we|PRP are|VBP just|RB making|VBG this|DT stuff|NN up |NN </s>|S_END
+</p>|P_END
+

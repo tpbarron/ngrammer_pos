@@ -1,0 +1,123 @@
+<p>|P_START
+<s>|S_START in|IN january|JJ the|DT new|JJ york|NN times|NNS lost|VBD its|PRP$ top|JJ spot|NN in|IN comscores|NNS ranking|VBG of|IN the|DT worlds|NNS biggest|JJS newspaper|NN websites|NNS to|TO britains|NNS daily|RB mail|JJ </s>|S_END
+<s>|S_START the|DT times|NNS sniffed|VBD at|IN the|DT accuracy|NN of|IN comscores|NNS figures|NNS which|WDT exaggerate|JJ the|DT mails|NNS online|VBP audience|NN by|IN including|VBG a|DT personalfinance|NN site|NN that|WDT the|DT paper|NN own|NN </s>|S_END
+<s>|S_START but|CC the|DT battle|NN to|TO be|VB biggest|JJS reflects|NNS a|DT growing|VBG phenomenon|NN national|JJ news|NN publications|NNS going|VBG global|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT mere|JJ onequarter|NN of|IN the|DT mails|NNS online|VBP readers|NNS are|VBP in|IN britain|NN </s>|S_END
+<s>|S_START the|DT guardian|JJ which|WDT caters|NNS to|TO those|DT who|WP like|IN their|PRP$ news|NN leftleaning|VBG and|CC serious|JJ in|IN contrast|NN to|TO the|DT mails|NNS rightwing|VBG raciness|NN has|VBZ onethird|VBN in|IN britain|NN and|CC another|DT third|JJ in|IN america|NN see|NN chart|NN </s>|S_END
+<s>|S_START their|PRP$ chief|NN competitors|NNS are|VBP two|CD american|JJ publications|NNS the|DT new|JJ york|NN times|NNS which|WDT like|IN the|DT guardian|JJ aims|NNS at|IN readers|NNS of|IN serious|JJ news|NN and|CC the|DT huffington|NN post|NN which|WDT since|IN its|PRP$ launch|NN in|IN 2005|CD has|VBZ become|VBN the|DT biggest|JJS site|NN of|IN the|DT four|CD it|PRP is|VBZ not|RB in|IN comscores|NNS “newspaper”|-NONE- category|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT the|DT huffpo|NN is|VBZ beating|VBG papers|NNS with|IN a|DT history|NN stretching|VBG back|RB to|TO the|DT 19th|JJ century|NN is|VBZ a|DT sign|NN of|IN just|RB how|WRB differently|RB news|NN works|NNS online|VBP </s>|S_END
+<s>|S_START the|DT huffpo|NN is|VBZ designed|VBN for|IN the|DT wired|VBN generations|NNS short|JJ attention|NN spans|NNS and|CC addiction|NN to|TO social|JJ media|NNS alone|RB of|IN the|DT four|CD it|PRP has|VBZ managed|VBN recently|RB to|TO increase|VB its|PRP$ “stickiness”|NN the|DT number|NN of|IN stories|NNS each|DT visitor|NN read|NN </s>|S_END
+<s>|S_START and|CC it|PRP mixes|VBZ both|DT hard|JJ and|CC frothy|JJ news|NN much|RB of|IN it|PRP rewritten|RB from|IN other|JJ sources|NNS though|IN an|DT increasing|VBG amount|NN is|VBZ original|JJ with|IN generous|JJ dollops|NNS of|IN opinion|NN by|IN guest|NN blogger|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT has|VBZ proved|VBN an|DT especially|RB potent|JJ formula|NN in|IN america|NN where|WRB the|DT big|JJ papers|NNS tend|VBP to|TO be|VB somewhat|RB pofaced|VBN </s>|S_END
+<s>|S_START that|DT is|VBZ because|IN their|PRP$ dominance|NN in|IN their|PRP$ home|NN cities|NNS inclined|VBD them|PRP towards|NNS a|DT neutral|JJ stance|NN to|TO attract|VB the|DT widest|JJS possible|JJ readerships|NNS there|EX whereas|NNS the|DT big|JJ british|NN papers|NNS having|VBG developed|VBN as|IN national|JJ outlets|NNS used|VBN political|JJ leanings|NNS to|TO distinguish|VB themselves|PRP in|IN a|DT competitive|JJ market|NN </s>|S_END
+<s>|S_START hence|NN also|RB the|DT success|NN of|IN the|DT guardian|JJ and|CC the|DT mail|NN in|IN america|NN </s>|S_END
+<s>|S_START as|IN the|DT fox|NN news|NN channel|NN discovered|VBD earlier|RBR a|DT lot|NN of|IN americans|NNS like|IN their|PRP$ news|NN sources|NNS to|TO have|VB a|DT political|JJ slant|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT huffpo|NN and|CC times|NNS are|VBP less|JJR global|JJ than|IN their|PRP$ british|JJ rivals|NNS with|IN threequarters|NNS and|CC twothirds|NNS of|IN their|PRP$ readers|NNS respectively|RB in|IN america|NN </s>|S_END
+<s>|S_START but|CC those|DT proportions|NNS too|RB are|VBP edging|VBG downward|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START global|JJ news|NN outlets|NNS are|VBP of|IN course|NN nothing|NN new|JJ the|DT bbc|NN cnn|NN and|CC aljazeera|NN as|IN well|RB as|IN the|DT financial|JJ times|NNS the|DT wall|NN street|NN journal|JJ and|CC indeed|RB the|DT economist|NN have|VBP long|RB aimed|VBN at|IN a|DT worldwide|NN audience|NN and|CC newswires|NNS like|IN reuters|NNS and|CC bloomberg|NN have|VBP big|JJ free|JJ online|NN offering|NN </s>|S_END
+<s>|S_START but|CC in|IN future|JJ argues|NNS ken|VBN doctor|NN a|DT media|NNS analyst|NN at|IN outsell|NN a|DT consultancy|NN there|EX will|MD be|VB fewer|JJR national|JJ news|NN outlets|NNS online|VBP </s>|S_END
+<s>|S_START more|JJR will|MD either|VB look|NN for|IN new|JJ ways|NNS to|TO make|VB money|NN from|IN a|DT small|JJ local|JJ audience|NN or|CC try|NN to|TO get|VB as|IN big|JJ a|DT global|JJ one|CD as|IN possible|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT reason|NN is|VBZ the|DT grim|JJ economics|NNS of|IN online|NN new|JJ </s>|S_END
+<s>|S_START only|RB a|DT few|JJ businessoriented|VBN newspapers|NNS are|VBP making|VBG money|NN by|IN charging|NN readers|NNS for|IN acce|NN </s>|S_END
+<s>|S_START for|IN most|JJS papers|NNS what|WP they|PRP publish|VBP is|VBZ too|RB similar|JJ to|TO what|WP people|NNS can|MD get|VB free|JJ elsewhere|RB </s>|S_END
+<s>|S_START advertising|NN the|DT other|JJ chief|NN source|NN of|IN revenue|NN is|VBZ worth|JJ far|RB less|RBR per|IN reader|NN online|NN than|IN in|IN print|NN </s>|S_END
+<s>|S_START o|NN their|PRP$ best|JJS bet|NN for|IN making|VBG money|NN is|VBZ to|TO pull|VB in|IN more|JJR readers|NNS for|IN the|DT same|JJ content|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cultivating|VBG foreign|JJ advertisers|NNS takes|VBZ time|NN however|RB </s>|S_END
+<s>|S_START “we|JJ always|RB had|VBD a|DT large|JJ us|PRP audience”|-NONE- says|VBZ james|NNS bromley|NN the|DT managing|VBG director|NN of|IN the|DT mail|NN online|NN “which|JJ people|NNS used|VBN to|TO point|NN to|TO as|RB a|DT weakness|NN because|IN we|PRP couldnt|VBP monetise|VBP them”|-NONE- but|CC he|PRP adds|VBZ “the|DT marginal|JJ cost|NN of|IN the|DT extra|JJ audience|NN is|VBZ basically|RB zero|RB so|RB any|DT ads|NNS were|VBD a|DT profit”|JJ the|DT guardians|NNS ads|NNS too|RB earn|VB less|JJR per|IN reader|NN in|IN the|DT united|VBN states|NNS than|IN on|IN similar|JJ american|NN sites|NNS says|VBZ andrew|JJ miller|NN the|DT chief|NN executive|NN of|IN guardian|JJ media|NNS group|NN </s>|S_END
+<s>|S_START but|CC they|PRP still|RB help|VBP the|DT bottom|NN line|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unfortunately|RB even|RB a|DT big|JJ jump|NN in|IN online|NN advertising|NN will|MD not|RB make|VB up|RP for|IN the|DT decline|NN of|IN print|NN newspapers|NNS websites|VBZ account|NN for|IN a|DT relatively|RB small|JJ share|NN of|IN total|JJ revenue|NN about|IN onefifth|NN for|IN the|DT guardian|JJ just|RB 26|CD for|IN the|DT mail|NN </s>|S_END
+<s>|S_START at|IN this|DT stage|NN it|PRP is|VBZ all|DT about|IN capturing|VBG audience|NN </s>|S_END
+<s>|S_START the|DT mail|NN now|RB has|VBZ about|IN 30|CD staff|NN in|IN the|DT united|VBN states|NNS to|TO create|VB stories|NNS for|IN its|PRP$ american|JJ readers|NNS the|DT guardian|JJ also|RB has|VBZ 30|CD in|IN a|DT new|JJ bureau|NN in|IN new|JJ york|NN and|CC has|VBZ experimented|VBN with|IN translation|NN posting|VBG some|DT of|IN its|PRP$ arabspring|NN coverage|NN in|IN arabic|JJ </s>|S_END
+<s>|S_START neither|DT seems|NNS to|TO think|VB of|IN itself|PRP as|IN essentially|RB british|JJ any|DT more|RBR at|IN least|JJS online|NN </s>|S_END
+<s>|S_START of|IN the|DT mail|NN mr|NN bromley|NN says|VBZ “our|JJ audiences|NNS in|IN the|DT uk|NN and|CC us|PRP are|VBP more|RBR similar|JJ to|TO one|CD another|DT than|IN to|TO their|PRP$ neighbours|NNS in|IN either|DT place”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT global|JJ strategy|NN that|WDT makes|VBZ obvious|JJ sense|NN for|IN papers|NNS in|IN english|JJ also|RB has|VBZ potential|JJ in|IN other|JJ global|JJ language|NN </s>|S_END
+<s>|S_START pains|NNS el|VBP mundo|NN lags|NNS considerably|RB behind|IN el|NN país|NNS in|IN print|NN circulation|NN but|CC is|VBZ ahead|RB of|IN it|PRP online|VBP 42|CD of|IN its|PRP$ readers|NNS are|VBP overseas|JJ and|CC though|IN it|PRP sells|VBZ no|DT print|NN copies|NNS in|IN latin|NN america|NN it|PRP is|VBZ among|IN the|DT top|JJ two|CD or|CC three|CD news|NN sites|NNS in|IN every|DT spanishspeaking|NN country|NN there|EX says|VBZ its|PRP$ deputy|NN editor|NN ignacio|NN gil|NN </s>|S_END
+<s>|S_START marca|NN a|DT sports|NNS paper|NN owned|VBN by|IN the|DT same|JJ company|NN has|VBZ a|DT similar|JJ reach|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START newsgathering|VBG on|IN the|DT cheap|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START expanding|VBG abroad|RB is|VBZ harder|JJR for|IN american|JJ publications|NNS than|IN for|IN british|JJ ones|NNS because|IN most|JJS englishspeaking|VBG markets|NNS outside|IN america|NN are|VBP relatively|RB small|JJ and|CC fragmented|VBN </s>|S_END
+<s>|S_START that|DT said|VBD the|DT new|JJ york|NN times|NNS has|VBZ done|VBN little|JJ recently|RB to|TO appeal|NN to|TO readers|NNS overseas|RB other|JJ than|IN creating|VBG an|DT international|JJ version|NN of|IN its|PRP$ homepage|NN that|WDT gives|VBZ foreign|JJ news|NN more|RBR prominence|NN </s>|S_END
+<s>|S_START with|IN its|PRP$ 25|CD foreign|JJ bureaus|NN it|PRP has|VBZ always|RB thought|VBN of|IN itself|PRP as|IN a|DT global|JJ newspaper|NN says|VBZ a|DT spokeswoman|NN its|PRP$ bet|NN is|VBZ that|IN solid|JJ authoritative|JJ reporting|NN will|MD win|VB the|DT day|NN </s>|S_END
+<s>|S_START even|RB if|IN it|PRP wanted|VBD to|TO however|RB the|DT debtladen|NN paper|NN can|MD ill|VB afford|NN to|TO increase|VB its|PRP$ already|RB large|JJ editorial|NN staff|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN contrast|NN the|DT much|JJ leaner|NN huffpo|NN can|MD afford|VB to|TO create|VB a|DT network|NN of|IN overseas|JJ clone|NN </s>|S_END
+<s>|S_START ince|NN last|JJ july|RB it|PRP has|VBZ opened|VBN offices|NNS and|CC websites|NNS in|IN britain|NN canada|NN in|IN both|DT english|JJ and|CC french|JJ and|CC france|NN it|PRP is|VBZ launching|VBG in|IN italy|RB and|CC spain|VB this|DT spring|NN and|CC it|PRP is|VBZ in|IN talks|NNS with|IN possible|JJ partners|NNS in|IN germany|NN greece|NN brazil|NN and|CC japan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB well|RB the|DT huffpo|NN model|NN will|MD travel|VB is|VBZ not|RB yet|RB clear|JJ </s>|S_END
+<s>|S_START it|PRP owes|VBZ its|PRP$ success|NN in|IN america|NN not|RB just|RB to|TO its|PRP$ tone|NN but|CC also|RB to|TO its|PRP$ knack|NN for|IN getting|VBG readers|NNS to|TO contribute|VB lots|NNS of|IN unpaid|JJ blog|NN posts|NNS and|CC comments—hence|JJ its|PRP$ low|JJ cost|NN </s>|S_END
+<s>|S_START the|DT huffpos|NNS british|VBP version|NN has|VBZ a|DT decent|NN if|IN hardly|RB stellar|JJ 41m|CD monthly|JJ unique|NN visitors|NNS but|CC there|EX it|PRP competes|VBZ directly|RB with|IN the|DT guardian|JJ which|WDT serves|NNS a|DT similar|JJ audience|NN and|CC runs|VBZ a|DT popular|JJ “comment|JJ is|VBZ free”|JJ blogging|NN platform|NN </s>|S_END
+<s>|S_START the|DT huffpo|NN claims|VBZ to|TO be|VB politically|RB neutral|JJ but|CC most|JJS of|IN its|PRP$ contributors|NNS like|IN its|PRP$ founder|NN arianna|NN huffington|NN lean|NN left|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN much|JJ of|IN europe|NN blogging|VBG is|VBZ less|JJR developed|VBN </s>|S_END
+<s>|S_START le|NN huffington|VBD post|NN which|WDT launched|VBN in|IN france|NN in|IN january|JJ will|NN “open|JJ a|DT space|NN for|IN debate”|NN currently|RB limited|VBN chiefly|RB to|TO the|DT oped|JJ pages|NNS of|IN newspapers|NNS says|VBZ its|PRP$ director|NN anne|NN sinclair|NN </s>|S_END
+<s>|S_START and|CC whereas|VBD american|JJ newspaper|NN editors|NNS lashed|VBD out|IN at|IN the|DT huffpo|NN for|IN stealing|NN their|PRP$ stories|NNS and|CC poaching|VBG their|PRP$ readers|NNS though|IN by|IN linking|NN to|TO their|PRP$ stories|NNS it|PRP arguably|RB adds|VBZ to|TO their|PRP$ traffic|JJ their|PRP$ european|JJ counterparts|NNS think|VBP it|PRP can|MD teach|VB them|PRP new|JJ tricks|NNS it|PRP has|VBZ teamed|VBN up|RP with|IN le|JJ monde|NN in|IN france|NN la|NN repubblica|NN and|CC lespresso|RB in|IN italy|RB and|CC el|NN país|NNS in|IN spain|NN bringing|VBG them|PRP socialmedia|MD knowhow|VB in|IN return|NN for|IN access|NN to|TO their|PRP$ reader|NN </s>|S_END
+<s>|S_START “its|NNS better|JJR to|TO be|VB with|IN them|PRP than|IN watching|VBG from|IN the|DT outside”|NN says|VBZ louis|NNS dreyfus|VBZ chief|JJ executive|NN of|IN le|NN monde|NN group|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP is|VBZ at|IN stake|NN for|IN all|DT four|CD of|IN these|DT news|NN giants|NNS however|RB is|VBZ very|RB different|JJ </s>|S_END
+<s>|S_START the|DT mails|NNS print|VBP circulation|NN of|IN 2m|CD is|VBZ second|JJ only|RB to|TO that|DT of|IN the|DT tabloid|JJ sun|NN in|IN britain|NN and|CC is|VBZ falling|VBG more|JJR slowly|RB than|IN that|DT of|IN most|JJS other|JJ paper|NN </s>|S_END
+<s>|S_START it|PRP also|RB remains|VBZ decently|RB profitable|JJ </s>|S_END
+<s>|S_START the|DT guardian|JJ and|CC new|JJ york|NN times|NNS are|VBP losing|VBG readers|NNS faster|JJR their|PRP$ heavyweight|NN journalism|NN costs|NNS more|RBR and|CC although|IN their|PRP$ holding|NN companies|NNS recently|RB posted|VBD profits|NNS revenues|NNS have|VBP been|VBN falling|VBG alarmingly|RB </s>|S_END
+<s>|S_START both|DT are|VBP hoping|VBG to|TO increase|VB digital|JJ revenues|NNS sharply|RB through|IN their|PRP$ tablet|NN and|CC smartphone|NN apps|NNS where|WRB readers|NNS must|MD pay|VB for|IN news|NN the|DT times|NNS now|RB charges|VBZ on|IN its|PRP$ website|JJ too|NN the|DT guardian|JJ does|VBZ not|RB plan|VB to|TO </s>|S_END
+<s>|S_START even|RB so|RB in|IN the|DT medium|NN term|NN they|PRP may|MD not|RB be|VB able|JJ to|TO sustain|VB their|PRP$ big|JJ newsrooms|NNS making|VBG it|PRP harder|JJR to|TO do|VB the|DT journalism|NN that|IN distinguishes|NNS them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN the|DT four|CD the|DT huffpo|NN is|VBZ the|DT only|JJ one|CD unencumbered|VBN by|IN oldmedia|NN technology|NN staff|NN and|CC institutional|JJ baggage|NN </s>|S_END
+<s>|S_START but|CC it|PRP has|VBZ picked|VBN up|RP baggage|NN of|IN a|DT different|JJ sort|NN since|IN being|VBG bought|NN by|IN aol|NN a|DT year|NN ago|IN </s>|S_END
+<s>|S_START with|IN the|DT dialup|NN internetaccess|NN service|NN on|IN which|WDT it|PRP was|VBD founded|VBN shrinking|VBG fast|RB aol|NN has|VBZ been|VBN trying|VBG to|TO build|VB up|RP a|DT displayadvertising|NN business|NN by|IN buying|NN lots|NNS of|IN website|JJ </s>|S_END
+<s>|S_START this|DT has|VBZ not|RB gone|VBN well|RB </s>|S_END
+<s>|S_START tarboard|NN value|NN an|DT investment|NN firm|NN with|IN a|DT stake|NN in|IN aol|NN recently|RB estimated|VBD that|IN the|DT displayads|NNS business|NN lost|VBD the|DT company|NN $|$ 500m|CD last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mrs|NNS huffington|VBP now|RB in|IN charge|NN of|IN all|DT aols|NNS editorial|JJ properties|NNS has|VBZ poured|VBN resources|NNS into|IN expanding|VBG her|PRP$ own|JJ creation|NN </s>|S_END
+<s>|S_START as|IN well|RB as|IN the|DT international|JJ sites|NNS she|PRP has|VBZ launched|VBN dozens|NNS of|IN subjectspecific|JJ ones|NNS on|IN everything|NN from|IN the|DT environment|NN to|TO wedding|NN </s>|S_END
+<s>|S_START this|DT spring|NN there|RB will|MD be|VB an|DT online|NN television|NN station|NN featuring|VBG continuous|JJ studio|NN chat|WDT and|CC relying|VBG heavily|RB in|IN true|JJ huffpo|NN style|NN on|IN viewer|NN contribution|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START aol|NN seems|VBZ to|TO have|VB given|VBN her|PRP great|JJ leeway|NN prompting|VBG internal|JJ grumbles|NNS about|IN her|PRP$ empirebuilding|NN and|CC doubts|NNS about|IN how|WRB well|RB she|PRP and|CC her|PRP$ team|NN can|MD handle|VB such|PDT explosive|JJ growth|NN </s>|S_END
+<s>|S_START though|IN the|DT huffpo|NN was|VBD profitable|JJ before|IN being|VBG bought|NN its|PRP$ revenue|NN is|VBZ still|RB a|DT fraction|NN of|IN aols|NNS total|VBP </s>|S_END
+<s>|S_START as|IN a|DT digital|JJ native|JJ it|PRP is|VBZ better|RBR adapted|VBN than|IN its|PRP$ three|CD main|JJ newspaper|NN rivals|NNS to|TO the|DT online|NN environment—but|CC having|VBG the|DT most|JJS troubled|JJ owner|NN may|MD not|RB do|VB it|PRP any|DT favour|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 47|CD gdp|NN $|$ 246bn|CD ppp|CD $|$ 300bn|CD inflation|NN 32|CD population|NN 174m|CD gdp|NN per|IN head|NN $|$ 14150|CD ppp|CD $|$ 17240|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ruling|NN coalición|NN an|DT alliance|NN between|IN the|DT rightwing|NN unión|NN demócrata|NN independiente|NN and|CC president|NN sebastián|JJ piñeras|NNS renovación|JJ nacional|JJ is|VBZ creaking|VBG as|IN policy|NN swings|NNS towards|NNS the|DT centre|NN in|IN response|NN to|TO declining|VBG ratings|NNS and|CC social|JJ protest|NN </s>|S_END
+<s>|S_START it|PRP will|MD survive|VB but|CC major|JJ initiatives|NNS such|JJ as|IN a|DT flagship|NN labour|NN reform|NN will|MD be|VB pushed|VBN back|RP </s>|S_END
+<s>|S_START earthquake|NN reconstruction|NN will|MD divert|VB some|DT fiscal|JJ resources|NNS but|CC chiles|NNS robust|VBP economy|NN will|MD shrug|VB off|RP the|DT expense|NN and|CC manage|NN a|DT tidy|NN rate|NN of|IN growth|NN </s>|S_END
+</p>|P_END
+

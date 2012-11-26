@@ -1,0 +1,9 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 24|CD gdp|NN $|$ 22bn|CD ppp|CD $|$ 24bn|CD inflation|NN 91|CD population|NN 126m|CD gdp|NN per|IN head|NN $|$ 180|CD ppp|CD $|$ 190|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START elections|NNS are|VBP likely|JJ in|IN 2012|CD but|CC with|IN many|JJ in|IN robert|NN mugabes|NNS longdominant|VBP party|NN determined|VBN to|TO prevent|VB victory|NN for|IN its|PRP$ partner|NN in|IN the|DT powersharing|NN government|NN “free|JJ and|CC fair”|JJ will|MD not|RB come|VB into|IN it|PRP </s>|S_END
+<s>|S_START till|NN mr|NN mugabe|NN is|VBZ old|JJ and|CC ailing|VBG and|CC could|MD quit|VB with|IN little|JJ notice|NN unleashing|VBG a|DT power|NN struggle|NN </s>|S_END
+</p>|P_END
+

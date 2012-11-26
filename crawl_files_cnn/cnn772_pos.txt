@@ -1,0 +1,60 @@
+<p>|P_START
+<s>|S_START click|NN the|DT chart|NN for|IN more|JJR on|IN apples|NNS stock|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN shares|NNS of|IN apple|JJ slipped|VBN below|IN $|$ 600|CD on|IN wednesday|NN the|DT first|JJ trading|NN day|NN following|VBG a|DT major|JJ executive|NN shakeup|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apple|NN aapl|NN fortune|NN 500|CD made|VBN the|DT surprising|JJ management|NN announcement|NN late|RB monday|NN revealing|VBG that|IN two|CD top|JJ executives|NNS had|VBD been|VBN pushed|VBN out|RP the|DT door|NN </s>|S_END
+<s>|S_START scott|NN forstall|VBD the|DT man|NN responsible|JJ for|IN the|DT ios|NNS software|NN running|VBG iphones|NNS and|CC ipads|NNS was|VBD one|CD of|IN the|DT late|JJ steve|NN jobs|NNS top|VBP lieutenants|NNS but|CC his|PRP$ sharp|JJ elbows|NNS and|CC recent|JJ missteps|NNS including|VBG apples|NNS heavily|RB criticized|VBD maps|NNS alienated|VBN others|NNS at|IN apple|NN </s>|S_END
+<s>|S_START the|DT less|RBR surprising|JJ exit|NN embattled|VBD retail|JJ chief|NN john|NN browett|NN is|VBZ leaving|VBG after|IN just|RB nine|CD months|NNS on|IN the|DT job|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START wednesday|NN was|VBD the|DT first|JJ chance|NN investors|NNS had|VBD to|TO react|VB to|TO the|DT news|NN because|IN us|PRP stock|NN exchanges|NNS were|VBD shuttered|VBN on|IN monday|NN and|CC tuesday|NN due|JJ to|TO hurricane|VB later|JJ superstorm|NN sandy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apple|NN shares|NNS were|VBD down|RB more|RBR than|IN 2|CD in|IN early|JJ trading|NN wednesday|NN at|IN about|RB $|$ 591|CD but|CC they|PRP clawed|VBD back|RP a|DT bit|NN to|TO close|VB the|DT day|NN around|IN $|$ 595|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD story|NN inside|NN apples|NNS major|JJ shakeup|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT week|NN also|RB brought|VBD early|RB reviews|NN of|IN apples|NNS new|JJ 79inch|JJ ipad|NN mini|NN tablet|NN </s>|S_END
+<s>|S_START while|IN the|DT reviews|NNS typically|RB ranged|VBD from|IN largely|RB positive|JJ to|TO fullon|VB glowing|NN a|DT few|JJ critics|NNS mentioned|VBN awkward|NN sizing|NN screen|NN resolution|NN and|CC the|DT $|$ 329|CD price|NN tag|NN as|IN negatives|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO us|PRP the|DT joy|NN of|IN a|DT 7inch|JJ tablet|NN is|VBZ walking|VBG across|IN the|DT office|NN or|CC the|DT airport|NN holding|VBG the|DT slate|NN in|IN one|CD hand|NN while|IN tapping|VBG away|RB at|IN it|PRP with|IN the|DT other|JJ engadgets|NNS tim|VBP stevens|NNS wrote|VBD </s>|S_END
+<s>|S_START the|DT google|NN nexus|VBZ 7|CD is|VBZ relatively|RB narrow|JJ and|CC easy|JJ to|TO carry|VB securely|RB onehanded|VBN with|IN the|DT ipad|NN mini|NN holding|VBG the|DT slate|NN in|IN the|DT same|JJ way|NN can|MD be|VB a|DT bit|NN of|IN a|DT reach|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mg|NN siegler|NN wrote|VBD at|IN techcrunch|NN that|IN the|DT ipad|NN minis|VBZ screen|VBN resolution|NN is|VBZ a|DT very|RB noticeable|JJ downgrade|NN from|IN the|DT highpixel|NN retina|NN display|NN found|VBD on|IN the|DT iphone|NN and|CC fullsize|VB ipad|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT goes|VBZ away|RB over|IN time|NN as|IN you|PRP use|VBP the|DT ipad|NN mini|NN nonstop|NN but|CC if|IN you|PRP switch|VBP back|RP to|TO a|DT retina|NN screen|NN its|PRP$ jarring|NN siegler|NN added|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bloombergs|NNS rich|VBP jaroslovsky|JJ commented|VBN on|IN the|DT ipad|NN minis|VBZ $|$ 329|CD cost|NN </s>|S_END
+<s>|S_START how|WRB much|JJ is|VBZ apples|NNS superiority|NN in|IN software|NN and|CC content|NN worth|NN to|TO you|PRP </s>|S_END
+<s>|S_START how|WRB about|IN $|$ 130|CD </s>|S_END
+<s>|S_START he|PRP wrote|VBD noting|VBG that|IN googles|NNS goog|VBP fortune|NN 500|CD nexus|NN 7|CD and|CC amazons|NNS amzn|VBP fortune|NN 500|CD kindle|NN fire|NN hd|NN each|DT start|NN at|IN $|$ 199|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC apples|NNS device|VBP is|VBZ certainly|RB superior|JJ he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP can|MD tell|VB you|PRP the|DT ipad|JJ mini|NN is|VBZ the|DT best|JJS small|JJ tablet|NN you|PRP can|MD buy|VB he|PRP added|VBD </s>|S_END
+<s>|S_START the|DT question|NN youll|NN have|VBP to|TO answer|VB for|IN yourself|PRP is|VBZ whether|IN its|PRP$ that|IN much|JJ better|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,101 @@
+<p>|P_START
+<s>|S_START the|DT loan|NN package|NN was|VBD meant|JJ to|TO fix|VB spain’s|JJ woe|NN </s>|S_END
+<s>|S_START but|CC on|IN july|RB 20th|JJ as|IN the|DT euro|NN zone|NN agreed|VBD a|DT bailout|NN of|IN up|IN to|TO €100|-NONE- billion|CD $|$ 121|CD billion|CD for|IN its|PRP$ troubled|JJ banks|NNS the|DT country’s|JJ borrowing|NN costs|NNS rose|VBD dizzily|RB </s>|S_END
+<s>|S_START five|CD days|NNS later|JJ the|DT yield|NN on|IN tenyear|NN bonds|NNS hit|VBD an|DT unsustainable|JJ 775|CD while|IN madrid’s|JJ stock|NN exchange|NN plunged|VBD to|TO the|DT levels|NNS of|IN march|NN 2003|CD </s>|S_END
+<s>|S_START talk|NN of|IN a|DT bailout|NN for|IN the|DT euro|NN zone’s|VBZ fourthbiggest|NN economy|NN grew|VBD louder|NN see|NN article|NN </s>|S_END
+<s>|S_START it|PRP would|MD cost|VB a|DT frightening|NN €385|-NONE- billion|CD to|TO the|DT end|NN of|IN 2014|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP went|VBD wrong|JJ </s>|S_END
+<s>|S_START on|IN the|DT day|NN the|DT bank|NN bailout|IN was|VBD agreed|VBN valencia|NN became|VBD the|DT first|JJ of|IN spain’s|NNP 17|CD semiautonomous|JJ regions|NNS to|TO admit|VB that|IN it|PRP needs|VBZ government|NN help|NN </s>|S_END
+<s>|S_START the|DT region|NN has|VBZ long|RB been|VBN run|VBN by|IN the|DT centreright|NN people’s|VBZ party|NN of|IN mariano|NN rajoy|NN the|DT premier|NN but|CC ministers|NNS were|VBD caught|VBN on|IN the|DT hop|NN </s>|S_END
+<s>|S_START with|IN markets|NNS still|RB open|JJ petrol|NN had|VBD been|VBN thrown|VBN onto|IN the|DT blaze|NN of|IN doubt|NN about|IN spain’s|NNS finance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT mix|NN of|IN recession|NN sinking|VBG property|NN prices|NNS bank|NN failures|NNS and|CC public|JJ profligacy—made|JJ worse|NN by|IN cronyism|NN and|CC corruption—is|NNP at|IN the|DT roots|NNS of|IN valencia’s|NNS fall|VBP </s>|S_END
+<s>|S_START but|CC comunitat|VBD valenciana|NNS is|VBZ by|IN no|DT means|NNS alone|RB </s>|S_END
+<s>|S_START it|PRP was|VBD soon|RB followed|VBN by|IN neighbouring|NN murcia|IN which|WDT will|MD also|RB apply|VB for|IN help|NN from|IN a|DT special|JJ €18|NN billion|NN liquidity|NN fund|NN set|NN up|RB by|IN the|DT government|NN </s>|S_END
+<s>|S_START more|JJR worryingly|RB ramón|JJ luis|NNS valcárcel|JJ murcia’s|NNS president|NN admitted|VBD that|IN this|DT year|NN it|PRP will|MD probably|RB once|RB more|RBR miss|JJ its|PRP$ deficit|NN target|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START catalonia|NN the|DT wealthy|JJ eastern|NN region|NN that|IN accounts|NNS for|IN one|CD fifth|JJ of|IN output|NN also|RB suggested|VBD it|PRP needs|VBZ the|DT liquidity|NN fund|NN </s>|S_END
+<s>|S_START unable|JJ to|TO roll|VB over|IN debt|NN or|CC finance|VB deficit|NN spending|NN at|IN sustainable|JJ levels|NNS on|IN the|DT markets|NNS it|PRP is|VBZ asking|VBG for|IN help|NN just|RB when|WRB the|DT central|JJ government|NN is|VBZ itself|PRP struggling|VBG to|TO raise|VB money|NN at|IN sustainable|JJ rate|NN </s>|S_END
+<s>|S_START more|JJR than|IN a|DT third|JJ of|IN spain’s|JJ regions|NNS which|WDT jointly|RB spend|VBP some|DT 40|CD of|IN public|JJ money|NN may|MD ultimately|RB follow|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START controlling|VBG regionalgovernment|NN deficits|NNS is|VBZ one|CD of|IN spain’s|JJ biggest|JJS headache|NN </s>|S_END
+<s>|S_START the|DT regions’|NN failure|NN to|TO control|NN budgets|NNS defeated|VBD spain’s|NNS attempt|NN to|TO meet|VB a|DT 6|CD deficit|NN target|NN last|JJ year|NN leaving|VBG it|PRP at|IN 89|CD </s>|S_END
+<s>|S_START regions|NNS told|VBD to|TO cut|VB their|PRP$ combined|VBN deficit|NN to|TO 13|CD of|IN gdp|NN instead|RB increased|VBD it|PRP to|TO 34|CD </s>|S_END
+<s>|S_START valencia|NN was|VBD among|IN the|DT worst|JJS offender|NN </s>|S_END
+<s>|S_START its|PRP$ deficit|NN climbed|VBD from|IN 387|CD of|IN regional|JJ gdp|NN to|TO 45|CD </s>|S_END
+<s>|S_START its|PRP$ debt|NN is|VBZ estimated|VBN to|TO be|VB 20|CD of|IN regional|JJ gdp|NN see|NN chart|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN regions|NNS are|VBP taking|VBG drastic|JJ step|NN </s>|S_END
+<s>|S_START valencia|NN has|VBZ announced|VBN plans|NNS to|TO sack|VB threequarters|NNS of|IN the|DT staff|NN some|DT 1300|CD people|NNS at|IN its|PRP$ bloated|VBN regional|JJ broadcaster|NN </s>|S_END
+<s>|S_START catalonia|NN is|VBZ on|IN its|PRP$ fifth|JJ adjustment|NN plan|NN </s>|S_END
+<s>|S_START but|CC juan|VBD rubioramírez|JJ of|IN the|DT fedea|NN thinktank’s|VBZ regional|JJ observatory|NN predicts|NNS that|WDT this|DT year’s|VBZ overshoot|NN will|MD nevertheless|VB produce|VB a|DT joint|JJ 2|CD deficit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START regional|JJ governments|NNS have|VBP every|DT reason|NN to|TO behave|VB </s>|S_END
+<s>|S_START all|DT had|VBD to|TO present|VB austerity|NN budgets|NNS for|IN the|DT government’s|JJ approval|NN </s>|S_END
+<s>|S_START up|IN to|TO eight|CD reportedly|RB have|VBP already|RB been|VBN warned|VBN that|IN they|PRP are|VBP not|RB sticking|VBG to|TO them|PRP </s>|S_END
+<s>|S_START those|DT who|WP drift|NN too|RB far|RB face|VB being|VBG invaded|VBN by|IN the|DT socalled|VBN “men|-NONE- in|IN black”—budget|JJ ministry|NN officials|NNS who|WP will|MD take|VB direct|JJ control|NN of|IN their|PRP$ finance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT immediate|JJ outlook|NN for|IN spain|NN is|VBZ deeply|RB depressing|VBG </s>|S_END
+<s>|S_START the|DT government|NN now|RB sees|VBZ recession|NN stretching|VBG into|IN 2013|CD with|IN the|DT economy|NN shrinking|VBG by|IN 05|CD next|JJ year|NN </s>|S_END
+<s>|S_START unemployment|NN at|IN 25|CD of|IN the|DT workforce|NN is|VBZ unlikely|JJ to|TO come|VB down|RP </s>|S_END
+<s>|S_START a|DT recent|JJ €65|NN billion|NN austerity|NN package|NN which|WDT triggered|VBN widespread|JJ public|JJ protest|NN has|VBZ failed|VBN to|TO convince|NN markets|NNS that|WDT spain|NN is|VBZ getting|VBG its|PRP$ finances|NNS under|IN control|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START falling|VBG revenues|NNS and|CC soaring|VBG bond|NN yields|NNS are|VBP a|DT toxic|JJ mixture|NN </s>|S_END
+<s>|S_START mr|NN rajoy’s|NNS reformist|VBP government|NN is|VBZ desperate|JJ begging|NN for|IN more|JJR aid|NN everywhere|RB in|IN europe|NN as|IN it|PRP is|VBZ applying|VBG painful|JJ austerity|NN measure|NN </s>|S_END
+<s>|S_START everal|JJ ministers|NNS have|VBP been|VBN pleading|VBG for|IN help|NN from|IN the|DT european|JJ central|JJ bank|NN ecb|NN </s>|S_END
+<s>|S_START after|IN the|DT ecb|NN declined|VBD to|TO buy|VB spanish|JJ bonds|NNS josé|-NONE- manuel|NN garcíamargallo|-NONE- the|DT foreign|JJ minister|NN branded|VBD the|DT ecb|NN a|DT “clandestine”|NN bank|NN that|WDT is|VBZ doing|VBG nothing|NN to|TO stop|VB “the|JJ fire|NN of|IN public|JJ debt”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN so|RB often|RB in|IN this|DT crisis|NN italy|RB seems|VBZ to|TO be|VB following|VBG in|IN spain’s|JJ footstep|NN </s>|S_END
+<s>|S_START it|PRP too|RB has|VBZ problems|NNS with|IN local|JJ as|IN well|RB as|IN regional|JJ administration|NN </s>|S_END
+<s>|S_START two|CD main|JJ dangers|NNS came|VBD into|IN focus|NN this|DT week|NN as|IN mayors|NNS demonstrated|VBN outside|IN parliament|NN in|IN rome|NN and|CC the|DT central|JJ government|NN imposed|VBD radical|JJ measures|NNS on|IN the|DT government|NN of|IN indebted|VBN sicily|RB </s>|S_END
+<s>|S_START the|DT first|JJ worry|NN is|VBZ that|IN provincial|JJ and|CC municipal|JJ administrations|NNS might|MD soon|RB be|VB knocking|VBG at|IN the|DT door|NN of|IN central|JJ government|NN demanding|VBG funds|NNS to|TO meet|VB their|PRP$ statutory|NN obligation|NN </s>|S_END
+<s>|S_START a|DT spokesman|NN for|IN italy’s|NNS local|JJ councils|NNS said|VBD ten|VBN municipalities|NNS were|VBD now|RB facing|VBG bankruptcy|NN </s>|S_END
+<s>|S_START and|CC a|DT representative|JJ of|IN the|DT provinces|NNS warned|VBD there|RB were|VBD schools|NNS that|IN might|MD be|VB unable|JJ to|TO reopen|VB in|IN the|DT autumn|NN for|IN lack|NN of|IN funds—a|NNP claim|NN dismissed|VBD by|IN the|DT education|NN minister|NN in|IN mario|NN monti’s|NNS nonparty|NN government|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT other|JJ potentially|RB greater|JJR risk|NN emanates|NNS from|IN sicily’s|JJ precarious|JJ finance|NN </s>|S_END
+<s>|S_START on|IN july|RB 24th|JJ after|IN a|DT meeting|NN with|IN raffaele|JJ lombardo|NN the|DT governor|NN of|IN sicily|RB mr|JJ monti|NN acted|VBD to|TO curb|VB it|PRP </s>|S_END
+<s>|S_START it|PRP was|VBD confirmed|VBN mr|NN lombardo|NN would|MD resign|VB at|IN the|DT end|NN of|IN the|DT month|NN and|CC that|IN rome|NN would|MD enforce|VB a|DT plan|NN to|TO clean|VB up|RP the|DT sicilian|JJ government’s|NNS accounts|NNS and|CC sort|NN out|RP its|PRP$ administration|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START icily|RB is|VBZ one|CD of|IN five|CD italian|JJ regions|NNS out|IN of|IN 20|CD with|IN special|JJ statutes|NNS that|WDT give|JJ them|PRP ample|JJ autonomy|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ estimated|VBN debts|NNS of|IN €53|-NONE- billion|CD though|IN mr|NN lombardo|NN says|VBZ the|DT island|NN is|VBZ owed|VBN money|NN including|VBG by|IN rome|NN </s>|S_END
+<s>|S_START and|CC sicily|RB is|VBZ notorious|JJ for|IN its|PRP$ extravagant|JJ administration|NN </s>|S_END
+<s>|S_START a|DT report|NN by|IN the|DT audit|NN court|NN last|JJ month|NN found|VBD it|PRP had|VBD almost|RB 18000|CD employee—five|JJ times|NNS as|IN many|JJ as|IN the|DT regional|JJ government|NN of|IN lombardy|NN which|WDT has|VBZ twice|NN the|DT population|NN </s>|S_END
+<s>|S_START the|DT governor|NN had|VBD a|DT bigger|JJR staff|NN than|IN the|DT british|JJ prime|NN minister|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB much|JJ cash|NN rome|NN will|MD need|VB to|TO put|VB into|IN sicily|RB remains|VBZ to|TO be|VB seen|VBN </s>|S_END
+<s>|S_START mr|NN lombardo|VBP said|VBN he|PRP expected|VBD soon|RB to|TO receive|VB transfers|NNS running|VBG to|TO hundreds|NNS of|IN millions|NNS of|IN euro|NN </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ not|RB clear|JJ how|WRB much|JJ had|NN already|RB been|VBN earmarked|VBN for|IN the|DT island|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START are|VBP there|RB other|JJ sicilies|NNS waiting|VBG to|TO be|VB bailed|VBN out|RP </s>|S_END
+<s>|S_START matteo|NN caroli|NN of|IN the|DT luiss|NN university|NN in|IN rome|NN notes|NNS the|DT central|JJ government|NN has|VBZ introduced|VBN draconian|JJ sanctions|NNS to|TO force|VB the|DT regional|JJ administrations|NNS to|TO balance|VB their|PRP$ book|NN </s>|S_END
+<s>|S_START but|CC he|PRP adds|VBZ “these|JJ are|VBP processes|NNS that|IN require|NN time”|-NONE- </s>|S_END
+<s>|S_START and|CC in|IN southern|NN europe|NN this|DT week|NN time|NN appeared|VBD in|IN alarmingly|RB short|JJ supply|NN </s>|S_END
+</p>|P_END
+

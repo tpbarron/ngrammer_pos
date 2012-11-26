@@ -1,0 +1,107 @@
+<p>|P_START
+<s>|S_START if|IN some|DT of|IN the|DT worlds|NNS largest|JJS corporations|NNS cant|VBP manage|NN to|TO keep|VB your|PRP$ personal|JJ and|CC financial|JJ data|NNS safe|VBP is|VBZ there|RB anything|NN you|PRP can|MD do|VB to|TO protect|VB yourself|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT recent|JJ string|NN of|IN cyber|NN attacks|NNS on|IN companies|NNS such|JJ as|IN sony|NN citigroup|NN and|CC nasdaq|NN —|: organizations|NNS youd|VBP hope|NN would|MD know|VB something|NN about|IN data|NNS security|NN —|: has|VBZ spotlighted|VBN the|DT vulnerability|NN of|IN personal|JJ information|NN that|WDT could|MD be|VB used|VBN to|TO steal|VB your|PRP$ identity|NN </s>|S_END
+<s>|S_START the|DT latest|JJS breach|NN of|IN customer|NN privacy|NN came|VBD a|DT week|NN ago|IN when|WRB gaming|VBG company|NN sega|NN admitted|VBD that|IN the|DT email|NN addresses|VBZ dates|NNS of|IN birth|JJ and|CC encrypted|VBD passwords|NNS of|IN nearly|RB 13|CD million|CD customers|NNS had|VBD been|VBN compromised|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT frequency|NN and|CC scope|NN of|IN these|DT successful|JJ attacks|NNS is|VBZ shocking|VBG </s>|S_END
+<s>|S_START this|DT year|NN alone|RB more|RBR than|IN 13|CD million|CD records|NNS have|VBP been|VBN involved|VBN in|IN security|NN breaches|NNS related|VBN to|TO hacking|NN or|CC malware|NN according|VBG to|TO nonprofit|VB consumer|NN group|NN privacy|NN rights|NNS clearinghouse|VBP </s>|S_END
+<s>|S_START and|CC thats|NNS only|RB from|IN 58|CD such|JJ incidents|NNS that|WDT were|VBD made|VBN public|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD possible|JJ solution|NN is|VBZ stronger|JJR legislation|NN </s>|S_END
+<s>|S_START earlier|JJR this|DT month|NN sen|NN patrick|NN leahy|NN dvt|NN reintroduced|VBD the|DT personal|JJ data|NNS privacy|NN and|CC security|NN act|NN for|IN the|DT fourth|JJ time|NN since|IN 2005|CD </s>|S_END
+<s>|S_START the|DT bill|NN which|WDT requires|VBZ companies|NNS to|TO strengthen|VB protections|NNS and|CC imposes|NNS stricter|RBR penalties|NNS on|IN hackers|NNS would|MD supersede|VB a|DT patchwork|NN of|IN state|NN data|NNS breach|VBP laws|NNS </s>|S_END
+<s>|S_START the|DT bill|NN also|RB makes|VBZ it|PRP a|DT crime|NN to|TO conceal|VB a|DT security|NN breach|NN unless|IN the|DT compromised|VBN information|NN poses|NNS no|DT significant|JJ risk|NN of|IN harm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT recent|JJ spate|NN of|IN highprofile|NN data|NNS breaches|NNS may|MD provide|VB political|JJ momentum|NN to|TO leahys|NNS bill|NN </s>|S_END
+<s>|S_START but|CC strengthening|VBG protection|NN of|IN sensitive|JJ information|NN requires|VBZ a|DT technical|JJ fix|NN not|RB just|RB punitive|JJ measures|NNS says|VBZ lauren|VBN weinstein|NN cofounder|NN of|IN people|NNS for|IN internet|JJ responsibility|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START evidence|NN for|IN that|DT says|VBZ weinstein|NN can|MD be|VB found|VBN in|IN mays|NNS citigroup|NN hack|NN </s>|S_END
+<s>|S_START on|IN june|NN 15|CD the|DT company|NN announced|VBD that|IN its|PRP$ credit|NN card|NN breach|NN affected|VBD more|JJR than|IN 360000|CD customer|NN accounts|NNS a|DT significantly|RB larger|JJR figure|NN than|IN previously|RB stated|VBN </s>|S_END
+<s>|S_START according|VBG to|TO the|DT new|JJ york|NN times|NNS hackers|NNS exploited|VBD a|DT simple|JJ loophole|NN to|TO access|NN financial|JJ data|NNS logging|VBG on|IN to|TO citis|NNS credit|NN card|NN customer|NN site|NN and|CC plugging|VBG different|JJ numbers|NNS into|IN the|DT web|NN browsers|NNS address|NN bar|NN giving|VBG them|PRP access|NN to|TO other|JJ accounts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START they|PRP did|VBD it|PRP by|IN using|VBG the|DT oldest|JJS trick|NN in|IN the|DT book|NN weinstein|NN said|VBD </s>|S_END
+<s>|S_START thats|NNS the|DT kind|NN of|IN problem|NN we|PRP were|VBD seeing|VBG in|IN the|DT very|JJ early|JJ days|NNS of|IN web|NN commerce|NN and|CC for|IN something|NN like|IN that|DT to|TO show|VB up|RP now|RB is|VBZ depressing|VBG </s>|S_END
+<s>|S_START i|PRP dont|VBP think|VBP you|PRP can|MD legislate|VB away|RB that|IN mistake|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN what|WP can|MD you|PRP do|VB to|TO minimize|VB the|DT damage|NN of|IN a|DT data|NN breach that|WDT depends|NNS on|IN what|WP information|NN is|VBZ stolen|VBN says paul|JJ stephens|NNS director|NN of|IN policy|NN and|CC advocacy|NN with|IN the|DT privacy|NN rights|NNS clearinghouse|VBP </s>|S_END
+<s>|S_START heres|NNS his|PRP$ advice|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START 1|LS </s>|S_END
+<s>|S_START social|JJ security|NN numbers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN your|PRP$ social|JJ security|NN number|NN has|VBZ been|VBN exposed|VBN says|VBZ stephens|NNS you|PRP should|MD check|VB your|PRP$ credit|NN reports|NNS regularly|RB and|CC place|NN a|DT fraud|NN alert|NN —|: or|CC perhaps|RB a|DT security|NN freeze|NN —|: on|IN your|PRP$ credit|NN report|NN </s>|S_END
+<s>|S_START start|NN at|IN annualcreditreportcom|NN the|DT official|NN site|NN to|TO get|VB a|DT free|JJ credit|NN report|NN from|IN each|DT of|IN the|DT countrys|NNS major|JJ consumer|NN credit|NN reporting|VBG agencies|NNS equifax|NN experian|NN and|CC transunion|NN </s>|S_END
+<s>|S_START each|DT offers|NNS one|CD free|JJ credit|NN report|NN every|DT 12|CD months|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fraud|NN alerts|NNS notify|VBP potential|JJ credit|NN grantors|NNS that|WDT you|PRP may|MD be|VB a|DT victim|NN of|IN identity|NN theft|NN so|RB that|IN theyll|NN tread|NN more|RBR carefully|RB when|WRB setting|VBG up|RP a|DT new|JJ financial|JJ account|NN </s>|S_END
+<s>|S_START a|DT call|NN to|TO just|RB one|CD of|IN the|DT credit|NN reporting|VBG companies|NNS will|MD help|VB you|PRP set|VB up|RP a|DT fraud|NN alert|NN with|IN all|DT three|CD for|IN at|IN least|JJS 90|CD days|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT security|NN freeze|NN can|MD lock|VB your|PRP$ credit|NN report|NN to|TO prevent|VB potential|JJ identity|NN thieves|NNS from|IN opening|VBG any|DT new|JJ accounts|NNS </s>|S_END
+<s>|S_START each|DT company|NN —|: and|CC state|NN —|: has|VBZ its|PRP$ own|JJ policies|NNS regarding|VBG setting|VBG up|RP and|CC removing|VBG freezes|NNS but|CC the|DT process|NN is|VBZ usually|RB free|JJ if|IN youre|NN a|DT victim|NN of|IN identity|NN theft|NN </s>|S_END
+<s>|S_START consumers|NNS union|VBP offers|NNS a|DT comprehensive|JJ list|NN of|IN policies|NNS </s>|S_END
+<s>|S_START keep|VB in|IN mind|NN that|IN taking|VBG these|DT steps|NNS could|MD also|RB make|VB your|PRP$ own|JJ applications|NNS for|IN new|JJ credit|NN more|RBR difficult|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START 2|LS </s>|S_END
+<s>|S_START financial|JJ account|NN information|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN information|NN about|IN your|PRP$ debit|NN or|CC credit|NN card|NN is|VBZ stolen|VBN you|PRP should|MD immediately|RB cancel|VB the|DT account|NN says|VBZ stephens and|JJ carefully|RB monitor|NN your|PRP$ financial|JJ statements|NNS to|TO make|VB sure|JJ your|PRP$ information|NN is|VBZ not|RB being|VBG misused|VBN </s>|S_END
+<s>|S_START this|DT is|VBZ particularly|RB true|JJ if|IN its|PRP$ information|NN about|IN your|PRP$ debit|NN card|NN he|PRP says|VBZ since|IN it|PRP offers|VBZ consumers|NNS fewer|JJR protections|NNS against|IN misuse a|NNP debit|NN card|NN is|VBZ a|DT direct|JJ pipeline|NN to|TO your|PRP$ checking|NN accounthe|NN says|VBZ </s>|S_END
+<s>|S_START the|DT money|NN is|VBZ almost|RB immediately|RB drawn|VBN from|IN your|PRP$ account|NN and|CC youll|JJ have|VBP to|TO fight|NN with|IN your|PRP$ bank|NN to|TO get|VB it|PRP back|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START 3|LS </s>|S_END
+<s>|S_START email|NN addresses|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START compared|VBN to|TO a|DT compromised|VBN credit|NN card|NN number|NN or|CC social|JJ security|NN number|NN an|DT exposed|VBN email|NN address|NN may|MD seem|VB innocuous|JJ </s>|S_END
+<s>|S_START but|CC when|WRB your|PRP$ email|NN or|CC other|JJ account|NN details|NNS are|VBP compromised|VBN stephens|NNS says|VBZ you|PRP should|MD be|VB on|IN the|DT lookout|NN for|IN spear|NN phishing|VBG targeted|VBN email|NN that|IN poses|NNS as|IN a|DT legitimate|NN message|NN to|TO solicit|VB even|RB more|RBR information|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unless|IN youre|NN 100|CD percent|NN certain|JJ that|IN an|DT email|NN is|VBZ legitimate|JJ our|PRP$ advice|NN is|VBZ when|WRB you|PRP receive|VBP an|DT email|NN asking|VBG for|IN any|DT information|NN dont|NN respond|NN to|TO it|PRP he|PRP says|VBZ </s>|S_END
+<s>|S_START instead|RB if|IN it|PRP appears|VBZ to|TO be|VB an|DT email|NN coming|VBG from|IN your|PRP$ bank|NN or|CC credit|NN card|NN company|NN give|VB the|DT company|NN a|DT call|NN or|CC pay|NN a|DT visit|NN to|TO the|DT official|NN website|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN for|IN protecting|NN yourself|PRP in|IN advance|NN the|DT most|JJS important|JJ thing|NN you|PRP can|MD do|VB is|VBZ use|VB different|JJ passwords|NNS for|IN every|DT account|NN since|IN hackers|NNS who|WP have|VBP your|PRP$ password|NN for|IN one|CD website|JJ can|MD easily|RB test|VB to|TO see|VB whether|IN it|PRP works|VBZ with|IN similar|JJ usernames|NNS on|IN other|JJ websites|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unfortunately|RB nothing|NN is|VBZ foolproof|IN </s>|S_END
+<s>|S_START the|DT only|JJ way|NN you|PRP can|MD limit|VB your|PRP$ exposure|NN is|VBZ to|TO never|RB give|VB your|PRP$ information|NN out|IN to|TO anybody|NN —|: and|CC youd|NN have|VBP to|TO live|VB on|IN a|DT deserted|JJ island|NN to|TO do|VB that|DT stephens|NNS says|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START find|NN money|NN on|IN facebook|NN </s>|S_END
+<s>|S_START follow|NN money|NN on|IN twitter|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,36 @@
+<p>|P_START
+</p>|P_END
+
+<p>|P_START
+<s>|S_START american|NN international|JJ group|NN aig|NN said|VBD it|PRP will|MD buy|VB back|RP up|IN to|TO $|$ 3|CD billion|CD of|IN its|PRP$ stock|NN from|IN the|DT us|PRP treasury|VBP friday|NN as|IN part|NN of|IN the|DT governments|NNS offering|VBG of|IN $|$ 45|CD billion|CD of|IN the|DT insurers|NNS shares|NNS on|IN the|DT open|JJ market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT stock|NN sale|NN will|MD move|VB the|DT us|PRP government|NN closer|NN to|TO a|DT point|NN where|WRB it|PRP would|MD own|VB just|RB half|DT of|IN the|DT insurers|NNS shares|NNS outstanding|JJ </s>|S_END
+<s>|S_START the|DT treasury|NN department|NN currently|RB holds|VBZ a|DT 61|CD stake|NN in|IN the|DT company|NN </s>|S_END
+<s>|S_START aig|NN said|VBD that|IN citigroup|NN c|NN deutsche|NN bank|NN db|NN goldman|NN sachs|NNS gs|NNS and|CC jpmorgan|VBD chase|NN jpm|NN are|VBP the|DT banks|NNS working|VBG on|IN the|DT stock|NN offering|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shortly|RB after|IN lehman|NN brothers|NNS filed|VBN for|IN bankruptcy|NN protection|NN in|IN september|NN 2008|CD aig|NN was|VBD also|RB teetering|VBG on|IN the|DT edge|NN </s>|S_END
+<s>|S_START the|DT us|PRP government|NN offered|VBD aig|JJ an|DT $|$ 85|CD billion|CD lifeline|NN that|WDT eventually|RB ballooned|VBD to|TO $|$ 182|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START aigs|NNS stock|NN was|VBD halted|VBN midday|NN friday|NN following|VBG the|DT treasury|NN news|NN but|CC shares|NNS moved|VBD higher|JJR once|RB they|PRP resumed|VBD trading|NN </s>|S_END
+<s>|S_START the|DT stock|NN finished|VBD the|DT day|NN up|RB 16|CD </s>|S_END
+<s>|S_START it|PRP has|VBZ been|VBN a|DT good|JJ year|NN so|IN far|RB for|IN aig|NN </s>|S_END
+<s>|S_START shares|NNS have|VBP gained|VBN 35|CD in|IN 2012|CD </s>|S_END
+<s>|S_START on|IN thursday|NN aig|NN reported|VBD a|DT secondquarter|NN profit|NN of|IN $|$ 233|CD billion|CD ahead|RB of|IN analysts|NNS expectations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT rebound|NN for|IN aig|NN has|VBZ been|VBN good|JJ for|IN the|DT government|NN and|CC taxpayers|NNS as|IN well|RB </s>|S_END
+<s>|S_START the|DT stock|NN closed|VBD friday|NN at|IN $|$ 3134|CD </s>|S_END
+<s>|S_START thats|NNS nearly|RB 10|CD higher|JJR than|IN the|DT treasury|NN departments|NNS breakeven|RB price|NN of|IN $|$ 2872|CD a|DT share|NN for|IN its|PRP$ investment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnnmoneys|NNS ben|VBP rooney|NN contributed|VBN to|TO this|DT article|NN </s>|S_END
+</p>|P_END
+

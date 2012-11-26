@@ -1,0 +1,13 @@
+<p>|P_START
+<s>|S_START an|DT equityindexed|VBN annuity|NN is|VBZ a|DT combination|NN of|IN a|DT fixed|VBN and|CC a|DT variable|JJ annuity|NN </s>|S_END
+<s>|S_START the|DT marketing|NN pitch|NN usually|RB goes|VBZ something|NN like|IN this|DT equityindexed|VBN annuities|NNS give|VBP you|PRP the|DT best|JJS of|IN both|DT worlds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START guaranteed|VBN return|NN as|IN with|IN a|DT fixed|VBN annuity|NN you|PRP get|VBP the|DT lowrisk|NN appeal|NN of|IN a|DT guaranteed|NN minimum|NN return|NN usually|RB 2|CD to|TO 3|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN some|DT upside|JJ but|CC as|IN with|IN a|DT variable|JJ annuity|NN you|PRP also|RB have|VBP a|DT shot|NN at|IN higher|JJR gains|NNS if|IN the|DT stock|NN market|NN rises|NNS since|IN an|DT equity|NN indexed|VBN annuitys|NNS return|VBP is|VBZ also|RB tied|VBN to|TO the|DT performance|NN of|IN a|DT benchmark|NN index|NN such|JJ as|IN the|DT standard|JJ poors|NNS 500|CD </s>|S_END
+</p>|P_END
+

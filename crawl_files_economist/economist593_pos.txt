@@ -1,0 +1,5 @@
+<p>|P_START
+<s>|S_START you|PRP are|VBP missing|VBG some|DT flash|NN content|NN that|WDT should|MD appear|VB here|RB </s>|S_END
+<s>|S_START perhaps|RB your|PRP$ browser|NN can|MD not|RB display|VB it|PRP or|CC maybe|VB it|PRP did|VBD not|RB initialize|VB correctly|RB </s>|S_END
+</p>|P_END
+

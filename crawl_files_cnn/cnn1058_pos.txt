@@ -1,0 +1,145 @@
+<p>|P_START
+<s>|S_START president|NN obamas|VBD budget|NN includes|VBZ many|JJ tax|NN proposals|NNS he|PRP has|VBZ offered|VBN before|IN </s>|S_END
+<s>|S_START one|CD new|JJ addition|NN is|VBZ the|DT buffett|NN rule|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN raise|NN taxes|NNS on|IN those|DT making|VBG more|JJR than|IN $|$ 250000|CD </s>|S_END
+<s>|S_START limit|NN deductions|NNS for|IN the|DT wealthy|JJ </s>|S_END
+<s>|S_START make|VB an|DT expanded|VBN college|NN tax|NN credit|NN permanent|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sound|NN familiar|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB it|PRP comes|VBZ to|TO taxes|NNS president|NN obamas|NNS 2013|CD budget|NN proposal|NN released|VBN monday|NN includes|VBZ a|DT host|NN of|IN repeat|NN performances|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN fact|NN many|JJ of|IN the|DT proposals|NNS he|PRP makes|VBZ have|VBP appeared|VBN in|IN every|DT budget|NN obama|NN has|VBZ put|VBN out|RP since|IN taking|VBG office|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD addition|NN this|DT year|NN a|DT socalled|JJ buffett|NN rule|NN to|TO ensure|VB that|IN those|DT making|VBG more|JJR than|IN $|$ 1|CD million|CD pay|NN their|PRP$ fair|NN share|NN which|WDT president|NN obama|VBD has|VBZ defined|VBN as|IN paying|NN at|IN least|JJS 30|CD of|IN their|PRP$ income|NN in|IN taxes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC his|PRP$ budget|NN proposal|NN offers|VBZ few|JJ new|JJ details|NNS about|IN how|WRB the|DT buffett|NN rule|NN would|MD actually|RB work|VB other|JJ than|IN to|TO say|VB it|PRP would|MD be|VB equitable|JJ including|VBG not|RB disadvantaging|VBG individuals|NNS who|WP make|VBP large|JJ charitable|JJ contributions|NNS </s>|S_END
+<s>|S_START the|DT fiscal|JJ blueprint|NN reiterates|NNS that|WDT the|DT buffett|NN rule|NN is|VBZ a|DT guiding|NN principle|NN for|IN overhauling|NN the|DT tax|NN code|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START obama|NN includes|VBZ other|JJ more|JJR concrete|JJ oftmade|NN proposals|NNS that|WDT would|MD increase|VB the|DT tax|NN bite|NN on|IN highincome|NN households|NNS while|IN calling|VBG for|IN expanding|VBG or|CC making|VBG permanent|NN other|JJ tax|NN breaks|NNS for|IN the|DT middle|NN class|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN course|NN the|DT reason|NN so|RB many|JJ of|IN the|DT presidents|NNS earlier|JJR tax|NN proposals|NNS appear|VBP again|RB in|IN his|PRP$ fiscal|JJ year|NN 2013|CD budget|NN is|VBZ because|IN they|PRP have|VBP yet|RB to|TO be|VB adopted|VBN by|IN congress|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC they|PRP arent|VBP likely|JJ to|TO gain|VB much|JJ traction|NN this|DT year|NN either|DT given|VBN that|IN electionyear|JJ politics|NNS is|VBZ expected|VBN to|TO shut|VB down|RP policymaking|VBG in|IN the|DT divided|VBN congress|NN until|IN after|IN nov|NN 6|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT budget|NN frames|VBZ obamas|NNS priorities|NNS on|IN individual|JJ taxes|NNS as|IN he|PRP stumps|VBZ for|IN reelection|NN </s>|S_END
+<s>|S_START as|IN a|DT preview|NN here|RB are|VBP some|DT of|IN the|DT highlights|NNS </s>|S_END
+<s>|S_START bush|NN tax|NN cuts|NNS the|DT real|JJ endgame|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START extend|NN most|JJS of|IN the|DT bushera|NN tax|NN cuts|NNS set|VBD to|TO expire|VB on|IN dec|NN 31|CD the|DT 2001|CD and|CC 2003|CD income|NN tax|NN cuts|NNS continue|VBP to|TO be|VB ground|VBN zero|NN for|IN partisan|JJ warfare|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START from|IN his|PRP$ days|NNS on|IN the|DT 2008|CD campaign|NN trail|NN obama|NN has|VBZ said|VBN he|PRP wants|VBZ to|TO make|VB the|DT tax|NN cuts|NNS permanent|JJ for|IN the|DT vast|JJ majority|NN of|IN americans|NNS </s>|S_END
+<s>|S_START the|DT only|JJ exception|NN he|PRP wants|VBZ to|TO let|VB the|DT top|JJ two|CD tax|NN rates|NNS currently|RB 33|CD and|CC 35|CD revert|NN to|TO their|PRP$ pre2001|NNP levels|NNS of|IN 36|CD and|CC 396|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS folks|NNS in|IN the|DT top|JJ two|CD brackets|NNS however|RB would|MD still|RB benefit|VB from|IN the|DT continuation|NN of|IN the|DT 10|CD 15|CD 25|CD and|CC 28|CD rates|NNS on|IN the|DT portion|NN of|IN their|PRP$ income|NN subject|NN to|TO the|DT lower|JJR brackets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START change|NN tax|NN rates|NNS on|IN investment|NN income|NN for|IN the|DT wealthy|JJ the|DT president|NN would|MD raise|VB the|DT longterm|NN capital|NN gains|NNS currently|RB 15|CD to|TO 20|CD on|IN those|DT making|VBG more|JJR than|IN $|$ 200000|CD $|$ 250000|CD if|IN married|JJ filing|NN jointly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT past|JJ obama|NN proposed|VBD the|DT same|JJ thing|NN for|IN qualified|VBN dividends|NNS </s>|S_END
+<s>|S_START but|CC in|IN his|PRP$ 2013|CD budget|NN he|PRP is|VBZ calling|VBG for|IN dividends|NNS to|TO be|VB taxed|VBN as|IN ordinary|JJ income|NN for|IN upperincome|NN households|NNS </s>|S_END
+<s>|S_START that|DT would|MD happen|VB in|IN 2013|CD anyway|NN if|IN congress|NN makes|VBZ no|DT changes|NNS to|TO current|JJ law|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN everyone|NN else|RB the|DT rate|NN on|IN investment|NN income|NN would|MD remain|VB 15|CD or|CC 0|-NONE- for|IN lowincome|NN households|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START modify|NN estate|NN tax|NN obama|NN opposes|NNS eliminating|VBG the|DT estate|NN tax|NN but|CC for|IN the|DT past|JJ three|CD years|NNS he|PRP has|VBZ pushed|VBN to|TO keep|VB it|PRP at|IN a|DT more|RBR generous|JJ level|NN than|IN would|MD be|VB the|DT case|NN under|IN current|JJ law|NN where|WRB it|PRP would|MD revert|VB to|TO a|DT $|$ 1|CD million|CD exemption|NN level|NN and|CC a|DT top|JJ rate|NN of|IN 55|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START instead|RB the|DT president|NN would|MD like|VB to|TO raise|VB the|DT exemption|NN level|NN to|TO $|$ 5|CD million|CD and|CC lower|JJR the|DT top|JJ rate|NN to|TO 35|CD </s>|S_END
+<s>|S_START obamas|NNS tax|VBP record|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START limit|NN itemized|VBD deductions|NNS for|IN highincome|NN households|NNS as|IN he|PRP has|VBZ done|VBN in|IN past|JJ budgets|NNS obama|VBP will|MD propose|VB reducing|VBG the|DT value|NN of|IN itemized|JJ deductions|NNS for|IN individuals|NNS making|VBG more|JJR than|IN $|$ 200000|CD or|CC $|$ 250000|CD if|IN married|JJ filing|NN jointly|RB </s>|S_END
+<s>|S_START today|NN they|PRP can|MD deduct|VB 33|CD or|CC 35|CD of|IN a|DT qualified|VBN expense|NN </s>|S_END
+<s>|S_START under|IN the|DT presidents|NNS proposal|NN they|PRP would|MD only|RB be|VB allowed|VBN to|TO deduct|VB 28|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START currently|RB those|DT in|IN the|DT top|JJ two|CD tax|NN brackets|NNS 33|CD and|CC 35|CD have|VBP taxable|JJ income|NN of|IN at|IN least|JJS $|$ 178650|CD if|IN theyre|JJ single|JJ or|CC $|$ 217450|CD if|IN theyre|JJ married|VBN filing|NN jointly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START raise|NN taxes|NNS on|IN investment|NN fund|NN managers|NNS income|NN as|IN most|JJS americans|NNS have|VBP learned|VBN from|IN mitt|NN romneys|NNS tax|NN returns|NNS managers|NNS of|IN private|JJ equity|NN venture|NN capital|NN and|CC hedge|NN funds|NNS are|VBP only|RB taxed|VBN 15|CD on|IN the|DT portion|NN of|IN their|PRP$ compensation|NN known|VBN as|IN carried|VBN interest|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START obama|NN would|MD like|VB carried|VBN interest|NN to|TO be|VB taxed|VBN as|IN ordinary|JJ income|NN which|WDT means|VBZ those|DT managers|NNS would|MD pay|VB more|RBR than|IN double|JJ the|DT rate|NN they|PRP currently|RB pay|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START index|NN the|DT amt|NN obama|NN has|VBZ long|RB supported|VBN permanently|RB fixing|VBG the|DT alternative|NN minimum|NN tax|NN to|TO keep|VB more|JJR than|IN 20|CD million|CD middleclass|NNS households|NNS from|IN getting|VBG engulfed|VBN by|IN the|DT socalled|VBN wealth|NN tax|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START congress|NN typically|RB passes|VBZ temporary|JJ amt|NN patches|NNS every|DT year|NN to|TO accomplish|VB the|DT same|JJ goal|NN but|CC the|DT president|NN has|VBZ called|VBN for|IN it|PRP to|TO be|VB permanently|RB patched|VBN </s>|S_END
+<s>|S_START doing|VBG so|RB would|MD increase|VB the|DT amount|NN of|IN income|NN tax|NN filers|NNS may|MD exempt|VB from|IN consideration|NN when|WRB calculating|VBG whether|IN they|PRP need|VBP to|TO pay|VB the|DT amt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START without|IN the|DT amt|NN patch|NN tax|NN filers|NNS would|MD only|RB be|VB able|JJ to|TO exempt|VB $|$ 33750|CD in|IN income|NN if|IN single|JJ or|CC $|$ 45000|CD if|IN married|JJ filing|NN a|DT jointly|RB </s>|S_END
+<s>|S_START that|DT is|VBZ considerably|RB less|JJR than|IN the|DT $|$ 48450|CD that|WDT single|JJ filers|NNS and|CC $|$ 74450|CD joint|JJ filers|NNS may|MD claim|VB on|IN their|PRP$ 2011|CD returns|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START should|MD congress|NN embark|VB on|IN reforming|NN the|DT tax|NN code|NN obama|NN is|VBZ also|RB proposing|VBG that|IN the|DT buffett|NN rule|NN should|MD replace|VB the|DT amt|NN entirely|RB </s>|S_END
+<s>|S_START but|CC that|DT could|MD be|VB a|DT costly|JJ proposition|NN for|IN federal|JJ coffers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START replacing|VBG amt|NN with|IN a|DT buffett|NN rule|NN would|MD almost|RB certainly|RB cost|NN a|DT lot|NN in|IN terms|NNS of|IN lost|NN revenue|NN said|VBD roberton|NN williams|NNS a|DT senior|JJ fellow|NN at|IN the|DT tax|NN policy|NN center|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START make|VB the|DT expanded|VBN hope|NN credit|NN permanent|NN renamed|VBD the|DT american|NN opportunity|NN tax|NN credit|NN and|CC expanded|VBD in|IN 2009|CD the|DT partially|RB refundable|JJ college|NN credit|NN is|VBZ now|RB worth|JJ up|IN to|TO $|$ 2500|CD a|DT year|NN up|RP to|TO 100|CD of|IN the|DT first|JJ $|$ 2000|CD in|IN qualified|JJ expenses|NNS and|CC up|IN to|TO 25|CD of|IN the|DT next|JJ $|$ 2500|CD and|CC it|PRP may|MD be|VB claimed|VBN for|IN four|CD years|NNS worth|NN of|IN college|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eligibility|NN to|TO take|VB the|DT credit|NN is|VBZ limited|VBN to|TO those|DT with|IN modified|JJ adjusted|VBN gross|NN income|NN below|IN $|$ 90000|CD $|$ 180000|CD for|IN couples|NNS filing|VBG jointly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START make|VB permanent|JJ the|DT expansion|NN of|IN a|DT lowincome|NN tax|NN credit|NN the|DT earned|JJ income|NN tax|NN credit|NN or|CC eitc|NN is|VBZ a|DT refundable|JJ tax|NN credit|NN intended|VBD to|TO help|VB the|DT working|VBG poor|NN by|IN offsetting|VBG their|PRP$ social|JJ security|NN tax|NN burden|NN and|CC providing|VBG an|DT incentive|NN to|TO work|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eitc|NN eligibility|NN is|VBZ based|VBN on|IN income|NN and|CC number|NN of|IN dependents|NNS </s>|S_END
+<s>|S_START eligibility|NN rules|NNS were|VBD made|VBN more|RBR generous|JJ after|IN the|DT financial|JJ crisis|NN </s>|S_END
+<s>|S_START and|CC the|DT president|NN would|MD like|VB to|TO preserve|VB those|DT expansions |JJ </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,42 @@
+<p>PITY the British Bankers’ Association (BBA): it lacks the tools it needs to do its job. It sets one of finance’s most important interest rates, but the prices it needs to do this do not exist. The London Inter-bank Offered Rate (LIBOR) aims to represent the prices banks charge when lending to one another. The rates are required every day, including in currencies and at maturities where actual transactions are rare. To find the right prices the BBA uses a system that works a bit like an auction. And auction theory might just help rectify the flaws in LIBOR.</p>
+
+<p>Auctions are commonly used to find prices where none exists. There are lots of variants. In “English” auctions, often used to sell rare paintings, bids are public and the highest bidder wins. In online auctions, bids are privately submitted and the auctioneer selects the winner and price. In financial-market auctions—to buy government bonds, say—there can be more than one winner since there are lots of similar assets for sale. Whatever the set-up, one of the aims is to elicit price information from the bidders.</p>
+
+<p>The LIBOR-setting process has a similar aim. The BBA plays a role akin to an auctioneer, asking banks to submit daily estimates of the rate they would pay to borrow in “reasonable market size”. These private submissions are collected by the BBA. After throwing aside outlier bids, the average gives the final LIBOR price.</p>
+
+<p>Some of LIBOR’s failures also have echoes in auctions. Traders at involved banks are accused of aligning their LIBOR estimates in an attempt to affect the final rate. They were able to cross-check what others had done, since the BBA makes individual estimates public. These traders had, in effect, formed a “bidding ring”, analogous to a sort of cartel that is familiar to observers of auctions.</p>
+
+<p>Bidding rings can be both sophisticated and long-lasting. In a 2009 paper John Asker of New York University’s Stern School of Business examined a bidding ring that specialised in valuable stamp collections. The members recognised that it was not in their interests to battle it out in proper auctions. So before each sale they submitted private bids to a central organiser (a taxi driver). The top bidder in this illegal “knockout” auction had the right to bid, unthreatened, at the auction house. The losers in the knockout auction received a payment to keep them sweet. The cartel ran over 1,700 of these knockout auctions in one year, and operated successfully for 15 years.</p>
+
+<p>Luckily for those trying to mend LIBOR, there are examples of how these types of cartel falter. In a 1992 paper on bidding rings, Preston McAfee, now at Google, and John McMillan, then of the University of California, San Diego, outlined four challenges that bidding rings face. First, they need an enforcement mechanism so that members stick to the rules. Second, the spoils need to be fairly shared. Third, new entrants must be kept out. Finally, the cartel needs to avoid action from outside that aims to topple it.</p>
+
+<p>A better LIBOR system would be based on actual data as far as possible: not using any market data just because some are missing was never a good idea. If the BBA needs estimates to fill the gaps, it should learn a simple lesson from auctions: you have to stick to your bid. False bidding in an auction is penalised: Sotheby’s, for example, is currently suing two buyers who failed to pay for Chinese works of art won at auction. It should be the same with LIBOR. Banks that claim one price but actually pay another when they borrow should face a hefty fine.</p>
+
+<p>Once banks’ LIBOR bids actually have some commitment value, the system should focus on the weaknesses that auction cartels are known to have. The cartel-enforcement problem would be more acute if the BBA increased the number of submitting banks and kept those bids private. The entry of outsiders should be actively encouraged, by allowing other lenders to banks (money-market funds, say) to submit estimates, too.</p>
+
+<p>You can’t touch this</p>
+
+<p>No two auctions are exactly alike but the BBA could also borrow from the ideas of others. In 2007 and 2008 the Bank of England (BoE) and America’s Treasury both wanted to push cash into illiquid markets by buying up dodgy collateral. But markets had dried up, so there were no prices for these assets. Both called in auction experts—Paul Klemperer of Oxford University for the BoE and Paul Milgrom of Stanford University for the Treasury.</p>
+
+<p>In Mr Klemperer’s “product mix” auction, bidders submit detailed bids, which include both the prices they would pay and quantities they would accept for a range of goods. Because bids are simultaneous and are never revealed, bidders cannot learn from one another, making collusion harder. Since the auctions are of the many-winner financial type, a knockout system, as in the stamp bidding ring, is unlikely.</p>
+
+<p>Having received a set of bids for different goods, at various prices and quantities, the auctioneer in Mr Klemperer’s set-up then conducts a proxy auction on bidders’ behalf to see who should get what, and what the price should be. Because nothing is revealed to the bidders and they know they cannot influence this process, their best bet is to tell the truth. What is more, since the auctioneer has price information for a range of quantities, it is possible to see how prices change as supply does.</p>
+
+<p>The BBA needs to rework LIBOR completely if it wants to save it. The kinds of ideas being used in auctions might help it do that. If it could elicit honest prices for various quantities of money-market lending it would be able to provide both an accurate LIBOR rate and information on how LIBOR might move as banks’ financing needs change. This price information would be valuable to regulators. At the moment LIBOR is just a made-up price for an ill-defined quantity of money. Time to call an auctioneer.</p>
+
+<p> </p>
+
+<p>Sources</p>
+
+<p>John Asker, “A Study of the Internal Organization of a Bidding Cartel”, American Economic Review, 100(3), 724-762, 2010</p>
+
+<p>John Asker, “Bidding Rings”, New Palgrave Dictionary of Economics Online, 2010</p>
+
+<p>Paul Klemperer, “The Product-Mix Auction: a New Auction Design for Differentiated Goods”, Journal of the European Economic Association, 2010</p>
+
+<p>P. McAfee and J. McMillan, “Bidding Rings”, American Economic Review, June 1992, 579-599</p>
+
+<p> </p>
+
+<p>Economist.com/blogs/freeexchange</p>
+

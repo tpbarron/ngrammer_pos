@@ -1,0 +1,11 @@
+<p>|P_START
+<s>|S_START a|DT traditional|JJ ira|NN is|VBZ a|DT taxdeferred|VBN retirement|NN savings|NNS account|NN </s>|S_END
+<s>|S_START you|PRP pay|VBP taxes|NNS on|IN your|PRP$ money|NN only|RB when|WRB you|PRP make|VBP withdrawals|NNS in|IN retirement|NN </s>|S_END
+<s>|S_START deferring|VBG taxes|NNS means|NNS all|DT of|IN your|PRP$ dividends|NNS interest|NN payments|NNS and|CC capital|NN gains|NNS can|MD compound|VB each|DT year|NN without|IN being|VBG hindered|VBN by|IN taxes|NNS allowing|VBG an|DT ira|NN to|TO grow|VB much|JJ faster|NN than|IN a|DT taxable|JJ account|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START traditional|JJ iras|NNS come|VBP in|IN two|CD varieties|NNS deductible|JJ and|CC nondeductible|JJ </s>|S_END
+<s>|S_START whether|IN you|PRP qualify|VBP for|IN a|DT full|JJ or|CC partial|JJ tax|NN deduction|NN depends|NNS mostly|RB on|IN your|PRP$ income|NN and|CC whether|IN you|PRP have|VBP access|NN to|TO a|DT workrelated|JJ retirement|NN account|NN like|IN a|DT 401k|CD </s>|S_END
+</p>|P_END
+

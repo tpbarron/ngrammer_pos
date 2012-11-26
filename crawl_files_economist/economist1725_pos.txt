@@ -1,0 +1,47 @@
+<p>|P_START
+<s>|S_START when|WRB industrialists|NNS use|VBP enzymes|NNS to|TO speed|VB up|RP chemical|JJ reactions|NNS they|PRP generally|RB take|VBP care|NN to|TO attach|VB those|DT enzymes|NNS to|TO solid|JJ surfaces|NNS and|CC run|VBP the|DT chemicals|NNS past|VBP them|PRP </s>|S_END
+<s>|S_START enzymes|NNS are|VBP expensive|JJ and|CC not|RB to|TO be|VB thrown|VBN away|RB lightly|RB </s>|S_END
+<s>|S_START yet|RB millions|NNS of|IN householders|NNS do|VBP precisely|RB that|IN whenever|WRB they|PRP wash|VBP their|PRP$ clothe|NN </s>|S_END
+<s>|S_START lots|NNS of|IN washing|VBG powders|NNS contain|VBP enzymes|NNS but|CC these|DT never|RB get|VB recycled|VBN </s>|S_END
+<s>|S_START instead|RB they|PRP are|VBP just|RB flushed|VBN down|RP the|DT drain|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START chandra|NN pundir|PRP$ and|CC nidhi|NN chauhan|IN biochemists|NNS at|IN maharshi|NN dayanand|NN university|NN in|IN haryana|NN india|NN propose|NN to|TO do|VB something|NN about|IN that|DT </s>|S_END
+<s>|S_START they|PRP see|VBP no|DT reason|NN why|WRB washing|VBG enzymes|NNS should|MD suffer|VB this|DT ignominious|JJ fate|NN and|CC as|IN they|PRP report|VBP in|IN industrial|JJ and|CC engineering|NN chemistry|NN research|NN they|PRP have|VBP found|VBN there|EX is|VBZ no|DT reason|NN why|WRB they|PRP should|MD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START their|PRP$ plan|NN was|VBD to|TO see|VB if|IN they|PRP could|MD stick|VB the|DT four|CD enzymes|NNS used|VBN in|IN washing|NN powder—áamylase|NN cellulase|NN protease|NN and|CC lipase—to|NNP pvc|NN a|DT plastic|JJ that|IN is|VBZ cheap|NN chemically|RB inert|NN washresistant|NN lightweight|NN easy|NN to|TO form|NN into|IN various|JJ shapes|NNS and|CC nearly|RB indestructible|JJ </s>|S_END
+<s>|S_START to|TO do|VB so|RB they|PRP took|VBD a|DT beaker|NN made|VBN of|IN pvc|NN filled|VBN it|PRP with|IN a|DT mixture|NN of|IN nitric|JJ and|CC sulphuric|JJ acids|NNS and|CC left|VBD it|PRP for|IN six|CD hour|NN </s>|S_END
+<s>|S_START their|PRP$ purpose|NN was|VBD to|TO cleave|VB the|DT polymers|NNS on|IN the|DT beakers|NNS inside|VBP surface|NN into|IN smaller|JJR molecules|NNS that|WDT have|VBP reactive|JJ chemical|NN groups|NNS at|IN their|PRP$ end|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT done|NN they|PRP emptied|VBD out|RP the|DT acid|NN washed|VBD the|DT beaker|NN with|IN distilled|JJ water|NN and|CC added|VBD a|DT chemical|JJ called|VBN glutaraldehyde|NN </s>|S_END
+<s>|S_START this|DT primed|VBN the|DT ends|NNS of|IN small|JJ cleaved|VBN polymers|NNS with|IN aldehyde|JJ groups|NNS to|TO which|WDT the|DT researchers|NNS expected|VBN each|DT of|IN the|DT four|CD enzymes|NNS to|TO attach|VB easily|RB </s>|S_END
+<s>|S_START they|PRP then|RB poured|VBD a|DT solution|NN of|IN all|DT four|CD enzymes|NNS into|IN the|DT beaker|NN and|CC waited|VBD a|DT day|NN </s>|S_END
+<s>|S_START the|DT enzymes|NNS did|VBD indeed|RB stick|VB </s>|S_END
+<s>|S_START between|IN 40|CD and|CC 70|CD of|IN the|DT enzyme|NN molecules|NNS of|IN each|DT type|NN were|VBD captured|VBN by|IN the|DT treated|VBN pvc|NN </s>|S_END
+<s>|S_START just|RB as|IN crucially|RB the|DT process|NN did|VBD not|RB seem|VB to|TO affect|VB their|PRP$ efficacy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT two|CD researchers|NNS checked|VBD that|IN by|IN conducting|VBG the|DT sort|NN of|IN test|NN often|RB seen|VBN in|IN adverts|NNS for|IN washing|VBG powder|NN </s>|S_END
+<s>|S_START they|PRP put|VBD white|JJ cotton|NN cloths|NNS stained|VBD with|IN starch|NN grass|NNS egg|VBP or|CC mustard|NN oil|NN into|IN the|DT beaker|NN </s>|S_END
+<s>|S_START they|PRP then|RB washed|VBD the|DT cloths|NNS with|IN cheap|NN nonenzymatic|JJ detergents|NNS inside|VBP the|DT enzymecoated|VBN beaker|NN and|CC compared|VBN the|DT result|NN with|IN similar|JJ washing|NN done|NN in|IN untreated|JJ beakers|NNS using|VBG either|DT the|DT same|JJ nonenzyme|NN detergent|NN or|CC an|DT expensive|JJ enzymecontaining|NN detergent|NN or|CC as|IN a|DT control|NN plain|NN water|NN </s>|S_END
+<s>|S_START after|IN each|DT wash|NN they|PRP analysed|VBD the|DT cloth|NN for|IN residual|JJ content|NN from|IN the|DT stain|NN albumin|NN from|IN egg|NN cellulose|NN from|IN grass|NN and|CC so|RB on|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT upshot|NN was|VBD that|IN the|DT combination|NN of|IN the|DT cheap|NN nonenzymatic|JJ detergent|NN and|CC the|DT immobilised|VBN enzymes|NNS in|IN the|DT beaker|NN gave|VBD results|NNS four|CD or|CC five|CD times|NNS better|JJR than|IN those|DT provided|VBN by|IN pricey|NN enzymatic|JJ detergents|NNS in|IN untreated|JJ beaker|NN </s>|S_END
+<s>|S_START moreover|RB the|DT enzymetreated|VBN beakers|NNS continued|VBD to|TO work|VB for|IN up|IN to|TO 200|CD washe|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT next|JJ stage|NN is|VBZ to|TO devise|VB a|DT practical|JJ way|NN to|TO make|VB the|DT enzymes|NNS meet|VBP the|DT clothe|NN </s>|S_END
+<s>|S_START dr|NN pundirs|NNS and|CC dr|NN chauhans|NNS first|RB attempt|VBD was|VBD a|DT treated|VBN pvc|NN scrubbing|NN brush|NN </s>|S_END
+<s>|S_START it|PRP worked|VBD well|RB and|CC since|IN most|JJS indian|JJ households|NNS wash|NN their|PRP$ clothes|NNS by|IN hand|NN should|MD be|VB rapidly|RB deployable|JJ </s>|S_END
+<s>|S_START for|IN those|DT with|IN washing|VBG machines|NNS though|IN a|DT different|JJ answer|NN is|VBZ needed|VBN enzymecoated|VBN plastic|JJ balls|NNS perhap|VBP </s>|S_END
+</p>|P_END
+

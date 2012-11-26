@@ -1,0 +1,68 @@
+<p>|P_START
+<s>|S_START gigaomcom|NN last|JJ week redistogo|NN started|VBD making|VBG its|PRP$ hosted|VBN version|NN of|IN the|DT redis|NNS key|VBP value|NN store|NN available|JJ from|IN amazon’s uswest|JJ facility data|NN centers|NNS to|TO all|DT its|PRP$ customers|NNS </s>|S_END
+<s>|S_START this|DT may|MD not|RB seem|VB like|IN groundbreaking|NN news|NN but|CC it’s|NNP worth|NN noting|VBG since|IN redistogo|NN was|VBD reliant|JJ on|IN amazon|NN useast|NN the|DT giant|JJ cloud|NN provider’s|NNS oldest|JJS and|CC biggest|JJS data|NNS center|NN complex|NN which|WDT has|VBZ been|VBN subject|JJ to|TO several|JJ glitches|NNS over|IN the|DT past|JJ year|NN </s>|S_END
+<s>|S_START those|DT issues|NNS have|VBP have|VBP taken|VBN down|RP websites|NNS running|VBG on|IN aws|NNS including reddit|JJ foursquare|NN and|CC heroku|NN and|CC led|VBD many|JJ to|TO wonder|NN why|WRB these|DT techsavvy|JJ companies|NNS leave|VBP so|RB much|RB of|IN their|PRP$ overall|JJ workload|NN in|IN that|DT problematic|JJ facility|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START according|VBG to|TO the redistogo|NNP blog|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “2012|-NONE- has|VBZ been|VBN a|DT rocky|JJ year|NN for|IN awseast|NN </s>|S_END
+<s>|S_START we’ve|JJ seen|VBN several|JJ outages|NNS from freak|JJ storms to gremlins|NNS in|IN the|DT servers|NNS making|VBG it|PRP hard|RB for|IN anyone|NN wanting|VBG to|TO achieve|VB 99999|CD uptime|NN </s>|S_END
+<s>|S_START we’ve|JJ been|VBN planning|VBG multizones|NNS for|IN a|DT while|NN but|CC as|IN hurricane|NN sandy|NN approached|VBD awseast|JJ we|PRP were|VBD ready|RB for|IN the|DT worst|JJS </s>|S_END
+<s>|S_START we sent|JJ a|DT mail to|JJ our|PRP$ customers|NNS and|CC opened|VBD up|RP our|PRP$ multizone|NN to|TO all|DT customers|NNS as|IN a|DT manual|JJ process”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN superstorm|NN sandy|NN —|: which|WDT did|VBD not|RB impact|VB useast|JJ after|IN all|DT but|CC wreaked|VBD havoc|NN on|IN other|JJ data|NNS centers|NNS in|IN new|JJ york|NN and|CC new|JJ jersey|NN —|: redistogo|NN offered|VBD the|DT uswest|JJS zone|NN to|TO all|DT its|PRP$ customers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN reported|VBN before|IN there|EX are|VBP reasons|NNS that|IN many|JJ companies|NNS relied|VBN so|RB heavily|RB on|IN useast|JJ </s>|S_END
+<s>|S_START some|DT amazon|NN services|NNS debut|CC there|EX first|JJ and|CC cost|NN less|RBR than|IN in|IN other|JJ regions|NNS where|WRB higher|JJR labor|NN and|CC utility|NN costs|NNS are|VBP passed|VBN along|IN to|TO customers|NNS </s>|S_END
+<s>|S_START but|CC given|VBN the|DT downtimes|NNS suffered|VBD by|IN these|DT aws|NNS customers|NNS you|PRP have|VBP to|TO wonder|JJR if|IN all|DT of|IN them|PRP are|VBP considering|VBG a|DT similar|JJ move|NN or|CC even|RB a|DT move|NN of|IN some|DT of|IN their|PRP$ workloads|NNS to|TO a|DT second|JJ cloud|NN provider|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rackspace|NN which|WDT would|MD very|RB much|RB like|IN to|TO displace|VB amazon|NN in|IN large|JJ accounts|NNS is|VBZ happy|JJ with|IN the|DT interest|NN it’s|NNS gotten|VBN so|RB far|RB in|IN its|PRP$ 3monthold|JJ openstackbased|VBN cloud|NN compute|NN offering|NN </s>|S_END
+<s>|S_START now|RB it|PRP needs|VBZ to|TO convert|VB that|IN interest|NN into|IN actual|JJ deals|NNS rackspace|NN ceo|NN lanham|NN napier|NN told|VBD me|PRP in|IN an|DT interview|NN after|IN the|DT company’s|NNP q3|NNP earnings|NNS call|VBP on|IN tuesday|NN night|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START san|NN antoniobased|VBD rackspace|NN is|VBZ the|DT godfather|NN of|IN the|DT openstack|NN opensource|NN cloud|NN which|WDT is|VBZ now|RB managed|VBN by|IN the|DT openstack|NN foundation|NN and|CC in|IN the|DT past|JJ few|JJ months|NNS it’s|-NONE- rolled|VBD out|RP more|JJR pieces|NNS of|IN that|DT private|JJ and|CC publiccloud|JJ puzzle|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN the|DT public|NN cloud|NN side|NN rackspace|NN will|MD take|VB on|IN amazon|NN at|IN least|JJS in|IN service|NN conscious|JJ shops|NNS that|WDT want|VBP and|CC need|VBP support|NN and|CC service|NN </s>|S_END
+<s>|S_START but|CC it|PRP will|MD also|RB face|VB off|RP against|IN a|DT growing|VBG number|NN of|IN its|PRP$ openstack|NN brethren|NN —|: hewlettpackard|NN cloudscaling|NN internap|NN red|VBD hat|WDT and|CC others|NNS </s>|S_END
+<s>|S_START but|CC the|DT field|NN is|VBZ even|RB more|RBR crowded|VBN than|IN that|DT with|IN more|JJR established|JJ opensource|NN cloud|NN technologies|NNS from|IN eucalyptus|NN cloudstack|NN and|CC opennebula|NN also|RB in|IN the|DT mix|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB centurylink|VBP bought|VBN savvis|NNS two|CD years|NNS ago|RB the|DT game|NN plan|NN was|VBD to|TO combine|VB centurylink’s|JJ telecom|NN expertise|NN with|IN savvis’s|JJ data|NNS center|NN knowhow|NN to|TO provide|VB cloud|JJ infrastructure|NN —|: which|WDT it’s|-NONE- been|VBN doing|VBG for|IN enterprise|NN customers|NNS in|IN a|DT custom|NN oneoff|NN manner|NN </s>|S_END
+<s>|S_START now|RB the|DT company’s|NNS savvisdirect service|JJ in|IN beta|NN since|IN last|JJ month|NN provides|VBZ ondemand|NN selfprovisioning|VBG infrastructure|NN by|IN the|DT hour|NN according|VBG to informationweek|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN aws|NNS remains|VBZ the|DT dominant|NN player|NN in|IN public|JJ cloud|NN infrastructure|NN it’s|NNS still|RB early|JJ yet|NN in|IN the|DT world|NN of|IN cloud|NN migration|NN </s>|S_END
+<s>|S_START the|DT latest|JJS gartner|NN magic|NN quadrant|NN ratings|NNS shows|VBZ that|IN dominance|NN —|: gartner|NN gives|VBZ amazon|NN its|PRP$ due|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “aws|NNS has|VBZ by|IN far|RB the|DT largest|JJS pool|NN of|IN capacity|NN which|WDT makes|VBZ it|PRP one|CD of|IN the|DT few|JJ infrastructures|NNS suitable|JJ for|IN batch|NN computing|VBG especially|RB those|DT workloads|NNS that|IN require|NN shortterm|NN provisioning|VBG of|IN hundreds|NNS of|IN servers|NNS at|IN a|DT time|NN </s>|S_END
+<s>|S_START aws|NNS also|RB offers|VBZ specialized|VBN infrastructure|NN options|NNS for|IN highperformance|NN computing|VBG and|CC big|JJ data|NNS applications|NNS along|IN with|IN a|DT “spot|JJ pricing”|NN market|NN for|IN compute|NN capacity”|-NONE- </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC aws|VBZ is|VBZ not|RB invulnerable|JJ </s>|S_END
+<s>|S_START critics|NNS including|VBG gartner|NN say|NN its|PRP$ narrowlydefined|VBN service|NN level|NN agreements|NNS slas|VBZ leave|VBP much|JJ to|TO be|VB desired|VBN by|IN enterprise|NN customers|NNS and|CC that|IN the|DT bewildering|NN array|NN of|IN separately|RB priced|VBN cloud|NN services|NNS is|VBZ confusing|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START probably|RB most|RBS important|JJ there|EX is|VBZ an|DT array|NN of|IN savvy|NN iaas|NNS competitors|NNS coming|VBG down|IN the|DT pike|NN including|VBG terremark|NN  csc|NN joyent|NN tier3|NNP networks virtustream|NNP and|CC others|NNS gartner|VBP said|VBN </s>|S_END
+<s>|S_START not|RB mentioned|VBN is|VBZ google|JJ which|WDT launched|VBN the|DT google|NN compute|NN engine|NN in|IN june|NN </s>|S_END
+<s>|S_START i|PRP would|MD be|VB willing|JJ to|TO bet|VB that|IN amazon|NN has|VBZ its|PRP$ eyes|NNS on|IN that|DT effort|NN as|IN well|RB </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,50 @@
+<p>|P_START
+<s>|S_START click|NN on|IN chart|NN for|IN more|JJR world|NN market|NN data|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN european|NN stocks|NNS surged|VBD thursday|NN and|CC the|DT euro|NN hit|VBD a|DT twomonth|NN high|NN against|IN the|DT dollar|NN as|IN investors|NNS reacted|VBN to|TO good|JJ news|NN from|IN the|DT european|JJ central|JJ bank|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ecb|NN left|VBD interest|NN rates|NNS unchanged|JJ at|IN 075|CD as|IN expected|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START investors|NNS applauded|VBD ecb|NN president|NN mario|NN draghi|NN as|IN he|PRP announced|VBD details|NNS of|IN a|DT new|JJ bondbuying|NN program|NN to|TO help|VB stem|NN europes|NNS debt|NN crisis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START draghi|NN said|VBD the|DT ecb|NN is|VBZ prepared|VBN to|TO make|VB outright|JJ monetary|JJ transactions|NNS also|RB known|VBN as|IN omts|NNS in|IN the|DT secondary|JJ market|NN for|IN euroarea|NN sovereign|NN bonds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ecb|NN is|VBZ going|VBG to|TO act|VB as|IN a|DT backstop|NN for|IN sovereigns|NNS said|VBD nick|NN stamenkovic|JJ fixed|VBN income|NN strategist|NN for|IN ria|NN capital|NN markets|NNS in|IN edinburgh|JJ scotland|NN </s>|S_END
+<s>|S_START consequently|RB initial|JJ reaction|NN is|VBZ more|RBR confident|JJ that|IN these|DT actions|NNS will|MD relieve|VB some|DT of|IN the|DT tensions|NNS that|WDT have|VBP overhung|VBN the|DT market|NN for|IN some|DT time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ftse|NN in|IN london|NN closed|VBD 21|CD higher|JJR and|CC the|DT cac|NN 40|CD in|IN paris|NNS and|CC the|DT dax|NN in|IN frankfurt|NN both|DT closed|VBD up|RP 28|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START stamenkovic|JJ said|VBD the|DT ecbs|NNS forceful|JJ stability|NN program|NN requires|VBZ the|DT participating|NN nations|NNS to|TO stay|VB within|IN certain|JJ parameters|NNS of|IN fiscal|JJ prudence|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START they|PRP must|MD attach|VB themselves|PRP to|TO fiscal|JJ and|CC structural|JJ reforms|NNS he|PRP said|VBD </s>|S_END
+<s>|S_START otherwise|RB the|DT ecb|NN has|VBZ the|DT power|NN to|TO remove|VB that|IN support|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ecbs|NNS draghi|VBP explains|NNS bondbuying|VBG program|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN other|JJ markets|NNS the|DT hang|NN seng|NN in|IN hong|JJ kong|JJ ended|JJ 03|CD higher|JJR the|DT shanghai|NN composite|JJ rose|NN 07|CD and|CC the|DT nikkei|NN in|IN tokyo|NN was|VBD flat|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN wall|NN street|NN the|DT sp|NN nasdaq|NN and|CC dow|NN jones|NNS industrial|JJ average|NN all|DT rose|VBD sharply|RB in|IN reaction|NN to|TO thursdays|NNS ecb|VB announcement|NN and|CC betterthanexpected|VBD us|PRP jobs|NNS reports|NNS </s>|S_END
+</p>|P_END
+

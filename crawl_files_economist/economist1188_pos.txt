@@ -1,0 +1,16 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 25|CD gdp|NN $|$ 23bn|CD ppp|CD $|$ 29bn|CD inflation|NN 30|CD population|NN 13m|CD gdp|NN per|IN head|NN $|$ 17330|CD ppp|CD $|$ 21960|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP will|MD be|VB a|DT year|NN for|IN consolidation|NN as|IN the|DT country|NN drags|NNS itself|PRP back|RB from|IN the|DT collapse|NN of|IN 2009|CD </s>|S_END
+<s>|S_START a|DT secondterm|NN administration|NN with|IN an|DT increased|VBN majority|NN euro|NN adoption|NN at|IN the|DT start|NN of|IN 2011|CD and|CC a|DT reasonably|RB broadbased|VBN economic|JJ expansion|NN all|DT point|NN in|IN the|DT right|NN direction|NN </s>|S_END
+<s>|S_START at|IN this|DT corner|NN of|IN the|DT eurozone|NN periphery|NN interest|NN rates|NNS are|VBP if|IN anything|NN too|RB low|JJ and|CC inflation|NN may|MD dampen|VB consumers|NNS enthusiasm|NN </s>|S_END
+<s>|S_START even|RB so|RB the|DT economic|JJ rebound|NN will|MD continue|VB with|IN gdp|NN expanding|VBG at|IN a|DT modest|JJ pace|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB bearfaced|VBN </s>|S_END
+<s>|S_START estonia|NN has|VBZ bet|VBN firmly|RB on|IN the|DT west|NN since|IN the|DT collapse|NN of|IN communism|NN but|CC must|MD resolve|VB tensions|NNS with|IN neighbouring|VBG russia|NNS and|CC its|PRP$ own|JJ russianspeaking|VBG minority|NN if|IN it|PRP is|VBZ to|TO prosper |JJ </s>|S_END
+</p>|P_END
+

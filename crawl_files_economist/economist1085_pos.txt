@@ -1,0 +1,11 @@
+<p>|P_START
+<s>|S_START the|DT economist’s|JJ allitems|NNS index|NN of|IN commodity|NN prices|NNS reached|VBD a|DT record|NN high|JJ early|JJ in|IN 2011|CD 120|CD above|IN its|PRP$ low|JJ in|IN 2008|CD </s>|S_END
+<s>|S_START the|DT index|NN is|VBZ now|RB 20|CD below|IN its|PRP$ peak|NN </s>|S_END
+<s>|S_START ince|NN june|NN this|DT year|NN the|DT paths|NNS of|IN food|NN and|CC industrial|JJ commodity|NN prices|NNS have|VBP diverged|VBN </s>|S_END
+<s>|S_START despite|IN falling|VBG coffee|NN and|CC sugar|NN prices|NNS the|DT food|NN index|NN soared|VBD to|TO a|DT new|JJ high|NN in|IN august|NN after|IN america|NN suffered|VBD its|PRP$ worst|JJ drought|NN for|IN 25|CD year|NN </s>|S_END
+<s>|S_START corn|NN maize|VBP output|NN is|VBZ down|IN by|IN 13|CD this|DT year|NN to|TO a|DT sixyear|NN low|JJ and|CC the|DT soyabean|JJ crop|NN is|VBZ down|IN by|IN 8|CD </s>|S_END
+<s>|S_START metal|NN prices|NNS meanwhile|RB have|VBP been|VBN hit|VBN by|IN the|DT eurozone|NN crisis|NN and|CC the|DT slowdown|NN in|IN china|NN </s>|S_END
+<s>|S_START our|PRP$ metals|NNS index|NN has|VBZ lost|VBN 9|CD in|IN a|DT month|NN </s>|S_END
+<s>|S_START copper|NN prices|NNS fell|VBD by|IN 7|CD in|IN october|NN china|NN accounts|NNS for|IN 40|CD of|IN world|NN copper|NN consumption|NN </s>|S_END
+</p>|P_END
+

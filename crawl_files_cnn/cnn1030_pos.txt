@@ -1,0 +1,97 @@
+<p>|P_START
+<s>|S_START credit|NN card|NN issuers|NNS are|VBP ramping|VBG up|RP lending|VBG to|TO consumers|NNS with|IN bad|JJ credit|NN </s>|S_END
+<s>|S_START but|CC borrowers|NNS beware|VBP the|DT terms|NNS arent|VBP always|RB going|VBG to|TO be|VB great|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN credit|NN card|NN issuers|NNS are|VBP ramping|VBG up|RP lending|VBG to|TO consumers|NNS with|IN poor|JJ credit|NN </s>|S_END
+<s>|S_START but|CC borrowers|NNS beware|VBP the|DT terms|NNS arent|VBP always|RB going|VBG to|TO be|VB good|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lending|VBG to|TO subprime|VB consumers|NNS typically|RB those|DT with|IN a|DT fico|NN credit|NN score|NN of|IN below|IN 660|CD climbed|VBN 41|CD last|JJ year|NN with|IN banks|NNS issuing|VBG 11|CD million|CD new|JJ credit|NN cards|NNS to|TO riskier|JJR consumers|NNS a|DT fouryear|JJ high|NN according|VBG to|TO a|DT recent|JJ report|NN from|IN credit|NN reporting|VBG agency|NN equifax|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START credit|NN limits|NNS on|IN new|JJ subprime|NN credit|NN cards|NNS also|RB grew|VBD climbing|VBG 55|CD from|IN 2010|CD to|TO 2011|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START just|RB a|DT year|NN ago|IN it|PRP was|VBD much|RB more|RBR difficult|JJ for|IN someone|NN with|IN average|JJ or|CC low|JJ credit|NN to|TO get|VB credit|NN cards|NNS said|VBD beverly|RB harzog|JJ a|DT credit|NN card|NN analyst|NN at|IN creditcom|NN </s>|S_END
+<s>|S_START but|CC now|RB the|DT economy|NN has|VBZ been|VBN getting|VBG a|DT little|RB better|RBR issuers|NNS are|VBP feeling|VBG more|JJR comfortable|JJ and|CC in|IN order|NN to|TO increase|VB revenue|NN banks|NNS are|VBP realizing|VBG they|PRP need|VBP to|TO expand|VB their|PRP$ customer|NN base|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC just|RB because|IN a|DT bank|NN is|VBZ willing|JJ to|TO extend|VB credit|NN to|TO a|DT subprime|NN borrower|NN doesnt|NN mean|NN its|PRP$ going|VBG to|TO offer|VB them|PRP favorable|JJ terms|NNS and|CC conditions|NNS </s>|S_END
+<s>|S_START its|PRP$ still|RB going|VBG to|TO be|VB tough|JJ to|TO find|VB a|DT card|NN with|IN a|DT low|JJ interest|NN rate|NN and|CC decent|NN fees|NNS said|VBD harzog|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START consumers|NNS with|IN credit|NN scores|NNS in|IN the|DT 620|CD to|TO 659|CD range|NN are|VBP generally|RB considered|VBN to|TO have|VB fair|JJ credit|NN according|VBG to|TO credit|NN card|NN comparison|NN website|NN cardhubcom|NN </s>|S_END
+<s>|S_START and|CC while|IN there|EX are|VBP some|DT decent|NN deals|NNS out|IN there|RB for|IN these|DT customers|NNS aprs|NNS are|VBP still|RB going|VBG to|TO be|VB high|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT average|JJ apr|NN on|IN credit|NN cards|NNS for|IN these|DT borrowers|NNS is|VBZ about|IN 20|CD according|VBG to|TO cardhubcom|VB </s>|S_END
+<s>|S_START that|DT compares|VBZ to|TO an|DT average|JJ apr|NN of|IN 17|CD for|IN customers|NNS with|IN good|JJ credit|NN 660719|CD and|CC a|DT 13|CD apr|NN for|IN those|DT with|IN excellent|NN credit|NN 720850|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT goal|NN is|VBZ to|TO rebuild|VB your|PRP$ credit|NN however|RB the|DT apr|NN shouldnt|NN be|VB as|RB big|JJ of|IN an|DT issue|NN since|IN you|PRP should|MD be|VB paying|VBG your|PRP$ bill|NN in|IN full|JJ each|DT month|NN </s>|S_END
+<s>|S_START in|IN this|DT case|NN fees|NNS can|MD often|RB play|VB a|DT bigger|JJR factor|NN than|IN the|DT apr|NN said|VBD cardhub|NN ceo|NN odysseas|NNS papadimitriou|PRP </s>|S_END
+<s>|S_START cards|NNS with|IN fees|NNS totaling|VBG less|JJR than|IN $|$ 40|CD per|IN year|NN are|VBP worth|IN considering|VBG he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT with|IN poor|JJ credit|NN who|WP typically|RB have|VBP scores|NNS below|IN 620|CD will|MD likely|RB be|VB offered|VBN cards|NNS with|IN super|NN high|JJ interest|NN rates|NNS and|CC fees|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START credit|NN card|NN issuer|NN first|RB premier|JJR for|IN example|NN has|VBZ a|DT credit|NN card|NN aimed|VBN at|IN customers|NNS with|IN poor|JJ credit|NN that|WDT charges|VBZ more|JJR than|IN $|$ 200|CD in|IN fees|NNS per|IN year|NN and|CC comes|VBZ with|IN a|DT 36|CD apr|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN its|PRP$ important|JJ to|TO read|VB the|DT fine|NN print|NN on|IN any|DT offers|NNS very|RB carefully|RB harzog|JJ said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START you|PRP have|VBP to|TO watch|VB out|RP for|IN predatory|NN subprime|NN lenders|NNS who|WP might|MD charge|VB processing|NN fees|NNS fairly|RB high|JJ annual|JJ fees|NNS and|CC interest|NN rates|NNS that|WDT can|MD exceed|VB 36|CD she|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START steer|NN clear|NN of|IN those|DT skyhigh|JJ interest|NN rates|NNS she|PRP said|VBD </s>|S_END
+<s>|S_START if|IN you|PRP have|VBP an|DT emergency|NN expense|NN that|WDT prevents|VBZ you|PRP from|IN paying|VBG off|RP the|DT balance|NN right|RB away|RB credit|NN card|NN debt|NN can|MD spiral|VB out|RP of|IN control|NN in|IN a|DT flash|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN consumers|NNS with|IN bad|JJ credit|NN a|DT secured|VBN card|NN is|VBZ likely|JJ a|DT better|JJR option|NN said|VBD harzog|NN </s>|S_END
+<s>|S_START secured|VBD cards|NNS require|VBP a|DT deposit|NN so|IN the|DT cardholder|NN is|VBZ in|IN essence|NN borrowing|NN against|IN their|PRP$ own|JJ money|NN </s>|S_END
+<s>|S_START as|IN a|DT result|NN these|DT cards|NNS provide|VBP lower|JJR interest|NN rates|NNS than|IN unsecured|JJ credit|NN cards|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START beyond|IN that|DT secured|VBN cards|NNS work|VBP much|RB like|IN regular|JJ credit|NN cards|NNS and|CC report|NN payments|NNS to|TO the|DT major|JJ credit|NN bureaus|NN to|TO help|VB you|PRP build|VB a|DT credit|NN history|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START harzog|NN recommends|NNS orchard|VBP banks|NNS secured|VBN card|NN for|IN those|DT looking|VBG to|TO build|VB their|PRP$ credit|NN </s>|S_END
+<s>|S_START orchard|NN bank|NN part|NN of|IN hsbc|NN offers|NNS three|CD credit|NN cards|NNS plus|CC a|DT secured|VBN card|NN for|IN consumers|NNS and|CC the|DT bank|NN decides|VBZ which|WDT card|NN you|PRP qualify|VB for|IN based|VBN on|IN your|PRP$ credit|NN worthiness|NN </s>|S_END
+<s>|S_START if|IN you|PRP just|RB want|VBP to|TO apply|VB for|IN the|DT secured|VBN card|NN there|RB is|VBZ a|DT separate|JJ application|NN you|PRP can|MD fill|VB out|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN the|DT secured|VBN card|NN you|PRP must|MD make|VB a|DT $|$ 200|CD minimum|JJ security|NN deposit|NN </s>|S_END
+<s>|S_START the|DT apr|NN is|VBZ a|DT low|JJ 799|CD and|CC the|DT $|$ 35|CD annual|JJ fee|NN is|VBZ waived|VBN the|DT first|JJ year|NN </s>|S_END
+<s>|S_START after|IN you|PRP have|VBP used|VBN the|DT secured|VBN card|NN responsibly|RB for|IN at|IN least|JJS 12|CD months|NNS the|DT bank|NN will|MD consider|VB graduating|NN you|PRP to|TO one|CD of|IN its|PRP$ unsecured|JJ cards|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN there|EX are|VBP some|DT hopeless|NN credit|NN cases|NNS who|WP should|MD probably|RB never|RB own|VB a|DT credit|NN card|NN again|RB many|JJ subprime|NN borrowers|NNS who|WP were|VBD cut|VBN off|RP from|IN credit|NN over|IN the|DT past|JJ few|JJ years|NNS deserve|VBP a|DT second|JJ chance|NN said|VBD harzog|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ people|NNS were|VBD thrown|VBN into|IN the|DT subprime|JJ category|NN because|IN something|NN bad|JJ happened|VBN to|TO them|PRP during|IN the|DT recession|NN like|IN they|PRP lost|VBD a|DT job|NN and|CC if|IN that|DT bad|JJ thing|NN hadnt|NN happened|VBD they|PRP would|MD have|VB kept|VBN paying|VBG their|PRP$ bills|NNS on|IN time|NN said|VBD harzog|NN </s>|S_END
+<s>|S_START now|RB these|DT people|NNS want|VBP a|DT chance|NN to|TO get|VB back|RB on|IN track|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

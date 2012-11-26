@@ -1,0 +1,102 @@
+<p>|P_START
+<s>|S_START washington|NN cnnmoney|NN silicon|NN valley|NN has|VBZ become|VBN a|DT force|NN to|TO be|VB reckoned|VBN with|IN on|IN capitol|NN hill|NN spending|NN more|RBR than|IN $|$ 100|CD million|CD on|IN lobbying|NN and|CC tens|NNS of|IN millions|NNS on|IN campaign|NN contributions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START internet|NN and|CC computer|NN companies|NNS spent|VBD $|$ 30|CD million|CD on|IN lobbying|NN in|IN the|DT first|JJ three|CD months|NNS of|IN 2011|CD according|VBG to|TO an|DT analysis|NN by|IN the|DT center|NN for|IN responsive|JJ politics|NNS </s>|S_END
+<s>|S_START and|CC thats|NNS on|IN top|JJ of|IN a|DT whopping|NN $|$ 121|CD million|CD in|IN 2010|CD putting|VBG that|IN sector|NN among|IN the|DT biggest|JJS spenders|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START additionally|RB computer|NN and|CC internet|NN political|JJ action|NN committees|NNS spent|VBD $|$ 58|CD million|CD in|IN campaign|NN contributions|NNS during|IN the|DT 2010|CD congressional|JJ elections|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN many|JJ us|PRP companies|NNS took|VBD a|DT breather|NN from|IN lobbying|VBG so|RB strongly|RB in|IN the|DT first|JJ few|JJ months|NNS of|IN 2011|CD tech|NN sector|NN lobbying|VBG remained|VBD strong|JJ and|CC ticked|VBD upward|NN at|IN most|JJS top|JJ companies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD big|JJ reason|NN for|IN the|DT bump|NN in|IN lobbying|NN is|VBZ the|DT tight|JJ competition|NN among|IN these|DT companies|NNS said|VBD ray|NN bjorklund|NN senior|JJ vice|NN president|NN at|IN deltek|NN incs|NNS fedsources|NNS a|DT washingtonmarket|NN research|NN firm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN more|JJR competition|NN in|IN all|DT the|DT different|JJ technology|NN sectors|NNS bjorklund|VBP said|VBN that|IN new|JJ rules|NNS such|JJ as|IN preventing|VBG firms|NNS from|IN sharing|VBG of|IN consumers|NNS private|JJ information|NN can|MD really|RB affect|VB the|DT bottom|NN lines|NNS of|IN these|DT companies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ become|NN more|RBR critical|JJ for|IN these|DT tech|JJ companies|NNS to|TO have|VB a|DT presence|NN here|RB in|IN washington|NN so|IN they|PRP can|MD get|VB to|TO decisionmakers|NNS and|CC those|DT people|NNS who|WP are|VBP drafting|VBG these|DT bills|NNS bjorklund|VBP said|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START companies|NNS that|DT have|VBP spent|VBN more|RBR on|IN lobbying|VBG this|DT year|NN include|VBP amazon|NN amzn|NN fortune|NN 500|CD apple|NN aapl|NN fortune|NN 500|CD cisco|NN csco|NN fortune|NN 500|CD expedia|NNS facebook|VBP google|JJ goog|NN fortune|NN 500|CD intuit|NN sap|NN yahoo|NN yhoo|NN fortune|NN 500|CD texas|NNS instruments|NNS and|CC verisign|NN according|VBG to|TO senate|VB records|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC what|WP does|VBZ their|PRP$ money|NN buy|VB </s>|S_END
+<s>|S_START access|NN and|CC friends|NNS </s>|S_END
+<s>|S_START consider|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START last|JJ month|NN president|NN obama|NN held|VBD a|DT facebook|NN town|NN hall|NN standing|NN beside|NN facebook|NN ceo|NN mark|NN zuckerberg|NN and|CC chief|NN operating|VBG officer|NN sheryl|NN sandberg|NN who|WP was|VBD chief|JJ of|IN staff|NN to|TO lawrence|NN summers|NNS when|WRB he|PRP was|VBD treasury|JJ secretary|NN in|IN the|DT clinton|NN administration|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN january|JJ obama|NN declared|VBD the|DT united|VBN states|NNS a|DT nation|NN of|IN google|JJ and|CC facebook|NN in|IN his|PRP$ state|NN of|IN the|DT union|NN address|NN </s>|S_END
+<s>|S_START and|CC in|IN february|JJ obama|NN sat|NN between|IN the|DT leaders|NNS of|IN apple|NN and|CC facebook|NN at|IN a|DT private|JJ party|NN in|IN woodside|NN calif|IN google|JJ and|CC apple|NN face|NN several|JJ different|JJ regulatory|JJ investigations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START next|JJ week|NN google|NN and|CC apple|NN leaders|NNS will|MD be|VB in|IN familiar|JJ territory|NN when|WRB they|PRP face|VBP a|DT senate|NN subcommittee|NN inquiry|NN investigating|VBG reports|NNS that|IN apples|NNS iphone|VBP and|CC ipad|JJ and|CC googles|NNS android|VBD smartphones|NNS track|VBP users|NNS locations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN and|CC to|TO a|DT lesser|NN extent|NN apple|NN are|VBP among|IN campaign|NN contributors|NNS to|TO several|JJ democratic|JJ lawmakers|NNS on|IN the|DT panel|NN including|VBG sen|NN barbara|NN boxer|NN of|IN california|NN and|CC sen|NN charles|NNS schumer|NN of|IN new|JJ york|NN as|IN well|RB as|IN judiciary|JJ committtee|NN chairman|NN sen|NN patrick|NN leahy|NN of|IN vermont|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT silicon|NN valley|NN powerhouses|NNS in|IN washington|NN are|VBP those|DT that|WDT opened|VBN up|RP lobbying|VBG shops|NNS years|NNS ago|IN such|JJ as|IN microsoft|JJ msft|NN fortune|NN 500|CD hewlett|NN packard|NN and|CC ibm|NN each|DT of|IN which|WDT spent|NN more|RBR than|IN $|$ 1|CD million|CD in|IN the|DT first|JJ few|JJ months|NNS of|IN 2011|CD and|CC more|JJR than|IN $|$ 5|CD million|CD on|IN lobbying|NN in|IN 2010|CD </s>|S_END
+<s>|S_START they|PRP all|VBP have|VBP hired|VBN dozens|NNS of|IN outside|JJ lobbyists|NNS to|TO supplement|VB inhouse|NN corporate|JJ lobbyists|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB in|IN the|DT first|JJ few|JJ months|NNS of|IN 2011|CD google|JJ and|CC facebook|NN dropped|VBD the|DT most|JJS each|DT company|NN has|VBZ ever|RB spent|VBN on|IN lobbying|NN in|IN a|DT quarter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN spent|VBD $|$ 148|CD million|CD in|IN lobbying|NN and|CC has|VBZ bulked|VBN up|RP its|PRP$ team|NN in|IN washington|NN which|WDT now|RB has|VBZ 9|CD inhouse|NN lobbyists|NNS and|CC 30|CD outside|IN lobbyists|NNS according|VBG to|TO records|NNS </s>|S_END
+<s>|S_START the|DT company|NN also|RB spent|VBD $|$ 918134|CD overall|JJ on|IN campaigns|NNS during|IN the|DT 2010|CD elections|NNS according|VBG to|TO the|DT center|NN for|IN responsive|JJ politics|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START over|IN the|DT past|JJ few|JJ years|NNS the|DT internet|NN has|VBZ become|VBN a|DT bigger|JJR part|NN of|IN our|PRP$ life|NN so|IN naturally|RB its|PRP$ become|NN a|DT bigger|NN part|NN of|IN the|DT focus|NN in|IN washington|NN dc|NN said|VBD google|NN spokesman|NN dan|NN martin|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START facebook|NN spent|VBD $|$ 230000|CD up|IN drastically|RB from|IN the|DT $|$ 41000|CD spent|NN during|IN the|DT same|JJ period|NN last|JJ year|NN </s>|S_END
+<s>|S_START facebook|NN has|VBZ three|CD inhouse|NN lobbyists|NNS and|CC 15|CD outside|IN lobbyists|NNS according|VBG to|TO senate|VB records|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT increase|NN represents|VBZ a|DT continuation|NN of|IN our|PRP$ efforts|NNS to|TO explain|VB how|WRB our|PRP$ service|NN works|NNS as|IN well|RB as|IN the|DT important|JJ actions|NNS we|PRP take|VBP to|TO protect|VB people|NNS who|WP use|NN our|PRP$ service|NN and|CC promote|VB the|DT value|NN of|IN innovation|NN to|TO our|PRP$ economy|NN said|VBD facebook|NN spokesman|NN andrew|VBD noyes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apples|NNS spending|NN remained|VBD flat|JJ compared|VBN to|TO last|JJ year|NN at|IN $|$ 560000|CD </s>|S_END
+<s>|S_START the|DT iphone|NN and|CC mac|NN maker|NN has|VBZ five|CD inhouse|NN lobbyists|NNS and|CC 18|CD extra|JJ lobbyists|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN facebook|VBD and|CC apple|NN all|DT reported|VBD pressing|VBG lawmakers|NNS and|CC federal|JJ regulators|NNS about|IN issues|NNS including|VBG consumer|NN privacy|NN online|NN advertising|NN cyber|NN security|NN and|CC censorship|NN and|CC tax|NN policy|NN records|NNS state|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pablo|NN spiller|NN a|DT business|NN and|CC technology|NN professor|NN at|IN the|DT university|NN of|IN california|NN at|IN berkeley|NN said|VBD that|IN as|IN tech|JJ companies|NNS grow|VBP and|CC face|NN more|RBR regulatory|JJ and|CC antitrust|JJ challenges|NNS they|PRP realize|VBP that|IN they|PRP cant|VBP just|RB unveil|NN a|DT new|JJ gadget|NN or|CC application|NN and|CC rake|VB in|IN the|DT millions|NNS the|DT way|NN they|PRP once|RB did|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT companies|NNS for|IN a|DT long|JJ time|NN didnt|NN think|NN in|IN terms|NNS of|IN washington|NN said|VBD spiller|NN </s>|S_END
+<s>|S_START its|PRP$ only|RB been|VBN in|IN the|DT last|JJ few|JJ years|NNS that|WDT they|PRP realized|VBD theres|NNS this|DT world|NN beyond|IN silicon|NN valley|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,93 @@
+<p>|P_START
+<s>|S_START the|DT department|NN of|IN education|NN said|VBD 218|CD schools|NNS had|VBD threeyear|JJ default|NN rates|NNS of|IN 30|CD or|CC more|JJR putting|VBG the|DT schools|NNS at|IN risk|NN of|IN losing|VBG their|PRP$ federal|JJ student|NN aid|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN borrowers|NNS are|VBP having|VBG a|DT harder|NN time|NN repaying|VBG their|PRP$ student|NN loans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT percentage|NN of|IN borrowers|NNS who|WP defaulted|VBN on|IN their|PRP$ federal|JJ student|NN loans|NNS within|IN two|CD years|NNS of|IN their|PRP$ first|JJ payment|NN jumped|VBD to|TO 91|CD in|IN fiscal|JJ year|NN 2011|CD up|IN from|IN 88|CD the|DT previous|JJ year|NN according|VBG to|TO us|PRP department|NN of|IN education|NN data|NNS released|VBN friday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT represents|VBZ 375000|CD of|IN the|DT more|RBR than|IN 41|CD million|CD borrowers|NNS who|WP were|VBD required|VBN to|TO start|VB making|VBG payments|NNS on|IN their|PRP$ student|NN loans|NNS in|IN the|DT 12|CD months|NNS prior|RB to|TO october|VB 2010|CD and|CC defaulted|VBD before|IN september|NN 2011|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START borrower|JJR are|VBP considered|VBN in|IN default|NN when|WRB they|PRP miss|VBP payments|NNS for|IN 270|CD consecutive|JJ days|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT percentage|NN of|IN borrowers|NNS who|WP defaulted|VBN within|IN three|CD years|NNS of|IN their|PRP$ first|JJ payments|NNS was|VBD 134|CD down|IN slightly|RB from|IN 138|CD </s>|S_END
+<s>|S_START the|DT report|NN marks|VBZ the|DT first|JJ year|NN the|DT department|NN of|IN education|NN published|VBD the|DT threeyear|NN default|NN rate|NN and|CC it|PRP will|MD make|VB public|JJ only|RB threeyear|JJ rates|NNS starting|VBG in|IN 2014|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD extreme|VBN ways|NNS to|TO pay|VB for|IN college|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN terms|NNS of|IN schools|NNS those|DT with|IN twoyear|JJ default|NN rates|NNS above|IN 25|CD for|IN three|CD consecutive|JJ years|NNS can|MD lose|VB eligibility|NN for|IN federal|JJ aid|NN including|VBG pell|NN grants|NNS </s>|S_END
+<s>|S_START two|CD schools|NNS fell|VBD into|IN that|DT category|NN centro|NN de|IN estudios|NNS mutidisciplinarios|NNS in|IN san|NN juan|NN puerto|NN rico|NN and|CC tidewater|NN tech|NN in|IN norfolk|NN virginia|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN the|DT agency|NN said|VBD 218|CD colleges|NNS and|CC universities|NNS had|VBD threeyear|JJ default|NN rates|NNS of|IN 30|CD or|CC more|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT department|NN said|VBD it|PRP would|MD not|RB yet|RB sanction|NN any|DT schools|NNS based|VBN on|IN the|DT threeyear|NN default|NN rates|NNS </s>|S_END
+<s>|S_START but|CC it|PRP will|MD require|VB those|DT schools|NNS to|TO submit|VB default|NN management|NN plans|NNS and|CC create|VB default|NN prevention|NN task|NN forces|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START default|NN rates|NNS have|VBP been|VBN increasing|VBG since|IN 2007|CD an|DT upward|JJ trend|NN thats|NNS directly|RB correlated|VBN to|TO the|DT economy|NN said|VBD justin|NN draeger|NN president|NN of|IN the|DT national|JJ association|NN of|IN student|NN financial|JJ aid|NN administrators|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD colleges|NNS with|IN the|DT highestpaid|JJ grads|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START clearly|RB those|DT with|IN a|DT college|NN education|NN are|VBP better|RBR able|JJ to|TO get|VB jobs|NNS than|IN those|DT without|IN one|CD but|CC the|DT unemployment|NN rate|NN even|RB for|IN college|NN graduates|NNS has|VBZ been|VBN sluggish|JJ said|VBD draeger|NN </s>|S_END
+<s>|S_START people|NNS say|VBP i|PRP dont|VBP have|VBP a|DT job|NN how|WRB am|NN i|PRP ever|RB going|VBG to|TO be|VB able|JJ to|TO make|VB payments|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START forprofit|NN schools|NNS had|VBD average|JJ threeyear|NN default|NN rates|NNS of|IN 227|CD the|DT highest|JJS among|IN all|DT the|DT schools|NNS </s>|S_END
+<s>|S_START public|JJ schools|NNS came|VBD next|JJ with|IN an|DT average|JJ threeyear|NN default|NN rate|NN of|IN 11|CD </s>|S_END
+<s>|S_START and|CC private|JJ nonprofit|NN institutions|NNS recorded|VBD a|DT 75|CD rate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START default|NN levels|NNS are|VBP typically|RB worst|JJ at|IN forprofit|NN schools|NNS which|WDT are|VBP significantly|RB more|RBR expensive|JJ than|IN public|JJ institutions|NNS and|CC have|VBP higher|JJR dropout|IN rates|NNS according|VBG to|TO a|DT recent|JJ congressional|JJ investigation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT probe|NN conducted|VBD by|IN the|DT senate|NN education|NN committee|NN found|VBD that|IN 54|CD of|IN forprofit|NN students|NNS dropped|VBD out|IN without|IN a|DT degree|NN during|IN the|DT 20082009|CD school|NN year|NN </s>|S_END
+<s>|S_START it|PRP also|RB found|VBD that|IN bachelors|NNS programs|NNS at|IN forprofits|NNS cost|VBP 20|CD more|JJR than|IN at|IN public|JJ schools|NNS while|IN associates|NNS degrees|NNS cost|VBP four|CD times|NNS more|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START deferment|NN and|CC forbearance|NN plans|NNS allow|VBP borrowers|NNS to|TO postpone|VB payments|NNS in|IN certain|JJ situations|NNS </s>|S_END
+<s>|S_START and|CC under|IN a|DT 2009|CD federal|JJ repayment|NN plan|NN for|IN some|DT borrowers|NNS with|IN unaffordably|RB high|JJ debt|NN monthly|RB payments|NNS can|MD be|VB capped|VBN at|IN 15|CD of|IN discretionary|JJ income|NN and|CC any|DT remaining|VBG balance|NN is|VBZ forgiven|VBN after|IN 25|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD how|WRB im|NN surviving|VBG the|DT jobs|NNS crisis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC many|JJ borrowers|NNS are|VBP so|RB stressed|VBN about|IN finding|NN work|NN or|CC earning|VBG enough|JJ to|TO make|VB their|PRP$ payments|NNS that|WDT they|PRP fail|VBP to|TO look|VB into|IN these|DT options|NNS said|VBD draeger|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ often|RB someone|NN who|WP has|VBZ student|VBN loan|NN debt|NN who|WP didnt|NN complete|VBP school|NN and|CC falls|NNS off|IN the|DT face|NN of|IN the|DT earth|JJ or|CC puts|NNS their|PRP$ head|NN in|IN the|DT sand|NN and|CC doesnt|NN deal|NN with|IN any|DT of|IN the|DT payments|NNS he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS a|DT huge|JJ mistake|NN said|VBD draeger|NN </s>|S_END
+<s>|S_START federal|JJ student|NN loans|NNS cant|VBP be|VB discharged|VBN in|IN bankruptcy|NN and|CC when|WRB in|IN default|NN will|MD only|RB accumulate|VB fees|NNS and|CC ruin|VB your|PRP$ credit|NN </s>|S_END
+</p>|P_END
+

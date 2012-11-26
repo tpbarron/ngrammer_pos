@@ -1,0 +1,63 @@
+<p>|P_START
+<s>|S_START flight|NN delays|NNS and|CC cancellations|NNS are|VBP up|RP at|IN american|JJ airlines|NNS with|IN the|DT pilots|NNS union|NN and|CC management|NN blaming|VBG one|CD another|DT for|IN the|DT problem|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN american|NN airlines|NNS and|CC its|PRP$ pilots|NNS union|NN blamed|VBN each|DT other|JJ monday|NN for|IN a|DT surge|NN in|IN flight|NN cancellations|NNS and|CC delays|NNS tied|VBN to|TO contract|NN issues|NNS at|IN the|DT bankrupt|JJ carrier|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START flight|NN tracking|VBG service|NN flightstatscom|NN says|VBZ 103|CD flights|NNS were|VBD canceled|VBN as|IN of|IN midday|NN the|DT second|JJ highest|JJS oneday|NN number|NN of|IN cancellations|NNS since|IN problems|NNS at|IN the|DT airline|NN began|VBD on|IN sept|NN 16|CD </s>|S_END
+<s>|S_START that|DT brought|VBD the|DT total|JJ number|NN of|IN flights|NNS canceled|VBN to|TO 570|CD or|CC about|IN 35|CD of|IN its|PRP$ total|JJ schedule|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START less|JJR than|IN half|PDT of|IN americans|NNS flights|NNS have|VBP been|VBN on|IN time|NN in|IN the|DT past|JJ eight|NN days|NNS according|VBG to|TO flightstats|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START american|NN which|WDT said|VBD last|JJ week|NN it|PRP would|MD reduce|VB its|PRP$ flights|NNS by|IN 12|CD to|TO deal|VB with|IN service|NN problem|NN took|VBD issue|NN with|IN the|DT cancellation|NN number|NN </s>|S_END
+<s>|S_START spokesman|NN bruce|NN hicks|NNS said|VBD many|JJ of|IN mondays|NNS grounded|VBN flights|NNS were|VBD scrubbed|VBN in|IN advance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD five|CD best|JJS travel|NN deals|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hicks|NNS said|VBD the|DT performance|NN problems|NNS are|VBP due|JJ to|TO what|WP he|PRP calls|VBZ questionable|JJ complaints|NNS about|IN aircraft|NN maintenance|NN and|CC an|DT increase|NN in|IN pilots|NNS calling|VBG in|IN sick|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START longsimmering|VBG battles|NNS between|IN the|DT allied|JJ pilots|NNS association|NN the|DT union|NN representing|VBG about|IN 8000|CD active|JJ pilots|NNS at|IN the|DT airline|NN and|CC american|JJ management|NN got|VBD worse|NN when|WRB the|DT bankrupt|JJ airline|NN won|NN the|DT right|NN in|IN bankruptcy|NN court|NN to|TO throw|VB out|RP the|DT existing|VBG pilots|NNS contract|NN </s>|S_END
+<s>|S_START the|DT terms|NNS of|IN employment|NN under|IN which|WDT the|DT pilots|NNS now|RB work|VBP under|IN require|NN them|PRP to|TO fly|RB more|JJR hours|NNS and|CC allow|VBP the|DT airline|NN to|TO use|VB other|JJ carriers|NNS to|TO fly|RB more|JJR of|IN its|PRP$ flights|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START management|NN has|VBZ also|RB stopped|VBD funding|NN the|DT pilots|NNS pension|NN fund|NN and|CC has|VBZ proposed|VBN to|TO either|DT freeze|NN or|CC terminate|VB their|PRP$ retirement|NN plan|NN </s>|S_END
+<s>|S_START pilots|NNS voted|VBD overwhelmingly|RB against|IN a|DT tentative|JJ agreement|NN last|JJ month|NN that|WDT was|VBD better|RBR than|IN the|DT terms|NNS that|WDT were|VBD recently|RB imposed|VBN upon|IN them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD jetblue|NN fined|VBN for|IN violating|NN passenger|NN rights|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT union|NN says|VBZ there|EX is|VBZ no|DT organized|VBN campaign|NN by|IN pilots|NNS to|TO call|VB in|IN sick|NN or|CC file|NN trivial|JJ maintenance|NN reports|NNS </s>|S_END
+<s>|S_START it|PRP said|VBD problems|NNS being|VBG written|VBN up|RP are|VBP serious|JJ ones|NNS that|WDT have|VBP the|DT potential|NN to|TO turn|VB into|IN safety|NN issues|NNS if|IN not|RB addressed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START our|PRP$ pilots|NNS will|MD not|RB compromise|VB safety|NN ever|RB said|VBD apa|NN president|NN keith|IN wilson|NN </s>|S_END
+<s>|S_START but|CC he|PRP conceded|VBD the|DT contract|NN status|NN is|VBZ at|IN least|JJS a|DT factor|NN in|IN the|DT increase|NN number|NN of|IN complaints|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START understandably|RB our|PRP$ pilots|NNS are|VBP taking|VBG a|DT prudent|NN and|CC cautious|JJ approach|NN in|IN their|PRP$ operational|JJ decisionmaking|NN process|NN wilson|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hicks|NNS said|VBD it|PRP is|VBZ too|RB soon|RB to|TO say|VB if|IN american|JJ is|VBZ losing|VBG passengers|NNS and|CC revenue|NN because|IN of|IN the|DT ongoing|JJ service|NN problems|NNS </s>|S_END
+<s>|S_START he|PRP admitted|VBD that|IN the|DT ontime|NN performance|NN has|VBZ deteriorated|VBN significantly|RB this|DT month|NN to|TO about|IN 53|CD from|IN better|JJR than|IN 80|CD a|DT year|NN ago|IN </s>|S_END
+</p>|P_END
+

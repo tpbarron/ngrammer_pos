@@ -1,0 +1,93 @@
+<p>|P_START
+<s>|S_START college|NN tuition|NN costs|NNS keep|VB rising|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START washington|NN cnnmoney|NN in|IN his|PRP$ reelection|NN campaign|NN president|NN obama|NN says|VBZ he|PRP wants|VBZ to|TO cut|VB the|DT growth|NN of|IN college|NN tuition|NN in|IN half|DT over|NN the|DT next|JJ decade|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC he|PRP faces|VBZ hurdles|NNS toward|IN that|DT goal|NN over|IN which|WDT he|PRP has|VBZ little|RB control|NN even|RB if|IN he|PRP wins|VBZ nov|NN 6|CD dire|NN state|NN budgets|NNS and|CC a|DT gridlocked|JJ congress|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT rising|VBG cost|NN of|IN getting|VBG a|DT higher|JJR degree|NN sends|NNS millions|NNS of|IN students|NNS into|IN sticker|NN shock|NN each|DT year|NN and|CC paying|VBG off|RP student|NN debt|NN has|VBZ only|RB grown|VBN tougher|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START over|IN the|DT past|JJ decade|NN average|NN annual|JJ tuition|NN for|IN a|DT year|NN of|IN community|NN college|NN has|VBZ risen|VBN 40|CD to|TO $|$ 3122|CD according|VBG to|TO the|DT college|NN board|NN a|DT nonprofit|JJ group|NN that|WDT runs|VBZ the|DT sat|NN exam|NN </s>|S_END
+<s>|S_START at|IN 4year|JJ public|JJ universities|NNS the|DT cost|NN has|VBZ risen|VBN 68|CD to|TO $|$ 7692|CD a|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN not|RB impossible|JJ obamas|NNS goal|NN of|IN slowing|VBG tuition|NN growth|NN is|VBZ vague|JJ on|IN details|NNS and|CC faces|NNS harsh|JJ realities|NNS education|NN experts|NNS say|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN public|JJ institutions|NNS the|DT big|JJ problem|NN is|VBZ cashstrapped|VBN state|NN budgets|NNS </s>|S_END
+<s>|S_START as|IN homes|NNS nationwide|VBP lost|VBN value|NN homeowners|NNS paid|VBD less|JJR in|IN property|NN taxes|NNS or|CC lost|VBN their|PRP$ homes|NNS and|CC paid|VBD nothing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN states|NNS from|IN california|NN to|TO wisconsin|VB scrambling|NN to|TO fill|VB giant|JJ budget|NN gaps|NNS education|NN has|VBZ been|VBN one|CD of|IN the|DT casualties|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD where|WRB to|TO find|VB 0|-NONE- student|NN loans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB times|NNS are|VBP good|JJ states|NNS are|VBP very|RB good|JJ to|TO higher|JJR education|NN and|CC when|WRB state|NN budgets|NNS are|VBP suffering|VBG theyre|NN harder|NN on|IN universities|NNS than|IN they|PRP should|MD be|VB said|VBN terry|NN hartle|NN chief|NN lobbyist|NN for|IN the|DT american|JJ council|NN on|IN education|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START an|DT obama|NN campaign|NN official|NN said|VBD that|IN the|DT president|NN would|MD encourage|VB states|NNS to|TO step|VB up|RP with|IN a|DT new|JJ grant|NN program|NN that|WDT would|MD promote|VB new|JJ ideas|NNS to|TO cut|VB costs|NNS </s>|S_END
+<s>|S_START the|DT program|NN could|MD reward|VB universities|NNS for|IN things|NNS such|JJ as|IN making|VBG it|PRP easier|JJR to|TO transfer|VB more|JJR affordable|JJ communitycollege|NN credits|NNS toward|IN a|DT university|NN degree|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT president|NN would|MD need|VB to|TO get|VB congress|NN on|IN board|NN to|TO fund|VB such|JJ a|DT program|NN and|CC it|PRP was|VBD all|PDT he|PRP could|MD do|VB to|TO get|VB congress|NN to|TO extend|VB lower|JJR rates|NNS on|IN subsidized|VBN stafford|NN loans|NNS another|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN congress|NN wanted|VBD to|TO prioritize|VB higher|JJR education|NN theres|NNS nothing|NN stopping|VBG them|PRP from|IN increasing|VBG investments|NNS in|IN a|DT way|NN to|TO make|VB college|NN affordable|JJ and|CC cut|VBD the|DT costs|NNS of|IN college|NN for|IN students|NNS across|IN the|DT country|NN said|VBD rich|JJ williams|NNS higher|JJR education|NN advocate|NN for|IN consumer|NN group|NN us|PRP pirg|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD controversial|JJ idea|NN obama|NN proposed|VBD this|DT year|NN is|VBZ for|IN the|DT first|JJ time|NN linking|VBG higher|JJR education|NN funding|NN to|TO a|DT colleges|NNS ability|NN to|TO hold|VB costs|NNS down|RB </s>|S_END
+<s>|S_START but|CC doing|VBG so|RB wont|JJ be|VB easy|JJ </s>|S_END
+<s>|S_START since|IN most|JJS education|NN funding|NN goes|VBZ directly|RB to|TO students|NNS such|JJ a|DT move|NN would|MD mean|VB stopping|VBG students|NNS from|IN using|VBG their|PRP$ lowinterest|NN stafford|NN loans|NNS or|CC pell|NN grants|NNS at|IN certain|JJ colleges|NNS and|CC universities|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START congress|NN frowns|VBZ on|IN that|DT hartle|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP would|MD be|VB like|IN the|DT federal|JJ government|NN saying|VBG you|PRP cant|VBP use|VBP your|PRP$ food|NN stamps|NNS at|IN this|DT grocery|NN store|NN he|PRP said|VBD </s>|S_END
+<s>|S_START congress|NN said|VBD they|PRP dont|VBP like|IN to|TO do|VB this|DT because|IN it|PRP doesnt|VBP make|VBP sense|NN to|TO give|VB students|NNS a|DT voucher|NN and|CC limit|NN the|DT places|NNS they|PRP can|MD spend|VB it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START technology|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START technology|NN is|VBZ the|DT big|JJ unknown|NN that|WDT could|MD play|VB a|DT major|JJ role|NN in|IN lowering|NN higher|JJR education|NN costs|NNS and|CC obama|NN has|VBZ talked|VBN generally|RB about|IN encouraging|VBG advances|NNS to|TO keep|VB costs|NNS down|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ universities|NNS already|RB offer|VBP online|NN courses|NNS but|CC theyre|NN often|RB just|RB as|IN pricey|NN as|IN going|VBG to|TO school|NN in|IN person|NN </s>|S_END
+<s>|S_START however|RB there|EX are|VBP signs|NNS of|IN progress|NN massive|JJ open|JJ online|NN courses|NNS or|CC moocs|NNS from|IN coursera|NN and|CC edx|NN in|IN which|WDT university|NN professors|NNS at|IN prestigious|JJ institutions|NNS offer|VBP courses|NNS free|JJ to|TO anyone|NN with|IN an|DT internet|NN connection|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START right|RB now|RB students|NNS taking|VBG such|JJ classes|NNS dont|VBP get|NN credit|NN for|IN those|DT classes|NNS </s>|S_END
+<s>|S_START but|CC if|IN they|PRP did|VBD the|DT potential|NN blow|NN to|TO higher|JJR education|NN costs|NNS could|MD get|VB obama|NN toward|IN his|PRP$ goal|NN said|VBD andrew|NN p|NN kelly|RB research|NN fellow|IN in|IN education|NN policy|NN studies|NNS at|IN the|DT american|JJ enterprise|NN institute|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START encourage|NN that|IN kind|NN of|IN behavior|JJ and|CC wait|NN until|IN the|DT competitive|JJ pressure|NN of|IN those|DT guys|NNS starts|VBZ to|TO either|DT compel|NN changes|NNS to|TO traditional|JJ university|NN behavior|NN or|CC puts|NNS them|PRP out|IN of|IN business|NN kelly|RB said|VBD </s>|S_END
+<s>|S_START thats|NNS a|DT systemic|JJ broadbased|VBN kind|NN of|IN approach|NN that|WDT is|VBZ likely|JJ to|TO pay|VB bigger|JJR dividends|NNS down|IN the|DT road|NN </s>|S_END
+</p>|P_END
+

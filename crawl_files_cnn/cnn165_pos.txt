@@ -1,0 +1,125 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT tax|NN bills|NNS of|IN mitt|NN romney|NN and|CC warren|NNS buffett|VBP raise|VBP a|DT longrunning|NN question|NN why|WRB do|VBP americans|NNS get|VB taxed|VBN less|JJR on|IN their|PRP$ investment|NN gains|NNS than|IN on|IN their|PRP$ paychecks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN fact|NN for|IN much|RB of|IN the|DT past|JJ century|NN longterm|NN capital|NN gains|NNS have|VBP been|VBN taxed|VBN at|IN lower|JJR rates|NNS than|IN ordinary|JJ income|NN although|IN often|RB at|IN levels|NNS higher|JJR than|IN todays|NNS 15|CD rate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC for|IN much|RB of|IN the|DT past|JJ century|NN its|PRP$ been|VBN a|DT contentious|JJ issue|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD side|NN says|VBZ preferential|JJ treatment|NN for|IN capital|NN gains|NNS is|VBZ just|RB plain|RB unfair|JJ </s>|S_END
+<s>|S_START the|DT tax|NN code|NN they|PRP say|VBP is|VBZ being|VBG used|VBN to|TO help|VB the|DT rich|JJ get|NN richer|NN since|IN they|PRP make|VBP more|RBR of|IN their|PRP$ income|NN from|IN capital|NN gains|NNS than|IN anyone|NN else|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START their|PRP$ solution|NN tax|NN capital|NN gains|NNS as|IN regular|JJ income|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START then|RB theres|VBZ the|DT counter|NN argument|NN that|WDT capital|NN gains|VBZ if|IN anything|NN should|MD be|VB taxed|VBN more|RBR lightly|RB or|CC better|JJR yet|NN not|RB at|IN all|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START capital|NN gains|NNS are|VBP double|JJ taxed|VBN one|CD of|IN the|DT principal|JJ arguments|NNS for|IN taxing|VBG capital|NN gains|NNS at|IN a|DT lower|JJR rate|NN is|VBZ double|JJ taxation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP goes|VBZ like|IN this|DT stock|NN prices|NNS are|VBP bolstered|VBN by|IN corporate|JJ profits|NNS which|WDT are|VBP subject|JJ to|TO corporate|JJ tax|NN </s>|S_END
+<s>|S_START therefore|RB gains|VBZ made|VBN on|IN stocks|NNS have|VBP already|RB been|VBN taxed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tax|NN experts|NNS like|IN len|NN burman|NN and|CC martin|NN sullivan|NN say|VBP that|IN double|JJ taxation|NN is|VBZ dumb|NN actually|RB theyre|JJ more|JJR likely|JJ to|TO use|VB the|DT term|NN inefficient|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC they|PRP also|RB note|VBP the|DT limitations|NNS of|IN the|DT doubletaxation|NN argument|NN some|DT capital|NN gains|NNS really|RB are|VBP only|RB taxed|VBN once|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN instance|NN some|DT assets|NNS that|WDT produce|VB capital|NN gains|NNS are|VBP not|RB subject|JJ to|TO a|DT corporate|JJ tax|NN </s>|S_END
+<s>|S_START think|NN real|JJ estate|NN art|NN or|CC a|DT passthrough|JJ business|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC some|DT capital|NN gains|NNS escape|NN taxation|NN altogether|RB </s>|S_END
+<s>|S_START a|DT beneficiary|JJ of|IN an|DT estate|NN does|VBZ not|RB owe|VB tax|NN on|IN the|DT capital|NN gains|NNS accrued|VBD on|IN an|DT asset|NN during|IN the|DT lifetime|NN of|IN the|DT person|NN who|WP died|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ gains|NNS are|VBP just|RB inflation|NN one|CD reason|NN to|TO keep|VB capital|NN gains|NNS rates|NNS lower|JJR is|VBZ inflation|NN </s>|S_END
+<s>|S_START that|DT is|VBZ some|DT portion|NN of|IN ones|NNS gains|NNS can|MD be|VB attributed|VBN to|TO inflation|NN between|IN the|DT purchase|NN and|CC sale|NN of|IN an|DT asset|NN </s>|S_END
+<s>|S_START and|CC sometimes|RB its|PRP$ the|DT whole|JJ kahuna|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tax|NN expert|NN bruce|NN bartlett|NN in|IN a|DT 2001|CD paper|NN cited|VBN research|NN showing|VBG that|IN after|IN accounting|VBG for|IN inflation|NN investors|NNS booked|VBD a|DT real|JJ investment|NN loss|NN of|IN $|$ 231|CD billion|CD on|IN nominal|JJ gains|NNS of|IN $|$ 3|CD trillion|CD between|IN 1946|CD and|CC 1977|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO help|VB mitigate|JJ the|DT inflation|NN hit|VBD lawmakers|NNS have|VBP typically|RB taxed|VBN capital|NN gains|NNS at|IN a|DT lower|JJR rate|NN than|IN ordinary|JJ income|NN or|CC let|VB investors|NNS exclude|VBP some|DT portion|NN of|IN their|PRP$ gains|NNS from|IN taxation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT lower|JJR rate|NN spurs|NNS the|DT economy|NN the|DT most|JJS common|JJ argument|NN for|IN a|DT lower|JJR gains|NNS rate|NN is|VBZ that|IN it|PRP spurs|VBZ investment|NN and|CC risktaking|VBG which|WDT can|MD lead|VB to|TO economic|JJ growth|NN and|CC higher|JJR federal|JJ revenue|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START burman|NN doesnt|VBD doubt|NN a|DT lower|JJR rate|NN might|MD spur|VB investment|NN and|CC risktaking|VBG </s>|S_END
+<s>|S_START but|CC theres|NNS no|DT proven|NN correlation|NN with|IN economic|JJ growth|NN he|PRP said|VBD </s>|S_END
+<s>|S_START it|PRP doesnt|VBD prove|VBP theres|NNS not|RB a|DT relationship|NN </s>|S_END
+<s>|S_START its|PRP$ just|RB not|RB the|DT silver|NN bullet|NN its|PRP$ made|VBN out|RP to|TO be|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN part|NN that|IN may|MD be|VB because|IN its|PRP$ hard|JJ to|TO quantify|VB risktaking|NN bartlett|NN noted|VBD in|IN his|PRP$ new|JJ book|NN about|IN tax|NN reform|NN the|DT benefit|NN and|CC the|DT burden|NN </s>|S_END
+<s>|S_START but|CC he|PRP also|RB asserts|VBZ that|IN that|DT impact|NN of|IN a|DT lower|JJR gains|NNS rate|NN on|IN growth|NN is|VBZ ambiguous|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START policy|NN experts|NNS worry|VBP that|IN a|DT high|JJ capital|NN gains|NNS rate|NN can|MD cause|VB investors|NNS to|TO hold|VB onto|IN assets|NNS longer|JJR than|IN they|PRP otherwise|VBP might|MD preventing|VBG them|PRP from|IN using|VBG their|PRP$ gains|NNS to|TO reinvest|VB in|IN other|JJ assets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START then|RB again|RB some|DT say|VBP a|DT higher|JJR rate|NN wont|NN deter|NN investors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP have|VBP yet|RB to|TO see|VB anyone|NN not|RB even|RB when|WRB capital|NN gains|NNS rates|NNS were|VBD 399|CD in|IN 197677|CD shy|JJ away|NN from|IN a|DT sensible|JJ investment|NN because|IN of|IN the|DT tax|NN rate|NN on|IN the|DT potential|NN gain|NN billionaire|NN investor|NN warren|NN buffett|NN wrote|VBD in|IN a|DT new|JJ york|NN times|NNS oped|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT lot|NN of|IN arguments|NNS made|VBN to|TO justify|VB a|DT low|JJ capital|NN gains|NNS rate|NN are|VBP really|RB about|IN general|JJ flaws|NNS with|IN the|DT tax|NN system|NN not|RB a|DT reason|NN to|TO lower|JJR the|DT capital|NN gains|NNS rate|NN per|IN se|NN burman|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD argument|NN for|IN not|RB singling|VBG out|RP capital|NN gains|NNS for|IN special|JJ relief|NN they|PRP are|VBP not|RB the|DT only|JJ kind|NN of|IN capital|NN income|NN that|WDT can|MD be|VB double|JJ taxed|VBN or|CC hurt|VBN by|IN inflation|NN </s>|S_END
+<s>|S_START so|IN are|VBP dividends|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC creating|VBG special|JJ tax|NN breaks|NNS for|IN capital|NN gains|NNS gives|VBZ people|NNS a|DT reason|NN to|TO seek|VB out|RP tax|NN shelters|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD proposed|VBN solution|NN is|VBZ to|TO tax|NN capital|NN gains|NNS and|CC dividends|NNS as|IN ordinary|JJ income|NN but|CC significantly|RB lower|JJR ordinary|JJ income|NN tax|NN rates|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT was|VBD the|DT recommendation|NN of|IN president|NN obamas|NNS bipartisan|VBP debt|NN commission|NN and|CC the|DT bipartisan|NN policy|NN centers|NNS debt|NN reduction|NN task|NN force|NN </s>|S_END
+<s>|S_START and|CC its|PRP$ what|WP president|NN reagan|VBD and|CC congress|NN did|VBD when|WRB they|PRP reformed|VBD the|DT tax|NN code|NN in|IN 1986|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP tax|VBP capital|NN gains|NNS as|IN ordinary|JJ income|NN it|PRP raises|VBZ a|DT lot|NN of|IN revenue|NN to|TO cut|VB other|JJ rates|NNS said|VBD burman|NN who|WP worked|VBD on|IN the|DT 1986|CD reform|NN and|CC was|VBD a|DT member|NN of|IN the|DT bipartisan|NN policy|NN center|NN task|NN force|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP maintains|VBZ high|JJ progressivity|NN while|IN lowering|VBG rates|NNS and|CC it|PRP closes|VBZ down|RP the|DT biggest|JJS opportunity|NN for|IN tax|NN shelters|NNS </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

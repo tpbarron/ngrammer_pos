@@ -1,0 +1,116 @@
+<p>|P_START
+<s>|S_START money|NN is|VBZ perhaps|RB the|DT most|RBS basic|JJ buildingblock|NN in|IN economic|JJ </s>|S_END
+<s>|S_START it|PRP helps|VBZ states|VBZ collect|NN taxes|NNS to|TO fund|VB public|JJ good|JJ </s>|S_END
+<s>|S_START it|PRP allows|VBZ producers|NNS to|TO specialise|VB and|CC reap|VB gains|NNS from|IN trade|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ clear|JJ what|WP it|PRP does|VBZ but|CC its|PRP$ origins|NNS are|VBP a|DT mystery|NN </s>|S_END
+<s>|S_START ome|NN argue|VBP that|IN money|NN has|VBZ its|PRP$ roots|NNS in|IN the|DT power|NN of|IN the|DT state|NN </s>|S_END
+<s>|S_START others|NNS claim|VBP the|DT origin|NN of|IN money|NN is|VBZ a|DT purely|RB private|JJ matter|NN it|PRP would|MD exist|VB even|RB if|IN governments|NNS did|VBD not|RB </s>|S_END
+<s>|S_START this|DT debate|NN is|VBZ longrunning|VBG but|CC it|PRP informs|VBZ some|DT of|IN the|DT most|RBS pressing|VBG monetary|JJ questions|NNS of|IN today|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START money|NN fulfils|NNS three|CD main|JJ function|NN </s>|S_END
+<s>|S_START first|JJ it|PRP must|MD be|VB a|DT medium|NN of|IN exchange|NN easily|RB traded|VBN for|IN goods|NNS and|CC service|NN </s>|S_END
+<s>|S_START econd|NN it|PRP must|MD be|VB a|DT store|NN of|IN value|NN so|IN that|IN it|PRP can|MD be|VB saved|VBN and|CC used|VBN for|IN consumption|NN in|IN the|DT future|NN </s>|S_END
+<s>|S_START third|JJ it|PRP must|MD be|VB a|DT unit|NN of|IN account|NN a|DT useful|JJ measuringstick|NN </s>|S_END
+<s>|S_START lots|NNS of|IN things|NNS can|MD do|VB these|DT job|NN </s>|S_END
+<s>|S_START tea|NN salt|VBD and|CC cattle|NN have|VBP all|DT been|VBN used|VBN as|IN money|NN </s>|S_END
+<s>|S_START in|IN britain’s|JJ prisons|NNS inmates|VBZ currently|RB favour|PRP$ showergel|NN capsules|NNS or|CC rosary|JJ bead|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT use|NN of|IN money|NN stretches|NNS back|RB millennia|IN </s>|S_END
+<s>|S_START electrum|NN an|DT alloy|NN of|IN gold|NN and|CC silver|NN was|VBD used|VBN to|TO make|VB coins|NNS in|IN lydia|NN now|RB western|JJ turkey|NN in|IN around|IN 650bc|CD </s>|S_END
+<s>|S_START the|DT first|JJ paper|NN money|NN circulated|VBD in|IN china|NN in|IN around|IN 1000ad|JJ </s>|S_END
+<s>|S_START the|DT aztecs|NNS used|VBN cocoa|NN beans|NNS as|IN cash|NN until|IN the|DT 12th|JJ century|NN </s>|S_END
+<s>|S_START the|DT puzzle|NN is|VBZ how|WRB people|NNS agreed|VBD what|WP to|TO use|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START karl|NN menger|NN an|DT austrian|JJ economist|NN set|NN out|RP one|CD school|NN of|IN thought|NN as|IN long|RB ago|RB as|IN 1892|CD </s>|S_END
+<s>|S_START in|IN his|PRP$ version|NN of|IN events|NNS the|DT monetisation|NN of|IN an|DT economy|NN starts|VBZ when|WRB agricultural|JJ communities|NNS move|VBP away|RB from|IN subsistence|NN farming|VBG and|CC start|NN to|TO specialise|VB </s>|S_END
+<s>|S_START this|DT brings|VBZ efficiency|NN gains|NNS but|CC means|VBZ that|IN trade|NN with|IN others|NNS becomes|NNS necessary|JJ </s>|S_END
+<s>|S_START the|DT problem|NN is|VBZ that|IN operating|VBG markets|NNS on|IN the|DT basis|NN of|IN barter|NN is|VBZ a|DT pain|NN you|PRP have|VB to|TO scout|VB around|IN looking|VBG for|IN the|DT rare|NN person|NN who|WP wants|VBZ what|WP you|PRP have|VBP and|CC has|VBZ what|WP you|PRP want|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START money|NN evolves|NNS to|TO reduce|VB barter|NN costs|NNS with|IN some|DT things|NNS working|VBG better|JJR than|IN other|JJ </s>|S_END
+<s>|S_START the|DT commodity|NN used|VBD as|IN money|NN should|MD not|RB lose|VB value|NN when|WRB it|PRP is|VBZ bought|VBN and|CC sold|VBN </s>|S_END
+<s>|S_START o|NN clothing|NN is|VBZ a|DT bad|JJ money|NN since|IN no|DT one|NN places|VBZ the|DT same|JJ value|NN on|IN secondhand|NN clothes|NNS as|IN new|JJ one|CD </s>|S_END
+<s>|S_START instead|RB something|NN that|IN is|VBZ portable|JJ durable|JJ fruit|NN and|CC vegetables|NNS are|VBP out|IN and|CC divisible|JJ into|IN smaller|JJR pieces|NNS is|VBZ needed|VBN </s>|S_END
+<s>|S_START menger|NN called|VBN this|DT property|NN “saleableness”|NN </s>|S_END
+<s>|S_START pices|NNS and|CC shells|NNS are|VBP highly|RB saleable|JJ explaining|NN their|PRP$ use|NN as|IN money|NN </s>|S_END
+<s>|S_START government|NN plays|NNS no|DT role|NN here|RB </s>|S_END
+<s>|S_START the|DT origin|NN of|IN money|NN is|VBZ a|DT marketled|VBN response|NN to|TO barter|VB costs|NNS in|IN which|WDT the|DT best|JJS money|NN is|VBZ that|IN which|WDT minimises|NNS the|DT costs|NNS of|IN trade|NN </s>|S_END
+<s>|S_START menger’s|NNS is|VBZ a|DT good|JJ description|NN of|IN how|WRB informal|JJ monies|NNS such|JJ as|IN those|DT used|VBN by|IN prisoners|NNS originate|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT story|NN just|RB doesn’t|JJ match|NN the|DT facts|NNS in|IN most|JJS monetary|JJ economies|NNS according|VBG to|TO a|DT 1998|CD paper|NN by|IN charles|NNS goodhart|VBP of|IN the|DT london|NN school|NN of|IN economic|JJ </s>|S_END
+<s>|S_START take|VB the|DT widespread|JJ use|NN of|IN precious|JJ metals|NNS as|IN money|NN </s>|S_END
+<s>|S_START a|DT mengerian|JJ would|MD say|VB that|IN this|DT happens|NNS because|IN metals|NNS are|VBP durable|JJ divisible|JJ and|CC portable|JJ that|IN makes|VBZ them|PRP an|DT ideal|NN medium|NN of|IN exchange|NN </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ incredibly|RB hard|RB to|TO value|VB raw|NN metals|NNS mr|NN goodhart|NN argued|VBD so|RB the|DT cost|NN of|IN using|VBG them|PRP in|IN trade|NN is|VBZ high|JJ </s>|S_END
+<s>|S_START it|PRP is|VBZ much|RB easier|JJR to|TO assess|NN the|DT value|NN of|IN a|DT bag|NN of|IN salt|NN or|CC a|DT cow|NN than|IN a|DT lump|NN of|IN metal|NN </s>|S_END
+<s>|S_START raw|NN metals|NNS fail|VBP menger’s|JJ own|JJ saleableness|NN test|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT problem|NN explains|VBZ why|WRB metal|JJ money|NN has|VBZ circulated|VBN not|RB in|IN lumps|NNS but|CC as|IN coins|NNS with|IN a|DT regulated|VBN amount|NN of|IN metal|NN in|IN each|DT coin|NN </s>|S_END
+<s>|S_START but|CC history|NN shows|VBZ that|IN minting|VBG developed|VBD not|RB as|IN a|DT privatesector|NN attempt|NN to|TO minimise|VB the|DT costs|NNS of|IN trading|NN but|CC as|IN a|DT government|NN operation|NN </s>|S_END
+<s>|S_START it|PRP was|VBD state|NN intervention|NN not|RB the|DT private|JJ market|NN that|IN made|VBN metal|NN specie|NN work|NN as|IN money|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT suggests|VBZ another|DT theory|NN is|VBZ needed|VBN in|IN which|WDT the|DT state|NN plays|VBZ a|DT bigger|JJR role|NN in|IN the|DT origin|NN of|IN money|NN </s>|S_END
+<s>|S_START mr|NN goodhart|NN called|VBN this|DT the|DT “cartalist”|NNP theory|NN </s>|S_END
+<s>|S_START the|DT fiscal|JJ wing|NN of|IN government|NN has|VBZ a|DT huge|JJ incentive|NN to|TO move|VB its|PRP$ economy|NN away|RB from|IN barter|NN </s>|S_END
+<s>|S_START once|RB money|NN exists|NNS income|NN and|CC expenditure|NN can|MD be|VB measured|VBN </s>|S_END
+<s>|S_START that|DT means|VBZ they|PRP can|MD be|VB taxed|VBN </s>|S_END
+<s>|S_START and|CC the|DT public|NN purse|NN gets|VBZ a|DT second|JJ boost|NN from|IN seigniorage|NN the|DT difference|NN between|IN the|DT value|NN of|IN the|DT coins|NNS and|CC the|DT cost|NN of|IN producing|VBG them|PRP </s>|S_END
+<s>|S_START on|IN this|DT account|NN governments|NNS impose|VBP taxes|NNS payable|JJ only|RB in|IN money|NN creating|VBG a|DT demand|NN for|IN money|NN that|WDT means|VBZ it|PRP will|MD be|VB widely|RB accepted|VBN as|IN payment|NN for|IN good|JJ </s>|S_END
+<s>|S_START the|DT state|NN forces|NNS the|DT economy|NN away|RB from|IN barter|NN for|IN its|PRP$ own|JJ fiscal|JJ purpose|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN goodhart|NN used|VBD monetary|JJ history|NN to|TO test|NN these|DT competing|VBG theorie|NN </s>|S_END
+<s>|S_START he|PRP examined|VBD the|DT overthrow|NN of|IN rome|NN and|CC a|DT period|NN in|IN the|DT tenth|NN century|NN when|WRB the|DT japanese|JJ government|NN stopped|VBD minting|VBG coin|NN </s>|S_END
+<s>|S_START if|IN the|DT origin|NN of|IN money|NN were|VBD purely|RB private|JJ these|DT shocks|NNS should|MD have|VB had|VBN no|DT monetary|JJ effect|NN </s>|S_END
+<s>|S_START but|CC after|IN rome’s|NNS collapse|VBP traders|NNS resorted|VBN to|TO barter|VB in|IN japan|NN they|PRP started|VBD to|TO use|VB rice|NN instead|RB of|IN coin|NN </s>|S_END
+<s>|S_START there|EX is|VBZ a|DT clear|JJ link|NN between|IN fiscal|JJ power|NN and|CC money|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT struggle|NN for|IN life|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT evidence|NN suggests|VBZ that|IN only|RB “informal”|JJ monies|NNS can|MD spring|VBG up|RP purely|RB privately|RB </s>|S_END
+<s>|S_START but|CC informal|JJ money|NN can|MD exist|VB on|IN the|DT grandest|JJS scale|NN </s>|S_END
+<s>|S_START the|DT dollar’s|JJ position|NN as|IN the|DT world’s|NNP reserve|NN currency|NN is|VBZ not|RB mandated|VBN by|IN any|DT government|NN for|IN example|NN </s>|S_END
+<s>|S_START its|PRP$ preeminence|NN outside|IN america|NN rests|NNS on|IN it|PRP being|VBG the|DT best|JJS option|NN for|IN international|JJ transaction|NN </s>|S_END
+<s>|S_START once|RB a|DT competitor|NN currency|NN becomes|VBZ preferable|JJ firms|NNS and|CC other|JJ governments|NNS will|MD move|VB on|IN </s>|S_END
+<s>|S_START the|DT good|JJ news|NN for|IN the|DT dollar|NN is|VBZ that|IN the|DT chinese|JJ yuan|NN is|VBZ not|RB yet|RB widely|RB accepted|VBN and|CC suffers|NNS from|IN higher|JJR inflation|NN reducing|VBG its|PRP$ usefulne|NN </s>|S_END
+<s>|S_START but|CC a|DT shift|NN in|IN the|DT world’s|JJ reserve|NN currency|NN could|MD be|VB swifter|RBR than|IN many|JJ assume|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT dollar’s|JJ other|JJ competitor|NN the|DT euro|NN has|VBZ deeper|JJR problem|NN </s>|S_END
+<s>|S_START its|PRP$ origins|NNS were|VBD not|RB private|JJ </s>|S_END
+<s>|S_START nor|CC is|VBZ it|PRP a|DT proper|NN cartalist|NN money|NN backed|VBN by|IN a|DT nation|NN state|NN </s>|S_END
+<s>|S_START this|DT means|VBZ it|PRP lacks|VBZ a|DT foundation|NN in|IN the|DT power|NN of|IN either|DT the|DT market|NN or|CC the|DT state|NN </s>|S_END
+<s>|S_START in|IN his|PRP$ paper|NN written|VBN a|DT year|NN before|IN the|DT euro|NN was|VBD introduced|VBN mr|NN goodhart|NN was|VBD prescient|JJ highlighting|NN “an|JJ unprecedented|VBN divorce|NN between|IN the|DT main|JJ monetary|NN and|CC fiscal|JJ authorities”|NN </s>|S_END
+<s>|S_START cartalists|NNS he|PRP said|VBD “worry|JJ whether|IN the|DT divorce|NN may|MD not|RB have|VB some|DT unforeseen|VBN side|NN effects”|-NONE- </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “on|JJ the|DT origins|NNS of|IN money”|JJ the|DT economic|JJ journal|NN june|NN 1892|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “the|DT two|CD concepts|NNS of|IN money|NN implications|NNS for|IN the|DT analysis|NN of|IN optimal|JJ currency|NN areas”|NN european|NN journal|NN of|IN political|JJ economy|NN august|NN 1998|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogsfreeexchange|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,98 @@
+<p>|P_START
+<s>|S_START romney|NN wants|VBZ to|TO expand|VB an|DT arizona|NN immigration|NN law|NN that|WDT forces|VBZ employers|NNS to|TO use|VB everify|NN to|TO check|VB the|DT identities|NNS of|IN new|JJ workers|NNS </s>|S_END
+<s>|S_START but|CC companies|NNS like|IN postmax|NN of|IN scottsdale|NN ariz|NN dont|NN want|NN the|DT extra|JJ paperwork|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN mitt|NN romney|NN promises|VBZ less|JJR regulation|NN on|IN small|JJ businesses|NNS but|CC the|DT immigration|NN plan|NN he|PRP supports|VBZ would|MD add|VB an|DT extra|JJ step|NN to|TO the|DT hiring|NN process|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romney|NN has|VBZ said|VBN the|DT nation|NN should|MD follow|VB immigration|NN rules|NNS like|IN those|DT in|IN arizona|NN where|WRB companies|NNS are|VBP forced|VBN to|TO use|VB a|DT federal|JJ government|NN program|NN called|VBN everify|NN </s>|S_END
+<s>|S_START business|NN owners|NNS are|VBP required|VBN to|TO check|VB the|DT legal|JJ status|NN of|IN all|DT new|JJ workers|NNS against|IN social|JJ security|NN and|CC immigration|NN records|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ an|DT added|JJ responsibility|NN that|WDT some|DT businesses|NNS dont|VBP want|JJ or|CC think|VBP necessary|JJ </s>|S_END
+<s>|S_START and|CC to|TO many|JJ in|IN arizona|NN its|PRP$ one|CD they|PRP outright|VBD ignore|RBR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN all|DT new|JJ hires|NNS in|IN arizona|NN nearly|RB a|DT third|JJ dont|NN get|NN vetted|VBD by|IN everify|NN according|VBG to|TO a|DT review|NN of|IN federal|JJ records|NNS by|IN cnnmoney|NN </s>|S_END
+<s>|S_START there|EX were|VBD 145|CD million|CD people|NNS hired|VBD in|IN arizona|NN during|IN fiscal|JJ year|NN 2011|CD and|CC only|RB 982593|CD were|VBD checked|VBN with|IN everify|JJ according|VBG to|TO data|NNS from|IN the|DT us|PRP census|VBZ and|CC the|DT department|NN of|IN homeland|NN security|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD romneys|NNS other|JJ 47|CD his|PRP$ small|JJ business|NN support|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ive|JJ got|VBD too|RB many|JJ other|JJ things|NNS to|TO do|VB said|VBN linda|NN obrine|NN who|WP does|VBZ most|JJS of|IN the|DT paperwork|NN at|IN her|PRP$ husbands|NNS landscaping|VBG business|NN in|IN tucson|NN ariz|NN the|DT government|NN is|VBZ always|RB pushing|VBG us|PRP to|TO do|VB this|DT do|VB that|DT </s>|S_END
+<s>|S_START we|PRP already|RB check|VBP our|PRP$ employees|NNS drivers|NNS licenses|NNS </s>|S_END
+<s>|S_START whats|NNS the|DT sense|NN in|IN having|NN us|PRP do|VBP one|CD more|RBR step|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT obrines|NNS adamantly|RB oppose|VBP illegal|JJ immigration|NN but|CC they|PRP also|RB dont|VBP want|JJ another|DT layer|NN of|IN rules|NNS controlling|VBG the|DT hiring|NN process|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START michael|NN e|NN castillo|NN who|WP owns|VBZ a|DT postalmax|NN shipping|NN store|NN outside|IN phoenix|NN also|RB opposes|VBZ mandatory|NN everify|NN rules|NNS even|RB though|IN he|PRP hasnt|VBD hired|VBN anyone|NN in|IN recent|JJ years|NNS and|CC hasnt|JJ had|VBD to|TO use|VB the|DT program|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ another|DT hindrance|NN it|PRP takes|VBZ me|PRP away|RB from|IN doing|VBG what|WP we|PRP do|VBP best|JJS castillo|NN said|VBD </s>|S_END
+<s>|S_START small|JJ business|NN has|VBZ a|DT very|RB good|JJ handle|NN on|IN who|WP they|PRP hire|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START arizona|NN is|VBZ one|CD of|IN 18|CD states|NNS that|WDT require|NN everify|NN to|TO some|DT extent|NN according|VBG to|TO numbersusa|VB an|DT antiimmigration|NN group|NN </s>|S_END
+<s>|S_START alabama|NN mississippi|NN and|CC south|NN carolina|NN require|NN it|PRP for|IN all|PDT hiring|VBG while|IN most|JJS other|JJ states|NNS only|RB require|VBP everify|JJ for|IN state|NN agencies|NNS or|CC government|NN contractors|NNS </s>|S_END
+<s>|S_START minnesota|NN and|CC rhode|NN island|NN have|VBP repealed|VBN similar|JJ legislation|NN while|IN california|NN and|CC illinois|VBZ have|VBP banned|VBN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START theres|NNS widespread|VBP disagreement|NN about|IN the|DT benefits|NNS of|IN making|VBG everify|NN mandatory|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD obamas|NNS tax|NN plan|NN catches|VBZ small|JJ employers|NNS too|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START critics|NNS like|IN the|DT libertarian|JJ think|NN tank|NN cato|NN institute|NN warn|NN that|WDT legal|JJ workers|NNS are|VBP sometimes|RB falsely|RB flagged|VBN by|IN the|DT system|NN </s>|S_END
+<s>|S_START of|IN the|DT 166|CD million|CD who|WP went|NN through|IN everify|NN during|IN fiscal|JJ year|NN 2011|CD more|JJR than|IN 46000|CD were|VBD incorrectly|RB flagged|VBN and|CC had|VBD to|TO contest|VB the|DT results|NNS according|VBG to|TO us|PRP </s>|S_END
+<s>|S_START citizenship|NN and|CC immigration|NN services|NNS </s>|S_END
+<s>|S_START research|NN firm|NN westat|NN has|VBZ found|VBN that|IN naturalized|VBN citizens|NNS are|VBP 30|CD times|NNS more|JJR likely|JJ to|TO face|VB an|DT error|NN than|IN nativeborn|NN citizens|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT second|JJ concern|NN is|VBZ that|IN everify|NN wont|NN always|RB catch|VBP fraud|NN </s>|S_END
+<s>|S_START that|DT means|VBZ employers|NNS could|MD use|VB it|PRP as|IN a|DT precaution|NN but|CC still|RB end|VBP up|RP hiring|VBG an|DT undocumented|JJ immigrant|NN </s>|S_END
+<s>|S_START that|DT worried|VBN business|NN owners|NNS in|IN springfield|NN mo|NN where|WRB voters|NNS had|VBD approved|VBN a|DT local|JJ ordinance|NN making|VBG everify|NN mandatory|NN and|CC threatening|VBG to|TO take|VB away|RP business|NN licenses|NNS of|IN those|DT caught|VBN hiring|VBG illegally|RB </s>|S_END
+<s>|S_START several|JJ entrepreneurs|NNS joined|VBD architect|NN john|NN okethomas|NNS and|CC successfully|RB sued|VBD to|TO block|VB the|DT law|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP am|VBP opposed|VBN to|TO illegal|JJ workers|NNS taking|VBG job|NN opportunities|NNS from|IN american|JJ citizens|NNS </s>|S_END
+<s>|S_START but|CC this|DT punishes|NNS springfield|VBP businesses|NNS with|IN more|JJR government|NN regulations|NNS okethomas|VBZ said|VBN of|IN the|DT citys|NNS rule|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB asked|VBD about|IN bringing|VBG the|DT arizona|NN model|NN nationwide|NN the|DT romney|NN campaign|NN did|VBD not|RB respond|VB to|TO requests|NNS for|IN comment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT republican|JJ candidate|NN could|MD find|VB support|NN from|IN those|DT businesses|NNS that|IN have|VBP tried|VBN everify|NN and|CC find|VB the|DT burden|NN minimal|NN compared|VBN to|TO the|DT increased|VBN confidence|NN that|IN employees|NNS are|VBP who|WP they|PRP say|VBP they|PRP are|VBP </s>|S_END
+<s>|S_START thats|NNS the|DT case|NN for|IN management|NN at|IN eegees|NNS a|DT tucsonarea|NN restaurant|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP gives|VBZ us|PRP a|DT little|RB bit|NN more|JJR security|NN that|IN the|DT documents|NNS weve|VBP looked|VBN at|IN are|VBP real|JJ said|NN rick|NN maes|NNS training|VBG and|CC development|NN coordinator|NN at|IN eegees|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT process|NN is|VBZ relatively|RB quick|JJ maes|NNS said|VBD taking|VBG about|IN two|CD minutes|NNS </s>|S_END
+<s>|S_START but|CC he|PRP conceded|VBD that|IN a|DT typical|JJ small|JJ business|NN probably|RB wouldnt|NN get|VB the|DT process|NN streamlined|VBD the|DT way|NN eegees|VBZ has|VBZ </s>|S_END
+</p>|P_END
+

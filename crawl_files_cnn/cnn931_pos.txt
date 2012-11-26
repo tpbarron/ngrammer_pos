@@ -1,0 +1,125 @@
+<p>|P_START
+<s>|S_START click|NN for|IN more|JJR market|NN data|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN us|PRP stocks|VBZ sank|NN thursday|NN adding|VBG to|TO the|DT previous|JJ days|NNS sharp|JJ declines|NNS as|IN investors|NNS continue|VBP to|TO worry|VB that|IN political|JJ gridlock|NN in|IN washington|NN will|MD drive|VB the|DT economy|NN off|RP the|DT fiscal|JJ cliff|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT dow|NN jones|NNS industrial|JJ average|NN fell|VBD 09|CD to|TO its|PRP$ lowest|JJS close|JJ since|IN late|JJ july|RB </s>|S_END
+<s>|S_START the|DT sp|NN 500|CD declined|VBD 12|CD while|IN the|DT nasdaq|NN shed|VBD 14|CD </s>|S_END
+<s>|S_START the|DT retreat|NN comes|VBZ after|IN stocks|NNS tumbled|VBD 2|CD on|IN wednesday|NN with|IN the|DT dow|NN suffering|NN its|PRP$ worst|NN oneday|NN drop|NN of|IN the|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START financial|JJ stocks|NNS which|WDT led|VBN the|DT postelection|NN decline|NN regained|VBD some|DT ground|NN </s>|S_END
+<s>|S_START bank|NN of|IN america|NN bac|NN fortune|NN 500|CD shares|NNS rose|VBD 2|CD making|VBG the|DT stock|NN the|DT best|JJS performer|NN on|IN the|DT dow|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apple|NN aapl|NN fortune|NN 500|CD shares|NNS fell|VBD deeper|NN into|IN bear|JJ market|NN territory|NN down|IN more|JJR than|IN 20|CD from|IN their|PRP$ alltimehigh|JJ of|IN $|$ 705|CD hit|VBD in|IN midseptember|NN </s>|S_END
+<s>|S_START the|DT widelyheld|NN stock|NN weighs|NNS heavily|RB on|IN the|DT nasdaq|NN and|CC sp|VB 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START following|VBG president|NN obamas|NNS reelection|NN tuesday|NN night|NN attention|NN has|VBZ shifted|VBN to|TO how|WRB lawmakers|NNS will|MD address|VB the|DT looming|NN fiscal|JJ cliff|NN that|WDT threatens|VBZ to|TO throw|VB the|DT country|NN back|RB into|IN a|DT recession|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START investors|NNS remain|VBP focused|VBN on|IN the|DT debate|NN in|IN washington|NN over|IN billions|NNS of|IN dollars|NNS in|IN taxes|NNS and|CC spending|NN cuts|NNS that|WDT are|VBP set|VBN to|TO kick|VB in|IN automatically|RB on|IN jan|NN 1|CD said|VBD peter|NN cardillo|NN market|NN strategist|NN at|IN rockwell|NN global|JJ capital|NN </s>|S_END
+<s>|S_START while|IN he|PRP expects|VBZ obama|NN and|CC congress|NN to|TO hammer|VB out|RP a|DT solution|NN before|IN the|DT deadline|NN its|PRP$ going|VBG to|TO be|VB touch|JJ and|CC go|VB for|IN the|DT market|NN in|IN the|DT short|JJ run|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD obama|NN is|VBZ not|RB markets|VBZ puppet|NN master|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START stocks|NNS were|VBD up|RB modestly|RB in|IN the|DT morning|NN but|CC selling|VBG quickly|RB took|VBD over|IN </s>|S_END
+<s>|S_START there|EX was|VBD no|DT particular|JJ driver|NN behind|IN the|DT afternoon|NN retreat|NN said|VBD dan|NN greenhaus|NN market|NN strategist|NN at|IN brokerdealer|NN btig|NN </s>|S_END
+<s>|S_START the|DT fiscal|JJ cliff|NN he|PRP added|VBD is|VBZ the|DT only|JJ thing|NN that|WDT matters|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT fears|NNS overshadowed|VBD upbeat|JJ economic|JJ reports|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT government|NN said|VBD 355000|CD americans|NNS filed|VBD for|IN firsttime|NN unemployment|NN claims|VBZ in|IN the|DT latest|JJS week|NN down|RB from|IN a|DT week|NN earlier|RBR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT trade|NN deficit|NN for|IN september|NN narrowed|VBD to|TO $|$ 415|CD billion|CD </s>|S_END
+<s>|S_START analysts|NNS were|VBD expecting|VBG the|DT gap|NN to|TO widen|VB to|TO $|$ 454|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thursdays|NNS data|VBP bodes|NNS well|RB for|IN an|DT acceleration|NN of|IN economic|JJ activity|NN said|VBD cardillo|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN the|DT market|NN closed|VBD online|NN travel|NN company|NN kayak|NN kyak|NN announced|VBD plans|NNS to|TO be|VB acquired|VBN by|IN priceline|NN pcln|NN for|IN $|$ 40|CD a|DT share|NN in|IN cash|NN and|CC stock|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shares|NNS of|IN groupon|NN grpn|NN fell|VBD 13|CD in|IN extended|JJ trading|NN after|IN the|DT daily|JJ deals|NNS website|VBP reported|VBN a|DT net|JJ loss|NN for|IN the|DT quarter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START disney|NN dis|NNS fortune|VBP 500|CD reported|VBN quarterly|JJ and|CC fullyear|JJ earnings|NNS that|WDT matched|VBN analysts|NNS expectations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START before|IN the|DT market|NN opened|VBD wendys|NNS wen|VBN reported|VBD weakerthanexpected|VBN earnings|NNS for|IN the|DT third|JJ quarter|NN </s>|S_END
+<s>|S_START but|CC the|DT fastfood|NN chain|NN said|VBD samestore|NN sales|NNS a|DT key|JJ measure|NN of|IN growth|NN increased|VBN for|IN a|DT sixth|JJ quarter|NN in|IN a|DT row|NN sending|VBG shares|NNS up|IN 25|CD </s>|S_END
+<s>|S_START mcdonalds|NNS mcd|VBD fortune|NN 500shares|NNS fell|VBD after|IN the|DT fast|NN food|NN chain|NN said|VBD samestore|NN sales|NNS declined|VBD 18|CD in|IN october|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dean|NN foods|NNS df|VBP fortune|NN 500|CD shares|NNS rose|VBD after|IN the|DT company|NN posted|VBD a|DT strong|JJ profit|NN and|CC said|VBD its|PRP$ cfo|NN shaun|NN mara|NN is|VBZ stepping|VBG down|RB </s>|S_END
+<s>|S_START mara|NN will|MD be|VB replaced|VBN by|IN chris|NNS bellairs|NNS who|WP is|VBZ currently|RB cfo|RB of|IN the|DT companys|NNS fresh|JJ dairy|NN direct|JJ division|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fear|NN greed|VBD index|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START world|NN markets|NNS while|IN europes|NNS debt|NN crisis|NN drags|NNS on|IN investors|NNS can|MD breathe|VB a|DT small|JJ sigh|NN of|IN relief|NN after|IN the|DT greek|NN parliament|NN approved|VBD a|DT new|JJ round|NN of|IN spending|NN cuts|NNS that|WDT are|VBP required|VBN for|IN the|DT country|NN to|TO receive|VB the|DT next|JJ installment|NN of|IN its|PRP$ international|JJ bailout|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN rising|VBG unemployment|NN and|CC declining|VBG business|NN confidence|NN in|IN the|DT euro|NN area|NN the|DT european|JJ central|JJ bank|NN held|VBD its|PRP$ main|JJ interest|NN rate|NN steady|JJ at|IN 075|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bank|NN of|IN england|NN left|VBN its|PRP$ interest|NN rate|NN unchanged|JJ and|CC kept|VBD its|PRP$ asset|NN purchase|NN program|NN at|IN £375|-NONE- billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START european|JJ stocks|NNS ended|VBD lower|JJR </s>|S_END
+<s>|S_START britains|NNS ftse|VBP 100|CD fell|VBD 03|CD and|CC the|DT dax|NN in|IN germany|NN declined|VBD 04|CD and|CC frances|NNS cac|VBP 40|CD lost|VBN nearly|RB 01|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START asian|JJ markets|NNS closed|VBD sharply|RB lower|JJR thursday|NN playing|NN catchup|NN with|IN the|DT previous|JJ days|NNS retreat|IN in|IN european|JJ and|CC us|PRP markets|NNS </s>|S_END
+<s>|S_START the|DT shanghai|NN composite|JJ tumbled|VBN 16|CD the|DT hang|NN seng|NN in|IN hong|JJ kong|JJ sank|NN 24|CD and|CC japans|NNS nikkei|VBP dropped|VBN 15|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START currencies|NNS and|CC commodities|NNS the|DT dollar|NN gained|VBD ground|NN against|IN the|DT euro|NN and|CC the|DT british|JJ pound|NN but|CC dipped|VBD versus|NNS the|DT japanese|NNS yen|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START oil|NN for|IN december|NN delivery|NN rose|VBD 65|CD cents|NNS to|TO settle|VB at|IN $|$ 8509|CD a|DT barrel|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gold|NN futures|NNS for|IN december|NN delivery|NN rose|VBD $|$ 12|CD to|TO end|VB the|DT day|NN at|IN $|$ 1726|CD an|DT ounce|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bonds|NNS the|DT price|NN on|IN the|DT benchmark|NN 10year|JJ us|PRP treasury|NN rose|VBD with|IN the|DT yield|NN falling|VBG to|TO 164|CD from|IN 166|CD on|IN wednesday|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,104 @@
+<p>|P_START
+<s>|S_START bank|NN of|IN england|NN deputy|NN governor|NN paul|NN tucker|NN said|VBD he|PRP isnt|VBD confident|JJ in|IN interest|NN rates|NNS after|IN revelations|NNS that|WDT barclays|VBZ manipulated|VBN libor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN millions|NNS of|IN consumers|NNS and|CC small|JJ businesses|NNS around|IN the|DT world|NN have|VBP been|VBN vaguely|RB familiar|JJ with|IN libor|NN the|DT benchmark|NN rate|NN used|VBD by|IN banks|NNS to|TO set|VB interest|NN rates|NNS for|IN loans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN recent|JJ weeks|NNS those|DT borrowers|NNS have|VBP heard|VBN more|RBR about|IN libor|NN and|CC what|WP theyve|NN heard|VBD is|VBZ scary|JJ </s>|S_END
+<s>|S_START a|DT scandal|NN sparked|VBD by|IN the|DT revelation|NN that|IN barclays|NNS bcs|NNS manipulated|VBD libor|NN has|VBZ taken|VBN away|RB much|RB of|IN the|DT trust|NN that|IN banks|NNS are|VBP setting|VBG rates|NNS on|IN loans|NNS fairly|RB and|CC honestly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT june|NN 27|CD settlement|NN between|IN barclays|NNS and|CC uk|NN and|CC us|PRP regulators|NNS stipulates|VBZ that|IN the|DT manipulation|NN stopped|VBD in|IN 2009|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC bank|VBD of|IN england|NN deputy|NN governor|NN paul|NN tucker|NN told|VBD a|DT committee|NN of|IN parliament|NN on|IN monday|NN that|IN he|PRP no|DT longer|NN has|VBZ faith|NN in|IN libors|NNS current|JJ legitimacy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP cant|VBP be|VB confident|JJ of|IN anything|NN after|IN learning|NN about|IN this|DT cess|NN pit|NN tucker|NN testified|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START connan|NN snider|NN professor|NN of|IN economics|NNS at|IN ucla|NN agrees|NNS </s>|S_END
+<s>|S_START snider|NN authored|VBD a|DT 2010|CD study|NN that|WDT cast|VBN doubts|NNS about|IN whether|IN libor|NN rates|NNS were|VBD accurate|JJ and|CC outlined|VBD the|DT incentives|NNS the|DT banks|NNS had|VBD to|TO game|VB the|DT system|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START snider|NN said|VBD he|PRP thinks|VBZ there|RB is|VBZ less|JJR misrepresentation|NN going|VBG on|IN today|NN than|IN there|EX was|VBD at|IN the|DT height|NN of|IN the|DT financial|JJ crisis|NN in|IN 2008|CD and|CC 2009|CD </s>|S_END
+<s>|S_START but|CC he|PRP said|VBD no|DT one|NN can|MD say|VB whether|IN the|DT rates|NNS are|VBP accurate|JJ today|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ a|DT systematic|JJ problem|NN when|WRB the|DT rates|NNS are|VBP not|RB quoted|VBN transparently|RB he|PRP said|VBD </s>|S_END
+<s>|S_START you|PRP see|VBP in|IN the|DT barclays|NNS settlement|NN how|WRB easily|RB its|PRP$ done|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START libor|NN is|VBZ used|VBN to|TO set|VB the|DT rates|NNS that|WDT consumers|NNS and|CC small|JJ businesses|NNS pay|VBP on|IN mortgages|NNS credit|NN cards|NNS and|CC other|JJ loans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT british|JJ bankers|NNS association|NN which|WDT oversees|NNS the|DT process|NN of|IN setting|VBG of|IN libor|NN daily|RB estimates|VBZ that|IN it|PRP is|VBZ used|VBN as|RB a|DT benchmark|NN on|IN about|IN $|$ 10|CD trillion|CD worth|NN of|IN outstanding|JJ loans|NNS worldwide|VBP a|DT total|NN so|RB large|JJ it|PRP is|VBZ slightly|RB more|RBR than|IN all|DT us|PRP home|VBP mortgage|NN debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START libors|NNS impact|VBP on|IN current|JJ american|JJ mortgages|NNS has|VBZ been|VBN limited|VBN by|IN record|NN low|JJ rates|NNS on|IN fixedrate|NN mortgages|NNS said|VBD keith|IN gumbinger|NN vice|NN president|NN of|IN interest|NN rate|NN tracking|VBG service|NN hshcom|NN </s>|S_END
+<s>|S_START variable|JJ rate|NN mortgages|NNS whose|WP$ rates|NNS are|VBP tied|VBN to|TO libor|NN are|VBP now|RB less|RBR than|IN 10|CD of|IN the|DT market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START roughly|RB half|DT of|IN $|$ 25|CD trillion|CD in|IN us|PRP credit|NN card|NN debt|NN has|VBZ a|DT variable|JJ rate|NN tied|VBN to|TO libor|NN according|VBG to|TO gumbinger|JJR </s>|S_END
+<s>|S_START but|CC those|DT cards|NNS have|VBP a|DT minimum|JJ rate|NN that|WDT consumers|NNS are|VBP charged|VBN </s>|S_END
+<s>|S_START in|IN the|DT current|JJ low|JJ interest|NN rate|NN environment|NN libor|NN would|MD have|VB to|TO rise|VB 3|CD or|CC 4|CD percentage|NN points|NNS before|IN consumers|NNS would|MD feel|VB the|DT impact|NN on|IN their|PRP$ credit|NN card|NN bill|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START still|RB a|DT few|JJ years|NNS ago|RB during|IN the|DT period|NN barclays|VBZ has|VBZ admitted|VBN to|TO manipulation|NN of|IN libor|NN the|DT rate|NN was|VBD high|JJ enough|RB to|TO impact|VB credit|NN card|NN rates|NNS </s>|S_END
+<s>|S_START variablerate|NN mortgages|NNS were|VBD also|RB a|DT much|RB larger|JJR part|NN of|IN the|DT market|NN then|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START libor|NN may|MD be|VB the|DT single|JJ most|JJS important|JJ data|NNS point|NN that|IN impacts|NNS trillions|NNS of|IN dollars|NNS worth|NN of|IN credit|NN said|VBD barry|NN ritholtz|NN ceo|NN and|CC director|NN of|IN equity|NN research|NN at|IN fusion|NN iq|NN </s>|S_END
+<s>|S_START this|DT is|VBZ as|IN big|JJ a|DT scandal|NN as|IN anything|NN weve|NN seen|VBN in|IN recent|JJ years|NNS </s>|S_END
+<s>|S_START this|DT is|VBZ trillions|NNS of|IN dollars|NNS that|WDT have|VBP been|VBN manipulated|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN part|NN of|IN the|DT settlement|NN barclays|VBZ agreed|VBN to|TO pay|VB $|$ 453|CD million|CD in|IN fines|NNS and|CC admitted|VBD its|PRP$ employees|NNS regularly|RB misreported|VBN what|WP it|PRP cost|VBD the|DT bank|NN to|TO borrow|VB money|NN to|TO the|DT organization|NN that|IN was|VBD calculating|VBG libor|NN which|WDT stands|VBZ for|IN london|NN interbank|NN offered|VBD rate|NN </s>|S_END
+<s>|S_START barclays|NNS also|RB admitted|VBD to|TO colluding|NN with|IN other|JJ banks|NNS to|TO manipulate|VB their|PRP$ reported|VBN lending|VBG rates|NNS as|IN well|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START manipulating|VBG the|DT rates|NNS helped|VBD the|DT banks|NNS post|VBP huge|JJ profits|NNS by|IN trading|NN an|DT estimated|VBN $|$ 350|CD trillion|CD in|IN derivatives|NNS by|IN betting|VBG on|IN the|DT direction|NN libor|NN would|MD take|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START suspicion|NN has|VBZ now|RB fallen|VBN on|IN the|DT other|JJ 17|CD banks|NNS that|WDT help|NN to|TO set|VB libor|NN </s>|S_END
+<s>|S_START many|JJ of|IN them|PRP including|VBG deutsche|PRP bank|NN db|NN royal|NN bank|NN of|IN scotland|NN rbs|NNS credit|NN suisse|NN cs|NNS citigroup|NN c|NN fortune|NN 500|CD ubs|NNS ubs|NNS and|CC jpmorgan|VBD chase|NN jpm|NN fortune|NN 500|CD have|VBP disclosed|VBN that|IN they|PRP are|VBP being|VBG investigated|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START critics|NNS of|IN the|DT current|JJ ratesetting|NN process|NN say|VB there|EX is|VBZ no|DT good|JJ alternative|NN on|IN the|DT horizon|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP dont|VBP see|VB a|DT clear|JJ solution|NN to|TO the|DT problem|NN said|VBD snider|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN us|PRP or|CC british|JJ authorities|NNS impose|VBP controls|NNS on|IN how|WRB libor|NN is|VBZ calculated|VBN and|CC how|WRB derivatives|NNS based|VBN on|IN it|PRP are|VBP traded|VBN banks|NNS might|MD try|VB to|TO set|VB benchmark|NN rates|NNS and|CC trade|NN contracts|NNS in|IN another|DT global|JJ financial|JJ center|NN where|WRB there|EX is|VBZ no|DT such|JJ oversight|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banks|NNS dont|VBP like|IN to|TO give|VB up|IN information|NN </s>|S_END
+<s>|S_START they|PRP make|VBP money|NN when|WRB things|NNS are|VBP opaque|JJ said|VBN andrew|NN ang|NN professor|NN of|IN finance|NN and|CC economics|NNS at|IN columbia|NN university|NN </s>|S_END
+<s>|S_START they|PRP currently|RB have|VBP an|DT information|NN advantage|NN and|CC thats|NNS very|RB valuable|JJ to|TO them|PRP </s>|S_END
+<s>|S_START when|WRB you|PRP move|VBP to|TO a|DT system|NN that|WDT is|VBZ more|RBR transparent|JJ they|PRP lose|VBP that|IN advantage|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

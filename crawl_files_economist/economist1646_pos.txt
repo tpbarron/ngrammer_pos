@@ -1,0 +1,243 @@
+<p>|P_START
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT new|JJ force|NN is|VBZ emerging|VBG in|IN asian|JJ politics|NNS the|DT nonpolitician—or|JJ at|IN least|JJS the|DT politician|NN posing|VBG as|IN such|JJ </s>|S_END
+<s>|S_START in|IN south|NN korea|NN the|DT campaign|NN for|IN the|DT presidential|JJ election|NN in|IN december|NN has|VBZ been|VBN shaken|VBN up|RP by|IN the|DT new|JJ candidacy|NN of|IN an|DT independent|JJ ahn|NN chulsoo|NN a|DT former|JJ doctor|NN turned|VBD antivirussoftware|NN tycoon|NN </s>|S_END
+<s>|S_START in|IN japan|NN the|DT new|JJ japan|NN restoration|NN party|NN jrp|NN founded|VBD by|IN toru|NN hashimoto|IN the|DT 43yearold|JJ son|NN of|IN a|DT smalltime|NN gangster|NN who|WP has|VBZ risen|VBN to|TO be|VB mayor|NN of|IN osaka|NN scores|NNS higher|JJR in|IN some|DT opinion|NN polls|NNS than|IN the|DT ruling|NN democratic|JJ party|NN of|IN japan|NN dpj|NN </s>|S_END
+<s>|S_START in|IN jakarta|NN joko|NN widodo|NN known|VBN as|IN jokowi|NN who|WP ran|VBD a|DT furniture|NN business|NN before|IN he|PRP became|VBD mayor|NN of|IN solo|NN in|IN central|JJ java|NN is|VBZ certain|JJ to|TO have|VB defeated|VBN the|DT ruling|NN party’s|VBZ incumbent|NN in|IN the|DT september|NN 20th|CD election|NN for|IN governor|NN of|IN jakarta|NN official|NN results|NNS are|VBP expected|VBN soon|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN pakistan|NN the|DT most|JJS talkedabout|IN candidate|NN in|IN parliamentary|JJ elections|NNS due|JJ in|IN the|DT next|JJ six|CD months|NNS is|VBZ imran|VBN khan|NN a|DT former|JJ cricketer|NN </s>|S_END
+<s>|S_START outh|NN asia|NN has|VBZ seen|VBN many|JJ film|NN stars|NNS and|CC sportsmen|NNS trade|VBP their|PRP$ popularity|NN for|IN vote|NN </s>|S_END
+<s>|S_START but|CC mr|PRP$ khan|NN unlike|IN them|PRP and|CC like|IN mr|NN ahn|NN mr|NN hashimoto|NN and|CC jokowi|NN presents|NNS himself|PRP as|IN an|DT outsider|NN campaigning|NN for|IN a|DT new|JJ sort|NN of|IN politic|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START elsewhere|RB some|DT outsiders|NNS are|VBP transforming|VBG politics|NNS without|IN even|RB running|VBG for|IN election|NN </s>|S_END
+<s>|S_START in|IN india|NN the|DT anticorruption|NN demonstrations|NNS and|CC hungerstrikes|VBZ led|VBN by|IN anna|NN hazare|NN for|IN a|DT while|NN dictated|VBN the|DT terms|NNS of|IN the|DT national|JJ political|JJ debate|NN </s>|S_END
+<s>|S_START imilarly|RB in|IN malaysia|NN the|DT government|NN has|VBZ at|IN times|NNS seemed|VBD more|JJR worried|VBN by|IN bersih|NN a|DT campaign|NN for|IN electoral|JJ reform|NN led|VBN by|IN ambiga|NN sreenevasan|NN a|DT lawyer|NN than|IN by|IN the|DT formal|JJ opposition|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START three|CD factors|NNS unite|JJ these|DT very|JJ different|JJ insurgencie|NN </s>|S_END
+<s>|S_START the|DT first|JJ is|VBZ the|DT failure|NN of|IN seemingly|RB closed|VBN and|CC often|RB dynastic|JJ political|JJ leaderships|NNS to|TO renew|VB themselve|JJ </s>|S_END
+<s>|S_START indonesia’s|NNS most|RBS recent|JJ presidential|JJ election|NN was|VBD in|IN 2009|CD more|JJR than|IN a|DT decade|NN after|IN the|DT end|NN of|IN the|DT suharto|NN dictatorship|NN </s>|S_END
+<s>|S_START but|CC among|IN the|DT candidates|NNS were|VBD the|DT daughter|NN of|IN the|DT president|NN who|WP suharto|RB ousted|VBD in|IN 1965|CD suharto’s|NNS former|JJ soninlaw|NN and|CC two|CD other|JJ generals|NNS from|IN his|PRP$ time|NN including|VBG the|DT victorious|JJ incumbent|NN susilo|NN bambang|NN yudhoyono|NN </s>|S_END
+<s>|S_START pakistan’s|NNS two|CD big|JJ parties|NNS are|VBP familyrun|VBN conglomerate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN south|NN korea|NN park|NN geunhye|NN the|DT ruling|NN party’s|VBZ presidential|JJ candidate|NN is|VBZ the|DT daughter|NN of|IN park|NN chunghee|NN who|WP seized|VBN power|NN in|IN a|DT coup|NN in|IN 1961|CD and|CC ruled|VBD until|IN his|PRP$ assassination|NN in|IN 1979|CD </s>|S_END
+<s>|S_START this|DT week|NN ms|VBZ park|NN apologised|VBN for|IN abuses|NNS during|IN his|PRP$ rule|NN which|WDT was|VBD marked|VBN by|IN spectacular|JJ economic|JJ advance|NN but|CC fierce|NN political|JJ repression|NN </s>|S_END
+<s>|S_START facing|VBG a|DT tough|JJ challenge|NN from|IN both|DT mr|NN ahn|NN and|CC the|DT opposition|NN candidate|NN moon|NN jaein|NN ms|NNS park|VBP took|NN the|DT awkward|NN step|NN especially|RB in|IN a|DT confucian|JJ society|NN of|IN repudiating|VBG her|PRP$ own|JJ father|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT second|JJ common|JJ factor|NN is|VBZ rage|NN against|IN corruption|NN </s>|S_END
+<s>|S_START in|IN solo|NN jokowi|NN was|VBD famous|JJ for|IN mundane|NN but|CC effective|JJ schemes|NNS for|IN curbing|VBG graft|NN such|JJ as|IN “onestop|JJ shops”|NN for|IN business|NN permits|NNS where|WRB uniformed|VBN civil|JJ servants|NNS conduct|VBP their|PRP$ business|NN in|IN full|JJ view|NN of|IN the|DT public|NN </s>|S_END
+<s>|S_START this|DT replaced|VBN an|DT expensive|JJ paper|NN trail|NN through|IN murky|JJ office|NN </s>|S_END
+<s>|S_START imran|NN khan|VBD promises|NNS to|TO end|VB “all|JJ major|JJ corruption”|NN within|IN 90|CD days|NNS of|IN taking|VBG office|NN </s>|S_END
+<s>|S_START outh|NN korea’s|NNS politicians|NNS are|VBP widely|RB seen|VBN as|IN in|IN the|DT pockets|NNS of|IN the|DT chaebol|NN the|DT big|JJ conglomerate|NN </s>|S_END
+<s>|S_START japan’s|NNS stagger|VBP from|IN one|CD partyfinance|NN scandal|NN to|TO another|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START third|JJ these|DT are|VBP insurrections|NNS of|IN the|DT socialmedia|NN generation|NN </s>|S_END
+<s>|S_START their|PRP$ typical|JJ activist|NN is|VBZ young|JJ urban|NN educated|VBD and|CC has|VBZ hundreds|NNS of|IN facebook|NN friend|NN </s>|S_END
+<s>|S_START the|DT internet|NN and|CC mobile|JJ technology|NN enable|JJ nonpoliticians|NNS to|TO do|VB without|IN big|JJ party|NN organisations|NNS to|TO spread|VB the|DT word|NN </s>|S_END
+<s>|S_START and|CC in|IN politics|NNS as|IN with|IN funny|JJ clips|NNS on|IN youtube|NN new|JJ enthusiasms|NNS can|MD spread|VB like|IN wildfire|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START broadly|RB the|DT advent|NN of|IN all|DT these|DT upstarts|NNS is|VBZ to|TO be|VB welcomed|VBN </s>|S_END
+<s>|S_START mr|NN khan|VBD and|CC mr|NN ahn|NN have|VBP excited|VBN young|JJ people|NNS cynical|JJ about|IN politic|JJ </s>|S_END
+<s>|S_START in|IN jakarta|NN jokowi|NN already|RB has|VBZ one|CD hugely|RB positive|JJ achievement|NN to|TO his|PRP$ name|NN </s>|S_END
+<s>|S_START his|PRP$ runningmate|NN for|IN vicegovernor|NN basuki|NN tjahja|NN purnama|NN known|VBN as|IN ahok|NN is|VBZ an|DT ethnicchinese|JJ christian|JJ </s>|S_END
+<s>|S_START conventional|JJ wisdom|NN had|VBD it|PRP that|IN such|JJ a|DT man|NN could|MD not|RB win|VB an|DT election|NN in|IN indonesia|NN the|DT world’s|NNP largest|JJS muslimmajority|NN country|NN </s>|S_END
+<s>|S_START his|PRP$ opponent’s|JJ campaign|NN muttered|VBD about|IN “infidels”|JJ </s>|S_END
+<s>|S_START o|NN the|DT victory|NN for|IN the|DT jokowi|NN ticket|NN was|VBD also|RB a|DT triumph|NN for|IN tolerance|NN and|CC civilised|VBD value|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN hashimoto|IN is|VBZ harder|JJR to|TO like|VB </s>|S_END
+<s>|S_START he|PRP may|MD have|VB admirable|JJ ideas|NNS for|IN reform|NN but|CC his|PRP$ rightwing|NN populism|NN plays|NNS down|IN the|DT cruel|NN abuses|VBZ of|IN japan’s|JJ imperial|JJ past|NN </s>|S_END
+<s>|S_START at|IN a|DT time|NN of|IN tension|NN with|IN china|NN and|CC south|NN korea|NN this|DT is|VBZ dangerous|JJ as|IN well|RB as|IN wrong|JJ </s>|S_END
+<s>|S_START but|CC on|IN a|DT political|JJ stage|NN peopled|VBD by|IN interchangeable|JJ nonentities|NNS mr|VBP hashimoto’s|JJ entry|NN has|VBZ had|VBN a|DT galvanising|NN effect|NN </s>|S_END
+<s>|S_START he|PRP deserves|VBZ credit|NN for|IN showing|NN that|WDT political|JJ enthusiasm|NN is|VBZ still|RB possible|JJ in|IN japan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT farther|NN they|PRP are|VBP from|IN power|NN the|DT more|RBR attractive|JJ insurgents|NNS tend|VBP to|TO look|VB </s>|S_END
+<s>|S_START as|IN they|PRP approach|VBP office|NN they|PRP are|VBP forced|VBN into|IN sometimes|RB grubby|JJ compromises|NNS with|IN the|DT forces|NNS of|IN the|DT establishment|NN they|PRP purport|VBP to|TO despise|VB </s>|S_END
+<s>|S_START this|DT is|VBZ a|DT particular|JJ problem|NN for|IN mr|NN khan|NN and|CC for|IN jokowi|NN if|IN he|PRP aspires|VBZ to|TO national|JJ office|NN and|CC many|JJ hope|NN he|PRP doe|VBP </s>|S_END
+<s>|S_START in|IN indonesia|NN and|CC pakistan|NN national|JJ electoral|JJ success|NN depends|NNS on|IN getting|VBG out|IN the|DT vote|NN in|IN the|DT countryside|NN </s>|S_END
+<s>|S_START and|CC that|DT requires|VBZ oldstyle|NN politicians|NNS with|IN local|JJ clout|IN and|CC organisation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT outsider’s|JJ dilemma|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN khan|VBD has|VBZ recruited|VBN just|RB such|JJ supporters|NNS from|IN the|DT big|JJ partie|NN </s>|S_END
+<s>|S_START he|PRP also|RB suffers|VBZ from|IN the|DT widespread|JJ suspicion|NN that|WDT he|PRP has|VBZ the|DT backing|NN of|IN the|DT “establishment”|JJ the|DT euphemism|NN which|WDT many|JJ pakistanis|NNS use|VBP for|IN the|DT army|NN and|CC intelligence|NN service|NN </s>|S_END
+<s>|S_START even|RB if|IN untrue|JJ this|DT is|VBZ understandable|JJ </s>|S_END
+<s>|S_START the|DT army|NN has|VBZ a|DT history|NN of|IN backing|NN politicians|NNS who|WP might|MD sap|VB support|NN from|IN the|DT two|CD big|JJ civilian|JJ partie|NN </s>|S_END
+<s>|S_START in|IN jakarta|NN jokowi|NN was|VBD backed|VBN by|IN two|CD mainstream|NN partie|NN </s>|S_END
+<s>|S_START mr|NN hashimoto’s|NNS jrp|VBP has|VBZ defectors|NNS from|IN the|DT dpj|NN and|CC other|JJ </s>|S_END
+<s>|S_START in|IN south|NN korea|NN mr|NN ahn|NN risks|NNS splitting|VBG the|DT antipark|NN vote|NN with|IN mr|NN moon|NN </s>|S_END
+<s>|S_START to|TO defeat|VB her|PRP$ he|PRP may|MD either|VB have|VB to|TO withdraw|VB and|CC play|VB kingmaker|NN endorsing|VBG mr|NN moon|NN or|CC become|VB the|DT opposition’s|NNP official|NN candidate|NN </s>|S_END
+<s>|S_START to|TO fight|VBD political|JJ monsters|NNS even|RB maverick|VB heroes|NNS may|MD have|VB to|TO become|VB monsters|NNS themselves|PRP alienating|VBG some|DT of|IN the|DT very|JJ idealists|NNS they|PRP hoped|VBD to|TO represent|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogsbanyan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN fighting|VBG monster|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN partners|NNS and|CC rival|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN the|DT leader|NN vanishe|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN too|RB small|JJ an|DT ocean|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN snow|VBD dragon|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN nuclear|NN profusion|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN china|NN olympic|NN victim|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN sitting|VBG duck|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN burst|VBD balloon|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN the|DT idea|NN of|IN myanmar|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN the|DT last|JJ frontier|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN presidential|JJ sweet|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN into|IN the|DT void|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN the|DT hollow|NN men|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN smoke|NN without|IN fire|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN more|JJR fun|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN trading|NN strategie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN at|IN sea|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN a|DT fly|RB in|IN the|DT ointment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN mischief|NN minister|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN a|DT slightly|RB more|RBR muscular|JJ japan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN a|DT rather|RB flimsy|JJ firewal|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN rewriting|VBG the|DT rule|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN nobody’s|NNS satellite|VBP state|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN pakistan’s|NNS saviour|PRP$ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN the|DT buddha|NN and|CC the|DT tigre|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN bleak|VBD house|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN old|VBD king|VBG coal|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN wolf|NN in|IN pig’s|NNP clothing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN my|PRP$ brothers’|NN keeper|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN the|DT devil|NN in|IN the|DT deep|NN blue|NN detai|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN having|VBG it|PRP both|DT way|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN a|DT game|NN of|IN chicken|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN let|VBD them|PRP eat|JJ yellowcake|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN the|DT fukushima|NN black|NN box|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banyan|NN the|DT fukushima|NN black|NN box|NN </s>|S_END
+</p>|P_END
+

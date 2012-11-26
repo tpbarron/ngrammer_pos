@@ -1,0 +1,88 @@
+<p>|P_START
+<s>|S_START pick|NN out|IN the|DT best|JJS pocketsized|VBN battery|NN charger|NN for|IN how|WRB you|PRP use|VBP your|PRP$ device|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START money|NN magazine|NN fact|NN of|IN life|NN the|DT more|RBR you|PRP use|VBP a|DT gadget|NN the|DT more|RBR likely|JJ its|PRP$ battery|NN will|MD be|VB dead|VBN just|RB when|WRB you|PRP need|VBP it|PRP most|JJS </s>|S_END
+<s>|S_START if|IN youre|NN tired|VBN of|IN hunting|NN for|IN outlets|NNS try|VBP a|DT pocketsize|NN battery|NN charger|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START money|NN put|VBD three|CD through|IN their|PRP$ paces|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN gadgetheads|NNS only|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START iogear|NN high|JJ capacity|NN mobile|NN power|NN station|NN power|NN rating|NN 6½|CD stars|NNS weight|VBD 72|CD ounces|NNS price|NN $|$ 48|CD how|WRB it|PRP works|VBZ if|IN the|DT inside|NN of|IN your|PRP$ bag|NN looks|NNS like|IN a|DT best|JJS buy|NN you|PRP may|MD be|VB willing|JJ to|TO carry|VB extra|JJ weight|NN to|TO get|VB a|DT charger|JJR that|IN powers|NNS multiple|VBP devices|NNS </s>|S_END
+<s>|S_START the|DT power|NN station|NN has|VBZ dual|JJ usb|NN outputs|NNS one|CD for|IN phones|NNS and|CC one|CD for|IN tablets|NNS </s>|S_END
+<s>|S_START its|PRP$ bulkier|NN than|IN the|DT others|NNS but|CC it|PRP fully|RB charged|VBD an|DT ipad|NN 2|CD and|CC brought|VBD an|DT iphone|NN back|RB to|TO 100|CD four|CD times|NNS over|IN </s>|S_END
+<s>|S_START it|PRP can|MD also|RB power|NN up|RP most|JJS usb|NN or|CC microusb|NN devices|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN everyone|NN best|JJS overall|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START innergie|NN pocketcell|VBD power|NN rating|NN 3|CD stars|NNS weight|VBD 26|CD ounces|NNS price|NN $|$ 68|CD how|WRB it|PRP works|VBZ the|DT lightest|JJS and|CC most|JJS totable|JJ of|IN the|DT bunch|NN the|DT slicklooking|NN pocketcell|NN took|VBD an|DT iphone|NN battery|NN from|IN dead|JJ to|TO 100|CD charged|VBN with|IN juice|NN left|VBN over|RP </s>|S_END
+<s>|S_START it|PRP can|MD fully|RB charge|VB an|DT ereader|NN and|CC gave|VBD the|DT ipad|NN an|DT extra|JJ four|CD hours|NNS of|IN life|NN </s>|S_END
+<s>|S_START the|DT battery|NN also|RB spares|VBZ users|NNS from|IN sorting|VBG through|IN a|DT jumble|JJ of|IN cords|NNS thanks|NNS to|TO its|PRP$ threeinone|NN cable|JJ with|IN foldout|IN connectors|NNS for|IN apple|NN miniusb|NN and|CC microusb|NN devices|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD top|JJ 4|CD compact|NN portable|JJ scanners|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN wirephobes|NNS only|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START duracell|NN 24hour|CD power|NN system|NN for|IN iphone|NN power|NN rating|NN 1½|CD stars|NNS weight|VBD 32|CD ounces|NNS price|NN $|$ 91|CD how|WRB it|PRP works|VBZ hate|JJ keeping|NN tabs|NNS on|IN multiple|NN device|NN chargers|NNS </s>|S_END
+<s>|S_START this|DT twoinone|NN system|NN combines|NNS a|DT portable|JJ battery|NN with|IN a|DT home|NN charging|VBG mat|NN </s>|S_END
+<s>|S_START the|DT mat|NN can|MD wirelessly|RB juice|VB an|DT iphone|NN the|DT phone|NN must|MD be|VB in|IN the|DT included|JJ case|NN or|CC revive|VB the|DT portable|JJ battery|NN casefree|NN </s>|S_END
+<s>|S_START the|DT mobile|JJ battery|NN itself|PRP delivers|VBZ little|JJ bang|NN for|IN your|PRP$ buck|NN though|IN it|PRP left|VBD the|DT iphone|NN just|RB short|JJ of|IN a|DT full|JJ charge|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START power|NN rating|NN each|DT star|NN equals|NNS five|CD hours|NNS added|VBD talk|NN time|NN </s>|S_END
+<s>|S_START power|NN ratings|NNS determined|VBD by|IN money|NN tests|NNS using|VBG an|DT iphone|NN 4s|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START battery|NN boosters|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START go|IN into|IN your|PRP$ phones|NNS settings|NNS and|CC make|VB these|DT tweaks|NNS to|TO ward|VB off|RP the|DT red|NN icon|NN of|IN impending|VBG doom|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dim|NN the|DT lights|NNS </s>|S_END
+<s>|S_START dial|JJ down|IN screen|NN brightness|NN </s>|S_END
+<s>|S_START if|IN available|JJ enable|JJ the|DT autobrightness|NN feature|NN which|WDT adjusts|NNS based|VBN on|IN ambient|NN light|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START turn|NN off|IN extras|NNS </s>|S_END
+<s>|S_START disable|JJ wifi|NN bluetooth|NN and|CC gps|NNS features|NNS when|WRB youre|NN not|RB using|VBG them|PRP </s>|S_END
+<s>|S_START and|CC dont|VBD use|NN powerdraining|NN animated|VBD wallpapers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pare|NN down|IN popups|NNS </s>|S_END
+<s>|S_START limit|NN push|NN notifications|NNS those|DT annoying|VBG messages|NNS that|WDT show|NN up|RP even|RB when|WRB youre|NN not|RB using|VBG an|DT app|NN to|TO essentials|NNS like|IN texts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START have|VBP an|DT emergency|NN plan|NN </s>|S_END
+<s>|S_START switching|VBG from|IN 4g|CD to|TO a|DT slower|NN 3g|CD cellular|JJ network|NN can|MD eke|VB a|DT few|JJ more|RBR minutes|NNS of|IN life|NN out|IN of|IN a|DT dying|NN battery|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START send|NN the|DT help|NN desk|NN your|PRP$ questions|NNS about|IN buying|VBG tech|NN gadgets|NNS </s>|S_END
+</p>|P_END
+

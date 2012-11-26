@@ -1,0 +1,93 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT economy|NN added|VBD 103000|CD new|JJ jobs|NNS in|IN september|NN </s>|S_END
+<s>|S_START thats|NNS great|VBD news|NN for|IN the|DT obama|NN campaign|NN right|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START not|RB exactly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START heres|NNS the|DT problem|NN 103000|CD new|JJ jobs|NNS a|DT month|NN is|VBZ still|RB about|IN 50000|CD jobs|NNS off|IN the|DT pace|NN economists|NNS say|VBP is|VBZ needed|VBN just|RB to|TO keep|VB pace|NN with|IN population|NN growth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT unemployment|NN rate|NN stands|VBZ at|IN 91|CD </s>|S_END
+<s>|S_START its|PRP$ been|VBN half|NN a|DT year|NN since|IN the|DT economy|NN added|VBD more|JJR than|IN 150000|CD jobs|NNS in|IN any|DT one|CD month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC the|DT problems|NNS driving|VBG unemployment|NN slow|NN growth|NN and|CC a|DT crippled|JJ housing|NN market|NN remain|NN a|DT policy|NN puzzle|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ a|DT trend|NN that|WDT should|MD be|VB setting|VBG off|RP alarm|NN bells|NNS at|IN obamas|NNS 2012|CD campaign|NN headquarters|NNS </s>|S_END
+<s>|S_START after|IN one|CD full|JJ term|NN it|PRP will|MD be|VB difficult|JJ to|TO blame|VB the|DT previous|JJ republican|NN regime|NN for|IN the|DT lackluster|NN economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START right|RB now|RB we|PRP are|VBP the|DT ones|NNS in|IN charge|NN vice|NN president|NN joe|NN biden|NN said|VBD in|IN september|NN </s>|S_END
+<s>|S_START and|CC the|DT economy|NN has|VBZ gotten|VBN better|JJR </s>|S_END
+<s>|S_START but|CC it|PRP hasnt|VBD gotten|VBN good|JJ enough|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START barring|VBG an|DT economic|JJ miracle|NN obama|NN will|MD likely|RB enter|VB the|DT heart|NN of|IN the|DT campaign|NN season|NN with|IN unemployment|NN north|NN of|IN 8|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT congressional|JJ budget|NN office|NN estimates|NNS the|DT unemployment|NN rate|NN will|MD fall|VB to|TO 89|CD in|IN the|DT fourth|JJ quarter|NN of|IN 2011|CD and|CC to|TO 85|CD in|IN the|DT fourth|JJ quarter|NN of|IN 2012|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT anecdotal|JJ evidence|NN is|VBZ lined|VBN up|RP firmly|RB against|IN obama|NN </s>|S_END
+<s>|S_START no|DT president|NN since|IN franklin|NN d|NN roosevelt|VBD has|VBZ won|VBN reelection|NN with|IN an|DT unemployment|NN rate|NN over|IN 72|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC thats|NNS just|RB one|CD data|NNS point|NN </s>|S_END
+<s>|S_START according|VBG to|TO political|JJ scientists|NNS and|CC election|NN watchers|NNS a|DT more|RBR useful|JJ predictor|NN of|IN electoral|JJ success|NN is|VBZ how|WRB the|DT public|NN feels|VBZ about|IN the|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN other|JJ words|NNS a|DT series|NN of|IN positive|JJ reports|NNS and|CC robust|JJ economic|JJ expansion|NN in|IN the|DT months|NNS leading|VBG up|RP to|TO the|DT election|NN might|MD give|VB obama|NN the|DT wiggle|NN room|NN he|PRP needs|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT economy|NN will|MD have|VB to|TO actually|RB improve|VB </s>|S_END
+<s>|S_START right|RB now|RB the|DT public|NN is|VBZ downright|VBN pessimistic|JJ </s>|S_END
+<s>|S_START a|DT recent|JJ cnnorc|NN international|JJ poll|NN shows|VBZ 90|CD of|IN those|DT polled|VBN believe|VBP current|JJ economic|JJ conditions|NNS are|VBP poor|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START setting|VBG aside|NN public|JJ sentiment|NN there|EX is|VBZ also|RB a|DT very|RB real|JJ threat|NN that|WDT economic|JJ conditions|NNS could|MD deteriorate|VB further|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START according|VBG to|TO a|DT forecast|NN from|IN the|DT economic|JJ cycle|NN research|NN institute|NN the|DT economy|NN is|VBZ staring|VBG down|IN another|DT recession|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ecri|NN produces|VBZ widelyfollowed|VBN leading|VBG indicators|NNS that|WDT predict|VBP when|WRB the|DT economy|NN is|VBZ moving|VBG between|IN recession|NN and|CC expansion|NN and|CC all|DT those|DT indicators|NNS are|VBP now|RB pointing|VBG to|TO a|DT new|JJ economic|JJ downturn|NN in|IN the|DT immediate|JJ future|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START congress|NN could|MD lend|VB the|DT president|NN a|DT hand|NN and|CC pass|NN measures|NNS designed|VBN to|TO stimulate|VB the|DT economy|NN </s>|S_END
+<s>|S_START but|CC that|DT seems|VBZ unlikely|RB </s>|S_END
+<s>|S_START obamas|NNS stimulus|VBP proposal|NN the|DT american|JJ jobs|NNS act|NN is|VBZ all|DT but|CC dead|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT house|NN will|MD not|RB hold|VB a|DT vote|NN on|IN the|DT bill|NN </s>|S_END
+<s>|S_START in|IN the|DT senate|NN it|PRP appears|VBZ democrats|NNS are|VBP having|VBG trouble|NN getting|VBG enough|RB votes|VBZ to|TO muscle|VB the|DT measure|NN through|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT inability|NN of|IN congress|NN to|TO pass|VB a|DT bill|NN any|DT bill|NN might|MD actually|RB become|VB an|DT obama|NN campaign|NN theme|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START asked|VBD during|IN thursdays|NNS news|NN conference|NN if|IN he|PRP was|VBD trying|VBG to|TO run|VB against|IN a|DT donothing|NN congress|NN obama|NN said|VBD if|IN congress|NN does|VBZ something|NN then|RB i|PRP cant|VBP run|VBN against|IN a|DT donothing|NN congress|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

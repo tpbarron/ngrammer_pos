@@ -1,0 +1,30 @@
+<p>|P_START
+<s>|S_START nokia|NN contributed|VBD a|DT quarter|NN of|IN finnish|JJ growth|NN from|IN 1998|CD to|TO 2007|CD according|VBG to|TO figures|NNS from|IN the|DT research|NN institute|NN of|IN the|DT finnish|JJ economy|NN etla|NN </s>|S_END
+<s>|S_START over|IN the|DT same|JJ period|NN the|DT mobilephone|NN manufacturer’s|VBZ spending|NN on|IN research|NN and|CC development|NN made|VBD up|RP 30|CD of|IN the|DT country’s|JJ total|NN and|CC it|PRP generated|VBD nearly|RB a|DT fifth|JJ of|IN finland’s|JJ export|NN </s>|S_END
+<s>|S_START in|IN the|DT decade|NN to|TO 2007|CD nokia|NN was|VBD sometimes|RB paying|VBG as|IN much|JJ as|IN 23|CD of|IN all|DT finnish|JJ corporation|NN tax|NN </s>|S_END
+<s>|S_START no|DT wonder|NN that|IN a|DT decline|NN in|IN its|PRP$ fortunes—nokia’s|JJ share|NN price|NN has|VBZ fallen|VBN by|IN 90|CD since|IN 2007|CD thanks|NNS partly|RB to|TO apple’s|NNS ascent—has|JJ clouded|VBN finland’s|-NONE- outlook|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START are|VBP any|DT other|JJ economies|NNS so|IN reliant|JJ on|IN one|CD company|NN </s>|S_END
+<s>|S_START the|DT researchers|NNS at|IN etla|NN calculate|NN nokia’s|NNS valueadded|VBD to|TO work|VB out|RP its|PRP$ importance|NN to|TO finland|VB but|CC such|JJ data|NNS are|VBP not|RB widely|RB available|JJ </s>|S_END
+<s>|S_START a|DT look|NN at|IN firms’|NN sales|NNS as|IN a|DT percentage|NN of|IN gdp|NN see|NN table|NN offers|NNS a|DT cruder|NN indication|NN of|IN clout|NN </s>|S_END
+<s>|S_START we|PRP used|VBD the|DT dow|NN jones|NNS global|JJ index|NN to|TO identify|VB firms|NNS whose|WP$ revenues|NNS ranked|VBD highest|JJS in|IN the|DT country|NN of|IN their|PRP$ listing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START firms|NNS like|IN arcelormittal|JJ essar|NN energy|NN and|CC china|NN mobile|NN make|NN the|DT top|JJ ten|NN because|IN of|IN their|PRP$ choice|NN of|IN domicile|NN their|PRP$ economic|JJ activity|NN mainly|RB takes|VBZ place|NN elsewhere|RB </s>|S_END
+<s>|S_START oilandgas|NNS firms|NNS feature|VBP heavily|RB although|IN that|DT may|MD simply|RB show|VB that|IN certain|JJ economies|NNS are|VBP dependent|JJ on|IN a|DT certain|JJ type|NN of|IN activity|NN rather|RB than|IN a|DT specific|JJ firm|NN </s>|S_END
+<s>|S_START lower|JJR down|IN the|DT list|NN the|DT presence|NN of|IN sands|NNS china|VBP a|DT casino|NN developer|NN and|CC operator|NN whose|WP$ sales|NNS are|VBP 13|CD of|IN macao’s|JJ gdp|NN reflects|VBZ the|DT importance|NN of|IN gambling|NN to|TO the|DT territory|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START trip|NN these|DT sorts|NNS of|IN firms|NNS from|IN the|DT list|NN and|CC only|RB one|CD resembles|NNS nokia|IN taiwan’s|JJ hon|NN hai|NN an|DT electronics|NNS manufacturer|NN </s>|S_END
+<s>|S_START yet|RB nokia|VBP made|VBN 27|CD of|IN finnish|JJ patent|NN applications|NNS last|JJ year|NN the|DT corresponding|NN figure|NN for|IN hon|NN hai|NN was|VBD 8|CD </s>|S_END
+<s>|S_START although|IN numbers|NNS are|VBP falling|VBG finland|NN is|VBZ home|NN to|TO the|DT greatest|JJS number|NN of|IN nokia|NN employees|NNS hon|VBP hai’s|JJ staff|NN is|VBZ mostly|RB in|IN china|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ a|DT similar|JJ story|NN with|IN other|JJ firm|NN </s>|S_END
+<s>|S_START ales|NNS of|IN nestlé|JJ a|DT consumergoods|NNS company|NN weigh|NN in|IN at|IN 15|CD of|IN swiss|JJ gdp|NN but|CC its|PRP$ share|NN of|IN swiss|NN jobs|NNS is|VBZ punier|JJR than|IN nokia’s|JJ in|IN finland|NN </s>|S_END
+<s>|S_START amsung|NN whose|VBD revenues|NNS are|VBP twice|NN nokia’s|NNS has|VBZ half|DT its|PRP$ clout|NN as|IN a|DT share|NN of|IN gdp|NN south|NN korea’s|NNS economy|NN is|VBZ more|RBR diversified|JJ </s>|S_END
+<s>|S_START the|DT importance|NN of|IN nokia|NN to|TO finland|VB looks|NNS like|IN a|DT oneoff|NN </s>|S_END
+</p>|P_END
+

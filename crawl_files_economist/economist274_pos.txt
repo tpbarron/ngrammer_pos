@@ -1,0 +1,140 @@
+<p>|P_START
+<s>|S_START there|EX was|VBD something|NN odd|NN about|IN the|DT black|JJ car|NN at|IN the|DT junction|NN of|IN sutter|NN and|CC hyde|VB street|NN </s>|S_END
+<s>|S_START it|PRP was|VBD an|DT ordinary|JJ saloon|NN </s>|S_END
+<s>|S_START its|PRP$ windows|NNS were|VBD clear|JJ and|CC it|PRP looked|VBD in|IN good|JJ condition|NN </s>|S_END
+<s>|S_START and|CC yet|RB as|IN the|DT lights|NNS changed|VBD and|CC the|DT car|NN pulled|VBD away|RB into|IN the|DT bright|JJ san|NN francisco|NN morning|NN a|DT question|NN remained|VBD </s>|S_END
+<s>|S_START why|WRB was|VBD it|PRP sporting|VBG a|DT luxuriant|JJ pink|NN moustache|NN at|IN its|PRP$ front|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT moustache|NN is|VBZ the|DT trade|NN mark|NN of|IN lyft|NN a|DT ridesharing|NN service|NN that|WDT began|VBD in|IN the|DT city|NN this|DT summer|NN </s>|S_END
+<s>|S_START its|PRP$ drivers|NNS are|VBP private|JJ individuals|NNS who|WP in|IN effect|NN rent|NN out|IN seats|NNS in|IN their|PRP$ cars|NNS for|IN a|DT few|JJ dollars|NNS a|DT time|NN </s>|S_END
+<s>|S_START lyft’s|NNS cut|VBD is|VBZ 20|CD </s>|S_END
+<s>|S_START it|PRP works|VBZ through|IN a|DT smartphone|NN app|NN </s>|S_END
+<s>|S_START when|WRB you|PRP register|VBP as|IN a|DT customer|NN you|PRP supply|RB your|PRP$ phone|NN number|NN and|CC creditcard|NN detail|NN </s>|S_END
+<s>|S_START when|WRB you|PRP want|VBP a|DT ride|NN you|PRP open|JJ the|DT app|NN and|CC see|VB a|DT map|NN with|IN the|DT locations|NNS of|IN the|DT nearest|JJS moustachioed|VBN motor|NN </s>|S_END
+<s>|S_START you|PRP tap|VBP to|TO request|NN a|DT ride|NN and|CC the|DT app|NN shows|VBZ you|PRP your|PRP$ driver’s|NNS name|VBD his|PRP$ rating|NN by|IN past|JJ passengers|NNS out|IN of|IN five|CD stars|NNS and|CC photos|NNS of|IN him|PRP and|CC his|PRP$ car|NN </s>|S_END
+<s>|S_START he|PRP will|MD probably|RB greet|VB you|PRP with|IN a|DT friendly|JJ fistbump|NN </s>|S_END
+<s>|S_START afterwards|NNS you|PRP rate|VBP him|PRP and|CC pay|VB through|IN the|DT app|NN </s>|S_END
+<s>|S_START he|PRP rates|VBZ you|PRP too|RB so|RB if|IN you|PRP are|VBP poor|JJ company|NN you|PRP may|MD not|RB get|VB another|DT lyft|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START o|NN that|IN lyft|NN cars|NNS can|MD avoid|VB being|VBG classed|VBN as|IN taxis|NNS with|IN all|DT the|DT attendant|JJ regulation|NN technically|RB the|DT drivers|NNS do|VBP not|RB charge|VB “fares”|JJ but|CC receive|JJ “donations”|NN from|IN their|PRP$ passenger|NN </s>|S_END
+<s>|S_START you|PRP may|MD consider|VB that|DT distinction|NN too|RB fine|NN to|TO survive|VB legal|JJ scrutiny|NN a|DT regulator|NN has|VBZ sent|VBN lyft|NN and|CC two|CD rivals|NNS sidecar|NN and|CC tickengo|VB “cease|JJ and|CC desist”|JJ letter|NN </s>|S_END
+<s>|S_START but|CC john|VBP zimmer|NN chief|NN executive|NN of|IN zimride|JJ the|DT firm|NN that|WDT runs|VBZ lyft|NN seems|VBZ confident|JJ that|IN it|PRP will|MD </s>|S_END
+<s>|S_START mr|NN zimmer|NN explains|VBZ that|IN zimride|NN which|WDT also|RB runs|VBZ commuting|VBG and|CC intercity|NN car|NN pools|NNS is|VBZ named|VBN not|RB after|IN him|PRP but|CC after|IN zimbabwe|NN where|WRB his|PRP$ cofounder|NN logan|VBD green|JJ saw|NN people|NNS sharing|VBG minibuse|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START you|PRP might|MD also|RB ask|VB whether|IN people|NNS will|MD be|VB willing|JJ to|TO accept|VB lyfts|NNS from|IN strangers|NNS or|CC to|TO let|VB strangers|NNS into|IN their|PRP$ car|NN </s>|S_END
+<s>|S_START but|CC mr|PRP$ zimmer|NN says|VBZ the|DT rating|NN system|NN allows|VBZ both|DT sides|NNS to|TO establish|VB a|DT reputation|NN as|IN friendly|JJ and|CC trustworthy|JJ </s>|S_END
+<s>|S_START a|DT driver|NN averaging|VBG less|JJR than|IN 45|CD stars|NNS will|MD be|VB dropped|VBN </s>|S_END
+<s>|S_START the|DT company|NN vets|VBZ potential|JJ drivers|NNS carefully|RB requiring|VBG higher|JJR standards|NNS for|IN example|NN on|IN criminal|JJ records|NNS than|IN some|DT taxi|NN companie|NN </s>|S_END
+<s>|S_START lyft|NN has|VBZ also|RB arranged|VBD insurance|NN of|IN up|IN to|TO $|$ 1m|CD for|IN its|PRP$ driver|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ridesharers|NNS spied|VBD an|DT opportunity|NN partly|RB because|IN in|IN san|NN francisco|NN taxis|NNS can|MD be|VB hard|RB to|TO find|VB </s>|S_END
+<s>|S_START uber|NN which|WDT provides|VBZ black|VBP limousines|NNS at|IN the|DT tap|NN of|IN an|DT app|NN saw|NN a|DT similar|JJ gap|NN though|IN its|PRP$ cars|NNS are|VBP pricier|RBR and|CC has|VBZ since|IN rolled|VBN on|IN to|TO 16|CD other|JJ citie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT opportunity|NN would|MD not|RB exist|VB had|VBD the|DT physical|JJ and|CC digital|JJ worlds|NNS not|RB become|VB tightly|RB intertwined|VBN </s>|S_END
+<s>|S_START every|DT ride|NN using|VBG lyft|NN involves|NNS not|RB only|RB a|DT physical|JJ trip|NN but|CC also|RB several|JJ much|JJ longer|NN digital|NN journeys|NNS between|IN the|DT passenger’s|NNP and|CC the|DT driver’s|NNP smartphones|VBZ via|IN wifi|NN and|CC cellular|JJ basestations|NNS along|IN telecoms|NNS carriers’|-NONE- networks|VBZ and|CC through|IN switches|NNS and|CC routers|NNS to|TO and|CC from|IN the|DT servers|NNS of|IN lyft|NN as|IN well|RB as|IN ultimately|RB the|DT passenger’s|NNS the|DT driver’s|NNS and|CC zimride’s|JJ bank|NN </s>|S_END
+<s>|S_START but|CC it|PRP also|RB demonstrates|VBZ the|DT importance|NN of|IN physical|JJ location|NN to|TO today’s|NNP digital|NN realm|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ central|JJ to|TO services|NNS such|JJ as|IN lyft|NN connecting|VBG a|DT passenger|NN in|IN one|CD place|NN with|IN a|DT driver|NN in|IN another|DT so|RB that|IN both|DT can|MD travel|VB to|TO a|DT third|JJ </s>|S_END
+<s>|S_START geography|NN still|RB matter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START obviou|PRP </s>|S_END
+<s>|S_START not|RB necessarily|RB </s>|S_END
+<s>|S_START in|IN the|DT couple|NN of|IN decades|NNS since|IN the|DT internet|NN began|VBD to|TO expand|VB from|IN academic|JJ to|TO widespread|JJ public|JJ use|NN there|EX have|VBP been|VBN three|CD main|JJ ways|NNS of|IN thinking|VBG about|IN its|PRP$ relationship|NN with|IN the|DT physical|JJ realm|NN </s>|S_END
+<s>|S_START the|DT first|JJ which|WDT reached|VBN its|PRP$ peak|NN in|IN the|DT late|JJ 1990s|CD emphasised|VBN how|WRB the|DT digital|JJ world|NN would|MD reshape|VB the|DT real|JJ one|CD </s>|S_END
+<s>|S_START people|NNS everywhere|VBP would|MD have|VB access|NN to|TO the|DT same|JJ electronic|JJ libraries|NNS of|IN information|NN news|NN and|CC comment|NN </s>|S_END
+<s>|S_START many|JJ companies|NNS would|MD be|VB freer|NN to|TO choose|VB their|PRP$ location|NN as|IN better|JJR communications|NNS meant|VBP they|PRP would|MD no|RB longer|RBR need|VBN to|TO be|VB near|IN their|PRP$ suppliers|NNS or|CC customer|NN </s>|S_END
+<s>|S_START etting|VBG up|IN businesses|NNS would|MD become|VB easier|JJR as|IN would|MD the|DT outsourcing|NN of|IN services|NNS that|WDT could|MD be|VB supplied|VBN electronically|RB </s>|S_END
+<s>|S_START taff|NN could|MD work|VB just|RB as|IN well|RB at|IN home|NN as|IN in|IN expensive|JJ and|CC noisy|JJ offices|NNS communicating|VBG with|IN colleagues|NNS by|IN email|NN or|CC video|NN link|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT good|JJ deal|NN of|IN this|DT has|VBZ come|VBN to|TO pa|VB </s>|S_END
+<s>|S_START amazon|NN has|VBZ shifted|VBN bookbuying|VBG from|IN the|DT high|JJ street|NN to|TO the|DT computer|NN leaving|VBG many|JJ empty|NN shops|NNS in|IN its|PRP$ wake|NN now|RB it|PRP is|VBZ leading|VBG the|DT move|NN from|IN the|DT printed|VBN page|NN to|TO the|DT ereader|NN </s>|S_END
+<s>|S_START mechanical|JJ turk|NN a|DT division|NN of|IN amazon|NN offers|NNS companies|NNS “an|JJ ondemand|NN scalable|JJ workforce”|NN available|JJ around|IN the|DT clock|NN to|TO carry|VB out|RP online|NN tasks|NNS for|IN a|DT few|JJ cents|NNS a|DT time|NN </s>|S_END
+<s>|S_START today’s|NNS worker|VBP may|MD leave|VB the|DT office|NN physically|RB but|CC never|RB digitally|RB he|PRP is|VBZ attached|VBN to|TO it|PRP with|IN invisible|JJ tethers|NNS through|IN his|PRP$ smartphone|NN and|CC his|PRP$ tablet|NN </s>|S_END
+<s>|S_START he|PRP can|MD take|VB part|NN in|IN videoconferences|NNS so|RB realistic|JJ that|IN he|PRP might|MD be|VB in|IN the|DT same|JJ room|NN </s>|S_END
+<s>|S_START even|RB medical|JJ examinations|NNS can|MD be|VB carried|VBN out|RP online|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START geography|NN live|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN other|JJ respects|NNS however|RB reports|VBZ of|IN the|DT “death|JJ of|IN distance”|JJ the|DT title|NN of|IN a|DT 1995|CD special|JJ report|NN in|IN this|DT newspaper|NN have|VBP been|VBN much|RB exaggerated|VBN </s>|S_END
+<s>|S_START as|IN this|DT report|NN will|MD explain|VB many|JJ internet|NN startups|NNS head|NN for|IN san|NN francisco|NN new|JJ york|NN berlin|NN london|NN or|CC other|JJ hubs|NNS to|TO be|VB close|JJ to|TO likeminded|VBN people|NNS </s>|S_END
+<s>|S_START talk|NN of|IN the|DT “end|JJ of|IN geography”|JJ another|DT phrase|NN from|IN the|DT mid1990s|NNP is|VBZ about|IN as|RB convincing|VBG as|IN the|DT “end|JJ of|IN history”|JJ when|WRB the|DT digital|JJ presence|NN of|IN different|JJ places|NNS varies|NNS so|RB much|RB </s>|S_END
+<s>|S_START forecasts|NNS of|IN the|DT “death|JJ of|IN cities”|JJ have|VBP turned|VBN out|RP to|TO be|VB even|RB wider|JJR of|IN the|DT mark|NN over|IN the|DT next|JJ two|CD decades|NNS the|DT united|VBN nations|NNS expects|VBZ the|DT world’s|JJ urban|NN population|NN to|TO grow|VB by|IN 195000|CD a|DT day|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT second|JJ line|NN of|IN thought|NN puts|NNS digital|JJ and|CC physical|JJ life|NN in|IN separate|JJ sphere|NN </s>|S_END
+<s>|S_START internet|NN idealists|NNS declared|VBD cyberspace|NN to|TO be|VB independent|JJ of|IN governments|NNS of|IN “flesh|JJ and|CC steel”|JJ </s>|S_END
+<s>|S_START in|IN online|NN games|NNS people|NNS thousands|NNS of|IN miles|NNS apart|NN can|MD battle|VB their|PRP$ way|NN through|IN the|DT ruins|NNS of|IN the|DT same|JJ imaginary|NN cities|NNS even|RB though|IN they|PRP will|MD never|RB meet|VB on|IN earth|JJ </s>|S_END
+<s>|S_START more|JJR peaceful|JJ souls|NNS can|MD have|VB a|DT go|NN at|IN virtual|JJ agriculture|NN without|IN getting|VBG their|PRP$ hands|NNS dirty|NN </s>|S_END
+<s>|S_START their|PRP$ avatars|NNS can|MD live|VB out|RP their|PRP$ dreams|NNS in|IN the|DT virtual|JJ online|NN worlds|NNS of|IN “minecraft”|JJ </s>|S_END
+<s>|S_START but|CC these|DT two|CD worlds|NNS were|VBD never|RB really|RB separate|JJ </s>|S_END
+<s>|S_START governments|NNS have|VBP wielded|VBN power|NN over|IN the|DT internet|NN as|IN well|RB as|IN over|IN their|PRP$ physical|JJ domains|NNS blocking|VBG sites|NNS and|CC bashing|VBG blogger|NN </s>|S_END
+<s>|S_START weapons|NNS in|IN online|NN war|NN games|NNS virtual|JJ cows|NNS in|IN “farmville”|JJ and|CC playing|NN “minecraft”|NN with|IN others|NNS cost|VBP real|JJ money|NN </s>|S_END
+<s>|S_START “cyberbullying”|NN is|VBZ just|RB bullying|VBG </s>|S_END
+<s>|S_START what|WP happens|NNS online|VBP does|VBZ not|RB stay|VB online|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT special|JJ report|NN will|MD emphasise|VB the|DT third|JJ option|NN that|WDT the|DT physical|JJ realm|NN also|RB shapes|VBZ the|DT digital|JJ one|CD </s>|S_END
+<s>|S_START one|CD big|JJ reason|NN for|IN this|DT is|VBZ that|IN nowadays|NNS a|DT lot|NN of|IN people|NNS are|VBP online|JJ wherever|NN they|PRP go|VBP </s>|S_END
+<s>|S_START more|JJR and|CC more|JJR people|NNS are|VBP connected|VBN to|TO the|DT internet|NN in|IN more|JJR and|CC more|JJR places|NNS at|IN ever|RB higher|JJR speed|NN </s>|S_END
+<s>|S_START they|PRP carry|VBP powerful|JJ computers|NNS in|IN the|DT form|NN of|IN smartphones|NNS or|CC tablets|NNS which|WDT are|VBP continuously|RB updated|VBN with|IN new|JJ information|NN </s>|S_END
+<s>|S_START by|IN 2017|CD the|DT volume|NN of|IN mobile|JJ data|NNS traffic|JJ will|MD be|VB 21|CD times|NNS greater|JJR than|IN it|PRP was|VBD in|IN 2011|CD according|VBG to|TO ericsson|NN a|DT big|JJ maker|NN of|IN telecomsnetwork|NN equipment|NN </s>|S_END
+<s>|S_START the|DT number|NN of|IN mobilebroadband|NN subscriptions|NNS mostly|RB for|IN smartphones|NNS will|MD jump|VB from|IN 900m|CD to|TO 5|CD billion|CD </s>|S_END
+<s>|S_START local|JJ information|NN where|WRB the|DT nearest|JJS chemist|NN is|VBZ whether|IN there|EX is|VBZ a|DT taxi|NN nearby|NN is|VBZ more|RBR valuable|JJ to|TO people|NNS when|WRB they|PRP are|VBP on|IN the|DT move|NN than|IN when|WRB they|PRP are|VBP sitting|VBG at|IN a|DT desk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN the|DT companies|NNS racing|VBG to|TO provide|VB local|JJ services|NNS over|IN the|DT internet|NN maps|VBZ are|VBP an|DT essential|JJ foundation|NN </s>|S_END
+<s>|S_START in|IN recent|JJ years|NNS there|EX has|VBZ been|VBN an|DT explosion|NN of|IN investment|NN in|IN creating|NN online|NN representations|NNS of|IN the|DT real|JJ world|NN maps|NNS in|IN two|CD dimensions|NNS and|CC in|IN three|CD indoors|NNS as|IN well|RB as|IN out|IN and|CC in|IN ever|NN finer|NN detail|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ possible|JJ once|RB your|PRP$ fingers|NNS get|VBP the|DT hang|NN of|IN the|DT controls|NNS to|TO “fly”|NNP around|IN new|JJ york|NN san|NN francisco|NN and|CC several|JJ other|JJ cities|NNS noting|VBG the|DT street|NN names|VBZ and|CC the|DT landmarks|NNS and|CC stopping|VBG off|RP to|TO learn|VB about|IN places|NNS as|IN you|PRP go|VBP </s>|S_END
+<s>|S_START giant|JJ technology|NN companies—notably|RB google|JJ and|CC apple|NN which|WDT has|VBZ just|RB dropped|VBD its|PRP$ archrival’s|JJ maps|NNS from|IN its|PRP$ mobile|JJ operating|NN system—are|JJ locked|VBN in|IN a|DT struggle|NN to|TO create|VB the|DT best|JJS maps|NNS and|CC embed|VBD the|DT best|JJS information|NN into|IN them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START martphones|NNS are|VBP only|RB part|NN of|IN the|DT story|NN </s>|S_END
+<s>|S_START by|IN 2020|CD reckons|NNS cisco|IN another|DT big|JJ equipmentmaker|NN 50|CD billion|CD devices|NNS of|IN various|JJ kinds|NNS will|MD be|VB connected|VBN </s>|S_END
+<s>|S_START according|VBG to|TO wim|VB elfrink|NN cisco’s|-NONE- head|NN of|IN globalisation|NN at|IN present|NN only|RB 02|CD of|IN such|JJ devices|NNS are|VBP </s>|S_END
+<s>|S_START the|DT earth|NN is|VBZ beginning|VBG to|TO be|VB electronically|RB mapped|VBN in|IN many|JJ dimension|NN </s>|S_END
+<s>|S_START john|NN manley|NN of|IN hp|NN labs|NNS in|IN bristol|NN envisages|NNS a|DT “central|JJ nervous|JJ system|NN for|IN the|DT earth”|NN a|DT planetwide|NN network|NN of|IN tiny|NN cheap|NN tough|IN detectors|NNS that|WDT will|MD see|VB hear|JJ feel|NN by|IN detecting|NN vibrations|NNS even|RB smell|VBP and|CC taste|NN by|IN analysing|NN the|DT chemistry|NN of|IN their|PRP$ surroundings|NNS and|CC report|NN back|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT this|DT will|MD be|VB especially|RB good|JJ for|IN the|DT growing|VBG numbers|NNS of|IN citydweller|JJR </s>|S_END
+<s>|S_START even|RB the|DT devices|NNS in|IN use|NN today|NN are|VBP already|RB producing|VBG huge|JJ amounts|NNS of|IN data|NNS </s>|S_END
+<s>|S_START most|JJS of|IN these|DT data|NNS are|VBP and|CC will|MD continue|VB to|TO be|VB generated|VBN in|IN cities|NNS because|IN that|DT is|VBZ where|WRB the|DT phones|NNS cars|NNS buildings|NNS and|CC infrastructure|NN to|TO which|WDT they|PRP relate|VBP are|VBP concentrated|VBN </s>|S_END
+<s>|S_START if|IN those|DT data|NNS are|VBP combined|VBN and|CC analysed|VBN they|PRP will|MD make|VB cities|NNS better|JJR places|NNS to|TO live|VB </s>|S_END
+<s>|S_START cities|NNS are|VBP already|RB “smart”|-NONE- in|IN that|DT people|NNS are|VBP more|RBR productive|JJ when|WRB they|PRP live|VBP in|IN close|JJ proximity|NN than|IN far|RB apart|NN </s>|S_END
+<s>|S_START big|JJ data|NNS can|MD make|VB cities|NNS smarter|JJR still|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START geography|NN is|VBZ also|RB important|JJ to|TO where|WRB the|DT internet’s|JJ output|NN is|VBZ produced|VBN </s>|S_END
+<s>|S_START young|JJ techies|NNS are|VBP still|RB drawn|VBN to|TO silicon|NN valley|NN and|CC similar|JJ hub|NN </s>|S_END
+<s>|S_START and|CC although|IN more|RBR and|CC more|RBR digital|JJ information|NN is|VBZ kept|VBN in|IN “the|NNP cloud”|NNP the|DT remote|NN servers|NNS that|WDT make|VBP up|RP the|DT cloud|NN are|VBP resolutely|RB earthbound|IN with|IN their|PRP$ location|NN chosen|VBN mostly|RB for|IN its|PRP$ climate|NN its|PRP$ existing|VBG infrastructure|NN and|CC its|PRP$ tax|NN regime|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT digital|JJ and|CC the|DT physical|JJ world|NN are|VBP interacting|VBG ever|RB more|JJR closely|RB </s>|S_END
+<s>|S_START the|DT rapidly|RB declining|VBG cost|NN of|IN communications|NNS and|CC computing|VBG power|NN has|VBZ already|RB wrought|VBN huge|JJ changes|NNS in|IN the|DT way|NN people|NNS go|VBP about|IN their|PRP$ daily|JJ live|JJ </s>|S_END
+<s>|S_START digital|JJ maps|NNS and|CC guides|NNS will|MD affect|VB the|DT way|NN people|NNS behave|VBP in|IN the|DT physical|JJ world|NN and|CC bring|VB about|IN yet|RB more|JJR change|NN </s>|S_END
+<s>|S_START the|DT digital|JJ and|CC the|DT physical|JJ are|VBP becoming|VBG one|CD </s>|S_END
+</p>|P_END
+

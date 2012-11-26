@@ -1,0 +1,50 @@
+<p>|P_START
+<s>|S_START gallipoli|NN </s>|S_END
+<s>|S_START by|IN peter|NN hart|NN </s>|S_END
+<s>|S_START oxford|NN university|NN press|NN 560|CD pages|NNS $|$ 3495|CD </s>|S_END
+<s>|S_START profile|IN £25|JJ </s>|S_END
+<s>|S_START buy|NN from|IN amazoncom|NN amazoncouk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START here|RB is|VBZ a|DT marvellous|JJ ghastly|RB book|NN </s>|S_END
+<s>|S_START the|DT story|NN is|VBZ well|RB known|VBN </s>|S_END
+<s>|S_START in|IN the|DT spring|NN of|IN 1915|CD an|DT allied|JJ expedition|NN comprising|VBG troops|NNS from|IN britain|NN france|NN australia|NN new|JJ zealand|NN newfoundland|NN and|CC india|NN attempted|VBD to|TO capture|VB the|DT gallipoli|NN peninsula|NN </s>|S_END
+<s>|S_START the|DT objective|NN was|VBD to|TO gain|VB control|NN of|IN the|DT dardanelles|NNS strait|VBP and|CC then|RB to|TO press|NN on|IN and|CC take|VB constantinople|NN </s>|S_END
+<s>|S_START the|DT operation|NN was|VBD supposed|VBN to|TO remove|VB turkey|JJ from|IN the|DT first|JJ world|NN war|NN at|IN a|DT stroke|NN </s>|S_END
+<s>|S_START but|CC the|DT result|NN was|VBD a|DT bitterly|RB contested|VBN standoff|RP that|IN lasted|VBN for|IN eight|CD month|NN </s>|S_END
+<s>|S_START the|DT allied|VBN forces|NNS were|VBD evacuated|VBN at|IN the|DT end|NN of|IN 1915|CD after|IN both|DT sides|NNS had|VBD suffered|VBN appalling|VBG hardships|NNS and|CC losse|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT gallipoli|NN campaign|NN peter|NN hart|NN argues|NNS was|VBD doomed|VBN from|IN the|DT start|NN </s>|S_END
+<s>|S_START planning|VBG was|VBD a|DT matter|NN of|IN wishful|JJ thinking|NN if|IN not|RB outright|JJ fantasy|NN </s>|S_END
+<s>|S_START no|DT serious|JJ attempt|NN was|VBD made|VBN to|TO understand|VB the|DT strength|NN of|IN the|DT turkish|JJ army|NN the|DT nature|NN of|IN the|DT terrain|NN or|CC the|DT numbers|NNS of|IN allied|JJ troop|NN </s>|S_END
+<s>|S_START nor|CC could|MD anyone|VB conceive|JJ of|IN logistical|JJ support|NN required|VBN to|TO make|VB a|DT success|NN of|IN the|DT operation|NN </s>|S_END
+<s>|S_START “thanks|NNS to|TO political|JJ interference|NN lethally|RB combined|VBN with|IN the|DT bullish|JJ optimism|NN of|IN generals|NNS who|WP saw|VBD only|RB opportunities|NNS the|DT gallipoli|NN campaign|NN was|VBD launched|VBN into|IN a|DT void|JJ that|IN guaranteed|NN failure”|NN the|DT western|NN front|NN was|VBD the|DT place|NN where|WRB the|DT war|NN would|MD be|VB won|VBN gallipoli|NN was|VBD merely|RB “a|-NONE- futile|IN and|CC costly|RB sideshow”|JJ exacerbated|VBN by|IN “lunatic|JJ persistence|NN in|IN the|DT face|NN of|IN the|DT obvious”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP makes|VBZ mr|NN harts|NNS version|NN so|IN bracing|VBG is|VBZ his|PRP$ method|NN </s>|S_END
+<s>|S_START he|PRP is|VBZ a|DT specialist|NN in|IN oral|JJ history|NN at|IN londons|NNS imperial|JJ war|NN museum|NN and|CC this|DT book|NN like|IN others|NNS he|PRP has|VBZ written|VBN or|CC cowritten|VBN gains|NNS richness|IN and|CC texture|NN from|IN the|DT use|NN of|IN firsthand|NN testimony|NN </s>|S_END
+<s>|S_START a|DT kaleidoscope|NN of|IN impressions|NNS and|CC perceptions|NNS tumble|JJ before|IN the|DT minds|NNS eye|VBP constantly|RB shifting|VBG from|IN the|DT general|JJ to|TO the|DT particular|JJ the|DT political|JJ to|TO the|DT personal|JJ </s>|S_END
+<s>|S_START a|DT turkish|JJ soldier|NN describes|VBZ a|DT scene|NN and|CC his|PRP$ account|NN is|VBZ immediately|RB followed|VBN by|IN that|DT of|IN a|DT british|JJ or|CC australian|JJ soldier|NN describing|VBG the|DT same|JJ event|NN </s>|S_END
+<s>|S_START this|DT helps|NNS make|VBP the|DT overall|JJ picture|NN far|RB more|RBR vivid|JJ and|CC compelling|VBG </s>|S_END
+<s>|S_START the|DT diversity|NN of|IN voices|NNS also|RB captures|VBZ something|NN of|IN the|DT immediacy|NN terror|NN and|CC illogic|JJ of|IN war|NN although|IN the|DT book|NN is|VBZ neither|DT confusing|VBG nor|CC chaotic|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START three|CD testimonials|NNS stand|VBP out|RP </s>|S_END
+<s>|S_START there|EX is|VBZ a|DT brief|JJ sketch|NN by|IN lieutenant|NN norman|NN kingwilson|NN of|IN the|DT operating|NN room|NN aboard|NN hmhs|NNS caledonia|VBP “a|JJ veritable|JJ stinking|NN bloody|NN shambles|NNS where|WRB patients|NNS were|VBD brought|VBN up|RP on|IN a|DT stretcher|NN and|CC left|VBN waiting|VBG for|IN their|PRP$ predecessor|NN to|TO be|VB taken|VBN down|RP then|RB rapidly|RB chloroformed|VBN placed|VBN on|IN the|DT table|NN a|DT leg|NN or|CC arm|NN whipped|VBD off|RP in|IN a|DT couple|NN of|IN minutes|NNS by|IN a|DT circular|JJ incision|NN one|CD sweep|NN of|IN the|DT knife|NN and|CC the|DT bone|NN sawed|VBD through|IN the|DT limb|NN thrown|NN into|IN a|DT basket|NN with|IN many|JJ others|NNS awaiting|VBG incineration”|NN then|RB there|RB is|VBZ the|DT damning|NN summation|NN of|IN general|JJ sir|NN charles|NNS monro|VBP sent|VBN in|IN late|JJ to|TO assess|NN the|DT allies|NNS prospects|VBZ “the|JJ positions|NNS occupied|VBD by|IN our|PRP$ troops|NNS presented|VBD a|DT military|JJ situation|NN unique|NN in|IN history…|NNP the|DT force|NN in|IN short|JJ held|NN a|DT line|NN possessing|VBG every|DT possible|JJ military|JJ defect”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lastly|RB there|EX are|VBP the|DT words|NNS of|IN kemal|JJ ataturk|NN first|RB president|NN of|IN modern|JJ turkey|NN and|CC previously|RB as|IN lieutenant|JJ colonel|NN mustafa|NN kemal|NN chief|NN architect|NN of|IN the|DT allies|NNS torment|VBP at|IN gallipoli|NN </s>|S_END
+<s>|S_START in|IN 1934|CD he|PRP unveiled|VBD a|DT memorial|JJ dedicated|VBN to|TO “those|JJ heroes|NNS that|WDT shed|VBD their|PRP$ blood|NN and|CC lost|VBD their|PRP$ lives”|NN at|IN anzac|NN cove|VB </s>|S_END
+<s>|S_START the|DT inscription|NN reads|NNS “you|PRP are|VBP now|RB lying|VBG in|IN the|DT soil|NN of|IN a|DT friendly|JJ country|NN </s>|S_END
+<s>|S_START therefore|RB rest|VBP in|IN peace|NN </s>|S_END
+<s>|S_START there|EX is|VBZ no|DT difference|NN between|IN the|DT johnnies|NNS and|CC the|DT mehmets|NNS to|TO us|PRP where|WRB they|PRP lie|VBP side|NN by|IN side|NN here|RB in|IN this|DT country|NN of|IN our|PRP$ </s>|S_END
+<s>|S_START you|PRP the|DT mothers|NNS who|WP sent|NN their|PRP$ sons|NNS from|IN faraway|NN countries|NNS wipe|VBP away|RB your|PRP$ tears|NNS your|PRP$ sons|NNS are|VBP now|RB lying|VBG in|IN our|PRP$ bosom|NN and|CC are|VBP in|IN peace|NN </s>|S_END
+<s>|S_START after|IN having|VBG lost|VBN their|PRP$ lives|NNS on|IN this|DT land|NN they|PRP have|VBP become|VBN our|PRP$ sons|NNS as|IN well”|JJ </s>|S_END
+</p>|P_END
+

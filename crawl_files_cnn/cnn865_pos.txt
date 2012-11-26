@@ -1,0 +1,36 @@
+<p>|P_START
+<s>|S_START jc|NN penney|NN ceo|NN ron|NN johnson|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN jc|NN penney|NN announced|VBD an|DT unconventional|JJ new|JJ promotion|NN monday|NN in|IN a|DT bid|NN to|TO take|VB a|DT cut|NN out|IN of|IN the|DT competition|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN an|DT email|NN to|TO customers|NNS ceo|VB ron|NN johnson|NN said|VBD that|IN starting|NN in|IN november|NN kids|NNS from|IN kindergarten|NN to|TO sixth|JJ grade|NN can|MD get|VB free|JJ haircuts|NNS every|DT sunday|NN at|IN jc|NN penney|NN jcp|NN fortune|NN 500|CD stores|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT announcement|NN follows|VBZ jc|NN penneys|NNS previous|JJ offer|NN of|IN free|JJ backtoschool|NN haircuts|NNS for|IN kids|NNS </s>|S_END
+<s>|S_START johnson|NN said|VBD that|IN promotion|NN had|VBD been|VBN far|RB bigger|JJR than|IN i|PRP expected|VBN leading|VBG the|DT company|NN to|TO give|VB away|RP over|IN 16|CD million|CD free|JJ haircuts|NNS in|IN august|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START johnson|NN joined|VBD jc|NN penney|NN last|JJ year|NN from|IN apple|NN aapl|NN fortune|NN 500|CD where|WRB he|PRP was|VBD the|DT brains|NNS behind|IN the|DT companys|NNS apple|VBP store|NN retail|NN chain|NN </s>|S_END
+<s>|S_START hes|NNS since|IN announced|VBN a|DT series|NN of|IN new|JJ initiatives|NNS aimed|VBN at|IN revamping|NN the|DT struggling|NN jc|NN penney|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT company|NN overhauled|VBD its|PRP$ pricing|NN earlier|JJR this|DT year|NN moving|VBG away|RB from|IN shortlived|VBN sales|NNS and|CC discounts|NNS in|IN favor|NN of|IN a|DT threetiered|VBN pricing|NN structure|NN everyday|NN low|JJ prices|NNS monthlong|IN sales|NNS on|IN seasonal|JJ items|NNS and|CC best|JJS prices|NNS or|CC clearance|NN promotions|NNS </s>|S_END
+<s>|S_START johnson|NN later|JJ acknowledged|JJ that|IN this|DT had|VBD proved|VBN confusing|VBG to|TO customers|NNS however|RB and|CC pared|VBD down|RP the|DT price|NN levels|NNS to|TO two|CD everyday|NN low|JJ prices|NNS and|CC clearance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START jc|NN penney|NN has|VBZ also|RB begun|VBN launching|VBG shops|NNS dedicated|VBN to|TO particular|JJ brands|NNS like|IN levis|NNS and|CC liz|NN claiborne|NN within|IN its|PRP$ larger|JJR department|NN stores|NNS and|CC hopes|NNS to|TO eliminate|VB checkout|IN counters|NNS by|IN 2014|CD in|IN favor|NN of|IN mobile|JJ and|CC selfcheckout|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START johnson|NN faces|NNS a|DT mighty|NN task|NN in|IN his|PRP$ turnaround|NN effort|NN </s>|S_END
+<s>|S_START jc|NN penney|NN lost|VBD $|$ 147|CD million|CD during|IN the|DT second|JJ quarter|NN nearly|RB three|CD times|NNS more|JJR than|IN analysts|NNS were|VBD expecting|VBG and|CC shares|NNS are|VBP down|RB 18|CD so|RB far|RB this|DT year|NN </s>|S_END
+</p>|P_END
+

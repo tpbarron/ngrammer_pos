@@ -1,0 +1,64 @@
+<p>|P_START
+<s>|S_START prime|JJ minister|NN antonis|NNS samaras|NNS addresses|NNS the|DT greek|NN parliament|NN during|IN a|DT series|NN of|IN votes|NNS on|IN spending|NN cuts|NNS and|CC reforms|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START london|NN cnnmoney|NN greece|NN will|MD take|VB another|DT big|JJ step|NN toward|IN unfreezing|VBG international|JJ bailout|IN funds|NNS if|IN parliament|NN approves|NNS the|DT nations|NNS 2013|CD budget|NN sunday|NN but|CC disagreement|NN among|IN its|PRP$ creditors|NNS may|MD push|VB back|RB when|WRB that|IN aid|NN will|MD resume|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT athens|NNS parliament|NN had|VBD already|RB approved|VBN a|DT new|JJ package|NN of|IN austerity|NN measures|NNS worth|NN €135|-NONE- billion|CD a|DT precondition|NN for|IN the|DT socalled|VBN troika|NN of|IN eu|NN european|JJ central|JJ bank|NN and|CC international|JJ monetary|NN fund|NN officials|NNS to|TO release|VB the|DT next|JJ installment|NN of|IN funds|NNS under|IN greeces|NNS second|JJ bailout|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP really|RB represents|VBZ progress|NN ecb|NN president|NN mario|NN draghi|NN said|VBD last|JJ thursday|NN adding|VBG that|IN the|DT ecb|NN and|CC eurozone|NN finance|NN ministers|NNS would|MD discuss|VB the|DT greek|NN situation|NN at|IN a|DT meeting|NN in|IN brussels|NNS monday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START assuming|VBG sundays|NNS vote|NN goes|VBZ in|IN favor|NN of|IN prime|JJ minister|NN antonis|NNS samaras|NNS coalition|NN government|NN greece|NN would|MD get|VB two|CD more|JJR years|NNS to|TO meet|VB budget|NN targets|NNS set|VBD out|IN in|IN the|DT original|JJ program|NN in|IN march|NN and|CC gain|NN access|NN to|TO €315|-NONE- billion|CD that|WDT greece|NN needs|VBZ to|TO stabilize|VB its|PRP$ banks|NNS and|CC redeem|VB shortterm|NN debt|NN due|JJ next|JJ friday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD greeces|NNS misery|VBP wont|NN end|NN with|IN bailout|NN vote|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC reports|NNS from|IN brussels|NNS and|CC elsewhere|RB suggest|VBP the|DT troika|NN of|IN international|JJ lenders|NNS is|VBZ unable|JJ to|TO agree|VB on|IN the|DT size|NN of|IN the|DT funding|NN gap|NN created|VBD by|IN pushing|NN back|RB the|DT timetable|JJ for|IN greece|NN to|TO bring|VB its|PRP$ debt|NN to|TO sustainable|JJ levels|NNS and|CC how|WRB it|PRP should|MD be|VB plugged|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START analysts|NNS estimate|VBP the|DT funding|NN requirement|NN at|IN about|RB €30|-NONE- billion|CD although|IN it|PRP could|MD be|VB higher|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN the|DT troika|NN unwilling|VBG to|TO consider|VB putting|NN more|JJR money|NN on|IN the|DT table|NN or|CC taking|VBG losses|NNS on|IN existing|VBG loans|NNS to|TO greece|VB attention|NN had|VBD turned|VBN to|TO other|JJ measures|NNS including|VBG cutting|VBG rates|NNS on|IN previous|JJ lending|VBG and|CC tweaking|VBG a|DT debttogdp|NN target|NN of|IN 120|CD by|IN 2020|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START draghi|NN said|VBD thursday|NN that|IN the|DT ecb|NN could|MD return|VB profits|NNS on|IN its|PRP$ holdings|NNS of|IN greek|NN debt|NN estimated|VBD at|IN up|IN to|TO €15|CD billion|CD but|CC signaled|VBN the|DT bank|NN was|VBD not|RB ready|RB to|TO take|VB other|JJ measures|NNS putting|VBG the|DT ball|NN firmly|RB in|IN the|DT court|NN of|IN eurozone|NN states|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ecb|NN is|VBZ by|IN and|CC large|JJ done|NN he|PRP said|VBD when|WRB asked|VBN about|IN greece|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD greek|NN unemployment|NN a|DT new|JJ record|NN high|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START german|NN chancellor|NN angela|NN merkel|NN and|CC other|JJ european|JJ leaders|NNS have|VBP pledged|VBN to|TO do|VB what|WP it|PRP takes|VBZ to|TO keep|VB greece|NN in|IN the|DT eurozone|NN but|CC want|JJ to|TO avoid|VB if|IN at|IN all|DT possible|JJ having|VBG to|TO ask|VB their|PRP$ own|JJ hardpressed|VBN taxpayers|NNS to|TO stump|VB up|RP fresh|JJ funding|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT troika|NN fails|VBZ to|TO reach|VB agreement|NN early|RB next|JJ week|NN greece|NN may|MD have|VB to|TO roll|VB over|IN €5|-NONE- billion|CD of|IN treasury|NN bills|NNS due|JJ november|NN 16|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP faced|VBD a|DT similar|JJ situation|NN in|IN august|NN when|WRB the|DT ecb|NN agreed|VBD to|TO raise|VB the|DT ceiling|NN on|IN the|DT amount|NN of|IN treasury|NN bills|NNS the|DT national|JJ bank|NN of|IN greece|NN nbg|NN could|MD accept|VB as|IN collateral|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT allowed|VBD greece|NN to|TO issue|VB more|JJR bills|NNS to|TO its|PRP$ banks|NNS which|WDT in|IN turn|NN were|VBD able|JJ to|TO draw|VB on|IN the|DT ecbs|NNS emergency|NN liquidity|NN assistance|NN facility|NN </s>|S_END
+</p>|P_END
+

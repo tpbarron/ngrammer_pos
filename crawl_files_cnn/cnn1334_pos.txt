@@ -1,0 +1,123 @@
+<p>|P_START
+<s>|S_START hong|IN kong|JJ cnnmoney|NN president|NN obama|NN and|CC mitt|NN romney|NN each|DT used|VBN their|PRP$ second|JJ presidential|JJ debate|NN to|TO talk|VB tough|JJ on|IN china|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romney|NN pledged|VBD that|IN he|PRP would|MD label|VB china|NN as|IN a|DT currency|NN manipulator|NN on|IN his|PRP$ first|JJ day|NN in|IN office|NN a|DT promise|NN he|PRP frequently|RB works|VBZ into|IN his|PRP$ campaign|NN speeches|NNS </s>|S_END
+<s>|S_START and|CC he|PRP accused|VBD china|NNS of|IN stealing|VBG designs|NNS patents|NNS and|CC technology|NN pioneered|VBD by|IN us|PRP companies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START theres|NNS even|RB an|DT apple|NN store|NN in|IN china|NN thats|NNS a|DT counterfeit|NN apple|NN store|NN selling|VBG counterfeit|NN goods|NNS romney|NN said|VBD </s>|S_END
+<s>|S_START they|PRP hack|VBP into|IN our|PRP$ computers|NNS </s>|S_END
+<s>|S_START we|PRP will|MD have|VB to|TO have|VB people|NNS play|VB on|IN a|DT fair|JJ basis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START obama|NN was|VBD more|JJR circumspect|JJ in|IN his|PRP$ use|NN of|IN language|NN but|CC he|PRP touted|VBD the|DT trade|NN complaints|NNS his|PRP$ administration|NN has|VBZ filed|VBN against|IN china|NN over|IN auto|NN parts|NNS </s>|S_END
+<s>|S_START obama|NN also|RB recently|RB blocked|VBN the|DT sale|NN of|IN american|JJ wind|NN farm|NN companies|NNS to|TO a|DT chinese|JJ firm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START talking|VBG tough|JJ on|IN china|NN has|VBZ become|VBN a|DT campaign|NN ritual|NN for|IN politicians|NNS of|IN both|DT parties|NNS even|RB if|IN as|IN experts|NNS predict|VBP the|DT rhetoric|JJ moderates|NNS after|IN nov|NN 6|CD regardless|NN of|IN who|WP wins|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD americans|NNS china|NN is|VBZ an|DT economic|JJ threat|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT latest|JJS criticisms|NNS from|IN the|DT republican|JJ candidate|NN comes|VBZ after|IN the|DT treasury|NN department|NN last|JJ week|NN delayed|VBD the|DT release|NN of|IN a|DT report|NN that|WDT has|VBZ in|IN the|DT past|JJ criticized|JJ china|NN for|IN keeping|NN the|DT value|NN of|IN its|PRP$ currency|NN artificially|RB low|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START delays|NNS are|VBP nothing|VBG new|JJ but|CC the|DT next|JJ edition|NN of|IN the|DT report|NN is|VBZ now|RB unlikely|RB to|TO be|VB issued|VBN until|IN after|IN the|DT election|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT president|NN has|VBZ run|VBN a|DT campaign|NN that|WDT has|VBZ repeatedly|RB sought|VBN to|TO draw|VB connections|NNS between|IN romneys|NNS tenure|VBP at|IN bain|NN capital|NN and|CC the|DT outsourcing|NN of|IN american|JJ jobs|NNS to|TO china|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mitt|NN romney|NN tough|IN on|IN china|NN </s>|S_END
+<s>|S_START since|IN when|WRB </s>|S_END
+<s>|S_START a|DT recent|JJ ad|NN asked|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romney|NN says|VBZ hes|NNS gon|IN na|NN take|NN the|DT fight|NN to|TO them|PRP hes|VBZ going|VBG to|TO go|VB after|IN these|DT cheaters|NNS and|CC ive|JJ got|NN to|TO admit|VB that|IN message|NN is|VBZ better|RBR than|IN what|WP he|PRP has|VBZ actually|RB done|VBN about|IN this|DT thing|NN obama|NN said|VBD earlier|RBR this|DT month|NN in|IN ohio|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romney|NN and|CC obama|NN are|VBP not|RB the|DT first|JJ presidential|JJ candidates|NNS to|TO beat|VB up|RP on|IN china|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bill|NN clinton|NN famously|RB referred|VBD to|TO chinas|NNS leaders|NNS as|IN the|DT butchers|NNS of|IN beijing|VBG during|IN the|DT 1992|CD presidential|JJ race|NN </s>|S_END
+<s>|S_START four|PRP$ years|NNS later|RBR george|JJ w|NN bush|NN criticized|VBD clinton|NN for|IN being|VBG too|RB easy|JJ on|IN china|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT guys|NNS all|DT ate|NN crow|NN said|VBD david|JJ zweig|NN an|DT associate|NN dean|NN at|IN hong|JJ kong|JJ university|NN of|IN science|NN and|CC technology|NN </s>|S_END
+<s>|S_START once|RB in|IN office|NN presidents|NNS tend|VBP to|TO change|VB their|PRP$ behavior|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT shift|NN is|VBZ not|RB surprising|JJ given|VBN the|DT nature|NN of|IN the|DT relationship|NN </s>|S_END
+<s>|S_START china|NN is|VBZ one|CD of|IN the|DT united|VBN states|NNS largest|JJS trading|VBG partners|NNS and|CC the|DT economies|NNS of|IN the|DT two|CD countries|NNS the|DT largest|JJS and|CC second|JJ largest|JJS in|IN the|DT world|NN are|VBP increasingly|RB interconnected|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD ford|VBN posts|NNS record|NN chinese|NN sales|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START beijing|VBG holds|NNS more|JJR than|IN $|$ 1|CD trillion|CD in|IN us|PRP debt|NN and|CC us|PRP exports|NNS to|TO china|VB are|VBP on|IN the|DT rise|NN </s>|S_END
+<s>|S_START chinas|NNS currency|VBP the|DT yuan|NN has|VBZ been|VBN allowed|VBN to|TO appreciate|VB in|IN recent|JJ years|NNS but|CC many|JJ american|JJ businesses|NNS argue|VBP it|PRP still|RB does|VBZ not|RB reflect|VB its|PRP$ true|JJ market|NN value|NN giving|VBG chinese|NN exporters|NNS an|DT unfair|JJ competitive|JJ advantage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ analysts|NNS worry|VBP that|IN romneys|NNS plan|VBP to|TO label|VB china|NN a|DT currency|NN manipulator|NN could|MD backfire|VB and|CC the|DT specificity|NN of|IN the|DT promise|NN leaves|VBZ him|PRP few|JJ options|NNS but|CC to|TO follow|VB through|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP has|VBZ created|VBN a|DT huge|JJ problem|NN for|IN himself|PRP zweig|VBP said|VBN </s>|S_END
+<s>|S_START he|PRP has|VBZ said|VBN consistently|RB he|PRP will|MD do|VB it|PRP </s>|S_END
+<s>|S_START so|IN how|WRB does|VBZ he|PRP climb|VB down|RP from|IN that|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economists|NNS are|VBP even|RB more|RBR worried|JJ about|IN the|DT second|JJ part|NN of|IN romneys|NNS initial|JJ china|NN plan|NN which|WDT is|VBZ to|TO direct|JJ the|DT department|NN of|IN commerce|NN to|TO institute|VB countervailing|NN duties|NNS on|IN chinese|JJ imports|NNS if|IN china|NNS does|VBZ not|RB quickly|RB move|VB to|TO float|VB its|PRP$ currency|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT could|MD spark|VB a|DT trade|NN war|NN between|IN the|DT two|CD countries|NNS a|DT circumstance|NN likely|JJ to|TO end|VB unhappily|RB for|IN both|DT beijing|VBG and|CC washington|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD romneys|NNS china|VBP attacks|NNS worry|VBP business|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT obama|NN administration|NN has|VBZ taken|VBN protectionist|NN actions|NNS introducing|VBG tariffs|NNS on|IN chinesemade|NN solar|NN panels|NNS and|CC tires|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT benefits|NNS have|VBP been|VBN hard|RB to|TO discern|VB and|CC consumers|NNS have|VBP ended|VBN up|RP paying|VBG more|JJR for|IN goods|NNS </s>|S_END
+<s>|S_START according|VBG to|TO a|DT study|NN by|IN the|DT peterson|NN institute|NN for|IN international|JJ economics|NNS the|DT tire|NN tariff|NN cost|NN american|JJ consumers|NNS a|DT total|JJ of|IN $|$ 11|CD billion|CD in|IN 2011|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START chinese|NN officials|NNS have|VBP tolerated|VBN the|DT campaign|NN rhetoric|NN with|IN relatively|RB good|JJ humor|NN so|IN far|RB </s>|S_END
+<s>|S_START comment|NN has|VBZ been|VBN restricted|VBN to|TO editorials|NNS in|IN staterun|NN media|NNS that|WDT are|VBP particularly|RB critical|JJ of|IN romney|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START zweig|NN said|VBD that|IN chinas|NNS top|VBP officials|NNS are|VBP very|RB much|RB in|IN tune|NN with|IN the|DT realities|NNS of|IN american|JJ politics|NNS even|RB down|IN to|TO which|WDT states|NNS are|VBP crucial|JJ to|TO secure|VB electoral|JJ victory|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC talk|VBP is|VBZ one|CD thing|NN zweig|NN said|VBD and|CC action|NN is|VBZ another|DT </s>|S_END
+<s>|S_START should|MD a|DT future|NN administration|NN depart|NN from|IN precedent|NN and|CC become|VB significantly|RB more|JJR aggressive|JJ toward|NN china|NN beijing|VBG will|MD respond|VB </s>|S_END
+</p>|P_END
+

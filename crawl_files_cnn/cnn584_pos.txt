@@ -1,0 +1,63 @@
+<p>|P_START
+<s>|S_START goldman|NN sachs|NNS estimates|VBZ that|IN the|DT fed|JJ could|MD keep|VB buying|NN bonds|NNS through|IN 2015|CD under|IN its|PRP$ qe3|NNP policy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT federal|JJ reserves|NNS qe3|NNP bond|NN buying|VBG program|NN announced|VBD earlier|RBR this|DT month|NN could|MD last|VB until|IN the|DT middle|NN of|IN 2015|CD and|CC eventually|RB reach|VBP $|$ 2|CD trillion|CD according|VBG to|TO an|DT estimate|NN from|IN economists|NNS at|IN goldman|NN sachs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT goldman|NN economists|NNS also|RB wrote|VBD in|IN a|DT report|NN that|WDT they|PRP believe|VBP the|DT fed|VBN will|MD not|RB raise|VB the|DT federal|JJ funds|NNS rate|NN until|IN 2016|CD </s>|S_END
+<s>|S_START this|DT rate|NN which|WDT is|VBZ used|VBN as|RB a|DT benchmark|NN for|IN a|DT wide|JJ variety|NN of|IN consumer|NN and|CC business|NN loans|NNS has|VBZ been|VBN near|IN 0|-NONE- since|IN december|NN 2008|CD </s>|S_END
+<s>|S_START the|DT fed|VBN said|VBD in|IN its|PRP$ last|JJ statement|NN that|IN it|PRP expected|VBD rates|NNS would|MD remain|VB low|JJ until|IN mid2015|NNP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fed|VBN announced|VBD earlier|JJR this|DT month|NN that|IN it|PRP would|MD buy|VB $|$ 40|CD billion|CD a|DT month|NN in|IN mortgages|NNS for|IN the|DT foreseeable|JJ future|JJ a|DT plan|NN that|WDT has|VBZ been|VBN dubbed|VBN qe3|NNP since|IN it|PRP is|VBZ the|DT central|JJ banks|NNS third|JJ round|NN of|IN quantitative|JJ easing|NN </s>|S_END
+<s>|S_START the|DT fed|VBN hopes|NNS that|IN by|IN pumping|VBG money|NN into|IN the|DT economy|NN lowering|VBG mortgage|NN rates|NNS qe3|NNP could|MD lead|VB to|TO more|JJR consumer|NN spending|NN and|CC more|JJR hiring|VBG by|IN businesses|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START goldmans|NNS $|$ 2|CD trillion|CD estimate|NN also|RB includes|VBZ the|DT buying|NN of|IN longterm|NN treasuries|NNS planned|VBD by|IN the|DT fed|VBN under|IN an|DT extension|NN of|IN what|WP is|VBZ popularly|RB known|VBN operation|NN twist|NN </s>|S_END
+<s>|S_START in|IN that|DT program|NN the|DT fed|VBN is|VBZ selling|VBG shortterm|NN treasuries|NNS to|TO fund|VB those|DT purchases|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT goldman|NN economists|NNS also|RB said|VBD they|PRP think|VBP the|DT fed|VBN wants|NNS to|TO see|VB the|DT nations|NNS unemployment|NN rate|NN in|IN the|DT 7|CD to|TO 75|CD range|NN before|IN it|PRP ends|VBZ its|PRP$ bond|NN purchases|NNS and|CC in|IN the|DT 65|CD to|TO 7|CD range|NN before|IN it|PRP starts|VBZ raising|VBG interest|NN rates|NNS again|RB </s>|S_END
+<s>|S_START unemployment|NN stood|VBD at|IN 81|CD in|IN august|JJ down|IN from|IN 83|CD in|IN july|RB </s>|S_END
+<s>|S_START but|CC much|JJ of|IN the|DT most|RBS recent|JJ decline|NN was|VBD due|JJ to|TO job|NN seekers|NNS particularly|RB young|JJ adults|NNS dropping|VBG out|RP of|IN the|DT labor|NN force|NN as|IN opposed|VBN to|TO a|DT pickup|NN in|IN hiring|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD ben|VBN bernankes|NNS ultralow|VBP mortgage|NN rate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT feds|NNS own|JJ forecasts|NNS call|VBP for|IN the|DT unemployment|NN rate|NN to|TO be|VB in|IN the|DT range|NN of|IN 67|CD to|TO 73|CD in|IN 2014|CD </s>|S_END
+<s>|S_START if|IN that|DT actually|RB happens|VBZ goldman|NN said|VBD the|DT fed|VBN could|MD end|VB qe3|NNP in|IN the|DT middle|NN of|IN that|DT year|NN </s>|S_END
+<s>|S_START at|IN that|DT point|NN the|DT bond|NN purchases|NNS would|MD have|VB reached|VBN $|$ 12|CD trillion|CD </s>|S_END
+<s>|S_START but|CC goldmans|NNS own|VBP forecasts|NNS call|VBP for|IN a|DT slower|JJR recovery|NN in|IN the|DT job|NN market|NN and|CC overall|JJ economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT recovery|NN continues|VBZ to|TO disappoint|VB additional|JJ steps|NNS are|VBP possible|JJ the|DT goldman|NN economists|NNS said|VBD </s>|S_END
+<s>|S_START these|DT include|VBP an|DT increase|NN in|IN the|DT pace|NN of|IN asset|NN purchases|NNS as|IN well|RB as|IN further|JJ changes|NNS in|IN fed|JJ communications|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN course|NN predicting|VBG central|JJ bank|NN policy|NN far|RB that|IN far|RB into|IN the|DT future|JJ is|VBZ difficult|JJ </s>|S_END
+<s>|S_START especially|RB with|IN the|DT upcoming|VBG election|NN </s>|S_END
+<s>|S_START fed|VBD chairman|NN ben|VBN bernankes|NNS term|NN is|VBZ set|VBN to|TO end|VB in|IN january|JJ 2014|CD </s>|S_END
+<s>|S_START republican|NN presidential|JJ candidate|NN mitt|NN romney|NN has|VBZ vowed|VBN to|TO replace|VB bernanke|NN if|IN elected|VBN and|CC many|JJ top|JJ republicans|NNS were|VBD critical|JJ of|IN qe3|NNP when|WRB it|PRP was|VBD announced|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN goldmans|NNS estimates|NNS are|VBP correct|JJ qe3|NNP would|MD be|VB larger|JJR than|IN the|DT two|CD previous|JJ rounds|NNS </s>|S_END
+<s>|S_START its|PRP$ first|JJ round|NN of|IN asset|NN purchases|NNS announced|VBD in|IN 2009|CD came|VBD to|TO $|$ 17|CD trillion|CD </s>|S_END
+<s>|S_START under|IN qe2|NNP announced|VBD two|CD years|NNS ago|RB the|DT fed|VBN bought|NN $|$ 600|CD billion|CD in|IN us|PRP treasuries|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START still|RB many|JJ economists|NNS believe|VBP that|IN qe3|NNP wont|NN create|VB jobs|NNS as|IN the|DT fed|VBN hopes|NNS </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,80 @@
+<p>Missiles are only useful if you can launch them. When foreign countries hack our defenses, that could prove difficult.</p>
+
+<p>This is part four of a week-long series on the ecosystem of cybercrime.</p>
+
+<p>NEW YORK (CNNMoney) -- On April 8, 2010, traffic to about 15% of the world's websites was rerouted to China.</p>
+
+<p>State-owned Internet company China Telecom tricked relays from around the world into routing traffic through its servers for about 18 minutes.</p>
+
+<p>It isn't publicly known what happened to that traffic when it passed through China. But a report filed late last year by Congress' U.S.-China Economic and Security Review Commission said the hijacked traffic could easily have been captured, censored, or even replaced with other data without anyone's knowledge.</p>
+
+<p>Those scenarios were especially worrying to the U.S. government since the incident affected traffic to and from ".gov" and ".mil" sites, including those for the Senate, Army, Navy, Marines, Air Force, Defense Department, NASA, and Commerce Department. Websites for Dell (DELL, Fortune 500), Yahoo (YHOO, Fortune 500), Microsoft (MSFT, Fortune 500) and IBM (IBM, Fortune 500) were also affected.</p>
+
+<p>It wasn't the first time -- or the last -- that suspicious cyber activity has been traced back to China.</p>
+
+<p>In 2008, the FBI launched "Operation Cisco Raider," seizing 3,500 fake networking devices that originated in China, including counterfeit Cisco (CSCO, Fortune 500) routers purchased by U.S. government agencies.</p>
+
+<p>In late 2009, Google (GOOG, Fortune 500), Adobe Systems (ADBE), Juniper Networks (JNPR) and a dozen other technology companies were hit with a targeted attack that emanated from China.</p>
+
+<p>A white paper issued by security firm McAfee found that the attack could yield "complete access to internal systems," with the ability to collect and manipulate the companies' core assets, including source code. Google went public about the attack, said that some of its intellectual property had been stolen, and pulled its search engine servers out of China soon after.</p>
+
+<p>Last month, hundreds of personal Gmail accounts, including those of some senior U.S. government officials, were hacked as a result of a massive phishing scheme originating from China.</p>
+
+<p>Security experts and government officials have been quick to link these and similar attacks to the Chinese government.</p>
+
+<p>"It's no secret that government agencies are under attack from China," said Prescott Winter, public sector chief technology officer of ArcSight, a security company owned by Hewlett-Packard (HPQ, Fortune 500), and former CTO for the National Security Agency. "It's a significant problem, and the government has been aware of it for the past 10 to 15 years."</p>
+
+<p>China has repeatedly and vehemently denied any connection to the attacks, and proving that Beijing was behind specific hacks is difficult. But even if we can't trace individual attacks back to the Chinese government, experts say mounting evidence signals that the Chinese government is sponsoring wide-ranging cyberattacks against the U.S. government and corporations.</p>
+
+<p>"A review of the scale, focus, and complexity of the overall campaign directed against the United States ... strongly suggest that these operations are state-sponsored or supported," a Northrop Grumman (NOC, Fortune 500) white paper on the capabilities of the Chinese government to conduct cyber warfare concluded.</p>
+
+<p>"China is likely using its maturing computer network exploitation capability to support intelligence collection against the U.S. government and industry by conducting a long term, sophisticated, computer network exploitation campaign."</p>
+
+<p>By 2007, the NSA said that Chinese hackers had accumulated between 10 to 20 terabytes of data stolen from U.S. government agencies and corporation -- about a tenth of the information volume of all the books held by the Library of Congress.</p>
+
+<p>U.S. military networks were attacked 6 million times in 2006, according to the National Security Agency. By 2010, there were 6 million attacks per day. Government officials this month acknowledged that 24,000 Pentagon files had been stolen in March during an organized cyber attack.</p>
+
+<p>Experts agree China has at the very least stolen critical information about the U.S. government's defense industry, space program, China-related policy and military intelligence.</p>
+
+<p>As much as China spies on our government's infrastructure, it also spies on U.S. corporations. A great number of U.S. corporations do business in China, which controls the infrastructure the companies must use to send information back and forth.</p>
+
+<p>Many experts believe the Chinese government actively spies on U.S. corporations working in the country -- just as China does to its own citizens' Internet communications.</p>
+
+<p>"Corporations can't protect themselves against that," said Dave Aitel, president of security firm Immunity Inc. and a former NSA computer scientist. "It's the equivalent of breaking in and installing bugs. Companies are now realizing the true cost of outsourcing. That's why Google left: Google said you can't do trusted business and run a company there."</p>
+
+<p>"I don't want to tell businesses not to go to China because it's unsafe," said Jose Granado, leader of Ernst & Young's information security practice. "At the same time, risk management is necessary. It's important to operate with your eyes wide open there. China isn't Iowa."</p>
+
+<p>So what could China do with all the information it collects?</p>
+
+<p>At best, experts say China will be able to able quickly advance its defense capabilities and save on years of research and development for its military and state-owned technology companies.</p>
+
+<p>At worst, the threat becomes military. In a war, that information could be enough to "delay U.S. deployments and impact combat effectiveness of troops," Northrop Grumman said in its assessment.</p>
+
+<p>"It's easier to go to war if you disable a country's rocket launchers first," said Bill Pennington, CEO of WhiteHat Security, a website security company.</p>
+
+<p>That's not a far-fetched scenario. In September 2007, Israeli F15s and F16s bombed a nuclear reactor construction site in Syria, but Syrian radars never picked up the planes crossing the border. That's because Israel had hacked Syria's radar software.</p>
+
+<p>And then, of course, there's Stuxnet, a bug so sophisticated that it significantly delayed Iran's nuclear program. The worm, which was likely loaded into the system on a thumb drive, ordered the centrifuges in an Iranian nuclear facility to spin out of control, ultimately destroying it. While that was happening, Stuxnet made all the meters tell Iranian engineers that everything was normal.</p>
+
+<p>Experts say much more needs to be done by the government and corporations to ensure our national security.</p>
+
+<p>"The problem is we have this thicket of 20th century rules that don't work in the 21st century," said Michael Chertoff, former Secretary of Homeland Security, in a talk last month hosted by analytics company Opera Solutions. "The concept of a 'person' as the only threat has lost is meaning. It may be a server; we can be at war with a network."</p>
+
+<p>In other words, protecting land, sea and air borders won't save you if your attackers are seconds away no matter where they are.</p>
+
+<p>For all the improvements that the government needs to make, the private sector lags further behind. A recent wave of cyberthreats began to scare corporations into beefing up their security, but companies have still been reluctant to spend.</p>
+
+<p>"Most big corporations are only beginning to realize what's going on and are learning how to respond," ArcSight's Winter noted.</p>
+
+<p>Still, experts say the nightmare scenario -- China disabling our defenses and attacking the country -- remains unlikely.</p>
+
+<p>"The U.S. government operates on the premise that most government systems and networks have been compromised by various classes of attackers," said Jeffrey Bernstein, executive vice president of security contractor Critical Defence, who estimated that more than 150 countries have developed cyberattack capabilities. "Still, the U.S. is the 10,000-lb. gorilla in the world. We're the leader in these capabilities."</p>
+
+<p>It may surprise some that the U.S. Air Force's mission statement is "To fly, fight and win in air, space and cyber space." And the Obama administration has taken a very proactive approach to cybersecurity.</p>
+
+<p>"We are very well defended these days," Winter said. "Our agencies are not totally bulletproof, because nothing is, but they're much better off than they were before."</p>
+
+<p>"It's like the Cold War," said Larry Ponemon, chairman of the Ponemon Institute, a cybersecurity research organization. "We have the ability to bring you down, you have the ability to bring us down, so no one is doing anything."</p>
+
+<p>Coming Friday: Cybercrime is everywhere, but how do they break in? We'll take a look at common hacks and attacks. </p>
+

@@ -1,0 +1,58 @@
+<p>|P_START
+<s>|S_START click|NN chart|NN for|IN more|JJR world|NN market|NN data|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN stocks|NNS fell|VBD around|IN the|DT world|NN friday|NN as|IN a|DT bubble|JJ of|IN fear|NN encompassed|VBN investors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START record|NN high|JJ eurozone|NN unemployment|NN much|RB weakerthanexpected|VBN us|PRP job|NN growth|NN a|DT dour|NN chinese|NN manufacturing|NN report|NN and|CC an|DT 11year|JJ low|JJ for|IN the|DT euro|NN sent|NN stock|NN traders|NNS running|VBG for|IN the|DT exits|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START european|JJ markets|NNS ended|VBD deep|VB in|IN the|DT red|NN friday|NN </s>|S_END
+<s>|S_START the|DT german|NN dax|NN dax|NN led|VBD the|DT selloff|NN by|IN tumbling|NN by|IN nearly|RB 34|CD while|IN englands|NNS ftse|VBP 100|CD ukx|NN fell|VBD by|IN 11|CD and|CC frances|NNS cac|VBP 40|CD cac40|NNP tumbled|VBD 22|CD </s>|S_END
+<s>|S_START the|DT broader|JJR european|JJ euronext|NN 100|CD n100|CD index|NN sank|NN 24|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START asian|JJ markets|NNS ended|VBD mixed|VBN </s>|S_END
+<s>|S_START the|DT shanghai|NN composite|JJ shcomp|NN closed|VBD just|RB above|IN breakeven|JJ the|DT hang|NN seng|NN hsi|NN in|IN hong|JJ kong|JJ slipped|JJ 04|CD and|CC japans|NNS nikkei|VBP n225|NNP slid|VBD 12|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START looking|VBG for|IN safe|JJ havens|NNS german|JJ 2year|JJ bonds|NNS became|VBD so|RB overbought|VBN that|IN the|DT yield|NN on|IN the|DT government|NN debt|NN turned|VBD negative|JJ for|IN the|DT first|JJ time|NN in|IN history|NN </s>|S_END
+<s>|S_START yields|NNS which|VBP move|NN in|IN the|DT opposite|JJ direction|NN of|IN bond|NN prices|NNS fell|VBD below|IN 15|CD on|IN dutch|NN and|CC british|JJ 10year|JJ bonds|NNS as|IN well|RB friday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fear|NN set|VBD in|IN as|IN the|DT 17nation|CD eurozones|NNS unemployment|NN rate|NN reached|VBD the|DT highest|JJS level|NN in|IN the|DT 13year|JJ history|NN of|IN the|DT european|JJ currency|NN </s>|S_END
+<s>|S_START the|DT jobless|NN rate|NN climbed|VBD to|TO 11|CD in|IN april|NN as|IN employers|NNS slashed|VBD 110000|CD jobs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT us|PRP labor|NN department|NN reported|VBD that|IN the|DT economy|NN added|VBD just|RB 69000|CD jobs|NNS friday|NN far|RB fewer|JJR than|IN the|DT 150000|CD jobs|NNS economists|NNS surveyed|VBN by|IN cnnmoney|NN had|VBD forecast|VBN </s>|S_END
+<s>|S_START the|DT unemployment|NN rate|NN rose|VBD to|TO 82|CD </s>|S_END
+<s>|S_START it|PRP was|VBD expected|VBN to|TO have|VB remained|VBN unchanged|JJ at|IN 81|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START also|RB weighing|VBG on|IN stocks|NNS was|VBD chinas|RB production|NN growth|NN which|WDT fell|VBD to|TO the|DT lowest|JJS rate|NN in|IN five|CD months|NNS </s>|S_END
+<s>|S_START exports|NNS to|TO foreign|JJ countries|NNS but|CC particularly|RB debtridden|JJ europe|NN continued|VBD to|TO slump|VB as|IN the|DT euro|NN region|NN teeters|NNS on|IN the|DT brink|NN of|IN recession|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT euro|NN slipped|VBD against|IN a|DT number|NN of|IN foreign|JJ countries|NNS falling|VBG to|TO ¥9619|-NONE- at|IN one|CD point|NN friday|NN morning|NN an|DT 11year|JJ low|JJ against|IN the|DT japanese|NN currency|NN </s>|S_END
+<s>|S_START the|DT euro|NN also|RB fell|VBD a|DT quarter|NN percentage|NN point|NN against|IN the|DT dollar|NN sinking|VBG to|TO $|$ 123|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START investors|NNS also|RB continued|VBD to|TO watch|VB spain|NN closely|RB as|IN the|DT countrys|NNS possible|JJ inability|NN to|TO fund|VB bank|NN bailouts|NNS continue|VBP to|TO build|VB </s>|S_END
+<s>|S_START the|DT yield|NN on|IN 10year|JJ spanish|NN debt|NN returned|VBD near|IN the|DT 66|CD level|NN it|PRP hit|VBD on|IN wednesday|NN approaching|VBG the|DT psychological|JJ barrier|NN of|IN 7|CD that|WDT sent|NN other|JJ european|JJ nations|NNS into|IN a|DT debt|NN crisis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START us|PRP stocks|VBZ tumbled|VBN as|IN well|RB friday|NN with|IN the|DT dow|NN jones|NNS industrial|JJ average|NN indu|NN sp|NN 500|CD spx|NN and|CC nasdaq|NN comp|NN all|DT falling|VBG by|IN around|IN 2 |CD </s>|S_END
+</p>|P_END
+

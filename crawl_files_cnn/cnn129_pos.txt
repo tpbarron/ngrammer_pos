@@ -1,0 +1,145 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN congress|NN has|VBZ invented|VBN a|DT new|JJ extreme|NN sport|NN skating|VBG on|IN the|DT edge|NN of|IN a|DT $|$ 7|CD trillion|CD fiscal|JJ cliff|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS the|DT magnitude|NN of|IN tax|NN increases|NNS and|CC spending|NN cuts|NNS that|WDT will|MD start|VB to|TO hit|VB the|DT economy|NN on|IN jan|NN 1|CD 2013|CD unless|IN congress|NN acts|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC how|WRB congress|NN navigates|VBZ that|IN fiscal|JJ cliff|NN will|MD affect|VB economic|JJ growth|NN americans|NNS wallets|NNS and|CC the|DT countrys|NNS fiscal|JJ outlook|NN </s>|S_END
+<s>|S_START fiscal|JJ cliff|NN what|WP should|MD congress|VB do|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ about|IN $|$ 7|CD trillion|CD there|EX that|WDT could|MD be|VB taken|VBN out|RP of|IN the|DT economy|NN in|IN a|DT really|RB stupid|JJ way|NN that|IN would|MD likely|RB push|VB us|PRP into|IN a|DT recession|NN immediately|RB said|VBD maya|NN macguineas|NNS president|NN of|IN the|DT committee|NN for|IN a|DT responsible|JJ federal|JJ budget|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START indeed|RB economist|VBP mark|NN zandi|NN estimates|NNS that|WDT inaction|NN by|IN congress|NN could|MD chop|VB 3|CD percentage|NN points|NNS off|IN inflationadjusted|VBN economic|JJ growth|NN in|IN 2013|CD </s>|S_END
+<s>|S_START in|IN that|DT scenario|NN he|PRP estimates|VBZ the|DT economy|NN would|MD stop|VB growing|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN the|DT other|JJ hand|NN simply|RB extending|VBG all|DT the|DT expiring|NN tax|NN policies|NNS and|CC canceling|VBG the|DT spending|NN cuts|NNS could|MD add|VB more|RBR than|IN $|$ 7|CD trillion|CD to|TO the|DT countrys|NNS debt|NN over|IN 10|CD years|NNS </s>|S_END
+<s>|S_START while|IN that|DT would|MD boost|VB growth|NN in|IN 2013|CD it|PRP would|MD hurt|VB the|DT economy|NN by|IN the|DT end|NN of|IN the|DT decade|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN course|NN anyone|NN with|IN a|DT modicum|NN of|IN common|JJ sense|NN would|MD prefer|VB a|DT more|RBR finessed|VBN approach|NN </s>|S_END
+<s>|S_START we|PRP have|VBP to|TO come|VB up|RP with|IN a|DT compromise|NN to|TO thread|VB this|DT needle|NN said|VBD macguineas|NNS who|WP appeared|VBD at|IN a|DT recent|JJ conference|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC few|JJ observers|NNS think|VBP that|IN will|MD happen|VB anytime|RB soon|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START instead|RB most|RBS believe|JJ that|IN lawmakers|NNS will|MD postpone|VB taking|VBG up|RP the|DT issue|NN until|IN after|IN the|DT nov|NN 6|CD elections|NNS giving|VBG themselves|PRP less|JJR than|IN eight|CD weeks|NNS to|TO address|VB what|WP may|MD be|VB the|DT largest|JJS single|JJ package|NN of|IN fiscal|JJ issues|NNS theyve|VBP ever|RB tackled|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB did|VBD it|PRP come|VB to|TO this|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bush|NN tax|NN cuts|NNS and|CC amt|NN fix|NN in|IN 2001|CD 2003|CD and|CC 2006|CD congress|NN passed|VBD a|DT series|NN of|IN tax|NN measures|NNS known|VBN as|IN the|DT bush|NN tax|NN cuts|NNS </s>|S_END
+<s>|S_START they|PRP reduced|VBD income|NN and|CC investment|NN tax|NN rates|NNS shrank|VBD the|DT estate|NN tax|NN bite|NN and|CC expanded|VBD a|DT number|NN of|IN breaks|NNS for|IN low|JJ and|CC middleincome|NN families|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB congress|VBP regularly|RB extended|VBN the|DT temporary|JJ patch|NN to|TO the|DT alternative|NN minimum|NN tax|NN so|RB that|IN more|JJR than|IN 20|CD million|CD families|NNS wouldnt|JJ get|NN trapped|VBD by|IN the|DT socalled|VBN wealth|NN tax|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT bush|NN tax|NN cuts|NNS and|CC amt|NN patch|NN were|VBD allowed|VBN to|TO expire|VB as|IN scheduled|VBN households|NNS would|MD be|VB hit|VBN with|IN an|DT average|JJ tax|NN increase|NN of|IN $|$ 3000|CD the|DT tax|NN policy|NN center|NN estimates|NNS </s>|S_END
+<s>|S_START the|DT lowest|JJS 20|CD of|IN households|NNS with|IN a|DT tax|NN increase|NN would|MD pay|VB $|$ 512|CD more|JJR on|IN average|JJ while|IN the|DT top|JJ rung|NN would|MD pay|VB $|$ 12819|CD more|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN both|DT policies|NNS are|VBP extended|VBN most|JJS people|NNS wouldnt|VBP notice|NN any|DT changes|NNS in|IN the|DT nearterm|NN </s>|S_END
+<s>|S_START but|CC the|DT federal|JJ budget|NN would|MD take|VB a|DT longterm|NN hit|NN if|IN lawmakers|NNS didnt|VBP enact|NN offsetting|VBG policies|NNS to|TO pay|VB for|IN the|DT extensions|NNS which|WDT the|DT congressional|JJ budget|NN office|NN estimates|NNS would|MD cost|VB $|$ 535|CD trillion|CD over|IN 10|CD years|NNS including|VBG debt|NN service|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT measures|NNS expire|VBP the|DT countrys|NNS mediumterm|VBP debt|NN problem|NN could|MD be|VB greatly|RB reduced|VBN </s>|S_END
+<s>|S_START but|CC it|PRP would|MD be|VB a|DT blunt|NN strategy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START far|RB better|RBR would|MD be|VB to|TO raise|VB revenue|NN by|IN simplifying|NN and|CC cleaning|VBG out|RP tax|NN breaks|NNS rather|RB than|IN adding|VBG higher|JJR rates|NNS on|IN a|DT top|JJ of|IN a|DT code|NN that|WDT is|VBZ in|IN many|JJ ways|NNS broken|VBN a|DT report|NN from|IN macguineas|NNS crfb|VBP said|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START big|JJ spending|NN cuts|NNS as|RB part|NN of|IN the|DT debt|NN ceiling|NN deal|NN congress|NN struck|NN last|JJ summer|NN nearly|RB $|$ 1|CD trillion|CD in|IN spending|NN cuts|NNS over|IN nine|CD years|NNS are|VBP set|VBN to|TO take|VB effect|NN starting|VBG next|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN to|TO cutting|VBG defense|NN by|IN 10|CD the|DT socalled|JJ sequester|NN will|MD also|RB cut|VB about|IN 8|CD from|IN nondefense|NN discretionary|NN programs|NNS </s>|S_END
+<s>|S_START appropriators|NNS havent|VBD decided|VBN how|WRB much|RB to|TO cut|VB specific|JJ programs|NNS </s>|S_END
+<s>|S_START but|CC individuals|NNS are|VBP bound|VBN to|TO be|VB affected|VBN since|IN nondefense|NN spending|NN involves|VBZ everything|NN from|IN education|NN to|TO law|NN enforcement|NN to|TO housing|NN assistance|NN and|CC national|JJ parks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START deficits|NNS would|MD be|VB reduced|VBN by|IN $|$ 12|CD trillion|CD over|IN 10|CD years|NNS including|VBG debt|NN service|NN if|IN the|DT cuts|NNS or|CC a|DT replacement|NN congress|NN agrees|VBZ on|IN take|NN effect|NN as|IN scheduled|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START doc|NN fix|NN reimbursements|NNS to|TO medicare|VB physicians|NNS will|MD be|VB cut|VBN by|IN close|JJ to|TO 30|CD next|JJ year|NN unless|IN lawmakers|NNS prevent|VBP it|PRP </s>|S_END
+<s>|S_START theyve|NN done|VBN so|RB for|IN years|NNS under|IN the|DT socalled|VBN doc|NN fix|NN and|CC are|VBP likely|JJ to|TO do|VB so|RB again|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT cost|NN of|IN the|DT doc|NN fix|NN is|VBZ roughly|RB $|$ 30|CD billion|CD a|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tax|NN extenders|NNS congress|NN regularly|RB extends|VBZ more|JJR than|IN 50|CD temporary|JJ tax|NN breaks|NNS for|IN businesses|NNS and|CC individuals|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT socalled|VBN extenders|NNS include|VBP one|CD that|WDT lets|NNS businesses|VBZ accelerate|JJ their|PRP$ depreciation|NN for|IN equipment|NN purchases|NNS and|CC another|DT that|WDT gives|VBZ individuals|NNS the|DT option|NN to|TO deduct|VB state|NN sales|NNS taxes|NNS on|IN their|PRP$ federal|JJ returns|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT economic|JJ value|NN of|IN keeping|VBG all|DT the|DT extenders|NNS is|VBZ debatable|JJ </s>|S_END
+<s>|S_START tax|NN experts|NNS argue|VBP that|IN many|JJ should|MD be|VB ditched|VBN and|CC those|DT that|WDT are|VBP kept|VBD should|MD be|VB made|VBN permanent|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START temporarily|RB extending|VBG them|PRP can|MD cost|VB anywhere|RB from|IN $|$ 25|CD billion|CD to|TO $|$ 35|CD billion|CD a|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START payroll|NN tax|NN cut|VBD the|DT usual|JJ social|JJ security|NN tax|NN rate|NN paid|VBN by|IN workers|NNS is|VBZ 62|CD on|IN the|DT first|JJ $|$ 110100|CD in|IN wages|NNS up|IN from|IN $|$ 106800|CD last|JJ year|NN </s>|S_END
+<s>|S_START but|CC for|IN the|DT past|JJ two|CD years|NNS its|PRP$ been|VBN 42|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START once|RB the|DT payroll|NN tax|NN holiday|NN expires|NNS workers|NNS making|VBG $|$ 50000|CD will|MD again|RB have|VB to|TO pay|VB an|DT additional|JJ $|$ 1000|CD into|IN the|DT system|NN next|IN year|NN or|CC about|IN $|$ 83|CD a|DT month|NN </s>|S_END
+<s>|S_START those|DT making|VBG $|$ 100000|CD would|MD pay|VB double|JJ that|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT cost|NN of|IN extending|VBG the|DT payroll|NN tax|NN cut|VBD approaches|NNS $|$ 115|CD billion|CD a|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN it|PRP seems|VBZ unlikely|RB that|IN lawmakers|NNS would|MD extend|VB it|PRP again|RB if|IN they|PRP do|VBP they|PRP will|MD add|VB to|TO what|WP uncle|NN sam|NN owes|NNS social|JJ security|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START why|WRB </s>|S_END
+<s>|S_START because|IN congress|NN has|VBZ decided|VBN that|IN the|DT social|JJ security|NN trust|NN fund|NN shouldnt|NN take|NN the|DT hit|NN from|IN the|DT payroll|NN tax|NN cut|VBD rather|RB general|JJ revenue|NN should|MD be|VB used|VBN to|TO compensate|VB the|DT fund|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unemployment|NN benefits|NNS congress|NN for|IN the|DT past|JJ few|JJ years|NNS has|VBZ authorized|VBN special|JJ help|NN for|IN the|DT jobless|NN a|DT higher|JJR maximum|NN number|NN of|IN weeks|NNS that|WDT the|DT unemployed|VBD can|MD collect|VB benefits|NNS </s>|S_END
+<s>|S_START the|DT latest|JJS extension|NN expires|NNS at|IN the|DT end|NN of|IN the|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ not|RB clear|JJ if|IN lawmakers|NNS will|MD extend|VB the|DT policy|NN </s>|S_END
+<s>|S_START doing|VBG so|RB would|MD cost|VB roughly|RB $|$ 44|CD billion |CD </s>|S_END
+</p>|P_END
+

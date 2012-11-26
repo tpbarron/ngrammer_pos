@@ -1,0 +1,99 @@
+<p>
+<s>mathematics is a curious subject</s>
+<s>though often classed as one it is not really a science</s>
+<s>that scientists use it to describe their interpretation of reality is not quite the same thing</s>
+<s>nor though is it an art—not at any rate in the modern meaning of that word</s>
+<s>the aesthetics of the subject which any mathematician will tell you are the driving force behind his passion are not obvious to the senses in the way that those of a painting a symphony or a play are</s>
+<s>yet benoît mandelbrots celebrity beyond the academy is largely due to art in its modern sensuous sense</s>
+<s>for the “set” to which he gave his name when computed drawn on a complex plane and suitably tinted appealed greatly to the senses—as a million posters greetings cards and tshirts bought by people who had not the faintest idea what it was attest</s>
+</p>
+
+<p>
+<s>the mandelbrot set is a collection of points in the complexnumber plane</s>
+<s>the formula for calculating these numbers is zn1  zn2  c where c is a complex number and n representing the digits 1 to infinity counts the number of times the calculation has been performed</s>
+<s>z starts as any number you like and changes with each calculation the value of zn1 being used as zn the next time round</s>
+<s>sometimes the value of z remains finite no matter how large n gets</s>
+<s>in that case c is part of the mandelbrot set</s>
+<s>sometimes z shoots off to infinity</s>
+<s>in that case c is not part of the set</s>
+<s>the boundary between the two is the swirling fractal line that so appeals to the eye and the colours of the points outside the set indicate how long the calculation takes to start shooting off to infinity</s>
+</p>
+
+<p>
+<s>fractal</s>
+<s>complexnumber plane</s>
+<s>lewis carroll no mean mathematician himself asked alice to believe as many as six impossible things before breakfast</s>
+<s>these could easily have been two of them</s>
+</p>
+
+<p>
+<s>first then the complex plane</s>
+<s>this is the space on which all numbers real imaginary and combinations of the two can be plotted</s>
+<s>a real number is the familiar sort from normal arithmetic</s>
+<s>an imaginary one is a multiple of the square root of 1</s>
+</p>
+
+<p>
+<s>mathematicians struggled for centuries with the question of what multiplied by itself gives the answer 1 before one of them leonhard euler suggested that the best way to deal with the problem was to invent a new symbol he chose i and live with the consequences</s>
+<s>it works</s>
+<s>and as eulers successor carl friedrich gauss was to discover if you plot real numbers on one axis of a graph and imaginary ones on the other you create a plane that represents both sorts of numbers</s>
+<s>complex numbers which have a real and an imaginary part added together are the points on this plane that do not lie on either axis</s>
+</p>
+
+<p>
+<s>the invention of complex numbers was a watershed in mathematics</s>
+<s>it also marked the moment when maths began to slip away from being part of the armamentarium of any educated person and towards the dizzyingly abstruse field it has become today</s>
+<s>but a fractal is something a tenyearold child might hit on</s>
+</p>
+
+<p>
+<s>what is the length of a countrys coastline</s>
+<s>any encyclopedia will give you a figure</s>
+<s>yet stand by the sea and watch the irregularity of its edge and you begin to doubt</s>
+<s>it is not just a matter of tide and waves</s>
+<s>even measuring the boundary of a static body of water is no mean feat</s>
+<s>the closer you look the more irregular the line</s>
+<s>that at bottom is what describes a fractal</s>
+<s>when you magnify it it rushes away from you and becomes a simulacrum of its larger self eventually infinitely long</s>
+</p>
+
+<p>
+<s>dr mandelbrot asked himself the coastline question and answered it in 1967 in an essay called “how long is the coast of britain”</s>
+<s>in 1975 he invented the word fractal to describe his discoveries</s>
+<s>extending fractals into the plane of complex numbers followed in 1979</s>
+<s>but the breakthrough that made them famous was the ability of computers to plot them in a way that is easy on the eye</s>
+<s>thus were launched the posters the cards and the tshirts</s>
+</p>
+
+<p>
+<s>before all this dr mandelbrot worked in the obscurity that modern mathematicians have resigned themselves to</s>
+<s>he had followed albeit belatedly a path familiar to jewish intellectuals driven from eastern europe by the rise of the nazis</s>
+<s>his family fled poland for france before the second world war and though they stayed there for the duration the young benoît afterwards oscillated between france and the united states before settling for america in 1958</s>
+<s>once there he worked for ibm</s>
+<s>among other things he modelled electrical noise</s>
+<s>which it turns out is fractal</s>
+<s>that it was the transmogrification of his formula by computers which brought him fame is thus appropriate</s>
+</p>
+
+<p>
+<s>game set and match</s>
+</p>
+
+<p>
+<s>for a time fractals seemed the answer to everything the shape of clouds the growth of organisms even why the night sky is dark</s>
+<s>then the world lost interest</s>
+</p>
+
+<p>
+<s>perhaps it should not have</s>
+<s>for among dr mandelbrots beliefs was a conviction that financialmarket movements too have fractal forms rather than the familiar bell shapes of “normal” distribution that gauss also described</s>
+<s>if dr mandelbrots belief was correct trading models based on gausss distribution are wrong</s>
+</p>
+
+<p>
+<s>that markets are not gaussian has now been accepted</s>
+<s>dr mandelbrots interpretation however has not</s>
+<s>even if it had been the bankers might not have noticed</s>
+<s>they preferred algorithms to geometry</s>
+</p>
+

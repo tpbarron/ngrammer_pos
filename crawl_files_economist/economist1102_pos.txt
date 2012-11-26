@@ -1,0 +1,54 @@
+<p>|P_START
+<s>|S_START at|IN the|DT elephant|NN and|CC castle|NN roundabout|IN in|IN south|NN london|NN more|RBR than|IN a|DT dozen|NN cyclists|NNS wait|NN at|IN a|DT red|VBN light|NN </s>|S_END
+<s>|S_START ome|NN wearing|VBG lycra|NN and|CC bright|JJ backpacks|NNS hunch|VBP over|IN their|PRP$ expensivelooking|NN cycles|NNS and|CC push|VB to|TO the|DT front|NN </s>|S_END
+<s>|S_START others|NNS in|IN suits|NNS sit|NN astride|NN bulkier|NN commuter|NN bike|NN </s>|S_END
+<s>|S_START they|PRP are|VBP all|RB men|NNS </s>|S_END
+<s>|S_START before|IN the|DT light|JJ changes|NNS the|DT lycraclad|NN ones|NNS rush|VBP forward|RB while|IN the|DT others|NNS weave|VBP cautiously|RB between|IN the|DT many|JJ taxis|NNS and|CC white|JJ van|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN decades|NNS of|IN decline|NN cycling|VBG is|VBZ booming|VBG </s>|S_END
+<s>|S_START according|VBG to|TO the|DT department|NN for|IN transport|NN people|NNS cycled|VBD farther|NN in|IN 2010|CD than|IN in|IN any|DT year|NN since|IN 1991|CD </s>|S_END
+<s>|S_START in|IN london|NN some|DT 540000|CD trips|NNS a|DT day|NN are|VBP made|VBN by|IN bicycle—twice|JJ as|IN many|JJ as|IN in|IN 2000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START public|JJ transport|NN is|VBZ dearer|NN and|CC more|JJR crowded|VBD than|IN it|PRP was|VBD and|CC household|NN incomes|NNS more|RBR pinched|JJ </s>|S_END
+<s>|S_START and|CC sir|PRP$ chris|NNS hoy|VBP who|WP took|NN three|CD gold|NN medals|NNS in|IN cycling|VBG at|IN the|DT beijing|NN olympics|NNS has|VBZ raised|VBN cyclings|NNS profile|IN </s>|S_END
+<s>|S_START that|DT the|DT velodrome|NN is|VBZ among|IN the|DT most|RBS impressive|JJ of|IN the|DT new|JJ olympic|JJ venues|NNS in|IN london|NN is|VBZ testament|JJ to|TO the|DT effect|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START public|JJ investment|NN has|VBZ helped|VBN too|RB </s>|S_END
+<s>|S_START boris|NNS johnson|VBP londons|NNS mayor|NN and|CC a|DT keen|NN cyclist|NN has|VBZ laid|VBN on|IN jazzedup|NN “cycle|NN superhighways”|NN that|WDT crisscross|VBZ popular|JJ commute|NN </s>|S_END
+<s>|S_START his|PRP$ most|RBS visible|JJ imprint|NN on|IN the|DT city|NN so|RB far|RB is|VBZ a|DT cyclehire|NN scheme|NN which|WDT has|VBZ expanded|VBN eastward|NN </s>|S_END
+<s>|S_START by|IN 2026|CD mr|NN johnson|NN wants|VBZ cycling|VBG to|TO have|VB quintupled|VBN from|IN 2001|CD level|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO get|VB there|RB though|IN cyclists|NNS will|MD have|VB to|TO start|VB looking|VBG less|JJR like|IN mr|NN johnson|NN </s>|S_END
+<s>|S_START despite|IN its|PRP$ workingclass|NN origins—one|NN of|IN britains|NNS first|JJ cycling|NN outfits|NNS was|VBD the|DT socialist|NN clarion|NN club|NN in|IN birmingham—twowheeled|JJ transport|NN is|VBZ now|RB mostly|RB the|DT preserve|NN of|IN wealthy|JJ men|NNS </s>|S_END
+<s>|S_START the|DT evans|NNS cycle|NN shop|NN in|IN canary|JJ wharf|NN sells|NNS custom|VBP racing|VBG bikes|NNS for|IN as|RB much|JJ as|IN £10000|-NONE- $|$ 15500|CD to|TO cyclemad|VB banker|NN </s>|S_END
+<s>|S_START in|IN hipper|NN shoreditch|NN small|JJ independent|NN stores|NNS hawk|VBP colourful|JJ onegear|NN bikes|VBZ to|TO graphic|JJ artists|NNS and|CC web|NN designer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nationally|RB the|DT richest|JJS 20|CD of|IN people|NNS cycle|JJ an|DT average|JJ of|IN 33|CD miles|NNS a|DT year|NN to|TO work|VB compared|VBN with|IN just|RB nine|CD miles|NNS for|IN the|DT poorest|JJS 20|CD </s>|S_END
+<s>|S_START twothirds|NNS of|IN those|DT using|VBG mr|NN johnsons|NNS cyclehire|VBP scheme|NN claim|NN household|NN incomes|NNS of|IN more|JJR than|IN £50000|-NONE- a|DT year|NN though|IN only|RB a|DT quarter|NN of|IN london|NN residents|NNS make|VBP that|IN much|JJ </s>|S_END
+<s>|S_START and|CC 77|CD of|IN them|PRP are|VBP men|NNS </s>|S_END
+<s>|S_START in|IN amsterdam|NN by|IN contrast|NN most|JJS cyclists|NNS are|VBP women|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT main|JJ roadblock|NN is|VBZ safety|NN overall|JJ 62|CD of|IN people|NNS think|VBP it|PRP is|VBZ too|RB dangerous|JJ to|TO cycle|NN and|CC around|IN 75|CD of|IN women|NNS do|VBP </s>|S_END
+<s>|S_START accident|NN rates|NNS have|VBP been|VBN falling|VBG in|IN london|NN but|CC 16|CD people|NNS died|VBD cycling|VBG last|JJ year|NN </s>|S_END
+<s>|S_START cyclists|NNS insist|VBP that|IN junctions|NNS like|IN elephant|NN and|CC castle|NN are|VBP lifethreatening|VBG especially|RB when|WRB filled|VBN with|IN heavy|JJ lorries|NNS which|WDT account|NN for|IN many|JJ cycling|VBG death|NN </s>|S_END
+<s>|S_START ghost|NN bikes—painted|JJ frames|NNS left|VBN as|IN memorials|NNS to|TO fallen|VB cyclists—are|JJ an|DT increasingly|RB frequent|JJ sight|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN other|JJ cities|NNS such|JJ as|IN bristol|NN cycling|VBG has|VBZ been|VBN encouraged|VBN by|IN lower|JJR speed|NN limits|NNS for|IN cars|NNS on|IN popular|JJ roads|NNS and|CC trafficfree|VB routes|NNS to|TO bypass|VB dangerous|JJ junction|NN </s>|S_END
+<s>|S_START but|CC boris|VBZ johnson|NN has|VBZ proved|VBN reluctant|JJ to|TO go|VB as|IN far|RB partly|RB for|IN fear|NN of|IN slowing|VBG down|IN londons|NNS already|RB sluggish|JJ traffic|NN </s>|S_END
+<s>|S_START asked|VBD recently|RB about|IN a|DT proposal|NN to|TO redesign|VB the|DT giant|JJ elephant|NN and|CC castle|NN roundabout|IN the|DT mayor|NN responded|VBD that|IN “if|JJ you|PRP keep|VB your|PRP$ wits|NNS about|IN you”|JJ the|DT intersection|NN is|VBZ “perfectly|RB negotiable”|-NONE- </s>|S_END
+</p>|P_END
+

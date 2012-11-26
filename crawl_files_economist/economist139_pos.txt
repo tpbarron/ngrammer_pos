@@ -1,0 +1,47 @@
+<p>|P_START
+<s>|S_START winning|VBG an|DT election|NN tries|VBZ a|DT candidate’s|JJ mettle|NN </s>|S_END
+<s>|S_START but|CC winning|VBG a|DT place|NN on|IN the|DT ballot|NN paper|NN is|VBZ another|DT kind|NN of|IN test|NN </s>|S_END
+<s>|S_START arcane|NN and|CC dubious|JJ eligibility|NN criteria|NNS feature|VBP in|IN many|JJ countries’|NN constitutions|NNS and|CC electoral|JJ rule|NN </s>|S_END
+<s>|S_START the|DT newly|RB pluralist|VBP countries|NNS of|IN north|JJ africa|NN for|IN example|NN display|NN what|WP many|JJ might|MD find|VB a|DT xenophobic|JJ streak|NN </s>|S_END
+<s>|S_START draft|NN constitutions|NNS in|IN egypt|NN and|CC libya|NN require|NN presidential|JJ candidates|NNS to|TO ditch|VB not|RB only|RB any|DT foreign|JJ passports|NNS but|CC also|RB foreign|JJ spouse|NN </s>|S_END
+<s>|S_START tunisia|NN is|VBZ even|RB harsher|RB it|PRP disqualifies|VBZ anyone|NN with|IN a|DT foreign|JJ parent|NN </s>|S_END
+<s>|S_START even|RB the|DT keenest|JJS candidate|NN can|MD do|VB little|RB to|TO shed|VBN that|IN taint|NN </s>|S_END
+<s>|S_START a|DT draft|NN in|IN egypt|NN had|VBD a|DT similar|JJ rule|NN </s>|S_END
+<s>|S_START but|CC when|WRB it|PRP turned|VBD out|RP that|IN a|DT leading|JJ salafist’s|NN late|JJ mother|NN had|VBD once|RB held|VBN an|DT american|JJ passport|NN the|DT wording|NN changed|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START countries|NNS that|IN have|VBP shed|VBN communist|NN dictatorship|NN are|VBP more|RBR liberal|JJ </s>|S_END
+<s>|S_START estonia’s|NNS president|NN toomas|NNS hendrick|VBP ilves|NNS was|VBD born|VBN in|IN sweden|NN of|IN émigré|NNP parent|NN </s>|S_END
+<s>|S_START for|IN unelected|VBN heads|NNS of|IN state|NN the|DT regime|NN is|VBZ positively|RB anarchic|JJ </s>|S_END
+<s>|S_START most|JJS european|JJ monarchs|NNS have|VBP foreign|JJ forebears|NNS british|JJ aristocrats|NNS some|DT claiming|VBG norman|NN ancestry|NN disparage|NN the|DT royal|NN family’s|VBZ german|NN root|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT young|JJ and|CC ambitious|JJ may|MD face|VB a|DT wait|NN </s>|S_END
+<s>|S_START most|JJS countries|NNS including|VBG the|DT united|JJ states|NNS set|VBP a|DT minimum|JJ age|NN for|IN the|DT head|NN of|IN state|NN at|IN 35|CD </s>|S_END
+<s>|S_START france|NN though|IN dropped|VBD its|PRP$ threshold|NN from|IN 23|CD to|TO 18|CD in|IN 2011|CD whereas|NNS italy|RB excludes|VBZ the|DT under50|NNP </s>|S_END
+<s>|S_START tajikistan|NN is|VBZ a|DT rare|NN example|NN of|IN an|DT upper|JJ age|NN limit|NN you|PRP can|MD not|RB be|VB over|IN 65|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT hurdle|NN is|VBZ money|NN </s>|S_END
+<s>|S_START omalia’s|NNS new|JJ constitution|NN published|VBN last|JJ month|NN requires|VBZ applicants|NNS to|TO pay|VB $|$ 10000|CD to|TO register|JJR their|PRP$ candidacy|NN </s>|S_END
+<s>|S_START in|IN liberia|NN they|PRP must|MD own|VB property|NN worth|NN at|IN least|JJS $|$ 25000|CD </s>|S_END
+<s>|S_START argentinian|JJ presidential|JJ candidates|NNS need|VBP a|DT minimum|JJ annual|JJ income|NN of|IN 2000|CD pesos|NNS about|IN $|$ 420|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START education|NN levels|NNS matter|NN too|RB </s>|S_END
+<s>|S_START turkey|NN insists|NNS its|PRP$ president|NN hold|VBD a|DT university|NN degree|NN whereas|NNS the|DT philippines’|NN constitution|NN only|RB stipulates|VBZ the|DT ability|NN “to|-NONE- read|VB and|CC write”|NNP </s>|S_END
+<s>|S_START kyrgyz|NN ukrainian|VBD or|CC uzbek|NN hopefuls|NNS must|MD speak|VB the|DT state|NN language|NN fluently|RB </s>|S_END
+<s>|S_START ierra|NN leone|NN requires|VBZ english|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT trickiest|JJS requirements|NNS are|VBP the|DT fuzziest|JJS one|CD </s>|S_END
+<s>|S_START iran|NN requires|VBZ “trustworthiness|JJ and|CC piety”|JJ iraq|NN stipulates|NNS “a|-NONE- good|JJ reputation”|NN </s>|S_END
+<s>|S_START in|IN the|DT contest|NN to|TO elect|VB singapore’s|JJ head|NN of|IN state|NN in|IN 1999|CD and|CC 2005|CD the|DT presidential|JJ elections|NNS committee|NN deemed|VBD only|RB one|CD candidate|NN sr|NN </s>|S_END
+<s>|S_START nathan|IN to|TO be|VB a|DT “person|NN of|IN integrity”|NNP among|IN other|JJ stringent|NN criteria|NNS and|CC hence|NN fit|NN to|TO run|VB </s>|S_END
+</p>|P_END
+

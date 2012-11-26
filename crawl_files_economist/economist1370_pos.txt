@@ -1,0 +1,68 @@
+<p>|P_START
+<s>|S_START an|DT election|NN should|MD be|VB good|JJ business|NN for|IN a|DT cable|JJ news|NN channel|NN </s>|S_END
+<s>|S_START alas|NNS this|DT is|VBZ less|JJR true|JJ if|IN like|IN cnn|NN you|PRP try|VBP to|TO be|VB unbiased|VBN </s>|S_END
+<s>|S_START when|WRB mitt|NN romney|NN says|VBZ that|IN 47|CD of|IN americans|NNS are|VBP moochers|NNS or|CC barack|VBP obama|NN says|VBZ that|IN entrepreneurs|NNS didn’t|JJ build|NN their|PRP$ own|JJ businesses|NNS partisan|VBP viewers|NNS crave|VBP a|DT partisan|NN response|NN </s>|S_END
+<s>|S_START either|DT the|DT candidate|NN hates|VBZ america|NN or|CC he|PRP is|VBZ being|VBG quoted|VBN out|RP of|IN context|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fox|NN news|NN assures|NNS conservative|JJ viewers|NNS that|WDT democrats’|-NONE- gaffes|VBZ fall|NN in|IN the|DT former|JJ category|NN and|CC republicans’|NNP in|IN the|DT latter|NN </s>|S_END
+<s>|S_START msnbc|NN vice|NN versa|NN </s>|S_END
+<s>|S_START cnn|NN tries|NNS to|TO be|VB fair|JJ </s>|S_END
+<s>|S_START viewers|NNS hate|VBP that|IN </s>|S_END
+<s>|S_START its|PRP$ ratings|NNS in|IN america|NN are|VBP sliding|VBG while|IN fox|NN and|CC msnbc|NN are|VBP doing|VBG well|RB see|VB chart|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT year|NN to|TO midseptember|VB an|DT average|JJ of|IN 577000|CD people|NNS have|VBP watched|VBN cnn|NN during|IN primetime|NN 25|CD fewer|JJR than|IN tuned|VBN into|IN msnbc|NN and|CC 69|CD fewer|JJR than|IN fox|NN attracted|VBN </s>|S_END
+<s>|S_START ratings|NNS affect|VBP cnn’s|JJ two|CD revenue|NN streams|NNS sales|NNS of|IN adverts|NNS and|CC the|DT fees|NNS that|WDT cable|JJ operators|NNS pay|VBP them|PRP to|TO carry|VB the|DT channel|NN </s>|S_END
+<s>|S_START cnn|NN which|WDT is|VBZ owned|VBN by|IN time|NN warner|NN has|VBZ a|DT thriving|NN international|JJ division|NN </s>|S_END
+<s>|S_START yet|RB america|VBP accounts|NNS for|IN 80|CD of|IN its|PRP$ revenues|NNS so|IN a|DT slump|NN at|IN home|NN hurt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN july|RB jim|JJ walton|NN cnn’s|NNS boss|IN announced|VBN he|PRP would|MD leave|VB the|DT company|NN by|IN the|DT end|NN of|IN the|DT year|NN </s>|S_END
+<s>|S_START the|DT search|NN is|VBZ now|RB on|IN for|IN a|DT new|JJ bo|NN </s>|S_END
+<s>|S_START jeff|NN bewkes|VBZ the|DT head|NN of|IN time|NN warner|NN has|VBZ scolded|VBN cnn|NN for|IN its|PRP$ performance|NN </s>|S_END
+<s>|S_START but|CC he|PRP says|VBZ he|PRP wants|VBZ it|PRP to|TO revive|VB without|IN sacrificing|NN its|PRP$ nonpartisan|NN brand|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnn|NN is|VBZ good|JJ at|IN reporting|VBG hard|RB news|NN because|IN it|PRP has|VBZ lots|NNS of|IN good|JJ reporter|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ 45|CD bureaus|NNS around|IN the|DT world—more|JJ than|IN fox|NN news|NN and|CC msnbc|NN combined—and|NN about|IN 4000|CD employee|NN </s>|S_END
+<s>|S_START its|PRP$ ratings|NNS soar|NN whenever|NN there|EX is|VBZ a|DT terrorist|NN attack|NN flood|NN or|CC war|NN </s>|S_END
+<s>|S_START when|WRB american|JJ embassies|NNS were|VBD recently|RB stormed|VBN in|IN libya|NN yemen|NNS and|CC egypt|VB for|IN example|NN cnn|NN got|VBD a|DT lift|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB the|DT news|NN is|VBZ about|IN words|NNS rather|RB than|IN action|NN however|RB cnn|JJ struggle|NN </s>|S_END
+<s>|S_START conservative|JJ viewers|NNS like|IN to|TO hear|VB fox’s|JJ bill|NN o’reilly|RB fume|NN about|IN “farleft|JJ loons”|NN </s>|S_END
+<s>|S_START liberals|NNS like|IN to|TO hear|VB msnbc’s|JJ rachel|NN maddow|NN condescend|NN to|TO conservative|VB </s>|S_END
+<s>|S_START gasbags|NNS in|IN a|DT studio|NN are|VBP cheaper|JJR than|IN camera|NN crews|NNS in|IN the|DT middle|NN east|NN which|WDT may|MD be|VB why|WRB cnn’s|-NONE- profit|NN margins|NNS around|IN 37|CD are|VBP less|RBR than|IN msnbc’s|NNS 46|CD and|CC fox’s|JJ 55|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START till|NN cnn’s|NNS margins|NNS are|VBP nothing|VBG to|TO scoff|VB at|IN says|NNS derek|VBP baine|NN of|IN snl|NN kagan|NN a|DT research|NN firm|NN </s>|S_END
+<s>|S_START they|PRP are|VBP far|RB better|RBR than|IN broadcast|NN networks’|NN which|WDT are|VBP around|IN 10|CD </s>|S_END
+<s>|S_START cnn|NN made|VBD an|DT estimated|VBN profit|NN of|IN $|$ 600m|CD this|DT year|NN and|CC possibly|RB even|RB more|RBR </s>|S_END
+<s>|S_START it|PRP continues|VBZ to|TO be|VB a|DT haven|NN for|IN advertisers|NNS that|WDT do|VBP not|RB want|VB to|TO associate|VB themselves|PRP with|IN a|DT political|JJ agenda|NN </s>|S_END
+<s>|S_START its|PRP$ audience|NN is|VBZ younger|JJR and|CC more|JJR racially|RB diverse|JJ than|IN fox’s|JJ which|WDT is|VBZ 95|CD white|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnn’s|NNS challenge|VBP is|VBZ to|TO attract|VB more|JJR viewers|NNS when|WRB no|DT one|NN is|VBZ shooting|VBG anyone|NN or|CC blowing|VBG anything|NN up|IN </s>|S_END
+<s>|S_START mark|NN whitaker|NN executive|NN vicepresident|NN of|IN cnn|NN worldwide|NN says|VBZ cnn|NN needs|VBZ to|TO offer|VB more|JJR “destination|JJ programming”|NN where|WRB the|DT journalist|NN goes|VBZ somewhere|RB more|JJR interesting|JJ than|IN a|DT studio|NN and|CC fewer|JJR talking|VBG head|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnn|NN is|VBZ starting|VBG to|TO carry|VB more|JJR political|JJ documentaries|NNS made|VBN by|IN hbo|NN a|DT sister|NN cable|NN network|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ also|RB announced|VBN a|DT few|JJ new|JJ shows|NNS including|VBG one|CD hosted|JJ by|IN anthony|NN bourdain|NN a|DT globetrotting|NN warthogrectumeating|VBG chef|NN </s>|S_END
+<s>|S_START but|CC the|DT firm|NN must|MD be|VB careful|JJ not|RB to|TO tarnish|VB its|PRP$ reputation|NN for|IN serious|JJ news|NN by|IN becoming|VBG too|RB much|RB like|IN the|DT discovery|NN channel|NN or|CC the|DT food|NN network|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ a|DT difficult|JJ balancing|NN act|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT next|JJ boss|NN chooses|NNS to|TO differentiate|VB cnn|NN further|RB from|IN its|PRP$ rivals|NNS by|IN commissioning|VBG more|JJR global|JJ reporting|VBG and|CC less|JJR hot|JJ air|NN it|PRP will|MD cost|VB a|DT packet|NN </s>|S_END
+<s>|S_START but|CC mr|PRP$ whitaker|NN is|VBZ bullish|JJ “if|JJ it|PRP got|VBD our|PRP$ ratings|NNS up|IN substantially|RB it|PRP would|MD be|VB worth|JJ it”|NN he|PRP say|VBP </s>|S_END
+</p>|P_END
+

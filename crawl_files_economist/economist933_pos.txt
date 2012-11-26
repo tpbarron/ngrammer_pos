@@ -1,0 +1,47 @@
+<p>|P_START
+<s>|S_START greek|NN officials|NNS used|VBN to|TO shrug|NN off|RP tax|NN evasion|NN as|IN “a|NNP national|JJ sport”|NN </s>|S_END
+<s>|S_START the|DT finance|NN ministry|NN focused|VBD on|IN raising|NN revenue|NN through|IN indirect|JJ taxes|NNS such|JJ as|IN valueadded|JJ tax|NN </s>|S_END
+<s>|S_START meanwhile|RB income|NN from|IN a|DT flourishing|NN black|NN economy|NN financed|VBN the|DT building|NN of|IN second|JJ homes|NNS on|IN the|DT islands|NNS in|IN greece’s|JJ arcadian|NN heartland|NN or|CC moved|VBN into|IN bank|NN accounts|NNS abroad|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT days|NNS are|VBP over|IN </s>|S_END
+<s>|S_START as|IN greece|NN struggles|NNS to|TO put|VB its|PRP$ public|JJ finances|NNS in|IN order|NN property|NN owners|NNS have|VBP been|VBN hit|VBN by|IN a|DT volley|NN of|IN new|JJ taxes|NNS and|CC holders|NNS of|IN swiss|JJ bank|NN accounts|NNS are|VBP under|IN uncomfortable|JJ scrutiny|NN </s>|S_END
+<s>|S_START hot|JJ doc|NN an|DT investigative|JJ magazine|NN recently|RB published|VBD a|DT list|NN of|IN 2000|CD greeks|NNS who|WP kept|VBD accounts|NNS at|IN a|DT geneva|NN branch|NN of|IN hsbc|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START costas|NNS vaxevanis|VBP its|PRP$ editor|NN is|VBZ adamant|JJ that|IN to|TO publish|VB the|DT list|NN was|VBD in|IN the|DT public|NN interest|NN </s>|S_END
+<s>|S_START many|JJ hardup|NN law|NN abiding|VBG greeks|NNS would|MD agree|VB </s>|S_END
+<s>|S_START he|PRP argues|VBZ that|IN reforms|NNS of|IN taxation|NN have|VBP not|RB gone|VBN far|RB enough|RB despite|IN recent|JJ efforts|NNS by|IN the|DT conservativeled|VBN coalition|NN government|NN of|IN antonis|NNS samaras|IN to|TO pursue|VB 54000|CD taxpayers|NNS who|WP sent|NN €22|-NONE- billion|CD $|$ 285|CD billion|CD abroad|NN in|IN 200911|CD </s>|S_END
+<s>|S_START about|IN 15000|CD people|NNS transferred|VBN funds|NNS that|WDT were|VBD not|RB declared|VBN to|TO the|DT tax|NN authorities|NNS the|DT government|NN now|RB hopes|VBZ to|TO rake|VB in|IN an|DT extra|JJ €225|NN billion|NN in|IN taxe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN vaxevanis|NNS is|VBZ due|JJ to|TO be|VB tried|VBN in|IN athens|NNS on|IN november|NN 1st|CD on|IN charges|NNS of|IN violating|VBG dataprivacy|NN laws|NNS by|IN publishing|NN the|DT list|NN that|IN contains|NNS names|VBZ of|IN politicians|NNS shipowners|NNS and|CC businesspeople|VB </s>|S_END
+<s>|S_START he|PRP accepts|VBZ that|IN some|DT accounts|NNS held|VBD legitimate|JJ fund|NN </s>|S_END
+<s>|S_START yet|RB many|JJ of|IN the|DT 200|CD people|NNS contacted|VBN by|IN the|DT hot|JJ doc|NN team|NN either|DT claimed|VBN the|DT list|NN was|VBD a|DT fake|NN or|CC begged|VBN him|PRP not|RB to|TO publish|VB their|PRP$ names|NNS he|PRP say|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT most|RBS embarrassed|VBN by|IN the|DT revelations|NNS are|VBP two|CD former|JJ socialist|NN finance|NN ministers|NNS george|VBP papaconstantinou|PRP and|CC his|PRP$ successor|NN evangelos|NNS venizelos|NNS now|RB leader|NN of|IN pasok|NN the|DT panhellenic|JJ socialist|NN movement|NN </s>|S_END
+<s>|S_START in|IN 2010|CD mr|NN papaconstantinou|NN requested|VBD the|DT list|NN put|VBD together|RP by|IN a|DT former|JJ hsbc|NN employee|NN from|IN christine|NN lagarde|NN then|RB his|PRP$ counterpart|NN in|IN france|NN </s>|S_END
+<s>|S_START he|PRP asked|VBD ioannis|NNS kapeleris|NNS the|DT head|NN of|IN sdoe|NN the|DT greek|NN financial|JJ police|NN to|TO check|VB out|RP ten|RB name|VBD </s>|S_END
+<s>|S_START although|IN they|PRP turned|VBD out|RP to|TO be|VB suspected|VBN tax|NN evaders|NNS mr|VBP papaconstantinou|PRP never|RB pursued|VBD the|DT matter|NN </s>|S_END
+<s>|S_START the|DT cds|NNS containing|VBG the|DT names|NNS and|CC a|DT copy|NN made|VBN on|IN a|DT usb|NN stick|NN were|VBD “mislaid”|JJ mr|NN papaconstantinou|NN told|VBD parliament|NN </s>|S_END
+<s>|S_START the|DT next|JJ head|NN of|IN sdoe|NN ioannis|NNS diotis|VBZ a|DT former|JJ public|JJ prosecutor|NN told|VBD mr|NN venizelos|NNS an|DT investigation|NN into|IN the|DT stolen|JJ list|NN could|MD face|VB legal|JJ problem|NN </s>|S_END
+<s>|S_START the|DT matter|NN was|VBD quietly|RB dropped|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yannis|NNS stournaras|VBD the|DT current|JJ finance|NN minister|NN a|DT technocrat|NN has|VBZ asked|VBN paris|NNS to|TO send|VB another|DT copy|NN of|IN the|DT list|NN which|WDT dates|VBZ from|IN 2007|CD </s>|S_END
+<s>|S_START yet|RB it|PRP may|MD still|RB be|VB hard|RB to|TO catch|VB up|RP with|IN tax|NN evader|NN </s>|S_END
+<s>|S_START according|VBG to|TO mr|VB kapeleris|NNS delays|NNS in|IN digitising|VBG tax|NN records|NNS have|VBP meant|VBN that|IN many|JJ documents|NNS going|VBG back|RB more|JJR than|IN five|CD years|NNS are|VBP shredded|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT sheer|NN scale|NN of|IN greek|NN tax|NN evasion|NN angers|NNS the|DT european|JJ union|NN and|CC imf|NN officials|NNS trying|VBG to|TO knock|VB greece’s|JJ economy|NN back|RB into|IN shape|NN </s>|S_END
+<s>|S_START one|CD recent|JJ study|NN suggested|VBD up|IN to|TO €30|-NONE- billion|CD of|IN revenue|NN goes|VBZ uncollected|VBN every|DT year|NN </s>|S_END
+<s>|S_START ms|NNS lagarde|VBP now|RB the|DT imf|NN managing|VBG director|NN has|VBZ said|VBN publicly|RB she|PRP cares|VBZ more|JJR about|IN village|NN schoolchildren|NNS in|IN niger|NN than|IN athenians|NNS “who|-NONE- are|VBP trying|VBG to|TO escape|NN tax|NN all|DT the|DT time”|NNP mr|NN vaxevanis’s|NNS trial|NN will|MD be|VB closely|RB watched|VBN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,116 @@
+<p>|P_START
+<s>|S_START new|JJ democracy|NN leader|NN antonis|VBZ samaras|NNS will|MD try|VB to|TO corral|JJ greek|NN politicians|NNS this|DT week|NN in|IN his|PRP$ second|JJ attempt|NN to|TO form|NN a|DT governing|NN coalition|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN greece|NN took|VBD a|DT step|NN back|RB from|IN the|DT brink|NN this|DT weekend|NN but|CC the|DT nation|NN faces|NNS a|DT long|JJ road|NN to|TO recovery|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN the|DT victory|NN of|IN a|DT probailout|NN political|JJ party|NN in|IN sundays|NNS election|NN the|DT final|JJ composition|NN of|IN the|DT next|JJ greek|NN government|NN has|VBZ yet|RB to|TO be|VB determined|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START once|RB a|DT government|NN is|VBZ formed|VBN regardless|NN of|IN which|WDT party|NN is|VBZ in|IN charge|NN the|DT first|JJ task|NN will|MD be|VB to|TO renegotiate|VB the|DT terms|NNS of|IN greeces|NNS bailout|IN program|NN </s>|S_END
+<s>|S_START that|DT will|MD be|VB difficult|JJ to|TO say|VB the|DT least|JJS and|CC could|MD take|VB weeks|NNS if|IN not|RB months|NNS to|TO accomplish|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN other|JJ words|NNS the|DT outlook|NN for|IN greece|NN is|VBZ highly|RB uncertain|RB and|CC the|DT nations|NNS political|JJ and|CC economic|JJ crisis|NN is|VBZ far|RB from|IN over|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START forming|VBG a|DT government|NN the|DT first|JJ challenge|NN will|MD be|VB for|IN greek|NN politicians|NNS to|TO come|VB together|RP and|CC form|NN a|DT government|NN something|NN they|PRP failed|VBD to|TO do|VB last|JJ month|NN under|IN very|RB similar|JJ circumstances|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ democracy|NN one|CD of|IN the|DT political|JJ parties|NNS that|WDT signed|VBD off|RP on|IN greeces|NNS bailout|IN program|NN in|IN march|NN won|VBD 129|CD seats|NNS in|IN the|DT greek|NN parliament|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC it|PRP fell|VBD short|JJ of|IN claiming|VBG a|DT majority|NN in|IN greeces|NNS 300seat|CD parliament|NN </s>|S_END
+<s>|S_START that|DT means|VBZ new|JJ democracy|NN will|MD need|VB to|TO join|VB forces|NNS with|IN at|IN least|JJS one|CD other|JJ party|NN to|TO form|NN a|DT viable|JJ government|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT most|RBS likely|JJ candidate|NN is|VBZ the|DT socialist|NN pasok|NN party|NN which|WDT came|VBD in|IN third|JJ on|IN sunday|NN with|IN 33|CD seats|NNS in|IN parliament|NN </s>|S_END
+<s>|S_START together|RB new|JJ democracy|NN and|CC pasok|NN would|MD have|VB a|DT majority|NN </s>|S_END
+<s>|S_START the|DT coalition|NN could|MD be|VB strengthened|VBN if|IN another|DT party|NN democratic|JJ left|NN agrees|NNS to|TO join|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB analysts|NNS say|VBP pasok|NN party|NN leader|NN evangelos|NNS venizelos|NNS wants|NNS the|DT farleft|NN syriza|NN party|NN to|TO be|VB included|VBN in|IN any|DT governing|NN coalition|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START syriza|NN which|WDT has|VBZ threatened|VBN to|TO renege|VB on|IN the|DT terms|NNS of|IN the|DT bailout|NN came|VBD in|IN second|JJ in|IN the|DT election|NN with|IN 71|CD seats|NNS in|IN parliament|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT concern|NN is|VBZ that|IN pasok|NN will|MD refuse|VB to|TO join|VB forces|NNS with|IN new|JJ democracy|NN if|IN syriza|NN is|VBZ not|RB included|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START starting|VBG monday|NN new|JJ democracy|NN has|VBZ three|CD days|NNS to|TO form|NN a|DT government|NN </s>|S_END
+<s>|S_START if|IN it|PRP fails|VBZ syriza|NN will|MD be|VB given|VBN the|DT same|JJ threeday|NN deadline|NN </s>|S_END
+<s>|S_START if|IN syriza|NN fails|NNS pasok|VBP will|MD be|VB next|JJ in|IN line|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT event|NN that|IN no|DT government|NN is|VBZ formed|VBN greece|NN could|MD hold|VB a|DT third|JJ election|NN </s>|S_END
+<s>|S_START but|CC analysts|NNS say|VBP there|RB is|VBZ no|DT political|JJ appetite|NN in|IN greece|NN for|IN a|DT third|JJ election|NN suggesting|VBG the|DT parties|NNS have|VBP a|DT strong|JJ incentive|NN to|TO cooperate|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bailout|IN renegotiation|NN any|DT government|NN that|IN comes|VBZ to|TO power|NN is|VBZ expected|VBN to|TO immediately|RB begin|VB renegotiating|VBG the|DT terms|NNS of|IN the|DT nations|NNS bailout|IN program|NN with|IN its|PRP$ international|JJ creditors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP signs|NNS that|IN the|DT european|JJ union|NN international|JJ monetary|NN fund|NN and|CC european|JJ central|JJ bank|NN collectively|RB known|VBN as|IN the|DT troika|NN are|VBP willing|JJ to|TO make|VB concessions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT statement|NN issued|VBN sunday|NN the|DT eurogroup|NN of|IN euro|NN area|NN finance|NN ministers|NNS said|VBD the|DT troika|NN looks|VBZ forward|RB to|TO an|DT exchange|NN of|IN views|NNS with|IN the|DT greek|NN government|NN once|RB it|PRP is|VBZ formed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT immediate|JJ goal|NN is|VBZ to|TO give|VB greece|NN more|JJR time|NN to|TO meet|VB its|PRP$ fiscal|JJ targets|NNS including|VBG a|DT deadline|NN at|IN the|DT end|NN of|IN june|NN to|TO identify|VB additional|JJ budget|NN cuts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB allowing|VBG greece|NN more|JJR time|NN to|TO meet|VB its|PRP$ targets|NNS could|MD cause|VB the|DT government|NN to|TO run|VB in|IN arrears|NNS meaning|VBG it|PRP will|MD go|VB deeper|NN into|IN debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN the|DT greek|NN economy|NN has|VBZ taken|VBN a|DT turn|NN for|IN the|DT worse|NN since|IN the|DT bailout|NN agreement|NN was|VBD signed|VBN in|IN march|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT combination|NN of|IN weakerthanexpected|VBN economic|JJ performance|NN and|CC additional|JJ debt|NN means|VBZ greece|NN could|MD soon|RB need|VBP more|JJR bailout|IN money|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START analysts|NNS at|IN political|JJ research|NN firm|NN eurasia|NN group|NN estimate|NN that|WDT greece|NN could|MD have|VB between|IN €20|-NONE- billion|CD to|TO €30|-NONE- billion|CD in|IN additional|JJ funding|NN needs|VBZ depending|VBG on|IN how|WRB the|DT terms|NNS are|VBP restructured|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN the|DT troika|NN may|MD be|VB willing|JJ to|TO cut|VB greece|NN some|DT slack|NN by|IN delaying|NN reforms|NNS it|PRP may|MD not|RB be|VB willing|JJ to|TO sign|VB off|RP on|IN a|DT third|JJ bailout|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT renegotiation|NN process|NN is|VBZ expected|VBN to|TO take|VB at|IN least|JJS three|CD weeks|NNS </s>|S_END
+<s>|S_START but|CC it|PRP could|MD take|VB longer|RBR depending|VBG on|IN how|WRB things|NNS play|VBP out|IN in|IN the|DT netherlands|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT dutch|JJ government|NN collapsed|VBD in|IN april|NN and|CC the|DT nation|NN may|MD not|RB agree|VB to|TO any|DT concessions|NNS for|IN greece|NN until|IN after|IN elections|NNS are|VBP held|VBN in|IN midseptember|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ a|DT chance|NN that|WDT negotiations|NNS could|MD drag|VB out|RP until|IN the|DT end|NN of|IN august|NN when|WRB greece|NN is|VBZ due|JJ to|TO make|VB a|DT €31|JJ billion|NN bond|NN payment|NN according|VBG analysts|NNS at|IN barclays|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN that|DT case|NN greece|NN and|CC the|DT eu|NN would|MD have|VB to|TO negotiate|VB how|WRB to|TO make|VB the|DT payment|NN possibly|RB through|IN a|DT bridge|NN loan|NN from|IN the|DT efsf|NN wrote|VBD the|DT barclays|NNS analysts|NNS referring|VBG to|TO the|DT eurozone|NN bailout|IN fund |JJ </s>|S_END
+</p>|P_END
+

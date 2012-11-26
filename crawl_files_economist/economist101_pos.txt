@@ -1,0 +1,132 @@
+<p>|P_START
+<s>|S_START as|IN every|DT parent|NN knows|VBZ a|DT tidy|NN bedroom|NN is|VBZ very|RB different|JJ from|IN a|DT messy|NN one|CD </s>|S_END
+<s>|S_START the|DT number|NN of|IN items|NNS in|IN the|DT room|NN may|MD be|VB exactly|RB the|DT same|JJ but|CC the|DT difference|NN between|IN orderly|RB and|CC disorderly|RB arrangements|NNS is|VBZ immediately|RB apparent|JJ </s>|S_END
+<s>|S_START now|RB imagine|VBP a|DT house|NN with|IN millions|NNS of|IN rooms|NNS each|DT of|IN which|WDT is|VBZ either|DT tidy|NN or|CC messy|JJ </s>|S_END
+<s>|S_START a|DT robot|NN in|IN the|DT house|NN can|MD inspect|VB each|DT room|NN to|TO see|VB which|WDT state|NN it|PRP is|VBZ in|IN </s>|S_END
+<s>|S_START it|PRP can|MD also|RB turn|VB a|DT tidy|NN room|NN into|IN a|DT messy|JJ one|CD by|IN throwing|NN things|NNS on|IN the|DT floor|NN at|IN random|NN and|CC a|DT messy|NN room|NN into|IN a|DT tidy|JJ one|CD by|IN tidying|NN it|PRP up|IN </s>|S_END
+<s>|S_START this|DT in|IN essence|NN is|VBZ how|WRB a|DT new|JJ class|NN of|IN memory|NN chip|NN work|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ called|VBN “phasechange|JJ memory”|NN and|CC like|IN the|DT flash|NN memory|NN that|WDT provides|VBZ storage|NN in|IN mobile|JJ phones|NNS cameras|NNS and|CC some|DT laptops|NNS it|PRP can|MD retain|VB information|NN even|RB when|WRB the|DT power|NN is|VBZ switched|VBN off|RP </s>|S_END
+<s>|S_START but|CC it|PRP promises|VBZ to|TO be|VB smaller|JJR and|CC faster|JJR than|IN flash|NN and|CC will|MD probably|RB be|VB storing|VBG your|PRP$ photos|NNS music|JJ and|CC messages|NNS within|IN a|DT few|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT technology|NN relies|VBZ as|IN its|PRP$ name|NN suggests|VBZ on|IN special|JJ substances|NNS called|VBN phasechange|NN materials|NNS pcm|VBP </s>|S_END
+<s>|S_START these|DT are|VBP materials|NNS such|JJ as|IN salt|NN hydrates|NNS that|WDT are|VBP capable|JJ of|IN storing|NN and|CC releasing|VBG large|JJ amounts|NNS of|IN energy|NN when|WRB they|PRP move|VBP from|IN a|DT solid|JJ to|TO a|DT liquid|NN state|NN and|CC back|RB again|RB </s>|S_END
+<s>|S_START traditionally|RB they|PRP have|VBP been|VBN used|VBN in|IN cooling|NN systems|NNS and|CC more|JJR recently|RB in|IN solarthermal|JJ power|NN stations|NNS where|WRB they|PRP store|VBP heat|JJ during|IN the|DT day|NN that|IN can|MD be|VB released|VBN to|TO generate|VB power|NN at|IN night|NN </s>|S_END
+<s>|S_START but|CC for|IN memory|NN devices|NNS it|PRP is|VBZ not|RB their|PRP$ thermal|JJ properties|NNS that|WDT make|VBP pcms|NNS so|RB attractive|JJ </s>|S_END
+<s>|S_START instead|RB it|PRP is|VBZ their|PRP$ ability|NN to|TO switch|VB from|IN a|DT disorderly|RB or|CC amorphous|JJ state|NN to|TO an|DT orderly|RB or|CC crystalline|NN one|CD very|RB quickly|RB </s>|S_END
+<s>|S_START pcm|NN memory|NN chips|NNS rely|RB on|IN glasslike|NN materials|NNS called|VBN chalcogenides|NNS typically|RB made|VBD of|IN a|DT mixture|NN of|IN germanium|NN antimony|NN and|CC tellurium|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START each|DT cell|NN in|IN the|DT memory|NN chip|NN consists|NNS of|IN a|DT region|NN of|IN chalcogenide|NN sandwiched|VBD between|IN two|CD electrodes|NNS see|VBP diagram|NN </s>|S_END
+<s>|S_START the|DT bottom|NN electrode|NN is|VBZ a|DT resistor|NN that|WDT heats|VBZ up|RP when|WRB a|DT current|JJ passes|NNS through|IN it|PRP </s>|S_END
+<s>|S_START delivering|VBG a|DT gentle|NN pulse|NN of|IN electrical|JJ energy|NN to|TO the|DT cell|NN turns|VBZ on|IN this|DT tiny|NN heater|NN and|CC causes|NNS the|DT chalcogenide|NN to|TO melt|VB </s>|S_END
+<s>|S_START as|IN it|PRP cools|VBZ it|PRP forms|VBZ an|DT orderly|RB crystalline|NN structure|NN </s>|S_END
+<s>|S_START this|DT state|NN corresponds|NNS to|TO the|DT memory|NN cell|NN storing|VBG a|DT “1”|JJ </s>|S_END
+<s>|S_START applying|VBG a|DT shorter|NN stronger|NN pulse|NN of|IN energy|NN to|TO the|DT cell|NN melts|NNS the|DT chalcogenide|NN but|CC does|VBZ not|RB allow|VB crystals|NNS to|TO form|NN as|IN it|PRP cool|NN </s>|S_END
+<s>|S_START instead|RB the|DT region|NN of|IN the|DT material|NN above|IN the|DT bottom|NN electrode|NN assumes|VBZ a|DT disorderly|RB amorphous|JJ state|NN corresponding|VBG to|TO the|DT cell|NN storing|VBG a|DT “0”|JJ </s>|S_END
+<s>|S_START the|DT amorphous|JJ state|NN has|VBZ a|DT higher|JJR electrical|JJ resistance|NN than|IN the|DT crystalline|NN state|NN allowing|VBG the|DT value|NN stored|VBD in|IN the|DT cell|NN to|TO be|VB determined|VBN </s>|S_END
+<s>|S_START for|IN this|DT reason|NN pcm|NN memory|NN is|VBZ sometimes|RB called|VBN “resistive|JJ memory”|NN and|CC its|PRP$ individual|JJ cells|NNS are|VBP sometimes|RB referred|VBN to|TO as|RB “memristors”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START you|PRP may|MD already|RB be|VB relying|VBG on|IN chalcogenides|NNS to|TO store|VB data|NNS without|IN realising|VBG it|PRP because|IN they|PRP are|VBP used|VBN in|IN rewriteable|JJ optical|JJ storage|NN such|JJ as|IN cdrw|NN and|CC dvdrw|NN disc|NN </s>|S_END
+<s>|S_START bursts|NNS of|IN energy|NN from|IN a|DT laser|NN put|VBN tiny|NN regions|NNS of|IN the|DT material|NN into|IN amorphous|JJ or|CC crystalline|NN states|NNS to|TO store|VB information|NN </s>|S_END
+<s>|S_START the|DT amorphous|JJ state|NN reflects|VBZ light|JJ less|NN effectively|RB than|IN the|DT crystalline|NN state|NN allowing|VBG the|DT data|NNS to|TO be|VB read|VBN back|RP again|RB </s>|S_END
+<s>|S_START the|DT technology|NN has|VBZ in|IN other|JJ words|NNS already|RB proved|VBD that|IN it|PRP can|MD work|VB </s>|S_END
+<s>|S_START now|RB companies|NNS like|IN micron|NN technology|NN samsung|NN and|CC sk|NN hynix—the|DT three|CD giants|NNS of|IN digital|JJ storage—are|JJ applying|NN it|PRP inside|VBP memory|NN chip|NN </s>|S_END
+<s>|S_START the|DT technology|NN has|VBZ worked|VBN well|RB in|IN the|DT laboratory|NN for|IN some|DT time|NN and|CC has|VBZ been|VBN used|VBN in|IN a|DT handful|NN of|IN specialist|NN applications|NNS since|IN 2007|CD </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ moving|VBG towards|NNS the|DT mainstream|NN consumer|NN market|NN </s>|S_END
+<s>|S_START micron|NN started|VBD selling|VBG its|PRP$ first|JJ pcmbased|VBN memory|NN chips|NNS for|IN mobile|JJ phones|NNS in|IN july|RB offering|VBG 512megabit|JJ and|CC onegigabit|NN storage|NN capacity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thanks|NNS for|IN the|DT memorie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pcm|NN memory|NN chips|NNS have|VBP several|JJ advantages|NNS over|IN flash|NN memory|NN which|WDT works|NNS by|IN trapping|VBG electrons|NNS in|IN an|DT enclosure|NN called|VBN a|DT “floating|JJ gate”|NN built|NN on|IN top|JJ of|IN a|DT modified|JJ form|NN of|IN transistor|NN </s>|S_END
+<s>|S_START the|DT value|NN stored|VBD in|IN each|DT cell|NN is|VBZ 1|CD or|CC 0|-NONE- depending|VBG on|IN whether|IN the|DT enclosure|NN is|VBZ full|JJ or|CC empty|NN </s>|S_END
+<s>|S_START but|CC writing|VBG to|TO individual|JJ flashmemory|NN cells|NNS involves|VBZ erasing|VBG an|DT entire|JJ region|NN of|IN neighbouring|VBG cells|NNS first|RB </s>|S_END
+<s>|S_START this|DT is|VBZ not|RB necessary|JJ with|IN pcm|NN memory|NN which|WDT makes|VBZ it|PRP much|RB faster|JJR says|VBZ paolo|NN giuseppe|NN cappelletti|NN who|WP is|VBZ in|IN charge|NN of|IN micron’s|JJ pcm|NN memory|NN project|NN at|IN agrate|NN brianza|NN in|IN italy|RB </s>|S_END
+<s>|S_START indeed|RB some|DT prototype|NN pcm|NN memory|NN devices|NNS can|MD store|VB and|CC retrieve|VB data|NNS 100|CD times|NNS faster|JJR than|IN flash|NN memory|NN says|VBZ evangelos|NNS eleftheriou|PRP head|VBP of|IN storage|NN technologies|NNS at|IN ibm’s|JJ zurich|NN research|NN laboratory|NN in|IN switzerland|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT benefit|NN of|IN pcm|NN memory|NN is|VBZ that|IN it|PRP is|VBZ extremely|RB durable|JJ capable|JJ of|IN being|VBG written|VBN and|CC rewritten|RB at|IN least|JJS 10m|CD time|NN </s>|S_END
+<s>|S_START flash|NN memory|NN by|IN contrast|NN wears|NNS out|IN after|IN a|DT few|JJ thousand|NN rewrite|NN cycles|NNS because|IN of|IN the|DT high|JJ voltages|NNS that|WDT are|VBP required|VBN to|TO shepherd|VB electrons|NNS in|IN and|CC out|IN of|IN the|DT floatinggate|NN enclosure|NN </s>|S_END
+<s>|S_START accordingly|RB flash|VBP memory|NN needs|NNS special|JJ controllers|NNS to|TO keep|VB track|NN of|IN which|WDT parts|NNS of|IN the|DT chip|NN have|VBP become|VBN unreliable|JJ so|RB they|PRP can|MD be|VB avoided|VBN </s>|S_END
+<s>|S_START this|DT increases|NNS the|DT cost|NN and|CC complexity|NN of|IN flash|NN and|CC slows|VBZ it|PRP down|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN pcm|NN offers|NNS greater|JJR potential|NN for|IN future|JJ miniaturisation|NN than|IN flash|NN </s>|S_END
+<s>|S_START as|IN flashmemory|NN cells|NNS get|VBP smaller|JJR and|CC devices|NNS become|VBP denser|NN the|DT number|NN of|IN electrons|NNS held|VBN in|IN the|DT floating|NN gate|NN decrease|NN </s>|S_END
+<s>|S_START because|IN the|DT number|NN of|IN electrons|NNS is|VBZ finite|JJ there|EX will|MD soon|RB come|VB a|DT point|NN at|IN which|WDT this|DT design|NN can|MD not|RB be|VB shrunk|NN any|DT further|JJ says|VBZ tom|NN eby|NN the|DT head|NN of|IN micron’s|JJ embedded|VBN solutions|NNS group|NN </s>|S_END
+<s>|S_START “we|JJ need|VBP a|DT fundamentally|RB different|JJ approach”|NN he|PRP say|VBP </s>|S_END
+<s>|S_START last|JJ year|NN a|DT group|NN led|VBD by|IN eric|JJ pop|NN at|IN the|DT university|NN of|IN illinois|NNS urbanachampaign|VBP demonstrated|VBN how|WRB a|DT prototype|NN pcm|NN memory|NN cell|NN could|MD be|VB made|VBN that|IN was|VBD just|RB 10|CD nanometres|NNS across|IN bridging|VBG a|DT gap|NN between|IN two|CD carbonnanotube|NN electrode|NN </s>|S_END
+<s>|S_START the|DT research|NN published|VBD in|IN the|DT journal|NN science|NN also|RB showed|VBD marked|VBN improvements|NNS in|IN energy|NN consumption|NN compared|VBN with|IN flash|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN well|RB as|IN allowing|VBG for|IN smaller|JJR cell|NN sizes|NNS pcm|VBP memory|NN could|MD pack|VB in|IN more|JJR data|NNS by|IN storing|VBG more|JJR than|IN one|CD binary|JJ digit|NN in|IN each|DT cell|NN </s>|S_END
+<s>|S_START ome|NN flashmemory|NN devices|NNS already|RB do|VBP this|DT using|VBG a|DT trick|NN called|VBN “multilevel|JJ cells”|NN mlc|NN </s>|S_END
+<s>|S_START instead|RB of|IN each|DT floating|VBG gate|NN being|VBG either|DT full|JJ or|CC empty|NN two|CD intermediate|JJ states|NNS are|VBP also|RB used|VBN </s>|S_END
+<s>|S_START there|EX are|VBP then|RB four|CD states|NNS in|IN total|JJ which|WDT are|VBP taken|VBN to|TO represent|VB 00|CD 01|CD 10|CD and|CC 11|CD rather|RB than|IN just|RB the|DT usual|JJ 0|-NONE- and|CC 1|CD </s>|S_END
+<s>|S_START two|CD binary|JJ digits|NNS or|CC bits|NNS are|VBP then|RB held|VBN in|IN each|DT cell|NN doubling|VBG the|DT capacity|NN of|IN the|DT memory|NN </s>|S_END
+<s>|S_START imilarly|RB increasing|VBG the|DT number|NN of|IN states|NNS to|TO eight|CD allows|NNS each|DT to|TO hold|VB three|CD bit|NN </s>|S_END
+<s>|S_START but|CC this|DT trick|NN will|MD become|VB even|RB trickier|JJR to|TO pull|VB off|RP as|IN memory|NN devices|NNS get|VBP smaller|JJR </s>|S_END
+<s>|S_START today’s|NNS flashmemory|VBP cells|NNS have|VBP only|RB a|DT few|JJ dozen|NN electrons|NNS in|IN the|DT floating|NN gate|NN when|WRB full|JJ </s>|S_END
+<s>|S_START “currently|RB a|DT few|JJ tens|NNS of|IN electrons|NNS are|VBP used|VBN to|TO differentiate|VB between|IN various|JJ programmed|VBN states|NNS in|IN mlc|NN flash”|NN says|VBZ haris|NNS pozidis|NNS of|IN ibm|NN </s>|S_END
+<s>|S_START he|PRP and|CC dr|VB eleftheriou|PRP have|VB been|VBN applying|VBG the|DT multilevel|JJ idea|NN to|TO pcm|VB memory|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT involves|VBZ careful|JJ control|NN of|IN the|DT length|NN of|IN the|DT energy|NN pulse|NN that|WDT creates|VBZ an|DT amorphous|JJ region|NN in|IN the|DT memory|NN cell|NN </s>|S_END
+<s>|S_START a|DT shorter|NN pulse|NN creates|VBZ a|DT smaller|JJR amorphous|JJ region|NN </s>|S_END
+<s>|S_START the|DT smaller|JJR the|DT region|NN the|DT lower|JJR the|DT electrical|JJ resistance|NN of|IN the|DT cell|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ therefore|RB possible|JJ to|TO get|VB a|DT single|JJ cell|NN to|TO store|VB multiple|NN bit|NN </s>|S_END
+<s>|S_START precisely|RB how|WRB many|JJ remains|NNS to|TO be|VB seen|VBN </s>|S_END
+<s>|S_START the|DT ibm|NN researchers|NNS have|VBP built|VBN pcm|NN memory|NN chips|NNS with|IN 16|CD states|NNS or|CC four|CD bits|NNS per|IN cell|NN and|CC david|VBD wright|NN a|DT datastorage|NN researcher|NN at|IN the|DT university|NN of|IN exeter|NN in|IN england|NN has|VBZ built|VBN individual|JJ pcm|NN memory|NN cells|NNS with|IN 512|CD states|NNS or|CC nine|CD bits|NNS per|IN cell|NN </s>|S_END
+<s>|S_START but|CC the|DT larger|JJR the|DT number|NN of|IN states|NNS the|DT more|RBR difficult|JJ it|PRP becomes|VBZ to|TO differentiate|VB between|IN them|PRP and|CC the|DT higher|JJR the|DT sensitivity|NN of|IN the|DT equipment|NN required|VBN to|TO detect|VB them|PRP he|PRP say|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START catch|NN my|PRP$ drift|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ also|RB the|DT problem|NN of|IN drift|NN </s>|S_END
+<s>|S_START this|DT is|VBZ where|WRB the|DT resistance|NN of|IN a|DT cell|NN changes|NNS gradually|RB in|IN the|DT days|NNS and|CC weeks|NNS after|IN its|PRP$ state|NN has|VBZ been|VBN updated|VBN </s>|S_END
+<s>|S_START for|IN a|DT singlebit|NN cell|NN this|DT is|VBZ not|RB a|DT problem|NN because|IN the|DT difference|NN in|IN resistance|NN between|IN its|PRP$ possible|JJ two|CD states|NNS is|VBZ large|JJ so|RB a|DT small|JJ variation|NN does|VBZ not|RB really|RB matter|JJR </s>|S_END
+<s>|S_START but|CC for|IN multilevel|NN cells|NNS drift|VBP can|MD eventually|RB cause|VB error|NN </s>|S_END
+<s>|S_START to|TO make|VB matters|NNS worse|JJR the|DT amount|NN of|IN drift|NN is|VBZ nonlinear|JJ says|NNS dr|VBP eleftheriou|PRP and|CC depends|NNS on|IN how|WRB large|JJ the|DT amorphous|JJ region|NN i|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT ibm|NN researchers|NNS think|VBP they|PRP have|VBP hit|VBN upon|IN a|DT solution|NN by|IN modifying|NN the|DT way|NN cells|VBZ are|VBP written|VBN to|TO and|CC read|VB from|IN </s>|S_END
+<s>|S_START when|WRB writing|VBG a|DT value|NN into|IN a|DT cell|NN the|DT cell’s|NNP resistance|NN is|VBZ measured|VBN after|IN the|DT energy|NN pulse|NN is|VBZ applied|VBN and|CC more|RBR pulses|NNS are|VBP applied|VBN if|IN necessary|JJ to|TO ensure|VB that|IN the|DT final|JJ resistance|NN is|VBZ set|VBN precisely|RB to|TO the|DT appropriate|NN value|NN </s>|S_END
+<s>|S_START even|RB in|IN the|DT worstcase|NN scenario|NN in|IN which|WDT multiple|NN pulses|VBZ are|VBP needed|VBN writing|VBG to|TO the|DT pcm|NN memory|NN is|VBZ still|RB 100|CD times|NNS faster|JJR than|IN writing|VBG to|TO flash|VB </s>|S_END
+<s>|S_START this|DT approach|NN also|RB makes|VBZ up|RP for|IN slight|NN variations|NNS in|IN the|DT resistance|NN of|IN different|JJ cells|NNS in|IN a|DT pcm|NN memory|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN the|DT ibm|NN researchers|NNS devised|VBD a|DT “drifttolerant”|NN method|NN to|TO read|VB the|DT value|NN in|IN a|DT cell|NN by|IN reading|NN multiple|NN cells|NNS simultaneously|RB and|CC comparing|VBG their|PRP$ relative|JJ values|NNS to|TO determine|VB the|DT state|NN of|IN each|DT one|CD </s>|S_END
+<s>|S_START they|PRP have|VBP also|RB developed|VBN a|DT way|NN to|TO measure|VB the|DT thickness|NN of|IN the|DT amorphous|JJ region|NN more|RBR accurately|RB by|IN analysing|NN its|PRP$ electrical|JJ properties|NNS when|WRB a|DT known|VBN current|JJ is|VBZ passed|VBN through|IN it|PRP </s>|S_END
+<s>|S_START drift|NN causes|NNS the|DT resistance|NN of|IN a|DT cell|NN to|TO change|VB but|CC not|RB the|DT thickness|NN of|IN the|DT amorphous|JJ region|NN so|IN this|DT provides|VBZ a|DT more|RBR robust|JJ way|NN to|TO measure|VB the|DT cell’s|NNP state|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ibm|NN is|VBZ now|RB working|VBG with|IN sk|NN hynix|NN to|TO bring|VB multilevel|JJ pcmbased|VBN memory|NN chips|NNS to|TO market|NN </s>|S_END
+<s>|S_START the|DT aim|NN is|VBZ to|TO create|VB a|DT form|NN of|IN memory|NN capable|JJ of|IN bridging|NN the|DT gap|NN between|IN flash|NN which|WDT is|VBZ used|VBN for|IN storage|NN and|CC dynamic|JJ randomaccess|NN memory|NN which|WDT computers|NNS use|VBP as|RB shortterm|JJ working|NN memory|NN but|CC which|WDT loses|NNS its|PRP$ contents|NNS when|WRB switched|VBN off|RP </s>|S_END
+<s>|S_START pcm|NN memory|NN which|WDT ibm|NN hopes|VBZ will|MD be|VB on|IN sale|NN by|IN 2016|CD would|MD be|VB able|JJ to|TO serve|VB simultaneously|RB as|IN storage|NN and|CC working|VBG memory—a|NNP new|JJ category|NN it|PRP calls|VBZ “storageclass|JJ memory”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT in|IN turn|NN could|MD open|VB the|DT door|NN to|TO new|JJ computer|NN architectures|NNS in|IN which|WDT information|NN does|VBZ not|RB have|VB to|TO be|VB shuffled|VBN from|IN relatively|RB slow|JJ storage|NN devices|NNS to|TO much|RB faster|JJR working|VBG memory|NN </s>|S_END
+<s>|S_START uch|JJ architectures|NNS would|MD be|VB capable|JJ of|IN crunching|NN huge|JJ amounts|NNS of|IN information|NN such|JJ as|IN the|DT data|NNS that|WDT will|MD be|VB gathered|VBN by|IN the|DT square|JJ kilometre|NN array|NN telescope|NN far|RB more|RBR efficiently|RB than|IN existing|VBG machines|NNS says|VBZ dr|NN eleftheriou|NN </s>|S_END
+<s>|S_START pcm|NN memory|NN does|VBZ not|RB merely|RB threaten|VBN to|TO dethrone|NN flash|NN in|IN short|JJ </s>|S_END
+<s>|S_START it|PRP could|MD also|RB lead|VB to|TO a|DT radical|JJ shift|NN in|IN computer|NN design—a|NN phase|NN change|NN on|IN a|DT much|JJ larger|NN scale|NN </s>|S_END
+</p>|P_END
+

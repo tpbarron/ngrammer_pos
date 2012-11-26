@@ -1,0 +1,117 @@
+<p>|P_START
+<s>|S_START president|NN obama|VBD wants|NNS families|NNS with|IN incomes|NNS over|IN $|$ 250000|CD to|TO pay|VB more|JJR </s>|S_END
+<s>|S_START mitt|NN romney|NN wants|VBZ the|DT rich|JJ to|TO pay|VB the|DT same|JJ share|NN in|IN taxes|NNS as|IN they|PRP do|VBP now|RB but|CC its|PRP$ not|RB clear|JJ how|WRB he|PRP defines|VBZ rich|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN how|WRB much|JJ should|MD the|DT rich|JJ pay|NN in|IN taxes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ a|DT heated|JJ question|NN these|DT days|NNS </s>|S_END
+<s>|S_START president|NN obama|VBD and|CC his|PRP$ republican|NN challenger|NN mitt|NN romney|NN spar|NN over|IN it|PRP bitterly|RB </s>|S_END
+<s>|S_START and|CC the|DT taxes|NNS romney|NN pays|NNS on|IN his|PRP$ own|JJ vast|NN wealth|NN have|VBP become|VBN the|DT subject|NN of|IN massive|JJ press|NN attention|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT question|NN is|VBZ not|RB so|RB easily|RB answered|VBN and|CC depends|NNS on|IN a|DT number|NN of|IN hardtonaildown|NN factors|NNS starting|VBG with|IN how|WRB you|PRP define|VBP rich|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START virtually|RB no|DT one|NN thinks|VBZ of|IN themselves|PRP as|IN wealthy|JJ said|VBD joseph|NN henchman|NN a|DT policy|NN analyst|NN at|IN the|DT tax|NN foundation|NN </s>|S_END
+<s>|S_START theyre|NN thinking|VBG about|IN what|WP others|NNS should|MD pay|VB in|IN taxes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS people|NNS would|MD say|VB millionaires|NNS and|CC billionaires|NNS are|VBP rich|JJ </s>|S_END
+<s>|S_START thats|NNS easy|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START where|WRB to|TO draw|VB the|DT line|NN lower|JJR down|IN the|DT income|NN scale|NN is|VBZ much|JJ harder|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT recent|JJ pew|NN survey|NN asked|VBD people|NNS what|WP it|PRP takes|VBZ to|TO be|VB wealthy|JJ in|IN their|PRP$ community|NN </s>|S_END
+<s>|S_START of|IN those|DT surveyed|VBN 39|CD answered|VBN between|IN $|$ 100000|CD and|CC $|$ 250000|CD for|IN a|DT family|NN of|IN 4|CD </s>|S_END
+<s>|S_START another|DT 30|CD said|VBD it|PRP takes|VBZ $|$ 250000|CD or|CC more|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD frequently|RB used|JJ definition|NN of|IN rich|JJ is|VBZ the|DT top|JJ 1|CD of|IN federal|JJ tax|NN filers|NNS those|DT with|IN adjusted|VBN gross|NNS incomes|NNS of|IN at|IN least|JJS $|$ 343927|CD in|IN 2009|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START they|PRP earned|VBD nearly|RB 17|CD of|IN all|DT agi|NN in|IN the|DT country|NN and|CC paid|VBD more|RBR than|IN a|DT third|JJ 37|CD of|IN all|DT federal|JJ income|NN taxes|NNS collected|VBN by|IN the|DT government|NN </s>|S_END
+<s>|S_START is|VBZ that|IN too|RB much|JJ </s>|S_END
+<s>|S_START too|RB little|RB </s>|S_END
+<s>|S_START take|VB the|DT poll|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START or|CC to|TO look|VB at|IN it|PRP another|DT way|NN the|DT groups|NNS average|VBP effective|JJ tax|NN rate|NN agi|NN divided|VBD by|IN income|NN taxes|NNS paid|VBD was|VBD 24|CD more|JJR than|IN twice|NN the|DT national|JJ average|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT much|JJ wealthier|NN subset|NN of|IN that|DT group|NN the|DT top|JJ 01|CD had|VBD an|DT agi|NN of|IN at|IN least|JJS $|$ 143|CD million|CD </s>|S_END
+<s>|S_START they|PRP paid|VBD 17|CD of|IN income|NN taxes|NNS collected|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC using|VBG agi|NN as|IN a|DT proxy|NN for|IN rich|JJ and|CC measuring|VBG only|RB whats|NNS paid|VBN in|IN federal|JJ income|NN taxes|NNS has|VBZ its|PRP$ limits|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN one|CD thing|NN agi|NN doesnt|NN give|VBP the|DT fullest|JJS picture|NN of|IN income|NN </s>|S_END
+<s>|S_START some|DT wealthy|JJ individuals|NNS pay|VBP little|JJ or|CC nothing|NN in|IN federal|JJ income|NN taxes|NNS because|IN their|PRP$ income|NN is|VBZ from|IN sources|NNS not|RB included|VBN in|IN agi|NN such|JJ as|IN taxfree|JJ municipal|JJ bonds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START poll|NN how|WRB much|JJ should|MD the|DT rich|JJ pay|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START federal|JJ income|NN taxes|NNS meanwhile|RB dont|JJ reflect|NN a|DT households|NNS total|VBP federal|JJ tax|NN burden|NN </s>|S_END
+<s>|S_START that|DT leaves|VBZ out|RP things|NNS like|IN payroll|NN taxes|NNS estate|VBP taxes|NNS and|CC corporate|JJ taxes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT tax|NN policy|NN center|NN incorporates|VBZ these|DT broader|JJR views|NNS of|IN income|NN and|CC tax|NN burdens|NNS in|IN its|PRP$ calculations|NNS </s>|S_END
+<s>|S_START and|CC it|PRP found|VBD that|IN in|IN 2009|CD people|NNS making|VBG more|JJR than|IN $|$ 1|CD million|CD in|IN total|JJ income|NN paid|VBN roughly|RB 16|CD of|IN all|DT federal|JJ taxes|NNS in|IN 2009|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ultimately|RB there|EX is|VBZ no|DT right|NN answer|NN about|IN how|WRB much|JJ the|DT rich|JJ should|MD pay|VB </s>|S_END
+<s>|S_START a|DT majority|NN of|IN americans|NNS simply|RB say|VBP more|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT tax|NN systems|NNS are|VBP based|VBN on|IN a|DT variety|NN of|IN arbitrary|JJ opinions|NNS and|CC intuitions|NNS </s>|S_END
+<s>|S_START we|PRP rely|RB on|IN the|DT political|JJ system|NN to|TO avoid|VB abuse|NN and|CC approximate|VB fairness|NN historian|NN joe|NN thorndike|NN has|VBZ noted|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START president|NN obama|VBD wants|NNS families|NNS with|IN incomes|NNS over|IN $|$ 250000|CD to|TO pay|VB more|JJR </s>|S_END
+<s>|S_START mitt|NN romney|NN wants|VBZ the|DT welloff|NN to|TO pay|VB the|DT same|JJ share|NN in|IN taxes|NNS as|IN they|PRP do|VBP now|RB but|CC its|PRP$ not|RB clear|JJ how|WRB he|PRP defines|VBZ rich|JJ in|IN this|DT regard|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC policymakers|NNS will|MD have|VB to|TO decide|VB not|RB only|RB on|IN a|DT definition|NN of|IN rich|JJ but|CC also|RB consider|JJR broader|JJR questions|NNS about|IN the|DT federal|JJ budget|NN and|CC economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START questions|NNS such|JJ as|IN what|WP do|VBP americans|NNS want|VB from|IN their|PRP$ government|NN and|CC how|WRB much|JJ will|MD it|PRP cost|VB </s>|S_END
+<s>|S_START what|WP is|VBZ the|DT fair|NN level|NN of|IN taxes|NNS on|IN the|DT rich|JJ relative|JJ to|TO everyone|NN else|RB </s>|S_END
+<s>|S_START and|CC should|MD the|DT more|RBR than|IN 40|CD of|IN households|NNS with|IN no|DT federal|JJ income|NN tax|NN liability|NN thanks|NNS largely|RB to|TO tax|NN breaks|NNS be|VB asked|VBN to|TO pay|VB something|NN in|IN income|NN taxes|NNS as|IN well|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT end|NN any|DT decision|NN washington|NN makes|VBZ about|IN taxing|VBG the|DT rich|JJ could|MD affect|VB the|DT economy|NN </s>|S_END
+<s>|S_START how|WRB much|JJ it|PRP would|MD is|VBZ a|DT question|NN of|IN great|JJ debate|NN among|IN economists|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START will|MD raising|VB taxes|NNS on|IN the|DT rich|JJ hurt|NN the|DT economy|NN </s>|S_END
+<s>|S_START because|IN if|IN it|PRP does|VBZ it|PRP has|VBZ implications|NNS for|IN the|DT rest|NN of|IN us|PRP said|VBD roberton|NN williams|NNS a|DT senior|JJ fellow|NN of|IN the|DT tax|NN policy|NN center|NN </s>|S_END
+</p>|P_END
+

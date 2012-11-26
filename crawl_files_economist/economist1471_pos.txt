@@ -1,0 +1,45 @@
+<p>|P_START
+<s>|S_START hot|JJ on|IN the|DT heels|NNS of|IN results|NNS from|IN fermilab|NN in|IN america|NN which|WDT reported|VBD last|JJ week|NN on|IN an|DT esoteric|JJ phenomenon|NN called|VBN chargeconjugationparity|NN cp|NN violation|NN involving|VBG equally|RB esoteric|JJ subatomic|JJ particles|NNS known|VBN as|IN d0mesons|NNS a|DT second|JJ research|NN group|NN the|DT daya|NN bay|NN collaboration|NN of|IN more|JJR than|IN 40|CD institutions|NNS mainly|RB from|IN china|NN and|CC america|NN has|VBZ found|VBN a|DT related|JJ result|NN involving|VBG neutrino|NN </s>|S_END
+<s>|S_START cp|NN violation|NN is|VBZ an|DT asymmetry|NN between|IN matter|NN and|CC antimatter|NN and|CC the|DT experiment|NN based|VBN at|IN a|DT complex|JJ of|IN nuclear|JJ reactors|NNS 50km|CD 30|CD miles|NNS north|JJ of|IN hong|JJ kong|JJ has|VBZ settled|VBN a|DT longstanding|NN puzzle|NN that|WDT bears|VBZ on|IN the|DT question|NN of|IN whether|IN neutrinos|NNS too|RB experience|NN it|PRP </s>|S_END
+<s>|S_START that|DT in|IN turn|NN is|VBZ related|VBN to|TO the|DT deeper|NN question|NN of|IN why|WRB the|DT universe|NN is|VBZ made|VBN of|IN matter|NN rather|RB than|IN having|VBG originally|RB had|VBD equal|JJ amounts|NNS of|IN matter|NN and|CC antimatter|NN </s>|S_END
+<s>|S_START if|IN such|JJ a|DT primordial|JJ equity|NN had|VBD prevailed|VBN the|DT two|CD would|MD have|VB annihilated|VBN each|DT other|JJ leaving|NN a|DT universe|NN filled|VBN only|RB with|IN energy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START trictly|RB speaking|VBG the|DT daya|NN bay|NN experiment|NN looked|VBD at|IN antineutrinos|NNS rather|RB than|IN neutrino|DT </s>|S_END
+<s>|S_START these|DT particles|NNS are|VBP a|DT byproduct|NN of|IN nuclear|JJ fission|NN and|CC the|DT six|CD reactors|NNS at|IN daya|NN bay|NN and|CC nearby|JJ ling|NN ao|NN turn|NN them|PRP out|RP in|IN prodigious|JJ quantitie|NN </s>|S_END
+<s>|S_START the|DT idea|NN was|VBD to|TO see|VB how|WRB many|JJ of|IN these|DT antineutrinos|NNS disappear|VBP before|IN reaching|VBG the|DT experiments|NNS main|VBP detector|NN pictured|VBN above|IN which|WDT is|VBZ housed|VBN in|IN an|DT underground|NN hall|NN near|IN the|DT reactor|NN </s>|S_END
+<s>|S_START this|DT the|DT team|NN hoped|VBD would|MD help|VB elucidate|VB a|DT phenomenon|NN known|VBN as|IN neutrino|NN oscillation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START neutrinos|NNS and|CC antineutrinos|NNS come|VBP in|IN three|CD “flavours”|JJ electronneutrinos|NNS muonneutrinos|NNS and|CC tauneutrino|NN </s>|S_END
+<s>|S_START a|DT given|VBN neutrino|NN can|MD however|RB oscillate|VB between|IN these|DT flavour|NN </s>|S_END
+<s>|S_START as|IN a|DT consequence|NN some|DT of|IN the|DT electronantineutrinos|NNS spewed|VBD out|IN by|IN the|DT reactors|NNS were|VBD expected|VBN to|TO morph|VB into|IN other|JJ sorts|NNS and|CC thus|RB escape|NN detection|NN by|IN apparatus|NN designed|VBN to|TO count|VB only|RB electronantineutrino|RB </s>|S_END
+<s>|S_START and|CC the|DT researchers|NNS did|VBD indeed|RB observe|VB 6|CD fewer|JJR of|IN the|DT beasts|NNS than|IN would|MD have|VB been|VBN the|DT case|NN if|IN no|DT oscillations|NNS had|VBD taken|VBN place|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT way|NN neutrinos|VBZ oscillate|JJ is|VBZ described|VBN by|IN three|CD numbers|NNS called|VBN mixing|VBG angles|NNS which|WDT determine|NN how|WRB likely|JJ this|DT spotchanging|NN is|VBZ for|IN any|DT pair|NN of|IN flavour|PRP$ </s>|S_END
+<s>|S_START two|CD of|IN the|DT angles|NNS have|VBP been|VBN known|VBN for|IN some|DT time|NN </s>|S_END
+<s>|S_START the|DT remaining|VBG one|CD theta13|NNP which|WDT governs|VBZ the|DT relationship|NN between|IN electron|NN and|CC tauneutrinos|NNS has|VBZ proved|VBN elusive|JJ </s>|S_END
+<s>|S_START last|JJ year|NN two|CD experiments|NNS t2k|NNP in|IN japan|NN and|CC minos|NNS in|IN america|NN found|VBD hints|NNS of|IN what|WP it|PRP might|MD be|VB </s>|S_END
+<s>|S_START the|DT results|NNS from|IN daya|NN bay|NN have|VBP at|IN last|JJ allowed|VBN it|PRP to|TO be|VB determined|VBN accurately|RB </s>|S_END
+<s>|S_START to|TO many|JJ physicists|NNS relief|NN they|PRP have|VBP confirmed|VBN that|IN it|PRP is|VBZ not|RB zero|RB </s>|S_END
+<s>|S_START this|DT is|VBZ crucial|JJ because|IN if|IN it|PRP had|VBD been|VBN zero|CD they|PRP would|MD have|VB no|DT experimental|JJ purchase|NN on|IN a|DT fourth|JJ parameter|NN called|VBN delta|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START delta|NN is|VBZ a|DT measure|NN of|IN how|WRB much|JJ neutrinos|NNS feel|VBP cp|NN violation|NN </s>|S_END
+<s>|S_START and|CC cp|VBD violation|NN in|IN neutrinos|NNS is|VBZ something|VBG theorists|NNS can|MD parlay|VB into|IN oodles|NNS of|IN universepreserving|VBG matterantimatter|NN asymmetry|NN </s>|S_END
+<s>|S_START experiments|NNS like|IN those|DT at|IN daya|NN bay|NN involving|VBG antineutrinos|NNS from|IN reactors|NNS can|MD not|RB measure|VB delta|NN directly|RB </s>|S_END
+<s>|S_START but|CC the|DT collaborations|NNS result|NN bodes|NNS well|RB for|IN those|DT that|WDT can|MD </s>|S_END
+<s>|S_START these|DT include|VBP t2k|NNP and|CC minos|NNS both|DT of|IN which|WDT use|NN particle|NN accelerators|NNS to|TO whip|VB up|RP beams|NNS of|IN muonneutrinos|NNS and|CC send|VB them|PRP to|TO detectors|NNS hundreds|NNS of|IN kilometres|NNS away|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START t2k|NN was|VBD shut|VBN down|RP by|IN the|DT earthquake|NN and|CC tsunami|NN which|WDT shook|NN japan|VBD a|DT year|NN ago|IN but|CC it|PRP has|VBZ been|VBN back|RB in|IN business|NN since|IN january|JJ </s>|S_END
+<s>|S_START in|IN america|NN meanwhile|RB minos|VBZ is|VBZ being|VBG replaced|VBN with|IN a|DT fancier|JJR experiment|NN called|VBN nova|NN which|WDT will|MD start|VB collecting|NN data|NNS in|IN 2013|CD </s>|S_END
+<s>|S_START with|IN luck|NN then|RB the|DT matterantimatter|NN conundrum—and|NN with|IN it|PRP the|DT reason|NN anything|NN exists|NNS at|IN all—will|NNP not|RB remain|VB a|DT mystery|NN much|RB longer|RBR </s>|S_END
+</p>|P_END
+

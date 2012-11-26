@@ -1,0 +1,72 @@
+<p>|P_START
+<s>|S_START bank|NN of|IN england|NN governor|NN mervyn|NN king|VBG announces|NNS steps|NNS to|TO boost|VB bank|NN lending|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bank|NN of|IN england|NN and|CC the|DT chancellor|NN of|IN the|DT exchequer|NN are|VBP working|VBG on|IN new|JJ policies|NNS to|TO support|VB the|DT british|JJ economy|NN boe|NN governor|NN mervyn|NN king|VBG said|VBD thursday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN signs|NNS of|IN a|DT deterioration|NN in|IN the|DT outlook|NN especially|RB in|IN world|NN markets|NNS the|DT case|NN for|IN a|DT further|JJ monetary|NN easing|VBG is|VBZ growing|VBG king|VBG said|VBD in|IN a|DT speech|NN to|TO business|NN leaders|NNS in|IN london|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START king|VBG said|VBD he|PRP is|VBZ working|VBG with|IN chancellor|NN george|NN osborne|NN on|IN a|DT funding|NN for|IN lending|VBG scheme|NN to|TO help|VB spur|PRP$ bank|NN lending|VBG and|CC stimulate|VB economic|JJ activity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN present|NN circumstances|NNS when|WRB private|JJ sector|NN spending|NN is|VBZ depressed|VBN by|IN extreme|NN uncertainty|NN there|EX may|MD be|VB a|DT case|NN for|IN a|DT scheme|NN to|TO underwrite|VB risks|NNS which|WDT the|DT market|NN itself|PRP is|VBZ unwilling|VBG to|TO take|VB said|VBN king|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT scheme|NN would|MD provide|VB funding|NN to|TO banks|NNS for|IN several|JJ years|NNS at|IN rates|NNS below|IN current|JJ market|NN rates|NNS he|PRP said|VBD </s>|S_END
+<s>|S_START the|DT funding|NN would|MD be|VB linked|VBN to|TO the|DT banks|NNS performance|NN in|IN lending|VBG to|TO the|DT real|JJ economy|NN during|IN the|DT present|NN period|NN of|IN heightened|VBN uncertainty|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT program|NN could|MD support|VB an|DT estimated|VBN 80|CD billion|CD pounds|NNS in|IN new|JJ lending|NN sources|NNS told|VBD the|DT financial|JJ times|NNS </s>|S_END
+<s>|S_START in|IN addition|NN the|DT boe|NN will|MD activate|VB a|DT sixmonth|NN liquidity|NN program|NN friday|NN for|IN banks|NNS to|TO borrow|VB no|DT less|JJR than|IN 5|CD billion|CD pounds|NNS a|DT month|NN the|DT newspaper|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT goal|NN is|VBZ to|TO tackle|VB the|DT high|JJ level|NN of|IN funding|NN costs|NNS directly|RB said|VBD king|VBG </s>|S_END
+<s>|S_START he|PRP hopes|VBZ the|DT plan|NN will|MD be|VB in|IN place|NN within|IN a|DT few|JJ weeks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START speaking|VBG at|IN the|DT same|JJ event|NN osborne|NN said|VBD the|DT program|NN will|MD inject|VB new|JJ confidence|NN into|IN our|PRP$ financial|JJ system|NN and|CC support|NN the|DT flow|NN of|IN credit|NN to|TO where|WRB it|PRP is|VBZ needed|VBN in|IN the|DT real|JJ economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP are|VBP not|RB powerless|JJ in|IN the|DT face|NN of|IN the|DT eurozone|NN debt|NN storm|NN osborne|NN added|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START osborne|NN said|VBD euro|NN area|NN nations|NNS need|VBP to|TO move|VB towards|NNS greater|JJR political|JJ and|CC economic|JJ integration|NN to|TO make|VB the|DT currency|NN union|NN sustainable|JJ </s>|S_END
+<s>|S_START but|CC it|PRP may|MD take|VB greek|NN exit|NN to|TO make|VB it|PRP happen|VB he|PRP added|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START greek|NN voters|NNS will|MD return|VB to|TO the|DT polls|NNS sunday|NN in|IN a|DT repeat|NN of|IN last|JJ months|NNS inconclusive|JJ parliamentary|NN election|NN </s>|S_END
+<s>|S_START the|DT election|NN is|VBZ being|VBG framed|VBN as|IN a|DT potential|JJ catalyst|NN for|IN greece|NN to|TO exit|VB the|DT euro|NN area|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT is|VBZ a|DT decision|NN for|IN the|DT greek|NN people|NNS said|VBD osborne|NN </s>|S_END
+<s>|S_START a|DT time|NN for|IN decision|NN has|VBZ come|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START osborne|NN said|VBD he|PRP had|VBD doubts|NNS about|IN the|DT euro|NN project|NN from|IN the|DT start|NN recalling|VBG that|IN his|PRP$ party|NN opposed|VBD membership|NN in|IN the|DT currency|NN union|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC we|PRP should|MD all|VB be|VB clear|JJ that|IN it|PRP is|VBZ strongly|RB in|IN britains|NNS interests|NNS for|IN our|PRP$ biggest|JJS trading|NN partners|NNS to|TO succeed|VB the|DT chancellor|NN said|VBD </s>|S_END
+<s>|S_START the|DT risks|NNS for|IN our|PRP$ economy|NN of|IN a|DT disorderly|RB collapse|NN of|IN the|DT euro|NN are|VBP huge|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT comments|NNS from|IN king|VBG and|CC osborne|NN come|NN as|RB investors|NNS nervously|RB await|VB the|DT results|NNS of|IN greek|NN elections|NNS on|IN sunday|NN </s>|S_END
+<s>|S_START rumors|NNS of|IN possible|JJ coordinated|VBN actions|NNS by|IN central|JJ banks|NNS around|IN the|DT globe|NN to|TO boost|VB liquidity|NN if|IN needed|VBN lifted|VBN stocks|NNS thursday|NN </s>|S_END
+</p>|P_END
+

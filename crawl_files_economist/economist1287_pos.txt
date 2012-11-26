@@ -1,0 +1,86 @@
+<p>|P_START
+<s>|S_START the|DT flash|NN crash|NN of|IN may|MD 6th|CD 2010|CD titillated|VBN financial|JJ academics|NNS and|CC lovers|NNS of|IN mystery|NN alike|IN </s>|S_END
+<s>|S_START within|IN the|DT space|NN of|IN about|RB 20|CD minutes|NNS the|DT prices|NNS of|IN thousands|NNS of|IN securities|NNS on|IN wall|JJ street|NN collapsed|VBD sometimes|RB by|IN more|JJR than|IN 60|CD before|IN recovering|NN almost|RB as|IN quickly|RB </s>|S_END
+<s>|S_START it|PRP is|VBZ not|RB so|RB much|RB a|DT whodunnit|NN as|IN a|DT whydidit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START an|DT official|NN report|NN pointed|VBD to|TO a|DT sell|NN order|NN in|IN the|DT futures|NNS market|NN as|RB the|DT spark|NN </s>|S_END
+<s>|S_START but|CC that|DT still|RB raises|VBZ the|DT question|NN of|IN why|WRB in|IN a|DT supposedly|RB efficient|JJ market|NN a|DT single|JJ transaction|NN caused|VBN so|RB much|RB chao|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT answer|NN according|VBG to|TO a|DT recent|JJ paper|NN by|IN giovanni|NN cespa|NN of|IN the|DT cass|NN business|NN school|NN and|CC thierry|NN foucault|NN of|IN hec|NN paris|NNS lies|NNS in|IN the|DT way|NN that|IN market|NN participants|NNS try|VBP to|TO control|NN their|PRP$ risk|NN </s>|S_END
+<s>|S_START like|IN a|DT retailer|NN on|IN the|DT high|JJ street|NN securities|NNS dealers|NNS carry|VBP an|DT inventory|NN so|IN they|PRP can|MD fulfil|VB their|PRP$ customers’|JJ order|NN </s>|S_END
+<s>|S_START that|DT means|VBZ they|PRP incur|VBP the|DT risk|NN that|IN a|DT sudden|JJ price|NN plunge|NN will|MD cause|VB them|PRP to|TO offload|VB their|PRP$ inventory|NN at|IN a|DT loss|NN just|RB as|IN greengrocers|NNS suffer|VBP when|WRB they|PRP try|VBP to|TO flog|VB pumpkins|NNS after|IN halloween|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO safeguard|VB themselves|PRP dealers|NNS monitor|NN liquidity|NN signals|NNS in|IN other|JJ asset|NN classe|NN </s>|S_END
+<s>|S_START these|DT they|PRP reason|VBP may|MD give|VB them|PRP useful|JJ information|NN about|IN the|DT assets|NNS they|PRP hold|VBP on|IN their|PRP$ own|JJ book|NN </s>|S_END
+<s>|S_START if|IN one|CD asset|NN suddenly|RB becomes|VBZ illiquid|JJ that|IN may|MD indicate|VB a|DT change|NN in|IN the|DT risk|NN appetite|NN of|IN investor|NN </s>|S_END
+<s>|S_START as|IN a|DT result|NN dealers|NNS will|MD become|VB less|RBR willing|JJ to|TO provide|VB liquidity|NN in|IN other|JJ markets|NNS too|RB </s>|S_END
+<s>|S_START that|DT will|MD mean|VB either|DT that|WDT the|DT gap|NN between|IN bids|NNS and|CC offers|NNS will|MD widen|VB or|CC that|IN individual|JJ buyandsell|NN orders|NNS will|MD have|VB a|DT much|RB bigger|JJR effect|NN on|IN price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN consequence|NN a|DT liquidity|NN shock|NN in|IN one|CD asset|NN class|NN may|MD have|VB an|DT effect|NN in|IN others|NNS as|IN dealers|NNS become|VBP ever|RB more|RBR riskaverse|JJ </s>|S_END
+<s>|S_START in|IN the|DT words|NNS of|IN mr|NN cespa|NN and|CC mr|NN foucault|NN “dealers’|NN beliefs|NNS about|IN the|DT informativeness|NN of|IN the|DT prices|NNS and|CC liquidity|NN of|IN other|JJ securities|NNS are|VBP selffulfilling”|JJ in|IN short|JJ order|NN markets|NNS can|MD turn|VB from|IN being|VBG very|RB liquid|JJ to|TO being|VBG highly|RB illiquid|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN some|DT circumstances—a|JJ bad|JJ piece|NN of|IN economic|JJ news|NN say|NN or|CC a|DT default|NN by|IN a|DT large|JJ debtor—a|NN sudden|NN loss|NN of|IN liquidity|NN may|MD be|VB quite|RB understandable|JJ </s>|S_END
+<s>|S_START all|DT assets|NNS sometimes|RB have|VBP to|TO be|VB repriced|VBN to|TO take|VB account|NN of|IN a|DT change|NN in|IN fundamental|JJ </s>|S_END
+<s>|S_START but|CC sometimes|RB an|DT individual|JJ asset|NN may|MD fall|VB for|IN entirely|RB idiosyncratic|JJ reasons—a|NN software|NN glitch|NN on|IN a|DT dealer’s|JJ computer|NN for|IN example|NN </s>|S_END
+<s>|S_START the|DT effect|NN on|IN other|JJ markets|NNS may|MD be|VB similar|JJ however|NN because|IN dealers|NNS still|RB interpret|VBP the|DT liquidity|NN decline|NN as|IN conveying|VBG useful|JJ information|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP role|NN do|VBP highfrequency|NN traders|NNS play|VBP in|IN this|DT proce|NN </s>|S_END
+<s>|S_START lots|NNS of|IN them|PRP look|VBP for|IN examples|NNS of|IN mispriced|VBN securities|NNS hoping|VBG to|TO make|VB profits|NNS by|IN buying|NN and|CC selling|VBG them|PRP but|CC adding|VBG liquidity|NN to|TO the|DT markets|NNS in|IN the|DT proce|NN </s>|S_END
+<s>|S_START but|CC they|PRP too|RB depend|VBP on|IN being|VBG able|JJ to|TO trade|VB with|IN the|DT dealers|NNS if|IN liquidity|NN dries|NNS up|IN the|DT highfrequency|NN traders|NNS will|MD also|RB become|VB less|JJR active|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT authors|NNS say|VBP that|IN the|DT disappearance|NN of|IN highfrequency|NN traders|NNS during|IN the|DT flash|NN crash|NN was|VBD most|JJS obvious|JJ in|IN the|DT world|NN of|IN exchangetraded|VBN funds|NNS etf|IN </s>|S_END
+<s>|S_START these|DT funds|NNS consist|VBP of|IN baskets|NNS of|IN securities|NNS usually|RB linked|VBN to|TO an|DT index|NN </s>|S_END
+<s>|S_START in|IN theory|NN the|DT value|NN of|IN an|DT etf|NN should|MD closely|RB follow|VB the|DT value|NN of|IN the|DT securities|NNS it|PRP own|VBP </s>|S_END
+<s>|S_START when|WRB the|DT two|CD prices|NNS get|VBP out|IN of|IN line|NN highfrequency|NN traders|NNS are|VBP often|RB the|DT ones|NNS stepping|VBG in|IN to|TO make|VB a|DT profit|NN </s>|S_END
+<s>|S_START but|CC etfs|VBZ were|VBD among|IN the|DT most|RBS illiquid|JJ assets|NNS during|IN the|DT flash|NN crash|NN suggesting|VBG that|IN highfrequency|NN traders|NNS had|VBD pulled|VBN back|RB from|IN this|DT market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT this|DT can|MD happen|VB very|RB rapidly|RB as|IN the|DT flash|NN crash|NN demonstrated|VBD </s>|S_END
+<s>|S_START but|CC what|WP can|MD be|VB done|VBN about|IN it|PRP </s>|S_END
+<s>|S_START many|JJ exchanges|NNS already|RB have|VBP circuitbreakers|NNS in|IN place|NN so|IN that|IN trading|NN is|VBZ halted|VBN once|RB prices|NNS have|VBP fallen|VBN by|IN a|DT significant|JJ amount|NN </s>|S_END
+<s>|S_START these|DT safeguards|NNS date|VBP back|RB to|TO “black|JJ monday”|NN 25|CD years|NNS ago|IN when|WRB the|DT dow|NN jones|NNS industrial|JJ average|NN fell|VBD by|IN almost|RB 23|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT authors|NNS suggest|VBP that|IN a|DT liquidity|NN circuitbreaker|NN should|MD apply|VB as|IN well|RB </s>|S_END
+<s>|S_START a|DT version|NN already|RB exists|VBZ on|IN the|DT chicago|NNP mercantile|NN exchange|NN </s>|S_END
+<s>|S_START trading|NN is|VBZ halted|VBN if|IN there|EX is|VBZ a|DT huge|JJ imbalance|NN in|IN buy|NN and|CC sell|NN orders|NNS that|WDT is|VBZ likely|JJ to|TO lead|VB to|TO an|DT exaggerated|JJ change|NN in|IN price|NN </s>|S_END
+<s>|S_START omething|VBG similar|JJ could|MD be|VB designed|VBN for|IN other|JJ market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP may|MD seem|VB perverse|NN to|TO respond|VB to|TO market|NN illiquidity|NN by|IN halting|NN all|DT trading|VBG </s>|S_END
+<s>|S_START it|PRP sounds|VBZ a|DT bit|NN like|IN responding|NN to|TO food|NN shortages|NNS by|IN closing|JJ down|IN all|DT supermarket|NN </s>|S_END
+<s>|S_START but|CC the|DT idea|NN is|VBZ to|TO give|VB investors|NNS and|CC traders|NNS time|VB to|TO pause|VB and|CC reflect|VB </s>|S_END
+<s>|S_START this|DT should|MD prevent|VB illiquidity|NN from|IN spreading|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP is|VBZ surely|RB in|IN the|DT longterm|NN interest|NN of|IN the|DT markets|NNS that|WDT events|NNS like|VBP the|DT flash|NN crash|NN are|VBP avoided|VBN </s>|S_END
+<s>|S_START investors|NNS have|VBP had|VBN enough|JJ bad|JJ news|NN about|IN equities|NNS to|TO contend|VB with|IN over|IN the|DT past|JJ decade|NN </s>|S_END
+<s>|S_START it|PRP will|MD do|VB nothing|NN to|TO restore|VB their|PRP$ confidence|NN in|IN stockmarkets|NNS if|IN the|DT pricesetting|NN mechanism|NN appears|VBZ to|TO be|VB a|DT lottery |JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogsbuttonwood|NN </s>|S_END
+</p>|P_END
+

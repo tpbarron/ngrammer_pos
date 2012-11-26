@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 39|CD gdp|NN $|$ 262bn|CD ppp|CD $|$ 373bn|CD inflation|NN 34|CD population|NN 72m|CD gdp|NN per|IN head|NN $|$ 36650|CD ppp|CD $|$ 52170|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START upporters|NNS of|IN democracy|NN will|MD take|VB to|TO the|DT streets|NNS to|TO press|NN their|PRP$ case|NN ahead|RB of|IN elections|NNS for|IN the|DT legislative|JJ council|NN and|CC the|DT chief|NN executive|NN </s>|S_END
+<s>|S_START but|CC this|DT will|MD be|VB no|RB asian|JJ spring|NN and|CC protests|NNS on|IN the|DT scale|NN of|IN those|DT seen|VBN in|IN 2003|CD are|VBP unlikely|RB </s>|S_END
+<s>|S_START a|DT healthy|JJ economy|NN will|MD help|VB to|TO quell|VB discontent|NN as|IN strong|JJ demand|NN from|IN the|DT mainland|NN for|IN the|DT territorys|NNS trade|VBP services|NNS makes|VBZ up|RP for|IN weak|JJ markets|NNS in|IN the|DT west|NN </s>|S_END
+</p>|P_END
+

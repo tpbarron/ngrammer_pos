@@ -1,0 +1,113 @@
+<p>|P_START
+<s>|S_START france|NN has|VBZ the|DT highest|JJS tax|NN rate|NN with|IN a|DT 75|CD rate|NN on|IN millionaires|NNS </s>|S_END
+<s>|S_START in|IN the|DT us|PRP the|DT fight|NN is|VBZ over|IN whether|IN to|TO extend|VB the|DT top|JJ rate|NN to|TO little|JJ more|JJR than|IN half|PDT that|IN amount|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN joseph|NN j|NN thorndike|NN is|VBZ a|DT contributing|NN editor|NN at|IN tax|NN analysts|NNS and|CC a|DT columnist|NN for|IN tax|NN notes|NNS magazine|NN </s>|S_END
+<s>|S_START his|PRP$ new|JJ book|NN the|DT fair|NN share|NN taxing|VBG the|DT rich|JJ in|IN the|DT age|NN of|IN fdr|NN will|MD be|VB published|VBN later|JJ this|DT year|NN by|IN the|DT urban|NN institute|NN press|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START frances|NNS socialist|VBP president|NN françois|NNS hollande|VBP is|VBZ the|DT talk|NN of|IN europe|NN for|IN his|PRP$ planned|VBN 75|CD tax|NN rate|NN on|IN individual|JJ incomes|NNS over|IN €1|-NONE- million|CD </s>|S_END
+<s>|S_START when|WRB enacted|VBN the|DT new|JJ rate|NN will|MD catapult|VB france|NN to|TO the|DT top|JJ of|IN the|DT list|NN of|IN hightax|NN countries|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hollande|NN has|VBZ defended|VBN the|DT new|JJ rate|NN as|IN part|NN of|IN his|PRP$ effort|NN to|TO shrink|VB frances|NNS budget|NN deficit|NN </s>|S_END
+<s>|S_START but|CC the|DT new|JJ supertax|NN is|VBZ about|IN more|JJR than|IN raising|VBG money|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ also|RB designed|VBN to|TO make|VB a|DT point|NN </s>|S_END
+<s>|S_START its|PRP$ symbolic|JJ hollande|NN has|VBZ said|VBN </s>|S_END
+<s>|S_START it|PRP will|MD show|VB an|DT example|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START indeed|RB thats|VBZ the|DT essential|JJ nature|NN of|IN very|RB high|JJ rates|NNS on|IN very|RB rich|JJ people|NNS </s>|S_END
+<s>|S_START they|PRP arent|VBP really|RB about|IN raising|VBG money|NN although|IN they|PRP can|MD do|VB that|DT pretty|RB well|RB sometimes|RB </s>|S_END
+<s>|S_START rather|RB they|PRP are|VBP designed|VBN to|TO make|VB a|DT political|JJ statement|NN about|IN fairness|NN and|CC economic|JJ justice|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN washington|NN of|IN course|NN the|DT fight|NN is|VBZ over|IN whether|IN to|TO raise|VB the|DT top|JJ rate|NN to|TO a|DT level|NN just|RB over|IN half|DT the|DT amount|NN they|PRP are|VBP arguing|VBG about|IN in|IN france|NN to|TO 396|CD from|IN 35|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN contrast|NN numerous|JJ countries|NNS have|VBP top|JJ rates|NNS in|IN the|DT low|JJ to|TO mid50s|NNP including|VBG austria|NN belgium|NN denmark|NN finland|NN japan|NN and|CC sweden|VB </s>|S_END
+<s>|S_START the|DT worlds|NNS highest|JJS rate|NN is|VBZ levied|VBN in|IN sunny|JJ aruba|NN where|WRB people|NNS making|VBG more|JJR than|IN $|$ 171000|CD face|NN a|DT top|JJ rate|NN of|IN 5895|CD according|VBG to|TO figures|NNS compiled|VBN by|IN kpmg|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START still|RB thats|VBZ a|DT long|JJ way|NN from|IN hollandes|NNS 75|CD </s>|S_END
+<s>|S_START but|CC us|PRP history|NN offers|NNS a|DT refuge|NN for|IN hollande|NN and|CC other|JJ fans|NNS of|IN supertaxes|NNS on|IN the|DT rich|JJ </s>|S_END
+<s>|S_START the|DT united|VBN states|NNS had|VBD a|DT top|JJ rate|NN of|IN 70|CD as|IN recently|RB as|IN 1980|CD </s>|S_END
+<s>|S_START read|NN more|JJR by|IN this|DT author|NN nixon|NN paid|VBD 61|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START famously|RB president|NN reagan|VBD convinced|VBN congress|NN to|TO slash|VB that|IN rate|NN and|CC others|NNS dramatically|RB </s>|S_END
+<s>|S_START high|JJ rates|NNS were|VBD a|DT drag|NN on|IN the|DT economy|NN and|CC a|DT barrier|NN to|TO prosperity|NN he|PRP argued|VBD </s>|S_END
+<s>|S_START by|IN the|DT end|NN of|IN reagans|NNS second|JJ term|NN the|DT economy|NN was|VBD booming|VBG and|CC the|DT top|JJ rate|NN was|VBD just|RB 28|CD </s>|S_END
+<s>|S_START coincidence|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START well|RB yes|VBZ at|IN least|JJS according|VBG to|TO fans|NNS of|IN raising|VBG taxes|NNS on|IN the|DT rich|JJ </s>|S_END
+<s>|S_START they|PRP point|VBP to|TO the|DT 1950s|CD when|WRB rates|NNS were|VBD as|RB high|JJ as|IN 90|CD and|CC economic|JJ growth|NN was|VBD solid|JJ </s>|S_END
+<s>|S_START president|NN eisenhower|NN was|VBD a|DT genuine|NN budget|NN hawk|NN and|CC he|PRP convinced|VBD his|PRP$ republican|NN party|NN colleagues|NNS to|TO swallow|VB hard|JJ and|CC accept|VB high|JJ rates|NNS as|IN a|DT fiscal|JJ necessity|NN </s>|S_END
+<s>|S_START related|VBD 6|CD of|IN richest|JJS in|IN us|PRP paid|VBD no|DT tax|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN high|JJ tax|NN rates|NNS are|VBP good|JJ for|IN the|DT country|NN at|IN least|JJS in|IN the|DT face|NN of|IN deficits|NNS right|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START not|RB exactly|RB </s>|S_END
+<s>|S_START most|JJS economists|NNS in|IN the|DT 1950s|CD thought|VBD high|JJ rates|NNS were|VBD deeply|RB pernicious|JJ </s>|S_END
+<s>|S_START sure|RB rich|JJ people|NNS would|MD keep|VB working|VBG in|IN the|DT face|NN of|IN high|JJ rates|NNS but|CC not|RB quite|RB as|IN hard|JJ </s>|S_END
+<s>|S_START instead|RB they|PRP would|MD focus|VB their|PRP$ efforts|NNS on|IN finding|NN ways|NNS to|TO avoid|VB high|JJ tax|NN rates|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START worse|NN high|JJ rates|NNS had|VBD a|DT tendency|NN to|TO make|VB the|DT public|NN more|JJR tolerant|JJ of|IN tax|NN avoidance|NN and|CC push|VB lawmakers|NNS into|IN enacting|VBG more|JJR loopholes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START today|NN no|DT one|NN is|VBZ arguing|VBG for|IN a|DT return|NN to|TO eisenhowerera|VB 90|CD rates|NNS </s>|S_END
+<s>|S_START and|CC reasonable|JJ people|NNS can|MD disagree|VB about|IN where|WRB the|DT bad|JJ effects|NNS of|IN high|JJ rates|NNS really|RB begin|VBP to|TO show|VB up|RP </s>|S_END
+<s>|S_START is|VBZ it|PRP at|IN 40|CD </s>|S_END
+<s>|S_START 50|CD </s>|S_END
+<s>|S_START 75|CD </s>|S_END
+<s>|S_START theres|NNS no|DT easy|JJ or|CC definitive|JJ answer|NN although|IN some|DT recent|JJ research|NN from|IN progressively|RB minded|VBN economists|NNS would|MD suggest|VB that|IN the|DT number|NN could|MD be|VB surprisingly|RB close|JJ to|TO hollandes|NNS 75|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ultimately|RB however|RB such|JJ research|NN is|VBZ immaterial|JJ at|IN least|JJS in|IN political|JJ terms|NNS </s>|S_END
+<s>|S_START the|DT argument|NN for|IN raising|NN tax|NN rates|NNS on|IN rich|JJ people|NNS has|VBZ never|RB really|RB been|VBN about|IN revenue|NN incentives|NNS or|CC even|RB growth|NN </s>|S_END
+<s>|S_START its|PRP$ been|VBN about|IN fairness|NN plain|NN and|CC simple|JJ </s>|S_END
+<s>|S_START fans|NNS of|IN soaking|VBG the|DT rich|JJ are|VBP happy|JJ to|TO embrace|VB studies|NNS that|WDT support|NN their|PRP$ policy|NN agenda|NN </s>|S_END
+<s>|S_START but|CC it|PRP seems|VBZ fair|JJ to|TO say|VB they|PRP would|MD still|RB like|VB supertaxes|NNS even|RB if|IN they|PRP slowed|VBD growth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD worlds|NNS largest|JJS economies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START certainly|RB thats|VBZ been|VBN the|DT lesson|NN of|IN us|PRP history|NN </s>|S_END
+<s>|S_START even|RB the|DT economists|NNS who|WP crafted|VBN fdrs|NNS new|JJ deal|NN in|IN the|DT 1930s|CD understood|NN that|WDT big|JJ tax|NN hikes|NNS on|IN the|DT rich|JJ came|NN at|IN a|DT price|NN </s>|S_END
+<s>|S_START but|CC by|IN and|CC large|JJ they|PRP also|RB believed|VBD that|IN such|JJ rates|NNS were|VBD necessary|JJ politically|RB if|IN not|RB fiscally|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ultimately|RB those|DT high|JJ rates|NNS came|VBD down|RB </s>|S_END
+<s>|S_START but|CC it|PRP took|VBD a|DT long|JJ long|JJ time|NN and|CC the|DT damage|NN caused|VBD by|IN those|DT rates|NNS played|VBN a|DT key|JJ role|NN in|IN shaping|NN the|DT conservative|JJ revival|NN of|IN the|DT 1970s|CD </s>|S_END
+<s>|S_START by|IN the|DT late|JJ 1960s|CD republicans|NNS were|VBD ready|RB to|TO challenge|VB that|IN system|NN and|CC the|DT new|JJ gop|NN rode|NN an|DT antitax|NN wave|NN into|IN power|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN if|IN youre|NN looking|VBG for|IN the|DT roots|NNS of|IN modern|JJ antitax|NN politics|NNS you|PRP can|MD start|VB with|IN the|DT progressive|JJ tax|NN rates|NNS of|IN the|DT 1930s|CD </s>|S_END
+<s>|S_START soaking|VBG the|DT rich|JJ can|NN seem|NN like|IN a|DT good|JJ idea|NN especially|RB when|WRB times|NNS are|VBP tough|JJ </s>|S_END
+<s>|S_START but|CC its|PRP$ a|DT perilous|JJ agenda|NN at|IN least|JJS for|IN fans|NNS of|IN progressive|JJ taxation|NN </s>|S_END
+</p>|P_END
+

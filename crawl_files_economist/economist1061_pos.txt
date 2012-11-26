@@ -1,0 +1,37 @@
+<p>|P_START
+<s>|S_START in|IN a|DT novel|NN called|VBN “the|JJ difference|NN engine”|NN published|VBD in|IN 1990|CD william|NN gibson|NN and|CC bruce|VB sterling|NN described|VBN an|DT alternative|JJ victorian|NN era|NN of|IN mechanical|JJ computers|NNS driven|RB by|IN steam|NN with|IN their|PRP$ results|NNS displayed|VBN on|IN screens|NNS made|VBN of|IN mechanical|JJ pixel|NN </s>|S_END
+<s>|S_START teamdriven|RB computers|NNS remain|VBP in|IN the|DT realm|NN of|IN science|NN fiction|NN </s>|S_END
+<s>|S_START mechanical|JJ pixels|NNS however|RB are|VBP beginning|VBG to|TO see|VB the|DT light|NN of|IN day|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pixels|NNS are|VBP the|DT dots|NNS or|CC “picture|JJ elements”|NN that|WDT make|VB up|RP the|DT picture|NN on|IN a|DT display|NN screen|NN </s>|S_END
+<s>|S_START and|CC one|CD way|NN of|IN making|VBG them|PRP change|NN colour|PRP$ is|VBZ to|TO use|VB what|WP are|VBP known|VBN as|IN microelectromechanical|JJ systems|NNS or|CC mems|NNS to|TO move|VB part|NN of|IN each|DT pixel|NN around|IN creating|VBG iridescent|NN interference|NN patterns|NNS in|IN the|DT proce|NN </s>|S_END
+<s>|S_START according|VBG to|TO wallen|VB mphepö|JJ of|IN national|JJ chiao|NN tung|NN university|NN in|IN hsinchu|NN taiwan|NN who|WP is|VBZ one|CD of|IN those|DT working|VBG on|IN this|DT idea|NN screens|VBZ made|VBN this|DT way|NN should|MD be|VB as|RB easy|JJ on|IN the|DT eye|NN in|IN bright|JJ sunlight|NN as|IN the|DT reflective|JJ “electronic|JJ paper”|NN used|VBN in|IN devices|NNS such|JJ as|IN the|DT kindle|NN </s>|S_END
+<s>|S_START they|PRP would|MD also|RB use|VB far|RB less|JJR power|NN than|IN todays|NNS liquidcrystal|JJ display|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN mphepös|NNS pixels|NNS are|VBP pieces|NNS of|IN zirconium|NN dioxide|NN 30|CD microns|NNS across|IN that|DT have|VBP been|VBN coated|VBN on|IN one|CD side|NN with|IN a|DT layer|NN of|IN silver|NN 123|CD microns|NNS thick|VBP </s>|S_END
+<s>|S_START these|DT tiny|JJ mirrors|NNS can|MD be|VB tilted|VBN electrostatically|RB using|VBG a|DT voltage|NN applied|VBN by|IN a|DT thinfilm|NN transistor|NN of|IN the|DT sort|NN employed|VBD to|TO control|NN liquidcrystal|NN pixel|NN </s>|S_END
+<s>|S_START the|DT upshot|NN is|VBZ a|DT mirror|NN whose|WP$ angle|NN with|IN respect|NN to|TO the|DT light|NN incident|NN upon|IN it|PRP can|MD be|VB changed|VBN at|IN will|MD </s>|S_END
+<s>|S_START paradoxically|RB though|IN it|PRP is|VBZ a|DT mirror|NN in|IN which|WDT the|DT silver|NN being|VBG on|IN top|JJ is|VBZ the|DT transparent|NN layer|NN it|PRP is|VBZ so|RB thin|JJ that|IN light|JJ passes|NNS easily|RB through|IN it|PRP while|IN the|DT zirconium|NN dioxide|NN which|WDT is|VBZ normally|RB a|DT transparent|NN substance|NN acts|NNS as|IN the|DT reflective|JJ surface|NN </s>|S_END
+<s>|S_START the|DT reason|NN is|VBZ that|IN zirconium|NN dioxide|NN has|VBZ a|DT much|JJ higher|JJR refractive|JJ index|NN than|IN silver|NN in|IN other|JJ words|NNS light|JJ slows|NNS down|IN and|CC bends|NNS more|RBR when|WRB travelling|VBG through|IN zirconium|NN oxide|NN than|IN when|WRB travelling|VBG through|IN silver|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ the|DT junction|NN between|IN the|DT two|CD materials|NNS which|WDT acts|NNS as|IN the|DT reflective|JJ surface|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT upshot|NN is|VBZ that|IN the|DT length|NN of|IN the|DT paths|NNS of|IN rays|NNS of|IN light|JJ entering|NN the|DT silver|NN bouncing|VBG off|RP the|DT mirror|NN and|CC then|RB returning|VBG to|TO the|DT outside|NN world|NN and|CC so|RB to|TO the|DT viewer|NN can|MD be|VB changed|VBN by|IN varying|NN the|DT angle|NN of|IN tilt|NN </s>|S_END
+<s>|S_START that|DT in|IN turn|NN affects|NNS how|WRB the|DT peaks|NNS and|CC troughs|NNS of|IN the|DT incident|NN and|CC reflected|VBD rays|NNS fall|VBP on|IN each|DT other|JJ </s>|S_END
+<s>|S_START and|CC this|DT depending|NN on|IN the|DT wavelength|NN of|IN the|DT light|JJ concerned|VBN and|CC thus|RB its|PRP$ colour|PRP$ causes|NNS some|DT colours|NNS to|TO be|VB amplified|VBN while|IN others|NNS are|VBP cancelled|VBN out|RP </s>|S_END
+<s>|S_START the|DT reason|NN for|IN choosing|NN 123|CD microns|NNS for|IN the|DT thickness|NN of|IN the|DT silver|NN is|VBZ that|IN it|PRP is|VBZ twice|NN the|DT average|JJ wavelength|NN of|IN visible|JJ light|JJ </s>|S_END
+<s>|S_START this|DT gives|VBZ just|RB enough|RB room|VBP for|IN the|DT processes|NNS of|IN amplification|NN and|CC cancellation|NN to|TO take|VB place|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT similar|JJ technique|NN is|VBZ already|RB used|VBN in|IN a|DT commercial|JJ display|NN technology|NN developed|VBD by|IN qualcomm|NN an|DT american|JJ electronics|NNS company|NN </s>|S_END
+<s>|S_START but|CC mirasol|NN as|IN qualcomms|NNS method|VBD is|VBZ known|VBN merely|RB uses|VBZ mems|NNS to|TO turn|VB a|DT pixel|NN on|IN or|CC off|IN by|IN reflecting|NN either|DT one|CD wavelength|NN of|IN light|JJ or|CC none|NN at|IN all|DT </s>|S_END
+<s>|S_START mr|NN mphepös|NNS approach|VBP is|VBZ more|RBR sophisticated|JJ and|CC does|VBZ not|RB require|VB separate|JJ subpixels|NNS for|IN each|DT of|IN the|DT three|CD primary|JJ colours|NNS to|TO produce|VB a|DT fullcolour|NN image|NN which|WDT could|MD improve|VB the|DT screens|NNS resolution|NN </s>|S_END
+<s>|S_START they|PRP may|MD not|RB be|VB powered|VBN by|IN steam|NN but|CC mr|NN mphepös|NNS pixels|NNS may|MD in|IN their|PRP$ own|JJ way|NN rewrite|NN history|NN </s>|S_END
+</p>|P_END
+

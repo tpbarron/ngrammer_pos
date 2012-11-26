@@ -1,0 +1,34 @@
+<p>|P_START
+<s>|S_START businesses|NNS avidly|RB mine|JJ data|NNS to|TO improve|VB their|PRP$ efficiency|NN </s>|S_END
+<s>|S_START nonprofit|NN groups|NNS have|VBP plenty|NN of|IN information|NN too|RB </s>|S_END
+<s>|S_START but|CC they|PRP can|MD rarely|RB afford|VB to|TO hire|VB numbercruncher|JJR </s>|S_END
+<s>|S_START now|RB a|DT bunch|NN of|IN philanthropic|JJ geeks|NNS at|IN datakind|NN a|DT new|JJ yorkbased|VBN charity|NN are|VBP helping|VBG other|JJ dogooders|NNS work|VBP more|JJR productively|RB and|CC quantify|VB their|PRP$ achievements|NNS for|IN donors|NNS who|WP like|IN to|TO see|VB that|IN their|PRP$ money|NN is|VBZ well|RB spent|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT typical|JJ datakind|NN twoday|NN “hackathon”|NN last|JJ month|NN in|IN london|NN attracted|VBN 50|CD people|NNS who|WP worked|VBD in|IN three|CD team|NN </s>|S_END
+<s>|S_START one|CD pored|VBN over|IN the|DT records|NNS of|IN place2be|NNP which|WDT offers|VBZ counselling|VBG to|TO troubled|JJ schoolchildren|NN </s>|S_END
+<s>|S_START crunching|VBG the|DT data|NNS showed|VBD that|IN boys|NNS tend|VBP to|TO respond|VB better|JJR than|IN girls|NNS though|IN girls|NNS who|WP lived|VBN with|IN only|RB their|PRP$ fathers|NNS showed|VBD the|DT biggest|JJS improvements|NNS of|IN all|DT </s>|S_END
+<s>|S_START the|DT charity|NN did|VBD not|RB know|VB that|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT expertise|NN is|VBZ far|RB beyond|IN what|WP is|VBZ available|JJ to|TO a|DT typical|JJ charity|NN </s>|S_END
+<s>|S_START the|DT smalltalk|NN among|IN the|DT volunteers|NNS was|VBD of|IN dizzyingly|RB complex|JJ statistical|JJ and|CC artificialintelligence|NN technique|NN </s>|S_END
+<s>|S_START volunteers|NNS included|VBD an|DT analyst|NN at|IN teradata|NN a|DT dataanalytics|NN firm|NN </s>|S_END
+<s>|S_START around|IN 20|CD employees|NNS attended|VBD from|IN aimia|NN a|DT firm|NN that|WDT mines|VBZ data|NNS from|IN consumerloyalty|NN program|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT previous|JJ hackathon|NN in|IN san|NN francisco|NN datakind|NN volunteers|NNS analysed|VBD the|DT data|NNS from|IN mobilising|VBG health|NN a|DT nonprofit|JJ group|NN that|WDT connects|VBZ rural|JJ patients|NNS in|IN india|NN with|IN doctors|NNS in|IN cities|NNS that|WDT are|VBP usually|RB many|JJ hours|NNS away|RB </s>|S_END
+<s>|S_START volunteers|NNS record|VBD symptoms|NNS and|CC relay|NN them|PRP by|IN cellphone|NN </s>|S_END
+<s>|S_START the|DT doctors|NNS then|RB may|MD prescribe|VB drugs|NNS or|CC recommend|VB a|DT hospital|JJ visit|NN </s>|S_END
+<s>|S_START the|DT charity|NN wanted|VBD to|TO use|VB the|DT many|JJ months’|NN worth|NN of|IN accumulated|VBN text|NN messages|NNS to|TO evaluate|VB the|DT medics’|NN performance|NN </s>|S_END
+<s>|S_START thanks|NNS to|TO datakind|VB the|DT charity|NN was|VBD able|JJ to|TO rejig|VB the|DT system|NN to|TO take|VB more|JJR account|NN of|IN urgency|NN and|CC to|TO direct|VB requests|NNS to|TO the|DT most|JJS responsive|JJ doctor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thomas|NNS levine|VBP a|DT data|NN scientist|NN at|IN scraperwiki|NN a|DT provider|NN of|IN dataprocessing|VBG services|NNS says|VBZ he|PRP has|VBZ attended|VBN datakind|NN events|NNS out|IN of|IN altruism|NN but|CC also|RB for|IN education|NN </s>|S_END
+<s>|S_START would|MD anyone|NN care|VB to|TO measure|VB that|IN benefit|NN </s>|S_END
+</p>|P_END
+

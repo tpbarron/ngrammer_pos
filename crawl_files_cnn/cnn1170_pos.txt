@@ -1,0 +1,44 @@
+<p>|P_START
+<s>|S_START unemployment|NN rates|NNS within|IN the|DT euro|NN area|NN vary|NN dramatically|RB from|IN one|CD country|NN to|TO the|DT next|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN unemployment|NN in|IN the|DT eurozone|NN rose|VBD in|IN september|NN to|TO a|DT record|NN high|JJ of|IN 116|CD the|DT european|JJ commissions|NNS eurostat|IN statistics|NNS agency|NN reported|VBD wednesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT figure|NN was|VBD a|DT slight|NN increase|NN from|IN 115|CD in|IN august|JJ </s>|S_END
+<s>|S_START the|DT increase|NN is|VBZ more|RBR significant|JJ compared|VBN to|TO september|VB 2011|CD when|WRB the|DT unemployment|NN rate|NN was|VBD 103|CD </s>|S_END
+<s>|S_START the|DT number|NN of|IN unemployed|VBN people|NNS in|IN the|DT 17|CD nations|NNS of|IN the|DT area|NN which|WDT share|NN the|DT euro|NN currency|NN rose|VBD by|IN 146000|CD to|TO 1849|CD million|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unemployment|NN rates|NNS within|IN the|DT euro|NN area|NN vary|NN dramatically|RB from|IN one|CD country|NN to|TO the|DT next|JJ </s>|S_END
+<s>|S_START spain|NN with|IN its|PRP$ sluggish|JJ economy|NN has|VBZ the|DT highest|JJS unemployment|NN rate|NN of|IN 258|CD followed|VBN by|IN greece|NN at|IN 251|CD and|CC portugal|JJ at|IN 157|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN the|DT other|JJ side|NN of|IN the|DT spectrum|NN austria|NN has|VBZ the|DT lowest|JJS rate|NN at|IN 44|CD followed|VBN by|IN luxembourg|NN at|IN 52|CD and|CC germany|NN and|CC the|DT netherlands|NNS at|IN 54|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD sandy|NN could|MD delay|VB jobs|NNS report|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT us|PRP unemployment|VBD rate|NN stood|NN at|IN 78|CD for|IN september|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN all|DT of|IN the|DT full|JJ 27|CD memberstates|NNS of|IN the|DT european|JJ union|NN including|VBG countries|NNS that|IN do|VBP not|RB use|VB the|DT euro|NN the|DT unemployment|NN rate|NN was|VBD unchanged|JJ at|IN 106|CD </s>|S_END
+<s>|S_START the|DT rate|NN was|VBD up|RB from|IN 98|CD a|DT year|NN earlier|JJR </s>|S_END
+<s>|S_START the|DT number|NN of|IN unemployed|VBN people|NNS in|IN the|DT 27|CD nations|NNS rose|VBD by|IN 169000|CD to|TO 2575|CD millioneur|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD ireport|VBN europes|NNS financial|JJ crisis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+</p>|P_END
+

@@ -1,0 +1,49 @@
+<p>|P_START
+<s>|S_START the|DT censorshiptracking|NN site|NN greatfire|NN said|VBD many|JJ google|JJ subdomains|NNS were|VBD dns|NNS poisoned|VBN in|IN china|NN on|IN friday|NN and|CC that|IN most|JJS attempts|NNS to|TO circumvent|VB the|DT block|NN did|VBD not|RB work|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN google|NN and|CC all|DT of|IN its|PRP$ major|JJ services|NNS were|VBD blocked|VBN in|IN china|NN on|IN friday|NN as|IN the|DT communist|NN party|NN meets|NNS to|TO appoint|VB new|JJ leaders|NNS for|IN the|DT first|JJ time|NN in|IN a|DT decade|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START googles|NNS own|VBP transparency|NN report|NN designed|VBN to|TO detect|VB and|CC publicize|VB service|NN disruptions|NNS shows|VBZ a|DT sharp|JJ drop|NN in|IN traffic|JJ from|IN china|NN across|IN all|DT of|IN googles|NNS products|NNS </s>|S_END
+<s>|S_START the|DT company|NN added|VBD the|DT incident|NN to|TO its|PRP$ timeline|NN of|IN outages|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START weve|NN checked|VBD and|CC theres|NNS nothing|NN wrong|IN on|IN our|PRP$ end|NN a|DT google|NN goog|NN fortune|NN 500|CD representative|NN told|VBD cnnmoney|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT cause|NN of|IN the|DT outage|NN is|VBZ unclear|JJ but|CC it|PRP comes|VBZ just|RB one|CD day|NN after|IN the|DT start|NN of|IN the|DT communist|NN partys|VBZ 18th|JJ national|JJ congress|NN in|IN china|NN </s>|S_END
+<s>|S_START the|DT onceeverydecade|NN meeting|NN is|VBZ held|VBN to|TO select|VB a|DT new|JJ stable|NN of|IN leaders|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fact|NN that|IN google|JJ is|VBZ blocked|VBN now|RB is|VBZ surely|RB no|DT coincidence|NN the|DT site|NN greatfire|NN which|WDT collects|NNS data|VBP related|VBN to|TO what|WP it|PRP calls|VBZ the|DT great|JJ firewall|NN of|IN china|NN posted|VBD on|IN friday|NN </s>|S_END
+<s>|S_START the|DT big|JJ question|NN is|VBZ whether|IN it|PRP will|MD be|VB unblocked|VBN again|RB once|RB the|DT congress|NN is|VBZ over|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START greatfire|NN tracks|NNS blocked|VBD web|NN sites|NNS and|CC searches|NNS focusing|VBG especially|RB on|IN google|JJ and|CC popular|JJ chinese|NN search|NN engine|NN baidu|NN bidu|NN </s>|S_END
+<s>|S_START the|DT site|NN said|VBD many|JJ google|JJ subdomains|NNS on|IN friday|NN were|VBD dns|NNS poisoned|VBN an|DT attack|NN method|NN that|WDT redirects|VBZ visitors|NNS to|TO an|DT alternate|NN or|CC nonexistent|NN website|NN and|CC that|IN most|JJS attempts|NNS to|TO circumvent|VB the|DT block|NN did|VBD not|RB work|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START attempts|NNS in|IN china|NN to|TO reach|VB googlecom|NN appear|NN to|TO be|VB redirecting|VBG to|TO a|DT nonfunctioning|NN ip|NN address|NN in|IN korea|NN according|VBG to|TO greatfire|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START never|RB before|IN have|VB so|RB many|JJ people|NNS been|VBN affected|VBN by|IN a|DT decision|NN to|TO block|VB a|DT website|JJ greatfire|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT relationship|NN between|IN google|JJ and|CC china|NN has|VBZ never|RB been|VBN smooth|JJ as|IN the|DT search|NN engines|NNS mission|NN to|TO organize|VB the|DT worlds|NNS information|NN and|CC make|VB it|PRP universally|RB accessible|JJ flies|NNS directly|RB in|IN the|DT face|NN of|IN the|DT countrys|NNS restrictive|VBP government|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN january|JJ 2010|CD google|NN threatened|VBN to|TO shut|VB down|RP its|PRP$ chinese|JJ search|NN site|NN at|IN googlecn|NN citing|VBG censorship|NN rules|NNS and|CC the|DT discovery|NN of|IN a|DT targeted|VBN cyber|NN attack|NN on|IN its|PRP$ network|NN infrastructure|NN </s>|S_END
+<s>|S_START two|CD months|NNS later|JJ the|DT company|NN said|VBD it|PRP would|MD stop|VB censoring|VBG searches|NNS on|IN googlecn|NN and|CC automatically|RB redirect|VB chinese|JJ users|NNS to|TO its|PRP$ uncensored|VBN hong|JJ kong|JJ site|NN </s>|S_END
+</p>|P_END
+

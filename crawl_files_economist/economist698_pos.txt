@@ -1,0 +1,63 @@
+<p>|P_START
+<s>|S_START logic|NN dictates|NNS that|WDT in|IN the|DT election|NN following|VBG a|DT banner|NN year|NN for|IN one|CD of|IN america’s|JJ two|CD main|JJ parties|NNS the|DT other|JJ will|MD regain|VB much|JJ of|IN the|DT lost|JJS ground|NN </s>|S_END
+<s>|S_START but|CC that|DT logic|NN was|VBD subverted|VBN in|IN this|DT year’s|JJ congressional|JJ election|NN </s>|S_END
+<s>|S_START the|DT democrats|NNS had|VBD talked|VBN of|IN winning|JJ back|NN their|PRP$ lost|NN majority|NN in|IN the|DT house|NN of|IN representatives|NNS after|IN forfeiting|VBG a|DT sobering|NN 63|CD seats|NNS in|IN 2010|CD </s>|S_END
+<s>|S_START but|CC even|RB if|IN they|PRP hold|VBP on|IN to|TO minuscule|NN leads|NNS in|IN the|DT few|JJ races|NNS still|RB outstanding|JJ they|PRP will|MD pick|VB up|RP at|IN most|JJS eight|CD seats|NNS out|IN of|IN the|DT 25|CD they|PRP needed|VBD </s>|S_END
+<s>|S_START meanwhile|RB republicans|VBZ had|VBN expected|VBN to|TO win|VB control|NN of|IN the|DT senate|NN since|IN democrats|NNS had|VBD a|DT majority|NN of|IN just|RB three|CD and|CC were|VBD defending|VBG 23|CD seats|NNS to|TO the|DT republicans’|NN ten|NN </s>|S_END
+<s>|S_START instead|RB it|PRP was|VBD the|DT democrats|NNS who|WP made|VBN advances|NNS increasing|VBG their|PRP$ number|NN to|TO 54|CD of|IN the|DT chamber’s|JJ 100|CD seats|NNS plus|CC one|CD more|RBR who|WP is|VBZ expected|VBN to|TO join|VB them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ironically|RB the|DT republicans’|NN surprising|VBG resilience|NN in|IN the|DT house|NN and|CC their|PRP$ unexpected|JJ retreat|NN in|IN the|DT senate|NN were|VBD both|DT of|IN the|DT party’s|JJ own|NN making|VBG </s>|S_END
+<s>|S_START by|IN rigging|NN the|DT recent|JJ nationwide|NN round|NN of|IN redistricting|VBG in|IN their|PRP$ favour|NN republicans|NNS were|VBD able|JJ to|TO shore|VB up|RP many|JJ of|IN the|DT representatives|NNS first|RB elected|VBN in|IN 2010|CD who|WP would|MD otherwise|VB have|VB been|VBN vulnerable|JJ </s>|S_END
+<s>|S_START but|CC by|IN selecting|NN overdoctrinaire|NN and|CC gaffeprone|NN candidates|NNS for|IN several|JJ senate|JJ races|NNS they|PRP scuppered|VBD their|PRP$ chances|NNS of|IN winning|VBG control|NN of|IN the|DT chamber|NN for|IN the|DT second|JJ election|NN running|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT house|NN democratic|JJ challengers|NNS do|VBP seem|VBP to|TO have|VB unseated|VBN some|DT of|IN the|DT republicans’|JJ most|JJS outspoken|JJ freshmen|NNS such|JJ as|IN allen|NN west|NN of|IN florida|NN and|CC joe|NN walsh|NN of|IN illinoi|NN </s>|S_END
+<s>|S_START one|CD also|RB came|VBD within|IN a|DT percentage|NN point|NN of|IN ousting|VBG michele|NN bachmann|NN an|DT incumbent|NN of|IN three|CD terms|NNS teaparty|NN heroine|NN and|CC flashinthepan|NN presidential|JJ candidate|NN </s>|S_END
+<s>|S_START but|CC of|IN the|DT 87|CD republicans|NNS first|RB elected|VBN in|IN 2010|CD democrats|NNS seem|VBP to|TO have|VB shown|VBN only|RB 11|CD the|DT door|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START everal|JJ democrats|NNS also|RB appear|VBP to|TO have|VB prevailed|VBN in|IN districts|NNS republicans|NNS designed|VBN to|TO ensure|VB their|PRP$ defeat|NN including|VBG john|NN barrow|NN of|IN georgia|NN jim|NN matheson|NN of|IN utah|NN and|CC mike|VB mcintyre|NN of|IN north|JJ carolina|NN </s>|S_END
+<s>|S_START but|CC still|RB more|RBR succumbed|VBN to|TO such|JJ gerrymanders|NNS in|IN indiana|NN north|NN carolina|NN and|CC pennsylvania|NN among|IN other|JJ place|NN </s>|S_END
+<s>|S_START democrats|NNS returned|VBD the|DT favour|NN and|CC redistricted|VBD some|DT republicans|NNS out|IN of|IN office|NN most|JJS notably|RB in|IN illinois|NNS and|CC maryland|NN </s>|S_END
+<s>|S_START california’s|NNS new|JJ nonpartisan|NN system|NN of|IN redistricting|VBG also|RB provided|VBN them|PRP with|IN a|DT few|JJ gain|NN </s>|S_END
+<s>|S_START but|CC republicans|NNS controlled|VBD redistricting|VBG in|IN far|RB more|RBR places|NNS and|CC were|VBD able|JJ to|TO steer|NN new|JJ seats|NNS in|IN georgia|NN south|NN carolina|NN texas|NNS and|CC utah|JJ to|TO their|PRP$ own|JJ </s>|S_END
+<s>|S_START the|DT advantage|NN they|PRP gained|VBD in|IN 2010|CD by|IN sweeping|JJ many|JJ state|NN legislatures|NNS just|RB before|IN the|DT redrawing|NN of|IN the|DT maps|NNS will|MD endure|VB for|IN a|DT couple|NN more|RBR elections|NNS at|IN least|JJS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT republican|JJ resilience|NN in|IN the|DT house|NN qualifies|NNS as|IN something|NN of|IN an|DT achievement|NN the|DT party’s|NNP performance|NN in|IN the|DT senate|NN was|VBD an|DT utter|NN fiasco|NN </s>|S_END
+<s>|S_START it|PRP managed|VBD to|TO pick|VB up|RP only|RB one|CD democratic|JJ seat|NN in|IN nebraska|NN </s>|S_END
+<s>|S_START another|DT that|DT had|VBD looked|VBN like|IN a|DT certain|JJ gain|NN in|IN missouri|NN was|VBD lost|VBN after|IN the|DT republican|JJ candidate|NN todd|NN akin|NN suggested|VBD that|IN women|NNS could|MD avoid|VB becoming|VBG pregnant|JJ by|IN sheer|NN force|NN of|IN will|MD in|IN cases|NNS of|IN “legitimate|JJ rape”|NN </s>|S_END
+<s>|S_START imilarly|RB the|DT party|NN lost|VBD a|DT previously|RB safe|JJ seat|NN in|IN indiana|NN after|IN the|DT moderate|JJ incumbent|NN dick|NN lugar|NN lost|VBD the|DT republican|NN primary|NN to|TO a|DT rightwing|NN challenger|NN richard|NN mourdock|NN </s>|S_END
+<s>|S_START mr|NN mourdock|NN had|VBD already|RB alienated|VBN many|JJ voters|NNS by|IN denouncing|VBG compromise|NN with|IN democrats|NNS as|IN surrender|NN opposing|VBG the|DT obama|NN administration’s|VBZ auto|NN bailout|IN despite|IN the|DT state’s|JJ many|JJ jobs|NNS in|IN carmaking|VBG and|CC questioning|VBG the|DT legitimacy|NN of|IN popular|JJ government|NN programmes|NNS such|JJ as|IN medicare|NN and|CC social|JJ security|NN </s>|S_END
+<s>|S_START but|CC he|PRP sealed|VBD his|PRP$ defeat|NN by|IN making|VBG an|DT antediluvian|JJ statement|NN of|IN his|PRP$ own|JJ about|IN rape|NN </s>|S_END
+<s>|S_START all|DT this|DT was|VBD eerily|RB reminiscent|JJ of|IN 2010|CD when|WRB outlandish|JJ candidates|NNS prevented|VBN the|DT republicans|NNS from|IN seizing|VBG three|CD vulnerable|JJ democratic|JJ seat|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT loss|NN came|VBD in|IN maine|NN where|WRB olympia|NN snowe|NN a|DT determined|JJ moderate|NN is|VBZ retiring|VBG </s>|S_END
+<s>|S_START he|PRP blames|VBZ her|PRP$ departure|NN on|IN the|DT overpartisan|NN confrontational|JJ and|CC unproductive|JJ atmosphere|NN in|IN the|DT senate|NN </s>|S_END
+<s>|S_START cynics|NNS suggest|VBP that|IN she|PRP did|VBD not|RB have|VB the|DT stomach|NN for|IN a|DT primary|JJ challenge|NN from|IN a|DT more|RBR doctrinaire|JJ candidate|NN </s>|S_END
+<s>|S_START either|DT way|NN the|DT party’s|NNP move|NN to|TO the|DT right|NN seems|VBZ to|TO have|VB cost|NN it|PRP the|DT seat|NN as|IN mrs|NNS snowe|VBP declined|VBN to|TO endorse|VB the|DT republican|JJ candidate|NN who|WP subsequently|RB lost|VBD to|TO an|DT independent|JJ former|NN governor|NN angus|VBZ king|VBG </s>|S_END
+<s>|S_START he|PRP is|VBZ expected|VBN to|TO side|VB with|IN the|DT democrat|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT republicans|NNS also|RB failed|VBD to|TO capture|VB democratheld|NN seats|NNS in|IN two|CD reliably|RB conservative|JJ states|NNS that|WDT mitt|NN romney|NN carried|VBD with|IN ease|NN montana|NNS and|CC north|JJ dakota|NN </s>|S_END
+<s>|S_START the|DT losing|NN candidates|VBZ were|VBD both|DT members|NNS of|IN the|DT house|NN of|IN representatives|NNS something|NN their|PRP$ opponents|NNS turned|VBD to|TO their|PRP$ advantage|NN </s>|S_END
+<s>|S_START they|PRP painted|VBD the|DT republican|NN majority|NN in|IN the|DT house|NN as|IN extreme|NN and|CC irresponsible|JJ in|IN contrast|NN to|TO the|DT more|RBR measured|VBN and|CC pragmatic|JJ approach|NN to|TO legislating|NN they|PRP promised|VBD to|TO take|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN the|DT surprising|JJ victories|NNS of|IN several|JJ centrist|NN democrats|NNS in|IN both|DT the|DT senate|NN and|CC the|DT house|NN both|DT chambers|NNS have|VBP become|VBN more|RBR polarised|VBN </s>|S_END
+<s>|S_START in|IN massachusetts|NNS for|IN example|NN a|DT leftwing|NN democrat|NN elizabeth|NN warren|NN replaced|VBD a|DT moderate|JJ republican|NN scott|NN brown|NN in|IN the|DT senate|NN while|IN in|IN nebraska|NN a|DT rightwing|NN republican|NN replaced|VBD a|DT moderate|JJ democrat|NN </s>|S_END
+<s>|S_START in|IN texas|NNS a|DT rigidly|RB conservative|JJ republican|NN replaced|VBD a|DT slightly|RB more|RBR pliable|JJ one|CD </s>|S_END
+<s>|S_START in|IN the|DT house|NN the|DT “blue|JJ dog”|NN caucus|NN of|IN centrist|NN democrats|NNS was|VBD slashed|VBN from|IN 24|CD to|TO 15|CD </s>|S_END
+<s>|S_START by|IN the|DT same|JJ token|NN the|DT “sorting”|NN of|IN the|DT country|NN into|IN red|JJ and|CC blue|JJ states|NNS continued|VBD as|IN the|DT democrats|NNS lost|VBD their|PRP$ only|JJ house|NN seats|NNS in|IN arkansas|NNS and|CC oklahoma|NN and|CC one|CD of|IN their|PRP$ two|CD in|IN kentucky|JJ while|IN republicans|NNS lost|VBD their|PRP$ last|JJ two|CD house|NN seats|NNS in|IN new|JJ england|NN both|DT in|IN new|JJ hampshire|NN </s>|S_END
+<s>|S_START none|NN of|IN that|DT bodes|VBZ particularly|RB well|RB for|IN the|DT chances|NNS of|IN bipartisan|NN cooperation|NN next|IN year|NN </s>|S_END
+</p>|P_END
+

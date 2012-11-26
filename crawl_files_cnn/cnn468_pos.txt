@@ -1,0 +1,28 @@
+<p>|P_START
+<s>|S_START consumer|NN spending|NN increased|VBD in|IN august|NN even|RB though|IN wages|NNS did|VBD not|RB show|VB much|JJ improvement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN spending|NN by|IN consumers|NNS picked|VBD up|RP in|IN august|NN although|IN people|NNS dipped|VBD into|IN their|PRP$ savings|NNS to|TO buy|VB things|NNS as|IN growth|NN in|IN their|PRP$ paychecks|NNS did|VBD not|RB keep|VB pace|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START spending|NN increased|VBD 05|CD in|IN the|DT month|NN according|VBG to|TO the|DT commerce|NN department|NN report|NN up|IN from|IN a|DT 04|CD increase|NN in|IN july|RB </s>|S_END
+<s>|S_START spending|NN by|IN consumers|NNS accounts|NNS for|IN nearly|RB threequarters|NNS of|IN the|DT nations|NNS economic|JJ activity|NN so|IN growth|NN in|IN spending|NN an|DT important|JJ driver|NN of|IN economic|JJ growth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC for|IN the|DT second|JJ straight|NN month|NN personal|JJ income|NN grew|VBD by|IN only|RB 01|CD as|IN the|DT continued|VBN weakness|NN in|IN the|DT jobs|NNS market|NN has|VBZ kept|VBN wages|NNS in|IN check|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT of|IN the|DT spending|NN was|VBD paid|VBN for|IN by|IN a|DT drop|NN in|IN the|DT average|NN amount|NN saved|VBD by|IN consumers|NNS </s>|S_END
+<s>|S_START the|DT savings|NNS rate|NN fell|VBD to|TO 37|CD of|IN aftertax|NN income|NN which|WDT means|VBZ the|DT typical|JJ worker|NN saved|VBD only|RB $|$ 370|CD out|IN of|IN every|DT $|$ 100|CD of|IN takehome|NN pay|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT of|IN the|DT increase|NN in|IN spending|NN may|MD have|VB been|VBN driven|VBN by|IN higher|JJR gasoline|NN prices|NNS in|IN the|DT period|NN since|IN nondurable|JJ goods|NNS accounted|VBN for|IN the|DT majority|NN of|IN the|DT increase|NN in|IN spending|NN </s>|S_END
+<s>|S_START gas|NN prices|NNS jumped|VBD 9|CD in|IN the|DT month|NN according|VBG to|TO a|DT previous|JJ government|NN reading|NN </s>|S_END
+<s>|S_START excluding|VBG the|DT rise|NN in|IN gas|NN prices|NNS spending|NN by|IN consumers|NNS crept|IN up|IN only|RB 01|CD in|IN the|DT month|NN </s>|S_END
+</p>|P_END
+

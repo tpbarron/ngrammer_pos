@@ -1,0 +1,63 @@
+<p>|P_START
+<s>|S_START college|NN is|VBZ just|RB like|IN anything|NN else|RB you|PRP usually|RB get|VB what|WP you|PRP pay|VBP for|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT lowcost|NN colleges|NNS for|IN example|NN have|VBP lowquality|NN instructors|NNS and|CC high|JJ dropout|IN rates|NNS </s>|S_END
+<s>|S_START and|CC since|IN dropping|NN out|IN of|IN college|NN is|VBZ one|CD of|IN the|DT most|RBS expensive|JJ mistakes|NNS you|PRP can|MD make|VB in|IN life|NN it|PRP makes|VBZ a|DT lot|NN more|RBR sense|NN to|TO attend|VB the|DT best|JJS college|NN you|PRP can|MD afford|VB not|RB the|DT cheapest|JJS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT good|JJ news|NN is|VBZ that|IN even|RB some|DT of|IN the|DT most|RBS expensive|JJ colleges|NNS are|VBP making|VBG tuition|NN more|JJR affordable|JJ for|IN some|DT students|NNS </s>|S_END
+<s>|S_START harvard|NN for|IN example|NN charges|NNS a|DT maximum|NN of|IN 10|CD of|IN family|NN income|NN for|IN students|NNS from|IN families|NNS earning|VBG up|RP to|TO $|$ 150000|CD </s>|S_END
+<s>|S_START the|DT university|NN of|IN connecticut|NN offers|NNS some|DT halftuition|NN scholarships|NNS to|TO a|DT few|JJ top|JJ students|NNS every|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START because|IN colleges|NNS are|VBP increasingly|RB charging|VBG each|DT student|NN a|DT more|RBR customized|VBN price|NN no|DT general|JJ list|NN can|MD tell|VB you|PRP which|WDT college|NN will|MD be|VB cheap|VB for|IN you|PRP </s>|S_END
+<s>|S_START you|PRP can|MD try|VB to|TO estimate|VB your|PRP$ net|JJ cost|NN at|IN any|DT particular|JJ school|NN using|VBG our|PRP$ tool|NN </s>|S_END
+<s>|S_START but|CC heres|NNS some|DT general|JJ advice|NN on|IN how|WRB to|TO find|VB lowcost|NN colleges|NNS of|IN $|$ 5000|CD or|CC less|JJR and|CC courses|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START public|JJ community|NN colleges|NNS these|DT schools|NNS generally|RB have|VBP the|DT lowest|JJS sticker|NN and|CC net|JJ prices|NNS especially|RB if|IN you|PRP live|VBP at|IN home|NN while|IN studying|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT average|JJ community|NN college|NN charged|VBD tuition|NN and|CC fees|NNS of|IN about|IN $|$ 3000|CD a|DT year|NN in|IN the|DT 201112|CD academic|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START traditionally|RB community|NN colleges|NNS only|RB offered|VBD the|DT first|JJ two|CD years|NNS worth|IN of|IN classes|NNS requiring|VBG students|NNS to|TO transfer|VB to|TO other|JJ colleges|NNS and|CC universities|NNS in|IN order|NN to|TO earn|VB their|PRP$ bachelors|NNS </s>|S_END
+<s>|S_START now|RB a|DT growing|VBG number|NN are|VBP starting|VBG to|TO offer|VB full|JJ fouryear|JJ bachelors|NNS degrees|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC beware|VBP some|DT community|NN colleges|NNS have|VBP very|RB low|JJ graduation|NN rates|NNS meaning|VBG a|DT lot|NN of|IN students|NNS drop|NN out|IN </s>|S_END
+<s>|S_START colleges|NNS are|VBP required|VBN to|TO tell|VB you|PRP their|PRP$ graduation|NN rate|NN </s>|S_END
+<s>|S_START so|IN if|IN you|PRP can|MD shop|VB around|IN call|NN the|DT colleges|NNS you|PRP are|VBP considering|VBG to|TO ask|VB about|IN their|PRP$ graduation|NN rates|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START study|NN on|IN your|PRP$ own|JJ and|CC test|NN out|IN </s>|S_END
+<s>|S_START for|IN those|DT who|WP are|VBP disciplined|VBN enough|JJ you|PRP can|MD study|VB topics|NNS like|IN american|JJ history|NN psychology|NN and|CC marketing|NN then|RB pay|VB less|JJR than|IN $|$ 100|CD typically|RB to|TO take|VB a|DT test|NN that|WDT many|JJ community|NN colleges|NNS consider|VBP the|DT equivalent|NN of|IN a|DT college|NN final|JJ exam|NN </s>|S_END
+<s>|S_START if|IN you|PRP pass|VBP many|JJ colleges|NNS will|MD give|VB you|PRP credit|NN or|CC at|IN least|JJS allow|JJ you|PRP to|TO place|VB into|IN higherlevel|NN courses|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START clep|NN the|DT college|NN board|NN offers|NNS 33|CD college|NN credit|NN tests|NNS starting|VBG as|IN low|JJ as|IN $|$ 77|CD though|IN extra|JJ fees|NNS typically|RB bring|VBG that|IN up|IN to|TO about|IN $|$ 85|CD or|CC $|$ 90|CD and|CC study|NN guides|NNS typically|RB cost|VB another|DT $|$ 10|CD to|TO $|$ 25|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dsst|NN a|DT company|NN called|VBN prometric|JJ offers|NNS 38|CD course|NN tests|NNS for|IN a|DT fee|NN of|IN at|IN least|JJS $|$ 80|CD though|IN local|JJ fees|NNS and|CC study|NN materials|NNS add|VBP another|DT $|$ 10|CD to|TO $|$ 25|CD on|IN top|JJ of|IN that|DT cost|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uexcel|NN pearson|NN a|DT textbook|NN company|NN has|VBZ teamed|VBN up|RP with|IN a|DT forprofit|NN college|NN to|TO offer|VB 8|CD different|JJ computerized|JJ course|NN tests|NNS at|IN $|$ 95|CD apiece|NN though|IN if|IN you|PRP buy|VBP a|DT textbook|NN or|CC some|DT practice|NN tests|NNS your|PRP$ costs|NNS will|MD be|VB higher|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP are|VBP interested|JJ in|IN learning|NN material|NN and|CC dont|NN need|VBP a|DT bachelors|NNS degree|VBP but|CC would|MD like|VB some|DT certification|NN mit|NN is|VBZ offering|VBG mitx|NN free|JJ online|NN courses|NNS with|IN small|JJ fees|NNS for|IN tests|NNS and|CC certificates|NNS documenting|VBG what|WP youve|NN learned|VBD </s>|S_END
+<s>|S_START next|JJ how|WRB to|TO find|VB midpriced|VBN colleges |-NONE- </s>|S_END
+</p>|P_END
+

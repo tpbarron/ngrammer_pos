@@ -1,0 +1,39 @@
+<p>|P_START
+<s>|S_START positive|JJ linking|NN how|WRB networks|NNS can|MD revolutionise|VB the|DT world|NN </s>|S_END
+<s>|S_START by|IN paul|NN ormerod|NN </s>|S_END
+<s>|S_START faber|NN and|CC faber|NN 308|CD pages|NNS £1299|-NONE- </s>|S_END
+<s>|S_START buy|NN from|IN amazoncouk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN the|DT world|NN gets|VBZ more|JJR connected|VBN there|EX is|VBZ an|DT increasingly|RB urgent|JJ need|NN for|IN policymakers|NNS to|TO understand|VB and|CC manage|NN the|DT “network|NN effects”|NN that|WDT occur|NN in|IN situations|NNS where|WRB links|NNS to|TO other|JJ people|NNS influence|IN a|DT person’s|JJ decision|NN </s>|S_END
+<s>|S_START the|DT financial|JJ crisis|NN that|WDT brought|VBD the|DT global|JJ economy|NN to|TO its|PRP$ knees|NNS was|VBD the|DT result|NN in|IN part|NN of|IN a|DT failure|NN by|IN governments|NNS to|TO understand|VB the|DT power|NN of|IN network|NN effect|NN </s>|S_END
+<s>|S_START and|CC if|IN they|PRP do|VBP not|RB buck|VB up|RP their|PRP$ ideas|NNS argues|NNS paul|VBP ormerod|NN a|DT british|JJ economist|NN there|EX could|MD be|VB worse|JJ to|TO come|VB as|RB information|NN technology|NN and|CC globalisation|NN entwines|NNS humanity|NN together|RB ever|RB more|RBR thoroughly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO understand|VB many|JJ of|IN the|DT decisions|NNS that|IN people|NNS make|VBP the|DT “rational|JJ utility|NN maximisation”|NN of|IN homo|NN economicus|NN must|MD be|VB abandoned|VBN argues|NNS mr|VBP ormerod|NN </s>|S_END
+<s>|S_START in|IN simple|NN language|NN instead|RB of|IN calculating|VBG how|WRB to|TO best|JJS achieve|VB what|WP they|PRP want|VBP in|IN splendid|JJ isolation|NN people|NNS in|IN networks|NNS mostly|RB opt|JJ to|TO follow|VB the|DT crowd—a|NNP choice|NN that|WDT is|VBZ rational|JJ in|IN its|PRP$ way|NN based|VBN on|IN the|DT assumption|NN that|IN in|IN aggregate|NN the|DT crowd|NN is|VBZ better|RBR informed|VBN than|IN the|DT individual|JJ </s>|S_END
+<s>|S_START on|IN the|DT other|JJ hand|NN even|RB in|IN a|DT network|NN people|NNS decide|VBP to|TO go|VB their|PRP$ own|JJ way|NN often|RB enough|RB to|TO make|VB network|NN effects|NNS extremely|RB hard|RB to|TO predict|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD challenge|NN in|IN understanding|NN network|NN effects|NNS is|VBZ to|TO spot|NN the|DT differences|NNS between|IN several|JJ sorts|NNS of|IN network|NN </s>|S_END
+<s>|S_START in|IN a|DT “scale|JJ free”|NN network|NN most|JJS people|NNS have|VBP only|RB a|DT few|JJ connections|NNS to|TO others|NNS giving|VBG potentially|RB massive|JJ influence|NN to|TO a|DT minority|NN with|IN a|DT “hub”|JJ of|IN a|DT large|JJ number|NN of|IN connection|NN </s>|S_END
+<s>|S_START in|IN a|DT “weighted”|NN network|NN a|DT wellknown|NN person|NN or|CC organisation|NN carries|NNS far|RB more|RBR influence|NN than|IN other|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT “smallworld”|NN network|NN people|NNS typically|RB have|VBP a|DT small|JJ number|NN of|IN connections|NNS but|CC those|DT they|PRP are|VBP connected|VBN to|TO also|RB tend|VB to|TO be|VB directly|RB connected|VBN to|TO each|DT other|JJ </s>|S_END
+<s>|S_START there|EX are|VBP influential|JJ people|NNS in|IN a|DT smallworld|NN network|NN but|CC this|DT tends|NNS to|TO come|VB from|IN connections|NNS to|TO an|DT unusually|RB diverse|JJ set|NN of|IN people|NNS rather|RB than|IN having|VBG an|DT unusually|RB large|JJ number|NN of|IN connection|NN </s>|S_END
+<s>|S_START then|RB there|EX are|VBP “random”|JJ networks|NNS based|VBN on|IN connections|NNS that|IN people|NNS may|MD not|RB even|RB know|VB exist—the|JJ sort|NN of|IN network|NN that|IN can|MD pass|VB around|IN a|DT contagious|JJ disease|NN from|IN someone|NN sneezing|VBG on|IN a|DT bus|NN full|JJ of|IN stranger|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “positive|JJ linking”|NN begins|VBZ oddly|RB focusing|VBG on|IN 16thcentury|JJ english|NN protestantism|NN and|CC 20thcentury|JJ soccer|NN hooliganism|NN while|IN largely|RB ignoring|VBG facebook|NN and|CC other|JJ new|JJ social|JJ media|NNS </s>|S_END
+<s>|S_START it|PRP then|RB meanders|VBZ through|IN a|DT history|NN of|IN rationality|NN in|IN economics|NNS before|IN finally|RB getting|VBG to|TO mr|VB ormerod’s|JJ key|JJ point|NN about|IN half|DT way|NN through|IN </s>|S_END
+<s>|S_START but|CC serious|JJ consideration|NN should|MD be|VB given|VBN to|TO his|PRP$ big|JJ idea|NN that|IN policymakers|NNS should|MD practise|VB “positive|JJ linking”|NN understanding|NN network|NN effects|NNS and|CC trying|VBG to|TO use|VB them|PRP and|CC influence|NN the|DT design|NN of|IN networks|NNS to|TO achieve|VB better|JJR outcomes|NNS for|IN society|NN </s>|S_END
+<s>|S_START for|IN instance|NN one|CD reason|NN why|WRB pockets|NNS of|IN unusually|RB high|JJ unemployment|NN exist|NN he|PRP argues|VBZ is|VBZ that|IN those|DT communities|NNS tend|VBP to|TO be|VB outside|JJ the|DT right|NN network|NN </s>|S_END
+<s>|S_START a|DT policy|NN of|IN fixing|VBG that|IN network|NN failure|NN could|MD make|VB a|DT big|JJ difference|NN </s>|S_END
+</p>|P_END
+

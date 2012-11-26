@@ -1,0 +1,44 @@
+<p>|P_START
+<s>|S_START if|IN proof|IN were|VBD needed|VBN of|IN how|WRB much|JJ the|DT world|NN has|VBZ changed|VBN for|IN banks|NNS this|DT week|NN brought|VBD two|CD pieces|NNS of|IN evidence|NN </s>|S_END
+<s>|S_START before|IN the|DT crisis|NN a|DT resignation|NN letter|NN from|IN a|DT relatively|RB junior|JJ banker|NN would|MD not|RB have|VB made|VBN it|PRP to|TO the|DT oped|JJ pages|NNS of|IN the|DT new|JJ york|NN time|NN </s>|S_END
+<s>|S_START this|DT week|NN greg|NN smiths|NNS cri|VBP de|IN coeur|PRP$ about|IN the|DT culture|NN of|IN goldman|NN sachs|NNS went|VBD viral|JJ </s>|S_END
+<s>|S_START mr|NN smith|IN lambasted|VBN the|DT firm|NN for|IN a|DT decline|NN in|IN its|PRP$ moral|JJ fibre|NN </s>|S_END
+<s>|S_START he|PRP cited|VBD meetings|NNS where|WRB no|DT one|NN talks|VBZ about|IN how|WRB to|TO help|VB clients|NNS or|CC “muppets”|JJ as|IN they|PRP are|VBP apparently|RB known|VBN to|TO some|DT within|IN goldman|NN </s>|S_END
+<s>|S_START over|IN the|DT years|NNS goldman|NN has|VBZ been|VBN able|JJ to|TO navigate|VB quietly|RB around|IN its|PRP$ problem|NN </s>|S_END
+<s>|S_START now|RB every|DT disgruntled|VBN employee|NN has|VBZ a|DT platform|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT more|RBR important|JJ proof|NN came|VBD with|IN the|DT release|NN on|IN march|NN 13th|CD by|IN the|DT federal|JJ reserve|NN of|IN stresstest|NN results|NNS for|IN 19|CD of|IN americas|NNS largest|JJS banking|VBG institutions|NNS goldman|NN among|IN them|PRP </s>|S_END
+<s>|S_START on|IN the|DT face|NN of|IN it|PRP the|DT results|NNS showed|VBD that|IN the|DT core|NN of|IN the|DT countrys|NNS financial|JJ system|NN was|VBD not|RB only|RB on|IN the|DT mend|NN but|CC healthy|JJ </s>|S_END
+<s>|S_START of|IN the|DT big|JJ listed|VBN institutions|NNS only|RB a|DT handful—which|JJ embarrassingly|RB included|VBN citigroup—flunked|JJ any|DT of|IN the|DT convoluted|VBN measures|NNS of|IN capital|NN strength|NN that|WDT were|VBD used|VBN to|TO test|NN lenders|NNS resilience|NN in|IN the|DT face|NN of|IN another|DT economic|JJ shock|NN </s>|S_END
+<s>|S_START all|DT are|VBP now|RB so|RB swaddled|VBN in|IN protective|JJ layers|NNS that|WDT even|RB these|DT firms|NNS stocks|NNS rallied|VBD along|IN with|IN the|DT other|JJ </s>|S_END
+<s>|S_START everal|JJ lenders|NNS swiftly|RB announced|VBD steep|JJ increases|NNS in|IN dividend|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB the|DT test|NN results|NNS were|VBD also|RB a|DT jarring|NN reminder|NN of|IN how|WRB much|JJ has|VBZ changed|VBN </s>|S_END
+<s>|S_START most|JJS obviously|RB there|RB is|VBZ the|DT extraordinarily|NN close|NN link|NN between|IN the|DT regulators|NNS take|VBP on|IN the|DT health|NN of|IN private|JJ institutions|NNS and|CC their|PRP$ market|NN value|NN </s>|S_END
+<s>|S_START vikram|NN pandit|NN citigroups|NNS boss|IN must|MD now|RB work|VB with|IN the|DT fed|VBN to|TO persuade|VB the|DT regulators|NNS to|TO accept|VB new|JJ proposals|NNS for|IN dividend|NN payouts|NNS to|TO shareholder|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT positive|JJ reaction|NN of|IN the|DT stockmarket|NN was|VBD revealing|VBG too|RB </s>|S_END
+<s>|S_START analysts|NNS universally|RB focused|VBN on|IN the|DT ability|NN of|IN the|DT banks|NNS to|TO return|VB capital|NN either|DT through|IN dividends|NNS or|CC buyback|VBP </s>|S_END
+<s>|S_START this|DT reflects|VBZ a|DT transformation|NN in|IN the|DT way|NN that|IN banks|NNS are|VBP assessed|VBN </s>|S_END
+<s>|S_START bank|NN equity|NN is|VBZ now|RB valued|VBN more|RBR like|IN debt|NN with|IN returns|NNS tied|VBN to|TO payouts|NNS rather|RB than|IN firms|NNS growth|NN prospect|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO score|VB well|RB on|IN the|DT feds|NNS stress|NN test|NN says|VBZ richard|NN bove|IN an|DT analyst|NN with|IN rochdale|NN securities|NNS the|DT lesson|NN for|IN banks|NNS is|VBZ that|IN they|PRP should|MD stay|VB away|RB from|IN the|DT consumer|NN stay|NN away|RB from|IN real|JJ estate|NN lend|NN only|RB modestly|RB to|TO business|NN and|CC buy|VB everything|NN tied|VBN to|TO the|DT government|NN since|IN government|NN securities|NNS are|VBP seen|VBN as|IN safe|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN of|IN this|DT shift|NN is|VBZ warranted|VBN of|IN course|NN but|CC the|DT thrust|NN of|IN financial|JJ reregulation|NN has|VBZ costs|NNS as|RB well|RB as|IN benefit|NN </s>|S_END
+<s>|S_START as|IN a|DT percentage|NN of|IN assets|NNS banks|NNS equity|NN is|VBZ at|IN a|DT nearrecord|NN high|NN </s>|S_END
+<s>|S_START but|CC lenders|NNS are|VBP also|RB flush|JJ with|IN cash|NN and|CC government|NN securitie|NN </s>|S_END
+<s>|S_START loans|NNS as|IN a|DT percentage|NN of|IN assets|NNS are|VBP at|IN a|DT 40year|JJ low|JJ according|NN to|TO mr|VB bove|JJ </s>|S_END
+<s>|S_START “if|JJ the|DT federal|JJ reserve|NN is|VBZ seeking|VBG to|TO drive|VB banks|NNS out|IN of|IN the|DT private|JJ sector|NN and|CC into|IN the|DT governmentlending|NN business|NN they|PRP are|VBP doing|VBG an|DT excellent|NN job”|NN he|PRP say|VBP </s>|S_END
+<s>|S_START unsurprisingly|RB the|DT fed|VBN did|VBD not|RB test|NN for|IN that|DT </s>|S_END
+</p>|P_END
+

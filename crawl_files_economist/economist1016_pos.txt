@@ -1,0 +1,53 @@
+<p>|P_START
+<s>|S_START will|MD spain|VB be|VB next|JJ </s>|S_END
+<s>|S_START the|DT spanish|JJ government|NN is|VBZ trying|VBG to|TO put|VB off|RP a|DT full|JJ bailout|IN but|CC it|PRP was|VBD dealt|VBN a|DT blow|NN on|IN august|NN 28th|CD when|WRB the|DT regional|JJ government|NN of|IN catalonia|NN said|VBD it|PRP needed|VBD a|DT €5|JJ billion|NN $|$ 63|CD billion|CD rescue|NN by|IN the|DT madrid|JJ government|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START first|JJ it|PRP was|VBD the|DT banks|NNS that|WDT needed|VBN help|NN now|RB spain’s|VBZ secondmost|VBN populous|JJ region|NN </s>|S_END
+<s>|S_START bailing|VBG out|IN catalonia|NN may|MD well|RB cost|VB more|JJR than|IN the|DT requested|VBN €5|-NONE- billion|CD it|PRP may|MD need|VB several|JJ billion|CD just|RB to|TO cover|VB the|DT budget|NN deficit|NN until|IN the|DT end|NN of|IN 2014|CD </s>|S_END
+<s>|S_START a|DT government|NN liquidity|NN fund|NN has|VBZ €18|-NONE- billion|CD in|IN it|PRP but|CC valencia|IN murcia|NNS and|CC other|JJ regions|NNS that|IN are|VBP excluded|VBN from|IN the|DT markets|NNS are|VBP also|RB queuing|VBG up|RP for|IN money|NN </s>|S_END
+<s>|S_START pain|NN can|MD top|VB up|RP the|DT fund|NN by|IN borrowing|NN more—but|CC only|RB at|IN punishing|VBG rate|NN </s>|S_END
+<s>|S_START the|DT yield|NN on|IN tenyear|NN bonds|NNS has|VBZ stayed|VBN above|IN 6|CD for|IN more|JJR than|IN three|CD month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START not|RB surprisingly|RB many|JJ think|NN spain|NN will|MD eventually|RB need|VB a|DT sovereign|NN bailout|IN </s>|S_END
+<s>|S_START in|IN public|JJ officials|NNS claim|VBP this|DT is|VBZ not|RB being|VBG negotiated|VBN </s>|S_END
+<s>|S_START european|JJ leaders|NNS instead|RB praise|VBP the|DT reforms|NNS and|CC austerity|NN of|IN mariano|NN rajoy|NN the|DT prime|JJ minister|NN </s>|S_END
+<s>|S_START yet|RB spain|VBP is|VBZ plunging|VBG into|IN a|DT doubledip|NN recession|NN </s>|S_END
+<s>|S_START the|DT economy|NN shrank|VBD at|IN an|DT annual|JJ rate|NN of|IN 13|CD in|IN the|DT second|JJ quarter|NN </s>|S_END
+<s>|S_START bank|NN deposits|NNS dropped|VBD by|IN 47|CD in|IN july|RB </s>|S_END
+<s>|S_START consumption|NN is|VBZ falling|VBG at|IN an|DT annual|JJ rate|NN of|IN 39|CD </s>|S_END
+<s>|S_START unemployment|NN remains|VBZ stuck|NN at|IN around|IN 25|CD of|IN the|DT workforce|NN and|CC 50|CD for|IN youth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB in|IN bailedout|IN greece|NN the|DT government|NN was|VBD relieved|JJ when|WRB the|DT first|JJ trip|NN abroad|RB of|IN antonis|NNS samaras|IN as|IN prime|JJ minister|NN went|NN better|NN than|IN expected|VBN </s>|S_END
+<s>|S_START it|PRP helped|VBD that|IN in|IN berlin|NN mr|NN samaras|NNS swallowed|VBD a|DT sizeable|JJ chunk|NN of|IN humble|JJ pie|NN before|IN chancellor|NN angela|NN merkel|NN </s>|S_END
+<s>|S_START things|NNS were|VBD easier|JJR in|IN paris|NNS where|WRB françois|JJ hollande|NN the|DT french|NN president|NN made|VBD reassuring|VBG noises|NNS about|IN greece’s|NNS chances|NNS of|IN remaining|VBG in|IN the|DT euro|NN zone|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB so|RB in|IN both|DT capitals|NNS mr|VBP samaras’s|JJ talk|NN of|IN needing|VBG “a|NNP breathing|NN space”|-NONE- of|IN two|CD more|JJR years|NNS until|IN 2016|CD to|TO turn|VB round|NN the|DT economy|NN while|IN completing|VBG reforms|NNS agreed|VBD with|IN the|DT european|JJ union|NN and|CC imf|NN was|VBD quickly|RB dismissed|VBN </s>|S_END
+<s>|S_START the|DT message|NN from|IN mrs|NNS merkel|VBP and|CC mr|NN hollande|NN was|VBD that|IN athens|NNS must|MD deliver|VB on|IN fiscal|JJ austerity|NN privatisation|NN and|CC tax|NN collection|NN before|IN asking|VBG its|PRP$ international|JJ creditors|NNS for|IN more|JJR favour|PRP$ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT task|NN ahead|RB looks|VBZ daunting|VBG </s>|S_END
+<s>|S_START greece|NN had|VBD planned|VBN to|TO put|VB together|RP the|DT new|JJ €115|NN billion|NN package|NN of|IN spending|NN cuts|NNS by|IN the|DT end|NN of|IN july|RB </s>|S_END
+<s>|S_START yet|RB the|DT finance|NN ministry|NN team|NN was|VBD still|RB battling|VBG to|TO finish|VB the|DT final|JJ draft|NN at|IN the|DT end|NN of|IN august|NN even|RB as|IN officials|NNS from|IN the|DT eu|NN and|CC imf|NN were|VBD flying|VBG in|IN to|TO make|VB their|PRP$ assessment|NN </s>|S_END
+<s>|S_START the|DT choices|NNS are|VBP tough|JJ </s>|S_END
+<s>|S_START on|IN august|JJ 27th|CD yannis|NNS stournaras|NNS the|DT finance|NN minister|NN failed|VBD to|TO win|VB agreement|NN from|IN the|DT greek|NN military’s|VBZ top|JJ brass|NN and|CC police|NN chiefs|NNS for|IN a|DT 56|CD cut|NN in|IN officers’|JJ salarie|NN </s>|S_END
+<s>|S_START until|IN now|RB the|DT guardians|NNS of|IN the|DT greek|NN state|NN have|VBP kept|VBN almost|RB all|DT their|PRP$ perk|NN </s>|S_END
+<s>|S_START if|IN his|PRP$ opponents|NNS refuse|VBP to|TO back|VB down|RP mr|NN stournaras|NNS will|MD be|VB forced|VBN to|TO make|VB deeper|NN cuts|NNS in|IN pensions|NNS which|WDT have|VBP already|RB been|VBN pared|VBN back|RP by|IN more|JJR than|IN 20|CD in|IN the|DT past|JJ two|CD year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START more|JJR hurdles|NNS lie|VBP ahead|RB before|IN greece|NN can|MD draw|VB the|DT next|JJ €32|NN billion|NN of|IN its|PRP$ second|JJ bailout|IN loan|NN to|TO finance|VB the|DT budget|NN and|CC to|TO recapitalise|VB its|PRP$ troubled|JJ bank|NN </s>|S_END
+<s>|S_START the|DT loan|NN tranche|NN was|VBD due|JJ to|TO be|VB paid|VBN in|IN june|NN but|CC will|MD now|RB not|RB be|VB transferred|VBN before|IN late|JJ october|NN </s>|S_END
+<s>|S_START a|DT favourable|JJ report|NN from|IN the|DT “troika”|NN of|IN officials|NNS from|IN the|DT eu|NN imf|NN and|CC european|JJ central|JJ bank|NN is|VBZ needed|VBN greece’s|-NONE- parliament|NN must|MD approve|VB the|DT new|JJ package|NN and|CC finance|NN ministers|NNS of|IN eurozone|NN countries|NNS must|MD give|VB the|DT goahead|NN before|IN the|DT loan|NN is|VBZ endorsed|VBN by|IN eu|NN leaders|NNS at|IN their|PRP$ summit|NN in|IN october|NN </s>|S_END
+<s>|S_START with|IN barely|RB enough|RB cash|NN in|IN its|PRP$ coffers|NNS to|TO pay|VB pensions|NNS and|CC publicsector|NN salaries|NNS at|IN the|DT end|NN of|IN august|NN the|DT finance|NN ministry|NN may|MD raise|VB shortterm|NN funds|NNS by|IN selling|VBG extra|JJ treasury|NN bills|NNS to|TO the|DT banks|NNS squeezing|VBG cashstrapped|VBN local|JJ companies|NNS even|RB harder|JJR </s>|S_END
+<s>|S_START greece|NN is|VBZ still|RB searching|VBG for|IN a|DT way|NN out|IN of|IN its|PRP$ labyrinth|NN </s>|S_END
+</p>|P_END
+

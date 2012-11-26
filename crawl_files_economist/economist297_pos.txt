@@ -1,0 +1,66 @@
+<p>|P_START
+<s>|S_START americans|NNS are|VBP engaged|VBN in|IN a|DT furious|JJ argument|NN about|IN redistribution|NN </s>|S_END
+<s>|S_START in|IN now|RB infamous|JJ comments|NNS at|IN a|DT fundraiser|NN in|IN may|MD mitt|VB romney|NN the|DT republican|JJ presidential|JJ candidate|NN wrote|VBD off|RP the|DT 47|CD of|IN americans|NNS who|WP pay|NN no|DT income|NN tax|NN as|IN people|NNS who|WP consider|NN themselves|VBZ “victims”|JJ entitled|VBN to|TO government|NN handout|IN </s>|S_END
+<s>|S_START conservatives|NNS like|IN to|TO point|NN out|RP that|IN 40|CD of|IN all|DT income|NN taxes|NNS come|VBP from|IN 1|CD of|IN taxpayer|NN </s>|S_END
+<s>|S_START america’s|NNS government|NN they|PRP argue|VBP redistributes|NNS far|RB too|RB much|RB from|IN a|DT shrinking|NN pool|NN of|IN “makers”|NNP to|TO a|DT vast|JJ number|NN of|IN loafer|NN </s>|S_END
+<s>|S_START those|DT on|IN the|DT left|NN peddle|NN the|DT opposite|JJ view|NN that|IN the|DT government|NN redistributes|VBZ far|RB too|RB little|RB because|IN the|DT tax|NN system|NN is|VBZ skewed|VBN to|TO benefit|VB the|DT rich|JJ and|CC america’s|JJ welfare|NN state|NN is|VBZ the|DT skimpiest|JJS in|IN the|DT developed|JJ world|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT sides|NNS are|VBP wrong|JJ </s>|S_END
+<s>|S_START because|IN america|NN relies|NNS mainly|RB on|IN progressive|JJ income|NN taxes|NNS whereas|IN other|JJ rich|JJ countries|NNS raise|VBP a|DT bigger|JJR share|NN of|IN their|PRP$ revenue|NN from|IN regressive|JJ consumption|NN taxes|NNS its|PRP$ tax|NN system|NN is|VBZ in|IN fact|NN one|CD of|IN the|DT most|RBS progressive|JJ in|IN the|DT rich|JJ world|NN </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ riddled|VBN with|IN deductions|NNS and|CC loopholes|NNS most|RBS of|IN which|WDT favour|PRP$ the|DT wealthy|JJ so|RB it|PRP is|VBZ both|DT less|JJR progressive|JJ and|CC much|JJ less|NN efficient|NN than|IN it|PRP could|MD be|VB </s>|S_END
+<s>|S_START on|IN the|DT spending|NN side|NN of|IN the|DT budget|NN america|NN allocates|NNS far|RB less|JJR than|IN other|JJ rich|JJ countries|NNS to|TO cash|NN transfers|NNS such|JJ as|IN unemployment|NN insurance|NN or|CC income|NN support|NN </s>|S_END
+<s>|S_START but|CC it|PRP does|VBZ spend|VB a|DT large|JJ and|CC growing|VBG share|NN of|IN its|PRP$ budget|NN on|IN social|JJ services|NNS particularly|RB health|JJ care|NN for|IN the|DT poor|JJ and|CC the|DT old|JJ </s>|S_END
+<s>|S_START the|DT result|NN is|VBZ a|DT welfare|NN state|NN that|WDT is|VBZ skewed|VBN rather|RB than|IN skimpy|NN </s>|S_END
+<s>|S_START america’s|NNS government|NN raises|VBZ revenues|NNS inefficiently|RB and|CC redistributes|NNS them|PRP oddly|RB too|RB much|RB from|IN young|JJ to|TO old|JJ too|RB much|JJ in|IN the|DT form|NN of|IN health|NN care|NN and|CC ever|RB less|RBR from|IN rich|JJ to|TO poor|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tart|NN with|IN taxe|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ true|JJ that|IN in|IN 2011|CD only|RB 54|CD of|IN americans|NNS paid|VBN federal|JJ income|NN taxe|NN </s>|S_END
+<s>|S_START that|DT is|VBZ partly|RB because|IN since|IN ronald|NN reagan|NN the|DT government’s|NNP main|NN form|NN of|IN assistance|NN for|IN the|DT working|VBG poor|NN has|VBZ been|VBN the|DT earned|VBN income|NN tax|NN credit|NN a|DT kind|NN of|IN negative|JJ income|NN tax|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ also|RB the|DT consequence|NN of|IN america’s|NNS high|JJ jobless|NN rate|NN and|CC temporary|JJ tax|NN credits|NNS to|TO boost|VB the|DT economy|NN </s>|S_END
+<s>|S_START in|IN more|JJR normal|JJ times|NNS around|IN 40|CD of|IN americans|NNS pay|VBP no|DT federal|JJ income|NN tax|NN </s>|S_END
+<s>|S_START but|CC more|RBR than|IN 60|CD of|IN those|DT who|WP don’t|-NONE- pay|VBP federal|JJ income|NN taxes|NNS do|VBP pay|NN payroll|NN taxe|NN </s>|S_END
+<s>|S_START and|CC if|IN you|PRP include|VBP taxes|NNS raised|VBN at|IN state|NN and|CC local|JJ level|NN such|JJ as|IN on|IN property|NN and|CC sales|NNS virtually|RB all|DT americans|NNS pay|VBP some|DT tax|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD study|NN suggests|VBZ that|IN when|WRB you|PRP consider|VBP all|DT taxes|NNS the|DT share|NN paid|VBD by|IN the|DT wealthiest|JJS 1|CD falls|NNS to|TO 216|CD close|NN to|TO their|PRP$ share|NN of|IN pretax|NN income|NN whereas|NNS the|DT poorest|JJS quintile|NN pay|NN 21|CD not|RB much|JJ below|IN their|PRP$ share|NN of|IN pretax|NN income|NN </s>|S_END
+<s>|S_START in|IN other|JJ words|NNS america’s|-NONE- byzantine|NN tax|NN system|NN does|VBZ hardly|RB anything|NN to|TO redistribute|VB income|NN </s>|S_END
+<s>|S_START it|PRP looks|VBZ progressive|JJ relative|JJ to|TO other|JJ rich|JJ countries|NNS only|RB because|IN consumption|NN taxes|NNS elsewhere|RB are|VBP regressive|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START america’s|NNS system|VBP could|MD be|VB more|RBR progressive|JJ and|CC much|JJ more|RBR efficient|JJ if|IN its|PRP$ politicians|NNS were|VBD less|JJR wedded|VBN to|TO “tax|JJ preferences”|NN </s>|S_END
+<s>|S_START these|DT exemptions|NNS which|WDT include|VBP interest|NN paid|VBN on|IN mortgages|NNS up|IN to|TO $|$ 1m|CD and|CC contributions|NNS to|TO goldplated|VBN health|NN insurance|NN are|VBP now|RB worth|JJ some|DT $|$ 13|CD trillion|CD or|CC 8|CD of|IN gdp|NN </s>|S_END
+<s>|S_START most|JJS are|VBP hoovered|VBN up|RP by|IN the|DT wealthy|JJ and|CC the|DT upper|JJ middle|NN cla|NN </s>|S_END
+<s>|S_START more|JJR than|IN 60|CD of|IN all|DT tax|NN preferences|NNS flow|VBP to|TO the|DT wealthiest|JJS 20|CD of|IN americans|NNS with|IN only|RB 3|CD going|VBG to|TO the|DT bottom|NN quintile|NN </s>|S_END
+<s>|S_START uccessful|JJ professionals|NNS do|VBP not|RB see|VB themselves|PRP as|IN beneficiaries|NNS of|IN government|NN largesse|NN but|CC the|DT government|NN in|IN effect|NN subsidises|NNS their|PRP$ big|JJ houses|NNS expensive|JJ health|NN care|NN and|CC retirement|NN saving|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN america’s|JJ tax|NN system|NN represents|VBZ a|DT missed|VBN opportunity|NN to|TO redistribute|VB income|NN while|IN improving|VBG efficiency|NN it|PRP is|VBZ its|PRP$ spending|NN system|NN that|WDT makes|VBZ its|PRP$ overall|JJ policy|NN far|RB less|RBR progressive|JJ than|IN that|DT of|IN other|JJ rich|JJ countrie|NN </s>|S_END
+<s>|S_START its|PRP$ cash|NN transfers|NNS are|VBP stingy|NN </s>|S_END
+<s>|S_START for|IN all|DT the|DT conservatives’|NNP insinuations|NNS of|IN loafers|NNS living|VBG on|IN handouts|NNS america|VBP spends|NNS less|JJR than|IN half|PDT as|IN much|JJ as|IN the|DT average|NN oecd|NN country|NN on|IN cash|NN transfers|NNS for|IN people|NNS of|IN working|VBG age|NN </s>|S_END
+<s>|S_START at|IN the|DT same|JJ time|NN benefits|NNS in|IN kind|NN such|JJ as|IN state|NN provision|NN of|IN education|NN health|NN care|NN and|CC housing|VBG gobble|JJ up|IN a|DT large|JJ and|CC growing|VBG share|NN of|IN america’s|NNS budget|NN </s>|S_END
+<s>|S_START but|CC according|VBG to|TO the|DT centre|NN on|IN budget|NN and|CC policy|NN priorities|NNS over|IN half|DT of|IN all|DT entitlement|NN spending|NN flows|VBZ to|TO the|DT elderly|JJ and|CC around|IN 40|CD is|VBZ spent|VBN on|IN health|NN care|NN </s>|S_END
+<s>|S_START the|DT poor|JJ do|VBP not|RB get|VB much|RB of|IN a|DT lookin|NN </s>|S_END
+<s>|S_START around|IN 10|CD of|IN the|DT total|JJ goes|VBZ to|TO the|DT richest|JJS fifth|JJ of|IN americans|NNS almost|RB 60|CD to|TO the|DT middle|NN threefifths|NNS and|CC only|RB 30|CD to|TO the|DT poorest|JJS fifth|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP combine|VBP tax|NN expenditures|NNS and|CC entitlements|NNS america’s|-NONE- efforts|NNS at|IN redistribution|NN look|NN even|RB more|RBR perverse|JJ </s>|S_END
+<s>|S_START the|DT government|NN lavishes|VBZ more|JJR dollars|NNS overall|JJ on|IN the|DT top|JJ fifth|NN of|IN the|DT income|NN distribution|NN than|IN the|DT bottom|NN fifth|NN </s>|S_END
+<s>|S_START as|IN irwin|NN garfinkel|NN lee|NN rainwater|NN and|CC timothy|JJ smeeding|NN point|NN out|RP in|IN “wealth|JJ and|CC welfare|NN states”|NN a|DT book|NN comparing|VBG america’s|NNS safety|NN net|NN with|IN those|DT of|IN other|JJ countries|NNS the|DT federal|JJ government|NN “spends”|NN four|CD times|NNS as|RB much|JJ on|IN subsidising|NN housing|NN for|IN the|DT richest|JJS 20|CD of|IN americans|NNS via|IN the|DT mortgageinterest|JJS deduction|NN than|IN it|PRP spends|VBZ on|IN public|JJ housing|NN for|IN the|DT poorest|JJS fifth|JJ </s>|S_END
+<s>|S_START it|PRP also|RB shortchanges|VBZ the|DT young|JJ by|IN spending|NN far|RB less|RBR on|IN preschool|NN education|NN and|CC far|RB more|RBR on|IN old|JJ people’s|NNS health|NN care|NN than|IN other|JJ rich|JJ countrie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN of|IN this|DT is|VBZ unavoidable|JJ </s>|S_END
+<s>|S_START governments|NNS are|VBP bound|VBN to|TO spend|VB more|JJR on|IN the|DT old|JJ as|IN societies|NNS age|NN </s>|S_END
+<s>|S_START but|CC america|VBP takes|NNS this|DT to|TO extremes|VBZ propelled|VBN by|IN an|DT inefficient|NN tax|NN code|NN and|CC the|DT rapid|JJ rise|NN in|IN healthcare|NN cost|NN </s>|S_END
+<s>|S_START the|DT combination|NN is|VBZ fiscally|RB unsustainable|JJ bad|JJ for|IN growth|NN and|CC not|RB very|RB equitable|JJ </s>|S_END
+</p>|P_END
+

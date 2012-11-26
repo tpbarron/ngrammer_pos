@@ -1,0 +1,96 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN by|IN now|RB youre|VBP probably|RB aware|JJ that|IN on|IN friday|NN microsoft|NN is|VBZ launching|VBG windows|NNS 8|CD a|DT touchenabled|JJ completely|RB reimagined|VBN version|NN of|IN its|PRP$ nearly|RB threedecade|NN old|JJ pc|NN operating|NN system|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoft|NN will|MD also|RB be|VB debuting|VBG a|DT second|JJ related|VBN operating|NN system|NN called|VBN windows|NNS rt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START though|IN windows|NNS 8|CD and|CC windows|VBZ rt|NN look|NN exactly|RB alike|RB theres|VBZ a|DT fundamental|JJ technical|JJ difference|NN between|IN the|DT two|CD operating|VBG systems|NNS </s>|S_END
+<s>|S_START buyers|NNS could|MD be|VB in|IN for|IN a|DT big|JJ shock|NN if|IN theyre|NN not|RB in|IN the|DT know|NN before|IN choosing|NN their|PRP$ next|JJ pc|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP is|VBZ windows|VBZ 8|CD </s>|S_END
+<s>|S_START windows|NNS 8|CD is|VBZ a|DT full|JJ version|NN of|IN windows|NNS </s>|S_END
+<s>|S_START it|PRP supports|VBZ all|DT your|PRP$ old|JJ windows|NNS software|NN than|IN runs|NNS on|IN windows|NNS 7|CD vista|NN and|CC xp|VB </s>|S_END
+<s>|S_START windows|NNS 8|CD will|MD also|RB run|VB a|DT batch|NN of|IN new|JJ tabletlike|NN apps|NNS available|JJ through|IN the|DT justlaunched|JJ windows|NNS store|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START windows|NNS 8|CD brings|NNS in|IN a|DT radically|RB new|JJ interface|NN built|VBN around|IN a|DT start|NN screen|NN </s>|S_END
+<s>|S_START its|PRP$ filled|VBN with|IN large|JJ tiles|NNS fullscreen|IN apps|NNS and|CC hidden|VBN menu|NN functions|NNS </s>|S_END
+<s>|S_START windows|NNS 8|CD also|RB has|VBZ a|DT second|JJ more|RBR traditional|JJ interface|NN desktop|NN mode|NN </s>|S_END
+<s>|S_START that|DT features|NNS smaller|JJR app|NN icons|NNS taskbars|NNS and|CC menu|VB ribbons|NNS </s>|S_END
+<s>|S_START both|DT modes|NNS work|VBP with|IN touch|JJ or|CC a|DT mouse|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP is|VBZ windows|VBZ rt|NN </s>|S_END
+<s>|S_START windows|NNS rt|VBP on|IN the|DT other|JJ hand|NN will|MD not|RB support|VB any|DT windows|NNS software|NN that|IN ran|NN on|IN older|JJR versions|NNS of|IN windows|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN just|RB two|CD exceptions|NNS windows|VBZ rt|NN will|MD only|RB run|VB start|NN apps|NNS and|CC the|DT only|JJ place|NN to|TO get|VB software|NN is|VBZ through|IN microsofts|NNS windows|VBZ store|NN </s>|S_END
+<s>|S_START the|DT two|CD outliers|NNS are|VBP new|JJ versions|NNS of|IN microsoft|NN office|NN and|CC internet|NN explorer|NN that|WDT microsoft|NN made|VBD especially|RB for|IN windows|NNS rt|VBP </s>|S_END
+<s>|S_START those|DT will|MD run|VB in|IN the|DT familiar|JJ desktop|NN mode|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB youre|NN buying|VBG a|DT windows|NN rt|NN device|NN like|IN the|DT $|$ 499|CD surface|NN tablet|NN that|WDT goes|VBZ on|IN sale|NN friday|NN you|PRP are|VBP not|RB buying|VBG a|DT pc|NN that|WDT can|MD run|VB your|PRP$ old|JJ windows|NNS applications|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN whats|NNS the|DT point|NN of|IN windows|NNS rt|VBP </s>|S_END
+<s>|S_START microsoft|NN created|VBD windows|NNS rt|NN a|DT kind|NN of|IN windows|NNS 8|CD lite|JJ so|NN it|PRP could|MD put|VB its|PRP$ operating|NN systems|NNS on|IN a|DT batch|NN of|IN new|JJ mobile|JJ devices|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT vast|JJ majority|NN of|IN tablets|NNS about|IN 95|CD run|VBN on|IN microchips|NNS designed|VBN by|IN a|DT company|NN called|VBN arm|NN holdings|NNS armh|VBP </s>|S_END
+<s>|S_START arm|NN processors|NNS help|VBP manufacturers|NNS make|VB gadgets|NNS that|WDT are|VBP thinner|RBR cheaper|JJR and|CC have|VBP longer|JJR battery|NN lives|NNS </s>|S_END
+<s>|S_START however|RB theyre|VBP incompatible|JJ with|IN previous|JJ versions|NNS of|IN windows|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rather|RB than|IN force|NN developers|NNS to|TO recode|VB each|DT of|IN the|DT millions|NNS of|IN apps|NNS that|WDT run|VBN on|IN older|JJR intelbased|VBN windows|NNS iterations|NNS microsoft|VBP created|VBN two|CD flavors|NNS of|IN its|PRP$ new|JJ operating|NN system|NN </s>|S_END
+<s>|S_START only|RB one|CD windows|NNS 8|CD supports|NNS legacy|NN apps|NNS but|CC both|DT windows|NNS 8|CD and|CC windows|VBZ rt|NN run|VBN the|DT new|JJ brand|NN of|IN start|NN apps|NNS which|WDT will|MD likely|RB become|VB the|DT standard|JJ form|NN of|IN windows|NNS app|VBP going|VBG forward|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apple|NN aapl|NN fortune|NN 500|CD solved|VBD this|DT problem|NN a|DT different|JJ way|NN </s>|S_END
+<s>|S_START it|PRP created|VBD a|DT fully|RB separate|JJ operating|NN system|NN for|IN the|DT iphone|NN ipad|NN and|CC ipod|NN touch|NN called|VBN ios|NNS which|WDT looks|NNS completely|RB different|JJ from|IN its|PRP$ mac|NN os|NNS operating|VBG system|NN for|IN intelbased|VBN macintosh|JJ pcs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoft|NN msft|VBD fortune|NN 500|CD opted|VBN instead|RB to|TO give|VB windows|NNS rt|VB and|CC windows|NNS 8|CD much|JJ of|IN the|DT same|JJ code|NN </s>|S_END
+<s>|S_START that|DT could|MD confuse|VB consumers|NNS who|WP wont|NN be|VB able|JJ to|TO see|VB much|JJ of|IN a|DT difference|NN until|IN they|PRP try|VBP and|CC fail|NN to|TO install|VB a|DT browser|NN itunes|NNS adobe|VBP adbe|NN photoshop|NN or|CC some|DT other|JJ program|NN from|IN the|DT internet|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB many|JJ apps|NNS are|VBP available|JJ on|IN windows|NNS rt|NN </s>|S_END
+<s>|S_START microsoft|NN has|VBZ around|IN 5000|CD stocked|VBN in|IN the|DT windows|NNS store|VBP but|CC many|JJ favorites|NNS are|VBP missing|VBG </s>|S_END
+<s>|S_START netflix|NN has|VBZ an|DT app|NN but|CC theres|NNS no|DT facebook|NN fb|NN twitter|NN pandora|NN p|NN or|CC instagram|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT number|NN of|IN apps|NNS will|MD increase|VB quickly|RB if|IN consumers|NNS start|VBP adopting|VBG windows|NNS 8|CD </s>|S_END
+<s>|S_START until|IN then|RB early|JJ windows|NNS tablet|VBP adopters|NNS will|MD be|VB at|IN a|DT disadvantage|NN against|IN those|DT with|IN apple|NN and|CC google|JJ goog|NN fortune|NN 500|CD tablets|NNS whose|WP$ stores|NNS have|VBP hundreds|NNS of|IN thousands|NNS of|IN apps|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP if|IN i|PRP want|VBP a|DT windows|NN tablet|NN that|WDT doesnt|NN run|VBP rt|NN </s>|S_END
+<s>|S_START youll|NN have|VBP to|TO shell|VB out|RP more|JJR money|NN but|CC theyre|NN available|JJ and|CC more|RBR are|VBP coming|VBG soon|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START intel|NN intc|NN fortune|NN 500|CD has|VBZ a|DT new|JJ suite|NN of|IN microchips|NNS designed|VBN for|IN tablets|NNS and|CC a|DT number|NN of|IN windows|NNS 8|CD tablets|NNS are|VBP available|JJ from|IN vendors|NNS including|VBG dell|NN dell|NN fortune|NN 500|CD samsung|NN toshiba|NN asus|VBZ and|CC lenovo|NN </s>|S_END
+<s>|S_START hewlettpackard|NN hpq|NN fortune|NN 500|CD has|VBZ an|DT envy|NN tablet|NN due|JJ out|IN in|IN early|JJ november|NN and|CC a|DT higherend|NN enterprise|NN tablet|NN coming|VBG in|IN january|JJ </s>|S_END
+<s>|S_START they|PRP tend|VBP to|TO cost|VB $|$ 150|CD to|TO $|$ 500|CD more|JJR than|IN windows|NNS rt|NN tablets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsofts|NNS own|VBP surface|NN pro|NN tablet|NN will|MD go|VB on|IN sale|NN in|IN january|JJ </s>|S_END
+<s>|S_START it|PRP will|MD be|VB slightly|RB heavier|JJR than|IN the|DT windows|NNS rt|VBP version|NN and|CC have|VB a|DT price|NN tag|NN around|IN $|$ 1000|CD but|CC it|PRP will|MD be|VB a|DT complete|JJ windows|NN 8|CD machine|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,71 @@
+<p>|P_START
+<s>|S_START it|PRP is|VBZ not|RB just|RB america’s|JJ treasury|NN that|WDT is|VBZ benefiting|VBG from|IN ultralow|JJ borrowing|NN cost|NN </s>|S_END
+<s>|S_START on|IN july|RB 30th|JJ unilever|NN an|DT anglodutch|NN consumergoods|NNS group|NN borrowed|VBD $|$ 1|CD billion|CD in|IN the|DT bond|NN markets|NNS in|IN two|CD tranches|NNS 045|CD for|IN threeyear|JJ money|NN and|CC 085|CD over|IN five|CD years|NNS both|DT record|NN lows|VBZ for|IN corporate|JJ debt|NN </s>|S_END
+<s>|S_START a|DT week|NN earlier|RBR ibm|NN had|VBD raised|VBN tenyear|JJ money|NN at|IN a|DT rate|NN of|IN just|RB 1875|CD </s>|S_END
+<s>|S_START the|DT spanish|JJ and|CC italian|JJ governments|NNS can|MD only|RB dream|VB of|IN funding|NN at|IN such|JJ a|DT low|JJ cost|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START multinational|JJ companies|NNS have|VBP some|DT advantages|NNS over|IN government|NN </s>|S_END
+<s>|S_START although|IN they|PRP can|MD be|VB subject|JJ to|TO punitive|JJ taxation|NN they|PRP have|VBP the|DT potential|NN to|TO move|VB their|PRP$ operations|NNS to|TO more|JJR welcoming|VBG jurisdiction|NN </s>|S_END
+<s>|S_START their|PRP$ revenues|NNS are|VBP not|RB dependent|JJ on|IN the|DT fortunes|NNS of|IN an|DT individual|NN economy|NN </s>|S_END
+<s>|S_START and|CC large|JJ companies|NNS have|VBP been|VBN able|JJ to|TO strengthen|VB their|PRP$ balancesheets|NNS over|IN the|DT past|JJ five|CD years|NNS whereas|IN governments|NNS have|VBP been|VBN forced|VBN deep|RP into|IN deficit|NN to|TO prop|VB up|RP their|PRP$ economie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nevertheless|RB it|PRP is|VBZ unusual|JJ for|IN such|JJ a|DT gap|NN to|TO emerge|VB between|IN the|DT borrowing|NN costs|VBZ of|IN big|JJ companies|NNS and|CC richworld|NN government|NN </s>|S_END
+<s>|S_START but|CC the|DT low|JJ yield|NN achieved|VBD by|IN unilever|NN and|CC ibm|NN is|VBZ part|NN of|IN two|CD further|JJ trends|NNS the|DT increased|VBN use|NN of|IN the|DT bond|NN markets|NNS by|IN european|JJ companies|NNS and|CC a|DT newfound|NN enthusiasm|NN of|IN investors|NNS for|IN corporate|JJ debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT first|JJ half|DT of|IN 2012|CD european|JJ companies|NNS raised|VBN more|RBR money|NN from|IN the|DT bond|NN markets|NNS than|IN from|IN bank|NN loans|NNS according|VBG to|TO dealogic|JJ see|NN chart|NN </s>|S_END
+<s>|S_START in|IN the|DT past|JJ european|JJ companies|NNS have|VBP relied|VBN more|RBR on|IN banks|NNS than|IN their|PRP$ american|JJ counterpart|NN </s>|S_END
+<s>|S_START but|CC the|DT crisis|NN has|VBZ led|VBN to|TO a|DT reduction|NN in|IN the|DT “middleman”|NN role|NN of|IN banks|NNS a|DT process|NN given|VBN the|DT ugly|JJ name|NN “disintermediation”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banks|NNS have|VBP two|CD problem|NN </s>|S_END
+<s>|S_START first|JJ regulators|NNS are|VBP pressuring|VBG them|PRP to|TO make|VB their|PRP$ balancesheets|NNS safer|VBP by|IN improving|VBG their|PRP$ capital|NN ratio|NN </s>|S_END
+<s>|S_START ideally|RB they|PRP would|MD do|VB this|DT by|IN raising|NN new|JJ capital|NN in|IN the|DT form|NN of|IN equity|NN but|CC investors|NNS are|VBP reluctant|JJ to|TO buy|VB new|JJ bank|NN share|NN </s>|S_END
+<s>|S_START o|NN the|DT banks|NNS are|VBP tempted|VBN to|TO shrink|VB their|PRP$ balancesheets|NNS instead|RB which|WDT means|VBZ restricting|VBG the|DT supply|NN of|IN new|JJ loan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START european|JJ banks|NNS would|MD be|VB more|RBR than|IN happy|JJ to|TO lend|VB money|NN to|TO most|JJS of|IN the|DT companies|NNS that|WDT are|VBP currently|RB tapping|VBG the|DT bond|NN market|NN </s>|S_END
+<s>|S_START but|CC the|DT second|JJ problem|NN is|VBZ that|IN doubts|NNS about|IN the|DT bad|JJ debts|NNS banks|NNS may|MD have|VB on|IN their|PRP$ own|JJ books|NNS have|VBP caused|VBN their|PRP$ own|JJ financing|NN costs|NNS to|TO rise|VB </s>|S_END
+<s>|S_START as|IN fitch|NN a|DT ratings|NNS agency|NN puts|NNS it|PRP “banks|VBZ now|RB pay|VBP roughly|RB the|DT same—or|JJ higher—rates|NNS to|TO borrow|VB as|IN the|DT corporates|NNS they|PRP lend|VBP to”|-NONE- </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START although|IN it|PRP should|MD still|RB in|IN theory|NN be|VB profitable|JJ for|IN banks|NNS to|TO lend|VB to|TO small|JJ and|CC mediumsized|JJ companies|NNS they|PRP seem|VBP unwilling|VBG to|TO do|VB so|RB </s>|S_END
+<s>|S_START the|DT latest|JJS figures|NNS from|IN the|DT european|JJ central|JJ bank|NN show|NN that|IN bank|NN loans|NNS to|TO the|DT private|JJ sector|NN were|VBD down|IN by|IN 02|CD in|IN the|DT year|NN to|TO june|VB </s>|S_END
+<s>|S_START in|IN britain|NN corporate|JJ lending|VBG has|VBZ fallen|VBN by|IN almost|RB 5|CD </s>|S_END
+<s>|S_START nor|CC is|VBZ it|PRP economic|JJ given|NN the|DT issuing|NN costs|VBZ for|IN small|JJ companies|NNS to|TO borrow|VB money|NN in|IN the|DT bond|NN market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START o|NN it|PRP is|VBZ very|RB much|JJ a|DT twotier|NN market|NN the|DT big|JJ companies|NNS are|VBP gorging|VBG on|IN the|DT chance|NN to|TO raise|VB money|NN at|IN very|RB low|JJ rates|NNS $|$ 10|CD billion|CD of|IN bonds|NNS was|VBD raised|VBN on|IN june|NN 30th|CD alone|NN while|IN the|DT minnows|NNS starve|VBP </s>|S_END
+<s>|S_START these|DT bonds|NNS are|VBP bought|VBN by|IN a|DT wide|JJ range|NN of|IN investors|NNS including|VBG insurance|NN companies|NNS and|CC hedge|NN fund|NN </s>|S_END
+<s>|S_START but|CC marcus|VBZ hiseman|NN the|DT head|NN of|IN european|JJ corporatedebt|NN capital|NN markets|NNS at|IN morgan|NN stanley|NN says|VBZ there|EX is|VBZ increasing|VBG demand|NN from|IN other|JJ companies|NNS which|WDT need|VBP somewhere|RB to|TO put|VB their|PRP$ cash|NN pile|NN </s>|S_END
+<s>|S_START uch|JJ money|NN used|VBN to|TO be|VB invested|VBN in|IN bank|NN deposits|NNS either|CC directly|RB or|CC indirectly|RB via|IN moneymarket|NN fund|NN </s>|S_END
+<s>|S_START o|NN this|DT is|VBZ another|DT form|NN of|IN “disintermediation”|NNP with|IN companies|NNS lending|VBG to|TO each|DT other|JJ and|CC leaving|VBG out|RP the|DT bank|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START retail|JJ investors|NNS desperate|VBP to|TO find|VB alternative|JJ sources|NNS of|IN income|NN in|IN the|DT face|NN of|IN recordlow|JJ yields|NNS on|IN bank|NN deposits|NNS are|VBP another|DT source|NN of|IN demand|NN for|IN corporate|JJ bond|NN </s>|S_END
+<s>|S_START most|JJS issues|NNS are|VBP not|RB designed|VBN for|IN aunt|NN agatha|NN the|DT minimum|JJ investment|NN is|VBZ $|$ 100000|CD </s>|S_END
+<s>|S_START but|CC over|IN the|DT past|JJ couple|NN of|IN years|NNS a|DT number|NN of|IN british|JJ issues|NNS from|IN the|DT likes|NNS of|IN tesco|NN and|CC national|JJ grid|NN have|VBP specifically|RB targeted|VBN small|JJ investor|NN </s>|S_END
+<s>|S_START justin|NN urquhart|NN stewart|NN of|IN seven|CD investment|NN management|NN says|VBZ investors|NNS are|VBP happy|JJ to|TO own|VB bonds|NNS directly|RB provided|VBN the|DT issuer|NN is|VBZ a|DT wellknown|NN name|NN </s>|S_END
+<s>|S_START corporatebond|NN funds|NNS are|VBP seen|VBN as|IN having|NN high|JJ fees|NNS he|PRP says|VBZ and|CC gilts|NNS britishgovernment|NN bonds|NNS have|VBP “turned|JJ from|IN a|DT norisk|NN yield|NN into|IN a|DT noyield|NN risk”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP danger|JJR </s>|S_END
+<s>|S_START corporate|JJ bonds|NNS are|VBP less|JJR liquid|NN than|IN government|NN debt|NN they|PRP are|VBP no|RB less|RBR vulnerable|JJ to|TO the|DT ravages|NNS of|IN inflation|NN and|CC they|PRP are|VBP more|RBR likely|JJ to|TO default|NN if|IN the|DT global|JJ economy|NN slides|VBZ back|RB into|IN recession|NN </s>|S_END
+<s>|S_START but|CC finance|NN directors|NNS can|MD hardly|RB be|VB blamed|VBN for|IN taking|NN advantage|NN of|IN such|JJ a|DT favourable|JJ climate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogsbuttonwood|NN </s>|S_END
+</p>|P_END
+

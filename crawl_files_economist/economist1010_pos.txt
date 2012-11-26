@@ -1,0 +1,58 @@
+<p>|P_START
+<s>|S_START george|NN osborne|NN britain’s|NNS chancellor|NN of|IN the|DT exchequer|NN has|VBZ many|JJ problem|NN </s>|S_END
+<s>|S_START having|VBG been|VBN forced|VBN to|TO back|RB down|IN over|IN trivial|JJ tax|NN changes|NNS in|IN his|PRP$ march|NN budget|NN he|PRP has|VBZ come|VBN to|TO seem|VB uncertain|NN and|CC weak|JJ </s>|S_END
+<s>|S_START a|DT recent|JJ poll|NN found|VBD him|PRP less|JJR popular|JJ than|IN any|DT other|JJ member|NN of|IN the|DT cabinet|NN </s>|S_END
+<s>|S_START the|DT economy|NN is|VBZ refusing|VBG to|TO grow|VB </s>|S_END
+<s>|S_START now|RB another|DT task|NN looms|NNS for|IN mr|NN osborne|NN one|CD with|IN big|JJ longterm|NN implications|NNS he|PRP must|MD choose|VB a|DT new|JJ governor|NN of|IN the|DT bank|NN of|IN england|NN to|TO replace|VB sir|NN mervyn|NN king|VBG who|WP steps|NNS down|VBP next|JJ june|NN </s>|S_END
+<s>|S_START the|DT job|NN will|MD be|VB advertised|VBN within|IN weeks|NNS with|IN a|DT decision|NN likely|JJ before|IN the|DT end|NN of|IN the|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB sir|PRP$ mervyn|NN got|VBD the|DT nod|NN in|IN 2002|CD he|PRP was|VBD thought|VBN to|TO be|VB the|DT best|JJS candidate|NN because|IN as|IN the|DT central|JJ bank’s|NNS chief|NN economist|NN he|PRP had|VBD successfully|RB prepared|VBN it|PRP to|TO take|VB charge|NN of|IN britain’s|JJ monetary|JJ policy|NN </s>|S_END
+<s>|S_START as|IN deputy|NN governor|NN responsible|JJ for|IN the|DT bank’s|JJ monetaryanalysis|NN wing|VBG he|PRP had|VBD guided|VBN it|PRP through|IN the|DT early|JJ years|NNS of|IN independent|JJ interestrate|NN setting|VBG </s>|S_END
+<s>|S_START at|IN the|DT time|NN of|IN his|PRP$ appointment|NN few|JJ gave|NN much|RB thought|VBD to|TO the|DT bank’s|NNS illdefined|VBD role|NN as|IN the|DT guardian|JJ of|IN overall|JJ financial|JJ stability—including|JJ sir|NN mervyn|NN himself|PRP </s>|S_END
+<s>|S_START that|DT oversight|NN was|VBD exposed|VBN by|IN the|DT run|NN on|IN northern|JJ rock|NN and|CC the|DT financial|JJ crisi|NN </s>|S_END
+<s>|S_START the|DT bank|NN dithered|VBD and|CC wavered|VBN as|IN the|DT economic|JJ storm|NN broke|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ir|PRP$ mervyn’s|JJ successor|NN will|MD have|VB a|DT much|RB broader|JJR remit|NN see|NN article|NN </s>|S_END
+<s>|S_START from|IN next|JJ april|NN the|DT bank|NN will|MD resume|VB the|DT job|NN it|PRP lost|VBD in|IN 1997|CD of|IN supervising|NN and|CC regulating|VBG individual|JJ bank|NN </s>|S_END
+<s>|S_START it|PRP will|MD have|VB new|JJ powers|NNS to|TO secure|VB financial|JJ stability|NN using|VBG “macroprudential”|NN tools|NNS such|JJ as|IN varying|VBG capital|NN requirements|NNS for|IN banks|NNS over|IN the|DT business|NN cycle|NN </s>|S_END
+<s>|S_START and|CC it|PRP will|MD continue|VB to|TO set|VB monetary|JJ policy|NN to|TO meet|VB the|DT government’s|JJ inflation|NN target|NN </s>|S_END
+<s>|S_START the|DT new|JJ boss|NN would|MD ideally|RB have|VB expertise|NN in|IN all|DT these|DT areas|NNS be|VB able|JJ to|TO explain|VB clearly|RB to|TO politicians|NNS and|CC the|DT public|NN how|WRB it|PRP is|VBZ carrying|VBG out|RP these|DT complicated|JJ tasks|NNS and|CC have|VBP sufficient|JJ diplomatic|JJ skills|NNS to|TO prevent|VB clashes|NNS between|IN the|DT bank’s|NNP three|CD policy|NN arm|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ a|DT tough|JJ job|NN spec|NN to|TO meet|VB from|IN a|DT shallow|JJ pool|NN of|IN potential|JJ british|JJ applicant|NN </s>|S_END
+<s>|S_START that|DT is|VBZ why|WRB the|DT chancellor’s|JJ search|NN for|IN the|DT bank’s|JJ new|JJ governor|NN should|MD be|VB global|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT default|NN option|NN is|VBZ to|TO recruit|VB from|IN within|IN the|DT bank|NN </s>|S_END
+<s>|S_START ir|PRP$ mervyn|NN had|VBD spent|VBN more|JJR than|IN a|DT decade|NN there|EX before|IN getting|NN the|DT top|JJ job|NN </s>|S_END
+<s>|S_START his|PRP$ predecessor|NN lord|NN george|NN was|VBD a|DT bank|NN of|IN england|NN lifer|NN as|IN is|VBZ paul|JJ tucker|NN the|DT bank’s|NNP hopeful|JJ this|DT time|NN </s>|S_END
+<s>|S_START mr|NN tucker|NN is|VBZ a|DT strong|JJ candidate|NN but|CC his|PRP$ entanglement|NN in|IN the|DT libor|NN ratesetting|VBG scandal|NN has|VBZ hurt|VBN his|PRP$ chances|NNS however|RB unfairly|RB </s>|S_END
+<s>|S_START and|CC the|DT bank’s|NNP tendency|NN to|TO insularity|NN which|WDT matters|NNS when|WRB the|DT world’s|NNP most|JJS international|JJ financial|JJ centre|NN is|VBZ on|IN its|PRP$ turf|NN argues|NNS for|IN looking|VBG hard|JJ at|IN external|JJ candidates|NNS to|TO let|VB in|IN some|DT fresh|JJ air|NN </s>|S_END
+<s>|S_START the|DT effect|NN would|MD be|VB all|RB the|DT more|RBR bracing|VBG if|IN the|DT new|JJ governor|NN came|VBD from|IN outside|JJ britain|NN and|CC brought|VBD an|DT international|JJ perspective|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START just|RB one|CD foreigner|NN has|VBZ so|RB far|RB made|VBD it|PRP onto|IN the|DT list|NN of|IN bookmakers’|NNP runners|NNS for|IN the|DT job|NN </s>|S_END
+<s>|S_START mark|NN carney|NN currently|RB the|DT head|NN of|IN canada’s|JJ central|JJ bank|NN is|VBZ a|DT 61|CD shot|NN </s>|S_END
+<s>|S_START he|PRP might|MD be|VB more|RBR strongly|RB favoured|VBN had|VBD he|PRP not|RB already|RB ruled|VBN himself|PRP out|RP of|IN the|DT race|NN because|IN of|IN his|PRP$ commitment|NN to|TO canada|VB his|PRP$ term|NN ends|VBZ in|IN 2015|CD one|CD of|IN the|DT few|JJ rich|JJ countries|NNS to|TO have|VB had|VBN a|DT good|JJ crisi|NN </s>|S_END
+<s>|S_START mr|NN carney’s|NNS candidacy|NN is|VBZ given|VBN salience|NN by|IN his|PRP$ role|NN as|IN chair|JJ of|IN the|DT financial|JJ stability|NN board|NN an|DT executive|NN arm|NN of|IN the|DT g20|NNP whose|WP$ previous|JJ chief|NN was|VBD mario|NN draghi|NN now|RB head|NN of|IN the|DT european|JJ central|JJ bank|NN </s>|S_END
+<s>|S_START but|CC there|EX are|VBP plenty|NN of|IN qualified|VBN foreigner|NN </s>|S_END
+<s>|S_START could|MD arminio|VB fraga|NN a|DT former|JJ centralbank|NN governor|NN of|IN brazil|NN be|VB lured|VBN from|IN rio|NN </s>|S_END
+<s>|S_START might|MD leszek|VB balcerowicz|NN a|DT former|JJ head|NN of|IN poland’s|JJ central|JJ bank|NN be|VB persuaded|VBN to|TO apply|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START an|DT outside|JJ outsider|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START applicants|NNS from|IN abroad|RB might|MD be|VB put|VBN off|RP by|IN britain’s|JJ noisy|NN press|NN which|WDT may|MD not|RB take|VB kindly|RB to|TO a|DT foreigner|NN being|VBG in|IN charge|NN of|IN the|DT institution|NN that|IN sets|NNS the|DT cost|NN of|IN borrowing|NN </s>|S_END
+<s>|S_START but|CC several|JJ foreignborn|NN technocrats|NNS have|VBP already|RB served|VBN on|IN the|DT bank’s|NNP monetarypolicy|NN committee|NN without|IN the|DT world|NN ending|VBG </s>|S_END
+<s>|S_START there|EX is|VBZ no|DT good|JJ reason|NN for|IN mr|NN osborne|NN to|TO confine|VB his|PRP$ search|NN to|TO british|VB citizen|NN </s>|S_END
+<s>|S_START the|DT fortunes|NNS of|IN britain’s|NNS car|NN industry|NN if|IN not|RB those|DT of|IN england’s|NNP football|NN team|NN have|VBP been|VBN buoyed|VBN by|IN foreign|JJ manager|NN </s>|S_END
+<s>|S_START why|WRB not|RB its|PRP$ central|JJ bank|NN </s>|S_END
+</p>|P_END
+

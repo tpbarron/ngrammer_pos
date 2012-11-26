@@ -1,0 +1,71 @@
+<p>|P_START
+<s>|S_START zappos|NNS hack|VBP exposes|NNS 24|CD million|CD customer|NN accounts|NNS to|TO cyberattackers|NNS but|CC credit|NN cards|NNS were|VBD not|RB stolen|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN online|NN shoe|NN store|NN zappos|NNS has|VBZ been|VBN hacked|VBN exposing|VBG the|DT names|NNS email|VBP addresses|NNS addresses|NNS phone|VBP numbers|NNS and|CC partial|JJ credit|NN card|NN numbers|NNS of|IN its|PRP$ 24|CD million|CD customers|NNS the|DT company|NN said|VBD late|RB sunday|JJ night|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START citing|VBG an|DT illegal|JJ and|CC unauthorized|JJ access|NN to|TO customer|NN account|NN information|NN the|DT company|NN reset|NN its|PRP$ customers|NNS passwords|NNS </s>|S_END
+<s>|S_START zappos|NNS then|RB urged|VBD customers|NNS to|TO change|VB their|PRP$ login|NN credentials|NNS on|IN any|DT other|JJ sites|NNS for|IN which|WDT they|PRP use|VBP the|DT same|JJ password|NN and|CC username|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START zapposcom|NN put|VBD a|DT big|JJ green|JJ create|NN a|DT new|JJ password|NN button|NN on|IN its|PRP$ homepage|NN on|IN monday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START zappos|NNS said|VBD customers|NNS passwords|NNS were|VBD exposed|VBN in|IN the|DT hack|NN but|CC the|DT online|NN retailer|NN insisted|VBD that|IN they|PRP were|VBD encoded|VBN and|CC that|IN attackers|NNS had|VBD no|DT access|NN to|TO customers|NNS actual|JJ passwords|NNS </s>|S_END
+<s>|S_START resetting|VBG its|PRP$ users|NNS passwords|NNS was|VBD just|RB an|DT added|JJ precaution|NN since|IN its|PRP$ highly|RB unlikely|RB the|DT hackers|NNS will|MD be|VB able|JJ or|CC would|MD take|VB the|DT time|NN to|TO unlock|VB the|DT encryption|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START customers|NNS of|IN zappos|NNS discount|VBP shoe|NN store|NN 6pmcom|CD were|VBD also|RB affected|VBN and|CC their|PRP$ passwords|NNS were|VBD reset|VBN as|IN well|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT was|VBD the|DT bad|JJ news|NN according|VBG to|TO zappos|NNS which|WDT is|VBZ owned|VBN by|IN amazon|NN amzn|NN fortune|NN 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT better|JJR news|NN was|VBD the|DT cybercriminals|NNS that|WDT stole|NN the|DT information|NN had|VBD no|DT access|NN to|TO full|JJ credit|NN card|NN numbers|NNS or|CC other|JJ payment|NN data|NNS since|IN the|DT database|NN containing|VBG that|IN information|NN was|VBD not|RB hacked|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT that|DT was|VBD revealed|VBN were|VBD the|DT last|JJ four|CD digits|NNS of|IN customers|NNS credit|NN card|NN numbers|NNS just|RB like|IN the|DT information|NN that|IN appears|NNS on|IN a|DT printed|VBN receipt|NN at|IN a|DT physical|JJ store|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT last|JJ four|CD digits|NNS of|IN a|DT credit|NN card|NN number|NN serve|NN as|IN a|DT way|NN to|TO identify|VB a|DT customer|NN but|CC they|PRP are|VBP even|RB more|RBR worthless|JJ than|IN the|DT last|JJ four|CD digits|NNS of|IN a|DT social|JJ security|NN number|NN in|IN terms|NNS of|IN actually|RB matching|VBG a|DT real|JJ credit|NN card|NN number|NN to|TO a|DT person|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT cyberattack|NN occurred|VBD on|IN one|CD of|IN zappos|NNS servers|NNS located|VBN in|IN kentucky|JJ through|IN which|WDT the|DT hacker|NN was|VBD able|JJ to|TO gain|VB access|NN to|TO part|NN of|IN the|DT companys|NNS internal|JJ network|NN and|CC systems|NNS </s>|S_END
+<s>|S_START company|NN ceo|VBD tony|NN hsieh|NN said|VBD in|IN an|DT email|NN to|TO employees|NNS that|IN zappos|NNS is|VBZ working|VBG with|IN law|NN enforcement|NN to|TO undergo|VB an|DT exhaustive|JJ investigation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT zappos|NNS hack|VBP though|IN annoying|VBG for|IN customers|NNS is|VBZ nowhere|RB near|JJ as|IN serious|JJ as|IN some|DT other|JJ recent|JJ thefts|NNS of|IN consumer|NN account|NN information|NN </s>|S_END
+<s>|S_START last|JJ springs|NNS attack|VBP on|IN sony|NN sne|NN led|VBD to|TO stolen|VB credit|NN cards|NNS from|IN 77|CD million|CD customers|NNS and|CC a|DT citigroup|NN c|NN fortune|NN 500|CD hacker|NN stole|NN $|$ 27|CD million|CD from|IN about|IN 3400|CD accounts|NNS in|IN may|MD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT kind|NN of|IN hacks|NNS can|MD be|VB immensely|RB damaging|VBG to|TO a|DT brand|NN </s>|S_END
+<s>|S_START in|IN fact|NN companies|NNS are|VBP generally|RB reluctant|JJ to|TO reveal|VB hacking|NN incidents|NNS unless|IN theyre|NN legally|RB required|VBN to|TO such|JJ as|IN when|WRB customer|NN information|NN has|VBZ been|VBN exposed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START weve|NN spent|VBD over|IN 12|CD years|NNS building|VBG our|PRP$ reputation|NN brand|NN and|CC trust|NN with|IN our|PRP$ customers|NNS hsieh|VBP wrote|NN in|IN the|DT company|NN memo|NN </s>|S_END
+<s>|S_START its|PRP$ painful|JJ to|TO see|VB us|PRP take|VB so|RB many|JJ steps|NNS back|VBP due|JJ to|TO a|DT single|JJ incident|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN recent|JJ rampedup|NN efforts|NNS to|TO protect|VB against|IN unauthorized|JJ entry|NN into|IN companies|NNS systems|NNS hacks|NNS have|VBP only|RB increased|VBN in|IN number|NN and|CC in|IN scale|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START globally|RB data|VBP breaches|NNS are|VBP expected|VBN to|TO have|VB accounted|VBN for|IN $|$ 1301|CD billion|CD in|IN corporate|JJ losses|NNS last|JJ year|NN according|VBG to|TO the|DT ponemon|NN institute|NN </s>|S_END
+<s>|S_START historically|RB about|IN 30|CD of|IN that|DT total|JJ cost|NN has|VBZ been|VBN direct|JJ losses|NNS attributable|JJ to|TO the|DT breaches|NNS which|WDT would|MD mean|VB about|IN $|$ 39|CD billion|CD was|VBD stolen|VBN in|IN 2011 |CD </s>|S_END
+</p>|P_END
+

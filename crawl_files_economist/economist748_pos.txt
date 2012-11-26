@@ -1,0 +1,42 @@
+<p>|P_START
+<s>|S_START engines|NNS on|IN airliners|NNS are|VBP highly|RB efficient|JJ when|WRB they|PRP are|VBP in|IN flight|NN but|CC not|RB when|WRB operating|VBG on|IN the|DT ground|NN </s>|S_END
+<s>|S_START when|WRB a|DT plane|NN is|VBZ taxiing|VBG under|IN its|PRP$ own|JJ power|NN the|DT engines|NNS burn|VBP vast|JJ amounts|NNS of|IN fuel|NN </s>|S_END
+<s>|S_START a|DT boeing|NN 747|CD can|MD consume|VB a|DT tonne|NN of|IN fuel|NN and|CC emit|NN several|JJ tonnes|NNS of|IN carbon|NN dioxide|NN during|IN an|DT average|JJ 17minute|JJ taxi|NN to|TO takeoff|VB </s>|S_END
+<s>|S_START and|CC when|WRB the|DT aircraft|NN lands|NNS there|EX is|VBZ likely|JJ to|TO be|VB another|DT long|JJ drive|JJ to|TO the|DT passenger|NN gate|NN </s>|S_END
+<s>|S_START which|WDT is|VBZ why|WRB there|EX are|VBP various|JJ methods|NNS being|VBG developed|VBN for|IN aircraft|NN to|TO use|VB other|JJ means|NNS of|IN propulsion|NN while|IN moving|VBG around|IN an|DT airport|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START towing|VBG aircraft|NN with|IN a|DT tug|NN similar|JJ to|TO how|WRB they|PRP are|VBP pushed|VBN back|RB from|IN the|DT gate|NN is|VBZ one|CD way|NN </s>|S_END
+<s>|S_START but|CC constantly|RB pulling|VBG on|IN the|DT front|NN landing|NN gear|NN can|MD lead|VB to|TO mechanical|JJ problem|NN </s>|S_END
+<s>|S_START many|JJ pilots|NNS would|MD also|RB prefer|VB to|TO be|VB in|IN control|NN of|IN the|DT driving|VBG once|RB their|PRP$ aircraft|NN is|VBZ on|IN the|DT taxiway|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD method|NN that|WDT addresses|VBZ both|DT concerns|NNS is|VBZ a|DT semirobotic|JJ tug|NN called|VBN taxibot|NN developed|VBD by|IN israel|NN aerospace|NN industries|NNS iai|VBP </s>|S_END
+<s>|S_START instead|RB of|IN using|VBG a|DT tow|NN bar|NN attached|VBD to|TO the|DT aircraft’s|NNS nose|VBP wheel|NN taxibot|NN employs|NNS a|DT mechanism|NN which|WDT automatically|RB scoops|VBZ the|DT wheel|NN up|RP into|IN a|DT rotating|JJ turret|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT taxibot|NN also|RB avoids|VBZ having|VBG any|DT complicated|JJ links|NNS to|TO connect|VB to|TO the|DT cockpit|NN yet|RB still|RB gives|VBZ the|DT pilots|NNS driving|VBG control|NN </s>|S_END
+<s>|S_START it|PRP does|VBZ this|DT by|IN accelerating|NN to|TO the|DT speed|NN set|VBD for|IN the|DT taxiway|NN using|VBG its|PRP$ inbuilt|NN gps|NNS map|VBP system|NN </s>|S_END
+<s>|S_START the|DT pilots|NNS then|RB use|VB their|PRP$ usual|JJ controls|NNS to|TO steer|NN with|IN the|DT nose|NN wheel|NN which|WDT in|IN turn|NN steers|NNS the|DT taxibot|NN and|CC to|TO brake|VB with|IN the|DT main|JJ landing|NN gear|NN </s>|S_END
+<s>|S_START a|DT safety|NN driver|NN remains|VBZ in|IN the|DT taxibot|NN and|CC he|PRP also|RB drives|VBZ the|DT vehicle|NN to|TO and|CC from|IN the|DT aircraft|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN the|DT high|JJ price|NN of|IN aviation|NN fuel—a|NN tonne|NN can|MD cost|VB more|RBR than|IN $|$ 1000—the|CD savings|NNS at|IN a|DT busy|JJ airport|NN could|MD be|VB large|JJ </s>|S_END
+<s>|S_START at|IN some|DT airports|NNS the|DT passenger|NN gates|VBZ can|MD be|VB several|JJ miles|NNS from|IN the|DT runway|NN </s>|S_END
+<s>|S_START all|DT told|VBD the|DT world’s|NNP airlines|VBZ spend|NN $|$ 7|CD billion8|CD billion|CD a|DT year|NN taxiing|VBG between|IN passenger|NN gates|NNS and|CC the|DT runway|NN says|VBZ yehoshua|NN eldar|NN who|WP is|VBZ in|IN charge|NN of|IN business|NN development|NN at|IN iai|NN </s>|S_END
+<s>|S_START the|DT taxibot|NN though|IN uses|NNS just|RB 2030|CD litres|NNS of|IN fuel|NN for|IN a|DT typical|JJ trip|NN </s>|S_END
+<s>|S_START it|PRP also|RB reduces|VBZ the|DT risk|NN of|IN debris|NNS being|VBG ingested|VBN by|IN the|DT engines|NNS and|CC causing|VBG damage|NN </s>|S_END
+<s>|S_START germany’s|NNS lufthansa|VBP will|MD trial|VB the|DT system|NN at|IN frankfurt|NN airport|NN from|IN may|MD 2013|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT future|NN some|DT airliners|NNS may|MD be|VB driven|VBN to|TO and|CC from|IN the|DT runway|NN with|IN electric|JJ power|NN </s>|S_END
+<s>|S_START the|DT german|NN aerospace|NN centre|NN has|VBZ tested|VBN this|DT idea|NN in|IN an|DT aircraft|NN using|VBG a|DT fuel|NN cell|NN to|TO power|NN two|CD electric|JJ motors|NNS built|VBN into|IN the|DT hub|NN of|IN an|DT aircraft|NN nose|NN wheel|NN </s>|S_END
+<s>|S_START the|DT centre|NN reckons|NNS that|WDT up|IN to|TO 19|CD of|IN current|JJ airport|NN emissions|NNS could|MD be|VB saved|VBN using|VBG such|JJ a|DT system|NN </s>|S_END
+<s>|S_START and|CC it|PRP would|MD also|RB please|VB the|DT neighbours|NNS there|RB would|MD be|VB hardly|RB any|DT noise|NN during|IN taxiing|VBG </s>|S_END
+</p>|P_END
+

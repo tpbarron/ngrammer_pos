@@ -1,0 +1,55 @@
+<p>|P_START
+<s>|S_START the|DT 10year|JJ yield|NN touched|VBD a|DT low|JJ of|IN 1395|CD overnight|NN amid|IN heightened|VBN fears|NNS that|IN spain|NN will|MD need|VB a|DT fullblown|NN sovereign|NN bailout|IN </s>|S_END
+<s>|S_START click|NN the|DT chart|NN to|TO check|VB more|JJR bond|NN yields|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN escalating|VBG fears|NNS about|IN spains|NNS debt|NN problems|NNS sent|VBN investors|NNS rushing|VBG to|TO safe|VB haven|RB investments|NNS monday|VBP including|VBG governments|NNS bonds|NNS in|IN the|DT united|VBN states|NNS germany|NN and|CC the|DT united|JJ kingdom|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN investors|NNS scooped|VBD up|RP us|PRP treasuries|NNS yields|NNS on|IN the|DT 10|CD and|CC 5year|JJ notes|NNS along|IN with|IN the|DT 30year|JJ bond|NN tumbled|VBD to|TO fresh|JJ record|NN lows|VBZ </s>|S_END
+<s>|S_START investors|NNS tend|VBP to|TO snap|VB up|RP treasuries|NNS during|IN times|NNS of|IN uncertainty|NN since|IN theyre|NN backed|VBN by|IN the|DT government|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT 10year|JJ yield|NN touched|VBD a|DT low|JJ of|IN 1395|CD overnight|NN while|IN the|DT 5year|JJ yield|NN dropped|VBD to|TO 0541|CD and|CC the|DT 30year|JJ sank|NN to|TO an|DT alltime|NN low|JJ of|IN 2476|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN eurozone|NN finance|NN ministers|NNS finalized|VBD initial|JJ bailout|IN terms|NNS for|IN spanish|JJ banks|NNS last|JJ week|NN observers|NNS are|VBP concerned|VBN spain|NN will|MD need|VB more|RBR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT steps|NNS taken|VBN to|TO relieve|VB market|NN anxiety|NN about|IN spain|NN have|VBP failed|VBN said|VBN jim|NN vogel|NN interest|NN rate|NN strategist|NN at|IN ftn|NN financial|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN the|DT spanish|JJ economy|NN continues|VBZ to|TO slow|JJ and|CC that|IN nations|NNS bond|VBP yields|NNS keep|VB surging|VBG experts|NNS are|VBP worried|VBN that|IN spain|NN will|MD soon|RB require|VB a|DT full|JJ sovereign|NN bailout|IN similar|JJ to|TO those|DT granted|VBN to|TO greece|VB portugal|JJ and|CC ireland|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT yield|NN on|IN the|DT 10year|JJ spanish|NN bond|NN jumped|VBD to|TO a|DT euroarea|NN record|NN high|JJ of|IN 7565|CD which|WDT is|VBZ an|DT unsustainable|JJ borrowing|NN cost|NN and|CC among|IN the|DT first|JJ signs|NNS that|IN a|DT country|NN may|MD need|VB a|DT bailout|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START investors|NNS also|RB moved|VBD into|IN debt|NN backed|VBN by|IN governments|NNS in|IN germany|NN and|CC the|DT uk|NN since|IN they|PRP are|VBP also|RB considered|VBN to|TO be|VB safe|JJ haven|NN investments|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT 10year|JJ yield|NN on|IN the|DT german|NN government|NN bond|NN fell|VBD to|TO record|VB low|JJ of|IN 1127|CD while|IN the|DT 10year|JJ british|NN bond|NN yield|NN dropped|VBD to|TO 1407|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN to|TO worries|NNS about|IN spain|NN investors|NNS were|VBD also|RB on|IN edge|NN about|IN greece|NN after|IN germanys|NNS vice|NN chancellor|NN voiced|VBD skepticism|NN over|IN greeces|NNS ability|NN to|TO meet|VB its|PRP$ bailout|NN commitments|NNS renewing|VBG suspicions|NNS that|WDT the|DT country|NN could|MD become|VB insolvent|NN and|CC leave|VB the|DT common|JJ currency|NN region|NN said|VBD wells|NNS fargo|IN advisors|NNS analysts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START though|IN investors|NNS have|VBP been|VBN favoring|VBG us|PRP treasuries|NNS as|IN a|DT haven|NN from|IN europes|NNS debt|NN crisis|NN for|IN some|DT time|NN vogel|NN expects|VBZ bond|NN yields|NNS to|TO pull|VB back|RB from|IN these|DT record|NN low|JJ levels|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT anxiety|NN about|IN europe|NN takes|VBZ two|CD or|CC three|CD days|NNS to|TO run|VB its|PRP$ course|NN but|CC then|RB investors|NNS will|MD go|VB back|RB to|TO focusing|VBG on|IN the|DT us|PRP economy|NN and|CC that|IN should|MD pull|VB yields|NNS up|IN from|IN this|DT historical|JJ low|NN range|NN he|PRP said|VBD </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

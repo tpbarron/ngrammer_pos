@@ -1,0 +1,85 @@
+<p>|P_START
+<s>|S_START treasury|NN is|VBZ looking|VBG at|IN changing|VBG the|DT mix|NN of|IN metals|NNS used|VBN to|TO make|VB pennies|NNS and|CC nickels|NNS in|IN a|DT costsavings|NNS effort|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT us|PRP mint|VBP is|VBZ facing|VBG a|DT problem|NN especially|RB during|IN these|DT pennypinching|VBG times|NNS </s>|S_END
+<s>|S_START it|PRP turns|VBZ out|RP it|PRP costs|VBZ more|JJR to|TO make|VB pennies|NNS and|CC nickels|NNS than|IN the|DT coins|NNS are|VBP worth|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC because|IN of|IN that|DT the|DT obama|NN administration|NN this|DT week|NN asked|VBD congress|NN for|IN permission|NN to|TO change|VB the|DT mix|NN of|IN metal|NN that|IN goes|VBZ to|TO make|VB pennies|NNS and|CC nickels|NNS an|DT expensive|JJ recipe|NN that|WDT has|VBZ remained|VBN unchanged|JJ for|IN more|RBR than|IN 30|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO be|VB precise|JJ it|PRP cost|NN 24|CD cents|NNS to|TO make|VB one|CD penny|JJ in|IN 2011|CD and|CC about|IN 112|CD cents|NNS for|IN each|DT nickel|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START given|VBN the|DT number|NN of|IN coins|NNS that|WDT the|DT mint|NN produces|VBZ 43|CD billion|CD pennies|NNS and|CC 914|CD million|CD nickels|NNS last|JJ year|NN alone|RB those|DT costs|NNS add|VBP up|RP pretty|RB quickly|RB a|DT little|RB more|RBR than|IN $|$ 100|CD million|CD for|IN each|DT coin|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC even|RB though|IN treasury|NN has|VBZ been|VBN studying|VBG new|JJ metals|NNS since|IN 2010|CD it|PRP has|VBZ yet|RB to|TO come|VB up|RP with|IN a|DT workable|JJ mix|NN that|WDT would|MD definitely|RB be|VB cheaper|JJR and|CC it|PRP has|VBZ no|DT details|NNS yet|RB as|IN to|TO what|WP metals|NNS should|MD be|VB used|VBN or|CC how|WRB much|JJ it|PRP would|MD save|VB to|TO do|VB so|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB if|IN a|DT cheaper|JJR metal|NN can|MD be|VB used|VBN it|PRP might|MD not|RB take|VB the|DT cost|NN of|IN a|DT penny|JJ down|NN to|TO less|RBR than|IN a|DT penny|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START just|RB the|DT administrative|JJ cost|NN of|IN minting|VBG 43|CD billion|CD pennies|NNS costs|NNS almost|RB a|DT halfcent|NN per|IN coin|NN by|IN itself|PRP leaving|VBG precious|JJ little|JJ room|NN to|TO make|VB a|DT penny|JJ for|IN less|JJR than|IN a|DT cent|NN no|DT matter|NN the|DT raw|NN material|NN used|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT raw|NN material|NN cost|NN of|IN the|DT metals|NNS used|VBN in|IN a|DT current|JJ penny|NN is|VBZ only|RB about|IN 06|CD cents|NNS per|IN coin|NN according|VBG to|TO prices|NNS quoted|VBN on|IN the|DT london|NN metal|NN exchange|NN and|CC a|DT breakdown|NN of|IN a|DT pennys|NNS composition|NN from|IN the|DT mint|NN </s>|S_END
+<s>|S_START the|DT mint|NN paid|VBD 11|CD cents|NNS on|IN average|JJ for|IN the|DT metal|NN used|VBD in|IN a|DT penny|NN in|IN 2011|CD but|CC that|IN is|VBZ the|DT cost|NN of|IN readytostamp|NN blanks|NNS from|IN the|DT supplier|NN not|RB raw|VB material|JJ traded|VBN on|IN commodity|NN markets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX have|VBP been|VBN times|NNS in|IN recent|JJ years|NNS when|WRB a|DT runup|NN in|IN zinc|NN and|CC copper|NN prices|NNS has|VBZ taken|VBN the|DT raw|NN material|NN value|NN of|IN a|DT penny|JJ above|IN one|CD cent|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS the|DT case|NN for|IN a|DT nickel|NN today|NN </s>|S_END
+<s>|S_START its|PRP$ more|JJR expensive|JJ metal|NN mix|NN means|VBZ the|DT raw|NN materials|NNS in|IN each|DT are|VBP worth|JJ almost|RB 6|CD cents|NNS per|IN coin|NN based|VBN on|IN current|JJ market|NN prices|NNS </s>|S_END
+<s>|S_START states|NNS eye|VBP silver|NN and|CC gold|NN currencies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN popular|JJ belief|NN since|IN 1982|CD pennies|NNS have|VBP only|RB been|VBN copper|NN plated|VBN not|RB copper|NN through|IN and|CC through|IN </s>|S_END
+<s>|S_START much|RB less|JJR expensive|JJ zinc|NN makes|VBZ up|RP 975|CD of|IN the|DT mass|NN of|IN a|DT penny|JJ the|DT rest|NN is|VBZ a|DT copper|NN coating|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nickels|NNS actually|RB have|VBP much|RB more|RBR copper|JJ in|IN them|PRP 75|CD copper|NN and|CC 25|CD nickel|NN </s>|S_END
+<s>|S_START its|PRP$ the|DT same|JJ mix|NN they|PRP have|VBP always|RB had|VBD except|IN for|IN the|DT world|NN war|NN ii|NN years|NNS when|WRB silver|NN and|CC manganese|JJ replaced|VBN the|DT nickel|NN and|CC some|DT of|IN the|DT copper|NN </s>|S_END
+<s>|S_START see|NN correction|NN below|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT mint|NN did|VBD make|VB steel|NN pennies|NNS for|IN one|CD year|NN in|IN 1943|CD when|WRB copper|NN was|VBD needed|VBN for|IN the|DT war|NN effort|NN </s>|S_END
+<s>|S_START and|CC steel|NN might|MD be|VB a|DT cheaper|JJR alternative|NN this|DT time|NN </s>|S_END
+<s>|S_START steel|NN is|VBZ roughly|RB onequarter|JJR the|DT price|NN of|IN zinc|NN on|IN the|DT london|NN metal|NN exchange|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START treasury|NN had|VBD already|RB made|VBN a|DT costsaving|NN move|NN in|IN december|NN when|WRB it|PRP stopped|VBD making|VBG dollar|NN coins|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN 14|CD billion|CD surplus|NN presidential|JJ dollar|NN coins|NNS sitting|VBG in|IN bank|NN vaults|NNS waiting|VBG to|TO be|VB circulated|VBN and|CC american|JJ consumers|NNS showing|VBG little|JJ appetite|NN to|TO start|VB using|VBG the|DT coins|NNS treasury|VBP estimates|NNS the|DT halt|NN in|IN production|NN of|IN the|DT coins|NNS will|MD save|VB about|IN $|$ 50|CD million|CD a|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START treasury|NN spokesman|NN matt|NN anderson|NN said|VBD treasury|NN has|VBZ the|DT authority|NN to|TO stop|VB making|VBG the|DT dollar|NN coins|VBZ on|IN its|PRP$ own|JJ but|CC it|PRP cant|VBD change|NN the|DT mix|NN of|IN metals|NNS in|IN pennies|NNS without|IN permission|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN for|IN the|DT suggestion|NN of|IN some|DT that|WDT the|DT penny|NN be|VB abandoned|VBN altogether|RB anderson|NN said|VBD only|RB that|IN is|VBZ not|RB a|DT proposal|NN we|PRP have|VBP put|VBN forward|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START correction|NN an|DT earlier|JJR version|NN of|IN this|DT story|NN did|VBD not|RB mention|NN the|DT world|NN war|NN ii|NN exception|NN to|TO the|DT nickels|NNS composition |-NONE- </s>|S_END
+</p>|P_END
+

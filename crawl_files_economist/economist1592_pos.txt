@@ -1,0 +1,39 @@
+<p>|P_START
+<s>|S_START one|CD the|DT grandson|NN of|IN an|DT immigrant|JJ maid|NN delivered|VBN a|DT moving|NN keynote|NN address|NN centred|VBD on|IN upward|JJ mobility|NN opportunity|NN and|CC education|NN </s>|S_END
+<s>|S_START another|DT praised|VBN the|DT “black|JJ and|CC white|JJ families|NNS who|WP met|NN and|CC decided|VBD together|RP to|TO break|VB down|RP the|DT barriers|NNS that|WDT had|VBD so|RB long|RB divided|VBN their|PRP$ children”|JJ a|DT third|JJ recalled|VBN his|PRP$ widowed|VBN mother’s|-NONE- struggles|NNS to|TO run|VB an|DT innercity|NN pharmacy|NN </s>|S_END
+<s>|S_START and|CC a|DT fourth|JJ introduced|VBN his|PRP$ party’s|NNP platform|NN which|WDT he|PRP said|VBD “is|-NONE- not|RB about|IN partisanship|NN but|CC pragmatism”|NNP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT four|CD mayors—respectively|JJ julián|JJ castro|NN of|IN san|NN antonio|NN anthony|NN foxx|NN of|IN charlotte|NN rt|NN rybak|NN of|IN minneapolis|NNS and|CC cory|NN booker|NN of|IN newark—all|JJ spoke|NN on|IN the|DT opening|VBG night|NN of|IN the|DT democratic|JJ convention|NN </s>|S_END
+<s>|S_START o|NN did|VBD barack|NN obama’s|NNS former|JJ chief|NN of|IN staff|NN rahm|NN emanuel|NN now|RB mayor|NN of|IN chicago|NN </s>|S_END
+<s>|S_START three|CD more|JJR mayors|NNS spoke|VBP the|DT next|JJ night|NN including|VBG antonio|NN villaraigosa|NN of|IN los|NNS angeles|NNS who|WP chaired|VBN the|DT convention|NN </s>|S_END
+<s>|S_START the|DT republican|JJ convention|NN by|IN contrast|NN featured|VBD just|RB three|CD including|VBG bob|NN buckhorn|NN mayor|NN of|IN tampa|NN the|DT host|NN city|NN who|WP as|IN is|VBZ customary|JJ welcomed|VBN the|DT delegates|NNS early|RB on|IN the|DT first|JJ day|NN and|CC mia|NN love|NN a|DT pictureperfect|NN candidate|NN a|DT black|JJ woman|NN and|CC a|DT mormon|NN who|WP is|VBZ mayor|NN of|IN a|DT small|JJ city|NN in|IN utah|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT uncharitable|JJ might|NN point|NN out|RP that|IN the|DT democratic|JJ convention|NN featured|VBD mayors|NNS because|IN they|PRP have|VBP little|JJ else|NN left|VBD </s>|S_END
+<s>|S_START in|IN the|DT 2010|CD midterms|NNS democrats|NNS lost|VBD 63|CD house|NN seats|NNS six|CD senate|NN seats|NNS six|CD governorships|NNS and|CC a|DT whopping|NN 680|CD seats|NNS in|IN state|NN legislatures|NNS giving|VBG republicans|NNS bicameral|JJ legislative|JJ and|CC executive|JJ control|NN in|IN 15|CD states|NNS and|CC the|DT biggest|JJS tally|RB of|IN state|NN legislators|NNS since|IN 1928|CD </s>|S_END
+<s>|S_START cities|NNS remain|VBP one|CD of|IN the|DT few|JJ reliably|RB democratic|JJ power|NN bases|NNS of|IN america’s|NNS 20|CD biggest|JJS just|RB three|CD san|JJ diego|NN indianapolis|NNS and|CC fort|NN worth|NN have|VBP republican|JJ mayor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT featured|VBN role|NN given|VBN to|TO american|JJ cities|NNS also|RB is|VBZ a|DT useful|JJ reminder|NN that|WDT while|IN mitt|NN romney’s|NNS roots|NNS like|IN george|NN w|NN bush’s|NNS are|VBP in|IN the|DT business|NN world|NN mr|NN obama’s|NNS are|VBP in|IN the|DT messy|NN pragmatism|NN of|IN city|NN politic|JJ </s>|S_END
+<s>|S_START he|PRP worked|VBD as|IN a|DT community|NN organiser|NN in|IN chicago|NN before|IN representing|VBG the|DT city’s|JJ south|NN side|NN in|IN the|DT illinois|NN senate|NN </s>|S_END
+<s>|S_START less|JJR than|IN a|DT month|NN after|IN his|PRP$ inauguration|NN he|PRP created|VBD the|DT white|JJ house|NN office|NN of|IN urban|NN affairs|NNS in|IN order|NN to|TO “articulate|JJ goals|NNS for|IN cities|NNS and|CC metropolitan|JJ areas”|NN and|CC to|TO “advance|NN the|DT goals|NNS of|IN competitiveness|NN sustainability|NN and|CC inclusion”|NNP </s>|S_END
+<s>|S_START many|JJ of|IN his|PRP$ cabinet|NN secretaries|NNS share|NN his|PRP$ urban|NN roots|NNS shaun|VBP donovan|JJ for|IN instance|NN ran|VBD new|JJ york’s|NNS publichousing|VBG department|NN before|IN becoming|VBG secretary|JJ of|IN housing|NN and|CC urban|NN development|NN while|IN arne|NN duncan|NN mr|NN obama’s|NNS education|NN secretary|NN previously|RB ran|VBD chicago’s|NNS school|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT positions|NNS like|IN much|RB of|IN city|NN governance|NN tend|NN to|TO be|VB more|JJR pragmatic|JJ than|IN partisan|JJ and|CC tend|NN to|TO focus|VB on|IN more|JJR tangible|JJ goals|NNS than|IN national|JJ politics|NNS doe|VBP </s>|S_END
+<s>|S_START a|DT candidate|NN can|MD get|VB elected|VBN to|TO congress|NN on|IN the|DT strength|NN of|IN a|DT shiny|NN grin|NN and|CC gauzy|NN rhetoric|NN people|NNS want|VBP their|PRP$ mayors|NNS to|TO fix|VB potholes|NNS and|CC keep|VB the|DT streets|NNS safe|VBP </s>|S_END
+<s>|S_START and|CC as|IN much|JJ as|IN the|DT right|NN wants|VBZ to|TO turn|VB mr|NN obama|NN into|IN a|DT blend|NN of|IN karl|NN marx|NN and|CC huey|NN newton|NN he|PRP is|VBZ at|IN base|NN a|DT rather|RB cautious|JJ pragmatist—an|JJ approach|NN that|WDT reflects|VBZ not|RB just|RB his|PRP$ temperament|NN but|CC also|RB his|PRP$ roots|NNS in|IN urban|NN politic|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT prominence|NN given|VBN to|TO mayors|NNS at|IN the|DT convention|NN is|VBZ also|RB a|DT reminder|NN that|WDT for|IN all|DT the|DT amber|NN waves|VBZ of|IN grain|NN and|CC frontier|JJR nostalgia|NN more|JJR than|IN four|CD out|IN of|IN five|CD americans|NNS today|NN live|VBP in|IN urban|NN area|NN </s>|S_END
+<s>|S_START the|DT rate|NN of|IN population|NN growth|NN in|IN america’s|NNP cities|NNS exceeds|VBZ the|DT national|JJ average|NN </s>|S_END
+<s>|S_START america’s|NNS large|VBP cities|NNS generated|VBN nearly|RB 85|CD of|IN its|PRP$ gdp|NN growth|NN in|IN 2010—a|CD greater|JJR share|NN of|IN national|JJ output|NN than|IN cities|NNS in|IN europe|NN india|NN or|CC china|NN </s>|S_END
+<s>|S_START to|TO feature|VB the|DT leaders|NNS of|IN america’s|NNS economic|JJ engines|NNS and|CC population|NN centres|NNS is|VBZ simply|RB sound|VBN politic|JJ </s>|S_END
+</p>|P_END
+

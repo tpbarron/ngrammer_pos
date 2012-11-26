@@ -1,0 +1,140 @@
+<p>
+<s>smart pumps deliver drugs perfectly dosed for individual patients</s>
+<s>easytouse defibrillators can bring heartattack victims back from the brink of death</s>
+<s>pacemakers and artificial hearts keep people alive by ensuring that blood is pumped smoothly around their bodies</s>
+<s>medical devices are a wonder of the modern age</s>
+</p>
+
+<p>
+<s>as these devices have become more capable however they have also become more complex</s>
+<s>more than half the medical devices sold in america the worlds largest healthcare market rely on software and often lots of it</s>
+<s>the software in a pacemaker may require over 80000 lines of code a druginfusion pump 170000 lines and an mri magneticresonance imaging scanner more than 7m lines</s>
+</p>
+
+<p>
+<s>this growing reliance on software causes problems that are familiar to anyone who has ever used a computer bugs crashes and vulnerability to digital attacks</s>
+<s>researchers at the university of patras in greece found that one in three of all softwarebased medical devices sold in america between 1999 and 2005 had been recalled for software failures</s>
+<s>kevin fu a computer science professor at the university of massachusetts calculates that such recalls have affected over 15m individual devices since 2002</s>
+<s>in april researchers at mcafee a computersecurity firm said they had found a way to get an implanted insulin pump to deliver 45 days worth of insulin in one go</s>
+<s>and in 2008 dr fu and his colleagues published a paper detailing the remote wireless reprogramming of an implantable defibrillator</s>
+</p>
+
+<p>
+<s>when software in a medical device malfunctions the consequences can be far more serious than just having to reboot your pc</s>
+<s>during the 1980s a bug in the software of therac25 radiotherapy machines caused massive overdoses of radiation to be delivered to several patients killing at least five</s>
+<s>americas food and drug administration fda has linked problems with druginfusion pumps to nearly 20000 serious injuries and over 700 deaths between 2005 and 2009</s>
+<s>software errors were the most frequently cited problem</s>
+<s>if buggy code causes a pump to interpret a single keystroke multiple times for example it could deliver an overdose</s>
+</p>
+
+<p>
+<s>in addition to accidental malfunctions wireless and networked medical devices are also vulnerable to attacks by malicious hackers</s>
+<s>in the 2008 paper dr fu and his colleagues showed how an implantable cardioverter defibrillator could be remotely reprogrammed either to withhold therapy when it is needed or to deliver unnecessary shocks</s>
+<s>dr fu says that when it comes to testing their software device manufacturers lack the safety culture found in other highrisk industries such as avionics and are failing to keep up with the latest advances in software engineering</s>
+<s>insup lee professor of computer science at the university of pennsylvania agrees</s>
+<s>“many manufacturers do not have the expertise or the willingness to utilise new tools being developed in computer science” he says</s>
+</p>
+
+<p>
+<s>just how bad it is though no one knows for sure</s>
+<s>the software used in the vast majority of medical devices is closed and proprietary</s>
+<s>this prevents commercial rivals from copying each others code or checking for potential patent infringements</s>
+<s>it also makes it harder for security researchers to expose flaws</s>
+<s>the fda which could demand to see the source code for every device it approves does not routinely do so but instead leaves it to manufacturers to validate their own software</s>
+<s>two years ago it offered free “static analysis” software testing to infusionpump manufacturers in the hope of reducing injuries and deaths</s>
+<s>but no manufacturer has yet taken the fda up on its offer</s>
+</p>
+
+<p>
+<s>open to scrutiny</s>
+</p>
+
+<p>
+<s>frustrated by the lack of cooperation from manufacturers some academics now want to reinvent the medicaldevice industry from the ground up using opensource techniques</s>
+<s>in opensource systems the source code is freely shared and can be viewed and modified by anyone who wants to see how it works or build an improved version of it</s>
+<s>exposing a design to many hands and eyes the theory goes results in safer products</s>
+<s>this seems to be the case for desktop software where bugs and security flaws in opensource applications are typically fixed much more quickly than those in commercial programs</s>
+</p>
+
+<p>
+<s>the generic infusion pump project a joint effort between the university of pennsylvania and the fda is taking these troublesome devices back to basics</s>
+<s>the researchers began not by building a device or writing code but by imagining everything that could possibly go wrong with a druginfusion pump</s>
+<s>manufacturers were asked to help and several did so including vtitan a startup based in america and india</s>
+<s>“for a new manufacturer its a great head start” says peri kasthuri vtitans cofounder</s>
+<s>by working together on an opensource platform manufacturers can build safer products for everyone while still retaining the ability to add extra features to differentiate themselves from their rivals</s>
+</p>
+
+<p>
+<s>mathematical models of existing and new pump designs were tested against the possible risks and the bestperforming models were used to generate code which was installed on a secondhand infusion pump bought online for $20</s>
+<s>“my dream” says dave arney a researcher on the project “is that a hospital will eventually be able to print out an infusion pump using a rapid prototyping machine download opensource software to it and have a device running within hours”</s>
+</p>
+
+<p>
+<s>equally ambitious is the open source medical device initiative at the university of wisconsinmadison</s>
+<s>two medical physicists rock mackie and surendra prajapati are designing a machine to combine radiotherapy with high resolution computed tomography ct and positronemission tomography pet scanning</s>
+<s>their aim is to supply at zero cost everything necessary to build the device from scratch including hardware specifications source code assembly instructions suggested parts—and even recommendations on where to buy them and how much to pay</s>
+<s>the machine should cost about a quarter as much as a commercial scanner making it attractive in the developing world says dr prajapati</s>
+<s>“existing devices are expensive both to buy and maintain” he says whereas the opensource model is more sustainable</s>
+<s>“if you can build it yourself you can fix it yourself when something breaks”</s>
+</p>
+
+<p>
+<s>opensource devices are also to be found literally at the cutting edge of medical science</s>
+<s>an opensource surgical robot called raven designed at the university of washington in seattle provides an affordable platform for researchers around the world to experiment with new techniques and technologies for robotic surgery</s>
+</p>
+
+<p>
+<s>all these opensource systems address very different problems in medical science but they have one thing in common all are currently prohibited for use on live human patients</s>
+<s>to be used in a clinical setting opensource devices must first undergo the same expensive and lengthy fda approval processes as any other medical device</s>
+<s>fda regulations do not yet require software to be analysed for bugs but they do insist on a rigorous paper trail detailing its development</s>
+<s>this is not always a good fit with the collaborative and often informal nature of opensource coding</s>
+</p>
+
+<p>
+<s>the high cost of navigating the regulatory regime has forced some notforprofit opensource projects to alter their business models</s>
+<s>“in the 1990s we developed an excellent radiationtherapy treatmentplanning system and tried to give it away to other clinics” says dr mackie</s>
+<s>“but when we were told by the fda that we should get our software approved the hospital wasnt willing to fund it” he formed a spinoff firm specifically to get fda approval</s>
+<s>it took four years and cost millions of dollars</s>
+<s>the software was subsequently sold as a traditional closedsource product</s>
+</p>
+
+<p>
+<s>others are skirting americas regulatory system altogether</s>
+<s>the raven surgical robot is intended for research use on animals and cadavers while the open source medical device scanner will be large enough only to accommodate rats and rabbits</s>
+<s>however says dr mackie there is nothing to stop anyone taking the design and putting it through a regulatory process in another country</s>
+<s>“it may even happen that the device will be used on humans in parts of the world where strict regulation does not exist” he says</s>
+<s>“we would hope that if it is used in such a way it will be well enough designed not to hurt anybody”</s>
+</p>
+
+<p>
+<s>changing the rules</s>
+</p>
+
+<p>
+<s>the fda is gradually embracing openness</s>
+<s>the medical device plugandplay interoperability program a $10m initiative funded by the national institutes of health with the support of the fda is working to set open standards for interconnecting devices from different manufacturers</s>
+<s>this would mean that say a bloodpressure cuff could instruct a drug pump to stop delivering medication if it sensed that a patient was suffering an adverse reaction</s>
+</p>
+
+<p>
+<s>more intriguing still is the medical device coordination framework being developed by john hatcliff at kansas state university</s>
+<s>its aim is to build an opensource hardware platform including elements common to many medical devices such as displays buttons processors and network interfaces and the software to run them</s>
+<s>by connecting different sensors or actuators this generic core could then be made into dozens of different medical devices with the relevant functions programmed as downloadable “apps”</s>
+</p>
+
+<p>
+<s>eventually medical devices might evolve into collections of specialised and possibly proprietary accessories with the primary computing and safety features managed by an opensource hub</s>
+<s>the fda is working with dr hatcliff to develop processes for creating and validating safetycritical medical apps</s>
+</p>
+
+<p>
+<s>in the meantime there are moves afoot to improve the overall security and reliability of software in medical devices</s>
+<s>americas national institute of standards and technology has just recommended that a single agency probably the fda should be responsible for approving and tracking cybersecurity in medical devices and the fda is reevaluating its ability to cope with the growing use of software</s>
+</p>
+
+<p>
+<s>such changes cannot happen too soon</s>
+<s>“when a plane falls out of the sky people notice” says dr fu</s>
+<s>“but when one or two people are hurt by a medical device or even if hundreds are hurt in different parts of the country nobody notices” with more complex devices more active hackers and more inquisitive patients opening up the hidden heart of medical technology makes a great deal of sense</s>
+</p>
+

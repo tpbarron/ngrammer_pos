@@ -1,0 +1,65 @@
+<p>|P_START
+<s>|S_START eva|NN restaurant|VBD in|IN los|NNS angeles|NNS offers|NNS diners|NNS a|DT 5|CD discount|NN for|IN leaving|NN their|PRP$ cell|NN phones|NNS in|IN this|DT box|NN at|IN the|DT front|NN desk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN cell|NN phones|NNS often|RB claim|VBP a|DT spot|NN on|IN the|DT table|NN in|IN restaurants|NNS sitting|VBG right|JJ next|JJ to|TO utensils|NNS plates|NNS and|CC glasses|NNS </s>|S_END
+<s>|S_START one|CD restaurant|NN is|VBZ trying|VBG to|TO change|VB that|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eva|NN restaurant|VBD in|IN los|NNS angeles|NNS offers|NNS diners|NNS a|DT 5|CD discount|NN for|IN leaving|NN their|PRP$ phones|NNS with|IN the|DT receptionist|NN for|IN the|DT entirety|NN of|IN the|DT meal|NN </s>|S_END
+<s>|S_START the|DT new|JJ policy|NN went|NN into|IN effect|NN a|DT bit|NN more|RBR than|IN a|DT month|NN ago|RB according|VBG to|TO chef|NN mark|NN gold|NN who|WP runs|VBZ the|DT restaurant|NN with|IN his|PRP$ wife|NN alejandra|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START since|IN then|RB the|DT chef|NN estimates|VBZ that|IN 40|CD to|TO 50|CD of|IN customers|NNS have|VBP opted|VBN in|IN and|CC ditched|VBD their|PRP$ phones|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eva|NN is|VBZ really|RB about|IN family|NN and|CC being|VBG at|IN home|NN </s>|S_END
+<s>|S_START thats|NNS what|WP we|PRP want|VBP to|TO exemplify|VB gold|NN says|VBZ </s>|S_END
+<s>|S_START we|PRP just|RB want|VBP people|NNS to|TO connect|VB again|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP came|VBD up|RP with|IN the|DT idea|NN after|IN a|DT conversation|NN about|IN how|WRB annoying|VBG he|PRP found|VBD it|PRP that|IN people|NNS were|VBD constantly|RB communicating|VBG on|IN their|PRP$ devices|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eva|NN notifies|NNS its|PRP$ customers|NNS of|IN its|PRP$ cell|NN phone|NN policy|NN with|IN a|DT statement|NN on|IN its|PRP$ menu|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START plenty|NN of|IN eating|VBG spots|NNS ask|NN patrons|NNS to|TO refrain|VB from|IN using|VBG their|PRP$ phones|NNS but|CC gold|NN believes|NNS his|PRP$ contemporary|JJ restaurant|NN located|VBN on|IN las|NNS beverly|RB blvd|JJ is|VBZ the|DT first|JJ to|TO dangle|VB a|DT discount|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT who|WP come|NN to|TO the|DT 42seat|JJ eatery|NN often|RB take|VBP to|TO the|DT idea|NN of|IN going|VBG phoneless|NN for|IN dinner|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START they|PRP actually|RB get|VB really|RB enthusiastic|JJ about|IN it|PRP gold|VBD says|VBZ </s>|S_END
+<s>|S_START i|PRP think|VBP people|NNS generally|RB like|IN the|DT idea|NN of|IN being|VBG able|JJ to|TO turn|VB off|RP their|PRP$ cell|NN phones|NNS </s>|S_END
+<s>|S_START they|PRP just|RB havent|VBP been|VBN given|VBN the|DT opportunity|NN to|TO or|CC thought|RB about|IN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN june|NN consumerist|NN reported|VBD on|IN a|DT deli|NN in|IN vermont|NN that|IN adds|VBZ $|$ 3|CD to|TO each|DT customers|NNS bill|NN if|IN they|PRP use|VBP a|DT phone|NN at|IN the|DT counter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START last|JJ year|NN a|DT restaurant|NN in|IN washington|NN dc|NN explicitly|RB prohibited|VBN cell|NN phone|NN use|NN in|IN the|DT establishment|NN </s>|S_END
+<s>|S_START rogue|NN 24s|CD reservation|NN contract|NN asked|VBD that|IN all|DT guests|NNS refrain|VBP from|IN the|DT use|NN of|IN cell|NN phones|NNS and|CC photography|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB chef|VBP and|CC owner|NN rj|NN cooper|NN said|VBD his|PRP$ restaurant|NN eventually|RB budged|VBD on|IN its|PRP$ stance|NN </s>|S_END
+<s>|S_START about|IN six|CD months|NNS ago|RB rogue|VBP 24|CD began|VBD allowing|VBG diners|NNS to|TO use|VB their|PRP$ phones|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START why|WRB </s>|S_END
+<s>|S_START to|TO take|VB pictures|NNS and|CC share|NN them|PRP on|IN instagram|NN of|IN course|NN </s>|S_END
+</p>|P_END
+

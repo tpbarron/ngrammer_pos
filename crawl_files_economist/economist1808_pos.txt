@@ -1,0 +1,140 @@
+<p>|P_START
+<s>|S_START mart|NN pumps|NNS deliver|VBP drugs|NNS perfectly|RB dosed|VBN for|IN individual|JJ patient|NN </s>|S_END
+<s>|S_START easytouse|NN defibrillators|NNS can|MD bring|VB heartattack|NN victims|NNS back|RB from|IN the|DT brink|NN of|IN death|NN </s>|S_END
+<s>|S_START pacemakers|NNS and|CC artificial|JJ hearts|NNS keep|VB people|NNS alive|JJ by|IN ensuring|NN that|IN blood|NN is|VBZ pumped|VBN smoothly|RB around|IN their|PRP$ bodie|NN </s>|S_END
+<s>|S_START medical|JJ devices|NNS are|VBP a|DT wonder|NN of|IN the|DT modern|JJ age|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN these|DT devices|NNS have|VBP become|VBN more|RBR capable|JJ however|NN they|PRP have|VBP also|RB become|VBN more|RBR complex|JJ </s>|S_END
+<s>|S_START more|JJR than|IN half|PDT the|DT medical|JJ devices|NNS sold|VBN in|IN america|NN the|DT worlds|NNS largest|JJS healthcare|NN market|NN rely|RB on|IN software|NN and|CC often|RB lots|NNS of|IN it|PRP </s>|S_END
+<s>|S_START the|DT software|NN in|IN a|DT pacemaker|NN may|MD require|VB over|IN 80000|CD lines|NNS of|IN code|NN a|DT druginfusion|NN pump|NN 170000|CD lines|NNS and|CC an|DT mri|NN magneticresonance|NN imaging|VBG scanner|NN more|JJR than|IN 7m|CD line|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT growing|VBG reliance|NN on|IN software|NN causes|NNS problems|NNS that|WDT are|VBP familiar|JJ to|TO anyone|NN who|WP has|VBZ ever|RB used|VBN a|DT computer|NN bugs|NNS crashes|NNS and|CC vulnerability|NN to|TO digital|JJ attack|NN </s>|S_END
+<s>|S_START researchers|NNS at|IN the|DT university|NN of|IN patras|NNS in|IN greece|NN found|VBD that|IN one|CD in|IN three|CD of|IN all|DT softwarebased|VBN medical|JJ devices|NNS sold|VBN in|IN america|NN between|IN 1999|CD and|CC 2005|CD had|VBD been|VBN recalled|VBN for|IN software|NN failure|NN </s>|S_END
+<s>|S_START kevin|NN fu|VBD a|DT computer|NN science|NN professor|NN at|IN the|DT university|NN of|IN massachusetts|NNS calculates|VBZ that|IN such|JJ recalls|NNS have|VBP affected|VBN over|IN 15m|CD individual|JJ devices|NNS since|IN 2002|CD </s>|S_END
+<s>|S_START in|IN april|NN researchers|NNS at|IN mcafee|NN a|DT computersecurity|NN firm|NN said|VBD they|PRP had|VBD found|VBN a|DT way|NN to|TO get|VB an|DT implanted|VBN insulin|NN pump|NN to|TO deliver|VB 45|CD days|NNS worth|IN of|IN insulin|NN in|IN one|CD go|NN </s>|S_END
+<s>|S_START and|CC in|IN 2008|CD dr|NN fu|NN and|CC his|PRP$ colleagues|NNS published|VBD a|DT paper|NN detailing|VBG the|DT remote|NN wireless|NN reprogramming|VBG of|IN an|DT implantable|JJ defibrillator|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB software|NN in|IN a|DT medical|JJ device|NN malfunctions|NNS the|DT consequences|NNS can|MD be|VB far|RB more|RBR serious|JJ than|IN just|RB having|VBG to|TO reboot|VB your|PRP$ pc|NN </s>|S_END
+<s>|S_START during|IN the|DT 1980s|CD a|DT bug|NN in|IN the|DT software|NN of|IN therac25|NNP radiotherapy|NN machines|NNS caused|VBN massive|JJ overdoses|NNS of|IN radiation|NN to|TO be|VB delivered|VBN to|TO several|JJ patients|NNS killing|VBG at|IN least|JJS five|CD </s>|S_END
+<s>|S_START americas|NNS food|VBD and|CC drug|NN administration|NN fda|NN has|VBZ linked|VBN problems|NNS with|IN druginfusion|NN pumps|NNS to|TO nearly|RB 20000|CD serious|JJ injuries|NNS and|CC over|IN 700|CD deaths|NNS between|IN 2005|CD and|CC 2009|CD </s>|S_END
+<s>|S_START oftware|NN errors|NNS were|VBD the|DT most|JJS frequently|RB cited|VBD problem|NN </s>|S_END
+<s>|S_START if|IN buggy|NN code|NN causes|NNS a|DT pump|NN to|TO interpret|VB a|DT single|JJ keystroke|NN multiple|NN times|NNS for|IN example|NN it|PRP could|MD deliver|VB an|DT overdose|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN to|TO accidental|JJ malfunctions|NNS wireless|NN and|CC networked|VBD medical|JJ devices|NNS are|VBP also|RB vulnerable|JJ to|TO attacks|NNS by|IN malicious|JJ hacker|NN </s>|S_END
+<s>|S_START in|IN the|DT 2008|CD paper|NN dr|NN fu|NN and|CC his|PRP$ colleagues|NNS showed|VBD how|WRB an|DT implantable|JJ cardioverter|NN defibrillator|NN could|MD be|VB remotely|RB reprogrammed|VBN either|DT to|TO withhold|VB therapy|NN when|WRB it|PRP is|VBZ needed|VBN or|CC to|TO deliver|VB unnecessary|JJ shock|NN </s>|S_END
+<s>|S_START dr|NN fu|VBD says|VBZ that|IN when|WRB it|PRP comes|VBZ to|TO testing|NN their|PRP$ software|NN device|NN manufacturers|NNS lack|VBP the|DT safety|NN culture|NN found|VBD in|IN other|JJ highrisk|NN industries|NNS such|JJ as|IN avionics|NNS and|CC are|VBP failing|VBG to|TO keep|VB up|RP with|IN the|DT latest|JJS advances|NNS in|IN software|NN engineering|NN </s>|S_END
+<s>|S_START insup|NN lee|NN professor|NN of|IN computer|NN science|NN at|IN the|DT university|NN of|IN pennsylvania|NN agree|VBP </s>|S_END
+<s>|S_START “many|JJ manufacturers|NNS do|VBP not|RB have|VB the|DT expertise|NN or|CC the|DT willingness|NN to|TO utilise|VB new|JJ tools|NNS being|VBG developed|VBN in|IN computer|NN science”|NN he|PRP say|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START just|RB how|WRB bad|JJ it|PRP is|VBZ though|IN no|DT one|NN knows|VBZ for|IN sure|RB </s>|S_END
+<s>|S_START the|DT software|NN used|VBD in|IN the|DT vast|JJ majority|NN of|IN medical|JJ devices|NNS is|VBZ closed|VBN and|CC proprietary|JJ </s>|S_END
+<s>|S_START this|DT prevents|NNS commercial|JJ rivals|NNS from|IN copying|VBG each|DT others|NNS code|VBP or|CC checking|VBG for|IN potential|JJ patent|NN infringement|NN </s>|S_END
+<s>|S_START it|PRP also|RB makes|VBZ it|PRP harder|JJR for|IN security|NN researchers|NNS to|TO expose|VB flaw|NN </s>|S_END
+<s>|S_START the|DT fda|NN which|WDT could|MD demand|VB to|TO see|VB the|DT source|NN code|NN for|IN every|DT device|NN it|PRP approves|VBZ does|VBZ not|RB routinely|RB do|VBP so|RB but|CC instead|RB leaves|VBZ it|PRP to|TO manufacturers|NNS to|TO validate|VB their|PRP$ own|JJ software|NN </s>|S_END
+<s>|S_START two|CD years|NNS ago|RB it|PRP offered|VBD free|JJ “static|JJ analysis”|NN software|NN testing|NN to|TO infusionpump|VB manufacturers|NNS in|IN the|DT hope|NN of|IN reducing|VBG injuries|NNS and|CC death|NN </s>|S_END
+<s>|S_START but|CC no|DT manufacturer|NN has|VBZ yet|RB taken|VBN the|DT fda|NN up|RP on|IN its|PRP$ offer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START open|JJ to|TO scrutiny|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START frustrated|VBD by|IN the|DT lack|NN of|IN cooperation|NN from|IN manufacturers|NNS some|DT academics|NNS now|RB want|VBP to|TO reinvent|NN the|DT medicaldevice|NN industry|NN from|IN the|DT ground|NN up|RP using|VBG opensource|NN technique|NN </s>|S_END
+<s>|S_START in|IN opensource|NN systems|NNS the|DT source|NN code|NN is|VBZ freely|RB shared|VBN and|CC can|MD be|VB viewed|VBN and|CC modified|VBD by|IN anyone|NN who|WP wants|VBZ to|TO see|VB how|WRB it|PRP works|VBZ or|CC build|VB an|DT improved|VBN version|NN of|IN it|PRP </s>|S_END
+<s>|S_START exposing|VBG a|DT design|NN to|TO many|JJ hands|NNS and|CC eyes|NNS the|DT theory|NN goes|VBZ results|NNS in|IN safer|NN product|NN </s>|S_END
+<s>|S_START this|DT seems|VBZ to|TO be|VB the|DT case|NN for|IN desktop|NN software|NN where|WRB bugs|NNS and|CC security|NN flaws|NNS in|IN opensource|NN applications|NNS are|VBP typically|RB fixed|VBN much|RB more|RBR quickly|RB than|IN those|DT in|IN commercial|JJ program|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT generic|JJ infusion|NN pump|NN project|NN a|DT joint|JJ effort|NN between|IN the|DT university|NN of|IN pennsylvania|NN and|CC the|DT fda|NN is|VBZ taking|VBG these|DT troublesome|JJ devices|NNS back|RB to|TO basic|JJ </s>|S_END
+<s>|S_START the|DT researchers|NNS began|VBD not|RB by|IN building|NN a|DT device|NN or|CC writing|VBG code|NN but|CC by|IN imagining|NN everything|NN that|WDT could|MD possibly|RB go|VB wrong|JJ with|IN a|DT druginfusion|NN pump|NN </s>|S_END
+<s>|S_START manufacturers|NNS were|VBD asked|VBN to|TO help|VB and|CC several|JJ did|VBD so|RB including|VBG vtitan|NN a|DT startup|NN based|VBN in|IN america|NN and|CC india|NN </s>|S_END
+<s>|S_START “for|JJ a|DT new|JJ manufacturer|NN its|PRP$ a|DT great|JJ head|NN start”|NN says|VBZ peri|NN kasthuri|NN vtitans|NNS cofounder|NN </s>|S_END
+<s>|S_START by|IN working|NN together|RB on|IN an|DT opensource|NN platform|NN manufacturers|NNS can|MD build|VB safer|NN products|NNS for|IN everyone|NN while|IN still|RB retaining|VBG the|DT ability|NN to|TO add|VB extra|JJ features|NNS to|TO differentiate|VB themselves|PRP from|IN their|PRP$ rival|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mathematical|JJ models|NNS of|IN existing|VBG and|CC new|JJ pump|NN designs|NNS were|VBD tested|VBN against|IN the|DT possible|JJ risks|NNS and|CC the|DT bestperforming|NN models|NNS were|VBD used|VBN to|TO generate|VB code|NN which|WDT was|VBD installed|VBN on|IN a|DT secondhand|NN infusion|NN pump|NN bought|VBD online|NN for|IN $|$ 20|CD </s>|S_END
+<s>|S_START “my|JJ dream”|NN says|VBZ dave|NN arney|NN a|DT researcher|NN on|IN the|DT project|NN “is|VBZ that|IN a|DT hospital|JJ will|MD eventually|RB be|VB able|JJ to|TO print|VB out|RP an|DT infusion|NN pump|NN using|VBG a|DT rapid|JJ prototyping|NN machine|NN download|NN opensource|NN software|NN to|TO it|PRP and|CC have|VBP a|DT device|NN running|VBG within|IN hours”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START equally|RB ambitious|JJ is|VBZ the|DT open|JJ source|NN medical|JJ device|NN initiative|NN at|IN the|DT university|NN of|IN wisconsinmadison|NN </s>|S_END
+<s>|S_START two|CD medical|JJ physicists|NNS rock|NN mackie|NN and|CC surendra|NN prajapati|NN are|VBP designing|VBG a|DT machine|NN to|TO combine|VB radiotherapy|NN with|IN high|JJ resolution|NN computed|VBD tomography|NN ct|NN and|CC positronemission|NN tomography|NN pet|NN scanning|VBG </s>|S_END
+<s>|S_START their|PRP$ aim|NN is|VBZ to|TO supply|RB at|IN zero|CD cost|NN everything|NN necessary|JJ to|TO build|VB the|DT device|NN from|IN scratch|NN including|VBG hardware|NN specifications|NNS source|NN code|NN assembly|RB instructions|NNS suggested|VBD parts—and|JJ even|RB recommendations|NNS on|IN where|WRB to|TO buy|VB them|PRP and|CC how|WRB much|JJ to|TO pay|VB </s>|S_END
+<s>|S_START the|DT machine|NN should|MD cost|VB about|IN a|DT quarter|NN as|IN much|JJ as|IN a|DT commercial|JJ scanner|NN making|VBG it|PRP attractive|JJ in|IN the|DT developing|VBG world|NN says|VBZ dr|NN prajapati|NN </s>|S_END
+<s>|S_START “existing|JJ devices|NNS are|VBP expensive|JJ both|DT to|TO buy|VB and|CC maintain”|JJ he|PRP says|VBZ whereas|RB the|DT opensource|NN model|NN is|VBZ more|RBR sustainable|JJ </s>|S_END
+<s>|S_START “if|JJ you|PRP can|MD build|VB it|PRP yourself|PRP you|PRP can|MD fix|VB it|PRP yourself|PRP when|WRB something|NN breaks”|-NONE- </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START opensource|NN devices|NNS are|VBP also|RB to|TO be|VB found|VBN literally|RB at|IN the|DT cutting|NN edge|NN of|IN medical|JJ science|NN </s>|S_END
+<s>|S_START an|DT opensource|NN surgical|JJ robot|NN called|VBN raven|NN designed|VBN at|IN the|DT university|NN of|IN washington|NN in|IN seattle|NN provides|VBZ an|DT affordable|JJ platform|NN for|IN researchers|NNS around|IN the|DT world|NN to|TO experiment|VB with|IN new|JJ techniques|NNS and|CC technologies|NNS for|IN robotic|JJ surgery|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT these|DT opensource|NN systems|NNS address|NN very|RB different|JJ problems|NNS in|IN medical|JJ science|NN but|CC they|PRP have|VBP one|CD thing|VBG in|IN common|JJ all|DT are|VBP currently|RB prohibited|VBN for|IN use|NN on|IN live|JJ human|NN patient|NN </s>|S_END
+<s>|S_START to|TO be|VB used|VBN in|IN a|DT clinical|JJ setting|NN opensource|NN devices|NNS must|MD first|RB undergo|VB the|DT same|JJ expensive|JJ and|CC lengthy|JJ fda|NN approval|NN processes|NNS as|IN any|DT other|JJ medical|JJ device|NN </s>|S_END
+<s>|S_START fda|NN regulations|NNS do|VBP not|RB yet|RB require|VB software|NN to|TO be|VB analysed|VBN for|IN bugs|NNS but|CC they|PRP do|VBP insist|VBP on|IN a|DT rigorous|JJ paper|NN trail|NN detailing|VBG its|PRP$ development|NN </s>|S_END
+<s>|S_START this|DT is|VBZ not|RB always|RB a|DT good|JJ fit|NN with|IN the|DT collaborative|JJ and|CC often|RB informal|JJ nature|NN of|IN opensource|NN coding|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT high|JJ cost|NN of|IN navigating|VBG the|DT regulatory|JJ regime|NN has|VBZ forced|VBN some|DT notforprofit|NN opensource|NN projects|NNS to|TO alter|VB their|PRP$ business|NN model|NN </s>|S_END
+<s>|S_START “in|JJ the|DT 1990s|CD we|PRP developed|VBD an|DT excellent|NN radiationtherapy|NN treatmentplanning|VBG system|NN and|CC tried|VBD to|TO give|VB it|PRP away|RB to|TO other|JJ clinics”|NN says|VBZ dr|NN mackie|NN </s>|S_END
+<s>|S_START “but|JJ when|WRB we|PRP were|VBD told|VBN by|IN the|DT fda|NN that|IN we|PRP should|MD get|VB our|PRP$ software|NN approved|VBD the|DT hospital|NN wasnt|NN willing|JJ to|TO fund|VB it”|JJ he|PRP formed|VBD a|DT spinoff|NN firm|NN specifically|RB to|TO get|VB fda|NN approval|NN </s>|S_END
+<s>|S_START it|PRP took|VBD four|CD years|NNS and|CC cost|VB millions|NNS of|IN dollar|NN </s>|S_END
+<s>|S_START the|DT software|NN was|VBD subsequently|RB sold|VBN as|IN a|DT traditional|JJ closedsource|NN product|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START others|NNS are|VBP skirting|VBG americas|NNS regulatory|JJ system|NN altogether|RB </s>|S_END
+<s>|S_START the|DT raven|VBN surgical|JJ robot|NN is|VBZ intended|VBN for|IN research|NN use|NN on|IN animals|NNS and|CC cadavers|NNS while|IN the|DT open|JJ source|NN medical|JJ device|NN scanner|NN will|MD be|VB large|JJ enough|RB only|RB to|TO accommodate|VB rats|NNS and|CC rabbit|NN </s>|S_END
+<s>|S_START however|RB says|VBZ dr|NN mackie|NN there|EX is|VBZ nothing|NN to|TO stop|VB anyone|NN taking|VBG the|DT design|NN and|CC putting|VBG it|PRP through|IN a|DT regulatory|JJ process|NN in|IN another|DT country|NN </s>|S_END
+<s>|S_START “it|JJ may|MD even|RB happen|VB that|IN the|DT device|NN will|MD be|VB used|VBN on|IN humans|NNS in|IN parts|NNS of|IN the|DT world|NN where|WRB strict|JJ regulation|NN does|VBZ not|RB exist”|JJ he|PRP say|VBP </s>|S_END
+<s>|S_START “we|JJ would|MD hope|VB that|IN if|IN it|PRP is|VBZ used|VBN in|IN such|JJ a|DT way|NN it|PRP will|MD be|VB well|RB enough|RB designed|VBN not|RB to|TO hurt|VB anybody”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START changing|VBG the|DT rule|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fda|NN is|VBZ gradually|RB embracing|VBG openne|NN </s>|S_END
+<s>|S_START the|DT medical|JJ device|NN plugandplay|NN interoperability|NN program|NN a|DT $|$ 10m|CD initiative|CD funded|VBN by|IN the|DT national|JJ institutes|NNS of|IN health|NN with|IN the|DT support|NN of|IN the|DT fda|NN is|VBZ working|VBG to|TO set|VB open|JJ standards|NNS for|IN interconnecting|VBG devices|NNS from|IN different|JJ manufacturer|NN </s>|S_END
+<s>|S_START this|DT would|MD mean|VB that|IN say|NN a|DT bloodpressure|NN cuff|NN could|MD instruct|VB a|DT drug|NN pump|NN to|TO stop|VB delivering|NN medication|NN if|IN it|PRP sensed|VBD that|IN a|DT patient|NN was|VBD suffering|VBG an|DT adverse|NN reaction|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START more|JJR intriguing|VBG still|RB is|VBZ the|DT medical|JJ device|NN coordination|NN framework|NN being|VBG developed|VBN by|IN john|NN hatcliff|NN at|IN kansas|NNS state|VBP university|NN </s>|S_END
+<s>|S_START its|PRP$ aim|NN is|VBZ to|TO build|VB an|DT opensource|NN hardware|NN platform|NN including|VBG elements|NNS common|JJ to|TO many|JJ medical|JJ devices|NNS such|JJ as|IN displays|NNS buttons|NNS processors|NNS and|CC network|NN interfaces|NNS and|CC the|DT software|NN to|TO run|VB them|PRP </s>|S_END
+<s>|S_START by|IN connecting|NN different|JJ sensors|NNS or|CC actuators|NNS this|DT generic|JJ core|NN could|MD then|RB be|VB made|VBN into|IN dozens|NNS of|IN different|JJ medical|JJ devices|NNS with|IN the|DT relevant|JJ functions|NNS programmed|VBN as|IN downloadable|JJ “apps”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eventually|RB medical|JJ devices|NNS might|MD evolve|VB into|IN collections|NNS of|IN specialised|VBN and|CC possibly|RB proprietary|JJ accessories|NNS with|IN the|DT primary|JJ computing|NN and|CC safety|NN features|NNS managed|VBN by|IN an|DT opensource|NN hub|NN </s>|S_END
+<s>|S_START the|DT fda|NN is|VBZ working|VBG with|IN dr|NN hatcliff|NN to|TO develop|VB processes|NNS for|IN creating|VBG and|CC validating|VBG safetycritical|JJ medical|JJ app|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT meantime|NN there|RB are|VBP moves|NNS afoot|RB to|TO improve|VB the|DT overall|JJ security|NN and|CC reliability|NN of|IN software|NN in|IN medical|JJ device|NN </s>|S_END
+<s>|S_START americas|NNS national|VBP institute|JJ of|IN standards|NNS and|CC technology|NN has|VBZ just|RB recommended|VBN that|IN a|DT single|JJ agency|NN probably|RB the|DT fda|NN should|MD be|VB responsible|JJ for|IN approving|NN and|CC tracking|VBG cybersecurity|NN in|IN medical|JJ devices|NNS and|CC the|DT fda|NN is|VBZ reevaluating|VBG its|PRP$ ability|NN to|TO cope|VB with|IN the|DT growing|VBG use|NN of|IN software|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uch|JJ changes|NNS can|MD not|RB happen|VB too|RB soon|RB </s>|S_END
+<s>|S_START “when|JJ a|DT plane|NN falls|VBZ out|RP of|IN the|DT sky|NN people|NNS notice”|-NONE- says|VBZ dr|NN fu|NN </s>|S_END
+<s>|S_START “but|JJ when|WRB one|CD or|CC two|CD people|NNS are|VBP hurt|VBN by|IN a|DT medical|JJ device|NN or|CC even|RB if|IN hundreds|NNS are|VBP hurt|VBN in|IN different|JJ parts|NNS of|IN the|DT country|NN nobody|NN notices”|NN with|IN more|JJR complex|JJ devices|NNS more|RBR active|JJ hackers|NNS and|CC more|JJR inquisitive|JJ patients|NNS opening|VBG up|RP the|DT hidden|NN heart|NN of|IN medical|JJ technology|NN makes|VBZ a|DT great|JJ deal|NN of|IN sense|NN </s>|S_END
+</p>|P_END
+

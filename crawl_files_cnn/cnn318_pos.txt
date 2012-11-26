@@ -1,0 +1,82 @@
+<p>|P_START
+<s>|S_START a|DT total|NN of|IN nearly|RB 2|CD billion|CD facebook|NN shares|NNS could|MD come|VB to|TO market|NN in|IN the|DT next|JJ nine|CD months|NNS as|IN lockup|NN rules|NNS expire|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN facebooks|NNS postipo|VBP life|NN has|VBZ been|VBN rocky|JJ and|CC on|IN thursday|NN it|PRP will|MD face|VB one|CD of|IN the|DT toughest|JJS times|NNS for|IN a|DT newly|RB public|JJ company|NN the|DT first|JJ day|NN that|IN some|DT insiders|NNS are|VBP allowed|VBN to|TO dump|VB the|DT stock|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START like|IN many|JJ initial|JJ public|JJ offerings|NNS facebooks|VBZ may|MD 18|CD debut|NN included|VBD a|DT lockup|NN agreement|NN that|WDT requires|VBZ some|DT shareholders|NNS to|TO hold|VB on|IN to|TO their|PRP$ stock|NN for|IN a|DT certain|JJ period|NN </s>|S_END
+<s>|S_START when|WRB a|DT companys|NN lockedup|NN shares|NNS are|VBP set|VBN free|JJ the|DT stock|NN typically|RB tanks|VBZ since|IN millions|NNS of|IN new|JJ shares|NNS flood|NN in|IN at|IN once|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START facebooks|NNS first|RB reckoning|VBG day|NN is|VBZ here|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START insiders|NNS will|MD be|VB free|JJ to|TO sell|VB off|RP about|IN 271|CD million|CD shares|NNS on|IN thursday|NN </s>|S_END
+<s>|S_START since|IN facebook|NN fb|NN has|VBZ lost|VBN nearly|RB half|NN its|PRP$ value|NN since|IN its|PRP$ debut|NN some|DT may|MD jump|VB at|IN the|DT chance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT reasoning|NN behind|IN lockups|NNS which|WDT usually|RB last|JJ 90|CD to|TO 180|CD days|NNS is|VBZ to|TO prevent|VB the|DT market|NN from|IN being|VBG swamped|VBN with|IN too|RB many|JJ of|IN a|DT companys|NNS shares|NNS immediately|RB after|IN an|DT ipo|NN </s>|S_END
+<s>|S_START keeping|VBG stocks|NNS scarce|NN can|MD help|VB boost|VB their|PRP$ value|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START facebooks|NNS fellow|VBP newly|RB public|JJ internet|NN companies|NNS felt|VBD the|DT pain|NN when|WRB their|PRP$ lockups|NNS ended|VBD </s>|S_END
+<s>|S_START linkedin|NN lnkd|VBD slumped|VBN as|IN much|JJ as|IN 7|CD on|IN its|PRP$ lockup|NN expiration|NN day|NN and|CC groupon|NN grpn|NN fell|VBD 10|CD to|TO hit|VB a|DT new|JJ low|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thursday|NN is|VBZ only|RB the|DT first|JJ in|IN a|DT series|NN of|IN lockup|NN expirations|NNS for|IN facebook|NN </s>|S_END
+<s>|S_START its|PRP$ unusual|JJ tiered|VBN system|NN means|VBZ several|JJ more|JJR waves|NNS are|VBP coming|VBG and|CC a|DT total|NN of|IN 18|CD billion|CD shares|NNS could|MD hit|VB the|DT market|NN in|IN the|DT next|JJ nine|CD months|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ken|NN sena|NN an|DT analyst|NN at|IN evercore|NN partners|NNS warned|VBD in|IN a|DT note|NN to|TO clients|NNS that|IN the|DT stock|NN drag|NN is|VBZ likely|JJ to|TO be|VB drawn|VBN out|RP because|IN of|IN the|DT staggered|VBN schedule|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC sp|VBP capital|NN iq|NN analyst|NN scott|NN kessler|NN shrugged|VBD off|RP the|DT concerns|NNS and|CC even|RB upgraded|VBD his|PRP$ rating|NN on|IN facebook|NN to|TO buy|VB from|IN hold|JJ on|IN tuesday|NN </s>|S_END
+<s>|S_START we|PRP do|VBP not|RB expect|VB early|JJ employees|NNS and|CC investors|NNS will|MD be|VB aggressive|JJ sellers|NNS of|IN fb|NN shares|NNS at|IN current|JJ levels|NNS he|PRP wrote|VBD in|IN a|DT client|NN note|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT big|JJ facebook|NN stock|NN dump|NN could|MD come|VB in|IN midnovember|NN </s>|S_END
+<s>|S_START thats|NNS when|WRB facebook|NN will|MD convert|VB the|DT special|JJ form|NN of|IN restricted|VBN stock|NN units|NNS or|CC rsus|VBZ held|VBN by|IN most|JJS of|IN its|PRP$ staff|NN into|IN actual|JJ shares|NNS of|IN its|PRP$ stock|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START facebooks|NNS employees|NNS will|MD owe|VB taxes|NNS this|DT year|NN on|IN the|DT value|NN of|IN that|DT stock|NN </s>|S_END
+<s>|S_START like|IN most|JJS companies|NNS that|WDT issue|NN rsus|VBZ facebook|NN is|VBZ handling|VBG the|DT logistics|NNS on|IN its|PRP$ employees|NNS behalf|NN </s>|S_END
+<s>|S_START the|DT employees|NNS are|VBP still|RB ultimately|RB responsible|JJ for|IN making|VBG sure|NN their|PRP$ tax|NN bills|NNS are|VBP fully|RB covered|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START facebook|NN plans|NNS to|TO withhold|VB a|DT big|JJ chunk|NN of|IN its|PRP$ employees|NNS shares|NNS roughly|RB 120|CD million|CD and|CC sell|NN them|PRP on|IN the|DT open|JJ market|NN to|TO cover|VB the|DT tax|NN bill|NN </s>|S_END
+<s>|S_START selling|VBG off|IN so|RB many|JJ shares|NNS at|IN once|RB could|MD hammer|VB the|DT companys|NNS stock|NN price|NN </s>|S_END
+<s>|S_START so|IN facebook|NN has|VBZ a|DT plan|NN b|NN it|PRP can|MD tap|VB its|PRP$ credit|NN lines|NNS and|CC cash|NN reserves|NNS to|TO pay|VB off|RP the|DT tax|NN bill|NN without|IN issuing|NN equity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT facebook|NN representative|NN declined|VBD to|TO comment|NN on|IN which|WDT route|NN the|DT company|NN plans|VBZ to|TO take|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START facebook|NN has|VBZ carefully|RB lined|VBN up|RP its|PRP$ options|NNS </s>|S_END
+<s>|S_START it|PRP took|VBD out|IN a|DT $|$ 3|CD billion|CD credit|NN line|NN specifically|RB earmarked|VBD for|IN the|DT potential|NN rsulinked|VBD tax|NN bill|NN and|CC its|PRP$ currently|RB sitting|VBG on|IN $|$ 10|CD billion|CD in|IN cash|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN facebooks|NNS current|JJ share|NN price|NN the|DT tax|NN bill|NN would|MD total|VB around|IN $|$ 26|CD billion|CD </s>|S_END
+<s>|S_START if|IN its|PRP$ stock|NN price|NN keeps|NNS dropping|VBG that|IN bill|NN will|MD shrink|VB further|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START facebook|NN did|VBD get|VB a|DT vote|NN of|IN confidence|NN from|IN one|CD investor|NN last|JJ week|NN </s>|S_END
+<s>|S_START netflix|NN nflx|NN ceo|NN reed|VBD hastings|NNS whos|NNS also|RB a|DT member|NN of|IN facebooks|NNS board|NN disclosed|VBD to|TO regulators|NNS that|IN he|PRP recently|RB bought|VBD $|$ 1|CD million|CD worth|JJ of|IN shares|NNS in|IN the|DT social|JJ network|NN </s>|S_END
+</p>|P_END
+

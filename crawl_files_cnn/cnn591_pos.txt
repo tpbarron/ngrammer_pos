@@ -1,0 +1,56 @@
+<p>|P_START
+<s>|S_START homeowners|NNS will|MD not|RB have|VB to|TO pay|VB thousands|NNS of|IN dollars|NNS in|IN socalled|JJ hurricane|NN deductibles|NNS due|JJ to|TO damages|NNS from|IN superstorm|NN sandy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN homeowners|NNS in|IN new|JJ york|NN new|JJ jersey|NN and|CC connecticut|VBD will|MD save|VB thousands|NNS of|IN dollars|NNS in|IN insurance|NN costs|NNS after|IN several|JJ state|NN governors|NNS declared|VBD that|IN sandy|NN did|VBD not|RB make|VB landfall|JJ as|IN a|DT hurricane|NN exempting|VBG them|PRP from|IN insurers|NNS hurricane|VBP deductibles|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unlike|IN regular|JJ deductibles|NNS that|WDT require|NN homeowners|NNS to|TO pay|VB a|DT set|NN dollar|NN amount|NN typically|RB $|$ 500|CD or|CC $|$ 1000|CD hurricane|CD deductibles|NNS often|RB require|VBP you|PRP to|TO cough|VB up|RP 1|CD to|TO 5|CD of|IN your|PRP$ propertys|NNS value|NN </s>|S_END
+<s>|S_START so|IN a|DT policyholder|NN with|IN a|DT house|NN worth|NN $|$ 300000|CD and|CC a|DT hurricane|NN deductible|JJ of|IN 5|CD would|MD have|VB to|TO pay|VB for|IN the|DT first|JJ $|$ 15000|CD in|IN damages|NNS before|IN insurance|NN payments|NNS kick|VBP in|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hurricane|NN deductibles|NNS only|RB go|VBP into|IN effect|NN when|WRB storms|NNS have|VBP sustained|VBN winds|NNS of|IN 74|CD miles|NNS per|IN hour|PRP$ or|CC more|JJR or|CC category|NN 1|CD hurricane|NN strength|NN </s>|S_END
+<s>|S_START and|CC state|NN governors|NNS from|IN new|JJ york|NN new|JJ jersey|NN and|CC connecticut|VBD are|VBP saying|VBG sandy|NN didnt|NN make|VB that|IN cut|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START homeowners|NNS should|MD not|RB have|VB to|TO pay|VB hurricane|NN deductibles|NNS for|IN damage|NN caused|VBD by|IN the|DT storm|NN said|VBD governor|NN andrew|NN cuomo|NN of|IN new|JJ york|NN </s>|S_END
+<s>|S_START governors|NNS chris|VBP christie|NN of|IN new|JJ jersey|NN and|CC dannel|NN malloy|NN of|IN connecticut|NN made|VBN similar|JJ statements|NNS as|IN did|VBD marylands|NNS insurance|NN regulator|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD filing|NN insurance|NN claims|VBZ after|IN sandy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT insurance|NN industry|NN would|MD have|VB reached|VBN the|DT same|JJ conclusion|NN that|IN sustained|VBN wind|NN triggers|NNS were|VBD not|RB met|VBN said|VBD robert|NN hartwig|NN president|NN of|IN the|DT insurance|NN information|NN institute|NN </s>|S_END
+<s>|S_START no|DT one|NN would|MD have|VB been|VBN charged|VBN the|DT hurricane|NN deductible|JJ he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START insurers|NNS came|VBD up|RB with|IN the|DT idea|NN of|IN hurricane|NN deductibles|NNS after|IN they|PRP made|VBD heavy|JJ payouts|NNS for|IN hurricane|NN andrew|VBD in|IN 1992|CD which|WDT caused|VBN $|$ 155|CD billion|CD in|IN damages|NNS </s>|S_END
+<s>|S_START increasingly|RB insurers|NNS in|IN hurricaneprone|NN states|NNS along|IN the|DT eastern|NN seaboard|NN and|CC gulf|NN of|IN mexico|NN have|VBP been|VBN adding|VBG the|DT deductible|JJ to|TO their|PRP$ policies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START disaster|NN and|CC riskmodeling|VBG firm|NN eqecat|NN estimates|NNS that|WDT there|EX will|MD be|VB between|IN $|$ 10|CD billion|CD to|TO $|$ 20|CD billion|CD in|IN insured|JJ losses|NNS from|IN sandy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD fema|NN may|MD not|RB have|VB enough|RB for|IN flood|NN damages|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START robert|NN hunter|NN an|DT insurance|NN specialist|NN with|IN the|DT consumer|NN federation|NN of|IN america|NN believes|NNS insurers|NNS apply|RB hurricane|JJ deductibles|NNS improperly|RB at|IN times|NNS </s>|S_END
+<s>|S_START a|DT storm|NN may|MD hit|VB long|JJ island|NN ny|NN as|IN a|DT hurricane|NN but|CC it|PRP can|MD quickly|RB weaken|VB by|IN the|DT time|NN it|PRP moves|VBZ inland|NN </s>|S_END
+<s>|S_START nevertheless|RB those|DT living|VBG upstate|JJ in|IN albany|NN could|MD be|VB hit|VBN by|IN the|DT hurricane|NN deductible|JJ even|RB though|IN the|DT storm|NN was|VBD downgraded|VBN before|IN it|PRP reached|VBD them|PRP </s>|S_END
+<s>|S_START if|IN its|PRP$ a|DT hurricane|NN anywhere|RB its|PRP$ a|DT hurricane|NN everywhere|RB said|VBD hunter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT insurance|NN information|NN institutes|VBZ hartwig|JJ said|VBD the|DT conditions|NNS that|WDT trigger|JJR the|DT deductibles|NNS are|VBP not|RB only|RB fair|JJ but|CC they|PRP are|VBP clearly|RB stated|VBN in|IN homeowners|NNS insurance|NN policies|NNS which|WDT are|VBP vetted|VBN and|CC approved|VBD by|IN state|NN insurance|NN departments|NNS </s>|S_END
+</p>|P_END
+

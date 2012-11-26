@@ -1,0 +1,21 @@
+<p>|P_START
+<s>|S_START how|WRB can|MD i|VB find|VB out|RP which|WDT tax|NN bracket|NN im|NN in|IN </s>|S_END
+<s>|S_START —|NN joe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START go|IN straight|RB to|TO the|DT source|NN the|DT internal|JJ revenue|NN service|NN </s>|S_END
+<s>|S_START form|NN 1040es|NNS which|WDT you|PRP can|MD find|VB on|IN irsgov|NN offers|NNS a|DT handy|NN table|NN on|IN page|NN 6|CD to|TO figure|VB out|RP your|PRP$ tax|NN bracket|NN whether|IN youre|NN a|DT single|JJ filer|NN married|VBD filing|NN jointly|RB or|CC separately|RB or|CC head|NN of|IN household|NN </s>|S_END
+<s>|S_START for|IN example|NN if|IN you|PRP are|VBP a|DT single|JJ filer|NN with|IN an|DT adjusted|VBN gross|NN income|NN between|IN $|$ 35351|CD and|CC $|$ 85650|CD you|PRP can|MD expect|VB to|TO be|VB in|IN the|DT 25|CD tax|NN bracket|NN —|: at|IN least|JJS for|IN this|DT year|NN </s>|S_END
+<s>|S_START with|IN the|DT bushera|NN tax|NN cuts|NNS scheduled|VBN to|TO expire|VB at|IN the|DT end|NN of|IN this|DT year|NN its|PRP$ anyones|NNS guess|NN where|WRB income|NN tax|NN rates|NNS will|MD be|VB as|RB of|IN january|JJ 1|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START —|NN austin|NN kilham|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START got|VBD a|DT question|NN for|IN the|DT help|NN desk|NN </s>|S_END
+<s>|S_START send|NN it|PRP to helpdeskcnnmoneycom|NNP </s>|S_END
+</p>|P_END
+

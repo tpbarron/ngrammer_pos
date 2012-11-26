@@ -1,0 +1,67 @@
+<p>|P_START
+<s>|S_START outside|IN the|DT pub|NN in|IN the|DT beacon|NN park|NN retirement|NN village|NN the|DT motorised|VBN scooters|NNS wait|NN </s>|S_END
+<s>|S_START a|DT cheerful|JJ crowd|NN inside|NN sings|NNS the|DT praises|NNS of|IN lichfield|NN a|DT small|JJ georgian|JJ city|NN in|IN the|DT midland|NN </s>|S_END
+<s>|S_START a|DT lovely|RB place|NN to|TO walk|VB with|IN good|JJ music|NN in|IN the|DT cathedral|JJ says|VBZ elizabeth|NN trotman|NN a|DT poised|VBN 79yearold|JJ </s>|S_END
+<s>|S_START good|JJ shops|NNS and|CC an|DT excellent|NN library|NN adds|VBZ terrie|NN kimberley|NN who|WP is|VBZ 65|CD </s>|S_END
+<s>|S_START besides|IN she|PRP says|VBZ it|PRP is|VBZ good|JJ to|TO be|VB near|IN friends|NNS and|CC family|NN “you|PRP could|MD be|VB by|IN the|DT seaside|NN and|CC lonely”|NNP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT 1970s|CD retired|VBN britons|NNS began|VBD to|TO cluster|NN in|IN seaside|NN town|NN </s>|S_END
+<s>|S_START uch|JJ places|NNS were|VBD associated|VBN with|IN leisure|NN thanks|NNS to|TO memories|NNS of|IN family|NN beach|NN holiday|NN </s>|S_END
+<s>|S_START they|PRP had|VBD bingo|RB parlours|NNS comfortable|JJ restaurants|NNS and|CC bungalow|VB </s>|S_END
+<s>|S_START many|JJ seaside|NN towns|NNS are|VBP still|RB old|JJ </s>|S_END
+<s>|S_START but|CC the|DT retired|VBN are|VBP moving|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START john|NN shepherd|VBD a|DT geographer|NN at|IN birkbeck|NN a|DT college|NN of|IN the|DT university|NN of|IN london|NN has|VBZ collected|VBN demographic|JJ data|NNS on|IN englands|NNS small|JJ town|NN </s>|S_END
+<s>|S_START he|PRP finds|VBZ that|IN the|DT retired|VBN populations|NNS of|IN seaside|NN settlements|NNS are|VBP now|RB growing|VBG only|RB slowly|RB see|VB map|NN </s>|S_END
+<s>|S_START a|DT few|JJ coastal|JJ towns|NNS too|RB large|JJ or|CC too|RB small|JJ to|TO make|VB mr|NN shepherds|NNS list|VBP are|VBP actually|RB losing|VBG old|JJ people|NNS including|VBG bournemouth|NN in|IN dorset|NN salcombe|NN in|IN devon|NN and|CC southwold|VBD in|IN suffolk|NN </s>|S_END
+<s>|S_START meanwhile|RB small|JJ towns|NNS inland|VBP are|VBP filling|VBG up|RP with|IN retiree|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP dont|VBP like|IN to|TO be|VB beside|JJ the|DT seaside|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lichfield|NN is|VBZ about|IN as|RB far|RB from|IN the|DT sea|NN as|IN it|PRP is|VBZ possible|JJ to|TO get|VB in|IN england|NN </s>|S_END
+<s>|S_START as|IN the|DT folks|NNS at|IN beacon|NN park|NN attest|NN it|PRP is|VBZ extremely|RB pretty|RB with|IN an|DT elegant|JJ sandstone|NN cathedral|JJ and|CC appealing|VBG shop|NN </s>|S_END
+<s>|S_START thanks|NNS to|TO a|DT combination|NN of|IN inmigration|NN and|CC people|NNS not|RB leaving|VBG when|WRB they|PRP retire|VBP the|DT population|NN of|IN over65s|NNP in|IN the|DT district|NN has|VBZ increased|VBN from|IN 14500|CD to|TO 19600|CD since|IN 2001|CD </s>|S_END
+<s>|S_START in|IN that|DT spell|NN the|DT old|JJ have|VBP accounted|VBN for|IN more|JJR than|IN 90|CD of|IN lichfields|NNS net|JJ population|NN growth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START part|NN of|IN the|DT reason|NN for|IN this|DT shift|NN is|VBZ mathematical|JJ </s>|S_END
+<s>|S_START many|JJ seaside|NN towns|NNS are|VBP already|RB old|JJ so|IN it|PRP is|VBZ hard|RB for|IN them|PRP to|TO become|VB much|JJ older|NN </s>|S_END
+<s>|S_START cost|NN is|VBZ another|DT reason|NN says|VBZ danny|JJ dorling|NN of|IN sheffield|NN university|NN </s>|S_END
+<s>|S_START coastal|JJ towns|NNS like|IN aldeburgh|NN and|CC southwold|VBD in|IN suffolk|NN have|VBP become|VBN so|RB fashionable|JJ that|IN secondhome|NN buyers|NNS with|IN london|NN jobs|NNS are|VBP pricing|VBG out|RP retiree|JJ </s>|S_END
+<s>|S_START but|CC the|DT most|RBS intriguing|JJ explanation|NN is|VBZ utility|NN </s>|S_END
+<s>|S_START increasingly|RB the|DT old|JJ simply|NN prefer|NN to|TO live|VB inland|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ rapidlyageing|VBG small|JJ towns|NNS share|NN a|DT characteristic|JJ which|WDT mr|NN shepherd|VBD calls|NNS “niceness”|-NONE- </s>|S_END
+<s>|S_START they|PRP tend|VBP to|TO have|VB cathedral|JJ </s>|S_END
+<s>|S_START they|PRP are|VBP well|RB kept|IN and|CC quiet|JJ with|IN not|RB too|RB many|JJ student|NN </s>|S_END
+<s>|S_START by|IN contrast|NN many|JJ british|JJ seaside|NN towns|NNS are|VBP rather|RB decrepit|JJ </s>|S_END
+<s>|S_START the|DT generation|NN now|RB approaching|VBG retirement|NN has|VBZ seen|VBN nicer|NN </s>|S_END
+<s>|S_START “theyve|JJ been|VBN abroad|RB </s>|S_END
+<s>|S_START they|PRP have|VBP a|DT different|JJ view|NN of|IN what|WP a|DT seaside|NN place|NN should|MD be”|VB says|VBZ mr|NN shepherd|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ageing|NN of|IN lichfield|NN presents|NNS challenges|NNS to|TO those|DT who|WP run|VBN it|PRP </s>|S_END
+<s>|S_START ince|NN the|DT death|NN of|IN an|DT old|JJ woman|NN in|IN a|DT fire|NN the|DT council|NN has|VBZ prodded|VBN social|JJ workers|NNS police|NNS and|CC fire|VB fighters|NNS to|TO alert|VB each|DT other|JJ to|TO the|DT needs|NNS of|IN the|DT most|RBS vulnerable|JJ </s>|S_END
+<s>|S_START more|JJR retirement|NN homes|NNS are|VBP being|VBG built|VBN </s>|S_END
+<s>|S_START older|JJR residents|NNS keep|VBP officials|NNS busy|JJ with|IN complaints|NNS about|IN behaviour|PRP$ they|PRP see|VBP as|IN antisocial—including|JJ teenagers|NNS playing|VBG football|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN the|DT most|JJS part|NN though|IN local|JJ politics|NNS revolves|NNS around|IN small|JJ changes|NNS to|TO improve|VB the|DT quality|NN of|IN life|NN in|IN an|DT older|NN town|NN according|VBG to|TO nina|VB dawes|NNS chief|NN executive|NN of|IN lichfield|NN council|NN </s>|S_END
+<s>|S_START a|DT few|JJ years|NNS ago|RB she|PRP says|VBZ one|CD street|NN had|VBD “too|RB much|RB revelry”|-NONE- late|JJ at|IN night|NN </s>|S_END
+<s>|S_START the|DT council|NN installed|VBD a|DT taxi|NN rank|NN to|TO take|VB clubgoers|NNS home|NN quickly|RB and|CC trimmed|VBD the|DT hours|NNS of|IN nearby|JJ takeaway|NN </s>|S_END
+<s>|S_START the|DT greatest|JJS and|CC most|JJS subtle|JJ challenge|NN for|IN a|DT place|NN like|IN lichfield|NN is|VBZ the|DT preservation|NN of|IN nicene|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,79 @@
+<p>|P_START
+<s>|S_START william|NN shatner|NN is|VBZ back|RB in|IN priceline|NN ads|NNS starting|VBG thursday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN priceline|NN is|VBZ bringing|VBG back|RB popular|JJ pitchman|NN william|NN shatner|NN in|IN a|DT new|JJ television|NN ad|NN seven|CD months|NNS after|IN killing|VBG his|PRP$ character|NN in|IN a|DT bus|NN crash|NN spot|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT online|NN travel|NN site|NN has|VBZ seen|VBN its|PRP$ own|JJ highflying|VBG stock|NN plunge|NN in|IN the|DT past|JJ week|NN on|IN bad|JJ news|NN out|IN of|IN its|PRP$ european|JJ unit|NN although|IN shares|NNS were|VBD up|RB 15|CD in|IN midday|NN trading|NN wednesday|NN on|IN the|DT news|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT new|JJ spot|NN which|WDT is|VBZ now|RB available|JJ online|NN and|CC will|MD start|VB airing|VBG on|IN tv|NN on|IN thursday|NN doesnt|NN explain|NN how|WRB shatners|NNS priceline|VBP negotiator|NN character|NN survived|VBD the|DT fiery|NN bus|VBZ crash|NN shown|NN in|IN the|DT january|JJ ad|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ad|NN shows|VBZ shatner|NN on|IN a|DT beach|NN wearing|VBG a|DT business|NN suit|NN with|IN the|DT legs|NNS rolled|VBD up|RP and|CC holding|VBG a|DT surfboard|NN </s>|S_END
+<s>|S_START an|DT executive|NN comes|VBZ up|IN to|TO him|PRP and|CC says|VBZ youve|JJ been|VBN busy|JJ for|IN a|DT dead|JJ man|NN </s>|S_END
+<s>|S_START after|IN you|PRP jumped|VBD ship|NN in|IN bangkok|NN i|PRP thought|VBD id|JJ lost|NN you|PRP </s>|S_END
+<s>|S_START shatner|NN replies|NNS surfing|VBG is|VBZ my|PRP$ life|NN now|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP then|RB launches|VBZ into|IN his|PRP$ spiel|NN about|IN priceline|NN saving|NN customers|NNS money|NN </s>|S_END
+<s>|S_START the|DT executive|NN says|VBZ you|PRP still|RB have|VBP it|PRP and|CC shatner|NN responds|NNS ill|VBP always|RB have|VBP it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shatner|NN best|JJS known|VBN for|IN his|PRP$ role|NN as|IN deathdefying|NN james|NNS kirk|VBP in|IN star|NN trek|NN remained|VBD under|IN contract|NN with|IN priceline|NN even|RB while|IN he|PRP was|VBD missing|VBG from|IN its|PRP$ ads|NNS </s>|S_END
+<s>|S_START his|PRP$ contract|NN runs|VBZ through|IN early|JJ next|JJ year|NN and|CC while|IN it|PRP hasnt|VBD been|VBN extended|VBN he|PRP said|VBD wednesday|NN that|IN he|PRP expects|VBZ it|PRP will|MD be|VB especially|RB given|VBN the|DT new|JJ campaign|NN </s>|S_END
+<s>|S_START he|PRP has|VBZ been|VBN the|DT companys|NNS spokesman|NN for|IN more|JJR than|IN 14|CD years|NNS almost|RB from|IN its|PRP$ start|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shatner|NN who|WP is|VBZ 81|CD joked|VBN that|IN his|PRP$ death|NN might|MD have|VB been|VBN a|DT lucky|JJ break|NN given|VBN the|DT ensuing|NN outcry|NN to|TO bring|VB him|PRP back|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START they|PRP told|VBD me|PRP what|WP they|PRP were|VBD thinking|VBG and|CC i|PRP told|VBD them|PRP that|IN was|VBD a|DT good|JJ idea|NN he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START priceline|NN wont|VBD comment|NN on|IN the|DT deal|NN or|CC its|PRP$ longterm|NN plans|NNS for|IN shatner|NN but|CC agreed|VBD its|PRP$ customers|NNS overwhelmingly|RB asked|VBD for|IN his|PRP$ return|NN </s>|S_END
+<s>|S_START in|IN a|DT poll|NN conducted|VBN by|IN the|DT company|NN 94|CD said|VBD they|PRP missed|VBD the|DT negotiator|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pricelines|NNS european|VBP woes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START priceline|NN pcln|NN shares|NNS are|VBP down|RB 16|CD since|IN its|PRP$ aug|NN 8|CD announcement|NN that|IN a|DT drop|NN in|IN revenue|NN in|IN europe|NN due|JJ to|TO economic|JJ weakness|NN would|MD hurt|VB its|PRP$ earnings|NNS </s>|S_END
+<s>|S_START and|CC on|IN monday|NN google|NN goog|NN fortune|NN 500|CD announced|VBD a|DT purchase|NN of|IN frommers|NNS travel|NN guides|VBZ </s>|S_END
+<s>|S_START shares|NNS of|IN priceline|NN dropped|VBD 1|CD when|WRB the|DT news|NN was|VBD announced|VBN but|CC came|VBD back|RP to|TO close|VB only|RB 02|CD lower|JJR </s>|S_END
+<s>|S_START even|RB with|IN the|DT recent|JJ slide|NN the|DT stock|NN is|VBZ still|RB up|IN 225|CD for|IN the|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START priceline|NN spokesman|NN brian|NN ek|NN said|VBD the|DT shatner|NN spot|NN had|VBD been|VBN in|IN the|DT works|NNS for|IN about|IN a|DT month|NN long|RB before|IN the|DT sales|NNS drop|NN in|IN europe|NN or|CC googles|NNS movement|NN into|IN the|DT travel|NN space|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START itd|NN be|VB nice|JJ if|IN we|PRP could|MD turn|VB a|DT commercial|JJ that|IN fast|JJ but|CC thats|NNS not|RB the|DT way|NN it|PRP works|VBZ he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP denied|VBD it|PRP was|VBD pricelines|NNS intention|NN all|DT along|JJ to|TO bring|VB back|RB the|DT negotiator|NN character|NN saying|VBG the|DT decision|NN was|VBD made|VBN after|IN the|DT january|JJ spot|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shatners|NNS theory|VBP about|IN his|PRP$ characters|NNS survival|NN includes|VBZ him|PRP being|VBG thrown|NN clear|NN of|IN the|DT explosion|NN doing|VBG a|DT triple|NN somersault|NN and|CC then|RB being|VBG swept|NN down|IN the|DT river|NN that|IN the|DT bus|NN plummeted|VBD into|IN </s>|S_END
+<s>|S_START but|CC ek|VBP said|VBN he|PRP doesnt|VBD think|VBP future|JJ ads|NNS will|MD do|VB any|DT more|RBR to|TO explain|VB shatners|NNS survival|NN of|IN the|DT bus|NN crash|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT mystery|NN is|VBZ half|DT the|DT fun|NN of|IN it|PRP he|PRP said|VBD </s>|S_END
+</p>|P_END
+

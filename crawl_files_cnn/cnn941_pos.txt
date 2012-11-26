@@ -1,0 +1,90 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN apple|NN on|IN wednesday|NN unveiled|VBD a|DT thinner|NN taller|NN faster|NN iphone|NN 5|CD at|IN a|DT highly|RB anticipated|VBN event|NN in|IN san|NN francisco|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT device|NN which|WDT is|VBZ 18|CD thinner|NN and|CC 20|CD lighter|NN than|IN the|DT iphone|NN 4s|CD is|VBZ the|DT thinnest|JJS smartphone|NN in|IN the|DT world|NN according|VBG to|TO apple|VB </s>|S_END
+<s>|S_START with|IN a|DT fourinch|NN screen|NN the|DT iphone|NN 5|CD allows|NNS for|IN five|CD rows|NNS of|IN apps|NNS one|CD more|JJR than|IN previous|JJ versions|NNS of|IN the|DT device|NN which|WDT sported|VBN a|DT 35inch|JJ screen|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apple|NN said|VBD the|DT iphone|NN 5s|CD processor|NN speed|NN is|VBZ twice|NN as|IN fast|JJ as|IN the|DT previous|JJ version|NN an|DT advance|NN made|VBN possible|JJ by|IN the|DT companys|NNS new|JJ a6|NNP chip|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT iphone|NN 5|CD is|VBZ also|RB the|DT first|JJ apple|NN smartphone|NN to|TO have|VB 4glte|JJ network|NN connectivity|NN which|WDT allows|VBZ for|IN speeds|NNS of|IN up|IN to|TO 10|CD times|NNS faster|JJR than|IN 3g|CD or|CC about|IN the|DT same|JJ as|IN the|DT average|NN home|NN broadband|NN connection|NN </s>|S_END
+<s>|S_START in|IN the|DT united|VBN states|NNS the|DT iphone|NN 5|CD will|MD be|VB compatible|JJ with|IN the|DT lte|NN networks|VBZ supported|VBN by|IN verizon|NN vz|NN fortune|NN 500|CD att|NN t|NN fortune|NN 500|CD and|CC sprint|NN s|NNS fortune|VBP 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT new|JJ smartphone|NN features|NNS an|DT improved|VBN isight|NN camera|NN with|IN a|DT better|JJR ability|NN to|TO take|VB lowlight|NN photos|NNS and|CC a|DT new|JJ mode|NN that|WDT allows|VBZ for|IN panoramic|JJ shots|NNS </s>|S_END
+<s>|S_START it|PRP also|RB allows|VBZ users|NNS to|TO take|VB photos|NNS while|IN shooting|VBG videos|NNS an|DT increasingly|RB popular|JJ feature|NN found|VBD on|IN rival|NN smartphones|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD story|NN see|NN the|DT evolution|NN of|IN the|DT iphone|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT new|JJ feature|NN correctly|RB foreshadowed|VBD by|IN rumors|NNS is|VBZ lightning|VBG apples|NNS new|JJ eightpin|NN connector|NN which|WDT is|VBZ significantly|RB smaller|JJR than|IN the|DT 30pin|CD connector|NN that|WDT apple|NN has|VBZ used|VBN since|IN 2003|CD </s>|S_END
+<s>|S_START apple|NN will|MD sell|VB adapters|NNS so|IN people|NNS can|MD still|RB use|VB old|JJ chargers|NNS and|CC legacy|NN connectors|NNS but|CC theyre|NN pricey|NN </s>|S_END
+<s>|S_START the|DT gizmos|NNS will|MD cost|VB $|$ 29|CD each|DT or|CC $|$ 39|CD for|IN versions|NNS with|IN attached|JJ cables|NNS according|VBG to|TO a|DT listing|NN in|IN the|DT apple|NN store|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT iphone|NN 5|CD will|MD go|VB on|IN sale|NN on|IN sept|NN 21|CD starting|VBG at|IN $|$ 199|CD for|IN the|DT 16gigabyte|JJ version|NN with|IN a|DT new|JJ twoyear|NN contract|NN </s>|S_END
+<s>|S_START larger|JJR 32|CD gb|NN and|CC 64|CD gb|NN versions|NNS will|MD cost|VB $|$ 299|CD and|CC $|$ 399|CD respectively|RB </s>|S_END
+<s>|S_START apple|NN will|MD begin|VB taking|VBG preorders|NNS on|IN sept|NN 14|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN apple|NN has|VBZ done|VBN before|IN the|DT two|CD previous|JJ iterations|NNS of|IN the|DT iphone|NN will|MD continue|VB to|TO be|VB sold|VBN at|IN reduced|VBN prices|NNS </s>|S_END
+<s>|S_START the|DT 16|CD gb|NN iphone|NN 4s|CD will|MD get|VB a|DT $|$ 100|CD price|NN cut|VBD selling|VBG for|IN $|$ 99|CD and|CC the|DT iphone|NN 4|CD will|MD be|VB free|JJ with|IN a|DT twoyear|JJ contract|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT updated|VBN ios|NNS 6|CD the|DT iphones|NNS new|JJ software|NN will|MD be|VB available|JJ for|IN download|NN on|IN most|JJS older|JJR versions|NNS of|IN the|DT iphone|NN on|IN sept|NN 19|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shares|NNS of|IN apple|JJ aapl|NN fortune|NN 500|CD were|VBD up|RB slightly|RB by|IN the|DT end|NN of|IN the|DT event|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN its|PRP$ worldwide|NN developers|NNS conference|NN in|IN june|NN apple|NN had|VBD already|RB announced|VBN many|JJ of|IN the|DT software|NN features|NNS that|WDT the|DT new|JJ iphone|NN 5|CD will|MD possess|VB </s>|S_END
+<s>|S_START they|PRP include|VBP an|DT allnew|JJ maps|NNS app|VBP with|IN turnbyturn|NN navigation|NN additional|JJ queries|NNS that|WDT siri|NN can|MD answer|VB facebook|NN fb|NN integration|NN facetime|NN over|IN cellular|JJ networks|NNS and|CC a|DT passbook|NN app|NN that|WDT stores|VBZ all|DT of|IN your|PRP$ coupons|NNS and|CC boarding|VBG passes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ahead|RB of|IN the|DT announcement|NN wall|NN street|NN analysts|NNS predicted|VBD that|IN the|DT iphone|NN 5|CD would|MD set|VB sales|NNS records|NNS </s>|S_END
+<s>|S_START the|DT industrys|NNS median|JJ prediction|NN is|VBZ that|IN apple|NN will|MD sell|VB 45|CD million|CD iphone|NN 5|CD units|NNS in|IN the|DT first|JJ three|CD months|NNS after|IN it|PRP hits|VBZ store|JJR shelves|NNS </s>|S_END
+<s>|S_START it|PRP sold|VBD 37|CD million|CD in|IN the|DT first|JJ quarter|NN after|IN the|DT iphone|NN 4s|CD went|NN on|IN sale|NN last|JJ fall|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC industry|NN research|NN firm|NN npd|NN cautioned|VBD that|IN sales|NNS may|MD be|VB slower|JJR than|IN expected|VBN at|IN least|JJS in|IN the|DT us|PRP because|IN the|DT smartphone|NN market|NN is|VBZ getting|VBG saturated|VBN </s>|S_END
+<s>|S_START blowing|VBG away|RB all|DT weakened|VBN competition|NN as|IN apple|NN has|VBZ done|VBN to|TO this|DT point|NN makes|VBZ it|PRP infinitely|RB harder|JJR to|TO continue|VB to|TO blow|VB away|RP the|DT remainder|NN analyst|NN stephen|RB baker|NN wrote|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ipod|NN in|IN addition|NN to|TO the|DT iphone|NN unveiling|VBG apple|NN announced|VBD two|CD new|JJ updates|NNS to|TO the|DT ipod|NN which|WDT will|MD go|VB on|IN sale|NN in|IN october|NN </s>|S_END
+<s>|S_START the|DT new|JJ ipod|NN touch|NN was|VBD modeled|VBN after|IN the|DT iphone|NN 5|CD with|IN a|DT fourinch|NN screen|NN a|DT faster|NN processor|NN and|CC a|DT thinner|NN design|NN </s>|S_END
+<s>|S_START the|DT device|NN will|MD feature|VB siri|NN and|CC five|CD different|JJ colors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ipod|NN nano|NN got|VBD an|DT even|RB more|RBR radical|JJ redesign|NN </s>|S_END
+<s>|S_START the|DT tiny|NN music|NN player|NN is|VBZ now|RB 38|CD thinner|NN than|IN its|PRP$ precessor|NN and|CC it|PRP comes|VBZ with|IN a|DT larger|JJR 25inch|JJ touchscreen|NN bluetooth|NN widescreen|NN video|NN playback|NN and|CC controls|NNS on|IN the|DT side|NN of|IN the|DT device|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apple|NN also|RB showed|VBD off|RP the|DT new|JJ itunes|NNS 11|CD with|IN an|DT improved|VBN layout|IN and|CC icloud|NN integration|NN </s>|S_END
+<s>|S_START the|DT new|JJ itunes|NNS is|VBZ scheduled|VBN to|TO launch|VB in|IN october|NN </s>|S_END
+<s>|S_START the|DT company|NN unveiled|VBD new|JJ earpod|NN headphones|NNS too|RB which|WDT attempt|NN to|TO solve|VB the|DT one|CD size|NN fits|NNS all|DT problem|NN with|IN a|DT contoured|VBN design|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apple|NN did|VBD not|RB announce|VB a|DT widely|RB expected|VBN seven|CD or|CC eightinch|NN ipad|NN mini|NN that|WDT the|DT company|NN is|VBZ believed|VBN to|TO be|VB working|VBG on|IN or|CC an|DT overhaul|JJ for|IN apple|NN tv|NN </s>|S_END
+<s>|S_START those|DT products|NNS would|MD have|VB overshadowed|VBN the|DT iphone|NN which|WDT was|VBD the|DT star|NN of|IN the|DT day|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,139 @@
+<p>|P_START
+<s>|S_START money|NN magazine|NN united|VBD states|NNS bonds|NNS are|VBP no|DT longer|JJR officially|RB rated|VBN triplea|NN at|IN least|JJS in|IN the|DT eyes|NNS of|IN standard|JJ poors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC while|IN moodys|NNS and|CC fitch|NN the|DT other|JJ leading|VBG rating|NN agencies|NNS have|VBP affirmed|VBN the|DT top|JJ rating|NN they|PRP too|RB have|VBP worried|VBN about|IN the|DT longterm|NN prospects|NNS for|IN the|DT united|VBN states|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START none|NN of|IN this|DT necessarily|NN means|VBZ disaster|NN for|IN your|PRP$ money|NN </s>|S_END
+<s>|S_START the|DT united|VBN states|NNS has|VBZ not|RB been|VBN downgraded|VBN to|TO junk|NN status|NN like|IN say|NN greece|NN </s>|S_END
+<s>|S_START the|DT rating|NN is|VBZ still|RB very|RB high|JJ just|RB not|RB tops|NNS </s>|S_END
+<s>|S_START see|NN sp|NN downgrades|VBZ us|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START still|RB there|EX could|MD be|VB ripple|JJ effects|NNS </s>|S_END
+<s>|S_START heres|NNS where|WRB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bad|JJ news|NN for|IN the|DT economy|NN generally|RB means|VBZ tough|JJ times|NNS for|IN stocks|NNS </s>|S_END
+<s>|S_START but|CC history|NN shows|VBZ that|IN when|WRB a|DT country|NN loses|VBZ its|PRP$ aaa|NN credit|NN rating|NN its|PRP$ not|RB necessarily|RB terrible|JJ news|NN for|IN that|DT nations|NNS stock|NN market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB canada|NN lost|VBD its|PRP$ aaa|NN rating|NN in|IN april|NN 1993|CD for|IN instance|NN the|DT countrys|NNS stocks|NNS gained|VBD more|JJR than|IN 15|CD in|IN the|DT subsequent|JJ year|NN </s>|S_END
+<s>|S_START the|DT tokyo|NN stock|NN market|NN climbed|VBD more|JJR than|IN 25|CD in|IN the|DT 12|CD months|NNS after|IN moodys|NNS downgraded|VBD japan|NN in|IN november|NN 1998|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT very|RB least|JJS a|DT downgrade|NN could|MD add|VB more|RBR fear|JJ and|CC uncertainty|NN to|TO an|DT already|RB sluggish|JJ economic|JJ recovery|NN market|NN strategists|NNS say|VBP </s>|S_END
+<s>|S_START as|IN a|DT result|NN they|PRP advise|VBP investors|NNS to|TO dial|JJ down|IN risk|NN in|IN their|PRP$ equity|NN portfolios|NNS by|IN gravitating|VBG toward|IN shares|NNS of|IN larger|JJR stable|NN companies|NNS but|CC not|RB just|RB any|DT large|JJ caps|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mark|NN luschini|NN chief|NN investment|NN strategist|NN for|IN janney|NN montgomery|NN scott|NN favors|NNS boring|VBG blue|JJ chip|NN stocks|NNS with|IN pristine|NN balance|NN sheets|NNS and|CC that|IN are|VBP globally|RB diversified|JJ and|CC therefore|RB benefit|JJ from|IN faster|JJR growth|NN outside|IN the|DT us|PRP especially|RB in|IN the|DT emerging|NN markets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START why|WRB not|RB just|RB go|VB directly|RB to|TO emerging|VBG market|NN stocks|NNS </s>|S_END
+<s>|S_START for|IN starters|NNS usbased|VBN multinationals|NNS are|VBP a|DT safer|NN bet|NN than|IN volatile|JJ emerging|NN market|NN shares|NNS especially|RB in|IN times|NNS of|IN economic|JJ uncertainty|NN </s>|S_END
+<s>|S_START longforgotten|RB us|PRP multinationals|NNS are|VBP trading|VBG at|IN much|JJ more|JJR attractive|JJ values|NNS than|IN emerging|VBG market|NN stocks|NNS which|WDT have|VBP been|VBN on|IN a|DT tear|JJ for|IN the|DT past|JJ decade|NN </s>|S_END
+<s>|S_START and|CC largecap|NN multinationals|NNS tend|VBP to|TO pay|VB big|JJ dividends|NNS which|WDT come|VBN in|IN handy|NN during|IN periods|NNS of|IN slow|JJ growth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT year|NN following|VBG canadas|NNS downgrade|NN in|IN 1993|CD yields|NNS on|IN 10year|JJ canadian|JJ bonds|NNS jumped|VBD from|IN 76|CD to|TO 81|CD </s>|S_END
+<s>|S_START so|IN the|DT could|MD be|VB an|DT uptick|NN in|IN us|PRP bond|NN yields|NNS but|CC experts|NNS didnt|VBP think|VBP it|PRP would|MD be|VB big|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS because|IN treasuries|NNS unlike|IN canadian|JJ securities|NNS are|VBP considered|VBN a|DT default|NN investment|NN for|IN global|JJ investors|NNS seeking|VBG safety|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX isnt|NN a|DT fund|NN that|WDT owns|VBZ treasuries|NNS just|RB because|IN theyre|JJ rated|VBN aaa|NN says|VBZ ben|VBN inker|NN head|NN of|IN asset|NN allocation|NN for|IN the|DT asset|NN management|NN firm|NN gmo|NN </s>|S_END
+<s>|S_START they|PRP own|VBP treasuries|NNS because|IN well|RB theyre|RB treasuries|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT said|VBD a|DT downgrade|NN would|MD likely|RB force|VB investors|NNS to|TO look|VB at|IN bond|NN issuers|NNS with|IN balance|NN sheets|NNS unlike|IN the|DT uss|NN that|IN are|VBP improving|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN youre|NN a|DT bond|NN holder|NN you|PRP want|VBP the|DT most|RBS creditworthy|JJ securities|NNS says|VBZ anthony|NN valeri|NN fixed|VBN income|NN strategist|NN for|IN lpl|NN financial|JJ </s>|S_END
+<s>|S_START that|DT would|MD mean|VB highquality|NN corporate|JJ bonds|NNS and|CC emerging|VBG market|NN debt|NN he|PRP says|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN deleveraging|VBG over|IN the|DT past|JJ three|CD years|NNS us|PRP corporations|NNS are|VBP sitting|VBG on|IN nearly|RB $|$ 2|CD trillion|CD in|IN cash|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN for|IN emerging|NN market|NN countries|NNS their|PRP$ ratio|NN of|IN debttogdp|NN is|VBZ falling|VBG as|IN the|DT same|JJ ratio|NN rises|NNS in|IN the|DT us|PRP and|CC europe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START plus|RB americans|VBZ who|WP buy|NN emerging|VBG market|NN debt|NN could|MD see|VB their|PRP$ investments|NNS rise|VBP simply|RB because|IN emerging|VBG market|NN currencies|NNS are|VBP strengthening|VBG against|IN the|DT us|NN dollar|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT relative|JJ safety|NN of|IN the|DT different|JJ vehicles|NNS in|IN which|WDT you|PRP might|MD stash|VB your|PRP$ cash|NN fdicinsured|VBD accounts|NNS money|NN market|NN funds|NNS or|CC shortterm|NN treasuries|NNS for|IN example|NN wouldnt|NN be|VB so|RB affected|VBN by|IN a|DT downgrade|NN that|WDT youd|NN need|VBP to|TO shift|VB your|PRP$ money|NN around|IN say|NN experts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START skittish|JJ investors|NNS who|WP wouldnt|NN want|VBP to|TO park|VB their|PRP$ cash|NN in|IN downgraded|JJ treasuries|NNS might|MD feel|VB more|RBR secure|JJ by|IN putting|NN that|IN money|NN into|IN an|DT fdicbacked|JJ bank|NN account|NN instead|RB since|IN it|PRP would|MD be|VB protected|VBN by|IN deposit|NN insurance|NN says|VBZ fpa|NN new|JJ income|NN manager|NN thomas|NNS atteberry|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT increased|VBN sense|NN of|IN security|NN would|MD be|VB little|RB more|JJR than|IN psychological|JJ says|NNS peter|RBR crane|NN president|NN of|IN crane|NN data|NNS which|WDT tracks|NNS the|DT moneymarket|NN fund|NN industry|NN after|IN all|DT like|IN treasuries|NNS fdicinsured|VBN accounts|NNS are|VBP ultimately|RB backed|VBN by|IN the|DT same|JJ entity|NN the|DT us|PRP government|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN for|IN money|NN market|NN mutual|JJ funds|NNS which|WDT are|VBP not|RB insured|VBN the|DT effect|NN of|IN a|DT downgrade|NN is|VBZ not|RB expected|VBN to|TO be|VB dramatic|JJ since|IN those|DT funds|NNS generally|RB invest|VBP in|IN shortterm|NN debt|NN and|CC discussion|NN of|IN a|DT downgrade|NN has|VBZ so|RB far|RB been|VBN limited|VBN to|TO longterm|VB us|PRP bonds|NNS says|VBZ mike|IN krasner|NN managing|VBG editor|NN of|IN imoneynetcom|NN which|WDT monitors|NNS the|DT money|NN fund|NN industry|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN a|DT downgrade|NN us|PRP debt|NN would|MD still|RB be|VB considered|VBN a|DT safe|NN haven|VBN </s>|S_END
+<s>|S_START double|JJ a|DT will|MD become|VB the|DT new|JJ triple|NN a|DT says|VBZ crane|NN because|IN there|EX simply|RB isnt|NN a|DT viable|JJ competitor|NN to|TO treasuries|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT price|NN of|IN consumer|NN credit|NN would|MD be|VB pegged|VBN less|JJR to|TO a|DT treasury|NN downgrade|NN than|IN it|PRP would|MD be|VB to|TO bond|VB investors|NNS overall|JJ confidence|NN says|VBZ scott|NN hoyt|NN senior|JJ director|NN of|IN consumer|NN economics|NNS for|IN moodys|NNS analytics|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN now|RB investors|NNS seem|VBP optimistic|JJ about|IN the|DT future|NN but|CC more|RBR cautious|JJ about|IN the|DT next|JJ few|JJ months|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START longerterm|NN treasuries|NNS like|IN the|DT benchmark|NN 10year|JJ are|VBP in|IN greater|JJR demand|NN while|IN many|JJ shorterterm|NN bonds|NNS are|VBP seeing|VBG demand|NN fall|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START because|IN yields|NNS and|CC corresponding|VBG interest|NN rates|NNS move|VB inversely|RB to|TO price|NN rates|NNS that|WDT track|NN shorterterm|NN treasuries|NNS are|VBP more|RBR likely|JJ to|TO see|VB a|DT bump|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rates|NNS on|IN car|NN loans|NNS which|WDT follow|VBP shorterterm|NN rates|NNS like|IN the|DT twoyear|JJ treasury|NN or|CC libor|NN the|DT london|NN interbank|NN offered|VBD rate|NN could|MD go|VB up|RP but|CC not|RB enough|RB to|TO really|RB hit|VB consumers|NNS says|VBZ paul|JJ cuevas|NNS director|NN of|IN auto|NN finance|NN at|IN jd|NN </s>|S_END
+<s>|S_START power|NN associates|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS mortgage|NN rates|NNS however|RB track|VBP the|DT 10year|JJ treasury|NN yield|NN which|WDT continues|VBZ to|TO fall|VB </s>|S_END
+<s>|S_START adjustable|JJ rate|NN mortgage|NN holders|NNS could|MD be|VB slightly|RB more|JJR vulnerable|JJ because|IN arms|NNS are|VBP typically|RB tied|VBN to|TO shorterterm|VB interest|NN rate|NN movements|NNS says|VBZ lawrence|NN yun|NN chief|NN economist|NN for|IN the|DT national|JJ association|NN of|IN realtors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN students|NNS and|CC parents|NNS who|WP rely|RB on|IN private|JJ student|NN loans|NNS any|DT jump|NN in|IN borrowing|NN costs|NNS for|IN lenders|NNS would|MD be|VB passed|VBN on|IN to|TO borrowers|NNS says|VBZ mark|NN kantrowitz|NN publisher|NN of|IN finaidorg|NN and|CC fastwebcom|NN </s>|S_END
+<s>|S_START federal|JJ student|NN loan|NN rates|NNS would|MD remain|VB fixed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START credit|NN card|NN rates|NNS are|VBP pegged|VBN to|TO the|DT prime|JJ rate|NN which|WDT moves|NNS with|IN the|DT federal|JJ funds|NNS rate|NN </s>|S_END
+<s>|S_START if|IN the|DT prime|JJ rate|NN goes|VBZ up|RP consumers|NNS could|MD be|VB hit|VBN with|IN credit|NN card|NN rate|NN hikes|VBZ says|VBZ beverly|RB blair|JJ harzog|NN of|IN creditcom|NN </s>|S_END
+<s>|S_START even|RB if|IN the|DT rate|NN doesnt|NN go|VB up|RP she|PRP says|VBZ card|NN issuers|NNS spooked|VBD by|IN a|DT credit|NN downgrade|NN could|MD raise|VB your|PRP$ interest|NN rates|NNS anywhere|RB from|IN 1|CD to|TO 5|CD but|CC only|RB if|IN youve|JJ had|VBD your|PRP$ card|NN for|IN more|JJR than|IN a|DT year |NN </s>|S_END
+</p>|P_END
+

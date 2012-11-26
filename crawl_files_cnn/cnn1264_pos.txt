@@ -1,0 +1,132 @@
+<p>|P_START
+<s>|S_START president|NN obama|VBD looking|VBG at|IN the|DT gm|NN plugin|NN car|NN being|VBG built|VBN in|IN detroit|NN for|IN export|NN to|TO europe|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT us|PRP auto|NN industrys|NNS recovery|VBP is|VBZ one|CD of|IN the|DT biggest|JJS success|NN stories|NNS of|IN the|DT last|JJ four|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START american|NN automakers|NNS are|VBP reporting|VBG improving|VBG sales|NNS and|CC record|VB profits|NNS and|CC hiring|VBG additional|JJ workers|NNS to|TO meet|VB surging|NN demand|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC president|NN obamas|NNS bailout|IN of|IN the|DT auto|NN industry|NN in|IN 2009|CD is|VBZ still|RB a|DT source|NN of|IN great|JJ controversy|NN in|IN this|DT years|NNS presidential|JJ election|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START treasury|NN still|RB owns|VBZ more|JJR than|IN 30|CD of|IN gms|NNS shares|NNS </s>|S_END
+<s>|S_START automakers|NNS stock|NN prices|NNS are|VBP way|RB down|IN meaning|NN that|IN taxpayers|NNS havent|VBP been|VBN able|JJ to|TO recoup|VB all|DT of|IN the|DT bailout|NN money|NN given|VBN to|TO general|JJ motors|NNS gm|VBP fortune|NN 500|CD and|CC chrysler|NN group|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START here|RB are|VBP the|DT three|CD big|JJ questions|NNS voters|NNS should|MD ask|VB themselves|PRP when|WRB deciding|VBG whos|NNS right|RB about|IN the|DT auto|NN bailout|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP would|MD have|VB happened|VBN without|IN the|DT bailouts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ central|JJ to|TO the|DT election|NN debate|NN over|IN the|DT bailout|NN </s>|S_END
+<s>|S_START mitt|NN romney|NN claims|VBZ that|IN if|IN gm|NN and|CC chrysler|NN group|NN had|VBD gone|VBN through|IN a|DT privatelyfinanced|VBN bankruptcy|NN process|NN they|PRP would|MD have|VB emerged|VBN even|RB stronger|JJR than|IN they|PRP are|VBP today|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC many|JJ auto|NN industry|NN experts|NNS including|VBG the|DT obama|NN administrations|NNS former|JJ car|NN czar|NN steven|RB rattner|NN a|DT democrat|NN and|CC former|JJ gm|NN vice|NN chairman|NN bob|NN lutz|NN a|DT republican|JJ say|NN there|EX was|VBD no|DT privatesector|NN financing|VBG available|JJ in|IN 2009|CD and|CC the|DT bailout|NN was|VBD the|DT only|JJ way|NN to|TO keep|VB the|DT companies|NNS alive|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP thinks|VBZ we|PRP didnt|VBP try|NN to|TO borrow|VB money|NN from|IN the|DT banks|NNS </s>|S_END
+<s>|S_START lutz|NN told|VBD the|DT detroit|NN free|JJ press|NN in|IN february|JJ </s>|S_END
+<s>|S_START the|DT banks|NNS were|VBD even|RB more|RBR broke|JJ than|IN we|PRP were|VBD </s>|S_END
+<s>|S_START who|WP had|VBD the|DT money|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START without|IN financing|NN during|IN bankruptcy|NN gm|NN and|CC chrysler|NN would|MD have|VB had|VBD to|TO go|VB out|RP of|IN business|NN taking|VBG down|IN many|JJ suppliers|NNS </s>|S_END
+<s>|S_START that|DT would|MD have|VB likely|JJ caused|VBN bankruptcies|NNS at|IN the|DT healthier|NN automakers|NNS such|JJ ford|NN motor|NN f|NN fortune|NN 500|CD who|WP would|MD not|RB have|VB been|VBN able|JJ to|TO get|VB the|DT parts|NNS they|PRP needed|VBD to|TO build|VB cars|NNS </s>|S_END
+<s>|S_START that|DT is|VBZ why|WRB ford|NN went|VBD to|TO capitol|NN hill|NN in|IN late|JJ 2008|CD pushing|VBG for|IN the|DT rescue|NN of|IN its|PRP$ rivals|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT center|NN for|IN automotive|JJ research|NN a|DT wellrespected|JJ michigan|NN think|NN tank|NN estimates|NNS that|WDT the|DT bailout|NN therefore|NN saved|VBD 15|CD million|CD us|PRP jobs|VBZ by|IN keeping|NN gm|NN chrysler|NN and|CC the|DT companies|NNS that|WDT depended|VBD on|IN them|PRP in|IN business|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB if|IN one|CD assumes|NNS private|JJ financing|NN could|MD have|VB been|VBN found|VBN whats|NNS clear|JJ from|IN romneys|NNS own|JJ criticism|NN of|IN the|DT bailout|NN is|VBZ that|IN the|DT autoworkers|NNS at|IN gm|NN and|CC chrysler|NN today|NN would|MD have|VB been|VBN far|RB worse|JJR off|IN today|NN than|IN they|PRP were|VBD with|IN the|DT bailout|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT pension|NN plans|VBZ for|IN united|VBN auto|NN workers|NNS union|NN members|NNS at|IN the|DT companies|NNS were|VBD basically|RB left|VBN untouched|VBN </s>|S_END
+<s>|S_START its|PRP$ likely|JJ that|IN without|IN treasury|NN financing|VBG those|DT pension|NN plans|VBZ would|MD have|VB been|VBN dumped|VBN on|IN the|DT government|NN pension|NN agency|NN reducing|VBG payments|NNS to|TO many|JJ retirees|NNS </s>|S_END
+<s>|S_START plus|RB automakers|NNS would|MD have|VB likely|JJ tried|VBN to|TO cut|VB wages|NNS in|IN bankruptcy|NN as|IN many|JJ companies|NNS do|VBP </s>|S_END
+<s>|S_START that|DT didnt|NN happen|VB during|IN these|DT bankruptcies|NNS since|IN treasury|NN not|RB bankers|NNS was|VBD calling|VBG the|DT shots|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB much|JJ did|NN the|DT bailout|NN cost|NN taxpayers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT quick|NN answer|NN is|VBZ no|DT one|NN knows|VBZ for|IN sure|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gm|NN received|VBD $|$ 495|CD billion|CD from|IN taxpayers|NNS and|CC has|VBZ returned|VBN about|IN $|$ 24|CD billion|CD of|IN that|DT through|IN loan|NN repayments|NNS and|CC the|DT sale|NN of|IN stock|NN during|IN its|PRP$ successful|JJ initial|JJ public|JJ offering|NN in|IN november|NN 2010|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC since|IN the|DT ipo|NN the|DT stock|NN has|VBZ plunged|VBN 35|CD meaning|NN that|WDT taxpayers|NNS gm|VBP stake|NN has|VBZ taken|VBN about|IN a|DT $|$ 58|CD billion|CD hit|NN </s>|S_END
+<s>|S_START gms|NNS share|VBP price|NN would|MD need|VB to|TO more|JJR than|IN double|JJ to|TO roughly|RB $|$ 51|CD a|DT share|NN in|IN order|NN for|IN taxpayers|NNS to|TO break|VB even|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START chrysler|NN group|NN received|VBD $|$ 105|CD billion|CD in|IN bailout|NN funds|NNS and|CC returned|VBD all|DT but|CC about|IN $|$ 13|CD billion|CD through|IN loan|NN repayment|NN and|CC share|NN repurchases|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD autos|NNS 2013|CD new|JJ model|NN smackdown|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT $|$ 60|CD billion|CD that|WDT taxpayers|NNS shelled|VBD out|IN in|IN the|DT two|CD bailouts|NNS may|MD have|VB still|RB been|VBN a|DT bargain|NN even|RB without|IN the|DT $|$ 33|CD billion|CD that|WDT has|VBZ already|RB been|VBN returned|VBN to|TO treasury|VB </s>|S_END
+<s>|S_START if|IN the|DT two|CD automakers|NNS had|VBD gone|VBN out|RP of|IN business|NN it|PRP would|MD have|VB significantly|RB cut|VBN taxes|NNS collected|VBN from|IN the|DT automakers|NNS their|PRP$ suppliers|NNS and|CC dealers|NNS let|VB alone|RB from|IN the|DT 15|CD million|CD suddenly|RB unemployed|VBN workers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START reduced|VBD personal|JJ taxes|NNS collected|VBN and|CC increased|VBN safety|NN net|NN payments|NNS such|JJ as|IN unemployment|NN benefits|NNS and|CC food|NN stamps|NNS would|MD have|VB cost|NN the|DT federal|JJ government|NN up|IN to|TO about|IN $|$ 50|CD billion|CD to|TO $|$ 60|CD billion|CD in|IN the|DT first|JJ year|NN alone|RB and|CC another|DT $|$ 34|CD billion|CD to|TO $|$ 54|CD billion|CD in|IN the|DT second|JJ year|NN according|VBG to|TO the|DT center|NN for|IN automotive|JJ research|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT this|DT leads|NNS us|PRP to|TO the|DT final|JJ question|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB will|MD the|DT election|NN affect|NN the|DT industry|NN going|VBG forward|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN the|DT most|JJS part|NN the|DT bailout|NN is|VBZ over|IN </s>|S_END
+<s>|S_START so|IN the|DT bailout|NN debate|NN is|VBZ about|IN what|WP should|MD have|VB happened|VBN rather|RB than|IN what|WP should|MD happen|VB next|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC what|WP happens|NNS next|IN is|VBZ important|JJ </s>|S_END
+<s>|S_START romney|NN is|VBZ on|IN record|NN saying|VBG he|PRP would|MD sell|VB treasurys|NNS remaining|VBG shares|NNS immediately|RB while|IN the|DT obama|NN administration|NN has|VBZ shown|VBN more|JJR willingness|NN to|TO wait|VB for|IN the|DT share|NN price|NN to|TO recover|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT us|PRP sold|VBD its|PRP$ 30|CD gm|NN stake|NN at|IN the|DT current|JJ price|NN taxpayers|NNS would|MD come|VB up|RP $|$ 148|CD billion|CD short|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT obama|NN administration|NN hopes|VBZ that|IN gms|NNS share|VBP price|NN will|MD rise|VB recovering|VBG more|JJR of|IN the|DT taxpayers|NNS money|NN </s>|S_END
+<s>|S_START analysts|NNS surveyed|VBD by|IN thomson|NN reuters|NNS forecast|VBP that|IN shares|NNS should|MD rise|VB to|TO about|IN $|$ 30|CD a|DT share|NN in|IN the|DT next|JJ 12|CD months|NNS a|DT 47|CD rise|NN that|WDT would|MD lift|VB the|DT value|NN of|IN treasurys|NNS stake|VBP by|IN $|$ 43|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START perhaps|RB the|DT people|NNS most|JJS interested|JJ in|IN having|NN treasury|NN sell|NN the|DT shares|NNS as|IN soon|RB as|IN possible|JJ are|VBP top|JJ executives|NNS of|IN gm|NN whose|WP$ pay|NN is|VBZ subject|JJ to|TO restrictions|NNS associated|VBN with|IN continued|VBN government|NN ownership|NN </s>|S_END
+<s>|S_START but|CC gm|NN officials|NNS insist|VBP that|IN despite|IN the|DT government|NN motors|NNS tag|VBP hung|JJ on|IN it|PRP by|IN bailout|IN critics|NNS treasury|VBP is|VBZ not|RB calling|VBG the|DT shots|NNS on|IN business|NN decisions|NNS such|JJ as|IN which|WDT vehicles|NNS to|TO build|VB </s>|S_END
+</p>|P_END
+

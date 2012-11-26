@@ -1,0 +1,110 @@
+<p>|P_START
+<s>|S_START candidate|NN george|NN romney|NN standing|NN set|NN a|DT high|JJ bar|NN when|WRB in|IN 1967|CD he|PRP released|VBD 12|CD years|NNS worth|IN of|IN tax|NN returns|NNS </s>|S_END
+<s>|S_START his|PRP$ son|NN mitt|NN lower|JJR right|NN should|MD follow|VB suit|NN argues|NNS tax|NN expert|NN joseph|NN j|NN thorndike|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START joseph|NN j|NN thorndike|NN is|VBZ a|DT contributing|NN editor|NN at|IN tax|NN analysts|NNS and|CC a|DT columnist|NN for|IN tax|NN notes|NNS magazine|NN where|WRB a|DT longer|NN version|NN of|IN this|DT article|NN first|RB appeared|VBD </s>|S_END
+<s>|S_START he|PRP is|VBZ also|RB director|NN of|IN the|DT tax|NN history|NN project|NN at|IN tax|NN analysts|NNS which|WDT includes|VBZ an|DT archive|JJ of|IN presidential|JJ tax|NN returns|NNS </s>|S_END
+<s>|S_START the|DT opinions|NNS expressed|VBN in|IN this|DT commentary|JJ are|VBP solely|RB his|PRP$ own|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mitt|NN romney|NN does|VBZ not|RB seem|VB eager|JJ to|TO release|VB his|PRP$ tax|NN returns|NNS </s>|S_END
+<s>|S_START hounded|VBD by|IN republican|JJ rivals|NNS he|PRP said|VBD this|DT week|NN that|IN hell|NN do|VBP so|RB in|IN april|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START presumably|RB romney|NN is|VBZ reluctant|JJ to|TO be|VB caught|VBN violating|VBG the|DT socalled|JJ buffett|NN rule|NN president|NN obamas|VBZ aspirational|JJ standard|JJ for|IN tax|NN reform|NN </s>|S_END
+<s>|S_START the|DT rule|NN holds|VBZ that|IN no|DT household|NN making|VBG more|JJR than|IN $|$ 1|CD million|CD annually|RB should|MD pay|VB a|DT smaller|JJR share|NN of|IN its|PRP$ income|NN in|IN taxes|NNS than|IN middleincome|NN families|NNS pay|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT buffett|NN rule|NN may|MD be|VB vague|JJ and|CC unenforceable|JJ but|CC its|PRP$ good|JJ politics|NNS so|IN it|PRP makes|VBZ sense|NN for|IN romney|NN to|TO release|VB his|PRP$ returns|NNS </s>|S_END
+<s>|S_START all|DT he|PRP has|VBZ to|TO do|VB is|VBZ look|VB at|IN what|WP his|PRP$ father|NN did|VBD as|IN a|DT candidate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN 1967|CD michigan|NN gov|NN </s>|S_END
+<s>|S_START george|NN romney|NN set|NN the|DT bar|NN high|NN for|IN tax|NN disclosure|NN by|IN presidential|JJ candidates|NNS </s>|S_END
+<s>|S_START while|IN running|VBG for|IN the|DT republican|JJ nomination|NN he|PRP was|VBD badgered|VBN by|IN a|DT writer|NN for|IN look|NN magazine|NN to|TO release|VB his|PRP$ most|JJS recent|JJ tax|NN return|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romney|NN refused|VBD </s>|S_END
+<s>|S_START releasing|VBG a|DT single|JJ return|NN wouldnt|NN prove|VBP anything|NN he|PRP told|VBD the|DT magazines|NNS senior|JJ editor|NN t|NN george|NN harris|VBZ </s>|S_END
+<s>|S_START it|PRP could|MD be|VB a|DT fluke|NN or|CC even|RB a|DT cynical|JJ manipulation|NN designed|VBN to|TO make|VB the|DT candidate|NN look|NN good|NN </s>|S_END
+<s>|S_START what|WP really|RB mattered|VBD was|VBD how|WRB a|DT candidate|NN managed|VBN his|PRP$ personal|JJ finances|NNS over|IN the|DT long|JJ haul|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START stumped|VBD by|IN his|PRP$ argument|NN harris|VBZ wrote|NN in|IN the|DT magazine|NN i|PRP was|VBD not|RB prepared|VBN for|IN the|DT move|NN that|IN it|PRP eventually|RB led|VBD him|PRP to|TO make|VB he|PRP ordered|VBD up|RP all|DT the|DT form|NN 1040s|CD that|WDT he|PRP and|CC mrs|NNS romney|NN had|VBD filed|VBN over|IN the|DT past|JJ 12|CD years|NNS including|VBG those|DT profitable|JJ ones|NNS when|WRB he|PRP saved|VBD the|DT american|NN motors|NNS corp|VB from|IN bankruptcy|NN and|CC became|VBD a|DT millionaire|NN on|IN the|DT companys|NNS stock|NN options|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romneys|NNS disclosure|VBP was|VBD apparently|RB unprecedented|VBN </s>|S_END
+<s>|S_START while|IN other|JJ candidates|NNS had|VBD released|VBN statements|NNS outlining|VBG their|PRP$ income|NN assets|NNS and|CC other|JJ financial|JJ data|NNS none|NN had|VBD ever|RB released|VBN his|PRP$ actual|JJ returns|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romneys|NNS tax|VBP returns|NNS told|VBD an|DT interesting|JJ story|NN </s>|S_END
+<s>|S_START to|TO no|DT ones|NNS surprise|VBP they|PRP revealed|VBD him|PRP to|TO be|VB a|DT rich|JJ man|NN although|IN not|RB nearly|RB as|IN rich|JJ as|IN his|PRP$ son|NN is|VBZ reputed|VBN to|TO be|VB </s>|S_END
+<s>|S_START his|PRP$ adjusted|VBN gross|NN income|NN ranged|VBD from|IN a|DT high|JJ of|IN $|$ 56677147|CD in|IN 1963|CD roughly|RB $|$ 4|CD million|CD in|IN current|JJ dollars|NNS to|TO a|DT low|JJ of|IN $|$ 7848385|CD in|IN 1966|CD about|IN $|$ 527000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN some|DT years|NNS romneys|NNS salary|JJ at|IN amc|NN provided|VBN most|JJS of|IN his|PRP$ income|NN but|CC starting|VBG in|IN 1960|CD he|PRP began|VBD to|TO report|VB considerable|JJ investment|NN income|NN </s>|S_END
+<s>|S_START his|PRP$ salary|NN ranged|VBD from|IN a|DT high|JJ of|IN $|$ 200000|CD in|IN 1959|CD when|WRB he|PRP was|VBD still|RB an|DT auto|NN executive|NN to|TO a|DT low|JJ of|IN $|$ 27499|CD in|IN 1963|CD when|WRB he|PRP was|VBD governor|RB of|IN michigan|JJ </s>|S_END
+<s>|S_START his|PRP$ investment|NN income|NN followed|VBD the|DT opposite|JJ trajectory|NN starting|VBG at|IN a|DT low|JJ of|IN $|$ 3541|CD in|IN 1955|CD but|CC rising|VBG to|TO more|JJR than|IN $|$ 500000|CD by|IN 1963|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romneys|NNS income|VBP was|VBD impressive|JJ but|CC so|RB were|VBD his|PRP$ deductions|NNS </s>|S_END
+<s>|S_START in|IN particular|JJ his|PRP$ charitable|JJ contributions|NNS made|VBN headlines|NNS of|IN the|DT useful|JJ not|RB the|DT embarrassing|NN variety|NN </s>|S_END
+<s>|S_START over|IN the|DT 12year|JJ period|NN covered|VBN by|IN the|DT returns|NNS george|VBP and|CC lenore|JJR romney|NN gave|VBD away|RB 23|CD of|IN their|PRP$ income|NN to|TO charity|NN including|VBG 19|CD to|TO the|DT mormon|NN church|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD year|NN in|IN 1960|CD they|PRP carefully|RB gave|VBD away|RB all|DT but|CC $|$ 38959|CD of|IN georges|NNS salary|JJ and|CC bonus|NN $|$ 173125|CD the|DT magazine|NN noted|VBD with|IN apparent|JJ awe|NN </s>|S_END
+<s>|S_START of|IN course|NN the|DT romneys|NNS still|RB collected|VBN $|$ 48720268|CD in|IN dividends|NNS interest|NN and|CC capital|NN gains|NNS that|WDT year|NN so|RB they|PRP werent|VBP in|IN much|JJ danger|NN of|IN starving|VBG </s>|S_END
+<s>|S_START but|CC still|RB the|DT gifts|NNS were|VBD impressive|JJ </s>|S_END
+<s>|S_START read|NN millionaires|NNS ask|VBP congress|NN to|TO raise|VB their|PRP$ taxes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romney|NN paid|VBD a|DT lot|NN of|IN tax|NN during|IN the|DT 12|CD years|NNS in|IN question|NN although|IN his|PRP$ average|NN tax|NN rate|NN varied|VBD dramatically|RB from|IN year|NN to|TO year|NN </s>|S_END
+<s>|S_START it|PRP hit|VBD a|DT high|JJ of|IN 458|CD in|IN 1961|CD and|CC a|DT low|JJ of|IN 165|CD in|IN 1966|CD </s>|S_END
+<s>|S_START over|IN the|DT total|JJ period|NN however|RB it|PRP averaged|VBD 37|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP might|MD mitt|VB romney|NN learn|NN from|IN his|PRP$ fathers|NNS experience|NN with|IN tax|NN disclosure|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romney|NN jr|NN should|MD take|VB a|DT lesson|NN from|IN romney|NN sr|NN and|CC take|VB the|DT risk|NN of|IN public|JJ disclosure|NN </s>|S_END
+<s>|S_START he|PRP should|MD challenge|VB the|DT buffett|NN rule|NN headon|NN offering|NN up|IN his|PRP$ own|JJ romney|NN rule|NN in|IN honor|NN of|IN his|PRP$ father|NN no|DT presidential|JJ candidate|NN should|MD be|VB afraid|VBN to|TO confront|VB the|DT electorate|NN with|IN the|DT truth|NN no|DT matter|NN how|WRB uncomfortable|JJ it|PRP might|MD be|VB for|IN either|DT of|IN them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN vague|JJ terms|NNS mitt|VBP romney|NN has|VBZ already|RB flirted|VBN with|IN that|DT approach|NN </s>|S_END
+<s>|S_START when|WRB pressed|VBN by|IN reporters|NNS about|IN his|PRP$ use|NN of|IN loopholes|NNS romney|NN said|VBD i|PRP can|MD tell|VB you|PRP we|PRP follow|VBP the|DT tax|NN laws|NNS and|CC if|IN theres|NNS an|DT opportunity|NN to|TO save|VB taxes|NNS we|PRP like|VBP anybody|NN else|RB in|IN this|DT country|NN will|MD follow|VB that|IN opportunity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS entirely|RB reasonable|JJ </s>|S_END
+<s>|S_START and|CC he|PRP should|MD go|VB even|RB further|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START who|WP wouldnt|NN welcome|VBD excessive|JJ candor|NN from|IN a|DT presidential|JJ candidate|NN on|IN this|DT issue|NN </s>|S_END
+<s>|S_START it|PRP would|MD place|VB the|DT blame|NN for|IN romneys|NNS presumably|RB low|JJ tax|NN rate|NN where|WRB it|PRP belongs|VBZ on|IN congress|NN and|CC the|DT irs|NNS </s>|S_END
+<s>|S_START it|PRP would|MD end|VB all|DT the|DT distracting|NN chatter|NN about|IN what|WP romney|NN might|MD or|CC might|MD not|RB be|VB hiding|VBG </s>|S_END
+<s>|S_START and|CC most|JJS important|JJ it|PRP would|MD make|VB him|PRP seem|VB like|IN a|DT standup|NN guy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN course|NN it|PRP would|MD take|VB a|DT certain|JJ amount|NN of|IN guts|NNS too|RB </s>|S_END
+<s>|S_START but|CC isnt|VBD that|IN something|NN we|PRP want|VBP in|IN our|PRP$ president |JJ </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,48 @@
+<p>|P_START
+<s>|S_START unny|NN countries|NNS are|VBP often|RB poor|JJ </s>|S_END
+<s>|S_START it|PRP is|VBZ a|DT shame|NN then|RB that|IN solar|JJ power|NN is|VBZ still|RB quite|RB expensive|JJ </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ getting|VBG cheaper|JJR by|IN the|DT day|NN and|CC is|VBZ now|RB cheap|VB enough|RB to|TO be|VB competitive|JJ with|IN other|JJ forms|NNS of|IN energy|NN in|IN places|NNS that|WDT are|VBP not|RB attached|VBN to|TO electricity|NN grid|NN </s>|S_END
+<s>|S_START ince|NN 16|CD billion|CD people|NNS are|VBP still|RB in|IN that|DT unfortunate|NN position|NN there|EX is|VBZ now|RB a|DT large|JJ potential|NN market|NN for|IN solar|JJ energy|NN </s>|S_END
+<s>|S_START the|DT problem|NN is|VBZ that|IN although|IN sunlight|NN is|VBZ free|JJ a|DT lot|NN of|IN those|DT 16|CD billion|CD people|NNS still|RB can|MD not|RB afford|VB the|DT upfront|NN cost|NN of|IN the|DT equipment|NN in|IN one|CD go|NN and|CC no|DT one|NN will|MD lend|VB them|PRP the|DT money|NN needed|VBN to|TO buy|VB it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eight19|NNP a|DT british|JJ company|NN spun|NN out|IN of|IN cambridge|NN university|NN has|VBZ devised|VBN a|DT clever|NN way|NN to|TO get|VB round|NN thi|NN </s>|S_END
+<s>|S_START in|IN return|NN for|IN a|DT deposit|NN of|IN around|IN $|$ 10|CD it|PRP is|VBZ supplying|VBG poor|JJ families|NNS in|IN kenya|NN with|IN a|DT solar|JJ cell|NN able|JJ to|TO generate|VB 25|CD watts|NNS of|IN electricity|NN a|DT battery|NN that|WDT can|MD deliver|VB a|DT 3amp|CD current|JJ to|TO store|VB this|DT electricity|NN and|CC a|DT lamp|NN whose|WP$ bulb|NN is|VBZ an|DT energyefficient|NN lightemitting|VBG diode|NN </s>|S_END
+<s>|S_START the|DT firm|NN reckons|NNS that|WDT once|RB the|DT battery|NN is|VBZ fully|RB charged|VBN this|DT system|NN is|VBZ sufficient|JJ to|TO light|JJ two|CD small|JJ rooms|NNS and|CC to|TO power|NN a|DT mobilephone|NN charger|NN for|IN seven|CD hour|NN </s>|S_END
+<s>|S_START then|RB the|DT next|JJ day|NN it|PRP can|MD be|VB put|VBN outside|IN and|CC charged|VBD back|RP up|IN again|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT trick|NN is|VBZ that|IN to|TO be|VB able|JJ to|TO use|VB the|DT electricity|NN the|DT systems|NNS keeper|VBP must|MD buy|VB a|DT scratch|NN card—for|NN as|IN little|JJ as|IN a|DT dollar—on|JJ which|WDT a|DT reference|NN number|NN is|VBZ printed|VBN </s>|S_END
+<s>|S_START the|DT keeper|NN sends|NNS this|DT reference|NN plus|VBZ the|DT serial|JJ number|NN of|IN the|DT household|NN solar|NN unit|NN by|IN text|NN message|NN to|TO eight19|NNP </s>|S_END
+<s>|S_START the|DT companys|NNS server|VBP will|MD respond|VB automatically|RB with|IN an|DT access|NN code|NN to|TO the|DT unit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START users|NNS may|MD feel|VB as|IN though|IN they|PRP are|VBP paying|VBG an|DT hourly|JJ rate|NN for|IN their|PRP$ electricity|NN </s>|S_END
+<s>|S_START in|IN fact|NN they|PRP are|VBP paying|VBG off|RP the|DT cost|NN of|IN the|DT unit|NN </s>|S_END
+<s>|S_START after|IN buying|VBG around|IN $|$ 80worth|CD of|IN scratch|NN cards—which|JJ eight19|NNP expects|VBZ would|MD take|VB the|DT average|JJ family|NN about|IN 18|CD months—the|JJ user|NN will|MD own|VB it|PRP </s>|S_END
+<s>|S_START he|PRP will|MD then|RB have|VB the|DT option|NN of|IN continuing|VBG to|TO use|VB it|PRP for|IN nothing|NN or|CC trading|NN it|PRP in|IN for|IN a|DT bigger|JJR model|NN perhaps|RB driven|VBN by|IN a|DT 10watt|JJ solar|NN cell|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN that|DT case|NN he|PRP would|MD then|RB go|VB through|IN the|DT same|JJ process|NN again|RB paying|VBG off|IN the|DT additional|JJ cost|NN of|IN the|DT upgraded|VBN kit|NN at|IN a|DT slightly|RB higher|JJR rate|NN </s>|S_END
+<s>|S_START users|NNS would|MD thereby|VB increase|NN their|PRP$ electricity|NN supply—ascending|NN the|DT “energy|NN escalator”|NN as|IN eight19|NNP puts|NNS it—steadily|RB and|CC affordably|RB </s>|S_END
+<s>|S_START imultaneously|RB the|DT company|NN would|MD be|VB able|JJ to|TO build|VB a|DT payment|NN record|NN of|IN its|PRP$ clients|NNS sorting|VBG the|DT unreliable|JJ from|IN the|DT rest|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START according|VBG to|TO eight19s|NNP figures|NNS this|DT looks|NNS like|IN a|DT good|JJ deal|NN for|IN customer|NN </s>|S_END
+<s>|S_START the|DT firm|NN reckons|NNS that|WDT the|DT average|NN energystarved|VBD kenyan|NN spends|NNS about|IN $|$ 10|CD a|DT month|NN on|IN paraffin—sufficient|JJ to|TO fuel|NN a|DT couple|NN of|IN smoky|JJ lamps—plus|JJ $|$ 2|CD a|DT month|NN to|TO have|VB his|PRP$ mobile|JJ phone|NN charged|VBD at|IN a|DT nearby|JJ market|NN </s>|S_END
+<s>|S_START regular|JJ users|NNS of|IN one|CD of|IN eight19s|NNP basic|JJ solar|NN units|NNS will|MD spend|VB around|IN half|DT that|WDT before|IN owning|VBG it|PRP outright|MD </s>|S_END
+<s>|S_START meanwhile|RB as|IN the|DT cost|NN of|IN solar|JJ technology|NN falls|NNS the|DT whole|JJ system|NN should|MD get|VB even|RB cheaper|JJR </s>|S_END
+<s>|S_START the|DT company|NN hopes|VBZ to|TO be|VB able|JJ to|TO supply|NN users|NNS with|IN a|DT new|JJ lowcost|NN and|CC robust|JJ sort|NN of|IN solar|JJ cell|NN printed|VBN onto|IN plastic|JJ strips|NNS within|IN two|CD year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START o|NN far|RB the|DT scheme|NN has|VBZ been|VBN tried|VBN out|RP among|IN a|DT couple|NN of|IN hundred|VBN kenyan|NN familie|NN </s>|S_END
+<s>|S_START with|IN the|DT aid|NN of|IN a|DT charitable|JJ loan|NN to|TO accelerate|VB its|PRP$ rollout|NN eight19|NNP is|VBZ now|RB in|IN the|DT process|NN of|IN dispersing|VBG another|DT 4000|CD solar|JJ units|NNS in|IN kenya|NN malawi|NN and|CC zambia|NN </s>|S_END
+<s>|S_START if|IN its|PRP$ novel|NN idea|NN works|NNS solar|JJ power|NN will|MD come|VB within|IN reach|DT of|IN a|DT whole|JJ new|JJ set|NN of|IN customers—and|JJ the|DT days|NNS of|IN the|DT paraffin|NN lamp|NN could|MD well|RB be|VB numbered|VBN </s>|S_END
+</p>|P_END
+

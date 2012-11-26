@@ -1,0 +1,131 @@
+<p>|P_START
+<s>|S_START federal|JJ reserve|NN chairman|NN ben|NN bernanke|NN will|MD weigh|VB the|DT risks|NNS and|CC benefits|NNS of|IN further|JJ stimulus|NN at|IN a|DT meeting|NN next|IN wednesday|NN </s>|S_END
+<s>|S_START at|IN this|DT point|NN the|DT benefits|NNS seem|VBP slim|JJ and|CC the|DT risks|NNS uncertain|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN last|JJ week|NN federal|JJ reserve|NN chairman|NN ben|NN bernanke|NN told|VBD lawmakers|NNS that|IN the|DT fed|JJ stands|NNS ready|RB to|TO give|VB the|DT economy|NN a|DT boost|NN should|MD the|DT recovery|NN continue|NN to|TO struggle|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC its|PRP$ unclear|JJ just|RB how|WRB effective|JJ any|DT further|JJ economic|JJ stimulus|NN would|MD be|VB </s>|S_END
+<s>|S_START interest|NN rates|NNS are|VBP already|RB at|IN record|NN lows|NNS yet|RB hiring|VBG is|VBZ tepid|JJ and|CC consumer|NN spending|NN is|VBZ still|RB weak|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START plus|RB any|DT additional|JJ stimulus|NN would|MD come|VB with|IN some|DT risks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START from|IN vocal|JJ fed|VBN critics|NNS the|DT most|JJS commonly|RB cited|VBD danger|JJR is|VBZ that|IN the|DT central|JJ banks|NNS policies|NNS will|MD eventually|RB lead|VB to|TO higher|JJR inflation|NN down|IN the|DT road|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START currently|RB much|RB of|IN the|DT extra|JJ money|NN the|DT fed|JJ has|VBZ pushed|VBN into|IN banks|NNS is|VBZ just|RB sitting|VBG there|EX not|RB making|VBG it|PRP out|RP to|TO consumers|NNS and|CC business|NN </s>|S_END
+<s>|S_START but|CC if|IN the|DT economy|NN starts|VBZ recovering|VBG at|IN a|DT faster|JJR pace|NN that|IN money|NN could|MD pour|VB into|IN the|DT economy|NN very|RB quickly|RB igniting|VBG rapid|JJ inflation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bernanke|NN has|VBZ downplayed|VBN this|DT threat|NN pointing|VBG out|RP that|IN inflation|NN is|VBZ currently|RB running|VBG under|IN the|DT feds|NNS target|VBP of|IN 2|CD a|DT year|NN </s>|S_END
+<s>|S_START wages|NNS are|VBP not|RB rising|VBG rapidly|RB and|CC demand|NN for|IN credit|NN is|VBZ weak|JJ </s>|S_END
+<s>|S_START home|NN prices|NNS remain|VBP near|IN nineyear|JJ lows|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC should|MD the|DT economy|NN start|NN improving|VBG inflation|NN hawks|NNS still|RB fear|JJ the|DT fed|JJ will|MD be|VB too|RB late|JJ to|TO take|VB away|RP the|DT punchbowl|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT frequent|NN concern|NN is|VBZ that|IN the|DT central|JJ bank|NN will|MD be|VB too|RB late|JJ to|TO tighten|VB the|DT reins|NNS once|RB the|DT economy|NN starts|VBZ to|TO pick|VB up|RP more|JJR momentum|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT fed|VBN finds|NNS itself|PRP chasing|VBG after|IN rapidly|RB rising|VBG prices|NNS it|PRP will|MD have|VB to|TO start|VB raising|NN the|DT federal|JJ funds|NNS rate|NN quickly|RB </s>|S_END
+<s>|S_START the|DT central|JJ banks|NNS key|JJ tool|NN for|IN influencing|NN the|DT economy|NN the|DT federal|JJ funds|NNS rate|NN is|VBZ the|DT interest|NN rate|NN banks|NNS charge|VBP one|CD another|DT for|IN overnight|JJ loans|NNS </s>|S_END
+<s>|S_START it|PRP influences|VBZ everything|VBG from|IN mortgage|NN rates|NNS and|CC auto|NN loans|NNS to|TO the|DT interest|NN rate|NN on|IN savings|NNS accounts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT danger|NN is|VBZ that|IN the|DT fed|JJ might|NN have|VBP to|TO act|VB very|RB quickly|RB and|CC raise|VB rates|NNS dramatically|RB if|IN people|NNS start|VBP to|TO spend|VB again|RB and|CC banks|NNS start|VBP to|TO lend|VB again|RB said|VBD dean|JJ croushore|NN chair|NN of|IN economics|NNS at|IN the|DT university|NN of|IN richmond|NN and|CC a|DT former|JJ fed|VBN economist|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT more|RBR fuel|NN they|PRP throw|VBP on|IN the|DT fire|NN now|RB the|DT higher|JJR interest|NN rates|NNS will|MD have|VB to|TO rise|VB later|JJ he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT way|NN to|TO control|NN inflation|NN that|WDT bernanke|NN has|VBZ mentioned|VBN is|VBZ to|TO raise|VB the|DT rate|NN on|IN bank|NN reserves|NNS </s>|S_END
+<s>|S_START doing|VBG so|RB could|MD entice|VB banks|NNS to|TO store|VB more|JJR of|IN their|PRP$ excess|JJ funds|NNS at|IN the|DT fed|VBN instead|RB of|IN lending|VBG it|PRP out|RP and|CC slow|JJ the|DT pace|NN of|IN money|NN flowing|VBG into|IN the|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD of|IN the|DT most|RBS common|JJ next|JJ steps|NNS discussed|VBD by|IN fed|VBN officials|NNS is|VBZ for|IN the|DT central|JJ bank|NN to|TO initiate|VB a|DT third|JJ round|NN of|IN largescale|NN asset|NN purchases|NNS known|VBN as|RB quantitative|JJ easing|NN or|CC qe3|NNP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT program|NN could|MD come|VB in|IN the|DT form|NN of|IN buying|NN more|JJR treasuries|NNS mortgagebacked|VBD securities|NNS or|CC some|DT combination|NN of|IN both|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fed|VBN itself|PRP has|VBZ admitted|VBN that|IN buying|NN treasuries|NNS comes|VBZ with|IN some|DT dangers|NNS </s>|S_END
+<s>|S_START the|DT central|JJ bank|NN already|RB has|VBZ a|DT large|JJ presence|NN in|IN the|DT bond|NN market|NN accounting|VBG for|IN $|$ 17|CD trillion|CD in|IN treasuries|NNS </s>|S_END
+<s>|S_START in|IN comparison|NN china|NN owns|VBZ about|IN $|$ 12|CD trillion|CD in|IN treasuries|NNS and|CC japan|NN owns|NNS about|IN $|$ 11|CD trillion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN the|DT fed|VBN buys|NNS more|RBR bonds|NNS economists|NNS are|VBP unsure|JJ of|IN how|WRB the|DT central|JJ bank|NN will|MD ever|RB be|VB able|JJ to|TO wind|VB down|RP those|DT purchases|NNS </s>|S_END
+<s>|S_START its|PRP$ possible|JJ the|DT uncertainty|NN could|MD scare|VB off|RP other|JJ large|JJ bond|NN buyers|NNS like|IN china|NN and|CC japan|NN said|VBD jeffrey|NN bergstrand|NN finance|NN professor|NN at|IN the|DT university|NN of|IN notre|NN dame|NN and|CC a|DT former|JJ federal|JJ reserve|NN economist|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START should|MD interest|NN rates|NNS rise|VBP rapidly|RB later|JJ those|DT foreign|JJ buyers|NNS stand|VBP much|RB too|RB lose|VB on|IN their|PRP$ investments|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fed|VBN has|VBZ this|DT huge|JJ balance|NN sheet|NN and|CC they|PRP dont|VBP quite|RB know|VB how|WRB to|TO unwind|VB all|DT those|DT securities|NNS down|IN the|DT road|NN </s>|S_END
+<s>|S_START that|DT creates|VBZ an|DT uncertainty|NN to|TO foreign|JJ central|JJ banks|NNS and|CC investors|NNS that|IN are|VBP holding|VBG any|DT kind|NN of|IN instrument|NN with|IN a|DT us|PRP label|NN on|IN it|PRP said|VBD bergstrand|NN </s>|S_END
+<s>|S_START you|PRP never|RB know|VBP when|WRB china|NNS and|CC japan|NN are|VBP going|VBG to|TO say|VB we|PRP dont|VBP want|VBP to|TO hold|VB this|DT stuff|NN and|CC those|DT things|NNS can|MD turn|VB on|IN a|DT dime|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT argue|VBP that|IN with|IN rates|NNS already|RB hovering|VBG near|IN zero|NN any|DT action|NN by|IN the|DT fed|VBN will|MD have|VB little|JJ to|TO no|DT effect|NN on|IN the|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT biggest|JJS risk|NN is|VBZ it|PRP doesnt|VBP work|NN and|CC the|DT market|NN concludes|VBZ the|DT fed|VBN is|VBZ losing|VBG its|PRP$ impact|NN </s>|S_END
+<s>|S_START said|VBD eric|JJ lascelles|NNS chief|NN economist|NN for|IN rbc|NN global|JJ asset|NN management|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN to|TO more|JJR asset|NN purchases|NNS bernanke|VBP has|VBZ laid|VBN out|RP a|DT few|JJ other|JJ options|NNS for|IN stimulus|NN but|CC those|DT too|RB could|MD have|VB limited|VBN results|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN instance|NN the|DT fed|JJ could|MD tell|VB the|DT public|NN that|IN it|PRP plans|VBZ to|TO keep|VB interest|NN rates|NNS near|IN zero|NN until|IN at|IN least|JJS 2015|CD extending|VBG its|PRP$ guidance|NN from|IN its|PRP$ current|JJ 2014|CD forecast|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC it|PRP would|MD be|VB hard|RB to|TO make|VB such|JJ a|DT pledge|NN convincing|VBG given|VBN that|IN the|DT policymaking|NN committee|NN will|MD reshuffle|VB its|PRP$ roster|NN several|JJ times|NNS before|IN then|RB </s>|S_END
+<s>|S_START the|DT fed|VBN risks|NNS losing|VBG its|PRP$ own|JJ credibility|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT option|NN entails|NNS cutting|VBG the|DT interest|NN rate|NN the|DT fed|VBN pays|NNS banks|NNS on|IN their|PRP$ excess|NN reserves|NNS </s>|S_END
+<s>|S_START the|DT fed|VBN currently|RB offers|VBZ banks|NNS a|DT 025|CD rate|NN to|TO keep|VB their|PRP$ extra|JJ cash|NN at|IN the|DT central|JJ bank|NN </s>|S_END
+<s>|S_START lowering|VBG that|IN rate|NN could|MD get|VB banks|NNS to|TO put|VB those|DT funds|NNS to|TO another|DT use|NN somewhere|RB else|RB in|IN the|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START since|IN banks|NNS already|RB have|VBP massive|JJ reserves|NNS and|CC that|IN has|VBZ yet|RB to|TO jumpstart|VB consumer|NN spending|NN the|DT policy|NN seems|VBZ unlikely|RB to|TO make|VB a|DT real|JJ difference|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START no|DT matter|NN what|WP the|DT fed|VBN does|VBZ right|RB now|RB it|PRP will|MD have|VB little|JJ impact|NN on|IN both|DT interest|NN rates|NNS and|CC the|DT economy|NN bergstrand|NN said|VBD </s>|S_END
+<s>|S_START we|PRP spend|VBP an|DT enormous|JJ amount|NN of|IN time|NN discussing|VBG these|DT things|NNS but|CC they|PRP really|RB dont|VBP matter|NN right|RB now|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT feds|NNS next|IN opportunity|NN to|TO act|VB comes|VBZ on|IN wednesday|NN when|WRB its|PRP$ policymaking|NN committee|NN meets|NNS behind|IN closed|VBN doors|NNS </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

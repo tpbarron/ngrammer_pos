@@ -1,0 +1,45 @@
+<p>|P_START
+<s>|S_START do|VBP orchestral|JJ conductors|NNS do|VBP anything|NN useful|JJ </s>|S_END
+<s>|S_START alessandro|NN d’ausilio|NN of|IN the|DT italian|JJ institute|NN of|IN technology|NN in|IN genoa|NN and|CC his|PRP$ colleagues|NNS tried|VBD to|TO answer|VB that|IN eternal|JJ question|NN in|IN a|DT study|NN published|VBN in|IN the|DT public|NN library|NN of|IN science|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START determining|VBG a|DT conductor’s|JJ influence|NN is|VBZ tricky|JJ </s>|S_END
+<s>|S_START does|VBZ a|DT “good”|NN conductor|NN wangle|NN bravura|NN performances|NNS from|IN his|PRP$ players|NNS or|CC simply|RB preside|JJ over|IN a|DT selforganising|NN virtuoso|NN ensemble|JJ </s>|S_END
+<s>|S_START to|TO find|VB out|RP dr|NN d’ausilio|-NONE- watched|VBD two|CD anonymous|JJ conductors|NNS leading|VBG five|CD excerpts|NNS from|IN mozart’s|JJ symphony|NN number|NN 40|CD played|VBN by|IN eight|CD violinists|NNS from|IN the|DT città|NN di|NN ferrara|NN orchestra|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START each|DT violinist|NN had|VBD an|DT infrared|VBN reflector|NN attached|VBN to|TO the|DT tip|NN of|IN his|PRP$ bow|NN and|CC the|DT conductors|NNS had|VBD them|PRP attached|VBN to|TO their|PRP$ baton|NN </s>|S_END
+<s>|S_START dr|NN d’ausilio|NN and|CC his|PRP$ team|NN were|VBD thus|RB able|JJ to|TO follow|VB the|DT movements|NNS of|IN both|DT bows|NNS and|CC batons|NNS by|IN bathing|VBG their|PRP$ little|JJ orchestra|NN in|IN infrared|VBN light|JJ which|WDT their|PRP$ cameras|NNS could|MD see|VB but|CC human|JJ beings|NNS can|MD not|RB </s>|S_END
+<s>|S_START they|PRP then|RB used|VBD the|DT movements|NNS of|IN the|DT reflectors|NNS to|TO analyse|VB who|WP was|VBD affecting|VBG whom|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO do|VB this|DT dr|NN d’ausilio|NN employed|VBD a|DT mathematical|JJ trick|NN called|VBN the|DT granger|NN causality|NN test|NN which|WDT makes|VBZ it|PRP possible|JJ to|TO determine|VB how|WRB one|CD sequence|NN of|IN data|NNS points|NNS affects|NNS another|DT </s>|S_END
+<s>|S_START the|DT movements|NNS of|IN a|DT violinist’s|JJ bow—and|NN the|DT waving|NN of|IN a|DT baton—are|JJ just|RB such|JJ sequences|NNS of|IN data|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ten|RB experienced|VBN classical|JJ musicians|NNS marked|VBD each|DT performance|NN on|IN eight|CD measures|NNS including|VBG melody|NN tempo|NN and|CC emotional|JJ content|NN on|IN a|DT scale|NN from|IN 0|-NONE- to|TO 100|CD </s>|S_END
+<s>|S_START the|DT panel|NN judged|VBD both|DT performances|NNS of|IN three|CD of|IN the|DT excerpts|NNS more|JJR or|CC less|JJR equal|JJ in|IN quality|NN </s>|S_END
+<s>|S_START they|PRP were|VBD also|RB it|PRP turned|VBD out|RP evenly|RB matched|VBN when|WRB it|PRP came|VBD to|TO the|DT two|CD conductors’|JJ assertiveness|NN as|IN measured|VBN by|IN the|DT correlation|NN between|IN the|DT accelerations|NNS of|IN his|PRP$ baton|NN and|CC those|DT of|IN the|DT violinists’|JJ bows|NNS and|CC the|DT players’|NNP proclivity|NN to|TO take|VB cues|NNS from|IN each|DT other|JJ as|IN gauged|JJ by|IN the|DT correlations|NNS between|IN the|DT different|JJ bow|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT remaining|VBG two|CD excerpts|NNS is|VBZ where|WRB things|NNS got|VBD interesting|JJ </s>|S_END
+<s>|S_START there|EX the|DT judges|NNS preferred|VBN one|CD performance|NN to|TO the|DT other|JJ </s>|S_END
+<s>|S_START in|IN the|DT first|JJ excerpt|NN one|CD conductor’s|NNS assertiveness|NN went|VBD hand|NN in|IN hand|NN with|IN a|DT dip|NN in|IN the|DT violinists’|NN mutual|JJ dependence|NN compared|VBN with|IN the|DT second|JJ rendition|NN where|WRB that|IN dependence|NN was|VBD high|JJ and|CC the|DT conductor’s|NNP assertiveness|NN low|JJ </s>|S_END
+<s>|S_START the|DT first|JJ conductor|NN it|PRP seems|VBZ could|MD impose|VB his|PRP$ will|MD on|IN the|DT musicians|NNS where|WRB the|DT second|JJ could|MD not|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START crucially|RB the|DT judges|NNS rated|VBD the|DT dictatorial|JJ performance|NN more|RBR highly|RB of|IN the|DT two|CD </s>|S_END
+<s>|S_START in|IN the|DT other|JJ excerpt|NN the|DT despotic|JJ conductor|NN was|VBD just|RB as|IN assertive|JJ but|CC the|DT violinists|NNS seemed|VBD to|TO pay|VB as|IN much|JJ attention|NN to|TO themselves|PRP as|IN they|PRP did|VBD to|TO him|VB </s>|S_END
+<s>|S_START this|DT led|VBN to|TO a|DT performance|NN that|WDT the|DT panel|NN liked|VBD less|JJR than|IN the|DT one|CD under|IN the|DT meeker|NN conductor|NN who|WP exercised|VBN little|JJ influence|NN over|IN his|PRP$ player|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT findings|NNS are|VBP in|IN harmony|NN with|IN what|WP conductors|NNS knew|VBD all|DT along|IN that|DT batontoting|VBG despots|NNS like|IN the|DT late|JJ herbert|NN von|NN karajan|NN do|VBP add|JJ value—but|CC only|RB if|IN they|PRP rein|VBP in|IN the|DT uppity|NN musicians|NNS in|IN front|JJ of|IN them|PRP </s>|S_END
+</p>|P_END
+

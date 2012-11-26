@@ -1,0 +1,46 @@
+<p>|P_START
+<s>|S_START the|DT main|JJ problem|NN with|IN both|DT wind|NN and|CC solar|JJ energy|NN is|VBZ not|RB their|PRP$ cost|NN which|WDT is|VBZ falling|VBG satisfactorily|RB with|IN every|DT passing|VBG year|NN but|CC their|PRP$ intermittency|NN </s>|S_END
+<s>|S_START upplying|VBG power|NN to|TO the|DT grid|NN when|WRB the|DT air|NN is|VBZ still|RB or|CC the|DT sun|NN is|VBZ below|IN the|DT horizon|NN depends|VBZ on|IN storing|NN the|DT surplus|NN when|WRB the|DT day|NN is|VBZ blustery|NN and|CC the|DT sun|NN is|VBZ up|IN </s>|S_END
+<s>|S_START and|CC at|IN the|DT moment|NN this|DT is|VBZ expensive|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cheap|NN and|CC abundant|JJ materials|NNS for|IN making|VBG batteries|NNS though|IN might|MD change|VB that|IN </s>|S_END
+<s>|S_START which|WDT is|VBZ why|WRB a|DT recent|JJ paper|NN in|IN science|NN by|IN grzegorz|NN milczarek|NN of|IN poznan|NN university|NN of|IN technology|NN in|IN poland|NN and|CC olle|NN inganas|NNS of|IN linköping|JJ university|NN in|IN sweden|NN may|MD prove|VB important|JJ </s>|S_END
+<s>|S_START the|DT two|CD researchers|NNS propose|VBP making|VBG one|CD of|IN a|DT batterys|NNS three|CD components|NNS its|PRP$ cathode|NN out|RP of|IN the|DT waste|NN from|IN paper|NN mill|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT battery—any|JJ battery—consists|NNS of|IN two|CD electrodes|NNS an|DT anode|NN and|CC a|DT cathode|NN and|CC an|DT electrolyte|NN </s>|S_END
+<s>|S_START current|JJ in|IN the|DT form|NN of|IN positive|JJ ions|NNS such|JJ as|IN protons|NNS the|DT nuclei|NN of|IN hydrogen|NN atoms|NNS flows|VBZ through|IN the|DT electrolyte|NN from|IN anode|NN to|TO cathode|VB while|IN a|DT balancing|NN current|JJ of|IN electrons|NNS which|WDT are|VBP negatively|RB charged|VBN makes|NNS the|DT same|JJ journey|NN via|IN an|DT external|JJ circuit|NN doing|VBG useful|JJ work|NN along|IN the|DT way|NN </s>|S_END
+<s>|S_START to|TO recharge|VB the|DT battery|NN the|DT electrons|NNS are|VBP pushed|VBN in|IN the|DT opposite|JJ direction|NN by|IN say|NN the|DT current|JJ from|IN a|DT solar|JJ cell|NN thus|RB drawing|VBG the|DT ions|NNS inside|VBP the|DT battery|NN back|RB across|IN the|DT electrolyte|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START electrolytes|NNS are|VBP often|RB made|VBN of|IN simple|JJ abundant|NN and|CC therefore|RB cheap|VB chemical|JJ </s>|S_END
+<s>|S_START the|DT electrodes|NNS however|RB are|VBP not|RB </s>|S_END
+<s>|S_START they|PRP usually|RB require|VBP metals|NNS lead|VBP zinc|NN nickel|NN or|CC lithium|NN for|IN example|NN whose|WP$ cost|NN renders|NNS socalled|VBD “grid|JJ scale”|NN batteries|NNS able|JJ to|TO store|VB huge|JJ amounts|NNS of|IN power|NN for|IN days|NNS or|CC even|RB weeks|VBZ prohibitively|RB expensive|JJ </s>|S_END
+<s>|S_START cheaper|JJR electrodes|NNS would|MD be|VB a|DT big|JJ step|NN in|IN the|DT right|NN direction|NN and|CC that|IN is|VBZ what|WP in|IN the|DT case|NN of|IN the|DT cathode|NN dr|NN milczarek|NN and|CC dr|NN inganas|NNS hope|VBP they|PRP have|VBP made|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT good|JJ cathode|NN material|NN must|MD be|VB capable|JJ of|IN receiving|VBG and|CC storing|VBG charge|NN in|IN the|DT form|NN of|IN positive|JJ ions|NNS and|CC electrons|NNS in|IN large|JJ amount|NN </s>|S_END
+<s>|S_START lignin|NN one|CD of|IN the|DT two|CD main|JJ components|NNS of|IN wood|NN can|MD be|VB modified|VBN to|TO do|VB just|RB that|IN </s>|S_END
+<s>|S_START and|CC lignin|VBP is|VBZ cheap|NN </s>|S_END
+<s>|S_START paper|NN is|VBZ made|VBN mainly|RB of|IN cellulose|NN the|DT other|JJ component|NN of|IN wood|NN so|IN the|DT effluent|NN from|IN paper|NN mills|NNS known|VBN as|IN black|JJ or|CC brown|NN liquor|NN is|VBZ mainly|RB water|NN and|CC lignin|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT reason|NN dr|NN milczarek|NN and|CC dr|NN inganas|NNS thought|VBD lignin|NN molecules|NNS might|MD be|VB suitable|JJ for|IN use|NN as|IN cathodes|NNS was|VBD that|IN they|PRP are|VBP rich|JJ in|IN chemical|JJ groups|NNS called|VBN phenols|NNS and|CC phenols|NNS are|VBP easily|RB turned|VBN into|IN related|JJ groups|NNS called|VBN quinone|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ these|DT quinones|NNS that|WDT are|VBP the|DT crucial|JJ component|NN </s>|S_END
+<s>|S_START in|IN combination|NN with|IN a|DT second|JJ type|NN of|IN chemical|JJ called|VBN a|DT polypyrrole|NN they|PRP provide|VBP just|RB the|DT sort|NN of|IN electron|NN and|CC proton|NN receptors|NNS a|DT cathode|NN require|NN </s>|S_END
+<s>|S_START polypyrroles|NNS are|VBP not|RB as|IN cheap|NN as|IN lignin|NN but|CC compared|VBN with|IN metals|NNS they|PRP are|VBP not|RB expensive|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC so|RB it|PRP proved|VBD </s>|S_END
+<s>|S_START the|DT two|CD researchers|NNS measurements|NNS suggest|VBP that|IN the|DT ligninpolypyrrole|NN combination|NN does|VBZ indeed|VBN make|VB an|DT effective|JJ cathode|NN able|JJ to|TO store|VB a|DT lot|NN of|IN charge|NN </s>|S_END
+<s>|S_START these|DT are|VBP early|RB days|NNS obviously|RB </s>|S_END
+<s>|S_START but|CC if|IN someone|NN could|MD now|RB come|VB up|RP with|IN an|DT equally|RB cheap|NN anode|NN the|DT age|NN of|IN the|DT wooden|NN battery—and|NN with|IN it|PRP the|DT age|NN of|IN cheap|NN reliable|JJ alwayson|NN alternative|NN energy—might|NN yet|RB dawn|VBN </s>|S_END
+</p>|P_END
+

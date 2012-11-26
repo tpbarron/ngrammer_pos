@@ -1,0 +1,39 @@
+<p>|P_START
+<s>|S_START treasury|NN secretary|NN tim|NN geithner|NN will|MD stay|VB on|IN through|IN jan|JJ 21|CD possibly|RB longer|JJR according|VBG to|TO the|DT white|JJ house|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START washington|NN cnnmoney|NN treasury|NN secretary|NN tim|NN geithner|NN is|VBZ staying|VBG in|IN his|PRP$ job|NN until|IN at|IN least|JJS the|DT jan|NN 21|CD presidential|JJ inauguration|NN to|TO help|VB leaders|NNS reach|VB a|DT deal|NN to|TO avoid|VB the|DT fiscal|JJ cliff|NN a|DT top|JJ white|JJ house|NN aide|NN said|VBD friday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START geithner|NN 51|CD the|DT last|JJ holdover|NN from|IN president|NN obamas|NNS original|JJ economic|JJ team|NN has|VBZ made|VBN clear|RB hes|VBZ ready|JJ to|TO leave|VB after|IN four|CD tumultuous|JJ years|NNS </s>|S_END
+<s>|S_START with|IN obamas|NNS victory|NN on|IN tuesday|NN geithner|NN was|VBD expected|VBN to|TO resign|VB but|CC nobody|NN was|VBD sure|JJ when|WRB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START secretary|NN geithner|NN has|VBZ indicated|VBN hell|NN stay|NN on|IN through|IN inauguration|NN and|CC he|PRP will|MD be|VB a|DT key|JJ participant|NN in|IN the|DT negotiations|NNS around|IN the|DT socalled|VBN fiscal|JJ cliff|NN issue|NN said|VBD white|JJ house|NN press|NN secretary|NN jay|NN carney|NN </s>|S_END
+<s>|S_START the|DT president|NN very|RB much|RB appreciates|VBZ that|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT means|VBZ geithner|NN again|RB will|MD be|VB steering|VBG the|DT nations|NNS economy|NN away|RB from|IN another|DT potential|NN economic|JJ disaster|NN a|DT reprise|NN of|IN his|PRP$ earlier|JJR role|NN in|IN the|DT aftermath|NN of|IN the|DT financial|JJ crisis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN congress|NN doesnt|NN act|NN the|DT fiscal|JJ cliff|NN offers|NNS a|DT onetwo|CD punch|NN to|TO the|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whats|NNS in|IN the|DT fiscal|JJ cliff|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START first|JJ the|DT george|NN w|NN bushera|NN tax|NN cuts|NNS expire|VBP at|IN the|DT end|NN of|IN this|DT year|NN </s>|S_END
+<s>|S_START on|IN jan|NN 2|CD automatic|JJ spending|NN cuts|NNS will|MD commence|VB that|IN amount|NN to|TO $|$ 12|CD trillion|CD in|IN deficit|NN reduction|NN over|IN 10|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT spending|NN cuts|NNS are|VBP due|JJ to|TO a|DT compromise|NN last|JJ year|NN to|TO end|VB the|DT last|JJ big|JJ crisis|NN geithner|NN oversaw|NN raising|VBG the|DT debt|NN ceiling|NN </s>|S_END
+</p>|P_END
+

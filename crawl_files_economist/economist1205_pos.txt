@@ -1,0 +1,16 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 44|CD gdp|NN $|$ 292bn|CD ppp|CD $|$ 473bn|CD inflation|NN 26|CD population|NN 290m|CD gdp|NN per|IN head|NN $|$ 10050|CD ppp|CD $|$ 16320|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ruling|NN barisan|NN nasional|JJ coalition|NN has|VBZ a|DT habit|NN of|IN calling|VBG early|JJ elections|NNS but|CC may|MD be|VB dissuaded|VBN by|IN a|DT disappointing|JJ recent|JJ result|NN in|IN sarawak|NN one|CD of|IN its|PRP$ heartland|NN </s>|S_END
+<s>|S_START leadership|NN elections|NNS for|IN the|DT united|VBN malays|NNS national|JJ organisation|NN which|WDT dominates|VBZ the|DT coalition|NN will|MD take|VB place|NN and|CC may|MD see|VB the|DT ouster|NN of|IN najib|NN razak|NN as|IN party|NN leader|NN and|CC national|JJ president|NN </s>|S_END
+<s>|S_START the|DT opposition|NN pakatan|NN rakyat|IN alliance|NN is|VBZ without|IN its|PRP$ figurehead|NN anwar|NN ibrahim|NN who|WP faces|NNS allegations|NNS of|IN sodomy|NN it|PRP may|MD not|RB hold|VB together|RB </s>|S_END
+<s>|S_START the|DT economy|NN will|MD do|VB well|RB as|IN trade|NN within|IN asia|NN deepen|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB off|RP the|DT block|NN </s>|S_END
+<s>|S_START legoland|NN malaysia|NN the|DT toy|NN manufacturers|NNS sixth|JJ theme|NN park|NN but|CC the|DT first|JJ in|IN asia|NN will|MD open|VB in|IN 2012|CD using|VBG some|DT 30m|CD lego|NN brick|NN </s>|S_END
+</p>|P_END
+

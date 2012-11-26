@@ -1,0 +1,77 @@
+<p>|P_START
+<s>|S_START open|JJ up|IN any|DT electronic|JJ device|NN and|CC inside|VB there|EX are|VBP circuit|NN boards|NNS components|NNS and|CC bundles|NNS of|IN wire|NN </s>|S_END
+<s>|S_START assembling|VBG these|DT items|NNS into|IN a|DT product|NN like|IN a|DT phone|NN can|MD be|VB a|DT tedious|JJ labourintensive|JJ process|NN and|CC one|CD that|WDT is|VBZ often|RB subcontracted|VBN to|TO lowwage|NN countries|NNS such|JJ as|IN china|NN </s>|S_END
+<s>|S_START now|RB new|JJ ways|NNS of|IN printing|VBG electronics|NNS in|IN three|CD dimensions|NNS are|VBP being|VBG developed|VBN </s>|S_END
+<s>|S_START this|DT makes|VBZ it|PRP possible|JJ to|TO incorporate|VB circuitry|NN and|CC components|NNS into|IN the|DT material|NN the|DT product|NN is|VBZ made|VBN from|IN such|JJ as|IN the|DT phone’s|NNP case|NN </s>|S_END
+<s>|S_START it|PRP could|MD revolutionise|VB the|DT way|NN electronic|JJ goods|NNS are|VBP made|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START printing|VBG electronics|NNS is|VBZ not|RB new|JJ screen|NN printing|VBG lithography|NN inkjet|NN and|CC other|JJ processes|NNS have|VBP long|RB been|VBN used|VBN to|TO manufacture|VB circuit|NN boards|NNS and|CC component|NN </s>|S_END
+<s>|S_START but|CC the|DT technologies|NNS are|VBP improving|VBG rapidly|RB and|CC now|RB allow|VBP electronics|NNS to|TO be|VB printed|VBN on|IN a|DT greater|JJR variety|NN of|IN surface|NN </s>|S_END
+<s>|S_START in|IN the|DT latest|JJS developments|NNS electronics|NNS printing|VBG is|VBZ being|VBG combined|VBN with|IN “additive|JJ manufacturing”|NN which|WDT uses|NNS machines|VBZ popularly|RB known|VBN as|IN 3d|JJ printers|NNS to|TO build|VB solid|JJ objects|NNS out|IN of|IN material|NN one|CD layer|NN at|IN a|DT time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START inking|VBG the|DT change|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START printing|VBG electronics|NNS requires|NNS “inks”|-NONE- with|IN electrical|JJ properties|NNS that|WDT can|MD act|VB as|IN conductors|NNS resistors|NNS or|CC semiconductor|NN </s>|S_END
+<s>|S_START these|DT inks|NNS are|VBP becoming|VBG more|RBR versatile|JJ </s>|S_END
+<s>|S_START one|CD example|NN comes|VBZ from|IN xerox|NN an|DT american|JJ firm|NN which|WDT makes|VBZ office|NN equipment|NN and|CC commercial|JJ printing|NN system|NN </s>|S_END
+<s>|S_START its|PRP$ research|NN centre|NN in|IN canada|NN has|VBZ developed|VBN a|DT silver|NN ink|NN which|WDT can|MD be|VB used|VBN to|TO print|VB flexible|JJ electronic|JJ circuits|NNS directly|RB onto|IN materials|NNS like|IN plastic|JJ or|CC fabric|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ilver|NN is|VBZ a|DT better|JJR conductor|NN of|IN electricity|NN than|IN copper|NN which|WDT is|VBZ typically|RB used|VBN in|IN circuits|NNS but|CC silver|RB is|VBZ expensive|JJ and|CC tricky|JJ to|TO print|VB because|IN it|PRP melts|VBZ at|IN 962°c|CD </s>|S_END
+<s>|S_START however|RB by|IN making|VBG silver|NN into|IN particles|NNS just|RB five|CD nanometres|NNS billionths|NNS of|IN a|DT metre|NN in|IN size|NN xerox|NN has|VBZ produced|VBN a|DT silver|NN ink|NN which|WDT melts|NNS at|IN less|JJR than|IN 140°c|CD </s>|S_END
+<s>|S_START that|DT allows|VBZ it|PRP to|TO be|VB printed|VBN using|VBG inkjet|NN and|CC other|JJ processes|NNS relatively|RB cheaply|RB says|VBZ paul|JJ smith|NN the|DT director|NN of|IN research|NN at|IN the|DT laboratory|NN </s>|S_END
+<s>|S_START only|RB minuscule|VBP quantities|NNS of|IN silver|NN are|VBP used|VBN and|CC there|EX is|VBZ no|DT waste|NN unlike|IN chemicaletching|VBG processe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START xerox’s|NNS parc|VBP research|NN centre|NN in|IN palo|NN alto|NN california|NN is|VBZ developing|VBG ways|NNS to|TO use|VB such|JJ ink|NN </s>|S_END
+<s>|S_START these|DT can|MD print|VB circuits|NNS for|IN various|JJ components|NNS including|VBG flexible|JJ display|NN screens|NNS sensors|NNS and|CC antennae|VB for|IN radiofrequency|NN security|NN tag|NN </s>|S_END
+<s>|S_START with|IN the|DT emergence|NN of|IN additivemanufacturing|VBG techniques|NNS it|PRP starts|VBZ to|TO become|VB possible|JJ to|TO print|VB such|JJ things|NNS directly|RB onto|IN the|DT product|NN itself|PRP says|VBZ janos|NNS veres|NNS the|DT manager|NN of|IN parc’s|NNP printedelectronics|NNS team|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT includes|VBZ products|NNS with|IN complex|JJ shape|NN </s>|S_END
+<s>|S_START optomec|NN based|VBN in|IN albuquerque|NN new|JJ mexico|NN has|VBZ developed|VBN additivemanufacturing|VBG systems|NNS for|IN a|DT variety|NN of|IN industrie|NN </s>|S_END
+<s>|S_START it|PRP can|MD print|VB electronics|NNS directly|RB onto|IN a|DT pair|NN of|IN glasses|NNS for|IN “augmented|JJ reality”|NN it|PRP can|MD make|VB a|DT plastic|JJ water|NN tank|NN that|WDT uses|VBZ embedded|VBN electronics|NNS to|TO measure|VB how|WRB full|JJ it|PRP is|VBZ and|CC turn|VB pumps|NNS on|IN or|CC off|IN it|PRP can|MD print|VB sensors|NNS on|IN military|JJ armour|NN or|CC an|DT antenna|NN on|IN the|DT case|NN of|IN a|DT mobile|JJ phone|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT recent|JJ threeway|NN tieup|NN optomec|NN worked|VBD with|IN aurora|NN flight|NN sciences|NNS an|DT american|JJ producer|NN of|IN unmanned|VBN aerial|JJ vehicles|NNS and|CC stratasys|NNS a|DT 3dprinting|JJ company|NN based|VBN in|IN minneapolis|NNS to|TO make|VB a|DT “smart|JJ wing”|NN for|IN a|DT small|JJ drone|NN </s>|S_END
+<s>|S_START the|DT wing|NN was|VBD made|VBN from|IN a|DT thermoplastic|JJ material|NN using|VBG a|DT stratasys|NNS 3d|CD printer|NN </s>|S_END
+<s>|S_START optomec|NN then|RB used|VBN a|DT process|NN it|PRP calls|VBZ aerosol|NN jet|NN to|TO print|VB circuits|NNS sensors|NNS and|CC an|DT antenna|NN on|IN the|DT wing|NN </s>|S_END
+<s>|S_START the|DT idea|NN is|VBZ that|IN such|JJ technology|NN would|MD allow|VB lightweight|JJ drones|NNS that|WDT can|MD be|VB customised|VBN for|IN specific|JJ missions|NNS and|CC printed|VBD on|IN demand|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START optomec’s|NNS aerosol|VBP jet|NN works|NNS very|RB differently|RB from|IN inkjet|NN printing|VBG in|IN which|WDT a|DT print|NN head|NN positioned|VBD barely|RB a|DT millimetre|NN away|RB deposits|VBZ a|DT droplet|NN of|IN ink|NN on|IN a|DT flat|JJ surface|NN </s>|S_END
+<s>|S_START aerosol|NN jet|VBD at|IN first|JJ atomises|NNS nanoparticlebased|VBN print|NN materials|NNS into|IN microscopic|JJ droplets|NNS which|WDT are|VBP then|RB focused|VBN using|VBG a|DT sheath|NN of|IN gas|NN into|IN a|DT precise|JJ jet|NN stream|NN directed|VBD by|IN a|DT nozzle|NN </s>|S_END
+<s>|S_START the|DT nozzle|NN can|MD be|VB held|VBN five|CD millimetres|NNS or|CC more|JJR away|RB from|IN the|DT surface|NN which|WDT allows|VBZ irregular|JJ shapes|NNS to|TO be|VB coated|VBN </s>|S_END
+<s>|S_START both|DT the|DT nozzle|NN and|CC the|DT tray|NN holding|VBG the|DT item|NN being|VBG printed|VBN can|MD be|VB manipulated|VBN through|IN different|JJ angles|NNS to|TO work|VB on|IN threedimensional|JJ structure|NN </s>|S_END
+<s>|S_START the|DT system|NN can|MD print|VB electronic|JJ features|NNS smaller|JJR than|IN a|DT hundredth|NN of|IN a|DT millimetre|NN wide|NN from|IN a|DT variety|NN of|IN material|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START instead|RB of|IN assembling|VBG an|DT item|NN from|IN many|JJ separate|JJ components|NNS 3dprinted|JJ electronics|NNS make|VBP it|PRP possible|JJ to|TO print|VB an|DT entire|JJ product|NN in|IN a|DT single|JJ machine|NN says|VBZ dave|NN ramahi|NN optomec’s|NNS chief|NN executive|NN </s>|S_END
+<s>|S_START however|RB for|IN the|DT technology|NN to|TO take|VB off|RP he|PRP believes|VBZ it|PRP needs|VBZ to|TO be|VB commercialised|VBN in|IN an|DT evolutionary|JJ way|NN </s>|S_END
+<s>|S_START this|DT means|VBZ applying|VBG it|PRP at|IN certain|JJ stages|NNS of|IN existing|VBG massproduction|NN processes|NNS such|JJ as|IN printing|NN antennae|NN onto|IN mobilephone|NN case|NN </s>|S_END
+<s>|S_START many|JJ phones|NNS use|VBP a|DT number|NN of|IN different|JJ antennae|NN to|TO connect|VB to|TO different|JJ radio|NN networks|NNS so|RB this|DT would|MD make|VB more|RBR room|JJ for|IN conventional|JJ electronics|NNS inside|VBP </s>|S_END
+<s>|S_START ome|NN commercial|JJ applications|NNS of|IN the|DT technology|NN are|VBP less|RBR than|IN a|DT year|NN away|RB adds|VBZ mr|NN ramahi|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START o|NN how|WRB difficult|JJ would|MD it|PRP be|VB to|TO print|VB a|DT phone|NN complete|NN with|IN all|DT its|PRP$ electronic|JJ gubbin|NN </s>|S_END
+<s>|S_START optomec|NN is|VBZ developing|VBG applications|NNS which|WDT could|MD provide|VB some|DT of|IN the|DT necessary|JJ step|NN </s>|S_END
+<s>|S_START besides|IN antennae|NN these|DT include|NN edge|NN circuits|NNS for|IN the|DT screen|NN threedimensional|JJ connections|NNS for|IN chips|NNS multiplelayer|NN circuits|NNS and|CC touchscreen|IN part|NN </s>|S_END
+<s>|S_START it|PRP would|MD also|RB be|VB possible|JJ to|TO print|VB the|DT battery|NN </s>|S_END
+<s>|S_START the|DT biggest|JJS challenge|NN would|MD be|VB to|TO print|VB the|DT chips|NNS that|WDT are|VBP the|DT brains|NNS of|IN the|DT phone|NN </s>|S_END
+<s>|S_START these|DT contain|NN millions|NNS of|IN transistors|NNS in|IN a|DT square|NN millimetre|NN and|CC are|VBP at|IN present|JJ made|NN in|IN siliconfabrication|NN plants|NNS costing|VBG $|$ 10|CD billion|CD or|CC more|JJR </s>|S_END
+<s>|S_START yet|RB embedding|VBG even|RB some|DT circuitry|NN means|VBZ phones|NNS could|MD be|VB made|VBN slimmer|NN as|IN well|RB as|IN reducing|VBG the|DT costs|NNS of|IN materials|NNS and|CC assembly|RB </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,44 @@
+<p>|P_START
+<s>|S_START click|NN the|DT chart|NN for|IN more|JJR world|NN markets|NNS data|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN world|NN markets|NNS surged|VBD friday|NN as|IN news|NN of|IN chinese|JJ plans|NNS to|TO spend|VB billions|NNS on|IN roads|NNS rail|VBP and|CC other|JJ infrastructure|NN projects|NNS added|VBD to|TO hopes|NNS for|IN more|JJR global|JJ stimulus|NN following|VBG the|DT european|JJ central|JJ banks|NNS bond|NN buying|VBG plan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT official|JJ chinese|NN news|NN agency|NN xinhuanet|NN reported|VBD friday|NN that|IN the|DT national|JJ development|NN and|CC reform|NN commission|NN chinas|NNS top|VBP economic|JJ planner|NN approved|VBD 55|CD investment|NN projects|NNS worth|IN 1|CD trillion|NN yuan|NN or|CC $|$ 1577|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN response|NN the|DT shanghai|NN composite|JJ index|NN shcomp|NN closed|VBD up|RB 37|CD while|IN hong|JJ kongs|NNS hang|VBP seng|JJ hsi|NN gained|VBD 31|CD </s>|S_END
+<s>|S_START japans|NNS nikkei|VBP n225|NNP rose|VBD 22|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START markets|NNS in|IN europe|NN were|VBD higher|JJR in|IN midday|NN trading|NN friday|NN with|IN frances|NNS cac|VBP 40|CD cac40|NNP and|CC germanys|VBZ dax|NN dax|NN each|DT up|IN about|IN 1|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START european|JJ central|JJ bank|NN president|NN mario|NN draghi|NN raised|VBD hopes|NNS thursday|NN for|IN more|JJR aggressive|JJ stimulus|NN in|IN support|NN of|IN the|DT euro|NN with|IN a|DT plan|NN for|IN unlimited|VBN bond|NN purchases|NNS by|IN the|DT ecb|NN </s>|S_END
+<s>|S_START markets|NNS in|IN europe|NN and|CC the|DT us|PRP soared|VBD on|IN his|PRP$ comments|NNS </s>|S_END
+<s>|S_START part|NN of|IN fridays|NNS rally|RB in|IN asia|NN is|VBZ likely|JJ due|JJ to|TO the|DT ecb|NN announcement|NN as|IN well|RB since|IN the|DT european|JJ debt|NN crisis|NN has|VBZ become|VBN a|DT major|JJ drag|NN on|IN manufacturing|NN in|IN china|NN and|CC other|JJ asian|JJ countries|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START draghis|PRP$ rescue|NN plan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT news|NN out|IN of|IN the|DT ecb|NN and|CC china|NN helped|VBD to|TO lifted|VBN the|DT euro|NN against|IN the|DT dollar|NN but|CC japans|NNS yen|NNS slipped|VBD compared|VBN to|TO those|DT currencies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START us|PRP stock|NN futures|NNS were|VBD higher|JJR friday|NN but|CC pulled|VBD back|RP after|IN a|DT disappointing|JJ us|PRP jobs|VBZ report|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT governments|NNS august|VBP report|NN showed|VBD employers|NNS added|VBD fewer|JJR workers|NNS than|IN expected|VBN to|TO payrolls|NNS </s>|S_END
+<s>|S_START the|DT report|NN dashed|VBD hopes|NNS for|IN stronger|JJR numbers|NNS after|IN payroll|NN processing|NN firm|NN adp|NN said|VBD private|JJ sector|NN employers|NNS added|VBD 201000|CD jobs|NNS in|IN the|DT month|NN on|IN thursday|NN or|CC roughly|RB twice|NN the|DT number|NN reported|VBD by|IN the|DT labor|NN department|NN </s>|S_END
+</p>|P_END
+

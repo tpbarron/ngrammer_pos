@@ -1,0 +1,11 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 07|CD gdp|NN $|$ 2511bn|CD ppp|CD $|$ 2293bn|CD inflation|NN 29|CD population|NN 631m|CD gdp|NN per|IN head|NN $|$ 39770|CD ppp|CD $|$ 36310|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT pain|NN of|IN a|DT bruising|NN first|RB year|NN was|VBD not|RB evenly|RB shared|VBN by|IN the|DT parties|NNS of|IN the|DT ruling|NN coalition|NN with|IN the|DT junior|JJ liberal|NN democrats|NNS bearing|VBG the|DT brunt|NN of|IN public|JJ anger|NN </s>|S_END
+<s>|S_START nevertheless|RB both|DT the|DT conservatives|NNS and|CC the|DT lib|NN dems|NNS still|RB have|VBP more|JJR to|TO lose|VB than|IN to|TO gain|VB from|IN fresh|JJ elections|NNS and|CC the|DT coalition|NN will|MD endure|VB though|IN with|IN more|JJR combative|JJ internal|JJ relations|NNS than|IN before|IN </s>|S_END
+<s>|S_START after|IN the|DT adoption|NN in|IN 2011|CD of|IN budget|NN tightening|VBG amid|IN tepid|JJ recovery|NN austerity|NN will|MD bite|VB in|IN 2012|CD fuelling|VBG discontent|NN </s>|S_END
+<s>|S_START policy|NN will|MD focus|VB on|IN rebalancing|NN the|DT economy|NN from|IN debtfuelled|VBN consumption|NN to|TO exports|NNS and|CC from|IN financial|JJ engineering|NN to|TO the|DT nutsandbolts|NNS variety|NN but|CC the|DT shortterm|NN outlook|NN is|VBZ for|IN sluggish|JJ growth|NN austerity|NN and|CC an|DT angry|NN populace|NN </s>|S_END
+</p>|P_END
+

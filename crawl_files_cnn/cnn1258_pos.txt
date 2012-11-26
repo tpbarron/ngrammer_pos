@@ -1,0 +1,60 @@
+<p>|P_START
+<s>|S_START treasury|NN secretary|NN tim|NN geithner|NN has|VBZ warned|VBN of|IN dire|NN consequences|NNS if|IN congress|NN fails|VBZ to|TO raise|VB the|DT debt|NN ceiling|NN in|IN time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN underscoring|VBG the|DT need|NN for|IN swift|NN congressional|JJ action|NN the|DT treasury|NN department|NN on|IN friday|NN reiterated|VBN its|PRP$ aug|NN 2|CD deadline|NN for|IN raising|NN the|DT debt|NN ceiling|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START treasury|NN urged|VBD congress|NN to|TO avoid|VB the|DT catastrophic|JJ economic|JJ and|CC market|NN consequences|NNS of|IN a|DT default|NN crisis|NN by|IN raising|NN the|DT statutory|NN debt|NN limit|NN in|IN a|DT timely|JJ manner|NN according|VBG to|TO a|DT statement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START over|IN the|DT next|JJ several|JJ weeks|NNS republicans|NNS and|CC democrats|NNS must|MD bridge|VB their|PRP$ political|JJ divisions|NNS and|CC agree|VBP on|IN a|DT debtreduction|NN plan|NN that|WDT many|JJ lawmakers|NNS are|VBP demanding|VBG in|IN exchange|NN for|IN their|PRP$ support|NN to|TO raise|VB the|DT debt|NN ceiling|NN </s>|S_END
+<s>|S_START then|RB congress|VBP must|MD write|VB legislation|NN to|TO implement|VB the|DT deal|NN </s>|S_END
+<s>|S_START read|NN debt|NN ceiling|NN faqs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ unclear|JJ if|IN lawmakers|NNS will|MD succeed|VB </s>|S_END
+<s>|S_START negotiations|NNS stalled|VBD last|JJ week|NN when|WRB house|NN majority|NN leader|NN eric|JJ cantor|NN pulled|VBD out|IN of|IN bipartisan|NN talks|NNS led|VBD by|IN vice|NN president|NN joe|NN biden|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START since|IN then|RB obama|NN has|VBZ met|VBN with|IN senate|JJ leaders|NNS and|CC called|VBN on|IN lawmakers|NNS to|TO do|VB their|PRP$ job|NN </s>|S_END
+<s>|S_START senate|NN majority|NN leader|NN harry|NN reid|VBD on|IN thursday|NN canceled|VBN the|DT chambers|NNS scheduled|VBN recess|NN next|IN week|NN to|TO continue|VB working|JJ on|IN the|DT debt|NN ceiling|NN </s>|S_END
+<s>|S_START but|CC its|PRP$ not|RB clear|JJ exactly|RB what|WP the|DT senate|NN will|MD be|VB doing|VBG to|TO move|VB the|DT ball|NN forward|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN congress|NN does|VBZ nothing|NN by|IN aug|NN 2|CD the|DT consequences|NNS are|VBP expected|VBN to|TO be|VB costly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT government|NN reached|VBD its|PRP$ legal|JJ borrowing|VBG limit|NN on|IN may|MD 16|CD and|CC has|VBZ been|VBN taking|VBG extraordinary|JJ measures|NNS since|IN to|TO keep|VB the|DT country|NN out|IN of|IN default|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT debt|NN ceiling|NN isnt|NN raised|VBD treasury|NN would|MD not|RB be|VB able|JJ to|TO pay|VB nearly|RB half|NN of|IN the|DT 80|CD million|CD payments|NNS it|PRP needs|VBZ to|TO make|VB every|DT month|NN according|VBG to|TO an|DT estimate|NN this|DT week|NN by|IN budget|NN experts|NNS at|IN the|DT bipartisan|NN policy|NN center|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC treasury|NN secretary|NN tim|NN geithner|NN would|MD have|VB to|TO choose|VB which|WDT bills|NNS to|TO pay|VB and|CC which|WDT ones|NNS to|TO put|VB off|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START prioritizing|VBG payments|NNS would|MD be|VB deeply|RB irresponsible|JJ geithner|NN wrote|VBD in|IN a|DT letter|NN this|DT week|NN to|TO senator|NN jim|NN demint|NN </s>|S_END
+<s>|S_START budget|NN experts|NNS have|VBP said|VBN it|PRP would|MD be|VB a|DT technical|JJ and|CC legal|JJ mess|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT expectation|NN is|VBZ that|IN geithner|NN would|MD choose|VB to|TO pay|VB bond|NN investors|NNS first|RB so|RB the|DT country|NN could|MD avoid|VB formal|JJ default|NN </s>|S_END
+<s>|S_START at|IN the|DT same|JJ timehe|NN would|MD have|VB to|TO indefinitely|RB delay|VB payments|NNS to|TO anything|NN from|IN social|JJ security|NN recipients|NNS to|TO government|NN contractors|NNS to|TO federal|JJ worker|NN and|CC military|JJ service|NN members|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC even|RB if|IN bond|NN investors|NNS continue|VBP to|TO get|VB paid|VBN at|IN the|DT expense|NN of|IN others|NNS thats|NNS no|DT guarantee|NN the|DT market|NN reaction|NN would|MD be|VB benign|JJ </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

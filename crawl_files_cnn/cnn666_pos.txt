@@ -1,0 +1,19 @@
+<p>|P_START
+<s>|S_START the|DT answer|NN is|VBZ simple|JJ as|IN soon|RB as|IN you|PRP can|MD </s>|S_END
+<s>|S_START ideally|RB youd|VBD start|NN saving|NN in|IN your|PRP$ 20s|CD when|WRB you|PRP first|RB leave|VBP school|NN and|CC begin|VB earning|VBG paychecks|NNS </s>|S_END
+<s>|S_START thats|NNS because|IN the|DT sooner|NN you|PRP begin|VBP saving|VBG the|DT more|JJR time|NN your|PRP$ money|NN has|VBZ to|TO grow|VB </s>|S_END
+<s>|S_START each|DT years|NNS gains|VBZ can|MD generate|VB their|PRP$ own|JJ gains|NNS the|DT next|JJ year|NN a|DT powerful|JJ wealthbuilding|NN phenomenon|NN known|VBN as|IN compounding|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START heres|NNS an|DT example|NN of|IN what|WP a|DT big|JJ difference|NN starting|NN young|NN can|MD make|VB </s>|S_END
+<s>|S_START say|VBP you|PRP start|VB at|IN age|NN 25|CD and|CC put|VBD aside|NN $|$ 3000|CD a|DT year|NN in|IN a|DT taxdeferred|VBN retirement|NN account|NN for|IN 10|CD years|NNS and|CC then|RB you|PRP stop|VB saving|VBG completely|RB </s>|S_END
+<s>|S_START by|IN the|DT time|NN you|PRP reach|VBP 65|CD your|PRP$ $|$ 30000|CD investment|NN will|MD have|VB grown|VBN to|TO more|RBR than|IN $|$ 472000|CD assuming|VBG an|DT 8|CD annual|JJ return|NN even|RB though|IN you|PRP didnt|VBP contribute|JJ a|DT dime|NN beyond|NN age|NN 35|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START now|RB lets|VBZ say|VBP you|PRP put|VBD off|RP saving|VBG until|IN you|PRP turn|VBP 35|CD and|CC then|RB save|VB $|$ 3000|CD a|DT year|NN for|IN 30|CD years|NNS </s>|S_END
+<s>|S_START by|IN the|DT time|NN you|PRP reach|VBP 65|CD you|PRP will|MD have|VB set|VBN aside|JJ $|$ 90000|CD of|IN your|PRP$ own|JJ money|NN but|CC it|PRP will|MD grow|VB to|TO only|RB about|RB $|$ 367000|CD assuming|VBG the|DT same|JJ 8|CD annual|JJ return|NN </s>|S_END
+<s>|S_START thats|NNS a|DT huge|JJ difference|NN </s>|S_END
+</p>|P_END
+

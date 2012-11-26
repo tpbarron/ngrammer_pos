@@ -1,0 +1,86 @@
+<p>|P_START
+<s>|S_START the|DT worlds|NNS auto|NN industry|NN will|MD suffer|VB a|DT fourth|JJ year|NN of|IN poor|JJ sales|NNS in|IN 2011|CD </s>|S_END
+<s>|S_START for|IN several|JJ struggling|VBG carmakers|NNS this|DT will|MD be|VB especially|RB unwelcome|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START global|JJ sales|NNS of|IN cars|NNS buses|NNS and|CC trucks|NNS peaked|VBD along|IN with|IN the|DT american|JJ economy|NN in|IN 2007|CD </s>|S_END
+<s>|S_START just|RB over|IN 714m|CD vehicles|NNS were|VBD sold|VBN that|IN year|NN or|CC nearly|RB 200000|CD a|DT day|NN </s>|S_END
+<s>|S_START as|IN most|JJS of|IN the|DT worlds|NNS big|JJ economies|NNS withered|VBN the|DT following|NN year|NN the|DT market|NN shrank|NN by|IN more|RBR than|IN 6|CD a|DT rate|NN of|IN decline|NN not|RB seen|VBN for|IN decade|NN </s>|S_END
+<s>|S_START ales|NNS dropped|VBD even|RB further|JJ in|IN 2009|CD despite|IN government|NN bailouts|NNS and|CC subsidies|NNS for|IN newcar|NN buyer|NN </s>|S_END
+<s>|S_START with|IN the|DT economic|JJ climate|NN improving|VBG volumes|NNS bounced|VBN back|RP in|IN 2010|CD although|IN they|PRP remained|VBD 5|CD below|IN the|DT peak|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB the|DT decline|NN and|CC recovery|NN were|VBD very|RB uneven|VBN </s>|S_END
+<s>|S_START ales|NNS plummeted|VBD in|IN america|NN to|TO levels|NNS last|JJ seen|NN in|IN the|DT early|JJ 1970s—almost|CD 40|CD below|IN their|PRP$ highest|JJS point|NN </s>|S_END
+<s>|S_START in|IN europe|NN the|DT largest|JJS regional|JJ market|NN demand|NN dropped|VBD steadily|RB cushioned|VBN by|IN government|NN subsidies|NNS sliding|VBG by|IN 15|CD </s>|S_END
+<s>|S_START in|IN contrast|NN sales|NNS in|IN india|NN clattered|VBD along|IN and|CC those|DT in|IN china|NN boomed|VBD doubling|VBG between|IN 2007|CD and|CC 2010|CD to|TO make|VB it|PRP the|DT largest|JJS auto|NN market|NN in|IN the|DT world|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN industry|NN expectations|NNS for|IN a|DT sustained|VBN recovery|NN the|DT outlook|NN for|IN 2011|CD has|VBZ clouded|VBN </s>|S_END
+<s>|S_START american|NN demand|NN will|MD rise|VB only|RB slightly|RB if|IN at|IN all|DT </s>|S_END
+<s>|S_START with|IN the|DT housing|NN market|NN still|RB in|IN the|DT doldrums|NNS and|CC cashforclunker|NN subsidies|NNS at|IN an|DT end|NN consumers|NNS will|MD be|VB wary|JJ about|IN buying|NN bigticket|NN item|NN </s>|S_END
+<s>|S_START ales|NNS in|IN japan|NN will|MD dip|VB again|RB reflecting|VBG the|DT countrys|NNS comatose|VBP economy|NN </s>|S_END
+<s>|S_START in|IN europe|NN without|IN subsidies|NNS and|CC with|IN government|NN spending|NN cuts|NNS due|JJ to|TO come|VB into|IN force|NN demand|NN will|MD fall|VB further|JJ </s>|S_END
+<s>|S_START and|CC although|IN sales|NNS will|MD rise|VB in|IN china|NN the|DT pace|NN will|MD slow|VB </s>|S_END
+<s>|S_START the|DT economy|NN which|WDT has|VBZ been|VBN fuelled|VBN by|IN huge|JJ government|NN cash|NN injections|NNS as|IN well|RB as|IN by|IN property|NN and|CC stockmarket|NN bubbles|NNS will|MD cool|VB </s>|S_END
+<s>|S_START demand|NN for|IN cars|NNS will|MD grow|VB in|IN other|JJ developing|VBG countries|NNS such|JJ as|IN india|NN but|CC their|PRP$ volumes|NNS are|VBP not|RB enough|RB to|TO make|VB up|RP the|DT shortfall|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT fall|NN in|IN global|JJ sales|NNS spells|NNS trouble|JJ for|IN some|DT of|IN the|DT worlds|NNS auto|NN giant|NN </s>|S_END
+<s>|S_START in|IN america|NN gm|NN and|CC chrysler|NN which|WDT have|VBP received|VBN large|JJ government|NN handouts|NNS face|VBP particular|JJ problem|NN </s>|S_END
+<s>|S_START although|IN they|PRP have|VBP shed|VBN billions|NNS of|IN dollars|NNS in|IN debt|NN and|CC tens|NNS of|IN thousands|NNS of|IN employees|NNS they|PRP remain|VBP financially|RB weak|JJ with|IN tattered|JJ reputation|NN </s>|S_END
+<s>|S_START they|PRP were|VBD counting|VBG on|IN a|DT sustained|VBN bounceback|NN which|WDT has|VBZ not|RB happened|VBN </s>|S_END
+<s>|S_START in|IN europe|NN gms|NNS subsidiary|NN opel|NN will|MD find|VB itself|PRP on|IN a|DT bumpy|NN road|NN again|RB </s>|S_END
+<s>|S_START with|IN a|DT declining|VBG market|NN no|DT chance|NN of|IN government|NN support|NN and|CC a|DT cashstrapped|JJ parent|NN it|PRP faces|VBZ tough|JJ choice|NN </s>|S_END
+<s>|S_START aab|NN already|RB a|DT shadow|NN of|IN what|WP it|PRP once|RB was|VBD and|CC now|RB owned|VBN by|IN spyker|NN of|IN the|DT netherlands|NNS will|MD shrivel|VB </s>|S_END
+<s>|S_START italys|NNS fiat|VBP will|MD also|RB find|VB 2011|CD hard|JJ going|NN as|IN it|PRP gets|VBZ held|VBN back|RB by|IN its|PRP$ chrysler|NN alliance|NN and|CC weak|JJ domestic|JJ sale|NN </s>|S_END
+<s>|S_START volvo|NN will|MD struggle|VB too|RB in|IN its|PRP$ first|JJ full|JJ year|NN under|IN chinese|JJ ownership|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN other|JJ carmakers|NNS the|DT troubles|NNS of|IN these|DT weaker|NN firms|NNS will|MD come|VB as|RB welcome|VB new|JJ </s>|S_END
+<s>|S_START the|DT industry|NN has|VBZ been|VBN burdened|VBN with|IN at|IN least|JJS 50|CD too|RB much|JJ capacity|NN for|IN year|NN </s>|S_END
+<s>|S_START despite|IN the|DT developedmarket|NN slump|NN since|IN 2007|CD almost|RB no|DT big|JJ car|NN plants|NNS have|VBP been|VBN closed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dont|NN cry|NN for|IN me|PRP ford|VBD cortina|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT comfort|NN will|MD be|VB shortlived|VBN however|RB because|IN even|RB the|DT healthier|NN carmakers|NNS face|VBP a|DT host|NN of|IN other|JJ difficultie|NN </s>|S_END
+<s>|S_START input|NN prices|NNS will|MD rise|VB and|CC new|JJ emissions|NNS regulations|NNS will|MD require|VB additional|JJ rd|NN spending|NN </s>|S_END
+<s>|S_START fuel|NN and|CC vehicle|NN taxes|NNS will|MD go|VB up|RP in|IN many|JJ place|NN </s>|S_END
+<s>|S_START consumers|NNS in|IN america|NN and|CC europe|NN will|MD become|VB more|RBR priceconscious|JJ buying|NN smaller|NN cheaper|NN cars|NNS instead|RB of|IN profitable|JJ hunksonwheel|NN </s>|S_END
+<s>|S_START ooner|NN or|CC later|JJ rising|VBG interest|NN rates|NNS will|MD accelerate|VB the|DT trend|NN </s>|S_END
+<s>|S_START luxury|NN carmakers|NNS will|MD see|VB their|PRP$ sales|NNS divide—surging|JJ in|IN developing|VBG markets|NNS and|CC sinking|VBG in|IN developed|JJ one|CD </s>|S_END
+<s>|S_START the|DT rise|NN of|IN domestic|JJ firms|NNS in|IN china|NN and|CC india|NN will|MD also|RB challenge|VB western|JJ manufacturers|NNS eroding|VBG one|CD of|IN their|PRP$ few|JJ sources|NNS of|IN growth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN lower|JJR sales|NNS and|CC higher|JJR costs|NNS carmakers|NNS will|MD have|VB to|TO raise|VB prices|NNS the|DT last|JJ thing|NN they|PRP need|VBP at|IN a|DT time|NN of|IN weak|JJ demand|NN </s>|S_END
+<s>|S_START for|IN consumers|NNS who|WP have|VBP seen|VBN the|DT real|JJ costs|NNS of|IN motoring|VBG fall|NN for|IN more|JJR than|IN two|CD decades|NNS this|DT will|MD reverse|VB a|DT trend|NN they|PRP have|VBP become|VBN overly|RB used|VBN to|TO </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP will|MD be|VB easy|JJ to|TO feel|VB sorry|JJ for|IN the|DT worlds|NNS carmakers|NNS in|IN 2011|CD </s>|S_END
+<s>|S_START there|EX will|MD be|VB thousands|NNS more|RBR layoffs|NNS wailing|VBG headlines|NNS and|CC much|RB wringing|VBG of|IN hands|NNS especially|RB in|IN government|NN offices|NNS in|IN america|NN and|CC europe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC spare|VBP the|DT tissue|NN </s>|S_END
+<s>|S_START most|JJS of|IN the|DT industrys|NNS troubles|VBZ are|VBP selfinflicted|VBN </s>|S_END
+<s>|S_START carmakers|NNS flooded|VBD the|DT market|NN with|IN unprofitable|JJ cars|NNS in|IN the|DT good|NN times|VBZ in|IN an|DT effort|NN to|TO stave|VB off|RP the|DT closure|NN of|IN uneconomic|JJ factorie|NN </s>|S_END
+<s>|S_START they|PRP compensated|VBD by|IN squeezing|NN suppliers|NNS and|CC dealers|NNS to|TO the|DT edge|NN of|IN bankruptcy|NN and|CC through|IN creative|JJ financing|NN scheme|NN </s>|S_END
+<s>|S_START when|WRB times|NNS got|VBD tough|JJ they|PRP looked|VBD to|TO governments|NNS to|TO provide|VB another|DT cushion|NN through|IN subsidie|NN </s>|S_END
+<s>|S_START without|IN the|DT recovery|NN they|PRP were|VBD banking|VBG on|IN the|DT fallout|NN from|IN such|JJ folly|RB will|MD become|VB clear|JJ in|IN 2011|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START graeme|NN maxton|VBD freelance|NN contributor|NN tothe|NN economist|NN and|CC author|NN of|IN “from|JJ enlightenment|NN to|TO endarkenment”|NNP to|TO be|VB published|VBN in|IN 2011|CD by|IN wiley|NN </s>|S_END
+</p>|P_END
+

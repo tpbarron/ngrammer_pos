@@ -1,0 +1,36 @@
+<p>|P_START
+<s>|S_START the|DT object|NN in|IN question|NN is|VBZ really|RB just|RB a|DT very|RB large|JJ granite|NN boulder|NN </s>|S_END
+<s>|S_START it|PRP weighs|VBZ 340|CD tons|NNS and|CC is|VBZ the|DT size|NN of|IN a|DT house|NN </s>|S_END
+<s>|S_START it|PRP sat|VBD unappreciated|VBN in|IN a|DT california|NN quarry|NN until|IN michael|NN heizer|NN an|DT artist|NN spotted|VBN it|PRP </s>|S_END
+<s>|S_START he|PRP decided|VBD to|TO haul|VB the|DT rock|NN to|TO a|DT museum|NN in|IN los|NNS angeles|NNS in|IN order|NN to|TO suspend|VB it|PRP so|RB that|IN visitors|NNS could|MD walk|VB through|IN a|DT small|JJ channel|NN underneath|NN it|PRP and|CC ponder|NN the|DT menace|NN above|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN heizer|NN is|VBZ not|RB just|RB any|DT arty|NN weirdo|NN </s>|S_END
+<s>|S_START ince|NN the|DT 1960s|CD he|PRP has|VBZ been|VBN a|DT pioneer|NN of|IN “earth|JJ art”|NN </s>|S_END
+<s>|S_START in|IN one|CD project|NN which|WDT has|VBZ engrossed|VBN him|PRP since|IN 1972|CD he|PRP has|VBZ been|VBN carving|VBG a|DT vast|JJ “city”|NN into|IN the|DT desert|NN of|IN nevada|NN without|IN allowing|NN anybody|NN to|TO see|VB it|PRP </s>|S_END
+<s>|S_START artistically|RB he|PRP enjoys|VBZ the|DT negative|JJ spaces|NNS his|PRP$ art|NN create|NN </s>|S_END
+<s>|S_START personally|RB he|PRP likes|VBZ living|VBG as|IN a|DT hermit|NN in|IN the|DT desert|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START o|NN los|NNS angeles|NNS saw|VBD its|PRP$ chance|NN </s>|S_END
+<s>|S_START the|DT city|NN loathes|VBZ its|PRP$ reputation|NN as|IN a|DT cultural|JJ backwater|NN and|CC is|VBZ keen|VBN to|TO challenge|VB new|JJ york|NN and|CC london|NN in|IN the|DT world|NN of|IN art|NN </s>|S_END
+<s>|S_START the|DT los|NNS angeles|VBZ county|NN museum|NN of|IN art|NN lacma|NN has|VBZ acquired|VBN an|DT ambitious|JJ new|JJ director|NN and|CC some|DT rich|JJ patrons|NNS and|CC it|PRP carefully|RB planned|VBD the|DT $|$ 10m|CD logistical|JJ effort|NN needed|VBN to|TO move|VB the|DT “megalith”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP a|DT trip|NN it|PRP wa|VBP </s>|S_END
+<s>|S_START a|DT firm|NN that|WDT normally|RB transports|VBZ nuclear|JJ equipment|NN built|NN a|DT special|JJ structure|NN a|DT sort|NN of|IN rolling|VBG centipede|NN with|IN 196|CD wheels|NNS to|TO prevent|VB damage|NN to|TO either|DT road|NN or|CC rock|NN </s>|S_END
+<s>|S_START for|IN 11|CD days|NNS this|DT monster|NN bearing|VBG the|DT shrinkwrapped|JJ boulder|NN crawled|VBD through|IN four|CD counties|NNS and|CC 22|CD cities|NNS travelling|VBG only|RB at|IN night|NN and|CC at|IN walking|NN speed|NN along|IN bridges|NNS and|CC roads|NNS that|WDT could|MD hold|VB the|DT weight|NN </s>|S_END
+<s>|S_START treet|NN carnivals|NNS sprang|VBP up|RP wherever|RB the|DT rock|NN paused|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT wee|NN hours|NNS of|IN march|NN 10th|CD the|DT rock|NN finally|RB arrived|VBD </s>|S_END
+<s>|S_START it|PRP is|VBZ now|RB being|VBG hoisted|VBN into|IN place|NN and|CC will|MD be|VB unveiled|VBN this|DT spring|NN or|CC summer|NN </s>|S_END
+<s>|S_START fans|NNS are|VBP promoting|VBG it|PRP as|IN a|DT privatesector|NN stimulus|NN no|DT taxpayers|NNS were|VBD harmed|VBN </s>|S_END
+<s>|S_START ceptics|NNS are|VBP rolling|VBG their|PRP$ eyes|NNS imagining|VBG what|WP else|RB the|DT money|NN could|MD have|VB bought|VBN </s>|S_END
+<s>|S_START and|CC los|NNS angeles|NNS is|VBZ suddenly|RB crackling|VBG with|IN bad|JJ puns|NNS with|IN nobody|NN taking|VBG anything|NN for|IN granite|JJ and|CC everybody|NN playing|NN rock|NN without|IN paper|NN or|CC scissor|NN </s>|S_END
+</p>|P_END
+

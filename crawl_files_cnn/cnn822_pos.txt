@@ -1,0 +1,64 @@
+<p>|P_START
+<s>|S_START this|DT week|NN millions|NNS of|IN restricted|VBN stock|NN units|NNS rsus|VBZ will|MD convert|VB into|IN tradeable|JJ stock|NN for|IN facebook|NN employees|NNS potentially|RB flooding|VBG the|DT market|NN with|IN shares|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN facebooks|NNS second|JJ earnings|NNS report|NN as|IN a|DT public|JJ company|NN lands|VBZ tuesday|NN but|CC an|DT even|RB bigger|JJR milestone|NN looms|NNS later|JJ in|IN the|DT week|NN on|IN thursday|NN many|JJ of|IN its|PRP$ employees|NNS will|MD officially|RB become|VB millionaires|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS the|DT day|NN facebooks|VBZ main|JJ form|NN of|IN equity|NN compensation|NN restricted|VBD stock|NN units|NNS convert|VBP into|IN common|JJ stock|NN shares|NNS </s>|S_END
+<s>|S_START facebooks|NNS current|VBD and|CC past|JJ employees|NNS hold|VBP 225|CD million|CD of|IN those|DT units|NNS worth|IN around|IN $|$ 43|CD billion|CD based|VBN on|IN fridays|NNS closing|VBG share|NN price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT big|JJ chunk|NN of|IN those|DT shares|NNS around|IN 101|CD million|CD according|VBG to|TO facebooks|NNS estimate|VB will|MD be|VB withheld|VBN to|TO cover|VB the|DT hefty|JJ tax|NN bills|NNS employees|NNS will|MD face|VB on|IN their|PRP$ windfall|NN </s>|S_END
+<s>|S_START california|NN is|VBZ looking|VBG forward|RB to|TO the|DT $|$ 1|CD billion|CD or|CC so|RB it|PRP expects|VBZ to|TO collect|VB </s>|S_END
+<s>|S_START still|RB after|IN years|NNS of|IN waiting|VBG for|IN facebook|NN to|TO go|VB public|JJ the|DT companys|NNS employees|NNS will|MD finally|RB be|VB able|JJ to|TO cash|NN in|IN on|IN their|PRP$ stock|NN stake|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START facebooks|NNS investors|NNS and|CC earliest|JJS executives|NNS already|RB had|VBD the|DT chance|NN to|TO sell|VB off|RP some|DT of|IN their|PRP$ holdings|NNS </s>|S_END
+<s>|S_START thats|NNS because|IN they|PRP held|VBD stock|NN or|CC stock|NN options|NNS silicon|VBP valleys|NNS traditional|JJ startup|NN currency|NN </s>|S_END
+<s>|S_START starting|VBG in|IN 2007|CD though|IN facebook|NN switched|VBN to|TO a|DT different|JJ equity|NN system|NN </s>|S_END
+<s>|S_START it|PRP began|VBD granting|VBG restricted|VBN units|NNS that|IN only|RB became|VBD actual|JJ stock|NN after|IN a|DT liquidity|NN event|NN </s>|S_END
+<s>|S_START in|IN this|DT case|NN the|DT trigger|NN was|VBD facebooks|NNS may|MD 18|CD debut|NN on|IN the|DT stock|NN market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START facebook|NN fb|NN switched|VBD to|TO restricted|VBN units|NNS for|IN regulatory|JJ reasons|NNS to|TO stay|VB below|IN a|DT legal|JJ limit|NN on|IN how|WRB many|JJ shareholders|NNS a|DT company|NN can|MD have|VB before|IN its|PRP$ required|VBN to|TO publicly|RB report|VB its|PRP$ financials|NNS </s>|S_END
+<s>|S_START now|RB its|PRP$ ious|JJ are|VBP coming|VBG due|JJ and|CC next|JJ week|NN the|DT stock|NN market|NN will|MD feel|VB the|DT impact|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT units|NNS officially|RB vest|VBP on|IN thursday|NN october|NN 25|CD and|CC will|MD be|VB locked|VBN up|RP for|IN a|DT few|JJ more|RBR days|NNS </s>|S_END
+<s>|S_START but|CC on|IN monday|NN october|NN 29|CD theyll|NN be|VB available|JJ for|IN sale|NN on|IN the|DT open|JJ market|NN </s>|S_END
+<s>|S_START adding|VBG together|RB the|DT restricted|VBN units|NNS and|CC other|JJ stock|NN and|CC options|NNS that|WDT are|VBP being|VBG unlocked|VBN a|DT total|NN of|IN 234|CD million|CD shares|NNS will|MD be|VB freshly|RB eligible|JJ for|IN sale|NN that|WDT day|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB millions|NNS of|IN a|DT companys|NNS shares|NNS are|VBP sent|VBN into|IN the|DT market|NN the|DT stock|NN typically|RB tanks|VBZ </s>|S_END
+<s>|S_START thats|NNS already|RB happened|VBN with|IN facebook|NN once|RB before|IN when|WRB a|DT previous|JJ lockup|NN period|NN expired|VBD in|IN midaugust|NN 271|CD million|CD shares|NNS were|VBD set|VBN free|JJ </s>|S_END
+<s>|S_START facebooks|NNS stock|NN fell|VBD 6|CD that|IN day|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START facebook|NN can|MD ill|VB afford|NN another|DT slump|NN like|IN that|DT </s>|S_END
+<s>|S_START its|PRP$ shares|NNS are|VBP down|RB 50|CD yeartodate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB the|DT stock|NN fares|NNS next|JJ week|NN will|MD depend|VB in|IN part|NN on|IN what|WP facebook|NN tells|VBZ its|PRP$ investors|NNS on|IN tuesday|NN </s>|S_END
+<s>|S_START analysts|NNS started|VBD getting|VBG nervous|JJ about|IN facebooks|NNS quarter|NN after|IN zynga|NN znga|NN the|DT farmville|NN game|NN maker|NN that|WDT makes|VBZ up|RP a|DT sizable|JJ portion|NN of|IN facebooks|NNS revenue|VBP significantly|RB downgraded|VBN its|PRP$ fullyear|JJ outlook|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT industry|NN is|VBZ watching|VBG for|IN signs|NNS that|WDT facebook|NN can|MD generate|VB more|RBR revenue|NN from|IN its|PRP$ users|NNS particularly|RB through|IN its|PRP$ mobile|JJ platform|NN and|CC ad|NN products|NNS </s>|S_END
+<s>|S_START sterne|NN agree|VBP analyst|NN arvind|NN bhatia|NN said|VBD in|IN a|DT research|NN note|NN last|JJ week|NN that|IN sentiment|NN on|IN the|DT stock|NN is|VBZ already|RB quite|RB negative|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START facebooks|NNS employees|NNS will|MD be|VB paying|VBG especially|RB close|JJ attention|NN to|TO how|WRB wall|JJ street|NN reacts|NNS to|TO this|DT weeks|NNS earnings|NNS report|NN </s>|S_END
+<s>|S_START their|PRP$ fortunes|NNS are|VBP literally|RB tied|VBN to|TO thursdays|NNS share|NN price|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,94 @@
+<p>|P_START
+<s>|S_START click|NN chart|NN for|IN more|JJR premarket|NN data|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN us|PRP stock|NN futures|NNS turned|VBD sharply|RB lower|JJR tuesday|NN after|IN three|CD dow|NN components|NNS issued|VBN disappointing|JJ earnings|NNS and|CC forecasts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START futures|NNS were|VBD already|RB pointing|VBG to|TO a|DT lower|JJR open|JJ as|IN news|NN surrounding|VBG spain|NN unnerved|VBD investors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT euro|NN fell|VBD below|IN the|DT key|NN $|$ 130|CD level|NN after|IN ratings|NNS agency|NN moodys|NNS downgraded|VBD five|CD of|IN spains|NNS regional|JJ governments|NNS including|VBG catalonia|NN the|DT largest|JJS </s>|S_END
+<s>|S_START and|CC the|DT gross|NN domestic|JJ product|NN for|IN spain|NN which|WDT has|VBZ been|VBN mired|VBN in|IN recession|NN for|IN months|NNS fell|VBD by|IN 04|CD in|IN the|DT third|JJ quarter|NN from|IN the|DT second|JJ quarter|NN according|VBG to|TO data|NNS released|VBN tuesday|NN from|IN the|DT bank|NN of|IN spain|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START european|JJ stocks|NNS were|VBD lower|JJR in|IN midday|NN trading|NN </s>|S_END
+<s>|S_START britains|NNS ftse|VBP 100|CD ukx|NN fell|VBD 12|CD the|DT dax|NN daxin|NN germany|NN lost|VBD 14|CD and|CC frances|NNS cac|VBP 40|CD cac40|NNP declined|VBD 08|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN no|DT data|NNS on|IN the|DT us|PRP economy|NN investors|NNS were|VBD focused|VBN on|IN the|DT latest|JJS quarterly|JJ reports|NNS from|IN corporate|JJ america|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shares|NNS dupont|VBD dd|JJ fortune|NN 500|CD fell|VBD 5|CD ahead|NN of|IN the|DT bell|NN after|IN the|DT dow|NN component|NN reported|VBD weakerthanexpected|VBN quarterly|RB earnings|NNS and|CC announced|VBD plans|NNS to|TO cut|VB 1500|CD jobs|NNS worldwide|VBP </s>|S_END
+<s>|S_START another|DT dow|NN component|NN united|VBD technologies|NNS utx|NN fortune|NN 500|CD reported|VBD betterthanexpected|VBN earnings|NNS but|CC missed|VBD on|IN revenue|NN and|CC lowered|VBD its|PRP$ revenue|NN forecast|NN for|IN next|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economic|JJ bellwether|NN and|CC dow|NN component|NN 3m|CD mmm|NN fortune|NN 500reported|JJ earnings|NNS that|WDT were|VBD in|IN line|NN with|IN forecasts|NNS but|CC the|DT company|NN missed|VBD revenue|NN estimates|NNS and|CC pulled|VBD back|RP on|IN its|PRP$ guidance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ups|NNS ups|NNS fortune|VBP 500|CD another|DT economic|JJ bellwether|NN reported|VBD results|NNS that|IN were|VBD roughly|RB in|IN line|NN with|IN expectations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD facebook|NN earnings|NNS will|MD spotlight|VB mobile|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN the|DT bell|NN facebook|NN fb|NN and|CC netflix|CD nflx|NN will|MD release|VB their|PRP$ reports|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START analysts|NNS at|IN sp|NN capital|NN iq|NN predict|NN thirdquarter|NN earnings|NNS for|IN companies|NNS in|IN the|DT sp|NN 500|CD will|MD grow|VB by|IN just|RB 004|CD overall|JJ this|DT quarter|NN the|DT worst|JJS since|IN the|DT third|JJ quarter|NN of|IN 2009|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN to|TO the|DT earnings|NNS news|NN apple|NN aapl|NN fortune|NN 500|CD is|VBZ expected|VBN to|TO unveil|VB its|PRP$ ipad|NN mini|NN at|IN an|DT event|NN in|IN california|NN at|IN 1|CD pm|NN </s>|S_END
+<s>|S_START et|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START us|PRP stocks|VBZ closed|VBN a|DT choppy|NN session|NN little|RB changed|VBN on|IN monday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fear|NN greed|VBD index|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START world|NN markets|NNS asian|JJ markets|NNS closed|VBD mixed|VBN </s>|S_END
+<s>|S_START the|DT shanghai|NN composite|JJ slid|NN 06|CD and|CC japans|NNS nikkei|VBP was|VBD little|JJ changed|VBN </s>|S_END
+<s>|S_START the|DT hong|JJ kong|NN exchange|NN was|VBD closed|VBN for|IN a|DT holiday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START companies|NNS yahoo|VBP yhoo|RB fortune|JJ 500|CD shares|NNS rose|VBD 3|CD ahead|RB of|IN the|DT bell|NN after|IN the|DT companys|NNS thirdquarter|NN earnings|NNS handily|RB beat|VB estimates|NNS late|JJ monday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shares|NNS of|IN hard|JJ drive|JJ maker|NN western|NN digital|NN corporation|NN wdc|NN fortune|NN 500|CD were|VBD down|RB 4|CD in|IN early|JJ action|NN tuesday|NN after|IN the|DT company|NN offered|VBD weak|JJ guidance|NN on|IN monday|NN for|IN the|DT upcoming|VBG quarter|NN citing|VBG weakness|NN in|IN the|DT pc|NN industry|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START currencies|NNS and|CC commodities|NNS the|DT dollar|NN rose|VBD against|IN the|DT euro|NN but|CC fell|VBD versus|NNS the|DT british|JJ pound|NN and|CC the|DT japanese|NN yen|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START oil|NN for|IN december|NN delivery|NN $|$ 113|CD to|TO $|$ 8753|CD a|DT barrel|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gold|NN futures|NNS for|IN december|NN delivery|NN $|$ 14|CD to|TO $|$ 171220|CD an|DT ounce|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bonds|NNS the|DT price|NN on|IN the|DT benchmark|NN 10year|JJ us|PRP treasury|NN edged|VBD higher|JJR pushing|VBG the|DT yield|NN down|IN to|TO 177|CD from|IN 180|CD late|JJ monday|NN </s>|S_END
+</p>|P_END
+

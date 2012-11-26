@@ -1,0 +1,77 @@
+<p>|P_START
+<s>|S_START money|NN magazine|NN what|WP is|VBZ an|DT appropriate|JJ or|CC common|JJ percentage|NN of|IN income|NN for|IN a|DT family|NN to|TO spend|VB on|IN vacations|NNS </s>|S_END
+<s>|S_START darcie|NN and|CC jim|NN alexis|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START here|RB are|VBP a|DT couple|NN of|IN facts|NNS to|TO consider|VB as|IN you|PRP plan|VBP your|PRP$ next|JJ vacation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START american|NN households|NNS expect|VBP to|TO spend|VB about|IN $|$ 1200|CD per|IN person|NN on|IN summer|NN vacations|NNS according|VBG to|TO a|DT just|RB released|VBN american|JJ express|NN survey|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START assuming|VBG a|DT median|JJ household|NN income|NN of|IN roughly|RB $|$ 50000|CD a|DT year|NN and|CC an|DT average|JJ household|NN size|NN of|IN two|CD to|TO three|CD people|NNS that|WDT translates|VBZ to|TO an|DT estimate|NN of|IN 5|CD to|TO 7|CD of|IN income|NN going|VBG toward|IN vacations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ a|DT rough|JJ estimate|NN at|IN best|JJS </s>|S_END
+<s>|S_START some|DT people|NNS will|MD spend|VB more|RBR others|NNS much|RB less|JJR </s>|S_END
+<s>|S_START and|CC given|VBN the|DT still|RB lofty|JJ unemployment|NN rate|NN im|NN sure|NN many|JJ people|NNS arent|JJ taking|VBG any|DT vacation|NN at|IN all|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB though|IN you|PRP can|MD easily|RB view|VB average|JJ spending|NN in|IN mindnumbing|NN detail|NN for|IN all|DT sorts|NNS of|IN things|NNS although|IN not|RB vacations|NNS in|IN the|DT department|NN of|IN labors|NNS consumer|NN expenditures|NNS survey|NN that|IN doesnt|NN mean|NN you|PRP should|MD take|VB your|PRP$ cues|NNS from|IN what|WP other|JJ folks|NNS do|VBP or|CC dont|VB spend|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START just|RB because|IN your|PRP$ fellow|JJ citizens|NNS spend|VBP a|DT certain|JJ amount|NN on|IN a|DT given|VBN product|NN or|CC service|NN doesnt|NN mean|NN its|PRP$ financially|RB responsible|JJ to|TO do|VB so|RB </s>|S_END
+<s>|S_START after|IN rebounding|VBG to|TO more|JJR than|IN 6|CD during|IN the|DT financial|JJ crisis|NN the|DT us|PRP savings|VBZ rate|NN has|VBZ sunk|NN to|TO just|RB below|IN 4|CD </s>|S_END
+<s>|S_START thats|NNS better|JJR than|IN the|DT average|NN level|NN of|IN about|RB 16|CD in|IN 2005|CD </s>|S_END
+<s>|S_START but|CC its|PRP$ still|RB low|JJ enough|RB to|TO make|VB a|DT case|NN that|WDT americans|VBZ should|MD consider|VB reining|VBG in|IN their|PRP$ spending|NN in|IN any|DT number|NN of|IN areas|NNS so|IN they|PRP can|MD save|VB more|RBR for|IN their|PRP$ financial|JJ security|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START theres|NNS an|DT even|RB more|RBR compelling|JJ reason|NN you|PRP shouldnt|VBP let|VB other|JJ peoples|NNS spending|NN habits|NNS dictate|VBP your|PRP$ own|JJ </s>|S_END
+<s>|S_START our|PRP$ spending|NN reflects|NNS our|PRP$ priorities|NNS </s>|S_END
+<s>|S_START we|PRP have|VBP a|DT finite|JJ amount|NN of|IN money|NN so|IN the|DT way|NN we|PRP dole|VBP it|PRP out|RP amounts|NNS to|TO a|DT personal|JJ ranking|NN of|IN how|WRB important|JJ we|PRP consider|VBP various|JJ things|NNS </s>|S_END
+<s>|S_START and|CC what|WP sits|NNS at|IN or|CC near|IN the|DT top|JJ of|IN someone|NN elses|NNS hierarchy|VBP may|MD not|RB deserve|VB as|IN lofty|JJ a|DT spot|NN in|IN yours|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START take|VB me|PRP </s>|S_END
+<s>|S_START i|PRP couldnt|VBP care|JJ less|NN about|IN fashion|NN so|IN i|PRP spend|VBP very|RB little|JJ on|IN clothing|NN </s>|S_END
+<s>|S_START on|IN the|DT other|JJ hand|NN every|DT year|NN i|PRP go|VBP on|IN stubhub|NN hold|NN my|PRP$ nose|NN and|CC splurge|NN on|IN a|DT couple|NN of|IN tickets|NNS to|TO an|DT iggles|NNS game|NN so|IN my|PRP$ son|NN and|CC i|PRP can|MD enjoy|VB an|DT afternoon|NN of|IN football|NN and|CC cheesesteaks|NNS in|IN my|PRP$ native|JJ city|NN of|IN philadelphia|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP doesnt|VBD really|RB matter|NN how|WRB your|PRP$ spending|NN breaks|NNS down|IN </s>|S_END
+<s>|S_START if|IN you|PRP prefer|VBP to|TO overspend|VB in|IN one|CD or|CC two|CD areas|NNS that|WDT are|VBP especially|RB important|JJ to|TO you|PRP thats|VBZ fine|NN as|IN long|JJ as|IN you|PRP hold|VBP the|DT line|NN somewhere|RB else|RB and|CC dont|NN lose|NN control|NN of|IN your|PRP$ spending|NN overall|NN </s>|S_END
+<s>|S_START what|WP counts|NNS is|VBZ that|IN you|PRP set|VBD aside|JJ enough|RB income|NN for|IN saving|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rather|RB than|IN obsessing|VBG about|IN specific|JJ expenditures|NNS try|VBP the|DT twoline|NN budget|NN technique|NN write|NN your|PRP$ income|NN on|IN line|NN one|CD and|CC list|NN a|DT target|NN percentage|NN of|IN income|NN you|PRP intend|VBP to|TO save|VB say|NN 10|CD to|TO 15|CD on|IN line|NN two|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN long|RB as|IN youre|NN socking|VBG away|RB that|IN percentage|NN on|IN a|DT regular|JJ basis|NN and|CC reasonably|RB confident|JJ that|IN percentage|NN is|VBZ sufficient|JJ does|VBZ it|PRP really|RB matter|JJR whether|IN you|PRP indulge|VBP yourself|PRP on|IN vacations|NNS but|CC economize|VBP on|IN cars|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT said|VBD just|RB as|IN your|PRP$ spending|NN should|MD reflect|VB your|PRP$ personal|JJ tastes|NNS so|IN should|MD your|PRP$ budgeting|NN process|NN </s>|S_END
+<s>|S_START if|IN you|PRP prefer|VBP a|DT more|RBR traditional|JJ budgeting|NN technique|NN fine|NN </s>|S_END
+<s>|S_START peruse|NN money|NN 101|CD on|IN budgeting|NN and|CC these|DT budgeting|VBG and|CC saving|VBG tips|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN spend|NN whatever|NN you|PRP like|IN on|IN vacation|NN and|CC have|VB a|DT good|JJ time|NN </s>|S_END
+<s>|S_START as|IN long|RB as|IN youre|NN meeting|NN your|PRP$ other|JJ financial|JJ obligations|NNS and|CC saving|VBG enough|RB dont|JJ worry|NN whether|IN the|DT tab|NN is|VBZ higher|JJR or|CC lower|JJR than|IN anyone|NN elses|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START money|NN magazine|NN is|VBZ celebrating|VBG people|NNS both|DT famous|JJ and|CC unsung|JJ who|WP have|VBP done|VBN extraordinary|JJ work|NN to|TO improve|VB others|NNS financial|JJ wellbeing|NN </s>|S_END
+<s>|S_START send|NN an|DT email|NN to|TO nominate|VB your|PRP$ money|NN hero |-NONE- </s>|S_END
+</p>|P_END
+

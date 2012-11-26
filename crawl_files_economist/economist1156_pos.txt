@@ -1,0 +1,16 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 40|CD gdp|NN $|$ 175bn|CD ppp|CD $|$ 347bn|CD inflation|NN 78|CD population|NN 453m|CD gdp|NN per|IN head|NN $|$ 3860|CD ppp|CD $|$ 7650|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ince|NN advancing|VBG two|CD steps|NNS in|IN the|DT orange|NN revolution|NN ukraine|NN has|VBZ taken|VBN a|DT step|NN back|RB under|IN president|NN viktor|NN yanukovichs|NNS counterrevolution|NN yet|RB this|DT remains|VBZ a|DT country|NN transformed|VBN </s>|S_END
+<s>|S_START ties|NNS with|IN russia|NN will|MD improve|VB but|CC relations|NNS with|IN the|DT west|NN now|RB take|VBP precedence|NN and|CC the|DT focus|NN will|MD be|VB on|IN deepening|NN integration|NN with|IN europe|NN </s>|S_END
+<s>|S_START the|DT october|NN election|NN is|VBZ likely|JJ to|TO see|VB another|DT majority|NN for|IN parties|NNS loyal|JJ to|TO the|DT president|NN </s>|S_END
+<s>|S_START an|DT imfbacked|VBN economic|JJ programme|NN will|MD deliver|VB decent|NN growth|NN taking|VBG some|DT of|IN the|DT bitterness|NN out|IN of|IN austerity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB kick|NN start|NN </s>|S_END
+<s>|S_START investment|NN and|CC tourism|NN will|MD get|VB a|DT legup|NN from|IN the|DT euro|NN 2012|CD football|NN championship|NN in|IN june|NN which|WDT ukraine|NN is|VBZ cohosting|VBG with|IN poland|NN </s>|S_END
+</p>|P_END
+

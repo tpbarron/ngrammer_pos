@@ -1,0 +1,103 @@
+<p>|P_START
+<s>|S_START correction|NN to|TO this|DT article|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT new|JJ york|NN stock|NN exchange|NN began|VBD an|DT investigation|NN into|IN wild|JJ swings|NNS in|IN 148|CD share|NN prices|NNS that|WDT occurred|VBD over|RP a|DT 45minute|JJ period|NN the|DT latest|JJS setback|NN to|TO investor|NN confidence|NN in|IN highvolume|NN electronic|JJ trading|NN </s>|S_END
+<s>|S_START the|DT swings|NNS thought|VBD to|TO be|VB caused|VBN by|IN an|DT errant|JJ algorithm|NN that|WDT emanated|VBN from|IN knight|NN capital|NN a|DT market|NN maker|NN and|CC flooded|VBD the|DT stockmarkets|NNS with|IN orders|NNS were|VBD not|RB as|IN great|JJ as|IN in|IN the|DT “flash|JJ crash”|NN in|IN 2010|CD but|CC did|VBD lead|VBN to|TO the|DT cancellation|NN of|IN trading|NN in|IN six|CD stock|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START expensive|JJ glitche|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ubs|NNS said|VBD that|IN the|DT technical|JJ hitches|NNS on|IN the|DT nasdaq|NN exchange|NN that|WDT beset|NN the|DT first|JJ day|NN of|IN trading|NN in|IN may|MD of|IN facebook’s|NNS shares|NNS had|VBD cost|VBN it|PRP $|$ 357m|CD </s>|S_END
+<s>|S_START the|DT swiss|NN bank|NN had|VBD carried|VBN out|RP “significant”|-NONE- client|NN orders|NNS for|IN the|DT stock|NN which|WDT were|VBD entered|VBN multiple|NN times|NNS into|IN the|DT system|NN because|IN of|IN the|DT glitche|NN </s>|S_END
+<s>|S_START it|PRP accused|VBD nasdaq|NN of|IN mishandling|VBG the|DT flotation|NN and|CC warned|VBD it|PRP would|MD take|VB steps|NNS to|TO recover|VB the|DT lo|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START facebook’s|NNS share|VBP price|NN continued|VBN to|TO slide|VB as|IN investors|NNS digested|VBN its|PRP$ first|JJ earnings|NNS report|NN as|IN a|DT public|JJ company|NN </s>|S_END
+<s>|S_START in|IN the|DT three|CD months|NNS to|TO june|VB the|DT social|JJ network’s|NNS revenues|NNS were|VBD 32|CD higher|JJR than|IN a|DT year|NN earlier|JJR but|CC it|PRP made|VBD a|DT net|JJ loss|NN of|IN $|$ 157m|CD and|CC there|EX was|VBD little|JJ guidance|NN as|IN to|TO how|WRB it|PRP is|VBZ going|VBG to|TO make|VB money|NN from|IN ads|NNS on|IN mobile|JJ device|NN </s>|S_END
+<s>|S_START ee|NN article|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START deutsche|PRP bank|VBD announced|VBN another|DT 1900|CD job|NN cuts|NNS mostly|RB in|IN investment|NN banking|NN </s>|S_END
+<s>|S_START anshu|NN jain|NN the|DT new|JJ cochief|NN executive|NN of|IN germany’s|JJ biggest|JJS bank|NN admitted|VBD that|IN “put|JJ simply|RB our|PRP$ cost|NN base|NN is|VBZ too|RB high”|JJ net|NN profit|NN in|IN the|DT second|JJ quarter|NN fell|VBD by|IN 45|CD compared|VBN with|IN the|DT same|JJ quarter|NN last|JJ year|NN to|TO €661m|NNP $|$ 814m|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cbi|NN a|DT texan|NN engineering|NN company|NN offered|VBD to|TO take|VB over|RP shaw|NN group|NN which|WDT is|VBZ building|VBG the|DT first|JJ new|JJ nuclearpower|NN plants|NNS to|TO be|VB permitted|VBN in|IN america|NN since|IN 1978|CD </s>|S_END
+<s>|S_START the|DT $|$ 3|CD billion|CD bid|NN underlines|NNS the|DT interest|NN in|IN nuclear|JJ energy|NN despite|IN the|DT concerns|NNS aroused|VBD by|IN the|DT fukushima|NN disaster|NN in|IN japan|NN last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START trying|VBG to|TO regain|VB momentum|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START america’s|NNS growth|NN rate|NN weakened|VBD in|IN the|DT second|JJ quarter|NN expanding|VBG by|IN 15|CD over|IN the|DT previous|JJ quarter|NN at|IN an|DT annual|JJ rate|NN according|VBG to|TO a|DT first|JJ estimate|NN </s>|S_END
+<s>|S_START meanwhile|RB taiwan|VBD recorded|VBN a|DT slight|NN contraction|NN in|IN gdp|NN for|IN the|DT second|JJ quarter|NN dragged|VBD down|IN by|IN stagnant|JJ exports|NNS of|IN smartphones|NNS and|CC pc|NN </s>|S_END
+<s>|S_START but|CC in|IN sweden|JJ a|DT surge|NN in|IN exports|NNS helped|VBD the|DT economy|NN achieve|VBP growth|NN of|IN 14|CD quarter|NN on|IN quarter|NN </s>|S_END
+<s>|S_START ee|NN article|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tandard|NN poor’s|NNS confirmed|VBD that|IN britain|NN will|MD keep|VB its|PRP$ triplea|NN credit|NN rating|NN </s>|S_END
+<s>|S_START the|DT ratings|NNS agency|NN expects|VBZ the|DT british|JJ economy|NN to|TO return|VB to|TO growth|NN later|JJ this|DT year|NN </s>|S_END
+<s>|S_START p|NN also|RB kept|VBD germany’s|NNS rating|VBG at|IN triplea|NN and|CC said|VBD it|PRP was|VBD confident|JJ the|DT country|NN would|MD weather|VB the|DT eurozone|NN crisi|NN </s>|S_END
+<s>|S_START ee|NN article|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START british|JJ manufacturers|NNS had|VBD their|PRP$ worst|JJ month|NN in|IN july|RB for|IN more|JJR than|IN three|CD years|NNS according|VBG to|TO a|DT purchasingmanagers’|NN index|NN that|WDT measures|VBZ manufacturing|VBG activity|NN </s>|S_END
+<s>|S_START imilar|JJ indices|NNS for|IN china|NN and|CC the|DT united|JJ states|NNS recorded|VBD either|DT a|DT sharp|JJ slowdown|NN or|CC a|DT contraction|NN in|IN manufacturing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bp|NN ’s|NNS quarterly|RB earnings|NNS disappointed|VBD investors|NNS as|IN it|PRP wrote|VBD down|RP assets|NNS in|IN america|NN by|IN $|$ 5|CD billion|CD </s>|S_END
+<s>|S_START the|DT figure|NN was|VBD much|RB higher|JJR than|IN had|VBD been|VBN expected|VBN and|CC called|VBN into|IN question|NN last|JJ year’s|NNS statement|NN by|IN bob|NN dudley|NN bp’s|NNS boss|IN that|DT it|PRP had|VBD “turned|JJ a|DT corner”|JJ after|IN the|DT gulf|NN of|IN mexico|NN oil|NN spill|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT big|JJ trial|NN began|VBD in|IN san|NN jose|NN california|NN concerning|VBG intellectualproperty|NN rights|NNS in|IN the|DT design|NN of|IN touchscreen|NN smartphone|NN </s>|S_END
+<s>|S_START the|DT case|NN is|VBZ the|DT most|RBS prominent|JJ so|RB far|RB in|IN a|DT series|NN of|IN legal|JJ spats|NNS around|IN the|DT world|NN between|IN apple|NN and|CC samsung|JJ over|IN alleged|JJ patent|NN infringement|NN </s>|S_END
+<s>|S_START recent|JJ data|NNS show|VBP that|IN samsung|JJ is|VBZ extending|VBG its|PRP$ lead|NN over|IN apple|JJ in|IN the|DT smartphone|NN market|NN by|IN unit|NN sales|NNS though|IN not|RB by|IN profit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START chrysler|NN bolstered|VBD fiat’s|NNS earnings|NNS in|IN the|DT latest|JJS quarter|NN </s>|S_END
+<s>|S_START the|DT italian|JJ carmaker|NN which|WDT accumulated|VBN a|DT majority|NN stake|NN in|IN chrysler|NN following|VBG the|DT american|NN firm’s|VBZ government|NN bailout|IN and|CC restructuring|NN reported|VBD a|DT trading|NN profit|NN in|IN all|DT regions|NNS except|IN europe|NN where|WRB the|DT eurozone|NN crisis|NN is|VBZ hurting|VBG busine|NN </s>|S_END
+<s>|S_START chrysler|NN made|VBD a|DT quarterly|JJ net|NN profit|NN of|IN $|$ 436m|CD in|IN july|RB its|PRP$ car|NN sales|NNS rose|VBD by|IN 13|CD in|IN the|DT united|VBN states|NNS compared|VBN with|IN july|RB 2011|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mgm|NN grand|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP emerged|VBD that|IN carl|NN icahn|NN a|DT veteran|NN activist|NN investor|NN has|VBZ sold|VBN his|PRP$ 25|CD stake|NN in|IN mgm|NN back|RB to|TO the|DT film|NN studio|NN </s>|S_END
+<s>|S_START after|IN years|NNS of|IN financial|JJ problems|NNS which|WDT held|VBN up|RP the|DT production|NN of|IN “skyfall”|JJ the|DT next|JJ james|NNS bond|NN film|NN mgm|NN now|RB intends|VBZ to|TO file|VB for|IN an|DT ipo|NN </s>|S_END
+<s>|S_START mr|NN icahn|NN also|RB used|VBD to|TO own|VB a|DT stake|NN in|IN lions|NNS gate|VBP entertainment|NN a|DT big|JJ studio|NN behind|IN “the|NNP hunger|NN games”|-NONE- and|CC had|VBD hoped|VBN to|TO direct|VB a|DT merger|NN of|IN the|DT two|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoft|NN decided|VBD to|TO ditch|VB its|PRP$ hotmail|NN brand|NN which|WDT has|VBZ been|VBN a|DT mainstay|NN of|IN email|NN since|IN 1996|CD a|DT virtual|JJ lifetime|NN in|IN internet|NN term|NN </s>|S_END
+<s>|S_START hotmail|NN will|MD reappear|VB as|IN outlookcom|NN on|IN pcs|NNS and|CC phones|NNS with|IN lots|NNS of|IN snazzy|NN socialnetworking|VBG feature|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START correction|NN an|DT earlier|JJR version|NN of|IN the|DT first|JJ news|NN item|NN about|IN the|DT new|JJ york|NN stock|NN exchange|NN contained|VBD its|PRP$ own|JJ glitch|NN by|IN blaming|NN an|DT errant|NN logarithm|NN for|IN the|DT swings|NNS in|IN share|NN price|NN </s>|S_END
+<s>|S_START this|DT was|VBD corrected|VBN to|TO algorithm|VB on|IN august|JJ 6th|CD </s>|S_END
+</p>|P_END
+

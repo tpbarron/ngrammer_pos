@@ -1,0 +1,93 @@
+<p>|P_START
+<s>|S_START the|DT industrial|JJ revolution|NN of|IN the|DT late|JJ 18th|CD century|NN made|VBD possible|JJ the|DT mass|NN production|NN of|IN goods|NNS thereby|VBP creating|VBG economies|NNS of|IN scale|NN which|WDT changed|VBN the|DT economy—and|NNP society—in|NNP ways|VBZ that|IN nobody|NN could|MD have|VB imagined|VBN at|IN the|DT time|NN </s>|S_END
+<s>|S_START now|RB a|DT new|JJ manufacturing|NN technology|NN has|VBZ emerged|VBN which|WDT does|VBZ the|DT opposite|JJ </s>|S_END
+<s>|S_START threedimensional|JJ printing|NN makes|VBZ it|PRP as|RB cheap|VB to|TO create|VB single|JJ items|NNS as|IN it|PRP is|VBZ to|TO produce|VB thousands|NNS and|CC thus|RB undermines|NNS economies|NNS of|IN scale|NN </s>|S_END
+<s>|S_START it|PRP may|MD have|VB as|RB profound|VBN an|DT impact|NN on|IN the|DT world|NN as|IN the|DT coming|VBG of|IN the|DT factory|NN did|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP works|VBZ like|IN thi|NN </s>|S_END
+<s>|S_START first|JJ you|PRP call|VBP up|RP a|DT blueprint|NN on|IN your|PRP$ computer|NN screen|NN and|CC tinker|NN with|IN its|PRP$ shape|NN and|CC colour|PRP$ where|WRB necessary|JJ </s>|S_END
+<s>|S_START then|RB you|PRP press|NN print|VBP </s>|S_END
+<s>|S_START a|DT machine|NN nearby|NN whirrs|NNS into|IN life|NN and|CC builds|NNS up|RP the|DT object|NN gradually|RB either|DT by|IN depositing|NN material|NN from|IN a|DT nozzle|NN or|CC by|IN selectively|RB solidifying|VBG a|DT thin|JJ layer|NN of|IN plastic|JJ or|CC metal|JJ dust|NN using|VBG tiny|NN drops|NNS of|IN glue|NN or|CC a|DT tightly|RB focused|VBN beam|NN </s>|S_END
+<s>|S_START products|NNS are|VBP thus|RB built|VBN up|RP by|IN progressively|RB adding|VBG material|NN one|CD layer|NN at|IN a|DT time|NN hence|NN the|DT technologys|NNS other|JJ name|NN additive|JJ manufacturing|NN </s>|S_END
+<s>|S_START eventually|RB the|DT object|NN in|IN question—a|NNP spare|NN part|NN for|IN your|PRP$ car|NN a|DT lampshade|NN a|DT violin—pops|JJ out|IN </s>|S_END
+<s>|S_START the|DT beauty|NN of|IN the|DT technology|NN is|VBZ that|IN it|PRP does|VBZ not|RB need|VBP to|TO happen|VB in|IN a|DT factory|NN </s>|S_END
+<s>|S_START mall|NN items|NNS can|MD be|VB made|VBN by|IN a|DT machine|NN like|IN a|DT desktop|NN printer|NN in|IN the|DT corner|NN of|IN an|DT office|NN a|DT shop|NN or|CC even|RB a|DT house|NN big|JJ items—bicycle|NN frames|NNS panels|NNS for|IN cars|NNS aircraft|NN parts—need|JJ a|DT larger|JJR machine|NN and|CC a|DT bit|NN more|RBR space|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT moment|NN the|DT process|NN is|VBZ possible|JJ only|RB with|IN certain|JJ materials|NNS plastics|NNS resins|NNS and|CC metals|NNS and|CC with|IN a|DT precision|NN of|IN around|IN a|DT tenth|NN of|IN a|DT millimetre|NN </s>|S_END
+<s>|S_START as|IN with|IN computing|NN in|IN the|DT late|JJ 1970s|CD it|PRP is|VBZ currently|RB the|DT preserve|NN of|IN hobbyists|NNS and|CC workers|NNS in|IN a|DT few|JJ academic|JJ and|CC industrial|JJ niche|NN </s>|S_END
+<s>|S_START but|CC like|IN computing|NN before|IN it|PRP 3d|CD printing|VBG is|VBZ spreading|VBG fast|RB as|IN the|DT technology|NN improves|VBZ and|CC costs|NNS fall|VBP </s>|S_END
+<s>|S_START a|DT basic|JJ 3d|JJ printer|NN also|RB known|VBN as|IN a|DT fabricator|NN or|CC “fabber”|JJ now|RB costs|VBZ less|JJR than|IN a|DT laser|NN printer|NN did|VBD in|IN 1985|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START just|RB press|NN print|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT additive|JJ approach|NN to|TO manufacturing|NN has|VBZ several|JJ big|JJ advantages|NNS over|IN the|DT conventional|JJ one|CD </s>|S_END
+<s>|S_START it|PRP cuts|VBZ costs|NNS by|IN getting|VBG rid|JJ of|IN production|NN line|NN </s>|S_END
+<s>|S_START it|PRP reduces|VBZ waste|NN enormously|RB requiring|VBG as|IN little|JJ as|IN onetenth|JJ of|IN the|DT amount|NN of|IN material|NN </s>|S_END
+<s>|S_START it|PRP allows|VBZ the|DT creation|NN of|IN parts|NNS in|IN shapes|NNS that|WDT conventional|JJ techniques|NNS can|MD not|RB achieve|VB resulting|VBG in|IN new|JJ much|JJ more|RBR efficient|JJ designs|NNS in|IN aircraft|NN wings|NNS or|CC heat|VB exchangers|NNS for|IN example|NN </s>|S_END
+<s>|S_START it|PRP enables|VBZ the|DT production|NN of|IN a|DT single|JJ item|NN quickly|RB and|CC cheaply—and|JJ then|RB another|DT one|CD after|IN the|DT design|NN has|VBZ been|VBN refined|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN many|JJ years|NNS 3d|CD printers|NNS were|VBD used|VBN in|IN this|DT way|NN for|IN prototyping|NN mainly|RB in|IN the|DT aerospace|NN medical|JJ and|CC automotive|JJ industrie|NN </s>|S_END
+<s>|S_START once|RB a|DT design|NN was|VBD finalised|VBN a|DT production|NN line|NN would|MD be|VB set|VBN up|RP and|CC parts|NNS would|MD be|VB manufactured|VBN and|CC assembled|VBN using|VBG conventional|JJ method|NN </s>|S_END
+<s>|S_START but|CC 3d|CD printing|VBG has|VBZ now|RB improved|VBN to|TO the|DT point|NN that|IN it|PRP is|VBZ starting|VBG to|TO be|VB used|VBN to|TO produce|VB the|DT finished|JJ items|NNS themselves|PRP see|VBP article|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ already|RB competitive|JJ with|IN plastic|JJ injectionmoulding|NN for|IN runs|NNS of|IN around|IN 1000|CD items|NNS and|CC this|DT figure|NN will|MD rise|VB as|IN the|DT technology|NN mature|NN </s>|S_END
+<s>|S_START and|CC because|IN each|DT item|NN is|VBZ created|VBN individually|RB rather|RB than|IN from|IN a|DT single|JJ mould|NN each|DT can|MD be|VB made|VBN slightly|RB differently|RB at|IN almost|RB no|DT extra|NN cost|NN </s>|S_END
+<s>|S_START mass|NN production|NN could|MD in|IN short|JJ give|JJ way|NN to|TO mass|NN customisation|NN for|IN all|DT kinds|NNS of|IN products|NNS from|IN shoes|NNS to|TO spectacles|NNS to|TO kitchenware|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN reducing|NN the|DT barriers|NNS to|TO entry|NN for|IN manufacturing|NN 3d|CD printing|VBG should|MD also|RB promote|VB innovation|NN </s>|S_END
+<s>|S_START if|IN you|PRP can|MD design|VB a|DT shape|NN on|IN a|DT computer|NN you|PRP can|MD turn|VB it|PRP into|IN an|DT object|JJ </s>|S_END
+<s>|S_START you|PRP can|MD print|VB a|DT dozen|NN see|NN if|IN there|EX is|VBZ a|DT market|NN for|IN them|PRP and|CC print|VBP 50|CD more|JJR if|IN there|EX is|VBZ modifying|VBG the|DT design|NN using|VBG feedback|NN from|IN early|JJ user|NN </s>|S_END
+<s>|S_START this|DT will|MD be|VB a|DT boon|NN to|TO inventors|NNS and|CC startups|NNS because|IN trying|VBG out|RP new|JJ products|NNS will|MD become|VB less|RBR risky|JJ and|CC expensive|JJ </s>|S_END
+<s>|S_START and|CC just|RB as|IN opensource|NN programmers|NNS collaborate|VBP by|IN sharing|NN software|NN code|NN engineers|NNS are|VBP already|RB starting|VBG to|TO collaborate|VB on|IN opensource|NN designs|NNS for|IN objects|NNS and|CC hardware|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT jobless|NN technology|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT technological|JJ change|NN so|IN profound|NN will|MD reset|VB the|DT economics|NNS of|IN manufacturing|NN </s>|S_END
+<s>|S_START ome|NN believe|VBP it|PRP will|MD decentralise|VB the|DT business|NN completely|RB reversing|VBG the|DT urbanisation|NN that|IN accompanies|NNS industrialisation|NN </s>|S_END
+<s>|S_START there|EX will|MD be|VB no|RB need|VBN for|IN factories|NNS goes|VBZ the|DT logic|NN when|WRB every|DT village|NN has|VBZ a|DT fabricator|NN that|WDT can|MD produce|VB items|NNS when|WRB needed|VBN </s>|S_END
+<s>|S_START up|IN to|TO a|DT point|NN perhap|NN </s>|S_END
+<s>|S_START but|CC the|DT economic|JJ and|CC social|JJ benefits|NNS of|IN cities|NNS see|VBP article|NN go|VB far|RB beyond|IN their|PRP$ ability|NN to|TO attract|VB workers|NNS to|TO man|NN assembly|RB line|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START others|NNS maintain|VBP that|IN by|IN reducing|NN the|DT need|NN for|IN factory|NN workers|NNS 3d|CD printing|VBG will|MD undermine|VB the|DT advantage|NN of|IN lowcost|NN lowwage|NN countries|NNS and|CC thus|RB repatriate|JJ manufacturing|NN capacity|NN to|TO the|DT rich|JJ world|NN </s>|S_END
+<s>|S_START it|PRP might|MD but|VB asian|JJ manufacturers|NNS are|VBP just|RB as|IN well|RB placed|VBN as|IN anyone|NN else|RB to|TO adopt|VB the|DT technology|NN </s>|S_END
+<s>|S_START and|CC even|RB if|IN 3d|CD printing|VBG does|VBZ bring|VBG manufacturing|NN back|RB to|TO developed|VBD countries|NNS it|PRP may|MD not|RB create|VB many|JJ jobs|NNS since|IN it|PRP is|VBZ less|JJR labourintensive|JJ than|IN standard|JJ manufacturing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT technology|NN will|MD have|VB implications|NNS not|RB just|RB for|IN the|DT distribution|NN of|IN capital|NN and|CC jobs|NNS but|CC also|RB for|IN intellectualproperty|NN ip|NN rule|NN </s>|S_END
+<s>|S_START when|WRB objects|NNS can|MD be|VB described|VBN in|IN a|DT digital|JJ file|NN they|PRP become|VBP much|JJ easier|JJR to|TO copy|VB and|CC distribute—and|JJ of|IN course|NN to|TO pirate|VB </s>|S_END
+<s>|S_START just|RB ask|VBP the|DT music|JJ industry|NN </s>|S_END
+<s>|S_START when|WRB the|DT blueprints|NNS for|IN a|DT new|JJ toy|NN or|CC a|DT designer|NN shoe|NN escape|NN onto|IN the|DT internet|NN the|DT chances|NNS that|WDT the|DT owner|NN of|IN the|DT ip|NN will|MD lose|VB out|RP are|VBP greater|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP sure|JJ to|TO be|VB calls|NNS for|IN restrictions|NNS on|IN the|DT use|NN of|IN 3d|CD printers|NNS and|CC lawsuits|NNS about|IN how|WRB existing|VBG ip|NN laws|NNS should|MD be|VB applied|VBN </s>|S_END
+<s>|S_START as|IN with|IN opensource|NN software|NN new|JJ noncommercial|JJ models|NNS will|MD emerge|VB </s>|S_END
+<s>|S_START it|PRP is|VBZ unclear|JJ whether|IN 3d|JJ printing|NN requires|VBZ existing|VBG rules|NNS to|TO be|VB tightened|VBN which|WDT could|MD hamper|VB innovation|NN or|CC loosened|VBN which|WDT could|MD encourage|VB piracy|NN </s>|S_END
+<s>|S_START the|DT lawyers|NNS are|VBP no|DT doubt|NN rubbing|VBG their|PRP$ hand|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START just|RB as|IN nobody|NN could|MD have|VB predicted|VBN the|DT impact|NN of|IN the|DT steam|NN engine|NN in|IN 1750—or|CD the|DT printing|NN press|NN in|IN 1450|CD or|CC the|DT transistor|NN in|IN 1950—it|CD is|VBZ impossible|JJ to|TO foresee|VB the|DT longterm|NN impact|NN of|IN 3d|JJ printing|NN </s>|S_END
+<s>|S_START but|CC the|DT technology|NN is|VBZ coming|VBG and|CC it|PRP is|VBZ likely|JJ to|TO disrupt|VB every|DT field|NN it|PRP touche|PRP </s>|S_END
+<s>|S_START companies|NNS regulators|NNS and|CC entrepreneurs|NNS should|MD start|VB thinking|VBG about|IN it|PRP now|RB </s>|S_END
+<s>|S_START one|CD thing|NN at|IN least|JJS seems|NNS clear|RB although|IN 3d|JJ printing|NN will|MD create|VB winners|NNS and|CC losers|NNS in|IN the|DT short|JJ term|NN in|IN the|DT long|JJ run|NN it|PRP will|MD expand|VB the|DT realm|NN of|IN industry—and|JJ imagination|NN </s>|S_END
+</p>|P_END
+

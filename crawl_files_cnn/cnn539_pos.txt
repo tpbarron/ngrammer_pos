@@ -1,0 +1,153 @@
+<p>|P_START
+<s>|S_START online|NN voting|NN companies|NNS like|IN everyone|NN counts|NNS whose|WP$ system|NN is|VBZ shown|VBN here|RB face|NN a|DT slew|NN of|IN obstacles|NNS in|IN the|DT us|PRP even|RB as|IN other|JJ countries|NNS take|VBP the|DT digital|JJ plunge|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN online|NN voting|NN is|VBZ taking|VBG off|RP in|IN local|JJ elections|NNS particularly|RB overseas|JJ </s>|S_END
+<s>|S_START but|CC americans|NNS shouldnt|VBP expect|VBP to|TO vote|VB for|IN the|DT president|NN on|IN their|PRP$ laptop|NN or|CC ipad|VB anytime|JJ soon|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT battle|NN over|IN whether|IN to|TO digitize|VB the|DT voting|NN process|NN has|VBZ become|VBN a|DT fullblown|NN war|NN in|IN the|DT united|VBN states|NNS even|RB as|IN countries|NNS like|IN canada|NN norway|NN and|CC australia|NN have|VBP increasingly|RB adopted|VBN online|NN systems|NNS </s>|S_END
+<s>|S_START proponents|NNS say|VBP going|VBG digital|JJ will|MD boost|VB voter|NN turnout|IN while|IN naysayers|NNS cite|VBP hacking|VBG and|CC other|JJ security|NN threats|NNS as|IN risks|NNS too|RB great|JJ to|TO overcome|VB in|IN the|DT near|NN future|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ such|JJ a|DT different|JJ world|NN than|IN it|PRP was|VBD 20|CD years|NNS ago|RB and|CC yet|RB very|RB little|RB has|VBZ changed|VBN in|IN our|PRP$ voting|NN process|NN says|VBZ rob|NN weber|NN a|DT former|JJ it|PRP professional|JJ at|IN ibm|NN ibm|NN fortune|NN 500|CD who|WP started|VBN the|DT blog|NN cyber|NN the|DT vote|NN in|IN 2010|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START like|IN many|JJ supporters|NNS of|IN online|NN voting|VBG weber|NN points|NNS out|IN that|DT many|JJ young|JJ americans|NNS dont|NN vote|NN </s>|S_END
+<s>|S_START bringing|VBG the|DT voting|NN process|NN to|TO a|DT format|NN theyre|NN familiar|NN with|IN a|DT website|JJ on|IN a|DT pc|NN tablet|NN or|CC even|RB a|DT mobile|JJ phone|NN would|MD overcome|VB the|DT enthusiasm|NN gap|NN he|PRP believes|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC that|DT argument|NN hasnt|NN been|VBN enough|JJ to|TO bring|VB online|NN voting|NN into|IN the|DT mainstream|NN </s>|S_END
+<s>|S_START for|IN that|DT weber|NN places|NNS the|DT blame|NN squarely|RB on|IN election|NN officials|NNS whom|WP he|PRP says|VBZ arent|NN interested|VBD in|IN changing|NN the|DT status|NN quo|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START they|PRP find|VBP online|NN voting|VBG culturally|RB distasteful|JJ weber|NN says|VBZ </s>|S_END
+<s>|S_START they|PRP bring|VBP up|RP theoretical|JJ hacking|NN situations|NNS in|IN order|NN to|TO make|VB people|NNS afraid|JJ of|IN the|DT concept|NN of|IN change|NN </s>|S_END
+<s>|S_START and|CC unfortunately|RB it|PRP works|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START security|NN researchers|NNS dont|VBP think|VBP those|DT concerns|NNS are|VBP merely|RB theoretical|JJ </s>|S_END
+<s>|S_START michael|NN coates|NNS chair|VBP of|IN the|DT open|JJ web|NN application|NN security|NN project|NN owasp|NN and|CC director|NN of|IN security|NN assurance|NN at|IN firefox|NN maker|NN mozilla|NN says|VBZ hackers|NNS will|MD attack|VB anything|NN worth|NN hacking|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ guaranteed|VBN that|IN such|JJ a|DT system|NN online|NN voting|NN would|MD be|VB attacked|VBN for|IN sure|RB coates|VBZ says|VBZ </s>|S_END
+<s>|S_START all|DT important|JJ systems|NNS from|IN financial|JJ to|TO government|NN face|NN skilled|VBD hackers|NNS </s>|S_END
+<s>|S_START there|EX are|VBP security|NN flaws|NNS in|IN every|DT system|NN its|PRP$ a|DT matter|NN of|IN how|WRB you|PRP detect|VBP and|CC respond|NN to|TO them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START home|NN pcs|NNS in|IN particular|JJ are|VBP susceptible|JJ to|TO a|DT myriad|JJ of|IN cyberattacks|NNS that|WDT could|MD be|VB used|VBN to|TO alter|VB a|DT users|NNS vote|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START until|IN we|PRP can|MD reliably|RB foil|VB malware|JJ and|CC viruses|NNS and|CC who|WP knows|VBZ when|WRB that|IN will|MD be|VB its|PRP$ hard|JJ to|TO consider|VB a|DT system|NN in|IN which|WDT we|PRP vote|VBP from|IN our|PRP$ home|NN computers|NNS coates|VBZ says|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START such|JJ issues|NNS have|VBP felled|VBN some|DT past|JJ attempts|NNS at|IN online|NN voting|VBG in|IN the|DT united|VBN states|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN 2004|CD the|DT military|JJ began|NN testing|NN the|DT secure|NN electronic|JJ registration|NN and|CC voting|NN experiment|NN serve|NN which|WDT would|MD have|VB let|VB service|NN members|NNS stationed|VBD overseas|JJ vote|NN online|NN in|IN the|DT general|JJ election|NN </s>|S_END
+<s>|S_START but|CC defense|NN secretary|NN paul|NN wolfowitz|NN scrapped|VBD the|DT plan|NN after|IN governmentcommissioned|VBN studies|NNS warned|VBN of|IN extensive|JJ security|NN flaws|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT oftcited|VBN failure|NN came|VBD in|IN 2010|CD when|WRB washington|NN dc|NN conducted|VBD a|DT pilot|NN project|NN to|TO allow|VB overseas|JJ or|CC military|JJ voters|NNS to|TO download|VB and|CC return|VB absentee|NN ballots|NNS over|IN the|DT internet|NN </s>|S_END
+<s>|S_START before|IN opening|VBG the|DT system|NN to|TO real|JJ voters|NNS dc|VBP invited|VBN the|DT public|NN to|TO evaluate|VB whether|IN the|DT system|NN could|MD be|VB hacked|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP was|VBD </s>|S_END
+<s>|S_START within|IN 36|CD hours|NNS of|IN going|VBG live|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT university|NN of|IN michigan|NN team|NN found|VBD and|CC exploited|VBN a|DT vulnerability|NN that|WDT gave|VBD us|PRP almost|RB total|JJ control|NN of|IN the|DT server|NN software|NN including|VBG the|DT ability|NN to|TO change|VB votes|NNS and|CC reveal|NN voters|NNS secret|VBP ballots|NNS professor|NN j|NN alex|NN halderman|NN later|JJ wrote|NN in|IN a|DT blog|NN post|NN about|IN the|DT hack|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START halderman|NN termed|VBD the|DT system|NN brittle|NN and|CC proclaimed|VBD online|NN voting|NN too|RB dangerous|JJ to|TO implement|NN anytime|RB soon|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP may|MD someday|VB be|VB possible|JJ to|TO build|VB a|DT secure|NN method|NN for|IN submitting|NN ballots|NNS over|IN the|DT internet|NN but|CC in|IN the|DT meantime|NN such|JJ systems|NNS should|MD be|VB presumed|VBN to|TO be|VB vulnerable|JJ based|VBN on|IN the|DT limitations|NNS of|IN todays|NNS security|NN technology|NN he|PRP wrote|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START such|JJ highprofile|JJ debacles|NNS are|VBP a|DT difficult|JJ obstacle|NN for|IN online|NN voting|VBG companies|NNS like|IN everyone|NN counts|NNS says|VBZ ceo|NN lori|NN steele|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT problem|NN with|IN the|DT dc|NN hacking|VBG is|VBZ that|IN it|PRP was|VBD a|DT lessthanmediocre|NN system|NN run|VBN by|IN people|NNS who|WP had|VBD no|DT experience|NN steele|NN says|VBZ </s>|S_END
+<s>|S_START when|WRB people|NNS use|VBP it|PRP as|IN an|DT example|NN its|PRP$ like|NN cmon|NN those|DT issues|NNS were|VBD all|DT security|NN 101|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bad|JJ pr|NN for|IN any|DT online|NN voting|NN attempt|NN undermines|NNS the|DT entire|JJ cause|NN steele|NN says|VBZ </s>|S_END
+<s>|S_START still|RB californiabased|VBN everyone|NN counts|NNS has|VBZ run|VBN online|NN elections|NNS for|IN local|JJ and|CC municipal|JJ contests|NNS in|IN us|PRP locations|NNS including|VBG west|NN virginia|NN honolulu|NN el|NN paso|RB chicago|RB and|CC washington|NN state|NN in|IN addition|NN to|TO the|DT united|VBN kingdom|NN and|CC australia|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START everyone|NN counts|NNS uses|VBZ militarygrade|NN encryption|NN for|IN its|PRP$ ballots|NNS and|CC can|MD also|RB provide|VB a|DT paper|NN trail|NN for|IN clients|NNS who|WP want|VBP it|PRP steele|RB says|VBZ </s>|S_END
+<s>|S_START a|DT transparent|NN code|NN policy|NN allows|VBZ any|DT client|NN to|TO inspect|VB the|DT companys|NNS source|NN code|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN steele|NN admits|NNS that|WDT online|NN voting|VBG like|IN any|DT system|NN is|VBZ susceptible|JJ to|TO attacks|NNS she|PRP thinks|VBZ the|DT sheer|NN number|NN of|IN devices|NNS in|IN the|DT wild|NN would|MD make|VB it|PRP difficult|VB for|IN wouldbe|NN hackers|NNS to|TO hit|VB their|PRP$ targets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START they|PRP dont|VBP know|VBP which|WDT pcs|NNS or|CC tablets|NNS or|CC phones|NNS will|MD be|VB used|VBN for|IN voting|NN steele|NN says|VBZ </s>|S_END
+<s>|S_START plus|RB people|NNS talk|VBP about|IN paper|NN being|VBG the|DT holy|RB grail|JJ of|IN security|NN but|CC that|IN is|VBZ so|RB far|RB from|IN reality|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT biggest|JJS limitation|NN of|IN paper|NN ballots|NNS was|VBD on|IN display|NN last|JJ week|NN when|WRB hurricane|NN sandy|NN decimated|VBD parts|NNS of|IN the|DT northeastern|NN united|VBD states|NNS </s>|S_END
+<s>|S_START the|DT storms|NNS destruction|NN cut|VBD many|JJ voters|NNS off|IN from|IN their|PRP$ scheduled|VBN polling|VBG station|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN saturday|NN new|JJ jersey|NN announced|VBN that|IN displaced|VBN storm|NN victims|NNS will|MD qualify|VB as|IN overseas|JJ voters|NNS meaning|VBG they|PRP are|VBP eligible|JJ to|TO vote|VB via|IN email|NN or|CC fax|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT storm|NN was|VBD awful|JJ but|CC it|PRP could|MD serve|VB as|IN a|DT wider|NN reminder|NN that|WDT we|PRP need|VBP to|TO reform|NN the|DT system|NN says|VBZ michelle|NN shafer|NN director|NN of|IN communications|NNS at|IN scytl|NN usa|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START scytls|NNS spanish|VBP parent|NN company|NN has|VBZ conducted|VBN online|NN voting|NN in|IN over|IN 30|CD countries|NNS worldwide|IN </s>|S_END
+<s>|S_START in|IN the|DT us|PRP its|PRP$ slowly|RB gaining|VBG steam|NN </s>|S_END
+<s>|S_START the|DT company|NN has|VBZ completed|VBN online|NN ballot|NN delivery|NN digitally|RB delivering|VBG a|DT paperballotlike|NN form|NN that|WDT voters|NNS can|MD fill|VB out|RP and|CC submit|VB in|IN six|CD us|PRP states|VBZ </s>|S_END
+<s>|S_START those|DT digital|JJ ballots|NNS are|VBP typically|RB used|VBN by|IN military|JJ members|NNS and|CC overseas|JJ residents|NNS </s>|S_END
+<s>|S_START it|PRP has|VBZ also|RB run|VBN direct|JJ online|NN voting|NN for|IN local|JJ elections|NNS in|IN west|JJS virginia|NN florida|NN and|CC alaska|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP dont|VBP think|VBP well|RB be|VB voting|VBG online|NN by|IN 2016s|CD general|JJ election|NN but|CC my|PRP$ hope|NN is|VBZ that|IN well|RB continue|VBP to|TO take|VB slow|JJ and|CC measured|VBN steps|NNS toward|IN that|DT eventuality|NN she|PRP adds|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN the|DT united|VBN states|NNS takes|VBZ it|PRP slow|RB countries|VBZ like|IN canada|NN and|CC norway|NN continue|VB to|TO expand|VB online|NN voting|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dean|NN smith|IN president|NN and|CC founder|NN of|IN canadas|NNS leading|VBG onlinevoting|VBG firm|NN intelivote|NN says|VBZ the|DT divide|NN between|IN his|PRP$ home|NN country|NN and|CC the|DT united|JJ states|NNS is|VBZ vast|JJ </s>|S_END
+<s>|S_START popular|JJ canadian|JJ labor|NN unions|NNS have|VBP used|VBN online|NN voting|NN for|IN years|NNS which|WDT means|VBZ users|NNS have|VBP grown|VBN accustomed|VBN to|TO the|DT process|NN and|CC the|DT countrys|NNS ballots|NNS tend|VBP to|TO be|VB far|RB less|JJR complex|JJ than|IN those|DT in|IN the|DT united|VBN states|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN general|JJ people|NNS here|RB see|VB the|DT benefits|NNS of|IN online|NN voting|VBG and|CC theres|NNS an|DT acceptance|NN smith|NN says|VBZ of|IN canada|NN </s>|S_END
+<s>|S_START the|DT us|PRP would|MD be|VB a|DT great|JJ coup|NN but|CC there|EX are|VBP so|RB many|JJ academics|NNS who|WP made|VBN their|PRP$ name|NN by|IN being|VBG naysayers|NNS </s>|S_END
+<s>|S_START theres|NNS so|IN much|RB fighting|VBG about|IN it|PRP </s>|S_END
+<s>|S_START right|RB now|RB we|PRP dont|VBP need|VBP the|DT additional|JJ problems|NNS </s>|S_END
+</p>|P_END
+

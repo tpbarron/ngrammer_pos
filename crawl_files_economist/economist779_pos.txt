@@ -1,0 +1,94 @@
+<p>|P_START
+<s>|S_START europe’s|NNS railways|VBP have|VBP long|RB been|VBN tools|NNS of|IN the|DT state|NN </s>|S_END
+<s>|S_START “build|JJ no|DT more|RBR fortresses|NNS build|VBP railways”|JJ said|VBD helmuth|NN von|NN moltke|NN the|DT famous|JJ prussian|NN fieldmarshal|NN </s>|S_END
+<s>|S_START but|CC even|RB in|IN today’s|JJ era|NN of|IN european|JJ integration|NN for|IN which|WDT the|DT european|JJ union|NN has|VBZ just|RB won|VBD the|DT nobel|NN peace|NN prize|NN railways|NNS are|VBP objects|NNS of|IN national|JJ jealousy|NN </s>|S_END
+<s>|S_START the|DT variety|NN of|IN track|NN gauges|NNS electrification|NN and|CC signalling|VBG systems|NNS not|RB to|TO mention|VB rules|NNS protecting|VBG favoured|VBN operators|NNS makes|VBZ for|IN a|DT bewildering|NN and|CC inefficient|NN patchwork|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT single|JJ market|NN the|DT eu’s|JJ greatest|NN achievement|NN is|VBZ celebrating|VBG its|PRP$ 20th|JJ anniversary|JJ </s>|S_END
+<s>|S_START it|PRP is|VBZ meant|VBN to|TO be|VB a|DT zone|NN with|IN free|JJ movement|NN of|IN goods|NNS services|NNS people|NNS and|CC capital|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ boosted|VBN trade|NN and|CC productivity|NN </s>|S_END
+<s>|S_START part|NN of|IN germany’s|NNP success|NN comes|VBZ from|IN shifting|VBG industrial|JJ production|NN to|TO cheaper|JJR places|NNS in|IN central|JJ and|CC eastern|JJ europe|NN </s>|S_END
+<s>|S_START but|CC look|VBP at|IN the|DT infrastructure|NN in|IN the|DT single|JJ market|NN and|CC two|CD lessons|NNS become|VBP clear|JJ </s>|S_END
+<s>|S_START it|PRP is|VBZ fragmented|VBN with|IN few|JJ countries|NNS giving|VBG priority|NN to|TO crossborder|NN link|NN </s>|S_END
+<s>|S_START and|CC integrating|VBG the|DT system|NN is|VBZ a|DT painstaking|NN task|NN of|IN removing|VBG physical|JJ and|CC regulatory|JJ barrier|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START o|NN a|DT train|NN carrying|VBG volvo|NN cars|NNS from|IN sweden|JJ to|TO italy|RB must|MD change|VB locomotives|NNS and|CC crews|NNS three|CD or|CC four|CD time|NN </s>|S_END
+<s>|S_START it|PRP could|MD be|VB held|VBN up|RP in|IN bottlenecks|NNS in|IN germany|NN and|CC austria|NN </s>|S_END
+<s>|S_START before|IN entering|VBG italy|RB over|IN the|DT brenner|NN pass|NN the|DT crew|NN must|MD stop|VB to|TO switch|VB the|DT reflective|JJ panels|NNS at|IN the|DT rear|JJ with|IN warning|NN light|NN </s>|S_END
+<s>|S_START thalys|NNS highspeed|VBD passenger|NN trains|NNS may|MD zip|VB between|IN paris|NNS amsterdam|VBP and|CC cologne|NN </s>|S_END
+<s>|S_START but|CC on|IN some|DT older|NN sections|NNS of|IN track|NN in|IN germany|NN they|PRP slow|VBP to|TO a|DT crawl|NN and|CC they|PRP must|MD carry|VB seven|CD boxes|NNS of|IN expensive|JJ signalling|NN gear|NN </s>|S_END
+<s>|S_START how|WRB is|VBZ it|PRP possible|JJ to|TO promote|VB competition|NN and|CC get|VB freight|NN off|IN the|DT roads|NNS when|WRB new|JJ models|NNS of|IN rolling|VBG stock|NN have|VBP to|TO be|VB separately|RB certified|VBN in|IN each|DT country|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START commercial|JJ shipping|NN suffers|NNS too|RB </s>|S_END
+<s>|S_START the|DT borders|NNS of|IN the|DT single|JJ market|NN do|VBP not|RB extend|VB to|TO the|DT sea|NN so|RB a|DT ship|NN sailing|VBG from|IN one|CD eu|NN port|NN to|TO another|DT must|MD submit|VB to|TO full|JJ customs|NNS formalities|NNS every|DT time|NN </s>|S_END
+<s>|S_START air|PRP$ transport|NN does|VBZ better|JJR </s>|S_END
+<s>|S_START the|DT market|NN has|VBZ been|VBN liberalised|VBN promoting|VBG lowcost|NN airlines|NNS and|CC aircraft|NN certification|NN is|VBZ done|VBN centrally|RB </s>|S_END
+<s>|S_START yet|RB airtraffic|JJ control|NN still|RB observes|VBZ national|JJ boundarie|NN </s>|S_END
+<s>|S_START europe’s|NNS airspace|VBP is|VBZ comparable|JJ in|IN size|NN to|TO america’s|NNP but|CC the|DT system|NN handles|VBZ less|JJR traffic|JJ at|IN almost|RB twice|NN the|DT cost|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eu|NN summits|NNS always|RB extol|NN the|DT benefits|NNS of|IN the|DT single|JJ market|NN </s>|S_END
+<s>|S_START the|DT one|CD starting|VBG on|IN october|NN 18th|CD will|MD highlight|VB “transeuropean|JJ networks”|NN in|IN which|WDT the|DT european|JJ commission|NN proposes|NNS to|TO develop|VB paneuropean|JJ transport|NN corridor|NN </s>|S_END
+<s>|S_START a|DT €50|NN billion|NN “connecting|NN europe|NN facility”|NN cef|NN is|VBZ meant|JJ to|TO pay|VB for|IN these|DT </s>|S_END
+<s>|S_START yet|RB progress|NN will|MD be|VB slow|JJ </s>|S_END
+<s>|S_START there|EX is|VBZ little|JJ political|JJ appetite|NN to|TO take|VB on|IN vested|VBN interests|NNS and|CC little|RB money|NN for|IN new|JJ infrastructure|NN </s>|S_END
+<s>|S_START the|DT cef|NN may|MD be|VB one|CD of|IN the|DT best|JJS uses|NNS of|IN european|JJ money|NN but|CC it|PRP could|MD fall|VB victim|NN to|TO the|DT eu’s|NNS budget|NN politics|NNS in|IN which|WDT the|DT french|NN defend|NN agricultural|JJ support|NN the|DT british|JJ fight|NN for|IN their|PRP$ rebate|NN and|CC the|DT central|JJ europeans|NNS protect|VBP regional|JJ aid|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT bigger|JJR worry|NN is|VBZ being|VBG heard|VBN in|IN brussel|NN </s>|S_END
+<s>|S_START the|DT problem|NN is|VBZ no|DT longer|NN how|WRB to|TO promote|VB and|CC strengthen|VB the|DT single|JJ market|NN but|CC how|WRB to|TO save|VB it|PRP </s>|S_END
+<s>|S_START mario|NN monti|NN a|DT former|JJ singlemarket|NN commissioner|NN who|WP is|VBZ now|RB italy’s|-NONE- prime|JJ minister|NN said|VBD this|DT week|NN that|IN the|DT single|JJ market|NN was|VBD at|IN risk|NN of|IN “rollback|JJ and|CC even|RB disintegration”|JJ </s>|S_END
+<s>|S_START the|DT euro|NN crisis|NN he|PRP noted|VBD has|VBZ produced|VBN vastly|RB different|JJ borrowing|NN costs|NNS for|IN firms|NNS frozen|VBN interbank|NN lending|VBG prompted|VBN some|DT regulators|NNS to|TO order|NN banks|NNS to|TO keep|VB capital|NN in|IN their|PRP$ home|NN countries|NNS and|CC stirred|VBD protectionism|NN against|IN eu|NN workers|NNS and|CC goods|NNS alike|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economic|JJ integration|NN has|VBZ been|VBN at|IN the|DT heart|NN of|IN the|DT european|JJ project|NN from|IN the|DT outset|NN </s>|S_END
+<s>|S_START the|DT single|JJ market|NN dates|NNS to|TO the|DT 1986|CD single|JJ european|JJ act|NN comprising|VBG nearly|RB 300|CD measures|NNS that|WDT were|VBD to|TO be|VB completed|VBN by|IN the|DT end|NN of|IN 1992|CD from|IN the|DT abolition|NN of|IN physical|JJ customs|NNS checks|NNS to|TO the|DT mutual|JJ recognition|NN of|IN standard|JJ </s>|S_END
+<s>|S_START it|PRP gives|VBZ the|DT eu|NN heft|NN in|IN international|JJ trade|NN and|CC attracts|NNS investors|NNS seeking|VBG access|NN to|TO 500m|CD consumer|NN </s>|S_END
+<s>|S_START yet|RB at|IN its|PRP$ heart|NN is|VBZ a|DT bargain|NN between|IN federalists|NNS and|CC liberal|JJ </s>|S_END
+<s>|S_START the|DT single|JJ market|NN is|VBZ the|DT one|CD thing|NN that|WDT david|VBD cameron|NN the|DT british|JJ prime|NN minister|NN says|VBZ he|PRP likes|VBZ about|IN the|DT eu|NN </s>|S_END
+<s>|S_START yet|RB even|RB in|IN britain|NN basic|JJ precepts|NNS are|VBP being|VBG questioned|VBN </s>|S_END
+<s>|S_START earlier|JJR this|DT month|NN mr|NN cameron|NN said|VBD his|PRP$ government|NN was|VBD reviewing|VBG the|DT right|NN of|IN eu|NN citizens|NNS to|TO live|VB and|CC work|VB in|IN britain|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START damned|VBD if|IN it|PRP breaks|VBZ damned|VBN if|IN it|PRP doesn’t|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT euro|NN was|VBD meant|JJ to|TO buttress|NN the|DT single|JJ market|NN reducing|VBG transaction|NN costs|NNS and|CC removing|VBG the|DT risk|NN of|IN competitive|JJ devaluation|NN </s>|S_END
+<s>|S_START could|MD it|PRP now|RB destroy|VBP the|DT single|JJ market|NN instead|RB </s>|S_END
+<s>|S_START a|DT new|JJ paper|NN by|IN sebastian|JJ dullien|NN for|IN the|DT european|JJ council|NN on|IN foreign|JJ relations|NNS a|DT thinktank|NN argues|VBZ that|IN the|DT market|NN will|MD be|VB damaged|VBN regardless|NN of|IN what|WP happen|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT euro’s|JJ breakup|NN could|MD lead|VB to|TO capital|NN controls|NNS trade|VBP barriers|NNS to|TO keep|VB out|RP goods|NNS and|CC border|NN controls|NNS to|TO limit|VB economic|JJ migrant|NN </s>|S_END
+<s>|S_START muddling|VBG through|IN would|MD slow|VB down|RP but|CC might|MD not|RB prevent|VB such|JJ disintegration|NN and|CC could|MD still|RB feed|VB antieu|NN populism|NN </s>|S_END
+<s>|S_START even|RB a|DT federal|JJ leap|NN to|TO a|DT eurozone|NN banking|NN union|NN with|IN joint|JJ eurobonds|NNS carries|VBZ risks|NNS for|IN noneuro|NN members|NNS like|IN britain|NN who|WP fear|NN that|IN the|DT 17|CD “euroins”|NN will|MD impose|VB rules|NNS on|IN other|JJ </s>|S_END
+<s>|S_START uch|JJ tensions|NNS are|VBP apparent|JJ in|IN negotiations|NNS over|IN a|DT eurozone|NN bank|NN supervisor|NN </s>|S_END
+<s>|S_START if|IN britain|NN feels|NNS set|VBD upon|IN it|PRP could|MD even|RB choose|VB to|TO leave|VB the|DT eu|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ a|DT fourth|JJ option|NN deeper|NN integration|NN could|MD be|VB accompanied|VBN by|IN a|DT deepening|NN of|IN the|DT single|JJ market|NN </s>|S_END
+<s>|S_START this|DT could|MD also|RB renew|VB the|DT political|JJ bargain|NN between|IN euroins|NNS and|CC euroout|IN </s>|S_END
+<s>|S_START there|EX is|VBZ more|JJR to|TO be|VB done|VBN beyond|IN the|DT current|JJ mishmash|NN of|IN proposal|NN </s>|S_END
+<s>|S_START ervices|NNS produce|VBP most|JJS of|IN europe’s|NNS output|IN but|CC are|VBP poorly|RB integrated|VBN and|CC lag|NN behind|IN america|NN in|IN productivity|NN </s>|S_END
+<s>|S_START if|IN eu|NN treaties|NNS are|VBP to|TO be|VB changed|VBN to|TO create|VB a|DT stronger|JJR commissioner|NN to|TO oversee|VB national|JJ budgets|NNS why|WRB not|RB a|DT commissioner|NN with|IN more|JJR legal|JJ powers|NNS to|TO police|VB the|DT single|JJ market|NN </s>|S_END
+<s>|S_START all|DT european|JJ countries|NNS badly|RB need|VBP more|JJR growth|NN </s>|S_END
+<s>|S_START the|DT most|RBS troubled|JJ need|NN better|RBR access|NN to|TO neighbouring|NN markets|NNS and|CC a|DT spur|NN for|IN structural|JJ reform|NN </s>|S_END
+<s>|S_START they|PRP should|MD be|VB careful|JJ not|RB to|TO miss|VB the|DT train|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogscharlemagne|NN </s>|S_END
+</p>|P_END
+

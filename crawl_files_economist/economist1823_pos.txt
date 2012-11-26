@@ -1,0 +1,60 @@
+<p>|P_START
+<s>|S_START the|DT furore|NN over|IN alleged|JJ manipulation|NN of|IN the|DT london|NN interbank|NN offered|VBD rate|NN libor|NN and|CC its|PRP$ european|JJ cousin|NN the|DT euro|NN interbank|NN offered|VBD rate|NN euribor|NN continues|VBZ to|TO rage|NN </s>|S_END
+<s>|S_START in|IN britain|NN the|DT deputy|NN governor|NN of|IN the|DT bank|NN of|IN england|NN and|CC the|DT chairman|NN of|IN barclays|NNS were|VBD hauled|VBN over|IN the|DT coals|NNS this|DT week|NN by|IN a|DT parliamentary|JJ committee|NN </s>|S_END
+<s>|S_START in|IN america|NN it|PRP emerged|VBD that|IN the|DT federal|JJ reserve|NN bank|NN of|IN new|JJ york|NN may|MD have|VB been|VBN informed|VBN of|IN alleged|JJ manipulation|NN of|IN libor|NN some|DT time|NN after|IN 2007|CD the|DT senate|NN banking|NN committee|NN plans|NNS to|TO look|VB into|IN the|DT affair|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB all|DT the|DT while|NN the|DT basic|JJ mechanism|NN of|IN libor|NN trundles|NNS on|IN </s>|S_END
+<s>|S_START each|DT morning|NN at|IN 11am|CD in|IN london|NN submitters|NNS at|IN panels|NNS of|IN some|DT of|IN the|DT world’s|JJ biggest|NN banks|NNS send|VBP their|PRP$ estimates|NNS of|IN borrowing|VBG costs|NNS in|IN various|JJ currencies|NNS and|CC for|IN various|JJ term|NN </s>|S_END
+<s>|S_START a|DT few|JJ minutes|NNS later|JJ the|DT benchmark|NN figures|NNS flash|VBP to|TO life|VB on|IN tens|NNS of|IN thousands|NNS of|IN traders’|NNP machines|NNS around|IN the|DT world|NN and|CC ripple|VB out|RP into|IN the|DT pricing|NN of|IN loans|NNS derivatives|NNS and|CC other|JJ financial|JJ instrument|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START be|VB generous|JJ and|CC assume|NN that|IN attempts|NNS to|TO manipulate|VB libor|NN are|VBP in|IN the|DT past|JJ </s>|S_END
+<s>|S_START a|DT deeper|NN problem|NN still|RB besets|VBZ these|DT numbers|NNS they|PRP are|VBP almost|RB entirely|RB fanciful|JJ even|RB if|IN the|DT banks|NNS that|WDT submit|NN them|PRP are|VBP providing|VBG honest|JJS estimate|NN </s>|S_END
+<s>|S_START that|DT is|VBZ because|IN the|DT unsecured|JJ interbank|NN funding|NN market|NN which|WDT is|VBZ supposed|VBN to|TO be|VB where|WRB banks|NNS borrow|VBP from|IN each|DT other|JJ is|VBZ frozen|VBN solid|JJ </s>|S_END
+<s>|S_START in|IN the|DT euro|NN area|NN in|IN particular|JJ banks|NNS are|VBP lending|VBG almost|RB no|DT money|NN to|TO one|CD another|DT </s>|S_END
+<s>|S_START most|JJS banks|NNS that|WDT now|RB have|VBP cash|NN prefer|NN to|TO deposit|VB funds|NNS at|IN the|DT european|JJ central|JJ bank|NN ecb|NN which|WDT in|IN turn|NN lends|NNS it|PRP on|IN to|TO those|DT that|WDT are|VBP short|RB of|IN it|PRP </s>|S_END
+<s>|S_START at|IN the|DT moment|NN banks|NNS have|VBP more|JJR than|IN €800|-NONE- billion|CD $|$ 980|CD billion|CD parked|VBN at|IN the|DT ecb|NN where|WRB it|PRP earns|VBZ no|DT interest|NN </s>|S_END
+<s>|S_START libor|NN and|CC euribor|NN measure|NN an|DT activity|NN that|IN barely|RB exist|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB if|IN markets|NNS were|VBD functioning|VBG properly|RB some|DT of|IN the|DT banks|NNS submitting|VBG estimates|NNS would|MD struggle|VB to|TO borrow|VB at|IN any|DT interest|NN rate|NN let|NN alone|RB the|DT one|CD they|PRP have|VBP been|VBN submitting|VBG </s>|S_END
+<s>|S_START this|DT problem|NN is|VBZ starkest|VBN for|IN euribor|NN where|WRB individual|JJ banks|NNS have|VBP been|VBN submitting|VBG rates|NNS that|WDT are|VBP likely|JJ to|TO be|VB a|DT good|JJ deal|NN lower|JJR than|IN the|DT rates|NNS they|PRP would|MD have|VB to|TO pay|VB in|IN actual|JJ transaction|NN </s>|S_END
+<s>|S_START the|DT biggest|JJS banks|NNS in|IN italy|RB and|CC spain|VB generally|RB estimate|JJ the|DT cost|NN of|IN borrowing|NN euros|NNS for|IN a|DT year|NN at|IN about|IN 11|CD </s>|S_END
+<s>|S_START this|DT rate|NN is|VBZ much|RB lower|JJR than|IN the|DT 4|CD and|CC 5|CD their|PRP$ governments|NNS and|CC ultimate|JJ guarantors|NNS pay|VBP to|TO borrow|VB for|IN the|DT same|JJ period|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ nothing|NN necessarily|RB untoward|JJ in|IN thi|NN </s>|S_END
+<s>|S_START unlike|IN libor|NN submitters|NNS euribor|NN banks|NNS are|VBP not|RB asked|VBN to|TO provide|VB estimates|NNS of|IN what|WP they|PRP think|VBP they|PRP would|MD have|VB to|TO pay|VB to|TO borrow|VB merely|RB estimates|VBZ of|IN what|WP the|DT borrowing|VBG rate|NN between|IN two|CD “prime”|JJ banks|NNS should|MD be|VB </s>|S_END
+<s>|S_START yet|RB the|DT definition|NN of|IN “prime”|NNP is|VBZ essentially|RB now|RB “german”|-NONE- leading|VBG to|TO a|DT widening|NN disconnect|NN between|IN the|DT actual|JJ costs|NNS of|IN bank|NN borrowing|VBG across|IN most|JJS of|IN europe|NN and|CC the|DT benchmark|NN rates|NNS that|WDT supposedly|RB reflect|VBP them|PRP </s>|S_END
+<s>|S_START “the|DT reference|NN to|TO euribor|VB is|VBZ completely|RB useless|JJ for|IN italian|JJ banks”|NN says|VBZ giovanni|NN sabatini|NN the|DT managing|VBG director|NN of|IN the|DT italian|JJ banking|NN association|NN </s>|S_END
+<s>|S_START “euribor|NN is|VBZ less|JJR than|IN 1|CD and|CC our|PRP$ banks|NNS are|VBP paying|VBG 350400|CD basis|NN points|NNS above|IN euribor”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START attempts|NNS to|TO improve|VB libor|NN and|CC its|PRP$ equivalents|NNS bring|VBG fresh|JJ problem|NN </s>|S_END
+<s>|S_START regulators|NNS politicians|NNS and|CC industry|NN groups|NNS are|VBP now|RB poring|VBG over|IN ways|NNS to|TO improve|VB the|DT calculation|NN of|IN such|JJ rates|NNS see|VBP free|JJ exchange|NN </s>|S_END
+<s>|S_START these|DT could|MD include|VB using|VBG larger|JJR panels|NNS of|IN banks|NNS and|CC forcing|JJ banks|NNS to|TO report|VB actual|JJ transaction|NN </s>|S_END
+<s>|S_START american|NN authorities|NNS have|VBP told|VBN barclays|NNS to|TO adopt|VB strict|JJ governance|NN and|CC reporting|VBG rules|NNS to|TO ensure|VB its|PRP$ submissions|NNS are|VBP honest|JJS </s>|S_END
+<s>|S_START in|IN isolation|NN each|DT of|IN these|DT changes|NNS seems|VBZ perfectly|RB sensible|JJ </s>|S_END
+<s>|S_START yet|RB in|IN aggregate|NN they|PRP pose|VBP two|CD big|JJ risk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT first|JJ is|VBZ that|IN banks|NNS may|MD simply|RB stop|VB contributing|VBG libor|NN estimates|NNS to|TO minimise|VB the|DT risks|NNS of|IN being|VBG prosecuted|VBN or|CC sued|VBN </s>|S_END
+<s>|S_START paul|NN tucker|NN the|DT bank|NN of|IN england|NN official|NN up|IN before|IN mps|NNS this|DT week|NN said|VBD contingency|NN planning|VBG has|VBZ already|RB started|VBN to|TO deal|VB with|IN this|DT risk|NN </s>|S_END
+<s>|S_START he|PRP also|RB raised|VBD the|DT possibility|NN that|IN civil|NN lawsuits|NNS against|IN banks|NNS might|MD be|VB so|RB large|JJ as|IN to|TO undermine|NN financial|JJ stability|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT second|JJ risk|NN is|VBZ that|IN changes|NNS to|TO the|DT method|NN of|IN calculating|VBG libor|NN could|MD lead|VB to|TO very|RB different|JJ numbers|NNS being|VBG generated|VBN </s>|S_END
+<s>|S_START much|RB bigger|JJR panels|NNS would|MD include|VB banks|NNS that|WDT are|VBP smaller|JJR and|CC less|JJR creditworthy|JJ than|IN those|DT currently|RB submitting|VBG leading|VBG to|TO higher|JJR libor|NN rate|NN </s>|S_END
+<s>|S_START ince|NN these|DT numbers|NNS are|VBP hardwired|VBN into|IN tens|NNS of|IN thousands|NNS of|IN derivatives|NNS contracts|NNS and|CC loan|NN agreements|NNS the|DT losers|NNS would|MD almost|RB certainly|RB dispute|JJ the|DT change|NN </s>|S_END
+<s>|S_START “if|JJ libor|NN 2|CD is|VBZ going|VBG to|TO give|VB an|DT answer|NN that|IN is|VBZ structurally|RB higher|JJR than|IN the|DT old|JJ libor|NN then|RB it|PRP will|MD be|VB worth|JJ litigating|NN over”|NN says|VBZ one|CD lawyer|NN </s>|S_END
+<s>|S_START “each|JJ basis|NN point|NN might|MD not|RB seem|VB much|JJ but|CC multiplied|VBD across|IN the|DT billions|NNS in|IN contracts|NNS it|PRP soon|RB adds|VBZ up|RP to|TO a|DT pretty|RB big|JJ number”|NN </s>|S_END
+</p>|P_END
+

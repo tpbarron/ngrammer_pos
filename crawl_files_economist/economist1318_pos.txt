@@ -1,0 +1,38 @@
+<p>|P_START
+<s>|S_START in|IN america|NN an|DT index|NN of|IN consumer|NN confidence|NN compiled|VBD by|IN the|DT conference|NN board|NN a|DT research|NN group|NN rose|VBD in|IN november|NN to|TO 541|CD its|PRP$ highest|JJS in|IN five|CD month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START industrial|JJ output|NN in|IN japan|NN fell|VBD by|IN 18|CD in|IN october|NN </s>|S_END
+<s>|S_START its|PRP$ 12month|JJ rate|NN of|IN growth|NN slowed|VBD sharply|RB to|TO 45|CD from|IN 115|CD in|IN the|DT year|NN to|TO september|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START an|DT index|NN of|IN conditions|NNS in|IN britains|NNS manufacturing|VBG sector|NN based|VBN on|IN a|DT survey|NN of|IN purchasing|VBG managers|NNS by|IN markit|NN a|DT financial|JJ information|NN provider|NN rose|VBD to|TO 58|CD in|IN november|NN from|IN 554|CD a|DT month|NN earlier|RBR </s>|S_END
+<s>|S_START novembers|NNS reading|VBG was|VBD the|DT highest|JJS since|IN september|NN 1994|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT unemployment|NN rate|NN in|IN the|DT euro|NN area|NN edged|VBD up|IN to|TO 101|CD in|IN october|NN from|IN 10|CD in|IN september|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hungarys|NNS central|VBP bank|NN raised|VBD its|PRP$ policy|NN rate|NN by|IN a|DT quarter|NN of|IN a|DT percentage|NN point|NN to|TO 55|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START wedens|NNS gdp|VBP growth|NN rate|NN quickened|VBD to|TO 69|CD in|IN the|DT year|NN to|TO the|DT third|JJ quarter|NN from|IN 45|CD in|IN the|DT year|NN to|TO the|DT second|JJ quarter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START australian|JJ gdp|NN growth|NN slowed|VBD to|TO 02|CD in|IN the|DT three|CD months|NNS to|TO september|VB from|IN 12|CD in|IN the|DT previous|JJ quarter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START indias|NNS economy|VBP grew|JJ by|IN 89|CD in|IN the|DT year|NN to|TO the|DT third|JJ quarter|NN matching|VBG the|DT upwardly|RB revised|VBN rate|NN for|IN the|DT previous|JJ quarter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START outh|NN koreas|VBD industrial|JJ production|NN rose|VBD by|IN 135|CD in|IN the|DT year|NN to|TO october|VB although|IN it|PRP declined|VBD by|IN 42|CD that|WDT month|NN </s>|S_END
+</p>|P_END
+

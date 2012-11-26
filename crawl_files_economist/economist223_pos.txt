@@ -1,0 +1,55 @@
+<p>|P_START
+<s>|S_START the|DT drought|NN of|IN 2012|CD started|VBN innocently|RB enough|RB with|IN a|DT little|RB less|RBR snow|RB in|IN the|DT winter|NN and|CC a|DT pleasantly|RB early|JJ start|NN to|TO spring|NN </s>|S_END
+<s>|S_START but|CC as|IN the|DT summer|NN has|VBZ rolled|VBN on|IN a|DT string|NN of|IN heat|NN records|NNS have|VBP been|VBN set|VBN across|IN america|NN </s>|S_END
+<s>|S_START both|DT lack|NN of|IN rain|NN and|CC extreme|NN heat|NN have|VBP conspired|VBN to|TO create|VB the|DT worst|JJS drought|NN for|IN 55|CD years—with|JJ more|JJR dry|JJ weather|NN forecast|NN in|IN the|DT weeks|NNS to|TO come|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START across|IN america|NN farmland|NN is|VBZ parched|VBN corn|NN is|VBZ wilting|VBG reservoirs|NNS are|VBP low|JJ rivers|NNS are|VBP running|VBG dry|JJ and|CC wildfires|NNS have|VBP broken|VBN out|RP in|IN utah|NN and|CC colorado|VB </s>|S_END
+<s>|S_START erious|JJ drought|NN conditions|NNS are|VBP creeping|VBG across|IN most|JJS of|IN the|DT contiguous|JJ 48|CD states|NNS and|CC a|DT new|JJ report|NN from|IN the|DT national|JJ climatic|JJ data|NNS centre|VBP finds|NNS that|IN 55|CD of|IN the|DT continental|JJ united|VBN states|NNS was|VBD in|IN moderate|JJ to|TO extreme|VB drought|NN and|CC a|DT third|JJ in|IN severe|JJ to|TO extreme|VB drought|NN as|IN of|IN july|RB 10th|JJ see|NN map|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START until|IN recently|RB the|DT booming|VBG farming|VBG sector|NN has|VBZ been|VBN a|DT small|JJ bright|NN spot|NN in|IN the|DT american|JJ economy|NN </s>|S_END
+<s>|S_START in|IN iowa|NN it|PRP has|VBZ even|RB fuelled|VBN a|DT state|NN surplu|NN </s>|S_END
+<s>|S_START but|CC this|DT year|NN the|DT primary|JJ corn|NN maize|NN and|CC soyabean|JJ agricultural|JJ belt|NN has|VBZ been|VBN hard|JJ hit|NN by|IN the|DT drought|NN of|IN the|DT past|JJ three|CD months|NNS crops|NNS pastures|NNS and|CC rangeland|NN have|VBP deteriorated|VBN at|IN a|DT rate|NN rarely|RB seen|VBN in|IN the|DT past|JJ 20|CD year|NN </s>|S_END
+<s>|S_START drought|NN now|RB covers|VBZ all|DT or|CC virtually|RB all|DT of|IN the|DT corn|NN and|CC soyabean|JJ production|NN areas|NNS in|IN illinois|NNS nebraska|VBP indiana|NNS kansas|NNS missouri|VBP colorado|NN arkansas|NNS kentucky|JJ and|CC tennessee|NN </s>|S_END
+<s>|S_START memories|NNS of|IN the|DT 1930s|CD dust|NN bowl|NN have|VBP even|RB been|VBN revived|VBN although|IN agricultural|JJ practices|NNS have|VBP improved|VBN greatly|RB since|IN then|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START across|IN the|DT country|NN more|JJR than|IN 1000|CD counties|NNS in|IN 29|CD states|NNS have|VBP been|VBN designated|VBN primary|JJ natural|JJ disaster|NN counties|NNS by|IN the|DT department|NN of|IN agriculture|NN usda|NN </s>|S_END
+<s>|S_START this|DT allows|VBZ producers|NNS in|IN these|DT areas|NNS to|TO apply|VB for|IN lowinterest|JJS loans|NNS from|IN the|DT government|NN and|CC opens|VBZ up|RP land|NN in|IN the|DT conservation|NN reserve|NN programme|NN for|IN use|NN for|IN grazing|NN and|CC hay|NN production|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN july|RB 16th|JJ the|DT usda|NN downgraded|VBD the|DT quality|NN of|IN domestic|JJ corn|NN rating|NN 38|CD as|IN “very|JJ poor”|NN or|CC “poor”|JJ </s>|S_END
+<s>|S_START this|DT was|VBD up|RP from|IN 30|CD the|DT week|NN before|IN and|CC is|VBZ a|DT rating|NN not|RB matched|VBN since|IN 1988|CD </s>|S_END
+<s>|S_START at|IN the|DT same|JJ time|NN 30|CD of|IN soyabeans|NNS were|VBD rated|VBN in|IN very|RB poor|JJ or|CC poor|JJ condition|NN up|IN from|IN 27|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START already|RB there|EX is|VBZ speculation|NN that|IN the|DT economic|JJ losses|NNS of|IN the|DT drought|NN will|MD reach|VB billions|NNS of|IN dollar|NN </s>|S_END
+<s>|S_START this|DT seems|VBZ a|DT reasonable|JJ gue|NN </s>|S_END
+<s>|S_START corn|NN is|VBZ the|DT biggest|JJS american|NN crop|NN worth|NN $|$ 765|CD billion|CD last|JJ year|NN </s>|S_END
+<s>|S_START moreover|RB in|IN 2011|CD texas|NNS suffered|VBD its|PRP$ driest|NN year|NN on|IN record|NN and|CC in|IN march|NN this|DT year|NN the|DT texan|NN agriculture|NN commissioner|NN announced|VBD that|IN it|PRP had|VBD caused|VBN farm|NN losses|NNS of|IN $|$ 762|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START america’s|NNS drought|VBD is|VBZ already|RB affecting|VBG the|DT world|NN price|NN of|IN corn|NN and|CC soyabean|JJ </s>|S_END
+<s>|S_START american|NN corn|NN represents|VBZ 525|CD of|IN world|NN corn|NN exports|NNS the|DT figure|NN for|IN soyabeans|NNS is|VBZ 429|CD </s>|S_END
+<s>|S_START in|IN the|DT past|JJ week|NN the|DT world|NN price|NN of|IN corn|NN has|VBZ increased|VBN more|JJR than|IN 30|CD according|VBG to|TO maximo|VB torero|NN a|DT director|NN of|IN markets|NNS trade|VBP and|CC institutions|NNS at|IN the|DT international|JJ food|NN policy|NN research|NN institute|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START price|NN increases|NNS in|IN corn|NN and|CC soyabeans|NNS are|VBP not|RB thought|VBN likely|JJ to|TO trigger|NN a|DT food|NN crisis|NN as|IN they|PRP did|VBD in|IN 200708|CD as|IN global|JJ rice|NN and|CC wheat|NN supplies|NNS remain|VBP plentiful|JJ </s>|S_END
+<s>|S_START but|CC since|IN corn|NN is|VBZ used|VBN to|TO feed|VB livestock|NN any|DT increase|NN in|IN its|PRP$ price|NN will|MD also|RB cause|VB the|DT price|NN of|IN beef|NN pork|NN poultry|NN and|CC dairy|NN products|NNS to|TO rise|VB </s>|S_END
+<s>|S_START corn|NN also|RB comes|VBZ under|IN pressure|NN because|IN its|PRP$ use|NN is|VBZ mandatory|NN in|IN ethanol|NN production|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN soyabeans|NNS the|DT next|JJ few|JJ weeks|NNS are|VBP critical|JJ as|IN their|PRP$ relatively|RB long|JJ pollination|NN period|NN means|VBZ that|DT the|DT outlook|NN could|MD improve|VB if|IN rain|NN arrive|JJ </s>|S_END
+<s>|S_START ohio|NN and|CC parts|NNS of|IN indiana|NNS may|MD not|RB be|VB as|RB hot|JJ and|CC could|MD experience|VB some|DT sporadic|JJ relief|NN from|IN showers|NNS and|CC thunderstorm|NN </s>|S_END
+<s>|S_START but|CC brad|VBD rippey|NN a|DT meteorologist|NN for|IN the|DT usda|NN says|VBZ that|IN hotter|JJR and|CC drierthannormal|JJ weather|NN is|VBZ expected|VBN to|TO continue|VB in|IN many|JJ of|IN america’s|NNS key|JJ production|NN areas|NNS in|IN the|DT plains|NNS and|CC the|DT midwest|NN until|IN the|DT end|NN of|IN july|RB </s>|S_END
+</p>|P_END
+

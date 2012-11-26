@@ -1,0 +1,109 @@
+<p>|P_START
+<s>|S_START chances|NNS of|IN 65yearold|JJ living|NN to|TO age|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START money|NN magazine|NN why|WRB do|VBP i|PRP need|VBP my|PRP$ savings|NNS to|TO last|JJ to|TO age|NN 100|CD if|IN my|PRP$ average|NN life|NN span|NN is|VBZ much|JJ shorter|NN </s>|S_END
+<s>|S_START mike|IN johnson|NN fairfield|NN ohio|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT flaw|NN of|IN averages|NNS why|WRB we|PRP underestimate|VBP risk|NN in|IN the|DT face|NN of|IN uncertainty|NN stanford|NN managementscience|NN professor|NN sam|NN savage|NN illustrates|VBZ the|DT folly|RB of|IN planning|VBG using|VBG averages|NNS by|IN recounting|VBG the|DT tale|NN of|IN the|DT statistician|JJ who|WP drowns|NNS crossing|VBG a|DT river|NN with|IN an|DT average|JJ depth|NN of|IN three|CD feet|NNS </s>|S_END
+<s>|S_START the|DT rub|NN of|IN course|NN is|VBZ that|IN while|IN the|DT stream|NN is|VBZ shallow|JJ near|IN the|DT shore|NN its|PRP$ 12|CD feet|NNS deep|VBP in|IN the|DT middle|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT idea|NN of|IN using|VBG your|PRP$ average|NN life|NN span|NN for|IN estimating|NN how|WRB long|JJ your|PRP$ savings|NNS will|MD have|VB to|TO last|JJ in|IN retirement|NN is|VBZ similarly|RB all|DT wet|NN and|CC could|MD leave|VB you|PRP in|IN the|DT unpleasant|JJ position|NN of|IN having|VBG no|DT savings|NNS but|CC a|DT whole|JJ lotta|NN living|NN to|TO go|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START life|NN expectancy|NN isnt|NN an|DT estimate|NN of|IN how|WRB long|JJ you|PRP are|VBP likely|JJ to|TO stay|VB alive|JJ </s>|S_END
+<s>|S_START it|PRP represents|VBZ the|DT average|JJ number|NN of|IN years|NNS a|DT person|NN of|IN a|DT given|VBN age|NN is|VBZ expected|VBN to|TO live|VB </s>|S_END
+<s>|S_START these|DT days|NNS the|DT life|NN expectancy|NN of|IN a|DT healthy|JJ 65yearold|JJ man|NN is|VBZ another|DT 20|CD or|CC so|RB years|NNS while|IN for|IN a|DT woman|NN of|IN the|DT same|JJ age|NN its|PRP$ an|DT additional|JJ 22|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ people|NNS will|MD live|VB longer|RBR </s>|S_END
+<s>|S_START as|IN the|DT above|NN chart|NN shows|VBZ a|DT 65yearold|JJ man|NN has|VBZ a|DT 30|CD probability|NN of|IN living|NN to|TO 90|CD a|DT 65yearold|JJ woman|NN has|VBZ a|DT 40|CD chance|NN </s>|S_END
+<s>|S_START and|CC the|DT chance|NN that|IN at|IN least|JJS one|CD member|NN of|IN a|DT 65yearold|JJ couple|NN will|MD be|VB alive|JJ at|IN 90|CD is|VBZ higher|JJR 60|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB you|PRP arrange|VBP your|PRP$ finances|NNS based|VBN on|IN how|WRB long|JJ someone|NN your|PRP$ age|NN is|VBZ projected|VBN to|TO live|VB you|PRP may|MD be|VB giving|VBG yourself|PRP a|DT false|NN sense|NN of|IN security|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START more|JJR best|JJS money|NN moves|NNS in|IN your|PRP$ 40s|CD and|CC 50s|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lets|NNS say|VBP youre|NN 65|CD have|VBP $|$ 500000|CD and|CC want|JJ to|TO withdraw|VB enough|JJ each|DT year|NN to|TO live|VB comfortably|RB but|CC not|RB so|RB much|RB that|IN youll|JJ spend|NN your|PRP$ money|NN too|RB soon|RB </s>|S_END
+<s>|S_START if|IN you|PRP assume|VBP your|PRP$ assets|NNS will|MD have|VB to|TO support|VB you|PRP for|IN only|RB 20|CD years|NNS you|PRP could|MD withdraw|VB 5|CD of|IN your|PRP$ savings|NNS initially|RB and|CC then|RB increase|VB it|PRP for|IN inflation|NN each|DT year|NN </s>|S_END
+<s>|S_START with|IN that|DT regimen|NNS youd|VBP have|VBP about|IN a|DT 10|CD chance|NN of|IN depleting|VBG your|PRP$ money|NN before|IN age|NN 85|CD according|VBG to|TO t|VB rowe|NN prices|NNS retirement|NN income|NN calculator|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP live|VBP longer|RB the|DT probability|NN of|IN your|PRP$ money|NN running|VBG out|RP rises|NNS </s>|S_END
+<s>|S_START at|IN the|DT same|JJ withdrawal|NN rate|NN it|PRP jumps|VBZ to|TO more|JJR than|IN 30|CD if|IN you|PRP live|VBP to|TO 90|CD and|CC almost|RB 50|CD at|IN age|NN 95|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN if|IN life|NN expectancy|NN isnt|NN the|DT right|NN figure|NN for|IN retirementplanning|NN what|WP is|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START theres|NNS no|DT single|JJ correct|NN figure|NN </s>|S_END
+<s>|S_START in|IN its|PRP$ retirement|NN income|NN planner|NN tool|NN fidelity|NN sets|VBZ a|DT default|NN age|NN of|IN 92|CD for|IN a|DT 65yearold|JJ man|NN and|CC 94|CD for|IN a|DT woman|NN </s>|S_END
+<s>|S_START t|NN rowe|NN prices|NNS calculator|NN uses|NNS 95|CD for|IN all|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB boston|NN university|NN economist|NN laurence|NN kotlikoff|NN designed|VBN his|PRP$ esplanner|NN retirement|NN software|NN he|PRP set|VBD the|DT target|NN age|NN at|IN 100|CD </s>|S_END
+<s>|S_START you|PRP have|VBP to|TO plan|NN for|IN the|DT possibility|NN of|IN reaching|VBG the|DT maximum|NN age|NN because|IN you|PRP might|MD make|VB it|PRP he|PRP says|VBZ </s>|S_END
+<s>|S_START all|DT three|CD calculators|NNS let|VBP you|PRP set|VBD a|DT higher|JJR or|CC lower|JJR age|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START more|JJR best|JJS investments|NNS at|IN ages|NNS 55plus|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN reality|NN the|DT vast|JJ majority|NN of|IN us|PRP wont|VBP live|JJ to|TO 100|CD or|CC even|RB our|PRP$ nineties|NNS </s>|S_END
+<s>|S_START so|IN how|WRB do|VBP you|PRP balance|VB the|DT risk|NN of|IN assuming|VBG too|RB short|JJ a|DT life|NN span|NN and|CC spending|NN down|IN your|PRP$ assets|NNS too|RB soon|RB vs|VBZ erring|VBG on|IN the|DT side|NN of|IN longevity|NN and|CC living|VBG more|JJR frugally|RB than|IN need|NN be|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START deciding|VBG between|IN those|DT two|CD possibilities|NNS is|VBZ personal|JJ </s>|S_END
+<s>|S_START my|PRP$ take|NN is|VBZ that|IN the|DT prospect|NN of|IN having|VBG to|TO scrimp|VB in|IN your|PRP$ final|JJ years|NNS or|CC worse|VB yet|RB depend|VB on|IN the|DT kindness|NN of|IN others|NNS is|VBZ more|RBR unsettling|JJ than|IN the|DT possibility|NN of|IN dying|VBG with|IN unspent|NN assets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unless|IN you|PRP have|VBP serious|JJ health|NN problems|NNS or|CC a|DT family|NN history|NN of|IN dying|VBG young|JJ plan|NN on|IN living|NN into|IN your|PRP$ early|JJ or|CC midnineties|NNS </s>|S_END
+<s>|S_START if|IN your|PRP$ ancestors|NNS are|VBP longlived|VBN you|PRP may|MD want|VB to|TO aim|VB for|IN 100|CD </s>|S_END
+<s>|S_START and|CC couples|NNS may|MD want|VB to|TO plan|VB for|IN a|DT husband|NN dying|VBG first|JJ since|IN women|NNS have|VBP longer|JJR life|NN spans|NNS on|IN average|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START more|JJR money|NN 101|CD getting|VBG the|DT most|JJS out|RP of|IN your|PRP$ retirement|NN money|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ultimately|RB you|PRP have|VB no|DT way|NN of|IN knowing|VBG when|WRB youll|JJ depart|NN this|DT earth|NN </s>|S_END
+<s>|S_START even|RB online|VBP tools|NNS that|IN finetune|NN your|PRP$ life|NN expectancy|NN based|VBN on|IN your|PRP$ health|NN behavior|NN and|CC family|NN history|NN such|JJ as|IN the|DT one|CD offered|VBD by|IN northwestern|JJ mutual|JJ produce|NN only|RB an|DT average|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START given|VBN that|IN uncertainty|NN it|PRP pays|VBZ to|TO hedge|VB your|PRP$ longevity|NN bets|NNS another|DT way|NN once|RB you|PRP retire|VBP devote|VBP a|DT portion|NN of|IN your|PRP$ savings|NNS to|TO an|DT immediate|JJ annuity|NN which|WDT pays|NNS guaranteed|VBD income|NN no|DT matter|NN how|WRB long|JJ you|PRP live|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP you|PRP dont|VBP want|JJ to|TO do|VB is|VBZ plan|NN as|IN if|IN your|PRP$ savings|NNS need|VBP to|TO last|JJ only|RB for|IN an|DT average|JJ life|NN span|NN </s>|S_END
+<s>|S_START do|VBP so|RB and|CC you|PRP could|MD find|VB yourself|PRP in|IN deep|NN water|NN later|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START do|VBP you|PRP know|VB a|DT money|NN hero|NN </s>|S_END
+<s>|S_START money|NN magazine|NN is|VBZ celebrating|VBG people|NNS both|DT famous|JJ and|CC unsung|JJ who|WP have|VBP done|VBN extraordinary|JJ work|NN to|TO improve|VB others|NNS financial|JJ wellbeing|NN </s>|S_END
+<s>|S_START send|NN an|DT email|NN to|TO nominate|VB your|PRP$ money|NN hero |-NONE- </s>|S_END
+</p>|P_END
+

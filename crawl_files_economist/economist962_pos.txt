@@ -1,0 +1,34 @@
+<p>|P_START
+<s>|S_START back|RB to|TO blood|VB </s>|S_END
+<s>|S_START by|IN tom|NN wolfe|NN </s>|S_END
+<s>|S_START little|RB brown|VBN 720|CD pages|NNS $|$ 30|CD </s>|S_END
+<s>|S_START jonathan|IN cape|NN £20|-NONE- </s>|S_END
+<s>|S_START buy|NN from|IN amazoncom|NN amazoncouk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “in|JJ miami|NN everybody|NN hates|VBZ everybody”|JJ explains|NNS a|DT haitian|JJ woman|NN in|IN “back|JJ to|TO blood”|NNP </s>|S_END
+<s>|S_START mr|NN wolfe|NN set|NN his|PRP$ last|JJ three|CD novels|NNS —“the|JJ bonfire|NN of|IN the|DT vanities”|JJ “a|NN man|NN in|IN full”|NNP and|CC “i|NNP am|NN charlotte|NN simmons”—in|NN new|JJ york|NN atlanta|NN and|CC an|DT eastcoast|NN university|NN campu|NN </s>|S_END
+<s>|S_START now|RB he|PRP targets|VBZ miami|NN where|WRB more|JJR than|IN 50|CD of|IN the|DT residents|NNS are|VBP foreignborn|VBN mostly|RB cuban|JJ but|CC also|RB haitian|JJ colombian|JJ nicaraguan|NN and|CC others—a|NNP city|NN where|WRB the|DT melting|NN pot|NN dear|NN to|TO american|JJ sentiment|NN does|VBZ not|RB hold|VB at|IN all|DT </s>|S_END
+<s>|S_START assimilation|NN is|VBZ reversed|VBN anglos|NNS an|DT endangered|VBN species|NNS adopt|IN latin|NN ways|NNS or|CC turn|VB immigrant|JJ themselves|NNS and|CC flee|NN up|RP the|DT coast|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP sex|NN was|VBD to|TO sigmund|VB freud|NN status|NN is|VBZ to|TO mr|VB wolfe|NN the|DT ultimate|JJ drive|JJ </s>|S_END
+<s>|S_START in|IN this|DT his|PRP$ first|JJ novel|NN in|IN eight|CD years|NNS magdalena|NN the|DT girlfriend|NN of|IN his|PRP$ protagonist|NN nestor|NN camacho|NN an|DT officer|NN with|IN the|DT miami|NN marine|NN patrol|NN longs|NNS to|TO escape|VB the|DT cuban|NN “ghetto|-NONE- of|IN hialeah”|JJ </s>|S_END
+<s>|S_START magdalena|NN dumps|NNS nestor|NN for|IN norman|NN lewis|NNS a|DT psychiatrist|NN specialising|VBG in|IN pornaddiction|NN with|IN an|DT addiction|NN of|IN his|PRP$ own|JJ social|JJ climbing|NN </s>|S_END
+<s>|S_START a|DT haitian|JJ professor|NN has|VBZ haute|JJ ancestral|JJ aspirations—he|NN believes|NNS he|PRP is|VBZ “essentially|RB european”|-NONE- and|CC insists|NNS his|PRP$ children|NNS speak|VBP french|JJ at|IN home|NN </s>|S_END
+<s>|S_START a|DT russian|JJ oligarch|NN and|CC a|DT bigshot|NN miami|NN billionaire|NN try|NN to|TO outmanoeuvre|VB each|DT other|JJ to|TO spend|VB millions|NNS on|IN the|DT artist|NN du|NN jour|NN at|IN art|NN basel|NN miami|NN </s>|S_END
+<s>|S_START there|EX are|VBP lashings|NNS of|IN ink|NN at|IN what|WP mr|NN wolfe|NN calls|VBZ “the|JJ ludicrous|JJ practical|JJ joke”|NN of|IN contemporary|JJ art|NN </s>|S_END
+<s>|S_START in|IN a|DT world|NN where|WRB you|PRP are|VBP what|WP you|PRP own|VBP the|DT right|NN stuff|NN turns|VBZ out|RP to|TO be|VB a|DT pair|NN of|IN white|JJ crocodile|NN high|JJ heels|NNS and|CC a|DT ferrari|NN 403|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT clatter|NN of|IN the|DT book’s|JJ pinballing|NN plot|NN stylistic|JJ tics—ranks|NNS of|IN exclamation|NN mark|NN </s>|S_END
+<s>|S_START stuttering|VBG ellipses—and|JJ bulk|NN may|MD prove|VB too|RB much|RB for|IN many|JJ reader|NN </s>|S_END
+<s>|S_START but|CC mr|PRP$ wolfe’s|NNS satirical|JJ aim|NN at|IN the|DT debauchery|NN and|CC landscape|NN of|IN avarice|NN and|CC arrogance|NN is|VBZ gleefully|RB accurate|JJ </s>|S_END
+<s>|S_START “one|NN must|MD occasionally|RB suffer|VB for|IN style”|JJ the|DT author|NN told|VBD the|DT paris|NN review|NN </s>|S_END
+<s>|S_START mr|NN wolfe|NN was|VBD talking|VBG about|IN his|PRP$ overcoat|NN but|CC the|DT line|NN could|MD apply|VB to|TO readers|NNS as|IN well|RB </s>|S_END
+<s>|S_START yes|NNS this|DT tale|NN of|IN urban|NN manners|NNS is|VBZ familiar|JJ wolfian|JJ territory—a|NN city|NN on|IN steroids|NNS a|DT riptide|NN of|IN racial|JJ politics|NNS a|DT bonfire|NN on|IN the|DT beach|NN but|CC then|RB if|IN you|PRP can’t|VBP stand|VBP the|DT heat|NN you|PRP shouldn’t|JJ stay|NN in|IN miami|NN </s>|S_END
+</p>|P_END
+

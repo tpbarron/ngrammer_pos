@@ -1,0 +1,100 @@
+<p>|P_START
+<s>|S_START some|DT market|NN watchers|NNS worry|VBP that|IN the|DT presence|NN of|IN highspeed|NN trading|NN firms|NNS in|IN treasuries|NNS could|MD spark|VB a|DT flash|NN crash|NN in|IN that|DT market|NN similar|JJ to|TO the|DT one|CD on|IN may|MD 6|CD 2010|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN in|IN the|DT new|JJ age|NN of|IN high|JJ speed|NN trading|NN us|PRP treasuries|VBZ could|MD become|VB the|DT next|JJ flash|NN crash|NN victim|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START highfrequency|NN trading|NN now|RB accounts|VBZ for|IN roughly|RB 40|CD to|TO 50|CD of|IN the|DT daily|JJ volume|NN in|IN treasuries|NNS compared|VBN to|TO a|DT negligible|JJ amount|NN just|RB five|CD years|NNS ago|RB according|VBG to|TO research|NN firm|NN tabb|NN group|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT enormous|JJ size|NN of|IN the|DT treasuries|NNS market|NN makes|VBZ it|PRP appealing|VBG to|TO firms|NNS that|WDT make|VB money|NN from|IN huge|JJ volumes|NNS of|IN trades|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN with|IN stocks|NNS the|DT fear|NN is|VBZ that|IN flash|NN crashes|NNS could|MD cause|VB sharp|JJ plunges|NNS in|IN treasury|NN prices|NNS </s>|S_END
+<s>|S_START that|DT would|MD lead|VB to|TO soaring|VB yields|NNS from|IN alltime|JJ lows|NNS below|IN 15|CD to|TO as|RB high|JJ as|IN 4|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT of|IN the|DT biggest|JJS players|NNS in|IN highfrequency|NN trading|NN drw|NN holdings|NNS sun|VBP trading|VBG virtu|NN financial|JJ hudson|NN river|NN trading|NN jump|VB trading|NN and|CC gsa|NN capital|NN partners|NNS have|VBP all|DT been|VBN expanding|VBG their|PRP$ reach|NN to|TO treasuries|NNS according|VBG to|TO numerous|JJ trading|NN sources|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT treasury|NN department|NN wasnt|NN able|JJ to|TO provide|VB recent|JJ breakdowns|NNS on|IN trading|NN in|IN government|NN debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ been|VBN less|JJR profitable|JJ for|IN highfrequency|NN firms|NNS to|TO trade|VB equities|NNS so|RB these|DT firms|NNS are|VBP looking|VBG at|IN other|JJ asset|NN classes|NNS said|VBD justin|NN schack|NN a|DT managing|VBG director|NN at|IN the|DT institutional|JJ brokerage|NN rosenblatt|NN securities|NNS </s>|S_END
+<s>|S_START treasuries|NNS are|VBP one|CD of|IN the|DT most|RBS liquid|JJ markets|NNS in|IN the|DT world|NN so|RB its|PRP$ very|JJ fertile|NN ground|NN for|IN highfrequency|NN market|NN making|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT liquidity|NN has|VBZ attracted|VBN hedge|NN funds|NNS that|WDT use|VBP computer|NN driven|NNS formulas|RB to|TO capture|VB profits|NNS from|IN tiny|JJ price|NN movements|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN stocks|NNS this|DT year|NN alone|RB three|CD events|NNS clearly|RB illustrate|JJ the|DT dangers|NNS of|IN computer|NN driven|VBN speed|NN trading|NN nasdaqs|VBZ ndaq|NN botched|VBD facebook|NN fb|NN ipo|NN the|DT bungled|VBN ipo|NN of|IN the|DT bats|NNS stock|NN exchange|NN and|CC most|JJS recently|RB errant|JJ moves|NNS in|IN 150|CD nyselisted|VBN stocks|NNS caused|VBN by|IN brokerage|NN firm|NN knight|NN capitals|NNS kcg|VBP rogue|JJ algorithms|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD ubs|NNS lost|VBN $|$ 356|CD million|CD on|IN facebook|NN suing|VBG nasdaq|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START firms|NNS that|DT buy|NN and|CC sell|NN millions|NNS of|IN shares|NNS of|IN anything|NN per|IN second|JJ look|NN to|TO capture|VB profits|NNS from|IN tiny|JJ price|NN fluctuations|NNS but|CC the|DT computers|NNS driving|VBG these|DT trades|NNS are|VBP typically|RB programmed|VBN to|TO halt|VB trading|NN as|IN soon|RB as|IN prices|NNS move|VBP outside|IN a|DT predetermined|VBN range|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START now|RB when|WRB theres|NNS uncertainty|NN theres|NNS nobody|NN there|RB and|CC everybody|NN steps|NNS back|RB said|VBD dennis|NNS dick|VBP a|DT proprietary|JJ trader|NN at|IN bright|JJ trading|NN and|CC the|DT founder|NN of|IN the|DT research|NN firm|NN premarketinfo|NN </s>|S_END
+<s>|S_START these|DT firms|NNS take|VBP no|DT risk|NN because|IN they|PRP can|MD simply|RB turn|VB off|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT offbutton|NN in|IN combination|NN with|IN a|DT massive|JJ computerdriven|NN trade|NN by|IN a|DT mutual|JJ fund|NN have|VBP been|VBN seen|VBN as|IN the|DT factors|NNS that|DT led|VBN to|TO the|DT may|MD 6|CD 2010|CD flash|NN crash|NN that|WDT caused|VBN the|DT dow|NN jones|NNS industrial|JJ average|NN to|TO plunge|VB 1000|CD points|NNS in|IN minutes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START research|NN firm|NN nanex|NN estimates|NNS that|WDT this|DT year|NN there|RB have|VBP already|RB been|VBN more|RBR than|IN 10000|CD microcrashes|NNS where|WRB stocks|NNS dropped|VBD far|RB outside|IN a|DT normal|JJ trading|NN range|NN for|IN several|JJ seconds|NNS </s>|S_END
+<s>|S_START even|RB warren|VBN buffetts|NNS berkshire|VBP hathaway|NN brka|NN fortune|NN 500|CD succumbed|VBN to|TO such|JJ a|DT crash|NN on|IN may|MD 3|CD when|WRB within|IN seconds|NNS its|PRP$ highpriced|VBN class|NN a|DT shares|NNS dropped|VBD 90|CD and|CC then|RB just|RB as|IN quickly|RB recovered|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START very|RB sophisticated|VBN institutions|NNS known|VBN for|IN their|PRP$ technological|JJ prowess|NN have|VBP been|VBN badly|RB stubbing|VBG their|PRP$ toes|NNS on|IN the|DT technology|NN said|VBD andrew|NN lo|NN a|DT finance|NN professor|NN at|IN mit|NN </s>|S_END
+<s>|S_START what|WP weve|VBP seen|VBN recently|RB is|VBZ the|DT interaction|NN between|IN moores|NNS law|NN and|CC murphys|NNS law|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD the|DT wall|NN street|NN machine|NN is|VBZ broken|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START moores|NNS law|VBD the|DT theory|NN that|IN the|DT speed|NN of|IN computer|NN chips|NNS would|MD double|VB every|DT two|CD years|NNS has|VBZ clearly|RB played|VBN a|DT role|NN </s>|S_END
+<s>|S_START while|IN stock|NN trading|NN has|VBZ rapidly|RB become|VBN electronically|RB driven|RB over|IN the|DT past|JJ decade|NN the|DT dehumanization|NN of|IN bond|NN trading|NN has|VBZ moved|VBN at|IN a|DT slower|JJR pace|NN </s>|S_END
+<s>|S_START but|CC thats|NNS quickly|RB changing|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START were|VBD in|IN the|DT middle|NN of|IN a|DT technological|JJ arms|NNS race|NN in|IN trading|NN said|VBD lo|NN </s>|S_END
+<s>|S_START trading|NN firms|NNS have|VBP found|VBN it|PRP difficult|VBD to|TO resist|VB the|DT lure|NN of|IN significantly|RB cheaper|JJR costs|NNS that|WDT come|NN with|IN electronic|JJ trading|NN </s>|S_END
+<s>|S_START blackrock|NN the|DT worlds|NNS secondlargest|VBP bond|NN firm|NN is|VBZ testing|VBG an|DT internal|JJ electronic|JJ bond|NN trading|NN system|NN </s>|S_END
+<s>|S_START and|CC morgan|VBD stanley|NN ms|NNS fortune|VBP 500|CD has|VBZ reportedly|RB been|VBN cutting|VBG its|PRP$ bond|NN trading|NN staff|NN in|IN favor|NN of|IN computers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START still|RB the|DT greatest|JJS safeguard|NN for|IN the|DT us|PRP government|NN bond|NN market|NN is|VBZ that|IN by|IN and|CC large|JJ investors|NNS still|RB find|VBP value|NN in|IN treasuries|NNS since|IN theyre|NN backed|VBN by|IN the|DT us|PRP government|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN while|IN a|DT trading|NN glitch|NN may|MD fundamentally|RB reshape|VB investors|NNS perceptions|NNS of|IN the|DT value|NN of|IN a|DT company|NN rogue|NN algorithms|NNS in|IN the|DT treasuries|NNS market|NN may|MD not|RB have|VB the|DT same|JJ impact|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+</p>|P_END
+
+<p>|P_START
+</p>|P_END
+

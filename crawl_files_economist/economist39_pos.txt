@@ -1,0 +1,71 @@
+<p>|P_START
+<s>|S_START europe’s|NNS biggest|VBP economy|NN has|VBZ its|PRP$ bittiest|NN banking|NN system|NN </s>|S_END
+<s>|S_START germany’s|NNS threepillar|VBP banking|VBG sector|NN comprises|NNS savings|NNS banks|NNS cooperative|VBP banks|NNS and|CC private|JJ bank|NN </s>|S_END
+<s>|S_START apart|NN from|IN a|DT handful|NN of|IN big|JJ institutions|NNS such|JJ as|IN deutsche|NN bank|NN commerzbank|NN and|CC hypovereinsbank|NN hvb|NN which|WDT is|VBZ part|NN of|IN the|DT italianowned|VBN unicredit|NN group|NN the|DT lenders|NNS are|VBP parochial|JJ </s>|S_END
+<s>|S_START that|DT seemed|VBD antiquated|VBN once|RB </s>|S_END
+<s>|S_START it|PRP now|RB looks|VBZ less|JJR stickinthemud|NN than|IN it|PRP did|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START two|CD of|IN the|DT pillars—the|NNP 423|CD savings|NNS banks|NNS and|CC 1116|CD cooperative|JJ banks—have|JJ come|NN through|IN the|DT crisis|NN with|IN barely|RB a|DT scratch|NN so|IN far|RB </s>|S_END
+<s>|S_START each|DT of|IN these|DT sectors|NNS already|RB has|VBZ a|DT system|NN of|IN joint|JJ and|CC several|JJ liability|NN which|WDT means|VBZ that|DT no|DT individual|JJ member|NN bank|NN is|VBZ allowed|VBN to|TO go|VB bust|RB </s>|S_END
+<s>|S_START neither|DT wants|NNS to|TO become|VB part|NN of|IN a|DT wider|NN european|NN banking|NN union|NN in|IN which|WDT guarantees|NNS extend|VBP to|TO weak|VB peripheral|JJ bank|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START they|PRP argue|VBP that|IN their|PRP$ business|NN model|NN working|VBG for|IN the|DT public|NN or|CC mutual|JJ good|JJ rather|NN than|IN for|IN shareholders|NNS is|VBZ well|RB suited|VBN to|TO the|DT mixture|NN of|IN households|NNS and|CC small|JJ companies|NNS known|VBN as|IN the|DT mittelstand|NN that|IN they|PRP serve|VBP </s>|S_END
+<s>|S_START that|DT seems|VBZ to|TO be|VB borne|NN out|RP by|IN their|PRP$ lending|VBG record|NN since|IN 2007|CD </s>|S_END
+<s>|S_START private|JJ banks|NNS reduced|VBN their|PRP$ medium|NN and|CC longterm|NN lending|VBG to|TO companies|NNS and|CC households|NNS between|IN 2007|CD and|CC 2012|CD in|IN favour|PRP$ of|IN shortterm|NN loans|NNS the|DT savings|NNS and|CC cooperative|JJ banks|NNS increased|VBD theirs|NNS see|VBP chart|NN </s>|S_END
+<s>|S_START it|PRP helps|VBZ of|IN course|NN that|IN germany’s|JJ economy|NN has|VBZ been|VBN performing|VBG well|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT savings|NNS banks|NNS and|CC cooperative|JJ banks|NNS provide|VBP about|IN twothirds|NNS of|IN all|DT lending|VBG to|TO mittelstand|VB companies|NNS and|CC 43|CD of|IN lending|VBG to|TO all|DT companies|NNS and|CC household|NN </s>|S_END
+<s>|S_START the|DT landesbanken|VBN which|WDT act|NN as|IN wholesale|JJ banks|NNS for|IN the|DT savings|NNS banks|NNS and|CC dz|NN bank|NN and|CC wgz|NN bank|NN which|WDT do|VBP the|DT same|JJ for|IN the|DT cooperative|JJ banks|NNS step|VBP in|IN to|TO provide|VB more|JJR sophisticated|JJ services|NNS such|JJ as|IN hedging|NN and|CC offshore|VB financing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START not|RB everything|NN is|VBZ rosy|JJ in|IN the|DT garden|NN </s>|S_END
+<s>|S_START the|DT landesbanken|VBN are|VBP a|DT tale|NN of|IN woe|NN </s>|S_END
+<s>|S_START they|PRP raised|VBD as|IN much|JJ money|NN as|IN they|PRP could|MD before|VB a|DT 2005|CD deadline|NN which|WDT ended|VBD their|PRP$ ability|NN to|TO issue|VB debt|NN under|IN public|JJ guarantee|NN and|CC then|RB had|VBD to|TO find|VB ways|NNS of|IN investing|VBG the|DT proceed|NN </s>|S_END
+<s>|S_START they|PRP scooped|VBD up|RP structured|VBN credit|NN products|NNS which|WDT later|JJ turned|VBD out|RP to|TO be|VB toxic|JJ they|PRP also|RB overreached|VBD themselves|PRP with|IN badly|RB managed|VBN debt|NN and|CC equity|NN investments|NNS in|IN regions|NNS where|WRB they|PRP had|VBD little|JJ expertise|NN </s>|S_END
+<s>|S_START westdeutsche|PRP landesbank|VBD the|DT most|JJS ambitious|JJ was|VBD finally|RB wound|VBN up|RP in|IN june|NN at|IN a|DT cost|NN of|IN €21|-NONE- billion|CD $|$ 268|CD billion|CD to|TO its|PRP$ public|JJ owner|NN </s>|S_END
+<s>|S_START bayerische|PRP landesbank|VBD after|IN some|DT disastrous|JJ attempts|NNS to|TO expand|VB in|IN central|JJ europe|NN is|VBZ struggling|VBG to|TO pay|VB off|RP €5|-NONE- billion|CD of|IN state|NN aid|NN </s>|S_END
+<s>|S_START only|RB three|CD landesbanken|VBN have|VBP the|DT beginnings|NNS of|IN a|DT natural|JJ deposit|NN and|CC customer|NN base|NN </s>|S_END
+<s>|S_START the|DT rest|NN are|VBP barely|RB making|VBG money|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT private|JJ banks|NNS the|DT third|JJ pillar|JJ of|IN the|DT system|NN also|RB have|VBP several|JJ black|JJ marks|NNS against|IN them|PRP </s>|S_END
+<s>|S_START apart|NN from|IN deutsche|NN which|WDT is|VBZ one|CD of|IN the|DT few|JJ survivors|NNS among|IN the|DT global|JJ investment|NN and|CC commercial|JJ banks|NNS the|DT other|JJ big|JJ german|NN banks|NNS have|VBP proved|VBN remarkably|RB accidentprone|NN </s>|S_END
+<s>|S_START ince|NN 2007|CD germany|NN has|VBZ endured|VBN the|DT nearcollapse|NN of|IN ikb|NN a|DT partly|RB stateowned|VBN industriallending|VBG bank|NN the|DT rescue|NN by|IN nationalisation|NN of|IN hypo|NN real|JJ estate|NN and|CC the|DT partnationalisation|NN of|IN commerzbank|NN weighed|VBD down|IN by|IN its|PRP$ illadvised|VBN purchases|NNS of|IN eurohypo|NN in|IN 2005|CD and|CC of|IN dresdner|NN bank|NN in|IN 2008|CD </s>|S_END
+<s>|S_START on|IN november|NN 8th|CD commerzbank|NN announced|VBD another|DT disappointing|NN set|NN of|IN results|NNS and|CC warned|VBD of|IN even|RB weaker|JJR profits|NNS in|IN the|DT fourth|JJ quarter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN worry|NN that|IN the|DT german|NN banking|NN system|NN still|RB has|VBZ vulnerabilitie|VBN </s>|S_END
+<s>|S_START the|DT ten|VBN biggest|JJS banks|NNS have|VBP a|DT €43|NNP billion|NN exposure|NN to|TO the|DT government|NN debt|NN of|IN peripheral|JJ eurozone|NN member|NN </s>|S_END
+<s>|S_START as|IN they|PRP retrench|VBP to|TO their|PRP$ domestic|JJ market|NN they|PRP face|VBP decreasing|VBG margins|NNS because|IN of|IN fiercer|NN competition|NN </s>|S_END
+<s>|S_START and|CC if|IN the|DT overall|JJ system|NN is|VBZ still|RB rather|RB small|JJ by|IN european|JJ standards—banks’|NN assets|NNS are|VBP equivalent|JJ to|TO 160|CD of|IN gdp|NN compared|VBN with|IN 336|CD for|IN france|NN and|CC 556|CD for|IN britain—deutsche|JJ bank|NN is|VBZ very|RB large|JJ and|CC less|JJR well|RB capitalised|VBN than|IN its|PRP$ global|JJ peer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB so|RB officials|NNS are|VBP wary|JJ of|IN proposals|NNS like|IN that|DT recently|RB put|VBD forward|RB by|IN erkki|NN liikanen|VBN the|DT governor|NN of|IN the|DT bank|NN of|IN finland|NN to|TO divide|VB european|JJ banks’|NN riskier|NN activities|NNS from|IN their|PRP$ retailbanking|NN activitie|NN </s>|S_END
+<s>|S_START if|IN such|JJ a|DT split|NN involved|VBN having|VBG to|TO fund|VB investment|NN banking|NN on|IN a|DT standalone|NN basis|NN deutsche|NN bank|NN would|MD find|VB it|PRP more|JJR expensive|JJ </s>|S_END
+<s>|S_START hvb|NN which|WDT does|VBZ capitalmarkets|NNS business|NN for|IN the|DT wider|NN unicredit|NN group|NN might|MD have|VB a|DT problem|NN too|RB </s>|S_END
+<s>|S_START commerzbank|NN has|VBZ already|RB separated|VBN investment|NN banking|NN from|IN commercial|JJ banking|NN it|PRP says|VBZ so|RB ringfencing|VBG would|MD be|VB mainly|RB cosmetic|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uch|JJ extra|NN costs|NNS to|TO banks|NNS are|VBP unlikely|RB greatly|RB to|TO impair|VB big|JJ german|NN companies’|NN access|NN to|TO finance|VB or|CC investmentbanking|VBG service|NN </s>|S_END
+<s>|S_START many|JJ other|JJ global|JJ banks|NNS are|VBP competing|VBG for|IN their|PRP$ business|NN although|IN they|PRP too|RB are|VBP facing|VBG higher|JJR cost|NN </s>|S_END
+<s>|S_START but|CC even|RB those|DT politicians|NNS who|WP have|VBP called|VBN for|IN the|DT ringfencing|VBG of|IN banks|NNS have|VBP indicated|VBN that|IN they|PRP do|VBP not|RB want|VB to|TO see|VB deutsche|PRP bank|NN broken|VBN up|RP </s>|S_END
+<s>|S_START deutsche|PRP has|VBZ for|IN decades|NNS been|VBN part|NN of|IN the|DT fabric|JJ of|IN the|DT german|NN economy|NN any|DT banking|NN reform|NN from|IN brussels|NNS which|WDT puts|NNS the|DT integrity|NN of|IN the|DT national|JJ flagcarrier|NN at|IN risk|NN is|VBZ likely|JJ to|TO get|VB short|JJ shrift|NN in|IN berlin|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT decade|NN from|IN now|RB deutsche|VBP bank|NN may|MD well|RB be|VB the|DT only|JJ german|NN bank|NN to|TO survive|VB as|IN an|DT international|JJ name|NN </s>|S_END
+<s>|S_START but|CC germany’s|JJ influence|NN may|MD spread|VB in|IN other|JJ way|NN </s>|S_END
+<s>|S_START just|RB as|IN other|JJ countries|NNS are|VBP already|RB setting|VBG up|RP public|JJ industrial|JJ banks|NNS along|IN the|DT lines|NNS of|IN the|DT frankfurtbased|VBN kreditanstalt|NN für|-NONE- wiederaufbau|NN the|DT model|NN of|IN a|DT localised|VBN and|CC diverse|JJ banking|NN system|NN is|VBZ likelier|JJR to|TO win|VB adherents|NNS than|IN it|PRP once|RB wa|VB </s>|S_END
+</p>|P_END
+

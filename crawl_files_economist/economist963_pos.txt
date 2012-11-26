@@ -1,0 +1,99 @@
+<p>|P_START
+<s>|S_START in|IN 563ad|JJ a|DT tsunami|NN devastated|VBN geneva|NN </s>|S_END
+<s>|S_START two|CD accounts|NNS of|IN the|DT disaster|NN one|CD by|IN gregory|NN of|IN tours|NNS and|CC the|DT other|JJ by|IN marius|NN of|IN avenches|NNS have|VBP survived|VBN </s>|S_END
+<s>|S_START what|WP caused|VBN the|DT wave|NN and|CC the|DT extent|NN of|IN the|DT damage|NN that|IN resulted|VBN have|VBP been|VBN matters|NNS of|IN conjecture|NN for|IN centurie|NN </s>|S_END
+<s>|S_START but|CC over|IN the|DT past|JJ decade|NN several|JJ groups|NNS of|IN scientists|NNS have|VBP pieced|VBN together|RP the|DT sequence|NN of|IN events|NNS and|CC one|CD of|IN those|DT groups|NNS led|VBD by|IN katrina|NN kremer|NN of|IN the|DT university|NN of|IN geneva|NN has|VBZ now|RB created|VBN a|DT computer|NN model|NN of|IN what|WP happened|VBN </s>|S_END
+<s>|S_START unfortunately|RB for|IN the|DT 1m|CD people|NNS who|WP live|JJ around|IN the|DT lake’s|NNP shore|NN the|DT conclusion|NN of|IN this|DT research|NN is|VBZ that|IN something|NN similar|JJ could|MD easily|RB happen|VB again|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT tsunami|NN of|IN 563|CD started|VBN at|IN the|DT opposite|JJ end|NN of|IN the|DT lake|NN from|IN geneva|NN at|IN the|DT point|NN where|WRB it|PRP is|VBZ fed|VBN by|IN glacial|JJ meltwater|NN carried|VBD into|IN it|PRP by|IN the|DT rhône|JJ </s>|S_END
+<s>|S_START both|DT accounts|NNS say|VBP the|DT wave|NN began|VBD with|IN a|DT massive|JJ rockfall|NN on|IN what|WP was|VBD then|RB called|VBN mount|NN tauredunum|NN this|DT has|VBZ led|VBN to|TO the|DT tsunami|NN becoming|VBG known|VBN as|IN the|DT tauredunum|NN event|NN </s>|S_END
+<s>|S_START tauredunum|NN is|VBZ thought|VBN to|TO be|VB a|DT mountain|NN now|RB called|VBN the|DT grammont|NN which|WDT is|VBZ located|VBN near|IN the|DT river|NN mouth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT past|JJ one|CD favoured|JJ theory|NN was|VBD that|IN this|DT rockfall|NN created|VBD a|DT natural|JJ dam|NN across|IN the|DT rhône|JJ which|WDT held|VBN the|DT waters|NNS back|RB until|IN it|PRP could|MD no|RB longer|RBR sustain|NN the|DT pressure|NN </s>|S_END
+<s>|S_START when|WRB the|DT dam|NN burst|NN the|DT resulting|VBG wave|NN swept|IN the|DT length|NN of|IN the|DT lake|NN </s>|S_END
+<s>|S_START a|DT oneoff|NN event|NN in|IN other|JJ word|NN </s>|S_END
+<s>|S_START but|CC a|DT paper|NN just|RB published|VBD in|IN nature|NN geoscience|NN by|IN dr|NN kremer|NN and|CC her|PRP$ colleagues|NNS offers|NNS a|DT different|JJ and|CC more|RBR worrying|VBG explanation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START canyon|NN diabolo|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN kremer|NN thinks|NNS that|WDT the|DT rocks|NNS crashed|VBD down|IN onto|IN soft|JJ sediments|NNS which|WDT had|VBD accumulated|VBN at|IN the|DT river|NN mouth|NN because|IN of|IN the|DT slowing|VBG of|IN the|DT river’s|JJ flow|NN when|WRB it|PRP enters|VBZ the|DT lake|NN </s>|S_END
+<s>|S_START these|DT sediments|NNS form|NN an|DT underwater|NN delta|NN that|WDT has|VBZ several|JJ canyonlike|IN channel|NN </s>|S_END
+<s>|S_START when|WRB the|DT falling|VBG rocks|NNS hit|VBD the|DT delta|NN they|PRP destabilised|VBD the|DT sediments|NNS and|CC caused|VBD the|DT canyons|NNS to|TO collapse|VB </s>|S_END
+<s>|S_START it|PRP was|VBD this|DT collapse|NN that|IN created|VBN the|DT tsunami|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP is|VBZ a|DT plausible|JJ theory|NN </s>|S_END
+<s>|S_START what|WP suggests|VBZ it|PRP is|VBZ true|JJ is|VBZ that|IN the|DT sediment|NN from|IN such|JJ a|DT collapse|NN would|MD have|VB been|VBN propelled|VBN towards|NNS the|DT lake’s|NNS centre|VBP forming|VBG a|DT large|JJ tongue|NN of|IN material|NN on|IN the|DT lake|NN bed|VBD </s>|S_END
+<s>|S_START and|CC using|VBG sediment|NN cores|NNS and|CC an|DT instrument|NN called|VBN a|DT pinger|NN which|WDT analyses|NNS the|DT reflections|NNS of|IN sound|NN waves|NNS that|WDT can|MD penetrate|VB the|DT material|NN of|IN the|DT lake|NN bed|VBD dr|NN kremer|NN thinks|NNS she|PRP has|VBZ found|VBN this|DT tongue|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START her|PRP$ discovery|NN is|VBZ a|DT bed|VBN of|IN what|WP is|VBZ known|VBN geologically|RB as|IN turbidite|JJ </s>|S_END
+<s>|S_START this|DT is|VBZ sediment|NN that|IN because|IN it|PRP is|VBZ laid|VBN down|RP by|IN rapid|JJ water|NN movements|NNS is|VBZ not|RB sorted|VBN by|IN grain|NN size|NN </s>|S_END
+<s>|S_START the|DT turbidite|NN dr|NN kremer|NN found|VBD is|VBZ a|DT mixture|NN of|IN sand|NN and|CC silt|NN roughly|RB 10km|CD 6|CD miles|NNS long|RB and|CC 5km|CD wide|JJ </s>|S_END
+<s>|S_START on|IN average|JJ it|PRP is|VBZ 5|CD metres|NNS deep|VBP and|CC it|PRP seems|VBZ to|TO have|VB formed|VBN in|IN a|DT single|JJ event|NN </s>|S_END
+<s>|S_START by|IN carbondating|NN leaves|NNS and|CC other|JJ organic|JJ material|NN trapped|VBD within|IN it|PRP she|PRP has|VBZ shown|VBN that|IN it|PRP is|VBZ about|IN the|DT same|JJ age|NN as|IN the|DT tauredunum|NN event|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT discovery|NN of|IN this|DT turbidite|NN means|VBZ it|PRP is|VBZ possible|JJ to|TO work|VB out|RP what|WP happened|VBN in|IN 563|CD </s>|S_END
+<s>|S_START the|DT result|NN is|VBZ not|RB pretty|RB </s>|S_END
+<s>|S_START the|DT team’s|JJ computer|NN modeller|NN guy|NN simpson|NN has|VBZ reconstructed|VBN the|DT tsunami|NN that|IN would|MD have|VB been|VBN generated|VBN by|IN the|DT amount|NN of|IN material|NN in|IN the|DT tongue|NN </s>|S_END
+<s>|S_START within|IN 15|CD minutes|NNS of|IN the|DT collapse|NN a|DT wave|NN 13|CD metres|NNS high|JJ would|MD have|VB reached|VBN lausanne|NN a|DT city|NN on|IN the|DT northern|JJ shore|NN of|IN the|DT lake|NN </s>|S_END
+<s>|S_START but|CC lausanne|NN is|VBZ built|VBN on|IN steep|JJ slopes|NNS so|IN most|JJS of|IN it|PRP would|MD have|VB been|VBN spared|VBN </s>|S_END
+<s>|S_START the|DT damage|NN would|MD have|VB been|VBN much|RB greater|JJR when|WRB 55|CD minutes|NNS after|IN that|DT an|DT 8metre|JJ wave|NN reached|VBD geneva|NN at|IN the|DT other|JJ end|NN of|IN the|DT lake|NN </s>|S_END
+<s>|S_START geneva|NN is|VBZ a|DT lowerlying|NN city|NN than|IN lausanne|NN and|CC to|TO make|VB matters|NNS worse|JJR the|DT lake|NN narrows|VBZ here|RB funnelling|VBG water|NN to|TO the|DT point|NN where|WRB the|DT rhône|JJ becomes|NNS a|DT recognisable|JJ river|NN again|RB </s>|S_END
+<s>|S_START it|PRP would|MD similarly|RB have|VB funnelled|VBN the|DT wave|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START using|VBG information|NN revealed|VBD by|IN archaeology|NN about|IN the|DT layout|NN of|IN sixthcentury|NN geneva|NN and|CC the|DT lake’s|NNP level|NN at|IN the|DT time|NN the|DT team|NN were|VBD able|JJ to|TO work|VB out|RP how|WRB the|DT city|NN would|MD have|VB stood|NN up|RP to|TO the|DT onslaught|NN </s>|S_END
+<s>|S_START the|DT wave|NN they|PRP believe|VBP would|MD have|VB passed|VBN over|IN the|DT city|NN walls|NNS and|CC wiped|VBD out|RP watermills|NNS and|CC a|DT bridge|NN across|IN the|DT rhône|JJ just|RB as|IN the|DT two|CD accounts|NNS say|VBP it|PRP did|VBD </s>|S_END
+<s>|S_START en|NN route|NN as|IN marius|NN wrote|VBD it|PRP would|MD have|VB destroyed|VBN many|JJ lakeshore|NN villages|NNS “with|JJ humans|NNS and|CC cattle|VB and|CC even|RB churches”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT crucial|JJ element|NN in|IN this|DT explanation|NN is|VBZ the|DT accumulation|NN of|IN sediment|NN in|IN the|DT underwater|NN delta|NN </s>|S_END
+<s>|S_START that|DT is|VBZ a|DT continuous|JJ proce|NN </s>|S_END
+<s>|S_START once|RB enough|RB sediment|JJ is|VBZ there|EX it|PRP just|RB needs|VBZ a|DT trigger|NN to|TO set|VB it|PRP going|VBG </s>|S_END
+<s>|S_START that|DT could|MD be|VB a|DT rockfall|NN an|DT earthquake|NN though|IN this|DT part|NN of|IN the|DT world|NN is|VBZ not|RB particularly|RB seismically|RB active|JJ or|CC even|RB a|DT violent|NN storm|NN </s>|S_END
+<s>|S_START moreover|RB dr|VBP kremer’s|NNS pinger|JJR shows|NNS evidence|NN of|IN four|CD layers|NNS deeper|JJR in|IN the|DT lake|NN bed|VBD which|WDT also|RB look|VBP like|IN turbidite|JJ </s>|S_END
+<s>|S_START the|DT formation|NN of|IN these|DT might|MD or|CC might|MD not|RB have|VB triggered|VBN tsunami|NN </s>|S_END
+<s>|S_START but|CC they|PRP are|VBP a|DT worrying|VBG sign|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START though|IN the|DT basin|NN in|IN which|WDT lake|NN geneva|NN sits|NNS is|VBZ ancient|JJ the|DT modern|JJ lake|NN is|VBZ a|DT product|NN of|IN the|DT end|NN of|IN the|DT last|JJ ice|NN age|NN </s>|S_END
+<s>|S_START exactly|RB when|WRB it|PRP formed|VBD is|VBZ unclear|JJ </s>|S_END
+<s>|S_START the|DT whole|JJ area|NN was|VBD still|RB buried|VBN under|IN ice|NN 19000|CD years|NNS ago|RB </s>|S_END
+<s>|S_START by|IN 13000|CD years|NNS ago|RB the|DT glaciers|NNS had|VBD retreated|VBN at|IN least|JJS as|IN far|RB east|JJ as|IN lausanne|NN </s>|S_END
+<s>|S_START but|CC the|DT age|NN of|IN the|DT current|JJ delta|NN is|VBZ still|RB unknown|VBN </s>|S_END
+<s>|S_START that|DT five|CD layers|NNS of|IN turbidite|JJ may|MD have|VB formed|VBN in|IN this|DT time|NN gives|VBZ a|DT rough|JJ sense|NN of|IN how|WRB frequently|RB tsunamis|VBZ might|MD happen|VB </s>|S_END
+<s>|S_START the|DT details|NNS will|MD remain|VB obscure|NN though|IN until|IN the|DT older|NN beds|VBZ are|VBP examined|VBN closely|RB and|CC core|VB samples|NNS taken|VBN from|IN them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START everal|JJ things|NNS thus|RB need|VBP to|TO be|VB done|VBN </s>|S_END
+<s>|S_START the|DT most|RBS urgent|JJ is|VBZ to|TO survey|NN the|DT delta|NN to|TO see|VB how|WRB close|JJ to|TO collapse|VB it|PRP look|VB </s>|S_END
+<s>|S_START both|DT switzerland|NN and|CC france|NN are|VBP good|JJ at|IN big|JJ civil|NN engineering|NN projects|NNS so|RB if|IN it|PRP did|VBD need|VBP dredging|VBG they|PRP could|MD then|RB get|VB to|TO work|VB quickly|RB </s>|S_END
+<s>|S_START econd|NN the|DT older|NN turbidite|NN beds|NNS need|VBP to|TO be|VB examined|VBN properly|RB to|TO see|VB how|WRB frequently|RB tsunamis|VBZ actually|RB occur|VBP </s>|S_END
+<s>|S_START third|JJ it|PRP might|MD behove|VB the|DT authorities|NNS in|IN geneva|NN and|CC elsewhere|RB around|IN the|DT lake|NN to|TO assess|NN which|WDT areas|NNS would|MD be|VB inundated|VBN if|IN there|EX were|VBD another|DT tsunami|NN and|CC how|WRB they|PRP might|MD react|VB if|IN there|EX was|VBD one—for|JJ if|IN a|DT tsunami|NN did|VBD happen|VBN the|DT genevese|NN would|MD have|VB just|RB over|IN an|DT hour|NN to|TO evacuate|VB their|PRP$ city|NN before|IN its|PRP$ centre|NN was|VBD obliterated|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN kremer’s|NNS work|VBP also|RB raises|VBZ the|DT question|NN of|IN whether|IN other|JJ lakes|NNS are|VBP at|IN risk|NN of|IN generating|VBG tsunami|NN </s>|S_END
+<s>|S_START ome|NN might|MD be|VB </s>|S_END
+<s>|S_START in|IN 1806|CD for|IN example|NN a|DT landslide|NN into|IN lake|NN lauerz|NN farther|NN east|NN in|IN switzerland|NN triggered|VBD a|DT tsunami|NN 20|CD metres|NNS high|JJ </s>|S_END
+<s>|S_START from|IN loch|NN ness|NN in|IN scotland|NN to|TO tele|VB in|IN congo|NN lakes|NNS breed|VBD legends|NNS of|IN monsters|NNS lurking|VBG beneath|NN the|DT surface|NN </s>|S_END
+<s>|S_START perhaps|RB in|IN some|DT cases|NNS these|DT legends|NNS are|VBP based|VBN on|IN real|JJ event|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,49 @@
+<p>|P_START
+<s>|S_START as|IN they|PRP do|VBP about|IN once|RB a|DT decade|NN the|DT germans|NNS are|VBP again|RB fighting|VBG over|IN their|PRP$ domestic|JJ “transfer|NN union”|NN in|IN which|WDT tax|NN revenues|VBZ are|VBP redistributed|VBN among|IN the|DT 16|CD federal|JJ länder|JJ state|NN </s>|S_END
+<s>|S_START but|CC this|DT time|NN the|DT euro|NN crisis|NN provides|VBZ a|DT new|JJ twist|NN for|IN the|DT currency|NN zone’s|VBZ southern|NN countries|NNS are|VBP of|IN late|JJ demanding|NN “solidarity”|NN from|IN germany|NN in|IN a|DT form|NN that|WDT sounds|VBZ suspiciously|RB like|IN an|DT even|RB bigger|JJR transfer|NN union|NN </s>|S_END
+<s>|S_START hence|NN the|DT parallel|NN in|IN german|NN minds|NNS some|DT states|NNS are|VBP makers|NNS others|NNS are|VBP taker|NN </s>|S_END
+<s>|S_START the|DT dynamic|JJ and|CC fiscally|RB responsible|JJ bavaria|NNS in|IN this|DT analogy|NN plays|VBZ the|DT role|NN of|IN germany|NN backed|VBN by|IN other|JJ good|JJ budgeters|NNS such|JJ as|IN hesse|NN and|CC badenwürttemberg|JJ finland|NN and|CC the|DT netherlands|NNS say|VBP </s>|S_END
+<s>|S_START the|DT city|NN state|NN of|IN berlin|NN “poor|NN but|CC sexy”|NNP as|IN its|PRP$ mayor|NN has|VBZ described|VBN it|PRP becomes|VBZ a|DT “german|JJ greece”|NN alongside|NN other|JJ weaklings|NNS such|JJ as|IN thuringia|NN or|CC bremen|NNS portugal|JJ or|CC spain|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START germany’s|NNS system|VBP of|IN financial|JJ equalisation|NN is|VBZ “socialism|JJ among|IN states”|JJ says|NNS christian|JJ kelders|NNS of|IN the|DT economics|NNS ministry|NN of|IN bavaria|NN which|WDT pays|NNS half|VBP of|IN the|DT total|JJ transfers|NNS of|IN €73|-NONE- billion|CD $|$ 95|CD billion|CD a|DT year|NN </s>|S_END
+<s>|S_START it|PRP leads|VBZ to|TO “perverse|JJ incentives”|NN by|IN punishing|NN länder|NN that|WDT raise|VB more|RBR tax|NN revenues|NNS and|CC rewarding|VBG those|DT that|WDT collect|NN less|RBR agrees|NNS luise|VBP hölscher|JJ of|IN the|DT finance|NN ministry|NN of|IN hesse|NN which|WDT gives|VBZ the|DT most|RBS per|JJ person|NN </s>|S_END
+<s>|S_START on|IN october|NN 23rd|CD the|DT centreright|NN christian|NN democratic|JJ union|NN cdu|NN and|CC its|PRP$ bavarian|JJ sister|NN party|NN the|DT christian|JJ social|JJ union|NN csu|NN agreed|VBD to|TO push|VB for|IN reform|NN </s>|S_END
+<s>|S_START eparately|RB bavaria|VBP will|MD take|VB its|PRP$ complaint|NN to|TO germany’s|NNP constitutional|JJ court|NN where|WRB hesse|NN will|MD probably|RB join|VB as|IN plaintiff|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT eu|NN is|VBZ already|RB a|DT small|JJ transfer|NN union|NN of|IN sorts|NNS with|IN a|DT budget|NN worth|NN about|IN 1|CD of|IN the|DT union’s|JJ gdp|NN see|NN charlemagne|NN </s>|S_END
+<s>|S_START it|PRP could|MD become|VB a|DT much|RB bigger|JJR one|CD if|IN the|DT embryonic|JJ banking|NN union|NN is|VBZ extended|VBN to|TO include|VB joint|JJ bankdeposit|NN guarantees|NNS or|CC if|IN the|DT union|NN starts|VBZ issuing|VBG joint|JJ eurobond|NN </s>|S_END
+<s>|S_START european|JJ leaders|NNS may|MD also|RB create|VB a|DT separate|JJ eurozone|NN budget|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN contrast|NN germany’s|NNS system|NN redistributes|NNS states’|-NONE- revenues|NNS irrespective|VBP of|IN their|PRP$ indebtedness|NN or|CC spending|NN thus|RB reducing|VBG differences|NNS in|IN funding|NN per|IN person|NN </s>|S_END
+<s>|S_START the|DT city|NN states|VBZ of|IN berlin|NN bremen|NNS and|CC hamburg|NN are|VBP even|RB allowed|VBN to|TO inflate|VB their|PRP$ populations|NNS by|IN 35|CD in|IN this|DT calculation|NN on|IN the|DT theory|NN that|IN they|PRP also|RB serve|VBP commuters|NNS from|IN surrounding|VBG state|NN </s>|S_END
+<s>|S_START thus|RB a|DT state|NN whose|WP$ funding|NN per|IN person|NN is|VBZ 70|CD of|IN the|DT average|NN say|VBP ends|NNS up|IN at|IN 91|CD after|IN redistribution|NN </s>|S_END
+<s>|S_START one|CD that|WDT starts|VBZ at|IN 120|CD ends|NNS at|IN about|IN 106|CD </s>|S_END
+<s>|S_START beyond|IN this|DT “horizontal”|NN redistribution|NN the|DT federal|JJ government|NN also|RB “vertically”|-NONE- tops|NNS up|IN the|DT transfer|NN </s>|S_END
+<s>|S_START eparately|RB all|DT germans|NNS still|RB pay|VBP a|DT “solidarity|NN surcharge”|NN to|TO the|DT länder|NN in|IN the|DT former|JJ east|NN germany|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT recipients|NNS love|VBP this|DT system|NN </s>|S_END
+<s>|S_START berlin|NN which|WDT gets|VBZ 41|CD of|IN the|DT transfers|NNS rebuts|VBZ southern|JJ whining|NN as|IN a|DT populist|NN “bavarian|JJ reflex”|NN </s>|S_END
+<s>|S_START berlin’s|NNS finance|VBP ministry|NN points|NNS out|IN that|DT the|DT city|NN is|VBZ reducing|VBG its|PRP$ deficits|NNS very|RB responsibly|RB </s>|S_END
+<s>|S_START to|TO call|VB berlin|NN a|DT german|NN greece|NN is|VBZ nonsense|NN says|VBZ its|PRP$ finance|NN minister|NN </s>|S_END
+<s>|S_START besides|IN bavaria|NN was|VBD for|IN decades|NNS itself|PRP a|DT taker|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC yet|RB there|RB are|VBP lessons|NNS in|IN germany’s|JJ federal|JJ experience|NN for|IN europe|NN says|VBZ hesse’s|JJ ms|NNS hölscher|JJ </s>|S_END
+<s>|S_START when|WRB economic|JJ differences|NNS become|VBP big|JJ redistribution|NN can|MD lead|VB to|TO conflict|VB especially|RB if|IN the|DT givers|NNS have|VBP no|DT influence|NN over|IN what|WP the|DT takers|NNS do|VBP with|IN their|PRP$ money|NN </s>|S_END
+<s>|S_START bavarians|NNS for|IN instance|NN are|VBP irate|JJ that|IN their|PRP$ students|NNS pay|VBP to|TO attend|VB university|NN whereas|NNS berlin|VBP makes|NNS education|NN free|JJ even|RB as|IN bavaria|NNS subsidises|NNS berlin’s|-NONE- budget|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ooner|NN or|CC later|JJ regions|NNS may|MD rebel|VB </s>|S_END
+<s>|S_START thus|RB wilfried|VBD scharnagl|NN a|DT veteran|NN bavarian|NN politician|NN of|IN the|DT centreright|NN and|CC the|DT author|NN of|IN “bavaria|NNP can|MD also|RB go|VB it|PRP alone”|-NONE- says|VBZ that|IN germany’s|JJ system|NN “lames|NNS the|DT weak|JJ and|CC weakens|NNS the|DT strong”|NN if|IN bavaria|NN is|VBZ at|IN risk|NN of|IN ending|VBG up|RP in|IN a|DT double|JJ transfer|NN union|NN under|IN the|DT oppression|NN of|IN both|DT brussels|NNS and|CC berlin|VB it|PRP should|MD he|PRP thinks|VBZ secede|VBP </s>|S_END
+</p>|P_END
+

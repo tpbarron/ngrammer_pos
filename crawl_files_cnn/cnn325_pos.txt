@@ -1,0 +1,63 @@
+<p>|P_START
+<s>|S_START walmart|NN disclosed|VBD its|PRP$ black|JJ friday|NN deals|NNS which|WDT actually|RB will|MD be|VB available|JJ beginning|NN at|IN 8|CD pm|NN on|IN thanksgiving|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN walmart|NN wants|VBZ you|PRP to|TO forget|VB black|JJ friday|NN this|DT year|NN </s>|S_END
+<s>|S_START instead|RB the|DT store|NN is|VBZ kicking|VBG off|RP some|DT of|IN its|PRP$ hottest|NN black|NN friday|NN deals|NNS on|IN thursday|NN thanksgiving|NN day|NN beginning|NN at|IN 8|CD pm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT retailer|NN says|VBZ its|PRP$ best|JJS deals|NNS will|MD be|VB on|IN electronics|NNS tablets|NNS tvs|NNS gaming|VBG consoles|NNS home|NN appliances|NNS and|CC toys|NNS </s>|S_END
+<s>|S_START last|JJ year|NN walmart|NN rolled|VBD out|IN its|PRP$ black|JJ friday|NN deals|NNS at|IN 10|CD pm|NN on|IN thanksgiving|NN day|NN </s>|S_END
+<s>|S_START this|DT year|NN is|VBZ the|DT earliest|JJS that|IN walmart|NN wmt|NN fortune|NN 500|CD the|DT worlds|NNS largest|JJS retailer|NN has|VBZ ever|RB jumpstarted|VBN its|PRP$ holiday|NN sales|NNS bonanza|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START duncan|NN macnaughton|VBD walmarts|NNS chief|NN merchandising|VBG officer|NN said|VBD the|DT decision|NN was|VBD based|VBN on|IN customer|NN feedback|NN </s>|S_END
+<s>|S_START our|PRP$ customers|NNS told|VBD us|PRP they|PRP wanted|VBD to|TO shop|VB earlier|JJR this|DT year|NN and|CC go|VB to|TO bed|VBN earlier|JJR he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START macnaughton|NN also|RB promised|VBD that|IN walmarts|NNS black|VBP friday|NN deals|NNS will|MD be|VB some|DT of|IN the|DT most|RBS aggressive|JJ the|DT retailer|NN has|VBZ ever|RB had|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START walmart|NN is|VBZ rolling|VBG out|RP the|DT discounts|NNS in|IN three|CD stages|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START phase|NN 1|CD beginning|NN at|IN 8|CD pm|NN on|IN thanksgiving|NN the|DT best|JJS instore|NN deals|NNS are|VBP on|IN toys|NNS games|NNS home|VBP goods|NNS and|CC clothing|VBG </s>|S_END
+<s>|S_START these|DT include|VBP xbox|NN 360|CD 4gb|CD with|IN skylanders|NNS bundle|VBP for|IN $|$ 149|CD nintendos|NNS wii|VBP console|JJ for|IN $|$ 89|CD a|DT crock|NN pot|NN 6quart|CD slow|JJ cooker|NN and|CC mr|NN coffee|NN programmable|JJ 12cup|CD coffee|NN maker|NN for|IN $|$ 944|CD each|DT dvd|NN and|CC bluray|NN movies|NNS for|IN $|$ 196|CD to|TO $|$ 996|CD each|DT video|NN games|NNS for|IN $|$ 10|CD to|TO $|$ 25|CD each|DT barbie|NN bratz|NN and|CC disney|NN princess|NN dolls|NNS for|IN $|$ 5|CD each|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START see|NN walmarts|NNS black|VBP friday|NN deals|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START phase|NN 2|CD at|IN 10|CD pm|NN on|IN thanksgiving|NN day|NN the|DT deals|NNS mostly|RB focus|VBZ on|IN electronics|NNS </s>|S_END
+<s>|S_START among|IN them|PRP samsung|JJ 43inch|CD 720p|CD plasma|NN hdtv|NN for|IN $|$ 378|CD hp|CD 156|CD inch|NN laptop|NN with|IN 4gb|CD and|CC 320gb|CD hard|JJ drive|JJ for|IN $|$ 279|CD beats|NNS by|IN dr|NN dre|NN headphones|NNS for|IN $|$ 17995|CD and|CC samsung|JJ smart|NN st195|NNP digital|NN camera|NN for|IN $|$ 99|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD hottest|VBN holiday|NN toys|NNS of|IN 2012|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START between|IN 10|CD pm|NN and|CC 11|CD pm|NN walmart|NN is|VBZ also|RB guaranteeing|VBG that|IN customers|NNS who|WP are|VBP already|RB waiting|VBG in|IN line|NN inside|NN the|DT store|NN will|MD be|VB able|JJ to|TO buy|VB three|CD special|JJ deals|NNS apple|VBP ipad2|NNP 16gb|CD with|IN wifi|NN for|IN $|$ 399|CD plus|CC get|VB a|DT $|$ 75|CD walmart|NN gift|NN card|NN emerson®32|-NONE- 720p|CD lcd|NN tv|NN for|IN $|$ 148|CD and|CC lg|NN bluray|NN player|NN for|IN $|$ 38|CD </s>|S_END
+<s>|S_START macnaughton|NN said|VBD the|DT walmart|NN is|VBZ offering|VBG that|IN guarantee|NN because|IN it|PRP has|VBZ enough|RB inventory|JJ of|IN those|DT three|CD products|NNS to|TO meet|VB the|DT anticipated|VBN demand|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD hot|VBN toys|NNS on|IN layaway|NN lead|NN to|TO shortages|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START phase|NN 3|CD on|IN black|JJ friday|NN walmarts|NNS deals|NNS which|WDT roll|NN out|RP at|IN 5|CD am|NN mostly|RB focus|VBZ on|IN home|NN goods|NNS jewelry|VBP tires|NNS and|CC furniture|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START walmart|NN is|VBZ also|RB offering|VBG separate|JJ thanksgiving|NN day|NN and|CC black|JJ friday|NN deals|NNS on|IN electronics|NNS tvs|NNS and|CC toys|NNS that|WDT will|MD only|RB be|VB available|JJ online|NN </s>|S_END
+</p>|P_END
+

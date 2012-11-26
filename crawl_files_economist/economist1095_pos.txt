@@ -1,0 +1,97 @@
+<p>|P_START
+<s>|S_START twenty|NN years|NNS ago|IN a|DT debate|NN erupted|VBN about|IN whether|IN there|EX were|VBD specific|JJ “asian|JJ values”|NN </s>|S_END
+<s>|S_START most|JJS attention|NN focused|VBD on|IN dubious|JJ claims|NNS by|IN autocrats|NNS that|IN democracy|NN was|VBD not|RB among|IN them|PRP </s>|S_END
+<s>|S_START but|CC a|DT more|RBR intriguing|JJ if|IN less|JJR noticed|VBN argument|NN was|VBD that|IN traditional|JJ family|NN values|NNS were|VBD stronger|JJR in|IN asia|NN than|IN in|IN america|NN and|CC europe|NN and|CC that|IN this|DT partly|RB accounted|VBD for|IN asias|NNS economic|JJ succe|NN </s>|S_END
+<s>|S_START in|IN the|DT words|NNS of|IN lee|NN kuan|NN yew|NN former|NN prime|NN minister|NN of|IN singapore|NN and|CC a|DT keen|NN advocate|NN of|IN asian|JJ values|NNS the|DT chinese|JJ family|NN encouraged|VBD “scholarship|NN and|CC hard|JJ work|NN and|CC thrift|NN and|CC deferment|NN of|IN present|NN enjoyment|NN for|IN future|JJ gain”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN the|DT face|NN of|IN it|PRP his|PRP$ claim|NN appears|VBZ persuasive|JJ still|RB </s>|S_END
+<s>|S_START in|IN most|JJS of|IN asia|NN marriage|NN is|VBZ widespread|JJ and|CC illegitimacy|NN almost|RB unknown|JJ </s>|S_END
+<s>|S_START in|IN contrast|NN half|NN of|IN marriages|NNS in|IN some|DT western|JJ countries|NNS end|VBP in|IN divorce|NN and|CC half|DT of|IN all|DT children|NNS are|VBP born|VBN outside|IN wedlock|NN </s>|S_END
+<s>|S_START the|DT recent|JJ riots|NNS across|IN britain|NN whose|WP$ origins|NNS many|JJ believe|VBP lie|NN in|IN an|DT absence|NN of|IN either|DT parental|JJ guidance|NN or|CC filial|JJ respect|NN seem|NN to|TO underline|VB a|DT profound|NN difference|NN between|IN east|JJ and|CC west|JJS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB marriage|VBP is|VBZ changing|VBG fast|RB in|IN east|JJ southeast|NN and|CC south|NN asia|NN even|RB though|IN each|DT region|NN has|VBZ different|JJ tradition|NN </s>|S_END
+<s>|S_START the|DT changes|NNS are|VBP different|JJ from|IN those|DT that|WDT took|VBD place|NN in|IN the|DT west|NN in|IN the|DT second|JJ half|DT of|IN the|DT 20th|JJ century|NN </s>|S_END
+<s>|S_START divorce|NN though|IN rising|VBG in|IN some|DT countries|NNS remains|VBZ comparatively|RB rare|JJ </s>|S_END
+<s>|S_START whats|NNS happening|VBG in|IN asia|NN is|VBZ a|DT flight|NN from|IN marriage|NN see|NN article|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START marriage|NN rates|NNS are|VBP falling|VBG partly|RB because|IN people|NNS are|VBP postponing|VBG getting|VBG hitched|JJ </s>|S_END
+<s>|S_START marriage|NN ages|NNS have|VBP risen|VBN all|DT over|IN the|DT world|NN but|CC the|DT increase|NN is|VBZ particularly|RB marked|VBN in|IN asia|NN </s>|S_END
+<s>|S_START people|NNS there|EX now|RB marry|VBP even|RB later|JJ than|IN they|PRP do|VBP in|IN the|DT west|NN </s>|S_END
+<s>|S_START the|DT mean|JJ age|NN of|IN marriage|NN in|IN the|DT richest|NN places—japan|JJ taiwan|NN south|NN korea|NN and|CC hong|JJ kong—has|JJ risen|NN sharply|RB in|IN the|DT past|JJ few|JJ decades|NNS to|TO reach|VB 2930|CD for|IN women|NNS and|CC 3133|CD for|IN men|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT lot|NN of|IN asians|NNS are|VBP not|RB marrying|VBG later|JJ </s>|S_END
+<s>|S_START they|PRP are|VBP not|RB marrying|VBG at|IN all|DT </s>|S_END
+<s>|S_START almost|RB a|DT third|JJ of|IN japanese|JJ women|NNS in|IN their|PRP$ early|JJ 30s|CD are|VBP unmarried|VBN probably|RB half|DT of|IN those|DT will|MD always|RB be|VB </s>|S_END
+<s>|S_START over|IN onefifth|JJ of|IN taiwanese|JJ women|NNS in|IN their|PRP$ late|JJ 30s|CD are|VBP single|JJ most|JJS will|MD never|RB marry|VB </s>|S_END
+<s>|S_START in|IN some|DT places|NNS rates|NNS of|IN nonmarriage|NN are|VBP especially|RB striking|VBG in|IN bangkok|NN 20|CD of|IN 4044year|JJ old|JJ women|NNS are|VBP not|RB married|VBN in|IN tokyo|NN 21|CD among|IN university|NN graduates|NNS of|IN that|DT age|NN in|IN singapore|NN 27|CD </s>|S_END
+<s>|S_START o|NN far|RB the|DT trend|NN has|VBZ not|RB affected|VBN asias|NNS two|CD giants|NNS china|NNS and|CC india|NNS </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ likely|JJ to|TO as|RB the|DT economic|JJ factors|NNS that|WDT have|VBP driven|VBN it|PRP elsewhere|RB in|IN asia|NN sweep|NN through|IN those|DT two|CD countries|NNS as|IN well|RB and|CC its|PRP$ consequences|NNS will|MD be|VB exacerbated|VBN by|IN the|DT sexselective|JJ abortion|NN practised|VBD for|IN a|DT generation|NN there|EX </s>|S_END
+<s>|S_START by|IN 2050|CD there|EX will|MD be|VB 60m|CD more|JJR men|NNS of|IN marriageable|JJ age|NN than|IN women|NNS in|IN china|NN and|CC india|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT joy|NN of|IN staying|VBG single|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START women|NNS are|VBP retreating|VBG from|IN marriage|NN as|IN they|PRP go|VBP into|IN the|DT workplace|NN </s>|S_END
+<s>|S_START thats|NNS partly|RB because|IN for|IN a|DT woman|NN being|VBG both|DT employed|JJ and|CC married|VBD is|VBZ tough|JJ in|IN asia|NN </s>|S_END
+<s>|S_START women|NNS there|EX are|VBP the|DT primary|JJ caregivers|NNS for|IN husbands|NNS children|NNS and|CC often|RB for|IN ageing|VBG parents|NNS and|CC even|RB when|WRB in|IN fulltime|NN employment|NN they|PRP are|VBP expected|VBN to|TO continue|VB to|TO play|VB this|DT role|NN </s>|S_END
+<s>|S_START this|DT is|VBZ true|JJ elsewhere|RB in|IN the|DT world|NN but|CC the|DT burden|NN that|IN asian|JJ women|NNS carry|VBP is|VBZ particularly|RB heavy|JJ </s>|S_END
+<s>|S_START japanese|JJ women|NNS who|WP typically|RB work|VBP 40|CD hours|NNS a|DT week|NN in|IN the|DT office|NN then|RB do|VBP on|IN average|JJ another|DT 30|CD hours|NNS of|IN housework|NN </s>|S_END
+<s>|S_START their|PRP$ husbands|NNS on|IN average|JJ do|NN three|CD hour|NN </s>|S_END
+<s>|S_START and|CC asian|JJ women|NNS who|WP give|JJ up|IN work|NN to|TO look|VB after|IN children|NNS find|VBP it|PRP hard|RB to|TO return|VB when|WRB the|DT offspring|NN are|VBP grown|VBN </s>|S_END
+<s>|S_START not|RB surprisingly|RB asian|JJ women|NNS have|VBP an|DT unusually|RB pessimistic|JJ view|NN of|IN marriage|NN </s>|S_END
+<s>|S_START according|VBG to|TO a|DT survey|NN carried|VBN out|RP this|DT year|NN many|JJ fewer|NN japanese|JJ women|NNS felt|VBD positive|JJ about|IN their|PRP$ marriage|NN than|IN did|VBD japanese|JJ men|NNS or|CC american|JJ women|NNS or|CC men|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT same|JJ time|NN as|IN employment|NN makes|VBZ marriage|NN tougher|NN for|IN women|NNS it|PRP offers|VBZ them|PRP an|DT alternative|JJ </s>|S_END
+<s>|S_START more|JJR women|NNS are|VBP financially|RB independent|JJ so|IN more|RBR of|IN them|PRP can|MD pursue|VB a|DT single|JJ life|NN that|WDT may|MD appeal|VB more|RBR than|IN the|DT drudgery|NN of|IN a|DT traditional|JJ marriage|NN </s>|S_END
+<s>|S_START more|JJR education|NN has|VBZ also|RB contributed|VBN to|TO the|DT decline|NN of|IN marriage|NN because|IN asian|JJ women|NNS with|IN the|DT most|RBS education|NN have|VBP always|RB been|VBN the|DT most|RBS reluctant|JJ to|TO wed—and|JJ there|EX are|VBP now|RB many|JJ more|RBR highly|RB educated|VBN women|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START no|DT marriage|NN no|DT babie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT flight|NN from|IN marriage|NN in|IN asia|NN is|VBZ thus|RB the|DT result|NN of|IN the|DT greater|JJR freedom|NN that|IN women|NNS enjoy|VBP these|DT days|NNS which|WDT is|VBZ to|TO be|VB celebrated|VBN </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ also|RB creating|VBG social|JJ problem|NN </s>|S_END
+<s>|S_START compared|VBN with|IN the|DT west|NN asian|JJ countries|NNS have|VBP invested|VBN less|RBR in|IN pensions|NNS and|CC other|JJ forms|NNS of|IN social|JJ protection|NN on|IN the|DT assumption|NN that|IN the|DT family|NN will|MD look|VB after|IN ageing|VBG or|CC ill|NN relative|JJ </s>|S_END
+<s>|S_START that|DT can|MD no|DT longer|NN be|VB taken|VBN for|IN granted|VBN </s>|S_END
+<s>|S_START the|DT decline|NN of|IN marriage|NN is|VBZ also|RB contributing|VBG to|TO the|DT collapse|NN in|IN the|DT birth|NN rate|NN </s>|S_END
+<s>|S_START fertility|NN in|IN east|JJ asia|NN has|VBZ fallen|VBN from|IN 53|CD children|NNS per|IN woman|NN in|IN the|DT late|JJ 1960s|CD to|TO 16|CD now|RB </s>|S_END
+<s>|S_START in|IN countries|NNS with|IN the|DT lowest|JJS marriage|NN rates|NNS the|DT fertility|NN rate|NN is|VBZ nearer|NN 10|CD </s>|S_END
+<s>|S_START that|DT is|VBZ beginning|VBG to|TO cause|VB huge|JJ demographic|JJ problems|NNS as|IN populations|NNS age|NN with|IN startling|JJ speed|NN </s>|S_END
+<s>|S_START and|CC there|EX are|VBP other|JJ less|RBR obvious|JJ issue|NN </s>|S_END
+<s>|S_START marriage|NN socialises|NNS men|NNS it|PRP is|VBZ associated|VBN with|IN lower|JJR levels|NNS of|IN testosterone|NN and|CC less|JJR criminal|JJ behaviour|NN </s>|S_END
+<s>|S_START less|JJR marriage|NN might|MD mean|VB more|RBR crime|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START can|MD marriage|VB be|VB revived|VBN in|IN asia|NN </s>|S_END
+<s>|S_START maybe|RB if|IN expectations|NNS of|IN those|DT roles|NNS of|IN both|DT sexes|NNS change|VBP but|CC shifting|VBG traditional|JJ attitudes|NNS is|VBZ hard|JJ </s>|S_END
+<s>|S_START governments|NNS can|MD not|RB legislate|VB away|RB popular|JJ prejudice|NN </s>|S_END
+<s>|S_START they|PRP can|MD though|VB encourage|NN change|NN </s>|S_END
+<s>|S_START relaxing|VBG divorce|NN laws|NNS might|MD paradoxically|RB boost|VB marriage|NN </s>|S_END
+<s>|S_START women|NNS who|WP now|RB steer|VBP clear|JJ of|IN wedlock|NN might|MD be|VB more|RBR willing|JJ to|TO tie|VB the|DT knot|NN if|IN they|PRP know|VBP it|PRP can|MD be|VB untied—not|JJ just|RB because|IN they|PRP can|MD get|VB out|IN of|IN the|DT marriage|NN if|IN it|PRP doesnt|VBP work|NN but|CC also|RB because|IN their|PRP$ freedom|NN to|TO leave|VB might|MD keep|VB their|PRP$ husbands|NNS on|IN their|PRP$ toe|NN </s>|S_END
+<s>|S_START family|NN law|NN should|MD give|VB divorced|VBN women|NNS a|DT more|RBR generous|JJ share|NN of|IN the|DT couples|NNS asset|VBP </s>|S_END
+<s>|S_START governments|NNS should|MD also|RB legislate|VB to|TO get|VB employers|NNS to|TO offer|VB both|DT maternal|JJ and|CC paternal|JJ leave|NN and|CC provide|VB or|CC subsidise|VB child|NN care|NN </s>|S_END
+<s>|S_START if|IN taking|VBG on|IN such|JJ expenses|NNS helped|VBD promote|NN family|NN life|NN it|PRP might|MD reduce|VB the|DT burden|NN on|IN the|DT state|NN of|IN looking|VBG after|IN the|DT old|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START asian|JJ governments|NNS have|VBP long|RB taken|VBN the|DT view|NN that|IN the|DT superiority|NN of|IN their|PRP$ family|NN life|NN was|VBD one|CD of|IN their|PRP$ big|JJ advantages|NNS over|IN the|DT west|NN </s>|S_END
+<s>|S_START that|DT confidence|NN is|VBZ no|DT longer|NN warranted|VBN </s>|S_END
+<s>|S_START they|PRP need|VBP to|TO wake|VB up|RP to|TO the|DT huge|JJ social|JJ changes|NNS happening|VBG in|IN their|PRP$ countries|NNS and|CC think|VBP about|IN how|WRB to|TO cope|VB with|IN the|DT consequence|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,114 @@
+<p>|P_START
+<s>|S_START deal|NN or|CC no|DT deal|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN huge|JJ spending|NN cuts|NNS and|CC maybe|VB some|DT targeted|VBN tax|NN hikes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS how|WRB the|DT deal|NN to|TO raise|VB the|DT debt|NN ceiling|NN is|VBZ shaping|VBG up|RP </s>|S_END
+<s>|S_START details|NNS are|VBP thin|JJ as|IN negotiations|NNS have|VBP been|VBN carried|VBN out|RP behind|IN closed|VBN doors|NNS and|CC involve|VB only|RB a|DT few|JJ of|IN washingtons|NNS heaviest|VBP hitters|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT much|JJ is|VBZ known|VBN lawmakers|NNS must|MD raise|VB the|DT nations|NNS $|$ 143|CD trillion|CD legal|JJ borrowing|NN limit|NN soon|RB </s>|S_END
+<s>|S_START the|DT treasury|NN department|NN says|VBZ that|IN on|IN aug|NN 2|CD it|PRP will|MD run|VB out|RP of|IN money|NN to|TO pay|VB the|DT nations|NNS bills|NNS in|IN full|JJ and|CC on|IN time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS only|RB a|DT few|JJ weeks|NNS away|RB </s>|S_END
+<s>|S_START so|IN whats|NNS it|PRP gon|VBP na|NN take|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT group|NN of|IN lawmakers|NNS who|WP participated|VBN in|IN negotiations|NNS led|VBN by|IN vice|NN president|NN joe|NN biden|NN have|VBP already|RB identified|VBN more|RBR than|IN $|$ 1|CD trillion|CD in|IN budget|NN cuts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START republicans|NNS want|VBP far|RB more|RBR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC already|RB $|$ 1|CD trillion|CD in|IN cuts|NNS is|VBZ entering|VBG uncharted|JJ territory|NN </s>|S_END
+<s>|S_START the|DT cuts|NNS would|MD be|VB some|DT of|IN the|DT biggest|JJS in|IN history|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP sounds|VBZ as|IN if|IN the|DT package|NN is|VBZ going|VBG to|TO be|VB all|PDT spending|NN cuts|NNS with|IN a|DT few|JJ symbolic|JJ revenue|NN increases|NNS said|VBD isabel|NN sawhill|NN an|DT economist|NN who|WP studies|NNS fiscal|VBP issues|NNS at|IN the|DT brookings|NNS institution|NN and|CC worked|VBD in|IN the|DT clinton|NN administration|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT $|$ 1|CD trillion|CD in|IN cuts|NNS would|MD probably|RB be|VB spread|VBN out|RP over|IN the|DT next|JJ decade|NN or|CC so|RB meaning|VBG roughly|RB $|$ 100|CD billion|CD less|JJR in|IN federal|JJ spending|NN each|DT year|NN although|IN the|DT savings|NNS might|MD be|VB larger|JJR in|IN later|JJ years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sawhill|NN said|VBD the|DT cuts|NNS are|VBP likely|JJ to|TO be|VB focused|VBN on|IN nonsecurity|NN discretionary|NN spending|NN a|DT small|JJ section|NN of|IN the|DT budget|NN that|IN includes|VBZ funding|NN for|IN food|NN inspectors|NNS the|DT fbi|NN and|CC education|NN grants|NNS among|IN many|JJ other|JJ programs|NNS and|CC services|NNS people|NNS associate|VBP with|IN government|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT public|NN is|VBZ going|VBG to|TO be|VB a|DT lot|NN more|RBR concerned|VBN when|WRB they|PRP see|VBP the|DT details|NNS and|CC not|RB just|RB the|DT abstraction|NN of|IN less|JJR spending|NN sawhill|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS something|NN obama|NN clearly|RB has|VBZ on|IN his|PRP$ mind|NN as|IN well|RB </s>|S_END
+<s>|S_START he|PRP made|VBD the|DT point|NN in|IN a|DT press|NN conference|NN this|DT week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ive|JJ said|VBD to|TO some|DT of|IN the|DT republican|JJ leaders|NNS you|PRP go|VBP talk|VBP to|TO your|PRP$ constituents|NNS the|DT republican|JJ constituents|NNS and|CC ask|VB them|PRP are|VBP they|PRP willing|VBG to|TO compromise|VB their|PRP$ kids|NNS safety|NN so|IN that|IN some|DT corporate|JJ jet|NN owner|NN continues|VBZ to|TO get|VB a|DT tax|NN break|NN obama|NN said|VBD </s>|S_END
+<s>|S_START and|CC im|VBP pretty|RB sure|JJ what|WP the|DT answer|NN would|MD be|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN the|DT revenue|NN side|NN the|DT white|NN house|NN wants|NNS to|TO close|VB loopholes|NNS that|WDT benefit|NN the|DT owners|NNS of|IN private|JJ jets|NNS and|CC raise|VB taxes|NNS on|IN hedge|NN fund|NN managers|NNS who|WP pay|NN lower|JJR tax|NN rates|NNS on|IN socalled|VBN carried|VBN interest|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START additional|JJ proposals|NNS would|MD change|VB how|WRB business|NN inventory|NN is|VBZ taxed|VBN and|CC eliminate|JJ government|NN subsidies|NNS for|IN oil|NN and|CC gas|NN companies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC not|RB if|IN republicans|NNS have|VBP anything|NN to|TO say|VB about|IN it|PRP </s>|S_END
+<s>|S_START the|DT partys|NNS leaders|NNS have|VBP put|VBN up|RP a|DT united|JJ front|NN on|IN the|DT issue|NN </s>|S_END
+<s>|S_START tax|NN hikes|VBZ will|MD not|RB be|VB considered|VBN they|PRP say|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ a|DT common|JJ theme|NN </s>|S_END
+<s>|S_START the|DT proposals|NNS spare|VBP the|DT middle|NN class|NN and|CC instead|RB focus|VB on|IN corporations|NNS and|CC the|DT wealthy|JJ </s>|S_END
+<s>|S_START the|DT white|JJ house|NN says|VBZ they|PRP focus|VBZ on|IN unnecessary|JJ and|CC unjustifiable|JJ tax|NN breaks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT revenue|NN increases|NNS wont|VBP make|VBP much|RB of|IN a|DT dent|NN at|IN least|JJS not|RB compared|VBN to|TO $|$ 1|CD trillion|CD in|IN spending|NN cuts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ending|VBG the|DT tax|NN break|NN for|IN owners|NNS of|IN private|JJ jets|NNS for|IN instance|NN would|MD only|RB save|VB a|DT few|JJ billion|NN dollars|NNS hardly|RB enough|RB to|TO fund|VB the|DT food|NN and|CC drug|NN administration|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP understand|VBP the|DT populist|NN appeal|NN sawhill|NN said|VBD </s>|S_END
+<s>|S_START but|CC those|DT numbers|NNS are|VBP very|RB small|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB one|CD additional|JJ proposal|NN pushed|VBD by|IN democrats|NNS could|MD add|VB up|RP to|TO real|JJ money|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT white|JJ house|NN wants|NNS to|TO limit|VB deductions|NNS taken|VBN by|IN the|DT wealthiest|JJS americans|NNS </s>|S_END
+<s>|S_START depending|VBG on|IN the|DT details|NNS that|IN could|MD quickly|RB add|VB up|RP to|TO increased|VBN revenue|NN in|IN the|DT hundreds|NNS of|IN billions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START still|RB those|DT tax|NN increases|NNS will|MD only|RB touch|VB a|DT fraction|NN of|IN americans|NNS while|IN the|DT spending|NN cuts|NNS will|MD spread|VB the|DT pain|NN around|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START americans|NNS dont|VBP have|VBP a|DT firm|NN grasp|NN on|IN what|WP it|PRP means|VBZ to|TO cut|VB a|DT trillion|NN dollars|NNS sawhill|VBP said|VBN </s>|S_END
+<s>|S_START they|PRP think|VBP its|PRP$ someone|NN elses|NNS trillion|NN dollars|NNS </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

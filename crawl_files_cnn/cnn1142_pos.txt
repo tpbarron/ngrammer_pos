@@ -1,0 +1,75 @@
+<p>|P_START
+<s>|S_START spains|NNS banking|VBG and|CC debt|NN problems|NNS have|VBP moved|VBN to|TO the|DT center|NN of|IN the|DT european|JJ sovereign|NN debt|NN crisis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN with|IN greeces|NNS election|NN over|IN the|DT concern|NN of|IN investors|NNS and|CC economists|NNS has|VBZ shifted|VBN to|TO the|DT larger|JJR spanish|NN banking|NN and|CC sovereign|NN debt|NN crisis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fourth|JJ largest|JJS economy|NN in|IN the|DT eurozone|NN spain|NN has|VBZ already|RB asked|VBN for|IN €100|-NONE- billion|CD $|$ 1258|CD billion|CD in|IN assistance|NN from|IN the|DT eu|NN rescue|NN fund|NN to|TO recapitalize|VB its|PRP$ banks|NNS </s>|S_END
+<s>|S_START other|JJ european|JJ countries|NNS have|VBP voiced|VBN support|NN for|IN such|JJ a|DT bailout|NN in|IN a|DT effort|NN to|TO keep|VB the|DT problems|NNS at|IN spanish|JJ banks|NNS from|IN spreading|VBG to|TO other|JJ nations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT depth|NN of|IN the|DT nations|NNS crisis|VBZ has|VBZ raised|VBN doubts|NNS about|IN whether|IN €100|-NONE- billion|CD will|MD be|VB enough|RB to|TO recapitalize|VB the|DT banks|NNS </s>|S_END
+<s>|S_START for|IN example|NN the|DT bank|NN of|IN spain|NN the|DT nations|NNS central|JJ bank|NN released|VBN data|NNS monday|NN showing|VBG that|IN doubtful|JJ loans|NNS those|DT that|WDT are|VBP more|RBR than|IN 3|CD months|NNS overdue|JJ rose|NN to|TO €1527|-NONE- billion|CD in|IN april|NN equal|JJ to|TO 87|CD of|IN all|DT the|DT loans|NNS held|VBD by|IN the|DT nations|NNS banks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT volume|NN of|IN troubled|JJ bank|NN loans|NNS has|VBZ soared|VBN by|IN nearly|RB a|DT third|JJ in|IN the|DT last|JJ year|NN as|IN spain|NN has|VBZ fallen|VBN into|IN a|DT deep|JJ recession|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP think|VBP people|NNS have|VBP problems|NNS accepting|VBG numbers|NNS on|IN the|DT bailout|NN request|NN said|VBD elisabeth|NN afseth|NN fixed|VBN income|NN analyst|NN for|IN investec|NN in|IN london|NN </s>|S_END
+<s>|S_START the|DT €100|NN billion|NN may|MD or|CC may|MD not|RB be|VB enough|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banco|NN santander|NN san|NN and|CC bbva|NN bbva|NN the|DT two|CD largest|JJS banks|NNS both|DT had|VBD shares|NNS plunge|VBP more|JJR than|IN 4|CD in|IN madrid|JJ and|CC 5|CD in|IN new|JJ york|NN trading|NN </s>|S_END
+<s>|S_START the|DT spanish|JJ banks|NNS helped|VBD take|VB spains|NNS ibex|NN composite|JJ stock|NN index|NN down|IN nearly|RB 3|CD on|IN a|DT day|NN that|WDT saw|VBD londons|NNS ftse|VBP ukx|NN and|CC the|DT german|NN dax|NN dax|NN close|NN narrowly|RB higher|JJR and|CC the|DT paris|NNS cac|VBP cac40|NNP lose|NN less|JJR than|IN 1|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT yield|NN on|IN spains|NNS 10year|JJ bond|NN soared|VBD to|TO a|DT euroera|NN high|NN of|IN 716|CD a|DT level|NN that|WDT not|RB only|RB raises|VBZ the|DT nations|NNS borrowing|VBG costs|NNS but|CC is|VBZ widely|RB seen|VBN as|IN unsustainable|JJ </s>|S_END
+<s>|S_START but|CC experts|NNS say|VBP theres|NNS little|RB to|TO bring|VB rates|NNS down|IN in|IN the|DT near|NN term|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP didnt|VBP want|JJ to|TO buy|VB spanish|JJ debt|NN before|IN the|DT bank|NN bailout|IN i|PRP see|VBP no|DT reason|NN why|WRB you|PRP would|MD want|VB to|TO do|VB so|RB after|IN said|VBD afseth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS because|IN the|DT spanish|JJ picture|NN is|VBZ gloomy|NN </s>|S_END
+<s>|S_START spain|NN has|VBZ record|VBN high|JJ unemployment|NN of|IN 243|CD and|CC more|JJR than|IN half|PDT of|IN all|DT of|IN its|PRP$ young|JJ workers|NNS are|VBP without|IN a|DT job|NN </s>|S_END
+<s>|S_START spanish|JJ housing|NN prices|NNS which|WDT shot|NN up|RP in|IN the|DT warm|NN weather|NN coastal|NN communities|NNS during|IN the|DT real|JJ estate|NN boom|NN have|VBP been|VBN cut|VBN in|IN half|DT by|IN the|DT crisis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START spains|NNS sovereign|VBP debt|NN which|WDT was|VBD just|RB under|IN 70|CD of|IN its|PRP$ gross|NN domestic|JJ product|NN in|IN 2011|CD is|VBZ now|RB expected|VBN to|TO rise|VB to|TO between|IN 95|CD or|CC 110|CD of|IN gdp|NN by|IN 2015|CD according|VBG to|TO estimates|NNS from|IN the|DT credit|NN rating|NN agency|NN fitch|NN last|JJ week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN spains|NNS debt|NN already|RB rated|VBN at|IN the|DT lowest|JJS level|NN above|IN junk|NN bond|NN status|NN its|PRP$ not|RB clear|JJ that|IN the|DT bank|NN bailout|IN will|MD be|VB enough|RB help|VB for|IN the|DT countrys|NNS troubled|VBD finances|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT separate|JJ bailout|NN of|IN spains|NNS government|NN debts|NNS on|IN top|JJ of|IN its|PRP$ bank|NN bailout|IN could|MD reach|VB at|IN least|JJS €300|-NONE- billion|NN to|TO cover|VB its|PRP$ current|JJ refinancing|NN needs|VBZ and|CC the|DT operating|NN deficit|NN in|IN the|DT next|JJ few|JJ years|NNS said|VBD investecs|NNS afseth|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bank|NN and|CC sovereign|NN bailouts|NNS of|IN spain|NN totaling|VBG €400|-NONE- billion|CD would|MD wipe|VB out|RP most|JJS of|IN the|DT remaining|VBG €557|-NONE- billion|CD in|IN the|DT existing|VBG european|JJ bailout|IN fund|NN not|RB including|VBG the|DT €223|NN billion|NN already|RB committed|VBN to|TO help|VB greece|NN portugal|JJ and|CC ireland|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC that|DT level|NN of|IN help|NN is|VBZ in|IN some|DT question|NN as|IN more|JJR than|IN €500|-NONE- billion|CD of|IN the|DT money|NN committed|VBD to|TO the|DT rescue|NN fund|NN has|VBZ yet|RB to|TO be|VB contributed|VBN by|IN the|DT more|RBR prosperous|JJ member|NN nations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN sunday|NN the|DT institute|NN of|IN international|JJ finance|NN wrote|VBD a|DT report|NN to|TO its|PRP$ members|NNS saying|VBG that|IN the|DT spanish|JJ bank|NN bailout|IN by|IN itself|PRP may|MD deplete|VB the|DT bailout|NN fund|NN for|IN all|DT but|CC the|DT proposed|VBN rescue|NN of|IN a|DT country|NN the|DT size|NN of|IN tiny|NN cyprus|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START which|WDT explains|VBZ why|WRB spain|NN is|VBZ now|RB front|JJ and|CC center|NN among|IN those|DT worried|VBN about|IN europe|NN and|CC the|DT worlds|NNS financial|JJ system |NN </s>|S_END
+</p>|P_END
+

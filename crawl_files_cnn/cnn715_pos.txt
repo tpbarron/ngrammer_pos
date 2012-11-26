@@ -1,0 +1,63 @@
+<p>|P_START
+<s>|S_START lifetime|NN earnings|NNS by|IN major|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN want|NN to|TO make|VB $|$ 35|CD million|CD </s>|S_END
+<s>|S_START major|JJ in|IN engineering|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS how|WRB much|JJ those|DT who|WP graduate|NN with|IN an|DT engineering|NN degree|NN can|MD expect|VB to|TO earn|VB over|IN a|DT 40year|JJ career|NN according|VBG to|TO new|JJ census|NN bureau|NN data|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START which|WDT major|JJ earns|NNS the|DT least|JJS </s>|S_END
+<s>|S_START education|NN which|WDT comes|VBZ in|IN at|IN $|$ 18|CD million|CD </s>|S_END
+<s>|S_START thats|NNS even|RB lower|JJR than|IN arts|NNS majors|NNS who|WP can|MD expect|VB to|TO earn|VB $|$ 2|CD million|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START typical|JJ college|NN graduates|NNS can|MD expect|VB to|TO take|VB home|NN $|$ 24|CD million|CD during|IN their|PRP$ career|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT census|NN calculated|VBD this|DT data|NN by|IN taking|NN the|DT median|JJ earnings|NNS for|IN each|DT group|NN in|IN various|JJ age|NN increments|NNS between|IN 25|CD and|CC 64|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN course|NN the|DT occupation|NN one|CD selects|NNS can|MD also|RB have|VB an|DT impact|NN on|IN earnings|NNS </s>|S_END
+<s>|S_START engineers|NNS working|VBG in|IN management|NN earn|NN $|$ 41|CD million|CD over|IN their|PRP$ lifetimes|NNS while|IN those|DT working|VBG in|IN education|NN only|RB $|$ 18|CD million|CD </s>|S_END
+<s>|S_START education|NN majors|NNS who|WP pursue|NN computers|NNS or|CC math|NN jobs|NNS can|MD earn|VB $|$ 26|CD million|CD while|IN those|DT in|IN the|DT service|NN sector|NN make|VB only|RB $|$ 13|CD million|CD less|JJR than|IN people|NNS with|IN only|RB high|JJ school|NN degrees|NNS the|DT census|NN bureau|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT with|IN masters|NNS degrees|NNS can|MD expect|VB to|TO earn|VB $|$ 28|CD million|CD over|IN their|PRP$ career|NN while|IN doctorate|NN degree|NN holders|NNS take|VBP home|NN $|$ 35|CD million|CD </s>|S_END
+<s>|S_START people|NNS with|IN professional|JJ degrees|NNS earn|VBP the|DT biggest|JJS bucks|NNS $|$ 42|CD million|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START biggest|JJS jump|NN in|IN us|PRP wages|VBZ in|IN more|JJR than|IN 5|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX was|VBD more|JJR bad|JJ news|NN for|IN education|NN majors|NNS in|IN a|DT related|JJ study|NN the|DT census|NN bureau|NN conducted|VBD </s>|S_END
+<s>|S_START this|DT field|NN was|VBD the|DT second|JJ most|JJS popular|JJ with|IN 8|CD million|CD graduates|NNS but|CC the|DT least|JJS likely|JJ to|TO be|VB employed|VBN fulltime|NN yearround|NN at|IN 41|CD </s>|S_END
+<s>|S_START part|NN of|IN the|DT reason|NN is|VBZ because|IN teachers|NNS who|WP do|VBP not|RB work|VB over|IN the|DT summer|NN are|VBP not|RB considered|VBN yearround|NN employees|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT 12million|CD strong|JJ business|NN majors|NNS on|IN the|DT other|JJ hand|NN were|VBD among|IN the|DT most|RBS likely|JJ to|TO be|VB employed|VBN at|IN 641|CD </s>|S_END
+<s>|S_START computers|NNS math|VBP and|CC statistics|NNS majors|NNS along|IN with|IN engineers|NNS had|VBD even|RB better|JJR employment|NN rates|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN the|DT flip|NN side|NN fewer|NN than|IN half|PDT of|IN visual|JJ and|CC performing|VBG arts|NNS majors|NNS were|VBD employed|VBN fulltime|NN year|NN round|NN </s>|S_END
+<s>|S_START same|JJ went|NN for|IN literature|NN and|CC language|NN majors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START women|NNS earned|VBD less|JJR than|IN men|NNS in|IN every|DT field|NN of|IN degree|NN </s>|S_END
+<s>|S_START and|CC earnings|NNS tended|VBD to|TO be|VB higher|JJR for|IN those|DT who|WP worked|VBN in|IN the|DT private|JJ sector|NN rather|RB than|IN the|DT government|NN except|IN for|IN educators|NNS where|WRB the|DT reverse|NN was|VBD true|JJ </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,77 @@
+<p>|P_START
+<s>|S_START for|IN insured|VBN workers|NNS the|DT cost|NN of|IN buying|NN health|NN insurance|NN for|IN a|DT family|NN of|IN four|CD increased|VBN 4|CD to|TO $|$ 15745|CD in|IN 2012|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT cost|NN of|IN employersponsored|VBN family|NN health|NN insurance|NN premiums|NNS jumped|VBD again|RB this|DT year|NN but|CC the|DT rate|NN at|IN which|WDT they|PRP rose|VBD slowed|VBN to|TO historic|JJ lows|NNS according|VBG to|TO a|DT new|JJ survey|NN tuesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN insured|VBN workers|NNS the|DT cost|NN of|IN buying|NN health|NN insurance|NN for|IN a|DT family|NN of|IN four|CD increased|VBN 4|CD to|TO $|$ 15745|CD in|IN 2012|CD according|VBG to|TO a|DT survey|NN conducted|VBN by|IN kaiser|NN family|NN foundation|NN and|CC the|DT health|NN research|NN educational|JJ trust|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START last|JJ year|NN premiums|NNS leaped|VBD 9|CD from|IN the|DT year|NN before|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT are|VBP strikingly|RB low|JJ numbers|NNS to|TO those|DT of|IN us|PRP who|WP have|VBP been|VBN studying|VBG health|NN costs|NNS for|IN a|DT long|JJ time|NN said|VBD drew|NN altman|NN president|NN of|IN the|DT kaiser|NN family|NN foundation|NN </s>|S_END
+<s>|S_START a|DT 4|CD increase|NN in|IN health|NN premiums|NNS is|VBZ good|JJ news|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START altman|NN said|VBD there|EX are|VBP several|JJ factors|NNS that|WDT could|MD have|VB led|VBN to|TO the|DT slowdown|NN including|VBG the|DT economys|NNS slow|VBP recovery|NN </s>|S_END
+<s>|S_START when|WRB people|NNS have|VBP less|JJR money|NN to|TO spend|VB and|CC wages|NNS are|VBP flat|JJ as|IN they|PRP have|VBP been|VBN in|IN recent|JJ years|NNS they|PRP avoid|VBP getting|VBG medical|JJ care|NN </s>|S_END
+<s>|S_START compounding|VBG the|DT issue|NN is|VBZ the|DT rise|NN of|IN highdeductible|JJ plans|NNS and|CC other|JJ forms|NNS of|IN cost|NN sharing|VBG like|IN copays|NNS that|WDT cause|NN families|NNS to|TO pick|VB up|RP a|DT larger|JJR percentage|NN of|IN the|DT bill|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START health|NN care|NN use|NN and|CC the|DT economy|NN have|VBP always|RB been|VBN closely|RB tied|VBN and|CC my|PRP$ sense|NN is|VBZ that|IN the|DT recession|NN and|CC slow|JJ recovery|NN are|VBP responsible|JJ for|IN much|JJ of|IN the|DT recent|JJ health|NN spending|NN and|CC premium|NN trends|NNS altman|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD 6|CD reasons|NNS health|NN care|NN costs|NNS keep|VB going|VBG up|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN premiums|NNS appear|VBP to|TO be|VB improving|VBG health|NN care|NN costs|NNS still|RB weighed|VBD heavily|RB on|IN families|NNS </s>|S_END
+<s>|S_START the|DT report|NN showed|VBD that|IN premiums|NNS for|IN family|NN coverage|NN outpaced|VBD both|DT workers|NNS wages|NNS and|CC general|JJ inflation|NN </s>|S_END
+<s>|S_START in|IN less|JJR than|IN a|DT decade|NN premiums|NNS have|VBP increased|VBN 97|CD roughly|RB three|CD times|NNS as|RB fast|JJ as|IN wages|NNS and|CC inflation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP still|RB takes|VBZ a|DT growing|VBG bite|NN out|IN of|IN middleclass|NN workers|NNS wages|NNS which|WDT have|VBP been|VBN flat|JJ or|CC falling|VBG in|IN real|JJ terms|NNS altman|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT burden|NN was|VBD even|RB harder|JJR to|TO shoulder|JJR for|IN lowerincome|NN families|NNS </s>|S_END
+<s>|S_START at|IN companies|NNS where|WRB at|IN least|JJS 35|CD of|IN workers|NNS earn|VBP $|$ 24000|CD or|CC less|JJR employees|NNS paid|VBD an|DT average|JJ of|IN $|$ 1000|CD more|JJR each|DT year|NN than|IN workers|NNS at|IN companies|NNS where|WRB at|IN least|JJS 35|CD of|IN employees|NNS earn|VBP $|$ 55000|CD or|CC more|JJR the|DT report|NN found|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC its|PRP$ not|RB just|RB premiums|VBZ </s>|S_END
+<s>|S_START lowerwage|NN employees|NNS were|VBD also|RB more|RBR likely|JJ to|TO pay|VB high|JJ deductibles|NNS </s>|S_END
+<s>|S_START the|DT survey|NN found|VBD that|IN 44|CD of|IN workers|NNS at|IN companies|NNS with|IN many|JJ lowwage|NN employees|NNS face|VBP an|DT annual|JJ deductible|JJ of|IN $|$ 1000|CD or|CC more|JJR compared|VBN with|IN 29|CD of|IN those|DT at|IN companies|NNS with|IN many|JJ highwage|NN workers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT years|NNS survey|NN suggests|VBZ that|IN working|VBG families|NNS at|IN the|DT low|JJ end|NN of|IN the|DT wage|NN scale|NN face|NN significant|JJ out|IN of|IN pocket|NN costs|NNS for|IN coverage|NN said|VBD study|NN lead|NN author|NN gary|NN claxton|NN in|IN a|DT statement|NN </s>|S_END
+<s>|S_START firms|NNS with|IN many|JJ lowerwage|NN workers|NNS ask|VBP employees|NNS to|TO pay|VB more|JJR out|IN of|IN pocket|NN even|RB though|IN the|DT coverage|NN itself|PRP tends|VBZ to|TO be|VB less|JJR comprehensive|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START altman|NN said|VBD he|PRP doesnt|VBD expect|VBP a|DT return|NN to|TO doubledigit|VB increases|NNS in|IN premiums|NNS anytime|RB soon|RB especially|RB as|IN provisions|NNS from|IN the|DT affordable|JJ care|NN act|NN kick|NN in|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD health|NN reform|NN stands|VBZ how|WRB it|PRP impacts|VBZ your|PRP$ coverage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB though|IN much|RB of|IN the|DT health|NN reform|NN law|NN wont|NN go|VB into|IN effect|NN until|IN 2014|CD the|DT report|NN estimated|VBD that|IN the|DT number|NN of|IN young|JJ adults|NNS covered|VBN by|IN employer|NN plans|NNS increased|VBD to|TO 29|CD million|CD this|DT year|NN from|IN 23|CD million|CD in|IN 2011|CD as|IN a|DT result|NN of|IN the|DT provision|NN that|IN lets|NNS young|JJ adults|NNS stay|VBP on|IN their|PRP$ parents|NNS insurance|NN plans|NNS until|IN age|NN 26|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT 14th|JJ annual|JJ kaiser|NN survey|NN was|VBD conducted|VBN between|IN january|JJ and|CC may|MD 2012|CD and|CC polled|VBN 3326|CD small|JJ and|CC large|JJ employers|NNS with|IN three|CD or|CC more|JJR workers|NNS </s>|S_END
+</p>|P_END
+

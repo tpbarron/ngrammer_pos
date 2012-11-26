@@ -1,0 +1,118 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN small|JJ business|NN played|VBN a|DT major|JJ role|NN during|IN the|DT republican|JJ convention|NN this|DT week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nearly|RB every|DT speaker|NN at|IN the|DT convention|NN in|IN tampa|NN fla|NN had|VBD something|NN to|TO say|VB about|IN companies|NNS and|CC how|WRB much|JJ theyve|NN suffered|VBD during|IN the|DT past|JJ four|CD years|NNS particularly|RB small|JJ ones|NNS </s>|S_END
+<s>|S_START all|DT focused|VBN their|PRP$ aim|NN at|IN president|NN obama|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC were|VBD their|PRP$ points|NNS true|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN regulation|NN john|NN thune|NN a|DT us|PRP </s>|S_END
+<s>|S_START senator|NN from|IN south|NN dakota|NN criticized|VBD the|DT president|NN for|IN using|VBG big|JJ government|NN to|TO meddle|VB with|IN the|DT rural|JJ way|NN of|IN life|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START instead|RB of|IN preserving|VBG family|NN farms|NNS and|CC ranches|NNS president|NN obamas|NNS policies|NNS are|VBP effectively|RB regulating|VBG them|PRP out|RP of|IN business|NN </s>|S_END
+<s>|S_START his|PRP$ administration|NN even|RB proposed|VBN banning|VBG farm|NN kids|NNS from|IN doing|VBG basic|JJ chores|NNS he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ true|JJ the|DT labor|NN department|NN did|VBD make|VB that|IN proposal|NN last|JJ year|NN </s>|S_END
+<s>|S_START federal|JJ officials|NNS sought|VBN to|TO outlaw|VB having|VBG kids|NNS younger|JJR than|IN 16|CD engage|NN in|IN activity|NN deemed|VBD dangerous|JJ such|JJ as|IN driving|VBG tractors|NNS or|CC handling|VBG pesticides|NNS </s>|S_END
+<s>|S_START that|DT riled|VBD up|RP farmers|NNS to|TO whom|VB having|VBG a|DT young|JJ teen|NN maneuver|NN a|DT tractor|NN is|VBZ an|DT everyday|NN chore|NN </s>|S_END
+<s>|S_START taking|VBG part|NN in|IN farm|NN work|NN is|VBZ also|RB seen|VBN as|IN a|DT way|NN to|TO pass|VB along|IN the|DT craft|NN to|TO the|DT next|JJ generation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD eastwoods|NNS inflated|VBN unemployment|NN count|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP dangers|NNS to|TO that|DT though|IN and|CC labor|NN officials|NNS were|VBD looking|VBG at|IN statistics|NNS that|WDT some|DT may|MD find|VB surprising|JJ </s>|S_END
+<s>|S_START more|JJR kids|NNS get|VBP hurt|VBN working|VBG agricultural|JJ jobs|NNS than|IN any|DT other|JJ </s>|S_END
+<s>|S_START those|DT jobs|NNS claimed|VBD the|DT lives|NNS of|IN 200|CD kids|NNS between|IN 1992|CD and|CC 1998|CD according|VBG to|TO the|DT most|JJS recent|JJ report|NN from|IN the|DT labor|NN department|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START labor|NN officials|NNS backed|VBN away|RB from|IN the|DT proposal|NN in|IN april|NN citing|VBG a|DT respect|NN for|IN the|DT rural|JJ way|NN of|IN life|NN and|CC instead|RB promising|VBG to|TO rely|RB on|IN educational|JJ programs|NNS to|TO reduce|VB the|DT number|NN of|IN accidents|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN for|IN thunes|NNS other|JJ criticism|NN its|PRP$ a|DT stretch|NN to|TO say|VB the|DT presidents|NNS policies|NNS are|VBP destroying|VBG family|NN farms|NNS </s>|S_END
+<s>|S_START census|NN data|NNS shows|VBZ that|IN as|IN of|IN 2010|CD the|DT number|NN of|IN farms|NNS is|VBZ actually|RB up|IN slightly|RB to|TO 22|CD million|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START also|RB the|DT obama|NN administration|NN has|VBZ instituted|VBN specific|JJ programs|NNS to|TO help|VB farmers|NNS through|IN the|DT agriculture|NN department|NN in|IN a|DT know|NN your|PRP$ farmer|NN know|VB your|PRP$ food|NN campaign|NN </s>|S_END
+<s>|S_START the|DT program|NN tries|NNS to|TO connect|VB consumers|NNS with|IN producers|NNS offering|VBG an|DT online|NN map|NN to|TO find|VB things|NNS like|IN local|JJ farmers|NNS markets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN even|RB more|RBR regulation|NN sher|NN valenzuela|NN whos|NNS running|VBG for|IN lieutenant|JJ governor|NN of|IN delaware|NN had|VBD this|DT to|TO say|VB about|IN government|NN pressures|NNS on|IN businesses|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START theyre|NN on|IN track|NN to|TO create|VB 109|CD million|CD new|JJ paperwork|NN burden|NN hours|NNS and|CC by|IN years|NNS end|NN $|$ 110|CD billion|CD worth|NN of|IN new|JJ regulatory|JJ costs|NNS will|MD be|VB laid|VBN on|IN the|DT back|NN of|IN business|NN owners|NNS and|CC taxpayers|NNS she|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START her|PRP$ speech|NN prepared|VBN by|IN convention|NN staff|NN relied|VBD on|IN statistics|NNS compiled|VBN by|IN the|DT republicanled|VBN american|NN action|NN forum|NN </s>|S_END
+<s>|S_START the|DT groups|NNS director|NN of|IN regulatory|JJ policy|NN sam|NN batkins|VBZ said|VBN they|PRP keep|VBP track|RP of|IN all|DT new|JJ paperwork|NN by|IN relying|NN on|IN government|NN announcements|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ worth|NN putting|VBG these|DT 109|CD million|CD hours|NNS into|IN perspective|JJ </s>|S_END
+<s>|S_START in|IN 2010|CD americans|NNS spent|VBD 88|CD billion|CD hours|NNS filing|VBG federal|JJ paperwork|NN for|IN their|PRP$ businesses|NNS or|CC in|IN their|PRP$ personal|JJ lives|NNS according|VBG to|TO the|DT office|NN of|IN information|NN and|CC regulatory|JJ affairs|NNS </s>|S_END
+<s>|S_START thats|NNS about|IN 37|CD hours|NNS a|DT year|NN for|IN each|DT adult|NN </s>|S_END
+<s>|S_START adding|VBG 109|CD million|CD hours|NNS through|IN new|JJ regulations|NNS would|MD tack|VB on|IN only|RB another|DT 1|CD to|TO the|DT total|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START more|JJR importantly|RB though|IN the|DT total|JJ number|NN of|IN hours|NNS has|VBZ actually|RB gone|VBN down|RP sharply|RB during|IN the|DT obama|NN administration|NN </s>|S_END
+<s>|S_START it|PRP rose|VBD from|IN about|IN 7|CD billion|CD to|TO nearly|RB 10|CD billion|CD during|IN the|DT bush|NN years|NNS </s>|S_END
+<s>|S_START obama|NN ordered|VBD that|IN agencies|NNS get|VBP rid|VBN of|IN absurd|JJ and|CC unnecessary|JJ paperwork|NN requirements|NNS that|WDT waste|NN time|NN and|CC money|NN and|CC get|VB more|RBR businessfriendly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD etch|NN a|DT sketch|NN cashes|VBZ in|IN on|IN romney|NN aide|NN gaffe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN building|NN that|IN house|NN speaker|NN john|NN boehner|NN and|CC many|JJ others|NNS at|IN the|DT convention|NN frequently|RB repeated|VBN references|NNS to|TO obamas|NNS you|PRP didnt|VBP build|VBN that|IN comment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN president|NN obama|NN with|IN all|DT due|JJ respect|NN dont|NN tell|NN me|PRP that|IN my|PRP$ parents|NNS didnt|VBP build|VBN their|PRP$ business|NN south|NN carolina|NN gov|NN </s>|S_END
+<s>|S_START nikki|NN haley|NN to|TO much|RB applause|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START actually|RB the|DT president|NN didnt|NN say|VB that|IN at|IN all|DT </s>|S_END
+<s>|S_START its|PRP$ a|DT criticism|NN based|VBN on|IN a|DT false|NN premise|NN thats|NNS been|VBN debunked|VBN various|JJ times|NNS by|IN many|JJ including|VBG cnn|NN </s>|S_END
+<s>|S_START to|TO clarify|VB heres|NNS what|WP the|DT president|NN stated|VBD during|IN a|DT july|RB 13|CD speech|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP were|VBD successful|JJ somebody|NN along|IN the|DT line|NN gave|VBD you|PRP some|DT help|NN </s>|S_END
+<s>|S_START there|EX was|VBD a|DT great|JJ teacher|NN somewhere|RB in|IN your|PRP$ life|NN </s>|S_END
+<s>|S_START somebody|NN helped|VBD to|TO create|VB this|DT unbelievable|JJ american|NN system|NN that|WDT we|PRP have|VBP that|IN allowed|VBN you|PRP to|TO thrive|VB </s>|S_END
+<s>|S_START somebody|NN invested|VBD in|IN roads|NNS and|CC bridges|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN youve|JJ got|NN a|DT business|NN you|PRP didnt|VBP build|VBN that|IN he|PRP continued|VBD </s>|S_END
+<s>|S_START somebody|NN else|RB made|VBN that|IN happen|JJ </s>|S_END
+<s>|S_START the|DT internet|NN didnt|NN get|NN invented|VBN on|IN its|PRP$ own|JJ </s>|S_END
+<s>|S_START government|NN research|NN created|VBD the|DT internet|NN so|RB that|IN all|DT the|DT companies|NNS could|MD make|VB money|NN off|IN the|DT internet|NN </s>|S_END
+<s>|S_START the|DT point|NN is|VBZ is|VBZ that|IN when|WRB we|PRP succeed|VBP we|PRP succeed|VBP because|IN of|IN our|PRP$ individual|JJ initiative|NN but|CC also|RB because|IN we|PRP do|VBP things|NNS together|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB put|VBN into|IN context|NN its|PRP$ clear|JJ obama|NN was|VBD referring|VBG to|TO infrastructure|VB and|CC societys|NNS role|NN in|IN every|DT persons|NNS successes|VBZ </s>|S_END
+</p>|P_END
+

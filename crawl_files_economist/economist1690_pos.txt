@@ -1,0 +1,37 @@
+<p>|P_START
+<s>|S_START inflation|NN is|VBZ creeping|VBG up|RP around|IN the|DT globe|NN </s>|S_END
+<s>|S_START but|CC in|IN many|JJ countries|NNS ordinary|JJ folk|NN as|IN well|RB as|IN investment|NN analysts|NNS suspect|VBP that|IN governments|NNS are|VBP fiddling|VBG the|DT figures|NNS for|IN political|JJ reasons|NNS and|CC that|IN the|DT true|JJ inflation|NN rate|NN is|VBZ much|RB higher|JJR than|IN officially|RB reported|VBN </s>|S_END
+<s>|S_START argentinas|NNS inflation|NN rate|NN is|VBZ the|DT hardest|JJS to|TO swallow|VB </s>|S_END
+<s>|S_START according|VBG to|TO the|DT government|NN consumer|NN prices|NNS rose|VBD by|IN 109|CD in|IN the|DT year|NN to|TO december|VB but|CC privatesector|NN economists|NNS estimate|VBP the|DT true|JJ increase|NN to|TO be|VB at|IN least|JJS twice|NN as|RB much|JJ </s>|S_END
+<s>|S_START in|IN china|NN too|RB many|JJ claim|NN that|WDT the|DT governments|NNS figures|NNS hugely|RB understate|JJ increases|NNS in|IN the|DT cost|NN of|IN living|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economists|NNS disagree|VBP on|IN the|DT best|JJS way|NN to|TO measure|VB consumerprice|NN inflation|NN </s>|S_END
+<s>|S_START how|WRB often|RB should|MD the|DT relative|JJ weights|NNS be|VB changed|VBN </s>|S_END
+<s>|S_START how|WRB should|MD one|CD take|VB account|NN of|IN quality|NN improvement|NN </s>|S_END
+<s>|S_START one|CD reason|NN why|WRB the|DT chinese|JJ may|MD think|VB their|PRP$ cost|NN of|IN living|NN is|VBZ rising|VBG so|RB quickly|RB is|VBZ that|IN consumers|NNS are|VBP moving|VBG upmarket—for|JJ example|NN from|IN the|DT local|JJ dumpling|NN stand|NN to|TO a|DT restaurant|NN </s>|S_END
+<s>|S_START that|DT increases|VBZ households|NNS spending|VBG but|CC is|VBZ not|RB inflation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP find|VBP the|DT theory|NN of|IN price|NN indices|NNS hard|RB to|TO digest|VB why|WRB not|RB rely|RB on|IN simple|JJ burgernomic|JJ </s>|S_END
+<s>|S_START the|DT economists|NNS big|JJ mac|NN index|NN was|VBD devised|VBN as|IN a|DT lighthearted|VBN gauge|NN to|TO whether|IN currencies|NNS are|VBP under|IN or|CC overvalued|VBN but|CC jonathan|IN anderson|NN an|DT economist|NN at|IN ubs|NNS suggests|NNS that|WDT it|PRP can|MD also|RB be|VB used|VBN to|TO crosscheck|VB official|JJ inflation|NN rate|NN </s>|S_END
+<s>|S_START consisting|VBG of|IN food|NN materials|NNS wages|NNS and|CC rent|NN the|DT mcdonalds|NNS big|JJ mac|NN offers|NNS a|DT handy|NN consumerprice|NN basket|NN whose|WP$ composition|NN has|VBZ hardly|RB changed|VBN over|IN time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP have|VBP compared|VBN prices|NNS late|JJ last|JJ year|NN with|IN those|DT ten|VBN years|NNS earlier|JJR in|IN a|DT selection|NN of|IN countrie|NN </s>|S_END
+<s>|S_START for|IN example|NN the|DT price|NN of|IN a|DT big|JJ mac|NN in|IN china|NN rose|VBD by|IN an|DT annual|JJ average|NN of|IN 37|CD against|IN the|DT reported|VBN inflation|NN rate|NN of|IN 23|CD </s>|S_END
+<s>|S_START is|VBZ this|DT evidence|NN that|IN the|DT government|NN is|VBZ underreporting|VBG inflation|NN </s>|S_END
+<s>|S_START not|RB necessarily|RB the|DT discrepancy|NN is|VBZ roughly|RB the|DT same|JJ as|IN in|IN america|NN see|NN chart|NN </s>|S_END
+<s>|S_START one|CD might|MD expect|VB burger|NN inflation|NN to|TO exceed|VB overall|JJ inflation|NN because|IN food|NN prices|NNS have|VBP risen|VBN faster|JJR than|IN other|JJ price|NN </s>|S_END
+<s>|S_START yet|RB in|IN russia|NN and|CC indonesia|NN big|JJ mac|NN prices|NNS rose|VBD by|IN a|DT lot|NN less|RBR than|IN the|DT official|NN price|NN index|NN possibly|RB suggesting|VBG that|IN the|DT governments|NNS figures|NNS overstate|VBP inflation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB burgernomics|NNS does|VBZ support|NN claims|VBZ that|IN argentinas|NNS government|NN is|VBZ cooking|VBG the|DT book|NN </s>|S_END
+<s>|S_START the|DT gap|NN between|IN its|PRP$ average|NN annual|JJ rate|NN of|IN burger|JJR inflation|NN 19|CD and|CC its|PRP$ official|NN rate|NN 10|CD is|VBZ far|RB bigger|JJR than|IN in|IN any|DT other|JJ country|NN </s>|S_END
+<s>|S_START its|PRP$ government|NN deserves|NNS a|DT good|JJ grilling|NN </s>|S_END
+</p>|P_END
+

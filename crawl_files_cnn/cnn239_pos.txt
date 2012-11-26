@@ -1,0 +1,58 @@
+<p>|P_START
+<s>|S_START even|RB if|IN your|PRP$ family|NN earns|NNS too|RB much|RB money|NN to|TO qualify|VB for|IN federal|JJ needbased|VBN aid|NN there|RB is|VBZ plenty|NN of|IN other|JJ aid|NN you|PRP might|MD qualify|VB for|IN thats|NNS based|VBN on|IN need|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN families|NNS earning|VBG more|JJR than|IN $|$ 45000|CD a|DT year|NN typically|RB dont|NN qualify|NN for|IN needbased|VBN federal|JJ aid|NN some|DT elite|NN schools|NNS like|IN yale|NN give|VBP their|PRP$ own|JJ needbased|VBN grants|NNS to|TO families|NNS earning|VBG $|$ 225000|CD or|CC even|RB more|RBR a|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START heres|NNS how|WRB to|TO determine|VB what|WDT you|PRP qualify|VBP for|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT government|NN and|CC colleges|NNS assess|NN need|VBP by|IN looking|VBG at|IN the|DT total|JJ cost|NN of|IN attendance|NN minus|NN what|WP they|PRP estimate|VBP your|PRP$ family|NN can|MD afford|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT estimate|NN which|WDT is|VBZ referred|VBN to|TO as|RB your|PRP$ expected|VBN family|NN contribution|NN efc|NN is|VBZ determined|VBN based|VBN on|IN the|DT information|NN you|PRP provide|VB when|WRB you|PRP fill|VBP out|RP the|DT free|JJ application|NN for|IN federal|JJ student|NN aid|NN fafsa|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START among|IN the|DT information|NN theyll|NN ask|NN for|IN is|VBZ your|PRP$ familys|NNS earnings|NNS as|IN well|RB as|IN the|DT amount|NN you|PRP have|VB in|IN savings|NNS or|CC investment|NN accounts|NNS </s>|S_END
+<s>|S_START the|DT only|JJ students|NNS who|WP dont|NN have|VBP to|TO provide|VB the|DT financial|JJ information|NN about|IN their|PRP$ parents|NNS are|VBP those|DT who|WP are|VBP over|IN 23|CD married|VBN parents|NNS themselves|PRP or|CC soldiers|NNS or|CC veterans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP calculators|NNS and|CC worksheets|NNS that|WDT can|MD help|VB you|PRP determine|VB your|PRP$ efc|NN </s>|S_END
+<s>|S_START for|IN more|JJR information|NN read|NN what|WP is|VBZ the|DT efc|NN </s>|S_END
+<s>|S_START or|CC visit|NN the|DT web|NN sites|VBZ of|IN the|DT us|PRP department|NN of|IN education|NN and|CC the|DT college|NN board|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN the|DT 201213|CD academic|JJ year|NN the|DT us|PRP department|NN of|IN education|NN expects|VBZ to|TO award|VB pell|NN grants|NNS to|TO students|NNS with|IN an|DT efc|NN below|IN $|$ 4995|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START college|NN aid|VBD officials|NNS adjust|VBP your|PRP$ federal|JJ efc|NN and|CC determine|NN how|WRB much|JJ financial|JJ aid|NN to|TO award|VB you|PRP depending|VBG upon|IN their|PRP$ own|JJ review|NN of|IN your|PRP$ finances|NNS </s>|S_END
+<s>|S_START many|JJ colleges|NNS will|MD calculate|VB their|PRP$ own|JJ efc|NN for|IN use|NN in|IN awarding|NN their|PRP$ own|JJ financial|JJ aid|NN </s>|S_END
+<s>|S_START you|PRP may|MD even|RB be|VB asked|VBN to|TO fill|VB out|RP the|DT college|NN boards|NNS cssfinancial|JJ aid|NN profile|NN which|WDT asks|VBZ for|IN even|RB more|JJR financial|JJ information|NN than|IN the|DT fafsa|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START just|RB keep|VBP in|IN mind|NN that|IN no|DT matter|NN what|WP efc|NN the|DT college|NN or|CC government|NN calculates|NNS no|DT college|NN or|CC university|NN is|VBZ required|VBN to|TO offer|VB you|PRP enough|RB grants|VBZ to|TO meet|VB your|PRP$ need|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN fact|NN only|RB a|DT few|JJ dozen|NN colleges|NNS in|IN the|DT us|PRP mostly|RB expensive|JJ elite|NN colleges|NNS such|JJ as|IN harvard|NN amherst|NN and|CC vanderbilt|NN promise|NN to|TO provide|VB enough|JJ grants|NNS to|TO meet|VB their|PRP$ estimate|NN of|IN your|PRP$ need|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT rest|NN including|VBG most|JJS public|JJ universities|NNS leave|VBP a|DT gap|NN that|WDT students|NNS must|MD fund|VB through|IN loans|NNS work|VBP merit|NN scholarships|NNS or|CC family|NN contributions|NNS </s>|S_END
+<s>|S_START the|DT average|JJ gap|NN between|IN the|DT average|NN students|NNS efc|NN and|CC the|DT total|JJ amount|NN of|IN grants|NNS the|DT student|NN receives|VBZ was|VBD about|IN $|$ 5800|CD in|IN 2008|CD the|DT most|RBS recent|JJ year|NN for|IN which|WDT data|NNS is|VBZ available|JJ according|VBG to|TO the|DT us|PRP department|NN of|IN education|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START next|JJ applying|NN for|IN financial|JJ aid |NN </s>|S_END
+</p>|P_END
+

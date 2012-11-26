@@ -1,0 +1,48 @@
+<p>|P_START
+<s>|S_START click|NN the|DT map|NN to|TO check|VB the|DT unemployment|NN rate|NN in|IN your|PRP$ state|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT unemployment|NN rate|NN rose|VBD in|IN 26|CD states|NNS last|JJ month|NN seven|CD of|IN which|WDT are|VBP key|JJ battleground|NN states|NNS critical|JJ in|IN the|DT presidential|JJ election|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nationwide|NN the|DT unemployment|NN rate|NN was|VBD 81|CD in|IN august|JJ but|CC the|DT job|NN market|NN differs|NNS dramatically|RB from|IN state|NN to|TO state|NN </s>|S_END
+<s>|S_START for|IN example|NN in|IN the|DT swing|NN state|NN of|IN michigan|NN the|DT jobless|NN rate|NN rose|VBD to|TO 94|CD in|IN august|JJ up|IN from|IN 9|CD a|DT month|NN earlier|RBR a|DT report|NN from|IN the|DT bureau|NN of|IN labor|NN statistics|NNS showed|VBD friday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN michigan|NN the|DT biggest|JJS job|NN losses|NNS occurred|VBD in|IN manufacturing|NN trade|NN and|CC transportation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nevada|NN another|DT election|NN tossup|NN registered|VBD the|DT highest|JJS unemployment|NN rate|NN in|IN the|DT country|NN at|IN 121|CD up|IN from|IN 12|CD in|IN july|RB as|IN employers|NNS in|IN the|DT state|NN continued|VBD to|TO cut|VB construction|NN jobs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START north|JJ carolinas|NNS unemployment|NN rate|NN ticked|VBD up|RP a|DT tenth|NN of|IN a|DT percentage|NN point|NN to|TO 97|CD also|RB as|IN construction|NN workers|NNS lost|VBD jobs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START jobless|NN rates|NNS in|IN other|JJ battleground|NN states|NNS including|VBG new|JJ hampshire|NN iowa|NN pennsylvania|NN and|CC wisconsin|NN also|RB rose|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN 12|CD states|NNS the|DT unemployment|NN rates|NNS fell|VBD in|IN august|NN </s>|S_END
+<s>|S_START only|RB two|CD colorado|NN and|CC new|JJ mexico|NN were|VBD swing|VBG states|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD housing|VBG improves|NNS in|IN hardhit|NN swing|NN states|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START north|JJ dakota|NN continues|VBZ to|TO have|VB the|DT lowest|JJS unemployment|NN rate|NN in|IN the|DT country|NN at|IN 3|CD </s>|S_END
+<s>|S_START polls|NNS show|VBP that|IN state|NN is|VBZ leaning|VBG in|IN favor|NN of|IN republican|JJ candidate|NN mitt|NN romney|NN </s>|S_END
+<s>|S_START a|DT rapid|JJ boost|NN in|IN energy|NN jobs|NNS related|VBN to|TO fracking|NN means|VBZ the|DT state|NN is|VBZ adding|VBG jobs|NNS at|IN rate|NN far|RB faster|JJR than|IN its|PRP$ population|NN growth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT 12|CD swing|VBG states|NNS in|IN the|DT presidential|JJ election|NN are|VBP considered|VBN to|TO be|VB colorado|RB florida|VB iowa|NN michigan|NN north|NN carolina|NN new|JJ hampshire|NN new|JJ mexico|NN nevada|NN ohio|NN pennsylvania|NN virginia|NN and|CC wisconsin|NN </s>|S_END
+</p>|P_END
+

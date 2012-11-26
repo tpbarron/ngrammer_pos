@@ -1,0 +1,67 @@
+<p>|P_START
+<s>|S_START twice|NN in|IN the|DT past|JJ four|CD years|NNS surges|NNS in|IN the|DT price|NN of|IN oil|NN have|VBP walloped|VBN the|DT world|NN economy|NN </s>|S_END
+<s>|S_START in|IN 2008|CD the|DT cost|NN of|IN a|DT barrel|NN of|IN brent|NN crude|NN soared|VBD to|TO $|$ 147|CD enfeebling|VBG global|JJ growth|NN even|RB before|IN the|DT financial|JJ crisis|NN killed|VBD it|PRP </s>|S_END
+<s>|S_START a|DT year|NN ago|IN supply|NN disruptions|NNS from|IN libya|NN sent|NN the|DT price|NN to|TO $|$ 127|CD enough|RB to|TO stall|VB americas|NNS nascent|NN recovery|NN </s>|S_END
+<s>|S_START with|IN oil|NN now|RB back|RB above|IN $|$ 120|CD a|DT barrel|NN and|CC tensions|NNS with|IN iran|JJ running|VBG high|JJ the|DT worries|NNS are|VBP back|RB </s>|S_END
+<s>|S_START will|MD an|DT oil|NN shock|NN once|RB again|RB upend|VBP the|DT global|JJ economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN now|RB the|DT answer|NN is|VBZ no|DT </s>|S_END
+<s>|S_START the|DT cost|NN of|IN crude|JJ is|VBZ back|RB where|WRB it|PRP caused|VBD trouble|JJ in|IN the|DT past|JJ </s>|S_END
+<s>|S_START but|CC global|JJ growth|NN is|VBZ affected|VBN less|JJR by|IN the|DT level|NN of|IN the|DT oil|NN price|NN than|IN the|DT rate|NN of|IN its|PRP$ rise|NN </s>|S_END
+<s>|S_START and|CC so|RB far|RB that|IN rise|NN has|VBZ been|VBN more|JJR modest|JJ </s>|S_END
+<s>|S_START a|DT barrel|NN of|IN crude|JJ costs|NNS some|DT 15|CD more|JJR than|IN it|PRP did|VBD at|IN the|DT beginning|NN of|IN the|DT year|NN </s>|S_END
+<s>|S_START in|IN the|DT first|JJ three|CD months|NNS of|IN 2011|CD the|DT oil|NN price|NN surged|VBD by|IN almost|RB 35|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nor|CC is|VBZ this|DT increase|NN entirely|RB a|DT result|NN of|IN actual|JJ or|CC feared|VBN problems|NNS with|IN supply|NN </s>|S_END
+<s>|S_START output|NN disruptions|NNS have|VBP indeed|VBN pushed|VBN up|RP price|NN </s>|S_END
+<s>|S_START richcountry|NN oil|NN stocks|NNS are|VBP at|IN a|DT fiveyear|JJ low|JJ and|CC saudi|NN arabia|NN the|DT only|JJ opec|NN producer|NN with|IN significant|JJ spare|NN capacity|NN is|VBZ already|RB pumping|VBG at|IN a|DT nearrecord|NN rate|NN see|NN article|NN </s>|S_END
+<s>|S_START but|CC part|NN of|IN the|DT recent|JJ rise|NN is|VBZ demandrelated|VBN </s>|S_END
+<s>|S_START the|DT world|NN economy|NN looks|VBZ less|JJR fragile|JJ than|IN it|PRP did|VBD at|IN the|DT beginning|NN of|IN the|DT year|NN as|IN the|DT odds|NNS of|IN an|DT imminent|JJ euro|NN catastrophe|NN have|VBP diminished|VBN and|CC americas|RB recovery|JJ looks|NNS to|TO be|VB on|IN stronger|JJR ground|NN </s>|S_END
+<s>|S_START the|DT optimism|NN about|IN global|JJ growth|NN that|WDT has|VBZ boosted|VBN share|NN prices|NNS has|VBZ also|RB buoyed|VBN the|DT oil|NN price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START till|NN this|DT is|VBZ no|DT cause|NN for|IN complacency|NN </s>|S_END
+<s>|S_START one|CD obvious|JJ risk|NN is|VBZ that|IN worries|NNS about|IN supply|RB increase|VB especially|RB if|IN relations|NNS with|IN iran|JJ deteriorate|NN to|TO the|DT point|NN of|IN an|DT iranian|JJ attempt|NN to|TO close|VB the|DT strait|NN of|IN hormuz|NN </s>|S_END
+<s>|S_START even|RB if|IN americas|NNS navy|VBP ensured|VBN that|IN such|JJ a|DT closure|NN did|VBD not|RB last|JJ long|RB the|DT potential|JJ disruption|NN would|MD be|VB great|JJ the|DT price|NN of|IN oil|NN rose|VBD by|IN 80|CD in|IN the|DT initial|JJ stages|NNS of|IN the|DT first|JJ gulf|NN war|NN </s>|S_END
+<s>|S_START an|DT oil|NN price|NN of|IN $|$ 200|CD is|VBZ yet|RB another|DT reason|NN for|IN america|NN to|TO steer|NN israel|NN away|RB from|IN an|DT attack|NN see|NN lexington|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT second|JJ risk|NN is|VBZ that|IN economic|JJ policymakers|NNS overreact|VBP even|RB to|TO the|DT relatively|RB modest|JJ price|NN rises|NNS so|RB far|RB </s>|S_END
+<s>|S_START the|DT european|JJ central|JJ bank|NN ecb|NN tends|NNS to|TO worry|VB more|JJR about|IN the|DT inflationary|JJ impact|NN of|IN dearer|NN oil|NN than|IN other|JJ richworld|NN central|JJ banks|NNS do|VBP not|RB least|JJS because|IN more|JJR wages|NNS in|IN europe|NN are|VBP automatically|RB indexed|VBN to|TO inflation|NN </s>|S_END
+<s>|S_START last|JJ year|NN it|PRP misguidedly|RB raised|VBD interest|NN rates|NNS in|IN response|NN to|TO costlier|VB oil|NN hardly|RB helping|VBG its|PRP$ weak|JJ economie|NN </s>|S_END
+<s>|S_START with|IN output|NN in|IN the|DT euro|NN zone|NN shrinking|VBG the|DT ecb|NN is|VBZ unlikely|JJ to|TO repeat|VB that|IN error|NN </s>|S_END
+<s>|S_START the|DT danger|NN this|DT time|NN is|VBZ that|IN the|DT rise|NN in|IN oil|NN prices|NNS will|MD deter|VB it|PRP from|IN easing|VBG monetary|JJ policy|NN further|RB </s>|S_END
+<s>|S_START that|DT would|MD be|VB a|DT mistake|NN </s>|S_END
+<s>|S_START inflation|NN is|VBZ far|RB less|JJR of|IN a|DT threat|NN than|IN a|DT deepening|NN recession|NN not|RB least|JJS because|IN the|DT weakest|JJS eurozone|NN economies|NNS are|VBP also|RB the|DT ones|NNS most|JJS dependent|JJ on|IN imported|VBN energy|NN </s>|S_END
+<s>|S_START the|DT right|NN european|NN response|NN to|TO dearer|VB oil|NN is|VBZ not|RB just|RB cheaper|JJR money|NN but|CC also|RB less|JJR draconian|JJ fiscal|JJ austerity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN emerging|NN markets|NNS rising|VBG oil|NN prices|NNS pose|VBP less|JJR of|IN an|DT inflationary|JJ threat|NN than|IN in|IN recent|JJ years|NNS both|DT because|IN their|PRP$ economies|NNS have|VBP cooled|VBN and|CC because|IN food|NN prices|NNS which|WDT make|VBP up|RP a|DT bigger|JJR part|NN of|IN inflation|NN indices|NNS in|IN the|DT emerging|NN world|NN have|VBP been|VBN stable|JJ </s>|S_END
+<s>|S_START but|CC dearer|NN oil|NN poses|NNS a|DT risk|NN to|TO those|DT energy|NN importers|NNS which|WDT still|RB fix|VBP the|DT price|NN of|IN fuel|NN product|NN </s>|S_END
+<s>|S_START india|NNS is|VBZ a|DT prime|JJ example|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ large|JJ currentaccount|NN and|CC budget|NN deficits|NNS and|CC subsidises|NNS the|DT prices|NNS of|IN kerosene|NN and|CC diesel|NN </s>|S_END
+<s>|S_START it|PRP should|MD resist|VB the|DT temptation|NN to|TO increase|VB those|DT subsidies|NNS in|IN response|NN to|TO costlier|VB oil|NN and|CC the|DT ruling|NN partys|VBZ drubbing|VBG in|IN elections|NNS this|DT week—see|JJ article|NN </s>|S_END
+<s>|S_START rather|RB to|TO reduce|VB its|PRP$ fiscal|JJ deficit|NN it|PRP should|MD summon|VB the|DT courage|NN to|TO cut|VB fuel|NN subsidies|NNS in|IN its|PRP$ budget|NN on|IN march|NN 16th|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START politician|JJ pump|NN prices|NNS poll|VBP panic|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START although|IN americas|NNS strengthening|VBG economy|NN is|VBZ better|RBR able|JJ to|TO weather|NN higher|JJR fuel|NN costs|NNS electionyear|VBP politics|NNS is|VBZ bound|VBN to|TO bring|VB pressure|NN to|TO “act”|NNP against|IN high|JJ petrol|NN price|NN </s>|S_END
+<s>|S_START one|CD misguided|VBD response|NN would|MD be|VB a|DT temporary|JJ cut|NN in|IN the|DT petrol|NN tax|NN in|IN an|DT economy|NN that|IN already|RB taxes|VBZ fuel|NN too|RB lightly|RB </s>|S_END
+<s>|S_START far|RB better|RBR to|TO use|VB the|DT next|JJ price|NN fall|NN as|IN an|DT opportunity|NN to|TO raise|VB the|DT tax|NN </s>|S_END
+<s>|S_START a|DT more|RBR dangerous|JJ idea|NN would|MD be|VB prematurely|RB to|TO release|VB supplies|NNS from|IN the|DT countrys|NNS strategic|JJ oil|NN reserves|NNS to|TO dampen|VB price|NN </s>|S_END
+<s>|S_START barack|NN obama|NN did|VBD that|IN last|JJ summer|NN the|DT president|NN will|MD doubtless|VB be|VB tempted|VBN to|TO do|VB so|RB again|RB if|IN petrol|NN prices|NNS rise|VBP much|RB further|RBR </s>|S_END
+<s>|S_START at|IN a|DT time|NN when|WRB there|EX is|VBZ a|DT risk|NN of|IN a|DT genuinely|RB big|JJ supply|NN disruption|NN from|IN iran|NN that|IN would|MD be|VB reckle|JJ </s>|S_END
+<s>|S_START the|DT odds|NNS of|IN averting|VBG a|DT 2012|CD oil|NN shock|NN depend|NN disproportionately|RB on|IN america|NN keeping|VBG its|PRP$ cool|NN both|DT at|IN home|NN and|CC abroad|RB </s>|S_END
+</p>|P_END
+

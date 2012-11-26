@@ -1,0 +1,78 @@
+<p>|P_START
+<s>|S_START when|WRB environmental|JJ activists|NNS start|VBP using|VBG drones|NNS to|TO track|VB down|RP japanese|JJ whaling|NN vessels|NNS as|IN they|PRP did|VBD in|IN december|NN it|PRP is|VBZ a|DT sure|NN sign|NN that|IN uavs|NNS unmanned|VBD aerial|JJ vehicles|NNS are|VBP no|DT longer|JJR the|DT sole|JJ prerogative|NN of|IN the|DT armed|VBN force|NN </s>|S_END
+<s>|S_START police|NN around|IN the|DT world|NN are|VBP keen|VBN to|TO use|VB small|JJ pilotless|NN aircraft|NN to|TO help|VB them|PRP nab|VB fleeing|VBG criminals|NNS and|CC monitor|NN crime|NN scenes|NNS from|IN above|IN </s>|S_END
+<s>|S_START with|IN price|NN tags|NNS of|IN a|DT little|RB more|RBR and|CC in|IN some|DT cases|NNS a|DT good|JJ deal|NN less|RBR than|IN the|DT $|$ 40000|CD of|IN a|DT patrol|NN car|NN a|DT new|JJ generation|NN of|IN microuavs|NNS is|VBZ being|VBG recruited|VBN to|TO replace|VB police|NN helicopters|NNS costing|VBG $|$ 17m|CD and|CC up|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START aside|NN from|IN helping|VBG enforce|NN the|DT law|NN any|DT civilian|JJ activity|NN that|WDT could|MD be|VB improved|VBN by|IN having|NN an|DT aerial|JJ view—monitoring|JJ traffic|NN checking|NN electricity|NN cables|NNS and|CC pipelines|NNS surveying|VBG forestry|NN and|CC crops|NNS taking|VBG aerial|JJ photographs|NNS patrolling|VBG wooded|VBN areas|NNS for|IN fire—would|JJ benefit|NN from|IN the|DT use|NN of|IN uav|NN </s>|S_END
+<s>|S_START the|DT limiting|NN factor|NN is|VBZ not|RB technological|JJ but|CC regulatory|JJ </s>|S_END
+<s>|S_START in|IN america|NN the|DT federal|JJ aviation|NN administration|NN faa|NN currently|RB allows|VBZ the|DT recreational|JJ use|NN of|IN drones|NNS but|CC not|RB commercial|JJ use|NN earlier|RBR this|DT year|NN estate|NN agents|NNS in|IN los|NNS angeles|NNS were|VBD banned|VBN from|IN using|VBG drones|NNS to|TO take|VB aerial|JJ photos|NNS of|IN properties|NNS they|PRP were|VBD selling|VBG for|IN example|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START change|NN is|VBZ coming|VBG however|RB </s>|S_END
+<s>|S_START the|DT european|JJ commission|NN has|VBZ held|VBN a|DT series|NN of|IN hearings|NNS on|IN the|DT subject|NN the|DT most|JJS recent|JJ on|IN february|JJ 9th|CD to|TO determine|VB a|DT regulatory|JJ framework|NN to|TO enable|JJ the|DT wider|NN use|NN of|IN uavs|NNS by|IN civilian|JJ </s>|S_END
+<s>|S_START in|IN america|NN a|DT bill|NN passed|VBN by|IN the|DT senate|NN on|IN february|JJ 6th|CD and|CC now|RB awaiting|VBG presidential|JJ approval|NN requires|VBZ the|DT faa|NN to|TO draw|VB up|RP new|JJ rules|NNS so|RB that|IN the|DT skies|NNS can|MD be|VB safely|RB opened|VBN to|TO drone|NN flights|NNS from|IN october|NN 2015|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT will|MD be|VB easier|JJR said|VBN than|IN done|NN </s>|S_END
+<s>|S_START how|WRB for|IN example|NN should|MD a|DT uav|NN respond|NN if|IN it|PRP loses|VBZ its|PRP$ communications|NNS link|VBP with|IN the|DT operator|NN on|IN the|DT ground|NN </s>|S_END
+<s>|S_START hould|MD it|PRP automatically|RB return|VBP to|TO some|DT preassigned|VBN location|NN or|CC head|NN for|IN the|DT nearest|JJS open|JJ space|NN </s>|S_END
+<s>|S_START hould|MD it|PRP have|VB a|DT parachute|NN arrangement—like|NN an|DT increasing|VBG number|NN of|IN private|JJ planes—to|JJ lower|NN it|PRP gently|RB to|TO the|DT ground|NN in|IN an|DT emergency|NN or|CC put|VB itself|PRP immediately|RB into|IN a|DT stall|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT question|NN is|VBZ how|WRB uavs|NNS should|MD detect|VB sense|NN and|CC avoid|VBD other|JJ aircraft|NN operating|VBG in|IN the|DT same|JJ airspace|NN </s>|S_END
+<s>|S_START o|NN far|RB the|DT faa|NN has|VBZ issued|VBN around|IN 300|CD temporary|JJ permits|NNS for|IN testing|NN drones|NNS in|IN airspace|NN where|WRB commercial|JJ air|NN traffic|NN and|CC private|JJ aircraft|NN operate|NN </s>|S_END
+<s>|S_START but|CC because|IN none|NN of|IN the|DT pilotless|NN aircraft|NN intended|VBD for|IN civilian|JJ use|NN can|MD yet|VB comply|RB with|IN the|DT faas|NNS “sense|JJ and|CC avoid”|JJ rules|NNS a|DT ground|NN observer|NN or|CC chase|VB aircraft|NN is|VBZ required|VBN to|TO keep|VB the|DT drone|NN in|IN sight|NN at|IN all|DT times|NNS to|TO act|VB as|IN its|PRP$ eye|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT faas|NNS rationale|VBP is|VBZ that|IN drones|NNS piloted|VBD remotely|RB by|IN operators|NNS on|IN the|DT ground|NN can|MD not|RB see|VB other|JJ aircraft|NN in|IN the|DT sky|NN in|IN the|DT way|NN airborne|NN pilots|NNS can|MD </s>|S_END
+<s>|S_START its|PRP$ preferred|VBN approach|NN is|VBZ for|IN uavs|NNS to|TO be|VB fitted|VBN with|IN equipment|NN to|TO avoid|VB midair|JJ collisions|NNS and|CC near|IN misse|NN </s>|S_END
+<s>|S_START one|CD solution|NN to|TO the|DT senseandavoid|JJ problem|NN is|VBZ to|TO use|VB an|DT array|NN of|IN lightweight|NN acoustic|JJ probes|NNS coupled|VBN to|TO a|DT signal|NN processor|NN </s>|S_END
+<s>|S_START by|IN filtering|NN out|IN wind|NN noise|NN this|DT setup|NN can|MD listen|VB for|IN and|CC locate|JJ other|JJ aircraft|NN in|IN the|DT sky—and|JJ then|RB transmit|NN avoidance|NN instructions|NNS to|TO the|DT drones|NNS operator|NN on|IN the|DT ground|NN or|CC enable|JJ it|PRP to|TO take|VB evasive|JJ action|NN itself|PRP </s>|S_END
+<s>|S_START one|CD such|JJ system|NN developed|VBD by|IN sara|NN a|DT contractresearch|NN firm|NN based|VBN in|IN cypress|NN california|NN weighs|NNS little|RB more|RBR than|IN eight|CD ounces|NNS 225|CD gram|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC given|VBN the|DT small|JJ size|NN of|IN many|JJ drones|NNS and|CC the|DT environments|NNS in|IN which|WDT they|PRP will|MD be|VB used|VBN requiring|VBG them|PRP all|DT to|TO have|VB elaborate|JJ senseandavoid|JJ systems|NNS may|MD be|VB overkill|RB </s>|S_END
+<s>|S_START the|DT majority|NN of|IN pilotless|NN planes|NNS that|WDT civilian|JJ agencies|NNS have|VBP their|PRP$ eyes|NNS on|IN are|VBP little|JJ bigger|NN than|IN model|NN aircraft|NN and|CC weigh|JJ much|JJ the|DT same|JJ </s>|S_END
+<s>|S_START one|CD that|WDT is|VBZ fancied|VBN by|IN americas|NNS 18000|CD police|NNS forces|NNS is|VBZ a|DT pilotless|NN helicopter|NN called|VBN the|DT qube|NN </s>|S_END
+<s>|S_START this|DT fourrotor|NN craft|NN made|VBD by|IN aerovironment|NN of|IN monrovia|NN california|NN weighs|NNS in|IN at|IN 55lb|CD 25kg|CD and|CC fits|NNS easily|RB in|IN the|DT boot|NN of|IN a|DT car|NN </s>|S_END
+<s>|S_START it|PRP can|MD be|VB assembled|VBN in|IN minutes|NNS to|TO provide|VB an|DT immediate|JJ eye|NN in|IN the|DT sky|NN capable|JJ of|IN staying|NN aloft|NN for|IN 40|CD minutes|NNS at|IN a|DT time|NN after|IN which|WDT its|PRP$ battery|NN needs|VBZ recharging|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT qube|NN and|CC similarly|RB sized|VBD drones|NNS have|VBP about|IN the|DT same|JJ kinetic|JJ energy|NN as|IN a|DT large|JJ bird|NN </s>|S_END
+<s>|S_START in|IN other|JJ words|NNS the|DT threat|NN they|PRP pose|VBP to|TO other|JJ planes|NNS in|IN the|DT sky|NN and|CC property|NN on|IN the|DT ground|NN is|VBZ akin|JJ to|TO a|DT bird|NN strike|NN </s>|S_END
+<s>|S_START that|DT is|VBZ not|RB to|TO be|VB taken|VBN lightly|RB but|CC is|VBZ something|NN society|NN has|VBZ learned|VBN to|TO live|VB with|IN </s>|S_END
+<s>|S_START moreover|RB such|JJ drones|NNS are|VBP expected|VBN to|TO fly|RB well|RB below|IN 400|CD feet|NNS 120|CD metres|NNS and|CC probably|RB like|IN the|DT rules|NNS governing|VBG model|NN aircraft|NN no|DT closer|NN than|IN 3|CD miles|NNS 5km|CD from|IN an|DT airport|NN </s>|S_END
+<s>|S_START that|DT is|VBZ not|RB exactly|RB class|NN a|DT airspace|NN used|VBN by|IN commercial|JJ air|NN traffic|NN making|VBG lifethreatening|NN midair|NN collisions|NNS unlikely|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nowhere|RB to|TO hide|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START afety|NN is|VBZ not|RB the|DT only|JJ concern|NN associated|VBN with|IN the|DT greater|JJR use|NN of|IN civilian|JJ drones|NNS however|RB </s>|S_END
+<s>|S_START there|EX is|VBZ also|RB the|DT question|NN of|IN privacy|NN </s>|S_END
+<s>|S_START in|IN america|NN at|IN least|JJS neither|DT the|DT constitution|NN nor|CC common|JJ law|NN prohibits|VBZ the|DT police|NN the|DT media|NNS or|CC anyone|NN else|RB from|IN operating|VBG surveillance|NN drone|NN </s>|S_END
+<s>|S_START as|IN the|DT law|NN stands|VBZ citizens|NNS do|VBP not|RB have|VB a|DT reasonable|JJ expectation|NN of|IN privacy|NN in|IN a|DT public|JJ place|NN </s>|S_END
+<s>|S_START that|DT includes|VBZ parts|NNS of|IN their|PRP$ own|JJ backyards|NNS that|WDT are|VBP visible|JJ from|IN a|DT public|JJ vantage|NN point|NN including|VBG the|DT sky|NN </s>|S_END
+<s>|S_START the|DT supreme|NN court|NN has|VBZ been|VBN very|RB clear|JJ on|IN the|DT matter|NN </s>|S_END
+<s>|S_START the|DT american|NN civil|NN liberties|NNS union|NN a|DT campaign|NN group|NN says|VBZ drones|NNS raise|VBP “very|JJ serious|JJ privacy|NN issues”|NN and|CC are|VBP pushing|VBG america|NN “willynilly|RB toward|IN an|DT era|NN of|IN aerial|JJ surveillance|NN without|IN any|DT steps|NNS to|TO protect|VB the|DT traditional|JJ privacy|NN that|WDT americans|VBZ have|VBP always|RB enjoyed|VBN and|CC expected”|NNP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT aclus|NN main|NN worry|NN is|VBZ the|DT use|NN of|IN drones|NNS for|IN surveillance|NN by|IN the|DT police|NN </s>|S_END
+<s>|S_START that|DT is|VBZ a|DT legitimate|NN concern|NN but|CC it|PRP is|VBZ not|RB hard|RB to|TO imagine|VB other|JJ ways|NNS in|IN which|WDT uavs|NNS will|MD erode|VB privacy|NN </s>|S_END
+<s>|S_START given|VBN the|DT rapid|JJ progress|NN being|VBG made|VBN in|IN the|DT field|NN how|WRB long|JJ before|IN paparazzi|NN photographers|NNS are|VBP sending|VBG insectlike|IN drones|NNS to|TO peek|VB through|IN celebrities|NNS windows|VBZ for|IN example|NN </s>|S_END
+<s>|S_START or|CC think|VBP of|IN the|DT possibilities|NNS for|IN the|DT use|NN of|IN drones|NNS in|IN industrial|JJ espionage|NN </s>|S_END
+<s>|S_START given|VBN their|PRP$ potential|JJ for|IN legitimate|JJ use|NN in|IN law|NN enforcement|NN agriculture|NN disaster|NN recovery|NN construction|NN and|CC security|NN it|PRP seems|VBZ likely|JJ that|IN thousands|NNS of|IN drones|NNS will|MD take|VB to|TO the|DT air|NN in|IN the|DT coming|VBG year|NN </s>|S_END
+<s>|S_START but|CC expect|VBP the|DT lawsuits|NNS to|TO fly|RB too|RB </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,90 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN student|NN loans|NNS have|VBP more|JJR than|IN tripled|VBD over|IN the|DT past|JJ decade|NN according|VBG to|TO new|JJ data|NNS from|IN the|DT federal|JJ reserve|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START student|NN loan|NN debt|NN hit|VBD $|$ 904|CD billion|CD in|IN the|DT first|JJ quarter|NN of|IN 2012|CD up|IN from|IN $|$ 241|CD billion|CD a|DT decade|NN ago|IN according|VBG to|TO the|DT federal|JJ reserve|NN bank|NN of|IN new|JJ york|NN quarterly|RB household|JJ debt|NN report|NN </s>|S_END
+<s>|S_START thats|NNS up|IN 275|CD since|IN the|DT same|JJ period|NN in|IN 2003|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START students|NNS continued|VBD heaping|VBG on|IN debt|NN throughout|IN the|DT economic|JJ downturn|NN even|RB as|IN americans|NNS cut|VBD back|RB on|IN other|JJ forms|NNS of|IN credit|NN such|JJ as|IN mortgages|NNS and|CC credit|NN cards|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP remains|VBZ the|DT only|JJ form|NN of|IN consumer|NN debt|NN to|TO substantially|RB increase|VB since|IN the|DT peak|NN of|IN household|NN debt|NN in|IN late|JJ 2008|CD said|VBD donghoon|NN lee|NN senior|JJ economist|NN at|IN the|DT ny|NN fed|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START since|IN that|DT peak|NN student|NN loan|NN debt|NN has|VBZ shot|VBN up|RP $|$ 293|CD billion|CD while|IN other|JJ debts|NNS fell|VBD a|DT combined|VBN $|$ 153|CD trillion|CD </s>|S_END
+<s>|S_START student|NN loans|NNS have|VBP been|VBN the|DT second|JJ highest|JJS form|NN of|IN consumer|NN debt|NN since|IN the|DT second|JJ quarter|NN of|IN 2010|CD behind|IN mortgages|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START americans|NNS are|VBP also|RB increasingly|RB falling|VBG behind|IN on|IN their|PRP$ student|NN loans|NNS </s>|S_END
+<s>|S_START longterm|NN delinquency|NN rates|NNS now|RB stand|VBP at|IN 869|CD up|IN from|IN 613|CD a|DT decade|NN ago|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS higher|JJR than|IN the|DT delinquency|NN rates|NNS of|IN mortgages|NNS auto|NN loans|NNS and|CC home|NN equity|NN lines|NNS of|IN credit|NN but|CC still|RB down|RP from|IN a|DT peak|NN of|IN 917|CD in|IN the|DT third|JJ quarter|NN of|IN 2010|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC its|PRP$ likely|JJ that|IN the|DT true|JJ delinquency|NN rate|NN on|IN student|NN loans|NNS is|VBZ even|RB higher|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT delinquency|NN rates|NNS for|IN student|NN loans|NNS are|VBP likely|JJ to|TO understate|VB actual|JJ delinquency|NN rates|NNS because|IN almost|RB half|DT of|IN these|DT loans|NNS are|VBP currently|RB in|IN deferment|NN or|CC in|IN grace|NN periods|NNS said|VBD wilbert|NN van|NN der|NN klaauw|NN a|DT fed|JJ economist|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START borrowers|NNS who|WP are|VBP unemployed|VBN or|CC still|RB in|IN school|NN dont|NN have|VBP to|TO repay|VB the|DT debt|NN right|RB away|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT explosion|NN in|IN debt|NN has|VBZ led|VBN many|JJ to|TO warn|VB of|IN a|DT looming|NN student|NN loan|NN crisis|NN though|IN other|JJ experts|NNS say|VBP that|IN education|NN debt|NN is|VBZ manageable|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT median|JJ student|NN loan|NN balance|NN is|VBZ $|$ 12800|CD according|VBG to|TO a|DT separate|JJ fed|VBN report|NN </s>|S_END
+<s>|S_START about|IN onequarter|JJR of|IN borrowers|NNS owe|VBP more|JJR than|IN $|$ 28000|CD and|CC about|IN 10|CD owe|NN more|JJR than|IN $|$ 54000|CD </s>|S_END
+<s>|S_START only|RB 31|CD owe|NN more|JJR than|IN $|$ 100000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT experts|NNS point|VBP to|TO an|DT increase|NN in|IN the|DT number|NN of|IN students|NNS attending|VBG college|NN as|IN one|CD reason|NN why|WRB loans|NNS are|VBP on|IN the|DT rise|NN </s>|S_END
+<s>|S_START its|PRP$ common|JJ for|IN enrollments|NNS to|TO rise|VB during|IN economic|JJ downturns|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START borrowing|VBG is|VBZ also|RB up|IN as|IN the|DT cost|NN of|IN college|NN rises|NNS </s>|S_END
+<s>|S_START some|DT 90|CD of|IN new|JJ student|NN lending|VBG comes|NNS from|IN the|DT federal|JJ government|NN and|CC the|DT amount|NN undergraduates|VBZ can|MD borrow|VB is|VBZ generally|RB capped|VBN at|IN $|$ 31000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START students|NNS are|VBP also|RB rushing|VBG to|TO take|VB out|RP debt|NN for|IN the|DT coming|VBG year|NN </s>|S_END
+<s>|S_START if|IN congress|NN does|VBZ not|RB act|VB interest|NN rates|NNS on|IN federal|JJ student|NN loans|NNS which|WDT were|VBD temporarily|RB held|VBN at|IN a|DT low|JJ 34|CD will|MD revert|VB back|RB to|TO 68|CD for|IN the|DT 20122013|CD school|NN year|NN starting|VBG july|RB 1|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START overall|JJ total|NN consumer|NN debt|NN fell|VBD slightly|RB in|IN the|DT first|JJ quarter|NN to|TO $|$ 114|CD trillion|CD a|DT reduction|NN of|IN $|$ 100|CD billion|CD </s>|S_END
+<s>|S_START aside|NN from|IN student|NN loans|NNS debt|NN levels|NNS remained|VBD steady|JJ or|CC rose|VBD slightly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mortgage|NN originations|NNS increased|VBD $|$ 412|CD billion|CD in|IN the|DT first|JJ quarter|NN of|IN 2012|CD but|CC are|VBP still|RB 174|CD lower|JJR than|IN a|DT year|NN ago|IN </s>|S_END
+<s>|S_START mortgage|NN balances|NNS fell|VBD $|$ 81|CD billion|CD or|CC 1|CD and|CC home|NN equity|NN lines|NNS of|IN credit|NN fell|VBD $|$ 15|CD billion|CD or|CC 24|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT number|NN of|IN open|JJ credit|NN card|NN accounts|NNS held|VBD steady|JJ at|IN 386|CD million|CD with|IN a|DT total|JJ balance|NN of|IN $|$ 679|CD billion|CD both|DT about|IN 22|CD below|IN the|DT 2008|CD peak|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START auto|NN loan|NN originations|NNS rose|VBD 21|CD to|TO $|$ 72|CD billion|CD 436|CD above|IN its|PRP$ first|JJ quarter|NN 2009|CD trough|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START total|JJ delinquencies|NNS continued|VBD their|PRP$ downward|NN slope|NN with|IN some|DT 93|CD of|IN outstanding|JJ debt|NN in|IN delinquency|NN down|IN from|IN 98|CD a|DT quarter|NN ago |NN </s>|S_END
+</p>|P_END
+

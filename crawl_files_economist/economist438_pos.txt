@@ -1,0 +1,65 @@
+<p>|P_START
+<s>|S_START from|IN germany|DT to|TO germany|DT diary|JJ 1990|CD </s>|S_END
+<s>|S_START by|IN günter|JJ gra|NN </s>|S_END
+<s>|S_START translated|VBD by|IN krishna|NN winston|NN </s>|S_END
+<s>|S_START houghton|NN mifflin|NN harcourt|NN 264|CD pages|NNS $|$ 24|CD </s>|S_END
+<s>|S_START harvill|NN secker|NN £1599|-NONE- </s>|S_END
+<s>|S_START buy|NN from|IN amazoncom|NN amazoncouk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START roads|NNS to|TO berlin|VB detours|NNS and|CC riddles|NNS in|IN the|DT lands|NNS and|CC history|NN of|IN germany|NN </s>|S_END
+<s>|S_START by|IN cees|NNS nooteboom|VBP </s>|S_END
+<s>|S_START translated|VBD by|IN laura|NN watkinson|NN </s>|S_END
+<s>|S_START maclehose|NN press|NN 352|CD pages|NNS £20|-NONE- </s>|S_END
+<s>|S_START buy|NN from|IN amazoncouk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START does|VBZ germany|NN “know|-NONE- what|WP it|PRP wants|VBZ to|TO be|VB when|WRB it|PRP is|VBZ big”|-NONE- the|DT question|NN is|VBZ as|IN pertinent|NN now|RB as|IN it|PRP was|VBD when|WRB cees|NNS nooteboom|VBP a|DT dutch|NN writer|NN posed|VBD it|PRP shortly|RB after|IN the|DT fall|NN of|IN the|DT berlin|NN wall|NN </s>|S_END
+<s>|S_START in|IN the|DT early|JJ months|NNS of|IN 1990|CD furious|JJ debate|NN raged|VBD in|IN germany|NN over|IN the|DT morality|NN and|CC necessity|NN of|IN reunifying|VBG east|JJ and|CC west|JJS </s>|S_END
+<s>|S_START twenty|NN years|NNS on|IN that|DT debate|NN still|RB resonate|JJ </s>|S_END
+<s>|S_START the|DT european|JJ economy|NN is|VBZ in|IN tatters|NNS and|CC resentment|NN of|IN the|DT german|NN powerhouse|NN as|IN the|DT continent’s|NNP paymaster|NN is|VBZ on|IN the|DT rise|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT mr|NN nooteboom|NN a|DT respected|VBN novelist|NN and|CC travel|NN writer|NN and|CC günter|JJ grass|NN a|DT german|NN nobel|NN laureate|NN originally|RB published|VBD their|PRP$ accounts|NNS to|TO mark|VB the|DT 20th|JJ anniversary|NN of|IN reunification|NN in|IN 2009|CD </s>|S_END
+<s>|S_START both|DT books|NNS are|VBP now|RB coming|VBG out|RP in|IN english|JJ for|IN the|DT first|JJ time|NN </s>|S_END
+<s>|S_START mr|NN grass’s|NNS polemical|JJ diary|NN covers|NNS 1990|CD a|DT year|NN he|PRP devoted|VBD to|TO arguing|NN against|IN the|DT unity|NN package|NN devised|VBD by|IN helmut|NN kohl|NN and|CC approved|VBD by|IN the|DT east|JJ german|NN people|NNS </s>|S_END
+<s>|S_START mr|NN nooteboom’s|NNS is|VBZ a|DT more|RBR discursive|JJ ramble|JJ through|IN german|JJ identity|NN and|CC history|NN </s>|S_END
+<s>|S_START reunification|NN though|IN accomplished|JJ with|IN “indecent|JJ haste”|NN was|VBD he|PRP believes|VBZ both|DT inevitable|JJ and|CC necessary|JJ to|TO complete|JJ the|DT continent’s|JJ recovery|NN from|IN the|DT second|JJ world|NN war|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START not|RB so|RB fast|RB says|VBZ mr|NN grass|NN a|DT selfdescribed|VBN “notorious|JJ pessimist”|NN who|WP told|VBD die|VB zeit|NN a|DT weekly|JJ newspaper|NN that|WDT history|NN had|VBD proved|VBN him|PRP right|RB </s>|S_END
+<s>|S_START the|DT neocolonial|JJ “annexation”|NN of|IN the|DT german|NN democratic|JJ republic|JJ gdr—anschluss|JJ is|VBZ the|DT loaded|VBN german|NN term—would|MD produce|VB catastrophe|PRP for|IN the|DT east|JJ germans|NNS he|PRP warned|VBD at|IN the|DT time|NN </s>|S_END
+<s>|S_START the|DT real|JJ outcome|NN has|VBZ been|VBN more|JJR nuanced|VBN </s>|S_END
+<s>|S_START by|IN some|DT measures|NNS east|VBP germans|NNS have|VBP caught|VBN up|RP with|IN their|PRP$ western|JJ neighbours|NNS earnings|NNS are|VBP nearly|RB equal|JJ in|IN some|DT cities|NNS and|CC the|DT environment|NN has|VBZ been|VBN transformed|VBN </s>|S_END
+<s>|S_START it|PRP is|VBZ nonetheless|RB true|JJ that|IN the|DT former|JJ gdr|NN remains|VBZ on|IN an|DT “intravenous|JJ drip”|NN from|IN berlin|NN dependent|NN on|IN massive|JJ aid|NN to|TO support|VB a|DT 20|CD unemployment|NN rate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START where|WRB mr|NN grass|NN was|VBD prescient|JJ is|VBZ in|IN predicting|NN the|DT emergence|NN of|IN “secondclass|JJ germans”|NN in|IN the|DT east|JJ </s>|S_END
+<s>|S_START in|IN a|DT recent|JJ poll|NN twothirds|NNS of|IN easterners|NNS said|VBD they|PRP still|RB feel|VBP this|DT way|NN whereas|VBZ the|DT majority|NN of|IN westerners|NNS resent|VBP the|DT costs|NNS they|PRP have|VBP had|VBN to|TO bear|VB </s>|S_END
+<s>|S_START lower|JJR reunification|NN might|MD well|RB have|VB forestalled|VBN the|DT steamrollering|NN of|IN the|DT east|JJ german|NN economy|NN as|IN mr|NN grass|NN argued|VBD two|CD decades|NNS ago|RB </s>|S_END
+<s>|S_START yet|RB at|IN the|DT time|NN he|PRP offered|VBD little|JJ evidence|NN and|CC came|VBD across|IN mainly|RB as|IN a|DT killjoy|NN with|IN nothing|NN good|JJ to|TO say|VB about|IN the|DT east|JJ germans’|NN selfliberation|NN </s>|S_END
+<s>|S_START mr|NN grass’s|NNS moral|JJ authority|NN has|VBZ since|IN been|VBN undermined|VBN by|IN revelations|NNS that|IN he|PRP concealed|VBD his|PRP$ wartime|NN service|NN in|IN a|DT branch|NN of|IN the|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN nooteboom|NN is|VBZ a|DT more|RBR congenial|JJ and|CC informative|JJ guide|NN to|TO that|DT momentous|JJ time|NN </s>|S_END
+<s>|S_START his|PRP$ berlin|NN reportage|NN from|IN a|DT 1963|CD khrushchev|NN rally|RB in|IN east|JJ berlin|NN to|TO the|DT tearing|NN down|IN of|IN the|DT palast|JJ der|NN republik|NN brilliantly|RB captures|VBZ the|DT intensity|NN of|IN the|DT capital|NN and|CC its|PRP$ “associated|JJ layers|NNS of|IN memory”|JJ in|IN november|NN 1989|CD while|IN the|DT “pneumatic|JJ drills|NNS are|VBP banging|VBG the|DT first|JJ holes|NNS through|IN the|DT wall”|NNP he|PRP notes|VBZ that|IN “at|JJ the|DT palast|NN hotel|NN in|IN east|JJ berlin|NN a|DT palmcourt|NN ensemble|JJ in|IN dinner|NN jackets|NNS plays|VBZ to|TO an|DT audience|NN of|IN bulgarians|NNS and|CC koreans”|JJ the|DT reader|NN travels|NNS with|IN him|PRP through|IN the|DT landscape|NN and|CC very|RB idea|NN of|IN the|DT german|NN nation|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ a|DT young|JJ country|NN yearning|VBG for|IN the|DT settled|VBN unity|NN of|IN an|DT england|NN or|CC a|DT france|NN he|PRP writes|VBZ in|IN a|DT voice|NN that|WDT blends|VBZ the|DT acuity|NN of|IN martha|NN gellhorn|NN with|IN the|DT meditative|JJ grace|NN of|IN wg|NN </s>|S_END
+<s>|S_START ebald|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT accounts|NNS are|VBP steeped|VBN in|IN memories|NNS of|IN the|DT second|JJ world|NN war|NN </s>|S_END
+<s>|S_START fear|NN of|IN resurgent|NN german|NN nationalism|NN is|VBZ never|RB far|RB from|IN mr|NN grass’s|NNS mind|VBP </s>|S_END
+<s>|S_START nor|CC is|VBZ mr|JJ nooteboom|NN entirely|RB sanguine|JJ </s>|S_END
+<s>|S_START in|IN a|DT piece|NN written|VBN earlier|JJR this|DT year|NN he|PRP begged|VBD germans|NNS to|TO look|VB beyond|IN the|DT “sacred|JJ piggy|NN bank”|NN and|CC remember|NN how|WRB much|JJ they|PRP owe|VBP the|DT european|JJ union|NN for|IN their|PRP$ own|JJ liberation|NN from|IN a|DT shameful|JJ past|NN </s>|S_END
+<s>|S_START chancellor|NN angela|NN merkel|NN in|IN athens|NNS last|JJ month|NN appeared|VBD to|TO heed|VB the|DT message|NN </s>|S_END
+<s>|S_START “i|NN am|VBP not|RB a|DT teacher|NN to|TO give|VB lessons”|JJ she|PRP told|VBD the|DT greek|NN </s>|S_END
+<s>|S_START “i|NN come|VBN from|IN east|JJ germany|NN and|CC i|PRP know|VBP how|WRB long|JJ it|PRP takes|VBZ to|TO build|VB reform”|JJ </s>|S_END
+</p>|P_END
+

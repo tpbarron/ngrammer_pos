@@ -1,0 +1,38 @@
+<p>|P_START
+<s>|S_START money|NN magazine|NN got|VBD the|DT urge|NN to|TO splurge|VB on|IN a|DT shiny|NN new|JJ ride|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nows|NNS your|PRP$ chance|NN to|TO swap|VB your|PRP$ old|JJ vehicle|NN for|IN this|DT years|NNS model|VBP </s>|S_END
+<s>|S_START because|IN of|IN usedcar|NN shortages|NNS and|CC newcar|NN incentives|NNS the|DT price|NN gap|NN between|IN new|JJ and|CC used|VBN cars|NNS has|VBZ sharply|RB narrowed|VBN over|IN the|DT past|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START two|CD to|TO fiveyearold|VB vehicles|NNS jumped|VBD 10|CD in|IN value|NN since|IN a|DT year|NN ago|IN according|VBG to|TO the|DT national|JJ automobile|NN dealers|NNS association|NN newcar|NN prices|NNS after|IN deals|NNS are|VBP up|RB a|DT mere|JJ 2|CD says|VBZ edmundscom|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START drying|VBG up|IN the|DT used|VBN supply|NN are|VBP smaller|JJR rentalcar|NN fleets|NNS and|CC individuals|NNS inclination|NN to|TO drive|VB cars|NNS longer|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START buying|VBG a|DT new|JJ car|NN </s>|S_END
+<s>|S_START send|NN the|DT help|NN desk|NN your|PRP$ questions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tradein|NN values|NNS are|VBP up|RP especially|RB for|IN newer|JJR fuelefficient|NN models|NNS reports|NNS kbbcom|VBP </s>|S_END
+<s>|S_START newcar|NN deals|NNS are|VBP fueled|VBN by|IN japanese|JJ automakers|NNS trying|VBG to|TO reclaim|VB preearthquake|NN market|NN share|NN and|CC us|PRP firms|NNS unloading|VBG gashungry|NN stock|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN for|IN example|NN a|DT new|JJ toyota|NN prius|NN costs|NNS just|RB 24|CD more|RBR than|IN a|DT twoyearold|NN used|VBN one|CD a|DT year|NN ago|IN that|DT gap|NN was|VBD 48|CD according|VBG to|TO autotradercom|VB </s>|S_END
+<s>|S_START a|DT new|JJ acura|NN tl|NN is|VBZ 37|CD more|RBR than|IN a|DT used|VBN model|NN vs|NNS 56|CD more|JJR last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN the|DT best|JJS tradein|NN go|RB to|TO independent|JJ usedcar|NN dealers|NNS itching|VBG for|IN inventory|NN or|CC to|TO dealers|NNS for|IN the|DT brand|NN youre|NN selling|VBG not|RB buying|VBG they|PRP can|MD unload|VB your|PRP$ auto|NN more|JJR easily|RB says|VBZ jonathan|IN banks|NNS analyst|NN at|IN nada|NN used|VBN car|NN guide|NN </s>|S_END
+<s>|S_START youll|NN be|VB on|IN your|PRP$ way|NN to|TO new|JJ wheels|NNS for|IN the|DT new|JJ year|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

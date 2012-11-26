@@ -1,0 +1,49 @@
+<p>|P_START
+<s>|S_START mr|NN penumbra’s|NNS 24hour|CD bookstore|NN </s>|S_END
+<s>|S_START by|IN robin|NN sloan|NN </s>|S_END
+<s>|S_START farrar|NN straus|VBZ and|CC giroux|NN 288|CD pages|NNS $|$ 25|CD </s>|S_END
+<s>|S_START buy|NN from|IN amazoncom|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB clay|NN jannon|NN a|DT young|JJ webdesigner|NN from|IN san|NN francisco|NN gets|NNS laid|VBD off|RP he|PRP takes|VBZ a|DT job|NN at|IN mr|NN penumbra’s|NNS roundtheclock|VBP bookshop|NN </s>|S_END
+<s>|S_START during|IN his|PRP$ night|NN shift|NN eccentric|NN visitors|NNS exchange|NN ancient|NN leatherbound|NN tomes|VBZ written|VBN in|IN code|NN from|IN a|DT towering|NN library|NN at|IN the|DT back|NN of|IN the|DT shop|NN </s>|S_END
+<s>|S_START clay|NN must|MD record|VB the|DT appearance|NN and|CC manner|NN of|IN each|DT nocturnal|JJ guest|NN </s>|S_END
+<s>|S_START o|NN far|RB so|RB curiou|PRP </s>|S_END
+<s>|S_START he|PRP learns|VBZ that|IN they|PRP are|VBP members|NNS of|IN the|DT unbroken|NN spine|NN a|DT secret|NN group|NN of|IN bibliophiles|NNS working|VBG to|TO crack|VB a|DT 500yearold|JJ code|NN set|NN down|IN by|IN aldus|NN manutius|VBZ a|DT venetian|JJ publisher|NN </s>|S_END
+<s>|S_START they|PRP believe|VBP the|DT answer|NN will|MD lead|VB to|TO immortality|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START clay|NN believes|NNS computer|NN power|NN will|MD solve|VB the|DT puzzle|NN in|IN seconds|NNS rather|RB than|IN centurie|NN </s>|S_END
+<s>|S_START he|PRP recruits|VBZ a|DT codecracking|NN gang—his|NN girlfriend|NN kat|NN who|WP works|NNS at|IN google|JJ and|CC his|PRP$ best|JJS friend|NN neel|NN a|DT silicon|NN valley|NN ceo|NN </s>|S_END
+<s>|S_START the|DT adventure|NN takes|VBZ them|PRP from|IN mr|NN penumbra’s|NNS mysterious|JJ shop|NN to|TO google’s|NNP rainbow|NN campus|VBZ and|CC on|IN to|TO a|DT subterranean|JJ reading|NN room|NN in|IN new|JJ york|NN the|DT group’s|JJ clandestine|NN headquarter|NN </s>|S_END
+<s>|S_START robin|NN sloan|VBD cleverly|RB combines|VBZ the|DT antiquated|VBN world|NN of|IN bibliophilia|NN with|IN the|DT pulsating|VBG age|NN of|IN digital|JJ technology|NN finding|NN curiosity|NN and|CC joy|NN in|IN both|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP makes|VBZ bits|NNS and|CC bytes|NNS appear|VBP beautiful|JJ </s>|S_END
+<s>|S_START google|NN employees|NNS “make|VBP crosses|NNS and|CC spirals|NNS and|CC galaxies|NNS of|IN colour|PRP$ dance|NN across|IN the|DT screens”|NN </s>|S_END
+<s>|S_START mr|NN sloan|VBD combines|NNS timeseries|NNS visualisation|NN and|CC venetian|JJ typography|NN with|IN ease|NN </s>|S_END
+<s>|S_START there|EX is|VBZ a|DT healthy|JJ dose|NN of|IN adventure|NN too|RB </s>|S_END
+<s>|S_START every|DT quest|NN needs|VBZ a|DT warrior|JJ a|DT wizard|NN and|CC a|DT rogue|NN the|DT reader|NN is|VBZ told|VBN </s>|S_END
+<s>|S_START the|DT rebels’|NN journey|NN to|TO crack|VB the|DT code—grappling|JJ with|IN an|DT ancient|JJ cult|NN using|VBG secret|NN passwords|NNS and|CC hidden|VBN doorways—will|-NONE- excite|RB anyone’s|JJ inner|NN child|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC this|DT is|VBZ no|DT fantasy|NN yarn|NN </s>|S_END
+<s>|S_START mr|NN sloan|VBD tethers|NNS his|PRP$ story|NN to|TO a|DT weird|JJ reality|NN striking|VBG a|DT comical|JJ balance|NN between|IN eccentric|JJ and|CC normal|JJ </s>|S_END
+<s>|S_START the|DT googlers|NNS live|VBP on|IN the|DT new|JJ frontier|NN manipulating|VBG data|NNS in|IN seconds|NNS and|CC the|DT unbroken|NN spine|NN exists|NNS in|IN tradition|NN and|CC ritual|JJ </s>|S_END
+<s>|S_START clay|NN is|VBZ somewhere|RB in|IN between|IN </s>|S_END
+<s>|S_START mr|NN sloan|VBD has|VBZ created|VBN some|DT memorable|JJ characters—grumble|JJ the|DT faceless|NN hacker|NN who|WP releases|NNS free|VBP harry|JJ potter|NN books|NNS including|VBG a|DT new|JJ wizard|NN called|VBN grumblegrits|NNS and|CC corvina|NN the|DT blackrobed|VBN leader|NN of|IN the|DT unbroken|NN spine|NN who|WP addresses|NNS his|PRP$ followers|NNS like|IN “a|NNP presidential|JJ candidate”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT pages|NNS swell|VBP with|IN mr|NN sloan’s|NNS nerdy|NN affection|NN and|CC youthful|JJ enthusiasm|NN for|IN both|DT tangible|JJ books|NNS and|CC new|JJ media|NNS </s>|S_END
+<s>|S_START clay’s|NNS chatty|VBP narration|NN maintains|NNS the|DT pace|NN and|CC mr|NN sloan|NN injects|NNS dry|JJ wit|NN and|CC comedic|JJ timing|NN suited|VBD to|TO his|PRP$ geeky|NN everyman|NN </s>|S_END
+<s>|S_START repeatedly|RB clay’s|JJ wild|NN imagination|NN is|VBZ undercut|VBN by|IN a|DT flash|NN of|IN selfdoubt|NN and|CC a|DT reality|NN check|NN </s>|S_END
+<s>|S_START he|PRP is|VBZ an|DT appealing|VBG hero|NN precisely|RB because|IN he|PRP is|VBZ not|RB heroic|JJ </s>|S_END
+<s>|S_START the|DT ties|NNS that|WDT bind|IN the|DT story|NN are|VBP friendship|NN and|CC vitality|NN for|IN life|NN </s>|S_END
+<s>|S_START this|DT is|VBZ a|DT clever|NN and|CC whimsical|JJ tale|NN with|IN a|DT big|JJ heart|NN </s>|S_END
+</p>|P_END
+

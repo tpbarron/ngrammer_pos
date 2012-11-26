@@ -1,0 +1,127 @@
+<p>|P_START
+<s>|S_START if|IN martians|NNS exist|VBP then|RB any|DT in|IN the|DT vicinity|NN of|IN gale|NN crater|NN on|IN the|DT martian|JJ equator|NN are|VBP in|IN for|IN a|DT treat|NN </s>|S_END
+<s>|S_START on|IN august|JJ 6th|CD assuming|VBG its|PRP$ complex|JJ landing|NN system|NN works|NNS a|DT plutoniumpowered|VBN rover|NN the|DT size|NN of|IN a|DT car|NN will|MD be|VB set|VBN down|RP on|IN the|DT surface|NN </s>|S_END
+<s>|S_START this|DT is|VBZ nasa’s|NNP mars|NNS science|NN laboratory|NN msl|NN the|DT biggest|JJS and|CC most|JJS sophisticated|JJ rover|NN sent|NN anywhere|RB in|IN the|DT solar|JJ system|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ going|VBG to|TO mars|NNS for|IN several|JJ reasons|NNS but|CC the|DT most|RBS publicised|VBN part|NN of|IN its|PRP$ mission|NN is|VBZ to|TO continue|VB the|DT hunt|NN for|IN signs|NNS of|IN extraterrestrial|JJ life|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thirtysix|NN years|NNS after|IN the|DT arrival|NN of|IN america’s|JJ viking|NN landers|NNS which|WDT were|VBD designed|VBN to|TO see|VB if|IN the|DT martian|JJ regolith|NN hosted|VBD alien|VBN microbes|NNS astronomers|NNS are|VBP still|RB unsure|JJ if|IN the|DT planet|NN has|VBZ ever|RB been|VBN habitable|JJ </s>|S_END
+<s>|S_START the|DT consensus|NN is|VBZ that|IN viking|VBG found|NN nothing|NN </s>|S_END
+<s>|S_START and|CC mars|NNS is|VBZ certainly|RB an|DT inhospitable|JJ place|NN temperatures|NNS can|MD fall|VB below|IN 100°c|CD far|RB below|IN those|DT in|IN antarctica|NN and|CC an|DT extremely|RB thin|JJ atmosphere|NN does|VBZ little|JJ to|TO dampen|VB the|DT solar|JJ radiation|NN that|WDT bombards|NNS a|DT surface|NN as|IN dry|JJ as|IN any|DT earthly|RB desert|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP reasons|NNS to|TO believe|VB that|IN the|DT red|NN planet|NN was|VBD not|RB always|RB as|IN barren|NNS </s>|S_END
+<s>|S_START data|NNS from|IN previous|JJ missions|NNS left|VBN planetary|JJ scientists|NNS convinced|VBN that|IN in|IN its|PRP$ distant|JJ past|NN mars|NNS was|VBD much|RB wetter|JJR than|IN it|PRP is|VBZ today|NN </s>|S_END
+<s>|S_START water|NN is|VBZ widely|RB thought|VBN to|TO be|VB vital|JJ for|IN life|NN thanks|NNS to|TO its|PRP$ properties|NNS as|IN a|DT solvent|NN </s>|S_END
+<s>|S_START a|DT thicker|NN atmosphere|NN less|RBR eroded|VBN by|IN the|DT solar|JJ wind|NN might|MD have|VB allowed|VBN large|JJ bodies|NNS of|IN water|NN to|TO persist|VB for|IN long|RB periods|NNS on|IN or|CC near|IN the|DT surface|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT may|MD have|VB been|VBN enough|JJ for|IN life|NN to|TO get|VB started|VBN </s>|S_END
+<s>|S_START geology|NN suggests|VBZ that|IN primitive|JJ life|NN at|IN least|JJS gets|NNS going|VBG fairly|RB easily|RB </s>|S_END
+<s>|S_START the|DT first|JJ traces|NNS of|IN living|VBG organisms|NNS on|IN earth|JJ date|NN back|RB 38|CD billion|CD years|NNS not|RB long|JJ after|IN the|DT planet|NN had|VBD cooled|VBN sufficiently|RB for|IN liquid|NN water|NN to|TO condense|VB and|CC soon|RB after|IN the|DT late|JJ heavy|JJ bombardment|NN a|DT rain|NN of|IN meteorites|NNS that|WDT lasted|VBN hundreds|NNS of|IN millions|NNS of|IN years|NNS had|VBD begun|VBN to|TO slacken|VB off|RP </s>|S_END
+<s>|S_START ome|NN scientists—inspired|JJ by|IN the|DT discovery|NN in|IN the|DT 1980s|CD and|CC 1990s|CD of|IN “extremophiles”|JJ bacteria|NN which|WDT will|MD happily|RB tolerate|VB blistering|VBG heat|NN crushing|VBG pressure|NN sizzling|VBG radiation|NN and|CC other|JJ insults|NNS on|IN earth—hold|JJ out|IN hope|NN that|IN a|DT few|JJ hardy|NN martians|NNS may|MD cling|VBG on|IN today|NN perhaps|RB beneath|NN the|DT surface|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN they|PRP do|VBP not|RB even|RB curiosity|NN as|IN the|DT rover|NN is|VBZ called|VBN is|VBZ likely|JJ to|TO find|VB them|PRP </s>|S_END
+<s>|S_START it|PRP carries|VBZ hightech|JJ instruments|NNS including|VBG a|DT laser|NN for|IN vaporising|NN chunks|NNS of|IN rock|NN the|DT better|JJR to|TO analyse|VB their|PRP$ chemical|JJ composition|NN and|CC a|DT drill|NN for|IN probing|NN below|IN the|DT surface|NN to|TO explore|VB the|DT chemical|JJ record|NN and|CC hunt|NN for|IN any|DT organic|JJ molecules|NNS that|WDT may|MD have|VB survived|VBN </s>|S_END
+<s>|S_START it|PRP will|MD also|RB examine|VB the|DT atmosphere|NN paying|VBG particular|JJ attention|NN to|TO methane|VB levels|NNS which|WDT some|DT scientists|NNS think|VBP may|MD be|VB high|JJ enough|RB to|TO suggest|VB metabolic|JJ activity|NN of|IN some|DT sort|NN </s>|S_END
+<s>|S_START if|IN it|PRP turns|VBZ up|RP persuasive|JJ evidence|NN that|IN mars|NNS could|MD once|RB have|VB supported|VBN life|NN it|PRP would|MD be|VB a|DT big|JJ discovery|NN and|CC would|MD raise|VB hopes|NNS for|IN future|JJ missions|NNS designed|VBN explicitly|RB to|TO look|VB for|IN living|NN cells|NNS such|JJ as|IN europe’s|JJ exomars|NNS rover|RB </s>|S_END
+<s>|S_START even|RB if|IN curiosity|NN finds|NNS nothing|NN there|RB are|VBP other|JJ possibilities|NNS within|IN the|DT solar|JJ system|NN saturn’s|NNS moon|RB enceladus|VBZ for|IN instance|NN seems|VBZ to|TO have|VB an|DT underground|NN ocean|NN rich|NN in|IN organic|JJ compound|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC these|DT days|NNS the|DT search|NN for|IN habitable|JJ worlds|NNS is|VBZ not|RB confined|VBN to|TO the|DT solar|JJ system|NN </s>|S_END
+<s>|S_START on|IN july|RB 28th|JJ nasa|NN released|VBN the|DT latest|JJS batch|NN of|IN data|NNS from|IN its|PRP$ kepler|NN space|NN telescope|NN </s>|S_END
+<s>|S_START this|DT is|VBZ designed|VBN to|TO look|VB for|IN “exoplanets”|JJ that|IN orbit|NN other|JJ star|NN </s>|S_END
+<s>|S_START their|PRP$ existence|NN is|VBZ given|VBN away|RB by|IN a|DT tiny|JJ drop|NN in|IN brightness|NN caused|VBN when|WRB a|DT planet|NN transits|VBZ in|IN front|NN of|IN its|PRP$ parent|NN star|NN as|IN seen|VBN from|IN earth|JJ </s>|S_END
+<s>|S_START launched|VBD in|IN 2009|CD kepler’s|NNS mission|NN is|VBZ to|TO stare|VB at|IN around|IN 150000|CD stars|NNS in|IN the|DT constellation|NN of|IN cygnus|NN tallying|VBG all|DT the|DT planets|NNS it|PRP can|MD see|VB to|TO discern|VB just|RB how|WRB common|JJ earthsized|JJ temperate|NN habitable|JJ planets|NNS may|MD be|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START trange|NN new|JJ world|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START although|IN their|PRP$ presence|NN had|VBD long|JJ been|VBN assumed|VBN not|RB a|DT single|JJ exoplanet|NN was|VBD known|VBN to|TO exist|VB until|IN 1992|CD when|WRB the|DT first|JJ one|CD was|VBD found|VBN by|IN a|DT team|NN using|VBG a|DT groundbased|VBN telescope|NN </s>|S_END
+<s>|S_START now|RB kepler|JJR and|CC the|DT european|JJ space|NN agency’s|NNS corot|VBD mission|NN are|VBP both|DT actively|RB searching|VBG for|IN more|JJR </s>|S_END
+<s>|S_START together|RB with|IN groundbased|VBN observations|NNS this|DT has|VBZ led|VBN to|TO a|DT revolution|NN in|IN empirical|JJ astronomy|NN as|IN speculative|JJ theories|NNS about|IN how|WRB many|JJ planets|NNS might|MD be|VB out|RP there|RB are|VBP replaced|VBN with|IN a|DT wealth|NN of|IN hard|JJ data|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT data|NNS neatly|RB illustrate|JJ the|DT dangers|NNS of|IN relying|VBG on|IN theorie|NN </s>|S_END
+<s>|S_START “theorists|NNS have|VBP been|VBN left|VBN completely|RB in|IN the|DT dust|NN by|IN the|DT stuff|NN that|IN kepler|NN has|VBZ found”|JJ says|NNS alan|VBP boss|NNS an|DT exoplanet|NN expert|NN at|IN the|DT carnegie|NN institute|NN in|IN washington|NN dc|NN </s>|S_END
+<s>|S_START for|IN instance|NN exoplanet|NN surveys|NNS suggest|VBP that|IN stars|NNS with|IN a|DT low|JJ concentration|NN of|IN “metallic”|NNP elements|NNS astronomerspeak|VBP for|IN anything|NN besides|VBZ hydrogen|VBN and|CC helium|NN are|VBP just|RB as|IN likely|JJ to|TO host|VB rocky|JJ planets|NNS as|IN stars|NNS with|IN a|DT high|JJ metallicity|NN </s>|S_END
+<s>|S_START ince|NN stars|NNS and|CC planets|NNS both|DT condense|NN out|IN of|IN the|DT same|JJ disc|NN of|IN interstellar|JJ dust|NN astronomers|NNS had|VBD expected|VBN that|DT discs|NNS with|IN high|JJ levels|NNS of|IN metallic|JJ elements|NNS like|IN iron|NN and|CC silicon|NN would|MD be|VB more|RBR likely|JJ to|TO form|NN rocky|NN planet|NN </s>|S_END
+<s>|S_START kepler’s|NNS data|VBP indicate|JJ otherwise|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN of|IN july|RB 31st|CD a|DT website|JJ maintained|VBN by|IN jean|JJ schneider|NN an|DT astronomer|NN at|IN the|DT paris|NNS observatory|NN lists|NNS 777|CD confirmed|VBN exoplanets|NNS kepler|JJR alone|NN has|VBZ discovered|VBN another|DT 2321|CD possible|JJ alien|NNS world|NN </s>|S_END
+<s>|S_START uch|JJ large|JJ numbers|NNS allow|VBP for|IN the|DT first|JJ time|NN statistical|JJ analysis|NN to|TO replace|VB speculation|NN </s>|S_END
+<s>|S_START of|IN kepler’s|JJ candidates|NNS 246|CD are|VBP 125|CD times|NNS the|DT radius|NN of|IN earth|JJ or|CC less|JJR another|DT 676|CD are|VBP between|IN 125|CD and|CC two|CD times|NNS as|RB wide—substantially|RB larger|JJR but|CC probably|RB still|RB with|IN rocky|JJ surface|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT total|NN of|IN 46|CD candidate|NN planets|NNS have|VBP been|VBN found|VBN orbiting|NN within|IN the|DT habitable|JJ zones|NNS of|IN their|PRP$ stars|NNS where|WRB temperatures|NNS should|MD allow|VB the|DT presence|NN of|IN liquid|NN water|NN of|IN those|DT ten|VBN are|VBP close|JJ to|TO earth’s|NNP size|NN </s>|S_END
+<s>|S_START and|CC that|DT number|NN is|VBZ likely|JJ to|TO rise|VB in|IN the|DT coming|VBG year|NN or|CC so|RB </s>|S_END
+<s>|S_START ince|NN three|CD transits|NNS are|VBP required|VBN to|TO declare|VB the|DT discovery|NN of|IN a|DT candidate|NN any|DT truly|RB earthlike|IN planets—those|JJ within|IN the|DT habitable|JJ zone|NN of|IN a|DT sunlike|NN star|NN and|CC whose|WP$ orbital|JJ period|NN is|VBZ therefore|RB roughly|RB one|CD earth|JJ year—will|NN only|RB now|RB start|VB appearing|VBG in|IN kepler’s|JJ data|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START billions|NNS and|CC billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN astronomers|NNS already|RB feel|VBP confident|JJ enough|JJ to|TO start|VB extrapolating|NN from|IN kepler’s|NNP data|NNS to|TO determine|VB just|RB how|WRB many|JJ earthlike|NN planets|NNS may|MD be|VB out|RP there|RB </s>|S_END
+<s>|S_START eth|NN shostak|VBD an|DT astronomer|NN at|IN the|DT seti|NN institute|NN in|IN california|NN speculated|VBD in|IN 2011|CD that|WDT there|EX could|MD be|VB 30000|CD habitable|JJ worlds|NNS within|IN 1000|CD lightyears|NNS of|IN earth|JJ a|DT minuscule|NN distance|NN by|IN galactic|JJ standard|JJ </s>|S_END
+<s>|S_START a|DT paper|NN by|IN wesley|NN traub|NN the|DT chief|NN scientist|NN at|IN nasa’s|JJ exoplanet|NN exploration|NN programme|NN estimated|VBD that|IN 34|CD of|IN sunlike|NN stars|NNS could|MD host|VB habitable|JJ planet|NN </s>|S_END
+<s>|S_START that|DT would|MD imply|RB that|IN tens|NNS of|IN billions|NNS of|IN such|JJ worlds|NNS exist|VBP in|IN the|DT milky|NN way|NN alone|NN </s>|S_END
+<s>|S_START william|NN borucki|NN kepler’s|NNS chief|NN scientist|NN does|VBZ not|RB give|VB numbers—those|JJ will|MD be|VB provided|VBN over|RP the|DT coming|VBG few|JJ years|NNS as|IN kepler|JJR gathers|NNS more|JJR data|NNS </s>|S_END
+<s>|S_START but|CC he|PRP is|VBZ encouraged|VBN “the|-NONE- data|NNS so|IN far|RB suggest|VBP that|IN most|JJS stars|NNS have|VBP planets|NNS and|CC we|PRP see|VBP quite|RB a|DT few|JJ of|IN those|DT in|IN the|DT habitable|JJ zone|NN </s>|S_END
+<s>|S_START o|NN i|PRP suspect|VBP there’s|JJ nothing|NN particularly|RB special|JJ about|IN planets|NNS at|IN such|JJ distances”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN course|NN just|RB because|IN a|DT planet|NN is|VBZ the|DT right|NN distance|NN from|IN its|PRP$ star|NN does|VBZ not|RB imply|RB that|IN it|PRP will|MD host|VB life|NN </s>|S_END
+<s>|S_START more|JJR is|VBZ required|VBN than|IN a|DT balmy|NN climate|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ for|IN instance|NN an|DT open|JJ question|NN as|IN to|TO whether|IN planets|NNS in|IN the|DT habitable|JJ zones|NNS of|IN red|VBN dwarves—small|JJ dim|NN stars|NNS that|WDT make|VBP up|RP most|JJS of|IN the|DT stars|NNS in|IN the|DT galaxy—are|JJ in|IN fact|NN habitable|JJ since|IN for|IN water|NN to|TO remain|VB liquid|JJ they|PRP must|MD be|VB so|RB close|JJ that|IN they|PRP will|MD be|VB “tidally|RB locked”|-NONE- to|TO their|PRP$ stars|NNS with|IN one|CD hemisphere|JJ in|IN permanent|NN light|NN and|CC one|CD in|IN permanent|NN darkne|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START other|JJ factors|NNS come|VBP into|IN play|NN too|RB </s>|S_END
+<s>|S_START a|DT survey|NN of|IN planets|NNS using|VBG a|DT different|JJ technique|NN to|TO kepler’s|NNP concluded|VBD that|IN 90|CD of|IN exoplanets|NNS have|VBP less|JJR circular|JJ orbits|NNS than|IN do|VB those|DT in|IN the|DT solar|JJ system|NN suggesting|VBG that|IN many|JJ may|MD wander|VB in|IN and|CC out|IN of|IN their|PRP$ stars’|JJ habitable|JJ zone|NN </s>|S_END
+<s>|S_START kepler|NN can|MD not|RB directly|RB detect|VB these|DT eccentric|JJ orbits|NNS but|CC a|DT recent|JJ paper|NN by|IN stephen|NN kane|NN a|DT nasa|NN exoplanet|NN specialist|NN used|VBD statistical|JJ techniques|NNS to|TO suggest|VB that|IN kepler’s|JJ planets|NNS may|MD have|VB similarly|RB elongated|VBN orbits—although|JJ the|DT effect|NN seems|VBZ to|TO be|VB smaller|JJR for|IN smaller|JJR planet|NN </s>|S_END
+<s>|S_START and|CC of|IN course|NN there|EX is|VBZ the|DT little|JJ matter|NN of|IN biology|NN exactly|RB how|WRB life|NN arises|NNS in|IN the|DT first|JJ place|NN remains|VBZ a|DT mystery|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nevertheless|RB exoplanet|VBD surveys|NNS are|VBP providing|VBG real|JJ data|NNS to|TO a|DT field|NN long|RB starved|VBD of|IN them|PRP </s>|S_END
+<s>|S_START and|CC they|PRP give|VBP strong|JJ suggestions|NNS about|IN what|WP to|TO do|VB next|JJ in|IN the|DT quest|NN for|IN life|NN elsewhere|RB in|IN the|DT universe|NN </s>|S_END
+<s>|S_START kepler|NN is|VBZ designed|VBN to|TO find|VB out|RP how|WRB common|JJ habitable|JJ planets|NNS are|VBP but|CC its|PRP$ target|NN stars|NNS are|VBP too|RB distant|JJ for|IN their|PRP$ planets|NNS to|TO be|VB studied|VBN directly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT next|JJ step|NN is|VBZ to|TO survey|NN stars|NNS closer|JJR to|TO the|DT sun|NN looking|VBG for|IN habitable|JJ worlds|NNS in|IN earth’s|JJ own|JJ galactic|JJ neighbourhood|NN </s>|S_END
+<s>|S_START the|DT transiting|NN exoplanet|NN survey|NN satellite|NN which|WDT aims|VBZ to|TO do|VB just|RB that|IN could|MD be|VB approved|VBN by|IN nasa|NN next|IN year|NN </s>|S_END
+<s>|S_START and|CC a|DT university|NN of|IN california|NN project|NN called|VBN the|DT automated|VBN planet|NN finder|NN hopes|VBZ to|TO achieve|VB something|NN similar|JJ using|NN groundbased|VBD observations|NNS over|IN the|DT coming|VBG decade|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT culmination|NN of|IN all|DT these|DT efforts|NNS was|VBD supposed|VBN to|TO have|VB been|VBN the|DT launch|NN of|IN a|DT giant|JJ telescope—like|JJ nasa’s|NNS terrestrial|JJ planet|NN finder|NN tpf|NN or|CC the|DT european|JJ space|NN agency’s|NNS darwin—to|-NONE- take|VB pictures|NNS of|IN these|DT planets|NNS directly|RB </s>|S_END
+<s>|S_START that|DT could|MD provide|VB images|NNS that|WDT allow|VBP astronomers|NNS to|TO determine|VB the|DT composition|NN of|IN the|DT planets’|JJ atmosphere|NN </s>|S_END
+<s>|S_START and|CC they|PRP could|MD hunt|VB for|IN “biomarkers”|JJ mixtures|NNS of|IN gases|NNS thought|VBD to|TO be|VB indicative|JJ of|IN life|NN as|IN curiosity|NN will|MD do|VB with|IN martian|JJ methane|NN </s>|S_END
+<s>|S_START oxygen|NN for|IN instance|NN is|VBZ a|DT reactive|JJ gas|NN that|WDT ought|MD to|TO end|VB up|RP quickly|RB bound|VBD within|IN rock|NN </s>|S_END
+<s>|S_START its|PRP$ presence|NN in|IN large|JJ quantities|NNS in|IN a|DT planetary|JJ atmosphere|NN as|IN on|IN earth|JJ would|MD be|VB enormously|RB suggestive|JJ to|TO alienhunter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT tpf|NN has|VBZ been|VBN on|IN hold|JJ since|IN 2006|CD darwin|NN has|VBZ been|VBN on|IN ice|NN since|IN 2007|CD </s>|S_END
+<s>|S_START nasa’s|NNS budget|VBP is|VBZ flat|JJ for|IN the|DT foreseeable|JJ future|JJ and|CC with|IN projects|NNS like|IN the|DT james|NNS webb|VBP space|NN telescope|NN a|DT successor|NN to|TO the|DT hubble|JJ that|IN is|VBZ many|JJ times|NNS over|IN its|PRP$ planned|VBN budget|NN eating|NN all|DT the|DT existing|VBG money|NN there|RB seems|VBZ to|TO be|VB no|RB room|NN for|IN such|JJ ambitious|JJ and|CC pricey|NN followup|NN </s>|S_END
+<s>|S_START “we’re|JJ actually|RB further|JJ away|NN from|IN launching|VBG the|DT tpf|NN than|IN we|PRP were|VBD 20|CD years|NNS ago|RB when|WRB it|PRP was|VBD first|JJ mooted”|NN dr|NN boss|NN notes|NNS gloomily|RB </s>|S_END
+<s>|S_START till|NN he|PRP says|VBZ hope|NN springs|NNS eternal|JJ if|IN satellites|NNS like|IN kepler|NN keep|VB delivering|VBG their|PRP$ intriguing|NN data|NNS these|DT grounded|JJ missions|NNS may|MD one|CD day|NN fly|RB </s>|S_END
+</p>|P_END
+

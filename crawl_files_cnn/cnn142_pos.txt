@@ -1,0 +1,63 @@
+<p>|P_START
+<s>|S_START fed|VBD chairman|NN ben|VBN bernanke|NN thrust|RB the|DT wordsfiscal|JJ cliff|NN into|IN public|JJ discourse|NN but|CC shouldnt|NN be|VB credited|VBN with|IN creating|NN the|DT term|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START federal|JJ reserve|NN chairman|NN ben|NN bernanke|NN is|VBZ widely|RB credited|VBN with|IN coining|NN fiscal|JJ cliff|NN the|DT ominous|JJ term|NN that|WDT refers|NNS to|TO $|$ 7|CD trillion|CD in|IN spending|NN cuts|NNS and|CC tax|NN increases|NNS set|VBD to|TO be|VB triggered|VBN in|IN january|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT bearded|VBN man|NN is|VBZ the|DT creator|NN of|IN neither|DT the|DT original|JJ term|NN nor|CC its|PRP$ current|JJ usage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fiscal|JJ cliff|NN is|VBZ an|DT expression|NN that|IN has|VBZ been|VBN thrown|VBN around|IN for|IN decades|NNS with|IN a|DT variety|NN of|IN meanings|NNS </s>|S_END
+<s>|S_START the|DT earliest|JJS reference|NN we|PRP could|MD find|VB was|VBD in|IN this|DT new|JJ york|NN times|NNS article|NN about|IN homeownership|NN in|IN 1957|CD </s>|S_END
+<s>|S_START since|IN then|RB the|DT phrase|NN has|VBZ been|VBN used|VBN often|RB by|IN republicans|NNS and|CC democrats|NNS alike|VBP in|IN budget|NN disagreements|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START take|VB for|IN example|NN this|DT official|NN statement|NN from|IN senator|NN jim|NN demint|NN a|DT republican|JJ from|IN south|JJ carolina|NN in|IN 2008|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP are|VBP trillions|NNS of|IN dollars|NNS in|IN debt|NN and|CC obamas|VBZ massive|JJ new|JJ spending|NN program|NN threatens|VBZ to|TO send|VB our|PRP$ nation|NN over|IN a|DT fiscal|JJ cliff|NN leading|VBG to|TO higher|JJR taxes|NNS and|CC fewer|JJR jobs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fast|RB forward|VBD to|TO 2012|CD we|PRP now|RB think|VBP of|IN the|DT fiscal|JJ cliff|NN as|IN a|DT more|RBR specific|JJ term|NN referring|VBG to|TO the|DT bush|NN tax|NN cuts|NNS expiring|VBG on|IN december|NN 31|CD and|CC the|DT sequester|NN on|IN january|JJ 2|CD </s>|S_END
+<s>|S_START bernanke|NN thrust|VBD that|IN meaning|NN of|IN the|DT term|NN into|IN the|DT public|NN eye|NN on|IN february|JJ 29|CD 2012|CD when|WRB he|PRP spoke|VBP before|IN the|DT house|NN committee|NN on|IN financial|JJ services|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START under|IN current|JJ law|NN on|IN january|JJ 1st|CD 2013|CD there|EX is|VBZ going|VBG to|TO be|VB a|DT massive|JJ fiscal|JJ cliff|NN of|IN large|JJ spending|NN cuts|NNS and|CC tax|NN increases|NNS </s>|S_END
+<s>|S_START i|PRP hope|VBP that|IN congress|NN will|MD look|VB at|IN that|DT and|CC figure|NN out|RP ways|NNS to|TO achieve|VB the|DT same|JJ long|JJ run|NN fiscal|JJ improvement|NN without|IN having|VBG it|PRP all|DT happen|JJ at|IN at|IN one|CD date|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC bernanke|VBP wasnt|NN the|DT originator|NN of|IN the|DT current|JJ iteration|NN either|DT as|IN far|RB as|IN we|PRP can|MD tell|VB </s>|S_END
+<s>|S_START several|JJ reuters|NNS articles|NNS had|VBD already|RB used|VBN the|DT phrase|NN with|IN that|DT same|JJ definition|NN two|CD weeks|NNS earlier|RBR geithner|NN yearend|NN fiscal|JJ cliff|NN to|TO hit|VB us|PRP growth|NN for|IN example|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC check|VBD out|RP this|DT excerpt|NN from|IN another|DT reuters|NNS article|NN fiscal|JJ cliff|NN looms|NNS for|IN united|VBN states|NNS in|IN late|JJ 12|CD printed|VBN on|IN february|JJ 17|CD 2012|CD before|IN bernankes|NNS infamous|JJ testimony|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START big|JJ tax|NN and|CC budget|NN decisions|NNS will|MD not|RB confront|VB us|PRP lawmakers|NNS for|IN months|NNS now|RB that|IN congress|NN has|VBZ extended|VBN the|DT payroll|NN tax|NN cuts|NNS but|CC a|DT reckoning|NN will|MD be|VB at|IN hand|NN in|IN late|JJ 2012|CD and|CC early|RB 2013|CD </s>|S_END
+<s>|S_START it|PRP is|VBZ being|VBG called|VBN the|DT fiscal|JJ cliff|NN by|IN some|DT on|IN capitol|NN hill|NN and|CC it|PRP will|MD likely|RB arrive|VB after|IN the|DT nov|NN 6|CD presidential|JJ and|CC congressional|JJ elections|NNS </s>|S_END
+<s>|S_START the|DT elections|NNS are|VBP likely|JJ to|TO involve|VB intense|JJ debate|NN about|IN what|WP should|MD be|VB done|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP reached|VBD out|RP to|TO reuters|NNS to|TO see|VB if|IN they|PRP would|MD take|VB credit|NN for|IN attaching|NN the|DT term|NN to|TO the|DT current|JJ congressional|JJ kerfuffle|NN but|CC alas|VBZ they|PRP denied|VBD the|DT honor|NN and|CC reiterated|VBD it|PRP was|VBD already|RB a|DT common|JJ utterance|NN among|IN beltway|NN insiders|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN we|PRP appreciate|VBP the|DT compliment|NN the|DT term|NN fiscal|JJ cliff|NN was|VBD floating|VBG around|IN capitol|NN hill|NN for|IN some|DT time|NN before|IN we|PRP printed|VBD it|PRP howard|VBD goller|JJR washington|NN editor|NN of|IN reuters|NNS professional|JJ news|NN wrote|VBD in|IN an|DT email|NN to|TO cnnmoney|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fed|VBN not|RB surprisingly|RB had|VBD no|DT comment|NN </s>|S_END
+</p>|P_END
+

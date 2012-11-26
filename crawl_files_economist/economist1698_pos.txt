@@ -1,0 +1,70 @@
+<p>|P_START
+<s>|S_START when|WRB mario|NN draghi|NN took|VBD over|RP as|RB president|NN of|IN the|DT european|JJ central|JJ bank|NN at|IN the|DT beginning|NN of|IN this|DT month|NN it|PRP was|VBD felt|VBN that|IN he|PRP had|VBD to|TO prove|VB his|PRP$ credentials|NNS in|IN germany|NN </s>|S_END
+<s>|S_START that|DT task|NN is|VBZ made|VBN harder|NN by|IN calls|NNS on|IN the|DT ecb|NN to|TO act|VB as|IN backstop|JJ to|TO troubled|JJ italy|RB mr|JJ draghis|NNS home|NN country|NN and|CC to|TO contain|VB a|DT sovereigndebt|NN crisis|NN that|WDT is|VBZ raising|VBG borrowing|NN costs|NNS for|IN most|JJS eurozone|NN countries|NNS while|IN driving|VBG them|PRP down|IN in|IN germany|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT week|NN jens|VBZ weidmann|NN the|DT head|NN of|IN the|DT bundesbank|NN germanys|VBZ central|JJ bank|NN raised|VBD the|DT bondmarket|NN pressure|NN on|IN italy|RB and|CC on|IN mr|NN draghi|NN by|IN saying|VBG that|IN centralbank|NN support|NN for|IN government|NN finances|NNS would|MD be|VB illegal|JJ </s>|S_END
+<s>|S_START mr|NN weidmann|NN told|VBD the|DT financial|JJ times|NNS that|WDT the|DT ecb|NN could|MD not|RB act|VB as|IN a|DT lender|NN of|IN last|JJ resort|NN for|IN countries|NNS because|IN in|IN doing|VBG so|RB it|PRP would|MD transgress|VB eu|PRP treaties|NNS banning|VBG direct|JJ financing|NN of|IN state|NN </s>|S_END
+<s>|S_START it|PRP would|MD be|VB counterproductive|JJ as|IN well|RB argued|VBN mr|NN weidmann|NN </s>|S_END
+<s>|S_START the|DT roots|NNS of|IN the|DT eurozone|NN crisis|NN lay|NN with|IN governments|NNS and|CC providing|VBG them|PRP with|IN cheap|NN financing|VBG would|MD only|RB reduce|VB pressure|NN for|IN reform|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN bond|NN markets|NNS so|RB febrile|IN mr|NN weidmanns|NNS comments|VBZ were|VBD illtimed|VBN </s>|S_END
+<s>|S_START yet|RB his|PRP$ views|NNS were|VBD scarcely|RB surprising|JJ </s>|S_END
+<s>|S_START he|PRP became|VBD head|NN of|IN the|DT bundesbank|NN in|IN may|MD after|IN axel|NN weber|NN resigned|VBD because|IN of|IN his|PRP$ discomfort|NN with|IN the|DT ecbs|NNS then|RB smallscale|JJ interventions|NNS in|IN sovereignbond|NN markets|NNS which|WDT were|VBD designed|VBN to|TO keep|VB credit|NN flowing|VBG to|TO banks|NNS and|CC businesse|VB </s>|S_END
+<s>|S_START mr|NN weidmanns|NNS views|NNS are|VBP similarly|RB circumscribed|VBN by|IN the|DT tenets|NNS of|IN german|NN economic|JJ thinking|NN a|DT distrust|NN of|IN policy|NN discretion|NN an|DT emphasis|NN on|IN the|DT long|JJ term|NN a|DT deepseated|JJ fear|NN of|IN inflation|NN and|CC an|DT obsession|NN with|IN moral|JJ hazard|NN </s>|S_END
+<s>|S_START for|IN mr|NN weidmann|NN rules|NNS are|VBP paramount|JJ </s>|S_END
+<s>|S_START italy|RB is|VBZ not|RB in|IN danger|JJR of|IN default|NN and|CC can|MD turn|VB itself|PRP around|IN and|CC the|DT ecbs|NNS independence|NN must|MD be|VB preserved|VBN at|IN all|DT cost|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bundesbankwatchers|NNS say|VBP mr|NN weidmanns|NNS comments|VBZ were|VBD directed|VBN at|IN his|PRP$ domestic|JJ audience|NN in|IN germany|NN which|WDT fears|NNS that|IN the|DT ecb|NN is|VBZ losing|VBG its|PRP$ bearing|NN </s>|S_END
+<s>|S_START but|CC was|VBD the|DT banks|NNS new|JJ president|NN also|RB among|IN the|DT intended|VBN audience|NN </s>|S_END
+<s>|S_START mr|NN draghi|NN comes|VBZ from|IN a|DT different|JJ tradition|NN from|IN mr|NN weidmann|NN </s>|S_END
+<s>|S_START he|PRP completed|VBD his|PRP$ phd|NN in|IN economics|NNS at|IN the|DT massachusetts|NNS institute|VBP of|IN technology|NN mit|NN in|IN the|DT 1970|CD </s>|S_END
+<s>|S_START his|PRP$ advisers|NNS included|VBD stanley|NN fischer|NN now|RB head|NN of|IN israels|NNS central|JJ bank|NN and|CC rudiger|NN dornbusch|NN a|DT german|NN economist|NN known|VBN for|IN his|PRP$ work|NN on|IN currency|NN market|NN </s>|S_END
+<s>|S_START in|IN that|DT way|NN mr|NN draghi|NN shares|NNS an|DT intellectual|JJ heritage|NN with|IN ben|JJ bernanke|NN the|DT federal|JJ reserve|NN chairman|NN olivier|NN blanchard|NN the|DT imfs|NNS chief|NN economist|NN and|CC paul|JJ krugman|NN a|DT new|JJ york|NN times|NNS columnist|VBP </s>|S_END
+<s>|S_START all|DT are|VBP mit|VBN alumni|NNS from|IN about|IN the|DT same|JJ time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT background|NN might|MD predispose|VB the|DT new|JJ ecb|NN president|NN to|TO the|DT sort|NN of|IN monetarypolicy|NN activism|NN that|WDT the|DT fed|VBD has|VBZ gone|VBN in|IN for|IN </s>|S_END
+<s>|S_START yet|RB his|PRP$ worldview|NN is|VBZ probably|RB closer|JJR to|TO mr|VB weidmanns|NNS than|IN it|PRP appears|VBZ at|IN first|RB </s>|S_END
+<s>|S_START italys|NNS technocratic|JJ class|NN is|VBZ quite|RB germanic|JJ observes|NNS julian|JJ callow|NN of|IN barclays|NNS capital|NN an|DT investment|NN bank|NN </s>|S_END
+<s>|S_START the|DT academic|JJ work|NN that|WDT suggests|VBZ budgetcutting|VBG is|VBZ good|JJ for|IN growth|NN a|DT popular|JJ belief|NN among|IN german|NN economists|NNS has|VBZ been|VBN largely|RB produced|VBN by|IN italian|JJ economist|NN </s>|S_END
+<s>|S_START an|DT early|JJ and|CC influential|JJ paper|NN in|IN the|DT literature|NN was|VBD coauthored|VBN by|IN francesco|NN giavazzi|NN who|WP was|VBD at|IN mit|NN with|IN mr|NN draghi|NN and|CC is|VBZ still|RB a|DT close|JJ associate|NN </s>|S_END
+<s>|S_START a|DT chapter|NN of|IN mr|NN draghis|NNS thesis|VBZ addressed|VBN the|DT issue|NN of|IN how|WRB an|DT economy|NN can|MD boost|VB its|PRP$ longterm|NN growth|NN when|WRB it|PRP faces|VBZ immediate|JJ financial|JJ pressure|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START moreover|RB mr|VBP draghis|NNS experience|NN in|IN italy|RB makes|VBZ him|PRP wary|JJ of|IN giving|VBG politicians|NNS a|DT soft|JJ option|NN </s>|S_END
+<s>|S_START after|IN a|DT spell|NN in|IN academia|NN and|CC six|CD years|NNS at|IN the|DT world|NN bank|NN he|PRP spent|VBD a|DT decade|NN from|IN 1991|CD as|IN a|DT senior|JJ official|NN at|IN the|DT italian|JJ treasury|NN </s>|S_END
+<s>|S_START there|EX he|PRP was|VBD in|IN charge|NN of|IN privatisation|NN and|CC managing|VBG the|DT public|NN debt|NN which|WDT had|VBD exploded|VBN in|IN the|DT late|JJ 1980s|CD and|CC early|RB 1990|CD </s>|S_END
+<s>|S_START italy|RB adopted|VBN economic|JJ and|CC publicfinance|NN reforms|NNS only|RB under|IN heavy|JJ bondmarket|NN pressure|NN </s>|S_END
+<s>|S_START o|NN mr|NN draghi|NN will|MD probably|RB be|VB wary|JJ of|IN swiftly|RB stepping|VBG in|IN to|TO cap|VB italys|NNS interest|NN rate|NN </s>|S_END
+<s>|S_START his|PRP$ knowledge|NN of|IN italian|JJ politics|NNS public|JJ finances|NNS and|CC financial|JJ markets|NNS may|MD make|VB him|PRP willing|JJ to|TO play|VB games|NNS of|IN brinkmanship|NN says|VBZ marco|NN annunziata|NN the|DT chief|NN economist|NN at|IN ge|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START indeed|RB mr|VBP weidmanns|NNS strong|JJ opposition|NN to|TO ecb|VB purchases|NNS of|IN government|NN bonds|NNS might|MD even|RB be|VB helpful|JJ to|TO mr|VB draghi|NN who|WP said|VBD at|IN his|PRP$ first|JJ press|NN conference|NN that|WDT unlimited|VBN lending|VBG to|TO governments|NNS would|MD be|VB outside|JJ the|DT ecbs|NNS remit|VBP </s>|S_END
+<s>|S_START if|IN the|DT ecb|NN gives|VBZ the|DT impression|NN that|IN it|PRP will|MD do|VB the|DT minimum|JJ to|TO abate|VB the|DT bondmarket|NN panic|NN it|PRP would|MD increase|VB the|DT pressure|NN on|IN italys|NNS politicians|NNS to|TO support|VB a|DT reformminded|VBN cabinet|NN and|CC to|TO push|VB through|IN the|DT right|NN policies|NNS quickly|RB </s>|S_END
+<s>|S_START the|DT markets|NNS may|MD be|VB panicking|VBG but|CC mr|NN draghi|NN is|VBZ said|VBN to|TO be|VB calm|NN in|IN a|DT crisi|NN </s>|S_END
+<s>|S_START that|DT calm|NN will|MD sit|VB well|RB with|IN the|DT bundesbanks|NNS view|NN that|IN panics|NNS blow|VBP themselves|PRP out|RP and|CC that|IN what|WP matters|NNS most|JJS is|VBZ longterm|JJ stability|NN </s>|S_END
+<s>|S_START the|DT hope|NN is|VBZ that|IN reform|NN and|CC high|JJ yields|NNS will|MD tempt|VB buyers|NNS back|RB into|IN italian|JJ bonds|NNS and|CC that|IN markets|NNS will|MD calm|VB down|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START adly|RB it|PRP seems|VBZ that|IN panic|JJ is|VBZ not|RB abating|VBG but|CC is|VBZ spreading|VBG to|TO the|DT heart|NN of|IN the|DT euro|NN zone|NN and|CC is|VBZ no|DT longer|NN easily|RB explained|VBN by|IN deficits|NNS or|CC public|JJ debt|NN </s>|S_END
+<s>|S_START public|JJ finances|NNS in|IN france|NN are|VBP not|RB nearly|RB as|IN bad|JJ as|IN in|IN britain|NN </s>|S_END
+<s>|S_START but|CC yields|NNS on|IN french|NN tenyear|NN bonds|NNS are|VBP now|RB far|RB higher|JJR than|IN for|IN the|DT equivalent|NN british|NN bonds|NNS see|VBP chart|NN </s>|S_END
+<s>|S_START the|DT growing|VBG gap|NN between|IN borrowing|NN costs|NNS in|IN germany|NN and|CC those|DT in|IN other|JJ eurozone|NN countries|NNS suggests|VBZ that|IN investors|NNS now|RB fear|VBP a|DT breakup|NN of|IN the|DT euro|NN zone|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN much|JJ as|IN reform|NN in|IN italy|RB and|CC elsewhere|RB is|VBZ needed|VBN it|PRP seems|VBZ unlikely|RB that|IN promises|NNS to|TO be|VB austere|RB will|MD halt|VB what|WP looks|NNS like|IN a|DT run|NN from|IN all|DT eurozone|NN bonds|NNS but|CC german|JJ one|CD </s>|S_END
+<s>|S_START the|DT ecb|NN despite|IN its|PRP$ misgivings|NNS is|VBZ the|DT only|JJ institution|NN with|IN the|DT power|NN to|TO reverse|VB a|DT selffulfilling|NN panic|NN </s>|S_END
+<s>|S_START if|IN the|DT pressures|NNS become|VBP so|RB great|JJ that|IN a|DT breakup|NN of|IN the|DT euro|NN seemed|VBD likely|JJ could|MD even|RB the|DT bundesbank|NN really|RB say|VBP no|DT </s>|S_END
+</p>|P_END
+

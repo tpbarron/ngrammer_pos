@@ -1,0 +1,75 @@
+<p>|P_START
+<s>|S_START london|NN cnnmoney|NN european|NN antitrust|JJ authorities|NNS moved|VBD a|DT step|NN closer|NN wednesday|NN to|TO issuing|VBG a|DT hefty|JJ fine|NN against|IN microsoft|JJ for|IN failing|VBG to|TO offer|VB windows|NNS users|NNS a|DT choice|NN of|IN internet|NN browsers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP have|VBP reached|VBN the|DT preliminary|JJ conclusion|NN that|WDT microsoft|NN breached|VBD its|PRP$ commitments|NNS to|TO provide|VB windows|NNS users|NNS with|IN a|DT choice|NN screen|NN between|IN internet|NN browsers|NNS said|VBD joaquin|NN almunia|NN competition|NN commissioner|NN for|IN the|DT european|JJ commission|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT warning|NN follows|VBZ an|DT investigation|NN launched|VBD in|IN july|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT software|NN giant|NN now|RB has|VBZ four|CD weeks|NNS to|TO respond|VB or|CC risk|VB a|DT fine|NN of|IN up|IN to|TO 10|CD of|IN revenue|NN </s>|S_END
+<s>|S_START last|JJ year|NN microsofts|NNS sales|NNS totaled|VBD nearly|RB $|$ 70|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START before|IN the|DT commission|NN takes|VBZ any|DT final|JJ decision|NN i|PRP will|MD of|IN course|NN listen|VBN to|TO what|WP microsoft|NN has|VBZ to|TO say|VB </s>|S_END
+<s>|S_START so|IN i|PRP will|MD not|RB prejudge|VB our|PRP$ decision|NN today|NN almunia|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoft|NN says|VBZ it|PRP is|VBZ very|RB very|RB sorry|JJ for|IN the|DT violation|NN which|WDT it|PRP called|VBD an|DT inadvertent|NN error|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP sincerely|RB apologize|VBP for|IN this|DT mistake|NN and|CC will|MD continue|VB to|TO cooperate|VB fully|RB with|IN the|DT commission|NN the|DT company|NN said|VBD wednesday|NN in|IN a|DT written|VBN statement|NN </s>|S_END
+<s>|S_START although|IN this|DT was|VBD the|DT result|NN of|IN a|DT technical|JJ error|NN we|PRP take|VBP responsibility|NN for|IN what|WP happened|VBN and|CC we|PRP have|VBP taken|VBN steps|NNS to|TO strengthen|VB our|PRP$ internal|JJ procedures|NNS to|TO help|VB ensure|NN something|NN like|IN this|DT can|MD not|RB happen|VB again|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START european|JJ regulators|NNS say|VBP microsoft|JJ msft|NN fortune|NN 500failed|CD to|TO comply|RB with|IN a|DT legallybinding|NN fiveyear|NN commitment|NN made|VBD in|IN 2009|CD to|TO give|VB pc|NN users|NNS in|IN europe|NN a|DT choice|NN about|IN which|WDT browser|JJR they|PRP use|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN of|IN march|NN 2010|CD a|DT choice|NN screen|NN was|VBD supposed|VBN to|TO pop|VB up|RP when|WRB a|DT user|NN was|VBD setting|VBG up|RP windows|NNS displaying|VBG 11|CD differing|VBG browsers|NNS to|TO choose|VB from|IN including|VBG microsofts|NNS own|JJ internet|NN explorer|NN </s>|S_END
+<s>|S_START other|JJ options|NNS include|VBP safari|NN by|IN apple|NN aapl|NN fortune|NN 500|CD and|CC chrome|NN by|IN google|NN goog|NN fortune|NN 500|CD as|IN well|RB as|IN mozilla|NN firefox|NN and|CC opera|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoft|NN initially|RB complied|VBD with|IN the|DT agreement|NN but|CC stopped|VBD showing|VBG the|DT choice|NN screen|NN when|WRB it|PRP rolled|VBD out|IN a|DT windows|NN 7|CD update|NN called|VBN service|NN pack|NN 1|CD in|IN february|JJ 2011|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT means|VBZ that|IN those|DT users|NNS have|VBP not|RB seen|VBN the|DT choice|NN screen|NN in|IN the|DT period|NN from|IN february|JJ 2011|CD to|TO july|RB 2012|CD almunia|NNS said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoft|NN apologized|VBD in|IN july|RB for|IN the|DT snafu|NN and|CC said|VBD it|PRP issued|VBD a|DT fix|NN as|IN soon|RB as|IN we|PRP became|VBD aware|JJ of|IN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT company|NN said|VBD wednesday|NN that|IN it|PRP is|VBZ actively|RB working|VBG with|IN the|DT european|JJ commission|NN on|IN compliance|NN issues|NNS around|IN its|PRP$ new|JJ windows|NNS 8|CD operating|VBG system|NN which|WDT goes|VBZ on|IN sale|NN friday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN discussions|NNS with|IN the|DT commission|NN we|PRP are|VBP changing|VBG some|DT aspects|NNS of|IN the|DT way|NN the|DT browser|NN choice|NN screen|NN works|NNS on|IN windows|NNS 8|CD and|CC will|MD have|VB those|DT changes|NNS implemented|VBN when|WRB windows|NNS 8|CD launches|NNS later|JJ this|DT week|NN microsoft|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoft|NN faced|VBD similar|JJ antitrust|JJ lawsuits|NNS in|IN the|DT united|VBN states|NNS in|IN the|DT 1990s|NNS and|CC early|RB 2000s|CD when|WRB it|PRP was|VBD accused|VBN of|IN using|VBG its|PRP$ dominant|JJ position|NN with|IN windows|NNS to|TO promote|VB its|PRP$ internet|NN explorer|NN browser|NN over|IN rivals|NNS like|IN the|DT nowdefunct|NN netscape|NN navigator|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START since|IN then|RB microsofts|NNS share|NN of|IN the|DT browser|NN market|NN has|VBZ gradually|RB eroded|VBN </s>|S_END
+<s>|S_START it|PRP now|RB controls|VBZ about|IN half|DT the|DT market|NN according|VBG to|TO various|JJ surveys|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT european|JJ commission|NN in|IN 2004|CD ruled|VBN that|IN microsofts|NNS tying|VBG of|IN certain|JJ software|NN to|TO windows|NNS represented|VBN an|DT abuse|NN of|IN its|PRP$ dominant|JJ position|NN </s>|S_END
+<s>|S_START it|PRP was|VBD fined|VBN €497|-NONE- million|CD in|IN 2004|CD then|RB €2805|-NONE- million|CD in|IN 2006|CD for|IN failing|VBG to|TO comply|RB with|IN the|DT ruling|NN </s>|S_END
+<s>|S_START in|IN 2008|CD microsoft|NN was|VBD fined|VBN another|DT €860|-NONE- million|CD for|IN noncompliance|NN </s>|S_END
+</p>|P_END
+

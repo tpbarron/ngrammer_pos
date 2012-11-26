@@ -1,0 +1,53 @@
+<p>|P_START
+<s>|S_START click|NN on|IN the|DT map|NN to|TO check|VB the|DT unemployment|NN rate|NN in|IN your|PRP$ state|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN unemployment|NN declined|VBD in|IN 41|CD states|NNS in|IN september|NN seven|CD of|IN which|WDT are|VBP key|JJ battlegrounds|NNS in|IN the|DT election|NN </s>|S_END
+<s>|S_START but|CC falling|VBG unemployment|NN rates|NNS dont|VBP necessarily|RB point|NN to|TO improvement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ohio|NN which|WDT has|VBZ 18|CD electoral|JJ votes|NNS up|IN for|IN grabs|NNS saw|VBD its|PRP$ unemployment|NN rate|NN decline|NN to|TO 7|CD in|IN september|NN down|IN from|IN 72|CD just|RB a|DT month|NN earlier|RBR </s>|S_END
+<s>|S_START while|IN hiring|VBG has|VBZ picked|VBN up|RP slightly|RB in|IN the|DT state|NN unemployment|NN is|VBZ partly|RB falling|VBG for|IN the|DT wrong|JJ reasons|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ohio|NN added|VBD about|IN 51000|CD jobs|NNS in|IN the|DT last|JJ year|NN but|CC more|RBR than|IN 40000|CD people|NNS also|RB dropped|VBD out|IN of|IN the|DT states|NNS labor|NN force|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB in|IN florida|NN which|WDT has|VBZ 29|CD electoral|JJ votes|NNS the|DT job|NN market|NN has|VBZ made|VBN more|JJR steady|JJ progress|NN </s>|S_END
+<s>|S_START but|CC you|PRP wouldnt|VBP know|VBP it|PRP from|IN the|DT unemployment|NN rate|NN which|WDT stood|NN at|IN 87|CD in|IN september|NN higher|JJR than|IN the|DT national|JJ average|NN of|IN 78|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START floridas|NNS labor|NN force|NN is|VBZ growing|VBG which|WDT is|VBZ an|DT encouraging|VBG sign|NN </s>|S_END
+<s>|S_START more|JJR people|NNS are|VBP trying|VBG to|TO get|VB jobs|NNS in|IN the|DT state|NN and|CC theyre|NN getting|VBG them|PRP </s>|S_END
+<s>|S_START over|IN the|DT last|JJ year|NN hiring|VBG has|VBZ not|RB only|RB kept|VBD up|RP it|PRP has|VBZ grown|VBN at|IN a|DT rate|NN five|CD times|NNS faster|JJR than|IN floridas|NNS expanding|VBG labor|NN force|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START over|IN the|DT last|JJ year|NN the|DT state|NN has|VBZ added|VBN 34000|CD professional|JJ and|CC business|NN service|NN jobs|NNS 21000|CD health|NN care|NN and|CC social|JJ assistance|NN jobs|NNS and|CC 11000|CD retail|NN jobs|NNS </s>|S_END
+<s>|S_START that|DT said|VBD as|IN one|CD of|IN the|DT hardest|JJS hit|NN states|NNS in|IN the|DT housing|NN crisis|NN it|PRP still|RB suffers|VBZ from|IN a|DT loss|NN of|IN construction|NN jobs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT numbers|NNS today|NN tell|NN us|PRP two|CD things|NNS we|PRP still|RB have|VBP more|JJR work|NN to|TO do|VB to|TO grow|VB our|PRP$ economy|NN and|CC we|PRP are|VBP heading|VBG in|IN the|DT right|NN direction|NN florida|NN gov|NN </s>|S_END
+<s>|S_START rick|NN scott|VBD said|VBN in|IN a|DT statement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD the|DT other|JJ unemployment|NN rate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nevada|NN which|WDT has|VBZ six|CD electoral|JJ votes|NNS continues|VBZ to|TO have|VB the|DT highest|JJS unemployment|NN rate|NN in|IN the|DT country|NN at|IN 118|CD in|IN september|NN </s>|S_END
+<s>|S_START thats|NNS an|DT improvement|NN from|IN august|JJ when|WRB its|PRP$ rate|NN was|VBD 121|CD but|CC the|DT decline|NN was|VBD due|JJ to|TO a|DT combination|NN of|IN both|DT positive|JJ and|CC negative|JJ developments|NNS </s>|S_END
+<s>|S_START nevada|NN is|VBZ seeing|VBG modest|JJ job|NN growth|NN but|CC like|IN ohio|NN its|PRP$ labor|NN force|NN is|VBZ also|RB shrinking|VBG and|CC like|IN florida|NN it|PRP has|VBZ yet|RB to|TO recover|VB most|JJS of|IN the|DT construction|NN jobs|NNS lost|VBD in|IN the|DT financial|JJ crisis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START swing|VBG states|NNS wisconsin|IN colorado|NN iowa|NN and|CC north|JJ carolina|NN also|RB had|VBD declining|VBG unemployment|NN rates|NNS in|IN september|NN while|IN the|DT unemployment|NN rate|NN remain|NN unchanged|JJ in|IN the|DT battleground|NN states|VBZ of|IN virginia|NN and|CC new|JJ hampshire|NN </s>|S_END
+</p>|P_END
+

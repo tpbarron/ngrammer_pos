@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 11|CD gdp|NN $|$ 66bn|CD ppp|CD $|$ 83bn|CD inflation|NN 24|CD population|NN 45m|CD gdp|NN per|IN head|NN $|$ 14760|CD ppp|CD $|$ 18550|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT centreleft|NN will|MD return|VB to|TO power|NN in|IN 2012|CD after|IN more|JJR than|IN a|DT decade|NN replacing|VBG a|DT centreright|NN coalition|NN ejected|VBD amid|IN austerity|NN and|CC street|NN protest|NN </s>|S_END
+<s>|S_START despite|IN public|JJ disaffection|NN with|IN the|DT policies|NNS of|IN the|DT outgoing|NN administration|NN the|DT new|JJ one|CD will|MD do|VB little|RB different|JJ mainly|RB because|IN the|DT parlous|JJ state|NN of|IN the|DT economy|NN leaves|VBZ few|JJ option|NN </s>|S_END
+<s>|S_START the|DT foreign|JJ debt|NN is|VBZ high|JJ as|IN is|VBZ the|DT public|NN deficit|NN and|CC growth|NN prospects|NNS are|VBP modest|JJ so|RB the|DT focus|NN will|MD remain|VB firmly|RB on|IN austerity|NN and|CC structural|JJ reforms|NNS many|JJ of|IN them|PRP mandated|VBD by|IN the|DT eu|NN as|IN a|DT condition|NN of|IN entry|NN </s>|S_END
+</p>|P_END
+

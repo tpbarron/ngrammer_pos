@@ -1,0 +1,108 @@
+<p>
+<s>new york cnnmoney  those pesky popup ads from the 90s are back but this time theyre holding your smartphone hostage</s>
+</p>
+
+<p>
+<s>tens of thousands of smartphone apps are running ads from rogue advertising networks that change smartphone settings and take contact information without permission according to a new study released monday</s>
+</p>
+
+<p>
+<s>aggressive ad networks can disguise ads as text message notifications or app icons and sometimes change browser settings and bookmarks</s>
+<s>often the ads will upload your contacts list to the ad networks servers  information the ad network can then sell to marketers</s>
+</p>
+
+<p>
+<s>sounds scary</s>
+<s>its not a giant problem yet but its a growing one</s>
+<s>as many as 5 of free mobile apps use an aggressive ad network to make money according to lookout a san franciscobased mobile security company</s>
+</p>
+
+<p>
+<s>with millions of mobile apps in stores that small sliver adds up to a big number</s>
+<s>the study found that 19200 of the 384000 apps it tested used malicious ad networks</s>
+<s>those apps have been downloaded a whopping 80 million times</s>
+</p>
+
+<p>
+<s>phoneliving was one of the most prevalent app developers to use these kinds of ad networks according to lookout  their dozens of talking animal apps have been downloaded several million times</s>
+</p>
+
+<p>
+<s>phoneliving says it has mended its ways</s>
+<s>the company acknowledged using invasive techniques to make money from its apps but says it dropped those methods at the start of this month because of bad reviews and declining downloads</s>
+</p>
+
+<p>
+<s>we have removed all of the notificationicon ads from all of our talking apps a company spokesman said</s>
+<s>we have made this switch to benefit our users despite the lower profits involved in other types of ads</s>
+</p>
+
+<p>
+<s>the most popular type of apps that use aggressive ad networks are personalization apps which include wallpapers</s>
+<s>comic arcade and entertainment apps are also among the most likely to have rogue ad networks running behind the scenes</s>
+</p>
+
+<p>
+<s>like aggressive popups on pcs the bad software isnt easy to shed</s>
+<s>though the damage can typically be reversed by deleting the app it can be hard to pinpoint which app is causing the problems</s>
+</p>
+
+<p>
+<s>sometimes you download 10 apps at a time so you dont know which is responsible said kevin mahaffey lookouts cto</s>
+<s>its not unlike adware in the early pc days</s>
+</p>
+
+<p>
+<s>when developers create free mobile apps they usually make money through ads displayed within the app</s>
+<s>that free version of angry birds didnt cost you anything because of the popup ad that appears right as youre catapulting the red bird at its target</s>
+</p>
+
+<p>
+<s>the vast majority of ads run on wellknown ad networks like jumptap apples aapl fortune 500 iad and googles goog fortune 500 admob</s>
+<s>they collect some information about their users but they dont go to the extremes of uploading contact lists and changing settings</s>
+</p>
+
+<p>
+<s>the appeal of the ad networks that lookout calls aggressive is that they generate more revenue for app developers</s>
+</p>
+
+<p>
+<s>android ad network airpush for example places ads in users notification bars and home pages</s>
+<s>that generates more clicks  and more money for developers  since even inactive users can view the ads</s>
+</p>
+
+<p>
+<s>lookout has criticized airpush in the past for being overly aggressive with its marketing techniques</s>
+<s>airpush remains the secondbiggest ad network for android devices</s>
+</p>
+
+<p>
+<s>airpush gives customers the option of opting out of its push notification ads and users are notified the first time they launch an airpushequipped app about the apps advertising methods</s>
+<s>all of airpushs ads include the name of the app transmitting the ad the company says</s>
+</p>
+
+<p>
+<s>an airpush representative says the company plans to move within the next two weeks to an affirmative optin system for its push notification ads</s>
+</p>
+
+<p>
+<s>app makers dont usually disclose what ad network theyre using which makes it hard to avoid the known offenders</s>
+<s>the best defense is to read reviews and avoid downloading apps that have attracted a trail of complaints</s>
+</p>
+
+<p>
+<s>lookouts mahaffey says bad actors are more prevalent on android phones than iphones because the google play app store has fewer restrictions and gatekeepers than apples itunes app store</s>
+</p>
+
+<p>
+<s>but the iphone isnt immune other ad networks lookout considers aggressive include moolah media and leadbolt which publish apps for both android and ios</s>
+</p>
+
+<p>
+<s>correction a photo caption on an earlier version of this story incorrectly suggested that airpush takes contact information from users phones the company does not</s>
+<s>the story has been updated with a response from airpush</s>
+<s>also lookout initally cited mocean mobile as an aggressive network but later retracted that classification and called it an error</s>
+<s>mocean mobile is an adserving platform not an ad network</s>
+<s> </s>
+</p>
+

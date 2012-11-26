@@ -1,0 +1,52 @@
+<p>|P_START
+<s>|S_START ravens|NNS have|VBP a|DT bad|JJ reputation|NN </s>|S_END
+<s>|S_START medieval|NN monks|NNS who|WP liked|VBN to|TO give|VB names|NNS to|TO everything|NN even|RB things|NNS that|IN did|VBD not|RB need|VBN them|PRP came|VBD up|RP with|IN “an|JJ unkindness”|NN as|IN the|DT collective|JJ noun|NN for|IN these|DT corvid|JJ </s>|S_END
+<s>|S_START blake|NN hannaford|VBD and|CC his|PRP$ colleagues|NNS at|IN the|DT university|NN of|IN washington|NN in|IN seattle|NN however|RB hope|NN to|TO change|VB the|DT impression|NN engendered|VBD by|IN the|DT word|NN </s>|S_END
+<s>|S_START they|PRP are|VBP about|IN to|TO release|VB a|DT flock|NN of|IN medical|JJ robots|NNS with|IN winglike|NN arms|NNS called|VBN ravens|NNS in|IN the|DT hope|NN of|IN stimulating|VBG innovation|NN in|IN the|DT nascent|NN field|NN of|IN robotic|JJ surgery|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START robotassisted|VBD surgery|NN today|NN is|VBZ dominated|VBN by|IN the|DT da|NN vinci|NN surgical|JJ system|NN a|DT device|NN that|WDT scales|VBZ down|RB a|DT surgeons|NNS hand|VBP movements|NNS to|TO let|VB him|PRP make|VB tiny|JJ incision|NN </s>|S_END
+<s>|S_START that|DT leads|NNS to|TO less|JJR tissue|NN damage|NN and|CC thus|RB a|DT quicker|NN recovery|NN for|IN patient|NN </s>|S_END
+<s>|S_START almost|RB 2000|CD da|NN vincis|NNS have|VBP been|VBN made|VBN and|CC they|PRP are|VBP used|VBN in|IN about|IN 200000|CD operations|NNS a|DT year|NN around|IN the|DT world|NN most|JJS commonly|RB hysterectomies|VBZ and|CC prostate|JJ removal|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT da|NN vinci|NN is|VBZ far|RB from|IN perfect|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ immobile|JJ and|CC weighs|NNS more|RBR than|IN half|PDT a|DT tonne|NN which|WDT limits|NNS its|PRP$ deployability|NN and|CC it|PRP costs|VBZ $|$ 18m|CD which|WDT puts|NNS it|PRP beyond|IN the|DT reach|NN of|IN all|DT but|CC the|DT richest|JJS institution|NN </s>|S_END
+<s>|S_START it|PRP also|RB uses|VBZ proprietary|JJ software|NN </s>|S_END
+<s>|S_START even|RB if|IN researchers|NNS keen|VBP to|TO experiment|VB with|IN new|JJ robotic|JJ technologies|NNS and|CC treatments|NNS could|MD afford|VB one|CD they|PRP can|MD not|RB tinker|VB with|IN da|NN vincis|NNS operating|VBG system|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START none|NN of|IN that|DT is|VBZ true|JJ of|IN the|DT raven|NN </s>|S_END
+<s>|S_START originally|RB developed|VBD for|IN the|DT american|JJ army|NN by|IN dr|NN hannaford|NN and|CC jacob|NN rosen|NN of|IN the|DT university|NN of|IN california|NN santa|NN cruz|NN as|IN a|DT prototype|NN for|IN robotic|JJ surgery|NN on|IN the|DT battlefield|NN it|PRP is|VBZ compact|NN light|NN and|CC cheap|VB relatively|RB speaking|VBG at|IN around|IN $|$ 250000|CD </s>|S_END
+<s>|S_START more|JJR importantly|RB for|IN academics|NNS it|PRP is|VBZ also|RB the|DT first|JJ surgical|JJ robot|NN to|TO use|VB opensource|NN software|NN </s>|S_END
+<s>|S_START its|PRP$ linuxbased|VBN operating|VBG system|NN lets|NNS anyone|NN modify|NN and|CC improve|VB the|DT original|JJ code|NN creating|VBG a|DT way|NN for|IN researchers|NNS to|TO experiment|VB and|CC collaborate|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START universities|NNS across|IN america|NN took|VBD delivery|NN of|IN the|DT first|JJ brood|NN of|IN ravens|NNS in|IN february|JJ </s>|S_END
+<s>|S_START at|IN harvard|NN rob|NN howe|NN and|CC his|PRP$ team|NN hope|NN to|TO use|VB a|DT raven|NN to|TO operate|VB on|IN a|DT beating|NN heart|NN by|IN automatically|RB compensating|VBG for|IN its|PRP$ motion|NN </s>|S_END
+<s>|S_START at|IN the|DT moment|NN heart|NN surgery|NN requires|VBZ that|IN the|DT organ|NN be|VB stopped|VBN and|CC then|RB restarted|VBD </s>|S_END
+<s>|S_START at|IN the|DT university|NN of|IN california|NN los|NNS angeles|NNS meanwhile|RB warren|VBN grundfest|NN is|VBZ working|VBG on|IN ways|NNS to|TO give|VB the|DT robot|NN a|DT sense|NN of|IN touch|NN that|IN is|VBZ communicated|VBN to|TO the|DT operator|NN </s>|S_END
+<s>|S_START pieter|NN abbeel|NN and|CC ken|VBN goldberg|NN at|IN the|DT university|NN of|IN california|NN berkeley|NN will|MD try|VB teaching|NN the|DT robot|NN to|TO operate|VB autonomously|RB by|IN mimicking|NN surgeon|NN </s>|S_END
+<s>|S_START and|CC dr|NN rosen|NN himself|PRP will|MD work|VB on|IN ways|NNS to|TO get|VB human|JJ and|CC robotic|JJ surgeons|NNS to|TO work|VB together|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START crucially|RB although|IN individual|JJ laboratories|NNS will|MD retain|VB the|DT rights|NNS to|TO their|PRP$ own|JJ particular|JJ innovations|NNS the|DT results|NNS of|IN these|DT studies|NNS and|CC the|DT improvements|NNS they|PRP suggest|VBP will|MD be|VB stored|VBN in|IN an|DT online|NN repository|NN available|JJ to|TO all|DT </s>|S_END
+<s>|S_START what|WP happens|NNS after|IN that|DT is|VBZ less|JJR certain|JJ </s>|S_END
+<s>|S_START the|DT researchoriented|VBN raven|NN has|VBZ not|RB yet|RB been|VBN approved|VBN by|IN american|JJ regulators|NNS so|IN all|DT these|DT investigations|NNS are|VBP for|IN the|DT moment|NN restricted|VBD to|TO operations|NNS on|IN animals|NNS or|CC human|JJ cadaver|NN </s>|S_END
+<s>|S_START and|CC there|EX is|VBZ another|DT legal|JJ problem|NN </s>|S_END
+<s>|S_START intuitive|JJ surgical|JJ the|DT company|NN behind|IN the|DT da|NN vinci|NN holds|NNS patents|NNS that|WDT could|MD make|VB launching|VBG a|DT commercial|JJ competitor|NN tricky—at|JJ least|NN in|IN the|DT immediate|JJ future|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START once|RB those|DT patents|NNS expire|VBP however|RB the|DT university|NN of|IN washington|NN could|MD spin|VB off|RP the|DT raven|NN into|IN a|DT startup|NN company|NN </s>|S_END
+<s>|S_START in|IN the|DT meantime|NN four|CD more|JJR universities|NNS including|VBG two|CD outside|JJ america|NN have|VBP expressed|VBN an|DT interest|NN in|IN buying|NN one|CD of|IN the|DT new|JJ robot|NN </s>|S_END
+<s>|S_START and|CC even|RB those|DT without|IN $|$ 250000|CD to|TO spare|VB can|MD participate|VB in|IN its|PRP$ development|NN </s>|S_END
+<s>|S_START the|DT university|NN of|IN washington|NN is|VBZ releasing|VBG a|DT graphical|JJ simulation|NN of|IN the|DT raven|NN that|IN can|MD be|VB used|VBN to|TO test|NN its|PRP$ control|NN system|NN virtually|RB </s>|S_END
+<s>|S_START dr|NN hannaford|VBD hopes|NNS that|IN robotics|NNS researchers|NNS and|CC amateurs|NNS will|MD then|RB help|VB to|TO find|VB and|CC fix|VB bugs|NNS in|IN the|DT opensource|NN code|NN </s>|S_END
+</p>|P_END
+

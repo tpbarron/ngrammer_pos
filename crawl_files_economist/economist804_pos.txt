@@ -1,0 +1,68 @@
+<p>|P_START
+<s>|S_START the|DT 2000|CD presidential|JJ campaign|NN featured|VBD two|CD candidates|NNS with|IN the|DT same|JJ belief|NN </s>|S_END
+<s>|S_START both|DT approved|VBD of|IN bilingual|JJ education|NN wanted|VBD to|TO make|VB it|PRP easier|JJR for|IN spouses|NNS and|CC children|NNS of|IN permanent|NN residents|NNS to|TO come|VB to|TO america|VB and|CC hoped|VBN america’s|-NONE- immigration|NN services|NNS could|MD be|VB more|RBR immigrantfriendly|RB </s>|S_END
+<s>|S_START four|PRP$ years|NNS later|RBR the|DT winning|NN candidate|NN faced|VBD an|DT opponent|NN who|WP proposed|VBN speeding|VBG up|RP the|DT citizenship|NN process|NN for|IN immigrants|NNS serving|VBG in|IN the|DT armed|VBN forces|NNS and|CC granting|VBG citizenship|NN to|TO illegal|JJ immigrants|NNS who|WP had|VBD been|VBN in|IN america|NN for|IN “five|JJ or|CC six|CD years|NNS who|WP have|VBP paid|VBN their|PRP$ taxes|NNS and|CC who|WP have|VBP stayed|VBN out|RP of|IN trouble”|NNP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START times|NNS have|VBP changed|VBN </s>|S_END
+<s>|S_START this|DT year’s|JJ election|NN pits|NNS a|DT sitting|VBG president|NN whose|WP$ administration|NN has|VBZ deported|VBN more|JJR than|IN 1m|CD illegal|JJ immigrants|NNS against|IN a|DT challenger|NN who|WP was|VBD happy|JJ to|TO campaign|NN with|IN kris|NNS kobach|VBP the|DT author|NN of|IN harsh|JJ antiimmigrant|NN laws|NNS enacted|VBN in|IN arizona|NN and|CC alabama|NN and|CC who|WP at|IN one|CD point|NN said|VBD he|PRP advocates|VBZ making|VBG life|NN so|IN intolerable|JJ for|IN america’s|JJ 11m|CD illegal|JJ immigrants|NNS that|WDT they|PRP will|MD “selfdeport”|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB both|DT barack|NN obama|NN and|CC mitt|NN romney|NN have|VBP softer|JJR sides|NNS as|IN well|RB </s>|S_END
+<s>|S_START mr|NN obama|NN entered|VBD office|NN as|IN george|NN w|NN bush|NN did|VBD in|IN 2001|CD promising|VBG comprehensive|JJ immigration|NN reform|NN </s>|S_END
+<s>|S_START like|IN the|DT previous|JJ democratic|JJ candidate|NN john|NN kerry|NN mr|NN obama|NN advocated|VBD creating|VBG a|DT path|NN to|TO citizenship|VB for|IN illegal|JJ immigrants|NNS already|RB in|IN america|NN </s>|S_END
+<s>|S_START as|IN in|IN many|JJ cases|NNS mr|VBP obama|NN has|VBZ tended|VBN to|TO be|VB long|RB on|IN rhetoric|JJ and|CC short|JJ on|IN details|NNS and|CC nothing|NN has|VBZ happened|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN for|IN mr|NN romney|NN when|WRB he|PRP was|VBD governor|RB of|IN massachusetts|NNS he|PRP advocated|VBD increased|VBN funding|NN for|IN englisheducation|NN programmes|NNS and|CC enacted|VBD a|DT law|NN requiring|VBG judges|NNS to|TO warn|VB immigrants|NNS that|WDT their|PRP$ guilty|NN pleas|NNS could|MD lead|VB to|TO deportation|NN </s>|S_END
+<s>|S_START during|IN the|DT republican|JJ primaries|NNS however|RB mr|JJ romney|NN staked|VBD out|RP the|DT farthestright|NN ground|NN on|IN immigration|NN </s>|S_END
+<s>|S_START it|PRP was|VBD a|DT shrewd|NN shortterm|NN move|NN </s>|S_END
+<s>|S_START newt|NN gingrich|NN and|CC rick|NN perry|NN both|DT had|VBD moderate|JJ records|NNS on|IN the|DT issue|NN mr|NN romney’s|NNS rightward|VBP lurch|NN solidified|VBN his|PRP$ conservative|JJ credentials|NNS with|IN the|DT party|NN base|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN the|DT longer|NN term|NN though|IN this|DT move|NN looks|VBZ a|DT lot|NN less|RBR intelligent|NN </s>|S_END
+<s>|S_START mr|NN obama’s|NNS tough|IN record|NN on|IN deportation|NN might|MD in|IN other|JJ circumstances|NNS have|VBP given|VBN republicans|NNS a|DT chance|NN to|TO cut|VB into|IN the|DT 42point|JJ lead|NN that|WDT democrats|VBZ currently|RB enjoy|VBP among|IN latino|DT voter|NN </s>|S_END
+<s>|S_START mr|NN romney’s|NNS lurch|VBP has|VBZ made|VBN that|IN difficult|JJ </s>|S_END
+<s>|S_START ince|NN he|PRP won|VBD the|DT nomination|NN he|PRP has|VBZ halfheartedly|RB tried|VBN to|TO shift|VB back|RB to|TO the|DT centre|NN promising|VBG comprehensiveimmigration|NN reform|NN to|TO an|DT audience|NN of|IN latino|NN elected|VBN officials|NNS and|CC supporting|VBG uncontroversial|JJ measures|NNS such|JJ as|IN increased|VBN legal|JJ immigration|NN and|CC a|DT streamlined|JJ guestworker|NN programme|NN </s>|S_END
+<s>|S_START the|DT only|JJ mention|NN of|IN illegal|JJ immigration|NN in|IN his|PRP$ campaign|NN is|VBZ tepid|JJ support|NN for|IN permanent|NN residency|NN for|IN illegal|JJ immigrants|NNS brought|VBD to|TO america|VB as|IN children|NNS who|WP serve|VB in|IN the|DT armed|VBN force|NN </s>|S_END
+<s>|S_START he|PRP opposes|VBZ citizenship|NN for|IN other|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT lot|NN of|IN talk|NN but|CC little|RB action|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN for|IN mr|NN obama’s|NNS immigration|NN policy|NN his|PRP$ only|JJ achievement|NN has|VBZ been|VBN a|DT crafty|NN run|VBN around|IN congre|NN </s>|S_END
+<s>|S_START in|IN 2010|CD 55|CD members|NNS of|IN the|DT senate|NN voted|VBD to|TO pass|VB the|DT development|NN relief|NN and|CC education|NN for|IN alien|NN minors|NNS dream|VBP act|NN which|WDT would|MD have|VB provided|VBN those|DT same|JJ illegal|JJ immigrants|NNS brought|VBD to|TO america|VB as|IN children—when|JJ they|PRP were|VBD in|IN no|DT position|NN to|TO choose|VB whether|IN or|CC not|RB to|TO cross|VB a|DT border—with|JJ a|DT path|NN to|TO citizenship|VB provided|VBN they|PRP were|VBD under|IN 30|CD had|VBD no|DT criminal|JJ record|NN and|CC had|VBD graduated|VBN or|CC were|VBD enrolled|VBN in|IN university|NN or|CC served|VBN in|IN the|DT armed|VBN force|NN </s>|S_END
+<s>|S_START yet|RB senate|VBP republicans|NNS blocked|VBN it|PRP </s>|S_END
+<s>|S_START o|NN last|JJ june|NN mr|NN obama’s|NNS homeland|VBP security|NN secretary|NN in|IN what|WP she|PRP termed|VBD “an|JJ exercise|NN of|IN prosecutorial|JJ discretion”|NN declared|VBD in|IN effect|NN that|IN immigrants|NNS who|WP meet|VBP the|DT dream|NN act’s|VBZ criteria|NNS will|MD not|RB be|VB deported|VBN </s>|S_END
+<s>|S_START the|DT administration|NN will|MD direct|VB its|PRP$ resources|NNS against|IN illegal|JJ immigrants|NNS who|WP pose|RB a|DT criminal|JJ or|CC security|NN threat|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT action|NN which|WDT caused|VBN much|RB republican|JJ rage|NN highlighted|VBD the|DT main|JJ obstacle|NN facing|VBG whoever|NN wins|NNS in|IN november|NN a|DT recalcitrant|NN legislature|NN </s>|S_END
+<s>|S_START on|IN this|DT issue|NN the|DT republicans|NNS are|VBP especially|RB unyielding|VBG </s>|S_END
+<s>|S_START they|PRP took|VBD control|NN of|IN the|DT house|NN in|IN the|DT teaparty|NN wave|NN of|IN 2010|CD backed|VBN by|IN activists|NNS who|WP hate|RB illegal|JJ immigration|NN almost|RB as|IN much|JJ as|IN big|JJ government|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START consider|NN the|DT dream|NN act’s|VBZ history|NN </s>|S_END
+<s>|S_START orrin|NN hatch|NN a|DT republican|JJ senator|NN from|IN utah|NN first|RB introduced|VBN the|DT measure|NN in|IN 2001|CD with|IN six|CD republican|JJ cosponsor|NN </s>|S_END
+<s>|S_START it|PRP died|VBD in|IN committee|NN </s>|S_END
+<s>|S_START five|CD years|NNS later|RBR it|PRP was|VBD passed|VBN by|IN the|DT senate|NN as|IN part|NN of|IN the|DT comprehensive|JJ immigration|NN reform|NN act—a|NN far|RB more|RBR expansive|JJ bill|NN which|WDT among|IN other|JJ things|NNS would|MD have|VB increased|VBN border|NN security|NN and|CC granted|VBD permanentresident|NN status|NN to|TO all|DT lawabiding|VBG taxpaying|NN illegal|JJ immigrants|NNS who|WP had|VBD been|VBN in|IN america|NN for|IN at|IN least|JJS five|CD years|NNS provided|VBN they|PRP paid|VBD a|DT $|$ 2000|CD fine|NN regardless|NN of|IN their|PRP$ age|NN or|CC when|WRB they|PRP came|VBD to|TO america|VB </s>|S_END
+<s>|S_START but|CC the|DT bill|NN which|WDT also|RB had|VBD a|DT republican|JJ sponsor|NN and|CC five|CD republican|NN cosponsors|NNS died|VBD in|IN conference|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN 2010|CD the|DT dream|NN act|NN did|VBD not|RB even|RB make|VB it|PRP that|IN far|RB </s>|S_END
+<s>|S_START enate|NN republicans|NNS filibustered|VBD it|PRP five|CD democrats|NNS also|RB voted|VBD against|IN the|DT measure|NN their|PRP$ support|NN would|MD have|VB broken|VBN the|DT filibuster|NN </s>|S_END
+<s>|S_START mr|NN hatch|NN declined|VBD to|TO vote|VB for|IN the|DT measure|NN he|PRP had|VBD once|RB sponsored|VBN </s>|S_END
+<s>|S_START two|CD of|IN his|PRP$ original|JJ cosponsors|NNS voted|VBD against|IN it|PRP as|IN did|VBD three|CD of|IN the|DT 2006|CD bill’s|NNS cosponsors|NNS and|CC seven|CD other|JJ republicans|NNS who|WP had|VBD previously|RB supported|VBN it|PRP </s>|S_END
+<s>|S_START without|IN a|DT seachange|NN in|IN either|DT the|DT composition|NN of|IN congress|NN or|CC republican|JJ attitudes|NNS the|DT determining|VBG factor|NN in|IN the|DT next|JJ president’s|NNS immigration|NN policy|NN will|MD be|VB restricted|VBN to|TO his|PRP$ willingness|NN to|TO skirt|VB the|DT legislature|NN </s>|S_END
+</p>|P_END
+

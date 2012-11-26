@@ -1,0 +1,71 @@
+<p>|P_START
+<s>|S_START rokus|NN $|$ 99|CD streaming|VBG stick|NN plugs|NNS into|IN tv|NN sets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fortune|NN anthony|NN wood|NN is|VBZ not|RB your|PRP$ typical|JJ silicon|NN valley|NN pitch|NN man|NN </s>|S_END
+<s>|S_START the|DT mildmannered|VBN ceo|NN of|IN streamingmedia|NNS startup|VBP roku|NN has|VBZ a|DT penchant|JJ for|IN slow|JJ pauseladen|NN speech|NN </s>|S_END
+<s>|S_START he|PRP tends|VBZ to|TO pluck|VB his|PRP$ corded|VBN suspenders|NNS when|WRB hes|NNS finally|RB made|VBD his|PRP$ point|NN </s>|S_END
+<s>|S_START but|CC this|DT gentle|NN demeanor|NN hasnt|NN stopped|VBD wood|NN 46|CD from|IN besting|VBG much|RB larger|JJR rivals|NNS including|VBG google|NN goog|NN fortune|NN 500|CD and|CC sony|NN sne|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START roku|NN based|VBN in|IN saratoga|NN calif|IN makes|NNS puckshaped|VBD devices|NNS that|IN beam|NN media|NNS television|NN shows|NNS movies|NNS and|CC sports|NNS from|IN the|DT internet|NN onto|IN tvs|NNS </s>|S_END
+<s>|S_START since|IN the|DT first|JJ roku|NN player|NN made|VBD its|PRP$ debut|NN in|IN 2008|CD the|DT company|NN has|VBZ built|VBN up|RP 650|CD channels|NNS from|IN netflix|CD nflx|NN to|TO nba|VB game|NN time|NN and|CC sold|VBD over|RP 3|CD million|CD players|NNS </s>|S_END
+<s>|S_START combined|VBN roku|NN and|CC apples|NNS aapl|VBP fortune|NN 500similar|JJ box|NN apple|NN tv|NN command|NN about|IN 95|CD of|IN the|DT market|NN for|IN internet|NN tv|NN streaming|VBG devices|NNS the|DT company|NN claims|VBZ </s>|S_END
+<s>|S_START earlier|JJR this|DT year|NN roku|NN raised|VBD a|DT $|$ 45|CD million|CD round|NN of|IN funding|NN from|IN backers|NNS including|VBG menlo|NN ventures|NNS and|CC news|NN corp|NN nwsa|NN fortune|NN 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START wood|NN has|VBZ an|DT impressive|JJ track|NN record|NN </s>|S_END
+<s>|S_START in|IN the|DT mid1990s|NNP he|PRP wanted|VBD to|TO find|VB a|DT better|JJR way|NN to|TO record|VB reruns|NNS of|IN his|PRP$ favorite|JJ tv|NN show|NN star|NN trek|NN the|DT next|JJ generation|NN </s>|S_END
+<s>|S_START vhs|NNS tapes|NNS werent|VBP cutting|VBG it|PRP </s>|S_END
+<s>|S_START so|IN he|PRP invented|VBD a|DT programmable|JJ settop|NN box|NN with|IN a|DT small|JJ hard|JJ drive|JJ that|IN gave|JJ show|NN listings|NNS and|CC could|MD even|RB pause|VB live|JJ tv|NN </s>|S_END
+<s>|S_START it|PRP was|VBD the|DT first|JJ digital|NN video|NN recorder|NN or|CC dvr|NN </s>|S_END
+<s>|S_START he|PRP founded|VBD replaytv|NN a|DT company|NN eventually|RB bought|VBD by|IN directv|NN dtv|NN fortune|NN 500|CD </s>|S_END
+<s>|S_START dvrs|NNS have|VBP become|VBN nearly|RB ubiquitous|JJ and|CC are|VBP poised|VBN to|TO reach|VB some|DT 338|CD million|CD households|NNS globally|RB by|IN 2018|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN 2007|CD wood|NN was|VBD recruited|VBN by|IN netflix|NN ceo|NN reed|VBD hastings|NNS to|TO build|VB the|DT netflix|NN player|NN a|DT box|NN that|WDT beamed|VBD content|NN directly|RB to|TO tvs|NNS </s>|S_END
+<s>|S_START hastings|NNS eventually|RB nixed|VBN the|DT idea|NN in|IN order|NN to|TO coax|VB other|JJ companies|NNS into|IN making|VBG hardware|NN with|IN builtin|NN netflix|NN support|NN </s>|S_END
+<s>|S_START wood|NN with|IN a|DT $|$ 6|CD million|CD investment|NN from|IN hastings|NNS released|VBN the|DT design|NN on|IN his|PRP$ own|JJ as|IN the|DT first|JJ roku|NN streamingvideo|NN device|NN </s>|S_END
+<s>|S_START roku|NN japanese|VBD for|IN six|CD is|VBZ woods|NNS sixth|JJ company|NN </s>|S_END
+<s>|S_START anthony|NN isnt|VBD a|DT virgin|NN to|TO the|DT business|NN hastings|NNS tells|VBZ fortune|NN </s>|S_END
+<s>|S_START hes|NNS succeeded|VBD at|IN multiple|NN different|JJ companies|NNS </s>|S_END
+<s>|S_START thats|NNS very|RB rare|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START more|JJR tv|NN not|RB required|VBN 5|CD shows|NNS to|TO watch|VB online|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START now|RB wood|VBD is|VBZ contemplating|VBG getting|VBG rid|NN of|IN the|DT box|NN altogether|NN </s>|S_END
+<s>|S_START rokus|NN newest|VBD product|NN the|DT streaming|NN stick|NN looks|NNS like|IN a|DT usb|NN memory|NN drive|VBP and|CC plugs|NNS directly|RB into|IN the|DT back|NN of|IN newer|JJR tv|NN sets|NNS turning|VBG them|PRP into|IN smart|NN televisions|NNS </s>|S_END
+<s>|S_START the|DT gadget|NN streams|NNS content|NN like|IN a|DT typical|JJ roku|NN player|NN and|CC allows|VBZ features|NNS to|TO be|VB added|VBN in|IN the|DT future|NN </s>|S_END
+<s>|S_START wood|NN calculates|NNS that|WDT tv|NN makers|NNS will|MD bundle|VB the|DT device|NN to|TO sell|VB more|JJR sets|NNS without|IN significantly|RB driving|VBG up|RP their|PRP$ costs|NNS </s>|S_END
+<s>|S_START the|DT $|$ 99|CD streaming|VBG stick|NN went|NN on|IN sale|NN in|IN october|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nobody|NN knows|VBZ what|WP will|MD happen|VB with|IN online|NN television|NN </s>|S_END
+<s>|S_START content|NN providers|NNS and|CC technology|NN firms|NNS are|VBP placing|VBG wildly|RB different|JJ bets|NNS </s>|S_END
+<s>|S_START and|CC examples|NNS of|IN stinging|VBG failures|NNS abound|IN </s>|S_END
+<s>|S_START googles|NNS recently|RB released|VBN $|$ 299|CD digitalmediastreaming|VBG device|NN the|DT orbshaped|JJ nexus|NN q|NN was|VBD widely|RB panned|VBN </s>|S_END
+<s>|S_START they|PRP blew|VBP it|PRP says|VBZ wood|NN </s>|S_END
+<s>|S_START and|CC oncehot|VBD startups|NNS such|JJ as|IN boxee|NN have|VBP had|VBN to|TO change|VB course|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START roku|NN has|VBZ avoided|VBN such|JJ pitfalls|NNS in|IN part|NN by|IN aggressively|RB undercutting|VBG competitors|NNS </s>|S_END
+<s>|S_START its|PRP$ devices|NNS start|VB at|IN just|RB $|$ 49|CD </s>|S_END
+<s>|S_START but|CC the|DT company|NN is|VBZ not|RB yet|RB profitable|JJ and|CC has|VBZ spent|VBN a|DT lot|NN to|TO advertise|VB </s>|S_END
+<s>|S_START presented|VBD with|IN those|DT challenges|NNS wood|VBP shrugs|NNS noting|VBG that|IN roku|NN has|VBZ already|RB managed|VBN to|TO adapt|VB quickly|RB </s>|S_END
+<s>|S_START whatever|NN happens|NNS he|PRP vows|VBZ well|RB be|VB ready|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT story|NN is|VBZ from|IN the|DT november|NN 12|CD 2012|CD issue|NN of|IN fortune|NN </s>|S_END
+</p>|P_END
+

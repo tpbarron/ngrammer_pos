@@ -1,0 +1,85 @@
+<p>|P_START
+<s>|S_START us|PRP patent|VBD no|DT </s>|S_END
+<s>|S_START 6343263|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN patent|NN trolls|NNS companies|NNS that|WDT license|NN patents|NNS but|CC do|VBP not|RB actually|RB sell|VB anything|NN have|VBP long|RB been|VBN looked|VBN on|IN with|IN fiery|NN scorn|NN in|IN silicon|NN valley|NN </s>|S_END
+<s>|S_START this|DT week|NN a|DT boston|NN university|NN study|NN offered|VBD fresh|JJ fuel|NN for|IN those|DT flames|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lawsuits|NNS from|IN nonpracticing|VBG entities|NNS or|CC npes|NNS better|RBR known|VBN as|IN patent|NN trolls|NNS have|VBP cost|VBN innovators|NNS $|$ 500|CD billion|CD in|IN lost|NN wealth|NN from|IN 1990|CD through|IN 2010|CD the|DT bu|NN study|NN found|VBD </s>|S_END
+<s>|S_START the|DT study|NN arrived|VBD at|IN that|DT figure|NN by|IN observing|NN patent|NN defendants|NNS stock|NN prices|NNS following|VBG a|DT lawsuit|NN excluding|VBG general|JJ market|NN trends|NNS and|CC random|NN stock|NN movements|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT average|JJ patent|NN lawsuit|NN results|NNS in|IN $|$ 122|CD million|CD in|IN lost|NN wealth|NN for|IN the|DT defendant|NN with|IN a|DT median|JJ loss|NN of|IN $|$ 204|CD million|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC almost|RB all|DT of|IN that|DT money|NN dissipates|VBZ into|IN the|DT ether|NN </s>|S_END
+<s>|S_START very|RB little|JJ of|IN it|PRP transfers|VBZ from|IN big|JJ firms|NNS to|TO small|JJ ones|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT common|JJ talking|NN point|NN among|IN npes|NNS is|VBZ that|IN they|PRP provide|VBP a|DT way|NN for|IN small|JJ inventors|NNS to|TO make|VB money|NN on|IN their|PRP$ patents|NNS if|IN big|JJ bad|JJ ibm|NN ibm|NN fortune|NN 500|CD for|IN example|NN were|VBD to|TO infringe|VB on|IN one|CD of|IN their|PRP$ patents|NNS small|JJ inventors|NNS likely|JJ wouldnt|NN be|VB able|JJ to|TO afford|VB to|TO defend|VB their|PRP$ patent|NN in|IN court|NN </s>|S_END
+<s>|S_START but|CC if|IN that|DT small|JJ inventor|NN sells|NNS the|DT patent|NN to|TO a|DT patent|NN troll|NN the|DT npe|NN can|MD then|RB sue|VB ibm|NN and|CC deliver|NN a|DT portion|NN of|IN those|DT payments|NNS back|VBP to|TO the|DT inventor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bu|NN study|NN called|VBN bull|NN on|IN that|DT that|IN notion|NN just|RB 2|CD of|IN companies|NNS net|JJ losses|NNS went|VBD to|TO small|JJ investors|NNS </s>|S_END
+<s>|S_START npes|NNS are|VBP getting|VBG a|DT better|JJR deal|NN but|CC even|RB they|PRP still|RB took|VBD home|NN just|RB 9|CD of|IN those|DT losses|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START patent|NN trolls|NNS also|RB like|IN to|TO say|VB that|IN they|PRP themselves|VBZ foster|NN innovation|NN </s>|S_END
+<s>|S_START its|PRP$ true|JJ that|IN many|JJ npes|NNS have|VBP their|PRP$ own|JJ research|NN and|CC development|NN laboratories|NNS that|WDT are|VBP used|VBN to|TO invent|VB technologies|NNS that|WDT can|MD be|VB patented|VBN </s>|S_END
+<s>|S_START but|CC those|DT rd|NN expenses|NNS are|VBP also|RB quite|RB small|JJ they|PRP represent|VBP 2|CD of|IN the|DT lost|JJS $|$ 500|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN if|IN big|JJ technology|NN companies|NNS small|JJ technology|NN companies|NNS and|CC even|RB investors|NNS in|IN npes|NNS arent|NN gaining|VBG much|RB from|IN patent|NN litigation|NN who|WP is|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT only|JJ real|JJ beneficiaries|NNS are|VBP the|DT lawyers|NNS and|CC perhaps|RB the|DT principals|NNS of|IN the|DT npe|NN firms|NNS said|VBD james|NNS bessen|VBN professor|NN at|IN bus|NN law|NN school|NN and|CC author|NN of|IN the|DT study|NN </s>|S_END
+<s>|S_START there|EX are|VBP a|DT lot|NN of|IN big|JJ losers|NNS from|IN npe|NN litigation|NN while|IN hardly|RB anyone|NN benefits|NNS much|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN a|DT result|NN the|DT study|NN concludes|VBZ that|IN patent|NN trolls|NNS create|VBP a|DT very|RB large|JJ disincentive|JJ to|TO innovate|VB </s>|S_END
+<s>|S_START in|IN fact|NN a|DT previous|JJ bu|NN study|NN found|VBD that|IN the|DT more|RBR a|DT company|NN spends|VBZ on|IN research|NN and|CC development|NN the|DT more|RBR likely|JJ it|PRP is|VBZ to|TO be|VB sued|VBN </s>|S_END
+<s>|S_START the|DT vast|JJ majority|NN of|IN defendants|NNS in|IN patent|NN lawsuits|NNS are|VBP companies|NNS that|WDT invest|JJS heavily|RB in|IN rd|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bessen|NN says|VBZ that|IN it|PRP wasnt|VBP always|RB this|DT way|NN </s>|S_END
+<s>|S_START npes|NNS used|VBN to|TO add|VB to|TO the|DT common|JJ good|JJ assisting|NN small|JJ inventors|NNS in|IN growing|VBG the|DT profits|NNS they|PRP earn|VBP from|IN their|PRP$ inventions|NNS </s>|S_END
+<s>|S_START but|CC over|IN the|DT past|JJ couple|NN of|IN decades|NNS a|DT new|JJ crop|NN of|IN patent|NN trolls|NNS have|VBP begun|VBN litigating|VBG on|IN an|DT unprecedented|JJ scale|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT lawsuits|NNS have|VBP ramped|VBN up|RP considerably|RB since|IN 2006|CD </s>|S_END
+<s>|S_START npe|NN lawsuits|NNS represent|VBP upwards|NNS of|IN 17|CD of|IN all|DT patent|NN lawsuits|NNS and|CC 41|CD of|IN all|DT software|NN patent|NN cases|NNS according|VBG to|TO a|DT 2009|CD study|NN published|VBD in|IN the|DT north|JJ carolina|NN law|NN review|NN </s>|S_END
+<s>|S_START the|DT bu|NN study|NN found|VBD that|IN the|DT associated|VBN destruction|NN of|IN wealth|NN among|IN defendants|NNS in|IN those|DT suits|NNS has|VBZ averaged|VBN $|$ 83|CD billion|CD per|IN year|NN over|IN the|DT past|JJ four|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT traits|NNS of|IN this|DT new|JJ wave|NN of|IN patent|NN litigation|NN are|VBP distinctive|JJ the|DT study|NN found|VBD the|DT lawsuits|NNS tend|VBP to|TO focus|VB on|IN software|NN target|NN companies|NNS that|WDT have|VBP already|RB developed|VBN technology|NN and|CC involve|VB multiple|NN large|JJ companies|NNS as|IN defendants|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT characteristics|NNS suggest|VBP that|IN this|DT litigation|NN exploits|VBZ weaknesses|NNS in|IN the|DT patent|NN system|NN bessen|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT means|VBZ patent|NN troll|NN lawsuits|NNS have|VBP just|RB one|CD positive|JJ effect|NN for|IN patents|NNS they|PRP increase|VBP incentives|NNS for|IN large|JJ tech|NN companies|NNS to|TO acquire|VB vast|JJ portfolios|NNS of|IN patents|NNS to|TO bolster|VB their|PRP$ defenses|NNS even|RB if|IN real|JJ innovation|NN suffers|NNS </s>|S_END
+<s>|S_START apple|NN aapl|NN fortune|NN 500|CD and|CC microsoft|JJ msft|NN fortune|NN 500|CD for|IN instance|NN were|VBD among|IN several|JJ firms|NNS to|TO buy|VB patents|NNS from|IN the|DT bankrupt|JJ nortel|NN for|IN $|$ 45|CD billion|CD while|IN google|JJ goog|NN fortune|NN 500|CD bought|NN motorola|NN mobility|NN mmi|NN and|CC its|PRP$ portfolio|NN of|IN 17000|CD patents|NNS for|IN $|$ 125|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB president|NN obama|NN just|RB signed|VBD a|DT patent|NN reform|NN bill|NN into|IN law|NN last|JJ week|NN that|IN garnered|VBN broad|JJ bipartisan|NN support|NN </s>|S_END
+<s>|S_START but|CC that|DT bill|NN does|VBZ nothing|NN to|TO hinder|NN these|DT kind|NN of|IN lawsuits |JJ </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,56 @@
+<p>|P_START
+<s>|S_START america’s|NNS political|JJ landscape|NN is|VBZ not|RB much|JJ changed|VBN </s>|S_END
+<s>|S_START barack|NN obama|NN occupies|NNS the|DT white|JJ house|NN the|DT republicans|NNS control|NN the|DT house|NN of|IN representatives|NNS and|CC the|DT democrats|NNS have|VBP the|DT edge|NN in|IN the|DT senate|NN </s>|S_END
+<s>|S_START but|CC this|DT week|NN some|DT parts|NNS of|IN the|DT country|NN made|VBD a|DT decisive|JJ break|NN with|IN the|DT past|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START perhaps|RB most|RBS strikingly|RB gaymarriage|NN advocates|NNS won|VBD all|DT four|CD measures|NNS they|PRP were|VBD contesting|VBG </s>|S_END
+<s>|S_START maine|NN maryland|VBD and|CC washington|NN became|VBD the|DT first|JJ states|NNS to|TO legalise|VB samesex|NN marriage|NN by|IN a|DT popular|JJ vote|NN legislatures|NNS and|CC courts|NNS have|VBP granted|VBN gays|NNS the|DT right|NN to|TO wed|VBD in|IN six|CD other|JJ states|NNS and|CC washington|NN dc|NN </s>|S_END
+<s>|S_START voters|NNS in|IN minnesota|NN saw|VBD off|RP a|DT proposed|VBN constitutional|JJ ban|NN </s>|S_END
+<s>|S_START few|JJ campaigners|NNS had|VBD dared|VBN hope|NN for|IN a|DT clean|JJ sweep|NN and|CC rulings|NNS in|IN the|DT new|JJ supreme|NN court|NN term|NN may|MD provide|VB a|DT further|JJ boost|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT right|NN to|TO marry|VB whom|NN you|PRP please|VB may|MD have|VB been|VBN in|IN mr|NN obama’s|NNS thoughts|NNS when|WRB he|PRP spoke|VBP of|IN “the|NNP freedom|NN which|WDT so|RB many|JJ americans|NNS have|VBP fought|VBN for”|-NONE- on|IN victory|NN night|NN </s>|S_END
+<s>|S_START the|DT right|NN to|TO spark|VB up|RP a|DT fat|JJ one|CD probably|RB was|VBD not|RB </s>|S_END
+<s>|S_START yet|RB stoners|NNS in|IN colorado|NN and|CC washington|NN will|MD be|VB able|JJ to|TO do|VB just|RB that|IN after|IN those|DT two|CD states|NNS voted|VBD to|TO legalise|VB marijuana|NNS for|IN recreational|JJ purposes|NNS an|DT electoral|JJ first|JJ not|RB only|RB for|IN america|NN but|CC for|IN the|DT world|NN </s>|S_END
+<s>|S_START oregonians|NNS failed|VBD to|TO approve|VB a|DT similar|JJ measure|NN </s>|S_END
+<s>|S_START other|JJ states|NNS are|VBP likely|JJ to|TO follow|VB suit|NN in|IN coming|VBG years|NNS says|VBZ ethan|JJ nadelmann|NN of|IN the|DT drug|NN policy|NN alliance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START marijuana|NNS remains|VBZ illegal|JJ under|IN federal|JJ law|NN and|CC the|DT divergence|NN in|IN state|NN and|CC federal|JJ thinking|NN may|MD yet|RB spell|VB trouble—as|JJ it|PRP has|VBZ lately|RB in|IN california|NN where|WRB medical|JJ marijuana|NNS is|VBZ legal|JJ </s>|S_END
+<s>|S_START but|CC mr|PRP$ obama’s|NNS administration|NN detecting|VBG that|IN americans|NNS are|VBP turning|VBG against|IN blanket|NN prohibition|NN may|MD decide|VB that|IN it|PRP has|VBZ better|JJR things|NNS to|TO do|VB </s>|S_END
+<s>|S_START it|PRP remained|VBD silent|JJ during|IN the|DT campaigns|NNS in|IN washington|NN and|CC colorado|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT left|VBN may|MD also|RB be|VB cheered|VBN by|IN the|DT passage|NN in|IN california|NN of|IN proposition|NN 30|CD which|WDT will|MD increase|VB sales|NNS and|CC income|NN taxes|NNS to|TO help|VB fund|NN education|NN and|CC close|JJ the|DT budget|NN gap|NN </s>|S_END
+<s>|S_START californians|NNS have|VBP not|RB made|VBN a|DT habit|NN of|IN raising|NN taxes|NNS on|IN themselves|NNS and|CC some|DT will|MD see|VB the|DT result|NN of|IN this|DT closefought|NN battle|NN as|IN a|DT sign|NN that|IN americans|NNS as|IN a|DT whole|JJ are|VBP ready|JJ to|TO see|VB their|PRP$ tax|NN bills|NNS rise|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT hints|NNS at|IN a|DT broader|JJR question|NN what|WP do|VBP this|DT year’s|JJ ballot|NN measures|NNS reveal|VBP about|IN america’s|NNS political|JJ centre|NN of|IN gravity|NN </s>|S_END
+<s>|S_START the|DT marijuana|NN and|CC marriage|NN votes|NNS help|VBP confirm|NN what|WP was|VBD already|RB clear|JJ from|IN polls|NNS that|WDT public|JJ opinion|NN is|VBZ relaxing|VBG on|IN these|DT if|IN not|RB all|DT social|JJ issue|NN </s>|S_END
+<s>|S_START there|EX was|VBD solace|NN for|IN liberals|NNS elsewhere|RB too|RB </s>|S_END
+<s>|S_START a|DT vote|NN in|IN maryland|NN to|TO grant|VB instate|JJ collegetuition|NN rates|NNS to|TO illegal|JJ immigrants|NNS may|MD foreshadow|VB an|DT attempt|NN by|IN mr|NN obama|NN to|TO fix|VB america’s|JJ rickety|NN immigration|NN system|NN </s>|S_END
+<s>|S_START in|IN several|JJ states|NNS proposals|NNS to|TO curtail|VB union|NN rights|NNS fell|VBD flat|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC america|VBP has|VBZ not|RB lurched|VBN to|TO the|DT left|NN </s>|S_END
+<s>|S_START outside|IN california|NN tax|NN increases|NNS fared|VBD less|JJR well|RB </s>|S_END
+<s>|S_START voters|NNS in|IN georgia|NN ignored|VBD pleas|NNS from|IN teachers’|NNP unions|NNS and|CC approved|VBD a|DT controversial|JJ charterschool|NN measure|NN washington|NN may|MD do|VB the|DT same|JJ the|DT count|NN is|VBZ not|RB complete|JJ </s>|S_END
+<s>|S_START four|PRP$ states|NNS stuck|VBP two|CD fingers|NNS up|IN to|TO mr|VB obama|NN in|IN effect|NN by|IN pledging|NN not|RB to|TO implement|VB aspects|NNS of|IN his|PRP$ healthcare|NN law|NN </s>|S_END
+<s>|S_START the|DT measures|NNS are|VBP unlikely|RB to|TO survive|VB legal|JJ challenge|NN but|CC they|PRP show|VBP how|WRB lively|RB the|DT hostility|NN remains|VBZ in|IN parts|NNS of|IN the|DT country|NN to|TO the|DT president’s|NNS hardestwon|VBP achievement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hundreds|NNS of|IN millions|NNS were|VBD spent|VBN on|IN the|DT 176|CD statewide|NN measures|NNS placed|VBN before|IN america’s|NNP voters|NNS on|IN november|NN 6th|CD </s>|S_END
+<s>|S_START but|CC although|IN money|NN can|MD buy|VB a|DT place|NN on|IN the|DT ballot|NN it|PRP can|MD not|RB guarantee|VB succe|NN </s>|S_END
+<s>|S_START initiatives|NNS backed|VBD by|IN businesses|NNS and|CC rich|JJ individuals|NNS including|VBG some|DT shameless|NN attempts|VBZ to|TO pursue|VB private|JJ interests|NNS through|IN the|DT ballot|NN box|NN fell|VBD flat|JJ in|IN california|NN michigan|NN and|CC oregon|NN </s>|S_END
+<s>|S_START americans|NNS can|MD not|RB rid|VB their|PRP$ politics|NNS of|IN special|JJ interest|NN </s>|S_END
+<s>|S_START but|CC they|PRP can|MD sometimes|RB give|VB them|PRP an|DT electoral|JJ kicking|NN </s>|S_END
+</p>|P_END
+

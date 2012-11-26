@@ -1,0 +1,145 @@
+<p>
+<s>at first glance it appears to be a minuscule marble spinning around its vertical axis</s>
+<s>look closer however and you see a stationary spherical membrane of fluid just 3 microns across</s>
+<s>it is the stuff inside the droplet that is rotating</s>
+<s>this selfcontained centrifuge has been created by blasting a droplet of fluid with sound</s>
+</p>
+
+<p>
+<s>it doesnt just look cool</s>
+<s>the manipulation of drops of liquid using sound known as acoustic microfluidics is spawning a growing number of applications</s>
+<s>jonathan cooper of the university of glasgow thinks the technique could do away with bulky laboratory equipment with all its finicky moving parts</s>
+<s>this dr cooper suggests could radically cut the cost of diagnosing and treating diseases or detecting harmful pathogens in hospitals water sources or foodprocessing facilities</s>
+</p>
+
+<p>
+<s>sounds it turns out are ideally suited for handling unruly fluids</s>
+<s>by carefully controlling the way sound makes the transition from a solid to a fluid medium it is possible to pump mix or heat up a fluid</s>
+<s>with enough power droplets can even be made to vaporise or squirt spectacularly off the solid surface like the ink in an inkjet printer but without the nozzle</s>
+</p>
+
+<p>
+<s>sonic screwdriving</s>
+</p>
+
+<p>
+<s>all this is done by harnessing surface acoustic waves saws</s>
+<s>when these intense oscillations travelling through a solid medium come into contact with a drop of fluid lying on its surface the drop absorbs some of their energy</s>
+<s>this energy tends to dissipate rapidly but when saws reach a frequency of around 10mhz in waterbased fluids they give rise to an unusual phenomenon called acoustic streaming</s>
+<s>as the name suggests instead of spreading throughout the fluid as humdrum compression waves the saws cause some sections of the liquid to flow but not others creating steady microcurrents</s>
+</p>
+
+<p>
+<s>by varying the angle and direction of saws relative to the droplet the internal streams can be made to flow in just about any direction</s>
+<s>aim the wave at the centre of the droplet but at an angle and the forces generated will cause the droplet to roll</s>
+<s>sideswipe it and you will get a whirlpool which can be used to stir the contents</s>
+<s>drive the stream faster and the opposite happens liquid separates as it would in a centrifuge</s>
+<s>vaporisation is achieved by ramping up the saws energy and jetting occurs when a droplet is bombarded by waves from all directions and then has nowhere to go but up</s>
+</p>
+
+<p>
+<s>the idea of getting saws to do useful work is not entirely new</s>
+<s>they have long been employed in devices like mobile phones to filter electric signals which can be done by converting electrical into mechanical energy and back again</s>
+<s>then in 1999 achim wixforth a physicist at the university of augsburg in germany discovered that when small quantities of liquid were placed in their path they caused it to stir</s>
+<s>by placing interleaved comblike electrodes on the surface of lithium niobate a material that is piezoelectric and so expands or contracts as a current is passed through it dr wixforth was able to finetune the waves to do his bidding</s>
+</p>
+
+<p>
+<s>he quickly realised that the technique might come in handy when mixing tiny quantities of different liquids—in dna microarrays for example</s>
+<s>these are tiny glass chips dotted with thousands of microscopic wells where dna fragments react with other chemicals in order to measure the activity of genes or identify genetic variations</s>
+<s>using saws to mix the reagents would speed up analysis</s>
+</p>
+
+<p>
+<s>this is much harder than it sounds</s>
+<s>the wells minute size makes mechanical stirring impractical</s>
+<s>simple vibrations do not do the trick while heat risks damaging the sample</s>
+<s>typically scientists have no choice but to await patiently for the diffusion to proceed at its natural pace which can be painfully slow</s>
+<s>using saws dr wixforth was able to nudge them along</s>
+<s>in 2000 a company called advalytix was spun out of his research which through a series of acquisitions ended up as part of danaher a big maker of electronic sensors</s>
+</p>
+
+<p>
+<s>besides mixing dr wixforth also showed how saws could channel fluids as part of more complex tasks on socalled microfluidic labonachip devices</s>
+<s>one example is the polymerase chain reaction pcr a standard technique which employs enzymes to churn out millions of copies of a dna sequence and involves cycles of gentle heating and cooling</s>
+<s>it can be achieved in half the time when saws are used to mix the fluids and guide them around the device</s>
+</p>
+
+<p>
+<s>dr cooper and julien reboud also from the university of glasgow have now developed a way to carry out the entire pcr process—mixing heating and cooling as well as analysis—using a single piezoelectric source without the need for separate heating elements or detection equipment</s>
+<s>better yet fluid no longer needs to move from one reaction chamber to the next</s>
+<s>instead the droplet is first spun until the cell membranes rupture in a process called lysis releasing the dna inside</s>
+<s>then the waves frequency is tweaked and the sample blasted headon in order to heat it</s>
+<s>cooling occurs through unaided dissipation though this too is quicker with smaller droplets which lose energy more rapidly than bigger ones</s>
+<s>repeating the cycle drives pcr</s>
+<s>finally saws are also used to measure the change in density of the fluid caused by the newly replicated dna</s>
+</p>
+
+<p>
+<s>at £10 $16 a pop piezoelectric actuators are not costly</s>
+<s>still using one acoustic source means that the devices can be made cheaper still</s>
+<s>on the face of it though relying on a single source limits the sorts of wave that can be produced and therefore the types of task they can perform</s>
+</p>
+
+<p>
+<s>dr cooper and dr reboud found a clever way round this</s>
+<s>they use phononic lattices—arrays of bumps and dimples embossed on a substrate—to alter the way in which saws reverberate</s>
+<s>moreover since the resulting interference pattern also depends on the waves frequency the same array can concentrate saws in different ways at different frequencies working the liquid sample in different ways</s>
+</p>
+
+<p>
+<s>the researchers goal is to build a pcr system where a blood sample is placed on a disposable array made out of a cheap material such as paper and inserted into a handheld device equipped with the piezoelectric actuator and other fixed elements</s>
+<s>it also would make it easier to keep impurities at bay as there will be fewer components to be kept sterile</s>
+<s>this would be a boon for diagnosticians in developing countries where squeaky clean wellequipped labs are a rarity</s>
+<s>so far dr cooper and dr reboud have demonstrated that soundaided pcr can be used to detect plasmodium falciparum the parasite which causes malaria in a blood sample</s>
+<s>they are working on similar tests for tuberculosis and sleeping sickness</s>
+</p>
+
+<p>
+<s>sound is not just good at detecting diseases</s>
+<s>it can also be used to help treat them</s>
+<s>leslie yeo and james friend who jointly head the micronanophysics research laboratory at rmit university in melbourne are devising ways to use saws to improve inhalers which would allow drugs and vaccines to be delivered to the lungs with much greater efficiency</s>
+</p>
+
+<p>
+<s>normal inhalers produce a wide range of droplet sizes</s>
+<s>as a result much of the drug ends up being wasted because many droplets are too large to reach deep lung tissue explains dr yeo</s>
+<s>with saws it is possible to tailor droplet size precisely to as little as a few microns—small enough to penetrate all the way inside the lungs</s>
+</p>
+
+<p>
+<s>another advantage of using saws is that they can perform extremely delicate manipulations</s>
+<s>this can be crucial when dealing with fragile biomolecules such as proteins peptides stem cells and dna molecules which are easily denatured or damaged when vaporised</s>
+<s>having successfully tested an saw asthma inhaler on sheep dr yeo and dr friend are exploring a similar approach for vaccines</s>
+<s>this approach like that of dr cooper and dr reboud is particularly wellsuited for the developing world</s>
+<s>even where injectable vaccines are available inhalants are often more desirable</s>
+<s>poor countries most in need of vaccines tend to lack adequate sanitation</s>
+<s>needles are often the biggest transmitters of disease dr yeo says</s>
+</p>
+
+<p>
+<s>dr cooper points to other possibilities offered by saw devices low power requirements</s>
+<s>many parts of africa for instance do not enjoy reliable access to electricity</s>
+<s>dr cooper is therefore looking at how mobile phones can be used to power these portable devices and possibly even display test results</s>
+<s>since there are an estimated 500m mobile phones in africa and because devices plugged into mobiles would need no other equipment many more people could act as health workers either for others in the same remote village say or just for their own family</s>
+<s>with $100000 from the bill and melinda gates foundation dr cooper is designing a phonepowered saw device to diagnose malaria</s>
+<s>so far he has succeeded in using a fully charged mobile to run ten tests</s>
+</p>
+
+<p>
+<s>you aint heard nothing yet</s>
+</p>
+
+<p>
+<s>for all the recent developments dr cooper points out the field is still in its infancy</s>
+<s>new ideas are cropping up all the time</s>
+<s>some researchers are putting saws to work in cell sorting where a short acoustic pulse can nudge different kinds of cells down different channels and cell separation where droplets containing various kinds of cell are spun to divide the cells into groups as in a centrifuge</s>
+</p>
+
+<p>
+<s>for his part dr wixforth the fields pioneer has recently come up with a way to simulate a heartbeat and the way it pumps fluid around a model of the circulatory system using saws</s>
+<s>he and his colleagues hope this will shed light on the way blood and the molecules within it—for instance glycoproteins which are found in cell membranes and play a role in interactions between cells—behave as they course through the human body</s>
+<s>this in turn might help explain what causes some of them to malfunction as they do in a range of diseases</s>
+<s>after more than a decade dr wixforths discovery continues to produce unexpected reverberations</s>
+</p>
+

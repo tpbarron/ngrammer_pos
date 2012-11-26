@@ -1,0 +1,92 @@
+<p>|P_START
+<s>|S_START some|DT colleges|NNS are|VBP copying|VBG the|DT way|NN hotels|VBZ and|CC airlines|NNS are|VBP adding|VBG hidden|VBN fees|NNS to|TO their|PRP$ advertised|VBN prices|NNS </s>|S_END
+<s>|S_START to|TO avoid|VBD unpleasant|JJ surprises|NNS when|WRB looking|VBG at|IN different|JJ colleges|NNS and|CC their|PRP$ costs|NNS you|PRP need|VBP to|TO make|VB sure|JJ youre|NN comparing|VBG apples|NNS to|TO apples|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START here|RB are|VBP the|DT different|JJ terms|NNS colleges|NNS use|VBP to|TO quote|VB their|PRP$ prices|NNS along|IN with|IN some|DT advice|NN on|IN which|WDT ones|NNS to|TO ask|VB the|DT financial|JJ aid|NN office|NN about|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tuition|NN and|CC fees|NNS tuition|NN is|VBZ the|DT basic|JJ cost|NN of|IN instruction|NN </s>|S_END
+<s>|S_START fees|NNS are|VBP mandatory|JJ extra|NN charges|NNS added|VBD to|TO those|DT basic|JJ costs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT schools|NNS list|VBP tuition|NN separately|RB from|IN fees|NNS in|IN much|JJ the|DT same|JJ way|NN hotels|NNS and|CC airlines|NNS try|VBP to|TO make|VB their|PRP$ prices|NNS look|VBP smaller|JJR </s>|S_END
+<s>|S_START but|CC just|RB like|IN with|IN hotels|NNS this|DT practice|NN often|RB leads|VBZ to|TO unpleasant|JJ surprises|NNS when|WRB it|PRP comes|VBZ time|NN to|TO pay|VB the|DT bill|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN some|DT schools|NNS charge|VBP different|JJ tuition|NN and|CC fees|NNS for|IN different|JJ courses|NNS often|RB more|RBR for|IN science|NN music|NN or|CC art|NN courses|NNS for|IN example|NN </s>|S_END
+<s>|S_START and|CC some|DT schools|NNS such|JJ as|IN penn|NN state|NN charge|NN higher|JJR tuition|NN and|CC fees|NNS for|IN the|DT more|RBR advanced|JJ courses|NNS generally|RB taken|VBN in|IN the|DT last|JJ two|CD years|NNS of|IN college|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN those|DT planning|VBG to|TO live|VB at|IN home|NN during|IN college|NN the|DT combined|VBN tuition|NN and|CC fees|NNS cost|NN is|VBZ the|DT best|JJS way|NN to|TO compare|VB different|JJ schools|NNS prices|NNS </s>|S_END
+<s>|S_START make|VB sure|JJ you|PRP add|VBP tuition|NN and|CC fees|NNS together|RB for|IN every|DT school|NN and|CC compare|VB the|DT tuition|NN and|CC fees|NNS for|IN comparable|JJ courses|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START direct|JJ costs|NNS colleges|NNS with|IN dorms|NNS and|CC cafeterias|NNS sometimes|RB list|VBP a|DT direct|JJ cost|NN which|WDT includes|VBZ tuition|NN fees|NNS room|VBP and|CC board|NN </s>|S_END
+<s>|S_START these|DT expenses|NNS are|VBP considered|VBN direct|JJ because|IN they|PRP make|VBP up|RP the|DT bills|NNS students|NNS pay|VBP directly|RB to|TO the|DT college|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START remember|NN that|IN students|NNS will|MD have|VB other|JJ indirect|JJ costs|NNS such|JJ as|IN textbooks|NNS laundry|VBP and|CC travel|NN </s>|S_END
+<s>|S_START the|DT college|NN board|NN estimates|NNS that|WDT the|DT average|NN student|NN spends|NNS about|IN $|$ 4000|CD a|DT year|NN on|IN indirect|NN costs|NNS see|VBP table|JJ 1|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cost|NN of|IN attendance|NN cost|NN of|IN education|NN or|CC sticker|NN price|NN the|DT total|JJ cost|NN of|IN a|DT year|NN of|IN study|NN including|VBG tuition|NN fees|NNS room|VBP board|NN books|NNS travel|NN and|CC standard|JJ incidental|NN expenses|NNS such|JJ as|IN laundry|JJ </s>|S_END
+<s>|S_START federal|JJ law|NN requires|VBZ each|DT college|NN to|TO make|VB readily|RB available|JJ to|TO current|JJ and|CC prospective|JJ students|NNS its|PRP$ total|JJ cost|NN of|IN attendance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT colleges|NNS have|VBP tried|VBN to|TO hide|VB this|DT and|CC provide|VB simply|RB tuition|NN or|CC direct|JJ costs|NNS to|TO look|VB more|JJR affordable|JJ </s>|S_END
+<s>|S_START they|PRP obey|VBP the|DT letter|NN of|IN the|DT law|NN by|IN providing|VBG a|DT true|JJ cost|NN of|IN attendance|NN only|RB if|IN students|NNS ask|VBP for|IN it|PRP </s>|S_END
+<s>|S_START did|VBD your|PRP$ college|NN hide|NN its|PRP$ cost|NN of|IN attendance|NN </s>|S_END
+<s>|S_START let|NN us|PRP know|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT cost|NN of|IN attendance|NN is|VBZ sometimes|RB called|VBN the|DT sticker|NN price|NN because|IN it|PRP is|VBZ the|DT published|VBN price|NN before|RB a|DT students|NNS grants|NNS or|CC scholarships|NNS are|VBP subtracted|VBN </s>|S_END
+<s>|S_START think|NN of|IN it|PRP like|IN the|DT price|NN on|IN the|DT sticker|NN of|IN a|DT new|JJ car|NN at|IN a|DT dealership|NN theres|VBZ plenty|NN of|IN opportunities|NNS to|TO lower|JJR the|DT price|NN </s>|S_END
+<s>|S_START about|IN 80|CD of|IN students|NNS at|IN private|JJ colleges|NNS and|CC 50|CD of|IN students|NNS at|IN public|JJ colleges|NNS receive|VBP at|IN least|JJS one|CD grant|NN or|CC scholarship|NN that|IN allows|VBZ them|PRP to|TO pay|VB less|JJR than|IN the|DT sticker|NN price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP are|VBP sure|JJ the|DT student|NN will|MD not|RB receive|VB any|DT grants|NNS or|CC scholarships|NNS from|IN any|DT school|NN and|CC doesnt|NN plan|NN to|TO live|VB at|IN home|NN during|IN the|DT school|NN year|NN then|RB the|DT total|NN cost|NN of|IN attendance|NN is|VBZ the|DT price|NN you|PRP should|MD expect|VB to|TO pay|VB at|IN each|DT school|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START net|NN price|NN the|DT cost|NN of|IN attendance|NN after|IN grants|NNS and|CC scholarships|NNS are|VBP subtracted|VBN out|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START only|RB about|IN half|DT of|IN all|DT college|NN students|NNS pay|VBP their|PRP$ colleges|NNS published|VBD cost|NN of|IN attendance|NN sometimes|RB called|VBN the|DT sticker|NN price|NN </s>|S_END
+<s>|S_START the|DT rest|NN receive|NN grants|NNS or|CC scholarships|NNS that|IN allow|JJ them|PRP to|TO pay|VB a|DT lower|JJR net|JJ price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START typically|RB grants|VBZ or|CC scholarships|NNS are|VBP awarded|VBN to|TO students|NNS with|IN need|NN such|JJ as|IN low|JJ income|NN or|CC merit|NN such|JJ as|IN good|JJ grades|NNS or|CC special|JJ talents|NNS in|IN sports|NNS music|JJ arts|NNS or|CC other|JJ fields|NNS </s>|S_END
+<s>|S_START so|IN the|DT best|JJS and|CC neediest|JJS students|NNS usually|RB pay|VBP lower|JJR net|JJ prices|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT new|JJ federal|JJ law|NN requires|VBZ all|DT colleges|NNS to|TO post|VB a|DT net|JJ price|NN calculator|NN on|IN their|PRP$ websites|NNS to|TO allow|VB applicants|NNS to|TO figure|VB out|RP ahead|RB of|IN time|NN what|WP their|PRP$ net|JJ price|NN is|VBZ likely|JJ to|TO be|VB </s>|S_END
+<s>|S_START if|IN you|PRP think|VBP you|PRP will|MD receive|VB any|DT financial|JJ aid|NN the|DT net|NN price|NN is|VBZ the|DT best|JJS and|CC fairest|JJS way|NN to|TO compare|VB different|JJ colleges|NNS costs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START outofpocket|NN price|NN some|DT colleges|NNS are|VBP posting|VBG or|CC sending|VBG to|TO students|NNS an|DT outofpocket|NN price|NN which|WDT consists|NNS of|IN the|DT cost|NN of|IN attendance|NN minus|NN grants|NNS and|CC loans|NNS as|IN well|RB as|IN other|JJ financial|JJ aid|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN these|DT outofpocket|NN prices|NNS can|MD help|VB families|NNS budget|VB how|WRB much|RB cash|NN the|DT student|NN will|MD have|VB to|TO come|VB up|RP with|IN immediately|RB remember|JJR that|IN loans|NNS must|MD be|VB repaid|VBN with|IN interest|NN eventually|RB and|CC workstudy|NN money|NN must|MD be|VB earned|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START next|JJ find|NN out|IN what|WP youll|RB really|RB pay |JJ </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,81 @@
+<p>|P_START
+<s>|S_START the|DT biggest|JJS conceptual|JJ breakthrough|NN in|IN the|DT war|NN on|IN cancer|NN was|VBD the|DT realisation|NN by|IN the|DT 1980s|CD that|WDT it|PRP is|VBZ always|RB a|DT genetic|JJ disease|NN </s>|S_END
+<s>|S_START ometimes|NNS the|DT genetic|JJ flaw|NN is|VBZ inherited|VBN </s>|S_END
+<s>|S_START ometimes|NNS it|PRP is|VBZ the|DT result|NN of|IN exposure|NN to|TO an|DT outside|JJ agent|NN such|JJ as|IN tobacco|NN smoke|NN or|CC radioactivity|NN </s>|S_END
+<s>|S_START ometimes|NNS it|PRP is|VBZ plain|RB bad|JJ luck|NN a|DT miscopying|NN of|IN a|DT piece|NN of|IN dna|NN during|IN the|DT normal|JJ process|NN of|IN cell|NN division|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START turning|VBG that|IN breakthrough|JJ into|IN medicine|NN though|IN is|VBZ hard|JJ </s>|S_END
+<s>|S_START no|DT one|NN has|VBZ worked|VBN out|RP how|WRB to|TO repair|VB dna|NN directly|RB </s>|S_END
+<s>|S_START it|PRP is|VBZ rather|RB a|DT question|NN of|IN discovering|VBG the|DT biochemical|JJ consequences|NNS of|IN the|DT genetic|JJ damage|NN and|CC trying|VBG to|TO deal|VB with|IN those|DT instead|RB </s>|S_END
+<s>|S_START but|CC recently|RB another|DT pattern|NN has|VBZ emerged|VBN </s>|S_END
+<s>|S_START it|PRP is|VBZ too|RB early|RB to|TO call|VB it|PRP a|DT breakthrough|JJ as|IN significant|JJ as|IN the|DT canceriscausedbybrokengenes|NNS finding|VBG but|CC it|PRP might|MD be|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT pattern|NN in|IN question|NN is|VBZ that|IN many|JJ of|IN the|DT genes|NNS whose|WP$ breakage|NN leads|NNS to|TO cancer|NN are|VBP themselves|PRP involved|VBN in|IN a|DT specific|JJ sort|NN of|IN genetic|JJ regulation|NN known|VBN as|IN epigenetic|JJ </s>|S_END
+<s>|S_START this|DT switches|NNS genes|VBZ on|IN and|CC off|IN by|IN plastering|NN either|DT their|PRP$ dna|NN or|CC the|DT proteins|NNS which|WDT support|NN that|WDT dna|NN in|IN chromosomes|NNS with|IN clusters|NNS of|IN atoms|NNS called|VBN methyl|NN and|CC acetyl|NN group|NN </s>|S_END
+<s>|S_START the|DT nature|NN of|IN these|DT reactions|NNS means|VBZ epigenetic|JJ processes|NNS are|VBP susceptible|JJ to|TO chemical|JJ intervention|NN in|IN a|DT way|NN that|WDT genetic|JJ mutations|NNS are|VBP not|RB </s>|S_END
+<s>|S_START they|PRP are|VBP in|IN other|JJ words|NNS open|JJ to|TO drug|NN treatment|NN </s>|S_END
+<s>|S_START and|CC that|DT is|VBZ why|WRB epigenetics|NNS was|VBD the|DT subject|NN of|IN a|DT particularly|RB interesting|JJ session|NN held|NN on|IN april|NN 1st|CD at|IN a|DT meeting|NN of|IN the|DT american|JJ association|NN for|IN cancer|NN research|NN in|IN chicago|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT problem|NN of|IN overregulation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dash|NN dhanak|VBD who|WP leads|NNS the|DT epigenetics|NNS research|NN group|NN at|IN glaxosmithkline|NN one|CD of|IN the|DT worlds|NNS biggest|JJS drug|NN companies|NNS described|VBD to|TO the|DT meeting|NN his|PRP$ efforts|NNS to|TO develop|VB a|DT substance|NN that|WDT will|MD inhibit|VB the|DT activity|NN of|IN an|DT enzyme|NN called|VBN ezh2|NNP </s>|S_END
+<s>|S_START this|DT enzyme|NN attaches|VBZ methyl|NN groups|NNS to|TO histone|VB proteins|NNS which|WDT are|VBP part|NN of|IN the|DT chromosomal|JJ packaging|NN </s>|S_END
+<s>|S_START a|DT lot|NN of|IN lymphomas—cancers|NNS of|IN the|DT immune|NN system—are|JJ caused|VBN by|IN mutations|NNS that|IN make|NN ezh2|NNP overactive|JJ </s>|S_END
+<s>|S_START uch|JJ overactivity|NN methylates|NNS histones|NNS more|RBR than|IN they|PRP should|MD be|VB and|CC thus|RB silences|NNS the|DT genes|NNS they|PRP surround|VBP including|VBG socalled|VBN tumoursuppressor|NN genes|NNS whose|WP$ job|NN is|VBZ to|TO stop|VB the|DT uncontrolled|VBN cell|NN growth|NN that|WDT causes|VBZ cancer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB dr|NN dhanak|NN and|CC his|PRP$ colleagues|NNS treated|VBD lymphoma|NN cells|NNS with|IN a|DT newly|RB developed|VBN inhibitor|NN currently|RB referred|VBD to|TO by|IN the|DT unmemorable|JJ name|NN gsk2816126|NNP they|PRP found|VBD that|IN the|DT amount|NN of|IN histone|NN overmethylation|NN declined|VBD dramatically|RB </s>|S_END
+<s>|S_START and|CC when|WRB they|PRP treated|VBD both|DT cell|NN cultures|NNS and|CC laboratory|NN animals|NNS with|IN gsk2816126|NNP they|PRP found|VBD it|PRP also|RB reduces|VBZ the|DT proliferation|NN of|IN tumour|PRP$ cells|NNS while|IN crucially|RB having|VBG no|DT apparent|NN effect|NN on|IN nearby|JJ normal|JJ cell|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START james|NNS bradner|VBP of|IN the|DT danafarber|NN cancer|NN institute|NN in|IN boston|NN described|VBD a|DT second|JJ epigenetic|JJ approach|NN to|TO treating|NN cancer|NN </s>|S_END
+<s>|S_START his|PRP$ group|NN have|VBP shown|VBN that|IN a|DT substance|NN known|VBN as|IN jq1|NNP which|WDT inhibits|VBZ an|DT epigenetic|JJ regulator|NN called|VBN brd4|NNP blocks|NNS the|DT activity|NN of|IN a|DT gene|NN by|IN the|DT name|NN of|IN myc|NN </s>|S_END
+<s>|S_START myc|NN encodes|VBZ a|DT protein|NN called|VBN a|DT transcription|NN factor|NN that|WDT is|VBZ another|DT part|NN of|IN the|DT dnaregulation|NN system|NN </s>|S_END
+<s>|S_START this|DT particular|JJ transcription|NN factor|NN is|VBZ involved|VBN in|IN the|DT expression|NN of|IN about|RB 15|CD of|IN human|JJ gene|NN </s>|S_END
+<s>|S_START not|RB surprisingly|RB then|RB when|WRB it|PRP goes|VBZ wrong|JJ it|PRP is|VBZ one|CD of|IN the|DT most|RBS common|JJ causes|NNS of|IN cancer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN numerous|JJ attempts|NNS researchers|NNS have|VBP been|VBN unable|JJ to|TO find|VB a|DT way|NN to|TO block|VB the|DT activity|NN of|IN myc|NN directly|RB </s>|S_END
+<s>|S_START dr|NN bradner|NN however|RB reasoned|VBN that|IN blocking|NN brd4|NNP which|WDT is|VBZ one|CD of|IN mycs|NNS collaborators|NNS might|MD do|VB the|DT job|NN indirectly|RB </s>|S_END
+<s>|S_START to|TO test|NN this|DT thought|NN he|PRP and|CC his|PRP$ colleagues|NNS treated|VBD mice|NN suffering|NN from|IN mycdriven|CD myeloma|NN with|IN jq1|NNP </s>|S_END
+<s>|S_START and|CC it|PRP worked|VBD </s>|S_END
+<s>|S_START jq1|NNP they|PRP found|VBD shut|VBN down|RP mycactivated|VBN genes|NNS and|CC slowed|VBD the|DT proliferation|NN of|IN myeloma|NN cell|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START although|IN neither|DT gsk2816126|NNP nor|CC jq1|NNP is|VBZ ready|JJ for|IN human|JJ trials|NNS two|CD other|JJ sorts|NNS of|IN epigenetic|JJ drugs|NNS are|VBP already|RB on|IN the|DT market|NN </s>|S_END
+<s>|S_START dnademethylating|VBG agents|NNS in|IN the|DT form|NN of|IN azacitidine|NN sold|VBD as|IN vidaza|NN by|IN celgene|NN of|IN summit|NN new|JJ jersey|NN and|CC decitabine|NN sold|VBD as|IN dacogen|NN by|IN eisai|NN a|DT japanese|JJ company|NN are|VBP used|VBN to|TO treat|VB myelodysplastic|JJ syndromes|NNS the|DT precursors|NNS of|IN acute|JJ myelogenous|JJ leukaemia|NN </s>|S_END
+<s>|S_START and|CC histonedeacetylase|NN inhibitors|NNS made|VBN by|IN celgene|NN and|CC by|IN merck|NN another|DT new|JJ jerseybased|JJ firm|NN are|VBP being|VBG used|VBN to|TO treat|VB a|DT rare|NN illness|NN called|VBN cutaneous|JJ tcell|NN lymphoma|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START more|JJR recently|RB researchers|NNS led|VBD by|IN stephen|NN baylin|NN at|IN johns|NNS hopkins|NNS school|NN of|IN medicine|NN in|IN baltimore|NN have|VBP shown|VBN that|IN a|DT combination|NN of|IN a|DT histonedeacetylase|NN inhibitor|NN and|CC azacitidine|NN slowed|VBD tumour|PRP$ growth|NN in|IN some|DT people|NNS with|IN advanced|JJ lung|NN cancer|NN </s>|S_END
+<s>|S_START this|DT result|NN was|VBD notable|JJ for|IN two|CD reason|NN </s>|S_END
+<s>|S_START it|PRP was|VBD the|DT first|JJ time|NN epigenetic|JJ drugs|NNS had|VBD been|VBN deployed|VBN successfully|RB against|IN a|DT solid|JJ tumour|NN rather|RB than|IN a|DT leukaemia|NN or|CC a|DT lymphoma|NN solid|JJ tumours|NNS are|VBP harder|JJR to|TO treat|VB because|IN the|DT drug|NN has|VBZ to|TO penetrate|VB them|PRP </s>|S_END
+<s>|S_START and|CC second|JJ some|DT of|IN the|DT participants|NNS in|IN dr|NN baylins|NNS study|NN who|WP did|VBD not|RB show|VB much|JJ response|NN to|TO the|DT trial|NN itself|PRP then|RB went|VBD on|IN to|TO show|VB an|DT unexpectedly|RB good|JJ reaction|NN to|TO the|DT routine|NN chemotherapeutic|JJ drugs|NNS which|WDT were|VBD employed|VBN on|IN them|PRP next|JJ </s>|S_END
+<s>|S_START although|IN it|PRP is|VBZ too|RB early|RB to|TO say|VB for|IN sure|JJ dr|NN baylin|NN speculates|VBZ that|IN his|PRP$ epigenetic|JJ drugs|NNS altered|VBN the|DT tumour|NN cells|NNS in|IN some|DT lasting|JJ way|NN that|IN made|VBN them|PRP more|JJR susceptible|JJ to|TO standard|JJ chemotherapy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT is|VBZ quite|RB possible|JJ </s>|S_END
+<s>|S_START unlike|IN other|JJ forms|NNS of|IN gene|NN regulation|NN those|DT involving|VBG transcription|NN factors|NNS for|IN example|NN epigenetic|JJ changes|NNS are|VBP passed|VBN on|IN during|IN cell|NN division|NN to|TO daughter|VB and|CC granddaughter|NN cells|NNS until|IN they|PRP are|VBP actively|RB erased|VBN </s>|S_END
+<s>|S_START once|RB erased|VBD though|IN they|PRP do|VBP not|RB return|VB </s>|S_END
+<s>|S_START it|PRP might|MD therefore|VB be|VB that|IN epigenetic|JJ therapies|NNS can|MD effect|VB changes|NNS which|WDT stop|VB a|DT cancer|NN growing|VBG without|IN having|VBG to|TO kill|VB all|DT its|PRP$ cell|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT indeed|VBN appears|NNS to|TO be|VB what|WP is|VBZ happening|VBG in|IN the|DT case|NN of|IN gsk2816126|NNP </s>|S_END
+<s>|S_START if|IN it|PRP is|VBZ it|PRP would|MD truly|RB be|VB a|DT conceptual|JJ breakthrough|NN and|CC epigenetics|NNS might|MD justly|RB take|VB its|PRP$ place|NN alongside|NN genetics|NNS in|IN the|DT analysis|NN and|CC treatment|NN of|IN cancer|NN </s>|S_END
+</p>|P_END
+

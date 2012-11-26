@@ -1,0 +1,12 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 00|CD gdp|NN $|$ 2732bn|CD ppp|CD $|$ 2305bn|CD inflation|NN 17|CD population|NN 636m|CD gdp|NN per|IN head|NN $|$ 42930|CD ppp|CD $|$ 36220|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ an|DT election|NN year|NN and|CC thanks|NNS to|TO dominique|VB strausskahns|NNS extended|VBN stay|NN in|IN new|JJ york|NN the|DT opposition|NN socialist|NN party|NN needed|VBN a|DT new|JJ standardbearer|NN </s>|S_END
+<s>|S_START it|PRP now|RB has|VBZ one|CD in|IN françois|NNP hollande|NN who|WP won|NN the|DT party|NN primary|JJ in|IN late|JJ 2011|CD </s>|S_END
+<s>|S_START a|DT centrist|NN mr|NN hollande|NN will|MD pose|VB a|DT stiff|NN challenge|NN to|TO nicolas|NNS sarkozy|RB the|DT increasingly|RB unpopular|JJ president|NN </s>|S_END
+<s>|S_START the|DT resurgent|NN rightwing|VBG national|JJ front|NN under|IN marine|NN le|NN pen|NN will|MD also|RB have|VB a|DT say|NN perhaps|RB forcing|JJ the|DT two|CD leading|VBG parties|NNS into|IN a|DT blocking|JJ front|NN if|IN she|PRP makes|VBZ it|PRP to|TO the|DT second|JJ round|NN </s>|S_END
+<s>|S_START amid|IN all|DT of|IN this|DT the|DT economy|NN will|MD flatline|VB as|IN french|JJ leaders|NNS go|VBP on|IN trying|VBG to|TO save|VB the|DT euro |NN </s>|S_END
+</p>|P_END
+

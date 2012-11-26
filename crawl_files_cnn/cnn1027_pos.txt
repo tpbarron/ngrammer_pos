@@ -1,0 +1,51 @@
+<p>|P_START
+<s>|S_START to|TO the|DT investors|NNS on|IN intrade|NN there|EX was|VBD little|JJ question|NN who|WP came|VBD away|RB from|IN wednesday|NN nights|NNS presidential|JJ debate|NN on|IN top|JJ mitt|NN romney|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START intrade|NN is|VBZ a|DT prediction|NN market|NN that|IN allows|VBZ investors|NNS to|TO wager|VB on|IN the|DT outcome|NN of|IN events|NNS </s>|S_END
+<s>|S_START in|IN this|DT case|NN the|DT presidential|JJ election|NN </s>|S_END
+<s>|S_START watch|NN video|VBD the|DT debate|NN in|IN 99|CD seconds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START earlier|JJR this|DT week|NN the|DT sites|NNS users|NNS placed|VBN the|DT odds|NNS that|WDT president|NN obama|VBP would|MD win|VB reelection|NN as|IN high|JJ as|IN 79|CD </s>|S_END
+<s>|S_START just|RB before|IN the|DT debate|NN began|VBD the|DT odds|NNS were|VBD at|IN 74|CD </s>|S_END
+<s>|S_START but|CC in|IN the|DT minutes|NNS after|IN the|DT debate|NN finished|VBD the|DT index|NN showed|VBD obamas|NNS numbers|NNS had|VBD fallen|VBN to|TO 689|CD </s>|S_END
+<s>|S_START an|DT hour|NN later|JJ the|DT odds|NNS had|VBD dropped|VBN further|RB to|TO 67|CD </s>|S_END
+<s>|S_START and|CC by|IN 10|CD am|NN thursday|NN they|PRP were|VBD down|RB to|TO 661|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START intrades|NNS odds|VBZ of|IN obamas|NNS reelection|NN fell|VBD nearly|RB 8|CD percentage|NN points|NNS since|IN the|DT open|JJ of|IN trading|NN thursday|NN </s>|S_END
+<s>|S_START thats|NNS the|DT biggest|JJS daily|JJ drop|NN for|IN the|DT obama|NN during|IN this|DT election|NN cycle|NN </s>|S_END
+<s>|S_START the|DT next|JJ biggest|NN decline|NN came|VBD on|IN aug|NN 20|CD 2011|CD but|CC that|IN was|VBD only|RB a|DT 27point|JJ decline|NN </s>|S_END
+<s>|S_START that|DT drop|NN came|VBD two|CD weeks|NNS after|IN standard|JJ poors|NNS had|VBD downgraded|VBN the|DT us|PRP credit|NN rating|NN prompting|VBG a|DT sharp|JJ slide|NN in|IN us|PRP stock|NN prices|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT numbers|NNS may|MD well|RB change|VB as|IN more|JJR trades|NNS come|VBP in|IN but|CC the|DT figures|NNS suggest|VBP romney|NN improved|VBN his|PRP$ chances|NNS of|IN capturing|VBG the|DT white|JJ house|NN </s>|S_END
+<s>|S_START of|IN course|NN there|EX is|VBZ a|DT long|JJ way|NN to|TO go|VB and|CC at|IN least|JJS two|CD more|JJR presidential|JJ debates|NNS before|IN election|NN day|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START intrade|NN works|NNS by|IN letting|VBG users|NNS swap|NN contracts|NNS on|IN events|NNS with|IN a|DT yes|NNS or|CC no|DT outcome|NN </s>|S_END
+<s>|S_START president|NN obama|VBD will|MD win|VB reelection|NN or|CC he|PRP wont|VBD </s>|S_END
+<s>|S_START a|DT correct|NN prediction|NN moves|NNS the|DT value|NN of|IN a|DT contract|NN to|TO $|$ 10|CD </s>|S_END
+<s>|S_START a|DT miss|NN leaves|VBZ you|PRP with|IN $|$ 0|-NONE- </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC intrade isnt|JJ just|RB about|IN betting|VBG </s>|S_END
+<s>|S_START its|PRP$ users|NNS are|VBP taken|VBN together|RB shockingly|RB good|JJ at|IN correctly|RB forecasting|VBG election|NN results intrade|NN bettors|NNS correctly|RB picked|VBD the|DT winner|NN of|IN every|DT single|JJ state|NN during|IN the|DT 2004|CD presidential|JJ election|NN </s>|S_END
+<s>|S_START in|IN 2008|CD they|PRP missed|VBD two|CD wrongly|RB calling|VBG indiana|NNS for|IN john|NN mccain|NN and|CC missouri|NN for|IN barack|NN obama|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC that|DT is|VBZ way|NN way|NN more|RBR accurate|JJ than|IN most|JJS single|JJ polls|NNS to|TO say|VB nothing|NN of|IN the|DT predictions|NNS offered|VBD by|IN the|DT professional|JJ pundit|NN class|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD cnns|NNS full|JJ coverage|NN of|IN the|DT debate|NN </s>|S_END
+</p>|P_END
+

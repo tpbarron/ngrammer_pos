@@ -1,0 +1,90 @@
+<p>|P_START
+<s>|S_START european|JJ central|JJ bank|NN president|NN mario|NN draghi|NN is|VBZ under|IN pressure|NN to|TO act|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN european|NN central|JJ bank|NN president|NN mario|NN draghi|NN said|VBD thursday|NN that|IN the|DT ecb|NN will|MD not|RB intervene|VB in|IN the|DT government|NN debt|NN market|NN unless|IN countries|NNS take|VBP certain|JJ actions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START draghi|NN said|VBD the|DT ecb|NN could|MD buy|VB spanish|JJ and|CC italian|JJ bonds|NNS but|CC only|RB if|IN those|DT governments|NNS make|VBP good|JJ on|IN commitments|NNS to|TO reduce|VB deficits|NNS and|CC restore|VB economic|JJ competitiveness|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN simple|NN terms|NNS that|WDT means|VBZ spain|NN and|CC italy|RB need|VBP to|TO first|JJ commit|NN to|TO a|DT formal|JJ bailout|NN program|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START governments|NNS must|MD go|VB to|TO the|DT efsf|NN first|RB said|VBD draghi|NN referring|NN to|TO european|VB financial|JJ stability|NN facility|NN which|WDT has|VBZ backed|VBN bailouts|NNS for|IN greece|NN portugal|NN and|CC ireland|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB draghi|VBP also|RB said|VBD that|IN the|DT ecb|NN may|MD undertake|VB outright|JJ open|JJ market|NN operations|NNS of|IN a|DT size|NN adequate|NN to|TO reach|VB its|PRP$ objective|NN if|IN all|DT the|DT conditions|NNS are|VBP met|VBN adding|VBG that|IN the|DT terms|NNS for|IN such|JJ an|DT intervention|NN would|MD be|VB developed|VBN in|IN the|DT coming|VBG weeks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START draghi|NN said|VBD the|DT new|JJ framework|NN differs|NNS from|IN the|DT ecbs|NNS existing|VBG bond|NN buying|VBG program|NN known|NN as|IN the|DT securities|NNS market|NN program|NN </s>|S_END
+<s>|S_START we|PRP have|VBP explicit|VBN conditionality|NN here|RB he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX will|MD be|VB full|JJ transparency|NN about|IN the|DT countries|NNS involved|VBD and|CC the|DT size|NN of|IN the|DT bond|NN purchases|NNS said|VBD draghi|NN adding|NN that|WDT the|DT ecb|NN would|MD focus|VB on|IN buying|NN shortterm|NN bonds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START draghi|NN stressed|VBD that|IN intervening|NN in|IN the|DT bond|NN market|NN is|VBZ not|RB a|DT violation|NN of|IN the|DT central|JJ banks|NNS prohibition|NN on|IN financing|NN governments|NNS </s>|S_END
+<s>|S_START this|DT falls|NNS squarely|RB in|IN our|PRP$ mandate|NN he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT decision|NN was|VBD endorsed|VBN by|IN all|DT members|NNS of|IN the|DT ecbs|NNS governing|VBG council|NN with|IN one|CD exception|NN </s>|S_END
+<s>|S_START draghi|NN did|VBD not|RB specify|VB which|WDT member|NN was|VBD opposed|VBN but|CC he|PRP acknowledged|VBD that|IN some|DT central|JJ bankers|NNS including|VBG bundesbank|NN president|NN jens|NNS weidmann|VBP have|VBP their|PRP$ reservations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START draghi|NN said|VBD there|EX was|VBD no|DT specific|JJ development|NN that|WDT prompted|VBD the|DT decision|NN to|TO move|VB towards|NNS more|RBR nonstandard|JJ measures|NNS </s>|S_END
+<s>|S_START the|DT central|JJ bank|NN was|VBD acting|VBG in|IN response|NN to|TO a|DT sense|NN of|IN worsening|NN of|IN the|DT crisis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN he|PRP said|VBD the|DT governing|NN council|NN had|VBD discussed|VBN other|JJ measures|NNS draghi|VBP dismissed|VBN questions|NNS about|IN what|WP those|DT could|MD include|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START draghi|NN shot|VBD down|IN one|CD widely|RB discussed|VBN proposal|NN to|TO give|VB a|DT banking|NN license|NN to|TO the|DT european|JJ stability|NN mechanism|NN a|DT bailout|NN fund|NN that|WDT has|VBZ yet|RB to|TO be|VB fully|RB established|VBN </s>|S_END
+<s>|S_START in|IN theory|NN this|DT would|MD allow|VB the|DT esm|NN to|TO borrow|VB money|NN from|IN the|DT ecb|NN giving|VBG it|PRP a|DT potentially|RB unlimited|VBN source|NN of|IN funding|NN to|TO buy|VB bonds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START draghi|NN had|VBD said|VBN the|DT esm|NN as|IN it|PRP is|VBZ currently|RB designed|VBN is|VBZ not|RB a|DT suitable|JJ counterparty|NN for|IN the|DT ecb|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT remarks|NNS disappointed|VBD global|JJ financial|JJ markets|NNS where|WRB investors|NNS had|VBD been|VBN hoping|VBG for|IN a|DT more|RBR explicit|JJ bond|NN buying|NN commitment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START stocks|NNS in|IN london|NN frankfurt|NN and|CC paris|VBZ fell|NN between|IN 05|CD and|CC 15|CD </s>|S_END
+<s>|S_START us|PRP stocks|VBZ opened|VBN lower|JJR as|IN investors|NNS gravitated|VBN away|RB from|IN risky|JJ assets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT yield|NN on|IN spanish|JJ 10year|JJ bonds|NNS rose|VBD back|RP above|IN 7|CD a|DT level|NN widely|RB considered|VBN unsustainable|JJ </s>|S_END
+<s>|S_START italian|JJ 10year|JJ yields|NNS rose|VBD to|TO 62|CD up|IN from|IN 59|CD on|IN wednesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START investors|NNS have|VBP been|VBN worried|VBN about|IN spain|NN being|VBG forced|VBN to|TO seek|VB a|DT full|JJ blown|NN bailout|IN if|IN the|DT effort|NN to|TO rescue|VB the|DT nations|NNS banking|VBG sector|NN falls|NNS short|JJ </s>|S_END
+<s>|S_START that|DT would|MD strain|VB the|DT eurozones|NNS crisis|NN resources|NNS and|CC leave|VB italy|RB exposed|VBN to|TO a|DT deeper|NN crisis|NN in|IN the|DT bond|NN market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB the|DT ecb|NN left|VBD its|PRP$ main|JJ refinancing|NN rate|NN unchanged|JJ at|IN 075|CD after|IN cutting|VBG the|DT rate|NN to|TO an|DT alltime|NN low|JJ at|IN its|PRP$ last|JJ meeting|NN </s>|S_END
+<s>|S_START the|DT deposit|NN rate|NN which|WDT is|VBZ what|WP the|DT ecb|NN pays|VBZ banks|NNS on|IN excess|NN reserves|NNS was|VBD also|RB unchanged|JJ at|IN zero|NN percent|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ecb|NN meeting|NN comes|VBZ one|CD day|NN after|IN the|DT federal|JJ reserve|NN left|NN its|PRP$ policies|NNS unchanged|JJ disappointing|JJ investors|NNS who|WP had|VBD hoped|VBN the|DT us|PRP central|JJ bank|NN would|MD do|VB more|RBR </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

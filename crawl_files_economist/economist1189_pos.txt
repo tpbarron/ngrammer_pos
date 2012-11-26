@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 01|CD gdp|NN $|$ 264bn|CD ppp|CD $|$ 210bn|CD inflation|NN 23|CD population|NN 54m|CD gdp|NN per|IN head|NN $|$ 49010|CD ppp|CD $|$ 39050|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT unwieldy|NN sixparty|NN coalition|NN that|WDT emerged|VBD from|IN the|DT mid2011|NNP election|NN spans|NNS the|DT entire|JJ political|JJ spectrum|NN and|CC may|MD founder|VB over|IN policy|NN dispute|NN </s>|S_END
+<s>|S_START despite|IN its|PRP$ scope|NN the|DT coalition|NN excludes|VBZ the|DT thirdplaced|VBN true|JJ finns|NNS who|WP will|MD press|VB a|DT nationalist|NN programme|NN from|IN the|DT opposition|NN benches|VBZ taking|VBG a|DT determined|JJ stance|NN for|IN instance|NN against|IN bailouts|NNS for|IN troubled|JJ eurozone|NN partner|NN </s>|S_END
+<s>|S_START the|DT administration|NN will|MD cut|VB spending|NN to|TO narrow|VB the|DT fiscal|JJ gap|NN adding|VBG to|TO the|DT woes|NNS afflicting|VBG the|DT euro|NN zone|NN and|CC leading|VBG to|TO a|DT slight|NN contraction|NN in|IN finlands|NNS economy|NN </s>|S_END
+</p>|P_END
+

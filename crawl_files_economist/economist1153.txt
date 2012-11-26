@@ -1,0 +1,77 @@
+<p>
+<s>open up any electronic device and inside there are circuit boards components and bundles of wire</s>
+<s>assembling these items into a product like a phone can be a tedious labourintensive process and one that is often subcontracted to lowwage countries such as china</s>
+<s>now new ways of printing electronics in three dimensions are being developed</s>
+<s>this makes it possible to incorporate circuitry and components into the material the product is made from such as the phone’s case</s>
+<s>it could revolutionise the way electronic goods are made</s>
+</p>
+
+<p>
+<s>printing electronics is not new screen printing lithography inkjet and other processes have long been used to manufacture circuit boards and components</s>
+<s>but the technologies are improving rapidly and now allow electronics to be printed on a greater variety of surfaces</s>
+<s>in the latest developments electronics printing is being combined with “additive manufacturing” which uses machines popularly known as 3d printers to build solid objects out of material one layer at a time</s>
+</p>
+
+<p>
+<s>inking the changes</s>
+</p>
+
+<p>
+<s>printing electronics requires “inks” with electrical properties that can act as conductors resistors or semiconductors</s>
+<s>these inks are becoming more versatile</s>
+<s>one example comes from xerox an american firm which makes office equipment and commercial printing systems</s>
+<s>its research centre in canada has developed a silver ink which can be used to print flexible electronic circuits directly onto materials like plastic or fabrics</s>
+</p>
+
+<p>
+<s>silver is a better conductor of electricity than copper which is typically used in circuits but silver is expensive and tricky to print because it melts at 962°c</s>
+<s>however by making silver into particles just five nanometres billionths of a metre in size xerox has produced a silver ink which melts at less than 140°c</s>
+<s>that allows it to be printed using inkjet and other processes relatively cheaply says paul smith the director of research at the laboratory</s>
+<s>only minuscule quantities of silver are used and there is no waste unlike chemicaletching processes</s>
+</p>
+
+<p>
+<s>xerox’s parc research centre in palo alto california is developing ways to use such inks</s>
+<s>these can print circuits for various components including flexible display screens sensors and antennae for radiofrequency security tags</s>
+<s>with the emergence of additivemanufacturing techniques it starts to become possible to print such things directly onto the product itself says janos veres the manager of parc’s printedelectronics team</s>
+</p>
+
+<p>
+<s>that includes products with complex shapes</s>
+<s>optomec based in albuquerque new mexico has developed additivemanufacturing systems for a variety of industries</s>
+<s>it can print electronics directly onto a pair of glasses for “augmented reality” it can make a plastic water tank that uses embedded electronics to measure how full it is and turn pumps on or off it can print sensors on military armour or an antenna on the case of a mobile phone</s>
+</p>
+
+<p>
+<s>in a recent threeway tieup optomec worked with aurora flight sciences an american producer of unmanned aerial vehicles and stratasys a 3dprinting company based in minneapolis to make a “smart wing” for a small drone</s>
+<s>the wing was made from a thermoplastic material using a stratasys 3d printer</s>
+<s>optomec then used a process it calls aerosol jet to print circuits sensors and an antenna on the wing</s>
+<s>the idea is that such technology would allow lightweight drones that can be customised for specific missions and printed on demand</s>
+</p>
+
+<p>
+<s>optomec’s aerosol jet works very differently from inkjet printing in which a print head positioned barely a millimetre away deposits a droplet of ink on a flat surface</s>
+<s>aerosol jet at first atomises nanoparticlebased print materials into microscopic droplets which are then focused using a sheath of gas into a precise jet stream directed by a nozzle</s>
+<s>the nozzle can be held five millimetres or more away from the surface which allows irregular shapes to be coated</s>
+<s>both the nozzle and the tray holding the item being printed can be manipulated through different angles to work on threedimensional structures</s>
+<s>the system can print electronic features smaller than a hundredth of a millimetre wide from a variety of materials</s>
+</p>
+
+<p>
+<s>instead of assembling an item from many separate components 3dprinted electronics make it possible to print an entire product in a single machine says dave ramahi optomec’s chief executive</s>
+<s>however for the technology to take off he believes it needs to be commercialised in an evolutionary way</s>
+<s>this means applying it at certain stages of existing massproduction processes such as printing antennae onto mobilephone cases</s>
+<s>many phones use a number of different antennae to connect to different radio networks so this would make more room for conventional electronics inside</s>
+<s>some commercial applications of the technology are less than a year away adds mr ramahi</s>
+</p>
+
+<p>
+<s>so how difficult would it be to print a phone complete with all its electronic gubbins</s>
+<s>optomec is developing applications which could provide some of the necessary steps</s>
+<s>besides antennae these include edge circuits for the screen threedimensional connections for chips multiplelayer circuits and touchscreen parts</s>
+<s>it would also be possible to print the battery</s>
+<s>the biggest challenge would be to print the chips that are the brains of the phone</s>
+<s>these contain millions of transistors in a square millimetre and are at present made in siliconfabrication plants costing $10 billion or more</s>
+<s>yet embedding even some circuitry means phones could be made slimmer as well as reducing the costs of materials and assembly</s>
+</p>
+

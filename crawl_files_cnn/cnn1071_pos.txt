@@ -1,0 +1,60 @@
+<p>|P_START
+<s>|S_START click|NN the|DT chart|NN to|TO track|VB global|JJ stock|NN markets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN investors|NNS around|IN the|DT world|NN cheered|VBD a|DT german|NN court|NN ruling|NN that|IN clears|NNS the|DT way|NN for|IN europes|NNS latest|JJS rescue|NN fund|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START european|JJ stocks|NNS rallied|VBD the|DT euro|NN climbed|VBD higher|JJR and|CC borrowing|VBG costs|NNS in|IN spain|NN and|CC italy|RB eased|VBD to|TO their|PRP$ lowest|JJS levels|NNS in|IN six|CD months|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START early|RB wednesday|NN the|DT german|NN constitutional|JJ court|NN ruled|VBD against|IN a|DT group|NN of|IN conservative|JJ politicians|NNS who|WP requested|VBN an|DT injunction|NN that|IN would|MD bar|VB germany|NN from|IN ratifying|VBG the|DT treaty|NN governing|VBG the|DT european|JJ stability|NN mechanism|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT dax|NN in|IN frankfurt|NN surged|VBD almost|RB 2|CD while|IN the|DT cac|NN 40|CD in|IN paris|NNS jumped|VBD 1|CD </s>|S_END
+<s>|S_START londons|NNS ftse|VBP closed|VBN down|RP 02|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START wall|NN street|VBD also|RB got|VBD a|DT lift|NN from|IN europe|NN with|IN all|DT three|CD major|JJ us|PRP indexes|VBZ rising|VBG 02|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP think|VBP its|PRP$ very|RB much|JJ a|DT political|JJ symbol|NN for|IN support|NN of|IN these|DT bailout|IN policies|NNS said|VBD clemens|NNS fuest|JJS professor|NN of|IN taxation|NN at|IN oxford|NN universitys|NNS saïd|JJ business|NN school|NN </s>|S_END
+<s>|S_START thats|NNS bad|VBD news|NN for|IN the|DT taxpayer|NN but|CC good|JJ news|NN for|IN people|NNS who|WP hold|JJ government|NN bonds|NNS </s>|S_END
+<s>|S_START i|PRP think|VBP the|DT uncertainly|RB about|IN shortterm|JJ exits|NNS from|IN the|DT european|JJ union|NN of|IN greece|NN and|CC other|JJ countries|NNS like|IN spain|NN has|VBZ been|VBN reduced|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT decision|NN helped|VBD push|NN down|IN spanish|JJ 10year|JJ bond|NN yields|NNS to|TO 56|CD while|IN the|DT yield|NN on|IN the|DT italian|JJ 10year|JJ bond|NN slid|VBD to|TO 506|CD </s>|S_END
+<s>|S_START borrowing|VBG costs|NNS for|IN both|DT nations|NNS havent|VBP been|VBN this|DT low|JJ in|IN months|NNS as|IN spain|NN and|CC italy|RB have|VBP struggled|VBN to|TO reduce|VB their|PRP$ deficits|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START last|JJ weeks|NNS move|IN by|IN the|DT european|JJ central|JJ bank|NN to|TO buy|VB euroarea|NN bonds|NNS helped|VBD ease|NN investors|NNS concerns|NNS </s>|S_END
+<s>|S_START and|CC the|DT latest|JJS news|NN from|IN germany|NN is|VBZ adding|VBG to|TO that|DT optimism|NN </s>|S_END
+<s>|S_START the|DT euro|NN is|VBZ at|IN a|DT fourmonth|NN high|NN against|IN the|DT us|NN dollar|NN just|RB shy|JJ of|IN $|$ 130|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD euro|VBN rescue|NN fund|NN clears|NNS major|JJ hurdle|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START german|NN magazine|NN der|NN spiegel|NN referred|VBD to|TO the|DT german|NN court|NN ruling|NN as|IN a|DT sigh|NN of|IN relief|NN for|IN germany|NN and|CC europe|NN and|CC a|DT historically|RB significant|JJ signal|JJ for|IN the|DT euro|NN rescue|NN </s>|S_END
+<s>|S_START german|NN chancellor|NN angela|NN merkel|NN echoed|VBD the|DT sentiment|NN calling|VBG it|PRP a|DT good|JJ day|NN for|IN europe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD europe|NN is|VBZ it|PRP time|RB to|TO break|VB up|RP this|DT marriage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START asian|JJ markets|NNS which|WDT were|VBD already|RB closed|VBN ahead|RB of|IN the|DT german|NN ruling|NN ended|VBD higher|JJR </s>|S_END
+<s>|S_START tokyos|NNS nikkei|VBP gained|VBN 17|CD while|IN the|DT hang|NN seng|NN in|IN hong|JJ kong|JJ was|VBD up|RB 09|CD and|CC the|DT shanghai|NN composite|JJ added|VBD 03|CD </s>|S_END
+</p>|P_END
+

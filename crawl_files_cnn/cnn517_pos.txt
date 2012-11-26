@@ -1,0 +1,115 @@
+<p>|P_START
+<s>|S_START symbol|NN job|NN training|NN a|DT trade|NN school|NN in|IN skokie|NN ill|NN hired|VBD april|NN senase|NN right|RB its|PRP$ first|JJ female|JJ instructor|NN with|IN the|DT hope|NN of|IN inspiring|VBG more|JJR women|NNS to|TO train|VB for|IN manufacturing|NN jobs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN april|NN senase|NN is|VBZ at|IN the|DT front|NN end|NN of|IN a|DT potential|JJ job|NN boom|NN women|NNS in|IN manufacturing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START senase|NN 35|CD is|VBZ a|DT trailblazer|NN </s>|S_END
+<s>|S_START she|PRP has|VBZ worked|VBN numerous|JJ factory|NN jobs|NNS for|IN 13|CD years|NNS often|RB as|IN the|DT first|JJ or|CC only|RB woman|JJ on|IN the|DT production|NN floor|NN </s>|S_END
+<s>|S_START she|PRP makes|VBZ nearly|RB $|$ 40|CD an|DT hour|NN with|IN overtime|NN in|IN her|PRP$ day|NN job|NN running|VBG hightech|NN machinery|NN at|IN a|DT factory|NN that|WDT makes|VBZ specialized|VBN industrial|JJ parts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC in|IN march|NN she|PRP took|VBD a|DT second|JJ job|NN as|IN the|DT first|JJ female|NN instructor|NN in|IN computeraided|JJ machining|NN at|IN symbol|NN job|NN training|NN inc|NN a|DT trade|NN school|NN that|WDT sits|VBZ in|IN the|DT heart|NN of|IN a|DT busy|JJ manufacturing|NN hub|NN in|IN skokie|NN ill|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN her|PRP$ new|JJ role|NN she|PRP hopes|VBZ to|TO inspire|VB more|JJR women|NNS to|TO follow|VB her|PRP$ lead|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START according|VBG to|TO the|DT national|JJ association|NN of|IN manufacturers|NNS about|IN a|DT third|JJ of|IN all|DT manufacturing|VBG workers|NNS today|NN are|VBP women|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC manufacturing|VBG is|VBZ rapidly|RB being|VBG transformed|VBN from|IN a|DT laborintensive|JJ field|NN to|TO a|DT hightech|NN one|CD </s>|S_END
+<s>|S_START the|DT change|NN and|CC a|DT nascent|NN pick|NN up|IN in|IN domestic|JJ manufacturing|NN has|VBZ created|VBN thousands|NNS of|IN factory|NN jobs|NNS nationwide|VBP that|IN experts|NNS say|VBP more|JJR women|NNS are|VBP starting|VBG to|TO seek|VB out|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START women|NNS are|VBP very|RB detailedoriented|VBN said|VBD senase|NN </s>|S_END
+<s>|S_START you|PRP need|VBP that|IN approach|NN in|IN manufacturing|NN today|NN because|IN the|DT work|NN is|VBZ so|RB much|RB more|RBR precise|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD hundreds|NNS of|IN factory|NN jobs|NNS go|VBP unfilled|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tom|NN and|CC diana|NN peters|NNS the|DT husbandwife|NN team|NN that|WDT runs|VBZ symbol|NN job|NN training|NN are|VBP on|IN a|DT mission|NN of|IN their|PRP$ own|JJ </s>|S_END
+<s>|S_START they|PRP want|VBP to|TO enroll|VB more|JJR women|NNS students|NNS in|IN their|PRP$ school|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT stereotype|NN is|VBZ that|IN factory|NN jobs|NNS require|VBP a|DT lot|NN of|IN heavy|JJ lifting|NN said|VBD diana|NNS </s>|S_END
+<s>|S_START its|PRP$ the|DT complete|JJ opposite|NN </s>|S_END
+<s>|S_START so|IN much|RB of|IN manufacturing|NN today|NN is|VBZ hightech|JJ and|CC computerized|JJ </s>|S_END
+<s>|S_START women|NNS can|MD do|VB these|DT jobs|NNS and|CC be|VB very|RB successful|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT peters|NNS trade|VBP school|NN was|VBD formerly|RB a|DT familyrun|NN toolanddie|NN shop|NN before|IN diana|NNS a|DT company|NN executive|NN bought|VBD it|PRP and|CC transformed|VBD it|PRP into|IN a|DT manufacturing|NN trade|NN school|NN in|IN 2005|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP saw|VBD the|DT need|NN to|TO establish|VB a|DT vocational|JJ school|NN because|IN of|IN a|DT skilled|JJ labor|NN shortage|NN in|IN the|DT area|NN she|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START enrollment|NN at|IN symbol|NN which|WDT specializes|VBZ in|IN teaching|NN computeraided|VBD machining|VBG known|VBN as|IN cnc|NN has|VBZ since|IN quadrupled|VBN to|TO 140|CD students|NNS a|DT year|NN </s>|S_END
+<s>|S_START the|DT school|NN recently|RB moved|VBD to|TO a|DT larger|JJR facility|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START symbol|NN currently|RB has|VBZ about|IN a|DT dozen|NN female|NN students|NNS a|DT level|NN that|WDT tom|NN calls|VBZ a|DT spike|NN from|IN years|NNS past|NN when|WRB the|DT school|NN had|VBD none|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD manufacturing|NN is|VBZ my|PRP$ future|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START diana|NNS is|VBZ already|RB a|DT role|NN model|NN for|IN women|NNS students|NNS because|IN its|PRP$ rare|NN to|TO have|VB a|DT manufacturing|NN school|NN owned|VBN and|CC operated|VBN by|IN a|DT woman|NN said|VBD tom|NN director|NN of|IN business|NN operations|NNS </s>|S_END
+<s>|S_START and|CC by|IN hiring|NN senase|NN the|DT peters|NNS hope|VBP to|TO further|RBR demystify|JJ the|DT industry|NN as|IN a|DT boys|NNS club|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START senase|NN showed|VBD a|DT knack|NN for|IN the|DT trade|NN early|RB on|IN </s>|S_END
+<s>|S_START she|PRP took|VBD several|JJ shop|NN classes|NNS in|IN high|JJ school|NN and|CC started|VBD winning|VBG competitions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD of|IN my|PRP$ instructors|NNS told|VBD me|PRP i|PRP was|VBD good|JJ in|IN math|NN and|CC that|IN i|PRP should|MD consider|VB going|VBG into|IN cnc|NN because|IN the|DT moneys|NNS good|JJ senase|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START she|PRP won|VBD a|DT scholarship|NN graduated|VBN from|IN a|DT vocational|JJ school|NN and|CC worked|VBD at|IN several|JJ different|JJ companies|NNS where|WRB she|PRP quickly|RB moved|VBD up|RP the|DT ranks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START currently|RB senase|VBP is|VBZ a|DT cnc|NN specialist|NN with|IN kitagawanorthtech|JJ in|IN schaumburg|NN ill|NN earning|VBG $|$ 25|CD an|DT hour|NN </s>|S_END
+<s>|S_START with|IN overtime|NN because|IN of|IN a|DT shortage|NN of|IN cnc|NN workers|NNS shes|VBZ making|VBG up|RP to|TO $|$ 3750|CD an|DT hour|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC she|PRP teaches|VBZ night|NN classes|NNS at|IN symbol|NN </s>|S_END
+<s>|S_START senase|NN wants|VBZ her|PRP$ students|NNS to|TO come|VB away|RB ready|JJ to|TO go|VB on|IN job|NN interviews|NNS and|CC present|NN themselves|NNS as|IN fullytrained|VBN machinists|NNS and|CC not|RB as|IN a|DT man|NN or|CC a|DT woman|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START still|RB she|PRP doesnt|VBD sugarcoat|JJ her|PRP$ experience|NN as|IN a|DT woman|NN in|IN a|DT mostly|RB maledominated|VBN industry|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT guys|NNS have|VBP a|DT hard|JJ time|NN being|VBG instructed|VBN by|IN a|DT woman|NN she|PRP said|VBD </s>|S_END
+<s>|S_START theyd|NN say|VBP to|TO me|PRP why|WRB do|VBP you|PRP want|VB to|TO do|VB this|DT </s>|S_END
+<s>|S_START youre|NN going|VBG to|TO get|VB dirty|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START her|PRP$ response|NN yes|NNS but|CC at|IN least|JJS i|PRP can|MD afford|VB to|TO buy|VB good|JJ soap|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,215 @@
+<p>|P_START
+<s>|S_START a|DT galician|JJ the|DT spanish|JJ like|IN to|TO quip|VB is|VBZ the|DT sort|NN of|IN person|NN you|PRP meet|VBP on|IN the|DT stairs|NNS and|CC you|PRP don’t|JJ know|NN whether|IN he|PRP is|VBZ going|VBG up|RP or|CC coming|VBG down|IN </s>|S_END
+<s>|S_START uch|JJ ambiguity|NN or|CC retranca|NN can|MD make|VB for|IN entertaining|JJ and|CC ironic|JJ speech|NN and|CC an|DT attitude|NN of|IN caution|NN even|RB suspicion|NN </s>|S_END
+<s>|S_START for|IN mariano|DT rajoy|NN the|DT galicianborn|NN spanish|NN prime|NN minister|NN playing|NN to|TO this|DT archetype|NN is|VBZ a|DT way|NN to|TO survive|VB and|CC manage|NN conflicting|VBG demand|NN </s>|S_END
+<s>|S_START whether|IN it|PRP is|VBZ the|DT character|NN trait|NN spain|NN needs|VBZ to|TO overcome|VB its|PRP$ agony|NN is|VBZ open|JJ to|TO doubt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN rajoy|NN frustrates|VBZ many|JJ with|IN his|PRP$ prevarication|NN over|IN a|DT fresh|JJ eurozone|NN bailout|IN which|WDT now|RB comes|VBZ with|IN a|DT conditional|JJ promise|NN from|IN the|DT european|JJ central|JJ bank|NN ecb|NN to|TO help|VB bring|VBG down|IN spain’s|NNS stifling|VBG borrowing|VBG cost|NN </s>|S_END
+<s>|S_START france|NN wants|VBZ him|PRP to|TO take|VB the|DT money|NN germany|NN tells|NNS him|PRP not|RB to|TO </s>|S_END
+<s>|S_START before|IN walking|VBG through|IN the|DT door|NN mr|NN rajoy|NN wants|VBZ to|TO know|VB that|IN germany|DT won’t|JJ shut|NN it|PRP on|IN his|PRP$ fingers|NNS and|CC to|TO be|VB sure|JJ about|IN what|WP lies|NNS beyond|VBP </s>|S_END
+<s>|S_START what|WP will|MD the|DT ecb|NN do|VBP and|CC what|WP conditions|NNS will|MD be|VB imposed|VBN on|IN spain|NN </s>|S_END
+<s>|S_START asked|VBD this|DT week|NN about|IN a|DT leaked|JJ report|NN that|WDT a|DT bailout|NN request|NN could|MD be|VB imminent|JJ mr|NN rajoy|NN responded|VBD with|IN galician|JJ retranca|NN </s>|S_END
+<s>|S_START there|EX are|VBP two|CD options|NNS he|PRP said|VBD either|DT the|DT news|NN agency|NN is|VBZ right|RB and|CC it|PRP has|VBZ better|JJR sources|NNS than|IN the|DT prime|JJ minister|NN or|CC it|PRP is|VBZ wrong|JJ </s>|S_END
+<s>|S_START “i|NN will|MD tell|VB you|PRP ‘no’|-NONE- </s>|S_END
+<s>|S_START but|CC you|PRP can|MD still|RB think|VB what|WP you|PRP deem|VBP best|JJS because|IN you|PRP may|MD guess|VB right”|-NONE- so|RB did|VBD he|PRP really|RB say|VBP no|DT or|CC was|VBD it|PRP a|DT ye|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ wonder|NN whether|IN mr|NN rajoy|NN has|VBZ any|DT strategy|NN to|TO restore|VB confidence|NN in|IN markets|NNS and|CC among|IN spaniard|NN </s>|S_END
+<s>|S_START with|IN a|DT deficit|NN of|IN about|RB 9|CD of|IN gdp|NN last|JJ year|NN an|DT unemployment|NN rate|NN surpassing|VBG 25|CD and|CC a|DT protest|NN movement|NN that|WDT is|VBZ showing|VBG flashes|NNS of|IN violence|NN some|DT worry|NN that|IN spain|NN is|VBZ being|VBG sucked|VBN into|IN a|DT greekstyle|JJ death|NN spiral|JJ </s>|S_END
+<s>|S_START others|NNS are|VBP convinced|VBN that|IN the|DT spanish|JJ public|JJ sector|NN still|RB has|VBZ much|RB fat|JJ that|IN unemployment|NN statistics|NNS are|VBP inflated|VBN and|CC that|IN the|DT shockabsorber|NN of|IN spanish|JJ society|NN the|DT family|NN remains|VBZ strong|JJ </s>|S_END
+<s>|S_START till|NN mr|NN rajoy’s|NNS problems|NNS are|VBP getting|VBG worse|NN not|RB better|RBR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN top|JJ of|IN the|DT economic|JJ crisis|NN he|PRP must|MD now|RB confront|VB an|DT unexpected|JJ constitutional|JJ one|CD </s>|S_END
+<s>|S_START mr|NN rajoy’s|NNS attempt|NN to|TO rein|VB in|IN spending|NN in|IN spain’s|JJ highly|RB autonomous|JJ regions|NNS which|WDT provide|VB bigticket|NN services|NNS like|IN health|NN and|CC education|NN has|VBZ rekindled|VBN nationalism|NN in|IN catalonia|NN one|CD of|IN spain’s|JJ most|RBS indebted|JJ regions|NNS and|CC one|CD of|IN the|DT biggest|JJS net|JJ contributor|NN </s>|S_END
+<s>|S_START a|DT surprisingly|RB large|JJ proindependence|NN rally|RB in|IN barcelona|NN last|JJ month|NN saw|VBD banners|NNS proclaiming|VBG catalonia|NN as|IN the|DT next|JJ member|NN of|IN the|DT eu|NN </s>|S_END
+<s>|S_START the|DT region’s|JJ president|NN artur|NN mas|VBZ thwarted|VBN in|IN his|PRP$ demand|NN for|IN a|DT better|JJR fiscal|JJ deal|NN raised|VBD the|DT stakes|NNS by|IN calling|VBG early|JJ elections|NNS on|IN november|NN 25th|CD and|CC threatening|VBG a|DT ballot|NN on|IN the|DT right|NN to|TO selfdetermination|NN </s>|S_END
+<s>|S_START this|DT weekend’s|JJ “el|NN clásico”|NN the|DT football|NN derby|NN between|IN the|DT old|JJ rivals|NNS fc|NN barcelona|NN and|CC real|JJ madrid|NN will|MD be|VB more|RBR emotionally|RB charged|VBN than|IN ever|RB </s>|S_END
+<s>|S_START nobody|NN quite|RB knows|VBZ where|WRB the|DT nationalist|JJ surge|NN will|MD lead|VB mr|NN mas|NNS himself|PRP is|VBZ vague|JJ about|IN his|PRP$ ultimate|JJ objective|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START o|NN the|DT mysterious|JJ mr|NN rajoy|NN must|MD seek|VB to|TO avert|VB twin|NN tailrisks|NNS the|DT breakup|NN of|IN the|DT euro|NN zone|NN on|IN the|DT rocks|NNS of|IN spain|NN and|CC the|DT breakup|NN of|IN spain|NN itself|PRP </s>|S_END
+<s>|S_START a|DT former|JJ land|NN registrar|NN and|CC exminister|NN mr|NN rajoy|NN was|VBD defeated|VBN in|IN 2004|CD and|CC 2008|CD by|IN the|DT socialist|NN leader|NN josé|NN luis|VBZ rodríguez|JJ zapatero|NN but|CC came|VBD to|TO power|NN with|IN a|DT thumping|NN majority|NN for|IN his|PRP$ conservative|JJ people’s|NNS party|NN in|IN last|JJ november’s|NNS election|NN </s>|S_END
+<s>|S_START mr|NN zapatero|VBD had|VBD long|JJ lived|VBN in|IN denial|JJ about|IN the|DT bursting|NN of|IN spain’s|JJ vast|JJ property|NN bubble|JJ </s>|S_END
+<s>|S_START but|CC mr|PRP$ rajoy|NN hardly|RB hurried|VBD to|TO repair|VB the|DT damage|NN </s>|S_END
+<s>|S_START he|PRP waited|VBD for|IN the|DT end|NN of|IN the|DT monthlong|JJ transition|NN to|TO name|VB a|DT cabinet|NN with|IN a|DT messy|JJ twoheaded|VBN economic|JJ team|NN </s>|S_END
+<s>|S_START he|PRP irritated|VBD leaders|NNS at|IN his|PRP$ first|JJ european|JJ summit|NN in|IN march|NN by|IN unexpectedly|RB announcing|VBG he|PRP would|MD miss|VB his|PRP$ deficit|NN targets|NNS though|IN these|DT were|VBD later|JJ relaxed|VBN </s>|S_END
+<s>|S_START and|CC he|PRP dragged|VBD his|PRP$ feet|NN until|IN april|NN before|IN producing|VBG his|PRP$ first|JJ budget|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD reason|NN for|IN the|DT poor|JJ start|NN is|VBZ that|IN mr|NN rajoy|NN delayed|VBD bad|JJ news|NN in|IN the|DT hope|NN of|IN delivering|VBG the|DT estocada|NN the|DT matador’s|NNP final|JJ sword|NN thrust|NN to|TO the|DT socialists|NNS in|IN regional|JJ elections|NNS in|IN their|PRP$ heartland|NN of|IN andalusia|NN </s>|S_END
+<s>|S_START in|IN the|DT event|NN they|PRP kept|VBD andalusia|NNS while|IN mr|NN rajoy|NN skewered|VBD his|PRP$ own|JJ credibility|NN </s>|S_END
+<s>|S_START last|JJ month|NN was|VBD at|IN last|JJ supposed|VBN to|TO be|VB his|PRP$ moment|NN of|IN clarity|NN with|IN the|DT help|NN of|IN external|JJ consultants|NNS spain|VBP announced|VBN its|PRP$ banks|NNS needed|VBD about|IN €40|-NONE- billion|CD $|$ 51|CD billion|CD of|IN public|JJ money|NN well|RB below|IN the|DT €100|NN billion|NN already|RB offered|VBN by|IN the|DT euro|NN zone|NN produced|VBN a|DT plan|NN to|TO clean|VB up|RP the|DT sector|NN drew|VBD up|RP a|DT budget|NN to|TO bring|VB the|DT deficit|NN down|IN to|TO 45|CD of|IN gdp|NN next|IN year|NN and|CC launched|VBD a|DT new|JJ round|NN of|IN structural|JJ reform|NN </s>|S_END
+<s>|S_START yet|RB some|DT analysts|NNS still|RB question|VBP whether|IN the|DT banks’|JJ stresstests|NNS were|VBD stressful|JJ enough|RB </s>|S_END
+<s>|S_START and|CC there|EX was|VBD disbelief|JJ about|IN the|DT government’s|NNS budget|NN based|VBN on|IN a|DT contraction|NN of|IN just|RB 05|CD next|JJ year|NN most|JJS independent|JJ analysts|NNS forecast|VBP a|DT drop|NN two|CD or|CC three|CD times|NNS larger|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START is|VBZ mr|VBN rajoy|NN again|RB playing|VBG local|JJ politics|NNS ahead|RB of|IN this|DT month’s|JJ elections|NNS in|IN his|PRP$ native|JJ galicia|NN or|CC of|IN the|DT inevitable|JJ bailout|NN </s>|S_END
+<s>|S_START perish|JJ the|DT thought|NN say|VBP senior|JJ spanish|JJ officials|NNS there|EX are|VBP no|DT more|RBR secrets|NNS in|IN the|DT banks|NNS and|CC the|DT optimistic|JJ outlook|NN rests|NNS on|IN the|DT predicted|VBN success|NN of|IN recent|JJ reforms|NNS eg|VBP to|TO make|VB the|DT labour|NN market|NN more|RBR flexible|JJ and|CC scores|NNS of|IN new|JJ ones|NNS to|TO be|VB adopted|VBN in|IN the|DT coming|VBG year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT chain|NN of|IN fiscal|JJ command|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fetters|NNS of|IN budgetary|JJ control|NN now|RB run|VBN from|IN brussels|NNS to|TO madrid|VB and|CC on|IN to|TO barcelona|VB but|CC they|PRP have|VBP not|RB so|RB far|RB unleashed|VBD resentment|NN of|IN the|DT european|JJ idea|NN </s>|S_END
+<s>|S_START for|IN spain|NN european|JJ integration|NN has|VBZ been|VBN an|DT intrinsic|JJ part|NN of|IN democratic|JJ transition|NN after|IN the|DT dictatorship|NN of|IN general|JJ francisco|NN franco|NN </s>|S_END
+<s>|S_START for|IN catalan|NN nationalists|NNS europe|VBP offers|NNS the|DT hope|NN of|IN a|DT painless|NN separation|NN from|IN spain|NN </s>|S_END
+<s>|S_START mr|NN mas|VBD has|VBZ told|VBN followers|NNS to|TO vote|VB without|IN fear|NN </s>|S_END
+<s>|S_START no|DT one|NN could|MD “use|VB weapons”|JJ to|TO stop|VB them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lore|NN has|VBZ it|PRP that|IN spain’s|-NONE- most|RBS notorious|JJ galician|NN the|DT generalísimo|NNP franco|NN saw|VBD only|RB two|CD kinds|NNS of|IN problems|NNS those|DT that|WDT time|NN would|MD fix|VB and|CC those|DT that|WDT not|RB even|RB time|VB could|MD solve|VB </s>|S_END
+<s>|S_START mr|NN rajoy|NN should|MD shun|VB this|DT mindset|NN </s>|S_END
+<s>|S_START his|PRP$ quiet|JJ manner|NN will|MD help|VB spain|VB if|IN it|PRP cools|VBZ passions|NNS but|CC not|RB if|IN it|PRP serves|VBZ to|TO put|VB off|RP choices|NNS that|WDT are|VBP only|RB becoming|VBG harder|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogscharlemagne|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN the|DT other|JJ moral|JJ hazard|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN simeurope|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN autumn|NN renewal|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN eurobankingfragilistic|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN high|JJ gloom|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN une|NN rentrée|NN chaude|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN euro|NN euphemism|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN disunited|VBD states|NNS of|IN europe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN euro|NN snakes|VBZ and|CC ladder|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN a|DT greece|NN or|CC a|DT norway|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN europe|NN on|IN the|DT rack|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN angela’s|NNS vision|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN between|IN two|CD nightmare|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN latvian|VBD lesson|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN angela’s|NNS new|JJ partner|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN ode|VBD to|TO growth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN going|VBG for|IN growth|NN but|CC how|WRB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN kicking|VBG against|IN austerity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN april|NN showers|NNS on|IN the|DT euro|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemahgne|NN the|DT commission|NN conundrum|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN currency|NN disunion|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN still|RB sickly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN unfree|VBP trade|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN elected|VBD but|CC how|WRB democratic|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN mario|NN put|VBD on|IN your|PRP$ toga|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN tough|IN talk|NN no|DT strategy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN too|RB long|RB an|DT illne|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN running|VBG against|IN merkozy|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN 1789|CD and|CC all|DT that|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN angela|NN the|DT lawgiver|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN hopeful|JJ or|CC hopele|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN and|CC then|RB there|RB was|VBD one|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN to|TO opt|VB in|IN or|CC not|RB to|TO opt|VB in|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlemagne|NN summit|VBD for|IN one|CD </s>|S_END
+</p>|P_END
+

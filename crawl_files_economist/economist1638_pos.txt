@@ -1,0 +1,133 @@
+<p>|P_START
+<s>|S_START almost|RB two|CD decades|NNS ago|RB bill|NN gates|NNS one|CD of|IN the|DT founders|NNS of|IN microsoft|NN famously|RB dismissed|VBN retail|JJ banks|NNS as|IN “dinosaurs”|JJ </s>|S_END
+<s>|S_START conservative|JJ bankers|NNS regularly|RB trot|VBD out|IN this|DT anecdote|NN to|TO show|VB that|IN it|PRP is|VBZ naive|JJ to|TO expect|VB rapid|JJ change|NN in|IN such|JJ a|DT traditional|JJ busine|NN </s>|S_END
+<s>|S_START wouldbe|NN innovators|NNS in|IN banking|NN for|IN their|PRP$ part|NN often|RB quote|VBP another|DT comment|NN by|IN mr|NN gates|NNS that|WDT people|NNS tend|VBP to|TO “overestimate|JJ the|DT technological|JJ change|NN that|WDT will|MD occur|VB in|IN the|DT next|JJ two|CD years|NNS and|CC underestimate|JJ the|DT change|NN that|IN will|MD occur|VB in|IN the|DT next|JJ ten”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banking|NN has|VBZ been|VBN surprisingly|RB little|RB touched|VBN by|IN the|DT rise|NN of|IN the|DT internet|NN </s>|S_END
+<s>|S_START it|PRP may|MD have|VB embraced|VBN many|JJ of|IN the|DT trappings|NNS of|IN digitisation|NN such|JJ as|IN providing|NN customers|NNS with|IN online|NN access|NN to|TO their|PRP$ bank|NN accounts|NNS yet|RB retail|JJ banks|NNS have|VBP invested|VBN more|RBR effort|NN in|IN bricks|NNS than|IN in|IN clicks|NNS over|IN the|DT past|JJ decade|NN </s>|S_END
+<s>|S_START at|IN a|DT time|NN when|WRB businesses|NNS from|IN music|JJ stores|NNS to|TO travel|NN agents|NNS have|VBP already|RB disappeared|VBN from|IN most|JJS high|JJ streets|NNS the|DT banking|NN industry|NN which|WDT in|IN the|DT mid1990s|NNP by|IN some|DT estimates|NNS already|RB had|VBD more|JJR square|JJ metres|NNS of|IN retail|JJ space|NN than|IN did|VBD general|JJ department|NN stores|NNS in|IN america|NN has|VBZ built|VBN yet|RB more|RBR branche|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ bankers|NNS are|VBP feeling|VBG complacent|NN </s>|S_END
+<s>|S_START having|VBG been|VBN told|JJ in|IN turn|NN that|IN the|DT credit|NN card|NN the|DT atm|NN and|CC the|DT telephone|NN would|MD completely|RB transform|VB their|PRP$ business|NN and|CC then|RB found|VBD that|IN business|NN carried|VBD on|IN much|JJ as|IN usual|JJ they|PRP have|VBP been|VBN rightly|RB sceptical|JJ about|IN similar|JJ predictions|NNS for|IN the|DT internet|NN </s>|S_END
+<s>|S_START those|DT who|WP decided|VBN to|TO adopt|VB digital|JJ technology|NN early|RB on|IN incurred|VBN huge|JJ costs|NNS in|IN building|NN new|JJ computer|NN systems|NNS on|IN top|JJ of|IN the|DT outdated|VBN ones|NNS that|IN were|VBD already|RB in|IN place|NN for|IN little|JJ immediate|NN benefit|NN </s>|S_END
+<s>|S_START francisco|NN gonzález|NN the|DT chairman|NN and|CC chief|NN executive|NN of|IN bbva|NN compares|NNS this|DT task|NN to|TO changing|VBG the|DT engine|NN on|IN a|DT lorry|NN as|IN it|PRP is|VBZ speeding|VBG down|IN a|DT road|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB their|PRP$ past|JJ scepticism|NN over|IN digitisation|NN now|RB threatens|VBZ to|TO leave|VB the|DT banks|NNS dangerously|RB unprepared|VBN for|IN the|DT future|NN </s>|S_END
+<s>|S_START “technology|NN is|VBZ at|IN a|DT turning|NN point”|NN says|VBZ mr|NN gonzález|-NONE- </s>|S_END
+<s>|S_START “in|JJ a|DT few|JJ years|NNS time|NN you|PRP will|MD see|VB that|IN there|EX is|VBZ a|DT very|RB new|JJ way|NN of|IN doing|VBG things|NNS and|CC valuations|NNS of|IN banks|NNS that|WDT are|VBP doing|VBG them|PRP will|MD change|VB dramatically”|-NONE- the|DT migration|NN of|IN banking|NN transactions|NNS and|CC customers|NNS from|IN branches|NNS to|TO mobile|VB phones|NNS and|CC to|TO the|DT internet|NN promises|VBZ to|TO transform|NN not|RB just|RB the|DT ways|NNS in|IN which|WDT people|NNS bank|VBP but|CC also|RB whom|WP they|PRP bank|VBP with|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT lure|NN of|IN cheaper|JJR money|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT first|JJ big|JJ impact|NN of|IN widespread|JJ digitisation|NN is|VBZ likely|JJ to|TO be|VB a|DT transformation|NN of|IN the|DT cost|NN base|NN of|IN those|DT banks|NNS that|IN embrace|NN it|PRP </s>|S_END
+<s>|S_START for|IN example|NN santander|NN has|VBZ a|DT costtoincome|NN ratio|NN of|IN 45|CD the|DT lowest|JJS among|IN big|JJ international|JJ banks|NNS see|VBP chart|NN </s>|S_END
+<s>|S_START uch|JJ low|JJ costs|NNS allow|VBP banks|NNS to|TO offer|VB more|JJR attractive|JJ rates|NNS on|IN loans|NNS and|CC deposits|NNS yet|RB still|RB earn|VB profits|NNS that|WDT will|MD keep|VB shareholders|NNS happy|JJ </s>|S_END
+<s>|S_START this|DT means|VBZ that|IN more|JJR efficient|JJ banks|NNS will|MD inevitably|RB get|VB a|DT bigger|JJR share|NN of|IN the|DT cake|NN in|IN concentrated|JJ markets|NNS such|JJ as|IN britain|NN and|CC buy|VB weaker|NN less|JJR efficient|NN competitors|NNS in|IN fragmented|JJ markets|NNS such|JJ as|IN america|NN </s>|S_END
+<s>|S_START that|DT may|MD do|VB much|RB to|TO restore|VB profitability|NN to|TO a|DT business|NN which|WDT has|VBZ been|VBN mercilessly|RB squeezed|VBN by|IN requirements|NNS for|IN higher|JJR capital|NN ratios|NNS at|IN a|DT time|NN when|WRB wholesale|JJ funding|NN is|VBZ becoming|VBG more|RBR expensive|JJ or|CC drying|VBG up|RP altogether|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mall|NN local|JJ banks|NNS are|VBP likely|JJ to|TO suffer|VB most|JJS </s>|S_END
+<s>|S_START as|IN consumers|NNS do|VBP more|RBR banking|VBG online|NN and|CC on|IN their|PRP$ mobile|JJ phones|NNS it|PRP is|VBZ becoming|VBG less|JJR important|JJ to|TO maintain|VB bank|NN branches|NNS on|IN every|DT street|NN corner|NN </s>|S_END
+<s>|S_START the|DT emphasis|NN now|RB is|VBZ on|IN clever|NN and|CC costly|RB mobilebanking|VBG applications|NNS and|CC tools|NNS that|WDT allow|VBP customers|NNS to|TO aggregate|VB their|PRP$ data|NNS and|CC manage|NN all|DT their|PRP$ accounts|NNS from|IN a|DT single|JJ screen|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START observers|NNS have|VBP long|RB been|VBN predicting|VBG a|DT “hollowing|JJ out”|NN of|IN the|DT middle|NN in|IN banking|NN in|IN which|WDT only|RB the|DT very|RB big|JJ and|CC efficient|NN and|CC the|DT very|JJ small|JJ and|CC local|JJ would|MD prosper|VB </s>|S_END
+<s>|S_START the|DT high|JJ cost|NN of|IN technology|NN and|CC the|DT gains|NNS it|PRP promises|VBZ are|VBP now|RB tipping|VBG the|DT balance|NN more|JJR firmly|RB in|IN the|DT direction|NN of|IN the|DT very|JJ big|JJ ones|NNS and|CC against|IN small|JJ regional|JJ or|CC community|NN bank|NN </s>|S_END
+<s>|S_START and|CC although|IN the|DT big|JJ banks|NNS that|WDT concentrate|JJ mainly|RB on|IN domestic|JJ business—such|JJ as|IN wells|NNS fargo|VBP in|IN america|NN itaú|NN in|IN brazil|NN and|CC lloyds|NNS in|IN britain—enjoy|JJ enormous|JJ advantages|NNS in|IN their|PRP$ home|NN markets|NNS they|PRP now|RB face|VBP several|JJ fresh|JJ challenge|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN dominant|JJ domestic|JJ banks|NNS the|DT big|JJ obstacle|NN to|TO growth|NN is|VBZ the|DT need|NN to|TO keep|VB the|DT regulators|NNS happy|VBP </s>|S_END
+<s>|S_START banking|NN is|VBZ among|IN the|DT worlds|NNS most|JJS tightly|RB regulated|VBN businesse|NN </s>|S_END
+<s>|S_START in|IN the|DT years|NNS since|IN the|DT financial|JJ crisis|NN regulation|NN has|VBZ become|VBN more|RBR intrusive|JJ </s>|S_END
+<s>|S_START this|DT inhibits|NNS innovation|NN and|CC raises|VBZ barriers|NNS to|TO entry|NN </s>|S_END
+<s>|S_START much|RB of|IN the|DT experimentation|NN and|CC innovation|NN in|IN banking|NN has|VBZ therefore|RB taken|VBN place|NN on|IN its|PRP$ fringes|NNS in|IN facilitating|VBG payments|NNS for|IN instance|NN or|CC in|IN finding|NN new|JJ ways|NNS of|IN crunching|VBG data|NNS </s>|S_END
+<s>|S_START if|IN disruptive|JJ technologies|NNS were|VBD to|TO threaten|VBN the|DT existing|VBG order|NN and|CC hence|NN financial|JJ stability|NN regulators|NNS would|MD probably|RB throttle|VB them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT same|JJ time|NN regulators|NNS are|VBP trying|VBG to|TO stop|VB banks|NNS from|IN getting|VBG too|RB big|JJ </s>|S_END
+<s>|S_START lloyds|NNS is|VBZ having|VBG to|TO sell|VB some|DT branches|NNS to|TO reduce|VB its|PRP$ dominance|NN of|IN the|DT market|NN </s>|S_END
+<s>|S_START in|IN america|NN wells|NNS fargo|VBP jpmorgan|JJ bank|NN of|IN america|NN and|CC other|JJ large|JJ domestic|JJ banks|NNS are|VBP already|RB barred|VBN from|IN buying|NN other|JJ american|JJ retail|NN bank|NN </s>|S_END
+<s>|S_START they|PRP can|MD still|RB grow|VB organically|RB but|CC if|IN their|PRP$ share|NN of|IN domestic|JJ deposits|NNS rises|NNS much|RB above|IN 10|CD they|PRP may|MD come|VB under|IN pressure|NN to|TO call|VB a|DT halt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT is|VBZ likely|JJ to|TO make|VB them|PRP turn|VB their|PRP$ attentions|NNS abroad|RB even|RB as|IN international|JJ competitors|NNS such|JJ as|IN santander|NN and|CC bnp|VB paribas|NNS start|VB to|TO gain|VB ground|NN in|IN their|PRP$ home|NN market|NN </s>|S_END
+<s>|S_START ome|NN new|JJ regional|JJ powerhouses|NNS are|VBP already|RB emerging|VBG </s>|S_END
+<s>|S_START outh|NN africas|VBD standard|JJ bank|NN now|RB has|VBZ branches|NNS across|IN africa|NN </s>|S_END
+<s>|S_START ingapores|NNS dbs|VBP bank|NN is|VBZ spreading|VBG across|IN asia|NN and|CC is|VBZ becoming|VBG a|DT formidable|JJ competitor|NN to|TO the|DT big|JJ international|JJ banks|NNS such|JJ as|IN standard|JJ chartered|VBN hsbc|NN and|CC citigroup|NN in|IN some|DT of|IN the|DT worlds|NNS fastestgrowing|VBG market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START until|IN now|RB retail|JJ banking|NN unlike|IN the|DT investment|NN and|CC wholesale|JJ sort|NN which|WDT are|VBP largely|RB international|JJ businesses|NNS competing|VBG in|IN global|JJ markets|NNS has|VBZ not|RB travelled|VBN well|RB but|CC that|IN is|VBZ changing|VBG for|IN two|CD reason|NN </s>|S_END
+<s>|S_START one|CD is|VBZ that|IN digitisation|NN is|VBZ at|IN last|JJ producing|NN significant|JJ economies|NNS of|IN scale|NN across|IN national|JJ border|NN </s>|S_END
+<s>|S_START banks|NNS are|VBP increasingly|RB able|JJ to|TO centralise|VB computer|NN systems|NNS and|CC to|TO use|VB common|JJ platform|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START jan|NN verplancke|VBD the|DT chief|NN information|NN officer|NN of|IN standard|JJ chartered|VBN says|VBZ that|IN international|JJ banks|NNS build|VBP their|PRP$ large|JJ computer|NN systems|NNS in|IN the|DT places|NNS that|WDT have|VBP the|DT most|RBS reliable|JJ communications|NNS and|CC power|NN networks|NNS and|CC are|VBP least|JJ prone|NN to|TO natural|JJ disaster|NN </s>|S_END
+<s>|S_START for|IN his|PRP$ bank|NN that|WDT means|VBZ running|VBG much|RB of|IN its|PRP$ global|JJ network|NN out|IN of|IN hong|JJ kong|JJ and|CC london|NN </s>|S_END
+<s>|S_START until|IN recently|RB incompatible|JJ legacy|NN systems|NNS made|VBN it|PRP very|RB hard|RB to|TO use|VB common|JJ computer|NN systems|NNS across|IN different|JJ countrie|NN </s>|S_END
+<s>|S_START now|RB it|PRP is|VBZ getting|VBG easier|JJR as|IN banking|NN moves|NNS from|IN bespoke|NN mainframe|NN computers|NNS to|TO racks|NNS of|IN smaller|JJR servers|NNS that|WDT can|MD be|VB scaled|VBN up|RP as|RB needed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT second|JJ reason|NN why|WRB internationalisation|NN is|VBZ spreading|VBG is|VBZ what|WP mckinseys|NNS mr|VBP rodeia|NN calls|NNS “economies|NNS of|IN skill”|JJ meaning|NN that|WDT successful|JJ banks|NNS are|VBP getting|VBG better|JJR at|IN standardising|VBG their|PRP$ procedures|NNS and|CC system|NN </s>|S_END
+<s>|S_START the|DT trailblazer|NN has|VBZ been|VBN santander|JJR but|CC its|PRP$ relentless|NN effort|NN to|TO make|VB its|PRP$ systems|NNS exactly|RB the|DT same|JJ everywhere|NN is|VBZ being|VBG emulated|VBN by|IN citigroup|NN hsbc|NN and|CC standard|JJ chartered|VBN </s>|S_END
+<s>|S_START when|WRB citigroup|NN hit|VBD on|IN a|DT successful|JJ branch|NN format|NN in|IN singapore|NN it|PRP quickly|RB replicated|VBD it|PRP across|IN asia|NN and|CC in|IN the|DT america|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ not|RB to|TO say|VB that|IN local|JJ scale|NN is|VBZ unimportant|JJ </s>|S_END
+<s>|S_START as|IN a|DT rule|NN of|IN thumb|NN both|DT hsbc|NN and|CC santander|NN reckon|NN that|WDT to|TO operate|VB effectively|RB they|PRP need|VBP at|IN least|JJS 510|CD of|IN the|DT market|NN </s>|S_END
+<s>|S_START tandard|NN chartered|VBD provides|VBZ a|DT full|JJ range|NN of|IN services|NNS in|IN markets|NNS where|WRB it|PRP is|VBZ strong|JJ and|CC a|DT pareddown|NN version|NN in|IN countries|NNS where|WRB it|PRP has|VBZ only|RB a|DT small|JJ share|NN of|IN the|DT market|NN </s>|S_END
+<s>|S_START “we|JJ recognised|VBN early|JJ on|IN that|DT we|PRP could|MD not|RB build|VB a|DT fullscale|NN standard|NN chartered|VBD everywhere|RB so|RB we|PRP focused|VBD on|IN how|WRB we|PRP would|MD compete|VB rather|RB than|IN doing|VBG one|CD size|NN fits|NNS all”|-NONE- says|VBZ steve|JJ bertamini|NN the|DT head|NN of|IN its|PRP$ consumer|NN bank|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START youll|NN never|RB walk|VBP alone|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economies|NNS of|IN skill|NN can|MD also|RB involve|VB “softer”|JJ advantages|NNS such|JJ as|IN sharing|NN knowledge|NN across|IN network|NN </s>|S_END
+<s>|S_START jeanlaurent|NN bonnafé|NN the|DT chief|NN executive|NN of|IN bnp|NN paribas|NNS says|VBZ of|IN its|PRP$ american|JJ subsidiary|NN “the|JJ main|NN synergies|NNS we|PRP have|VBP with|IN bank|NN of|IN the|DT west|NN is|VBZ the|DT way|NN we|PRP run|VBP the|DT bank|NN </s>|S_END
+<s>|S_START this|DT is|VBZ a|DT midsized|VBN bank|NN that|WDT has|VBZ 100|CD access|NN to|TO anything|NN that|IN is|VBZ interesting|JJ to|TO it|PRP within|IN the|DT bnp|NN paribas|VBZ group”|JJ for|IN example|NN in|IN the|DT middle|NN of|IN san|NN francisco|NN a|DT commanding|NN storefront|NN is|VBZ being|VBG refurbished|VBN for|IN a|DT new|JJ wealthmanagement|NN business|NN being|VBG started|VBN by|IN bank|NN of|IN the|DT west|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ using|VBG a|DT blueprint|NN provided|VBN by|IN its|PRP$ parent|NN but|CC new|JJ to|TO the|DT local|JJ market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT internationalisation|NN of|IN retail|JJ banking|NN is|VBZ already|RB delivering|VBG significant|JJ benefits|NNS to|TO consumer|NN </s>|S_END
+<s>|S_START in|IN countries|NNS with|IN inefficient|NN or|CC oligopolistic|JJ banking|NN markets|NNS a|DT new|JJ outpost|NN of|IN a|DT large|JJ international|JJ bank|NN can|MD often|RB unleash|VB competition|NN that|WDT improves|VBZ the|DT service|NN provided|VBD by|IN all|DT banks|NNS in|IN that|DT country|NN </s>|S_END
+<s>|S_START it|PRP also|RB allows|VBZ the|DT small|JJ but|CC growing|VBG portion|NN of|IN people|NNS who|WP work|NN or|CC study|NN abroad|RB to|TO bank|VB seamlessly|RB with|IN the|DT same|JJ institution|NN that|WDT they|PRP use|VBP at|IN home|NN </s>|S_END
+<s>|S_START this|DT eases|NNS the|DT travails|NNS of|IN opening|VBG a|DT new|JJ account|NN abroad|RB which|WDT sounds|NNS simple|VBP until|IN you|PRP try|VBP it|PRP and|CC transferring|VBG money|NN across|IN border|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT impact|NN will|MD soon|RB be|VB felt|VBN not|RB just|RB in|IN retail|JJ banking|NN but|CC also|RB in|IN the|DT highflying|NN world|NN of|IN wholesale|NN and|CC investment|NN banking|NN </s>|S_END
+<s>|S_START as|IN big|JJ retail|NN banks|NNS spread|VBP they|PRP will|MD be|VB well|RB positioned|VBN to|TO match|VB buyers|NNS and|CC sellers|NNS borrowers|NNS and|CC savers|NNS across|IN border|NN </s>|S_END
+<s>|S_START ome|NN of|IN the|DT huge|JJ flows|NNS of|IN money|NN that|IN before|IN the|DT financial|JJ crisis|NN surged|VBD through|IN capital|NN markets|NNS leaving|VBG rich|JJ pickings|NNS for|IN investment|NN bankers|NNS who|WP arranged|VBN bond|NN and|CC share|NN issues|NNS or|CC syndicated|VBN loans|NNS will|MD now|RB flow|VB through|IN the|DT internal|JJ pipes|NNS of|IN international|JJ bank|NN </s>|S_END
+<s>|S_START firms|NNS such|JJ as|IN morgan|JJ stanley|NN credit|NN suisse|NN and|CC ubs|NNS which|WDT previously|RB posted|VBD bankers|NNS in|IN the|DT worlds|NNS financial|JJ capitals|NNS and|CC financed|VBD deals|NNS in|IN the|DT capital|NN markets|NNS will|MD now|RB play|VB second|JJ fiddle|NN to|TO global|JJ retail|NN banks|NNS that|WDT are|VBP able|JJ to|TO tap|VB the|DT savings|NNS of|IN their|PRP$ customer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START little|RB more|JJR than|IN a|DT decade|NN ago|IN most|JJS retail|JJ banks|NNS feared|VBD the|DT internet|NN </s>|S_END
+<s>|S_START then|RB they|PRP decided|VBD largely|RB to|TO ignore|VB it|PRP </s>|S_END
+<s>|S_START now|RB it|PRP is|VBZ becoming|VBG ever|RB clearer|JJR that|IN the|DT future|NN belongs|VBZ to|TO those|DT that|WDT are|VBP nimble|JJ and|CC farsighted|VBD enough|RB to|TO embrace|VB it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ee|NN also|RB our|PRP$ debate|NN about|IN the|DT obsolescence|NN of|IN retail|JJ banking|NN </s>|S_END
+</p>|P_END
+

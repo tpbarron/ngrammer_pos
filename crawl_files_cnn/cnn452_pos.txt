@@ -1,0 +1,80 @@
+<p>|P_START
+<s>|S_START the|DT highspeed|VBN train|NN from|IN shanghai|NN to|TO beijing|NN takes|VBZ about|RB five|CD hours|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START money|NN magazine|NN wall|NN street|NN hyperfocuses|NNS on|IN how|WRB fast|JJ china|NN will|MD grow|VB this|DT year|NN or|CC next|JJ </s>|S_END
+<s>|S_START as|IN it|PRP became|VBD clear|JJ to|TO me|PRP on|IN a|DT recent|JJ visit|NN there|EX my|PRP$ first|JJ in|IN five|CD years|NNS thats|NNS the|DT wrong|JJ question|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP canceled|VBD my|PRP$ flight|NN from|IN beijing|VBG to|TO shanghai|VB to|TO try|VB out|RP the|DT highspeed|NN train|NN which|WDT covers|NNS 811|CD miles|NNS the|DT distance|NN between|IN new|JJ york|NN and|CC chicago|RB in|IN less|JJR than|IN five|CD hours|NNS </s>|S_END
+<s>|S_START amtrak|NN would|MD take|VB 19|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START five|CD years|NNS ago|RB shanghai|VBP was|VBD too|RB smoggy|JJ and|CC under|IN too|RB much|JJ construction|NN for|IN me|PRP to|TO understand|VB what|WP chinas|RB urban|VBP transformation|NN could|MD mean|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO enter|VB the|DT city|NN today|NN is|VBZ to|TO be|VB transported|VBN to|TO a|DT future|NN of|IN massive|JJ skyscrapers|NNS connected|VBN by|IN superefficient|NN subways|NNS </s>|S_END
+<s>|S_START those|DT buildings|NNS are|VBP filling|VBG up|RP </s>|S_END
+<s>|S_START in|IN 20|CD years|NNS more|RBR than|IN 350|CD million|CD people|NNS will|MD have|VB moved|VBN from|IN the|DT countryside|NN to|TO cities|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT firstrate|NN infrastructure|NN now|RB supports|VBZ the|DT worlds|NNS secondbiggest|VBP economy|NN </s>|S_END
+<s>|S_START the|DT real|JJ question|NN to|TO ask|VB about|IN china|NN is|VBZ whether|IN its|PRP$ leaders|NNS will|MD act|VB as|IN if|IN thats|NNS what|WP theyre|NN managing|VBG rather|RB than|IN relentlessly|RB pursue|JJ export|NN growth|NN on|IN the|DT backs|NNS of|IN a|DT cheap|NN labor|NN pool|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD how|WRB to|TO invest|VB in|IN a|DT natural|JJ gas|NN boom|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ann|NN lee|NN author|NN of|IN what|WP the|DT us|PRP can|MD learn|VB from|IN china|NN argues|NNS the|DT answer|NN is|VBZ yes|NNS </s>|S_END
+<s>|S_START they|PRP know|VBP that|IN they|PRP need|VBP to|TO put|VB money|NN in|IN peoples|NNS pockets|NNS she|PRP says|VBZ </s>|S_END
+<s>|S_START as|IN evidence|NN lee|NN points|NNS to|TO chinas|NNS 800|CD million|CD cellphone|NN users|NNS and|CC the|DT 6|CD million|CD students|NNS graduating|VBG college|NN each|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START reforms|NNS yes|VBZ but|CC </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START financial|JJ reform|NN such|JJ as|IN expanding|VBG the|DT role|NN of|IN private|JJ capital|NN in|IN the|DT banking|NN sector|NN is|VBZ slowly|RB taking|VBG hold|NN </s>|S_END
+<s>|S_START michael|NN hasenstab|NN of|IN the|DT franklin|NN templeton|NN fixed|VBN income|NN group|NN wrote|VBD recently|RB that|IN this|DT could|MD elevate|VB china|NN from|IN a|DT middleincome|NN to|TO a|DT highincome|NN country|NN over|IN the|DT next|JJ decade|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB shanghais|VBZ stock|NN market|NN trades|NNS at|IN onethird|NN its|PRP$ 2007|CD peak|NN </s>|S_END
+<s>|S_START concerns|NNS remain|VBP about|IN political|JJ reform|NN rampant|NN bribery|NN intellectualproperty|NN theft|NN and|CC the|DT opaqueness|NN of|IN government|NN data|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT issues|NNS make|VBP the|DT bull|NN case|NN uncertain|NN </s>|S_END
+<s>|S_START as|IN canadian|JJ scholars|NNS alan|VBP huang|JJ and|CC tony|NN wirjanto|IN have|NN observed|VBN chinese|JJ stocks|NNS carry|VBP priceearnings|NNS ratios|NNS similar|JJ to|TO us|PRP stocks|NNS yet|RB with|IN much|RB higher|JJR growth|NN potential|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START too|RB bad|JJ you|PRP cant|VBP trust|JJ the|DT numbers|NNS and|CC chinese|JJ stocks|NNS are|VBP so|RB volatile|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD how|WRB to|TO invest|VB in|IN stocks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT suggests|VBZ a|DT conservative|JJ approach|NN </s>|S_END
+<s>|S_START a|DT standard|JJ diversified|JJ portfolio|NN would|MD have|VB about|IN 30|CD of|IN stocks|NNS overseas|RB and|CC a|DT quarter|NN of|IN that|DT in|IN emerging|VBG markets|NNS </s>|S_END
+<s>|S_START your|PRP$ allocation|NN to|TO chinese|VB stocks|NNS would|MD be|VB about|RB 14|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START until|IN china|NN is|VBZ more|RBR transparent|JJ dont|NN get|NN much|RB more|RBR enthusiastic|JJ </s>|S_END
+<s>|S_START still|RB what|WP can|MD be|VB seen|VBN is|VBZ amazing|VBG </s>|S_END
+<s>|S_START leaving|VBG shanghai|NN i|PRP rode|VBP the|DT magnetic|JJ levitation|NN train|NN no|DT wheels|NNS or|CC tracks|NNS to|TO the|DT airport|NN </s>|S_END
+<s>|S_START it|PRP compresses|VBZ a|DT 45minute|JJ drive|JJ to|TO eight|CD minutes|NNS </s>|S_END
+<s>|S_START thats|NNS progress|VBP </s>|S_END
+</p>|P_END
+

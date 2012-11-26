@@ -1,0 +1,141 @@
+<p>
+<s>summer in texas last year was the hottest on record</s>
+<s>demand for power spiked as air conditioners hummed across the state</s>
+<s>the electric reliability council of texas ercot the state grid operator only narrowly avoided having to impose rolling blackouts</s>
+<s>to do so it had to buy all the electricity it could find on the spot market in some cases paying an eyewatering 30 times the normal price</s>
+</p>
+
+<p>
+<s>on paper at least ercot ought to have had plenty of power</s>
+<s>in 2010 it reported 84400 megawatts mw of total generation capacity well over last summers peak demand of 68294mw</s>
+<s>in theory this is enough to produce some 740 billion kilowatt hours kwh of electricity a year—more than double the 319 billion kwh that ercots customers actually demanded during 2010</s>
+<s>in electricity generation however aggregates and averages carry little weight</s>
+<s>one problem is that wind energy accounted for 9500mw of ercots total capacity and the wind does not blow all the time</s>
+<s>it tends to be strongest at night when demand is low</s>
+<s>moreover power firms are required by regulators to maintain a safety margin over total estimated demand—of 1375 in ercots case—in order to ensure reliable supply</s>
+</p>
+
+<p>
+<s>if only it were easier for ercot and other utilities to store excess energy such as that produced by wind turbines at night for later use at peak times</s>
+<s>such “time shifting” would compensate for the intermittent nature of wind and solar power making them more attractive and easier to integrate into the grid</s>
+<s>energy storage also allows “peak shaving”</s>
+<s>by tapping stored energy rather than firing up standby generators utilities can save money by avoiding expensive spotmarket purchases</s>
+</p>
+
+<p>
+<s>surely the answer is to use giant batteries</s>
+<s>although batteries can deliver power for short periods and can smooth out the bumps as different sources of power are switched on and off they cannot provide “grid scale” performance storing and discharging energy at high rates hundreds of megawatts and in really large quantities thousands of megawatt hours</s>
+<s>so other technologies are needed—and growing demand driven chiefly by wider use of intermittent renewableenergy sources is sparking plenty of new ideas</s>
+</p>
+
+<p>
+<s>its got potential</s>
+</p>
+
+<p>
+<s>the most widely used form of bulkenergy storage is currently pumpedstorage hydropower psh which uses the simple combination of water and gravity to capture offpeak power and release it at times of high demand</s>
+<s>pumpedhydro facilities typically take advantage of natural topography and are built around two reservoirs at different heights</s>
+<s>offpeak electricity is used to pump water from the lower to the higher reservoir turning electrical energy into gravitational potential energy</s>
+<s>when power is needed water is released back down to the lower reservoir spinning a turbine and generating electricity along the way</s>
+<s>psh accounts for more than 99 of bulk storage capacity worldwide around 127000mw according to the electric power research institute epri the research arm of americas power utilities</s>
+</p>
+
+<p>
+<s>yet despite its dominance traditional psh has limited capacity for expansion</s>
+<s>the kind of sites needed for such systems are few and far between</s>
+<s>as a result several firms are devising new forms of psh</s>
+</p>
+
+<p>
+<s>one ambitious idea pictured above is the green power island concept devised by gottlieb paludan a danish architecture firm together with researchers at the technical university of denmark</s>
+<s>this involves building artificial islands with wind turbines and a deep central reservoir</s>
+<s>when the wind blows the energy is used to pump water out of the reservoir into the sea</s>
+<s>when power is needed seawater is allowed to flow back into the reservoir driving turbines to produce electricity</s>
+</p>
+
+<p>
+<s>gravity power a startup based in california has devised a system that relies on two waterfilled shafts one wider than the other which are connected at both ends</s>
+<s>water is pumped down through the smaller shaft to raise a piston in the larger shaft</s>
+<s>when demand peaks the piston is allowed to sink back down the main shaft forcing water through a generator to create electricity</s>
+<s>the systems relatively compact nature means it can be installed close to areas of high demand and extra modules can be added when more capacity is needed says tom mason the firms boss</s>
+</p>
+
+<p>
+<s>another company looking to harness the potential of gravity is advanced rail energy storage ares based in santa monica california</s>
+<s>its system uses modified railway cars on a specially built track</s>
+<s>offpeak electricity is used to pull the cars to the top of a hill</s>
+<s>when energy is needed the cars are released and as they run back down the track their motion drives a generator</s>
+<s>like psh the ares system requires specific topography</s>
+<s>but william peitzke the firms boss says ares delivers more power for the same height differential</s>
+<s>he also says it is more efficient with a roundtrip efficiency—the ratio of energy out to energy in—of more than 85 compared with 7075 for psh</s>
+<s>a demonstration system is being built in california and should become operational in 2013</s>
+</p>
+
+<p>
+<s>the secondbiggest form of bulkenergy storage though it is dwarfed by psh is compressedair energy storage caes</s>
+<s>this involves compressing air and storing it in large repositories such as underground salt caverns</s>
+<s>during peak hours the air is released to drive a turbine</s>
+<s>there are only two commercial caes plants in operation one in huntorf germany and the other in mcintosh alabama</s>
+<s>the big drawback of caes is its inefficiency</s>
+<s>according to rwe a german utility the huntorf plant is only 42 efficient and the one in alabama is only slightly better</s>
+<s>the problem is that air heats up when pressurised and cools down when expanded</s>
+<s>in existing caes systems energy is lost as heat during compression and the air must then be reheated before expansion</s>
+<s>the energy to do this usually comes from natural gas reducing efficiency and increasing greenhousegas emissions</s>
+</p>
+
+<p>
+<s>as with hydro storage efforts are under way to adapt the basic concept of caes to make it more efficient and easier to install</s>
+<s>rwe is working with ge an industrial conglomerate and others to commercialise a compressedair system that captures the heat produced during compression stores it and then reapplies it during the expansion process eliminating the need for additional sources of heat</s>
+<s>having proven the theoretical feasibility of this concept the partners must now overcome the technical hurdles which include developing pumps to compress air to 70 times atmospheric pressure and ceramic materials to store heat at up to 600°c</s>
+<s>the aim is to start building a 90mw demonstration plant in strasfurt germany in 2013 says peter moser the head of rwes research arm</s>
+</p>
+
+<p>
+<s>several smaller outfits are also developing more efficient forms of caes</s>
+<s>sustainx a company spun out of dartmouth universitys engineering school and supported by americas department of energy doe and ge among others has developed what it calls “isothermal caes” which removes heat from the compressed air by injecting water vapour</s>
+<s>the water absorbs the heat and is then stored and reapplied to the air during the expansion process</s>
+<s>and rather than relying on salt caverns sustainx uses standard steel pipes to store the compressed air allowing its systems to be installed wherever they are needed</s>
+<s>the firm has built a 40 kilowatt demonstration plant and is partnering with aes a utility to build a 12mw system</s>
+<s>general compression a massachusettsbased company also backed by the doe has developed an isothermal caes system focused on providing support to wind farms</s>
+<s>with the backing of conocophillips an energy giant it is building a 2mw demonstration plant in texas</s>
+</p>
+
+<p>
+<s>another way to store energy is in the form of heat</s>
+<s>that is the approach taken by isentropic a company based in cambridge england with a system it calls pumped heat electricity storage phes which uses argon gas to transfer heat between two vast tanks filled with gravel</s>
+<s>incoming energy drives a heat pump compressing and heating the argon and creating a temperature differential between the two tanks with one at 500°c and the other at 160°c</s>
+<s>during periods of high demand the heat pump runs in reverse as a heat engine expanding and cooling the argon and generating electricity</s>
+<s>isentropic says its system has an efficiency of 7280 depending on size</s>
+</p>
+
+<p>
+<s>brightsource energy an energy company based in oakland california has signed a deal with southern california edison a utility to implement a system that stores energy in molten salt</s>
+<s>brightsource generates electricity using an approach called concentrated solar power in which computercontrolled mirrors known as heliostats focus the suns heat to boil water and turn a steam turbine</s>
+<s>but this approach works only while the sun is shining</s>
+<s>the storage system called solarplus uses a heat exchanger to transfer some of the heat captured by the heliostats to the molten salt</s>
+<s>it is then run back through the heat exchanger to drive the steam turbine when needed</s>
+<s>this allows brightsources plants to deliver energy even after dark and gives utilities and grid operators more flexibility than solar power usually provides</s>
+<s>brightsource is planning to equip three of its plants with solarplus</s>
+</p>
+
+<p>
+<s>changing the rules</s>
+</p>
+
+<p>
+<s>the potential market is huge according to pike research a marketresearch firm $122 billion will be invested in energystorage projects between 2011 and 2021</s>
+<s>it predicts that the bulk of this spending will go towards new forms of caes</s>
+<s>greenminded governments and regulators are taking a closer interest in the technology</s>
+<s>california has passed a law requiring utilities to consider storage in their plans</s>
+<s>germanys environment ministry last year proposed a project to assess technology developments and funding needs for energy storage</s>
+<s>and the british governments “lowcarbon networks” fund is being used to build some demonstration projects</s>
+</p>
+
+<p>
+<s>yet largescale deployment of bulk storage systems will require regulatory as well as technical progress</s>
+<s>storage systems do not fit neatly into regulatory frameworks that distinguish between power providers and grid operators since they can be used by both</s>
+<s>their ability to take power off the grid store it and then release it later creates “potential problems for current tariff billing and metering approaches” notes the epri in a recent report</s>
+<s>nor is it clear whether power companies will be allowed to pass on the cost of storage facilities to their customers</s>
+<s>but given the technologys potential to make power grids cleaner and more reliable it seems likely that changes to the rules are in store</s>
+</p>
+

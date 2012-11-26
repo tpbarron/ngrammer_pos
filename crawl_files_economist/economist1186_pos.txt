@@ -1,0 +1,16 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 43|CD gdp|NN $|$ 254bn|CD ppp|CD $|$ 514bn|CD inflation|NN 100|CD population|NN 1931m|CD gdp|NN per|IN head|NN $|$ 1310|CD ppp|CD $|$ 2660|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT countrys|NNS squabbling|VBG politicians|NNS will|MD wrestle|VB for|IN power|NN with|IN little|JJ fear|NN of|IN intervention|NN by|IN the|DT army|NN which|WDT was|VBD discredited|VBN by|IN the|DT american|JJ strike|NN that|WDT killed|VBD osama|NN bin|NN laden|NN </s>|S_END
+<s>|S_START relations|NNS with|IN america|NN have|VBP waned|VBN partly|RB over|IN the|DT bin|NN laden|NN affair|NN and|CC aid|VBD flows|NNS will|MD be|VB restricted|VBN but|CC a|DT growing|VBG relationship|NN with|IN china|NN will|MD help|VB to|TO fill|VB the|DT gap|NN </s>|S_END
+<s>|S_START a|DT rally|RB in|IN investment|NN will|MD propel|VB economic|JJ growth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB unhappy|JJ return|NN </s>|S_END
+<s>|S_START pervez|NN musharraf|NN a|DT former|JJ military|JJ autocrat|NN has|VBZ said|VBN he|PRP will|MD return|VB from|IN exile|JJ at|IN the|DT head|NN of|IN his|PRP$ new|JJ political|JJ party|NN in|IN march|NN </s>|S_END
+<s>|S_START given|VBN the|DT darkness|NN of|IN the|DT cloud|NN under|IN which|WDT he|PRP left|VBD he|PRP should|MD not|RB expect|VB a|DT red|JJ carpet|NN </s>|S_END
+</p>|P_END
+

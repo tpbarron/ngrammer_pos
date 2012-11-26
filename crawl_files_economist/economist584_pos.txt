@@ -1,0 +1,36 @@
+<p>|P_START
+<s>|S_START “a|NN bicycle|NN that|WDT is|VBZ produced|VBN with|IN god’s|JJ blessings|NNS in|IN mind|NN and|CC man’s|NNP interests|NNS at|IN its|PRP$ fore|NN is|VBZ an|DT islamic|JJ bicycle”|NN the|DT pronouncement|NN made|VBD at|IN a|DT recent|JJ conference|NN in|IN istanbul|NN by|IN alparslan|NN acikgenc|NN a|DT professor|NN from|IN the|DT yildiz|NN technical|JJ university|NN brought|NN nods|NNS of|IN approval|NN from|IN his|PRP$ colleague|NN </s>|S_END
+<s>|S_START “a|NN bicycle|NN that|WDT is|VBZ painted|VBN with|IN substances|NNS harmful|JJ to|TO humans|NNS can|MD not|RB be|VB islamic”|JJ agreed|NN another|DT professor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN the|DT exchange|NN elicited|VBD a|DT flurry|NN of|IN mirthful|JJ commentary|JJ not|RB everyone|NN was|VBD amused|VBN </s>|S_END
+<s>|S_START mustafa|NN akyol|NN a|DT liberal|NN muslim|NN writer|NN called|VBN the|DT idea|NN of|IN an|DT islamic|JJ bicycle|NN an|DT “expression|NN of|IN the|DT selfisolating|NN mentality|NN that|WDT has|VBZ stagnated|VBN muslim|NN thought”|-NONE- secular|JJ academics|NNS have|VBP long|RB fretted|VBN that|IN the|DT mildly|RB islamist|VBP justice|NN and|CC development|NN ak|NN party|NN in|IN power|NN since|IN 2002|CD is|VBZ promoting|VBG islam|NN ahead|RB of|IN science|NN </s>|S_END
+<s>|S_START they|PRP point|VBP to|TO the|DT introduction|NN this|DT year|NN of|IN koran|NN lessons|NNS in|IN staterun|NN school|NN </s>|S_END
+<s>|S_START the|DT emphasis|NN on|IN religious|JJ education|NN is|VBZ part|NN of|IN a|DT controversial|JJ overhaul|NN of|IN the|DT national|JJ curriculum|NN which|WDT many|JJ argue|NN flies|NNS in|IN the|DT face|NN of|IN the|DT rigidly|RB secular|JJ principles|NNS of|IN kemal|JJ ataturk|NN turkey’s|NNS founding|VBG father|NN </s>|S_END
+<s>|S_START this|DT follows|VBZ the|DT appointments|NNS of|IN overtly|RB pious|JJ rectors|NNS to|TO various|JJ state|NN universitie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “for|JJ all|DT their|PRP$ claims|NNS of|IN being|VBG able|JJ to|TO reconcile|VB religion|NN with|IN modernity|NN islamic|JJ movements|NNS in|IN turkey|NN have|VBP signally|RB failed|VBN to|TO do|VB so”|JJ argues|NNS ali|VBP alpar|NN an|DT astrophysicist|NN at|IN istanbul’s|JJ sabanci|NN university|NN </s>|S_END
+<s>|S_START mr|NN alpar|NN is|VBZ among|IN a|DT group|NN of|IN academics|NNS who|WP resigned|VBN in|IN protest|NN from|IN the|DT country’s|NNS national|JJ academy|NN of|IN sciences|NNS last|JJ year|NN after|IN the|DT government|NN announced|VBD that|IN it|PRP would|MD henceforth|VB be|VB choosing|VBG some|DT of|IN its|PRP$ member|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT event|NN the|DT government|NN decided|VBD to|TO let|VB the|DT country’s|JJ top|JJ science|NN agency|NN known|VBN as|IN tubitak|NN submit|NN some|DT of|IN the|DT name|NN </s>|S_END
+<s>|S_START mr|NN alpar|NN and|CC his|PRP$ friends|NNS were|VBD unswayed|VBN </s>|S_END
+<s>|S_START the|DT agency|NN has|VBZ been|VBN steeped|VBN in|IN controversy|NN of|IN its|PRP$ own|JJ </s>|S_END
+<s>|S_START this|DT erupted|VBN when|WRB it|PRP allegedly|RB forced|VBD the|DT editors|NNS of|IN its|PRP$ science|NN magazine|NN to|TO kill|VB a|DT cover|NN story|NN on|IN charles|NNS darwin|VBP in|IN march|NN 2009|CD </s>|S_END
+<s>|S_START the|DT move|NN followed|VBD tweaks|NNS to|TO tubitak’s|NNS charter|IN that|DT gave|NN the|DT government|NN a|DT greater|JJR say|NN over|IN its|PRP$ affair|NN </s>|S_END
+<s>|S_START the|DT agency|NN later|JJ claimed|VBD that|IN it|PRP had|VBD not|RB censored|VBN the|DT piece|NN blaming|VBG the|DT change|NN on|IN editorial|NN wrangle|NN </s>|S_END
+<s>|S_START but|CC mr|PRP$ alpar|NN says|VBZ that|IN an|DT article|NN on|IN galileo|NN that|IN the|DT agency|NN commissioned|VBD him|PRP to|TO write|VB was|VBD also|RB spiked|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uggestions|NNS that|IN ak|NN is|VBZ steering|VBG turkey|NN towards|NNS islamic|JJ rule|NN are|VBP overwrought|VBN </s>|S_END
+<s>|S_START and|CC as|IN the|DT rest|NN of|IN europe|NN wrestles|NNS with|IN the|DT euro|NN crisis|NN the|DT turkish|JJ economy|NN continues|VBZ to|TO grow|VB under|IN ak’s|JJ steadying|NN hand|NN </s>|S_END
+<s>|S_START yet|RB if|IN turkey|NN is|VBZ to|TO remain|VB competitive|JJ it|PRP needs|VBZ to|TO invest|VB far|RB more|RBR in|IN research|NN and|CC development|NN the|DT directorate|NN for|IN religious|JJ affairs|NNS which|WDT employs|NNS thousands|VBZ of|IN clerics|NNS was|VBD allocated|VBN double|JJ the|DT amount|NN slated|VBD for|IN tubitak|NN last|JJ year|NN </s>|S_END
+<s>|S_START alienating|VBG the|DT country’s|JJ top|JJ scientists|NNS doesn’t|JJ help|NN </s>|S_END
+<s>|S_START “it|JJ is|VBZ time”|JJ says|NNS mr|VBP akyol|NN “for|NN muslims|NNS to|TO rethink|VB why|WRB early|JJ islamic|JJ civilisation|NN produced|VBN so|RB much|RB of|IN universal|NN value|NN from|IN algebra|NN to|TO the|DT lute|NN and|CC why|WRB we|PRP hardly|RB do|VBP that|IN today”|-NONE- </s>|S_END
+</p>|P_END
+

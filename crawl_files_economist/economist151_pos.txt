@@ -1,0 +1,66 @@
+<p>|P_START
+<s>|S_START an|DT urge|NN to|TO know|VB what|WP others|NNS will|MD be|VB up|RP to|TO next|JJ is|VBZ part|NN of|IN the|DT human|JJ condition|NN </s>|S_END
+<s>|S_START oothsayers|NNS fortunetellers|NNS stockbrokers—and|VBP publications|NNS like|IN this|DT one—have|JJ been|NN catering|VBG to|TO that|DT obsession|NN since|IN mankind|NN first|RB began|VBD making|VBG plans|NNS for|IN the|DT future|NN </s>|S_END
+<s>|S_START their|PRP$ record|NN has|VBZ been|VBN mixed|VBN </s>|S_END
+<s>|S_START the|DT biggest|JJS hurdle|NN is|VBZ the|DT apparent|JJ unpredictability|NN of|IN individual|JJ behaviour|NN </s>|S_END
+<s>|S_START but|CC if|IN you|PRP knew|VBD the|DT mood|NN of|IN all|DT those|DT involved|VBN might|MD a|DT clearer|NN picture|NN emerge|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT problem|NN is|VBZ that|IN those|DT involved|VBN can|MD number|VB millions|NNS and|CC their|PRP$ thinking|NN is|VBZ tricky|JJ to|TO tap|VB </s>|S_END
+<s>|S_START but|CC a|DT new|JJ breed|NN of|IN forecasters|NNS think|VBP it|PRP is|VBZ becoming|VBG a|DT little|RB easier|JJR </s>|S_END
+<s>|S_START they|PRP are|VBP using|VBG “sentiment|JJ analysis”|NN to|TO pick|VB out|RP the|DT emotionally|RB charged|VBD words|NNS and|CC phrases|NNS which|WDT pepper|JJR online|NN exchange|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN instance|NN johan|NN bollen|NN of|IN indiana|NNS university|NN bloomington|NN has|VBZ been|VBN trawling|VBG socialnetworking|NN sites|NNS like|IN twitter|NN for|IN hints|NNS about|IN peoples|NNS disposition—and|CC trying|VBG to|TO see|VB how|WRB collective|JJ mood|NN swings|NNS follow|VBP and|CC more|RBR important|JJ foretell|NN the|DT course|NN of|IN event|NN </s>|S_END
+<s>|S_START dr|NN bollens|NNS software|NN has|VBZ so|RB impressed|VBN derwent|NN capital|NN markets|NNS that|WDT the|DT investment|NN boutique|NN has|VBZ licensed|VBN it|PRP for|IN one|CD of|IN its|PRP$ fund|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START kalev|NN leetaru|VBD of|IN the|DT university|NN of|IN illinois|NNS has|VBZ looked|VBN at|IN the|DT still|RB more|JJR ubiquitous|JJ old|JJ media|NNS </s>|S_END
+<s>|S_START he|PRP reckons|VBZ he|PRP has|VBZ found|VBN a|DT way|NN to|TO forecast|VB revolution|NN </s>|S_END
+<s>|S_START he|PRP examined|VBD almost|RB 4m|CD articles|NNS from|IN the|DT bbcs|NNS summary|JJ of|IN world|NN broadcasts|NNS swb|VBP set|VBN up|RP by|IN britains|NNS authorities|NNS shortly|RB before|IN the|DT second|JJ world|NN war|NN </s>|S_END
+<s>|S_START its|PRP$ aim|NN was|VBD to|TO scour|PRP$ publicly|RB available|JJ foreign|JJ information—newspaper|JJ articles|NNS television|NN and|CC radio|NN broadcasts|NNS and|CC the|DT like—for|JJ hints|NNS of|IN attitudes|NNS towards|NNS the|DT west|NN plus|VBZ any|DT other|JJ potentially|RB helpful|JJ titbit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START today|NN the|DT swb|NN covers|VBZ 32000|CD sources|NNS in|IN over|IN 130|CD countrie|NN </s>|S_END
+<s>|S_START foreignlanguage|NN reports|NNS are|VBP meticulously|RB translated|VBN to|TO capture|VB as|IN many|JJ vernacular|JJ nuances|NNS as|IN possible|JJ </s>|S_END
+<s>|S_START crucially|RB swb|VBP data|NNS going|VBG back|RB to|TO 1979|CD have|VBP now|RB been|VBN digitised|VBN </s>|S_END
+<s>|S_START this|DT has|VBZ allowed|VBN dr|NN leetaru|NN to|TO recruit|VB a|DT supercomputer|NN to|TO compare|VB the|DT relative|JJ frequency|NN of|IN positive|JJ and|CC negative|JJ words|NNS in|IN millions|NNS of|IN reports|NNS arriving|VBG at|IN a|DT figure|NN for|IN each|DT reports|NNS emotional|JJ tone|NN </s>|S_END
+<s>|S_START these|DT figures|NNS are|VBP then|RB combined|VBN with|IN placename|NN clues|NNS about|IN which|WDT part|NN of|IN the|DT world|NN the|DT reports|NNS concern|NN to|TO produce|VB a|DT global|JJ map|NN of|IN sentiment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START words|NNS can|MD of|IN course|NN be|VB used|VBN ironically|RB to|TO mean|VB their|PRP$ opposite|JJ </s>|S_END
+<s>|S_START irony|NN has|VBZ been|VBN a|DT bugbear|JJ of|IN sentiment|NN analysis|NN computers|NNS unlike|IN most|JJS people|NNS continue|VBP to|TO be|VB stumped|VBN by|IN it|PRP </s>|S_END
+<s>|S_START yet|RB the|DT length|NN of|IN the|DT swbs|NNS content|NN makes|VBZ that|IN less|JJR of|IN a|DT problem|NN than|IN it|PRP is|VBZ for|IN say|NN short|JJ tweet|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START moreover|RB by|IN looking|VBG at|IN seasonal|JJ variations|NNS in|IN tone|NN caused|VBN by|IN factors|NNS like|IN availability|NN of|IN food|NN dr|NN leetarus|VBZ software|NN can|MD tell|VB whether|IN any|DT changes|NNS conform|NN to|TO a|DT cycle|NN of|IN collective|JJ mood|NN swings|NNS which|WDT have|VBP not|RB historically|RB sparked|VBN unrest|NN </s>|S_END
+<s>|S_START only|RB if|IN the|DT souring|NN of|IN sentiment|NN appears|VBZ out|RP of|IN the|DT ordinary|JJ would|MD the|DT model|NN predict|NN real|NN trouble|NN brewing|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT results|NNS are|VBP remarkable|JJ </s>|S_END
+<s>|S_START dr|NN leetarus|VBZ map|NN correctly|RB indicated|VBD that|IN resentment|NN for|IN autocratic|JJ rule|NN was|VBD about|IN to|TO boil|NN over|IN in|IN egypt|NN and|CC libya|NN weeks|NNS before|IN it|PRP actually|RB did|VBD </s>|S_END
+<s>|S_START the|DT swb|NN had|VBD too|RB few|JJ articles|NNS about|IN tunisia|NN for|IN a|DT reliable|JJ prediction|NN </s>|S_END
+<s>|S_START it|PRP also|RB accurately|RB fingered|VBN northern|JJ pakistan|NN as|IN the|DT area|NN where|WRB osama|NN bin|NN laden|NN was|VBD most|JJS probably|RB hiding|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START o|NN far|RB dr|NN leetaru|NN has|VBZ looked|VBN only|RB at|IN how|WRB his|PRP$ model|NN would|MD have|VB fared|VBN with|IN the|DT benefit|NN of|IN hindsight|NN </s>|S_END
+<s>|S_START in|IN 2012|CD there|EX will|MD be|VB more|RBR forwardlooking|VBG prediction|NN </s>|S_END
+<s>|S_START that|DT though|IN is|VBZ just|RB an|DT unscientific|JJ hunch|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START jan|NN piotrowski|NN online|NN science|NN editor|NN the|DT economist|NN </s>|S_END
+</p>|P_END
+

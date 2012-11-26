@@ -1,0 +1,66 @@
+<p>|P_START
+<s>|S_START middleclass|NN income|NN fell|VBD 7|CD in|IN the|DT last|JJ decade|NN adjusted|VBN for|IN inflation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN its|PRP$ official|NN </s>|S_END
+<s>|S_START the|DT first|JJ decade|NN of|IN the|DT 21st|CD century|NN will|MD go|VB down|RB in|IN the|DT history|NN books|NNS as|IN a|DT step|NN back|RB for|IN the|DT american|JJ middle|NN class|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START last|JJ week|NN the|DT government|NN made|VBD gloomy|NN headlines|NNS when|WRB it|PRP released|VBD the|DT latest|JJS census|NN report|NN showing|VBG the|DT poverty|NN rate|NN rose|VBD to|TO a|DT 17year|JJ high|NN </s>|S_END
+<s>|S_START a|DT whopping|NN 462|CD million|CD people|NNS or|CC 151|CD of|IN the|DT us|PRP population|NN live|VBP in|IN poverty|NN and|CC 499|CD million|CD live|JJ without|IN health|NN insurance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT data|NNS also|RB gave|VBD the|DT first|JJ glimpse|NN of|IN what|WP happened|VBN to|TO middleclass|NN incomes|NNS in|IN the|DT first|JJ decade|NN of|IN the|DT millennium|NN </s>|S_END
+<s>|S_START while|IN the|DT earnings|NNS of|IN middleincome|NN americans|NNS have|VBP barely|RB budged|VBN since|IN the|DT mid|JJ 1970s|CD the|DT new|JJ data|NNS showed|VBD that|IN from|IN 2000|CD to|TO 2010|CD they|PRP actually|RB regressed|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN american|JJ households|NNS in|IN the|DT middle|NN of|IN the|DT pay|NN scale|NN income|NN fell|VBD to|TO $|$ 49445|CD last|JJ year|NN when|WRB adjusted|VBN for|IN inflation|NN a|DT level|NN not|RB seen|VBN since|IN 1996|CD </s>|S_END
+<s>|S_START and|CC over|IN the|DT 10year|JJ period|NN their|PRP$ income|NN is|VBZ down|IN 7|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economists|NNS talk|VBP about|IN the|DT lost|NN decade|NN in|IN japan|NN </s>|S_END
+<s>|S_START well|RB with|IN these|DT 2010|CD data|NNS we|PRP can|MD confirm|VB the|DT lost|JJS decade|NN for|IN the|DT american|JJ middle|NN class|NN said|VBD jared|VBN bernstein|NN senior|JJ fellow|NN at|IN the|DT center|NN on|IN budget|NN and|CC policy|NN priorities|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sure|RB its|PRP$ fair|JJ to|TO say|VB americans|NNS at|IN all|DT levels|NNS of|IN income|NN from|IN rich|JJ to|TO poor|JJ were|NN hit|VBD hard|JJ in|IN the|DT decade|NN that|IN started|VBN with|IN the|DT dotcom|NN boom|NN and|CC bust|NN and|CC ended|VBD with|IN the|DT great|JJ recession|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC according|VBG to|TO the|DT census|NN data|NNS those|DT losses|NNS disproportionately|RB hit|VBD the|DT lowest|JJS 60|CD of|IN americans|NNS while|IN the|DT richest|JJS 40|CD actually|RB gained|VBD wealth|NN relative|JJ to|TO the|DT entire|JJ us|PRP economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START much|RB of|IN that|DT trend|NN can|MD be|VB explained|VBN by|IN massive|JJ losses|NNS in|IN the|DT housing|NN sector|NN the|DT period|NN of|IN high|JJ unemployment|NN that|WDT ensued|VBN and|CC rising|VBG prices|NNS that|WDT flew|VBD in|IN the|DT face|NN of|IN the|DT american|JJ familys|NNS heightened|VBN financial|JJ struggles|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unlike|IN the|DT richest|JJS americans|NNS middle|VBP class|NN families|NNS have|VBP most|JJS of|IN their|PRP$ wealth|NN tied|VBN up|RP in|IN the|DT equity|NN of|IN their|PRP$ homes|NNS which|WDT took|VBD a|DT beating|NN in|IN the|DT recession|NN </s>|S_END
+<s>|S_START and|CC high|JJ unemployment|NN has|VBZ left|VBN many|JJ people|NNS with|IN little|JJ or|CC no|DT other|JJ income|NN at|IN all|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT same|JJ time|NN that|WDT americans|VBZ had|VBD less|JJR cash|NN to|TO spend|VB they|PRP were|VBD also|RB being|VBG hit|VBN with|IN rising|VBG prices|NNS for|IN some|DT crucial|JJ items|NNS </s>|S_END
+<s>|S_START even|RB accounting|VBG for|IN inflation|NN it|PRP still|RB costs|VBZ more|JJR to|TO buy|VB a|DT home|NN fill|NN your|PRP$ gas|NN tank|NN go|VB to|TO the|DT doctor|NN and|CC put|VBD food|NN on|IN the|DT table|NN than|IN it|PRP did|VBD only|RB 10|CD years|NNS ago|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC not|RB only|RB is|VBZ it|PRP more|JJR expensive|JJ to|TO live|VB a|DT middleclass|NN life|NN it|PRP costs|VBZ more|JJR to|TO get|VB there|RB too|RB </s>|S_END
+<s>|S_START the|DT price|NN of|IN a|DT college|NN education|NN still|RB considered|VBN the|DT ticket|NN to|TO higher|JJR wages|NNS and|CC a|DT better|JJR lifestyle|NN has|VBZ surged|VBN over|IN the|DT last|JJ decade|NN even|RB in|IN spite|NN of|IN the|DT recession|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START facing|VBG these|DT burdens|NNS the|DT american|JJ dream|NN is|VBZ undergoing|VBG stark|NN changes|NNS with|IN fewer|JJR people|NNS choosing|VBG to|TO buy|VB homes|NNS and|CC more|JJR young|JJ people|NNS postponing|VBG their|PRP$ own|JJ independent|NN lives|NNS </s>|S_END
+<s>|S_START the|DT census|NN data|NNS showed|VBD about|IN 142|CD of|IN all|DT young|JJ people|NNS ages|NNS 25|CD to|TO 34|CD are|VBP still|RB living|VBG in|IN their|PRP$ parents|NNS homes|NNS this|DT year|NN compared|VBN to|TO about|IN 118|CD before|IN the|DT recession|NN began|VBD in|IN 2007|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC that|DT poses|NNS a|DT challenge|NN for|IN the|DT economy|NN going|VBG forward|RB </s>|S_END
+<s>|S_START after|IN all|DT what|WP will|MD the|DT middle|NN class|NN and|CC the|DT american|NN dream|NN look|NN like|IN another|DT decade|NN from|IN now|RB if|IN the|DT younger|JJR generations|NNS still|RB cant|JJ get|NN their|PRP$ feet|NN off|IN the|DT ground |JJ </s>|S_END
+</p>|P_END
+

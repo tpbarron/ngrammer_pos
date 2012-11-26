@@ -1,0 +1,49 @@
+<p>|P_START
+<s>|S_START chinas|NNS manufacturing|VBG sector|NN slowed|VBD in|IN may|NN with|IN the|DT governments|NNS index|NN of|IN purchasing|VBG managers|NNS sentiment|NN falling|VBG to|TO the|DT lowest|JJS level|NN in|IN 5|CD months|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN chinas|VBZ closely|RB watched|VBN manufacturing|NN sector|NN took|VBD a|DT hit|NN in|IN may|MD as|IN two|CD reports|NNS issued|VBN friday|NN indicated|VBD the|DT countrys|NNS factories|NNS continue|VBP to|TO struggle|VB amid|IN global|JJ economic|JJ woes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT weak|JJ manufacturing|NN reports|NNS lead|VBP industry|NN analysts|NNS to|TO believe|VB the|DT government|NN will|MD step|VB in|IN to|TO boost|VB infrastructure|NN investment|NN and|CC cut|VBD banking|NN rates|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mays|NNS weaker|VBP growth|NN data|NNS reinforces|NNS the|DT case|NN for|IN more|JJR decisive|JJ easing|NN actions|NNS said|VBD sun|VBN junwei|NN china|NN economist|NN with|IN hsbc|NN </s>|S_END
+<s>|S_START beijing|VBG policy|NN makers|NNS have|VBP proved|VBN their|PRP$ ability|NN to|TO reflate|VB when|WRB necessary|JJ </s>|S_END
+<s>|S_START fears|NNS about|IN a|DT sharp|JJ growth|NN slowdown|NN are|VBP overplayed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT beijing|NN governments|NNS national|JJ bureau|NN of|IN statistics|NNS said|VBD index|NN of|IN purchasing|VBG managers|NNS sentiment|NN dropped|VBD to|TO 504|CD in|IN may|MD </s>|S_END
+<s>|S_START that|DT was|VBD down|RB from|IN 533|CD in|IN april|NN and|CC the|DT indexs|NNS lowest|JJS level|NN since|IN december|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START any|DT reading|NN above|IN 50|CD indicates|NNS expansion|NN in|IN the|DT sector|NN while|IN readings|NNS below|IN 50|CD indicate|NN contraction|NN </s>|S_END
+<s>|S_START the|DT index|NN was|VBD as|RB low|JJ as|IN 49|CD in|IN november|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT separate|JJ report|NN a|DT purchasing|VBG managers|NNS index|NN compiled|VBD for|IN banking|NN company|NN hsbc|NN indicated|VBD further|RB contraction|NN in|IN chinese|JJ manufacturing|NN </s>|S_END
+<s>|S_START the|DT index|NN fell|VBD to|TO 484|CD in|IN may|MD from|IN 493|CD in|IN april|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP was|VBD the|DT seventh|JJ straight|NN month|NN that|WDT the|DT hsbc|NN index|NN has|VBZ indicated|VBN declining|VBG manufacturing|NN activity|NN in|IN china|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START exports|NNS to|TO europe|VB chinas|NNS largest|JJS foreign|JJ market|NN have|VBP taken|VBN a|DT hit|NN in|IN the|DT past|JJ year|NN as|IN the|DT debtridden|NN region|NN teeters|NNS on|IN the|DT brink|NN of|IN recession|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT cost|NN to|TO manufacture|VB chinese|JJ goods|NNS continued|VBD to|TO fall|VB fast|JJ as|IN demand|NN weakened|VBD and|CC commodities|NNS prices|NNS fell|VBD for|IN the|DT first|JJ time|NN since|IN january|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START employment|NN in|IN chinese|JJ manufacturing|NN fell|VBD at|IN the|DT fastest|JJS rate|NN in|IN more|JJR than|IN three|CD years|NNS according|VBG to|TO hsbc |NNP </s>|S_END
+</p>|P_END
+

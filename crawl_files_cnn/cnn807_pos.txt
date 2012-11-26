@@ -1,0 +1,66 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT most|JJS recent|JJ polling|NN confirms|NNS what|WP both|DT barack|NN obama|NN and|CC mitt|NN romney|NN know|VB that|IN the|DT shape|NN of|IN the|DT us|PRP economy|NN remains|VBZ by|IN a|DT wide|JJ margin|NN the|DT single|JJ biggest|JJS issue|NN facing|VBG american|JJ voters |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN talk|NN of|IN debt|NN and|CC deficit|NN reduction|NN that|WDT has|VBZ dominated|VBN congressional|JJ debate|NN for|IN the|DT last|JJ two|CD years|NNS the|DT subcategory|NN of|IN greatest|JJS concern|NN to|TO americans|NNS isnt|VB federal|JJ spending|NN its|PRP$ job|NN creation |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT of|IN those|DT warnings|NNS about|IN how|WRB america|NN could|MD easily|RB become|VB like|IN greece|NN arent|NN resonating |NN what|WP americans|NNS seem|VBP to|TO want|VB is|VBZ a|DT president|NN and|CC congress|NN that|IN will|MD work|VB marginally|RB as|IN hard|JJ on|IN creating|NN jobs|NNS as|IN they|PRP seem|VBP to|TO do|VB fighting|VBG about|IN debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO that|DT end|NN both|DT candidates|NNS have|VBP made|VBN grand|NN and|CC potentially|RB impossible|JJ promises |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP started|VBD with|IN a|DT claim|NN by|IN the|DT romney|NN camp|NN that|WDT a|DT republican|NN administration|NN would|MD result|VB in|IN 12|CD million|CD us|PRP jobs|VBZ created|VBN in|IN 4|CD years|NNS though|IN he|PRP provided|VBD no|DT details|NNS as|IN to|TO how|WRB that|IN would|MD be|VB achieved |-NONE- </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT obama|NN administration|NN made|VBD the|DT quick|NN calculation|NN that|WDT the|DT a|DT lofty|JJ unsubstantiated|VBN promise|NN trumps|NNS the|DT evidence|NN at|IN hand|NN and|CC within|IN days|NNS proclaimed|VBN the|DT romney|NN pledge|NN a|DT low|JJ bar|NN suggesting|VBG that|IN that|DT many|JJ jobs|NNS would|MD be|VB created|VBN no|DT matter|NN who|WP was|VBD in|IN the|DT oval|NN office|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT facts|NNS tell|VBP a|DT different|JJ story |NN the|DT current|JJ rate|NN of|IN job|NN growth|NN in|IN the|DT us|PRP is|VBZ about|IN 2|CD million|CD jobs|NNS a|DT year|NN so|RB both|DT candidates|NNS are|VBP talking|VBG about|IN 50|CD growth|NN in|IN job|NN creation|NN over|IN the|DT next|JJ presidential|NN term |NN putting|VBG aside|NN how|WRB much|JJ influence|NN a|DT us|PRP president|NN can|MD actually|RB have|VB over|IN job|NN creation|NN history|NN provides|VBZ some|DT context|NN about|IN the|DT relationship|NN between|IN job|NN creation|NN and|CC economic|JJ growth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD obama|NN may|MD be|VB a|DT job|NN creator|NN after|IN all|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  the|DT us|PRP has|VBZ created|VBN 12|CD million|CD jobs|NNS in|IN 4|CD years|NNS 3|CD times|NNS before |-NONE- the|DT first|JJ was|VBD during|IN world|NN war|NN two|CD from|IN august|JJ 1939|CD to|TO july|RB 1943 |CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START more|JJR recent|JJ history|NN provides|VBZ us|PRP with|IN two|CD examples|NNS </s>|S_END
+<s>|S_START the|DT first|JJ was|VBD from|IN september|NN 1983|CD to|TO august|VB 1987|CD during|IN ronald|NN reagans|NNS term|NN in|IN office|NN when|WRB economic|JJ growth|NN averaged|VBD 45 |CD the|DT second|JJ time|NN was|VBD between|IN august|JJ 1996|CD and|CC july|RB 2000|CD under|IN bill|NN clinton|NN when|WRB gdp|NN growth|NN averaged|VBD 43|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT us|PRP is|VBZ nowhere|RB near|JJ that|IN now|RB and|CC wont|NN be|VB anytime|RB soon the|JJ most|RBS recent|JJ measure|NN of|IN us|PRP economic|JJ growth|NN from|IN the|DT second|JJ quarter|NN is|VBZ 13|CD and|CC the|DT highest|JJS estimates|NNS for|IN 2013|CD assuming|VBG the|DT european|JJ doesnt|NN deteriorate|NN further|RB is|VBZ around|IN 3|CD much|JJ lower|JJR than|IN the|DT 4|CD or|CC higher|JJR that|IN history|NN suggests|VBZ is|VBZ needed|VBN to|TO meet|VB the|DT claims |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START assuming|VBG the|DT economy|NN grows|VBZ faster|JJR in|IN the|DT subsequent|JJ 3|CD years|NNS of|IN the|DT next|JJ presidential|NN term|NN it|PRP would|MD still|RB need|VBP to|TO grow|VB at|IN a|DT rate|NN not|RB currently|RB projected|VBN for|IN either|DT candidates|NNS claims|VBZ to|TO come|VB true|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP would|MD likely|RB serve|VB the|DT us|PRP voter|JJR better|JJR not|RB to|TO be|VB presented|VBN with|IN a|DT blue|JJ skies|NNS version|NN of|IN the|DT future|NN that|IN is|VBZ unlikely|RB to|TO come|VB to|TO pass|VB </s>|S_END
+<s>|S_START rather|RB a|DT bold|JJ candidate|NN may|MD want|VB to|TO suggest|VB that|IN the|DT us|PRP economic|JJ hole|NN is|VBZ deep|VB and|CC likely|JJ to|TO take|VB considerable|JJ time|NN to|TO be|VB filled|VBN </s>|S_END
+<s>|S_START it|PRP would|MD serve|VB voters|NNS further|RB to|TO hear|VB specifics|NNS about|IN how|WRB a|DT higherthannormal|JJ number|NN of|IN jobs|NNS might|MD be|VB created |-NONE- neither|DT enhanced|VBN consumer|NN confidence|NN nor|CC tax|NN cuts|NNS will|MD likely|RB on|IN their|PRP$ own|JJ add|NN 50|CD to|TO the|DT projected|VBN base|NN of|IN job|NN creation |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economists|NNS on|IN both|DT sides|NNS when|WRB pressed|VBN point|NN to|TO a|DT rebound|NN in|IN us|PRP home|NN sales|NNS and|CC prices|NNS combined|VBD with|IN record|NN low|JJ interest|NN rates|NNS as|IN a|DT potential|JJ driver|NN for|IN employment |NN others|NNS suggest|VBP a|DT massive|JJ infrastructure|NN push|NN but|CC the|DT appetite|NN among|IN us|PRP taxpayers|NNS for|IN greater|JJR government|NN intervention|NN into|IN the|DT economy|NN after|IN the|DT much|JJ maligned|VBN stimulus|NN of|IN 2009|CD is|VBZ small|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  with|JJ less|NN than|IN a|DT month|NN to|TO go|VB until|IN the|DT election|NN there|RB will|MD be|VB an|DT ebbandflow|JJ in|IN the|DT absolute|JJ influence|NN of|IN the|DT economy|NN on|IN voters|NNS but|CC concern|NN over|IN jobs|NNS have|VBP trumped|VBN all|DT other|JJ issues|NNS economic|JJ or|CC not|RB for|IN the|DT last|JJ 4|CD years |JJ americans|NNS are|VBP eager|JJ for|IN a|DT plan|NN that|WDT will|MD see|VB that|IN concern|NN finally|RB fade|VBD into|IN the|DT background|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+</p>|P_END
+

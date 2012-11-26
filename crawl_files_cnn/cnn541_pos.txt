@@ -1,0 +1,105 @@
+<p>|P_START
+<s>|S_START pampee|NN young|VBD a|DT scientist|NN at|IN vanderbilt|NN university|NN is|VBZ working|VBG with|IN molecules|NNS that|IN could|MD help|VB heal|JJ heart|NN disease|NN and|CC cancer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START washington|NN cnnmoney|NN dr|NN pampee|NN youngs|NNS research|NN could|MD lead|VB to|TO a|DT breakthrough|JJ drug|NN that|WDT will|MD heal|VB soldiers|NNS wounds|NNS and|CC repair|NN hearts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC youngs|NNS research|VBP could|MD soon|RB be|VB put|VBN on|IN ice|NN from|IN washington|NN politics|NNS and|CC the|DT socalled|JJ fiscal|JJ cliff|NN </s>|S_END
+<s>|S_START the|DT jobs|NNS of|IN six|CD lab|NN associates|NNS are|VBP also|RB at|IN risk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START though|IN the|DT us|PRP department|NN of|IN defense|NN has|VBZ promised|VBN to|TO fund|VB youngs|NNS research|NN the|DT agency|NN wont|NN release|NN money|NN unless|IN the|DT fiscal|JJ cliff|NN is|VBZ resolved|VBN </s>|S_END
+<s>|S_START congress|NN has|VBZ to|TO act|VB by|IN december|NN to|TO avoid|VB triggering|NN a|DT massive|JJ government|NN spending|NN cuts|NNS and|CC tax|NN hikes|NNS totaling|VBG $|$ 7|CD trillion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START youngs|NNS story|VBP is|VBZ a|DT microcosm|NN of|IN the|DT fears|NNS reverberating|VBG through|IN the|DT nations|NNS laboratories|VBZ where|WRB breakthrough|JJ drugs|NNS are|VBP hatched|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP has|VBZ put|VBN this|DT curtain|NN of|IN dread|NN said|VBD young|JJ an|DT associate|NN professor|NN at|IN vanderbilt|NN university|NN medical|JJ center|NN who|WP studies|NNS stem|VBP cells|NNS role|NN in|IN repairing|NN wounds|NNS and|CC regeneration|NN in|IN heart|NN disease|NN and|CC cancer|NN </s>|S_END
+<s>|S_START the|DT grant|NN would|MD allow|VB her|PRP to|TO test|NN the|DT cell|NN molecules|NNS on|IN mice|NN and|CC pigs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fearing|VBG the|DT massive|JJ cuts|NNS some|DT government|NN agencies|NNS are|VBP holding|VBG back|RB funding|VBG </s>|S_END
+<s>|S_START thats|NNS led|VBD to|TO a|DT near|NN standstill|NN in|IN research|NN grants|NNS according|VBG to|TO scientists|NNS and|CC medical|JJ lobbying|NN groups|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT funding|NN shortage|NN comes|VBZ at|IN a|DT time|NN when|WRB science|NN and|CC medical|JJ research|NN has|VBZ already|RB gone|VBN through|IN tough|JJ times|NNS </s>|S_END
+<s>|S_START the|DT national|JJ institutes|NNS of|IN health|NN the|DT largest|JJS supporter|NN of|IN biomedical|JJ research|NN in|IN the|DT united|VBN states|NNS has|VBZ not|RB kept|VBD pace|NN with|IN inflation|NN in|IN giving|NN out|IN grants|NNS in|IN the|DT last|JJ decade|NN according|VBG to|TO the|DT congressional|JJ research|NN service|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START less|JJR than|IN 18|CD of|IN those|DT who|WP applied|VBN for|IN nih|NN grants|NNS got|VBD funding|VBG in|IN 2011|CD an|DT alltime|NN low|JJ success|NN rate|NN </s>|S_END
+<s>|S_START between|IN 1998|CD and|CC 2003|CD scientists|NNS had|VBD a|DT 30|CD or|CC better|JJR chance|NN of|IN getting|VBG grants|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD candidates|NNS mum|NN on|IN fiscal|JJ cliff|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT deep|NN recession|NN and|CC slow|JJ economic|JJ recovery|NN compounded|VBD with|IN the|DT tight|JJ budget|NN situation|NN has|VBZ made|VBN it|PRP far|RB more|RBR competitive|JJ to|TO get|VB biomedical|JJ grants|NNS scientists|NNS say|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START young|JJ has|VBZ applied|VBN for|IN more|JJR than|IN 10|CD grants|NNS in|IN 18|CD months|NNS for|IN her|PRP research|NN </s>|S_END
+<s>|S_START shes|NNS received|VBD a|DT few|JJ small|JJ grants|NNS from|IN associations|NNS and|CC private|JJ companies|NNS but|CC not|RB enough|RB to|TO keep|VB her|PRP lab|VB going|VBG for|IN long|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN young|JJ doesnt|NN receive|JJ the|DT grant|NN it|PRP will|MD halt|VB her|PRP research|NN </s>|S_END
+<s>|S_START it|PRP could|MD also|RB force|VB her|PRP to|TO cut|VB lab|NN staff|NN currently|RB made|VBD up|RP of|IN three|CD graduate|JJ students|NNS two|CD postdoctoral|JJ fellows|NNS and|CC one|CD technician|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START young|JJ has|VBZ already|RB turned|VBN away|RB 15|CD students|NNS who|WP requested|VBN to|TO intern|VB in|IN her|PRP$ lab|NN this|DT year|NN due|JJ to|TO lack|VB of|IN funding|NN </s>|S_END
+<s>|S_START vanderbilt|NN university|NN administrators|NNS this|DT month|NN told|VBD her|PRP department|NN faculty|NN that|IN if|IN the|DT tough|JJ funding|NN climate|NN continues|VBZ the|DT university|NN will|MD have|VB to|TO cut|VB staff|NN as|IN well|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START young|JJ is|VBZ worried|VBN about|IN the|DT impact|NN all|DT this|DT is|VBZ having|VBG on|IN the|DT next|JJ generation|NN of|IN scientists|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP get|VBP rid|VBN of|IN a|DT generation|NN of|IN scientists|NNS you|PRP dont|VBP make|VBP progress|NN in|IN science|NN because|IN it|PRP takes|VBZ so|RB long|RB to|TO train|VB them|PRP young|JJ said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ unclear|JJ exactly|RB how|WRB the|DT government|NN budget|NN cuts|NNS slated|VBD to|TO take|VB place|NN on|IN jan|NN 2|CD would|MD hit|VB research|NN funding|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD 5|CD things|NNS business|NN can|MD teach|VB washington|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT groups|NNS are|VBP stepping|VBG in|IN to|TO bridge|VB such|JJ funding|NN gaps|NNS </s>|S_END
+<s>|S_START the|DT american|NN society|NN of|IN hematology|NN a|DT professional|JJ group|NN involved|VBN in|IN studying|NN blood|NN disorders|NNS has|VBZ set|VBN up|RP its|PRP$ own|JJ $|$ 9|CD million|CD fund|NN for|IN member|NN scientists|NNS </s>|S_END
+<s>|S_START though|IN vastly|RB smaller|JJR when|WRB compared|VBN to|TO government|NN funds|NNS the|DT group|NN aims|VBZ to|TO help|VB scientists|NNS who|WP have|VBP already|RB applied|VBN for|IN nih|NN funding|NN and|CC received|VBD high|JJ scores|NNS but|CC have|VBP been|VBN denied|VBN because|IN of|IN the|DT nihs|NNS tight|VBD budget|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START young|JJ is|VBZ applying|VBG for|IN funds|NNS from|IN the|DT hematology|NN group|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN now|RB members|NNS of|IN congress|NN are|VBP distracted|VBN with|IN the|DT election|NN </s>|S_END
+<s>|S_START president|NN obama|VBD has|VBZ said|VBN the|DT nation|NN will|MD not|RB go|VB over|IN the|DT fiscal|JJ cliff|NN </s>|S_END
+<s>|S_START but|CC no|DT one|NN knows|VBZ for|IN sure|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START young|JJ realizes|NNS that|WDT a|DT lot|NN of|IN federal|JJ programs|NNS are|VBP at|IN stake|NN but|CC fears|NNS the|DT longer|NN term|NN effects|NNS of|IN cuts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP dont|VBP believe|VBP that|IN washington|NN is|VBZ targeting|VBG science|NN but|CC i|PRP also|RB dont|VBP believe|VBP that|IN people|NNS understand|VBP the|DT larger|JJR ramifications|NNS of|IN cutting|VBG back|RB on|IN science|NN she|PRP said|VBD </s>|S_END
+</p>|P_END
+

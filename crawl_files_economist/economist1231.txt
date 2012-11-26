@@ -1,0 +1,61 @@
+<p>
+<s>geologists have long known that some marine earthquakes generate fierce tsunamis and some do not</s>
+<s>but as the situation in japan makes painfully clear there is no good way for people being tossed around by a tremor to know the difference until a wave arrives</s>
+<s>a new earthquakemonitoring system developed by andrew newman and jaime convers at the georgia institute of technology may however help to change that</s>
+</p>
+
+<p>
+<s>during an earthquake the earths crust is uplifted</s>
+<s>if the epicentre is on the seabed that also lifts the water above the bed creating a wave</s>
+<s>however the size of this wave varies with the nature of the uplift</s>
+</p>
+
+<p>
+<s>for tsunamigenerating purposes earthquakes can generally be divided into two sorts</s>
+<s>deep ones as a rule of thumb those below 20km or 12 miles generate small or nonexistent tsunamis because their uplifting effects are absorbed by the overburden</s>
+<s>shallow ones above 20km whose full crustdisplacing force is felt at the surface are the danger</s>
+<s>the problem is deciding which is which</s>
+<s>once all the data are in an earthquakes depth can be worked out with reasonable accuracy</s>
+<s>but that takes time</s>
+<s>the recent japanese quake for example was thought initially to have happened 83km down</s>
+<s>the latest measurements suggests its depth was actually 30km</s>
+<s>normally that would still put it in the class of safe earthquakes but it was so powerful that the usual rules did not apply</s>
+</p>
+
+<p>
+<s>the secret of the new method is that depth changes an earthquakes character in ways other than just its tsunamigenerating propensity</s>
+<s>the rupture in the rock that causes a deep earthquake propagates rapidly—at about 3km a second</s>
+<s>a shallow rupture moves more slowly 1½km a second is common</s>
+<s>the speed seems related to the rigidity of the rock that is rupturing and deep rock which is under more pressure is more rigid</s>
+<s>shallow rocks bend and that slows the rupture down</s>
+<s>the effect is to give seismologists a tool they can use to make an instant estimate of an earthquakes depth and thus if it is submarine the risk of its creating a big tsunami</s>
+</p>
+
+<p>
+<s>the system dr newman and mr convers have developed taps into hundreds of seismic monitoring stations around the world</s>
+<s>when an earthquake is detected the software immediately looks at the size of the tremor and the location of its epicentre</s>
+<s>if the quakes magnitude is greater than 65 and the epicentre is underwater it then requests information from the relevant stations on how long the earthquake took from beginning to end</s>
+<s>that allows it to work out how quickly energy was released by the earthquake and thus how fast the rupture propagated</s>
+<s>an energyrelease rate indicating a rupture rate of 1½km a second or less sets the alarm bells ringing for the earthquake has probably spawned a tsunami—though the system is also sensitive to the actual earthquake magnitude and adjusts accordingly so it did not miss the tsunamicreating potential of the japanese earthquake either</s>
+</p>
+
+<p>
+<s>the two researchers tried their invention out last year and analysed a great many quakes including one of magnitude 78 that happened on october 25th in western indonesia</s>
+<s>the epicentre was 70km from the mentawai islands and the quake was felt there only weakly</s>
+<s>but it still raised a devastating tsunami see picture above that killed more than 400 islanders</s>
+</p>
+
+<p>
+<s>the system quickly detected this quake and the two researchers reported recently in geophysical research letters that it automatically identified the tsunami threat 8½ minutes after the earthquake began</s>
+<s>it then ran a series of checks and after 16½ minutes was completely certain that conditions were right for a tsunami to form</s>
+<s>since it took 35 minutes for the tsunami to come ashore the system could had it been used to sound the alarm have given people 18½ minutes to flee</s>
+<s>unfortunately it was not then attached to any sort of alarm that could let the mentawai islanders know that they were in danger</s>
+</p>
+
+<p>
+<s>with luck such a lack of warning will not happen again</s>
+<s>by the summer the system should be hooked up to alarms around the world and will be able to determine tsunami risk within seven minutes of a shock being detected</s>
+<s>it will then be up to local authorities to have evacuation plans in place</s>
+<s>but they will no longer be able to say they did not see it coming</s>
+</p>
+

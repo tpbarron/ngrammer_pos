@@ -1,0 +1,37 @@
+<p>|P_START
+<s>|S_START like|IN miners|NNS panning|VBG for|IN gold|NN numbercrunchers|NNS love|VBP the|DT stockmarket|NN </s>|S_END
+<s>|S_START there|EX are|VBP thousands|NNS of|IN different|JJ securities|NNS prices|NNS to|TO analyse|VB decadesworth|JJ of|IN data|NNS to|TO dissect|VB </s>|S_END
+<s>|S_START academics|NNS can|MD make|VB their|PRP$ reputation|NN by|IN discovering|NN an|DT anomaly|RB in|IN prices|NNS such|JJ as|IN smaller|JJR companies|NNS outperforming|VBG the|DT index|NN over|IN the|DT long|JJ term|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC are|VBP these|DT anomalies|NNS a|DT route|NN to|TO riches|NNS or|CC the|DT equivalent|NN of|IN iron|NN pyrite|IN “fool’s|JJ gold”|NN </s>|S_END
+<s>|S_START they|PRP may|MD just|RB be|VB data|NNS quirks—what|-NONE- statisticians|NNS call|VBP “noise”|JJ </s>|S_END
+<s>|S_START another|DT possibility|NN is|VBZ that|IN investors|NNS read|VBP the|DT academic|JJ papers|NNS and|CC then|RB go|VB into|IN the|DT market|NN to|TO take|VB advantage|NN of|IN the|DT anomaly|RB </s>|S_END
+<s>|S_START if|IN so|RB as|IN they|PRP buy|VBP the|DT “cheap”|NNP stocks|NNS and|CC sell|VB the|DT “expensive”|NNP ones|NNS the|DT discrepancy|NN should|MD gradually|RB disappear|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT answer|NN may|MD be|VB found|VBN in|IN yes|NNS another|DT academic|JJ paper|NN </s>|S_END
+<s>|S_START the|DT authors|NNS looked|VBD at|IN 82|CD separate|JJ anomalies|NNS discovered|VBN by|IN academics|NNS and|CC examined|VBD the|DT returns|NNS from|IN the|DT suggested|VBN strategy|NN both|DT before|IN and|CC after|IN publication|NN </s>|S_END
+<s>|S_START they|PRP find|VBP that|IN investors|NNS can|MD still|RB earn|VB excess|JJ returns|NNS after|IN publication|NN but|CC that|IN these|DT returns|NNS fall|VBP by|IN around|IN a|DT third|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT decline|NN is|VBZ probably|RB caused|VBN by|IN investor|NN activity|NN trading|NN volumes|VBZ in|IN shares|NNS related|VBN to|TO the|DT anomalies|NNS tend|VBP to|TO increase|VB after|IN academics|NNS have|VBP revealed|VBN them|PRP </s>|S_END
+<s>|S_START but|CC why|WRB don’t|JJ the|DT anomalies|NNS disappear|VBP altogether|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD reason|NN may|MD be|VB constraints|NNS on|IN investor|NN behaviour|NN </s>|S_END
+<s>|S_START ome|NN strategies|NNS require|VBP investors|NNS to|TO go|VB short|JJ bet|NN on|IN falling|VBG prices|NNS or|CC use|VB borrowed|VBN money|NN pension|NN funds|NNS and|CC mutual|JJ funds|NNS are|VBP unable|JJ to|TO do|VB so|RB </s>|S_END
+<s>|S_START another|DT reason|NN may|MD be|VB that|IN trading|NN costs|NNS reduce|VB the|DT scope|NN for|IN profit|NN </s>|S_END
+<s>|S_START anomalies|NNS disappear|VBP more|JJR quickly|RB if|IN the|DT stocks|NNS involved|VBD are|VBP large|JJ and|CC liquid|NN and|CC thus|RB less|RBR costly|JJ to|TO trade|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB if|IN their|PRP$ discoveries|NNS can|MD not|RB be|VB traded|VBN on|IN finance|NN professors|NNS will|MD keep|VB mining|NN the|DT data|NNS </s>|S_END
+<s>|S_START as|IN well|RB as|IN the|DT academic|JJ kudos|NNS involved|VBN in|IN finding|NN an|DT anomaly|RB their|PRP$ insights|NNS might|MD just|RB land|VB them|PRP a|DT job|NN at|IN a|DT hedge|NN fund|NN </s>|S_END
+<s>|S_START trading|NN a|DT university|NN salary|NN for|IN a|DT share|NN of|IN a|DT fund’s|JJ performance|NN fee|NN is|VBZ a|DT really|RB attractive|JJ example|NN of|IN profitable|JJ arbitrage|NN </s>|S_END
+</p>|P_END
+

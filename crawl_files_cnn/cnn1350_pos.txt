@@ -1,0 +1,68 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN for|IN the|DT first|JJ time|NN in|IN four|CD years|NNS the|DT number|NN of|IN americans|NNS without|IN health|NN insurance|NN decreased|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT us|PRP census|VBZ bureau|NN reported|VBD wednesday|NN that|IN 486|CD million|CD people|NNS were|VBD uninsured|VBN in|IN 2011|CD down|IN from|IN 50|CD million|CD the|DT year|NN before|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT percentage|NN of|IN uninsured|VBN people|NNS also|RB ticked|VBD lower|JJR edging|NN down|IN to|TO 157|CD from|IN 163|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB for|IN the|DT fifth|JJ consecutive|JJ year|NN the|DT percentage|NN of|IN people|NNS covered|VBN by|IN government|NN health|NN insurance|NN increased|VBD up|IN to|TO 322|CD from|IN 312|CD in|IN 2010|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START people|NNS covered|VBN by|IN medicaid|JJ increased|VBN to|TO 165|CD from|IN 158|CD and|CC medicare|JJ coverage|NN edged|VBD higher|JJR to|TO 152|CD from|IN 146|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT same|JJ time|NN more|RBR young|JJ adults|NNS gained|VBD coverage|NN from|IN a|DT provision|NN of|IN the|DT affordable|JJ care|NN act|NN that|IN allows|VBZ parents|NNS to|TO keep|VB their|PRP$ children|NNS on|IN their|PRP$ policies|NNS </s>|S_END
+<s>|S_START that|DT piece|NN of|IN health|NN care|NN reform|NN went|VBD into|IN effect|NN in|IN september|NN 2010|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT percentage|NN of|IN young|JJ adults|NNS ages|NNS 19|CD to|TO 25|CD who|WP were|VBD uninsured|VBN decreased|VBN in|IN 2011|CD to|TO 277|CD from|IN 298|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN adults|NNS between|IN 26|CD and|CC 64|CD years|NNS old|JJ for|IN whom|WP the|DT major|JJ parts|NNS of|IN aca|NN coverage|NN expansion|NN wont|NN go|VB into|IN effect|NN until|IN 2014|CD the|DT uninsured|JJ rate|NN remained|VBD relatively|RB flat|JJ the|DT census|NN bureau|NN found|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD romneyryan|VBN would|MD aim|VB to|TO overhaul|VB medicaid|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN the|DT number|NN of|IN people|NNS relying|VBG on|IN government|NN insurance|NN programs|NNS was|VBD higher|JJR last|JJ year|NN the|DT report|NN shows|VBZ that|IN the|DT percentage|NN of|IN people|NNS covered|VBN by|IN private|JJ health|NN insurance|NN in|IN 2011|CD remained|VBN about|IN the|DT same|JJ at|IN 639|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START considering|VBG that|IN private|JJ coverage|NN remains|VBZ flat|JJ and|CC the|DT number|NN of|IN young|JJ adults|NNS receiving|VBG this|DT coverage|NN is|VBZ increasing|VBG experts|NNS say|VBP that|IN another|DT age|NN demographic|JJ must|MD be|VB taking|VBG a|DT hit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT young|JJ adults|NNS clearly|RB have|VBP been|VBN quite|RB a|DT bit|NN better|NN off|IN because|IN of|IN the|DT aca|NN and|CC by|IN picking|NN up|IN more|JJR public|JJ coverage|NN but|CC if|IN theyre|NN better|JJR off|IN someone|NN else|RB is|VBZ probably|RB worse|JJR off|IN said|VBD john|NN holahan|IN director|NN of|IN the|DT health|NN policy|NN center|NN at|IN the|DT urban|NN institute|NN </s>|S_END
+<s>|S_START and|CC it|PRP seems|VBZ like|IN here|RB its|PRP$ the|DT 55|CD to|TO 64|CD year|NN olds|NNS who|WP are|VBP losing|VBG private|JJ but|CC picking|VBG up|RP public|JJ coverage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT rate|NN of|IN private|JJ health|NN coverage|NN ticked|VBD higher|JJR for|IN all|PDT age|NN groups|NNS between|IN 18|CD and|CC 54|CD but|CC for|IN those|DT in|IN the|DT 55|CD to|TO 64year|JJ old|JJ bracket|NN the|DT rate|NN edged|VBD slightly|RB lower|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD median|JJ income|NN falls|NNS but|CC so|RB does|VBZ poverty|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT also|RB is|VBZ the|DT same|JJ age|NN demographic|JJ who|WP saw|NN the|DT largest|JJS decline|NN in|IN median|JJ household|NN income|NN </s>|S_END
+<s>|S_START while|IN overall|JJ household|NN income|NN among|IN all|DT age|NN groups|NNS declined|VBD 15|CD in|IN 2011|CD 55|CD to|TO 64year|JJ olds|NNS saw|VBD a|DT much|RB more|RBR significant|JJ 4|CD drop|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT decrease|NN for|IN 55|CD to|TO 64year|JJ olds|NNS is|VBZ a|DT lot|NN for|IN one|CD year|NN said|VBD holahan|IN </s>|S_END
+<s>|S_START it|PRP may|MD be|VB that|IN its|PRP$ older|NN workers|NNS who|WP have|VBP lost|VBN their|PRP$ jobs|NNS and|CC private|JJ coverage|NN who|WP then|RB wait|VBD a|DT few|JJ years|NNS until|IN theyre|JJ medicaideligible|JJ at|IN 65|CD </s>|S_END
+</p>|P_END
+

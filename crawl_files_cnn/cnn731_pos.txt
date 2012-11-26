@@ -1,0 +1,42 @@
+<p>|P_START
+<s>|S_START chrysler|NN says|VBZ it|PRP will|MD recall|VB more|RBR than|IN 900000|CD jeep|NN grand|NN cherokee|NN and|CC jeep|VB liberty|NN vehicles|NNS worldwide|VBP because|IN airbags|NNS may|MD deploy|VB unexpectedly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN chrysler|NN announced|VBD friday|NN that|IN it|PRP is|VBZ recalling|VBG more|JJR than|IN 900000|CD jeeps|NNS worldwide|VBP because|IN airbags|NNS may|MD deploy|VB unexpectedly|RB while|IN the|DT vehicles|NNS are|VBP being|VBG operated|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT automaker|NN said|VBD the|DT front|NN and|CC side|NN airbags|NNS as|IN well|RB as|IN pretensioners|NNS which|WDT tighten|VBN seatbelts|NNS in|IN jeep|NN grand|NN cherokee|NN and|CC jeep|VB libertys|NNS from|IN the|DT 2002|CD to|TO 2004|CD model|NN years|NNS may|MD go|VB off|RP at|IN any|DT moment|NN </s>|S_END
+<s>|S_START a|DT total|NN of|IN 744822|CD vehicles|NNS affected|VBN are|VBP in|IN the|DT united|VBN states|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START according|VBG to|TO the|DT national|JJ highway|NN traffic|NN safety|NN administration|NN the|DT airbag|NN deployments|NNS could|MD lead|VB to|TO the|DT increased|VBN risk|NN of|IN injury|NN and|CC chances|NNS of|IN a|DT crash|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD consumer|NN reports|NNS names|VBZ most|JJS reliable|JJ cars|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START chrysler|NN said|VBD there|EX have|VBP been|VBN no|DT accidents|NNS due|JJ to|TO the|DT air|NN bag|NN deployments|NNS but|CC confirmed|VBD nhtsas|NNS findings|NNS of|IN 215|CD cases|NNS of|IN inadvertent|NN air|NN bag|NN deployments|NNS resulting|VBG in|IN 81|CD minor|JJ injuries|NNS involving|VBG both|DT jeep|NN models|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START chrysler|NN spokesman|NN eric|NN mayne|NN said|VBD the|DT automaker|NN will|MD notify|VB affected|VBN customers|NNS directly|RB </s>|S_END
+<s>|S_START they|PRP just|RB have|VBP to|TO take|VB their|PRP$ vehicle|NN in|IN and|CC the|DT repair|NN will|MD take|VB less|JJR than|IN an|DT hour|NN at|IN no|DT cost|NN he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START only|RB certain|JJ cars|NNS made|VBN on|IN a|DT certain|JJ date|NN have|VBP the|DT defect|NN and|CC mayne|NN said|VBD owners|NNS will|MD be|VB notified|VBN most|JJS likely|JJ beginning|NN in|IN january|JJ 2013|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD toyota|NN recalls|NNS 743|CD million|CD cars|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START until|IN then|RB chrysler|JJR advises|NNS owners|NNS to|TO contact|VB a|DT dealer|NN only|RB if|IN a|DT vehicle|NN which|WDT matches|NNS the|DT description|NN gets|VBZ a|DT warning|VBG light|NN flashing|VBG intermittently|RB while|IN driving|VBG </s>|S_END
+</p>|P_END
+

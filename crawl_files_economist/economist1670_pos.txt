@@ -1,0 +1,79 @@
+<p>|P_START
+<s>|S_START in|IN the|DT year|NN 15ad|CD during|IN the|DT shortlived|VBN xin|NN dynasty|NN a|DT rumour|NN spread|NN that|WDT a|DT yellow|JJ dragon|NN a|DT symbol|NN of|IN the|DT emperor|NN had|VBD inauspiciously|RB crashed|VBN into|IN a|DT temple|JJ in|IN the|DT mountains|NNS of|IN central|JJ china|NN and|CC died|VBD </s>|S_END
+<s>|S_START ten|RB thousand|VBP people|NNS rushed|VBD to|TO the|DT site|NN </s>|S_END
+<s>|S_START the|DT emperor|NN wang|NN mang|NN aggrieved|VBD by|IN such|JJ seditious|JJ gossip|NN ordered|VBN arrests|NNS and|CC interrogations|NNS to|TO quash|VB the|DT rumour|NN but|CC never|RB found|VBN the|DT source|NN </s>|S_END
+<s>|S_START he|PRP was|VBD dethroned|VBN and|CC killed|VBD eight|CD years|NNS later|RBR and|CC handynasty|NN rule|NN was|VBD restored|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT next|JJ ruler|NN emperor|NN guangwu|NN took|VBD a|DT different|JJ approach|NN studying|VBG rumours|NNS as|IN a|DT barometer|NN of|IN public|JJ sentiment|NN according|VBG to|TO a|DT recent|JJ book|NN “rumours|NNS in|IN the|DT han|NN dynasty”|NN by|IN lu|NN zongli|NN a|DT historian|JJ </s>|S_END
+<s>|S_START guangwus|NN government|NN compiled|VBD a|DT “rumours|JJ report”|NN cataloguing|VBG peoples|NNS complaints|NNS about|IN local|JJ officials|NNS and|CC making|VBG assessments|NNS that|WDT were|VBD passed|VBN to|TO the|DT emperor|NN </s>|S_END
+<s>|S_START the|DT early|JJ eastern|NN han|NN dynasty|NN became|VBD known|VBN for|IN officials|NNS who|WP were|VBD less|JJR corrupt|JJ and|CC more|RBR attuned|JJ to|TO the|DT people|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START modern|JJ chinas|NNS communist|VBP party|NN rulers|NNS make|VBP use|NN of|IN both|DT these|DT methods|NNS in|IN the|DT era|NN of|IN microblogs|NNS or|CC weibo|VB the|DT various|JJ chinese|NN equivalents|NNS of|IN twitter|NN which|WDT is|VBZ blocked|VBN in|IN china|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ hard|RB to|TO overestimate|VB how|WRB much|RB the|DT arrival|NN of|IN weibo|NN has|VBZ changed|VBN the|DT dynamic|JJ between|IN rulers|NNS and|CC ruled|VBD over|RP the|DT past|JJ two|CD year|NN </s>|S_END
+<s>|S_START more|JJR than|IN 250m|CD chinese|JJ internet|NN users|NNS have|VBP taken|VBN to|TO microblogs|NNS for|IN many|JJ purposes|NNS plenty|NN of|IN them|PRP purely|RB recreational|JJ </s>|S_END
+<s>|S_START but|CC a|DT popular|JJ pastime|NN is|VBZ to|TO spread|VB news|NN and|CC rumours|NNS both|DT true|JJ and|CC false|NN that|IN challenge|NN the|DT official|NN script|NN of|IN government|NN officials|NNS and|CC statepropaganda|NN organ|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT authorities|NNS have|VBP responded|VBN in|IN two|CD main|JJ way|NN </s>|S_END
+<s>|S_START one|CD has|VBZ been|VBN to|TO increase|VB their|PRP$ own|JJ use|NN of|IN weibo|NN as|IN a|DT listening|NN post|NN a|DT strain|NN of|IN governance|NN in|IN the|DT spirit|NN of|IN emperor|NN guangwu|NN the|DT other|JJ more|JJR in|IN the|DT spirit|NN of|IN the|DT dethroned|VBN wang|NN mang|NN has|VBZ been|VBN to|TO combat|VB rumours|NNS harshly|RB and|CC to|TO tighten|VB controls|NNS over|IN the|DT microblogs|NNS and|CC their|PRP$ users|NNS censoring|VBG posts|NNS and|CC closely|RB monitoring|VBG troublemaker|NN </s>|S_END
+<s>|S_START officials|NNS are|VBP attempting|VBG to|TO make|VB these|DT tasks|NNS more|RBR manageable|JJ by|IN requiring|NN that|IN users|NNS of|IN the|DT most|RBS prominent|JJ microblog|NN service|NN sina|NN weibo|NN register|NN using|VBG their|PRP$ real|JJ name|NN and|CC identitycard|NN number|NN by|IN march|NN 16th|CD </s>|S_END
+<s>|S_START the|DT other|JJ leading|VBG microblog|NN called|VBN tencent|NN weibo|NN now|RB also|RB requires|VBZ new|JJ users|NNS to|TO register|VB with|IN their|PRP$ real|JJ name|NN </s>|S_END
+<s>|S_START microbloggers|NNS can|MD continue|VB using|VBG nicknames|NNS as|IN their|PRP$ online|NN identities|NNS as|IN long|RB as|IN the|DT weibo|NN providers|NNS have|VBP their|PRP$ realworld|NN identities|NNS on|IN file|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP is|VBZ unclear|JJ how|WRB much|JJ the|DT realname|NN requirement|NN will|MD affect|VB what|WP microbloggers|NNS say|VBP </s>|S_END
+<s>|S_START indeed|RB it|PRP remains|VBZ unclear|JJ how|WRB strictly|RB it|PRP will|MD be|VB enforced|VBN considering|VBG the|DT booming|VBG market|NN that|IN already|RB exists|VBZ in|IN microblogrelated|VBN trickery|NN </s>|S_END
+<s>|S_START for|IN mere|RB pennies|NNS you|PRP can|MD buy|VB followers|NNS for|IN your|PRP$ weibo|NN account|NN to|TO make|VB you|PRP look|VB more|JJR popular|JJ known|NN as|IN “zombie|JJ followers”|NN because|IN they|PRP mindlessly|RB follow|VBP other|JJ </s>|S_END
+<s>|S_START you|PRP can|MD also|RB purchase|VB retweets|NNS and|CC even|RB comments|NNS on|IN your|PRP$ post|NN </s>|S_END
+<s>|S_START inevitably|RB amid|VBD all|DT this|DT enterprise|NN some|DT companies|NNS say|VBP that|IN for|IN a|DT fee|NN of|IN around|IN $|$ 80|CD they|PRP can|MD provide|VB official|JJ verification|NN for|IN weibo|NN accounts|NNS apparently|RB allowing|VBG customers|NNS to|TO register|VB under|IN fake|NN identities|NNS the|DT microblogs|NNS verify|VBP legitimate|JJ users|NNS for|IN nothing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START no|DT matter|NN how|WRB it|PRP is|VBZ enforced|VBN user|NN verification|NN seems|VBZ unlikely|RB to|TO deter|VB the|DT spread|NN of|IN rumours|NNS and|CC information|NN that|IN has|VBZ so|RB concerned|VBN authoritie|NN </s>|S_END
+<s>|S_START aware|NN that|IN they|PRP can|MD not|RB ignore|VB this|DT new|JJ outlet|NN for|IN public|JJ opinion|NN officials|NNS have|VBP moved|VBN to|TO engage|VB with|IN it|PRP government|NN agencies|NNS party|NN organs|NNS and|CC individual|JJ officials|NNS have|VBP set|VBN up|RP more|JJR than|IN 50000|CD weibo|NN accounts|NNS according|VBG to|TO the|DT chinese|NN academy|NN of|IN governance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT degree|NN of|IN online|NN engagement|NN can|MD be|VB awkward|VBN for|IN authorities|NNS used|VBN to|TO a|DT comfortable|JJ buffer|NN from|IN public|JJ opinion|NN </s>|S_END
+<s>|S_START when|WRB wang|JJ lijun|NN the|DT former|JJ police|NN chief|NN of|IN the|DT region|NN of|IN chongqing|VBG sought|VBN shelter|NN at|IN an|DT american|JJ consulate|NN last|JJ month|NN the|DT story|NN broke|NN fast|NN on|IN microblog|NN </s>|S_END
+<s>|S_START responding|VBG to|TO the|DT online|NN frenzy|NN a|DT chongqing|NN government|NN weibo|NN account|NN claimed|VBD that|IN mr|NN wang|NN was|VBD on|IN medical|JJ leave|NN receiving|VBG “vacationstyle|JJ treatment”|NN a|DT comically|RB implausible|JJ euphemism|NN that|WDT immediately|RB went|VBD viral|JJ </s>|S_END
+<s>|S_START the|DT news|NN on|IN march|NN 15th|CD that|WDT mr|NN wangs|NNS erstwhile|IN patron|NN bo|NN xilai|NN had|VBD been|VBN sacked|VBN as|IN party|NN secretary|NN of|IN chongqing|VBG marked|VBN the|DT first|JJ time|NN a|DT highlevel|NN purge|NN has|VBZ been|VBN commented|VBN on|IN in|IN real|JJ time|NN by|IN microblogger|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START authorities|NNS keep|VBP a|DT close|JJ eye|NN on|IN online|NN troublemakers|NNS but|CC rely|RB on|IN internet|NN companies|NNS to|TO fence|VB and|CC supervise|VB their|PRP$ own|JJ playground|NN </s>|S_END
+<s>|S_START the|DT big|JJ microblogs|NNS employ|NN hundreds|NNS of|IN monitors|NNS to|TO remove|VB content|NN they|PRP know|VBP will|MD be|VB unacceptable|JJ to|TO the|DT authoritie|NN </s>|S_END
+<s>|S_START yet|RB the|DT task|NN of|IN quashing|VBG rumours|NNS is|VBZ a|DT sisyphean|JJ one|CD </s>|S_END
+<s>|S_START rumours|NNS can|MD run|VB especially|RB rampant|JJ in|IN china|NN because|IN even|RB as|IN citizens|NNS now|RB have|VBP more|JJR social|JJ space|NN in|IN which|WDT to|TO live|VB the|DT country|NN lacks|VBZ sufficiently|RB reliable|JJ institutions|NNS such|JJ as|IN an|DT independent|JJ press|NN and|CC judiciary|JJ to|TO play|VB the|DT role|NN of|IN referee|JJ </s>|S_END
+<s>|S_START it|PRP is|VBZ left|VBN to|TO officials|NNS and|CC the|DT state|NN media|NNS to|TO implore|VB netizens|NNS to|TO be|VB responsible|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START who|WP you|PRP gon|VBP na|NNS call|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN this|DT task|NN officialdom|NN has|VBZ some|DT allie|NN </s>|S_END
+<s>|S_START one|CD is|VBZ dianzizheng|JJ the|DT online|NN alias|VBZ of|IN a|DT 43yearold|JJ rumourhunter|NN </s>|S_END
+<s>|S_START an|DT employee|NN of|IN a|DT state|NN media|NNS outlet|VBP by|IN day|NN at|IN night|NN he|PRP tries|VBZ to|TO debunk|VB viral|JJ falsehoods|NNS using|VBG a|DT dell|NN computer|NN in|IN his|PRP$ apartment|NN in|IN shenyang|NN in|IN chinas|NNS northeast|NN </s>|S_END
+<s>|S_START he|PRP spoke|VBD to|TO the|DT economist|NN on|IN the|DT condition|NN that|IN his|PRP$ real|JJ name|NN and|CC his|PRP$ employer|NN were|VBD not|RB identified|VBN </s>|S_END
+<s>|S_START among|IN the|DT rumours|NNS dianzizheng|VBP claims|NNS to|TO have|VB played|VBN a|DT part|NN in|IN refuting|NN are|VBP a|DT story|NN that|WDT organ|NN harvesters|NNS were|VBD targeting|VBG subway|NN stations|NNS for|IN victims|NNS and|CC that|IN 10000|CD people|NNS had|VBD beaten|VBN up|RP policemen|NNS in|IN the|DT southern|NN province|NN of|IN fujian|JJ </s>|S_END
+<s>|S_START he|PRP also|RB tries|VBZ to|TO track|VB down|RP the|DT sources|NNS of|IN rumours|NNS though|IN with|IN little|JJ succe|NN </s>|S_END
+<s>|S_START his|PRP$ enemies|NNS have|VBP at|IN their|PRP$ disposal|NN armies|NNS of|IN zombie|NN followers|NNS and|CC fake|VB retweets|NNS as|IN well|RB as|IN marketing|NN companies|NNS which|WDT help|NN draw|VBD attention|NN to|TO rumours|NNS until|IN they|PRP are|VBP spread|VBN by|IN a|DT respected|VBN user|NN with|IN many|JJ real|JJ followers|NNS such|JJ as|IN a|DT celebrity|NN </s>|S_END
+<s>|S_START dianzizheng|NN says|VBZ realname|NN registration|NN should|MD help|VB him|PRP and|CC his|PRP$ fellow|NN rumourhunters|NNS but|CC accepts|NNS that|WDT it|PRP is|VBZ unlikely|RB to|TO be|VB decisive|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “we|JJ have|VBP a|DT saying|VBG among|IN us|PRP you|PRP only|RB need|VBP to|TO move|VB your|PRP$ lips|NNS to|TO start|VB a|DT rumour|NN but|CC you|PRP need|VBP to|TO run|VB until|IN your|PRP$ legs|NNS are|VBP broken|VBN to|TO refute|VB one”|JJ he|PRP says|VBZ in|IN a|DT tone|NN that|WDT is|VBZ cheerful|JJ and|CC tirele|JJ </s>|S_END
+<s>|S_START he|PRP is|VBZ motivated|VBN he|PRP says|VBZ by|IN the|DT national|JJ interest|NN </s>|S_END
+<s>|S_START “i|NN believe|VBP there|EX is|VBZ a|DT huge|JJ risk|NN to|TO the|DT country|NN if|IN rumours|NNS go|VBP unchecked”|JJ perhaps|NNS so|IN </s>|S_END
+<s>|S_START mr|NN lu|VBD the|DT historian|JJ argues|NNS that|WDT the|DT problem|NN faced|VBD by|IN the|DT emperor|NN wang|NN mang|NN in|IN hunting|NN down|IN rumours|NNS 2000|CD years|NNS ago|RB was|VBD not|RB the|DT rumours|NNS themselves|PRP but|CC the|DT truth|NN that|IN they|PRP reflected|VBD a|DT nervous|JJ public|JJ </s>|S_END
+<s>|S_START in|IN the|DT age|NN of|IN weibo|NN it|PRP may|MD be|VB that|IN the|DT wisps|NNS of|IN truth|NN prove|IN more|JJR problematic|JJ for|IN authorities|NNS than|IN the|DT clouds|NNS of|IN falsehood|NN </s>|S_END
+</p>|P_END
+

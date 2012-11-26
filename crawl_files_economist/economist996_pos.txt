@@ -1,0 +1,53 @@
+<p>|P_START
+<s>|S_START as|IN many|JJ pundits|NNS have|VBP observed|VBN bondage|NN is|VBZ fashionable|JJ in|IN publishing|NN circle|NN </s>|S_END
+<s>|S_START o|NN it|PRP was|VBD no|DT surprise|NN when|WRB on|IN october|NN 29th|CD random|NN house|NN and|CC penguin|NN two|CD big|JJ publishers|NNS announced|VBD that|IN they|PRP would|MD handcuff|VB themselves|PRP to|TO each|DT other|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT book|NN industry|NN has|VBZ felt|VBN more|JJR pain|NN than|IN pleasure|NN in|IN the|DT past|JJ few|JJ years|NNS largely|RB thanks|VBZ to|TO technology|NN </s>|S_END
+<s>|S_START many|JJ physical|JJ retailers|NNS such|JJ as|IN borders|NNS have|VBP shut|VBN down|RP after|IN losing|VBG out|RP to|TO cheap|VB online|NN sellers|NNS particularly|RB amazon|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN only|RB three|CD years|NNS the|DT page|NN has|VBZ turned|VBN for|IN electronic|JJ books|NNS american|MD publishers|NNS generated|VBN $|$ 21|CD billion|CD in|IN revenues|NNS from|IN them|PRP last|JJ year|NN up|IN by|IN more|JJR than|IN 3200|CD from|IN 2008|CD according|VBG to|TO bookstats|NNS which|WDT tracks|NNS the|DT industry|NN </s>|S_END
+<s>|S_START in|IN theory|NN ebooks|NNS offer|VBP better|RBR margins|NNS because|IN they|PRP are|VBP cheaper|JJR to|TO produce|VB </s>|S_END
+<s>|S_START but|CC publishers|NNS fret|VBP that|IN customers|NNS will|MD soon|RB expect|VB to|TO pay|VB less|JJR for|IN all|PDT book|NN </s>|S_END
+<s>|S_START that|DT won’t|JJ be|VB so|RB good|JJ for|IN profit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bertelsmann|NN the|DT german|NN company|NN that|WDT owns|VBZ random|NN house|NN and|CC pearson|NN penguin’s|NNS parent|NN and|CC a|DT partowner|NN of|IN the|DT economist|NN hope|NN a|DT tieup|NN will|MD give|VB them|PRP more|JJR clout|IN </s>|S_END
+<s>|S_START combined|VBN they|PRP will|MD account|VB for|IN around|IN a|DT quarter|NN of|IN englishlanguage|NN book|NN sale|NN </s>|S_END
+<s>|S_START that|DT could|MD help|VB them|PRP negotiate|VB better|JJR deals|NNS with|IN the|DT likes|NNS of|IN amazon|NN which|WDT sells|NNS around|IN 65|CD of|IN american|JJ ebooks|NNS according|VBG to|TO barclays|NNS capital|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT main|JJ benefit|NN of|IN the|DT merger|NN will|MD come|VB from|IN savings|NNS on|IN printing|VBG warehouses|NNS and|CC distribution|NN which|WDT could|MD amount|VB to|TO £100m|VB $|$ 161m|CD analysts|NNS say|VBP </s>|S_END
+<s>|S_START if|IN such|JJ savings|NNS materialise|VBP and|CC they|PRP often|RB don’t|JJ see|NN article|NN that|WDT would|MD free|VB up|RP cash|NN to|TO invest|VB in|IN going|VBG digital|JJ and|CC experimenting|VBG more|JJR with|IN selfpublishing|VBG platforms|NNS a|DT burgeoning|VBG business|NN that|WDT turns|VBZ other|JJ people’s|NNS vanity|NN into|IN cash|NN </s>|S_END
+<s>|S_START they|PRP could|MD also|RB save|VB money|NN by|IN squeezing|NN author|NN </s>|S_END
+<s>|S_START mark|NN oliver|NN of|IN oliver|NN ohlbaum|NN a|DT consultancy|NN expects|VBZ penguin|NN random|NN house|NN to|TO cut|VB the|DT number|NN of|IN midlist|NN authors|NNS just|RB as|RB music|JJ labels|NNS once|RB cut|VBD mediocre|JJ crooner|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START under|IN the|DT terms|NNS of|IN the|DT deal|NN pearson|NN must|MD stick|VB around|IN for|IN at|IN least|JJS three|CD years|NNS but|CC can|MD sell|VB its|PRP$ stake|NN after|IN that|DT to|TO focus|VB on|IN its|PRP$ education|NN busine|NN </s>|S_END
+<s>|S_START rupert|NN murdoch|NN whose|WP$ news|NN corporation|NN owns|VBZ the|DT book|NN publisher|NN harper|NN collins|VBZ was|VBD interested|JJ in|IN buying|NN penguin|NN but|CC he|PRP was|VBD too|RB late|JJ </s>|S_END
+<s>|S_START analysts|NNS have|VBP long|RB predicted|VBN consolidation|NN among|IN the|DT six|CD big|JJ book|NN publishers|NNS including|VBG hachette|NN macmillan|NN and|CC simon|NN schuster|NN this|DT merger|NN may|MD not|RB be|VB the|DT last|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT deal|NN should|MD be|VB concluded|VBN next|JJ year|NN </s>|S_END
+<s>|S_START however|RB there|EX could|MD be|VB twists|NNS in|IN the|DT plot|NN </s>|S_END
+<s>|S_START penguin|NN random|NN house|NN needs|VBZ regulatory|JJ approval|NN </s>|S_END
+<s>|S_START but|CC earlier|JJR this|DT year|NN america’s|VBZ department|NN of|IN justice|NN sued|VBN apple|NN and|CC five|CD publishers|NNS including|VBG penguin|NN alleging|VBG that|IN they|PRP conspired|VBD to|TO raise|VB the|DT price|NN of|IN ebooks|NNS above|IN what|WP amazon|NN charged|VBD </s>|S_END
+<s>|S_START three|CD settled|VBD but|CC apple|NN penguin|NN and|CC macmillan|NN are|VBP fighting|VBG on|IN </s>|S_END
+<s>|S_START a|DT legal|JJ battle|NN could|MD complicate|VB antitrust|JJ approval|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC an|DT even|RB greater|JJR threat|NN than|IN amazon|NN loom|NN </s>|S_END
+<s>|S_START according|VBG to|TO claudio|VB aspesi|NN an|DT analyst|NN at|IN sanford|NN c|NN bernstein|NN a|DT bank|NN the|DT march|NN of|IN penguin|NN and|CC others|NNS into|IN digital|JJ formats|NNS could|MD make|VB them|PRP more|JJR vulnerable|JJ to|TO piracy|NN </s>|S_END
+<s>|S_START ebooks|NNS are|VBP easy|JJ to|TO share|VB by|IN email|NN and|CC speedy|NN to|TO steal|VB it|PRP can|MD take|VB around|RP four|CD seconds|NNS to|TO download|VB a|DT pirated|VBN version|NN of|IN “the|NNP help”|NNP a|DT novel|NN about|IN servants|NNS but|CC over|IN three|CD hours|NNS to|TO download|VB the|DT film|NN </s>|S_END
+<s>|S_START if|IN piracy|NN hits|NNS publishing|VBG like|IN it|PRP hit|VBD music|JJ profits|NNS could|MD evaporate|VB he|PRP say|VB </s>|S_END
+<s>|S_START here’s|NNS hoping|VBG for|IN a|DT happier|JJR ending|VBG </s>|S_END
+</p>|P_END
+

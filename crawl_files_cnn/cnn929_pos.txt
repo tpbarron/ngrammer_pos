@@ -1,0 +1,29 @@
+<p>|P_START
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS big|JJ tech|NN stocks|NNS have|VBP enjoyed|VBN healthy|JJ gains|NNS in|IN 2012|CD </s>|S_END
+<s>|S_START apple|NN aapl|NN microsoft|NN msft|NN intel|NN intc|NN and|CC oracle|NN orcl|NN are|VBP all|DT sporting|VBG doubledigit|NN percentage|NN gains|NNS </s>|S_END
+<s>|S_START but|CC not|RB cisco|VBP systems|NNS csco |-NONE- the|DT networking|NN companys|VBZ stock|NN is|VBZ down|IN yeartodate|JJ </s>|S_END
+<s>|S_START but|CC is|VBZ that|IN about|IN to|TO change|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shares|NNS of|IN cisco|NN were|VBD up|RB about|IN 2|CD thursday|NN morning|NN thanks|NNS to|TO some|DT positive|JJ analyst|NN chatter|NN heading|VBG into|IN next|JJ weeks|NNS earnings|NNS report|NN </s>|S_END
+<s>|S_START there|EX are|VBP growing|VBG hopes|NNS that|IN corporate|JJ demand|NN for|IN cisco|NN may|MD finally|RB be|VB on|IN the|DT upswing|NN and|CC that|IN the|DT companys|NNS continued|VBD costcutting|VBG ie|NN </s>|S_END
+<s>|S_START layoffs|NNS efforts|NNS will|MD bear|VB fruit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP may|MD bee|VB too|RB soon|RB to|TO declare|VB a|DT turnaround|NN for|IN cisco|NN </s>|S_END
+<s>|S_START and|CC to|TO be|VB fair|JJ ciscos|NNS problems|NNS are|VBP shared|VBN by|IN other|JJ networking|VBG equipment|NN companies|NNS </s>|S_END
+<s>|S_START while|IN upstart|NN palo|NN alto|NN networks|NNS panw|VBP had|VBN a|DT hot|JJ debut|NN when|WRB it|PRP went|VBD public|JJ last|JJ month|NN shares|NNS of|IN many|JJ other|JJ large|JJ competitors|NNS to|TO cisco|VB such|JJ as|IN juniper|NN networks|NNS jnpr|VBP f5|NNP newtorks|NNS ffiv|VBP and|CC frances|NNS alcatellucent|NN alu|NN are|VBP all|DT in|IN the|DT red|NN in|IN 2012|CD as|IN well|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cisco|NN isnt|VBD growing|VBG as|IN rapidly|RB as|IN it|PRP used|VBD to|TO </s>|S_END
+<s>|S_START but|CC it|PRP still|RB does|VBZ have|VB a|DT lot|NN going|VBG for|IN it|PRP though|IN </s>|S_END
+<s>|S_START and|CC with|IN shares|NNS trading|NN at|IN less|JJR than|IN 10|CD times|NNS fiscal|JJ 2013|CD earnings|NNS estimates|NNS it|PRP may|MD be|VB a|DT bargain|NN </s>|S_END
+<s>|S_START for|IN more|JJR about|IN cisco|CD its|PRP$ massive|JJ amount|NN of|IN cash|NN or|CC caysh|JJ as|IN ceo|NN john|NN chambers|NNS would|MD say|VB and|CC its|PRP$ dividend|NN watch|NN todays|NNS buzz|VBP video|NN below|IN </s>|S_END
+</p>|P_END
+

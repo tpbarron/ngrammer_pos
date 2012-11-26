@@ -1,0 +1,44 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN there|EX is|VBZ a|DT oneinthree|JJ chance|NN greece|NN will|MD leave|VB the|DT euro|NN currency|NN union|NN in|IN the|DT months|NNS ahead|RB according|VBG to|TO standard|JJ poors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ratings|NNS agency|NN issued|VBD a|DT report|NN monday|NN that|IN examines|NNS the|DT likelihood|NN of|IN greece|NN leaving|VBG the|DT eurozone|NN and|CC how|WRB an|DT exit|NN would|MD impact|VB the|DT creditworthiness|NN of|IN other|JJ euro|NN area|NN governments|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sp|NN warned|VBD that|IN greece|NN could|MD lose|VB its|PRP$ financial|JJ lifeline|NN if|IN voters|NNS elect|VBP a|DT government|NN that|WDT opposes|VBZ the|DT terms|NNS of|IN greeces|NNS bailout|IN program|NN </s>|S_END
+<s>|S_START greece|NN is|VBZ set|VBN to|TO hold|VB an|DT election|NN june|NN 17|CD after|IN last|JJ months|NNS voting|VBG failed|VBN to|TO result|VB in|IN a|DT governing|NN coalition|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB sp|VBP said|VBD that|IN if|IN greece|NN abandoned|VBN the|DT euro|NN other|JJ euro|NN area|NN nations|NNS would|MD be|VB unlikely|RB to|TO follow|VB suit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sp|NN argues|NNS that|WDT the|DT hardships|NNS greece|VBP would|MD suffer|VB by|IN reverting|NN to|TO its|PRP$ own|JJ currency|NN would|MD dissuade|VB other|JJ nations|NNS from|IN following|VBG suit|NN </s>|S_END
+<s>|S_START in|IN addition|NN european|NN leaders|NNS would|MD be|VB eager|JJ to|TO demonstrate|VB that|IN greece|NN is|VBZ a|DT special|JJ case|NN and|CC would|MD act|VB quickly|RB to|TO support|VB other|JJ struggling|VBG governments|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sp|NN said|VBD leaving|VBG the|DT euro|NN and|CC bringing|VBG back|RP the|DT drachma|NN would|MD seriously|RB damage|VB the|DT greek|NN economy|NN and|CC that|IN it|PRP would|MD take|VB years|NNS for|IN greece|NN to|TO realize|VB any|DT benefits|NNS from|IN devaluing|VBG its|PRP$ currency|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN our|PRP$ opinion|NN adopting|VBG a|DT national|JJ currency|NN is|VBZ likely|JJ to|TO be|VB very|RB costly|RB for|IN the|DT greek|NN population|NN the|DT report|NN states|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sp|NN warned|VBD that|IN the|DT european|JJ central|JJ bank|NN and|CC central|JJ banks|NNS in|IN the|DT eurozone|NN have|VBP total|JJ exposure|NN to|TO greece|VB of|IN about|IN €200|CD billion|CD </s>|S_END
+<s>|S_START but|CC the|DT agency|NN said|VBD a|DT default|NN by|IN greece|NN would|MD not|RB undermine|VB the|DT central|JJ banks|NNS credibility|NN or|CC the|DT reserve|NN currency|NN status|NN of|IN the|DT euro|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB the|DT imf|NN will|MD probably|RB be|VB able|JJ to|TO avoid|VB losses|NNS on|IN its|PRP$ €20|-NONE- billion|NN loan|NN by|IN enforcing|NN its|PRP$ preferred|VBN creditor|NN status|NN if|IN greece|NN defaults|NNS according|VBG to|TO the|DT report|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT european|JJ bailout|NN fund|NN will|MD likely|RB face|VB significant|JJ losses|NNS said|VBD sp|NN </s>|S_END
+<s>|S_START the|DT european|JJ financial|JJ stability|NN has|VBZ longdated|VBN exposure|NN of|IN €108|-NONE- billion|CD to|TO greece |NNP </s>|S_END
+</p>|P_END
+

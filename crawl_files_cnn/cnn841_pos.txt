@@ -1,0 +1,83 @@
+<p>|P_START
+<s>|S_START money|NN magazine|NN to|TO hang|VB on|IN to|TO more|JJR of|IN your|PRP$ money|NN give|VB up|IN less|JJR to|TO the|DT government|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ part|NN of|IN a|DT special|JJ report|NN on|IN 101|CD ways|NNS to|TO build|VB wealth|NN </s>|S_END
+<s>|S_START in|IN this|DT story|NN readers|NNS and|CC experts|NNS weigh|VBP in|IN with|IN advice|NN on|IN ways|NNS to|TO significantly|RB boost|VB your|PRP$ tax|NN savings|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START make|VB more|JJR with|IN munis|NNS </s>|S_END
+<s>|S_START triplearated|VBD munis|NNS pay|VBP a|DT lot|NN more|RBR than|IN treasuries|NNS on|IN an|DT aftertax|NN basis|NN 27|CD vs|NNS 18|CD in|IN the|DT 28|CD bracket|NN </s>|S_END
+<s>|S_START plus|RB theyre|VBP safer|NN than|IN you|PRP may|MD think|VB the|DT default|NN rate|NN for|IN investmentgrade|NN 10year|JJ municipal|JJ bonds|NNS last|JJ year|NN was|VBD 00002|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START just|RB be|VB choosy|JJ about|IN where|WRB your|PRP$ munis|NNS come|VBP from|IN say|NN san|NN diego|NN planners|NNS steve|VBP wolff|NN and|CC cliff|NN wiese|NN stick|NN with|IN triplearated|JJ generalobligation|NN city|NN or|CC state|NN munis|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START favor|NN etfs|NNS over|IN mutual|JJ funds|NNS </s>|S_END
+<s>|S_START etfs|NNS are|VBP more|RBR taxefficient|JJ than|IN mutual|JJ funds|NNS in|IN taxable|JJ accounts|NNS </s>|S_END
+<s>|S_START the|DT reason|NN when|WRB you|PRP sell|VBP shares|NNS in|IN a|DT regular|JJ fund|NN the|DT manager|NN may|MD have|VB to|TO dump|VB stocks|NNS to|TO raise|VB cash|NN potentially|RB creating|VBG a|DT taxable|JJ gain|NN for|IN remaining|VBG investors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN etfs|NNS you|PRP buy|VB shares|NNS directly|RB from|IN others|NNS </s>|S_END
+<s>|S_START the|DT upshot|NN is|VBZ fewer|JJR taxable|JJ payouts|NNS over|IN the|DT past|JJ five|CD years|NNS the|DT average|JJ etf|NN had|VBD capital|NN gains|NNS distributions|NNS equal|JJ to|TO 003|CD of|IN assets|NNS vs|NNS 116|CD for|IN the|DT average|NN fund|NN says|VBZ morningstar|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START stash|NN taxfree|VBP cash|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT 54|CD of|IN employees|NNS take|VBP advantage|NN of|IN flexible|JJ spending|NN accounts|NNS according|VBG to|TO the|DT american|NN payroll|NN association|NN </s>|S_END
+<s>|S_START join|NN that|IN majority|NN by|IN opening|VBG a|DT medical|JJ transportation|NN or|CC dependentcare|NN account|NN </s>|S_END
+<s>|S_START youll|NN cut|VBD your|PRP$ taxable|JJ income|NN by|IN the|DT total|JJ you|PRP put|VBD away|RB </s>|S_END
+<s>|S_START then|RB save|VBP the|DT reimbursement|NN checks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START keep|VB your|PRP$ gains|NNS from|IN uncle|NN sam|NN </s>|S_END
+<s>|S_START the|DT payouts|NNS from|IN bonds|NNS and|CC reits|NNS are|VBP taxed|VBN at|IN ordinary|JJ income|NN rates|NNS rather|RB than|IN more|JJR favorable|JJ capital|NN gains|NNS rates|NNS </s>|S_END
+<s>|S_START so|IN shield|VBN those|DT income|NN producers|NNS in|IN a|DT 401k|CD or|CC ira|NN where|WRB earnings|NNS compound|VBP freely|RB until|IN you|PRP make|VBP withdrawals|NNS with|IN roths|NNS withdrawals|NNS are|VBP taxfree|JJ too|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT same|JJ goes|NNS for|IN funds|NNS that|WDT throw|NN off|RP lots|NNS of|IN shortterm|NN gains|NNS </s>|S_END
+<s>|S_START sample|NN savings|NNS $|$ 1400|CD on|IN $|$ 5000|CD in|IN bond|NN interest|NN in|IN the|DT 28|CD tax|NN bracket|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START choose|NN taxefficient|VBD funds|NNS </s>|S_END
+<s>|S_START no|DT matter|NN what|WP happens|NNS to|TO tax|NN rates|NNS in|IN 2013|CD you|PRP want|VBP to|TO minimize|VB the|DT bite|JJ on|IN funds|NNS in|IN taxable|JJ accounts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP to|TO look|VB for|IN belowaverage|NN turnover|NN fewer|NN trades|NNS means|VBZ fewer|JJR gains|NNS </s>|S_END
+<s>|S_START morningstars|NNS fiveyear|VBP taxcost|RB ratio|RB measures|VBZ how|WRB much|JJ the|DT taxes|NNS youll|VBP owe|NN on|IN distributions|NNS would|MD chip|VB away|RB at|IN a|DT funds|NNS return|NN 050|CD or|CC less|JJR is|VBZ best|JJS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START five|CD funds|NNS that|WDT fit|NN the|DT bill|NN fam|NN value|NN famvx|NN primecap|NN odyssey|NN aggressive|JJ growth|NN poagx|NN t|NN rowe|NN price|NN growth|NN income|NN prgix|NN vanguard|NN total|NN stock|NN market|NN vtsmx|NN and|CC wasatch|NN small|JJ cap|NN growth|NN waaex|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START readers|NNS weigh|VBP in|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bank|NN your|PRP$ refund|NN </s>|S_END
+<s>|S_START i|PRP purposely|RB have|VBP more|JJR deducted|VBN for|IN income|NN taxes|NNS than|IN i|PRP know|VBP i|PRP will|MD owe|VB </s>|S_END
+<s>|S_START this|DT guarantees|NNS that|IN i|PRP will|MD get|VB a|DT refund|NN </s>|S_END
+<s>|S_START an|DT extra|JJ $|$ 10|CD a|DT week|NN would|MD be|VB spent|VBN </s>|S_END
+<s>|S_START an|DT extra|JJ $|$ 500|CD refund|NN at|IN once|RB can|MD be|VB added|VBN to|TO savings|NNS </s>|S_END
+<s>|S_START joseph|NN kannar|NN fort|NN lauderdale|NN fla|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START more|JJR 101|CD ways|NNS to|TO build|VB wealth |JJ </s>|S_END
+</p>|P_END
+

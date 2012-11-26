@@ -1,0 +1,38 @@
+<p>|P_START
+<s>|S_START it|PRP would|MD be|VB much|RB easier|JJR to|TO locate|VB and|CC repair|NN damage|NN to|TO bridges|NNS wind|IN turbines|NNS and|CC other|JJ dumb|NN objects|NNS if|IN those|DT objects|NNS could|MD tell|VB you|PRP what|WP the|DT problem|NN wa|NN </s>|S_END
+<s>|S_START researchers|NNS at|IN the|DT university|NN of|IN strathclyde|NN in|IN britain|NN led|VBN by|IN mohamed|VBN saafi|NN are|VBP therefore|RB trying|VBG to|TO give|VB them|PRP a|DT voice|NN by|IN devising|NN a|DT new|JJ sort|NN of|IN smart|NN paint|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP is|VBZ composed|VBN of|IN what|WP sounds|NNS like|IN a|DT bizarre|NN mixture|NN flyash|NN a|DT finegrained|JJ waste|NN product|NN from|IN coalfired|VBN power|NN stations|NNS carbon|VBP nanotubes|NNS cylindrical|JJ molecules|NNS made|VBN of|IN elemental|JJ carbon|NN and|CC two|CD binding|VBG agents|NNS sodium|NN silicate|NN and|CC sodium|NN hydroxide|NN </s>|S_END
+<s>|S_START the|DT result|NN is|VBZ a|DT material|NN similar|JJ to|TO cement|NN which|WDT makes|VBZ a|DT suitably|RB tough|JJ paint|NN </s>|S_END
+<s>|S_START when|WRB it|PRP dries|VBZ the|DT flyash|NN acts|VBZ as|IN a|DT coating|NN able|JJ to|TO withstand|VB the|DT elements|NNS in|IN exposed|VBN place|NN </s>|S_END
+<s>|S_START the|DT carbon|NN nanotubes|VBZ are|VBP there|RB to|TO conduct|VB electricity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT smart|NN bit|NN is|VBZ that|IN the|DT tubes|NNS conductivity|NN is|VBZ affected|VBN by|IN cracks|NNS in|IN or|CC corrosion|NN of|IN the|DT painted|VBN surface|NN </s>|S_END
+<s>|S_START when|WRB put|VBN under|IN stress|NN for|IN example|NN the|DT nanotubes|NNS bend|VBP and|CC become|VB less|RBR conductive|JJ </s>|S_END
+<s>|S_START if|IN inundated|VBN by|IN chloride|NN ions|NNS as|IN a|DT result|NN of|IN corrosion|NN by|IN salt|NN water|NN their|PRP$ conductivity|NN increase|NN </s>|S_END
+<s>|S_START this|DT makes|VBZ it|PRP possible|JJ to|TO monitor|NN damage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT voltage|NN running|VBG through|IN any|DT part|NN of|IN the|DT painted|VBN area|NN can|MD be|VB measured|VBN remotely|RB with|IN an|DT array|NN of|IN electrodes|NNS distributed|VBN across|IN its|PRP$ surface|NN and|CC data|NNS for|IN the|DT entire|JJ structure|NN dispatched|VBD via|IN a|DT central|JJ transmitter|NN to|TO a|DT computer|NN </s>|S_END
+<s>|S_START using|VBG a|DT medicalimaging|NN technique|NN called|VBN electricalimpedance|NN tomography|NN dr|NN safi|NN and|CC his|PRP$ colleague|NN david|VBD mcgahon|NN are|VBP devising|VBG software|NN that|IN can|MD draw|VB a|DT conductivity|NN map|NN of|IN an|DT entire|JJ painted|VBN structure|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nanotechnology|NN has|VBZ been|VBN used|VBN in|IN paints|NNS before|IN </s>|S_END
+<s>|S_START ometimes|NNS the|DT goal|NN is|VBZ to|TO bind|VB the|DT paint|NN tightly|RB to|TO the|DT material|NN it|PRP has|VBZ been|VBN applied|VBN to|TO </s>|S_END
+<s>|S_START ometimes|NNS it|PRP is|VBZ to|TO channel|VB water|NN molecules|NNS efficiently|RB thus|RB keeping|VBG a|DT surface|NN clean|NN </s>|S_END
+<s>|S_START ome|NN paints|NNS incorporate|VBP tiny|JJ silver|NN particles|NNS which|WDT capture|NN atmospheric|JJ pollutant|NN </s>|S_END
+<s>|S_START but|CC dr|PRP$ saafis|NNS smart|NN paint|NN is|VBZ new|JJ in|IN several|JJ way|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP is|VBZ cheap|VB so|RB it|PRP is|VBZ possible|JJ to|TO imagine|NN whole|NN structures|NNS being|VBG built|VBN out|RP of|IN it|PRP instead|RB of|IN cement|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ also|RB versatile|RB theoretically|RB able|JJ to|TO detect|VB a|DT broad|JJ range|NN of|IN stresses|NNS and|CC pollutant|JJ </s>|S_END
+<s>|S_START if|IN it|PRP performs|VBZ well|RB there|RB are|VBP currently|RB 3500|CD wind|NN turbines—and|NN counting—in|NN britain|NN alone|NN that|WDT could|MD do|VB with|IN a|DT lick|NN of|IN it|PRP </s>|S_END
+</p>|P_END
+

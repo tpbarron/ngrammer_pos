@@ -1,0 +1,232 @@
+<p>|P_START
+<s>|S_START the|DT hamptons|NNS a|DT string|VBG of|IN small|JJ towns|NNS on|IN the|DT south|NN shore|NN of|IN long|JJ island|NN have|VBP long|RB been|VBN a|DT playground|NN for|IN america’s|NNS affluent|NN </s>|S_END
+<s>|S_START nowadays|NNS the|DT merely|RB rich|JJ are|VBP being|VBG crimped|VBN by|IN the|DT ultrawealthy|JJ </s>|S_END
+<s>|S_START in|IN august|NN it|PRP can|MD cost|VB $|$ 400000|CD to|TO rent|NN a|DT fancy|NN house|NN there|EX </s>|S_END
+<s>|S_START the|DT din|NN of|IN helicopters|NNS and|CC private|JJ jets|NNS is|VBZ omnipresent|JJ </s>|S_END
+<s>|S_START the|DT “quiet|JJ skies|NNS coalition”|-NONE- formed|VBN by|IN a|DT group|NN of|IN angry|NN residents|NNS protests|NNS against|IN the|DT noise|NN particularly|RB of|IN one|CD billionaire’s|JJ militarysize|NN chinook|NN </s>|S_END
+<s>|S_START “you|PRP can’t|VBP even|RB play|VB tennis”|JJ moans|NNS an|DT oldtimer|NN who|WP stays|VBZ near|IN the|DT east|JJ hampton|NN airport|NN </s>|S_END
+<s>|S_START “it’s|NNS like|IN the|DT third|JJ world|NN war|NN with|IN giv|NN and|CC gv|NN jets”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thirty|NN years|NNS ago|IN loudoun|JJ county|NN just|RB outside|IN washington|NN dc|NN in|IN northern|JJ virginia|NN was|VBD a|DT rural|JJ backwater|NN with|IN a|DT rich|JJ history|NN </s>|S_END
+<s>|S_START during|IN the|DT war|NN of|IN 1812|CD federal|JJ documents|NNS were|VBD kept|VBN safe|NN there|RB from|IN the|DT english|NNS </s>|S_END
+<s>|S_START today|NN it|PRP is|VBZ the|DT wealthiest|JJS county|NN in|IN america|NN </s>|S_END
+<s>|S_START rolling|VBG pastures|NNS have|VBP given|VBN way|NN to|TO technology|NN firms|NNS swathes|NNS of|IN companies|NNS that|WDT thrive|JJ on|IN government|NN contracts|NNS and|CC pristine|NN neighbourhoods|NNS with|IN large|JJ house|NN </s>|S_END
+<s>|S_START the|DT average|JJ household|NN income|NN at|IN over|IN $|$ 130000|CD is|VBZ twice|NN the|DT national|JJ level|NN </s>|S_END
+<s>|S_START the|DT county|NN also|RB marks|VBZ the|DT western|NN tip|NN of|IN the|DT biggest|JJS cluster|NN of|IN affluence|NN in|IN the|DT country|NN </s>|S_END
+<s>|S_START between|IN loudoun|VBN county|NN and|CC northwest|JJS washington|NN dc|NN there|EX are|VBP over|IN 800000|CD people|NNS in|IN exclusive|JJ postcodes|NNS that|WDT are|VBP home|RB to|TO the|DT besteducated|VBN and|CC wealthiest|JJS 5|CD of|IN the|DT population|NN dubbed|VBD “superzips”|JJ by|IN charles|NNS murray|VBP a|DT libertarian|JJ social|JJ scientist|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT hamptons|NNS and|CC washington’s|JJ chic|JJ suburbs|NNS offer|VBP two|CD snapshots|NNS of|IN the|DT most|RBS striking|JJ characteristic|JJ of|IN american|JJ inequality|NN the|DT surge|NN in|IN wealth|NN at|IN the|DT top|JJ </s>|S_END
+<s>|S_START washington’s|NNS superzips|NNS are|VBP full|JJ of|IN the|DT rich|JJ people|NNS in|IN the|DT top|JJ 5|CD of|IN the|DT income|NN distribution|NN which|WDT means|VBZ an|DT annual|JJ income|NN of|IN at|IN least|JJS $|$ 150000|CD and|CC the|DT top|JJ 1|CD those|DT earning|VBG more|JJR than|IN $|$ 340000|CD a|DT year|NN </s>|S_END
+<s>|S_START the|DT helicopter|NN passengers|NNS in|IN the|DT hamptons|NNS epitomise|VBP america’s|JJ ultrawealthy|NN the|DT 01|CD of|IN the|DT population|NN whose|WP$ annual|JJ household|NN income|NN is|VBZ at|IN least|JJS $|$ 15m|CD and|CC the|DT top|JJ 001|CD with|IN an|DT annual|JJ income|NN of|IN $|$ 8m|CD or|CC more|JJR </s>|S_END
+<s>|S_START over|IN the|DT past|JJ 30|CD years|NNS incomes|VBZ have|VBP soared|VBN both|DT among|IN the|DT wealthy|JJ and|CC the|DT ultrawealthy|JJ </s>|S_END
+<s>|S_START the|DT higher|JJR up|RP the|DT income|NN ladder|NN the|DT bigger|JJR the|DT rise|NN has|VBZ been|VBN </s>|S_END
+<s>|S_START the|DT result|NN has|VBZ been|VBN a|DT huge|JJ and|CC widening|VBG gap—financially|RB socially|RB and|CC geographically—between|JJ america’s|NNS elite|VBP and|CC the|DT rest|NN of|IN the|DT country|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB this|DT happened|VBN is|VBZ a|DT story|NN in|IN three|CD act|NN </s>|S_END
+<s>|S_START during|IN the|DT 1980s|CD the|DT leasteducated|JJ americans|NNS fell|VBD behind|IN those|DT in|IN the|DT middle|NN </s>|S_END
+<s>|S_START as|IN the|DT computer|NN revolution|NN increased|VBD the|DT demand|NN for|IN skilled|JJ workers|NNS and|CC old|JJ manufacturing|NN industries|NNS crumbled|VBD those|DT with|IN just|RB a|DT highschool|NN degree|NN or|CC less|JJR saw|NN their|PRP$ relative|JJ earnings|NNS sink|VBP </s>|S_END
+<s>|S_START over|IN the|DT past|JJ decade|NN the|DT squeeze|NN moved|VBD to|TO the|DT middle|NN of|IN the|DT income|NN distribution|NN to|TO those|DT who|WP attended|VBN college|VBP but|CC did|VBD not|RB earn|VB a|DT degree|NN </s>|S_END
+<s>|S_START incomes|NNS at|IN the|DT top|JJ meanwhile|NN rose|VBD smartly|RB during|IN the|DT whole|JJ period|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT result|NN was|VBD a|DT dramatic|JJ divergence|NN in|IN fortune|NN </s>|S_END
+<s>|S_START between|IN 1979|CD and|CC 2007|CD just|RB before|IN the|DT financial|JJ crisis|NN the|DT real|JJ disposable|JJ income|NN after|IN taxes|NNS and|CC transfers|NNS of|IN the|DT top|JJ 1|CD of|IN americans|NNS more|RBR than|IN quadrupled|VBN a|DT cumulative|JJ rise|NN of|IN over|IN 300|CD </s>|S_END
+<s>|S_START over|IN the|DT same|JJ period|NN the|DT bottom|NN fifth’s|VBZ income|NN rose|VBD by|IN only|RB 40|CD </s>|S_END
+<s>|S_START the|DT middle|NN class|NN shrank|VBD both|DT as|IN a|DT share|NN of|IN the|DT population|NN and|CC geographically|RB </s>|S_END
+<s>|S_START only|RB 40|CD of|IN american|JJ neighbourhoods|NNS now|RB have|VBP an|DT average|JJ income|NN within|IN 20|CD of|IN the|DT national|JJ median|NN compared|VBN with|IN 60|CD in|IN the|DT 1970|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT recession|NN temporarily|RB upended|VBN this|DT trend|NN </s>|S_END
+<s>|S_START america’s|NNS wealthiest|VBP fared|VBN poorly|RB in|IN 2008|CD and|CC 2009|CD largely|RB because|IN the|DT tanking|VBG stockmarket|NN ravaged|VBD their|PRP$ bonuses|NNS and|CC share|NN option|NN </s>|S_END
+<s>|S_START the|DT government|NN safety|NN net|NN prevented|VBD a|DT collapse|NN at|IN the|DT bottom|NN </s>|S_END
+<s>|S_START but|CC the|DT sluggish|JJ recovery|NN has|VBZ brought|VBN back|RB the|DT old|JJ pattern|NN </s>|S_END
+<s>|S_START more|JJR than|IN 90|CD of|IN all|DT income|NN gains|NNS since|IN the|DT recession|NN ended|VBD have|VB gone|VBN to|TO the|DT top|JJ 1|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP lies|NNS behind|VBP these|DT widening|VBG gap|NN </s>|S_END
+<s>|S_START a|DT big|JJ reason|NN particularly|RB in|IN the|DT bottom|NN half|NN is|VBZ education|NN or|CC rather|RB the|DT lack|NN of|IN it|PRP </s>|S_END
+<s>|S_START just|RB as|IN the|DT informationtechnology|NN revolution|NN demanded|VBD more|JJR skilled|VBN workers|NNS the|DT continuous|JJ improvement|NN in|IN americans’|NNP education|NN stalled|VBD </s>|S_END
+<s>|S_START highschool|NN graduation|NN rates|NNS stopped|VBD climbing|VBG in|IN the|DT 1970s|CD for|IN the|DT first|JJ time|NN since|IN 1890|CD </s>|S_END
+<s>|S_START college|NN completion|NN rates|NNS also|RB slowed|VBD </s>|S_END
+<s>|S_START many|JJ americans|NNS were|VBD failing|VBG to|TO match|VB the|DT new|JJ technologies|NNS with|IN better|JJR skill|NN </s>|S_END
+<s>|S_START according|VBG to|TO harvard’s|NNP ms|NNS goldin|VBP and|CC mr|NN katz|NN this|DT explains|VBZ 60|CD of|IN america’s|JJ widening|NN wage|NN inequality|NN between|IN 1973|CD and|CC 2005|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START college|NN andor|NN bust|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT the|DT soaring|NN cost|NN of|IN a|DT college|NN education|NN and|CC the|DT shortcomings|NNS of|IN america’s|NNS schools|NNS system|VBP played|VBN a|DT part|NN </s>|S_END
+<s>|S_START in|IN the|DT 1970s|CD a|DT year’s|JJ tuition|NN at|IN a|DT public|JJ university|NN cost|NN 4|CD of|IN a|DT typical|JJ household’s|JJ annual|JJ income|NN at|IN a|DT private|JJ university|NN it|PRP took|VBD about|IN 20|CD </s>|S_END
+<s>|S_START by|IN 2009|CD tuition|NN fees|NNS had|VBD jumped|VBN to|TO over|IN 10|CD of|IN median|JJ income|NN for|IN a|DT public|JJ university|NN and|CC around|IN 45|CD for|IN a|DT private|JJ one|CD </s>|S_END
+<s>|S_START even|RB with|IN the|DT surge|NN in|IN subsidised|VBN student|NN loans|NNS many|JJ potential|JJ graduates|NNS were|VBD priced|VBN out|RP or|CC dropped|VBD out|RP early|JJ without|IN a|DT degree|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN primary|JJ and|CC secondary|JJ schools|NNS the|DT problems|NNS are|VBP partly|RB financial|JJ but|CC mainly|RB organisational|JJ </s>|S_END
+<s>|S_START america|NN spends|NNS a|DT lot|NN on|IN its|PRP$ schools|NNS but|CC that|IN funding|NN comes|VBZ largely|RB from|IN state|NN and|CC local|JJ government|NN </s>|S_END
+<s>|S_START richer|PRP$ neighbourhoods|NNS can|MD afford|VB better|JJR schools|NNS which|WDT reinforces|NNS the|DT growing|VBG geographical|JJ gap|NN between|IN different|JJ social|JJ group|NN </s>|S_END
+<s>|S_START according|VBG to|TO the|DT oecd|NN america|NN is|VBZ one|CD of|IN only|RB three|CD advanced|VBN countries|NNS which|WDT spends|NNS less|RBR on|IN the|DT education|NN of|IN poorer|NN children|NNS than|IN richer|JJR one|CD </s>|S_END
+<s>|S_START and|CC unlike|IN most|JJS oecd|JJ countries|NNS america|VBP does|VBZ not|RB put|VB better|JJR teachers|NNS in|IN poorly|RB performing|VBG schools|NNS where|WRB teachers’|JJ unions|NNS often|RB obstruct|VBP reform|NN effort|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START not|RB everything|NN can|MD be|VB pinned|VBN on|IN schooling|NN </s>|S_END
+<s>|S_START american|NN women|NNS like|IN women|NNS almost|RB everywhere|RB are|VBP better|RBR educated|VBN and|CC earn|VB more|RBR than|IN they|PRP did|VBD 30|CD years|NNS ago|RB </s>|S_END
+<s>|S_START it|PRP is|VBZ less|JJR skilled|VBN men|NNS who|WP have|VBP fallen|VBN behind|IN </s>|S_END
+<s>|S_START almost|RB uniquely|RB among|IN rich|JJ countries|NNS american|JJ men|NNS now|RB aged|VBD between|IN 25|CD and|CC 34|CD are|VBP less|RBR likely|JJ than|IN their|PRP$ fathers|NNS to|TO have|VB a|DT college|NN degree|NN </s>|S_END
+<s>|S_START the|DT damage|NN from|IN this|DT has|VBZ been|VBN compounded|VBN by|IN institutional|JJ changes|NNS such|JJ as|IN the|DT weakening|NN of|IN unions|NNS and|CC particularly|RB the|DT erosion|NN of|IN the|DT minimum|JJ wage|NN </s>|S_END
+<s>|S_START but|CC the|DT main|JJ culprit|NN is|VBZ educational|JJ slippage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT poor|NN performance|NN has|VBZ a|DT racial|JJ tinge|NN </s>|S_END
+<s>|S_START highschool|NN dropouts|NNS are|VBP disproportionately|RB black|JJ or|CC hispanic|JJ </s>|S_END
+<s>|S_START america’s|NNS habit|VBP of|IN locking|VBG up|RP large|JJ numbers|NNS of|IN young|JJ black|NN men|NNS does|VBZ not|RB help|VB their|PRP$ employability|NN </s>|S_END
+<s>|S_START but|CC the|DT decline|NN increasingly|RB affects|VBZ the|DT white|JJ working|NN class|NN too|RB </s>|S_END
+<s>|S_START ever|RB more|JJR lowskilled|VBN white|JJ american|NN men|NNS have|VBP left|VBN the|DT labour|NN force|NN many|JJ moving|VBG onto|IN disability|NN roll|NN </s>|S_END
+<s>|S_START even|RB before|IN the|DT recession|NN only|RB around|IN twothirds|NNS of|IN white|JJ men|NNS with|IN nothing|NN more|JJR than|IN a|DT highschool|NN diploma|NN were|VBD working|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT decline|NN of|IN work|NN among|IN less|JJR skilled|JJ white|JJ men|NNS has|VBZ had|VBN profound|VBN social|JJ consequences|NNS which|WDT in|IN turn|NN have|VBP exacerbated|VBN income|NN inequality|NN </s>|S_END
+<s>|S_START marriage|NN rates|NNS have|VBP fallen|VBN divorce|NN has|VBZ increased|VBN and|CC the|DT share|NN of|IN children|NNS born|VBP to|TO single|JJ mothers|NNS has|VBZ soared|VBN </s>|S_END
+<s>|S_START mr|NN murray|VBP calculates|NNS that|IN fewer|JJR than|IN 30|CD of|IN children|NNS in|IN the|DT poorest|NN third|JJ of|IN white|JJ america|NN live|JJ with|IN both|DT parents|NNS by|IN the|DT time|NN their|PRP$ mother|NN turns|NNS 40|CD </s>|S_END
+<s>|S_START among|IN the|DT most|RBS affluent|JJ fifth|NN around|IN 90|CD of|IN children|NNS live|VBP in|IN a|DT household|NN with|IN both|DT parent|NN </s>|S_END
+<s>|S_START marriage|NN has|VBZ become|VBN a|DT faultline|NN dividing|VBG american|JJ classe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tax|NN and|CC benefit|NN changes|NNS have|VBP also|RB had|VBD an|DT effect|NN but|CC a|DT subtle|NN one|CD </s>|S_END
+<s>|S_START most|JJS americans|NNS below|IN the|DT median|JJ income|NN level|NN pay|NN no|DT federal|JJ income|NN tax|NN and|CC thanks|NNS to|TO the|DT earned|JJ income|NN tax|NN credit|NN the|DT working|VBG poor|NN get|NN substantial|JJ rebate|NN </s>|S_END
+<s>|S_START poorer|NN americans|NNS are|VBP hit|VBN disproportionately|RB by|IN payroll|NN taxes|NNS which|WDT are|VBP regressive|JJ and|CC have|VBP grown|VBN in|IN importance|NN </s>|S_END
+<s>|S_START but|CC the|DT biggest|JJS hit|NN is|VBZ on|IN the|DT benefit|NN side|NN </s>|S_END
+<s>|S_START although|IN america’s|JJ social|JJ spending|NN has|VBZ rocketed|VBN it|PRP is|VBZ now|RB worth|JJ some|DT 16|CD of|IN gdp|NN it|PRP is|VBZ becoming|VBG less|JJR redistributive|JJ as|IN medicare|JJ the|DT universal|NN health|NN plan|NN for|IN the|DT elderly|JJ swallows|NNS up|IN ever|RB more|JJR see|VB article|JJ </s>|S_END
+<s>|S_START according|VBG to|TO the|DT congressional|JJ budget|NN office|NN in|IN 1979|CD over|IN half|DT of|IN all|DT federal|JJ social|JJ spending|NN went|VBD to|TO the|DT poorest|JJS fifth|JJ of|IN household|NN </s>|S_END
+<s>|S_START now|RB it|PRP is|VBZ only|RB 36|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START part|NN of|IN the|DT trend|NN at|IN the|DT top|JJ of|IN america’s|JJ income|NN ladder|NN is|VBZ simply|RB the|DT mirror|NN image|NN of|IN that|DT at|IN the|DT bottom|NN </s>|S_END
+<s>|S_START the|DT rising|VBG skill|NN premium|NN has|VBZ rewarded|VBN those|DT with|IN lots|NNS of|IN education|NN and|CC social|JJ shifts|NNS have|VBP reinforced|VBN the|DT income|NN concentration|NN </s>|S_END
+<s>|S_START not|RB only|RB are|VBP the|DT welloff|NN and|CC welleducated|VBD far|RB more|RBR likely|JJ to|TO marry|VB and|CC stay|VB married|VBN than|IN poorer|NN folk|NN they|PRP tend|VBP to|TO marry|VB each|DT other|JJ </s>|S_END
+<s>|S_START in|IN 1960|CD american|JJ couples|NNS with|IN two|CD collegeeducated|VBN partners|NNS accounted|VBN for|IN only|RB 3|CD of|IN the|DT total|JJ </s>|S_END
+<s>|S_START today|NN that|IN figure|NN is|VBZ 25|CD and|CC in|IN the|DT top|JJ 5|CD of|IN the|DT income|NN distribution|NN it|PRP is|VBZ 75|CD </s>|S_END
+<s>|S_START apart|NN from|IN the|DT cleaning|NN lady|NN it|PRP is|VBZ hard|RB to|TO find|VB an|DT adult|NN without|IN a|DT degree|NN or|CC two|CD or|CC three|CD in|IN superzip|NN household|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC if|IN educational|JJ differentials|NNS and|CC assortative|JJ mating|NN lie|NN behind|IN much|JJ of|IN the|DT gap|NN between|IN those|DT in|IN loudoun|NN county|NN and|CC poorer|NN americans|NNS they|PRP do|VBP not|RB explain|VB the|DT hamptons|NNS phenomenon|VBP </s>|S_END
+<s>|S_START america’s|NNS top|VBP 01|CD are|VBP no|RB better|RBR educated|VBN than|IN the|DT top|JJ 1|CD </s>|S_END
+<s>|S_START income|NN gaps|RB at|IN this|DT level|NN have|VBP less|JJR to|TO do|VB with|IN the|DT skillsbias|NNS of|IN the|DT modern|JJ economy|NN and|CC more|JJR to|TO do|VB with|IN its|PRP$ global|JJ reach|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT classic|JJ paper|NN published|VBD in|IN 1981|CD the|DT late|JJ sherwin|NN rosen|NN of|IN the|DT university|NN of|IN chicago|NN pointed|VBN out|RP that|IN the|DT very|JJ best|JJS in|IN a|DT field|NN be|VB they|PRP entertainers|NNS or|CC textbook|VB authors|NNS earned|VBN vastly|RB more|RBR than|IN the|DT next|JJ best|JJS </s>|S_END
+<s>|S_START modern|JJ communications|NNS he|PRP mused|VBD would|MD transform|VB the|DT market|NN for|IN superstar|NN </s>|S_END
+<s>|S_START and|CC so|RB they|PRP have|VBP as|IN chrystia|NNS freeland|VBP a|DT journalist|NN points|NNS out|IN in|IN her|PRP$ new|JJ book|NN “plutocrats”|NN </s>|S_END
+<s>|S_START moreover|RB in|IN the|DT past|JJ three|CD decades|NNS the|DT potential|NN market|NN has|VBZ become|VBN dramatically|RB bigger|JJR whether|IN for|IN hollywood|NN blockbusters|NNS or|CC celebrity|NN dentist|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START celebrities|NNS do|VBP not|RB account|VB for|IN a|DT large|JJ share|NN of|IN america’s|NNS ultrarich|WDT </s>|S_END
+<s>|S_START but|CC the|DT same|JJ factors—winnertakesall|JJ economics|NNS coupled|VBN with|IN an|DT incomparably|RB bigger|JJR global|JJ economy—explain|JJ part|NN of|IN the|DT rise|NN in|IN the|DT incomes|NNS of|IN the|DT chief|NN executives|NNS who|WP make|VBP up|RP a|DT bigger|JJR share|NN of|IN the|DT very|JJ wealthy|JJ </s>|S_END
+<s>|S_START during|IN the|DT 1980s|CD ceo|NN pay|NN surged|VBD more|JJR in|IN america|NN than|IN anywhere|RB else|RB </s>|S_END
+<s>|S_START until|IN the|DT early|JJ 1980s|CD american|JJ chief|NN executives|NNS on|IN average|JJ earned|JJ 40|CD more|RBR than|IN their|PRP$ next|JJ two|CD lieutenant|JJ </s>|S_END
+<s>|S_START by|IN 2000|CD they|PRP earned|VBD twoandahalf|PRP times|VBZ as|RB much|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT rise|NN is|VBZ widely|RB put|VBN down|RP to|TO failures|NNS of|IN corporate|JJ governance|NN and|CC a|DT collapse|NN in|IN social|JJ norms|NNS which|WDT once|RB set|VBD an|DT informal|JJ limit|NN on|IN the|DT earnings|NNS gap|VBP between|IN bosses|NNS and|CC worker|NN </s>|S_END
+<s>|S_START there|EX is|VBZ truth|NN to|TO both|DT explanations|NNS and|CC it|PRP is|VBZ not|RB hard|RB to|TO find|VB chief|NN executives|NNS earning|VBG tens|NNS of|IN millions|NNS of|IN dollars|NNS despite|IN lacklustre|NN performance|NN </s>|S_END
+<s>|S_START but|CC these|DT effects|NNS should|MD not|RB be|VB exaggerated|VBN </s>|S_END
+<s>|S_START in|IN a|DT recent|JJ paper|NN steven|NN kaplan|NN of|IN the|DT university|NN of|IN chicago|NN finds|NNS that|WDT ceo|NN pay|NN has|VBZ fallen|VBN in|IN recent|JJ years|NNS and|CC that|IN contrary|JJ to|TO myth|NN ceos|NNS who|WP perform|NN badly|RB get|VB paid|VBN less|JJR and|CC are|VBP fired|VBN more|RBR often|RB than|IN successful|JJ one|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ also|RB a|DT less|JJR bothersome|NN explanation|NN for|IN ceo|NN pay|NN that|WDT is|VBZ based|VBN on|IN superstar|NN economic|JJ </s>|S_END
+<s>|S_START america|NN is|VBZ home|NN to|TO a|DT lot|NN of|IN the|DT world’s|JJ biggest|NN companies|NNS and|CC globalisation|NN has|VBZ made|VBN many|JJ of|IN them|PRP a|DT lot|NN bigger|NN </s>|S_END
+<s>|S_START in|IN a|DT global|JJ market|NN for|IN the|DT best|JJS ceo|NN talent|NN where|WRB winnertakesall|JJ economics|NNS prevails|NNS the|DT gap|NN between|IN the|DT top|JJ and|CC the|DT rest|NN is|VBZ bound|VBN to|TO be|VB vast|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN all|DT the|DT attention|NN focused|VBD on|IN ceo|NN pay|NN the|DT numbers|NNS of|IN chief|JJ executives|NNS among|IN america’s|NNS ultrarich|WDT are|VBP neither|DT particularly|RB big|JJ or|CC growing|VBG </s>|S_END
+<s>|S_START the|DT very|JJ richest|NN americans—those|JJ who|WP feature|NN in|IN the|DT forbes|NNS list|VBP of|IN billionaires—tend|JJ to|TO be|VB entrepreneurs|NNS from|IN the|DT icons|NNS of|IN the|DT tech|NN era|NN bill|NN gates|VBZ mark|NN zuckerberg|NN to|TO many|JJ whose|WP$ money|NN has|VBZ more|JJR prosaic|JJ roots|NNS sara|VBP blakely|RB america’s|JJ youngest|NN female|NN billionaire|NN made|VBD her|PRP fortune|NN from|IN women’s|NNP underwear|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT disproportionate|JJ and|CC growing|VBG chunk|NN of|IN the|DT very|JJ rich|NN however|RB have|VBP made|VBN their|PRP$ money|NN in|IN wall|NN street|NN rather|RB than|IN main|JJ street|NN </s>|S_END
+<s>|S_START an|DT analysis|NN by|IN mr|NN kaplan|NN and|CC joshua|NN rauh|NN now|RB of|IN stanford|NN university|NN shows|VBZ that|IN the|DT share|NN of|IN investment|NN bankers|NNS among|IN the|DT top|JJ 01|CD is|VBZ larger|JJR than|IN the|DT share|NN of|IN senior|JJ executive|NN </s>|S_END
+<s>|S_START america’s|NNS top|VBP 25|CD hedgefund|NN managers|NNS make|VBP more|JJR than|IN all|DT the|DT ceos|NNS of|IN the|DT sp|NN 500|CD combined|VBN </s>|S_END
+<s>|S_START the|DT financial|JJ industry’s|NNS outsize|VBP pay|NN partly|RB reflects|VBZ its|PRP$ growth|NN </s>|S_END
+<s>|S_START for|IN good|NN or|CC ill|RB finance’s|JJ share|NN of|IN american|JJ gdp|NN soared|VBD between|IN 1980|CD and|CC 2007|CD </s>|S_END
+<s>|S_START capital|NN markets|NNS have|VBP globalised|VBN faster|JJR and|CC more|JJR comprehensively|RB than|IN any|DT other|JJ part|NN of|IN the|DT economy|NN enabling|VBG hedge|NN funds|NNS and|CC other|JJ asset|NN managers|NNS to|TO deploy|VB ever|RB bigger|JJR pools|NNS of|IN fund|NN </s>|S_END
+<s>|S_START according|VBG to|TO thomas|NNS philippon|IN of|IN new|JJ york|NN university|NN and|CC ariell|NN reshef|NN of|IN the|DT university|NN of|IN virginia|NN financiers|NNS also|RB have|VBP higher|JJR skill|NN levels|NNS than|IN they|PRP did|VBD a|DT generation|NN ago|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT fundamental|JJ economic|JJ shifts|NNS explain|VBP part|NN of|IN the|DT rise|NN in|IN wall|JJ street|NN incomes|NNS but|CC not|RB all|DT of|IN it|PRP </s>|S_END
+<s>|S_START messrs|NNS philippon|VBP and|CC reshef|NN argue|NN that|IN between|IN a|DT third|JJ and|CC half|NN of|IN wall|JJ street’s|NNS higher|JJR pay|NN is|VBZ unjustified|VBN deriving|VBG from|IN rents|NNS rather|RB than|IN productivity|NN </s>|S_END
+<s>|S_START but|CC what|WP explains|NNS these|DT rent|NN </s>|S_END
+<s>|S_START luigi|NN zingales|NNS of|IN the|DT university|NN of|IN chicago|NN points|NNS out|IN that|DT one|CD source|NN is|VBZ the|DT implicit|JJ subsidy|NN through|IN lower|JJR borrowing|VBG costs|NNS that|WDT banks|NNS enjoy|VBP by|IN being|VBG too|RB big|JJ to|TO fail|VB </s>|S_END
+<s>|S_START he|PRP reckons|VBZ this|DT subsidy|NN is|VBZ worth|JJ some|DT $|$ 30|CD billion|CD a|DT year|NN enough|RB to|TO fund|VB a|DT fair|NN few|JJ bonuse|NN </s>|S_END
+<s>|S_START others|NNS point|VBP to|TO a|DT broader|JJR cronyism|NN between|IN wall|NN street|NN and|CC washington|NN over|IN the|DT past|JJ 30|CD years|NNS which|WDT has|VBZ allowed|VBN financiers|NNS to|TO tilt|VB rules|NNS in|IN their|PRP$ favour|NN </s>|S_END
+<s>|S_START the|DT finance|NN industry|NN along|IN with|IN property|NN and|CC insurance|NN employs|NNS more|RBR lobbyists|NNS than|IN virtually|RB any|DT other|JJ industry|NN around|IN four|CD per|IN congressman|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START financiers|NNS have|VBP also|RB been|VBN among|IN the|DT biggest|JJS winners|NNS from|IN changes|NNS to|TO america’s|NNS tax|NN code|NN </s>|S_END
+<s>|S_START the|DT country’s|JJ top|JJ rate|NN of|IN income|NN tax|NN has|VBZ been|VBN repeatedly|RB slashed|VBN since|IN 1980|CD from|IN 70|CD to|TO 35|CD </s>|S_END
+<s>|S_START by|IN itself|PRP that|IN reduction|NN has|VBZ not|RB greatly|RB affected|VBN average|JJ tax|NN burdens|NNS at|IN the|DT top|JJ since|IN there|EX have|VBP been|VBN enough|JJ loopholes|NNS to|TO ensure|VB that|IN few|JJ people|NNS paid|VBN the|DT top|JJ rate|NN </s>|S_END
+<s>|S_START america’s|NNS richest|VBP have|VBP gained|VBN more|RBR from|IN reductions|NNS in|IN the|DT capitalgains|NNS tax|NN which|WDT is|VBZ now|RB only|RB 15|CD </s>|S_END
+<s>|S_START privateequity|NN moguls|NNS have|VBP done|VBN particularly|RB well|RB since|IN the|DT tax|NN code|NN allows|VBZ them|PRP to|TO classify|VB their|PRP$ income|NN as|IN capital|NN gain|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cratching|VBG each|DT other’s|JJ back|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT combination|NN of|IN tax|NN loopholes|NNS bank|NN bailouts|NNS and|CC massive|JJ lobbying|NN has|VBZ led|VBN many|JJ observers|NNS to|TO conclude|VB that|IN america’s|JJ growing|VBG inequality|NN has|VBZ political|JJ root|NN </s>|S_END
+<s>|S_START the|DT wealthy|JJ in|IN this|DT logic|NN control|NN the|DT political|JJ system|NN and|CC rig|NN it|PRP to|TO their|PRP$ advantage|NN </s>|S_END
+<s>|S_START in|IN an|DT influential|JJ book|NN “unequal|JJ democracy|NN the|DT political|JJ economy|NN of|IN the|DT new|JJ gilded|JJ age”|NN larry|NN bartels|NNS of|IN vanderbilt|NN university|NN showed|VBD that|IN senators’|-NONE- votes|VBZ are|VBP influenced|VBN by|IN the|DT preferences|NNS of|IN their|PRP$ rich|JJ citizens|NNS but|CC not|RB their|PRP$ poor|JJ one|CD </s>|S_END
+<s>|S_START as|IN money|NN plays|NNS an|DT ever|NN bigger|NN role|NN in|IN politics|NNS goes|VBZ the|DT argument|NN so|RB the|DT clout|NN of|IN the|DT ultrawealthy|JJ grows|NNS particularly|RB to|TO block|VB things|NNS they|PRP don’t|VBP like|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT claim|NN is|VBZ hard|JJ to|TO prove|VB but|CC circumstantial|JJ evidence|NN for|IN it|PRP seems|VBZ to|TO be|VB mounting|VBG particularly|RB since|IN the|DT supreme|NN court’s|VBZ 2010|CD “citizens|NNS united”|-NONE- decision|NN lifted|VBD any|DT restrictions|NNS on|IN political|JJ spending|NN by|IN individuals|NNS or|CC firm|NN </s>|S_END
+<s>|S_START that|DT opened|VBD the|DT way|NN for|IN the|DT rise|NN of|IN “superpacs”|JJ privately|RB funded|VBN organisations|NNS set|VBN up|RP to|TO influence|NN election|NN outcome|NN </s>|S_END
+<s>|S_START these|DT have|VBP now|RB raised|VBN hundreds|NNS of|IN millions|NNS of|IN dollar|NN </s>|S_END
+<s>|S_START the|DT sources|NNS of|IN this|DT money|NN are|VBP highly|RB concentrated|VBN one|CD analysis|NN suggests|VBZ that|IN 80|CD of|IN the|DT total|JJ comes|NNS from|IN fewer|JJR than|IN 200|CD donor|NN </s>|S_END
+<s>|S_START america|NN is|VBZ still|RB a|DT long|JJ way|NN from|IN the|DT first|JJ gilded|VBD age|NN when|WRB the|DT robber|NN barons|NNS openly|RB bought|VBD unelected|VBN senators’|-NONE- loyalty|NN by|IN giving|NN them|PRP shares|NNS in|IN their|PRP$ companie|NN </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ hard|RB to|TO believe|VB that|IN this|DT surge|NN of|IN cash|NN from|IN the|DT richest|JJS will|MD have|VB no|DT impact|NN at|IN all|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whatever|NN its|PRP$ causes|NNS the|DT stratification|NN of|IN american|JJ society|NN is|VBZ having|VBG profound|NN consequence|NN </s>|S_END
+<s>|S_START a|DT country|NN that|WDT prides|VBZ itself|PRP on|IN its|PRP$ social|JJ mobility|NN is|VBZ already|RB less|JJR mobile|JJ than|IN most|JJS people|NNS think|VBP and|CC is|VBZ almost|RB certainly|RB becoming|VBG even|RB less|JJR so|IN </s>|S_END
+<s>|S_START as|IN the|DT box|NN with|IN the|DT previous|JJ article|NN showed|VBD standard|JJ measures|NNS of|IN intergenerational|JJ mobility|NN in|IN america|NN are|VBP lower|JJR than|IN in|IN canada|NN and|CC much|RB of|IN europe|NN </s>|S_END
+<s>|S_START most|JJS of|IN this|DT has|VBZ to|TO do|VB with|IN the|DT difficulty|NN of|IN escaping|VBG from|IN the|DT bottom|NN rungs|NNS of|IN america’s|NNS income|NN ladder|NN </s>|S_END
+<s>|S_START according|VBG to|TO markus|VB jantti|NN a|DT finnish|JJ economist|NN who|WP has|VBZ studied|VBN mobility|NN across|IN countries|NNS more|RBR than|IN 40|CD of|IN the|DT sons|NNS of|IN the|DT poorest|JJS 20|CD of|IN americans|NNS stay|VBP in|IN that|DT quintile|NN compared|VBN with|IN around|IN 25|CD in|IN nordic|JJ countrie|NN </s>|S_END
+<s>|S_START the|DT evidence|NN is|VBZ mixed|VBN on|IN whether|IN social|JJ mobility|NN has|VBZ lessened|VBN or|CC simply|RB stayed|VBN the|DT same|JJ over|IN the|DT past|JJ 30|CD year|NN </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ clear|JJ that|IN there|EX has|VBZ been|VBN no|DT improvement|NN in|IN mobility|NN to|TO compensate|VB for|IN widening|NN inequality|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC even|RB the|DT most|RBS recent|JJ studies|NNS of|IN social|JJ mobility|NN look|NN at|IN the|DT earnings|NNS of|IN people|NNS who|WP were|VBD children|VBN over|IN two|CD decades|NNS ago|RB </s>|S_END
+<s>|S_START ince|NN disparities|NNS in|IN income|NN education|NN and|CC social|JJ behaviour|NN now|RB strongly|RB reinforce|VB each|DT other|JJ future|JJ mobility|NN might|MD be|VB a|DT lot|NN lower|JJR still|RB </s>|S_END
+<s>|S_START a|DT study|NN by|IN sean|JJ reardon|NN of|IN stanford|NN university|NN suggests|VBZ that|IN the|DT gap|NN in|IN standardised|VBN test|NN scores|NNS between|IN schoolchildren|NN from|IN high|JJ and|CC lowincome|NN families|NNS is|VBZ roughly|RB 3040|CD bigger|JJR today|NN than|IN it|PRP was|VBD 25|CD years|NNS ago|IN </s>|S_END
+<s>|S_START bob|NN putnam|NN of|IN harvard|NN university|NN puts|NNS it|PRP starkly|RB </s>|S_END
+<s>|S_START put|VB away|RB the|DT rearview|NN mirror|NN and|CC look|VB at|IN future|JJ social|JJ mobility|NN he|PRP says|VBZ and|CC “we’re|JJ about|IN to|TO go|VB over|IN a|DT cliff”|NN </s>|S_END
+</p>|P_END
+

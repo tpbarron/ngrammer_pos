@@ -1,0 +1,37 @@
+<p>|P_START
+<s>|S_START in|IN 2010|CD boris|NNS johnson|NN will|MD give|VB london|NN cyclists|NNS something|NN to|TO smile|VB about|IN </s>|S_END
+<s>|S_START the|DT mayor|NN plans|VBZ to|TO launch|VB a|DT bicyclehire|NN system|NN modelled|VBD on|IN similar|JJ ones|NNS in|IN paris|NNS barcelona|VBP and|CC a|DT growing|VBG number|NN of|IN other|JJ cities|NNS around|IN the|DT world|NN </s>|S_END
+<s>|S_START with|IN some|DT 6000|CD bikes|NNS and|CC 400|CD docking|VBG stations|NNS the|DT scheme|NN at|IN first|JJ covering|NN about|IN 17|CD square|NN miles|NNS 44|CD square|JJ kilometres|NNS of|IN central|JJ london|NN should|MD allow|VB quick|JJ and|CC relatively|RB cheap|VB access|NN to|TO rental|JJ bike|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX will|MD be|VB difficulties|NNS to|TO overcome|VB </s>|S_END
+<s>|S_START ecuring|VBG land|NN for|IN bike|NN stations|NNS in|IN the|DT busiest|JJS parts|NNS of|IN london|NN will|MD need|VB strong|JJ collaboration|NN between|IN transport|NN for|IN london|NN tfl|NN which|WDT is|VBZ commissioning|VBG the|DT scheme|NN the|DT royal|NN parks|VBZ and|CC the|DT nine|CD boroughs|NNS involved|VBN </s>|S_END
+<s>|S_START then|RB theres|VBZ the|DT cost|NN £140m|NN $|$ 229m|CD over|IN six|CD year|NN </s>|S_END
+<s>|S_START the|DT aim|NN is|VBZ that|IN over|IN time|NN the|DT project|NN will|MD pay|VB for|IN itself|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bixi|NN the|DT company|NN which|WDT will|MD provide|VB the|DT bikes|NNS and|CC run|VBP the|DT programme|NN has|VBZ assured|VBN tfl|NN that|IN its|PRP$ labtested|VBN bikes|NNS have|VBP withstood|VBN the|DT equivalent|NN of|IN 15|CD years|NNS use|VBP it|PRP is|VBZ offering|VBG a|DT fiveyear|JJ or|CC 40000mile|JJ guarantee|NN </s>|S_END
+<s>|S_START to|TO deter|VB theft|NN they|PRP are|VBP fitted|VBN with|IN a|DT security|NN gizmo|NN and|CC users|NNS will|MD have|VB to|TO pay|VB a|DT creditcard|NN deposit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT bigger|JJR worry|NN may|MD be|VB safety|NN </s>|S_END
+<s>|S_START the|DT bikes|NNS will|MD encourage|VB large|JJ numbers|NNS of|IN new|JJ tentative|JJ cyclists|NNS to|TO ride—or|JJ wobble—onto|NN some|DT of|IN londons|NNS busiest|JJS road|NN </s>|S_END
+<s>|S_START the|DT scheme|NN is|VBZ expected|VBN to|TO generate|VB an|DT extra|JJ 40000|CD journeys|NNS a|DT day|NN </s>|S_END
+<s>|S_START tfl|NN is|VBZ supporting|VBG numerous|JJ cycletraining|NN and|CC safety|NN initiatives|NNS throughout|IN london|NN </s>|S_END
+<s>|S_START plans|NNS to|TO have|VB 12|CD “cycle|JJ superhighways”|NN by|IN the|DT end|NN of|IN 2012|CD should|MD help|VB eventually|RB </s>|S_END
+<s>|S_START oddly|RB the|DT rate|NN of|IN accidents|NNS appears|VBZ to|TO decrease|VB as|IN the|DT number|NN of|IN cyclists|NNS rises|NNS since|IN 2000|CD london|NN has|VBZ had|VBN a|DT 107|CD increase|NN in|IN the|DT number|NN of|IN cycle|NN journeys|NNS and|CC a|DT 21|CD drop|NN in|IN casualtie|NN </s>|S_END
+<s>|S_START but|CC drivers|NNS in|IN the|DT capital|NN can|MD still|RB reckon|VB on|IN close|JJ shaves|NNS galore|VBP with|IN inexperienced|VBN cyclist|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN the|DT worries|NNS the|DT goal|NN is|VBZ to|TO provide|VB a|DT green|JJ and|CC healthy|JJ way|NN of|IN getting|VBG around|IN london—an|JJ alternative|NN to|TO the|DT all|DT too|RB frequent|JJ misery|NN of|IN the|DT tube|NN and|CC traffic|JJ jam|NN </s>|S_END
+<s>|S_START londoners|NNS may|MD agree|VB with|IN president|NN john|NN kennedy|NN that|WDT “nothing|-NONE- compares|VBZ to|TO the|DT simple|JJ pleasure|NN of|IN a|DT bike|NN ride”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START jennifer|NN quigleyjones|NNS editorial|NN assistant|NN the|DT world|NN in|IN 2010|CD </s>|S_END
+</p>|P_END
+

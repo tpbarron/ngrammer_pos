@@ -1,0 +1,15 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 40|CD gdp|NN $|$ 182bn|CD ppp|CD $|$ 335bn|CD inflation|NN 39|CD population|NN 371m|CD gdp|NN per|IN head|NN $|$ 4910|CD ppp|CD $|$ 9020|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bordering|VBG two|CD countries|NNS whose|WP$ regimes|NNS were|VBD booted|VBN out|RP in|IN the|DT arab|NN spring|NN algerias|NNS leaders|NNS will|MD try|VB to|TO avoid|VB the|DT same|JJ fate|NN </s>|S_END
+<s>|S_START the|DT threeterm|NN president|NN abdelaziz|NN bouteflika|NN has|VBZ made|VBN concessions|NNS and|CC more|JJR are|VBP under|IN review|NN but|CC none|NN that|IN will|MD threaten|VB the|DT military|JJ elite|NN </s>|S_END
+<s>|S_START parliamentary|JJ elections|NNS in|IN 2012|CD will|MD see|VB some|DT shifts|NNS in|IN party|NN politics|NNS but|CC only|RB in|IN the|DT context|NN of|IN the|DT battle|NN to|TO succeed|VB mr|NN bouteflika|NN when|WRB his|PRP$ term|NN ends|VBZ in|IN 2014|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB ‘allo|JJ ‘allo|NN </s>|S_END
+<s>|S_START a|DT nationwide|JJ thirdgeneration|NN mobilephone|NN network|NN will|MD be|VB launched|VBN in|IN 2012|CD following|VBG the|DT auction|NN of|IN licences|NNS by|IN the|DT government|NN the|DT year|NN before |-NONE- </s>|S_END
+</p>|P_END
+

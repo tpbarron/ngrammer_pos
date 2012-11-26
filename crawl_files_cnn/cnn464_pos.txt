@@ -1,0 +1,121 @@
+<p>|P_START
+<s>|S_START a|DT recent|JJ hacker|NN forum|NN posting|VBG advertised|VBN linkedin|NN connections|NNS for|IN sale|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START san|NN francisco|VBD cnnmoney|NN if|IN you|PRP use|VBP linkedin|NN youve|NN probably|RB told|VBD the|DT site|NN where|WRB you|PRP work|VBP what|WP you|PRP do|VBP and|CC who|WP you|PRP work|VBP with|IN </s>|S_END
+<s>|S_START thats|NNS a|DT gold|NN mine|NN for|IN hackers|NNS who|WP are|VBP increasingly|RB savvy|JJ in|IN using|NN that|IN kind|NN of|IN public|JJ but|CC personal|JJ information|NN for|IN pinpoint|NN attacks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ called|VBN spear|JJ phishing|NN and|CC it|PRP paid|VBD off|RP last|JJ year|NN in|IN two|CD especially|RB highprofile|JJ security|NN breaches|NNS a|DT gmail|NN attack|NN that|WDT ensnared|VBD several|JJ top|JJ us|PRP government|NN officials|NNS and|CC a|DT separate|JJ attack|NN on|IN rsa|NN whose|WP$ securid|NN authentication|NN tokens|NNS are|VBP used|VBN by|IN millions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN both|DT cases|NNS the|DT attackers|NNS successfully|RB tricked|VBD their|PRP$ targets|NNS into|IN opening|VBG email|NN attachments|NNS that|WDT appeared|VBD to|TO come|VB from|IN trusted|VBN sources|NNS or|CC colleagues|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START investigators|NNS havent|VBD disclosed|VBN how|WRB the|DT attackers|NNS gathered|VBD information|NN on|IN their|PRP$ victims|NNS but|CC at|IN rsas|NNS security|NN conference|NN last|JJ month|NN the|DT risks|NNS of|IN social|JJ networking|NN sites|NNS and|CC linkedin|VB lnkd|JJ in|IN particular|JJ were|VBD a|DT hot|JJ topic|JJ </s>|S_END
+<s>|S_START dozens|NNS of|IN presenters|NNS said|VBD the|DT business|NN networking|NN site|NN could|MD be|VB a|DT potent|NN weapon|NN in|IN the|DT hacker|NN toolkit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START businesspeople|NN are|VBP using|VBG linkedin|NN for|IN research|NN purposes|NNS and|CC headhunters|NNS and|CC marketers|NNS use|VBP it|PRP to|TO recruit|VB </s>|S_END
+<s>|S_START why|WRB wouldnt|NN chinese|NN intelligence|NN agents|NNS use|VBP it|PRP as|IN well|RB to|TO spear|VB phish|JJ </s>|S_END
+<s>|S_START said|VBD security|NN analyst|NN ira|NN winkler|NN the|DT author|NN of|IN spies|NNS among|IN us|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS of|IN the|DT discussion|NN about|IN linkedins|NNS risks|NNS was|VBD theoretical|JJ investigators|NNS say|VBP its|PRP$ almost|RB impossible|JJ to|TO trace|VB back|RB the|DT original|JJ source|NN of|IN personal|JJ data|NNS used|VBN in|IN successful|JJ social|JJ engineering|NN attacks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC in|IN one|CD arresting|VBG case|NN study|NN selfdescribed|VBD hacker|NN for|IN hire|NN ryan|NN ohoro|NN demonstrated|VBD how|WRB he|PRP used|VBD linkedin|NN to|TO get|VB inside|JJ a|DT clients|NNS corporate|JJ network|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ohoro|NN is|VBZ a|DT managing|VBG security|NN consultant|NN for|IN ioactive|JJ a|DT services|NNS firm|NN that|WDT offers|VBZ vulnerability|NN testing|NN </s>|S_END
+<s>|S_START his|PRP$ customer|NN a|DT highprofile|NN company|NN with|IN tens|NNS of|IN thousands|NNS of|IN employees|NNS had|VBD topnotch|NN technical|JJ protections|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP needed|VBD to|TO go|VB to|TO the|DT next|JJ level|NN ohoro|NN said|VBD of|IN his|PRP$ efforts|NNS to|TO crack|VB its|PRP$ network|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ohoro|NN created|VBD a|DT fake|NN account|NN on|IN linkedin|NN posing|VBG as|IN a|DT company|NN employee|NN </s>|S_END
+<s>|S_START he|PRP stocked|VBD the|DT profile|NN with|IN realistic|JJ details|NNS a|DT plausible|JJ job|NN history|NN and|CC skill|NN set|VBD plus|RB a|DT few|JJ credibilityestablishing|NN flourishes|NNS like|IN a|DT membership|NN in|IN a|DT local|JJ hockey|NN league|NN </s>|S_END
+<s>|S_START from|IN his|PRP$ dummy|NN account|NN ohoro|NN sent|NN out|IN 300|CD connection|NN requests|NNS to|TO current|JJ company|NN employees|NNS </s>|S_END
+<s>|S_START sixtysix|NN were|VBD accepted|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START next|JJ ohoro|NN requested|VBN access|NN to|TO a|DT private|JJ linkedin|NN discussion|NN forum|NN the|DT companys|NNS employees|NNS had|VBD created|VBN </s>|S_END
+<s>|S_START the|DT groups|NNS moderators|NNS granted|VBD his|PRP$ request|NN without|IN ever|RB checking|VBG a|DT company|NN directory|NN to|TO confirm|VB his|PRP$ identity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START now|RB i|PRP had|VBD an|DT audience|NN of|IN 1000|CD company|NN employees|NNS ohoro|IN said|VBD </s>|S_END
+<s>|S_START i|PRP posted|VBD a|DT link|NN to|TO the|DT group|NN wall|NN that|WDT purported|VBN to|TO be|VB a|DT beta|NN test|NN signup|NN page|NN for|IN a|DT new|JJ project|NN </s>|S_END
+<s>|S_START in|IN two|CD days|NNS i|PRP got|VBD 87|CD hits|NNS 40|CD from|IN inside|JJ the|DT corporate|JJ network|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ohoro|NN got|VBD caught|VBN just|RB three|CD days|NNS into|IN his|PRP$ linkedin|NN attack|NN an|DT astute|NN employee|NN figured|VBD out|RP he|PRP didnt|VBD belong|JJ and|CC blew|JJ the|DT whistle|NN </s>|S_END
+<s>|S_START but|CC hed|VBD already|RB made|VBN his|PRP$ point|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START they|PRP were|VBD definitely|RB surprised|VBN that|IN the|DT group|NN existed|VBD ohoro|NN said|VBD of|IN his|PRP$ clients|NNS response|NN to|TO his|PRP$ report|NN </s>|S_END
+<s>|S_START it|PRP wasnt|VBD a|DT formal|JJ company|NN group|NN there|EX was|VBD no|DT oversight|NN or|CC policy|NN covering|VBG that|IN aspect|NN of|IN their|PRP$ social|JJ presence|NN </s>|S_END
+<s>|S_START the|DT people|NNS in|IN charge|NN of|IN their|PRP$ information|NN security|NN didnt|NN know|VB it|PRP was|VBD there|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hackers|NNS dont|VBP need|VBP anything|NN so|IN fancy|NN as|IN private|JJ discussion|NN forums|NNS to|TO take|VB advantage|NN of|IN linkedin|NN though|IN </s>|S_END
+<s>|S_START the|DT sites|NNS users|NNS openly|RB display|VBP plenty|NN of|IN valuable|JJ data|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN last|JJ summers|NNS defcon|IN security|NN conference|NN a|DT group|NN of|IN social|JJ engineering|NN hackers|NNS staged|VBD a|DT game|NN in|IN which|WDT contestants|NNS attempted|VBD to|TO trick|VB employees|NNS at|IN more|JJR than|IN a|DT dozen|NN major|JJ companies|NNS including|VBG apple|NN aapl|NN fortune|NN 500|CD att|NN t|NN fortune|NN 500|CD calmar|NN wmt|NN fortune|NN 500|CD and|CC united|VBD airlines|NNS ual|JJ fortune|NN 500|CD into|IN disclosing|NN sensitive|JJ corporate|JJ information|NN </s>|S_END
+<s>|S_START next|JJ to|TO google|VB goog|NN fortune|NN 500|CD linkedin|NN was|VBD the|DT competitors|NNS most|JJS widely|RB used|JJ resource|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT people|NNS divulged|VBD specific|JJ technical|JJ information|NN about|IN their|PRP$ employers|NNS infrastructure|VBP in|IN their|PRP$ profiles|NNS while|IN others|NNS offered|VBD up|RP details|NNS that|IN could|MD be|VB used|VBN for|IN stealth|NN attacks|NNS </s>|S_END
+<s>|S_START for|IN example|NN if|IN you|PRP can|MD learn|VB the|DT name|NN of|IN a|DT targets|NNS colleagues|VBZ its|PRP$ fairly|RB easy|JJ to|TO fake|VB an|DT email|NN that|IN appears|NNS to|TO come|VB from|IN one|CD of|IN them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START linkedin|NN says|VBZ it|PRP urges|VBZ users|NNS to|TO think|VB carefully|RB about|IN the|DT information|NN they|PRP choose|VBP to|TO reveal|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP recommend|VBP members|NNS connect|VBP only|RB with|IN people|NNS that|IN they|PRP know|VBP and|CC trust|NN says|VBZ company|NN spokesman|NN richard|VBD george|NN </s>|S_END
+<s>|S_START all|DT internet|NN users|NNS should|MD of|IN course|NN be|VB aware|JJ of|IN the|DT fact|NN that|IN there|EX are|VBP bad|JJ guys|NNS out|IN there|RB who|WP unfortunately|RB resort|VBP to|TO things|NNS like|IN phishing|VBG attacks|NNS and|CC that|IN people|NNS should|MD use|VB common|JJ sense|NN and|CC tools|NNS available|JJ to|TO them|PRP to|TO ensure|VB that|IN they|PRP dont|VBP fall|VBP prey|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START linkedins|NNS vulnerability|NN though|IN is|VBZ inextricably|RB tied|VBN to|TO its|PRP$ growth|NN </s>|S_END
+<s>|S_START the|DT site|NN now|RB has|VBZ 150|CD million|CD users|NNS almost|RB twice|NN as|IN many|JJ as|IN it|PRP had|VBD just|RB one|CD year|NN ago|RB </s>|S_END
+<s>|S_START as|IN its|PRP$ database|NN grows|VBZ richer|JJR its|PRP$ value|NN increases|NNS for|IN both|DT its|PRP$ members|NNS and|CC those|DT wishing|VBG to|TO exploit|VB them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START security|NN researcher|NN rob|NN rachwald|NN regularly|RB monitors|NNS the|DT chatter|NN on|IN sites|NNS and|CC chat|IN rooms|NNS where|WRB hackers|NNS meet|VBP to|TO swap|VB tips|NNS </s>|S_END
+<s>|S_START linkedins|NNS prominence|VBP there|RB is|VBZ rising|VBG he|PRP says|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO illustrate|VB the|DT point|NN he|PRP pulled|VBD up|RP a|DT scattering|NN of|IN recent|JJ messages|NNS from|IN one|CD online|NN hub|NN hackforumsnet|NN </s>|S_END
+<s>|S_START one|CD posting|VBG solicited|VBN for|IN someone|NN to|TO break|VB into|IN a|DT target|NN linkedin|NN account|NN while|IN others|NNS advertised|VBN real|JJ linkedin|NN connections|NNS for|IN sale|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hackers|NNS go|VBP where|WRB people|NNS go|VBP says|VBZ rachwald|VBN the|DT director|NN of|IN security|NN strategy|NN for|IN software|NN firm|NN imperva|NN </s>|S_END
+<s>|S_START as|IN facebook|NN grew|VBD they|PRP went|VBD there|RB </s>|S_END
+<s>|S_START as|IN linkedin|NN grows|VBZ theyre|NN going|VBG there|RB </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

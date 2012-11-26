@@ -1,0 +1,75 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN minutes|VBZ released|VBN from|IN the|DT federal|JJ reserves|NNS latest|JJS meeting|NN wednesday|NN show|NN the|DT central|JJ bank|NN is|VBZ wary|JJ that|IN its|PRP$ efforts|NNS to|TO boost|VB the|DT economy|NN also|RB come|VBP with|IN risks|NNS to|TO the|DT bond|NN market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fed|VBN has|VBZ been|VBN buying|VBG unprecedented|VBN amounts|NNS of|IN treasuries|NNS since|IN 2008|CD trying|VBG to|TO push|VB interest|NN rates|NNS as|IN low|JJ as|IN possible|JJ to|TO stimulate|VB the|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN its|PRP$ meeting|NN in|IN june|NN fed|VBD officials|NNS voted|VBN in|IN favor|NN of|IN continuing|VBG those|DT efforts|NNS </s>|S_END
+<s>|S_START their|PRP$ latest|JJS move|NN included|VBD an|DT extension|NN of|IN a|DT policy|NN known|VBN as|IN operation|NN twist|NN which|WDT swaps|NNS shortterm|VBP bonds|NNS for|IN ones|NNS with|IN longer|JJR durations|NNS </s>|S_END
+<s>|S_START that|DT policy|NN is|VBZ meant|JJ to|TO push|VB longterm|JJ interest|NN rates|NNS lower|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC fed|VBD officials|NNS were|VBD not|RB without|IN concerns|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT members|NNS noted|VBD the|DT risk|NN that|IN continued|VBN purchases|NNS of|IN longerterm|NN treasury|NN securities|NNS could|MD at|IN some|DT point|NN lead|NN to|TO deterioration|NN in|IN the|DT functioning|NN of|IN the|DT treasury|NN securities|NNS market|NN that|IN could|MD undermine|VB the|DT intended|VBN effects|NNS of|IN the|DT policy|NN the|DT minutes|NNS said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bond|NN yields|NNS typically|RB serve|VB as|IN an|DT important|JJ measure|NN for|IN the|DT fed|JJ acting|NN as|IN a|DT signal|NN on|IN everything|NN from|IN future|JJ inflation|NN expectations|NNS to|TO the|DT overall|JJ health|NN of|IN the|DT us|PRP economy|NN </s>|S_END
+<s>|S_START but|CC as|IN the|DT fed|VBN becomes|VBZ a|DT larger|JJR player|NN in|IN the|DT market|NN those|DT signals|NNS could|MD get|VB cloudy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN the|DT fed|VBN gets|NNS a|DT bigger|JJR and|CC bigger|JJR share|NN of|IN treasuries|NNS you|PRP lose|VBP that|IN signal|JJ from|IN the|DT private|JJ sector|NN said|VBD dean|JJ croushore|NN chair|NN of|IN economics|NNS at|IN the|DT university|NN of|IN richmond|NN and|CC former|JJ fed|JJ economist|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT minutes|NNS go|VBP on|IN to|TO say|VB that|IN at|IN the|DT moment|NN fed|VBD officials|NNS generally|RB agreed|VBD that|IN such|JJ risks|NNS seemed|VBD low|JJ </s>|S_END
+<s>|S_START at|IN $|$ 11|CD trillion|CD the|DT treasury|NN market|NN is|VBZ massive|JJ </s>|S_END
+<s>|S_START the|DT fed|VBN currently|RB holds|VBZ about|IN $|$ 17|CD trillion|CD in|IN treasuries|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT said|VBD the|DT officials|NNS asked|VBD staff|NN to|TO look|VB into|IN the|DT issue|NN further|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT few|JJ members|NNS observed|VBN that|IN it|PRP would|MD be|VB helpful|JJ to|TO have|VB a|DT better|JJR understanding|NN of|IN how|WRB large|JJ the|DT federal|JJ reserves|NNS asset|NN purchases|NNS would|MD have|VB to|TO be|VB to|TO cause|VB a|DT meaningful|JJ deterioration|NN in|IN securities|NNS market|NN functioning|VBG and|CC of|IN the|DT potential|JJ costs|NNS of|IN such|JJ deterioration|NN for|IN the|DT economy|NN as|IN a|DT whole|JJ the|DT minutes|NNS said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT members|NNS also|RB said|VBD that|IN they|PRP would|MD like|VB the|DT fed|JJ to|TO consider|VB new|JJ tools|NNS to|TO promote|VB more|JJR accommodative|JJ financial|JJ conditions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START could|MD the|DT fed|VBN be|VB hinting|VBG that|IN any|DT additional|JJ easing|NN might|MD veer|VB away|RB from|IN treasuries|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START our|PRP$ own|JJ view|NN is|VBZ if|IN the|DT fed|VBN moves|NNS toward|IN additional|JJ easing|NN its|PRP$ likely|JJ to|TO take|VB the|DT form|NN of|IN purchases|NNS of|IN other|JJ governmentbacked|VBN paper|NN like|IN mortgagebacked|VBN securities|NNS said|VBD david|JJ resler|NN chief|NN economic|JJ adviser|NN at|IN nomura|NN securities|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START calls|NNS for|IN more|JJR easing|VBG are|VBP growing|VBG louder|NN from|IN wall|NN street|NN and|CC some|DT fed|JJ officials|NNS have|VBP noted|VBN that|IN they|PRP would|MD be|VB open|JJ to|TO doing|NN more|JJR especially|RB as|IN the|DT unemployment|NN rate|NN has|VBZ remained|VBN stubbornly|RB high|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START speaking|VBG earlier|JJR this|DT week|NN san|NN francisco|NN fed|VBD president|NN john|NN williams|NNS said|VBD he|PRP supports|VBZ sufficient|JJ monetary|NN accommodation|NN to|TO keep|VB our|PRP$ economy|NN moving|VBG toward|IN our|PRP$ employment|NN and|CC price|NN stability|NN mandates|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP remarked|VBD that|IN buying|NN mortgagebacked|VBD securities|NNS would|MD be|VB an|DT effective|JJ tool|NN </s>|S_END
+<s>|S_START charles|NNS evans|VBP president|NN of|IN the|DT chicago|NNP fed|VBD has|VBZ said|VBN he|PRP too|RB supports|VBZ buying|VBG mortgagebacked|VBN securities|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START critics|NNS including|VBG former|JJ fdic|JJ chair|NN sheila|NN bair|NN have|VBP accused|VBN the|DT central|JJ bank|NN of|IN inflating|VBG a|DT bond|NN bubble|JJ </s>|S_END
+<s>|S_START as|IN the|DT fed|VBN has|VBZ become|VBN one|CD of|IN the|DT largest|JJS buyers|NNS in|IN the|DT bond|NN market|NN treasury|NN prices|NNS have|VBP risen|VBN to|TO levels|NNS that|IN some|DT say|VBP are|VBP unwarranted|VBN by|IN the|DT united|VBN states|NNS fiscal|JJ situation |NN </s>|S_END
+</p>|P_END
+

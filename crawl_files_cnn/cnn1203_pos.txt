@@ -1,0 +1,51 @@
+<p>|P_START
+<s>|S_START consumer|NN financial|JJ protection|NN bureau|NN will|MD regulate|VB debt|NN collectors|NNS starting|VBG jan|NN 2|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START washington|NN cnnmoney|NN for|IN the|DT first|JJ time|NN in|IN history|NN debt|NN collectors|NNS the|DT guys|NNS who|WP hound|NN you|PRP over|IN unpaid|JJ bills|NNS are|VBP about|IN to|TO get|VB a|DT tough|JJ federal|JJ regulator|NN scouring|NN their|PRP$ books|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT consumer|NN financial|JJ protection|NN bureau|NN on|IN wednesday|NN finalized|VBN a|DT new|JJ rule|NN to|TO oversee|VB and|CC regulate|VB the|DT largest|JJS us|PRP debt|NN collection|NN agencies|NNS starting|VBG jan|NN 2|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT move|NN could|MD impact|VB consumers|NNS nationwide|VB </s>|S_END
+<s>|S_START some|DT 30|CD million|CD americans|NNS have|VBP debt|NN under|IN collection|NN with|IN average|JJ unpaid|NN debt|NN around|IN $|$ 1500|CD according|VBG to|TO the|DT bureau|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START under|IN the|DT new|JJ rule|NN examiners|NNS from|IN the|DT consumer|NN agency|NN can|MD march|VB into|IN the|DT offices|NNS of|IN large|JJ debt|NN collectors|NNS to|TO ensure|VB theyre|NN giving|VBG consumers|NNS a|DT fair|JJ shake|NN </s>|S_END
+<s>|S_START they|PRP can|MD evaluate|VB debt|NN collectors|NNS to|TO make|VB sure|JJ they|PRP are|VBP clearly|RB and|CC accurately|RB identifying|VBG themselves|PRP truthfully|RB disclosing|VBG the|DT amount|NN of|IN debt|NN owed|VBN and|CC not|RB attempting|VBG to|TO collect|VB debt|NN that|IN doesnt|NN exist|NN or|CC has|VBZ been|VBN paid|VBN off|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD more|JJR americans|NNS delaying|VBG retirement|NN until|IN their|PRP$ 80s|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thanks|NNS to|TO the|DT doddfrank|NN financial|JJ reform|NN act|NN the|DT consumer|NN financial|JJ watchdog|NN can|MD already|RB create|VB and|CC enforce|VB rules|NNS on|IN the|DT debt|NN collection|NN industry|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT new|JJ rule|NN will|MD give|VB it|PRP special|JJ oversight|NN power|NN over|IN companies|NNS with|IN more|JJR than|IN $|$ 10|CD million|CD in|IN receipts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START millions|NNS of|IN consumers|NNS are|VBP affected|VBN by|IN debt|NN collection|NN and|CC we|PRP want|VBP to|TO make|VB sure|JJ they|PRP are|VBP treated|VBN fairly|RB said|VBD cfpb|NN director|NN richard|NN cordray|NN in|IN a|DT statement|NN </s>|S_END
+<s>|S_START we|PRP want|VBP all|DT companies|NNS to|TO realize|VB that|IN the|DT better|JJR business|NN choice|NN is|VBZ to|TO follow|VB the|DT law|NN —|: not|RB break|VB it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bureau|NN says|VBZ the|DT rule|NN will|MD impact|VB about|IN 175|CD companies|NNS which|WDT account|NN for|IN about|IN 60|CD of|IN debt|NN that|IN is|VBZ collected|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB that|IN still|RB means|VBZ that|IN a|DT large|JJ number|NN of|IN the|DT 4500|CD debt|NN collection|NN companies|NNS in|IN the|DT united|VBN states|NNS will|MD escape|VB the|DT bureaus|NN close|NN oversight|NN because|IN a|DT vast|JJ majority|NN of|IN them|PRP are|VBP small|JJ companies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT consumer|NN financial|JJ watchdog|NN which|WDT was|VBD launched|VBN last|JJ year|NN has|VBZ recently|RB gone|VBN after|IN credit|NN card|NN companies|NNS american|JJ express|NN axp|NN fortune|NN 500|CD discover|NN dfs|NNS fortune|VBP 500|CD and|CC capital|NN cof|IN fortune|NN 500|CD one|CD to|TO refund|VB millions|NNS of|IN dollars|NNS back|VBP to|TO their|PRP$ customers|NNS for|IN deceptive|JJ practices|NNS </s>|S_END
+</p>|P_END
+

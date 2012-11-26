@@ -1,0 +1,66 @@
+<p>|P_START
+<s>|S_START on|IN april|NN 3rd|CD 1987|CD a|DT convicted|JJ murderer|NN called|VBN willie|NN horton|NN beat|NN and|CC repeatedly|RB slashed|VBD a|DT man|NN then|RB stole|JJ his|PRP$ car|NN and|CC raped|VBD his|PRP$ girlfriend|NN </s>|S_END
+<s>|S_START at|IN the|DT time|NN mr|NN horton|NN was|VBD serving|VBG a|DT life|NN sentence|NN without|IN the|DT chance|NN of|IN parole|NN for|IN stabbing|NN a|DT petrolstation|NN attendant|NN 19|CD times|NNS he|PRP was|VBD free|JJ on|IN a|DT “weekend|JJ furlough”|NN as|IN part|NN of|IN a|DT wellintended|VBN but|CC illadvised|VBN programme|NN massachusetts|NNS program|NN </s>|S_END
+<s>|S_START when|WRB its|PRP$ then|RB governor|NN michael|NN dukakis|VBZ won|NN the|DT democratic|JJ nomination|NN for|IN president|NN the|DT campaign|NN of|IN his|PRP$ republican|JJ opponent|NN george|NN bush|NN senior|JJ made|VBN mr|NN horton’s|-NONE- rampage|NN the|DT subject|NN of|IN a|DT coldly|RB effective|JJ attack|NN ad|NN portraying|VBG mr|NN dukakis|NNS as|IN soft|JJ on|IN crime|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START crime|NN has|VBZ not|RB played|VBN as|IN salient|NN a|DT role|NN in|IN any|DT presidential|JJ campaign|NN since|IN then|RB for|IN two|CD main|JJ reason|NN </s>|S_END
+<s>|S_START first|JJ america’s|NNS crime|NN rate|NN has|VBZ steadily|RB and|CC dramatically|RB declined|VBD since|IN the|DT 1990|CD </s>|S_END
+<s>|S_START and|CC second|JJ democrats|NNS have|VBP learned|VBN their|PRP$ lesson|NN joining|VBG republicans|NNS in|IN making|VBG all|DT the|DT right|NN “tough|JJ on|IN crime”|JJ noise|NN </s>|S_END
+<s>|S_START that|DT may|MD have|VB eliminated|VBN a|DT political|JJ issue|NN but|CC not|RB without|IN some|DT adverse|JJ consequence|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT political|JJ parties|NNS have|VBP driven|VBN america’s|-NONE- criminaljustice|NN policy|NN in|IN one|CD regrettable|JJ direction|NN towards|NNS locking|VBG up|RP more|JJR people|NNS for|IN more|JJR crimes|NNS for|IN more|JJR time|NN </s>|S_END
+<s>|S_START a|DT combination|NN of|IN overcriminalisation|NN mandatoryminimum|NN sentences|NNS tough|IN drug|NN laws|NNS and|CC excessive|JJ prosecutorial|JJ power|NN have|VBP stuffed|VBN america’s|-NONE- prisons|NNS to|TO bursting|VBG </s>|S_END
+<s>|S_START as|IN of|IN 2010|CD roughly|RB 23m|CD americans|NNS were|VBD imprisoned|VBN and|CC 71m|CD were|VBD under|IN some|DT form|NN of|IN correctional|JJ control|NN prison|NN probation|NN or|CC parole|NN </s>|S_END
+<s>|S_START in|IN 1980|CD 220|CD out|IN of|IN every|DT 100000|CD americans|NNS were|VBD incarcerated|VBN </s>|S_END
+<s>|S_START by|IN 2010|CD that|WDT rate|NN had|VBD risen|VBN nearly|RB threeandahalf|NN time|NN </s>|S_END
+<s>|S_START it|PRP dwarfs|VBZ the|DT rates|NNS not|RB only|RB in|IN the|DT rest|NN of|IN the|DT rich|JJ world|NN but|CC also|RB in|IN such|JJ humanrightsfree|JJ zones|NNS as|IN iran|JJ china|NN cuba|NN and|CC russia|NN </s>|S_END
+<s>|S_START drugrelated|VBD arrests|NNS account|VBP for|IN much|RB of|IN that|DT increase|NN and|CC minorities|NNS for|IN a|DT disproportionate|JJ number|NN of|IN those|DT arrest|JJS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB there|RB are|VBP signs|NNS of|IN change|NN </s>|S_END
+<s>|S_START in|IN 2010—the|DT most|RBS recent|JJ year|NN for|IN which|WDT reliable|JJ statistics|NNS exist—the|JJ number|NN of|IN people|NNS under|IN correctional|JJ control|NN declined|VBD for|IN the|DT third|JJ year|NN running|VBG </s>|S_END
+<s>|S_START tates|NNS seem|VBP to|TO have|VB realised|VBN at|IN last|JJ that|IN incarceration|NN is|VBZ expensive|JJ </s>|S_END
+<s>|S_START ome|NN have|VBP begun|VBN experimenting|VBG with|IN alternatives|NNS such|JJ as|IN drug|NN courts|NNS and|CC dayreporting|VBG centres|NNS which|WDT keep|VB people|NNS out|IN of|IN prison|NN and|CC in|IN treatment|NN programmes|NNS and|CC with|IN increased|VBN funding|NN for|IN job|NN training|NN and|CC education|NN behind|IN bars|NNS in|IN order|NN to|TO decrease|VB reoffending|NN </s>|S_END
+<s>|S_START and|CC though|IN leftleaning|VBG advocates|NNS had|VBD called|VBN for|IN such|JJ changes|NNS for|IN years|NNS many|JJ have|VBP in|IN fact|NN been|VBN implemented|VBN by|IN republican|JJ governors—among|JJ them|PRP rick|VBP perry|JJ in|IN texas|NNS chris|NNS christie|VBP in|IN new|JJ jersey|NN and|CC nathan|IN deal|NN in|IN georgia|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START against|IN this|DT backdrop|NN barack|NN obama’s|NNS criminaljustice|NN and|CC drugs|NNS record|VB seems|NNS tepidly|RB sensible|JJ a|DT decade|NN or|CC two|CD ago|IN he|PRP might|MD have|VB been|VBN felled|VBN by|IN the|DT softoncrime|NN charge|NN </s>|S_END
+<s>|S_START his|PRP$ drugcontrol|NN strategies|NNS released|VBN annually|RB have|VBP emphasised|VBN treatment|NN and|CC prevention|NN as|IN much|JJ as|IN jail|NN </s>|S_END
+<s>|S_START his|PRP$ most|RBS recent|JJ drugs|NNS budget|NN spends|NNS more|RBR on|IN the|DT former|JJ than|IN the|DT latter|NN </s>|S_END
+<s>|S_START his|PRP$ health|NN reforms|NNS will|MD require|VB health|NN insurers|NNS to|TO provide|VB addiction|NN and|CC mentalhealth|NN service|NN </s>|S_END
+<s>|S_START and|CC his|PRP$ top|JJ drugs|NNS official|JJ has|VBZ relegated|VBN the|DT phrase|NN “war|NN on|IN drugs”|NNP to|TO the|DT dustbin|NN and|CC has|VBZ warned|VBN that|IN americans|NNS “|VBP can|MD not|RB arrest|VB our|PRP$ way|NN out|IN of|IN this|DT problem”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START crack|NN v|NN coke|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN obama|NN also|RB corrected|VBD a|DT longstanding|NN injustice|NN in|IN federal|JJ policy|NN when|WRB in|IN 2010|CD he|PRP signed|VBD the|DT fair|NN sentencing|VBG act|NN </s>|S_END
+<s>|S_START that|DT reduced|VBN the|DT disparity|NN of|IN punishment|NN for|IN possession|NN of|IN crack|NN versus|NN powder|NN cocaine|NN from|IN 1001|CD a|DT fiveyear|JJ term|NN was|VBD mandated|VBN for|IN firsttime|NN possession|NN of|IN five|CD grams|NNS of|IN crack|NN while|IN it|PRP took|VBD 500|CD grams|NNS of|IN powder|NN to|TO trigger|VB the|DT same|JJ sentence|NN to|TO 181|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN other|JJ issues|NNS however|RB mr|JJ obama|NN remains|VBZ a|DT committed|VBN drug|NN warrior|NN </s>|S_END
+<s>|S_START although|IN the|DT fair|NN sentencing|VBG act|NN reduced|VBD penalties|NNS for|IN crackcocaine|NN possession|NN it|PRP increased|VBD them|PRP for|IN drug|NN trafficking|VBG </s>|S_END
+<s>|S_START during|IN his|PRP$ 2008|CD campaign|NN mr|NN obama|NN vowed|VBD not|RB to|TO use|VB federal|JJ lawenforcement|NN to|TO go|VB after|IN people|NNS acting|VBG within|IN state|NN medicalmarijuana|NNS laws|NNS medical|JJ marijuana|NNS is|VBZ legal|JJ in|IN 17|CD states|NNS and|CC in|IN washington|NN dc|NN </s>|S_END
+<s>|S_START as|IN president|NN however|RB his|PRP$ justice|NN department|NN has|VBZ vigorously|RB pursued|VBN medicalmarijuana|NNS growers|NNS and|CC dispensaries|NNS raiding|VBG about|IN 200|CD since|IN 2009|CD </s>|S_END
+<s>|S_START mr|NN obama|NN insists|NNS that|WDT his|PRP$ campaign|NN promise|NN referred|VBD to|TO individual|JJ users|NNS and|CC eric|JJ holder|NN his|PRP$ attorneygeneral|JJ told|NN congress|NN that|IN the|DT raided|JJ growers|NNS and|CC dispensaries|NNS were|VBD “going|JJ beyond|NN that|WDT which|WDT the|DT states|NNS have|VBP authorised”|JJ </s>|S_END
+<s>|S_START that|DT is|VBZ a|DT very|RB fine|NN distinction|NN and|CC it|PRP will|MD receive|VB a|DT greater|JJR test|NN in|IN november|NN when|WRB voters|NNS in|IN washington|NN state|NN oregon|NN and|CC colorado|VB decide|JJ whether—in|JJ direct|JJ contravention|NN of|IN federal|JJ law—to|JJ legalise|NN marijuana|NNS for|IN recreational|JJ use|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mitt|NN romney’s|NNS criminaljustice|NN record|NN is|VBZ thinner|JJR but|CC clearer|JJR he|PRP seems|VBZ to|TO be|VB a|DT standard|JJ lawandorder|NN candidate|NN though|IN his|PRP$ campaign|NN has|VBZ been|VBN cagey|JJ about|IN answering|VBG detailed|JJ questions|NNS in|IN this|DT area|NN </s>|S_END
+<s>|S_START he|PRP was|VBD the|DT first|JJ governor|NN in|IN modern|JJ massachusetts|NNS to|TO deny|VB every|DT request|NN for|IN pardon|NN or|CC commutation|NN </s>|S_END
+<s>|S_START he|PRP increased|VBD the|DT size|NN of|IN the|DT state’s|JJ policeforce|NN and|CC its|PRP$ crime|NN lab|NN </s>|S_END
+<s>|S_START he|PRP opposes|VBZ drug|NN legalisation|NN and|CC hauling|VBG out|RP a|DT hoary|JJ old|JJ drugwar|NN chestnut|NN has|VBZ called|VBN marijuana|NNS “a|-NONE- gateway|RB drug”|JJ </s>|S_END
+<s>|S_START he|PRP also|RB opposes|VBZ the|DT use|NN of|IN medical|JJ marijuana|NNS but|CC has|VBZ called|VBN it|PRP a|DT “state|JJ issue”|NN leaving|VBG open|JJ the|DT possibility|NN that|IN his|PRP$ policy|NN towards|NNS states|VBZ that|IN legalise|NN it|PRP might|MD be|VB one|CD of|IN benign|NN neglect|NN </s>|S_END
+<s>|S_START on|IN that|DT particular|JJ matter|NN the|DT choice|NN is|VBZ sternfaced|VBN or|CC twofaced|VBN </s>|S_END
+</p>|P_END
+

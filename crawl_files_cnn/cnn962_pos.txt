@@ -1,0 +1,99 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN google|NN is|VBZ teaming|VBG with|IN mastercard|NN citigroup|NN and|CC sprint|NN to|TO launch|VB a|DT new|JJ phonebased|VBN mobile|JJ payment|NN system|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT project|NN called|VBD google|JJ wallet|NN will|MD enable|VB special|JJ chips|NNS embedded|VBD in|IN many|JJ future|JJ android|NN devices|NNS to|TO be|VB used|VBN for|IN payments|NNS </s>|S_END
+<s>|S_START instead|RB of|IN swiping|VBG a|DT credit|NN card|NN customers|NNS will|MD be|VB able|JJ to|TO wave|VB their|PRP$ android|JJ phone|NN in|IN front|NN of|IN a|DT reader|NN to|TO make|VB a|DT payment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START were|VBD about|IN to|TO embark|VB on|IN a|DT new|JJ era|NN of|IN commerce|NN where|WRB we|PRP bring|VBG online|NN and|CC offline|NN together|RB stephanie|VB tilenius|NNS googles|NNS vice|NN president|NN of|IN commerce|NN said|VBD thursday|NN at|IN a|DT press|NN event|NN in|IN new|JJ york|NN unveiling|VBG the|DT project|NN </s>|S_END
+<s>|S_START we|PRP believe|VBP the|DT shopping|VBG experience|NN has|VBZ not|RB yet|RB been|VBN transformed|VBN by|IN technology|NN or|CC by|IN magical|JJ experiences|NNS </s>|S_END
+<s>|S_START now|RB your|PRP$ phone|NN can|MD be|VB your|PRP$ wallet|NN you|PRP just|RB tap|VBP pay|NN and|CC save|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN now|RB only|RB citibank|VBP c|NN fortune|NN 500|CD customers|NNS will|MD be|VB able|JJ to|TO use|VB their|PRP$ phones|NNS as|IN digital|JJ wallets|NNS linking|VBG their|PRP$ phones|NNS to|TO credit|VB or|CC debit|VB cards|NNS but|CC google|JJ developed|VBD an|DT open|JJ platform|NN that|WDT can|MD be|VB used|VBN on|IN any|DT device|NN or|CC card|NN </s>|S_END
+<s>|S_START the|DT company|NN hopes|VBZ more|JJR partners|NNS will|MD soon|RB come|VB on|IN board|NN </s>|S_END
+<s>|S_START android|VBD users|NNS will|MD be|VB able|JJ to|TO manage|NN their|PRP$ transactions|NNS via|IN an|DT application|NN on|IN their|PRP$ smartphones|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT system|NN is|VBZ only|RB available|JJ on|IN sprints|NNS s|NNS fortune|VBP 500|CD nexus|NNS s|NNS phone|VBP for|IN now|RB but|CC google|JJ is|VBZ requiring|VBG that|IN nearfield|NN communications|NNS nfc|VBP chips|NNS be|VB embedded|VBN on|IN android|JJ devices|NNS that|WDT launch|NN with|IN the|DT latest|JJS version|NN of|IN the|DT operating|NN system|NN </s>|S_END
+<s>|S_START that|DT means|VBZ that|DT most|RBS new|JJ android|NN phones|NNS going|VBG on|IN sale|NN later|JJ this|DT year|NN will|MD be|VB able|JJ to|TO use|VB googles|NNS new|JJ payments|NNS system|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN wallet|VBD will|MD launch|VB in|IN san|NN francisco|NN and|CC new|JJ york|NN this|DT summer|NN and|CC will|MD go|VB national|JJ in|IN the|DT coming|VBG months|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN goog|NN fortune|NN 500|CD said|VBD it|PRP wont|NN be|VB taking|VBG a|DT cut|NN of|IN the|DT transactions|NNS like|IN mastercard|NN ma|NN fortune|NN 500|CD does|VBZ </s>|S_END
+<s>|S_START instead|RB the|DT search|NN giant|NN will|MD help|VB companies|NNS target|VB advertising|NN to|TO customers|NNS based|VBN on|IN their|PRP$ purchase|NN history|NN </s>|S_END
+<s>|S_START google|NN will|MD provide|VB information|NN to|TO retailers|NNS that|IN will|MD allow|VB them|PRP to|TO direct|VB offers|NNS and|CC discounts|NNS to|TO specific|JJ people|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT separate|JJ program|NN called|VBN google|JJ offers|NNS will|MD in|VB many|JJ ways|NNS work|VBP like|IN groupon|NN a|DT company|NN google|NN unsuccessfully|RB targeted|VBN for|IN a|DT buyout|NN earlier|RBR this|DT year|NN </s>|S_END
+<s>|S_START google|NN offers|NNS will|MD send|VB users|NNS a|DT daily|JJ deal|NN and|CC it|PRP will|MD also|RB give|VB users|NNS checkin|IN deals|NNS targeted|VBN ads|NNS and|CC local|JJ deals|NNS via|IN google|JJ places|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT technology|NN that|IN enables|NNS mobile|VBP phones|NNS to|TO become|VB credit|NN cards|NNS has|VBZ been|VBN around|IN for|IN a|DT while|NN </s>|S_END
+<s>|S_START the|DT same|JJ nfc|NN chips|NNS embedded|VBD in|IN new|JJ android|NN devices|NNS exist|VBP in|IN some|DT credit|NN cards|NNS and|CC payment|NN wands|NNS associated|VBN with|IN customers|NNS accounts|NNS </s>|S_END
+<s>|S_START mastercard|NN for|IN instance|NN already|RB has|VBZ an|DT nfc|NN system|NN called|VBN paypass|NN in|IN place|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN is|VBZ far|RB from|IN the|DT only|JJ company|NN to|TO delve|VB into|IN nfc|NN </s>|S_END
+<s>|S_START verizon|NN vz|NN fortune|NN 500|CD att|NN t|NN fortune|NN 500|CD and|CC tmobile|JJ last|JJ year|NN said|VBD they|PRP would|MD create|VB a|DT venture|NN with|IN discover|NN dfs|NNS fortune|VBP 500|CD to|TO allow|VB users|NNS to|TO pay|VB with|IN their|PRP$ cell|NN phones|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC nfc|NN payments|NNS have|VBP yet|RB to|TO take|VB off|RP in|IN a|DT big|JJ way|NN </s>|S_END
+<s>|S_START just|RB 150000|CD contactless|NN readers|NNS have|VBP been|VBN installed|VBN by|IN us|PRP retailers|NNS according|VBG to|TO the|DT federal|JJ reserve|NN </s>|S_END
+<s>|S_START google|NN said|VBD wallet|NN will|MD work|VB at|IN 120000|CD retailers|NNS in|IN the|DT united|VBN states|NNS and|CC 300000|CD globally|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ also|RB unclear|JJ if|IN nfc|NN will|MD be|VB the|DT technology|NN that|IN ultimately|RB powers|NNS mobile|IN payments|NNS </s>|S_END
+<s>|S_START twitter|NN cofounder|NN jack|NN dorseys|NNS startup|VBP square|JJ for|IN instance|NN announced|VBD an|DT ipad|NN app|NN that|WDT replaces|VBZ cash|NN registers|NNS at|IN stores|NNS and|CC lets|NNS customers|NNS pay|VBP for|IN products|NNS with|IN their|PRP$ android|JJ or|CC ios|NNS devices|NNS or|CC start|VB tabs|NNS just|RB by|IN using|VBG their|PRP$ names|NNS </s>|S_END
+<s>|S_START no|DT hardware|NN or|CC nfc|NN is|VBZ involved|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START square|NN this|DT week|NN announced|VBD that|IN 500000|CD square|JJ card|NN readers|NNS have|VBP been|VBN shipped|VBN and|CC said|VBD the|DT company|NN is|VBZ processing|VBG $|$ 3|CD million|CD in|IN mobile|JJ payments|NNS a|DT day|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB google|JJ believes|NNS nfc|VBP is|VBZ the|DT best|JJS way|NN forward|RB and|CC it|PRP hopes|VBZ its|PRP$ new|JJ technology|NN will|MD change|VB the|DT way|NN people|NNS think|VBP about|IN payments|NNS </s>|S_END
+<s>|S_START nfc|NN on|IN a|DT mobile|JJ device|NN sends|NNS an|DT encrypted|JJ signal|NN to|TO the|DT reader|NN which|WDT is|VBZ more|RBR difficult|JJ to|TO steal|VB and|CC duplicate|VB than|IN the|DT magnetic|JJ strip|NN technology|NN currently|RB used|VBN by|IN most|JJS credit|NN cards|NNS </s>|S_END
+<s>|S_START users|NNS will|MD need|VB to|TO enter|VB a|DT pin|NN to|TO make|VB the|DT payment|NN system|NN work|NN reducing|VBG the|DT threat|NN of|IN financial|JJ loss|NN if|IN their|PRP$ phones|NNS are|VBP stolen|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START also|RB google|VBP demonstrated|VBN how|WRB users|NNS could|MD add|VB multiple|NN cards|NNS including|VBG rewards|NNS cards|NNS and|CC coupons|NNS into|IN their|PRP$ phones|NNS </s>|S_END
+<s>|S_START those|DT rewards|NNS cards|NNS and|CC coupons|NNS will|MD automatically|RB be|VB applied|VBN when|WRB a|DT user|NN taps|VBZ their|PRP$ phone|NN to|TO complete|VB a|DT purchase|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START users|NNS could|MD click|VB on|IN online|NN ads|NNS and|CC save|VB offers|NNS to|TO their|PRP$ phones|NNS or|CC they|PRP could|MD tap|VB posters|NNS with|IN nfc|NN capabilities|NNS to|TO get|VB deals|NNS sent|VBN to|TO their|PRP$ devices|NNS </s>|S_END
+<s>|S_START eventually|RB google|JJ said|VBD users|NNS will|MD literally|RB be|VB able|JJ to|TO put|VB everything|NN thats|NNS in|IN their|PRP$ wallet|NN into|IN their|PRP$ phones|NNS including|VBG their|PRP$ drivers|NNS licences|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT company|NN has|VBZ long|RB envisioned|VBN a|DT day|NN when|WRB mobile|JJ phones|NNS become|VBP the|DT central|JJ payment|NN system|NN for|IN people|NNS around|IN the|DT world|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN february|JJ thenceo|NN eric|JJ schmidt|NN envisioned|VBD a|DT scenario|NN where|WRB you|PRP would|MD enter|VB the|DT task|NN buy|NN pants|NNS into|IN your|PRP$ smartphone|NN </s>|S_END
+<s>|S_START based|VBN on|IN your|PRP$ shopping|NN history|NN google|NN knows|VBZ you|PRP like|IN deals|NNS </s>|S_END
+<s>|S_START it|PRP also|RB knows|VBZ where|WRB you|PRP are|VBP since|IN your|PRP$ smartphone|NN has|VBZ gps|NNS </s>|S_END
+<s>|S_START your|PRP$ phone|NN instructs|NNS you|PRP to|TO go|VB to|TO a|DT store|NN near|IN you|PRP that|IN happens|NNS to|TO have|VB a|DT great|JJ deal|NN on|IN pants|NNS and|CC google|JJ tells|NNS the|DT store|NN to|TO hold|VB the|DT pants|NNS at|IN the|DT counter|NN for|IN you|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB you|PRP arrive|VBP at|IN the|DT store|NN you|PRP just|RB tap|VBP your|PRP$ smartphone|NN onto|IN a|DT reader|NN at|IN the|DT store|NN to|TO pay |NNP </s>|S_END
+</p>|P_END
+

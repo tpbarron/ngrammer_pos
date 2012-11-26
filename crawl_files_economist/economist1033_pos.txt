@@ -1,0 +1,63 @@
+<p>|P_START
+<s>|S_START technology|NN advances|NNS not|RB only|RB through|IN new|JJ inventions|NNS but|CC also|RB by|IN the|DT imaginative|JJ application|NN of|IN old|JJ one|CD </s>|S_END
+<s>|S_START and|CC one|CD of|IN the|DT most|RBS ancient|JJ forms|NNS of|IN scientific|JJ investigation|NN the|DT postmortem|NN autopsy|NN may|MD be|VB ripe|NN for|IN just|RB such|JJ a|DT technological|JJ upgrade|NN </s>|S_END
+<s>|S_START according|VBG to|TO a|DT recent|JJ paper|NN in|IN the|DT lancet|NN published|VBD by|IN ian|JJ roberts|NNS of|IN the|DT john|NN radcliffe|NN hospital|NN in|IN oxford|NN it|PRP may|MD soon|RB be|VB time|NN to|TO put|VB away|RP the|DT scalpel|NN and|CC retractor|NN clamp|NN and|CC replace|NN them|PRP with|IN the|DT body|NN scanner|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT study|NN of|IN death|NN is|VBZ never|RB a|DT cheerful|JJ topic|JJ but|CC it|PRP has|VBZ gone|VBN through|IN a|DT particularly|RB gloomy|JJ patch|NN in|IN the|DT past|JJ few|JJ decade|NN </s>|S_END
+<s>|S_START a|DT recent|JJ tally|NN by|IN americas|NNS centres|NNS for|IN disease|NN control|NN and|CC prevention|NN showed|VBD that|IN in|IN 2007|CD only|RB 85|CD of|IN deaths|NNS in|IN america|NN were|VBD investigated|VBN by|IN autopsy|NN </s>|S_END
+<s>|S_START in|IN 1972|CD the|DT figure|NN was|VBD 193|CD </s>|S_END
+<s>|S_START britains|NNS coroners|NNS are|VBP more|RBR active|JJ but|CC perhaps|RB not|RB more|RBR accurate|JJ </s>|S_END
+<s>|S_START in|IN britain|NN 22|CD of|IN deaths|NNS lead|VBP to|TO an|DT autopsy|NN </s>|S_END
+<s>|S_START according|VBG to|TO a|DT government|NN review|NN however|RB one|CD in|IN four|CD is|VBZ of|IN miserable|JJ quality|NN </s>|S_END
+<s>|S_START the|DT upshot|NN in|IN both|DT cases|NNS is|VBZ not|RB just|RB that|WDT the|DT causes|NNS of|IN individual|JJ deaths|NNS may|MD be|VB misascribed|VBN </s>|S_END
+<s>|S_START more|JJR seriously|RB data|NNS about|IN the|DT processes|NNS of|IN disease|NN are|VBP lost|VBN and|CC those|DT diseases|NNS are|VBP thus|RB not|RB as|IN well|RB understood|VBN as|IN they|PRP might|MD have|VB been|VBN </s>|S_END
+<s>|S_START relatives|NNS of|IN the|DT deceased|VBN meanwhile|RB often|RB do|VBP not|RB like|VB the|DT idea|NN of|IN bodies|NNS being|VBG cut|NN up|IN at|IN the|DT behest|NN of|IN coroner|NN </s>|S_END
+<s>|S_START britains|NNS health|VBP department|NN therefore|RB asked|VBD dr|NN roberts|NNS to|TO study|VB whether|IN scanning|VBG the|DT dead|JJ in|IN a|DT way|NN that|WDT is|VBZ routine|VBP for|IN the|DT living|VBG would|MD help|VB </s>|S_END
+<s>|S_START his|PRP$ conclusion|NN </s>|S_END
+<s>|S_START it|PRP would|MD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rather|RB than|IN slicing|VBG the|DT body|NN with|IN a|DT knife|NN scanning|VBG slices|NNS it|PRP with|IN radiation|NN </s>|S_END
+<s>|S_START computerised|VBD tomography|NN ct|NN uses|NNS xrays|VBZ to|TO collect|VB information|NN from|IN many|JJ angles|NNS and|CC a|DT lot|NN of|IN processing|NN power|NN to|TO convert|VB that|IN information|NN into|IN crosssectional|JJ images|NNS of|IN a|DT bodys|NNS inner|NN tissue|NN </s>|S_END
+<s>|S_START in|IN forensic|JJ cases|NNS ct|VBP scans|NNS are|VBP often|RB used|VBN to|TO spot|VB fractures|NNS and|CC haemorrhage|NN </s>|S_END
+<s>|S_START dr|NN roberts|NNS found|VBD them|PRP adept|IN at|IN noticing|NN diseased|VBN arteries|NNS as|IN well|RB </s>|S_END
+<s>|S_START the|DT other|JJ widespread|JJ scanning|NN technique|NN magneticresonance|NN imaging|VBG mri|NN uses|NNS radio|NN waves|NNS and|CC is|VBZ best|JJS suited|VBN for|IN exploring|NN the|DT detail|NN of|IN soft|JJ tissue|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START though|IN both|DT technologies|NNS have|VBP been|VBN around|IN for|IN a|DT long|JJ time|NN they|PRP have|VBP had|VBN only|RB limited|VBN use|NN in|IN autopsie|NN </s>|S_END
+<s>|S_START americas|NNS authorities|NNS conduct|VBP ct|JJ scans|NNS of|IN dead|JJ soldiers—but|JJ such|JJ scans|NNS are|VBP employed|VBN to|TO augment|VB traditional|JJ post|NN mortems|NNS not|RB replace|VB them|PRP </s>|S_END
+<s>|S_START ome|NN coroners|NNS in|IN england|NN spurred|VBN on|IN by|IN the|DT religious|JJ objections|NNS of|IN jews|NNS and|CC muslims|NNS do|VBP allow|JJ scans|NNS rather|RB than|IN conventional|JJ autopsies|NNS in|IN certain|JJ case|NN </s>|S_END
+<s>|S_START but|CC the|DT accuracy|NN of|IN these|DT scans|NNS is|VBZ unknown|VBN </s>|S_END
+<s>|S_START dr|NN roberts|NNS is|VBZ the|DT first|JJ to|TO provide|VB data|NNS on|IN whether|IN scanning|NN might|MD replace|VB conventional|JJ method|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP and|CC his|PRP$ colleagues|NNS examined|VBD 182|CD bodies|NNS in|IN manchester|NN and|CC oxford|NN </s>|S_END
+<s>|S_START radiologists|NNS studied|VBD ct|NN and|CC mri|NN scans|NNS of|IN these|DT bodies|NNS made|VBN diagnoses|NNS based|VBN on|IN them|PRP explained|VBD their|PRP$ confidence|NN in|IN these|DT diagnoses|NNS and|CC judged|VBD whether|IN the|DT scans|NNS might|MD thus|RB preclude|VB the|DT need|NN for|IN a|DT full|JJ autopsy|NN </s>|S_END
+<s>|S_START within|IN 12|CD hours|NNS of|IN each|DT scan|NN a|DT pathologist|NN then|RB performed|VBN a|DT conventional|JJ autopsy|NN so|IN that|IN dr|NN roberts|NNS could|MD compare|VB the|DT new|JJ methods|NNS with|IN the|DT old|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT scans|NNS were|VBD far|RB from|IN perfect|NN </s>|S_END
+<s>|S_START the|DT rate|NN of|IN discrepancy|NN between|IN the|DT cause|NN of|IN death|NN as|IN determined|VBN by|IN radiology|NN and|CC by|IN conventional|JJ autopsy|NN was|VBD 32|CD for|IN ct|NN scans|NNS 43|CD for|IN mri|NN and|CC 30|CD for|IN a|DT combination|NN of|IN ct|NN and|CC mri|NN </s>|S_END
+<s>|S_START the|DT scans|NNS also|RB had|VBD difficulty|NN showing|VBG heart|NN disease|NN a|DT common|JJ killer|NN </s>|S_END
+<s>|S_START however|RB radiologists|VBZ were|VBD good|JJ at|IN identifying|NN which|WDT diagnoses|NNS were|VBD sound|VBN and|CC which|WDT needed|VBN to|TO be|VB reevaluated|VBN by|IN a|DT full|JJ autopsy|NN </s>|S_END
+<s>|S_START when|WRB they|PRP felt|VBD confident|JJ in|IN their|PRP$ diagnoses—which|JJ was|VBD the|DT case|NN for|IN 34|CD of|IN ct|NN investigations|NNS and|CC 42|CD of|IN mris—the|NNP discrepancy|NN in|IN the|DT results|NNS was|VBD lower|JJR </s>|S_END
+<s>|S_START for|IN ct|NN scans|NNS it|PRP was|VBD just|RB 16|CD </s>|S_END
+<s>|S_START that|DT is|VBZ still|RB a|DT significant|JJ gap|NN </s>|S_END
+<s>|S_START but|CC not|RB all|DT of|IN it|PRP is|VBZ because|IN traditional|JJ methods|NNS are|VBP better|RBR </s>|S_END
+<s>|S_START in|IN one|CD case|NN scanning|NN revealed|VBD a|DT lethal|JJ stroke|NN that|WDT dissection|NN missed|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT this|DT suggests|VBZ that|IN scans|NNS might|MD play|VB a|DT useful|JJ role|NN in|IN determining|NN causes|NNS of|IN death|NN </s>|S_END
+<s>|S_START when|WRB a|DT radiologist|NN is|VBZ confident|JJ in|IN the|DT diagnosis|NN from|IN a|DT scan|NN a|DT traditional|JJ autopsy|NN might|MD be|VB unnecessary|JJ </s>|S_END
+<s>|S_START using|VBG scanners|NNS might|MD also|RB make|VB autopsies|NNS cheaper|JJR by|IN speeding|NN the|DT process|NN up|RP </s>|S_END
+<s>|S_START a|DT thorough|JJ study|NN of|IN the|DT costs|NNS of|IN both|DT approaches|NNS is|VBZ still|RB needed|VBN of|IN course|NN and|CC traditional|JJ autopsies|NNS are|VBP unlikely|RB to|TO disappear|VB completely|RB </s>|S_END
+<s>|S_START but|CC for|IN some|DT deaths|NNS a|DT scan|NN may|MD prove|VB better|JJR than|IN a|DT scalpel|NN </s>|S_END
+</p>|P_END
+

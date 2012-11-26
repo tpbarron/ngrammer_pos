@@ -1,0 +1,11 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 36|CD gdp|NN $|$ 49bn|CD ppp|CD $|$ 55bn|CD inflation|NN 63|CD population|NN 34m|CD gdp|NN per|IN head|NN $|$ 14610|CD ppp|CD $|$ 16150|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START president|NN josé|NN mujicas|VBZ centrist|NN reforms|NNS do|VBP not|RB appeal|VB to|TO leftwingers|NNS in|IN his|PRP$ frente|NN amplio|NN coalition|NN and|CC his|PRP$ main|NN challenge|NN is|VBZ to|TO maintain|VB discipline|NN on|IN the|DT government|NN benches|VBZ while|IN meeting|NN pledges|NNS on|IN civilservice|NN reform|NN education|NN and|CC infrastructure|NN </s>|S_END
+<s>|S_START he|PRP will|MD need|VB the|DT occasional|JJ support|NN of|IN the|DT rightwing|NN opposition|NN making|VBG the|DT challenge|NN all|DT the|DT tougher|NN </s>|S_END
+<s>|S_START he|PRP will|MD prevail|VB but|CC at|IN a|DT cost|NN to|TO the|DT pace|NN of|IN reform|NN </s>|S_END
+<s>|S_START after|IN expansions|NNS of|IN 85|CD and|CC 63|CD in|IN 2010|CD and|CC 2011|CD respectively|RB economic|JJ growth|NN will|MD moderate|VB to|TO a|DT more|RBR sustainable|JJ pace|NN </s>|S_END
+</p>|P_END
+

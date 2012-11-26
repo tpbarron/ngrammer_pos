@@ -1,0 +1,104 @@
+<p>|P_START
+<s>|S_START the|DT unemployment|NN rate|NN is|VBZ falling|VBG in|IN los|NNS angeles|NNS county|NN but|CC not|RB for|IN the|DT right|NN reasons|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT unemployment|NN rate|NN has|VBZ been|VBN falling|VBG lately|RB in|IN los|NNS angeles|NNS county|NN but|CC not|RB for|IN the|DT right|NN reasons|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START last|JJ month|NN the|DT jobless|NN rate|NN for|IN the|DT county|NN fell|VBD to|TO 11|CD down|IN from|IN 124|CD a|DT year|NN earlier|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN thats|NNS far|RB higher|JJR than|IN the|DT 81|CD unemployment|NN rate|NN for|IN the|DT nation|NN as|IN a|DT whole|JJ it|PRP nevertheless|VBZ seems|VBZ to|TO show|VB progress|NN for|IN the|DT city|NN of|IN angels|NNS right|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START wrong|JJ </s>|S_END
+<s>|S_START in|IN los|NNS angeles|NNS the|DT falling|VBG unemployment|NN rate|NN is|VBZ slightly|RB misleading|VBG just|RB as|IN it|PRP has|VBZ been|VBN for|IN the|DT country|NN overall|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB surveyed|VBN by|IN the|DT government|NN fewer|NN la|NN residents|NNS say|VBP theyre|NN unemployed|VBN compared|VBN to|TO a|DT year|NN ago|IN </s>|S_END
+<s>|S_START but|CC its|PRP$ not|RB because|IN theyre|JJ finding|NN jobs|NNS </s>|S_END
+<s>|S_START its|PRP$ because|IN theyre|JJ dropping|NN out|IN of|IN the|DT labor|NN force|NN altogether|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START just|RB over|IN 100000|CD of|IN workers|NNS have|VBP left|VBN the|DT los|NNS angeles|VBZ labor|NN force|NN since|IN the|DT beginning|NN of|IN the|DT year|NN according|VBG to|TO seasonally|RB adjusted|VBN data|NNS from|IN the|DT california|NN employment|NN development|NN department|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT decline|NN stands|VBZ in|IN stark|NN contrast|NN to|TO other|JJ major|JJ metropolitan|NN areas|NNS </s>|S_END
+<s>|S_START new|JJ york|NN chicago|RB washington|JJ dc|NN and|CC san|NN francisco|NN are|VBP all|DT seeing|VBG their|PRP$ labor|NN forces|NNS grow|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN whats|NNS going|VBG on|IN in|IN southern|NN california|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT real|JJ estate|NN boom|NN and|CC bust|NN hurt|NN la|NN far|RB more|RBR dramatically|RB than|IN those|DT other|JJ cities|NNS and|CC a|DT lack|NN of|IN construction|NN jobs|NNS may|MD partially|RB explain|VB why|WRB some|DT workers|NNS have|VBP stopped|VBN looking|VBG for|IN employment|NN </s>|S_END
+<s>|S_START construction|NN jobs|NNS have|VBP recently|RB started|VBN to|TO come|VB back|RB slowly|RB but|CC in|IN la|DT theyre|NN still|RB off|IN by|IN about|IN 50000|CD jobs|NNS from|IN 2007|CD levels|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START other|JJ large|JJ western|NN cities|NNS affected|VBD by|IN the|DT housing|NN bust|NN like|IN las|NNS vegas|VBP and|CC phoenix|NN have|VBP also|RB reported|VBN declining|VBG unemployment|NN rates|NNS over|IN the|DT last|JJ year|NN partly|RB due|JJ to|TO their|PRP$ shrinking|NN labor|NN force|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START check|NN the|DT unemployment|NN rate|NN in|IN your|PRP$ state|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT overall|JJ job|NN numbers|NNS in|IN los|NNS angeles|NNS are|VBP also|RB heavily|RB influenced|VBN by|IN its|PRP$ immigrant|JJ population|NN </s>|S_END
+<s>|S_START as|IN job|NN opportunities|NNS have|VBP waned|VBN particularly|RB in|IN lowskill|NN sectors|NNS so|RB too|RB has|VBZ immigration|NN to|TO the|DT city|NN </s>|S_END
+<s>|S_START data|NNS from|IN the|DT pew|NN hispanic|NN center|NN shows|VBZ immigration|NN numbers|NNS have|VBP dwindled|VBN and|CC vast|JJ numbers|NNS of|IN mexican|JJ immigrants|NNS have|VBP returned|VBN to|TO mexico|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN general|JJ these|DT folks|NNS have|VBP been|VBN moving|VBG back|RB or|CC simply|RB not|RB coming|VBG back|RB as|IN they|PRP have|VBP before|IN because|IN the|DT opportunities|NNS particularly|RB in|IN the|DT construction|NN industry|NN are|VBP simply|RB not|RB as|IN they|PRP used|VBD to|TO be|VB said|VBN christopher|RP thornberg|JJ founding|NN partner|NN of|IN beacon|NN economics|NNS a|DT firm|NN based|VBN in|IN los|NNS angeles|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT labor|NN force|NN refers|NNS both|DT to|TO people|NNS who|WP are|VBP working|VBG as|IN well|RB as|IN those|DT who|WP are|VBP actively|RB searching|VBG for|IN jobs|NNS </s>|S_END
+<s>|S_START people|NNS who|WP are|VBP retired|VBN enrolled|VBN in|IN college|NN or|CC staying|VBG home|NN to|TO take|VB care|NN of|IN relatives|NNS are|VBP not|RB included|VBN in|IN the|DT category|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB the|DT labor|NN force|NN declines|VBZ it|PRP can|MD be|VB the|DT result|NN of|IN a|DT broad|JJ demographic|JJ trend|NN for|IN example|NN more|JJR baby|NN boomers|NNS retiring|VBG or|CC more|JJR young|JJ people|NNS enrolling|VBG in|IN college|NN or|CC it|PRP can|MD be|VB a|DT worrisome|NN sign|NN of|IN people|NNS getting|VBG discouraged|JJ moving|NN away|RB and|CC giving|VBG up|RP on|IN the|DT job|NN market|NN altogether|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT latter|NN seems|VBZ to|TO be|VB the|DT case|NN in|IN los|NNS angeles|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT local|JJ economy|NN has|VBZ now|RB gone|VBN through|IN a|DT couple|NN of|IN very|RB severe|JJ cycles|NNS over|IN the|DT last|JJ 20|CD years|NNS and|CC we|PRP are|VBP concerned|VBN said|VBD robert|NN kleinhenz|NN chief|NN economist|NN at|IN the|DT los|NNS angeles|VBZ county|NN economic|JJ development|NN corporation|NN </s>|S_END
+<s>|S_START we|PRP still|RB have|VBP double|JJ digit|NN unemployment|NN rates|NNS here|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START buy|NN or|CC rent|NN </s>|S_END
+<s>|S_START los|NNS angeles|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START still|RB economists|VBZ caution|NN not|RB to|TO look|VB just|RB at|IN one|CD piece|NN of|IN data|NNS </s>|S_END
+<s>|S_START los|NNS angeles|NNS county|NN residents|NNS say|VBP they|PRP have|VBP fewer|JJR jobs|NNS than|IN they|PRP did|VBD a|DT year|NN ago|IN but|CC when|WRB the|DT government|NN surveyed|VBD employers|NNS last|JJ month|NN companies|NNS reported|VBD creating|VBG 74000|CD jobs|NNS over|IN the|DT year|NN the|DT largest|JJS increase|NN in|IN a|DT decade|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START youve|NN got|VBD to|TO reconcile|VB the|DT shrinking|NN labor|NN force|NN with|IN the|DT growing|VBG number|NN of|IN jobs|NNS which|WDT is|VBZ a|DT conundrum|NN said|VBD steve|NN levy|NN director|NN and|CC senior|JJ economist|NN of|IN the|DT center|NN for|IN continuing|VBG study|NN of|IN the|DT california|NN economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START part|NN of|IN the|DT disparity|NN could|MD mean|VB that|IN commuters|NNS who|WP live|JJ outside|IN the|DT county|NN are|VBP getting|VBG the|DT new|JJ jobs|NNS that|WDT are|VBP being|VBG created|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START la|NN has|VBZ hot|VBN industries|NNS but|CC those|DT people|NNS may|MD not|RB live|VB in|IN los|NNS angeles|NNS levy|VBP said|VBD </s>|S_END
+<s>|S_START they|PRP may|MD live|VB in|IN surrounding|NN areas|NNS like|IN orange|NN county|NN </s>|S_END
+</p>|P_END
+

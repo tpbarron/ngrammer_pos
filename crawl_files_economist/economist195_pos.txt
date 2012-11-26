@@ -1,0 +1,33 @@
+<p>|P_START
+<s>|S_START how|WRB many|JJ tropical|JJ atlantic|JJ hurricanes|NNS will|MD there|VB be|VB in|IN the|DT next|JJ 25|CD year|NN </s>|S_END
+<s>|S_START in|IN 1970|CD the|DT answer|NN would|MD have|VB been|VBN 122|CD but|CC this|DT increased|VBN dramatically|RB to|TO 164|CD for|IN the|DT most|JJS recent|JJ 25|CD year|NN </s>|S_END
+<s>|S_START is|VBZ this|DT a|DT sign|NN of|IN manmade|NN climate|NN change|NN </s>|S_END
+<s>|S_START possibly|RB because|IN hurricanes|NNS gain|VBP their|PRP$ energy|NN from|IN the|DT oceans|NNS which|WDT seem|VBP to|TO have|VB warmed|VBN under|IN human|JJ influence|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB hurricane|VBP numbers|NNS vary|JJ naturally|RB too|RB </s>|S_END
+<s>|S_START it|PRP turns|VBZ out|RP that|IN it|PRP is|VBZ the|DT pattern|NN of|IN ocean|JJ temperatures|NNS globally|RB rather|RB than|IN just|RB those|DT in|IN the|DT hurricane|NN region|NN which|WDT controls|NNS hurricane|VBP number|NN </s>|S_END
+<s>|S_START this|DT is|VBZ because|IN hurricanes|NNS are|VBP also|RB sensitive|JJ to|TO winds|NNS in|IN the|DT upper|JJ atmosphere|NN which|WDT slice|NN storms|VBZ apart|NN when|WRB these|DT blow|NN too|RB strongly|RB preventing|VBG them|PRP from|IN developing|VBG into|IN hurricane|NN </s>|S_END
+<s>|S_START and|CC upperatmosphere|VBD winds|NNS in|IN the|DT hurricane|NN region|NN are|VBP affected|VBN by|IN conditions|NNS in|IN distant|JJ oceans|NNS especially|RB in|IN the|DT north|JJ atlantic|JJ and|CC the|DT tropical|JJ pacific|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT implication|NN is|VBZ that|IN if|IN we|PRP could|MD predict|VB the|DT changing|NN patterns|VBZ of|IN ocean|JJ temperature|NN whatever|NN their|PRP$ cause|NN then|RB we|PRP could|MD also|RB predict|VB hurricane|NN numbers|NNS the|DT chart|NN shows|VBZ our|PRP$ median|JJ forecast|NN to|TO 2014|CD for|IN surface|NN temperature|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START other|JJ potential|JJ gains|NNS are|VBP predictions|NNS of|IN devastating|VBG multiyear|JJ droughts|NNS such|JJ as|IN that|DT in|IN the|DT african|JJ sahel|NN during|IN the|DT 1970s|CD and|CC 1980s|CD or|CC the|DT likelihood|NN of|IN the|DT opening|VBG of|IN the|DT northwest|JJS passage|NN which|WDT would|MD allow|VB arctic|JJ shipping|NN route|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START climate|NN scientists|NNS are|VBP now|RB making|VBG serious|JJ attempts|NNS at|IN this|DT taking|NN into|IN account|NN both|DT expected|VBN human|NN influences|NNS and|CC natural|JJ variations|NNS by|IN starting|VBG from|IN the|DT actual|JJ patterns|NNS of|IN ocean|JJ temperatures|NNS in|IN the|DT same|JJ way|NN that|IN forecasts|NNS of|IN tomorrows|NNS weather|VBP must|MD start|VB from|IN todays|NNS observation|NN </s>|S_END
+<s>|S_START uccess|NN will|MD require|VB improved|VBN understanding|NN of|IN climate|NN processes|NNS continued|VBD increases|NNS in|IN computer|NN power|NN which|WDT will|MD lead|VB to|TO more|JJR accurate|JJ climate|NN models|NNS and|CC sustained|VBD observations|NNS especially|RB beneath|JJ the|DT ocean|JJ surface|NN </s>|S_END
+<s>|S_START weather|NN forecasters|NNS were|VBD in|IN a|DT similar|JJ position|NN 25|CD years|NNS ago|IN </s>|S_END
+<s>|S_START if|IN their|PRP$ progress|NN is|VBZ any|DT guide|NN then|RB the|DT next|JJ generation|NN of|IN planners|NNS and|CC policymakers|NNS will|MD benefit|VB from|IN increasingly|RB accurate|JJ predictions|NNS of|IN climate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START doug|NN smith|IN head|NN of|IN decadal|JJ climate|NN prediction|NN research|NN the|DT met|NN office|NN </s>|S_END
+</p>|P_END
+

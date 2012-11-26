@@ -1,0 +1,92 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN republican|NN presidential|JJ candidate|NN mitt|NN romney|NN made|VBD $|$ 427|CD million|CD over|IN the|DT past|JJ two|CD years|NNS and|CC paid|VBD $|$ 62|CD million|CD in|IN taxes|NNS according|VBG to|TO documents|NNS released|VBN tuesday|NN by|IN his|PRP$ campaign|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romney|NN and|CC his|PRP$ wife|NN ann|NN filed|VBN a|DT joint|JJ 1040|CD reporting|VBG $|$ 217|CD million|CD in|IN 2010|CD income|NN and|CC $|$ 3|CD million|CD in|IN federal|JJ taxes|NNS </s>|S_END
+<s>|S_START they|PRP also|RB said|VBD their|PRP$ 2011|CD income|NN was|VBD $|$ 21|CD million|CD and|CC tax|NN bill|NN was|VBD $|$ 32|CD million|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START over|IN the|DT two|CD years|NNS romneys|NNS effective|JJ tax|NN rate|NN the|DT percentage|NN of|IN his|PRP$ income|NN that|IN he|PRP owed|VBD in|IN federal|JJ income|NN taxes|NNS was|VBD 145|CD </s>|S_END
+<s>|S_START see|NN correction|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nevertheless|RB and|CC contrary|JJ to|TO popular|JJ perception|NN romneys|NNS effective|JJ federal|JJ income|NN tax|NN rate|NN is|VBZ still|RB above|IN that|DT of|IN many|JJ americans|NNS 80|CD of|IN whom|WP have|VBP an|DT effective|JJ rate|NN below|IN 15|CD </s>|S_END
+<s>|S_START that|DT tax|NN rate|NN is|VBZ higher|JJR when|WRB other|JJ federal|JJ taxes|NNS such|JJ as|IN the|DT payroll|NN tax|NN are|VBP included|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT reason|NN romneys|NNS rate|NN is|VBZ so|RB low|JJ despite|IN having|VBG one|CD of|IN the|DT highest|JJS incomes|NNS in|IN the|DT country|NN is|VBZ because|IN his|PRP$ income|NN was|VBD derived|VBN almost|RB entirely|RB from|IN capital|NN gains|NNS and|CC dividends|NNS from|IN his|PRP$ extensive|JJ portfolio|NN of|IN investments|NNS </s>|S_END
+<s>|S_START and|CC that|DT form|NN of|IN investment|NN income|NN is|VBZ typically|RB taxed|VBN at|IN just|RB 15|CD well|RB below|IN the|DT 35|CD top|JJ tax|NN rate|NN for|IN high|JJ earners|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT reason|NN he|PRP had|VBD extensive|JJ itemized|VBN deductions|NNS which|WDT lowered|VBN his|PRP$ overall|JJ tax|NN liability|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT big|JJ part|NN of|IN those|DT deductions|NNS were|VBD charitable|JJ contributions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romney|NN and|CC his|PRP$ wife|NN ann|NN gave|VBD away|RB more|JJR than|IN $|$ 7|CD million|CD over|IN the|DT past|JJ two|CD years|NNS or|CC about|IN 16|CD of|IN their|PRP$ income|NN </s>|S_END
+<s>|S_START of|IN that|DT $|$ 41|CD million|CD went|NN to|TO the|DT church|NN of|IN jesus|NN christ|NN of|IN latterday|NN saints|NNS to|TO which|WDT they|PRP belong|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START his|PRP$ investment|NN income|NN romney|NN took|VBD in|IN $|$ 217|CD million|CD in|IN longterm|JJ capital|NN gains|NNS over|IN the|DT past|JJ two|CD years|NNS </s>|S_END
+<s>|S_START of|IN that|DT $|$ 129|CD million|CD was|VBD in|IN socalled|VBN carried|VBN interest|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START carried|VBD interest|NN is|VBZ a|DT share|NN of|IN profits|NNS paid|VBN to|TO general|JJ partners|NNS at|IN private|JJ equity|NN firms|NNS such|JJ as|IN bain|NN capital|NN which|WDT romney|NN left|VBD in|IN 1999|CD </s>|S_END
+<s>|S_START general|JJ partners|NNS manage|NN the|DT firms|NNS investments|NNS </s>|S_END
+<s>|S_START if|IN those|DT investments|NNS are|VBP sold|VBN at|IN a|DT profit|NN the|DT carried|VBN interest|NN represents|NNS a|DT portion|NN of|IN those|DT profits|NNS above|IN a|DT minimum|JJ rate|NN of|IN return|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romneys|NNS retirement|VBD package|NN from|IN bain|NN entitled|VBD him|PRP to|TO continue|VB to|TO share|VB in|IN profits|NNS from|IN the|DT firms|NNS work|VBP according|VBG to|TO his|PRP$ financial|JJ disclosure|NN form|NN on|IN file|NN at|IN the|DT federal|JJ election|NN commission|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romney|NN has|VBZ been|VBN under|IN pressure|NN for|IN weeks|NNS by|IN questions|NNS of|IN whether|IN and|CC when|WRB he|PRP would|MD release|VB his|PRP$ tax|NN returns|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT romney|NN campaign|NN released|VBD more|JJR than|IN 500|CD pages|NNS of|IN tax|NN documents|NNS on|IN tuesday|NN including|VBG estimates|NNS for|IN 2011|CD </s>|S_END
+<s>|S_START the|DT returns|NNS were|VBD prepared|VBN by|IN accounting|NN giant|JJ pricewaterhousecoopers|NNS the|DT romney|NN campaign|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START newt|NN gingrich|NN his|PRP$ main|NN rival|NN for|IN the|DT gop|NN nomination|NN last|JJ week|NN revealed|VBD his|PRP$ 2010|CD tax|NN form|NN </s>|S_END
+<s>|S_START he|PRP made|VBD $|$ 32|CD million|CD and|CC paid|VBD an|DT effective|JJ tax|NN rate|NN of|IN 31|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START opponents|NNS said|VBD voters|NNS deserved|VBN to|TO know|VB early|JJ if|IN there|EX were|VBD any|DT financial|JJ issues|NNS that|WDT could|MD put|VB the|DT presumptive|JJ nominees|NNS bid|NN for|IN the|DT white|JJ house|NN in|IN jeopardy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romney|NN whose|VBD financial|JJ disclosure|NN form|NN puts|NNS his|PRP$ net|JJ worth|NN as|IN high|JJ as|IN $|$ 264|CD million|CD is|VBZ one|CD of|IN the|DT wealthiest|JJS candidates|NNS in|IN history|NN to|TO seek|VB the|DT us|PRP presidency|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN a|DT call|NN with|IN reporters|NNS tuesday|VBP romney|NN campaign|NN advisers|NNS pushed|VBD back|RP against|IN reports|NNS that|IN romney|NN had|VBD sought|VBN to|TO avoid|VB taxes|NNS by|IN putting|VBG some|DT of|IN his|PRP$ money|NN in|IN the|DT cayman|NN islands|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START brad|NN malt|VBD a|DT lawyer|NN who|WP serves|VBZ as|IN trustee|NN of|IN the|DT romneys|NNS blind|VBP trusts|NNS said|VBD romney|NN pays|NNS all|DT us|PRP taxes|VBZ on|IN income|NN from|IN the|DT trusts|NNS foreign|JJ investments|NNS </s>|S_END
+<s>|S_START further|RB he|PRP said|VBD romney|NN has|VBZ no|DT role|NN in|IN choosing|NN how|WRB the|DT blind|JJ trusts|NNS invest|VBP his|PRP$ money|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT blind|JJ trust|NN investments|NNS in|IN the|DT cayman|NN funds|NNS are|VBP taxed|VBN exactly|RB as|IN if|IN gov|NN </s>|S_END
+<s>|S_START romney|NN owned|VBN his|PRP$ share|NN of|IN the|DT funds|NNS in|IN the|DT united|VBN states|NNS malt|VBP said|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START correction|NN an|DT earlier|JJR version|NN of|IN this|DT article|NN incorrectly|RB stated|VBD the|DT twoyear|NN effective|JJ tax|NN rate|NN by|IN using|VBG romneys|NNS 2010|CD rate|NN alone |-NONE- </s>|S_END
+</p>|P_END
+

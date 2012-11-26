@@ -1,0 +1,37 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN in|IN early|JJ march|NN hackers|NNS stole|VBP roughly|RB 15|CD million|CD credit|NN card|NN numbers|NNS from|IN payment|NN processor|NN global|JJ payments|NNS a|DT company|NN that|WDT processes|VBZ card|NN transactions|NNS for|IN companies|NNS like|IN visa|NN and|CC mastercard|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fortunately|RB the|DT thieves|NNS only|RB swiped|VBD card|NN numbers|NNS and|CC not|RB cardholders|NNS names|VBZ addresses|NNS or|CC social|JJ security|NN numbers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN hackers|NNS ever|RB steal|JJ your|PRP$ information|NN heres|NNS what|WP you|PRP can|MD do|VB to|TO protect|VB your|PRP$ accounts|NNS according|VBG to|TO lynnette|VB khalfanicox|NN a|DT personal|JJ finance|NN expert|NN and|CC author|NN of|IN perfect|NN credit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START contact|NN the|DT credit|NN reporting|VBG agencies|NNS </s>|S_END
+<s>|S_START experian|JJ equifax|NN and|CC transunion|NN can|MD put|VB a|DT fraud|NN alert|NN on|IN your|PRP$ credit|NN report|NN so|RB no|RB one|CD else|NN can|MD open|VB other|JJ accounts|NNS in|IN your|PRP$ name|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START file|NN a|DT police|NN report|NN </s>|S_END
+<s>|S_START its|PRP$ a|DT key|JJ document|NN that|WDT serves|VBZ as|RB proof|JJ if|IN say|NN your|PRP$ wallet|NN was|VBD stolen|VBN with|IN credit|NN cards|NNS or|CC social|JJ security|NN numbers|NNS inside|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START consider|NN signing|VBG up|RP for|IN a|DT credit|NN monitoring|VBG service|NN </s>|S_END
+<s>|S_START often|RB a|DT company|NN whose|WP$ security|NN has|VBZ been|VBN breached|VBN will|MD offer|VB credit|NN monitoring|VBG to|TO affected|JJ cardholders|NNS for|IN free|JJ </s>|S_END
+<s>|S_START they|PRP will|MD actively|RB monitor|VB your|PRP$ credit|NN reports|NNS with|IN the|DT three|CD major|JJ bureaus|NN for|IN a|DT period|NN of|IN time|NN after|IN your|PRP$ information|NN has|VBZ been|VBN stolen|VBN </s>|S_END
+<s>|S_START you|PRP will|MD be|VB alerted|VBN if|IN anything|NN suspicious|JJ comes|NNS up|IN like|IN changes|NNS made|VBN to|TO your|PRP$ account|NN information|NN credit|NN inquiries|NNS or|CC a|DT new|JJ account|NN opened|VBN in|IN your|PRP$ name|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN online|NN purchases|NNS try|VBP a|DT singleuse|NN or|CC virtual|JJ credit|NN card|NN </s>|S_END
+<s>|S_START this|DT option|NN offered|VBD by|IN banks|NNS like|IN citibank|NN discover|NN and|CC bank|NN of|IN america|NN offers|NNS a|DT different|JJ number|NN than|IN your|PRP$ main|NN credit|NN card|NN </s>|S_END
+<s>|S_START that|DT way|NN if|IN hackers|NNS steal|VBP your|PRP$ account|NN information|NN from|IN the|DT retailer|NN they|PRP dont|VBP have|VBP the|DT number|NN for|IN your|PRP$ main|NN credit|NN card|NN </s>|S_END
+<s>|S_START you|PRP can|MD also|RB set|VB a|DT limit|NN for|IN how|WRB much|JJ can|MD be|VB charged|VBN against|IN the|DT virtual|JJ card|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

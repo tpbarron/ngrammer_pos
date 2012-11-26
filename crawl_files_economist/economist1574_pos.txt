@@ -1,0 +1,83 @@
+<p>|P_START
+<s>|S_START wall|NN street|VBD is|VBZ popularly|RB assumed|VBN to|TO love|VB the|DT republican|JJ party|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ a|DT fair|JJ bet|NN that|WDT most|JJS bankers|NNS and|CC investors|NNS will|MD be|VB rooting|VBG for|IN mitt|NN romney|NN to|TO move|VB into|IN the|DT white|JJ house|NN next|IN year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC in|IN an|DT industry|NN devoted|VBN to|TO numbercrunching|NN is|VBZ that|IN bias|NN borne|NN out|IN by|IN the|DT data|NNS </s>|S_END
+<s>|S_START ince|NN 1929|CD republican|JJ presidents|NNS have|VBP had|VBN ten|VBN full|JJ terms|NNS in|IN office|NN </s>|S_END
+<s>|S_START the|DT average|JJ annual|JJ real|JJ price|NN change|NN in|IN american|JJ equities|NNS over|IN this|DT period|NN is|VBZ slightly|RB less|JJR than|IN zero|CD according|VBG to|TO barclays|NNS capital’s|NNS “equity|NN gilt|NN study”|NN see|NN chart|NN </s>|S_END
+<s>|S_START the|DT average|JJ real|JJ price|NN gain|NN in|IN years|NNS of|IN democratic|JJ presidencies|NNS has|VBZ been|VBN 7|CD </s>|S_END
+<s>|S_START in|IN nominal|JJ terms|NNS the|DT democrats|NNS have|VBP walloped|VBN the|DT republicans|NNS by|IN 108|CD to|TO 27|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT data|NNS are|VBP skewed|VBN a|DT bit|NN by|IN the|DT start|NN date|NN the|DT year|NN of|IN the|DT wall|NN street|NN crash|NN </s>|S_END
+<s>|S_START but|CC even|RB if|IN herbert|NN hoover’s|NNS presidency|NN is|VBZ excluded|VBN the|DT democrats|NNS remain|VBP well|RB ahead|RB </s>|S_END
+<s>|S_START republicans|NNS also|RB presided|VBD over|IN the|DT calamitous|JJ stockmarket|NN declines|NNS of|IN 19731974|CD and|CC 2008|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START investors|NNS own|VBP government|NN bonds|NNS as|IN well|RB as|IN equities|NNS of|IN course|NN and|CC here|RB the|DT republicans|NNS are|VBP ahead|RB </s>|S_END
+<s>|S_START the|DT average|JJ annual|JJ nominal|JJ gain|NN in|IN the|DT barclays|NNS us|PRP bond|VBP index|NN has|VBZ been|VBN 19|CD under|IN republican|JJ presidents|NNS under|IN democrats|NNS there|EX has|VBZ been|VBN an|DT average|JJ loss|NN of|IN just|RB under|IN 1|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START perhaps|RB the|DT difference|NN between|IN equity|NN and|CC bond|NN performances|NNS under|IN the|DT two|CD parties|NNS is|VBZ down|IN to|TO their|PRP$ economic|JJ record|NN </s>|S_END
+<s>|S_START the|DT democrats|NNS are|VBP generally|RB perceived|VBN to|TO have|VB an|DT inflationarykeynesian|JJ bias|NN lyndon|NN johnson|NN springs|NNS to|TO mind|VB the|DT republicans|NNS a|DT penchant|NN for|IN sound|NN money|NN and|CC a|DT balanced|JJ budget|NN dwight|NN eisenhower|NN would|MD be|VB the|DT model|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT average|JJ inflation|NN rate|NN under|IN democrats|NNS has|VBZ indeed|VBN been|VBN a|DT bit|NN higher—35|-NONE- compared|VBN with|IN 3|CD under|IN republican|JJ </s>|S_END
+<s>|S_START but|CC this|DT does|VBZ not|RB seem|VB enough|JJ to|TO explain|VB the|DT difference|NN in|IN bond|NN performance|NN between|IN the|DT two|CD partie|NN </s>|S_END
+<s>|S_START and|CC in|IN this|DT case|NN the|DT inclusion|NN of|IN hoover’s|JJ presidency|NN flatters|NNS the|DT republicans|NNS substantially|RB lowering|VBG the|DT average|JJ inflation|NN rate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP may|MD be|VB that|IN wall|DT street|NN prefers|NNS the|DT republicans|NNS because|IN the|DT party|NN favours|NNS the|DT betteroff|NN </s>|S_END
+<s>|S_START here|RB the|DT answer|NN is|VBZ nuanced|VBN </s>|S_END
+<s>|S_START in|IN his|PRP$ book|NN “unequal|JJ democracy|NN the|DT political|JJ economy|NN of|IN the|DT new|JJ gilded|JJ age”|NN larry|NN bartels|NNS calculates|VBZ that|IN between|IN 1952|CD and|CC 2004|CD the|DT average|JJ annual|JJ real|JJ posttax|NN income|NN gain|NN for|IN the|DT rich|JJ defined|VBN as|IN those|DT in|IN the|DT 80th|JJ percentile|NN of|IN income|NN was|VBD 137|CD when|WRB democrats|NNS were|VBD in|IN the|DT white|JJ house|NN and|CC just|RB 092|CD when|WRB republicans|NNS were|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START interestingly|RB when|WRB mr|NN bartels|VBZ looks|NNS at|IN the|DT real|JJ posttax|NN income|NN growth|NN of|IN the|DT poor|JJ defined|VBN as|IN those|DT at|IN the|DT 20th|CD percentile|NN of|IN earnings|NNS the|DT picture|NN looks|VBZ rather|RB different|JJ </s>|S_END
+<s>|S_START their|PRP$ income|NN increased|VBD by|IN 156|CD a|DT year|NN under|IN democrats|NNS and|CC declined|VBD by|IN 032|CD a|DT year|NN under|IN republican|JJ </s>|S_END
+<s>|S_START in|IN other|JJ words|NNS the|DT gap|NN between|IN the|DT rich|JJ and|CC the|DT rest|NN grew|VBD substantially|RB wider|JJR under|IN republican|JJ administration|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT these|DT data|NNS are|VBP subject|JJ to|TO caveat|VB </s>|S_END
+<s>|S_START first|JJ there|EX are|VBP only|RB 14|CD presidents|NNS in|IN the|DT sample|NN </s>|S_END
+<s>|S_START econd|NN the|DT president|NN shares|NNS power|NN with|IN an|DT often|RB recalcitrant|JJ congre|NN </s>|S_END
+<s>|S_START for|IN 30|CD out|IN of|IN their|PRP$ 40|CD years|NNS in|IN office|NN since|IN 1929|CD republican|JJ presidents|NNS have|VBP not|RB had|VBN control|NN of|IN both|DT houses|NNS of|IN congress|NN democratic|JJ presidents|NNS have|VBP shared|VBN power|NN in|IN only|RB ten|VBN out|RP of|IN their|PRP$ 44|CD years|NNS in|IN charge|NN </s>|S_END
+<s>|S_START yet|RB if|IN you|PRP look|VBP at|IN the|DT ten|NNS years|NNS where|WRB republicans|NNS had|VBD complete|JJ control|NN the|DT average|JJ real|JJ equity|NN return|NN is|VBZ still|RB negative|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT third|JJ caveat|NN is|VBZ that|IN economic|JJ policy|NN is|VBZ also|RB set|VBN by|IN the|DT federal|JJ reserve|NN </s>|S_END
+<s>|S_START if|IN there|EX have|VBP been|VBN two|CD moments|NNS in|IN the|DT past|JJ century|NN when|WRB fed|VBN policy|NN has|VBZ been|VBN most|RBS awry|JJ it|PRP was|VBD probably|RB in|IN the|DT early|JJ 1930s|CD when|WRB policy|NN was|VBD too|RB tight|JJ and|CC the|DT mid1970s|NNP when|WRB it|PRP was|VBD too|RB loose|JJ </s>|S_END
+<s>|S_START both|DT periods|NNS coincided|VBD initially|RB at|IN least|JJS with|IN republicans|NNS in|IN the|DT white|JJ house|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fourth|JJ health|NN warning|NN is|VBZ that|IN presidents|NNS of|IN both|DT parties|NNS can|MD be|VB blown|VBN off|RP course|NN by|IN shocks|NNS elsewhere|RB in|IN the|DT global|JJ economy|NN such|JJ as|IN the|DT quadrupling|NN of|IN oil|NN prices|NNS in|IN 197374|CD </s>|S_END
+<s>|S_START o|NN a|DT coincidence|NN of|IN good|JJ and|CC bad|JJ returns|NNS with|IN presidencies|NNS of|IN both|DT parties|NNS is|VBZ not|RB proof|IN of|IN causation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START looking|VBG ahead|RB to|TO the|DT next|JJ four|CD years|NNS are|VBP there|RB sound|VBN reasons|NNS for|IN investors|NNS to|TO favour|VB republican|JJ </s>|S_END
+<s>|S_START mr|NN romney|NN a|DT former|JJ privateequity|NN executive|NN is|VBZ unsurprisingly|RB less|JJR keen|IN on|IN red|VBN tape|NN and|CC soaking|VBG the|DT rich|JJ than|IN mr|NN obama|NN which|WDT may|MD explain|VB a|DT lot|NN of|IN his|PRP$ support|NN on|IN wall|NN street|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC if|IN as|IN still|RB seems|VBZ unlikely|RB republicans|VBZ were|RB to|TO win|VB the|DT presidency|NN and|CC both|DT arms|NNS of|IN congress|NN this|DT year|NN they|PRP would|MD probably|RB try|VB to|TO trim|VB the|DT deficit|NN more|JJR quickly|RB than|IN the|DT democrats|NNS albeit|NN via|IN spending|NN cuts|NNS rather|RB than|IN tax|NN hike|IN </s>|S_END
+<s>|S_START they|PRP have|VBP vehemently|RB opposed|VBN the|DT use|NN of|IN quantitative|JJ easing|NN qe|NN by|IN the|DT federal|JJ reserve|NN </s>|S_END
+<s>|S_START perhaps|RB they|PRP would|MD change|VB their|PRP$ minds|NNS if|IN they|PRP were|VBD in|IN power|NN </s>|S_END
+<s>|S_START but|CC a|DT combination|NN of|IN tighter|NN fiscal|JJ and|CC monetary|JJ policy|NN would|MD provide|VB a|DT tough|JJ environment|NN for|IN equity|NN markets|NNS in|IN 2013|CD and|CC 2014|CD </s>|S_END
+<s>|S_START the|DT suits|NNS on|IN the|DT street|NN should|MD be|VB careful|JJ what|WP they|PRP wish|VBP for|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogsbuttonwood|NN </s>|S_END
+</p>|P_END
+

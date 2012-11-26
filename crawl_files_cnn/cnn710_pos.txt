@@ -1,0 +1,46 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN claims|VBZ for|IN unemployment|NN benefits|NNS fell|VBD last|JJ week|NN as|IN hurricane|NN sandy|NN led|VBD to|TO power|NN outages|NNS and|CC closed|VBD offices|NNS on|IN the|DT east|JJ coast|NN and|CC kept|VBD many|JJ people|NNS from|IN filing|VBG claims|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START about|IN 355000|CD people|NNS filed|VBN for|IN firsttime|NN unemployment|NN benefits|NNS in|IN the|DT week|NN ended|VBD november|NN 3|CD down|IN 8000|CD from|IN the|DT previous|JJ week|NN the|DT labor|NN department|NN said|VBD thursday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT level|NN is|VBZ the|DT lowest|JJS in|IN a|DT month|NN but|CC it|PRP reflects|VBZ data|NNS that|IN was|VBD distorted|VBN by|IN the|DT storm|NN </s>|S_END
+<s>|S_START at|IN least|JJS one|CD state|NN was|VBD not|RB able|JJ to|TO process|NN claims|NNS due|JJ to|TO power|NN outages|NNS a|DT labor|NN department|NN official|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN of|IN thursday|NN morning|NN new|JJ jerseys|NNS department|NN of|IN labor|NN and|CC workforce|NN development|NN was|VBD experiencing|VBG delays|NNS in|IN processing|NN claims|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START due|JJ to|TO sandy|JJ and|CC the|DT higher|JJR than|IN normal|JJ volume|NN of|IN unemployment|NN insurance|NN filings|NNS the|DT system|NN is|VBZ experiencing|VBG some|DT delays|NNS its|PRP$ website|JJ said|VBD </s>|S_END
+<s>|S_START please|NN be|VB patient|NN </s>|S_END
+<s>|S_START our|PRP$ technical|JJ team|NN is|VBZ working|VBG on|IN the|DT problem|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START claims|NNS are|VBP likely|JJ to|TO head|VB higher|JJR in|IN the|DT following|JJ week|NN as|IN the|DT storm|NN damage|NN led|VBD to|TO temporary|VB job|NN losses|NNS </s>|S_END
+<s>|S_START in|IN the|DT hardest|NN hit|VBD areas|NNS schools|NNS were|VBD closed|VBN for|IN more|JJR than|IN a|DT week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START schools|NNS alone|RB can|MD cause|VB major|JJ disruptions|NNS to|TO the|DT initial|JJ claims|NNS data|NNS when|WRB theyre|NN closed|VBD unexpectedly|RB as|IN contract|NN workers|NNS like|IN cafeteria|NN servers|NNS janitors|NNS and|CC bus|VBZ drivers|NNS can|MD file|VB unemployment|NN claims|NNS when|WRB theyre|NN not|RB working|VBG even|RB if|IN its|PRP$ merely|RB temporarily|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sandy|NN victims|NNS can|MD get|VB unemployment|NN help|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT national|JJ unemployment|NN rate|NN was|VBD 79|CD in|IN october|NN as|IN 123|CD million|CD people|NNS were|VBD counted|VBN as|IN officially|RB unemployed|VBN </s>|S_END
+<s>|S_START not|RB all|DT of|IN those|DT people|NNS receive|JJ benefits|NNS though|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN of|IN the|DT last|JJ week|NN in|IN october|NN 31|CD million|CD people|NNS filed|VBN claims|NNS for|IN their|PRP$ second|JJ week|NN or|CC more|JJR of|IN jobless|NN benefits|NNS </s>|S_END
+<s>|S_START thats|NNS down|IN about|IN 500000|CD from|IN a|DT year|NN ago|IN </s>|S_END
+</p>|P_END
+

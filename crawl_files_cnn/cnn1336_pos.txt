@@ -1,0 +1,35 @@
+<p>|P_START
+<s>|S_START dupont|NN plans|NNS to|TO cut|VB 1500|CD jobs|NNS worldwide|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN chemical|NN company|NN dupont|NN announced|VBD tuesday|NN it|PRP would|MD cut|VB about|IN 1500|CD jobs|NNS worldwide|VBP or|CC about|IN 2|CD of|IN its|PRP$ global|JJ work|NN force|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT company|NN said|VBD it|PRP will|MD make|VB the|DT cuts|NNS over|IN the|DT next|JJ 12|CD to|TO 18|CD months|NNS as|IN part|NN of|IN an|DT effort|NN to|TO trim|VB costs|NNS by|IN $|$ 450|CD million|CD </s>|S_END
+<s>|S_START but|CC the|DT costcutting|NN effort|NN resulted|VBD in|IN $|$ 342|CD million|CD in|IN aftertax|NN charges|NNS in|IN the|DT most|RBS recent|JJ quarter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dupont|NN disclosed|VBD its|PRP$ plans|NNS as|IN it|PRP reported|VBD a|DT largerthanexpected|VBN drop|NN in|IN operating|NN earnings|NNS in|IN the|DT third|JJ quarter|NN </s>|S_END
+<s>|S_START it|PRP also|RB lowered|VBD its|PRP$ earnings|NNS guidance|NN for|IN this|DT year|NN warning|VBG that|IN its|PRP$ income|NN would|MD be|VB down|RB for|IN the|DT period|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD dupont|VBN ceo|NN on|IN motivating|NN the|DT troops|NNS in|IN times|NNS of|IN crisis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT company|NN had|VBD 70000|CD employees|NNS worldwide|IN at|IN the|DT end|NN of|IN last|JJ year|NN up|IN from|IN 60000|CD a|DT year|NN earlier|JJR </s>|S_END
+<s>|S_START dupont|NN would|MD not|RB give|VB any|DT details|NNS about|IN where|WRB the|DT jobs|NNS to|TO be|VB eliminated|VBN are|VBP located|VBN in|IN its|PRP$ global|JJ operations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shares|NNS of|IN dupont|NN dd|NN fortune|NN 500|CD a|DT component|NN of|IN the|DT dow|NN jones|NNS industrial|JJ average|NN fell|VBD nearly|RB 9|CD in|IN midday|NN trading|NN on|IN the|DT earnings|NNS report|NN and|CC outlook|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN august|NN the|DT carlyle|NN group|NN cg|NN agreed|VBD to|TO acquire|VB duponts|NNS vehicle|NN and|CC industrial|JJ coatings|NNS business|NN for|IN $|$ 49|CD billion|CD </s>|S_END
+</p>|P_END
+

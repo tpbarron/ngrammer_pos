@@ -1,0 +1,106 @@
+<p>|P_START
+<s>|S_START business|NN will|MD be|VB easier|JJR in|IN 2010|CD though|IN that|DT is|VBZ not|RB saying|VBG much|RB </s>|S_END
+<s>|S_START companies|NNS have|VBP suffered|VBN a|DT long|JJ and|CC ferocious|JJ beating|NN </s>|S_END
+<s>|S_START many|JJ have|VBP expired|VBN </s>|S_END
+<s>|S_START but|CC the|DT tougher|NN ones|NNS will|MD emerge|VB leaner|NN and|CC stronger|JJR and|CC ready|JJ to|TO seize|VB the|DT opportunities|NNS that|WDT a|DT gradual|JJ recovery|NN will|MD offer|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START america|NN was|VBD the|DT first|JJ to|TO stumble|JJ and|CC it|PRP will|MD be|VB among|IN the|DT first|JJ to|TO pick|VB itself|PRP up|RP </s>|S_END
+<s>|S_START after|IN a|DT painful|JJ bout|NN of|IN costcutting|VBG and|CC jobshedding|VBG executives|NNS in|IN the|DT united|VBN states|NNS are|VBP confident|JJ that|IN business|NN will|MD soon|RB start|VB to|TO recover|VB according|VBG to|TO a|DT survey|NN by|IN mckinsey|NN a|DT consultancy|NN </s>|S_END
+<s>|S_START asians|NNS are|VBP optimistic|JJ too|RB especially|RB in|IN china|NN </s>|S_END
+<s>|S_START firms|NNS in|IN the|DT euro|NN zone|NN are|VBP the|DT gloomiest|JJS </s>|S_END
+<s>|S_START the|DT global|JJ recovery|NN will|MD not|RB be|VB quick|JJ however|NN </s>|S_END
+<s>|S_START there|EX is|VBZ still|RB a|DT risk|NN of|IN a|DT doubledip|NN recession|NN </s>|S_END
+<s>|S_START and|CC it|PRP is|VBZ clear|JJ that|IN business|NN will|MD not|RB be|VB the|DT same|JJ after|IN the|DT crisis|NN as|IN it|PRP was|VBD before|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START firms|NNS will|MD be|VB warier|JJR of|IN leverage|NN </s>|S_END
+<s>|S_START those|DT that|DT borrowed|VBN too|RB much|RB will|MD suffer|VB and|CC possibly|RB die|VB </s>|S_END
+<s>|S_START those|DT with|IN stronger|JJR balancesheets|NNS will|MD gobble|VB up|RP their|PRP$ rivals|NNS or|CC seduce|VB their|PRP$ customer|NN </s>|S_END
+<s>|S_START entrepreneurial|JJ firms|NNS will|MD displace|VB market|NN leaders|NNS as|IN they|PRP have|VBP in|IN past|JJ downturn|NN </s>|S_END
+<s>|S_START and|CC firms|NNS will|MD boost|VB their|PRP$ profits|NNS the|DT oldfashioned|VBN way|NN by|IN becoming|NN more|RBR productive|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT trend|NN towards|NNS bigger|JJR government|NN and|CC more|JJR regulation|NN will|MD continue|VB especially|RB in|IN america|NN where|WRB public|JJ spending|NN as|IN a|DT share|NN of|IN gdp|NN is|VBZ growing|VBG fast|RB </s>|S_END
+<s>|S_START the|DT united|VBN states|NNS government|NN will|MD still|RB prop|VB up|RP and|CC meddle|NN in|IN the|DT financial|JJ sector|NN stabilising|VBG the|DT system|NN but|CC also|RB cramping|VBG innovation|NN </s>|S_END
+<s>|S_START federal|JJ fingers|NNS will|MD remain|VB on|IN the|DT steering|NN wheel|NN in|IN detroit|NN </s>|S_END
+<s>|S_START and|CC government|NN will|MD become|VB the|DT biggest|JJS customer|NN for|IN many|JJ industrie|NN </s>|S_END
+<s>|S_START more|JJR companies|NNS will|MD open|VB offices|NNS in|IN washington|NN dc|NN to|TO be|VB close|JJ to|TO the|DT action|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT united|VBN states|NNS congress|NN will|MD institute|VB a|DT capandtrade|NN system|NN for|IN curbing|NN carbon|NN emissions|NNS thus|RB making|VBG it|PRP more|JJR likely|JJ that|IN china|NN and|CC india|NN will|MD follow|VB suit|NN </s>|S_END
+<s>|S_START but|CC the|DT toughest|JJS curbs|NNS will|MD be|VB pushed|VBN several|JJ years|NNS into|IN the|DT future|JJ </s>|S_END
+<s>|S_START o|NN energy|NN prices|NNS will|MD rise|VB only|RB slowly|RB at|IN first|JJ </s>|S_END
+<s>|S_START but|CC american|JJ firms|NNS will|MD anticipate|VB future|JJ price|NN increases|NNS and|CC scramble|JJ to|TO adapt|VB </s>|S_END
+<s>|S_START energy|NN consumers|NNS will|MD strive|VB for|IN greater|JJR efficiency|NN </s>|S_END
+<s>|S_START producers|NNS of|IN wind|NN solar|NN and|CC other|JJ alternative|NN sources|NNS of|IN power|NN will|MD invest|VB heavily|RB </s>|S_END
+<s>|S_START ubsidies|NNS may|MD spur|VB the|DT construction|NN of|IN new|JJ nuclear|JJ plant|NN </s>|S_END
+<s>|S_START engineering|NN informationtechnology|NN and|CC consulting|NN firms|NNS such|JJ as|IN ge|NN ibm|NN and|CC accenture|NN will|MD work|VB hard|RB to|TO develop|VB smart|NN electricity|NN grids|NNS at|IN home|NN and|CC elsewhere|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START healthcare|NN reform|NN in|IN america|NN will|MD have|VB both|DT domestic|JJ and|CC global|JJ consequence|NN </s>|S_END
+<s>|S_START the|DT government|NN will|MD make|VB sure|JJ that|IN more|JJR americans|NNS are|VBP insured|VBN and|CC it|PRP will|MD regulate|VB private|JJ insurance|NN more|RBR tightly|RB </s>|S_END
+<s>|S_START to|TO restrain|VB costs|NNS it|PRP will|MD squeeze|VB not|RB only|RB hospitals|NNS but|CC also|RB drug|NN firms|NNS and|CC suppliers|NNS of|IN medical|JJ device|NN </s>|S_END
+<s>|S_START the|DT returns|NNS from|IN innovation|NN in|IN medical|JJ technology|NN will|MD decrease|VB affecting|VBG inventive|JJ firms|NNS throughout|IN the|DT world|NN that|DT rely|RB on|IN the|DT american|JJ market|NN to|TO recoup|VB their|PRP$ research|NN cost|NN </s>|S_END
+<s>|S_START public|JJ funding|NN for|IN research|NN will|MD only|RB partly|RB compensate|VB for|IN thi|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START consumption|NN patterns|NNS will|MD change|VB in|IN 2010|CD </s>|S_END
+<s>|S_START america|NN will|MD remain|VB the|DT biggest|JJS economy|NN by|IN far|RB </s>|S_END
+<s>|S_START but|CC overstretched|VBD american|JJ consumers|NNS will|MD no|RB longer|RBR drive|JJ global|JJ growth|NN as|IN strongly|RB </s>|S_END
+<s>|S_START firms|NNS bent|VBP on|IN expansion|NN will|MD increasingly|RB look|VB towards|NNS emerging|VBG markets|NNS such|JJ as|IN china|NN india|NNS and|CC brazil|NN </s>|S_END
+<s>|S_START chinese|NN productivity|NN growth|NN actually|RB accelerated|VBD between|IN 2008|CD and|CC 2009|CD to|TO a|DT startling|JJ 9|CD </s>|S_END
+<s>|S_START russia|NN will|MD seem|VB less|JJR inviting|VBG despite|IN its|PRP$ hydrocarbon|NN wealth|NN because|IN of|IN fears|NNS about|IN the|DT rule|NN of|IN law|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS consumers|NNS will|MD still|RB be|VB short|JJ of|IN cash|NN so|IN firms|NNS that|WDT make|VB cheap|NN stuff|NN well|RB will|MD thrive|VB </s>|S_END
+<s>|S_START luxurygoods|NNS firms|NNS will|MD flounder|VB </s>|S_END
+<s>|S_START purveyors|NNS of|IN basic|JJ necessities|NNS such|JJ as|IN walmart|NN and|CC procter|NN gamble|JJ will|MD do|VB well|RB </s>|S_END
+<s>|S_START people|NNS dont|VBP stop|JJ brushing|NN their|PRP$ teeth|NN just|RB because|IN there|EX is|VBZ a|DT recession|NN notes|NNS john|VBP quelch|JJ of|IN harvard|NN business|NN school|NN </s>|S_END
+<s>|S_START asian|JJ firms|NNS that|WDT make|VB cheap|NN cars|NNS and|CC washing|VBG machines|NNS for|IN asias|NNS emerging|VBG middle|NN class|NN such|JJ as|IN tata|NN hyundai|NN and|CC haier|JJR will|MD make|VB inroads|NNS into|IN western|JJ market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START innovation|NN which|WDT slowed|VBN only|RB slightly|RB during|IN the|DT recession|NN will|MD accelerate|VB again|RB </s>|S_END
+<s>|S_START firms|NNS that|DT continued|VBN to|TO invest|VB in|IN research|NN during|IN bad|JJ times|NNS such|JJ as|IN google|JJ intel|NN and|CC toyota|NN will|MD reap|VB reward|NN </s>|S_END
+<s>|S_START america|NN will|MD remain|VB the|DT worlds|NNS biggest|JJS innovator|NN but|CC many|JJ asian|JJ firms|NNS will|MD draw|VB closer|JJR </s>|S_END
+<s>|S_START manufacturers|NNS will|MD sell|VB more|RBR goods|NNS directly|RB to|TO consumers|NNS over|IN the|DT internet|NN bypassing|VBG traditional|JJ retailer|NN </s>|S_END
+<s>|S_START dataintensive|JJ businesses|NNS will|MD move|VB more|RBR of|IN their|PRP$ computing|NN into|IN the|DT cloud|JJ </s>|S_END
+<s>|S_START ocialmedia|NNS firms|NNS such|JJ as|IN facebook|NN and|CC twitter|NN will|MD attract|VB millions|NNS of|IN new|JJ users|NNS but|CC reap|VB only|RB slender|JJR revenue|NN </s>|S_END
+<s>|S_START nanotechnology|NN and|CC genome|NN research|NN will|MD yield|VB fresh|JJ marvel|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT trade|NN spats|NNS of|IN 2009|CD will|MD not|RB with|IN luck|NN escalate|NN into|IN a|DT fullblown|JJ trade|NN war|NN but|CC protectionist|JJ sentiment|NN will|MD rise|VB </s>|S_END
+<s>|S_START governments|NNS that|IN cooperated|VBN effectively|RB to|TO contain|VB the|DT financial|JJ crisis|NN will|MD have|VB to|TO cooperate|VB again|RB to|TO keep|VB trade|NN flowing|VBG </s>|S_END
+<s>|S_START much|RB will|MD also|RB depend|VB on|IN chinas|NNS continued|VBD willingness|NN to|TO lend|VB money|NN to|TO a|DT stillprofligate|NN uncle|NN sam|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START president|NN barack|VBD obama|NN wants|NNS to|TO raise|VB taxes|NNS to|TO ease|VB americas|NNS budget|NN deficit|NN but|CC he|PRP has|VBZ promised|VBN to|TO soak|VB only|RB the|DT rich|JJ </s>|S_END
+<s>|S_START he|PRP will|MD wait|VB until|IN after|IN the|DT midterm|NN elections|NNS in|IN november|NN 2010|CD to|TO break|VB this|DT promise|NN </s>|S_END
+<s>|S_START if|IN american|JJ growth|NN stays|VBZ slow|JJ the|DT public|NN debt|NN burden|NN will|MD become|VB unsustainable|JJ and|CC inflation|NN will|MD revive|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START public|JJ distrust|NN of|IN business|NN will|MD remain|VB high|JJ </s>|S_END
+<s>|S_START to|TO allay|VB it|PRP firms|NNS will|MD have|VB to|TO become|VB more|JJR transparent|NN </s>|S_END
+<s>|S_START and|CC they|PRP will|MD have|VB to|TO adapt|VB to|TO a|DT world|NN where|WRB big|JJ changes|NNS happen|VBP quickly|RB </s>|S_END
+<s>|S_START bad|JJ publicity|NN travels|NNS at|IN the|DT speed|NN of|IN light|JJ </s>|S_END
+<s>|S_START a|DT big|JJ scandal|NN can|MD destroy|VB a|DT firm|NN in|IN an|DT instant|JJ </s>|S_END
+<s>|S_START the|DT collapse|NN of|IN one|CD financial|JJ enterprise|NN can|MD threaten|VB the|DT whole|JJ system|NN </s>|S_END
+<s>|S_START governments|NNS can|MD not|RB stop|VB every|DT foundering|NN company|NN from|IN going|VBG under|IN nor|CC should|MD they|PRP </s>|S_END
+<s>|S_START o|NN firms|NNS will|MD need|VB sharp|JJ reflexes|NNS in|IN 2010|CD tempered|VBN by|IN caution|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START robert|NN guest|VBD washington|NN correspondent|NN the|DT economist|NN </s>|S_END
+</p>|P_END
+

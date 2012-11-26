@@ -1,0 +1,113 @@
+<p>|P_START
+<s>|S_START ciscos|NNS asr|VBP 5500|CD mobile|JJ packet|NN core|NN will|MD help|VB make|VB networks|NNS more|RBR intelligent|JJ and|CC allow|JJ operators|NNS to|TO charge|VB differently|RB for|IN various|JJ types|NNS of|IN content|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN by|IN 2015|CD more|JJR people|NNS will|MD access|VB the|DT internet|NN from|IN mobile|JJ devices|NNS than|IN from|IN conventional|JJ pcs|NNS </s>|S_END
+<s>|S_START a|DT year|NN later|JJ in|IN 2016|CD 19|CD billion|CD devices|NNS and|CC gizmos|NNS will|MD be|VB connected|VBN to|TO the|DT mobile|JJ internet|NN not|RB just|RB your|PRP$ smartphone|NN and|CC tablet|VB but|CC your|PRP$ washing|NN machine|NN cars|NNS and|CC clothes|NNS will|MD be|VB connected|VBN too|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS a|DT giant|JJ problem|NN for|IN wireless|NN carriers|NNS which|WDT are|VBP already|RB struggling|VBG to|TO keep|VB up|RP with|IN surging|NN data|NNS demand|NN </s>|S_END
+<s>|S_START trying|VBG to|TO innovate|VB their|PRP$ way|NN out|IN of|IN the|DT crunch|NN the|DT industry|NN is|VBZ using|VBG new|JJ tools|NNS and|CC tricks|NNS to|TO optimize|VB every|DT bit|NN of|IN infrastructure|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cisco|NN csco|VBD fortune|NN 500|CD added|VBD a|DT key|JJ piece|NN to|TO the|DT puzzle|NN on|IN tuesday|NN releasing|NN a|DT new|JJ tool|NN that|WDT will|MD let|VB carriers|NNS sift|VB through|IN and|CC prioritize|NN the|DT traffic|JJ flooding|NN their|PRP$ networks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP sounds|VBZ pretty|RB geeky|JJ mobile|NN packet|NN core|NN product|NN launches|NNS dont|VBP inspire|NN iphonelike|IN frenzies|NNS but|CC this|DT backend|NN upgrade|NN has|VBZ some|DT significant|JJ implications|NNS for|IN everyday|NN users|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT problem|NN everyone|NN has|VBZ experienced|VBN the|DT frustrating|NN effects|NNS of|IN wireless|NN network|NN congestion|NN </s>|S_END
+<s>|S_START your|PRP$ video|NN buffers|NNS forever|RB a|DT website|JJ takes|NNS minutes|NNS to|TO launch|VB or|CC you|PRP cant|VBP get|VB google|JJ maps|NNS to|TO load|VB when|WRB youre|NN late|RB to|TO a|DT meeting|NN and|CC dont|NN know|VB where|WRB to|TO go|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START much|RB of|IN that|DT pain|NN comes|VBZ from|IN the|DT way|NN that|IN todays|NNS networks|NNS give|VBP more|JJR or|CC less|JJR the|DT same|JJ priority|NN to|TO all|DT kinds|NNS of|IN traffic|JJ </s>|S_END
+<s>|S_START ads|NNS running|VBG on|IN angry|JJ birds|NNS are|VBP treated|VBN the|DT same|JJ as|IN a|DT netflix|NN nflx|NN video|NN not|RB a|DT good|JJ thing|NN if|IN a|DT bunch|NN of|IN ads|NNS on|IN other|JJ peoples|NNS phones|NNS are|VBP causing|VBG your|PRP$ movie|NN to|TO stall|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT user|NN experience|NN would|MD be|VB noticeably|RB better|RBR if|IN the|DT network|NN were|VBD able|JJ to|TO speed|VB up|RP streaming|VBG video|NN at|IN the|DT expense|NN of|IN a|DT slightly|RB slower|JJR load|NN time|NN on|IN an|DT ad|NN in|IN a|DT game|NN </s>|S_END
+<s>|S_START the|DT typical|JJ wireless|NN network|NN doesnt|NN know|VB how|WRB to|TO do|VB that|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT solution|NN cisco|NN thinks|NNS it|PRP has|VBZ a|DT fix|NN with|IN its|PRP$ new|JJ asr|NN 5500|CD mobile|JJ packet|NN core|NN </s>|S_END
+<s>|S_START its|PRP$ a|DT kind|NN of|IN gateway|NN between|IN the|DT mobile|JJ network|NN and|CC the|DT larger|JJR internet|NN that|IN gives|VBZ networks|NNS the|DT intelligence|NN to|TO handle|VB different|JJ traffic|JJ differently|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START verizon|NN for|IN instance|NN could|MD set|VB different|JJ priorities|NNS for|IN video|NN services|NNS phone|NN calls|NNS and|CC apps|NNS particularly|RB during|IN peak|NN download|NN hours|NNS to|TO ensure|VB that|IN all|DT services|NNS run|VBP as|RB smoothly|RB as|IN possible|JJ </s>|S_END
+<s>|S_START that|DT way|NN netflix|NN or|CC youtube|VB videos|NNS might|MD not|RB get|VB interrupted|VBN if|IN verizon|NN makes|VBZ websites|NNS take|VBP a|DT second|JJ longer|NN to|TO load|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START verizon|NN along|IN with|IN indian|JJ telecom|NN bharti|NN announced|VBD tuesday|NN that|IN it|PRP would|MD be|VB among|IN the|DT first|JJ to|TO deploy|VB the|DT asr|NN 5500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT asr|NN 5500|CD isnt|NN the|DT first|JJ intelligent|NN mobile|NN packet|NN core|NN juniper|NN jnpr|NN ericsson|NN and|CC a|DT handful|NN of|IN startups|NNS have|VBP released|VBN similar|JJ products|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC cisco|RB is|VBZ the|DT markets|NNS 800pound|CD gorilla|NN </s>|S_END
+<s>|S_START like|IN apple|NN it|PRP may|MD not|RB be|VB the|DT first|JJ to|TO market|NN but|CC when|WRB it|PRP makes|VBZ a|DT move|NN the|DT rest|NN of|IN the|DT industry|NN typically|RB follows|VBZ suit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START where|WRB this|DT is|VBZ going|VBG if|IN carriers|NNS can|MD prioritize|VB different|JJ types|NNS of|IN traffic|JJ differently|RB they|PRP can|MD also|RB charge|VB different|JJ rates|NNS for|IN them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS a|DT major|JJ shift|NN from|IN how|WRB things|NNS run|VBP today|NN but|CC its|PRP$ a|DT slippery|JJ slope|NN were|VBD already|RB on|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cell|NN phone|NN companies|NNS like|IN verizon|NN vz|NN fortune|NN 500|CD and|CC att|NN t|NN fortune|NN 500|CD have|VBP instituted|VBN tiered|VBN pricing|NN models|NNS making|VBG users|NNS pay|NN for|IN each|DT gigabyte|NN they|PRP consume|VBP </s>|S_END
+<s>|S_START that|DT leads|NNS to|TO a|DT pretty|RB lousy|JJ experience|NN for|IN people|NNS who|WP watch|NN a|DT lot|NN of|IN videos|NNS which|WDT gobble|JJ up|RP megabytes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN netflix|NN and|CC googles|NNS goog|VBP fortune|NN 500|CD youtube|NN are|VBP the|DT main|JJ culprits|NNS for|IN network|NN congestion|NN why|WRB not|RB charge|VB differently|RB for|IN those|DT services|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ciscos|NNS on|IN board|NN </s>|S_END
+<s>|S_START this|DT technology|NN gives|VBZ operators|NNS the|DT intelligence|NN for|IN optimizing|NN and|CC monetizing|VBG their|PRP$ networks|NNS said|VBD kelly|RB ahuja|NN head|NN of|IN ciscos|NNS mobile|JJ internet|NN technology|NN group|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ an|DT idea|NN att|NN and|CC verizon|NN are|VBP quietly|RB but|CC actively|RB floating|VBG around|IN according|VBG to|TO ken|VB rehbehn|NN an|DT analyst|NN at|IN yankee|NN group|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD hypothetical|JJ option|NN might|MD be|VB to|TO have|VB netflix|CD pay|NN the|DT cell|NN phone|NN companies|NNS for|IN its|PRP$ customers|NNS usage|NN </s>|S_END
+<s>|S_START verizon|NN and|CC att|NN would|MD then|RB not|RB count|NN that|WDT traffic|JJ against|IN their|PRP$ own|JJ customers|NNS monthly|JJ data|NNS allotments|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START obviously|RB thats|VBZ not|RB a|DT plan|NN that|WDT will|MD thrill|VB netflix|NN but|CC if|IN metered|VBN data|NNS plans|NNS put|VBD a|DT damper|NN on|IN consumers|NNS enthusiasm|NN for|IN the|DT video|NN service|NN netflix|NN might|MD decide|VB to|TO play|VB ball|NN </s>|S_END
+<s>|S_START it|PRP would|MD probably|RB also|RB pass|VBZ those|DT added|VBN costs|NNS on|IN to|TO its|PRP$ customers|NNS through|IN higher|JJR subscription|NN fees|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT gets|NNS swampy|VBP fast|RB </s>|S_END
+<s>|S_START for|IN example|NN verizon|NN is|VBZ working|VBG with|IN redbox|NN to|TO develop|VB a|DT streaming|NN video|NN service|NN that|WDT is|VBZ widely|RB expected|VBN to|TO go|VB headtohead|RB with|IN netflix|CD </s>|S_END
+<s>|S_START verizon|NN could|MD score|VB a|DT clear|JJ competitive|JJ advantage|NN by|IN letting|NN its|PRP$ customers|NNS stream|VBP videos|NNS from|IN its|PRP$ own|JJ service|NN without|IN counting|VBG them|PRP against|IN their|PRP$ monthly|JJ data|NNS cap|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START verizon|NN which|WDT is|VBZ publicly|RB backing|VBG the|DT asr|NN 5500|CD declined|VBD to|TO talk|VB about|IN that|DT aspect|NN of|IN the|DT technology|NN </s>|S_END
+<s>|S_START it|PRP stuck|VBD to|TO a|DT prepared|VBN statement|NN blandly|RB praising|VBG the|DT new|JJ platform|NN as|IN an|DT upgrade|NN that|IN will|MD help|VB serve|VB our|PRP$ needs|NNS for|IN scalability|NN and|CC agility|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START intelligent|NN networks|NNS are|VBP clearly|RB the|DT wave|NN of|IN the|DT future|NN weve|NN already|RB got|VBD more|JJR things|NNS connected|VBN to|TO the|DT internet|NN than|IN we|PRP have|VBP people|NNS on|IN earth|JJ </s>|S_END
+<s>|S_START now|RB get|VBP ready|RB for|IN the|DT battle|NN over|IN how|WRB well|RB pay|VBP for|IN the|DT data|NNS all|DT those|DT gadgets|NNS are|VBP consuming|VBG </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,72 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN despite|IN glimmers|NNS of|IN good|JJ news|NN for|IN job|NN creation|NN the|DT state|NN of|IN americas|NNS startups|NNS presents|NNS a|DT troubling|VBG sign|NN there|RB are|VBP fewer|JJR of|IN them|PRP and|CC those|DT that|WDT exist|NN are|VBP hiring|VBG fewer|JJR workers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ a|DT onetwo|NN punch|NN that|WDT poses|VBZ a|DT serious|JJ threat|NN to|TO the|DT workforce|NN because|IN studies|NNS have|VBP shown|VBN that|IN startups|NNS are|VBP americas|RB true|JJ job|NN creators|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START historically|RB new|JJ companies|NNS have|VBP generated|VBN 3|CD million|CD net|JJ new|JJ jobs|NNS every|DT year|NN </s>|S_END
+<s>|S_START that|DT fell|VBD to|TO 25|CD million|CD during|IN the|DT recession|NN and|CC recent|JJ government|NN figures|NNS suggest|VBP its|PRP$ only|JJ gotten|NN worse|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN for|IN how|WRB many|JJ jobs|NNS they|PRP create|VBP tim|JJ kane|NN an|DT economist|NN at|IN the|DT hudson|NN institute|NN found|VBD a|DT sharp|JJ decline|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD 9|CD hot|NN businesses|NNS you|PRP can|MD start|VB now|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START using|VBG data|NNS from|IN the|DT labor|NN department|NN kane|NN looked|VBD at|IN how|WRB many|JJ startup|NN jobs|NNS were|VBD created|VBN for|IN every|DT 1000|CD people|NNS </s>|S_END
+<s>|S_START in|IN the|DT 1980s|CD and|CC 1990s|CD it|PRP held|VBD steady|JJ at|IN about|IN 11|CD </s>|S_END
+<s>|S_START kanes|NNS estimates|VBZ show|NN that|IN in|IN 2010|CD and|CC 2011|CD it|PRP dropped|VBD below|IN 8|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT state|NN of|IN entrepreneurship|NN in|IN the|DT united|VBN states|NNS is|VBZ sadly|RB weaker|JJR than|IN ever|RB he|PRP said|VBD in|IN the|DT report|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whats|NNS causing|VBG the|DT decline|NN </s>|S_END
+<s>|S_START the|DT report|NN doesnt|NN say|VB for|IN certain|JJ although|IN there|EX are|VBP some|DT clues|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START local|JJ regulations|NNS have|VBP steadily|RB become|VBN a|DT growing|VBG barrier|NN for|IN entrepreneurs|NNS </s>|S_END
+<s>|S_START opening|VBG a|DT barber|NN shop|NN or|CC a|DT day|NN spa|NN isnt|NN what|WP is|VBZ used|VBN to|TO be|VB </s>|S_END
+<s>|S_START city|NN officials|NNS local|JJ boards|NNS and|CC state|NN governments|NNS have|VBP ratcheted|VBN up|RP regulation|NN and|CC demanded|VBD entrepreneurs|NNS get|VBP licenses|NNS to|TO operate|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ an|DT issue|NN that|IN kauffman|NN foundation|NN scholar|NN brink|NN lindsey|NN points|NNS out|IN in|IN his|PRP$ book|NN human|NN capitalism|NN </s>|S_END
+<s>|S_START he|PRP says|VBZ the|DT burden|NN is|VBZ destroying|VBG opportunities|NNS for|IN entrepreneurs|NNS in|IN the|DT lower|JJR and|CC middle|JJ classes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB workers|NNS in|IN the|DT united|VBN states|NNS are|VBP more|RBR frequently|RB competing|VBG on|IN the|DT global|JJ stage|NN </s>|S_END
+<s>|S_START to|TO new|JJ companies|NNS that|WDT dont|NN need|VBP employees|NNS in|IN the|DT office|NN its|PRP$ often|RB cheaper|JJR to|TO hire|VB freelancers|NNS in|IN less|JJR developed|VBN nations|NNS than|IN hire|NN american|NN workers|NNS </s>|S_END
+<s>|S_START kane|NN said|VBD hiring|VBG someone|NN abroad|RB requires|VBZ less|JJR paperwork|NN and|CC costs|NNS less|RBR in|IN taxes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD obamas|NNS tax|NN plan|NN catches|VBZ small|JJ employers|NNS too|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START online|NN services|NNS like|IN elance|NN connect|NN companies|NNS with|IN freelancers|NNS around|IN the|DT world|NN </s>|S_END
+<s>|S_START by|IN making|VBG it|PRP easier|JJR for|IN companies|NNS to|TO post|VB jobs|NNS and|CC hire|VB independent|JJ workers|NNS to|TO take|VB them|PRP its|PRP$ greasing|NN the|DT axles|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC kane|NN doesnt|NN object|NN to|TO elances|NNS service|NN </s>|S_END
+<s>|S_START instead|RB he|PRP argues|VBZ that|IN government|NN hiring|VBG obstructions|NNS on|IN employers|NNS must|MD be|VB lifted|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START im|NN worried|VBD the|DT environment|NN is|VBZ pushing|VBG jobs|NNS overseas|RB at|IN a|DT micro|NN level|NN kane|NN said|VBD </s>|S_END
+<s>|S_START i|PRP dont|VBP know|RB the|DT answers|NNS but|CC we|PRP need|VBP to|TO know|VB it|PRP exists|VBZ </s>|S_END
+</p>|P_END
+

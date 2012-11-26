@@ -1,0 +1,46 @@
+<p>|P_START
+<s>|S_START banks|NNS in|IN china|NN appear|NN to|TO be|VB in|IN rude|NN health|NN </s>|S_END
+<s>|S_START the|DT seven|CD biggest|JJS mainland|NN banks|NNS have|VBP just|RB posted|VBN a|DT 16|CD yearonyear|NN increase|NN in|IN pretax|NN profits|NNS between|IN them|PRP for|IN the|DT first|JJ quarter|NN </s>|S_END
+<s>|S_START the|DT level|NN of|IN nonperforming|VBG loans|NNS npls|NNS remains|VBZ low|JJ at|IN just|RB about|IN 1|CD </s>|S_END
+<s>|S_START but|CC trouble|JJ is|VBZ being|VBG stored|VBN up|RP for|IN the|DT future|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP two|CD big|JJ worries|NNS bad|JJ localgovernment|NN debt|NN and|CC souring|VBG property|NN loan|NN </s>|S_END
+<s>|S_START the|DT infrastructure|NN binge|NN of|IN the|DT past|JJ few|JJ years|NNS saw|VBD a|DT boom|NN in|IN localgovernment|NN financing|NN vehicles|NNS lgfvs|VBZ offbalancesheet|JJ entities|NNS used|VBN to|TO get|VB around|IN prohibitions|NNS on|IN borrowing|VBG </s>|S_END
+<s>|S_START regulators|NNS say|VBP these|DT entities|NNS bank|NN debts|NNS were|VBD worth|JJ $|$ 14|CD trillion|CD at|IN the|DT end|NN of|IN september|NN </s>|S_END
+<s>|S_START private|JJ estimates|NNS range|VBP much|RB higher|JJR and|CC suggest|VBP that|IN 2030|CD may|MD be|VB nonperforming|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT government|NN is|VBZ trying|VBG to|TO defuse|VB the|DT bomb|NN </s>|S_END
+<s>|S_START one|CD experiment|NN is|VBZ the|DT issuance|NN of|IN local|JJ bonds|NNS to|TO replace|VB these|DT loan|NN </s>|S_END
+<s>|S_START officials|NNS also|RB published|VBD guidance|NN in|IN march|NN pushing|VBG banks|NNS to|TO roll|VB loans|NNS over|IN in|IN the|DT hope|NN that|IN growth|NN will|MD solve|VB the|DT problem|NN </s>|S_END
+<s>|S_START another|DT wheeze|NN is|VBZ shoving|VBG these|DT loans|NNS onto|IN the|DT books|NNS of|IN “policy|NN banks”|NN like|IN china|NN development|NN bank|NN cdb|NN whose|WP$ balancesheets|NNS are|VBP now|RB suffering|VBG see|NN chart|NN </s>|S_END
+<s>|S_START half|NN a|DT trillion|NN yuan|NN around|IN $|$ 80|CD billion|CD in|IN lgfv|NN debt|NN was|VBD rolled|VBN over|IN last|JJ year|NN from|IN commercial|JJ banks|NNS to|TO the|DT cdb|NN alone|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT other|JJ headache|NN is|VBZ property|NN which|WDT is|VBZ undergoing|VBG a|DT governmentforced|JJ cooling|NN </s>|S_END
+<s>|S_START because|IN real|JJ estate|NN touches|NNS many|JJ parts|NNS of|IN the|DT economy|NN some|DT worry|NN that|IN npls|NNS in|IN this|DT sector|NN may|MD be|VB harder|RBR to|TO isolate|VB than|IN localgovernment|NN debt|NN </s>|S_END
+<s>|S_START michael|NN werner|NN of|IN sanford|NN c|NN bernstein|NN an|DT investment|NN bank|NN is|VBZ relaxed|VBN pointing|VBG to|TO official|JJ figures|NNS claiming|VBG that|IN 75|CD of|IN property|NN loans|NNS are|VBP collateralised|VBN compared|VBN with|IN only|RB 38|CD of|IN loans|NNS to|TO manufacturers|NNS and|CC 24|CD of|IN those|DT to|TO utilitie|VB </s>|S_END
+<s>|S_START fine|NN but|CC that|IN reassures|NNS only|RB if|IN the|DT collateral|JJ is|VBZ good|JJ </s>|S_END
+<s>|S_START it|PRP may|MD not|RB be|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlene|NN chu|VBD of|IN fitch|NN a|DT ratings|NNS agency|NN thinks|NNS official|NN statistics|NNS have|VBP to|TO be|VB treated|VBN with|IN care|NN in|IN any|DT case|NN </s>|S_END
+<s>|S_START everal|JJ factors|NNS are|VBP masking|VBG the|DT true|JJ level|NN of|IN npls|NNS she|PRP reckon|VBP </s>|S_END
+<s>|S_START one|CD is|VBZ the|DT practice|NN of|IN rolling|VBG over|IN bad|JJ debt|NN another|DT is|VBZ the|DT ability|NN of|IN distressed|VBN borrowers|NNS to|TO turn|VB to|TO a|DT vibrant|NN shadowbanking|VBG sector|NN for|IN loans|NNS when|WRB in|IN trouble|NN </s>|S_END
+<s>|S_START banks|NNS are|VBP also|RB shifting|VBG lots|NNS of|IN activities|NNS off|IN their|PRP$ balancesheet|NN </s>|S_END
+<s>|S_START by|IN moving|NN deposits|NNS from|IN normal|JJ accounts|NNS to|TO “wealthmanagement|JJ accounts”|NN for|IN example|NN banks|NNS can|MD reduce|VB the|DT ostensible|JJ deposit|NN base|NN against|IN which|WDT they|PRP must|MD hold|VB reserves|NNS but|CC must|MD also|RB pay|VB much|JJ higher|JJR interest|NN rate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT chinese|NN banking|NN system|NN is|VBZ already|RB among|IN the|DT most|RBS thinly|RB capitalised|VBN in|IN emerging|NN markets|NNS the|DT ratio|NN of|IN equity|NN to|TO assets|NNS is|VBZ 6|CD </s>|S_END
+<s>|S_START ms|NNS chu|VBP calculates|NNS that|IN if|IN a|DT tenth|NN of|IN the|DT banking|NN systems|NNS outstanding|JJ credit|NN turns|VBZ sour|PRP$ over|IN the|DT next|JJ two|CD years|NNS all|DT profits|NNS and|CC 39|CD of|IN the|DT systems|NNS equity|NN will|MD be|VB wiped|VBN out|RP </s>|S_END
+<s>|S_START if|IN npls|NNS are|VBP unreliable|JJ indicators|NNS liquidity|NN measures|NNS may|MD be|VB a|DT better|JJR signal|JJ of|IN brewing|NN trouble|NN </s>|S_END
+<s>|S_START pointing|VBG to|TO a|DT rise|NN in|IN marketbased|VBN interest|NN rates|NNS and|CC slowing|VBG loan|NN growth|NN she|PRP argues|VBZ that|IN a|DT crunch|NN has|VBZ already|RB started|VBN </s>|S_END
+<s>|S_START the|DT banks|NNS figures|NNS do|VBP not|RB immediately|RB show|VB it|PRP but|CC the|DT hangover|NN from|IN chinas|NNS postcrisis|NNS credit|NN boom|NN may|MD be|VB under|IN way|NN </s>|S_END
+</p>|P_END
+

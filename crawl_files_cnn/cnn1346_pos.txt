@@ -1,0 +1,72 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoneycom|NN highincome|NN households|NNS will|MD be|VB paying|VBG more|JJR into|IN medicare|JJ as|IN a|DT result|NN of|IN the|DT new|JJ health|NN reform|NN law|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN starters|NNS the|DT medicare|NN payroll|NN tax|NN is|VBZ going|VBG up|RP for|IN individuals|NNS making|VBG more|JJR than|IN $|$ 200000|CD in|IN wages|NNS and|CC couples|NNS making|VBG more|JJR than|IN $|$ 250000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START currently|RB the|DT medicare|NN payroll|NN tax|NN is|VBZ 29|CD on|IN all|DT wages|NNS with|IN the|DT worker|NN and|CC his|PRP$ employer|NN each|DT paying|VBG 145|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START under|IN the|DT new|JJ law|NN starting|VBG in|IN 2013|CD highincome|NN individuals|NNS will|MD pay|VB another|DT 09|CD percentage|NN points|NNS on|IN earned|VBN income|NN over|IN $|$ 200000|CD $|$ 250000|CD if|IN married|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT single|JJ person|NN making|VBG $|$ 250000|CD will|MD pay|VB an|DT additional|JJ $|$ 450|CD a|DT year|NN into|IN medicare|NN relative|JJ to|TO what|WP he|PRP pays|VBZ today|NN according|VBG to|TO calculations|NNS by|IN deloitte|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN he|PRP made|VBD $|$ 1|CD million|CD he|PRP will|MD pay|VB an|DT additional|JJ $|$ 7200|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START couples|NNS making|VBG $|$ 500000|CD in|IN wages|NNS will|MD pay|VB an|DT additional|JJ $|$ 2250|CD </s>|S_END
+<s>|S_START if|IN they|PRP made|VBD $|$ 1|CD million|CD they|PRP would|MD pay|VB an|DT additional|JJ $|$ 6750|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN highincome|NN households|NNS would|MD also|RB be|VB subject|JJ to|TO a|DT new|JJ 38|CD medicare|NN tax|NN on|IN investment|NN income|NN starting|VBG in|IN 2013|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP qualifies|NNS as|IN investment|NN income|NN also|RB known|VBN as|IN unearned|VBN income|NN </s>|S_END
+<s>|S_START capital|NN gains|NNS dividends|NNS interest|NN annuities|NNS royalties|NNS and|CC rents|NNS are|VBP some|DT examples|NNS </s>|S_END
+<s>|S_START any|DT investment|NN income|NN that|WDT had|VBD previously|RB been|VBN characterized|VBN as|IN tax|NN exempt|NN would|MD not|RB be|VB subject|JJ to|TO the|DT new|JJ tax|NN however|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START heres|NNS how|WRB the|DT new|JJ tax|NN on|IN investment|NN income|NN would|MD work|VB it|PRP will|MD hit|VB those|DT people|NNS whose|WP$ gross|JJ income|NN roughly|RB speaking|VBG wages|NNS plus|CC investment|NN income|NN exceeds|VBZ the|DT $|$ 200000|CD threshold|NN for|IN individuals|NNS or|CC $|$ 250000|CD for|IN couples|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC because|IN of|IN how|WRB the|DT proposal|NN is|VBZ structured|VBN you|PRP might|MD not|RB owe|VB the|DT 38|CD tax|NN on|IN all|DT your|PRP$ investment|NN income|NN </s>|S_END
+<s>|S_START heres|NNS why|WRB the|DT tax|NN would|MD apply|VB to|TO whichever|VB is|VBZ less|JJR your|PRP$ investment|NN income|NN or|CC the|DT amount|NN that|IN your|PRP$ modified|JJ adjusted|VBN gross|NN income|NN agi|NN exceeds|VBZ the|DT highincome|NN threshold|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START say|VBP you|PRP have|VBP $|$ 50000|CD more|JJR in|IN modified|JJ agi|NN than|IN the|DT threshold|NN </s>|S_END
+<s>|S_START if|IN your|PRP$ investment|NN income|NN exceeds|VBZ that|IN amount|NN you|PRP would|MD only|RB owe|VB the|DT 38|CD tax|NN on|IN $|$ 50000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN how|WRB might|MD a|DT highincome|NN persons|NNS tax|NN bill|NN change|NN overall|NN when|WRB the|DT medicare|NN wage|NN tax|NN is|VBZ increased|VBN and|CC a|DT new|JJ medicare|NN tax|NN on|IN investment|NN income|NN is|VBZ also|RB imposed|VBN </s>|S_END
+<s>|S_START a|DT single|JJ taxpayer|NN making|VBG $|$ 1|CD million|CD in|IN wages|NNS and|CC $|$ 100000|CD in|IN capital|NN gains|NNS income|NN would|MD pay|VB an|DT additional|JJ $|$ 11000|CD into|IN medicare|JJ than|IN he|PRP does|VBZ today|NN according|VBG to|TO deloitte|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START deloitte|NN notes|NNS that|WDT its|PRP$ possible|JJ that|IN even|RB if|IN a|DT persons|NNS total|VBP income|NN exceeds|NNS the|DT income|NN threshold|VBD he|PRP may|MD only|RB be|VB subject|JJ to|TO the|DT medicare|NN investment|NN tax|NN but|CC not|RB the|DT increase|NN in|IN the|DT medicare|NN payroll|NN tax|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START say|VBP a|DT person|NN makes|VBZ $|$ 190000|CD in|IN wages|NNS and|CC on|IN top|JJ of|IN that|DT takes|VBZ in|IN $|$ 30000|CD in|IN investment|NN income|NN </s>|S_END
+<s>|S_START that|DT person|NN would|MD not|RB be|VB subject|JJ to|TO the|DT increased|VBN medicare|NN payroll|NN tax|NN because|IN his|PRP$ wages|NNS fall|VBP below|IN the|DT threshold|NN but|CC he|PRP would|MD have|VB to|TO pay|VB the|DT new|JJ investment|NN income|NN tax|NN because|IN his|PRP$ total|JJ income|NN exceeds|VBZ the|DT $|$ 200000|CD threshold|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START raising|VBG the|DT medicare|NN tax|NN on|IN wages|NNS will|MD raise|VB an|DT estimated|VBN $|$ 87|CD billion|CD over|IN 10|CD years|NNS </s>|S_END
+<s>|S_START but|CC combined|VBN with|IN a|DT new|JJ medicare|NN tax|NN on|IN investment|NN income|NN the|DT revenue|NN collected|VBD will|MD jump|VB to|TO an|DT estimated|VBN $|$ 210|CD billion|CD making|VBG it|PRP the|DT biggest|JJS single|JJ revenue|NN raiser|NN to|TO help|VB pay|NN for|IN health|NN reform |NN </s>|S_END
+</p>|P_END
+

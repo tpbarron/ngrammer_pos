@@ -1,0 +1,95 @@
+<p>|P_START
+<s>|S_START california|NN lawmakers|NNS approve|VBP a|DT new|JJ budget|NN plan|NN that|WDT they|PRP crafted|VBD with|IN governor|NN jerry|NN brown|NN center|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN california|NN lawmakers|NNS approved|VBD an|DT $|$ 86|CD billion|CD budget|NN late|JJ tuesday|NN that|WDT imposes|VBZ deep|VBP spending|NN cuts|NNS but|CC does|VBZ not|RB extend|VB tax|NN hikes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT budget|NN is|VBZ a|DT disappointment|NN for|IN governor|NN jerry|NN brown|NN a|DT democrat|NN who|WP spent|NN months|NNS trying|VBG to|TO convince|NN republican|NN legislators|NNS to|TO put|VB an|DT extension|NN of|IN personal|JJ income|NN and|CC sales|NNS tax|NN increases|NNS before|IN the|DT voters|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unable|JJ to|TO do|VB so|RB brown|VB and|CC democratic|JJ legislative|JJ leaders|NNS cobbled|VBD together|RB a|DT plan|NN that|WDT calls|VBZ for|IN a|DT total|JJ of|IN $|$ 146|CD billion|CD in|IN cuts|NNS </s>|S_END
+<s>|S_START much|RB of|IN the|DT bloodletting|NN was|VBD agreed|VBN to|TO in|IN march|NN but|CC this|DT weeks|NNS deal|VBP would|MD add|VB at|IN least|JJS $|$ 25|CD billion|CD in|IN additional|JJ reductions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START putting|VBG our|PRP$ state|NN on|IN a|DT sound|NN and|CC sustainable|JJ fiscal|JJ footing|NN still|RB requires|VBZ much|JJ work|NN but|CC we|PRP have|VBP now|RB taken|VBN a|DT huge|JJ step|NN forward|NN brown|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START overall|JJ the|DT department|NN of|IN health|NN and|CC human|JJ services|NNS would|MD be|VB slashed|VBN by|IN $|$ 5|CD billion|CD while|IN the|DT department|NN of|IN corrections|NNS and|CC rehabilitation|NN would|MD see|VB a|DT cut|NN of|IN $|$ 1|CD billion|CD </s>|S_END
+<s>|S_START the|DT states|NNS two|CD university|NN systems|NNS would|MD each|VB lose|DT $|$ 650|CD million|CD in|IN funding|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT budget|NN hinges|NNS on|IN the|DT state|NN bringing|VBG in|IN $|$ 4|CD billion|CD in|IN more|JJR in|IN tax|NN revenues|NNS in|IN the|DT coming|VBG year|NN than|IN was|VBD initially|RB expected|VBN </s>|S_END
+<s>|S_START the|DT improving|NN economy|NN has|VBZ pushed|VBN the|DT states|NNS tax|NN collections|NNS billions|NNS of|IN dollars|NNS above|IN estimates|NNS in|IN recent|JJ months|NNS </s>|S_END
+<s>|S_START brown|NN expects|VBZ the|DT windfall|NN to|TO continue|VB into|IN fiscal|JJ 2012|CD which|WDT starts|NNS friday|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN tax|NN revenue|NN comes|VBZ in|IN lower|JJR than|IN expected|VBN the|DT budget|NN also|RB would|MD impose|VB an|DT additional|JJ $|$ 26|CD billion|CD in|IN cuts|NNS to|TO higher|JJR education|NN corrections|NNS and|CC inhome|VB support|NN services|NNS for|IN the|DT elderly|JJ and|CC disabled|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT proposal|NN would|MD slash|VB billions|NNS in|IN spending|NN for|IN children|NNS the|DT sick|NN and|CC the|DT elderly|JJ said|VBD senate|JJ president|NN pro|NN tem|NN darrell|NN steinberg|NN </s>|S_END
+<s>|S_START and|CC it|PRP would|MD hurt|VB the|DT states|NNS economy|NN he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT budget|NN is|VBZ the|DT most|RBS austere|JJ fiscal|JJ blueprint|NN california|NN has|VBZ seen|VBN in|IN a|DT generation|NN steinberg|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START since|IN the|DT budget|NN does|VBZ not|RB call|VB for|IN tax|NN increases|NNS it|PRP requires|VBZ only|RB a|DT majority|NN of|IN the|DT democraticled|VBN legislature|NN to|TO approve|VB it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB governor|NN brown|IN and|CC his|PRP$ fellow|NN democrats|NNS said|VBD they|PRP plan|VBP to|TO put|VB a|DT tax|NN measure|NN on|IN the|DT ballot|NN in|IN november|NN 2012|CD through|IN a|DT voter|NN initiative|NN bypassing|VBG the|DT requirement|NN for|IN republican|JJ consent|NN </s>|S_END
+<s>|S_START thats|NNS the|DT only|JJ way|NN california|NN can|MD afford|VB to|TO pay|VB for|IN the|DT services|NNS it|PRP provides|VBZ they|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP is|VBZ clear|JJ that|IN there|EX is|VBZ no|DT realistic|JJ longterm|NN solution|NN to|TO californias|NNS structural|JJ deficit|NN that|WDT doesnt|NN involve|VBP new|JJ revenues|NNS said|VBD assembly|RB speaker|NN john|NN perez|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START though|IN they|PRP fended|VBD off|RP browns|NNS tax|NN extensions|NNS republicans|NNS immediately|RB attacked|VBD the|DT proposal|NN saying|VBG california|NN needs|NNS a|DT budget|NN that|WDT will|MD revitalize|VB the|DT economy|NN and|CC create|VB jobs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ a|DT hope|NN without|IN change|NN budget|NN said|VBD senate|NN republican|NN leader|NN bob|NN dutton|NN </s>|S_END
+<s>|S_START it|PRP relies|VBZ on|IN the|DT hope|NN for|IN billions|NNS of|IN phantom|NN dollars|NNS and|CC does|VBZ nothing|NN absolutely|RB nothing|NN to|TO change|VB government|NN as|IN usual|JJ </s>|S_END
+<s>|S_START even|RB worse|JJR it|PRP does|VBZ nothing|NN to|TO put|VB people|NNS back|RB to|TO work|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT proposal|NN is|VBZ a|DT major|JJ shift|NN for|IN brown|NN who|WP has|VBZ said|VBD for|IN months|NNS that|WDT the|DT states|NNS $|$ 26|CD billion|CD budget|NN gap|NN should|MD be|VB addressed|VBN with|IN a|DT mix|NN of|IN spending|NN cuts|NNS and|CC tax|NN extensions|NNS </s>|S_END
+<s>|S_START he|PRP also|RB was|VBD determined|VBN to|TO fulfill|VB his|PRP$ pledge|NN to|TO put|VB the|DT extension|NN of|IN personal|JJ income|NN and|CC sales|NNS taxes|NNS before|IN the|DT voters|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB he|PRP could|MD not|RB convince|VB four|CD republicans|NNS to|TO join|VB him|PRP so|RB he|PRP could|MD get|VB the|DT measure|NN on|IN the|DT ballot|NN </s>|S_END
+<s>|S_START a|DT budget|NN containing|VBG a|DT tax|NN hike|NN needs|VBZ the|DT support|NN of|IN twothirds|NNS of|IN lawmakers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START republicans|NNS have|VBP refused|VBN to|TO go|VB along|IN unless|IN the|DT budget|NN also|RB contained|VBD a|DT spending|NN cap|NN as|IN well|RB as|IN pension|NN and|CC regulatory|JJ reform|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT latest|JJS proposal|NN was|VBD put|VBN together|RP less|JJR than|IN two|CD weeks|NNS after|IN brown|NN vetoed|VBD a|DT budget|NN approved|VBD by|IN the|DT legislature|NN saying|VBG it|PRP was|VBD chock|NN full|JJ of|IN gimmicks|NNS and|CC contained|VBD legally|RB questionable|JJ maneuvers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lawmakers|NNS had|VBD raced|VBN to|TO pass|VB a|DT spending|NN plan|NN by|IN june|NN 15|CD to|TO meet|VB a|DT voterimposed|VBN deadline|NN that|IN required|VBN the|DT legislature|NN to|TO pass|VB a|DT balanced|JJ budget|NN or|CC forfeit|NN their|PRP$ pay|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB state|VBP controller|NN john|NN chiang|NN determined|VBD that|IN the|DT budget|NN was|VBD actually|RB unbalanced|VBN </s>|S_END
+<s>|S_START so|IN lawmakers|NNS who|WP earn|NN $|$ 95291|CD a|DT year|NN and|CC $|$ 142|CD per|IN diem|NN for|IN each|DT day|NN they|PRP are|VBP in|IN session|NN have|VBP gone|VBN without|IN pay|NN since|IN midmonth |NN </s>|S_END
+</p>|P_END
+

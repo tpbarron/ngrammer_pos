@@ -1,0 +1,139 @@
+<p>|P_START
+<s>|S_START ome|NN things|NNS only|RB get|VB bigger|JJR </s>|S_END
+<s>|S_START from|IN boats|NNS and|CC planes|NNS to|TO skyscrapers|NNS and|CC shopping|VBG malls|NNS size|VBP records|NNS are|VBP routinely|RB broken|VBN </s>|S_END
+<s>|S_START companies|NNS are|VBP operating|VBG at|IN record|NN scale|NN too|RB </s>|S_END
+<s>|S_START but|CC if|IN the|DT trend|NN towards|NNS growing|VBG ever|RB larger|JJR is|VBZ clear|JJ the|DT economics|NNS of|IN bigness|NN are|VBP far|RB murkier|RBR </s>|S_END
+<s>|S_START in|IN some|DT cases|NNS like|IN boats|NNS greater|JJR size|NN still|RB promises|VBZ greater|JJR efficiency|NN as|IN fixed|VBN costs|NNS are|VBP spread|VBN over|IN higher|JJR output|NN </s>|S_END
+<s>|S_START in|IN others|NNS like|IN buildings|NNS the|DT gains|NNS from|IN scale|NN may|MD be|VB running|VBG out|RP </s>|S_END
+<s>|S_START where|WRB do|VBP firms|NNS lie|VB on|IN this|DT spectrum|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START container|NN ships|NNS provide|VB a|DT good|JJ example|NN of|IN economies|NNS of|IN scale|NN in|IN action|NN </s>|S_END
+<s>|S_START introduced|VBD in|IN the|DT late|JJ 1950s|CD the|DT first|JJ ships|NNS could|MD carry|VB 480|CD twentyfoot|NN equivalent|NN teu|NN container|NN </s>|S_END
+<s>|S_START by|IN 2006|CD the|DT biggest|JJS could|MD shift|VB 15000|CD teu|NN </s>|S_END
+<s>|S_START cost|NN factors|NNS explain|VBP the|DT rise|NN transport|NN adds|VBZ nothing|NN to|TO the|DT final|JJ value|NN of|IN a|DT good|JJ so|NN cost|NN minimisation|NN is|VBZ allimportant|JJ </s>|S_END
+<s>|S_START ince|NN the|DT shipping|NN cost|NN per|IN container|NN keeps|NNS on|IN falling|VBG as|IN ship|NN size|NN rises|NNS container|NN ships|NNS are|VBP set|VBN to|TO keep|VB growing|VBG </s>|S_END
+<s>|S_START a|DT new|JJ range|NN of|IN 18000|CD teu|NN ships|NNS is|VBZ due|JJ to|TO launch|VB in|IN 2013|CD </s>|S_END
+<s>|S_START per|IN container|NN they|PRP will|MD be|VB the|DT most|JJS efficient|JJ yet|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC it|PRP is|VBZ possible|JJ to|TO exhaust|VB the|DT savings|NNS that|WDT come|VBP with|IN size|NN </s>|S_END
+<s>|S_START between|IN 1931|CD and|CC 2007|CD the|DT record|NN for|IN the|DT world’s|JJ tallest|NN building|NN rose|VBD from|IN 381|CD to|TO 828|CD metre|NN </s>|S_END
+<s>|S_START at|IN first|JJ as|IN buildings|NNS get|VBP taller|JJR the|DT fixed|VBN cost|NN of|IN land|NN per|IN square|JJ metre|NN of|IN office|NN space|NN fall|NN </s>|S_END
+<s>|S_START but|CC other|JJ heightrelated|VBN changes|NNS offset|VBP this|DT saving|NN </s>|S_END
+<s>|S_START the|DT wind|NN force|NN on|IN a|DT building|NN rises|VBZ exponentially|RB with|IN height|JJ meaning|NN design|NN becomes|VBZ more|JJR complex|JJ and|CC costly|JJ </s>|S_END
+<s>|S_START a|DT recent|JJ study|NN by|IN steve|NN watts|NNS and|CC neal|NN kalita|NN of|IN davis|NNS langdon|VBP a|DT consultancy|NN shows|VBZ that|IN construction|NN costs|NNS per|IN square|JJ metre|NN rise|NN as|IN a|DT building|NN gets|VBZ taller|NN </s>|S_END
+<s>|S_START in|IN addition|NN the|DT useable|JJ space|NN per|IN extra|JJ floor|NN starts|VBZ to|TO fall|VB as|IN the|DT central|JJ “core”|NN of|IN the|DT building|NN gets|VBZ bigger|JJR </s>|S_END
+<s>|S_START most|JJS very|RB tall|JJ buildings|NNS are|VBP at|IN an|DT inefficient|NN scale|NN propelled|VBD skyward|NN for|IN reasons|NNS of|IN prestige|NN rather|RB than|IN efficiency|NN </s>|S_END
+<s>|S_START if|IN developers|NNS were|VBD focused|VBN on|IN cost|NN alone|RB they|PRP would|MD opt|VB for|IN clusters|NNS of|IN midrise|NN building|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START businesses|NNS have|VBP also|RB been|VBN getting|VBG bigger|JJR </s>|S_END
+<s>|S_START a|DT snapshot|NN of|IN the|DT american|JJ economy|NN shows|VBZ huge|JJ dispersion|NN in|IN firm|NN size|NN around|IN a|DT third|JJ of|IN american|JJ workers|NNS are|VBP employed|VBN by|IN one|CD of|IN the|DT 6m|CD small|JJ firms|NNS with|IN fewer|JJR than|IN 100|CD workers|NNS and|CC another|DT third|JJ are|VBP employed|VBN by|IN one|CD of|IN the|DT 980|CD large|JJ firms|NNS that|WDT have|VBP over|IN 10000|CD worker|NN </s>|S_END
+<s>|S_START but|CC the|DT longrun|NN trend|NN seems|VBZ to|TO be|VB towards|NNS bigger|JJR companie|NN </s>|S_END
+<s>|S_START in|IN a|DT 1978|CD paper|NN robert|NN lucas|NNS of|IN the|DT university|NN of|IN chicago|NN documented|VBN how|WRB average|JJ firm|NN size|NN in|IN america|NN had|VBD increased|VBN over|IN a|DT 70year|JJ period|NN see|NN lefthand|NN chart|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC at|IN the|DT very|RB top|JJ end|NN of|IN the|DT scale|NN the|DT world’s|NNP biggest|JJS firms|NNS keep|VB on|IN getting|VBG bigger|JJR </s>|S_END
+<s>|S_START this|DT can|MD happen|VB gradually|RB as|IN firms|NNS outdo|VBP their|PRP$ rivals|NNS or|CC suddenly|RB as|IN firms|NNS merge|VBP </s>|S_END
+<s>|S_START indeed|RB mergers|NNS are|VBP particularly|RB important|JJ in|IN explaining|NN gigantism|NN </s>|S_END
+<s>|S_START in|IN the|DT past|JJ 15|CD years|NNS the|DT assets|NNS of|IN the|DT top|JJ 50|CD american|JJ companies|NNS have|VBP risen|VBN from|IN around|IN 70|CD of|IN american|JJ gdp|NN to|TO around|IN 130|CD see|NN righthand|NN chart|NN </s>|S_END
+<s>|S_START all|DT of|IN the|DT top|JJ ten|NN american|NN firms|NNS have|VBP been|VBN involved|VBN in|IN at|IN least|JJS one|CD large|JJ merger|NN or|CC acquisition|NN over|IN the|DT past|JJ 25|CD year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START o|NN are|VBP businesses|NNS like|IN boats|NNS or|CC buildings|NNS are|VBP they|PRP seeking|VBG out|RP economies|NNS of|IN scale|NN or|CC are|VBP they|PRP too|RB big|JJ to|TO be|VB efficient|JJ </s>|S_END
+<s>|S_START one|CD way|NN to|TO answer|VB this|DT question|NN is|VBZ to|TO estimate|VB how|WRB output|NN levels|NNS influence|NN the|DT costs|NNS of|IN production|NN in|IN a|DT competitive|JJ industry|NN </s>|S_END
+<s>|S_START this|DT relationship—known|JJ as|IN a|DT “cost|JJ function”—can|JJ be|NN tricky|JJ to|TO establish|VB because|IN firms|NNS often|RB have|VBP multiple|JJ inputs|NNS and|CC output|NN </s>|S_END
+<s>|S_START take|VB farming|NN </s>|S_END
+<s>|S_START estimating|VBG a|DT cost|NN function|NN requires|VBZ complex|JJ information|NN on|IN how|WRB each|DT farm’s|JJ outputs|NNS milk|VBP meat|NN and|CC crops|NNS and|CC inputs|NNS labour|PRP$ energy|NN feed|NN capital|NN interact|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC once|RB the|DT cost|NN function|NN has|VBZ been|VBN pinned|VBN down|RP it|PRP can|MD be|VB used|VBN to|TO identify|VB scale|NN economie|NN </s>|S_END
+<s>|S_START if|IN average|JJ costs|NNS fall|VBP as|RB a|DT firm|NN of|IN a|DT given|VBN size|NN grows|VBZ bigger|JJR this|DT suggests|VBZ economies|NNS of|IN scale|NN exist|NN for|IN firms|NNS of|IN that|DT size|NN </s>|S_END
+<s>|S_START results|NNS vary|VBP by|IN industry|NN </s>|S_END
+<s>|S_START american|NN dairy|NN farms|NNS for|IN example|NN have|VBP been|VBN getting|VBG bigger|JJR but|CC a|DT recent|JJ paper|NN shows|VBZ there|EX are|VBP still|RB economies|NNS of|IN scale|NN to|TO exploit|VB especially|RB at|IN those|DT many|JJ farms|NNS with|IN fewer|JJR than|IN 200|CD cattle|NN </s>|S_END
+<s>|S_START by|IN contrast|NN railindustry|NN studies|NNS show|VBP dwindling|VBG economies|NNS of|IN scale|NN over|IN time|NN as|IN companies|NNS have|VBP grown|VBN </s>|S_END
+<s>|S_START overall|JJ estimated|VBN cost|NN functions|NNS suggest|VBP the|DT limits|NNS of|IN scale|NN may|MD have|VB been|VBN reached|VBN for|IN some|DT very|RB large|JJ firm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START merger|NN studies|NNS support|NN thi|NN </s>|S_END
+<s>|S_START the|DT “winner’s|JJ curse”|NN describes|VBZ the|DT phenomenon|NN of|IN mergers|NNS destroying|VBG value|NN for|IN the|DT shareholders|NNS of|IN an|DT acquiring|VBG firm|NN </s>|S_END
+<s>|S_START research|NN by|IN mckinsey|NN a|DT consultancy|NN provides|VBZ one|CD explanation|NN close|NN to|TO twothirds|NNS of|IN managers|NNS overestimate|VBP the|DT economies|NNS of|IN scale|NN a|DT merger|NN will|MD deliver|VB often|RB overegging|VBG the|DT benefits|NNS by|IN more|RBR than|IN 25|CD </s>|S_END
+<s>|S_START ize|NN can|MD even|RB drive|VB costs|NNS up|IN if|IN firms|NNS get|VBP too|RB big|JJ to|TO manage|NN efficiently|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START top|JJ dogs|NNS and|CC fat|JJ cat|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN size|NN does|VBZ not|RB keep|VB driving|VBG down|IN costs|NNS why|WRB do|VBP big|JJ firms|NNS keep|VBP expanding|VBG </s>|S_END
+<s>|S_START one|CD possibility|NN is|VBZ that|IN they|PRP are|VBP seeking|VBG to|TO boost|VB profits|NNS not|RB by|IN driving|VBG down|IN costs|NNS but|CC by|IN raising|NN price|NN </s>|S_END
+<s>|S_START buying|VBG up|RP rivals|NNS softens|NNS competition|NN and|CC enables|VBZ firms|NNS to|TO charge|VB more|JJR </s>|S_END
+<s>|S_START american|NN antitrust|VBD regulators|NNS recently|RB looked|VBD back|RB at|IN past|JJ healthcare|NN mergers|NNS and|CC found|VBN that|IN prices|NNS rose|VBD significantly|RB after|IN some|DT deal|NN </s>|S_END
+<s>|S_START another|DT view|NN is|VBZ that|IN mergers|NNS are|VBP driven|VBN by|IN something|NN other|JJ than|IN profit|NN </s>|S_END
+<s>|S_START the|DT “empirebuilding”|NN theory|NN holds|NNS that|WDT managers|NNS are|VBP out|IN to|TO increase|VB the|DT scale|NN of|IN their|PRP$ business|NN whatever|NN the|DT cost|NN in|IN terms|NNS of|IN creeping|VBG inefficiencie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tate|NN safety|NN nets|NNS can|MD distort|VB incentives|NNS too|RB </s>|S_END
+<s>|S_START america’s|NNS leading|VBG three|CD car|NN manufacturers|NNS have|VBP all|DT grown|VBN through|IN mergers|NNS each|DT of|IN them|PRP employs|VBZ over|IN 50000|CD workers|NNS and|CC the|DT government|NN balked|VBD at|IN letting|NN them|PRP fail|VBP during|IN the|DT crisi|NN </s>|S_END
+<s>|S_START ome|NN firms|NNS may|MD be|VB growing|VBG not|RB to|TO lower|JJR costs|NNS but|CC to|TO receive|VB the|DT comfort|NN of|IN implicit|NN state|NN support|NN </s>|S_END
+<s>|S_START a|DT 2011|CD paper|NN by|IN federal|JJ reserve|NN staff|NN supports|NNS this|DT conclusion|NN suggesting|VBG banks|NNS pay|VBP a|DT premium|NN to|TO merge|VB if|IN the|DT tieup|NN gives|VBZ them|PRP “toobigtofail”|-NONE- statu|VBP </s>|S_END
+<s>|S_START none|NN of|IN these|DT reasons|NNS for|IN operating|NN at|IN a|DT vast|JJ size|NN is|VBZ benign|JJ </s>|S_END
+<s>|S_START all|DT suggest|VBP that|IN antitrust|JJ authorities|NNS should|MD be|VB much|RB more|RBR sceptical|JJ about|IN mergers|NNS that|WDT claim|VBP to|TO be|VB justified|VBN because|IN of|IN economies|NNS of|IN scale|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ource|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “tall|JJ buildings|NNS a|DT strategic|JJ design|NN guide|NN –|: cost|NN section”|-NONE- and|CC “the|NNP economics|NNS of|IN high|JJ rise”|NN by|IN steve|NN watts|NNS and|CC neal|NN kalita|NN davis|VBZ langdon|NN tall|NN buildings|NNS research|NN </s>|S_END
+<s>|S_START contact|NN details|NNS here|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “on|JJ the|DT size|NN distribution|NN of|IN business|NN firms”|NN by|IN re|NN </s>|S_END
+<s>|S_START lucas|NNS bell|VBP journal|JJ of|IN economics|NNS 1978|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “scale|JJ economies|NNS and|CC inefficiency|NN of|IN us|PRP dairy|NN farms”|-NONE- by|IN r|NN mosheim|NN and|CC c|NN lovell|NN american|NN journal|NN of|IN agricultural|JJ economics|NNS 913|CD august|NN 2009|CD 777–794|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “rail|JJ cost|NN functions|NNS and|CC scale|NN elasticities|NNS a|DT metaanalysis”|JJ by|IN e|NN pels|NNS and|CC p|VB rietveld|NN 2003|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “anomalies|NNS the|DT winners|NNS curse”|-NONE- by|IN richard|NN h|NN thaler|NN journal|NN of|IN economic|JJ perspectives|NNS vol|NN </s>|S_END
+<s>|S_START 2|LS no|DT </s>|S_END
+<s>|S_START 1|LS winter|NN 1988|CD pp|NN </s>|S_END
+<s>|S_START 191202|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “where|JJ mergers|NNS go|VBP wrong”|JJ mckinsey|NN quarterly|RB 2004|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ymposium|NN on|IN retrospective|JJ merger|NN analysis|NN in|IN healthcare|NN international|JJ journal|NN of|IN the|DT economics|NNS of|IN business|NN volume|NN 18|CD number|NN 1|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “how|JJ much|JJ did|NN banks|NNS pay|VBP to|TO become|VB toobigtofail|NN and|CC to|TO become|VB systemically|RB important”|-NONE- by|IN e|NN brewer|NN and|CC j|NN jagtiani|NN federal|JJ reserve|NN bank|NN of|IN philadelphia|NN working|VBG paper|NN no|DT </s>|S_END
+<s>|S_START 0934|CD 2011|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogsfreeexchange|NN </s>|S_END
+</p>|P_END
+

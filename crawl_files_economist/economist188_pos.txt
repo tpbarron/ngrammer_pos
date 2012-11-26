@@ -1,0 +1,78 @@
+<p>|P_START
+<s>|S_START monetary|JJ stimulus|NN gets|NNS you|PRP only|RB so|RB far|RB </s>|S_END
+<s>|S_START in|IN america|NN thirdquarter|NN profits|NNS and|CC revenues|NNS for|IN companies|NNS in|IN the|DT sp|NN 500|CD index|NN appear|NN to|TO have|VB fallen|VBN year|NN on|IN year|NN for|IN the|DT first|JJ time|NN since|IN 2009|CD according|VBG to|TO thomson|NN reuter|NN </s>|S_END
+<s>|S_START profits|NNS for|IN roughly|RB half|DT the|DT firms|NNS in|IN the|DT european|JJ stoxx|NN 600|CD have|VBP fallen|VBN short|JJ of|IN expectations|NNS so|IN far|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START companies|NNS in|IN search|NN of|IN a|DT culprit|NN may|MD want|VB to|TO glance|VB in|IN the|DT mirror|NN </s>|S_END
+<s>|S_START firms|NNS are|VBP trimming|VBG their|PRP$ budgets|NNS for|IN everything|NN from|IN technologyconsulting|VBG services|NNS to|TO semiconductor|NN equipment|NN in|IN the|DT face|NN of|IN what|WP sir|NN martin|NN sorrell|NN of|IN wpp|NN a|DT british|JJ advertising|NN and|CC marketing|NN giant|NN calls|VBZ four|CD “grey|JJ swans”|NN unlike|IN black|JJ swans|NNS people|NNS know|VBP about|IN grey|NN one|CD </s>|S_END
+<s>|S_START the|DT four|CD worries|NNS unnerving|VBG business|NN are|VBP the|DT eurozone|NN crisis|NN upheaval|NN in|IN the|DT middle|NN east|NN a|DT possible|JJ recession|NN in|IN china|NN and|CC america’s|NNP economic|JJ health|NN and|CC “fiscal|JJ cliff”—the|NN combination|NN of|IN tax|NN increases|NNS and|CC spending|NN cuts|NNS scheduled|VBN to|TO occur|VB at|IN the|DT end|NN of|IN this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ not|RB a|DT new|JJ problem|NN </s>|S_END
+<s>|S_START investment|NN has|VBZ steadily|RB risen|VBN since|IN the|DT recession|NN ended|VBD but|CC not|RB as|IN vigorously|RB as|IN profit|NN </s>|S_END
+<s>|S_START in|IN america|NN for|IN example|NN nominal|JJ capital|NN expenditure|NN this|DT year|NN on|IN an|DT annualised|VBN basis|NN has|VBZ risen|VBN by|IN 6|CD compared|VBN with|IN 2007|CD internal|JJ cash|NN flow|NN is|VBZ up|IN by|IN 32|CD </s>|S_END
+<s>|S_START companies|NNS have|VBP been|VBN net|JJ suppliers|NNS instead|RB of|IN users|NNS of|IN funds|NNS to|TO the|DT rest|NN of|IN the|DT economy|NN since|IN 2008|CD </s>|S_END
+<s>|S_START firms|NNS in|IN the|DT sp|NN 500|CD held|NN roughly|RB $|$ 900|CD billion|CD of|IN cash|NN at|IN the|DT end|NN of|IN june|NN according|VBG to|TO thomson|NN reuters|NNS down|IN a|DT bit|NN from|IN a|DT year|NN earlier|JJR but|CC still|RB 40|CD up|RP on|IN 2008|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START business|NN leaders|NNS and|CC conservative|JJ critics|NNS cite|VBP that|IN cash|NN mountain|NN as|IN proof|JJ that|IN meddlesome|NN federal|JJ regulations|NNS and|CC america’s|JJ high|NN corporatetax|NN rate|NN is|VBZ locking|VBG up|RP cash|NN and|CC depressing|VBG investment|NN </s>|S_END
+<s>|S_START but|CC that|DT can|MD not|RB explain|VB why|WRB the|DT same|JJ phenomenon|NN prevails|NNS worldwide|VBP </s>|S_END
+<s>|S_START japanese|JJ companies’|NN liquid|NN assets|NNS have|VBP soared|VBN by|IN around|IN 75|CD since|IN 2007|CD to|TO $|$ 28|CD trillion|CD according|VBG to|TO isi|VB group|NN a|DT broker|NN </s>|S_END
+<s>|S_START cash|NN stockpiles|NNS have|VBP continued|VBN to|TO grow|VB in|IN britain|NN and|CC canada|NN too|RB to|TO the|DT immense|NN frustration|NN of|IN policymakers|NNS there|EX </s>|S_END
+<s>|S_START “dead|JJ money”|NN is|VBZ how|WRB mark|NN carney|NN the|DT bank|NN of|IN canada’s|NNP governor|NN has|VBZ described|VBN the|DT nearly|RB $|$ 300|CD billion|CD in|IN cash|NN canadian|NN companies|NNS now|RB hold|VBP 25|CD more|JJR than|IN in|IN 2008|CD </s>|S_END
+<s>|S_START mr|NN carney|NN admonished|VBD them|PRP to|TO “put|VB money|NN to|TO work|VB and|CC if|IN they|PRP can’t|VBP think|VBP of|IN what|WP to|TO do|VB with|IN it|PRP they|PRP should|MD give|VB it|PRP back|RB to|TO their|PRP$ shareholders”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START no|DT single|JJ factor|NN seems|VBZ to|TO explain|VB companies’|JJ high|JJ saving|NN </s>|S_END
+<s>|S_START the|DT bank|NN of|IN england|NN notes|NNS that|WDT naturalresource|NN companies|NNS account|VBP for|IN a|DT disproportionate|JJ share|NN of|IN the|DT cash|NN buildup|NN </s>|S_END
+<s>|S_START that|DT may|MD reflect|VB the|DT boom|NN in|IN commodities|NNS prices|NNS and|CC the|DT paucity|NN of|IN promising|VBG new|JJ sources|NNS of|IN supply|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START low|JJ interest|NN rates|NNS have|VBP reduced|VBN borrowing|VBG costs|NNS adding|VBG roughly|RB a|DT percentage|NN point|NN to|TO american|JJ profit|NN margins|NNS according|VBG to|TO bca|VB research|NN </s>|S_END
+<s>|S_START yet|RB rockbottom|VBP interest|NN rates|NNS also|RB make|VBP it|PRP less|JJR attractive|JJ to|TO hold|VB cash|NN </s>|S_END
+<s>|S_START the|DT financial|JJ crisis|NN has|VBZ made|VBN firms|NNS more|RBR skittish|JJ about|IN relying|VBG on|IN banks|NNS or|CC securities|NNS markets|NNS for|IN fund|NN </s>|S_END
+<s>|S_START ince|NN questions|NNS were|VBD raised|VBN in|IN 2008|CD about|IN the|DT ability|NN of|IN general|JJ electric’s|NNS finance|NN arm|NN to|TO fund|VB itself|PRP the|DT company|NN has|VBZ been|VBN stockpiling|VBG cash|NN $|$ 85|CD billion|CD at|IN the|DT end|NN of|IN the|DT third|JJ quarter|NN the|DT most|JJS in|IN the|DT sp|NN 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT rapid|JJ reversal|NN is|VBZ unlikely|JJ </s>|S_END
+<s>|S_START that’s|NNS because|IN rising|VBG corporate|JJ saving|VBG has|VBZ deeper|JJR roots|NNS than|IN the|DT crisis|NN the|DT commodities|NNS boom|VBP or|CC this|DT interestrate|NN cycle|NN </s>|S_END
+<s>|S_START in|IN a|DT recent|JJ study|NN loukas|NNS karabarbounis|VBZ and|CC brent|NN neiman|NN at|IN the|DT university|NN of|IN chicago|NN found|VBD that|IN across|IN 51|CD countries|NNS they|PRP examined|VBD between|IN 1975|CD and|CC 2007|CD companies’|NN share|NN of|IN private|JJ saving|NN rose|VBD in|IN aggregate|NN by|IN 20|CD percentage|NN point|NN </s>|S_END
+<s>|S_START in|IN countries|NNS where|WRB corporate|JJ saving|VBG rose|NN labour’s|NNS share|NN of|IN gdp|NN in|IN the|DT corporate|JJ sector|NN shrank|NN by|IN five|CD percentage|NN points|NNS in|IN aggregate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN karabarbounis|NNS and|CC mr|NN neiman|NN link|NN both|DT rising|VBG corporate|JJ saving|VBG and|CC labour’s|JJ shrinking|NN share|NN of|IN gdp|NN to|TO a|DT fall|NN in|IN the|DT relative|JJ price|NN of|IN investment|NN goods|NNS that|WDT began|VBD in|IN the|DT early|JJ 1980|CD </s>|S_END
+<s>|S_START that|DT drop|NN may|MD be|VB down|RB to|TO the|DT plunging|NN cost|NN of|IN computing|NN or|CC to|TO the|DT shift|NN in|IN capitalgoods|NNS production|NN towards|NNS lowerwage|NN developing|VBG countries|NNS or|CC both|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whatever|NN the|DT reason|NN firms|NNS have|VBP responded|VBN by|IN substituting|NN away|RB from|IN labour|PRP$ and|CC towards|NNS capital|NN and|CC by|IN more|RBR than|IN textbook|NN economic|JJ models|NNS imply|RB </s>|S_END
+<s>|S_START and|CC to|TO finance|VB this|DT investment|NN companies|NNS have|VBP steadily|RB boosted|VBN saving|VBG over|IN time|NN </s>|S_END
+<s>|S_START just|RB as|IN households|NNS can|MD save|VB each|DT year|NN and|CC take|VB out|RP a|DT mortgage|NN that|WDT does|VBZ not|RB mean|VB firms|NNS stopped|VBN borrowing|VBG indeed|RB american|JJ businesses|NNS have|VBP by|IN some|DT measures|NNS become|VBP more|RBR indebted|VBN in|IN recent|JJ decade|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT authors|NNS do|VBP not|RB have|VB comparable|JJ data|NNS for|IN all|DT 51|CD countries|NNS since|IN 2007|CD </s>|S_END
+<s>|S_START but|CC they|PRP do|VBP have|VBP numbers|NNS for|IN the|DT four|CD largest|JJS economies|NNS see|VBP chart|NN </s>|S_END
+<s>|S_START the|DT data|NNS there|RB show|VBP that|IN the|DT corporate|JJ share|NN of|IN private|JJ savings|NNS has|VBZ since|IN dipped|VBN a|DT bit|NN in|IN part|NN because|IN household|NN savings|NNS have|VBP risen|VBN although|IN it|PRP remains|VBZ high|JJ in|IN absolute|JJ term|NN </s>|S_END
+<s>|S_START labour’s|NNS share|VBP of|IN gdp|NN has|VBZ stabilised|VBN at|IN a|DT low|JJ level|NN </s>|S_END
+<s>|S_START the|DT urge|NN to|TO save|VB may|MD be|VB lessening|VBG </s>|S_END
+<s>|S_START japanese|JJ firms|NNS with|IN few|JJ growth|NN prospects|NNS at|IN home|NN have|VBP been|VBN making|VBG foreign|JJ deal|NN </s>|S_END
+<s>|S_START marc|NN zenner|NN of|IN jpmorgan|NN chase|NN notes|NNS that|WDT in|IN the|DT past|JJ 18|CD months|NNS firms|NNS that|WDT announce|NN acquisitions|NNS have|VBP been|VBN rewarded|VBN with|IN higher|JJR share|NN price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB even|RB if|IN they|PRP are|VBP loosening|VBG the|DT purse|NN strings|NNS a|DT bit|NN companies|NNS are|VBP unlikely|RB to|TO abandon|VB their|PRP$ frugal|JJ ways|NNS in|IN the|DT near|NN future|NN </s>|S_END
+<s>|S_START falling|VBG corporatetax|NN rates|NNS have|VBP increased|VBN the|DT appeal|NN of|IN capital|NN over|IN labour|PRP$ heightened|VBN uncertainty|NN and|CC capricious|JJ funding|NN markets|NNS seem|VBP a|DT recurring|NN part|NN of|IN the|DT landscape|NN </s>|S_END
+<s>|S_START that|DT should|MD make|VB firms|NNS all|DT the|DT more|RBR determined|JJ to|TO fund|VB growth|NN internally|RB </s>|S_END
+<s>|S_START between|IN now|RB and|CC 2016|CD ge|NN expects|VBZ to|TO generate|VB $|$ 100|CD billion|CD in|IN cash|NN enough|RB to|TO finance|VB investment|NN acquisitions|NNS and|CC dividends|NNS and|CC to|TO buy|VB back|RP enough|JJ stock|NN that|WDT shares|NNS outstanding|JJ will|MD be|VB lower|JJR than|IN before|IN the|DT crisi|NN </s>|S_END
+<s>|S_START asked|VBD recently|RB if|IN ge|NN was|VBD tempted|VBN to|TO spend|VB more|JJR of|IN its|PRP$ cash|NN pile|NN on|IN acquisitions|NNS jeffrey|NN immelt|VBD the|DT chief|NN executive|NN replied|VBD “it’s|JJ not|RB burning|VBG a|DT hole|NN in|IN our|PRP$ pocket”|JJ </s>|S_END
+</p>|P_END
+

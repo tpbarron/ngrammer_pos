@@ -1,0 +1,128 @@
+<p>|P_START
+<s>|S_START enrolling|VBG in|IN medicare|NN </s>|S_END
+<s>|S_START dont|NN get|VBD tangled|VBN up|RP up|RP in|IN mistakes|NNS that|WDT are|VBP easily|RB avoided|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START money|NN magazine|NN when|WRB houston|NN attorney|NN barbara|NN quackenbush|NN retired|VBD at|IN age|NN 67|CD she|PRP decided|VBD to|TO stay|VB on|RP her|PRP$ company|NN health|NN plan|NN through|IN cobra|NN rather|RB than|IN sign|NN up|IN for|IN medicare|NN </s>|S_END
+<s>|S_START but|CC as|IN her|PRP$ cobra|NN coverage|NN neared|VBD expiration|NN she|PRP learned|VBD that|IN this|DT choice|NN will|MD saddle|VB her|PRP with|IN a|DT medicare|NN penalty|NN requiring|VBG her|PRP to|TO pay|VB 20|CD higher|JJR premiums|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB scarier|JJR shell|NN be|VB left|VBN without|IN coverage|NN for|IN 10|CD months|NNS </s>|S_END
+<s>|S_START when|WRB quackenbush|JJ found|NN out|IN she|PRP says|VBZ i|PRP was|VBD so|RB upset|VBN i|PRP nearly|RB dropped|VBD the|DT phone|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START reaching|VBG the|DT big|JJ sixfive|JJ is|VBZ your|PRP$ ticket|NN to|TO guaranteed|VB affordable|JJ insurance|NN via|IN the|DT medicare|NN system|NN provided|VBD you|PRP comply|RB with|IN a|DT byzantine|NN set|NN of|IN rules|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD election|NN 2012|CD tackling|VBG medicare|NN costs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START getting|VBG the|DT signup|NN process|NN right|RB can|MD be|VB tricky|JJ for|IN anyone|NN but|CC its|PRP$ become|NN a|DT major|JJ headache|NN for|IN the|DT growing|VBG number|NN of|IN folks|NNS working|VBG past|JJ 65|CD say|NN advocates|NNS particularly|RB now|RB that|IN medicare|NN enrollment|NN no|DT longer|NN comes|VBZ at|IN the|DT same|JJ time|NN people|NNS start|VB collecting|VBG full|JJ social|JJ security|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP pitfalls|NNS you|PRP must|MD watch|VB out|RP for|IN says|NNS david|VBD lipschutz|NN a|DT policy|NN attorney|NN at|IN the|DT center|NN for|IN medicare|NN advocacy|NN </s>|S_END
+<s>|S_START here|RB are|VBP four|CD big|JJ ones|NNS to|TO avoid|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mistake|NN no|DT </s>|S_END
+<s>|S_START 1|LS not|RB enrolling|VBG because|IN youre|NN employed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN youre|NN still|RB working|VBG and|CC have|VBP coverage|NN from|IN your|PRP$ job|NN you|PRP dont|VBP have|VBP to|TO sign|VB up|IN at|IN 65|CD </s>|S_END
+<s>|S_START many|JJ workers|NNS though|IN benefit|NN from|IN enrolling|VBG especially|RB when|WRB you|PRP consider|VBP that|DT you|PRP can|MD take|VB parts|NNS a|DT and|CC b|NN at|IN different|JJ times|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START who|WP should|MD sign|VB up|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START part|NN a|DT which|WDT covers|VBZ hospitals|NNS is|VBZ a|DT nobrainer|NN for|IN most|JJS people|NNS </s>|S_END
+<s>|S_START its|PRP$ usually|RB free|JJ and|CC may|MD pick|VB up|RP costs|NNS your|PRP$ job|NN does|VBZ not|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP work|VBP for|IN a|DT small|JJ company|NN your|PRP$ firm|NN may|MD require|VB that|IN you|PRP take|VBP part|NN b|NN which|WDT covers|NNS doctor|NN visits|NNS so|RB that|IN medicare|JJ can|MD start|VB paying|VBG most|JJS of|IN your|PRP$ expenses|NNS </s>|S_END
+<s>|S_START anyone|NN with|IN a|DT highdeductible|JJ plan|NN can|MD also|RB benefit|VB from|IN part|NN b|NN since|IN it|PRP often|RB picks|VBZ up|RP costs|NNS before|IN youve|NN met|NN the|DT deductible|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT caveat|NN if|IN you|PRP have|VBP a|DT health|NN savings|NNS account|NN you|PRP must|MD stop|VB making|VBG deposits|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START who|WP should|MD hold|VB off|RP on|IN part|NN b|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START workers|NNS at|IN large|JJ companies|NNS </s>|S_END
+<s>|S_START the|DT plan|NN costs|VBZ at|IN least|JJS $|$ 100|CD a|DT month|NN and|CC often|RB provides|VBZ little|RB benefit|NN beyond|IN what|WP their|PRP$ job|NN covers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mistake|NN no|DT </s>|S_END
+<s>|S_START 2|LS failing|VBG to|TO sign|VB up|IN when|WRB you|PRP or|CC your|PRP$ spouse|NN retires|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START you|PRP must|MD enroll|VB in|IN part|NN b|NN eight|NN months|NNS from|IN your|PRP$ last|JJ month|NN of|IN work|NN even|RB if|IN you|PRP have|VBP retiree|JJ benefits|NNS or|CC cobra|VB </s>|S_END
+<s>|S_START miss|NN that|IN date|NN and|CC your|PRP$ coverage|NN wont|NN kick|NN in|IN for|IN three|CD to|TO 15|CD months|NNS </s>|S_END
+<s>|S_START youll|NN also|RB face|VBP a|DT 10|CD premium|NN penalty|NN for|IN every|DT 12|CD months|NNS you|PRP delay|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN quackenbush|JJ going|VBG on|IN cobra|NN for|IN 18|CD months|NNS without|IN enrolling|VBG in|IN part|NN b|NN triggered|VBD a|DT penalty|NN and|CC waiting|VBG period|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD figuring|VBG out|IN health|NN insurance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN youre|NN 65|CD or|CC older|JJR and|CC get|VB benefits|NNS from|IN your|PRP$ spouses|NNS job|NN remember|NN that|IN the|DT same|JJ rules|NNS apply|RB when|WRB she|PRP retires|VBZ says|VBZ frederic|JJ riccardi|NN of|IN the|DT medicare|NN rights|NNS center|NN you|PRP must|MD sign|VB up|RP within|IN eight|CD months|NNS of|IN her|PRP$ final|JJ month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mistake|NN no|DT </s>|S_END
+<s>|S_START 3|LS accidentally|RB voiding|VBG retiree|NN coverage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START signing|VBG up|IN for|IN an|DT advantage|NN plan|NN which|WDT offers|NNS coverage|VBP as|RB an|DT alternative|NN to|TO parts|NNS a|DT and|CC b|NN could|MD prompt|VB your|PRP$ former|JJ employer|NN to|TO kick|VB you|PRP off|IN its|PRP$ insurance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD the|DT painful|JJ new|JJ trend|NN in|IN medicare|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START going|VBG with|IN a|DT private|JJ part|NN d|NN plan|NN which|WDT covers|NNS drugs|VBZ may|MD have|VB the|DT same|JJ effect|NN </s>|S_END
+<s>|S_START the|DT reason|NN says|VBZ john|NN grosso|RB a|DT consultant|NN at|IN aon|NN hewitt|NN is|VBZ that|IN most|JJS retiree|JJ coverage|NN is|VBZ designed|VBN to|TO work|VB with|IN traditional|JJ medicare|NN and|CC isnt|NN compatible|JJ with|IN private|JJ plans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mistake|NN no|DT </s>|S_END
+<s>|S_START 4|LS not|RB considering|VBG medigap|NN early|RB on|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT first|JJ six|CD months|NNS after|IN you|PRP enroll|VBP in|IN part|NN b|NN is|VBZ usually|RB the|DT cheapest|JJS time|NN to|TO buy|VB a|DT medigap|NN plan|NN which|WDT covers|NNS deductibles|VBZ and|CC other|JJ costs|NNS not|RB picked|VBN up|RP by|IN medicare|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START people|NNS still|RB covered|VBN by|IN their|PRP$ job|NN may|MD not|RB need|VB medigap|NN right|RB away|RB but|CC if|IN you|PRP buy|VBP after|IN this|DT sixmonth|NN period|NN your|PRP$ monthly|JJ premium|NN could|MD jump|VB by|IN $|$ 50|CD or|CC more|JJR especially|RB if|IN you|PRP have|VBP a|DT health|NN problem|NN </s>|S_END
+<s>|S_START worse|NN you|PRP could|MD end|VB up|RP being|VBG denied|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START send|NN the|DT help|NN desk|NN questions|NNS about|IN medicare|NN </s>|S_END
+</p>|P_END
+

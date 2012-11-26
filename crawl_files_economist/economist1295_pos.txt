@@ -1,0 +1,111 @@
+<p>|P_START
+<s>|S_START america|NN is|VBZ full|JJ of|IN vast|JJ empty|NN space|NN </s>|S_END
+<s>|S_START europe|NN by|IN contrast|NN seems|VBZ chockablock|NN with|IN humanity|NN its|PRP$ history|NN shaped|VBD by|IN a|DT lack|NN of|IN continental|JJ elbowroom|NN </s>|S_END
+<s>|S_START ironically|RB europe’s|JJ congestion|NN partly|RB reflects|VBZ the|DT fact|NN that|IN its|PRP$ large|JJ cities|NNS suck|VBP up|RP relatively|RB few|JJ people|NNS </s>|S_END
+<s>|S_START although|IN america|NN and|CC the|DT euro|NN zone|NN have|VBP similar|JJ total|JJ populations|NNS america’s|-NONE- 50|CD largest|JJS metropolitan|JJ areas|NNS are|VBP home|RB to|TO 164m|CD people|NNS compared|VBN with|IN just|RB 102m|CD in|IN the|DT euro|NN area|NN </s>|S_END
+<s>|S_START this|DT striking|NN disparity|NN has|VBZ big|JJ consequence|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START differences|NNS in|IN metropolitan|NN populations|NNS may|MD help|VB explain|VB gaps|NNS in|IN productivity|NN and|CC income|NN </s>|S_END
+<s>|S_START western|NN europe’s|NNS perperson|NN gdp|NN is|VBZ 72|CD of|IN america’s|JJ on|IN a|DT purchasingpowerparity|NN basi|NN </s>|S_END
+<s>|S_START a|DT recent|JJ study|NN by|IN the|DT mckinsey|NN global|JJ institute|NN the|DT consultancy’s|NNP research|NN arm|NN reckons|NNS that|WDT some|DT threequarters|NNS of|IN this|DT gap|NN can|MD be|VB chalked|VBN up|RP to|TO europe’s|NNS relatively|RB diminutive|JJ citie|NN </s>|S_END
+<s>|S_START more|JJR americans|NNS than|IN europeans|NNS live|VBP in|IN big|JJ cities|NNS there|EX is|VBZ a|DT particular|JJ divergence|NN in|IN the|DT size|NN of|IN each|DT region’s|JJ “middleweight”|NN cities|NNS those|DT that|WDT teem|PRP just|RB a|DT little|RB less|RBR than|IN the|DT likes|NNS of|IN new|JJ york|NN and|CC paris|VBZ see|VB chart|NN </s>|S_END
+<s>|S_START and|CC the|DT premium|NN earned|VBD by|IN americans|NNS in|IN large|JJ cities|NNS relative|JJ to|TO those|DT in|IN the|DT countryside|NN is|VBZ larger|JJR than|IN that|DT earned|VBN by|IN urban|NN european|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT advantage|NN bestowed|VBD by|IN large|JJ cities|NNS can|MD be|VB explained|VBN by|IN their|PRP$ evolving|NN economic|JJ role|NN </s>|S_END
+<s>|S_START in|IN the|DT industrial|JJ era|NN cities|NNS boomed|VBD because|IN expensive|JJ transport|NN made|VBD it|PRP attractive|JJ for|IN firms|NNS to|TO locate|VB near|IN coal|NN deposits|NNS waterways|VBZ and|CC each|DT other|JJ </s>|S_END
+<s>|S_START isolated|VBD businesses|NNS could|MD not|RB match|VB the|DT cost|NN savings|NNS from|IN compact|NN urban|NN supply|NN chain|NN </s>|S_END
+<s>|S_START the|DT industrial|JJ heartlands|NNS in|IN europe|NN and|CC america|NN sprang|NN up|IN for|IN these|DT reason|NN </s>|S_END
+<s>|S_START yet|RB falling|VBG transport|NN costs|NNS have|VBP made|VBN this|DT centripetal|JJ force|NN less|RBR important|JJ over|IN the|DT past|JJ halfcentury|NN leaving|VBG many|JJ industrial|JJ cities|NNS like|IN detroit|NN in|IN deep|NN trouble|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cities|NNS today|NN have|VBP a|DT productivity|NN advantage|NN for|IN different|JJ reasons|NNS to|TO do|VB with|IN ideas|NNS rather|RB than|IN cost|NN </s>|S_END
+<s>|S_START when|WRB one|CD firm|NN in|IN a|DT city|NN comes|VBZ up|IN with|IN a|DT new|JJ technique|NN product|NN or|CC design|NN nearby|NN firms|NNS may|MD quickly|RB build|VB on|IN it|PRP or|CC hire|VB its|PRP$ creator|NN </s>|S_END
+<s>|S_START one|CD firm’s|JJ innovation|NN boosts|NNS its|PRP$ own|JJ productivity|NN but|CC also|RB spills|VBZ over|IN to|TO other|JJ businesse|NN </s>|S_END
+<s>|S_START companies|NNS that|DT prefer|NN seclusion|NN cut|VBD themselves|PRP off|IN from|IN these|DT “knowledge|JJ spillovers”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uch|JJ spillovers|NNS mattered|VBN in|IN the|DT industrial|JJ age|NN too|RB </s>|S_END
+<s>|S_START alfred|VBD marshall|VBN an|DT economist|NN waxed|VBN lyrical|JJ on|IN the|DT subject|NN in|IN 1890|CD noting|VBG that|IN “the|DT mysteries|NNS of|IN the|DT trade|NN become|NN no|DT mysteries|NNS but|CC are|VBP as|RB it|PRP were|VBD in|IN the|DT air”|NN in|IN his|PRP$ book|NN “triumph|NN of|IN the|DT city”|JJ ed|VBN glaeser|NN of|IN harvard|NN university|NN describes|VBZ a|DT findesiècle|JJ detroit|NN that|WDT resembles|VBZ a|DT 20thcentury|JJ silicon|NN valley|NN as|IN henry|NN ford|NN ransom|NN olds|NNS and|CC david|VBD buick|NN keep|VB tabs|NNS on|IN and|CC occasionally|RB work|VB with|IN each|DT other|JJ to|TO pioneer|NN a|DT car|NN industry|NN out|IN of|IN their|PRP$ garage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT importance|NN of|IN spillovers|NNS seems|VBZ to|TO be|VB increasing|VBG even|RB though|IN the|DT costs|NNS of|IN communication|NN are|VBP falling|VBG </s>|S_END
+<s>|S_START advanced|VBD information|NN technology|NN makes|VBZ it|PRP easier|JJR for|IN someone|NN in|IN san|NN francisco|NN to|TO speak|VB to|TO someone|NN in|IN paris|NN but|CC it|PRP also|RB makes|VBZ the|DT ideas|NNS to|TO be|VB communicated|VBN more|RBR complex|JJ </s>|S_END
+<s>|S_START academic|JJ citations|NNS provide|VBP a|DT simple|JJ way|NN to|TO track|VB this|DT evolution|NN </s>|S_END
+<s>|S_START a|DT 2008|CD paper|NN by|IN benjamin|NN jones|NNS of|IN northwestern|NN university|NN finds|NNS that|WDT it|PRP takes|VBZ ever|RB more|JJR people|NNS to|TO produce|VB new|JJ research|NN a|DT trend|NN he|PRP attributes|VBZ to|TO the|DT increasing|VBG “burden|JJ of|IN knowledge”|JJ associated|VBN with|IN rising|VBG technological|JJ complexity|NN and|CC an|DT expanding|VBG knowledge|NN base|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT study|NN by|IN pierre|NN azoulay|NN of|IN the|DT massachusetts|NNS institute|VBP of|IN technology|NN joshua|NN graff|NN zivin|NN of|IN the|DT university|NN of|IN california|NN san|NN diego|NN and|CC columbia|NN university’s|NNS bhaven|RB sampat|JJ also|RB tracked|VBD academic|JJ work|NN </s>|S_END
+<s>|S_START the|DT authors|NNS find|VBP that|IN when|WRB a|DT prominent|NN researcher|NN moves|NNS from|IN one|CD city|NN to|TO another|DT his|PRP$ peers|NNS in|IN the|DT origin|NN city|NN are|VBP less|RBR likely|JJ to|TO cite|VB his|PRP$ patent|NN </s>|S_END
+<s>|S_START innovation|NN today|NN requires|VBZ an|DT everlarger|NN crowd|NN of|IN experts|NNS preferably|RB working|VBG in|IN the|DT same|JJ garage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT makes|VBZ more|JJR densely|RB populated|VBN places|NNS more|RBR attractive|JJ to|TO people|NNS who|WP want|JJ to|TO share|VB knowledge|NN </s>|S_END
+<s>|S_START technology|NN innovators|NNS and|CC entrepreneurs|NNS congregate|VBP in|IN silicon|NN valley|NN for|IN instance|NN rather|RB than|IN in|IN smaller|JJR places|NNS where|WRB they|PRP have|VBP less|JJR to|TO offer|VB to|TO or|CC get|VB from|IN wouldbe|NN partner|NN </s>|S_END
+<s>|S_START and|CC knowledgesharing|VBG among|IN such|JJ people|NNS tends|NNS to|TO make|VB cities|NNS more|RBR productive|JJ as|IN they|PRP get|VBP bigger|JJR </s>|S_END
+<s>|S_START in|IN a|DT 2009|CD paper|NN mr|NN glaeser|NN and|CC matthew|VB resseger|NN of|IN harvard|NN university|NN find|NN that|IN in|IN highly|RB skilled|VBN areas|NNS city|NN size|NN explains|VBZ 45|CD of|IN the|DT variation|NN in|IN worker|NN productivity|NN it|PRP has|VBZ almost|RB no|DT effect|NN in|IN underskilled|JJ citie|NN </s>|S_END
+<s>|S_START this|DT connection|NN between|IN size|NN skills|NNS and|CC productivity|NN is|VBZ not|RB simply|RB due|JJ to|TO brainier|JJR workers|NNS choosing|VBG to|TO live|VB in|IN more|JJR populous|JJ place|NN </s>|S_END
+<s>|S_START the|DT cities|NNS themselves|PRP seem|VBP to|TO promote|VB learning|NN </s>|S_END
+<s>|S_START mr|NN glaeser|NN and|CC mr|NN resseger|NN note|NN that|IN new|JJ arrivals|NNS to|TO big|JJ cities|NNS do|VBP not|RB receive|VB the|DT city’s|JJ wage|NN premium|NN all|DT at|IN once|RB but|CC rather|RB enjoy|VBP faster|JJR wage|NN growth|NN over|IN time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START no|DT fire|NN without|IN big|JJ smoke|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP explains|VBZ europe’s|JJ relatively|RB small|JJ citie|NN </s>|S_END
+<s>|S_START regulatory|JJ barriers|NNS to|TO growth|NN may|MD be|VB to|TO blame|VB </s>|S_END
+<s>|S_START tight|NN zoning|VBG rules|NNS limit|NN housing|VBG supply|NN and|CC raise|VB prices|NNS by|IN driving|VBG a|DT wedge|NN between|IN construction|NN costs|NNS and|CC market|NN price|NN </s>|S_END
+<s>|S_START this|DT “regulatory|JJ tax”|NN amounts|NNS to|TO over|IN 300|CD in|IN the|DT office|NN markets|NNS in|IN frankfurt|NN paris|NNS and|CC milan|NN according|VBG to|TO a|DT 2008|CD study|NN by|IN paul|NN cheshire|NN and|CC christian|JJ hilber|NN of|IN the|DT london|NN school|NN of|IN economics|NNS but|CC is|VBZ just|RB 50|CD in|IN manhattan|JJ and|CC in|IN effect|NN zero|NN in|IN fastgrowing|NN places|NNS like|IN houston|NN </s>|S_END
+<s>|S_START taxes|NNS that|IN add|JJ to|TO transaction|NN costs|NNS also|RB help|VB explain|JJ low|JJ european|JJ mobility|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START comparatively|RB smaller|JJR cities|NNS also|RB reflect|VBP incomplete|JJ european|JJ integration|NN </s>|S_END
+<s>|S_START paris|NNS is|VBZ large|JJ by|IN national|JJ standards|NNS for|IN instance|NN accounting|VBG for|IN around|IN 30|CD of|IN french|JJ gdp|NN and|CC boasting|VBG incomes|NNS per|IN person|NN some|DT 59|CD above|IN the|DT western|NN european|NN average|NN </s>|S_END
+<s>|S_START but|CC if|IN there|EX was|VBD genuine|JJ freedom|NN of|IN movement|NN within|IN europe|NN bigcity|NN wage|NN premiums|NNS should|MD trigger|VB a|DT flood|NN of|IN migrants|NNS from|IN outside|JJ national|JJ border|NN </s>|S_END
+<s>|S_START there|EX are|VBP linguistic|JJ barriers|NNS in|IN the|DT way|NN of|IN course|NN but|CC other|JJ obstacles|NNS like|IN the|DT portability|NN of|IN pensions|NNS and|CC the|DT recognition|NN of|IN professional|JJ qualifications|NNS make|VBP it|PRP even|RB harder|JJR for|IN europe|NN to|TO match|VB america’s|JJ urban|NN jungle|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ource|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START urban|NN america|NN us|PRP cities|VBZ in|IN the|DT global|JJ economy|NN james|VBZ manyika|NN jaana|NN remes|VBZ richard|NN dobbs|NNS javier|JJR orellana|NNS and|CC fabian|JJ schaer|NN mckinsey|NN global|JJ institute|NN report|NN april|NN 2012|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START triumph|NN of|IN the|DT city|NN how|WRB our|PRP$ greatest|JJS invention|NN makes|VBZ us|PRP richer|JJR smarter|NN greener|NN healthier|NN and|CC happier|JJR edward|NN glaeser|NN penguin|NN books|NNS 2011|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT burden|NN of|IN knowledge|NN and|CC the|DT death|NN of|IN the|DT renaissance|NN man|NN is|VBZ innovation|NN getting|VBG harder|NN </s>|S_END
+<s>|S_START benjamin|NN jones|NNS review|NN of|IN economic|JJ studies|NNS 2009|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT diffusion|NN of|IN scientific|JJ knowledge|NN across|IN time|NN and|CC space|NN evidence|NN from|IN professional|JJ transitions|NNS for|IN the|DT superstars|NNS of|IN medicine|NN pierre|NN azoulay|NN joshua|NN graff|NN zivin|NN and|CC bhaven|RB sampat|JJ national|JJ bureau|NN of|IN economic|JJ research|NN working|VBG paper|NN 16683|CD january|JJ 2011|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT complementarity|NN between|IN cities|NNS and|CC skills|NNS edward|VBP glaeser|NN and|CC matthew|VB resseger|NN national|JJ bureau|NN of|IN economic|JJ research|NN working|VBG paper|NN 15103|CD june|NN 2009|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START office|NN space|NN supply|NN restrictions|NNS in|IN britain|NN the|DT political|JJ economy|NN of|IN market|NN revenge|NN paul|NN cheshire|NN and|CC christian|JJ hilber|NN economic|JJ journal|NN 2008|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogsfreeexchange|NN </s>|S_END
+</p>|P_END
+

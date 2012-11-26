@@ -1,0 +1,144 @@
+<p>|P_START
+<s>|S_START in|IN the|DT late|JJ 19th|CD century|NN alfred|VBD marshall|NN a|DT founding|NN father|NN of|IN modern|JJ economics|NNS asked|VBD why|WRB firms|NNS in|IN the|DT same|JJ industry|NN were|VBD often|RB geographically|RB near|IN each|DT other|JJ </s>|S_END
+<s>|S_START proximity|NN he|PRP said|VBD created|VBN something|NN “in|-NONE- the|DT air”|NNP “…if|NNP one|CD man|NN starts|NNS a|DT new|JJ idea|NN it|PRP is|VBZ taken|VBN up|RP by|IN others|NNS and|CC combined|VBN with|IN suggestions|NNS of|IN their|PRP$ own|JJ and|CC thus|RB it|PRP becomes|VBZ the|DT source|NN of|IN further|JJ new|JJ ideas”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START marshall|NN was|VBD thinking|VBG about|IN victorian|JJ manufacturing|NN but|CC the|DT same|JJ is|VBZ true|JJ of|IN the|DT informationtechnology|NN companies|NNS of|IN the|DT 2010|CD </s>|S_END
+<s>|S_START ilicon|NN valley|NN is|VBZ home|NN to|TO many|JJ of|IN the|DT industry’s|JJ giants|NNS and|CC hopeful|JJ founders|NNS of|IN young|JJ startups|NNS still|RB head|NN for|IN northern|JJ california|NN </s>|S_END
+<s>|S_START a|DT certain|JJ mark|NN zuckerberg|NN left|VBD harvard|NN for|IN palo|NN alto|NN as|IN soon|RB as|IN he|PRP got|VBD the|DT chance|NN </s>|S_END
+<s>|S_START others|NNS beat|VBD a|DT path|NN to|TO newer|JJR hubs|NNS such|JJ as|IN berlin|NN london|NN moscow|NN new|JJ york|NN or|CC tel|NN aviv|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economic|JJ theory|NN suggests|VBZ four|CD main|JJ reasons|NNS why|WRB firms|NNS in|IN the|DT same|JJ industry|NN end|NN up|IN in|IN the|DT same|JJ place|NN </s>|S_END
+<s>|S_START first|JJ some|DT may|MD depend|VB on|IN natural|JJ resources|NNS such|JJ as|IN a|DT coalfield|NN or|CC a|DT harbour|NN </s>|S_END
+<s>|S_START econd|NN a|DT concentration|NN of|IN firms|NNS creates|VBZ a|DT pool|NN of|IN specialised|VBN labour|PRP$ that|IN benefits|NNS both|DT workers|NNS and|CC employers|NNS the|DT former|JJ are|VBP likely|JJ to|TO find|VB jobs|NNS and|CC the|DT latter|NN are|VBP likely|JJ to|TO find|VB staff|NN </s>|S_END
+<s>|S_START third|JJ subsidiary|NN trades|NNS spring|VBG up|RP to|TO supply|RB specialised|VBN input|NN </s>|S_END
+<s>|S_START fourth|JJ ideas|NNS spill|MD over|IN from|IN one|CD firm|NN to|TO the|DT next|JJ as|IN marshall|JJ observed|VBN </s>|S_END
+<s>|S_START but|CC there|EX are|VBP also|RB forces|VBZ that|IN encourage|NN companies|NNS to|TO spread|VB out|RP </s>|S_END
+<s>|S_START one|CD is|VBZ the|DT cost|NN of|IN transporting|VBG their|PRP$ products|NNS to|TO widely|RB dispersed|VBN customer|NN </s>|S_END
+<s>|S_START another|DT is|VBZ rents|NNS which|WDT rise|VBP when|WRB firms|NNS cluster|VBP together|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START you|PRP might|MD imagine|VB that|IN the|DT dramatic|JJ fall|NN in|IN the|DT cost|NN of|IN communications|NNS and|CC computing|VBG would|MD have|VB pushed|VBN firms|NNS in|IN the|DT informationtechnology|NN industry|NN among|IN others|NNS farther|RB apart|NN </s>|S_END
+<s>|S_START natural|JJ resources|NNS do|VBP not|RB matter|VB to|TO them|PRP all|DT they|PRP need|VBP is|VBZ a|DT good|JJ internet|NN connection|NN </s>|S_END
+<s>|S_START the|DT ease|NN of|IN online|NN communication|NN should|MD reduce|VB the|DT need|NN for|IN their|PRP$ people|NNS to|TO be|VB close|JJ together|NN in|IN order|NN to|TO work|VB to|TO deal|VB with|IN customers|NNS and|CC suppliers|NNS or|CC to|TO swap|VB idea|NN </s>|S_END
+<s>|S_START young|JJ companies|NNS really|RB can|MD pick|VB their|PRP$ spot|NN </s>|S_END
+<s>|S_START that|DT would|MD seem|VB to|TO count|VB against|IN silicon|NN valley|NN where|WRB premises|NNS are|VBP costly|RB and|CC against|IN london|NN and|CC new|JJ york|NN which|WDT are|VBP not|RB only|RB expensive|JJ but|CC also|RB lack|VBP california’s|JJ hightech|NN history|NN </s>|S_END
+<s>|S_START berlin|NN is|VBZ cheaper|JJR but|CC there|EX are|VBP plenty|NN of|IN places|NNS all|DT over|IN europe|NN where|WRB costs|NNS are|VBP lower|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB although|IN you|PRP can|MD find|VB tech|NN companies|NNS of|IN all|DT shapes|NNS and|CC sizes|NNS almost|RB anywhere|RB the|DT smaller|JJR ones|NNS especially|RB have|VBP a|DT fondness|NN for|IN huddling|NN together|RB </s>|S_END
+<s>|S_START jed|VBD kolko|VBN trulia’s|-NONE- chief|NN economist|NN puts|NNS this|DT down|NN mainly|RB to|TO the|DT continuing|VBG attraction|NN of|IN a|DT deep|NN pool|NN of|IN skilled|JJ labour|NN </s>|S_END
+<s>|S_START “the|DT less|RBR an|DT industry|NN needs|VBZ to|TO be|VB near|IN natural|JJ resources|NNS its|PRP$ suppliers|NNS or|CC its|PRP$ customers”|JJ he|PRP says|VBZ “the|DT more|RBR it’s|JJ likely|JJ to|TO cluster|NN where|WRB its|PRP$ workers|NNS want|VBP to|TO live”|NNP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT magnet|NN factor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN the|DT tech|NN industry|NN workers|NNS want|VBP to|TO live|VB either|DT where|WRB the|DT jobs|NNS already|RB are|VBP eg|JJ silicon|NN valley|NN or|CC in|IN lively|RB cities|NNS london|VBP new|JJ york|NN berlin|NN and|CC perhaps|RB san|JJ francisco|NN </s>|S_END
+<s>|S_START at|IN wooga|NN an|DT onlinegames|NNS company|NN in|IN berlin|NN the|DT 250|CD staff|NN come|NN from|IN 35|CD countrie|NN </s>|S_END
+<s>|S_START jens|NNS begemann|VBP the|DT founder|NN and|CC chief|NN executive|NN says|VBZ that|IN australians|NNS and|CC canadians|NNS sign|NN contracts|NNS even|RB before|IN leaving|VBG home|NN </s>|S_END
+<s>|S_START dmitry|NN repin|NN of|IN digital|JJ october|NN a|DT coworking|NN and|CC meeting|NN place|NN for|IN startups|NNS in|IN moscow|NN says|VBZ that|IN “for|JJ a|DT university|NN kid|NN studying|VBG in|IN the|DT regions|NNS moving|VBG to|TO moscow|VB sounds|NNS smart”|-NONE- even|RB short|JJ distances|NNS can|MD make|VB a|DT difference|NN </s>|S_END
+<s>|S_START zimride’s|NNS mr|VBP zimmer|NN says|VBZ he|PRP moved|VBD his|PRP$ young|JJ company|NN just|RB 30odd|JJ miles|NNS 50km|CD from|IN palo|NN alto|NN to|TO san|VB francisco|NN because|IN that|DT was|VBD where|WRB most|JJS of|IN his|PRP$ then|RB 20|CD employees|NNS lived|VBD he|PRP now|RB has|VBZ 32|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN programming|NN talent|NN says|VBZ mr|NN stoppelman|NN at|IN yelp|NN nothing|NN beats|NNS silicon|NN valley|NN </s>|S_END
+<s>|S_START the|DT valley|NN is|VBZ big|JJ enough|RB and|CC old|JJ enough|RB to|TO have|VB clusters|NNS within|IN clusters|NNS from|IN makers|NNS of|IN semiconductors|NNS and|CC network|NN equipment|NN near|IN san|NN jose|NN to|TO google|VB and|CC facebook|VB farther|RP north|JJ and|CC a|DT host|NN of|IN smaller|JJR young|JJ internet|NN companies|NNS in|IN san|NN francisco|NN </s>|S_END
+<s>|S_START even|RB within|IN the|DT city|NN there|RB are|VBP divisions|NNS between|IN districts|NNS south|VBP of|IN market|NN or|CC soma|NN with|IN lots|NNS of|IN smaller|JJR startups|NNS the|DT design|NN district|NN which|WDT houses|NNS airbnb|VBP and|CC zynga|NN a|DT games|NNS company|NN in|IN bigger|JJR premises|NNS and|CC mission|NN bay|NN the|DT base|NN of|IN dropbox|NN a|DT cloudstorage|NN firm|NN see|NN map|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START young|JJ companies|NNS need|VBP more|JJR than|IN labour|PRP$ they|PRP also|RB need|VBP money|NN and|CC advice|NN </s>|S_END
+<s>|S_START anthony|NN goldbloom|NN of|IN kaggle|JJ which|WDT runs|VBZ online|NN competitions|NNS for|IN data|NNS scientists|NNS moved|VBD his|PRP$ company|NN to|TO the|DT soma|NN district|NN from|IN melbourne|NN this|DT year|NN </s>|S_END
+<s>|S_START mr|NN goldbloom|NN who|WP was|VBD once|RB an|DT intern|NN at|IN the|DT economist|NN says|VBZ that|IN being|VBG in|IN a|DT cluster|NN “makes|VBZ serendipity|NN possible”|-NONE- he|PRP can|MD have|VB more|JJR facetoface|NN meetings|NNS which|WDT are|VBP often|RB more|RBR productive|JJ than|IN phone|NN calls|NNS or|CC emails|NNS and|CC there|EX is|VBZ a|DT good|JJ chance|NN of|IN bumping|VBG into|IN someone|NN interesting|JJ such|JJ as|IN a|DT venture|NN capitalist|NN </s>|S_END
+<s>|S_START the|DT venture|NN funds|NNS indeed|RB constitute|VBP another|DT cluster|NN within|IN the|DT valley|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT recycling|NN of|IN people|NNS is|VBZ as|RB important|JJ as|IN that|DT of|IN money|NN </s>|S_END
+<s>|S_START brian|JJ mcclendon|NN who|WP oversees|NNS google|VBP maps|NNS and|CC google|JJ earth|NN says|VBZ he|PRP has|VBZ been|VBN working|VBG within|IN a|DT mile|JJ of|IN where|WRB he|PRP is|VBZ now|RB for|IN 22|CD of|IN his|PRP$ 24|CD years|NNS in|IN the|DT valley|NN first|RB at|IN silicon|NN graphics|NNS and|CC later|JJ at|IN his|PRP$ own|JJ company|NN keyhole|NN earth|NN </s>|S_END
+<s>|S_START that|DT was|VBD sold|VBN to|TO google|VB which|WDT now|RB occupies|VBZ silicon|NN graphics’s|NNS former|JJ home|NN </s>|S_END
+<s>|S_START “the|DT diaspora|NN of|IN silicon|NN graphics”|NN he|PRP says|VBZ “created|JJ many|JJ many|JJ companies|NNS throughout|IN the|DT valley…as|JJ a|DT diaspora|NN we|PRP communicate|VBP and|CC we|PRP contact|VBP and|CC we|PRP hire|VBP each|DT other|JJ and|CC we|PRP steal|VBP each|DT other’s|NNP people”|NNP google|NN already|RB has|VBZ a|DT diaspora|NN of|IN its|PRP$ own|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT valley|NN people|NNS are|VBP also|RB close|JJ to|TO the|DT latest|JJS idea|NN </s>|S_END
+<s>|S_START “ideas|JJ are|VBP exposed|VBN to|TO that|DT little|JJ tiny|NN region|NN possibly|RB years|VBZ ahead|RB of|IN the|DT rest|NN of|IN the|DT world”|JJ reckons|NNS mr|VBP stoppelman|NN </s>|S_END
+<s>|S_START “you|PRP are|VBP always|RB building|VBG on|IN the|DT idea|NN that|IN came|VBD immediately|RB before|IN </s>|S_END
+<s>|S_START if|IN you|PRP are|VBP trying|VBG to|TO build|VB the|DT thing|NN that|WDT comes|VBZ next|JJ early|JJ access|NN to|TO information|NN about|IN the|DT things|NNS that|IN are|VBP out|IN there|RB helps|VBZ you”|JJ that|IN sounds|NNS like|IN what|WP marshall|JJ had|VBD in|IN mind|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START will|MD other|JJ hubs|NNS ever|RB catch|VBP up|RP </s>|S_END
+<s>|S_START new|JJ york|NN london|NN and|CC berlin|NN have|VBP two|CD possible|JJ advantage|NN </s>|S_END
+<s>|S_START one|CD is|VBZ that|IN they|PRP are|VBP bigger|JJR and|CC therefore|RB livelier|JJR and|CC more|JJR attractive|JJ to|TO young|JJ people|NNS than|IN san|JJ francisco|NN let|NN alone|RB the|DT smaller|JJR places|NNS on|IN the|DT way|NN to|TO san|VB jose|JJ </s>|S_END
+<s>|S_START chad|VBD dickerson|NN chief|NN executive|NN of|IN etsy|JJ an|DT online|NN marketplace|NN for|IN handmade|NN and|CC “vintage”|NNP goods|NNS based|VBN in|IN brooklyn|NN jokes|NNS that|WDT in|IN san|NN francisco|NN “everything|NN closes|NNS at|IN ten|CD o’clock”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT other|JJ is|VBZ that|IN they|PRP have|VBP a|DT wider|NN pool|NN of|IN industries|NNS and|CC hence|NN skills|NNS on|IN which|WDT companies|NNS can|MD draw|VB </s>|S_END
+<s>|S_START to|TO many|JJ this|DT variety|NN is|VBZ invaluable|JJ </s>|S_END
+<s>|S_START “it’s|NNS not|RB just|RB engineering|VBG talent”|JJ says|NNS dennis|VBZ crowley|NN boss|NN of|IN foursquare|NN which|WDT is|VBZ based|VBN in|IN new|JJ york|NN </s>|S_END
+<s>|S_START “you|PRP can|MD find|VB that|IN all|DT over|IN the|DT place|NN </s>|S_END
+<s>|S_START we|PRP may|MD have|VB a|DT whole|JJ bunch|NN of|IN engineers|NNS but|CC we|PRP also|RB have|VBP a|DT whole|JJ bunch|NN of|IN product|NN people”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york’s|NNS programming|VBG pool|NN was|VBD deepened|VBN when|WRB google|JJ started|VBN putting|VBG engineers|NNS into|IN its|PRP$ office|NN in|IN the|DT city|NN in|IN 2003|CD </s>|S_END
+<s>|S_START ome|NN alumni|NN have|VBP since|IN set|NN up|RP or|CC joined|VBN startups|NNS there|RB </s>|S_END
+<s>|S_START matthew|NN brimer|NN of|IN general|JJ assembly|NN a|DT coworking|NN and|CC education|NN firm|NN explains|VBZ that|IN since|IN the|DT financial|JJ crisis|NN people|NNS have|VBP been|VBN readier|RBR to|TO work|VB in|IN startups|NNS wall|VBP street|NN has|VBZ become|VBN less|JJR of|IN a|DT draw|NN </s>|S_END
+<s>|S_START people|NNS in|IN london|NN startups|NNS also|RB see|VBP the|DT presence|NN of|IN google|NN and|CC other|JJ big|JJ companies|NNS as|IN a|DT boon|NN </s>|S_END
+<s>|S_START ome|NN say|VBP the|DT same|JJ about|IN the|DT city’s|NNS advertising|VBG and|CC financial|JJ industries|NNS but|CC others|NNS see|VBP them|PRP as|IN deeppocketed|VBN competitors|NNS for|IN staff|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN for|IN capital|NN new|JJ york|NN and|CC london|NN have|VBP their|PRP$ own|JJ crop|NN of|IN venture|NN fund|NN </s>|S_END
+<s>|S_START much|RB of|IN europe|NN is|VBZ serviced|VBN from|IN london|NN too|RB and|CC london|NN and|CC silicon|NN valley|NN funds|NNS as|IN well|RB as|IN local|JJ ones|NNS are|VBP active|JJ in|IN israel|NN </s>|S_END
+<s>|S_START is|VBZ europe|VBN small|JJ enough|RB for|IN investors|NNS to|TO feel|VB the|DT benefits|NNS of|IN proximity|NN </s>|S_END
+<s>|S_START adam|NN valkin|NN of|IN accel|NN partners|NNS in|IN london|NN thinks|NNS so|RB </s>|S_END
+<s>|S_START “i|NN woke|VBD up|RP in|IN berlin|NN today|NN and|CC i|PRP was|VBD in|IN the|DT office|NN at|IN 9am”|CD he|PRP say|VBP </s>|S_END
+<s>|S_START his|PRP$ colleague|NN philippe|NN botteri|NN adds|VBZ that|IN on|IN a|DT badtraffic|JJ day|NN it|PRP can|MD take|VB him|PRP three|CD hours|NNS to|TO drive|VB from|IN san|JJ francisco|NN to|TO san|VB jose|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START younger|JJR hubs|NNS are|VBP also|RB trying|VBG to|TO conjure|VB up|RP marshall’s|JJ “something|JJ in|IN the|DT air”|NN </s>|S_END
+<s>|S_START alexander|NN ljung|VBD of|IN soundcloud|NN a|DT site|NN for|IN publishing|NN audio|NN files|NNS was|VBD drawn|VBN to|TO berlin|VB from|IN stockholm|NN by|IN the|DT german|NN capital’s|VBZ “strong|JJ intersection|NN of|IN technology|NN and|CC art”|NNP and|CC “creative|JJ chaos”|NN </s>|S_END
+<s>|S_START he|PRP sees|VBZ a|DT “sense|JJ of|IN reciprocity”|JJ among|IN its|PRP$ startups|NNS his|PRP$ sunday|NN activity|NN is|VBZ “trying|JJ to|TO advise|VB people”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START almost|RB every|DT hub|NN has|VBZ its|PRP$ coworking|NN spaces|NNS accelerators|NNS and|CC incubators|NNS where|WRB tiny|JJ firms|NNS of|IN perhaps|RB two|CD or|CC three|CD people|NNS work|NN cheek|NN by|IN jowl|NN </s>|S_END
+<s>|S_START the|DT provider|NN of|IN the|DT space|NN may|MD offer|VB equity|NN or|CC just|RB a|DT place|NN to|TO work|VB meet|NN and|CC learn|NN </s>|S_END
+<s>|S_START there|EX are|VBP also|RB regular|JJ convivial|JJ gatherings|NNS such|JJ as|IN silicon|NN drinkabout|IN in|IN london|NN where|WRB troubles|NNS can|MD be|VB shared|VBN as|IN well|RB as|IN drowned|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START capital|NN from|IN past|JJ successes|NNS is|VBZ being|VBG recycled|VBN too|RB through|IN investors|NNS such|JJ as|IN stefan|NN glaenzer|NN of|IN passion|NN capital|NN in|IN london|NN christophe|NN maire|NN a|DT berlinbased|VBN entrepreneur|NN and|CC kaifu|NN lee|NN a|DT former|JJ google|NN executive|NN who|WP now|RB runs|VBZ innovation|NN works|NNS in|IN beijing|VBG </s>|S_END
+<s>|S_START watchers|NNS of|IN the|DT british|JJ tech|NN scene|NN are|VBP waiting|VBG to|TO see|VB what|WP mike|IN lynch|NN the|DT founder|NN and|CC exboss|NN of|IN autonomy|NN will|MD do|VB with|IN the|DT money|NN he|PRP made|VBD when|WRB his|PRP$ software|NN firm|NN was|VBD bought|VBN by|IN hewlettpackard|NN </s>|S_END
+<s>|S_START hp|NN pushed|VBD him|PRP out|IN in|IN may|MD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nothing|NN quite|RB like|IN the|DT valley|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC no|DT other|JJ place|NN has|VBZ seen|VBN the|DT cycles|NNS of|IN investment|NN success|NN failure|NN and|CC regeneration|NN in|IN the|DT informationtechnology|NN industry|NN that|WDT have|VBP made|VBN the|DT valley|NN what|WP it|PRP is|VBZ so|RB no|RB other|JJ place|NN as|IN yet|RB has|VBZ the|DT valley’s|JJ scale|NN and|CC resilience|NN </s>|S_END
+<s>|S_START ome|NN still|RB question|NN whether|IN other|JJ young|JJ ecosystems|NNS would|MD have|VB the|DT strength|NN to|TO survive|VB anything|NN like|IN the|DT dotcom|NN bust|NN of|IN a|DT decade|NN ago|IN </s>|S_END
+<s>|S_START they|PRP probably|RB would|MD but|VB until|IN a|DT crash|JJ happens|NNS no|DT one|NN know|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN cities|NNS as|IN big|JJ and|CC diverse|NN as|IN london|NN and|CC new|JJ york|NN it|PRP may|MD not|RB matter|VB much|JJ </s>|S_END
+<s>|S_START they|PRP have|VBP other|JJ strength|NN </s>|S_END
+<s>|S_START and|CC many|JJ other|JJ cities|NNS too|RB may|MD be|VB about|IN to|TO discover|JJR an|DT asset|NN they|PRP did|VBD not|RB know|VB they|PRP had|VBD </s>|S_END
+<s>|S_START it|PRP is|VBZ neither|DT people|NNS nor|CC money|NN but|CC something|NN else|RB in|IN the|DT city|NN air|NN data|NNS </s>|S_END
+</p>|P_END
+

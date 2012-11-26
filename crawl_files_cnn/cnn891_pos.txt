@@ -1,0 +1,68 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT irs|NNS has|VBZ been|VBN doling|VBG out|RP billions|NNS of|IN dollars|NNS in|IN fraudulent|NN tax|NN refunds|NNS to|TO identity|NN thieves|NNS according|VBG to|TO a|DT report|NN released|VBN thursday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT agency|NN failed|VBD to|TO prevent|VB 15|CD million|CD potentially|RB fraudulent|JJ tax|NN returns|NNS from|IN being|VBG processed|VBN last|JJ year|NN resulting|VBG in|IN refunds|NNS totaling|VBG more|JJR than|IN $|$ 52|CD billion|CD according|VBG to|TO an|DT audit|NN conducted|VBN by|IN the|DT treasury|NN inspector|NN general|NN for|IN tax|NN administration|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN the|DT irs|NNS successfully|RB detected|VBN 938664|CD identitytheft|NN related|VBN tax|NN returns|NNS and|CC blocked|VBD $|$ 65|CD billion|CD in|IN fraudulent|NN refunds|NNS from|IN being|VBG issued|VBN last|JJ year|NN the|DT inspector|NN general|NN said|VBD it|PRP is|VBZ extremely|RB troubling|VBG that|IN so|RB many|JJ others|NNS slipped|VBD through|IN the|DT cracks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT government|NN watchdog|NN estimates|NNS that|WDT the|DT irs|NNS could|MD issue|VB $|$ 21|CD billion|CD in|IN fraudulent|NN tax|NN refunds|NNS as|IN a|DT result|NN of|IN identity|NN theft|NN over|IN the|DT next|JJ five|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START identity|NN thieves|NNS often|RB use|VBP the|DT same|JJ address|NN to|TO file|VB hundreds|NNS and|CC even|RB thousands|NNS of|IN potentially|RB fraudulent|JJ returns|NNS the|DT audit|NN found|VBD </s>|S_END
+<s>|S_START the|DT same|JJ address|NN in|IN lansing|NN mich|NN for|IN example|NN was|VBD used|VBN on|IN 2137|CD tax|NN returns|NNS resulting|VBG in|IN more|JJR than|IN $|$ 3|CD million|CD in|IN potentially|RB fraudulent|JJ refunds|NNS according|VBG to|TO the|DT report|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN fact|NN just|RB five|CD addresses|NNS were|VBD used|VBN to|TO file|VB nearly|RB 5000|CD returns|NNS resulting|VBG in|IN a|DT total|NN of|IN $|$ 81|CD million|CD in|IN potentially|RB fraudulent|JJ refunds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tampa|NN was|VBD identified|VBN as|IN the|DT city|NN with|IN the|DT most|RBS taxrelated|JJ identity|NN theft|NN with|IN more|JJR than|IN $|$ 468|CD million|CD in|IN potentially|RB fraudulent|JJ refunds|NNS </s>|S_END
+<s>|S_START roughly|RB $|$ 130|CD million|CD of|IN that|DT amount|NN was|VBD uncovered|VBN in|IN an|DT identitytheft|NN related|VBN tax|NN refund|NN scheme|NN that|WDT the|DT tampa|NN police|NN department|NN and|CC federal|JJ authorities|NNS said|VBD involved|VBN criminals|NNS stealing|VBG the|DT identities|NNS of|IN the|DT deceased|VBN and|CC those|DT who|WP receive|JJ public|JJ assistance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN an|DT increasing|VBG number|NN of|IN people|NNS receiving|VBG their|PRP$ refunds|NNS via|IN direct|JJ deposit|NN and|CC prepaid|VBD debit|NN cards|NNS it|PRP has|VBZ become|VBN harder|JJR for|IN the|DT irs|NNS to|TO detect|VB identity|NN theft|NN especially|RB since|IN the|DT agency|NN allows|VBZ multiple|NN direct|NN deposits|NNS to|TO be|VB made|VBN into|IN the|DT same|JJ bank|NN account|NN the|DT report|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT inspector|NN generals|NNS audit|NN also|RB found|VBD that|IN the|DT irs|NNS runs|VBZ into|IN delays|NNS when|WRB trying|VBG to|TO access|NN thirdparty|NN income|NN and|CC withholding|VBG information|NN to|TO confirm|VB a|DT taxpayers|NNS identity|NN since|IN third|JJ parties|NNS like|IN employers|NNS arent|VBP required|VBN to|TO submit|VB information|NN to|TO the|DT irs|NNS until|IN march|NN 31|CD while|IN taxpayers|NNS can|MD file|VB their|PRP$ taxes|NNS as|IN early|JJ as|IN midjanuary|JJ </s>|S_END
+<s>|S_START even|RB when|WRB thirdparty|NN information|NN has|VBZ been|VBN submitted|VBN the|DT irs|NNS doesnt|VBP have|VBP an|DT adequate|JJ system|NN for|IN accessing|NN the|DT information|NN the|DT audit|NN found|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT inspector|NN general|NN made|VBD several|JJ recommendations|NNS to|TO the|DT head|NN of|IN the|DT irs|NNS including|VBG the|DT use|NN of|IN more|JJR thirdparty|NN information|NN from|IN the|DT national|JJ directory|NN of|IN new|JJ hires|NNS to|TO improve|VB the|DT identity|NN verification|NN process|NN and|CC to|TO develop|VB a|DT system|NN that|WDT analyzes|VBZ characteristics|NNS of|IN past|JJ tax|NN returns|NNS filed|VBN by|IN identity|NN thieves|NNS in|IN order|NN to|TO prevent|VB more|JJR suspect|JJ returns|NNS from|IN being|VBG processed|VBN in|IN the|DT future|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT taxpayer|NN advocate|NN service|NN the|DT watchdog|NN arm|NN of|IN the|DT irs|NNS identified|VBD similar|JJ identity|NN theft|NN problems|NNS in|IN its|PRP$ midyear|NN report|NN to|TO congress|NN released|VBN earlier|JJR this|DT summer|NN </s>|S_END
+<s>|S_START it|PRP attributed|VBD the|DT increase|NN in|IN tax|NN fraud|NN to|TO a|DT number|NN of|IN issues|NNS including|VBG an|DT increase|NN in|IN electronic|JJ filing|NN higher|JJR dollar|NN amounts|NNS of|IN refundable|JJ credits|NNS and|CC a|DT growing|VBG number|NN of|IN people|NNS using|VBG debit|NN cards|NNS to|TO receive|VB refunds|NNS </s>|S_END
+<s>|S_START it|PRP said|VBD it|PRP has|VBZ been|VBN hard|JJ for|IN the|DT agency|NN to|TO keep|VB up|RP with|IN the|DT fraud|NN because|IN of|IN its|PRP$ shrinking|NN resources|NNS and|CC growing|VBG responsibilities|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT irs|NNS doesnt|VBP deny|NN that|IN identity|NN theft|NN is|VBZ a|DT big|JJ problem|NN for|IN the|DT agency|NN and|CC taxpayers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT growth|NN of|IN tax|NN refund|NN fraud|NN committed|VBD by|IN identity|NN thieves|NNS is|VBZ one|CD of|IN the|DT irs|NNS most|JJS significant|JJ challenges|NNS and|CC we|PRP continue|VBP to|TO devote|VB significant|JJ resources|NNS to|TO combat|VB it|PRP the|DT irs|NNS said|VBD in|IN response|NN to|TO the|DT audit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC it|PRP argues|VBZ that|IN the|DT inspector|NN generals|NNS estimate|VBP that|IN it|PRP will|MD issue|VB $|$ 21|CD billion|CD in|IN fraudulent|NN refunds|NNS over|IN the|DT next|JJ five|CD years|NNS is|VBZ far|RB too|RB high|JJ </s>|S_END
+<s>|S_START the|DT irs|NNS said|VBD it|PRP has|VBZ already|RB made|VBN significant|JJ improvements|NNS that|WDT will|MD greatly|RB reduce|VB the|DT potential|JJ for|IN fraud|NN going|VBG forward|RB </s>|S_END
+<s>|S_START the|DT irs|NNS said|VBD it|PRP has|VBZ expanded|VBN its|PRP$ screening|NN filters|NNS to|TO catch|VB more|JJR fraud|NN and|CC has|VBZ already|RB flagged|VBN nearly|RB double|JJ the|DT number|NN of|IN returns|NNS for|IN review|NN this|DT year|NN compared|VBN to|TO last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START our|PRP$ increased|VBN compliance|NN and|CC prevention|NN efforts|NNS mean|VBP we|PRP are|VBP stopping|VBG more|JJR refund|NN fraud|NN than|IN ever|RB before|IN the|DT irs|NNS said|VBD </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

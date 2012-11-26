@@ -1,0 +1,44 @@
+<p>|P_START
+<s>|S_START research|NN firm|NN moodys|NNS analytics|NNS citing|VBG statebystate|NN economic|JJ data|NNS continues|VBZ to|TO predict|VB that|IN barack|NN obama|NN will|MD defeat|VB mitt|NN romney|NN on|IN election|NN day|NN </s>|S_END
+<s>|S_START click|NN on|IN the|DT map|NN for|IN more|JJR info|NN on|IN each|DT state|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN a|DT wave|NN of|IN disappointing|JJ economic|JJ reports|NNS president|NN obama|NN is|VBZ still|RB likely|JJ to|TO top|VB mitt|NN romney|NN on|IN election|NN day|NN according|VBG to|TO the|DT latest|JJS forecast|NN from|IN moodys|NNS analytics|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START according|VBG to|TO the|DT model|NN which|WDT produces|NNS a|DT statebystate|NN prediction based|JJ in|IN part|NN on|IN the|DT latest|JJS economic|JJ data|NNS obama|NN is|VBZ on|IN track|NN to|TO capture|VB 303|CD electoral|JJ votes|NNS </s>|S_END
+<s>|S_START 270|CD are|VBP required|VBN for|IN victory|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START moodys|NNS is|VBZ predicting|VBG that|IN obama|NN will|MD win|VB several|JJ important|JJ battleground|NN states|NNS including|VBG virginia|NN colorado|NN and|CC ohio|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT latest|JJS round|NN of|IN data|NNS would|MD appear|VB to|TO suggest|VB bad|JJ news|NN for|IN obama|NN </s>|S_END
+<s>|S_START the|DT economy|NN added|VBD only|RB 96000|CD jobs|NNS in|IN august|JJ below|IN the|DT rate|NN needed|VBD to|TO merely|RB keep|VB pace|NN with|IN population|NN growth|NN </s>|S_END
+<s>|S_START but|CC moodys|NNS model|VBP already|RB assumed|VBN a|DT slowdown|NN in|IN the|DT second|JJ half|DT of|IN the|DT year|NN and|CC the|DT bad|JJ news|NN did|VBD not|RB move|VB any|DT states|NNS into|IN romneys|NNS column|VBP </s>|S_END
+<s>|S_START still|RB things|NNS could|MD change|VB over|IN the|DT next|JJ month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT high|JJ national|JJ unemployment rate|JJ looms|NNS as|IN a|DT threat|NN to|TO obamas|NNS reelection|NN moodys|NNS economist|VBP xu|NN cheng|NN wrote in|NN the|DT 19|CD states|NNS plus|CC the|DT district|NN of|IN columbia|NN where|WRB the|DT jobless|NN rate|NN tops|NNS 8|CD the|DT moodys|NNS analytics|NNS model|VBP expects|NNS a|DT grumpy|NN voter|NN effect|NN to|TO lower|JJR the|DT incumbents|NNS total|VBP as|RB citizens|VBZ express|NN their|PRP$ lingering|NN frustration|NN with|IN the|DT economy|NN despite|IN recent|JJ progress|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT effect|NN could|MD have|VB a|DT measurable|JJ impact|NN in|IN the|DT key|JJ swing|NN states|NNS of|IN north|JJ carolina|NN indiana|NN florida|NN and|CC nevada|NN according|VBG to|TO moodys|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START users|NNS of|IN online|NN futures|NNS market|NN intrade|NN are|VBP increasingly|RB betting|VBG on|IN obama|NN retaining|VBG the|DT white|JJ house|NN as|IN well|RB </s>|S_END
+<s>|S_START intrade|NN which|WDT allows|VBZ investors|NNS to|TO wager|VB on|IN events|NNS such|JJ as|IN the|DT presidential|JJ election|NN and|CC whether|IN israel|NN or|CC the|DT united|JJ states|NNS will|MD launch|VB a|DT strike|NN against|IN iranian|JJ nuclear|NN facilities|NNS placed|VBN the|DT odds|NNS of|IN an|DT obama|NN victory|NN at|IN 745|CD as|IN of|IN tuesday|NN morning|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START national|JJ polls|NNS show|VBP obama|NN with|IN a|DT narrow|NN lead|NN </s>|S_END
+<s>|S_START according|VBG to|TO a|DT cnn|NN survey|NN released|VBD monday 50|-NONE- of|IN likely|JJ voters say|NN that|WDT if|IN the|DT election|NN were|VBD held|VBN today|NN they|PRP would|MD vote|VB for|IN the|DT president|NN with|IN 47|CD saying|VBG they|PRP would|MD support|VB romney|NN </s>|S_END
+<s>|S_START the|DT presidents|NNS three|CD point|NN margin|NN is|VBZ within|IN the|DT polls|NNS sampling|VBG error|NN </s>|S_END
+</p>|P_END
+

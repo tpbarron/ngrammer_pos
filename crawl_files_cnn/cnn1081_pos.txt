@@ -1,0 +1,140 @@
+<p>|P_START
+<s>|S_START mitt|NN romney|NN and|CC his|PRP$ campaign|NN have|VBP offered|VBN only|RB muddled|VBN statements|NNS on|IN carried|VBN interest|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN what|WP does|VBZ mitt|VB romney|NN really|RB think|VBP about|IN carried|VBN interest|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT tax|NN break|NN which|WDT benefits|NNS private|VBP equity|NN partners|NNS continues|VBZ to|TO save|VB the|DT republican|NN presidential|JJ candidate|NN millions|NNS of|IN dollars|NNS in|IN taxes|NNS after|IN a|DT pioneering|NN career|NN at|IN bain|NN capital|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romney|NN has|VBZ in|IN the|DT past|JJ explicitly|RB called|VBN for|IN keeping|NN the|DT tax|NN benefit|NN in|IN place|NN </s>|S_END
+<s>|S_START but|CC this|DT election|NN cycle|NN even|RB when|WRB asked|VBN directly|RB the|DT candidate|NN has|VBZ not|RB clearly|RB articulated|VBN a|DT position|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START campaign|NN staffers|NNS have|VBP added|VBN to|TO confusion|NN over|IN the|DT candidates|NNS position|NN occasionally|RB suggesting|VBG that|IN romney|NN would|MD once|RB elected|VBD consider|NN rolling|NN back|RB the|DT tax|NN break|NN </s>|S_END
+<s>|S_START at|IN other|JJ times|NNS the|DT campaign|NN has|VBZ walked|VBN those|DT suggestions|NNS back|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT tax|NN treatment|NN of|IN carried|VBN interest|NN an|DT obscure|NN compensation|NN method|NN used|VBD primarily|RB in|IN highstakes|NNS finance|NN has|VBZ long|RB been|VBN a|DT hot|JJ topic|JJ in|IN washington|NN and|CC on|IN wall|NN street|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START carried|VBD interest|NN benefits|NNS hedge|VBP fund|NN managers|NNS venture|VBP capitalists|NNS and|CC private|JJ equity|NN specialists|NNS who|WP are|VBP awarded|VBN a|DT share|NN of|IN fund|NN profits|NNS as|IN compensation|NN </s>|S_END
+<s>|S_START the|DT profits|NNS which|WDT often|RB make|VBP up|RP a|DT substantial|JJ share|NN of|IN a|DT managers|NNS income|NN are|VBP taxed|VBN at|IN the|DT capital|NN gains|NNS rate|NN of|IN 15|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ordinary|JJ income|NN which|WDT salaried|VBN workers|NNS receive|VBP in|IN the|DT form|NN of|IN a|DT paycheck|NN is|VBZ taxed|VBN at|IN a|DT top|JJ rate|NN of|IN 35|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT discrepancy|NN has|VBZ long|RB attracted|VBN critics|NNS who|WP argue|NN that|IN carried|VBN interest|NN amounts|NNS to|TO nothing|NN more|JJR than|IN ordinary|JJ compensation|NN for|IN services|NNS and|CC should|MD be|VB taxed|VBN as|IN such|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START supporters|NNS counter|VBP that|IN carried|VBN interest|NN is|VBZ investment|NN income|NN and|CC derives|NNS from|IN activities|NNS that|WDT carry|VBP significant|JJ risk|NN </s>|S_END
+<s>|S_START a|DT lower|JJR tax|NN rate|NN is|VBZ needed|VBN to|TO encourage|VB entrepreneurial|JJ activity|NN and|CC investment|NN they|PRP say|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT obama|NN administration|NN for|IN its|PRP$ part|NN has|VBZ proposed|VBN raising|VBG the|DT tax|NN rate|NN on|IN carried|VBN interest|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP is|VBZ not|RB clear|JJ exactly|RB how|WRB much|RB romney|NN has|VBZ benefited|VBN from|IN the|DT tax|NN break|NN in|IN dollar|NN terms|NNS but|CC two|CD years|NNS of|IN tax|NN returns|NNS released|VBN by|IN his|PRP$ campaign|NN indicate|NN the|DT tax|NN treatment|NN likely|JJ played|VBN a|DT large|JJ role|NN in|IN amassing|NN a|DT fortune|NN possibly|RB worth|JJ more|RBR than|IN $|$ 200|CD million|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romney|NN made|VBD $|$ 427|CD million|CD in|IN 2010|CD and|CC 2011|CD according|VBG to|TO the|DT returns|NNS </s>|S_END
+<s>|S_START of|IN that|DT $|$ 129|CD million|CD was|VBD carried|VBN interest|NN </s>|S_END
+<s>|S_START over|IN the|DT two|CD years|NNS romneys|NNS effective|JJ tax|NN rate|NN the|DT percentage|NN of|IN his|PRP$ income|NN that|IN he|PRP owed|VBD in|IN federal|JJ income|NN taxes|NNS was|VBD 145|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT low|JJ tax|NN rate|NN quickly|RB became|VBD fodder|NN for|IN romneys|NNS political|JJ opponents|NNS including|VBG other|JJ republicans|NNS who|WP sought|VBN to|TO portray|VB the|DT former|JJ massachusetts|NNS governor|NN as|IN an|DT outoftouch|JJ financier|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC romneys|NNS position|NN on|IN carried|VBN interest|NN the|DT tax|NN break|NN that|WDT helped|VBD keep|VB that|IN tax|NN rate|NN low|JJ escaped|VBD scrutiny|NN for|IN the|DT most|JJS part|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START during|IN romneys|NNS failed|VBD campaign|NN for|IN the|DT republican|JJ presidential|JJ nomination|NN in|IN 2007|CD there|EX was|VBD no|DT mystery|NN about|IN romneys|NNS thoughts|NNS on|IN carried|VBN interest|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN regard|NN to|TO carried|VBN interest|NN associated|VBN with|IN venture|NN capital|NN real|NN estate|NN private|JJ equity|NN i|PRP do|VBP not|RB believe|VB in|IN raising|NN taxes|NNS romney|NN told|VBD an|DT interviewer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP is|VBZ a|DT capital|NN gain|NN because|IN those|DT individuals|NNS do|VBP make|VBP an|DT investment|NN romney|NN said|VBD </s>|S_END
+<s>|S_START i|PRP would|MD treat|VB capital|NN gains|NNS as|IN capital|NN gains|NNS instead|RB of|IN trying|VBG to|TO recategorize|VB them|PRP as|IN normal|JJ income|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT candidates|NNS position|NN is|VBZ much|JJ less|NN clear|JJ this|DT cycle|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lanhee|NN chen|VBN romneys|NNS policy|NN director|NN told|VBD reporters|NNS during|IN a|DT january|JJ conference|NN call|NN that|WDT the|DT candidate|NN might|MD be|VB willing|JJ to|TO reconsider|NN his|PRP$ position|NN on|IN carried|VBN interest|NN provided|VBN the|DT tax|NN increase|NN was|VBD part|NN of|IN comprehensive|JJ tax|NN reform|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC that|DT same|JJ day|NN the|DT wall|NN street|NN journal|JJ reported|VBD that|IN campaign|NN advisers|NNS walked|VBD back|RB chens|VBZ remarks|NNS saying|VBG that|IN romney|NN didnt|NN want|NN to|TO raise|VB anyones|NNS taxes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START exactly|RB one|CD month|NN later|JJ the|DT romney|NN campaign|NN held|VBD another|DT conference|NN call|NN to|TO reveal|VB a|DT new|JJ plan|NN to|TO cut|VB marginal|JJ tax|NN rates|NNS by|IN 20|CD </s>|S_END
+<s>|S_START during|IN the|DT calls|NNS questionandanswer|JJR session|NN romney|NN economic|JJ adviser|NN glenn|NN hubbard|NN a|DT professor|NN at|IN columbia|NN university|NN once|RB again|RB suggested|VBN the|DT candidate|NN might|MD be|VB willing|JJ to|TO modify|VB the|DT tax|NN treatment|NN of|IN carried|VBN interest|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START should|MD he|PRP become|VB president|NN hubbard|NN said|VBD romney|NN would|MD instruct|VB his|PRP$ treasury|NN secretary|NN to|TO study|NN the|DT issue|NN to|TO determine|VB if|IN a|DT higher|JJR rate|NN was|VBD appropriate|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hubbards|NNS comments|NNS fell|VBD short|JJ of|IN a|DT full|JJ reversal|NN of|IN romneys|NNS position|NN but|CC suggested|VBD the|DT candidate|NN was|VBD open|JJ to|TO the|DT idea|NN of|IN hiking|VBG taxes|NNS on|IN carried|VBN interest|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC given|VBN the|DT campaigns|NNS previous|JJ denunciation|NN of|IN similar|JJ comments|NNS by|IN a|DT staffer|NN it|PRP was|VBD difficult|JJ to|TO determine|VB just|RB how|WRB serious|JJ the|DT candidate|NN was|VBD about|IN the|DT course|NN of|IN action|NN suggested|VBN by|IN hubbard|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN march|NN romney|NN himself|PRP was|VBD asked|VBN about|IN carried|VBN interest|NN during|IN a|DT live|JJ interview|NN broadcast|NN on|IN cnbc|NN but|CC his|PRP$ answer|NN shed|VBD little|JJ light|NN on|IN his|PRP$ plans|NNS for|IN the|DT tax|NN break|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP think|VBP you|PRP have|VBP to|TO look|VB at|IN each|DT dimension|NN of|IN our|PRP$ income|NN streams|NNS and|CC ask|VB is|VBZ this|DT a|DT true|JJ capital|NN gain|NN or|CC is|VBZ it|PRP ordinary|JJ income|NN romney|NN said|VBD before|IN calling|NN for|IN a|DT consistent|NN application|NN of|IN the|DT tax|NN code|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC romney|NN also|RB said|VBD the|DT court|NN system|NN and|CC the|DT internal|JJ revenue|NN service|NN should|MD determine|VB what|WP constitutes|NNS investment|VBP income|NN suggesting|VBG he|PRP believes|VBZ that|IN tinkering|VBG with|IN the|DT tax|NN code|NN is|VBZ outside|IN the|DT executives|NNS purview|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP dont|VBP believe|VBP that|IN its|PRP$ congress|NN job|NN or|CC an|DT administrations|NNS job|NN to|TO go|VB through|RP and|CC say|VB hey|PRP these|DT people|NNS are|VBP making|VBG too|RB much|RB money|NN lets|NNS change|VBP their|PRP$ tax|NN rate|NN to|TO make|VB them|PRP less|JJR able|JJ to|TO be|VB financially|RB successful|JJ romney|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT the|DT romney|NN campaign|NN and|CC an|DT outside|JJ economic|JJ adviser|NN did|VBD not|RB respond|VB to|TO repeated|VBN calls|NNS and|CC emails|NNS from|IN cnnmoney|NN seeking|VBG clarification|NN of|IN the|DT candidates|NNS position|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT campaigns|NNS lack|VBP of|IN specificity|NN on|IN carried|VBN interest|NN underscores|NNS a|DT trend|NN running|VBG through|IN much|JJ of|IN the|DT candidates|NNS tax|NN plan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romney|NN is|VBZ campaigning|VBG on|IN the|DT promise|NN of|IN large|JJ tax|NN cuts|NNS and|CC says|VBZ he|PRP will|MD make|VB up|RP for|IN the|DT lost|JJS revenue|NN by|IN limiting|NN deductions|NNS exemptions|NNS and|CC credits|NNS currently|RB available|JJ to|TO toplevel|NN income|NN earners|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC he|PRP has|VBZ yet|RB to|TO lift|VB the|DT curtain|NN on|IN which|WDT deductions|NNS he|PRP is|VBZ planning|VBG to|TO curtail |NNP </s>|S_END
+</p>|P_END
+

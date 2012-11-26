@@ -1,0 +1,87 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT 99ers|NNS </s>|S_END
+<s>|S_START call|NN them|PRP the|DT 73ers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START beginning|NN later|JJ this|DT year|NN the|DT maximum|NN number|NN of|IN weeks|NNS the|DT jobless|NN can|MD collect|VB unemployment|NN benefits|NNS will|MD be|VB reduced|VBN to|TO 73|CD weeks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT legislation|NN which|WDT congress|NN approved|VBD friday|NN calls|NNS for|IN unemployment|NN insurance|NN to|TO be|VB reduced|VBN in|IN two|CD stages|NNS </s>|S_END
+<s>|S_START states|NNS with|IN lower|JJR jobless|NN rates|NNS will|MD see|VB federal|JJ benefits|NNS trimmed|VBN starting|VBG in|IN june|NN </s>|S_END
+<s>|S_START the|DT full|JJ cut|NN will|MD go|VB into|IN effect|NN in|IN september|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lawmakers|NNS also|RB revamped|VBD parts|NNS of|IN the|DT unemployment|NN insurance|NN system|NN by|IN allowing|NN drug|NN tests|NNS of|IN certain|JJ recipients|NNS and|CC permitting|VBG states|NNS to|TO use|VB the|DT funds|NNS to|TO subsidize|VB employment|NN </s>|S_END
+<s>|S_START the|DT legislation|NN also|RB creates|VBZ national|JJ jobsearch|NN requirements|NNS for|IN everyone|NN collecting|VBG either|DT state|NN or|CC federal|JJ benefits|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT jobless|NN have|VBP been|VBN able|JJ to|TO collect|VB up|RP to|TO 99|CD weeks|NNS of|IN benefits|NNS since|IN november|NN 2009|CD as|IN part|NN of|IN the|DT nations|NNS unprecedented|VBD response|NN to|TO the|DT great|JJ recession|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN longterm|NN unemployment|NN remains|VBZ a|DT problem|NN a|DT growing|VBG chorus|NN of|IN experts|NNS and|CC lawmakers|NNS have|VBP called|VBN for|IN the|DT easing|VBG of|IN the|DT safety|NN net|NN as|IN the|DT economy|NN slowly|RB recovers|NNS and|CC the|DT federal|JJ government|NN looks|NNS to|TO rein|VB in|IN spending|NN </s>|S_END
+<s>|S_START republicans|NNS in|IN particular|JJ had|NN looked|VBN to|TO reduce|VB the|DT number|NN of|IN weeks|NNS the|DT jobless|NN could|MD collect|VB benefits|NNS and|CC tighten|RB eligibility|NN requirements|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT unemployment|NN section|NN of|IN the|DT legislation|NN which|WDT also|RB extended|VBD the|DT payroll|NN tax|NN credit|NN costs|NNS $|$ 30|CD billion|CD </s>|S_END
+<s>|S_START americans|NNS have|VBP collected|VBN a|DT total|NN of|IN $|$ 434|CD billion|CD in|IN unemployment|NN benefits|NNS over|IN the|DT past|JJ four|CD years|NNS with|IN the|DT federal|JJ government|NN footing|NN $|$ 185|CD billion|CD of|IN the|DT tab|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START starting|VBG in|IN september|NN the|DT jobless|NN in|IN states|NNS with|IN unemployment|NN rates|NNS below|IN 6|CD such|JJ as|IN north|JJ dakota|NN and|CC vermont|NN will|MD get|VB a|DT maximum|NN of|IN 40|CD weeks|NNS of|IN checks|NNS </s>|S_END
+<s>|S_START now|RB they|PRP get|VBP as|IN much|JJ as|IN 60|CD weeks|NNS </s>|S_END
+<s>|S_START those|DT in|IN the|DT 6|CD range|NN will|MD get|VB no|DT more|JJR than|IN 54|CD weeks|NNS a|DT reduction|NN of|IN as|RB much|JJ as|IN 32|CD weeks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unemployed|VBD residents|NNS of|IN states|NNS around|IN the|DT national|JJ average|NN currently|RB 83|CD will|MD get|VB a|DT maximum|NN of|IN 63|CD weeks|NNS which|WDT equates|NNS to|TO a|DT drop|NN of|IN as|RB much|JJ as|IN 36|CD weeks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT jobless|NN living|VBG in|IN states|NNS with|IN unemployment|NN rates|NNS above|IN 9|CD will|MD top|VB out|RP at|IN 73|CD weeks|NNS down|IN 26|CD weeks|NNS from|IN the|DT current|JJ 99week|CD maximum|NN </s>|S_END
+<s>|S_START these|DT states|NNS currently|RB include|VBP florida|NN california|NN and|CC nevada|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT change|NN equates|VBZ to|TO a|DT loss|NN of|IN thousands|NNS of|IN dollars|NNS for|IN the|DT jobless|NN </s>|S_END
+<s>|S_START in|IN washington|NN for|IN instance|NN where|WRB unemployment|NN is|VBZ just|RB above|IN the|DT national|JJ average|NN a|DT ninemonth|NN reduction|NN in|IN checks|NNS could|MD total|VB more|RBR than|IN $|$ 13650|CD if|IN the|DT rate|NN is|VBZ the|DT same|JJ in|IN september|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT federalbenefits|NNS pullback|VBP follows|NNS the|DT curtailing|VBG of|IN some|DT state|NN benefits|NNS last|JJ year|NN </s>|S_END
+<s>|S_START at|IN least|JJS six|CD states|NNS reduced|VBN the|DT number|NN of|IN weeks|NNS the|DT jobless|NN could|MD receive|VB state|NN benefits|NNS from|IN the|DT standard|JJ 26|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT graduated|VBN approach|NN will|MD avoid|VB the|DT shocks|NNS to|TO the|DT economy|NN and|CC to|TO unemployed|VB workers|NNS that|WDT there|EX would|MD have|VB been|VBN with|IN a|DT sharp|JJ cutoff|NN of|IN federal|JJ benefits|NNS said|VBD george|NN wentworth|NN senior|JJ staff|NN attorney|NN at|IN the|DT national|JJ employment|NN law|NN project|NN </s>|S_END
+<s>|S_START it|PRP keeps|VBZ the|DT program|NN functioning|NN as|IN the|DT effective|JJ lifeline|NN it|PRP needs|VBZ to|TO be|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT legislation|NN will|MD also|RB allow|VB states|NNS to|TO screen|VB applicants|NNS for|IN illegal|JJ drugs|NNS if|IN they|PRP lost|VBP their|PRP$ job|NN due|JJ to|TO a|DT failed|VBN or|CC refused|VBN drug|NN test|NN or|CC if|IN they|PRP are|VBP applying|VBG for|IN a|DT position|NN that|WDT requires|VBZ testing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START states|NNS will|MD also|RB be|VB able|JJ to|TO apply|VB for|IN waivers|NNS enabling|VBG them|PRP to|TO implement|VB reforms|NNS such|JJ as|IN using|VBG unemployment|NN insurance|NN funds|NNS to|TO subsidize|VB employment|NN </s>|S_END
+<s>|S_START up|IN to|TO 10|CD states|NNS will|MD be|VB allowed|VBN to|TO test|NN georgia|NN workstype|NN programs|NNS which|WDT place|NN the|DT jobless|NN in|IN training|NN positions|NNS while|IN they|PRP continue|VBP to|TO collect|VB weekly|RB checks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT legislation|NN also|RB mandates|VBZ the|DT creation|NN of|IN national|JJ jobsearch|NN requirements|NNS for|IN all|DT recipients|NNS in|IN order|NN to|TO eliminate|VB the|DT statebystate|NN approach|NN currently|RB in|IN existence|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START states|NNS will|MD also|RB receive|VB $|$ 1|CD billion|CD to|TO assist|VB with|IN skills|NNS testing|VBG for|IN the|DT longterm|NN unemployed|VBD underemployed|VBN and|CC selfemployed|VBN </s>|S_END
+<s>|S_START the|DT us|PRP department|NN of|IN labor|NN already|RB provides|VBZ funding|NN to|TO assess|NN the|DT workreadiness|NN of|IN the|DT unemployed|VBN but|CC the|DT legislation|NN makes|VBZ it|PRP a|DT requirement|NN for|IN those|DT who|WP have|VBP been|VBN jobless|NNS for|IN more|JJR than|IN 26|CD weeks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START republicans|NNS trumpeted|VBD the|DT fact|NN that|IN these|DT changes|NNS made|VBN it|PRP into|IN the|DT final|JJ bill|NN </s>|S_END
+<s>|S_START but|CC president|NN obama|NN had|VBD also|RB called|VBN for|IN several|JJ of|IN these|DT adjustments|NNS in|IN his|PRP$ american|JJ jobs|NNS act|NN proposal|NN last|JJ september |NN </s>|S_END
+</p>|P_END
+

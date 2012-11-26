@@ -1,0 +1,90 @@
+<p>|P_START
+<s>|S_START treasury|NN secretary|NN tim|NN geithner|NN read|NN aloud|NN from|IN the|DT constitution|NN at|IN a|DT politico|NN breakfast|NN last|JJ month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN amid|IN fears|NNS the|DT united|VBN states|NNS risks|NNS default|VBP if|IN lawmakers|NNS dont|VBP raise|VBP the|DT debt|NN ceiling|NN on|IN time|NN some|DT are|VBP suggesting|VBG president|NN obama|NN could|MD save|VB the|DT day|NN by|IN bigfooting|NN congress|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB </s>|S_END
+<s>|S_START by|IN invoking|NN the|DT constitution|NN and|CC directing|VBG treasury|NN secretary|NN tim|NN geithner|NN to|TO keep|VB borrowing|NN even|RB if|IN it|PRP means|VBZ going|VBG past|JJ the|DT statutory|JJ borrowing|NN limit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START really|RB </s>|S_END
+<s>|S_START they|PRP say|VBP default|NN and|CC by|IN extension|NN the|DT debt|NN limit|NN violates|VBZ the|DT 14th|JJ amendment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT amendment|NN states|VBZ the|DT validity|NN of|IN the|DT public|NN debt|NN of|IN the|DT united|VBN states|NNS authorized|VBN by|IN law|NN including|VBG debts|NNS incurred|VBN for|IN payment|NN of|IN pensions|NNS and|CC bounties|NNS for|IN services|NNS in|IN suppressing|VBG insurrection|NN or|CC rebellion|NN shall|MD not|RB be|VB questioned|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT idea|NN first|RB gained|VBD currency|NN when|WRB legal|JJ scholar|NN garrett|NN epps|NNS and|CC fiscal|JJ expert|NN bruce|NN bartlett|NN asserted|VBD that|IN the|DT president|NN could|MD invoke|VB the|DT 14th|JJ amendment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START epps|NNS writing|VBG in|IN the|DT atlantic|JJ magazine|NN noted|VBD the|DT amendments|NNS stark|VBP language|NN </s>|S_END
+<s>|S_START its|PRP$ not|RB hard|JJ to|TO argue|VB that|IN the|DT constitution|NN places|NNS both|DT payments|NNS on|IN the|DT debt|NN and|CC payments|NNS owed|VBD to|TO groups|NNS like|IN social|JJ security|NN recipients|NNS above|IN the|DT vagaries|NNS of|IN congressional|JJ politics|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP concluded|VBD if|IN congress|NN wont|NN pay|NN them|PRP then|RB the|DT executive|JJ must|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bartlett|NN in|IN a|DT fiscal|JJ times|NNS column|VBP noted|VBN that|IN much|RB of|IN the|DT public|NN debt|NN is|VBZ held|VBN by|IN foreign|JJ investors|NNS meaning|VBG a|DT default|NN would|MD have|VB global|JJ ramifications|NNS </s>|S_END
+<s>|S_START and|CC he|PRP cited|VBD warnings|NNS from|IN top|JJ officials|NNS that|WDT its|PRP$ a|DT threat|NN to|TO national|JJ security|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START invoking|VBG the|DT 14th|JJ amendment|NN to|TO prevent|VB default|NN is|VBZ no|DT less|JJR justified|VBN than|IN using|VBG american|JJ military|JJ power|NN to|TO protect|VB against|IN an|DT armed|VBN invasion|NN without|IN a|DT congressional|JJ declaration|NN of|IN war|NN bartlett|NN argued|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB geithner|JJR at|IN a|DT politico|NN breakfast|NN last|JJ month|NN whipped|VBD out|RP a|DT copy|NN of|IN the|DT constitution|NN and|CC read|VB the|DT 14th|JJ amendment|NN aloud|NN </s>|S_END
+<s>|S_START this|DT is|VBZ the|DT important|JJ thing|NN shall|MD not|RB be|VB questioned|VBN he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT president|NN himself|PRP has|VBZ been|VBN silent|JJ on|IN the|DT issue|NN dodging|VBG the|DT question|NN when|WRB it|PRP was|VBD asked|VBN at|IN a|DT press|NN conference|NN on|IN wednesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START not|RB everyone|VBN is|VBZ convinced|VBN that|IN the|DT 14th|JJ amendment|NN would|MD be|VB the|DT best|JJS rabbit|NN to|TO pull|VB out|RP of|IN the|DT hat|NN if|IN congress|NN fails|VBZ to|TO raise|VB the|DT debt|NN ceiling|NN in|IN time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN one|CD thing|NN doing|VBG so|RB could|MD run|VB counter|NN to|TO congress|NN constitutional|JJ role|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START just|RB because|IN the|DT constitution|NN directs|VBZ the|DT president|NN to|TO safeguard|VB the|DT national|JJ debt|NN doesnt|NN mean|NN he|PRP can|MD go|VB snatching|VBG the|DT power|NN of|IN the|DT purse|NN from|IN congress|NN wrote|VBD michael|NN stern|NN who|WP specializes|VBZ in|IN congressional|JJ legal|JJ issues|NNS wrote|VBD in|IN his|PRP$ blog|NN pointofordercom|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC when|WRB it|PRP comes|VBZ to|TO national|JJ security|NN where|WRB the|DT president|NN has|VBZ broad|VBN powers|NNS it|PRP is|VBZ recognized|VBN that|IN he|PRP must|MD rely|RB on|IN congress|NN for|IN funding|NN stern|NN added|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START then|RB theres|VBZ the|DT issue|NN of|IN precedent|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT administrations|NNS have|VBP acted|VBN and|CC assumed|VBD the|DT debt|NN ceiling|NN is|VBZ a|DT statute|NN that|WDT has|VBZ to|TO be|VB obeyed|VBN said|VBN jay|NN powell|NN a|DT former|JJ treasury|NN undersecretary|NN for|IN finance|NN under|IN president|NN george|NN w|NN bush|NN who|WP coauthored|VBN a|DT report|NN showing|VBG the|DT negative|JJ fallout|NN if|IN congress|NN doesnt|NN raise|VB the|DT ceiling|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN a|DT practical|JJ matter|NN if|IN the|DT administration|NN were|VBD to|TO invoke|VB the|DT 14th|JJ amendment|NN the|DT markets|NNS could|MD push|VB the|DT cost|NN of|IN borrowing|NN higher|JJR as|IN the|DT move|NN could|MD spark|VB a|DT controversy|NN further|RB dividing|VBG capitol|NN hill|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START epps|NNS made|VBD clear|JJ in|IN an|DT email|NN to|TO cnnmoney|NN that|IN hes|NNS not|RB recommending|VBG that|IN the|DT president|NN treat|NN the|DT debt|NN ceiling|NN as|IN something|NN he|PRP can|MD just|RB disregard|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP think|VBP ignoring|VBG the|DT debt|NN ceiling|NN would|MD and|CC should|MD be|VB at|IN most|JJS a|DT lastminute|NN thing|NN like|IN a|DT tourniquet|NN on|IN a|DT wound|NN where|WRB the|DT choice|NN is|VBZ between|IN losing|VBG a|DT leg|NN and|CC losing|VBG a|DT life|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

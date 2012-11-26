@@ -1,0 +1,63 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN falling|VBG mortgage|NN rates|NNS fueled|VBD by|IN the|DT fed|VBN are|VBP having|VBG only|RB a|DT limited|VBN impact|NN on|IN the|DT economy|NN said|VBD federal|JJ reserve|NN bank|NN of|IN new|JJ york|NN president|NN william|NN dudley|NN monday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN the|DT feds|NNS stimulus|VBZ policy|NN is|VBZ working|VBG even|RB more|JJR aggressive|JJ policy|NN could|MD have|VB been|VBN more|RBR effective|JJ dudley|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START last|JJ month|NN the|DT central|JJ bank|NN launched|VBD a|DT third|JJ round|NN of|IN bondbuying|VBG stimulus|NN known|NN as|IN quantitative|JJ easing|NN or|CC qe3|NNP </s>|S_END
+<s>|S_START the|DT program|NN entails|NNS buying|VBG $|$ 40|CD billion|CD in|IN mortgagebacked|JJ securities|NNS each|DT month|NN in|IN an|DT effort|NN to|TO lower|JJR mortgage|NN rates|NNS and|CC stimulate|VB the|DT housing|NN market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START since|IN then|RB mortgage|NN rates|NNS have|VBP fallen|VBN to|TO record|VB lows|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START home|NN prices|NNS sales|NNS and|CC new|JJ construction|NN had|VBD already|RB been|VBN showing|VBG signs|NNS of|IN improving|VBG before|IN the|DT fed|JJ acted|VBN and|CC are|VBP largely|RB expected|VBN to|TO continue|VB recovering|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD a|DT new|JJ housing|NN boom|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC dudley|NN said|VBD the|DT impact|NN of|IN fed|VBN policy|NN on|IN the|DT housing|NN market|NN could|MD have|VB been|VBN even|RB greater|JJR if|IN it|PRP werent|VBP for|IN tight|JJ lending|VBG standards|NNS and|CC higher|JJR fees|NNS from|IN fannie|NN mae|NN and|CC freddie|VB mac|NN which|WDT have|VBP discouraged|VBN banks|NNS from|IN originating|VBG loans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD reason|NN that|WDT monetary|JJ policy|NN may|MD have|VB been|VBN less|JJR powerful|JJ than|IN normal|JJ is|VBZ that|IN one|CD of|IN the|DT primary|JJ channels|NNS through|IN which|WDT monetary|JJ policy|NN influences|NNS the|DT real|JJ economy|NN housing|NN finance|NN has|VBZ been|VBN partially|RB impaired|VBN dudley|NN said|VBD at|IN the|DT national|JJ association|NN for|IN business|NN economics|NNS annual|JJ meeting|NN in|IN new|JJ york|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START monetary|JJ policy|NN also|RB becomes|VBZ less|JJR powerful|JJ over|IN time|NN he|PRP said|VBD so|RB a|DT larger|JJR stimulus|NN from|IN the|DT start|NN would|MD have|VB been|VBN more|RBR effective|JJ than|IN spreading|NN it|PRP out|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN the|DT benefit|NN of|IN hindsight|NN monetary|NN policy|NN needed|VBN to|TO be|VB still|RB more|JJR aggressive|JJ he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START considered|VBD an|DT inflation|NN dove|NN dudley|NN has|VBZ thrown|VBN his|PRP$ support|NN behind|IN qe3|NNP and|CC continued|VBD to|TO argue|VB in|IN favor|NN of|IN the|DT policy|NN in|IN his|PRP$ speech|NN monday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP said|VBD he|PRP remains|VBZ confident|JJ that|IN the|DT fed|JJ will|MD be|VB able|JJ to|TO keep|VB inflation|NN in|IN check|NN despite|IN unprecedented|VBN efforts|NNS to|TO pump|VB liquidity|NN into|IN the|DT financial|JJ system|NN </s>|S_END
+<s>|S_START if|IN inflation|NN were|VBD to|TO suddenly|RB start|VB rising|VBG rapidly|RB he|PRP said|VBD the|DT fed|VBN could|MD tame|VB it|PRP by|IN raising|VBG the|DT interest|NN rate|NN it|PRP pays|VBZ banks|NNS on|IN excess|NN reserves|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dudley|NN also|RB used|VBD the|DT speech|NN to|TO reiterate|VB a|DT key|JJ point|NN often|RB expressed|VBN by|IN federal|JJ reserve|NN chairman|NN ben|NN bernanke|NN </s>|S_END
+<s>|S_START monetary|JJ policy|NN is|VBZ not|RB a|DT panacea|NN he|PRP said|VBD urging|VBG congress|NN and|CC the|DT white|JJ house|NN to|TO do|VB their|PRP$ part|NN to|TO stimulate|VB the|DT economy|NN both|DT by|IN addressing|NN the|DT longterm|NN debt|NN of|IN the|DT country|NN and|CC enacting|VBG policies|NNS to|TO stimulate|VB the|DT economy|NN now|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fiscal|JJ policy|NN is|VBZ now|RB a|DT drag|NN rather|RB than|IN a|DT support|NN to|TO growth|NN in|IN the|DT us|PRP and|CC this|DT will|MD likely|RB continue|VB dudley|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP spoke|VBD in|IN favor|NN of|IN immigration|NN policies|NNS that|WDT attract|NN foreign|JJ workers|NNS with|IN scarce|NN skills|NNS education|NN and|CC job|NN retraining|VBG programs|NNS infrastructure|NN spending|NN and|CC a|DT simpler|NN tax|NN code|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,86 @@
+<p>|P_START
+<s>|S_START despite|IN their|PRP$ reputation|NN for|IN violence|NN not|RB all|DT video|NN games|NNS are|VBP about|IN zapping|VBG aliens|NNS or|CC shooting|VBG zombie|NN </s>|S_END
+<s>|S_START plenty|NN offer|NN gentler|NN amusements|NNS like|IN tending|VBG a|DT virtual|JJ farm|NN or|CC playing|VBG a|DT relaxing|NN round|NN of|IN golf|NN </s>|S_END
+<s>|S_START and|CC a|DT few|JJ take|NN their|PRP$ inspiration|NN from|IN business|NN and|CC management|NN </s>|S_END
+<s>|S_START players|NNS can|MD assume|VB the|DT role|NN of|IN a|DT footballteam|NN boss|NN in|IN “championship|NN manager”|NN or|CC an|DT aspiring|NN transport|NN magnate|NN in|IN “railroad|JJ tycoon”|NN </s>|S_END
+<s>|S_START even|RB the|DT evil|JJ overlord|NN in|IN the|DT 1997|CD classic|JJ “dungeon|JJ keeper”|NN must|MD make|VB sure|JJ to|TO pay|VB wages|NNS to|TO his|PRP$ vampires|NNS dragons|NNS and|CC trolls|NNS lest|VBP the|DT workers|NNS rebel|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN video|NN games|NNS have|VBP grown|VBN from|IN an|DT obscure|NN hobby|NN to|TO a|DT $|$ 67|CD billion|CD industry|NN management|NN theorists|NNS have|VBP begun|VBN to|TO return|VB the|DT favour|NN </s>|S_END
+<s>|S_START video|NN games|NNS now|RB have|VBP the|DT dubious|JJ honour|NN of|IN having|VBG inspired|VBN their|PRP$ own|JJ management|NN craze|NN </s>|S_END
+<s>|S_START called|VBN “gamification”|-NONE- it|PRP aims|VBZ to|TO take|VB principles|NNS from|IN video|NN games|NNS and|CC apply|RB them|PRP to|TO serious|JJ task|NN </s>|S_END
+<s>|S_START the|DT latest|JJS book|NN on|IN the|DT subject|NN “for|NN the|DT win”|NN comes|VBZ from|IN kevin|NN werbach|NN and|CC dan|NN hunter|NN from|IN the|DT wharton|NN business|NN school|NN and|CC the|DT new|JJ york|NN law|NN school|NN respectively|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gamification|NN proceeds|NNS from|IN the|DT observation|NN that|IN to|TO nonplayers|NNS a|DT lot|NN of|IN what|WP gamers|NNS do|VBP looks|NNS suspiciously|RB like|IN hard|JJ work|NN </s>|S_END
+<s>|S_START improving|VBG a|DT character|NN in|IN “world|JJ of|IN warcraft”|JJ an|DT online|NN fantasy|NN game|NN is|VBZ a|DT neverending|NN treadmill|NN </s>|S_END
+<s>|S_START the|DT most|RBS dedicated|JJ players|NNS sign|NN up|IN for|IN weekly|JJ sessions|NNS with|IN two|CD dozen|NNS other|JJ players|NNS which|WDT can|MD last|VB for|IN several|JJ hours—vital|JJ if|IN they|PRP wish|VBP to|TO defeat|VB the|DT toughest|JJS monster|NN </s>|S_END
+<s>|S_START jokes|NNS about|IN the|DT game|NN being|VBG a|DT second|JJ job|NN are|VBP common|JJ </s>|S_END
+<s>|S_START other|JJ gamers|NNS will|MD spend|VB hours|NNS trying|VBG to|TO shave|VB fractions|NNS of|IN a|DT second|JJ from|IN a|DT record|NN lap|NN time|NN in|IN a|DT driving|VBG game|NN or|CC chasing|VBG a|DT high|JJ score|NN in|IN “angry|JJ birds”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT this|DT is|VBZ fascinating|VBG to|TO management|NN gurus|NN who|WP come|NN from|IN a|DT world|NN in|IN which|WDT people|NNS must|MD usually|RB be|VB paid|VBN to|TO undertake|VB repetitive|JJ task|NN </s>|S_END
+<s>|S_START games|NNS not|RB only|RB subvert|VB that|IN rule|NN they|PRP invert|VBP it|PRP completely|RB players|VBZ will|MD happily|RB fork|VB out|RP good|JJ money|NN for|IN the|DT privilege|NN of|IN being|VBG allowed|VBN to|TO attempt|VB arbitrary|JJ job|NN </s>|S_END
+<s>|S_START what|WP if|IN say|VBP the|DT gamifiers|NNS it|PRP were|VBD possible|JJ to|TO identify|VB the|DT “special|JJ sauce”|NN responsible|JJ for|IN this|DT strange|NN effect|NN extract|NN it|PRP and|CC then|RB slather|RB it|PRP onto|IN business|NN problem|NN </s>|S_END
+<s>|S_START can|MD the|DT compulsive|JJ power|NN of|IN video|NN games|NNS be|VB harnessed|VBN to|TO motivate|VB worker|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN “for|JJ the|DT win”|NN readers|NNS are|VBP told|VBN of|IN an|DT internal|JJ microsoft|NN competition|NN to|TO hunt|VB down|RP translation|NN mistakes|NNS in|IN its|PRP$ windows|NNS operating|VBG system|NN </s>|S_END
+<s>|S_START points|NNS were|VBD assigned|VBN for|IN spotting|NN mistakes|NNS and|CC totted|VBD up|RP on|IN a|DT companywide|NN leaderboard|NN </s>|S_END
+<s>|S_START the|DT mixture|NN of|IN instant|JJ feedback|NN via|IN the|DT points|NNS and|CC competition|NN through|IN the|DT leaderboard|NN provided|VBD a|DT powerful|JJ spur|NN </s>|S_END
+<s>|S_START the|DT entire|JJ japan|NN office|NN took|VBD a|DT day|NN off|IN from|IN other|JJ work|NN to|TO hunt|VB down|RP mistranslations—great|JJ for|IN motivation|NN but|CC perhaps|RB not|RB for|IN productivity|NN </s>|S_END
+<s>|S_START liveops|NNS an|DT american|JJ firm|NN whose|WP$ employees|NNS do|VBP callcentre|RB work|VB from|IN home|NN uses|NNS leaderboards|NNS and|CC points|NNS to|TO boost|VB productivity|NN while|IN a|DT series|NN of|IN “badges”|JJ modelled|VBN on|IN videogame|NN “achievements”|NN given|VBN for|IN completing|NN certain|JJ tasks|NNS denote|VBP mastery|NN of|IN certain|JJ skill|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START games|NNS can|MD be|VB used|VBN for|IN enthusing|NN customers|NNS too|RB </s>|S_END
+<s>|S_START fitocracy|NN a|DT fitness|NN website|NN lets|NNS its|PRP$ users|NNS set|VBD up|RP “duels”|-NONE- with|IN each|DT other|JJ to|TO see|VB who|WP can|MD get|VB the|DT better|JJR jogging|VBG time|NN </s>|S_END
+<s>|S_START an|DT escalating|NN series|NN of|IN “levels”|JJ a|DT concept|NN invented|VBN to|TO measure|VB a|DT character’s|JJ power|NN in|IN roleplaying|NN games|NNS is|VBZ a|DT frequent|NN feature|NN of|IN gamification|NN scheme|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START does|VBZ gamification|NN merit|NN the|DT hype|NN that|IN has|VBZ quickly|RB surrounded|VBN it|PRP </s>|S_END
+<s>|S_START the|DT idea|NN is|VBZ only|RB a|DT couple|NN of|IN years|NNS old|JJ but|CC it|PRP has|VBZ already|RB spawned|VBN a|DT host|NN of|IN breathless|NN conferences|NNS crowded|VBD seminars|NNS and|CC inevitably|RB ted|VBN talk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN videogame|VBD designers|NNS are|VBP opposed|VBN to|TO the|DT idea|NN on|IN principle|NN arguing|VBG that|IN gamification|NN is|VBZ really|RB a|DT cover|NN for|IN cynically|RB exploiting|VBG human|NN psychology|NN for|IN profit|NN </s>|S_END
+<s>|S_START they|PRP compare|VBP many|JJ of|IN the|DT games|NNS beloved|VBD by|IN the|DT gamifiers|NNS such|JJ as|IN “world|JJ of|IN warcraft”|JJ to|TO slot|NN machines|NNS with|IN rewards|NNS carefully|RB doled|VBN out|RP in|IN order|NN to|TO keep|VB players|NNS hooked|VBN </s>|S_END
+<s>|S_START others|NNS argue|VBP that|IN gamification|NN usually|RB misses|VBZ the|DT point|NN focusing|VBG on|IN incidental|JJ features|NNS of|IN video|NN games|NNS such|JJ as|IN points|NNS badges|NNS and|CC instant|JJ feedback|NN while|IN ignoring|VBG the|DT deeper|NN features—like|NN being|VBG able|JJ to|TO explore|VB freely|RB a|DT virtual|JJ world—that|JJ actually|RB make|VBP them|PRP fun|VBP </s>|S_END
+<s>|S_START and|CC the|DT benefits|NNS the|DT critics|NNS say|VBP are|VBP likely|JJ to|TO be|VB transient|JJ </s>|S_END
+<s>|S_START when|WRB a|DT player|NN gets|VBZ bored|VBN of|IN a|DT video|NN game|NN it|PRP is|VBZ easy|JJ to|TO buy|VB another|DT </s>|S_END
+<s>|S_START when|WRB workplace|NN games|VBZ become|VBN dull|JJ they|PRP are|VBP not|RB so|RB easy|JJ to|TO put|VB aside|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START levelheaded|VBD management|NN types|NNS meanwhile|RB say|VBP that|IN many|JJ of|IN the|DT aspects|NNS of|IN gamification|NN that|IN do|VB work|NN are|VBP merely|RB old|JJ ideas|NNS in|IN trendy|NN new|JJ clothe|NN </s>|S_END
+<s>|S_START highscore|IN lists|NNS for|IN sales|NNS staff|NN for|IN example|NN have|VBP been|VBN around|IN for|IN decades|NNS as|IN have|VBP employeeofthemonth|JJ contest|NN </s>|S_END
+<s>|S_START airlines|NNS were|VBD giving|VBG points|NNS and|CC perks|NNS to|TO loyal|JJ customers|NNS long|RB before|IN anyone|NN had|VBD heard|VBN of|IN “farmville”|NNP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START game|NN over|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START messrs|NNS werbach|VBP and|CC hunter|NN accept|VBD much|RB of|IN this|DT criticism|NN </s>|S_END
+<s>|S_START indeed|RB they|PRP go|VBP out|RP of|IN their|PRP$ way|NN to|TO warn|VB aspiring|NN gamifiers|NNS of|IN the|DT many|JJ pitfalls|NNS they|PRP face|VBP </s>|S_END
+<s>|S_START trying|VBG to|TO enliven|VB boring|NN unskilled|VBN work|NN is|VBZ risky|JJ they|PRP say|VBP presenting|VBG cutesy|NN badges|NNS to|TO callcentre|VB staff|NN can|MD easily|RB come|VB across|IN as|IN patronising|NN rather|RB than|IN motivating|VBG </s>|S_END
+<s>|S_START workers|NNS already|RB toil|VBP for|IN a|DT reward—money—and|JJ will|MD be|VB suspicious|JJ of|IN attempts|NNS to|TO introduce|VB a|DT new|JJ form|NN of|IN compensation|NN that|IN costs|NNS their|PRP$ bosses|NNS nothing|VBG </s>|S_END
+<s>|S_START the|DT authors|NNS cite|VBP psychological|JJ experiments|NNS suggesting|VBG that|IN intrinsic|JJ rewards|NNS the|DT enjoyment|NN of|IN a|DT task|NN for|IN its|PRP$ own|JJ sake|NN are|VBP the|DT best|JJS motivators|NNS whereas|RB extrinsic|JJ rewards|NNS such|JJ as|IN badges|NNS levels|NNS points|NNS or|CC even|RB in|IN some|DT circumstances|NNS money|NN can|MD be|VB counterproductive|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT problem|NN is|VBZ that|IN after|IN the|DT authors|NNS have|VBP finished|VBN instructing|VBG their|PRP$ readers|NNS in|IN what|WP not|RB to|TO do|VB the|DT concept|NN of|IN gamification|NN is|VBZ left|VBN looking|VBG somewhat|RB threadbare|JJ </s>|S_END
+<s>|S_START that|DT is|VBZ a|DT shame|NN because|IN their|PRP$ central|JJ idea—that|JJ the|DT world|NN might|MD be|VB a|DT better|JJR place|NN if|IN work|NN was|VBD less|JJR of|IN a|DT necessary|JJ drudge|NN and|CC more|JJR of|IN a|DT rewarding|NN experience|NN in|IN itself—is|NNP hard|NN to|TO argue|VB with|IN </s>|S_END
+<s>|S_START but|CC then|RB perhaps|RB it|PRP is|VBZ called|VBN work|NN for|IN a|DT reason|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogsschumpeter|NN </s>|S_END
+</p>|P_END
+

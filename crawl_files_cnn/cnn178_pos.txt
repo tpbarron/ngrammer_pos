@@ -1,0 +1,63 @@
+<p>|P_START
+<s>|S_START renting|VBG site|NN airbnb|NN is|VBZ coordinating|VBG free|JJ housing|NN offers|NNS for|IN hurricane|NN sandys|NNS displaced|VBD new|JJ york|NN city|NN victims|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN hurricane|NN sandys|NNS floodwaters|NNS waters|NNS have|VBP receded|VBN but|CC some|DT victims|NNS are|VBP still|RB left|VBN homeless|JJ </s>|S_END
+<s>|S_START those|DT displaced|VBN in|IN new|JJ york|NN city|NN can|MD now|RB use|VB the|DT rental|JJ site|NN airbnb|NN to|TO find|VB free|JJ temporary|JJ housing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START airbnb|NN is|VBZ fastgrowing|VBG site|JJ that|IN allows|NNS users|NNS to|TO rent|VB out|RP part|NN or|CC all|DT of|IN their|PRP$ homes|NNS </s>|S_END
+<s>|S_START renters|NNS usually|RB pay|VBP for|IN the|DT rooms|NNS but|CC in|IN the|DT donated|VBN sandy|NN housing|NN program|NN that|WDT launched|VBD wednesday|NN hosts|NNS are|VBP offering|VBG up|RP their|PRP$ homes|NNS at|IN no|DT cost|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START about|IN 140|CD airbnb|NN users|NNS had|VBD opened|VBN their|PRP$ homes|NNS to|TO new|JJ york|NN city|NN area|NN sandy|NN victims|NNS as|IN of|IN 445|CD pm|NN </s>|S_END
+<s>|S_START et|NN shortly|RB after|IN the|DT program|NN launched|VBD </s>|S_END
+<s>|S_START offers|NNS ranged|VBD from|IN spare|NN beds|NNS in|IN new|JJ jersey|NN to|TO entire|VB twobedroom|NN apartments|NNS in|IN manhattan|NN to|TO luxe|VB brooklyn|NN lofts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START users|NNS interested|VBD in|IN renting|NN or|CC booking|VBG can|MD go|VB to|TO airbnbcomsandy|VB where|WRB airbnb|NN is|VBZ listing|VBG the|DT free|JJ housing|NN options|NNS adorned|VBD with|IN bright|JJ pink|NN $|$ 0|-NONE- price|NN tags|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ time|NN to|TO help|VB each|DT other|JJ the|DT page|NN reads|NNS in|IN large|JJ print|NN </s>|S_END
+<s>|S_START airbnb|NN is|VBZ skipping|VBG its|PRP$ usual|JJ booking|NN fee|NN for|IN these|DT free|JJ listings|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START airbnb|NN had|VBD already|RB waived|VBN its|PRP$ fees|NNS for|IN both|DT hosts|NNS and|CC renters|NNS in|IN areas|NNS affected|VBN by|IN hurricane|NN sandy|NN </s>|S_END
+<s>|S_START the|DT company|NN said|VBD wednesday|NN that|IN nearly|RB 2500|CD lastminute|NN bookings|NNS have|VBP been|VBN made|VBN in|IN affected|JJ areas|NNS since|IN the|DT storm|NN </s>|S_END
+<s>|S_START about|IN 900|CD of|IN those|DT bookings|NNS were|VBD in|IN new|JJ york|NN city|NN and|CC about|IN 300|CD were|VBD made|VBN by|IN city|NN residents|NNS reserving|VBG space|NN elsewhere|RB in|IN the|DT city|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START airbnb|NN partnered|VBD on|IN the|DT program|NN with|IN the|DT office|NN of|IN new|JJ york|NN city|NN mayor|NN michael|NN bloomberg|NN who|WP discussed|VBN it|PRP during|IN a|DT press|NN conference|NN on|IN wednesday|NN </s>|S_END
+<s>|S_START in|IN a|DT press|NN release|NN he|PRP called|VBD the|DT airbnb|NN program|NN a|DT great|JJ way|NN to|TO match|VB new|JJ yorkers|NNS in|IN need|NN with|IN those|DT who|WP have|VBP something|NN to|TO give|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START several|JJ users|NNS expressed|VBN concern|NN about|IN the|DT program|NN though|IN in|IN comments|NNS on|IN airbnbs|NNS blog|VBP post|NN about|IN the|DT news|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD asked|VBD how|WRB will|MD we|VB know|VB if|IN our|PRP$ place|NN is|VBZ being|VBG offered|VBN to|TO merely|RB visitors|NNS to|TO nyc|VB versus|NN nyc|NN residents|NNS who|WP are|VBP temporarily|RB homeless|JJ due|JJ to|TO the|DT hurricane|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT program|NN will|MD work|VB just|RB like|IN airbnb|NN usually|RB does|VBZ said|VBN airbnb|NN rep|NN emily|RB fields|VBZ joffrion|NN meaning|VBG that|IN hosts|NNS and|CC potential|JJ renters|NNS are|VBP encouraged|VBN to|TO communicate|VB extensively|RB and|CC ask|VB questions|NNS before|IN coming|VBG to|TO an|DT agreement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START airbnbs|NNS standard|VBD customer|NN service|NN and|CC insurance|NN coverage|NN policies|NNS are|VBP in|IN effect|NN </s>|S_END
+<s>|S_START she|PRP could|MD not|RB confirm|VB how|WRB long|JJ the|DT free|JJ program|NN will|MD run|VB but|CC said|VBD airbnb|NN is|VBZ actively|RB working|VBG on|IN a|DT timeline|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whats|NNS going|VBG on|IN in|IN new|JJ york|NN it|PRP its|PRP$ really|RB hard|JJ for|IN people|NNS outside|IN to|TO grasp|VB what|WP it|PRP feels|VBZ and|CC looks|NNS like|IN joffrion|NN said|VBD </s>|S_END
+<s>|S_START after|IN disasters|NNS there|RB can|MD be|VB a|DT moment|NN when|WRB you|PRP feel|VBP like|IN the|DT world|NN isnt|NN listening|VBG anymore|NN </s>|S_END
+<s>|S_START the|DT severity|NN of|IN the|DT situation|NN hasnt|NN gone|NN away|RB and|CC its|PRP$ really|RB important|JJ for|IN everyone|NN to|TO have|VB a|DT place|NN to|TO go|VB </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,105 @@
+<p>|P_START
+<s>|S_START in|IN the|DT search|NN for|IN the|DT villain|NN behind|IN the|DT global|JJ financial|JJ crisis|NN some|DT have|VBP pointed|VBN to|TO inequality|NN as|IN a|DT culprit|NN </s>|S_END
+<s>|S_START in|IN his|PRP$ 2010|CD book|NN “fault|NN lines”|NN raghuram|NN rajan|NN of|IN the|DT university|NN of|IN chicago|NN argued|VBD that|IN inequality|NN was|VBD a|DT cause|NN of|IN the|DT crisis|NN and|CC that|IN the|DT american|JJ government|NN served|VBD as|IN a|DT willing|JJ accomplice|NN </s>|S_END
+<s>|S_START from|IN the|DT early|JJ 1980s|CD the|DT wages|NNS of|IN working|VBG americans|NNS with|IN little|JJ or|CC no|DT university|NN education|NN fell|VBD ever|RB farther|RB behind|IN those|DT with|IN university|NN qualifications|NNS he|PRP pointed|VBD out|RP </s>|S_END
+<s>|S_START under|IN pressure|NN to|TO respond|VB to|TO the|DT problem|NN of|IN stagnating|VBG incomes|NNS successive|JJ presidents|NNS and|CC congresses|NNS opened|VBD a|DT flood|NN of|IN mortgage|NN credit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN 1992|CD the|DT government|NN reduced|VBD capital|NN requirements|NNS at|IN fannie|NN mae|NN and|CC freddie|VB mac|NN two|CD huge|JJ sources|NNS of|IN housing|VBG finance|NN </s>|S_END
+<s>|S_START in|IN the|DT 1990s|NNS the|DT federal|JJ housing|NN administration|NN expanded|VBD its|PRP$ loan|NN guarantees|NNS to|TO cover|VB bigger|JJR mortgages|NNS with|IN smaller|JJR downpayment|NN </s>|S_END
+<s>|S_START and|CC in|IN the|DT 2000s|CD fannie|NN and|CC freddie|VB were|VBD encouraged|VBN to|TO buy|VB more|JJR subprime|JJ mortgagebacked|VBN securitie|NN </s>|S_END
+<s>|S_START inequality|NN mr|NN rajan|NN argued|VBD prepared|VBN the|DT ground|NN for|IN disaster|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN rajans|NNS story|NN was|VBD intended|VBN as|IN a|DT narrative|JJ of|IN the|DT subprime|NN crisis|NN in|IN america|NN not|RB as|IN a|DT general|JJ theory|NN of|IN financial|JJ dislocation|NN </s>|S_END
+<s>|S_START but|CC others|NNS have|VBP noted|VBN that|IN inequality|NN also|RB soared|VBD in|IN the|DT years|NNS before|IN the|DT depression|NN of|IN the|DT 1930|CD </s>|S_END
+<s>|S_START in|IN 2007|CD 235|CD of|IN all|DT american|JJ income|NN flowed|VBD to|TO the|DT top|JJ 1|CD of|IN earners—their|JJ highest|NN share|NN since|IN 1929|CD </s>|S_END
+<s>|S_START in|IN a|DT 2010|CD paper|NN michael|NN kumhof|IN and|CC romain|NN rancière|JJ two|CD economists|NNS at|IN the|DT international|JJ monetary|NN fund|NN built|NN a|DT model|NN to|TO show|VB how|WRB inequality|NN can|MD systematically|RB lead|VB to|TO crisi|VB </s>|S_END
+<s>|S_START an|DT investor|NN class|NN may|MD become|VB better|RBR at|IN capturing|VBG the|DT returns|NNS to|TO production|NN slowing|NN wage|NN growth|NN and|CC raising|VBG inequality|NN </s>|S_END
+<s>|S_START workers|NNS then|RB borrow|VB to|TO prop|VB up|RP their|PRP$ consumption|NN </s>|S_END
+<s>|S_START leverage|NN grows|VBZ until|IN crisis|NN result|NN </s>|S_END
+<s>|S_START their|PRP$ model|NN absolves|NNS politicians|NNS of|IN responsibility|NN inequality|NN works|NNS its|PRP$ mischief|NN without|IN the|DT help|NN of|IN government|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ research|NN hints|NNS at|IN other|JJ ways|NNS inequality|NN could|MD spur|VB crisi|NN </s>|S_END
+<s>|S_START in|IN a|DT new|JJ paper|NN marianne|NN bertrand|NN and|CC adair|NN morse|NN both|DT of|IN the|DT university|NN of|IN chicago|NN study|NN patterns|NNS of|IN spending|NN across|IN american|JJ states|NNS between|IN 1980|CD and|CC 2008|CD </s>|S_END
+<s>|S_START in|IN particular|JJ they|PRP focus|VBZ on|IN how|WRB changes|NNS in|IN the|DT behaviour|NN of|IN the|DT richest|JJS 20|CD of|IN households|NNS affect|VBP the|DT spending|NN choices|NNS of|IN the|DT bottom|NN 80|CD </s>|S_END
+<s>|S_START they|PRP find|VBP that|IN a|DT rise|NN in|IN the|DT level|NN of|IN consumption|NN of|IN rich|JJ households|NNS leads|NNS to|TO more|JJR spending|NN by|IN the|DT nonrich|NN </s>|S_END
+<s>|S_START this|DT “trickledown|JJ consumption”|NN appears|VBZ to|TO result|VB from|IN a|DT desire|NN to|TO keep|VB up|RP with|IN the|DT jonese|JJ </s>|S_END
+<s>|S_START nonrich|NN households|NNS spend|VBP more|JJR on|IN luxury|NN goods|NNS and|CC services|NNS supplied|VBD to|TO their|PRP$ more|JJR affluent|NN neighbours—domestic|JJ services|NNS say|VBP or|CC health|NN club|NN </s>|S_END
+<s>|S_START had|VBD the|DT incomes|NNS of|IN americas|NNS top|VBP 20|CD of|IN earners|NNS grown|VBN at|IN the|DT same|JJ more|JJR leisurely|RB pace|NN as|IN the|DT median|JJ income|NN they|PRP reckon|VBP that|IN the|DT bottom|NN 80|CD might|MD have|VB saved|VBN more|RBR over|IN the|DT past|JJ three|CD decades—|JJ $|$ 500|CD per|IN household|NN per|IN year|NN for|IN the|DT entire|JJ period|NN between|IN 1980|CD and|CC 2008|CD or|CC $|$ 800|CD per|IN year|NN just|RB before|IN the|DT crisi|NN </s>|S_END
+<s>|S_START in|IN states|NNS where|WRB the|DT highest|JJS earners|NNS were|VBD wealthiest|VBN nonrich|NN households|NNS were|VBD more|JJR likely|JJ to|TO report|VB “financial|JJ duress”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT paper|NN also|RB reveals|VBZ how|WRB responsive|JJ government|NN is|VBZ to|TO rising|VBG income|NN inequality|NN </s>|S_END
+<s>|S_START the|DT authors|NNS analyse|VBP votes|NNS on|IN the|DT creditexpansion|NN measures|VBZ cited|VBN in|IN mr|NN rajans|NNS book|NN </s>|S_END
+<s>|S_START when|WRB support|NN for|IN a|DT bill|NN varies|VBZ the|DT authors|NNS find|VBP that|IN legislators|NNS representing|VBG more|JJR unequal|JJ districts|NNS were|VBD significantly|RB more|RBR likely|JJ to|TO back|VB a|DT loosening|NN of|IN mortgage|NN rule|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START inequality|NN may|MD drive|VB instability|NN in|IN other|JJ way|NN </s>|S_END
+<s>|S_START although|IN sovereign|NN borrowing|NN was|VBD not|RB a|DT direct|JJ contributor|NN to|TO the|DT crisis|NN of|IN 2008|CD it|PRP has|VBZ since|IN become|NN the|DT principal|NN danger|NN to|TO the|DT financial|JJ system|NN </s>|S_END
+<s>|S_START in|IN another|DT recent|JJ paper|NN marina|NN azzimonti|NN of|IN the|DT federal|JJ reserve|NN bank|NN of|IN philadelphia|NN eva|NN de|IN francisco|NN of|IN towson|NN university|NN and|CC vincenzo|NN quadrini|NN of|IN the|DT university|NN of|IN southern|NN california|NN argue|NN that|IN income|NN inequality|NN may|MD have|VB had|VBN a|DT troubling|NN effect|NN in|IN this|DT area|NN of|IN finance|NN too|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT authors|NNS models|NNS suggest|VBP that|IN a|DT less|JJR equitable|JJ distribution|NN of|IN wealth|NN can|MD boost|VB demand|NN for|IN government|NN borrowing|VBG to|TO provide|VB for|IN the|DT lagging|VBG average|NN worker|NN </s>|S_END
+<s>|S_START in|IN the|DT recent|JJ past|NN this|DT demand|NN would|MD have|VB coincided|VBN with|IN a|DT period|NN of|IN financial|JJ globalisation|NN that|WDT allowed|VBD many|JJ governments|NNS to|TO rack|VB up|RP debt|NN cheaply|RB </s>|S_END
+<s>|S_START across|IN a|DT sample|NN of|IN 22|CD oecd|NN countries|NNS from|IN 1973|CD to|TO 2005|CD they|PRP find|VBP support|NN for|IN the|DT notion|NN that|IN inequality|NN financial|JJ globalisation|NN and|CC rising|VBG government|NN debt|NN do|VBP indeed|RB march|VB together|RB </s>|S_END
+<s>|S_START the|DT idea|NN that|IN inequality|NN might|MD create|VB pressure|NN for|IN more|JJR redistribution|NN through|IN public|JJ borrowing|NN also|RB occurred|VBD to|TO mr|VB rajan|JJ who|WP acknowledges|NNS that|WDT stronger|JJR safety|NN nets|NNS are|VBP a|DT more|RBR common|JJ response|NN to|TO inequality|NN than|IN credit|NN subsidie|NN </s>|S_END
+<s>|S_START liberalised|VBD global|JJ finance|NN and|CC rising|VBG inequality|NN may|MD thus|RB have|VB led|VBN to|TO surging|VB public|JJ debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START reasonable|JJ doubt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START other|JJ economists|NNS wonder|IN whether|IN income|NN inequality|NN is|VBZ not|RB wrongly|RB accused|VBN </s>|S_END
+<s>|S_START michael|NN bordo|VBP of|IN rutgers|NNS university|NN and|CC christopher|NN meissner|NN of|IN the|DT university|NN of|IN california|NN at|IN davis|NNS recently|RB studied|VBD 14|CD advanced|VBN countries|NNS from|IN 1920|CD to|TO 2008|CD to|TO test|NN the|DT inequalitycausesbusts|NNS hypothesi|VBP </s>|S_END
+<s>|S_START they|PRP turn|VBP up|RP a|DT strong|JJ relationship|NN between|IN credit|NN booms|NNS and|CC financial|JJ crises—a|NN result|NN confirmed|VBD by|IN many|JJ other|JJ economic|JJ studie|NN </s>|S_END
+<s>|S_START there|EX is|VBZ no|DT consistent|NN link|NN between|IN income|NN concentration|NN and|CC credit|NN booms|NNS however|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START inequality|NN occasionally|RB rises|VBZ with|IN credit|NN creation|NN as|IN in|IN america|NN in|IN the|DT late|JJ 1920s|CD and|CC during|IN the|DT years|NNS before|IN the|DT 2008|CD crisi|NN </s>|S_END
+<s>|S_START this|DT need|NN not|RB mean|JJ that|IN the|DT one|CD causes|NNS the|DT other|JJ they|PRP note|VBP </s>|S_END
+<s>|S_START in|IN other|JJ cases|NNS such|JJ as|IN in|IN australia|NN and|CC sweden|JJ in|IN the|DT 1980s|CD credit|NN booms|NNS seem|VBP to|TO drive|VB inequality|NN rather|RB than|IN the|DT other|JJ way|NN around|IN </s>|S_END
+<s>|S_START elsewhere|RB as|IN in|IN 1990s|CD japan|NN rapid|JJ growth|NN in|IN the|DT share|NN of|IN income|NN going|VBG to|TO the|DT highest|JJS earners|NNS coincided|VBD with|IN a|DT slump|NN in|IN credit|NN </s>|S_END
+<s>|S_START rising|VBG real|JJ incomes|NNS and|CC low|JJ interest|NN rates|NNS reliably|RB lead|VBP to|TO credit|NN booms|NNS they|PRP reckon|VBP but|CC inequality|NN does|VBZ not|RB </s>|S_END
+<s>|S_START mr|NN rajans|NNS story|NN may|MD work|VB for|IN americas|NNS 2008|CD crisi|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ not|RB an|DT iron|NN law|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ource|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “inequality|NN leverage|NN and|CC crises”|NNP by|IN michael|NN kumhof|IN and|CC romain|NN rancière|JJ imf|NN working|VBG paper|NN november|NN 2010|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “trickledown|JJ consumption”|NN by|IN marianne|NN bertrand|NN and|CC adair|NN morse|NN working|VBG paper|NN february|NN 2012|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “does|NNS inequality|NN lead|NN to|TO a|DT financial|JJ crisis”|NN by|IN michael|NN bordo|NN and|CC christopher|NN meissner|NN nber|NN working|VBG paper|NN march|NN 2012|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “financial|JJ globalization|NN inequality|NN and|CC the|DT raising|NN of|IN public|JJ debt”|JJ by|IN marina|NN azzimonti|NN eva|NN de|IN francisco|NN and|CC vincenzo|NN quadrini|NN federal|JJ reserve|NN bank|NN of|IN philadelphia|NN working|VBG paper|NN february|NN 2012|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogsfreeexchange|NN </s>|S_END
+</p>|P_END
+

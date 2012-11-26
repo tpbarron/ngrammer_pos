@@ -1,0 +1,60 @@
+<p>|P_START
+<s>|S_START thomas|NNS hobbes|VBZ famously|RB described|VBN the|DT original|JJ state|NN of|IN nature|NN as|IN bellum|NN omnium|NN contra|NN omne|NN </s>|S_END
+<s>|S_START californias|NNS governor|VBP jerry|JJ brown|NN who|WP received|VBN a|DT jesuit|NN education|NN and|CC likes|VBZ to|TO flaunt|VB his|PRP$ classical|JJ learning|NN has|VBZ of|IN late|JJ been|VBN using|VBG the|DT phrase|NN to|TO describe|VB a|DT war|NN of|IN all|DT against|IN all|DT in|IN the|DT golden|NN state|NN </s>|S_END
+<s>|S_START it|PRP may|MD be|VB his|PRP$ undoing|NN </s>|S_END
+<s>|S_START to|TO end|VB californias|NNS budget|NN crisis|NN he|PRP wants|VBZ to|TO cut|VB spending|NN and|CC raise|VB revenue|NN </s>|S_END
+<s>|S_START and|CC to|TO do|VB that|DT this|DT being|VBG california|NN he|PRP must|MD collect|VB approximately|RB 800000|CD signatures|NNS to|TO put|VB a|DT measure|NN before|IN voters|NNS on|IN polling|VBG day|NN in|IN november|NN </s>|S_END
+<s>|S_START it|PRP now|RB seems|VBZ however|RB that|IN at|IN least|JJS one|CD other|JJ tax|NN proposal|NN will|MD also|RB share|VB the|DT ballot|NN that|IN day|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START under|IN californias|NNS rules|NNS if|IN more|JJR than|IN one|CD measure|NN on|IN the|DT same|JJ topic|JJ is|VBZ approved|VBN at|IN the|DT ballot|NN the|DT one|CD with|IN the|DT largest|JJS number|NN of|IN votes|NNS prevail|VBP </s>|S_END
+<s>|S_START it|PRP generally|RB happens|VBZ in|IN such|JJ situations|NNS though|IN that|DT voters|NNS get|VBP confused|VBN and|CC instinctively|RB reject|VB all|DT the|DT measure|NN </s>|S_END
+<s>|S_START this|DT is|VBZ why|WRB mr|NN brown|NN and|CC his|PRP$ wife|NN anne|NN gust|NN brown|NN often|RB described|VBN as|IN his|PRP$ consigliere|NN have|VBP been|VBN working|VBG desperately|RB to|TO keep|VB all|PDT rival|NN measures|NNS off|IN the|DT ballot|NN </s>|S_END
+<s>|S_START for|IN instance|NN and|CC regrettably|RB they|PRP persuaded|VBD a|DT group|NN proposing|VBG fundamental|JJ tax|NN reform|NN of|IN the|DT sort|NN that|IN california|NN and|CC america|NN badly|RB need|VBP to|TO end|VB its|PRP$ campaign|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT victory|NN was|VBD supposed|VBN to|TO clear|VB the|DT path|NN for|IN mr|NN browns|NNS own|JJ plan|NN </s>|S_END
+<s>|S_START this|DT aimed|VBN to|TO slightly|RB raise|VB sales|NNS taxes|NNS for|IN four|CD years|NNS and|CC income|NN taxes|NNS on|IN the|DT affluent|NN for|IN a|DT period|NN of|IN five|CD year|NN </s>|S_END
+<s>|S_START the|DT additional|JJ revenue—|NN $|$ 7|CD billion|CD a|DT year|NN on|IN an|DT optimistic|JJ calculation—would|JJ repair|NN the|DT overall|JJ budget|NN and|CC benefit|NN schools|NNS in|IN particular|JJ </s>|S_END
+<s>|S_START by|IN sprinkling|NN but|CC not|RB soaking|VBG the|DT rich|JJ and|CC by|IN cutting|NN spending|NN as|IN well|RB as|IN raising|VBG taxes|NNS mr|NN brown|NN a|DT democrat|NN was|VBD hoping|VBG to|TO appear|VB moderate|JJ and|CC to|TO win|VB approval|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START then|RB the|DT war|NN began|VBD </s>|S_END
+<s>|S_START it|PRP is|VBZ a|DT civil|JJ war|NN since|IN the|DT foes|NNS are|VBP liberals|NNS on|IN mr|NN browns|NNS own|JJ side|NN </s>|S_END
+<s>|S_START one|CD group|NN the|DT california|NN federation|NN of|IN teachers|NNS the|DT states|NNS secondlargest|VBP teachers|NNS union|NN pushed|VBD a|DT “millionaires|JJ tax”|NN </s>|S_END
+<s>|S_START taking|VBG its|PRP$ cues|NNS from|IN the|DT occupy|NN movement|NN it|PRP was|VBD aimed|VBN squarely|RB at|IN the|DT rich|JJ </s>|S_END
+<s>|S_START and|CC unlike|IN mr|NN browns|NNS measure|NN this|DT one|CD would|MD raise|VB their|PRP$ taxes|NNS permanently|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT other|JJ campaign|NN is|VBZ more|RBR of|IN a|DT onewoman|NN quest|NN </s>|S_END
+<s>|S_START molly|RB munger|JJR is|VBZ a|DT rich|JJ civilrights|NNS lawyer|NN who|WP as|IN a|DT child|NN chose|NN to|TO leave|VB her|PRP$ private|JJ school|NN for|IN a|DT state|NN one|CD and|CC now|RB considers|VBZ it|PRP her|PRP$ mission|NN to|TO save|VB public|JJ education|NN </s>|S_END
+<s>|S_START he|PRP also|RB happens|VBZ to|TO be|VB the|DT daughter|NN of|IN warren|NNS buffetts|NNS partner|VBP at|IN berkshire|NN hathaway|NN charles|NNS munger|JJR </s>|S_END
+<s>|S_START and|CC she|PRP seems|VBZ willing|JJ to|TO spend|VB however|RB much|RB it|PRP takes|VBZ to|TO win|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ms|NNS mungers|NNS measure|VBP “our|JJ children|NNS our|PRP$ future”|JJ would|MD raise|VB the|DT most|JJS $|$ 10|CD billion|CD a|DT year|NN for|IN 12|CD year|NN </s>|S_END
+<s>|S_START it|PRP would|MD raise|VB income|NN taxes|NNS but|CC target|NN not|RB only|RB the|DT rich|JJ </s>|S_END
+<s>|S_START and|CC it|PRP would|MD earmark|VB most|RBS of|IN the|DT new|JJ revenue|NN for|IN school|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN march|NN 14th|CD mr|NN brown|NN apparently|RB reached|VBD a|DT deal|NN with|IN the|DT millionaires|NNS tax|NN camp|NN </s>|S_END
+<s>|S_START their|PRP$ new|JJ agreed|NN proposal|NN lessens|VBZ mr|NN browns|NNS proposed|VBD sales|NNS tax|NN increase|NN a|DT bit|NN but|CC raises|VBZ income|NN taxes|NNS on|IN the|DT affluent|NN more|JJR than|IN he|PRP wanted|VBD </s>|S_END
+<s>|S_START but|CC that|DT still|RB leaves|VBZ two|CD proposals|NNS on|IN the|DT table|NN </s>|S_END
+<s>|S_START the|DT teachers|NNS unions|NNS may|MD now|RB be|VB on|IN mr|NN browns|NNS side|VBP but|CC parents|NNS of|IN schoolchildren|NN insofar|NN as|IN they|PRP are|VBP organised|VBN by|IN the|DT powerful|JJ parentteacher|NN association|NN are|VBP with|IN ms|NNS munger|JJR </s>|S_END
+<s>|S_START voters|NNS seem|VBP bewildered|VBN with|IN different|JJ polls|NNS showing|VBG them|PRP favouring|VBG different|JJ permutations|NNS of|IN the|DT proposals|NNS on|IN offer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ exactly|RB what|WP mr|NN brown|IN keeps|NNS warning|VBG about|IN </s>|S_END
+<s>|S_START his|PRP$ wife|NN supposedly|RB berated|VBN ms|NNS munger|JJR </s>|S_END
+<s>|S_START mr|NN brown|VBN though|IN was|VBD more|JJR diplomatic|JJ visiting|NN the|DT rival|NN teachers|NNS union|NN boss|NNS at|IN home|NN and|CC even|RB letting|VBG his|PRP$ daughter|NN interview|NN him|PRP about|IN animal|JJ euthanasia|NN as|IN part|NN of|IN her|PRP$ homework|NN </s>|S_END
+<s>|S_START but|CC the|DT other|JJ group|NN of|IN taxers|NNS are|VBP staying|VBG in|IN the|DT fight|NN while|IN the|DT antitax|NN republicans|NNS are|VBP grinning|VBG </s>|S_END
+<s>|S_START as|IN a|DT brown|NN adviser|NN puts|NNS it|PRP speaking|VBG of|IN fellow|JJ democrats|NNS “welcome|JJ to|TO the|DT circular|JJ firing|NN squad”|NN </s>|S_END
+</p>|P_END
+

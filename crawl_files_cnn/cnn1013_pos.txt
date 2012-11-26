@@ -1,0 +1,79 @@
+<p>|P_START
+<s>|S_START economists|NNS are|VBP predicting|VBG more|JJR sluggish|JJ job|NN growth|NN ahead|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN only|RB two|CD monthly|JJ jobs|NNS reports|NNS remain|VBP before|IN the|DT presidential|JJ election|NN but|CC dont|NN expect|VBP either|DT of|IN them|PRP to|TO swing|VB undecided|VBN voters|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS because|IN in|IN all|DT likelihood|NN both|DT reports|NNS will|MD show|VB more|RBR sluggish|JJ job|NN growth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economists|NNS surveyed|VBN by|IN cnnmoney|NN predict|NN the|DT september|NN jobs|NNS report|NN released|VBD friday|NN will|MD indicate|VB that|IN employers|NNS added|VBD 110000|CD jobs|NNS during|IN the|DT month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS a|DT slight|NN improvement|NN over|IN 96000|CD jobs|NNS created|VBN in|IN august|JJ but|CC over|IN the|DT longer|NN term|NN its|PRP$ not|RB worth|JJ celebrating|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START over|IN the|DT past|JJ two|CD years|NNS the|DT economy|NN added|VBD an|DT average|JJ of|IN 140000|CD jobs|NNS each|DT month|NN </s>|S_END
+<s>|S_START hiring|VBG at|IN that|DT level|NN is|VBZ barely|RB enough|RB to|TO keep|VB pace|NN with|IN population|NN growth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unless|IN jobs|NNS suddenly|RB spike|VBP above|IN 200000|CD or|CC hiring|VBG comes|NNS to|TO a|DT near|NN standstill|NN voters|NNS arent|NN going|VBG to|TO bat|VB an|DT eyelid|JJ said|NN dan|NN hamilton|NN director|NN of|IN economics|NNS at|IN california|NN lutheran|NN universitys|NNS forecast|VBP center|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START not|RB much|JJ has|VBZ changed|VBN lately|RB and|CC thats|NNS why|WRB economists|NNS expect|VBP the|DT unemployment|NN rate|NN to|TO remain|VB at|IN 81|CD in|IN september|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bottom|NN line|NN is|VBZ the|DT labor|NN picture|NN hasnt|NN materially|RB changed|VBN in|IN september|NN said|VBD wells|NNS fargo|IN economist|NN sam|NN bullard|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START check|NN the|DT unemployment|NN rate|NN in|IN your|PRP$ state|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START consumer|NN confidence|NN rose|VBD during|IN the|DT month|NN but|CC thats|NNS just|RB an|DT indication|NN of|IN how|WRB consumers|NNS are|VBP feeling|VBG </s>|S_END
+<s>|S_START separate|JJ reports|NNS show|VBP more|JJR americans|NNS applied|VBD for|IN their|PRP$ first|JJ week|NN of|IN unemployment|NN benefits|NNS in|IN mid|JJ september|NN than|IN in|IN mid|JJ august|NN a|DT discouraging|NN sign|NN for|IN job|NN growth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB the|DT same|JJ issues|NNS that|WDT held|VBD businesses|NNS back|RB in|IN august|JJ still|RB kept|VBD from|IN hiring|VBG in|IN september|NN </s>|S_END
+<s>|S_START business|NN owners|NNS are|VBP still|RB uncertain|JJ what|WP their|PRP$ tax|NN rates|NNS will|MD be|VB in|IN 2013|CD </s>|S_END
+<s>|S_START worries|NNS about|IN the|DT fiscal|JJ cliff|NN remain|NN on|IN the|DT table|NN and|CC the|DT election|NN could|MD change|VB leadership|NN in|IN congress|NN as|IN well|RB as|IN the|DT white|JJ house|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START layoffs|NNS remain|VBP very|RB low|JJ but|CC nervous|JJ businesses|NNS remain|VBP equally|RB reluctant|JJ to|TO hire|VB more|JJR said|VBD mark|NN zandi|NN chief|NN economist|NN at|IN moodys|NNS analytics|NNS </s>|S_END
+<s>|S_START the|DT looming|NN fiscal|JJ issues|NNS appear|VBP to|TO be|VB weighing|VBG on|IN business|NN expansion|NN plans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START zandi|NN is|VBZ slightly|RB more|RBR optimistic|JJ than|IN other|JJ economists|NNS surveyed|VBN by|IN cnnmoney|NN predicting|VBG employers|NNS added|VBD 130000|CD jobs|NNS in|IN september|NN </s>|S_END
+<s>|S_START even|RB so|RB thats|NNS unlikely|RB to|TO impact|VB the|DT election|NN he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT report|NN is|VBZ close|JJ to|TO my|PRP$ expectations|NNS then|RB it|PRP should|MD not|RB have|VB a|DT meaningful|JJ impact|NN on|IN the|DT election|NN he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD obama|NN may|MD be|VB a|DT job|NN creator|NN after|IN all|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START following|VBG fridays|NNS jobs|NNS report|NN president|NN obama|NN will|MD probably|RB continue|VB to|TO say|VB the|DT private|JJ sector|NN has|VBZ been|VBN adding|VBG jobs|NNS for|IN twoandahalf|NN years|NNS </s>|S_END
+<s>|S_START mitt|NN romney|NN is|VBZ likely|JJ to|TO point|NN out|RP that|IN more|JJR than|IN 20|CD million|CD americans|NNS remain|IN either|DT unemployed|VBN or|CC underemployed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT will|MD be|VB right|RB </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,83 @@
+<p>|P_START
+<s>|S_START xandem|NN founder|NN joey|NN wilson|NN shows|VBZ off|RP the|DT companys|NNS motiondetecting|VBG sensor|NN nodes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnnmoney|NN imagine|NN a|DT reallife|NN version|NN of|IN harry|NN potters|NNS magical|JJ marauders|NNS map|VBP which|WDT showed|VBN the|DT location|NN of|IN everyone|NN prowling|VBG throughout|IN hogwarts|NNS castle|VBP </s>|S_END
+<s>|S_START thats|NNS what|WP startup|NN xandem|VBP is|VBZ building|VBG a|DT new|JJ kind|NN of|IN allseeing|NN motiondetection|NN system|NN thats|NNS poised|VBD to|TO shake|VB up|RP the|DT security|NN market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP many|JJ different|JJ ways|NNS to|TO track|VB motion|NN but|CC most|JJS commercial|JJ systems|NNS rely|RB on|IN optical|JJ beams|NNS that|WDT require|NN uninterrupted|VBD sight|NN lines|NNS </s>|S_END
+<s>|S_START heatsensing|VBG infrared|VBN systems|NNS dont|VBP have|VBP that|IN weakness|NN but|CC theyre|NN prone|NN to|TO false|VB alarms|NNS and|CC can|MD be|VB blocked|VBN by|IN anything|NN that|IN insulates|NNS body|VBP heat|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START xandems|NNS secret|VBP sauce|NN is|VBZ its|PRP$ use|NN of|IN radio|NN waves|NNS which|WDT can|MD go|VB through|IN things|NNS like|IN trees|NNS and|CC walls|NNS </s>|S_END
+<s>|S_START that|DT means|VBZ motion|NN sensors|NNS using|VBG those|DT waves|NNS can|MD be|VB completely|RB hidden|VBN a|DT breakthrough|JJ thats|NNS drawing|VBG notice|NN from|IN both|DT scientists|NNS and|CC security|NN industry|NN professionals|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT salt|NN lake|NN citybased|VBD company|NN was|VBD hatched|VBN four|CD years|NNS ago|RB at|IN the|DT university|NN of|IN utah|NN when|WRB electrical|JJ engineering|NN doctoral|JJ student|NN joey|NN wilson|NN spied|VBD some|DT cuttingedge|NN radio|NN wave|NN research|NN from|IN his|PRP$ advisor|NN neal|NN patwari|NN </s>|S_END
+<s>|S_START wilson|NN who|WP has|VBZ a|DT background|NN in|IN wireless|NN communications|NNS and|CC signal|VB processing|NN offered|VBN to|TO team|VB up|RP with|IN patwari|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP thought|VBD if|IN i|PRP dont|VBP jump|VB on|IN this|DT now|RB im|VBP going|VBG to|TO miss|NNS a|DT great|JJ opportunity|NN wilson|NN recalls|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT pair|NN envisioned|VBD a|DT system|NN that|WDT would|MD make|VB it|PRP possible|JJ to|TO see|VB through|IN walls|NNS and|CC detect|VB people|NNS wherever|RB they|PRP were|VBD in|IN a|DT building|NN </s>|S_END
+<s>|S_START within|IN a|DT few|JJ months|NNS they|PRP had|VBD a|DT working|VBG prototype|NN of|IN a|DT node|NN which|WDT works|NNS in|IN tandem|NN with|IN other|JJ nodes|NNS to|TO create|VB a|DT field|NN of|IN radio|NN waves|NNS </s>|S_END
+<s>|S_START disturbing|VBG those|DT waves|NNS triggers|NNS the|DT sensors|NNS detectors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START wilson|NN and|CC patwari|NN won|VBD the|DT university|NN of|IN utahs|NNS 2010|CD business|NN plan|NN competition|NN then|RB raised|VBD $|$ 110000|CD from|IN friends|NNS and|CC family|NN to|TO start|VB xandem|NN </s>|S_END
+<s>|S_START they|PRP also|RB picked|VBD up|RP a|DT utah|NN innovation|NN award|NN and|CC a|DT $|$ 40000|CD grant|NN from|IN a|DT state|NN technology|NN development|NN fund|NN </s>|S_END
+<s>|S_START but|CC by|IN last|JJ fall|NN wilson|NN and|CC patwari|NN were|VBD largely|RB out|IN of|IN money|NN until|IN ryan|NN smith|IN an|DT angel|NN investor|NN in|IN salt|NN lake|NN city|NN swooped|VBD in|IN with|IN a|DT $|$ 250000|CD investment|NN in|IN the|DT company|NN </s>|S_END
+<s>|S_START a|DT few|JJ weeks|NNS later|JJ the|DT company|NN which|WDT now|RB has|VBZ a|DT staff|NN of|IN six|CD scored|VBN a|DT $|$ 150000|CD sbir|NN grant|NN from|IN the|DT national|JJ science|NN foundation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START xandems|NNS first|RB product|NN which|WDT went|VBD on|IN sale|NN in|IN april|NN 2011|CD to|TO early|JJ test|NN customers|NNS is|VBZ a|DT wireless|NN motion|NN detection|NN system|NN employing|VBG 1x|CD 3inch|CD rectangular|JJ nodes|NNS that|WDT resemble|JJ ipod|NN nanos|NNS only|RB thicker|JJR </s>|S_END
+<s>|S_START the|DT tiny|NN nodes|VBZ which|WDT run|VBN off|RP battery|NN power|NN or|CC wall|VBP outlets|NNS can|MD be|VB completely|RB hidden|VBN wouldbe|NN criminals|NNS cant|VBP disable|JJ what|WP they|PRP cant|VBP find|VBP </s>|S_END
+<s>|S_START a|DT massmarket|NN version|NN of|IN the|DT system|NN is|VBZ slated|VBN for|IN release|NN this|DT summer|NN with|IN prices|NNS ranging|VBG from|IN $|$ 600|CD $|$ 2200|CD depending|VBG on|IN the|DT size|NN of|IN the|DT deployment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START our|PRP$ target|NN is|VBZ the|DT commercial|JJ security|NN market|NN and|CC thats|NNS worth|IN billions|NNS says|VBZ wilson|NN </s>|S_END
+<s>|S_START but|CC being|VBG able|JJ to|TO see|VB where|WRB people|NNS are|VBP located|VBN in|IN a|DT building|NN will|MD be|VB valuable|JJ to|TO other|JJ markets|NNS too|RB like|IN firefighters|NNS police|NNS border|VBP agents|NNS and|CC swat|VB teams|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT brahma|NN group|NN a|DT construction|NN firm|NN in|IN salt|NN lake|NN city|NN recently|RB began|VBD using|VBG the|DT xandem|NN system|NN to|TO protect|VB one|CD of|IN its|PRP$ equipment|NN storage|NN warehouses|NNS after|IN two|CD pricey|NN orbital|NN welders|NNS were|VBD stolen|VBN 18|CD months|NNS ago|RB </s>|S_END
+<s>|S_START the|DT xandem|NN system|NN linked|VBD to|TO the|DT warehouses|NNS alarm|NN system|NN is|VBZ well|RB hidden|VBN with|IN some|DT of|IN the|DT nodes|NNS embedded|VBD in|IN objects|NNS like|IN steel|NN beams|NNS or|CC located|VBN behind|IN pieces|NNS of|IN equipment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN long|RB as|IN the|DT movement|NN is|VBZ within|IN the|DT network|NN of|IN nodes|NNS itll|VBP pick|NN it|PRP up|IN </s>|S_END
+<s>|S_START its|PRP$ not|RB dependent|JJ on|IN a|DT direct|JJ line|NN of|IN sight|NN says|VBZ tony|NN archibald|NN brahmas|NNS operations|NNS manager|NN </s>|S_END
+<s>|S_START were|VBD considering|VBG deploying|NN it|PRP in|IN our|PRP$ other|JJ warehouses|NNS too|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START carey|NN rappaport|NN associate|NN director|NN of|IN the|DT bernard|NN m|NN gordon|NN center|NN for|IN subsurface|NN sensing|VBG and|CC imaging|VBG systems|NNS and|CC a|DT professor|NN of|IN electrical|JJ and|CC computer|NN engineering|NN at|IN northeastern|NN university|NN sees|NNS xandems|NNS lineofsight|VBP flexibility|NN as|IN one|CD of|IN its|PRP$ key|JJ advantages|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START you|PRP can|MD plug|VB a|DT node|NN into|IN an|DT outlet|JJ behind|NN your|PRP$ couch|NN and|CC still|RB know|VB if|IN someone|NN comes|VBZ into|IN the|DT room|NN he|PRP says|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START xandems|NNS systems|NNS are|VBP also|RB starting|VBG to|TO pop|VB up|RP in|IN highend|NN homes|NNS like|IN the|DT oceanfront|NN penthouse|NN entrepreneur|NN philip|NN charles|NNS gamett|VBP is|VBZ having|VBG designed|VBN in|IN dubai|NN </s>|S_END
+<s>|S_START there|EX its|PRP$ being|NN used|VBN for|IN ambiance|NN not|RB security|NN plugged|VBD into|IN a|DT home|NN automation|NN system|NN the|DT sensors|NNS can|MD trigger|VB responses|NNS to|TO cues|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP could|MD be|VB the|DT music|JJ lighting|NN air|NN conditioning|VBG even|RB how|WRB the|DT blinds|NNS are|VBP adjusted|VBN says|NNS nathan|IN williams|NNS of|IN redwood|NN technical|JJ services|NNS the|DT firm|NN that|WDT is|VBZ handling|VBG the|DT installation|NN </s>|S_END
+<s>|S_START our|PRP$ client|NN wanted|VBD to|TO be|VB able|JJ to|TO detect|VB if|IN someone|NN was|VBD in|IN a|DT room|NN but|CC without|IN having|VBG that|IN person|NN do|VBP anything|NN like|IN press|NN a|DT button|NN </s>|S_END
+<s>|S_START xandem|NN was|VBD the|DT only|JJ system|NN i|PRP could|MD find|VB that|IN was|VBD completely|RB invisible|JJ </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

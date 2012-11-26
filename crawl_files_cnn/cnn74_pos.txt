@@ -1,0 +1,62 @@
+<p>|P_START
+<s>|S_START investors|NNS are|VBP driven|VBN by|IN two|CD emotions|NNS fear|JJ and|CC greed|NN </s>|S_END
+<s>|S_START too|RB much|JJ fear|NN can|MD sink|VB stocks|NNS well|RB below|IN where|WRB they|PRP should|MD be|VB </s>|S_END
+<s>|S_START when|WRB investors|NNS get|VBP greedy|JJ they|PRP can|MD bid|VB up|RP stock|NN prices|NNS way|NN too|RB far|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN what|WP emotion|NN is|VBZ driving|VBG the|DT market|NN now|RB </s>|S_END
+<s>|S_START cnnmoneys|NNS fear|VBP greed|VBN index|NN makes|VBZ it|PRP clear|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP look|VBP at|IN 7|CD indicators|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START •stock|NN price|NN momentum|NN the|DT sp|NN 500|CD spx|NN versus|NN its|PRP$ 125day|JJ moving|NN average|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START •stock|NN price|NN strength|NN the|DT number|NN of|IN stocks|NNS hitting|VBG 52week|CD highs|NNS and|CC lows|VBZ on|IN the|DT new|JJ york|NN stock|NN exchange|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START •stock|NN price|NN breadth|NN the|DT volume|NN of|IN shares|NNS trading|NN in|IN stocks|NNS on|IN the|DT rise|NN versus|VBZ those|DT declining|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START •put|NN and|CC call|NN options|NNS the|DT putcall|NN ratio|NN which|WDT compares|VBZ the|DT trading|NN volume|NN of|IN bullish|JJ call|NN options|NNS relative|JJ to|TO the|DT trading|NN volume|NN of|IN bearish|JJ put|NN options|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START •junk|NN bond|NN demand|NN the|DT spread|NN between|IN yields|NNS on|IN investment|NN grade|NN bonds|NNS and|CC junk|NN bonds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START •market|NN volatility|NN the|DT vix|NN vix|NN which|WDT measures|NNS volatility|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START •safe|JJ haven|VBN demand|NN the|DT difference|NN in|IN returns|NNS for|IN stocks|NNS versus|CC treasuries|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN each|DT indicator|NN we|PRP look|VBP at|IN how|WRB far|RB theyve|VBP veered|VBN from|IN their|PRP$ average|NN relative|JJ to|TO how|WRB far|RB they|PRP normally|RB veer|RBR </s>|S_END
+<s>|S_START we|PRP look|VBP at|IN each|DT on|IN a|DT scale|NN from|IN 0|-NONE- 100|CD </s>|S_END
+<s>|S_START the|DT higher|JJR the|DT reading|NN the|DT greedier|NN investors|NNS are|VBP being|VBG and|CC 50|CD is|VBZ neutral|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START then|RB we|PRP put|VBD all|PDT the|DT indicators|NNS together|RB equally|RB weighted|VBN for|IN a|DT final|JJ index|NN reading|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB the|DT sp|NN 500|CD spx|NN plummeted|VBD to|TO a|DT threeyear|NN low|JJ on|IN sept|JJ 17|CD 2008|CD the|DT height|NN of|IN the|DT financial|JJ crisis|NN the|DT fear|NN and|CC greed|NN index|NN sank|NN to|TO 12|CD </s>|S_END
+<s>|S_START the|DT index|NN gained|VBD some|DT ground|NN to|TO 28|CD before|IN stocks|NNS finally|RB bottomed|VBN out|RP on|IN march|NN 9|CD 2009|CD and|CC the|DT latest|JJS bull|NN market|NN began|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS recently|RB in|IN the|DT first|JJ quarter|NN of|IN 2012|CD stocks|NNS staged|VBD their|PRP$ best|JJS run|VBN in|IN decades|NNS and|CC the|DT index|NN showed|VBD pure|NN greed|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,109 @@
+<p>|P_START
+<s>|S_START president|NN barack|VBD obama|NN and|CC challenger|NN mitt|NN romney|NN have|VBP different|JJ ideas|NNS for|IN helping|VBG the|DT poor|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN one|CD wants|NNS to|TO strengthen|VB the|DT nations|NNS existing|VBG safety|NN net|NN </s>|S_END
+<s>|S_START the|DT other|JJ wants|NNS to|TO overhaul|VB it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START president|NN obama|VBD and|CC challenger|NN mitt|NN romney|NN have|VBP vastly|RB different|JJ views|NNS on|IN how|WRB to|TO help|VB the|DT 462|CD million|CD americans|NNS in|IN poverty|NN and|CC the|DT more|RBR than|IN 30|CD million|CD people|NNS who|WP are|VBP near|IN poor|JJ </s>|S_END
+<s>|S_START the|DT president|NN leans|VBZ toward|IN expanding|VBG the|DT programs|NNS that|WDT exist|VBP while|IN the|DT republicans|NNS say|VBP they|PRP will|MD set|VB up|RP a|DT system|NN that|WDT fosters|NNS economic|VBP opportunity|NN instead|RB of|IN government|NN dependency|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ranks|NNS of|IN the|DT poor|JJ and|CC the|DT government|NN programs|NNS that|WDT assist|NN them|PRP swelled|VBD during|IN the|DT obama|NN administration|NN largely|RB because|IN of|IN the|DT great|JJ recession|NN </s>|S_END
+<s>|S_START the|DT number|NN of|IN people|NNS in|IN poverty|NN jumped|VBD 16|CD between|IN 2008|CD and|CC 2011|CD while|IN the|DT medicaid|NN rolls|NNS jumped|VBD 235|CD over|IN that|DT time|NN </s>|S_END
+<s>|S_START food|NN stamp|NN enrollment|NN soared|VBD 46|CD during|IN his|PRP$ term|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START just|RB who|WP is|VBZ elected|VBN president|NN matters|NNS a|DT great|JJ deal|NN for|IN the|DT poor|JJ </s>|S_END
+<s>|S_START in|IN the|DT weeks|NNS following|VBG election|NN day|NN the|DT president|NN and|CC lawmakers|NNS will|MD have|VB to|TO deal|VB with|IN large|JJ acrosstheboard|NN cuts|NNS in|IN domestic|JJ spending|NN scheduled|VBN to|TO take|VB effect|NN in|IN january|JJ </s>|S_END
+<s>|S_START while|IN certain|JJ programs|NNS for|IN the|DT poor|JJ such|JJ as|IN food|NN stamps|NNS and|CC medicaid|VBD would|MD be|VB protected|VBN other|JJ initiatives|NNS including|VBG head|NN start|NN and|CC housing|VBG assistance|NN could|MD be|VB slashed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lawmakers|NNS however|RB will|MD likely|RB try|VB to|TO hammer|VB out|RP a|DT deal|NN that|WDT will|MD avoid|VB the|DT automatic|JJ cuts|NNS but|CC could|MD still|RB curtail|VB federal|JJ spending|NN </s>|S_END
+<s>|S_START if|IN this|DT happens|NNS the|DT extent|NN of|IN cuts|NNS to|TO antipoverty|NN programs|NNS could|MD depend|VB on|IN which|WDT party|NN is|VBZ in|IN the|DT white|JJ house|NN said|VBD ron|NN haskins|NNS a|DT senior|JJ fellow|NN at|IN brookings|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START obamas|NNS track|VBP record|NN includes|VBZ increased|VBN federal|JJ spending|NN to|TO bolster|VB the|DT poor|JJ particularly|RB in|IN the|DT 2009|CD recovery|NN act|NN </s>|S_END
+<s>|S_START romney|NN and|CC his|PRP$ running|NN mate|NN paul|NN ryan|NN are|VBP calling|VBG for|IN reduced|VBN federal|JJ spending|NN on|IN poverty|NN programs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT administration|NN is|VBZ willing|JJ to|TO spend|VB more|JJR money|NN than|IN the|DT republicans|NNS haskins|VBZ said|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START heres|NNS how|WRB the|DT two|CD sides|NNS are|VBP addressing|VBG poverty|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START obama|NN the|DT president|NN points|NNS to|TO his|PRP$ record|NN of|IN helping|VBG the|DT poor|JJ weather|NN the|DT economic|JJ downturn|NN </s>|S_END
+<s>|S_START his|PRP$ $|$ 787|CD billion|CD stimulus|NN program|NN included|VBD several|JJ expansions|NNS to|TO existing|VBG antipoverty|NN programs|NNS including|VBG the|DT earned|JJ income|NN tax|NN credit|NN food|NN stamps|NNS and|CC the|DT child|NN tax|NN credit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT provisions|NNS along|IN with|IN expanded|VBN unemployment|NN benefits|NNS and|CC the|DT making|VBG work|NN pay|NN tax|NN credit|NN kept|VBD 69|CD million|CD people|NNS above|IN the|DT poverty|NN line|NN in|IN 2010|CD and|CC lessened|VBD poverty|NN for|IN 32|CD million|CD more|JJR according|VBG to|TO a|DT post|NN on|IN obamas|NNS campaign|NN website|NN citing|VBG data|NNS compiled|VBD by|IN the|DT leftleaning|VBG center|NN on|IN budget|NN and|CC policy|NN priorities|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD americas|NNS near|IN poor|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START also|RB his|PRP$ affordable|JJ care|NN act|NN increases|NNS medicaid|VBD coverage|NN to|TO all|DT adults|NNS with|IN incomes|NNS up|IN to|TO 133|CD of|IN the|DT poverty|NN line|NN which|WDT could|MD add|VB nearly|RB 16|CD million|CD more|JJR people|NNS to|TO the|DT rolls|NNS by|IN 2019|CD than|IN otherwise|NN would|MD have|VB been|VBN eligible|JJ </s>|S_END
+<s>|S_START the|DT federal|JJ government|NN would|MD pay|VB 100|CD of|IN the|DT cost|NN of|IN the|DT expanded|VBN coverage|NN initially|RB eventually|RB phasing|VBG down|IN to|TO 90|CD </s>|S_END
+<s>|S_START a|DT supreme|NN court|NN ruling|NN allowed|VBD states|NNS to|TO decide|VB whether|IN to|TO opt|VB into|IN the|DT expansion|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START obama|NN also|RB says|VBZ he|PRP expanded|VBD the|DT head|NN start|NN initiative|NN so|RB it|PRP would|MD reach|VB an|DT additional|JJ 64000|CD children|NNS </s>|S_END
+<s>|S_START and|CC he|PRP doubled|VBD funding|VBG for|IN pell|NN grants|NNS for|IN lowincome|NN college|NN students|NNS and|CC raised|VBN the|DT maximum|NN award|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT president|NN has|VBZ been|VBN repeatedly|RB attacked|VBN by|IN conservatives|NNS for|IN hiking|VBG government|NN spending|NN on|IN the|DT poor|JJ with|IN onetime|JJ gop|NN presidential|JJ candidate|NN newt|NN gingrich|NN labeling|VBG him|PRP the|DT food|NN stamp|NN president|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romney|NN republicans|NNS on|IN the|DT other|JJ hand|NN say|VBP that|IN throwing|VBG money|NN at|IN the|DT safety|NN net|NN fosters|NNS government|NN dependency|NN </s>|S_END
+<s>|S_START instead|RB romney|NN and|CC ryan|NN believe|VBP that|IN economic|JJ growth|NN fosters|NNS upward|IN mobility|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START you|PRP should|MD have|VB the|DT opportunity|NN in|IN america|NN to|TO rise|VB to|TO escape|VB from|IN poverty|NN and|CC to|TO achieve|VB whatever|NN your|PRP$ godgiven|NN talents|NNS and|CC hard|JJ work|NN enable|JJ you|PRP to|TO achieve|VB ryan|JJ said|NN in|IN a|DT recent|JJ speech|NN in|IN ohio|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD of|IN the|DT key|JJ components|NNS of|IN the|DT romneyryan|NN plan|NN is|VBZ turning|VBG medicaid|VBN and|CC food|NN stamps|NNS into|IN block|NN grants|NNS that|WDT the|DT states|NNS would|MD administer|VB </s>|S_END
+<s>|S_START this|DT would|MD limit|VB the|DT federal|JJ governments|NNS liability|NN while|IN giving|VBG states|NNS more|JJR freedom|NN to|TO tailor|VB the|DT program|NN to|TO their|PRP$ residents|NNS needs|VBZ </s>|S_END
+<s>|S_START romney|NN also|RB believes|VBZ medicaid|VBN spending|NN should|MD be|VB capped|VBN and|CC increased|VBN each|DT year|NN by|IN inflation|NN plus|CC 1|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START turning|VBG medicaid|VBD as|IN well|RB as|IN worker|NN retraining|VBG programs|NNS into|IN block|NN grants|NNS could|MD save|VB more|RBR than|IN $|$ 100|CD billion|CD according|VBG to|TO romney|NN </s>|S_END
+<s>|S_START his|PRP$ plan|NN to|TO cap|VB total|JJ federal|JJ spending|NN at|IN 20|CD of|IN gross|JJ domestic|JJ product|NN would|MD also|RB cut|VB funding|NN for|IN safety|NN net|JJ programs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START critics|NNS however|RB say|VBP millions|NNS will|MD see|VB their|PRP$ lifelines|NNS disappear|VBP under|IN romneys|NNS budget|NN proposal|NN </s>|S_END
+<s>|S_START and|CC if|IN medicaid|JJ is|VBZ turned|VBN into|IN a|DT block|NN grant|NN as|IN outlined|VBN in|IN the|DT ryan|NN budget|NN 34|CD of|IN its|PRP$ funding|NN would|MD be|VB slashed|VBN by|IN 2022|CD according|VBG to|TO the|DT center|NN on|IN budget|NN and|CC policy|NN priorities|NNS </s>|S_END
+<s>|S_START food|NN stamps|NNS meanwhile|RB would|MD be|VB cut|VBN by|IN more|RBR than|IN 17|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romney|NN has|VBZ run|VBN into|IN trouble|NN on|IN the|DT campaign|NN trail|NN when|WRB discussing|VBG the|DT poor|JJ </s>|S_END
+<s>|S_START in|IN september|NN a|DT videotape|NN showed|VBD the|DT candidate|NN making|VBG derisive|JJ remarks|NNS about|IN the|DT 47|CD of|IN americans|NNS who|WP dont|NN pay|VBP taxes|NNS and|CC feel|NN entitled|VBD to|TO health|NN care|NN food|NN and|CC housing|NN </s>|S_END
+<s>|S_START he|PRP said|VBD he|PRP can|MD never|RB convince|VB them|PRP to|TO take|VB personal|JJ responsibility|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC in|IN february|JJ romney|NN told|VBD cnn|NN that|IN hes|NNS not|RB concerned|VBN about|IN the|DT very|JJ poor|NN because|IN they|PRP have|VBP a|DT very|RB ample|JJ safety|NN net|NN </s>|S_END
+<s>|S_START he|PRP did|VBD say|VB that|IN if|IN the|DT safety|NN net|NN needs|VBZ repairs|NNS hell|VBP fix|NN it|PRP </s>|S_END
+</p>|P_END
+

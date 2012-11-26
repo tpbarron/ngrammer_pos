@@ -1,0 +1,129 @@
+<p>|P_START
+<s>|S_START pity|NN the|DT british|JJ bankers’|NN association|NN bba|NN it|PRP lacks|VBZ the|DT tools|NNS it|PRP needs|VBZ to|TO do|VB its|PRP$ job|NN </s>|S_END
+<s>|S_START it|PRP sets|VBZ one|CD of|IN finance’s|JJ most|RBS important|JJ interest|NN rates|NNS but|CC the|DT prices|NNS it|PRP needs|VBZ to|TO do|VB this|DT do|VB not|RB exist|VB </s>|S_END
+<s>|S_START the|DT london|NN interbank|NN offered|VBD rate|NN libor|NN aims|VBZ to|TO represent|VB the|DT prices|NNS banks|NNS charge|VBP when|WRB lending|VBG to|TO one|CD another|DT </s>|S_END
+<s>|S_START the|DT rates|NNS are|VBP required|VBN every|DT day|NN including|VBG in|IN currencies|NNS and|CC at|IN maturities|NNS where|WRB actual|JJ transactions|NNS are|VBP rare|JJ </s>|S_END
+<s>|S_START to|TO find|VB the|DT right|NN prices|NNS the|DT bba|NN uses|VBZ a|DT system|NN that|WDT works|VBZ a|DT bit|NN like|IN an|DT auction|NN </s>|S_END
+<s>|S_START and|CC auction|NN theory|NN might|MD just|RB help|VB rectify|JJ the|DT flaws|NNS in|IN libor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START auctions|NNS are|VBP commonly|RB used|VBN to|TO find|VB prices|NNS where|WRB none|NN exist|NN </s>|S_END
+<s>|S_START there|EX are|VBP lots|NNS of|IN variant|JJ </s>|S_END
+<s>|S_START in|IN “english”|JJ auctions|NNS often|RB used|VBN to|TO sell|VB rare|JJ paintings|NNS bids|NNS are|VBP public|JJ and|CC the|DT highest|JJS bidder|NN win|NN </s>|S_END
+<s>|S_START in|IN online|NN auctions|NNS bids|NNS are|VBP privately|RB submitted|VBN and|CC the|DT auctioneer|NN selects|VBZ the|DT winner|NN and|CC price|NN </s>|S_END
+<s>|S_START in|IN financialmarket|NN auctions—to|-NONE- buy|VB government|NN bonds|NNS say—there|JJ can|MD be|VB more|RBR than|IN one|CD winner|NN since|IN there|EX are|VBP lots|NNS of|IN similar|JJ assets|NNS for|IN sale|NN </s>|S_END
+<s>|S_START whatever|NN the|DT setup|NN one|CD of|IN the|DT aims|NNS is|VBZ to|TO elicit|VB price|NN information|NN from|IN the|DT bidder|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT liborsetting|NN process|NN has|VBZ a|DT similar|JJ aim|NN </s>|S_END
+<s>|S_START the|DT bba|NN plays|VBZ a|DT role|NN akin|NN to|TO an|DT auctioneer|NN asking|VBG banks|NNS to|TO submit|VB daily|JJ estimates|NNS of|IN the|DT rate|NN they|PRP would|MD pay|VB to|TO borrow|VB in|IN “reasonable|JJ market|NN size”|NN </s>|S_END
+<s>|S_START these|DT private|JJ submissions|NNS are|VBP collected|VBN by|IN the|DT bba|NN </s>|S_END
+<s>|S_START after|IN throwing|VBG aside|NN outlier|NN bids|NNS the|DT average|JJ gives|NNS the|DT final|JJ libor|NN price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN of|IN libor’s|JJ failures|NNS also|RB have|VBP echoes|NNS in|IN auction|NN </s>|S_END
+<s>|S_START traders|NNS at|IN involved|VBN banks|NNS are|VBP accused|VBN of|IN aligning|NN their|PRP$ libor|NN estimates|NNS in|IN an|DT attempt|NN to|TO affect|VB the|DT final|JJ rate|NN </s>|S_END
+<s>|S_START they|PRP were|VBD able|JJ to|TO crosscheck|VB what|WP others|NNS had|VBD done|VBN since|IN the|DT bba|NN makes|VBZ individual|JJ estimates|NNS public|JJ </s>|S_END
+<s>|S_START these|DT traders|NNS had|VBD in|IN effect|NN formed|VBN a|DT “bidding|JJ ring”|NN analogous|JJ to|TO a|DT sort|NN of|IN cartel|NN that|IN is|VBZ familiar|JJ to|TO observers|NNS of|IN auction|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bidding|VBG rings|NNS can|MD be|VB both|DT sophisticated|JJ and|CC longlasting|VBG </s>|S_END
+<s>|S_START in|IN a|DT 2009|CD paper john|JJ asker|NN of|IN new|JJ york|NN university’s|NNS stern|VBP school|NN of|IN business|NN examined|VBN a|DT bidding|NN ring|VBG that|IN specialised|VBN in|IN valuable|JJ stamp|NN collection|NN </s>|S_END
+<s>|S_START the|DT members|NNS recognised|VBD that|IN it|PRP was|VBD not|RB in|IN their|PRP$ interests|NNS to|TO battle|VB it|PRP out|RP in|IN proper|NN auction|NN </s>|S_END
+<s>|S_START o|NN before|IN each|DT sale|NN they|PRP submitted|VBD private|JJ bids|NNS to|TO a|DT central|JJ organiser|NN a|DT taxi|NN driver|NN </s>|S_END
+<s>|S_START the|DT top|JJ bidder|NN in|IN this|DT illegal|JJ “knockout”|NN auction|NN had|VBD the|DT right|NN to|TO bid|NN unthreatened|VBN at|IN the|DT auction|NN house|NN </s>|S_END
+<s>|S_START the|DT losers|NNS in|IN the|DT knockout|NN auction|NN received|VBD a|DT payment|NN to|TO keep|VB them|PRP sweet|JJ </s>|S_END
+<s>|S_START the|DT cartel|NN ran|VBD over|IN 1700|CD of|IN these|DT knockout|IN auctions|NNS in|IN one|CD year|NN and|CC operated|VBN successfully|RB for|IN 15|CD year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START luckily|RB for|IN those|DT trying|VBG to|TO mend|VB libor|NN there|EX are|VBP examples|NNS of|IN how|WRB these|DT types|NNS of|IN cartel|NN falter|NN </s>|S_END
+<s>|S_START in|IN a|DT 1992|CD paper|NN on|IN bidding|NN rings|NNS preston|VBP mcafee|NN now|RB at|IN google|JJ and|CC john|NN mcmillan|NN then|RB of|IN the|DT university|NN of|IN california|NN san|NN diego|NN outlined|VBD four|CD challenges|NNS that|WDT bidding|VBG rings|NNS face|NN </s>|S_END
+<s>|S_START first|JJ they|PRP need|VBP an|DT enforcement|NN mechanism|NN so|RB that|IN members|NNS stick|VBP to|TO the|DT rule|NN </s>|S_END
+<s>|S_START econd|NN the|DT spoils|NNS need|VBP to|TO be|VB fairly|RB shared|VBN </s>|S_END
+<s>|S_START third|JJ new|JJ entrants|NNS must|MD be|VB kept|VBN out|RP </s>|S_END
+<s>|S_START finally|RB the|DT cartel|NN needs|VBZ to|TO avoid|VB action|NN from|IN outside|IN that|DT aims|VBZ to|TO topple|VB it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT better|JJR libor|NN system|NN would|MD be|VB based|VBN on|IN actual|JJ data|NNS as|IN far|RB as|IN possible|JJ not|RB using|VBG any|DT market|NN data|NNS just|RB because|IN some|DT are|VBP missing|VBG was|VBD never|RB a|DT good|JJ idea|NN </s>|S_END
+<s>|S_START if|IN the|DT bba|NN needs|VBZ estimates|NNS to|TO fill|VB the|DT gaps|NNS it|PRP should|MD learn|VB a|DT simple|JJ lesson|NN from|IN auctions|NNS you|PRP have|VBP to|TO stick|VB to|TO your|PRP$ bid|NN </s>|S_END
+<s>|S_START false|NN bidding|NN in|IN an|DT auction|NN is|VBZ penalised|VBN sotheby’s|-NONE- for|IN example|NN is|VBZ currently|RB suing|VBG two|CD buyers|NNS who|WP failed|VBD to|TO pay|VB for|IN chinese|JJ works|NNS of|IN art|NN won|VBD at|IN auction|NN </s>|S_END
+<s>|S_START it|PRP should|MD be|VB the|DT same|JJ with|IN libor|NN </s>|S_END
+<s>|S_START banks|NNS that|IN claim|NN one|CD price|NN but|CC actually|RB pay|VBP another|DT when|WRB they|PRP borrow|VBP should|MD face|VB a|DT hefty|JJ fine|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START once|RB banks’|JJ libor|NN bids|NNS actually|RB have|VBP some|DT commitment|NN value|NN the|DT system|NN should|MD focus|VB on|IN the|DT weaknesses|NNS that|WDT auction|NN cartels|VBZ are|VBP known|VBN to|TO have|VB </s>|S_END
+<s>|S_START the|DT cartelenforcement|NN problem|NN would|MD be|VB more|RBR acute|JJ if|IN the|DT bba|NN increased|VBD the|DT number|NN of|IN submitting|VBG banks|NNS and|CC kept|VBD those|DT bids|NNS private|JJ </s>|S_END
+<s>|S_START the|DT entry|NN of|IN outsiders|NNS should|MD be|VB actively|RB encouraged|VBN by|IN allowing|NN other|JJ lenders|NNS to|TO banks|NNS moneymarket|NN funds|NNS say|VBP to|TO submit|VB estimates|NNS too|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START you|PRP can’t|VBP touch|JJ thi|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START no|DT two|CD auctions|NNS are|VBP exactly|RB alike|RB but|CC the|DT bba|NN could|MD also|RB borrow|VB from|IN the|DT ideas|NNS of|IN other|JJ </s>|S_END
+<s>|S_START in|IN 2007|CD and|CC 2008|CD the|DT bank|NN of|IN england|NN boe|NN and|CC america’s|NNP treasury|NN both|DT wanted|VBD to|TO push|VB cash|NN into|IN illiquid|JJ markets|NNS by|IN buying|NN up|IN dodgy|NN collateral|NN </s>|S_END
+<s>|S_START but|CC markets|NNS had|VBD dried|VBN up|RP so|RB there|RB were|VBD no|DT prices|NNS for|IN these|DT asset|NN </s>|S_END
+<s>|S_START both|DT called|VBN in|IN auction|NN experts—paul|JJ klemperer|NN of|IN oxford|NN university|NN for|IN the|DT boe|NN and|CC paul|JJ milgrom|NN of|IN stanford|NN university|NN for|IN the|DT treasury|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN mr|NN klemperer’s|NNS “product|JJ mix”|NN auction|NN bidders|NNS submit|NN detailed|VBD bids|NNS which|WDT include|VBP both|DT the|DT prices|NNS they|PRP would|MD pay|VB and|CC quantities|NNS they|PRP would|MD accept|VB for|IN a|DT range|NN of|IN good|JJ </s>|S_END
+<s>|S_START because|IN bids|NNS are|VBP simultaneous|JJ and|CC are|VBP never|RB revealed|VBN bidders|NNS can|MD not|RB learn|VB from|IN one|CD another|DT making|NN collusion|NN harder|NN </s>|S_END
+<s>|S_START ince|NN the|DT auctions|NNS are|VBP of|IN the|DT manywinner|NN financial|JJ type|NN a|DT knockout|NN system|NN as|IN in|IN the|DT stamp|NN bidding|NN ring|VBG is|VBZ unlikely|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START having|VBG received|VBN a|DT set|NN of|IN bids|NNS for|IN different|JJ goods|NNS at|IN various|JJ prices|NNS and|CC quantities|NNS the|DT auctioneer|NN in|IN mr|NN klemperer’s|NNS setup|VBP then|RB conducts|NNS a|DT proxy|NN auction|NN on|IN bidders’|NNP behalf|NN to|TO see|VB who|WP should|MD get|VB what|WP and|CC what|WP the|DT price|NN should|MD be|VB </s>|S_END
+<s>|S_START because|IN nothing|NN is|VBZ revealed|VBN to|TO the|DT bidders|NNS and|CC they|PRP know|VBP they|PRP can|MD not|RB influence|VB this|DT process|NN their|PRP$ best|JJS bet|NN is|VBZ to|TO tell|VB the|DT truth|NN </s>|S_END
+<s>|S_START what|WP is|VBZ more|RBR since|IN the|DT auctioneer|NN has|VBZ price|NN information|NN for|IN a|DT range|NN of|IN quantities|NNS it|PRP is|VBZ possible|JJ to|TO see|VB how|WRB prices|NNS change|VBP as|RB supply|RB doe|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bba|NN needs|VBZ to|TO rework|VB libor|NN completely|RB if|IN it|PRP wants|VBZ to|TO save|VB it|PRP </s>|S_END
+<s>|S_START the|DT kinds|NNS of|IN ideas|NNS being|VBG used|VBN in|IN auctions|NNS might|MD help|VB it|PRP do|VB that|IN </s>|S_END
+<s>|S_START if|IN it|PRP could|MD elicit|VB honest|JJS prices|NNS for|IN various|JJ quantities|NNS of|IN moneymarket|NN lending|VBG it|PRP would|MD be|VB able|JJ to|TO provide|VB both|DT an|DT accurate|JJ libor|NN rate|NN and|CC information|NN on|IN how|WRB libor|NN might|MD move|VB as|RB banks’|-NONE- financing|VBG needs|NNS change|NN </s>|S_END
+<s>|S_START this|DT price|NN information|NN would|MD be|VB valuable|JJ to|TO regulator|NN </s>|S_END
+<s>|S_START at|IN the|DT moment|NN libor|NN is|VBZ just|RB a|DT madeup|NN price|NN for|IN an|DT illdefined|JJ quantity|NN of|IN money|NN </s>|S_END
+<s>|S_START time|NN to|TO call|VB an|DT auctioneer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ource|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START john|NN asker|NN “a|NN study|NN of|IN the|DT internal|JJ organization|NN of|IN a|DT bidding|NN cartel”|NN american|NN economic|JJ review|NN 1003|CD 724762|CD 2010|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START john|NN asker|NN “bidding|NN rings”|NN new|JJ palgrave|NN dictionary|NN of|IN economics|NNS online|VBP 2010|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START paul|NN klemperer|NN “the|NN productmix|NN auction|NN a|DT new|JJ auction|NN design|NN for|IN differentiated|VBN goods”|-NONE- journal|JJ of|IN the|DT european|JJ economic|JJ association|NN 2010|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START p|NN mcafee|NN and|CC j|NN mcmillan|NN “bidding|NN rings”|NN american|NN economic|JJ review|NN june|NN 1992|CD 579599|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogsfreeexchange|NN </s>|S_END
+</p>|P_END
+

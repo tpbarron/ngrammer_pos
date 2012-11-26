@@ -1,0 +1,50 @@
+<p>THIS year’s Nobel prize for medicine went to Sir John Gurdon and Shinya Yamanaka (both pictured above) for a crucial discovery in stem-cell science: how to make what are known as pluripotent stem cells from ordinary body cells. What the citation did not say was that this work also allows clones to be made from adult animals, potentially including people.</p>
+
+<p>A stem cell is one that can differentiate into daughter cells specialised for particular functions, and all the cells in a body are thus derived from stem cells. That includes the stem cells themselves, which derive from “ur” stem cells found in embryos. These embryonic stem cells are the pluripotent ones, meaning they can turn into many (sometimes all) other sorts of cell.</p>
+
+<p>Pluripotent embryonic stem cells are of great value to researchers but, if the embryos they come from are human, their use is controversial. This controversy, indeed, was what had originally stimulated Dr Yamanaka to start his investigations, in the hope that embryonic cells might no longer be needed. Also, if such cells are ever to play a useful role in medicine (perhaps for repairing damaged tissue), then they will have to be available in bulk—and ideally in a form whose DNA matches that of the recipient. Sir John and Dr Yamanaka have both conducted work that should help make this possible.</p>
+
+<p>Sir John’s prize-winning study, published half a century ago, in 1962, when he was at Oxford, was to transplant the nuclei of cells from adults of a frog called Xenopus laevis into enucleated eggs of that species. The eggs in question then developed into healthy adults.</p>
+
+<p>This showed that DNA is not altered during embryonic development, at least in Xenopus. (That was subsequently shown to be true in other species, too.) It therefore suggested it might be possible to get an entire adult cell to perform a similar trick, without involving an egg at all.</p>
+
+<p>That was what Dr Yamanaka did. He and his colleagues at Kyoto University managed to insert extra copies of four crucial genes into adult mouse cells. These genes each encode a protein of a type known as a transcription factor. Such factors control the expression of DNA. Together, these particular four can trick a cell into thinking it is part of an embryo.</p>
+
+<p>In the first experiment, conducted in 2006, Dr Yamanaka did not produce complete mice, but he did turn the adult cells into pluripotent stem cells. Subsequent work has produced embryos which, if transplanted into the womb of a female mouse, will go all the way to adulthood. And in 2007 Dr Yamanaka managed to activate the same four genes in adult human cells, thus generating pluripotent human stem cells.</p>
+
+<p>In principle, that opens the door to human cloning, though no one (as far as is known) has yet tried this—and in most countries such an experiment would be illegal. It also opens the door, though, to bespoke tissue repair, since it could allow cells of whatever type were desired to be grown from, say, a few skin cells and then transplanted back into the donor without risking an adverse reaction from his immune system.</p>
+
+<p>How that would work in practice remains to be seen. But if it works well then Sir John and Dr Yamanaka may turn out to have been the pioneers of a whole, new field: regenerative medicine.</p>
+
+<p>Trappings of success</p>
+
+<p>The physics prize went to two cat hunters. The feline in question is Schrödinger’s cat, and the prize-winners are Serge Haroche of the Collège de France, in Paris, and David Wineland of America’s National Institute of Standards and Technology.</p>
+
+<p>Erwin Schrödinger’s famous puss—famous for being both alive and dead at the same time—was born in 1935. It was part of a thought experiment intended to illustrate the bizarre nature of the quantum world, in which particles can persist in two states at once and, as a consequence, a cat can be both dead and alive. However, the cat (or, rather, subatomic particles that behave like the cat) has proved hard to hunt down in practice because such superpositions of states are fragile and easily disrupted phenomena.</p>
+
+<p>Superposition is, nevertheless, crucial to the idea of building what is known as a quantum computer. Such a device would be able to carry out many calculations in parallel, with each of the superposed states acting as part of the calculation. But the computer would work only if the operator could interact with it without destroying the superposition.</p>
+
+<p>Dr Haroche and Dr Wineland led independent teams which, beginning in the 1980s, devised ways to measure and manipulate particles while preserving superposition. Dr Haroche worked on photons (the particles of light and other forms of electromagnetic radiation). Dr Wineland worked on atoms.</p>
+
+<p>Dr Haroche trapped his photons by getting them to bounce back and forth between two tiny superconducting mirrors. He then “entangled” them (another weird quantum process) with what are known as Rydberg atoms. A Rydberg atom is one whose outer electrons have been tweaked to make it about 1,000 times bigger than a normal atom, and the process of entanglement means that measuring the atom reveals the quantum state of the photon (just how dead and alive the “cat” is), while leaving the photon itself intact and thereby preserving its superposition.</p>
+
+<p>Dr Haroche thus used atoms to probe photons. Dr Wineland, meanwhile, did the opposite. He used photons (in the form of carefully calibrated pulses of laser light) to probe atoms. The atoms in question were stripped of their outer electrons and trapped in an electric field, in a vacuum, at extremely low temperatures. The pulses served to cool them even further, by settling them into their lowest possible energy states, and then to nudge them into a superposition of two different energy states. This let them stand in for the mythical cat.</p>
+
+<p>Quantum computers remain science fiction, though Dr Wineland’s group and others have managed to perform a few primitive calculations with trapped atoms, in order to prove the point. Dr Wineland has, however, built a working clock with his atoms—and it is the most accurate clock in history.</p>
+
+<p>The escapement of this clock consists of two entangled atoms, one of which is used to read the inherent vibrations of the other. Those vibrations can be measured so precisely (and without interruption, because entanglement is not broken) that Dr Wineland’s clock would, had it been set running at the beginning of the universe, 13.7 billion years ago, be off today by only about five seconds.</p>
+
+<p>The chemistry prize, as is now almost a Nobel tradition, went for work that might equally have won one of the other two—in this case the medicine prize. The laureates were Robert Lefkowitz of Duke University and Brian Kobilka of Stanford, who between them laid the groundwork for the study of what are known as G-protein-coupled receptors.</p>
+
+<p>A G-protein-coupled receptor is a protein that floats in a cell’s surface membrane. Its job is to pass signals from the outside world to the cellular interior. It does this by interacting with a small molecule such as adrenalin (known as a ligand), in a way that causes its shape to change. That shape-change releases into the cell a piece of a second protein, known as a G-protein (because it likes to bind to molecules containing a substance called guanine), that had previously been attached to the part of the receptor that is inside the cell, below the membrane.</p>
+
+<p>This release, in turn, stimulates a chain of chemical reactions which cause the cell to change its behaviour in some way. Exactly which way depends on which G-protein is released, which depends on which receptor was tickled, which depends on which ligand did the tickling. Given that around 1,000 different G-protein-coupled receptors have (thanks to the Human Genome Project) now been discovered, the result is a sophisticated system whereby cells can regulate each other by secreting appropriate ligands.</p>
+
+<p>Hitting the G-spot</p>
+
+<p>This web of receptors also provides a rich supply of drug targets. For example, nine sorts of G-protein-coupled receptor respond (in different ways) to adrenalin or its cousin noradrenaline. By crafting drugs known as beta-blockers, which interact mainly with just one of these (a version of the beta adrenergic receptor), pharmacologists have devised a way of mimicking some of adrenalin’s functions (those concerned with regulating the heart) without stimulating others, such as the fight-or-flight reaction in the brain. Knowing all of the receptors affected by adrenalin enables researchers to tailor drugs in ways that minimise undesired interactions, and thus to reduce the risk of side effects.</p>
+
+<p>Dr Lefkowitz’s roles in this story were first to identify several receptors using radioactive ligands, and then to clone, in 1986, the gene for beta adrenergic receptors—the first time this had been done for any G-protein-coupled receptor gene. The other eight quickly followed.</p>
+
+<p>Dr Kobilka, who worked alongside Dr Lefkowitz before he moved to Stanford, then discovered the structure of beta receptors using X-ray crystallography. He confirmed that their amino-acid chains weave in and out of the cell seven times, a pattern repeated in all G-protein-coupled receptors (the molecules are sometimes also referred to as seven-transmembrane receptors). The consequence has been a revolution in medical understanding, for it is now known that about half the drugs on the market work by interacting with G-protein-coupled receptors.</p>
+

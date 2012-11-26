@@ -1,0 +1,56 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN short|NN sales|NNS are|VBP rising|VBG sharply|RB offering|VBG many|JJ struggling|VBG homeowners|NNS a|DT better|JJR alternative|NN to|TO foreclosure|VB in|IN many|JJ of|IN the|DT nations|NNS hardest|VBP hit|VBN states|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN short|JJ sale|NN deals|NNS the|DT sale|NN price|NN of|IN the|DT home|NN is|VBZ less|JJR than|IN what|WP the|DT seller|NN owes|VBZ </s>|S_END
+<s>|S_START often|RB the|DT bank|NN that|WDT holds|VBZ the|DT mortgage|NN takes|VBZ so|RB long|RB to|TO approve|VB the|DT sale|NN that|IN the|DT deal|NN falls|VBZ through|IN </s>|S_END
+<s>|S_START but|CC in|IN recent|JJ months|NNS the|DT pace|NN of|IN short|JJ sales|NNS has|VBZ increased|VBN a|DT trend|NN that|WDT should|MD gain|VB momentum|NN according|VBG to|TO realtytrac|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN january|JJ short|JJ sales|NNS rose|VBD 33|CD compared|VBN with|IN 12|CD months|NNS earlier|RBR the|DT company|NN reported|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START during|IN the|DT month|NN 32|CD states|NNS saw|VBD yearoveryear|JJ percentage|NN increases|NNS in|IN short|JJ sales|NNS </s>|S_END
+<s>|S_START even|RB more|JJR encouraging|VBG short|JJ sale|NN deals|NNS outnumbered|VBD foreclosures|NNS in|IN 12|CD states|NNS including|VBG some|DT of|IN the|DT hardest|JJS hit|NN like|IN california|NN arizona|NN and|CC florida|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START januarys|NNS numbers|NNS look|VBP to|TO be|VB just|RB the|DT beginning|NN </s>|S_END
+<s>|S_START we|PRP believe|VBP 2012|CD could|MD be|VB a|DT record|NN year|NN for|IN short|JJ sales|NNS said|VBD daren|VBN blomquist|NN vice|NN president|NN at|IN realtytrac|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banks|NNS are|VBP showing|VBG signs|NNS of|IN being|VBG more|JJR open|JJ and|CC willing|JJ to|TO approve|VB the|DT deals|NNS even|RB if|IN it|PRP means|VBZ accepting|VBG less|JJR money|NN </s>|S_END
+<s>|S_START the|DT average|JJ sales|NNS price|NN for|IN a|DT short|JJ sale|NN was|VBD $|$ 174120|CD in|IN january|JJ down|IN 4|CD from|IN december|NN and|CC 10|CD yearoveryear|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START typically|RB banks|NNS get|VBP about|IN 20|CD less|JJR for|IN a|DT foreclosed|VBN home|NN </s>|S_END
+<s>|S_START foreclosure|NN can|MD also|RB take|VB years|NNS to|TO unload|VB during|IN which|WDT expenses|NNS like|IN property|NN taxes|NNS insurance|NN and|CC other|JJ expenses|NNS mount|VBP up|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START short|JJ sale|NN process|NN to|TO speed|VB up|RP </s>|S_END
+<s>|S_START one|CD of|IN the|DT biggest|JJS roadblocks|NNS for|IN short|JJ sales|NNS has|VBZ been|VBN the|DT time|NN it|PRP takes|VBZ to|TO get|VB deals|NNS approved|VBN </s>|S_END
+<s>|S_START that|DT time|NN shrunk|NN slightly|RB during|IN the|DT first|JJ quarter|NN to|TO 306|CD days|NNS from|IN 308|CD days|NNS the|DT previous|JJ quarter|NN but|CC many|JJ deals|NNS still|RB fall|VBP through|IN because|IN the|DT buyer|NN eventually|RB walks|VBZ away|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB that|IN could|MD all|VB change|NN come|NN june|NN 1|CD when|WRB a|DT set|NN of|IN new|JJ rules|NNS are|VBP put|VBN in|IN place|NN that|IN will|MD require|VB lenders|NNS to|TO make|VB a|DT decision|NN about|IN short|JJ sale|NN requests|NNS within|IN 60|CD days|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START earlier|JJR this|DT week|NN the|DT federal|JJ housing|NN finance|NN agency|NN fhfa|NN which|WDT oversees|NNS fannie|VBP mae|NN fnma|NN fortune|NN 500|CD and|CC freddie|NN mac|NN fre|NN announced|VBD the|DT new|JJ guidelines|NNS which|WDT will|MD also|RB require|VB lenders|NNS to|TO review|VB and|CC respond|VB to|TO short|VB sale|NN requests|NNS within|IN 30|CD days|NNS and|CC provide|VB weekly|JJ status|NN updates|NNS to|TO the|DT borrower|NN if|IN the|DT offer|NN is|VBZ still|RB under|IN review|NN after|IN that|DT time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START also|RB helping|VBG to|TO speed|VB things|NNS along|IN is|VBZ the|DT governments|NNS home|NN affordable|JJ foreclosure|NN alternative|NN program|NN which|WDT launched|VBN in|IN late|JJ 2009|CD according|VBG to|TO charlie|VB engel|NN a|DT spokesman|NN for|IN realtytrac|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT program|NN pays|VBZ incentives|NNS to|TO those|DT who|WP sell|VBP their|PRP$ home|NN in|IN a|DT short|JJ sale|NN rather|RB than|IN let|NN it|PRP fall|VBP into|IN foreclosure |JJ </s>|S_END
+</p>|P_END
+

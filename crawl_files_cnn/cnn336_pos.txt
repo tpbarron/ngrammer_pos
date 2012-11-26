@@ -1,0 +1,62 @@
+<p>|P_START
+<s>|S_START student|NN loans|NNS are|VBP made|VBN for|IN the|DT sole|JJ purpose|NN of|IN helping|VBG students|NNS pay|NN for|IN their|PRP$ education|NN and|CC related|JJ expenses|NNS </s>|S_END
+<s>|S_START most|JJS lenders|NNS allow|VBP students|NNS to|TO delay|VB their|PRP$ payments|NNS until|IN after|IN they|PRP graduate|VBP or|CC drop|NN out|IN </s>|S_END
+<s>|S_START but|CC these|DT loans|NNS are|VBP expected|VBN to|TO be|VB repaid|VBN with|IN interest|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN student|NN loans|NNS can|MD help|VB you|PRP afford|VB a|DT steep|JJ college|NN bill|NN there|EX are|VBP many|JJ pitfalls|NNS they|PRP present|VBP as|IN well|RB </s>|S_END
+<s>|S_START unlike|IN almost|RB any|DT other|JJ kind|NN of|IN loan|NN credit|NN card|NN advances|NNS mortgages|NNS etc|VBP </s>|S_END
+<s>|S_START it|PRP is|VBZ very|RB difficult|JJ to|TO free|JJ yourself|NN of|IN student|NN loan|NN debt|NN if|IN you|PRP get|VBP into|IN financial|JJ trouble|JJ and|CC file|JJ for|IN bankruptcy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT federal|JJ government|NN can|MD even|RB wait|VB until|IN you|PRP retire|VBP and|CC take|VB some|DT of|IN your|PRP$ social|JJ security|NN payments|NNS to|TO recoup|VB its|PRP$ loans|NNS </s>|S_END
+<s>|S_START thats|NNS why|WRB its|PRP$ important|JJ to|TO keep|VB your|PRP$ borrowing|NN to|TO an|DT absolute|JJ minimum|NN and|CC after|IN you|PRP leave|VBP school|NN make|VB sure|JJ you|PRP make|VBP your|PRP$ payments|NNS on|IN time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START here|RB are|VBP three|CD basic|JJ types|NNS of|IN student|NN loans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT us|PRP department|NN of|IN education|NN will|MD lend|VB at|IN least|JJS $|$ 5500|CD a|DT year|NN to|TO just|RB about|IN any|DT undergraduate|NN without|IN requiring|VBG parents|NNS to|TO guarantee|VB repayment|NN and|CC with|IN almost|RB no|DT regard|NN to|TO the|DT students|NNS credit|NN history|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN 2012|CD the|DT government|NN was|VBD charging|VBG between|IN 5|CD and|CC 7|CD for|IN its|PRP$ student|NN loans|NNS </s>|S_END
+<s>|S_START it|PRP offered|VBD several|JJ repayment|NN options|NNS including|VBG incomebased|VBN repayment|NN and|CC pay|NN as|IN you|PRP earn|VBP which|WDT link|NN your|PRP$ monthly|JJ payments|NNS to|TO your|PRP$ earnings|NNS </s>|S_END
+<s>|S_START and|CC it|PRP offered|VBD public|JJ servants|NNS a|DT chance|NN for|IN some|DT loan|NN forgiveness|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP a|DT few|JJ kinds|NNS of|IN students|NNS the|DT federal|JJ government|NN wont|NN make|VB loans|NNS to|TO however|RB </s>|S_END
+<s>|S_START those|DT include|VBP undocumented|VBN students|NNS or|CC those|DT who|WP have|VBP already|RB defaulted|VBN on|IN a|DT previous|JJ federal|JJ student|NN loan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ banks|NNS and|CC private|JJ companies|NNS like|IN sallie|NN mae|NN which|WDT is|VBZ no|DT longer|NN run|VBN by|IN the|DT government|NN also|RB make|VB student|NN loans|NNS </s>|S_END
+<s>|S_START these|DT are|VBP standard|JJ lending|VBG transactions|NNS that|WDT are|VBP very|RB similar|JJ to|TO say|VB auto|NN loans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START loans|NNS from|IN private|JJ lenders|NNS are|VBP generally|RB less|RBR advantageous|JJ to|TO students|NNS for|IN several|JJ reasons|NNS </s>|S_END
+<s>|S_START private|JJ lenders|NNS wont|VBP make|VBP loans|NNS directly|RB to|TO college|VB students|NNS because|IN they|PRP have|VBP limited|JJ credit|NN histories|NNS and|CC are|VBP unable|JJ to|TO prove|VB theyll|NN be|VB able|JJ to|TO pay|VB the|DT loan|NN back|RB </s>|S_END
+<s>|S_START as|IN a|DT result|NN lenders|NNS often|RB require|VBP parents|NNS to|TO cosign|VB or|CC guarantee|NN in|IN writing|NN that|IN they|PRP will|MD pay|VB back|RB the|DT loan|NN if|IN the|DT student|NN fails|VBZ to|TO do|VB so|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN private|JJ student|NN loans|NNS generally|RB arent|JJ eligible|JJ for|IN public|JJ service|NN forgiveness|NN programs|NNS in|IN which|WDT graduates|NNS who|WP work|NN for|IN nonprofits|NNS or|CC government|NN agencies|NNS can|MD have|VB a|DT portion|NN of|IN their|PRP$ loans|NNS erased|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT few|JJ charities|NNS and|CC colleges|NNS offer|VBP low|JJ or|CC in|IN some|DT cases|NNS nointerest|VBP student|NN loans|NNS </s>|S_END
+<s>|S_START these|DT are|VBP comparatively|RB rare|JJ however|RB </s>|S_END
+<s>|S_START and|CC not|RB all|DT collegemade|NN loans|NNS are|VBP good|JJ deals|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START next|JJ what|WP are|VBP the|DT best|JJS federal|JJ student|NN loans|NNS </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

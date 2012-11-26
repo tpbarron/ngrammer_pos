@@ -1,0 +1,58 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN a|DT record|NN number|NN of|IN american|JJ households|NNS have|VBP student|NN loan|NN debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT 19|CD of|IN households|NNS had|VBD student|NN loans|NNS in|IN 2010|CD up|IN from|IN 15|CD just|RB three|CD years|NNS earlier|RBR according|VBG to|TO a|DT new|JJ report|NN from|IN the|DT pew|NN research|NN center|NN released|VBD wednesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START student|NN debt|NN has|VBZ exploded|VBN in|IN recent|JJ years|NNS as|IN more|JJR people|NNS attend|VBP college|NN more|RBR turn|JJ to|TO debt|NN to|TO finance|VB it|PRP and|CC more|JJR take|VB out|RP bigger|JJR loans|NNS while|IN in|IN school|NN said|VBD richard|NN fry|NN a|DT senior|JJ economist|NN at|IN pew|NN who|WP authored|VBN the|DT report|NN </s>|S_END
+<s>|S_START this|DT is|VBZ bucking|VBG the|DT trend|NN of|IN americans|NNS shedding|VBG debt|NN during|IN the|DT great|JJ recession|NN and|CC its|PRP$ aftermath|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT age|NN of|IN deleveraging|NN student|NN loans|NNS are|VBP one|CD form|NN of|IN rising|VBG debt|NN he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN average|JJ borrowers|NNS owed|VBD $|$ 26682|CD in|IN 2010|CD up|IN 143|CD from|IN three|CD years|NNS earlier|RBR and|CC more|RBR than|IN double|JJ what|WP they|PRP owed|VBD in|IN 1995|CD </s>|S_END
+<s>|S_START but|CC while|IN stories|NNS abound|VBP of|IN people|NNS mired|VBN in|IN sixfigure|NN debt|NN they|PRP are|VBP the|DT exception|NN fry|NN said|VBD </s>|S_END
+<s>|S_START only|RB 4|CD owe|NN more|JJR than|IN $|$ 100000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN total|NN student|NN loan|NN debt|NN is|VBZ approaching|VBG $|$ 1|CD trillion|CD according|VBG to|TO a|DT separate|JJ federal|JJ reserve|NN bank|NN of|IN new|JJ york|NN report|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START student|NN debt|NN levels|NNS are|VBP rising|VBG across|IN the|DT board|NN but|CC they|PRP are|VBP growing|VBG the|DT fastest|JJS for|IN the|DT nations|NNS poorest|VBP and|CC most|JJS affluent|JJ fry|NN said|VBD </s>|S_END
+<s>|S_START the|DT poorest|JJS fifth|JJ owed|VBD 13|CD of|IN the|DT outstanding|JJ debt|NN in|IN 2010|CD up|IN from|IN 11|CD three|CD years|NNS earlier|RBR even|RB though|IN this|DT group|NN is|VBZ less|JJR likely|JJ than|IN richer|NN americans|NNS to|TO attend|VB college|NN </s>|S_END
+<s>|S_START and|CC the|DT wealthiest|NN households|NNS were|VBD on|IN the|DT hook|NN for|IN 31|CD of|IN the|DT student|NN debt|NN owed|VBD up|RP from|IN 28|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD over|IN 50|CD with|IN student|NN debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT richest|JJS share|NN of|IN households|NNS not|RB surprisingly|RB is|VBZ better|RBR able|JJ to|TO handle|VB the|DT burden|NN </s>|S_END
+<s>|S_START college|NN debt|NN accounted|VBD for|IN only|RB 33|CD of|IN their|PRP$ household|NN income|NN </s>|S_END
+<s>|S_START but|CC student|NN loan|NN debt|NN ate|NN up|IN nearly|RB a|DT quarter|NN of|IN the|DT earnings|NNS of|IN the|DT poorest|JJS fifth|JJ the|DT study|NN found|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT 44|CD of|IN student|NN loans|NNS are|VBP owed|VBN by|IN those|DT under|IN age|NN 35|CD with|IN another|DT 26|CD owed|VBD by|IN those|DT between|IN 35|CD and|CC 44|CD </s>|S_END
+<s>|S_START senior|JJ citizens|NNS dont|NN fully|RB escape|NN either|DT although|IN they|PRP accounted|VBD for|IN just|RB 2|CD of|IN the|DT outstanding|JJ student|NN loan|NN debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START recent|JJ grads|NNS with|IN college|NN debt|NN may|MD fall|VB into|IN the|DT lower|JJR income|NN categories|NNS especially|RB since|IN its|PRP$ harder|NN for|IN them|PRP to|TO find|VB jobs|NNS </s>|S_END
+<s>|S_START so|IN they|PRP may|MD struggle|VB for|IN a|DT while|NN to|TO pay|VB back|RB their|PRP$ loans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START they|PRP are|VBP welleducated|VBN but|CC not|RB yet|RB making|VBG killer|NN salaries|NNS fry|VBP said|VBN about|IN those|DT just|RB out|IN of|IN school|NN </s>|S_END
+<s>|S_START for|IN a|DT while|NN they|PRP will|MD be|VB burdened|VBN </s>|S_END
+</p>|P_END
+

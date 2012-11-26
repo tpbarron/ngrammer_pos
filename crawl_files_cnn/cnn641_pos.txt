@@ -1,0 +1,97 @@
+<p>|P_START
+<s>|S_START amazons|NNS kindle|VBP fire|NN is|VBZ sold|VBN virtually|RB at|IN cost|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START money|NN magazine|NN ever|RB since|IN it|PRP was|VBD founded|VBN in|IN 1994|CD amazoncom|NN has|VBZ been|VBN all|DT about|IN transformation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT seattlebased|VBN online|NN retailer|NN started|VBD off|RP by|IN reinventing|NN the|DT way|NN books|VBZ were|VBD sold|VBN </s>|S_END
+<s>|S_START then|RB it|PRP redefined|VBD itself|PRP by|IN hawking|VBG everything|NN from|IN furniture|NN to|TO electronics|NNS in|IN the|DT process|NN challenging|VBG giant|JJ retailers|NNS such|JJ as|IN walmart|NN headon|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START more|JJR recently|RB the|DT company|NN doubled|VBD down|IN on|IN its|PRP$ dotcom|NN roots|NNS through|IN tablets|NNS streaming|VBG video|NN and|CC cloud|NN computing|NN </s>|S_END
+<s>|S_START transformation|NN though|IN comes|NNS at|IN a|DT steep|JJ price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START can|MD amazon|VB amzn|NN fortune|NN 500|CD afford|NN to|TO keep|VB being|VBG so|RB daring|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tech|NN 20|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START amazon|NN is|VBZ reembracing|VBG its|PRP$ inner|NN nerd|NN </s>|S_END
+<s>|S_START the|DT company|NN struck|NN a|DT blow|NN against|IN netflix|NN by|IN signing|NN an|DT agreement|NN with|IN epix|NN giving|VBG amazon|NN prime|NN subscribers|NNS access|NN to|TO thousands|NNS of|IN additional|JJ streaming|NN videos|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ec2|NNP the|DT firms|NNS cloudcomputing|VBG unit|NN leads|NNS google|JJ and|CC microsoft|NN in|IN market|NN share|NN </s>|S_END
+<s>|S_START and|CC with|IN the|DT kindle|NN fire|NN which|WDT controls|NNS 22|CD of|IN the|DT us|PRP tablet|VBD market|NN amazon|NN is|VBZ taking|VBG direct|JJ aim|NN at|IN the|DT ipad|NN and|CC apples|NNS itunes|NNS platform|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD contrarian|JJ fund|NN bets|NNS on|IN europe|NN and|CC wins|VBZ big|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT stock|NN is|VBZ already|RB reaping|VBG benefits|NNS investors|NNS are|VBP valuing|VBG it|PRP like|IN an|DT internet|JJ startup|NN circa|NN 1999|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START morningstar|NN analyst|NN rj|NN hottovy|NN says|VBZ amazons|NNS pe|VBP shouldnt|NN scare|NN investors|NNS off|IN because|IN its|PRP$ profitability|NN is|VBZ still|RB being|VBG sacrificed|VBN for|IN investments|NNS in|IN rapid|JJ expansion|NN </s>|S_END
+<s>|S_START of|IN course|NN youve|NN probably|RB heard|VBN that|IN one|CD before|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START reinventing|VBG retail|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT etailer|NN which|WDT accounts|NNS for|IN almost|RB 2|CD of|IN retail|JJ industry|NN sales|NNS is|VBZ growing|VBG rapidly|RB and|CC poses|NNS a|DT threat|NN to|TO traditional|JJ bigbox|NN stores|NNS </s>|S_END
+<s>|S_START to|TO keep|VB up|RP with|IN the|DT companys|NNS expansion|NN amazon|NN is|VBZ building|VBG 18|CD new|JJ fulfillment|NN centers|NNS which|WDT will|MD further|RB speed|VB up|RP delivery|NN times|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START amazon|NN is|VBZ already|RB testing|VBG out|RP pilot|NN programs|NNS in|IN certain|JJ cities|NNS which|WDT would|MD allow|VB for|IN sameday|NN delivery|NN service|NN says|VBZ wells|NNS fargo|IN analyst|NN matt|NN nemer|NN </s>|S_END
+<s>|S_START if|IN successful|JJ the|DT online|NN behemoth|NN could|MD pose|VB an|DT even|RB greater|JJR threat|NN to|TO brickandmortar|VB stores|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT threat|NN could|MD be|VB slightly|RB muted|VBN though|IN by|IN new|JJ laws|NNS forcing|VBG amazon|NN to|TO collect|VB sales|NNS tax|NN on|IN behalf|NN of|IN states|NNS where|WRB it|PRP previously|RB hadnt|VBP shrinking|VBG the|DT online|NN sellers|NNS price|NN advantage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START big|JJ sales|NNS little|RB profits|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN revenues|NNS are|VBP thriving|VBG reaching|VBG $|$ 48|CD billion|CD last|JJ year|NN profits|NNS have|VBP seen|VBN better|RBR days|NNS as|IN the|DT company|NN is|VBZ in|IN spending|NN mode|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START amazon|NN recently|RB paid|VBD $|$ 775|CD million|CD for|IN kiva|NN systems|NNS makers|NNS of|IN warehouse|NN robots|NNS </s>|S_END
+<s>|S_START that|DT followed|VBD last|JJ years|NNS acquisition|NN of|IN uk|NN based|VBN lovefilm|NN to|TO help|VB compete|JJ against|IN netflix|NN nflx|NN globally|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC in|IN an|DT effort|NN to|TO gain|VB market|NN share|NN amazons|NNS new|JJ kindle|NN fire|NN 2|CD will|MD be|VB sold|VBN virtually|RB at|IN cost|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START amazon|NN isnt|VBD trying|VBG to|TO make|VB money|NN on|IN hardware|NN says|VBZ morningstars|NNS hottovy|VBP </s>|S_END
+<s>|S_START its|PRP$ using|NN devices|NNS to|TO lure|VB consumers|NNS into|IN spending|NN more|JJR on|IN ebooks|NNS digital|JJ content|NN and|CC prime|JJ subscriptions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT strategy|NN is|VBZ a|DT gamble|JJ walmart|NN wmt|NN fortune|NN 500|CD and|CC target|NN tgt|NN fortune|NN 500|CD have|VBP stopped|VBN selling|VBG kindles|NNS for|IN competitive|JJ reasons|NNS potentially|RB slowing|VBG amazons|NNS plans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START send|NN your|PRP$ questions|NNS about|IN investing|VBG to|TO the|DT help|NN desk|NN </s>|S_END
+</p>|P_END
+

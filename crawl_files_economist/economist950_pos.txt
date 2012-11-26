@@ -1,0 +1,58 @@
+<p>|P_START
+<s>|S_START volcker|NN the|DT triumph|NN of|IN persistence|NN </s>|S_END
+<s>|S_START by|IN william|NN silber|NN </s>|S_END
+<s>|S_START bloomsbury|NN 454|CD pages|NNS $|$ 30|CD </s>|S_END
+<s>|S_START to|TO be|VB published|VBN in|IN britain|NN in|IN january|JJ £25|NN </s>|S_END
+<s>|S_START buy|NN from|IN amazoncom|NN amazoncouk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START alan|NN greenspan|VBD may|MD be|VB the|DT most|JJS famous|JJ central|JJ banker|NN of|IN the|DT modern|JJ era|NN but|CC paul|JJ volcker|NN has|VBZ been|VBN the|DT most|RBS influential|JJ </s>|S_END
+<s>|S_START he|PRP played|VBD a|DT crucial|JJ diplomatic|JJ role|NN during|IN the|DT death|NN of|IN the|DT bretton|NN woods|NNS financial|JJ system|NN in|IN the|DT early|JJ 1970s|CD which|WDT severed|VBN the|DT link|NN between|IN money|NN and|CC gold|NN and|CC ushered|VBD in|RP floating|NN exchange|NN rate|NN </s>|S_END
+<s>|S_START as|IN head|NN of|IN the|DT federal|JJ reserve|NN from|IN 1979|CD mr|NN volcker|NN then|RB tamed|VBD the|DT inflation|NN that|IN ensued|VBN bringing|VBG monetary|JJ stability|NN in|IN the|DT face|NN of|IN political|JJ opposition|NN to|TO the|DT very|JJ high|NN interest|NN rates|NNS required|VBN </s>|S_END
+<s>|S_START in|IN doing|NN so|IN he|PRP set|VBD the|DT template|NN for|IN modern|JJ economic|JJ management|NN built|NN around|IN an|DT independent|JJ central|JJ bank|NN with|IN an|DT implicit|JJ or|CC explicit|NN inflation|NN target|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN serving|VBG at|IN the|DT treasury|NN under|IN richard|NN nixon|NN the|DT towering|NN 6ft|CD 7in|CD mr|NN volcker|NN was|VBD appointed|VBN to|TO the|DT fed|JJ by|IN both|DT jimmy|NN carter|NN and|CC ronald|NN reagan|VBD </s>|S_END
+<s>|S_START more|JJR recently|RB he|PRP has|VBZ been|VBN an|DT adviser|NN to|TO barack|VB obama|NN who|WP traded|VBN on|IN the|DT former|JJ fed|VBN chief’s|-NONE- credibility|NN by|IN dubbing|NN his|PRP$ plan|NN to|TO end|VB banks’|JJ proprietary|NN trading|NN the|DT “volcker|NN rule”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT long|JJ record|NN of|IN public|JJ service|NN earns|VBZ the|DT admiration|NN of|IN william|NN silber|NN his|PRP$ new|JJ biographer|NN </s>|S_END
+<s>|S_START mr|NN volcker|NN could|MD have|VB earned|VBN much|RB more|RBR on|IN wall|NN street|NN </s>|S_END
+<s>|S_START upon|IN becoming|VBG head|NN of|IN the|DT fed|VBN his|PRP$ salary|NN was|VBD halved|VBN </s>|S_END
+<s>|S_START to|TO balance|NN their|PRP$ domestic|JJ budget|NN his|PRP$ wife|NN barbara|NN took|VBD a|DT parttime|NN job|NN as|IN a|DT bookkeeper|NN and|CC let|VB a|DT room|NN in|IN their|PRP$ flat|JJ </s>|S_END
+<s>|S_START he|PRP smoked|VBD cheap|VB and|CC smelly|RB cigars|NNS because|IN he|PRP could|MD not|RB imagine|VB spending|NN as|IN much|JJ as|IN $|$ 2|CD on|IN a|DT stogie|NN </s>|S_END
+<s>|S_START in|IN later|JJ life|NN when|WRB he|PRP chaired|VBD investigations|NNS into|IN the|DT un|NN oilforfood|NN programme|NN or|CC arthur|VB andersen|VBN an|DT accountancy|NN firm|NN he|PRP charged|VBD only|RB a|DT token|NN $|$ 1|CD fee|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB mr|VBP volcker|NN still|RB lacked|VBD the|DT consolation|NN of|IN popularity|NN unlike|IN mr|NN greenspan|NN who|WP was|VBD praised|VBN by|IN the|DT press|NN and|CC politicians|NNS for|IN much|RB of|IN his|PRP$ term|NN </s>|S_END
+<s>|S_START democrats|NNS blamed|VBD mr|NN volcker|NN for|IN losing|VBG them|PRP the|DT 1980|CD election|NN because|IN of|IN his|PRP$ tight|JJ monetary|NN policy|NN </s>|S_END
+<s>|S_START milton|NN friedman|NN saw|VBD him|PRP as|IN insufficiently|RB monetarist|JJ and|CC many|JJ in|IN the|DT reagan|NN white|NN house|NN regarded|VBD him|PRP with|IN suspicion|NN as|IN a|DT democrat|NN </s>|S_END
+<s>|S_START mr|NN volcker|NN barely|RB made|VBN it|PRP though|IN his|PRP$ eight|NN years|NNS at|IN the|DT fed|VBN </s>|S_END
+<s>|S_START he|PRP nearly|RB failed|VBD to|TO be|VB reappointed|VBN in|IN 1983|CD and|CC almost|RB resigned|VBD in|IN 1986|CD when|WRB defeated|VBN on|IN a|DT key|JJ vote|NN </s>|S_END
+<s>|S_START it|PRP was|VBD only|RB in|IN retrospect|NN that|IN his|PRP$ reputation|NN grew|VBD mr|NN silber’s|NNS wellwritten|VBN book|NN should|MD help|VB cement|NN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN mr|NN volcker’s|NNS record|VB at|IN the|DT fed|VBN is|VBZ wellknown|VBN what|WP might|MD be|VB more|RBR surprising|JJ is|VBZ the|DT crucial|JJ role|NN he|PRP played|VBD in|IN the|DT exchangerate|NN crises|NNS of|IN the|DT early|JJ 1970|CD </s>|S_END
+<s>|S_START like|IN an|DT economic|JJ henry|NN kissinger|NN mr|NN volcker|NN shuttled|VBD around|IN the|DT world|NN to|TO placate|VB foreign|JJ allies|NNS in|IN the|DT face|NN of|IN nixon’s|JJ marked|VBN indifference|NN to|TO international|JJ economic|JJ </s>|S_END
+<s>|S_START “i|NN don’t|NN give|VBP a|DT shit|NN about|IN the|DT lira”|NN was|VBD one|CD of|IN tricky|JJ dick’s|NNS choice|NN phrase|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN decades|NNS politicians|NNS had|VBD mouthed|VBN their|PRP$ support|NN for|IN a|DT strong|JJ currency|NN but|CC nixon|NN cut|VBD through|IN the|DT claptrap|NN </s>|S_END
+<s>|S_START “volcker|NN thinks|NNS we|PRP ought|MD to|TO sacrifice|VB the|DT domestic|JJ economy|NN to|TO save|VB the|DT dollar”|NN he|PRP said|VBD </s>|S_END
+<s>|S_START “i’m|NN not|RB in|IN favour|PRP$ of|IN that”|NNP the|DT dollar|NN duly|RB fell|VBD sharply|RB in|IN the|DT 1970s|CD although|IN it|PRP rebounded|VBD under|IN mr|NN volcker’s|NNS tenure|VBP at|IN the|DT fed|VBN </s>|S_END
+<s>|S_START mr|NN silber|NN praises|NNS his|PRP$ subject|JJ for|IN stabilising|NN the|DT currency|NN and|CC also|RB for|IN opposing|VBG reagan’s|NNS budget|NN deficit|NN </s>|S_END
+<s>|S_START whether|IN he|PRP is|VBZ right|RB to|TO say|VB that|IN it|PRP was|VBD those|DT deficits|NNS that|IN pushed|JJ up|RP real|JJ interest|NN rates|NNS in|IN the|DT 1980s|CD is|VBZ harder|JJR to|TO tell|VB after|IN all|DT deficits|NNS are|VBP even|RB higher|JJR now|RB and|CC real|JJ rates|NNS are|VBP negative|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START perhaps|RB the|DT most|RBS remarkable|JJ fact|NN about|IN mr|NN volcker|NN is|VBZ that|IN he|PRP has|VBZ spent|VBN much|JJ of|IN his|PRP$ career|NN dealing|VBG with|IN wall|JJ street|NN without|IN being|VBG captured|VBN by|IN its|PRP$ influence|NN </s>|S_END
+<s>|S_START mr|NN silber|NN highlights|NNS his|PRP$ subject’s|NNS commitment|NN to|TO financial|JJ reform|NN but|CC fails|VBZ to|TO mention|NN one|CD of|IN his|PRP$ more|JJR pointed|VBN bon|NN mots—that|-NONE- the|DT only|JJ useful|JJ modern|NN financial|JJ innovation|NN has|VBZ been|VBN the|DT automated|VBN teller|NN machine|NN </s>|S_END
+<s>|S_START uch|JJ robust|NN cynicism|NN about|IN wall|DT street|NN along|IN with|IN his|PRP$ links|NNS to|TO the|DT current|JJ president|NN may|MD explain|VB why|WRB mr|NN volcker|NN is|VBZ not|RB a|DT hero|NN of|IN the|DT conservative|JJ movement|NN despite|IN his|PRP$ antiinflationary|JJ credential|JJ </s>|S_END
+</p>|P_END
+

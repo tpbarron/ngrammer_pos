@@ -1,0 +1,41 @@
+<p>|P_START
+<s>|S_START 151|CD colleges|NNS charged|VBD annual|JJ tuition|NN fees|NNS room|VBP and|CC board|NN totaling|VBG more|JJR than|IN $|$ 50000|CD up|IN from|IN 123|CD schools|NNS last|JJ year|NN according|VBG to|TO the|DT chronicle|NN of|IN higher|JJR education|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN a|DT growing|VBG number|NN of|IN colleges|NNS are|VBP joining|VBG the|DT onceelite|JJ club|NN of|IN schools|NNS charging|VBG more|JJR than|IN $|$ 50000|CD per|IN year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN the|DT 201213|CD academic|JJ year|NN 151|CD colleges|NNS charged|VBD annual|JJ tuition|NN fees|NNS room|VBP and|CC board|NN totaling|VBG more|JJR than|IN $|$ 50000|CD according|VBG to|TO college|VB board|NN data|NNS analyzed|VBD by|IN the|DT chronicle|NN of|IN higher|JJR education|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS up|IN from|IN 123|CD schools|NNS last|JJ year|NN 100|CD schools|NNS the|DT year|NN before|IN and|CC only|RB 58|CD schools|NNS the|DT year|NN before|IN that|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD college|NN even|RB priced|VBN out|RP of|IN the|DT $|$ 50000|CD range|NN this|DT year|NN charging|VBG more|JJR than|IN $|$ 60000|CD </s>|S_END
+<s>|S_START sarah|NN lawrence|NN college|NN in|IN bronxville|NN ny|NN boasted|VBD a|DT $|$ 61236|CD sticker|NN price|NN which|WDT includes|VBZ tuition|NN fees|NNS room|VBP and|CC board|NN after|IN hiking|VBG costs|NNS by|IN 35|CD this|DT year|NN </s>|S_END
+<s>|S_START related|VBD private|JJ college|NN cost|NN hits|NNS $|$ 43000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START selective|JJ liberal|NN arts|NNS colleges|NNS like|IN wesleyan|NN university|NN vassar|NN college|NN williams|NNS college|NN and|CC bowdoin|NN college|NN were|VBD among|IN the|DT most|RBS expensive|JJ schools|NNS as|IN were|VBD ivy|JJ leagues|NNS like|IN harvard|NN university|NN stanford|NN university|NN and|CC dartmouth|NN college|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN to|TO being|VBG the|DT priciest|JJS schools|NNS in|IN the|DT nation|NN at|IN least|JJS 146|CD of|IN the|DT 151|CD schools|NNS charging|VBG $|$ 50000plus|CD increased|VBN their|PRP$ costs|NNS this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC hikes|VBZ werent|NN reserved|VBN for|IN just|RB the|DT most|RBS expensive|JJ schools|NNS </s>|S_END
+<s>|S_START among|IN the|DT more|RBR than|IN 3000|CD schools|NNS in|IN the|DT chronicle|NN of|IN higher|JJR educations|NNS database|VBP more|JJR than|IN half|PDT increased|VBN tuition|NN fees|NNS room|VBP and|CC board|NN this|DT year|NN </s>|S_END
+<s>|S_START related|VBD colleges|NNS with|IN the|DT highestpaid|JJ grads|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START costs|NNS at|IN angelina|NN college|NN in|IN texas|NNS surged|VBD 46|CD followed|VBN by|IN a|DT 26|CD jump|NN at|IN university|NN of|IN west|NN alabama|NN and|CC a|DT 22|CD increase|NN at|IN university|NN of|IN alaskasoutheast|NN </s>|S_END
+<s>|S_START overall|JJ 40|CD schools|NNS raised|VBD costs|NNS by|IN 10|CD or|CC more|JJR </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,44 @@
+<p>|P_START
+<s>|S_START the|DT producer|NN of|IN “atlas|NNP shrugged|VBD part|NN ii”|-NONE- a|DT film|NN based|VBN on|IN ayn|NN rand’s|NNS book|NN praising|VBG profitmakers|NNS and|CC decrying|VBG altruism|NN expects|NNS to|TO lose|VB money|NN on|IN it|PRP </s>|S_END
+<s>|S_START harmon|NN kaslow|VBD hopes|NNS the|DT movie|NN launched|VBD in|IN 900|CD american|JJ cinemas|NNS on|IN october|NN 12th|CD will|MD gross|VB $|$ 10m|CD though|IN he|PRP and|CC six|CD likeminded|VBD randians|NNS raised|VBN $|$ 20m|CD to|TO pay|VB for|IN it|PRP </s>|S_END
+<s>|S_START plans|NNS for|IN the|DT trilogy|NN date|NN from|IN 1992|CD </s>|S_END
+<s>|S_START “part|NN i”|NN released|VBN in|IN 2011|CD cost|NN $|$ 8m|CD and|CC brought|VBD in|IN less|JJR than|IN $|$ 5m|CD critics|NNS panned|VBN it|PRP as|IN “incoherent”|JJ “halfbaked”|NN and|CC “stiff”|NNP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START detractors|NNS abound|VBD but|CC rand’s|NNP books|NNS boast|VBP a|DT growing|VBG following|VBG </s>|S_END
+<s>|S_START devotees|NNS are|VBP mostly|RB american|JJ the|DT republican|JJ vicepresidential|JJ nominee|NN paul|NN ryan|NN said|VBD her|PRP books|NNS were|VBD required|VBN reading|NN in|IN his|PRP$ office|NN </s>|S_END
+<s>|S_START her|PRP$ appeal|NN stretches|NNS elsewhere|RB too|RB </s>|S_END
+<s>|S_START edward|NN hudgins|NNS of|IN the|DT atlas|NNS society|NN says|VBZ monthly|JJ nonamerican|NN visits|NNS to|TO his|PRP$ website|NN have|VBP risen|VBN from|IN 7000|CD to|TO 11000|CD in|IN two|CD year|NN </s>|S_END
+<s>|S_START yaron|NN brook|VBD of|IN the|DT ayn|NN rand|NN institute|NN says|VBZ foreign|JJ fans|NNS are|VBP mainly|RB in|IN britain|NN canada|NN india|NNS and|CC scandinavia|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START weden|NN might|MD seem|VB an|DT odd|JJ place|NN to|TO foster|VB a|DT randian|JJ movement|NN </s>|S_END
+<s>|S_START in|IN 1976|CD she|PRP decried|VBD its|PRP$ welfare|NN state|NN as|IN “the|NNP most|RBS evil|JJ national|JJ psychology|NN ever|RB described”|JJ the|DT country|NN has|VBZ taken|VBN a|DT sharp|JJ turn|NN towards|NNS liberal|JJ economics|NNS since|IN then|RB and|CC is|VBZ run|VBN by|IN a|DT centreright|NN coalition|NN government|NN </s>|S_END
+<s>|S_START but|CC if|IN englishspeakers|NNS are|VBP excluded|VBN swedes|NNS lead|VBP the|DT world|NN in|IN google|NN searches|NNS for|IN “ayn|JJ rand”|NN </s>|S_END
+<s>|S_START timbro|NN a|DT freemarket|NN thinktank|NN in|IN stockholm|NN has|VBZ sold|VBN 30000|CD copies|NNS of|IN her|PRP$ books|NNS since|IN 2005|CD </s>|S_END
+<s>|S_START in|IN britain|NN six|CD times|NNS as|RB populous|JJ only|RB 90000|CD have|VBP been|VBN bought|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START not|RB all|DT the|DT interest|NN is|VBZ favourable|JJ </s>|S_END
+<s>|S_START annie|NN loof|IN the|DT enterprise|NN minister|NN came|VBD under|IN fire|NN for|IN calling|NN rand|NN “one|NN of|IN the|DT greatest|JJS thinkers|NNS of|IN the|DT 20th|JJ century”|NN </s>|S_END
+<s>|S_START photographers|NNS caught|VBN her|PRP at|IN the|DT book|NN launch|NN of|IN the|DT swedish|JJ version|NN of|IN “the|NNP fountainhead”|NNP another|DT randian|NN classic|JJ </s>|S_END
+<s>|S_START ms|NNS loof|IN has|VBZ backpedalled|VBN since|IN then|RB </s>|S_END
+<s>|S_START he|PRP has|VBZ removed|VBN references|NNS to|TO rand|VB from|IN her|PRP$ website|NN declines|NNS to|TO talk|VB about|IN the|DT subject|NN and|CC says|VBZ on|IN her|PRP$ website|NN that|WDT she|PRP reads|VBZ “newspapers|NNS and|CC paperbacks”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START india|NNS ranks|NNS after|IN only|RB america|VBP and|CC canada|NN in|IN online|NN englishlanguage|NN searches|NNS for|IN randian|JJ topic|JJ </s>|S_END
+<s>|S_START book|NN sales|NNS are|VBP strong|JJ but|CC understate|JJ the|DT craze|NN says|VBZ barun|VBN mitra|NN of|IN the|DT liberty|NN institute|NN an|DT indian|JJ thinktank|NN </s>|S_END
+<s>|S_START they|PRP miss|VBP the|DT thriving|VBG trade|NN in|IN pirated|VBN editions|NNS which|WDT he|PRP used|VBD to|TO see|VB only|RB at|IN railway|NN stations|NNS but|CC are|VBP now|RB on|IN sale|NN in|IN many|JJ urban|NN markets|NNS too|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START businessmen|NNS and|CC bollywood|NN stars|NNS including|VBG the|DT late|JJ shammi|NN kapoor|NN name|NN rand|NN as|IN an|DT influence|NN though|IN few|JJ politicians|NNS do|VBP the|DT same|JJ </s>|S_END
+<s>|S_START baichung|NN bhutia|NN a|DT football|NN star|NN says|VBZ his|PRP$ fictional|JJ hero|NN is|VBZ the|DT randian|JJ character|NN howard|NN roark|NN </s>|S_END
+<s>|S_START krishnarao|NN jaisim|NN exchair|NN of|IN the|DT indian|JJ institute|NN of|IN architects|NNS named|VBN his|PRP$ firm|NN “jaisim|-NONE- fountainhead”|-NONE- </s>|S_END
+<s>|S_START and—perhaps|RB most|RBS gratifying|VBG of|IN all|DT for|IN those|DT who|WP loathe|DT collectivism|NN and|CC prize|VB the|DT verdict|NN of|IN the|DT market—rand’s|JJ books|NNS outsell|VBP karl|NN marx’s|NNS 16fold|JJ </s>|S_END
+</p>|P_END
+

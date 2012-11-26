@@ -1,0 +1,67 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN could|MD more|RBR stimulus|JJ be|VB on|IN the|DT way|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START federal|JJ reserve|NN chairman|NN ben|NN bernanke|NN certainly|RB left|VBN the|DT option|NN on|IN the|DT table|NN wednesday|NN making|VBG perfectly|RB clear|JJ that|IN he|PRP stands|VBZ ready|RB to|TO do|VB more|JJR should|MD the|DT us|PRP economy|NN take|VB a|DT turn|NN for|IN the|DT worse|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN case|NN things|NNS get|VBP worse|JJR we|PRP are|VBP prepared|VBN to|TO protect|VB the|DT us|PRP economy|NN and|CC financial|JJ system|NN bernanke|NN told|VBD reporters|NNS at|IN a|DT press|NN conference|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP was|VBD a|DT point|NN he|PRP reiterated|VBD several|JJ times|NNS and|CC a|DT sign|NN that|IN many|JJ outsiders|NNS took|VBD to|TO mean|VB the|DT fed|JJ has|VBZ left|VBN the|DT door|NN open|JJ on|IN a|DT third|JJ round|NN of|IN asset|NN purchases|NNS known|VBN as|RB quantitative|JJ easing|NN or|CC qe|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN bernankes|VBZ press|NN conference|NN surely|RB left|VBN few|JJ doubts|NNS that|WDT the|DT fed|VBD will|MD take|VB more|RBR aggressive|JJ action|NN and|CC renew|VB qe|NN if|IN the|DT economy|NN fails|VBZ to|TO perform|NN as|IN they|PRP expect|VBP ian|JJ shepherdson|NN chief|NN us|PRP economist|NN for|IN high|JJ frequency|NN economics|NNS said|VBD in|IN a|DT note|NN to|TO clients|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB university|NN of|IN pennsylvania|NN economist|NN justin|NN wolfers|NNS tweeted|VBD i|PRP read|VBP the|DT fed|VBN as|IN saying|VBG one|CD more|JJR bad|JJ jobs|NNS report|NN and|CC well|RB do|VBP more|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START indeed|RB the|DT job|NN market|NN remains|VBZ one|CD of|IN bernankes|NNS top|VBP concerns|NNS </s>|S_END
+<s>|S_START the|DT unemployment|NN rate|NN is|VBZ still|RB uncomfortably|RB high|JJ at|IN 82|CD and|CC the|DT governments|NNS latest|JJS jobs|NNS report|NN showed|VBD employers|NNS added|VBD only|RB 69000|CD jobs|NNS in|IN may|MD the|DT weakest|JJS hiring|VBG in|IN a|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bernanke|NN also|RB warned|VBD of|IN europes|NNS financial|JJ crisis|NN and|CC uncertainty|NN surrounding|VBG the|DT fiscal|JJ cliff|NN putting|VBG a|DT dent|NN in|IN us|PRP growth|NN </s>|S_END
+<s>|S_START read|NN fiscal|JJ cliff|NN what|WP you|PRP need|VBP to|TO know|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START amid|IN those|DT concerns|NNS the|DT fed|VBN extended|VBD its|PRP$ existing|VBG policy|NN known|NN as|IN operation|NN twist|NN and|CC lowered|VBD its|PRP$ expectations|NNS for|IN the|DT job|NN market|NN and|CC the|DT broader|JJR us|PRP economy|NN this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT central|JJ bank|NN predicts|NNS the|DT unemployment|NN rate|NN will|MD end|VB the|DT year|NN between|IN 8|CD and|CC 82|CD </s>|S_END
+<s>|S_START just|RB two|CD months|NNS ago|RB it|PRP was|VBD more|JJR optimistic|JJ predicting|NN the|DT jobless|NN rate|NN could|MD fall|VB as|IN low|JJ as|IN 78|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START growth|NN in|IN employment|NN has|VBZ slowed|VBN in|IN recent|JJ months|NNS and|CC the|DT unemployment|NN rate|NN remains|VBZ elevated|VBN the|DT fed|VBN said|VBD in|IN an|DT official|NN statement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fed|VBN also|RB sees|VBZ broader|JJR weakness|NN ahead|RB predicting|VBG the|DT economy|NN will|MD grow|VB between|IN 19|CD and|CC 24|CD this|DT year|NN </s>|S_END
+<s>|S_START when|WRB the|DT fed|VBN met|NN back|RB in|IN april|NN it|PRP had|VBD forecasted|VBN that|IN the|DT economy|NN would|MD grow|VB as|IN much|JJ as|IN 29|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT weaker|NN outlook|NN prompted|VBD the|DT fed|VBN to|TO extend|VB operation|NN twist|NN by|IN $|$ 267|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT program|NN swaps|NNS shortterm|VBP bonds|NNS for|IN ones|NNS with|IN longer|JJR durations|NNS thereby|VBP pushing|VBG interest|NN rates|NNS lower|JJR on|IN mortgages|NNS and|CC business|NN loans|NNS </s>|S_END
+<s>|S_START the|DT hope|NN is|VBZ that|IN cheaper|JJR credit|NN will|MD reach|VB consumers|NNS and|CC business|NN who|WP will|MD then|RB boost|VB the|DT economy|NN by|IN spending|NN more|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT effect|NN on|IN main|JJ street|NN has|VBZ been|VBN questionable|JJ though|IN </s>|S_END
+<s>|S_START mortgage|NN rates|NNS are|VBP at|IN record|NN lows|NNS but|CC even|RB so|RB new|JJ home|NN sales|NNS have|VBP been|VBN choppy|JJ and|CC banks|NNS are|VBP still|RB unwilling|VBG to|TO lend|VB to|TO anyone|NN with|IN lessthanperfect|NN credit|NN </s>|S_END
+<s>|S_START small|JJ business|NN owners|NNS are|VBP also|RB struggling|VBG to|TO get|VB loans |JJ </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,58 @@
+<p>|P_START
+<s>|S_START peaking|VBG at|IN a|DT conference|NN organised|VBN by|IN the|DT economist|NN earlier|JJR this|DT year|NN hugh|IN herr|NN a|DT roboticist|NN at|IN the|DT massachusetts|NNS institute|VBP of|IN technology|NN described|VBN disabilities|NNS as|IN conditions|NNS that|IN persist|NN “because|NN of|IN poor|JJ technology”|NN and|CC made|VBD the|DT bold|JJ claim|NN that|WDT during|IN the|DT 21st|CD century|NN disability|NN would|MD be|VB largely|RB eliminated|VBN </s>|S_END
+<s>|S_START what|WP gave|VBD his|PRP$ words|NNS added|VBD force|NN was|VBD that|IN half|DT way|NN through|IN his|PRP$ speech|NN after|IN ten|CD minutes|NNS of|IN strolling|VBG around|IN the|DT stage|NN he|PRP unexpectedly|RB pulled|VBD up|RP his|PRP$ trouser|NN legs|NNS to|TO reveal|VB his|PRP$ bionic|JJ legs|NNS and|CC then|RB danced|VBD a|DT little|RB jig|JJ </s>|S_END
+<s>|S_START in|IN future|JJ he|PRP suggested|VBD people|NNS might|MD choose|VB to|TO replace|VB an|DT arthritic|JJ painful|JJ limb|NN with|IN a|DT fully|RB functional|JJ robotic|JJ one|CD </s>|S_END
+<s>|S_START “why|JJ wouldn’t|NN you|PRP replace|VBP it”|-NONE- he|PRP asked|VBD </s>|S_END
+<s>|S_START “we’re|JJ going|NN to|TO see|VB a|DT lot|NN of|IN unusual|JJ situations|NNS like|IN that”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP is|VBZ precisely|RB to|TO consider|VB these|DT sorts|NNS of|IN situations|NNS and|CC the|DT legal|JJ and|CC ethical|JJ conundrums|NNS they|PRP will|MD pose|VB that|IN a|DT new|JJ research|NN project|NN was|VBD launched|VBN in|IN march|NN </s>|S_END
+<s>|S_START is|VBZ a|DT prosthetic|JJ legally|RB part|NN of|IN your|PRP$ body|NN </s>|S_END
+<s>|S_START when|WRB is|VBZ it|PRP appropriate|VBP to|TO amputate|VB a|DT limb|NN and|CC replace|NN it|PRP with|IN a|DT robotic|JJ one|CD </s>|S_END
+<s>|S_START what|WP are|VBP the|DT legal|JJ rights|NNS of|IN a|DT person|NN with|IN “locked|JJ in”|NN syndrome|NN who|WP communicates|VBZ via|IN a|DT braincomputer|NN interface|NN </s>|S_END
+<s>|S_START do|VBP brain|VBN implants|NNS and|CC bodyenhancement|NN devices|NNS require|VBP changes|NNS to|TO the|DT definition|NN of|IN disability|NN </s>|S_END
+<s>|S_START the|DT robolaw|NN project|NN is|VBZ an|DT effort|NN to|TO anticipate|VB such|JJ quandaries|NNS and|CC work|VB out|RP where|WRB and|CC how|WRB legal|JJ frameworks|NNS might|MD need|VB to|TO be|VB changed|VBN as|IN the|DT technology|NN of|IN bionics|NNS and|CC neural|JJ interfaces|NNS improve|VBP </s>|S_END
+<s>|S_START funded|VBD to|TO the|DT tune|NN of|IN €19m|JJ $|$ 23m|CD of|IN which|WDT €14m|-NONE- comes|VBZ from|IN the|DT european|JJ commission|NN it|PRP brings|VBZ together|RB experts|NNS from|IN engineering|NN law|NN regulation|NN philosophy|NN and|CC human|NN enhancement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START erica|NN palmerini|NN of|IN the|DT scuola|NN superiore|NN sant’anna|NN sssa|NN in|IN pisa|NN italy|RB which|WDT is|VBZ directing|VBG the|DT project|NN says|VBZ there|EX is|VBZ an|DT “urgent|JJ need”|NN for|IN regulation|NN and|CC legislation|NN to|TO manage|VB new|JJ technologies|NNS like|IN prosthetics|NNS and|CC implant|JJ </s>|S_END
+<s>|S_START if|IN you|PRP are|VBP dependent|JJ on|IN a|DT robotic|JJ wheelchair|NN for|IN mobility|NN for|IN example|NN does|VBZ the|DT wheelchair|NN count|NN as|IN part|NN of|IN your|PRP$ body|NN </s>|S_END
+<s>|S_START linda|NN macdonald|VBD glenn|NN an|DT american|JJ lawyer|NN and|CC bioethicist|NN thinks|NNS it|PRP doe|VBP </s>|S_END
+<s>|S_START ms|NNS glenn|VBP who|WP is|VBZ not|RB involved|VBN in|IN the|DT robolaw|NN project|NN persuaded|VBD an|DT initially|RB sceptical|JJ insurance|NN firm|NN that|IN a|DT “mobility|NN assistance|NN device”|NN damaged|VBD by|IN airline|NN staff|NN was|VBD more|JJR than|IN her|PRP$ client’s|NNS personal|JJ property|NN it|PRP was|VBD an|DT extension|NN of|IN his|PRP$ physical|JJ body|NN </s>|S_END
+<s>|S_START the|DT airline|NN settled|VBD out|RP of|IN court|NN </s>|S_END
+<s>|S_START imilarly|RB neil|VBP harbisson|NN a|DT colourblind|NN artist|NN who|WP wears|NNS an|DT “eyeborg”—a|JJ device|NN that|WDT enables|VBZ him|PRP to|TO “hear”|NNP colours—successfully|RB argued|VBD with|IN british|JJ authorities|NNS that|WDT he|PRP should|MD be|VB allowed|VBN to|TO wear|VB the|DT device|NN in|IN his|PRP$ passport|NN picture|NN on|IN the|DT basis|NN that|IN it|PRP is|VBZ part|NN of|IN his|PRP$ body|NN </s>|S_END
+<s>|S_START these|DT are|VBP just|RB early|JJ examples|NNS of|IN the|DT sorts|NNS of|IN legal|JJ problems|NNS to|TO come|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START each|DT of|IN the|DT institutions|NNS participating|VBG in|IN the|DT robolaw|NN project|NN will|MD concentrate|VB on|IN a|DT different|JJ area|NN </s>|S_END
+<s>|S_START pecialists|NNS in|IN technology|NN law|NN at|IN the|DT tilburg|NN institute|NN for|IN law|NN technology|NN and|CC society|NN in|IN the|DT netherlands|NNS are|VBP drawing|VBG up|RP a|DT taxonomy|NN of|IN robotic|JJ devices|NNS and|CC matching|VBG them|PRP against|IN existing|VBG legal|JJ terminology|NN to|TO identify|VB potential|JJ legal|JJ problems|NNS relating|VBG to|TO the|DT definitions|NNS of|IN human|JJ autonomy|NN disability|NN normalcy|NN and|CC equality|NN </s>|S_END
+<s>|S_START for|IN example|NN if|IN robotic|JJ devices|NNS can|MD restore|VB sight|NN or|CC mobility|NN it|PRP may|MD be|VB necessary|JJ to|TO redefine|NN what|WP disability|NN is—which|-NONE- might|MD in|VB turn|NN conflict|NN with|IN the|DT assumptions|NNS on|IN which|WDT existing|VBG disabilityrights|NNS legislation|NN is|VBZ based|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START philosophers|NNS at|IN the|DT humboldt|NN university|NN of|IN berlin|NN meanwhile|RB are|VBP exploring|VBG the|DT various|JJ ways|NNS in|IN which|WDT robotic|JJ technologies|NNS challenge|VBP the|DT notion|NN of|IN what|WP it|PRP means|VBZ to|TO be|VB human|JJ </s>|S_END
+<s>|S_START to|TO what|WP extent|NN is|VBZ it|PRP defined|VBD by|IN having|NN a|DT body|NN of|IN a|DT particular|JJ shape|NN or|CC by|IN cultural|JJ factor|NN </s>|S_END
+<s>|S_START technologies|NNS such|JJ as|IN exoskeletons|NNS that|WDT provide|VB increased|VBD strength|NN and|CC implants|NNS that|WDT improve|VB memory|NN will|MD put|VB both|DT definitions|NNS under|IN pressure|NN </s>|S_END
+<s>|S_START humanenhancement|NN researchers|NNS at|IN the|DT university|NN of|IN reading|NN for|IN their|PRP$ part|NN are|VBP considering|VBG future|JJ technologies|NNS such|JJ as|IN embedded|JJ devices|NNS that|WDT enhance|NN the|DT senses|NNS or|CC add|VB new|JJ ones|NNS and|CC implants|NNS that|WDT improve|VB memory|NN or|CC allow|VBP messages|NNS to|TO be|VB sent|VBN or|CC devices|NNS to|TO be|VB controlled|VBN using|VBG thought|NN alone|RB </s>|S_END
+<s>|S_START uch|JJ devices|NNS might|MD initially|RB be|VB used|VBN to|TO overcome|VB disability|NN but|CC could|MD also|RB be|VB used|VBN to|TO augment|VB and|CC increase|VB the|DT performance|NN of|IN the|DT ablebodied|JJ </s>|S_END
+<s>|S_START indeed|RB the|DT main|JJ ethical|JJ questions|NNS posed|VBN by|IN the|DT integration|NN of|IN technology|NN into|IN the|DT body|NN concern|NN the|DT augmentation|NN of|IN existing|VBG capabilities|NNS rather|RB than|IN the|DT restoration|NN of|IN missing|VBG or|CC lost|JJS ones|NNS says|VBZ pericle|NN salvini|NN of|IN the|DT sssa|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START implants|NNS may|MD also|RB raise|VB new|JJ questions|NNS about|IN privacy|NN and|CC guardianship|NN </s>|S_END
+<s>|S_START already|RB braincomputer|JJR interfaces|NNS can|MD enable|VB totally|RB paralysed|VBN people|NNS with|IN lockedin|NN syndrome|NN to|TO communicate|VB </s>|S_END
+<s>|S_START but|CC what|WP legal|JJ status|NN should|MD be|VB attributed|VBN to|TO their|PRP$ communication|NN </s>|S_END
+<s>|S_START and|CC does|VBZ a|DT person|NN communicating|VBG using|VBG such|JJ a|DT device|NN still|RB require|VB a|DT guardian|JJ to|TO make|VB legal|JJ and|CC medical|JJ decisions|NNS on|IN his|PRP$ or|CC her|PRP$ behalf|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START regulators|NNS must|MD tread|VB carefully|RB </s>|S_END
+<s>|S_START noel|NN sharkey|NN a|DT computer|NN scientist|NN at|IN the|DT university|NN of|IN sheffield|NN observes|NNS that|WDT overly|RB rigid|VBD regulations|NNS might|MD stifle|VB innovation|NN </s>|S_END
+<s>|S_START but|CC a|DT lack|NN of|IN legal|JJ clarity|NN leaves|VBZ devicemakers|NNS doctors|NNS patients|NNS and|CC insurers|NNS in|IN the|DT dark|JJ </s>|S_END
+<s>|S_START the|DT robolaw|NN researchers|NNS hope|VBP to|TO square|VB this|DT circle|NN when|WRB they|PRP deliver|VBP their|PRP$ findings|NNS in|IN 2014|CD </s>|S_END
+<s>|S_START o|NN far|RB though|IN they|PRP seem|VBP to|TO have|VB more|JJR questions|NNS than|IN answer|NN </s>|S_END
+</p>|P_END
+

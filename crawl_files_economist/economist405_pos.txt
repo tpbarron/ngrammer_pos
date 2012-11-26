@@ -1,0 +1,163 @@
+<p>|P_START
+<s>|S_START colourless|NN odourless|NN lighter|NN than|IN air|NN </s>|S_END
+<s>|S_START natural|JJ gas|NN may|MD not|RB have|VB much|JJ impact|NN on|IN the|DT senses|NNS but|CC as|IN a|DT source|NN of|IN heat|NN and|CC power|NN it|PRP is|VBZ transforming|VBG energy|NN market|NN </s>|S_END
+<s>|S_START around|IN 100ad|JJ plutarch|NN a|DT graecoroman|NN poet|NN noted|VBD the|DT “eternal|JJ fires”|NN in|IN what|WP is|VBZ now|RB iraq|NN </s>|S_END
+<s>|S_START they|PRP were|VBD probably|RB methane|JJ gas|NN seeping|VBG out|RP of|IN the|DT ground|NN ignited|VBD by|IN lightning|NN </s>|S_END
+<s>|S_START those|DT eternal|JJ fires|NNS are|VBP now|RB proliferating|VBG </s>|S_END
+<s>|S_START an|DT unexpected|VBN boom|NN in|IN shale|NN gas|NN that|WDT has|VBZ taken|VBN off|RP in|IN america|NN may|MD well|RB spread|VB elsewhere|RB and|CC will|MD add|VB massively|RB to|TO global|JJ gas|NN supplie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hale|NN gas—an|JJ “unconventional”|NN source|NN of|IN methane|NN like|IN coalbed|VBN gas|NN in|IN coal|NN seams|NNS and|CC tight|JJ gas|NN trapped|VBD in|IN rock|NN formations—has|-NONE- rapidly|RB transformed|VBN america’s|-NONE- energy|NN outlook|NN </s>|S_END
+<s>|S_START at|IN the|DT same|JJ time|NN discoveries|NNS of|IN vast|JJ reserves|NNS of|IN conventional|JJ gas|NN from|IN traditional|JJ wells|NNS have|VBP pushed|VBN up|RP known|VBN reserves|NNS around|IN the|DT world|NN </s>|S_END
+<s>|S_START gas|NN is|VBZ the|DT only|JJ fossil|NN fuel|NN set|NN to|TO increase|VB its|PRP$ share|NN of|IN energy|NN demand|NN in|IN the|DT years|NNS to|TO come|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN a|DT long|JJ time|NN it|PRP was|VBD regarded|VBN as|IN oil’s|JJ poor|NN relation|NN </s>|S_END
+<s>|S_START in|IN the|DT late|JJ 18th|CD century|NN william|NN murdoch|NN a|DT scottish|JJ engineer|NN used|VBN it|PRP to|TO light|JJ his|PRP$ house|NN but|CC it|PRP did|VBD not|RB catch|VB on|IN until|IN some|DT decades|NNS later|JJ when|WRB it|PRP became|VBD popular|JJ for|IN illuminating|NN homes|NNS and|CC streets|NNS replacing|VBG flickering|VBG candle|NN </s>|S_END
+<s>|S_START commercial|JJ exploitation|NN of|IN gas|NN and|CC oil|NN began|VBD around|IN the|DT same|JJ time|NN yet|RB gas|VBZ remained|VBN a|DT niche|NN product|NN for|IN lighting|VBG </s>|S_END
+<s>|S_START and|CC despite|IN its|PRP$ rapid|JJ rise|NN in|IN recent|JJ years|NNS it|PRP will|MD still|RB lag|VB oil|NN as|IN a|DT source|NN of|IN energy|NN by|IN 2035|CD according|VBG to|TO the|DT international|JJ energy|NN agency|NN iea|NN a|DT richworld|NN energy|NN club—and|NN overtake|NN coal|NN by|IN then|RB only|RB if|IN the|DT new|JJ gas|NN reserves|NNS are|VBP fully|RB exploited|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT trouble|NN with|IN gas|NN is|VBZ that|IN it|PRP is|VBZ difficult|JJ and|CC expensive|JJ to|TO transport|VB </s>|S_END
+<s>|S_START that|DT used|VBN to|TO be|VB true|JJ of|IN oil|NN too|RB but|CC since|IN the|DT development|NN of|IN supertankers|NNS in|IN the|DT 1960s|CD it|PRP can|MD be|VB shifted|VBN relatively|RB cheaply|RB to|TO find|VB a|DT customer|NN in|IN the|DT world|NN market|NN </s>|S_END
+<s>|S_START gas|NN needs|VBZ a|DT ready|JJ buyer|NN and|CC a|DT way|NN of|IN delivering|VBG it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT priceless|NN commodity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START because|IN of|IN those|DT hefty|JJ transport|NN costs|NNS gas|NN does|VBZ not|RB behave|VB like|IN a|DT commodity|NN </s>|S_END
+<s>|S_START only|RB onethird|VBD of|IN all|DT gas|NN is|VBZ traded|VBN across|IN borders|NNS compared|VBN with|IN twothirds|NNS of|IN oil|NN </s>|S_END
+<s>|S_START other|JJ commodities|NNS fetch|VBP roughly|RB the|DT same|JJ price|NN the|DT world|NN over|IN but|CC gas|NN has|VBZ no|DT global|JJ price|NN </s>|S_END
+<s>|S_START in|IN america|NN as|IN well|RB as|IN in|IN britain|NN and|CC australia|NN it|PRP is|VBZ traded|VBN freely|RB and|CC prices|NNS are|VBP set|VBN through|IN competition|NN </s>|S_END
+<s>|S_START in|IN continental|JJ europe|NN traded|VBN gas|NN markets|NNS are|VBP gaining|VBG a|DT foothold|NN but|CC most|JJS gas|NNS is|VBZ delivered|VBN through|IN pipelines|NNS and|CC sold|VBD on|IN longterm|NN contracts|NNS linked|VBN to|TO the|DT price|NN of|IN oil|NN for|IN which|WDT it|PRP used|VBD to|TO be|VB seen|VBN as|IN a|DT substitute|NN </s>|S_END
+<s>|S_START gaspoor|NN asia|NN relies|NNS heavily|RB on|IN imports|NNS of|IN liquefied|JJ natural|JJ gas|NN lng|NN </s>|S_END
+<s>|S_START “stranded|JJ gas”|NN too|RB far|RB from|IN its|PRP$ markets|NNS to|TO go|VB down|RP a|DT pipe|NN can|MD be|VB turned|VBN into|IN a|DT liquid|JJ by|IN cooling|NN it|PRP to|TO 162°c|CD shipped|VBN in|IN specialist|NN tankers|NNS and|CC turned|VBD back|RP into|IN gas|NN at|IN its|PRP$ destination|NN </s>|S_END
+<s>|S_START but|CC the|DT huge|JJ plants|NNS needed|VBN to|TO do|VB the|DT job|NN at|IN both|DT ends|NNS are|VBP very|RB costly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ince|NN gas|VBD prices|NNS in|IN different|JJ parts|NNS of|IN the|DT world|NN are|VBP set|VBN by|IN quite|RB different|JJ mechanisms|NNS they|PRP vary|VBP wildly|RB across|IN the|DT globe|NN </s>|S_END
+<s>|S_START in|IN america|NN where|WRB shale|JJ gas|NN is|VBZ whooshing|VBG out|RP of|IN the|DT ground|NN they|PRP recently|RB fell|VBD to|TO a|DT tenyear|NN low|JJ </s>|S_END
+<s>|S_START in|IN asia|NN they|PRP can|MD be|VB ten|VBN times|NNS the|DT american|NN level|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gas|NN all|DT over|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START global|JJ reserves|NNS have|VBP been|VBN steadily|RB increasing|VBG for|IN at|IN least|JJS 30|CD year|NN </s>|S_END
+<s>|S_START according|VBG to|TO a|DT report|NN from|IN the|DT massachusetts|NNS institute|VBP of|IN technology|NN mit|NN published|VBD last|JJ year|NN world|NN production|NN has|VBZ grown|VBN significantly|RB too|RB rising|VBG by|IN twofifths|NNS between|IN 1990|CD and|CC 2009|CD twice|NN as|IN fast|JJ as|IN that|DT of|IN oil|NN </s>|S_END
+<s>|S_START only|RB half|DT a|DT decade|NN ago|IN it|PRP looked|VBD as|IN though|IN the|DT world|NN might|MD have|VB only|RB 50|CD or|CC 60|CD yearsworth|JJ of|IN ga|NN </s>|S_END
+<s>|S_START now|RB shale|VBP and|CC other|JJ unconventional|JJ as|IN well|RB as|IN new|JJ conventional|JJ gas|NN finds|NNS have|VBP increased|VBN that|IN period|NN to|TO 200|CD years|NNS or|CC more|JJR by|IN some|DT estimate|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT unconventionalgas|NN bonanza|NN has|VBZ roughly|RB doubled|VBN the|DT gas|NN resource|NN base|NN a|DT measure|NN of|IN the|DT total|JJ gas|NN in|IN the|DT ground|NN rather|RB than|IN what|WP might|MD be|VB economically|RB recoverable|JJ </s>|S_END
+<s>|S_START in|IN 2009|CD the|DT iea|NN estimated|VBD the|DT “longterm|JJ global|JJ recoverable|JJ gas|NN resource|NN base”|NN at|IN 850|CD trillion|CD cubic|JJ metres|NNS tcm|VBP against|IN 400tcm|CD only|RB a|DT year|NN earlier|JJR </s>|S_END
+<s>|S_START the|DT main|JJ reason|NN for|IN the|DT rethink|NN was|VBD shale|JJ gas|NN and|CC other|JJ unconventional|JJ </s>|S_END
+<s>|S_START not|RB just|RB america|VB but|CC parts|NNS of|IN europe|NN china|NN argentina|NN brazil|NN mexico|NN canada|NN and|CC several|JJ african|JJ countries|NNS among|IN others|NNS sit|VBP atop|JJ as|IN yet|RB unknown|VBN quantities|NNS of|IN gas|NN that|IN could|MD transform|VB their|PRP$ energy|NN outlook|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START better|JJR technology|NN has|VBZ helped|VBN and|CC so|RB has|VBZ the|DT high|JJ oil|NN price|NN </s>|S_END
+<s>|S_START the|DT spiralling|NN price|NN of|IN crude|JJ has|VBZ caused|VBN oil|NN companies|NNS to|TO search|VB even|RB harder|JJR for|IN it|PRP </s>|S_END
+<s>|S_START but|CC before|IN a|DT test|NN well|RB has|VBZ been|VBN drilled|VBN it|PRP is|VBZ nearimpossible|JJ to|TO be|VB sure|JJ whether|IN the|DT geological|JJ idiosyncrasies|NNS that|WDT excite|IN oilmen|NNS will|MD yield|VB either|DT oil|NN or|CC gas|NN or|CC sometimes|RB both|DT and|CC often|RB nothing|NN </s>|S_END
+<s>|S_START of|IN late|JJ big|JJ oil|NN companies|NNS have|VBP found|VBN plenty|NN of|IN ga|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START not|RB only|RB have|VBP breakthroughs|NNS in|IN technology|NN opened|VBD up|RP america’s|JJ shale|NN beds|NNS but|CC advances|NNS in|IN drilling|VBG in|IN very|RB deep|JJ water|NN have|VBP dramatically|RB changed|VBN exploration|NN in|IN the|DT sea|NN </s>|S_END
+<s>|S_START australia|NN will|MD emerge|VB as|IN a|DT gas|NN superpower|NN as|IN it|PRP begins|VBZ to|TO deliver|VB large|JJ quantities|NNS of|IN lng|JJ from|IN offshore|JJ field|NN </s>|S_END
+<s>|S_START and|CC better|JJR technology|NN and|CC global|JJ warming|NN is|VBZ unlocking|VBG the|DT arctic’s|JJ natural|JJ bounty|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC there|EX are|VBP reservation|NN </s>|S_END
+<s>|S_START last|JJ year|NN the|DT iea|NN published|VBD a|DT report|NN entitled|VBD “are|JJ we|PRP entering|VBG a|DT golden|JJ age|NN of|IN gas”|NN the|DT question|NN mark|NN reflects|VBZ the|DT constraints|NNS that|WDT public|JJ disquiet|NN about|IN shale|NN gas|NN might|MD put|VB on|IN its|PRP$ development|NN </s>|S_END
+<s>|S_START that|DT is|VBZ one|CD reason|NN why|WRB fatih|NN birol|NN the|DT iea’s|NNP chief|NN economist|NN is|VBZ far|RB from|IN certain|JJ that|IN america’s|JJ shale|NN boom|NN can|MD be|VB replicated|VBN elsewhere|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT most|RBS promising|JJ scenario|NN if|IN shale|NN development|NN goes|VBZ full|JJ steam|NN ahead|RB the|DT iea|NN reckons|NNS that|WDT the|DT share|NN of|IN gas|NN in|IN the|DT global|JJ energy|NN mix|NN will|MD rise|VB from|IN 21|CD today|NN to|TO 25|CD in|IN 2035|CD </s>|S_END
+<s>|S_START that|DT may|MD not|RB sound|VB much|JJ of|IN an|DT increase|NN but|CC over|IN that|DT period|NN total|NN global|NN consumption|NN will|MD grow|VB spectacularly|RB </s>|S_END
+<s>|S_START if|IN the|DT obstacles|NNS can|MD be|VB overcome|VBN more|RBR gas|NN and|CC lower|JJR prices|NNS will|MD mean|VB a|DT rise|NN of|IN 50|CD in|IN global|JJ demand|NN for|IN gas|NN between|IN 2010|CD and|CC 2035|CD according|VBG to|TO the|DT iea|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP has|VBZ made|VBN gas|NN so|IN exciting|VBG is|VBZ not|RB just|RB the|DT steep|JJ rise|NN in|IN supply|NN but|CC also|RB the|DT wide|JJ range|NN of|IN uses|NNS for|IN it|PRP </s>|S_END
+<s>|S_START it|PRP is|VBZ a|DT flexible|JJ fuel|NN capable|JJ of|IN heating|NN homes|NNS fuelling|VBG industrial|JJ boilers|NNS and|CC providing|VBG feedstock|NN for|IN the|DT petrochemicals|NNS industry|NN where|WRB it|PRP is|VBZ turned|VBN into|IN plastics|NNS fertiliser|JJR and|CC other|JJ useful|JJ stuff|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ also|RB making|VBG small|JJ but|CC significant|JJ progress|NN as|IN a|DT fuel|NN for|IN lorries|NNS and|CC buse|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT biggest|JJS advances|NNS have|VBP been|VBN in|IN power|NN generation|NN </s>|S_END
+<s>|S_START a|DT technological|JJ breakthrough|NN the|DT combinedcycle|NN gas|NN turbine|NN a|DT spinoff|NN from|IN the|DT aviation|NN industry|NN has|VBZ transformed|VBN the|DT economics|NNS of|IN the|DT industry|NN </s>|S_END
+<s>|S_START not|RB only|RB has|VBZ it|PRP made|VBD it|PRP cheaper|JJR to|TO generate|VB electricity|NN from|IN gas|NN but|CC the|DT process|NN releases|NNS up|IN to|TO 50|CD less|JJR carbon|NN dioxide|NN than|IN does|VBZ coal|NN </s>|S_END
+<s>|S_START as|IN governments|NNS strive|VBP to|TO cut|VB greenhousegas|NNS emissions|NNS replacing|VBG coal|NN with|IN gas|NN will|MD bring|VB fairly|RB swift|VB result|NN </s>|S_END
+<s>|S_START already|RB the|DT share|NN of|IN gas|NN in|IN the|DT overall|JJ energy|NN mix|NN which|WDT had|VBD remained|VBN at|IN 16|CD from|IN the|DT late|JJ 1960s|CD to|TO the|DT 1990s|CD has|VBZ risen|VBN to|TO 21|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gas|NN power|NN stations|NNS are|VBP a|DT “lowregret”|JJ option|NN according|VBG to|TO michael|VB stoppard|NN of|IN ihs|NNS cera|VBP a|DT research|NN firm|NN </s>|S_END
+<s>|S_START they|PRP are|VBP relatively|RB cheap|JJ to|TO build|VB beating|NN nuclear|NN power|NN hands|NNS down|IN in|IN terms|NNS of|IN capital|NN costs|NNS and|CC in|IN most|JJS cases|NNS they|PRP are|VBP also|RB less|RBR expensive|JJ than|IN renewable|JJ </s>|S_END
+<s>|S_START the|DT eu|NN hopes|VBZ that|IN by|IN 2050|CD some|DT 97|CD of|IN power|NN generation|NN will|MD come|VB from|IN renewables|NNS but|CC gas|NN power|NN stations|NNS are|VBP likely|JJ to|TO be|VB needed|VBN for|IN decades|NNS yet|RB to|TO provide|VB flexibility|NN and|CC security|NN </s>|S_END
+<s>|S_START and|CC if|IN gas|NN is|VBZ cheap|NN enough|RB and|CC techniques|NNS such|JJ as|IN carbon|NN capture|NN and|CC storage|NN can|MD be|VB developed|VBN to|TO make|VB commercial|JJ sense|NN gas|NN could|MD thrive|VB for|IN much|RB longer|JJR even|RB in|IN a|DT world|NN that|WDT had|VBD radically|RB cut|VBN carbon|NN emission|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START except|IN in|IN america|NN though|IN gas|NN is|VBZ currently|RB expensive|JJ and|CC shifting|VBG it|PRP is|VBZ likely|JJ to|TO remain|VB costly|RB </s>|S_END
+<s>|S_START gas|NN markets|NNS are|VBP regional|JJ </s>|S_END
+<s>|S_START the|DT stuff|NN is|VBZ mainly|RB delivered|VBN down|RP pipelines|NNS that|WDT stretch|NN across|IN countries|NNS and|CC even|RB continents|NNS but|CC not|RB between|IN them|PRP </s>|S_END
+<s>|S_START pipelines|NNS cost|VBP million|CD of|IN dollars|NNS a|DT kilometre|NN to|TO build|VB </s>|S_END
+<s>|S_START the|DT business|NN model|NN of|IN developing|VBG a|DT gasfield|NN has|VBZ been|VBN to|TO find|VB buyers|NNS and|CC lock|NN them|PRP into|IN longterm|NN contracts|NNS to|TO ensure|VB that|IN the|DT costs|NNS of|IN developing|VBG and|CC delivering|VBG the|DT gas|NN will|MD be|VB paid|VBN back|RP </s>|S_END
+<s>|S_START the|DT alternative|NN is|VBZ to|TO ship|NN the|DT gas|NN in|IN liquid|NN form|NN as|IN lng|JJ </s>|S_END
+<s>|S_START but|CC projects|NNS to|TO liquefy|VB gas|NN also|RB require|VB huge|JJ investments|NNS and|CC often|RB finding|VBG longterm|NN buyers|NNS too|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START well|RB oiled|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START historical|JJ factors|NNS have|VBP led|VBN to|TO another|DT anomaly|RB much|JJ of|IN the|DT gas|NN traded|VBN across|IN borders|NNS is|VBZ sold|VBN at|IN prices|NNS linked|VBN to|TO those|DT of|IN crude|JJ oil|NN </s>|S_END
+<s>|S_START when|WRB gas|NN was|VBD first|JJ brought|NN to|TO market|NN as|IN a|DT commercial|JJ fuel|NN in|IN the|DT 1960s|CD as|IN an|DT alternative|NN to|TO home|NN heating|NN oil|NN it|PRP made|VBD sense|NN to|TO price|NN it|PRP against|IN a|DT substitute|NN </s>|S_END
+<s>|S_START but|CC there|EX was|VBD also|RB a|DT more|RBR subtle|JJ reason|NN </s>|S_END
+<s>|S_START oil|NN was|VBD used|VBN as|IN an|DT independent|JJ price|NN arbiter|NN for|IN dutch|NN gas|NN in|IN the|DT 1960s|CD and|CC then|RB for|IN algerian|JJ and|CC norwegian|JJ gas|NN in|IN the|DT 1970s|CD because|IN neither|DT side|NN could|MD influence|VB the|DT supply|NN and|CC demand|NN for|IN it|PRP </s>|S_END
+<s>|S_START the|DT system|NN persisted|VBD as|IN russian|JJ gas|NN came|VBD to|TO europe|VB in|IN the|DT late|JJ 1970|CD </s>|S_END
+<s>|S_START but|CC the|DT economics|NNS have|VBP changed|VBN and|CC valuing|NN one|CD commodity|NN in|IN terms|NNS of|IN another|DT now|RB seems|VBZ bizarre|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START britain|NN has|VBZ had|VBN competition|NN based|VBN on|IN supply|NN and|CC demand|NN since|IN the|DT deregulation|NN of|IN the|DT energy|NN industry|NN in|IN the|DT 1990|CD </s>|S_END
+<s>|S_START the|DT fuel|NN is|VBZ traded|VBN at|IN the|DT national|JJ balancing|NN point|NN a|DT virtual|JJ hub|NN </s>|S_END
+<s>|S_START imilar|JJ arrangements|NNS are|VBP now|RB spreading|VBG across|IN northwestern|JJ europe|NN as|IN the|DT european|JJ union|NN is|VBZ switching|VBG to|TO hubbased|VBN gas|NN trading|NN at|IN the|DT virtual|JJ title|NN transfer|NN facility|NN ttf|NN as|IN well|RB as|IN at|IN zeebrugge|NN in|IN belgium|NN and|CC netconnect|VB germany|NN ncg|NN and|CC gaspool|NN in|IN germany|NN </s>|S_END
+<s>|S_START the|DT model|NN is|VBZ america’s|JJ henry|NN hub|NN in|IN louisiana|NN where|WRB nine|CD interstate|JJ gas|NN pipelines|NNS meet|VBP and|CC from|IN where|WRB the|DT gas|NN is|VBZ distributed|VBN to|TO buyers|NNS setting|VBG a|DT benchmark|NN for|IN prices|NNS across|IN america|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT more|RBR competitive|JJ market|NN the|DT world|NN over|IN would|MD doubtless|VB make|VB gas|NN cheaper|JJR by|IN breaking|NN the|DT link|NN with|IN oil|NN but|CC that|IN will|MD be|VB difficult|JJ to|TO bring|VB about|IN </s>|S_END
+<s>|S_START gazprom|IN russia’s|JJ huge|JJ staterun|NN gas|NN producer|NN and|CC supplier|NN of|IN 25|CD of|IN europe’s|JJ gas|NN is|VBZ strongly|RB opposed|VBN to|TO dropping|NN oil|NN indexation|NN </s>|S_END
+<s>|S_START a|DT tussle|NN is|VBZ under|IN way|NN between|IN it|PRP and|CC the|DT continent’s|NNP big|JJ buyer|NN </s>|S_END
+<s>|S_START ome|NN pundits|NNS say|VBP that|IN gas|NN must|MD eventually|RB become|VB a|DT global|JJ fungible|JJ product|NN like|IN oil|NN with|IN regional|JJ price|NN differences|NNS closing|VBG as|IN more|JJR gas|NNS is|VBZ shifted|VBN in|IN the|DT form|NN of|IN lng|NN draining|VBG gluts|NNS and|CC making|VBG up|RP shortfalls|NNS in|IN regional|JJ production|NN in|IN north|JJ america|NN europe|NN and|CC asia|NN </s>|S_END
+<s>|S_START but|CC others|NNS reckon|VBP it|PRP will|MD never|RB happen|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gas|NN producers|NNS are|VBP naturally|RB happy|JJ with|IN the|DT high|JJ prices|NNS resulting|VBG from|IN oil|NN indexation|NN arguing|VBG that|IN without|IN them|PRP the|DT economics|NNS of|IN big|JJ gas|NN projects|NNS would|MD never|RB work|VB </s>|S_END
+<s>|S_START but|CC rick|VBP smead|JJ of|IN navigant|JJ a|DT consultancy|NN thinks|VBZ there|EX are|VBP good|JJ reasons|NNS for|IN all|DT concerned|VBN to|TO want|VB competitive|JJ gas|NN price|NN </s>|S_END
+<s>|S_START he|PRP points|VBZ out|RP that|IN they|PRP would|MD reduce|VB regional|JJ price|NN volatility|NN and|CC provide|VB gas|NN producers|NNS with|IN a|DT broad|JJ and|CC flexible|JJ market|NN instead|RB of|IN having|VBG to|TO rely|RB on|IN a|DT single|JJ consumer|NN at|IN the|DT end|NN of|IN a|DT pipeline|NN </s>|S_END
+<s>|S_START that|DT should|MD offer|VB an|DT incentive|JJ to|TO make|VB the|DT huge|JJ investments|NNS required|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT “shale|JJ gale”|NN blowing|VBG through|IN america|NN can|MD be|VB replicated|VBN worldwide|NN the|DT huge|JJ surpluses|NNS it|PRP would|MD bring|VB could|MD hasten|VB the|DT advent|NN of|IN a|DT global|JJ market|NN </s>|S_END
+<s>|S_START just|RB as|IN the|DT 20th|CD century|NN was|VBD the|DT age|NN of|IN oil|NN the|DT 21st|CD could|MD prove|VB to|TO be|VB the|DT century|NN of|IN ga|NN </s>|S_END
+</p>|P_END
+

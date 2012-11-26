@@ -1,0 +1,48 @@
+<p>|P_START
+<s>|S_START when|WRB julia|NN gillard|NN appointed|VBD peter|NN slipper|NN as|IN speaker|NN of|IN australia’s|JJ federal|JJ parliament|NN it|PRP seemed|VBD a|DT clever|NN tactical|JJ ploy|NN to|TO bolster|VB the|DT standing|NN of|IN her|PRP$ minority|NN labor|NN government|NN </s>|S_END
+<s>|S_START “slippery|JJ pete”|NN had|VBD fallen|VBN out|RP with|IN his|PRP$ conservative|JJ opposition|NN colleague|NN </s>|S_END
+<s>|S_START his|PRP$ elevation|NN deprived|VBD them|PRP of|IN a|DT parliamentary|JJ vote|NN </s>|S_END
+<s>|S_START less|JJR than|IN a|DT year|NN later|JJ the|DT ploy|NN crumbled|VBD </s>|S_END
+<s>|S_START mr|NN slipper|NN quit|NN tearfully|RB on|IN october|NN 9th|CD over|IN sleazy|JJ text|NN messages|NNS he|PRP had|VBD sent|VBN to|TO a|DT former|JJ staff|NN member|NN </s>|S_END
+<s>|S_START the|DT drama|NN erupted|VBD amid|IN a|DT broader|JJR debate|NN over|IN sexist|NN political|JJ attacks|NNS against|IN ms|NNS gillard|VBP the|DT first|JJ woman|NN prime|NN minister|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN his|PRP$ erratic|JJ political|JJ past|NN mr|NN slipper’s|NNS appointment|NN carried|VBD risk|NN </s>|S_END
+<s>|S_START in|IN may|MD barely|RB six|CD months|NNS into|IN the|DT role|NN he|PRP stood|VBD aside|VB as|IN speaker|NN after|IN james|NNS ashby|VBP the|DT former|JJ staffer|NN accused|VBD him|PRP of|IN sexual|JJ harassment|NN mr|NN slipper|NN retained|VBD the|DT perks|NNS of|IN office|NN until|IN the|DT allegations|NNS were|VBD resolved|VBN </s>|S_END
+<s>|S_START text|NN messages|NNS between|IN mr|NN ashby|NN and|CC mr|NN slipper|NN some|DT from|IN just|RB before|IN he|PRP became|VBD speaker|NN caused|VBN a|DT sensation|NN in|IN court|NN evidence|NN on|IN october|NN 8th|CD </s>|S_END
+<s>|S_START mr|NN slipper|NN used|VBD offensive|JJ language|NN referring|VBG to|TO women’s|NNS genitals|NNS and|CC he|PRP quizzed|VBD mr|NN ashby|NN about|IN his|PRP$ sex|NN life|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tony|NN abbott|VBD leader|NN of|IN the|DT conservative|JJ liberal|NN party|NN opposition|NN called|VBN on|IN parliament|NN to|TO sack|VB mr|NN slipper|NN for|IN his|PRP$ “gross|JJ references”|NN </s>|S_END
+<s>|S_START the|DT motion|NN failed|VBD by|IN one|CD vote|NN </s>|S_END
+<s>|S_START after|IN two|CD independent|JJ parliamentarians|NNS counselled|VBD mr|NN slipper|NN to|TO step|VB down|RP he|PRP declared|VBD his|PRP$ resignation|NN “in|NN the|DT interests|NNS of|IN the|DT parliament”|JJ </s>|S_END
+<s>|S_START but|CC the|DT commotion|NN and|CC its|PRP$ reverberations|NNS could|MD be|VB farreaching|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN abbott|VBD had|VBD himself|PRP been|VBN fending|VBG off|RP charges|NNS of|IN sexism|NN and|CC misogyny|NN </s>|S_END
+<s>|S_START in|IN late|JJ september|NN a|DT video|NN surfaced|VBN of|IN alan|NN jones|NNS a|DT sydney|NN radio|NN “shock|NN jock”|NN belittling|VBG ms|NNS gillard’s|-NONE- father|RB who|WP had|VBD recently|RB died|VBN in|IN a|DT speech|NN to|TO the|DT liberal|NN club|NN at|IN the|DT university|NN of|IN sydney|NN </s>|S_END
+<s>|S_START john|NN gillard|VBD he|PRP said|VBD had|VBD “died|JJ of|IN shame”|JJ over|IN his|PRP$ daughter’s|NNS political|JJ “lies”|NN </s>|S_END
+<s>|S_START a|DT socialmedia|NN outcry|NN followed|VBD and|CC some|DT 60|CD companies|NNS suspended|VBN their|PRP$ advertising|NN with|IN the|DT radio|NN station|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT parliamentary|JJ furore|NN over|IN mr|NN slipper|NN mr|NN abbott|NN echoed|VBD mr|NN jones’s|NNS language|NN </s>|S_END
+<s>|S_START ms|NNS gillard’s|VBP government|NN he|PRP said|VBD “should|MD already|RB have|VB died|VBN of|IN shame”|NNP </s>|S_END
+<s>|S_START ms|NNS gillard|VBD retaliated|VBN by|IN saying|NN that|IN she|PRP was|VBD offended|VBN by|IN mr|NN abbott’s|NNS “catcalling”|-NONE- across|IN the|DT chamber|NN “to|-NONE- make|VBP an|DT honest|JJS woman|NN of|IN herself”|NNP it|PRP happens|VBZ that|IN ms|NNS gillard|VBP is|VBZ unmarried|VBN </s>|S_END
+<s>|S_START in|IN full|JJ flow|NN ms|NNS gillard|VBP thundered|VBN that|IN “if|JJ he|PRP wants|VBZ to|TO know|VB what|WP misogyny|NN looks|VBZ like|IN in|IN modern|JJ australia”|NN mr|NN abbott|NN needed|VBN not|RB a|DT parliamentary|JJ motion|NN but|CC a|DT mirror|NN </s>|S_END
+<s>|S_START even|RB in|IN this|DT roughandtumble|JJ chamber|NN it|PRP was|VBD a|DT devastating|NN performance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ms|NNS gillard’s|VBP critics|NNS accuse|VBP her|PRP of|IN poor|JJ judgment|NN in|IN appointing|NN mr|NN slipper|NN and|CC for|IN voting|NN against|IN his|PRP$ dismissal|NN after|IN his|PRP$ sexist|NN texts|NNS were|VBD exposed|VBN </s>|S_END
+<s>|S_START although|IN she|PRP denounced|VBD the|DT texts|NNS she|PRP claimed|VBD the|DT court|NN not|RB parliament|NN had|VBD to|TO judge|VB him|PRP </s>|S_END
+<s>|S_START anna|NN burke|VBD a|DT labor|NN parliamentarian|NN has|VBZ now|RB taken|VBN over|IN as|IN speaker|NN </s>|S_END
+<s>|S_START this|DT leaves|VBZ the|DT government|NN with|IN 70|CD voting|VBG members|NNS in|IN the|DT 150seat|JJ lower|NN house|NN </s>|S_END
+<s>|S_START it|PRP will|MD need|VB support|NN from|IN five|CD of|IN seven|CD nonaligned|VBN parliamentarians|NNS who|WP now|RB include|VBP mr|NN slipper|NN to|TO survive|VB </s>|S_END
+<s>|S_START recent|JJ opinion|NN polls|NNS show|VBP stronger|JJR support|NN for|IN ms|NNS gillard’s|-NONE- government|NN and|CC her|PRP$ mauling|NN of|IN mr|NN abbott|NN can|MD only|RB help|VB her|PRP further|RB </s>|S_END
+<s>|S_START but|CC she|PRP still|RB does|VBZ not|RB look|VB popular|JJ enough|RB to|TO win|VB the|DT election|NN due|JJ in|IN about|IN a|DT year|NN </s>|S_END
+</p>|P_END
+

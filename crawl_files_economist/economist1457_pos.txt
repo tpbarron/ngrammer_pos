@@ -1,0 +1,129 @@
+<p>|P_START
+<s>|S_START it|PRP took|VBD just|RB 20|CD minutes|NNS to|TO build|VB but|CC chris|NNS soghoian’s|NNS hastily|RB constructed|VBN website|JJ capable|JJ of|IN generating|NN fake|NN airline|NN boarding|VBG passes|NNS led|VBD to|TO a|DT rebuke|NN from|IN a|DT congressman|NN a|DT raid|NN by|IN the|DT federal|JJ bureau|NN of|IN investigation|NN fbi|NN an|DT investigation|NN by|IN the|DT transport|NN security|NN administration|NN tsa|NN worldwide|NN media|NNS coverage—and|JJ ultimate|NN vindication|NN </s>|S_END
+<s>|S_START with|IN a|DT series|NN of|IN similar|JJ exploits|NNS that|WDT have|VBP exposed|VBN security|NN flaws|NNS and|CC privacy|NN violations|NNS he|PRP has|VBZ demonstrated|VBN his|PRP$ ability|NN to|TO hack|VB the|DT media|NNS with|IN just|RB as|IN much|JJ facility|NN as|IN he|PRP manipulates|VBZ computer|NN </s>|S_END
+<s>|S_START at|IN the|DT age|NN of|IN 30|CD he|PRP has|VBZ established|VBN himself|PRP as|IN the|DT most|RBS prominent|JJ member|NN of|IN a|DT new|JJ generation|NN of|IN activist|NN technology|NN researchers|NNS who|WP delight|RB in|IN causing|NN a|DT media|NNS stink|VBP in|IN order|NN to|TO shame|VB companies|NNS and|CC governments|NNS into|IN fixing|VBG problems|NNS with|IN their|PRP$ system|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT boardingpass|NN example|NN occurred|VBD in|IN 2006|CD when|WRB dr|NN soghoian|NN then|RB a|DT graduate|NN student|NN at|IN indiana university|NN became|VBD irritated|VBN by|IN an|DT obvious|JJ flaw|NN in|IN airport|NN procedures|NNS used|VBN by|IN tsa|NN screener|NN </s>|S_END
+<s>|S_START although|IN screeners|NNS checked|VBD the|DT name|NN on|IN each|DT passenger’s|NNP boarding|NN pass|NN against|IN a|DT governmentissued|VBN identity|NN document|NN they|PRP had|VBD no|DT way|NN of|IN verifying|VBG that|IN the|DT boarding|NN pass|NN itself|PRP was|VBD valid|JJ </s>|S_END
+<s>|S_START fake|NN boarding|VBG passes|NNS could|MD easily|RB be|VB created|VBN for|IN any|DT flight|NN using|VBG a|DT computer|NN and|CC imagemanipulation|NN software|NN as|IN had|VBD already|RB been|VBN pointed|VBN out|RP by|IN bruce|NN schneier|NN another|DT security|NN guru|NN in|IN 2003|CD </s>|S_END
+<s>|S_START charles|NNS schumer|VBP a|DT senator|NN even|RB issued|VBN a|DT press|NN release|NN in|IN february|JJ 2005|CD explaining|VBG how|WRB easily|RB security|NN could|MD be|VB bypassed|VBN in|IN this|DT way|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB it|PRP took|VBD dr|NN soghoian|NN to|TO light|JJ the|DT right|NN kind|NN of|IN firecracker|NN under|IN this|DT known|NN problem|NN </s>|S_END
+<s>|S_START in|IN october|NN 2006|CD he|PRP threw|VBD together|RB a|DT web|NN page|NN that|WDT could|MD generate|VB fake|VB boarding|VBG passes|NNS for|IN northwest|JJS airlines|NNS that|WDT appeared|VBD valid|VBD to|TO tsa|VB screener|NN </s>|S_END
+<s>|S_START the|DT page|NN received|VBD enormous|JJ press|NN attention|NN even|RB though|IN he|PRP never|RB printed|VBD out|IN or|CC used|VBN a|DT false|NN pass|NN himself|PRP </s>|S_END
+<s>|S_START ed|VBD markey|NN a|DT congressman|NN called|VBN for|IN dr|NN soghoian’s|NNS arrest|VBP </s>|S_END
+<s>|S_START the|DT fbi|NN had|VBD his|PRP$ website|NN shut|NN down|IN and|CC seized|VBD his|PRP$ computer|NN </s>|S_END
+<s>|S_START the|DT tsa|NN opened|VBD an|DT inquiry|NN </s>|S_END
+<s>|S_START but|CC when|WRB the|DT simplicity|NN of|IN the|DT “hack”|JJ became|NN apparent|NN along|IN with|IN dr|NN soghoian’s|NNS academic|JJ status|NN mr|NN markey|NN apologised|VBD and|CC suggested|VBD that|IN rather|RB than|IN investigating|VBG dr|NN soghoian|NN the|DT tsa|NN should|MD hire|VB him|PRP instead|RB </s>|S_END
+<s>|S_START dr|NN soghoian’s|NNS computers|NNS were|VBD returned|VBN a|DT few|JJ weeks|NNS later|JJ and|CC the|DT tsa|NN investigation|NN was|VBD closed|VBN </s>|S_END
+<s>|S_START this|DT year|NN the|DT tsa|NN finally|RB began|VBD testing|NN equipment|NN to|TO validate|VB boarding|NN passes|NNS at|IN airport|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN soghoian|VBD has|VBZ since|IN perfected|VBN this|DT modus|NN operandi|NN and|CC used|VBD it|PRP to|TO expose|VB problems|NNS with|IN internet|JJ encryption|NN online|NN privacy|NN and|CC electronic|JJ surveillance|NN </s>|S_END
+<s>|S_START in|IN each|DT case|NN he|PRP identifies|VBZ a|DT problem|NN creates|VBZ a|DT technology|NN demonstration|NN to|TO highlight|NN it|PRP and|CC sometimes|RB files|VBZ freedom|NN of|IN information|NN act|NN requests|NNS or|CC complaints|NNS to|TO government|NN agencie|NN </s>|S_END
+<s>|S_START he|PRP then|RB presents|VBZ the|DT results|NNS neatly|RB packaged|VBD for|IN the|DT news|NN media|NNS </s>|S_END
+<s>|S_START the|DT organisations|NNS targeted|VBD by|IN dr|NN soghoian|JJ usually|RB start|NN off|IN by|IN accusing|NN him|PRP of|IN being|VBG mistaken|VBN or|CC naive|JJ before|IN admitting|VBG that|IN he|PRP is|VBZ right|RB and|CC modifying|VBG their|PRP$ policies|NNS or|CC issuing|VBG a|DT statement|NN saying|VBG that|IN a|DT fix|NN was|VBD already|RB in|IN the|DT work|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN soghoian|VBD has|VBZ among|IN other|JJ things|NNS revealed|VBD the|DT extent|NN to|TO which|WDT sprint|NN an|DT american|JJ telecoms|NNS operator|NN was|VBD disclosing|VBG its|PRP$ customers’|JJ satellitepositioning|NN data|NNS to|TO lawenforcement|VB agencies|NNS shamed|VBN google|JJ an|DT internet|NN giant|NN into|IN upgrading|NN its|PRP$ encryption|NN exposed|VBD a|DT woefully|RB misguided|VBN attempt|NN to|TO attack|VB google|JJ by|IN a|DT publicrelations|NNS firm|NN hired|VBD by|IN facebook|NN a|DT rival|NN internet|NN giant|NN embarrassed|VBD dropbox|NN a|DT provider|NN of|IN online|NN filestorage|NN over|IN its|PRP$ marketing|NN claims|NNS and|CC technical|JJ practices|NNS and|CC pushed|VBD for|IN the|DT adoption|NN of|IN a|DT “do|JJ not|RB track”|JJ scheme|NN to|TO allow|VB internet|JJ users|NNS to|TO opt|VB out|RP of|IN targeted|VBN advertising|NN </s>|S_END
+<s>|S_START “every|JJ privacy|NN scandal|NN essentially|RB has|VBZ to|TO take|VB the|DT form|NN of|IN a|DT firestorm”|JJ says|VBZ dr|NN soghoian|NN </s>|S_END
+<s>|S_START “i|NN try|NN to|TO focus|VB on|IN things|NNS that|IN are|VBP really|RB important|JJ that|IN haven’t|JJ gotten|NNS enough|RB attention”|JJ he|PRP is|VBZ now|RB campaigning|VBG against|IN the|DT widespread|JJ trawling|NN of|IN internet|NN traffic|NN by|IN lawenforcement|NN agencies|NNS calling|VBG instead|RB for|IN a|DT more|RBR targeted|VBN focus|NN on|IN specific|JJ cases|NNS or|CC lead|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fbi|NN made|VBD me|PRP do|VBP it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START having|VBG grown|VBN up|RP surrounded|VBN by|IN computers|NNS his|PRP$ father|NN used|VBD to|TO be|VB a|DT software|NN engineer|NN dr|NN soghoian|NN says|VBZ he|PRP slid|VBD into|IN computer|NN science|NN without|IN even|RB considering|VBG other|JJ discipline|NN </s>|S_END
+<s>|S_START he|PRP became|VBD interested|JJ in|IN computer|NN security|NN in|IN particular|JJ during|IN his|PRP$ undergraduate|NN studies|NNS and|CC was|VBD then|RB drawn|VBN to|TO the|DT specialised|VBN field|NN of|IN privacy|NN </s>|S_END
+<s>|S_START but|CC it|PRP was|VBD only|RB when|WRB the|DT fbi|NN raided|VBD his|PRP$ home|NN in|IN 2006|CD and|CC his|PRP$ phd|NN adviser|NN suggested|VBD that|IN he|PRP take|VBP a|DT law|NN class|NN that|WDT dr|NN soghoian|VBD decided|VBN to|TO concentrate|VB on|IN the|DT intersection|NN between|IN computing|NN and|CC the|DT law|NN </s>|S_END
+<s>|S_START he|PRP wrote|VBD his|PRP$ thesis|NN on|IN governmental|JJ use|NN of|IN third|JJ parties|NNS to|TO monitor|NN electronic|JJ communications|NNS and|CC was|VBD awarded|VBN his|PRP$ doctorate|NN in|IN july|RB 2012|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC it|PRP would|MD be|VB wrong|JJ to|TO characterise|VB dr|NN soghoian|NN simply|RB as|IN an|DT academic|JJ or|CC an|DT activist|NN because|IN he|PRP has|VBZ an|DT unusual|JJ gift|NN for|IN working|VBG outside|JJ conventional|JJ institutional|JJ stricture|NN </s>|S_END
+<s>|S_START while|IN completing|VBG his|PRP$ phd|NN he|PRP was|VBD also|RB attached|VBN to|TO america’s|NNP federal|JJ trade|NN commission|NN ftc|NN as|IN a|DT technical|JJ adviser|NN </s>|S_END
+<s>|S_START this|DT came|VBD about|IN as|IN a|DT result|NN of|IN dr|NN soghoian’s|NNS support|NN for|IN the|DT “do|NNP not|RB track”|JJ standard|JJ and|CC his|PRP$ efforts|NNS to|TO make|VB it|PRP easier|JJR for|IN people|NNS to|TO prevent|VB their|PRP$ use|NN of|IN the|DT internet|NN being|VBG tracked|VBN by|IN advertiser|NN </s>|S_END
+<s>|S_START turning|VBG such|JJ tracking|NN off|IN can|MD be|VB quite|RB tricky|JJ and|CC must|MD be|VB done|VBN for|IN multiple|NN groups|NNS or|CC networks|NNS of|IN advertiser|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT prompted|VBD dr|NN soghoian|NN to|TO develop|VB two|CD addons|NNS for|IN the|DT firefox|NN web|NN browser|NN that|WDT demonstrated|VBN simple|NN ways|NNS to|TO turn|VB off|RP tracking|VBG automatically|RB </s>|S_END
+<s>|S_START the|DT first|JJ manipulated|VBN “cookies”|-NONE- the|DT tiny|NN snippets|NNS of|IN information|NN stored|VBD by|IN web|NN browsers|NNS to|TO disable|JJ tracking|NN </s>|S_END
+<s>|S_START the|DT second|JJ developed|VBD with|IN the|DT help|NN of|IN sid|JJ stamm|NN a|DT programmer|NN sends|VBZ a|DT special|JJ message|NN with|IN every|DT page|NN request|NN asking|VBG that|IN the|DT user|NN not|RB be|VB tracked|VBN </s>|S_END
+<s>|S_START dr|NN soghoian|VBD got|VBN the|DT idea|NN for|IN this|DT approach|NN from|IN dan|NN kaminsky|NN a|DT security|NN researcher|NN </s>|S_END
+<s>|S_START but|CC it|PRP will|MD work|VB only|RB if|IN websites|NNS are|VBP required|VBN to|TO detect|VB and|CC act|VB on|IN such|JJ message|NN </s>|S_END
+<s>|S_START at|IN first|JJ this|DT suggestion|NN was|VBD ridiculed|VBN </s>|S_END
+<s>|S_START in|IN 2009|CD however|RB dr|JJ soghoian|NN was|VBD contracted|VBN by|IN the|DT ftc|NN to|TO provide|VB lawyertogeek|NN translation|NN for|IN its|PRP$ staff|NN </s>|S_END
+<s>|S_START in|IN this|DT role|NN he|PRP was|VBD able|JJ to|TO garner|NN support|NN for|IN his|PRP$ “do|JJ not|RB track”|JJ scheme|NN within|IN the|DT ftc|NN and|CC technology|NN firms|NNS including|VBG microsoft|NN and|CC twitter|NN have|VBP subsequently|RB backed|VBN it|PRP </s>|S_END
+<s>|S_START the|DT advertising|NN industry|NN dislikes|VBZ it|PRP but|CC seems|VBZ resigned|VBN to|TO accepting|NN it|PRP in|IN some|DT form|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT few|JJ months|NNS after|IN joining|VBG the|DT ftc|NN dr|NN soghoian|NN recorded|VBD a|DT sprint|NN executive|NN speaking|VBG at|IN a|DT surveillance|NN trade|NN show|NN attended|VBD by|IN telecoms|NNS firms|NNS lawenforcement|VBP agencies|NNS and|CC equipmentmaker|NN </s>|S_END
+<s>|S_START the|DT executive|NN explained|VBD that|IN sprint|NN had|VBD built|VBN an|DT automatic|JJ system|NN that|WDT had|VBD provided|VBN 8m|CD lookups|NNS of|IN customers’|JJ locations|NNS in|IN the|DT preceding|NN year|NN in|IN response|NN to|TO requests|NNS backed|VBN by|IN court|NN order|NN </s>|S_END
+<s>|S_START print|NN said|VBD later|JJ that|IN a|DT single|JJ court|NN order|NN could|MD generate|VB several|JJ thousand|CD lookup|NN </s>|S_END
+<s>|S_START dr|NN soghoian|VBD briefed|VBN the|DT press|NN and|CC posted|VBD the|DT audio|NN online|NN </s>|S_END
+<s>|S_START he|PRP insisted|VBD that|IN he|PRP was|VBD doing|VBG so|RB in|IN his|PRP$ role|NN as|IN a|DT graduate|NN student|NN rather|RB than|IN an|DT ftc|NN contractor|NN </s>|S_END
+<s>|S_START the|DT scale|NN of|IN tracking|VBG caused|VBN a|DT furore|NN that|WDT persists|VBZ three|CD years|NNS later|RBR about|IN the|DT ease|NN and|CC scale|NN of|IN mobilephone|NN surveillance|NN </s>|S_END
+<s>|S_START when|WRB dr|NN soghoian’s|VBZ first|JJ year|NN at|IN the|DT ftc|NN was|VBD up|RB the|DT agency|NN did|VBD not|RB renew|VB his|PRP$ contract|NN </s>|S_END
+<s>|S_START he|PRP blames|VBZ the|DT fuss|NN caused|VBD by|IN the|DT sprint|NN recording|VBG </s>|S_END
+<s>|S_START the|DT ftc|NN will|MD not|RB comment|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN soghoian|VBD is|VBZ one|CD of|IN a|DT group|NN of|IN researchers|NNS some|DT of|IN whom|WP are|VBP affiliated|VBN with|IN academic|JJ institutions|NNS and|CC many|JJ of|IN whom|WP work|NN together|RB who|WP have|VBP risen|VBN to|TO prominence|NN by|IN showing|NN how|WRB tedious|JJ technical|JJ flaws|NNS can|MD affect|VB ordinary|JJ people|NNS </s>|S_END
+<s>|S_START ashkan|NN soltani|NN who|WP like|IN dr|NN soghoian|JJ has|VBZ worked|VBN as|IN an|DT adviser|NN to|TO the|DT ftc|NN has|VBZ shown|VBN how|WRB some|DT companies|NNS have|VBP devised|VBN “evercookies”—cookies|NNS that|IN are|VBP very|RB difficult|JJ to|TO eradicate|VB </s>|S_END
+<s>|S_START along|IN with|IN jonathan|JJ mayer|NN of|IN stanford|NN law|NN school|NN he|PRP showed|VBD how|WRB google|JJ was|VBD bypassing|VBG tracking|NN preferences|NNS in|IN apple’s|JJ web|NN browser|NN safari|NN which|WDT resulted|VBN in|IN google|JJ having|NN to|TO pay|VB a|DT $|$ 225m|CD fine|NN </s>|S_END
+<s>|S_START mr|NN kaminsky|NN spotted|VBD a|DT huge|JJ flaw|NN in|IN the|DT internet’s|JJ addressing|NN system|NN in|IN 2008|CD and|CC then|RB worked|VBD closely|RB with|IN large|JJ technology|NN firms|NNS to|TO fix|VB it|PRP </s>|S_END
+<s>|S_START and|CC dr|NN stamm|NN is|VBZ now|RB a|DT privacy|NN advocate|NN at|IN the|DT mozilla|NN foundation|NN which|WDT oversees|NNS the|DT development|NN of|IN the|DT firefox|NN web|NN browser|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START first|JJ among|IN equal|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT researchers|NNS insist|VBP they|PRP are|VBP acting|VBG solely|RB in|IN the|DT interest|NN of|IN protecting|VBG individual|JJ privacy|NN </s>|S_END
+<s>|S_START they|PRP are|VBP certainly|RB not|RB in|IN it|PRP for|IN the|DT money|NN </s>|S_END
+<s>|S_START dr|NN soghoian|VBD has|VBZ spent|VBN three|CD years|NNS living|VBG the|DT life|NN of|IN an|DT ascetic|JJ in|IN washington|NN dc|NN where|WRB he|PRP rides|VBZ a|DT bicycle|NN and|CC resides|VBZ in|IN the|DT basement|NN of|IN a|DT house|NN he|PRP shares|VBZ with|IN four|CD other|JJ people|NNS </s>|S_END
+<s>|S_START “there|JJ are|VBP so|RB many|JJ events|NNS with|IN free|JJ food|NN and|CC drink|NN that|IN you|PRP never|RB need|VBP to|TO buy|VB anything|NN to|TO eat”|NNP he|PRP say|VBP </s>|S_END
+<s>|S_START after|IN his|PRP$ funding|NN from|IN indiana university|JJ ran|NN out|IN in|IN 2008|CD dr|NN soghoian|NN received|VBD several|JJ grants|NNS and|CC fellowship|NN </s>|S_END
+<s>|S_START he|PRP gleefully|RB points|VBZ out|RP the|DT varied|JJ political|JJ leanings|NNS of|IN his|PRP$ patron|NN </s>|S_END
+<s>|S_START he|PRP has|VBZ received|VBN some|DT funding|NN from|IN the|DT libertarianleaning|NN institute|NN for|IN humane|NN studies|NNS ihs|NNS backed|VBD by|IN the|DT archconservative|JJ charles|NNS koch|VBP </s>|S_END
+<s>|S_START but|CC as|IN he|PRP moved|VBD to|TO investigate|VB business|NN misdeeds|NNS rather|RB than|IN those|DT of|IN government|NN the|DT ihs|NNS money|NN was|VBD replaced|VBN by|IN a|DT fellowship|NN from|IN the|DT open|JJ society|NN foundations|NNS a|DT group|NN run|VBN by|IN mr|NN koch’s|NNS nemesis|VBZ on|IN the|DT left|NN george|NN soro|NN </s>|S_END
+<s>|S_START that|DT funding|NN ended|VBD in|IN july|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START can|MD dr|VB soghoian’s|NNS reputation|NN as|IN a|DT knight|NN in|IN digital|JJ armour|NN be|VB squared|VBN with|IN his|PRP$ obvious|JJ flair|NN for|IN selfpromotion|NN </s>|S_END
+<s>|S_START yes|NNS says|VBZ jules|NNS polonetsky|VBP director|NN of|IN the|DT future|NN of|IN privacy|NN forum|NN a|DT thinktank|NN based|VBN in|IN washington|NN dc|NN who|WP by|IN his|PRP$ own|JJ admission|NN does|VBZ not|RB always|RB see|VB eyetoeye|NN with|IN him|PRP </s>|S_END
+<s>|S_START “people|JJ would|MD be|VB surprised|VBN by|IN the|DT number|NN of|IN times|NNS that|WDT this|DT otherwise|NN very|RB public|JJ media|NNS bombthrower|JJR has|VBZ quietly|RB worked|VBN to|TO get|VB a|DT company|NN to|TO simply|RB solve|VB a|DT problem|NN when|WRB it|PRP could|MD have|VB been|VBN a|DT frontpage|NN story”|NN says|VBZ mr|NN polonetsky|NN </s>|S_END
+<s>|S_START dr|NN soghoian’s|NNS agenda|NN is|VBZ “not|JJ about|IN money|NN not|RB about|IN fame|RB or|CC anything|NN like|IN that”|NN says|VBZ lee|NN tien|NN of|IN the|DT electronic|JJ frontier|NN foundation|NN a|DT lobby|NN group|NN with|IN which|WDT dr|NN soghoian|VBD sometimes|RB collaborate|JJ </s>|S_END
+<s>|S_START he|PRP just|RB uses|VBZ the|DT glare|NN of|IN the|DT media|NNS to|TO get|VB result|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START though|IN known|VBN for|IN his|PRP$ strong|JJ views|NNS on|IN privacy|NN and|CC surveillance|NN dr|NN soghoian|NN is|VBZ no|DT absolutist|NN </s>|S_END
+<s>|S_START in|IN april|NN he|PRP published|VBD a|DT paper|NN in|IN the|DT berkeley|NN technology|NN law|NN journal|JJ on|IN how|WRB best|JJS to|TO grant|VB lawenforcement|NN agencies|NNS access|NN to|TO individuals’|NNP location|NN data|NNS with|IN proper|JJ checks|NNS and|CC balance|NN </s>|S_END
+<s>|S_START it|PRP was|VBD cowritten|VBN with|IN stephanie|NN pell|NN who|WP was|VBD on|IN the|DT department|NN of|IN justice|NN team|NN that|WDT prosecuted|VBN people|NNS accused|VBN of|IN being|VBG linked|VBN to|TO alqaeda|VB </s>|S_END
+<s>|S_START writing|VBG the|DT paper|NN says|VBZ dr|NN soghoian|NN involved|VBN finding|NN a|DT balance|NN between|IN ms|NNS pell’s|NNS knowledge|VBP of|IN the|DT utility|NN of|IN locationtracking|VBG in|IN law|NN enforcement|NN and|CC his|PRP$ own|JJ concerns|NNS about|IN unwarranted|VBN privacy|NN intrusion|NN </s>|S_END
+<s>|S_START “the|DT marginal|JJ cost|NN of|IN spying|VBG on|IN one|CD more|JJR person|NN is|VBZ essentially|RB zero|RB now”|JJ he|PRP say|VBP </s>|S_END
+<s>|S_START “the|DT economics|NNS of|IN modern|JJ surveillance|NN are|VBP not|RB beneficial|JJ to|TO the|DT consumer”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN a|DT respite|NN from|IN his|PRP$ campaign|NN to|TO defend|VB personal|JJ privacy|NN dr|NN soghoian|NN likes|VBZ to|TO go|VB to|TO india|VB </s>|S_END
+<s>|S_START but|CC he|PRP may|MD have|VB to|TO find|VB somewhere|RB else|RB to|TO holiday|VB </s>|S_END
+<s>|S_START “india|JJ is|VBZ rapidly|RB becoming|VBG a|DT surveillance|NN state”|NN he|PRP say|VBP </s>|S_END
+<s>|S_START uch|JJ trips|NNS may|MD be|VB less|RBR frequent|JJ in|IN any|DT case|NN because|IN dr|NN soghoian|NN now|RB has|VBZ a|DT new|JJ job|NN at|IN the|DT american|JJ civil|NN liberties|NNS union|NN mediating|VBG between|IN geeks|NNS and|CC lawyers|NNS as|IN he|PRP did|VBD at|IN the|DT ftc|NN </s>|S_END
+<s>|S_START his|PRP$ new|JJ employers|NNS must|MD be|VB well|RB aware|JJ that|IN they|PRP have|VBP captured|VBN lightning|VBG in|IN a|DT bottle—and|JJ should|MD not|RB be|VB surprised|VBN when|WRB it|PRP escape|VBP </s>|S_END
+</p>|P_END
+

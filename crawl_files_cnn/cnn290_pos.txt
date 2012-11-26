@@ -1,0 +1,65 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT twittersphere|NN was|VBD aghast|JJ about|IN the|DT hefty|JJ $|$ 29|CD and|CC $|$ 39|CD price|NN tags|NNS apple|VBP is|VBZ placing|VBG on|IN adapters|NNS to|TO connect|VB the|DT iphone|NN 5|CD to|TO old|JJ docks|NNS alarm|NN clock|NN radios|NNS and|CC speaker|NN systems|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP a|DT rip|NN off|RP </s>|S_END
+<s>|S_START said|VBD chrisoldroyd|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ time|NN to|TO gouge|VB our|PRP$ customers|NNS for|IN a|DT ton|NN more|RBR money|NN disqus|VBZ commenter|NN dawsg4ever|NNP quipped|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ an|DT absurdly|JJ high|NN price|NN to|TO charge|VB but|CC making|VBG matters|NNS even|RB worse|JJR those|DT expensive|JJ adapters|NNS dont|NN support|NN video|NN or|CC a|DT feature|NN called|VBN ipod|NN out|IN </s>|S_END
+<s>|S_START that|DT means|VBZ if|IN you|PRP buy|VBP a|DT $|$ 29|CD adapter|NN so|IN you|PRP can|MD plug|VB your|PRP$ iphone|NN 5|CD into|IN your|PRP$ speaker|NN dock|NN you|PRP wont|VBP be|VB able|JJ to|TO control|NN your|PRP$ ipod|NN through|IN the|DT dock|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apple|NN aapl|NN fortune|NN 500|CD said|VBD nothing|NN about|IN that|DT lack|NN of|IN functionality|NN in|IN its|PRP$ presentation|NN on|IN wednesday|NN </s>|S_END
+<s>|S_START but|CC in|IN its|PRP$ description|NN of|IN both|DT the|DT $|$ 29|CD and|CC $|$ 39|CD adapters|NNS on|IN its|PRP$ online|NN store|NN apple|NN clearly|RB says|VBZ video|NN and|CC ipod|NN out|RP not|RB supported|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT old|JJ 30pin|CD connector|NN that|WDT apple|NN had|VBD been|VBN using|VBG on|IN all|DT ipods|NNS ipads|NNS and|CC iphones|NNS since|IN 2003|CD was|VBD able|JJ to|TO send|VB an|DT analog|NN signal|NN out|IN which|WDT many|JJ cars|NNS docks|NNS and|CC other|JJ gadgets|NNS picked|VBD up|RP to|TO control|NN the|DT ipod|NN and|CC play|NN music|NN through|IN their|PRP$ speakers|NNS </s>|S_END
+<s>|S_START the|DT new|JJ eightprong|JJ lightning|NN adapter|NN is|VBZ all|DT digital|JJ converting|NN the|DT analog|NN signal|NN to|TO digital|JJ see|NN correction|NN below|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT older|JJR speaker|NN docks|NNS and|CC cars|NNS will|MD still|RB be|VB able|JJ to|TO play|VB music|JJ from|IN an|DT iphone|NN 5|CD </s>|S_END
+<s>|S_START but|CC users|NNS wont|VBP be|VB able|JJ to|TO control|NN their|PRP$ playlists|NNS through|IN their|PRP$ car|NN stereos|NNS or|CC remote|VB controls|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN whats|NNS the|DT point|NN of|IN the|DT adapter|NN </s>|S_END
+<s>|S_START apple|NN says|VBZ that|IN its|PRP$ intelligent|NN adapter|NN will|MD allow|VB customers|NNS to|TO connect|VB the|DT iphone|NN 5|CD to|TO many|JJ of|IN your|PRP$ 30pin|CD accessories|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT adapter|NN can|MD be|VB used|VBN to|TO charge|VB iphone|NN 5|CD phones|NNS through|IN old|JJ docks|NNS or|CC connect|VB them|PRP to|TO a|DT pc|NN via|IN old|JJ cables|NNS for|IN instance|NN though|IN apple|NN will|MD be|VB supplying|VBG a|DT lightningtousb|NN adapter|NN and|CC a|DT wall|NN plug|NN with|IN its|PRP$ devices|NNS that|WDT will|MD be|VB able|JJ to|TO accomplish|VB that|IN task|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS angry|JJ commenters|NNS were|VBD upset|VBN about|IN the|DT price|NN but|CC a|DT few|JJ caught|NN on|IN to|TO the|DT lack|NN of|IN video|NN and|CC ipod|NN out|RP support|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START said|VBD misterfrosty|NN so|IN wont|NN work|NN with|IN docs|NNS </s>|S_END
+<s>|S_START utter|NN madness|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT new|JJ lightning|NN connector|NN is|VBZ 80|CD smaller|JJR than|IN apples|NNS old|JJ one|CD a|DT feat|NN that|WDT helped|VBD apple|NNS make|VB the|DT iphone|NN 5|CD the|DT thinnest|JJS iphone|NN yet|RB </s>|S_END
+<s>|S_START some|DT took|VBD to|TO twitter|VB to|TO put|VB the|DT lightning|NN snafu|NN into|IN perspective|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP dont|VBP think|VBP the|DT iphone|NN 5|CD is|VBZ disappointing|JJ i|NN just|RB think|VBP people|NNS expected|VBN it|PRP to|TO shoot|VB unicorns|NNS out|IN of|IN its|PRP$ lightning|NN connector|NN said|VBD nasriatallah|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START correction|NN an|DT earlier|JJR version|NN of|IN this|DT story|NN incorrectly|RB stated|VBD that|IN the|DT lightning|NN adapter|NN would|MD not|RB support|VB audio|NN out|IN </s>|S_END
+<s>|S_START the|DT adapter|NN will|MD not|RB support|VB ipod|NN controls|NNS but|CC will|MD support|VB audio|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,129 @@
+<p>
+<s>pity the british bankers’ association bba it lacks the tools it needs to do its job</s>
+<s>it sets one of finance’s most important interest rates but the prices it needs to do this do not exist</s>
+<s>the london interbank offered rate libor aims to represent the prices banks charge when lending to one another</s>
+<s>the rates are required every day including in currencies and at maturities where actual transactions are rare</s>
+<s>to find the right prices the bba uses a system that works a bit like an auction</s>
+<s>and auction theory might just help rectify the flaws in libor</s>
+</p>
+
+<p>
+<s>auctions are commonly used to find prices where none exists</s>
+<s>there are lots of variants</s>
+<s>in “english” auctions often used to sell rare paintings bids are public and the highest bidder wins</s>
+<s>in online auctions bids are privately submitted and the auctioneer selects the winner and price</s>
+<s>in financialmarket auctions—to buy government bonds say—there can be more than one winner since there are lots of similar assets for sale</s>
+<s>whatever the setup one of the aims is to elicit price information from the bidders</s>
+</p>
+
+<p>
+<s>the liborsetting process has a similar aim</s>
+<s>the bba plays a role akin to an auctioneer asking banks to submit daily estimates of the rate they would pay to borrow in “reasonable market size”</s>
+<s>these private submissions are collected by the bba</s>
+<s>after throwing aside outlier bids the average gives the final libor price</s>
+</p>
+
+<p>
+<s>some of libor’s failures also have echoes in auctions</s>
+<s>traders at involved banks are accused of aligning their libor estimates in an attempt to affect the final rate</s>
+<s>they were able to crosscheck what others had done since the bba makes individual estimates public</s>
+<s>these traders had in effect formed a “bidding ring” analogous to a sort of cartel that is familiar to observers of auctions</s>
+</p>
+
+<p>
+<s>bidding rings can be both sophisticated and longlasting</s>
+<s>in a 2009 paper john asker of new york university’s stern school of business examined a bidding ring that specialised in valuable stamp collections</s>
+<s>the members recognised that it was not in their interests to battle it out in proper auctions</s>
+<s>so before each sale they submitted private bids to a central organiser a taxi driver</s>
+<s>the top bidder in this illegal “knockout” auction had the right to bid unthreatened at the auction house</s>
+<s>the losers in the knockout auction received a payment to keep them sweet</s>
+<s>the cartel ran over 1700 of these knockout auctions in one year and operated successfully for 15 years</s>
+</p>
+
+<p>
+<s>luckily for those trying to mend libor there are examples of how these types of cartel falter</s>
+<s>in a 1992 paper on bidding rings preston mcafee now at google and john mcmillan then of the university of california san diego outlined four challenges that bidding rings face</s>
+<s>first they need an enforcement mechanism so that members stick to the rules</s>
+<s>second the spoils need to be fairly shared</s>
+<s>third new entrants must be kept out</s>
+<s>finally the cartel needs to avoid action from outside that aims to topple it</s>
+</p>
+
+<p>
+<s>a better libor system would be based on actual data as far as possible not using any market data just because some are missing was never a good idea</s>
+<s>if the bba needs estimates to fill the gaps it should learn a simple lesson from auctions you have to stick to your bid</s>
+<s>false bidding in an auction is penalised sotheby’s for example is currently suing two buyers who failed to pay for chinese works of art won at auction</s>
+<s>it should be the same with libor</s>
+<s>banks that claim one price but actually pay another when they borrow should face a hefty fine</s>
+</p>
+
+<p>
+<s>once banks’ libor bids actually have some commitment value the system should focus on the weaknesses that auction cartels are known to have</s>
+<s>the cartelenforcement problem would be more acute if the bba increased the number of submitting banks and kept those bids private</s>
+<s>the entry of outsiders should be actively encouraged by allowing other lenders to banks moneymarket funds say to submit estimates too</s>
+</p>
+
+<p>
+<s>you can’t touch this</s>
+</p>
+
+<p>
+<s>no two auctions are exactly alike but the bba could also borrow from the ideas of others</s>
+<s>in 2007 and 2008 the bank of england boe and america’s treasury both wanted to push cash into illiquid markets by buying up dodgy collateral</s>
+<s>but markets had dried up so there were no prices for these assets</s>
+<s>both called in auction experts—paul klemperer of oxford university for the boe and paul milgrom of stanford university for the treasury</s>
+</p>
+
+<p>
+<s>in mr klemperer’s “product mix” auction bidders submit detailed bids which include both the prices they would pay and quantities they would accept for a range of goods</s>
+<s>because bids are simultaneous and are never revealed bidders cannot learn from one another making collusion harder</s>
+<s>since the auctions are of the manywinner financial type a knockout system as in the stamp bidding ring is unlikely</s>
+</p>
+
+<p>
+<s>having received a set of bids for different goods at various prices and quantities the auctioneer in mr klemperer’s setup then conducts a proxy auction on bidders’ behalf to see who should get what and what the price should be</s>
+<s>because nothing is revealed to the bidders and they know they cannot influence this process their best bet is to tell the truth</s>
+<s>what is more since the auctioneer has price information for a range of quantities it is possible to see how prices change as supply does</s>
+</p>
+
+<p>
+<s>the bba needs to rework libor completely if it wants to save it</s>
+<s>the kinds of ideas being used in auctions might help it do that</s>
+<s>if it could elicit honest prices for various quantities of moneymarket lending it would be able to provide both an accurate libor rate and information on how libor might move as banks’ financing needs change</s>
+<s>this price information would be valuable to regulators</s>
+<s>at the moment libor is just a madeup price for an illdefined quantity of money</s>
+<s>time to call an auctioneer</s>
+</p>
+
+<p>
+<s> </s>
+</p>
+
+<p>
+<s>sources</s>
+</p>
+
+<p>
+<s>john asker “a study of the internal organization of a bidding cartel” american economic review 1003 724762 2010</s>
+</p>
+
+<p>
+<s>john asker “bidding rings” new palgrave dictionary of economics online 2010</s>
+</p>
+
+<p>
+<s>paul klemperer “the productmix auction a new auction design for differentiated goods” journal of the european economic association 2010</s>
+</p>
+
+<p>
+<s>p mcafee and j mcmillan “bidding rings” american economic review june 1992 579599</s>
+</p>
+
+<p>
+<s> </s>
+</p>
+
+<p>
+<s>economistcomblogsfreeexchange</s>
+</p>
+

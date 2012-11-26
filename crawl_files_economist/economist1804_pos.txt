@@ -1,0 +1,74 @@
+<p>|P_START
+<s>|S_START towards|NNS the|DT end|NN of|IN “toy|JJ story|NN 3”|CD buzz|NN lightyear|NN sheriff|NN woody|NN and|CC the|DT other|JJ toys|NNS find|VBP themselves|PRP heading|VBG into|IN the|DT maw|NN of|IN a|DT movinggrate|JJ garbage|NN incinerator|NN </s>|S_END
+<s>|S_START in|IN real|JJ life|NN if|IN the|DT plant|NN had|VBD been|VBN built|VBN before|IN 1989|CD burning|VBG plastic|JJ toys|NNS in|IN it|PRP would|MD produce|VB a|DT nasty|NN dose|NN of|IN dioxins|NNS and|CC furans—toxic|JJ emissions|NNS from|IN combustion|NN in|IN the|DT presence|NN of|IN chlorine—along|JJ with|IN heavy|JJ metals|NNS and|CC some|DT dubious|JJ organic|JJ compound|NN </s>|S_END
+<s>|S_START until|IN then|RB few|JJ people|NNS were|VBD aware|JJ that|IN such|JJ chemicals|NNS presented|VBN a|DT serious|JJ health|NN hazard|NN capable|JJ of|IN upsetting|NN the|DT immune|NN system|NN damaging|VBG the|DT liver|NN and|CC causing|VBG cancer|NN </s>|S_END
+<s>|S_START municipal|JJ incinerators|NNS were|VBD among|IN the|DT worst|JJS offender|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT industry|NN subsequently|RB spent|VBD billions|NNS of|IN dollars|NNS retrofitting|VBG incinerators|NNS with|IN activatedcarbon|NN injectors|NNS and|CC particle|NN traps|NNS to|TO capture|VB the|DT dioxins|NNS furans|VBZ and|CC volatile|JJ metals|NNS like|IN cadmium|NN and|CC mercury|NN </s>|S_END
+<s>|S_START thanks|NNS to|TO new|JJ rules|NNS the|DT emission|NN of|IN such|JJ toxic|JJ chemicals|NNS from|IN waste|NN processing|NN has|VBZ been|VBN reduced|VBN a|DT thousandfold|NN </s>|S_END
+<s>|S_START the|DT total|NN output|NN of|IN dioxins|NNS and|CC furans|NNS from|IN all|DT the|DT incinerators|NNS in|IN america|NN is|VBZ now|RB less|JJR than|IN ten|CD grams|NNS a|DT year|NN according|VBG to|TO the|DT environmental|JJ protection|NN agency|NN epa|NN </s>|S_END
+<s>|S_START people|NNS burning|VBG rubbish|JJ in|IN their|PRP$ backyards|NNS by|IN contrast|NN may|MD produce|VB 50|CD times|NNS as|RB much|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB so|RB municipal|JJ incinerators—especially|JJ the|DT new|JJ wastetoenergy|NN wte|NN plants|NNS that|WDT use|NN rubbish|VBP as|IN a|DT fuel|NN to|TO generate|VB electricity|NN and|CC heat|NN for|IN local|JJ distribution—continue|JJ to|TO have|VB an|DT image|NN problem|NN </s>|S_END
+<s>|S_START in|IN many|JJ countries|NNS people|NNS generally|RB prefer|VBP their|PRP$ waste|NN to|TO be|VB composted|VBN provided|VBN of|IN course|NN the|DT landfills|NNS are|VBP nowhere|RB near|IN their|PRP$ own|JJ backyard|NN </s>|S_END
+<s>|S_START but|CC without|IN costly|JJ plumbing|NN landfills|NNS produce|VBP copious|JJ quantities|NNS of|IN methane|NN a|DT powerful|JJ greenhouse|NN gas|NN that|WDT does|VBZ more|JJR than|IN 20|CD times|NNS the|DT damage|NN to|TO the|DT environment|NN as|IN comparable|JJ emissions|NNS of|IN carbon|NN dioxide|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN some|DT of|IN the|DT larger|JJR municipal|JJ landfills|NNS the|DT methane|NN produced|VBN by|IN anaerobic|JJ decomposition|NN is|VBZ captured|VBN and|CC used|VBN to|TO generate|VB electricity|NN </s>|S_END
+<s>|S_START the|DT mountain|NN of|IN rubbish|JJ at|IN the|DT puente|NN hills|NNS landfill|VBP in|IN los|NNS angeles|NNS the|DT largest|JJS of|IN the|DT 1900|CD municipal|JJ landfills|NNS in|IN america|NN is|VBZ over|IN 500feet|JJ high—taller|NN than|IN most|JJS of|IN the|DT skyscrapers|NNS in|IN the|DT citys|NNS downtown|VBP area|NN </s>|S_END
+<s>|S_START with|IN 60|CD years|NNS worth|IN of|IN decomposing|VBG rubbish|JJ puente|NN hills|NNS produces|NNS enough|RB methane|JJ to|TO generate|VB electricity|NN for|IN 70000|CD home|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC landfill|RB space|NN is|VBZ increasingly|RB scarce|JJ and|CC as|IN the|DT rubbish|JJ piles|NNS up|IN officials|NNS are|VBP reconsidering|VBG the|DT sensitive|JJ issue|NN of|IN incineration|NN </s>|S_END
+<s>|S_START modern|JJ incinerators|NNS capture|VBP the|DT energy|NN from|IN solid|JJ waste|NN as|IN well|RB as|IN the|DT emissions|NNS from|IN the|DT combustion|NN </s>|S_END
+<s>|S_START uch|JJ wte|NN plants|NNS burn|VBP rubbish|JJ at|IN temperatures|NNS high|JJ enough|RB over|IN 850°c|CD to|TO break|VB the|DT molecular|JJ bonds|NNS in|IN dioxins|NNS and|CC other|JJ toxic|JJ chemicals|NNS and|CC thus|RB render|NN them|PRP harmle|JJ </s>|S_END
+<s>|S_START the|DT flue|NN gases|VBZ are|VBP cooled|VBN in|IN heat|NN exchangers|NNS producing|VBG steam|NN to|TO drive|VB electricitygenerating|NN turbine|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT gases|NNS are|VBP then|RB passed|VBN to|TO a|DT cleaning|NN system|NN that|WDT filters|NNS fine|VBP particles|NNS from|IN the|DT flow|NN and|CC scrubs|NNS the|DT gas|NN to|TO remove|VB sulphur|NN dioxide|NN acids|NNS and|CC heavy|JJ metal|NN </s>|S_END
+<s>|S_START next|JJ the|DT flue|NN gases|VBZ pass|NN through|IN a|DT catalytic|JJ converter|NN where|WRB the|DT nitrogen|NN oxides|VBZ are|VBP chemically|RB reduced|VBN using|VBG ammonia|NN or|CC urea|NN </s>|S_END
+<s>|S_START finally|RB any|DT volatile|JJ heavy|JJ metals|NNS remaining|VBG in|IN the|DT flue|NN gas|NN are|VBP absorbed|VBN by|IN activatedcarbon|NN powder|NN </s>|S_END
+<s>|S_START the|DT volume|NN of|IN the|DT ash|NN left|VBD after|IN combustion|NN amounts|NNS to|TO around|IN 5|CD of|IN the|DT waste|NN ingested|VBD </s>|S_END
+<s>|S_START the|DT ash|NN at|IN the|DT bottom|NN of|IN the|DT combustion|NN chamber|NN is|VBZ either|DT buried|VBN in|IN municipal|JJ landfills|NNS or|CC recycled|VBN as|IN aggregate|JJ for|IN the|DT construction|NN industry|NN </s>|S_END
+<s>|S_START the|DT fly|RB ash|JJ that|IN rises|NNS up|IN the|DT flue|NN needs|VBZ further|JJ processing|NN to|TO remove|VB any|DT toxic|JJ particles|NNS that|WDT might|MD be|VB clinging|VBG to|TO its|PRP$ surface|NN </s>|S_END
+<s>|S_START the|DT result|NN is|VBZ a|DT remarkably|RB clean|JJ and|CC efficient|JJ process|NN for|IN disposing|NN of|IN rubbish|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START because|IN much|JJ municipal|JJ rubbish|NN eg|NN paper|NN cardboard|NN wood|NN cloth|NN and|CC food|NN scraps|NNS has|VBZ a|DT biological|JJ origin|NN the|DT electricity|NN and|CC heat|NN produced|VBN by|IN wte|NN plants|NNS is|VBZ considered|VBN renewable|JJ energy|NN </s>|S_END
+<s>|S_START and|CC for|IN every|DT tonne|NN of|IN municipal|JJ waste|NN that|WDT avoids|VBZ being|VBG buried|VBN in|IN a|DT landfill|NN and|CC is|VBZ burned|VBN instead|RB in|IN a|DT wte|NN plant|NN the|DT amount|NN of|IN methane|NN entering|VBG the|DT atmosphere|NN is|VBZ reduced|VBN by|IN the|DT equivalent|NN of|IN almost|RB a|DT tonne|NN of|IN carbon|NN dioxide|NN calculates|VBZ the|DT epa|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nimbyism|NN aside|VBD the|DT main|JJ objections|NNS to|TO wte|VB incineration|NN are|VBP that|IN waste|NN should|MD be|VB recycled|VBN rather|RB than|IN burned|VBN and|CC that|IN better|JJR wte|NN technologies|NNS are|VBP waiting|VBG in|IN the|DT wing|NN </s>|S_END
+<s>|S_START recycling|VBG requires|NNS the|DT rubbish|JJ to|TO be|VB sorted|VBN into|IN recyclable|JJ metals|NNS plastics|NNS glass|VBP and|CC paper|NN with|IN the|DT biological|JJ residue|NN then|RB broken|VBN down|RP using|VBG anaerobic|JJ microorganisms|NNS into|IN biogas|NN and|CC compost|VB </s>|S_END
+<s>|S_START the|DT biogas|NN primarily|RB methane|NN carbon|NN dioxide|NN and|CC hydrogen|NN sulphide|NN can|MD then|RB be|VB used|VBN to|TO generate|VB electricity|NN or|CC even|RB cleaned|VBN and|CC compressed|VBN to|TO make|VB fuel|NN for|IN car|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT biological|JJ step|NN might|MD eventually|RB be|VB replaced|VBN with|IN some|DT form|NN of|IN heattreatment|NN such|JJ as|IN highpressure|NN superheated|VBN steam|NN in|IN an|DT autoclave|NN or|CC gasification|NN using|VBG a|DT plasma|NN arc|NN that|WDT vaporises|VBZ the|DT waste|NN in|IN the|DT absence|NN of|IN oxygen|NN so|IN that|IN few|JJ of|IN the|DT noxious|JJ products|NNS of|IN combustion|NN are|VBP produced|VBN </s>|S_END
+<s>|S_START either|DT way|NN the|DT result|NN is|VBZ a|DT biofuel|NN for|IN generating|NN electricity|NN </s>|S_END
+<s>|S_START uch|JJ technologies|NNS could|MD one|CD day|NN prove|NN more|RBR attractive|JJ than|IN todays|NNS wastetoenergy|NN incineration|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN his|PRP$ book|NN “garbology|NN our|PRP$ dirty|NN love|NN affair|NN with|IN trash”|JJ the|DT pulitzer|NN prizewinning|VBG author|NN edward|NN humes|VBZ notes|NNS that|IN other|JJ wealthy|JJ countries|NNS with|IN high|JJ living|NN standards|NNS have|VBP rejected|VBN the|DT disposable|JJ products|NNS that|WDT make|VBP up|RP much|RB of|IN americas|NNS rubbish|VBP </s>|S_END
+<s>|S_START according|VBG to|TO the|DT oecd|NN the|DT average|JJ person|NN creates|VBZ 33lb|CD 15kg|CD of|IN rubbish|JJ a|DT day|NN in|IN france|NN 27lb|CD in|IN canada|NN and|CC no|DT more|RBR than|IN 23lb|CD in|IN japan|NN </s>|S_END
+<s>|S_START by|IN the|DT oecds|NNS reckoning|VBG the|DT average|JJ american|NN produces|NNS 45lb|CD a|DT day|NN and|CC more|JJR recent|JJ accounting|NN puts|NNS the|DT figure|NN at|IN over|IN 7lb|CD a|DT day|NN less|RBR than|IN a|DT quarter|NN of|IN which|WDT is|VBZ recycled|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START why|WRB does|VBZ america|NN produce|VB so|RB much|RB more|RBR rubbish|JJ </s>|S_END
+<s>|S_START the|DT difference|NN is|VBZ that|IN in|IN europe|NN and|CC japan|NN it|PRP is|VBZ manufacturers|NNS rather|RB than|IN consumers|NNS that|WDT are|VBP held|VBN responsible|JJ via|IN taxes|NNS on|IN packaging|NN waste|NN for|IN the|DT cost|NN of|IN processing|NN the|DT packaging|NN used|VBD to|TO wrap|VB their|PRP$ good|JJ </s>|S_END
+<s>|S_START this|DT gives|VBZ them|PRP an|DT incentive|NN to|TO use|VB less|JJR of|IN it|PRP </s>|S_END
+<s>|S_START by|IN contrast|NN in|IN america|NN the|DT cost|NN of|IN cleaning|VBG up|RP the|DT mess|NN is|VBZ dumped|VBN at|IN the|DT consumers|NNS door|NN </s>|S_END
+<s>|S_START that|DT more|RBR than|IN anything|NN is|VBZ what|WP needs|VBZ to|TO change|VB </s>|S_END
+</p>|P_END
+

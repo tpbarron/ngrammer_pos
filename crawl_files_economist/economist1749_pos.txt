@@ -1,0 +1,85 @@
+<p>|P_START
+<s>|S_START mexican|NN banks|NNS have|VBP historically|RB not|RB been|VBN safe|JJ places|NNS in|IN which|WDT to|TO leave|VB money|NN lying|VBG around|IN </s>|S_END
+<s>|S_START when|WRB they|PRP collapsed|VBD in|IN 1995|CD following|VBG the|DT devaluation|NN of|IN the|DT peso|NN and|CC the|DT “tequila|NNP crisis”|NNP bankers|NNS in|IN europe|NN and|CC america|NN shook|NN their|PRP$ heads|NNS in|IN disbelief|NN at|IN the|DT irresponsible|JJ lending|VBG that|IN had|VBD gone|VBN on|IN </s>|S_END
+<s>|S_START a|DT $|$ 50|CD billion|CD bailout|IN was|VBD rustled|VBN up|RP by|IN tutting|NN friends|NNS and|CC neighbour|PRP$ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB things|NNS have|VBP changed|VBN </s>|S_END
+<s>|S_START as|IN banks|NNS in|IN europe|NN and|CC america|NN scrabble|JJ to|TO meet|VB stricter|NN capital|NN requirements|NNS made|VBD necessary|JJ by|IN the|DT failures|NNS of|IN their|PRP$ own|JJ exotic|JJ lending|NN practices|NNS mexico|VBP is|VBZ offering|VBG some|DT a|DT lifeline|NN </s>|S_END
+<s>|S_START on|IN september|NN 26th|CD santander|NN a|DT spanish|JJ bank|NN plans|NNS to|TO list|VB a|DT quarter|NN of|IN its|PRP$ mexican|JJ subsidiary|NN on|IN stock|NN exchanges|NNS in|IN mexico|NN city|NN and|CC new|JJ york|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ already|RB listed|VBN subsidiaries|NNS in|IN brazil|NN chile|NN and|CC peru|NN as|IN well|RB as|IN selling|VBG its|PRP$ colombian|JJ unit|NN </s>|S_END
+<s>|S_START these|DT selloffs|NNS have|VBP helped|VBN to|TO increase|VB its|PRP$ corecapital|NN ratio|NN to|TO 101|CD the|DT mexican|NN listing|NN which|WDT is|VBZ set|VBN to|TO raise|VB around|IN $|$ 4|CD billion|CD will|MD add|VB another|DT half|NN a|DT percentage|NN point|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT offering|NN priced|VBN at|IN two|CD times|NNS book|NN value|NN is|VBZ a|DT better|JJR deal|NN than|IN most|JJS european|JJ or|CC american|JJ banks|NNS could|MD get|VB for|IN issuing|NN new|JJ shares|NNS at|IN home|NN </s>|S_END
+<s>|S_START that’s|NNS because|IN mexico’s|JJ banks|NNS are|VBP very|RB profitable|JJ </s>|S_END
+<s>|S_START antander|NN mexico|VBD gives|VBZ a|DT return|NN on|IN equity|NN of|IN almost|RB 20|CD see|NN chart|NN about|IN double|JJ the|DT rates|NNS commonly|RB found|VBN in|IN europe|NN </s>|S_END
+<s>|S_START bancomer|NN the|DT mexican|NN arm|NN of|IN spain’s|JJ bbva|NN contributes|NNS a|DT third|JJ of|IN bbva’s|JJ worldwide|NN profit|NN </s>|S_END
+<s>|S_START the|DT mexican|NN subsidiaries|NNS of|IN bbva|NN citibank|NN and|CC santander|NN are|VBP all|DT graded|VBN as|IN less|JJR risky|JJ than|IN their|PRP$ parents|NNS by|IN moody’s|JJ a|DT ratings|NNS agency|NN </s>|S_END
+<s>|S_START bbva|NN and|CC canada’s|NNP scotiabank|NN might|MD float|VB their|PRP$ own|JJ mexican|NN operations|NNS before|IN too|RB long|JJ suspects|NNS bill|NN rudman|NN of|IN blackfriars|NNS asset|VBP management|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mexican|NN banks’|NN smooth|NN negotiation|NN of|IN the|DT financial|JJ crisis|NN owes|NNS much|RB to|TO a|DT favourable|JJ economic|JJ environment|NN and|CC to|TO conservatism|VB in|IN their|PRP$ own|JJ lending|VBG </s>|S_END
+<s>|S_START first|JJ the|DT economy|NN </s>|S_END
+<s>|S_START after|IN spending|NN much|RB of|IN the|DT past|JJ decade|NN in|IN brazil’s|NNP shadow|NN mexico|NN is|VBZ moving|VBG into|IN the|DT limelight|JJ </s>|S_END
+<s>|S_START last|JJ year|NN it|PRP outpaced|VBD its|PRP$ great|JJ latin|NN american|NN rival|NN this|DT year|NN it|PRP is|VBZ expected|VBN to|TO grow|VB nearly|RB twice|NN as|IN fast|JJ at|IN about|RB 4|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT countries’|NN changing|VBG fortunes|NNS are|VBP partly|RB due|JJ to|TO slowing|VBG growth|NN in|IN china|NN a|DT big|JJ buyer|NN of|IN brazilian|JJ commodities|NNS and|CC bitter|JJ rival|NN of|IN mexican|JJ manufacturer|NN </s>|S_END
+<s>|S_START thanks|NNS to|TO higher|JJR chinese|JJ wages|NNS and|CC the|DT rising|VBG cost|NN of|IN shipping|NN across|IN the|DT pacific|JJ mexico|NN is|VBZ increasingly|RB attractive|JJ to|TO foreign|JJ investor|NN </s>|S_END
+<s>|S_START although|IN the|DT american|NN market|NN is|VBZ sluggish|JJ mexico|NN is|VBZ taking|VBG a|DT bigger|JJR bite|NN of|IN it|PRP </s>|S_END
+<s>|S_START hsbc|NN reckons|NNS that|WDT by|IN 2018|CD mexico|NN will|MD overtake|VB canada|NN and|CC china|NN to|TO become|VB america’s|JJ main|NN source|NN of|IN import|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN bouncy|NN growth|NN in|IN a|DT middleincome|NN country|NN of|IN 115m|CD people|NNS mexican|JJ banks|NNS have|VBP also|RB been|VBN helped|VBN by|IN their|PRP$ own|JJ caution|NN </s>|S_END
+<s>|S_START private|JJ debt|NN is|VBZ equal|JJ to|TO only|RB about|RB 20|CD of|IN gdp|NN one|CD of|IN the|DT lowest|JJS ratios|NNS in|IN latin|NN america|NN brazil’s|NNS is|VBZ above|IN 50|CD </s>|S_END
+<s>|S_START only|RB a|DT third|JJ of|IN all|DT mexican|JJ firms|NNS have|VBP access|NN to|TO commercialbank|VB loans|NNS among|IN small|JJ firms|NNS the|DT proportion|NN is|VBZ lower|JJR still|RB </s>|S_END
+<s>|S_START many|JJ businesspeople|NN complain|NN that|IN mexico’s|JJ banks|NNS have|VBP been|VBN playing|VBG things|NNS too|RB safe|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START part|NN of|IN the|DT stinginess|NN is|VBZ due|JJ a|DT strict|JJ creditscoring|NN regime|NN operated|VBD by|IN two|CD private|JJ agencies|NNS that|WDT are|VBP owned|VBN mainly|RB by|IN the|DT banks|NNS themselve|VBP </s>|S_END
+<s>|S_START rather|RB than|IN be|VB graded|VBN customers|NNS are|VBP classed|VBN simply|RB as|IN creditworthy|JJ or|CC not|RB </s>|S_END
+<s>|S_START there|EX is|VBZ no|DT lower|JJR limit|NN on|IN the|DT default|NN necessary|JJ to|TO trigger|NN a|DT blacklisting|NN so|IN a|DT missed|VBN phonebill|NN could|MD render|VB someone|NN ineligible|JJ for|IN loan|NN </s>|S_END
+<s>|S_START fines|NNS for|IN missed|VBN taxpayments|NNS can|MD also|RB land|VB people|NNS on|IN the|DT blacklist|NN </s>|S_END
+<s>|S_START “so|RB because|IN you|PRP were|VBD fined|VBN 500|CD pesos|NNS $|$ 40|CD by|IN the|DT tax|NN authorities|NNS you|PRP can|MD not|RB get|VB credit|NN to|TO buy|VB a|DT car|NN which|WDT would|MD contribute|VB 10000|CD pesos|NNS in|IN vat”|JJ complains|NNS giulliano|VBP lopresti|NN of|IN crea|NN méxico|-NONE- an|DT organisation|NN that|IN helps|NNS small|JJ businesses|NNS to|TO get|VB off|RP the|DT ground|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT lucky|JJ few|JJ who|WP do|VBP qualify|RB for|IN credit|NN face|NN steep|NN rate|NN </s>|S_END
+<s>|S_START although|IN the|DT base|NN rate|NN of|IN interest|NN is|VBZ 45|CD most|RBS credit|JJ cards|NNS charge|VBP upwards|NNS of|IN 40|CD plus|CC an|DT annual|JJ fee|NN </s>|S_END
+<s>|S_START most|JJS deposit|NN accounts|NNS offer|VBP belowinflation|NN rates|NNS of|IN interest|NN </s>|S_END
+<s>|S_START customer|NN service|NN is|VBZ patchy|JJ </s>|S_END
+<s>|S_START queues|NNS at|IN branches|NNS are|VBP scoresdeep|JJ ahead|RB of|IN holiday|NN weekends|NNS banamex|NN a|DT big|JJ bank|NN has|VBZ called|VBN your|PRP$ correspondent|NN every|DT day|NN for|IN two|CD years|NNS because|IN its|PRP$ call|NN centre|NN is|VBZ unable|JJ to|TO correct|VB wrong|JJ number|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN five|CD banks|NNS controlling|VBG about|IN threequarters|NNS of|IN the|DT market|NN there|RB is|VBZ more|RBR competition|NN than|IN in|IN many|JJ other|JJ sector|NN </s>|S_END
+<s>|S_START but|CC with|IN so|RB many|JJ potential|JJ new|JJ customers|NNS the|DT banks|NNS do|VBP not|RB need|VB to|TO work|VB that|IN hard|JJ to|TO turn|VB a|DT profit|NN </s>|S_END
+<s>|S_START antander|NN is|VBZ adding|VBG more|JJR than|IN 100|CD branches|NNS a|DT year|NN to|TO its|PRP$ network|NN </s>|S_END
+<s>|S_START new|JJ laws|NNS have|VBP allowed|VBN supermarkets|NNS to|TO turn|VB themselves|PRP into|IN banks|NNS though|IN uptake|NN was|VBD slowed|VBN by|IN an|DT outbreak|JJ of|IN creditcard|NN defaults|NNS in|IN 2009|CD </s>|S_END
+<s>|S_START lending|VBG is|VBZ rising|VBG by|IN 15|CD per|IN year|NN about|IN the|DT fastest|JJS a|DT country|NN can|MD manage|VB without|IN giving|VBG ratings|NNS agencies|NNS the|DT jitter|NN </s>|S_END
+<s>|S_START by|IN 2020|CD it|PRP will|MD equal|VB 35|CD of|IN gdp|NN thinks|NNS nomura|NN a|DT japanese|JJ bank|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP obstacles|NNS ahead|RB </s>|S_END
+<s>|S_START banks|NNS will|MD have|VB to|TO overcome|VB a|DT culture|NN in|IN which|WDT businesses|NNS get|VBP most|JJS of|IN their|PRP$ credit|NN from|IN suppliers|NNS which|WDT offer|NN poor|NN value|NN but|CC are|VBP seen|VBN as|IN easier|JJR to|TO deal|VB with|IN </s>|S_END
+<s>|S_START and|CC family|NN firms|NNS will|MD have|VB to|TO meet|VB banks’|JJ requirements|NNS for|IN accounting|VBG and|CC corporate|JJ governance|NN </s>|S_END
+<s>|S_START at|IN the|DT moment|NN small|JJ firms’|NN accounts|NNS are|VBP often|RB designed|VBN to|TO look|VB bad|JJ for|IN tax|NN purposes|NNS rather|RB than|IN good|JJ to|TO secure|VB credit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN these|DT problems|NNS can|MD be|VB solved|VBN the|DT economy|NN will|MD benefit|VB </s>|S_END
+<s>|S_START five|CD to|TO six|CD consecutive|JJ years|NNS of|IN loan|NN growth|NN in|IN tandem|NN with|IN macroeconomic|JJ stability|NN could|MD add|VB half|NN a|DT percentage|NN point|NN to|TO mexico’s|NNP annual|JJ growth|NN rate|NN says|VBZ agustín|JJ carstens|NNS the|DT centralbank|NN governor|NN </s>|S_END
+<s>|S_START more|JJR foreignbank|NN listings|NNS will|MD be|VB good|JJ news|NN for|IN mexico’s|NNS modest|JJS stock|NN exchange|NN too|RB </s>|S_END
+<s>|S_START at|IN the|DT moment|NN only|RB one|CD of|IN the|DT country’s|JJ big|JJ banks|NNS banorte|VBP is|VBZ traded|VBN </s>|S_END
+<s>|S_START antander’s|NNS flotation|NN “means|NNS more|RBR options|NNS for|IN investors”|JJ says|NNS jorge|VBP lagunas|NNS of|IN interacciones|NNS a|DT trading|NN house|NN </s>|S_END
+<s>|S_START plenty|NN for|IN mexico|NN to|TO celebrate|VB then—just|JJ go|NN easy|JJ on|IN the|DT tequila|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,89 @@
+<p>|P_START
+<s>|S_START house|NN speaker|NN john|NN boehner|NN has|VBZ said|VBN everything|NN is|VBZ on|IN the|DT table|NN except|IN tax|NN increases|NNS </s>|S_END
+<s>|S_START that|DT makes|VBZ a|DT deal|NN on|IN debt|NN hard|NN to|TO reach|VB and|CC debt|NN reduction|NN hard|RB to|TO accomplish|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN trillions|NNS in|IN spending|NN cuts|NNS </s>|S_END
+<s>|S_START no|DT tax|NN increases|NNS </s>|S_END
+<s>|S_START no|DT kidding|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT is|VBZ house|NN speaker|NN john|NN boehners|NNS opening|VBG bid|NN in|IN negotiations|NNS over|IN raising|VBG the|DT debt|NN ceiling|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START politically|RB the|DT boehner|NN parameters|NNS arent|NN likely|JJ to|TO fly|RB </s>|S_END
+<s>|S_START president|NN obama|VBD and|CC other|JJ democrats|NNS have|VBP already|RB made|VBN clear|RB they|PRP want|VBP to|TO reduce|VB debt|NN through|IN a|DT combination|NN of|IN spending|NN cuts|NNS and|CC increased|VBN tax|NN revenue|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC practically|RB can|MD the|DT country|NN live|NN with|IN a|DT regimen|NNS of|IN spending|NN cuts|NNS alone|RB </s>|S_END
+<s>|S_START its|PRP$ unlikely|JJ since|IN the|DT changes|NNS could|MD end|VB up|RP being|VBG too|RB severe|JJ to|TO be|VB palatable|JJ fiscal|JJ experts|NNS say|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START just|RB to|TO keep|VB the|DT countrys|NNS total|VBP debt|NN where|WRB it|PRP is|VBZ now|RB around|IN 60|CD of|IN gdp|NN without|IN tax|NN increases|NNS lawmakers|NNS would|MD need|VB to|TO cut|VB spending|NN today|NN by|IN 35|CD or|CC about|IN $|$ 12|CD trillion|CD according|VBG to|TO the|DT government|NN accountability|NN office|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS almost|RB as|IN much|JJ as|IN what|WP the|DT country|NN spends|NNS on|IN defense|NN and|CC other|JJ discretionary|JJ spending|NN ie|NN nearly|RB everything|NN americans|NNS expect|VBP their|PRP$ federal|JJ government|NN to|TO do|VB outside|JJ of|IN providing|VBG medicare|NN medicaid|VBD and|CC social|JJ security|NN benefits|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START keep|VB in|IN mind|NN too|RB that|IN stabilizing|VBG public|JJ debt|NN at|IN 60|CD likely|JJ wont|NN be|VB enough|RB because|IN its|PRP$ still|RB well|RB above|IN the|DT countrys|NNS historical|JJ average|NN which|WDT is|VBZ under|IN 40|CD </s>|S_END
+<s>|S_START translation|NN even|RB more|RBR cutting|VBG would|MD be|VB necessary|JJ in|IN subsequent|NN decades|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT reason|NN that|IN a|DT spendingcutsonly|RB debtreduction|NN plan|NN may|MD not|RB be|VB the|DT best|JJS option|NN it|PRP likely|JJ would|MD require|VB less|RBR of|IN a|DT sacrifice|NN from|IN the|DT wealthy|JJ than|IN from|IN everyone|NN else|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC any|DT plan|NN lawmakers|NNS agree|VBP to|TO has|VBZ to|TO be|VB seen|VBN as|IN credible|JJ by|IN the|DT markets|NNS since|IN the|DT push|NN to|TO bring|VB deficits|NNS down|IN is|VBZ driven|VBN by|IN a|DT fear|NN that|WDT bond|NN investors|NNS at|IN some|DT point|NN may|MD turn|VB tail|NN on|IN us|PRP treasurys|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT reuters|NNS survey|NN this|DT week|NN suggests|VBZ that|IN spending|NN cuts|NNS alone|RB wouldnt|JJ fly|RB </s>|S_END
+<s>|S_START a|DT majority|NN of|IN bond|NN firm|NN economists|NNS and|CC fund|NN managers|NNS said|VBD that|IN tax|NN increases|NNS in|IN addition|NN to|TO spending|NN cuts|NNS must|MD be|VB part|NN of|IN the|DT solution|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ not|RB clear|JJ how|WRB many|JJ trillions|NNS boehner|RBR and|CC the|DT gop|NN will|MD aim|VB for|IN in|IN spending|NN cuts|NNS or|CC over|IN what|WP time|NN period|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START capitol|NN hill|VBD aides|NNS believe|VBP lawmakers|NNS will|MD seek|VB a|DT $|$ 2|CD trillion|CD increase|NN in|IN the|DT debt|NN ceiling|NN and|CC boehner|NN has|VBZ said|VBN spending|NN cuts|NNS will|MD need|VB to|TO exceed|VB any|DT debt|NN ceiling|NN increase|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT gops|NNS demands|VBZ for|IN spending|NN cuts|NNS end|VBP up|RP in|IN the|DT $|$ 2|CD trillion|CD range|NN over|IN 10|CD years|NNS that|WDT would|MD be|VB on|IN par|NN with|IN the|DT amount|NN of|IN spending|NN cuts|NNS called|VBN for|IN by|IN president|NN obamas|NNS bipartisan|VBP debt|NN commission|NN not|RB including|VBG interest|NN savings|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT commission|NN proposed|VBD $|$ 12|CD trillion|CD worth|NN of|IN discretionary|JJ spending|NN cuts|NNS that|WDT leaned|VBN most|JJS heavily|RB on|IN defense|NN </s>|S_END
+<s>|S_START it|PRP also|RB called|VBD for|IN $|$ 400|CD billion|CD in|IN health|NN savings|NNS and|CC roughly|RB $|$ 300|CD billion|CD in|IN mandatory|NN spending|NN cuts|NNS said|VBD marc|NN goldwein|NN policy|NN director|NN of|IN the|DT committee|NN for|IN a|DT responsible|JJ federal|JJ budget|NN who|WP also|RB worked|VBD on|IN the|DT fiscal|JJ commission|NN staff|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC heres|NNS the|DT catch|NN the|DT democrats|NNS who|WP supported|VBN the|DT proposal|NN did|VBD so|RB because|IN it|PRP was|VBD part|NN of|IN a|DT comprehensive|JJ plan|NN that|WDT included|VBD revenue|NN increases|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ also|RB not|RB clear|JJ whether|IN republicans|NNS will|MD eventually|RB agree|VB to|TO curb|VB tax|NN breaks|NNS which|WDT many|JJ consider|NN a|DT form|NN a|DT government|NN spending|NN through|IN the|DT tax|NN code|NN </s>|S_END
+<s>|S_START the|DT elimination|NN of|IN such|JJ breaks|NNS a|DT key|JJ element|NN in|IN the|DT debt|NN commissions|NNS proposal|NN is|VBZ a|DT way|NN to|TO raise|VB more|JJR revenue|NN without|IN actually|RB raising|VBG tax|NN rates|NNS </s>|S_END
+<s>|S_START blowing|VBG up|IN the|DT tax|NN code|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sen|NN jon|VBD kyl|NN who|WP is|VBZ part|NN of|IN the|DT debt|NN ceiling|NN negotiations|NNS led|VBD by|IN vice|NN president|NN joe|NN biden|NN suggested|VBD in|IN a|DT radio|NN show|NN with|IN larry|NN kudlow|IN that|DT the|DT debt|NN ceiling|NN talks|NNS may|MD not|RB be|VB the|DT best|JJS forum|NN to|TO discuss|VB tax|NN reform|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START im|NN not|RB sure|JJ this|DT is|VBZ the|DT place|NN to|TO do|VB that|DT we|PRP will|MD not|RB consider|VB tax|NN increases|NNS as|IN a|DT part|NN of|IN this|DT discussion|NN kyl|NN said|VBD </s>|S_END
+<s>|S_START as|IN a|DT result|NN its|PRP$ a|DT little|JJ difficult|NN to|TO talk|VB about|IN progrowth|NN tax|NN reform|NN because|IN one|CD of|IN the|DT elements|NNS is|VBZ the|DT elimination|NN of|IN tax|NN expenditures|NNS </s>|S_END
+<s>|S_START when|WRB you|PRP do|VBP that|DT somebodys|NNS taxes|NNS actually|RB go|VBP up|RP </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

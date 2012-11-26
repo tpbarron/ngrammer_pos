@@ -1,0 +1,11 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 27|CD gdp|NN $|$ 43bn|CD ppp|CD $|$ 63bn|CD inflation|NN 28|CD population|NN 32m|CD gdp|NN per|IN head|NN $|$ 13500|CD ppp|CD $|$ 19800|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT centreright|NN homeland|NN unionlithuanian|NN christian|NN democrats|NNS dominate|VBP policymaking|VBG in|IN the|DT minority|NN coalition|NN government|NN but|CC divisions|NNS within|IN both|DT the|DT party|NN and|CC the|DT coalition|NN mean|NN the|DT odds|NNS are|VBP slim|JJ of|IN its|PRP$ surviving|VBG until|IN the|DT october|NN election|NN </s>|S_END
+<s>|S_START its|PRP$ successor|NN will|MD be|VB no|RB more|JJR stable|JJ </s>|S_END
+<s>|S_START austerity|NN is|VBZ in|IN order|NN as|IN the|DT economy|NN climbs|VBZ back|RB from|IN its|PRP$ 2009|CD tumble|JJ but|CC the|DT protests|NNS this|DT government|NN has|VBZ faced|VBN will|MD recur|VB </s>|S_END
+<s>|S_START economic|JJ growth|NN will|MD be|VB modest|JJ though|IN impressive|JJ next|JJ to|TO the|DT 149|CD contraction|NN of|IN 2009|CD </s>|S_END
+</p>|P_END
+

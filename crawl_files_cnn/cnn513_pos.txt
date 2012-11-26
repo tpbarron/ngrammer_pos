@@ -1,0 +1,67 @@
+<p>|P_START
+<s>|S_START business|NN roundtable|JJ chief|NN john|NN engler|NN congratulated|VBD president|NN obama|NN but|CC made|VBD it|PRP clear|JJ he|PRP still|RB opposes|VBZ tax|NN hikes|NNS on|IN the|DT wealthy|JJ as|IN a|DT part|NN of|IN any|DT deal|NN to|TO avert|VB the|DT fiscal|JJ cliff|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START washington|NN cnnmoney|NN three|CD top|JJ bigbusiness|NN groups|NNS extended|VBD an|DT olive|JJ branch|NN to|TO president|NN obama|NN on|IN wednesday|NN saying|VBG past|JJ rancor|NN is|VBZ history|NN and|CC its|PRP$ time|NN to|TO overcome|VB gridlock|NN in|IN washington|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP really|RB dont|JJ think|NN its|PRP$ any|DT secret|NN that|IN the|DT business|NN community|NN has|VBZ had|VBN reservations|NNS over|IN the|DT past|JJ four|CD years|NNS but|CC today|NN that|IN is|VBZ now|RB history|NN said|VBD jay|NN timmons|NNS president|NN of|IN the|DT national|JJ association|NN of|IN manufacturers|NNS </s>|S_END
+<s>|S_START that|DT organization|NN counts|VBZ caterpillar|JJ cat|NN fortune|NN 500|CD crown|NN holdings|NNS cck|VBP fortune|NN 500|CD and|CC dow|NN chemical|NN dow|NN fortune|NN 500|CD as|IN members|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC timmons|NNS and|CC business|NN leaders|NNS still|RB wont|VBP budge|NN as|IN far|RB as|IN tax|NN hikes|NNS on|IN the|DT wealthy|JJ are|VBP concerned|VBN maintaining|VBG that|IN they|PRP should|MD not|RB go|VB through|IN this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START leaders|NNS of|IN the|DT manufacturers|NNS group|NN as|IN well|RB as|IN the|DT business|NN roundtable|JJ and|CC the|DT business|NN industry|NN political|JJ action|NN committee|NN all|DT remain|NN opposed|VBD to|TO income|NN tax|NN hikes|VBZ on|IN the|DT wealthiest|JJS americans|NNS as|RB a|DT part|NN of|IN any|DT deal|NN to|TO stop|VB the|DT nation|NN from|IN going|VBG over|IN the|DT fiscal|JJ cliff|NN </s>|S_END
+<s>|S_START thats|NNS the|DT $|$ 7|CD trillion|CD package|NN of|IN spending|NN cuts|NNS and|CC tax|NN hikes|NNS set|VBD to|TO kick|VB in|IN jan|NN 2|CD if|IN congress|NN doesnt|NN act|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT three|CD groups|NNS include|VBP some|DT member|NN companies|NNS that|WDT contributed|VBD millions|NNS to|TO defeat|VB obama|NN and|CC other|JJ democrats|NNS in|IN congress|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START timmons|NNS said|VBD that|IN any|DT talks|NNS about|IN tax|NN hikes|NNS should|MD be|VB a|DT part|NN of|IN a|DT broader|JJR discussion|NN about|IN reforms|NNS to|TO the|DT us|PRP tax|NN code|NN that|WDT aim|NN to|TO increase|VB economic|JJ growth|NN not|RB the|DT fiscal|JJ cliff|NN talks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START clearly|RB a|DT tax|NN increase|NN is|VBZ not|RB going|VBG to|TO resolve|VB the|DT fiscal|JJ cliff|NN said|VBD greg|NN casey|NN head|NN of|IN the|DT business|NN industry|NN political|JJ action|NN committee|NN a|DT group|NN that|WDT funds|VBZ campaigns|NNS of|IN businessfriendly|RB candidates|VBZ </s>|S_END
+<s>|S_START contributors|NNS include|VBP lockheed|VBN martin|NN lmt|NN fortune|NN 500|CD pricewaterhouse|NN coopers|NNS international|JJ paper|NN ip|NN fortune|NN 500and|CD ppl|NN corp|NN ppl|NN fortune|NN 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB obama|VBP officials|NNS said|VBD last|JJ month|NN that|WDT obama|NN would|MD veto|VB any|DT fiscal|JJ cliff|NN package|NN that|WDT extends|VBZ the|DT bush|NN tax|NN cuts|NNS for|IN top|JJ earners|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START john|NN engler|NN a|DT threeterm|NN republican|NN governor|NN of|IN michigan|NN and|CC president|NN of|IN the|DT business|NN roundtable|JJ said|VBD congress|NN and|CC obama|NN should|MD extend|VB all|DT tax|NN cuts|NNS and|CC delay|NN all|DT spending|NN cuts|NNS for|IN a|DT year|NN </s>|S_END
+<s>|S_START members|NNS of|IN the|DT business|NN roundtable|JJ include|NN ceos|NNS of|IN some|DT of|IN the|DT nations|NNS largest|JJS companies|NNS such|JJ as|IN boeing|NN ba|NN fortune|NN 500|CD honeywell|NN international|JJ hon|NN fortune|NN 500|CD and|CC general|JJ electric|JJ ge|NN fortune|NN 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD wall|DT street|NN nears|NNS electionspending|VBG record|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP think|VBP its|PRP$ very|RB important|JJ to|TO understand|VB its|PRP$ a|DT lame|NN duck|NN session|NN put|VBD the|DT emphasis|NN on|IN lame|NN said|VBD engler|NN </s>|S_END
+<s>|S_START there|EX just|RB isnt|NN much|RB time|NN and|CC so|RB i|PRP think|VBP you|PRP have|VBP to|TO be|VB minimal|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT business|NN leaders|NNS also|RB denied|VBD that|IN the|DT election|NN had|VBD soured|VBN their|PRP$ relationship|NN with|IN democrats|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START an|DT election|NN is|VBZ really|RB a|DT reset|NN timmons|NNS said|VBD </s>|S_END
+<s>|S_START the|DT american|NN people|NNS have|VBP spoken|VBN and|CC business|NN community|NN will|MD respond|VB to|TO that|DT </s>|S_END
+<s>|S_START i|PRP think|VBP we|PRP have|VBP great|JJ opportunities|NNS to|TO work|VB together|RP on|IN a|DT common|JJ cause|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnns|NNS vanessa|VBP longshaw|NN contributed|VBN to|TO this|DT report|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,166 @@
+<p>|P_START
+<s>|S_START jane|NN austen’s|NNS “pride|JJ and|CC prejudice”|JJ is|VBZ a|DT story|NN about|IN love|JJ </s>|S_END
+<s>|S_START it|PRP is|VBZ also|RB about|IN inheritance|NN and|CC income|NN gap|NN </s>|S_END
+<s>|S_START the|DT heroine|NN elizabeth|NN bennet|NN comes|VBZ from|IN a|DT welloff|NN family|NN the|DT second|JJ of|IN five|CD daughter|NN </s>|S_END
+<s>|S_START but|CC her|PRP$ financial|JJ future|NN is|VBZ dark|JJ because|IN in|IN the|DT absence|NN of|IN sons|NNS her|PRP$ father’s|NNS estate|VBP will|MD pass|VB to|TO a|DT cousin|NN </s>|S_END
+<s>|S_START elizabeth’s|NNS suitor|NN the|DT brooding|NN mr|NN darcy|NN is|VBZ fabulously|RB wealthy|JJ </s>|S_END
+<s>|S_START to|TO her|PRP$ mother’s|NNS horror|NN elizabeth|NN at|IN first|JJ rebuffs|NNS him|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT ends|NNS happily|RB when|WRB elizabeth|NN decides|VBZ that|IN darcy|NN is|VBZ ravishing|VBG after|IN all|DT </s>|S_END
+<s>|S_START but|CC her|PRP$ mother’s|NNS reaction|NN is|VBZ a|DT rational|JJ response|NN to|TO the|DT realities|NNS of|IN income|NN distribution|NN and|CC social|JJ mobility|NN in|IN austen’s|NNP time|NN </s>|S_END
+<s>|S_START in|IN an|DT entertaining|NN analysis|NN of|IN inequality|NN “the|DT haves|NNS and|CC the|DT have|VBP nots”|JJ branko|NN milanovic|JJ works|NNS out|IN that|DT by|IN marrying|NN mr|NN darcy|NN elizabeth|NN would|MD increase|VB her|PRP income|NN 100fold|JJ </s>|S_END
+<s>|S_START without|IN him|PRP she|PRP would|MD have|VB the|DT same|JJ income|NN as|IN a|DT merchant|NN seaman|NN </s>|S_END
+<s>|S_START with|IN him|PRP she|PRP would|MD be|VB catapulted|VBN into|IN the|DT top|JJ 01|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START before|IN the|DT industrial|JJ revolution|NN wealth|NN gaps|NNS between|IN countries|NNS were|VBD modest|JJ income|NN per|IN person|NN in|IN the|DT world’s|JJ ten|NN richest|NN countries|NNS was|VBD only|RB six|CD times|NNS higher|JJR than|IN that|DT in|IN the|DT ten|NN poorest|NN </s>|S_END
+<s>|S_START but|CC within|IN each|DT country|NN the|DT distribution|NN of|IN income|NN was|VBD skewed|VBN </s>|S_END
+<s>|S_START in|IN most|JJS places|NNS a|DT small|JJ elite|NN lorded|VBD it|PRP over|IN a|DT mass|NN of|IN peasant|JJ </s>|S_END
+<s>|S_START there|EX was|VBD little|JJ social|JJ mobility|NN except|IN as|IN elizabeth|NN found|VBD through|IN marriage|NN </s>|S_END
+<s>|S_START colonial|JJ america|NN was|VBD an|DT exception|NN to|TO this|DT feudal|NN sclerosi|NN </s>|S_END
+<s>|S_START research|NN by|IN peter|NN lindert|NN and|CC jeffrey|NN williamson|NN shows|VBZ that|IN on|IN the|DT eve|NN of|IN the|DT american|JJ revolution|NN incomes|NNS in|IN the|DT 13|CD colonies|NNS that|WDT formed|VBN the|DT united|VBN states|NNS were|VBD more|JJR equal|JJ than|IN in|IN virtually|RB “any|JJ other|JJ place|NN on|IN the|DT planet”|NNP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT industrial|JJ revolution|NN widened|VBD the|DT gaps|NNS both|DT between|IN countries|NNS and|CC within|IN them|PRP </s>|S_END
+<s>|S_START as|IN incomes|NNS accelerated|VBD in|IN western|JJ europe|NN and|CC then|RB america|VB the|DT distance|NN between|IN these|DT countries|NNS and|CC others|NNS grew|VBD </s>|S_END
+<s>|S_START o|NN too|RB did|VBD internal|JJ income|NN disparitie|NN </s>|S_END
+<s>|S_START one|CD study|NN suggests|VBZ that|IN england’s|JJ gini|NN coefficient|NN shot|NN up|IN from|IN 04|CD in|IN 1823|CD to|TO 063|CD in|IN 1871|CD </s>|S_END
+<s>|S_START mill|NN workers|NNS were|VBD more|JJR productive|JJ and|CC earned|VBD more|RBR than|IN rural|JJ labourer|NN </s>|S_END
+<s>|S_START the|DT great|JJ industrialists|NNS reaped|VBD the|DT rewards|NNS of|IN building|NN railways|NNS steel|NN mills|NNS and|CC other|JJ transformative|JJ technologie|NN </s>|S_END
+<s>|S_START their|PRP$ fortunes|NNS were|VBD also|RB boosted|VBN by|IN monopolistic|JJ power|NN and|CC crony|NN capitalism|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT growth|NN of|IN the|DT industrial|JJ workforce|NN brought|NN increasing|VBG political|JJ pressure|NN for|IN redistribution|NN </s>|S_END
+<s>|S_START communism|NN was|VBD the|DT most|JJS dramatic|JJ result|NN </s>|S_END
+<s>|S_START but|CC capitalist|VBP economies|NNS changed|VBN profoundly|RB too|RB </s>|S_END
+<s>|S_START in|IN response|NN first|RB to|TO the|DT formation|NN of|IN workers’|NNP unions|NNS and|CC the|DT rise|NN of|IN socialist|JJ parties|NNS and|CC then|RB to|TO the|DT depression|NN politicians|NNS on|IN both|DT sides|NNS of|IN the|DT atlantic|JJ introduced|VBN progressive|JJ taxes|NNS government|NN regulation|NN and|CC social|JJ protection|NN </s>|S_END
+<s>|S_START in|IN germany|NN bismarck|NN pioneered|VBD pensions|NNS and|CC unemployment|NN insurance|NN in|IN the|DT 1880|CD </s>|S_END
+<s>|S_START in|IN america|NN theodore|NN roosevelt’s|NNS square|VBP deal|NN broke|NN up|IN monopolies|NNS “trusts”|-NONE- in|IN the|DT first|JJ decade|NN of|IN the|DT 20th|JJ century|NN </s>|S_END
+<s>|S_START in|IN the|DT 1930s|CD the|DT new|JJ deal|NN introduced|VBN social|JJ security|NN pensions|NNS disability|NN and|CC unemployment|NN insurance|NN </s>|S_END
+<s>|S_START in|IN britain|NN lloyd|NN george’s|NNS people’s|-NONE- budget|NN of|IN 1909|CD raised|VBN income|NN taxes|NNS and|CC inheritance|NN taxes|NNS at|IN the|DT top|JJ to|TO fund|VB basic|JJ pensions|NNS as|IN well|RB as|IN unemployment|NN and|CC health|NN insurance|NN for|IN worker|NN </s>|S_END
+<s>|S_START this|DT spartan|NN social|NN safety|NN net|NN was|VBD transformed|VBN by|IN the|DT labour|NN government|NN after|IN 1945|CD with|IN a|DT national|JJ health|NN service|NN and|CC a|DT system|NN of|IN cradletograve|NN benefit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN the|DT three|CD levers|NNS used|VBN to|TO narrow|VB inequality—taxation|NN government|NN spending|NN and|CC regulation—the|NNP tax|NN system|NN changed|VBD the|DT fastest|JJS </s>|S_END
+<s>|S_START until|IN the|DT late|JJ 19th|CD century|NN tariffs|NNS and|CC excise|VB taxes|NNS were|VBD the|DT main|JJ source|NN of|IN revenue|NN </s>|S_END
+<s>|S_START by|IN the|DT 1930s|CD governments|NNS relied|VBD heavily|RB on|IN progressive|JJ income|NN taxes|NNS to|TO fund|VB their|PRP$ much|JJ larger|JJR spending|NN </s>|S_END
+<s>|S_START britain’s|NNS tax|VBP take|NN in|IN 1860|CD was|VBD some|DT 8|CD of|IN gdp|NN by|IN 1927|CD it|PRP had|VBD risen|VBN to|TO almost|RB 20|CD </s>|S_END
+<s>|S_START america|NN changed|VBD its|PRP$ constitution|NN to|TO introduce|VB an|DT income|NN tax|NN in|IN 1913|CD </s>|S_END
+<s>|S_START in|IN 1944|CD the|DT top|JJ rate|NN reached|VBD a|DT peak|NN of|IN 94|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START punitive|JJ rates|NNS of|IN taxation|NN did|VBD not|RB by|IN themselves|PRP transform|NN the|DT income|NN distribution|NN </s>|S_END
+<s>|S_START many|JJ fortunes|NNS in|IN the|DT early|JJ 20th|JJ century|NN were|VBD destroyed|VBN by|IN wars|NNS hyperinflation|NN and|CC the|DT depression|NN france|NN for|IN instance|NN lost|VBD a|DT third|JJ of|IN its|PRP$ capital|NN stock|NN in|IN the|DT first|JJ world|NN war|NN and|CC twothirds|NNS in|IN the|DT second|JJ </s>|S_END
+<s>|S_START but|CC high|JJ tax|NN rates|NNS made|VBN it|PRP much|RB harder|JJR for|IN fortunes|NNS to|TO be|VB built|VBN up|RP again|RB </s>|S_END
+<s>|S_START in|IN most|JJS countries|NNS the|DT share|NN of|IN the|DT top|JJ 1|CD fell|VBD persistently|RB from|IN the|DT 1920s|CD until|IN the|DT late|JJ 1970|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START taxes|NNS rose|VBD across|IN the|DT advanced|JJ world|NN but|CC the|DT ways|NNS that|WDT governments|NNS spent|VBD them|PRP varied|VBD greatly|RB </s>|S_END
+<s>|S_START in|IN america|NN whose|WP$ government|NN was|VBD more|JJR interested|JJ in|IN equality|NN of|IN opportunity|NN than|IN of|IN income|NN the|DT most|JJS transformative|JJ shift|NN was|VBD to|TO bring|VB in|IN mass|NN education|NN </s>|S_END
+<s>|S_START tarting|VBG around|IN 1910|CD america|NN made|VBD huge|JJ investments|NNS in|IN public|JJ high|JJ schools|NNS in|IN pursuit|NN of|IN universal|NN secondary|JJ education|NN </s>|S_END
+<s>|S_START after|IN the|DT second|JJ world|NN war|NN the|DT gi|NN bill|NN offered|VBD all|DT returning|VBG soldiers|NNS the|DT chance|NN of|IN higher|JJR education|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START claudia|NNS goldin|VBP and|CC larry|NN katz|NN two|CD economists|NNS at|IN harvard|NN see|VB this|DT dramatic|JJ boost|NN to|TO education|NN as|IN the|DT main|JJ cause|NN of|IN the|DT narrowing|NN of|IN inequality|NN in|IN america|NN in|IN the|DT mid20th|NNP century|NN </s>|S_END
+<s>|S_START it|PRP also|RB boosted|VBD social|JJ mobility|NN </s>|S_END
+<s>|S_START daniel|NN aaronson|NN and|CC bhashkar|NN mazumder|NN of|IN the|DT federal|JJ reserve|NN bank|NN of|IN chicago|NN found|VBD that|IN as|IN college|NN enrolment|NN surged|VBD in|IN the|DT 1940s|CD the|DT relationship|NN between|IN parents’|JJ and|CC their|PRP$ children’s|NNS relative|JJ earnings|NNS notably|RB weakened|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN europe|NN the|DT emphasis|NN was|VBD on|IN ensuring|NN egalitarian|NN outcomes|VBZ with|IN big|JJ government|NN transfers|NNS particularly|RB after|IN the|DT second|JJ world|NN war|NN </s>|S_END
+<s>|S_START governments|NNS in|IN europe|NN were|VBD slower|JJR than|IN in|IN america|NN to|TO invest|VB in|IN mass|NN education|NN but|CC many|JJ continental|JJ countries|NNS built|VBN even|RB bigger|JJR welfare|NN states|NNS than|IN britain|NN with|IN generous|JJ jobless|NN benefits|NNS child|VBP subsidies|NNS and|CC income|NN support|NN </s>|S_END
+<s>|S_START in|IN virtually|RB all|DT rich|JJ countries|NNS other|JJ than|IN america|NN such|JJ benefits|NNS rather|RB than|IN progressive|JJ tax|NN systems|NNS became|VBD the|DT most|JJS important|JJ instruments|NNS for|IN reducing|VBG inequality|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT third|JJ leg|NN of|IN the|DT state’s|JJ response|NN to|TO inequality|NN was|VBD regulation|NN </s>|S_END
+<s>|S_START roosevelt’s|NNS trustbusting|VBG weakened|VBN america’s|-NONE- robber|NN barons|NNS and|CC other|JJ legal|JJ changes|NNS protected|VBN workers’|-NONE- rights|NNS to|TO organise|VB and|CC especially|RB in|IN europe|NN to|TO conclude|VB binding|NN national|JJ pay|NN agreement|NN </s>|S_END
+<s>|S_START union|NN power|NN soared|VBD and|CC minimum|JJ wages|NNS enshrined|VBD in|IN law|NN narrowed|VBD the|DT gap|NN between|IN workers|NNS and|CC manager|NN </s>|S_END
+<s>|S_START banking|NN a|DT big|JJ source|NN of|IN wealth|NN in|IN the|DT early|JJ 20th|JJ century|NN was|VBD heavily|RB regulated|VBN after|IN the|DT depression|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT great|JJ compression|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT this|DT meant|NN that|IN for|IN decades|NNS incomes|NNS at|IN the|DT bottom|NN and|CC in|IN the|DT middle|NN of|IN the|DT distribution|NN grew|VBD faster|JJR than|IN those|DT at|IN the|DT top|JJ </s>|S_END
+<s>|S_START the|DT exact|JJ timing|NN and|CC scale|NN differed|VBD </s>|S_END
+<s>|S_START in|IN america|NN disparities|NNS declined|VBD fastest|JJS in|IN the|DT 1930s|CD and|CC 1940s|CD in|IN europe|NN after|IN the|DT second|JJ world|NN war|NN </s>|S_END
+<s>|S_START america’s|NNS gini|VBP coefficient|NN reached|VBN a|DT low|JJ of|IN around|IN 03|CD in|IN the|DT mid1970s|NNP and|CC sweden’s|NNP hit|VBD 02|CD at|IN about|IN the|DT same|JJ time|NN </s>|S_END
+<s>|S_START in|IN most|JJS advanced|JJ economies|NNS the|DT gap|NN between|IN rich|JJ and|CC poor|JJ in|IN the|DT 1970s|CD was|VBD a|DT lot|NN narrower|NN than|IN it|PRP had|VBD been|VBN in|IN the|DT 1920|CD </s>|S_END
+<s>|S_START this|DT was|VBD the|DT era|NN now|RB widely|RB known|VBN as|IN the|DT “great|JJ compression”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START income|NN gaps|RB between|IN countries|NNS however|RB continued|VBN to|TO widen|VB as|IN the|DT advanced|JJ industrial|JJ economies|NNS pulled|VBD ever|RB farther|JJR ahead|RB of|IN less|JJR developed|VBN ones|NNS with|IN a|DT few|JJ notable|JJ exceptions|NNS such|JJ as|IN postwar|NN japan|NN and|CC then|RB taiwan|JJ and|CC south|NN korea|NN </s>|S_END
+<s>|S_START by|IN the|DT 1970s|CD average|NN income|NN per|IN person|NN in|IN the|DT ten|NN richest|NN countries|NNS was|VBD around|IN 40|CD times|NNS higher|JJR than|IN that|DT in|IN the|DT ten|NN poorest|NN </s>|S_END
+<s>|S_START this|DT divergence|NN among|IN countries|NNS outweighed|VBD the|DT compression|NN within|IN them|PRP </s>|S_END
+<s>|S_START as|IN a|DT result|NN the|DT “global|JJ gini”|NN as|IN measured|VBN by|IN messrs|NNS bourguignon|IN and|CC morrisson|NN rose|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC around|IN 1980|CD both|DT these|DT trends|NNS went|VBD into|IN reverse|NN </s>|S_END
+<s>|S_START globally|RB poorer|JJR countries|NNS began|VBD to|TO catch|VB up|RP with|IN richer|JJR ones|NNS and|CC within|IN countries|NNS richer|IN people|NNS began|VBD to|TO pull|VB ahead|RB </s>|S_END
+<s>|S_START the|DT surge|NN in|IN emerging|NN markets|NNS began|VBD with|IN deng|JJ xiaoping’s|NNS 1978|CD reforms|NNS in|IN china|NN </s>|S_END
+<s>|S_START by|IN the|DT 2000s|CD the|DT large|JJ majority|NN of|IN emerging|VBG economies|NNS were|VBD growing|VBG consistently|RB faster|JJR than|IN rich|JJ countries|NNS so|IN much|RB so|RB that|IN global|JJ inequality|NN at|IN last|JJ started|VBN to|TO fall|VB even|RB as|IN the|DT gaps|NNS within|IN many|JJ countries|NNS increased|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT coincidence|NN of|IN timing|NN suggests|VBZ that|IN the|DT reversals|NNS are|VBP related|VBN </s>|S_END
+<s>|S_START the|DT huge|JJ changes|NNS that|WDT have|VBP swept|VBN the|DT world|NN economy|NN since|IN 1980—globalisation|CD deregulation|NN the|DT informationtechnology|NN revolution|NN and|CC the|DT associated|VBN expansion|NN of|IN trade|NN capital|NN flows|VBZ and|CC global|JJ supply|NN chains—narrowed|JJ income|NN gaps|NNS between|IN countries|NNS and|CC widened|VBD them|PRP within|IN them|PRP at|IN the|DT same|JJ time|NN </s>|S_END
+<s>|S_START the|DT modern|JJ economy’s|NNS global|JJ reach|NN hugely|RB increased|VBD the|DT size|NN of|IN markets|NNS and|CC the|DT rewards|NNS to|TO the|DT most|JJS successful|JJ </s>|S_END
+<s>|S_START new|JJ technologies|NNS pushed|VBN up|RP demand|NN for|IN the|DT brainy|NN and|CC welleducated|VBD boosting|VBG the|DT incomes|NNS of|IN elite|JJ worker|NN </s>|S_END
+<s>|S_START the|DT integration|NN of|IN some|DT 15|CD billion|CD emergingcountry|NN workers|NNS into|IN the|DT global|JJ market|NN economy|NN boosted|VBD returns|NNS to|TO capital|NN ensuring|VBG that|IN the|DT “haves”|NNP would|MD have|VB more|JJR </s>|S_END
+<s>|S_START it|PRP also|RB hit|VBD the|DT rich|JJ world’s|NNS less|RBR educated|VBN folk|NN with|IN unaccustomed|VBN competition|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START politicians|NNS in|IN search|NN of|IN a|DT scapegoat|JJ find|NN it|PRP easier|JJR to|TO blame|VB globalisation|NN than|IN technology|NN for|IN the|DT widening|VBG wage|NN gaps|NNS in|IN rich|JJ countries|NNS and|CC some|DT studies|NNS of|IN america’s|NNS wage|NN dispersion|NN conclude|NN that|IN around|IN 1015|CD of|IN the|DT widening|NN wage|NN gap|NN can|MD be|VB explained|VBN by|IN trade|NN </s>|S_END
+<s>|S_START one|CD analysis|NN by|IN david|JJ autor|NN at|IN mit|NN and|CC colleagues|NNS suggests|NNS that|WDT in|IN manufacturing|NN the|DT impact|NN of|IN trade|NN with|IN china|NN could|MD be|VB much|JJ bigger|JJR </s>|S_END
+<s>|S_START but|CC most|JJS economists|NNS reckon|VBP that|IN technological|JJ change|NN plays|NNS a|DT far|NN bigger|NN role|NN </s>|S_END
+<s>|S_START the|DT oecd|NN in|IN a|DT big|JJ crosscountry|NN analysis|NN concludes|VBZ that|IN “skillbiased|JJ technological|JJ change”|NN is|VBZ one|CD of|IN the|DT main|JJ determinants|NNS of|IN the|DT rich|JJ world’s|NNS wage|NN inequality|NN </s>|S_END
+<s>|S_START on|IN average|JJ it|PRP finds|VBZ globalisation—as|JJ measured|VBN by|IN a|DT country’s|JJ trade|NN exposure|NN and|CC financial|JJ openness—has|JJ no|DT significant|JJ impact|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whatever|NN the|DT exact|JJ breakdown|NN these|DT two|CD factors|NNS are|VBP increasingly|RB hard|RB to|TO separate|VB </s>|S_END
+<s>|S_START the|DT it|PRP revolution|NN has|VBZ allowed|VBN more|JJR goods|NNS and|CC services|NNS to|TO be|VB traded|VBN across|IN borders|NNS and|CC it|PRP has|VBZ fuelled|VBN the|DT integration|NN of|IN the|DT global|JJ capital|NN market|NN </s>|S_END
+<s>|S_START at|IN the|DT same|JJ time|NN emerging|VBG economies|NNS are|VBP now|RB often|RB the|DT source|NN of|IN innovation|NN </s>|S_END
+<s>|S_START technology|NN accelerates|NNS globalisation|NN and|CC globalisation|NN accelerates|NNS technological|JJ progre|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT same|JJ time|NN technology|NN is|VBZ undermining|VBG some|DT of|IN the|DT 20th|JJ century’s|NNS equalising|VBG institution|NN </s>|S_END
+<s>|S_START assemblyline|NN manufacturing|NN for|IN instance|NN was|VBD conducive|JJ to|TO union|NN organisation|NN </s>|S_END
+<s>|S_START that|DT is|VBZ much|JJ less|NN true|JJ of|IN many|JJ of|IN the|DT cognitive|JJ jobs|NNS of|IN the|DT digital|JJ era|NN </s>|S_END
+<s>|S_START many|JJ social|JJ transformations|NNS are|VBP also|RB making|VBG inequality|NN worse|NN particularly|RB the|DT rise|NN of|IN single|JJ parenthood|NN and|CC “assortative|JJ mating”|NN the|DT tendency|NN of|IN educated|VBN people|NNS to|TO marry|VB each|DT other|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START does|VBZ all|DT this|DT mean|JJ that|IN ever|RB widening|VBG inequality|NN is|VBZ inevitable|JJ </s>|S_END
+<s>|S_START the|DT history|NN of|IN inequality|NN suggests|VBZ it|PRP need|VBP not|RB be|VB and|CC offers|NNS two|CD lesson|NN </s>|S_END
+<s>|S_START the|DT first|JJ is|VBZ that|IN market|NN and|CC social|JJ forces|NNS do|VBP not|RB operate|VB in|IN a|DT vacuum|NN </s>|S_END
+<s>|S_START for|IN good|NN or|CC ill|RB the|DT mix|NN of|IN tax|NN reforms|NNS welfare|VBP programmes|NNS and|CC regulatory|JJ interventions|NNS pursued|VBN in|IN the|DT 20th|JJ century|NN combined|VBN to|TO reduce|VB inequality|NN </s>|S_END
+<s>|S_START those|DT policy|NN choices|NNS matter|NN just|RB as|IN much|JJ today|NN </s>|S_END
+<s>|S_START if|IN they|PRP did|VBD not|RB changes|NNS in|IN income|NN distribution|NN would|MD have|VB been|VBN much|RB more|RBR uniform|NN across|IN countrie|NN </s>|S_END
+<s>|S_START instead|RB much|JJ like|IN a|DT century|NN ago|IN sweeping|JJ global|JJ forces|NNS have|VBP been|VBN muted|VBN or|CC exacerbated|VBN by|IN government|NN policies|NNS and|CC social|JJ institution|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT second|JJ lesson|NN is|VBZ that|IN governments|NNS can|MD narrow|VB inequality|NN without|IN largescale|NN redistribution|NN or|CC an|DT ever|NN growing|VBG state|NN </s>|S_END
+<s>|S_START the|DT 20th|JJ century’s|NNS most|JJS dramatic|JJ reductions|NNS in|IN income|NN gaps|NNS took|VBD place|NN when|WRB governments|NNS by|IN and|CC large|JJ were|VBD smaller|JJR than|IN they|PRP are|VBP today|NN </s>|S_END
+<s>|S_START large|JJ rigid|NN welfare|NN states|VBZ proved|VBN unsustainable|JJ </s>|S_END
+<s>|S_START but|CC there|EX was|VBD also|RB a|DT successful|JJ progressive|JJ prescription|NN for|IN reducing|NN income|NN gaps|NNS and|CC boosting|VBG mobility|NN by|IN attacking|NN crony|NN capitalism|NN investing|NN in|IN the|DT young|JJ especially|RB by|IN broadening|NN access|NN to|TO education|NN and|CC creating|VBG a|DT safety|NN net|NN for|IN the|DT poorest|JJS particularly|RB through|IN unemployment|NN insurance|NN and|CC pension|NN scheme|NN </s>|S_END
+<s>|S_START worryingly|RB governments|VBZ in|IN some|DT of|IN the|DT countries|NNS where|WRB inequality|NN has|VBZ risen|VBN most|RBS seem|JJ to|TO have|VB forgotten|VBN that|IN </s>|S_END
+</p>|P_END
+

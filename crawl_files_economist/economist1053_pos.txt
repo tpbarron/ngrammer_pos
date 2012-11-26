@@ -1,0 +1,59 @@
+<p>|P_START
+<s>|S_START one|CD of|IN biology’s|JJ hottest|NN topics|NNS is|VBZ epigenetic|JJ </s>|S_END
+<s>|S_START the|DT term|NN itself|PRP covers|VBZ a|DT multitude|NN of|IN sin|NN </s>|S_END
+<s>|S_START trictly|RB speaking|VBG it|PRP refers|NNS to|TO the|DT regulation|NN of|IN gene|NN expression|NN by|IN the|DT chemical|JJ modification|NN of|IN dna|NN or|CC of|IN the|DT histone|NN proteins|NNS in|IN which|WDT dna|NN is|VBZ usually|RB wrapped|VBN </s>|S_END
+<s>|S_START this|DT modification|NN is|VBZ either|DT the|DT addition|NN of|IN methyl|NN groups|NNS a|DT carbon|NN atom|NN and|CC three|CD hydrogens|NNS to|TO the|DT dna|NN or|CC of|IN acetyl|NN groups|NNS two|CD carbons|NNS three|CD hydrogens|NNS and|CC an|DT oxygen|NN to|TO the|DT histone|NN </s>|S_END
+<s>|S_START methylation|NN switches|NNS genes|NNS off|IN </s>|S_END
+<s>|S_START acetylation|NN switches|NNS them|PRP on|IN </s>|S_END
+<s>|S_START ince|NN in|IN a|DT multicellular|JJ organism|NN different|JJ cells|NNS need|VBP different|JJ genes|NNS to|TO be|VB active|JJ such|JJ regulation|NN is|VBZ vital|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP has|VBZ got|VBN a|DT lot|NN of|IN people|NNS excited|VBN though|IN is|VBZ the|DT idea|NN that|IN epigenetic|JJ switches|NNS might|MD be|VB transmitted|VBN down|RP the|DT generation|NN </s>|S_END
+<s>|S_START ome|NN see|VBP this|DT as|IN contrary|NN to|TO darwinism|NN since|IN it|PRP would|MD permit|VB characteristics|NNS acquired|VBN during|IN an|DT organism’s|JJ lifetime|NN to|TO be|VB passed|VBN on|IN to|TO its|PRP$ offspring|NN as|IN suggested|VBN by|IN a|DT rival|NN theory|NN of|IN evolution|NN put|VBD forward|RB by|IN jeanbaptiste|NN lamarck|NN </s>|S_END
+<s>|S_START this|DT is|VBZ an|DT exaggeration|NN </s>|S_END
+<s>|S_START the|DT dna|NN sequence|NN itself|PRP is|VBZ not|RB being|VBG permanently|RB altered|VBN </s>|S_END
+<s>|S_START even|RB those|DT epigenetic|JJ changes|NNS that|WDT are|VBP inherited|VBN seem|NN to|TO be|VB subsequently|RB reversible|JJ </s>|S_END
+<s>|S_START but|CC the|DT idea|NN that|IN acquired|VBN characteristics|NNS can|MD be|VB inherited|VBN at|IN all|DT is|VBZ still|RB an|DT important|JJ and|CC novel|NN one|CD and|CC a|DT worrying|NN example|NN of|IN the|DT phenomenon|NN has|VBZ been|VBN published|VBN this|DT week|NN in|IN biomed|VBN central|JJ medicine|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT study|NN in|IN question|NN by|IN virender|NN rehan|IN of|IN the|DT los|NNS angeles|VBZ biomedical|JJ research|NN institute|NN and|CC his|PRP$ colleagues|NNS was|VBD of|IN the|DT intergenerational|JJ effects|NNS of|IN nicotine|NN </s>|S_END
+<s>|S_START it|PRP was|VBD done|VBN in|IN rats|NNS but|CC a|DT rat’s|JJ physiology|NN is|VBZ sufficiently|RB similar|JJ to|TO a|DT human’s|JJ to|TO suspect|VB the|DT same|JJ thing|NN may|MD be|VB true|JJ in|IN homo|NN sapien|NN </s>|S_END
+<s>|S_START in|IN a|DT nutshell|NN dr|NN rehan|IN showed|VBD that|IN if|IN pregnant|JJ rats|NNS are|VBP exposed|VBN to|TO nicotine|VB not|RB only|RB will|MD their|PRP$ offspring|NN develop|NN the|DT asthma|NN induced|VBD by|IN this|DT drug|NN so|IN will|MD the|DT offspring|NN of|IN those|DT offspring|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN rehan|VBD and|CC his|PRP$ team|NN injected|VBD their|PRP$ rats|NNS with|IN nicotine|NN when|WRB they|PRP were|VBD six|CD days|NNS pregnant|JJ </s>|S_END
+<s>|S_START rat|IN pregnancies|NNS last|JJ 22|CD day|NN </s>|S_END
+<s>|S_START they|PRP then|RB allowed|VBD them|PRP to|TO give|VB birth|JJ and|CC raised|VBN the|DT pups|NNS to|TO the|DT age|NN of|IN three|CD weeks|NNS before|IN some|DT were|VBD examined|VBN </s>|S_END
+<s>|S_START the|DT rest|NN were|VBD allowed|VBN to|TO mature|VB and|CC breed|VB and|CC their|PRP$ own|JJ offspring|NN were|VBD similarly|RB examined|VBN </s>|S_END
+<s>|S_START there|EX was|VBD however|RB no|DT further|JJ administration|NN of|IN nicotine|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT pups|NNS of|IN the|DT treated|VBN mothers|NNS had|VBD asthmatic|JJ lung|NN </s>|S_END
+<s>|S_START the|DT organs’|NN airways|VBZ were|VBD constricted|VBN and|CC molecular|JJ analysis|NN showed|VBD abnormally|RB high|JJ levels|NNS of|IN fibronectin|NN and|CC collagen—which|JJ would|MD stiffen|VB the|DT lung|NN tissue—and|NN also|RB high|JJ levels|NNS of|IN receptor|NN molecules|NNS for|IN nicotine|NN </s>|S_END
+<s>|S_START that|DT was|VBD expected|VBN since|IN the|DT developing|VBG embryos|NNS were|VBD exposed|VBN to|TO the|DT nicotine|NN when|WRB their|PRP$ mothers|NNS were|VBD treated|VBN </s>|S_END
+<s>|S_START however|RB when|WRB the|DT team|NN did|VBD similar|JJ tests|NNS on|IN the|DT grandoffspring|NN of|IN the|DT treated|VBN mothers|NNS they|PRP got|VBD similar|JJ result|NN </s>|S_END
+<s>|S_START those|DT grandoffspring|VBG had|VBD not|RB been|VBN exposed|VBN to|TO nicotine|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT cause|NN of|IN the|DT grandoffsprings’|JJ asthma|NN dr|NN rehan|IN believes|NNS is|VBZ epigenetic|JJ modification|NN </s>|S_END
+<s>|S_START nicotine|NN is|VBZ not|RB only|RB affecting|VBG lung|NN cells|NNS but|CC also|RB affecting|VBG sex|NN cells|NNS in|IN ways|NNS that|WDT cause|NN the|DT lungs|NNS which|WDT ultimately|RB develop|VB from|IN those|DT cells|NNS to|TO express|NN their|PRP$ genes|NNS in|IN the|DT same|JJ abnormal|NN way|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START exactly|RB what|WP those|DT epigenetic|JJ changes|NNS are|VBP is|VBZ hard|JJ to|TO track|VB down|RP </s>|S_END
+<s>|S_START the|DT team|NN have|VBP started|VBN looking|VBG but|CC could|MD find|VB no|DT clear|JJ pattern|NN except|IN that|DT one|CD form|NN of|IN nicotineinduced|VBN acetylation|NN that|IN of|IN h3|NNP histones|NNS histones|NNS come|VBP in|IN five|CD varieties|NNS could|MD be|VB blocked|VBN by|IN a|DT molecule|NN called|VBN rgz|NN </s>|S_END
+<s>|S_START this|DT molecule|NN is|VBZ also|RB known|VBN to|TO protect|VB lungs|NNS against|IN the|DT asthmacausing|NN effects|NNS of|IN nicotine|NN </s>|S_END
+<s>|S_START that|DT suggests|VBZ it|PRP is|VBZ the|DT acetylation|NN of|IN h3|NNP histones|NNS rather|RB than|IN the|DT methylation|NN of|IN dna|NN itself|PRP that|IN is|VBZ creating|VBG the|DT effect|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START which|WDT crucial|JJ genes|NNS these|DT histones|NNS surround|VBP remains|NNS obscure|NN </s>|S_END
+<s>|S_START nor|CC have|VBP the|DT team|NN yet|RB found|VBN out|RP whether|IN the|DT epigenetic|JJ effect|NN they|PRP have|VBP discovered|VBN reaches|NNS further|RB than|IN grandoffspring|VBG </s>|S_END
+<s>|S_START if|IN it|PRP does|VBZ though|IN it|PRP suggests|VBZ that|IN epigenetics|NNS really|RB might|MD act|VB like|IN the|DT biblical|JJ curse|NN that|WDT the|DT sins|NNS of|IN the|DT fathers|NNS or|CC in|IN this|DT case|NN the|DT mothers|NNS will|MD be|VB visited|VBN on|IN the|DT sons|NNS even|RB unto|IN the|DT third|JJ and|CC fourth|JJ generation|NN </s>|S_END
+</p>|P_END
+

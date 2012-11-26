@@ -1,0 +1,91 @@
+<p>|P_START
+<s>|S_START senate|NN failed|VBD to|TO take|VB up|RP a|DT bill|NN to|TO extend|VB student|NN loan|NN rates|NNS on|IN tuesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START washington|NN cnnmoney|NN with|IN federal|JJ student|NN loan|NN interest|NN rates|NNS set|VBD to|TO double|JJ july|RB 1|CD the|DT senate|NN failed|VBD tuesday|NN to|TO get|VB enough|RB votes|VBZ to|TO take|VB up|RP a|DT bill|NN to|TO extend|VB low|JJ 34|CD rates|NNS for|IN another|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT vote|NN was|VBD 5245|CD to|TO take|VB up|RP the|DT bill|NN 8|CD fewer|JJR than|IN the|DT 60|CD needed|VBN to|TO officially|RB start|VB debating|VBG the|DT bill|NN </s>|S_END
+<s>|S_START senate|NN republicans|NNS and|CC democrats|NNS are|VBP still|RB negotiating|VBG a|DT compromise|NN and|CC the|DT senate|NN could|MD vote|VB again|RB this|DT week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN washington|NN many|JJ lawmakers|NNS in|IN both|DT parties|NNS agree|VBP theyd|JJ like|IN to|TO extend|VB the|DT current|JJ 34|CD rates|NNS for|IN another|DT year|NN </s>|S_END
+<s>|S_START what|WP they|PRP dont|VBP agree|VBP on|IN is|VBZ how|WRB to|TO offset|VB the|DT $|$ 6|CD billion|CD it|PRP would|MD cost|VB to|TO do|VB so|RB a|DT substantial|JJ hurdle|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START house|NN republicans|NNS passed|VBD a|DT measure|NN that|WDT would|MD pay|VB for|IN extending|NN the|DT lower|JJR student|NN loan|NN rate|NN by|IN cutting|NN from|IN a|DT health|NN care|NN fund|NN that|WDT promotes|VBZ preventive|JJ care|NN </s>|S_END
+<s>|S_START president|NN obama|VBD vowed|VBN to|TO veto|VB that|IN bill|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START president|NN obama|VBD and|CC senate|NN democrats|NNS want|VBP to|TO pay|VB for|IN the|DT measure|NN by|IN eliminating|NN some|DT tax|NN benefits|NNS for|IN small|JJ business|NN owners|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START senate|NN republicans|NNS say|VBP the|DT democrats|NNS arent|VBP serious|JJ about|IN extending|VBG low|JJ rates|NNS that|WDT theyre|NN just|RB looking|VBG for|IN political|JJ campaign|NN material|NN this|DT summer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rather|RB than|IN prevent|NN an|DT increase|NN in|IN student|NN loan|NN rates|NNS they|PRP want|VBP to|TO check|VB a|DT political|JJ box|NN wrote|VBD senate|NN minority|NN leader|NN mitch|NN mcconnell|NN in|IN an|DT oped|JJ piece|NN in|IN politico|NN on|IN tuesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN congress|NN doesnt|NN act|NN by|IN july|RB 1|CD more|JJR than|IN 7|CD million|CD undergraduates|NNS taking|VBG out|RP federally|RB subsidized|VBN loans|NNS to|TO cover|VB next|JJ years|NNS tuition|NN will|MD have|VB to|TO dig|VB deeper|NN in|IN their|PRP$ pockets|NNS to|TO pay|VB them|PRP off|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT average|JJ cost|NN to|TO students|NNS would|MD be|VB $|$ 1000|CD in|IN increased|VBN student|NN loan|NN debt|NN according|VBG to|TO the|DT white|JJ house|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN the|DT issue|NN has|VBZ been|VBN brewing|VBG for|IN months|NNS president|NN obama|NN turned|VBD it|PRP into|IN a|DT big|JJ political|JJ flashpoint|NN using|VBG the|DT issue|NN to|TO stump|VB for|IN votes|NNS </s>|S_END
+<s>|S_START his|PRP$ republican|NN rival|NN mitt|NN romney|NN says|VBZ he|PRP too|RB believes|VBZ congress|NN should|MD step|VB in|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN subsidized|VBN student|NN loans|NNS the|DT federal|JJ government|NN absorbs|NNS some|DT of|IN the|DT interest|NN rate|NN for|IN lower|JJR and|CC middleincome|NN families|NNS based|VBN on|IN financial|JJ need|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS students|NNS including|VBG graduates|NNS pay|NN 68|CD on|IN socalled|VBN subsidized|VBN stafford|NN loans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC in|IN 2007|CD lawmakers|NNS temporarily|RB cut|VBD the|DT rate|NN for|IN undergraduates|NNS taking|VBG out|RP those|DT loans|NNS up|IN to|TO the|DT 2011|CD school|NN year|NN </s>|S_END
+<s>|S_START the|DT lower|JJR rates|NNS were|VBD phased|VBN in|IN so|RB students|NNS have|VBP really|RB only|RB enjoyed|VBN the|DT lowest|JJS 34|CD rate|NN on|IN subsidized|VBN federal|JJ loans|NNS for|IN one|CD school|NN year|NN </s>|S_END
+<s>|S_START the|DT 2007|CD law|NN allowed|VBD interest|NN rates|NNS to|TO revert|VB back|RB to|TO 68|CD for|IN the|DT 20122013|CD school|NN year|NN starting|VBG july|RB 1|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START students|NNS are|VBP paying|VBG close|JJ attention|NN to|TO the|DT issue|NN </s>|S_END
+<s>|S_START with|IN unemployment|NN just|RB below|IN 24|CD for|IN teenagers|NNS and|CC 14|CD for|IN those|DT ages|NNS 20|CD to|TO 24|CD more|JJR young|JJ people|NNS are|VBP going|VBG back|RB to|TO school|NN or|CC staying|VBG in|IN school|NN according|VBG to|TO recent|JJ data|NNS by|IN equifax|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START additionally|RB more|JJR students|NNS struggle|JJ to|TO pay|VB back|RB these|DT loans|NNS </s>|S_END
+<s>|S_START student|NN loan|NN delinquencies|NNS with|IN payments|NNS more|JJR than|IN three|CD months|NNS late|JJ rose|NN 146|CD in|IN 2011|CD from|IN the|DT year|NN before|IN according|VBG to|TO equifax|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD student|NN financial|JJ loan|NN expert|NN jason|NN delisle|NN of|IN the|DT leftleaning|NN new|JJ america|NN foundation|NN points|NNS out|IN that|DT there|EX are|VBP programs|NNS already|RB in|IN existence|NN that|IN ease|NN the|DT repayment|NN burden|NN for|IN unemployed|VBN and|CC under|IN employed|VBN graduates|NNS </s>|S_END
+<s>|S_START he|PRP thinks|VBZ the|DT federal|JJ government|NN can|MD help|VB more|RBR students|NNS in|IN other|JJ ways|NNS such|JJ as|IN maintaining|NN funds|NNS for|IN pell|NN grants|NNS going|VBG to|TO lowerincome|VB students|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START delisle|NN points|NNS out|IN that|DT even|RB the|DT 68|CD interest|NN rate|NN is|VBZ also|RB a|DT subsidized|VBN rate|NN thats|NNS lower|JJR than|IN what|WP students|NNS will|MD find|VB on|IN the|DT private|JJ market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START youre|NN spending|NN a|DT big|JJ chunk|NN of|IN money|NN and|CC its|PRP$ a|DT very|RB diffuse|NN backend|NN loaded|VBD subsidy|NN delisle|NN said|VBD </s>|S_END
+<s>|S_START a|DT 34|CD interest|NN rate|NN is|VBZ very|RB very|RB heavily|RB subsidized|VBN </s>|S_END
+<s>|S_START this|DT is|VBZ going|VBG to|TO be|VB something|NN students|NNS will|MD benefit|VB from|IN a|DT long|JJ period|NN of|IN time|NN and|CC some|DT of|IN them|PRP dont|VBP need|VBP it|PRP at|IN all|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnns|NNS ted|VBD barrett|NN contributed|VBN to|TO this|DT report |NN </s>|S_END
+</p>|P_END
+

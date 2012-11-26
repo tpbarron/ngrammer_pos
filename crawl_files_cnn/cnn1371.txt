@@ -1,0 +1,118 @@
+<p>
+<s>cloudflare ceo matthew prince discusses cybersecurity and threats from hackers at the rsa conference</s>
+</p>
+
+<p>
+<s>san francisco cnnmoney  on june 2 hacktivist collective lulzsec burst onto the cybersecurity scene with a splashy exploit it published a trove of data stolen from 1 million user accounts on sonys website</s>
+</p>
+
+<p>
+<s>lulzsecs website immediately crashed under a massive traffic attack from foes seeking to hack the hackers</s>
+<s>within the hour lulzsec signed up for a website optimization service called cloudflare  and nine minutes later its site was back online</s>
+</p>
+
+<p>
+<s>thats how cloudflare a silicon valley startup with a staff of 30 found itself in the middle one of the years biggest cybersecurity battles</s>
+</p>
+
+<p>
+<s>everyone  from threeletter government agencies to whitehat hackers to blackhat hackers  spent the next 23 days trying to discover where exactly is lulz hosted and how can we knock them offline said cloudflare ceo matthew prince</s>
+<s>we literally sat in the crossfire of that</s>
+</p>
+
+<p>
+<s>lulzsec burned bright and fast</s>
+<s>it followed the sony hack with a string of highprofile feats  including crashing the cias website  then abruptly announced its retirement and shut down</s>
+</p>
+
+<p>
+<s>eight months later prince shared his war story during a packed session at rsas annual security conference in san francisco</s>
+</p>
+
+<p>
+<s>when they took down the cias website that was a difficult day for us prince said dryly</s>
+<s>we made a lot of friends with some government agencies</s>
+</p>
+
+<p>
+<s>cloudflare provides an invisible but vital web service it speeds up the performance of websites and protects them from traffic surges and attacks</s>
+<s>thats something typically handled by large vendors like akamai akam and level 3 lvlt</s>
+<s>launched less than two years ago cloudflare shook up the industry by offering many of its services at no cost</s>
+</p>
+
+<p>
+<s>thats what drew lulzsec in</s>
+<s>with a name and email address customers can sign up on clouldflares website for free and start using it seconds later</s>
+<s>lulzsec offered its enthusiastic endorsement tweeting out we love cloudflare mr ceo of cloudflare</s>
+</p>
+
+<p>
+<s>cloudflare wasnt sure it loved lulzsec</s>
+</p>
+
+<p>
+<s>this was a little bit of an existential crisis for us</s>
+<s>we sat back and thought is this who we want to have on our network</s>
+<s> prince said</s>
+</p>
+
+<p>
+<s>the company decided to keep lulzsec for two reasons</s>
+<s>one it didnt want to go down the slippery slope of censoring which sites it serves</s>
+<s>and second it wanted to see what a lightning rod like lulzsec would do to its network</s>
+</p>
+
+<p>
+<s>prince calls lulzsecs 23day rampage the kind of stresstest money cant buy</s>
+</p>
+
+<p>
+<s>in terms of actual traffic and attacks lulzsec turned out to be a fairly runofthemill customer</s>
+</p>
+
+<p>
+<s>on its busiest day the lulzsec site did around 63 million pageviews  a minuscule fraction of the 30 billion pageviews a month cloudflare now supports</s>
+<s>lulzsec drew a constant stream of denial of service ddos attacks which aim to shut a site down by overwhelming its servers with traffic but they too were fairly routine</s>
+</p>
+
+<p>
+<s>on the peak day they got about 21 gb of attack traffic prince recalled</s>
+<s>we had an attack this morning that got 30 gb of traffic per second</s>
+</p>
+
+<p>
+<s>ddos attacks are typically viewed by security pros as more of a prank than a serious attack</s>
+<s>theyre lowtech shortlived and dont involve any actual data breaches</s>
+<s>the target site simply crashes until the traffic deluge dies down</s>
+</p>
+
+<p>
+<s>but theyre becoming a tool of choice for cybercriminals</s>
+<s>cloudflares network has seen a 700 increase in ddos attacks over the past year</s>
+</p>
+
+<p>
+<s>as an example prince offered up the case of the valentines day massacre</s>
+<s> on feb 13 around 1000 smalltime florists got an email instructing them to send $1000 to an account in china or face a website blackout the next day</s>
+<s>ftdcom worked with cloudflare to keep the florists sites online</s>
+</p>
+
+<p>
+<s>prince said he envies that level of coordination</s>
+</p>
+
+<p>
+<s>the real talent these hacking groups like anonymous have is not hacking skill but the ability to get a lot of people to move in the same direction he said</s>
+</p>
+
+<p>
+<s>in the end prince said that was one of his biggest takeaways from laffair lulzsec</s>
+</p>
+
+<p>
+<s>the lulzsec folks caused real harm he said</s>
+<s>its cute and its fun and they were sort of media darlings but if we are going to defeat organizations like this we have to start adopting some of their tactics</s>
+<s>we have to start working together more as a community</s>
+<s> </s>
+</p>
+

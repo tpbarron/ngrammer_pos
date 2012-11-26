@@ -1,0 +1,121 @@
+<p>|P_START
+<s>|S_START theres|NNS a|DT lot|NN in|IN store|NN for|IN small|JJ business|NN owners|NNS in|IN president|NN obamas|NNS health|NN reform|NN law|NN </s>|S_END
+<s>|S_START they|PRP should|MD keep|VB a|DT close|JJ eye|NN on|IN the|DT upcoming|NN supreme|NN court|NN decision|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT health|NN reform|NN law|NN is|VBZ chock|NN full|JJ of|IN new|JJ rules|NNS and|CC benefits|NNS for|IN small|JJ businesses|NNS and|CC all|DT are|VBP now|RB on|IN the|DT line|NN at|IN the|DT supreme|NN court|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT 2010|CD affordable|JJ care|NN act|NN includes|VBZ everything|NN from|IN a|DT different|JJ way|NN to|TO shop|VB for|IN insurance|NN to|TO a|DT tax|NN credit|NN that|WDT rewards|NNS employers|NNS for|IN insuring|VBG workers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT supreme|NN courts|NNS decision|NN on|IN the|DT laws|NNS constitutionality|NN is|VBZ due|JJ out|IN later|JJ this|DT month|NN even|RB as|IN soon|RB as|IN monday|NN </s>|S_END
+<s>|S_START generally|RB speaking|VBG there|EX are|VBP three|CD main|JJ possible|JJ outcomes|NNS health|NN care|NN reform|NN could|MD be|VB upheld|VBN entirely|RB or|CC struck|VB down|RP entirely|RB or|CC the|DT court|NN could|MD do|VB away|RB with|IN only|RB some|DT provisions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP so|RB many|JJ facets|NNS to|TO the|DT law|NN that|WDT even|RB partial|JJ survival|NN could|MD yield|VB some|DT benefits|NNS to|TO entrepreneurs|NNS such|JJ as|IN the|DT tax|NN credit|NN </s>|S_END
+<s>|S_START thats|NNS why|WRB john|NN arensmeyer|NN who|WP leads|NNS the|DT proreform|NN group|NN small|JJ business|NN majority|NN said|VBD striking|VBG down|IN the|DT whole|JJ law|NN would|MD be|VB a|DT nightmare|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT the|DT benefits|NNS will|MD go|VB away|RB arensmeyer|JJR said|VBD </s>|S_END
+<s>|S_START well|RB be|VB thrown|VBN right|RB back|RB into|IN the|DT unsustainable|JJ system|NN weve|NN had|VBD to|TO date|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT justices|NNS elect|VBP to|TO keep|VB some|DT parts|NNS while|IN knocking|VBG down|IN others|NNS the|DT 906page|JJ law|NN could|MD become|VB even|RB more|RBR confusing|VBG than|IN it|PRP is|VBZ now|RB </s>|S_END
+<s>|S_START heres|NNS a|DT list|NN of|IN key|JJ provisions|NNS and|CC what|WP could|MD happen|VB to|TO small|JJ businesses|NNS if|IN theyre|NN maintained|VBD or|CC discarded|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fines|NNS starting|VBG in|IN 2014|CD the|DT law|NN requires|VBZ any|DT company|NN with|IN at|IN least|JJS 50|CD fulltime|NN employees|NNS to|TO provide|VB insurance|NN or|CC pay|NN fines|NNS </s>|S_END
+<s>|S_START the|DT size|NN of|IN the|DT penalty|NN depends|VBZ on|IN a|DT formula|NN in|IN the|DT law|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN one|CD or|CC more|JJR workers|NNS turns|VBZ to|TO the|DT government|NN for|IN help|NN buying|VBG insurance|NN the|DT company|NN will|MD be|VB assessed|VBN a|DT penalty|NN of|IN at|IN least|JJS $|$ 40000|CD depending|VBG on|IN the|DT size|NN of|IN its|PRP$ workforce|NN </s>|S_END
+<s>|S_START if|IN this|DT provision|NN vanishes|VBZ theres|NNS one|CD less|JJR rule|NN for|IN small|JJ businesses|NNS to|TO worry|VB about|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT rule|NN affects|VBZ 200000|CD small|JJ businesses|NNS a|DT tiny|NN fraction|NN of|IN the|DT nations|NNS approximately|RB six|CD million|CD employers|NNS </s>|S_END
+<s>|S_START more|JJR than|IN 96|CD of|IN small|JJ businesses|NNS fall|VBP below|IN the|DT 50employee|CD threshold|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START individual|JJ mandate|NN this|DT is|VBZ perhaps|RB the|DT most|RBS controversial|JJ part|NN of|IN the|DT law|NN before|IN the|DT court|NN </s>|S_END
+<s>|S_START it|PRP forces|VBZ every|DT person|NN to|TO purchase|VB some|DT sort|NN of|IN health|NN insurance|NN by|IN 2014|CD or|CC pay|NN a|DT penalty|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT mandate|NN counter|NN balances|NNS another|DT provision|NN one|CD that|WDT forces|VBZ insurers|NNS to|TO take|VB on|IN people|NNS with|IN preexisting|VBG conditions|NNS </s>|S_END
+<s>|S_START the|DT idea|NN of|IN the|DT mandate|NN is|VBZ to|TO force|VB healthy|JJ people|NNS who|WP otherwise|RB might|MD not|RB get|VB insurance|NN to|TO join|VB the|DT pool|NN of|IN the|DT insured|VBN thus|RB diluting|VBG the|DT cost|NN of|IN health|NN care|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT mandate|NN disappears|NNS but|CC the|DT 50plus|CD employee|NN rule|NN stays|VBZ insurance|NN costs|NNS could|MD skyrocket|VB for|IN small|JJ businesses|NNS who|WP will|MD be|VB forced|VBN to|TO provide|VB workers|NNS with|IN insurance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START exchanges|NNS starting|VBG in|IN 2014|CD companies|NNS with|IN up|RB to|TO 100|CD workers|NNS will|MD have|VB the|DT option|NN to|TO buy|VB lower|JJR cost|NN health|NN insurance|NN through|IN employeronly|RB exchanges|NNS set|VBP up|RP by|IN the|DT states|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START theyre|NN called|VBN small|JJ business|NN health|NN options|NNS programs|NNS and|CC these|DT exchanges|NNS are|VBP intended|VBN to|TO bring|VB down|RP the|DT cost|NN of|IN health|NN care|NN for|IN small|JJ firms|NNS </s>|S_END
+<s>|S_START they|PRP will|MD make|VB it|PRP possible|JJ for|IN business|NN owners|NNS to|TO compare|VB similar|JJ insurance|NN plans|NNS just|RB as|IN consumers|NNS shop|VBP for|IN other|JJ services|NNS </s>|S_END
+<s>|S_START they|PRP also|RB could|MD help|VB small|JJ firms|NNS by|IN allowing|NN them|PRP to|TO effectively|RB add|VB their|PRP$ employees|NNS to|TO a|DT much|RB larger|JJR pool|NN of|IN insurance|NN customers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT federal|JJ law|NN ordered|VBN states|NNS to|TO create|VB them|PRP and|CC a|DT dozen|NN have|VBP already|RB started|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START striking|VBG down|IN this|DT provision|NN wouldnt|NN necessarily|RB stop|VB states|NNS from|IN creating|VBG exchanges|NNS </s>|S_END
+<s>|S_START but|CC it|PRP would|MD do|VB away|RB with|IN federal|JJ grants|NNS helping|VBG them|PRP do|VBP so|RB making|VBG the|DT process|NN more|JJR difficult|JJ for|IN some|DT impossible|JJ for|IN others|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tax|NN credits|NNS since|IN 2010|CD some|DT small|JJ businesses|NNS have|VBP received|VBN tax|NN credits|NNS rewarding|VBG them|PRP for|IN providing|VBG workers|NNS with|IN health|NN insurance|NN </s>|S_END
+<s>|S_START eligible|JJ companies|NNS must|MD have|VB no|DT more|RBR than|IN 25|CD workers|NNS and|CC pay|NN average|NN salaries|NNS of|IN $|$ 50000|CD or|CC less|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START losing|VBG the|DT tax|NN credits|NNS would|MD mean|VB no|DT more|RBR help|JJ from|IN the|DT federal|JJ government|NN which|WDT averaged|VBD $|$ 2700|CD last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC it|PRP has|VBZ turned|VBN out|RP to|TO be|VB an|DT underwhelming|NN tax|NN credit|NN </s>|S_END
+<s>|S_START employers|NNS say|VBP applying|VBG for|IN the|DT credit|NN involves|VBZ a|DT lengthy|JJ complicated|JJ formula|NN that|WDT sometimes|VBZ yields|NNS very|RB little|JJ financial|JJ help|NN </s>|S_END
+<s>|S_START only|RB 170300|CD companies|NNS received|VBN it|PRP last|JJ year|NN for|IN tax|NN year|NN 2010|CD even|RB though|IN the|DT government|NN estimates|VBZ between|IN 14|CD million|CD and|CC 4|CD million|CD are|VBP eligible|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT 80|CD rule|NN for|IN insurers|NNS since|IN 2011|CD insurance|NN companies|NNS have|VBP been|VBN required|VBN to|TO spend|VB at|IN least|JJS 80|CD of|IN every|DT dollar|NN on|IN medical|JJ care|NN and|CC not|RB administrative|JJ costs|NNS or|CC refund|VB the|DT difference|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT rule|NN known|VBN as|IN the|DT medical|JJ loss|NN ratio|NN is|VBZ especially|RB important|JJ for|IN small|JJ businesses|NNS </s>|S_END
+<s>|S_START administrative|JJ costs|NNS typically|RB have|VBP taken|VBN up|RP a|DT much|RB larger|JJR chunk|NN of|IN small|JJ companies|NNS insurance|NN costs|NNS when|WRB compared|VBN to|TO large|JJ companies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT rule|NN has|VBZ already|RB been|VBN shown|VBN to|TO work|VB at|IN least|JJS in|IN california|NN where|WRB 4400|CD companies|NNS received|VBN $|$ 35|CD million|CD in|IN refunds|NNS from|IN insurance|NN company|NN unitedhealth|NN this|DT month|NN </s>|S_END
+<s>|S_START unitedhealth|NN was|VBD forced|VBN to|TO return|VB the|DT money|NN to|TO comply|RB with|IN the|DT 80|CD rule|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eliminating|VBG the|DT ratio|NN would|MD drive|VB up|RP insurance|NN costs|NNS for|IN many|JJ small|JJ companies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START have|VBP fears|NNS of|IN losing|VBG health|NN insurance|NN held|VBD you|PRP back|RB from|IN quitting|VBG your|PRP$ job|NN to|TO launch|VB a|DT business|NN </s>|S_END
+<s>|S_START email|NN jose|VBD pagliery|NN and|CC share|NN your|PRP$ story|NN </s>|S_END
+<s>|S_START click|NN here|RB for|IN the|DT cnnmoneycom|NN comment|NN policy|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

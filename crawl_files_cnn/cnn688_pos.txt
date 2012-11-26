@@ -1,0 +1,15 @@
+<p>|P_START
+<s>|S_START taxfavored|VBD retirement|NN accounts|NNS such|JJ as|IN individual|JJ retirement|NN accounts|NNS iras|NNS and|CC 401ks|CD are|VBP the|DT best|JJS places|NNS to|TO save|VB for|IN your|PRP$ retirement|NN </s>|S_END
+<s>|S_START the|DT different|JJ types|NNS of|IN plans|NNS have|VBP different|JJ features|NNS but|CC most|JJS of|IN them|PRP allow|VBP you|PRP to|TO defer|VB taxes|NNS on|IN the|DT money|NN you|PRP save|VBP and|CC the|DT returns|NNS you|PRP earn|VBP within|IN the|DT account|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tax|NN deferral|JJ means|NNS that|WDT the|DT amount|NN you|PRP contribute|VBP escapes|NNS the|DT usual|JJ income|NN taxes|NNS until|IN you|PRP start|VBP withdrawing|VBG the|DT money|NN years|NNS later|RBR </s>|S_END
+<s>|S_START as|IN a|DT result|NN more|RBR of|IN your|PRP$ money|NN can|MD earn|VB investment|NN returns|NNS over|IN time|NN an|DT enormous|JJ advantage|NN over|IN ordinary|JJ taxable|JJ accounts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT plans|NNS have|VBP other|JJ advantages|NNS as|IN well|RB </s>|S_END
+<s>|S_START for|IN example|NN many|JJ employers|NNS will|MD match|VB part|NN of|IN their|PRP$ workers|NNS contributions|NNS to|TO employersponsored|VBN retirement|NN plans|NNS such|JJ as|IN 401ks|CD </s>|S_END
+</p>|P_END
+

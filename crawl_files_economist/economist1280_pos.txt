@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 20|CD gdp|NN $|$ 187bn|CD ppp|CD $|$ 270bn|CD inflation|NN 40|CD population|NN 214m|CD gdp|NN per|IN head|NN $|$ 8700|CD ppp|CD $|$ 12760|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START austerity|NN and|CC recession|NN have|VBP eroded|VBN support|NN for|IN the|DT twoparty|NN government|NN but|CC it|PRP will|MD limp|VB on|IN to|TO elections|NNS at|IN the|DT end|NN of|IN the|DT year|NN </s>|S_END
+<s>|S_START a|DT freshly|RB minted|VBN rightleaning|VBG opposition|NN coalition|NN is|VBZ likely|JJ to|TO take|VB over|RP but|CC once|RB the|DT shared|VBN aim|NN of|IN winning|VBG power|NN has|VBZ been|VBN achieved|VBN it|PRP will|MD begin|VB to|TO crack|VB as|IN will|MD its|PRP$ capacity|NN to|TO shape|NN clear|NN policie|NN </s>|S_END
+<s>|S_START later|JJ than|IN most|JJS both|DT to|TO enter|VB and|CC exit|VB recession|NN the|DT economy|NN will|MD grow|VB modestly|RB in|IN 2012 |CD </s>|S_END
+</p>|P_END
+

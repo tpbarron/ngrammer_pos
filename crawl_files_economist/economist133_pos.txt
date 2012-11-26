@@ -1,0 +1,56 @@
+<p>|P_START
+<s>|S_START democrats|NNS waited|VBD for|IN health|NN reform|NN for|IN decade|NN </s>|S_END
+<s>|S_START they|PRP got|VBD it|PRP in|IN 2010|CD supposedly|RB but|CC the|DT wait|NN continue|NN </s>|S_END
+<s>|S_START the|DT main|JJ provisions|NNS of|IN the|DT law|NN will|MD not|RB be|VB implemented|VBN until|IN 2014|CD </s>|S_END
+<s>|S_START most|JJS important|JJ democrats|NNS are|VBP waiting|VBG for|IN the|DT supreme|NN court|NN to|TO affirm|VB that|IN the|DT law|NN is|VBZ constitutional|JJ </s>|S_END
+<s>|S_START a|DT ruling|NN they|PRP hope|VBP will|MD silence|VB the|DT reforms|NNS critics|NNS once|RB and|CC for|IN all|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START republicans|NNS rushed|VBD to|TO challenge|VB the|DT reform|NN filing|NN suits|NNS just|RB minutes|VBZ after|IN president|NN barack|NN obama|NN signed|VBD the|DT bill|NN into|IN law|NN </s>|S_END
+<s>|S_START cases|NNS have|VBP worked|VBN their|PRP$ way|NN through|IN the|DT lower|JJR court|NN </s>|S_END
+<s>|S_START in|IN 2012|CD the|DT fight|NN will|MD reach|VB the|DT supreme|NN court|NN at|IN last|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT main|JJ issue|NN is|VBZ the|DT constitutionality|NN of|IN the|DT “individual|JJ mandate”|NN which|WDT penalises|NNS those|DT who|WP fail|NN to|TO buy|VB insurance|NN </s>|S_END
+<s>|S_START mr|NN obamas|VBD lawyers|NNS say|VBP the|DT mandate|NN is|VBZ permissible|JJ under|IN the|DT constitutions|NNS commerce|VBP clause|NN </s>|S_END
+<s>|S_START an|DT individual|JJ who|WP does|VBZ not|RB buy|VB insurance|NN will|MD inevitably|RB have|VB his|PRP$ health|NN costs|NNS paid|VBD by|IN others|NNS thus|RB affecting|VBG interstate|JJ commerce|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN august|NN 2011|CD a|DT panel|NN of|IN appellate|NN judges|NNS disagreed|VBD </s>|S_END
+<s>|S_START “the|DT governments|NNS position”|-NONE- they|PRP wrote|VBD “amounts|NNS to|TO an|DT argument|NN that|IN the|DT mere|JJ fact|NN of|IN an|DT individuals|NNS existence|NN substantially|RB affects|VBZ interstate|JJ commerce|NN and|CC therefore|RB congress|NN may|MD regulate|VB them|PRP at|IN every|DT point|NN of|IN their|PRP$ life”|JJ the|DT mandate|NN the|DT judges|NNS declared|VBD “is|NNS breathtaking|VBG in|IN its|PRP$ expansive|JJ scope”|NN the|DT supreme|NN court|NN may|MD be|VB similarly|RB horrified |-NONE- </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB a|DT ruling|NN will|MD not|RB end|VB the|DT debate|NN </s>|S_END
+<s>|S_START it|PRP will|MD merely|RB herald|VB the|DT next|JJ period|NN of|IN uncertainty|NN </s>|S_END
+<s>|S_START if|IN the|DT court|NN upholds|VBZ the|DT mandate|NN republican|NN voters|NNS will|MD be|VB all|PDT the|DT more|RBR energised|VBN to|TO boot|VB mr|NN obama|NN from|IN the|DT white|JJ house|NN </s>|S_END
+<s>|S_START implementation|NN will|MD be|VB as|RB precarious|JJ as|IN ever|RB </s>|S_END
+<s>|S_START if|IN the|DT court|NN rejects|VBZ the|DT mandate|NN republicans|NNS will|MD say|VB that|IN the|DT ruling|NN undermines|NNS the|DT entire|JJ law|NN </s>|S_END
+<s>|S_START democrats|NNS will|MD insist|VB otherwise|VB and|CC propose|VB new|JJ ways|NNS to|TO encourage|VB americans|NNS to|TO buy|VB insurance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START faced|VBD with|IN this|DT mess|NN states|VBZ and|CC firms|NNS will|MD make|VB a|DT safe|NN bet|NN the|DT fight|NN will|MD drag|VB on|IN so|RB they|PRP should|MD fend|VB for|IN themselve|NN </s>|S_END
+<s>|S_START tates|NNS are|VBP struggling|VBG under|IN the|DT oppressive|JJ costs|NNS of|IN medicaid|JJ the|DT health|NN programme|NN for|IN the|DT poor|JJ </s>|S_END
+<s>|S_START to|TO lower|JJR spending|NN governors|NNS will|MD move|VB more|RBR medicaid|JJ beneficiaries|NNS into|IN “managed|JJ care”|JJ paying|NN a|DT lower|JJR fixed|VBN rate|NN for|IN patients|NNS health|NN rather|RB than|IN for|IN each|DT service|NN provided|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT health|NN industry|NN will|MD adapt|VB too|RB </s>|S_END
+<s>|S_START in|IN an|DT ever|NN more|JJR competitive|JJ market|NN firms|NNS will|MD test|VB new|JJ ways|NNS to|TO deliver|VB better|JJR care|NN for|IN less|JJR money|NN </s>|S_END
+<s>|S_START health|NN insurers|NNS are|VBP already|RB trying|VBG to|TO promote|VB preventative|JJ care|NN </s>|S_END
+<s>|S_START this|DT trend|NN will|MD only|RB intensify|VB in|IN 2012|CD </s>|S_END
+<s>|S_START while|IN uncertainty|NN on|IN healthcare|NN reform|NN reigns|NNS in|IN washington|NN dc|NN states|VBZ and|CC companies|NNS will|MD just|RB have|VB to|TO muddle|VB onwards |JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START charlotte|NN howard|VBD healthcare|NN correspondent|NN the|DT economist|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,72 @@
+<p>|P_START
+<s>|S_START click|NN the|DT chart|NN for|IN more|JJR on|IN linkedin|NN stock|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN linkedin|NN had|VBD a|DT banner|NN debut|NN back|RB in|IN may|MD with|IN shares|NNS nearly|RB tripling|VBG in|IN early|JJ trade|NN and|CC closing|NN at|IN more|JJR than|IN double|JJ their|PRP$ initial|JJ price|NN </s>|S_END
+<s>|S_START but|CC now|RB the|DT game|NN has|VBZ changed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START monday|NN marked|VBD the|DT first|JJ day|NN that|IN some|DT company|NN insiders|NNS were|VBD allowed|VBN to|TO dump|VB linkedins|NNS stock|NN and|CC shares|NNS were|VBD trading|VBG about|IN 7|CD lower|JJR midday|NN to|TO continue|VB a|DT sharply|RB down|IN week|NN and|CC month|NN </s>|S_END
+<s>|S_START shares|NNS bounced|VBD back|RP a|DT bit|NN in|IN the|DT afternoon|NN closing|NN about|IN 28|CD lower|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START linkedin|NN lnkd|VBD began|VBD trading|NN on|IN the|DT new|JJ york|NN stock|NN exchange|NN on|IN may|MD 19|CD and|CC as|IN part|NN of|IN the|DT initial|JJ public|JJ offering|NN there|EX was|VBD a|DT typical|JJ 180day|JJ lockup|NN agreement|NN for|IN insiders|NNS </s>|S_END
+<s>|S_START that|DT provision|NN prevented|VBD certain|JJ early|JJ investors|NNS from|IN unloading|VBG their|PRP$ stakes|NNS until|IN the|DT end|NN of|IN the|DT threemonth|NN period|NN which|WDT expired|VBN on|IN sunday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP appears|VBZ that|IN some|DT investors|NNS took|VBD advantage|NN of|IN this|DT </s>|S_END
+<s>|S_START shares|NNS of|IN linkedin|NN fell|VBD 67|CD in|IN late|JJ morning|NN trade|NN monday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT lockup|NN expiration|NN has|VBZ been|VBN on|IN investors|NNS minds|NNS as|IN four|CD company|NN insiders|NNS have|VBP already|RB said|VBN they|PRP are|VBP cashing|VBG out|RP in|IN a|DT second|JJ offering|NN of|IN stock|NN </s>|S_END
+<s>|S_START meanwhile|RB linkedin|VBP is|VBZ selling|VBG 13|CD million|CD of|IN its|PRP$ own|JJ shares|NNS in|IN that|DT offering|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT announcements|NNS dont|VBP inspire|NN confidence|NN in|IN a|DT stock|NN thats|NNS been|VBN criticized|VBN for|IN overvaluation|NN since|IN its|PRP$ ipo|NN </s>|S_END
+<s>|S_START linkedin|NN shares|NNS are|VBP down|RB almost|RB 23|CD over|IN the|DT month|NN and|CC 15|CD over|IN the|DT past|JJ week|NN alone|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START an|DT announcement|NN from|IN early|JJ investor|NN bain|NN capital|NN likely|JJ accelerated|JJ the|DT recent|JJ selloff|NN </s>|S_END
+<s>|S_START last|JJ tuesday|NN the|DT private|JJ equity|NN firm|NN said|VBD it|PRP was|VBD selling|VBG its|PRP$ entire|JJ $|$ 275|CD million|CD stake|NN in|IN linkedin|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bain|NN held|VBD more|JJR than|IN 37|CD million|CD shares|NNS of|IN the|DT company|NN or|CC about|IN 43|CD of|IN its|PRP$ outstanding|JJ stock|NN according|VBG to|TO a|DT linkedin|NN regulatory|NN filing|NN </s>|S_END
+<s>|S_START bain|NN bought|VBD into|IN linkedin|NN in|IN 2008|CD as|IN the|DT largest|JJS investor|NN in|IN a|DT $|$ 53|CD million|CD funding|NN round|NN and|CC sold|VBD 653000|CD shares|NNS in|IN linkedins|NNS ipo|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START three|CD other|JJ linkedin|NN investors|NNS are|VBP cashing|VBG out|RP some|DT of|IN their|PRP$ shares|NNS cofounder|JJR allen|NN blue|NN a|DT venture|NN capital|NN firm|NN run|VBN by|IN german|NN software|NN giant|NN sap|NN sap|NN and|CC arvind|NN rajan|NN the|DT head|NN of|IN linkedins|NNS international|JJ business|NN </s>|S_END
+<s>|S_START in|IN total|NN those|DT three|CD investors|NNS are|VBP selling|VBG about|IN 25|CD million|CD shares|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC investors|NNS may|MD be|VB most|RBS spooked|VBN by|IN the|DT fact|NN that|IN linkedin|NN is|VBZ selling|VBG 13|CD million|CD of|IN its|PRP$ shares|NNS </s>|S_END
+<s>|S_START secondary|JJ offerings|NNS are|VBP sometimes|RB considered|VBN ominous|JJ signs|NNS as|IN they|PRP can|MD sometimes|RB mean|VB that|IN expenditures|NNS have|VBP outpaced|VBN expectations|NNS and|CC a|DT company|NN needs|VBZ to|TO raise|VB more|JJR cash|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START linkedin|NN has|VBZ not|RB yet|RB revealed|VBN the|DT sale|NN date|NN </s>|S_END
+<s>|S_START the|DT company|NN reported|VBD a|DT small|JJ loss|NN for|IN the|DT third|JJ quarter|NN and|CC according|VBG to|TO consensus|NN estimates|NNS from|IN analysts|NNS wall|VBP street|NN expects|NNS another|DT loss|NN in|IN the|DT fourth|JJ quarter|NN as|IN well|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START linkedin|NN shares|NNS are|VBP still|RB trading|VBG well|RB above|IN their|PRP$ ipo|NN price|NN of|IN $|$ 45|CD but|CC theyre|JJ also|RB well|RB below|IN the|DT $|$ 9425|CD closing|VBG price|NN their|PRP$ first|JJ day|NN on|IN the|DT market|NN and|CC theyre|VB edging|VBG closer|JJR to|TO the|DT 52week|CD low|JJ of|IN about|RB $|$ 60|CD a|DT share|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN course|NN this|DT postlockup|NN phenomenon|NN isnt|NN exclusive|JJ to|TO linkedin|VB and|CC investors|NNS in|IN other|JJ internet|NN companies|NNS that|WDT have|VBP recently|RB gone|VBN public|JJ should|MD take|VB note|NN ahead|RB of|IN their|PRP$ own|JJ lockup|NN period|NN expirations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START internet|NN radio|NN company|NN pandoras|VBZ p|NN lockup|NN period|NN ends|VBZ on|IN december|NN 12|CD and|CC real|JJ estate|NN zillows|VBZ z|NN expires|NNS january|JJ 16|CD </s>|S_END
+<s>|S_START groupon|IN grpn|NN which|WDT debuted|VBN earlier|RBR this|DT month|NN has|VBZ a|DT sixmonth|NN lockup|NN that|WDT ends|VBZ may|MD 2 |CD </s>|S_END
+</p>|P_END
+

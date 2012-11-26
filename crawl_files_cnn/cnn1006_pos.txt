@@ -1,0 +1,40 @@
+<p>|P_START
+<s>|S_START square|NN ceo|VBD jack|NN dorsey|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN payment|NN startup|NN square|NN just|RB landed|VBD a|DT massive|JJ cash|NN infusion|NN the|DT company|NN raised|VBD $|$ 100|CD million|CD in|IN a|DT financing|NN round|NN led|VBD by|IN kleiner|NN perkins|NNS caufield|VBD byers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START square|NN is|VBZ the|DT highprofile|NN second|JJ venture|NN of|IN twitter|NN cofounder|NN jack|NN dorsey|NN who|WP created|VBN the|DT company|NN in|IN 2009|CD and|CC serves|NNS as|IN its|PRP$ ceo|NN </s>|S_END
+<s>|S_START dorsey|NN works|NNS two|CD jobs|NNS right|RB now|RB commuting|VBG several|JJ blocks|NNS between|IN square|JJ and|CC twitter|NN where|WRB he|PRP guides|VBZ product|NN development|NN </s>|S_END
+<s>|S_START square|NN used|VBD twitter|NN to|TO announce|VB its|PRP$ funding|NN round|NN early|RB wednesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT latest|JJS funding|NN values|NNS the|DT company|NN at|IN $|$ 1|CD billion|CD according|VBG to|TO the|DT wall|NN street|NN journal|JJ </s>|S_END
+<s>|S_START it|PRP takes|VBZ the|DT total|JJ venture|NN capital|NN investment|NN in|IN the|DT company|NN to|TO at|IN least|JJS $|$ 140|CD million|CD including|VBG a|DT strategic|JJ investment|NN from|IN visa|NN v|NN fortune|NN 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dorsey|NN also|RB announced|VBD that|IN mary|JJ meeker|NN who|WP was|VBD a|DT star|NN wall|NN street|NN internet|NN analyst|NN before|IN leaving|VBG to|TO become|VB a|DT venture|NN capitalist|NN at|IN kleiner|NN perkins|NNS would|MD join|VB the|DT companys|NNS board|NN </s>|S_END
+<s>|S_START meeker|NN joins|VBZ economist|NN larry|NN summers|NNS and|CC vinod|NN khosla|NN founder|NN of|IN khosla|NN ventures|NNS who|WP were|VBD also|RB added|VBD to|TO the|DT board|NN in|IN june|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN the|DT mobile|JJ payment|NN space|NN heats|NNS up|IN square|JJ is|VBZ up|IN against|IN giants|NNS like|IN ebays|NNS ebay|VBP fortune|NN 500|CD paypal|JJ and|CC google|JJ goog|NN fortune|NN 500|CD which|WDT recently|RB teamed|VBD up|RP with|IN mastercard|NN ma|NN fortune|NN 500|CD citigroup|NN c|NN fortune|NN 500|CD and|CC sprint|NN s|NNS fortune|VBP 500|CD to|TO launch|VB a|DT new|JJ phonebased|VBN mobile|JJ payment|NN system|NN </s>|S_END
+<s>|S_START its|PRP$ also|RB battling|VBG wireless|NN carriers|NNS several|JJ banking|NN giants|NNS and|CC a|DT host|NN of|IN startups|NNS looking|VBG to|TO break|VB into|IN the|DT scene|NN </s>|S_END
+<s>|S_START meanwhile|RB investors|NNS are|VBP rushing|VBG in|IN to|TO grab|VB a|DT piece|NN of|IN the|DT action|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START square|NN recently|RB debuted|VBN its|PRP$ newest|NN feature|NN an|DT ipad|NN app|NN aimed|VBN at|IN replacing|NN cash|NN registers|NNS </s>|S_END
+<s>|S_START the|DT arrangement|NN lets|NNS customers|NNS pay|VBP with|IN their|PRP$ android|JJ or|CC ios|NNS devices|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dorsey|NN says|VBZ his|PRP$ goal|NN is|VBZ to|TO continue|VB to|TO encourage|VB everyone|NN to|TO accept|VB mobile|JJ payments|NNS we|PRP are|VBP on|IN course|NN to|TO accelerate|VB our|PRP$ growth|NN in|IN a|DT meaningful|JJ way|NN he|PRP said|VBD </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

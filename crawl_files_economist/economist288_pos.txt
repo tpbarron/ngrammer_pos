@@ -1,0 +1,69 @@
+<p>|P_START
+<s>|S_START disease|NN of|IN the|DT week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “i|NN mean|VBD romney’s|NNS changing|VBG up|RP so|RB much—backtracking|JJ and|CC sidestepping|VBG </s>|S_END
+<s>|S_START we’ve|JJ got|VBD ta|NN name|NN this|DT condition|NN that|IN he’s|JJ going|VBG through|IN </s>|S_END
+<s>|S_START i|PRP think|VBP it’s|JJ called|VBN ‘romnesia’”|-NONE- barack|NN obama’s|NNS new|JJ stump|NN speech|NN october|NN 19th|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START who|WP let|VBD the|DT dogs|NNS out|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “if|JJ claire|NN mccaskill|NN were|VBD a|DT dog|NN she’d|JJ be|NN a|DT bullshitsu”|NN rick|NN tyler|NN spokesman|NN for|IN todd|NN akin|NN a|DT republican|JJ senate|NN candidate|NN in|IN missouri|NN attacks|NNS his|PRP$ democratic|JJ rival|NN </s>|S_END
+<s>|S_START october|NN 22nd|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT year|NN in|IN provence|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “he|JJ was|VBD serving|VBG his|PRP$ mission|NN </s>|S_END
+<s>|S_START my|PRP$ five|CD sons|NNS have|VBP also|RB served|VBN their|PRP$ mission…i|NNP sent|NN them|PRP away|RB as|IN boys|NNS and|CC they|PRP came|VBD back|RB men”|JJ ann|NN romney|NN equates|VBZ mitt|NN romney’s|NNS mormon|VBP mission|NN in|IN france|NN with|IN a|DT tour|NN of|IN duty|NN in|IN vietnam|NN </s>|S_END
+<s>|S_START the|DT view|NN abc|NN october|NN 18th|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mad|NN uncle|NN moment|NN of|IN the|DT week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “unfortunately|RB the|DT bullets|NNS are|VBP aimed|VBN at|IN you”|NNP joe|NN biden|NN expands|VBZ on|IN paul|JJ ryan’s|NNS “young|JJ guns”|NN metaphor|NN </s>|S_END
+<s>|S_START october|NN 18th|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START poll|NN of|IN the|DT week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “a|NN lot|VBD of|IN people|NNS are|VBP going|VBG out|RP and|CC supporting|VBG their|PRP$ candidate|NN by|IN wearing|NN their|PRP$ masks”|NN lisa|NN barr|NN from|IN spirit|NN halloween|VBN america’s|-NONE- largest|JJS specialist|NN halloween|RB retailer|JJR reports|NNS that|IN obama|NN masks|NNS are|VBP outselling|VBG romney|NN ones|NNS by|IN 60|CD to|TO 40|CD </s>|S_END
+<s>|S_START the|DT sales|NNS have|VBP accurately|RB predicted|VBN the|DT presidential|JJ election|NN since|IN 1996|CD </s>|S_END
+<s>|S_START cnn|NN october|NN 23rd|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START women’s|NNS issue|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “they|PRP just|RB had|VBD a|DT new|JJ baby|NN and|CC they’ve|JJ got|NN a|DT new|JJ daughter|NN </s>|S_END
+<s>|S_START and|CC i|PRP made|VBD sure|JJ that|IN jayz|NN was|VBD helping|VBG beyoncé|-NONE- out|IN with|IN the|DT baby|NN and|CC not|RB leaving|VBG it|PRP all|DT to|TO mom|VB and|CC the|DT motherinlaw”|NNP mr|NN obama|NN is|VBZ making|VBG sure|NN that|IN jayz|NN is|VBZ not|RB a|DT deadbeat|NN dad|NN </s>|S_END
+<s>|S_START z1079|NNP october|NN 18th|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START let’s|NNS get|VBP physical|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “paul|JJ ryan|NN shirtless”|NN is|VBZ currently|RB googled|VBN nine|CD times|NNS more|JJR often|RB than|IN “paul|JJ ryan|NN budget”|NN </s>|S_END
+<s>|S_START democratic|JJ states|NNS are|VBP also|RB more|RBR likely|JJ to|TO search|NN for|IN the|DT former|JJ </s>|S_END
+<s>|S_START there|EX are|VBP 5000|CD searches|NNS each|DT month|NN on|IN the|DT subject|NN of|IN mitt|NN romney’s|NNS underwear|VBP </s>|S_END
+<s>|S_START newyorktimescom|NN october|NN 20th|CD </s>|S_END
+</p>|P_END
+

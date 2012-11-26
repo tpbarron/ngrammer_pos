@@ -1,0 +1,58 @@
+<p>|P_START
+<s>|S_START unscientific|JJ folk|NN may|MD be|VB excused|VBN for|IN concluding|NN that|WDT among|IN the|DT natural|JJ sciences|NNS chemistry|NN is|VBZ the|DT poor|JJ cousin|NN </s>|S_END
+<s>|S_START it|PRP sits|VBZ humbly|RB between|IN physics|NNS which|WDT probes|NNS the|DT nature|NN of|IN the|DT universe|NN and|CC the|DT forces|NNS that|WDT shape|NN it|PRP and|CC biology|NN devoted|VBD to|TO the|DT study|NN of|IN life|NN and|CC the|DT carbonbased|VBN molecules|NNS which|WDT lie|NN at|IN its|PRP$ root|NN </s>|S_END
+<s>|S_START it|PRP lacks|VBZ fancy|NN toys|NNS like|IN the|DT large|JJ hadron|NN collider|NN or|CC headlinegrabbing|VBG ventures|NNS such|JJ as|IN the|DT human|NN genome|NN project|NN </s>|S_END
+<s>|S_START as|IN a|DT result|NN chemists|VBZ are|VBP sometimes|RB dismissed|VBN as|IN mere|JJ journeymen—translating|JJ physicists|NNS insights|NNS into|IN tools|NNS for|IN their|PRP$ biologist|NN brethren|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN 2011|CD this|DT will|MD change|VB at|IN least|JJS if|IN unesco|NN the|DT united|VBN nations|NNS science|NN agency|NN and|CC the|DT international|JJ union|NN of|IN pure|NN and|CC applied|VBD chemistry|NN have|VBP their|PRP$ way|NN </s>|S_END
+<s>|S_START the|DT two|CD organisations|NNS have|VBP proclaimed|VBN 2011|CD the|DT international|JJ year|NN of|IN chemistry|NN </s>|S_END
+<s>|S_START there|EX will|MD be|VB much|RB to|TO celebrate|VB </s>|S_END
+<s>|S_START for|IN a|DT start|NN it|PRP will|MD be|VB 350|CD years|NNS since|IN the|DT publication|NN of|IN robert|NN boyles|NNS “the|NNP sceptical|JJ chymist”|NN generally|RB acknowledged|VBD as|IN marking|NN the|DT birth|NN of|IN modern|JJ chemistry|NN </s>|S_END
+<s>|S_START in|IN it|PRP boyle|NN made|VBD an|DT empirical|JJ case|NN for|IN the|DT ancient|JJ idea|NN that|IN all|DT matter|NN consists|NNS of|IN atoms|NNS or|CC clusters|NNS of|IN atoms|NNS in|IN motion|NN and|CC that|IN any|DT phenomena|NN whereby|WRB one|CD sort|NN of|IN stuff|NN turns|VBZ into|IN another|DT are|VBP the|DT result|NN of|IN different|JJ lots|NNS of|IN atoms|NNS bumping|VBG into|IN each|DT other|JJ </s>|S_END
+<s>|S_START but|CC chemists|NNS will|MD also|RB have|VB more|JJR recent|JJ achievements|NNS to|TO acclaim|VB </s>|S_END
+<s>|S_START and|CC these|DT bode|NN well|RB for|IN their|PRP$ discipline|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START chemists|NNS with|IN attotude|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START last|JJ august|NN eleftherios|NNS goulielmakis|VBZ from|IN the|DT max|NN planck|NN institute|NN of|IN quantum|NN optics|NNS in|IN garching|VBG germany|NN and|CC his|PRP$ team|NN reported|VBD having|VBG caught|NN a|DT glimpse|NN of|IN a|DT chemical|JJ phenomenon|NN at|IN the|DT atomic|JJ level|NN </s>|S_END
+<s>|S_START they|PRP had|VBD succeeded|VBN for|IN the|DT first|JJ time|NN in|IN tracking|NN the|DT precise|NN movement|NN of|IN the|DT outermost|JJS or|CC “valence”|JJ electrons|NNS as|IN they|PRP were|VBD excited|VBN and|CC ejected|VBN from|IN an|DT atom|NN of|IN krypton|NN creating|VBG a|DT positive|JJ ion|NN </s>|S_END
+<s>|S_START valence|NN electrons|NNS are|VBP the|DT cornerstone|NN of|IN chemistry|NN because|IN they|PRP determine|VBP how|WRB an|DT atom|NN or|CC a|DT molecule|NN reacts|VBZ with|IN those|DT that|WDT it|PRP bumps|VBZ into|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START capturing|VBG the|DT motion|NN of|IN an|DT electron|NN within|IN an|DT atom|NN sounds|VBZ like|IN an|DT impossible|JJ task|NN not|RB least|JJS because|IN shuffling|NN between|IN orbits|NNS or|CC escaping|VBG the|DT nucleus|NN takes|VBZ just|RB attoseconds|VBZ or|CC billion|CD billionths|NNS of|IN a|DT second|JJ </s>|S_END
+<s>|S_START to|TO put|VB this|DT in|IN perspective|JJ an|DT attosecond|NN is|VBZ to|TO a|DT second|JJ what|WP the|DT blink|NN of|IN an|DT eye|NN is|VBZ to|TO 10|CD billion|CD year|NN </s>|S_END
+<s>|S_START unfazed|VBD scientists|NNS like|IN dr|NN goulielmakis|NNS have|VBP lighted|VBN on|IN ways|NNS to|TO operate|VB on|IN such|JJ infinitesimal|JJ timescale|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START they|PRP use|VBP two|CD sets|NNS of|IN ultrafast|JJ laser|NN pulse|NN </s>|S_END
+<s>|S_START the|DT first|JJ called|VBN a|DT pump|NN lasts|VBZ several|JJ thousand|CD attosecond|NN </s>|S_END
+<s>|S_START it|PRP serves|VBZ to|TO eject|VB an|DT electron|NN from|IN an|DT atoms|NNS outer|NN shell|NN </s>|S_END
+<s>|S_START then|RB a|DT “probe”|NN pulse|NN of|IN a|DT shorter|NN wavelength|NN this|DT time|NN just|RB around|IN a|DT hundred|CD attoseconds|NNS long|RB jostles|VBZ an|DT electron|NN from|IN an|DT inner|NN orbit|NN prompting|VBG it|PRP to|TO plug|VB the|DT hole|NN left|VBD by|IN its|PRP$ departed|VBN cousin|NN </s>|S_END
+<s>|S_START by|IN varying|NN the|DT delay|NN between|IN the|DT two|CD pulses|NNS and|CC measuring|VBG how|WRB much|JJ of|IN the|DT probe|NN pulse|NN is|VBZ absorbed|VBN at|IN these|DT different|JJ times|NNS researchers|NNS are|VBP able|JJ to|TO calculate|VB how|WRB the|DT valence|NN electrons|NNS wave|VBP function|NN changes|NNS with|IN time|NN </s>|S_END
+<s>|S_START a|DT wave|NN function|NN is|VBZ a|DT mathematical|JJ expression|NN which|WDT describes|VBZ the|DT probability|NN of|IN a|DT subatomic|JJ particle|NN being|VBG in|IN a|DT particular|JJ spot|NN </s>|S_END
+<s>|S_START knowing|VBG how|WRB it|PRP evolves|VBZ amounts|NNS to|TO knowing|VBG the|DT particles|NNS path|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ferenc|NN krausz|NN dr|NN goulielmakiss|NN colleague|NN at|IN the|DT max|NN planck|NN institute|NN and|CC another|DT of|IN the|DT fields|NNS leading|VBG lights|NNS believes|NNS that|WDT seeing|VBG how|WRB valence|NN electrons|NNS behave|VBP in|IN a|DT single|JJ atom|NN is|VBZ but|CC the|DT first|JJ step|NN </s>|S_END
+<s>|S_START in|IN 2011|CD attochemists|NNS will|MD train|VB their|PRP$ laser|NN sights|NNS on|IN electrons|NNS buzzing|VBG around|IN more|JJR complex|JJ structures|NNS starting|VBG with|IN ozone|NN a|DT version|NN of|IN oxygen|NN with|IN three|CD atoms|NNS rather|RB than|IN the|DT usual|JJ two|CD </s>|S_END
+<s>|S_START eventually|RB they|PRP hope|VBP to|TO use|VB similar|JJ techniques|NNS to|TO engineer|NN individual|JJ molecules|NNS and|CC steer|NN atomicscale|NN movements|NNS of|IN electrons|NNS in|IN chemical|JJ processes|NNS such|JJ as|IN photosynthesis|NN in|IN which|WDT light|JJ causes|NNS electrons|NNS to|TO be|VB plucked|VBN from|IN water|NN molecules|NNS and|CC shunted|VBD onto|IN carbon|NN dioxide|NN creating|VBG energyrich|NN sugars|NNS and|CC oxygen|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START chemists|NNS will|MD probably|RB have|VB to|TO wait|VB until|IN 2012|CD and|CC perhaps|RB even|RB beyond|IN to|TO perform|NN these|DT feat|NN </s>|S_END
+<s>|S_START but|CC when|WRB they|PRP do|VBP physics|NNS and|CC biology—those|JJ aristocrats|NNS of|IN science—will|NNP no|DT longer|NN hog|NN the|DT headline|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START jan|NN piotrowski|NN online|NN science|NN editor|NN the|DT economist|NN </s>|S_END
+</p>|P_END
+

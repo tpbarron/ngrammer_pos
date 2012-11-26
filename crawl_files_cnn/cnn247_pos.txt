@@ -1,0 +1,105 @@
+<p>|P_START
+<s>|S_START financial|JJ aid|NN helps|NNS millions|NNS of|IN students|NNS afford|NN college|NN each|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT money|NN is|VBZ donated|VBN by|IN the|DT government|NN thanks|NNS to|TO taxpayers|NNS colleges|NNS and|CC charities|NNS and|CC given|VBN to|TO students|NNS or|CC their|PRP$ parents|NNS to|TO help|VB them|PRP pay|VB for|IN a|DT higher|JJR education|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB while|IN some|DT types|NNS of|IN financial|JJ aid|NN are|VBP wonderful|JJ other|JJ types|NNS dont|VBP really|RB provide|VB much|JJ aid|NN at|IN all|DT </s>|S_END
+<s>|S_START thats|NNS because|IN there|EX is|VBZ no|DT truthinlabeling|NN law|NN that|WDT requires|VBZ colleges|NNS governments|NNS or|CC charities|NNS to|TO explain|VB exactly|RB what|WP strings|NNS might|MD be|VB attached|VBN or|CC how|WRB much|JJ aid|NN they|PRP are|VBP really|RB providing|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START here|RB are|VBP the|DT three|CD major|JJ types|NNS of|IN financial|JJ aid|NN and|CC what|WP you|PRP need|VBP to|TO know|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START generally|RB speaking|VBG grants|NNS and|CC scholarships|NNS offer|VBP free|JJ money|NN to|TO help|VB you|PRP pay|VB for|IN your|PRP$ education|NN </s>|S_END
+<s>|S_START in|IN a|DT nutshell|NN this|DT can|MD be|VB the|DT best|JJS type|NN of|IN financial|JJ aid|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT federal|JJ government|NN for|IN example|NN gave|VBD about|IN 8|CD million|CD lowincome|NN undergraduates|NNS from|IN families|NNS earning|VBG less|JJR than|IN about|IN $|$ 40000|CD pell|CD grants|NNS averaging|VBG about|IN $|$ 4000|CD apiece|NN in|IN 201011|CD thats|NNS free|JJ money|NN for|IN college|NN that|WDT they|PRP didnt|VBP have|VBP to|TO pay|VB back|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC students|NNS who|WP receive|JJ grants|NNS for|IN college|NN need|NN to|TO read|VB the|DT fine|NN print|NN first|RB </s>|S_END
+<s>|S_START some|DT socalled|VBN grants|NNS are|VBP really|RB loans|NNS they|PRP might|MD have|VB to|TO repay|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT federal|JJ governments|NNS teach|VBP grant|JJ for|IN example|NN provides|VBZ up|RP to|TO $|$ 4000|CD a|DT year|NN to|TO fund|VB coursework|NN for|IN students|NNS preparing|VBG to|TO be|VB teachers|NNS in|IN highneed|NN areas|NNS </s>|S_END
+<s>|S_START but|CC if|IN recipients|NNS of|IN this|DT grant|NN fail|NN to|TO meet|VB the|DT exact|JJ letter|NN of|IN the|DT law|NN after|IN they|PRP graduate|VBP the|DT grants|NNS turn|VBP into|IN loans|NNS that|WDT must|MD be|VB repaid|VBN with|IN interest|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unlike|IN most|JJS grants|NNS and|CC scholarships|NNS you|PRP have|VBP to|TO pay|VB these|DT loans|NNS back|RB plus|RB interest|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT biggest|JJS source|NN of|IN college|NN financial|JJ aid|NN loans|NNS is|VBZ the|DT federal|JJ government|NN </s>|S_END
+<s>|S_START in|IN 2011|CD the|DT us|PRP department|NN of|IN education|NN loaned|VBN more|RBR than|IN $|$ 100|CD billion|CD to|TO students|NNS and|CC parents|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT lowestcost|NN federally|RB backed|VBN student|NN loan|NN is|VBZ the|DT perkins|NNS loan|NN </s>|S_END
+<s>|S_START as|IN of|IN early|JJ 2012|CD this|DT loan|NN charged|VBD no|DT interest|NN while|IN the|DT student|NN was|VBD in|IN school|NN and|CC only|RB 5|CD a|DT year|NN after|IN the|DT student|NN left|VBD school|NN </s>|S_END
+<s>|S_START unfortunately|RB there|EX is|VBZ a|DT shortage|NN of|IN perkins|NNS funds|NNS so|RB only|RB the|DT neediest|JJS students|NNS are|VBP generally|RB able|JJ to|TO take|VB them|PRP out|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT nextbest|JJS deal|NN is|VBZ the|DT federal|JJ stafford|NN loan|NN </s>|S_END
+<s>|S_START any|DT student|NN who|WP attends|NNS college|VBP at|IN least|JJS halftime|NN and|CC is|VBZ a|DT citizen|NN or|CC has|VBZ a|DT green|JJ card|NN is|VBZ entitled|VBN to|TO borrow|VB at|IN least|JJS $|$ 5500|CD through|IN this|DT program|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN new|JJ loans|NNS awarded|VBN in|IN the|DT fall|NN of|IN 2012|CD the|DT federal|JJ government|NN was|VBD planning|VBG to|TO charge|VB 68|CD in|IN annual|JJ interest|NN plus|CC 1|CD percentage|NN point|NN in|IN fees|NNS for|IN an|DT annual|JJ percentage|NN rate|NN of|IN 7|CD </s>|S_END
+<s>|S_START however|RB in|IN early|JJ 2012|CD there|EX was|VBD some|DT congressional|JJ debate|NN about|IN lowering|VBG the|DT rate|NN for|IN students|NNS who|WP qualified|VBN as|IN needy|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START note|VB some|DT stafford|NN loans|NNS are|VBP called|VBN unsubsidized|VBN but|CC that|IN is|VBZ a|DT little|RB misleading|VBG </s>|S_END
+<s>|S_START since|IN private|JJ lenders|NNS wont|VBP give|JJ most|JJS students|NNS money|NN at|IN a|DT 7|CD rate|NN all|DT stafford|NN loans|NNS are|VBP subsidized|VBN by|IN taxpayers|NNS </s>|S_END
+<s>|S_START the|DT subsidized|VBN stafford|NN loans|NNS however|RB have|VBP lower|JJR interest|NN costs|NNS and|CC so|RB are|VBP more|RBR subsidized|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START although|IN that|DT rate|NN may|MD seem|VB high|JJ those|DT student|NN loans|NNS are|VBP considered|VBN financial|JJ aid|NN because|IN they|PRP offer|VBP advantages|NNS that|IN no|DT private|JJ loan|NN does|VBZ such|JJ as|IN providing|NN loans|NNS to|TO students|NNS who|WP have|VBP no|DT credit|NN history|NN without|IN requiring|VBG an|DT adult|NN or|CC parent|NN to|TO promise|VB to|TO repay|VB giving|VBG borrowers|NNS the|DT option|NN to|TO make|VB payments|NNS based|VBN on|IN their|PRP$ income|NN after|IN graduation|NN and|CC forgiving|VBG some|DT of|IN the|DT loan|NN for|IN public|JJ service|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START families|NNS who|WP need|VBP to|TO borrow|VB more|JJR than|IN the|DT maximum|NN perkins|VBZ and|CC stafford|NN can|MD try|VB for|IN a|DT federal|JJ parent|NN loans|NNS known|VBN as|IN plus|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START plus|RB loans|VBZ charge|NN 79|CD in|IN annual|JJ interest|NN plus|CC 4|CD in|IN upfront|NN fees|NNS for|IN a|DT total|JJ apr|NN of|IN 88|CD </s>|S_END
+<s>|S_START these|DT are|VBP considered|VBN financial|JJ aid|NN because|IN they|PRP are|VBP available|JJ to|TO parents|NNS whose|WP$ lessthanperfect|NN credit|NN scores|NNS might|MD be|VB rejected|VBN by|IN banks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT colleges|NNS and|CC charities|NNS also|RB offer|VBP college|NN financial|JJ aid|NN loans|NNS that|WDT charge|NN no|DT or|CC very|RB low|JJ interest|NN rates|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC students|NNS and|CC parents|NNS need|VBP to|TO read|VB the|DT fine|NN print|NN on|IN their|PRP$ college|NN financial|JJ aid|NN letters|NNS and|CC bills|NNS </s>|S_END
+<s>|S_START not|RB all|DT educational|JJ loans|NNS are|VBP financial|JJ aid|NN </s>|S_END
+<s>|S_START some|DT are|VBP simply|RB standard|JJ business|NN transactions|NNS </s>|S_END
+<s>|S_START to|TO qualify|VB as|IN financial|JJ aid|NN student|NN or|CC parent|NN loans|NNS are|VBP supposed|VBN to|TO offer|VB better|JJR terms|NNS than|IN you|PRP could|MD get|VB from|IN a|DT private|JJ company|NN such|JJ as|IN a|DT bank|NN credit|NN union|NN or|CC other|JJ lender|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START any|DT student|NN can|MD apply|VB for|IN a|DT job|NN opening|VBG on|IN or|CC offcampus|NN to|TO earn|VB money|NN for|IN school|NN </s>|S_END
+<s>|S_START but|CC students|NNS whom|WP the|DT college|NN determines|NNS have|VBP financial|JJ need|NN have|VBP first|JJ dibs|NNS on|IN certain|JJ federallysubsidized|JJ campus|NN jobs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT jobs|NNS pay|VBP standard|JJ hourly|RB wages|VBZ just|RB like|IN other|JJ jobs|NNS </s>|S_END
+<s>|S_START but|CC they|PRP have|VBP one|CD big|JJ advantage|NN their|PRP$ earnings|NNS dont|NN count|NN as|IN income|NN in|IN future|JJ financial|JJ aid|NN applications|NNS and|CC dont|NN reduce|NN the|DT odds|NNS of|IN getting|VBG needbased|VBN financial|JJ aid|NN the|DT following|VBG year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START next|JJ grants|NNS and|CC scholarships|NNS how|WRB to|TO get|VB free|JJ money |NN </s>|S_END
+</p>|P_END
+

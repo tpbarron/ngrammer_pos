@@ -1,0 +1,16 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 00|CD gdp|NN $|$ 827bn|CD ppp|CD $|$ 743bn|CD inflation|NN 19|CD population|NN 167m|CD gdp|NN per|IN head|NN $|$ 50960|CD ppp|CD $|$ 43570|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ruling|NN coalition|NN is|VBZ divided|VBN and|CC weak|JJ and|CC the|DT farright|NN party|NN for|IN freedom—as|JJ opposed|VBN to|TO immigration|NN as|IN it|PRP is|VBZ to|TO eu|VB bailouts—is|JJ an|DT uneasy|JJ fit|NN so|IN an|DT early|JJ election|NN in|IN 2012|CD or|CC 2013|CD is|VBZ likely|JJ </s>|S_END
+<s>|S_START there|EX is|VBZ no|DT guarantee|NN that|IN a|DT fresh|JJ vote|NN will|MD lead|VB to|TO a|DT more|RBR stable|JJ government|NN </s>|S_END
+<s>|S_START the|DT economic|JJ priorities|NNS will|MD be|VB restoring|VBG fiscal|JJ and|CC financial|JJ stability|NN to|TO this|DT end|NN the|DT pension|NN age|NN will|MD be|VB raised|VBN by|IN a|DT year|NN from|IN 2020|CD and|CC healthcare|JJ funding|NN reformed|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB petal|JJ power|NN </s>|S_END
+<s>|S_START floriade|NN the|DT onceadecade|NN world|NN horticultural|JJ expo|NN will|MD be|VB held|VBN in|IN venlo|NN north|NN limburg|NN from|IN april|NN to|TO october|VB </s>|S_END
+<s>|S_START not|RB just|RB tulip|VB </s>|S_END
+</p>|P_END
+

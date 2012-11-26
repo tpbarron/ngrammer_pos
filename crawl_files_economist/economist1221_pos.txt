@@ -1,0 +1,106 @@
+<p>|P_START
+<s>|S_START only|RB rarely|RB does|VBZ the|DT dry|JJ theorising|NN of|IN mathematicians|NNS strike|IN a|DT chord|NN with|IN the|DT public|NN </s>|S_END
+<s>|S_START most|JJS people|NNS have|VBP heard|VBN of|IN einstein|NN and|CC his|PRP$ famous|JJ equation|NN emc2|NNP or|CC of|IN isaac|NN newton|NN and|CC his|PRP$ apochryphal|JJ falling|NN apple|NN without|IN necessarily|RB understanding|VBG the|DT detail|NN of|IN their|PRP$ elaborate|JJ theorie|NN </s>|S_END
+<s>|S_START but|CC even|RB when|WRB mathematics|NNS has|VBZ direct|JJ relevance|NN to|TO everyday|NN life—in|NN encrypting|VBG your|PRP$ creditcard|NN details|NNS as|IN they|PRP are|VBP sent|VBN over|IN the|DT internet|NN for|IN example—the|JJ theorists|NNS who|WP dream|NN up|IN the|DT underlying|VBG numerical|JJ recipes|NNS do|VBP not|RB become|VB household|JJ name|NN </s>|S_END
+<s>|S_START o|NN benoit|VBD mandelbrot|NN is|VBZ a|DT rare|NN kind|NN of|IN mathematician|JJ </s>|S_END
+<s>|S_START for|IN even|RB if|IN you|PRP have|VBP not|RB heard|VBN of|IN him|PRP you|PRP are|VBP very|RB likely|JJ to|TO recognise|VB the|DT swirling|NN computergenerated|VBD images|NNS of|IN the|DT mandelbrot|NN set|VBD the|DT colourful|JJ corallike|NN mathematical|JJ structure|NN that|WDT bears|VBZ his|PRP$ name|NN </s>|S_END
+<s>|S_START ometimes|NNS called|VBN the|DT most|RBS beautiful|JJ object|NN in|IN mathematics|NN it|PRP has|VBZ appeared|VBN in|IN pop|NN videos|NNS and|CC coffeetable|JJ books|NNS and|CC on|IN tshirts|NNS posters|NNS and|CC computer|NN screensaver|NN </s>|S_END
+<s>|S_START like|IN einsteins|NNS equation|NN and|CC newtons|NNS apple|VBP it|PRP has|VBZ crossed|VBN over|IN into|IN the|DT public|NN consciousne|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT mandelbrot|NN set|VBD is|VBZ a|DT fractal|JJ a|DT term|NN coined|VBN by|IN dr|NN mandelbrot|NN that|WDT has|VBZ a|DT complicated|JJ mathematical|JJ definition|NN but|CC in|IN essence|NN refers|NNS to|TO rough|VB shapes|NNS that|WDT look|NN the|DT same|JJ whether|IN viewed|VBN from|IN far|RB away|RB or|CC close|JJ up|RP </s>|S_END
+<s>|S_START this|DT phenomenon|NN is|VBZ common|JJ in|IN nature|NN a|DT head|NN of|IN cauliflower|JJR for|IN example|NN is|VBZ fractal|JJ in|IN shape|NN as|IN are|VBP coastlines|NNS mountain|IN ranges|NNS tree|VBP branches|NNS riverbed|VBN patterns|NNS and|CC cloud|VBD </s>|S_END
+<s>|S_START in|IN each|DT case|NN a|DT small|JJ fragment|NN when|WRB enlarged|JJ resembles|NNS the|DT larger|JJR whole|NN </s>|S_END
+<s>|S_START with|IN the|DT invention|NN of|IN the|DT theory|NN of|IN fractal|JJ geometry|NN dr|NN mandelbrot|NN thus|RB extended|VBD geometry|NN so|IN that|IN it|PRP could|MD be|VB applied|VBN to|TO complex|JJ rough|JJ objects|NNS as|IN well|RB as|IN simple|JJ smooth|NN one|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT solved|VBD a|DT number|NN of|IN troublesome|NN problems|NNS in|IN mathematics|NNS such|JJ as|IN the|DT existence|NN of|IN objects|NNS that|WDT could|MD not|RB be|VB classified|VBN as|IN one|CD two|CD or|CC threedimensional|JJ but|CC seemed|VBD to|TO fall|VB somewhere|RB in|IN between|IN </s>|S_END
+<s>|S_START a|DT classic|JJ example|NN involves|VBZ determining|NN the|DT length|NN of|IN a|DT coastline|NN </s>|S_END
+<s>|S_START as|IN you|PRP zoom|VBP in|IN on|IN the|DT coastline|NN more|JJR detail|NN is|VBZ revealed|VBN so|RB that|IN it|PRP appears|VBZ to|TO get|VB longer|JJR </s>|S_END
+<s>|S_START indeed|RB it|PRP is|VBZ mathematically|RB possible|JJ to|TO have|VB an|DT infinitely|RB long|JJ coastline|NN contained|VBN within|IN a|DT finite|JJ space|NN </s>|S_END
+<s>|S_START but|CC using|VBG dr|NN mandelbrots|NNS new|JJ theories|NNS such|JJ curves|NNS could|MD be|VB assigned|VBN “fractional”|-NONE- dimension|NN </s>|S_END
+<s>|S_START the|DT coastline|NN of|IN britain|NN for|IN example|NN turns|NNS out|IN to|TO be|VB roughly|RB 124dimensional|JJ </s>|S_END
+<s>|S_START fractal|JJ geometry|NN can|MD also|RB be|VB used|VBN to|TO model|VB and|CC describe|VB though|IN not|RB to|TO explain|VB or|CC predict|VB the|DT clustering|NN of|IN galaxies|NNS fluctuations|NNS of|IN stockmarkets|NNS and|CC turbulence|NN of|IN fluid|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP is|VBZ striking|VBG is|VBZ that|IN fractals|NNS or|CC at|IN least|JJS hints|NNS of|IN them|PRP have|VBP been|VBN under|IN our|PRP$ noses|NNS all|DT along|IN </s>|S_END
+<s>|S_START “fractals|NNS as|IN a|DT tool|NN of|IN science|NN are|VBP useful|JJ but|CC the|DT idea|NN of|IN fractality|NN has|VBZ been|VBN there|RB for|IN ever|RB and|CC ever”|JJ says|NNS dr|VBP mandelbrot|NN </s>|S_END
+<s>|S_START many|JJ painters|NNS had|VBD an|DT eye|NN for|IN fractals|NNS he|PRP notes|VBZ including|VBG leonardo|NN da|NN vinci|NN eugène|NN delacroix|NN and|CC in|IN particular|JJ katsushika|NN hokusai|NN some|DT of|IN whose|WP$ paintings|NNS of|IN landscapes|NNS and|CC crashing|VBG waves|NNS contain|VBP regular|JJ fractallike|NN structure|NN </s>|S_END
+<s>|S_START there|EX are|VBP also|RB fractal|JJ motifs|NNS in|IN some|DT celtic|JJ jewellery|NN </s>|S_END
+<s>|S_START “here|JJ was|VBD an|DT aspect|NN of|IN shape|NN in|IN the|DT world|NN that|DT had|VBD been|VBN seen|VBN by|IN others|NNS but|CC never|RB expressed|VBN in|IN words”|NNP he|PRP say|VBP </s>|S_END
+<s>|S_START “i|NN overturned|VBD a|DT horn|NN of|IN plenty|NN in|IN which|WDT all|DT kinds|NNS of|IN things|NNS humanity|NN has|VBZ always|RB known|VBN were|VBD located”|-NONE- </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START o|NN how|WRB was|VBD he|PRP able|JJ to|TO put|VB all|DT of|IN these|DT pieces|NNS together|RB </s>|S_END
+<s>|S_START dr|NN mandelbrot|VBD attributes|NNS his|PRP$ success|NN to|TO his|PRP$ unusual|JJ approach|NN as|IN a|DT mathematician|JJ which|WDT was|VBD in|IN turn|NN due|JJ to|TO his|PRP$ unconventional|JJ education|NN </s>|S_END
+<s>|S_START born|NN in|IN warsaw|NN in|IN 1924|CD he|PRP was|VBD tutored|VBN by|IN his|PRP$ uncle|NN with|IN whom|WP he|PRP spent|VBD much|RB of|IN his|PRP$ time|NN playing|NN chess|NN and|CC looking|VBG at|IN map|NN </s>|S_END
+<s>|S_START in|IN 1936|CD the|DT family|NN moved|VBD to|TO paris|NNS where|WRB he|PRP came|VBD under|IN the|DT influence|NN of|IN another|DT uncle|NN his|PRP$ fathers|NNS brother|RB szolem|VBP who|WP was|VBD a|DT professor|NN of|IN mathematics|NNS and|CC a|DT keen|NN painter|NN </s>|S_END
+<s>|S_START the|DT family|NN moved|VBD several|JJ times|NNS during|IN the|DT second|JJ world|NN war|NN further|RB disrupting|VBG the|DT young|JJ mandelbrots|NNS education|NN but|CC with|IN the|DT result|NN that|IN he|PRP preserved|VBD a|DT native|JJ gift|NN for|IN shape|NN that|WDT might|MD he|PRP suggests|VBZ otherwise|RB have|VBP been|VBN drummed|VBN out|RP of|IN him|PRP by|IN a|DT conventional|JJ education|NN </s>|S_END
+<s>|S_START he|PRP found|VBD that|IN he|PRP could|MD solve|VB difficult|JJ equations|NNS more|RBR easily|RB by|IN relating|NN them|PRP to|TO geometrical|JJ forms|NNS and|CC filling|VBG in|IN the|DT algebra|NN afterward|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN a|DT variety|NN of|IN academic|JJ positions|NNS including|VBG a|DT stint|NN at|IN the|DT institute|NN for|IN advanced|JJ study|NN in|IN princeton|NN under|IN john|NN von|NN neumann|NN a|DT computing|NN pioneer|NN dr|NN mandelbrot|NN went|VBD to|TO work|VB in|IN 1958|CD for|IN the|DT research|NN arm|NN of|IN ibm|NN </s>|S_END
+<s>|S_START he|PRP was|VBD first|RB taken|VBN on|IN to|TO work|VB in|IN the|DT field|NN of|IN machine|NN translation|NN the|DT use|NN of|IN computers|NNS to|TO translate|VB documents|NNS from|IN one|CD human|NN language|NN into|IN another|DT but|CC had|VBD soon|RB moved|VBN on|IN to|TO other|JJ areas|NNS from|IN the|DT statistical|JJ properties|NNS of|IN noise|NN on|IN telephone|NN lines|NNS to|TO the|DT management|NN of|IN water|NN resource|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT organisation|NN of|IN ibm|NN research|NN proved|VBD to|TO be|VB an|DT ideal|NN environment|NN in|IN which|WDT dr|NN mandelbrot|VBD could|MD pursue|VB his|PRP$ unique|NN geometrical|JJ approach|NN because|IN unlike|JJ university|NN departments|NNS it|PRP was|VBD not|RB rigidly|RB divided|VBN into|IN departmental|JJ “guilds”|JJ such|JJ as|IN physics|NNS mathematics|NNS and|CC so|RB on|IN </s>|S_END
+<s>|S_START he|PRP was|VBD free|JJ to|TO move|VB from|IN subject|JJ to|TO subject|VB developing|VBG what|WP would|MD emerge|VB as|IN his|PRP$ theory|NN of|IN fractal|JJ geometry|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ibm|NN also|RB provided|VBD the|DT vital|JJ tools|NNS dr|VBP mandelbrot|NN needed|VBN to|TO get|VB people|NNS to|TO pay|VB attention|NN to|TO his|PRP$ work|NN powerful|NN computers|NNS capable|JJ of|IN generating|NN graphical|JJ image|NN </s>|S_END
+<s>|S_START he|PRP started|VBD off|RP using|VBG graphical|JJ plotters|NNS of|IN the|DT kind|NN used|VBD to|TO produce|VB architectural|JJ line|NN drawings|NNS to|TO draw|VB artificially|RB generated|VBN river|NN patterns|NNS that|WDT could|MD not|RB be|VB distinguished|VBN from|IN real|JJ one|CD </s>|S_END
+<s>|S_START then|RB in|IN the|DT late|JJ 1970s|CD dr|NN mandelbrot|NN began|VBD to|TO explore|VB a|DT set|NN of|IN equations|NNS that|WDT had|VBD previously|RB been|VBN investigated|VBN by|IN gaston|NN julia|IN a|DT french|JJ mathematician|NN in|IN the|DT 1920|CD </s>|S_END
+<s>|S_START generalising|VBG from|IN julias|NNS work|NN and|CC plotting|VBG the|DT result|NN using|VBG specially|RB written|VBN graphics|NNS software|NN dr|NN mandelbrot|NN produced|VBN the|DT first|JJ images|NNS of|IN the|DT mandelbrot|NN set|VBD in|IN 1980|CD </s>|S_END
+<s>|S_START “when|JJ the|DT first|JJ pictures|NNS came|VBD out|IN it|PRP was|VBD an|DT extraordinary|JJ event”|NN he|PRP recall|MD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uddenly|RB people|NNS started|VBN to|TO pay|VB attention|NN as|IN dr|NN mandelbrots|NNS obscure|VBP formulas|NNS and|CC eccentric|JJ geometrical|JJ theories|NNS were|VBD revealed|VBN as|IN the|DT source|NN of|IN images|NNS of|IN astonishing|VBG beauty|NN and|CC complexity|NN </s>|S_END
+<s>|S_START “i|NN could|MD never|RB get|VB a|DT hearing|NN by|IN formulas|NNS alone|RB because|IN they|PRP were|VBD too|RB different|JJ from|IN what|WP everyone|NN else|RB was|VBD doing”|JJ he|PRP say|VBP </s>|S_END
+<s>|S_START but|CC as|IN a|DT result|NN of|IN his|PRP$ images|NNS dr|VBP mandelbrots|NNS theories|NNS and|CC the|DT interconnections|NNS they|PRP established|VBD between|IN otherwise|NN disparate|NN fields|NNS were|VBD taken|VBN seriously|RB too|RB </s>|S_END
+<s>|S_START ince|NN the|DT publication|NN of|IN his|PRP$ book|NN “the|NNP fractal|NN geometry|NN of|IN nature”|NNP in|IN 1982|CD dr|NN mandelbrot|NN has|VBZ been|VBN awarded|VBN honours|NNS and|CC prizes|NNS in|IN a|DT wide|JJ range|NN of|IN field|NN </s>|S_END
+<s>|S_START in|IN 1993|CD when|WRB he|PRP won|VBD the|DT wolf|NN prize|NN for|IN physics|NNS he|PRP was|VBD cited|VBN for|IN “having|JJ changed|VBN our|PRP$ view|NN of|IN nature”|NNP </s>|S_END
+<s>|S_START most|JJS recently|RB this|DT year|NN he|PRP was|VBD awarded|VBN the|DT japan|NN prize|NN by|IN the|DT science|NN and|CC technology|NN foundation|NN of|IN japan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN mandelbrots|NNS work|VBP also|RB demonstrated|VBN the|DT usefulness|NN of|IN computerbased|VBN visualisation|NN and|CC experimentation|NN in|IN mathematic|JJ </s>|S_END
+<s>|S_START many|JJ mathematicians|NNS he|PRP says|VBZ liked|VBN the|DT idea|NN that|IN certain|JJ structures|NNS defined|VBN by|IN formulas|NNS were|VBD simply|RB unimaginable|JJ during|IN the|DT 20th|JJ century|NN he|PRP notes|VBZ many|JJ of|IN them|PRP took|VBD refuge|NN in|IN wilfully|RB obscure|NN branches|NNS of|IN mathematics|NNS on|IN the|DT basis|NN that|IN such|JJ work|NN had|VBD no|DT military|JJ application|NN </s>|S_END
+<s>|S_START ironically|RB the|DT work|NN of|IN these|DT pacifist|NN mathematicians|NNS in|IN areas|NNS such|JJ as|IN number|NN theory|NN provided|VBD the|DT foundations|NNS for|IN modern|JJ cryptography|NN a|DT key|JJ military|JJ tool|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fractals|NNS such|JJ as|IN the|DT mandelbrot|NN set|VBD are|VBP commonly|RB associated|VBN with|IN the|DT study|NN of|IN complexity|NN also|RB known|VBN by|IN the|DT trendier|NN moniker|NN of|IN chaos|NNS theory|NN </s>|S_END
+<s>|S_START but|CC the|DT study|NN of|IN chaos|NNS is|VBZ now|RB somewhat|RB discredited|VBN having|VBG failed|VBN to|TO make|VB any|DT useful|JJ progre|NN </s>|S_END
+<s>|S_START dr|NN mandelbrot|VBD has|VBZ always|RB distanced|VBN himself|PRP from|IN such|JJ voguishness|NN preferring|VBG to|TO avoid|VB any|DT topic|JJ “in|NN which|WDT the|DT data|NNS are|VBP not|RB abundant|JJ and|CC proof|IN can|MD not|RB be|VB provided”|JJ he|PRP is|VBZ also|RB unimpressed|VBN by|IN “selforganising|JJ complexity”|NN another|DT trendy|NN topic|JJ the|DT idea|NN has|VBZ he|PRP says|VBZ been|VBN around|IN for|IN centurie|NN </s>|S_END
+<s>|S_START instead|RB he|PRP defines|VBZ his|PRP$ work|NN as|IN having|VBG provided|VBN “a|-NONE- reasonable|JJ beginning|NN of|IN a|DT science|NN of|IN roughness”|NNP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN mandelbrot|VBD is|VBZ worried|VBN by|IN the|DT increasing|VBG specialisation|NN of|IN science|NN or|CC as|IN he|PRP terms|VBZ it|PRP its|PRP$ concentration|NN into|IN subjectspecific|JJ “guilds”|JJ </s>|S_END
+<s>|S_START cience|NN he|PRP says|VBZ has|VBZ become|VBN like|IN a|DT professional|JJ sport|NN where|WRB an|DT athletes|NNS worth|NN is|VBZ assessed|VBN solely|RB within|IN a|DT narrowly|RB defined|VBN event|NN </s>|S_END
+<s>|S_START while|IN the|DT tendency|NN to|TO form|NN guilds|NNS is|VBZ natural|JJ he|PRP says|VBZ a|DT few|JJ mavericks|NNS are|VBP essential|JJ or|CC the|DT guildbased|VBN nature|NN of|IN science|NN could|MD lead|VB to|TO a|DT loss|NN of|IN public|JJ interest|NN and|CC trust|NN </s>|S_END
+<s>|S_START cience|NN requires|VBZ the|DT approval|NN of|IN society|NN which|WDT depends|NNS in|IN turn|NN on|IN the|DT availability|NN of|IN credible|JJ and|CC articulate|JJ interlocutor|NN </s>|S_END
+<s>|S_START yet|RB guilds|VBZ spend|NN too|RB little|JJ time|NN forming|VBG connections|NNS with|IN other|JJ guilds|NNS let|VBP alone|RB with|IN the|DT public|NN at|IN large|JJ </s>|S_END
+<s>|S_START he|PRP believes|VBZ that|IN interdisciplinary|JJ mavericks|NNS can|MD both|DT break|NN down|IN the|DT barriers|NNS between|IN guilds|NNS and|CC reconnect|VB them|PRP with|IN the|DT wider|NN world|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START now|RB approaching|VBG 80|CD years|NNS old|JJ dr|NN mandelbrot|NN continues|VBZ to|TO publish|VB papers|NNS in|IN mathematics|NNS and|CC economics|NNS and|CC is|VBZ writing|VBG his|PRP$ memoir|NN </s>|S_END
+<s>|S_START but|CC he|PRP has|VBZ one|CD particular|JJ project|NN that|WDT he|PRP would|MD like|VB to|TO complete|VB to|TO form|VB a|DT capstone|NN for|IN his|PRP$ unusual|JJ career|NN a|DT book|NN and|CC accompanying|VBG art|NN exhibition|NN to|TO demonstrate|VB the|DT historical|JJ precursors|NNS of|IN fractals|NNS and|CC their|PRP$ abundance|NN in|IN art|NN and|CC nature|NN to|TO a|DT mass|NN audience|NN </s>|S_END
+<s>|S_START ince|NN his|PRP$ work|NN is|VBZ capable|JJ of|IN drawing|NN together|RB so|RB many|JJ threads|NNS of|IN human|JJ experience|NN and|CC history|NN he|PRP explains|VBZ “i|-NONE- would|MD like|VB to|TO put|VB it|PRP in|IN a|DT fashion|NN that|WDT people|NNS can|MD appreciate|VB without|IN any|DT attention|NN to|TO technical|JJ detail”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT long|JJ saga|NN of|IN fractals|NNS says|VBZ dr|NN mandelbrot|NN can|MD be|VB perceived|VBN as|IN a|DT ring|NN from|IN art|NN through|IN mathematics|NNS finance|NN many|JJ corners|NNS of|IN science|NN and|CC engineering|NN and|CC finally|RB back|RB to|TO art|VB </s>|S_END
+<s>|S_START within|IN this|DT smooth|NN ring|VBG dr|NN mandelbrot|NN has|VBZ pursued|VBN his|PRP$ unusual|JJ and|CC roughedged|VBD career|NN path|NN </s>|S_END
+<s>|S_START with|IN its|PRP$ many|JJ unpredictable|JJ twists|NNS and|CC turns|NNS but|CC governed|VBD by|IN an|DT unseen|JJ logic|NN it|PRP is|VBZ tempting—not|JJ to|TO mention|NN fitting—to|-NONE- liken|VBN the|DT course|NN of|IN his|PRP$ life|NN to|TO a|DT fractal|JJ </s>|S_END
+</p>|P_END
+

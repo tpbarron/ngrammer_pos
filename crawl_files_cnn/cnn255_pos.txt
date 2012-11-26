@@ -1,0 +1,58 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN nobodys|NNS really|RB talking|VBG about|IN this|DT slice|NN of|IN the|DT pie|NN but|CC mitt|NN romneys|NNS 47|CD who|WP pay|NN no|DT federal|JJ income|NN tax|NN include|NN several|JJ thousand|CD of|IN the|DT highestincome|NN households|NNS in|IN the|DT country|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT tax|NN policy|NN center|NN estimates|NNS that|WDT 4000|CD households|NNS with|IN incomes|NNS over|IN $|$ 1|CD million|CD ended|VBD up|RP with|IN zero|NN federal|JJ income|NN tax|NN liability|NN in|IN 2011|CD </s>|S_END
+<s>|S_START another|DT 14000|CD made|VBN between|IN $|$ 500000|CD and|CC $|$ 1|CD million|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START combined|VBN those|DT households|NNS represented|VBD just|RB 0025|CD of|IN the|DT more|RBR than|IN 76|CD million|CD who|WP did|VBD not|RB pay|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC their|PRP$ presence|NN in|IN the|DT no|DT tax|NN club|NN underlines|NNS the|DT fact|NN that|IN the|DT tax|NN code|NN is|VBZ chock|NN full|JJ of|IN tax|NN breaks|NNS and|CC exceptions|NNS benefiting|VBG people|NNS up|IN and|CC down|IN the|DT income|NN scale|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP various|JJ reasons|NNS why|WRB a|DT household|NN booking|VBG more|JJR than|IN $|$ 1|CD million|CD in|IN income|NN could|MD owe|VB nothing|NN in|IN federal|JJ income|NN tax|NN experts|NNS note|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD 6|CD of|IN the|DT richest|JJS owed|VBN no|DT income|NN tax|NN in|IN 2009|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START among|IN them|PRP people|NNS who|WP live|JJ off|IN their|PRP$ investment|NN income|NN and|CC report|NN large|JJ investment|NN losses|NNS in|IN a|DT given|VBN year|NN may|MD be|VB able|JJ to|TO offset|VB the|DT taxes|NNS owed|VBD on|IN their|PRP$ investment|NN gains|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START or|CC they|PRP may|MD have|VB gotten|VBN a|DT lot|NN of|IN their|PRP$ income|NN from|IN taxfree|JJ investments|NNS such|JJ as|IN municipal|JJ bonds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT possibility|NN a|DT wealthy|JJ tax|NN filer|NN may|MD report|VB a|DT lot|NN of|IN dividend|NN income|NN from|IN foreign|JJ stocks|NNS on|IN which|WDT he|PRP already|RB paid|VBD tax|NN to|TO a|DT foreign|JJ government|NN </s>|S_END
+<s>|S_START he|PRP would|MD get|VB a|DT foreign|JJ tax|NN credit|NN on|IN his|PRP$ us|PRP return|VBP to|TO avoid|VB double|JJ taxation|NN </s>|S_END
+<s>|S_START and|CC if|IN his|PRP$ foreign|JJ tax|NN bill|NN tops|NNS his|PRP$ us|PRP tax|NN bill|NN he|PRP wouldnt|VBD owe|PRP anything|NN to|TO the|DT irs|NNS on|IN that|DT dividend|NN income|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START add|NN in|IN some|DT charitable|JJ contributions|NNS and|CC other|JJ tax|NN breaks|NNS to|TO any|DT of|IN these|DT scenarios|NNS and|CC a|DT tax|NN filer|NN could|MD whittle|VB down|IN his|PRP$ federal|JJ income|NN tax|NN bill|NN to|TO zip|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ impossible|JJ to|TO say|VB how|WRB many|JJ households|NNS rich|WDT and|CC otherwise|VBP would|MD end|VB up|RP with|IN zero|NN federal|JJ income|NN tax|NN liability|NN under|IN romneys|NNS tax|NN reform|NN proposals|NNS </s>|S_END
+<s>|S_START there|EX are|VBP still|RB too|RB many|JJ unknowns|NNS such|JJ as|IN which|WDT tax|NN breaks|VBZ hed|VBN be|VB willing|JJ to|TO curb|VB to|TO pay|VB for|IN his|PRP$ proposed|VBN tax|NN rate|NN reductions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC its|PRP$ a|DT fair|JJ bet|NN there|EX will|MD still|RB be|VB a|DT notable|JJ number|NN </s>|S_END
+<s>|S_START the|DT percent|NN of|IN nonpayers|NNS fluctuates|VBZ from|IN year|NN to|TO year|NN but|CC there|EX has|VBZ not|RB been|VBN one|CD year|NN since|IN 1916|CD in|IN which|WDT there|EX were|VBD no|DT nonpayers|NNS according|VBG to|TO the|DT tax|NN foundation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START among|IN the|DT returns|NNS filed|VBN which|WDT excludes|NNS people|NNS who|WP didnt|NN have|VBP to|TO file|VB because|IN their|PRP$ income|NN was|VBD too|RB low|JJ nonpayers|NNS have|VBP ranged|VBN from|IN a|DT low|JJ of|IN 75|CD in|IN 1943|CD to|TO a|DT high|JJ of|IN 561|CD in|IN 1934|CD </s>|S_END
+<s>|S_START since|IN 2000|CD the|DT group|NN of|IN nonpayers|NNS has|VBZ grown|VBN to|TO more|RBR than|IN 40|CD from|IN 25|CD </s>|S_END
+</p>|P_END
+

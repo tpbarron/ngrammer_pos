@@ -1,0 +1,78 @@
+<p>|P_START
+<s>|S_START earlier|JJR this|DT year|NN a|DT gallup|NN poll|NN found|VBD that|IN confidence|NN in|IN america’s|NNP public|NN schools|NNS was|VBD at|IN an|DT alltime|NN low|JJ </s>|S_END
+<s>|S_START its|PRP$ data|NNS go|VBP back|RB to|TO 1973|CD </s>|S_END
+<s>|S_START few|JJ politicians|NNS who|WP speak|NN about|IN education|NN these|DT days|NNS forget|VBP to|TO lament|VB the|DT country’s|NNP poor|NN rankings|NNS in|IN international|JJ league|NN tables|NNS or|CC the|DT urgent|NN need|VBP to|TO produce|VB more|JJR college|NN graduate|NN </s>|S_END
+<s>|S_START poor|NN schools|NNS increased|VBD student|NN debt|NN higher|JJR tuition|NN fees|NNS and|CC lower|JJR pay|NN for|IN the|DT middle|NN classes|NNS are|VBP causing|VBG if|IN this|DT is|VBZ possible|JJ more|RBR angst|JJ than|IN ever|RB about|IN education|NN </s>|S_END
+<s>|S_START barack|NN obama|NN and|CC mitt|NN romney|NN are|VBP doing|VBG their|PRP$ best|JJS to|TO tap|VB into|IN this|DT vein|NN of|IN concern|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT candidates|NNS begin|VBP at|IN roughly|RB similar|JJ places|NNS in|IN the|DT debate—recognising|JJ the|DT problem|NN and|CC proposing|VBG some|DT of|IN the|DT same|JJ remedies|NNS such|JJ as|IN more|JJR charter|NN schools|NNS teacher|NN evaluations|NNS and|CC pay|VB related|JJ to|TO merit|VB </s>|S_END
+<s>|S_START both|DT also|RB have|VBP to|TO bear|VB in|IN mind|NN that|IN education|NN is|VBZ an|DT area|NN presidents|NNS can|MD not|RB do|VB much|RB to|TO change|VB </s>|S_END
+<s>|S_START but|CC a|DT secondterm|NN mr|NN obama|NN is|VBZ likely|JJ to|TO have|VB education|NN reform|NN higher|JJR on|IN his|PRP$ agenda|NN than|IN a|DT firstterm|NN mr|NN romney|NN </s>|S_END
+<s>|S_START mr|NN obama’s|NNS priorities|NNS on|IN entering|VBG office|NN in|IN 2009—the|CD economy|NN and|CC health|NN care—were|JJ just|RB what|WP mr|NN romney’s|-NONE- will|MD be|VB if|IN he|PRP arrives|VBZ in|IN 2013|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD of|IN the|DT biggest|JJS differences|NNS between|IN the|DT candidates|NNS is|VBZ over|IN voucher|DT </s>|S_END
+<s>|S_START mr|NN romney|NN and|CC his|PRP$ party|NN like|IN them|PRP arguing|VBG that|IN they|PRP offer|VBP parents|NNS a|DT choice|NN of|IN schools|NNS and|CC so|RB improve|VB standard|JJ </s>|S_END
+<s>|S_START mr|NN obama|NN and|CC his|PRP$ party|NN do|VBP not|RB arguing|VBG that|IN they|PRP suck|VBP money|NN out|IN of|IN the|DT publicschool|NN system|NN and|CC leave|VB sink|NN schools|NNS behind|IN </s>|S_END
+<s>|S_START the|DT biggest|JJS reason|NN though|IN is|VBZ that|IN they|PRP are|VBP hated|VBN by|IN their|PRP$ allies|NNS the|DT teachers’|NN union|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN romney|NN would|MD take|VB the|DT $|$ 25|CD billion|CD of|IN federal|JJ money|NN that|WDT is|VBZ spent|VBN every|DT year|NN on|IN special|JJ education|NN and|CC poor|JJ pupils|NNS and|CC give|VB it|PRP directly|RB to|TO parents|NNS as|IN voucher|NN </s>|S_END
+<s>|S_START the|DT value|NN of|IN a|DT federal|JJ voucher|NN would|MD probably|RB be|VB too|RB small|JJ to|TO pay|VB for|IN anything|NN much|RB except|IN a|DT bit|NN of|IN tutoring|VBG online|NN courses|NNS and|CC afterschool|NN programme|NN </s>|S_END
+<s>|S_START but|CC they|PRP would|MD be|VB particularly|RB useful|JJ to|TO parents|NNS who|WP live|JJ in|IN states|NNS that|WDT already|RB offer|VBP vouchers|NNS such|JJ as|IN indiana|NN wisconsin|NN and|CC louisiana|NN </s>|S_END
+<s>|S_START and|CC the|DT scheme|NN would|MD also|RB encourage|VB states|NNS to|TO try|VB to|TO expand|VB voucher|NN scheme|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START adding|VBG to|TO the|DT theme|NN of|IN choice|NN mr|NN romney|NN places|NNS more|RBR emphasis|NNS on|IN handing|VBG authority|NN for|IN school|NN quality|NN back|RB to|TO the|DT states|NNS demanding|VBG greater|JJR “transparency|NN and|CC responsibility”|NNP </s>|S_END
+<s>|S_START he|PRP wants|VBZ states|NNS to|TO make|VB more|JJR public|JJ data|NNS available|JJ to|TO parents|NNS about|IN their|PRP$ children’s|NNS failing|VBG school|NN </s>|S_END
+<s>|S_START but|CC he|PRP does|VBZ not|RB propose|VB that|IN the|DT federal|JJ government|NN should|MD intervene|VB to|TO correct|VB those|DT failures—another|JJ striking|NN policy|NN difference|NN between|IN the|DT two|CD candidate|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN obama|NN has|VBZ been|VBN able|JJ to|TO spend|VB a|DT lot|NN of|IN money|NN on|IN education|NN through|IN the|DT stimulus|NN bill|NN of|IN february|JJ 2009|CD </s>|S_END
+<s>|S_START he|PRP used|VBD it|PRP to|TO create|VB a|DT $|$ 44|CD billion|CD programme|NN of|IN competitive|JJ grants|NNS to|TO reward|VB those|DT states|NNS that|IN created|VBN the|DT best|JJS conditions|NNS for|IN education|NN innovation|NN and|CC reform|NN called|VBD race|NN to|TO the|DT top|JJ </s>|S_END
+<s>|S_START trings|NNS were|VBD attached|VBN to|TO the|DT money|NN states|VBZ had|VBN to|TO adopt|VB certain|JJ standards|NNS and|CC find|VBP innovative|JJ ways|NNS of|IN improving|VBG recruitment|NN rewarding|VBG teachers|NNS promoting|VBG charters|NNS and|CC turning|VBG round|NN the|DT lowestperforming|NN school|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START although|IN there|EX are|VBP niggles|NNS about|IN implementation|NN race|NN to|TO the|DT top|JJ has|VBZ undoubtedly|RB encouraged|VBN states|NNS to|TO bring|VB in|IN education|NN reform|NN </s>|S_END
+<s>|S_START arne|NN duncan|VBD mr|NN obama’s|NNS admired|VBD education|NN secretary|NN says|VBZ there|EX has|VBZ been|VBN more|JJR change|NN in|IN state|NN education|NN in|IN the|DT past|JJ few|JJ years|NNS than|IN in|IN the|DT previous|JJ decade|NN </s>|S_END
+<s>|S_START but|CC he|PRP also|RB says|VBZ he|PRP has|VBZ seen|VBN as|IN much|JJ if|IN not|RB more|JJR change|NN in|IN states|NNS “that|JJ did|VBD not|RB receive|VB a|DT nickel”|JJ as|IN in|IN those|DT that|WDT received|VBD “hundreds|NNS of|IN millions|NNS of|IN dollars”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN that|DT question|NN of|IN money|NN mr|NN romney|NN is|VBZ pretty|RB convinced|VBN that|IN much|RB of|IN the|DT spending|NN on|IN education|NN has|VBZ been|VBN wasted|VBN </s>|S_END
+<s>|S_START more|JJR money|NN he|PRP thinks|VBZ will|MD not|RB cure|VB the|DT system’s|NNP ill|NN </s>|S_END
+<s>|S_START moreover|RB he|PRP does|VBZ not|RB believe|VB that|IN class|NN sizes|NNS have|VBP a|DT bearing|VBG on|IN pupil|NN achievement|NN </s>|S_END
+<s>|S_START ome|NN of|IN this|DT may|MD be|VB true|JJ but|CC it|PRP is|VBZ not|RB popular|JJ with|IN parent|NN </s>|S_END
+<s>|S_START he|PRP also|RB supports|VBZ a|DT house|NN republican|NN budget|NN that|WDT would|MD impose|VB very|RB deep|VB cuts|NNS in|IN domestic|JJ spending|NN including|VBG education|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN higher|JJR education|NN mr|NN romney|NN seems|VBZ unlikely|RB to|TO follow|VB through|IN on|IN his|PRP$ costly|JJ promise|NN to|TO roll|VB back|RB a|DT decision|NN to|TO eliminate|VB a|DT federal|JJ loan|NN subsidy|NN to|TO private|JJ banks|NNS for|IN student|NN loan|NN </s>|S_END
+<s>|S_START this|DT cost|NN $|$ 68|CD billion|CD over|IN ten|CD years|NNS and|CC mr|NN obama|NN robin|NN hoodstyle|NN used|VBD the|DT money|NN to|TO finance|VB a|DT popular|JJ grant|NN scheme|NN for|IN poor|JJ student|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START although|IN mr|NN obama|NN has|VBZ increased|VBN federal|JJ spending|NN on|IN higher|JJR education|NN by|IN about|RB $|$ 83|CD billion|CD a|DT year|NN he|PRP has|VBZ not|RB made|VBN much|RB of|IN a|DT dent|NN in|IN the|DT problem|NN of|IN rising|VBG tuition|NN fee|NN </s>|S_END
+<s>|S_START indeed|RB some|DT argue|NN that|IN more|JJR government|NN funding|NN simply|RB fuels|VBZ inflation|NN in|IN those|DT fee|NN </s>|S_END
+<s>|S_START mr|NN romney’s|NNS solution|NN is|VBZ more|RBR transparency|NN and|CC choice|NN which|WDT should|MD unleash|VB marketdriven|VBN improvements|NNS and|CC encouraging|VBG parents|NNS to|TO save|VB more|JJR for|IN their|PRP$ children’s|JJ higher|JJR education|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT second|JJ term|NN mr|NN obama’s|NNS administration|NN is|VBZ likely|JJ to|TO press|NN ahead|RB with|IN its|PRP$ struggle|JJ to|TO hold|VB forprofit|NN colleges|NNS more|RBR accountable|JJ for|IN their|PRP$ results|NNS something|VBG the|DT industry|NN is|VBZ fighting|VBG tooth|NN and|CC claw|NN </s>|S_END
+<s>|S_START mr|NN romney|NN would|MD be|VB unlikely|RB to|TO do|VB so|RB and|CC is|VBZ effusive|JJ in|IN his|PRP$ praise|NN of|IN such|JJ college|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN all|DT this|DT both|DT candidates|NNS make|VBP much|RB of|IN new|JJ educational|JJ technology|NN they|PRP hope|VBP it|PRP can|MD improve|VB both|DT productivity|NN and|CC learning|VBG </s>|S_END
+<s>|S_START mr|NN romney|NN the|DT more|RBR austere|JJ of|IN the|DT candidates|NNS may|MD hurry|VB this|DT along|JJ in|IN the|DT hope|NN of|IN saving|VBG money|NN </s>|S_END
+<s>|S_START but|CC in|IN and|CC of|IN itself|PRP like|IN every|DT other|JJ education|NN reform|NN of|IN the|DT past|JJ 25|CD years|NNS it|PRP is|VBZ no|DT silver|NN bullet|NN </s>|S_END
+<s>|S_START everyone|NN should|MD know|VB by|IN now|RB that|IN such|JJ a|DT thing|NN does|VBZ not|RB exist|VB </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,31 @@
+<p>|P_START
+<s>|S_START americas|NNS trade|VBP deficit|NN with|IN china|NN hit|VBD another|DT record|NN last|JJ year|NN </s>|S_END
+<s>|S_START estimated|VBD at|IN almost|RB $|$ 300|CD billion|CD it|PRP made|VBD up|RP over|IN 40|CD of|IN americas|NNS total|VBP deficit|NN </s>|S_END
+<s>|S_START yet|RB official|JJ data|NNS grossly|RB overstate|JJ us|PRP imports|VBZ from|IN china|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START take|VB the|DT ipad|NN which|WDT america|NN imports|NNS from|IN china|NN even|RB though|IN it|PRP is|VBZ entirely|RB designed|VBN and|CC owned|VBN by|IN apple|NN an|DT american|JJ company|NN </s>|S_END
+<s>|S_START ipads|NNS are|VBP assembled|VBN in|IN chinese|JJ factories|NNS owned|VBN by|IN foxconn|NN a|DT taiwanese|NN firm|NN largely|RB from|IN parts|NNS produced|VBN outside|IN china|NN </s>|S_END
+<s>|S_START according|VBG to|TO a|DT study|NN by|IN the|DT personal|JJ computing|NN industry|NN centre|NN each|DT ipad|NN sold|VBD in|IN america|NN adds|VBZ $|$ 275|CD the|DT total|JJ production|NN cost|NN to|TO americas|NNS trade|VBP deficit|NN with|IN china|NN yet|RB the|DT value|NN of|IN the|DT actual|JJ work|NN performed|VBN in|IN china|NN accounts|NNS for|IN only|RB $|$ 10|CD </s>|S_END
+<s>|S_START using|VBG these|DT numbers|NNS the|DT economist|NN estimates|VBZ that|IN ipads|NNS accounted|VBD for|IN around|IN $|$ 4|CD billion|CD of|IN americas|NNS reported|VBD trade|NN deficit|NN with|IN china|NN in|IN 2011|CD but|CC if|IN chinas|NNS exports|NNS were|VBD measured|VBN on|IN a|DT valueadded|JJ basis|NN the|DT deficit|NN was|VBD only|RB $|$ 150m|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT chart|NN shows|VBZ a|DT geographical|JJ breakdown|NN of|IN the|DT retail|JJ price|NN of|IN an|DT ipad|JJ </s>|S_END
+<s>|S_START the|DT main|JJ rewards|NNS go|VBP to|TO american|JJ shareholders|NNS and|CC worker|NN </s>|S_END
+<s>|S_START apples|NNS profit|VBP amounts|NNS to|TO about|IN 30|CD of|IN the|DT sales|NNS price|NN </s>|S_END
+<s>|S_START product|NN design|NN software|NN development|NN and|CC marketing|NN are|VBP based|VBN in|IN america|NN </s>|S_END
+<s>|S_START add|NN in|IN the|DT profits|NNS and|CC wages|NNS of|IN american|JJ suppliers|NNS and|CC distribution|NN and|CC retail|JJ costs|NNS and|CC america|NN retains|NNS about|IN half|DT the|DT total|JJ value|NN of|IN an|DT ipad|JJ sold|NN there|EX </s>|S_END
+<s>|S_START the|DT next|JJ biggest|NN gainers|NNS are|VBP south|RB korean|JJ firms|NNS like|IN samsung|NN and|CC lg|NN which|WDT provide|VB the|DT display|NN and|CC memory|NN chips|NNS whose|WP$ profits|NNS account|VBP for|IN 7|CD of|IN an|DT ipads|NNS value|NN </s>|S_END
+<s>|S_START the|DT main|JJ financial|JJ benefit|NN to|TO china|VB is|VBZ wages|NNS paid|VBN to|TO workers|NNS for|IN assembling|VBG the|DT product|NN and|CC for|IN manufacturing|NN some|DT inputs—equivalent|JJ to|TO only|RB 2|CD of|IN the|DT retail|JJ price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START chinas|NNS small|JJ contribution|NN to|TO total|JJ costs|NNS suggests|VBZ that|IN a|DT yuan|NN appreciation|NN would|MD have|VB little|JJ impact|NN on|IN its|PRP$ export|NN </s>|S_END
+<s>|S_START a|DT 20|CD rise|NN in|IN the|DT yuan|NN would|MD add|VB less|RBR than|IN 1|CD to|TO the|DT import|NN price|NN of|IN an|DT ipad|JJ </s>|S_END
+<s>|S_START for|IN imports|NNS such|JJ as|IN clothing|NN and|CC toys|NNS the|DT chinese|JJ value|NN added|VBD is|VBZ much|RB higher|JJR </s>|S_END
+<s>|S_START but|CC electrical|JJ machinery|NN and|CC equipment|NN with|IN more|JJR complex|JJ crossborder|NN supply|NN chains|VBZ make|NN up|RP onequarter|NN of|IN chinas|NNS exports|NNS to|TO america|VB </s>|S_END
+<s>|S_START pascal|JJ lamy|NN the|DT head|NN of|IN the|DT world|NN trade|NN organisation|NN has|VBZ suggested|VBN that|IN if|IN trade|NN statistics|NNS reflected|VBD true|JJ domestic|JJ content|NN americas|NNS deficit|NN with|IN china|NN might|MD be|VB more|RBR than|IN halved|VBN </s>|S_END
+</p>|P_END
+

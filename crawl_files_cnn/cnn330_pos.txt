@@ -1,0 +1,52 @@
+<p>|P_START
+<s>|S_START click|NN the|DT chart|NN for|IN more|JJR information|NN about|IN apples|NNS stock|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN shares|NNS of|IN apple|JJ set|NN another|DT alltime|NN high|NN on|IN friday|NN on|IN growing|VBG expectations|NNS for|IN an|DT upcoming|VBG wave|NN of|IN new|JJ gadgets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apples|NNS aapl|VBP fortune|NN 500|CD stock|NN rose|VBD as|IN high|JJ as|IN $|$ 64819|CD besting|VBG the|DT previous|JJ high|NN set|NN in|IN april|NN before|IN closing|JJ the|DT day|NN just|RB a|DT few|JJ cents|NNS lower|JJR at|IN $|$ 64811|CD </s>|S_END
+<s>|S_START the|DT companys|NNS shares|NNS blew|VBP through|IN a|DT series|NN of|IN record|NN highs|NNS in|IN the|DT first|JJ four|CD months|NNS of|IN the|DT year|NN but|CC had|VBD then|RB been|VBN in|IN a|DT funk|NN since|IN may|MD when|WRB apple|VB reported|VBN that|IN its|PRP$ iphone|NN sales|NNS had|VBD plateaued|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apple|NN badly|RB missed|VBN wall|NN streets|NNS sales|NNS and|CC profit|NN forecasts|NNS last|JJ quarter|NN and|CC delivered|VBD a|DT weak|JJ financial|JJ outlook|NN for|IN the|DT current|JJ quarter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT anticipated|VBN september|NN launch|NN of|IN the|DT new|JJ iphone|NN coupled|VBN with|IN rumors|NNS of|IN a|DT smaller|JJR ipad|NN and|CC perpetual|JJ apple|NN tv|NN whispers|NNS have|VBP lifted|VBN the|DT stock|NN once|RB again|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apple|NN is|VBZ believed|VBN to|TO be|VB planning|VBG an|DT event|NN for|IN sept|NN 12|CD at|IN which|WDT it|PRP is|VBZ likely|JJ to|TO unveil|VB its|PRP$ next|JJ smartphone|NN </s>|S_END
+<s>|S_START the|DT new|JJ iphones|NNS upgrades|NNS are|VBP expected|VBN to|TO include|VB 4g|CD wireless|NN support|NN and|CC a|DT larger|JJR screen|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT iphone|NN has|VBZ become|VBN by|IN far|RB the|DT largest|JJS driver|NN of|IN apples|NNS success|NN </s>|S_END
+<s>|S_START in|IN quarters|NNS that|WDT apple|NN launches|VBZ an|DT updated|VBN smartphone|NN the|DT company|NN has|VBZ typically|RB posted|VBN record|NN sales|NNS and|CC profit|NN </s>|S_END
+<s>|S_START last|JJ year|NN after|IN apple|NN launched|VBD the|DT iphone|NN 4s|CD it|PRP had|VBD the|DT secondmost|NN profitable|JJ quarter|NN in|IN us|PRP corporate|JJ history|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN apples|NNS stock|NN rises|NNS it|PRP is|VBZ approaching|VBG another|DT milestone|NN </s>|S_END
+<s>|S_START if|IN shares|NNS reach|VBP $|$ 66368|CD apple|NNS will|MD become|VB the|DT most|JJS valuable|JJ company|NN of|IN all|DT time|NN eclipsing|VBG the|DT record|NN microsoft|NN set|NN in|IN late|JJ 1999|CD according|VBG to|TO howard|VB silverblatt|NN sps|NNS senior|JJ index|NN analyst|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apple|NN is|VBZ already|RB the|DT most|RBS valuable|JJ company|NN in|IN the|DT world|NN but|CC with|IN a|DT market|NN capitalization|NN of|IN $|$ 6075|CD billion|CD it|PRP is|VBZ still|RB shy|JJ of|IN microsofts|NNS record|NN $|$ 6189|CD billion|CD </s>|S_END
+<s>|S_START microsoft|NN set|VBD that|IN benchmark|NN on|IN dec|NN 30|CD 1999|CD at|IN the|DT height|NN of|IN the|DT dotcom|NN bubble|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoft|NN msft|VBD fortune|NN 500|CD now|RB trades|VBZ at|IN a|DT valuation|NN of|IN around|IN $|$ 260|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN apples|NNS stunning|VBG share|NN price|NN rise|NN the|DT companys|NNS stock|NN gains|NNS havent|VBP kept|VBN pace|NN with|IN its|PRP$ earnings|NNS </s>|S_END
+<s>|S_START that|DT means|VBZ apples|NNS shares|NNS are|VBP still|RB relatively|RB cheap|VB </s>|S_END
+<s>|S_START trading|NN at|IN 14|CD times|NNS this|DT years|NNS earnings|NNS forecast|VBP it|PRP has|VBZ a|DT pricetoearnings|NNS ratio|NN far|RB below|IN that|DT of|IN some|DT tech|NN stocks|NNS including|VBG facebook|NN fb|NN groupon|NN grpn|NN and|CC even|RB zynga|VB znga|NN whose|WP$ stock|NN has|VBZ plunged|VBN sharply|RB </s>|S_END
+</p>|P_END
+

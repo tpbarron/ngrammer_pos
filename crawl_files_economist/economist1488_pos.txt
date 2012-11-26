@@ -1,0 +1,64 @@
+<p>|P_START
+<s>|S_START eisenhower|JJR in|IN war|NN and|CC peace|NN </s>|S_END
+<s>|S_START by|IN jean|JJ edward|NN smith|IN </s>|S_END
+<s>|S_START random|NN house|NN 950|CD pages|NNS $|$ 40|CD </s>|S_END
+<s>|S_START buy|NN from|IN amazoncom|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START napoleon|NN believed|VBD that|IN ability|NN counts|NNS for|IN little|JJ in|IN military|JJ men|NNS if|IN they|PRP are|VBP not|RB also|RB blessed|VBD with|IN opportunity|NN what|WP he|PRP wanted|VBD most|JJS were|VBD lucky|JJ general|JJ </s>|S_END
+<s>|S_START jean|JJ edward|NN smiths|NNS superb|VBP new|JJ biography|NN of|IN the|DT “military|JJ statesman”|NN who|WP became|VBD the|DT 34th|JJ president|NN of|IN the|DT united|VBN states|NNS shows|VBZ how|WRB often|RB dwight|JJ “ike”|NN eisenhowers|NNS opportunities|NNS owed|VBD much|RB to|TO what|WP niccolò|-NONE- machiavelli|VBP called|VBN fortuna|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP was|VBD lucky|JJ that|IN west|JJS point|NN adopted|VBD competitive|JJ entry|NN in|IN time|NN for|IN him|PRP to|TO be|VB selected|VBN and|CC that|IN he|PRP was|VBD allowed|VBN to|TO serve|VB in|IN spite|NN of|IN a|DT football|NN injury|NN </s>|S_END
+<s>|S_START his|PRP$ career|NN was|VBD rescued|VBN repeatedly|RB by|IN older|JJR generals|NNS who|WP recognised|VBN his|PRP$ ability|NN </s>|S_END
+<s>|S_START his|PRP$ guardian|JJ angel|NN fox|NN conner|NN whom|WP he|PRP met|VBD at|IN camp|NN meade|NN in|IN 1919|CD became|VBD a|DT lifelong|JJ mentor|NN </s>|S_END
+<s>|S_START conner|NN protected|VBD him|PRP from|IN court|NN martial|JJ over|IN a|DT trivial|JJ allowance|NN claim|NN in|IN 1921|CD sent|NN him|PRP to|TO the|DT general|JJ staff|NN school|NN at|IN fort|NN leavenworth|NN in|IN 1925|CD and|CC a|DT year|NN later|JJ rescued|VBN him|PRP from|IN command|NN of|IN the|DT 24th|JJ regiment|NN a|DT unit|NN for|IN black|JJ soldiers|NNS which|WDT had|VBD such|JJ a|DT bad|JJ name|NN it|PRP was|VBD known|VBN as|IN the|DT “infantrys|NNS siberia”|-NONE- </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START opportunity|NN came|VBD at|IN last|JJ when|WRB george|NN marshall|NN chose|NN eisenhower|NN to|TO be|VB commander|NN of|IN all|DT american|JJ forces|NNS in|IN europe|NN in|IN 1942|CD a|DT year|NN after|IN america|NN entered|VBD the|DT war|NN and|CC then|RB when|WRB franklin|NN roosevelt|NN chose|NN him|PRP instead|RB of|IN marshall|NN as|IN the|DT dday|NN commander|NN partly|RB because|IN of|IN winston|NN churchills|NNS dislike|VBP of|IN marshall|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP was|VBD an|DT almost|RB miraculous|JJ career|NN </s>|S_END
+<s>|S_START although|IN he|PRP had|VBD seen|VBN no|DT action|NN eisenhower|NN was|VBD promoted|VBN over|IN 228|CD senior|JJ officers|NNS when|WRB he|PRP took|VBD over|RP the|DT american|NN high|NN command|NN in|IN north|JJ africa|NN and|CC he|PRP leapfrogged|VBD over|RP more|JJR experienced|VBN british|JJ soldiers|NNS when|WRB he|PRP was|VBD made|VBN commander|NN in|IN chief|NN of|IN the|DT allied|JJ forces|NNS just|RB seven|CD months|NNS later|JJ in|IN 1943|CD </s>|S_END
+<s>|S_START yet|RB neither|DT north|JJ africa|NN nor|CC the|DT first|JJ european|JJ landings|NNS in|IN italy|RB was|VBD well|RB handled|VBN </s>|S_END
+<s>|S_START mr|NN smith|IN a|DT wellknown|NN american|NN biographer|NN and|CC former|JJ professor|NN of|IN political|JJ economy|NN at|IN the|DT university|NN of|IN toronto|NN acknowledges|NNS eisenhowers|NNS many|JJ talent|NN </s>|S_END
+<s>|S_START but|CC unlike|IN several|JJ previous|JJ american|NN writers|NNS including|VBG eisenhowers|NNS own|JJ grandson|NN he|PRP does|VBZ not|RB do|VB so|RB by|IN portraying|NN british|JJ commanders|NNS as|IN almost|RB uniformly|RB incompetent|JJ in|IN comparison|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT virtue|NN is|VBZ mr|NN smiths|NNS sophisticated|VBD handling|VBG of|IN eisenhowers|NNS infatuation|NN for|IN his|PRP$ beautiful|JJ angloirish|NN driver|NN kay|NN summersby|NN the|DT subject|NN of|IN much|JJ prurient|NN speculation|NN </s>|S_END
+<s>|S_START mr|NN smith|IN lists|NNS the|DT circumstantial|JJ opportunities|NNS and|CC concludes|NNS “whether|JJ he|PRP and|CC kay|VB were|VBD intimate|JJ remains|NNS a|DT matter|NN of|IN conjecture|NN </s>|S_END
+<s>|S_START but|CC there|EX is|VBZ no|DT question|NN they|PRP were|VBD in|IN love”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eisenhowers|NNS luck|VBP held|VBN good|JJ in|IN 1945|CD when|WRB he|PRP told|VBD george|VB marshall|JJ he|PRP meant|VBD to|TO leave|VB mamie|NN his|PRP$ wife|NN of|IN 29|CD years|NNS for|IN summersby|JJ </s>|S_END
+<s>|S_START marshall|NN stamped|VBD on|IN the|DT idea|NN and|CC eisenhower|NN ran|VBD for|IN president|NN </s>|S_END
+<s>|S_START mr|NN smith|IN attributes|NNS the|DT unusual|JJ bitterness|NN of|IN the|DT 1952|CD campaign|NN less|RBR to|TO political|JJ partisanship|NN than|IN to|TO fear|VB the|DT democrats|NNS fear|VBP that|IN senator|NN joe|NN mccarthy|NN would|MD publicly|RB describe|VB their|PRP$ candidate|NN adlai|NN stevenson|NN as|IN homosexual|JJ and|CC eisenhowers|NNS fear|VBP that|IN his|PRP$ correspondence|NN with|IN marshall|JJ over|IN his|PRP$ proposed|VBN divorce|NN would|MD be|VB leaked|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START much|RB of|IN john|NN kennedys|NNS political|JJ magic|NN came|VBD from|IN the|DT way|NN journalists|VBZ contrasted|VBN his|PRP$ youth|NN and|CC vigour|PRP$ with|IN eisenhowers|NNS elderly|RB bumbling|VBG his|PRP$ illnesses|NNS and|CC his|PRP$ golf|NN </s>|S_END
+<s>|S_START but|CC political|JJ craftiness|NN was|VBD as|IN important|JJ for|IN eisenhower|NN as|IN his|PRP$ good|NN fortune|NN as|IN laid|JJ out|IN in|IN a|DT 1994|CD biography|NN by|IN fred|VBN greenstein|NN a|DT princeton|NN academic|JJ entitled|VBN “the|JJ hiddenhand|NN presidency”|NN </s>|S_END
+<s>|S_START in|IN fact|NN kennedy|NN played|VBN golf|NN much|RB better|RBR than|IN eisenhower|JJR did|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT eisenhower|NN that|IN mr|NN smith|IN portrays|NNS was|VBD not|RB just|RB a|DT “military|JJ statesman”—as|JJ britains|NNS general|JJ montgomery|NN called|VBN him—but|-NONE- also|RB a|DT very|RB successful|JJ president|NN </s>|S_END
+<s>|S_START he|PRP ended|VBD the|DT war|NN in|IN korea|NN refused|VBD to|TO allow|VB america|NN to|TO get|VB involved|VBN in|IN rescuing|NN the|DT french|NN in|IN indochina|NN one|CD idea|NN had|VBD been|VBN to|TO drop|VB three|CD atom|NN bombs|NNS there|EX forced|VBN britain|NN france|NN and|CC israel|NN to|TO back|VB down|RP over|IN suez|NN and|CC faced|VBD down|RP china|NN over|IN the|DT quemoymatsu|NN crisi|NN </s>|S_END
+<s>|S_START at|IN home|NN he|PRP sent|VBD the|DT 101st|CD airborne|NN to|TO little|JJ rock|NN arkansas|NNS to|TO escort|VB nine|CD black|JJ children|NNS to|TO school|NN </s>|S_END
+<s>|S_START he|PRP presided|VBD over|RP peace|NN and|CC on|IN the|DT whole|JJ prosperity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eisenhower|JJR also|RB left|VBN two|CD mighty|NN endowments|NNS for|IN the|DT north|JJ american|NN economy|NN </s>|S_END
+<s>|S_START he|PRP pushed|VBD through|IN the|DT visionary|JJ st|NN lawrence|NN seaway|NN which|WDT takes|VBZ seagoing|VBG ships|NNS to|TO chicago|VB </s>|S_END
+<s>|S_START as|IN a|DT young|JJ officer|NN in|IN 1919|CD he|PRP had|VBD accompanied|VBN the|DT armys|NNS first|RB convoy|JJ across|IN a|DT continent|NN where|WRB you|PRP sometimes|RB had|VBD to|TO navigate|VB roadless|NN tracts|NNS with|IN a|DT compa|NN </s>|S_END
+<s>|S_START thirtysix|NN years|NNS later|RBR he|PRP sent|VBD to|TO congress|NN the|DT legislation|NN that|WDT created|VBN the|DT interstate|JJ highway|NN system|NN </s>|S_END
+<s>|S_START a|DT fiscal|JJ conservative|JJ eisenhower|NN believed|VBD in|IN strong|JJ government|NN and|CC knew|VBD how|WRB to|TO use|VB it|PRP </s>|S_END
+</p>|P_END
+

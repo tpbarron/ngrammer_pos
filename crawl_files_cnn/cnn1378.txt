@@ -1,0 +1,84 @@
+<p>
+<s>san francisco cnnmoney  the number one way hackers get into protected systems isnt through a fancy technical exploit</s>
+<s>its by guessing the password</s>
+</p>
+
+<p>
+<s>thats not too hard when the most common password used on business systems is password1</s>
+</p>
+
+<p>
+<s>theres a technical reason for password1s popularity its got an uppercase letter a number and nine characters</s>
+<s>that satisfies the complexity rules for many systems including the default settings for microsofts msft fortune 500 widely used active directory identity management software</s>
+</p>
+
+<p>
+<s>security services firm trustwave spotlighted the password1 problem in its recently released 2012 global security report which summarizes the firms findings from nearly 2 million network vulnerability scans and 300 recent security breach investigations</s>
+</p>
+
+<p>
+<s>around 5 of passwords involve a variation of the word password the companys researchers found</s>
+<s>the runnerup welcome turns up in more than 1</s>
+</p>
+
+<p>
+<s>easily guessable or entirely blank passwords were the most common vulnerability trustwaves spiderlabs unit found in its penetration tests last year on clients systems</s>
+<s>the firm set an assortment of widely available passwordcracking tools loose on 25 million passwords and successfully broke more than 21 million of them</s>
+</p>
+
+<p>
+<s>verizon came up with similar results in its 2012 data breach investigations report one of the security industrys most comprehensive annual studies</s>
+<s>the full report will be released in several months but verizon vz fortune 500 previewed some of its findings at this weeks rsa conference in san francisco</s>
+</p>
+
+<p>
+<s>exploiting weak or guessable passwords was the top method attackers used to gain access last year</s>
+<s>it played a role in 29 of the security breaches verizons response team investigated</s>
+</p>
+
+<p>
+<s>verizons scariest finding was that attackers are often inside victims networks for months or years before theyre discovered</s>
+<s>less than 20 of the intrusions verizon studied were discovered within days let alone hours</s>
+</p>
+
+<p>
+<s>even scarier few companies discovered the breach on their own</s>
+<s>more than twothirds learned theyd been attacked only after an external party such as a lawenforcement agency notified them</s>
+<s>trustwaves findings were almost identical only 16 of the cases it investigated last year were internally detected</s>
+</p>
+
+<p>
+<s>so if your password is something guessable whats the best way to make it more secure</s>
+<s>make it longer</s>
+</p>
+
+<p>
+<s>adding complexity to your password  swapping password for ps$w0rd  protects against socalled dictionary attacks which automatically check against a list of standard words</s>
+</p>
+
+<p>
+<s>but attackers are increasingly using bruteforce tools that simply cycle through all possible character combinations</s>
+<s>length is the only effective guard against those</s>
+<s>a sevencharacter password has 70 trillion possible combinations an eightcharacter password takes that to more than 6 quadrillion</s>
+</p>
+
+<p>
+<s>even a few quadrillion options isnt a big deal for modern machines though</s>
+<s>using a $1500 computer built with offtheshelf parts it took trustwave just 10 hours to harvest its first 200000 broken passwords</s>
+</p>
+
+<p>
+<s>weve got to get ourselves using stuff larger than human memory capacity independent security researcher dan kaminsky said during an rsa presentation on why passwords dont work</s>
+</p>
+
+<p>
+<s>he acknowledged that its an uphill fight</s>
+<s>biometric authentication smartcards onetime key generators and other solutions can increase security but at the cost of adding complexity</s>
+</p>
+
+<p>
+<s>the fundamental win of the password over every other authentication technology is its utter simplicity on every device kaminsky said</s>
+<s>this is of course also their fundamental failing</s>
+<s> </s>
+</p>
+

@@ -1,0 +1,36 @@
+<p>|P_START
+<s>|S_START geeks|NNS love|VBP game|NN </s>|S_END
+<s>|S_START but|CC after|IN spending|NN hours|NNS sitting|VBG in|IN a|DT seat|NN programming|NN or|CC building|VBG websites|NNS as|IN part|NN of|IN their|PRP$ jobs|NNS they|PRP often|RB pass|VBP their|PRP$ idle|NN hours|NNS plopped|VBD into|IN a|DT couch|JJ engrossed|VBN in|IN a|DT game|NN or|CC sitting|VBG on|IN a|DT commute|NN lobbing|VBG angry|NN bird|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ not|RB a|DT strategy|NN for|IN good|NN health|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dick|NN talens|NNS and|CC his|PRP$ business|NN partner|NN brian|NN wang|NN want|NN to|TO take|VB advantage|NN of|IN geeks|NNS enthusiasm|VBP for|IN games|NNS in|IN order|NN to|TO improve|VB their|PRP$ fitne|NN </s>|S_END
+<s>|S_START mr|NN talens|NNS is|VBZ the|DT technology|NN chief|NN of|IN fitocracy|NN which|WDT calls|VBZ itself|PRP “the|DT fitness|NN social|JJ network|NN to|TO level|NN up|IN in|IN real|JJ life”|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ one|CD of|IN several|JJ sites|NNS devoted|VBN to|TO “selftracking”|NNP and|CC the|DT use|NN of|IN “gamification”|NNP to|TO entice|VB members|NNS to|TO achieve|VB goal|NN </s>|S_END
+<s>|S_START in|IN his|PRP$ firms|NNS case|NN you|PRP earn|VB points|NNS by|IN turning|VBG spare|NN tyres|NNS into|IN sixpack|NN </s>|S_END
+<s>|S_START mr|NN talens|NNS to|TO judge|VB by|IN photos|NNS has|VBZ succeeded|VBN </s>|S_END
+<s>|S_START a|DT chubby|NN child|NN then|RB a|DT 100kg|CD adult|NN he|PRP now|RB weighs|VBZ 80kg|CD and|CC competes|VBZ in|IN bodybuilding|NN competition|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fitocracy|NN awards|NNS points|NNS using|VBG a|DT system|NN that|WDT favours|VBZ exercises|NNS that|IN produce|NN the|DT best|JJS results|NNS in|IN the|DT least|JJS amount|NN of|IN time|NN </s>|S_END
+<s>|S_START for|IN instance|NN 50|CD body|NN squats|NNS score|VBP 32|CD points|NNS and|CC five|CD repetitions|NNS of|IN a|DT 60kg|CD barbell|NN squat|NN gets|VBZ you|PRP 57|CD points|NNS while|IN a|DT far|NN more|RBR timeconsuming|VBG onehour|PRP$ walk|NN earns|NNS 104|CD point|NN </s>|S_END
+<s>|S_START but|CC the|DT most|RBS interesting|JJ thing|NN about|IN fitocracy|NN is|VBZ not|RB the|DT emphasis|NN on|IN efficient|NN activitie|NN </s>|S_END
+<s>|S_START rather|RB it|PRP is|VBZ that|IN “the|DT people|NNS who|WP come|NN to|TO fitocracy|NN have|VBP never|RB picked|VBN up|RP a|DT weight|NN before|IN and|CC are|VBP frankly|RB geeks|NNS like|IN myself”|NN says|VBZ mr|NN talen|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT key|JJ is|VBZ to|TO give|VB these|DT novices|NNS modest|VBP and|CC achievable|JJ starting|NN points|NNS such|JJ as|IN a|DT walk|NN around|RP the|DT block|NN </s>|S_END
+<s>|S_START gamers|NNS are|VBP used|VBN to|TO working|JJ through|IN quests|NNS or|CC levels|NNS of|IN increasing|VBG difficulty|NN </s>|S_END
+<s>|S_START “you|PRP sort|VBD of|IN trick|NN people|NNS into|IN doing|VBG it”|JJ says|NNS mr|VBP talen|VBN </s>|S_END
+<s>|S_START the|DT firms|NNS iphone|VBP app|NN allows|NNS users|NNS if|IN any|DT can|MD be|VB found|VBN without|IN an|DT android|JJ smartphone|NN which|WDT is|VBZ de|IN rigueur|NN among|IN programmers|NNS to|TO update|VB workout|IN records|NNS on|IN the|DT fly|NN too|RB winning|VBG points|NNS and|CC badge|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fitocracy|NN is|VBZ not|RB alone|RB </s>|S_END
+<s>|S_START nikes|NNS new|JJ fuelband|NN a|DT wristband|NN that|WDT measures|VBZ the|DT wearers|NNS activity|NN level|NN and|CC awards|NNS points|NNS that|WDT count|NN towards|NNS a|DT daily|JJ total|NN also|RB seems|VBZ to|TO be|VB aimed|VBN at|IN gameloving|NN techies|NNS as|IN much|JJ as|IN sporty|NN type|NN </s>|S_END
+<s>|S_START but|CC fitocracy|NN is|VBZ unabashedly|RB geekcentric|JJ </s>|S_END
+<s>|S_START mr|NN talens|NNS was|VBD once|RB sent|VBN a|DT translation|NN of|IN a|DT friendly|JJ gym|NN taunt|NN comparing|VBG weightlifting|NN prowess|NN “do|-NONE- you|PRP even|RB lift”|-NONE- it|PRP was|VBD in|IN klingon|NN </s>|S_END
+</p>|P_END
+

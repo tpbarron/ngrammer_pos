@@ -1,0 +1,55 @@
+<p>|P_START
+<s>|S_START employees|NNS work|VBP at|IN a|DT mercedesbenz|NN factory|NN in|IN rastatt|NN germany|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hong|IN kong|JJ cnnmoney|NN faced|VBD with|IN a|DT persistent|JJ debt|NN crisis|NN in|IN europe|NN german|NN businesses|NNS see|VBP few|JJ reasons|NNS for|IN optimism|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT munichbased|VBN ifo|NN institute|NN said|VBD monday|NN that|IN its|PRP$ business|NN climate|NN index|NN fell|VBD for|IN the|DT fifth|JJ consecutive|JJ month|NN in|IN september|NN hitting|VBG its|PRP$ lowest|JJS level|NN since|IN february|JJ 2010|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB in|IN the|DT manufacturing|NN sector|NN which|WDT had|VBD experienced|VBN a|DT mild|NN recovery|NN in|IN august|NN the|DT business|NN climate|NN cooled|VBD significantly|RB </s>|S_END
+<s>|S_START according|VBG to|TO the|DT survey|NN results|NNS companies|NNS feel|VBP less|JJR satisfied|VBN with|IN their|PRP$ current|JJ position|NN and|CC expressed|VBD greater|JJR pessimism|NN about|IN the|DT future|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START germany|NN is|VBZ the|DT largest|JJS economy|NN in|IN the|DT eurozone|NN and|CC exports|NNS are|VBP its|PRP$ main|JJ driver|NN </s>|S_END
+<s>|S_START but|CC demand|NN for|IN german|NN goods|NNS has|VBZ faded|VBN as|IN the|DT longrunning|NN debt|NN crisis|NN weighs|NNS on|IN economic|JJ activity|NN across|IN the|DT region|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD european|JJ leaders|NNS still|RB behind|IN the|DT curve|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START survey|NN results|NNS showed|VBD that|IN businesses|NNS are|VBP concerned|VBN by|IN the|DT slowdown|NN and|CC the|DT outlook|NN for|IN exports|NNS remained|VBD negative|JJ a|DT trend|NN that|WDT started|VBD in|IN august|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START still|RB there|EX were|VBD a|DT few|JJ bright|JJ spots|NNS including|VBG reports|NNS from|IN retailers|NNS and|CC wholesalers|NNS that|WDT indicated|VBD an|DT improved|VBN business|NN situation|NN in|IN those|DT sectors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT region|NN cleared|VBD a|DT major|JJ hurdle|NN two|CD weeks|NNS ago|IN after|IN a|DT high|JJ court|NN in|IN germany|NN allowed|VBD the|DT creation|NN of|IN a|DT key|JJ bailout|NN fund|NN the|DT esm|NN to|TO go|VB forward|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD banking|NN union|NN faces|NNS long|RB road|JJ ahead|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT key|JJ component|NN of|IN the|DT breakthrough|JJ agreement|NN that|WDT european|JJ union|NN leaders|NNS announced|VBD in|IN june|NN to|TO help|VB stabilize|NN the|DT euro|NN currency|NN union|NN the|DT esm|NN is|VBZ also|RB an|DT important|JJ part|NN of|IN the|DT european|JJ central|JJ banks|NNS new|JJ bond|NN buying|VBG program|NN announced|VBD two|CD weeks|NNS ago|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fund|NN will|MD eventually|RB have|VB €500|-NONE- billion|CD in|IN capital|NN paid|VBN in|IN by|IN governments|NNS over|IN a|DT period|NN of|IN years|NNS to|TO provide|VB loans|NNS for|IN troubled|JJ members|NNS of|IN the|DT 17nation|CD currency|NN union|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ designed|VBN to|TO replace|VB the|DT european|JJ financial|JJ stability|NN facility|NN which|WDT has|VBZ backed|VBN bailouts|NNS for|IN greece|NN portugal|NN and|CC ireland|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB economists|VBZ warn|NN that|IN the|DT esm|NN can|MD not|RB solve|VB the|DT underlying|VBG problems|NNS in|IN the|DT euro|NN area|NN where|WRB many|JJ governments|NNS are|VBP struggling|VBG to|TO cut|VB public|JJ debt|NN amid|IN a|DT deepening|NN economic|JJ recession|NN </s>|S_END
+</p>|P_END
+

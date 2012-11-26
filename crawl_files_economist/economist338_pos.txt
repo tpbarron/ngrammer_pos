@@ -1,0 +1,101 @@
+<p>|P_START
+<s>|S_START americans|NNS are|VBP an|DT optimistic|JJ people|NNS but|CC it|PRP doesnt|VBD show|NN in|IN their|PRP$ feelings|NNS about|IN the|DT economy|NN </s>|S_END
+<s>|S_START consumer|NN confidence|NN is|VBZ depressed|VBN polls|NNS show|VBP growing|VBG disenchantment|NN at|IN barack|NN obamas|NNS handling|VBG of|IN the|DT economy|NN and|CC even|RB mr|VB obama|NN cant|NN seem|VBP to|TO muster|RBR the|DT sunny|NN bromides|VBZ that|IN are|VBP the|DT staple|NN of|IN presidential|JJ speeches|NNS on|IN the|DT subject|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pessimism|NN also|RB permeates|VBZ economists|NNS forecast|VBP </s>|S_END
+<s>|S_START every|DT month|NN the|DT economist|NN polls|NNS economists|NNS in|IN order|NN to|TO produce|VB a|DT consensus|NN forecast|NN the|DT consensus|NN in|IN october|NN 2010|CD was|VBD for|IN growth|NN in|IN 2011|CD of|IN just|RB 24|CD </s>|S_END
+<s>|S_START the|DT economist|NN intelligence|NN unit|NN as|IN reported|JJ in|IN “the|NNP world|NN in|IN figures”|NN section|NN of|IN this|DT edition|NN envisages|VBZ growth|NN of|IN a|DT mere|JJ 15|CD </s>|S_END
+<s>|S_START that|DT consensus|NN figure|NN is|VBZ roughly|RB the|DT economys|NNS longrun|VBP potential|JJ growth|NN rate|NN meaning|VBG it|PRP would|MD create|VB just|RB enough|RB jobs|NNS to|TO keep|VB up|RP with|IN the|DT growing|VBG population|NN </s>|S_END
+<s>|S_START in|IN other|JJ words|NNS the|DT consensus|NN sees|VBZ little|JJ likelihood|NN of|IN the|DT unemployment|NN rate|NN falling|VBG from|IN its|PRP$ level|NN in|IN the|DT third|JJ quarter|NN of|IN 96|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT is|VBZ too|RB gloomy|JJ </s>|S_END
+<s>|S_START in|IN 2011|CD americas|NNS economy|NN will|MD surprise|VB the|DT pessimist|NN </s>|S_END
+<s>|S_START it|PRP will|MD grow|VB faster|JJR than|IN 3|CD and|CC unemployment|NN should|MD fall|VB to|TO 9|CD and|CC probably|RB lower|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB this|DT is|VBZ still|RB far|RB from|IN the|DT boom|NN americans|NNS could|MD rightfully|RB expect|VB </s>|S_END
+<s>|S_START the|DT strength|NN of|IN recovery|NN is|VBZ typically|RB proportionate|JJ to|TO the|DT depth|NN of|IN recession|NN </s>|S_END
+<s>|S_START the|DT reason|NN is|VBZ that|IN recessions|NNS are|VBP usually|RB brought|VBN on|IN by|IN tight|JJ monetary|JJ policy|NN </s>|S_END
+<s>|S_START once|RB monetary|JJ policy|NN loosens|NNS enough|RB suppressed|VBN demand|NN is|VBZ unleashed|VBN and|CC quickly|RB uses|VBZ up|RP the|DT spare|NN capacity|NN left|VBD over|RP from|IN the|DT recession|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT however|NN is|VBZ not|RB a|DT typical|JJ recovery|NN </s>|S_END
+<s>|S_START ince|NN it|PRP began|VBD in|IN mid2009|NNP the|DT american|NN economy|NN has|VBZ followed|VBN the|DT postcrisis|NN path|NN of|IN expansion|NN already|RB taken|VBN by|IN countries|NNS emerging|VBG from|IN similar|JJ financial|JJ crackup|NN </s>|S_END
+<s>|S_START the|DT bungedup|NN financial|JJ system|NN has|VBZ not|RB allowed|VBN lower|JJR interest|NN rates|NNS to|TO work|VB their|PRP$ magic|JJ on|IN commerce|NN </s>|S_END
+<s>|S_START capitalconstrained|VBD banks|NNS are|VBP reluctant|JJ to|TO lend|VB and|CC households|NNS saddled|VBD with|IN homes|NNS worth|IN less|JJR than|IN their|PRP$ mortgages|NNS cant|VBP or|CC wont|NN borrow|NN </s>|S_END
+<s>|S_START they|PRP are|VBP trying|VBG to|TO save|VB more|JJR and|CC pay|NN down|RP debt|NN a|DT process|NN called|VBN deleveraging|VBG </s>|S_END
+<s>|S_START through|IN mid2010|NNP bank|NN credit|NN continued|VBD to|TO contract|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP other|JJ factors|NNS holding|VBG back|RB the|DT recovery|NN </s>|S_END
+<s>|S_START the|DT federal|JJ reserve|NN like|IN most|JJS major|JJ central|JJ banks|NNS has|VBZ already|RB lowered|VBN its|PRP$ shortterm|NN interest|NN rate|NN its|PRP$ main|JJ policy|NN lever|NN in|IN effect|NN to|TO zero|VB </s>|S_END
+<s>|S_START many|JJ of|IN americas|NNS big|JJ trading|NN partners|NNS like|IN japan|NN and|CC europe|NN also|RB have|VBP moribund|VBN economies|NNS so|RB they|PRP can|MD not|RB substitute|VB for|IN lost|JJS demand|NN from|IN american|JJ consumer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN the|DT mend|NN shakily|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN spite|NN of|IN this|DT there|EX will|MD be|VB a|DT recovery|NN </s>|S_END
+<s>|S_START over|IN time|NN the|DT headwinds|NNS of|IN consumers|NNS paying|VBG down|IN debt|NN will|MD fade|VB </s>|S_END
+<s>|S_START the|DT process|NN is|VBZ about|IN halfway|NN done|NN </s>|S_END
+<s>|S_START personal|JJ saving|NN had|VBD already|RB risen|VBN to|TO 6|CD of|IN income|NN by|IN the|DT summer|NN of|IN 2010|CD from|IN under|IN 2|CD in|IN 2005|CD </s>|S_END
+<s>|S_START ome|NN optimistically|RB reckon|NN thats|NNS as|IN high|JJ as|IN it|PRP needs|VBZ to|TO go|VB </s>|S_END
+<s>|S_START meanwhile|RB household|VBD debt|NN peaked|VBN at|IN 135|CD of|IN disposable|JJ income|NN in|IN late|JJ 2007|CD by|IN the|DT middle|NN of|IN 2010|CD it|PRP had|VBD fallen|VBN to|TO 123|CD </s>|S_END
+<s>|S_START economists|NNS at|IN deutsche|NN bank|NN project|NN that|WDT if|IN the|DT saving|NN rate|NN stays|VBZ at|IN 6|CD banks|NNS continue|VBP to|TO write|VB off|RP bad|JJ loans|NNS at|IN their|PRP$ current|JJ rate|NN and|CC income|NN grows|VBZ by|IN about|IN 45|CD a|DT year|NN that|WDT ratio|NN will|MD be|VB down|RB to|TO 107|CD by|IN the|DT end|NN of|IN 2011|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN this|DT debtreduction|NN is|VBZ gradual|JJ enough|RB households|VBZ can|MD save|VB more|RBR and|CC spend|VB more|RBR at|IN the|DT same|JJ time|NN </s>|S_END
+<s>|S_START however|RB this|DT assumes|VBZ that|IN they|PRP are|VBP not|RB hit|VBN by|IN some|DT shock|NN to|TO their|PRP$ incomes|NNS such|JJ as|IN a|DT rebound|NN in|IN unemployment|NN a|DT large|JJ increase|NN in|IN taxes|NNS higher|JJR interest|NN rates|NNS or|CC a|DT new|JJ surge|NN in|IN oil|NN price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START american|NN policymakers|NNS are|VBP predisposed|VBN to|TO activism|NN and|CC thus|RB do|VBP all|DT they|PRP can|MD to|TO minimise|VB such|JJ risk|NN </s>|S_END
+<s>|S_START the|DT federal|JJ reserve|NN has|VBZ already|RB ventured|VBN deeply|RB into|IN “quantitative|JJ easing”|JJ qe|NN that|WDT is|VBZ purchasing|VBG bonds|NNS with|IN newly|RB printed|VBN money|NN </s>|S_END
+<s>|S_START qe|NN stimulates|NNS demand|NN in|IN two|CD way|NN </s>|S_END
+<s>|S_START first|JJ it|PRP lowers|VBZ longterm|JJ interest|NN rates|NNS which|WDT encourages|NNS borrowing|VBG </s>|S_END
+<s>|S_START econd|NN banks|NNS and|CC other|JJ investors|NNS unhappy|JJ with|IN the|DT skimpy|NN returns|NNS on|IN their|PRP$ cash|NN invest|NN in|IN riskier|JJR assets|NNS such|JJ as|IN stocks|NNS and|CC corporate|JJ loan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START qe|NN is|VBZ not|RB guaranteed|VBN to|TO work|VB </s>|S_END
+<s>|S_START the|DT bank|NN of|IN japan|NN tried|VBD it|PRP from|IN 2001|CD to|TO 2006|CD but|CC didnt|NN end|NN deflation|NN or|CC spur|VB significant|JJ loan|NN growth|NN </s>|S_END
+<s>|S_START to|TO the|DT fed|JJ thats|NNS probably|RB because|IN it|PRP waited|VBD until|IN it|PRP was|VBD too|RB late|JJ and|CC then|RB did|VBD too|RB little|RB </s>|S_END
+<s>|S_START the|DT fed|VBN believes|NNS it|PRP can|MD accomplish|VB a|DT lot|NN with|IN monetary|JJ policy|NN if|IN it|PRP is|VBZ sufficiently|RB vigorou|PRP </s>|S_END
+<s>|S_START it|PRP has|VBZ already|RB bought|VBN bonds|NNS worth|IN $|$ 175|CD trillion|CD or|CC some|DT 12|CD of|IN gdp|NN in|IN japan|NN the|DT equivalent|NN figure|NN in|IN the|DT 2000s|CD was|VBD about|IN 8|CD and|CC in|IN 2011|CD it|PRP could|MD buy|VB $|$ 1|CD trillion|CD more|JJR </s>|S_END
+<s>|S_START this|DT will|MD hold|VB longterm|JJ interest|NN rates|NNS below|IN 3|CD and|CC drive|JJ some|DT money|NN into|IN stocks|NNS boosting|VBG corporate|JJ spirit|NN </s>|S_END
+<s>|S_START the|DT feds|NNS aggressive|VBP stance|NN will|MD chisel|VB away|RB at|IN the|DT dollar|NN helping|VBG to|TO narrow|VB americas|NNS trade|VBP deficit|NN and|CC boost|VB growth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unfortunately|RB fiscal|JJ policy|NN will|MD be|VB working|VBG against|IN recovery|NN </s>|S_END
+<s>|S_START the|DT expiration|NN of|IN mr|NN obamas|NNS stimulus|VBZ will|MD squeeze|VB the|DT economy|NN in|IN early|JJ 2011|CD as|IN will|MD state|VB and|CC local|JJ government|NN belttightening|VBG </s>|S_END
+<s>|S_START to|TO offset|VB this|DT the|DT white|NN house|NN will|MD at|IN best|JJS persuade|NN congress|NN with|IN its|PRP$ beefedup|NN republican|NN contingent|NN to|TO agree|VB to|TO only|RB a|DT trivial|JJ new|JJ stimulu|NN </s>|S_END
+<s>|S_START the|DT squeeze|NN could|MD become|VB suffocating|VBG if|IN george|NN bushs|NNS tax|NN cuts|NNS are|VBP allowed|VBN to|TO expire|VB at|IN the|DT end|NN of|IN 2010|CD </s>|S_END
+<s>|S_START this|DT is|VBZ why|WRB republicans|NNS and|CC democrats|NNS will|MD in|VB the|DT end|NN set|VBD aside|NN their|PRP$ partisan|NN venom|NN and|CC temporarily|RB extend|VBP the|DT cuts|NNS at|IN least|JJS through|IN 2011|CD </s>|S_END
+<s>|S_START the|DT growing|VBG federal|JJ debt|NN will|MD remain|VB a|DT timebomb|NN but|CC it|PRP wont|VBD explode|NN during|IN 2011|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP could|MD go|VB wrong|JJ </s>|S_END
+<s>|S_START growing|VBG american|JJ resentment|NN at|IN chinas|NNS mercantilist|VBP currency|NN policy|NN could|MD degenerate|VB into|IN a|DT trade|NN war|NN that|WDT stifles|VBZ trade|VBP flows|NNS and|CC shatters|NNS business|NN confidence|NN </s>|S_END
+<s>|S_START partisan|NN rancour|PRP$ could|MD paralyse|VB action|NN on|IN taxes|NNS and|CC lead|VB to|TO a|DT dramatic|JJ fiscal|JJ tightening|NN </s>|S_END
+<s>|S_START and|CC personal|JJ incomes|NNS could|MD flatten|VB out|RP instead|RB of|IN growing|VBG </s>|S_END
+<s>|S_START after|IN all|DT inflation|NN at|IN 1|CD and|CC wage|NN growth|NN at|IN 2|CD were|VBD exceptionally|RB low|JJ in|IN 2010|CD and|CC will|MD probably|RB remain|VB so|RB in|IN 2011|CD </s>|S_END
+<s>|S_START if|IN they|PRP slide|VBP further|JJ perhaps|NNS into|IN deflation|NN territory|NN consumers|NNS will|MD have|VB to|TO pare|VB their|PRP$ spending|NN even|RB more|RBR to|TO get|VB their|PRP$ debt|NN burdens|NNS down|IN and|CC businesses|NNS will|MD be|VB even|RB less|JJR inclined|VBN to|TO hire|VB and|CC to|TO invest|VB </s>|S_END
+<s>|S_START uch|JJ a|DT turn|NN of|IN events|NNS would|MD vindicate|VB americans|NNS pessimism|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START greg|NN ip|NN united|VBD states|NNS economics|NNS editor|NN the|DT economist|NN </s>|S_END
+</p>|P_END
+

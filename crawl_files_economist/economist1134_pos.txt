@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 42|CD gdp|NN $|$ 27bn|CD ppp|CD $|$ 50bn|CD inflation|NN 30|CD population|NN 209m|CD gdp|NN per|IN head|NN $|$ 1310|CD ppp|CD $|$ 2390|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START poised|VBD to|TO enter|VB a|DT 30th|JJ presidential|JJ year|NN after|IN elections|NNS in|IN late|JJ 2011|CD paul|NN biyas|NNS grip|VBP on|IN power|NN is|VBZ undiminished|VBN and|CC the|DT main|JJ threat|NN he|PRP faces|VBZ is|VBZ from|IN ill|NN health|NN he|PRP is|VBZ 79|CD </s>|S_END
+<s>|S_START wouldbe|NN successors|NNS will|MD jockey|VB for|IN position|NN while|IN the|DT social|JJ tensions|NNS that|WDT changed|VBD regimes|VBZ in|IN north|JJ africa|NN simmer|NN </s>|S_END
+<s>|S_START policies|NNS aimed|VBN at|IN reducing|NN poverty|NN and|CC raising|VBG employment|NN will|MD advance|VB slowly|RB at|IN best|JJS </s>|S_END
+</p>|P_END
+

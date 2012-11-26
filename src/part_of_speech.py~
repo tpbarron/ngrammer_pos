@@ -1,0 +1,5 @@
+import nltk
+
+def part_of_speech(s):
+	stokens = nltk.word_tokenize(s)
+	

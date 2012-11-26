@@ -1,0 +1,165 @@
+<p>|P_START
+<s>|S_START money|NN magazine|NN the|DT bursting|NN bubbles|NNS of|IN the|DT 1990s|CD and|CC 2000s|CD caught|NN most|JJS of|IN the|DT experts|NNS by|IN surprise|NN </s>|S_END
+<s>|S_START not|RB robert|VBN shiller|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT yale|NN economist|NN isnt|NN so|RB much|RB a|DT forecaster|NN as|IN a|DT historian|JJ of|IN financial|JJ data|NNS </s>|S_END
+<s>|S_START his|PRP$ work|NN on|IN the|DT history|NN of|IN stocks|NNS led|VBN him|PRP to|TO advocate|VB a|DT market|NN valuation|NN tool|NN now|RB popularly|RB known|VBN as|IN the|DT shiller|NN pe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START traditional|JJ priceearnings|NNS ratios|NNS compare|VBP todays|NNS share|NN prices|NNS with|IN often|RB overly|RB bullish|JJ estimates|NNS of|IN future|JJ profits|NNS and|CC can|MD sometimes|RB make|VB stocks|NNS look|VB more|RBR reasonably|RB priced|VBN than|IN they|PRP really|RB are|VBP </s>|S_END
+<s>|S_START shiller|NN looked|VBD instead|RB at|IN the|DT averaged|JJ 10year|JJ history|NN of|IN earnings|NNS which|WDT captures|NNS both|DT the|DT ups|NNS and|CC the|DT downs|NNS of|IN the|DT business|NN cycle|NN </s>|S_END
+<s>|S_START this|DT pe|NN flashed|VBD red|VBN warning|VBG lights|NNS as|IN it|PRP reached|VBD new|JJ highs|NNS during|IN the|DT tech|NN boom|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START next|JJ shillers|NNS research|NN into|IN home|NN values|NNS led|VBD him|PRP to|TO conclude|VB in|IN 2005|CD that|WDT real|JJ estate|NN looked|VBD bubblelike|IN </s>|S_END
+<s>|S_START today|NN he|PRP still|RB isnt|VBP much|RB of|IN a|DT stock|NN market|NN optimist|NN </s>|S_END
+<s>|S_START but|CC in|IN his|PRP$ new|JJ book|NN finance|NN and|CC the|DT good|JJ society|NN he|PRP argues|VBZ that|IN wall|DT street|NN can|MD be|VB a|DT force|NN for|IN progress|NN his|PRP$ conversation|NN with|IN editoratlarge|NN penelope|NN wang|NN has|VBZ been|VBN edited|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START you|PRP have|VBP become|VBN famous|JJ for|IN your|PRP$ cyclically|RB adjusted|VBN 10year|JJ priceearnings|NNS ratio|VBP </s>|S_END
+<s>|S_START what|WP do|VBP the|DT latest|JJS numbers|NNS say|VBP about|IN future|JJ stock|NN market|NN returns|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB my|PRP$ former|JJ student|NN and|CC i|PRP did|VBD the|DT original|JJ analysis|NN i|PRP was|VBD working|VBG with|IN john|NN campbell|NN now|RB economics|VBZ department|NN chairman|NN at|IN harvard|NN we|PRP found|VBD a|DT correlation|NN between|IN that|DT ratio|NN and|CC the|DT next|JJ 10|CD years|NNS return|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP plug|VBP in|IN todays|NNS pe|VBP of|IN about|IN 22|CD it|PRP would|MD be|VB predicting|VBG something|NN like|IN an|DT annualized|JJ 4|CD return|NN after|IN inflation|NN </s>|S_END
+<s>|S_START not|RB so|RB bad|JJ when|WRB you|PRP look|VBP at|IN the|DT 20year|JJ treasury|NN bond|NN yield|NN of|IN 28|CD and|CC the|DT likely|JJ capital|NN losses|NNS if|IN interest|NN rates|NNS go|VBP up|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT real|JJ 4|CD return|NN seems|VBZ like|IN a|DT worthwhile|JJ investment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START then|RB again|RB i|PRP dont|VBP know|RB that|IN i|PRP trust|VBP that|IN number|NN </s>|S_END
+<s>|S_START it|PRP goes|VBZ back|RB to|TO this|DT whole|JJ academic|JJ literature|NN on|IN the|DT outperformance|NN of|IN equities|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START my|PRP$ old|JJ friend|NN jeremy|NN siegel|NN wharton|NN professor|NN and|CC author|NN of|IN stocks|NNS for|IN the|DT long|JJ run|NN makes|VBZ the|DT strongest|JJS claim|NN about|IN this|DT </s>|S_END
+<s>|S_START he|PRP has|VBZ data|NNS going|VBG back|RB 200|CD years|NNS showing|VBG that|IN the|DT market|NN has|VBZ had|VBN a|DT real|JJ 7|CD return|NN over|IN that|DT period|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC theres|NNS no|DT solid|JJ reason|NN it|PRP should|MD do|VB so|RB well|RB </s>|S_END
+<s>|S_START things|NNS can|MD go|VB for|IN 200|CD years|NNS and|CC then|RB change|VB </s>|S_END
+<s>|S_START i|PRP even|RB worry|VBP about|IN the|DT 10year|JJ pe|NN even|RB that|IN relationship|NN could|MD break|VB down|IN </s>|S_END
+<s>|S_START but|CC i|PRP believe|VBP im|JJ on|IN better|JJR ground|NN thinking|VBG that|IN the|DT pe|NN forecasts|NNS returns|NNS than|IN thinking|VBG one|CD asset|NN just|RB always|RB outperforms|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START are|VBP you|PRP saying|VBG that|IN theres|NNS no|DT reason|NN stocks|NNS should|MD outperform|VB bonds|NNS at|IN all|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START oh|NN no|DT </s>|S_END
+<s>|S_START if|IN you|PRP go|VBP back|RB to|TO textbook|VB finance|NN and|CC make|VB some|DT assumptions|NNS about|IN investors|NNS risk|VBP aversion|NN and|CC that|IN assets|NNS should|MD be|VB priced|VBN to|TO pay|VB investors|NNS for|IN added|VBN risk|NN you|PRP would|MD get|VB some|DT outperformance|NN for|IN stocks|NNS </s>|S_END
+<s>|S_START but|CC not|RB as|IN much|JJ as|IN its|PRP$ been|VBN it|PRP looks|VBZ as|IN if|IN past|JJ high|JJ returns|NNS were|VBD a|DT historical|JJ anomaly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN when|WRB i|PRP said|VBD the|DT 10year|JJ pe|NN predicts|NNS a|DT 4|CD return|NN thats|NNS conditional|JJ on|IN past|JJ returns|NNS being|VBG a|DT guide|NN to|TO future|VB returns|NNS and|CC the|DT truth|NN is|VBZ we|PRP dont|VBP know|VBP </s>|S_END
+<s>|S_START maybe|RB it|PRP will|MD be|VB only|RB 2|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT sp|NN caseshiller|NN housing|VBG index|NN which|WDT you|PRP helped|VBD create|JJ recently|RB showed|VBD another|DT drop|NN </s>|S_END
+<s>|S_START are|VBP you|PRP surprised|VBD the|DT housing|NN decline|NN has|VBZ gone|VBN on|IN this|DT long|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START im|NN not|RB surprised|VBN no|DT </s>|S_END
+<s>|S_START there|EX have|VBP been|VBN long|JJ periods|NNS when|WRB home|NN prices|NNS declined|VBD including|VBG the|DT first|JJ half|DT of|IN the|DT 20th|JJ century|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT national|JJ association|NN of|IN home|NN builders|NNS housing|VBG market|NN index|NN is|VBZ sharply|RB up|IN </s>|S_END
+<s>|S_START its|PRP$ a|DT sign|NN of|IN a|DT possible|JJ turning|NN point|NN </s>|S_END
+<s>|S_START but|CC theres|NNS another|DT side|NN of|IN me|PRP that|IN says|VBZ that|IN the|DT housing|NN market|NN decline|NN hasnt|NN overshot|NN yet|RB really|RB </s>|S_END
+<s>|S_START it|PRP could|MD do|VB that|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START youve|NN argued|VBD for|IN changing|NN the|DT home|NN mortgage|NN deduction|NN </s>|S_END
+<s>|S_START why|WRB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP good|JJ reasons|NNS to|TO promote|VB home|NN ownership|NN its|PRP$ a|DT way|NN to|TO stake|VB people|NNS in|IN citizenship|NN </s>|S_END
+<s>|S_START but|CC i|PRP think|VBP it|PRP makes|VBZ sense|NN to|TO phase|VB out|RP the|DT home|NN mortgage|NN deduction|NN and|CC instead|RB offer|VBP a|DT tax|NN credit|NN which|WDT would|MD be|VB worth|JJ the|DT same|JJ amount|NN to|TO low|JJ and|CC highincome|NN taxpayers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ lowincome|NN people|NNS dont|NN itemize|NN and|CC claim|NN the|DT mortgage|NN deduction|NN even|RB after|IN they|PRP buy|VBP a|DT home|NN because|IN the|DT standard|JJ deduction|NN looks|NNS better|RBR to|TO them|PRP </s>|S_END
+<s>|S_START even|RB if|IN they|PRP do|VBP use|VBP it|PRP the|DT benefit|NN is|VBZ smaller|JJR because|IN theyre|JJ in|IN a|DT lower|JJR tax|NN bracket|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN were|VBD giving|VBG a|DT big|JJ incentive|NN to|TO highincome|VB people|NNS and|CC not|RB much|RB to|TO lowerincome|VB people|NNS </s>|S_END
+<s>|S_START why|WRB do|VBP we|PRP give|VB a|DT tax|NN incentive|NN for|IN people|NNS to|TO build|VB mcmansions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START your|PRP$ new|JJ book|NN is|VBZ called|VBN finance|NN and|CC the|DT good|JJ society|NN </s>|S_END
+<s>|S_START whats|NNS one|CD got|NN to|TO do|VB with|IN the|DT other|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START finance|NN has|VBZ become|VBN unpopular|JJ today|NN a|DT little|RB like|IN being|VBG on|IN campus|NN teaching|NN rotc|NN a|DT generation|NN ago|IN </s>|S_END
+<s>|S_START i|PRP wanted|VBD to|TO clarify|VB what|WP finance|NN does|VBZ and|CC remind|VB people|NNS it|PRP does|VBZ have|VB a|DT social|JJ purpose|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT thing|NN about|IN stock|NN markets|NNS and|CC why|WRB they|PRP have|VBP been|VBN so|RB successful|JJ is|VBZ that|IN they|PRP create|VBP a|DT serious|JJ playable|JJ game|NN </s>|S_END
+<s>|S_START its|PRP$ like|IN gambling|VBG but|CC its|PRP$ not|RB </s>|S_END
+<s>|S_START having|VBG a|DT stock|NN market|NN provides|VBZ excitement|NN and|CC lets|NNS people|NNS think|VBP about|IN real|JJ things|NNS </s>|S_END
+<s>|S_START it|PRP was|VBD a|DT wonderful|JJ invention|NN behaviorally|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN how|WRB do|VBP you|PRP turn|VB that|DT invention|NN to|TO broader|JJR social|JJ ends|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD problem|NN with|IN philanthropy|NN is|VBZ that|IN its|PRP$ unrewarding|NN you|PRP give|VBP away|RB the|DT money|NN and|CC thats|NNS it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN as|IN an|DT example|NN of|IN ways|NNS to|TO humanize|VB finance|NN i|PRP have|VBP a|DT notion|NN of|IN a|DT different|JJ form|NN of|IN philanthropy|NN that|IN would|MD have|VB shareholders|NNS </s>|S_END
+<s>|S_START youre|NN still|RB basically|RB giving|VBG away|RB the|DT money|NN but|CC the|DT shares|NNS you|PRP bought|VBD through|IN your|PRP$ donation|NN would|MD pay|VB dividends|NNS </s>|S_END
+<s>|S_START and|CC at|IN your|PRP$ discretion|NN you|PRP can|MD reinvest|VB them|PRP in|IN that|DT company|NN or|CC in|IN another|DT nonprofit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START youre|NN just|RB back|RB from|IN an|DT economic|JJ conference|NN in|IN europe|NN where|WRB policymakers|NNS are|VBP pushing|VBG budget|NN austerity|NN </s>|S_END
+<s>|S_START any|DT lessons|NNS we|PRP can|MD take|VB from|IN that|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START theres|NNS a|DT debate|NN about|IN the|DT merits|NNS of|IN austerity|NN among|IN economists|NNS </s>|S_END
+<s>|S_START its|PRP$ like|IN a|DT medical|JJ judgment|NN we|PRP have|VBP to|TO deal|VB with|IN the|DT debt|NN eventually|RB </s>|S_END
+<s>|S_START do|VBP we|PRP let|VB the|DT patient|NN rest|NN before|IN we|PRP do|VBP the|DT surgery|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP think|VBP probably|RB austerity|NN is|VBZ bad|JJ at|IN this|DT time|NN </s>|S_END
+<s>|S_START confidence|NN and|CC market|NN psychology|NN are|VBP important|JJ in|IN promoting|NN consumer|NN spending|NN and|CC growth|NN </s>|S_END
+<s>|S_START the|DT only|JJ way|NN we|PRP can|MD collectively|RB decide|VB okay|NN we|PRP need|VBP to|TO spend|VB is|VBZ to|TO tax|NN and|CC spend|VB </s>|S_END
+<s>|S_START the|DT problem|NN is|VBZ those|DT words|NNS are|VBP loaded|VBN ideologically|RB and|CC they|PRP raise|VBP fears|NNS that|IN once|RB spending|VBG goes|NNS up|RP it|PRP wont|VBD come|VBN down|RP </s>|S_END
+<s>|S_START and|CC thats|NNS a|DT legitimate|NN fear|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START do|VBP you|PRP know|VB a|DT money|NN hero|NN </s>|S_END
+<s>|S_START money|NN magazine|NN is|VBZ celebrating|VBG people|NNS both|DT famous|JJ and|CC unsung|JJ who|WP have|VBP done|VBN extraordinary|JJ work|NN to|TO improve|VB others|NNS financial|JJ wellbeing|NN </s>|S_END
+<s>|S_START to|TO nominate|VB your|PRP$ money|NN hero |-NONE- </s>|S_END
+</p>|P_END
+

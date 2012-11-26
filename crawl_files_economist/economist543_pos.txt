@@ -1,0 +1,56 @@
+<p>|P_START
+<s>|S_START the|DT new|JJ industrial|JJ revolution|NN consumers|NNS globalisation|NN and|CC the|DT end|NN of|IN mass|NN production|NN </s>|S_END
+<s>|S_START by|IN peter|NN marsh|NN </s>|S_END
+<s>|S_START yale|NN university|NN press|NN 311|CD pages|NNS $|$ 35|CD and|CC £25|CD </s>|S_END
+<s>|S_START buy|NN from|IN amazoncom amazoncouk|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START omething|VBG big|JJ is|VBZ happening|VBG to|TO the|DT business|NN of|IN making|VBG thing|NN </s>|S_END
+<s>|S_START those|DT who|WP want|VBP to|TO understand|VB it|PRP are|VBP unlikely|RB to|TO find|VB a|DT better|JJR guide|NN than|IN peter|NN marsh|NN </s>|S_END
+<s>|S_START a|DT writer|NN for|IN the|DT financial|JJ times|NNS owned|VBN by|IN pearson|NN a|DT partproprietor|NN of|IN this|DT newspaper|NN he|PRP has|VBZ spent|VBN many|JJ years|NNS visiting|VBG factories|NNS that|WDT make|VBP useful|JJ things|NNS in|IN clever|NN way|NN </s>|S_END
+<s>|S_START his|PRP$ observations|NNS are|VBP sharp|JJ and|CC his|PRP$ book|NN is|VBZ a|DT useful|JJ corrective|JJ to|TO those|DT who|WP associate|NN the|DT word|NN “manufacturing”|NN with|IN “decline”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START global|JJ industrial|JJ output|NN was|VBD 57|CD times|NNS greater|JJR in|IN 2010|CD than|IN it|PRP was|VBD in|IN 1900|CD </s>|S_END
+<s>|S_START in|IN other|JJ words|NNS manufacturing|VBG has|VBZ grown|VBN far|RB faster|JJR than|IN the|DT overall|JJ economy|NN </s>|S_END
+<s>|S_START the|DT main|JJ reason|NN for|IN this|DT is|VBZ that|IN factories|NNS keep|VBP getting|VBG smarter|NN in|IN ways|NNS that|WDT hair|NN salons|NNS do|VBP not|RB </s>|S_END
+<s>|S_START now|RB says|VBZ mr|NN marsh|NN the|DT world|NN is|VBZ on|IN the|DT cusp|NN of|IN another|DT industrial|JJ revolution|NN driven|NN by|IN several|JJ new|JJ technologie|NN </s>|S_END
+<s>|S_START advances|NNS in|IN electronics|NNS biotechnology|NN and|CC the|DT internet|NN are|VBP accelerating|VBG </s>|S_END
+<s>|S_START o|NN is|VBZ the|DT pace|NN at|IN which|WDT innovative|JJ ideas|NNS spread|VBP and|CC are|VBP combined|VBN with|IN each|DT other|JJ </s>|S_END
+<s>|S_START the|DT volume|NN and|CC variety|NN of|IN goods|NNS soars|NNS even|RB as|IN prices|NNS tumble|JJ </s>|S_END
+<s>|S_START mr|NN marsh|NN estimates|NNS that|WDT the|DT world’s|NNP factories|VBZ crank|NN out|IN some|DT 10|CD billion|CD different|JJ products|NNS each|DT year|NN </s>|S_END
+<s>|S_START in|IN other|JJ words|NNS there|EX are|VBP more|JJR unique|JJ products|NNS than|IN there|EX are|VBP people|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB this|DT huge|JJ number|NN will|MD one|CD day|NN seem|NN paltry|NN if|IN the|DT trend|NN towards|NNS “mass|JJ customisation”|NN continue|NN </s>|S_END
+<s>|S_START advances|NNS in|IN computeraided|JJ design|NN and|CC threedimensional|JJ printing|NN will|MD allow|VB firms|NNS to|TO make|VB products|NNS that|WDT are|VBP individually|RB tailored|VBN to|TO each|DT customer—in|JJ order|NN to|TO produce|VB precisely|RB the|DT tool|NN you|PRP want|VBP or|CC a|DT prosthetic|JJ leg|NN that|WDT fits|VBZ perfectly—for|JJ little|JJ more|RBR than|IN the|DT price|NN of|IN a|DT massproduced|VBN one|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT big|JJ change|NN is|VBZ that|IN manufacturing|NN has|VBZ gone|VBN global|JJ </s>|S_END
+<s>|S_START this|DT does|VBZ not|RB mean|VB as|RB some|DT fret|NN that|IN production|NN has|VBZ all|DT moved|VBN to|TO chinese|VB sweatshop|NN </s>|S_END
+<s>|S_START it|PRP means|VBZ that|IN any|DT firm|NN anywhere|RB can|MD hook|VB up|RP to|TO a|DT global|JJ supply|NN chain|NN </s>|S_END
+<s>|S_START a|DT product|NN may|MD be|VB designed|VBN in|IN one|CD country|NN and|CC assembled|VBD in|IN another|DT using|NN components|NNS from|IN dozens|NNS more|RBR </s>|S_END
+<s>|S_START even|RB a|DT small|JJ local|JJ manufacturer|NN can|MD use|VB the|DT best|JJS suppliers|NNS the|DT world|NN has|VBZ to|TO offer|VB </s>|S_END
+<s>|S_START every|DT ipad|NN dishwasher|NN or|CC garden|VBN spade|NN you|PRP buy|VB contains|NNS the|DT expertise|NN of|IN thousands|NNS of|IN specialists|NNS you|PRP will|MD never|RB meet|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START manufacturers|NNS form|VBP a|DT giant|JJ ecosystem|NN </s>|S_END
+<s>|S_START mr|NN marsh|NN explores|NNS its|PRP$ lesserknown|NN nooks|NNS such|JJ as|IN poole|JJ an|DT english|JJ resorttown|NN which|WDT is|VBZ home|NN to|TO the|DT world’s|NNS two|CD biggest|JJS makers|NNS of|IN air|NN spindle|NN </s>|S_END
+<s>|S_START these|DT in|IN case|NN you|PRP did|VBD not|RB know|VB are|VBP small|JJ electric|JJ motors|NNS whose|WP$ shafts|NNS rotate|VBP on|IN bearings|NNS made|VBN of|IN gas|NN molecule|NN </s>|S_END
+<s>|S_START they|PRP are|VBP essential|JJ in|IN the|DT production|NN of|IN printed|VBN circuit|NN board|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT geography|NN of|IN manufacturing|NN is|VBZ complex|JJ </s>|S_END
+<s>|S_START upply|RB chains|VBZ are|VBP global|JJ but|CC firms|NNS that|WDT make|VB similar|JJ things|NNS cluster|NN together|RB like|IN those|DT spindlemakers|NNS in|IN poole|NN </s>|S_END
+<s>|S_START mr|NN marsh|NN explains|VBZ why|WRB proximity|NN speeds|NNS the|DT interchange|NN of|IN knowhow|NN </s>|S_END
+<s>|S_START a|DT manager|NN in|IN warsaw|NN indiana|NN home|NN to|TO a|DT dense|NN cluster|NN of|IN medical|JJ implantmakers|NNS describes|VBZ how|WRB an|DT engineer|NN can|MD phone|VB a|DT subcontractor|NN to|TO discuss|VB an|DT idea|NN and|CC then|RB “five|JJ minutes|NNS later|JJ he|PRP can|MD call|VB round|NN to|TO show|VB how|WRB the|DT product|NN should|MD be|VB made|VBN </s>|S_END
+<s>|S_START it’s|NNS a|DT lot|NN easier|NN to|TO do|VB that|DT kind|NN of|IN thing|NN here|RB than|IN if|IN the|DT businesses|NNS were|VBD thousands|NNS of|IN miles|NNS apart”|-NONE- mr|NN marsh’s|NNS policy|NN prescriptions|NNS are|VBP presented|VBN as|IN an|DT afterthought|NN but|CC no|DT matter|NN </s>|S_END
+<s>|S_START his|PRP$ book|NN buzzes—much|JJ like|IN the|DT chainsaws|NNS that|WDT felled|VBD the|DT trees|NNS on|IN which|WDT it|PRP is|VBZ printed|VBN </s>|S_END
+</p>|P_END
+

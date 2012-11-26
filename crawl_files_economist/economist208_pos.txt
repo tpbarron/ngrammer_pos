@@ -1,0 +1,33 @@
+<p>|P_START
+<s>|S_START a|DT publicsector|NN job|NN is|VBZ usually|RB a|DT cushy|JJ way|NN to|TO ride|VB out|RP a|DT recession|NN </s>|S_END
+<s>|S_START not|RB this|DT time|NN </s>|S_END
+<s>|S_START austerity|NN has|VBZ bitten|VBN deeply|RB into|IN public|JJ payrolls|NNS as|IN governments|NNS lay|VBP off|RP workers|NNS slice|NN wage|NN bills|NNS or|CC refuse|VBP to|TO hire|VB replacements|NNS for|IN retiree|JJ </s>|S_END
+<s>|S_START of|IN 37|CD countries|NNS examined|VBN by|IN the|DT imf|NN only|RB four|CD have|VBP increased|VBN spending|NN on|IN publicemployee|NN labour|NN costs|NNS since|IN 2009|CD germany|NN where|WRB the|DT tally|NN of|IN workers|NNS has|VBZ risen|VBN south|NN africa|NN turkey|NN and|CC argentina|NN </s>|S_END
+<s>|S_START what|WP about|IN the|DT toll|NN on|IN the|DT numbers|NNS of|IN government|NN worker|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT question|NN is|VBZ harder|JJR to|TO answer|JJR than|IN it|PRP might|MD seem|VB </s>|S_END
+<s>|S_START france|NN has|VBZ not|RB published|VBN the|DT number|NN of|IN public|JJ employees|NNS since|IN the|DT end|NN of|IN 2009|CD for|IN example|NN </s>|S_END
+<s>|S_START publicsector|NN workers|NNS sit|NN in|IN lots|NNS of|IN different|JJ categories|NNS from|IN civil|JJ servants|NNS to|TO employees|NNS of|IN utility|NN companie|NN </s>|S_END
+<s>|S_START but|CC the|DT broad|JJ trend|NN is|VBZ clear|JJ see|NN chart|NN headcount|NN is|VBZ being|VBG slashed|VBN in|IN many|JJ place|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START british|JJ publicsector|NN employment|NN has|VBZ fallen|VBN by|IN a|DT thumping|NN 74|CD since|IN the|DT peak|NN in|IN late|JJ 2009|CD excluding|VBG workers|NNS like|IN teachers|NNS in|IN privatised|VBN schools|NNS that|WDT have|VBP been|VBN recategorised|VBN </s>|S_END
+<s>|S_START pain|NN is|VBZ fast|VBN catching|VBG up|RP government|NN payrolls|NNS there|EX have|VBP fallen|VBN by|IN 56|CD in|IN the|DT space|NN of|IN just|RB nine|CD months|NNS although|IN they|PRP grew|VBD briskly|RB in|IN prior|JJ year|NN </s>|S_END
+<s>|S_START but|CC the|DT standout|NN country|NN is|VBZ greece|NN where|WRB government|NN payrolls|NNS have|VBP shrunk|NN by|IN 163|CD since|IN the|DT peak|NN in|IN early|JJ 2009—comparable|JJ with|IN the|DT decline|NN in|IN greek|NN privatesector|NN employment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT numbers|NNS look|VBP puzzling|VBG given|VBN complaints|NNS from|IN the|DT greek|NN private|JJ sector|NN that|WDT the|DT public|NN sector|NN has|VBZ escaped|VBN the|DT burden|NN of|IN austerity|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ true|JJ that|IN greek|NN government|NN workers|NNS have|VBP avoided|VBN sackings|NNS true|JJ too|RB that|IN the|DT state|NN sector|NN remains|VBZ bloated|VBN </s>|S_END
+<s>|S_START but|CC the|DT retrenchment|NN in|IN spending|NN is|VBZ still|RB for|IN real|JJ contract|NN employees|NNS have|VBP not|RB had|VBN their|PRP$ agreements|NNS renewed|VBD and|CC some|DT workers|NNS who|WP were|VBD worried|VBN about|IN future|JJ pension|NN cuts|NNS took|VBD early|RB retirement|NN instead|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uch|JJ tactics|NNS are|VBP common|JJ </s>|S_END
+<s>|S_START the|DT firing|NN rate|NN of|IN government|NN workers|NNS in|IN america|NN has|VBZ not|RB changed|VBN since|IN 2001|CD for|IN example|NN even|RB though|IN municipal|JJ payrolls|NNS where|WRB the|DT majority|NN of|IN the|DT public|NN sector|NN is|VBZ employed|VBN have|VBP fallen|VBN by|IN 33|CD since|IN 2008|CD </s>|S_END
+<s>|S_START the|DT problem|NN for|IN greece|NN which|WDT was|VBD still|RB locked|VBN in|IN negotiations|NNS with|IN creditors|NNS this|DT week|NN is|VBZ that|IN doing|VBG more|JJR than|IN others|NNS is|VBZ never|RB quite|RB enough|RB </s>|S_END
+</p>|P_END
+

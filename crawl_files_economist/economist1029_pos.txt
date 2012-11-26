@@ -1,0 +1,35 @@
+<p>|P_START
+<s>|S_START the|DT dutch|JJ have|VBP not|RB been|VBN quite|RB their|PRP$ usual|JJ tolerant|NN selves|NNS over|IN the|DT past|JJ decade|NN </s>|S_END
+<s>|S_START first|JJ came|VBD the|DT rise|NN of|IN rightwing|VBG antimuslim|NN populists|NNS such|JJ as|IN the|DT late|JJ pim|NN fortuyn|NN and|CC more|JJR recently|RB geert|VB wilders|NNS railing|VBG against|IN an|DT elite|NN bureaucracy|NN in|IN the|DT hague|NN that|IN pursues|NNS the|DT same|JJ compromise|NN policies|NNS regardless|RB of|IN what|WP coalition|NN is|VBZ in|IN power|NN </s>|S_END
+<s>|S_START there|EX followed|VBN a|DT clampdown|NN on|IN immigration|NN the|DT tightening|NN of|IN the|DT country’s|JJ signature|NN lenient|NN druguse|NN policy|NN and|CC the|DT nationalist|NN tablethumping|VBG of|IN dutch|NN ministers|NNS at|IN recent|JJ eurozone|NN crisis|NN summit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT netherlands|NNS seemed|VBD to|TO have|VB turned|VBN away|RB from|IN its|PRP$ longstanding|JJ reputation|NN as|IN a|DT country|NN of|IN proeuropean|JJ pragmatist|NN </s>|S_END
+<s>|S_START but|CC the|DT unveiling|NN of|IN the|DT new|JJ dutch|NN coalition|NN agreement|NN on|IN october|NN 29th|CD promised|VBN a|DT return|NN to|TO form|NN </s>|S_END
+<s>|S_START framed|VBD by|IN a|DT poster|NN of|IN a|DT newly|RB built|VBN bridge|NN mark|NN rutte|NN the|DT liberal|NN vvd|NN prime|NN minister|NN and|CC diederik|NN samsom|NN the|DT pvda|NN labour|NN party|NN leader|NN laid|VBD out|RP a|DT governing|NN programme|NN that|WDT sets|VBZ the|DT country|NN on|IN a|DT firmly|RB centrist|JJ course|NN </s>|S_END
+<s>|S_START the|DT two|CD parties|NNS were|VBD forced|VBN into|IN a|DT coalition|NN together|NN when|WRB september’s|JJ elections|NNS produced|VBN huge|JJ votes|NNS for|IN the|DT centreright|NN and|CC centreleft|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT coalition|NN accord|NN tackles|NNS a|DT series|NN of|IN domestic|JJ issues|NNS that|WDT have|VBP bedevilled|VBN dutch|NN politics|NNS for|IN years|NNS entailing|VBG sacrifices|NNS for|IN both|DT partie|NN </s>|S_END
+<s>|S_START the|DT liberals|NNS broke|VBD a|DT campaign|NN promise|NN by|IN accepting|NN sharp|JJ limits|NNS on|IN tax|NN deductibility|NN for|IN mortgage|NN interest|NN </s>|S_END
+<s>|S_START labour|PRP$ must|MD swallow|VB a|DT cut|NN in|IN the|DT top|JJ income|NN tax|NN rate|NN from|IN 52|CD to|TO 49|CD </s>|S_END
+<s>|S_START on|IN europe|NN mr|NN rutte|NN has|VBZ often|RB seemed|VBN ambivalent|NN over|IN the|DT past|JJ two|CD years|NNS as|IN his|PRP$ coalition|NN depended|VBD on|IN backing|NN from|IN the|DT eurosceptic|JJ mr|NN wilder|NN </s>|S_END
+<s>|S_START the|DT new|JJ coalition|NN accord|NN shows|VBZ immediate|JJ signs|NNS of|IN a|DT shift|NN to|TO the|DT left|NN </s>|S_END
+<s>|S_START the|DT government|NN will|MD back|VB brussels’|-NONE- proposed|VBN financialtransaction|NN tax|NN a|DT direct|JJ reversal|NN of|IN policy|NN from|IN mr|NN rutte’s|NNS previous|JJ term|NN </s>|S_END
+<s>|S_START labour|PRP$ will|MD get|VB the|DT important|JJ finance|NN and|CC foreignaffairs|NNS portfolio|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS remarkable|JJ has|VBZ been|VBN the|DT widespread|JJ embrace|NN of|IN the|DT new|JJ centrist|NN government|NN in|IN a|DT country|NN that|WDT until|IN recently|RB had|VBD been|VBN torn|VBN by|IN radical|JJ parties|NNS on|IN both|DT extreme|NN </s>|S_END
+<s>|S_START economists|NNS have|VBP praised|VBN the|DT move|NN to|TO ratchet|VB down|RP the|DT mortgageinterest|JJS deduction|NN which|WDT has|VBZ given|VBN the|DT netherlands|NNS the|DT heaviest|JJS household|NN debtload|NN in|IN the|DT eurozone|NN </s>|S_END
+<s>|S_START and|CC the|DT head|NN of|IN the|DT country’s|JJ most|JJS powerful|JJ business|NN alliance|NN glowingly|RB announced|VBD that|IN the|DT netherlands’|NNP famous|JJ model|NN of|IN businesslabour|PRP$ compromise|NN had|VBD been|VBN restored|VBN “the|-NONE- polder|NN model|NN is|VBZ back”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whether|IN everyone|NN will|MD welcome|VB its|PRP$ return|NN is|VBZ another|DT question|NN </s>|S_END
+<s>|S_START voters|NNS backed|VBD the|DT right|NN or|CC the|DT left|NN but|CC got|VBD a|DT government|NN of|IN the|DT centre|NN </s>|S_END
+<s>|S_START for|IN the|DT moment|NN though|IN after|IN a|DT decade|NN of|IN upheaval|NN and|CC political|JJ polarisation|NN and|CC gridlock|NN the|DT public|NN seems|VBZ warily|RB relieved|VBN to|TO see|VB holland|NN go|VB back|RB to|TO being|VBG dutch|NN again|RB </s>|S_END
+</p>|P_END
+

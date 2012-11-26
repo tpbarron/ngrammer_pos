@@ -1,0 +1,62 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN credit|NN rating|NN agency|NN moodys|NNS said|VBD tuesday|NN the|DT united|JJ states|NNS will|MD keep|VB its|PRP$ sterling|NN aaa|NN credit|NN rating|NN for|IN the|DT time|NN being|VBG but|CC lowered|VBN its|PRP$ outlook|NN on|IN us|PRP debt|NN to|TO negative|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT negative|JJ outlook|NN indicates|VBZ the|DT possibility|NN that|IN moodys|NNS would|MD downgrade|VB the|DT countrys|NNS sovereign|VBP credit|NN rating|NN within|IN a|DT year|NN or|CC two|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT rating|NN agency|NN which|WDT had|VBD placed|VBN us|PRP debt|NN rating|NN on|IN review|NN for|IN a|DT possible|JJ downgrade|NN last|JJ month|NN said|VBD the|DT political|JJ deal|NN to|TO raise|VB the|DT debt|NN ceiling|NN has|VBZ now|RB virtually|RB eliminated|VBN the|DT risk|NN of|IN such|JJ a|DT default|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB with|IN the|DT risk|NN of|IN default|NN gone|NN moodys|NNS said|VBD lawmakers|NNS need|VBP to|TO take|VB additional|JJ steps|NNS and|CC keep|VB to|TO their|PRP$ promises|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT second|JJ round|NN of|IN spending|NN cuts|NNS included|VBD in|IN the|DT debt|NN ceiling|NN deal|NN need|VBP to|TO be|VB enacted|VBN moodys|NNS said|VBD while|IN expressing|NN skepticism|NN about|IN the|DT effectiveness|NN of|IN the|DT socalled|VBN trigger|NN mechanism|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START should|MD the|DT new|JJ mechanism|NN put|VBN in|IN place|NN by|IN the|DT budget|NN control|NN act|NN prove|IN ineffective|JJ this|DT could|MD affect|VB the|DT rating|NN negatively|RB moodys|VBZ said|VBN in|IN a|DT statement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC the|DT united|JJ states|NNS should|MD lower|JJR its|PRP$ debttogdp|NN ratio|NN </s>|S_END
+<s>|S_START moodys|NNS said|VBD it|PRP expects|VBZ to|TO see|VB debt|NN stabilize|NN at|IN 73|CD of|IN gdp|NN by|IN the|DT middle|NN of|IN the|DT decade|NN and|CC then|RB decline|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC interest|NN rates|NNS must|MD remain|VB under|IN control|NN </s>|S_END
+<s>|S_START if|IN borrowing|VBG costs|NNS for|IN the|DT us|PRP government|NN spike|IN beyond|NN expectations|NNS that|WDT would|MD also|RB be|VB negative|JJ for|IN the|DT rating|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT united|VBN states|NNS enjoys|NNS its|PRP$ aaa|NN rating|NN in|IN part|NN for|IN having|VBG always|RB stood|NN behind|IN its|PRP$ debt|NN and|CC paid|VBD its|PRP$ bills|NNS on|IN time|NN </s>|S_END
+<s>|S_START as|IN a|DT result|NN us|PRP treasury|NN bonds|NNS are|VBP considered|VBN the|DT worlds|NNS safehaven|VBP investment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rating|NN agencies|NNS standard|JJ poors|NNS moodys|NNS and|CC fitch|NN analyze|NN risk|NN and|CC give|VB debt|NN a|DT grade|NN that|WDT reflects|VBZ the|DT borrowers|NNS ability|NN to|TO pay|VB the|DT underlying|VBG loans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT safest|JJS bets|NNS are|VBP stamped|VBN aaa|NN </s>|S_END
+<s>|S_START thats|NNS where|WRB us|PRP debt|NN has|VBZ stood|VBN for|IN years|NNS </s>|S_END
+<s>|S_START moodys|NNS first|RB assigned|VBD the|DT united|VBN states|NNS a|DT aaa|NN rating|NN in|IN 1917|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT move|NN by|IN moodys|NNS comes|VBZ after|IN an|DT ugly|RB debate|JJ in|IN washington|NN over|IN whether|IN to|TO raise|VB the|DT countrys|NNS $|$ 143|CD trillion|CD debt|NN ceiling|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START congress|NN reached|VBD an|DT agreement|NN on|IN sunday|NN as|IN the|DT treasury|NN department|NN was|VBD days|NNS away|RB from|IN reaching|VBG its|PRP$ borrowing|NN limit|NN </s>|S_END
+<s>|S_START president|NN obama|VBD signed|VBN the|DT eleventhhour|NN bill|NN tuesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sp|NN has|VBZ yet|RB to|TO weigh|VB in|IN on|IN the|DT debt|NN ceiling|NN deal |-NONE- </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,88 @@
+<p>|P_START
+<s>|S_START some|DT 277000|CD federal|JJ workers|NNS including|VBG meat|NN inspectors|NNS could|MD lose|VB jobs|NNS next|IN year|NN if|IN congress|NN doesnt|NN stop|NN agency|NN cuts|NNS that|WDT kick|NN in|IN jan|NN 2|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START washington|NN cnnmoney|NN federal|JJ workers|NNS have|VBP weathered|VBN a|DT twoyear|JJ pay|NN freeze|NN increased|VBD health|NN insurance|NN premiums|NNS and|CC threats|NNS of|IN more|JJR cuts|NNS from|IN republicans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START now|RB their|PRP$ jobs|NNS are|VBP in|IN jeopardy|NN </s>|S_END
+<s>|S_START some|DT 277000|CD workers|NNS 14|CD of|IN the|DT federal|JJ work|NN force|NN could|MD lose|VB their|PRP$ jobs|NNS in|IN the|DT next|JJ 12|CD months|NNS if|IN the|DT us|PRP can|MD not|RB avert|VB the|DT socalled|VBN fiscal|JJ cliff|NN according|VBG to|TO a|DT study|NN by|IN the|DT center|NN for|IN regional|JJ analysis|NN at|IN george|NN mason|NN university|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN congress|NN doesnt|NN act|NN by|IN jan|NN 1|CD the|DT us|PRP will|MD go|VB over|IN the|DT fiscal|JJ cliff|NN triggering|VBG about|IN $|$ 12|CD trillion|CD worth|NN of|IN spending|NN cuts|NNS over|IN a|DT decade|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT cuts|NNS could|MD slice|VB some|DT 48000|CD federal|JJ workers|NNS from|IN civilian|JJ defense|NN jobs|NNS and|CC 229000|CD from|IN federal|JJ jobs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START no|DT one|NN knows|VBZ exactly|RB how|WRB the|DT cuts|NNS would|MD fall|VB </s>|S_END
+<s>|S_START the|DT white|JJ houses|NNS office|NN of|IN management|NN and|CC budget|NN has|VBZ released|VBN figures|NNS on|IN how|WRB much|JJ is|VBZ slated|VBN to|TO be|VB axed|VBN from|IN each|DT agency|NN </s>|S_END
+<s>|S_START but|CC it|PRP has|VBZ yet|RB to|TO identify|VB programs|NNS at|IN stake|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START jobs|NNS could|MD be|VB slashed|VBN from|IN food|NN inspections|NNS health|NN institutes|NNS national|JJ parks|NNS and|CC even|RB air|JJ traffic|NN control|NN towers|NNS staffed|VBD by|IN federal|JJ aviation|NN administration|NN employees|NNS said|VBD stephen|VBN fuller|NN director|NN of|IN the|DT center|NN for|IN regional|JJ analysis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fuller|JJR laid|VBD out|RP the|DT worstcase|NN scenario|NN of|IN the|DT spending|NN cuts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP that|DT means|VBZ is|VBZ some|DT airports|NNS wont|VBP be|VB able|JJ to|TO land|VB as|IN many|JJ planes|NNS because|IN faa|NN controllers|NNS wont|VBP be|VB in|IN the|DT towers|NNS said|VBD fuller|JJR a|DT public|JJ policy|NN professor|NN </s>|S_END
+<s>|S_START fbi|NN agents|NNS wont|VBP be|VB on|IN the|DT ground|NN investigating|VBG and|CC meat|NN inspectors|NNS wont|VBP be|VB inspecting|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB contacted|VBN spokespersons|NNS from|IN the|DT us|PRP department|NN of|IN agriculture|NN the|DT federal|JJ aviation|NN administration|NN the|DT fbi|NN and|CC the|DT national|JJ park|NN service|NN referred|VBD cnnmoney|NN to|TO the|DT office|NN of|IN management|NN and|CC budget|NN for|IN questions|NNS on|IN fiscal|JJ cliffrelated|VBN job|NN cuts|NNS </s>|S_END
+<s>|S_START the|DT omb|NN declined|VBD comment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START federal|JJ workers|NNS have|VBP been|VBN in|IN the|DT line|NN of|IN fire|NN </s>|S_END
+<s>|S_START house|NN republicans|NNS have|VBP held|VBN hearings|NNS questioning|VBG their|PRP$ pay|NN and|CC benefits|NNS </s>|S_END
+<s>|S_START last|JJ month|NN the|DT president|NN extended|VBD a|DT twoyear|NN pay|NN freeze|NN on|IN salaries|NNS through|IN march|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT presidential|JJ debates|NNS wednesday|NN night|NN mitt|NN romney|NN pledged|VBD that|IN if|IN elected|VBN hed|VBN cut|NN back|RB the|DT number|NN of|IN employees|NNS combine|VBP some|DT agencies|NNS and|CC departments|NNS although|IN he|PRP said|VBD the|DT moves|NNS would|MD be|VB accomplished|VBN through|IN attrition|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD americans|NNS face|NN $|$ 3500|CD fiscal|JJ cliff|NN tax|NN hit|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ not|RB just|RB federal|JJ workers|NNS who|WP are|VBP facing|VBG cuts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT fiscal|JJ cliff|NN isnt|NN averted|VBD it|PRP will|MD lead|VB to|TO job|VB losses|NNS in|IN the|DT private|JJ sector|NN too|RB which|WDT could|MD push|VB unemployment|NN above|IN 9|CD by|IN the|DT end|NN of|IN 2013|CD according|VBG to|TO the|DT congressional|JJ budget|NN office|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN employee|NN fears|NNS the|DT obama|NN administration|NN is|VBZ telling|VBG federal|JJ agencies|NNS as|IN well|RB as|IN private|JJ federal|JJ contractors|NNS not|RB to|TO prepare|VB for|IN massive|JJ furloughs|NNS and|CC layoffs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT administration|NN is|VBZ betting|VBG that|IN congress|NN will|MD beat|VB the|DT fiscal|JJ cliff|NN deadline|NN even|RB if|IN it|PRP means|VBZ kicking|VBG the|DT can|MD down|VB the|DT road|NN as|IN lawmakers|NNS have|VBP done|VBN so|RB many|JJ times|NNS before|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START federal|JJ workers|NNS have|VBP received|VBN little|JJ to|TO no|DT guidance|NN about|IN how|WRB to|TO prepare|VB for|IN the|DT fiscal|JJ cliff|NN except|IN by|IN some|DT of|IN their|PRP$ union|NN leaders|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ive|JJ been|VBN telling|VBG employees|NNS for|IN the|DT last|JJ year|NN you|PRP need|VBP to|TO start|VB putting|VBG something|NN away|RB just|RB in|IN case|NN the|DT worst|JJS case|NN scenario|NN happens|NNS said|VBD don|NN hale|NN a|DT local|JJ president|NN of|IN the|DT american|JJ federation|NN of|IN government|NN employees|NNS at|IN the|DT us|PRP military|JJ academy|NN west|NN point|NN </s>|S_END
+<s>|S_START he|PRP and|CC others|NNS workers|NNS at|IN west|JJS point|NN are|VBP among|IN those|DT whose|WP$ civilian|JJ defense|NN jobs|NNS are|VBP at|IN stake|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT problem|NN with|IN that|DT is|VBZ its|PRP$ hard|JJ for|IN a|DT worker|NN at|IN west|JJS point|NN making|VBG $|$ 12|CD an|DT hour|NN to|TO put|VB a|DT way|NN a|DT nest|NN egg|NN </s>|S_END
+</p>|P_END
+

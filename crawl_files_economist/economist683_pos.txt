@@ -1,0 +1,88 @@
+<p>|P_START
+<s>|S_START human|NN geneticists|NNS have|VBP reached|VBN a|DT private|JJ crisis|NN of|IN conscience|NN and|CC it|PRP will|MD become|VB public|JJ knowledge|NN in|IN 2010|CD </s>|S_END
+<s>|S_START the|DT crisis|NN has|VBZ depressing|VBG health|NN implications|NNS and|CC alarming|VBG political|JJ one|CD </s>|S_END
+<s>|S_START in|IN a|DT nutshell|NN the|DT new|JJ genetics|NNS will|MD reveal|VB much|JJ less|JJR than|IN hoped|VBN about|IN how|WRB to|TO cure|VB disease|NN and|CC much|RB more|RBR than|IN feared|VBN about|IN human|JJ evolution|NN and|CC inequality|NN including|VBG genetic|JJ differences|NNS between|IN classes|NNS ethnicities|NNS and|CC race|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START about|IN five|CD years|NNS ago|RB genetics|NNS researchers|NNS became|VBD excited|VBN about|IN new|JJ methods|NNS for|IN “genomewide|JJ association|NN studies”|NN gwa|NN </s>|S_END
+<s>|S_START we|PRP already|RB knew|VBD from|IN twin|NN family|NN and|CC adoption|NN studies|NNS that|WDT all|DT human|NN traits|NNS are|VBP heritable|JJ genetic|JJ differences|NNS explain|VBP much|RB of|IN the|DT variation|NN between|IN individual|JJ </s>|S_END
+<s>|S_START we|PRP knew|VBD the|DT genes|NNS were|VBD there|RB we|PRP just|RB had|VBD to|TO find|VB them|PRP </s>|S_END
+<s>|S_START companies|NNS such|JJ as|IN illumina|NN and|CC affymetrix|CD produced|VBN dna|NN chips|NNS that|WDT allowed|VBD researchers|NNS to|TO test|NN up|IN to|TO 1m|CD genetic|JJ variants|NNS for|IN their|PRP$ statistical|JJ association|NN with|IN specific|JJ trait|NN </s>|S_END
+<s>|S_START americas|NNS national|VBP institutes|NNS of|IN health|NN and|CC britains|VBZ wellcome|NN trust|NN gave|VBD huge|JJ research|NN grants|NNS for|IN genehunting|VBG </s>|S_END
+<s>|S_START thousands|NNS of|IN researchers|NNS jumped|VBD on|IN the|DT gwas|NNS bandwagon|VBP </s>|S_END
+<s>|S_START lab|NN groups|NNS formed|VBN and|CC international|JJ research|NN consortia|NNS congealed|VBD </s>|S_END
+<s>|S_START the|DT quantity|NN of|IN published|JJ gwas|NNS research|NN has|VBZ soared|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN 2010|CD gwas|NNS fever|RB will|MD reach|VB its|PRP$ peak|NN </s>|S_END
+<s>|S_START dozens|NNS of|IN papers|NNS will|MD report|VB specific|JJ genes|NNS associated|VBN with|IN almost|RB every|DT imaginable|JJ trait—intelligence|NN personality|NN religiosity|NN sexuality|NN longevity|NN economic|JJ risktaking|NN consumer|NN preferences|NNS leisure|VBP interests|NNS and|CC political|JJ attitude|NN </s>|S_END
+<s>|S_START the|DT data|NNS are|VBP already|RB collected|VBN with|IN dna|NN samples|NNS from|IN large|JJ populations|NNS already|RB measured|VBN for|IN these|DT trait|NN </s>|S_END
+<s>|S_START its|PRP$ just|RB a|DT matter|NN of|IN doing|VBG the|DT statistics|NNS and|CC writing|VBG up|RP the|DT papers|NNS for|IN nature|NN genetic|JJ </s>|S_END
+<s>|S_START the|DT gold|NN rush|NN is|VBZ on|IN throughout|IN the|DT leading|VBG behaviourgenetics|NNS centres|NNS in|IN london|NN amsterdam|NN boston|NN boulder|NN and|CC brisbane|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gwas|VBD researchers|NNS will|MD in|VB public|JJ continue|NN trumpeting|VBG their|PRP$ successes|NNS to|TO science|NN journalists|NNS and|CC science|NN magazine|NN </s>|S_END
+<s>|S_START they|PRP will|MD reassure|VB big|JJ pharma|NN and|CC the|DT grant|NN agencies|NNS that|WDT gwas|VBZ will|MD identify|VB the|DT genes|NNS that|WDT explain|NN most|JJS of|IN the|DT variation|NN in|IN heart|NN disease|NN cancer|NN obesity|NN depression|NN schizophrenia|NN alzheimers|NNS and|CC ageing|VBG itself|PRP </s>|S_END
+<s>|S_START those|DT genes|NNS will|MD illuminate|VB the|DT biochemical|JJ pathways|NNS underlying|VBG disease|NN which|WDT will|MD yield|VB new|JJ genetic|JJ tests|NNS and|CC blockbuster|NN drug|NN </s>|S_END
+<s>|S_START keep|VB holding|VBG your|PRP$ breath|NN for|IN a|DT golden|JJ age|NN of|IN health|NN happiness|NN and|CC longevity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN private|JJ though|IN the|DT more|RBR thoughtful|JJ gwas|NNS researchers|NNS are|VBP troubled|VBN </s>|S_END
+<s>|S_START they|PRP hold|VBP small|JJ discreet|NN conferences|NNS on|IN the|DT “missing|JJ heritability”|NN problem|NN if|IN all|DT these|DT human|JJ traits|NNS are|VBP heritable|JJ why|WRB are|VBP gwas|RB studies|NNS failing|VBG so|RB often|RB </s>|S_END
+<s>|S_START the|DT dna|NN chips|NNS should|MD already|RB have|VB identified|VBN some|DT important|JJ genes|NNS behind|IN physical|JJ and|CC mental|JJ health|NN </s>|S_END
+<s>|S_START they|PRP simply|RB have|VBP not|RB been|VBN delivering|VBG the|DT good|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START certainly|RB gwas|VBD papers|NNS have|VBP reported|VBN a|DT couple|NN of|IN hundred|VBN genetic|JJ variants|NNS that|WDT show|NN statistically|RB significant|JJ associations|NNS with|IN a|DT few|JJ trait|NN </s>|S_END
+<s>|S_START but|CC the|DT genes|NNS typically|RB do|VBP not|RB replicate|VB across|IN studie|NN </s>|S_END
+<s>|S_START even|RB when|WRB they|PRP do|VBP replicate|JJ they|PRP never|RB explain|VB more|JJR than|IN a|DT tiny|NN fraction|NN of|IN any|DT interesting|JJ trait|NN </s>|S_END
+<s>|S_START in|IN fact|NN classical|JJ mendelian|NN genetics|NNS based|VBN on|IN family|NN studies|NNS has|VBZ identified|VBN far|RB more|RBR diseaserisk|JJ genes|NNS with|IN larger|JJR effects|NNS than|IN gwas|NNS research|NN has|VBZ so|RB far|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START why|WRB the|DT failure|NN </s>|S_END
+<s>|S_START the|DT missing|NN heritability|NN may|MD reflect|VB limitations|NNS of|IN dnachip|NN design|NN gwas|VBD methods|NNS so|RB far|RB focus|VBZ on|IN relatively|RB common|JJ genetic|JJ variants|NNS in|IN regions|NNS of|IN dna|NN that|IN code|NN for|IN protein|NN </s>|S_END
+<s>|S_START they|PRP undersample|VBP rare|JJ variants|NNS and|CC dna|NN regions|NNS translated|VBD into|IN noncoding|NN rna|NNS which|WDT seems|VBZ to|TO orchestrate|VB most|JJS organic|JJ development|NN in|IN vertebrate|NN </s>|S_END
+<s>|S_START or|CC it|PRP may|MD be|VB that|IN thousands|NNS of|IN small|JJ mutations|NNS disrupt|JJ body|NN and|CC brain|NN in|IN different|JJ ways|NNS in|IN different|JJ population|NN </s>|S_END
+<s>|S_START at|IN worst|JJS each|DT human|NN trait|NN may|MD depend|VB on|IN hundreds|NNS of|IN thousands|NNS of|IN genetic|JJ variants|NNS that|WDT add|NN up|RP through|IN geneexpression|NN patterns|NNS of|IN mindnumbing|VBG complexity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START political|JJ science|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP will|MD know|VB much|JJ more|RBR when|WRB it|PRP becomes|VBZ possible|JJ to|TO do|VB cheap|NN “resequencing”—which|JJ is|VBZ really|RB just|RB “sequencing”|JJ a|DT wider|NN variety|NN of|IN individuals|NNS beyond|IN the|DT handful|NN analysed|VBD for|IN the|DT human|JJ genome|NN project|NN </s>|S_END
+<s>|S_START full|JJ sequencing|NN means|VBZ analysing|VBG all|DT 3|CD billion|CD base|NN pairs|NNS of|IN an|DT individuals|NNS dna|VBP rather|RB than|IN just|RB a|DT sample|NN of|IN 1m|CD genetic|JJ variants|NNS as|IN the|DT dna|NN chips|NNS do|VBP </s>|S_END
+<s>|S_START when|WRB sequencing|VBG costs|NNS drop|NN within|IN a|DT few|JJ years|NNS below|IN $|$ 1000|CD per|IN genome|NN researchers|NNS in|IN europe|NN china|NN and|CC india|NN will|MD start|VB huge|JJ projects|NNS with|IN vast|JJ sample|NNS sizes|VBZ sophisticated|VBN bioinformatics|NNS diverse|VBP trait|NN measures|NNS and|CC detailed|VBD family|NN structure|NN </s>|S_END
+<s>|S_START american|NN bioscience|NN will|MD prove|VB too|RB politically|RB squeamish|JJ to|TO fund|VB such|JJ studie|NN </s>|S_END
+<s>|S_START the|DT missing|NN heritability|NN problem|NN will|MD surely|RB be|VB solved|VBN sooner|NN or|CC later|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT trouble|NN is|VBZ the|DT resequencing|NN data|NNS will|MD reveal|VB much|JJ more|RBR about|IN human|JJ evolutionary|NN history|NN and|CC ethnic|JJ differences|NNS than|IN they|PRP will|MD about|IN disease|VB gene|NN </s>|S_END
+<s>|S_START once|RB enough|RB dna|VB is|VBZ analysed|VBN around|IN the|DT world|NN science|NN will|MD have|VB a|DT panoramic|JJ view|NN of|IN human|JJ genetic|JJ variation|NN across|IN races|NNS ethnicities|NNS and|CC region|NN </s>|S_END
+<s>|S_START we|PRP will|MD start|VB reconstructing|VBG a|DT detailed|JJ family|NN tree|NN that|WDT links|VBZ all|DT living|VBG humans|NNS discovering|VBG many|JJ surprises|NNS about|IN misattributed|VBN paternity|NN and|CC covert|NN mating|VBG between|IN classes|NNS castes|NNS regions|NNS and|CC ethnicitie|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP will|MD also|RB identify|VB the|DT many|JJ genes|NNS that|WDT create|VB physical|JJ and|CC mental|JJ differences|NNS across|IN populations|NNS and|CC we|PRP will|MD be|VB able|JJ to|TO estimate|VB when|WRB those|DT genes|NNS arose|VBP </s>|S_END
+<s>|S_START ome|NN of|IN those|DT differences|NNS probably|RB occurred|VBD very|RB recently|RB within|IN recorded|VBN history|NN </s>|S_END
+<s>|S_START gregory|NN cochran|VBD and|CC henry|NN harpending|VBG argued|VBN in|IN “the|NNP 10000|CD year|NN explosion”|-NONE- that|IN some|DT human|JJ groups|NNS experienced|VBN a|DT vastly|RB accelerated|VBN rate|NN of|IN evolutionary|JJ change|NN within|IN the|DT past|JJ few|JJ thousand|NN years|NNS benefiting|VBG from|IN the|DT new|JJ genetic|JJ diversity|NN created|VBN within|IN far|RB larger|JJR populations|NNS and|CC in|IN response|NN to|TO the|DT new|JJ survival|NN social|JJ and|CC reproductive|JJ challenges|NNS of|IN agriculture|NN cities|NNS divisions|NNS of|IN labour|PRP$ and|CC social|JJ classe|NN </s>|S_END
+<s>|S_START others|NNS did|VBD not|RB experience|NN these|DT changes|NNS until|IN the|DT past|JJ few|JJ hundred|CD years|NNS when|WRB they|PRP were|VBD subject|JJ to|TO contact|VB colonisation|NN and|CC all|DT too|RB often|RB extermination|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT shift|NN from|IN gwas|NNS to|TO sequencing|VBG studies|NNS finds|NNS evidence|NN of|IN such|JJ politically|RB awkward|JJ and|CC morally|RB perplexing|VBG facts|NNS we|PRP can|MD expect|VB the|DT usual|JJ range|NN of|IN ideological|JJ reactions|NNS including|VBG nationalistic|JJ retroracism|NN from|IN conservatives|NNS and|CC outraged|VBD denial|JJ from|IN blankslate|JJ liberal|JJ </s>|S_END
+<s>|S_START the|DT few|JJ who|WP really|RB understand|VBP the|DT genetics|NNS will|MD gain|VB a|DT more|RBR enlightened|VBN liveandletlive|JJ recognition|NN of|IN the|DT biodiversity|NN within|IN our|PRP$ extraordinary|JJ species—including|JJ a|DT clearer|NN view|NN of|IN likely|JJ comparative|JJ advantages|NNS between|IN the|DT worlds|NNS different|JJ economie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START geoffrey|NN miller|NN evolutionary|NN psychologist|NN university|NN of|IN new|JJ mexico|NN author|NN of|IN “spent|JJ sex|NN evolution|NN and|CC consumer|NN behavior”|NN viking|VBG </s>|S_END
+</p>|P_END
+

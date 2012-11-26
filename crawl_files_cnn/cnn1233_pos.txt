@@ -1,0 +1,107 @@
+<p>|P_START
+<s>|S_START spains|NNS prime|VBP minister|NN mariano|NN rajoy|NN announced|VBD a|DT 65|CD billion|CD euro|NN austerity|NN package|NN during|IN a|DT parliament|NN session|NN in|IN madrid|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN spanish|NN prime|NN minister|NN mariano|NN rajoy|NN announced|VBD a|DT new|JJ round|NN of|IN austerity|NN measures|NNS wednesday|NN as|IN his|PRP$ government|NN struggles|NNS to|TO meet|VB deficit|NN reduction|NN targets|NNS mandated|VBD by|IN the|DT european|JJ union|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT speech|NN to|TO parliament|NN rajoy|NN said|VBD the|DT country|NN would|MD cut|VB €65|-NONE- billion|CD $|$ 796|CD billion|CD in|IN less|JJR than|IN three|CD years|NNS by|IN reducing|VBG government|NN bureaucracy|NN and|CC raising|VBG taxes|NNS </s>|S_END
+<s>|S_START meeting|NN budget|NN deficit|NN reduction|NN targets|NNS will|MD require|VB austerity|NN and|CC more|JJR efficiency|NN he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP will|MD significantly|RB reduce|VB the|DT number|NN of|IN public|JJ institutions|NNS rajoy|VBP promised|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT package|NN includes|VBZ some|DT deeply|RB unpopular|JJ measures|NNS including|VBG an|DT increase|NN in|IN the|DT value|NN added|VBD tax|NN to|TO 21|CD and|CC a|DT reduction|NN in|IN unemployment|NN benefits|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT announcement|NN came|VBD as|IN spanish|JJ miners|NNS and|CC others|NNS marched|VBD on|IN madrid|JJ to|TO protest|NN among|IN other|JJ things|NNS a|DT 64|CD cut|NN in|IN subsidies|NNS for|IN the|DT mining|NN industry|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT demonstration|NN turned|VBD violent|NN with|IN 76|CD people|NNS injured|VBN in|IN clashes|NNS near|IN the|DT industry|NN ministry|NN including|VBG 33|CD police|NNS and|CC 43|CD protesters|NNS according|VBG to|TO the|DT madrid|NN ambulance|NN service|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT stepped|VBD up|RP cost|NN cutting|VBG comes|NNS after|IN government|NN data|NNS recently|RB showed|VBD that|IN spain|NN is|VBZ on|IN track|NN to|TO overshoot|VB its|PRP$ deficit|NN reduction|NN target|NN for|IN this|DT year|NN which|WDT stands|VBZ at|IN 53|CD of|IN gross|JJ domestic|JJ product|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eurozone|NN finance|NN ministers|NNS agreed|VBD earlier|JJR this|DT week|NN to|TO give|VB spain|NN another|DT year|NN to|TO meet|VB its|PRP$ targets|NNS noting|VBG the|DT nations|NNS increasingly|RB bleak|JJ economic|JJ situation|NN </s>|S_END
+<s>|S_START spain|NN has|VBZ the|DT highest|JJS unemployment|NN rate|NN in|IN the|DT euro|NN area|NN at|IN 25|CD and|CC its|PRP$ economy|NN fell|VBD back|RP into|IN recession|NN during|IN the|DT first|JJ quarter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT eurogroup|NN of|IN finance|NN ministers|NNS also|RB said|VBD they|PRP agreed|VBD on|IN the|DT broad|JJ conditions|NNS for|IN a|DT planned|VBN bailout|RP of|IN spanish|JJ banks|NNS </s>|S_END
+<s>|S_START the|DT terms|NNS must|MD be|VB approved|VBN by|IN the|DT parliaments|NNS of|IN individual|JJ euro|NN area|NN governments|NNS but|CC the|DT ministers|NNS expect|VBP to|TO disburse|VB an|DT initial|JJ installment|NN of|IN €30|-NONE- billion|CD by|IN the|DT end|NN of|IN the|DT month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT of|IN the|DT measures|NNS announced|VBD wednesday|NN mark|NN a|DT significant|JJ reversal|NN for|IN the|DT government|NN including|VBG the|DT higher|JJR vat|JJ rate|NN which|WDT rajoy|NN had|VBD promised|VBN not|RB to|TO raise|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rajoy|NN is|VBZ being|VBG forced|VBN to|TO do|VB many|JJ of|IN the|DT things|NNS he|PRP said|VBD he|PRP wouldnt|VBD do|VBP because|IN of|IN the|DT current|JJ situation|NN said|VBD antonio|NN barroso|NN an|DT analyst|NN at|IN political|JJ research|NN firm|NN eurasia|NN group|NN </s>|S_END
+<s>|S_START the|DT pressure|NN is|VBZ coming|VBG both|DT from|IN the|DT markets|NNS and|CC the|DT requirements|NNS established|VBD by|IN brussels|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yields|NNS for|IN spanish|JJ 10year|JJ bonds|NNS which|WDT have|VBP hovered|VBN around|IN the|DT perilous|JJ 7|CD level|NN in|IN recent|JJ weeks|NNS fell|VBD to|TO 667|CD wednesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START investors|NNS are|VBP worried|VBN that|IN spain|NN may|MD be|VB forced|VBN to|TO seek|VB a|DT bailout|NN similar|JJ to|TO those|DT taken|VBN by|IN greece|NN portugal|JJ and|CC ireland|NN </s>|S_END
+<s>|S_START while|IN the|DT nations|NNS debts|NNS are|VBP comparatively|RB low|JJ the|DT fear|NN is|VBZ that|IN the|DT cost|NN of|IN bailing|VBG out|IN spanish|JJ banks|NNS which|WDT could|MD reach|VB €100|-NONE- billion|CD will|MD ultimately|RB fall|VB on|IN the|DT government|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN to|TO being|VBG politically|RB unpopular|JJ the|DT additional|JJ austerity|NN measures|NNS could|MD harm|VB the|DT spanish|JJ economy|NN </s>|S_END
+<s>|S_START greece|NN which|WDT has|VBZ been|VBN in|IN recession|NN for|IN years|NNS is|VBZ a|DT prime|JJ example|NN of|IN the|DT challenges|NNS involved|VBD with|IN cutting|NN deficits|NNS during|IN an|DT economic|JJ downturn|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP think|VBP you|PRP will|MD be|VB hard|RB pressed|VBN to|TO find|VB an|DT economist|NN that|IN thinks|NNS this|DT is|VBZ a|DT good|JJ idea|NN said|VBD hansjoachim|PRP voth|IN a|DT professor|NN of|IN finance|NN at|IN universitat|JJ pompeu|NN fabra|NN in|IN barcelona|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START spain|NN already|RB raised|VBN taxes|NNS this|DT year|NN but|CC the|DT government|NN has|VBZ not|RB collected|VBN any|DT additional|JJ revenue|NN because|IN the|DT economy|NN is|VBZ collapsing|VBG said|VBN voth|NN </s>|S_END
+<s>|S_START theyre|NN making|VBG the|DT same|JJ mistake|NN twice|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rather|RB than|IN raising|VBG taxes|NNS on|IN consumers|NNS voth|IN said|VBD spain|NN could|MD reduce|VB its|PRP$ deficits|NNS by|IN enforcing|VBG existing|VBG tax|NN laws|NNS more|RBR efficiently|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP large|JJ parts|NNS of|IN the|DT economy|NN that|IN the|DT government|NN is|VBZ unwilling|VBG or|CC unable|JJ to|TO tax|NN he|PRP said|VBD </s>|S_END
+<s>|S_START avoiding|VBG taxes|NNS in|IN spain|NN is|VBZ very|RB easy|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START investors|NNS are|VBP also|RB concerned|VBN about|IN the|DT impact|NN of|IN austerity|NN on|IN the|DT spanish|JJ economy|NN said|VBD nicholas|NNS spiro|IN director|NN of|IN londonbased|VBN consultancy|NN spiro|NN sovereign|NN strategy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT latest|JJS measures|NNS will|MD only|RB deepen|VB and|CC prolong|JJ what|WP is|VBZ already|RB a|DT severe|JJ recession|NN spiro|NN wrote|VBD in|IN a|DT note|NN to|TO clients|NNS </s>|S_END
+<s>|S_START in|IN the|DT eyes|NNS of|IN most|JJS investors|NNS not|RB to|TO mention|VB spaniards|NNS the|DT fiscal|JJ retrenchment|NN is|VBZ neverending|VBG and|CC potentially|RB ruinous|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eurasia|NN groups|NNS barosso|RB said|VBD steps|NNS to|TO cut|VB down|RP on|IN unnecessary|JJ layers|NNS of|IN government|NN could|MD help|VB reduce|VB costs|NNS over|IN time|NN </s>|S_END
+<s>|S_START but|CC he|PRP acknowledged|VBD that|IN those|DT longterm|NN benefits|NNS will|MD be|VB overshadowed|VBN by|IN the|DT shortterm|NN pain|NN caused|VBD by|IN the|DT austerity|NN measures|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cutting|VBG the|DT deficit|NN in|IN recession|NN is|VBZ very|RB difficult|JJ said|VBD barosso|NN </s>|S_END
+<s>|S_START eventually|RB confidence|NN will|MD come|VB back|RB but|CC it|PRP will|MD be|VB very|RB slow|JJ and|CC very|RB painful|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnnmoneys|NNS jose|VBP pagliery|NN and|CC cnns|NNS al|JJ goodman|NN contributed|VBD to|TO this|DT report |NN </s>|S_END
+</p>|P_END
+

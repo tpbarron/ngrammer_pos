@@ -1,0 +1,169 @@
+<p>|P_START
+<s>|S_START the|DT summit|NN of|IN songshan|NN mountain|NN some|DT 60|CD miles|NNS 100km|CD from|IN china’s|JJ capital|NN marks|NNS the|DT boundary|JJ between|IN beijing|NN municipality|NN and|CC the|DT neighbouring|NN province|NN of|IN hebei|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ also|RB a|DT study|NN in|IN contrast|NN </s>|S_END
+<s>|S_START on|IN the|DT beijing|NN side|NN the|DT mountain|NN road|NN is|VBZ wide|JJ freshly|RB surfaced|VBN and|CC flanked|VBD by|IN a|DT solid|JJ safety|NN wall|NN </s>|S_END
+<s>|S_START a|DT lycraclad|NN cyclist|NN sweats|NNS his|PRP$ way|NN up|IN on|IN a|DT fancy|NN mountain|NN bike|NN </s>|S_END
+<s>|S_START a|DT large|JJ car|NN park|NN is|VBZ under|IN construction|NN for|IN visitors|NNS to|TO hot|VB springs|NNS in|IN the|DT nearby|JJ village|NN of|IN bangongqu|NN </s>|S_END
+<s>|S_START enterprising|VBG local|JJ families|NNS can|MD make|VB 100000|CD yuan|JJ $|$ 16000|CD a|DT year|NN catering|VBG to|TO beijing|VBG tourists|NNS not|RB far|RB off|IN the|DT city’s|JJ average|NN whitecollar|NN wage|NN </s>|S_END
+<s>|S_START the|DT beijing|NN provincial|JJ government|NN provides|VBZ pensions|NNS and|CC other|JJ social|JJ benefit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hebei|NN is|VBZ a|DT much|JJ poorer|NN province|NN </s>|S_END
+<s>|S_START on|IN its|PRP$ side|NN of|IN the|DT mountain|NN the|DT road|NN narrows|VBZ and|CC the|DT tarmac|NN deteriorate|NN </s>|S_END
+<s>|S_START half|NN a|DT mile|JJ from|IN the|DT summit|NN is|VBZ the|DT village|NN of|IN yanjiaping|VBG where|WRB some|DT 50|CD families|NNS scrape|NN a|DT living|NN growing|VBG cabbage|NN </s>|S_END
+<s>|S_START no|DT one|NN has|VBZ a|DT car|NN no|DT one|NN gets|VBZ a|DT pension|NN and|CC the|DT nearest|NN primary|NN school|NN is|VBZ 12|CD miles|NNS away|RB </s>|S_END
+<s>|S_START farmers|NNS are|VBP barred|VBN from|IN grazing|VBG cows|NNS on|IN the|DT mountainside|NN so|RB that|IN trees|NNS can|MD grow|VB to|TO stem|VB sand|NN storms|NNS from|IN inner|NN mongolia|NN </s>|S_END
+<s>|S_START hen|RB zhiyun|VBN a|DT gnarled|VBN man|NN in|IN fake|NN us|PRP army|RB fatigues|VBZ says|VBZ a|DT village|NN family|NN makes|VBZ 40005000|CD yuan|NN a|DT year|NN nowhere|RB near|IN indian|JJ levels|NNS of|IN poverty|NN but|CC a|DT far|NN cry|NN from|IN the|DT living|NN standards|NNS only|RB a|DT few|JJ miles|NNS away|RB </s>|S_END
+<s>|S_START “we|JJ live|JJ in|IN a|DT different|JJ country”|NN he|PRP say|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT transformation|NN of|IN china’s|JJ economy|NN over|IN the|DT past|JJ 30|CD years|NNS is|VBZ the|DT most|RBS spectacular|JJ growth|NN story|NN in|IN history|NN </s>|S_END
+<s>|S_START less|JJR noticed|VBN china|NN has|VBZ also|RB seen|VBN the|DT world’s|NNP biggest|JJS and|CC fastest|JJS rise|NN in|IN inequality|NN </s>|S_END
+<s>|S_START china|NN has|VBZ not|RB officially|RB published|VBN a|DT gini|NN coefficient|NN since|IN 2000|CD but|CC a|DT study|NN by|IN the|DT china|NN development|NN research|NN foundation|NN suggests|VBZ that|IN it|PRP has|VBZ surged|VBN from|IN less|JJR than|IN 03|CD in|IN 1978|CD to|TO more|JJR than|IN 048|CD </s>|S_END
+<s>|S_START in|IN little|JJ more|JJR than|IN a|DT generation|NN mao’s|VBZ egalitarian|JJ dystopia|NN has|VBZ become|VBN a|DT country|NN with|IN an|DT income|NN distribution|NN more|RBR skewed|VBN than|IN america’|NNP </s>|S_END
+<s>|S_START asia’s|NNS two|CD other|JJ giants|NNS india|IN and|CC indonesia|NN have|VBP also|RB seen|VBN disparities|NNS rise|VBP sharply|RB though|IN less|JJR dramatically|RB than|IN china|NN </s>|S_END
+<s>|S_START indonesia’s|NNS gini|VBP is|VBZ up|IN by|IN an|DT eighth|JJ to|TO 034|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START part|NN of|IN this|DT rise|NN was|VBD both|DT inevitable|JJ and|CC welcome|VB a|DT natural|JJ consequence|NN of|IN the|DT end|NN of|IN maoist|NN communism|NN in|IN china|NN and|CC fabian|JJ socialism|NN in|IN india|NN </s>|S_END
+<s>|S_START the|DT three|CD economies|NNS particularly|RB china’s|JJ are|VBP far|RB richer|RBR and|CC more|RBR dynamic|JJ than|IN they|PRP were|VBD 30|CD years|NNS ago|RB </s>|S_END
+<s>|S_START just|RB as|IN kuznets|NNS suggested|VBD urbanisation|NN and|CC industrialisation|NN have|VBP brought|VBN widening|VBG gap|NN </s>|S_END
+<s>|S_START as|IN people|NNS have|VBP left|VBN subsistence|NN agriculture|NN for|IN more|JJR productive|JJ work|NN in|IN cities|NNS inequality|NN has|VBZ risen|VBN along|IN with|IN prosperity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC that|DT can|MD not|RB be|VB the|DT whole|JJ explanation|NN if|IN only|RB because|IN the|DT experience|NN of|IN today’s|JJ asian|JJ tigers|NNS is|VBZ in|IN striking|NN contrast|NN to|TO that|DT of|IN an|DT earlier|JJR pack|NN </s>|S_END
+<s>|S_START in|IN japan|NN hong|IN kong|JJ south|NN korea|NN and|CC taiwan|NN growth|NN rates|NNS soared|VBD in|IN the|DT 1960s|CD and|CC 1970s|CD and|CC prosperity|NN increased|VBD rapidly|RB but|CC income|NN gaps|NNS shrank|VBD </s>|S_END
+<s>|S_START japan’s|NNS gini|VBP coefficient|NN fell|VBD from|IN 045|CD in|IN the|DT early|JJ 1960s|CD to|TO 034|CD in|IN 1982|CD taiwan’s|NNS from|IN 05|CD in|IN 1961|CD to|TO below|IN 03|CD by|IN the|DT mid1970|NNP </s>|S_END
+<s>|S_START that|DT experience|NN launched|VBD the|DT idea|NN of|IN an|DT “asian|JJ growth|NN model”|NN one|CD that|WDT combined|VBN prosperity|NN with|IN equity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START education|NN again|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START today’s|NNS asian|VBP growth|NN model|NN does|VBZ the|DT opposite|JJ </s>|S_END
+<s>|S_START one|CD explanation|NN is|VBZ that|IN the|DT big|JJ forces|NNS driving|VBG modern|JJ economies—technological|JJ innovation|NN and|CC globalisation—benefit|JJ the|DT skilled|JJ and|CC educated|VBD in|IN emerging|NN markets|NNS much|RB as|IN they|PRP do|VBP in|IN the|DT rich|JJ world|NN </s>|S_END
+<s>|S_START narayana|NNS murthy|VBP the|DT billionaire|NN cofounder|NN of|IN infosys|NNS an|DT indian|JJ software|NN giant|NN or|CC robin|NN li|NN the|DT creator|NN of|IN baidu|NN china’s|NNS most|JJS popular|JJ search|NN engine|NN have|VBP harnessed|VBN technology|NN much|RB like|IN bill|NN gates|NNS has|VBZ done|VBN </s>|S_END
+<s>|S_START enior|NN lawyers|NNS and|CC bankers|NNS in|IN mumbai|NN or|CC shanghai|NN are|VBP part|NN of|IN a|DT global|JJ winnertakesall|NN market|NN able|JJ to|TO command|VB salaries|NNS similar|JJ to|TO those|DT of|IN their|PRP$ colleagues|NNS in|IN new|JJ york|NN or|CC london|NN </s>|S_END
+<s>|S_START and|CC as|IN ravi|NN kanbur|NN of|IN cornell|NN university|NN points|NNS out|IN the|DT offshoring|NN of|IN tasks|NNS that|WDT has|VBZ hit|VBN midlevel|NN workers|NNS in|IN america|NN and|CC europe|NN often|RB benefits|VBZ people|NNS higher|JJR up|IN the|DT skills|NNS ladder|VBP in|IN recipient|JJ countrie|NN </s>|S_END
+<s>|S_START call|NN centres|NNS in|IN bangalore|NN are|VBP manned|VBN by|IN welleducated|VBN indian|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN in|IN the|DT rich|JJ world|NN these|DT fundamental|JJ economic|JJ forces|NNS are|VBP not|RB the|DT only|JJ drivers|NNS of|IN income|NN distribution|NN </s>|S_END
+<s>|S_START government|NN policy|NN has|VBZ also|RB played|VBN a|DT big|JJ role|NN </s>|S_END
+<s>|S_START one|CD problem|NN is|VBZ cronyism|NN </s>|S_END
+<s>|S_START as|IN in|IN the|DT gilded|VBN age|NN in|IN america|NN capitalism|NN in|IN today’s|NNP emerging|NN markets|NNS involves|VBZ close|JJ links|NNS between|IN politicians|NNS and|CC plutocrat|VB </s>|S_END
+<s>|S_START india|NNS is|VBZ a|DT case|NN in|IN point|NN </s>|S_END
+<s>|S_START from|IN spectrum|NN licences|NNS to|TO coal|NN deposits|NNS large|JJ assets|NNS have|VBP been|VBN transferred|VBN from|IN the|DT state|NN to|TO favoured|VBN insiders|NNS in|IN the|DT past|JJ few|JJ year|NN </s>|S_END
+<s>|S_START many|JJ politicians|NNS have|VBP business|NN empires|NNS of|IN one|CD kind|NN or|CC another|DT </s>|S_END
+<s>|S_START rich|NN businessmen|NNS often|RB become|VBP politicians|NNS particularly|RB at|IN the|DT state|NN level|NN </s>|S_END
+<s>|S_START raghuram|NN rajan|VBD an|DT indianborn|NN economist|NN at|IN the|DT university|NN of|IN chicago|NN who|WP recently|RB became|VBD chief|NN economic|JJ adviser|NN to|TO india’s|NNP government|NN has|VBZ pointed|VBN out|RP that|IN india|NNS has|VBZ the|DT secondlargest|JJS number|NN of|IN billionaires|NNS relative|JJ to|TO the|DT size|NN of|IN its|PRP$ economy|NN after|IN russia|NN mainly|RB thanks|VBZ to|TO insider|JJR access|NN to|TO land|VB natural|JJ resources|NNS and|CC government|NN contract|NN </s>|S_END
+<s>|S_START he|PRP worries|VBZ that|IN india|NN could|MD be|VB becoming|VBG “an|JJ unequal|JJ oligarchy|NN or|CC worse”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN china|NN cronyism|NN is|VBZ even|RB more|RBR ingrained|VBN </s>|S_END
+<s>|S_START the|DT state|NN still|RB has|VBZ huge|JJ control|NN over|IN resources|NNS whether|IN directly|RB through|IN stateowned|VBN enterprises|NNS monopoly|RB control|NN of|IN industries|NNS from|IN railways|NNS to|TO mining|VBG or|CC the|DT distorted|JJ financial|JJ system|NN where|WRB interest|NN rates|NNS are|VBP artificially|RB depressed|VBN and|CC access|NN to|TO credit|NN is|VBZ influenced|VBN by|IN politic|JJ </s>|S_END
+<s>|S_START the|DT importance|NN of|IN the|DT state|NN means|VBZ that|DT the|DT beneficiaries|NNS tend|VBP to|TO be|VB close|JJ to|TO state|VB power|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START moreover|RB inequality|NN in|IN china|NN could|MD be|VB higher|JJR than|IN the|DT official|NN statistics|NNS suggest|VBP because|IN rich|JJ people|NNS often|RB understate|JJ their|PRP$ income|NN and|CC hide|VB it|PRP from|IN the|DT taxman|NN </s>|S_END
+<s>|S_START a|DT lot|NN of|IN money|NN is|VBZ invested|VBN in|IN property|NN where|WRB soaring|VBG prices|NNS have|VBP reinforced|VBN inequality|NN </s>|S_END
+<s>|S_START wang|NN xiaolu|VBD of|IN the|DT china|NN reform|NN foundation|NN caused|VBD a|DT stir|NN a|DT couple|NN of|IN years|NNS ago|IN with|IN a|DT study|NN that|WDT tried|VBD to|TO measure|VB this|DT “grey”|NN income|NN </s>|S_END
+<s>|S_START his|PRP$ results|NNS suggest|VBP that|IN the|DT income|NN of|IN the|DT richest|JJS 10|CD of|IN urban|JJ chinese|JJ is|VBZ some|DT 23|CD times|NNS that|WDT of|IN the|DT poorest|JJS 10|CD </s>|S_END
+<s>|S_START official|NN statistics|NNS say|VBP the|DT multiple|NN is|VBZ nine|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cronyism|NN is|VBZ the|DT most|RBS obvious|JJ way|NN in|IN which|WDT asian|JJ governments|NNS make|VBP inequality|NN worse|NN but|CC it|PRP is|VBZ not|RB the|DT only|JJ one|CD </s>|S_END
+<s>|S_START broader|JJR government|NN strategies|NNS have|VBP distorted|VBN countries’|-NONE- growth|NN paths|NNS in|IN a|DT manner|NN that|WDT increased|VBD income|NN gap|NN </s>|S_END
+<s>|S_START in|IN india|NN a|DT big|JJ problem|NN is|VBZ the|DT lack|NN of|IN job|NN creation|NN </s>|S_END
+<s>|S_START unlike|IN china|NN where|WRB the|DT surge|NN in|IN factories|NNS assembling|VBG goods|NNS for|IN export|NN brought|VBD millions|NNS of|IN migrant|JJ workers|NNS into|IN the|DT formal|JJ urban|NN labour|NN force|NN india’s|NNS formal|JJ workforce|NN has|VBZ barely|RB grown|VBN since|IN 1991|CD </s>|S_END
+<s>|S_START more|JJR than|IN 90|CD of|IN indians|NNS are|VBP still|RB employed|VBN in|IN the|DT informal|JJ sector|NN </s>|S_END
+<s>|S_START even|RB in|IN manufacturing|NN most|RBS people|NNS toil|NN in|IN oneroom|NN workshops|NNS rather|RB than|IN big|JJ factorie|NN </s>|S_END
+<s>|S_START productivity|NN is|VBZ lower|JJR workers|NNS find|VBP it|PRP hard|RB to|TO improve|VB their|PRP$ skills|NNS and|CC their|PRP$ incomes|NNS rise|VBP more|JJR slowly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START india’s|NNS failure|VBP to|TO become|VB a|DT powerhouse|NN of|IN labourintensive|JJ manufacturing|NN owes|NNS much|RB to|TO its|PRP$ appalling|NN infrastructure|NN </s>|S_END
+<s>|S_START justintime|NN delivery|NN is|VBZ hard|JJ to|TO achieve|VB when|WRB power|NN supplies|VBZ are|VBP so|RB precariou|PRP </s>|S_END
+<s>|S_START another|DT reason|NN is|VBZ the|DT country’s|JJ rigid|NN labour|NN laws|NNS which|WDT discourage|NN the|DT formation|NN of|IN big|JJ firm|NN </s>|S_END
+<s>|S_START between|IN the|DT federal|JJ government|NN and|CC the|DT states|NNS india|VBP has|VBZ around|IN 200|CD different|JJ laws|NNS all|DT setting|VBG detailed|VBN rules|NNS and|CC making|VBG it|PRP virtually|RB impossible|JJ to|TO fire|VB people|NNS </s>|S_END
+<s>|S_START that|DT deters|NNS employers|NNS from|IN hiring|VBG workers|NNS and|CC widens|NNS the|DT gap|NN between|IN the|DT lucky|JJ educated|VBN few|JJ and|CC the|DT rest|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP know|VBP where|WRB you|PRP live|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN china|NN the|DT regulations|NNS that|WDT contribute|NN most|JJS to|TO inequality|NN are|VBP the|DT remnants|NNS of|IN the|DT country’s|JJ hukou|NN system|NN of|IN household|NN registration|NN </s>|S_END
+<s>|S_START this|DT hails|NNS from|IN mao’s|JJ era|NN when|WRB china’s|JJ rural|JJ sector|NN was|VBD punitively|RB taxed|VBN to|TO finance|VB the|DT development|NN of|IN heavy|JJ industry|NN </s>|S_END
+<s>|S_START to|TO ensure|VB a|DT stable|NN supply|NN of|IN workers|NNS in|IN agriculture|NN despite|IN the|DT appalling|NN conditions|NNS people|NNS were|VBD barred|VBN from|IN leaving|VBG their|PRP$ province|NN of|IN origin|NN </s>|S_END
+<s>|S_START the|DT restrictions|NNS on|IN mobility|NN were|VBD dismantled|VBN in|IN the|DT 1980s|CD permitting|VBG millions|NNS to|TO become|VB migrant|JJ worker|NN </s>|S_END
+<s>|S_START but|CC they|PRP still|RB retain|VB the|DT rural|JJ hukou|NN of|IN their|PRP$ birth|JJ as|IN do|VB their|PRP$ children|NNS </s>|S_END
+<s>|S_START from|IN housing|VBG to|TO schooling|VBG this|DT puts|NNS them|PRP at|IN a|DT big|JJ disadvantage|NN compared|VBN with|IN holders|NNS of|IN urban|NN hukou|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START migrants’|NN children|NNS must|MD take|VB the|DT gaokao|NN the|DT allimportant|NN state|NN collegeentrance|NN exam|NN in|IN their|PRP$ place|NN of|IN origin|NN not|RB where|WRB they|PRP and|CC their|PRP$ parents|NNS might|MD be|VB living|VBG at|IN the|DT time|NN so|RB lots|VBZ of|IN migrants|NNS send|VBP their|PRP$ children|NNS home|NN for|IN schooling|NN </s>|S_END
+<s>|S_START ince|NN education|NN is|VBZ financed|VBN largely|RB by|IN local|JJ governments|NNS these|DT schools|NNS tend|VBP to|TO be|VB less|JJR wellfunded|VBN and|CC of|IN lower|JJR quality|NN </s>|S_END
+<s>|S_START hebei|NN has|VBZ far|RB worse|JJR schools|NNS than|IN beijing|VBG </s>|S_END
+<s>|S_START in|IN shanghai|NN municipality|NN spending|NN per|IN student|NN in|IN rural|JJ areas|NNS is|VBZ only|RB 5060|CD that|WDT of|IN urban|NN area|NN </s>|S_END
+<s>|S_START as|IN a|DT result|NN the|DT education|NN system|NN reinforces|NNS income|NN disparities|NNS rather|RB than|IN mitigating|VBG them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START along|IN with|IN disparities|NNS in|IN infrastructure|NN the|DT hukou|NN system|NN is|VBZ a|DT big|JJ reason|NN for|IN china’s|NNS vast|JJ urbanrural|JJ gaps|NNS which|WDT explain|NN about|IN 45|CD of|IN the|DT country’s|JJ overall|JJ inequality|NN </s>|S_END
+<s>|S_START other|JJ asian|JJ economies|NNS do|VBP not|RB suffer|VB from|IN a|DT hukou|NN problem|NN but|CC there|EX too|RB government|NN social|JJ policies|NNS have|VBP often|RB made|VBN inequality|NN worse|NN because|IN most|JJS social|JJ spending|NN from|IN public|JJ housing|NN to|TO health|NN insurance|NN has|VBZ traditionally|RB been|VBN confined|VBN to|TO the|DT formal|JJ urban|NN workforce|NN </s>|S_END
+<s>|S_START moreover|RB many|JJ asian|JJ governments|NNS spend|VBP a|DT lot|NN on|IN universal|NN subsidies|NNS especially|RB for|IN energy|NN </s>|S_END
+<s>|S_START these|DT are|VBP highly|RB regressive|JJ </s>|S_END
+<s>|S_START indonesia|NN for|IN instance|NN lavished|VBD 34|CD of|IN gdp|NN on|IN fuel|NN and|CC electricity|NN subsidies|NNS last|JJ year|NN more|JJR than|IN it|PRP spent|VBD on|IN infrastructure|NN </s>|S_END
+<s>|S_START according|VBG to|TO the|DT asian|JJ development|NN bank|NN 40|CD of|IN that|DT largesse|NN flowed|VBD to|TO the|DT richest|JJS 10|CD of|IN indonesian|JJ households|NNS and|CC as|IN much|JJ as|IN 84|CD to|TO the|DT top|JJ half|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START things|NNS are|VBP beginning|VBG to|TO change|VB </s>|S_END
+<s>|S_START across|IN emerging|VBG asia|NN political|JJ concerns|NNS about|IN rising|VBG inequality|NN are|VBP prompting|VBG reform|NN often|RB in|IN ways|NNS that|WDT echo|WP the|DT changes|NNS of|IN the|DT progressive|JJ era|NN a|DT century|NN ago|IN </s>|S_END
+<s>|S_START in|IN china|NN the|DT “great|JJ western|NN development|NN strategy”|NN has|VBZ poured|VBN vast|JJ sums|NNS into|IN infrastructure|NN in|IN the|DT western|NN province|NN </s>|S_END
+<s>|S_START more|JJR recently|RB the|DT government|NN has|VBZ made|VBN a|DT big|JJ effort|NN to|TO improve|VB rural|JJ social|JJ service|NN </s>|S_END
+<s>|S_START almost|RB 100|CD of|IN china’s|JJ rural|JJ population|NN now|RB have|VBP basic|JJ health|NN insurance|NN including|VBG the|DT villagers|NNS of|IN yianjiaping|VBG and|CC a|DT majority|NN have|VBP basic|JJ pension|NN </s>|S_END
+<s>|S_START inequality|NN between|IN urban|NN and|CC rural|JJ areas|NNS has|VBZ recently|RB stabilised|VBN and|CC that|IN between|IN regions|NNS has|VBZ begun|VBN to|TO fall|VB slightly|RB but|CC from|IN an|DT extraordinarily|NN high|NN level|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT past|JJ couple|NN of|IN years|NNS several|JJ asian|JJ economies|NNS from|IN thailand|NN to|TO vietnam|VB have|VBP introduced|VBN or|CC expanded|VBN the|DT reach|NN of|IN minimum|JJ wage|NN </s>|S_END
+<s>|S_START china’s|NNS minimum|VBP wage|NN which|WDT is|VBZ set|VBN at|IN the|DT provincial|JJ level|NN rose|VBD by|IN an|DT average|JJ of|IN 17|CD last|JJ year|NN </s>|S_END
+<s>|S_START ome|NN countries|NNS have|VBP introduced|VBN publicwork|NN schemes|NNS for|IN the|DT poorest|JJS </s>|S_END
+<s>|S_START india’s|NNS nrega|VBP scheme|NN for|IN instance|NN guarantees|NNS 100|CD days’|NN work|NN a|DT year|NN to|TO the|DT country’s|NNS rural|JJ households|NNS and|CC now|RB covers|VBZ 41m|CD people|NNS </s>|S_END
+<s>|S_START others|NNS have|VBP experimented|VBN with|IN targeted|JJ subsidies|NNS to|TO the|DT very|JJ poorest|NN that|WDT have|VBP helped|VBN reduce|NN inequality|NN in|IN latin|NN america|NN see|NN article|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN introducing|NN a|DT more|RBR efficient|JJ and|CC progressive|JJ social|JJ safety|NN net|NN asia’s|NNS governments|NNS will|MD go|VB some|DT way|NN towards|NNS mitigating|VBG their|PRP$ growing|VBG income|NN gap|NN </s>|S_END
+<s>|S_START but|CC there|EX will|MD be|VB no|RB big|JJ breakthroughs|NNS until|IN the|DT bigger|JJR problems|NNS of|IN informality|NN in|IN india|NN discrimination|NN against|IN migrants|NNS china|VBP and|CC cronyism|NN everywhere|RB are|VBP dealt|VBN with|IN </s>|S_END
+<s>|S_START and|CC the|DT longer|NN that|IN takes|VBZ the|DT greater|JJR the|DT danger|NN that|IN today’s|JJ disparities|NNS will|MD become|VB entrenched|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thanks|NNS to|TO remarkable|JJ economic|JJ growth|NN almost|RB all|DT asians|NNS are|VBP rapidly|RB becoming|VBG better|JJR off|IN </s>|S_END
+<s>|S_START in|IN india|NN old|JJ caste|NN rigidities|NNS are|VBP being|VBG broken|VBN down|RP see|NN article|NN </s>|S_END
+<s>|S_START but|CC widening|VBG income|NN gaps|NNS threaten|VBN to|TO harm|NN future|NN social|JJ mobility|NN </s>|S_END
+<s>|S_START using|VBG a|DT methodology|NN developed|VBD at|IN the|DT world|NN bank|NN a|DT study|NN by|IN zhang|NN yingqiang|NN and|CC tor|NN eriksson|NN found|VBD that|IN the|DT rise|NN in|IN china’s|JJ income|NN inequality|NN is|VBZ mirrored|VBN by|IN a|DT rise|NN in|IN its|PRP$ inequality|NN of|IN opportunity|NN </s>|S_END
+<s>|S_START parents’|NN income|NN and|CC their|PRP$ type|NN of|IN employer|NN explain|NN about|IN twothirds|NNS of|IN china’s|NNS inequality|NN of|IN opportunity|NN a|DT much|RB bigger|JJR share|NN than|IN is|VBZ explained|VBN by|IN parental|JJ education|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT stakes|NNS are|VBP high|JJ </s>|S_END
+<s>|S_START yu|NN jiantuo|VBD of|IN the|DT china|NN development|NN research|NN foundation|NN argues|NNS that|WDT china’s|-NONE- inequality|NN is|VBZ now|RB hurting|VBG its|PRP$ growth|NN prospect|NN </s>|S_END
+<s>|S_START ustained|VBD cronyism|NN could|MD turn|VB asia’s|JJ big|JJ economies|NNS into|IN entrenched|JJ oligarchies|NNS rather|RB than|IN dynamic|JJ meritocracie|NN </s>|S_END
+<s>|S_START ironically|RB in|IN that|DT sense|NN they|PRP might|MD become|VB more|RBR like|IN latin|NN america|NN just|RB as|IN that|DT continent|NN appears|VBZ to|TO be|VB moving|VBG in|IN the|DT opposite|JJ direction|NN </s>|S_END
+</p>|P_END
+

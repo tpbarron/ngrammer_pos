@@ -1,0 +1,83 @@
+<p>|P_START
+<s>|S_START president|NN obama|VBD will|MD sign|VB a|DT controversial|JJ but|CC bipartisan|JJ ipo|NN bill|NN that|WDT strips|VBZ rules|NNS and|CC disclosures|NNS now|RB required|VBN for|IN medium|NN and|CC small|JJ companies|NNS going|VBG public|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START washington|NN cnnmoney|NN president|NN obama|NN on|IN thursday|NN signed|VBN into|IN law|NN a|DT bill|NN that|WDT makes|VBZ it|PRP easier|JJR for|IN companies|NNS to|TO become|VB publicly|RB traded|VBN by|IN bypassing|NN audits|NNS and|CC disclosures|NNS now|RB required|VBN for|IN investors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bill|NN is|VBZ called|VBN the|DT jumpstart|NN our|PRP$ business|NN startups|NNS jobs|NNS act|VBP and|CC it|PRP sailed|VBD through|IN both|DT chambers|NNS of|IN congress|NN last|JJ month|NN with|IN overwhelming|VBG support|NN from|IN both|DT parties|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START overall|JJ new|JJ businesses|NNS account|VBP for|IN almost|RB every|DT new|JJ job|NN created|VBN in|IN america|NN said|VBD obama|NN at|IN the|DT bill|NN signing|VBG ceremony|NN standing|NN beside|NN republican|NN house|NN majority|NN leader|NN eric|JJ cantor|NN who|WP pushed|VBN for|IN the|DT bill|NN in|IN the|DT house|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN startups|NNS and|CC small|JJ businesses|NNS this|DT bill|NN is|VBZ a|DT game|NN changer|NN </s>|S_END
+<s>|S_START because|IN of|IN this|DT bill|NN startups|VBZ and|CC small|JJ businesses|NNS will|MD have|VB access|NN to|TO a|DT bigger|JJR pool|NN of|IN investors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT measure|NN is|VBZ steeped|VBN with|IN controversy|NN since|IN it|PRP rolls|VBZ back|RB some|DT rules|NNS the|DT securities|NNS and|CC exchange|NN commission|NN enforces|NNS on|IN small|JJ medium|NN and|CC even|RB some|DT quite|JJ large|JJ companies|NNS attempting|VBG to|TO make|VB an|DT initial|JJ public|JJ offering|NN or|CC ipo|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT of|IN the|DT investor|NN protections|NNS on|IN their|PRP$ way|NN out|IN came|NN from|IN beefedup|NN federal|JJ rules|NNS passed|VBD in|IN the|DT sarbanesoxley|NN act|NN of|IN 2002|CD after|IN hundreds|NNS of|IN middleclass|NN families|NNS loss|NN their|PRP$ life|NN savings|NNS in|IN the|DT enron|NN and|CC worldcom|NN accounting|VBG scandals|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START parts|NNS of|IN the|DT bill|NN have|VBP raised|VBN the|DT ire|NN of|IN the|DT national|JJ retirement|NN group|NN aarp|NN investor|NN groups|NNS institutional|JJ investors|NNS including|VBG pension|NN funds|NNS unions|NNS consumer|NN groups|NNS and|CC even|RB sec|NN chairman|NN mary|NN schapiro|NN </s>|S_END
+<s>|S_START all|DT of|IN them|PRP say|VBP the|DT bill|NN could|MD open|VB the|DT door|NN for|IN more|JJR failed|VBN ipos|NNS and|CC investor|NN fraud|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT legislation|NN will|MD unleash|VB a|DT new|JJ wave|NN of|IN damaging|VBG investment|NN fraud|NN undermine|NN market|NN transparency|NN and|CC increase|VB the|DT cost|NN of|IN capital|NN for|IN the|DT small|JJ companies|NNS it|PRP purports|VBZ to|TO benefit|VB said|VBN barbara|NN roper|NN director|NN of|IN investor|NN protection|NN at|IN the|DT consumer|NN federation|NN of|IN america|NN </s>|S_END
+<s>|S_START unfortunately|RB both|DT the|DT administration|NN and|CC a|DT bipartisan|NN majority|NN in|IN congress|NN have|VBP chosen|VBN to|TO ignore|VB those|DT warnings|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bill|NN would|MD relax|VB sec|NN rules|NNS for|IN companies|NNS with|IN less|JJR than|IN $|$ 1|CD billion|CD in|IN gross|JJ revenue|NN seeking|VBG to|TO go|VB public|JJ </s>|S_END
+<s>|S_START the|DT measure|NN gives|VBZ them|PRP up|RP to|TO five|CD years|NNS or|CC until|IN revenue|NN tops|NNS $|$ 1|CD billion|CD to|TO supply|RB an|DT independent|JJ audit|NN and|CC certain|JJ investor|NN disclosures|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START critics|NNS said|VBD $|$ 1|CD billion|CD is|VBZ too|RB high|JJ a|DT threshold|NN some|DT 80|CD of|IN firms|NNS going|VBG public|JJ would|MD be|VB able|JJ to|TO bypass|NN disclosures|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bill|NN would|MD also|RB allow|VB whats|NNS called|VBN crowd|NN funding|NN allowing|VBG firms|NNS to|TO bypass|VB rules|NNS and|CC raise|VB up|RP to|TO $|$ 1|CD million|CD a|DT year|NN from|IN large|JJ pools|NNS of|IN small|JJ investors|NNS by|IN directly|RB soliciting|VBG them|PRP over|IN the|DT internet|NN </s>|S_END
+<s>|S_START critics|NNS are|VBP concerned|VBN about|IN the|DT potential|NN for|IN fraud|NN since|IN those|DT shares|NNS wouldnt|VBP have|VBP to|TO be|VB registered|VBN with|IN the|DT sec|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bill|NN would|MD also|RB allow|VB firms|NNS to|TO directly|RB solicit|VB investors|NNS including|VBG advertisements|NNS ranging|VBG from|IN billboards|NNS to|TO junk|NN mail|NN when|WRB going|VBG public|JJ which|WDT had|VBD been|VBN prohibited|VBN </s>|S_END
+<s>|S_START and|CC it|PRP would|MD allow|VB them|PRP to|TO raise|VB money|NN from|IN larger|JJR numbers|NNS of|IN small|JJ less|JJR sophisticated|JJ investors|NNS such|JJ as|IN seniors|NNS with|IN retirement|NN savings|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT aarp|NN and|CC the|DT consumer|NN federation|NN of|IN america|NN have|VBP warned|VBN the|DT provision|NN would|MD make|VB it|PRP easier|JJR for|IN companies|NNS to|TO lure|VB seniors|NNS with|IN a|DT lifetime|NN of|IN savings|NNS and|CC investment|NN into|IN sinking|NN their|PRP$ money|NN into|IN an|DT ipo|NN or|CC even|RB a|DT a|DT fake|NN ipo|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT retiree|NN who|WP has|VBZ that|IN nest|JJS egg|NN isnt|NN necessarily|RB a|DT sophisticated|JJ investor|NN and|CC shouldnt|NN be|VB speculating|VBG on|IN private|JJ offerings|NNS roper|IN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bill|NN would|MD also|RB make|VB it|PRP easier|JJR for|IN companies|NNS with|IN as|RB many|JJ as|IN 2000|CD shareholders|NNS to|TO avoid|VB registering|NN with|IN regulators|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC it|PRP would|MD exempt|VB firms|NNS from|IN nonbinding|VBG shareholder|NN votes|NNS on|IN executive|JJ pay|NN and|CC benefits|NNS packages|NNS which|WDT just|RB came|VBD as|IN part|NN of|IN the|DT wall|NN street|NN reform|NN law|NN </s>|S_END
+<s>|S_START in|IN the|DT aftermath|NN of|IN the|DT financial|JJ crisis|NN the|DT law|NN made|VBD it|PRP tougher|RB for|IN ceos|NNS to|TO reap|VB bonuses|NNS tied|VBN to|TO soaring|NN stock|NN prices|NNS particularly|RB when|WRB the|DT company|NN is|VBZ overleveraged|VBN and|CC making|VBG risky|NN bets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bill|NN is|VBZ far|RB from|IN perfect|NN but|CC its|PRP$ a|DT good|JJ bill|NN said|VBD senate|NN majority|NN leader|NN harry|NN reid|VBD at|IN the|DT time|NN it|PRP passed|VBD the|DT senate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT sec|NN will|MD have|VB several|JJ months|NNS to|TO draw|VB up|RP regulations|NNS fully|RB implementing|VBG the|DT measure |NN </s>|S_END
+</p>|P_END
+

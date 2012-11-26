@@ -1,0 +1,129 @@
+<p>|P_START
+<s>|S_START ever|RB since|IN the|DT advent|NN of|IN the|DT integrated|JJ circuit|NN in|IN the|DT 1960s|CD computing|NN has|VBZ been|VBN synonymous|JJ with|IN chips|NNS of|IN solid|JJ silicon|NN </s>|S_END
+<s>|S_START but|CC some|DT researchers|NNS have|VBP been|VBN taking|VBG an|DT alternative|NN approach|NN building|NN liquid|NN computers|NNS using|VBG dna|NN and|CC its|PRP$ cousin|NN rna|NN the|DT naturally|RB occurring|VBG nucleicacid|NN molecules|NNS that|WDT encode|NN genetic|JJ information|NN inside|NN cell|NN </s>|S_END
+<s>|S_START rather|RB than|IN encoding|VBG ones|NNS and|CC zeroes|VBZ into|IN high|JJ and|CC low|JJ voltages|NNS that|WDT switch|NN transistors|NNS on|IN and|CC off|IN the|DT idea|NN is|VBZ to|TO use|VB high|JJ and|CC low|JJ concentrations|NNS of|IN these|DT molecules|NNS to|TO propagate|VB signals|NNS through|IN a|DT kind|NN of|IN computational|JJ soup|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START computing|VBG with|IN nucleic|JJ acids|NNS is|VBZ much|JJ slower|NN than|IN using|VBG transistor|NN </s>|S_END
+<s>|S_START unlike|IN silicon|NN chips|NNS however|RB dnabased|VBN computers|NNS could|MD be|VB made|VBN small|JJ enough|RB to|TO operate|VB inside|NN cells|NNS and|CC control|NN their|PRP$ activity|NN </s>|S_END
+<s>|S_START “if|JJ you|PRP can|MD programme|VB events|NNS at|IN a|DT molecular|JJ level|NN in|IN cells|NNS you|PRP can|MD cure|VB or|CC kill|VB cells|NNS which|WDT are|VBP sick|VBP or|CC in|IN trouble|NN and|CC leave|VB the|DT other|JJ ones|NNS intact|VBP </s>|S_END
+<s>|S_START you|PRP can|MD not|RB do|VB this|DT with|IN electronics”|NNP says|VBZ luca|NN cardelli|NN of|IN microsofts|NNS research|NN centre|NN in|IN cambridge|NN england|NN where|WRB the|DT software|NN giant|NN is|VBZ developing|VBG tools|NNS for|IN designing|VBG molecular|JJ circuit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT heart|NN of|IN such|JJ circuits|NNS is|VBZ watsoncrick|JJ base|NN pairing|VBG the|DT chemical|JJ velcro|NN that|WDT binds|VBZ together|RB the|DT two|CD strands|NNS of|IN dnas|NNS double|JJ helix|NN </s>|S_END
+<s>|S_START the|DT four|CD chemical|JJ “bases”|NN the|DT letters|NNS of|IN the|DT genetic|JJ alphabet|NN that|WDT form|NN the|DT rungs|NNS of|IN the|DT helix|NN stick|NN together|RB in|IN complementary|JJ pairs|NNS a|DT adenine|NN with|IN t|NN thymine|NN and|CC c|NN cytosine|NN with|IN g|NN guanine|NN </s>|S_END
+<s>|S_START by|IN making|VBG single|JJ strands|NNS of|IN dna|NN or|CC rna|NN with|IN specific|JJ a|DT t|NN c|NN and|CC g|NN sequences|NNS researchers|NNS can|MD precisely|RB define|VB and|CC predict|VB which|WDT part|NN of|IN a|DT strand|NN will|MD bind|VB to|TO another|DT </s>|S_END
+<s>|S_START these|DT synthesised|VBN strands|NNS typically|RB consist|VBP of|IN fewer|JJR than|IN 100|CD bases|NNS a|DT gene|NN by|IN contrast|NN has|VBZ thousands|NNS of|IN base|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START leonard|NN adleman|NN an|DT american|JJ computer|NN scientist|NN first|RB demonstrated|VBN the|DT use|NN of|IN nucleicacid|NN strand|NN interactions|NNS for|IN computing|VBG in|IN 1994|CD </s>|S_END
+<s>|S_START he|PRP solved|VBD a|DT version|NN of|IN the|DT travellingsalesman|NN problem—given|JJ a|DT network|NN of|IN linked|VBN cities|NNS what|WP is|VBZ the|DT shortest|JJS route|NN that|WDT visits|VBZ each|DT city|NN exactly|RB once—in|JJ a|DT test|NN tube|NN using|VBG specially|RB sequenced|VBN dna|NN molecules|NNS and|CC standard|JJ molecularbiology|NN procedures|NNS see|VBP box|NN </s>|S_END
+<s>|S_START olving|VBG such|JJ a|DT specific|JJ task|NN is|VBZ a|DT far|RB cry|JJ from|IN building|NN a|DT generalpurpose|NN computer|NN </s>|S_END
+<s>|S_START but|CC it|PRP showed|VBD that|IN information|NN could|MD indeed|VB be|VB processed|VBN using|VBG interactions|NNS between|IN strands|NNS of|IN synthetic|JJ dna|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN adlemans|NNS work|VBP prompted|VBN other|JJ researchers|NNS to|TO develop|VB dnabased|VBN logic|NN circuits|NNS the|DT fundamental|JJ building|NN blocks|NNS of|IN computing|VBG using|VBG a|DT variety|NN of|IN approache|NN </s>|S_END
+<s>|S_START the|DT resulting|VBG circuits|NNS can|MD perform|VB simple|JJ mathematical|JJ and|CC logical|JJ operations|NNS recognise|VBP patterns|NNS based|VBN on|IN incomplete|JJ data|NNS and|CC play|VB simple|JJ game|NN </s>|S_END
+<s>|S_START molecular|JJ circuits|NNS can|MD even|RB detect|VB and|CC respond|VB to|TO a|DT disease|NN signature|NN inside|NN a|DT living|NN cell|NN opening|VBG up|RP the|DT possibility|NN of|IN medical|JJ treatments|NNS based|VBN on|IN manmade|NN molecular|NN software|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START liquid|NN logic|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START erik|NN winfrees|NNS group|NN at|IN the|DT california|NN institute|NN of|IN technology|NN caltech|NN is|VBZ one|CD of|IN the|DT bestknown|NN in|IN this|DT emerging|NN field|NN </s>|S_END
+<s>|S_START in|IN recent|JJ years|NNS it|PRP has|VBZ made|VBN many|JJ nucleic|JJ acidbased|VBN digital|JJ logic|NN circuits|NNS in|IN test|NN tubes|NNS linking|VBG up|RP logic|JJ gates|NNS capable|JJ of|IN simple|JJ operations|NNS such|JJ as|IN and|CC or|CC and|CC not|RB using|VBG a|DT trick|NN called|VBN strand|NN displacement|NN pioneered|VBD by|IN three|CD caltech|JJ researchers|NNS georg|VBP seelig|JJ david|NN soloveichik|NN and|CC dave|VB zhang|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT stranddisplacement|NN logic|NN circuit|NN inputs|NNS take|VBP the|DT form|NN of|IN freefloating|VBG single|JJ dna|NN or|CC rna|NN strands|NNS and|CC logic|NN gates|NNS are|VBP complexes|NNS of|IN two|CD or|CC more|JJR such|JJ strands|NNS one|CD of|IN which|WDT is|VBZ the|DT potential|JJ output|NN signal|NN </s>|S_END
+<s>|S_START “sticky”|NN tabs|NNS on|IN the|DT gates|NNS allow|VBP passing|VBG signals|NNS to|TO latch|VB on|IN </s>|S_END
+<s>|S_START if|IN an|DT input|NN signal|NN has|VBZ a|DT basepair|NN sequence|NN complementary|NN to|TO the|DT sequence|NN on|IN a|DT gate|NN it|PRP binds|VBZ to|TO it|PRP displacing|VBG the|DT output|NN strand|NN and|CC causing|VBG it|PRP to|TO detach|VB </s>|S_END
+<s>|S_START the|DT freefloating|NN output|NN strand|NN can|MD then|RB in|IN turn|NN trigger|NN another|DT logic|NN gate|NN causing|VBG a|DT signal|NN to|TO travel|NN through|IN the|DT circuit|NN in|IN a|DT cascade|NN </s>|S_END
+<s>|S_START billions|NNS of|IN copies|NNS of|IN the|DT input|NN gate|NN and|CC output|NN molecules|NNS are|VBP intermixed|VBN in|IN a|DT molecular|JJ soup|NN </s>|S_END
+<s>|S_START programming|NN such|JJ a|DT system|NN involves|VBZ choosing|VBG specific|JJ base|NN sequences|NNS to|TO make|VB up|RP the|DT different|JJ gates|NNS and|CC the|DT signal|NN paths|NNS that|WDT connect|NN them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT paper|NN published|VBN last|JJ year|NN in|IN the|DT journal|NN science|NN dr|NN winfree|NN and|CC his|PRP$ colleague|NN lulu|NN qian|NN described|VBD the|DT use|NN of|IN stranddisplacement|NN cascades|NNS to|TO build|VB circuits|NNS of|IN increasing|VBG complexity|NN culminating|VBG in|IN a|DT circuit|NN made|VBN of|IN 74|CD different|JJ dna|NN strands|NNS pictured|VBD that|IN was|VBD capable|JJ of|IN calculating|NN the|DT square|NN roots|NNS of|IN fourdigit|NN binary|NN number|NN </s>|S_END
+<s>|S_START together|RB with|IN their|PRP$ colleague|NN jehoshua|NN bruck|NN they|PRP then|RB built|VBD a|DT tiny|NN neural|JJ network|NN made|VBD up|RP of|IN four|CD interconnected|VBN artificial|JJ neurons|NNS using|VBG a|DT soup|NN of|IN 112|CD different|JJ interacting|NN dna|NN strand|NN </s>|S_END
+<s>|S_START each|DT neuron|NN was|VBD designed|VBN to|TO fire|VB when|WRB the|DT sum|NN of|IN its|PRP$ input|NN signals|NNS exceeded|VBD a|DT certain|JJ threshold|NN and|CC could|MD be|VB configured|VBN to|TO assign|VB different|JJ weights|NNS to|TO different|JJ input|NN </s>|S_END
+<s>|S_START uch|JJ neural|JJ networks|NNS can|MD recognise|VB simple|JJ patterns|NNS even|RB when|WRB presented|VBN with|IN incomplete|JJ data|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO test|NN their|PRP$ neural|JJ networks|NNS patternrecognition|NN powers|NNS dr|VBP qian|JJ made|NN up|IN a|DT game|NN to|TO identify|VB one|CD out|RP of|IN four|CD scientist|NN </s>|S_END
+<s>|S_START each|DT scientist|NN was|VBD represented|VBN by|IN a|DT different|JJ set|NN of|IN answers|NNS to|TO four|CD yesorno|NN question|NN </s>|S_END
+<s>|S_START a|DT human|NN player|NN would|MD add|VB to|TO the|DT test|NN tube|NN some|DT but|CC not|RB all|DT of|IN the|DT dna|NN strands|NNS corresponding|VBG to|TO one|CD set|NN of|IN answer|NN </s>|S_END
+<s>|S_START the|DT circuit|NN then|RB guessed|VBN which|WDT scientist|NN was|VBD the|DT closest|JJS match|NN showing|VBG its|PRP$ answer|NN using|VBG differentcoloured|VBN fluorescent|NN signal|NN </s>|S_END
+<s>|S_START the|DT circuit|NN took|VBD eight|CD hours|NNS to|TO give|VB its|PRP$ answer|NN but|CC got|VBD it|PRP right|RB every|DT time|NN </s>|S_END
+<s>|S_START and|CC this|DT circuit|NN should|MD work|VB in|IN a|DT volume|NN of|IN a|DT cubic|JJ micron|NN onemillionth|NN of|IN a|DT metre|NN says|VBZ dr|NN winfree|NN which|WDT is|VBZ small|JJ enough|RB to|TO fit|VB into|IN many|JJ sorts|NNS of|IN cell|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START milan|NN stojanovic|VBD at|IN columbia|NN university|NN is|VBZ building|VBG circuits|NNS using|VBG a|DT different|JJ form|NN of|IN strand|NN displacement|NN based|VBN on|IN catalytic|JJ dna|NN strands|NNS also|RB known|VBN as|IN deoxyribozymes|NNS or|CC dnazyme|VB </s>|S_END
+<s>|S_START these|DT are|VBP synthetic|JJ singlestranded|VBN dna|NN sequences|NNS that|WDT are|VBP among|IN other|JJ things|NNS capable|JJ of|IN cutting|VBG nearby|JJ dna|NN strands|NNS in|IN specific|JJ place|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN stojanovic|VBD makes|VBZ a|DT dnazyme|NN into|IN a|DT logic|JJ gate|NN by|IN attaching|NN a|DT loop|NN of|IN dna|NN at|IN one|CD end|NN that|WDT prevents|VBZ the|DT dnazyme|NN from|IN working|VBG </s>|S_END
+<s>|S_START when|WRB one|CD or|CC more|JJR input|NN strands|NNS bind|VBP to|TO complementary|JJ sequences|NNS on|IN the|DT loop|NN the|DT loop|NN breaks|VBZ activating|VBG the|DT dnazyme|NN and|CC switching|VBG the|DT gate|NN on|IN </s>|S_END
+<s>|S_START it|PRP can|MD then|RB interact|VB with|IN other|JJ strands|NNS chopping|VBG them|PRP to|TO trigger|VB other|JJ gates|NNS or|CC activate|VB fluorescent|JJ tags|NNS that|WDT display|NN the|DT circuits|NNS final|JJ output|NN </s>|S_END
+<s>|S_START dr|NN stojanovic|VBD and|CC his|PRP$ colleague|NN joanna|NN macdonald|NN have|VBP used|VBN this|DT approach|NN to|TO build|VB simple|JJ dnabased|VBN circuits|NNS capable|JJ of|IN playing|NN tictactoe|NN though|IN they|PRP take|VBP about|IN half|DT an|DT hour|NN to|TO make|VB each|DT move|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yannick|NN rondelez|NN a|DT researcher|NN in|IN molecular|JJ programming|NN at|IN the|DT university|NN of|IN tokyo|NN is|VBZ creating|VBG circuits|NNS in|IN test|NN tubes|NNS in|IN a|DT way|NN that|WDT more|JJR closely|RB resembles|VBZ the|DT operation|NN of|IN natural|JJ cell|NN </s>|S_END
+<s>|S_START he|PRP is|VBZ using|VBG enzymes|NNS such|JJ as|IN polymerases|NNS nucleases|NNS and|CC exonucleases|NNS that|WDT can|MD also|RB copy|VB cut|VBN and|CC destroy|JJ nucleicacid|NN strand|NN </s>|S_END
+<s>|S_START in|IN cells|NNS enzymes|NNS are|VBP the|DT basis|NN of|IN the|DT natural|JJ circuits|NNS that|WDT switch|NN genes|VBZ on|IN and|CC off|IN maintain|NN biological|JJ rhythms|NNS and|CC produce|VB molecular|JJ answers|NNS in|IN response|NN to|TO environmental|JJ stimuli|NN </s>|S_END
+<s>|S_START dr|NN rondelez|NN has|VBZ used|VBN his|PRP$ enzymebased|VBN approach|NN to|TO build|VB a|DT molecular|JJ oscillator|NN which|WDT should|MD be|VB a|DT useful|JJ addition|NN to|TO the|DT molecularcomputing|NN toolbox|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT group|NN at|IN the|DT swiss|NNS federal|JJ institute|NN of|IN technology|NN eth|NN zurich|NN led|VBD by|IN yaakov|NN benenson|NN in|IN collaboration|NN with|IN ron|NN weiss|NNS of|IN the|DT massachusetts|NNS institute|VBP of|IN technology|NN is|VBZ also|RB creating|VBG circuits|NNS using|VBG enzyme|NN </s>|S_END
+<s>|S_START but|CC unlike|IN dr|NN rondelezs|NNS circuits|VBZ which|WDT work|NN in|IN test|NN tubes|NNS these|DT operate|JJ inside|NN cells|NNS piggybacking|VBG on|IN the|DT existing|VBG cellular|JJ machinery|NN found|VBD within|IN them|PRP </s>|S_END
+<s>|S_START last|JJ year|NN dr|IN benensons|NNS team|NN developed|VBD one|CD of|IN the|DT most|RBS complex|JJ cellbased|VBN molecular|JJ circuits|NNS created|VBN so|RB far|RB though|IN it|PRP is|VBZ still|RB much|JJ simpler|NN than|IN systems|NNS built|VBN in|IN test|NN tube|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ capable|JJ of|IN recognising|NN the|DT signature|NN of|IN cervical|JJ cancer|NN and|CC destroying|VBG the|DT host|NN cell|NN when|WRB it|PRP is|VBZ found|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT circuit|NN works|VBZ by|IN looking|VBG out|IN for|IN short|JJ strands|NNS called|VBN micrornas|NNS which|WDT regulate|JJ some|DT processes|NNS within|IN cell|NN </s>|S_END
+<s>|S_START they|PRP do|VBP this|DT by|IN interfering|NN with|IN the|DT activity|NN of|IN the|DT messenger|NN rna|NN strands|NNS that|WDT transfer|NN genetic|JJ information|NN from|IN the|DT cells|NNS nucleus|VBZ to|TO its|PRP$ proteinmaking|NN machinery|NN </s>|S_END
+<s>|S_START dr|NN benenson|NN and|CC his|PRP$ team|NN chose|NN five|CD micrornas|NNS associated|VBN with|IN cervical|JJ cancer|NN and|CC designed|VBN a|DT “classifier”|JJ circuit|NN able|JJ to|TO detect|VB them|PRP </s>|S_END
+<s>|S_START only|RB if|IN all|DT five|CD are|VBP found|VBN at|IN the|DT right|NN levels|NNS does|VBZ the|DT circuit|NN activate|NN producing|VBG a|DT protein|NN that|WDT causes|VBZ the|DT cell|NN to|TO destroy|VB itself|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START computeraided|VBD dna|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rather|RB than|IN injecting|VBG the|DT necessary|JJ components|NNS the|DT researchers|NNS tricked|VBD the|DT cell|NN into|IN producing|NN them|PRP itself|PRP by|IN adding|VBG instructions|NNS for|IN them|PRP in|IN the|DT form|NN of|IN synthetic|JJ genes|NNS to|TO the|DT genetic|JJ instructions|NNS in|IN the|DT cells|NNS nucleu|VBP </s>|S_END
+<s>|S_START “we|JJ build|NN the|DT template|NN in|IN the|DT form|NN of|IN synthetic|JJ genes|NNS and|CC the|DT cell|NN turns|VBZ them|PRP into|IN components”|JJ says|NNS dr|VBP benenson|NN </s>|S_END
+<s>|S_START “so|RB we|PRP are|VBP hijacking|VBG the|DT pathway|NN that|IN already|RB exists”|-NONE- but|CC this|DT trick|NN is|VBZ currently|RB possible|JJ only|RB for|IN simple|JJ circuit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN molecular|JJ circuits|NNS becoming|VBG steadily|RB more|JJR complex|JJ new|JJ software|NN tools|NNS are|VBP being|VBG developed|VBN to|TO design|VB model|NN and|CC debug|NN them|PRP </s>|S_END
+<s>|S_START microsofts|NNS researchers|NNS in|IN cambridge|NN are|VBP working|VBG with|IN experimentalists|NNS at|IN caltech|NN the|DT university|NN of|IN washington|NN and|CC the|DT university|NN of|IN oxford|NN on|IN a|DT programming|NN language|NN and|CC simulator|NN for|IN stranddisplacement|NN circuits|NNS called|VBN the|DT dna|NN strand|NN displacement|NN dsd|NN tool|NN </s>|S_END
+<s>|S_START users|NNS specify|VBP a|DT description|NN of|IN a|DT dnabased|VBN circuit|NN including|VBG how|WRB individual|JJ dna|NN strands|NNS are|VBP joined|VBN together|RB and|CC the|DT software|NN then|RB simulates|VBZ its|PRP$ behaviour|NN explains|NNS andrew|VBD phillips|NNS the|DT head|NN of|IN microsofts|NNS biologicalcomputation|NN group|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN phillipss|NN group|NN is|VBZ also|RB developing|VBG tools|NNS to|TO model|VB the|DT machinery|NN within|IN cells|NNS including|VBG a|DT language|NN called|VBN genetic|JJ engineering|NN of|IN cells|NNS gec|VBP </s>|S_END
+<s>|S_START work|NN is|VBZ under|IN way|NN with|IN syntheticbiology|NN researchers|NNS at|IN the|DT university|NN of|IN cambridge|NN to|TO hook|VB up|RP these|DT different|JJ biological|JJ modelling|NN environment|NN </s>|S_END
+<s>|S_START “you|PRP could|MD have|VB a|DT model|NN of|IN a|DT dna|NN circuit|NN written|VBN in|IN dsd|NN which|WDT interfaces|NNS with|IN a|DT model|NN of|IN the|DT cell|NN machinery|NN written|VBN in|IN gec”|NNP he|PRP say|VBP </s>|S_END
+<s>|S_START it|PRP would|MD then|RB be|VB possible|JJ to|TO simulate|VB the|DT operation|NN of|IN a|DT dna|NN circuit|NN that|WDT runs|VBZ inside|VBP a|DT cell|NN and|CC outputs|NNS drug|NN molecules|NNS when|WRB certain|JJ conditions|NNS are|VBP met|VBN for|IN example|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START treatments|NNS based|VBN on|IN molecular|JJ computers|NNS are|VBP still|RB some|DT way|NN off|IN </s>|S_END
+<s>|S_START todays|NNS most|RBS elaborate|JJ dna|NN circuits|NNS operate|VBP on|IN work|NN benches|NNS not|RB inside|VB cell|NN </s>|S_END
+<s>|S_START but|CC the|DT border|NN between|IN computing|NN and|CC biology|NN is|VBZ vanishing|VBG fast|RB and|CC the|DT process|NN of|IN hijacking|VBG the|DT informationprocessing|VBG potential|JJ of|IN dna|NN to|TO build|VB logic|NN circuits|NNS has|VBZ only|RB just|RB begun|VBN </s>|S_END
+</p>|P_END
+

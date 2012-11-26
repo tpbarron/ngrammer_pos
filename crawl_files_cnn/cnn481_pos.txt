@@ -1,0 +1,115 @@
+<p>|P_START
+<s>|S_START money|NN magazine|NN id|VBD like|IN to|TO live|VB off|RP dividend|NN income|NN when|WRB i|PRP retire|VBP </s>|S_END
+<s>|S_START how|WRB should|MD i|VB invest|JJS my|PRP$ portfolio|NN </s>|S_END
+<s>|S_START mike|IN sargent|NN colorado|NN springs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN anxiety|NN about|IN the|DT market|NN running|VBG high|JJ and|CC yields|NNS on|IN bonds|NNS and|CC cds|NNS exceedingly|RB low|JJ dividendpaying|NN stocks|NNS and|CC funds|NNS have|VBP become|VBN the|DT darlings|NNS of|IN savers|NNS like|IN you|PRP who|WP are|VBP looking|VBG to|TO generate|VB a|DT steady|JJ income|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN far|RB this|DT year|NN investors|NNS have|VBP poured|VBN $|$ 22|CD billion|CD into|IN mutual|JJ funds|NNS and|CC etfs|NNS that|WDT specialize|NN in|IN dividend|NN stocks|NNS even|RB as|IN theyve|JJ yanked|VBN $|$ 25|CD billion|CD out|IN of|IN all|PDT other|JJ stock|NN funds|NNS and|CC etfs|NNS according|VBG to|TO epfr|VB global|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START think|NN twice|NN before|IN you|PRP join|VBP that|IN hot|JJ pursuit|NN </s>|S_END
+<s>|S_START while|IN its|PRP$ true|JJ that|IN money|NN has|VBZ long|RB recommended|VBN dividends|NNS for|IN income|NN investors|NNS i|PRP find|VBP that|IN many|JJ people|NNS have|VBP an|DT unrealistic|JJ view|NN of|IN what|WP these|DT stocks|NNS can|MD do|VB for|IN them|PRP and|CC underestimate|VBP the|DT potential|NN risks|NNS especially|RB at|IN todays|NNS prices|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT dividend|NN illusion|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START you|PRP might|MD think|VB that|IN by|IN living|NN off|IN dividend|NN payments|NNS youre|VBP avoiding|VBG the|DT sin|NN of|IN dipping|VBG into|IN capital|NN </s>|S_END
+<s>|S_START but|CC thats|NNS just|RB an|DT illusion|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START because|IN cash|NN the|DT company|NN once|RB had|VBD in|IN its|PRP$ coffers|NNS is|VBZ being|VBG paid|VBN out|RP to|TO shareholders|NNS the|DT stock|NN of|IN a|DT company|NN that|WDT declares|VBZ a|DT dividend|NN subsequently|RB drops|VBZ by|IN the|DT amount|NN of|IN that|DT payment|NN </s>|S_END
+<s>|S_START yet|RB with|IN so|RB many|JJ things|NNS going|VBG on|IN at|IN once|RB in|IN the|DT market|NN this|DT is|VBZ easy|JJ to|TO miss|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP invest|VBP say|VBP $|$ 100000|CD in|IN 1000|CD shares|NNS of|IN a|DT stock|NN that|WDT sells|VBZ for|IN $|$ 100|CD and|CC pays|NNS a|DT 50¢ashare|JJ quarterly|JJ dividend|NN you|PRP would|MD still|RB have|VB your|PRP$ original|JJ hundred|VBN grand|NN assuming|VBG the|DT stock|NN didnt|NN move|NN for|IN any|DT other|JJ reason|NN except|IN that|DT youd|NN end|NN up|IN with|IN $|$ 500|CD in|IN cash|NN and|CC $|$ 99500|CD in|IN stock|NN </s>|S_END
+<s>|S_START spend|NN that|IN $|$ 500|CD and|CC youve|JJ essentially|RB dipped|VBN into|IN your|PRP$ capital|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD why|WRB an|DT immediate|JJ annuity|NN might|MD be|VB right|RB for|IN you|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START youll|NN be|VB no|RB better|JJR off|IN than|IN the|DT owner|NN of|IN 1000|CD shares|NNS of|IN a|DT $|$ 100|CD nondividendpaying|VBG company|NN who|WP sells|VBZ five|CD shares|NNS for|IN $|$ 500|CD a|DT strategy|NN that|WDT the|DT late|JJ economist|NN merton|NN miller|NN famously|RB referred|VBD to|TO as|IN creating|NN homemade|NN dividends|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB you|PRP rely|RB on|IN dividends|NNS youre|NN tying|VBG your|PRP$ cash|NN flow|NN to|TO a|DT corporate|JJ policy|NN decision|NN that|WDT has|VBZ nothing|NN to|TO do|VB with|IN your|PRP$ needs|NNS </s>|S_END
+<s>|S_START selling|VBG shares|NNS by|IN contrast|NN lets|NNS you|PRP control|NN how|WRB much|JJ money|NN youll|NN get|NN from|IN your|PRP$ nest|NN egg|NN and|CC when|WRB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT upside|NN of|IN selling|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC with|IN investments|NNS you|PRP own|VBP outside|JJ of|IN retirement|NN accounts|NNS taxes|NNS can|MD differ|VB </s>|S_END
+<s>|S_START when|WRB you|PRP get|VBP a|DT dividend|NN the|DT entire|JJ amount|NN is|VBZ taxable|JJ when|WRB you|PRP sell|VBP a|DT stock|NN or|CC a|DT fund|NN you|PRP pay|VBP taxes|NNS only|RB on|IN the|DT increase|NN in|IN value|NN over|IN your|PRP$ purchase|NN price|NN </s>|S_END
+<s>|S_START by|IN cashing|NN out|IN shares|NNS with|IN the|DT smallest|JJS gains|NNS or|CC ones|NNS with|IN a|DT capital|NN loss|NN you|PRP may|MD be|VB able|JJ to|TO minimize|VB or|CC avoid|VB that|IN tax|NN in|IN some|DT years|NNS </s>|S_END
+<s>|S_START thats|NNS much|RB harder|JJR to|TO do|VB with|IN dividends|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START should|MD congress|NN fail|VB to|TO extend|VB the|DT tax|NN cuts|NNS scheduled|VBN to|TO expire|VB this|DT year|NN this|DT tax|NN advantage|NN could|MD widen|VB as|IN the|DT current|JJ maximum|NN 15|CD rate|NN for|IN qualified|VBN dividends|NNS would|MD go|VB to|TO 396|CD while|IN the|DT top|JJ rate|NN for|IN longterm|NN capital|NN gains|NNS would|MD rise|VB to|TO just|RB 20|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT myth|NN of|IN safety|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT appeal|NN of|IN dividend|NN payers|NNS is|VBZ their|PRP$ perceived|VBN security|NN </s>|S_END
+<s>|S_START and|CC its|PRP$ true|JJ that|IN the|DT stocks|NNS typically|RB hold|VBP up|RP better|JJR when|WRB the|DT market|NN falls|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT more|RBR you|PRP tilt|VBD your|PRP$ portfolio|NN toward|IN dividendpaying|VBG stocks|NNS the|DT less|JJR diverse|NN it|PRP will|MD be|VB </s>|S_END
+<s>|S_START of|IN the|DT 3696|CD stocks|NNS in|IN the|DT wilshire|NN 5000|CD stock|NN index|NN only|RB 40|CD pay|NN a|DT dividend|NN </s>|S_END
+<s>|S_START right|RB there|EX youve|NN eliminated|VBN roughly|RB 60|CD of|IN us|PRP stocks|NNS from|IN consideration|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT stocks|NNS you|PRP end|VBP up|RP owning|VBG will|MD be|VB largely|RB concentrated|VBN in|IN a|DT few|JJ pockets|NNS of|IN the|DT market|NN </s>|S_END
+<s>|S_START in|IN mid2012|NNP for|IN example|NN vanguards|NNS dividend|NN appreciation|NN etf|NN vig|NN had|VBD more|JJR than|IN 50|CD of|IN assets|NNS in|IN two|CD sectors|NNS industrials|NNS and|CC consumer|NN stocks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP buy|VBP only|RB highyield|VBN stocks|NNS says|VBZ dartmouth|JJ finance|NN professor|NN kenneth|NN french|NN the|DT sacrifice|NN in|IN diversification|NN is|VBZ huge|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT can|MD be|VB a|DT problem|NN if|IN the|DT sectors|NNS delivering|VBG the|DT most|JJS yield|NN get|NN whacked|VBD </s>|S_END
+<s>|S_START which|WDT is|VBZ exactly|RB what|WP happened|VBN during|IN the|DT financial|JJ crisis|NN dividend|NN etfs|NNS that|WDT were|VBD heavily|RB invested|VBN in|IN financial|JJ stocks|NNS saw|VBD prices|NNS plummet|VBP by|IN as|IN much|JJ as|IN 60|CD from|IN 2007|CD to|TO 2009|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD ground|VBN rules|NNS for|IN retirement|NN investing|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START im|NN not|RB predicting|VBG that|IN dividend|NN stocks|NNS will|MD melt|VB down|IN as|IN spectacularly|RB again|RB </s>|S_END
+<s>|S_START but|CC with|IN investors|NNS flocking|VBG to|TO them|PRP driving|VBG the|DT pe|NN ratios|NNS of|IN the|DT highestyielding|NN stocks|NNS 25|CD to|TO 30|CD above|IN where|WRB they|PRP normally|RB stand|VBP relative|JJ to|TO the|DT market|NN they|PRP are|VBP vulnerable|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rather|RB than|IN relying|VBG on|IN dividends|NNS take|VBP a|DT more|RBR balanced|VBN approach|NN </s>|S_END
+<s>|S_START start|NN with|IN a|DT mix|NN of|IN stocks|NNS and|CC bonds|NNS that|WDT gives|VBZ you|PRP a|DT reasonable|JJ tradeoff|NN between|IN growth|NN and|CC security|NN say|VB 50|CD each|DT </s>|S_END
+<s>|S_START then|RB using|VBG a|DT total|NN stock|NN and|CC a|DT total|NN bond|NN market|NN index|NN fund|NN as|IN guides|NNS make|VBP sure|JJ you|PRP are|VBP well|RB diversified|JJ </s>|S_END
+<s>|S_START today|NN youd|VBD collect|NN about|IN 2|CD in|IN interest|NN and|CC dividends|NNS from|IN that|DT portfolio|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP need|VBP to|TO supplement|VB that|IN and|CC you|PRP probably|RB will|MD do|VB so|RB by|IN creating|NN homemade|NN dividends|NNS </s>|S_END
+</p>|P_END
+

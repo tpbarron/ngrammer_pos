@@ -1,0 +1,80 @@
+<p>
+<s>new york cnnmoney  the ubiquitous totem of many office workers the securid tokens used to access sensitive corporate systems are under attack</s>
+</p>
+
+<p>
+<s>rsa security offered this week to replace or monitor all securids  an offer several major customers including bank of america bac fortune 500 and sap sap immediately accepted</s>
+</p>
+
+<p>
+<s>we have recommended very careful use of tokens while we are finalizing the details of a full replacement with rsa said saswato das a rep for sap</s>
+<s>we have been talking to them for months</s>
+</p>
+
+<p>
+<s>a bank of america spokeswoman said the company is in the process of replacing securids for all of its employees and the small number of clients who use the tokens</s>
+</p>
+
+<p>
+<s>its the latest twist in a securitybreach saga that started in march when rsa a division of emc corp emc fortune 500 disclosed that hackers had broken into its systems and made off with information about its securid products</s>
+</p>
+
+<p>
+<s>at the time rsa assured customers that the information the hackers got would not allow them to break into customers systems  but disconcertingly the company said the the information could be used as part of a broader attack to reduce the effectiveness of rsas authentication system</s>
+</p>
+
+<p>
+<s>but late last month defense contractor lockheed martin lmt fortune 500 disclosed a significant and tenacious cyber attack on its it systems</s>
+<s>rsa said monday that information obtained from rsa in the march hacking was used in the lockheed martin attack</s>
+</p>
+
+<p>
+<s>that prompted rsas offer to replace all of its customers securid tokens</s>
+</p>
+
+<p>
+<s>we recognize that the increasing frequency and sophistication of cyber attacks generally and the recent announcements by lockheed martin may reduce some customers overall risk tolerance the company wrote in a letter posted on its website</s>
+</p>
+
+<p>
+<s>a very serious attack securid tokens use a twofactor authentication method meaning they require two separate unique bits of secret data for a successful login</s>
+<s>in addition to their username users must enter a password or pin number that they have memorized plus the sixdigit number currently displayed on their securid</s>
+<s>the tokens display a new number every 60 seconds</s>
+</p>
+
+<p>
+<s>this is a very serious hack said josh daymont principal at securisea</s>
+<s>its not known exactly what was compromised but securids control a significant portion of access for corporate america</s>
+<s>its not just lockheed that should be concerned</s>
+</p>
+
+<p>
+<s>a reuters report said the lockheed attack was carried out with duplicate securid tokens</s>
+<s>a rep for rsa said wednesday that is merely speculation but she declined to elaborate</s>
+</p>
+
+<p>
+<s>in its letter this week rsa said the lockheed attack does not reflect a new threat or vulnerability in securid</s>
+<s>the company also said lockheeds breach is the only confirmed use to date of the extracted rsa product information</s>
+</p>
+
+<p>
+<s>that may be cold comfort to rsas 25000 global customers who use securid many of whom are big names in corporate america</s>
+<s>the companys site revealed that as of 2009 more than 40 million people used securid worldwide</s>
+</p>
+
+<p>
+<s>the rsa rep said the company no longer reveals how many people use securid</s>
+</p>
+
+<p>
+<s>daymont the securisea expert said he was concerned that not all of rsas customers will take the company up on its offer</s>
+</p>
+
+<p>
+<s>absolutely everyone needs to have their tokens replaced no question daymont said</s>
+<s>in the long run the threat is not to rsa  its to the securid customers</s>
+<s>they need to do all they can to minimize the damage</s>
+<s> </s>
+</p>
+

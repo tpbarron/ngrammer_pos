@@ -1,0 +1,80 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN mitt|NN romney|NN has|VBZ been|VBN saying|VBG that|IN under|IN his|PRP$ tax|NN plan|NN highincome|NN households|NNS would|MD continue|VB to|TO pay|VB the|DT same|JJ share|NN of|IN taxes|NNS as|IN they|PRP pay|VBP today|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START during|IN tuesday|NN nights|NNS town|IN hall|NN debate|NN with|IN president|NN obama|NN he|PRP got|VBD more|JJR specific|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT top|JJ 5|CD of|IN taxpayers|NNS will|MD continue|VB to|TO pay|VB 60|CD of|IN the|DT income|NN tax|NN the|DT nation|NN collects|NNS </s>|S_END
+<s>|S_START so|IN thatll|NN stay|NN the|DT same|JJ romney|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START who|WP is|VBZ in|IN the|DT top|JJ 5|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT year|NN the|DT top|JJ 5|CD of|IN households|NNS have|VBP at|IN least|JJS $|$ 181000|CD in|IN adjusted|VBN gross|NN income|NN according|VBG to|TO estimates|NNS from|IN the|DT tax|NN policy|NN center|NN </s>|S_END
+<s>|S_START by|IN 2014|CD that|WDT number|NN is|VBZ projected|VBN to|TO rise|VB to|TO $|$ 200000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN a|DT group|NN the|DT top|JJ 5|CD will|MD pay|VB about|IN 57|CD of|IN all|DT federal|JJ income|NN taxes|NNS this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START note|VB that|IN romneys|NNS promise|VBP to|TO freeze|VB the|DT share|NN of|IN taxes|NNS paid|VBN by|IN the|DT rich|JJ is|VBZ not|RB necessarily|RB the|DT same|JJ as|IN saying|VBG the|DT tax|NN bills|NNS of|IN some|DT highincome|NN filers|NNS wouldnt|VBP go|RB down|RB </s>|S_END
+<s>|S_START as|IN with|IN any|DT tax|NN reform|NN proposal|NN some|DT members|NNS of|IN an|DT income|NN group|NN would|MD pay|VB more|RBR and|CC some|DT would|MD pay|VB less|RBR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD middle|JJ class|NN promises|VBZ hard|JJ to|TO keep|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START under|IN romneys|NNS plan|VBP the|DT top|JJ 5|CD of|IN households|NNS and|CC every|DT other|JJ household|NN would|MD have|VB their|PRP$ income|NN tax|NN rates|NNS cut|VBD by|IN 20|CD </s>|S_END
+<s>|S_START his|PRP$ plan|NN would|MD also|RB repeal|VB the|DT alternative|NN minimum|NN tax|NN and|CC the|DT estate|NN tax|NN </s>|S_END
+<s>|S_START finally|RB it|PRP would|MD make|VB investment|NN income|NN tax|NN free|JJ for|IN those|DT earning|VBG less|JJR than|IN $|$ 100000|CD $|$ 200000|CD if|IN married|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romney|NN on|IN tuesday|NN night|NN also|RB reiterated|VBD that|IN he|PRP would|MD pay|VB for|IN all|PDT of|IN his|PRP$ tax|NN cuts|NNS estimated|VBD to|TO cost|VB $|$ 5|CD trillion|CD over|IN a|DT decade|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START im|NN going|VBG to|TO limit|VB deductions|NNS and|CC exemptions|NNS and|CC credits|NNS particularly|RB for|IN people|NNS at|IN the|DT high|JJ end|NN because|IN i|PRP am|VBP not|RB going|VBG to|TO have|VB people|NNS at|IN the|DT high|JJ end|NN pay|NN less|RBR than|IN theyre|NN paying|VBG now|RB he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD way|NN he|PRP might|MD do|VB so|RB is|VBZ to|TO cap|VB how|WRB much|RB a|DT tax|NN filer|NN can|MD claim|VB in|IN various|JJ tax|NN breaks|NNS he|PRP has|VBZ said|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START earlier|JJR this|DT month|NN when|WRB romney|NN mentioned|VBN the|DT idea|NN of|IN a|DT cap|NN he|PRP was|VBD talking|VBG about|IN itemized|JJ deductions|NNS </s>|S_END
+<s>|S_START his|PRP$ campaign|NN told|VBD cnnmoney|NN that|IN such|JJ a|DT cap|NN would|MD be|VB adopted|VBN in|IN conjunction|NN with|IN curbs|NNS on|IN other|JJ tax|NN breaks|NNS namely|RB personal|JJ exemptions|NNS and|CC the|DT taxfree|NN benefit|NN workers|NNS receive|VBP when|WRB their|PRP$ employers|NNS help|VB pay|NN for|IN their|PRP$ health|NN insurance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN tuesdays|NNS debate|VBP his|PRP$ comments|NNS suggested|VBD the|DT cap|NN might|MD apply|VB to|TO a|DT broader|JJR swath|NN of|IN breaks|NNS including|VBG tax|NN credits|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ill|NN pick|VBD a|DT number|NN $|$ 25000|CD of|IN deductions|NNS and|CC credits|NNS and|CC you|PRP can|MD decide|VB which|WDT ones|NNS to|TO use|VB romney|NN said|VBD </s>|S_END
+<s>|S_START your|PRP$ home|NN mortgage|NN interest|NN deduction|NN charity|NN child|NN tax|NN credit|NN and|CC so|RB forth|JJ you|PRP can|MD use|VB those|DT as|IN part|NN of|IN filling|NN that|IN bucket|NN of|IN deductions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START indeed|RB hes|VBZ been|VBN offering|VBG a|DT lot|NN of|IN options|NNS that|WDT could|MD pay|VB for|IN his|PRP$ tax|NN cuts|NNS </s>|S_END
+<s>|S_START the|DT governor|NN has|VBZ described|VBN other|JJ approaches|NNS as|IN well|RB and|CC he|PRP will|MD work|VB with|IN congress|NN to|TO negotiate|VB tax|NN reform|NN to|TO ensure|VB his|PRP$ goals|NNS are|VBP met|VBN a|DT romney|NN campaign|NN spokesperson|NN said|VBD after|IN the|DT debate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT cap|NN of|IN $|$ 25000|CD might|MD significantly|RB curtail|VB the|DT tax|NN savings|NNS enjoyed|VBD by|IN many|JJ in|IN the|DT top|JJ 5|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS households|NNS in|IN that|DT income|NN group|NN took|VBD an|DT average|JJ of|IN $|$ 43208|CD in|IN itemized|JJ deductions|NNS alone|RB last|JJ year|NN while|IN those|DT in|IN the|DT top|JJ 1|CD took|NN an|DT average|JJ of|IN $|$ 173670|CD according|VBG to|TO tax|NN policy|NN center|NN estimates|NNS </s>|S_END
+</p>|P_END
+

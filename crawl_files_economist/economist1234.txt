@@ -1,0 +1,112 @@
+<p>
+<s>when john keats read george chapman’s translation of homer he felt in his elevated poetical way like “some watcher of the skieswhen a new planet swims into his ken”</s>
+<s>so may many biologists feel when they get their hands on the first full release of analysis from a project called encode—a release which includes some 30 research papers six of them in the journal nature and a huge amount of wellcurated data being made freely available online yes there’s even an app</s>
+<s>this is biology on a scale that takes hundreds of people years of their lives costing as much as all but the biggest telescopes used by today’s watchers of the skies</s>
+<s>and it reveals a new world</s>
+</p>
+
+<p>
+<s>the revelation’s effect may be poetic in its grandeur</s>
+<s>its nature though is prosaic</s>
+<s>it is a parts list encode stands for encyclopedia of dna elements</s>
+<s>the consortium that created it—442 members in 32 institutes around the world—has used the increasingly impressive tools available for sequencing genomes to mount a systematic analysis of 147 different types of human cell attempting to say just what each part of the genome is doing in them</s>
+<s>their results confirm on a grand scale what has become clear over the decade since the human genome project first produced a sequence of the three billion “letters” of which the genome is made there is a great deal more to genomes than their genes</s>
+</p>
+
+<p>
+<s>when genes were first given a molecular basis it was a fairly simple one</s>
+<s>a gene was a piece of dna that described a protein</s>
+<s>when a cell had need of that protein it would cause a copy of the gene to be transcribed from dna into rna a similar molecule capable of taking on more diverse forms</s>
+<s>that rna transcript would then be translated to make a protein</s>
+<s>the bits of the genome which describe proteins this way have long been known to be only a fraction of the whole—a bit more than 1—though it was accepted that some of the surrounding dna was necessary to get the transcription machinery on and off the genes thus turning them on or off as required</s>
+<s>human genes proved to be longer than might have been expected with the rna transcripts edited and rearranged before being translated into protein</s>
+<s>still it seemed as if only a small fraction of the genome was actually doing anything and that a lot of the rest was or might as well be “junk”</s>
+</p>
+
+<p>
+<s>junk schmunk</s>
+</p>
+
+<p>
+<s>now encode has shown that fully threequarters of the genome is transcribed into rna at some stage in at least one of the body’s different types of cell</s>
+<s>some transcripts are whittled down more or less immediately but 62 of the genome can end up in the form of a transcript that looks stable</s>
+<s>there is a sense in which these transcripts are the basic constituents of the genome—its atoms if you like</s>
+<s>the transcripts which are associated with genes describing proteins are just one type among many</s>
+</p>
+
+<p>
+<s>all this rna has a wide variety of uses</s>
+<s>it regulates what genes actually make protein and how much is made in all sorts of complicated ways some transcripts are millions of times more common than others</s>
+<s>even encode has not been able to catalogue all of this diversity but it has made headway in clarifying what to look for</s>
+</p>
+
+<p>
+<s>whereas 62 of the genome may be turned into finished transcripts in some cell or other only about 22 of the dna ends up in such transcripts in the typical cell</s>
+<s>this is because of molecular switches that turn parts of the genome on and off depending on what the cell in question is up to</s>
+<s>such switches are as worthy of their place in the parts list as the locations of particular regions that code for proteins</s>
+<s>they are though harder to find—and it turns out much more numerous</s>
+</p>
+
+<p>
+<s>that you need a profusion of such switches to get the right pattern of genes turned on and off in a given cell at a given time is obvious</s>
+<s>but the scale of the regulatory system has taken even some of its cartographers by surprise</s>
+<s>ewan birney of the european bioinformatics institute who was the lead coordinator of encode’s dataanalysis team says he was shocked when he realised that the genome’s 20000odd proteincoding genes are controlled by some 4m switches</s>
+</p>
+
+<p>
+<s>the encode parts list makes available to biologists the places where rna is transcribed where proteins attach themselves to dna to turn genes on or off where the dna is chemically altered from its normal state where it is linked to the protein scaffolding that it is wrapped around in unusual ways and more</s>
+<s>this is fascinating to people interested in the question of how genomes switch from state to state—say from the state of a stem cell which can grow into almost anything to that of a muscle cell committed to an existence of contraction and expansion</s>
+<s>it is also interesting for people who want to understand how cells go wrong</s>
+</p>
+
+<p>
+<s>one of the hot areas of research since the human genome was originally sequenced has been genomewide association studies</s>
+<s>these look at many possessors of an interesting trait or sufferers from a disease to see where they seem to have unusual dna in common</s>
+<s>many of the places in the genome deemed relevant to disease in this way have turned out not to be actual genes</s>
+<s>the encode studies now show though that they often contain regulatory elements</s>
+</p>
+
+<p>
+<s>so for example a number of sites in the genome that appear relevant to crohn’s disease—an inflammation of the digestive tract—are not associated with any known proteinmaking gene</s>
+<s>but the parts list says those regions contain or are close to a particular kind of genetic switch turned on and off in various types of immune cell</s>
+<s>this should help researchers focus on the specific immunesystem problems that underlie the disease</s>
+</p>
+
+<p>
+<s>another way in which encode could have an impact on medicine is simply by showing doctors what cells of a specific type look like on a molecular level</s>
+<s>there is a lot of hope and hype around the idea of “regenerative medicine” that would reprogram cells</s>
+<s>tim hubbard the director of informatics at britain’s sanger institute a factorysized sequencing lab says one thing encode offers the world is a much better idea of what it looks like for a cell to be programmed to be a muscle cell or a stem cell or whatever</s>
+<s>thus it offers a way to check whether the genomes of artificially reprogrammed cells—which might for example be intended to serve as new nerve cells after a spinal injury—really are working like the genomes of the cells they seek to mimic</s>
+<s>to be able to look at the pattern of a genome’s activity in such detail could open a door to worlds of new therapy as well as new knowledge</s>
+</p>
+
+<p>
+<s>no end in sight</s>
+</p>
+
+<p>
+<s>keats saw the right response to such revelations as rapt silent awe</s>
+<s>for the encoders there will be quick celebrations and a resumption of the effort</s>
+<s>impressive as it is encode is far from the last word</s>
+<s>for one thing its expertise and carefully calibrated techniques need to be spread far and wide—to be adopted and made useful by people doing clinical research</s>
+<s>and there is more basic research to do</s>
+<s>only six of the 147 cell types looked at in encode were studied in the amount of detail now possible</s>
+<s>the others still await their closeup</s>
+</p>
+
+<p>
+<s>and then there are more questions</s>
+<s>so far encode has looked only at cells from one person for each of the cell types studied</s>
+<s>that is a reasonable simplification in terms of how the genome works the difference between what’s turned on and off in a liver cell and a skin cell is far greater than the difference between how one person’s skin cells work and those of their neighbour however genetically different the neighbour</s>
+<s>but it will be helpful to get a sense of differences between your liver cells and your neighbour’s—especially if you are ill and he is healthy</s>
+</p>
+
+<p>
+<s>most beguiling to biologists though is the difference between one of your liver cells and another</s>
+<s>spectacularly sensitive as they are the techniques used by encode and other cuttingedge research still need to take material from many cells in order to put together a picture</s>
+<s>but this will blur subtleties—and even hide mechanisms if some cells work one way and some another</s>
+<s>hence a new interest in finding ways to look at what is going on in single cells not least because that will be the way that models of how the switching systems work can most easily and thoroughly be tested</s>
+<s>that according to dr hubbard is the thrilling frontier for labs like those that worked on encode</s>
+<s>in a decade that frontier could go as far beyond encode as encode has surpassed the original genomesequencing efforts</s>
+</p>
+

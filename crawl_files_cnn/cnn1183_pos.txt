@@ -1,0 +1,67 @@
+<p>|P_START
+<s>|S_START senate|NN republicans|NNS led|VBD by|IN orrin|NN hatch|NN and|CC senate|NN majority|NN leader|NN harry|NN reid|VBD have|VB exchanged|VBN sharply|RB worded|VBN letters|NNS on|IN dealing|VBG with|IN the|DT fiscal|JJ cliff|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN trillions|NNS of|IN dollars|NNS in|IN looming|VBG tax|NN hikes|NNS and|CC spending|NN cuts|NNS set|VBD to|TO take|VB effect|NN next|IN year|NN would|MD likely|RB cause|VB a|DT recession|NN the|DT congressional|JJ budget|NN office|NN said|VBD tuesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN issue|NN is|VBZ the|DT socalled|VBN fiscal|JJ cliff|NN a|DT series|NN of|IN measures|NNS set|VBN to|TO begin|VB in|IN january|JJ that|IN would|MD take|VB more|RBR than|IN $|$ 500|CD billion|CD out|IN of|IN the|DT economy|NN in|IN 2013|CD alone|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT measures|NNS include|VBP the|DT expiration|NN of|IN the|DT bush|NN tax|NN cuts|NNS and|CC protection|NN of|IN the|DT middle|NN class|NN from|IN the|DT alternative|NN minimum|NN tax|NN the|DT onset|NN of|IN $|$ 1|CD trillion|CD in|IN blunt|NN spending|NN cuts|NNS and|CC a|DT reduction|NN in|IN medicare|NN doctors|NNS pay|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN congress|NN lets|NNS all|DT those|DT policies|NNS take|VBP effect|NN inflationadjusted|VBN growth|NN for|IN 2013|CD would|MD be|VB just|RB 05|CD with|IN the|DT economy|NN projected|VBD to|TO contract|NN by|IN 13|CD in|IN the|DT first|JJ half|DT of|IN the|DT year|NN and|CC to|TO grow|VB by|IN 23|CD in|IN the|DT second|JJ half|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START given|VBN the|DT pattern|NN of|IN past|JJ recessions|NNS as|IN identified|JJ by|IN the|DT national|JJ bureau|NN of|IN economic|JJ research|NN such|JJ a|DT contraction|NN in|IN output|NN in|IN the|DT first|JJ half|DT of|IN 2013|CD would|MD probably|RB be|VB judged|VBN to|TO be|VB a|DT recession|NN the|DT cbo|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START overall|JJ taxable|JJ income|NN would|MD be|VB lower|JJR unemployment|NN would|MD be|VB higher|JJR tax|NN revenue|NN would|MD fall|VB and|CC spending|NN on|IN safety|NN net|JJ provisions|NNS such|JJ as|IN jobless|NN benefits|NNS would|MD increase|VB the|DT cbo|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START federal|JJ budget|NN deficits|NNS meanwhile|RB would|MD be|VB reduced|VBN by|IN more|RBR than|IN $|$ 500|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN contrast|NN were|VBD lawmakers|NNS to|TO cancel|VB the|DT onset|NN of|IN the|DT fiscal|JJ cliff|NN measures|NNS the|DT cbo|NN estimates|VBZ that|IN growth|NN in|IN real|JJ gdp|NN for|IN calendar|NN year|NN 2013|CD would|MD come|VB in|IN around|IN 44|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT agency|NN cautioned|VBD that|IN just|RB canceling|VBG all|DT the|DT fiscal|JJ cliff|NN measures|NNS and|CC not|RB imposing|VBG comparable|JJ restraint|NN in|IN future|JJ years|NNS would|MD hurt|VB the|DT economy|NN in|IN the|DT long|JJ run|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START few|JJ observers|NNS expect|VBP that|IN lawmakers|NNS would|MD actually|RB let|VB all|DT the|DT tax|NN hikes|VBZ and|CC spending|NN cuts|NNS take|VBP effect|NN when|WRB all|DT is|VBZ said|VBN and|CC done|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC when|WRB all|DT will|MD be|VB said|VBN and|CC done|NN is|VBZ hard|JJ to|TO predict|VB since|IN the|DT two|CD parties|NNS remain|VBP in|IN entrenched|VBN positions|NNS </s>|S_END
+<s>|S_START everyone|NN says|VBZ theyd|NN be|VB happy|JJ to|TO address|NN the|DT fiscal|JJ cliff|NN now|RB if|IN only|RB the|DT other|JJ guy|NN would|MD budge|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START republicans|NNS want|VBP to|TO replace|VB scheduled|VBN defense|NN cuts|NNS with|IN more|JJR cuts|NNS to|TO domestic|JJ programs|NNS services|NNS for|IN the|DT poor|JJ and|CC government|NN regulators|NNS </s>|S_END
+<s>|S_START they|PRP also|RB firmly|RB oppose|VBP tax|NN increases|NNS on|IN anyone|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START democrats|NNS object|VBP to|TO the|DT proposed|VBN shift|NN away|RB from|IN defense|NN cuts|NNS and|CC have|VBP been|VBN pushing|VBG to|TO let|VB the|DT bush|JJ tax|NN cuts|NNS expire|VBP for|IN highincome|NN households|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START president|NN obama|VBD and|CC congress|NN have|VBP spent|VBN much|RB of|IN the|DT past|JJ year|NN advancing|VBG misguided|VBN redistributionist|NN policies|NNS in|IN the|DT name|NN of|IN fairness|NN senate|NN republicans|NNS including|VBG top|JJ tax|NN writer|NN orrin|NN hatch|NN said|VBD in|IN a|DT letter|NN to|TO senate|VB majority|NN leader|NN harry|NN reid|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN reply|NN reid|VBD said|VBN its|PRP$ unlikely|JJ an|DT agreement|NN will|MD be|VB reached|VBN before|IN the|DT nov|NN 6|CD elections|NNS given|VBN what|WP he|PRP characterized|VBD as|IN republicans|NNS blind|VBP adherence|NN to|TO tea|VB party|NN extremism|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

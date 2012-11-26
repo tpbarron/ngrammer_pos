@@ -1,0 +1,66 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT news|NN corp|NN phonehacking|VBG scandal|NN took|VBD another|DT dramatic|JJ twist|NN monday|NN when|WRB the|DT publishing|NN empire|NN got|VBD a|DT taste|NN of|IN its|PRP$ own|JJ medicine|NN hackers|NNS seized|VBD control|NN of|IN the|DT website|JJ of|IN the|DT sun|NN the|DT sister|NN publication|NN of|IN the|DT recently|RB shuttered|VBD news|NN of|IN the|DT world|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT website|NN briefly|RB displayed|VBN a|DT fake|NN news|NN story|NN announcing|VBG that|IN news|NN corp|NN ceo|NN rupert|NN murdoch|NN had|VBD been|VBN found|VBN dead|JJ </s>|S_END
+<s>|S_START soon|RB after|IN the|DT site|NN began|VBD redirecting|VBG to|TO the|DT lulzsec|NN twitter|NN feed|VBD of|IN lulz|NN security|NN a|DT hacker|NN collective|JJ that|IN has|VBZ breached|VBN the|DT websites|NNS of|IN sony|NN pbs|NNS and|CC the|DT us|PRP senate|VBP among|IN others|NNS </s>|S_END
+<s>|S_START late|RB last|JJ month|NN the|DT group|NN said|VBD it|PRP was|VBD disbanding|VBG but|CC it|PRP seems|VBZ to|TO have|VB been|VBN lured|VBN out|RP of|IN retirement|NN for|IN the|DT operation|NN it|PRP dubbed|VBD murdochmeltdownmonday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP have|VBP joy|JJ we|PRP have|VBP fun|VBN we|PRP have|VBP messed|VBN up|RP murdochs|NNS sun|VBP lulzsec|NN proclaimed|VBN on|IN its|PRP$ twitter|NN feed|VBD </s>|S_END
+<s>|S_START it|PRP also|RB claimed|VBD to|TO have|VB wrecked|VBN murdochs|NNS news|NN international|JJ website|NN and|CC altered|VBD one|CD of|IN the|DT news|NN statements|NNS posted|VBD there|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START news|NN internationals|NNS site|VBP was|VBD offline|JJ monday|NN night|NN because|IN of|IN the|DT high|JJ traffic|NN surge|NN </s>|S_END
+<s>|S_START other|JJ sites|NNS in|IN companys|NNS network|NN including|VBG the|DT times|NNS of|IN londons|NNS website|VBP also|RB went|VBD down|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT carnage|NN could|MD get|VB worse|NN lulzsec|NN and|CC anonymous|JJ an|DT anarchic|JJ hacker|NN group|NN lulzsec|NN often|RB teams|VBZ with|IN said|VBD they|PRP had|VBD also|RB harvested|VBN email|NN addresses|NNS password|NN and|CC phone|NN numbers|NNS for|IN some|DT of|IN news|NN international|JJ and|CC the|DT suns|NNS top|VBP editors|NNS and|CC executives|NNS </s>|S_END
+<s>|S_START twitter|NN accounts|NNS associated|VBN with|IN anonymous|JJ blasted|VBN out|RP a|DT steady|JJ stream|NN of|IN what|WP they|PRP claimed|VBD were|VBD the|DT phone|NN numbers|NNS and|CC passwords|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START news|NN corp|NN representatives|NNS did|VBD not|RB immediately|RB return|VB calls|NNS seeking|VBG comment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT hacking|NN comes|VBZ amid|IN the|DT widening|NN scandal|NN hitting|VBG murdochs|NNS media|NNS empire|VBP </s>|S_END
+<s>|S_START late|RB monday|VBP credit|NN agency|NN standard|NN poors|NNS said|VBD it|PRP was|VBD placing|VBG news|NN corps|NNS bbb|VBP corporate|JJ credit|NN rating|NN on|IN creditwatch|NN negative|JJ meaning|NN sp|NN may|MD downgrade|VB news|NN corps|NNS credit|NN within|IN the|DT next|JJ 90|CD days|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN sunday|NN rebekah|NN brooks|NNS a|DT former|JJ top|JJ news|NN corp|NN nwsa|NN fortune|NN 500|CD executive|NN was|VBD arrested|VBN in|IN connection|NN with|IN british|JJ police|NNS investigations|NNS into|IN phone|NN hacking|VBG and|CC police|NN bribery|NN </s>|S_END
+<s>|S_START she|PRP was|VBD released|VBN around|IN midnight|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN friday|NN brooks|NNS resigned|VBD as|IN chief|NN executive|NN of|IN rupert|NN murdochs|NNS news|NN international|JJ which|WDT published|VBN the|DT news|NN of|IN the|DT world|NN and|CC is|VBZ part|NN of|IN news|NN corp|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START brooks|NNS is|VBZ the|DT tenth|NN person|NN to|TO be|VB arrested|VBN in|IN connection|NN with|IN the|DT phonehacking|VBG probe|NN police|NNS said|VBD sunday|NN </s>|S_END
+<s>|S_START the|DT scandal|NN has|VBZ rocked|VBN britain|NN for|IN the|DT past|JJ two|CD weeks|NNS and|CC jumped|VBD the|DT pond|NN on|IN friday|NN with|IN the|DT resignation|NN of|IN les|NNS hinton|VBP the|DT chief|NN executive|NN of|IN dow|NN jones|NNS another|DT of|IN murdochs|NNS media|NNS holdings|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN to|TO dow|VB jones|NNS news|NN corp|NN owns|VBZ outlets|NNS including|VBG the|DT wall|NN street|NN journal|JJ fox|NN news|NN and|CC the|DT new|JJ york|NN post|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT office|NN of|IN uk|NN prime|JJ minister|NN david|VBD cameron|NN confirmed|VBN monday|NN that|IN cameron|NN was|VBD cutting|VBG short|JJ a|DT trip|NN to|TO africa|VB and|CC would|MD return|VB to|TO the|DT uk|NN following|VBG the|DT resignation|NN of|IN two|CD top|JJ london|NN police|NN officials|NNS </s>|S_END
+<s>|S_START it|PRP is|VBZ alleged|VBN that|IN police|NN accepted|VBD payments|NNS from|IN journalists|NNS in|IN exchange|NN for|IN confidential|JJ information|NN </s>|S_END
+<s>|S_START cameron|NN said|VBD monday|NN that|IN he|PRP will|MD request|VB a|DT special|JJ session|NN of|IN parliament|NN on|IN wednesday|NN to|TO address|VB the|DT scandal|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fbi|NN is|VBZ now|RB also|RB getting|VBG involved|VBN considering|VBG a|DT probe|NN into|IN the|DT news|NN organization|NN amid|IN allegations|NNS that|WDT sept|IN 11|CD survivors|NNS victims|NNS and|CC their|PRP$ families|NNS had|VBD their|PRP$ voicemails|NNS hacked|VBD as|IN well|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnnmoneys|NNS charles|NNS riley|VBP contributed|VBN to|TO this|DT report |NN </s>|S_END
+</p>|P_END
+

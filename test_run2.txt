@@ -1,0 +1,237 @@
+Type: npos
+Generating from ngrams and pos...
+Enter a starting word: he
+Enter the POS: PRP
+(he[PRP]) 
+Checking ngrams from max depth: 1
+Ngram result found! 
+Ngrams: (said[VBD|-3.51294]), (would[MD|-3.89829]), (has[VBZ|-3.89829]), (was[VBD|-3.96524]), (wants[VBZ|-4.04442]), (wrote[VBD|-4.14133]), (doesnt[VBD|-4.14133]), (also[RB|-4.14133]), (had[VBD|-4.14133]), (can[MD|-4.14133]), (expects[VBZ|-4.26627]), (hopes[VBZ|-4.26627]), (thinks[VBZ|-4.26627]), (wont[VBD|-4.26627]), (raised[VBD|-4.44236]), (sets[VBZ|-4.44236]), (offered[VBD|-4.44236]), (added[VBD|-4.44236]), (made[VBD|-4.44236]), (is[VBZ|-4.44236]), (suggests[VBZ|-4.44236]), (wins[VBZ|-4.44236]), (might[MD|-4.44236]), (and[CC|-4.44236]), (did[VBD|-4.44236]), (urges[VBZ|-4.74339]), (came[VBD|-4.74339]), (realized[VBD|-4.74339]), (brought[VBD|-4.74339]), (says[VBZ|-4.74339]), (sells[VBZ|-4.74339]), (blurted[VBD|-4.74339]), (succeeds[VBZ|-4.74339]), (suggested[VBD|-4.74339]), (believes[VBZ|-4.74339]), (takes[VBZ|-4.74339]), (began[VBD|-4.74339]), (took[VBD|-4.74339]), (understands[VBZ|-4.74339]), (urged[VBD|-4.74339]), (proposes[VBZ|-4.74339]), (veto[VB|-4.74339]), (became[VBD|-4.74339]), (asked[VBD|-4.74339]), (wasnt[VBD|-4.74339]), (will[MD|-4.74339]), (allowed[VBD|-4.74339]), (worked[VBD|-4.74339]), (works[VBZ|-4.74339]), (allegedly[RB|-4.74339]), (wouldnt[VBP|-4.74339]), (advertised[VBD|-4.74339]), (may[MD|-4.74339]), (figured[VBD|-4.74339]), (gave[VBD|-4.74339]), (graduated[VBD|-4.74339]), (grew[VBD|-4.74339]), (does[VBZ|-4.74339]), (discovered[VBD|-4.74339]), (hoped[VBD|-4.74339]), (imagined[VBD|-4.74339]), (independently[RB|-4.74339]), (could[MD|-4.74339]), (isnt[VBD|-4.74339]), (looked[VBD|-4.74339]), (considers[VBZ|-4.74339]), (estimates[VBZ|-4.74339]), (chooses[VBZ|-4.74339]), (no[DT|-4.74339]), (noted[VBD|-4.74339]), (obtained[VBD|-4.74339]), (cautioned[VBD|-4.74339]), (owns[VBZ|-4.74339]), (paid[VBD|-4.74339]), (pays[VBZ|-4.74339]), (plans[VBZ|-4.74339]), (polled[VBD|-4.74339]), (predicts[VBZ|-4.74339]), (prefers[VBZ|-4.74339]), 
+Checking pgrams from max depth: 1
+Pos result found! 
+Pos: (VBP[-1.90025]), (MD[-2.13419]), (VBD[-2.13933]), (VBZ[-2.34483]), (RB[-2.54509]), (IN[-2.6715]), (VB[-2.88752]), (NN[-2.89728]), (CC[-2.92795]), (TO[-2.97253]), (DT[-3.03558]), (VBG[-3.31028]), (JJ[-3.3946]), (NNS[-3.58649]), (JJR[-3.58649]), (PRP[-3.69563]), (WRB[-3.93867]), (RP[-4.06361]), (CD[-4.2397]), ($[-4.2397]), (VBN[-4.54073]), (RBR[-4.54073]), 
+Max word: said
+(he[PRP]) (said[VBD]) 
+Checking ngrams from max depth: 2
+Ngram result found! 
+Ngrams: (that[IN|-4.26627]), (the[DT|-4.26627]), (he[PRP|-4.44236]), (has[VBZ|-4.74339]), (is[VBZ|-4.74339]), (it[PRP|-4.74339]), (no[DT|-4.74339]), (only[RB|-4.74339]), (these[DT|-4.74339]), (they[PRP|-4.74339]), (wednesday[NN|-4.74339]), (when[WRB|-4.74339]), 
+Checking pgrams from max depth: 2
+Pos result found! 
+Pos: (IN[-2.87797]), (DT[-3.04937]), (VBN[-3.07833]), (NN[-3.14279]), (RB[-3.16052]), (JJ[-3.3946]), (TO[-3.42679]), (PRP[-3.42679]), (VBG[-3.58649]), (NNS[-3.63764]), (CD[-3.76258]), (PRP$[-3.84176]), (RP[-3.84176]), ($[-3.93867]), (VBP[-3.93867]), (VB[-4.06361]), (JJR[-4.06361]), (WRB[-4.06361]), (VBZ[-4.2397]), (RBR[-4.54073]), (PDT[-4.54073]), (VBD[-4.54073]), (MD[-4.54073]), (CC[-4.54073]), 
+Max word: that
+(he[PRP]) (said[VBD]) (that[IN]) 
+Checking ngrams from max depth: 3
+Ngram result found! 
+Ngrams: (gas[NN|-4.74339]), (gun[NN|-4.74339]), (he[PRP|-4.74339]), 
+Checking pgrams from max depth: 3
+Pos result found! 
+Pos: (NN[-3.3946]), (DT[-3.49934]), (JJ[-3.84176]), (PRP[-3.84176]), (PRP$[-3.84176]), (NNS[-4.2397]), (CD[-4.54073]), (IN[-4.54073]), (VBG[-4.54073]), (WRB[-4.54073]), 
+Max word: gas
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (stations[NNS|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (IN[-3.76258]), (NN[-3.76258]), (NNS[-3.76258]), (CD[-3.93867]), (S_END[-3.93867]), (VBD[-4.2397]), 
+Max word: stations
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (are[VBP|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (VBD[-3.93867]), (VBP[-3.93867]), (CC[-4.2397]), (IN[-4.2397]), (VBN[-4.2397]), 
+Max word: are
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (not[RB|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (NN[-3.54073]), (VBG[-3.54073]), (VBN[-3.54073]), (RB[-3.63764]), (DT[-3.76258]), (IN[-3.76258]), (NNS[-3.93867]), (S_END[-3.93867]), (JJ[-4.2397]), (PRP[-4.2397]), (RBR[-4.2397]), (TO[-4.2397]), (VB[-4.2397]), 
+Max word: not
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) (not[RB]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (allowed[VBN|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (VBN[-3.28546]), (IN[-3.76258]), (VBG[-3.93867]), (VBP[-3.93867]), (DT[-4.2397]), (JJ[-4.2397]), (NN[-4.2397]), (RBR[-4.2397]), (S_END[-4.2397]), (TO[-4.2397]), 
+Max word: allowed
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) (not[RB]) (allowed[VBN]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (to[TO|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (IN[-3.33661]), (NNS[-3.93867]), (RP[-3.93867]), (VBG[-3.93867]), (JJ[-4.2397]), (NN[-4.2397]), (RB[-4.2397]), (TO[-4.2397]), (VBN[-4.2397]), 
+Max word: to
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) (not[RB]) (allowed[VBN]) (to[TO]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (get[VB|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (VB[-3.93867]), (NNS[-4.2397]), 
+Max word: get
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) (not[RB]) (allowed[VBN]) (to[TO]) (get[VB]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (involved[VBN|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (JJ[-4.2397]), (NNS[-4.2397]), (TO[-4.2397]), (VBN[-4.2397]), 
+Max word: involved
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) (not[RB]) (allowed[VBN]) (to[TO]) (get[VB]) (involved[VBN]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (in[IN|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (IN[-3.93867]), (NNS[-4.2397]), 
+Max word: in
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) (not[RB]) (allowed[VBN]) (to[TO]) (get[VB]) (involved[VBN]) (in[IN]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (price[NN|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (DT[-3.54073]), (JJ[-3.93867]), (NN[-3.93867]), (IN[-4.2397]), (WP[-4.2397]), 
+Max word: price
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) (not[RB]) (allowed[VBN]) (to[TO]) (get[VB]) (involved[VBN]) (in[IN]) (price[NN]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (gouging[VBG|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (NNS[-3.63764]), (IN[-3.93867]), (S_END[-3.93867]), (VBG[-3.93867]), (DT[-4.2397]), (NN[-4.2397]), 
+Max word: gouging
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) (not[RB]) (allowed[VBN]) (to[TO]) (get[VB]) (involved[VBN]) (in[IN]) (price[NN]) (gouging[VBG]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (although[IN|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (IN[-3.93867]), (CD[-4.2397]), (NNS[-4.2397]), (VBN[-4.2397]), 
+Max word: although
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) (not[RB]) (allowed[VBN]) (to[TO]) (get[VB]) (involved[VBN]) (in[IN]) (price[NN]) (gouging[VBG]) (although[IN]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (given[VBN|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (NN[-3.46155]), (DT[-3.54073]), (CC[-4.2397]), (CD[-4.2397]), (VBG[-4.2397]), (VBN[-4.2397]), 
+Max word: given
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) (not[RB]) (allowed[VBN]) (to[TO]) (get[VB]) (involved[VBN]) (in[IN]) (price[NN]) (gouging[VBG]) (although[IN]) (given[VBN]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (the[DT|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (DT[-4.2397]), 
+Max word: the
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) (not[RB]) (allowed[VBN]) (to[TO]) (get[VB]) (involved[VBN]) (in[IN]) (price[NN]) (gouging[VBG]) (although[IN]) (given[VBN]) (the[DT]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (extraneous[JJ|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (JJ[-4.2397]), 
+Max word: extraneous
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) (not[RB]) (allowed[VBN]) (to[TO]) (get[VB]) (involved[VBN]) (in[IN]) (price[NN]) (gouging[VBG]) (although[IN]) (given[VBN]) (the[DT]) (extraneous[JJ]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (circumstances[NNS|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (NNS[-4.2397]), 
+Max word: circumstances
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) (not[RB]) (allowed[VBN]) (to[TO]) (get[VB]) (involved[VBN]) (in[IN]) (price[NN]) (gouging[VBG]) (although[IN]) (given[VBN]) (the[DT]) (extraneous[JJ]) (circumstances[NNS]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (you[PRP|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (IN[-4.2397]), (PRP[-4.2397]), (RB[-4.2397]), 
+Max word: you
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) (not[RB]) (allowed[VBN]) (to[TO]) (get[VB]) (involved[VBN]) (in[IN]) (price[NN]) (gouging[VBG]) (although[IN]) (given[VBN]) (the[DT]) (extraneous[JJ]) (circumstances[NNS]) (you[PRP]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (would[MD|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (MD[-4.2397]), 
+Max word: would
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) (not[RB]) (allowed[VBN]) (to[TO]) (get[VB]) (involved[VBN]) (in[IN]) (price[NN]) (gouging[VBG]) (although[IN]) (given[VBN]) (the[DT]) (extraneous[JJ]) (circumstances[NNS]) (you[PRP]) (would[MD]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (still[RB|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (RB[-3.76258]), 
+Max word: still
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) (not[RB]) (allowed[VBN]) (to[TO]) (get[VB]) (involved[VBN]) (in[IN]) (price[NN]) (gouging[VBG]) (although[IN]) (given[VBN]) (the[DT]) (extraneous[JJ]) (circumstances[NNS]) (you[PRP]) (would[MD]) (still[RB]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (expect[VB|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (VB[-3.54073]), 
+Max word: expect
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) (not[RB]) (allowed[VBN]) (to[TO]) (get[VB]) (involved[VBN]) (in[IN]) (price[NN]) (gouging[VBG]) (although[IN]) (given[VBN]) (the[DT]) (extraneous[JJ]) (circumstances[NNS]) (you[PRP]) (would[MD]) (still[RB]) (expect[VB]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (this[DT|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (DT[-3.16052]), (IN[-3.33661]), (VBN[-3.54073]), (TO[-3.63764]), (JJ[-3.76258]), (PRP$[-3.76258]), (VBG[-3.93867]), (PRP[-4.2397]), (RP[-4.2397]), 
+Max word: this
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) (not[RB]) (allowed[VBN]) (to[TO]) (get[VB]) (involved[VBN]) (in[IN]) (price[NN]) (gouging[VBG]) (although[IN]) (given[VBN]) (the[DT]) (extraneous[JJ]) (circumstances[NNS]) (you[PRP]) (would[MD]) (still[RB]) (expect[VB]) (this[DT]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (to[TO|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (NN[-3.21851]), (NNS[-3.93867]), (CC[-4.2397]), (VBN[-4.2397]), (TO[-4.54073]), (VBG[-4.54073]), 
+Max word: to
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) (not[RB]) (allowed[VBN]) (to[TO]) (get[VB]) (involved[VBN]) (in[IN]) (price[NN]) (gouging[VBG]) (although[IN]) (given[VBN]) (the[DT]) (extraneous[JJ]) (circumstances[NNS]) (you[PRP]) (would[MD]) (still[RB]) (expect[VB]) (this[DT]) (to[TO]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (occur[VB|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (VB[-4.2397]), 
+Max word: occur
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) (not[RB]) (allowed[VBN]) (to[TO]) (get[VB]) (involved[VBN]) (in[IN]) (price[NN]) (gouging[VBG]) (although[IN]) (given[VBN]) (the[DT]) (extraneous[JJ]) (circumstances[NNS]) (you[PRP]) (would[MD]) (still[RB]) (expect[VB]) (this[DT]) (to[TO]) (occur[VB]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (to[TO|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (TO[-4.2397]), 
+Max word: to
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) (not[RB]) (allowed[VBN]) (to[TO]) (get[VB]) (involved[VBN]) (in[IN]) (price[NN]) (gouging[VBG]) (although[IN]) (given[VBN]) (the[DT]) (extraneous[JJ]) (circumstances[NNS]) (you[PRP]) (would[MD]) (still[RB]) (expect[VB]) (this[DT]) (to[TO]) (occur[VB]) (to[TO]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (some[DT|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (DT[-4.2397]), 
+Max word: some
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) (not[RB]) (allowed[VBN]) (to[TO]) (get[VB]) (involved[VBN]) (in[IN]) (price[NN]) (gouging[VBG]) (although[IN]) (given[VBN]) (the[DT]) (extraneous[JJ]) (circumstances[NNS]) (you[PRP]) (would[MD]) (still[RB]) (expect[VB]) (this[DT]) (to[TO]) (occur[VB]) (to[TO]) (some[DT]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (extent[NN|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (NN[-3.93867]), 
+Max word: extent
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) (not[RB]) (allowed[VBN]) (to[TO]) (get[VB]) (involved[VBN]) (in[IN]) (price[NN]) (gouging[VBG]) (although[IN]) (given[VBN]) (the[DT]) (extraneous[JJ]) (circumstances[NNS]) (you[PRP]) (would[MD]) (still[RB]) (expect[VB]) (this[DT]) (to[TO]) (occur[VB]) (to[TO]) (some[DT]) (extent[NN]) 
+Checking ngrams from max depth: 4
+Ngram result found! 
+Ngrams: (</s>[S_END|-4.44236]), 
+Checking pgrams from max depth: 4
+Pos result found! 
+Pos: (NN[-3.93867]), (S_END[-4.2397]), 
+Max word: </s>
+(he[PRP]) (said[VBD]) (that[IN]) (gas[NN]) (stations[NNS]) (are[VBP]) (not[RB]) (allowed[VBN]) (to[TO]) (get[VB]) (involved[VBN]) (in[IN]) (price[NN]) (gouging[VBG]) (although[IN]) (given[VBN]) (the[DT]) (extraneous[JJ]) (circumstances[NNS]) (you[PRP]) (would[MD]) (still[RB]) (expect[VB]) (this[DT]) (to[TO]) (occur[VB]) (to[TO]) (some[DT]) (extent[NN]) (</s>[S_END]) 

@@ -1,0 +1,63 @@
+<p>|P_START
+<s>|S_START america|NN has|VBZ hardly|RB been|VBN deprived|VBN of|IN soaring|NN speeches|NNS from|IN barack|NN obama|NN </s>|S_END
+<s>|S_START but|CC a|DT presidential|JJ address|NN is|VBZ what|WP lenore|RB rhinard|VBP a|DT north|JJ carolina|NN pensioner|NN thinks|NNS is|VBZ needed|VBN to|TO explain|VB the|DT merits|NNS of|IN the|DT affordable|JJ care|NN act|NN aca|NN the|DT vast|JJ healthcare|NN reform|NN that|WDT is|VBZ still|RB the|DT subject|NN of|IN ferocious|JJ debate|NN more|RBR than|IN two|CD years|NNS after|IN becoming|VBG law|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mrs|NNS rhinard|VBD this|DT week|NN put|VBD her|PRP case|NN in|IN person|NN to|TO the|DT health|NN and|CC human|JJ services|NNS secretary|NN kathleen|IN sebelius|NN at|IN a|DT “livingroom”|JJ event|NN held|NN in|IN greensboro|NN bringing|VBG together|RB local|JJ medics|NNS and|CC local|JJ women|NNS </s>|S_END
+<s>|S_START mrs|NNS sebelius|VBP defended|VBN her|PRP$ bo|NN </s>|S_END
+<s>|S_START the|DT president|NN talks|VBZ about|IN the|DT act|NN a|DT lot|NN she|PRP said|VBD </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ hard|RB to|TO get|VB through|IN “the|NNP noise”|NNP of|IN opponents’|NNP attack|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hours|NNS later|JJ in|IN the|DT country|NN town|NN of|IN salisbury|NN a|DT congressional|JJ foe|NN of|IN the|DT act|NN tom|NN price|NN came|VBD under|IN fire|NN from|IN another|DT direction|NN while|IN visiting|VBG a|DT hospital|JJ </s>|S_END
+<s>|S_START clad|NN in|IN emergencyroom|NN scrubs|NNS a|DT doctor|NN dave|NN templeton|NN denounced|VBD the|DT “entitlement|JJ attitude”|NN of|IN some|DT who|WP use|NN his|PRP$ facilities|NNS and|CC who|WP know|RB that|IN the|DT hospital|NN is|VBZ obliged|VBN by|IN federal|JJ law|NN to|TO treat|VB emergency|NN cases|NNS even|RB if|IN they|PRP can|MD not|RB pay|VB </s>|S_END
+<s>|S_START more|JJR and|CC more|JJR people|NNS earn|VBP nothing|NN but|CC want|JJ everything|NN he|PRP grumbled|VBD </s>|S_END
+<s>|S_START his|PRP$ hospital’s|JJ president|NN concurred|VBD the|DT emergency|NN room|NN had|VBD even|RB had|VBD locals|NNS demanding|VBG pregnancy|NN test|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN price—a|NN former|NN orthopaedic|NN surgeon|NN from|IN georgia|NN who|WP has|VBZ drafted|VBN an|DT alternative|JJ republican|NN healthcare|NN reform|NN bill—shared|JJ their|PRP$ indignation|NN </s>|S_END
+<s>|S_START hospitals|NNS need|VBP better|JJR legal|JJ protection|NN when|WRB they|PRP tell|VBP nonurgent|JJ cases|NNS to|TO seek|VB help|NN elsewhere|RB he|PRP said|VBD and|CC americans|NNS need|VBP to|TO show|VB more|JJR personal|JJ responsibility|NN </s>|S_END
+<s>|S_START yet|RB he|PRP added|VBD notes|NNS of|IN caution|NN </s>|S_END
+<s>|S_START ome|NN problems|NNS addressed|VBD by|IN obamacare|NN have|VBP to|TO be|VB tackled|VBN from|IN the|DT millions|NNS of|IN uninsured|VBN to|TO covering|NN those|DT with|IN preexisting|VBG condition|NN </s>|S_END
+<s>|S_START but|CC he|PRP vowed|VBD his|PRP$ plan|NN used|VBN the|DT tax|NN code|NN and|CC free|JJ markets|NNS to|TO solve|VB them|PRP without|IN government|NN dictating|VBG to|TO patients|NNS or|CC doctor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uch|JJ mirrorimage|NN events|NNS in|IN the|DT same|JJ state|NN on|IN the|DT same|JJ day|NN are|VBP revealing|VBG </s>|S_END
+<s>|S_START though|IN voters|NNS are|VBP sick|JJ of|IN squabbling|NN about|IN obamacare|NN health|NN remains|VBZ a|DT live|JJ election|NN issue|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ also|RB a|DT highrisk|NN one|CD </s>|S_END
+<s>|S_START though|IN polls|NNS show|VBP that|IN a|DT majority|NN of|IN americans|NNS oppose|VBP the|DT aca|NN bits|VBZ of|IN it|PRP are|VBP widely|RB popular|JJ and|CC plenty|NN of|IN voters|NNS like|IN the|DT whole|JJ thing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN the|DT republicans|NNS a|DT big|JJ challenge|NN is|VBZ to|TO avoid|VB blaming|NN the|DT genuinely|RB needy|JJ for|IN their|PRP$ plight|NN </s>|S_END
+<s>|S_START for|IN the|DT government|NN a|DT big|JJ challenge|NN is|VBZ to|TO avoid|VB having|VBG the|DT aca|NN dismissed|VBD as|IN a|DT handout|NN to|TO the|DT poor|JJ </s>|S_END
+<s>|S_START the|DT event|NN organised|VBD for|IN mrs|NNS sebelius|VBZ was|VBD held|VBN in|IN the|DT highceilinged|JJ home|NN of|IN a|DT local|JJ doctor|NN </s>|S_END
+<s>|S_START the|DT emphasis|NN was|VBD on|IN hearing|NN from|IN women|NNS of|IN all|DT backgrounds|NNS in|IN a|DT week|NN when|WRB the|DT act|NN will|MD create|VB new|JJ rights|NNS to|TO free|JJ contraceptives|NNS and|CC a|DT range|NN of|IN preventive|JJ test|NN </s>|S_END
+<s>|S_START voters|NNS relate|VBP to|TO people|NNS who|WP “look|-NONE- like|IN them|PRP and|CC sound|VB like|IN them”|NN said|VBD the|DT health|NN secretary|NN </s>|S_END
+<s>|S_START he|PRP stressed|VBD that|IN the|DT aca|NN helps|VBZ all|DT americans|NNS not|RB least|JJS because|IN taxpayers|NNS foot|VBP the|DT bill|NN when|WRB the|DT uninsured|VBN are|VBP driven|VBN to|TO seek|VB pricey|NN help|NN from|IN emergency|NN room|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC even|RB a|DT cautious|JJ approach|NN can|MD leave|VB democrats|NNS exposed|VBN </s>|S_END
+<s>|S_START larry|NN kissell—a|NN north|NN carolina|NN democrat|NN whose|WP$ congressional|JJ district|NN was|VBD redrawn|VBN by|IN state|NN legislators|NNS to|TO make|VB it|PRP more|JJR rural|JJ white|JJ and|CC conservative—in|JJ july|RB joined|VBN republicans|NNS in|IN casting|VBG a|DT symbolic|JJ house|NN vote|NN to|TO repeal|VB the|DT aca|NN </s>|S_END
+<s>|S_START he|PRP is|VBZ now|RB under|IN fire|NN from|IN left|VBN and|CC right|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START his|PRP$ republican|NN rival|NN calls|VBZ mr|NN kissell|NN a|DT flipflopper|NN </s>|S_END
+<s>|S_START meanwhile|RB democrats|VBZ of|IN the|DT district’s|JJ black|NN leadership|NN caucus|NN have|VBP recruited|VBN a|DT writein|NN candidate|NN to|TO run|VB against|IN him|PRP </s>|S_END
+<s>|S_START that|DT candidate|NN accuses|VBZ the|DT congressman|NN of|IN betraying|VBG the|DT lowincome|NN voters|NNS who|WP swept|IN him|PRP to|TO office|NN in|IN the|DT 2008|CD obama|NN landslide|NN </s>|S_END
+<s>|S_START he|PRP says|VBZ those|DT voters|NNS are|VBP now|RB fired|VBN up|RP to|TO defend|VB the|DT president|NN and|CC true|JJ democratic|JJ value|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN fact|NN national|JJ democratic|JJ strategists|NNS fear|NN mr|NN obama|NN may|MD struggle|VB to|TO repeat|VB the|DT turnout|NN he|PRP inspired|VBD among|IN blacks|NNS hispanics|NNS and|CC the|DT young|JJ four|CD years|NNS ago|RB </s>|S_END
+<s>|S_START talking|VBG about|IN how|WRB the|DT aca|NN benefits|NNS the|DT poorest|JJS would|MD be|VB a|DT way|NN to|TO do|VB it|PRP </s>|S_END
+<s>|S_START yet|RB too|RB partisan|JJ an|DT approach|NN risks|NNS turning|VBG off|RP centrist|JJ voter|NN </s>|S_END
+<s>|S_START even|RB for|IN an|DT orator|NN as|IN deft|NN as|IN mr|NN obama|NN that|WDT is|VBZ quite|RB a|DT challenge|NN </s>|S_END
+</p>|P_END
+

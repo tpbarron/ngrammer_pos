@@ -1,0 +1,16 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 37|CD gdp|NN $|$ 1245bn|CD ppp|CD $|$ 1582bn|CD inflation|NN 29|CD population|NN 498m|CD gdp|NN per|IN head|NN $|$ 25010|CD ppp|CD $|$ 31770|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT president|NN lee|NN myungbak|NN will|MD lose|VB influence|NN as|IN attention|NN focuses|NNS on|IN the|DT contest|JJS to|TO replace|VB him|PRP in|IN decembers|NNS election|NN </s>|S_END
+<s>|S_START a|DT parliamentary|JJ vote|NN in|IN april|NN will|MD set|VB the|DT scene|NN with|IN the|DT ruling|NN grand|NN national|JJ party|NN gnp|NN well|RB placed|VBN to|TO retain|VB control|NN </s>|S_END
+<s>|S_START the|DT marginal|JJ favourite|NN to|TO succeed|VB lee|NN myungbak|NN is|VBZ his|PRP$ archrival|NN from|IN the|DT gnp|NN park|NN geunhye|NN who|WP despite|IN her|PRP$ resistance|NN to|TO some|DT government|NN reform|NN proposals|NNS will|MD pursue|VB equally|RB probusiness|JJ policie|NN </s>|S_END
+<s>|S_START the|DT economy|NN will|MD decelerate|VB from|IN its|PRP$ 2010|CD rebound|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB drop|NN in|IN the|DT ocean|JJ </s>|S_END
+<s>|S_START yeosu|NN will|MD be|VB the|DT site|JJ of|IN an|DT international|JJ expo|NN from|IN may|MD to|TO august|VB on|IN sustainable|JJ use|NN of|IN oceans|NNS and|CC coastline|NN </s>|S_END
+</p>|P_END
+

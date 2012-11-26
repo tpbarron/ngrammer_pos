@@ -1,0 +1,134 @@
+<p>|P_START
+<s>|S_START superstorm|NN sandy|NN has|VBZ sparked|VBN a|DT gas|NN panic|NN in|IN the|DT north|JJ east|NN </s>|S_END
+<s>|S_START this|DT seaford|NN ny|NN station|NN had|VBD one|CD line|NN for|IN cars|NNS and|CC one|CD for|IN walkers|NNS with|IN containers|NNS on|IN friday|NN nov|NN 2|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START washington|NN cnnmoney|NN superstorm|NN sandy|NN has|VBZ left|VBN a|DT gasoline|NN panic|NN in|IN its|PRP$ wake|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT storm|NN had|VBD barely|RB left|VBN the|DT northeast|NN last|JJ week|NN when|WRB a|DT frightening|NN sight|NN became|VBD common|JJ in|IN new|JJ jersey|NN new|JJ york|NN and|CC connecticut|VBD dozens|NNS of|IN shivering|VBG people|NNS standing|VBG in|IN lines|NNS with|IN jerry|JJ cans|NNS for|IN gasoline|NN to|TO power|NN up|IN their|PRP$ darkened|VBN homes|NNS with|IN generators|NNS and|CC cars|NNS stretching|VBG out|RP miles|NNS deep|VBP some|DT waiting|VBG four|CD hours|NNS to|TO fill|VB up|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START conjuring|VBG up|IN images|NNS of|IN the|DT 1970s|CD oil|NN crisis|NN the|DT lines|NNS spilled|VBD on|IN to|TO bridges|NNS and|CC highways|NNS as|IN police|NN officers|NNS secured|VBD some|DT stations|NNS and|CC directed|VBD traffic|JJ to|TO keep|VB peace|NN </s>|S_END
+<s>|S_START in|IN new|JJ jersey|NN stations|NNS in|IN 12|CD counties|NNS are|VBP rationing|VBG gas|NN tying|VBG access|NN to|TO license|VB plate|JJ numbers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START amid|IN this|DT chaos|NN its|PRP$ hard|JJ to|TO believe|VB that|IN theres|NNS actually|RB no|DT gas|NN shortage|NN as|IN one|CD wellknown|NN oil|NN and|CC gas|NN expert|NN explained|VBD to|TO cnnmoney|NN </s>|S_END
+<s>|S_START rather|RB its|PRP$ fear|NN and|CC panic|JJ that|IN has|VBZ gripped|VBN residents|NNS from|IN these|DT states|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START such|JJ behavior|JJ is|VBZ actually|RB common|JJ after|IN large|JJ storms|NNS long|RB gas|RB lines|VBZ plagued|VBN south|NN florida|NN in|IN the|DT days|NNS after|IN hurricane|NN wilma|NN and|CC were|VBD widespread|JJ in|IN the|DT gulf|NN coast|NN after|IN hurricanes|NNS katrina|VBP and|CC rita|NN all|DT storms|NNS that|WDT hit|VBD the|DT nation|NN in|IN 2005|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnnmoney|NN caught|VBD up|RP with|IN tom|NN kloza|NN chief|NN analyst|NN at|IN the|DT oil|NN price|NN information|NN service|NN to|TO explain|VB the|DT phenomena|NN </s>|S_END
+<s>|S_START kloza|NN says|VBZ the|DT panic|JJ has|VBZ been|VBN fueled|VBN by|IN social|JJ media|NNS which|WDT has|VBZ led|VBN to|TO the|DT equivalent|NN of|IN flash|NN mobs|NNS at|IN gas|NN stations|NNS </s>|S_END
+<s>|S_START he|PRP expects|VBZ the|DT panic|NN to|TO subside|VB this|DT coming|VBG week|NN because|IN millions|NNS of|IN gallons|NNS of|IN gasoline|NN are|VBP waiting|VBG underground|NN and|CC will|MD start|VB flowing|VBG once|RB power|JJR is|VBZ restored|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START here|RB are|VBP edited|VBN excerpts|NNS from|IN the|DT conversation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START why|WRB are|VBP the|DT gas|NN lines|NNS so|RB long|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START why|WRB do|VBP people|NNS rush|VB the|DT exits|NNS at|IN a|DT european|JJ soccer|NN game|NN </s>|S_END
+<s>|S_START why|WRB do|VBP people|NNS behave|VB irrationally|RB at|IN times|NNS </s>|S_END
+<s>|S_START because|IN of|IN fear|NN and|CC panic|JJ </s>|S_END
+<s>|S_START what|WP might|MD otherwise|VB be|VB just|RB an|DT annoyance|NN turns|VBZ into|IN a|DT momentary|JJ crisis|NN because|IN everyone|NN starts|VBZ to|TO top|VB off|RP their|PRP$ tanks|NNS when|WRB they|PRP believe|VBP there|RB is|VBZ an|DT underlying|VBG gasoline|NN shortage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN theres|NNS no|DT energy|NN crisis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ really|RB a|DT crisis|NN of|IN crowds|NNS </s>|S_END
+<s>|S_START you|PRP can|MD imagine|VB when|WRB everyone|NN automatically|RB assumes|VBZ i|PRP better|JJR get|NN gas|NN today|NN im|NN going|VBG to|TO top|VB off|RP my|PRP$ tank|NN you|PRP have|VB behavior|JJ like|IN the|DT 70s|CD </s>|S_END
+<s>|S_START this|DT is|VBZ the|DT not|RB the|DT 70s|CD </s>|S_END
+<s>|S_START richard|NN nixon|VBD is|VBZ not|RB president|NN </s>|S_END
+<s>|S_START were|VBD not|RB wearing|VBG bell|NN bottoms|NNS </s>|S_END
+<s>|S_START were|VBD not|RB listening|VBG to|TO eight|CD tracks|NNS </s>|S_END
+<s>|S_START hopefully|RB were|VBD not|RB on|IN acid|JJ trips|NNS </s>|S_END
+<s>|S_START were|VBD looking|VBG at|IN something|NN thats|NNS going|VBG to|TO be|VB resolved|VBN in|IN a|DT few|JJ days|NNS despite|IN all|DT the|DT madness|NN of|IN crowds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whats|NNS different|VBD with|IN this|DT gas|NN panic|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN this|DT case|NN social|NN media|NNS has|VBZ created|VBN the|DT equivalent|NN at|IN flash|NN mobs|NNS at|IN various|JJ stations|NNS </s>|S_END
+<s>|S_START people|NNS are|VBP saying|VBG oh|NN i|PRP hear|VBP the|DT hess|NN station|NN has|VBZ gasoline|NN </s>|S_END
+<s>|S_START the|DT word|NN spreads|NNS </s>|S_END
+<s>|S_START and|CC boom|NN the|DT crowd|NN goes|VBZ there|EX </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN theres|NNS actually|RB enough|RB gas|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START theres|NNS actually|RB plenty|JJ of|IN gasoline|NN in|IN the|DT new|JJ york|NN harbor|NN area|NN </s>|S_END
+<s>|S_START and|CC all|DT the|DT big|JJ storage|NN tanks|NNS along|IN the|DT jersey|NN turnpike|NN plenty|NN of|IN those|DT are|VBP filled|VBN with|IN gas|NN </s>|S_END
+<s>|S_START the|DT problem|NN is|VBZ without|IN electricity|NN these|DT facilities|NNS cant|VBP open|JJ and|CC its|PRP$ very|JJ difficult|NN to|TO access|NN the|DT fuel|NN </s>|S_END
+<s>|S_START you|PRP see|VBP lines|NNS after|IN a|DT storm|NN because|IN people|NNS perceive|JJ theres|NNS no|DT gasoline|NN when|WRB in|IN fact|NN its|PRP$ a|DT question|NN of|IN access|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT gas|NN supply|NN is|VBZ there|EX its|PRP$ either|NN underground|NN at|IN stations|NNS that|WDT have|VBP yet|RB to|TO have|VB electricity|NN back|RB on|IN or|CC in|IN new|JJ york|NN harbor|NN in|IN terminals|NNS but|CC one|CD needs|NNS electricity|NN to|TO access|NN those|DT terminals|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD gas|NN shortage|NN continues|VBZ in|IN areas|NNS hit|VBP by|IN sandy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB much|JJ gasoline|NN is|VBZ out|RP there|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT of|IN these|DT bulk|NN storage|NN tanks|NNS have|VBP 250000|CD barrels|NNS or|CC 10|CD million|CD gallons|NNS </s>|S_END
+<s>|S_START plus|RB the|DT refineries|NNS in|IN texas|NNS and|CC louisiana|NNS continue|VBP to|TO pump|VB fuel|NN up|IN this|DT way|NN </s>|S_END
+<s>|S_START the|DT refineries|NNS on|IN the|DT delaware|NN river|NN never|RB lost|VBD power|NN and|CC continue|VB to|TO pump|VB fuel|NN </s>|S_END
+<s>|S_START we|PRP lost|VBD about|IN 300000|CD barrels|NNS a|DT day|NN from|IN refineries|NNS in|IN the|DT linden|NN new|JJ jersey|NN area|NN but|CC thats|NNS about|IN 150th|CD of|IN the|DT current|JJ us|PRP supply|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START part|NN of|IN the|DT reason|NN its|PRP$ going|NN slowly|RB is|VBZ you|PRP want|VBP to|TO make|VB sure|JJ everything|NN is|VBZ safe|JJ and|CC secure|NN and|CC that|IN you|PRP dont|VBP have|VBP the|DT possibility|NN for|IN leaks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB will|MD these|VB long|JJ lines|NNS end|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN we|PRP had|VBD normal|JJ demand|NN and|CC we|PRP didnt|VBP have|VBP the|DT panic|JJ out|IN there|RB id|JJ suggest|NN it|PRP would|MD be|VB in|IN a|DT few|JJ days|NNS </s>|S_END
+<s>|S_START i|PRP still|RB think|VBP that|IN after|IN the|DT election|NN this|DT week|NN from|IN wednesday|NN on|IN itll|NN gradually|RB be|VB restored|VBN to|TO normal|JJ </s>|S_END
+<s>|S_START its|PRP$ moving|NN from|IN the|DT south|NN to|TO the|DT north|JJ </s>|S_END
+<s>|S_START south|NN jersey|NN is|VBZ already|RB getting|VBG better|JJR and|CC some|DT of|IN the|DT panic|JJ is|VBZ easing|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START will|MD we|PRP see|VB a|DT hike|NN in|IN gas|NN prices|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN new|JJ jersey|NN and|CC new|JJ york|NN the|DT price|NN is|VBZ essentially|RB staying|VBG the|DT same|JJ right|NN now|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START us|PRP refineries|VBZ are|VBP making|VBG plenty|NN of|IN fuel|NN and|CC the|DT price|NN of|IN crude|JJ is|VBZ cheap|NN </s>|S_END
+<s>|S_START prices|NNS will|MD actually|RB be|VB lower|JJR a|DT week|NN from|IN now|RB </s>|S_END
+<s>|S_START in|IN the|DT next|JJ week|NN or|CC two|CD prices|NNS will|MD drop|VB to|TO about|IN $|$ 299|CD a|DT gallon|NN gasoline|NN in|IN many|JJ parts|NNS of|IN the|DT country|NN </s>|S_END
+<s>|S_START this|DT morning|NN the|DT price|NN nationally|RB was|VBD $|$ 347|CD a|DT gallon|NN </s>|S_END
+</p>|P_END
+

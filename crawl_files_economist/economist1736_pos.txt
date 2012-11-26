@@ -1,0 +1,161 @@
+<p>|P_START
+<s>|S_START the|DT accident|NN at|IN the|DT fukushima|NN nuclear|NN powerstation|NN in|IN japan|NN last|JJ year|NN the|DT worst|JJS since|IN the|DT explosion|NN at|IN chernobyl|NN in|IN 1986|CD has|VBZ led|VBN many|JJ countries|NNS to|TO reconsider|VB their|PRP$ commitment|NN to|TO nuclear|VB power|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ also|RB drawn|VBN new|JJ attention|NN to|TO the|DT enduring|NN problem|NN of|IN dealing|VBG with|IN nuclear|JJ waste|NN </s>|S_END
+<s>|S_START around|IN 270000|CD tonnes|NNS of|IN highlevel|NN waste|NN mostly|RB spent|JJ fuel|NN are|VBP in|IN temporary|JJ storage|NN around|IN the|DT world|NN </s>|S_END
+<s>|S_START another|DT 10000|CD tonnes|NNS of|IN waste|NN are|VBP added|VBN each|DT year|NN according|VBG to|TO the|DT world|NN nuclear|NN association|NN an|DT industry|NN body|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hould|MD it|PRP be|VB buried|VBN in|IN undersea|NN fissures|NNS stored|VBD underground|NN or|CC manipulated|VBN to|TO make|VB it|PRP less|JJR harmful|JJ </s>|S_END
+<s>|S_START the|DT abandonment|NN in|IN 2009|CD of|IN a|DT plan|NN for|IN a|DT huge|JJ storage|NN site|NN shielded|VBD by|IN 300|CD metres|NNS of|IN volcanic|JJ rock|NN in|IN yucca|NN mountain|NN nevada|NN gave|VBD the|DT matter|NN new|JJ urgency|NN in|IN america|NN even|RB before|IN fukushima|NN </s>|S_END
+<s>|S_START the|DT presidentially|RB mandated|VBN blue|JJ ribbon|NN commission|NN on|IN americas|NNS nuclear|JJ future|JJ which|WDT delivered|VBN its|PRP$ final|JJ report|NN in|IN january|JJ 2012|CD emphasised|VBN the|DT “urgent”|NNP need|VBP for|IN a|DT fresh|JJ wastedisposal|NN strategy|NN </s>|S_END
+<s>|S_START meanwhile|RB new|JJ rules|NNS adopted|VBN by|IN the|DT european|JJ union|NN last|JJ year|NN require|NN member|NN countries|NNS to|TO draw|VB up|RP longterm|JJ plans|NNS for|IN dealing|VBG with|IN their|PRP$ nuclear|JJ waste|NN by|IN 2015|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dealing|VBG with|IN nuclear|JJ waste|NN does|VBZ not|RB just|RB mean|JJ preventing|NN it|PRP from|IN doing|VBG harm|NN today|NN whether|IN as|IN the|DT result|NN of|IN accident|NN malicious|JJ intent|NN or|CC natural|JJ disaster|NN </s>|S_END
+<s>|S_START it|PRP also|RB means|VBZ ensuring|VBG that|IN waste|NN does|VBZ not|RB poison|VB future|JJ generations—people|JJ who|WP discover|RB nuclear|VBP waste|NN in|IN the|DT far|NN future|NN may|MD not|RB realise|VB what|WP it|PRP is—and|VBP doing|VBG so|RB in|IN a|DT way|NN that|WDT is|VBZ acceptable|JJ to|TO todays|NNS taxpayer|NN </s>|S_END
+<s>|S_START there|EX are|VBP essentially|RB three|CD approaches|NNS bide|VBP your|PRP$ time|NN and|CC wait|NN for|IN technology|NN to|TO improve|VB bury|NN the|DT waste|NN somewhere|RB secure|NN or|CC reprocess|NN it|PRP into|IN new|JJ fuel|NN greatly|RB reducing|VBG the|DT amount|NN of|IN waste|NN left|VBN over|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT nastiest|JJS powerstation|NN waste|NN highlevel|NN spent|NN fuel|NN is|VBZ usually|RB cooled|VBN in|IN pools|NNS of|IN water|NN for|IN at|IN least|JJS five|CD years|NNS and|CC then|RB packed|VBD away|RB in|IN thick|NN concreteandsteel|NN “dry|JJ casks”|NN each|DT the|DT size|NN of|IN a|DT small|JJ truck|NN </s>|S_END
+<s>|S_START gradually|RB weakened|VBN by|IN radioactive|JJ decay|NN and|CC the|DT resulting|VBG heat|NN a|DT cask|NN can|MD hold|VB back|RB the|DT radiation|NN for|IN a|DT few|JJ hundred|VBN years|NNS perhaps|RB even|RB a|DT few|JJ thousand|NN </s>|S_END
+<s>|S_START but|CC a|DT dry|JJ cask|NN would|MD certainly|RB not|RB last|JJ 200000|CD years|NNS which|WDT is|VBZ roughly|RB how|WRB long|JJ it|PRP takes|VBZ for|IN the|DT longestlived|VBN forms|NNS of|IN plutonium|NN to|TO decay|VB to|TO harmlessne|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START torage|NN and|CC handling|NN technology|NN is|VBZ still|RB improving|VBG however|RB </s>|S_END
+<s>|S_START kb|NN a|DT swedish|JJ company|NN that|WDT stores|VBZ nuclear|JJ waste|NN has|VBZ developed|VBN a|DT new|JJ type|NN of|IN durable|JJ canister|NN sheathed|VBD in|IN two|CD centimetres|NNS of|IN copper|NN a|DT metal|NN that|WDT has|VBZ survived|VBN as|IN jewellery|NN for|IN millennia|NN </s>|S_END
+<s>|S_START the|DT canisters|NNS are|VBP welded|VBN with|IN an|DT innovative|JJ “friction|NN stir”|NN technique|NN that|WDT softens|VBZ surfaces|NNS to|TO be|VB joined|VBN without|IN weakening|NN them|PRP by|IN melting|NN </s>|S_END
+<s>|S_START a|DT nickel|NN material|NN called|VBN alloy|NN 22|CD also|RB shows|VBZ promise|NN </s>|S_END
+<s>|S_START it|PRP contains|VBZ chromium|NN to|TO resist|VB corrosion|NN and|CC molybdenum|NN and|CC tungsten|RB for|IN strength|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT australian|JJ nuclear|JJ science|NN and|CC technology|NN organisation|NN has|VBZ devised|VBN a|DT process|NN using|VBG heat|NN and|CC high|JJ pressure|NN to|TO make|VB synthetic|JJ rock|NN out|IN of|IN radioactive|JJ waste|NN and|CC minerals|NNS including|VBG calcium|NN titanium|NN and|CC zirconium|NN </s>|S_END
+<s>|S_START called|VBN synrocanstro|NN it|PRP reduces|VBZ radiation|NN by|IN “locking|JJ it|PRP up|IN safely|RB in|IN minerals”|JJ says|NNS gavin|IN atkins|NNS a|DT spokesman|NN for|IN the|DT government|NN agency|NN </s>|S_END
+<s>|S_START americas|NNS department|VBD of|IN energy|NN plans|NNS to|TO use|VB the|DT process|NN to|TO dispose|VB of|IN radioactive|JJ powder|NN in|IN idaho|NN left|VBD over|RP from|IN the|DT extraction|NN decades|VBZ ago|RB of|IN uranium|NN from|IN spent|NN fuel|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START future|JJ scientists|NNS will|MD design|VB even|RB better|RBR materials|NNS and|CC processes|NNS which|WDT has|VBZ led|VBN some|DT to|TO suggest|VBP that|IN the|DT best|JJS thing|NN to|TO do|VB with|IN nuclearwaste|JJ materials|NNS is|VBZ simply|RB to|TO store|VB them|PRP above|IN ground|NN and|CC wait|NN for|IN technology|NN to|TO improve|VB </s>|S_END
+<s>|S_START but|CC that|DT would|MD push|VB disposal|NN costs|NNS on|IN future|JJ generation|NN </s>|S_END
+<s>|S_START americas|NNS blue|VBP ribbon|NN commission|NN noted|VBD in|IN a|DT report|NN that|WDT there|EX is|VBZ “no|JJ ethical|JJ basis”|NN for|IN doing|VBG that|IN </s>|S_END
+<s>|S_START moreover|RB something|NN could|MD go|VB wrong|JJ in|IN the|DT meantime|NN says|VBZ mick|NN apted|VBN a|DT contingencyscenario|NN analyst|NN for|IN intera|NN an|DT engineering|NN consultancy|NN based|VBN in|IN denver|NN colorado|NN </s>|S_END
+<s>|S_START as|IN fukushima|NN showed|VBD unburied|VBN waste|NN is|VBZ vulnerable|JJ to|TO natural|JJ disaster|NN </s>|S_END
+<s>|S_START another|DT risk|NN is|VBZ political|JJ instability|NN there|EX could|MD be|VB a|DT war|NN or|CC a|DT revolution|NN </s>|S_END
+<s>|S_START and|CC instead|RB of|IN advancing|VBG the|DT expertise|NN needed|VBD to|TO handle|VB nuclear|JJ waste|NN might|MD be|VB neglected|VBN and|CC lost|VBD </s>|S_END
+<s>|S_START the|DT upshot|NN mr|NN apted|VBD says|VBZ is|VBZ that|IN the|DT waste|NN must|MD be|VB buried|VBN sooner|NN rather|RB than|IN later|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START journey|NN to|TO the|DT centre|NN of|IN the|DT earth|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC where|WRB </s>|S_END
+<s>|S_START forget|NN about|IN dropping|VBG nuclear|JJ waste|NN into|IN a|DT volcano|NN magma|NN is|VBZ nowhere|RB near|JJ hot|NN enough|RB to|TO melt|VB it|PRP </s>|S_END
+<s>|S_START firing|VBG waste|NN into|IN the|DT nuclear|JJ fireball|NN of|IN the|DT sun|NN meanwhile|RB would|MD be|VB astonishingly|RB expensive|JJ and|CC a|DT launch|NN accident|NN could|MD spread|VB radioactive|JJ material|NN over|IN a|DT wide|JJ area|NN </s>|S_END
+<s>|S_START an|DT idea|NN suggested|VBD early|RB in|IN the|DT nuclear|JJ age|NN was|VBD to|TO bury|VB waste|NN in|IN antarcticas|NNS ice|NN sheet|NN </s>|S_END
+<s>|S_START heated|VBD by|IN radioactive|JJ decay|NN the|DT canisters|NNS would|MD melt|VB the|DT ice|NN beneath|NN them|PRP and|CC slowly|RB sink|VBP </s>|S_END
+<s>|S_START but|CC this|DT plan|NN was|VBD abandoned|VBN in|IN the|DT 1970|CD </s>|S_END
+<s>|S_START back|RB then|RB a|DT handful|NN of|IN countries|NNS including|VBG france|NN dumped|VBD canisters|NNS containing|VBG small|JJ amounts|NNS of|IN lowlevel|NN nuclear|JJ waste|NN into|IN the|DT ocean|JJ </s>|S_END
+<s>|S_START this|DT conformed|VBN to|TO “common|JJ sense|NN at|IN the|DT time”|NNP and|CC was|VBD essentially|RB harmless|JJ says|NNS gérard|JJ ouzounian|NN an|DT official|NN at|IN andra|NN the|DT agency|NN charged|VBD with|IN disposing|NN of|IN frances|NNS waste|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uch|JJ dumping|NN was|VBD banned|VBN in|IN 1993|CD </s>|S_END
+<s>|S_START but|CC it|PRP might|MD make|VB sense|NN to|TO bury|NN waste|NN deep|NN in|IN the|DT seabed|VBN </s>|S_END
+<s>|S_START using|VBG modern|NN equipment|NN for|IN undersea|NN oilandgas|NNS drilling|VBG canisters|NNS could|MD be|VB buried|VBN far|RB from|IN volcanic|JJ areas|NNS in|IN holes|NNS plugged|VBD with|IN seabed|VBN clay|NN </s>|S_END
+<s>|S_START if|IN buried|VBN in|IN a|DT subduction|NN fault|NN the|DT movement|NN of|IN one|CD tectonic|JJ plate|NN sliding|VBG below|IN another|DT would|MD push|VB the|DT canisters|NNS down|IN into|IN the|DT earths|NNS mantle|VBP at|IN a|DT rate|NN of|IN about|RB ten|VBN centimetres|NNS a|DT year|NN </s>|S_END
+<s>|S_START america|NN cut|VBD off|RP funding|NN for|IN seabeddisposal|NN research|NN in|IN 1986|CD and|CC other|JJ countries|NNS followed|VBD suit|NN </s>|S_END
+<s>|S_START but|CC some|DT people|NNS have|VBP continued|VBN to|TO develop|VB the|DT idea|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START permanent|NN radwaste|NN solutions|NNS based|VBN in|IN california|NN has|VBZ patented|VBN a|DT steel|NN copper|NN and|CC lead|NN container|NN cleverly|RB shaped|VBD to|TO withstand|VB pressure|NN in|IN a|DT subduction|NN fault|NN </s>|S_END
+<s>|S_START it|PRP resembles|VBZ a|DT bowling|NN pin|NN the|DT size|NN of|IN a|DT car|NN </s>|S_END
+<s>|S_START as|IN it|PRP is|VBZ drawn|VBN into|IN the|DT subduction|NN fault|NN and|CC the|DT pressure|NN increases|NNS it|PRP is|VBZ closed|VBN up|RP ever|RB more|RBR tightly|RB by|IN pressurecompensating|NN seals|NNS says|VBZ designer|NN dean|NN engelhardt|NN a|DT former|JJ nuclearweapons|NNS engineer|NN at|IN general|JJ dynamic|JJ </s>|S_END
+<s>|S_START the|DT idea|NN of|IN seabed|VBN burial|JJ however|RB has|VBZ failed|VBN to|TO catch|VB on|IN not|RB least|JJS because|IN it|PRP would|MD require|VB renegotiation|NN of|IN international|JJ environmental|JJ law|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START underground|NN burial|JJ is|VBZ regarded|VBN as|RB a|DT simpler|NN and|CC more|JJR attractive|JJ alternative|NN </s>|S_END
+<s>|S_START alt|NN deposits|NNS excavated|VBD 650|CD metres|NNS beneath|NN the|DT desert|NN near|IN carlsbad|JJ new|JJ mexico|NN already|RB hold|VBP canisters|NNS with|IN enough|JJ radioactive|JJ waste|NN from|IN americas|NNS weapons|NNS programmes|VBZ to|TO fill|VB more|JJR than|IN 28|CD olympic|JJ swimming|NN pool|NN </s>|S_END
+<s>|S_START burying|VBG spent|NN fuel|NN is|VBZ trickier|JJR </s>|S_END
+<s>|S_START unlike|IN weapons|NNS waste|VBP powerstation|NN waste|NN generates|VBZ lots|NNS of|IN heat|NN which|WDT might|MD in|IN the|DT long|JJ term|NN destabilise|NN geological|JJ formation|NN </s>|S_END
+<s>|S_START no|DT country|NN has|VBZ yet|RB built|VBN a|DT permanent|NN burial|NN site|NN for|IN spent|NN fuel|NN </s>|S_END
+<s>|S_START but|CC the|DT technology|NN for|IN building|NN monitoring|VBG and|CC eventually|RB sealing|VBG repositories|NNS has|VBZ been|VBN worked|VBN out|RP says|VBZ charles|NNS mccombie|VBP of|IN the|DT european|JJ repository|NN development|NN organisation|NN a|DT 14country|JJ working|NN group|NN based|VBN in|IN baden|JJ switzerland|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO find|VB out|RP how|WRB a|DT repository|NN carved|VBN out|RP of|IN argillite|JJ a|DT sedimentary|JJ rock|NN would|MD hold|VB up|RP french|JJ researchers|NNS built|VBN an|DT underground|NN laboratory|NN 490|CD metres|NNS down|IN near|IN the|DT northeastern|NN town|NN of|IN bure|NN </s>|S_END
+<s>|S_START heat|NN and|CC radioactivity|NN testing|NN show|NN that|IN a|DT repository|NN could|MD be|VB built|VBN in|IN about|IN ten|CD years|NNS and|CC then|RB safely|RB filled|VBN and|CC monitored|VBN for|IN at|IN least|JJS another|DT hundred|VBN before|IN being|VBG sealed|VBN says|NNS mr|IN ouzounian|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START any|DT permanent|NN repository|NN would|MD be|VB built|VBN in|IN a|DT dry|JJ geological|JJ medium|NN </s>|S_END
+<s>|S_START even|RB so|RB water|IN could|MD seep|VB in|IN through|IN cracks|NNS created|VBN by|IN an|DT earthquake|NN say|VBP or|CC a|DT shifting|NN land|NN mass|NN allowing|VBG radioactive|JJ material|NN to|TO get|VB out|IN </s>|S_END
+<s>|S_START to|TO prevent|VB that|IN czech|JJ engineers|NNS working|VBG with|IN a|DT german|NN consultancy|NN called|VBN dbe|NN technology|NN have|VBP built|VBN a|DT “hydraulic|JJ cage”|NN to|TO keep|VB water|NN out|IN of|IN a|DT former|JJ limestone|NN mine|NN near|IN the|DT czech|JJ town|NN of|IN litomerice|NN that|IN holds|NNS radioactive|VBP waste|NN in|IN concretelined|VBN zinccoated|VBN drum|NN </s>|S_END
+<s>|S_START in|IN 2005|CD they|PRP began|VBD lining|VBG the|DT top|JJ bottom|NN and|CC sides|NNS of|IN certain|JJ chambers|NNS with|IN a|DT fivecentimetre|NN layer|NN of|IN gravel|NN held|VBN in|IN place|NN with|IN wire|NN mesh|NN sprayed|VBD with|IN concrete|JJ </s>|S_END
+<s>|S_START each|DT chambers|NNS gravel|VBP lining|VBG creates|NNS “a|-NONE- path|NN of|IN least|JJS resistance”|JJ to|TO divert|VB any|DT water|NN around|IN it|PRP </s>|S_END
+<s>|S_START the|DT projects|NNS leader|NN miroslav|NN kucerka|NN of|IN the|DT radioactive|JJ waste|NN repository|NN authority|NN says|VBZ it|PRP is|VBZ a|DT world|NN first|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START finland|NN and|CC sweden|NN have|VBP also|RB built|VBN underground|NN laboratories|NNS to|TO test|NN geologic|NN formations|NNS and|CC packaging|NN technologie|NN </s>|S_END
+<s>|S_START the|DT results|NNS look|VBP good|JJ says|NNS claes|NNS thegerström|-NONE- the|DT head|NN of|IN skb|NN which|WDT operates|VBZ the|DT swedish|JJ facility|NN the|DT aspo|NN hard|NN rock|NN laboratory|NN </s>|S_END
+<s>|S_START repositories|NNS built|VBN at|IN depths|NNS of|IN half|NN a|DT kilometre|NN or|CC more|JJR in|IN suitable|JJ rock|NN would|MD even|RB survive|VB the|DT glaciers|NNS of|IN a|DT future|JJ ice|NN age|NN as|IN they|PRP remodel|VBP europes|NNS landscape|NN he|PRP say|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB so|RB far|RB not|RB a|DT single|JJ permanent|NN repository|NN has|VBZ been|VBN approved|VBN </s>|S_END
+<s>|S_START construction|NN will|MD be|VB expensive|JJ </s>|S_END
+<s>|S_START but|CC managing|VBG public|JJ opinion|NN may|MD pose|VB a|DT bigger|JJR problem|NN </s>|S_END
+<s>|S_START as|IN an|DT industry|NN joke|NN puts|NNS it|PRP the|DT social|JJ science|NN has|VBZ become|VBN more|RBR difficult|JJ than|IN the|DT physical|JJ science|NN </s>|S_END
+<s>|S_START officials|NNS in|IN france|NN and|CC sweden|NN reckon|NN that|WDT building|VBG permits|NNS will|MD be|VB granted|VBN within|IN a|DT few|JJ year|NN </s>|S_END
+<s>|S_START but|CC hostile|IN public|JJ opinion|NN can|MD derail|VB even|RB advanced|VBN plans—more|JJ than|IN $|$ 9|CD billion|CD had|VBD been|VBN spent|VBN on|IN americas|NNS yucca|VBP mountain|NN repository|NN when|WRB it|PRP was|VBD cancelled|VBN </s>|S_END
+<s>|S_START people|NNS living|VBG near|IN the|DT carlsbad|NN site|NN for|IN weaponsrelated|VBN waste|NN were|VBD in|IN contrast|NN consulted|VBN and|CC compensated|VBN </s>|S_END
+<s>|S_START wedens|NNS skb|VBP chose|JJ the|DT site|JJ for|IN its|PRP$ proposed|VBN repository|NN after|IN a|DT long|JJ consultation|NN and|CC several|JJ referendum|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT boring|NN alternative|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START americas|NNS blue|VBP ribbon|NN commission|NN concluded|VBD that|IN a|DT “new|JJ consentbased|VBN approach”|-NONE- was|VBD needed|VBN </s>|S_END
+<s>|S_START it|PRP also|RB called|VBD for|IN research|NN into|IN an|DT alternative|JJ form|NN of|IN underground|NN burial—packing|JJ waste|NN into|IN holes|NNS drilled|VBN several|JJ kilometres|NNS deep|VB </s>|S_END
+<s>|S_START research|NN into|IN borehole|NN disposal|NN as|IN it|PRP is|VBZ known|VBN is|VBZ now|RB taking|VBG off|RP says|VBZ fergus|NNS gibb|VBP a|DT geochemist|NN at|IN the|DT university|NN of|IN sheffield|NN in|IN england|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN an|DT extra|JJ precaution|NN he|PRP says|VBZ canisters|NNS could|MD be|VB designed|VBN so|RB the|DT hot|JJ waste|NN melts|NNS the|DT adjacent|NN rock|NN </s>|S_END
+<s>|S_START once|RB cooled|VBD and|CC resolidified|VBN in|IN as|IN little|JJ as|IN a|DT few|JJ decades|NNS the|DT rock|NN would|MD form|VB a|DT tight|JJ seal|NN </s>|S_END
+<s>|S_START a|DT workshop|NN held|VBN last|JJ october|NN at|IN sandia|NN national|JJ laboratories|NNS in|IN albuquerque|NN new|JJ mexico|NN concluded|VBD that|IN borehole|NN disposal|NN would|MD be|VB cheaper|JJR more|JJR flexible|JJ and|CC faster|JJR to|TO implement|VB than|IN repository|NN disposal|NN </s>|S_END
+<s>|S_START but|CC the|DT protection|NN provided|VBD by|IN rockmelting|NN would|MD probably|RB have|VB to|TO be|VB abandoned|VBN as|IN a|DT concession|NN to|TO public|JJ opinion|NN says|VBZ dr|NN gibb|NN </s>|S_END
+<s>|S_START tell|NN people|NNS that|WDT nuclear|JJ waste|NN will|MD be|VB buried|VBN in|IN concentrations|NNS hot|JJ enough|RB to|TO melt|VB rock|NN he|PRP says|VBZ and|CC some|DT will|MD worry|VB that|IN it|PRP might|MD explode|VB like|IN a|DT volcano|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN say|VBP the|DT stuff|NN should|MD not|RB be|VB permanently|RB buried|VBN at|IN all|DT </s>|S_END
+<s>|S_START “spent|JJ fuel|NN in|IN general|JJ is|VBZ not|RB waste”|JJ says|NNS andrey|NN bukhovtsev|NN of|IN rosatom|NN russias|NNS state|NN nuclear|NN giant|NN reflecting|VBG a|DT widespread|JJ view|NN in|IN that|DT country|NN </s>|S_END
+<s>|S_START reprocessed|VBD waste|NN yields|NNS usable|JJ uranium|NN fuel|NN along|IN with|IN “an|JJ alchemists|NNS dream”|-NONE- of|IN other|JJ elements|NNS useful|JJ in|IN industry|NN and|CC medicine|NN says|VBZ sherrell|NN greene|NN who|WP retired|VBN in|IN late|JJ 2011|CD as|IN head|NN of|IN nuclear|JJ technology|NN at|IN the|DT united|VBN states|NNS department|NN of|IN energys|NNS oak|VBP ridge|NN national|JJ laboratory|NN in|IN tennessee|NN and|CC now|RB works|VBZ as|IN a|DT consultant|NN </s>|S_END
+<s>|S_START france|NN and|CC japan|NN are|VBP leaders|NNS in|IN reprocessing|VBG </s>|S_END
+<s>|S_START it|PRP is|VBZ expensive|JJ but|CC reduces|NNS waste|VBP and|CC provides|NNS a|DT secure|NN fuel|NN supply|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT trouble|NN is|VBZ that|IN reprocessing|VBG also|RB separates|VBZ out|RP pure|NN plutonium|NN which|WDT can|MD be|VB used|VBN to|TO make|VB nuclear|JJ weapon|NN </s>|S_END
+<s>|S_START for|IN that|DT reason|NN president|NN jimmy|NN carter|NN halted|VBD reprocessing|VBG in|IN america|NN in|IN 1977|CD to|TO slow|JJ the|DT spread|NN of|IN bombmaking|VBG expertise|NN </s>|S_END
+<s>|S_START ome|NN other|JJ countries|NNS followed|VBD suit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN 2009|CD scientists|NNS at|IN the|DT oak|NN ridge|NN national|JJ laboratory|NN including|VBG dr|NN greene|NN demonstrated|VBD a|DT new|JJ reprocessing|NN technique|NN called|VBN urex|NN that|IN does|VBZ not|RB produce|VB pure|NN plutonium|NN </s>|S_END
+<s>|S_START but|CC it|PRP will|MD take|VB a|DT decade|NN to|TO devise|VB the|DT chemical|JJ and|CC mechanical|JJ steps|NNS to|TO commercialise|VB their|PRP$ method|NN </s>|S_END
+<s>|S_START and|CC some|DT waste|NN will|MD always|RB be|VB left|VBN </s>|S_END
+<s>|S_START rather|RB than|IN just|RB burying|VBG the|DT problem|NN it|PRP may|MD be|VB time|NN to|TO start|VB burying|NN the|DT waste|NN </s>|S_END
+</p>|P_END
+

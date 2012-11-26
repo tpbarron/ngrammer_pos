@@ -1,0 +1,15 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 13|CD gdp|NN $|$ 423bn|CD ppp|CD $|$ 347bn|CD inflation|NN 13|CD population|NN 85m|CD gdp|NN per|IN head|NN $|$ 49900|CD ppp|CD $|$ 40890|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cooperation|NN between|IN the|DT parties|NNS of|IN the|DT grand|NN coalition|NN has|VBZ been|VBN better|JJR this|DT time|NN than|IN during|IN their|PRP$ 200608|CD administration|NN but|CC state|NN elections|NNS due|JJ in|IN 2012|CD could|MD create|VB tensions|NNS and|CC a|DT return|NN to|TO the|DT old|JJ bickering|NN </s>|S_END
+<s>|S_START the|DT austrian|JJ peoples|NNS party|NN and|CC the|DT social|JJ democratic|JJ party|NN on|IN opposite|JJ sides|NNS of|IN the|DT political|JJ centre|NN will|MD stay|VB friends|NNS by|IN shunning|VBG major|JJ reform|NN </s>|S_END
+<s>|S_START fiscal|JJ austerity|NN at|IN home|NN and|CC in|IN foreign|JJ markets|NNS will|MD hurt|VB the|DT economy|NN but|CC austria|IN will|MD continue|VB to|TO grow|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB cry|NN freedom|NN </s>|S_END
+<s>|S_START the|DT rightwing|NN freedom|NN party|NN will|MD gain|VB adherents|NNS as|IN austerity|NN bites|NNS but|CC its|PRP$ extreme|NN antiforeigner|NN message|NN will|MD scare|VB off|RP potential|JJ coalition|NN partners|NNS and|CC it|PRP will|MD stay|VB in|IN opposition|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,103 @@
+<p>|P_START
+<s>|S_START our|PRP$ yield|NN used|VBN to|TO be|VB this|DT small|JJ </s>|S_END
+<s>|S_START but|CC not|RB anymore|JJR </s>|S_END
+<s>|S_START cisco|NN ceo|VBD john|NN chambers|NNS delighted|VBD investors|NNS with|IN a|DT 75|CD dividend|NN hike|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT opinions|NNS expressed|VBN in|IN this|DT commentary|JJ are|VBP solely|RB those|DT of|IN paul|JJ r|NN la|NN monica|NN </s>|S_END
+<s>|S_START other|JJ than|IN time|NN warner|NN the|DT parent|NN of|IN cnnmoney|NN and|CC abbott|NN laboratories|NNS la|VBP monica|NN does|VBZ not|RB own|VB positions|NNS in|IN any|DT individual|JJ stocks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START who|WP needs|VBZ to|TO own|VB a|DT boring|NN us|PRP treasury|NN bond|NN when|WRB you|PRP can|MD buy|VB an|DT exciting|JJ tech|NN stock|NN and|CC get|VB a|DT similar|JJ or|CC in|IN many|JJ cases|NNS higher|JJR yield|NN in|IN the|DT process|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cisco|NN systems|NNS csco|VBP announced|VBN wednesday|NN that|IN it|PRP is raising|JJ its|PRP$ dividend|NN by|IN 75|CD </s>|S_END
+<s>|S_START the|DT move|NN is|VBZ a response|JJ to|TO calls|NNS from|IN shareholders|NNS who|WP wanted|VBN the|DT company|NN to|TO put|VB more|JJR of|IN its|PRP$ nearly|RB $|$ 50|CD billion|CD in|IN cash|NN or|CC caysh|JJ if|IN you|PRP talk|VBP like|IN cisco|NN ceo|NN john|NN chambers|NNS to|TO productive|VB use|NN </s>|S_END
+<s>|S_START once|RB that|IN dividend|NN hike|IN takes|NNS effect|NN the|DT yield|NN on|IN ciscos|NNS stock|NN will|MD be|VB more|RBR than|IN 3|CD </s>|S_END
+<s>|S_START by|IN comparison|NN the|DT 10year|JJ treasury|NN yields|NNS just|RB 18|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD cisco|VBN joins|NNS the|DT tech|NN rally|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cisco|NN whose|VBD shares|NNS surged|VBD nearly|RB 8|CD thursday|NN is|VBZ not|RB the|DT only|JJ tech|NN titan|NN offering|NN yields|NNS that|WDT rival|NN uncle|NN sams|NNS </s>|S_END
+<s>|S_START shares|NNS of|IN ibm|NN ibm|NN yield|NN 17|CD </s>|S_END
+<s>|S_START texas|NNS instruments|NNS txn|VBP has|VBZ a|DT dividend|NN that|WDT yields|VBZ 23|CD </s>|S_END
+<s>|S_START microsofts|NNS msft|VBD stock|NN yields|NNS 26|CD </s>|S_END
+<s>|S_START intel|NN intc|NN pays|NNS a|DT dividend|NN that|WDT yields|VBZ 34|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC while|IN apples|NNS aapl|VBP newly|RB issued|VBN dividend|NN yields|NNS 17|CD slightly|RB less|JJR than|IN the|DT 10year|JJ treasury|NN bond|NN apple|NN should|MD be|VB in|IN a|DT position|NN to|TO keep|VB increasing|VBG that|IN dividend|NN for|IN many|JJ years|NNS to|TO come|VB thanks|NNS to|TO its|PRP$ more|JJR than|IN $|$ 110|CD billion|CD in|IN cash|NN on|IN hand|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN this|DT point|NN many|JJ of|IN these|DT blue|JJ chip|NN tech|NN stocks|NNS offer|VBP the|DT best|JJS of|IN all|DT worlds|NNS to|TO investors|NNS growth|NN income|NN and|CC value|NN </s>|S_END
+<s>|S_START with|IN many|JJ consumers|NNS worried|VBN about|IN the|DT health|NN of|IN the|DT economy|NN a|DT top|JJ tech|NN seems|VBZ like|IN a|DT much|JJ safer|NN bet|NN than|IN us|PRP treasury|VBP bonds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD investors|NNS still|RB view|VB us|PRP debt|NN as|IN aaa|NN for|IN now|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START wouldnt|NN you|PRP rather|RB own|JJ a|DT company|NN like|IN apple|NN which|WDT continues|VBZ to|TO generate|VB solid|JJ sales|NNS and|CC profits|NNS from|IN just|RB about|IN ieverything|VBG or|CC microsoft|JJ which|WDT seems|VBZ poised|VBN to|TO hit|VB it|PRP big|JJ with|IN the|DT upcoming|VBG windows|NNS 8|CD launch|NN than|IN the|DT debt|NN of|IN a|DT country|NN thats|NNS faced|VBD with|IN soaring|NN budget|NN deficits|NNS and|CC a|DT looming|NN fiscal|JJ cliff|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whats|NNS more|JJR none|NN of|IN the|DT top|JJ techs|NNS trade|VBP at|IN nosebleed|NN valuations|NNS </s>|S_END
+<s>|S_START they|PRP are|VBP all|RB considerably|RB cheaper|JJR than|IN facebook|NN fb|NN which|WDT is|VBZ still|RB valued|VBN at|IN 40|CD times|NNS 2012|CD earnings|NNS forecasts|NNS even|RB though|IN the|DT companys|NNS stock|NN price|NN has|VBZ been|VBN cut|VBN in|IN half|DT since|NN its|PRP$ ipo|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sure|RB some|DT tech|NN stocks|NNS have|VBP high|JJ dividend|NN yields|NNS simply|RB because|IN their|PRP$ stock|NN price|NN has|VBZ plunged|VBN thanks|NNS to|TO concerns|NNS about|IN their|PRP$ longterm|NN health|NN </s>|S_END
+<s>|S_START remember|NN that|IN the|DT yield|NN is|VBZ calculated|VBN by|IN dividing|NN the|DT dividend|NN by|IN the|DT stock|NN price|NN </s>|S_END
+<s>|S_START hewlettpackard|NN hpq|NN has|VBZ an|DT impressivelooking|NN yield|NN of|IN 27|CD but|CC the|DT stock|NN is|VBZ down|IN 25|CD this|DT year|NN following|VBG a|DT nearly|RB 40|CD drop|NN in|IN 2011|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD can|MD anyone|NN save|VB hp|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN hp|NN struggles|NNS to|TO find|VB its|PRP$ way|NN in|IN the|DT new|JJ mobile|NN world|NN the|DT companys|NNS dividend|NN may|MD not|RB be|VB as|RB secure|VB as|IN apples|NNS or|CC microsofts|NNS </s>|S_END
+<s>|S_START and|CC even|RB if|IN hp|NN doesnt|NN wind|NN up|IN cutting|VBG its|PRP$ dividend|NN you|PRP still|RB shouldnt|VBP be|VB buying|VBG a|DT stock|NN just|RB because|IN it|PRP issues|VBZ quarterly|RB checks|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN all|DT many|JJ investors|NNS prefer|VBP to|TO take|VB the|DT dividends|NNS and|CC automatically|RB reinvest|VBP in|IN stock|NN of|IN the|DT parent|NN company|NN </s>|S_END
+<s>|S_START so|IN a|DT dividend|NN from|IN a|DT tech|NN stock|NN should|MD be|VB an|DT added|VBN bonus|NN from|IN a|DT healthy|JJ company|NN not|RB a|DT consolation|NN prize|NN to|TO soften|VB the|DT blow|NN of|IN a|DT sinking|NN share|NN price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fortunately|RB hp|VBP is|VBZ the|DT exception|NN not|RB the|DT rule|NN </s>|S_END
+<s>|S_START just|RB about|IN every|DT top|JJ tech|NN with|IN a|DT pristine|NN balance|NN sheet|NN is|VBZ now|RB paying|VBG a|DT dividend|NN and|CC the|DT shares|NNS of|IN all|DT those|DT companies|NNS are|VBP up|RB this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ one|CD major|JJ holdout|NN in|IN the|DT club|NN google|NN goog|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START come|NN on|IN larry|NN sergey|NN and|CC eric|JJ </s>|S_END
+<s>|S_START what|WP are|VBP you|PRP waiting|VBG for|IN </s>|S_END
+<s>|S_START dont|NN be|VB evil|JJ </s>|S_END
+<s>|S_START start|NN using|VBG some|DT of|IN that|DT more|RBR than|IN $|$ 48|CD billion|CD in|IN cash|NN on|IN a|DT dividend|NN </s>|S_END
+<s>|S_START you|PRP dont|VBD need|VBP it|PRP all|DT for|IN acquisitions|NNS and|CC research|NN and|CC development|NN </s>|S_END
+<s>|S_START a|DT dividend|NN doesnt|NN have|VBP to|TO mean|VB youre|NN throwing|VBG in|IN the|DT towel|NN on|IN innovation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tech|NN companies|NNS are|VBP no|DT longer|JJR being|VBG penalized|VBN for|IN paying|NN a|DT dividend|NN </s>|S_END
+<s>|S_START in|IN fact|NN investors|NNS seem|VBP to|TO be|VB rewarding|VBG tech|NN companies|NNS for|IN doing|VBG the|DT mature|NN thing|NN of|IN returning|VBG cash|NN to|TO shareholders|NNS instead|RB of|IN wasting|VBG it|PRP on|IN silly|RB deals|NNS of|IN little|JJ strategic|JJ value|NN </s>|S_END
+<s>|S_START can|MD you|PRP say|VB cisco|NN and|CC flip|NN video|NN </s>|S_END
+</p>|P_END
+

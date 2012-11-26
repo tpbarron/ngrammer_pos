@@ -1,0 +1,56 @@
+<p>|P_START
+<s>|S_START it|PRP is|VBZ nearly|RB 25|CD years|NNS since|IN the|DT economist|NN cooked|VBD up|RP the|DT big|JJ mac|NN index|NN </s>|S_END
+<s>|S_START we|PRP devised|VBD it|PRP in|IN september|NN 1986|CD as|IN a|DT fun|NN way|NN to|TO explain|VB “purchasingpower|JJ parity”|NN by|IN comparing|NN the|DT prices|NNS of|IN hamburgers|NNS in|IN different|JJ countrie|NN </s>|S_END
+<s>|S_START but|CC burgernomics|NNS has|VBZ since|IN provided|VBN serious|JJ food|NN for|IN thought|NN </s>|S_END
+<s>|S_START ome|NN economists|NNS think|VBP the|DT big|JJ mac|NN index|NN has|VBZ been|VBN surprisingly|RB accurate|JJ in|IN predicting|NN longrun|NN movements|NNS in|IN exchange|NN rate|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ also|RB provided|VBN a|DT few|JJ hot|JJ tips|NNS and|CC some|DT halfbaked|JJ ones|NNS for|IN investor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB the|DT euro|NN was|VBD launched|VBN in|IN 1999|CD almost|RB everybody|NN reckoned|VBD it|PRP would|MD immediately|RB rise|VB against|IN the|DT dollar|NN </s>|S_END
+<s>|S_START but|CC the|DT big|JJ mac|NN index|NN suggested|VBD that|IN the|DT euro|NN was|VBD already|RB overvalued|VBN </s>|S_END
+<s>|S_START oros|NNS fund|VBD management|NN a|DT prominent|NN hedge|NN fund|NN later|JJ told|NN us|PRP that|IN it|PRP sniffed|VBD at|IN the|DT sell|NN smell|NN coming|VBG from|IN the|DT big|JJ mac|NN index|NN but|CC resisted|VBD the|DT temptation|NN to|TO bite|VB </s>|S_END
+<s>|S_START it|PRP was|VBD cheesed|VBN off|RP when|WRB the|DT euro|NN promptly|RB fell|VBD </s>|S_END
+<s>|S_START today|NN our|PRP$ burger|NN barometer|NN suggests|VBZ that|IN the|DT euro|NN is|VBZ again|RB overvalued|VBN against|IN the|DT other|JJ main|NN currencies|NNS and|CC it|PRP highlights|VBZ the|DT euro|NN areas|NNS internal|JJ problems|NNS showing|VBG that|IN greece|NN italy|RB portugal|JJ and|CC spain|NN have|VBP lost|VBN competitiveness|NN relative|JJ to|TO germany|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START burgernomics|NNS is|VBZ also|RB a|DT handy|NN check|NN on|IN whether|IN governments|NNS are|VBP understating|VBG inflation|NN </s>|S_END
+<s>|S_START it|PRP supports|VBZ claims|VBZ that|IN argentina|NN has|VBZ been|VBN cooking|VBG the|DT books|NNS over|IN the|DT past|JJ decade|NN big|JJ mac|NN prices|NNS there|EX have|VBP on|IN average|JJ risen|NN by|IN well|RB over|IN ten|VBN percentage|NN points|NNS more|RBR each|DT year|NN than|IN the|DT official|NN consumerprice|NN index—a|NN far|RB bigger|JJR gap|NN than|IN in|IN any|DT other|JJ country|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC bingeing|VBG on|IN burgernomics|NNS can|MD be|VB unhealthy|JJ </s>|S_END
+<s>|S_START american|NN politicians|NNS cite|VBP the|DT big|JJ mac|NN index|NN as|IN proof|JJ that|IN the|DT yuan|NN is|VBZ massively|RB undervalued|VBN </s>|S_END
+<s>|S_START it|PRP is|VBZ true|JJ that|IN burgers|NNS are|VBP cheap|NN in|IN china|NN but|CC so|RB they|PRP should|MD be|VB in|IN all|DT emerging|VBG economies|NNS because|IN wages|NNS are|VBP much|RB lower|JJR </s>|S_END
+<s>|S_START if|IN the|DT index|NN is|VBZ adjusted|VBN for|IN gdp|NN per|IN person|NN it|PRP shows|VBZ that|IN the|DT yuan|NN is|VBZ now|RB close|JJ to|TO its|PRP$ fair|NN value|NN against|IN the|DT dollar|NN see|VBP our|PRP$ economics|NNS focu|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START alternative|NN currency|NN benchmarks|NNS have|VBP been|VBN proposed|VBN based|VBN on|IN the|DT prices|NNS of|IN ipods|NNS ikea|VBP bookshelves|NNS starbucks|NNS lattes|NNS and|CC even|RB the|DT economist|NN itself|PRP </s>|S_END
+<s>|S_START none|NN really|RB cuts|VBZ the|DT mustard|NN </s>|S_END
+<s>|S_START tudies|NNS suggest|VBP that|IN the|DT big|JJ mac|NN index|NN fairly|RB closely|RB tracks|VBZ the|DT purchasingpowerparity|NN rates|NNS calculated|VBN by|IN more|RBR sophisticated|JJ method|NN </s>|S_END
+<s>|S_START yet|RB whereas|VBD those|DT fancier|JJR techniques|NNS require|VBP researchers|NNS to|TO gather|VB thousands|NNS of|IN prices|NNS in|IN each|DT country|NN and|CC take|VB two|CD years|NNS to|TO produce|VB the|DT big|JJ mac|NN index|NN relies|NNS on|IN a|DT single|JJ product|NN so|IN the|DT results|NNS are|VBP almost|RB instant|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT general|JJ problem|NN with|IN official|NN economic|JJ statistics|NNS is|VBZ that|IN they|PRP are|VBP published|VBN only|RB after|IN a|DT lag|NN and|CC are|VBP subject|JJ to|TO big|JJ revision|NN </s>|S_END
+<s>|S_START this|DT explains|VBZ the|DT popularity|NN of|IN quirky|JJ but|CC timely|RB indicators|NNS such|JJ as|IN the|DT crane|NN index|NN the|DT number|NN of|IN cranes|NNS you|PRP can|MD see|VB from|IN a|DT given|VBN point|NN in|IN a|DT city|NN the|DT lipstick|NN index|NN when|WRB things|NNS get|VBP tough|IN women|NNS buy|VB lipsticks|NNS instead|RB of|IN dresses|NNS and|CC our|PRP$ own|JJ rword|NN index|NN which|WDT gives|VBZ early|RB warning|VBG of|IN recessions|NNS by|IN counting|VBG newspaper|NN stories|NNS which|WDT mention|NN the|DT r|NN word|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB alan|NN greenspan|NN was|VBD chairman|NN of|IN the|DT federal|JJ reserve|NN he|PRP monitored|VBD several|JJ unusual|JJ measure|NN </s>|S_END
+<s>|S_START one|CD favourite|JJ supposedly|RB was|VBD sales|NNS of|IN mens|NNS underwear|VBP which|WDT are|VBP usually|RB pretty|RB constant|JJ but|CC drop|NN in|IN recessions|NNS when|WRB men|NNS replace|VBP them|PRP less|JJR often|RB </s>|S_END
+<s>|S_START the|DT old|JJ lady|NN of|IN threadneedle|NN street|NN is|VBZ perhaps|RB too|RB prim|JJ to|TO inspect|VB mens|NNS underpant|JJ </s>|S_END
+<s>|S_START instead|RB the|DT bank|NN of|IN england|NN tracks|NNS data|NNS on|IN internet|NN searches|NNS for|IN telltale|NN term|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ for|IN example|NN found|VBD that|IN the|DT trend|NN in|IN searches|NNS for|IN “estate|JJ agents”|NN can|MD be|VB a|DT predictor|NN of|IN house|NN price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP is|VBZ time|NN for|IN another|DT unorthodox|NN measure|NN </s>|S_END
+<s>|S_START a|DT more|RBR modern|JJ or|CC just|RB lazier|JJR outfit|NN these|DT days|NNS the|DT economist|NN is|VBZ giving|VBG “crowdsourcing”|JJ a|DT try|NN </s>|S_END
+<s>|S_START what|WP international|JJ indicator|NN edible|JJ or|CC otherwise|RB could|MD usefully|RB be|VB served|VBN with|IN big|JJ maccurrencie|NN </s>|S_END
+<s>|S_START readers|NNS can|MD send|VB suggestions|NNS to|TO deliciousdataeconomistcom|VB </s>|S_END
+<s>|S_START we|PRP will|MD publish|VB any|DT especially|RB tasty|JJ morsel|NN </s>|S_END
+</p>|P_END
+

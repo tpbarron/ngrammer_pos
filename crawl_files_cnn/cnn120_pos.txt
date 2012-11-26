@@ -1,0 +1,106 @@
+<p>|P_START
+<s>|S_START house|NN speaker|NN john|NN boehner|NN wants|VBZ big|JJ spending|NN cuts|NNS in|IN exchange|NN for|IN support|NN to|TO raise|VB the|DT debt|NN ceiling|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN house|NN speaker|NN john|NN boehner|NN indicated|VBD monday|NN that|IN he|PRP plans|VBZ to|TO hold|VB a|DT hard|JJ line|NN in|IN debtceiling|NN negotiations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START among|IN his|PRP$ demands|NNS spending|VBG cuts|NNS in|IN exchange|NN for|IN support|NN to|TO raise|VB the|DT debt|NN ceiling|NN and|CC the|DT cuts|NNS will|MD have|VB to|TO be|VB greater|JJR in|IN magnitude|NN than|IN the|DT ceiling|NN increase|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START without|IN significant|JJ spending|NN cuts|NNS and|CC the|DT way|NN we|PRP spend|VBP americans|NNS money|NN there|RB will|MD be|VB no|RB debt|NN limit|NN increase|NN </s>|S_END
+<s>|S_START and|CC the|DT cuts|NNS should|MD be|VB greater|JJR than|IN the|DT accompanying|NN increase|NN in|IN debt|NN authority|NN the|DT president|NN is|VBZ given|VBN boehner|NN said|VBD in|IN a|DT speech|NN at|IN the|DT economic|JJ club|NN of|IN new|JJ york|NN </s>|S_END
+<s>|S_START debt|NN ceiling|NN what|WP you|PRP need|VBP to|TO know|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START boehner|NN reiterated|VBD his|PRP$ stance|NN that|IN the|DT spending|NN cuts|NNS should|MD be|VB in|IN the|DT trillions|NNS not|RB just|RB billions|NNS and|CC that|IN simply|RB agreeing|VBG to|TO spending|NN and|CC deficit|NN goals|NNS for|IN the|DT future|NN wont|NN suffice|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START they|PRP should|MD be|VB actual|JJ cuts|NNS and|CC real|JJ reforms|NNS to|TO these|DT programs|NNS not|RB broad|JJ deficit|NN or|CC debt|NN targets|NNS that|WDT punt|NN the|DT tough|JJ questions|NNS to|TO the|DT future|NN </s>|S_END
+<s>|S_START and|CC with|IN the|DT exception|NN of|IN tax|NN hikes|NNS which|WDT in|IN my|PRP$ opinion|NN will|MD destroy|VB jobs|NNS everything|VBG is|VBZ on|IN the|DT table|NN boehner|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ unclear|JJ just|RB how|WRB many|JJ trillions|NNS in|IN spending|NN cuts|NNS boehner|NN is|VBZ seeking|VBG and|CC over|IN what|WP time|NN frame|VBD </s>|S_END
+<s>|S_START but|CC he|PRP may|MD be|VB laying|VBG down|IN a|DT marker|NN of|IN more|JJR than|IN $|$ 2|CD trillion|CD since|IN congressional|JJ sources|NNS tell|VBP cnn|NN they|PRP expect|VBP the|DT house|NN could|MD vote|VB to|TO increase|VB the|DT debt|NN ceiling|NN by|IN about|RB $|$ 2|CD trillion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START boehner|NN delivered|VBD these|DT remarks|NNS on|IN the|DT same|JJ day|NN that|IN tea|NN party|NN activists|NNS accused|VBD him|PRP of|IN being|VBG a|DT surrenderist|NN who|WP waves|NNS the|DT white|JJ flag|NN before|IN the|DT first|JJ shot|NN is|VBZ fired|VBN and|CC most|JJS cuttingly|RB a|DT wimpy|NN republican|NN in|IN name|NN only|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ not|RB clear|JJ whether|IN his|PRP$ hard|JJ line|NN will|MD temper|VB tea|NN party|NN frustrations|NNS or|CC how|WRB it|PRP will|MD play|VB at|IN the|DT negotiating|NN table|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START democrats|NNS arent|VBD likely|JJ to|TO embrace|VB his|PRP$ opening|NN bid|NN </s>|S_END
+<s>|S_START boehners|NNS proposal|NN seems|VBZ farfetched|VBN sen|NN daniel|NN inouye|NN told|VBD cnn|NN </s>|S_END
+<s>|S_START inouye|NN chairman|NN of|IN the|DT senate|NN appropriations|NNS committee|NN is|VBZ helping|VBG to|TO negotiate|VB a|DT debt|NN ceiling|NN deal|NN in|IN talks|NNS led|VBN by|IN vice|NN president|NN joe|NN biden|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD congressional|JJ observer|NN wasnt|NN expecting|VBG boehners|NNS position|NN to|TO be|VB quite|RB so|RB strongly|RB stated|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP find|VBP these|DT remarks|NNS a|DT little|RB surprising|JJ because|IN they|PRP leave|VBP less|RBR wiggle|JJ room|NN than|IN i|PRP might|MD have|VB imagined|VBN said|VBN norm|NN ornstein|NN a|DT resident|NN fellow|NN at|IN the|DT american|JJ enterprise|NN institute|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP said|VBD boehner|NN might|MD be|VB trying|VBG to|TO convince|NN his|PRP$ freshmen|NNS and|CC hardliners|NNS that|WDT he|PRP has|VBZ tried|VBN to|TO strike|VB the|DT toughest|JJS bargain|NN he|PRP could|MD but|VB it|PRP is|VBZ risky|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bond|NN market|NN experts|NNS said|VBD they|PRP understand|VBP why|WRB boehner|NN is|VBZ talking|VBG tough|JJ early|JJ in|IN the|DT negotiations|NNS offering|VBG red|VBN meat|NN to|TO the|DT masses|NNS as|IN calvin|NN sullivan|NN of|IN morgan|NN keegan|NN co|NN put|VBD it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC jim|VBP vogel|NN head|NN of|IN interest|NN rate|NN strategies|NNS at|IN ftn|NN financial|JJ said|VBD boehners|NNS remarks|NNS arent|VBP likely|JJ to|TO unsettle|VB the|DT markets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START still|RB the|DT showdown|NN over|IN the|DT debt|NN ceiling|NN could|MD backfire|VB </s>|S_END
+<s>|S_START any|DT action|NN that|IN weakens|NNS the|DT investment|NN communitys|NNS confidence|NN in|IN the|DT us|PRP governments|VBZ willingness|NN to|TO stand|VB behind|IN its|PRP$ obligations|NNS could|MD have|VB longlasting|VBG destabilizing|VBG effects|NNS to|TO investment|NN markets|NNS sullivan|VBP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT expectation|NN and|CC the|DT concern|NN is|VBZ that|IN the|DT negotiations|NNS over|IN the|DT debt|NN ceiling|NN will|MD go|VB down|RB to|TO the|DT wire|NN just|RB as|IN the|DT 2011|CD budget|NN negotiations|NNS did|VBD when|WRB a|DT deal|NN was|VBD struck|NN 90|CD minutes|NNS before|IN a|DT scheduled|VBN government|NN shutdown|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START treasury|NN secretary|NN tim|NN geithner|NN has|VBZ said|VBN he|PRP expects|VBZ us|PRP borrowing|VBG to|TO hit|VB the|DT debt|NN ceiling|NN by|IN may|MD 16|CD but|CC he|PRP estimates|VBZ he|PRP can|MD use|VB extraordinary|JJ measures|NNS to|TO keep|VB the|DT united|VBN states|NNS out|IN of|IN default|NN until|IN aug|NN 2|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN that|DT however|RB the|DT united|VBN states|NNS will|MD only|RB be|VB allowed|VBN to|TO spend|VB what|WP it|PRP takes|VBZ in|IN from|IN federal|JJ revenue|NN </s>|S_END
+<s>|S_START that|DT means|VBZ on|IN average|JJ the|DT country|NN will|MD come|VB up|RP short|JJ by|IN about|RB $|$ 118|CD billion|CD a|DT month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN that|DT point|NN geithner|NN will|MD have|VB to|TO pick|VB and|CC choose|VB which|WDT bills|NNS to|TO pay|VB </s>|S_END
+<s>|S_START several|JJ conservative|JJ lawmakers|NNS say|VBP the|DT country|NN wont|NN be|VB in|IN default|NN on|IN its|PRP$ obligations|NNS as|IN long|RB as|IN it|PRP continues|VBZ to|TO pay|VB the|DT interest|NN owed|VBD on|IN us|PRP debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC geithner|NN believes|NNS any|DT failure|NN to|TO meet|VB a|DT legal|JJ obligation|NN will|MD be|VB perceived|VBN as|IN a|DT default|NN by|IN the|DT markets|NNS with|IN punishing|VBG longterm|NN consequences|NNS for|IN the|DT us|PRP economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START boehner|NN who|WP in|IN the|DT past|JJ has|VBZ indicated|VBN that|IN the|DT debt|NN ceiling|NN has|VBZ to|TO be|VB raised|VBN no|DT matter|NN what|WP suggested|VBN on|IN monday|NN that|IN worse|NN things|NNS could|MD happen|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ true|JJ that|IN allowing|VBG america|NN to|TO default|VB would|MD be|VB irresponsible|JJ </s>|S_END
+<s>|S_START but|CC it|PRP would|MD be|VB more|RBR irresponsible|JJ to|TO raise|VB the|DT debt|NN ceiling|NN without|IN simultaneously|RB taking|VBG dramatic|JJ steps|NNS to|TO reduce|VB spending|NN and|CC reform|NN the|DT budget|NN process|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnn|NN congressional|JJ producers|NNS deirdre|VBP walsh|JJ and|CC ted|VBD barrett|NN and|CC senior|JJ congressional|JJ correspondent|NN dana|NNS bash|VBP contributed|VBN to|TO this|DT report |NN </s>|S_END
+</p>|P_END
+

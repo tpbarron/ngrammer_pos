@@ -1,0 +1,49 @@
+<p>|P_START
+<s>|S_START britains|NNS politicians|NNS lament|VBP its|PRP$ loss|NN of|IN industrial|JJ prowess|NN and|CC cringe|NN at|IN its|PRP$ gift|NN for|IN banking|NN </s>|S_END
+<s>|S_START one|CD kind|NN of|IN enterprise|NN that|IN cheers|NNS them|PRP is|VBZ the|DT creative|JJ sector|NN which|WDT has|VBZ grown|VBN twice|NN as|IN fast|JJ as|IN the|DT rest|NN of|IN the|DT economy|NN over|IN the|DT past|JJ decade|NN </s>|S_END
+<s>|S_START fashion|NN entertainment|VBD advertising|NN and|CC digital|JJ technology|NN are|VBP all|DT strength|NN </s>|S_END
+<s>|S_START britain|NN was|VBD well|RB represented|VBN at|IN this|DT years|NNS south|VBP by|IN southwest|JJS a|DT music|NN and|CC film|NN festival|NN in|IN texas—where|JJ on|IN march|NN 11th|CD it|PRP was|VBD announced|VBN that|IN jimmy|NN wales|NNS the|DT founder|NN of|IN wikipedia|NNS would|MD join|VB the|DT government|NN as|IN an|DT adviser|NN </s>|S_END
+<s>|S_START george|NN osborne|NN the|DT chancellor|NN of|IN the|DT exchequer|NN and|CC a|DT culture|NN vulture|NN has|VBZ taken|VBN an|DT interest|NN in|IN the|DT sector|NN since|IN his|PRP$ days|NNS in|IN opposition|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT creative|JJ industries|NNS are|VBP less|JJR popular|JJ with|IN investor|NN </s>|S_END
+<s>|S_START banks|NNS and|CC venture|NN capitalists|NNS tend|VBP to|TO regard|VB the|DT sector|NN as|IN riskier—and|JJ less|NN motivated|VBN by|IN profit—than|JJ more|JJR humdrum|NN parts|NNS of|IN the|DT economy|NN </s>|S_END
+<s>|S_START “the|DT mindset|NN of|IN a|DT creative|JJ entrepreneur|NN and|CC your|PRP$ average|NN investor|NN are|VBP poles|NNS apart”|-NONE- says|VBZ andy|NN heath|NN of|IN beggars|NNS group|NN an|DT independent|JJ record|NN label|NN </s>|S_END
+<s>|S_START a|DT report|NN for|IN the|DT government|NN by|IN stuart|NN fraser|NN of|IN warwick|NN business|NN school|NN found|VBD that|IN creative|JJ firms|NNS are|VBP likelier|JJR than|IN other|JJ businesses|NNS to|TO be|VB discouraged|VBN from|IN even|RB applying|VBG for|IN finance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START omething|VBG of|IN a|DT fightback|NN against|IN the|DT doubting|NN moneymen|NNS has|VBZ begun|VBN </s>|S_END
+<s>|S_START the|DT sector|NN is|VBZ increasingly|RB quick|JJ to|TO challenge|VB assumptions|NNS about|IN its|PRP$ riskine|NN </s>|S_END
+<s>|S_START figures|NNS unearthed|VBD for|IN the|DT demos|NNS thinktank|VBP last|JJ year|NN by|IN helen|NN burrows|VBZ a|DT former|JJ adviser|NN to|TO ed|VBN vaizey|NN the|DT culture|NN minister|NN showed|VBD that|IN the|DT survival|NN rate|NN for|IN creative|JJ startups|NNS is|VBZ slightly|RB higher|JJR than|IN for|IN other|JJ young|JJ businesse|NN </s>|S_END
+<s>|S_START urvival|NN is|VBZ not|RB the|DT same|JJ as|IN success|NN of|IN course|NN </s>|S_END
+<s>|S_START but|CC the|DT numbers|NNS suggest|VBP that|IN creative|JJ entrepreneurs|NNS are|VBP hardheaded|VBN about|IN cutting|VBG costs|NNS during|IN tough|JJ time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT government|NN is|VBZ trying|VBG to|TO help|VB </s>|S_END
+<s>|S_START on|IN april|NN 6th|CD the|DT seed|NN enterprise|NN investment|NN scheme|NN seis|NNS will|MD come|VB into|IN effect|NN </s>|S_END
+<s>|S_START this|DT allows|VBZ an|DT investor|NN to|TO put|VB up|RP to|TO £100000|-NONE- $|$ 157000|CD into|IN a|DT small|JJ business|NN and|CC claim|NN 50|CD tax|NN relief|NN </s>|S_END
+<s>|S_START although|IN it|PRP is|VBZ open|JJ to|TO almost|RB all|DT firms|NNS the|DT policy|NN was|VBD designed|VBN for|IN those|DT which|WDT find|VBP it|PRP hard|RB to|TO raise|VB external|JJ finance|NN because|IN investors|NNS see|VBP them|PRP as|IN risky|JJ </s>|S_END
+<s>|S_START the|DT music|NN and|CC film|NN sectors|NNS are|VBP especially|RB excited|VBN </s>|S_END
+<s>|S_START but|CC the|DT government|NN expects|VBZ that|IN technology|NN including|VBG the|DT cluster|NN of|IN internet|NN firms|NNS around|IN the|DT old|JJ street|NN roundabout|IN in|IN london|NN pictured|VBD will|MD be|VB the|DT main|JJ winner|NN </s>|S_END
+<s>|S_START ascend|NN a|DT new|JJ seed|NN investment|NN fund|NN specialising|VBG in|IN creative|JJ businesses|NNS will|MD launch|VB on|IN the|DT same|JJ day|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT treasury|NN usually|RB counsels|VBZ against|IN fiddly|RB marketdistorting|VBG scheme|NN </s>|S_END
+<s>|S_START civil|NN servants|NNS like|IN to|TO say|VB that|IN their|PRP$ ideal|NN budget|NN speech|NN would|MD last|VB ten|RB minute|JJ </s>|S_END
+<s>|S_START ome|NN suspect|VBD that|IN mr|NN osbornes|NNS announcement|NN in|IN november|NN had|VBD a|DT chilling|NN effect|NN on|IN seed|NN investment|NN in|IN the|DT first|JJ quarter|NN of|IN this|DT year|NN as|IN financiers|NNS sat|IN on|IN cash|NN until|IN april|NN </s>|S_END
+<s>|S_START but|CC even|RB nigel|VBP lawson|NN the|DT chancellor|NN most|JJS taken|VBN with|IN the|DT treasurys|NNS doctrine|VBP of|IN simplicity|NN introduced|VBN a|DT “business|JJ expansion|NN scheme”|NN in|IN 1983|CD which|WDT seis|NNS resemble|VBP </s>|S_END
+<s>|S_START and|CC the|DT hunger|NN for|IN growth|NN means|VBZ mr|NN osborne|NN has|VBZ to|TO be|VB seen|VBN to|TO be|VB doing|VBG something|NN beyond|IN macroeconomic|JJ strategy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP may|MD be|VB that|IN underlying|VBG trends|NNS will|MD alleviate|VB the|DT problem|NN </s>|S_END
+<s>|S_START previously|RB safe|VBP investments|NNS such|JJ as|IN equities|NNS and|CC sovereign|NN debt|NN are|VBP looking|VBG risky|JJ </s>|S_END
+<s>|S_START ome|NN investors|NNS confess|NN that|IN there|EX is|VBZ social|JJ cachet|NN in|IN being|VBG able|JJ to|TO tell|VB people|NNS that|WDT they|PRP are|VBP involved|VBN in|IN fun|NN sectors|NNS such|JJ as|IN music|JJ </s>|S_END
+<s>|S_START and|CC technology|NN has|VBZ driven|VBN down|RP entrance|NN costs|NNS and|CC thus|RB financing|VBG needs|NNS in|IN much|JJ of|IN the|DT creative|JJ sector|NN </s>|S_END
+<s>|S_START if|IN the|DT seis|NNS only|RB amounts|VBZ to|TO a|DT nudge|NN that|WDT may|MD be|VB all|PDT that|DT is|VBZ required|VBN </s>|S_END
+</p>|P_END
+

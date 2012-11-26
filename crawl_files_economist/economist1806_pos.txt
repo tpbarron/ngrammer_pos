@@ -1,0 +1,81 @@
+<p>|P_START
+<s>|S_START on|IN january|JJ 16th|CD 2003|CD 82|CD seconds|NNS after|IN the|DT space|NN shuttle|NN columbia|NN lifted|VBD off|RP a|DT piece|NN of|IN foam|NN insulation|NN weighing|VBG less|JJR than|IN a|DT kilogram|NN broke|NN off|IN its|PRP$ fuel|NN tank|NN and|CC hit|VBD the|DT left|NN wing|VBG </s>|S_END
+<s>|S_START bosses|NNS at|IN americas|NNS space|NN agency|NN nasa|NN were|VBD largely|RB reassured|VBN by|IN a|DT subsequent|JJ presentation|NN delivered|VBN by|IN the|DT “debris|NNP assessment”|NNP team|NN </s>|S_END
+<s>|S_START they|PRP did|VBD not|RB request|NN that|WDT a|DT military|JJ spy|NN satellite|NN photograph|NN the|DT wing|NN in|IN orbit|NN before|IN reentry|NN </s>|S_END
+<s>|S_START but|CC its|PRP$ thermal|JJ protection|NN was|VBD in|IN fact|NN badly|RB damaged|VBN </s>|S_END
+<s>|S_START as|IN it|PRP reentered|VBD the|DT atmosphere|NN 13|CD days|NNS later|JJ the|DT shuttle|NN and|CC its|PRP$ crew|NN of|IN seven|CD burned|VBN up|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT report|NN eight|NN months|NNS later|JJ the|DT columbia|NN accident|NN investigation|NN board|NN cast|NN considerable|JJ blame|NN on|IN the|DT debrisassessment|NN teams|NNS presentation|NN to|TO higherups|NNS during|IN the|DT shuttles|NNS flight|VBD prepared|VBN using|VBG powerpoint|NN software|NN </s>|S_END
+<s>|S_START information|NN had|VBD been|VBN poorly|RB condensed|VBN onto|IN 28|CD slide|NN </s>|S_END
+<s>|S_START on|IN one|CD cluttered|VBN slide|NN the|DT words|NNS “significant”|-NONE- and|CC “significantly”|NNP were|VBD used|VBN five|CD times|NNS with|IN a|DT range|NN of|IN meanings|NNS from|IN “detectable|JJ in|IN a|DT perhaps|RB irrelevant|JJ calibration|NN case|NN study”|NN to|TO “an|JJ amount|NN of|IN damage|NN so|IN that|IN everyone|NN dies”|-NONE- noted|VBD edward|NN tufte|NN a|DT consultant|NN to|TO the|DT investigator|NN </s>|S_END
+<s>|S_START it|PRP was|VBD easy|JJ to|TO see|VB how|WRB managers|NNS could|MD have|VB viewed|VBN the|DT slides|NNS without|IN grasping|VBG the|DT level|NN of|IN danger|NN the|DT board|NN concluded|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rarely|RB of|IN course|NN does|VBZ a|DT botched|JJ slide|NN presentation|NN have|VBP such|JJ tragic|JJ consequence|NN </s>|S_END
+<s>|S_START but|CC as|IN dr|NN tufte|NN a|DT statistician|JJ at|IN yale|NN university|NN argues|NNS in|IN his|PRP$ book|NN “the|NNP cognitive|JJ style|NN of|IN powerpoint|NN pitching|VBG out|RP corrupts|NNS within”|-NONE- cramming|VBG information|NN onto|IN slides|NNS all|DT too|RB often|RB breeds|VBZ confusing|VBG jargon|NN alphabet|NN soup|NN and|CC verbless|NN phrases|NNS assembled|VBD into|IN bogus|NN bulletpoint|NN hierarchie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT new|JJ approach|NN then|RB would|MD be|VB greatly|RB welcomed|VBN by|IN many|JJ presenters|NNS and|CC audiences|NNS alike—and|VBP “deep|JJ zooming”|NN software|NN may|MD provide|VB it|PRP </s>|S_END
+<s>|S_START zoomable|JJ user|NN interfaces|NNS zuis|VBZ as|RB they|PRP are|VBP known|VBN are|VBP arriving|VBG on|IN the|DT coattails|NNS of|IN touchscreen|JJ gadgets|NNS such|JJ as|IN the|DT iphone|NN that|IN have|VB popularised|VBN zooming|VBG to|TO magnify|VB graphic|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN zuis|NNS pronounced|VBN zooees|NNS information|NN need|VBP not|RB be|VB chopped|VBN up|RP to|TO fit|VB on|IN uniformly|RB sized|VBN slide|NN </s>|S_END
+<s>|S_START instead|RB text|VBD images|NNS and|CC even|RB video|RB sit|VB on|IN a|DT single|JJ limitless|NN surface|NN and|CC can|MD be|VB viewed|VBN at|IN whatever|NN size|NN makes|VBZ most|JJS sense—up|JJ close|NN for|IN details|NNS or|CC zoomed|VBN out|RP for|IN the|DT big|JJ picture|NN </s>|S_END
+<s>|S_START the|DT presentation|NN software|NN designed|VBN by|IN prezi|NN a|DT firm|NN based|VBN in|IN budapest|JJS hungary|JJ is|VBZ based|VBN on|IN this|DT kind|NN of|IN “infinite|JJ canvas”|NN as|IN its|PRP$ founder|NN peter|NN halacsy|NN calls|VBZ it|PRP </s>|S_END
+<s>|S_START for|IN example|NN a|DT naturalist|NN delivering|VBG a|DT presentation|NN on|IN giraffe|NN habitats|NNS can|MD tuck|VB tables|NNS on|IN say|NN the|DT nutritional|JJ qualities|NNS of|IN foliage|NN into|IN the|DT leaves|NNS of|IN different|JJ tree|NN species|NNS seen|VBN in|IN satellite|JJ imagery|NN of|IN a|DT savanna|NN </s>|S_END
+<s>|S_START the|DT data|NNS could|MD be|VB left|VBN hidden|VBN for|IN a|DT talk|NN to|TO schoolchildren|VB or|CC zoomed|VBN in|IN on|IN and|CC revealed|VBN for|IN an|DT audience|NN of|IN scientist|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START before|IN giving|VBG a|DT talk|NN a|DT presenter|NN can|MD pick|VB waypoints|NNS on|IN the|DT canvas|NNS to|TO be|VB visited|VBN in|IN sequence|NN by|IN pressing|NN a|DT button|NN with|IN smooth|NN pans|NNS zooms|NNS and|CC rotations|NNS from|IN one|CD to|TO the|DT next|JJ </s>|S_END
+<s>|S_START but|CC prezi|VBP can|MD also|RB free|VB presenters|NNS from|IN the|DT predetermined|VBN sequence|NN epitomised|VBN by|IN a|DT “deck”|JJ of|IN slide|NN </s>|S_END
+<s>|S_START a|DT speaker|NN can|MD “fly”|VB over|IN the|DT canvas|NNS using|VBG spatial|JJ memory|NN to|TO access|NN information|NN when|WRB it|PRP is|VBZ needed|VBN </s>|S_END
+<s>|S_START prezi|NN has|VBZ more|JJR than|IN 10m|CD users|NNS and|CC signs|NNS up|IN another|DT 1m|CD or|CC so|RB each|DT month|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ become|VBN more|RBR prominent|JJ after|IN being|VBG used|VBN by|IN some|DT speakers|NNS at|IN ted|VBN a|DT conference|NN series|NN adored|VBD by|IN techie|NN </s>|S_END
+<s>|S_START ted|VBD is|VBZ an|DT investor|NN in|IN prezi|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START forthcoming|VBG software|NN for|IN timeline|NN presentations|NNS dubbed|VBD chronozoom|NN offers|NNS another|DT zoombased|VBN approach|NN </s>|S_END
+<s>|S_START events|NNS are|VBP described|VBN or|CC represented|VBN along|IN a|DT timeline|NN using|VBG text|NN images|NNS and|CC video|NN </s>|S_END
+<s>|S_START zoom|NN in|IN so|RB that|IN a|DT recent|JJ 24hour|CD section|NN of|IN the|DT timeline|NN fits|VBZ on|IN a|DT laptop|NN screen|NN and|CC at|IN this|DT scale|NN the|DT timeline|NN stretches|VBZ about|IN 17|CD billion|CD kilometres|NNS to|TO the|DT left|NN </s>|S_END
+<s>|S_START zooming|VBG out|IN reveals|NNS the|DT past|JJ decade|NN or|CC century—or|JJ the|DT entire|JJ sweep|NN of|IN 137|CD billion|CD years|NNS of|IN cosmic|JJ time|NN </s>|S_END
+<s>|S_START zooming|VBG in|IN again|NN can|MD show|VB contemporaneous|JJ developments|NNS in|IN ancient|NN babylon|NN and|CC mycenaean|JJ greece|NN say|NN or|CC how|WRB matter|NN behaved|VBD in|IN the|DT first|JJ fractions|NNS of|IN a|DT second|JJ after|IN the|DT big|JJ bang|NN </s>|S_END
+<s>|S_START all|DT this|DT can|MD provide|VB a|DT “gut|JJ understanding”|NN of|IN historical|JJ context|NN and|CC causation|NN says|VBZ walter|NN alvarez|NN the|DT projects|NNS cofounder|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START roland|NN saekow|VBD the|DT projects|NNS leader|NN says|VBZ that|IN when|WRB demoing|VBG chronozoom|NN he|PRP likes|VBZ “to|-NONE- listen|VBN for|IN the|DT gasp”|NN of|IN amazement|NN </s>|S_END
+<s>|S_START about|IN 30|CD people|NNS are|VBP developing|VBG chronozoom|NN at|IN microsoft|NN research|NN moscow|NN state|NN university|NN and|CC the|DT university|NN of|IN california|NN berkeley|NN where|WRB mr|NN alvarez|NN and|CC mr|NN saekow|NN work|NN </s>|S_END
+<s>|S_START a|DT “curated”|NN version|NN edited|VBD by|IN professional|JJ historians|NNS geologists|NNS and|CC cosmologists|NNS is|VBZ in|IN the|DT works|NNS a|DT test|NN version|NN is|VBZ already|RB up|IN </s>|S_END
+<s>|S_START in|IN a|DT year|NN or|CC so|RB a|DT free|JJ version|NN will|MD be|VB made|VBN available|JJ for|IN use|NN as|IN a|DT presentation|NN tool|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ready|RB for|IN your|PRP$ closeup|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT zoombased|VBN approach|NN can|MD transform|VB multipage|NN websites|NNS into|IN a|DT single|JJ broad|JJ surface|NN that|WDT simultaneously|RB displays|VBZ all|DT content|NN </s>|S_END
+<s>|S_START instead|RB of|IN clicking|VBG and|CC waiting|VBG for|IN a|DT new|JJ page|NN to|TO appear|VB a|DT visitor|NN can|MD zoom|VB directly|RB to|TO areas|NNS of|IN interest|NN </s>|S_END
+<s>|S_START on|IN the|DT hard|JJ rock|NN café|NN website|NN a|DT page|NN built|VBN using|VBG microsofts|NNS silverlight|MD software|VB shows|NNS 1610|CD memorabilia|NNS item|VBP </s>|S_END
+<s>|S_START by|IN using|VBG the|DT scroll|NN wheel|NN to|TO zoom|VB details|NNS of|IN each|DT one|CD can|MD be|VB expanded|VBN to|TO fill|VB the|DT entire|JJ screen|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START oftware|NN that|IN zooms|NNS deep|VBP into|IN moving|VBG imagery|NN may|MD be|VB next|JJ </s>|S_END
+<s>|S_START americas|NNS department|VBD of|IN energy|NN is|VBZ developing|VBG software|NN to|TO drill|VB into|IN scientific|JJ animations|NNS of|IN particle|NN behaviour|PRP$ in|IN nuclear|JJ reaction|NN </s>|S_END
+<s>|S_START called|VBN visit|NN its|PRP$ zooming|NN range|NN is|VBZ equivalent|JJ to|TO zipping|NN from|IN a|DT view|NN of|IN the|DT milky|JJ way|NN to|TO a|DT grain|NN of|IN sand|NN says|VBZ becky|JJ springmeyer|NN who|WP is|VBZ working|VBG on|IN the|DT project|NN at|IN the|DT lawrence|NN livermore|NN national|JJ laboratory|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START will|MD deep|VB zooming|VBG catch|NN on|IN </s>|S_END
+<s>|S_START mark|NN changizi|NN an|DT evolutionary|JJ neurobiologist|NN and|CC author|NN of|IN “the|NNP vision|NN revolution”|-NONE- notes|VBZ that|IN the|DT human|JJ visual|JJ system|NN has|VBZ to|TO cope|VB with|IN zooming|VBG when|WRB moving|VBG say|VBP through|IN a|DT dense|NN grove|NN of|IN tree|NN </s>|S_END
+<s>|S_START todays|NNS zooming|VBG software|NN operates|NNS on|IN a|DT different|JJ scale|NN but|CC as|IN touchscreen|JJ devices|NNS proliferate|VBP zooming|VBG has|VBZ become|VBN a|DT popular|JJ way|NN to|TO manipulate|VB maps|NNS and|CC photos—so|JJ perhaps|RB it|PRP will|MD catch|VB on|IN in|IN other|JJ areas|NNS too|RB </s>|S_END
+</p>|P_END
+

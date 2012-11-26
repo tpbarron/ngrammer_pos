@@ -1,0 +1,43 @@
+<p>|P_START
+<s>|S_START the|DT us|PRP </s>|S_END
+<s>|S_START postal|JJ service|NN is|VBZ forecasting|VBG a|DT 20|CD rise|NN in|IN the|DT packages|NNS it|PRP delivers|VBZ this|DT holiday|NN season|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT us|PRP </s>|S_END
+<s>|S_START postal|JJ service|NN is|VBZ forecasting|VBG that|IN the|DT coming|VBG holiday|NN season|NN will|MD be|VB its|PRP$ busiest|JJS ever|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT service|NN said|VBD it|PRP is|VBZ expecting|VBG to|TO handle|VB 365|CD million|CD packages|NNS a|DT 20|CD increase|NN in|IN the|DT number|NN it|PRP handled|VBD last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN top|JJ of|IN that|DT it|PRP says|VBZ it|PRP will|MD deliver|VB almost|RB 18|CD billion|CD cards|NNS and|CC letters|NNS between|IN thanksgiving|VBG and|CC new|JJ years|NNS eve|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT busiest|JJS day|NN is|VBZ expected|VBN to|TO be|VB monday|NN dec|NN 17|CD when|WRB more|JJR than|IN 655|CD million|CD pieces|NNS of|IN mail|NN are|VBP expected|VBN to|TO be|VB processed|VBN about|IN 120|CD million|CD more|JJR than|IN an|DT average|JJ day|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD pricey|NN election|NN bails|NNS out|IN postal|JJ service|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT postal|JJ service|NN is|VBZ expecting|VBG a|DT bigger|JJR increase|NN in|IN traffic|NN than|IN rivals|NNS fedex|NN fdx|NN fortune|NN 500|CD and|CC united|VBD parcel|NN service|NN ups|NNS fortune|VBP 500|CD </s>|S_END
+<s>|S_START fedex|NN is|VBZ expecting|VBG a|DT 13|CD increase|NN in|IN shipments|NNS while|IN ups|NNS is|VBZ forecasting|VBG a|DT 98|CD increase|NN in|IN shipments|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN all|DT the|DT increases|NNS shoppers|NNS are|VBP only|RB expected|VBN to|TO spend|VB 4|CD more|JJR that|IN they|PRP did|VBD during|IN the|DT last|JJ holiday|NN shopping|VBG season|NN </s>|S_END
+<s>|S_START the|DT shift|NN to|TO online|VB shopping|NN is|VBZ one|CD of|IN the|DT reasons|NNS package|NN shipments|NNS are|VBP expected|VBN to|TO increase|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT jump|NN comes|VBZ as|IN the|DT postal|JJ service|NN faces|NNS serious|JJ financial|JJ problems|NNS </s>|S_END
+<s>|S_START last|JJ month|NN it|PRP reached|VBD its|PRP$ $|$ 15|CD billion|CD debt|NN limit|NN as|IN capped|JJ by|IN congress|NN and|CC is|VBZ barred|VBN from|IN borrowing|NN more|JJR </s>|S_END
+<s>|S_START starting|VBG jan|NN 27|CD the|DT service|NN will|MD hike|VB the|DT price|NN of|IN a|DT firstclass|NN stamp|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ looking|VBG to|TO cut|VB staff|NN by|IN 150000|CD by|IN 2015|CD in|IN an|DT effort|NN to|TO reduce|VB losses|NNS </s>|S_END
+</p>|P_END
+

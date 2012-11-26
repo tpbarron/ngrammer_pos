@@ -1,0 +1,105 @@
+<p>|P_START
+<s>|S_START making|VBG insurance|NN claims|NNS is|VBZ the|DT next|JJ step|NN for|IN shops|NNS damaged|VBN by|IN sandy|NN </s>|S_END
+<s>|S_START for|IN restaurants|NNS like|IN jerrys|NNS cafe|VBP that|IN lost|JJS power|NN that|WDT includes|VBZ loads|NNS of|IN spoiled|VBN food|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN few|JJ small|JJ business|NN owners|NNS were|VBD insured|VBN for|IN a|DT storm|NN like|IN sandy|NN but|CC even|RB those|DT that|WDT were|VBD might|MD be|VB in|IN for|IN some|DT nasty|NN surprises|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START business|NN interruption|NN insurance|NN is|VBZ one|CD example|NN </s>|S_END
+<s>|S_START it|PRP helps|VBZ companies|NNS if|IN theyre|NN temporarily|RB shut|VBN down|IN </s>|S_END
+<s>|S_START but|CC most|JJS small|JJ companies|NNS dont|VBP have|VBP it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC those|DT that|WDT do|VBP might|MD not|RB see|VB any|DT benefit|NN it|PRP usually|RB kicks|VBZ in|IN only|RB if|IN theres|NNS physical|JJ damage|NN no|DT help|NN to|TO a|DT business|NN that|WDT was|VBD spared|VBN flood|NN damage|NN but|CC had|VBD to|TO remain|VB closed|VBN because|IN floods|NNS kept|VBD customers|NNS away|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START issues|NNS like|IN that|DT will|MD cause|VB lots|NNS of|IN squabbling|VBG between|IN business|NN owners|NNS and|CC their|PRP$ insurers|NNS and|CC theyll|NN take|VB a|DT lot|NN of|IN time|NN to|TO resolve|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START itll|NN probably|RB take|VB two|CD years|NNS or|CC more|JJR before|IN were|VBD whole|JJ again|NN said|VBD loretta|NN worters|NNS vice|NN president|NN of|IN the|DT insurance|NN information|NN institute|NN which|WDT is|VBZ paid|VBN for|IN by|IN insurance|NN companies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP can|MD businesses|NNS expect|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START documentation|NN is|VBZ the|DT first|JJ step|NN and|CC its|PRP$ what|WP employees|NNS at|IN jerrys|NNS café|-NONE- in|IN lower|JJR manhattan|NN were|VBD doing|VBG last|JJ week|NN </s>|S_END
+<s>|S_START they|PRP took|VBD photographs|NNS of|IN every|DT item|NN they|PRP had|VBD to|TO chuck|VB outside|IN swiss|JJ cheese|NN eggs|NNS milk|VBP and|CC more|RBR </s>|S_END
+<s>|S_START food|NN spoilage|NN insurance|NN covers|NNS whatever|RB rotted|VBN in|IN the|DT fridge|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START recording|VBG losses|NNS by|IN jotting|VBG down|IN serial|JJ numbers|NNS or|CC taking|VBG photos|NNS is|VBZ key|JJ to|TO any|DT claim|NN and|CC it|PRP will|MD prove|VB a|DT tough|JJ task|NN for|IN most|JJS small|JJ businesses|NNS which|WDT rarely|RB keep|VBP thorough|IN paperwork|NN on|IN inventory|NN and|CC equipment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD 19|CD bags|NNS of|IN rotting|VBG food|NN and|CC a|DT business|NN at|IN risk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START damage|NN assessment|VBD from|IN claims|NNS adjusters|NNS comes|VBZ next|JJ and|CC businesses|NNS might|MD have|VB to|TO wait|VB weeks|NNS for|IN their|PRP$ turn|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN their|PRP$ part|NN insurance|NN companies|NNS are|VBP trying|VBG to|TO make|VB it|PRP easier|JJR </s>|S_END
+<s>|S_START before|IN the|DT storm|NN travelers|NNS insurance|NN had|VBD already|RB dedicated|VBN 5000|CD employees|NNS to|TO assess|NN damage|NN and|CC answer|NN questions|NNS </s>|S_END
+<s>|S_START immediately|RB after|IN the|DT storm|NN it|PRP sent|VBD five|CD rvs|NNS to|TO serve|VB as|IN mobile|JJ claims|NNS offices|NNS in|IN hardhit|NN areas|NNS of|IN new|JJ jersey|NN and|CC new|JJ york|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT major|JJ insurer|NN liberty|NN mutual|JJ has|VBZ 60|CD adjusters|NNS in|IN the|DT area|NN physically|RB inspecting|VBG 1500|CD claims|NNS </s>|S_END
+<s>|S_START chief|NN commercial|JJ claims|NNS officer|NN george|NN neale|NN said|VBD all|DT businesses|NNS will|MD be|VB visited|VBN in|IN the|DT next|JJ two|CD weeks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP work|VBP hard|RB to|TO try|VB to|TO get|VB our|PRP$ people|NNS back|RB in|IN business|NN as|IN soon|RB as|IN possible|JJ and|CC deliver|NN on|IN our|PRP$ promise|NN said|VBD neale|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START businesses|NNS that|IN think|NN the|DT wait|NN will|MD be|VB too|RB long|RB or|CC that|IN the|DT insurers|NNS adjuster|NN wont|NN give|VBP a|DT fair|JJ estimate|NN could|MD choose|VB to|TO hire|VB their|PRP$ own|JJ adjusters|NNS to|TO get|VB repair|NN estimates|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC that|DT can|MD be|VB risky|JJ said|NN ervin|NN gonzalez|NN a|DT south|NN florida|NN attorney|NN who|WP fought|RB against|IN builders|NNS and|CC insurers|NNS for|IN shoddy|NN practices|NNS after|IN 1992s|CD hurricane|NN andrew|NN </s>|S_END
+<s>|S_START gonzalez|NN said|VBD that|IN there|EX arent|NN enough|RB adjusters|NNS in|IN the|DT new|JJ york|NN area|NN so|IN thousands|NNS of|IN them|PRP will|MD travel|VB from|IN across|IN the|DT country|NN looking|VBG for|IN work|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT will|MD overcharge|VB taking|VBG 20|CD or|CC more|JJR of|IN what|WP an|DT insurer|NN will|MD eventually|RB pay|VB much|JJ higher|JJR than|IN the|DT 10|CD cap|NN for|IN residential|JJ properties|NNS in|IN states|NNS like|IN florida|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gonzalez|NN also|RB warned|VBD that|IN independent|JJ adjusters|NNS who|WP land|NN contract|NN work|NN for|IN insurers|NNS have|VBP incentive|JJ to|TO offer|NN business|NN owners|NNS less|JJR than|IN what|WP their|PRP$ loss|NN is|VBZ worth|JJ because|IN these|DT contractors|NNS want|VBP the|DT insurer|NN to|TO hire|VB them|PRP again|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP saw|VBD that|IN with|IN hurricane|NN katrina|NNS in|IN new|JJ orleans|NNS and|CC after|IN hurricane|NN andrew|VBD in|IN miami|NN gonzalez|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD what|WP to|TO expect|VB when|WRB filing|NN sandy|NN insurance|NN claims|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT last|JJ step|NN settling|VBG the|DT claim|NN could|MD be|VB the|DT most|JJS precarious|JJ and|CC disappointing|JJ </s>|S_END
+<s>|S_START small|JJ business|NN owners|NNS in|IN florida|NN know|NN that|IN well|RB especially|RB after|IN hurricane|NN andrew|VBD which|WDT sparked|VBN a|DT wave|NN of|IN lawsuits|NNS from|IN those|DT who|WP felt|VBD their|PRP$ claims|NNS got|VBD lowballed|VBN if|IN they|PRP received|VBD money|NN at|IN all|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT old|JJ age|NN of|IN buildings|NNS in|IN new|JJ jersey|NN and|CC new|JJ york|NN are|VBP likely|JJ to|TO play|VB a|DT factor|NN </s>|S_END
+<s>|S_START insurers|NNS could|MD blame|VB some|DT of|IN the|DT damage|NN on|IN age|NN instead|RB of|IN the|DT storm|NN as|IN was|VBD the|DT case|NN for|IN miami|NN attorney|NN philippe|NN lieberman|NN </s>|S_END
+<s>|S_START he|PRP went|VBD through|IN great|JJ pains|NNS to|TO prove|VB his|PRP$ clients|NNS two|CD dozen|NNS florida|NN strip|NN malls|NNS were|VBD damaged|VBN by|IN 2005s|CD hurricane|NN wilma|NN and|CC not|RB because|IN they|PRP were|VBD old|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP dont|VBP envy|JJ new|JJ yorkers|NNS lieberman|NN said|VBD </s>|S_END
+<s>|S_START they|PRP should|MD expect|VB a|DT difficult|JJ and|CC exhausting|VBG process|NN </s>|S_END
+</p>|P_END
+

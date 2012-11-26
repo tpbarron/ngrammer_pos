@@ -1,0 +1,16 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 63|CD gdp|NN $|$ 128bn|CD ppp|CD $|$ 325bn|CD inflation|NN 120|CD population|NN 895m|CD gdp|NN per|IN head|NN $|$ 1430|CD ppp|CD $|$ 3640|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hardliners|NNS and|CC reformers|NNS among|IN the|DT communist|NN leadership|NN will|MD vie|VB for|IN the|DT upper|JJ hand|NN but|CC there|EX will|MD be|VB no|RB realistic|JJ challenge|NN from|IN outside|JJ the|DT party|NN to|TO its|PRP$ hegemony|NN </s>|S_END
+<s>|S_START progress|NN on|IN political|JJ reform |NN will|MD be|VB barely|RB perceptible|JJ </s>|S_END
+<s>|S_START relations|NNS with|IN the|DT west|NN will|MD thaw|VB further|JJ as|IN longstanding|JJ territorial|JJ disagreements|NNS chill|MD ties|NNS with|IN china|NN </s>|S_END
+<s>|S_START modest|NN tightening|VBG will|MD take|VB some|DT of|IN the|DT heat|NN out|IN of|IN the|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB still|RB investing|VBG </s>|S_END
+<s>|S_START foreign|JJ investment|NN will|MD continue|VB with|IN nokia|NN finland|NN setting|VBG up|RP a|DT mobilephone|NN plant|NN atomstroiexport|NN russia|NN a|DT nuclearresearch|NN base|NN sapporo|NN japan|NN a|DT beer|NN plant|NN and|CC ihg|NN uk|NN managing|VBG its|PRP$ first|JJ holiday|NN inn|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,38 @@
+<p>|P_START
+<s>|S_START the|DT scientists|NNS a|DT family|NN romance|NN </s>|S_END
+<s>|S_START by|IN marco|NN roth|NN </s>|S_END
+<s>|S_START farrar|NN straus|VBZ giroux|NN 196|CD pages|NNS $|$ 23|CD </s>|S_END
+<s>|S_START buy|NN from|IN amazoncom|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START marco|NN roth|NN can|MD not|RB quite|VB recall|JJ how|WRB his|PRP$ father|NN told|VBD him|PRP he|PRP was|VBD dying|VBG of|IN aid|NN </s>|S_END
+<s>|S_START in|IN one|CD memory|NN his|PRP$ father|NN interrupts|NNS a|DT televised|VBN baseball|NN game|NN in|IN another|DT he|PRP delivers|VBZ the|DT news|NN as|IN a|DT bedtime|NN story|NN </s>|S_END
+<s>|S_START each|DT version|NN is|VBZ hazy|JJ but|CC all|DT feature|NN the|DT same|JJ account|NN his|PRP$ father|NN contracted|VBD hiv|NN in|IN his|PRP$ science|NN lab|NN after|IN being|VBG accidentally|RB stuck|JJ by|IN the|DT needle|NN of|IN a|DT diseased|VBN blood|NN donor|NN </s>|S_END
+<s>|S_START this|DT moment|NN of|IN bad|JJ luck|NN sentenced|VBD him|PRP to|TO years|NNS of|IN illness|NN his|PRP$ slow|JJ death|NN haunting|NN the|DT quietly|RB unhappy|JJ but|CC otherwise|RB privileged|VBD manhattan|JJ home|NN he|PRP shared|VBD with|IN his|PRP$ wife|NN and|CC only|RB child|VB </s>|S_END
+<s>|S_START the|DT virus|NN would|MD be|VB the|DT family’s|JJ secret|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT families|NNS have|VBP their|PRP$ secrets|NNS but|CC this|DT one|CD was|VBD toxic—oppressive|JJ at|IN home|NN and|CC isolating|VBG from|IN everyone|NN else|RB </s>|S_END
+<s>|S_START ome|NN suggest|VBP that|IN all|DT sons|NNS want|VBP to|TO kill|VB their|PRP$ fathers|NNS but|CC few|JJ would|MD care|VB to|TO witness|VB a|DT steady|JJ sickly|NN insidious|JJ demise|NN </s>|S_END
+<s>|S_START as|IN a|DT thoughtful|JJ youth|NN with|IN a|DT literary|JJ bent|NN mr|NN roth’s|NNS relationship|NN with|IN his|PRP$ father|NN was|VBD fraught|VBN </s>|S_END
+<s>|S_START in|IN death|NN the|DT man|NN casts|VBZ an|DT even|RB more|RBR troubling|VBG shadow|NN </s>|S_END
+<s>|S_START in|IN part|NN this|DT is|VBZ because|IN the|DT story|NN of|IN his|PRP$ father’s|JJ infection|NN may|MD have|VB been|VBN hiding|VBG an|DT even|RB darker|NN secret|NN a|DT lifetime|NN of|IN subterfuge|NN and|CC sexual|JJ frustration|NN </s>|S_END
+<s>|S_START the|DT mystery|NN of|IN the|DT elder|NN roth’s|VBZ life|NN lies|NNS at|IN the|DT heart|NN of|IN “the|NNP scientists”|NNP </s>|S_END
+<s>|S_START circuitous|JJ elegant|NN and|CC fiercely|RB intelligent|JJ this|DT memoir|NN is|VBZ mr|NN roth’s|-NONE- attempt|NN to|TO understand|VB his|PRP$ father’s|JJ character|NN in|IN order|NN to|TO better|RBR know|VB his|PRP$ own|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START an|DT anxious|JJ child|NN of|IN jewish|JJ intellectuals|NNS mr|VBP roth|JJ learned|VBN to|TO view|VB love|JJ as|IN something|NN like|IN the|DT god|NN of|IN the|DT old|JJ testament|NN aggressive|JJ and|CC impatient|NN both|DT demanding|VBG and|CC remote|VB </s>|S_END
+<s>|S_START like|IN a|DT millstone|NN he|PRP has|VBZ carried|VBN his|PRP$ father’s|JJ temper|NN and|CC contempt|NN into|IN his|PRP$ own|JJ botched|JJ projects—a|NN failed|VBD marriage|NN and|CC an|DT abandoned|VBN phd|NN a|DT lifetime|NN of|IN discomfort|NN and|CC dislocation|NN </s>|S_END
+<s>|S_START with|IN the|DT patience|NN of|IN the|DT literary|JJ scholar|NN he|PRP almost|RB became|VBD he|PRP pores|VBZ over|IN his|PRP$ father’s|NNS favourite|VBP novels|NNS a|DT “canon|JJ of|IN disappointment|NN and|CC unhappiness”|NNP in|IN search|NN of|IN clues|NNS about|IN the|DT man|NN </s>|S_END
+<s>|S_START ome|NN of|IN the|DT book’s|JJ richest|NN moments|NNS are|VBP when|WRB mr|NN roth|NN uses|NNS the|DT works|NNS of|IN franz|NN kafka|NN and|CC thomas|VBZ mann|NN to|TO grasp|VB sadly|RB and|CC lovingly|RB at|IN his|PRP$ father’s|NNS cryptic|JJ ghost|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT memoirs|NNS are|VBP in|IN their|PRP$ way|NN works|NNS of|IN therapy|NN opportunities|NNS to|TO air|VB grievances|NNS and|CC cauterise|VB wound|NN </s>|S_END
+<s>|S_START o|NN it|PRP is|VBZ with|IN this|DT sentimental|JJ and|CC confused|VBD journey|NN which|WDT offers|NNS no|DT big|JJ revelations|NNS or|CC pat|VB conclusion|NN </s>|S_END
+<s>|S_START but|CC with|IN the|DT wisdom|NN of|IN a|DT good|JJ reader|NN and|CC the|DT humility|NN of|IN a|DT lost|NN soul|NN mr|NN roth|NN sorts|NNS through|IN the|DT mess|NN of|IN his|PRP$ past—in|JJ order|NN to|TO plot|VB his|PRP$ escape|NN from|IN it|PRP </s>|S_END
+</p>|P_END
+

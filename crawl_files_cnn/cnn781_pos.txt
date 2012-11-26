@@ -1,0 +1,121 @@
+<p>|P_START
+<s>|S_START cars|NNS damaged|VBD by|IN the|DT flood|NN caused|VBD by|IN hurricane|NN sandy|NN in|IN new|JJ york|NN citys|NNS financial|JJ district|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT impact|NN of|IN hurricane|NN sandy|NN on|IN the|DT lives|NNS of|IN residents|NNS of|IN the|DT northeast|NN will|MD be|VB great|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START millions|NNS are|VBP without|IN power|NN likely|JJ for|IN an|DT extended|JJ period|NN of|IN time|NN </s>|S_END
+<s>|S_START businesses|NNS from|IN the|DT nations|NNS stock|NN exchanges|NNS and|CC all|DT the|DT way|NN on|IN down|IN to|TO thousands|NNS of|IN corner|NN stores|NNS have|VBP been|VBN shut|VBN down|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT total|NN cost|NN of|IN property|NN damage|NN and|CC lost|VBD business|NN is|VBZ estimated|VBN to|TO run|VB between|IN $|$ 10|CD billion|CD to|TO $|$ 20|CD billion|CD according|VBG to|TO eqecat|VB which|WDT provides|NNS loss|VBP estimates|NNS to|TO the|DT insurance|NN industry|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START insured|VBD losses|NNS excluding|VBG those|DT covered|VBN by|IN national|JJ flood|NN insurance|NN are|VBP expected|VBN to|TO be|VB between|IN $|$ 5|CD billion|CD to|TO $|$ 10|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC total|JJ losses|NNS could|MD go|VB as|RB high|JJ as|IN $|$ 25|CD billion|CD including|VBG interruption|NN to|TO business|NN according|VBG to|TO estimates|NNS by|IN kinetic|JJ analysis|NN corp|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC economists|NNS surveying|VBG the|DT immediate|JJ aftermath|NN of|IN the|DT storm|NN say|VBP there|EX may|MD be|VB little|RB if|IN any|DT impact|NN on|IN the|DT nations|NNS overall|VBP economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT loss|NN of|IN business|NN and|CC wealth|NN caused|VBD by|IN the|DT storm|NN will|MD likely|RB end|VB up|RP being|VBG roughly|RB balanced|VBN out|RP by|IN money|NN that|IN will|MD go|VB into|IN rebuilding|NN and|CC recovery|NN efforts|NNS from|IN insurers|NNS the|DT governments|NNS national|JJ flood|NN insurance|NN program|NN and|CC private|JJ savings|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bottom|NN line|NN is|VBZ its|PRP$ very|JJ disruptive|JJ very|RB painful|JJ but|CC at|IN the|DT end|NN of|IN the|DT day|NN these|DT kinds|NNS of|IN natural|JJ disasters|NNS typically|RB dont|JJ show|NN up|IN in|IN national|JJ economic|JJ data|NNS said|VBD mark|NN zandi|NN chief|NN economist|NN for|IN moodys|NNS analytics|NNS </s>|S_END
+<s>|S_START there|EX will|MD be|VB a|DT lot|NN of|IN offsetting|VBG effects|NNS both|DT winners|NNS and|CC losers|NNS </s>|S_END
+<s>|S_START restaurants|NNS get|VBP hurt|VBN </s>|S_END
+<s>|S_START grocery|NN stores|NNS do|VBP better|RBR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT same|JJ is|VBZ likely|JJ true|JJ with|IN measuring|NN the|DT impact|NN on|IN income|NN and|CC jobs|NNS </s>|S_END
+<s>|S_START zandi|NN said|VBD the|DT number|NN of|IN workers|NNS who|WP are|VBP off|RP the|DT job|NN and|CC not|RB being|VBG paid|VBN because|IN their|PRP$ employer|NN is|VBZ temporarily|RB shut|VBN down|IN will|MD likely|RB be|VB balanced|VBN by|IN those|DT working|VBG overtime|NN clearing|VBG debris|NNS moving|VBG a|DT backlog|NN of|IN shipments|NNS or|CC helping|VBG in|IN rebuilding|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB if|IN businesses|NNS in|IN new|JJ york|NN city|NN are|VBP able|JJ to|TO reopen|VB soon|RB getting|VBG their|PRP$ workers|NNS back|RB on|IN the|DT job|NN could|MD prove|VB difficult|JJ for|IN some|DT time|NN to|TO come|VB adding|NN to|TO the|DT disruption|NN of|IN business|NN </s>|S_END
+<s>|S_START chuck|NN watson|NN director|NN of|IN research|NN at|IN kinetic|JJ said|VBD full|JJ restoration|NN of|IN transit|NN systems|NNS could|MD take|VB one|CD to|TO six|CD weeks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START joseph|NN lhota|NN chairman|NN of|IN the|DT metropolitan|NN transportation|NN authority|NN which|WDT oversees|NNS the|DT citys|NNS subway|VBP and|CC bus|NN system|NN as|IN well|RB as|IN some|DT of|IN the|DT suburban|NN rail|NN lines|NNS and|CC tunnels|NNS leading|VBG into|IN the|DT city|NN said|VBD the|DT system|NN has|VBZ never|RB faced|VBN a|DT disaster|NN as|IN devastating|VBG as|IN what|WP we|PRP experienced|VBD last|JJ night|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ jersey|NN transit|NN which|WDT handles|NNS commuter|VBP rail|NN and|CC buses|NNS from|IN that|DT state|NN into|IN the|DT city|NN said|VBD it|PRP also|RB suffered|VBD unprecedented|VBN devastation|NN </s>|S_END
+<s>|S_START some|DT rail|NN bridges|NNS were|VBD hit|VBN by|IN boats|NNS </s>|S_END
+<s>|S_START one|CD has|VBZ two|CD boats|NNS resting|VBG on|IN top|JJ of|IN it|PRP </s>|S_END
+<s>|S_START other|JJ critical|JJ tracks|NNS are|VBP washed|VBN out|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START who|WP will|MD end|VB up|RP paying|VBG for|IN the|DT rebuilding|VBG will|MD determine|VB how|WRB much|RB loss|NN of|IN wealth|NN will|MD occur|VB </s>|S_END
+<s>|S_START if|IN homeowners|NNS and|CC businesses|NNS have|VBP insurance|NN policies|NNS that|WDT cover|RB flood|VBD or|CC business|NN interruption|NN losses|NNS it|PRP will|MD lessen|VB the|DT economic|JJ hit|NN of|IN the|DT storm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC estimates|VBZ are|VBP that|IN only|RB about|IN half|DT of|IN storm|NN losses|NNS will|MD be|VB covered|VBN by|IN private|JJ insurers|NNS </s>|S_END
+<s>|S_START and|CC while|IN the|DT federal|JJ governments|NNS national|JJ flood|NN insurance|NN program|NN will|MD fill|VB in|IN some|DT of|IN the|DT gap|NN for|IN flood|NN losses|NNS that|WDT are|VBP rarely|RB covered|VBN by|IN private|JJ insurers|NNS it|PRP wont|VBP fill|RB the|DT whole|JJ gap|NN </s>|S_END
+<s>|S_START nfip|NN only|RB paid|VBN out|RP $|$ 13|CD billion|CD for|IN flooding|NN caused|VBD by|IN hurricane|NN irene|NN when|WRB it|PRP cut|VBD a|DT similar|JJ path|NN of|IN destruction|NN in|IN the|DT northeast|NN a|DT year|NN ago|IN according|VBG to|TO the|DT trade|NN publication|NN insurance|NN journal|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD financial|JJ capital|NN shut|NN down|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB if|IN insured|VBN losses|NNS reach|VBP the|DT $|$ 10|CD billion|CD that|WDT is|VBZ the|DT upper|JJ end|NN of|IN current|NN estimates|NNS the|DT insurance|NN industry|NN is|VBZ relatively|RB well|RB positioned|VBN to|TO pay|VB out|RP covered|VBN losses|NNS said|VBD neena|NNS saith|IN director|NN of|IN model|NN solutions|NNS for|IN rms|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP dont|VBP think|VBP that|IN this|DT will|MD cause|VB any|DT major|JJ issues|NNS </s>|S_END
+<s>|S_START 2012|CD so|RB far|RB has|VBZ been|VBN a|DT relatively|RB quiet|JJ loss|NN year|NN for|IN the|DT insurance|NN industry|NN she|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START john|NN silvia|IN chief|NN economist|NN with|IN wells|NNS fargo|IN securities|NNS said|VBD that|IN he|PRP thinks|VBZ from|IN a|DT perspective|JJ of|IN the|DT nations|NNS economic|JJ activity|NN there|EX could|MD be|VB a|DT very|RB slight|JJ lift|NN due|JJ to|TO hurricane|VB sandy|NN </s>|S_END
+<s>|S_START but|CC that|DT will|MD be|VB accompanied|VBN by|IN a|DT loss|NN of|IN wealth|NN as|IN those|DT affected|VBN have|VBP to|TO dig|VB into|IN their|PRP$ savings|NNS to|TO pay|VB for|IN repairs|NNS not|RB covered|VBN by|IN insurance|NN either|DT because|IN they|PRP dont|VBP have|VBP the|DT proper|NN coverage|NN or|CC they|PRP have|VBP to|TO pay|VB insurance|NN deductibles|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX has|VBZ to|TO be|VB some|DT change|NN in|IN spending|NN he|PRP said|VBD </s>|S_END
+<s>|S_START you|PRP will|MD be|VB spending|NN the|DT money|NN at|IN home|NN depot|NN hd|NN fortune|NN 500|CD but|CC you|PRP wont|VBP be|VB spending|VBG as|IN much|JJ shopping|NN for|IN christmas|NNS or|CC eating|VBG out|RP or|CC going|VBG to|TO giants|NNS and|CC jets|NNS games|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD sandy|NN stimulus|NN </s>|S_END
+<s>|S_START dont|NN bet|VBD on|IN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START silvia|IN said|VBD many|JJ major|JJ businesses|NNS shutdown|IN by|IN the|DT storm|NN will|MD be|VB covered|VBN by|IN business|NN interruption|NN insurance|NN or|CC will|MD be|VB able|JJ to|TO make|VB up|RP the|DT lost|NN sales|NNS when|WRB business|NN resumes|VBZ </s>|S_END
+<s>|S_START an|DT exception|NN could|MD be|VB the|DT nations|NNS airlines|VBZ which|WDT have|VBP had|VBD to|TO cancel|VB 16300|CD flights|NNS through|IN early|JJ tuesday|NN according|VBG to|TO tracking|VBG service|NN flightstats|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START flights|NNS and|CC hotels|NNS theres|NNS no|DT way|NN to|TO make|VB that|IN up|IN he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT area|NN that|IN will|MD be|VB even|RB harder|JJR hit|NN will|MD be|VB many|JJ small|JJ businesses|NNS that|WDT are|VBP shutdown|RB for|IN an|DT extended|JJ period|NN due|JJ to|TO lack|VB of|IN power|NN silvia|IN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS going|VBG to|TO be|VB a|DT tough|JJ loss|NN for|IN many|JJ of|IN them|PRP he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnns|NNS logan|VBD whiteside|JJ contributed|VBN to|TO this|DT report|NN </s>|S_END
+</p>|P_END
+

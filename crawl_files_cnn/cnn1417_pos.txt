@@ -1,0 +1,77 @@
+<p>|P_START
+<s>|S_START a|DT trishaw|NN peddler|NN resting|VBG in|IN beijing|NN china|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START anaheim|NN calif|IN cnnmoney|NN spurred|VBN by|IN a|DT wave|NN of|IN disappointing|JJ data|NNS economists|NNS are|VBP growing|VBG more|RBR pessimistic|JJ about|IN chinas|NNS shortterm|VBP growth|NN prospects|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START swiss|NN banking|NN giant|NN ubs|NNS has|VBZ lowered|VBN its|PRP$ forecast|NN for|IN how|WRB much|JJ chinas|NNS economy|NN will|MD grow|VB this|DT year|NN to|TO 75|CD from|IN 8|CD </s>|S_END
+<s>|S_START and|CC goldman|VBD sachs|NNS has|VBZ issued|VBN a|DT slightly|RB less|RBR dour|PRP$ outlook|NN for|IN china|NN growth|NN dropping|VBG it|PRP to|TO 76|CD from|IN 80|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT downward|NN revisions|NNS suggest|VBP experts|NNS believe|VBP chinas|NNS economy|NN may|MD not|RB mount|VB a|DT recovery|NN this|DT quarter|NN and|CC instead|RB would|MD remain|VB in|IN a|DT holding|VBG pattern|NN </s>|S_END
+<s>|S_START chinas|NNS gdp|VBP grew|JJ 76|CD in|IN the|DT second|JJ quarter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB investors|NNS might|MD be|VB more|RBR unsettled|VBN by|IN the|DT banks|NNS forecasts|NNS for|IN next|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economists|NNS at|IN ubs|NNS now|RB expect|VBP annual|JJ growth|NN to|TO register|VB at|IN 78|CD in|IN 2013|CD down|IN half|NN a|DT percentage|NN point|NN from|IN the|DT previous|JJ estimate|NN of|IN 83|CD </s>|S_END
+<s>|S_START goldmans|NNS forecasts|NNS show|VBP much|JJ the|DT same|JJ with|IN growth|NN now|RB expected|VBN to|TO hit|VB 79|CD next|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN china|NN is|VBZ still|RB growing|VBG fast|RB especially|RB compared|VBN to|TO less|JJR than|IN 2|CD growth|NN in|IN the|DT united|VBN states|NNS it|PRP marks|VBZ an|DT uncomfortable|JJ soft|NN patch|NN for|IN the|DT worlds|NNS second|JJ largest|JJS economy|NN </s>|S_END
+<s>|S_START over|IN the|DT last|JJ three|CD decades|NNS china|NNS has|VBZ barreled|VBN ahead|RB at|IN an|DT average|JJ of|IN about|RB 10|CD a|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START among|IN the|DT reasons|NNS cited|VBD by|IN economists|NNS are|VBP unreliable|JJ domestic|JJ demand|NN for|IN chinas|NNS products|NNS and|CC weakness|NN in|IN exports|NNS a|DT trend|NN brought|VBN on|IN by|IN europes|NNS economic|JJ mess|NN and|CC slow|JJ growth|NN in|IN the|DT united|VBN states|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB industrial|JJ production|NN has|VBZ slowed|VBN the|DT chinese|JJ government|NN reported|VBD sunday|NN that|IN it|PRP grew|VBD in|IN august|NN at|IN its|PRP$ slowest|NN monthly|RB rate|NN in|IN more|JJR than|IN three|CD years|NNS </s>|S_END
+<s>|S_START the|DT countrys|NNS housing|VBG market|NN also|RB continues|VBZ to|TO worry|VB policymakers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD worlds|NNS largest|JJS economies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT slowdown|NN has|VBZ not|RB gone|VBN unnoticed|VBN </s>|S_END
+<s>|S_START chinas|NNS central|VBP bank|NN has|VBZ already|RB moved|VBN to|TO cut|VB rates|NNS twice|NN this|DT year|NN in|IN an|DT effort|NN to|TO boost|VB the|DT economy|NN </s>|S_END
+<s>|S_START the|DT actions|NNS in|IN june|NN and|CC july|RB were|VBD the|DT first|JJ rate|NN cuts|NNS since|IN 2008|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT government|NN has|VBZ pursued|VBN other|JJ stimulus|NN measures|NNS an|DT easing|VBG of|IN bank|NN capital|NN requirements|NNS and|CC an|DT infusion|NN of|IN cash|NN for|IN local|JJ development|NN projects|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT available|JJ data|NNS point|NN to|TO continued|VBN weakness|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP expect|VBP increased|VBN concerns|NNS of|IN worsening|VBG corporate|JJ profit|NN rising|VBG nonperforming|VBG loans|NNS and|CC unemployment|NN which|WDT would|MD help|VB push|VB various|JJ government|NN agencies|NNS to|TO act|VB with|IN more|JJR vigor|NN economists|NNS at|IN ubs|NNS said|VBD in|IN a|DT research|NN note|NN </s>|S_END
+<s>|S_START related|VBD china|NN inflation|NN jumps|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC indeed|VBD policymakers|NNS announced|VBN a|DT new|JJ round|NN of|IN infrastructure|NN spending|NN on|IN friday|NN with|IN $|$ 157|CD billion|CD approved|VBN for|IN 55|CD projects|NNS </s>|S_END
+<s>|S_START the|DT projects|NNS include|VBP 25|CD new|JJ subway|NN lines|NNS as|IN well|RB as|IN highway|NN and|CC waterway|NN investments|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START once|RB started|VBD these|DT projects|NNS are|VBP likely|JJ to|TO filter|NN through|IN the|DT economy|NN quickly|RB given|VBN the|DT strong|JJ track|NN record|NN of|IN previous|JJ large|JJ stimulus|NN packages|NNS economists|NNS at|IN global|JJ bank|NN hsbc|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT investment|NN comes|VBZ at|IN a|DT crucial|JJ time|NN as|IN china|NN is|VBZ scheduled|VBN to|TO undergo|VB a|DT leadership|NN change|NN in|IN coming|VBG months|NNS that|WDT will|MD reshape|VB the|DT top|JJ ranks|NNS of|IN chinas|NNS government|NN and|CC the|DT ruling|NN communist|NN party|NN </s>|S_END
+</p>|P_END
+

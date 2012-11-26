@@ -1,0 +1,100 @@
+<p>|P_START
+<s>|S_START hsbc|NN executives|NNS testified|VBD at|IN a|DT hearing|NN on|IN capitol|NN hill|NN tuesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN global|JJ banking|NN giant|NN hsbc|NN failed|VBD to|TO prevent|VB billions|NNS of|IN dollars|NNS worth|NN of|IN money|NN transfers|NNS that|WDT senate|NN investigators|NNS believe|VBP were|VBD linked|VBN to|TO drug|NN cartels|NNS and|CC terrorist|NN groups|NNS according|VBG to|TO a|DT report|NN released|VBN monday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT senates|NNS permanent|JJ subcommittee|NN on|IN investigations|NNS said|VBD londonbased|VBN hsbc|NN hbc|NN failed|VBD to|TO review|VB thousands|NNS of|IN suspicious|JJ transactions|NNS and|CC properly|RB vet|VB clients|NNS over|IN the|DT past|JJ decade|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START among|IN other|JJ issues|NNS the|DT report|NN notes|NNS that|WDT in|IN 2007|CD and|CC 2008|CD hsbcs|NNS mexico|IN unit|NN shipped|VBN $|$ 7|CD billion|CD in|IN cash|NN to|TO the|DT banks|NNS us|PRP affiliate|VBP a|DT volume|NN of|IN shipments|NNS that|WDT law|NN enforcement|NN officials|NNS said|VBD could|MD reach|VB that|IN size|NN only|RB if|IN they|PRP included|VBD illegal|JJ drug|NN proceeds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hsbc|NN mexico|VBD had|VBD a|DT number|NN of|IN highprofile|JJ clients|NNS linked|VBN to|TO drug|NN trafficking|NN the|DT report|NN says|VBZ as|IN well|RB as|IN a|DT huge|JJ backlog|NN of|IN accounts|NNS marked|VBN for|IN closure|NN due|JJ to|TO suspicious|JJ activity|NN but|CC whose|WP$ closures|NNS were|VBD delayed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT report|NN also|RB found|VBD that|IN hsbc|NN worked|VBD extensively|RB with|IN saudi|NN arabias|NNS al|JJ rajhi|NN bank|NN some|DT owners|NNS of|IN which|WDT have|VBP been|VBN linked|VBN to|TO terrorism|NN financing|NN according|VBG to|TO a|DT cia|NN report|NN quoted|VBD by|IN the|DT subcommittee|NN </s>|S_END
+<s>|S_START some|DT evidence|NN suggests|VBZ al|JJ rajhis|NNS key|JJ founder|NN was|VBD an|DT early|JJ financial|JJ benefactor|NN of|IN al|JJ qaeda|NN the|DT report|NN says|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hsbcs|NNS us|PRP affiliate|VBP supplied|VBN al|JJ rajhi|NN with|IN nearly|RB $|$ 1|CD billion|CD worth|NN of|IN us|PRP banknotes|VBZ up|RP to|TO 2010|CD and|CC also|RB worked|VBD with|IN two|CD banks|NNS in|IN bangladesh|JJ that|IN some|DT evidence|NN links|NNS to|TO terrorism|VB financing|NN as|IN well|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START from|IN an|DT oversight|NN perspective|NN the|DT failure|NN of|IN accountability|NN here|RB is|VBZ dramatic|JJ said|VBD sen|VBN carl|NN levin|NN chairman|NN of|IN the|DT subcommittee|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT department|NN of|IN justice|NN is|VBZ also|RB investigating|VBG hsbc|NN over|IN the|DT issue|NN </s>|S_END
+<s>|S_START a|DT doj|NN spokeswoman|NN declined|VBD to|TO comment|NN citing|VBG the|DT ongoing|JJ probe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT report|NN also|RB said|VBD hsbcs|NNS us|PRP affiliate|VBP handled|VBN nearly|RB 25000|CD transactions|NNS involving|VBG iran|NN between|IN 2001|CD and|CC 2007|CD despite|IN us|PRP sanctions|NNS against|IN the|DT country|NN </s>|S_END
+<s>|S_START other|JJ hsbc|NN affiliates|NNS making|VBG transfers|NNS to|TO the|DT us|PRP frequently|RB stripped|VBD information|NN from|IN the|DT transactions|NNS that|WDT linked|VBN them|PRP to|TO iran|VB in|IN order|NN to|TO evade|VB scrutiny|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT hsbc|NN executives|NNS in|IN the|DT us|PRP were|VBD aware|JJ of|IN this|DT practice|NN as|IN far|RB back|RB as|IN 2001|CD the|DT report|NN says|VBZ </s>|S_END
+<s>|S_START an|DT outside|JJ review|NN commissioned|VBD by|IN hsbc|NN found|VBD nearly|RB $|$ 20|CD billion|CD worth|NN of|IN transactions|NNS between|IN 2001|CD and|CC 2007|CD that|WDT may|MD have|VB been|VBN subject|JJ to|TO us|PRP sanctions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT report|NN came|VBD ahead|RB of|IN a|DT hearing|NN by|IN the|DT senate|NN subcommittee|NN tuesday|NN that|IN featured|VBN testimony|NN from|IN hsbc|NN executives|NNS and|CC government|NN officials|NNS from|IN the|DT treasury|NN department|NN the|DT department|NN of|IN homeland|NN security|NN and|CC the|DT office|NN of|IN the|DT comptroller|NN of|IN the|DT currency|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START regulators|NNS also|RB came|VBD in|IN for|IN criticism|NN in|IN the|DT report|NN in|IN particular|JJ the|DT occ|NN hsbcs|NNS primary|JJ overseer|NN </s>|S_END
+<s>|S_START the|DT subcommittee|NN said|VBD the|DT occ|NN allowed|VBD hsbcs|NNS antimoney|NN laundering|VBG deficiencies|NNS to|TO fester|VB for|IN years|NNS before|IN finally|RB taking|VBG action|NN in|IN 2010|CD requiring|VBG the|DT bank|NN to|TO improve|VB its|PRP$ internal|JJ controls|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ record|NN of|IN enforcement|NN at|IN hsbc|NN resembles|NNS a|DT lapdog|NN rather|RB than|IN the|DT watchdog|NN that|IN we|PRP sorely|RB need|VBP sen|VBN tom|NN coburn|NN the|DT subcommittees|NNS ranking|VBG member|NN said|VBD tuesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hsbc|NN said|VBD in|IN a|DT statement|NN ahead|RB of|IN the|DT hearing|NN that|IN it|PRP takes|VBZ compliance|NN with|IN the|DT law|NN wherever|NN it|PRP operates|VBZ very|RB seriously|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP will|MD acknowledge|VB that|DT in|IN the|DT past|JJ we|PRP have|VBP sometimes|RB failed|VBN to|TO meet|VB the|DT standards|NNS that|WDT regulators|NNS and|CC customers|NNS expect|VBP hsbc|NN said|VBD </s>|S_END
+<s>|S_START we|PRP believe|VBP that|IN this|DT case|NN history|NN will|MD provide|VB important|JJ lessons|NNS for|IN the|DT whole|JJ industry|NN in|IN seeking|VBG to|TO prevent|VB illicit|NN actors|NNS entering|VBG the|DT global|JJ financial|JJ system|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bank|NN added|VBD that|IN it|PRP has|VBZ beefed|VBN up|RP its|PRP$ compliance|NN efforts|NNS over|IN the|DT past|JJ year|NN increasing|VBG its|PRP$ due|JJ diligence|NN requirements|NNS for|IN affiliates|NNS and|CC devoting|VBG more|JJR resources|NNS to|TO the|DT issue|NN </s>|S_END
+<s>|S_START speaking|VBG at|IN the|DT hearing|NN hsbc|NN compliance|NN head|NN david|VBD bagley|NN said|VBD he|PRP planned|VBD to|TO step|VB down|RP as|IN part|NN of|IN the|DT reform|NN process|NN although|IN he|PRP will|MD remain|VB at|IN the|DT firm|NN in|IN a|DT different|JJ capacity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT senate|NN subcommittee|NN noted|VBD that|IN hsbc|NN was|VBD fully|RB cooperative|JJ with|IN the|DT investigation|NN providing|VBG documents|NNS from|IN around|IN the|DT world|NN beyond|NN what|WP was|VBD legally|RB required|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hsbc|NN isnt|VBD the|DT first|JJ large|JJ bank|NN to|TO face|VB scrutiny|NN over|IN money|NN laundering|VBG issues|NNS from|IN us|PRP regulators|NNS and|CC law|NN enforcement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START last|JJ month|NN dutch|NN bank|NN ing|VBG agreed|NN to|TO pay|VB a|DT $|$ 619|CD million|CD penalty|NN for|IN moving|NN billions|NNS of|IN dollars|NNS through|IN the|DT us|PRP financial|JJ system|NN at|IN the|DT behest|NN of|IN cuban|NN and|CC iranian|JJ clients|NNS acts|NNS that|WDT violated|VBD economic|JJ sanctions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN 2010|CD the|DT former|JJ wachovia|NN bank|NN paid|VBD $|$ 160|CD million|CD to|TO resolve|VB allegations|NNS that|WDT it|PRP lacked|VBD robust|RB antimoney|NN laundering|VBG measures|NNS allowing|VBG mexican|NN cartels|NNS to|TO launder|VB millions|NNS of|IN dollars|NNS worth|NN of|IN drug|NN proceeds|NNS </s>|S_END
+<s>|S_START wells|NNS fargo|VBP wfc|NN fortune|NN 500|CD bought|NN wachovia|IN in|IN 2008|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hsbc|NN is|VBZ also|RB cooperating|VBG with|IN investigations|NNS into|IN alleged|JJ manipulation|NN of|IN the|DT london|NN interbank|NN offered|VBD rate|NN or|CC libor|NN though|IN it|PRP is|VBZ not|RB clear|JJ whether|IN the|DT bank|NN will|MD be|VB singled|VBN out|RP for|IN punishment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START last|JJ month|NN british|NN bank|NN barclays|NNS bcs|NNS reached|VBD a|DT $|$ 453|CD million|CD settlement|NN on|IN the|DT issue|NN with|IN us|PRP and|CC uk|VB regulators|NNS and|CC firms|NNS including|VBG deutsche|NN bank|NN db|NN credit|NN suisse|NN cs|NNS citigroup|NN c|NN fortune|NN 500|CD and|CC jpmorgan|JJ jpm|NN fortune|NN 500|CD are|VBP also|RB being|VBG investigated |JJ </s>|S_END
+</p>|P_END
+

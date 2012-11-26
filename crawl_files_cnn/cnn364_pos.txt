@@ -1,0 +1,75 @@
+<p>|P_START
+<s>|S_START getting|VBG free|JJ money|NN to|TO help|VB pay|NN for|IN college|NN through|IN grants|NNS scholarships|NNS or|CC other|JJ means|NNS isnt|VBP as|RB out|RP of|IN reach|NN as|IN most|JJS students|NNS think|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START typically|RB grants|VBZ and|CC scholarships|NNS are|VBP awarded|VBN to|TO students|NNS based|VBN on|IN financial|JJ need|NN or|CC merit|NN </s>|S_END
+<s>|S_START the|DT best|JJS part|NN is|VBZ these|DT awards|NNS dont|VBP have|VBP to|TO be|VB paid|VBN back|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START needbased|VBD grants|NNS and|CC scholarships|NNS </s>|S_END
+<s>|S_START government|NN officials|NNS college|VBP financial|JJ aid|NN officers|NNS and|CC scholarship|NN foundation|NN heads|NNS examine|VBP the|DT financial|JJ situation|NN of|IN the|DT student|NN and|CC his|PRP$ or|CC her|PRP$ family|NN to|TO see|VB if|IN the|DT student|NN needs|VBZ financial|JJ aid|NN to|TO fund|VB college|NN </s>|S_END
+<s>|S_START see|NN who|WP qualifies|NNS for|IN needbased|VBN aid|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT federal|JJ government|NN awards|NNS pell|VBP grants|NNS of|IN up|IN to|TO $|$ 5550|CD a|DT year|NN to|TO students|NNS who|WP come|RB from|IN families|NNS earning|VBG less|JJR than|IN about|IN $|$ 40000|CD </s>|S_END
+<s>|S_START and|CC some|DT states|NNS including|VBG pennsylvania|NN new|JJ york|NN and|CC wisconsin|NN also|RB award|VBD needbased|VBN grants|NNS to|TO residents|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START colleges|NNS and|CC charities|NNS award|VBP grants|NNS based|VBN on|IN their|PRP$ own|JJ definitions|NNS of|IN need|NN </s>|S_END
+<s>|S_START many|JJ of|IN these|DT organizations|NNS post|VBP their|PRP$ criteria|NNS on|IN their|PRP$ websites|NNS or|CC explain|VB them|PRP in|IN their|PRP$ applications|NNS </s>|S_END
+<s>|S_START how|WRB do|VBP i|PRP apply|RB for|IN needbased|VBN aid|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meritbased|VBD grants|NNS and|CC scholarships|NNS </s>|S_END
+<s>|S_START some|DT colleges|NNS charities|NNS and|CC states|NNS give|VBP grants|NNS or|CC scholarships|NNS to|TO attract|VB or|CC reward|VB students|NNS who|WP earn|NN good|VBD grades|NNS win|VBP science|NN fairs|NNS excel|VBP in|IN the|DT arts|NNS or|CC athletics|NNS demonstrate|VBP leadership|NN volunteer|NN in|IN their|PRP$ communities|NNS or|CC show|NN other|JJ kinds|NNS of|IN merit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ of|IN these|DT scholarships|NNS are|VBP awarded|VBN without|IN regard|NN to|TO the|DT students|NNS financial|JJ situation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT combination|NN of|IN need|NN and|CC merit|NN </s>|S_END
+<s>|S_START a|DT growing|VBG number|NN of|IN colleges|NNS and|CC government|NN agencies|NNS are|VBP reserving|VBG scholarships|NNS for|IN students|NNS who|WP have|VBP low|JJ or|CC middle|JJ incomes|NNS and|CC good|JJ grades|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START here|RB are|VBP a|DT couple|NN of|IN other|JJ places|NNS where|WRB you|PRP can|MD get|VB money|NN for|IN college|NN that|WDT you|PRP wont|VBP have|VBP to|TO pay|VB back|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START employers|NNS </s>|S_END
+<s>|S_START many|JJ employers|NNS will|MD reimburse|VB you|PRP for|IN some|DT or|CC all|DT of|IN your|PRP$ educational|JJ expenses|NNS </s>|S_END
+<s>|S_START typically|RB however|RB employers|NNS will|MD only|RB pay|VB for|IN courses|NNS they|PRP deem|VBP to|TO be|VB workrelated|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tax|NN breaks|NNS </s>|S_END
+<s>|S_START the|DT american|NN opportunity|NN tax|NN credit|NN allows|VBZ those|DT who|WP pay|NN for|IN college|NN tuition|NN or|CC books|NNS for|IN undergraduates|NNS to|TO reduce|VB their|PRP$ tax|NN bill|NN by|IN up|IN to|TO $|$ 2500|CD with|IN a|DT refundable|JJ tax|NN credit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB if|IN you|PRP do|VBP not|RB expect|VB to|TO have|VB to|TO pay|VB a|DT penny|NN in|IN federal|JJ taxes|NNS you|PRP should|MD file|VB your|PRP$ taxes|NNS for|IN the|DT year|NN you|PRP pay|VBP tuition|NN and|CC claim|NN the|DT american|JJ opportunity|NN tax|NN credit|NN because|IN the|DT government|NN will|MD likely|RB send|VB you|PRP a|DT check|NN of|IN up|IN to|TO $|$ 1000|CD as|IN a|DT rebate|NN for|IN your|PRP$ tuition|NN or|CC textbook|NN expenses|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START you|PRP can|MD only|RB take|VB one|CD tax|NN break|NN per|IN child|NN per|IN year|NN however|RB </s>|S_END
+<s>|S_START if|IN you|PRP use|VBP this|DT credit|NN you|PRP cant|VBP take|VBP the|DT tuition|NN and|CC fees|NNS deduction|NN or|CC the|DT lifetime|NN learning|NN credit|NN neither|DT of|IN which|WDT are|VBP as|RB lucrative|JJ anyway|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP can|MD not|RB take|VB the|DT american|JJ opportunity|NN tax|NN credit|NN because|IN you|PRP have|VBP already|RB used|VBN up|RP your|PRP$ students|NNS four|CD years|NNS of|IN eligibility|NN or|CC your|PRP$ student|NN is|VBZ attending|VBG college|NN parttime|NN you|PRP may|MD be|VB able|JJ to|TO take|VB the|DT lifetime|NN learning|NN credit|NN </s>|S_END
+<s>|S_START that|DT credit|NN refunds|NNS 20|CD of|IN higher|JJR education|NN expenses|NNS up|IN to|TO $|$ 2000|CD </s>|S_END
+<s>|S_START however|RB it|PRP is|VBZ only|RB available|JJ to|TO taxpayers|NNS in|IN a|DT limited|JJ income|NN bracket|NN </s>|S_END
+<s>|S_START for|IN 2011|CD the|DT income|NN limit|NN was|VBD $|$ 61000|CD for|IN single|JJ filers|NNS and|CC $|$ 122000|CD for|IN married|JJ filers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START next|JJ who|WP qualifies|NNS for|IN needbased|VBN aid |-NONE- </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,45 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN since|IN the|DT recession|NN small|JJ businesses|NNS trying|VBG to|TO get|VB bank|NN loans|NNS have|VBP faced|VBN tougher|RBR credit|NN standards|NNS and|CC little|RB has|VBZ changed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT federal|JJ reserves|NNS most|JJS recent|JJ survey|NN of|IN bank|NN loan|NN officers|NNS released|VBN monday|NN 95|CD said|VBD credit|NN standards|NNS remained|VBD basically|RB unchanged|JJ during|IN the|DT second|JJ quarter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START less|JJR than|IN 5|CD reported|VBN easing|VBG standards|NNS </s>|S_END
+<s>|S_START although|IN that|DT number|NN is|VBZ higher|JJR than|IN in|IN the|DT previous|JJ two|CD quarters|NNS it|PRP still|RB pales|VBZ in|IN comparison|NN to|TO the|DT share|NN of|IN banks|NNS that|WDT reported|VBD tightening|VBG standards|NNS during|IN the|DT recession|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB the|DT survey|NN of|IN 61|CD large|JJ domestic|JJ banks|NNS doesnt|VBP address|NN a|DT greater|JJR economic|JJ indicator|NN demand|NN for|IN small|JJ business|NN loans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START community|NN bankers|NNS and|CC industry|NN experts|NNS say|VBP small|JJ firms|NNS are|VBP avoiding|VBG debt|NN because|IN they|PRP see|VBP little|JJ reason|NN to|TO do|VB so|RB </s>|S_END
+<s>|S_START consumer|NN demand|NN remains|VBZ weak|JJ said|VBD rohit|NN arora|NN ceo|NN of|IN small|JJ firm|NN loan|NN marketplace|NN biz2credit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP the|DT federal|JJ reserve|NN survey|NN does|VBZ reveal|NN though|IN is|VBZ that|IN those|DT who|WP are|VBP looking|VBG for|IN credit|NN arent|NN finding|NN it|PRP any|DT easier|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD reason|NN cited|VBD by|IN community|NN banks|NNS is|VBZ that|IN they|PRP are|VBP now|RB required|VBN to|TO hold|VB on|IN to|TO more|JJR funds|NNS restricting|VBG their|PRP$ ability|NN to|TO make|VB loans|NNS as|IN easily|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START paul|NN merski|NN chief|NN economist|NN of|IN the|DT independent|JJ community|NN bankers|NNS of|IN america|NN said|VBD bankers|NNS are|VBP wary|JJ of|IN loosening|NN standards|NNS in|IN what|WP he|PRP called|VBD such|JJ a|DT restrictive|JJ regulatory|JJ environment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT higher|JJR capital|NN requirements|NNS proposed|VBD in|IN basel|NN iii|NN an|DT international|JJ agreement|NN that|WDT could|MD soon|RB affect|VB the|DT us|PRP banking|VBG industry|NN are|VBP also|RB having|VBG a|DT chilling|NN effect|NN merski|NN said|VBD </s>|S_END
+<s>|S_START banks|NNS are|VBP holding|VBG back|RB now|RB to|TO prepare|VB for|IN the|DT higher|JJR required|VBN reserves|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ very|JJ difficult|NN to|TO raise|VB fresh|JJ capital|NN so|IN you|PRP have|VBP to|TO start|VB to|TO build|VB up|RP that|DT capital|NN now|RB merski|VBP said|VBN </s>|S_END
+<s>|S_START one|CD way|NN you|PRP build|VBP it|PRP up|IN is|VBZ to|TO hold|VB more|JJR back|RB </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

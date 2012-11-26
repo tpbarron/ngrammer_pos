@@ -1,0 +1,47 @@
+<p>|P_START
+<s>|S_START european|JJ policymakers|NNS fret|VBP about|IN the|DT value|NN of|IN eurozone|NN sovereign|NN bonds|NNS in|IN the|DT manner|NN of|IN a|DT parent|NN worried|VBN by|IN a|DT sick|NN child’s|VBZ temperature|NN </s>|S_END
+<s>|S_START one|CD way|NN of|IN reading|NN the|DT thermometer|NN is|VBZ to|TO look|VB at|IN the|DT price|NN of|IN sovereign|NN creditdefault|NN swaps|NNS cdss|VBP an|DT insurance|NN policy|NN which|WDT pays|NNS out|IN if|IN a|DT national|JJ government|NN default|NN </s>|S_END
+<s>|S_START at|IN the|DT height|NN of|IN the|DT debt|NN crisis|NN anxious|JJ investors|NNS pushed|VBD the|DT value|NN of|IN these|DT instruments|NNS skyhigh|VBP </s>|S_END
+<s>|S_START now|RB the|DT region’s|NNS benchmark|VBP cds|NNS index|NN known|VBN as|IN the|DT itraxx|NN sovx|NN western|NN europe|NN has|VBZ plunged|VBN to|TO its|PRP$ lowest|JJS level|NN in|IN over|IN two|CD years|NNS see|VBP chart|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT sovx|NN was|VBD once|RB seen|VBN as|IN a|DT bellwether|NN of|IN the|DT eurozone’s|JJ troubles|NNS so|IN its|PRP$ decline|NN should|MD be|VB a|DT cause|NN for|IN celebration|NN </s>|S_END
+<s>|S_START not|RB quite|RB </s>|S_END
+<s>|S_START although|IN the|DT situation|NN in|IN the|DT euro|NN zone|NN has|VBZ eased|VBN in|IN recent|JJ weeks|NNS the|DT sharp|JJ movements|NNS in|IN the|DT sovx|NN are|VBP widely|RB attributed|VBN to|TO new|JJ european|JJ union|NN rules|NNS on|IN cdss|NNS which|WDT come|VBN into|IN force|NN on|IN november|NN 1st|CD </s>|S_END
+<s>|S_START the|DT rules|NNS will|MD in|VB effect|NN ban|NN you|PRP from|IN betting|VBG that|IN an|DT eu|NN country|NN will|MD hit|VB the|DT buffers|NNS unless|IN you|PRP can|MD prove|VB you|PRP have|VB good|JJ reason|NN for|IN doing|VBG so|RB </s>|S_END
+<s>|S_START the|DT aim|NN is|VBZ to|TO thwart|VB speculators|NNS who|WP buy|NN the|DT insurance|NN without|IN actually|RB owning|VBG the|DT product|NN to|TO be|VB insured|VBN </s>|S_END
+<s>|S_START only|RB investors|NNS holding|VBG a|DT country’s|JJ bonds|NNS or|CC similar|JJ assets|NNS such|JJ as|IN shares|NNS in|IN a|DT business|NN whose|WP$ fate|NN is|VBZ closely|RB tied|VBN to|TO the|DT government’s|NNS will|MD be|VB allowed|VBN to|TO protect|VB themselves|PRP against|IN default|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT rules|NNS are|VBP part|NN of|IN a|DT broader|JJR package|NN of|IN eu|NN measures|NNS designed|VBN to|TO rein|VB in|IN shortselling|NN whereby|NN investors|NNS gain|NN if|IN shares|NNS or|CC bonds|NNS decline|VBP </s>|S_END
+<s>|S_START politicians|NNS have|VBP blamed|VBN shortsellers|NNS for|IN hobbling|VBG both|DT european|JJ banks|NNS and|CC governments|NNS with|IN little|JJ evidence|NN to|TO back|VB that|IN up|IN </s>|S_END
+<s>|S_START the|DT problem|NN is|VBZ that|IN by|IN banning|NN speculators|NNS they|PRP may|MD jeopardise|VB the|DT rest|NN of|IN the|DT sovereign|NN cds|NNS market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START volumes|NNS for|IN individual|JJ countries|NNS such|JJ as|IN portugal|JJ and|CC belgium|NN have|VBP thinned|VBN dramatically|RB says|VBZ michael|NN hampdenturner|NN a|DT strategist|NN at|IN citigroup|NN making|VBG them|PRP potentially|RB untradeable|JJ </s>|S_END
+<s>|S_START that|DT may|MD partly|RB reflect|VB market|NN jitters|NNS ahead|RB of|IN the|DT new|JJ rules|NNS coming|VBG in|IN </s>|S_END
+<s>|S_START but|CC few|JJ investors|NNS will|MD be|VB able|JJ to|TO prove|VB they|PRP need|VBP creditdefault|NN insurance|NN against|IN all|DT the|DT 15|CD countries|NNS included|VBD in|IN the|DT western|NN europe|NN sovx|NN meaning|NN the|DT index|NN itself|PRP is|VBZ probably|RB doomed|VBN </s>|S_END
+<s>|S_START investors|NNS also|RB doubt|NN whether|IN creditdefault|NN swaps|NNS really|RB work|VB when|WRB it|PRP comes|VBZ to|TO enforcing|VBG claims|NNS on|IN governments|NNS when|WRB greece|NN restructured|VBD its|PRP$ debts|NNS in|IN march|NN for|IN instance|NN many|JJ months|NNS of|IN backroom|NN haggling|VBG ensued|VBN before|IN the|DT cdss|NN finally|RB paid|VBN out|RP </s>|S_END
+<s>|S_START greece|NN argued|VBD it|PRP was|VBD not|RB defaulting|VBG as|IN its|PRP$ debts|NNS were|VBD “voluntarily”|JJ restructured|VBN </s>|S_END
+<s>|S_START good|JJ luck|NN trying|VBG this|DT with|IN your|PRP$ mortgage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START investors|NNS are|VBP already|RB looking|VBG at|IN new|JJ ways|NNS to|TO place|VB bearish|JJ bets|NNS on|IN eurozone|NN countrie|NN </s>|S_END
+<s>|S_START one|CD way|NN is|VBZ to|TO short|JJ government|NN bonds|NNS themselves|PRP though|IN in|IN practice|NN this|DT is|VBZ fiddly|RB </s>|S_END
+<s>|S_START ome|NN fret|VBD about|IN the|DT effect|NN of|IN “proxy|JJ hedging”|NN if|IN an|DT investor|NN can’t|NN buy|NN a|DT cds|NNS on|IN italy|RB itself|PRP a|DT swap|NN on|IN a|DT large|JJ italian|NN bank|NN which|WDT would|MD almost|RB inevitably|RB fall|VBP over|IN in|IN the|DT case|NN of|IN a|DT sovereign|NN default|NN is|VBZ a|DT suitable|JJ substitute|NN </s>|S_END
+<s>|S_START jpmorgan|NN pitched|VBD this|DT idea|NN to|TO its|PRP$ clients|NNS earlier|JJR this|DT month|NN </s>|S_END
+<s>|S_START the|DT effect|NN will|MD be|VB to|TO push|VB up|IN cds|NNS spreads|NNS for|IN large|JJ firms|NNS raising|VBG their|PRP$ cost|NN of|IN borrowing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START critics|NNS say|VBP the|DT restrictions|NNS on|IN creditdefault|NN swaps|NNS amount|NN to|TO an|DT attempt|NN to|TO rig|VB the|DT market|NN only|RB those|DT with|IN a|DT rosy|JJ enough|RB view|NN of|IN the|DT euro|NN zone|NN to|TO have|VB bought|VBN underlying|VBG bonds|NNS can|MD trade|VB </s>|S_END
+<s>|S_START if|IN so|RB it|PRP won’t|JJ work|NN </s>|S_END
+<s>|S_START the|DT lower|JJR cds|NNS levels|NNS seen|VBP today|NN would|MD in|IN the|DT past|JJ have|VBP translated|VBN into|IN lower|JJR borrowing|VBG costs|NNS for|IN government|NN </s>|S_END
+<s>|S_START that|DT link|NN is|VBZ weakening|VBG </s>|S_END
+<s>|S_START politicians|NNS may|MD shoot|VB one|CD messenger|NN but|CC markets|NNS continue|VBP to|TO send|VB the|DT same|JJ signal|NN </s>|S_END
+</p>|P_END
+

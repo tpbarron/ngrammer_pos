@@ -1,0 +1,93 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN policymakers|NNS last|JJ overhauled|VBN the|DT corporate|JJ tax|NN system|NN 26|CD years|NNS ago|RB </s>|S_END
+<s>|S_START the|DT economy|NN international|JJ trade|NN and|CC technology|NN have|VBP changed|VBN drastically|RB since|IN then|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT result|NN is|VBZ an|DT outdated|VBN corporate|JJ tax|NN code|NN which|WDT tax|NN experts|NNS and|CC business|NN leaders|NNS say|VBP hinders|NNS rather|RB than|IN spurs|NNS us|PRP competitiveness|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START president|NN obama|VBD and|CC mitt|NN romney|NN have|VBP promised|VBN to|TO do|VB something|NN about|IN that|DT and|CC have|VBP made|VBN string|VBG of|IN corporate|JJ tax|NN reform|NN proposals|NNS but|CC they|PRP differ|VBP on|IN how|WRB to|TO address|VB the|DT most|JJS problematic|JJ parts|NNS of|IN the|DT code|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START common|JJ complaint|NN no|DT </s>|S_END
+<s>|S_START 1|LS the|DT united|VBN states|NNS has|VBZ one|CD of|IN the|DT highest|JJS statutory|NN corporate|JJ tax|NN rates|NNS in|IN the|DT world|NN 35|CD a|DT factor|NN that|WDT may|MD reduce|VB business|NN investment|NN here|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT flip|NN side|NN however|RB is|VBZ that|IN large|JJ us|PRP corporations|NNS often|RB end|VBP up|RP with|IN effective|JJ tax|NN rates|NNS taxes|NNS paid|VBD divided|VBN by|IN profits|NNS far|RB below|IN 35|CD thanks|NNS to|TO a|DT bevy|NN of|IN corporate|JJ tax|NN breaks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN lawmakers|NNS lower|JJR the|DT top|JJ statutory|NN tax|NN rate|NN making|VBG up|RP for|IN the|DT potential|NN loss|NN in|IN revenue|NN will|MD be|VB hard|RB to|TO do|VB </s>|S_END
+<s>|S_START for|IN example|NN even|RB if|IN lawmakers|NNS eliminated|VBN all|DT corporate|JJ tax|NN breaks|NNS a|DT tall|JJ order|NN that|WDT would|MD only|RB pay|VB for|IN a|DT rate|NN reduction|NN to|TO 28|CD or|CC 29|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD obama|NN vs|NNS romney|NN on|IN individual|JJ taxes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START common|JJ complaint|NN no|DT </s>|S_END
+<s>|S_START 2|LS the|DT united|VBN states|NNS still|RB taxes|VBZ profits|NNS earned|VBD abroad|RB by|IN usbased|VBN multinational|JJ companies|NNS whereas|NNS many|JJ other|JJ nations|NNS operate|VBP under|IN a|DT socalled|VBN territorial|JJ system|NN meaning|NN they|PRP only|RB tax|VBP corporate|JJ income|NN earned|VBD within|IN their|PRP$ borders|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC its|PRP$ also|RB true|JJ that|IN a|DT us|PRP multinational|JJ can|MD postpone|VB paying|VBG the|DT federal|JJ tax|NN owed|VBD on|IN its|PRP$ foreignbased|VBN profits|NNS indefinitely|RB </s>|S_END
+<s>|S_START thats|NNS because|IN the|DT tax|NN is|VBZ only|RB owed|VBN when|WRB the|DT company|NN chooses|VBZ to|TO bring|VB those|DT profits|NNS back|VBP to|TO the|DT united|VBN states|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT territorial|JJ system|NN could|MD help|VB us|PRP multinationals|NNS that|WDT compete|JJ abroad|NN in|IN lowtax|NN nations|NNS according|VBG to|TO the|DT tax|NN policy|NN center|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN contrast|NN the|DT most|JJS important|JJ argument|NN against|IN a|DT territorial|JJ system|NN is|VBZ that|IN it|PRP would|MD reinforce|VB an|DT already|RB strong|JJ tax|NN incentive|NN to|TO locate|VB both|DT economic|JJ activity|NN and|CC profits|NNS in|IN lowtax|NN countries|NNS the|DT center|NN noted|VBD </s>|S_END
+<s>|S_START and|CC that|DT could|MD reduce|VB the|DT amount|NN of|IN corporate|JJ tax|NN revenue|NN flowing|VBG into|IN us|PRP coffers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START obama|NN would|MD lower|VB the|DT top|JJ corporate|JJ tax|NN rate|NN to|TO 28|CD and|CC pay|NN for|IN the|DT rate|NN reduction|NN by|IN eliminating|NN dozens|NNS of|IN business|NN tax|NN breaks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT effective|JJ tax|NN rate|NN for|IN manufacturers|NNS would|MD be|VB capped|VBN at|IN 25|CD and|CC a|DT manufacturing|NN deduction|NN would|MD be|VB increased|VBN but|CC the|DT scope|NN of|IN those|DT eligible|JJ to|TO take|VB it|PRP would|MD be|VB narrowed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT key|JJ goal|NN of|IN the|DT administrations|NNS framework|VBP for|IN corporate|JJ tax|NN reform|NN is|VBZ to|TO discourage|NN companies|NNS from|IN parking|VBG profits|NNS abroad|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO that|DT end|NN obama|NN wants|VBZ to|TO impose|VB a|DT new|JJ minimum|JJ tax|NN rate|NN on|IN the|DT foreign|JJ profits|NNS made|VBN by|IN us|PRP multinationals|NNS operating|VBG in|IN lowtax|NN countries|NNS </s>|S_END
+<s>|S_START and|CC he|PRP would|MD require|VB that|IN the|DT minimum|JJ tax|NN rate|NN be|VB paid|VBN when|WRB the|DT profits|NNS are|VBP earned|VBN rather|RB than|IN let|NN us|PRP companies|VBZ defer|NN paying|VBG the|DT tax|NN owed|VBD until|IN the|DT money|NN is|VBZ brought|VBN back|RB to|TO the|DT united|VBN states|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT company|NN pays|VBZ income|NN tax|NN to|TO the|DT host|NN country|NN on|IN those|DT profits|NNS it|PRP would|MD get|VB a|DT foreign|JJ tax|NN credit|NN under|IN the|DT obama|NN proposal|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START companies|NNS that|DT move|NN their|PRP$ operations|NNS back|RB to|TO the|DT united|VBN states|NNS would|MD get|VB a|DT 20|CD tax|NN credit|NN </s>|S_END
+<s>|S_START those|DT that|DT move|NN operations|NNS abroad|RB would|MD no|RB longer|RBR be|VB able|JJ to|TO deduct|VB moving|VBG expenses|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romney|NN would|MD lower|VB the|DT top|JJ rate|NN to|TO 25|CD and|CC his|PRP$ economic|JJ plan|NN indicates|VBZ the|DT reduction|NN might|MD not|RB stop|VB there|EX </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gov|NN </s>|S_END
+<s>|S_START romney|NN will|MD also|RB explore|VB the|DT possibility|NN of|IN coupling|VBG further|JJ rate|NN reductions|NNS with|IN measures|NNS that|IN broaden|JJ the|DT income|NN base|NN and|CC simplify|NN the|DT rules|NNS the|DT plan|NN states|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP would|MD also|RB repeal|VB the|DT corporate|JJ alternative|NN minimum|NN tax|NN and|CC make|VB the|DT research|NN and|CC development|NN credit|NN permanent|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN terms|NNS of|IN international|JJ taxation|NN romney|NN would|MD like|VB to|TO switch|VB to|TO a|DT territorial|JJ system|NN so|IN that|IN profits|NNS earned|VBD abroad|RB by|IN usbased|VBN multinationals|NNS would|MD no|RB longer|RBR be|VB subject|JJ to|TO us|PRP tax|NN </s>|S_END
+</p>|P_END
+

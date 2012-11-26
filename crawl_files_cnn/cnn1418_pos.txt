@@ -1,0 +1,108 @@
+<p>|P_START
+<s>|S_START netflix|NN ceo|VBD reed|VBN hastings|NNS shared|VBN his|PRP$ one|CD big|JJ fear|NN at|IN the|DT d9|NNP conference|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN netflix|NN ceo|NN reed|VBD hastings|NNS has|VBZ one|CD big|JJ fear|NN that|IN his|PRP$ company|NN will|MD eventually|RB get|VB slow|JJ and|CC stodgy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hastings|NNS admission|NN came|VBD in|IN response|NN to|TO a|DT question|NN from|IN all|DT things|NNS d|VBP columnist|NN kara|NN swisher|NN who|WP moderated|VBN a|DT discussion|NN with|IN hastings|NNS on|IN wednesday|NN at|IN the|DT d9|NNP tech|NN conference|NN in|IN rancho|NN palos|NNS verdes|VBZ calif|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP worries|NNS you|PRP the|DT most|RBS when|WRB you|PRP wake|VBP up|RP every|DT day|NN </s>|S_END
+<s>|S_START swisher|PRP$ asked|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START you|PRP hear|VBP about|IN companies|NNS getting|VBG long|RB in|IN the|DT tooth|NN hastings|NNS said|VBD </s>|S_END
+<s>|S_START all|DT of|IN these|DT innovations|NNS are|VBP going|VBG on|IN every|DT day|NN all|DT around|IN you|PRP </s>|S_END
+<s>|S_START one|CD day|NN someone|NN could|MD overtake|VB you|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN the|DT surface|NN netflix|NN doesnt|NN appear|NN to|TO have|VB any|DT major|JJ competitors|NNS to|TO its|PRP$ mix|NN of|IN video|NN streaming|VBG and|CC dvd|NN rental|NN </s>|S_END
+<s>|S_START swisher|PRP$ asked|VBD hastings|NNS whether|IN he|PRP felt|VBD threatened|VBN by|IN amazon|NN amzn|NN fortune|NN 500|CD google|NN goog|NN fortune|NN 500|CD or|CC apple|JJ aapl|NN fortune|NN 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START our|PRP$ major|JJ competitor|NN is|VBZ going|VBG to|TO be|VB cable|JJ and|CC satellite|JJ companies|NNS switching|VBG to|TO a|DT tv|NN everywhere|RB model|NN hastings|NNS said|VBD </s>|S_END
+<s>|S_START eventually|RB they|PRP will|MD be|VB bundling|VBG that|IN kind|NN of|IN video|NN into|IN a|DT package|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START swisher|PRP$ expressed|VBN doubt|NN noting|NN that|IN big|JJ cable|JJ companies|NNS have|VBP been|VBN pretty|RB slow|JJ to|TO integrate|VB online|NN streaming|VBG video|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START theyre|NN still|RB a|DT formidable|JJ competitor|NN its|PRP$ a|DT huge|JJ industry|NN hastings|NNS replied|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP reiterated|VBD his|PRP$ past|JJ comments|NNS about|IN netflixs|NNS lack|VBP of|IN current|JJ season|NN tv|NN or|CC newer|JJR movies|NNS saying|VBG that|IN all|DT that|DT new|JJ stuff|NN is|VBZ expensive|JJ so|RB you|PRP cant|VBP have|VBP that|IN at|IN just|RB $|$ 8|CD a|DT month|NN </s>|S_END
+<s>|S_START at|IN a|DT conference|NN last|JJ month|NN hastings|NNS said|VBD going|VBG after|IN that|DT type|NN of|IN content|NN would|MD spark|VB world|NN war|NN iii|NN with|IN cable|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START still|RB hastings|VBZ said|VBN netflix|NN nflx|NN would|MD like|VB to|TO work|VB out|RP a|DT deal|NN with|IN hbo|NN and|CC showtime|VB to|TO get|VB earlier|JJR season|NN content|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START swisher|PRP$ asked|VBD why|WRB that|IN wasnt|JJ possible|JJ </s>|S_END
+<s>|S_START hastings|NNS shot|VBD back|RB checks|NNS not|RB big|JJ enough|RB yet|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START international|JJ expansion|NN netflix|NN launched|VBD in|IN canada|NN late|JJ last|JJ year|NN though|IN its|PRP$ been|VBN somewhat|JJ stymied|VBN by|IN the|DT countrys|NNS severe|VBP bandwidth|NN caps|NNS and|CC it|PRP has|VBZ plans|VBZ for|IN two|CD more|JJR new|JJ markets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP tell|VBP investors|NNS that|IN the|DT better|JJR we|PRP do|VBP internationally|RB the|DT more|RBR money|NN well|RB lose|JJ because|IN well|RB invest|VBP more|JJR hastings|NNS said|VBD </s>|S_END
+<s>|S_START in|IN canada|NN we|PRP think|VBP well|RB be|VB profitable|JJ within|IN a|DT year|NN of|IN launch|NN </s>|S_END
+<s>|S_START china|NN is|VBZ tough|IN for|IN us|PRP but|CC korea|NN india|NNS japan|VBP those|DT would|MD be|VB great|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START netflix|NN would|MD have|VB existing|VBG competitors|NNS in|IN some|DT of|IN those|DT markets|NNS hastings|NNS said|VBD </s>|S_END
+<s>|S_START he|PRP used|VBD that|IN opportunity|NN to|TO point|NN out|RP that|IN netflix|NN is|VBZ finally|RB beating|VBG bittorrent|NN but|CC he|PRP didnt|VBD go|VB into|IN specifics|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START social|JJ component|NN coming|VBG during|IN a|DT qa|NN session|NN an|DT audience|NN member|NN at|IN d9|NNP asked|VBD hastings|NNS why|WRB netflix|NN lacks|VBZ a|DT social|JJ component|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX should|MD be|VB hastings|NNS replied|VBN </s>|S_END
+<s>|S_START we|PRP launched|VBD netflix|CD friends|NNS in|IN 2005|CD to|TO try|NN to|TO build|VB our|PRP$ own|JJ private|JJ social|JJ network|NN </s>|S_END
+<s>|S_START but|CC in|IN two|CD or|CC three|CD years|NNS we|PRP learned|VBD as|IN many|JJ companies|NNS did|VBD that|IN people|NNS dont|VBP want|JJ vendorbyvendor|NN networks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START instead|RB hastings|NNS said|VBD customers|NNS prefer|VBP to|TO use|VB facebook|NN for|IN socializing|NN across|IN the|DT internet|NN </s>|S_END
+<s>|S_START netflix|NN is|VBZ working|VBG on|IN a|DT facebook|NN integration|NN he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START beyond|IN the|DT internet|NN hastings|NNS discussed|VBD the|DT limitations|NNS of|IN video|NN on|IN mobile|JJ devices|NNS small|JJ screens|NNS and|CC he|PRP said|VBD laptops|NNS still|RB make|VBP up|RP the|DT largest|JJS share|NN of|IN netflix|NN use|NN </s>|S_END
+<s>|S_START but|CC he|PRP said|VBD the|DT company|NN is|VBZ agnostic|JJ about|IN devices|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ more|JJR an|DT internet|JJ service|NN on|IN every|DT device|NN he|PRP said|VBD </s>|S_END
+<s>|S_START we|PRP want|VBP customers|NNS to|TO be|VB able|JJ to|TO access|NN it|PRP whenever|RB they|PRP want|VBP it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC devices|NNS arent|NN all|DT that|DT will|MD evolve|VB hastings|NNS said|VBD </s>|S_END
+<s>|S_START the|DT very|JJ fabric|JJ of|IN the|DT internet|NN is|VBZ changing|VBG and|CC it|PRP may|MD become|VB obsolete|JJ itself|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START something|NN will|MD eventually|RB replace|VB the|DT internet|NN he|PRP said|VBD </s>|S_END
+<s>|S_START but|CC is|VBZ that|IN in|IN 10|CD years|NNS 100|CD or|CC 500|CD </s>|S_END
+<s>|S_START its|PRP$ incredibly|RB hard|JJ to|TO imagine|VB </s>|S_END
+<s>|S_START its|PRP$ like|IN asking|VBG our|PRP$ ancestors|NNS on|IN horses|NNS to|TO imagine|VB a|DT car|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

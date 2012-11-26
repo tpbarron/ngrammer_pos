@@ -1,0 +1,16 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 10|CD gdp|NN $|$ 575bn|CD ppp|CD $|$ 399bn|CD inflation|NN 13|CD population|NN 96m|CD gdp|NN per|IN head|NN $|$ 60130|CD ppp|CD $|$ 41710|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT economy|NN is|VBZ growing|VBG and|CC the|DT budget|NN is|VBZ heading|VBG into|IN surplus|NN but|CC the|DT fourparty|NN centreright|NN coalition|NN is|VBZ facing|VBG a|DT succession|NN of|IN defeats|NNS in|IN parliament|NN and|CC will|MD find|VB it|PRP hard|RB to|TO implement|VB its|PRP$ agenda|NN and|CC perhaps|RB even|RB to|TO see|VB out|RP its|PRP$ full|JJ term|NN </s>|S_END
+<s>|S_START reforms|NNS to|TO encourage|VB jobseeking|NN and|CC to|TO divest|VB state|NN assets|NNS can|MD proceed|VB only|RB where|WRB opposition|NN can|MD be|VB bypassed|VBN so|RB progress|NN will|MD be|VB incremental|JJ </s>|S_END
+<s>|S_START wedens|NNS economy|VBP like|IN most|JJS in|IN europe|NN will|MD be|VB weak|JJ though|IN it|PRP will|MD expand|VB more|RBR than|IN most|JJS of|IN the|DT other|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB not|RB right|RB </s>|S_END
+<s>|S_START the|DT one|CD thing|NN all|DT leading|VBG parties|NNS share|NN is|VBZ their|PRP$ distaste|NN for|IN the|DT farright|NN sweden|NN democrats|NNS who|WP have|VBP been|VBN garnering|VBG support|NN since|IN entering|NN parliament|NN in|IN 2010|CD </s>|S_END
+<s>|S_START for|IN this|DT reason|NN alone|NN the|DT ruling|NN coalition|NN will|MD probably|RB be|VB allowed|VBN to|TO complete|VB its|PRP$ term|NN </s>|S_END
+</p>|P_END
+

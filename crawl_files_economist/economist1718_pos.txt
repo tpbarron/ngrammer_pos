@@ -1,0 +1,40 @@
+<p>|P_START
+<s>|S_START it|PRP had|VBD seemed|VBN a|DT simple|JJ enough|RB wheeze|NN </s>|S_END
+<s>|S_START give|JJ banks|NNS unlimited|VBN access|NN to|TO 3year|JJ funding|NN from|IN the|DT european|JJ central|JJ bank|NN and|CC it|PRP wouldnt|VBD take|VB much|JJ more|RBR than|IN a|DT nudge|NN and|CC a|DT wink|NN for|IN them|PRP to|TO buy|VB the|DT bonds|NNS of|IN europes|NNS troubled|VBD peripheral|JJ countries|NNS instead|RB of|IN having|VBG the|DT ecb|NN do|VBP the|DT job|NN itself|PRP </s>|S_END
+<s>|S_START for|IN those|DT too|RB dull|JJ to|TO read|VB between|IN the|DT lines|NNS nicolas|VBZ sarkozy|JJ frances|NNS president|NN spelled|VBD it|PRP out|IN “each|JJ state|NN can|MD turn|VB to|TO its|PRP$ banks|NNS which|WDT will|MD have|VB liquidity|NN at|IN their|PRP$ disposal”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT wheeze|NN however|RB seems|VBZ to|TO have|VB been|VBN too|RB clever|RB by|IN half|NN </s>|S_END
+<s>|S_START hours|NNS after|IN mr|NN sarkozy|NN was|VBD urging|VBG banks|NNS to|TO bail|VB out|RP governments|NNS the|DT european|JJ banking|NN authority|NN eba|NN released|VBN the|DT results|NNS of|IN its|PRP$ updated|VBN stress|NN tests|NNS showing|VBG that|IN european|JJ banks|NNS need|VBP to|TO raise|VB €115|-NONE- billion|CD $|$ 149|CD billion|CD in|IN extra|JJ capital|NN mainly|RB to|TO offset|VB a|DT fall|NN in|IN the|DT value|NN of|IN their|PRP$ existing|VBG holdings|NNS of|IN government|NN bonds|NNS issued|VBN by|IN troubled|JJ peripheral|JJ european|JJ countrie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT banks|NNS with|IN the|DT biggest|JJS capital|NN shortfalls|NNS are|VBP those|DT from|IN spain|NN greece|NN and|CC italy|RB </s>|S_END
+<s>|S_START everal|JJ may|MD have|VB to|TO tap|VB government|NN bailout|IN funds|NNS to|TO raise|VB the|DT capital|NN creating|VBG the|DT circular|JJ prospect|NN of|IN governments|NNS bailing|VBG out|RP their|PRP$ banks|NNS that|WDT are|VBP in|IN turn|NN supposed|VBN to|TO bail|VB out|RP the|DT government|NN </s>|S_END
+<s>|S_START italian|JJ banks|NNS for|IN instance|NN will|MD need|VB €15|-NONE- billion|CD in|IN additional|JJ capital|NN among|IN them|PRP is|VBZ unicredit|NN italys|NNS biggest|JJS bank|NN by|IN assets|NNS which|WDT holds|NNS some|DT €40|-NONE- billion|CD in|IN italian|JJ government|NN debt|NN and|CC needs|VBZ to|TO raise|VB almost|RB €8|-NONE- billion|CD in|IN capital|NN </s>|S_END
+<s>|S_START panish|JJ banks|NNS need|VBP €26|-NONE- billion|CD </s>|S_END
+<s>|S_START europes|NNS core|VBP has|VBZ not|RB been|VBN spared|VBN either|DT </s>|S_END
+<s>|S_START banks|NNS in|IN germany|NN the|DT euro|NN areas|NNS biggest|JJS creditor|NN country|NN need|VBP additional|JJ capital|NN and|CC commerzbank|NN germanys|NNS secondlargest|VBP bank|NN may|MD also|RB find|VB itself|PRP asking|VBG for|IN government|NN help|NN to|TO fill|VB a|DT €53|NN billion|NN hole|NN in|IN its|PRP$ balancesheet|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT few|JJ months|NNS ago|RB banks|NNS in|IN peripheral|JJ countries|NNS were|VBD only|RB too|RB happy|JJ to|TO fill|VB their|PRP$ vaults|NNS with|IN bonds|NNS issued|VBN by|IN their|PRP$ own|JJ government|NN </s>|S_END
+<s>|S_START the|DT feeling|NN at|IN the|DT time|NN was|VBD that|IN the|DT banks|NNS would|MD live|VB or|CC die|VB along|JJ with|IN their|PRP$ home|NN countries|NNS so|RB there|RB was|VBD little|JJ point|NN in|IN trying|VBG to|TO mitigate|VB the|DT risk|NN </s>|S_END
+<s>|S_START moreover|RB most|RBS peripheral|JJ banks|NNS have|VBP seen|VBN their|PRP$ funding|NN costs|NNS soar|VBP </s>|S_END
+<s>|S_START they|PRP had|VBD little|JJ choice|NN but|CC to|TO buy|VB government|NN bonds|NNS with|IN similarly|RB high|JJ yield|NN </s>|S_END
+<s>|S_START “what|JJ else|NN can|MD i|VB do”|JJ said|NN the|DT boss|NN of|IN a|DT big|JJ italian|JJ bank|NN in|IN relation|NN to|TO its|PRP$ large|JJ holdings|NNS of|IN italian|JJ government|NN bond|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT ardour|PRP$ has|VBZ cooled|VBN since|IN the|DT end|NN of|IN october|NN when|WRB the|DT eba|NN first|RB asked|VBD banks|NNS to|TO set|VB aside|JJ extra|NN capital|NN against|IN the|DT possibility|NN of|IN losses|NNS on|IN euroarea|NN government|NN bond|NN </s>|S_END
+<s>|S_START ome|NN bankers|NNS now|RB fret|VBP that|IN their|PRP$ accountants|NNS may|MD force|VB them|PRP regularly|RB to|TO “mark|JJ to|TO market”|NNP their|PRP$ holdings|NNS and|CC set|VB aside|JJ capital|NN if|IN bond|NN prices|NNS fall|VBP </s>|S_END
+<s>|S_START that|DT would|MD prevent|VB even|RB the|DT most|RBS troubled|JJ banks|NNS from|IN gambling|VBG for|IN redemption|NN by|IN taking|NN big|JJ bets|NNS on|IN bond|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banks|NNS from|IN richer|JJR countries|NNS will|MD be|VB even|RB less|JJR inclined|VBN to|TO help|VB out|RP </s>|S_END
+<s>|S_START “foreign|JJ banks|NNS have|VBP been|VBN prepared|VBN to|TO take|VB large|JJ charges|NNS to|TO sell|VB ‘toxic|JJ foreign|JJ sovereign|NN debt|NN so|IN the|DT idea|NN that|IN they|PRP would|MD reload|VB seems|NNS fanciful”|-NONE- says|VBZ jon|NN peace|NN an|DT analyst|NN at|IN nomura|NN </s>|S_END
+<s>|S_START governments|NNS hoping|VBG for|IN a|DT helping|VBG hand|NN in|IN bond|NN markets|NNS will|MD have|VB to|TO look|VB farther|RP afield|NN than|IN their|PRP$ own|JJ tottering|NN bank|NN </s>|S_END
+</p>|P_END
+

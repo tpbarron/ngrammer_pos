@@ -1,0 +1,58 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN more|RBR than|IN 200000|CD longterm|NN jobless|NN americans|NNS will|MD lose|VB their|PRP$ unemployment|NN checks|NNS this|DT week|NN when|WRB eight|CD states|NNS roll|VBP off|RP the|DT federal|JJ extended|JJ benefits|NNS program|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nearly|RB half|NN of|IN them|PRP live|VBP in|IN california|NN and|CC the|DT rest|NN reside|NN in|IN florida|NN illinois|NNS north|JJ carolina|NN colorado|NN connecticut|NN pennsylvania|NN and|CC texas|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT federal|JJ extended|JJ benefits|NNS program|NN has|VBZ provided|VBN the|DT jobless|NN with|IN up|IN to|TO 20|CD weeks|NNS of|IN unemployment|NN checks|NNS after|IN theyve|JJ run|NN through|IN their|PRP$ state|NN and|CC their|PRP$ federal|JJ emergency|NN benefits|NNS which|WDT together|RB last|JJ up|IN to|TO 79|CD weeks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT extended|JJ benefits|NNS program|NN is|VBZ expiring|VBG throughout|IN the|DT country|NN as|IN the|DT economy|NN improves|VBZ </s>|S_END
+<s>|S_START to|TO be|VB eligible|JJ for|IN these|DT benefits|NNS a|DT state|NN must|MD show|VB that|IN its|PRP$ unemployment|NN rate|NN is|VBZ at|IN least|JJS 10|CD higher|JJR than|IN it|PRP was|VBD in|IN at|IN least|JJS one|CD of|IN the|DT past|JJ three|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START state|NN unemployment|NN rates|NNS have|VBP been|VBN falling|VBG as|IN the|DT jobless|NN find|NN new|JJ positions|NNS or|CC exit|NN the|DT workforce|NN </s>|S_END
+<s>|S_START for|IN instance|NN nevada|NN has|VBZ the|DT highest|JJS state|NN unemployment|NN rate|NN at|IN 12|CD but|CC its|PRP$ still|RB below|IN the|DT 14|CD it|PRP logged|VBD in|IN october|NN 2010|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START already|RB 25|CD states|NNS have|VBP rolled|VBN off|RP the|DT extended|JJ benefits|NNS program|NN with|IN 15|CD of|IN them|PRP exiting|VBG last|JJ month|NN alone|RB </s>|S_END
+<s>|S_START but|CC more|RBR unemployed|VBN folks|NNS will|MD be|VB affected|VBN by|IN this|DT weeks|NNS cessation|NN than|IN aprils|NNS when|WRB about|IN 135000|CD people|NNS saw|VBD their|PRP$ payments|NNS end|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN the|DT beginning|NN of|IN september|NN the|DT benefits|NNS will|MD disappear|VB in|IN another|DT seven|CD states|NNS leaving|VBG alaska|NN as|IN the|DT sole|JJ place|NN to|TO offer|VB it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT jobless|NN have|VBP been|VBN able|JJ to|TO collect|VB up|RP to|TO 99|CD weeks|NNS of|IN benefits|NNS for|IN much|RB of|IN the|DT great|JJ recession|NN and|CC its|PRP$ aftermath|NN </s>|S_END
+<s>|S_START but|CC after|IN multiple|NNS extensions|NNS congress|VBP in|IN february|JJ passed|VBN a|DT law|NN that|WDT starts|VBZ phasing|VBG out|RP this|DT unprecedented|VBN lifeline|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START starting|VBG later|JJ this|DT year|NN the|DT maximum|NN number|NN of|IN weeks|NNS the|DT jobless|NN can|MD collect|VB unemployment|NN benefits|NNS will|MD be|VB reduced|VBN to|TO as|RB little|JJ as|IN 40|CD weeks|NNS in|IN states|NNS with|IN jobless|NN rates|NNS below|IN 6|CD and|CC to|TO as|RB many|JJ as|IN 73|CD weeks|NNS where|WRB unemployment|NN tops|NNS 9|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT issue|NN of|IN supporting|VBG the|DT longterm|NN unemployed|VBD who|WP number|NN 51|CD million|CD or|CC 41|CD of|IN the|DT jobless|NN has|VBZ split|VBN policy|NN makers|NNS and|CC economists|NNS </s>|S_END
+<s>|S_START some|DT argue|VBP that|IN these|DT costly|JJ benefits|NNS need|VBP to|TO end|VB to|TO spur|VB people|NNS to|TO find|VB work|NN </s>|S_END
+<s>|S_START but|CC others|NNS say|VBP the|DT economy|NN is|VBZ still|RB too|RB weak|JJ to|TO roll|VB up|RP the|DT safety|NN net|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT hundreds|NNS of|IN thousands|NNS of|IN longterm|NN unemployed|VBN who|WP are|VBP being|VBG abruptly|RB pushed|VBN off|RP the|DT extended|JJ benefits|NNS program|NN are|VBP just|RB the|DT latest|JJS wave|NN of|IN jobless|NN workers|NNS forced|VBD to|TO survive|VB without|IN basic|JJ financial|JJ protections|NNS said|VBD george|NN wentworth|NN senior|JJ staff|NN attorney|NN at|IN the|DT national|JJ employment|NN law|NN project|NN an|DT advocacy|NN group|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START attention|NN class|NN of|IN 2012|CD did|VBD you|PRP land|VB a|DT job|NN in|IN your|PRP$ field|NN or|CC are|VBP you|PRP working|VBG a|DT retail|JJ job|NN </s>|S_END
+<s>|S_START do|VBP you|PRP have|VB an|DT internship|NN or|CC are|VBP you|PRP unemployed|VBD </s>|S_END
+<s>|S_START we|PRP are|VBP looking|VBG to|TO profile|VB several|JJ brandnew|JJ grads|NNS and|CC learn|VB their|PRP$ postcommencement|NN plans|NNS </s>|S_END
+<s>|S_START to|TO participate|VB send|NN an|DT email|NN to|TO realstoriescnnmoneycom|VB </s>|S_END
+<s>|S_START please|NN include|VBP a|DT contact|NN phone|NN number |NN </s>|S_END
+</p>|P_END
+

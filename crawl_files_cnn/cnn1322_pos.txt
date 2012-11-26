@@ -1,0 +1,81 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN hundreds|NNS of|IN personal|JJ gmail|NN accounts|NNS including|VBG those|DT of|IN some|DT senior|JJ us|PRP government|NN officials|NNS were|VBD hacked|VBN as|IN a|DT result|NN of|IN a|DT massive|JJ phishing|NN scheme|NN originating|VBG from|IN china|NN google|NN said|VBD wednesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT account|NN hijackings|NNS were|VBD a|DT result|NN of|IN stolen|NN passwords|NNS likely|JJ by|IN malware|NN installed|VBN on|IN victims|NNS computers|NNS or|CC through|IN victims|NNS responses|NNS to|TO emails|NNS from|IN malicious|JJ hackers|NNS posing|VBG as|IN trusted|JJ sources|NNS </s>|S_END
+<s>|S_START that|DT type|NN of|IN hack|NN is|VBZ known|VBN as|IN phishing|NN </s>|S_END
+<s>|S_START gmails|NNS security|NN systems|NNS themselves|PRP were|VBD not|RB compromised|VBN google|JJ said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT company|NN believes|VBZ the|DT phishing|NN attack|NN emanated|VBD from|IN jinan|NN china|NN </s>|S_END
+<s>|S_START in|IN addition|NN to|TO the|DT us|PRP government|NN personnel|NN other|JJ targets|NNS included|VBD south|NN korean|NN government|NN officials|NNS and|CC federal|JJ workers|NNS of|IN several|JJ other|JJ asian|JJ countries|NNS chinese|JJ political|JJ activists|NNS military|JJ personnel|NN and|CC journalists|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT department|NN of|IN homeland|NN security|NN is|VBZ aware|JJ of|IN googles|NNS message|VBP to|TO its|PRP$ customers|NNS said|VBD chris|NNS ortman|NN a|DT spokesman|NN for|IN the|DT agency|NN </s>|S_END
+<s>|S_START we|PRP are|VBP working|VBG with|IN google|JJ and|CC our|PRP$ federal|JJ partners|NNS to|TO review|VB the|DT matter|NN offer|NN analysis|NN of|IN any|DT malicious|JJ activity|NN and|CC develop|VB solutions|NNS to|TO mitigate|VB further|JJ risk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START secretary|NN of|IN state|NN hillary|NN clinton|NN addressed|VBD the|DT issue|NN thursday|NN morning|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN informed|VBD the|DT state|NN department|NN of|IN this|DT situation|NN yesterday|NN in|IN advance|NN of|IN its|PRP$ public|JJ announcement|NN she|PRP said|VBD </s>|S_END
+<s>|S_START these|DT allegations|NNS are|VBP very|RB serious|JJ we|PRP take|VBP them|PRP seriously|RB were|VBD looking|VBG into|IN them|PRP and|CC because|IN this|DT will|MD be|VB an|DT ongoing|JJ investigation|NN i|PRP would|MD refer|VB you|PRP to|TO first|JJ google|NN for|IN any|DT details|NNS that|WDT they|PRP are|VBP able|JJ to|TO share|VB at|IN this|DT time|NN and|CC to|TO the|DT fbi|NN which|WDT will|MD be|VB conducting|VBG the|DT investigation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START federal|JJ bureau|NN of|IN investigation|NN spokesman|NN paul|NN bresson|NN said|VBD the|DT agency|NN is|VBZ working|VBG with|IN google|JJ and|CC with|IN us|PRP government|NN agencies|NNS to|TO review|VB this|DT matter|NN further|RB to|TO identify|VB the|DT origin|NN of|IN this|DT campaign|NN and|CC to|TO see|VB what|WP information|NN may|MD have|VB been|VBN compromised|VBN </s>|S_END
+<s>|S_START he|PRP declined|VBD to|TO comment|NN further|RB on|IN the|DT investigation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT news|NN comes|VBZ a|DT little|RB more|RBR than|IN a|DT year|NN after|IN a|DT separate|JJ hack|NN originating|VBG from|IN china|NN affected|VBN gmail|NN accounts|NNS of|IN chinese|JJ human|NN rights|NNS activists|NNS </s>|S_END
+<s>|S_START in|IN that|DT case|NN attackers|NNS were|VBD able|JJ to|TO break|VB through|IN googles|NNS security|NN systems|NNS and|CC two|CD gmail|NN accounts|NNS were|VBD hacked|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT cyber|NN attack|NN set|NN off|IN a|DT series|NN of|IN events|NNS that|WDT eventually|RB led|VBD to|TO google|VB ending|VBG its|PRP$ agreement|NN with|IN the|DT chinese|JJ government|NN to|TO censor|VB certain|JJ search|NN results|NNS and|CC the|DT company|NN physically|RB moved|VBD its|PRP$ servers|NNS out|IN of|IN the|DT country|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN thursday|NN after|IN the|DT most|RBS recent|JJ cyber|NN attack|NN a|DT chinese|NN official|NN insisted|VBD that|IN his|PRP$ government|NN takes|VBZ the|DT attacks|NNS seriously|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP firmly|RB oppose|VBP computer|NN hacking|VBG or|CC any|DT illegal|JJ activity|NN that|WDT harms|VBZ net|JJ security|NN and|CC will|MD severely|RB punish|VB anyone|NN engaging|VBG in|IN such|JJ activity|NN according|VBG to|TO law|NN said|VBD foreign|JJ ministry|NN spokesman|NN hong|IN lei|NN </s>|S_END
+<s>|S_START computer|NN hacking|VBG is|VBZ an|DT international|JJ problem|NN and|CC china|NN is|VBZ also|RB a|DT victim|NN </s>|S_END
+<s>|S_START any|DT accusation|NN linking|VBG china|NN to|TO such|JJ activity|NN is|VBZ baseless|NN and|CC with|IN ulterior|JJ motives|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT time|NN around|RP the|DT hack|NN appears|VBZ larger|JJR in|IN scope|NN but|CC google|JJ itself|PRP was|VBD not|RB attacked|VBN </s>|S_END
+<s>|S_START a|DT person|NN with|IN knowledge|NN of|IN the|DT attacks|NNS details|NNS said|VBD there|RB was|VBD no|DT apparent|NN correlation|NN between|IN last|JJ years|NNS attack|VBP and|CC this|DT one|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT spokesman|NN from|IN google|JJ declined|VBN to|TO comment|VB on|IN how|WRB the|DT company|NN obtained|VBD the|DT information|NN about|IN the|DT most|RBS recent|JJ hack|NN </s>|S_END
+<s>|S_START public|JJ information|NN user|NN reports|NNS and|CC a|DT thirdparty|NN hacking|VBG blog|NN called|VBN contagio|NN was|VBD used|VBN to|TO determine|VB the|DT scope|NN targets|NNS and|CC source|NN of|IN the|DT attack|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN goog|NN fortune|NN 500|CD said|VBD it|PRP notified|VBD the|DT victims|NNS and|CC disrupted|VBD the|DT campaign|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT hackers|NNS were|VBD attempting|VBG to|TO monitor|NN the|DT victims|NNS emails|VBZ and|CC some|DT users|NNS forwarding|VBG settings|NNS were|VBD altered|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT company|NN urged|VBD users|NNS to|TO please|VB spend|NN ten|VBN minutes|NNS today|NN taking|VBG steps|NNS to|TO improve|VB your|PRP$ online|NN security|NN so|RB that|IN you|PRP can|MD experience|VB all|PDT that|DT the|DT internet|NN offers|VBZ while|IN also|RB protecting|VBG your|PRP$ data|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN provided|VBD several|JJ examples|NNS of|IN how|WRB gmail|JJ users|NNS can|MD better|VB protect|VB themselves|PRP from|IN phishing|VBG attacks|NNS on|IN its|PRP$ blog|NN including|VBG enabling|NN a|DT setting|NN that|WDT allows|VBZ users|NNS to|TO login|VB to|TO their|PRP$ accounts|NNS only|RB after|IN receiving|VBG a|DT verification|NN code|NN on|IN their|PRP$ phones|NNS </s>|S_END
+<s>|S_START the|DT company|NN also|RB suggested|VBD that|IN users|NNS monitor|NN their|PRP$ settings|NNS for|IN suspicious|JJ forwarding|NN settings|NNS </s>|S_END
+<s>|S_START cnns|NNS carol|VBP cratty|JJ contributed|VBN to|TO this|DT report |NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,67 @@
+<p>|P_START
+<s>|S_START foreclosure|NN fillings|NNS fell|VBD for|IN the|DT 22nd|CD straight|JJ month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN foreclosure|NN filings|NNS nationwide|VBP fell|VBD for|IN the|DT 22nd|CD straight|JJ month|NN in|IN july|RB but|CC a|DT spike|NN in|IN new|JJ foreclosures|NNS indicates|VBZ that|IN the|DT housing|NN market|NN still|RB has|VBZ a|DT long|JJ way|NN to|TO go|VB before|IN it|PRP works|VBZ through|IN its|PRP$ backlog|NN of|IN problem|NN loans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN july|RB foreclosure|NN filings|NNS including|VBG notices|NNS of|IN default|NN scheduled|VBN auctions|NNS or|CC actual|JJ bank|NN repossessions|NNS were|VBD reported|VBN on|IN just|RB under|IN 192000|CD properties|NNS down|IN 3|CD from|IN the|DT previous|JJ month|NN and|CC 10|CD lower|JJR than|IN last|JJ year|NN according|VBG to|TO realtytrac|VB an|DT online|NN marketer|NN of|IN foreclosed|VBN properties|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB foreclosure|VBP starts|NNS the|DT earliest|JJS stage|NN of|IN the|DT foreclosure|NN process|NN when|WRB delinquent|NN borrowers|NNS first|RB receive|JJ notices|NNS that|WDT they|PRP are|VBP in|IN default|NN rose|VBD 6|CD on|IN a|DT yearoveryear|JJ basis|NN </s>|S_END
+<s>|S_START july|RB marked|VBD the|DT third|JJ straight|NN month|NN that|WDT foreclosure|NN starts|VBZ have|VB increased|VBN on|IN an|DT annual|JJ basis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT new|JJ wave|NN of|IN foreclosure|NN filings|NNS come|VBP in|IN the|DT aftermath|NN of|IN the|DT $|$ 25|CD billion|CD foreclosure|NN settlement|NN which|WDT laid|VBD out|RP how|WRB the|DT banks|NNS could|MD atone|VB for|IN years|NNS of|IN abusing|VBG the|DT foreclosure|NN process|NN including|VBG robosigning|NN </s>|S_END
+<s>|S_START it|PRP set|VBD firm|NN guidelines|NNS for|IN how|WRB banks|NNS should|MD handle|VB foreclosures|NNS and|CC gave|VBD them|PRP more|JJR confidence|NN to|TO start|VB processing|NN foreclosure|NN filings|NNS they|PRP had|VBD previously|RB delayed|VBN said|VBD daren|VBN blomquist|NN a|DT realtytrac|NN spokesman|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT has|VBZ opened|VBN the|DT floodgates|NNS in|IN some|DT states|NNS especially|RB in|IN socalled|VBN judicial|JJ states|NNS where|WRB foreclosures|NNS are|VBP processed|VBN through|IN the|DT courts|NNS </s>|S_END
+<s>|S_START connecticut|NN saw|VBD a|DT 201|CD increase|NN in|IN foreclosure|NN starts|NNS in|IN july|RB while|IN new|JJ jersey|NN and|CC pennsylvania|NN recorded|VBD increases|NNS of|IN 164|CD and|CC 139|CD respectively|RB according|VBG to|TO realtytrac|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN the|DT spike|NN in|IN new|JJ foreclosure|NN filings|NNS isnt|VBP great|JJ news|NN for|IN the|DT housing|NN market|NN blomquist|NN predicts|VBZ that|IN fewer|JJR of|IN these|DT homes|NNS will|MD actually|RB make|VB it|PRP all|DT the|DT way|NN through|IN the|DT foreclosure|NN process|NN to|TO the|DT point|NN of|IN repossession|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN fact|NN fewer|NN homes|VBZ are|VBP ending|VBG up|RP at|IN that|DT point|NN already|RB </s>|S_END
+<s>|S_START bank|NN repossessions|NNS fell|VBD 21|CD yearoveryear|NN in|IN july|RB to|TO 53654|CD according|VBG to|TO realtytrac|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START part|NN of|IN that|DT is|VBZ due|JJ to|TO foreclosure|VB prevention|NN programs|NNS like|IN the|DT governments|NNS home|NN affordable|JJ modification|NN program|NN said|VBD blomquist|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN banks|NNS are|VBP processing|VBG short|JJ sales|NNS much|RB more|RBR quickly|RB and|CC even|RB encouraging|VBG borrowers|NNS to|TO pursue|VB these|DT transactions|NNS before|IN falling|VBG into|IN foreclosure|NN </s>|S_END
+<s>|S_START under|IN these|DT transactions|NNS the|DT home|NN is|VBZ sold|VBN for|IN less|JJR than|IN what|WP is|VBZ owed|VBN on|IN the|DT mortgage|NN and|CC the|DT lender|NN agrees|VBZ to|TO forgive|VB the|DT difference|NN </s>|S_END
+<s>|S_START while|IN the|DT bank|NN still|RB takes|VBZ a|DT hit|NN on|IN the|DT loan|NN its|PRP$ a|DT much|JJ more|RBR favorable|JJ option|NN than|IN a|DT foreclosure|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START where|WRB the|DT foreclosures|NNS are|VBP like|IN nearly|RB everything|NN in|IN real|JJ estate|NN its|PRP$ all|DT about|IN location|NN </s>|S_END
+<s>|S_START in|IN some|DT states|NNS like|IN california|NN foreclosure|NN rates|NNS are|VBP twice|NN as|IN high|JJ as|IN the|DT national|JJ average|NN while|IN in|IN places|NNS like|IN north|JJ dakota|NN theyre|NN barely|RB a|DT blip|NN on|IN realtytracs|NNS radar|NN </s>|S_END
+<s>|S_START the|DT state|NN had|VBD just|RB three|CD last|JJ month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START recent|JJ patterns|NNS vary|JJ significantly|RB from|IN state|NN to|TO state|NN often|RB hinging|VBG on|IN the|DT level|NN of|IN dysfunction|NN that|IN exists|NNS in|IN each|DT states|NNS foreclosure|VBP process|NN said|VBD blomquist|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN states|NNS like|IN florida|NN illinois|NNS and|CC new|JJ jersey|NN where|WRB the|DT processing|NN of|IN foreclosures|NNS slowed|VBN significantly|RB last|JJ year|NN in|IN the|DT wake|NN of|IN the|DT robosigning|NN scandal|NN foreclosure|NN activity|NN is|VBZ picking|VBG up|RP </s>|S_END
+<s>|S_START meanwhile|RB in|IN other|JJ states|NNS like|IN texas|NNS arizona|VBP and|CC virginia|NN where|WRB foreclosures|NNS were|VBD more|JJR quickly|RB processed|VBN foreclosure|NN activity|NN has|VBZ slowed|VBN significantly|RB he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START california|NN claimed|VBD many|JJ of|IN the|DT worst|JJS hit|NN markets|NNS including|VBG stockton|NN vallejo|NN riverside|NN and|CC modesto|NN </s>|S_END
+<s>|S_START palm|NN bay|NN fla|NN was|VBD the|DT fifth|JJ worst|NN </s>|S_END
+<s>|S_START las|NNS vegas|VBD once|RB ground|VBN zero|NN for|IN foreclosures|NNS for|IN years|NNS has|VBZ dropped|VBN out|RP of|IN the|DT top|JJ 20 |CD </s>|S_END
+</p>|P_END
+

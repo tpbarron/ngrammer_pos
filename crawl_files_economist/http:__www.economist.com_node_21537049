@@ -1,0 +1,22 @@
+<p>An urge to know what others will be up to next is part of the human condition. Soothsayers, fortune-tellers, stockbrokers—and publications like this one—have been catering to that obsession since mankind first began making plans for the future. Their record has been mixed. The biggest hurdle is the apparent unpredictability of individual behaviour. But if you knew the mood of all those involved, might a clearer picture emerge?</p>
+
+<p>The problem is that those involved can number millions, and their thinking is tricky to tap. But a new breed of forecasters think it is becoming a little easier. They are using “sentiment analysis” to pick out the emotionally charged words and phrases which pepper online exchanges.</p>
+
+<p>For instance, Johan Bollen, of Indiana University, Bloomington, has been trawling social-networking sites like Twitter for hints about people's disposition—and trying to see how collective mood swings follow and, more important, foretell the course of events. Dr Bollen's software has so impressed Derwent Capital Markets that the investment boutique has licensed it for one of its funds.</p>
+
+<p>Kalev Leetaru, of the University of Illinois, has looked at the (still) more ubiquitous old media. He reckons he has found a way to forecast revolutions. He examined almost 4m articles from the BBC's Summary of World Broadcasts (SWB), set up by Britain's authorities shortly before the second world war. Its aim was to scour publicly available foreign information—newspaper articles, television and radio broadcasts, and the like—for hints of attitudes towards the West, plus any other potentially helpful titbits.</p>
+
+<p>Today, the SWB covers 32,000 sources in over 130 countries. Foreign-language reports are meticulously translated to capture as many vernacular nuances as possible. Crucially, SWB data going back to 1979 have now been digitised. This has allowed Dr Leetaru to recruit a supercomputer to compare the relative frequency of positive and negative words in millions of reports, arriving at a figure for each report's emotional tone. These figures are then combined with place-name clues about which part of the world the reports concern to produce a global map of sentiment.</p>
+
+<p>Words can, of course, be used ironically to mean their opposite. Irony has been a bugbear of sentiment analysis: computers, unlike most people, continue to be stumped by it. Yet the length of the SWB's content makes that less of a problem than it is for, say, short tweets.</p>
+
+<p>Moreover, by looking at seasonal variations in tone (caused by factors like availability of food), Dr Leetaru's software can tell whether any changes conform to a cycle of collective mood swings which have not historically sparked unrest. Only if the souring of sentiment appears out of the ordinary would the model predict real trouble brewing.</p>
+
+<p>The results are remarkable. Dr Leetaru's map correctly indicated that resentment for autocratic rule was about to boil over in Egypt and Libya weeks before it actually did. (The SWB had too few articles about Tunisia for a reliable prediction.) It also accurately fingered northern Pakistan as the area where Osama bin Laden was most probably hiding.</p>
+
+<p>So far Dr Leetaru has looked only at how his model would have fared with the benefit of hindsight. In 2012 there will be more forward-looking predictions. That, though, is just an unscientific hunch.</p>
+
+<p> </p>
+
+<p>Jan Piotrowski: online science editor, The Economist</p>
+

@@ -1,0 +1,74 @@
+<p>|P_START
+<s>|S_START for|IN an|DT aspiring|VBG economic|JJ superpower|NN there|EX can|MD be|VB few|JJ more|JJR chastening|VBG events|NNS than|IN electricity|NN cuts|NNS as|IN massive|JJ as|IN those|DT that|WDT struck|NN northern|VBP and|CC eastern|JJ india|NNS this|DT week|NN </s>|S_END
+<s>|S_START an|DT area|NN including|VBG the|DT capital|NN delhi|NN in|IN which|WDT more|JJR than|IN 600m|CD people|NNS live|JJ faced|VBN blackouts|NNS over|IN two|CD day|NN </s>|S_END
+<s>|S_START infrastructure|NN from|IN traffic|JJ lights|NNS to|TO trains|NNS stopped|VBD working|VBG </s>|S_END
+<s>|S_START hospitals|NNS sanitation|NN plants|NNS and|CC offices|NNS ground|VBP to|TO a|DT halt|NN </s>|S_END
+<s>|S_START airports|NNS and|CC factories|NNS had|VBD to|TO rely|RB on|IN backup|NN generators|NNS often|RB fuelled|VBN by|IN truckloads|NNS of|IN diesel|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT impact|NN on|IN india’s|NNS economy|NN goes|VBZ far|RB beyond|IN lost|VBN output|NN </s>|S_END
+<s>|S_START the|DT blackout|NN will|MD badly|RB damage|VB the|DT country’s|NNP reputation|NN and|CC highlights|NNS the|DT rotten|NN infrastructure|NN that|WDT is|VBZ hobbling|VBG its|PRP$ efforts|NNS to|TO catch|VB up|RP with|IN china|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START does|VBZ anyone|NN have|VBP a|DT spare|NN battery|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT cause|NN of|IN the|DT blackouts|NNS is|VBZ murky—an|JJ overloading|NN of|IN the|DT national|JJ network|NN that|WDT links|VBZ together|RB regional|JJ grids|NNS is|VBZ the|DT most|RBS likely|JJ explanation|NN see|NN article|NN </s>|S_END
+<s>|S_START by|IN most|JJS accounts|NNS engineers|NNS did|VBD a|DT heroic|JJ job|NN of|IN patching|VBG things|NNS up|IN </s>|S_END
+<s>|S_START but|CC the|DT power|NN industry|NN which|WDT must|MD double|VB its|PRP$ output|NN roughly|RB every|DT decade|NN if|IN india|NNS is|VBZ to|TO grow|VB fast|JJ has|NNS long|RB been|VBN a|DT disaster|NN waiting|VBG to|TO happen|VB </s>|S_END
+<s>|S_START a|DT pile|NN of|IN private|JJ capital|NN has|VBZ been|VBN attracted|VBN to|TO build|VB new|JJ power|NN station|NN </s>|S_END
+<s>|S_START but|CC the|DT rest|NN of|IN the|DT supply|NN chain|NN is|VBZ a|DT me|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN one|CD end|NN not|RB enough|RB cheap|VB coal|NN is|VBZ being|VBG dug|NN up|IN and|CC gasfields|NNS are|VBP sputtering|VBG </s>|S_END
+<s>|S_START at|IN the|DT other|JJ the|DT national|JJ transmission|NN grid|NN needs|VBZ investment|NN </s>|S_END
+<s>|S_START meanwhile|RB the|DT “last|JJ mile”|NN distribution|NN companies|NNS largely|RB stateowned|VBN that|IN buy|NN power|NN and|CC deliver|RB it|PRP to|TO homes|VBZ and|CC firms|NNS are|VBP financial|JJ zombie|NN </s>|S_END
+<s>|S_START much|RB of|IN their|PRP$ power|NN is|VBZ pinched|VBN or|CC given|VBN away|RB free|JJ </s>|S_END
+<s>|S_START local|JJ politicians|NNS put|VBD pressure|NN on|IN them|PRP to|TO keep|VB tariffs|NNS low|JJ which|WDT leads|NNS to|TO huge|VB losse|NN </s>|S_END
+<s>|S_START queezed|VBD between|IN a|DT shortage|NN of|IN fuel|NN and|CC endcustomers|NNS who|WP are|VBP nearly|RB bust|RB those|DT private|JJ generating|NN firms|NNS are|VBP now|RB cutting|VBG back|RB on|IN vital|JJ longterm|NN investment|NN in|IN new|JJ plant|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT state|NN of|IN the|DT power|NN industry|NN causes|NNS problems|NNS for|IN the|DT country|NN not|RB just|RB because|IN electricity|NN is|VBZ in|IN short|JJ supply|NN </s>|S_END
+<s>|S_START the|DT distribution|NN companies’|NN huge|JJ debts|NNS weigh|VBP on|IN the|DT banks’|NNP balancesheets|VBZ threatening|VBG the|DT health|NN of|IN the|DT financial|JJ sector|NN as|IN well|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT solution|NN is|VBZ to|TO cut|VB graft|NN tackle|NN vested|VBD interests|NNS and|CC allow|VBP markets|NNS to|TO work|VB better|JJR </s>|S_END
+<s>|S_START the|DT coal|NN monopoly|RB needs|VBZ to|TO be|VB broken|VBN up|RP and|CC local|JJ distribution|NN firms|NNS privatised|VBD </s>|S_END
+<s>|S_START yet|RB despite|IN the|DT looming|NN crisis|NN for|IN a|DT decade|NN the|DT government|NN has|VBZ shirked|VBN doing|VBG what|WP is|VBZ clearly|RB necessary|JJ just|RB as|IN it|PRP has|VBZ failed|VBN to|TO implement|VB key|JJ tax|NN reforms|NNS cut|VBD public|JJ borrowing|NN or|CC open|JJ the|DT retail|JJ sector|NN to|TO competition|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ allowed|VBN corruption|NN and|CC red|VBD tape|NN to|TO damage|NN other|JJ vital|NN industries|NNS such|JJ as|IN telecom|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START politicians|NNS shirk|VBP these|DT tasks|NNS because|IN they|PRP fear|VBP offending|VBG powerful|JJ lobbies|NNS such|JJ as|IN the|DT farmers|NNS who|WP receive|JJ subsidised|VBD electricity|NN while|IN voters|NNS seem|VBP to|TO manifest|JJS little|JJ appetite|NN for|IN reform|NN </s>|S_END
+<s>|S_START no|DT party|NN has|VBZ a|DT clear|JJ majority|NN in|IN parliament|NN and|CC none|NN was|VBD elected|VBN on|IN a|DT platform|NN of|IN change|NN </s>|S_END
+<s>|S_START the|DT present|NN congressled|VBD coalition|NN government|NN has|VBZ few|JJ people|NNS with|IN a|DT record|NN of|IN or|CC an|DT instinct|NN for|IN reform|NN save|NN perhaps|RB the|DT prime|JJ minister|NN manmohan|IN singh|JJ who|WP has|VBZ now|RB run|VBN out|RP of|IN zip|NN </s>|S_END
+<s>|S_START it|PRP relies|VBZ on|IN fickle|NN regional|JJ parties|NNS to|TO stay|VB in|IN power|NN </s>|S_END
+<s>|S_START the|DT opposition|NN is|VBZ no|DT better—and|JJ possibly|RB worse|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START compared|VBN with|IN a|DT blackedout|NN india|NN china’s|NNS economic|JJ star|NN shines|NNS bright|VBD </s>|S_END
+<s>|S_START but|CC the|DT present|NN failures|NNS of|IN the|DT indian|JJ system|NN are|VBP not|RB an|DT argument|NN for|IN adopting|NN china’|-NONE- </s>|S_END
+<s>|S_START there|EX are|VBP autocracies|NNS without|IN enough|JJ electricity|NN and|CC democracies|NNS with|IN plenty|NN of|IN it|PRP </s>|S_END
+<s>|S_START meanwhile|RB democratically|RB elected|VBN governments|NNS are|VBP quite|RB capable|JJ of|IN winning|JJ public|JJ consent|NN for|IN brave|NN reforms—as|-NONE- india’s|VBZ did|JJ two|CD decades|NNS ago|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT government’s|JJ reaction|NN to|TO the|DT power|NN cuts|NNS has|VBZ been|VBN depressingly|RB in|IN line|NN with|IN its|PRP$ more|JJR recent|JJ performance|NN </s>|S_END
+<s>|S_START during|IN the|DT blackouts|NNS it|PRP enacted|VBD a|DT cabinet|NN reshuffle|NN and|CC the|DT power|NN minister|NN was|VBD promoted|VBN to|TO a|DT more|RBR senior|JJ post|NN </s>|S_END
+<s>|S_START yet|RB there|RB are|VBP some|DT grounds|NNS for|IN hoping|VBG that|IN things|NNS may|MD change|VB </s>|S_END
+<s>|S_START the|DT very|JJ scale|NN of|IN the|DT power|NN cuts|NNS may|MD remind|VB voters|NNS that|WDT bad|JJ economic|JJ policies|NNS are|VBP not|RB just|RB abstract|VB notions|NNS but|CC hurt|VBN people’s|NNS lives|NNS by|IN making|VBG jobs|NNS scarcer|NN roads|NNS more|RBR congested|JJ and|CC food|NN and|CC phones|NNS more|RBR expensive|JJ </s>|S_END
+<s>|S_START and|CC that|DT in|IN turn|NN may|MD remind|VB politicians|NNS of|IN the|DT dangers|NNS of|IN ignoring|VBG the|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START india’s|NNS great|VBD blackout|IN is|VBZ a|DT consequence|NN of|IN rotten|NN governance|NN </s>|S_END
+<s>|S_START voters|NNS need|VBP to|TO understand|VB that|IN and|CC deliver|VBP the|DT country’s|NNP political|JJ class|NN a|DT different|JJ kind|NN of|IN electric|JJ shock|NN </s>|S_END
+</p>|P_END
+

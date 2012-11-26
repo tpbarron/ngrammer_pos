@@ -1,0 +1,17 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 05|CD gdp|NN $|$ 51bn|CD ppp|CD $|$ 60bn|CD inflation|NN 12|CD population|NN 21m|CD gdp|NN per|IN head|NN $|$ 24140|CD ppp|CD $|$ 28670|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT centreleft|NN coalition|NN government|NN may|MD not|RB survive|VB until|IN elections|NNS late|JJ in|IN the|DT year|NN after|IN a|DT horrible|JJ 2011|CD in|IN which|WDT it|PRP lost|VBD both|DT its|PRP$ parliamentary|JJ majority|NN and|CC a|DT referendum|NN on|IN flagship|NN reform|NN </s>|S_END
+<s>|S_START it|PRP will|MD soldier|VB on|IN with|IN fiscal|JJ tightening|NN with|IN record|NN spending|NN cuts|NNS in|IN the|DT work|NN </s>|S_END
+<s>|S_START real|JJ structural|JJ reform|NN will|MD be|VB on|IN hold|NN until|IN a|DT new|JJ government—probably|JJ from|IN the|DT centreright—takes|NNS over|IN after|IN the|DT election|NN </s>|S_END
+<s>|S_START the|DT target|NN for|IN the|DT budget|NN gap|NN 3|CD of|IN gdp|NN should|MD be|VB reached|VBN in|IN 2013|CD but|CC growth|NN in|IN 2012|CD will|MD be|VB weak|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB club|NN card|NN </s>|S_END
+<s>|S_START an|DT eu|NN minnow|NN slovenia|NN may|MD nevertheless|VB exercise|VB its|PRP$ veto|NN powers|NNS to|TO block|VB croatias|NNS accession|NN pencilled|VBD in|IN for|IN 2013|CD </s>|S_END
+<s>|S_START a|DT border|NN agreement|NN with|IN croatia|NN left|VBN many|JJ slovenes|NNS dissatisfied|VBN and|CC a|DT new|JJ government|NN might|MD use|VB the|DT accession|NN timetable|JJ as|IN a|DT chip|NN in|IN reopened|VBN negotiation|NN </s>|S_END
+</p>|P_END
+

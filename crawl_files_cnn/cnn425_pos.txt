@@ -1,0 +1,80 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN as|IN most|JJS consumers|NNS adjust|RB to|TO paying|VBG more|JJR for|IN the|DT things|NNS they|PRP buy|VBP every|DT day|NN lower|JJR prices|NNS are|VBP a|DT welcome|NN surprise|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN surging|VBG costs|NNS on|IN raw|NN materials|NNS that|WDT have|VBP forced|VBN many|JJ brands|NNS to|TO raise|VB their|PRP$ prices|NNS a|DT few|JJ small|JJ firms|NNS are|VBP announcing|VBG price|NN reductions|NNS on|IN their|PRP$ products|NNS instead|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN example|NN organic|JJ coffee|NN brand|NN nectar|NN of|IN life|NN just|RB cut|VBD the|DT price|NN of|IN its|PRP$ coffee|NN club|NN which|WDT ships|NNS two|CD 10ounce|CD bags|NNS of|IN coffee|NN once|RB a|DT month|NN by|IN about|RB 15|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT markdown|NN is|VBZ particularly|RB significant|JJ as|IN many|JJ food|NN makers|NNS struggle|NN with|IN the|DT rising|VBG cost|NN of|IN commodities|NNS </s>|S_END
+<s>|S_START coffee|NN prices|NNS in|IN particular|JJ have|VBP more|JJR than|IN doubled|VBN in|IN the|DT last|JJ year|NN while|IN corn|NN and|CC wheat|NN prices|NNS have|VBP nearly|RB doubled|VBN </s>|S_END
+<s>|S_START soybean|JJ prices|NNS are|VBP also|RB up|IN 40|CD and|CC sugar|NN prices|NNS are|VBP 65|CD higher|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN a|DT result|NN coffee|NN giants|NNS like|IN starbucks|NNS sbux|VBP fortune|NN 500|CD and|CC jm|NN </s>|S_END
+<s>|S_START smucker|NN sjm|NN fortune|NN 500|CD the|DT owner|NN of|IN folgers|NNS and|CC dunkin|NN donuts|NNS as|IN well|RB as|IN kraft|NN foods|NNS kft|VBP fortune|NN 500|CD the|DT owner|NN of|IN maxwell|NN house|NN have|VBP all|DT raised|VBN prices|NNS since|IN the|DT beginning|NN of|IN the|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC martin|VBP jennings|NNS a|DT coowner|NN of|IN nectar|NN of|IN life|NN and|CC the|DT master|NN roaster|NN says|VBZ they|PRP decided|VBD to|TO go|VB in|IN a|DT different|JJ direction|NN </s>|S_END
+<s>|S_START we|PRP could|MD work|VB on|IN lower|JJR margins|NNS he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START other|JJ small|JJ businesses|NNS have|VBP the|DT same|JJ idea|NN </s>|S_END
+<s>|S_START organic|JJ snack|NN company|NN sunfoods|NNS recently|RB announced|VBD a|DT 510|CD price|NN reduction|NN on|IN many|JJ of|IN its|PRP$ dried|VBN berry|NN snack|NN mixes|NNS </s>|S_END
+<s>|S_START and|CC probiotic|JJ drink|NN maker|NN goodbelly|RB has|VBZ cut|VBN prices|NNS across|IN the|DT board|NN on|IN all|DT of|IN its|PRP$ products|NNS saying|VBG it|PRP aimed|VBD to|TO help|VB consumers|NNS deal|VB with|IN rising|VBG costs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT goodbelly|RB fruit|NN drinks|NNS which|WDT are|VBP sold|VBN at|IN whole|JJ foods|NNS wfmi|VBP fortune|NN 500|CD and|CC cost|NN about|IN $|$ 349|CD a|DT quart|NN will|MD cost|VB about|IN 10|CD less|JJR than|IN they|PRP used|VBD to|TO however|RB the|DT size|NN of|IN the|DT drinks|NNS and|CC their|PRP$ ingredients|NNS will|MD remain|VB the|DT same|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT aim|NN according|VBG to|TO ceo|VB alan|NN murray|NN is|VBZ to|TO make|VB the|DT products|NNS more|JJR accessible|JJ to|TO more|RBR people|NNS and|CC seize|VB an|DT opportunity|NN to|TO gain|VB market|NN share|NN </s>|S_END
+<s>|S_START we|PRP thought|VBD wed|VBN probably|RB sell|VBP a|DT bit|NN more|RBR if|IN wed|VBN do|VBP this|DT so|RB thats|VBZ nice|JJ he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START food|NN prices|NNS have|VBP jumped|VBN in|IN recent|JJ months|NNS and|CC are|VBP 29|CD higher|JJR than|IN they|PRP were|VBD just|RB a|DT year|NN ago|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START generally|RB producers|NNS and|CC retailers|NNS resist|VBP price|NN hikes|NNS fearing|VBG they|PRP will|MD drive|VB customers|NNS away|RB in|IN a|DT stillsluggish|JJ economy|NN </s>|S_END
+<s>|S_START but|CC some|DT bigname|NN companies|NNS like|IN kraft|NN smuckers|NNS and|CC heinz|NN have|VBP caved|VBN in|IN response|NN to|TO higher|JJR costs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB a|DT few|JJ small|JJ businesses|NNS are|VBP finding|VBG that|IN this|DT is|VBZ the|DT moment|NN to|TO garner|VB attention|NN build|VB a|DT customer|NN base|NN and|CC even|RB boost|VB sales|NNS with|IN a|DT price|NN reduction|NN instead|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC sam|NN bullard|NN a|DT wells|NNS fargo|VBP senior|JJ economist|NN said|VBD the|DT move|NN seems|VBZ more|JJR of|IN a|DT marketing|NN play|NN to|TO drive|VB some|DT attention|NN and|CC create|VB some|DT brand|NN loyalty|NN and|CC would|MD be|VB hard|RB to|TO sustain|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN inflationary|JJ pressures|NNS on|IN the|DT upside|NN it|PRP would|MD be|VB hard|RB to|TO maintain|VB those|DT price|NN reductions|NNS for|IN a|DT long|JJ time|NN he|PRP cautioned|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START jennings|NNS said|VBD nectar|NN of|IN life|NN has|VBZ no|DT plans|NNS to|TO raise|VB prices|NNS at|IN any|DT point|NN unless|IN the|DT commodity|NN market|NN goes|VBZ up|RP 30|CD he|PRP qualified|VBD </s>|S_END
+<s>|S_START he|PRP added|VBD that|IN the|DT coffee|NN maker|NN intended|VBD to|TO work|VB on|IN lower|JJR margins|NNS indefinitely|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN fact|NN all|DT three|CD of|IN the|DT companies|NNS said|VBD that|IN the|DT price|NN reductions|NNS would|MD take|VB effect|NN immediately|RB and|CC there|EX were|VBD no|DT plans|NNS to|TO limit|VB their|PRP$ duration|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT commitment|NN seems|VBZ to|TO be|VB paying|VBG off|RP </s>|S_END
+<s>|S_START jennings|NNS has|VBZ already|RB noted|VBN a|DT jump|NN in|IN membership|NN since|IN the|DT decrease|NN took|VBD effect|NN two|CD weeks|NNS ago|IN </s>|S_END
+<s>|S_START goodbellys|NNS murray|VBP also|RB said|VBD the|DT feedback|NN has|VBZ been|VBN very|RB positive|JJ </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

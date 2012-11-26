@@ -1,0 +1,37 @@
+<p>|P_START
+<s>|S_START google|NN plans|NNS to|TO marry|VB frommers|NNS with|IN the|DT zagat|JJ listings|NNS it|PRP acquired|VBD last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN googles|NNS march|VBP into|IN the|DT local|JJ listings|NNS and|CC travel|NN business|NN continues|VBZ with|IN a|DT new|JJ conquest|NN the|DT company|NN has|VBZ purchased|VBN the|DT frommers|NNS travel|NN guidebooks|NNS brand|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START frommers|NNS owner|VBP john|NN wiley|NN sons|NNS jwa|VBP made|VBN the|DT announcement|NN in|IN a|DT short|JJ press|NN release|NN early|RB monday|NN which|WDT did|VBD not|RB disclose|VB the|DT financial|JJ terms|NNS of|IN the|DT deal|NN </s>|S_END
+<s>|S_START wiley|NN said|VBD in|IN march|NN that|IN it|PRP was|VBD trying|VBG to|TO sell|VB off|RP several|JJ of|IN its|PRP$ publishing|NN assets|NNS to|TO refocus|VB the|DT company|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT frommers|NNS buy|VB is|VBZ the|DT latest|JJS in|IN googles|NNS goog|VBP fortune|NN 500|CD ongoing|VBG move|NN to|TO strengthen|VB its|PRP$ travel|NN and|CC local|JJ search|NN offerings|NNS </s>|S_END
+<s>|S_START about|IN a|DT year|NN ago|IN google|NN bought|VBD reviews|NNS behemoth|IN zagat|JJ for|IN an|DT undisclosed|JJ amount|NN </s>|S_END
+<s>|S_START five|CD days|NNS later|JJ the|DT company|NN launched|VBD google|NN flight|NN search|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN declined|VBD to|TO comment|NN on|IN the|DT financial|JJ terms|NNS of|IN the|DT frommers|NNS deal|VBP but|CC it|PRP offered|VBD a|DT few|JJ hints|NNS about|IN its|PRP$ plans|NNS for|IN the|DT frommers|NNS team|VBP and|CC assets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP cant|VBP wait|NN to|TO start|VB working|JJ with|IN them|PRP on|IN our|PRP$ goal|NN to|TO provide|VB a|DT review|NN for|IN every|DT relevant|NN place|NN in|IN the|DT world|NN a|DT google|NN representative|NN said|VBD adding|VBG that|IN the|DT frommers|NNS staff|NN will|MD be|VB a|DT great|JJ addition|NN to|TO the|DT zagat|NN team|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START selling|VBG to|TO google|VB probably|RB scored|VBN a|DT nice|JJ windfall|NN for|IN the|DT 205yearold|JJ wileys|NNS which|WDT is|VBZ still|RB trying|VBG to|TO sell|VB several|JJ of|IN its|PRP$ publishing|NN businesses|NNS including|VBG websters|NNS new|JJ world|NN dictionary|NN and|CC the|DT slacker|NN bible|JJ cliffsnotes|NNS </s>|S_END
+<s>|S_START wiley|NN said|VBD it|PRP will|MD use|VB the|DT money|NN from|IN the|DT google|NN deal|NN to|TO invest|VB in|IN the|DT publishing|NN sectors|NNS it|PRP plans|VBZ to|TO keep|VB its|PRP$ professional|JJ scientific|JJ and|CC education|NN businesses|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT deal|NN was|VBD bad|JJ news|NN for|IN other|JJ local|JJ and|CC travel|NN sites|NNS </s>|S_END
+<s>|S_START shares|NNS of|IN local|JJ reviews|NNS site|VBP yelp|NN yelp|NN and|CC travel|NN reviewsplanning|VBG site|NN tripadvisor|NN trip|NN were|VBD off|RP nearly|RB 6|CD immediately|RB following|VBG the|DT announcement|NN </s>|S_END
+</p>|P_END
+

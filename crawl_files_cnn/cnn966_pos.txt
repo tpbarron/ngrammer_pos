@@ -1,0 +1,133 @@
+<p>|P_START
+<s>|S_START facebooks|NNS ipo|VBP was|VBD a|DT mess|NN from|IN day|NN one|CD with|IN nasdaq|NN delays|NNS and|CC trading|NN issues|NNS </s>|S_END
+<s>|S_START now|RB shareholders|NNS are|VBP suing|VBG and|CC the|DT stock|NN has|VBZ plunged|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN facebooks|NNS breathlessly|RB hyped|VBD ipo|RB on|IN friday|NN has|VBZ turned|VBN into|IN a|DT huge|JJ wall|NN street|NN debacle|NN with|IN lots|NNS of|IN confusion|NN and|CC now|RB lawsuits|VBZ swirling|VBG around|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START heres|NNS the|DT stilldeveloping|VBG blowbyblow|NN of|IN how|WRB the|DT biggest|JJS tech|NN ipo|NN in|IN us|PRP history|NN became|VBD such|JJ a|DT mess|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP happened|VBN on|IN friday|NN </s>|S_END
+<s>|S_START the|DT strangeness|NN began|VBD at|IN the|DT most|RBS basic|JJ level|NN actually|RB opening|VBG facebook|NN for|IN trading|NN on|IN friday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT regular|JJ us|PRP stock|NN markets|NNS trading|NN day|NN begins|VBZ at|IN 930|CD am|NN but|CC ipos|NNS listed|VBN on|IN the|DT nasdaq|NN exchange|NN typically|RB dont|NN start|NN trading|NN until|IN at|IN least|JJS an|DT hour|NN later|JJ </s>|S_END
+<s>|S_START nasdaq|NN told|VBD traders|NNS early|RB friday|NN that|IN it|PRP expected|VBD facebook|NN fb|NN shares|NNS to|TO begin|VB trading|NN at|IN 11|CD am|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START then|RB 11|CD am|NN came|VBD and|CC went|VBD with|IN no|DT trading|NN </s>|S_END
+<s>|S_START the|DT next|JJ halfhour|NN was|VBD full|JJ of|IN handwringing|NN and|CC confusion|NN until|IN shares|NNS began|VBD trading|VBG around|IN 1130|CD am|NN trading|NN was|VBD fast|JJ and|CC intense|JJ with|IN more|JJR than|IN 80|CD million|CD shares|NNS changing|VBG hands|NNS in|IN the|DT first|JJ 30|CD seconds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START soon|RB some|DT traders|NNS began|VBD complaining|VBG that|IN it|PRP didnt|VBP seem|VBP like|IN their|PRP$ orders|NNS were|VBD being|VBG completed|VBN </s>|S_END
+<s>|S_START others|NNS found|VBD that|IN they|PRP were|VBD getting|VBG shares|NNS at|IN a|DT higher|JJR price|NN than|IN they|PRP expected|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT details|NNS were|VBD unclear|JJ on|IN friday|NN but|CC on|IN monday|NN nasdaq|NN published|VBD a|DT mea|NN culpa|NN explaining|VBG that|IN the|DT trading|NN delay|NN was|VBD due|JJ to|TO a|DT technical|JJ error|NN </s>|S_END
+<s>|S_START thats|NNS a|DT mild|NN term|NN for|IN what|WP became|VBD a|DT huge|JJ issue|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START following|VBG its|PRP$ usual|JJ procedures|NNS nasdaq|VBP started|VBN the|DT process|NN that|IN should|MD have|VB led|VBN to|TO the|DT stocks|NNS first|RB official|JJ trade|NN at|IN 1105|CD am|NN friday|NN </s>|S_END
+<s>|S_START in|IN that|DT process|NN nasdaq|NN matches|NNS up|IN orders|NNS to|TO buy|VB shares|NNS with|IN orders|NNS to|TO sell|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN friday|NN the|DT process|NN fell|VBD into|IN an|DT unexpected|JJ loop|NN because|IN many|JJ traders|NNS submitted|VBN changes|NNS to|TO their|PRP$ orders|NNS before|IN the|DT opening|VBG trade|NN began|VBD </s>|S_END
+<s>|S_START at|IN 1130|CD nasdaq|NN switched|VBN to|TO another|DT system|NN finally|RB allowing|VBG the|DT exchange|NN to|TO complete|VB the|DT process|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT orders|NNS that|WDT came|VBD in|IN during|IN the|DT switchover|NN didnt|NN go|VB through|IN or|CC were|VBD filled|VBN at|IN an|DT inferior|JJ price|NN later|JJ in|IN the|DT day|NN </s>|S_END
+<s>|S_START also|RB many|JJ orders|NNS that|WDT went|VBD through|IN werent|NN confirmed|VBN until|IN hours|NNS later|JJ </s>|S_END
+<s>|S_START that|DT left|VBN investors|NNS unsure|VBP about|IN how|WRB many|JJ shares|NNS they|PRP bought|VBD or|CC sold|VBN and|CC at|IN what|WP price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT errors|NNS ripple|VBP effects|NNS have|VBP lasted|VBN for|IN days|NNS </s>|S_END
+<s>|S_START some|DT brokerages|NNS said|VBD late|JJ tuesday|NN that|WDT they|PRP still|RB werent|VBP sure|JJ if|IN some|DT of|IN their|PRP$ orders|NNS had|VBD closed|VBN or|CC at|IN what|WP price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START five|CD days|NNS later|JJ nasdaq|NN is|VBZ still|RB trying|VBG to|TO untangle|VB all|DT of|IN the|DT problems|NNS </s>|S_END
+<s>|S_START meanwhile|RB traders|NNS who|WP took|VBD losses|NNS because|IN of|IN the|DT error|NN are|VBP waiting|VBG to|TO hear|VB what|WP nasdaq|NN plans|VBZ to|TO do|VB about|RB compensating|VBG them|PRP </s>|S_END
+<s>|S_START thats|NNS going|VBG to|TO be|VB another|DT giant|JJ wrangle|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN nasdaq|NN blew|NN it|PRP </s>|S_END
+<s>|S_START why|WRB are|VBP shareholders|NNS suing|VBG facebook|NN </s>|S_END
+<s>|S_START totally|RB separate|JJ from|IN the|DT nasdaq|NN issues|NNS theres|NNS a|DT regulatory|JJ investigation|NN beginning|NN into|IN how|WRB facebook|JJ and|CC its|PRP$ bankers|NNS handled|VBD sensitive|JJ financial|JJ information|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT group|NN of|IN facebook|NN shareholders|NNS filed|VBN a|DT lawsuit|NN in|IN a|DT new|JJ york|NN district|NN court|NN on|IN wednesday|NN alleging|VBG that|IN important|JJ information|NN about|IN facebooks|NNS financial|JJ outlook|NN was|VBD selectively|RB disclosed|VBN to|TO big|JJ banks|NNS ahead|RB of|IN the|DT ipo|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT legal|JJ action|NN followed|VBN a|DT reuters|NNS report|NN posted|VBD late|JJ tuesday|NN which|WDT alleges|NNS that|WDT analysts|NNS at|IN lead|NN underwriter|NN morgan|NN stanley|NN ms|NNS fortune|VBP 500|CD received|VBN privileged|JJ information|NN about|IN facebooks|NNS financials|NNS information|NN that|IN wasnt|NN shared|VBD with|IN regular|JJ folks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN a|DT separate|JJ reuters|NNS report|NN noted|VBD a|DT few|JJ hours|NNS later|JJ morgan|NN stanley|NN and|CC three|CD other|JJ major|JJ underwriters|NNS goldman|NN sachs|NNS gs|NNS fortune|VBP 500|CD jpmorgan|NN jpm|NN fortune|NN 500|CD and|CC bank|NN of|IN america|NN bac|NN fortune|NN 500|CD reduced|VBN their|PRP$ earnings|NNS outlooks|NNS for|IN facebook|NN to|TO strikingly|RB similar|JJ levels|NNS ahead|RB of|IN the|DT ipo|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ odd|JJ that|IN four|CD different|JJ banks|NNS would|MD cut|VB their|PRP$ estimates|NNS to|TO similar|JJ sums|NNS in|IN a|DT short|JJ timeframe|NN and|CC it|PRP raises|VBZ the|DT question|NN of|IN whether|IN small|JJ shareholders|NNS were|VBD left|VBN out|RP of|IN backdoor|NN conversations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START more|JJR specifically|RB the|DT lawsuit|NN alleges|NNS that|WDT facebook|NN told|VBD analysts|NNS at|IN its|PRP$ underwriters|NNS to|TO materially|RB lower|JJR their|PRP$ revenue|NN forecasts|NNS for|IN 2012|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC its|PRP$ still|RB unclear|JJ whether|IN those|DT conversations|NNS actually|RB happened|VBD and|CC even|RB if|IN they|PRP did|VBD were|VBD they|PRP illegal|JJ </s>|S_END
+<s>|S_START thats|NNS a|DT swampy|NN gray|NN area|NN </s>|S_END
+<s>|S_START facebook|NN released|VBD a|DT statement|NN on|IN wednesday|NN saying|VBG the|DT suit|NN is|VBZ without|IN merit|NN and|CC morgan|VBD stanley|NN says|VBZ it|PRP followed|VBD the|DT same|JJ procedures|NNS for|IN the|DT facebook|NN offering|NN that|WDT it|PRP follows|VBZ for|IN all|DT ipos|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START why|WRB has|VBZ the|DT stock|NN price|NN fallen|NN so|RB much|RB </s>|S_END
+<s>|S_START facebooks|NNS stock|NN ended|VBD close|JJ to|TO flat|JJ in|IN its|PRP$ debut|NN on|IN friday|NN and|CC it|PRP touched|VBD the|DT $|$ 38|CD ipo|CD price|NN many|JJ times|NNS during|IN the|DT day|NN </s>|S_END
+<s>|S_START it|PRP never|RB fell|VBD below|IN that|DT level|NN leading|VBG market|NN watchers|NNS to|TO assume|VB that|IN the|DT underwriters|NNS were|VBD buying|VBG shares|NNS to|TO keep|VB the|DT price|NN above|IN water|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START facebook|NN closed|VBD at|IN nearly|RB $|$ 4|CD under|IN that|DT level|NN on|IN monday|NN the|DT stocks|NNS first|RB full|JJ day|NN of|IN trading|NN </s>|S_END
+<s>|S_START the|DT decline|NN continued|VBD on|IN tuesday|NN though|IN the|DT stock|NN was|VBD up|RB modestly|RB in|IN midday|NN trade|NN wednesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT surprised|VBN many|JJ people|NNS recent|JJ tech|NN ipos|NNS have|VBP generally|RB popped|VBN on|IN day|NN one|CD even|RB those|DT of|IN unprofitable|JJ companies|NNS like|IN reviews|NNS site|VBP yelp|NN yelp|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT market|NN watchers|NNS are|VBP saying|VBG that|IN nasdaqs|NNS glitch|VBP and|CC other|JJ technical|JJ trading|NN issues|NNS are|VBP contributing|VBG to|TO facebooks|NNS stock|NN plunge|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ a|DT day|NN traders|NNS paradise|VBP right|RB now|RB douglas|RB depietro|RB managing|VBG director|NN for|IN sales|NNS trading|NN and|CC trading|NN execution|NN at|IN evercore|NN partners|NNS told|VBD cnnmoney|NN </s>|S_END
+<s>|S_START theres|NNS high|VBP volatility|NN and|CC high|JJ volume|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC facebooks|NNS final|JJ ipo|NN price|NN $|$ 38|CD a|DT share|NN gave|VBD it|PRP a|DT valuation|NN in|IN the|DT ballpark|NN of|IN $|$ 100|CD billion|CD a|DT number|NN that|WDT many|JJ analysts|NNS ahead|RB of|IN the|DT ipo|NN repeatedly|RB warned|VBD was|VBD remarkably|RB high|JJ given|VBN facebooks|NNS financial|JJ fundamentals|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT of|IN the|DT drama|NN around|IN facebooks|NNS ipo|VBP may|MD have|VB some|DT investors|NNS taking|VBG a|DT very|RB close|JJ look|NN at|IN the|DT company|NN and|CC thinking|VBG twice|NN about|IN what|WP its|PRP$ stock|NN is|VBZ really|RB worth|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnnmoneys|NNS hibah|VBP yousuf|NN contributed|VBN to|TO this|DT report |NN </s>|S_END
+</p>|P_END
+

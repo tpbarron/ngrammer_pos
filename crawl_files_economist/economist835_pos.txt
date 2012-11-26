@@ -1,0 +1,69 @@
+<p>|P_START
+<s>|S_START the|DT semiconductor|NN plant|NN at|IN roborough|JJ on|IN the|DT outskirts|NNS of|IN plymouth|NN is|VBZ not|RB everyone’s|JJ idea|NN of|IN architectural|JJ beauty|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ the|DT gasstorage|NN containers|NNS and|CC vacuum|NN pumps|NNS that|WDT are|VBP a|DT familiar|JJ part|NN of|IN the|DT industrial|JJ landscape|NN </s>|S_END
+<s>|S_START prince|NN charles|NNS who|WP opened|VBN the|DT factory|NN in|IN 1987|CD said|VBD it|PRP looked|VBD like|IN a|DT hightech|NN victorian|NN prison|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT plant|NN was|VBD built|VBN by|IN plessey|NN one|CD of|IN britain’s|JJ largest|JJS companies|NNS until|IN it|PRP was|VBD carved|VBN up|RP in|IN 1989|CD by|IN two|CD rivals|NNS gec|NN and|CC siemens|NNS after|IN a|DT long|JJ and|CC bitter|JJ takeover|NN battle|NN </s>|S_END
+<s>|S_START plessey’s|NNS old|VBD militaryequipment|NN business|NN is|VBZ buried|VBN within|IN bae|NN systems|NNS the|DT bit|NN that|IN made|VBN telephone|NN systems|NNS is|VBZ now|RB part|NN of|IN ericsson|NN </s>|S_END
+<s>|S_START but|CC its|PRP$ semiconductor|NN arm|NN lives|NNS again|RB </s>|S_END
+<s>|S_START the|DT plymouth|NN plant—and|NN the|DT plessey|NN name—is|VBZ coming|VBG back|RB to|TO life|VB under|IN michael|NN legoff|NN a|DT canadian|JJ entrepreneur|NN </s>|S_END
+<s>|S_START his|PRP$ bold|JJ bet|NN is|VBZ that|IN the|DT sort|NN of|IN manufacturing|NN that|IN has|VBZ drifted|VBN eastward|NN can|MD thrive|VB again|RB in|IN britain|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START modern|JJ chipmaking|NN is|VBZ capitalintensive|JJ </s>|S_END
+<s>|S_START it|PRP costs|VBZ intel|NN the|DT industry|NN giant|NN several|JJ billion|CD dollars|NNS to|TO build|VB a|DT foundry|NN to|TO make|VB newgeneration|NN computer|NN chip|NN </s>|S_END
+<s>|S_START most|JJS new|JJ ones|NNS are|VBP in|IN asia|NN </s>|S_END
+<s>|S_START britain|NN has|VBZ instead|RB specialised|VBN in|IN design|NN arm|NN the|DT cambridge|NN firm|NN behind|IN the|DT chips|NNS used|VBN in|IN iphones|NNS does|VBZ no|DT manufacturing|NN </s>|S_END
+<s>|S_START but|CC mr|PRP$ legoff|NN thinks|NNS designers|NNS work|VBP better|RBR if|IN production|NN is|VBZ on|IN their|PRP$ doorstep|NN </s>|S_END
+<s>|S_START a|DT design|NN fault|NN is|VBZ harder|JJR to|TO fix|VB if|IN the|DT foundry|NN is|VBZ thousands|NNS of|IN miles|NNS away|RB </s>|S_END
+<s>|S_START and|CC there|EX are|VBP happier|JJR accident|NN </s>|S_END
+<s>|S_START by|IN tinkering|NN plessey’s|NNS engineers|NNS found|VBD they|PRP could|MD make|VB one|CD component|NN for|IN a|DT fraction|NN of|IN its|PRP$ list|NN price|NN </s>|S_END
+<s>|S_START “our|JJ manufacturing|NN capability|NN helps|NNS us|PRP to|TO discover|VB quickly|RB what|WP is|VBZ possible”|-NONE- says|VBZ mr|NN legoff|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT factory|NN would|MD have|VB no|DT such|JJ inner|NN charm|NN were|VBD it|PRP not|RB for|IN the|DT outer|NN solidity|NN that|WDT the|DT prince|NN found|VBD so|RB offputting|VBG </s>|S_END
+<s>|S_START the|DT building’s|JJ concrete|JJ pillars|NNS go|VBP 30|CD feet|NNS into|IN a|DT granite|JJ bedrock|NN </s>|S_END
+<s>|S_START the|DT smallest|JJS tremor|NN would|MD disrupt|VB the|DT delicate|NN work|NN inside|NN a|DT hairbreadth’s|JJ error|NN is|VBZ ruinous|JJ in|IN the|DT making|VBG of|IN microchip|NN </s>|S_END
+<s>|S_START o|NN would|MD dust|VB or|CC fibre|VB </s>|S_END
+<s>|S_START the|DT two|CD clean|JJ rooms|NNS where|WRB chips|NNS are|VBP made|VBN are|VBP sprucer|NN than|IN a|DT hospital|JJ theatre|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uch|JJ assets|NNS are|VBP valuable|JJ </s>|S_END
+<s>|S_START plessey|NN makes|VBZ analogue|NN chips|NNS which|WDT digitise|VBP and|CC process|NN signals|NNS such|JJ as|IN sound|NN and|CC light|JJ rather|RB than|IN the|DT digital|JJ sort|NN that|WDT intel|NN makes|VBZ for|IN computer|NN </s>|S_END
+<s>|S_START though|IN analogue|NN plants|NNS are|VBP not|RB as|IN vast|JJ building|NN one|CD from|IN scratch|NN would|MD still|RB cost|VB hundreds|NNS of|IN millions|NNS of|IN dollar|NN </s>|S_END
+<s>|S_START plessey’s|NNS is|VBZ kept|VBN busy|NN by|IN contracts|NNS from|IN bigger|JJR firm|NN </s>|S_END
+<s>|S_START its|PRP$ chips|NNS are|VBP in|IN products|NNS from|IN settop|NN boxes|NNS to|TO xray|VB machine|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC mr|PRP$ legoff|NN wants|NNS plessey|NN to|TO make|VB its|PRP$ own|JJ product|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ placing|VBG two|CD big|JJ bet|NN </s>|S_END
+<s>|S_START the|DT first|JJ is|VBZ on|IN its|PRP$ epic|JJ sensor|NN developed|VBD with|IN sussex|NN university|NN which|WDT has|VBZ won|VBN several|JJ design|NN award|NN </s>|S_END
+<s>|S_START this|DT can|MD detect|VB tiny|JJ changes|NNS in|IN electrical|JJ fields|NNS from|IN a|DT distance|NN even|RB through|IN textile|JJ </s>|S_END
+<s>|S_START that|DT allows|VBZ it|PRP to|TO track|VB gestures|NNS like|IN the|DT wave|NN of|IN a|DT hand|NN </s>|S_END
+<s>|S_START its|PRP$ low|JJ cost|NN gives|VBZ it|PRP massmarket|NN potential—from|-NONE- doityourself|PRP health|NN checks|NNS to|TO car|NN kit|NN that|IN checks|NNS drivers’|-NONE- alertness|NN to|TO “smart|NN bedding”|NN for|IN monitoring|NN infants|NNS or|CC the|DT sick|NN </s>|S_END
+<s>|S_START it|PRP might|MD even|RB keep|VB smartphones|NNS and|CC computer|NN tablets|NNS free|JJ from|IN sticky|JJ finger|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START plessey’s|NNS other|JJ big|JJ venture|NN is|VBZ lightemitting|VBG diodes|NNS leds|NNS for|IN lighting|VBG homes|NNS and|CC office|NN </s>|S_END
+<s>|S_START leds|NNS use|VBP a|DT fraction|NN of|IN the|DT electricity|NN of|IN regular|JJ lightbulbs|NNS and|CC can|MD be|VB used|VBN for|IN decade|NN </s>|S_END
+<s>|S_START the|DT market|NN is|VBZ expected|VBN to|TO grow|VB rapidly|RB but|CC plessey|NN is|VBZ up|IN against|IN mighty|NN competitors|NNS like|IN ge|NN philips|NNS samsung|VBP and|CC siemen|NNS </s>|S_END
+<s>|S_START mr|NN legoff|IN says|NNS plessey|VBP has|VBZ an|DT edge|NN </s>|S_END
+<s>|S_START it|PRP can|MD make|VB led|VBN lights|NNS at|IN a|DT fraction|NN of|IN the|DT cost|NN of|IN rivals|NNS thanks|NNS to|TO a|DT unique|JJ process|NN developed|VBD at|IN cambridge|NN university|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT revived|VBN plessey|NN is|VBZ a|DT small|JJ outfit|NN with|IN revenues|NNS last|JJ year|NN of|IN £105m|JJ $|$ 165m|CD </s>|S_END
+<s>|S_START but|CC it|PRP has|VBZ brand|VBN value|NN beyond|IN its|PRP$ scale|NN not|RB least|JJS among|IN the|DT many|JJ engineers|NNS who|WP learned|VBD their|PRP$ trade|NN there|EX </s>|S_END
+<s>|S_START it|PRP is|VBZ using|VBG ideas|NNS from|IN british|JJ universities|NNS that|WDT might|MD otherwise|VB leak|JJ abroad|NN </s>|S_END
+<s>|S_START like|IN many|JJ small|JJ firms|NNS it|PRP has|VBZ little|RB support|NN from|IN banks|NNS instead|RB it|PRP is|VBZ backed|VBN by|IN small|JJ privateequity|NN outfit|NN </s>|S_END
+<s>|S_START there|EX is|VBZ room|NN at|IN plymouth|NN to|TO expand|VB </s>|S_END
+<s>|S_START if|IN things|NNS go|VBP well|RB perhaps|RB prince|NN charles|NNS will|MD be|VB invited|VBN back|RP to|TO open|VB the|DT extension|NN </s>|S_END
+</p>|P_END
+

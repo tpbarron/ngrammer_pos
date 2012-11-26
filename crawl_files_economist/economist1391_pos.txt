@@ -1,0 +1,61 @@
+<p>|P_START
+<s>|S_START the|DT potter’s|JJ hand|NN </s>|S_END
+<s>|S_START by|IN an|DT </s>|S_END
+<s>|S_START wilson|NN </s>|S_END
+<s>|S_START atlantic|JJ 505|CD pages|NNS £1799|-NONE- </s>|S_END
+<s>|S_START buy|NN from|IN amazoncouk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START company|NN histories|NNS are|VBP usually|RB reverential|JJ </s>|S_END
+<s>|S_START the|DT flaws|NNS of|IN powerful|JJ bosses|NNS are|VBP relegated|VBN to|TO the|DT shadows|NNS wit|VBP and|CC mischief|NN rarely|RB make|VB an|DT appearance|NN </s>|S_END
+<s>|S_START an|DT </s>|S_END
+<s>|S_START wilson|NN a|DT prolific|JJ british|NN writer|NN of|IN fiction|NN and|CC nonfiction|NN seeks|NNS to|TO overcome|VB the|DT inherent|JJ defects|NNS of|IN the|DT genre|NN by|IN turning|NN his|PRP$ company|NN history|NN into|IN a|DT novel|NN and|CC getting|VBG in|IN some|DT sex|NN and|CC romance|NN too|RB </s>|S_END
+<s>|S_START his|PRP$ choice|NN of|IN josiah|NN wedgwood|NN and|CC sons|NNS is|VBZ a|DT good|JJ one|CD influenced|JJ presumably|RB by|IN tales|NNS he|PRP heard|VBD from|IN his|PRP$ father|NN who|WP was|VBD himself|PRP a|DT managing|VBG director|NN of|IN the|DT firm|NN and|CC a|DT potter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START wedgwood|NN was|VBD a|DT hero|NN of|IN the|DT industrial|JJ revolution|NN </s>|S_END
+<s>|S_START the|DT son|NN of|IN a|DT potter|NN he|PRP took|VBD up|RP the|DT trade|NN and|CC became|VBD skilled|VBN not|RB just|RB at|IN throwing|VBG a|DT piece|NN of|IN clay|NN and|CC turning|VBG it|PRP into|IN an|DT object|JJ of|IN beauty|NN but|CC at|IN blending|VBG different|JJ clay|NN </s>|S_END
+<s>|S_START wearing|VBG his|PRP$ historian’s|NNS hat|WDT mr|NN wilson|NN points|NNS out|IN that|DT within|IN a|DT decade|NN of|IN josiah|NN establishing|VBG his|PRP$ factory|NN in|IN burslem|NN staffordshire|NN in|IN 1759|CD there|EX was|VBD hardly|RB a|DT respectable|JJ household|NN in|IN england|NN that|IN did|VBD not|RB eat|VB off|RP delicate|JJ white|JJ wedgwood|NN plate|NN </s>|S_END
+<s>|S_START pottery|NN that|IN is|VBZ instantly|RB recognised|VBN as|IN wedgwood|NN more|JJR than|IN 200|CD years|NNS later—the|JJ black|NN basalt|NN jugs|NNS and|CC vases|NNS decorated|VBD in|IN white|JJ relief|NN and|CC the|DT pretty|NN pale|NN blue|NN and|CC green|JJ jasperware|NN pottery—were|JJ also|RB among|IN wedgwood’s|NNS rich|JJ repertoire|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START josiah|NN had|VBD no|DT formal|JJ education|NN but|CC he|PRP taught|VBD himself|PRP enough|RB to|TO understand|VB the|DT work|NN and|CC to|TO make|VB some|DT significant|JJ friendships|NNS with|IN joseph|NN priestley|NN who|WP discovered|VBN oxygen|VBP and|CC matthew|VB boulton|NN and|CC james|VBZ watt|NN who|WP built|VBN the|DT first|JJ steam|NN engine|NN </s>|S_END
+<s>|S_START wedgwood|NN also|RB grasped|VBD the|DT significance|NN of|IN mass|NN production|NN and|CC marketing|NN </s>|S_END
+<s>|S_START a|DT famous|JJ 944piece|JJ service|NN made|VBD for|IN catherine|NN the|DT great|JJ each|DT decorated|VBN with|IN english|JJ rural|JJ scenes|NNS was|VBD an|DT early|JJ example|NN of|IN branding|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ still|RB displayed|VBN at|IN the|DT hermitage|NN museum|NN in|IN st|NN petersburg|NN though|IN some|DT of|IN it|PRP is|VBZ on|IN loan|NN from|IN there|EX to|TO the|DT national|JJ museum|NN of|IN scotland|NN in|IN edinburgh|NN until|IN october|NN 21st|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN a|DT man|NN wedgwood|NN was|VBD interesting|JJ and|CC interested|JJ </s>|S_END
+<s>|S_START he|PRP was|VBD enthusiastic|JJ about|IN britain’s|JJ spreading|NN canal|JJ network|NN and|CC politically|RB a|DT bold|JJ and|CC unconventional|JJ radical|JJ </s>|S_END
+<s>|S_START he|PRP supported|VBD the|DT american|NN colonists|NNS and|CC as|IN a|DT dedicated|VBN unitarian|JJ was|VBD on|IN the|DT organising|NN committee|NN of|IN the|DT society|NN for|IN the|DT abolition|NN of|IN the|DT slave|NN trade|NN </s>|S_END
+<s>|S_START he|PRP ordered|VBD his|PRP$ potters|NNS to|TO make|VB an|DT early|JJ example|NN of|IN political|JJ sloganeering—a|NN seal|NN for|IN stamping|NN letters|NNS showing|VBG a|DT kneeling|NN african|NN in|IN chains|NNS with|IN the|DT slogan|NN “am|NN i|PRP not|RB a|DT man|NN and|CC a|DT brother”|NN after|IN 1768|CD he|PRP did|VBD all|PDT this|DT on|IN one|CD leg|NN having|VBG survived|VBN an|DT amputation|NN at|IN the|DT right|NN knee|NN without|IN the|DT benefit|NN of|IN anaesthetic|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ a|DT splendid|JJ story|NN vividly|RB told|VBD but|CC still|RB not|RB enough|RB for|IN mr|NN wilson|NN </s>|S_END
+<s>|S_START in|IN an|DT “afterword”|JJ he|PRP writes|VBZ that|IN while|IN the|DT broad|JJ outline|NN and|CC most|JJS of|IN the|DT details|NNS are|VBP true|JJ he|PRP found|VBD the|DT demands|NNS of|IN history|NN and|CC the|DT demands|NNS of|IN art|NN to|TO be|VB somewhat|RB different|JJ </s>|S_END
+<s>|S_START the|DT historian|JJ writes|NNS of|IN problems|NNS in|IN the|DT london|NN showroom|NN the|DT artist|NN in|IN him|PRP wants|VBZ to|TO know|VB what|WP he|PRP imagines|VBZ wedgwood|NN and|CC his|PRP$ wife|NN sarah|NN talk|NN about|IN in|IN bed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP takes|VBZ a|DT single|JJ known|NN fact|NN and|CC transforms|NNS the|DT story|NN into|IN a|DT potboiler|NN </s>|S_END
+<s>|S_START in|IN order|NN to|TO make|VB the|DT white|JJ tableware|NN wedgwood|NN imported|VBD kaolin|NN clay|NN from|IN the|DT cherokee|NN tribe|NN in|IN the|DT american|JJ colonie|NN </s>|S_END
+<s>|S_START the|DT artist|NN in|IN mr|NN wilson|NN uses|NNS tom|VBP byerley|NN josiah’s|NNS nephew|VBP who|WP was|VBD living|VBG in|IN new|JJ york|NN as|IN an|DT aspiring|NN actor—a|NN fact—to|-NONE- invent|NN a|DT visit|NN to|TO the|DT cherokees|NNS to|TO buy|VB another|DT shipment|NN of|IN the|DT precious|JJ kaolin|NN </s>|S_END
+<s>|S_START when|WRB tom|NN is|VBZ taken|VBN ill|NN he|PRP is|VBZ cared|VBN for|IN by|IN a|DT young|JJ woman|NN with|IN sensual|JJ lips|NNS high|JJ cheekbones|NNS and|CC blueblack|NN hair|NN </s>|S_END
+<s>|S_START he|PRP is|VBZ named|VBN blue|JJ squirrel|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START they|PRP become|VBP lovers|NNS but|CC are|VBP separated|VBN during|IN a|DT white|JJ man’s|NN attack|NN on|IN the|DT indian|JJ camp|NN </s>|S_END
+<s>|S_START he|PRP is|VBZ convinced|VBN that|IN she|PRP and|CC her|PRP$ tribe|NN have|VBP been|VBN betrayed|VBN by|IN tom|NN and|CC swears|NNS vengeance|NN </s>|S_END
+<s>|S_START by|IN hook|NN or|CC by|IN crook|NN mr|NN wilson|NN gets|VBZ her|PRP$ to|TO staffordshire|VB </s>|S_END
+<s>|S_START once|RB there|RB she|PRP finds|VBZ a|DT job|NN at|IN wedgwood|NN and|CC becomes|VBZ josiah’s|JJ best|JJS potter|NN </s>|S_END
+<s>|S_START but|CC when|WRB she|PRP and|CC tom|VB meet|NN again|RB blue|JJ squirrel|NN decides|VBZ against|IN revenge|NN and|CC marries|NNS a|DT childhood|NN companion|NN of|IN wedgwood|NN instead|RB </s>|S_END
+<s>|S_START conceivably|RB this|DT trite|NN exercise|NN in|IN romantic|JJ fiction|NN is|VBZ intended|VBN to|TO draw|VB more|JJR readers|NNS into|IN the|DT absorbing|NN world|NN of|IN josiah|NN wedgwood|NN </s>|S_END
+<s>|S_START mr|NN wilson|NN is|VBZ more|RBR convincing|VBG as|IN a|DT historian|JJ than|IN a|DT novelist|NN more|RBR entertaining|JJ too|RB </s>|S_END
+</p>|P_END
+

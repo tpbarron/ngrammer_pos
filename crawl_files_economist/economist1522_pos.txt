@@ -1,0 +1,59 @@
+<p>|P_START
+<s>|S_START a|DT day|NN after|IN receiving|VBG a|DT thumbsup|NN from|IN voters|NNS barack|VBP obama|NN got|VBD a|DT thumbsdown|NN from|IN the|DT stockmarket|NN which|WDT fell|VBD 2|CD its|PRP$ biggest|JJS fall|NN in|IN a|DT year|NN </s>|S_END
+<s>|S_START blame|NN the|DT threat|NN of|IN higher|JJR taxes|NNS on|IN dividends|NNS and|CC capital|NN gains|NNS and|CC tougher|RB treatment|NN of|IN banks|NNS and|CC fossil|NN fuels|NNS but|CC blame|VBD also|RB the|DT sad|JJ fact|NN that|IN the|DT election|NN failed|VBD to|TO resolve|VB the|DT biggest|JJS question|NN hanging|VBG over|IN the|DT economy|NN how|WRB to|TO deal|VB with|IN the|DT deficit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN obama|NN needs|VBZ to|TO come|VB up|RP with|IN an|DT answer|NN fast|NN </s>|S_END
+<s>|S_START within|IN two|CD months|NNS some|DT $|$ 700|CD billion|CD of|IN tax|NN increases|NNS and|CC spending|NN cuts|NNS kick|VBP in|IN roughly|RB 5|CD of|IN gdp|NN over|IN a|DT full|JJ year—see|JJ table|NN </s>|S_END
+<s>|S_START o|NN much|RB austerity|NN so|IN quickly|RB would|MD suffocate|VB the|DT recovery|NN </s>|S_END
+<s>|S_START but|CC moving|VBG the|DT cliff|NN leaves|VBZ the|DT underlying|VBG problem|NN intact|NN on|IN current|JJ policies|NNS the|DT deficit|NN 7|CD of|IN gdp|NN in|IN the|DT last|JJ fiscal|JJ year|NN will|MD still|RB be|VB over|IN 5|CD a|DT decade|NN from|IN now|RB and|CC the|DT debt|NN held|VBD by|IN the|DT public|NN will|MD climb|VB from|IN 73|CD of|IN gdp|NN to|TO 90|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT assumption|NN in|IN the|DT obama|NN administration|NN and|CC congress|NN is|VBZ that|IN these|DT problems|NNS will|MD be|VB addressed|VBN in|IN two|CD step|NN </s>|S_END
+<s>|S_START a|DT smaller|JJR deal|NN to|TO be|VB struck|NN by|IN yearend|NN would|MD extend|VB most|RBS of|IN george|NN w|NN bush’s|NNS tax|NN cuts|NNS temporarily|RB delay|VBP the|DT automatic|JJ cuts|NNS to|TO defence|VB and|CC other|JJ spending|NN the|DT “sequester”|NN and|CC raise|VB the|DT legal|JJ ceiling|NN on|IN issuing|NN new|JJ debt|NN which|WDT the|DT treasury|NN department|NN thinks|VBZ will|MD hit|VB by|IN midfebruary|JJ after|IN various|JJ bookkeeping|NN tricks|NNS are|VBP exhausted|VBN </s>|S_END
+<s>|S_START a|DT deal|NN does|VBZ not|RB absolutely|RB have|VB to|TO be|VB struck|NN by|IN december|NN 31st|CD </s>|S_END
+<s>|S_START treasury|NN can|MD extend|VB current|JJ taxwithholding|NN rates|NNS and|CC the|DT administration|NN can|MD rearrange|VB agency|NN spending|NN to|TO delay|VB the|DT moment|NN the|DT sequester|NN bites|VBZ but|CC only|RB if|IN a|DT deal|NN is|VBZ in|IN sight|NN </s>|S_END
+<s>|S_START the|DT second|JJ step|NN would|MD be|VB a|DT “grand|JJ bargain”|NN next|IN year|NN on|IN longterm|NN tax|NN and|CC entitlement|NN reform|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT prospect|NN of|IN such|JJ a|DT deal|NN depends|VBZ heavily|RB on|IN whether|IN the|DT two|CD sides|NNS are|VBP in|IN any|DT better|JJR mood|NN to|TO compromise|VB than|IN they|PRP were|VBD last|JJ year|NN </s>|S_END
+<s>|S_START ince|NN they|PRP have|VBP spent|VBN the|DT past|JJ six|CD months|NNS spitting|VBG at|IN each|DT other|JJ instead|NN of|IN negotiating|VBG they|PRP will|MD start|VB almost|RB from|IN scratch|NN probably|RB with|IN a|DT proposal|NN from|IN mr|NN obama|NN soon|RB after|IN congress|NN reconvenes|NNS on|IN november|NN 13th|CD </s>|S_END
+<s>|S_START mr|NN obama’s|NNS reelection|NN will|MD embolden|VB him|PRP to|TO stand|VB firm|NN against|IN extending|VBG mr|NN bush’s|NNS tax|NN cuts|NNS for|IN the|DT wealthy|JJ betting|NN that|WDT republicans|VBZ will|MD shoulder|VB the|DT blame|NN if|IN everyone’s|NNS taxes|NNS go|VBP up|RP in|IN january|JJ as|IN they|PRP will|MD if|VB there|EX is|VBZ no|DT deal|NN </s>|S_END
+<s>|S_START john|NN boehner|NN the|DT speaker|NN of|IN the|DT house|NN of|IN representatives|NNS said|VBD republicans|NNS were|VBD open|JJ to|TO “additional|JJ revenues|NNS via|IN tax|NN reform”|NN ie|NN </s>|S_END
+<s>|S_START lower|JJR rates|NNS and|CC fewer|JJR tax|NN deduction|NN </s>|S_END
+<s>|S_START in|IN his|PRP$ own|JJ acceptance|NN speech|NN mr|NN obama|NN did|VBD not|RB mention|NN raising|VBG rates|NNS but|CC “reducing|JJ our|PRP$ deficit|NN and|CC reforming|VBG our|PRP$ tax|NN code”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mitch|NN mcconnell|VBD the|DT senate|NN minority|NN leader|NN was|VBD more|JJR pugnacious|JJ saying|VBG “voters|NNS have|VBP not|RB endorsed|VBN the|DT failures|NNS or|CC excesses|NNS of|IN the|DT president’s|JJ first|JJ term”|NN still|RB andy|JJ laperriere|NN of|IN isi|NN group|NN a|DT broker|NN thinks|VBZ mr|NN obama|NN could|MD find|VB enough|JJ senate|NN republicans|NNS to|TO allow|VB him|PRP to|TO pass|VB a|DT deal|NN that|WDT increased|VBD taxes|NNS on|IN the|DT wealthy|JJ if|IN he|PRP raised|VBD the|DT definition|NN of|IN wealthy|JJ from|IN an|DT annual|JJ income|NN of|IN at|IN least|JJS $|$ 250000|CD to|TO $|$ 1m|CD </s>|S_END
+<s>|S_START mr|NN boehner|NN might|MD then|RB allow|VB the|DT house|NN to|TO vote|VB on|IN such|JJ a|DT deal|NN which|WDT would|MD be|VB carried|VBN with|IN mostly|RB democratic|JJ vote|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START administration|NN officials|NNS could|MD also|RB agree|VB to|TO cutting|VB several|JJ hundred|CD billion|CD dollars|NNS in|IN spending|NN as|IN a|DT downpayment|NN on|IN deficit|NN reduction|NN to|TO placate|VB republicans|NNS replace|VB the|DT sequester|NN and|CC stave|VB off|RP downgrades|NNS to|TO america’s|NNS credit|NN rating|NN </s>|S_END
+<s>|S_START they|PRP harbour|VBP hopes|NNS of|IN folding|VBG in|IN some|DT nearterm|NN stimulus|VBZ perhaps|RB infrastructure|NN spending|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT sides|NNS want|VBP a|DT shortterm|NN deal|NN linked|VBD to|TO a|DT longerterm|NN one|CD that|WDT raises|VBZ revenue|NN by|IN reforming|NN the|DT tax|NN code|NN and|CC slowing|VBG the|DT growth|NN in|IN entitlement|NN spending|NN </s>|S_END
+<s>|S_START though|IN mr|NN obama|NN snubbed|VBD his|PRP$ own|JJ commission’s|NNS $|$ 4|CD trillion|CD tenyear|NN debtreduction|NN plan|NN when|WRB it|PRP was|VBD released|VBN in|IN late|JJ 2010|CD he|PRP warmed|VBD to|TO it|PRP during|IN the|DT campaign|NN </s>|S_END
+<s>|S_START he|PRP called|VBD the|DT cliff|NN a|DT “forcing|JJ mechanism”|NN to|TO achieve|VB something|NN similar|JJ </s>|S_END
+<s>|S_START during|IN previous|JJ failed|VBN efforts|NNS to|TO reach|VB a|DT grand|NN bargain|NN both|DT sides|NNS agreed|VBD however|RB briefly|RB to|TO important|JJ concessions|NNS mr|VBP boehner|NN to|TO raise|VB $|$ 800|CD billion|CD in|IN revenue|NN through|IN tax|NN reform|NN mr|NN obama|NN to|TO a|DT higher|JJR medicare|NN retirement|NN age|NN and|CC less|JJR generous|JJ inflation|NN protection|NN for|IN social|JJ security|NN benefit|NN </s>|S_END
+<s>|S_START ome|NN $|$ 2|CD trillion|CD of|IN miscellaneous|JJ cuts|NNS to|TO defence|VB medicaid|VBN and|CC other|JJ programmes|NNS had|VBD previously|RB been|VBN identified|VBN </s>|S_END
+<s>|S_START yet|RB the|DT barriers|NNS to|TO such|JJ a|DT bargain|NN are|VBP daunting|VBG </s>|S_END
+<s>|S_START one|CD is|VBZ the|DT frayed|VBN relations|NNS between|IN the|DT key|JJ player|NN </s>|S_END
+<s>|S_START a|DT signal|NN will|MD be|VB mr|NN obama’s|-NONE- choice|NN to|TO succeed|VB tim|NN geithner|NN his|PRP$ outgoing|NN treasury|NN secretary|NN </s>|S_END
+<s>|S_START the|DT leading|VBG inside|NN candidate|NN is|VBZ thought|VBN to|TO be|VB his|PRP$ chief|NN of|IN staff|NN jack|NN lew|NN whom|WP republicans|NNS saw|VBD as|IN obstructionist|NN during|IN previous|JJ negotiation|NN </s>|S_END
+<s>|S_START an|DT external|JJ candidate|NN with|IN strong|JJ ties|NNS to|TO business|NN or|CC congress|NN would|MD do|VB a|DT lot|NN more|RBR to|TO build|VB confidence|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT problem|NN is|VBZ how|WRB to|TO ensure|VB in|IN advance|NN that|IN rewriting|VBG the|DT tax|NN code|NN and|CC entitlements|NNS which|WDT could|MD easily|RB take|VB a|DT year|NN produces|VBZ the|DT promised|VBN deficit|NN reduction|NN </s>|S_END
+<s>|S_START despite|IN their|PRP$ highminded|JJ rhetoric|NN neither|DT democrats|NNS nor|CC republicans|NNS relish|VBP the|DT political|JJ blowback|NN that|WDT comes|VBZ with|IN cutting|VBG entitlements|NNS and|CC tax|NN break|NN </s>|S_END
+<s>|S_START it|PRP might|MD be|VB different|JJ if|IN they|PRP had|VBD a|DT mandate|NN from|IN voters|NNS to|TO do|VB it|PRP </s>|S_END
+<s>|S_START adly|RB neither|DT mr|NN obama|NN nor|CC mr|NN romney|NN thought|VBD to|TO ask|VB for|IN one|CD </s>|S_END
+</p>|P_END
+

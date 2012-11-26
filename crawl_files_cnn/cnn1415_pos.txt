@@ -1,0 +1,60 @@
+<p>|P_START
+<s>|S_START a|DT worker|NN at|IN an|DT automobile|NN plant|NN in|IN beijing|NN china|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hong|IN kong|JJ cnnmoney|NN manufacturing|NN growth|NN in|IN china|NN continued|VBD to|TO slide|VB in|IN september|NN according|VBG to|TO a|DT key|JJ initial|JJ reading|NN released|VBN thursday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hsbcs|NNS initial|JJ purchasing|VBG managers|NNS index|NN for|IN chinese|JJ manufacturing|NN ticked|VBD up|RP slightly|RB to|TO 478|CD in|IN september|NN from|IN 476|CD the|DT bank|NN said|VBD thursday|NN </s>|S_END
+<s>|S_START any|DT reading|NN below|IN 50|CD indicates|NNS that|WDT factory|NN growth|NN is|VBZ shrinking|VBG rather|RB than|IN picking|VBG up|RP speed|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START chinas|NNS manufacturing|VBG growth|NN is|VBZ still|RB slowing|VBG but|CC the|DT pace|NN of|IN slowdown|NN is|VBZ stabilizing|VBG hongbin|NN qu|NN an|DT economist|NN at|IN hsbc|NN said|VBD in|IN a|DT statement|NN </s>|S_END
+<s>|S_START this|DT is|VBZ adding|VBG more|JJR pressures|NNS to|TO the|DT labor|NN market|NN and|CC has|VBZ prompted|VBN beijing|VBG to|TO step|VB up|RP easing|VBG over|IN the|DT past|JJ weeks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START manufacturing|NN in|IN china|NN is|VBZ considered|VBN a|DT barometer|NN of|IN the|DT global|JJ economy|NN because|IN of|IN the|DT countrys|NNS role|NN as|IN a|DT powerhouse|NN exporter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START china|NN the|DT worlds|NNS secondlargest|VBP economy|NN behind|IN the|DT united|VBN states|NNS has|VBZ been|VBN hit|VBN particularly|RB hard|RB by|IN the|DT recession|NN in|IN much|JJ of|IN europe|NN </s>|S_END
+<s>|S_START the|DT european|JJ sovereign|NN debt|NN crisis|NN has|VBZ prompted|VBN steep|JJ austerity|NN measures|VBZ in|IN many|JJ countries|NNS </s>|S_END
+<s>|S_START weak|JJ conditions|NNS have|VBP zapped|VBN demand|NN in|IN the|DT eurozone|NN the|DT largest|JJS market|NN for|IN chinese|JJ exports|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN the|DT us|PRP economy|NN has|VBZ slowed|VBN further|RB cutting|VBG demand|NN for|IN chinese|JJ exports|NNS </s>|S_END
+<s>|S_START the|DT slowdown|NN in|IN china|NN also|RB worries|VBZ investors|NNS because|IN china|NN has|VBZ become|VBN a|DT major|JJ market|NN for|IN us|PRP companies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD worlds|NNS largest|JJS economies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ economists|NNS have|VBP downgraded|VBN their|PRP$ growth|NN expectations|NNS for|IN china|NN in|IN recent|JJ weeks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START swiss|NN banking|NN giant|NN ubs|NNS has|VBZ lowered|VBN its|PRP$ forecast|NN for|IN how|WRB much|JJ chinas|NNS economy|NN will|MD grow|VB this|DT year|NN to|TO 75|CD from|IN 8|CD </s>|S_END
+<s>|S_START and|CC goldman|VBD sachs|NNS has|VBZ issued|VBN a|DT slightly|RB less|RBR dour|PRP$ outlook|NN for|IN china|NN growth|NN dropping|VBG it|PRP to|TO 76|CD from|IN 80|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START chinese|NN officials|NNS have|VBP moved|VBN in|IN recent|JJ months|NNS to|TO spur|VB growth|NN </s>|S_END
+<s>|S_START the|DT countrys|NNS central|JJ bank|NN cut|VBD rates|NNS in|IN june|NN and|CC july|RB the|DT first|JJ such|JJ actions|NNS since|IN 2008|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC policymakers|NNS have|VBP confirmed|VBN a|DT new|JJ round|NN of|IN infrastructure|NN spending|NN with|IN $|$ 157|CD billion|CD approved|VBN for|IN 55|CD projects|NNS </s>|S_END
+<s>|S_START the|DT projects|NNS include|VBP 25|CD new|JJ subway|NN lines|NNS as|IN well|RB as|IN highway|NN and|CC waterway|NN investments|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT investment|NN comes|VBZ at|IN a|DT crucial|JJ time|NN as|IN china|NN is|VBZ scheduled|VBN to|TO undergo|VB a|DT leadership|NN change|NN in|IN coming|VBG weeks|NNS that|IN will|MD reshape|VB the|DT top|JJ ranks|NNS of|IN chinas|NNS government|NN and|CC the|DT ruling|NN communist|NN party|NN </s>|S_END
+</p>|P_END
+

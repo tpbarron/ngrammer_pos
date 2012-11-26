@@ -1,0 +1,72 @@
+<p>|P_START
+<s>|S_START the|DT doj|NN gave|VBD the|DT green|JJ light|NN to|TO a|DT controversial|JJ deal|NN between|IN verizon|NN and|CC several|JJ of|IN the|DT nations|NNS largest|JJS cable|JJ providers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT us|PRP department|NN of|IN justice|NN said|VBD thursday|NN that|IN it|PRP will|MD approve|VB a|DT controversial|JJ spectrum|NN sale|NN deal|NN between|IN verizon|NN comcast|NN and|CC three|CD other|JJ cable|JJ companies|NNS after|IN some|DT revisions|NNS to|TO remove|VB terms|NNS that|WDT the|DT doj|NN considers|NNS anticompetitive|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START verizon|NN vz|NN fortune|NN 500|CD agreed|NN late|JJ last|JJ year|NN to|TO buy|VB $|$ 36|CD billion|CD of|IN unused|VBN wireless|NN spectrum|NN held|VBD by|IN the|DT nations|NNS four|CD largest|JJS cable|JJ providers|NNS comcast|VBP cmcsatime|JJ warner|NN cable|JJ twc|NN fortune|NN 500|CD cox|NN communications|NNS and|CC bright|JJ house|NN networks|NNS </s>|S_END
+<s>|S_START verizon|NN wants|VBZ the|DT spectrum|NN to|TO help|VB build|NN out|IN its|PRP$ 4g|JJ network|NN </s>|S_END
+<s>|S_START in|IN return|NN the|DT cable|JJ companies|NNS will|MD be|VB able|JJ to|TO buy|VB access|NN to|TO verizons|NNS 4g|CD services|NNS and|CC bundle|JJ it|PRP with|IN their|PRP$ own|JJ tripleplay|NN offerings|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT companies|NNS plan|VBP to|TO crosssell|VB each|DT others|NNS services|NNS </s>|S_END
+<s>|S_START verizon|NN will|MD advertise|VB and|CC bundle|VB cable|JJ services|NNS with|IN its|PRP$ own|JJ wireless|NN and|CC landline|NN services|NNS and|CC the|DT cable|JJ companies|NNS can|MD do|VB the|DT same|JJ for|IN verizon|NN but|CC not|RB for|IN verizons|NNS competitors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT raised|VBD red|VBN flags|NNS with|IN the|DT doj|NN </s>|S_END
+<s>|S_START the|DT agency|NN is|VBZ concerned|VBN because|IN verizons|NNS fios|NNS cable|JJ television|NN and|CC broadband|NN internet|NN service|NN is|VBZ a|DT major|JJ rival|NN to|TO the|DT cable|JJ companies|NNS offerings|NNS </s>|S_END
+<s>|S_START verizon|NN and|CC the|DT cable|JJ companies|NNS are|VBP direct|JJ competitors|NNS and|CC the|DT proposed|VBN deal|NN would|MD have|VB threatened|VBN this|DT competition|NN according|VBG to|TO the|DT doj|NN </s>|S_END
+<s>|S_START verizons|NNS incentive|VBP to|TO aggressively|RB sell|VB its|PRP$ own|JJ services|NNS would|MD have|VB been|VBN reduced|VBN the|DT doj|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN a|DT result|NN the|DT justice|NN department|NN filed|VBD an|DT antitrust|JJ lawsuit|NN against|IN the|DT companies|NNS one|CD all|DT the|DT parties|NNS agreed|VBD to|TO immediately|RB settle|VB following|VBG promises|NNS to|TO meet|VB certain|JJ conditions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD story|NN verizons|NNS $|$ 36|CD billion|CD spectrum|NN buy|NN reshapes|NNS wireless|NN field|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT agreement|NN bars|NNS verizon|VBP from|IN selling|VBG cable|JJ services|NNS in|IN areas|NNS where|WRB fios|NNS is|VBZ available|JJ </s>|S_END
+<s>|S_START the|DT agency|NN also|RB limited|VBD the|DT length|NN of|IN the|DT agreement|NN to|TO five|CD years|NNS ending|VBG in|IN december|NN 2016|CD </s>|S_END
+<s>|S_START at|IN that|DT point|NN the|DT cable|JJ companies|NNS can|MD begin|VB selling|VBG other|JJ wireless|NN companies|NNS services|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT doj|NN had|VBD a|DT few|JJ additional|JJ demands|NNS </s>|S_END
+<s>|S_START it|PRP said|VBD verizon|NN must|MD retain|VB the|DT ability|NN to|TO bundle|VB its|PRP$ dsl|NN internet|NN services|NNS with|IN satellite|JJ tv|NN providers|NNS </s>|S_END
+<s>|S_START the|DT company|NN cut|VBD its|PRP$ partnership|NN with|IN directv|NN in|IN december|NN though|IN verizon|NN never|RB explicitly|RB said|VBD that|IN move|NN was|VBD a|DT result|NN of|IN its|PRP$ proposed|VBN deal|NN with|IN the|DT cable|JJ providers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT department|NN has|VBZ provided|VBN the|DT right|NN remedy|NN for|IN competition|NN and|CC consumers|NNS joseph|VBP wayland|NN head|NN of|IN the|DT department|NN of|IN justices|NNS antitrust|JJ division|NN said|VBD in|IN a|DT prepared|VBN statement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT deal|NN is|VBZ still|RB contingent|JJ upon|IN the|DT federal|JJ communications|NNS commissions|NNS approval|NN which|WDT the|DT agency|NN is|VBZ likely|JJ to|TO grant|JJ soon|RB </s>|S_END
+<s>|S_START julius|NN genachowski|NN the|DT regulators|NNS chairman|NN said|VBD thursday|NN that|IN he|PRP will|MD urge|VB the|DT fccs|NNS other|JJ commissioners|NNS to|TO approve|VB the|DT deal|NN following|VBG the|DT companies|NNS binding|VBG procompetitive|JJ commitments|NNS with|IN the|DT doj|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT deals|NNS two|CD largest|JJS partners|NNS comcast|VBP and|CC verizon|NN said|VBD they|PRP were|VBD pleased|VBN that|IN the|DT arrangement|NN cleared|VBD an|DT important|JJ hurdle|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP are|VBP pleased|VBN that|IN the|DT consent|NN decree|NN preserves|NNS the|DT most|JJS important|JJ goals|NNS of|IN the|DT agreements|NNS david|VBD cohen|VBN comcasts|NNS executive|JJ vice|NN president|NN said|VBD in|IN a|DT statement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START separately|RB the|DT doj|NN said|VBD it|PRP would|MD allow|VB verizon|NN to|TO sell|VB some|DT of|IN its|PRP$ unwanted|VBN spectrum|NN to|TO tmobile|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT deal|NN had|VBD come|VBN under|IN fire|NN by|IN some|DT consumer|NN advocates|NNS who|WP viewed|VBN the|DT simultaneous|JJ selling|NN and|CC buying|VBG of|IN spectrum|NN as|IN a|DT sign|NN that|IN verizon|NN didnt|NN need|VBP to|TO complete|VB the|DT deal|NN with|IN the|DT cable|JJ companies|NNS </s>|S_END
+<s>|S_START but|CC the|DT doj|NN approved|VBD the|DT tmobile|NN deal|NN saying|VBG it|PRP will|MD benefit|VB tmobiles|NNS customers|NNS </s>|S_END
+</p>|P_END
+

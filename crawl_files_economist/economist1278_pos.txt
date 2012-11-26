@@ -1,0 +1,16 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 20|CD gdp|NN $|$ 1788bn|CD ppp|CD $|$ 1452bn|CD inflation|NN 14|CD population|NN 347m|CD gdp|NN per|IN head|NN $|$ 51530|CD ppp|CD $|$ 41860|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT conservative|JJ government|NN under|IN the|DT prime|JJ minister|NN stephen|NN harper|NN will|MD use|VB the|DT majority|NN it|PRP won|VBD in|IN 2011|CD to|TO press|NN ahead|RB with|IN its|PRP$ programme|NN unobstructed|VBD by|IN the|DT legislative|JJ impasses|NNS during|IN seven|CD years|NNS of|IN minority|NN rule|NN </s>|S_END
+<s>|S_START within|IN the|DT constraints|NNS of|IN austerity|NN this|DT will|MD include|VB environmental|JJ measures|NNS reform|NN of|IN financial|JJ regulation|NN and|CC the|DT pursuit|NN of|IN new|JJ foreign|JJ market|NN </s>|S_END
+<s>|S_START economic|JJ headwinds|NNS from|IN south|NN of|IN the|DT border|NN and|CC lower|JJR global|JJ commodity|NN prices|NNS will|MD hold|VB back|RB the|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB trading|NN place|NN </s>|S_END
+<s>|S_START the|DT government|NN is|VBZ pursuing|VBG closer|NN economic|JJ ties|NNS with|IN major|JJ overseas|NNS markets|NNS to|TO diversify|VB away|RP from|IN its|PRP$ dependence|NN on|IN us|PRP consumer|NN </s>|S_END
+<s>|S_START a|DT deal|NN with|IN the|DT eu|NN may|MD be|VB reached|VBN in|IN 2012|CD </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 59|CD gdp|NN $|$ 35bn|CD ppp|CD $|$ 78bn|CD inflation|NN 67|CD population|NN 428m|CD gdp|NN per|IN head|NN $|$ 810|CD ppp|CD $|$ 1830|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START raila|NN odinga|NN the|DT prime|JJ minister|NN and|CC frontrunner|NN to|TO succeed|VB president|NN mwai|NN kibaki|NN will|MD focus|VB on|IN ensuring|NN a|DT smooth|NN transition|NN while|IN pushing|VBG ahead|RB with|IN promarket|NN reforms|NNS and|CC implementing|VBG a|DT new|JJ constitution|NN </s>|S_END
+<s>|S_START the|DT charter|NN provides|VBZ for|IN a|DT clearer|JJR separation|NN of|IN powers|NNS and|CC boosts|NNS the|DT counties|NNS at|IN the|DT cost|NN of|IN the|DT centre|NN promising|VBG a|DT more|JJR consensual|JJ political|JJ outlook—if|JJ it|PRP is|VBZ implemented|VBN as|RB planned|VBN </s>|S_END
+<s>|S_START the|DT economy|NN will|MD be|VB managed|VBN within|IN a|DT framework|NN agreed|VBN upon|IN with|IN the|DT imf|NN </s>|S_END
+</p>|P_END
+

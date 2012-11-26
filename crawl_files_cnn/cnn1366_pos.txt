@@ -1,0 +1,58 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN citigroup|NN acknowledged|VBD that|IN a|DT hack|NN attack|NN last|JJ month|NN stole|NN millions|NNS of|IN dollars|NNS from|IN customers|NNS credit|NN card|NN accounts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START citigroup|NN c|NN fortune|NN 500|CD told|NN cnn|NN that|IN about|IN $|$ 27|CD million|CD was|VBD stolen|VBN from|IN about|IN 3400|CD accounts|NNS on|IN may|MD 10|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT hackers|NNS actually|RB accessed|VBN a|DT much|RB larger|JJR number|NN of|IN accounts|NNS 360083|CD </s>|S_END
+<s>|S_START fewer|JJR than|IN 1|CD of|IN the|DT hacked|VBN accounts|NNS had|VBD money|NN removed|VBN from|IN them|PRP according|VBG to|TO citigroup|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bank|NN reiterated|VBD that|IN customers|NNS will|MD not|RB be|VB responsible|JJ from|IN financial|JJ losses|NNS stemming|VBG from|IN the|DT attacks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START customers|NNS are|VBP not|RB liable|JJ for|IN any|DT fraud|NN on|IN the|DT accounts|NNS and|CC are|VBP 100|CD protected|VBN the|DT bank|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START citigroup|NN announced|VBD on|IN june|NN 16|CD that|WDT more|JJR than|IN 200000|CD new|JJ credit|NN cards|NNS had|VBD been|VBN issued|VBN to|TO hacked|VBN customers|NNS </s>|S_END
+<s>|S_START in|IN some|DT cases|NNS customers|NNS had|VBD already|RB closed|VBN their|PRP$ account|NN or|CC had|VBD received|VBN a|DT new|JJ credit|NN card|NN so|RB they|PRP didnt|VBP need|VBP the|DT citiinitiated|VBN replacement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START citigroup|NN waited|VBD until|IN june|NN 3|CD more|JJR than|IN three|CD weeks|NNS after|IN its|PRP$ discovery|NN of|IN the|DT hack|NN to|TO start|VB sending|NN out|IN notification|NN letters|NNS </s>|S_END
+<s>|S_START however|RB the|DT company|NN insisted|VBD that|IN it|PRP acted|VBD quickly|RB to|TO deal|VB with|IN the|DT security|NN problem|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START from|IN the|DT moment|NN citi|NN discovered|VBD the|DT breach|NN we|PRP took|VBD immediate|JJ action|NN to|TO rectify|VB the|DT situation|NN and|CC protect|VB any|DT customers|NNS potentially|RB at|IN risk|NN citi|NN said|VBD in|IN a|DT written|VBN statement|NN earlier|JJR this|DT month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX has|VBZ been|VBN a|DT spate|JJ of|IN recent|JJ highprofile|NN security|NN breaches|NNS </s>|S_END
+<s>|S_START video|NN game|VBD maker|NN electronic|JJ arts|NNS ea|NN said|VBD friday|NN that|IN hackers|NNS recently|RB breached|VBD a|DT server|NN linked|VBN to|TO a|DT message|NN board|NN stealing|VBG customer|NN information|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sony|NN sne|NN was|VBD subjected|VBN to|TO major|JJ hacks|NNS in|IN april|NN and|CC may|MD affecting|VB several|JJ of|IN its|PRP$ gaming|NN systems|NNS and|CC potentially|RB compromising|VBG tens|NNS of|IN millions|NNS of|IN credit|NN card|NN numbers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT separate|JJ case|NN hackers|NNS used|VBN securids|NNS the|DT tokens|NNS used|VBN by|IN office|NN workers|NNS to|TO access|NN corporate|JJ systems|NNS to|TO launch|VB cyber|NN attacks|NNS against|IN lockheed|NN martin|NN lmt|NN fortune|NN 500|CD </s>|S_END
+<s>|S_START the|DT maker|NN of|IN the|DT tokens|NNS rsa|VBP security|NN a|DT division|NN of|IN emc|NN corp|NN emc|NN fortune|NN 500|CD offered|VBD to|TO replace|VB or|CC monitor|NN all|DT securids|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bank|NN of|IN america|NN bac|NN fortune|NN 500|CD employees|NNS and|CC some|DT clients|NNS use|VBP the|DT tokens|NNS </s>|S_END
+<s>|S_START the|DT banks|NNS said|VBD they|PRP will|MD be|VB replaced|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnns|NNS nina|VBP golgowski|NN contributed|VBN to|TO this|DT story |NN </s>|S_END
+</p>|P_END
+

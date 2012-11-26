@@ -1,0 +1,65 @@
+<p>|P_START
+<s>|S_START the|DT scene|NN could|MD be|VB in|IN tampa|NN or|CC santa|NN barbara|NN or|CC chicago|RB </s>|S_END
+<s>|S_START mr|NN and|CC mrs|NNS sixpack|VBP are|VBP relaxing|VBG after|IN dinner|NN with|IN their|PRP$ ipad|JJ </s>|S_END
+<s>|S_START each|DT is|VBZ looking|VBG at|IN the|DT same|JJ news|NN website|IN but|CC each|DT will|MD be|VB shown|VBN different|JJ political|JJ advertising|NN </s>|S_END
+<s>|S_START he|PRP sees|VBZ something|NN about|IN naval|NN bases|NNS from|IN the|DT romney|NN camp|NN she|PRP sees|VBZ a|DT post|NN about|IN the|DT president’s|NNS environmental|JJ record|NN </s>|S_END
+<s>|S_START this|DT is|VBZ a|DT new|JJ trick|NN </s>|S_END
+<s>|S_START behind|IN this|DT year’s|JJ digital|NN campaigns—whether|JJ through|IN email|NN social|JJ networks|NNS apps|NNS or|CC web|VB advertising—lies|NNS an|DT enormous|JJ body|NN of|IN data|NNS that|WDT have|VBP been|VBN integrated|VBN for|IN the|DT first|JJ time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START asha|NN issenberg|NN author|NN of|IN a|DT new|JJ book|NN “the|DT victory|NN lab”|NN says|VBZ the|DT innovation|NN in|IN this|DT election|NN cycle|NN is|VBZ that|IN the|DT campaigns|NNS are|VBP able|JJ to|TO link|VB online|NN and|CC offline|NN data|NNS </s>|S_END
+<s>|S_START voterregistration|NN files|NNS have|VBP been|VBN merged|VBN with|IN vast|JJ quantities|NNS of|IN bought|NN consumer|NN data|NNS on|IN top|JJ of|IN which|WDT come|VBN bought|VBD or|CC acquired|VBN emails|NNS mobile|IN and|CC landline|NN numbers|NNS as|IN well|RB as|IN data|NNS gathered|VBN through|IN canvassing|NN phone|NN banks|NNS and|CC socialmedia|NNS page|VBP </s>|S_END
+<s>|S_START the|DT campaigns|NNS are|VBP also|RB making|VBG use|NN of|IN cookies|NNS the|DT crumbs|NNS of|IN data|NNS people|NNS leave|VBP behind|IN when|WRB they|PRP browse|VBP the|DT net|JJ </s>|S_END
+<s>|S_START it|PRP is|VBZ these|DT that|IN allow|JJ mr|NN and|CC mrs|NNS sixpack|VBP to|TO be|VB sent|VBN different|JJ advertising|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT point|NN of|IN all|DT these|DT data|NNS is|VBZ to|TO mine|JJ them|PRP for|IN insights|NNS into|IN the|DT electorate|JJ and|CC identify|NN pockets|NNS of|IN voters|NNS who|WP can|MD be|VB won|VBN over—either|-NONE- to|TO vote|VB spend|NN or|CC volunteer|NN </s>|S_END
+<s>|S_START the|DT darker|NN side|NN of|IN the|DT art|NN is|VBZ to|TO scare|VB off|RP voters|NNS leaning|VBG towards|NNS the|DT other|JJ candidate|NN </s>|S_END
+<s>|S_START in|IN the|DT past|JJ advertising|NN would|MD be|VB bought|VBN directly|RB through|IN websites|NNS that|WDT might|MD produce|VB the|DT right|NN sort|NN of|IN supporter|NN </s>|S_END
+<s>|S_START now|RB specific|JJ audiences|NNS are|VBP bought|VBN through|IN central|JJ advertising|NN exchanges|NNS such|JJ as|IN those|DT run|VBN by|IN google|JJ or|CC aol|NN and|CC the|DT advertising|NN will|MD run|VB anywhere|RB the|DT audience|NN happens|VBZ to|TO be|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ more|RBR effective|JJ </s>|S_END
+<s>|S_START as|IN a|DT result|NN digital|NN campaign|NN spending|NN is|VBZ continuing|VBG to|TO nibble|JJ away|NN at|IN television|NN budgets|NNS and|CC seems|VBZ likely|JJ to|TO do|VB so|RB in|IN future|JJ </s>|S_END
+<s>|S_START borrell|NN associates|NNS an|DT onlineadvertising|VBG consultancy|NN says|VBZ online|NN spending|NN for|IN the|DT 2012|CD elections|NNS will|MD reach|VB $|$ 160m|CD nationwide|JJ six|CD times|NNS higher|JJR than|IN in|IN 2008|CD </s>|S_END
+<s>|S_START others|NNS suggest|VBP the|DT figure|NN will|MD be|VB closer|JJR to|TO $|$ 300m|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mobile|JJ phones|NNS offer|VBP a|DT big|JJ new|JJ opportunity|NN this|DT time|NN as|IN over|IN half|DT of|IN voters|NNS now|RB have|VBP smartphone|VBN </s>|S_END
+<s>|S_START about|IN 10|CD of|IN donations|NNS have|VBP been|VBN sent|VBN via|IN text|NN or|CC mobile|JJ app|NN </s>|S_END
+<s>|S_START this|DT time|NN round|NN the|DT election|NN is|VBZ a|DT properly|RB social|JJ affair|NN with|IN both|DT sides|NNS engaged|VBD in|IN a|DT full|JJ range|NN of|IN platforms|NNS such|JJ as|IN facebook|NN twitter|NN youtube|NN tumblr|NN and|CC instagram|NN </s>|S_END
+<s>|S_START each|DT side|NN is|VBZ targeting|VBG its|PRP$ digital|JJ spending|NN towards|NNS the|DT audiences|NNS it|PRP is|VBZ trying|VBG to|TO reach|VB so|RB it|PRP would|MD be|VB easy|JJ to|TO read|VB too|RB much|RB into|IN reports|NNS that|IN one|CD side|NN is|VBZ doing|VBG better|JJR than|IN another|DT in|IN certain|JJ parts|NNS of|IN the|DT digital|JJ campaign|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ocial|JJ networks|NNS can|MD reach|VB voters|NNS who|WP do|VBP not|RB watch|VB live|JJ television|NN and|CC have|VB mobile|JJ phones|NNS rather|RB than|IN landline|NN </s>|S_END
+<s>|S_START it|PRP can|MD also|RB establish|VB links|NNS with|IN people|NNS who|WP tend|NN not|RB to|TO vote|VB by|IN targeting|VBG their|PRP$ more|JJR politically|RB motivated|VBN friends|NNS and|CC familie|VB </s>|S_END
+<s>|S_START it|PRP all|DT seems|VBZ to|TO be|VB working|VBG </s>|S_END
+<s>|S_START when|WRB aytm|NN market|NN research|NN looked|VBD at|IN american|JJ internetusers|NNS in|IN september|NN more|JJR than|IN a|DT quarter|NN said|VBD social|JJ media|NNS had|VBD influenced|VBN their|PRP$ political|JJ opinion|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START email|NN is|VBZ still|RB crucial|JJ particularly|RB for|IN fundraising|NN </s>|S_END
+<s>|S_START patrick|NN ruffini|NN a|DT republican|JJ political|JJ strategist|NN suspects|NNS that|WDT mr|NN obama|VBP is|VBZ doing|VBG better|JJR at|IN monetising|VBG his|PRP$ email|NN list|NN as|IN he|PRP is|VBZ sending|VBG twice|NN as|IN many|JJ emails|NNS as|IN he|PRP did|VBD four|CD years|NNS ago|RB </s>|S_END
+<s>|S_START these|DT are|VBP also|RB more|RBR hectoring|VBG and|CC manipulative|JJ than|IN they|PRP were|VBD 2008|CD presumably|RB because|IN that|DT work|NN </s>|S_END
+<s>|S_START but|CC the|DT republicans|NNS have|VBP done|VBN well|RB at|IN fundraising|VBG on|IN mobile|JJ phone|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN obama|NN probably|RB has|VBZ the|DT edge|NN in|IN this|DT war|NN not|RB least|JJ because|IN he|PRP has|VBZ had|VBN five|CD years|NNS to|TO build|VB his|PRP$ effort|NN up|IN </s>|S_END
+<s>|S_START he|PRP also|RB has|VBZ two|CD pieces|NNS of|IN software|NN for|IN organising|NN and|CC mobilising|VBG supporters|NNS a|DT smartphone|NN app|NN and|CC an|DT online|NN networking|NN website|NN which|WDT could|MD be|VB crucial|JJ in|IN getting|NN out|IN the|DT vote|NN and|CC which|WDT will|MD be|VB giving|VBG a|DT lot|NN of|IN realtime|NN feedback|NN from|IN canvassing|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT campaigns|NNS are|VBP constantly|RB increasing|VBG their|PRP$ databases|NNS testing|VBG out|RP the|DT conclusions|NNS they|PRP draw|VBP from|IN them|PRP and|CC retargeting|VBG voter|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ surely|RB no|DT accident|NN that|IN the|DT man|NN in|IN charge|NN of|IN mr|NN obama’s|NNS boffins|VBZ is|VBZ an|DT expert|NN in|IN machine|NN learning|NN </s>|S_END
+<s>|S_START and|CC both|DT sides|NNS are|VBP probably|RB running|VBG the|DT largest|JJS political|JJ analysis|NN operations|NNS in|IN history|NN </s>|S_END
+<s>|S_START they|PRP know|VBP more|RBR about|IN the|DT electorate|NN than|IN the|DT ranked|VBN masses|NNS of|IN political|JJ journalists|NNS and|CC pollster|NN </s>|S_END
+<s>|S_START voters|NNS may|MD dislike|VB being|VBG targeted|VBN so|RB finely|RB because|IN of|IN their|PRP$ political|JJ view|NN </s>|S_END
+<s>|S_START the|DT truth|NN is|VBZ that|IN this|DT is|VBZ inevitable|JJ because|IN the|DT statistics|NNS show|VBP that|IN it|PRP work|VBP </s>|S_END
+</p>|P_END
+

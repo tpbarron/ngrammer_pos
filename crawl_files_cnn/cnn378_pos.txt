@@ -1,0 +1,69 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN mitt|NN romneys|NNS videotaped|VBD remarks|NNS made|VBN public|JJ this|DT week|NN point|NN to|TO at|IN least|JJS one|CD true|JJ fact|NN nearly|RB half|NN of|IN american|JJ taxpayers|NNS do|VBP indeed|RB end|VB up|RP paying|VBG no|DT federal|JJ income|NN tax|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN footage|NN taped|VBD with|IN a|DT hidden|JJ camera|NN at|IN a|DT romney|NN fundraiser|NN in|IN may|MD the|DT republican|NN presidential|JJ candidate|NN describes|VBZ the|DT 47|CD of|IN the|DT people|NNS who|WP will|MD vote|VB for|IN president|NN obama|NN no|DT matter|NN what|WP </s>|S_END
+<s>|S_START he|PRP says|VBZ they|PRP are|VBP dependent|JJ on|IN government|NN and|CC believe|VB they|PRP are|VBP victims|NNS </s>|S_END
+<s>|S_START they|PRP pay|VBP no|DT income|NN tax|NN he|PRP says|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN fact|NN the|DT main|JJ reason|NN so|IN many|JJ americans|NNS end|VBP up|RP with|IN no|DT federal|JJ income|NN tax|NN liability|NN is|VBZ congress|NN addiction|NN to|TO tax|NN breaks|NNS tax|NN breaks|NNS both|DT democrats|NNS and|CC republicans|NNS have|VBP supported|VBN </s>|S_END
+<s>|S_START related|VBD obama|NN v|NN romney|NN on|IN taxes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START intentionally|RB or|CC not|RB congress|JJ set|NN it|PRP up|IN this|DT way|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START over|IN the|DT years|NNS lawmakers|NNS have|VBP increased|VBN the|DT number|NN of|IN nonpayers|NNS by|IN enacting|VBG reams|NNS of|IN tax|NN breaks|NNS such|JJ as|IN tax|NN credits|NNS for|IN work|NN kids|NNS and|CC education|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bush|NN tax|NN cuts|NNS first|RB passed|VBD more|JJR than|IN a|DT decade|NN ago|IN expanded|VBN many|JJ of|IN them|PRP </s>|S_END
+<s>|S_START indeed|RB if|IN the|DT bush|NN tax|NN cuts|NNS are|VBP allowed|VBN to|TO expire|VB the|DT number|NN of|IN nonpayers|NNS could|MD drop|VB significantly|RB according|VBG to|TO roberton|VB williams|NNS a|DT senior|JJ fellow|NN at|IN the|DT tax|NN policy|NN center|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD billionaires|NNS with|IN 1|CD tax|NN rates|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lawmakers|NNS also|RB approved|VBD a|DT number|NN of|IN temporary|JJ tax|NN breaks|NNS after|IN the|DT 2008|CD financial|JJ crisis|NN to|TO stimulate|VB the|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT tax|NN policy|NN center|NN has|VBZ estimated|VBN that|IN in|IN tax|NN year|NN 2011|CD 46|CD of|IN households|NNS owed|VBD nothing|NN in|IN federal|JJ income|NN taxes|NNS </s>|S_END
+<s>|S_START about|IN half|DT are|VBP nontaxable|JJ strictly|RB because|IN of|IN tax|NN breaks|NNS </s>|S_END
+<s>|S_START the|DT other|JJ half|NN didnt|NN owe|NN federal|JJ income|NN tax|NN because|IN of|IN exemptions|NNS allowed|VBN for|IN subsistence|NN level|NN income|NN and|CC dependents|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT no|DT tax|NN club|NN includes|VBZ some|DT of|IN the|DT very|JJ rich|NN a|DT few|JJ thousand|NN a|DT year|NN usually|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT group|NN of|IN nonpayers|NNS is|VBZ made|VBN up|RP disproportionately|RB of|IN low|JJ and|CC lowermiddleincome|NN households|NNS including|VBG seniors|NNS </s>|S_END
+<s>|S_START more|JJR than|IN 90|CD of|IN all|DT the|DT those|DT who|WP had|VBD no|DT federal|JJ income|NN tax|NN liability|NN in|IN 2011|CD had|VBD income|NN below|IN $|$ 50000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC if|IN payroll|NN taxes|NNS are|VBP counted|VBN the|DT number|NN of|IN nonpayer|NN households|NNS drops|NNS precipitously|RB to|TO an|DT estimated|VBN 18|CD in|IN 2011|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START why|WRB </s>|S_END
+<s>|S_START because|IN payroll|NN taxes|NNS which|WDT fund|NN the|DT big|JJ entitlement|NN programs|NNS hit|VBP lowincome|NN households|NNS harder|JJR than|IN most|JJS since|IN 100|CD of|IN their|PRP$ income|NN is|VBZ subject|JJ to|TO them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN contrast|NN highincome|NN filers|NNS pay|VBP a|DT lower|JJR percentage|NN of|IN their|PRP$ income|NN in|IN payroll|NN taxes|NNS since|IN wages|NNS subject|VBP to|TO the|DT social|JJ security|NN tax|NN are|VBP capped|VBN at|IN $|$ 110100|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN course|NN thats|NNS all|DT just|RB about|IN federal|JJ taxes|NNS paid|VBN on|IN income|NN </s>|S_END
+<s>|S_START once|RB sales|NNS taxes|NNS as|RB well|RB as|IN state|NN and|CC local|JJ income|NN taxes|NNS are|VBP thrown|VBN into|IN the|DT mix|NN virtually|RB no|DT household|NN in|IN america|NN would|MD qualify|VB for|IN the|DT nonpayer|NN group|NN </s>|S_END
+</p>|P_END
+

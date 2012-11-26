@@ -1,0 +1,84 @@
+<p>|P_START
+<s>|S_START voters|NNS in|IN massachusetts|NNS will|MD decide|VB next|JJ month|NN whether|IN a|DT terminally|RB ill|JJ patient|NN with|IN less|JJR than|IN six|CD months|NNS to|TO live|VB should|MD be|VB able|JJ to|TO use|VB a|DT doctor’s|JJ help|NN in|IN committing|NN suicide|NN </s>|S_END
+<s>|S_START if|IN they|PRP assent|VBP as|IN the|DT polls|NNS suggest|VBP the|DT state|NN will|MD be|VB the|DT third|JJ after|IN oregon|NN and|CC washington|NN to|TO legalise|VB assisted|VBN suicide|NN </s>|S_END
+<s>|S_START new|JJ jersey|NN introduced|VBN a|DT bill|NN last|JJ month|NN to|TO decriminalise|VB it|PRP </s>|S_END
+<s>|S_START the|DT montana|NN supreme|NN court|NN has|VBZ ruled|VBN that|IN doctors|NNS can|MD not|RB be|VB prosecuted|VBN for|IN prescribing|NN lethal|NN drugs|NNS for|IN terminally|RB ill|JJ patient|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB jack|NN kevorkian|NN an|DT american|JJ doctor|NN jailed|VBD after|IN admitting|VBG helping|VBG 130|CD patients|NNS to|TO die|VB first|RB went|VBD on|IN trial|NN in|IN 1994|CD assisting|VBG suicide|NN was|VBD a|DT crime|NN everywhere|RB save|VBP switzerland|NN </s>|S_END
+<s>|S_START now|RB the|DT trend|NN is|VBZ spreading|VBG far|RB and|CC wide|RB though|IN not|RB in|IN asia|NN or|CC in|IN muslim|NN countries|NNS where|WRB it|PRP is|VBZ still|RB taboo|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN europe|NN the|DT netherlands|NNS belgium|NN and|CC luxembourg|NN all|DT allow|NN assisted|VBN suicide|NN </s>|S_END
+<s>|S_START private|JJ members’|NN bills|NNS to|TO legalise|VB it|PRP are|VBP due|JJ in|IN both|DT the|DT scottish|JJ and|CC london|NN parliaments|NNS early|RB next|JJ year|NN </s>|S_END
+<s>|S_START in|IN new|JJ zealand|NN a|DT private|JJ member’s|JJ bill|NN to|TO allow|VB the|DT practice|NN awaits|VBZ its|PRP$ first|JJ reading|NN </s>|S_END
+<s>|S_START in|IN canada|NN quebec’s|NNS newly|RB elected|VBN ruling|NN party|NN plans|NNS to|TO bring|VB in|IN similar|JJ legislation|NN </s>|S_END
+<s>|S_START in|IN australia|NN new|JJ south|NN wales’s|NNS parliament|NN is|VBZ also|RB debating|VBG the|DT issue|NN </s>|S_END
+<s>|S_START even|RB in|IN catholic|JJ ireland|NN a|DT high|JJ court|NN decision|NN is|VBZ expected|VBN imminently|RB on|IN whether|IN the|DT partner|NN of|IN a|DT multiple|NN sclerosis|NN sufferer|NN can|MD help|VB her|PRP die|VB without|IN himself|PRP being|VBG prosecuted|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT this|DT reflects|VBZ a|DT big|JJ shift|NN towards|NNS secular|JJ thinking|VBG and|CC individual|JJ autonomy|NN as|IN well|RB as|IN growing|VBG worries|NNS about|IN the|DT medicalised|VBN miserable|JJ and|CC costly|JJ way|NN of|IN death|NN that|IN awaits|NNS many|JJ people|NNS in|IN rich|JJ countrie|NN </s>|S_END
+<s>|S_START assisted|VBD suicide|VBN typically|RB gains|VBZ overwhelming|VBG public|JJ support|NN legislators|NNS profamily|RB lobbies|NNS churches|NNS and|CC doctors’|JJ groups|NNS tend|VBP to|TO be|VB more|JJR squeamish|JJ </s>|S_END
+<s>|S_START they|PRP fear|VBP that|IN legal|JJ easytoget|NN assisted|VBD suicide|NN will|MD have|VB dire|NN social|JJ and|CC moral|JJ effect|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP can’t|VBP fly|RB with|IN your|PRP$ own|JJ wing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB for|IN the|DT limited|VBN measures|NNS introduced|VBN so|RB far|RB safeguards|NNS abound|VBP and|CC evidence|NN of|IN abuse|NN is|VBZ scant|JJ </s>|S_END
+<s>|S_START oregon’s|NNS legislation|NN introduced|VBD in|IN 1998|CD is|VBZ widely|RB admired|VBN </s>|S_END
+<s>|S_START under|IN it|PRP an|DT eligible|JJ applicant|NN must|MD be|VB a|DT mentally|RB competent|JJ adult|NN suffering|NN from|IN a|DT terminal|JJ illness|NN and|CC with|IN less|JJR than|IN six|CD months|NNS left|VBN to|TO live|VB </s>|S_END
+<s>|S_START his|PRP$ decision|NN must|MD be|VB “informed”|-NONE- meaning|VBG he|PRP must|MD have|VB been|VBN told|VBN about|IN alternatives|NNS such|JJ as|IN hospice|NN care|NN and|CC pain|NN control|NN and|CC he|PRP must|MD have|VB asked|VBN his|PRP$ doctor|NN at|IN least|JJS three|CD times|NNS to|TO be|VB allowed|VBN to|TO die|VB </s>|S_END
+<s>|S_START a|DT second|JJ doctor|NN must|MD review|VB the|DT case|NN both|DT for|IN the|DT accuracy|NN of|IN the|DT prognosis|NN and|CC to|TO certify|VB that|IN no|DT pressure|NN from|IN inheritancehungry|NN relatives|NNS say|VBP has|VBZ been|VBN exerted|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START almost|RB all|DT existing|VBG or|CC proposed|VBN assistedsuicide|JJ laws|NNS contain|VBP similar|JJ safeguard|NN </s>|S_END
+<s>|S_START ome|NN also|RB require|VB the|DT applicant|NN to|TO be|VB suffering|VBG “unbearable”|-NONE- physical|JJ or|CC mental|JJ pain|NN </s>|S_END
+<s>|S_START only|RB in|IN belgium|NN the|DT netherlands|NNS and|CC switzerland|NN where|WRB assisted|VBN suicide|JJ has|VBZ been|VBN permitted|VBN since|IN 1942|CD are|VBP the|DT nonterminally|RB ill|JJ eligible|JJ </s>|S_END
+<s>|S_START yet|RB even|RB that|IN liberality|NN has|VBZ not|RB stoked|VBN the|DT number|NN </s>|S_END
+<s>|S_START the|DT annual|JJ total|NN of|IN assisted|VBN deaths|NNS among|IN swiss|JJ residents|NNS is|VBZ still|RB around|IN 300|CD or|CC 05|CD of|IN all|DT death|NN </s>|S_END
+<s>|S_START dignitas|NNS the|DT only|JJ organisation|NN in|IN the|DT world|NN willing|JJ to|TO help|VB foreigners|NNS die|VB had|VBD 160|CD clients|NNS in|IN 2011|CD </s>|S_END
+<s>|S_START in|IN oregon|NN assisted|VBN suicides|NNS represent|VBP 02|CD of|IN all|DT death|NN </s>|S_END
+<s>|S_START in|IN belgium|NN where|WRB voluntary|JJ euthanasia|NN is|VBZ also|RB legal|JJ assisted|VBN dying|VBG accounts|NNS for|IN less|JJR than|IN 1|CD of|IN the|DT total|JJ </s>|S_END
+<s>|S_START even|RB in|IN the|DT netherlands|NNS which|WDT takes|VBZ a|DT notably|RB relaxed|VBN approach|NN to|TO both|DT forms|NNS it|PRP represents|VBZ less|JJR than|IN 3|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START courts|NNS are|VBP an|DT impetus|NN for|IN reform|NN </s>|S_END
+<s>|S_START everal|JJ heartrending|NN “righttodie”|NN cases|NNS have|VBP come|VBN before|IN the|DT house|NN of|IN lords|NNS formerly|RB britain’s|JJ highest|NN court|NN and|CC other|JJ courts|NNS over|IN the|DT past|JJ decade|NN </s>|S_END
+<s>|S_START that|DT led|VBN the|DT chief|NN prosecutor|NN to|TO publish|VB guidance|NN on|IN the|DT criteria|NN used|VBD for|IN taking|NN assistedsuicide|NN cases|NNS to|TO court|NN </s>|S_END
+<s>|S_START anyone|NN acting|VBG solely|RB out|IN of|IN compassion|NN and|CC who|WP had|VBD given|VBN only|RB “minor”|-NONE- help|VB like|IN accompanying|VBG someone|NN to|TO dignitas|NNS could|MD expect|VB to|TO escape|VB prosecution|NN </s>|S_END
+<s>|S_START in|IN 2008|CD a|DT 23yearold|JJ briton|NN paralysed|VBD by|IN a|DT rugby|JJ accident|NN went|NN to|TO switzerland|VB to|TO end|VB his|PRP$ life|NN at|IN dignita|NN </s>|S_END
+<s>|S_START his|PRP$ parents|NNS who|WP took|VBD him|PRP there|RB risked|VBD arrest|NN on|IN their|PRP$ return|NN </s>|S_END
+<s>|S_START but|CC england’s|JJ public|JJ prosecutor|NN ruled|VBD that|IN criminal|JJ proceedings|NNS would|MD not|RB be|VB in|IN the|DT public|NN interest|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT law|NN itself|PRP has|VBZ not|RB changed|VBN a|DT british|JJ doctor|NN who|WP knowingly|RB prescribes|VBZ or|CC administers|NNS a|DT lethal|JJ dose|NN of|IN drugs|NNS could|MD still|RB face|VB jail|NN </s>|S_END
+<s>|S_START in|IN august|NN tony|NN nicklinson|NN lost|VBD his|PRP$ lengthy|JJ “righttodie”|NN battle|NN in|IN the|DT high|JJ court|NN </s>|S_END
+<s>|S_START tuck|NN in|IN what|WP he|PRP described|VBD as|IN a|DT “living|JJ nightmare”|NN after|IN a|DT stroke|NN in|IN 2005|CD left|VBN him|PRP unable|JJ to|TO move|VB or|CC communicate|VB save|JJ by|IN blinking|NN he|PRP begged|VBD the|DT court|NN to|TO allow|VB a|DT doctor|NN to|TO put|VB an|DT end|NN to|TO his|PRP$ life|NN </s>|S_END
+<s>|S_START it|PRP ruled|VBD that|IN voluntary|JJ euthanasia|NN remained|VBD murder|NN “however|NN understandable|JJ the|DT motives”|NN </s>|S_END
+<s>|S_START it|PRP was|VBD for|IN parliament|NN not|RB the|DT courts|NNS to|TO change|VB the|DT law|NN the|DT ruling|NN said|VBD </s>|S_END
+<s>|S_START but|CC british|JJ mps|NNS appear|VBP in|IN no|DT hurry|NN to|TO do|VB so|RB six|CD in|IN ten|CD oppose|NN any|DT reform|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ doctors|NNS throughout|IN europe|NN nevertheless|NN continue|NN to|TO provide|VB a|DT kind|NN of|IN passive|JJ euthanasia|NN for|IN patients|NNS in|IN their|PRP$ final|JJ hours|NNS or|CC day|NN </s>|S_END
+<s>|S_START the|DT “liverpool|JJ care|NN pathway|NN for|IN the|DT dying|VBG patient”|NN first|RB adopted|VBN in|IN the|DT northwestern|NN english|NN city|NN in|IN the|DT late|JJ 1990s|CD is|VBZ now|RB standard|JJ practice|NN in|IN most|JJS british|JJ hospitals|NNS and|CC hospice|NN </s>|S_END
+<s>|S_START under|IN it|PRP doctors|VBZ allow|JJ the|DT patient|NN or|CC his|PRP$ family|NN if|IN he|PRP is|VBZ comatose|DT to|TO choose|VB whether|IN to|TO prolong|JJ life|NN artificially|RB or|CC to|TO remove|VB the|DT lifesupport|NN system|NN and|CC let|VB the|DT patient|NN die—often|-NONE- with|IN the|DT aid|NN of|IN an|DT extrastrong|JJ dose|NN of|IN lifeshortening|VBG painkiller|JJR </s>|S_END
+<s>|S_START in|IN america|NN beset|NN by|IN worries|NNS about|IN lawsuits|NNS such|JJ an|DT approach|NN is|VBZ rare|JJ and|CC risky|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT prospect|NN of|IN the|DT loss|NN of|IN autonomy|NN of|IN dignity|NN and|CC of|IN the|DT ability|NN to|TO enjoy|VB life|NN are|VBP the|DT main|JJ reasons|NNS cited|VBN by|IN those|DT wanting|VBG assisted|VBN suicide|NN </s>|S_END
+<s>|S_START having|VBG the|DT option|NN of|IN assisted|VBN suicide|NN means|VBZ that|DT terminally|RB ill|JJ people|NNS can|MD wait|VB before|IN choosing|NN to|TO end|VB their|PRP$ live|JJ </s>|S_END
+<s>|S_START that|DT may|MD have|VB been|VBN what|WP happened|VBN to|TO gloria|VB taylor|NN a|DT canadian|JJ assistedsuicide|NN campaigner|NN with|IN lou|PRP gehrig’s|VBZ disease|NN a|DT degenerative|JJ illne|NN </s>|S_END
+<s>|S_START after|IN winning|VBG a|DT landmark|NN court|NN case|NN four|CD months|NNS ago|RB that|IN gave|VBD her|PRP a|DT “personal|JJ exemption”|NN to|TO seek|VB a|DT doctor’s|JJ help|NN to|TO commit|VB suicide|JJ at|IN the|DT time|NN of|IN her|PRP$ choosing|NN she|PRP died|VBD earlier|RBR this|DT month—from|NN natural|NN cause|NN </s>|S_END
+</p>|P_END
+

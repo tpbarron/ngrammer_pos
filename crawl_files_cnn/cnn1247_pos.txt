@@ -1,0 +1,94 @@
+<p>|P_START
+<s>|S_START the|DT gmail|NN phishing|VBG emails|NNS sent|VBN to|TO us|PRP officials|NNS convincingly|RB posed|VBN as|IN messages|NNS from|IN people|NNS they|PRP knew|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT targeted|VBN phishing|VBG scheme|NN that|IN struck|NN hundreds|NNS of|IN top|JJ us|PRP government|NN officials|NNS personal|JJ gmail|NN accounts|NNS was|VBD neither|DT difficult|JJ to|TO perform|NN nor|CC incredibly|RB sophisticated|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT attackers|NNS were|VBD able|JJ to|TO pose|VB as|IN legitimate|JJ trusted|VBN senders|NNS from|IN the|DT state|NN department|NN office|NN of|IN the|DT secretary|JJ of|IN defense|NN and|CC the|DT defense|NN intelligence|NN agency|NN by|IN sending|NN emails|NNS from|IN what|WP appeared|VBN even|RB on|IN close|JJ inspection|NN to|TO be|VB real|RB email|JJ addresses|NNS ending|VBG in|IN familiar|JJ domains|NNS like|IN stategov|NN osdmil|NN and|CC diamil|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO accomplish|VB that|IN the|DT attackers|NNS told|VBD their|PRP$ mail|NN server|NN to|TO send|VB emails|NNS from|IN the|DT spoofed|VBN addresses|NNS rather|RB than|IN their|PRP$ own|JJ </s>|S_END
+<s>|S_START though|IN most|JJS email|NN clients|NNS like|IN gmail|NN or|CC microsoft|NN msft|NN fortune|NN 500|CD outlook|NN dont|NN allow|NN users|NNS to|TO do|VB that|DT thats|NNS one|CD of|IN the|DT fields|NNS an|DT administrator|NN of|IN an|DT email|NN server|NN can|MD easily|RB change|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB thats|NNS done|VBP its|PRP$ incredibly|RB difficult|JJ or|CC sometimes|RB impossible|JJ for|IN a|DT user|NN to|TO know|VB that|IN the|DT sender|NN is|VBZ really|RB an|DT impostor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN this|DT case|NN malicious|VBZ emails|NNS were|VBD sent|VBN with|IN some|DT text|NN and|CC what|WP appeared|VBD to|TO be|VB an|DT attachment|NN </s>|S_END
+<s>|S_START according|VBG to|TO the|DT contagio|NN blog|NN which|WDT first|JJ discovered|VBD the|DT attack|NN in|IN february|JJ one|CD email|NN sent|NN to|TO state|NN department|NN officials|NNS read|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ the|DT latest|JJS version|NN of|IN states|NNS joint|VBP statement|NN </s>|S_END
+<s>|S_START my|PRP$ understanding|NN is|VBZ that|IN state|NN put|VBD in|IN placeholder|NN econ|NN language|NN and|CC am|NN happy|NN to|TO have|VB us|PRP fill|MD in|IN but|CC in|IN their|PRP$ rush|NN to|TO get|VB a|DT cleared|VBN version|NN from|IN the|DT wh|NN they|PRP sent|VBD the|DT attached|VBN to|TO mike|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT bottom|NN of|IN that|DT particular|JJ email|NN a|DT prompt|NN was|VBD shown|VBN for|IN what|WP appeared|VBN to|TO be|VB a|DT download|NN link|NN for|IN an|DT attached|JJ word|NN document|NN called|VBN joint|JJ statement|NN u|NN s|NNS draftkc|VBP editsdoc|NN </s>|S_END
+<s>|S_START except|IN it|PRP wasnt|VBP a|DT download|NN link|NN it|PRP was|VBD formatted|VBN to|TO look|VB like|IN one|CD with|IN some|DT underscores|NNS bold|VBP and|CC hyperlinked|VBN text|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB the|DT victim|NN clicked|VBD on|IN that|DT link|NN he|PRP or|CC she|PRP was|VBD redirected|VBN to|TO a|DT fake|NN but|CC very|RB convincing|VBG login|NN page|NN for|IN gmail|NN </s>|S_END
+<s>|S_START its|PRP$ unusual|JJ for|IN gmail|NN to|TO ask|VB users|NNS to|TO log|VB in|IN again|NN but|CC perhaps|RB the|DT victims|NNS thought|VBD their|PRP$ email|NN session|NN had|VBD timed|VBN out|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN victims|NNS entered|VBD their|PRP$ login|NN information|NN into|IN the|DT fake|NN page|NN the|DT attackers|NNS collected|VBD their|PRP$ passwords|NNS and|CC were|VBD able|JJ to|TO gain|VB access|NN to|TO their|PRP$ gmail|NN accounts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ far|NN from|IN rocket|NN science|NN and|CC it|PRP can|MD be|VB carried|VBN out|RP by|IN just|RB about|IN anyone|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eric|JJ fiterman|NN a|DT former|JJ fbi|NN special|JJ agent|NN proved|VBD the|DT point|NN for|IN us|PRP </s>|S_END
+<s>|S_START hes|NNS the|DT founder|NN of|IN rogue|NN networks|NNS a|DT security|NN startup|NN housed|VBD in|IN a|DT new|JJ baltimorebased|VBN cybersecurity|NN incubator|NN program|NN backed|VBN by|IN northrop|NN grumman|NN noc|NN fortune|NN 500|CD and|CC the|DT university|NN of|IN maryland|NN baltimore|IN county|NN </s>|S_END
+<s>|S_START as|IN part|NN of|IN the|DT service|NN fiterman|NN offers|NNS clients|NNS he|PRP launches|VBZ mock|NN phishing|VBG attacks|NNS to|TO test|NN the|DT security|NN of|IN corporate|JJ networks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START using|VBG a|DT virtual|JJ linuxbased|VBN mail|NN server|RB which|WDT costs|NNS just|RB a|DT few|JJ dollars|NNS a|DT month|NN to|TO run|VB fiterman|NN was|VBD able|JJ to|TO spoof|VB email|NN addresses|NNS from|IN ted|VBN turner|NN nancy|NN pelosi|NN as|IN well|RB as|IN my|PRP$ own|JJ in|IN a|DT matter|NN of|IN minutes|NNS </s>|S_END
+<s>|S_START neither|DT the|DT turner|NN email|NN client|NN nor|CC gmail|NN detected|VBD any|DT problems|NNS with|IN the|DT emails|NNS </s>|S_END
+<s>|S_START click|NN here|RB for|IN more|JJR on|IN how|WRB fiterman|NN faked|VBD the|DT emails|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START not|RB only|RB is|VBZ it|PRP very|RB easy|JJ to|TO forge|VB emails|NNS but|CC for|IN google|JJ goog|NN fortune|NN 500|CD to|TO find|VB it|PRP would|MD be|VB akin|JJ to|TO finding|NN a|DT needle|NN in|IN a|DT haystack|NN he|PRP said|VBD </s>|S_END
+<s>|S_START massive|JJ phishing|NN schemes|NNS are|VBP easy|JJ to|TO detect|VB and|CC throw|NN in|IN a|DT spam|NN folder|NN but|CC targeted|VBD attacks|NNS are|VBP hard|RB to|TO find|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT case|NN of|IN targeted|VBN phishing|VBG attacks|NNS or|CC spear|JJ phishing|NN it|PRP often|RB takes|VBZ a|DT pair|NN of|IN human|JJ eyes|NNS to|TO discern|VB the|DT misdirection|NN </s>|S_END
+<s>|S_START but|CC some|DT attackers|NNS have|VBP gotten|VBN so|RB clever|RB their|PRP$ schemes|NNS are|VBP becoming|VBG almost|RB seamless|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN someone|NN knows|VBZ what|WP theyre|RB doing|VBG and|CC they|PRP send|VBP a|DT wellcrafted|VBN spoof|NN email|NN that|WDT targets|VBZ specific|JJ users|NNS its|PRP$ nearly|RB impossible|JJ for|IN the|DT end|NN user|NN to|TO detect|VB said|VBN kevin|NN haley|NN director|NN at|IN symantec|NN symc|NN fortune|NN 500|CD security|NN response|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP some|DT ways|NNS to|TO uncover|VB such|JJ schemes|NNS however|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START end|NN users|NNS can|MD usually|RB view|VB the|DT original|JJ source|NN of|IN the|DT email|NN in|IN gmail|NN you|PRP can|MD do|VB that|DT by|IN clicking|NN the|DT down|NN arrow|NN next|IN to|TO the|DT reply|NN button|NN and|CC clicking|VBG show|NN original|JJ </s>|S_END
+<s>|S_START it|PRP looks|VBZ like|IN a|DT giant|JJ garble|JJ of|IN code|NN but|CC it|PRP provides|VBZ some|DT useful|JJ information|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN instance|NN if|IN the|DT returnpath|NN or|CC sender|NN field|NN does|VBZ not|RB match|VB the|DT email|NN address|NN that|WDT appeared|VBD to|TO send|VB the|DT email|NN its|PRP$ likely|JJ a|DT spoof|NN </s>|S_END
+<s>|S_START another|DT tip|NN off|IN is|VBZ if|IN the|DT spf|NN sender|NN policy|NN framework|NN field|NN says|VBZ it|PRP does|VBZ not|RB designate|VB the|DT senders|NNS ip|VBP address|NN as|IN a|DT permitted|VBN sender|NN or|CC if|IN it|PRP says|VBZ the|DT ip|NN address|NN is|VBZ neither|DT permitted|VBN nor|CC denied|VBN by|IN best|JJS guess|NN record|NN for|IN the|DT domain|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT case|NN of|IN the|DT phishing|NN attack|NN against|IN the|DT us|NN government|NN officials|NNS some|DT of|IN the|DT emails|NNS were|VBD really|RB sent|VBN from|IN addresses|NNS like|IN flash10f163com|NNP jeffreybader1965163com|NNP </s>|S_END
+<s>|S_START but|CC the|DT recipients|NNS only|RB would|MD have|VB known|VBN that|IN by|IN doing|VBG a|DT deep|NN dive|NN into|IN code |JJ </s>|S_END
+</p>|P_END
+

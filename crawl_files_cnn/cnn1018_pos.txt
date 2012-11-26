@@ -1,0 +1,100 @@
+<p>|P_START
+<s>|S_START president|NN obama|VBD assures|NNS his|PRP$ plan|NN to|TO eliminate|VB the|DT bush|NN tax|NN cuts|NNS for|IN top|JJ income|NN earners|NNS wouldnt|VBP hurt|VBN small|JJ businesses|NNS but|CC a|DT treasury|NN department|NN study|NN shows|VBZ doing|VBG so|RB would|MD raise|VB taxes|NNS on|IN 24|CD of|IN employers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN president|NN obamas|VBZ proposal|NN to|TO let|VB the|DT bush|JJ tax|NN cuts|NNS expire|VBP for|IN top|JJ earners|NNS would|MD hit|VB only|RB a|DT tiny|NN fraction|NN of|IN all|DT small|JJ businesses|NNS but|CC it|PRP includes|VBZ nearly|RB 1|CD million|CD companies|NNS that|WDT employ|NN people|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS according|VBG to|TO an|DT irs|NNS study|NN which|WDT counted|VBN more|RBR than|IN 20|CD million|CD enterprises|NNS as|IN small|JJ businesses|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS of|IN them|PRP are|VBP solo|RB entrepreneurs|NNS with|IN no|DT employees|NNS </s>|S_END
+<s>|S_START only|RB a|DT tiny|NN portion|NN of|IN them|PRP earn|VB more|JJR than|IN the|DT $|$ 200000|CD threshold|NN $|$ 250000|CD if|IN married|JJ that|IN would|MD face|VB an|DT increase|NN if|IN the|DT top|JJ two|CD rates|NNS go|VBP up|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC highincome|VBD earners|NNS also|RB make|VBP up|RP 24|CD of|IN small|JJ businesses|NNS with|IN employees|NNS or|CC 923000|CD of|IN them|PRP according|VBG to|TO a|DT report|NN by|IN treasury|NN department|NN economists|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD obamas|NNS 18|CD small|JJ business|NN tax|NN cuts|NNS explained|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS why|WRB obama|NN can|MD say|VB his|PRP$ proposal|NN wouldnt|NN affect|NN many|JJ small|JJ businesses|NNS between|IN 3|CD and|CC 10|CD depending|VBG on|IN how|WRB you|PRP define|VBP a|DT small|JJ business|NN </s>|S_END
+<s>|S_START its|PRP$ also|RB why|WRB romney|NN can|MD say|VB that|IN it|PRP is|VBZ aimed|VBN at|IN job|NN creators|NNS as|IN he|PRP did|VBD at|IN wednesday|NN nights|NNS debate|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT small|JJ businesses|NNS also|RB employ|VBP an|DT estimated|VBN 60|CD million|CD americans|NNS about|IN half|DT of|IN all|DT private|JJ sector|NN employees|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START no|DT matter|NN how|WRB you|PRP slice|VBP it|PRP and|CC dice|NN it|PRP its|PRP$ hard|JJ to|TO avoid|VB that|IN this|DT is|VBZ a|DT tax|NN increase|NN on|IN a|DT significant|JJ share|NN of|IN small|JJ business|NN owners|NNS said|VBD raymond|NN keating|NN chief|NN economist|NN of|IN the|DT small|JJ business|NN entrepreneurship|NN council|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT obama|NN plan|NN would|MD raise|VB the|DT top|JJ two|CD tax|NN brackets|NNS from|IN 33|CD to|TO 36|CD and|CC from|IN 35|CD to|TO 396|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO business|NN owners|NNS higher|JJR tax|NN bills|NNS would|MD restrict|VB their|PRP$ ability|NN to|TO grow|VB and|CC hire|VB workers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START brandon|NN shamim|NN expects|VBZ to|TO be|VB in|IN the|DT highincome|NN group|NN next|IN year|NN </s>|S_END
+<s>|S_START the|DT consulting|NN firm|NN he|PRP coowns|VBZ beacon|NN management|NN group|NN has|VBZ been|VBN gaining|VBG strength|NN since|IN the|DT recession|NN by|IN staying|NN small|JJ keeping|VBG only|RB three|CD employees|NNS and|CC a|DT few|JJ parttimers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN next|JJ year|NN proves|NNS profitable|JJ enough|RB he|PRP plans|VBZ to|TO finally|RB get|VB around|IN to|TO hiring|NN a|DT project|NN manager|NN and|CC a|DT marketer|NN </s>|S_END
+<s>|S_START shamim|NN would|MD also|RB buy|VB an|DT office|NN instead|RB lease|VB one|CD at|IN his|PRP$ current|JJ pasadena|NN calif|IN office|NN building|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB higher|JJR taxes|NNS would|MD make|VB him|PRP rethink|VB those|DT plans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bold|JJ moves|NNS we|PRP want|VBP to|TO make|VB would|MD no|VB longer|RBR be|VB afforded|VBN to|TO us|PRP he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT new|JJ yorkbased|VBN consulting|NN firm|NN sales|NNS huddle|NN group|NN higher|JJR taxes|NNS wouldnt|VBP affect|JJ hiring|NN but|CC it|PRP would|MD create|VB some|DT extra|JJ strain|NN </s>|S_END
+<s>|S_START its|PRP$ owner|NN sam|NN caucci|NN said|VBD cutting|VBG anyone|NN from|IN his|PRP$ 10person|CD team|NN isnt|NN an|DT option|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START higher|JJR taxes|NNS are|VBP going|VBG to|TO make|VB me|PRP work|VB harder|JJR caucci|NN said|VBD </s>|S_END
+<s>|S_START that|DT means|VBZ ill|NN need|NN to|TO cut|VB costs|NNS and|CC overhead|VB expenses|NNS </s>|S_END
+<s>|S_START i|PRP cant|VBP let|JJ the|DT things|NNS happening|VBG in|IN washington|NN affect|NN my|PRP$ companys|NNS mission|NN and|CC vision|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD big|JJ firms|NNS that|WDT avoid|VBD taxes|NNS are|VBP moochers|NNS small|JJ companies|NNS say|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START startups|NNS the|DT nations|NNS true|VBP source|NN of|IN net|JJ job|NN creation|NN are|VBP also|RB at|IN risk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT tax|NN increases|NNS would|MD affect|VB david|JJ moritz|NN owner|NN of|IN society|NN awards|NNS which|WDT makes|VBZ trophies|NNS for|IN prestigious|JJ ceremonies|NNS like|IN the|DT golden|JJ globe|NN and|CC the|DT emmys|NNS </s>|S_END
+<s>|S_START thats|NNS a|DT problem|NN for|IN the|DT new|JJ york|NN city|NN entrepreneur|NN who|WP uses|NNS the|DT financial|JJ success|NN of|IN society|NN awards|NNS to|TO fund|VB the|DT creation|NN of|IN other|JJ companies|NNS </s>|S_END
+<s>|S_START since|IN 2008|CD moritz|NN has|VBZ opened|VBN a|DT branding|NN firm|NN and|CC a|DT beverage|NN company|NN and|CC he|PRP now|RB has|VBZ over|IN a|DT dozen|NN employees|NNS in|IN all|DT three|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START moritz|NN is|VBZ hostile|JJ to|TO any|DT talk|NN of|IN raising|NN taxes|NNS insisting|VBG hes|NNS more|JJR efficient|JJ at|IN creating|NN jobs|NNS with|IN his|PRP$ money|NN than|IN whatever|NN the|DT federal|JJ government|NN plans|NNS to|TO do|VB with|IN it|PRP </s>|S_END
+<s>|S_START if|IN his|PRP$ tax|NN rates|NNS increase|VB moritz|NN expects|NNS his|PRP$ tax|NN bill|NN to|TO increase|VB by|IN $|$ 20000|CD or|CC more|JJR </s>|S_END
+<s>|S_START thats|NNS money|NN he|PRP planned|VBD to|TO use|VB to|TO launch|VB a|DT furniture|NN company|NN and|CC hire|VB two|CD employees|NNS to|TO run|VB it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START every|DT dollar|NN i|PRP spend|VBP on|IN my|PRP$ business|NN i|PRP pay|VBP to|TO another|DT business|NN moritz|NN said|VBD </s>|S_END
+<s>|S_START the|DT government|NN would|MD collect|VB more|RBR revenue|NN if|IN they|PRP would|MD just|RB let|VB me|PRP spend|VB it|PRP </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,61 @@
+<p>|P_START
+<s>|S_START federal|JJ reserve|NN chairman|NN ben|NN bernanke|NN right|RB called|VBN ron|NN pauls|NNS audit|NN the|DT fed|JJ bill|NN a|DT nightmare|NN scenario|NN wednesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN in|IN what|WP is|VBZ likely|JJ to|TO be|VB the|DT last|JJ showdown|NN between|IN ron|NN paul|NN and|CC ben|NN bernanke|NN the|DT federal|JJ reserve|NN chairman|NN once|RB again|RB fought|VBD back|RB against|IN the|DT congressmans|NNS calls|VBZ to|TO audit|VB the|DT federal|JJ reserve|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rep|NN paul|NN a|DT republican|JJ from|IN texas|NNS and|CC author|NN of|IN end|NN the|DT fed|VBN has|VBZ been|VBN trying|VBG for|IN years|NNS to|TO pass|VB a|DT law|NN that|WDT would|MD give|VB congress|NN the|DT ability|NN to|TO examine|VB the|DT central|JJ banks|NNS decisionmaking|VBG process|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START now|RB hes|VBZ closer|JJR than|IN ever|RB before|IN after|IN his|PRP$ colleagues|NNS voted|VBD last|JJ month|NN to|TO finally|RB take|VB up|RP his|PRP$ bill|NN on|IN the|DT house|NN floor|NN </s>|S_END
+<s>|S_START the|DT vote|NN is|VBZ expected|VBN to|TO happen|VB next|JJ week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ important|JJ though|IN not|RB to|TO confuse|VB the|DT aim|NN of|IN the|DT bill|NN with|IN a|DT financial|JJ audit|NN </s>|S_END
+<s>|S_START the|DT federal|JJ reserves|NNS finances|NNS are|VBP already|RB audited|VBN every|DT year|NN by|IN an|DT independent|JJ accounting|NN firm|NN </s>|S_END
+<s>|S_START last|JJ year|NN it|PRP was|VBD deloitte|JJ and|CC touche|NN </s>|S_END
+<s>|S_START the|DT central|JJ bank|NN also|RB publishes|VBZ its|PRP$ balance|NN sheet|NN every|DT thursday|NN online|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START instead|RB what|WP paul|JJ is|VBZ aiming|VBG for|IN is|VBZ a|DT full|JJ investigation|NN of|IN the|DT way|NN the|DT fed|JJ determines|NNS monetary|JJ policy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT deliberations|NNS currently|RB take|VBP place|NN behind|IN closed|VBN doors|NNS </s>|S_END
+<s>|S_START minutes|NNS are|VBP released|VBN with|IN a|DT threeweek|NN lag|NN and|CC full|JJ transcripts|NNS are|VBP published|VBN only|RB five|CD years|NNS after|IN the|DT fact|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bernanke|NN speaking|VBG at|IN a|DT hearing|NN about|IN the|DT economy|NN and|CC monetary|JJ policy|NN wednesday|NN said|VBD he|PRP prefers|NNS to|TO keep|VB it|PRP that|IN way|NN to|TO protect|VB the|DT feds|NNS independence|NN </s>|S_END
+<s>|S_START having|VBG congressional|JJ investigators|NNS in|IN the|DT room|NN could|MD create|VB a|DT political|JJ influence|NN and|CC have|VB a|DT chilling|VBG effect|NN the|DT chairman|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bernanke|NN said|VBD he|PRP could|MD envision|VB a|DT nightmare|NN scenario|NN where|WRB congress|NN would|MD disagree|VB with|IN a|DT fed|VBN decision|NN on|IN interest|NN rates|NNS and|CC try|NN to|TO get|VB other|JJ agencies|NNS such|JJ as|IN the|DT government|NN accountability|NN office|NN to|TO review|VB it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START current|JJ law|NN also|RB protects|VBZ the|DT federal|JJ reserve|NN from|IN audits|NNS that|WDT reveal|NN transactions|NNS with|IN foreign|JJ central|JJ banks|NNS and|CC governments|NNS the|DT reserves|NNS of|IN its|PRP$ member|NN banks|NNS and|CC discussions|NNS among|IN its|PRP$ employees|NNS about|IN these|DT issues|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START reforming|VBG or|CC even|RB abolishing|VBG the|DT fed|JJ has|VBZ been|VBN one|CD of|IN pauls|NNS top|VBP priorities|NNS </s>|S_END
+<s>|S_START but|CC paul|JJ who|WP has|VBZ served|VBN over|IN 24|CD years|NNS in|IN congress|NN has|VBZ indicated|VBN he|PRP plans|VBZ to|TO retire|VB when|WRB his|PRP$ current|JJ term|NN ends|NNS later|JJ this|DT year|NN </s>|S_END
+<s>|S_START one|CD of|IN his|PRP$ colleagues|NNS even|RB joked|VBD about|IN pauls|NNS battles|NNS with|IN bernanke|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START his|PRP$ leadership|NN on|IN the|DT committee|NN especially|RB during|IN these|DT hearings|NNS when|WRB weve|JJ had|NN the|DT federal|JJ reserve|NN chairman|NN up|IN here|RB before|IN us|PRP have|VBP certainly|RB made|VBN the|DT hearings|NNS more|JJR interesting|JJ and|CC provided|VBN several|JJ memorable|JJ youtube|NN moments|NNS rep|VBP spencer|NN bachus|RB said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT remainder|NN of|IN the|DT hearing|NN wednesday|NN bernanke|NN reiterated|VBD his|PRP$ gloomy|NN outlook|NN for|IN the|DT economy|NN and|CC urged|VBD lawmakers|NNS to|TO act|VB now|RB to|TO boost|VB growth|NN and|CC the|DT job|NN market|NN in|IN particular|JJ </s>|S_END
+<s>|S_START much|RB of|IN his|PRP$ testimony|NN echoed|VBD similar|JJ comments|NNS before|IN the|DT senate|NN banking|NN committee|NN a|DT day|NN earlier |NN </s>|S_END
+</p>|P_END
+

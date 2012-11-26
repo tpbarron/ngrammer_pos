@@ -1,0 +1,81 @@
+<p>|P_START
+<s>|S_START a|DT democratic|JJ paper|NN aims|NNS to|TO show|VB republicans|NNS would|MD hurt|VB the|DT middle|NN class|NN </s>|S_END
+<s>|S_START but|CC their|PRP$ analysis|NN really|RB contains|VBZ lessons|NNS for|IN both|DT parties|NNS on|IN the|DT hard|JJ truths|NNS about|IN tax|NN reform|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN an|DT analysis|NN from|IN senate|JJ democrats|NNS released|VBN wednesday|NN found|VBD that|IN many|JJ in|IN the|DT middle|NN class|NN could|MD pay|VB more|RBR under|IN a|DT house|NN republican|NN tax|NN reform|NN proposal|NN than|IN they|PRP do|VBP today|NN while|IN the|DT uberrich|NN would|MD pay|VB less|RBR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT analysis|NN while|IN partisan|JJ highlights|NNS a|DT hard|JJ truth|NN that|WDT both|DT parties|NNS skate|VBP over|IN when|WRB discussing|VBG the|DT glories|NNS of|IN tax|NN reform|NN lower|JJR rates|NNS will|MD come|VB at|IN a|DT cost|NN </s>|S_END
+<s>|S_START and|CC someone|NN will|MD have|VB to|TO pay|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START house|NN republicans|NNS have|VBP proposed|VBN reducing|VBG the|DT number|NN of|IN income|NN tax|NN rates|NNS to|TO just|RB two|CD 10|CD and|CC 25|CD </s>|S_END
+<s>|S_START they|PRP also|RB want|VBP to|TO eliminate|VB the|DT alternative|NN minimum|NN tax|NN </s>|S_END
+<s>|S_START quiz|NN what|WP the|DT rich|JJ really|RB pay|NN in|IN taxes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO help|VB make|VB up|RP for|IN trillions|NNS of|IN dollars|NNS in|IN lost|NN revenue|NN republicans|NNS would|MD broaden|VB the|DT base|NN meaning|NN they|PRP would|MD close|VB tax|NN loopholes|NNS and|CC get|VB rid|JJ of|IN or|CC reduce|VB other|JJ breaks|NNS in|IN the|DT code|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START they|PRP dont|VBP however|RB specify|JJ which|WDT ones|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT democrats|NNS analysis|VBZ assumes|NNS five|CD major|JJ tax|NN breaks|NNS would|MD be|VB eliminated|VBN the|DT deductions|NNS for|IN mortgage|NN interest|NN state|NN and|CC local|JJ income|NN tax|NN and|CC charitable|JJ contributions|NNS as|IN well|RB as|IN tax|NN breaks|NNS on|IN 401k|CD contributions|NNS and|CC employerprovided|VBD health|NN care|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT five|CD tax|NN breaks|NNS disproportionately|RB benefit|JJ the|DT upper|JJ middle|NN class|NN </s>|S_END
+<s>|S_START part|NN of|IN the|DT reason|NN the|DT rich|NN do|VBP so|RB well|RB in|IN the|DT democratic|JJ analysis|NN is|VBZ the|DT loss|NN of|IN those|DT five|CD tax|NN breaks|NNS would|MD not|RB override|VB the|DT tax|NN savings|NNS they|PRP would|MD receive|VB if|IN the|DT top|JJ rate|NN were|VBD lowered|VBN to|TO 25|CD said|VBD roberton|NN williams|NNS senior|JJ fellow|JJ at|IN the|DT independent|JJ tax|NN policy|NN center|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT only|JJ way|NN to|TO level|NN the|DT playing|NN field|NN would|MD be|VB to|TO also|RB scale|VB back|RB the|DT breaks|NNS that|WDT disproportionately|RB benefit|VBP the|DT rich|JJ such|JJ as|IN lower|JJR tax|NN rates|NNS on|IN investment|NN income|NN and|CC taxexempt|NN income|NN such|JJ as|IN that|DT from|IN municipal|JJ bonds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN we|PRP dont|VBP cut|VBN the|DT preferences|NNS that|WDT help|NN the|DT rich|JJ they|PRP will|MD benefit|VB greatly|RB from|IN the|DT reduction|NN in|IN rates|NNS at|IN the|DT expense|NN of|IN everyone|NN else|RB williams|VBZ said|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT democratic|JJ analysis|NN also|RB inadvertently|RB points|NNS out|IN another|DT huge|JJ challenge|NN facing|VBG tax|NN reformers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP hundreds|NNS of|IN tax|NN breaks|NNS on|IN the|DT books|NNS </s>|S_END
+<s>|S_START but|CC if|IN lawmakers|NNS want|VBP to|TO lower|JJR rates|NNS a|DT lot|NN theyll|NN have|VBP to|TO attack|VB the|DT biggest|JJS five|CD or|CC six|CD breaks|NNS which|WDT also|RB happen|VBP to|TO be|VB the|DT most|JJS popular|JJ </s>|S_END
+<s>|S_START otherwise|RB they|PRP wont|VBP get|VB very|RB far|RB in|IN terms|NNS of|IN making|VBG up|RP for|IN lost|JJS revenue|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT means|VBZ the|DT middle|NN class|NN very|RB likely|JJ will|MD see|VB some|DT of|IN their|PRP$ cherished|JJ tax|NN breaks|NNS curtailed|VBD if|IN not|RB eliminated|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT good|JJ example|NN is|VBZ a|DT tax|NN reform|NN plan|NN from|IN a|DT bipartisan|NN deficit|NN reduction|NN task|NN force|NN led|VBD by|IN former|JJ congressional|JJ budget|NN office|NN director|NN alice|NN rivlin|NN and|CC former|JJ sen|NN pete|NN domenici|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP also|RB proposed|VBD having|VBG just|RB two|CD income|NN tax|NN rates|NNS 15|CD and|CC 28|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC to|TO pay|VB for|IN those|DT lower|JJR rates|NNS and|CC raise|VB revenue|NN to|TO help|VB with|IN deficit|NN reduction|NN they|PRP made|VBD a|DT host|NN of|IN changes|NNS to|TO tax|NN breaks|NNS that|WDT would|MD affect|VB both|DT the|DT rich|JJ and|CC the|DT middle|NN class|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT rivlindomenici|NN plan|NN would|MD tax|VB capital|NN gains|NNS and|CC dividends|NNS as|IN ordinary|JJ income|NN eliminate|NN the|DT deduction|NN for|IN state|NN and|CC local|JJ taxes|NNS convert|NN the|DT mortgage|NN deduction|NN to|TO a|DT 15|CD credit|NN on|IN interest|NN up|IN to|TO $|$ 25000|CD a|DT year|NN and|CC limit|NN the|DT tax|NN break|NN on|IN retirement|NN savings|NNS contributions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP may|MD be|VB tempting|VBG to|TO think|VB only|RB the|DT rich|JJ should|MD bear|VB the|DT burden|NN of|IN base|NN broadening|VBG </s>|S_END
+<s>|S_START but|CC williams|NNS noted|VBD that|IN while|IN the|DT rich|JJ may|MD have|VB a|DT lot|NN of|IN money|NN theyre|NN not|RB bottomless|NN pits|NNS </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

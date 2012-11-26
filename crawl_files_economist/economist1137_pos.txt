@@ -1,0 +1,45 @@
+<p>|P_START
+<s>|S_START democracy|NN matter|NN </s>|S_END
+<s>|S_START every|DT issue|NN of|IN this|DT newspaper|NN bulges|NNS with|IN news|NN about|IN elections|NNS held|VBN somewhere|RB around|IN the|DT world|NN this|DT issue|NN bulges|VBZ more|JJR than|IN most|JJS </s>|S_END
+<s>|S_START for|IN economists|NNS however|RB the|DT question|NN of|IN why|WRB individuals|NNS turn|VBP out|RP to|TO vote|VB in|IN places|NNS where|WRB it|PRP is|VBZ not|RB compulsory|JJ remains|NNS something|NN of|IN a|DT mystery|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START early|RB work|VBP on|IN the|DT subject|NN looked|VBD at|IN the|DT motivations|NNS of|IN rational|JJ utilitymaximising|NN homo|NN economicu|NN </s>|S_END
+<s>|S_START voting|VBG can|MD bring|VB rewards|NNS to|TO individuals|NNS in|IN the|DT shape|NN of|IN a|DT government|NN that|WDT keeps|VBZ its|PRP$ favourable|JJ election|NN promise|NN </s>|S_END
+<s>|S_START but|CC the|DT benefits|NNS of|IN voting|VBG must|MD be|VB weighed|VBN against|IN the|DT chances|NNS of|IN influencing|VBG the|DT result|NN </s>|S_END
+<s>|S_START and|CC the|DT probability|NN that|IN a|DT single|JJ vote|NN is|VBZ pivotal|JJ to|TO deciding|NN an|DT election|NN is|VBZ in|IN practical|JJ terms|NNS zero|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB the|DT closest|JJS american|NN presidential|JJ election|NN is|VBZ unlikely|JJ to|TO be|VB decided|VBN by|IN a|DT single|JJ vote|NN </s>|S_END
+<s>|S_START the|DT chances|NNS are|VBP higher|JJR that|IN you|PRP will|MD be|VB struck|NN by|IN lightning|NN on|IN the|DT way|NN to|TO the|DT poll|NN </s>|S_END
+<s>|S_START in|IN a|DT very|RB tight|JJ race|NN like|IN the|DT one|CD in|IN 2000|CD the|DT courts|NNS will|MD probably|RB determine|VB the|DT outcome|NN </s>|S_END
+<s>|S_START in|IN britain’s|JJ parliamentary|NN system|NN a|DT single|JJ vote|NN might|MD just|RB deliver|RB a|DT singleseat|NN majority|NN but|CC that|IN would|MD not|RB bring|VB a|DT stable|NN government|NN capable|JJ of|IN fulfilling|NN its|PRP$ preelection|NN promise|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN this|DT reckoning|NN the|DT costs|NNS of|IN voting|VBG however|RB slight|JJ always|NNS outweigh|JJ any|DT benefit|NN </s>|S_END
+<s>|S_START the|DT time|NN and|CC hassle|NN involved|VBD in|IN getting|NN to|TO polling|NN stations|NNS registering|VBG to|TO vote|VB or|CC even|RB deciding|VBG between|IN the|DT candidates|NNS mean|VBP that|IN rational|JJ individuals|NNS should|MD take|VB a|DT free|JJ ride|NN on|IN the|DT efforts|NNS of|IN others|NNS and|CC stay|NN at|IN home|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB what|WP the|DT argument|NN runs|VBZ if|IN everyone|NN thought|VBD like|IN that|DT </s>|S_END
+<s>|S_START it|PRP would|MD make|VB sense|NN to|TO vote|VB if|IN everyone|NN else|RB stays|VBZ away|RB </s>|S_END
+<s>|S_START but|CC it|PRP doesn’t|JJ take|NN a|DT gametheory|NN expert|NN to|TO work|VB out|RP that|IN others|NNS will|MD have|VB the|DT same|JJ insight|NN and|CC make|VB it|PRP to|TO the|DT polling|NN station|NN too|RB </s>|S_END
+<s>|S_START other|JJ theories|NNS suggest|VBP that|IN people|NNS turn|VBP out|RP to|TO “preserve|JJ democracy”|NN </s>|S_END
+<s>|S_START again|RB it|PRP is|VBZ very|RB unlikely|RB that|IN any|DT one|CD individual|JJ staying|NN at|IN home|NN will|MD prove|VB the|DT decisive|JJ trigger|NN in|IN democracy’s|NNP collapse|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START more|JJR recent|JJ theorists|NNS have|VBP suggested|VBN that|IN voting|NN confers|NNS the|DT “psychic|JJ benefits”|NN also|RB known|VBN as|IN a|DT feeling|NN of|IN wellbeing|VBG of|IN performing|VBG a|DT civic|JJ duty|NN </s>|S_END
+<s>|S_START but|CC the|DT argument|NN that|IN people|NNS do|VBP something|NN because|IN they|PRP like|VBP it|PRP is|VBZ hardly|RB an|DT illuminating|VBG insight|NN </s>|S_END
+<s>|S_START ome|NN academics|NNS reckon|VBP that|IN voters|NNS are|VBP simply|RB bad|JJ at|IN calculating|NN probabilitie|NN </s>|S_END
+<s>|S_START others|NNS produce|VBP reams|NNS of|IN equations|NNS to|TO back|VB up|IN complicated|JJ theories|NNS involving|VBG the|DT social|JJ benefits|NNS of|IN group|NN membership|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT mature|NN democracies|NNS of|IN the|DT rich|JJ world|NN there|EX may|MD be|VB a|DT simpler|NN explanation|NN like|IN agonising|NN over|IN loose|JJ change|NN the|DT costs|NNS of|IN voting|VBG are|VBP so|RB tiddly|RB that|IN it|PRP is|VBZ easier|JJR just|RB to|TO go|VB and|CC do|VB it|PRP than|IN to|TO fret|VB about|IN whether|IN it|PRP is|VBZ rational|JJ or|CC not|RB </s>|S_END
+<s>|S_START it|PRP would|MD be|VB odd|JJ if|IN something|NN as|IN important|JJ as|IN democracy|NN were|VBD safeguarded|VBN by|IN a|DT lack|NN of|IN thought|NN </s>|S_END
+</p>|P_END
+

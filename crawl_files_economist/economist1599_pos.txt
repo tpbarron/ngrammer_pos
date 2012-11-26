@@ -1,0 +1,254 @@
+<p>|P_START
+<s>|S_START a|DT cartoon|NN cat|NN decorates|VBZ the|DT tshirt|NN worn|NN by|IN agus|NN kurniawan|NN a|DT twoyearold|NN cradled|VBN in|IN his|PRP$ mother’s|JJ lap|NN </s>|S_END
+<s>|S_START but|CC the|DT cat|NN is|VBZ hard|JJ to|TO see|VB because|IN young|JJ agus|NNS can|MD not|RB hold|VB himself|PRP upright|MD </s>|S_END
+<s>|S_START his|PRP$ body|NN is|VBZ bowed|VBN by|IN microcephaly|RB an|DT undersized|JJ skull|NN and|CC brain|NN which|WDT plays|VBZ havoc|NN with|IN his|PRP$ motor|NN function|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START his|PRP$ mother|NN has|VBZ been|VBN advised|VBN to|TO seek|VB therapy|NN in|IN bandung|NN 60km|CD 37|CD miles|NNS away|RB from|IN their|PRP$ home|NN in|IN gunturmekar|NN a|DT village|NN in|IN the|DT indonesian|JJ province|NN of|IN west|NN java|NN </s>|S_END
+<s>|S_START the|DT family’s|JJ medical|JJ bills|NNS there|RB would|MD in|IN principle|NN be|VB paid|VBN by|IN the|DT government|NN under|IN a|DT scheme|NN called|VBN jamkesmas|NNS which|WDT has|VBZ covered|VBN over|IN 76m|CD of|IN indonesia’s|JJ poorer|NN citizens|NNS since|IN 2008|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC his|PRP$ mother|NN says|VBZ she|PRP can|MD not|RB afford|VB to|TO make|VB the|DT trip|NN </s>|S_END
+<s>|S_START her|PRP$ hopes|NNS now|RB rest|VBP with|IN another|DT scheme|NN called|VBN pnpm|NN generasi|NN </s>|S_END
+<s>|S_START it|PRP gives|VBZ funds|NNS to|TO the|DT village|NN about|IN 47m|CD rupiah|NN or|CC $|$ 5300|CD last|JJ year|NN which|WDT a|DT board|NN of|IN 11|CD villagers|NNS decides|NNS how|WRB to|TO spend|VB </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ doubtful|JJ agus|NN will|MD qualify|VB </s>|S_END
+<s>|S_START pnpm|NN generasi|NN is|VBZ dedicated|VBN to|TO improving|NN school|NN attendance|NN maternal|JJ health|NN and|CC infant|JJ nutrition|NN </s>|S_END
+<s>|S_START but|CC feeding|VBG is|VBZ not|RB agus’s|JJ problem|NN his|PRP$ mother|NN admit|NN </s>|S_END
+<s>|S_START he’ll|JJ eat|NN anything|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN decades|NNS indonesia’s|-NONE- government|NN has|VBZ tried|VBN to|TO improve|VB the|DT lot|NN of|IN villages|NNS like|IN gunturmekar|NN through|IN piecemeal|NN project|NN </s>|S_END
+<s>|S_START ome|NN like|IN jamkesmas|NNS have|VBP breadth|NN but|CC no|DT depth|NN it|PRP has|VBZ an|DT annual|JJ budget|NN of|IN less|JJR than|IN $|$ 10|CD per|IN person|NN </s>|S_END
+<s>|S_START others|NNS like|IN pnpm|NN generasi|NN respond|NN to|TO the|DT community’s|NNS demands|VBZ not|RB the|DT individual’|NNP </s>|S_END
+<s>|S_START but|CC indonesia|NN is|VBZ now|RB embarking|VBG on|IN something|NN more|JJR systematic|JJ it|PRP is|VBZ laying|VBG the|DT foundations|NNS of|IN a|DT welfare|NN state|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START last|JJ october|NN indonesia’s|NNS parliament|NN passed|VBD a|DT law|NN pledging|VBG to|TO provide|VB health|NN insurance|NN to|TO all|DT of|IN the|DT country’s|JJ 240m|CD citizens|NNS from|IN january|JJ 1st|CD 2014|CD </s>|S_END
+<s>|S_START one|CD government|NN agency|NN will|MD collect|VB premiums|NNS and|CC foot|NN the|DT bills|NNS making|VBG it|PRP the|DT biggest|JJS singlepayer|NN system|NN in|IN the|DT world|NN says|VBZ dr|NN hasbullah|NN thabrany|NN of|IN universitas|NNS indonesia|IN in|IN jakarta|NN </s>|S_END
+<s>|S_START the|DT same|JJ law|NN also|RB committed|VBD the|DT government|NN to|TO extend|VB pensions|NNS death|NN benefits|NNS and|CC workeraccident|NN insurance|NN to|TO the|DT nation|NN by|IN july|RB 2015|CD </s>|S_END
+<s>|S_START the|DT government|NN has|VBZ said|VBN little|JJ about|IN the|DT cost|NN or|CC generosity|NN of|IN these|DT broader|JJR benefit|NN </s>|S_END
+<s>|S_START if|IN indonesia|NN tried|VBD to|TO universalise|VB the|DT kind|NN of|IN package|NN now|RB enjoyed|VBN by|IN civil|NN servants|NNS and|CC 9m|CD salaried|VBD employees|NNS it|PRP would|MD have|VB to|TO collect|VB over|IN 18|CD of|IN wages|NNS to|TO fund|VB the|DT scheme|NN fully|RB according|VBG to|TO calculations|NNS by|IN mitchell|NN wiener|NN of|IN the|DT world|NN bank|NN </s>|S_END
+<s>|S_START passing|VBG the|DT law|NN is|VBZ always|RB easier|JJR than|IN paying|VBG for|IN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START indonesia|NN is|VBZ not|RB the|DT only|JJ country|NN in|IN developing|VBG asia|NN rapidly|RB expanding|VBG health|NN insurance|NN </s>|S_END
+<s>|S_START in|IN the|DT philippines|NNS 85|CD of|IN the|DT population|NN are|VBP now|RB members|NNS of|IN philhealth|NN the|DT governmentowned|VBN health|NN insurer|NN compared|VBN with|IN 62|CD in|IN 2010|CD </s>|S_END
+<s>|S_START china’s|NNS rural|VBP healthinsurance|NN scheme|NN which|WDT in|IN 2003|CD covered|VBN 3|CD of|IN the|DT eligible|JJ population|NN now|RB covers|VBZ 975|CD according|VBG to|TO official|NN statistic|JJ </s>|S_END
+<s>|S_START india|NNS has|VBZ also|RB extended|VBD albeit|NN modest|NN health|NN insurance|NN to|TO roughly|RB 110m|CD people|NNS more|JJR than|IN twice|NN the|DT number|NN of|IN the|DT uninsured|VBN americans|NNS whose|WP$ plight|NN motivated|VBD obamacare|NN this|DT is|VBZ as|IN america’s|JJ vicepresident|NN once|RB said|VBD about|IN his|PRP$ boss’s|NNS reforms|NNS a|DT “big|JJ fucking|NN deal”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT new|JJ asian|NN interest|NN in|IN social|JJ welfare|NN goes|VBZ far|RB beyond|IN health|NN </s>|S_END
+<s>|S_START thailand|NN which|WDT achieved|VBN universal|NN health|NN care|NN in|IN 2001|CD introduced|VBN pensions|NNS for|IN the|DT informal|JJ sector|NN in|IN may|MD 2011|CD </s>|S_END
+<s>|S_START china’s|NNS national|VBP audit|NN office|NN last|JJ month|NN declared|VBD that|IN the|DT country’s|NNS socialsecurity|NN system|NN was|VBD “basically”|JJ in|IN place|NN </s>|S_END
+<s>|S_START india|NNS expanded|VBD its|PRP$ jobguarantee|NN programme|NN to|TO every|DT rural|JJ district|NN in|IN 2008|CD promising|VBG 100|CD days|NNS of|IN minimumwage|NN work|NN a|DT year|NN to|TO any|DT rural|JJ household|NN that|WDT asks|VBZ for|IN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tigers|NNS turning|VBG marsupial|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rich|NN countries|NNS like|IN south|NN korea|NN and|CC taiwan|NN have|VBP gone|VBN further|RB </s>|S_END
+<s>|S_START in|IN 2008|CD korea|NN introduced|VBD an|DT earnedincome|NN tax|NN credit|NN a|DT universal|NN basic|JJ pension|NN and|CC an|DT insurance|NN scheme|NN providing|VBG longterm|NN care|NN for|IN the|DT elderly|JJ </s>|S_END
+<s>|S_START december’s|NNS presidential|JJ election|NN is|VBZ fast|VBN becoming|VBG a|DT game|NN of|IN welfare|NN oneupmanship|NN </s>|S_END
+<s>|S_START even|RB singapore|VBP long|RB opposed|VBN to|TO the|DT idea|NN of|IN a|DT “crutch|JJ economy”|NN offered|VBD cash|NN handouts|NNS disguised|VBD as|IN tax|NN rebates|NNS to|TO people|NNS with|IN low|JJ incomes|NNS and|CC lowrent|NN homes|NNS in|IN this|DT year’s|JJ budget|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START although|IN poorer|NN countries|NNS still|RB limit|NN themselves|PRP to|TO ad|VB hoc|NN welfare|NN offerings|NNS fitting|VBG the|DT spending|NN level|NN to|TO revenues|NNS one|CD budget|NN at|IN a|DT time|NN there|EX is|VBZ an|DT increasing|VBG trend|NN towards|NNS entitlements|NNS served|VBD by|IN statutory|NN institutions|NNS that|WDT will|MD outlive|VB the|DT budgetary|JJ cycle|NN </s>|S_END
+<s>|S_START as|IN these|DT systems|NNS mature|VBP welfare|JJ provision|NN will|MD be|VB demandled|VBN not|RB supplydriven|VBN welfare|NN will|MD become|VB integral|JJ to|TO the|DT state|NN </s>|S_END
+<s>|S_START asia’s|NNS tigerish|VBP economies|NNS are|VBP turning|VBG marsupial|JJ carrying|NN their|PRP$ dependants|NNS along|IN with|IN them|PRP as|IN they|PRP prowl|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN of|IN the|DT national|JJ leaders|NNS who|WP unleashed|VBD those|DT tiger|NN economies|NNS would|MD be|VB shocked|VBN and|CC disturbed|VBN by|IN the|DT development|NN </s>|S_END
+<s>|S_START to|TO them|PRP the|DT welfare|NN state|NN was|VBD a|DT western|JJ aberration|NN that|WDT would|MD serve|VB only|RB to|TO undermine|VB thrift|NN industry|NN and|CC filial|JJ duty|NN </s>|S_END
+<s>|S_START those|DT virtues|NNS they|PRP argued|VBD underpinned|VBN their|PRP$ economic|JJ miracles|NNS and|CC won|VBD envious|JJ admiration|NN abroad|RB not|RB least|JJS in|IN western|JJ countries|NNS bent|NN under|IN the|DT weight|NN of|IN their|PRP$ social|JJ obligation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT is|VBZ not|RB to|TO say|VB that|IN asia|NN boomed|VBD in|IN the|DT complete|JJ absence|NN of|IN welfare|NN provision|NN </s>|S_END
+<s>|S_START but|CC its|PRP$ arrangements|NNS took|VBD a|DT distinctive|JJ form|NN which|WDT ian|JJ holliday|NN of|IN hong|JJ kong|JJ university|NN has|VBZ termed|VBN “productivist”|-NONE- </s>|S_END
+<s>|S_START this|DT model|NN subordinated|VBD social|JJ policy|NN to|TO economic|JJ goal|NN </s>|S_END
+<s>|S_START in|IN europe|NN some|DT politicians|NNS like|IN to|TO say|VB growth|NN is|VBZ necessary|JJ to|TO pay|VB for|IN health|NN care|NN and|CC other|JJ goodie|NN </s>|S_END
+<s>|S_START productivism|NN reversed|VBD that|IN logic|NN welfare|NN provision|NN is|VBZ a|DT means|VBZ to|TO the|DT end|NN of|IN economic|JJ progress|NN not|RB the|DT other|JJ way|NN around|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START institutionalised|VBD welfare|NN provision|NN was|VBD reserved|VBN not|RB for|IN the|DT neediest|JJS cases|NNS but|CC for|IN workers|NNS in|IN the|DT most|RBS productive|JJ industrie|NN </s>|S_END
+<s>|S_START even|RB for|IN these|DT lucky|JJ few|JJ welfare|NN was|VBD not|RB a|DT right|NN or|CC an|DT entitlement|NN it|PRP was|VBD more|JJR like|IN an|DT investment|NN in|IN manpower|NN </s>|S_END
+<s>|S_START welfare|NN services|NNS injury|NN insurance|NN health|NN care|NN pensions|NNS were|VBD delivered|VBN by|IN stateowned|VBN corporations|NNS rather|RB than|IN ministries|NNS in|IN part|NN so|IN that|IN no|DT one|NN would|MD come|VB to|TO think|VB of|IN pensions|NNS and|CC health|NN as|IN the|DT state’s|NNP responsibility|NN </s>|S_END
+<s>|S_START this|DT model|NN of|IN welfare|NN tried|VBD to|TO keep|VB savings|NNS high|JJ and|CC work|NN incentives|NNS sharp|JJ </s>|S_END
+<s>|S_START in|IN korea|NN for|IN example|NN anyone|NN aged|VBD 1865|CD used|VBN to|TO be|VB ineligible|JJ for|IN public|JJ assistance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thus|RB asia’s|JJ tigers|NNS kept|VBD social|JJ spending|NN low|JJ as|IN a|DT percentage|NN of|IN gdp|NN while|IN their|PRP$ economies|NNS grew|VBD at|IN unprecedented|VBN rate|NN </s>|S_END
+<s>|S_START this|DT rapid|JJ economic|JJ progress|NN was|VBD combined|VBN with|IN big|JJ social|JJ advances|NNS in|IN literacy|NN and|CC life|NN expectancy|NN </s>|S_END
+<s>|S_START but|CC the|DT model|NN fell|VBD foul|JJ of|IN two|CD closely|RB linked|VBN disruptions|NNS and|CC one|CD implacable|JJ trend|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT trend|NN was|VBD a|DT steep|JJ decline|NN in|IN fertility|NN </s>|S_END
+<s>|S_START the|DT average|JJ south|NN korean|NN woman|NN can|MD now|RB expect|VB to|TO give|VB birth|JJ to|TO only|RB 139|CD children|NNS in|IN her|PRP$ lifetime|NN in|IN singapore|NN the|DT figure|NN is|VBZ 137|CD in|IN hong|JJ kong|JJ only|RB 114|CD </s>|S_END
+<s>|S_START this|DT welfare|NN model|NN assumed|VBD that|IN asia’s|JJ tightly|RB knit|NN families|NNS would|MD take|VB care|NN of|IN the|DT social|JJ responsibilities|NNS its|PRP$ governments|NNS refused|VBD to|TO shoulder|NN </s>|S_END
+<s>|S_START but|CC asked|VBD to|TO tutor|NN their|PRP$ children|NNS care|VBP for|IN their|PRP$ parents|NNS and|CC supplement|NN their|PRP$ husband’s|NNS income|NN women|NNS have|VBP rebelled|VBN </s>|S_END
+<s>|S_START the|DT singaporean|JJ women|NNS interviewed|VBN by|IN shirley|NN hsiaoli|NN sun|NN a|DT sociologist|NN at|IN nanyang|NN technological|JJ university|NN in|IN singapore|NN “want|JJ more|RBR direct|JJ and|CC universal|NN state|NN subsidies|NNS especially|RB for|IN education|NN and|CC health|NN care”|NN she|PRP write|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT disruptions|NNS were|VBD the|DT interruption|NN of|IN miracle|NN growth|NN and|CC the|DT erosion|NN of|IN authoritarian|JJ rule|NN </s>|S_END
+<s>|S_START the|DT asian|JJ financial|JJ crisis|NN of|IN 199798|CD resulted|VBN in|IN a|DT spike|NN in|IN layoffs|NNS among|IN industrial|JJ workers|NNS and|CC governments|NNS found|VBD it|PRP impossible|JJ to|TO leave|VB the|DT jobless|NN masses|VBZ to|TO their|PRP$ fate|NN </s>|S_END
+<s>|S_START before|IN 1998|CD none|NN of|IN taiwan’s|JJ unemployed|VBN got|NN state|NN benefit|NN </s>|S_END
+<s>|S_START by|IN 2001|CD all|DT of|IN them|PRP did|VBD </s>|S_END
+<s>|S_START in|IN south|NN korea|NN president|NN kim|NN daejung|NN pushed|VBD through|IN a|DT controversial|JJ 1999|CD act|NN guaranteeing|VBG a|DT minimum|JJ income|NN to|TO the|DT poor|JJ even|RB if|IN they|PRP could|MD work|VB </s>|S_END
+<s>|S_START that|DT minimum|JJ is|VBZ now|RB about|IN 97|CD of|IN america’s|JJ poverty|NN guideline|NN measured|VBD at|IN purchasingpower|NN parity|NN in|IN a|DT country|NN with|IN only|RB about|IN 67|CD of|IN america’s|JJ gdp|NN per|IN head|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START asian|JJ values|NNS and|CC welfare|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT same|JJ time|NN in|IN much|JJ of|IN asia|NN newly|RB assertive|JJ opposition|NN parties|NNS showed|VBD that|IN the|DT distaste|NN for|IN welfare|NN expressed|VBD by|IN authoritarian|JJ leaders|NNS was|VBD not|RB shared|VBN by|IN the|DT population|NN at|IN large|JJ </s>|S_END
+<s>|S_START welfare|NN promises|VBZ won|NN vote|NN </s>|S_END
+<s>|S_START even|RB in|IN china|NN where|WRB there|EX are|VBP no|DT national|JJ votes|NNS to|TO win|VB policymakers|NNS began|VBD to|TO promise|VB a|DT “harmonious|JJ society”|NN not|RB just|RB a|DT fast|JJ growth|NN rate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP seems|VBZ that|IN every|DT country|NN that|IN can|MD afford|VB to|TO build|VB a|DT welfare|NN state|NN will|MD come|VB under|IN mounting|VBG pressure|NN to|TO do|VB so|RB </s>|S_END
+<s>|S_START and|CC much|JJ of|IN asia|NN has|VBZ hit|VBN the|DT relevant|JJ level|NN of|IN prosperity|NN see|NN chart|NN 1|CD </s>|S_END
+<s>|S_START indonesia|NN is|VBZ now|RB almost|RB as|IN developed|VBN as|IN america|NN was|VBD in|IN 1935|CD when|WRB it|PRP passed|VBD the|DT landmark|NN social|JJ security|NN act|NN according|VBG to|TO figures|NNS compiled|VBN by|IN the|DT late|JJ angus|NN maddison|NN an|DT economic|JJ historian|NN </s>|S_END
+<s>|S_START china|NN is|VBZ already|RB richer|RB than|IN britain|NN was|VBD in|IN 1948|CD when|WRB it|PRP inaugurated|VBD the|DT national|JJ health|NN service|NN nhs|NNS which|WDT to|TO judge|VB by|IN political|JJ ructions—and|JJ olympic|JJ opening|NN ceremonies—has|VBZ become|VBN crucial|JJ to|TO its|PRP$ sense|NN of|IN national|JJ identity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START asian|JJ welfare|NN still|RB looks|VBZ lean|JJ by|IN western|JJ standard|JJ </s>|S_END
+<s>|S_START public|JJ health|NN spending|NN is|VBZ still|RB only|RB 25|CD of|IN gdp|NN compared|VBN with|IN about|RB 7|CD in|IN the|DT oecd|NN group|NN of|IN rich|JJ nation|NN </s>|S_END
+<s>|S_START that|DT will|MD change|VB as|IN asia|NN ages|NNS but|CC high|JJ copayments|NNS in|IN south|NN korea|NN low|JJ payments|NNS to|TO hospitals|NNS in|IN thailand|NN and|CC sparse|NN facilities|NNS in|IN indonesia|NN and|CC elsewhere|RB have|VBP also|RB contained|VBN cost|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT results|NNS of|IN the|DT region’s|JJ welfarestatebuilding|NN are|VBP neatly|RB summarised|VBN by|IN the|DT asian|JJ development|NN bank’s|NNS social|JJ protection|NN index|NN see|NN chart|NN 2|CD </s>|S_END
+<s>|S_START it|PRP divides|VBZ a|DT country’s|JJ social|JJ spending|NN by|IN the|DT number|NN of|IN potential|JJ beneficiaries|NNS and|CC expresses|NNS the|DT result|NN as|IN a|DT percentage|NN of|IN the|DT country’s|JJ gdp|NN per|IN head|NN </s>|S_END
+<s>|S_START if|IN japan’s|JJ socialsecurity|NN spending|NN were|VBD divided|VBN in|IN this|DT way|NN each|DT beneficiary|NN would|MD receive|VB about|IN 13|CD of|IN the|DT country’s|JJ gdp|NN per|IN head|NN </s>|S_END
+<s>|S_START for|IN south|NN korea|NN even|RB after|IN two|CD decades|NNS of|IN democracy|NN that|IN figure|NN is|VBZ only|RB 71|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START asian|JJ countries|NNS have|VBP tended|VBN to|TO spread|VB their|PRP$ spending|NN thin|NN </s>|S_END
+<s>|S_START outh|NN korea’s|NNS meanstested|VBD basic|JJ pension|NN covers|NNS about|IN 70|CD of|IN the|DT elderly|JJ but|CC pays|VBZ only|RB 5|CD of|IN the|DT average|NN wage|NN according|VBG to|TO randall|VB jones|NNS of|IN the|DT oecd|NN </s>|S_END
+<s>|S_START indonesia’s|NNS jamkesmas|VBD scheme|NN purports|NNS to|TO cover|VB everyone|NN in|IN the|DT bottom|NN 30|CD </s>|S_END
+<s>|S_START but|CC in|IN reality|NN about|IN 80|CD of|IN cardholders|NNS do|VBP not|RB know|VB what|WP they|PRP are|VBP entitled|VBN to|TO and|CC some|DT like|IN agus’s|NNP mother|NN could|MD not|RB make|VB it|PRP to|TO a|DT hospital|NN even|RB if|IN they|PRP did|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT paucity|NN of|IN asia’s|JJ coverage|NN partly|RB reflects|VBZ distinctive|JJ problem|NN </s>|S_END
+<s>|S_START one|CD is|VBZ informal|JJ workers|NNS who|WP remain|NN a|DT big|JJ share|NN of|IN the|DT labour|NN force|NN by|IN richworld|NN standards|NNS even|RB in|IN relatively|RB prosperous|JJ countries|NNS where|WRB they|PRP include|VBP everyone|NN from|IN day|NN labourers|NNS to|TO selfemployed|VBN lawyer|NN </s>|S_END
+<s>|S_START when|WRB thailand|VBP tried|VBN to|TO enroll|VB people|NNS who|WP were|VBD neither|DT poor|JJ nor|CC employed|VBN by|IN big|JJ firms|NNS in|IN a|DT voluntary|JJ healthinsurance|NN scheme|NN in|IN the|DT 1990s|NNS the|DT sick|NN tended|VBD to|TO join|VB but|CC the|DT healthy|JJ stayed|VBN away|RB leaving|VBG a|DT large|JJ share|NN of|IN the|DT population|NN uncovered|VBD </s>|S_END
+<s>|S_START in|IN 2001|CD the|DT government|NN decided|VBD it|PRP was|VBD cheaper|JJR to|TO pay|VB for|IN their|PRP$ coverage|NN itself|PRP demanding|VBG only|RB a|DT 30baht|CD copayment|NN per|IN visit|NN to|TO the|DT doctor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START just|RB as|IN contributions|NNS are|VBP hard|RB to|TO collect|VB so|RB beneficiaries|NNS are|VBP often|RB hard|RB to|TO identify|VB </s>|S_END
+<s>|S_START many|JJ asian|JJ programmes|NNS are|VBP intended|VBN only|RB for|IN the|DT poor|JJ but|CC they|PRP can|MD be|VB hard|RB to|TO distinguish|VB from|IN everyone|NN else|RB </s>|S_END
+<s>|S_START over|IN half|DT of|IN the|DT indonesians|NNS who|WP now|RB hold|VBP the|DT free|JJ jamkesmas|NNS healthinsurance|NN card|NN do|VBP not|RB belong|VB to|TO the|DT bottom|NN 30|CD for|IN whom|WP such|JJ cards|NNS are|VBP intended|VBN says|NNS matthew|VBP waipoi|NN of|IN the|DT world|NN bank|NN </s>|S_END
+<s>|S_START with|IN the|DT bank’s|NNS help|VBP the|DT government|NN has|VBZ drawn|VBN up|RP a|DT new|JJ list|NN of|IN the|DT indigent|NN based|VBN on|IN proxies|NNS for|IN poverty|NN dirt|NN floors|NNS unprotected|VBD wells|NNS shared|VBN toilets|NNS without|IN drains|NNS and|CC so|RB on|IN that|DT are|VBP easier|JJR to|TO verify|VB and|CC harder|JJR to|TO manipulate|VB </s>|S_END
+<s>|S_START that|DT said|VBD in|IN other|JJ countries|NNS people|NNS have|VBP been|VBN known|VBN to|TO hide|VB their|PRP$ motorbike|NN and|CC borrow|NN the|DT neighbours’|NN kids|NNS to|TO seem|VB more|JJR deserving|VBG than|IN they|PRP are|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN least|JJS jamkesmas|NNS attempts|VBZ to|TO target|VB the|DT poor|JJ </s>|S_END
+<s>|S_START one|CD of|IN indonesia’s|JJ biggest|JJS fiscal|JJ giveaways|NNS subsidises|NNS motor|NN fuel|NN regardless|NN of|IN who|WP uses|NNS it|PRP and|CC thus|RB mostly|RB ends|VBZ up|RP with|IN the|DT carowning|VBG rich|JJ </s>|S_END
+<s>|S_START last|JJ year|NN those|DT subsidies|NNS cost|VBP the|DT government|NN nine|CD times|NNS what|WP health|NN care|NN did|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT third|JJ problem|NN is|VBZ the|DT sheer|NN size|NN of|IN some|DT countries|NNS and|CC their|PRP$ range|NN of|IN living|NN standard|NN </s>|S_END
+<s>|S_START enforcing|VBG national|JJ welfare|NN standards|NNS in|IN a|DT country|NN like|IN china|NN india|NNS or|CC indonesia|NN is|VBZ more|RBR akin|JJ to|TO establishing|NN common|JJ standards|NNS not|RB in|IN a|DT single|JJ country|NN like|IN germany|NN or|CC greece|NN but|CC in|IN the|DT european|JJ union|NN as|IN a|DT whole—not|JJ something|NN that|WDT has|VBZ advanced|VBN noticeably|RB far|RB in|IN 50|CD year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START econdmover|NN advantage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START under|IN the|DT current|JJ system|NN migrant|NN workers|NNS in|IN china|NN worry|NN that|IN their|PRP$ pension|NN entitlements|NNS will|MD not|RB follow|VB them|PRP if|IN they|PRP move|VBP from|IN one|CD province|NN to|TO another|DT </s>|S_END
+<s>|S_START the|DT owner|NN of|IN the|DT fukang|NN market|NN store|NN in|IN a|DT village|NN outside|IN beijing|VBG is|VBZ originally|RB from|IN shanxi|NN province|NN 500km|CD away|RB </s>|S_END
+<s>|S_START he|PRP and|CC his|PRP$ wife|NN have|VBP not|RB joined|VBN the|DT local|JJ pension|NN scheme|NN worried|VBD that|IN if|IN say|NN their|PRP$ store|NN were|VBD torn|VBN down|RP they|PRP would|MD have|VB to|TO move—but|VB their|PRP$ pension|NN would|MD not|RB follow|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB as|IN latecomers|NNS to|TO the|DT welfare|NN state|NN asian|NN countries|NNS also|RB have|VBP certain|JJ advantage|NN </s>|S_END
+<s>|S_START they|PRP can|MD learn|VB from|IN the|DT west’s|NNS mistakes|VBZ and|CC they|PRP can|MD leapfrog|VB some|DT of|IN its|PRP$ obsolete|JJ practice|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT starkest|JJS lesson|NN they|PRP can|MD learn|VB is|VBZ fiscal|JJ </s>|S_END
+<s>|S_START bambang|NN widianto|IN the|DT head|NN of|IN indonesia’s|JJ taskforce|NN against|IN poverty|NN confesses|NNS to|TO being|VBG scared|VBN by|IN the|DT example|NN of|IN greece|NN </s>|S_END
+<s>|S_START unlike|IN singapore|JJR where|WRB citizens|NNS are|VBP required|VBN to|TO contribute|VB to|TO a|DT provident|NN fund|NN from|IN which|WDT their|PRP$ pensions|NNS will|MD be|VB drawn|VBN the|DT pensions|NNS indonesia|VBP has|VBZ promised|VBN to|TO offer|VB to|TO the|DT nation|NN in|IN 2015|CD will|MD be|VB partly|RB on|IN a|DT “defined|JJ benefit”|NN basis|NN under|IN which|WDT a|DT person’s|JJ pension|NN may|MD not|RB necessarily|RB match|VB his|PRP$ contribution|NN </s>|S_END
+<s>|S_START the|DT government|NN thus|RB has|VBZ crucial|JJ decisions|NNS to|TO make|VB about|IN the|DT size|NN of|IN the|DT benefits|NNS and|CC the|DT distribution|NN of|IN the|DT burden|NN </s>|S_END
+<s>|S_START unfortunately|RB mr|VBP widianto|IN says|NNS “no|-NONE- one|CD is|VBZ doing|VBG those|DT calculations|NNS right|RB now”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tatutory|NN retirement|NN ages|NNS tend|VBP to|TO be|VB low|JJ in|IN developing|VBG asia|NN averaging|VBG 59|CD for|IN men|NNS and|CC 58|CD for|IN women|NNS according|VBG to|TO the|DT oecd|NN </s>|S_END
+<s>|S_START in|IN thailand|NN people|NNS can|MD withdraw|VB their|PRP$ pension|NN fund|NN at|IN 55|CD and|CC many|JJ workers|NNS are|VBP required|VBN to|TO retire|VB at|IN 60|CD </s>|S_END
+<s>|S_START thai|NN women|NNS can|MD expect|VB to|TO live|VB for|IN 27|CD years|NNS after|IN retirement|NN the|DT oecd|NN calculates|VBZ sri|NN lankan|NN women|NNS for|IN almost|RB 35|CD year|NN </s>|S_END
+<s>|S_START fortunately|RB the|DT fiscal|JJ problems|NNS implicit|JJ in|IN such|JJ longevity|NN can|MD be|VB headed|VBN off|RP before|IN the|DT new|JJ schemes|NNS mature|VBP </s>|S_END
+<s>|S_START as|IN m|NN ramesh|NN of|IN the|DT hong|JJ kong|NN institute|NN of|IN education|NN points|NNS out|IN south|NN korea|NN cut|VBD the|DT benefits|NNS offered|VBD by|IN its|PRP$ national|JJ pension|NN scheme|NN introduced|VBD in|IN 1988|CD before|IN anyone|NN had|VBD made|VBN the|DT 20|CD years|NNS of|IN contributions|NNS required|VBN to|TO qualify|VB for|IN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ technological|JJ possibilities|NNS should|MD make|VB asia’s|NNS schemes|NNS cheaper|JJR to|TO run|VB than|IN the|DT west’s|NNP old|JJ one|CD </s>|S_END
+<s>|S_START britain’s|NNS nhs|VBP spent|VBN almost|RB ten|VBN years|NNS and|CC £64|-NONE- billion|CD trying|VBG to|TO get|VB its|PRP$ records|NNS digitised|VBN before|IN abandoning|NN the|DT effort|NN last|JJ year|NN </s>|S_END
+<s>|S_START india’s|NNS new|JJ healthcare|NN scheme|NN for|IN the|DT poor|JJ aims|NNS to|TO be|VB cashless|NN and|CC paperless|NN from|IN the|DT start|NN using|VBG swipeable|JJ smart|NN cards|NNS to|TO make|VB payments|NNS and|CC convey|NN information|NN </s>|S_END
+<s>|S_START in|IN pakistan|NN over|IN 140000|CD poor|NN people|NNS have|VBP received|VBN cash|NN transfers|NNS over|IN the|DT phone|NN under|IN the|DT benazir|NN income|NN support|NN programme|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN asian|VBD countries|NNS will|MD increasingly|RB stake|VB out|RP the|DT welfare|NN frontier|NN </s>|S_END
+<s>|S_START the|DT region|NN has|VBZ already|RB set|VBN some|DT record|NN </s>|S_END
+<s>|S_START ingapore|IN must|MD be|VB the|DT only|JJ capitalist|NN society|NN to|TO house|VB more|JJR than|IN 80|CD of|IN its|PRP$ population|NN in|IN public|JJ housing|NN </s>|S_END
+<s>|S_START outh|NN korea|NN beats|NNS the|DT world|NN in|IN college|NN enrolment|NN it|PRP has|VBZ more|JJR students|NNS than|IN 18|CD to|TO 23yearold|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START beyond|IN catchup|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC asian|JJ countries|NNS will|MD also|RB face|VB new|JJ challenges—or|JJ at|IN least|JJS old|JJ challenges|NNS accelerated|VBD see|VB chart|NN 3|CD </s>|S_END
+<s>|S_START ingapore|IN south|NN korea|NN and|CC hong|JJ kong|JJ are|VBP ageing|VBG faster|JJR than|IN any|DT other|JJ countrie|NN </s>|S_END
+<s>|S_START by|IN 2040|CD they|PRP will|MD have|VB fewer|JJR than|IN two|CD people|NNS of|IN working|VBG age|NN to|TO support|VB every|DT person|NN aged|VBD 65|CD or|CC more|JJR </s>|S_END
+<s>|S_START they|PRP will|MD have|VB to|TO pioneer|VB ways|NNS to|TO lighten|VB that|IN burden|NN and|CC keep|VB the|DT elderly|JJ active|JJ </s>|S_END
+<s>|S_START in|IN the|DT west|NN the|DT welfare|NN state|NN rescued|VBD the|DT elderly|JJ from|IN indigence|NN </s>|S_END
+<s>|S_START in|IN the|DT east|JJ it|PRP will|MD have|VB to|TO spare|VB them|PRP from|IN indolence|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START outh|NN korea|NN already|RB subsidises|VBZ the|DT employment|NN of|IN the|DT elderly|JJ </s>|S_END
+<s>|S_START it|PRP is|VBZ now|RB also|RB beginning|VBG to|TO socialise|VB the|DT burden|NN of|IN caring|VBG for|IN them|PRP </s>|S_END
+<s>|S_START in|IN 2008|CD it|PRP introduced|VBD insurance|NN for|IN longterm|NN geriatric|JJ care|NN </s>|S_END
+<s>|S_START needy|NN cases|NNS are|VBP given|VBN a|DT score|NN out|RP of|IN 100|CD for|IN decrepitude|NN based|VBN on|IN whether|IN they|PRP can|MD brush|VB their|PRP$ teeth|NN remember|NN their|PRP$ birth|NN date|NN and|CC so|RB on|IN </s>|S_END
+<s>|S_START if|IN their|PRP$ score|NN is|VBZ bad|JJ enough|RB they|PRP may|MD get|VB help|NN from|IN the|DT state|NN with|IN daily|JJ tasks|NNS like|IN bathing|VBG or|CC housework|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ingapore|IN is|VBZ helping|VBG people|NNS to|TO flog|VB their|PRP$ homes|NNS rather|RB than|IN to|TO tidy|VB them|PRP </s>|S_END
+<s>|S_START it|PRP is|VBZ offering|VBG s|NNS $|$ 20000|CD $|$ 16000|CD to|TO over54yearolds|NNP if|IN they|PRP sell|VBP their|PRP$ flat|JJ save|NN the|DT proceeds|NNS and|CC move|VB into|IN one|CD of|IN the|DT small|JJ studios|NNS the|DT government|NN is|VBZ building|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN 2030|CD asia|NN excluding|VBG japan|NN will|MD account|VB for|IN over|IN half|DT of|IN the|DT world’s|JJ elderly|RB and|CC about|IN half|DT of|IN the|DT global|JJ burden|NN of|IN noncommunicable|JJ diseases|NNS like|IN cancer|NN and|CC diabete|JJ </s>|S_END
+<s>|S_START if|IN asia’s|JJ welfare|NN provision|NN continues|VBZ to|TO widen|VB and|CC deepen|VB the|DT region|NN will|MD host|VB most|RBS of|IN the|DT world’s|JJ pensioners|NNS and|CC patient|NN </s>|S_END
+<s>|S_START asia|NN may|MD no|RB longer|RBR boast|JJ a|DT distinctive|JJ welfare|NN model|NN </s>|S_END
+<s>|S_START but|CC by|IN the|DT time|NN agus’s|VBZ mother|NN retires|NNS the|DT world|NN of|IN welfare|NN will|MD have|VB become|VBN increasingly|RB asian|JJ </s>|S_END
+</p>|P_END
+

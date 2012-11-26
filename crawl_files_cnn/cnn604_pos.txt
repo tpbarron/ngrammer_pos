@@ -1,0 +1,67 @@
+<p>|P_START
+<s>|S_START atlanta|NN federal|JJ reserve|NN president|NN dennis|VBZ lockhart|NN appears|VBZ to|TO be|VB hinting|VBG the|DT fed|JJ will|MD rule|VB nothing|NN out|IN at|IN its|PRP$ next|JJ few|JJ meetings|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT federal|JJ reserves|NNS next|JJ policy|NN meeting|NN is|VBZ a|DT twoday|NN session|NN concluding|VBG on|IN june|NN 20|CD </s>|S_END
+<s>|S_START thats|NNS just|RB ten|VBN days|NNS before|IN the|DT feds|NNS operation|NN twist|NN policy|NN swapping|VBG shortterm|NN bonds|NNS for|IN ones|NNS with|IN longer|JJR duration|NN to|TO help|VB keep|VB 10year|JJ and|CC 30year|JJ bond|NN yields|NNS low|JJ expires|NNS </s>|S_END
+<s>|S_START up|IN until|IN recently|RB few|JJ expected|VBN the|DT fed|VBN would|MD seriously|RB consider|VB extending|VBG twist|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC what|WP a|DT difference|NN a|DT lousy|JJ job|NN report|NN makes|VBZ </s>|S_END
+<s>|S_START atlanta|NN fed|VBD president|NN dennis|NNS lockhart|NN who|WP is|VBZ a|DT member|NN of|IN the|DT feds|NNS policysetting|VBG open|JJ market|NN committee|NN this|DT year|NN told|VBD attendees|NNS after|IN a|DT speech|NN in|IN fort|NN lauderdale|NN fla|NN wednesday|NN morning|NN that|WDT keeping|VBG twist|VBP going|VBG for|IN longer|JJR is|VBZ an|DT option|NN on|IN the|DT table|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT may|MD not|RB be|VB a|DT complete|JJ 180|CD from|IN what|WP lockhart|NN said|VBD just|RB a|DT few|JJ weeks|NNS ago|IN after|IN a|DT speech|NN he|PRP gave|VBD in|IN japan|NN </s>|S_END
+<s>|S_START but|CC you|PRP could|MD maybe|VB call|NN it|PRP a|DT 150|CD </s>|S_END
+<s>|S_START following|VBG remarks|NNS on|IN may|MD 21|CD in|IN tokyo|NN lockhart|NN told|VBD reporters|NNS that|IN my|PRP$ own|JJ view|NN is|VBZ that|IN its|PRP$ not|RB necessary|JJ to|TO extend|VB twist|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP is|VBZ important|JJ to|TO note|VB that|IN lockhart|NN never|RB said|VBD twist|NN wasnt|NN an|DT option|NN a|DT few|JJ weeks|NNS ago|IN just|RB that|IN he|PRP personally|RB didnt|VBP think|VBP it|PRP needed|VBD to|TO be|VB extended|VBN </s>|S_END
+<s>|S_START in|IN fact|NN lockhart|NN said|VBD in|IN his|PRP$ tokyo|NN speech|NN that|IN another|DT round|NN of|IN quantitative|JJ easing|NN or|CC qe3|NNP couldnt|NN be|VB ruled|VBN out|RP </s>|S_END
+<s>|S_START however|RB he|PRP didnt|VBD seem|VBP in|IN love|NN with|IN the|DT idea|NN of|IN more|JJR qe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START qe3|NNP will|MD work|VB under|IN the|DT right|NN circumstances|NNS </s>|S_END
+<s>|S_START but|CC i|PRP dont|VBP believe|VBP such|JJ circumstances|NNS prevail|VBP at|IN this|DT time|NN he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC is|VBZ now|RB the|DT right|NN time|NN </s>|S_END
+<s>|S_START to|TO go|VB from|IN we|PRP dont|VBP need|VBP more|JJR twist|NN just|RB before|IN memorial|JJ day|NN to|TO it|PRP now|RB being|VBG an|DT option|NN for|IN policymakers|NNS clearly|RB shows|VBZ that|IN the|DT fed|JJ is|VBZ feeling|VBG pressure|NN to|TO do|VB something|NN as|IN the|DT markets|NNS convulse|VBP due|JJ to|TO heightened|VBN worries|NNS about|IN a|DT us|PRP economic|JJ slump|NN and|CC the|DT worsening|NN crisis|NN in|IN europe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START investors|NNS may|MD get|VB hints|NNS about|IN the|DT feds|NNS thinking|VBG today|NN and|CC tomorrow|NN </s>|S_END
+<s>|S_START san|NN francisco|VBD fed|VBN president|NN john|NN williams|NNS also|RB a|DT voting|NN member|NN of|IN the|DT fomc|NN will|MD give|VB a|DT speech|NN in|IN bellevue|NN washington|NN later|JJ wednesday|NN </s>|S_END
+<s>|S_START that|DT will|MD be|VB followed|VBN by|IN a|DT speech|NN from|IN fed|JJ vice|NN chair|NN janet|NN yellen|NN in|IN boston|NN </s>|S_END
+<s>|S_START williams|NNS like|IN lockhart|NN is|VBZ viewed|VBN by|IN fed|VBN watchers|NNS as|IN being|VBG fairly|RB moderate|JJ when|WRB it|PRP comes|VBZ to|TO monetary|JJ policy|NN </s>|S_END
+<s>|S_START that|DT is|VBZ they|PRP are|VBP neither|DT too|RB dovish|JJ inclined|VBN to|TO favor|VB more|JJR stimulus|JJ or|CC too|RB hawkish|JJ ie|NN </s>|S_END
+<s>|S_START obsessed|VBD with|IN inflation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC yellen|VBN like|IN her|PRP$ boss|NN ben|NN bernanke|NN is|VBZ widely|RB thought|VBN to|TO be|VB a|DT permadove|NN </s>|S_END
+<s>|S_START so|IN if|IN lockhart|NN is|VBZ conceding|VBG that|IN more|JJR twist|NN is|VBZ an|DT option|NN it|PRP seems|VBZ safe|JJ to|TO say|VB that|IN yellen|JJ and|CC bernanke|NN are|VBP also|RB strongly|RB considering|VBG it|PRP </s>|S_END
+<s>|S_START and|CC as|IN fate|NN would|MD have|VB it|PRP bernanke|VB will|MD testify|VB on|IN thursday|NN morning|NN in|IN front|NN of|IN the|DT joint|JJ economic|JJ committee|NN of|IN congress|NN about|IN the|DT economy|NN </s>|S_END
+<s>|S_START you|PRP can|MD bet|VB that|IN investors|NNS will|MD be|VB listening|VBG to|TO every|DT word|NN for|IN clues|NNS about|IN whether|IN the|DT fed|JJ is|VBZ leaning|VBG toward|IN extending|VBG twist|NN or|CC in|IN a|DT move|NN that|WDT would|MD be|VB even|RB more|RBR drastic|JJ launching|NN qe3|NNP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START still|RB the|DT problem|NN with|IN more|JJR fed|VBN stimulus|NN is|VBZ that|IN its|PRP$ debatable|JJ if|IN it|PRP can|MD really|RB work|VB </s>|S_END
+<s>|S_START it|PRP may|MD only|RB placate|VB nervous|JJ stock|NN market|NN traders|NNS and|CC not|RB have|VBP any|DT tangible|JJ impact|NN on|IN the|DT economy|NN </s>|S_END
+<s>|S_START keep|VB in|IN mind|NN that|IN longterm|NN rates|NNS are|VBP already|RB near|IN record|NN lows|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS why|WRB many|JJ economists|NNS as|IN well|RB as|IN fed|VBN inflation|NN hawks|NNS like|IN my|PRP$ mancrush|NN dallas|NNS fed|VBD president|NN richard|NN fisher|NN are|VBP staunchly|RB against|IN qe3|NNP </s>|S_END
+<s>|S_START it|PRP may|MD now|RB be|VB up|RP to|TO the|DT white|JJ house|NN and|CC capitol|NN hill|NN and|CC not|RB the|DT fed|VBN to|TO fix|VB whats|NNS ailing|VBG the|DT economy|NN </s>|S_END
+</p>|P_END
+

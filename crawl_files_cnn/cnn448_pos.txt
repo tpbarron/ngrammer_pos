@@ -1,0 +1,72 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN with|IN the|DT stock|NN market|NN up|IN almost|RB 45|CD last|JJ month|NN the|DT best|JJS january|JJ since|IN 1997|CD im|NN becoming|VBG more|JJR confident|JJ about|IN the|DT stock|NN market|NN and|CC thinking|VBG of|IN cashing|VBG out|IN cds|NNS and|CC putting|VBG about|IN $|$ 100000|CD into|IN stocks|NNS </s>|S_END
+<s>|S_START is|VBZ now|RB a|DT good|JJ time|NN to|TO do|VB that|DT </s>|S_END
+<s>|S_START nick|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN youre|NN thinking|VBG of|IN investing|VBG in|IN stocks|NNS as|IN part|NN of|IN a|DT longterm|NN strategy|NN that|WDT includes|VBZ not|RB just|RB a|DT broadly|RB diversified|VBN portfolio|NN of|IN equities|NNS but|CC bonds|NNS and|CC perhaps|RB other|JJ assets|NNS as|IN well|RB then|RB nows|VBZ as|IN good|JJ a|DT time|NN as|IN any|DT to|TO get|VB started|VBN </s>|S_END
+<s>|S_START but|CC if|IN youre|NN ready|RB to|TO throw|VB $|$ 100000|CD into|IN the|DT stock|NN market|NN because|IN you|PRP believe|VBP januarys|NNS strong|JJ performance|NN is|VBZ the|DT start|NN of|IN something|NN big|JJ then|RB youre|NN making|VBG a|DT mistake|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yes|NNS im|VBP well|RB aware|JJ of|IN the|DT january|JJ barometer|NN which|WDT basically|RB says|VBZ that|IN if|IN stocks|NNS do|VBP well|RB the|DT first|JJ month|NN of|IN the|DT year|NN then|RB the|DT market|NN will|MD be|VB up|RP over|IN the|DT following|VBG 11|CD months|NNS </s>|S_END
+<s>|S_START but|CC i|PRP consider|VBP the|DT january|JJ barometer|NN just|RB another|DT example|NN of|IN data|NNS mining|VBG or|CC the|DT dubious|JJ practice|NN of|IN poring|VBG over|IN historical|JJ data|NNS in|IN a|DT desperate|NN search|NN for|IN patterns|NNS and|CC relationships|NNS that|WDT will|MD predict|VB future|JJ performance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT investing|NN world|NN has|VBZ long|RB been|VBN fertile|JJ ground|NN for|IN all|DT sorts|NNS of|IN wacky|JJ forecasting|NN models|NNS the|DT super|NN bowl|NN indicator|NN sports|NNS illustrated|VBD swimsuit|NN covers|NNS butter|NN production|NN in|IN bangladesh|JJ etc|NN </s>|S_END
+<s>|S_START and|CC will|MD continue|VB to|TO be|VB if|IN for|IN no|DT other|JJ reason|NN than|IN computing|NN power|NN that|WDT can|MD crank|VB through|IN masses|NNS of|IN data|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC these|DT indicators|NNS mostly|RB show|VBP correlation|NN or|CC chance|NN rather|RB than|IN causation|NN and|CC have|VB little|JJ or|CC no|DT predictive|JJ power|NN which|WDT was|VBD what|WP this|DT study|NN conducted|VBD by|IN economics|NNS professors|NNS at|IN massey|NN university|NN in|IN new|JJ zealand|NN found|NN when|WRB they|PRP examined|VBD the|DT january|JJ barometer|NN in|IN the|DT us|PRP and|CC 22|CD foreign|JJ stock|NN markets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP also|RB dont|VBP think|VBP you|PRP or|CC other|JJ individual|JJ investors|NNS should|MD view|VB warren|NNS buffetts|NNS recently|RB publicized|VBN paean|JJ to|TO stocks|NNS as|IN a|DT reason|NN to|TO jump|VB into|IN the|DT market|NN now|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP have|VBP great|JJ respect|NN for|IN buffett|NN and|CC share|NN his|PRP$ upbeat|NN view|NN on|IN the|DT prospects|NNS for|IN stocks|NNS </s>|S_END
+<s>|S_START but|CC its|PRP$ not|RB as|IN if|IN hes|NNS making|VBG a|DT market|NN timing|NN call|NN as|IN if|IN he|PRP thought|VBD stocks|NNS were|VBD too|RB dangerous|JJ to|TO own|VB before|IN but|CC its|PRP$ okay|NN to|TO load|VB up|RP on|IN them|PRP now|RB </s>|S_END
+<s>|S_START his|PRP$ berkshire|NN hathaway|NN brka|NN fortune|NN 500|CD has|VBZ long|JJ invested|VBN billions|NNS in|IN whollyowned|VBN business|NN as|RB well|RB as|IN stocks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC even|RB the|DT mighty|NN buffett|NN keeps|NNS billions|NNS in|IN treasury|NN bills|NNS for|IN ready|JJ cash|NN </s>|S_END
+<s>|S_START and|CC before|IN investing|NN in|IN stocks|NNS individual|JJ investors|NNS need|VBP to|TO consider|VB not|RB only|RB liquidity|NN needs|VBZ but|CC how|WRB much|JJ they|PRP might|MD want|VB to|TO insulate|VB themselves|PRP from|IN the|DT markets|NNS occasionally|RB violent|JJ convulsions|NNS by|IN holding|VBG bonds|NNS and|CC cash|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT of|IN which|WDT is|VBZ to|TO say|VB that|IN before|IN you|PRP start|VBP pouring|VBG your|PRP$ cd|NN stash|NN into|IN equities|NNS take|VBP a|DT little|RB time|NN to|TO answer|VB a|DT few|JJ key|JJ questions|NNS how|WRB much|JJ of|IN your|PRP$ dough|JJ should|MD you|PRP set|VB aside|JJ for|IN immediate|JJ needs|NNS or|CC emergencies|NNS </s>|S_END
+<s>|S_START whatever|NN that|IN amount|NN is|VBZ it|PRP should|MD stay|VB in|IN shortterm|NN cds|NNS savings|NNS accounts|NNS or|CC highquality|NN money|NN funds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB long|JJ will|MD the|DT rest|NN of|IN your|PRP$ money|NN remain|NN invested|VBD </s>|S_END
+<s>|S_START the|DT longer|NN that|IN is|VBZ the|DT more|RBR you|PRP can|MD likely|RB afford|VB to|TO invest|VB in|IN stocks|NNS the|DT shorter|NN your|PRP$ investing|NN time|NN horizon|NN the|DT more|RBR youll|JJ want|NN to|TO devote|VB to|TO bonds|NNS and|CC cash|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START also|RB ask|VBP yourself|PRP how|WRB anxious|JJ would|MD you|PRP get|VB watching|VBG the|DT value|NN of|IN your|PRP$ stock|NN holdings|NNS occasionally|RB decline|VBP by|IN 20|CD or|CC more|JJR </s>|S_END
+<s>|S_START if|IN youd|VBN freak|NN out|IN you|PRP may|MD want|VB to|TO scale|VB back|RB the|DT amount|NN youd|NN devote|NN to|TO stocks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START translating|VBG these|DT issues|NNS into|IN an|DT actual|JJ portfolio|NN is|VBZ as|IN much|JJ art|NN as|IN science|NN </s>|S_END
+<s>|S_START but|CC you|PRP can|MD increase|VB your|PRP$ chances|NNS of|IN ending|VBG up|RP with|IN a|DT mix|NN of|IN stocks|NNS and|CC bonds|NNS that|WDT reflects|VBZ your|PRP$ needs|NNS by|IN going|VBG to|TO a|DT tool|NN like|IN morningstars|NNS asset|VBP allocator|NN which|WDT will|MD give|VB you|PRP an|DT idea|NN of|IN how|WRB different|JJ blends|NNS might|MD perform|VB </s>|S_END
+<s>|S_START and|CC to|TO create|VB a|DT stocksbonds|NNS mix|NN thats|NNS appropriate|VBP for|IN the|DT money|NN youve|NN earmarked|VBD for|IN retirement|NN check|NN out|IN a|DT tool|NN like|IN t|NN rowe|NN prices|NNS retirement|NN income|NN calculator|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START instead|RB of|IN asking|VBG whether|IN now|RB is|VBZ a|DT good|JJ time|NN to|TO invest|VB in|IN stocks|NNS you|PRP should|MD ask|VB yourself|PRP what|WP role|NN stocks|NNS should|MD play|VB in|IN your|PRP$ investing|NN strategy|NN based|VBN on|IN your|PRP$ financial|JJ goals|NNS and|CC tolerance|NN for|IN risk|NN </s>|S_END
+<s>|S_START i|PRP can|MD guarantee|VB you|PRP that|IN the|DT stock|NN markets|NNS performance|NN in|IN january|JJ or|CC for|IN that|DT matter|NN any|DT other|JJ month|NN will|MD have|VB absolutely|RB no|DT bearing|NN on|IN the|DT answer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START do|VBP you|PRP know|VB a|DT money|NN hero|NN </s>|S_END
+<s>|S_START money|NN magazine|NN is|VBZ celebrating|VBG people|NNS both|DT famous|JJ and|CC unsung|JJ who|WP have|VBP done|VBN extraordinary|JJ work|NN to|TO improve|VB others|NNS financial|JJ wellbeing|NN </s>|S_END
+<s>|S_START send|NN an|DT email|NN to|TO nominate|VB your|PRP$ money|NN hero |-NONE- </s>|S_END
+</p>|P_END
+

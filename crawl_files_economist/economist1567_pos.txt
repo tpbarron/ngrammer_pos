@@ -1,0 +1,76 @@
+<p>|P_START
+<s>|S_START language|NN the|DT cultural|JJ tool|NN </s>|S_END
+<s>|S_START by|IN daniel|NN everett|NN </s>|S_END
+<s>|S_START pantheon|NN 351|CD pages|NNS $|$ 2795|CD </s>|S_END
+<s>|S_START profile|IN £1499|JJ </s>|S_END
+<s>|S_START buy|NN from|IN amazoncom|NN amazoncouk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN half|PDT a|DT century|NN an|DT influential|JJ group|NN of|IN western|JJ linguists|NNS led|VBN by|IN noam|NN chomsky|NN have|VBP argued|VBN that|IN language|NN is|VBZ an|DT innate|JJ human|NN faculty|NN the|DT product|NN of|IN a|DT “language|JJ organ”|NN in|IN the|DT mind|NN </s>|S_END
+<s>|S_START other|JJ prominent|NN “innatists”|-NONE- include|VBP steven|VBN pinker|NN an|DT evolutionary|JJ psychologist|NN and|CC author|NN of|IN “the|NNP language|NN instinct”|-NONE- and|CC derek|VB bickerton|NN a|DT linguist|NN at|IN the|DT university|NN of|IN hawaii|NN and|CC developer|NN of|IN a|DT “bioprogramme”|JJ theory|NN of|IN language|NN </s>|S_END
+<s>|S_START innatists|NNS believe|VBP that|IN all|DT languages|NNS share|VBP fundamental|JJ feature|NN </s>|S_END
+<s>|S_START and|CC linguistic|JJ innatism|NN is|VBZ part|NN of|IN a|DT wider|NN debate|NN about|IN just|RB how|WRB much|JJ of|IN human|JJ nature|NN is|VBZ wired|VBN into|IN the|DT brain|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START daniel|NN everett|VBD a|DT linguist|NN at|IN bentley|NN university|NN in|IN massachusetts|NNS disagrees|NNS on|IN both|DT innatism|NN and|CC the|DT fundamental|JJ similarity|NN of|IN language|NN </s>|S_END
+<s>|S_START he|PRP spent|VBD years|NNS learning|VBG tiny|JJ languages|NNS in|IN forbidding|VBG jungle|NN villages|NNS experiences|NNS he|PRP recounted|VBD in|IN his|PRP$ 2008|CD memoir|NN “dont|JJ sleep|NN there|EX are|VBP snakes”|JJ </s>|S_END
+<s>|S_START a|DT former|JJ christian|JJ missionary|NN whose|WP$ original|JJ goal|NN was|VBD spreading|VBG the|DT gospel|NN he|PRP fell|VBD away|RB from|IN his|PRP$ faith|NN </s>|S_END
+<s>|S_START in|IN his|PRP$ new|JJ book|NN “language|NN the|DT cultural|JJ tool”|NN mr|NN everett|NN moves|NNS away|RB from|IN narrow|NN linguistic|JJ anthropology|NN to|TO broad|VB theory|NN </s>|S_END
+<s>|S_START he|PRP argues|VBZ that|IN language|NN is|VBZ not|RB the|DT product|NN of|IN a|DT “language|JJ organ”|NN but|CC an|DT extension|NN of|IN general|JJ intelligence|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START instead|RB of|IN unfolding|VBG in|IN the|DT same|JJ way|NN in|IN paris|NN and|CC papua|NN new|JJ guinea|NN languages|NNS are|VBP crafted|VBN by|IN their|PRP$ speakers|NNS to|TO meet|VB their|PRP$ need|NN </s>|S_END
+<s>|S_START he|PRP cites|VBZ the|DT pirahã|NN the|DT brazilian|JJ amazonian|NN group|NN he|PRP has|VBZ spent|VBN the|DT longest|JJS time|NN living|VBG with|IN </s>|S_END
+<s>|S_START there|EX are|VBP no|DT numbers|NNS beyond|IN two|CD in|IN pirahã|JJ because|IN mr|NN everett|NN argues|NNS they|PRP have|VBP no|DT money|NN engage|NN in|IN little|JJ barter|NN trade|NN do|VBP not|RB store|VB food|NN for|IN the|DT future|NN and|CC do|VBP not|RB think|VB about|IN the|DT distant|JJ past|NN </s>|S_END
+<s>|S_START this|DT “living|JJ for|IN the|DT moment”|NN which|WDT the|DT pirahã|NNP enjoy|NN they|PRP think|VBP western|JJ life|NN sounds|NNS dreadful|JJ shapes|NNS their|PRP$ language|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT different|JJ cultures|NNS have|VBP different|JJ words|NNS is|VBZ unsurprising|VBG </s>|S_END
+<s>|S_START it|PRP is|VBZ when|WRB these|DT differences|NNS affect|VBP cognition|NN the|DT pirahã|NN can|MD not|RB do|VB maths|NNS for|IN example|NN that|WDT things|NNS get|VBP interesting|VBG </s>|S_END
+<s>|S_START but|CC mr|PRP$ everetts|NNS most|RBS controversial|JJ argument|NN and|CC his|PRP$ biggest|NN challenge|NN to|TO linguistic|JJ innatism|NN is|VBZ about|IN grammar|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN chomsky|NN has|VBZ argued|VBN that|IN “recursion”|-NONE- is|VBZ the|DT key|JJ feature|NN of|IN all|DT human|JJ language|NN </s>|S_END
+<s>|S_START this|DT is|VBZ the|DT embedding|NN of|IN smaller|JJR units|NNS inside|VBP bigger|JJR ones|NNS a|DT subordinate|JJ clause|NN is|VBZ a|DT kind|NN of|IN recursion|NN embedding|VBG a|DT sentence|NN in|IN a|DT bigger|JJR one|CD </s>|S_END
+<s>|S_START mr|NN everett|VBD says|VBZ that|IN the|DT pirahã|NNP lack|NN grammatical|JJ recursion|NN and|CC that|IN even|RB if|IN recursion|NN is|VBZ universal|JJ pirahã|NN use|NN it|PRP in|IN stories|NNS if|IN not|RB within|IN sentences|NNS this|DT does|VBZ not|RB prove|VB the|DT existence|NN of|IN the|DT language|NN organ|VBD </s>|S_END
+<s>|S_START information|NN is|VBZ naturally|RB organised|VBN with|IN smaller|JJR bits|NNS nesting|VBG inside|NN larger|JJR one|CD </s>|S_END
+<s>|S_START that|DT nearly|RB all|DT humans|NNS would|MD find|VB this|DT linguistically|RB useful|JJ is|VBZ little|JJ different|JJ than|IN widely|RB varying|VBG societies|NNS independently|RB inventing|VBG the|DT bow|NN and|CC arrow—it|JJ is|VBZ simply|RB useful|JJ and|CC no|DT proof|NN of|IN an|DT instinct|NN </s>|S_END
+<s>|S_START true|JJ instincts|NNS like|IN turtles|NNS making|VBG their|PRP$ way|NN to|TO the|DT sea|NN or|CC ducklings|NNS bonding|VBG with|IN their|PRP$ mothers|NNS require|VBP no|DT learning|NN </s>|S_END
+<s>|S_START language|NN doe|NN </s>|S_END
+<s>|S_START animals|NNS do|VBP not|RB truly|RB excel|VB in|IN their|PRP$ deployment|NN of|IN basic|JJ instincts|NNS whereas|IN some|DT humans|NNS clearly|RB use|VB language|NN much|RB better|RBR than|IN other|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC mr|PRP$ everett|NN in|IN trying|VBG to|TO reach|VB a|DT popular|JJ audience|NN while|IN making|VBG an|DT argument|NN aimed|VBN at|IN professional|JJ linguists|NNS makes|VBZ some|DT awkward|NN compromise|NN </s>|S_END
+<s>|S_START he|PRP cites|VBZ a|DT paper|NN by|IN other|JJ researchers|NNS claiming|VBG to|TO have|VB found|VBN that|IN there|EX are|VBP no|DT features|NNS that|IN are|VBP common|JJ to|TO all|DT languages|NNS an|DT argument|NN that|IN is|VBZ crucial|JJ to|TO his|PRP$ thesi|NN </s>|S_END
+<s>|S_START but|CC he|PRP does|VBZ not|RB give|VB enough|RB detail|JJ for|IN the|DT reader|NN </s>|S_END
+<s>|S_START later|JJ he|PRP even|RB contradicts|VBZ himself|PRP saying|VBG that|IN all|DT languages|NNS have|VBP nouns|NNS and|CC verb|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP argues|VBZ that|IN differences|NNS between|IN societies|NNS lead|VBP to|TO profound|VB differences|NNS between|IN languages|NNS but|CC fails|NNS to|TO drive|VB the|DT point|NN home|NN fully|RB </s>|S_END
+<s>|S_START the|DT wari|NN people|NNS use|VBP the|DT word|NN “hole”|NN or|CC “vagina”|JJ as|IN the|DT ordinary|JJ word|NN for|IN “wife”|NN </s>|S_END
+<s>|S_START could|MD this|DT be|VB denigrating|VBG of|IN women|NNS </s>|S_END
+<s>|S_START or|CC since|IN the|DT birth|JJ canal|JJ is|VBZ the|DT point|NN of|IN departure|NN for|IN human|NN life|NN could|MD it|PRP be|VB a|DT way|NN of|IN praising|VBG them|PRP </s>|S_END
+<s>|S_START mr|NN everett|VBD is|VBZ not|RB sure|JJ </s>|S_END
+<s>|S_START or|CC take|VBP banawá|JJ another|DT amazonian|NN language|NN in|IN which|WDT the|DT default|NN gender|NN of|IN an|DT unknown|NN person|NN or|CC mixed|VBN group|NN of|IN people|NNS is|VBZ feminine|JJ not|RB masculine|JJ as|IN in|IN most|JJS language|NN </s>|S_END
+<s>|S_START the|DT banawá|NN also|RB practise|VBP rigid|JJ gender|NN segregation|NN even|RB whipping|VBG young|JJ girls|NNS bloody|NN after|IN their|PRP$ first|JJ menstruation|NN </s>|S_END
+<s>|S_START could|MD the|DT unusual|JJ genderassignment|NN of|IN banawá|NNP be|VB a|DT product|NN of|IN this|DT gendersegregated|VBN banawá|-NONE- society|NN </s>|S_END
+<s>|S_START “the|DT only|RB answer|JJR at|IN present|JJ is|VBZ ‘perhaps”|JJ he|PRP write|VBP </s>|S_END
+<s>|S_START even|RB the|DT lack|NN of|IN grammatical|JJ recursion|NN in|IN pirahã|NNP mr|NN everetts|NNS key|JJ piece|NN of|IN evidence|NN that|IN it|PRP is|VBZ culture|NN that|IN creates|NNS language|VBP can|MD not|RB tell|VB the|DT whole|JJ tale|NN </s>|S_END
+<s>|S_START imilar|JJ tribal|NN cultures|NNS have|VBP languages|NNS bristling|VBG with|IN recursion|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN everett|VBD thinks|NNS it|PRP possible|JJ that|IN culture|NN influences|NNS grammar|NN but|CC he|PRP is|VBZ not|RB sure|JJ </s>|S_END
+<s>|S_START he|PRP acknowledges|VBZ that|IN conjecture|NN about|IN what|WP causes|NNS linguistic|VBP differences|NNS has|VBZ been|VBN a|DT staple|NN of|IN much|JJ irresponsible|JJ amateur|NN linguistic|JJ </s>|S_END
+<s>|S_START it|PRP is|VBZ hard|RB to|TO work|VB out|RP where|WRB culture|NN has|VBZ affected|VBN language|NN where|WRB language|NN affects|NNS culture|VBP and|CC cognition|NN a|DT hot|JJ topic|JJ of|IN psycholinguistic|JJ research|NN and|CC where|WRB the|DT differences|NNS are|VBP unrelated|VBN </s>|S_END
+<s>|S_START mr|NN everett|VBD has|VBZ taken|VBN a|DT shot|NN across|IN the|DT innatists|NNS bow|VBP and|CC an|DT impressively|RB modest|JJ and|CC reasoned|VBD one|CD given|VBN that|IN mr|NN chomsky|NN once|RB called|VBN him|PRP a|DT charlatan|NN </s>|S_END
+<s>|S_START his|PRP$ case|NN is|VBZ not|RB wholly|RB proven|RB but|CC it|PRP deserves|VBZ a|DT serious|JJ reading|NN and|CC a|DT response|NN beyond|NN namecalling|VBG </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,79 @@
+<p>|P_START
+<s>|S_START on|IN august|JJ 5th|CD millions|NNS of|IN people|NNS will|MD watch|VB the|DT 100metre|JJ final|JJ at|IN the|DT london|NN olympic|NN </s>|S_END
+<s>|S_START many|JJ will|MD wonder|VB if|IN anyone|NN can|MD repeat|VB usain|NN bolt’s|-NONE- feat|NN in|IN berlin|NN in|IN 2009|CD when|WRB the|DT jamaican|NN clocked|VBD 958|CD seconds|NNS lopping|VBG 011|CD seconds—aeons|NNS in|IN a|DT sprint—off|JJ the|DT previous|JJ world|NN record|NN which|WDT he|PRP set|VBD at|IN the|DT 2008|CD beijing|VBG game|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD person|NN who|WP thinks|NNS this|DT unlikely|RB is|VBZ mark|NN denny|NN </s>|S_END
+<s>|S_START another|DT 011|CD seconds|NNS would|MD take|VB the|DT time|NN below|IN what|WP dr|NN denny|NN from|IN stanford|NN university|NN reckons|NNS is|VBZ the|DT absolute|JJ limit|NN of|IN human|JJ athletic|JJ performance|NN in|IN the|DT 100metre|JJ dash|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN 2008|CD dr|NN denny|NN published|VBD a|DT paper|NN in|IN which|WDT he|PRP crunched|VBD through|IN the|DT highest|JJS speeds|NNS achieved|VBD each|DT year|NN in|IN running|NN events|NNS from|IN sprints|NNS to|TO the|DT marathon|NN some|DT dating|VBG back|RB to|TO 1900|CD see|VB chart|NN </s>|S_END
+<s>|S_START a|DT statistical|JJ technique|NN called|VBN extremevalue|NN analysis|NN discerned|VBD trends|NNS and|CC the|DT maximum|NN possible|JJ deviations|NNS from|IN them|PRP </s>|S_END
+<s>|S_START for|IN the|DT 100|CD metres|NNS the|DT human|JJ speed|NN limit|NN is|VBZ 1055|CD metres|NNS per|IN second|JJ </s>|S_END
+<s>|S_START this|DT translates|VBZ to|TO 948|CD second|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START predicting|VBG the|DT limits|NNS of|IN human|JJ athletic|JJ prowess|NN has|VBZ been|VBN a|DT popular|JJ parlour|NN game|NN among|IN number|NN cruncher|RB </s>|S_END
+<s>|S_START one|CD study|NN from|IN 1992|CD had|VBD female|JJ marathon|NN runners|NNS drawing|VBG level|NN with|IN men|NNS by|IN 1998|CD to|TO complete|JJ the|DT 42195km|CD 262mile|CD course|NN in|IN just|RB under|IN two|CD hours|NNS and|CC two|CD minute|JJ </s>|S_END
+<s>|S_START the|DT current|JJ male|NN record|NN remains|VBZ 15|CD minutes|NNS slower|JJR for|IN women|NNS it|PRP is|VBZ 12|CD minutes|NNS slower|JJR still|RB </s>|S_END
+<s>|S_START a|DT more|RBR recent|JJ analysis|NN from|IN 2004|CD suggested|VBN that|IN male|JJ and|CC female|JJ 100metre|JJ times|NNS will|MD converge|VB in|IN 2156|CD at|IN 808|CD second|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nowadays|NNS sport|VBP statisticians|NNS view|NN such|JJ calculations|NNS as|IN flawed|VBN because|IN they|PRP relied|VBD on|IN linear|JJ extrapolation|NN </s>|S_END
+<s>|S_START they|PRP prefer|VBP to|TO fit|VB data|NNS to|TO variants|NNS of|IN a|DT “logistic”|JJ curve|NN </s>|S_END
+<s>|S_START this|DT produces|NNS an|DT sshaped|JJ plot|NN more|RBR in|IN line|NN with|IN the|DT intuition|NN that|IN performance|NN starts|NNS off|IN relatively|RB flat|JJ </s>|S_END
+<s>|S_START it|PRP then|RB goes|VBZ through|IN a|DT period|NN of|IN rapid|JJ improvement|NN as|IN more|JJR people|NNS take|VBP part|NN and|CC more|JJR systematic|JJ approaches|NNS to|TO training|NN and|CC nutrition|NN get|NN more|RBR out|IN of|IN them|PRP </s>|S_END
+<s>|S_START it|PRP finally|RB levels|VBZ off|RP as|RB athletes|VBZ inch|NN towards|NNS the|DT most|JJS a|DT body|NN can|MD manage|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT already|RB seems|VBZ to|TO be|VB happening|VBG </s>|S_END
+<s>|S_START according|VBG to|TO dr|VB denny|JJ female|NN marathon|NN runners|NNS have|VBP in|IN effect|NN reached|VBD their|PRP$ peak|NN </s>|S_END
+<s>|S_START in|IN a|DT 2010|CD study|NN geoffroy|NN berthelot|NN of|IN france’s|JJ national|JJ institute|NN of|IN sport|NN showed|VBD that|IN performance|NN in|IN 23|CD out|IN of|IN 36|CD trackandfield|NN events|NNS has|VBZ stagnated|VBN since|IN 1993|CD </s>|S_END
+<s>|S_START the|DT remaining|VBG 13|CD have|VBP seen|VBN only|RB small|JJ increment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pool|NN performance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN swimming|NN dr|NN berthelot|NN found|VBD that|IN all|DT 34|CD events|NNS have|VBP seen|VBN improvements|NNS since|IN 2000|CD though|IN this|DT may|MD have|VB been|VBN aided|VBN by|IN the|DT now|RB banned|VBD slick|NN fullbody|NN swimsuits|NNS which|WDT helped|VBN competitors|NNS in|IN beijing|VBG smash|NN 22|CD world|NN record|NN </s>|S_END
+<s>|S_START before|IN 2000|CD performance|NN in|IN 16|CD events|NNS had|VBD been|VBN becalmed|VBN though|IN not|RB in|IN the|DT 400metres|NNS individual|JJ medley|NN which|WDT may|MD explain|VB why|WRB china’s|JJ 16yearold|JJ ye|NN shiwen|NN shaved|VBD a|DT second|JJ off|NN the|DT world|NN record|NN and|CC in|IN the|DT final|JJ leg|NN stoked|VBD controversy|NN by|IN being|VBG quicker|NN than|IN the|DT men’s|NNP medley|NN champion|NN </s>|S_END
+<s>|S_START but|CC alan|VBD nevill|NN of|IN wolverhampton|NN university|NN in|IN britain|NN reckons|NNS this|DT is|VBZ within|IN the|DT bounds|NNS of|IN possibility|NN for|IN the|DT 400metres|NNS women’s|-NONE- freestyle|NN a|DT proxy|NN albeit|NN an|DT imperfect|NN one|CD for|IN the|DT last|JJ leg|NN of|IN the|DT medley|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START drugs|NNS and|CC technological|JJ tricks|NNS aside|VBP ensuring|VBG that|IN future|JJ olympics|NNS live|VBP up|RP to|TO their|PRP$ motto|NN of|IN “faster|JJ higher|JJR stronger”|JJ may|MD thus|RB require|VB some|DT other|JJ performanceboosting|NN trick|NN </s>|S_END
+<s>|S_START teve|NN haake|VBP of|IN sheffield|NN hallam|NN university|NN in|IN britain|NN points|NNS to|TO a|DT notable|JJ blip|NN in|IN the|DT figures|NNS for|IN the|DT 100metre|JJ dash|NN </s>|S_END
+<s>|S_START in|IN 1968|CD the|DT average|JJ of|IN the|DT best|JJS times|NNS of|IN the|DT top|JJ 25|CD athletes|NNS was|VBD much|RB better|RBR than|IN trend|NN </s>|S_END
+<s>|S_START this|DT dr|NN haake|NN explains|VBZ is|VBZ because|IN those|DT olympic|JJ games|NNS were|VBD held|VBN in|IN mexico|NN city|NN </s>|S_END
+<s>|S_START at|IN an|DT altitude|NN of|IN 2240|CD metres|NNS the|DT air|NN there|RB is|VBZ a|DT fifth|JJ thinner|NN than|IN at|IN sea|NN level|NN providing|VBG 20|CD less|JJR drag—a|JJ boon|NN to|TO sprinters|NNS who|WP unlike|IN their|PRP$ endurance|NN counterparts|NNS run|VBP anaerobically|RB and|CC so|RB need|VBP not|RB worry|JJ about|IN the|DT diminished|JJ supply|NN of|IN oxygen|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eight|NN of|IN the|DT 25|CD best|JJS times|NNS that|WDT year|NN were|VBD recorded|VBN at|IN the|DT games|NNS and|CC most|JJS of|IN the|DT remaining|VBG 17|CD were|VBD at|IN higherthanusual|JJ altitudes|NNS where|WRB athletes|NNS prepared|VBN for|IN the|DT main|JJ event|NN </s>|S_END
+<s>|S_START the|DT reduced|VBN drag|NN may|MD have|VB helped|VBN bob|NN beamon’s|-NONE- 89metre|CD long|RB jump|VB in|IN which|WDT the|DT american|NN added|VBD 55cm|CD to|TO the|DT world|NN record|NN </s>|S_END
+<s>|S_START of|IN that|DT 31cm|CD was|VBD down|IN to|TO a|DT tail|NN wind|NN combined|VBN with|IN the|DT altitude|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tatistics|NNS suggest|VBP that|IN feats|NNS like|IN those|DT of|IN messrs|NNS bolt|VBP and|CC beamon|NN are|VBP increasingly|RB improbable|JJ </s>|S_END
+<s>|S_START but|CC are|VBP they|PRP impossible|JJ </s>|S_END
+<s>|S_START peter|NN weyand|VBD of|IN southern|NN methodist|NN university|NN in|IN texas|NNS has|VBZ shown|VBN that|IN whereas|IN the|DT peak|NN force|NN which|WDT elite|JJ sprinters|NNS apply|RB to|TO the|DT track|NN is|VBZ more|RBR than|IN four|CD times|NNS their|PRP$ body|NN weight|NN they|PRP can|MD squeeze|VB even|RB more|RBR out|IN of|IN their|PRP$ muscle|NN </s>|S_END
+<s>|S_START dr|NN weyand|VBD found|VBN that|IN the|DT forces|NNS generated|VBD while|IN athletes|NNS hopped|VBD on|IN one|CD leg|NN as|IN fast|JJ as|IN they|PRP could|MD on|IN a|DT highspeed|NN treadmill|NN were|VBD roughly|RB twice|NN as|IN high|JJ as|IN during|IN running|VBG at|IN top|JJ speed|NN </s>|S_END
+<s>|S_START this|DT translated|VBN into|IN 30|CD more|JJR ground|NN force|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ince|NN ground|VBD force|NN is|VBZ the|DT main|JJ determinant|NN of|IN sprinting|VBG speed|NN dr|NN weyand’s|NNS results|NNS imply|VBP that|IN human|JJ muscles|NNS are|VBP capable|JJ of|IN producing|VBG enough|JJ oomph|NN to|TO propel|VB sprinters|NNS onethird|JJ faster|NN than|IN mr|NN bolt’s|NNS 2009|CD record|NN </s>|S_END
+<s>|S_START the|DT reason|NN they|PRP have|VBP not|RB is|VBZ that|IN in|IN the|DT normal|JJ twolegged|JJ gait|NN the|DT foot|NN is|VBZ in|IN contact|NN with|IN the|DT ground|NN for|IN only|RB around|IN onetenth|JJ of|IN a|DT second|JJ 005|CD seconds|NNS less|JJR than|IN when|WRB hopping|VBG </s>|S_END
+<s>|S_START as|IN a|DT consequence|NN muscle|NN fibres|NNS do|VBP not|RB have|VB enough|RB time|VB to|TO contract|VB to|TO their|PRP$ full|JJ potential|JJ </s>|S_END
+<s>|S_START although|IN tapping|VBG all|DT this|DT force|NN while|IN sprinting|VBG seems|NNS biomechanically|RB inconceivable|JJ there|EX may|MD be|VB scope|NN for|IN slight|NN alterations|NNS in|IN training|NN and|CC gait|NN focused|VBD on|IN increasing|VBG the|DT peak|NN power|NN available|JJ to|TO sprinter|NN </s>|S_END
+<s>|S_START for|IN his|PRP$ part|NN dr|NN denny|NN would|MD be|VB thrilled|VBN to|TO see|VB any|DT athlete|JJ breach|NN his|PRP$ limits|NNS but|CC he|PRP isn’t|JJ putting|VBG any|DT money|NN on|IN it|PRP </s>|S_END
+</p>|P_END
+

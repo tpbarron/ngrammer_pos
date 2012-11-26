@@ -1,0 +1,86 @@
+<p>|P_START
+<s>|S_START critics|NNS predicted|VBD the|DT largest|JJS privateequity|NN deals|NNS would|MD end|VB up|RP like|IN the|DT giant|JJ python|NN in|IN florida|NN which|WDT exploded|VBN in|IN 2005|CD after|IN it|PRP hungrily|RB devoured|VBD an|DT alligator|NN </s>|S_END
+<s>|S_START during|IN the|DT 200607|CD bubble|JJ buyout|IN firms|NNS hunted|VBN iconic|JJ companies|NNS at|IN skyhigh|JJ prices|NNS with|IN oodles|NNS of|IN borrowed|VBN money|NN </s>|S_END
+<s>|S_START then|RB the|DT economy|NN turned|VBD </s>|S_END
+<s>|S_START boston|NN consulting|NN group|NN forecast|NN in|IN 2008|CD that|WDT the|DT majority|NN of|IN companies|NNS owned|VBN by|IN private|JJ equity|NN would|MD default|VB on|IN their|PRP$ debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT look|NN at|IN the|DT 20|CD largest|JJS deals|NNS however|RB shows|VBZ that|IN most|JJS will|MD turn|VB out|RP better|JJR than|IN predicted|VBN </s>|S_END
+<s>|S_START in|IN june|NN kkr|NN agreed|VBD to|TO sell|VB a|DT 45|CD stake|NN in|IN alliance|NN boots|NNS a|DT british|JJ pharmacy|NN chain|NN for|IN $|$ 67|CD billion|CD to|TO walgreens|NNS which|WDT has|VBZ the|DT option|NN to|TO buy|VB the|DT rest|NN in|IN three|CD year|NN </s>|S_END
+<s>|S_START if|IN this|DT happens|NNS kkr|VBP will|MD make|VB 22|CD times|NNS its|PRP$ money|NN </s>|S_END
+<s>|S_START kinder|NN morgan|VBD a|DT pipeline|NN operator|NN owned|VBN by|IN carlyle|NN and|CC three|CD others|NNS did|VBD an|DT initial|JJ public|JJ offering|NN ipo|NN last|JJ year|NN the|DT owners|NNS may|MD triple|VB their|PRP$ money|NN </s>|S_END
+<s>|S_START even|RB hilton|VBD a|DT hotel|NN chain|NN bought|VBD by|IN blackstone|NN at|IN the|DT peak|NN of|IN the|DT bubble|JJ could|MD defy|VB the|DT doomsayer|NN </s>|S_END
+<s>|S_START the|DT investment|NN could|MD be|VB worth|JJ 25|CD times|NNS the|DT initial|JJ value|NN when|WRB hilton|NN goes|VBZ public|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP of|IN course|NN some|DT carcasse|NN </s>|S_END
+<s>|S_START the|DT 2007|CD leveraged|JJ buyout|IN of|IN archstone|NN a|DT property|NN company|NN by|IN lehman|NN brothers|NNS and|CC tishman|NN speyer|NN was|VBD a|DT disaster|NN and|CC is|VBZ partly|RB blamed|VBN for|IN lehman’s|NNS demise|VBP </s>|S_END
+<s>|S_START the|DT biggest|JJS buyout|IN in|IN history|NN is|VBZ a|DT spectacular|JJ failure|NN txu|NN a|DT texan|NN utility|NN owned|VBN by|IN kkr|NN tpg|NN and|CC goldman|NN sachs|NNS has|VBZ suffered|VBN from|IN a|DT huge|JJ debt|NN load|NN and|CC falling|VBG gas|NN price|NN </s>|S_END
+<s>|S_START the|DT question|NN is|VBZ when|WRB not|RB if|IN it|PRP will|MD file|VB for|IN bankruptcy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP determined|VBN whether|IN these|DT deals|NNS flew|VBP or|CC flopped|VBN </s>|S_END
+<s>|S_START companies|NNS in|IN recessionresistant|JJ industries|NNS performed|VBN better|JJR </s>|S_END
+<s>|S_START o|NN did|VBD deals|NNS done|VBN before|IN the|DT peak|NN of|IN the|DT bubble|JJ in|IN 2007|CD says|VBZ colin|NN blaydon|NN of|IN dartmouth’s|JJ tuck|NN school|NN of|IN business|NN they|PRP were|VBD cheaper|JJR and|CC had|VBD less|RBR debt|NN </s>|S_END
+<s>|S_START wift|NN payouts|NNS were|VBD key|JJ too|RB </s>|S_END
+<s>|S_START blackstone|NN sold|VBD most|JJS of|IN equity|NN office|NN properties|NNS immediately|RB after|IN its|PRP$ 2007|CD buyout|IN which|WDT helped|VBN it|PRP pay|VB down|RP debt|NN </s>|S_END
+<s>|S_START when|WRB possible|JJ privateequity|NN firms|NNS piled|VBD on|IN more|JJR debt|NN to|TO pay|VB themselves|PRP early|RB </s>|S_END
+<s>|S_START by|IN the|DT time|NN hca|NN a|DT healthcare|NN firm|NN went|VBD public|JJ in|IN march|NN 2011|CD its|PRP$ buyout|NN owners|NNS had|VBD taken|VBN out|RP nearly|RB enough|RB in|IN dividends|NNS to|TO recoup|VB their|PRP$ investment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START low|JJ interest|NN rates|NNS however|RB are|VBP why|WRB most|JJS deals|NNS have|VBP avoided|VBN bankruptcy|NN </s>|S_END
+<s>|S_START privateequity|NN firms|NNS have|VBP been|VBN able|JJ to|TO refinance|NN and|CC yieldstarved|VBD investors|NNS have|VBP given|VBN some|DT of|IN these|DT deals|NNS a|DT second|JJ life|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START two|CD boomera|NN phenomena|NN “covenantlite”|NN debt|NN and|CC “payment|JJ in|IN kind”|JJ loans|NNS also|RB helped|VBD </s>|S_END
+<s>|S_START the|DT former|JJ made|NN it|PRP hard|RB for|IN creditors|NNS to|TO force|VB the|DT company|NN into|IN bankruptcy|NN and|CC the|DT latter|NN enabled|VBD firms|NNS to|TO pay|VB off|RP creditors|NNS with|IN new|JJ debt|NN instead|RB of|IN cash|NN </s>|S_END
+<s>|S_START privateequity|NN firms|NNS have|VBP managed|VBN to|TO push|VB back|RB the|DT “wall|JJ of|IN debt”|JJ that|IN critics|NNS thought|VBD would|MD crush|VB them|PRP this|DT year|NN or|CC next|JJ </s>|S_END
+<s>|S_START many|JJ do|VBP not|RB see|VB significant|JJ debt|NN maturities|NNS until|IN 2016|CD or|CC later|JJ </s>|S_END
+<s>|S_START with|IN any|DT luck|NN they|PRP will|MD already|RB have|VB offloaded|VBN their|PRP$ companies|NNS onto|IN the|DT public|NN market|NN by|IN then|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START everal|JJ companies|NNS have|VBP technically|RB defaulted|VBN but|CC restructured|VBN behind|IN closed|VBN door|NN </s>|S_END
+<s>|S_START txu|NN caesars|NNS clear|JJ channel|NN and|CC freescale|NN did|VBD “distressed|JJ exchanges”|NN in|IN which|WDT creditors|NNS accept|VBP losses|NNS in|IN return|NN for|IN new|JJ debt|NN </s>|S_END
+<s>|S_START buyout|IN firms|NNS also|RB protected|VBD themselves|PRP by|IN aggressively|RB buying|VBG back|RB bank|NN debt|NN at|IN distressed|VBN prices|NNS when|WRB they|PRP could|MD </s>|S_END
+<s>|S_START creditors|NNS will|MD be|VB the|DT ones|NNS to|TO suffer|VB most|JJS from|IN private|JJ equity’s|NNS exuberance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START caveat|NN investor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START amazingly|RB most|RBS privateequity|NN firms’|NN returns|NNS will|MD be|VB fine|NN if|IN the|DT ipo|NN market|NN stabilises|NNS enough|RB to|TO list|VB their|PRP$ companie|NN </s>|S_END
+<s>|S_START even|RB kkr|VBP which|WDT invested|VBN in|IN nine|CD of|IN the|DT 20|CD largest|JJS buyouts|NNS and|CC will|MD have|VB to|TO write|VB off|RP its|PRP$ $|$ 2|CD billion|CD investment|NN in|IN txu|NN may|MD see|VB its|PRP$ 2006|CD fund|NN make|NN money|NN </s>|S_END
+<s>|S_START tpg|NN which|WDT invested|VBN in|IN seven|CD of|IN the|DT 20|CD is|VBZ one|CD of|IN the|DT worst|JJS performers|NNS with|IN exposure|NN to|TO txu|VB caesars|NNS and|CC freescale|NN the|DT latter|NN two|CD have|VBP lost|VBN 60|CD of|IN their|PRP$ value|NN </s>|S_END
+<s>|S_START at|IN the|DT least|JJS tpg|NN will|MD probably|RB return|VB money|NN to|TO investors|NNS when|WRB the|DT fund|NN winds|NNS up|IN </s>|S_END
+<s>|S_START but|CC that|DT takes|VBZ ten|VBN years|NNS a|DT long|JJ wait|NN for|IN a|DT small|JJ return|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB will|MD privateequity|VB firms|NNS have|VBP managed|VBN to|TO turn|VB a|DT profit|NN when|WRB they|PRP overleveraged|VBD and|CC overpaid|VBD </s>|S_END
+<s>|S_START typically|RB they|PRP do|VBP not|RB invest|VB more|JJR than|IN 10|CD of|IN a|DT fund|NN in|IN any|DT one|CD deal|NN so|IN diversification|NN helped|VBD </s>|S_END
+<s>|S_START o|NN did|VBD perverse|NN “deal”|NN fee|NN </s>|S_END
+<s>|S_START buyout|IN firms|NNS charge|VBP the|DT firm|NN they|PRP are|VBP acquiring|VBG around|IN 12|CD of|IN the|DT deal|NN for|IN the|DT privilege|NN of|IN being|VBG purchased|VBN </s>|S_END
+<s>|S_START txu|NN paid|VBD its|PRP$ sponsors|NNS $|$ 300m|CD at|IN acquisition|NN and|CC at|IN least|JJS $|$ 35m|CD a|DT year|NN to|TO be|VB managed|VBN and|CC advised|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whereas|IN privateequity|NN firms|NNS may|MD be|VB toasting|VBG catastrophe|PRP averted|VBD investors|NNS have|VBP less|JJR to|TO celebrate|VB </s>|S_END
+<s>|S_START most|JJS megadeals|NNS were|VBD done|VBN by|IN “clubs”|NNP of|IN firms|NNS so|IN investors|NNS have|VBP multiple|NN exposures|NNS to|TO some|DT of|IN the|DT worst|JJS deal|NN </s>|S_END
+<s>|S_START how|WRB the|DT companies|NNS themselves|PRP will|MD fare|VB is|VBZ a|DT separate|JJ consideration|NN </s>|S_END
+<s>|S_START their|PRP$ debts|NNS may|MD leave|VB a|DT lasting|JJ scar|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START private|JJ equity’s|NNS reputation|NN should|MD be|VB bruised|VBN a|DT bit|NN too|RB </s>|S_END
+<s>|S_START the|DT techniques|NNS many|JJ firms|NNS used|VBN to|TO keep|VB their|PRP$ companies|NNS alive|JJ amount|NN to|TO little|VB more|JJR than|IN financial|JJ engineering|NN says|VBZ peter|NN morris|NNS the|DT author|NN of|IN “private|JJ equity|NN public|JJ loss”|NN </s>|S_END
+<s>|S_START the|DT industry’s|JJ boasts|NNS of|IN value|NN creation|NN may|MD look|VB hollow|NN at|IN least|JJS for|IN many|JJ of|IN the|DT megadeal|NN </s>|S_END
+</p>|P_END
+

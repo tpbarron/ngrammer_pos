@@ -1,0 +1,74 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN groupons|NNS first|RB six|CD months|NNS on|IN the|DT stock|NN market|NN have|VBP been|VBN nightmarish|JJ and|CC the|DT drama|NN continued|VBD friday|NN the|DT first|JJ day|NN that|IN some|DT company|NN insiders|NNS were|VBD allowed|VBN to|TO dump|VB their|PRP$ shares|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START groupons|NNS grpn|VBP stock|NN fell|VBD as|IN much|JJ as|IN 10|CD friday|NN morning|NN to|TO a|DT new|JJ low|JJ of|IN below|JJ $|$ 10|CD per|IN share|NN </s>|S_END
+<s>|S_START the|DT stock|NN closed|VBD the|DT day|NN about|IN 9|CD lower|JJR at|IN $|$ 969|CD </s>|S_END
+<s>|S_START shares|NNS are|VBP down|RB about|IN 19|CD for|IN the|DT past|JJ week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START groupon|IN made|VBN its|PRP$ debut|NN on|IN the|DT nasdaq|NN on|IN nov|NN 4|CD </s>|S_END
+<s>|S_START like|IN many|JJ initial|JJ public|JJ offerings|NNS the|DT deal|NN included|VBD a|DT typical|JJ 180day|JJ lockup|NN agreement|NN for|IN insiders|NNS </s>|S_END
+<s>|S_START that|DT provision|NN prevented|VBD certain|JJ early|JJ investors|NNS from|IN unloading|VBG their|PRP$ groupon|NN shares|NNS until|IN the|DT end|NN of|IN the|DT sixmonth|NN period|NN which|WDT expired|VBN friday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP appears|VBZ that|IN some|DT investors|NNS took|VBD advantage|NN of|IN the|DT opportunity|NN </s>|S_END
+<s>|S_START volume|NN was|VBD high|JJ with|IN more|JJR than|IN 23|CD million|CD shares|NNS changing|VBG hands|NNS friday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT postlockup|NN slump|NN isnt|NN exclusive|JJ to|TO groupon|VB </s>|S_END
+<s>|S_START shares|NNS of|IN other|JJ newly|RB public|JJ internet|NN companies|NNS including|VBG linkedin|NN lnkd|NN fell|VBD after|IN their|PRP$ expirations|NNS too|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT rest|NN of|IN the|DT year|NN hasnt|NN been|VBN much|RB better|RBR for|IN groupon|NN </s>|S_END
+<s>|S_START the|DT stock|NN is|VBZ down|IN more|JJR than|IN 53|CD so|RB far|RB in|IN 2012|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START should|MD have|VB sold|VBN to|TO google|VB </s>|S_END
+<s>|S_START fridays|NNS decline|VBP brings|NNS groupons|NNS market|NN capitalization|NN to|TO about|IN $|$ 63|CD billion|CD </s>|S_END
+<s>|S_START thats|NNS not|RB much|RB higher|JJR than|IN the|DT $|$ 6|CD billion|CD that|WDT google|JJ goog|NN fortune|NN 500|CD reportedly|RB offered|VBD to|TO buy|VB groupon|NN in|IN december|NN 2010|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START groupon|IN chose|DT instead|RB to|TO go|VB public|JJ and|CC navigating|VBG life|NN on|IN wall|NN street|NN has|VBZ proven|VBN difficult|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN soon|RB as|IN groupon|NN disclosed|VBN its|PRP$ financials|NNS in|IN its|PRP$ june|NN 2011|CD ipo|NN filing|NN critics|NNS slammed|VBD the|DT company|NN for|IN its|PRP$ unorthodox|NN accounting|VBG measures|NNS </s>|S_END
+<s>|S_START that|DT led|VBN to|TO several|JJ downward|NN revisions|NNS of|IN groupons|NNS financials|NNS as|IN it|PRP adopted|VBD more|JJR conventional|JJ metrics|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN that|DT groupon|NN shares|NNS soared|VBD about|IN 31|CD on|IN their|PRP$ debut|NN day|NN </s>|S_END
+<s>|S_START but|CC the|DT gains|NNS didnt|VBP last|JJ long|JJ </s>|S_END
+<s>|S_START a|DT few|JJ weeks|NNS after|IN reporting|VBG its|PRP$ fourthquarter|NN financial|JJ results|NNS groupon|IN was|VBD forced|VBN to|TO revise|VB its|PRP$ quarterly|JJ income|NN and|CC sales|NNS lower|JJR thanks|NNS to|TO a|DT higher|JJR rate|NN of|IN customers|NNS asking|VBG for|IN refunds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN that|DT same|JJ statement|NN groupon|IN revealed|VBN that|IN its|PRP$ independent|JJ auditor|NN uttered|VBD the|DT dreaded|VBN phrase|NN material|NN weakness|NN </s>|S_END
+<s>|S_START ernst|IN youngs|NNS 2011|CD audit|NN report|NN found|VBD that|IN groupon|NN had|VBD a|DT deficiency|NN in|IN its|PRP$ financial|JJ statement|NN close|NN process|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START groupon|IN has|VBZ since|IN taken|VBN steps|NNS to|TO resolve|VB that|IN issue|NN and|CC last|JJ month|NN the|DT company|NN reported|VBD narrower|JJR losses|NNS and|CC better|JJR sales|NNS than|IN analysts|NNS had|VBD expected|VBN for|IN the|DT second|JJ quarter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX hasnt|NN been|VBN any|DT major|JJ news|NN specific|NN to|TO groupon|VB other|JJ than|IN the|DT lockup|NN expiration|NN to|TO explain|VB this|DT weeks|NNS selloff|IN </s>|S_END
+<s>|S_START but|CC several|JJ internet|NN companies|NNS have|VBP tumbled|VBN along|IN with|IN facebook|NN fb|NN </s>|S_END
+<s>|S_START since|IN the|DT social|JJ networks|NNS ipo|VBP two|CD weeks|NNS ago|IN facebook|NN shares|NNS are|VBP down|RB more|RBR than|IN 20|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START facebook|NN investors|NNS will|MD eventually|RB have|VB to|TO face|VB the|DT similar|JJ challenge|NN of|IN dealing|VBG with|IN a|DT lockup|NN expiration|NN </s>|S_END
+<s>|S_START but|CC facebooks|NNS lockup|VBP period|NN is|VBZ tiered|VBN </s>|S_END
+<s>|S_START while|IN many|JJ insiders|NNS will|MD be|VB able|JJ to|TO sell|VB shares|NNS after|IN three|CD months|NNS on|IN aug|NN 19|CD some|DT big|JJ investors|NNS are|VBP required|VBN to|TO hang|VB on|IN for|IN about|IN seven|CD months|NNS or|CC even|RB a|DT year|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

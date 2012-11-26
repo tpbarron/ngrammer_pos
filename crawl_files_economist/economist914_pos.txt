@@ -1,0 +1,95 @@
+<p>|P_START
+<s>|S_START where|WRB do|VBP the|DT world’s|NNP poor|NN live|VBP </s>|S_END
+<s>|S_START the|DT obvious|JJ answer|NN in|IN poor|JJ countrie|NN </s>|S_END
+<s>|S_START but|CC in|IN a|DT recent|JJ series|NN of|IN articles|NNS andy|VBP sumner|NN of|IN britain’s|JJ institute|NN of|IN development|NN studies|NNS showed|VBD that|IN the|DT obvious|JJ answer|NN is|VBZ wrong|JJ </s>|S_END
+<s>|S_START fourfifths|NNS of|IN those|DT surviving|VBG on|IN less|JJR than|IN $|$ 2|CD a|DT day|NN he|PRP found|VBD live|JJ in|IN middleincome|NN countries|NNS with|IN a|DT gross|NN national|JJ income|NN per|IN head|NN of|IN between|IN $|$ 1000|CD and|CC $|$ 12500|CD not|RB poor|JJ one|CD </s>|S_END
+<s>|S_START his|PRP$ finding|NN reflects|VBZ the|DT fact|NN that|IN a|DT long|JJ but|CC inequitable|JJ period|NN of|IN economic|JJ growth|NN has|VBZ lifted|VBN many|JJ developing|VBG countries|NNS into|IN middleincome|NN status|NN but|CC left|VBN a|DT minority|NN of|IN their|PRP$ populations|NNS mired|VBD in|IN poverty|NN </s>|S_END
+<s>|S_START ince|NN the|DT countries|NNS involved|VBD include|VBP giants|NNS like|IN china|NN and|CC india|NN even|RB a|DT minority|NN amounts|VBZ to|TO a|DT very|RB large|JJ number|NN of|IN people|NNS </s>|S_END
+<s>|S_START that|DT matters|NNS because|IN middleincome|NN countries|NNS can|MD afford|VB to|TO help|VB their|PRP$ own|JJ poor|NN </s>|S_END
+<s>|S_START if|IN most|JJS of|IN the|DT poverty|NN problem|NN lies|NNS within|IN their|PRP$ borders|NNS then|RB foreign|JJ aid|NN is|VBZ less|JJR relevant|JJ to|TO poverty|NN reduction|NN </s>|S_END
+<s>|S_START a|DT better|JJR way|NN to|TO help|VB would|MD be|VB to|TO make|VB middleincome|NN countries’|-NONE- domestic|JJ policies|NNS more|RBR “propoor”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START now|RB mr|VBP sumner’s|NNS argument|NN faces|NNS a|DT challenge|NN </s>|S_END
+<s>|S_START according|VBG to|TO homi|VB kharas|NNS of|IN the|DT brookings|NNS institution|NN and|CC andrew|VBD rogerson|NN of|IN britain’s|JJ overseas|JJ development|NN institute|NN “by|JJ 2025|CD most|JJS absolute|JJ poverty|NN will|MD once|RB again|RB be|VB concentrated|VBN in|IN lowincome|NN countries”|NN they|PRP argue|VBP that|IN as|IN middleincome|NN countries|NNS continue|VBP to|TO make|VB progress|NN against|IN poverty|NN its|PRP$ incidence|NN there|EX will|MD fall|VB </s>|S_END
+<s>|S_START however|RB the|DT number|NN of|IN poor|JJ people|NNS is|VBZ growing|VBG in|IN “fragile”|JJ states|NNS which|WDT the|DT authors|NNS define|VBP as|RB countries|NNS which|WDT can|MD not|RB meet|VB their|PRP$ populations’|JJ expectations|NNS or|CC manage|NN these|DT through|IN the|DT political|JJ process|NN sounds|NNS like|IN some|DT european|JJ nations|NNS too|RB </s>|S_END
+<s>|S_START the|DT pattern|NN that|IN mr|NN sumner|NN describes|VBZ they|PRP say|VBP is|VBZ a|DT passing|NN phase|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START messrs|NNS kharas|VBD and|CC rogerson|NN calculate|NN that|WDT the|DT number|NN of|IN poor|JJ in|IN “nonfragile”|NNP states|NNS has|VBZ fallen|VBN from|IN almost|RB 2|CD billion|CD in|IN 1990|CD to|TO around|IN 500m|CD now|RB they|PRP think|VBP it|PRP will|MD go|VB on|IN declining|VBG to|TO around|IN 200m|CD by|IN 2025|CD </s>|S_END
+<s>|S_START but|CC the|DT number|NN of|IN poor|JJ in|IN fragile|JJ states|NNS is|VBZ not|RB falling—a|JJ testament|NN both|DT to|TO the|DT growing|VBG number|NN of|IN poor|JJ unstable|JJ places|NNS and|CC to|TO their|PRP$ fast|JJ population|NN growth|NN </s>|S_END
+<s>|S_START this|DT total|NN has|VBZ stayed|VBN flat|JJ at|IN about|IN 500m|CD since|IN 1990|CD and|CC the|DT authors|NNS think|VBP will|MD barely|RB shift|VB until|IN 2025|CD </s>|S_END
+<s>|S_START as|IN early|JJ as|IN next|JJ year|NN the|DT number|NN of|IN poor|JJ in|IN what|WP are|VBP sometimes|RB called|VBN fracas|NNS fragile|IN and|CC conflictaffected|VBN states|NNS could|MD be|VB greater|JJR than|IN the|DT number|NN in|IN stable|JJ one|CD </s>|S_END
+<s>|S_START that|DT would|MD imply|RB something|NN different|JJ to|TO mr|VB sumner’s|JJ view|NN instead|RB of|IN being|VBG irrelevant|JJ to|TO poverty|NN reduction|NN foreign|JJ aid|NN will|MD continue|VB to|TO be|VB vital|JJ since|IN fragile|JJ states|NNS unlike|IN middleincome|NN ones|NNS can|MD not|RB afford|VB to|TO help|VB the|DT poor|JJ but|CC instead|RB need|VBP help|NN themselve|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START can|MD these|DT two|CD accounts|NNS be|VB squared|VBN </s>|S_END
+<s>|S_START it|PRP is|VBZ worth|JJ noting|NN that|WDT there|EX is|VBZ a|DT group|NN of|IN countries|NNS that|IN are|VBP both|DT middleincome|NN and|CC fragile|JJ </s>|S_END
+<s>|S_START this|DT group|NN sometimes|RB called|VBN miffs|NNS middleincome|VBP fragile|JJ or|CC failed|VBN states|NNS includes|VBZ iraq|NN nigeria|NN pakistan|NN and|CC yemen—all|JJ large|JJ populous|JJ place|NN </s>|S_END
+<s>|S_START in|IN 2011|CD geoffrey|NN gertz|NN and|CC laurence|NN chandy|NN also|RB of|IN brookings|NNS calculated|VBN that|IN almost|RB a|DT fifth|JJ of|IN people|NNS living|VBG on|IN less|JJR than|IN $|$ 125|CD a|DT day|NN are|VBP citizens|NNS of|IN miff|NN </s>|S_END
+<s>|S_START o|NN there|EX are|VBP almost|RB 200m|JJ poor|NN people|NNS in|IN middleincome|NN and|CC fragile|JJ states|NNS who|WP appear|RB in|IN the|DT accounts|NNS of|IN both|DT mr|NN sumner|NN and|CC messrs|NNS kharas|NNS and|CC rogerson|NN </s>|S_END
+<s>|S_START because|IN of|IN this|DT overlap|NN it|PRP is|VBZ possible|JJ to|TO argue|VB both|DT have|VB a|DT point|NN and|CC are|VBP just|RB using|VBG different|JJ label|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ another|DT explanation|NN for|IN the|DT differences|NNS between|IN them|PRP mr|VBP sumner|NN is|VBZ describing|VBG the|DT presentday|NN situation|NN and|CC messrs|NNS kharas|NNS and|CC rogerson|NN are|VBP forecasting|VBG what|WP might|MD happen|VB in|IN 2025|CD </s>|S_END
+<s>|S_START the|DT trouble|NN is|VBZ that|IN mr|NN sumner|NN has|VBZ also|RB produced|VBN forecasts|NNS in|IN his|PRP$ case|NN for|IN 2020|CD and|CC 2030|CD and|CC they|PRP are|VBP strikingly|RB different|JJ </s>|S_END
+<s>|S_START he|PRP agrees|VBZ with|IN messrs|NNS kharas|NNS and|CC rogerson|NN that|IN as|IN middleincome|NN countries|NNS take|VBP more|JJR people|NNS out|IN of|IN poverty|NN the|DT proportion|NN of|IN poor|JJ people|NNS who|WP live|JJ in|IN poor|JJ countries|NNS must|MD rise|VB </s>|S_END
+<s>|S_START but|CC this|DT increase|NN is|VBZ much|RB less|JJR on|IN his|PRP$ calculations|NNS than|IN on|IN their|PRP$ </s>|S_END
+<s>|S_START mr|NN sumner|NN estimates|NNS that|WDT by|IN 2020|CD the|DT share|NN of|IN the|DT world’s|JJ poor|NN in|IN today’s|NNP poor|NN countries|NNS will|MD increase|VB only|RB from|IN 20|CD to|TO 40|CD even|RB by|IN 2030|CD there|EX would|MD still|RB be|VB roughly|RB equal|JJ shares|NNS of|IN the|DT poor|JJ in|IN today’s|NNP poor|NN and|CC middleincome|NN countrie|NN </s>|S_END
+<s>|S_START given|VBN that|IN some|DT of|IN today’s|NNP poor|NN countries|NNS will|MD be|VB middleincome|VBN ones|NNS by|IN 2030|CD he|PRP reckons|VBZ it|PRP is|VBZ possible|JJ that|IN only|RB a|DT third|JJ of|IN all|DT the|DT world’s|JJ poor|NN will|MD be|VB in|IN countries|NNS called|VBN lowincome|NN then|RB </s>|S_END
+<s>|S_START in|IN contrast|NN messrs|NNS kharas|NNS and|CC rogerson|NN think|NN the|DT majority|NN of|IN the|DT poor|JJ will|MD be|VB in|IN fragile|JJ states|NNS in|IN 2025|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT gap|NN between|IN the|DT forecasts|NNS also|RB reflects|VBZ differences|NNS in|IN assumption|NN </s>|S_END
+<s>|S_START ome|NN of|IN these|DT differences|NNS invite|VBP caution|NN </s>|S_END
+<s>|S_START the|DT calculations|NNS by|IN messrs|NNS kharas|IN and|CC rogerson|NN using|VBG imf|NN data|NNS seem|VBP to|TO imply|RB there|RB will|MD be|VB hardly|RB any|DT poor|JJ people|NNS left|VBN in|IN india|NN and|CC indonesia|NN in|IN a|DT few|JJ years|NNS which|WDT seems|VBZ unlikely|RB </s>|S_END
+<s>|S_START using|VBG different|JJ assumptions|NNS mr|VBP sumner|NN forecasts|NNS that|WDT by|IN 2030|CD the|DT number|NN of|IN people|NNS in|IN poverty|NN could|MD fall|VB by|IN anywhere|RB between|IN 600m|CD and|CC 16|CD billion|CD an|DT enormous|JJ margin|NN of|IN error|NN </s>|S_END
+<s>|S_START “any|JJ estimate|NN of|IN 2030|CD poverty|NN including|VBG ours|NNS depends|NNS hugely|RB on|IN growth|NN estimates|NNS for|IN a|DT few|JJ big|JJ countries…so|NN i’d|JJ take|NN all|DT of|IN them|PRP with|IN oceans|NNS of|IN salt”|JJ warns|NNS one|CD of|IN mr|NN sumner’s|NNS coauthors|NNS charles|NNS kenny|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START income|NN or|CC politic|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT said|VBD the|DT two|CD accounts|NNS do|VBP reflect|JJ different|JJ and|CC important|JJ ways|NNS of|IN thinking|VBG about|IN poverty|NN </s>|S_END
+<s>|S_START one|CD mr|NN sumner’s|NNS focuses|NNS on|IN income|NN and|CC says|VBZ the|DT big|JJ dividing|NN line|NN lies|NNS between|IN poor|JJ and|CC middleincome|NN countrie|NN </s>|S_END
+<s>|S_START the|DT other|JJ associated|VBN with|IN messrs|NNS kharas|NNS and|CC rogerson|NN focuses|NNS more|RBR on|IN politics|NNS its|PRP$ dividing|NN line|NN is|VBZ between|IN fragile|JJ and|CC stable|JJ countrie|NN </s>|S_END
+<s>|S_START if|IN messrs|NNS kharas|VBP and|CC rogerson|NN are|VBP right|RB aid|VBN donors|NNS need|VBP to|TO concentrate|VB on|IN governance|NN and|CC try|NN to|TO move|VB countries|NNS from|IN the|DT fragile|JJ to|TO the|DT stable|NN category—a|NN daunting|VBG task|NN </s>|S_END
+<s>|S_START if|IN mr|PRP$ sumner|NN is|VBZ right|RB the|DT role|NN of|IN donors|NNS should|MD probably|RB be|VB to|TO work|VB with|IN local|JJ governments|NNS in|IN middleincome|NN countries|NNS to|TO ensure|VB benefits|NNS from|IN public|JJ spending|NN are|VBP equitably|RB distributed|VBN to|TO the|DT poorest|JJS wherever|NN they|PRP may|MD live|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ource|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START where|WRB will|MD the|DT world’s|NNP poor|NN live|VBP </s>|S_END
+<s>|S_START global|JJ poverty|NN projections|NNS for|IN 2020|CD and|CC 2030 institute|JJ of|IN development|NN studie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START where|WRB do|VBP the|DT world’s|NNP poor|NN live|VBP </s>|S_END
+<s>|S_START a|DT new|JJ update|NN </s>|S_END
+<s>|S_START by|IN andrew|NN sumner institute|JJ of|IN development|NN studie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START horizon|NN 2025|CD </s>|S_END
+<s>|S_START by|IN homi|NN kharas|NNS and|CC andrew|VB rogerson|NN </s>|S_END
+<s>|S_START overseas|RB development|VBD institute|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogsfreeexchange|NN </s>|S_END
+</p>|P_END
+

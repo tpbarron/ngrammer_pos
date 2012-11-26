@@ -1,0 +1,44 @@
+<p>|P_START
+<s>|S_START the|DT richard|NN burton|NN diarie|NN </s>|S_END
+<s>|S_START edited|VBD by|IN chris|NN william|NN </s>|S_END
+<s>|S_START yale|NN university|NN press|NN 400|CD pages|NNS $|$ 35|CD and|CC £25|CD </s>|S_END
+<s>|S_START buy|NN from|IN amazoncom|NN amazoncouk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START richard|NN burton’s|NNS diaries|NNS published|VBD in|IN full|JJ for|IN the|DT first|JJ time|NN 28|CD years|NNS after|IN his|PRP$ death|NN show|NN a|DT man|NN who|WP was|VBD far|RB more|RBR than|IN an|DT actor|NN obsessed|VBN and|CC twice|NN married|VBD to|TO an|DT oscarwinning|NN hollywood|NN icon|NN </s>|S_END
+<s>|S_START what|WP the|DT diaries|NNS contain|VBP is|VBZ neatly|RB summed|VBN up|RP by|IN his|PRP$ editor|NN chris|VBZ williams|NNS a|DT welsh|JJ academic|JJ “the|JJ melancholic|JJ afflicted|JJ troubled|JJ and|CC introspective|JJ burton|NN struggling|VBG to|TO come|VB to|TO terms|NNS with|IN the|DT missed|VBN opportunities|NNS and|CC unfulfilled|VBD potential|JJ of|IN his|PRP$ life|NN and|CC talent…justly|RB proud|VBD of|IN his|PRP$ achievements|NNS of|IN his|PRP$ journey|NN in|IN life|NN hungry|NN to|TO scale|VB greater|JJR heights…watching|JJ his|PRP$ weight|NN watching|VBG his|PRP$ drinking|NN watching|VBG other|JJ men|NNS watching|VBG his|PRP$ elizabeth|NN </s>|S_END
+<s>|S_START we|PRP have|VBP a|DT richard|NN burton|NN who|WP reads|NNS who|WP thinks|NNS who|WP longs|NNS to|TO write…”|NNP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START born|NN richard|VBD jenkins|NNS in|IN a|DT glamorgan|NN mining|NN valley|NN the|DT sixth|JJ son|NN of|IN a|DT collier|JJR he|PRP was|VBD brought|VBN up|RP from|IN the|DT age|NN of|IN two|CD by|IN a|DT sister|NN 20|CD years|NNS his|PRP$ senior|JJ after|IN his|PRP$ mother|NN died|VBD </s>|S_END
+<s>|S_START in|IN his|PRP$ teens|NNS his|PRP$ academic|JJ prowess|NN attracted|VBD the|DT attention|NN of|IN an|DT english|JJ teacher|NN named|VBD philip|NN burton|NN </s>|S_END
+<s>|S_START legal|JJ guardianship|NN followed|VBD and|CC at|IN 18|CD richard|NN jenkins|NNS became|VBD richard|NN burton|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START his|PRP$ teenage|NN diaries|NNS mostly|RB record|VB daily|JJ doings|NNS had|VBD a|DT bath|NN had|VBD a|DT haircut|NN saw|NN a|DT film|NN </s>|S_END
+<s>|S_START diary|JJ writing|NN properly|RB gets|VBZ going|VBG in|IN mid1965|NNP </s>|S_END
+<s>|S_START aged|VBD 40|CD he|PRP marries|VBZ elizabeth|NN taylor|NN after|IN a|DT public|JJ romance|NN that|IN began|VBD in|IN rome|NN on|IN the|DT set|NN of|IN “cleopatra”|NN </s>|S_END
+<s>|S_START he|PRP learns|VBZ to|TO hate|VB the|DT paparazzi|NN especially|RB the|DT english|NNS </s>|S_END
+<s>|S_START “they’re|JJ so|IN smirky|JJ and|CC sneaky|JJ and|CC smug|NN and|CC provincial|JJ </s>|S_END
+<s>|S_START they|PRP are|VBP not|RB honestly|RB scandalous|JJ with|IN the|DT awful|JJ dirty|NN pornographic|JJ glee|NN of|IN the|DT italian|JJ </s>|S_END
+<s>|S_START they|PRP are|VBP merely|RB snide”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START burton’s|NNS voracious|JJ intellectual|JJ interests|NNS are|VBP a|DT revelation|NN </s>|S_END
+<s>|S_START discovering|VBG proust|RB he|PRP vows|VBZ to|TO read|VB the|DT original|JJ french|NN alongside|NN scott|NN moncrieff’s|NNS translation|NN </s>|S_END
+<s>|S_START when|WRB taylor|NN is|VBZ sick|NN he|PRP alternates|VBZ detective|JJ stories|NNS with|IN michael|NN holroyd’s|NNS life|NN of|IN lytton|NN strachey—“what|JJ a|DT vile|JJ cruel|NN selfcentred|VBD man”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB pablo|NN neruda|NN wins|VBZ the|DT nobel|NN prize|NN in|IN literature|NN in|IN 1971|CD he|PRP admits|VBZ to|TO his|PRP$ ignorance|NN of|IN the|DT man|NN confessing|VBG that|IN he|PRP “never|RB really|RB understands|VBZ the|DT poetry|NN of|IN another|DT language”|NN </s>|S_END
+<s>|S_START this|DT gets|NNS him|PRP musing|VBG on|IN the|DT nobel|NN and|CC its|PRP$ “hilarious|JJ awards”|NN not|RB least|JJS its|PRP$ peace|NN prize|NN to|TO churchill|VB </s>|S_END
+<s>|S_START “never|JJ has|VBZ a|DT politician|JJ despite|IN his|PRP$ outraged|JJ protestations|NNS loved|VBD war|NN as|IN much|JJ as|IN the|DT old|JJ man”|NN burton|NN like|IN many|JJ people|NNS mistakenly|RB believed|VBD that|IN churchill|NN won|VBD the|DT peace|NN prize|NN </s>|S_END
+<s>|S_START in|IN fact|NN he|PRP was|VBD awarded|VBN the|DT nobel|NN prize|NN in|IN literature|NN in|IN 1953|CD </s>|S_END
+<s>|S_START burton|NN died|VBD at|IN 59|CD leaving|VBG only|RB these|DT diaries|NNS to|TO show|VB his|PRP$ undoubted|VBN talent|NN for|IN writing|NN </s>|S_END
+<s>|S_START the|DT loss|NN is|VBZ all|DT the|DT reader’|NNP </s>|S_END
+</p>|P_END
+

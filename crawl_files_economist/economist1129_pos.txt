@@ -1,0 +1,17 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 31|CD gdp|NN $|$ 1100bn|CD ppp|CD $|$ 2035bn|CD inflation|NN 38|CD population|NN 1150m|CD gdp|NN per|IN head|NN $|$ 9570|CD ppp|CD $|$ 17700|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT partido|NN revolucionario|NN institucional|JJ pri|NN ran|VBD the|DT country|NN for|IN 71|CD years|NNS before|IN voters|NNS ejected|VBN it|PRP in|IN 2000|CD </s>|S_END
+<s>|S_START in|IN july|RB tired|VBN of|IN economic|JJ uncertainty|NN and|CC unchecked|VBD drugs|NNS violence|NN the|DT voters|NNS will|MD probably|RB bring|VB the|DT pri|NN back|RB see|VB 2012|CD in|IN person|NN enrique|NN peña|NN nieto|NN </s>|S_END
+<s>|S_START lawmaking|VBG will|MD stagnate|VB until|IN after|IN the|DT vote|NN and|CC thereafter|NN the|DT outgoing|NN partido|NN acción|NN nacional|JJ may|MD block|VB the|DT reforms|NNS it|PRP drafted|VBD in|IN government|NN </s>|S_END
+<s>|S_START a|DT muchneeded|VBN revamp|NN of|IN the|DT countrys|NNS labour|PRP$ laws|NNS energy|NN market|NN and|CC administrative|JJ system|NN will|MD have|VB to|TO wait|VB another|DT year|NN </s>|S_END
+<s>|S_START mexico|NN meanwhile|RB will|MD deepen|VB its|PRP$ cooperation|NN with|IN the|DT us|PRP in|IN fighting|VBG drugs|NNS crime|NN on|IN both|DT sides|NNS of|IN the|DT border|NN with|IN more|JJR us|PRP intelligence|VBP agents|NNS and|CC police|NN officials|NNS operating|VBG inside|NN mexico|NN though|IN quietly|RB and|CC with|IN little|JJ fanfare|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB salad|JJ day|NN </s>|S_END
+<s>|S_START oaxacas|NNS radish|VBP night|NN held|VBN in|IN december|NN brings|NNS vegetable|JJ carvers|NNS from|IN all|DT over|IN mexico|NN to|TO compete|VB in|IN the|DT state|NN capitals|NNS central|JJ square|NN </s>|S_END
+</p>|P_END
+

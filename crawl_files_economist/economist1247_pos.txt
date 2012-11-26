@@ -1,0 +1,11 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 63|CD gdp|NN $|$ 122bn|CD ppp|CD $|$ 288bn|CD inflation|NN 82|CD population|NN 1691m|CD gdp|NN per|IN head|NN $|$ 720|CD ppp|CD $|$ 1710|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT awami|NN league|NN holds|NNS a|DT commanding|VBG parliamentary|JJ majority|NN and|CC can|MD legislate|VB at|IN will|MD </s>|S_END
+<s>|S_START the|DT opposition|NN bangladesh|NN nationalist|NN party|NN wont|NN even|RB occupy|JJ its|PRP$ seats|NNS but|CC will|MD take|VB to|TO the|DT streets|NNS to|TO oppose|VB changes|NNS that|WDT have|VBP a|DT whiff|NN of|IN dynastybuilding|VBG </s>|S_END
+<s>|S_START fencemending|VBG with|IN india|NNS will|MD continue|VB boosting|VBG trade|NN and|CC exploiting|VBG bangladeshs|NNS status|NN as|IN a|DT corridor|NN between|IN indias|NNS heartland|VBP and|CC its|PRP$ eastern|NN reache|NN </s>|S_END
+<s>|S_START the|DT budget|NN gap|NN will|MD be|VB stretched|VBN to|TO fund|VB supplyside|NN reform|NN </s>|S_END
+</p>|P_END
+

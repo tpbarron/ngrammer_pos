@@ -1,0 +1,110 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN im|NN 67|CD years|NNS old|JJ retired|JJ and|CC have|VBP $|$ 600000|CD in|IN investments|NNS </s>|S_END
+<s>|S_START will|MD this|DT be|VB enough|RB if|IN i|PRP live|VBP to|TO age|NN 95|CD </s>|S_END
+<s>|S_START judy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ impossible|JJ to|TO give|VB a|DT yes|NNS or|CC no|DT answer|NN to|TO your|PRP$ question|NN because|IN the|DT length|NN of|IN time|NN your|PRP$ nest|NN egg|NN will|MD last|VB depends|NNS on|IN several|JJ factors|NNS including|VBG how|WRB much|JJ you|PRP withdraw|VBP each|DT year|NN how|WRB you|PRP invest|VBP and|CC how|WRB sure|JJ you|PRP are|VBP that|IN you|PRP can|MD count|VB on|IN those|DT withdrawals|NNS in|IN the|DT future|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT few|JJ online|NN tools|NNS can|MD give|VB you|PRP a|DT sense|NN of|IN the|DT tradeoffs|NNS involved|VBD </s>|S_END
+<s>|S_START you|PRP can|MD then|RB come|VB up|RP with|IN a|DT plan|NN for|IN getting|VBG a|DT reasonable|JJ amount|NN of|IN income|NN from|IN your|PRP$ investments|NNS without|IN too|RB high|JJ a|DT risk|NN of|IN running|VBG through|IN your|PRP$ money|NN too|RB soon|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD tool|NN is|VBZ vanguards|NNS retirement|NN nest|NN egg|NN calculator|NN </s>|S_END
+<s>|S_START even|RB though|IN this|DT tool|NN uses|VBZ a|DT sophisticated|JJ forecasting|NN technique|NN know|VB as|IN monte|JJ carlo|NN simulation|NN its|PRP$ simple|NN to|TO use|VB and|CC interpret|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START begin|NN by|IN dragging|NN the|DT first|JJ of|IN the|DT tools|NNS three|CD sliders|NNS to|TO specify|VB how|WRB long|JJ you|PRP want|VBP your|PRP$ portfolio|NN to|TO last|JJ </s>|S_END
+<s>|S_START given|VBN todays|NNS long|RB lifespans|VBZ you|PRP want|VBP to|TO be|VB careful|JJ not|RB to|TO enter|VB too|RB short|JJ a|DT period|NN </s>|S_END
+<s>|S_START your|PRP$ assumption|NN of|IN age|NN 95|CD or|CC 28|CD more|JJR years|NNS seems|VBZ sound|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START next|JJ move|NN the|DT second|JJ slider|NN to|TO indicate|VB the|DT current|JJ size|NN of|IN your|PRP$ retirement|NN portfolio|NN $|$ 600000|CD in|IN your|PRP$ case|NN </s>|S_END
+<s>|S_START then|RB drag|VBP the|DT third|JJ slider|NN to|TO show|VB how|WRB much|RB inflationadjusted|VBN annual|JJ income|NN youd|NN like|IN </s>|S_END
+<s>|S_START you|PRP didnt|VBD mention|NN a|DT figure|NN but|CC lets|NNS assume|VBP $|$ 30000|CD a|DT year|NN adjusted|VBN for|IN inflation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START once|RB youve|VBP done|VBN that|IN go|IN to|TO the|DT portfolio|NN pie|NN chart|NN at|IN the|DT top|JJ of|IN the|DT page|NN and|CC enter|NN how|WRB you|PRP want|VBP to|TO divvy|VB up|RP your|PRP$ retirement|NN investments|NNS </s>|S_END
+<s>|S_START id|VBD start|VBN with|IN a|DT moderate|JJ mix|NN of|IN 50|CD stocks50|CD bonds|NNS </s>|S_END
+<s>|S_START click|NN run|VBN simulation|NN and|CC voila|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START youll|NN get|VBD an|DT estimate|NN of|IN the|DT probability|NN your|PRP$ nest|NN egg|NN supporting|VBG you|PRP for|IN 28|CD years|NNS given|VBN the|DT withdrawals|NNS and|CC investment|NN strategy|NN youve|NN chosen|NN or|CC a|DT 77|CD chance|NN in|IN this|DT case|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START youll|NN also|RB see|VB a|DT graph|NN showing|VBG a|DT range|NN of|IN possible|JJ portfolio|NN balances|NNS year|NN by|IN year|NN over|IN that|DT 28year|JJ span|NN forecasting|VBG what|WP your|PRP$ portfolios|NNS value|NN might|MD be|VB in|IN good|JJ and|CC bad|JJ markets|NNS </s>|S_END
+<s>|S_START click|NN on|IN that|DT graph|NN and|CC it|PRP shows|VBZ how|WRB rapidly|RB the|DT odds|NNS of|IN your|PRP$ nest|NN egg|NN lasting|VBG tail|NN off|IN in|IN the|DT later|JJ years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START you|PRP can|MD run|VB several|JJ scenarios|NNS with|IN different|JJ assumptions|NNS to|TO see|VB how|WRB you|PRP might|MD improve|VB the|DT chances|NNS of|IN your|PRP$ savings|NNS lasting|VBG as|IN long|RB as|IN youd|NN like|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START say|VBP youd|VBN prefer|NN more|RBR assurance|NN than|IN a|DT 77|CD probability|NN </s>|S_END
+<s>|S_START what|WP moves|NNS might|MD you|PRP make|VB to|TO boost|VB it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ people|NNS shift|NN their|PRP$ portfolio|NN toward|IN stocks|NNS figuring|VBG that|IN higher|JJR potential|JJ returns|NNS will|MD increase|VB the|DT longevity|NN of|IN their|PRP$ portfolio|NN </s>|S_END
+<s>|S_START but|CC if|IN you|PRP try|VBP that|IN youll|JJ see|NN that|IN investing|NN more|JJR aggressively|RB wont|JJ boost|NN the|DT probability|NN very|RB much|RB and|CC may|MD even|RB lower|JJR it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN example|NN the|DT chances|NNS of|IN your|PRP$ money|NN lasting|VBG 28|CD years|NNS increases|NNS only|RB to|TO 78|CD basically|RB a|DT wash|NN if|IN you|PRP move|VBP to|TO a|DT blend|NN of|IN 60|CD stocks|NNS 40|CD bonds|NNS </s>|S_END
+<s>|S_START going|VBG to|TO a|DT 100|CD stock|NN portfolio|NN would|MD actually|RB reduce|VB the|DT probability|NN to|TO 75|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB though|IN a|DT bigger|JJR stock|NN stake|NN increases|NNS your|PRP$ potential|NN longterm|NN return|NN it|PRP also|RB means|VBZ bigger|JJR swings|NNS in|IN the|DT value|NN of|IN your|PRP$ nest|NN egg|NN </s>|S_END
+<s>|S_START so|IN while|IN stocks|NNS do|VBP have|VBP big|JJ upside|NN potential|NN they|PRP also|RB have|VBP more|JJR downside|JJ potential|JJ namely|RB you|PRP could|MD run|VB out|RP of|IN money|NN more|JJR quickly|RB if|IN stocks|NNS perform|VBP poorly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT more|RBR effective|JJ way|NN to|TO increase|VB the|DT odds|NNS of|IN your|PRP$ money|NN lasting|VBG longer|JJR is|VBZ to|TO cut|VB back|RB on|IN withdrawals|NNS </s>|S_END
+<s>|S_START for|IN example|NN if|IN you|PRP move|VBP the|DT spending|NN slider|NN from|IN $|$ 30000|CD back|RB to|TO $|$ 25000|CD the|DT probability|NN of|IN your|PRP$ nest|NN egg|NN making|VBG it|PRP 28|CD years|NNS soars|NNS from|IN 77|CD to|TO 91|CD a|DT much|JJ higher|JJR level|NN of|IN comfort|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT advantage|NN to|TO paring|NN withdrawals|NNS you|PRP can|MD maintain|VB a|DT high|JJ level|NN of|IN assurance|NN that|IN your|PRP$ money|NN will|MD last|VB even|RB with|IN a|DT very|RB conservative|JJ investing|NN strategy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN example|NN with|IN annual|JJ withdrawals|NNS of|IN $|$ 30000|CD a|DT portfolio|NN with|IN just|RB 20|CD stocks|NNS and|CC 80|CD bonds|NNS has|VBZ only|RB a|DT 66|CD chance|NN of|IN lasting|VBG 28|CD years|NNS </s>|S_END
+<s>|S_START reduce|NN withdrawals|NNS to|TO $|$ 25000|CD however|RB and|CC the|DT figure|NN for|IN the|DT same|JJ 2080|CD portfolio|NN rises|NNS to|TO 89|CD </s>|S_END
+<s>|S_START whats|NNS more|JJR the|DT value|NN of|IN the|DT less|JJR stockheavy|NN wont|NN drop|NN anywhere|RB near|IN as|IN much|JJ during|IN market|NN downturns|NNS as|IN one|CD loaded|VBN up|RP with|IN equities|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START keep|VB in|IN mind|NN that|IN were|VBD talking|VBG forecasts|NNS here|RB not|RB guaranteed|VBN outcomes|NNS </s>|S_END
+<s>|S_START if|IN you|PRP really|RB want|VBP to|TO be|VB sure|JJ youll|NN still|RB have|VBP money|NN coming|VBG in|IN from|IN your|PRP$ savings|NNS at|IN 95|CD or|CC for|IN that|DT matter|NN even|RB beyond|IN that|IN age|NN then|RB you|PRP may|MD want|VB to|TO consider|VB putting|NN a|DT portion|NN of|IN your|PRP$ nest|NN egg|NN into|IN an|DT immediate|JJ annuity|NN a|DT type|NN of|IN investment|NN that|IN provides|VBZ income|NN for|IN life|NN regardless|NN of|IN whats|NNS going|VBG on|IN in|IN the|DT financial|JJ markets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whatever|NN withdrawal|NN strategy|NN you|PRP decide|VBP on|IN youll|JJ want|NN to|TO monitor|NN it|PRP regularly|RB and|CC stay|NN flexible|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT might|MD mean|VB reining|VBG in|IN withdrawals|NNS or|CC not|RB increasing|VBG them|PRP for|IN inflation|NN after|IN the|DT market|NN has|VBZ taken|VBN a|DT hit|NN so|IN you|PRP dont|VBP run|VBN through|IN your|PRP$ stash|NN too|RB soon|RB </s>|S_END
+<s>|S_START or|CC perhaps|RB increasing|VBG withdrawals|NNS if|IN investment|NN gains|NNS have|VBP swollen|VBN your|PRP$ portfolios|NNS value|NN so|IN you|PRP dont|VBP end|NN up|IN with|IN a|DT pile|JJ of|IN cash|NN late|JJ in|IN life|NN along|IN with|IN regrets|NNS you|PRP didnt|VBP spend|VBP more|JJR earlier|JJR in|IN retirement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN you|PRP take|VBP this|DT approach|NN starting|VBG with|IN a|DT sustainable|JJ withdrawal|NN amount|NN but|CC adjusting|VBG if|IN conditions|NNS demand|VBP you|PRP stand|VBP a|DT good|JJ chance|NN of|IN assuring|VBG that|IN your|PRP$ money|NN wont|NN give|VBP out|RP before|IN you|PRP do|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START do|VBP you|PRP know|VB a|DT money|NN hero|NN </s>|S_END
+<s>|S_START money|NN magazine|NN is|VBZ celebrating|VBG people|NNS both|DT famous|JJ and|CC unsung|JJ who|WP have|VBP done|VBN extraordinary|JJ work|NN to|TO improve|VB others|NNS financial|JJ wellbeing|NN </s>|S_END
+<s>|S_START send|NN an|DT email|NN to|TO nominate|VB your|PRP$ money|NN hero |-NONE- </s>|S_END
+</p>|P_END
+

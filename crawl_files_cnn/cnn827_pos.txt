@@ -1,0 +1,82 @@
+<p>|P_START
+<s>|S_START highlights|NNS for|IN facebooks|NNS third|JJ quarter|NN include|NN a|DT 26|CD yearly|JJ gain|NN in|IN monthly|JJ active|JJ users|NNS who|WP now|RB number|VBP just|RB over|IN 1|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN facebooks|NNS second|JJ earnings|NNS report|NN as|IN a|DT public|JJ company|NN came|VBD in|IN just|RB above|IN wall|JJ street|NN estimates|NNS but|CC that|IN was|VBD enough|RB for|IN investors|NNS to|TO give|VB shares|NNS a|DT nice|JJ boost|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT social|JJ network|NN late|JJ tuesday|NN reported|VBD sales|NNS of|IN nearly|RB $|$ 13|CD billion|CD for|IN its|PRP$ third|JJ quarter|NN up|IN 32|CD from|IN the|DT same|JJ period|NN last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START facebooks|NNS shares|NNS fell|VBD 3|CD just|RB after|IN the|DT announcement|NN but|CC quickly|RB boomeranged|VBD to|TO rise|VB more|JJR than|IN 21|CD in|IN early|JJ trading|NN wednesday|NN </s>|S_END
+<s>|S_START facebook|NN fb|NN needs|VBZ every|DT stock|NN boost|NN it|PRP can|MD get|VB its|PRP$ shares|NNS had|VBD lost|VBN half|NN their|PRP$ value|NN since|IN the|DT companys|NNS may|MD ipo|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START facebooks|NNS earnings|NNS for|IN the|DT quarter|NN were|VBD complicated|VBN by|IN a|DT hefty|JJ tax|NN bill|NN related|VBN to|TO the|DT companys|NNS equity|NN compensation|NN for|IN employees|NNS </s>|S_END
+<s>|S_START the|DT company|NN took|VBD a|DT $|$ 431|CD million|CD income|NN tax|NN provision|NN for|IN the|DT quarter|NN representing|VBG an|DT eyepopping|VBG 116|CD effective|JJ tax|NN rate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT tax|NN bill|NN pushed|VBD facebook|NN to|TO a|DT net|JJ loss|NN of|IN $|$ 59|CD million|CD compared|VBN with|IN a|DT gain|NN of|IN $|$ 227|CD million|CD in|IN the|DT yearago|NN quarter|NN </s>|S_END
+<s>|S_START stripping|VBG out|IN the|DT tax|NN bill|NN and|CC other|JJ equity|NN compensation|NN expenses|NNS facebook|VBP had|VBN net|JJ earnings|NNS of|IN $|$ 311|CD million|CD slightly|RB ahead|RB of|IN analysts|NNS expectations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN a|DT postearnings|NNS conference|NN call|NN with|IN analysts|NNS ceo|VBP mark|NN zuckerberg|NN struck|NN a|DT defensive|JJ tone|NN about|IN one|CD of|IN the|DT companys|NNS biggest|JJS problems|NNS its|PRP$ sluggish|JJ transition|NN to|TO mobile|VB </s>|S_END
+<s>|S_START the|DT site|NN wasnt|NN built|VBN with|IN mobile|JJ in|IN mind|NN it|PRP was|VBD created|VBN in|IN 2004|CD and|CC its|PRP$ first|JJ round|NN of|IN mobile|JJ apps|NNS were|VBD sluggish|JJ </s>|S_END
+<s>|S_START an|DT new|JJ ios|NNS app|VBP launched|VBN in|IN august|JJ but|CC facebook|NN still|RB isnt|JJ showing|NN mobile|NN users|NNS as|IN many|JJ ads|NNS as|IN it|PRP would|MD if|IN accessed|VBN on|IN a|DT desktop|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START zuckerberg|NN called|VBN the|DT mobile|JJ problem|NN overblown|NN saying|VBG our|PRP$ opportunity|NN on|IN mobile|JJ is|VBZ the|DT most|RBS misunderstood|NN aspect|NN of|IN facebook|NN today|NN </s>|S_END
+<s>|S_START he|PRP also|RB complained|VBD that|IN company|NN watchers|NNS were|VBD looking|VBG at|IN numbers|NNS from|IN earlier|JJR in|IN the|DT year|NN when|WRB we|PRP werent|VBP really|RB trying|VBG yet|RB on|IN mobile|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT total|NN of|IN 14|CD facebooks|NNS ad|NN revenue|NN came|VBD from|IN mobile|JJ in|IN the|DT third|JJ quarter|NN the|DT company|NN said|VBD </s>|S_END
+<s>|S_START its|PRP$ mobile|JJ customer|NN base|NN rose|VBD 61|CD from|IN last|JJ year|NN to|TO 604|CD million|CD active|JJ users|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START overall|JJ monthly|JJ active|JJ users|NNS grew|VBD 26|CD over|IN the|DT year|NN to|TO just|RB over|IN 1|CD billion|CD </s>|S_END
+<s>|S_START facebook|NN pulled|VBD in|IN $|$ 11|CD billion|CD serving|VBG ads|NNS to|TO those|DT users|NNS up|IN 36|CD from|IN last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START zuckerberg|NN and|CC cfo|NN sheryl|NN sandberg|NN spent|NN much|RB of|IN the|DT call|NN discussing|VBG advertising|NN and|CC other|JJ ways|NNS that|IN facebook|NN is|VBZ monetizing|VBG its|PRP$ everyday|NN users|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN september|NN it|PRP unveiled|VBD facebook|NN gifts|NNS a|DT feature|NN that|WDT lets|VBZ users|NNS send|VBP friends|NNS real|JJ physical|JJ goods|NNS </s>|S_END
+<s>|S_START sandberg|NN mentioned|VBD that|IN in|IN october|NN which|WDT isnt|NN part|NN of|IN the|DT quarter|NN facebook|NN is|VBZ currently|RB reporting|VBG it|PRP released|VBD a|DT promote|NN feature|NN to|TO a|DT small|JJ group|NN of|IN us|PRP users|NNS </s>|S_END
+<s>|S_START the|DT experimental|JJ program|NN lets|NNS facebookers|NNS pay|VBP a|DT fee|NN currently|RB around|IN $|$ 7|CD to|TO promote|VB important|JJ pictures|NNS or|CC announcements|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START zuckerberg|NN addressed|VBD another|DT worry|NN while|IN on|IN the|DT call|NN zynga|NN znga|NN the|DT game|NN maker|NN that|WDT accounts|VBZ for|IN a|DT significant|JJ portion|NN of|IN facebooks|NNS sales|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START earlier|JJR this|DT month|NN zynga|NN scaled|VBD back|RP its|PRP$ outlook|NN for|IN 2012|CD citing|VBG a|DT bunch|NN of|IN problems|NNS including|VBG reduced|VBN expectations|NNS for|IN certain|JJ games|NNS and|CC delays|NNS in|IN launching|VBG new|JJ titles|NNS </s>|S_END
+<s>|S_START tuesday|NN afternoon|NN during|IN facebooks|NNS earnings|NNS call|VBP zynga|NN announced|VBD plans|NNS to|TO cut|VB 5|CD of|IN its|PRP$ roughly|RB 3000|CD employees|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START problems|NNS for|IN zynga|NN means|VBZ problems|NNS for|IN facebook|NN </s>|S_END
+<s>|S_START zynga|NN accounted|VBD for|IN 14|CD of|IN facebooks|NNS revenue|VBP in|IN the|DT first|JJ six|CD months|NNS of|IN 2012|CD including|VBG payment|NN processing|NN fees|NNS direct|JJ advertising|NN and|CC outside|IN ads|NNS shown|VBP on|IN pages|NNS generated|VBN by|IN zynga|NN apps|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START payments|NNS revenue|VBP from|IN zynga|NN declined|VBD 20|CD in|IN the|DT latest|JJS quarter|NN compared|VBN to|TO last|JJ year|NN zuckerberg|IN said|VBN but|CC he|PRP shrugged|VBD it|PRP off|IN saying|VBG revenue|NN from|IN other|JJ games|NNS gained|VBD </s>|S_END
+<s>|S_START zynga|NN is|VBZ slated|VBN to|TO report|VB its|PRP$ earnings|NNS on|IN wednesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START also|RB of|IN concern|NN in|IN tuesdays|NNS report|NN its|PRP$ getting|NN more|JJR expensive|JJ for|IN facebook|NN to|TO do|VB business|NN </s>|S_END
+<s>|S_START excluding|VBG some|DT compensation|NN expenses|NNS facebooks|NNS operating|VBG margin|NN shrank|NN to|TO 42|CD down|IN from|IN from|IN 51|CD a|DT year|NN ago|IN </s>|S_END
+</p>|P_END
+

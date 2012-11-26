@@ -1,0 +1,15 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 82|CD gdp|NN $|$ 8130bn|CD ppp|CD $|$ 12327bn|CD inflation|NN 38|CD population|NN 1328m|CD gdp|NN per|IN head|NN $|$ 6120|CD ppp|CD $|$ 9280|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT countrys|NNS succession|NN machinery|NN will|MD lumber|VB into|IN motion|NN as|IN the|DT next|JJ generation|NN of|IN leaders|NNS is|VBZ presented|VBN at|IN the|DT chinese|JJ communist|NN party|NN congress|NN late|RB in|IN the|DT year|NN </s>|S_END
+<s>|S_START xi|NN jinping|VBG and|CC li|NN keqiang|NN are|VBP the|DT likely|JJ choices|NNS for|IN president|NN and|CC prime|VB minister|NN respectively|RB </s>|S_END
+<s>|S_START ocial|JJ gripes|NNS including|VBG rising|VBG unemployment|NN illegal|JJ evictions|NNS and|CC late|JJ payment|NN of|IN wages|NNS will|MD lead|VB to|TO more|JJR protests|NNS but|CC they|PRP will|MD not|RB coalesce|VB into|IN a|DT unified|JJ antigovernment|NN movement|NN and|CC there|EX remains|VBZ little|JJ appetite|NN for|IN a|DT shift|NN from|IN singleparty|NN rule|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB driving|VBG growth|NN </s>|S_END
+<s>|S_START in|IN a|DT reflection|NN of|IN chinas|NNS deepening|VBG consumer|NN market|NN a|DT number|NN of|IN global|JJ carmakers|NNS are|VBP planning|VBG to|TO set|VB up|RP production|NN facilities|NNS in|IN china|NN in|IN 2012|CD </s>|S_END
+</p>|P_END
+

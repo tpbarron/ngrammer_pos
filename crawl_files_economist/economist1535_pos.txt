@@ -1,0 +1,52 @@
+<p>|P_START
+<s>|S_START our|PRP$ big|JJ mac|NN index|NN is|VBZ back|RB </s>|S_END
+<s>|S_START normally|RB a|DT beefy|NN bundle|NN of|IN exchange|NN rate|NN fun|NN this|DT year|NN it|PRP is|VBZ marking|VBG a|DT sombre|NN anniversary|NN five|CD years|NNS since|IN global|JJ moneymarkets|NNS seized|VBD up|RP in|IN the|DT summer|NN of|IN 2007|CD </s>|S_END
+<s>|S_START what|WP does|VBZ burgernomics|NNS reveal|VBP about|IN today’s|NNS exchange|NN rates|NNS and|CC about|IN the|DT impact|NN that|IN five|CD years|NNS of|IN distress|NN from|IN credit|NN crunch|NN to|TO euro|VB crisis|NN have|VBP had|VBN on|IN currencie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT big|JJ mac|NN index|NN is|VBZ the|DT economist’s|JJ burgerbased|VBN measure|NN of|IN whether|IN currencies|NNS are|VBP over|IN or|CC undervalued|VBN </s>|S_END
+<s>|S_START the|DT recipe|NN comes|VBZ from|IN the|DT theory|NN of|IN purchasingpower|JJR parity|NN which|WDT says|VBZ that|IN exchange|NN rates|NNS should|MD eventually|RB adjust|VB to|TO make|VB the|DT price|NN of|IN a|DT basket|NN of|IN goods|NNS the|DT same|JJ in|IN each|DT country|NN </s>|S_END
+<s>|S_START our|PRP$ basket|NN contains|NNS just|RB one|CD item|NN the|DT big|JJ mac|NN hamburger|NN which|WDT is|VBZ pretty|RB much|RB the|DT same|JJ around|NN the|DT world|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT index|NN works|NNS by|IN calculating|VBG the|DT exchange|NN rate|NN that|WDT would|MD leave|VB a|DT big|JJ mac|NN costing|NN the|DT same|JJ in|IN each|DT country|NN </s>|S_END
+<s>|S_START take|VB the|DT rouble|JJ and|CC the|DT real|JJ the|DT currencies|NNS of|IN russia|NN and|CC brazil|NN respectively|RB </s>|S_END
+<s>|S_START at|IN current|JJ exchange|NN rates|NNS a|DT big|JJ mac|NN which|WDT sells|NNS for|IN $|$ 433|CD in|IN america|NN costs|NNS just|RB $|$ 229|CD 75|CD roubles|NNS in|IN russia|NN whereas|NNS in|IN brazil|NN it|PRP sells|VBZ for|IN a|DT sliver|NN under|IN $|$ 5|CD 10|CD reai|NN </s>|S_END
+<s>|S_START o|NN the|DT dollar|NN buys|VBZ a|DT lot|NN of|IN burger|NN in|IN russia|NN signalling|VBG that|IN the|DT rouble|JJ is|VBZ cheap|NN and|CC the|DT real|JJ rather|NN pricey|NN </s>|S_END
+<s>|S_START a|DT selection|NN of|IN other|JJ currencies|NNS is|VBZ included|VBN in|IN the|DT chart|NN the|DT full|JJ index|NN can|MD be|VB seen|VBN here|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN to|TO the|DT real|JJ several|JJ other|JJ currencies|NNS look|VBP dear|JJ according|VBG to|TO the|DT latest|JJS mcdata|NN </s>|S_END
+<s>|S_START a|DT group|NN of|IN rich|JJ european|JJ countries—none|NN of|IN them|PRP in|IN the|DT euro|NN zone—sit|NN near|IN the|DT top|JJ of|IN the|DT pile|NN </s>|S_END
+<s>|S_START at|IN the|DT other|JJ end|NN the|DT yen|NN the|DT pound|NN and|CC the|DT canadian|JJ dollar|NN all|DT look|NN cheap|NN </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ in|IN asia|NN that|IN you|PRP get|VBP the|DT most|RBS burger|JJ for|IN your|PRP$ buck|NN china|NN indonesia|NN and|CC hong|JJ kong|JJ are|VBP all|DT more|RBR than|IN 40|CD undervalued|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX have|VBP been|VBN some|DT big|JJ shifts|NNS in|IN fortune|NN since|IN the|DT first|JJ rumblings|NNS of|IN the|DT crisis|NN five|CD years|NNS ago|RB </s>|S_END
+<s>|S_START the|DT australian|JJ dollar|NN has|VBZ strengthened|VBN moving|VBG from|IN 14|CD undervalued|VBN to|TO 8|CD overvalued|VBN </s>|S_END
+<s>|S_START in|IN the|DT early|JJ part|NN of|IN the|DT crisis|NN australia’s|VBZ wellcapitalised|VBN banks|NNS proved|VBD remarkably|RB resilient|JJ more|RBR recently|RB the|DT currency|NN has|VBZ benefited|VBN from|IN a|DT spike|NN in|IN commodities|NNS prices|NNS see|VBP article|NN and|CC from|IN strong|JJ exports|NNS to|TO china|VB </s>|S_END
+<s>|S_START japan|NN and|CC brazil|NN also|RB have|VBP beefier|JJR currencies|NNS than|IN five|CD years|NNS ago|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START others|NNS have|VBP weakened|VBN </s>|S_END
+<s>|S_START the|DT british|JJ pound|NN is|VBZ a|DT shadow|NN of|IN its|PRP$ former|JJ self|NN since|IN 2007|CD it|PRP has|VBZ moved|VBN from|IN 18|CD overvalued|VBN to|TO 4|CD undervalued|VBN </s>|S_END
+<s>|S_START britain’s|NNS experience|VBP has|VBZ been|VBN the|DT opposite|JJ of|IN australia’s|JJ its|PRP$ financial|JJ industry|NN a|DT big|JJ chunk|NN of|IN the|DT overall|JJ economy|NN was|VBD at|IN the|DT heart|NN of|IN the|DT financial|JJ turmoil|NN the|DT pound|NN depreciated|VBD sharply|RB in|IN 2008|CD and|CC its|PRP$ biggest|NN export|NN market|NN the|DT euro|NN zone|NN is|VBZ in|IN a|DT dreadful|JJ me|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START being|VBG at|IN the|DT bottom|NN of|IN the|DT big|JJ mac|NN index|NN need|VBP not|RB be|VB all|RB bad|JJ though|IN </s>|S_END
+<s>|S_START a|DT cheap|NN currency|NN means|VBZ exports|NNS look|VBP attractive|JJ to|TO foreigner|NN </s>|S_END
+<s>|S_START lipping|VBG down|IN the|DT index|NN should|MD in|IN theory|NN boost|NN net|NN export|NN </s>|S_END
+<s>|S_START china|NN manages|NNS its|PRP$ currency|NN using|VBG exactly|RB this|DT logic|NN to|TO keep|VB the|DT yuan|NN cheap|NN and|CC demand|NN for|IN yuanpriced|VBN exports|NNS high|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START now|RB the|DT biggest|JJS exchange|NN rate|NN move|NN economists|NNS are|VBP hoping|VBG to|TO see|VB is|VBZ a|DT marked|VBN fall|NN in|IN the|DT value|NN of|IN the|DT euro|NN </s>|S_END
+<s>|S_START the|DT euro|NN zone|NN in|IN particular|JJ its|PRP$ sickly|JJ peripheral|JJ economies|NNS including|VBG spain|NN and|CC greece|NN craves|NNS a|DT calorific|JJ boost|NN from|IN the|DT currency|NN </s>|S_END
+</p>|P_END
+

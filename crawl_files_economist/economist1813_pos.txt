@@ -1,0 +1,43 @@
+<p>|P_START
+<s>|S_START a|DT robots|NNS hand|VBP is|VBZ one|CD of|IN the|DT most|RBS important|JJ parts|NNS of|IN its|PRP$ anatomy|NN </s>|S_END
+<s>|S_START indeed|RB it|PRP defines|VBZ the|DT machines|NNS capabilitie|VBP </s>|S_END
+<s>|S_START industrial|JJ robots|NNS that|WDT do|VBP repetitive|JJ tasks|NNS like|IN welding|VBG and|CC cutting|VBG are|VBP usually|RB singlehanded|VBN </s>|S_END
+<s>|S_START those|DT hands|NNS moreover|RB tend|VBP to|TO be|VB simple|JJ claws—as|JJ befits|NNS the|DT simplicity|NN of|IN their|PRP$ job|NN </s>|S_END
+<s>|S_START robots|NNS intended|VBD to|TO work|VB with|IN and|CC care|NN for|IN people|NNS however|RB will|MD need|VB more|RBR dexterity|NN </s>|S_END
+<s>|S_START they|PRP will|MD have|VB to|TO perform|VB a|DT wider|NN range|NN of|IN actions|NNS than|IN their|PRP$ industrial|JJ cousins|NNS and|CC do|VBP so|RB more|RBR delicately|RB </s>|S_END
+<s>|S_START people|NNS after|IN all|DT can|MD bruise|VB in|IN ways|NNS that|WDT metal|NN panels|VBZ can|MD not|RB </s>|S_END
+<s>|S_START as|IN nature|NN has|VBZ already|RB concluded|VBN two|CD hands|NNS with|IN fingers|NNS are|VBP better|RBR suited|VBN to|TO this|DT range|NN of|IN tasks|NNS than|IN is|VBZ a|DT single|JJ claw|NN </s>|S_END
+<s>|S_START but|CC hands|NNS with|IN fingers|NNS need|VBP more|JJR internal|JJ machinery|NN than|IN claws|NNS and|CC are|VBP thus|RB harder|JJR to|TO design|VB </s>|S_END
+<s>|S_START to|TO simplify|VB that|IN task|NN a|DT group|NN of|IN researchers|NNS from|IN germany|NN and|CC italy|RB working|VBG as|IN part|NN of|IN a|DT european|JJ robotics|NNS programme|VBP called|VBN dexmart|NN has|VBZ borrowed|VBN an|DT idea|NN from|IN ancient|JJ catapultmaker|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT most|RBS common|JJ way|NN of|IN moving|VBG a|DT robots|NNS hands|VBZ is|VBZ with|IN electric|JJ motor|NN </s>|S_END
+<s>|S_START but|CC packing|VBG in|IN the|DT score|NN or|CC so|RB of|IN these|DT one|CD for|IN each|DT joint|JJ that|IN are|VBP needed|VBN to|TO operate|VB a|DT complicated|JJ robotic|JJ hand|NN and|CC then|RB adding|VBG the|DT gears|NNS and|CC other|JJ components|NNS required|VBN to|TO translate|VB the|DT motors|NNS movements|NNS into|IN useful|JJ actions|NNS means|VBZ that|IN a|DT hand|NN can|MD quickly|RB end|VB up|RP too|RB large|JJ and|CC unwieldy|NN for|IN domestic|JJ use|NN </s>|S_END
+<s>|S_START ome|NN designers|NNS of|IN robots|NNS have|VBP tried|VBN to|TO get|VB around|IN this|DT by|IN adapting|NN another|DT of|IN natures|NNS designs|NNS and|CC operating|NN the|DT joints|NNS of|IN the|DT fingers|NNS and|CC wrist|NN using|VBG tendons|NNS pulled|VBD by|IN motors|NNS located|VBN in|IN the|DT robots|NNS forearm|NN where|WRB there|EX is|VBZ more|JJR space|NN for|IN them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT is|VBZ an|DT improvement|NN but|CC is|VBZ still|RB not|RB ideal|JJ </s>|S_END
+<s>|S_START which|WDT is|VBZ where|WRB the|DT dexmart|NN team|NN comes|VBZ in|IN </s>|S_END
+<s>|S_START instead|RB of|IN having|VBG large|JJ motors|NNS in|IN the|DT forearm|NN to|TO wind|VB the|DT tendons|NNS in|IN and|CC out|IN their|PRP$ design|NN uses|NNS smaller|JJR ones|NNS to|TO twist|VB the|DT tendon|NN </s>|S_END
+<s>|S_START as|IN anyone|NN who|WP came|VBD into|IN contact|NN with|IN roman|NN catapults|NNS 2000|CD years|NNS ago|RB would|MD have|VB known|VBN twisted|VBN fibres|NNS can|MD transmit|VB hugely|RB powerful|JJ force|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT groups|NNS experimental|VBP hand|NN does|VBZ not|RB throw|VB boulders|NNS but|CC it|PRP can|MD swiftly|RB grasp|VB and|CC lift|VB a|DT load|NN weighing|VBG five|CD kilograms|NNS using|VBG 24|CD small|JJ highspeed|NN motors|NNS to|TO twist|VB a|DT similar|JJ number|NN of|IN tendon|NN </s>|S_END
+<s>|S_START each|DT of|IN the|DT hands|NNS five|CD fingers|NNS is|VBZ operated|VBN by|IN four|CD separate|JJ tendons|NNS one|CD for|IN each|DT of|IN the|DT three|CD joints|NNS in|IN every|DT finger|NN and|CC the|DT other|JJ to|TO pull|VB the|DT finger|NN straight|NN </s>|S_END
+<s>|S_START the|DT remaining|VBG tendons|NNS articulate|VBP the|DT wrist|NN left|VBD and|CC right|RB and|CC up|RP and|CC down|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT hand|NN is|VBZ also|RB fitted|VBN with|IN sensor|NN </s>|S_END
+<s>|S_START those|DT on|IN the|DT motors|NNS measure|VBP the|DT pulling|VBG force|NN </s>|S_END
+<s>|S_START those|DT on|IN the|DT fingers|NNS monitor|NN the|DT pressure|NN being|VBG exerted|VBN </s>|S_END
+<s>|S_START the|DT finger|NN sensors|NNS measure|NN friction|NN too|RB according|VBG to|TO chris|NNS may|MD of|IN saarland|NN university|NN in|IN germany|NN one|CD of|IN the|DT teams|NNS engineer|NN </s>|S_END
+<s>|S_START this|DT means|VBZ that|IN if|IN something|NN which|WDT the|DT hand|NN is|VBZ lifting|VBG starts|NNS to|TO slip|VB it|PRP can|MD quickly|RB tighten|VB its|PRP$ grip—but|JJ only|RB by|IN the|DT appropriate|JJ amount|NN </s>|S_END
+<s>|S_START it|PRP can|MD thus|RB pick|VB up|RP an|DT egg|NN without|IN breaking|VBG it|PRP </s>|S_END
+<s>|S_START equally|RB it|PRP can|MD grasp|VB a|DT large|JJ bottle|NN of|IN water|NN firmly|RB enough|RB to|TO pour|PRP$ from|IN it|PRP </s>|S_END
+<s>|S_START whether|IN it|PRP will|MD be|VB able|JJ to|TO entertain|VB its|PRP$ human|JJ companions|NNS by|IN armwrestling|VBG them|PRP has|VBZ yet|RB to|TO be|VB determined|VBN </s>|S_END
+</p>|P_END
+

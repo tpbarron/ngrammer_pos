@@ -1,0 +1,113 @@
+<p>
+<s>ciscos asr 5500 mobile packet core will help make networks more intelligent and allow operators to charge differently for various types of content</s>
+</p>
+
+<p>
+<s>new york cnnmoney  by 2015 more people will access the internet from mobile devices than from conventional pcs</s>
+<s>a year later in 2016 19 billion devices and gizmos will be connected to the mobile internet  not just your smartphone and tablet but your washing machine cars and clothes will be connected too</s>
+</p>
+
+<p>
+<s>thats a giant problem for wireless carriers which are already struggling to keep up with surging data demand</s>
+<s>trying to innovate their way out of the crunch the industry is using new tools and tricks to optimize every bit of infrastructure</s>
+</p>
+
+<p>
+<s>cisco csco fortune 500 added a key piece to the puzzle on tuesday releasing a new tool that will let carriers sift through and prioritize the traffic flooding their networks</s>
+</p>
+
+<p>
+<s>it sounds pretty geeky  mobile packet core product launches dont inspire iphonelike frenzies  but this backend upgrade has some significant implications for everyday users</s>
+</p>
+
+<p>
+<s>the problem everyone has experienced the frustrating effects of wireless network congestion</s>
+<s>your video buffers forever a website takes minutes to launch or you cant get google maps to load when youre late to a meeting and dont know where to go</s>
+</p>
+
+<p>
+<s>much of that pain comes from the way that todays networks give more or less the same priority to all kinds of traffic</s>
+<s>ads running on angry birds are treated the same as a netflix nflx video  not a good thing if a bunch of ads on other peoples phones are causing your movie to stall</s>
+</p>
+
+<p>
+<s>the user experience would be noticeably better if the network were able to speed up streaming video at the expense of a slightly slower load time on an ad in a game</s>
+<s>the typical wireless network doesnt know how to do that</s>
+</p>
+
+<p>
+<s>the solution cisco thinks it has a fix with its new asr 5500 mobile packet core</s>
+<s>its a kind of gateway between the mobile network and the larger internet that gives networks the intelligence to handle different traffic differently</s>
+</p>
+
+<p>
+<s>verizon for instance could set different priorities for video services phone calls and apps  particularly during peak download hours  to ensure that all services run as smoothly as possible</s>
+<s>that way netflix or youtube videos might not get interrupted if verizon makes websites take a second longer to load</s>
+</p>
+
+<p>
+<s>verizon along with indian telecom bharti announced tuesday that it would be among the first to deploy the asr 5500</s>
+</p>
+
+<p>
+<s>the asr 5500 isnt the first intelligent mobile packet core juniper jnpr ericsson and a handful of startups have released similar products</s>
+</p>
+
+<p>
+<s>but cisco is the markets 800pound gorilla</s>
+<s>like apple it may not be the first to market but when it makes a move the rest of the industry typically follows suit</s>
+</p>
+
+<p>
+<s>where this is going if carriers can prioritize different types of traffic differently they can also charge different rates for them</s>
+</p>
+
+<p>
+<s>thats a major shift from how things run today  but its a slippery slope were already on</s>
+</p>
+
+<p>
+<s>cell phone companies like verizon vz fortune 500 and att t fortune 500 have instituted tiered pricing models making users pay for each gigabyte they consume</s>
+<s>that leads to a pretty lousy experience for people who watch a lot of videos which gobble up megabytes</s>
+</p>
+
+<p>
+<s>if netflix and googles goog fortune 500 youtube are the main culprits for network congestion why not charge differently for those services</s>
+</p>
+
+<p>
+<s>ciscos on board</s>
+<s>this technology gives operators the intelligence for optimizing and monetizing their networks said kelly ahuja head of ciscos mobile internet technology group</s>
+</p>
+
+<p>
+<s>its an idea att and verizon are quietly but actively floating around according to ken rehbehn an analyst at yankee group</s>
+</p>
+
+<p>
+<s>one hypothetical option might be to have netflix pay the cell phone companies for its customers usage</s>
+<s>verizon and att would then not count that traffic against their own customers monthly data allotments</s>
+</p>
+
+<p>
+<s>obviously thats not a plan that will thrill netflix  but if metered data plans put a damper on consumers enthusiasm for the video service netflix might decide to play ball</s>
+<s>it would probably also pass those added costs on to its customers through higher subscription fees</s>
+</p>
+
+<p>
+<s>this gets swampy fast</s>
+<s>for example verizon is working with redbox to develop a streaming video service that is widely expected to go headtohead with netflix</s>
+<s>verizon could score a clear competitive advantage by letting its customers stream videos from its own service without counting them against their monthly data cap</s>
+</p>
+
+<p>
+<s>verizon which is publicly backing the asr 5500 declined to talk about that aspect of the technology</s>
+<s>it stuck to a prepared statement blandly praising the new platform as an upgrade that will help serve our needs for scalability and agility</s>
+</p>
+
+<p>
+<s>intelligent networks are clearly the wave of the future weve already got more things connected to the internet than we have people on earth</s>
+<s>now get ready for the battle over how well pay for the data all those gadgets are consuming</s>
+<s> </s>
+</p>
+

@@ -1,0 +1,63 @@
+<p>|P_START
+<s>|S_START syracuse|NN university|NN identifies|NNS students|NNS who|WP are|VBP overborrowing|VBG from|IN private|JJ lenders|NNS gives|VBZ them|PRP direct|JJ grants|NNS for|IN future|JJ semesters|NNS averaging|VBG $|$ 5000|CD to|TO $|$ 7000|CD per|IN year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN in|IN an|DT effort|NN to|TO reduce|VB student|NN loan|NN default|NN rates|NNS some|DT colleges|NNS and|CC universities|NNS are|VBP launching|VBG programs|NNS to|TO improve|VB studentloan|NN literacy|NN and|CC in|IN a|DT few|JJ cases|NNS offer|VBP other|JJ kinds|NNS of|IN financial|JJ assistance|NN to|TO students|NNS so|RB they|PRP dont|VBP get|VB too|RB deep|VB into|IN debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ not|RB entirely|RB altruistic|JJ </s>|S_END
+<s>|S_START universities|NNS and|CC colleges|NNS are|VBP increasingly|RB being|VBG judged|VBN on|IN their|PRP$ average|NN loan|NN debt|NN and|CC default|NN rates|NNS and|CC stress|NN about|IN finances|NNS can|MD derail|VB students|NNS and|CC cause|VB them|PRP to|TO drop|VB out|RP at|IN a|DT time|NN when|WRB funding|NN of|IN public|JJ higher|JJR education|NN is|VBZ increasingly|RB tied|VBN to|TO success|NN at|IN producing|VBG graduates|NNS </s>|S_END
+<s>|S_START read|NN the|DT other|JJ reason|NN students|NNS are|VBP drowning|VBG in|IN debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START syracuse|NN university|NN for|IN instance|NN identifies|NNS students|NNS who|WP are|VBP overborrowing|VBG from|IN private|JJ lenders|NNS and|CC helps|NNS them|PRP stop|VB by|IN giving|NN them|PRP direct|JJ grants|NNS for|IN future|JJ semesters|NNS averaging|VBG $|$ 5000|CD to|TO $|$ 7000|CD per|IN year|NN </s>|S_END
+<s>|S_START called|VBN the|DT money|NN awareness|NN program|NN the|DT initiative|JJ has|VBZ reduced|VBN the|DT debt|NN of|IN some|DT 90|CD to|TO 100|CD sophomores|NNS juniors|NNS and|CC seniors|NNS per|IN year|NN by|IN an|DT average|JJ of|IN $|$ 21000|CD each|DT </s>|S_END
+<s>|S_START in|IN exchange|NN recipients|NNS are|VBP required|VBN to|TO attend|VB moneymanagement|NN courses|NNS once|RB every|DT semester|NN until|IN they|PRP graduate|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD the|DT other|JJ reason|NN grads|NNS are|VBP drowning|VBG in|IN debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START alvernia|NN university|NN a|DT catholic|JJ liberal|NN arts|NNS college|NN in|IN pennsylvania|NN where|WRB 86|CD of|IN undergraduates|NNS have|VBP some|DT type|NN of|IN loan|NN averaging|VBG about|IN $|$ 10000|CD requires|NNS that|WDT all|DT of|IN its|PRP$ incoming|NN students|NNS take|VBP an|DT hour|NN long|RB financial|JJ management|NN seminar|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START an|DT experimental|JJ program|NN called|VBN aid|NN like|IN a|DT paycheck|NN being|VBG tested|VBN on|IN lowincome|NN students|NNS at|IN community|NN colleges|NNS in|IN california|NN illinois|NNS and|CC other|JJ states|NNS parcels|NNS out|IN student|NN scholarship|NN and|CC grant|NN money|NN not|RB in|IN one|CD or|CC two|CD lump|NN sums|NNS each|DT semester|NN but|CC in|IN smaller|JJR portions|NNS every|DT two|CD weeks|NNS in|IN order|NN to|TO teach|VB recipients|NNS to|TO budget|VB and|CC manage|NN their|PRP$ money|NN better|JJR </s>|S_END
+<s>|S_START it|PRP may|MD be|VB expanded|VBN to|TO include|VB loans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN course|NN giving|VBG students|NNS money|NN so|IN they|PRP dont|VBP have|VBP to|TO take|VB out|RP loans|NNS in|IN the|DT first|JJ place|NN is|VBZ the|DT easiest|JJS way|NN to|TO slow|VB the|DT mounting|NN red|VBD ink|NN </s>|S_END
+<s>|S_START in|IN a|DT program|NN called|VBN opening|VBG doors|NNS which|WDT was|VBD launched|VBN in|IN 2003|CD louisiana|NNS offered|VBD $|$ 1000|CD performancebased|VBN scholarships|NNS to|TO students|NNS on|IN the|DT condition|NN that|IN they|PRP stay|VBP in|IN school|NN at|IN least|JJS half|NN time|NN and|CC maintain|VB a|DT gpa|NN of|IN 20|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START retention|NN and|CC the|DT number|NN of|IN credits|NNS students|NNS earned|VBD improved|VBN but|CC the|DT pilot|NN effort|NN was|VBD cut|VBN short|JJ by|IN hurricane|NN katrina|NN and|CC is|VBZ only|RB now|RB being|VBG tried|VBN again|RB with|IN support|NN from|IN the|DT bill|NN and|CC melinda|NN gates|NNS foundation|NN at|IN six|CD community|NN and|CC technical|JJ colleges|NNS in|IN california|NN louisiana|NNS new|JJ york|NN and|CC ohio|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB city|NN colleges|NNS of|IN chicago|NN is|VBZ attempting|VBG to|TO make|VB the|DT application|NN process|NN more|RBR meaningful|JJ by|IN requiring|NN students|NNS to|TO fill|VB out|RP separate|JJ forms|NNS before|IN they|PRP take|VBP out|RP loans|NNS rather|RB than|IN simply|RB checking|VBG off|IN a|DT box|NN on|IN one|CD financial|JJ aid|NN form|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD average|JJ student|NN loan|NN debt|NN nears|NNS $|$ 27000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT colleges|NNS also|RB require|VBP all|DT students|NNS to|TO attend|VB mandatory|NN collegesuccess|NN seminars|NNS that|WDT include|VBP financial|JJ advice|NN and|CC meetings|NNS with|IN counselors|NNS who|WP hand|NN over|IN what|WP might|MD be|VB the|DT most|JJS effective|JJ deterrent|NN to|TO financial|JJ risk|NN a|DT copy|NN of|IN the|DT applicants|NNS borrowing|VBG history|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN far|RB the|DT program|NN has|VBZ been|VBN a|DT success|NN </s>|S_END
+<s>|S_START fewer|JJR than|IN 100|CD of|IN city|NN colleges|NNS 120000|CD students|NNS now|RB take|VBP out|RP any|DT private|JJ loans|NNS and|CC the|DT average|JJ annual|JJ debt|NN from|IN any|DT source|NN is|VBZ just|RB $|$ 511|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT story|NN was|VBD produced|VBN by|IN the|DT hechinger|NN report|NN a|DT nonprofit|JJ nonpartisan|NN educationnews|NNS outlet|VBP based|VBN at|IN teachers|NNS college|VBP columbia|NN university|NN </s>|S_END
+</p>|P_END
+

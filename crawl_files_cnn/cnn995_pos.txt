@@ -1,0 +1,55 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN facebook|NN wants|VBZ you|PRP to|TO try|VB to|TO hack|VB into|IN its|PRP$ site|JJ and|CC if|IN you|PRP succeed|VBP it|PRP will|MD pay|VB you|PRP for|IN the|DT details|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START facebook|NN said|VBD this|DT week|NN that|IN that|DT it|PRP has|VBZ paid|VBN out|RP more|JJR than|IN $|$ 40000|CD under|IN its|PRP$ new|JJ bug|NN bounty|NN security|NN initiative|NN </s>|S_END
+<s>|S_START launched|VBD three|CD weeks|NNS ago|IN facebooks|NNS program|NN invites|NNS security|NN researchers|NNS both|DT the|DT professional|JJ kind|NN and|CC hacker|NN hobbyists|NNS to|TO send|VB it|PRP the|DT details|NNS of|IN any|DT facebook|NN vulnerabilities|NNS that|WDT they|PRP uncover|VBP </s>|S_END
+<s>|S_START if|IN the|DT report|NN checks|NNS out|IN facebook|NN will|MD pay|VB a|DT finders|NNS fee|NN of|IN at|IN least|JJS $|$ 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ willing|JJ to|TO go|VB higher|JJR for|IN extraimpressive|JJ bug|NN spotting|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START weve|NN already|RB paid|VBN a|DT $|$ 5000|CD bounty|NN for|IN one|CD really|RB good|JJ report|NN facebook|NN chief|NN security|NN officer|NN joe|NN sullivan|NN wrote|VBD in|IN a|DT blog|NN post|NN </s>|S_END
+<s>|S_START one|CD person|NN has|VBZ already|RB received|VBN more|RBR than|IN $|$ 7000|CD for|IN six|CD different|JJ issues|NNS flagged|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START although|IN the|DT social|JJ networking|NN has|VBZ its|PRP$ own|JJ security|NN team|NN facebook|NN launched|VBD its|PRP$ bug|NN bounty|NN program|NN to|TO tap|VB into|IN the|DT collective|JJ wisdom|NN of|IN the|DT sites|NNS 750|CD million|CD users|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP hire|VBP the|DT best|JJS and|CC brightest|JJS and|CC have|VBP implemented|VBN numerous|JJ protocols|NNS sullivan|VBP wrote|NN </s>|S_END
+<s>|S_START we|PRP realize|VBP though|IN that|DT there|EX are|VBP many|JJ talented|VBN and|CC wellintentioned|VBN security|NN experts|NNS around|IN the|DT world|NN who|WP dont|NN work|VBP for|IN facebook|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START researchers|NNS from|IN more|RBR than|IN 16|CD countries|NNS have|VBP successfully|RB submitted|VBN bounty|NN bugs|NNS facebook|VBP said|VBN </s>|S_END
+<s>|S_START its|PRP$ public|JJ thank|NN you|PRP list|VBP names|NNS dozens|NNS of|IN contributors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START facebook|NN also|RB took|VBD pains|NNS to|TO assure|VB bughunters|NNS that|WDT it|PRP wont|VBP take|VB any|DT legal|JJ action|NN against|IN those|DT who|WP submit|NN bugs|VBZ even|RB if|IN they|PRP were|VBD uncovered|VBN through|IN lessthanlegal|JJ routes|NNS into|IN facebooks|NNS systems|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS often|RB how|WRB hackers|NNS find|VBP vulnerabilities|NNS but|CC even|RB those|DT without|IN any|DT ill|NN intent|NN socalled|VBD whitehat|WDT hackers|NNS can|MD land|VB in|IN hot|JJ water|NN with|IN companies|NNS if|IN they|PRP tell|VBP them|PRP about|IN their|PRP$ intrusion|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP worked|VBD with|IN several|JJ thirdparty|NN groups|NNS to|TO ensure|VB that|IN the|DT language|NN in|IN our|PRP$ policy|NN protects|NNS researchers|NNS and|CC makes|VBZ clear|JJ our|PRP$ intent|NN to|TO work|VB with|IN not|RB punish|JJ those|DT who|WP report|NN information|NN sullivan|NN wrote|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT electronic|JJ frontier|NN foundation|NN an|DT advocacy|NN group|NN that|WDT often|RB weighs|VBZ in|IN on|IN internetrelated|VBN legal|JJ issues|NNS is|VBZ a|DT fan|NN of|IN that|DT approach|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP hope|VBP to|TO see|VB others|NNS follow|VBP facebooks|NNS lead|VBP and|CC go|VB even|RB further|JJR the|DT eff|NN wrote|VBD last|JJ year|NN about|IN facebooks|NNS security|NN policy|NN </s>|S_END
+<s>|S_START the|DT more|RBR transparent|JJ companies|NNS are|VBP about|IN their|PRP$ approaches|NNS to|TO vulnerability|NN disclosure|NN and|CC the|DT more|RBR they|PRP encourage|VBP users|NNS to|TO come|VB forward|RB the|DT more|RBR often|RB they|PRP will|MD learn|VB about|IN problems|NNS that|WDT need|VBP to|TO be|VB fixed|VBN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

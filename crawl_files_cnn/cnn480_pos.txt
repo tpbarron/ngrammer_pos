@@ -1,0 +1,46 @@
+<p>|P_START
+<s>|S_START deborah|NN kenny|NN from|IN president|NN of|IN sesame|NN street|NN publishing|NN to|TO founder|NN and|CC ceo|NN of|IN harlem|NN village|NN academies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fortune|NN before|IN deborah|NN kenny|NN quit|NN her|PRP$ job|NN in|IN 2001|CD to|TO start|VB a|DT school|NN for|IN underprivileged|JJ youth|NN in|IN harlem|NN her|PRP$ friends|NNS staged|VBD an|DT intervention|NN </s>|S_END
+<s>|S_START they|PRP listed|VBD their|PRP$ concerns|NNS she|PRP would|MD run|VB out|RP of|IN money|NN shed|VBN lose|NN her|PRP$ house|NN and|CC worst|NN of|IN all|DT as|IN a|DT new|JJ widow|NN she|PRP wouldnt|VBD be|VB able|JJ to|TO adequately|RB provide|VB for|IN her|PRP three|CD young|JJ children|NNS </s>|S_END
+<s>|S_START kenny|NN did|VBD not|RB budge|VB </s>|S_END
+<s>|S_START i|PRP felt|VBD like|IN i|PRP would|MD die|VB if|IN i|PRP didnt|VBP start|NN this|DT school|NN she|PRP says|VBZ </s>|S_END
+<s>|S_START kenny|NN found|VBD herself|PRP sketching|VBG out|RP the|DT plans|NNS for|IN her|PRP new|JJ education|NN program|NN during|IN meetings|NNS the|DT way|NN others|NNS might|MD doodle|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN she|PRP left|VBD her|PRP$ job|NN she|PRP set|VBD up|RP shop|NN in|IN a|DT corner|NN of|IN the|DT playroom|NN in|IN the|DT basement|NN of|IN her|PRP$ house|NN </s>|S_END
+<s>|S_START funding|NN nearly|RB fell|VBD through|IN her|PRP$ charter|NN applications|NNS almost|RB got|VBD denied|VBN and|CC she|PRP even|RB had|VBD to|TO take|VB out|RP a|DT bridge|NN loan|NN from|IN her|PRP$ neighbor|NN </s>|S_END
+<s>|S_START still|RB kenny|VBP did|VBD not|RB drift|VB from|IN her|PRP$ vision|NN </s>|S_END
+<s>|S_START in|IN 2003|CD buoyed|VBN by|IN a|DT $|$ 1|CD million|CD gates|NNS foundation|NN grant|NN harlem|NN village|NN academies|NNS launched|VBD its|PRP$ first|JJ middle|NN school|NN and|CC opened|VBD a|DT second|JJ in|IN 2005|CD </s>|S_END
+<s>|S_START to|TO call|VB the|DT schools|NNS a|DT wild|NN success|NN would|MD be|VB an|DT understatement|NN </s>|S_END
+<s>|S_START in|IN 2007|CD students|NNS posted|VBD such|JJ high|JJ test|NN scores|NNS that|WDT president|NN bush|VBP visited|VBN </s>|S_END
+<s>|S_START hvas|NNS eighthgraders|NNS have|VBP hit|VBN 100|CD math|NN proficiency|NN for|IN the|DT past|JJ four|CD years|NNS </s>|S_END
+<s>|S_START attrition|NN across|IN all|DT grades|NNS in|IN 201112|CD was|VBD just|RB 4|CD though|IN kenny|JJ isnt|NN shy|NN about|IN holding|VBG students|NNS back|RB a|DT grade|NN </s>|S_END
+<s>|S_START it|PRP added|VBD a|DT high|JJ school|NN in|IN 2007|CD and|CC this|DT summer|NN graduated|VBD its|PRP$ first|JJ class|NN of|IN seniors|NNS who|WP went|NN on|IN to|TO attend|VB the|DT likes|NNS of|IN yale|NN bard|NN and|CC occidental|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START kenny|NN straddles|NNS two|CD worlds|NNS business|NN and|CC education|NN </s>|S_END
+<s>|S_START the|DT windows|NNS of|IN her|PRP$ office|NN overlook|NN blocks|NNS of|IN housing|VBG projects|NNS and|CC her|PRP$ bookshelf|NN is|VBZ packed|VBN with|IN management|NN guides|NNS peter|RBR druckers|NNS management|NN challenges|NNS for|IN the|DT 21st|CD century|NN jack|NN welchs|NNS jack|VBP straight|RB from|IN the|DT gut|NN </s>|S_END
+<s>|S_START in|IN a|DT single|JJ breath|NN she|PRP namechecks|VBZ barry|JJ diller|NN before|IN citing|VBG toyotas|NNS management|NN philosophy|NN and|CC rainer|NN maria|NN rilkes|VBZ letters|NNS to|TO a|DT young|JJ poet|NN </s>|S_END
+<s>|S_START her|PRP$ title|NN at|IN hva|NN is|VBZ ceo|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START kennys|NNS founding|VBG philosophy|NN is|VBZ to|TO create|VB a|DT teacherfocused|VBN institution|NN </s>|S_END
+<s>|S_START she|PRP has|VBZ boosted|VBN instructor|NN pay|NN and|CC gives|VBZ them|PRP freedom|NN to|TO craft|VB their|PRP$ own|JJ curriculum|NN </s>|S_END
+<s>|S_START remarkably|RB hva|VBP students|NNS arent|NN taught|VBD the|DT test|NN despite|IN such|JJ strong|JJ test|NN scores|NNS </s>|S_END
+<s>|S_START she|PRP consulted|VBD with|IN michael|NN dell|NN and|CC welch|NN on|IN improving|NN employee|NN productivity|NN and|CC morale|NN </s>|S_END
+<s>|S_START a|DT maniacal|JJ work|NN ethic|JJ is|VBZ the|DT common|JJ practice|NN at|IN hva|NN and|CC kenny|JJ seems|NNS to|TO lead|VB the|DT charge|NN the|DT last|JJ time|NN kenny|NN took|VBD a|DT vacation|NN was|VBD four|CD years|NNS ago|RB </s>|S_END
+<s>|S_START soon|RB she|PRP plans|VBZ to|TO add|VB two|CD more|JJR elementary|JJ schools|NNS and|CC a|DT guidance|NN center|NN for|IN hva|NN alums|NNS </s>|S_END
+<s>|S_START and|CC her|PRP$ book|NN about|IN starting|VBG hva|NN and|CC her|PRP$ mission|NN to|TO empower|VB teachers|NNS born|NN to|TO rise|VB comes|NNS out|IN in|IN early|JJ june|NN </s>|S_END
+<s>|S_START when|WRB youre|NN in|IN the|DT right|NN line|NN she|PRP says|VBZ work|NN is|VBZ more|RBR fun|JJ than|IN fun|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT story|NN is|VBZ from|IN the|DT may|MD 21|CD 2012|CD issue|NN of|IN fortune |NNP </s>|S_END
+</p>|P_END
+

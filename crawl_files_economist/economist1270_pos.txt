@@ -1,0 +1,79 @@
+<p>|P_START
+<s>|S_START western|NN science|NN particularly|RB academic|JJ science|NN is|VBZ culturally|RB obsessed|VBN with|IN superlatives|NNS and|CC often|RB separated|VBN from|IN technology|NN the|DT most|JJS accurate|JJ measure|NN of|IN time|NN the|DT most|JJS detailed|JJ accounting|NN of|IN a|DT genome|NN the|DT most|JJS distant|JJ star|NN the|DT highestenergy|NN particle|NN </s>|S_END
+<s>|S_START why|WRB </s>|S_END
+<s>|S_START uperlatives|NNS are|VBP necessary|JJ in|IN some|DT areas|NNS and|CC easy|JJ to|TO keep|VB score|NN with|IN in|IN other|JJ </s>|S_END
+<s>|S_START and|CC there|EX are|VBP technologies|NNS such|JJ as|IN gps|NNS that|WDT absolutely|RB require|VBP extreme|NN precision|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC superlatives|VBZ tend|NN to|TO be|VB expensive|JJ </s>|S_END
+<s>|S_START hould|MD cost|VB be|VB an|DT issue|NN in|IN science|NN </s>|S_END
+<s>|S_START if|IN knowledge|NN is|VBZ a|DT treasure|NN beyond|NN price|NN perhaps|RB obtaining|VBG it|PRP should|MD be|VB similarly|RB costunconstrained—an|JJ idea|NN enthusiastically|RB supported|VBN by|IN expensive|JJ fields|NNS such|JJ as|IN highenergy|NN physic|NN </s>|S_END
+<s>|S_START and|CC even|RB the|DT most|RBS expensive|JJ science|NN is|VBZ cheap|NN relative|JJ to|TO say|VB a|DT war|NN or|CC a|DT tsunami|NN </s>|S_END
+<s>|S_START yet|RB science|NN in|IN 2012|CD and|CC beyond|IN will|MD be|VB evolving|VBG a|DT new|JJ variant|NN of|IN itself|PRP frugal|JJ science|NN designed|VBN to|TO generate|VB knowledge|NN and|CC technology|NN based|VBN on|IN that|DT knowledge|NN with|IN cost|NN as|IN an|DT integral|JJ part|NN of|IN the|DT subject|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT idea|NN of|IN including|VBG “cost”|NN in|IN science|NN is|VBZ perhaps|RB déclassé|JJ in|IN western|JJ research|NN universities|NNS but|CC it|PRP is|VBZ based|VBN on|IN an|DT important|JJ change|NN in|IN the|DT world|NN </s>|S_END
+<s>|S_START the|DT 80|CD of|IN the|DT global|JJ population|NN that|WDT is|VBZ poor|JJ and|CC has|VBZ long|RB been|VBN excluded|VBN from|IN science|NN technology|NN and|CC the|DT benefits|NNS of|IN both|DT would|MD like|VB to|TO join|VB the|DT party|NN </s>|S_END
+<s>|S_START china|NN india|VBD and|CC brazil|NN have|VBP already|RB muscled|VBN their|PRP$ way|NN into|IN technology|NN and|CC other|JJ lessdeveloped|JJ countries|NNS will|MD follow|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START behind|IN the|DT argument|NN between|IN “superlative”|JJ and|CC “costeffective”|JJ lie|NN differences|NNS of|IN opinion|NN about|IN the|DT purpose|NN of|IN science|NN </s>|S_END
+<s>|S_START is|VBZ it|PRP the|DT job|NN of|IN science|NN to|TO generate|VB knowledge|NN as|IN an|DT abstract|NN good|NN with|IN the|DT benefits|NNS to|TO the|DT society|NN that|IN pays|NNS for|IN it|PRP unpredictable|JJ or|CC should|MD science|VB at|IN least|JJS think|NN of|IN serving|VBG society|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT west|NN the|DT answer|NN is|VBZ often|RB two|CD words|NNS “quantum|JJ mechanics”|NN </s>|S_END
+<s>|S_START its|PRP$ development|NN revolutionised|VBD both|DT science|NN and|CC technology|NN and|CC was|VBD indeed|RB a|DT product|NN of|IN pure|NN curiosity|NN </s>|S_END
+<s>|S_START but|CC there|EX have|VBP been|VBN only|RB one|CD or|CC two|CD such|JJ events|NNS in|IN fundamental|JJ science|NN in|IN the|DT past|JJ century|NN genomics|NNS may|MD eventually|RB be|VB as|IN important|JJ and|CC the|DT birth|NN of|IN quantum|NN mechanics|NNS was|VBD not|RB expensive|JJ although|IN its|PRP$ applications|NNS in|IN technology|NN were|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT rich|JJ world|NN maintaining|VBG a|DT distinction|NN between|IN curiositydriven|CD science|NN and|CC applicationsdriven|RB technology|NN may|MD or|CC may|MD not|RB be|VB an|DT affordable|JJ luxury|NN </s>|S_END
+<s>|S_START in|IN the|DT developing|VBG world|NN there|RB are|VBP pressing|VBG problems|NNS whose|WP$ solutions|NNS require|VBP relevant|JJ science|NN and|CC technology|NN now|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START health|NN care|NN is|VBZ one|CD example|NN </s>|S_END
+<s>|S_START western|NN medicine|NN does|VBZ many|JJ things|NNS well|RB but|CC it|PRP is|VBZ not|RB affordable|JJ in|IN or|CC very|RB useful|JJ to|TO most|JJS poor|JJ population|NN </s>|S_END
+<s>|S_START what|WP then|RB should|MD be|VB the|DT technology|NN base|NN for|IN affordable|JJ health|NN care|NN </s>|S_END
+<s>|S_START answering|VBG that|IN question|NN requires|VBZ the|DT development|NN of|IN science|NN that|IN is|VBZ conscious|JJ of|IN cost|NN from|IN the|DT beginning—a|NNP frugal|NN health|NN care|NN that|WDT might|MD perhaps|RB be|VB more|RBR related|JJ to|TO western|VB public|JJ health|NN than|IN to|TO endoflife|VB hightech|JJ medicine|NN </s>|S_END
+<s>|S_START what|WP about|IN other|JJ problems|NNS the|DT management|NN of|IN mega­cities|NNS development|NN of|IN radically|RB effective|JJ ways|NNS of|IN delivering|VBG education|NN or|CC providing|VBG water|NN and|CC energy|NN </s>|S_END
+<s>|S_START all|DT of|IN these|DT problems|NNS can|MD be|VB phrased|VBN as|IN technologies|NNS which|WDT will|MD require|VB an|DT appropriate|JJ foundation|NN in|IN science—and|NNP that|IN must|MD include|VB cost|NN </s>|S_END
+<s>|S_START the|DT race|NN may|MD not|RB be|VB to|TO the|DT swift|NN but|CC rather|RB to|TO the|DT cheap|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ another|DT reason|NN to|TO be|VB encouraging|VBG frugal|JJ science|NN job|NN </s>|S_END
+<s>|S_START frugal|JJ science|NN has|VBZ a|DT chance|NN of|IN yielding|NN cheap|NN products|NNS and|CC thus|RB jobs|NNS and|CC other|JJ understandable|JJ benefit|NN </s>|S_END
+<s>|S_START the|DT developing|VBG world|NN is|VBZ pioneering|VBG telecoms|NNS systems|NNS with|IN structures|NNS quite|RB different|JJ from|IN those|DT used|VBN in|IN the|DT rich|JJ world|NN </s>|S_END
+<s>|S_START the|DT shenzhen|VBN gene|NN factories|NNS using|VBG american|JJ technology|NN are|VBP among|IN the|DT lowestcost|NN producers|NNS of|IN genomic|JJ information|NN </s>|S_END
+<s>|S_START the|DT tata|NN nano|NN car|NN represents|VBZ a|DT creative|JJ step|NN towards|NNS lowcost|VBP personal|JJ transport|NN </s>|S_END
+<s>|S_START and|CC the|DT science|NN that|IN leads|NNS to|TO affordable|JJ health|NN care|NN for|IN africa|NN may|MD provide|VB some|DT of|IN the|DT best|JJS approaches|NNS to|TO reducing|VBG the|DT nolongeraffordable|JJ cost|NN of|IN health|NN care|NN in|IN america|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START foundations|NNS gates|VBZ wellcome|NN and|CC others|NNS are|VBP already|RB developing|VBG frugal|JJ medicine|NN and|CC much|RB of|IN the|DT healthcare|NN spending|NN in|IN developing|VBG countries|NNS is|VBZ on|IN technology|NN that|IN is|VBZ of|IN necessity|NN frugal|JJ </s>|S_END
+<s>|S_START the|DT science|NN base|NN for|IN this—lowcost|JJ diagnostics|NNS epidemiology|NN and|CC nutrition|NN informed|VBD by|IN mobilephone|NN reporting—is|NNS developing|VBG rapidly|RB </s>|S_END
+<s>|S_START tata|NN gm|NN toyota|NN and|CC their|PRP$ kin|NN are|VBP all|DT thinking|VBG about|IN radically|RB different|JJ concepts|NNS for|IN the|DT car|NN smaller|NN lighter|NN cheaper|NN </s>|S_END
+<s>|S_START to|TO sell|VB in|IN world|NN markets|NNS affordability|NN may|MD in|IN future|JJ be|NN the|DT first|JJ requirement|NN not|RB an|DT afterthought|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “but|JJ is|VBZ it|PRP science”|-NONE- ask|VB the|DT sceptic|JJ </s>|S_END
+<s>|S_START perhaps|RB “no”|JJ under|IN the|DT old|JJ definitions|NNS of|IN chemistry|NN physics|NNS and|CC biology|NN </s>|S_END
+<s>|S_START but|CC “yes”|JJ as|IN a|DT new|JJ discipline|NN with|IN an|DT intellectual|JJ skeleton|NN based|VBN on|IN understanding|NN complexity|NN and|CC simplicity|NN and|CC on|IN developing|VBG strategies|NNS for|IN integrating|VBG information|NN including|VBG economic|JJ information|NN originating|VBG in|IN entirely|RB different|JJ field|NN </s>|S_END
+<s>|S_START it|PRP will|MD probably|RB get|VB a|DT reluctant|JJ welcome|NN at|IN first|JJ in|IN the|DT mandarin|NN research|NN universities|NNS of|IN america|NN and|CC europe|NN but|CC it|PRP may|MD flourish|VB in|IN beijing|NN mumbai|NN and|CC cairo|NN </s>|S_END
+<s>|S_START and|CC where|WRB it|PRP flourishes|VBZ best|JJS may|MD determine|VB whose|WP$ grandchildren|NN have|VBP job|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START george|NN whitesides|VBZ professor|NN of|IN chemistry|NN and|CC principal|NN investigator|NN whitesides|VBZ research|NN group|NN harvard|NN university|NN </s>|S_END
+</p>|P_END
+

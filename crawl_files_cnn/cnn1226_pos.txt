@@ -1,0 +1,46 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN despite|IN the|DT muchlamented|VBN loss|NN of|IN the|DT american|JJ middle|NN class|NN a|DT new|JJ study|NN identifies|NNS millions|NNS of|IN wellpaying|VBG of|IN jobs|NNS available|JJ for|IN people|NNS without|IN a|DT fouryear|JJ college|NN degree|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN least|JJS 29|CD million|CD jobs|NNS exist|VBP in|IN areas|NNS like|IN nursing|VBG sales|NNS and|CC the|DT trades|NNS according|VBG to|TO a|DT study|NN monday|NN from|IN georgetown|NN university|NN </s>|S_END
+<s>|S_START the|DT average|JJ wage|NN for|IN these|DT jobs|NNS is|VBZ $|$ 42000|CD with|IN many|JJ paying|VBG well|RB above|IN $|$ 50000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT lot|NN of|IN people|NNS think|VBP that|IN the|DT middle|NN was|VBD hollowed|VBN out|RP and|CC disappearing|VBG said|VBD tony|NN carnevale|NN director|NN of|IN the|DT center|NN on|IN education|NN and|CC the|DT workforce|NN at|IN georgetown|NN </s>|S_END
+<s>|S_START but|CC its|PRP$ actually|RB much|JJ healthier|NN than|IN we|PRP thought|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT catch|NN is|VBZ that|IN unlike|IN in|IN manufacturings|NNS heyday|NN when|WRB one|CD could|MD get|VB a|DT decent|NN job|NN right|RB out|IN of|IN high|JJ school|NN most|JJS of|IN todays|NNS middleclass|VBP jobs|NNS require|VBP some|DT type|NN of|IN postsecondary|JJ certificate|NN training|NN or|CC twoyear|JJ college|NN degree|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD manufacturing|NN jobs|NNS boom|VBP is|VBZ for|IN real|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ certificates|NNS or|CC apprenticeship|NN programs|NNS can|MD be|VB obtained|VBN at|IN community|NN colleges|NNS or|CC private|JJ trade|NN schools|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT most|RBS popular|JJ certificates|NNS for|IN people|NNS with|IN just|RB a|DT high|JJ school|NN diploma|NN include|VBP certified|VBN nursing|VBG assistant|JJ commercial|JJ truck|NN driver|NN fork|NN lift|NN operator|NN and|CC insurance|NN agent|NN the|DT study|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN those|DT with|IN an|DT associate|NN degree|NN popular|NN certificates|NNS include|VBP licensed|VBN practical|JJ nurse|NN paralegal|JJ and|CC certified|JJ coding|NN specialist|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB in|IN todays|NNS depressed|VBN job|NN market|NN at|IN least|JJS a|DT million|NN jobs|NNS for|IN people|NNS with|IN these|DT and|CC similar|JJ qualifications|NNS are|VBP currently|RB unfilled|VBN said|VBD carnevale|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN the|DT average|NN wage|NN for|IN these|DT jobs|NNS may|MD be|VB less|RBR than|IN the|DT $|$ 85000|CD a|DT year|NN unionized|VBN autoworkers|NNS used|VBN to|TO make|VB including|VBG overtime|NN and|CC benefits|NNS it|PRP is|VBZ in|IN line|NN with|IN wages|NNS at|IN general|JJ manufacturing|NN jobs|NNS from|IN previous|JJ years|NNS according|VBG to|TO carnevale|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD piece|NN of|IN bad|JJ news|NN for|IN the|DT midwest|NN where|WRB many|JJ former|JJ manufacturing|NN workers|NNS remain|VBP out|RP of|IN work|NN most|JJS of|IN these|DT jobs|NNS are|VBP in|IN states|NNS along|IN the|DT east|JJ and|CC west|JJS coasts|NNS </s>|S_END
+</p>|P_END
+

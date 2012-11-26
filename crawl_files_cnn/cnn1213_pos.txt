@@ -1,0 +1,54 @@
+<p>|P_START
+<s>|S_START treasury|NN secretary|NN tim|NN geithner|NN warns|NNS that|WDT the|DT european|JJ debt|NN crisis|NN threatens|VBZ the|DT us|PRP economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START washington|NN cnnmoney|NN the|DT biggest|JJS threat|NN to|TO the|DT us|PRP economy|NN is|VBZ europe|NN treasury|NN secretary|NN tim|NN geithner|NN said|VBD wednesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT economic|JJ recession|NN in|IN europe|NN is|VBZ hurting|VBG economic|JJ growth|NN around|IN the|DT world|NN and|CC the|DT ongoing|JJ financial|JJ stress|NN is|VBZ causing|VBG a|DT general|JJ tightening|NN of|IN financial|JJ conditions|NNS exacerbating|VBG the|DT global|JJ slowdown|NN geithner|NN said|VBD in|IN testimony|NN before|IN the|DT house|NN financial|JJ services|NNS committee|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START geithners|NNS testimony|VBP comes|NNS as|IN part|NN of|IN his|PRP$ role|NN as|IN chief|NN of|IN a|DT regulatory|JJ group|NN called|VBN the|DT financial|JJ stability|NN oversight|NN council|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START geithner|NN touted|VBD that|IN four|CD years|NNS after|IN the|DT financial|JJ crisis|NN the|DT system|NN is|VBZ stronger|JJR and|CC more|JJR resilient|NN </s>|S_END
+<s>|S_START he|PRP said|VBD that|IN banks|NNS now|RB hold|VBP far|RB more|RBR capital|JJ in|IN reserves|NNS than|IN they|PRP used|VBD to|TO </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC the|DT size|NN of|IN the|DT shadow|NN banking|NN system|NN or|CC financial|JJ contracts|NNS called|VBN derivatives|NNS that|IN remains|NNS unregulated|VBD has|VBZ shrunk|NN since|IN the|DT crisis|NN geithner|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT european|JJ debt|NN crisis|NN remains|VBZ a|DT substantial|JJ threat|NN to|TO us|PRP and|CC worldwide|VB growth|NN according|VBG to|TO the|DT treasury|NN chief|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT severe|JJ crisis|NN in|IN europe|NN would|MD necessarily|RB have|VB very|RB substantial|JJ adverse|NN effects|NNS on|IN the|DT united|VBN states|NNS geithner|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START geithner|NN said|VBD that|IN the|DT us|PRP economy|NN has|VBZ also|RB been|VBN hurt|VBN by|IN the|DT rise|NN in|IN oil|NN prices|NNS earlier|RBR this|DT year|NN cuts|NNS to|TO government|NN spending|NN and|CC slow|JJ rates|NNS of|IN income|NN growth|NN </s>|S_END
+<s>|S_START he|PRP warned|VBD that|IN economic|JJ growth|NN could|MD be|VB curtailed|VBN more|RBR by|IN approaching|NN tax|NN increases|NNS and|CC spending|NN cuts|NNS and|CC uncertainty|NN about|IN what|WP congress|NN will|MD do|VB as|RB the|DT socalled|VBN fiscal|JJ cliff|NN approaches|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT potential|JJ threats|NNS underscore|VBP the|DT need|NN for|IN continued|VBN progress|NN in|IN repairing|NN the|DT remaining|VBG damage|NN from|IN the|DT financial|JJ crisis|NN and|CC enacting|VBG reforms|NNS to|TO make|VB the|DT system|NN stronger|NN for|IN the|DT long|JJ run|NN geithner|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START during|IN the|DT hearing|NN geithner|NN is|VBZ expected|VBN to|TO be|VB asked|VBN about|IN his|PRP$ role|NN running|VBG the|DT new|JJ york|NN federal|JJ reserve|NN which|WDT is|VBZ embroiled|VBN in|IN the|DT scandal|NN over|IN rigging|VBG of|IN a|DT key|JJ financial|JJ benchmark|NN that|WDT impacts|VBZ interest|NN rates|NNS for|IN mortgages|NNS loans|NNS and|CC derivative|JJ contracts|NNS worldwide|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN geithner|NN was|VBD in|IN charge|NN of|IN the|DT new|JJ york|NN fed|VBN the|DT agency|NN got|VBD early|RB warning|VBG signals|NNS that|WDT the|DT british|JJ bank|NN barclays|NNS was|VBD fixing|VBG the|DT libor|NN rate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START geithner|NN didnt|VBD mention|NN the|DT libor|NN scandal|NN in|IN his|PRP$ opening|NN statement |-NONE- </s>|S_END
+</p>|P_END
+

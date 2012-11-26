@@ -1,0 +1,106 @@
+<p>|P_START
+<s>|S_START the|DT bodymetrics|NNS pod|VBD in|IN bloomingdales|NNS measures|NNS shoppers|NNS to|TO find|VB the|DT perfectfitting|NN jeans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN ever|RB find|VBP yourself|PRP frustrated|VBD buttoning|VBG up|RP those|DT darn|NN jeans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO solve|VB the|DT eternal|JJ quest|NN for|IN the|DT perfectfitting|VBG denim|NN a|DT company|NN called|VBN bodymetrics|NNS uses|NNS some|DT innovative|JJ bodyscanning|NN technology|NN to|TO help|VB shoppers|NNS find|VB the|DT ideal|NN fit|NN without|IN even|RB trying|VBG the|DT pants|NNS on|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT body|NN is|VBZ the|DT last|JJ piece|NN of|IN information|NN to|TO go|VB digital|JJ bodymetrics|NNS ceo|VBP and|CC founder|NN suran|NN goonatilake|NN said|VBD </s>|S_END
+<s>|S_START we|PRP use|VBP technology|NN to|TO enable|JJ a|DT new|JJ retail|NN format|NN and|CC we|PRP believe|VBP this|DT is|VBZ the|DT next|JJ generation|NN of|IN apparel|NN ecommerce|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bodymetrics|NNS has|VBZ been|VBN matching|VBG london|NN shoppers|NNS with|IN their|PRP$ jeans|NNS since|IN the|DT companys|NNS 2003|CD launch|NN </s>|S_END
+<s>|S_START later|JJ this|DT year|NN bodymetrics|NNS will|MD be|VB making|VBG its|PRP$ us|PRP debut|VBD not|RB in|IN fashionsavvy|NN new|JJ york|NN or|CC trendy|NN los|NNS angeles|NNS but|CC in|IN silicon|NN valley|NN the|DT heart|NN of|IN the|DT tech|NN world|NN </s>|S_END
+<s>|S_START customers|NNS of|IN the|DT bloomingdales|NNS in|IN palo|NN alto|NN calif|IN will|MD soon|RB get|VB to|TO try|VB bodymetrics|NNS tech|VBP out|RP for|IN size|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB does|VBZ it|PRP work|VB </s>|S_END
+<s>|S_START customers|NNS enter|VBP the|DT pod|NN which|WDT is|VBZ essentially|RB a|DT circular|JJ dressing|NN room|NN where|WRB 16|CD microsoft|JJ msft|NN fortune|NN 500|CD kinect|NN devices|NNS scan|MD the|DT shoppers|NNS body|NN clad|NN only|RB in|IN underwear|JJ or|CC tight|JJ gym|NN clothes|NNS </s>|S_END
+<s>|S_START in|IN five|CD seconds|NNS the|DT kinects|NNS take|VBP more|JJR than|IN 100|CD different|JJ measurements|NNS to|TO make|VB a|DT 3d|JJ rendering|NN of|IN the|DT buyers|NNS shape|NN and|CC size|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN for|IN privacy|NN issues|NNS </s>|S_END
+<s>|S_START its|PRP$ not|RB really|RB a|DT bodyscan|NN like|IN you|PRP might|MD be|VB asked|VBN to|TO do|VB at|IN an|DT airport|NN </s>|S_END
+<s>|S_START the|DT voluntary|JJ measurement|NN simply|RB maps|VBZ the|DT shoppers|NNS body|NN shape|NN by|IN essentially|RB making|VBG an|DT outline|NN with|IN kinect|NN sensors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START once|RB customers|NNS get|VBP their|PRP$ precise|NN measurements|NNS they|PRP can|MD go|VB off|RP and|CC find|VB the|DT exact|JJ right|NN pair|NN of|IN jeans|NNS for|IN their|PRP$ body|NN type|NN </s>|S_END
+<s>|S_START the|DT bloomingdales|NNS in|IN century|NN city|NN calif|IN ran|NN a|DT pilot|NN test|NN in|IN march|NN for|IN its|PRP$ denim|NN days|NNS promotion|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bloomingdales|NNS is|VBZ always|RB looking|VBG for|IN new|JJ ways|NNS to|TO excite|VB our|PRP$ customers|NNS a|DT department|NN store|NN spokeswoman|NN said|VBD </s>|S_END
+<s>|S_START merging|VBG technology|NN with|IN fashion|NN by|IN partnering|NN with|IN bodymetrics|NNS brings|NNS a|DT new|JJ experience|NN to|TO our|PRP$ shoppers|NNS that|WDT brings|VBZ ease|NN to|TO shopping|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bodymetrics|NNS goonatilake|VBP says|VBZ the|DT technology|NN isnt|NN just|RB for|IN instore|JJ purchases|NNS either|CC </s>|S_END
+<s>|S_START later|JJ this|DT year|NN the|DT company|NN says|VBZ it|PRP will|MD make|VB it|PRP possible|JJ for|IN shoppers|NNS to|TO scan|VB their|PRP$ bodies|NNS from|IN the|DT comfort|NN of|IN their|PRP$ own|JJ homes|NNS as|IN the|DT software|NN will|MD be|VB available|JJ for|IN kinect|NN users|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT could|MD help|VB solve|VB the|DT well|NN known|VBN problem|NN of|IN finding|NN the|DT right|NN fit|NN online|NN </s>|S_END
+<s>|S_START a|DT number|NN of|IN fashion|NN designers|NNS participate|VBP in|IN whats|NNS known|VBN as|IN vanity|NN sizing|VBG with|IN actual|JJ sizes|NNS differing|VBG widely|RB from|IN store|NN to|TO store|VB </s>|S_END
+<s>|S_START since|IN there|EX are|VBP no|DT set|NN standards|NNS for|IN what|WP constitutes|NNS a|DT size|NN small|JJ 8|CD or|CC xxl|NN are|VBP essentially|RB meaningless|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START soon|RB bodymetrics|NNS will|MD let|VB you|PRP try|VB on|IN the|DT clothes|NNS before|IN you|PRP buy|VB them|PRP online|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT company|NN has|VBZ been|VBN working|VBG with|IN selfridges|NNS a|DT department|NN store|NN on|IN londons|NNS famed|VBN oxford|NN street|NN for|IN years|NNS now|RB and|CC goonatilake|VB says|VBZ the|DT technology|NN has|VBZ helped|VBN increase|NN sales|NNS for|IN womens|NNS premium|NN denim|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bodymetrics|NNS a|DT privately|RB held|VBN company|NN that|WDT has|VBZ raised|VBN funding|NN from|IN the|DT tal|JJ group|NN a|DT hong|JJ kong|NN garment|NN manufacturer|NN isnt|NN the|DT only|JJ company|NN thats|NNS using|VBG body|NN scans|NNS to|TO better|JJR dress|NN the|DT world|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START brooks|NNS brothers|NNS has|VBZ used|VBN a|DT bodyscanner|NN in|IN its|PRP$ manhattan|NN flagship|NN store|NN on|IN madison|NN avenue|NN since|IN 2001|CD </s>|S_END
+<s>|S_START it|PRP allows|VBZ customers|NNS to|TO purchase|VB madetoorder|NN suits|NNS dress|NN shirts|NNS trousers|NNS and|CC sports|NNS coats|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meality|NN offers|NNS a|DT bodyscanning|NN service|NN in|IN almost|RB 70|CD malls|NNS across|IN america|NN </s>|S_END
+<s>|S_START the|DT scanner|NN uses|VBZ the|DT measurements|NNS to|TO recommend|VB articles|NNS of|IN clothing|VBG from|IN partnered|JJ brands|NNS at|IN the|DT shopping|NN centers|VBZ including|VBG j|NN </s>|S_END
+<s>|S_START crew|VBD banana|NNS republic|JJ and|CC levis|NNS </s>|S_END
+<s>|S_START lori|NN coulter|NN madetoorder|NN swimwear|NN also|RB uses|VBZ bodyscanning|VBG technology|NN to|TO find|VB beachgoers|NNS the|DT perfect|NN swimsuit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START analysts|NNS see|VBP this|DT technology|NN as|IN a|DT revenue|NN boost|NN for|IN retailers|NNS </s>|S_END
+<s>|S_START jerry|NN sheldon|VBD a|DT retail|NN technology|NN analyst|NN with|IN ihl|NN consulting|NN group|NN said|VBD because|IN the|DT bodyscanner|NN indicates|VBZ which|WDT items|NNS would|MD fit|VB well|RB it|PRP would|MD further|RB encourage|VB shoppers|NNS to|TO make|VB purchases|NNS even|RB if|IN the|DT item|NN is|VBZ out|RP of|IN stock|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START you|PRP now|RB give|VBP yourself|PRP another|DT opportunity|NN to|TO make|VB sure|JJ that|IN consumer|NN does|VBZ not|RB walk|VB out|RP of|IN the|DT store|NN without|IN completing|NN a|DT transaction|NN of|IN some|DT form|NN sheldon|NN said|VBD </s>|S_END
+<s>|S_START it|PRP allows|VBZ them|PRP to|TO see|VB what|WP the|DT actual|JJ fit|NN of|IN the|DT item|NN is|VBZ going|VBG to|TO be|VB on|IN them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START greg|NN girard|VBD an|DT analyst|NN at|IN idc|NN retail|NN insights|NNS says|VBZ this|DT kind|NN of|IN technology|NN can|MD drive|VB loyalty|NN in|IN addition|NN to|TO revenue|VB </s>|S_END
+<s>|S_START shoppers|NNS will|MD feel|VB more|RBR assured|VBN of|IN finding|NN the|DT right|NN fit|NN at|IN that|DT brand|NN and|CC will|MD continue|VB to|TO return|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN for|IN bodymetrics|NNS goonatilake|VBP initially|RB wanted|VBN to|TO make|VB custom|NN jeans|NNS based|VBN on|IN the|DT body|NN scan|NN </s>|S_END
+<s>|S_START however|RB he|PRP realized|VBD that|IN it|PRP served|VBD too|RB few|JJ people|NNS and|CC the|DT costs|NNS would|MD be|VB too|RB high|JJ </s>|S_END
+<s>|S_START instead|RB it|PRP made|VBD more|JJR sense|NN to|TO use|VB the|DT data|NNS to|TO help|VB more|JJR shoppers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN all|DT </s>|S_END
+<s>|S_START goonatilake|NN said|VBD that|IN finding|NN properlyfitting|VBG clothes|NNS is|VBZ a|DT problem|NN that|WDT most|JJS of|IN the|DT world|NN has |NN </s>|S_END
+</p>|P_END
+

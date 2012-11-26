@@ -1,0 +1,59 @@
+<p>|P_START
+<s>|S_START when|WRB stephanie|NN lenz|NN in|IN pennsylvania|NN put|VBD a|DT video|NN on|IN youtube|NN of|IN her|PRP$ 18monthold|JJ son|NN bopping|VBG to|TO prince’s|NNS song|IN “let’s|NNS go|VBP crazy”|JJ she|PRP did|VBD not|RB expect|VB a|DT lawsuit|NN </s>|S_END
+<s>|S_START but|CC four|PRP$ months|NNS and|CC 28|CD views|NNS later|JJ the|DT musician’s|JJ recording|NN company|NN universal|NN howled|VBD that|IN the|DT 29second|JJ “performance”|NN infringed|VBD its|PRP$ copyright|NN and|CC demanded|VBD that|IN youtube|NN take|VB it|PRP down|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT was|VBD in|IN 2007|CD </s>|S_END
+<s>|S_START ince|NN then|RB computers|NNS smartphones|NNS and|CC the|DT internet|NN have|VBP made|VBN copyright|NN law|NN look|NN even|RB more|RBR obsolete|JJ </s>|S_END
+<s>|S_START but|CC the|DT response|NN so|RB far|RB has|VBZ been|VBN not|RB to|TO update|VB the|DT laws|NNS but|CC to|TO widen|VB their|PRP$ scope|NN and|CC stiffen|NN the|DT penaltie|NN </s>|S_END
+<s>|S_START in|IN january|JJ websites|NNS including|VBG wikipedia|NN briefly|RB shut|VBN down|IN in|IN protest|NN against|IN tough|JJ antipiracy|NN laws|NNS promoted|VBD by|IN the|DT entertainment|NN industry|NN in|IN america|NN and|CC elsewhere|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START now|RB the|DT tide|NN is|VBZ turning|VBG </s>|S_END
+<s>|S_START for|IN many|JJ politicians|NNS property|NN rights|NNS for|IN media|NNS moguls|NNS are|VBP taking|VBG second|JJ place|NN to|TO attempts|NNS to|TO boost|VB growth|NN by|IN making|VBG life|NN easier|JJR for|IN technology|NN companie|NN </s>|S_END
+<s>|S_START ordinary|JJ users|NNS like|IN ms|NNS lenz|VBP are|VBP getting|VBG a|DT lookin|NN too|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START canada|NN passed|VBD a|DT law|NN in|IN june|NN that|IN sets|NNS a|DT new|JJ standard|JJ of|IN permissivene|NN </s>|S_END
+<s>|S_START it|PRP caps|VBZ statutory|JJ damages|NNS if|IN copyright|NN is|VBZ breached|VBN for|IN noncommercial|JJ purpose|NN </s>|S_END
+<s>|S_START it|PRP expands|VBZ the|DT definition|NN of|IN “fair|JJ dealing”|NN “fair|JJ use”|NN in|IN america|NN and|CC creates|VBZ exemptions|NNS for|IN educational|JJ purposes|NNS and|CC for|IN parody|NN </s>|S_END
+<s>|S_START firms|NNS must|MD pass|VB warnings|NNS about|IN infringement|NN to|TO the|DT person|NN who|WP posted|VBD the|DT material|NN rather|RB than|IN immediately|RB take|VB the|DT content|NN down|IN themselve|NN </s>|S_END
+<s>|S_START this|DT contrasts|NNS with|IN practice|NN in|IN america|NN and|CC europe|NN where|WRB a|DT web|NN company|NN alerted|VBD to|TO infringing|NN material|NN must|MD remove|VB it|PRP </s>|S_END
+<s>|S_START this|DT encourages|NNS kneejerk|VBP responses|NNS to|TO complaint|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START britain|NN too|RB plans|VBZ to|TO introduce|VB internetfriendly|RB legislation|NN this|DT autumn|NN after|IN a|DT review|NN led|VBN by|IN ian|JJ hargreaves|NNS professor|NN of|IN digital|JJ economy|NN at|IN cardiff|NN university|NN </s>|S_END
+<s>|S_START as|IN with|IN canada’s|NNS law|NN the|DT recommended|JJ new|JJ code|NN entails|NNS exemptions|NNS for|IN noncommercial|JJ uses|NNS and|CC usergenerated|VBD content|NN </s>|S_END
+<s>|S_START also|RB mooted|VBD is|VBZ a|DT “digital|JJ copyright|NN exchange”|NN that|WDT would|MD establish|VB a|DT marketplace|NN for|IN copyright|NN </s>|S_END
+<s>|S_START a|DT musician|JJ could|MD list|VB her|PRP song|IN and|CC the|DT licensing|NN term|NN </s>|S_END
+<s>|S_START a|DT filmmaker|NN wanting|VBG to|TO use|VB it|PRP would|MD know|VB quickly|RB and|CC simply|RB what|WP to|TO do|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT innovation|NN is|VBZ a|DT copyright|NN exemption|NN for|IN companies|NNS engaged|VBN in|IN text|NN and|CC datamining|VBG known|NN as|IN “big|JJ data”|NN </s>|S_END
+<s>|S_START at|IN present|NN simply|RB processing|VBG data|NNS counts|NNS as|IN copying|VBG even|RB though|IN the|DT end|NN result|NN may|MD not|RB infringe|VB copyright|NN </s>|S_END
+<s>|S_START o|NN a|DT researcher|NN wanting|VBG to|TO analyse|VB a|DT medicine’s|JJ secondary|JJ effects|NNS by|IN crunching|VBG the|DT results|NNS of|IN thousands|NNS of|IN studies|NNS over|IN the|DT past|JJ halfcentury|NN must|MD in|IN theory|NN get|NN permission|NN from|IN each|DT copyright|NN holder|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ireland|NN and|CC australia|NN are|VBP considering|VBG an|DT exception|NN that|IN allows|VBZ content|NN legally|RB obtained|VBD on|IN one|CD device|NN to|TO be|VB accessed|VBN on|IN another|DT called|VBN “format|JJ shifting”|NN </s>|S_END
+<s>|S_START without|IN such|JJ a|DT provision|NN cloudcomputing|VBG and|CC digitalstorage|NN companies|NNS could|MD be|VB accused|VBN of|IN abetting|NN infringement|NN </s>|S_END
+<s>|S_START the|DT netherlands|NNS south|VBP korea|NN and|CC india|NN are|VBP reviewing|VBG their|PRP$ copyright|NN laws|NNS too|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT tide|NN is|VBZ not|RB all|DT one|CD way|NN </s>|S_END
+<s>|S_START eu|NN officials|NNS want|VBP to|TO maintain|VB rules|NNS whereby|IN computer|NN users|NNS pay|VBP a|DT small|JJ tithe|NN on|IN digital|JJ products|NNS to|TO collection|NN societie|NN </s>|S_END
+<s>|S_START these|DT fees|NNS are|VBP meant|VBN to|TO go|VB to|TO content|VB creators|NNS but|CC often|RB end|VBP up|RP enriching|VBG the|DT middlemen|NNS instead|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT decade|NN ago|IN commercial|JJ websites|NNS featured|VBN nasty|NN lawyerish|NN warnings|NNS against|IN copying|VBG the|DT content|NN </s>|S_END
+<s>|S_START now|RB many|JJ of|IN these|DT same|JJ sites|NNS sport|NN icons|NNS encouraging|VBG people|NNS to|TO share|VB the|DT content|NN as|IN widely|RB as|IN possible|JJ over|IN email|NN facebook|NN or|CC twitter|NN </s>|S_END
+<s>|S_START loosening|VBG up|IN may|MD make|VB more|RBR money|NN than|IN locking|VBG down|IN </s>|S_END
+</p>|P_END
+

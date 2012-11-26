@@ -1,0 +1,63 @@
+<p>|P_START
+<s>|S_START “if|JJ thomas|NNS crapper|NN were|VBD around|IN today|NN he|PRP would|MD find|VB our|PRP$ toilets|NNS quite|RB familiar”|JJ says|NNS bill|NN gates|NNS referring|VBG to|TO the|DT victorian|JJ manufacturer|NN of|IN sanitary|JJ ware|NN whose|WP$ name|NN has|VBZ become|VBN attached|VBN to|TO one|CD of|IN the|DT body’s|JJ most|JJS fundamental|JJ function|NN </s>|S_END
+<s>|S_START “they|PRP haven’t|VBP seen|VBN many|JJ advances|NNS apart|VBP from|IN handles|NNS and|CC paper|NN toiletrolls”|NN in|IN fact|NN with|IN the|DT exception|NN of|IN straps|NNS to|TO contain|VB odours|NNS flush|VBP toilets|NNS have|VBP changed|VBN little|JJ since|IN sir|NN john|NN harington|NN installed|VBD one|CD in|IN richmond|NN palace|NN for|IN queen|NN elizabeth|NN i|PRP in|IN the|DT late|JJ 1590|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN gates|NNS considers|NNS it|PRP time|VB for|IN a|DT change|NN </s>|S_END
+<s>|S_START on|IN august|JJ 14th|CD his|PRP$ charity|NN the|DT bill|NN melinda|NN gates|VBZ foundation|NN announced|VBD the|DT gold|NN silver|NN and|CC bronzemedal|JJ winners|NNS in|IN its|PRP$ reinventing|NN the|DT toilet|NN challenge|NN which|WDT aims|VBZ to|TO bring|VB safe|JJ affordable|JJ and|CC “sustainable”|JJ loos|NNS to|TO the|DT 40|CD of|IN the|DT world’s|JJ population|NN who|WP lack|NN access|NN to|TO basic|JJ sanitation|NN </s>|S_END
+<s>|S_START this|DT could|MD help|VB prevent|VB many|JJ of|IN the|DT 15m|CD childhood|NN deaths|NNS from|IN diarrhoea|NN that|IN now|RB occur|VBP each|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT challenge|NN is|VBZ nothing|NN if|IN not|RB ambitiou|VBP </s>|S_END
+<s>|S_START it|PRP seeks|VBZ a|DT toilet|NN that|WDT costs|VBZ less|JJR than|IN five|CD cents|NNS per|IN user|NN per|IN day|NN to|TO operate|VB that|IN requires|NNS neither|DT a|DT supply|NN of|IN clean|JJ water|NN nor|CC sewerage|NN infrastructure|NN to|TO take|VB the|DT waste|NN away|RB and|CC that|IN will|MD generate|VB energy|NN and|CC recover|NN salts|NNS water|NN and|CC other|JJ nutrient|NN </s>|S_END
+<s>|S_START even|RB though|IN the|DT challenge|NN is|VBZ little|JJ more|RBR than|IN a|DT year|NN old|JJ the|DT award|NN winners|NNS are|VBP on|IN track|NN to|TO achieve|VB all|DT these|DT goal|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN third|JJ place|NN is|VBZ a|DT toilet|NN designed|VBN by|IN researchers|NNS at|IN the|DT university|NN of|IN toronto|NN </s>|S_END
+<s>|S_START it|PRP treats|VBZ urine|NN and|CC faeces|NNS separately|RB using|VBG a|DT material|NN freely|RB available|JJ in|IN many|JJ of|IN the|DT world’s|JJ poorest|NN regions|NNS sand|VBP </s>|S_END
+<s>|S_START urine|NN is|VBZ filtered|VBN through|IN sand|NN and|CC the|DT resulting|VBG fluid|NN is|VBZ sterilised|VBN with|IN ultraviolet|JJ light|JJ </s>|S_END
+<s>|S_START faeces|NNS are|VBP dried|VBN slowly|RB within|IN the|DT toilet|NN before|IN being|VBG fed|VBN into|IN a|DT smouldering|JJ sandfilled|VBN reactor|NN </s>|S_END
+<s>|S_START the|DT system|NN can|MD sanitise|VB the|DT waste|NN of|IN ten|NN people|NNS in|IN two|CD hours|NNS leaving|VBG only|RB sand|IN and|CC freshish|JJ water|NN behind|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT runnerup|NN comes|VBZ from|IN loughborough|JJ university|NN in|IN britain|NN </s>|S_END
+<s>|S_START a|DT tank|NN feeds|VBZ mixed|VBN urine|NN and|CC faeces|NNS through|IN a|DT rig|JJ that|IN heats|NNS it|PRP to|TO 200°c|CD under|IN high|JJ pressure|NN killing|VBG pathogen|NN </s>|S_END
+<s>|S_START returning|VBG the|DT superheated|JJ mixture|NN suddenly|RB to|TO atmospheric|JJ pressure|NN causes|NNS it|PRP to|TO separate|VB into|IN its|PRP$ liquid|JJ and|CC gaseous|JJ component|NN </s>|S_END
+<s>|S_START the|DT gas|NN is|VBZ used|VBN to|TO heat|VB the|DT feed|NN tank|NN </s>|S_END
+<s>|S_START the|DT liquid|NN is|VBZ fed|VBN into|IN a|DT digester|NN that|WDT produces|VBZ enough|RB methane|JJ to|TO power|NN the|DT system—and|JJ some|DT to|TO spare|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT winning|NN toilet|NN is|VBZ smarter|NN still|RB </s>|S_END
+<s>|S_START it|PRP has|VBZ been|VBN developed|VBN by|IN michael|NN hoffman|NN of|IN the|DT california|NN institute|NN of|IN technology|NN and|CC has|VBZ earned|VBN him|PRP the|DT $|$ 100000|CD first|JJ prize|NN </s>|S_END
+<s>|S_START his|PRP$ toilet|NN uses|VBZ solar|JJ panels|NNS to|TO power|NN an|DT electrochemical|JJ system|NN that|WDT turns|VBZ waste|NN into|IN useful|JJ thing|NN </s>|S_END
+<s>|S_START one|CD is|VBZ a|DT compound|NN which|WDT oxidises|NNS the|DT salts|NNS in|IN urine|NN to|TO generate|VB chlorine|NN </s>|S_END
+<s>|S_START this|DT creates|VBZ a|DT mildly|RB disinfecting|VBG solution|NN that|IN can|MD be|VB used|VBN to|TO flush|VB the|DT toilet|NN </s>|S_END
+<s>|S_START the|DT second|JJ is|VBZ hydrogen|VBN which|WDT is|VBZ suitable|JJ for|IN cooking|NN or|CC for|IN powering|NN a|DT fuel|NN cell|NN to|TO produce|VB electricity|NN </s>|S_END
+<s>|S_START the|DT residue|JJ from|IN the|DT process|NN can|MD be|VB used|VBN as|IN fertiliser|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT gates|NNS foundation|NN will|MD now|RB pay|VB for|IN prototypes|NNS to|TO be|VB tested|VBN in|IN the|DT field|NN probably|RB of|IN all|DT three|CD winners|NNS and|CC possibly|RB of|IN some|DT other|JJ idea|NN </s>|S_END
+<s>|S_START mr|NN gates|NNS hopes|VBZ that|IN the|DT foundation’s|NNS reinvented|VBD toilets|NNS will|MD start|VB being|VBG deployed|VBN more|JJR widely|RB in|IN as|IN little|JJ as|IN two|CD year|NN </s>|S_END
+<s>|S_START they|PRP will|MD thus|RB be|VB able|JJ to|TO help|VB achieve|JJ what|WP is|VBZ the|DT most|RBS offtrack|JJ of|IN the|DT united|VBN nations’|-NONE- millennium|NN development|NN goals|NNS to|TO halve|VB by|IN 2015|CD the|DT proportion|NN of|IN people|NNS without|IN sustainable|JJ access|NN to|TO basic|JJ sanitation|NN </s>|S_END
+<s>|S_START as|IN the|DT chairman|NN of|IN the|DT un|NN secretarygeneral’s|VBZ advisory|NN board|NN on|IN water|NN and|CC sanitation|NN the|DT prince|NN of|IN orange|JJ observes|NNS “politicians|NNS and|CC leaders|NNS worldwide|VBP don’t|JJ like|IN to|TO be|VB associated|VBN with|IN toilets|NNS even|RB stateoftheart|VB toilet|NN </s>|S_END
+<s>|S_START this|DT sanitation|NN stigma|NN distorts|NNS international|JJ and|CC national|JJ development|NN agendas”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN hoffman|NN agrees|VBZ that|IN sanitation|NN is|VBZ insufficiently|RB sexy|JJ </s>|S_END
+<s>|S_START he|PRP says|VBZ the|DT technology|NN behind|IN his|PRP$ solarpowered|VBN toilet|NN had|VBD been|VBN sitting|VBG on|IN the|DT shelf|NN since|IN he|PRP demonstrated|VBD it|PRP to|TO nasa|VB america’s|JJ space|NN agency|NN in|IN the|DT early|JJ 1990s|CD for|IN use|NN on|IN the|DT international|JJ space|NN station|NN </s>|S_END
+<s>|S_START “it|JJ is|VBZ hard|JJ to|TO get|VB a|DT scientific|JJ grant|NN for|IN treating|NN faeces”|NN he|PRP say|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB the|DT gates|NNS foundation|NN itself|PRP which|WDT hands|NNS out|IN around|IN $|$ 3|CD billion|CD each|DT year|NN has|VBZ devoted|VBN just|RB $|$ 65m|CD to|TO its|PRP$ reinventing|NN the|DT toilet|NN challenge|NN </s>|S_END
+<s>|S_START but|CC that|DT will|MD change|VB as|IN the|DT project|NN moves|VBZ from|IN conception|NN to|TO delivery|NN </s>|S_END
+<s>|S_START the|DT foundation|NN plans|VBZ to|TO spend|VB up|RP to|TO $|$ 80m|CD a|DT year|NN on|IN sanitation|NN an|DT investment|NN that|IN the|DT world|NN health|NN organisation|NN estimates|NNS will|MD produce|VB a|DT return|NN of|IN 900|CD in|IN the|DT form|NN of|IN social|JJ and|CC economic|JJ benefits|NNS from|IN increased|VBN productivity|NN and|CC reduced|VBD healthcare|NN cost|NN </s>|S_END
+</p>|P_END
+

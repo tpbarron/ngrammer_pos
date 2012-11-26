@@ -1,0 +1,16 @@
+<p>|P_START
+<s>|S_START on|IN september|NN 22nd|CD the|DT beer|NN started|VBD flowing|VBG at|IN the|DT annual|JJ oktoberfest|NN in|IN munich|NN </s>|S_END
+<s>|S_START last|JJ year|NN over|IN the|DT course|NN of|IN the|DT 16day|JJ event|NN visitors|NNS glugged|VBD 75m|CD litre|NN </s>|S_END
+<s>|S_START for|IN a|DT halflitre|NN a|DT trifle|NN by|IN bavarian|JJ standards|NNS an|DT average|JJ german|NN needs|VBZ to|TO work|VB only|RB seven|CD minutes|NNS according|VBG to|TO analysts|NNS at|IN ubs|NNS a|DT swiss|JJ bank|NN </s>|S_END
+<s>|S_START for|IN czechs|NNS who|WP swig|NN even|RB more|RBR than|IN germans|NNS the|DT figure|NN is|VBZ similar|JJ </s>|S_END
+<s>|S_START only|RB americans|VBZ need|VBN work|NN less|JJR for|IN their|PRP$ ale|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START indians|NNS by|IN contrast|NN must|MD toil|VB for|IN nearly|RB an|DT hour|NN before|IN they|PRP have|VBP earned|VBN enough|JJ to|TO quench|NN their|PRP$ thirst|NN the|DT world|NN average|NN is|VBZ 20|CD minute|NN </s>|S_END
+<s>|S_START but|CC india|IN will|MD be|VB the|DT fastestgrowing|NN market|NN by|IN volume|NN in|IN coming|VBG year|NN </s>|S_END
+<s>|S_START growing|VBG adult|NN populations|NNS and|CC rising|VBG living|NN standards|NNS mean|VBP that|IN beer|NN consumption|NN in|IN emerging|NN markets|NNS is|VBZ booming|VBG </s>|S_END
+<s>|S_START drinkers|NNS there|EX drank|NN twothirds|NNS of|IN the|DT world’s|JJ beer|NN in|IN 2011|CD </s>|S_END
+<s>|S_START by|IN 2016|CD it|PRP will|MD be|VB 72|CD </s>|S_END
+</p>|P_END
+

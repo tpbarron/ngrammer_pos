@@ -1,0 +1,153 @@
+<p>|P_START
+<s>|S_START microsofts|NNS desktop|VBP left|VBN xbox|NN middle|NN and|CC windows|VBZ phone|NN right|RB will|MD soon|RB share|VB one|CD common|JJ interface|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN microsoft|NN is|VBZ staging|VBG a|DT comeback|NN and|CC unlikely|RB as|IN this|DT sounds|NNS its|PRP$ one|CD apple|NN and|CC google|JJ should|MD be|VB worried|VBN about|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsofts|NNS recipe|VBP relies|NNS on|IN three|CD key|JJ ingredients|NNS windows|VBZ windows|NNS phone|NN and|CC xbox|NN </s>|S_END
+<s>|S_START the|DT secret|NN sauce|NN which|WDT features|NNS a|DT dash|NN of|IN bing|VBG and|CC skydrive|JJ is|VBZ still|RB simmering|VBG </s>|S_END
+<s>|S_START but|CC microsoft|VBD is|VBZ nothing|NN if|IN not|RB patient|NN and|CC it|PRP thinks|VBZ its|PRP$ trio|NN of|IN core|NN consumer|NN products|NNS will|MD blend|VB together|RB in|IN the|DT next|JJ few|JJ years|NNS to|TO form|NN a|DT major|JJ new|JJ ecosystem|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START heres|NNS the|DT big|JJ vision|NN whether|IN youre|NN using|VBG your|PRP$ tv|NN pc|NN tablet|NN phone|NN or|CC almost|RB any|DT other|JJ device|NN that|IN comes|VBZ along|IN youll|JJ be|NN able|JJ to|TO accomplish|VB all|DT the|DT same|JJ tasks|NNS through|IN all|DT the|DT same|JJ platform|NN </s>|S_END
+<s>|S_START the|DT form|NN factor|NN will|MD change|VB but|CC the|DT core|NN experience|NN wont|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START people|NNS are|VBP starting|VBG to|TO see|VB the|DT same|JJ lookandfeel|NN across|IN the|DT three|CD screens|NNS and|CC the|DT cloud|NN says|VBZ craig|JJ beilinson|NN director|NN of|IN microsofts|NNS consumer|NN marketing|NN </s>|S_END
+<s>|S_START this|DT is|VBZ all|DT going|VBG to|TO get|VB pretty|RB blurry|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ a|DT vision|NN shared|VBN by|IN apple|NN aapl|NN fortune|NN 500|CD and|CC google|JJ goog|NN fortune|NN 500|CD but|CC their|PRP$ implementations|NNS are|VBP fundamentally|RB different|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT linchpin|NN of|IN microsofts|NNS plan|VBP is|VBZ windows|NNS 8|CD which|WDT is|VBZ set|VBN to|TO launch|VB this|DT fall|NN </s>|S_END
+<s>|S_START the|DT new|JJ operating|NN system|NN features|NNS touchscreen|IN integration|NN and|CC the|DT interactive|JJ tilebased|VBN metro|NN user|NN interface|NN which|WDT debuted|VBN in|IN late|JJ 2010|CD for|IN windows|NNS phone|NN 7|CD and|CC made|VBD its|PRP$ way|NN to|TO xbox|VB last|JJ summer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT lets|NNS windows|VBZ run|VBN quite|RB well|RB according|VBG to|TO early|JJ reviews|NNS on|IN a|DT host|NN of|IN new|JJ devices|NNS including|VBG tablets|NNS table|JJ tops|NNS large|JJ touchscreen|NN displays|NNS and|CC convertible|JJ notebooks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoft|NN is|VBZ also|RB baking|VBG cloudbased|VBN services|NNS like|IN windows|NNS live|VBP skydrive|JJ and|CC bing|VBG into|IN all|DT of|IN its|PRP$ consumer|NN products|NNS </s>|S_END
+<s>|S_START sign|NN in|IN on|IN any|DT device|NN and|CC youll|JJ have|VBP access|NN to|TO all|DT of|IN your|PRP$ content|NN apps|NNS preferences|NNS and|CC search|NN history|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apple|NN and|CC googles|NNS device|NN ecosystems|NNS are|VBP more|RBR fragmented|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apple|NN says|VBZ were|VBD in|IN a|DT postpc|NN world|NN </s>|S_END
+<s>|S_START its|PRP$ solution|NN puts|NNS mobile|JJ devices|NNS like|IN the|DT ipad|JJ and|CC iphone|NN at|IN the|DT forefront|NN envisioning|VBG the|DT pc|NN as|IN a|DT wholly|RB separate|JJ device|NN and|CC platform|NN </s>|S_END
+<s>|S_START macs|NNS integrate|VBP with|IN ios|NNS devices|NNS but|CC theres|NNS a|DT clear|JJ schism|NN in|IN apples|NNS world|NN view|NN mobile|NN devices|NNS are|VBP for|IN content|NN consumption|NN macs|NNS are|VBP for|IN creation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN example|NN its|PRP$ hard|NN to|TO build|VB ipad|JJ apps|NNS on|IN an|DT actual|JJ ipad|NN </s>|S_END
+<s>|S_START to|TO run|VBN apples|NNS xcode|VBP developer|NN software|NN you|PRP need|VBP a|DT mac|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START googles|NNS model|VBP focuses|NNS on|IN the|DT web|NN as|IN the|DT single|JJ platform|NN of|IN the|DT future|NN </s>|S_END
+<s>|S_START its|PRP$ a|DT deviceagnostic|JJ approach|NN but|CC it|PRP requires|VBZ constant|JJ connectivity|NN </s>|S_END
+<s>|S_START once|RB you|PRP go|VBP offline|NN your|PRP$ connection|NN to|TO googles|NNS computing|VBG platform|NN vanishes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START right|RB now|RB both|DT are|VBP thrashing|VBG microsoft|NN in|IN key|JJ markets|NNS </s>|S_END
+<s>|S_START microsoft|NN has|VBZ watched|VBN apple|NN race|NN past|NN it|PRP in|IN media|NNS and|CC tablets|NNS </s>|S_END
+<s>|S_START google|NN captured|VBD search|NN and|CC the|DT cloud|NN and|CC both|DT companies|NNS overtook|VBP microsoft|JJ in|IN smartphones|NNS </s>|S_END
+<s>|S_START meanwhile|RB sales|NNS of|IN the|DT pc|NN microsofts|NNS bread|VBP and|CC butter|NN have|VBP stalled|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT puts|VBZ microsoft|NN in|IN an|DT unusual|JJ position|NN </s>|S_END
+<s>|S_START its|PRP$ the|DT underdog|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoftturnedgoogleturnedmicrosoft|NN engineer|NN james|VBZ whittaker|NN explained|VBD that|IN phenomenon|NN in|IN a|DT recent|JJ blog|NN post|NN about|IN why|WRB he|PRP left|VBD his|PRP$ job|NN as|IN a|DT head|NN engineer|NN on|IN social|JJ network|NN google|NN to|TO return|VB to|TO redmond|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START facing|VBG an|DT existential|JJ crisis|NN microsoft|NN is|VBZ making|VBG radical|JJ changes|NNS </s>|S_END
+<s>|S_START windows|NNS and|CC office|NN have|VBP clearly|RB undergone|VBN some|DT sort|NN of|IN genetic|JJ reengineering|NN he|PRP says|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT lightly|RB veiled|VBN swipe|NN at|IN google|NN he|PRP added|VBD most|JJS big|JJ competitors|NNS dont|NN want|VBP the|DT disruption|NN </s>|S_END
+<s>|S_START when|WRB you|PRP make|VBP your|PRP$ money|NN on|IN the|DT status|NN quo|NN you|PRP are|VBP incented|VBN to|TO move|VB slow|JJ or|CC not|RB at|IN all|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoft|NN cant|VBD afford|NN to|TO move|VB slow|JJ </s>|S_END
+<s>|S_START it|PRP knows|VBZ that|IN in|IN five|CD years|NNS the|DT pc|NN wont|NN be|VB what|WP it|PRP is|VBZ today|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START your|PRP$ office|NN desktop|NN will|MD probably|RB still|RB have|VB a|DT monitor|NN a|DT mouse|NN and|CC a|DT keyboard|NN but|CC those|DT are|VBP just|RB accessories|NNS </s>|S_END
+<s>|S_START as|IN mobile|JJ devices|NNS get|VBP better|RBR and|CC faster|JJR theyre|NN taking|VBG over|RP more|JJR of|IN our|PRP$ computing|NN tasks|NNS </s>|S_END
+<s>|S_START soon|RB a|DT smartphone|NN or|CC a|DT tablet|NN could|MD be|VB your|PRP$ central|JJ device|NN </s>|S_END
+<s>|S_START plug|NN it|PRP into|IN your|PRP$ desktop|NN dock|NN in|IN the|DT morning|NN then|RB take|VB it|PRP with|IN you|PRP at|IN night|NN and|CC youll|JJ have|VBP have|VBP an|DT extremely|RB portable|JJ allinone|NN computer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS the|DT world|NN for|IN which|WDT microsoft|NN is|VBZ building|VBG windows|NNS 8|CD </s>|S_END
+<s>|S_START it|PRP can|MD run|VB everything|NN from|IN a|DT touchscreen|NN app|NN like|IN angry|NN birds|NNS to|TO resourceintensive|VB software|NN such|JJ as|IN 3d|JJ games|NNS and|CC video|NN editing|NN tools|NNS </s>|S_END
+<s>|S_START that|DT sounds|VBZ simple|JJ but|CC its|PRP$ an|DT allinone|NN approach|NN microsofts|NNS rivals|NNS have|VBP chosen|VBN not|RB to|TO pursue|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START windows|NNS 8|CD probably|RB wont|NN be|VB an|DT instant|JJ hit|NN </s>|S_END
+<s>|S_START its|PRP$ a|DT dramatic|JJ change|NN and|CC corporate|JJ it|PRP departments|VBZ windows|VBZ biggest|JJS customer|NN base|NN are|VBP slow|JJ to|TO shift|NN directions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS ok|VBP with|IN microsoft|JJ </s>|S_END
+<s>|S_START its|PRP$ prepared|VBN to|TO play|VB the|DT long|JJ game|NN devoting|VBG years|NNS and|CC often|RB billions|NNS of|IN dollars|NNS to|TO cracking|VBG the|DT markets|NNS it|PRP considers|VBZ critical|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS why|WRB it|PRP was|VBD willing|JJ to|TO lose|VB money|NN for|IN so|RB long|RB on|IN xbox|NN which|WDT recently|RB became|VBD the|DT worlds|NNS leading|VBG game|NN system|NN </s>|S_END
+<s>|S_START thats|NNS also|RB why|WRB it|PRP is|VBZ willing|JJ to|TO plow|VB billions|NNS each|DT year|NN into|IN bing|NN which|WDT remains|VBZ a|DT financial|JJ black|NN hole|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START were|VBD a|DT company|NN that|WDT has|VBZ extraordinary|JJ patience|NN says|VBZ microsofts|NNS beilinson|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START patience|NN is|VBZ great|JJ but|CC execution|NN is|VBZ critical|JJ </s>|S_END
+<s>|S_START microsofts|NNS mobile|VBP track|NN record|NN is|VBZ littered|VBN with|IN some|DT spectacular|JJ failures|NNS like|IN windows|NNS ce|VBP the|DT mobile|JJ operating|NN system|NN designed|VBN to|TO look|VB and|CC function|NN like|IN windows|NNS on|IN the|DT desktop|NN </s>|S_END
+<s>|S_START sound|NN familiar|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START theres|NNS signs|NNS microsoft|VBP has|VBZ finally|RB learned|VBN from|IN its|PRP$ previous|JJ catastrophes|NNS </s>|S_END
+<s>|S_START its|PRP$ consumer|NN preview|NN version|NN of|IN windows|NNS 8|CD is|VBZ drawing|VBG cautiously|RB optimistic|JJ reviews|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cnet|NN reviewer|NN seth|NN rosenblatt|NN calls|VBZ it|PRP the|DT most|RBS ambitious|JJ operating|NN system|NN ever|RB with|IN a|DT speed|NN and|CC responsiveness|NN that|IN windows|VBZ has|VBZ never|RB had|VBD before|IN </s>|S_END
+<s>|S_START gizmodo|NN deemed|VBD it|PRP a|DT daring|VBG and|CC brilliant|JJ while|IN the|DT telegraph|NN says|VBZ its|PRP$ microsofts|NNS most|RBS radical|JJ release|NN in|IN a|DT generation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT the|DT reviewers|NNS point|VBP out|RP a|DT key|JJ question|NN mark|NN hanging|VBG over|IN windows|NNS 8|CD developer|NN support|NN </s>|S_END
+<s>|S_START the|DT platform|NN will|MD only|RB take|VB off|RP if|IN software|NN makers|NNS embrace|NN it|PRP as|IN a|DT legitimate|NN third|JJ player|NN in|IN the|DT appleandgoogle|NN field|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS why|WRB microsoft|JJ is|VBZ throwing|VBG everything|NN it|PRP has|VBZ into|IN creating|NN a|DT new|JJ ecosystem|NN </s>|S_END
+<s>|S_START it|PRP cant|VBD afford|NN to|TO be|VB wrong|JJ </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

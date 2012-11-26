@@ -1,0 +1,82 @@
+<p>|P_START
+<s>|S_START quick|NN which|WDT country|NN is|VBZ the|DT world’s|JJ thirdbiggest|NN producer|NN of|IN oil|NN </s>|S_END
+<s>|S_START the|DT answer|NN this|DT is|VBZ the|DT lexington|NN column|NN after|IN all|DT is|VBZ the|DT united|VBN state|NN </s>|S_END
+<s>|S_START what|WP is|VBZ more|RBR its|PRP$ best|JJS days|NNS as|RB an|DT oil|NN power|NN seem|VBP to|TO be|VB ahead|RB of|IN it|PRP output|VBD has|VBZ increased|VBN by|IN 15|CD over|IN the|DT past|JJ five|CD year|NN </s>|S_END
+<s>|S_START better|JJR yet|RB america|NN is|VBZ unearthing|VBG natural|JJ gas|NN at|IN an|DT even|RB more|RBR impressive|JJ clip|NN according|VBG to|TO bp|VB it|PRP is|VBZ the|DT world’s|JJ biggest|NN producer|NN and|CC output|NN has|VBZ swollen|VBN by|IN 24|CD since|IN 2006|CD </s>|S_END
+<s>|S_START best|JJS of|IN all|DT for|IN those|DT who|WP believe|VBP that|IN fossil|NN fuels|NNS and|CC the|DT climate|NN are|VBP irreconcilable|JJ foes|NNS america’s|-NONE- greenhousegas|VBZ emissions|NNS declined|VBD by|IN 5|CD in|IN the|DT five|CD years|NNS to|TO 2010|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT this|DT needs|VBZ a|DT little|RB context|JJ of|IN course|NN </s>|S_END
+<s>|S_START america|NN burns|NNS through|IN a|DT little|RB more|RBR gas|IN than|IN it|PRP produces|VBZ and|CC more|JJR than|IN twice|NN as|IN much|JJ oil|NN so|IN when|WRB the|DT price|NN of|IN fossil|NN fuels|NNS rises|NNS the|DT economy|NN still|RB suffers—although|JJ much|JJ less|NN than|IN it|PRP would|MD do|VB without|IN this|DT bounty|NN of|IN hydrocarbon|NN </s>|S_END
+<s>|S_START the|DT oil|NN price|NN has|VBZ shot|VBN up|RP even|RB faster|JJR than|IN america’s|JJ output|NN of|IN the|DT stuff|NN since|IN the|DT extra|JJ domestic|JJ supply|NN has|VBZ been|VBN vastly|RB outweighed|VBN by|IN booming|NN global|JJ demand|NN </s>|S_END
+<s>|S_START the|DT drop|NN in|IN america’s|JJ emissions|NNS stems|NNS in|IN part|NN though|IN not|RB entirely|RB from|IN the|DT recession|NN </s>|S_END
+<s>|S_START and|CC america|VBD still|RB billows|VBZ out|RP more|JJR climateaddling|VBG pollution|NN per|IN head|NN than|IN almost|RB any|DT other|JJ country—only|JJ a|DT handful|NN of|IN islets|NNS and|CC petrostates|NNS are|VBP worse|RB offender|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nonetheless|RB in|IN recent|JJ years|NNS america|NN has|VBZ come|VBN to|TO resemble|JJ much|RB more|RBR closely|RB that|IN brightly|RB lit|JJ fumefree|NN city|NN on|IN a|DT hill|NN that|WDT policy|NN wonks|VBZ dream|NN about|IN where|WRB energy|NN is|VBZ cheap|NN clean|NN and|CC reliable|JJ if|IN you|PRP consider|VBP selfsufficiency|NN a|DT proxy|NN for|IN reliability|NN </s>|S_END
+<s>|S_START natural|JJ gas|NN thanks|NNS to|TO the|DT rapid|JJ spread|NN of|IN “fracking”|JJ a|DT whizzbang|NN technique|NN to|TO extract|VB oil|NN and|CC gas|NN from|IN shale|NN is|VBZ cheap|NN and|CC abundant|JJ </s>|S_END
+<s>|S_START using|VBG gas|NN instead|RB of|IN grubbier|JJR coal|NN to|TO generate|VB electricity|NN has|VBZ helped|VBN to|TO trim|VB emissions|NNS while|IN restraining|VBG power|NN price|NN </s>|S_END
+<s>|S_START and|CC even|RB though|IN petrol|NN gasoline|NN is|VBZ still|RB dear|JJ ever|NN more|RBR efficient|JJ cars|NNS are|VBP helping|VBG americans|NNS to|TO travel|NN farther|NN for|IN le|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT obama|NN administration|NN has|VBZ done|VBN a|DT few|JJ things|NNS to|TO advance|VB this|DT happy|NN state|NN of|IN affair|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ opening|VBG new|JJ parts|NNS of|IN the|DT country|NN to|TO drilling|VBG although|IN not|RB as|IN quickly|RB as|IN oilmen|NNS would|MD like|VB </s>|S_END
+<s>|S_START this|DT week|NN it|PRP seemed|VBD poised|VBN to|TO allow|VB shell|NN to|TO start|VB prospecting|NN in|IN the|DT icy|NN waters|NNS off|IN the|DT north|JJ coast|NN of|IN alaska|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ also|RB on|IN the|DT verge|NN of|IN promulgating|VBG ambitious|JJ plans|NNS to|TO double|VB the|DT average|JJ “fuel|NN economy”|NN of|IN american|JJ cars|NNS by|IN 2025|CD </s>|S_END
+<s>|S_START its|PRP$ regulations|NNS tsar|NN cass|NN sunstein|NN who|WP announced|VBN his|PRP$ resignation|NN recently|RB made|VBD an|DT effort|NN to|TO rescind|VB redundant|JJ and|CC onerous|JJ red|JJ tape|NN especially|RB for|IN the|DT energy|NN industry|NN </s>|S_END
+<s>|S_START perhaps|RB most|RBS important|JJ the|DT administration|NN has|VBZ done|VBN nothing|NN to|TO deter|VB the|DT spread|NN of|IN fracking|VBG despite|IN the|DT concerns|NNS of|IN environmentalists|NNS that|WDT the|DT practice|NN may|MD pollute|VB groundwater|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN the|DT most|JJS part|NN however|RB america’s|JJ good|JJ fortune|NN has|VBZ come|VBN despite|IN the|DT unqualified|JJ failure|NN of|IN mr|NN obama’s|NNS most|JJS cherished|JJ policies|NNS on|IN energy|NN </s>|S_END
+<s>|S_START the|DT capandtrade|NN scheme|NN he|PRP wanted|VBD to|TO adopt|VB to|TO cut|VB greenhousegas|NNS emissions|NNS evaporated|VBD in|IN the|DT febrile|NN air|NN of|IN congre|NN </s>|S_END
+<s>|S_START the|DT enthusiasm|NN he|PRP shared|VBD with|IN george|NN w|NN bush|NN for|IN biofuels|NNS made|VBN from|IN agricultural|JJ waste|NN rather|RB than|IN crops|NNS has|VBZ also|RB proved|VBD misplaced|VBN </s>|S_END
+<s>|S_START refiners|NNS are|VBP in|IN theory|NN still|RB required|VBN to|TO mix|VB fixed|VBN quantities|NNS of|IN “cellulosic|JJ ethanol”|NN into|IN their|PRP$ wares|NNS but|CC are|VBP finding|VBG it|PRP tricky|JJ to|TO do|VB so|RB as|IN no|DT one|NN is|VBZ making|VBG any|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START talk|NN of|IN building|NN a|DT power|NN plant|NN that|IN runs|VBZ on|IN “clean|JJ coal”|NN has|VBZ as|RB yet|RB come|VBN to|TO naught|NN </s>|S_END
+<s>|S_START mr|NN obama’s|NNS once|RB relentless|JJ boosting|NN of|IN renewable|JJ energy|NN and|CC green|JJ jobs|NNS has|VBZ become|VBN a|DT political|JJ liability|NN thanks|NNS to|TO the|DT bankruptcy|NN of|IN solyndra|NN a|DT maker|NN of|IN solar|JJ panels|NNS on|IN which|WDT his|PRP$ administration|NN lavished|VBD money|NN and|CC attention|NN </s>|S_END
+<s>|S_START meanwhile|RB even|RB if|IN mr|NN obama|NN did|VBD not|RB actively|RB oppose|VBP the|DT shalegas|NNS boom|VBP he|PRP did|VBD little|JJ to|TO promote|VB it|PRP either|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ not|RB to|TO say|VB that|IN policy|NN is|VBZ irrelevant|JJ </s>|S_END
+<s>|S_START in|IN fact|NN policy|NN has|VBZ been|VBN crucial|JJ to|TO the|DT revival|NN of|IN america’s|JJ energy|NN industry|NN </s>|S_END
+<s>|S_START but|CC the|DT sorts|NNS of|IN policies|NNS that|WDT matter|NN most|JJS are|VBP so|RB basic|JJ that|IN they|PRP would|MD never|RB seem|VB weighty|JJ or|CC visionary|JJ enough|JJ to|TO grace|VB a|DT political|JJ platform|NN </s>|S_END
+<s>|S_START first|JJ and|CC foremost|RB the|DT boom|NN depends|VBZ on|IN a|DT free|JJ liquid|NN competitive|JJ market|NN in|IN gas|NN underpinned|VBD by|IN an|DT extensive|JJ and|CC wellregulated|VBD pipeline|NN network|NN </s>|S_END
+<s>|S_START a|DT relatively|RB mild|VBN system|NN of|IN royalties|NNS and|CC taxes|NNS makes|VBZ drilling|VBG lucrative|JJ and|CC a|DT relatively|RB permissive|JJ bureaucracy|NN allows|VBZ it|PRP to|TO happen|VB </s>|S_END
+<s>|S_START thanks|NNS to|TO its|PRP$ particular|JJ mix|NN of|IN policy|NN and|CC culture|NN america|NN has|VBZ the|DT engineers|NNS to|TO dream|VB up|RP and|CC perfect|VB the|DT necessary|JJ technology|NN and|CC the|DT investors|NNS to|TO fund|VB their|PRP$ work|NN </s>|S_END
+<s>|S_START these|DT are|VBP rarer|RBR qualities|NNS than|IN one|CD might|MD imagine|VB at|IN any|DT rate|NN no|DT other|JJ country|NN has|VBZ seen|VBN its|PRP$ shale|NN gas|NN exploited|VBD so|RB vigorously|RB though|IN many|JJ have|VBP equally|RB promising|VBG geology|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START getting|VBG the|DT incentives|NNS right|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mitt|NN romney|NN seems|VBZ to|TO have|VB some|DT sense|NN of|IN all|DT thi|NN </s>|S_END
+<s>|S_START as|IN befits|NNS the|DT smallgovernment|NN candidate|NN he|PRP argues|VBZ for|IN less|JJR regulation|NN laxer|NN environmental|JJ standards|NNS and|CC fewer|JJR subsidie|NN </s>|S_END
+<s>|S_START he|PRP criticises|VBZ mr|NN obama|NN for|IN favouring|NN pet|NN firms|NNS and|CC technologie|VB </s>|S_END
+<s>|S_START he|PRP recently|RB said|VBD that|IN he|PRP would|MD allow|VB a|DT tax|NN credit|NN that|WDT serves|VBZ as|RB the|DT main|JJ incentive|NN for|IN wind|NN power|NN to|TO lapse|VB to|TO howls|NNS of|IN dismay|NN from|IN republicans|NNS and|CC democrats|NNS alike|VBP in|IN windy|NN state|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC mr|PRP$ romney|NN abjures|NNS any|DT concerted|VBN effort|NN to|TO stem|VB global|JJ warming|NN </s>|S_END
+<s>|S_START he|PRP wants|VBZ to|TO repeal|VB the|DT government’s|NNP power|NN to|TO regulate|VB greenhouse|NN gases|NNS under|IN the|DT clean|JJ air|NN act|NN but|CC does|VBZ not|RB propose|VB any|DT alternative|NN </s>|S_END
+<s>|S_START while|IN still|RB governor|NN of|IN massachusetts|NNS in|IN 2005|CD he|PRP backed|VBD away|RB from|IN a|DT regional|JJ emissionstrading|NN scheme|NN that|WDT he|PRP had|VBD initially|RB supported|VBN and|CC then|RB lambasted|VBD john|NN mccain|NN in|IN the|DT republican|JJ presidential|JJ primaries|NNS of|IN 2008|CD for|IN proposing|NN something|NN similar|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT is|VBZ making|VBG the|DT playing|NN field|NN too|RB level|NN </s>|S_END
+<s>|S_START the|DT lesson|NN of|IN the|DT shale|NN gas|NN boom|NN after|IN all|DT is|VBZ not|RB that|IN government|NN should|MD forswear|VB any|DT part|NN in|IN shaping|NN the|DT energy|NN mix|NN but|CC rather|RB that|IN innovation|NN and|CC entrepreneurship|NN can|MD yield|VB dramatic|JJ results|NNS in|IN a|DT short|JJ time|NN if|IN the|DT right|NN incentives|NNS are|VBP in|IN place|NN </s>|S_END
+<s>|S_START that|DT should|MD provide|VB great|JJ encouragement|NN to|TO those|DT like|IN mr|NN obama|NN who|WP worry|NN about|IN climate|NN change—as|NNS long|RB as|IN they|PRP are|VBP willing|JJ to|TO embrace|VB market|NN force|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogslexington|NN </s>|S_END
+</p>|P_END
+

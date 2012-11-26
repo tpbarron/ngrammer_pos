@@ -1,0 +1,75 @@
+<p>|P_START
+<s>|S_START san|NN quentin|NN prison|NN near|IN san|JJ francisco|NN houses|NNS californias|VBZ condemned|VBN prisoners|NNS whose|WP$ sentences|NNS would|MD be|VB changed|VBN to|TO life|VB without|IN parole|JJ under|IN the|DT prop|NN 34|CD measure|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN when|WRB voters|NNS in|IN cashstrapped|JJ california|NN go|NN to|TO the|DT polls|NNS tuesday|NN theyll|NN be|VB voting|VBG on|IN an|DT unusual|JJ measure|NN proponents|NNS say|VBP would|MD save|VB the|DT state|NN $|$ 130|CD million|CD a|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START proposition|NN 34|CD would|MD repeal|VB the|DT death|NN penalty|NN and|CC replace|NN it|PRP with|IN life|NN imprisonment|NN without|IN the|DT possibility|NN of|IN parole|NN </s>|S_END
+<s>|S_START it|PRP would|MD be|VB applied|VBN retroactively|RB to|TO the|DT more|RBR than|IN 700|CD current|JJ residents|NNS of|IN californias|NNS death|NN row|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT issue|NN say|VBP proponents|NNS is|VBZ cost|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START california|NN taxpayers|NNS have|VBP spent|VBN $|$ 4|CD billion|CD since|IN 1978|CD to|TO execute|VB just|RB 13|CD convicts|NNS according|VBG to|TO a|DT 2011|CD study|NN by|IN federal|JJ appeals|NNS judge|NN arthur|NN alarcon|NN and|CC his|PRP$ law|NN clerk|NN paula|NN mitchell|NN a|DT professor|NN at|IN loyola|NN law|NN school|NN </s>|S_END
+<s>|S_START that|DT equates|VBZ to|TO more|JJR than|IN $|$ 300|CD million|CD per|IN execution|NN a|DT colossal|NN bill|NN for|IN taxpayers|NNS struggling|VBG with|IN one|CD of|IN the|DT worst|JJS state|NN budget|NN crises|NNS in|IN the|DT country|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START californias|NNS capital|NN punishment|NN process|NN is|VBZ also|RB dysfunctional|JJ </s>|S_END
+<s>|S_START the|DT state|NN hasnt|NN executed|VBD anyone|NN in|IN six|CD years|NNS some|DT of|IN the|DT states|NNS condemned|VBD have|VBP been|VBN awaiting|VBG execution|NN since|IN the|DT 1970s|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nearly|RB half|NN of|IN the|DT states|NNS costs|VBZ go|RB to|TO pay|VB for|IN legal|JJ representation|NN for|IN death|NN row|NN convicts|NNS according|VBG to|TO brian|JJ brown|NN managing|VBG principal|NN analyst|NN for|IN the|DT legislative|JJ analysts|NNS office|NN in|IN california|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START proponents|NNS of|IN the|DT death|NN penalty|NN such|JJ as|IN the|DT organization|NN californians|NNS for|IN justice|NN and|CC public|JJ safety|NN say|NN that|IN the|DT ultimate|JJ punishment|NN is|VBZ applied|VBN only|RB to|TO the|DT most|JJS violent|NN and|CC heinous|JJ killers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START among|IN those|DT currently|RB on|IN death|NN row|NN are|VBP mass|NNS murderers|NNS and|CC serial|JJ rapists|NNS charles|NNS ng|VBP and|CC richard|NN the|DT night|NN stalker|NN ramirez|NN as|IN well|RB as|IN highprofile|JJ killer|NN scott|NN peterson|NN who|WP was|VBD convicted|VBN of|IN murdering|NN his|PRP$ pregnant|NN wife|NN laci|NN peterson|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START californians|NNS for|IN justice|NN and|CC public|JJ safety|NN says|VBZ less|JJR than|IN 2|CD of|IN all|DT convicted|VBN murderers|NNS in|IN california|NN qualify|NN for|IN the|DT death|NN penalty|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC death|NN penalty|NN opponents|NNS like|IN the|DT members|NNS of|IN yes|NNS on|IN 34safe|JJ california|NN campaign|NN argue|NN that|IN the|DT expense|NN of|IN capital|NN punishment|NN makes|VBZ it|PRP impractical|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START jeanne|NN woodford|VBD a|DT former|JJ warden|NN of|IN san|NN quentin|NN state|NN prison|NN who|WP oversaw|NN four|CD executions|NNS explains|VBZ on|IN the|DT yes|NNS on|IN 34|CD website|JJ that|IN death|NN row|NN convicts|NNS get|VBP a|DT legal|JJ team|NN for|IN life|NN to|TO support|VB them|PRP in|IN the|DT appeals|NNS process|NN </s>|S_END
+<s>|S_START this|DT is|VBZ what|WP makes|VBZ their|PRP$ incarceration|NN so|IN much|RB more|JJR expensive|JJ compared|VBN to|TO inmates|NNS serving|VBG life|NN sentences|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT cost|NN estimates|VBZ are|VBP a|DT matter|NN of|IN debate|NN </s>|S_END
+<s>|S_START prop|NN 34|CD opponent|NN kent|NN scheidegger|NN legal|JJ director|NN of|IN the|DT criminal|JJ justice|NN legal|JJ foundation|NN believes|NNS the|DT numbers|NNS used|VBN by|IN the|DT propositions|NNS supporters|NNS are|VBP inflated|VBN </s>|S_END
+<s>|S_START he|PRP said|VBD there|RB are|VBP no|DT reliable|JJ figures|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START scheidegger|NN also|RB argued|VBD that|IN eliminating|VBG the|DT death|NN penalty|NN is|VBZ not|RB the|DT only|JJ way|NN to|TO reduce|VB its|PRP$ cost|NN </s>|S_END
+<s>|S_START instead|RB he|PRP said|VBD california|NNS should|MD reduce|VB the|DT number|NN of|IN appeals|NNS to|TO one|CD instead|RB of|IN allowing|VBG multiple|NN appeals|NNS for|IN death|NN row|NN convicts|NNS which|WDT is|VBZ why|WRB the|DT process|NN drags|NNS on|IN for|IN so|RB long|RB and|CC costs|NNS so|RB much|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START everyones|NNS entitled|VBD to|TO a|DT trial|NN and|CC everyones|NNS entitled|VBD to|TO one|CD review|NN of|IN the|DT case|NN said|VBD scheidegger|NN who|WP doesnt|NN believe|VBP that|IN a|DT death|NN row|NN convict|NN should|MD be|VB allowed|VBN additional|JJ reviews|NNS unless|IN there|EX is|VBZ a|DT genuine|NN claim|NN that|IN he|PRP didnt|VBD do|VBP it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP cited|VBD the|DT state|NN of|IN virginia|NN where|WRB he|PRP said|VBD the|DT death|NN row|NN waiting|VBG time|NN has|VBZ been|VBN shortened|VBN to|TO five|CD or|CC six|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT dc|NN sniper|NN was|VBD executed|VBN less|JJR than|IN six|CD years|NNS after|IN his|PRP$ sentence|NN and|CC cases|NNS dont|VBP get|NN any|DT more|RBR complex|JJ than|IN that|DT one|CD he|PRP said|VBD referring|VBG to|TO the|DT 2009|CD execution|NN of|IN john|NN allen|VBN muhammad|NN who|WP shot|RB 13|CD people|NNS killing|VBG 10|CD </s>|S_END
+</p>|P_END
+

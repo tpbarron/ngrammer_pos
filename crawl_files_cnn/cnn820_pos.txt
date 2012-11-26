@@ -1,0 +1,22 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN its|PRP$ been|VBN a|DT bad|JJ few|JJ weeks|NNS for|IN monster|NN beverage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shares|NNS of|IN the|DT energy|NN drink|NN maker|NN plunged|VBD more|JJR than|IN 12|CD in|IN afterhours|NNS trading|NN wednesday|NN as|IN the|DT company|NN reported|VBD quarterly|RB results|NNS that|WDT missed|VBN analysts|NNS expectations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START monsters|NNS mnst|VBP earnings|NNS came|VBD in|IN at|IN 47|CD cents|NNS a|DT share|NN short|NN of|IN analysts|NNS estimates|NNS of|IN 55|CD cents|NNS </s>|S_END
+<s>|S_START sales|NNS hit|VBD $|$ 542|CD million|CD up|IN 14|CD from|IN last|JJ year|NN but|CC short|JJ of|IN analysts|NNS projected|VBN $|$ 578|CD million|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START monster|NN ceo|VBD rodney|NN sacks|NNS acknowledged|VBD that|IN sales|NNS growth|NN had|VBD been|VBN less|JJR robust|JJ than|IN in|IN previous|JJ quarters|NNS but|CC said|VBD october|NN sales|NNS were|VBD up|RB 28|CD versus|NNS a|DT year|NN ago|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT news|NN follows|VBZ an|DT announcement|NN last|JJ month|NN from|IN the|DT food|NN and|CC drug|NN administration|NN that|IN it|PRP had|VBD received|VBN adverse|NN incident|NN reports|NNS of|IN five|CD deaths|NNS involving|VBG monster|NN energy|NN drinks|NNS although|IN the|DT agency|NN added|VBD that|IN it|PRP had|VBD not|RB established|VBN direct|JJ links|NNS in|IN any|DT case|NN </s>|S_END
+<s>|S_START monster|NN denied|VBD that|IN its|PRP$ products|NNS had|VBD contributed|VBN to|TO any|DT fatalities|NNS but|CC shares|NNS sold|VBD off|RP sharply|RB following|VBG the|DT announcement|NN </s>|S_END
+</p>|P_END
+

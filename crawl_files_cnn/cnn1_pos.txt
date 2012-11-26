@@ -1,0 +1,91 @@
+<p>|P_START
+<s>|S_START the|DT unemployment|NN rate|NN fell|VBD to|TO 78|CD in|IN september|NN the|DT same|JJ rate|NN it|PRP was|VBD in|IN january|JJ 2009|CD when|WRB president|NN obama|NN was|VBD inaugurated|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN fridays|NNS monthly|RB jobs|NNS report|NN changed|VBD the|DT picture|NN of|IN the|DT us|PRP economy|NN in|IN more|JJR ways|NNS than|IN one|CD showing|NN the|DT unemployment|NN rate|NN fell|VBD to|TO the|DT lowest|JJS level|NN in|IN more|JJR than|IN three|CD years|NNS and|CC hiring|VBG was|VBD stronger|JJR than|IN originally|RB reported|VBN throughout|IN the|DT summer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unemployment|NN unexpectedly|RB fell|VBD to|TO 78|CD in|IN september|NN down|IN from|IN 81|CD as|IN a|DT survey|NN of|IN us|PRP households|VBZ showed|VBN 873000|CD more|RBR americans|NNS had|VBD jobs|NNS compared|VBN to|TO a|DT month|NN earlier|RBR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT last|JJ time|NN the|DT unemployment|NN rate|NN was|VBD that|IN low|JJ was|VBD in|IN january|JJ 2009|CD the|DT month|NN president|NN obama|NN was|VBD inaugurated|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT separate|JJ survey|NN of|IN employers|NNS considered|VBN the|DT key|JJ metric|JJ that|IN wall|JJ street|NN watches|NNS showed|VBD businesses|NNS added|VBD 114000|CD jobs|NNS in|IN september|NN </s>|S_END
+<s>|S_START it|PRP marked|VBD a|DT slowdown|NN in|IN hiring|NN after|IN july|RB and|CC august|RB were|VBD revised|VBN significantly|RB higher|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT revisions|NNS added|VBD 86000|CD more|JJR jobs|NNS than|IN originally|RB reported|VBN in|IN the|DT summer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ever|RB since|IN the|DT financial|JJ crisis|NN the|DT monthly|JJ jobs|NNS report|NN has|VBZ been|VBN the|DT most|RBS intensely|RB watched|VBN economic|JJ indicator|NN but|CC in|IN election|NN season|NN attention|NN surrounding|VBG the|DT numbers|NNS has|VBZ reached|VBN new|JJ heights|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD fiscal|JJ cliff|NN threatens|VBZ 277000|CD federal|JJ jobs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT labor|NN department|NN collects|NNS the|DT data|NNS monthly|RB using|VBG both|DT a|DT survey|NN of|IN employers|NNS and|CC a|DT smaller|JJR survey|NN of|IN households|NNS </s>|S_END
+<s>|S_START the|DT two|CD surveys|NNS dont|NN always|RB tell|VBP the|DT same|JJ story|NN on|IN the|DT first|JJ read|NN but|CC over|IN time|NN the|DT data|NNS is|VBZ revised|VBN to|TO reflect|VB more|JJR comprehensive|JJ information|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT most|RBS recent|JJ household|NN survey|NN the|DT biggest|JJS hiring|VBG gains|NNS came|VBD in|IN the|DT form|NN of|IN 582000|CD new|JJ parttime|NN jobs|NNS in|IN september|NN </s>|S_END
+<s>|S_START part|NN of|IN that|DT number|NN can|MD be|VB explained|VBN by|IN young|JJ workers|NNS ages|NNS 16|CD to|TO 24|CD </s>|S_END
+<s>|S_START the|DT data|NNS show|VBP this|DT age|NN group|NN saw|VBD a|DT huge|JJ pickup|NN in|IN jobs|NNS in|IN september|NN due|JJ almost|RB entirely|RB to|TO seasonal|JJ adjustments|NNS by|IN the|DT labor|NN department|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB the|DT employer|NN survey|NN showed|VBD the|DT health|NN care|NN sector|NN added|VBD 43500|CD jobs|NNS transportation|NN and|CC warehousing|NN added|VBD 17100|CD jobs|NNS and|CC restaurants|NNS and|CC bars|NNS added|VBD 15700|CD jobs|NNS </s>|S_END
+<s>|S_START manufacturers|NNS cut|VBD 16000|CD jobs|NNS the|DT second|JJ month|NN in|IN a|DT row|NN theyve|NN slashed|VBD workers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT government|NN added|VBD jobs|NNS for|IN the|DT third|JJ month|NN in|IN a|DT row|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START commentators|NNS from|IN both|DT sides|NNS of|IN the|DT political|JJ spectrum|NN were|VBD quick|JJ to|TO jump|VB on|IN the|DT numbers|NNS friday|NN morning|NN as|IN both|DT a|DT sign|NN that|IN the|DT job|NN market|NN has|VBZ improved|VBN recently|RB and|CC that|IN economic|JJ growth|NN remains|VBZ far|JJ too|RB slow|JJ to|TO pull|VB millions|NNS of|IN americans|NNS out|IN of|IN unemployment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT points|NNS are|VBP correct|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START did|VBD you|PRP get|VB a|DT job|NN </s>|S_END
+<s>|S_START tweet|NN us|PRP igotajob|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START although|IN the|DT unemployment|NN rate|NN is|VBZ right|RB back|RB to|TO where|WRB it|PRP was|VBD when|WRB obama|NN entered|VBN office|NN the|DT us|PRP economy|NN has|VBZ still|RB not|RB recovered|VBN all|DT the|DT jobs|NNS lost|VBD before|IN his|PRP$ inauguration|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN the|DT 88|CD million|CD jobs|NNS lost|VBD during|IN the|DT financial|JJ crisis|NN about|IN 43|CD million|CD have|VBP been|VBN added|VBN back|RP </s>|S_END
+<s>|S_START the|DT labor|NN department|NN signaled|VBD last|JJ week|NN that|IN it|PRP may|MD revise|VB the|DT job|NN gains|VBZ higher|JJR but|CC even|RB so|RB the|DT job|NN market|NN still|RB has|VBZ a|DT long|JJ way|NN to|TO go|VB before|IN its|PRP$ fully|RB healed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START about|IN 121|CD million|CD people|NNS were|VBD unemployed|VBN in|IN september|NN and|CC 40|CD of|IN them|PRP have|VBP been|VBN so|RB for|IN six|CD months|NNS or|CC more|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT socalled|VBN underemployment|NN rate|NN which|WDT includes|VBZ people|NNS who|WP are|VBP working|VBG part|NN time|NN for|IN economic|JJ reasons|NNS and|CC those|DT who|WP have|VBP recently|RB stopped|VBN looking|VBG for|IN a|DT job|NN was|VBD 147|CD in|IN september|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS economists|NNS expect|VBP the|DT economy|NN to|TO remain|VB slow|JJ for|IN the|DT foreseeable|JJ future|JJ growing|VBG around|IN 2|CD a|DT year|NN through|IN 2013|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START growth|NN at|IN that|DT rate|NN is|VBZ consistent|JJ with|IN about|RB 150000|CD jobs|NNS created|VBN each|DT month|NN just|RB enough|RB to|TO keep|VB up|RP with|IN population|NN growth|NN </s>|S_END
+</p>|P_END
+

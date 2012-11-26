@@ -1,0 +1,129 @@
+<p>
+<s>ever since the advent of the integrated circuit in the 1960s computing has been synonymous with chips of solid silicon</s>
+<s>but some researchers have been taking an alternative approach building liquid computers using dna and its cousin rna the naturally occurring nucleicacid molecules that encode genetic information inside cells</s>
+<s>rather than encoding ones and zeroes into high and low voltages that switch transistors on and off the idea is to use high and low concentrations of these molecules to propagate signals through a kind of computational soup</s>
+</p>
+
+<p>
+<s>computing with nucleic acids is much slower than using transistors</s>
+<s>unlike silicon chips however dnabased computers could be made small enough to operate inside cells and control their activity</s>
+<s>“if you can programme events at a molecular level in cells you can cure or kill cells which are sick or in trouble and leave the other ones intact</s>
+<s>you cannot do this with electronics” says luca cardelli of microsofts research centre in cambridge england where the software giant is developing tools for designing molecular circuits</s>
+</p>
+
+<p>
+<s>at the heart of such circuits is watsoncrick base pairing the chemical velcro that binds together the two strands of dnas double helix</s>
+<s>the four chemical “bases” the letters of the genetic alphabet that form the rungs of the helix stick together in complementary pairs a adenine with t thymine and c cytosine with g guanine</s>
+<s>by making single strands of dna or rna with specific a t c and g sequences researchers can precisely define and predict which part of a strand will bind to another</s>
+<s>these synthesised strands typically consist of fewer than 100 bases a gene by contrast has thousands of bases</s>
+</p>
+
+<p>
+<s>leonard adleman an american computer scientist first demonstrated the use of nucleicacid strand interactions for computing in 1994</s>
+<s>he solved a version of the travellingsalesman problem—given a network of linked cities what is the shortest route that visits each city exactly once—in a test tube using specially sequenced dna molecules and standard molecularbiology procedures see box</s>
+<s>solving such a specific task is a far cry from building a generalpurpose computer</s>
+<s>but it showed that information could indeed be processed using interactions between strands of synthetic dna</s>
+</p>
+
+<p>
+<s>dr adlemans work prompted other researchers to develop dnabased logic circuits the fundamental building blocks of computing using a variety of approaches</s>
+<s>the resulting circuits can perform simple mathematical and logical operations recognise patterns based on incomplete data and play simple games</s>
+<s>molecular circuits can even detect and respond to a disease signature inside a living cell opening up the possibility of medical treatments based on manmade molecular software</s>
+</p>
+
+<p>
+<s>liquid logic</s>
+</p>
+
+<p>
+<s>erik winfrees group at the california institute of technology caltech is one of the bestknown in this emerging field</s>
+<s>in recent years it has made many nucleic acidbased digital logic circuits in test tubes linking up logic gates capable of simple operations such as and or and not using a trick called strand displacement pioneered by three caltech researchers georg seelig david soloveichik and dave zhang</s>
+</p>
+
+<p>
+<s>in a stranddisplacement logic circuit inputs take the form of freefloating single dna or rna strands and logic gates are complexes of two or more such strands one of which is the potential output signal</s>
+<s>“sticky” tabs on the gates allow passing signals to latch on</s>
+<s>if an input signal has a basepair sequence complementary to the sequence on a gate it binds to it displacing the output strand and causing it to detach</s>
+<s>the freefloating output strand can then in turn trigger another logic gate causing a signal to travel through the circuit in a cascade</s>
+<s>billions of copies of the input gate and output molecules are intermixed in a molecular soup</s>
+<s>programming such a system involves choosing specific base sequences to make up the different gates and the signal paths that connect them</s>
+</p>
+
+<p>
+<s>in a paper published last year in the journal science dr winfree and his colleague lulu qian described the use of stranddisplacement cascades to build circuits of increasing complexity culminating in a circuit made of 74 different dna strands pictured that was capable of calculating the square roots of fourdigit binary numbers</s>
+<s>together with their colleague jehoshua bruck they then built a tiny neural network made up of four interconnected artificial neurons using a soup of 112 different interacting dna strands</s>
+<s>each neuron was designed to fire when the sum of its input signals exceeded a certain threshold and could be configured to assign different weights to different inputs</s>
+<s>such neural networks can recognise simple patterns even when presented with incomplete data</s>
+</p>
+
+<p>
+<s>to test their neural networks patternrecognition powers dr qian made up a game to identify one out of four scientists</s>
+<s>each scientist was represented by a different set of answers to four yesorno questions</s>
+<s>a human player would add to the test tube some but not all of the dna strands corresponding to one set of answers</s>
+<s>the circuit then guessed which scientist was the closest match showing its answer using differentcoloured fluorescent signals</s>
+<s>the circuit took eight hours to give its answer but got it right every time</s>
+<s>and this circuit should work in a volume of a cubic micron onemillionth of a metre says dr winfree which is small enough to fit into many sorts of cell</s>
+</p>
+
+<p>
+<s>milan stojanovic at columbia university is building circuits using a different form of strand displacement based on catalytic dna strands also known as deoxyribozymes or dnazymes</s>
+<s>these are synthetic singlestranded dna sequences that are among other things capable of cutting nearby dna strands in specific places</s>
+</p>
+
+<p>
+<s>dr stojanovic makes a dnazyme into a logic gate by attaching a loop of dna at one end that prevents the dnazyme from working</s>
+<s>when one or more input strands bind to complementary sequences on the loop the loop breaks activating the dnazyme and switching the gate on</s>
+<s>it can then interact with other strands chopping them to trigger other gates or activate fluorescent tags that display the circuits final output</s>
+<s>dr stojanovic and his colleague joanna macdonald have used this approach to build simple dnabased circuits capable of playing tictactoe though they take about half an hour to make each move</s>
+</p>
+
+<p>
+<s>yannick rondelez a researcher in molecular programming at the university of tokyo is creating circuits in test tubes in a way that more closely resembles the operation of natural cells</s>
+<s>he is using enzymes such as polymerases nucleases and exonucleases that can also copy cut and destroy nucleicacid strands</s>
+<s>in cells enzymes are the basis of the natural circuits that switch genes on and off maintain biological rhythms and produce molecular answers in response to environmental stimuli</s>
+<s>dr rondelez has used his enzymebased approach to build a molecular oscillator which should be a useful addition to the molecularcomputing toolbox</s>
+</p>
+
+<p>
+<s>a group at the swiss federal institute of technology eth zurich led by yaakov benenson in collaboration with ron weiss of the massachusetts institute of technology is also creating circuits using enzymes</s>
+<s>but unlike dr rondelezs circuits which work in test tubes these operate inside cells piggybacking on the existing cellular machinery found within them</s>
+<s>last year dr benensons team developed one of the most complex cellbased molecular circuits created so far though it is still much simpler than systems built in test tubes</s>
+<s>it is capable of recognising the signature of cervical cancer and destroying the host cell when it is found</s>
+</p>
+
+<p>
+<s>the circuit works by looking out for short strands called micrornas which regulate some processes within cells</s>
+<s>they do this by interfering with the activity of the messenger rna strands that transfer genetic information from the cells nucleus to its proteinmaking machinery</s>
+<s>dr benenson and his team chose five micrornas associated with cervical cancer and designed a “classifier” circuit able to detect them</s>
+<s>only if all five are found at the right levels does the circuit activate producing a protein that causes the cell to destroy itself</s>
+</p>
+
+<p>
+<s>computeraided dna</s>
+</p>
+
+<p>
+<s>rather than injecting the necessary components the researchers tricked the cell into producing them itself by adding instructions for them in the form of synthetic genes to the genetic instructions in the cells nucleus</s>
+<s>“we build the template in the form of synthetic genes and the cell turns them into components” says dr benenson</s>
+<s>“so we are hijacking the pathway that already exists” but this trick is currently possible only for simple circuits</s>
+</p>
+
+<p>
+<s>with molecular circuits becoming steadily more complex new software tools are being developed to design model and debug them</s>
+<s>microsofts researchers in cambridge are working with experimentalists at caltech the university of washington and the university of oxford on a programming language and simulator for stranddisplacement circuits called the dna strand displacement dsd tool</s>
+<s>users specify a description of a dnabased circuit including how individual dna strands are joined together and the software then simulates its behaviour explains andrew phillips the head of microsofts biologicalcomputation group</s>
+</p>
+
+<p>
+<s>dr phillipss group is also developing tools to model the machinery within cells including a language called genetic engineering of cells gec</s>
+<s>work is under way with syntheticbiology researchers at the university of cambridge to hook up these different biological modelling environments</s>
+<s>“you could have a model of a dna circuit written in dsd which interfaces with a model of the cell machinery written in gec” he says</s>
+<s>it would then be possible to simulate the operation of a dna circuit that runs inside a cell and outputs drug molecules when certain conditions are met for example</s>
+</p>
+
+<p>
+<s>treatments based on molecular computers are still some way off</s>
+<s>todays most elaborate dna circuits operate on work benches not inside cells</s>
+<s>but the border between computing and biology is vanishing fast and the process of hijacking the informationprocessing potential of dna to build logic circuits has only just begun</s>
+</p>
+

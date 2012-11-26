@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 29|CD gdp|NN $|$ 290bn|CD ppp|CD $|$ 538bn|CD inflation|NN 110|CD population|NN 877m|CD gdp|NN per|IN head|NN $|$ 3300|CD ppp|CD $|$ 6130|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT year|NN for|IN keeping|VBG promises|NNS the|DT army|NN must|MD hand|VB back|RB power|JJR the|DT country|NN must|MD hold|VB elections|NNS that|WDT are|VBP free|JJ and|CC fair|JJ the|DT constitutional|JJ assembly|NN must|MD draft|VB an|DT inclusive|JJ charter|NN and|CC the|DT new|JJ team|NN must|MD get|VB the|DT economy|NN back|RB on|IN an|DT even|RB keel|NN </s>|S_END
+<s>|S_START economic|JJ liberalisation|NN is|VBZ seen|VBN as|IN a|DT discredited|VBN legacy|NN of|IN the|DT last|JJ regime|NN and|CC state|NN intervention|NN may|MD rise|VB </s>|S_END
+<s>|S_START revolution|NN was|VBD bad|JJ for|IN growth|NN restarting|VBG the|DT economy|NN will|MD be|VB the|DT top|JJ priority|NN in|IN 2012|CD with|IN the|DT expansion|NN likely|JJ to|TO approach|VB 3|CD </s>|S_END
+</p>|P_END
+

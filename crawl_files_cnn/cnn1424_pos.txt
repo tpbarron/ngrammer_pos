@@ -1,0 +1,98 @@
+<p>|P_START
+<s>|S_START code|NN from|IN the|DT gauss|NN virus|VBZ a|DT new|JJ cyberweapon|NN that|WDT attacks|VBZ bank|NN accounts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN a|DT new|JJ cyberweapon|NN that|WDT secretly|RB steals|VBZ bank|NN account|NN information|NN from|IN its|PRP$ victims|NNS was|VBD exposed|VBN on|IN thursday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT sophisticated|VBN malware|NN discovered|VBN by|IN internet|NN security|NN company|NN kaspersky|NN labs|NNS has|VBZ been|VBN capturing|VBG online|NN bank|NN account|NN login|NN credentials|NNS from|IN its|PRP$ victims|NNS since|IN september|NN 2011|CD </s>|S_END
+<s>|S_START theres|NNS no|DT evidence|NN its|PRP$ been|VBN used|VBN to|TO steal|VB any|DT money|NN </s>|S_END
+<s>|S_START the|DT virus|NN instead|RB appears|VBZ to|TO be|VB a|DT spy|NN interested|JJ in|IN tracking|NN funds|NNS it|PRP collects|VBZ banking|VBG login|NN information|NN sends|NNS it|PRP back|RB to|TO a|DT server|NN and|CC quickly|RB selfdestructs|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dubbed|VBD gauss|NNS a|DT name|NN taken|VBN from|IN some|DT of|IN the|DT unique|JJ file|NN names|NNS in|IN its|PRP$ code|NN the|DT malware|NN appears|VBZ to|TO be|VB a|DT cyberespionage|NN weapon|NN designed|VBN by|IN a|DT country|NN to|TO target|VB and|CC track|VB specific|JJ individuals|NNS </s>|S_END
+<s>|S_START its|PRP$ not|RB known|VBN yet|RB who|WP created|VBN it|PRP but|CC gauss|VBZ shares|NNS many|JJ of|IN the|DT same|JJ code|NN and|CC characteristics|NNS of|IN other|JJ famous|JJ statesponsored|JJ cyberweapons|NNS including|VBG stuxnet|NN duqu|NN and|CC flame|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT viruses|NNS are|VBP widely|RB believed|VBN to|TO have|VB been|VBN developed|VBN by|IN the|DT us|PRP government|NN </s>|S_END
+<s>|S_START but|CC unlike|IN stuxnet|JJ and|CC flame|NN which|WDT targeted|VBN an|DT iranian|JJ nuclear|JJ facility|NN and|CC spied|VBD on|IN irans|NNS government|NN officials|NNS gauss|VBP seems|NNS to|TO have|VB primarily|RB gone|VBN after|IN people|NNS in|IN lebanon|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN the|DT 2500|CD or|CC so|RB discovered|VBN instances|NNS of|IN gauss|NNS across|IN the|DT world|NN about|IN 1660|CD of|IN them|PRP were|VBD found|VBN in|IN lebanon|NN </s>|S_END
+<s>|S_START the|DT virus|NN is|VBZ specifically|RB designed|VBN to|TO target|VB customers|NNS of|IN lebanese|JJ banks|NNS as|IN well|RB as|IN citibank|NN c|NN fortune|NN 500|CD and|CC ebays|NNS ebay|VBP fortune|NN 500|CD paypal|JJ which|WDT are|VBP widely|RB used|JJ in|IN lebanon|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START kaspersky|NN also|RB found|VBD 483|CD instances|NNS of|IN gauss|NNS in|IN israel|NN and|CC 261|CD in|IN the|DT palestinian|JJ territories|NNS </s>|S_END
+<s>|S_START only|RB 43|CD gauss|NNS instances|NNS were|VBD found|VBN to|TO be|VB in|IN the|DT united|VBN states|NNS and|CC just|RB a|DT handful|NN were|VBD discovered|VBN in|IN other|JJ parts|NNS of|IN the|DT world|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB certain|JJ regions|NNS are|VBP specifically|RB targeted|VBN thats|NNS a|DT telltale|NN marker|NN that|WDT a|DT piece|NN of|IN malware|NN has|VBZ been|VBN created|VBN by|IN a|DT government|NN </s>|S_END
+<s>|S_START viruses|NNS developed|VBD by|IN financially|RB motivated|VBN criminals|NNS are|VBP designed|VBN to|TO target|VB as|IN many|JJ people|NNS as|IN possible|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD story|NN the|DT cyber|NN cold|VBD war|NN is|VBZ raging|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT sign|NN that|IN a|DT government|NN is|VBZ behind|IN the|DT attack|NN gauss|NN doesnt|NN selfpropagate|NN </s>|S_END
+<s>|S_START kaspersky|NN couldnt|VBD figure|NN out|IN how|WRB it|PRP got|VBD onto|IN the|DT targeted|VBN systems|NNS in|IN the|DT first|JJ place|NN </s>|S_END
+<s>|S_START gauss|NN destroys|NNS itself|PRP once|RB it|PRP has|VBZ done|VBN the|DT damage|NN more|JJR evidence|NN that|IN this|DT is|VBZ no|DT ordinary|JJ computer|NN virus|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gauss|NN is|VBZ likely|JJ the|DT first|JJ statesponsored|VBN cyberweapon|NN to|TO specifically|RB target|VB bank|NN accounts|NNS kaspersky|VBP said|VBN </s>|S_END
+<s>|S_START though|IN most|JJS malware|JJ goes|NNS after|IN financial|JJ information|NN in|IN one|CD form|NN or|CC another|DT thats|NNS not|RB something|VBG governmentsponsored|VBN cyber|NN attackers|NNS have|VBP typically|RB been|VBN interested|JJ in|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gausss|NN goal|NN isnt|NN known|VBN but|CC its|PRP$ activation|NN date|NN might|MD be|VB a|DT hint|NN it|PRP launched|VBD on|IN september|NN 1|CD 2011|CD the|DT same|JJ date|NN that|IN cyberespionage|NN weapon|NN duqu|NN was|VBD publicly|RB discovered|VBN </s>|S_END
+<s>|S_START vitaly|RB kamlyuk|VBP a|DT senior|JJ antivirus|NN expert|NN at|IN kaspersky|JJ lab|NN said|VBD that|IN its|PRP$ possible|JJ that|IN after|IN duqu|NN was|VBD found|VBN the|DT developers|NNS just|RB took|VBD out|RP another|DT arrow|NN from|IN their|PRP$ quiver|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP dont|VBP know|VBP if|IN gauss|NNS took|VBD the|DT place|NN of|IN duqu|NN but|CC its|PRP$ a|DT strong|JJ possibility|NN he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START kasperky|NN labs|NNS found|VBD gauss|NNS in|IN may|MD when|WRB it|PRP was|VBD commissioned|VBN by|IN the|DT united|VBN nations|NNS international|JJ telecommunication|NN union|NN to|TO look|VB for|IN malicious|JJ applications|NNS similar|JJ to|TO the|DT potent|NN flame|NN virus|VBZ discovered|VBN earlier|JJR this|DT year|NN </s>|S_END
+<s>|S_START like|IN flame|NN duqu|NN and|CC stuxnet|NN gauss|NN is|VBZ written|VBN in|IN a|DT computer|NN language|NN called|VBN c|NN and|CC it|PRP shares|VBZ a|DT similar|JJ structure|NN and|CC code|NN base|NN </s>|S_END
+<s>|S_START the|DT biggest|JJS tipoff|NN gauss|NN and|CC flame|VBD both|DT contain|NN the|DT exact|JJ same|NN line|NN avnxsysuwip|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gauss|NN is|VBZ even|RB more|RBR intelligent|JJ than|IN flame|NN kamlyuk|NN thinks|NNS </s>|S_END
+<s>|S_START it|PRP exploits|VBZ a|DT vulnerability|NN found|VBD in|IN microsoft|NN msft|NN fortune|NN 500|CD windows|NNS to|TO break|VB into|IN a|DT users|NNS browser|NN </s>|S_END
+<s>|S_START even|RB if|IN a|DT user|NN shuts|NNS off|IN windows|NNS autorun|VBP feature|NN gauss|NNS will|MD start|VB up|RP when|WRB the|DT computer|NN boots|NNS and|CC go|VB on|IN the|DT attack|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD gauss|NN function|NN remains|VBZ a|DT mystery|NN its|PRP$ got|NN an|DT encrypted|JJ payload|NN kasperky|NN hasnt|NN cracked|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT payload|NN is|VBZ run|VBN by|IN infected|VBN usb|NN sticks|NNS and|CC is|VBZ designed|VBN to|TO surgically|RB target|VB a|DT certain|JJ system|NN or|CC systems|NNS which|WDT have|VBP a|DT specific|JJ program|NN installed|VBN the|DT company|NN wrote|VBD in|IN its|PRP$ analysis|NN </s>|S_END
+<s>|S_START one|CD can|MD only|RB speculate|VB on|IN the|DT purpose|NN of|IN this|DT mysterious|JJ payload|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT company|NN has|VBZ called|VBN on|IN cryptography|NN experts|NNS to|TO try|VB to|TO crack|VB the|DT code|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ a|DT cyberweapon|NN and|CC we|PRP dont|VBP know|VBP hot|JJ it|PRP could|MD be|VB used|VBN said|VBN kamlyuk|NN </s>|S_END
+<s>|S_START it|PRP could|MD be|VB used|VBN to|TO cause|VB a|DT big|JJ disaster|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gauss|NN was|VBD uncovered|VBN just|RB months|NNS after|IN flames|NNS discovery|VBP </s>|S_END
+<s>|S_START brace|NN for|IN more|JJR now|RB that|IN researchers|NNS know|VBP what|WP to|TO look|VB for|IN kamlyuk|NN said|VBD he|PRP expects|VBZ analysts|NNS to|TO find|VB many|JJ additional|JJ pieces|NNS of|IN gausslike|NN statesponsored|VBN malware|NN out|IN in|IN the|DT wild|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,58 @@
+<p>|P_START
+<s>|S_START walmarts|NNS secondquarter|VBP earnings|NNS and|CC revenue|NN rose|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN walmart|NN stores|NNS the|DT worlds|NNS largest|JJS retailer|NN reported|VBD higher|JJR secondquarter|NN earnings|NNS and|CC revenue|NN thursday|NN and|CC raised|VBD its|PRP$ forecast|NN for|IN the|DT remainder|NN of|IN its|PRP$ fiscal|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START walmart|NN wmt|VBD fortune|NN 500|CD said|VBD earnings|NNS from|IN operations|NNS in|IN the|DT quarter|NN ended|VBD july|RB 31|CD rose|VBD to|TO $|$ 118|CD a|DT diluted|JJ share|NN an|DT 8|CD increase|NN from|IN $|$ 109|CD a|DT year|NN earlier|JJR </s>|S_END
+<s>|S_START the|DT retailer|NN was|VBD forecast|VBN to|TO post|VB earnings|NNS of|IN $|$ 117|CD a|DT share|NN according|VBG to|TO briefingcom|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC while|IN the|DT companys|NNS revenue|NN rose|VBD 45|CD it|PRP missed|VBD expectations|NNS </s>|S_END
+<s>|S_START walmart|NN reported|VBD total|JJ revenue|NN of|IN $|$ 114|CD billion|CD below|IN the|DT $|$ 1158|CD billion|CD consensus|NN forecast|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT company|NN cited|VBD strong|JJ international|JJ sales|NNS and|CC a|DT boost|NN from|IN its|PRP$ membershiponly|RB warehouse|VB retailer|NN sams|NNS club|VBP for|IN its|PRP$ earnings|NNS increase|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP also|RB raised|VBD its|PRP$ earnings|NNS outlook|NN for|IN the|DT rest|NN of|IN the|DT fiscal|JJ year|NN to|TO between|IN $|$ 483|CD and|CC $|$ 493|CD a|DT share|NN </s>|S_END
+<s>|S_START the|DT previous|JJ forecast|NN called|VBN for|IN a|DT range|NN of|IN $|$ 472|CD to|TO $|$ 492|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START walmart|NN ceo|VBD mike|NN duke|NN said|VBD weakness|NN in|IN the|DT us|PRP and|CC global|JJ economy|NN is|VBZ an|DT opportunity|NN for|IN the|DT retailer|NN known|VBN for|IN its|PRP$ cutrate|NN pricing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START given|VBN continuing|VBG economic|JJ pressures|NNS we|PRP believe|VBP that|IN our|PRP$ price|NN leadership|NN and|CC value|NN are|VBP growing|VBG in|IN importance|NN to|TO customers|NNS across|IN income|NN levels|NNS duke|VBP said|VBN in|IN a|DT company|NN statement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB walmart|NN comes|VBZ to|TO town|VB home|NN prices|NNS go|VBP up|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT 64|CD sales|NNS increase|NN from|IN walmart|NN international|JJ comes|NNS as|IN welcome|NN news|NN for|IN the|DT company|NN which|WDT has|VBZ come|VBN under|IN fire|NN for|IN alleged|JJ corrupt|JJ business|NN practices|NNS this|DT year|NN </s>|S_END
+<s>|S_START the|DT company|NN is|VBZ being|VBG investigated|VBN for|IN allegations|NNS that|WDT eduardo|NN castrowright|VBD the|DT former|JJ ceo|NN of|IN walmart|NN de|IN mexico|NN and|CC former|JJ head|NN of|IN walmart|NN us|PRP orchestrated|VBD $|$ 24|CD million|CD worth|JJ of|IN alleged|JJ bribes|NNS in|IN mexico|NN to|TO streamline|VB construction|NN projects|NNS dating|VBG from|IN 2005|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START walmarts|NNS sales|NNS have|VBP remained|VBN strong|JJ even|RB as|IN retail|JJ sales|NNS dragged|VBD for|IN much|RB of|IN the|DT spring|NN and|CC into|IN the|DT summer|NN before|IN ticking|VBG up|RP in|IN july|RB </s>|S_END
+<s>|S_START analysts|NNS say|VBP that|IN the|DT company|NN bucked|VBD the|DT trend|NN because|IN of|IN its|PRP$ reputation|NN for|IN offering|NN deep|NN discounts|NNS and|CC competitive|JJ prices|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START relative|JJ to|TO other|JJ retailers|NNS walmart|NN has|VBZ been|VBN more|JJR effectively|RB able|JJ to|TO attract|VB consumers|NNS by|IN adding|VBG lower|JJR price|NN points|NNS said|VBD john|NN tomlinson|NN retail|NN analyst|NN at|IN itg|NN investment|NN research|NN </s>|S_END
+<s>|S_START they|PRP reformatted|VBD to|TO have|VB a|DT better|JJR product|NN assortment|NN and|CC lower|JJR prices|NNS as|IN consumers|NNS are|VBP ever|RB searching|VBG for|IN value|NN in|IN this|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START stock|NN in|IN walmart|NN whose|WP$ rivals|NNS include|VBP target|NN tgt|NN fortune|NN 500|CD and|CC jcpenney|NN jcp|NN fortune|NN 500|CD fell|VBD more|JJR than|IN 3|CD in|IN afternoon|NN trading|NN </s>|S_END
+</p>|P_END
+

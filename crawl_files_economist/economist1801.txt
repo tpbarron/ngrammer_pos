@@ -1,0 +1,92 @@
+<p>
+<s>decades of “manna from heaven”</s>
+<s>that is how trevor mudge a computer scientist at the university of michigan ann arbor describes the technological impact of the steady doubling roughly every two years of the number of transistors that can be crammed onto a silicon chip</s>
+<s>it has increased the processing power and storage capacity of computers while reducing their size and energy consumption</s>
+<s>the results are all around us</s>
+<s>but this steady doubling known as moores law after gordon moore the engineer who first pointed it out in 1965 cannot go on for ever and nearly five decades later the limits may finally be within sight</s>
+</p>
+
+<p>
+<s>transistors now measure as little as 22 nanometres billionths of a metre in width smaller than the wavelength of light with which they are etched and just a few tens of atoms across</s>
+<s>as transistors get smaller keeping them cool and errorfree becomes more difficult</s>
+<s>lowering the voltage at which transistors operate produces less heat but further reductions are now difficult because feebler voltages result in more frequent errors</s>
+<s>the march towards eversmaller and faster chips “is starting to come unglued” says dr mudge</s>
+<s>that is why he and other computer scientists are taking a new approach designing microchips that can tolerate errors in their operation</s>
+<s>such inexact or “sloppy” chips as they are also known can be smaller faster and more energyefficient</s>
+</p>
+
+<p>
+<s>the important thing is to control where the errors occur</s>
+<s>masahiro fujita who is designing sloppy chips at the university of tokyo notes that a single mistake at the beginning of a sequence of instructions can propagate through subsequent calculations and completely mess up the behaviour of a computer or robot</s>
+<s>but he says even relatively numerous mistakes are no big deal in other circumstances such as when handling sound images or video</s>
+<s>tiny sound distortions or slightly miscoloured pixels will go unnoticed</s>
+</p>
+
+<p>
+<s>an international team of researchers at rice university in houston texas the swiss centre for electronics and microtechnology csem in neuchâtel and nanyang technological university in singapore found that by reducing the operating voltage sloppy chips could deliver equivalent performance to ordinary chips using a quarter of the energy</s>
+<s>for audio playback the researchers found sound quality was acceptable even with error rates of 8</s>
+</p>
+
+<p>
+<s>hearing aids or mobile phones should let people trade sound quality for battery life says krishna palem the head of the project</s>
+<s>when the battery is running low they could switch to a higherror mode and put up with the static</s>
+<s>a prototype sloppy chip developed with funding from intel the worlds largest chipmaker and americas department of defence is now ready for production</s>
+<s>dr palem plans to establish a startup to sell such chips for use in hearing aids with long battery lives</s>
+</p>
+
+<p>
+<s>another trick is called “pruning”</s>
+<s>chips are wired so more power is delivered to more important areas while areas that compute nonessential data or are infrequently used are given less power or simply removed altogether</s>
+<s>tests at csem by avinash lingamneni found that pruned circuits were twice as fast consumed half as much energy and were half the size of conventional circuits</s>
+</p>
+
+<p>
+<s>managing the probability of errors and limiting where they occur can ensure that the errors do not cause any problems</s>
+<s>the result of a mathematical calculation for example need not always be calculated precisely—an accuracy of two or three decimal places is often enough</s>
+<s>dr palem offers the analogy of a person about to cross a big room</s>
+<s>rather than wasting time and energy calculating the shortest path its better just to start walking in roughly the right direction</s>
+</p>
+
+<p>
+<s>perfection is overrated</s>
+</p>
+
+<p>
+<s>the microprocessor that powers a laptop typically contains more than two billion transistors but it could run just fine with oneeighth or even more of them producing sloppy results says mr lingamneni</s>
+<s>the key is to ensure that sloppy circuitry is used only for certain tasks</s>
+<s>it is not acceptable if one file is attached to an email but another file ends up being sent</s>
+</p>
+
+<p>
+<s>can information that must be processed accurately be kept away from the faster sloppier circuits</s>
+<s>mr lingamneni thinks it can</s>
+<s>csem is developing an errorprone chip for audiovisual processing in mobile phones that dispatches different processing tasks to the appropriate circuitry</s>
+<s>the voltage is reduced in parts of the chip that finish calculations faster or with greater accuracy than necessary</s>
+<s>other parts of the chip where more important calculations are made operate at higher voltage and with fewer errors</s>
+</p>
+
+<p>
+<s>another approach to managing errors called “asymmetric reliability” uses errorprone circuits for number crunching to save power and run faster says subhasish mitra a computer scientist at stanford university</s>
+<s>conventional circuits are then used to spot and weed out unacceptable errors</s>
+<s>his work is funded by americas department of defence and companies including bosch cisco infineon intel semiconductor research corporation samsung and texas instruments</s>
+</p>
+
+<p>
+<s>with this technique the mechanics of computing become more akin to those of human thought says joseph bates of singular computing a firm based in newton massachusetts</s>
+<s>in the “messy process” of brain activity synapses transmit signals imperfectly between nerve cells he notes</s>
+<s>rather than squandering resources in a futile attempt to eliminate minor errors the brain filters them out as processing moves up to higher mental functions</s>
+<s>together with charles river analytics a software firm singular is working on a $700000 project for the us navy to design an “approximate computing” videoprocessing chip to increase the ability of batterypowered drones to track potential targets</s>
+</p>
+
+<p>
+<s>the technology behind sloppy microchips is now ready for widespread use says vivek de intels head of circuit research in hillsboro oregon</s>
+<s>but will companies that exploit sloppiness to boost performance or battery life want to admit it</s>
+<s>buyers might think twice before buying a device that operates with errors as a matter of course concedes hang chang chieh a professor at the national university of singapore</s>
+</p>
+
+<p>
+<s>researchers have coined a variety of euphemisms to describe the technology such as “inexact hardware” “probabilistic computing” “relaxed correctness” and “relaxed reliability”</s>
+<s>in five years your smartphone or computer is unlikely to sport a sticker boasting that it contains chips that sometimes get their sums wrong</s>
+<s>even so such chips may be lurking inside increasing performance and extending battery life</s>
+</p>
+

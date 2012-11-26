@@ -1,0 +1,37 @@
+<p>
+<s>in a novel called “the difference engine” published in 1990 william gibson and bruce sterling described an alternative victorian era of mechanical computers driven by steam with their results displayed on screens made of mechanical pixels</s>
+<s>steamdriven computers remain in the realm of science fiction</s>
+<s>mechanical pixels however are beginning to see the light of day</s>
+</p>
+
+<p>
+<s>pixels are the dots or “picture elements” that make up the picture on a display screen</s>
+<s>and one way of making them change colour is to use what are known as microelectromechanical systems or mems to move part of each pixel around creating iridescent interference patterns in the process</s>
+<s>according to wallen mphepö of national chiao tung university in hsinchu taiwan who is one of those working on this idea screens made this way should be as easy on the eye in bright sunlight as the reflective “electronic paper” used in devices such as the kindle</s>
+<s>they would also use far less power than todays liquidcrystal displays</s>
+</p>
+
+<p>
+<s>mr mphepös pixels are pieces of zirconium dioxide 30 microns across that have been coated on one side with a layer of silver 123 microns thick</s>
+<s>these tiny mirrors can be tilted electrostatically using a voltage applied by a thinfilm transistor of the sort employed to control liquidcrystal pixels</s>
+<s>the upshot is a mirror whose angle with respect to the light incident upon it can be changed at will</s>
+<s>paradoxically though it is a mirror in which the silver being on top is the transparent layer it is so thin that light passes easily through it while the zirconium dioxide which is normally a transparent substance acts as the reflective surface</s>
+<s>the reason is that zirconium dioxide has a much higher refractive index than silver in other words light slows down and bends more when travelling through zirconium oxide than when travelling through silver</s>
+<s>it is the junction between the two materials which acts as the reflective surface</s>
+</p>
+
+<p>
+<s>the upshot is that the length of the paths of rays of light entering the silver bouncing off the mirror and then returning to the outside world and so to the viewer can be changed by varying the angle of tilt</s>
+<s>that in turn affects how the peaks and troughs of the incident and reflected rays fall on each other</s>
+<s>and this depending on the wavelength of the light concerned and thus its colour causes some colours to be amplified while others are cancelled out</s>
+<s>the reason for choosing 123 microns for the thickness of the silver is that it is twice the average wavelength of visible light</s>
+<s>this gives just enough room for the processes of amplification and cancellation to take place</s>
+</p>
+
+<p>
+<s>a similar technique is already used in a commercial display technology developed by qualcomm an american electronics company</s>
+<s>but mirasol as qualcomms method is known merely uses mems to turn a pixel on or off by reflecting either one wavelength of light or none at all</s>
+<s>mr mphepös approach is more sophisticated and does not require separate subpixels for each of the three primary colours to produce a fullcolour image which could improve the screens resolution</s>
+<s>they may not be powered by steam but mr mphepös pixels may in their own way rewrite history</s>
+</p>
+

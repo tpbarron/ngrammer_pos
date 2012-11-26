@@ -1,0 +1,33 @@
+<p>|P_START
+<s>|S_START greek|NN finance|NN minister|NN vassilis|NNS rapanos|NNS resigned|VBD monday|NN for|IN health|NN reasons|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN greek|NN finance|NN minister|NN vassilis|NNS rapanos|NNS has|VBZ resigned|VBN for|IN health|NN reasons|NNS the|DT greek|NN government|NN said|VBD monday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START prime|JJ minister|NN antonis|NNS samaras|NNS accepted|VBD rapanos|NNS resignation|NN according|VBG to|TO a|DT statement|NN from|IN the|DT prime|JJ ministers|NNS office|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rapanos|NNS was|VBD hospitalized|VBN friday|NN after|IN suffering|NN from|IN acute|JJ nausea|NN and|CC dizziness|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT development|NN is|VBZ a|DT potential|JJ setback|NN for|IN the|DT new|JJ government|NN in|IN athens|NNS which|WDT has|VBZ been|VBN in|IN power|NN for|IN less|JJR than|IN one|CD week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT coalition|NN has|VBZ promised|VBN to|TO honor|VB greeces|NNS financial|JJ commitments|NNS but|CC it|PRP is|VBZ also|RB expected|VBN to|TO renegotiate|VB the|DT terms|NNS of|IN the|DT nations|NNS bailout|IN package|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rapanos|NNS resignation|NN comes|VBZ ahead|RB of|IN a|DT key|JJ meeting|NN of|IN european|JJ union|NN leaders|NNS on|IN thursday|NN and|CC friday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START samaras|NNS who|WP was|VBD hospitalized|VBN last|JJ week|NN for|IN eye|NN surgery|NN is|VBZ not|RB expected|VBN to|TO attend|VB the|DT summit|NN in|IN brussels|NNS </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,130 @@
+<p>|P_START
+<s>|S_START in|IN 1964|CD ladybird|NN books|NNS a|DT british|JJ publishing|NN company|NN launched|VBD a|DT series|NN of|IN small|JJ picture|NN books|NNS to|TO help|VB young|JJ children|NNS learn|VBP to|TO read|VB </s>|S_END
+<s>|S_START they|PRP featured|VBD peter|RBR and|CC jane|NN their|PRP$ dog|NN their|PRP$ house|NN their|PRP$ toys|NNS and|CC the|DT rest|NN of|IN their|PRP$ little|JJ world|NN </s>|S_END
+<s>|S_START their|PRP$ dad|NN went|VBD out|IN to|TO work|VB and|CC their|PRP$ mum|NN stayed|VBD at|IN home|NN and|CC looked|VBD after|IN peter|NN and|CC jane|NN </s>|S_END
+<s>|S_START by|IN the|DT late|JJ 1970s|CD after|IN a|DT couple|NN of|IN updates|NNS their|PRP$ world|NN had|VBD changed|VBN slightly|RB dad|JJ did|VBD more|RBR things|NNS around|IN the|DT house|NN and|CC jane|NN was|VBD wearing|VBG jeans|NNS rather|RB than|IN skirt|NN </s>|S_END
+<s>|S_START but|CC she|PRP still|RB spent|VBD a|DT lot|NN of|IN her|PRP$ time|NN at|IN home|NN playing|NN with|IN her|PRP$ doll|NN or|CC helping|VBG mum|NN </s>|S_END
+<s>|S_START peter|NN preferred|VBN to|TO be|VB out|RP and|CC about|IN with|IN dad|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT books|NNS are|VBP still|RB available|JJ but|CC their|PRP$ charm|NN is|VBZ now|RB of|IN the|DT vintage|NN variety|NN </s>|S_END
+<s>|S_START when|WRB they|PRP were|VBD first|RB published|VBN families|NNS in|IN most|JJS industrial|JJ countries|NNS were|VBD just|RB like|IN peters|NNS and|CC jane|NN </s>|S_END
+<s>|S_START in|IN america|NN in|IN the|DT early|JJ 1970s|CD more|RBR than|IN half|PDT of|IN all|DT families|NNS with|IN children|NNS consisted|VBN of|IN a|DT breadwinner|NN husband|NN a|DT stayathome|NN wife|NN and|CC two|CD or|CC more|JJR kids|NNS now|RB only|RB a|DT fifth|JJ do|NN </s>|S_END
+<s>|S_START instead|RB there|EX are|VBP lots|NNS of|IN singleparent|NN households|NNS and|CC even|RB if|IN couples|NNS live|VBP together|RB they|PRP no|RB longer|RB necessarily|RB marry|JJ </s>|S_END
+<s>|S_START if|IN they|PRP do|VBP the|DT wives|NNS are|VBP likely|JJ to|TO go|VB out|RP to|TO work|VB whether|IN or|CC not|RB they|PRP have|VBP dependent|JJ children|NNS and|CC take|VB only|RB a|DT short|JJ break|NN for|IN maternity|NN </s>|S_END
+<s>|S_START life|NN is|VBZ too|RB expensive|JJ for|IN most|JJS families|NNS to|TO be|VB able|JJ to|TO manage|NN on|IN one|CD pay|NN cheque|NN </s>|S_END
+<s>|S_START in|IN most|JJS rich|JJ countries|NNS the|DT dominant|JJ model|NN now|RB is|VBZ the|DT twoearner|NN family|NN with|IN both|DT parents|NNS working|VBG fulltime|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START men|NNS are|VBP still|RB more|RBR likely|JJ than|IN women|NNS to|TO be|VB in|IN paid|VBN work|NN </s>|S_END
+<s>|S_START across|IN the|DT oecd|NN countries|NNS some|DT 83|CD of|IN men|NNS of|IN working|VBG age|NN are|VBP in|IN the|DT labour|NN market|NN compared|VBN with|IN 64|CD of|IN women|NNS </s>|S_END
+<s>|S_START but|CC the|DT share|NN of|IN women|NNS at|IN work|NN is|VBZ still|RB rising|VBG </s>|S_END
+<s>|S_START in|IN the|DT nordic|JJ countries|NNS the|DT gap|NN between|IN men|NNS and|CC women|NNS has|VBZ almost|RB gone|VBN and|CC in|IN most|JJS of|IN the|DT big|JJ rich|NN countries|NNS it|PRP is|VBZ only|RB ten|VBN or|CC 15|CD percentage|NN point|NN </s>|S_END
+<s>|S_START in|IN the|DT emerging|NN markets|NNS it|PRP is|VBZ much|RB wider|JJR not|RB least|JJS because|IN women|NNS do|VBP a|DT lot|NN of|IN unpaid|NN work|NN in|IN family|NN businesses|NNS and|CC farms|NNS that|WDT do|VBP not|RB show|VB up|RP in|IN the|DT figure|NN </s>|S_END
+<s>|S_START however|RB in|IN china|NN the|DT gap|NN at|IN about|RB 12|CD percentage|NN points|NNS is|VBZ smaller|JJR than|IN in|IN many|JJ western|NN countrie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB in|IN rich|JJ countries|NNS the|DT numbers|NNS are|VBP not|RB all|DT they|PRP seem|VBP because|IN women|NNS generally|RB put|VBD in|IN far|RB fewer|JJR hours|NNS than|IN men|NNS </s>|S_END
+<s>|S_START measured|VBD by|IN how|WRB many|JJ fulltime|NN jobs|NNS those|DT hours|NNS would|MD add|VB up|RP to|TO the|DT average|JJ employment|NN gap|NN between|IN men|NNS and|CC women|NNS in|IN the|DT oecd|NN widens|VBZ to|TO around|IN a|DT third|JJ </s>|S_END
+<s>|S_START that|DT is|VBZ because|IN women|NNS particularly|RB if|IN they|PRP have|VBP children|VBN are|VBP much|RB more|RBR likely|JJ than|IN men|NNS to|TO work|VB parttime|NN see|VB chart|NN 1|CD and|CC even|RB in|IN fulltime|NN jobs|NNS they|PRP work|VBP shorter|RBR hour|PRP$ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT main|JJ reason|NN why|WRB women|NNS do|VBP not|RB put|VB in|IN long|JJ hours|NNS at|IN their|PRP$ jobs|NNS is|VBZ that|IN they|PRP work|VBP long|RB hours|NNS at|IN home|NN </s>|S_END
+<s>|S_START housework|NN and|CC child|NN care|NN the|DT world|NN over|IN but|CC particularly|RB in|IN poor|JJ countries|NNS are|VBP still|RB seen|VBN mainly|RB as|IN a|DT womans|NNS responsibility|NN whether|IN or|CC not|RB she|PRP also|RB has|VBZ a|DT formal|JJ job|NN </s>|S_END
+<s>|S_START even|RB in|IN the|DT rich|JJ world|NN women|NNS spend|VBP at|IN least|JJS twice|NN as|RB much|JJ time|NN as|IN men|NNS on|IN unpaid|JJ work|NN an|DT average|JJ of|IN 33|CD hours|NNS a|DT week|NN against|IN 16|CD for|IN men|NNS </s>|S_END
+<s>|S_START where|WRB working|VBG women|NNS are|VBP the|DT norm|NN as|IN in|IN the|DT nordic|JJ countries|NNS the|DT gap|NN between|IN the|DT unpaid|NN hours|NNS put|VBD in|IN by|IN men|NNS and|CC women|NNS are|VBP smaller|JJR though|IN not|RB negligible|JJ where|WRB more|RBR of|IN them|PRP stay|VBP at|IN home|NN as|IN in|IN southern|NN europe|NN and|CC particularly|RB japan|JJ and|CC south|JJ korea|NN it|PRP is|VBZ much|RB larger|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP may|MD be|VB unfair|JJ but|CC by|IN working|VBG shorter|NN paid|VBD hours|NNS women|NNS are|VBP managing|VBG to|TO achieve|VB a|DT reasonable|JJ balance|NN in|IN their|PRP$ live|JJ </s>|S_END
+<s>|S_START in|IN a|DT regular|JJ survey|NN produced|VBN by|IN the|DT european|JJ foundation|NN for|IN the|DT improvement|NN of|IN living|NN and|CC working|VBG conditions|NNS only|RB 1618|CD of|IN women|NNS depending|VBG on|IN whether|IN they|PRP have|VBP young|JJ children|NNS across|IN europe|NN report|NN dissatisfaction|NN with|IN their|PRP$ worklife|NN balance|NN against|IN 2027|CD for|IN men|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT most|RBS vexing|VBG gap|NN between|IN the|DT sexes|NNS is|VBZ in|IN pay|NN </s>|S_END
+<s>|S_START almost|RB all|DT rich|JJ countries|NNS have|VBP laws|NNS passed|VBN mostly|RB in|IN the|DT 1970s|CD that|WDT are|VBP meant|VBN to|TO ensure|VB equal|JJ pay|NN for|IN equal|JJ work|NN and|CC the|DT gap|NN did|VBD narrow|NN noticeably|RB for|IN a|DT while|NN when|WRB women|NNS first|RB started|VBD to|TO flood|NN into|IN the|DT labour|JJ market|NN </s>|S_END
+<s>|S_START in|IN america|NN for|IN instance|NN it|PRP has|VBZ halved|VBN since|IN 1970|CD from|IN 40|CD to|TO 20|CD </s>|S_END
+<s>|S_START but|CC most|JJS of|IN those|DT gains|NNS came|VBD in|IN the|DT early|JJ years|NNS and|CC have|VBP tailed|VBN off|RP </s>|S_END
+<s>|S_START across|IN the|DT oecd|NN the|DT difference|NN in|IN male|JJ and|CC female|JJ median|NN hourly|RB earnings|NNS now|RB averages|VBZ around|IN 18|CD but|CC with|IN large|JJ and|CC sometimes|RB surprising|JJ variations|NNS see|VBP chart|NN previous|JJ page|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cheap|NN at|IN the|DT price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD explanation|NN for|IN the|DT persistent|JJ differences|NNS is|VBZ that|IN men|NNS and|CC women|NNS except|IN the|DT most|RBS highly|RB educated|VBN ones|NNS often|RB work|VBP in|IN separate|JJ labour|NN market|NN </s>|S_END
+<s>|S_START women|NNS are|VBP concentrated|VBN in|IN teaching|NN health|NN care|NN clerical|JJ work|NN social|JJ care|NN and|CC sales|NNS they|PRP are|VBP underrepresented|VBN in|IN manual|JJ and|CC production|NN jobs|NNS maths|NNS physics|NNS science|NN and|CC engineering|NN and|CC in|IN managerial|JJ jobs|NNS particularly|RB at|IN the|DT senior|JJ end|NN </s>|S_END
+<s>|S_START they|PRP are|VBP also|RB much|RB more|JJR concentrated|VBN than|IN men|NNS in|IN just|RB a|DT few|JJ job|NN categorie|NN </s>|S_END
+<s>|S_START half|NN the|DT employed|JJ women|NNS in|IN rich|JJ countries|NNS work|NN in|IN just|RB 12|CD of|IN the|DT 110|CD main|NN occupations|NNS listed|VBN by|IN the|DT international|JJ labour|NN office|NN ilo|NN </s>|S_END
+<s>|S_START the|DT jobs|NNS in|IN which|WDT men|NNS work|VBP are|VBP spread|VBN far|RB more|RBR widely|RB from|IN construction|NN workers|NNS to|TO top|VB manager|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN america|NN women|NNS have|VBP in|IN fact|NN made|VBN considerable|JJ progress|NN in|IN getting|NN into|IN a|DT range|NN of|IN jobs|NNS that|WDT used|VBN to|TO be|VB male|JJ preserves|NNS according|VBG to|TO a|DT recent|JJ paper|NN by|IN the|DT institute|NN for|IN womens|NNS policy|NN research|NN a|DT thinktank|NN in|IN washington|NN dc|NN </s>|S_END
+<s>|S_START for|IN example|NN the|DT share|NN of|IN women|NNS dentists|NNS went|VBD up|RB from|IN under|IN 2|CD in|IN 1972|CD to|TO over|IN 30|CD in|IN 2009|CD that|WDT of|IN female|JJ lawyers|NNS from|IN 4|CD to|TO 32|CD and|CC that|IN of|IN women|NNS pharmacists|NNS and|CC photographers|NNS from|IN the|DT low|JJ teens|NNS to|TO half|DT </s>|S_END
+<s>|S_START in|IN finland|NN where|WRB medicine|NN and|CC law|NN used|VBD to|TO be|VB maledominated|VBN the|DT majority|NN of|IN doctors|NNS and|CC lawyers|NNS are|VBP now|RB female|JJ as|IN are|JJ quite|RB a|DT number|NN of|IN housepainters|NNS says|VBZ eevaliisa|NN inkeroinen|NN a|DT director|NN at|IN the|DT confederation|NN of|IN finnish|JJ industrie|NN </s>|S_END
+<s>|S_START but|CC in|IN america|NN even|RB now|RB very|RB few|JJ women|NNS want|VBP to|TO become|VB carpenters|NNS electricians|NNS or|CC machinists|NNS and|CC men|NNS show|VBP no|DT interest|NN in|IN becoming|VBG dental|JJ assistants|NNS or|CC hairdresser|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START during|IN the|DT 1970s|CD and|CC 1980s|CD the|DT labour|NN markets|NNS for|IN men|NNS and|CC women|NNS became|VBD less|JJR segregated|VBN but|CC that|IN trend|NN came|VBD to|TO a|DT halt|NN in|IN the|DT mid1990|NNP </s>|S_END
+<s>|S_START younger|JJR women|NNS are|VBP now|RB actually|RB more|RBR likely|JJ to|TO work|VB in|IN segregated|VBN occupations|NNS than|IN older|JJR one|CD </s>|S_END
+<s>|S_START that|DT is|VBZ a|DT worry|NN because|IN there|EX is|VBZ a|DT strong|JJ link|NN between|IN the|DT concentration|NN of|IN women|NNS in|IN an|DT occupation|NN and|CC the|DT level|NN of|IN pay|NN </s>|S_END
+<s>|S_START jobs|NNS dominated|VBD by|IN women|NNS such|JJ as|IN teaching|NN and|CC nursing|VBG pay|NN less|JJR across|IN the|DT board|NN </s>|S_END
+<s>|S_START if|IN women|NNS become|VBP more|RBR prevalent|JJ in|IN fields|NNS such|JJ as|IN medicine|NN will|MD relative|VB pay|NN drop|NN as|IN a|DT result|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD place|NN where|WRB women|NNS seem|VBP to|TO be|VB both|DT welcome|NN and|CC happy|NN is|VBZ the|DT public|NN sector|NN </s>|S_END
+<s>|S_START new|JJ work|NN in|IN 12|CD countries|NNS commissioned|VBN by|IN the|DT oecd|NN and|CC the|DT world|NN bank|NN found|VBD that|IN the|DT share|NN of|IN women|NNS in|IN publicsector|NN employment|NN in|IN all|DT of|IN them|PRP except|IN turkey|NN was|VBD much|RB higher|JJR than|IN their|PRP$ share|NN in|IN total|NN employment|NN </s>|S_END
+<s>|S_START in|IN sweden|VBN finland|NN and|CC denmark|VB where|WRB women|NNS make|VBP up|RP roughly|RB half|DT the|DT labour|NN force|NN their|PRP$ share|NN in|IN publicsector|NN employment|NN is|VBZ a|DT remarkable|JJ 70|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT biggest|JJS attraction|NN of|IN the|DT public|NN sector|NN is|VBZ that|IN for|IN women|NNS with|IN the|DT same|JJ qualifications|NNS and|CC skills|NNS it|PRP almost|RB always|RB pays|VBZ better|JJR than|IN does|VBZ private|JJ industry|NN </s>|S_END
+<s>|S_START for|IN men|NNS the|DT differences|NNS are|VBP much|RB less|RBR pronounced|VBN </s>|S_END
+<s>|S_START the|DT public|NN sector|NN is|VBZ also|RB more|RBR likely|JJ to|TO promote|VB women|NNS to|TO senior|JJ job|NN </s>|S_END
+<s>|S_START figures|NNS are|VBP hard|RB to|TO come|VB by|IN but|CC in|IN rich|JJ countries|NNS women|NNS typically|RB hold|VBP 3040|CD of|IN senior|JJ managerial|JJ posts|NNS in|IN central|JJ government|NN </s>|S_END
+<s>|S_START hours|NNS and|CC conditions|NNS too|RB are|VBP usually|RB more|RBR congenial|JJ and|CC maternity|NN arrangements|NNS more|RBR generou|PRP </s>|S_END
+<s>|S_START o|NN with|IN better|JJR pay|NN conditions|NNS and|CC promotion|NN prospects|NNS it|PRP is|VBZ no|DT wonder|NN that|IN the|DT public|NN sector|NN is|VBZ the|DT employer|NN of|IN choice|NN for|IN so|RB many|JJ women|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT debt|NN crisis|NN has|VBZ thrown|VBN a|DT spanner|NN in|IN the|DT works|NNS because|IN publicsector|NN jobs|NNS in|IN many|JJ countries|NNS have|VBP been|VBN drastically|RB cut|VBN back|RB </s>|S_END
+<s>|S_START that|DT is|VBZ now|RB beginning|VBG to|TO hit|VB female|JJ employment|NN disproportionately|RB hard|RB </s>|S_END
+<s>|S_START in|IN america|NN women|NNS at|IN first|JJ seemed|VBN to|TO be|VB weathering|VBG the|DT recession|NN rather|RB well|RB </s>|S_END
+<s>|S_START employment|NN declined|VBD for|IN both|DT men|NNS and|CC women|NNS but|CC much|RB more|RBR for|IN men|NNS see|VBP chart|NN 2|CD because|IN initially|RB the|DT biggest|JJS job|NN losses|NNS were|VBD in|IN maledominated|VBN sectors|NNS such|JJ as|IN manufacturing|NN and|CC construction|NN </s>|S_END
+<s>|S_START in|IN services|NNS where|WRB women|NNS are|VBP concentrated|VBN the|DT losses|NNS were|VBD slower|JJR to|TO come|VB through|RP </s>|S_END
+<s>|S_START before|IN the|DT start|NN of|IN the|DT downturn|NN at|IN the|DT end|NN of|IN 2007|CD men|NNS outnumbered|VBD women|NNS on|IN american|JJ payrolls|NNS by|IN about|IN 3m|CD but|CC by|IN the|DT third|JJ quarter|NN of|IN 2009|CD they|PRP reached|VBD parity|NN at|IN just|RB under|IN 65m|CD each|DT </s>|S_END
+<s>|S_START ince|NN early|RB 2010|CD though|IN mens|NNS payrolls|NNS have|VBP started|VBN to|TO turn|VB up|RP again|RB whereas|RB womens|VBZ have|VBP remained|VBN flat—and|-NONE- the|DT public|NN sector|NN is|VBZ still|RB reducing|VBG its|PRP$ head|NN count|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN these|DT setbacks|NNS women|NNS have|VBP been|VBN riding|VBG to|TO the|DT rescue|NN of|IN their|PRP$ families|NNS during|IN the|DT recession|NN says|VBZ the|DT oecd|NN </s>|S_END
+<s>|S_START in|IN almost|RB all|DT rich|JJ countries|NNS mens|VBZ working|VBG hours|NNS have|VBP fallen|VBN since|IN the|DT onset|NN of|IN the|DT crisis|NN but|CC women|NNS have|VBP increased|VBN theirs|NNS to|TO help|VB make|VB up|RP for|IN the|DT shortfall|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT recession|NN has|VBZ also|RB fuelled|VBN interest|NN among|IN both|DT men|NNS and|CC women|NNS in|IN starting|VBG up|RP a|DT busine|NN </s>|S_END
+<s>|S_START becoming|VBG an|DT entrepreneur|NN holds|VBZ particular|JJ attractions|NNS for|IN women|NNS </s>|S_END
+<s>|S_START they|PRP can|MD set|VB their|PRP$ own|JJ hours|NNS to|TO fit|VB in|IN with|IN the|DT rest|NN of|IN their|PRP$ lives|NNS and|CC they|PRP can|MD be|VB sure|JJ that|IN the|DT boss|NN properly|RB appreciates|VBZ them|PRP </s>|S_END
+<s>|S_START big|JJ companies|NNS sometimes|RB help|VB them|PRP get|VB there|RB </s>|S_END
+<s>|S_START cocacola|NN for|IN instance|NN has|VBZ an|DT entrepreneurship|NN programme|NN called|VBN “5|-NONE- by|IN 20”|CD that|WDT aims|VBZ to|TO increase|VB the|DT number|NN of|IN women|NNS who|WP distribute|NN and|CC sell|NN the|DT drink|NN on|IN their|PRP$ own|JJ account|NN to|TO 5m|CD by|IN 2020|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START women|NNS run|VBP about|IN a|DT third|JJ of|IN small|JJ businesses|NNS in|IN rich|JJ countries|NNS but|CC it|PRP is|VBZ not|RB an|DT easy|JJ option|NN </s>|S_END
+<s>|S_START they|PRP find|VBP it|PRP even|RB harder|JJR than|IN men|NNS to|TO line|VB up|RP finance|NN so|RB their|PRP$ startups|NNS are|VBP often|RB undercapitalised|VBN </s>|S_END
+<s>|S_START the|DT businesses|NNS are|VBP typically|RB smaller|JJR than|IN those|DT headed|VBN by|IN men|NNS generate|VBP fewer|JJR jobs|NNS and|CC have|VBP a|DT lower|JJR turnover|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT as|IN entrepreneurs|NNS and|CC as|IN employees|NNS women|NNS still|RB seem|VBP to|TO be|VB at|IN a|DT disadvantage|NN </s>|S_END
+<s>|S_START the|DT most|RBS obvious|JJ explanation|NN is|VBZ that|IN most|JJS of|IN them|PRP have|VBP children|VBN </s>|S_END
+</p>|P_END
+

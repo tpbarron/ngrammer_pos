@@ -1,0 +1,65 @@
+<p>|P_START
+<s>|S_START barack|NN obama’s|NNS dismal|JJ defence|NN of|IN his|PRP$ economic|JJ record|NN against|IN mitt|NN romney|NN during|IN the|DT first|JJ presidential|JJ debate|NN on|IN october|NN 3rd|CD left|VBN him|PRP desperately|RB in|IN need|NN of|IN help|NN </s>|S_END
+<s>|S_START he|PRP is|VBZ getting|VBG a|DT bit|NN from|IN a|DT pretty|RB unlikely|RB source|NN the|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START just|RB two|CD days|NNS after|IN mr|NN romney|NN drubbed|VBD mr|NN obama|NN in|IN denver|NN the|DT bureau|NN of|IN labour|PRP$ statistics|NNS reported|VBD that|IN unemployment|NN had|VBD tumbled|VBN to|TO 78|CD in|IN september|NN from|IN 81|CD in|IN august|JJ </s>|S_END
+<s>|S_START that|DT placed|VBN it|PRP below|IN 8|CD for|IN the|DT first|JJ time|NN since|IN mr|NN obama|NN took|VBD office|NN in|IN january|JJ 2009|CD depriving|VBG mr|NN romney|NN of|IN one|CD of|IN his|PRP$ favourite|JJ talking|NN point|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT conspiracyminded|VBN led|VBN by|IN jack|NN welch|NN ge’s|NNS former|JJ chief|NN muttered|VBD darkly|RB that|IN mr|NN obama’s|NNS operatives|VBZ had|VBN manipulated|VBN the|DT number|NN </s>|S_END
+<s>|S_START the|DT report|NN was|VBD indeed|VBN extremely|RB convenient|JJ for|IN the|DT floundering|VBG president|NN but|CC not|RB because|IN someone|NN had|VBD tampered|VBN with|IN the|DT data|NNS which|WDT are|VBP assembled|VBN by|IN career|NN number|NN cruncher|NN </s>|S_END
+<s>|S_START rather|RB a|DT combination|NN of|IN underlying|VBG trends|NNS came|VBD together|RB in|IN one|CD month|NN to|TO push|VB the|DT rate|NN down|IN </s>|S_END
+<s>|S_START those|DT trends|NNS are|VBP a|DT mixture|NN of|IN bad|JJ and|CC good|JJ news|NN for|IN the|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT jobs|NNS report|NN consists|NNS of|IN two|CD survey|NN </s>|S_END
+<s>|S_START in|IN the|DT first|JJ employers|NNS report|NN how|WRB many|JJ are|VBP on|IN their|PRP$ payroll|NN in|IN the|DT second|JJ households|NNS report|NN how|WRB many|JJ in|IN their|PRP$ family|NN have|VBP a|DT job|NN </s>|S_END
+<s>|S_START in|IN september|NN the|DT payroll|NN survey|NN found|VBD an|DT increase|NN in|IN employment|NN of|IN 114000|CD in|IN line|NN with|IN economists’|JJ expectation|NN </s>|S_END
+<s>|S_START the|DT household|NN survey|NN however|RB recorded|VBN a|DT whopping|NN increase|NN of|IN 873000|CD the|DT largest|JJS seen|VBN since|IN june|NN 1983|CD </s>|S_END
+<s>|S_START ince|NN the|DT unemployment|NN rate|NN is|VBZ derived|VBN from|IN the|DT household|NN survey|NN it|PRP fell|VBD sharply|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT two|CD surveys|NNS routinely|RB diverge|VBP </s>|S_END
+<s>|S_START because|IN the|DT household|NN sample|NN is|VBZ much|JJ smaller|NN it|PRP is|VBZ more|RBR volatile|JJ and|CC thus|RB less|RBR reliable|JJ </s>|S_END
+<s>|S_START indeed|RB september’s|JJ jump|NN followed|VBN big|JJ drops|NNS in|IN july|RB and|CC august|RB </s>|S_END
+<s>|S_START averaged|VBD over|IN the|DT three|CD months|NNS employment|NN growth|NN was|VBD 186000|CD not|RB much|JJ different|JJ from|IN the|DT payroll|NN survey’s|VBZ 146000|CD </s>|S_END
+<s>|S_START neither|DT government|NN nor|CC parttime|NN work|NN shows|VBZ any|DT notable|JJ trend|NN over|IN the|DT past|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whatever|NN its|PRP$ correct|NN value|NN the|DT unemployment|NN rate|NN exaggerates|VBZ the|DT economy’s|JJ health|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ fallen|VBN far|RB faster|JJR than|IN the|DT tepid|JJ pace|NN of|IN growth|NN currently|RB flatlining|VBG at|IN 21|CD merits|NNS primarily|RB because|IN so|RB many|JJ people|NNS have|VBP left|VBN the|DT labour|NN force|NN and|CC are|VBP thus|RB not|RB counted|VBN as|IN unemployed|VBN </s>|S_END
+<s>|S_START the|DT participation|NN rate|NN the|DT share|NN of|IN the|DT labour|NN force|NN either|DT working|VBG or|CC looking|VBG for|IN work|NN has|VBZ declined|VBN steadily|RB since|IN 2007|CD though|IN it|PRP ticked|VBD up|RP ever|RB so|RB slightly|RB in|IN september|NN to|TO 636|CD see|VB chart|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT labour|PRP$ force|NN is|VBZ some|DT 6m|CD smaller|JJR now|RB than|IN it|PRP would|MD be|VB had|VBD participation|NN remained|VBN at|IN 2007|CD level|NN </s>|S_END
+<s>|S_START treating|VBG all|DT of|IN those|DT people|NNS as|IN unemployed|JJ would|MD raise|VB the|DT jobless|NN rate|NN to|TO 11|CD a|DT point|NN driven|VBN home|NN by|IN mr|NN romney|NN who|WP declined|VBD to|TO join|VB the|DT conspiracy|NN theorist|NN </s>|S_END
+<s>|S_START however|RB only|RB about|IN a|DT third|JJ of|IN those|DT dropouts|NNS actively|RB want|VBP a|DT job|NN the|DT others|NNS have|VBP dropped|VBN out|RP for|IN various|JJ reasons|NNS from|IN retirement|NN to|TO disability|NN to|TO enrolment|VB in|IN college|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB while|IN the|DT past|JJ four|CD years|NNS have|VBP been|VBN extremely|RB dreary|JJ the|DT future|NN has|VBZ brightened|VBN a|DT little|RB </s>|S_END
+<s>|S_START although|IN the|DT drop|NN in|IN the|DT unemployment|NN rate|NN was|VBD surprisingly|RB sharp|JJ there|EX is|VBZ no|DT obvious|JJ reason|NN for|IN it|PRP to|TO reverse|VB </s>|S_END
+<s>|S_START the|DT bls|NNS actually|RB revised|VBN up|RP its|PRP$ payroll|NN employment|NN figures|NNS for|IN july|RB and|CC august|RB to|TO more|JJR robust|JJ levels|NNS and|CC in|IN september|NN found|VBD people|NNS working|VBG longer|JJR hours|NNS at|IN higher|JJR pay|NN </s>|S_END
+<s>|S_START a|DT private|JJ survey|NN of|IN factory|NN purchasing|VBG managers|NNS found|VBD a|DT surprise|NN uptick|NN in|IN activity|NN in|IN september|NN and|CC auto|NN sales|NNS that|WDT month|NN were|VBD the|DT strongest|JJS for|IN more|JJR than|IN four|CD year|NN </s>|S_END
+<s>|S_START that|DT same|JJ month|NN the|DT federal|JJ reserve’s|NNS announcement|NN of|IN openended|VBN purchases|NNS of|IN mortgagebacked|VBN bonds|NNS with|IN newlyprinted|JJ money|NN spurred|VBN stockmarkets|NNS to|TO fiveyear|VB high|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB this|DT is|VBZ hardly|RB the|DT stuff|NN of|IN celebration|NN </s>|S_END
+<s>|S_START gdp|NN in|IN the|DT third|JJ quarter|NN to|TO be|VB reported|VBN on|IN october|NN 26th|CD probably|RB grew|VBD by|IN barely|RB an|DT annualised|VBN 2|CD and|CC the|DT figure|NN may|MD be|VB even|RB slower|JJR in|IN the|DT fourth|JJ quarter|NN because|IN of|IN the|DT impact|NN of|IN america’s|JJ recent|JJ drought|NN on|IN farm|NN inventorie|NN </s>|S_END
+<s>|S_START looming|VBG at|IN the|DT end|NN of|IN the|DT year|NN is|VBZ the|DT “fiscal|JJ cliff”|NN a|DT combination|NN of|IN tax|NN increases|NNS and|CC spending|NN cuts|NNS worth|NN 5|CD of|IN gdp|NN over|IN a|DT full|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT week|NN the|DT international|JJ monetary|NN fund|NN warned|VBD that|IN going|VBG over|IN the|DT cliff|NN could|MD plunge|VB america|NN into|IN “a|NNP fullfledged|VBD recession”|NNP </s>|S_END
+<s>|S_START failure|NN to|TO raise|VB the|DT statutory|NN ceiling|NN on|IN new|JJ debt|NN issuance|NN which|WDT the|DT treasury|NN will|MD bump|VB up|RP against|IN early|JJ next|JJ year|NN would|MD be|VB a|DT “great|JJ shock|NN to|TO confidence|NN that|IN would|MD quickly|RB spill|VB over|IN to|TO financial|JJ markets|NNS in|IN the|DT rest|NN of|IN the|DT world”|JJ </s>|S_END
+<s>|S_START to|TO add|VB to|TO all|DT that|DT the|DT imf|NN also|RB warned|VBD that|IN failure|NN to|TO deal|VB with|IN america’s|JJ longterm|NN deficits|NNS could|MD trigger|VB a|DT bond|NN market|NN meltdown|NN “yields|NNS near|IN record|NN lows|NNS are|VBP likely|JJ to|TO adjust|VB only|RB upward|JJ in|IN the|DT years|NNS ahead”|-NONE- whoever|RB is|VBZ the|DT winner|NN of|IN the|DT election|NN on|IN november|NN 6th|CD he|PRP should|MD not|RB count|VB on|IN much|JJ of|IN a|DT honeymoon|NN </s>|S_END
+</p>|P_END
+

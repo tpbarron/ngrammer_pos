@@ -1,0 +1,37 @@
+<p>|P_START
+<s>|S_START when|WRB it|PRP started|VBD in|IN 1984|CD the|DT ted|JJ conference|NN an|DT abbreviation|NN of|IN “technology|JJ entertainment|NN design”|NN brought|VBD together|RB a|DT few|JJ hundred|VBN people|NNS in|IN california|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ since|IN grown|VBN into|IN a|DT global|JJ craze|NN </s>|S_END
+<s>|S_START it|PRP will|MD soon|RB pass|VB a|DT milestone|NN the|DT onebillionth|NN download|NN of|IN an|DT online|NN ted|VBN speaker|NN video|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB did|VBD it|PRP get|VB so|RB popular|JJ </s>|S_END
+<s>|S_START the|DT internet|NN played|VBD an|DT important|JJ role|NN </s>|S_END
+<s>|S_START o|NN did|VBD social|JJ media|NNS </s>|S_END
+<s>|S_START but|CC part|NN of|IN the|DT success|NN is|VBZ the|DT result|NN of|IN untraditional|JJ management|NN </s>|S_END
+<s>|S_START instead|RB of|IN controlling|VBG the|DT most|JJS valuable|JJ parts|NNS of|IN the|DT business|NN the|DT group|NN took|VBD the|DT riskier|NN path|NN of|IN opening|VBG them|PRP up|RP to|TO everyone|NN </s>|S_END
+<s>|S_START the|DT method|NN may|MD hold|VB lessons|NNS for|IN other|JJ companie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN 2009|CD as|IN it|PRP was|VBD becoming|VBG well|RB known|JJ ted|VBN decided|VBN that|IN instead|RB of|IN managing|VBG its|PRP$ brand|NN more|JJR tightly|RB as|IN conventional|JJ wisdom|NN instructs|NNS it|PRP would|MD create|VB a|DT free|JJ licence|NN for|IN others|NNS to|TO host|VB local|JJ conferences|NNS called|VBN tedx|NN </s>|S_END
+<s>|S_START now|RB six|CD or|CC seven|CD tedx|NN events|NNS are|VBP held|VBN every|DT day|NN </s>|S_END
+<s>|S_START these|DT events|NNS seem|VBP to|TO add|VB to|TO the|DT lustre|NN of|IN the|DT main|JJ conferences|NNS rather|RB than|IN dilute|NN them|PRP </s>|S_END
+<s>|S_START the|DT talks|NNS are|VBP also|RB posted|VBD online|NN free|JJ with|IN little|JJ advertising|NN </s>|S_END
+<s>|S_START by|IN not|RB milking|VBG things|NNS ted|VBN has|VBZ inspired|VBN people|NNS to|TO contribute|VB to|TO it|PRP for|IN nothing|NN 8000|CD volunteers|NNS have|VBP translated|VBN subtitles|NNS for|IN thousands|NNS of|IN videos|NNS into|IN more|RBR than|IN 90|CD language|NN </s>|S_END
+<s>|S_START and|CC by|IN getting|NN consumers|NNS to|TO do|VB things|NNS for|IN nothing|NN ted|VBD has|VBZ managed|VBN to|TO innovate|VB with|IN fewer|JJR resource|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT this|DT requires|VBZ establishing|VBG a|DT community|NN of|IN users|NNS and|CC accepting|VBG some|DT loss|NN of|IN control|NN </s>|S_END
+<s>|S_START uch|JJ tactics|NNS might|MD not|RB work|VB for|IN say|NN cocacola|NN or|CC intel|NN </s>|S_END
+<s>|S_START yet|RB they|PRP may|MD work|VB for|IN other|JJ </s>|S_END
+<s>|S_START a|DT kitchenwaremaker|NN might|MD want|VB to|TO create|VB a|DT place|NN on|IN its|PRP$ website|JJ for|IN amateur|NN chefs|NNS to|TO show|VB off|RP their|PRP$ skills|NNS and|CC recipes|NNS for|IN example|NN or|CC a|DT sportinggoods|NNS firm|NN could|MD encourage|VB local|JJ tournaments|NNS with|IN its|PRP$ brand|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO critics|NNS ted|VBN is|VBZ emblematic|JJ of|IN a|DT world|NN of|IN short|JJ attention|NN spans|NNS and|CC passive|JJ entertainment|NN </s>|S_END
+<s>|S_START to|TO satirists|NNS it|PRP is|VBZ smug|NN and|CC selfimportant|JJ the|DT onion|NN parodies|NNS it|PRP with|IN video|NN talks|NNS such|JJ as|IN “compostfuelled|JJ cars|NNS wouldn’t|JJ that|IN be|VB great”|JJ but|CC to|TO supporters|NNS ted|VBN has|VBZ inspired|VBN millions|NNS to|TO pursue|VB lifelong|JJ learning|NN </s>|S_END
+<s>|S_START and|CC for|IN business|NN it|PRP shows|VBZ what|WP is|VBZ sometimes|RB possible|JJ by|IN taking|NN what|WP is|VBZ valuable|JJ and|CC giving|VBG it|PRP away|RB </s>|S_END
+</p>|P_END
+

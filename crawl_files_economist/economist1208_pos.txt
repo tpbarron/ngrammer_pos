@@ -1,0 +1,11 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 35|CD gdp|NN $|$ 2502bn|CD ppp|CD $|$ 2433bn|CD inflation|NN 55|CD population|NN 1947m|CD gdp|NN per|IN head|NN $|$ 12850|CD ppp|CD $|$ 12500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dilma|NN rousseff|NN brazils|NNS president|NN never|RB figured|VBN to|TO have|VB an|DT easy|JJ time|NN replacing|VBG her|PRP popular|JJ predecessor|NN luiz|NN inácio|NN lula|NN da|NN silva|NN </s>|S_END
+<s>|S_START plagued|VBD by|IN corruption|NN scandals|NNS and|CC infighting|VBG in|IN her|PRP$ administration|NN she|PRP has|VBZ looked|VBN wobbly|RB much|RB of|IN the|DT time|NN </s>|S_END
+<s>|S_START her|PRP$ focus|NN on|IN social|JJ programmes|NNS including|VBG poverty|NN reduction|NN wont|NN go|NN over|IN well|RB in|IN a|DT country|NN accustomed|VBN of|IN late|JJ to|TO rapid|JJ growth|NN and|CC strong|JJ income|NN gain|NN </s>|S_END
+<s>|S_START with|IN the|DT global|JJ economy|NN slowing|VBG and|CC brazils|NNS with|IN it|PRP ms|VBZ rousseffs|NNS inexperience|NN will|MD leave|VB her|PRP vulnerable|JJ to|TO attack|VB </s>|S_END
+</p>|P_END
+

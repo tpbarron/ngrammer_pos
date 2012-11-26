@@ -1,0 +1,59 @@
+<p>|P_START
+</p>|P_END
+
+<p>|P_START
+<s>|S_START president|NN obamas|VBD reelection|NN win|NN sparked|VBD a|DT sharp|JJ selloff|NN in coal|JJ gas|NN and|CC oil stocks|NNS wednesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START during|IN the|DT presidential|JJ campaign|NN republican|NN challenger|NN mitt|NN romney|NN said|VBD obama|NN had|VBD waged|VBN a|DT war|NN on|IN the|DT coal|NN industry|NN during|IN his|PRP$ first|JJ term|NN </s>|S_END
+<s>|S_START the|DT reality|NN is|VBZ more|RBR nuanced|VBN </s>|S_END
+<s>|S_START coal|NN production|NN has|VBZ dropped|VBN swiftly|RB but|CC thats|NNS due|JJ to|TO a|DT mix|NN of|IN factors|NNS including|VBG a|DT us|PRP natural|JJ gas|NN boom|NN thats|NNS made|VBN gas|NN a|DT compelling|NN energy|NN alternative|NN </s>|S_END
+<s>|S_START the|DT recession|NN has|VBZ also dampened|JJ demand|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT coal|NN industry|NN will|MD see|VB more|RBR regulations|NNS take|VBP effect|NN in|IN 2015|CD but|CC many|JJ of|IN those|DT rules|NNS were|VBD written|VBN before|IN obama|NN took|VBD office|NN </s>|S_END
+<s>|S_START a|DT second|JJ obama|NN term|NN will|MD likely|RB make|VB coal|JJ exploration|NN and|CC combustion|NN more|RBR expensive|JJ over|IN the|DT next|JJ four|CD years|NNS as|IN experts|NNS expects|VBZ he|PRP will|MD be|VB even|RB tougher|JJR on|IN the|DT coal|NN industry|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START investors|NNS had|VBD been|VBN holding|VBG out|RP hope|NN that|IN a|DT romney|NN win|NN would|MD be|VB a|DT boon|NN for|IN the|DT industry|NN since|IN many|JJ felt|VBD he|PRP would|MD try|VB to|TO find|VB a|DT way|NN to|TO untangle|VB some|DT of|IN those|DT regulations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START romney|NN was|VBD quite|RB clear|JJ about|IN the|DT need|NN for|IN coal|NN use|NN and|CC coal|NN exploration|NN while|IN obama|NN is|VBZ viewed|VBN as|IN more|JJR friendly|JJ toward|NN environmental|JJ regulations|NNS said|VBD dan|NN greenhaus|NN chief|NN global|JJ strategist|NN of|IN btig|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START coal|NN companies|NNS which|WDT had|VBD a|DT nice|JJ jump|NN ahead|RB of|IN the|DT election|NN saw|VBD the|DT sharpest|JJS declines|NNS </s>|S_END
+<s>|S_START if|IN there|EX was|VBD a|DT romney|NN trade|NN yesterday|NN today|NN is|VBZ about|IN unwinding|VBG those|DT trades|NNS said|VBD greenhaus|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START arch|NN coal|NN aci|NN alpha|NN natural|JJ resources|NNS anr|VBP peabody|NN energy|NN btu|NN consol|NN energy|NN cnx|NN and|CC walter|NN energy|NN wlt|NN all|DT dropped|VBD more|JJR than|IN 5|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD did|VBD obama|NN kill|NN coal|NN jobs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT companies|NNS have|VBP had|VBN a|DT tough|JJ run|NN in|IN 2012|CD as|IN cheap|NN natural|JJ gas|NN has|VBZ lowered|VBN domestic|JJ demand|NN for|IN coal|NN </s>|S_END
+<s>|S_START arch|NN coal|NN and|CC alpha|NN natural|JJ resources|NNS are|VBP both|DT down|IN more|JJR than|IN 40|CD this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT effects|NNS of|IN the|DT obama|NN win|NN were|VBD less|JJR dramatic|JJ in|IN oil|NN and|CC gas|NN stocks|NNS which|WDT also|RB sold|VBD off|RP </s>|S_END
+<s>|S_START exxon|NN xom and|NN halliburton|NN hal|NN dropped|VBD more|JJR than|IN 2|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START natural|JJ gas|NN producer|NN chesapeake|NN energy|NN chk|NN also|RB fell|VBD roughly|RB 2|CD </s>|S_END
+<s>|S_START while|IN obamas|NNS first|RB term|JJ coincided|VBN with|IN a|DT boom|NN in|IN natural|JJ gas|NN investors|NNS worry|VBP that|IN his|PRP$ administration|NN could|MD put|VB restrictions|NNS on|IN natural|JJ gas|NN fracking|VBG and|CC drilling|VBG which|WDT could|MD hurt|VB the|DT industry|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN the|DT obama|NN administration|NN is|VBZ perceived|VBN as|RB more|RBR friendly|JJ to|TO socalled|VBN clean|JJ energy|NN shares|NNS of|IN powershares|NNS wilderhill|VBP clean|JJ energy|NN portfolio|NN pbw|NN an|DT etf|NN that|IN invests|NNS in|IN clean|JJ energy|NN stocks|NNS also|RB sold|VBD off|RP dropping|VBG 2|CD wednesday|NN </s>|S_END
+</p>|P_END
+

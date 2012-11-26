@@ -1,0 +1,73 @@
+<p>|P_START
+<s>|S_START think|NN of|IN how|WRB wifi|NN has|VBZ made|VBN computing|VBG so|RB much|RB more|RBR convenient|JJ </s>|S_END
+<s>|S_START it|PRP has|VBZ untethered|VBN users|NNS from|IN pesky|JJ cable|JJ connections|NNS to|TO the|DT internet|NN allowing|VBG them|PRP to|TO wander|VB around|IN the|DT home|NN or|CC office|NN with|IN laptop|NN or|CC tablet|VB in|IN hand|NN surfing|VBG the|DT web|NN making|VBG free|JJ phone|NN calls|VBZ sending|VBG files|NNS wirelessly|RB to|TO printers|NNS video|VB to|TO tele­vision|NN sets|NNS and|CC many|JJ more|RBR thing|VBG </s>|S_END
+<s>|S_START but|CC what|WP if|IN wifi|NN radio|NN beams|NNS travelled|VBD not|RB just|RB a|DT few|JJ hundred|VBN feet|NNS but|CC stretched|VBD for|IN several|JJ miles—and|JJ were|VBD unimpeded|VBN by|IN trees|NNS terrain|VBP and|CC walls|NNS so|RB that|IN they|PRP could|MD penetrate|VB all|DT the|DT nooks|NNS and|CC crannies|NNS within|IN building|NN </s>|S_END
+<s>|S_START that|DT is|VBZ the|DT promise|NN of|IN “whitespace”|NNP wirele|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “whitespace”|NN is|VBZ technical|JJ slang|NN for|IN television|NN channels|NNS that|WDT were|VBD left|VBN vacant|JJ in|IN one|CD city|NN so|IN as|IN not|RB to|TO interfere|VB with|IN tv|NN stations|NNS broadcasting|VBG on|IN adjacent|NN channels|NNS in|IN a|DT neighbouring|NN city|NN </s>|S_END
+<s>|S_START in|IN the|DT early|JJ days|NNS of|IN television|NN americas|NNS broadcasting|VBG authorities|NNS reserved|VBD 50|CD or|CC so|RB channels|NNS for|IN tv|NN station|NN </s>|S_END
+<s>|S_START but|CC because|IN of|IN worries|NNS about|IN interference|NN no|DT metropolitan|NN area|NN has|VBZ ever|RB come|VBN close|RB to|TO using|VBG all|DT 50|CD channels|NNS at|IN its|PRP$ disposal|NN </s>|S_END
+<s>|S_START in|IN rural|JJ areas|NNS vacant|JJ channels|NNS ie|VBP whitespace|NN have|VBP frequently|RB amounted|VBN to|TO 70|CD or|CC more|JJR of|IN the|DT total|JJ bandwidth|NN available|JJ for|IN television|NN broadcasting|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN the|DT recent|JJ switch|NN from|IN analogue|NN to|TO digital|JJ tele­vision|NN much|RB of|IN this|DT protective|JJ whitespace|NN is|VBZ no|DT longer|NN needed|VBN </s>|S_END
+<s>|S_START unlike|IN analogue|NN broadcasting|VBG digital|JJ signals|NNS do|VBP not|RB “bleed”|-NONE- into|IN one|CD another—and|JJ can|MD therefore|VB be|VB packed|VBN closer|JJR together|RP </s>|S_END
+<s>|S_START all|DT told|VBD the|DT television|NN networks|VBZ now|RB require|VBP little|RB more|RBR than|IN half|PDT the|DT frequency|NN spectrum|NN they|PRP sprawled|VBD across|IN previously|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT attraction|NN of|IN whitespace|NN is|VBZ that|IN the|DT frequencies|NNS used|VBN for|IN television|NN broadcasting|VBG 54mhz|CD to|TO 806mhz|CD were|VBD chosen|VBN in|IN the|DT first|JJ place|NN for|IN the|DT distance|NN they|PRP could|MD travel|VB and|CC their|PRP$ ability|NN to|TO penetrate|VB obstacle|NN </s>|S_END
+<s>|S_START they|PRP were|VBD also|RB good|JJ at|IN transmitting|NN information|NN quickly|RB </s>|S_END
+<s>|S_START where|WRB wifi|NN can|MD shuttle|VB data|NNS at|IN 160300|CD megabits|NNS per|IN second|JJ whitespace|NN can|MD do|VB so|RB at|IN 400800|CD megabits|NNS per|IN second|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN america|NN the|DT best|JJS frequencies|NNS for|IN doing|VBG all|DT this—the|NNP 700mhz|CD band|NN covering|VBG channels|NNS 52|CD to|TO 69|CD on|IN the|DT old|JJ television|NN dial—were|JJ auctioned|VBN off|RP in|IN 2008|CD to|TO mobilephone|NN companie|NN </s>|S_END
+<s>|S_START between|IN them|PRP verizon|VBP att|NN and|CC others|NNS paid|VBD close|JJ to|TO $|$ 20|CD billion|CD for|IN this|DT “beachfront|JJ property”|NN of|IN the|DT wireless|NN spectrum|NN </s>|S_END
+<s>|S_START the|DT whitespace|NN freed|VBD below|IN 700mhz|CD is|VBZ to|TO be|VB made|VBN available|JJ for|IN unlicensed|VBN use|NN by|IN the|DT public|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START do|VBP you|PRP want|VB to|TO play|VB in|IN my|PRP$ bandwidth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whitespace|NN should|MD help|VB to|TO solve|VB the|DT bandwidth|NN problem|NN that|IN has|VBZ begun|VBN to|TO plague|VB wireless|NN networks|NNS in|IN general—as|JJ more|RBR consumers|NNS download|VBD films|NNS television|NN episodes|NNS and|CC other|JJ video|NN offerings|NNS wirelessly|RB from|IN the|DT internet|NN instead|RB of|IN receiving|VBG such|JJ fare|NN from|IN their|PRP$ traditional|JJ cable|JJ satellite|NN or|CC overtheair|NN tv|NN broadcaster|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT decade|NN ago|IN the|DT biggest|JJS bandwidth|NN hogs|NNS were|VBD computer|NN users|NNS downloading|VBG music|JJ tracks|NNS from|IN napster|NN and|CC other|JJ peertopeer|NN website|IN </s>|S_END
+<s>|S_START nowadays|NNS media|VBP seekers|NNS are|VBP more|RBR likely|JJ to|TO be|VB downloading|VBG whole|JJ television|NN episodes|NNS from|IN amazon|NN itunes|NNS or|CC hulu|VB which|WDT typically|RB gobble|JJ up|IN 14|CD times|NNS the|DT bandwidth|NN of|IN music|JJ tracks|NNS or|CC streaming|VBG films|NNS from|IN netflix|CD 110|CD time|NN </s>|S_END
+<s>|S_START blame|NN the|DT current|JJ bandwidth|NN crunch|NN on|IN the|DT growing|VBG popularity|NN of|IN the|DT iphone|NN and|CC android|VBD smartphones|NNS as|IN well|RB as|IN media|NNS tablets|NNS like|IN the|DT ipad|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apart|NN from|IN easing|VBG bandwidth|NN problems|NNS whitespace|NN could|MD lead|VB to|TO a|DT wireless|NN revolution|NN even|RB bigger|JJR than|IN the|DT wave|NN of|IN innovation|NN unleashed|VBD over|IN a|DT decade|NN ago|IN when|WRB wifi|NN bluetooth|NN and|CC other|JJ wireless|NN technologies|NNS embraced|VBD the|DT unlicensed|VBN 24ghz|CD band|NN previously|RB reserved|VBD for|IN microwave|NN ovens|NNS and|CC garagedoor|NN opener|NN </s>|S_END
+<s>|S_START ome|NN insiders|NNS even|RB talk|VBP about|IN whitespace|NN offering|NN a|DT “third|JJ pipe”|NN that|WDT will|MD rival|VB cable|JJ and|CC telephone|NN broadband|NN for|IN access|NN to|TO the|DT internet|NN </s>|S_END
+<s>|S_START others|NNS see|VBP it|PRP as|IN a|DT cheaper|JJR alternative|NN to|TO todays|NNS mobilephone|NN system|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoft|NN has|VBZ been|VBN using|VBG just|RB two|CD experimental|JJ whitespace|NN antennae|NN instead|RB of|IN thousands|NNS of|IN wifi|NN access|NN points|NNS to|TO blanket|VB its|PRP$ 500acre|JJ 200hectare|JJ campus|NN in|IN redmond|NN washington|NN </s>|S_END
+<s>|S_START with|IN whitespace|NN hotspots|NNS capable|JJ of|IN covering|VBG such|JJ wide|JJ areas|NNS supermarkets|NNS shopping|VBG malls|NNS even|RB local|JJ municipalities|NNS could|MD use|VB it|PRP to|TO offer|VB free|JJ advertisingsupported|VBN internet|NN services|NNS to|TO their|PRP$ customers|NNS and|CC local|JJ residents|NNS to|TO search|VB the|DT web|NN and|CC make|VB free|JJ telephone|NN calls|VBZ using|VBG skype|NN google|NN or|CC something|NN similar|JJ on|IN their|PRP$ smartphones|NNS and|CC other|JJ device|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START pipedream|NN </s>|S_END
+<s>|S_START far|RB from|IN it|PRP </s>|S_END
+<s>|S_START technical|JJ hurdles|NNS remain|VBP but|CC the|DT first|JJ “enterpriselevel”|NN pieces|NNS of|IN whitespace|NN equipment|NN are|VBP about|IN to|TO go|VB into|IN service|NN with|IN commercial|JJ trials|NNS of|IN various|JJ applications|NNS expected|VBN throughout|IN 2012|CD </s>|S_END
+<s>|S_START how|WRB soon|RB before|IN individuals|NNS can|MD buy|VB $|$ 100|CD whitespace|NN routers|NNS for|IN the|DT home|NN </s>|S_END
+<s>|S_START the|DT consensus|NN view|NN is|VBZ 2015|CD at|IN the|DT very|RB latest |JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nick|NN valéry|JJ difference|NN engine|NN columnist|NN the|DT economist|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,69 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN in|IN a|DT scolding|NN letter|NN sent|NN to|TO google|VB on|IN monday|NN european|JJ regulators|NNS outlined|VBN their|PRP$ concerns|NNS about|IN googles|NNS business|NN practices|NNS giving|VBG the|DT search|NN giant|NN a|DT matter|NN of|IN weeks|NNS to|TO shape|VB up|RP or|CC pay|NN up|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT european|JJ commission|NN said|VBD it|PRP had|VBD reached|VBN preliminary|JJ conclusions|NNS based|VBN on|IN its|PRP$ 18month|JJ antitrust|JJ investigation|NN of|IN google|JJ </s>|S_END
+<s>|S_START it|PRP found|VBD four|CD ways|NNS in|IN which|WDT google|JJ potentially|RB violates|VBZ antimonopoly|RB laws|VBZ in|IN the|DT region|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN goog|NN fortune|NN 500|CD displays|NNS links|NNS to|TO its|PRP$ own|JJ vertical|JJ search|NN services|NNS differently|RB than|IN it|PRP does|VBZ for|IN links|NNS to|TO competitors|NNS the|DT letter|NN said|VBD </s>|S_END
+<s>|S_START the|DT commission|NN said|VBD it|PRP is|VBZ concerned|VBN that|IN google|JJ may|MD be|VB giving|VBG its|PRP$ own|JJ services|NNS preferential|JJ treatment|NN over|IN rivals|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START though|IN the|DT letter|NN did|VBD not|RB outline|VB specifics|NNS such|JJ google|JJ services|NNS include|VBP local|JJ reviews|NNS shopping|VBG listings|NNS and|CC flight|VBD schedules|NNS among|IN others|NNS which|WDT sometimes|RB compete|VBP with|IN companies|NNS like|IN yelp|NN yelp|NN amazon|NN amzn|NN fortune|NN 500|CD priceline|NN pcln|NN and|CC expedia|NN expe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT commission|NN also|RB said|VBD it|PRP is|VBZ concerned|VBN with|IN how|WRB google|JJ scrapes|NNS content|NN from|IN the|DT internet|NN to|TO post|VB within|IN some|DT of|IN its|PRP$ own|JJ search|NN verticals|NNS including|VBG reviews|NNS from|IN across|IN the|DT web|NN </s>|S_END
+<s>|S_START though|IN its|PRP$ a|DT common|JJ practice|NN among|IN search|NN engines|NNS the|DT commission|NN is|VBZ worried|VBN that|IN it|PRP may|MD harm|VB innovation|NN by|IN appropriating|NN the|DT benefits|NNS of|IN the|DT investments|NNS of|IN competitors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT third|JJ and|CC fourth|JJ issues|NNS focus|VBZ on|IN googles|NNS advertising|VBG business|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT commission|NN found|VBD that|IN google|JJ enters|NNS into|IN quasiexclusivity|NN agreements|NNS with|IN partner|NN sites|NNS that|WDT display|NN google|VBP advertising|VBG which|WDT could|MD hinder|VB competition|NN </s>|S_END
+<s>|S_START the|DT letter|NN also|RB said|VBD that|IN google|JJ makes|NNS it|PRP difficult|VBD for|IN adwords|NNS customers|NNS to|TO port|VB their|PRP$ ad|NN campaigns|NNS to|TO rival|NN services|NNS such|JJ as|IN those|DT from|IN chief|NN competitors|NNS yahoo|RB yhoo|RB fortune|JJ 500|CD aol|NN aol|NN and|CC microsoft|NN msft|NN fortune|NN 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT google|NN spokesman|NN said|VBD the|DT company|NN has|VBZ only|RB just|RB started|VBN looking|VBG through|IN the|DT commissions|NNS letter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP disagree|VBP with|IN the|DT conclusions|NNS but|CC were|VBD happy|JJ to|TO discuss|VB any|DT concerns|NNS they|PRP might|MD have|VB the|DT company|NN said|VBD </s>|S_END
+<s>|S_START competition|NN on|IN the|DT web|NN has|VBZ increased|VBN dramatically|RB in|IN the|DT last|JJ two|CD years|NNS since|IN the|DT commission|NN started|VBD looking|VBG at|IN this|DT and|CC the|DT competitive|JJ pressures|NNS google|JJ faces|NNS are|VBP tremendous|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START since|IN the|DT european|JJ commission|NN first|RB began|VBD its|PRP$ probe|NN in|IN november|NN 2010|CD several|JJ companies|NNS have|VBP filed|VBN complaints|NNS against|IN google|JJ most|RBS notably|RB microsoft|JJ and|CC expedia|NNS </s>|S_END
+<s>|S_START microsoft|NN operates|VBZ the|DT secondplace|NN bing|VBG search|NN engine|NN which|WDT trails|NNS google|VBP by|IN a|DT long|JJ shot|NN in|IN the|DT united|VBN states|NNS and|CC by|IN even|RB more|RBR in|IN europe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT letter|NN was|VBD sent|VBN ahead|RB of|IN any|DT official|NN complaint|NN or|CC ruling|VBG because|IN google|JJ had|VBD urged|VBN the|DT commission|NN to|TO discuss|VB the|DT results|NNS with|IN it|PRP ahead|RB of|IN time|NN </s>|S_END
+<s>|S_START google|NN said|VBD it|PRP is|VBZ interested|JJ in|IN potentially|RB reaching|VBG a|DT settlement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT is|VBZ why|WRB i|PRP am|VBP today|NN giving|VBG google|NN an|DT opportunity|NN to|TO offer|VB remedies|NNS to|TO address|VB the|DT concerns|NNS we|PRP have|VBP already|RB identified|VBN wrote|NN joaquín|-NONE- almunia|NN head|NN of|IN the|DT european|JJ commissions|NNS competition|NN committee|NN </s>|S_END
+<s>|S_START he|PRP said|VBD he|PRP is|VBZ eager|JJ to|TO reach|VB a|DT swift|NN conclusion|NN to|TO the|DT matter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN google|JJ comes|NNS up|IN with|IN an|DT outline|NN of|IN remedies|NNS which|WDT are|VBP capable|JJ of|IN addressing|NN our|PRP$ concerns|NNS i|PRP will|MD instruct|VB my|PRP$ staff|NN to|TO initiate|VB the|DT discussions|NNS in|IN order|NN to|TO finalize|VB a|DT remedies|NNS package|NN he|PRP continued|VBD </s>|S_END
+<s>|S_START i|PRP hope|VBP that|IN google|JJ seizes|NNS this|DT opportunity|NN to|TO swiftly|RB resolve|VB our|PRP$ concerns|NNS for|IN the|DT benefit|NN of|IN competition|NN and|CC innovation|NN in|IN the|DT sector|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START almunia|NN sent|VBD the|DT letter|NN to|TO google|VB chairman|NN eric|JJ schmidt|NN and|CC gave|VBD the|DT company|NN a|DT matter|NN of|IN weeks|NNS to|TO address|VB each|DT of|IN the|DT commissions|NNS concerns|NNS with|IN first|JJ proposals|NNS of|IN remedies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN faces|NNS a|DT similar|JJ antitrust|JJ probe|NN in|IN the|DT united|VBN states|NNS from|IN the|DT federal|JJ trade|NN commission |NN </s>|S_END
+</p>|P_END
+

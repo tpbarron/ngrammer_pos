@@ -1,0 +1,81 @@
+<p>|P_START
+<s>|S_START in|IN 2009|CD rupert|NN murdoch|NN called|VBN google|NN and|CC other|JJ search|NN engines|NNS “content|JJ kleptomaniacs”|NN </s>|S_END
+<s>|S_START now|RB cashstrapped|VBD newspapers|NNS want|VBP to|TO put|VB legal|JJ pressure|NN on|IN what|WP they|PRP see|VBP as|IN parasitical|JJ news|NN aggregator|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN germany|NN politicians|NNS are|VBP considering|VBG a|DT bill|NN to|TO extend|VB copyright|NN protection|NN to|TO excerpts|NNS of|IN newspaper|NN articles|NNS appearing|VBG in|IN search|NN engines’|NN results|NNS thus|RB enabling|VBG publishers|NNS to|TO collect|VB payment|NN for|IN them|PRP </s>|S_END
+<s>|S_START google|NN is|VBZ the|DT main|JJ target|NN some|DT german|NN newspaper|NN executives|NNS say|VBP it|PRP benefits|VBZ from|IN showcasing|VBG their|PRP$ material|NN in|IN search|NN results|NNS on|IN its|PRP$ news|NN aggregator|NN google|NN new|JJ </s>|S_END
+<s>|S_START a|DT similar|JJ bill|NN has|VBZ been|VBN proposed|VBN in|IN italy|RB </s>|S_END
+<s>|S_START french|NN newspapers|NNS want|VBP the|DT same|JJ </s>|S_END
+<s>|S_START on|IN october|NN 29th|CD president|NN françois|NNS hollande|VBP warned|VBN eric|JJ schmidt|NN the|DT chairman|NN of|IN google|JJ that|IN if|IN french|JJ newspapers’|NN demands|NNS for|IN compensation|NN are|VBP not|RB met|VBN by|IN yearend|NN france|NN may|MD pass|VB a|DT law|NN akin|NN to|TO the|DT german|NN one|CD </s>|S_END
+<s>|S_START austrian|JJ and|CC swiss|JJ publishers|NNS are|VBP thinking|VBG along|IN similar|JJ line|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START giving|VBG away|RB the|DT headline|NN and|CC first|JJ sentence|NN of|IN an|DT article|NN supposedly|RB dissuades|VBZ readers|NNS from|IN clicking|VBG through|IN to|TO the|DT newspaper’s|NNS website|VBP to|TO read|VB the|DT entire|JJ story|NN </s>|S_END
+<s>|S_START critics|NNS also|RB say|VBP that|IN lifting|VBG even|RB snippets|NNS of|IN articles|NNS means|VBZ google|JJ can|NN sell|NN advertisements|NNS alongside|VBP them|PRP on|IN its|PRP$ search|NN platform|NN though|IN google|JJ news|NN carries|NNS no|DT ad|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT benefit|NN goes|VBZ the|DT other|JJ way|NN too|RB </s>|S_END
+<s>|S_START google|NN says|VBZ it|PRP directs|VBZ 4|CD billion|CD clicks|NNS to|TO news|NN websites|NNS every|DT month|NN perhaps|RB as|IN much|JJ as|IN threequarters|NNS of|IN google|JJ news|NN users|NNS go|VBP on|IN to|TO read|VB the|DT full|JJ article|NN </s>|S_END
+<s>|S_START and|CC newspapers|NNS can|MD add|VB a|DT tag|NN to|TO their|PRP$ pages|NNS so|RB that|IN they|PRP do|VBP not|RB appear|VB in|IN google|JJ new|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START german|NN lawmakers|NNS will|MD start|VB to|TO discuss|VB the|DT bill|NN this|DT month|NN and|CC it|PRP could|MD pass|VB next|JJ spring|NN </s>|S_END
+<s>|S_START newspapers|NNS will|MD then|RB probably|RB join|IN forces|NNS to|TO set|VB up|RP a|DT collecting|NN society|NN rather|RB as|IN the|DT music|NN industry|NN collects|NNS royalties|NNS on|IN song|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START google|NN has|VBZ said|VBN that|IN having|NN to|TO pay|VB for|IN articles|NNS could|MD “threaten|VB its|PRP$ very|JJ existence”|NN </s>|S_END
+<s>|S_START but|CC its|PRP$ most|RBS likely|JJ response|NN would|MD be|VB to|TO remove|VB pages|NNS from|IN newspaper|NN sites|NNS in|IN the|DT countries|NNS concerned|VBD from|IN its|PRP$ search|NN result|NN </s>|S_END
+<s>|S_START that|DT would|MD hit|VB media|NNS outlets|NNS that|WDT depend|NN on|IN searchengine|NN traffic|NN to|TO boost|VB their|PRP$ revenues|NNS from|IN online|NN advert|NN </s>|S_END
+<s>|S_START even|RB mr|VBP murdoch|JJ who|WP pulled|VBN his|PRP$ newspapers|NNS from|IN google’s|JJ search|NN results|NNS in|IN 2010|CD decided|VBN in|IN september|NN that|IN headlines|NNS and|CC teaser|NN text|NN from|IN the|DT articles|NNS should|MD reappear|VB </s>|S_END
+<s>|S_START google|NN news|NN is|VBZ not|RB universally|RB important|JJ </s>|S_END
+<s>|S_START in|IN october|NN over|IN 150|CD brazilian|JJ newspapers|NNS opted|VBN out|RP of|IN it|PRP although|IN they|PRP still|RB feature|VBP in|IN results|NNS on|IN google’s|NNS main|JJ search|NN engine|NN saying|VBG they|PRP should|MD be|VB paid|VBN for|IN their|PRP$ work|NN </s>|S_END
+<s>|S_START traffic|JJ dropped|VBD by|IN only|RB 5|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START newspapers|NNS are|VBP also|RB claiming|VBG that|IN copyright|NN law|NN is|VBZ on|IN their|PRP$ side|NN </s>|S_END
+<s>|S_START america’s|NNS laws|NNS are|VBP more|RBR relaxed|VBN than|IN most|JJS of|IN europe’s|NNS so|IN search|NN engines’|NN use|NN of|IN some|DT material|NN from|IN articles|NNS qualifies|NNS there|RB as|IN “fair|JJ use”|NN </s>|S_END
+<s>|S_START but|CC in|IN belgium|NN a|DT group|NN of|IN newspapers|NNS sued|VBN google|JJ for|IN news|NN copyright|NN infringement|NN and|CC won|VBD </s>|S_END
+<s>|S_START the|DT company|NN is|VBZ appealing|VBG against|IN the|DT ruling|NN but|CC is|VBZ likely|JJ to|TO have|VB to|TO pay|VB some|DT damage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT real|JJ issue|NN behind|IN all|DT this|DT however|NN is|VBZ the|DT decline|NN of|IN traditional|JJ media|NNS </s>|S_END
+<s>|S_START in|IN france|NN not|RB a|DT single|JJ national|JJ newspaper|NN is|VBZ profitable|JJ despite|IN around|IN €12|-NONE- billion|CD $|$ 154|CD billion|CD in|IN direct|JJ and|CC indirect|JJ government|NN subsidies|NNS according|VBG to|TO olivier|JJR fleurot|NN the|DT boss|NN of|IN mslgroup|NN a|DT communications|NNS firm|NN and|CC a|DT former|JJ chief|NN executive|NN at|IN the|DT financial|JJ times|NNS partowner|VBP of|IN the|DT economist|NN </s>|S_END
+<s>|S_START google|NN can|MD hardly|RB be|VB blamed|VBN for|IN the|DT recession|NN declining|VBG readership|NN and|CC slumping|VBG advertising|NN revenue|NN </s>|S_END
+<s>|S_START online|NN advertising|NN has|VBZ not|RB offset|VBN the|DT decline|NN of|IN print|NN ads|NNS in|IN newspaper|NN </s>|S_END
+<s>|S_START in|IN 2011|CD newspaper|NN advertising|NN globally|RB amounted|VBN to|TO $|$ 76|CD billion|CD down|IN 41|CD since|IN 2007|CD according|VBG to|TO the|DT world|NN association|NN of|IN newspaper|NN </s>|S_END
+<s>|S_START only|RB 22|CD of|IN newspapers’|JJ advertising|NN revenues|NNS last|JJ year|NN came|VBD from|IN digital|JJ platforms|NNS and|CC even|RB these|DT are|VBP vulnerable|JJ to|TO adblocking|NN software|NN see|NN article|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START news|NN sprint|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB if|IN some|DT countries|NNS do|VBP get|VB google|JJ to|TO pay|VB up|RP for|IN using|VBG their|PRP$ headlines|NNS and|CC some|DT text|NN from|IN articles|NNS it|PRP will|MD hardly|RB plug|VB the|DT holes|NNS in|IN their|PRP$ newspapers’|NN revenues|NNS or|CC speed|VBN their|PRP$ restructuring|NN </s>|S_END
+<s>|S_START jan|NN malinowski|NN a|DT media|NNS expert|NN at|IN the|DT council|NN of|IN europe|NN says|VBZ trying|VBG to|TO get|VB google|JJ to|TO pay|VB for|IN articles|NNS “is|-NONE- like|IN trying|VBG to|TO ban|VB gutenberg’s|JJ printing|NN press|NN in|IN order|NN to|TO protect|VB the|DT scribes”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT legal|JJ pressure|NN may|MD in|IN any|DT case|NN be|VB overtaken|VBN by|IN changes|NNS in|IN business|NN model|NN </s>|S_END
+<s>|S_START newspapers|NNS have|VBP mostly|RB avoided|VBN charging|VBG users|NNS for|IN reading|NN articles|NNS in|IN the|DT hope|NN of|IN boosting|VBG visitor|NN numbers|NNS to|TO their|PRP$ website|JJ </s>|S_END
+<s>|S_START but|CC thinking|VBG is|VBZ shifting|VBG </s>|S_END
+<s>|S_START many|JJ of|IN the|DT brazilian|JJ papers|NNS that|WDT opted|VBN out|RP of|IN google|JJ news|NN will|MD launch|VB paywalls|NNS next|IN year|NN says|VBZ carlos|NNS fernando|VBP lindenberg|NN neto|NN president|NN of|IN the|DT brazilian|JJ newspapers’|NN association|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT emerging|NN business|NN model|NN is|VBZ now|RB the|DT metered|VBN paywall|NN a|DT few|JJ free|JJ articles|NNS entice|NN readers|NNS but|CC they|PRP must|MD pay|VB if|IN they|PRP want|VBP more|RBR a|DT model|NN used|VBN by|IN the|DT economist|NN and|CC the|DT new|JJ york|NN times|NNS among|IN other|JJ </s>|S_END
+<s>|S_START paywalls|NNS have|VBP doubled|VBN in|IN america|NN this|DT year|NN </s>|S_END
+<s>|S_START other|JJ outlets|NNS are|VBP banding|VBG together|RB to|TO charge|VB for|IN acce|NN </s>|S_END
+<s>|S_START piano|NN media|NNS a|DT slovakian|JJ firm|NN lets|NNS users|NNS buy|VB access|NN to|TO multiple|VB websites|NNS tv|NN and|CC radio|NN stations|NNS in|IN a|DT single|JJ country|NN for|IN a|DT flat|JJ fee|NN </s>|S_END
+<s>|S_START it|PRP pays|VBZ publishers|NNS in|IN proportion|NN to|TO time|VB spent|NN by|IN users|NNS on|IN their|PRP$ site|JJ </s>|S_END
+<s>|S_START uch|JJ ideas|NNS may|MD work|VB better|JJR than|IN hoping|VBG for|IN a|DT cheque|NN from|IN google|JJ </s>|S_END
+</p>|P_END
+

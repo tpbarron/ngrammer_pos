@@ -1,0 +1,110 @@
+<p>|P_START
+<s>|S_START president|NN obamas|VBD reelection|NN is|VBZ driving|VBG gun|NN sales|NNS because|IN of|IN concerns|NNS about|IN tighter|JJR regulations|NNS on|IN semiautomatic|JJ rifles|NNS like|IN this|DT pistolgripped|JJ hipoint|NN pictured|VBD farright|NN at|IN a|DT tallahassee|NN firing|VBG range|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN gun|NN sales|NNS are|VBP up|RB in|IN the|DT wake|NN of|IN barack|NN obamas|NNS reelection|NN on|IN tuesday|NN driven|NN by|IN fears|NNS of|IN tighter|NN regulations|NNS under|IN a|DT democratic|JJ president|NN especially|RB for|IN firearms|NNS that|WDT might|MD be|VB classified|VBN as|IN assault|NN weapons|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sales|NNS are|VBP up|RB said|VBD john|NN kielbasa|NN owner|NN of|IN fernwood|NN firearms|NNS in|IN hankins|NNS ny|NN i|PRP had|VBD a|DT guy|NN waiting|VBG here|RB first|JJ thing|NN in|IN the|DT morning|NN after|IN the|DT election|NN </s>|S_END
+<s>|S_START he|PRP came|VBD in|IN bought|NN two|CD ak47s|NNP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START kielbasa|NN said|VBD that|IN he|PRP sells|VBZ semiautomatic|JJ versions|NNS of|IN the|DT fully|RB automatic|JJ kalashnikov|NN rifles|NNS as|IN is|VBZ permitted|VBN by|IN law|NN </s>|S_END
+<s>|S_START he|PRP said|VBD the|DT demand|NN for|IN semiautomatic|JJ rifles|NNS is|VBZ being|VBG stoked|VBN by|IN memories|NNS of|IN the|DT assault|NN weapon|NN ban|NN pioneered|VBD by|IN another|DT democrat|NN former|NN president|NN bill|NN clinton|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT ban|NN which|WDT expired|VBN in|IN 2004|CD didnt|NN eliminate|NN the|DT weapons|NNS entirely|RB but|CC restricted|VBN their|PRP$ features|NNS limiting|VBG magazine|NN capacity|NN to|TO 10|CD rounds|NNS and|CC regulating|VBG pistol|NN grips|NNS bayonet|VBP attachments|NNS and|CC flash|NN suppressors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lawrence|NN keane|NN vice|NN president|NN of|IN gun|NN industry|NN group|NN national|JJ shooting|NN sports|NNS foundation|NN says|VBZ that|IN modern|JJ sporting|NN rifles|NNS a|DT term|NN that|WDT he|PRP prefers|VBZ to|TO assault|VB weapons|NNS are|VBP the|DT most|RBS popular|JJ type|NN of|IN rifles|NNS being|VBG bought|NN today|NN by|IN americans|NNS </s>|S_END
+<s>|S_START he|PRP says|VBZ theyre|JJ used|VBN by|IN hunters|NNS target|VBP shooters|NNS veterans|NNS returning|VBG from|IN iraq|NN and|CC afghanistan|NN and|CC citizens|NNS who|WP want|VBP to|TO protect|VB their|PRP$ property|NN from|IN looters|NNS in|IN the|DT wake|NN of|IN recent|JJ storms|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD for|IN sales|NNS online|NN cheap|NN ammo|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fears|NNS that|IN a|DT ban|NN on|IN the|DT weapons|NNS might|MD come|VB back|RB under|IN democratic|JJ leadership|NN drove|VBD gun|VBN enthusiasts|NNS to|TO buy|VB firearms|NNS when|WRB obama|NN was|VBD first|JJ elected|VBN in|IN 2008|CD </s>|S_END
+<s>|S_START the|DT most|RBS reliable|JJ way|NN to|TO track|VB the|DT number|NN of|IN gun|NN sales|NNS is|VBZ via|IN background|NN checks|NNS and|CC they|PRP spiked|VBD after|IN the|DT last|JJ election|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT federal|JJ bureau|NN of|IN investigation|NN conducted|VBN 97848|CD firearms|NNS background|IN checks|NNS on|IN nov|NN 28|CD 2008|CD according|VBG to|TO the|DT national|JJ shooting|NN sports|NNS foundation|NN </s>|S_END
+<s>|S_START thats|NNS the|DT thirdhighest|JJS number|NN of|IN background|NN checks|NNS ever|RB recorded|VBN in|IN a|DT single|JJ day|NN </s>|S_END
+<s>|S_START the|DT fbi|NN conducted|VBD 127|CD million|CD background|NN checks|NNS during|IN all|DT of|IN 2008|CD compared|VBN to|TO 112|CD million|CD the|DT year|NN before|IN </s>|S_END
+<s>|S_START theyve|NN been|VBN climbing|VBG ever|RB since|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ going|VBG to|TO be|VB good|JJ for|IN me|PRP for|IN business|NN said|VBD kielbasa|NN who|WP specializes|VBZ in|IN tactical|JJ firearms|NNS according|VBG to|TO his|PRP$ web|NN site|NN </s>|S_END
+<s>|S_START but|CC eventually|RB if|IN theyre|NN going|VBG to|TO ban|VB all|DT this|DT stuff|NN what|WP am|NN i|PRP going|VBG to|TO sell|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gun|NN shop|NN owners|NNS say|VBP that|IN though|IN its|PRP$ too|NN early|RB to|TO get|VB an|DT accurate|JJ count|NN of|IN sales|NNS for|IN this|DT week|NN theyve|NN definitely|RB increased|VBD </s>|S_END
+<s>|S_START kielbasa|NN says|VBZ one|CD of|IN the|DT distributors|NNS he|PRP works|VBZ with|IN had|JJ an|DT unusually|RB large|JJ order|NN of|IN 500|CD rifles|NNS this|DT week|NN </s>|S_END
+<s>|S_START other|JJ shop|NN owners|NNS anticipate|VBP a|DT bump|NN in|IN sales|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP are|VBP expecting|VBG an|DT increase|NN with|IN the|DT amount|NN of|IN calls|NNS were|VBD getting|VBG from|IN customers|NNS said|VBD tim|NN smith|IN of|IN tims|NNS guns|NNS and|CC range|NN in|IN winter|NN haven|NN fla|NN a|DT lot|NN of|IN dealers|NNS are|VBP stocking|VBG up|RP with|IN the|DT expectation|NN of|IN a|DT sales|NNS increase|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START bill|NN anderson|NN owner|NN of|IN the|DT gun|NN shop|NN calltoarms|NNS in|IN denton|NN texas|NNS said|VBD the|DT big|JJ spike|NN will|MD probably|RB hit|VB full|JJ force|NN this|DT weekend|NN </s>|S_END
+<s>|S_START he|PRP said|VBD that|IN gun|NN enthusiasts|NNS are|VBP assuming|VBG that|IN obama|NN will|MD be|VB more|RBR aggressive|JJ about|IN gun|JJ regulations|NNS in|IN his|PRP$ second|JJ term|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START being|VBG as|IN this|DT is|VBZ his|PRP$ second|JJ and|CC last|JJ term|NN he|PRP might|MD do|VB it|PRP because|IN hes|NNS not|RB interested|JJ in|IN getting|NN reelected|VBN said|VBD anderson|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START obama|NN had|VBD largely|RB avoided|VBN the|DT issue|NN of|IN gun|NN control|NN during|IN his|PRP$ first|JJ term|NN despite|IN some|DT highprofile|JJ mass|NN murders|NNS by|IN mentally|RB unstable|JJ gunmen|NNS in|IN crowded|JJ public|JJ places|NNS </s>|S_END
+<s>|S_START in|IN one|CD of|IN the|DT most|RBS notorious|JJ mass|NN shootings|NNS suspect|VBP james|NNS holmes|NNS allegedly|RB shot|VBD at|IN least|JJS 70|CD people|NNS including|VBG 12|CD fatally|RB during|IN a|DT july|RB screening|VBG of|IN the|DT dark|JJ night|NN rises|NNS in|IN a|DT colorado|NN movie|NN theater|NN </s>|S_END
+<s>|S_START as|IN part|NN of|IN his|PRP$ fourgun|NN arsenal|JJ the|DT selfdescribed|JJ joker|NN allegedly|RB used|VBN a|DT semiautomatic|JJ rifle|NN with|IN a|DT 100round|CD drum|NN which|WDT can|MD be|VB legally|RB purchased|VBN online|NN </s>|S_END
+<s>|S_START the|DT clintonera|NN assault|NN weapon|NN ban|NN would|MD not|RB have|VB permitted|VBN the|DT sale|NN of|IN a|DT magazine|NN with|IN such|JJ a|DT large|JJ capacity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD election|NN leads|NNS to|TO run|VB on|IN gun|NN stocks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START although|IN recent|JJ mass|NN shootings|NNS brought|VBD the|DT gun|NN debate|NN back|RB to|TO the|DT forefront|NN little|RB has|VBZ actually|RB been|VBN done|VBN about|IN it|PRP </s>|S_END
+<s>|S_START but|CC during|IN the|DT oct|NN 16|CD presidential|JJ debate|NN the|DT moderator|NN cnns|NNS candy|VBP crowley|NN asked|VBD obama|NN to|TO clarify|VB his|PRP$ past|JJ statements|NNS about|IN keeping|VBG ak47s|NNP out|IN of|IN the|DT hands|NNS of|IN criminals|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC the|DT president|NN answered|VBD with|IN his|PRP$ most|RBS definitive|JJ gun|NN control|NN statement|NN in|IN years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP also|RB share|VBP your|PRP$ belief|NN that|WDT weapons|NNS that|WDT were|VBD designed|VBN for|IN soldiers|NNS in|IN war|NN theaters|NNS dont|VBP belong|JJ on|IN our|PRP$ streets|NNS replied|VBD obama|NN </s>|S_END
+<s>|S_START and|CC so|RB what|WP im|PRP trying|VBG to|TO do|VB is|VBZ to|TO get|VB a|DT broader|JJR conversation|NN about|IN how|WRB do|VBP we|PRP reduce|VB the|DT violence|NN generally|RB </s>|S_END
+<s>|S_START part|NN of|IN it|PRP is|VBZ seeing|VBG if|IN we|PRP can|MD get|VB an|DT assault|NN weapons|NNS ban|NN reintroduced|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START obamas|NNS 2012|CD reelection|NN already|RB had|VBD an|DT immediate|JJ impact|NN on|IN gunrelated|VBN stocks|NNS driving|VBG up|RP shares|NNS of|IN manufacturers|NNS like|IN smith|NN wesson|NN swhc|NN and|CC sturm|NN ruger|NN rgr|NN as|IN well|RB as|IN retailers|NNS like|IN cabelas|NNS cab|VBP and|CC big|JJ 5|CD sporting|NN goods|NNS bgfv|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START keane|NN said|VBD that|IN future|JJ restrictions|NNS on|IN these|DT weapons|NNS could|MD be|VB tighter|RBR than|IN the|DT clintonera|NN ban|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP would|MD fully|RB expect|VB the|DT ban|NN to|TO be|VB more|JJR farreaching|VBG and|CC more|JJR comprehensive|JJ and|CC a|DT further|JJ infringement|NN of|IN the|DT second|JJ amendment|NN rights|NNS of|IN law|NN abiding|VBG americans|NNS he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC implementing|VBG such|JJ a|DT ban|NN would|MD be|VB difficult|JJ for|IN obama|NN </s>|S_END
+<s>|S_START the|DT bill|NN would|MD have|VB to|TO pass|VB through|IN the|DT republicancontrolled|VBN house|NN before|IN it|PRP made|VBD it|PRP to|TO a|DT democratcontrolled|JJ senate|NN </s>|S_END
+</p>|P_END
+

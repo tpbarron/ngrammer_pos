@@ -1,0 +1,188 @@
+<p>|P_START
+<s>|S_START ron|NN shaich|NN shareholder|NN value|NN is|VBZ a|DT narrow|NN definition|NN of|IN success|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fortune|NN ron|VBD shaichs|NNS bakery|NN empire|NN started|VBD in|IN 1980|CD with|IN a|DT 400squarefoot|JJ store|NN in|IN boston|NN called|VBN the|DT cookie|NN jar|NN </s>|S_END
+<s>|S_START over|IN the|DT course|NN of|IN three|CD decades|NNS the|DT business|NN merged|VBD with|IN au|NN bon|NN pain|NN acquired|VBD st|NN louis|NNS bread|VBP co|NN and|CC eventually|RB morphed|VBD into|IN panera|NN bread|NN pnra|NN </s>|S_END
+<s>|S_START in|IN the|DT past|JJ five|CD years|NNS paneras|NNS stock|NN has|VBZ returned|VBN 243|CD making|VBG it|PRP the|DT secondbestperforming|VBG us|PRP restaurant|JJ after|IN chipotle|NN cmg|NN </s>|S_END
+<s>|S_START shaich|NN pronounced|VBD shake|NN 58|CD had|VBD a|DT big|JJ 2012|CD panera|NN with|IN $|$ 18|CD billion|CD in|IN revenue|NN and|CC $|$ 34|CD billion|CD in|IN systemwide|JJ sales|NNS including|VBG franchisees|NNS joined|VBD the|DT fortune|NN 1000|CD and|CC in|IN february|JJ opened|VBN its|PRP$ first|JJ restaurant|NN in|IN the|DT big|JJ apple|NN </s>|S_END
+<s>|S_START shaichs|NNS story|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN a|DT kid|NN in|IN livingston|NN nj|NN i|PRP had|VBD no|DT real|JJ interest|NN in|IN business|NN </s>|S_END
+<s>|S_START i|PRP always|RB thought|VBD i|PRP wanted|VBD to|TO do|VB something|NN in|IN government|NN or|CC social|JJ policy|NN </s>|S_END
+<s>|S_START i|PRP worked|VBD for|IN congressman|NN frank|NN thompson|NN jr|NN and|CC on|IN campaigns|NNS in|IN washington|NN and|CC then|RB went|VBD off|IN to|TO clark|VB university|NN in|IN worcester|NN mass|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START my|PRP$ sophomore|NN year|NN i|PRP was|VBD at|IN a|DT local|JJ convenience|NN store|NN with|IN some|DT friends|NNS </s>|S_END
+<s>|S_START they|PRP really|RB didnt|VBP want|JJ students|NNS there|RB and|CC we|PRP were|VBD tossed|VBN out|RP for|IN supposedly|RB shoplifting|VBG </s>|S_END
+<s>|S_START i|PRP said|VBD to|TO a|DT friend|NN the|DT heck|NN with|IN these|DT guys|NNS </s>|S_END
+<s>|S_START why|WRB dont|NN we|PRP open|VBP our|PRP$ own|JJ store|NN </s>|S_END
+<s>|S_START i|PRP had|VBD been|VBN elected|VBN treasurer|NN of|IN the|DT student|NN body|NN and|CC i|PRP thought|VBD we|PRP could|MD raise|VB the|DT money|NN </s>|S_END
+<s>|S_START we|PRP opened|VBD the|DT beginning|NN of|IN my|PRP$ junior|NN year|NN and|CC i|PRP ran|VBD it|PRP </s>|S_END
+<s>|S_START it|PRP was|VBD the|DT most|JJS wonderful|JJ thing|NN i|PRP ever|RB did|VBD </s>|S_END
+<s>|S_START for|IN someone|NN who|WP cant|NN dance|VBP or|CC sing|VBG it|PRP was|VBD the|DT closest|JJS i|PRP ever|RB came|VBD to|TO being|VBG an|DT artist|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT student|NN store|NN became|VBD an|DT institution|NN at|IN clark|NN </s>|S_END
+<s>|S_START i|PRP started|VBD speaking|VBG around|IN the|DT country|NN about|IN student|NN government|NN opening|VBG their|PRP$ own|JJ stores|NNS and|CC people|NNS kept|VBD telling|VBG me|PRP i|PRP could|MD probably|RB get|VB into|IN harvard|NN business|NN school|NN so|IN in|IN 1977|CD i|PRP applied|VBD and|CC got|VBD in|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN i|PRP graduated|VBD i|PRP went|VBD to|TO work|VB in|IN ohio|NN for|IN the|DT original|JJ cookie|NN co|NN a|DT small|JJ chain|NN of|IN stores|NNS run|VBP by|IN cole|NN national|JJ </s>|S_END
+<s>|S_START it|PRP merged|VBD with|IN mrs|NNS fields|NNS cookies|NNS in|IN the|DT 1990s|NNS </s>|S_END
+<s>|S_START i|PRP had|VBD this|DT idea|NN of|IN opening|VBG urban|NN cookie|NN stores|NNS and|CC was|VBD tempted|VBN to|TO go|VB out|RP on|IN my|PRP$ own|JJ </s>|S_END
+<s>|S_START i|PRP came|VBD back|RB to|TO boston|VB but|CC no|DT one|NN would|MD lease|VB me|PRP any|DT space|NN </s>|S_END
+<s>|S_START i|PRP ended|VBD up|RP going|VBG to|TO work|VB for|IN a|DT democratic|JJ political|JJ consultant|NN </s>|S_END
+<s>|S_START i|PRP was|VBD there|RB a|DT year|NN when|WRB a|DT little|RB jewelry|JJ store|NN that|WDT had|VBD two|CD locations|NNS in|IN the|DT same|JJ block|NN agreed|VBD to|TO sublease|VB me|PRP 400|CD square|JJ feet|NNS </s>|S_END
+<s>|S_START in|IN august|NN 1980|CD i|PRP opened|VBD the|DT cookie|NN jar|NN </s>|S_END
+<s>|S_START i|PRP thought|VBD id|JJ go|NN up|IN one|CD day|NN a|DT week|NN to|TO the|DT store|NN and|CC back|RB to|TO dc|VB to|TO run|VB campaigns|NNS </s>|S_END
+<s>|S_START one|CD day|NN very|RB quickly|RB became|VBD three|CD which|WDT became|VBD four|CD </s>|S_END
+<s>|S_START this|DT was|VBD mine|JJ and|CC somehow|NN it|PRP felt|VBD completely|RB different|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP was|VBD tiny|JJ and|CC i|PRP wanted|VBD more|JJR </s>|S_END
+<s>|S_START to|TO expand|VB my|PRP$ offerings|NNS i|PRP became|VBD a|DT licensee|NN of|IN a|DT french|JJ bakery|NN company|NN au|NN bon|NN pain|NN in|IN late|JJ 1980|CD and|CC put|VBD in|RP french|NN baked|VBD goods|NNS like|IN croissants|NNS at|IN the|DT cookie|NN jar|NN in|IN the|DT morning|NN </s>|S_END
+<s>|S_START au|NN bon|NN pain|NN had|VBD three|CD stores|NNS and|CC the|DT founder|NN louis|VBZ kane|NN was|VBD trying|VBG to|TO sell|VB the|DT business|NN because|IN it|PRP was|VBD under|IN so|RB much|RB debt|NN </s>|S_END
+<s>|S_START i|PRP remember|VBP going|VBG to|TO my|PRP$ dad|NN who|WP was|VBD a|DT cpa|NN and|CC he|PRP said|VBD ron|NN if|IN you|PRP can|MD get|VB any|DT of|IN it|PRP its|PRP$ not|RB worth|JJ having|NN and|CC if|IN its|PRP$ worth|NN having|VBG youre|NN not|RB going|VBG to|TO get|VB any|DT of|IN it|PRP </s>|S_END
+<s>|S_START but|CC i|PRP wanted|VBD this|DT desperately|RB </s>|S_END
+<s>|S_START so|IN in|IN 1981|CD the|DT cookie|NN jar|NN and|CC the|DT three|CD debtladen|NN au|NN bon|NN pains|NNS were|VBD combined|VBN into|IN one|CD company|NN </s>|S_END
+<s>|S_START my|PRP$ father|NN and|CC i|PRP got|VBD 60|CD of|IN the|DT company|NN and|CC lou|PRP and|CC his|PRP$ investors|NNS split|NN the|DT remaining|VBG 40|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN 1984|CD i|PRP was|VBD worried|VBN because|IN the|DT french|JJ baked|VBN goods|NNS we|PRP sold|VBD at|IN our|PRP$ halfadozen|NN stores|NNS were|VBD becoming|VBG pedestrianized|VBN </s>|S_END
+<s>|S_START we|PRP decided|VBD to|TO use|VB the|DT croissant|NN and|CC bread|NN as|IN a|DT platform|NN to|TO sell|VB soups|NNS salads|NNS and|CC sandwiches|NNS </s>|S_END
+<s>|S_START we|PRP opened|VBD our|PRP$ first|JJ french|NN bakerycafé|NN in|IN bostons|NNS copley|NN place|NN and|CC by|IN 1991|CD the|DT year|NN morgan|VBD stanley|NN took|VBD us|PRP public|JJ we|PRP had|VBD 125|CD stores|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT very|JJ thing|NN that|WDT had|VBD made|VBN au|NN bon|NN pain|NN a|DT success|NN up|RP until|IN that|DT point|NN was|VBD the|DT thing|NN that|WDT limited|VBN it|PRP </s>|S_END
+<s>|S_START it|PRP was|VBD a|DT powerful|JJ niche|NN business|NN working|VBG well|RB in|IN big|JJ cities|NNS </s>|S_END
+<s>|S_START in|IN 1993|CD i|PRP met|VBD with|IN a|DT couple|NN of|IN guys|NNS who|WP had|VBD a|DT 19store|JJ chain|NN called|VBN st|NN louis|NNS bread|VBP co|NN which|WDT was|VBD a|DT lunchtime|NN soup|NN salad|NN sandwich|NN place|NN </s>|S_END
+<s>|S_START i|PRP was|VBD impressed|VBN </s>|S_END
+<s>|S_START we|PRP knew|VBD how|WRB to|TO take|VB something|NN from|IN 50|CD to|TO 1000|CD and|CC it|PRP was|VBD the|DT gateway|NN to|TO the|DT suburban|NN marketplace|NN for|IN au|NN bon|NN pain|NN </s>|S_END
+<s>|S_START we|PRP bought|VBD it|PRP for|IN $|$ 23|CD million|CD and|CC then|RB didnt|JJ change|NN it|PRP </s>|S_END
+<s>|S_START for|IN two|CD years|NNS we|PRP studied|VBD it|PRP </s>|S_END
+<s>|S_START i|PRP was|VBD trying|VBG to|TO figure|VB out|RP what|WP was|VBD going|VBG on|IN in|IN consumer|NN society|NN </s>|S_END
+<s>|S_START there|EX had|VBD been|VBN a|DT huge|JJ amount|NN of|IN consolidation|NN in|IN every|DT industry|NN </s>|S_END
+<s>|S_START every|DT shopping|NN strip|NN and|CC mall|NN was|VBD the|DT same|JJ </s>|S_END
+<s>|S_START in|IN response|NN there|EX was|VBD a|DT drive|JJ for|IN specialness|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP began|VBD to|TO conceptualize|VB st|JJ louis|NNS bread|VBP as|RB a|DT gatheringplace|NN business|NN </s>|S_END
+<s>|S_START we|PRP created|VBD a|DT new|JJ physical|JJ environment|NN for|IN the|DT café|NN </s>|S_END
+<s>|S_START we|PRP started|VBD rolling|VBG out|IN bagels|NNS breakfast|VBP and|CC a|DT takehomebread|NN business|NN </s>|S_END
+<s>|S_START in|IN 1998|CD as|IN we|PRP built|VBD out|RP st|RB louis|VBZ bread|NN we|PRP made|VBD the|DT decision|NN to|TO change|VB the|DT name|NN to|TO panera|VB a|DT word|NN that|WDT has|VBZ roots|NNS in|IN breadbasket|NN in|IN latin|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN the|DT mid1990s|NNP we|PRP were|VBD running|VBG the|DT company|NN as|IN four|CD divisions|NNS au|VBP bon|NN pain|NN international|JJ manufacturing|NN and|CC panera|NN </s>|S_END
+<s>|S_START meanwhile|RB the|DT stock|NN had|VBD been|VBN flat|JJ for|IN three|CD years|NNS </s>|S_END
+<s>|S_START i|PRP realized|VBD panera|NN was|VBD the|DT gem|NN and|CC it|PRP was|VBD buried|VBN </s>|S_END
+<s>|S_START i|PRP knew|VBD i|PRP should|MD sell|VB everything|NN else|RB off|IN and|CC bet|NN the|DT whole|JJ thing|NN on|IN panera|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP brought|VBD it|PRP to|TO the|DT board|NN and|CC there|EX was|VBD a|DT huge|JJ disagreement|NN </s>|S_END
+<s>|S_START au|NN bon|NN pain|NN was|VBD the|DT namesake|NN </s>|S_END
+<s>|S_START we|PRP were|VBD selling|VBG it|PRP all|DT to|TO bet|VB on|IN the|DT little|JJ one|CD </s>|S_END
+<s>|S_START it|PRP was|VBD a|DT painful|JJ process|NN </s>|S_END
+<s>|S_START many|JJ of|IN the|DT people|NNS i|PRP had|VBD grown|VBN up|RP with|IN at|IN the|DT company|NN were|VBD sold|VBN off|RP with|IN au|NN bon|NN pain|NN </s>|S_END
+<s>|S_START in|IN 1999|CD we|PRP ended|VBD up|RP with|IN a|DT public|JJ company|NN with|IN one|CD division|NN panera|NN which|WDT had|VBD about|RB 180|CD bakerycafés|NNS and|CC a|DT pristine|NN balance|NN sheet|NN with|IN a|DT bunch|NN of|IN cash|NN </s>|S_END
+<s>|S_START i|PRP got|VBD on|IN a|DT plane|NN and|CC moved|VBD my|PRP$ family|NN to|TO st|VB louis|NNS </s>|S_END
+<s>|S_START we|PRP have|VBP come|VBN from|IN a|DT continuous|JJ process|NN of|IN smart|NN bets|NNS like|IN that|DT one|CD </s>|S_END
+<s>|S_START take|VB antibioticfree|JJ allnatural|JJ chicken|NN </s>|S_END
+<s>|S_START we|PRP had|VBD it|PRP before|IN there|EX was|VBD a|DT market|NN for|IN it|PRP so|RB we|PRP had|VBD to|TO build|VB a|DT manufacturing|NN supply|NN chain|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT few|JJ years|NNS ago|RB i|PRP started|VBD thinking|VBG about|IN how|WRB i|PRP wanted|VBD to|TO have|VB another|DT experience|NN in|IN my|PRP$ life|NN </s>|S_END
+<s>|S_START i|PRP wanted|VBD to|TO know|VB what|WP it|PRP felt|VBD like|IN without|IN panera|NN </s>|S_END
+<s>|S_START in|IN 2010|CD i|PRP handed|VBD off|RP the|DT ceo|NN job|NN to|TO bill|NN moreton|NN whom|WP i|PRP worked|VBD with|IN for|IN 10|CD years|NNS </s>|S_END
+<s>|S_START the|DT idea|NN was|VBD id|VBN spend|NN two|CD to|TO three|CD days|NNS a|DT week|NN on|IN panera|NN on|IN the|DT creative|JJ stuff|NN </s>|S_END
+<s>|S_START id|VBD have|VBP time|NN to|TO look|VB into|IN my|PRP$ other|JJ interests|NNS like|IN politics|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP took|VBD me|PRP four|CD weeks|NNS to|TO realize|VB my|PRP$ continued|VBN intellectual|JJ interest|NN in|IN panera|NN </s>|S_END
+<s>|S_START i|PRP was|VBD liberated|VBN to|TO create|VB much|JJ more|RBR value|JJ than|IN i|PRP ever|RB could|MD in|IN the|DT existing|VBG role|NN of|IN ceo|NN when|WRB i|PRP was|VBD freed|VBN from|IN daytoday|NN details|NNS </s>|S_END
+<s>|S_START bill|NN got|VBD it|PRP but|CC we|PRP spent|VBD hours|NNS talking|VBG before|IN deciding|VBG i|PRP would|MD come|VB back|RB as|IN coceo|NN </s>|S_END
+<s>|S_START he|PRP could|MD have|VB said|VBN i|PRP signed|VBD on|IN as|IN ceo|NN </s>|S_END
+<s>|S_START i|PRP dont|VBP need|VBP the|DT founder|NN back|RB </s>|S_END
+<s>|S_START and|CC i|PRP could|MD have|VB said|VBN im|NN the|DT largest|JJS individual|JJ shareholder|NN i|PRP dont|VBP need|VBP to|TO be|VB coceo|RB </s>|S_END
+<s>|S_START it|PRP worked|VBD because|IN we|PRP both|DT want|JJ the|DT same|JJ thing|NN for|IN panera|NN </s>|S_END
+<s>|S_START now|RB im|VBP focused|VBN on|IN all|DT things|NNS that|WDT create|VB value|NN through|IN how|WRB we|PRP compete|VBP marketing|VBG food|NN </s>|S_END
+<s>|S_START bill|NN covers|VBZ all|DT things|NNS related|VBN to|TO how|WRB we|PRP operate|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD of|IN the|DT first|JJ projects|NNS i|PRP launched|VBD after|IN stepping|NN down|IN as|IN ceo|NN was|VBD panera|NN cares|NNS </s>|S_END
+<s>|S_START panera|NN has|VBZ always|RB had|VBD a|DT commitment|NN to|TO community|NN </s>|S_END
+<s>|S_START we|PRP give|VBP $|$ 100|CD million|CD a|DT year|NN in|IN cash|NN and|CC product|NN but|CC i|PRP got|VBD this|DT feeling|NN that|IN it|PRP was|VBD disconnected|VBN from|IN us|PRP </s>|S_END
+<s>|S_START one|CD day|NN im|NN watching|VBG nbc|NN news|NN and|CC its|PRP$ the|DT height|NN of|IN the|DT recession|NN </s>|S_END
+<s>|S_START i|PRP hear|VBP about|IN a|DT paywhatyoucan|NN café|NN in|IN denver|NN </s>|S_END
+<s>|S_START they|PRP spent|VBD years|NNS trying|VBG to|TO get|VB this|DT thing|NN open|NN </s>|S_END
+<s>|S_START we|PRP open|VBP a|DT café|NN every|DT 75|CD hours|NNS </s>|S_END
+<s>|S_START we|PRP decided|VBD to|TO do|VB the|DT full|JJ panera|NN experience|NN open|JJ a|DT bakerycafé|NN identical|JJ to|TO any|DT other|JJ panera|NN and|CC list|NN a|DT suggested|JJ donation|NN </s>|S_END
+<s>|S_START we|PRP opened|VBD our|PRP$ first|JJ panera|NN cares|NNS café|-NONE- in|IN 2010|CD and|CC just|RB opened|VBD our|PRP$ fourth|JJ </s>|S_END
+<s>|S_START theyll|NN serve|VBD about|IN 1|CD million|CD people|NNS this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT days|NNS i|PRP spend|VBP a|DT lot|NN of|IN time|NN thinking|VBG about|IN how|WRB id|JJ compete|JJ with|IN panera|NN if|IN i|PRP werent|VBP panera|NN </s>|S_END
+<s>|S_START much|RB of|IN our|PRP$ competitive|JJ differentiation|NN will|MD stem|VB from|IN what|WP technology|NN can|MD enable|VB for|IN our|PRP$ customers|NNS </s>|S_END
+<s>|S_START were|VBD going|VBG to|TO bring|VB that|IN to|TO market|NN </s>|S_END
+<s>|S_START im|NN looking|VBG at|IN things|NNS we|PRP didnt|VBP get|NN done|VBN at|IN panera|NN my|PRP$ first|JJ time|NN around|RB as|IN ceo|NN </s>|S_END
+<s>|S_START ive|JJ got|VBD a|DT shot|NN to|TO get|VB them|PRP done|NN now|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START my|PRP$ advice|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START look|NN beyond|IN the|DT shareholder|NN </s>|S_END
+<s>|S_START were|VBD involved|VBN in|IN the|DT consciouscapitalism|NN movement|NN which|WDT is|VBZ based|VBN on|IN this|DT idea|NN that|IN the|DT worst|JJS thing|NN that|WDT ever|RB happened|VBD in|IN corporate|JJ america|NN is|VBZ this|DT obsession|NN with|IN shareholder|NN value|NN </s>|S_END
+<s>|S_START its|PRP$ a|DT narrow|NN definition|NN of|IN success|NN and|CC is|VBZ actually|RB dysfunctional|JJ </s>|S_END
+<s>|S_START profit|NN and|CC stock|NN price|NN are|VBP not|RB things|NNS i|PRP can|MD make|VB </s>|S_END
+<s>|S_START theyre|NN a|DT byproduct|NN of|IN delivering|VBG for|IN all|DT of|IN my|PRP$ constituencies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ okay|NN to|TO think|VB small|JJ </s>|S_END
+<s>|S_START this|DT idea|NN that|IN you|PRP have|VBP this|DT broad|JJ strategy|NN is|VBZ not|RB always|RB right|RB </s>|S_END
+<s>|S_START see|NN opportunities|NNS to|TO make|VB a|DT difference|NN and|CC that|IN will|MD bring|VB new|JJ things|NNS down|IN the|DT road|NN </s>|S_END
+<s>|S_START im|NN quite|RB convinced|VBN that|IN steve|JJ jobs|NNS didnt|VBP know|RB he|PRP would|MD end|VB up|RP with|IN the|DT ipad|NN when|WRB he|PRP did|VBD the|DT ipod|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dont|NN obsess|NN over|IN the|DT numbers|NNS </s>|S_END
+<s>|S_START when|WRB i|PRP was|VBD a|DT young|JJ person|NN i|PRP used|VBD to|TO be|VB worried|VBN about|IN the|DT pl|NN and|CC then|RB i|PRP realized|VBD that|IN what|WP drives|NNS the|DT key|JJ pl|NN is|VBZ getting|VBG the|DT right|NN stuff|NN done|NN right|RB the|DT key|JJ initiatives|NNS </s>|S_END
+<s>|S_START thats|NNS where|WRB i|PRP began|VBD to|TO focus|VB most|JJS of|IN my|PRP$ time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START focus|NN on|IN creating|NN the|DT future|NN </s>|S_END
+<s>|S_START the|DT future|NN doesnt|NN just|RB happen|JJ to|TO me|PRP </s>|S_END
+<s>|S_START i|PRP have|VBP to|TO figure|VB out|RP where|WRB that|DT organization|NN is|VBZ going|VBG </s>|S_END
+<s>|S_START businesses|NNS are|VBP increasingly|RB thinking|VBG short|JJ term|NN </s>|S_END
+<s>|S_START its|PRP$ a|DT competitive|JJ disadvantage|NN </s>|S_END
+<s>|S_START the|DT important|JJ things|NNS play|VBP out|IN over|IN years|NNS not|RB quarters|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START note|VB edited|VBN excerpts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT story|NN is|VBZ from|IN the|DT august|NN 13|CD 2012|CD issue|NN of|IN fortune|NN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

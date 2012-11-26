@@ -1,0 +1,111 @@
+<p>|P_START
+<s>|S_START patients|NNS expect|VBP drugs|NNS to|TO be|VB safe|JJ </s>|S_END
+<s>|S_START but|CC even|RB in|IN supposedly|RB wellrun|VBN health|NN systems|NNS they|PRP can|MD be|VB useless—or|JJ deadly|RB </s>|S_END
+<s>|S_START tainted|VBD steroids|NNS from|IN a|DT compounding|NN pharmacy|NN one|CD which|WDT mixes|NNS its|PRP$ own|JJ drugs|NNS near|IN boston|NN had|VBD killed|VBN 11|CD people|NNS with|IN fungal|JJ meningitis|NNS and|CC sickened|VBD more|RBR than|IN 100|CD as|IN of|IN october|NN 10th|CD </s>|S_END
+<s>|S_START a|DT contaminated|VBN blood|NN thinner|NN heparin|NN was|VBD linked|VBN to|TO 149|CD american|JJ deaths|NNS in|IN 200708|CD </s>|S_END
+<s>|S_START this|DT year|NN it|PRP emerged|VBD that|IN some|DT vials|NNS of|IN the|DT cancer|NN medicine|NN avastin|NN contained|VBD no|DT active|JJ ingredient|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START no|DT one|NN knows|VBZ exactly|RB what|WP share|NN of|IN medicines|NNS are|VBP fake|VBP illmade|VBN stolen|NNS or|CC diverted|VBN </s>|S_END
+<s>|S_START but|CC bad|JJ pharma|NN is|VBZ a|DT global|JJ problem|NN which|WDT national|JJ drugsafety|NN agencies|NNS are|VBP struggling|VBG to|TO contain|VB </s>|S_END
+<s>|S_START it|PRP particularly|RB afflicts|VBZ countries|NNS where|WRB officials|NNS are|VBP bribable|JJ health|NN systems|NNS lax|NN and|CC consumers|NNS desperate|VBP </s>|S_END
+<s>|S_START in|IN nigeria|NN africa’s|NNS largest|JJS market|NN for|IN medicines|NNS a|DT survey|NN by|IN the|DT world|NN health|NN organisation|NN who|WP in|IN 2011|CD found|NN that|IN 64|CD of|IN antimalarial|JJ drugs|NNS were|VBD fake|NN </s>|S_END
+<s>|S_START over|IN 70|CD of|IN drugs|NNS consumed|VBN in|IN nigeria|NN are|VBP imported|VBN from|IN india|NNS and|CC china|NN widely|RB seen|VBN as|IN the|DT biggest|JJS source|NN of|IN fake|NN </s>|S_END
+<s>|S_START paul|NN orhii|NN of|IN nigeria’s|JJ drug|NN agency|NN blames|VBZ “a|NNP shambolic|JJ system|NN and|CC porous|JJ borders”|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START alesmen|NNS have|VBP peddled|VBN worthless|NN cures|NNS for|IN millennia|NN </s>|S_END
+<s>|S_START but|CC the|DT 21st|CD century|NN is|VBZ turning|VBG into|IN a|DT golden|JJ age|NN for|IN bad|JJ drug|NN </s>|S_END
+<s>|S_START in|IN boston|NN the|DT fungal|JJ meningitis|NNS spread|VBP because|IN of|IN poor|JJ oversight|NN </s>|S_END
+<s>|S_START price|NN pressure|NN encourages|NNS even|RB wellintentioned|VBN drugmakers|NNS to|TO cut|VB corner|NN </s>|S_END
+<s>|S_START for|IN criminals|NNS fake|VBP pharma|NN is|VBZ lucrative|JJ and|CC the|DT penalties|NNS are|VBP usually|RB low|JJ </s>|S_END
+<s>|S_START indeed|RB the|DT drug|NN supplychain|NN is|VBZ a|DT cheat’s|JJ paradise|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START raw|NN materials|NNS come|VBP from|IN one|CD place|NN and|CC are|VBP processed|VBN into|IN active|JJ ingredients|NNS in|IN another|DT </s>|S_END
+<s>|S_START pillfillers|NNS and|CC coating|VBG come|NN from|IN other|JJ source|NN </s>|S_END
+<s>|S_START manufacturing|NN and|CC packaging|NN may|MD be|VB separate|JJ </s>|S_END
+<s>|S_START to|TO reach|VB the|DT dispensary|JJ the|DT drug|NN passes|NNS through|IN distribution|NN chains|NNS and|CC may|MD be|VB repackaged|VBN </s>|S_END
+<s>|S_START in|IN america|NN 80|CD of|IN drugs’|JJ active|JJ ingredients|NNS come|VBP from|IN abroad|RB drug|NN imports|NNS there|EX more|JJR than|IN doubled|VBN from|IN 2002|CD to|TO 2010|CD accounting|VBG for|IN 40|CD of|IN finished|JJ medicine|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT creates|VBZ a|DT regulatory|JJ nightmare|NN </s>|S_END
+<s>|S_START in|IN the|DT heparin|NN case|NN chinese|NN suppliers|NNS replaced|VBD the|DT main|JJ ingredient|NN with|IN a|DT cheaper|JJR dangerous|JJ substance|NN that|WDT still|RB passed|VBD authentication|NN test|NN </s>|S_END
+<s>|S_START the|DT fake|NN avastin|NN apparently|RB hopped|VBD from|IN turkey|NN to|TO britain|VB to|TO america|VB with|IN help|NN from|IN a|DT canadian|JJ online|NN pharmacy|NN </s>|S_END
+<s>|S_START dogooding|VBG attempts|NNS may|MD backfire|VB too|RB </s>|S_END
+<s>|S_START the|DT who|WP has|VBZ a|DT “prequalification”|JJ scheme|NN that|WDT authorises|VBZ cheap|NN good|JJ drugs|NNS for|IN aid|NN programme|NN </s>|S_END
+<s>|S_START but|CC roger|JJR bate|NN of|IN the|DT american|JJ enterprise|NN institute|NN in|IN a|DT paper|NN published|VBN in|IN july|RB found|VBN that|IN 7|CD of|IN such|JJ drugs|NNS in|IN his|PRP$ sample|NN failed|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START attempts|NNS abound|VBD to|TO stem|VB the|DT scourge|NN </s>|S_END
+<s>|S_START the|DT latest|JJS raids|NNS in|IN operation|NN pangea|NN an|DT international|JJ police|NN campaign|NN against|IN illegal|JJ online|NN pharmacies|NNS involved|VBD 100|CD countries|NNS and|CC shut|IN down|IN more|JJR than|IN 18000|CD online|NN pillpusher|NN </s>|S_END
+<s>|S_START but|CC such|JJ pharmacies|NNS are|VBP not|RB necessarily|RB the|DT villains|NNS they|PRP often|RB sell|VBP real|JJ drugs|NNS at|IN low|JJ prices|NNS and|CC many|JJ fakes|NNS are|VBP on|IN sale|NN from|IN reputable|JJ offline|NN outlet|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN poor|NN countries|NNS think|VBP that|IN rich|JJ ones|NNS simply|RB want|VBP an|DT excuse|NN to|TO bust|VB their|PRP$ generic|JJ drug|NN industrie|NN </s>|S_END
+<s>|S_START rows|NNS about|IN the|DT definition|NN of|IN “counterfeit”|NNP have|VBP crippled|VBN the|DT who’s|NNP international|JJ medical|JJ products|NNS anticounterfeiting|VBG taskforce|NN or|CC impact|NN launched|VBD in|IN 2006|CD </s>|S_END
+<s>|S_START now|RB new|JJ working|NN groups|NNS are|VBP mulling|VBG the|DT meaning|NN of|IN sffc|NN “spuriousfalselylabelledfalsifiedcounterfeit”|NN drug|NN </s>|S_END
+<s>|S_START it|PRP may|MD add|VB another|DT “s”|NN for|IN “substandard”|NN </s>|S_END
+<s>|S_START pirates|NNS are|VBP not|RB trembling|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS other|JJ international|JJ efforts|NNS are|VBP moving|VBG slowly|RB says|VBZ mr|NN bate|NN author|NN of|IN a|DT book|NN called|VBN “phake”|-NONE- </s>|S_END
+<s>|S_START to|TO punish|VB counterfeiters|NNS more|RBR harshly|RB and|CC speed|VBD informationsharing|VBG 18|CD european|JJ countries|NNS signed|VBN the|DT medicrime|NN convention|NN in|IN 2011|CD </s>|S_END
+<s>|S_START but|CC only|RB ukraine|VBP has|VBZ ratified|VBN it|PRP </s>|S_END
+<s>|S_START the|DT g8|NNP group|NN of|IN rich|JJ countries|NNS published|VBD a|DT wordy|NN declaration|NN in|IN may|MD but|CC has|VBZ done|VBN little|JJ since|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN years|NNS governments|NNS and|CC companies|NNS have|VBP talked|VBN about|IN “trackandtrace”|NNP systems|NNS to|TO identify|VB and|CC authenticate|VB medicine|NN </s>|S_END
+<s>|S_START though|IN the|DT technology|NN exists|VBZ countries|NNS can|MD not|RB agree|VB what|WP to|TO use|VB </s>|S_END
+<s>|S_START different|JJ firms|NNS hawk|VBP their|PRP$ own|JJ schemes|NNS regulators|NNS disagree|VBP about|IN what|WP should|MD be|VB tracked|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START my|PRP$ pills|NNS not|RB your|PRP$ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START o|NN individual|JJ states|NNS are|VBP taking|VBG their|PRP$ own|JJ step|NN </s>|S_END
+<s>|S_START nigeria|NN has|VBZ spearheaded|VBN an|DT impressive|JJ counterattack|NN which|WDT by|IN some|DT counts|NNS has|VBZ brought|VBN the|DT share|NN of|IN fake|NN medicines|NNS down|IN from|IN around|IN half|NN to|TO a|DT tenth|NN in|IN five|CD year|NN </s>|S_END
+<s>|S_START one|CD means|NNS is|VBZ truscan|JJ a|DT cheap|NN handheld|NN spectroscope|NN that|WDT allows|VBZ officials|NNS to|TO spot|VB fakes|NNS at|IN the|DT point|NN of|IN import|NN america|NN germany|NN sweden|NN and|CC canada|NN now|RB use|VBP this|DT too|RB </s>|S_END
+<s>|S_START nigeria|NN has|VBZ also|RB deployed|VBN a|DT scratchoff|NN label|NN system|NN in|IN which|WDT users|NNS text|VBP the|DT revealed|VBN code|NN from|IN their|PRP$ phones|NNS to|TO verify|VB the|DT product|NN before|IN consuming|VBG it|PRP </s>|S_END
+<s>|S_START but|CC the|DT scheme|NN is|VBZ voluntary|JJ and|CC so|RB far|RB only|RB a|DT few|JJ firms|NNS are|VBP using|VBG it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START china|NN concerned|VBD for|IN the|DT reputation|NN of|IN its|PRP$ drugexport|NN trade|NN has|VBZ staged|VBN big|JJ seizures|NNS of|IN fakes|NNS detaining|VBG nearly|RB 2000|CD people|NNS in|IN august|JJ </s>|S_END
+<s>|S_START it|PRP executed|VBD its|PRP$ top|JJ drug|NN official|NN in|IN 2007|CD for|IN approving|NN untested|VBD medicine|NN in|IN exchange|NN for|IN bribe|NN </s>|S_END
+<s>|S_START india|NNS has|VBZ commissioned|VBN feasibility|NN studies|NNS of|IN trackandtrace|NN technology|NN from|IN wipro|NN a|DT software|NN and|CC services|NNS giant|JJ </s>|S_END
+<s>|S_START the|DT government|NN talks|VBZ of|IN better|JJR manufacturing|NN standards|NNS but|CC exhortation|NN has|VBZ yet|RB to|TO lead|VB to|TO action|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START america’s|NNS food|VBD and|CC drug|NN administration|NN fda|NN the|DT world’s|NNP biggest|JJS drugsafety|NN agency|NN has|VBZ steadily|RB reached|VBN beyond|IN the|DT country’s|NNP border|NN </s>|S_END
+<s>|S_START ince|NN 2008|CD it|PRP has|VBZ opened|VBN offices|NNS in|IN china|NN india|NNS south|VBP africa|NN jordan|NN mexico|NN belgium|NN and|CC other|JJ countrie|NN </s>|S_END
+<s>|S_START a|DT recent|JJ law|NN sets|VBZ higher|JJR penalties|NNS for|IN counterfeiters|NNS and|CC allocates|NNS money|NN for|IN the|DT agency|NN to|TO inspect|VB more|JJR factories|NNS oversea|VBP </s>|S_END
+<s>|S_START but|CC even|RB the|DT fda|NN admits|VBZ it|PRP can|MD not|RB police|VB the|DT world’s|NNP drug|NN supply|NN alone|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START drug|NN firms|NNS often|RB make|VBP better|RBR enforcement|NN partners|NNS than|IN governments|NNS do|VBP </s>|S_END
+<s>|S_START john|NN clark|VBD security|NN chief|NN for|IN pfizer|NN a|DT pharma|NN giant|NN that|WDT makes|VBZ viagra|NN likes|VBZ to|TO tell|VB a|DT story|NN about|IN a|DT man|NN caught|NN selling|VBG fakes|NNS who|WP asked|VBD an|DT undercover|NN agent|NN first|RB if|IN he|PRP was|VBD with|IN “the|JJ feds”|NN then|RB whether|IN he|PRP worked|VBD for|IN pfizer|NN </s>|S_END
+<s>|S_START his|PRP$ firm|NN employs|VBZ former|JJ police|NN investigators|NNS and|CC customs|NNS officials|NNS all|DT over|IN the|DT world|NN </s>|S_END
+<s>|S_START usually|RB it|PRP builds|VBZ about|IN 80|CD of|IN a|DT case|NN then|RB hands|VBZ it|PRP to|TO local|JJ lawenforcer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB as|IN officials|NNS fiddle|VBP the|DT problem|NN grow|NN </s>|S_END
+<s>|S_START in|IN january|JJ 2009|CD 81|CD countries|NNS noted|VBD counterfeit|NN versions|NNS of|IN 20|CD pfizer|NN drug|NN </s>|S_END
+<s>|S_START as|IN of|IN july|RB 2012|CD 106|CD had|VBD found|VBN 60|CD such|JJ fake|NN </s>|S_END
+<s>|S_START “counterfeiting|JJ is|VBZ like|IN a|DT balloon|NN filled|VBN with|IN water”|JJ says|NNS nigeria’s|-NONE- mr|NN orhii|NN </s>|S_END
+<s>|S_START “you|PRP push|VBP it|PRP on|IN one|CD side|NN but|CC when|WRB you|PRP remove|VBP your|PRP$ hand|NN it|PRP bounces|VBZ back|RB even|RB stronger”|JJ </s>|S_END
+</p>|P_END
+

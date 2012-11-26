@@ -1,0 +1,70 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN after|IN dueling|VBG public|JJ statements|NNS on|IN the|DT fiscal|JJ cliff|NN how|WRB much|JJ closer|NN are|VBP president|NN obama|NN and|CC house|NN speaker|NN john|NN boehner|NN to|TO coming|VBG together|RP on|IN a|DT deal|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START not|RB much|JJ at|IN least|JJS when|WRB it|PRP comes|VBZ to|TO the|DT biggest|JJS single|JJ chunk|NN of|IN the|DT fiscal|JJ cliff|NN the|DT bush|NN tax|NN cuts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fiscal|JJ cliff|NN starts|VBZ to|TO take|VB effect|NN on|IN jan|NN 1|CD and|CC includes|VBZ $|$ 7|CD trillion|CD worth|NN of|IN tax|NN increases|NNS and|CC spending|NN cuts|NNS over|IN a|DT decade|NN </s>|S_END
+<s>|S_START the|DT bush|NN tax|NN cuts|NNS account|VBP for|IN nearly|RB half|NN that|IN </s>|S_END
+<s>|S_START among|IN other|JJ policies|NNS at|IN issue|NN reductions|NNS in|IN both|DT defense|NN and|CC nondefense|NN spending|NN and|CC the|DT end|NN of|IN a|DT payroll|NN tax|NN holiday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT obama|NN and|CC boehner|NN said|VBD theyre|NN willing|JJ to|TO work|VB with|IN the|DT other|JJ side|NN to|TO come|VB up|RP with|IN a|DT serious|JJ deficit|NN reduction|NN package|NN and|CC a|DT way|NN to|TO avert|VB the|DT fiscal|JJ cliff|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC each|DT still|RB drew|JJ a|DT clear|JJ line|NN when|WRB it|PRP came|VBD to|TO taxing|NN the|DT rich|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT crux|NN of|IN the|DT controversy|NN is|VBZ whether|IN to|TO extend|VB the|DT portion|NN of|IN the|DT bush|NN tax|NN cuts|NNS that|WDT apply|RB to|TO income|VB over|IN $|$ 200000|CD $|$ 250000|CD for|IN those|DT who|WP are|VBP married|VBN </s>|S_END
+<s>|S_START if|IN they|PRP were|VBD allowed|VBN to|TO expire|VB as|IN scheduled|VBN on|IN dec|NN 31|CD the|DT top|JJ two|CD income|NN tax|NN rates|NNS would|MD increase|VB to|TO 36|CD and|CC 396|CD next|JJ year|NN up|IN from|IN 33|CD and|CC 35|CD this|DT year|NN </s>|S_END
+<s>|S_START investment|NN tax|NN rates|NNS would|MD rise|VB too|RB from|IN their|PRP$ current|JJ level|NN of|IN 15|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START obama|NN and|CC senate|NN democrats|NNS want|VBP to|TO let|VB them|PRP expire|VB </s>|S_END
+<s>|S_START boehner|NN and|CC house|NN republicans|NNS want|VBP to|TO extend|VB them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD whats|NNS in|IN the|DT fiscal|JJ cliff|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP am|VBP not|RB going|VBG to|TO ask|VB students|NNS and|CC seniors|NNS and|CC middleclass|NN families|NNS to|TO pay|VB down|RP the|DT entire|JJ deficit|NN while|IN people|NNS like|IN me|PRP making|VBG over|IN $|$ 250000|CD arent|NN asked|VBD to|TO pay|VB a|DT dime|NN more|RBR in|IN taxes|NNS obama|VBP said|VBN friday|NN </s>|S_END
+<s>|S_START while|IN there|EX may|MD be|VB disagreement|VBN in|IN congress|NN over|IN whether|IN or|CC not|RB to|TO raise|VB taxes|NNS on|IN folks|NNS making|VBG over|IN $|$ 250000|CD a|DT year|NN nobody|NN not|RB republicans|VBZ not|RB democrats|NNS want|VBP taxes|NNS to|TO go|VB up|RP for|IN folks|NNS making|VBG under|IN $|$ 250000|CD a|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT bill|NN passed|VBN by|IN the|DT senate|NN extends|NNS the|DT bush|NN tax|NN cuts|NNS for|IN those|DT making|VBG under|IN $|$ 250000|CD </s>|S_END
+<s>|S_START and|CC obama|VBD said|VBD hed|VBN sign|NN it|PRP right|RB away|RB if|IN the|DT house|NN approved|VBD it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT president|NN never|RB uttered|VBN the|DT word|NN veto|NN in|IN his|PRP$ statement|NN </s>|S_END
+<s>|S_START but|CC white|JJ house|NN spokesman|NN jay|NN carney|NN did|VBD at|IN a|DT press|NN briefing|VBG friday|NN </s>|S_END
+<s>|S_START the|DT president|NN would|MD veto|VB any|DT bill|NN that|WDT extends|VBZ bushera|NN tax|NN cuts|NNS for|IN the|DT top|JJ 2|CD of|IN earners|NNS in|IN this|DT country|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START boehner|NN following|VBG obamas|NNS statement|NN had|VBD this|DT to|TO say|VB the|DT increased|VBN tax|NN rates|NNS that|WDT would|MD be|VB allowed|VBN under|IN the|DT senatepassed|VBN bill|NN are|VBP part|NN of|IN the|DT fiscal|JJ cliff|NN that|WDT economists|VBZ are|VBP warning|VBG us|PRP to|TO avoid|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT two|CD parties|NNS differences|NNS over|IN taxing|VBG the|DT rich|JJ may|MD well|RB take|VB the|DT fiscal|JJ cliff|NN negotiations|NNS down|IN to|TO the|DT wire|NN if|IN not|RB over|IN it|PRP </s>|S_END
+<s>|S_START but|CC its|PRP$ early|JJ days|NNS yet|RB in|IN the|DT process|NN obama|NN has|VBZ invited|VBN congressional|JJ leadership|NN from|IN both|DT parties|NNS to|TO the|DT white|JJ house|NN next|IN week|NN to|TO begin|VB talks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC congressional|JJ scholar|NN norman|NN ornstein|NN of|IN the|DT american|JJ enterprise|NN institute|NN thinks|NNS there|EX is|VBZ some|DT wiggle|JJ room|NN for|IN the|DT president|NN to|TO cut|VB a|DT deal|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN they|PRP can|MD find|VB a|DT way|NN to|TO raise|VB the|DT same|JJ money|NN from|IN those|DT over|IN the|DT $|$ 250000|CD threshold|NN other|JJ than|IN by|IN raising|NN rates|NNS or|CC if|IN the|DT negotiators|NNS as|IN part|NN of|IN the|DT deal|NN raised|VBD the|DT threshold|NN to|TO $|$ 500000|CD he|PRP would|MD certainly|RB sign|VB on|IN </s>|S_END
+</p>|P_END
+

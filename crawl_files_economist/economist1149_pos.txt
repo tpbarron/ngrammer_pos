@@ -1,0 +1,9 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 66|CD gdp|NN $|$ 248bn|CD ppp|CD $|$ 349bn|CD inflation|NN 101|CD population|NN 1581m|CD gdp|NN per|IN head|NN $|$ 1570|CD ppp|CD $|$ 2210|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT election|NN of|IN goodluck|NN jonathan|IN a|DT southerner|NN as|IN president|NN in|IN 2011|CD upset|NN followers|NNS of|IN his|PRP$ northern|JJ predecessor|NN </s>|S_END
+<s>|S_START mr|NN jonathan|VBD and|CC his|PRP$ party|NN have|VBP weathered|VBN the|DT storm|NN but|CC must|MD placate|VB critics|NNS and|CC quell|NN perennial|NN social|JJ unrest|NN while|IN pushing|VBG an|DT ambitious|JJ programme|NN of|IN reforms|NNS in|IN the|DT energy|NN and|CC power|NN sectors |NN </s>|S_END
+</p>|P_END
+

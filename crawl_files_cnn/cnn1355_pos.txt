@@ -1,0 +1,72 @@
+<p>|P_START
+<s>|S_START two|CD years|NNS after|IN health|NN reform|NN passed|VBD 31|CD million|CD young|JJ americans|NNS now|RB have|VBP access|NN to|TO health|NN insurance|NN the|DT government|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN more|RBR than|IN 31|CD million|CD young|JJ americans|NNS now|RB have|VBP health|NN insurance|NN thanks|NNS in|IN part|NN to|TO a|DT provision|NN in|IN the|DT health|NN care|NN reform|NN law|NN that|WDT allows|VBZ parents|NNS to|TO add|VB dependents|NNS up|IN to|TO age|NN 26|CD to|TO their|PRP$ insurance|NN plans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT number|NN is|VBZ up|IN from|IN last|JJ june|NN when|WRB 25|CD million|CD young|JJ adults|NNS ages|NNS 19|CD through|IN 25|CD who|WP would|MD otherwise|VB have|VB been|VBN uninsured|VBN gained|VBN health|NN care|NN coverage|NN according|VBG to|TO the|DT department|NN of|IN health|NN and|CC human|JJ services|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD of|IN the|DT key|JJ provisions|NNS of|IN the|DT affordable|JJ care|NN act|NN was|VBD that|IN insurers|NNS allow|VBP dependents|NNS who|WP dont|NN have|VBP access|NN to|TO other|JJ employerbased|VBN health|NN care|NN coverage|NN to|TO remain|VB on|IN their|PRP$ parents|NNS plans|NNS until|IN their|PRP$ 26th|JJ birthday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START prior|RB to|TO this|DT mandate|NN dependents|NNS who|WP were|VBD on|IN their|PRP$ parents|NNS plans|NNS lost|VBD coverage|NN when|WRB they|PRP became|VBD too|RB old|JJ to|TO qualify|VB as|IN a|DT dependent|NN or|CC when|WRB they|PRP graduated|VBD from|IN school|NN or|CC changed|VBN jobs|NNS according|VBG to|TO hhs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START since|IN the|DT provision|NN went|VBD into|IN effect|NN in|IN september|NN 2010|CD the|DT proportion|NN of|IN adults|NNS ages|NNS 19|CD through|IN 25|CD with|IN insurance|NN increased|VBD to|TO 75|CD or|CC nearly|RB 31|CD million|CD last|JJ december|NN up|IN from|IN 64|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT policy|NN doesnt|NN just|RB give|VB young|JJ adults|NNS and|CC their|PRP$ families|NNS peace|NN of|IN mind|NN it|PRP also|RB gives|VBZ them|PRP freedom|NN hhs|NNS secretary|NN kathleen|IN sebelius|NN said|VBD in|IN a|DT statement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN they|PRP begin|VBP their|PRP$ careers|NNS they|PRP will|MD be|VB free|JJ to|TO make|VB choices|NNS based|VBN on|IN what|WP they|PRP want|VBP to|TO do|VB not|RB on|IN where|WRB they|PRP can|MD get|VB health|NN insurance|NN she|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START young|JJ adults|NNS ages|NNS 30|CD and|CC younger|JJR are|VBP consumers|NNS least|JJS likely|JJ to|TO have|VB health|NN insurance|NN </s>|S_END
+<s>|S_START prior|RB to|TO the|DT affordable|JJ care|NN act|NN many|JJ in|IN this|DT age|NN group|NN couldnt|NN afford|NN coverage|NN </s>|S_END
+<s>|S_START and|CC many|JJ who|WP could|MD and|CC who|WP were|VBD healthy|JJ chose|NN not|RB to|TO in|IN order|NN to|TO save|VB money|NN </s>|S_END
+<s>|S_START they|PRP became|VBD known|VBN as|IN young|JJ invincibles|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START health|NN reform|NN hangs|NNS in|IN the|DT balance|NN </s>|S_END
+<s>|S_START the|DT health|NN care|NN reform|NN law|NN also|RB requires|VBZ all|DT americans|NNS to|TO buy|VB health|NN insurance|NN by|IN 2014|CD or|CC pay|NN a|DT fine|NN </s>|S_END
+<s>|S_START the|DT intended|VBN goal|NN is|VBZ to|TO force|VB more|JJR uninsured|VBN americans|NNS including|VBG young|JJ adults|NNS who|WP have|VBP opted|VBN out|RP in|IN the|DT past|JJ to|TO buy|VB insurance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC that|DT provision|NN known|VBN as|IN the|DT individual|JJ mandate|NN has|VBZ sparked|VBN controversy|NN </s>|S_END
+<s>|S_START the|DT supreme|NN court|NN is|VBZ currently|RB reviewing|VBG the|DT constitutionality|NN of|IN the|DT individual|JJ mandate|NN and|CC is|VBZ expected|VBN to|TO announce|NN its|PRP$ ruling|NN on|IN the|DT law|NN later|JJ this|DT month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT court|NN could|MD decide|VB to|TO uphold|VB the|DT law|NN strike|NN it|PRP down|IN completely|RB or|CC partially|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT entire|JJ law|NN is|VBZ axed|VBN both|DT health|NN insurance|NN companies|NNS and|CC employers|NNS who|WP offer|NN health|NN coverage|NN will|MD no|RB longer|RBR be|VB mandated|VBN to|TO cover|VB young|JJ adult|NN dependents|NNS under|IN their|PRP$ parents|NNS policies|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START earlier|JJR this|DT month|NN a|DT number|NN of|IN big|JJ health|NN insurers|NNS including|VBG two|CD of|IN the|DT largest|JJS unitedhealthcare|NN uhc|NN and|CC humana|NN hum|NN fortune|NN 500|CD committed|VBN to|TO offering|NN some|DT provisions|NNS of|IN health|NN reform|NN including|VBG coverage|NN of|IN adult|NN dependents|NNS up|IN to|TO age|NN 26|CD regardless|NN of|IN how|WRB the|DT court|NN rules|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB industry|NN experts|NNS said|VBD consumers|NNS shouldnt|VBP count|NN on|IN their|PRP$ employer|NN offering|NN this|DT benefits|NNS if|IN the|DT law|NN is|VBZ struck|NN down|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT provision|NN is|VBZ the|DT most|RBS questionable|JJ said|VBD tracy|NN watts|NNS senior|JJ health|NN care|NN consultant|NN with|IN benefits|NNS consulting|VBG firm|NN mercer|NN </s>|S_END
+<s>|S_START employers|NNS didnt|VBP offer|NN this|DT benefit|NN before|IN the|DT law|NN was|VBD passed|VBN and|CC it|PRP has|VBZ increased|VBN costs|NNS for|IN them|PRP </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

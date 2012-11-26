@@ -1,0 +1,96 @@
+<p>|P_START
+<s>|S_START the|DT british|JJ are|VBP addicted|VBN to|TO cooking|NN show|NN </s>|S_END
+<s>|S_START in|IN march|NN fully|RB onequarter|JJR of|IN television|NN viewers|NNS were|VBD tuned|VBN to|TO the|DT final|JJ of|IN “masterchef”|JJ </s>|S_END
+<s>|S_START the|DT country|NN is|VBZ a|DT prolific|JJ producer|NN of|IN television|NN cooks—hugh|JJ fearnleywhittingstall|NN jamie|NN oliver|NN gordon|NN ramsey—all|JJ of|IN whom|WP insist|NN on|IN fresh|JJ ingredients|NNS and|CC the|DT virtues|NNS of|IN cooking|VBG from|IN scratch|NN </s>|S_END
+<s>|S_START it|PRP exports|VBZ its|PRP$ cooking|NN shows|NNS and|CC its|PRP$ hectoring|NN celebrity|NN chefs|NNS around|IN the|DT world|NN even|RB to|TO france|VB </s>|S_END
+<s>|S_START but|CC the|DT reality|NN of|IN what|WP goes|VBZ on|IN in|IN british|JJ kitchens|NNS has|VBZ never|RB been|VBN farther|RB from|IN the|DT televised|VBN ideal|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT few|JJ years|NNS ago|RB the|DT british|JJ diet|NN seemed|VBD to|TO be|VB improving|VBG </s>|S_END
+<s>|S_START admittedly|RB people|NNS were|VBD buying|VBG fewer|JJR green|JJ vegetables|NNS continuing|VBG a|DT longterm|NN trend|NN driven|RB by|IN declining|VBG appetite|JJ for|IN cabbage|NN cauliflower|NN and|CC brussels|NNS sprout|IN </s>|S_END
+<s>|S_START but|CC they|PRP were|VBD more|RBR or|CC less|JJR making|VBG up|RP for|IN that|DT by|IN eating|NN more|JJR salad|JJ leaves|NNS and|CC fruit|NN </s>|S_END
+<s>|S_START they|PRP were|VBD purchasing|VBG more|JJR healthy|JJ fish|JJ and|CC less|JJR fat|JJ </s>|S_END
+<s>|S_START the|DT average|JJ briton|NN bought|VBD 170|CD grams|NNS of|IN fish|JJ per|NN week|NN in|IN 2006—the|CD most|RBS since|IN at|IN least|JJS 1974|CD </s>|S_END
+<s>|S_START ales|NNS of|IN organic|JJ food|NN believed|VBD to|TO be|VB healthier|JJR despite|IN the|DT lack|NN of|IN evidence|NN were|VBD soaring|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START then|RB came|VBD the|DT financial|JJ crisis|NN a|DT commodityprice|NN surge|NN and|CC government|NN belttightening|VBG </s>|S_END
+<s>|S_START retail|JJ food|NN prices|NNS in|IN britain|NN have|VBP increased|VBN by|IN 25|CD since|IN january|JJ 2008|CD considerably|RB more|JJR than|IN overall|JJ inflation|NN </s>|S_END
+<s>|S_START among|IN the|DT poor|JJ the|DT proportion|NN of|IN household|NN spending|NN that|WDT goes|VBZ on|IN food|NN has|VBZ risen|VBN slightly|RB since|IN 2007|CD to|TO 16|CD reversing|VBG a|DT long|JJ downward|NN trend|NN the|DT proportion|NN was|VBD half|PDT in|IN 1938|CD </s>|S_END
+<s>|S_START inflation|NN is|VBZ now|RB moderating|VBG but|CC pessimism|NN is|VBZ not|RB </s>|S_END
+<s>|S_START nationwides|NNS “present|JJ situation|NN index”|NN shows|VBZ people|NNS were|VBD as|IN gloomy|NN last|JJ month|NN as|IN they|PRP have|VBP been|VBN at|IN any|DT point|NN in|IN the|DT past|JJ eight|NN year|NN </s>|S_END
+<s>|S_START all|DT this|DT has|VBZ dramatically|RB affected|VBN the|DT national|JJ diet|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT first|JJ thing|NN to|TO go|VB was|VBD eating|VBG out|RP says|VBZ giles|NNS quick|VBP of|IN kantar|NN worldpanel|NN a|DT marketresearch|NN firm|NN </s>|S_END
+<s>|S_START then|RB consumers|NNS jettisoned|VBD worries|NNS about|IN sustainability|NN and|CC the|DT environment|NN </s>|S_END
+<s>|S_START the|DT soil|NN association|NN reports|NNS that|WDT sales|NNS of|IN organic|JJ products|NNS in|IN britain|NN have|VBP slid|VBN by|IN 21|CD since|IN 2008|CD </s>|S_END
+<s>|S_START after|IN that|DT consumers|NNS began|VBD to|TO make|VB more|JJR painful|JJ compromise|NN </s>|S_END
+<s>|S_START fruit|NN and|CC vegetable|JJ sales|NNS have|VBP sharply|RB declined|VBN along|IN with|IN sales|NNS of|IN what|WP mr|NN quick|NN calls|VBZ “primary|JJ proteins”—that|JJ is|VBZ slabs|NNS of|IN meat|NN and|CC fish|JJ which|WDT impose|DT additional|JJ costs|NNS on|IN consumers|NNS because|IN they|PRP require|VBP other|JJ ingredients|NNS to|TO make|VB a|DT meal|NN </s>|S_END
+<s>|S_START america|NN has|VBZ seen|VBN a|DT similar|JJ though|IN less|JJR extreme|NN shift|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT changes|NNS are|VBP most|JJS pronounced|VBN among|IN the|DT poorest|JJS onefifth|NN of|IN the|DT population|NN see|VBP chart|NN </s>|S_END
+<s>|S_START but|CC they|PRP are|VBP by|IN no|DT means|NNS restricted|VBN to|TO the|DT poor|JJ </s>|S_END
+<s>|S_START on|IN a|DT recent|JJ visit|NN guy|NN warners|NNS grocery|VBP shop|NN in|IN moretoninmarsh|JJ in|IN the|DT pricey|NN cotswolds|NNS had|VBD a|DT prominent|NN display|NN of|IN quails|NNS eggs|NNS and|CC asparagu|VB </s>|S_END
+<s>|S_START mr|NN warner|NN nonetheless|NN says|VBZ customers|NNS are|VBP trading|VBG down|IN abandoning|VBG steaks|NNS in|IN favour|PRP$ of|IN cheaper|JJR cuts|NNS of|IN meat|NN such|JJ as|IN shin|NN </s>|S_END
+<s>|S_START he|PRP is|VBZ selling|VBG many|JJ more|JJR vegetables|NNS and|CC fruit|NN at|IN a|DT discount|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START customers|NNS are|VBP visiting|VBG more|JJR often|RB but|CC buying|VBG less|JJR when|WRB they|PRP do|VBP </s>|S_END
+<s>|S_START ainsburys|NNS a|DT big|JJ supermarket|NN found|VBD that|IN the|DT number|NN of|IN customer|NN transactions|NNS per|IN week|NN in|IN the|DT middle|NN of|IN 2011|CD was|VBD almost|RB 22m—1m|CD more|JJR than|IN a|DT year|NN earlier|JJR </s>|S_END
+<s>|S_START but|CC the|DT number|NN of|IN items|NNS sold|VBN to|TO each|DT customer|NN fell|VBD </s>|S_END
+<s>|S_START impulse|NN buying|VBG is|VBZ down|RP too|RB </s>|S_END
+<s>|S_START igd|NN another|DT marketresearch|NN firm|NN finds|NNS that|WDT the|DT proportion|NN of|IN britons|NNS who|WP usually|RB decide|VBP what|WP to|TO buy|VB before|IN going|VBG shopping|NN jumped|VBD from|IN 47|CD to|TO 67|CD between|IN 2008|CD and|CC 2011|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT listmaking|NN tendency|NN largely|RB explains|VBZ another|DT benign|NN change|NN britons|NNS are|VBP throwing|VBG away|RB less|JJR food|NN </s>|S_END
+<s>|S_START wrap|NN which|WDT tracks|NNS rubbish|VBP estimates|NNS that|IN households|NNS disposed|VBD of|IN 72m|CD tonnes|NNS of|IN food|NN waste|NN in|IN 2010—down|CD from|IN 83m|CD tonnes|NNS in|IN 200607|CD </s>|S_END
+<s>|S_START people|NNS are|VBP throwing|VBG away|RB less|JJR of|IN everything|NN but|CC food|NN accounts|NNS for|IN more|JJR than|IN half|PDT of|IN the|DT overall|JJ drop|NN </s>|S_END
+<s>|S_START till|NN there|EX may|MD be|VB another|DT reason|NN britons|NNS are|VBP throwing|VBG less|JJR food|NN away|RB they|PRP are|VBP doing|VBG less|JJR cooking|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ people|NNS now|RB spend|VBP more|JJR time|NN watching|VBG people|NNS cook|NN than|IN doing|VBG it|PRP themselve|VB </s>|S_END
+<s>|S_START “masterchef”|NN lasts|NNS an|DT hour|NN </s>|S_END
+<s>|S_START the|DT average|JJ time|NN taken|VBN to|TO prepare|VB the|DT days|NNS main|JJ meal|NN is|VBZ just|RB 34|CD minutes|NNS according|VBG to|TO kantar|VB worldpanel|NN it|PRP has|VBZ fallen|VBN sharply|RB over|IN time|NN </s>|S_END
+<s>|S_START prepared|VBN food|NN which|WDT is|VBZ seen|VBN as|IN cheap|NN and|CC cheering|VBG if|IN guiltinducing|VBG is|VBZ the|DT great|JJ winner|NN of|IN the|DT economic|JJ slump|NN </s>|S_END
+<s>|S_START pizza|NN and|CC meatbased|VBD ready|RB meals|NNS have|VBP fared|VBN especially|RB well|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN a|DT government|NN that|WDT must|MD pick|VB up|RP the|DT tab|NN for|IN illhealth|NN this|DT could|MD be|VB bad|JJ new|JJ </s>|S_END
+<s>|S_START “five|JJ a|DT day”|JJ the|DT campaign|NN to|TO prod|VB people|NNS to|TO eat|VB more|JJR fruit|NN and|CC vegetables|NNS is|VBZ failing|VBG </s>|S_END
+<s>|S_START andrew|VBD lansley|NN the|DT health|NN secretary|NN is|VBZ now|RB trying|VBG to|TO persuade|VB the|DT food|NN industry|NN to|TO cut|VB the|DT number|NN of|IN calories|NNS in|IN meal|NN </s>|S_END
+<s>|S_START this|DT has|VBZ worked|VBN for|IN salt|NN </s>|S_END
+<s>|S_START but|CC the|DT latest|JJS effort|NN may|MD be|VB trampled|VBN by|IN consumers|NNS stampeding|VBG for|IN cheap|NN easy|JJ nutrition|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START like|IN the|DT fall|NN of|IN fruit|NN and|CC fish|JJ the|DT rise|NN of|IN ready|JJ meals|NNS is|VBZ most|JJS pronounced|VBN among|IN the|DT poor|JJ but|CC everybody|NN favours|NNS them|PRP </s>|S_END
+<s>|S_START marks|NNS spencer|VBP grocer|NN to|TO the|DT upper|JJ middle|NN classes|NNS has|VBZ scored|VBN with|IN its|PRP$ “dine|JJ in|IN for|IN £10”|JJ deal|NN introduced|VBD in|IN 2008|CD </s>|S_END
+<s>|S_START the|DT firm|NN opened|VBD 29|CD stores|NNS in|IN the|DT past|JJ year|NN 26|CD of|IN them|PRP food|NN shop|NN </s>|S_END
+<s>|S_START grocers|NNS like|IN ms|NNS and|CC waitrose|VB are|VBP capturing|VBG betteroff|NN families|NNS who|WP are|VBP trading|VBG down|IN from|IN restaurant|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB these|DT dramatic|JJ changes|NNS in|IN diet|NN are|VBP not|RB always|RB evident|JJ in|IN supermarket|NN </s>|S_END
+<s>|S_START morrisons|NNS originally|RB a|DT northern|JJ english|NN chain|NN touts|NNS precisely|RB the|DT sort|NN of|IN foods|NNS that|WDT people|NNS have|VBP stopped|VBN eating|VBG fresh|JJ fish|JJ in|IN particular|JJ </s>|S_END
+<s>|S_START yet|RB it|PRP has|VBZ fared|VBN well|RB in|IN the|DT past|JJ few|JJ year|NN </s>|S_END
+<s>|S_START extravagant|NN displays|NNS of|IN fresh|JJ produce|NN are|VBP a|DT useful|JJ signal|NN to|TO customers|NNS says|VBZ mr|NN quick|NN because|IN they|PRP suggest|VBP the|DT shop|NN is|VBZ good|JJ at|IN food|NN </s>|S_END
+<s>|S_START fruit|NN and|CC vegetables|NNS in|IN supermarkets|NNS are|VBP increasingly|RB a|DT sign|NN of|IN quality|NN rather|RB than|IN something|NN you|PRP eat|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN eating|VBG habits|NNS have|VBP changed|VBN so|RB has|VBZ the|DT definition|NN of|IN cooking|VBG </s>|S_END
+<s>|S_START paul|NN gardner|NN who|WP owns|VBZ a|DT budgens|NN grocery|NN store|NN in|IN islington|NN says|VBZ things|NNS like|IN rhubarb|NN and|CC brussels|NNS sprouts|NNS hardly|RB sell|VBP these|DT day|NN </s>|S_END
+<s>|S_START what|WP flies|NNS off|IN the|DT shelves|NNS he|PRP says|VBZ are|VBP nicely|RB packaged|VBN freshseeming|VBG sauces|NNS that|WDT can|MD be|VB added|VBN to|TO fish|VB and|CC meat|VB to|TO make|VB a|DT quick|JJ meal|NN </s>|S_END
+<s>|S_START “theres|NNS a|DT difference|NN between|IN what|WP your|PRP$ grandmother|NN would|MD have|VB regarded|VBN as|IN cooking|NN from|IN scratch|NN and|CC what|WP people|NNS mean|VBP by|IN it|PRP now”|NNP he|PRP says|VBZ delicately|RB </s>|S_END
+</p>|P_END
+

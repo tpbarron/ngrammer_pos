@@ -1,0 +1,32 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN information|NN received|VBD since|IN the|DT federal|JJ open|JJ market|NN committee|NN met|NN in|IN june|NN suggests|VBZ that|IN economic|JJ activity|NN decelerated|VBD somewhat|RB over|IN the|DT first|JJ half|DT of|IN this|DT year|NN </s>|S_END
+<s>|S_START growth|NN in|IN employment|NN has|VBZ been|VBN slow|JJ in|IN recent|JJ months|NNS and|CC the|DT unemployment|NN rate|NN remains|VBZ elevated|VBN </s>|S_END
+<s>|S_START business|NN fixed|VBD investment|NN has|VBZ continued|VBN to|TO advance|NN </s>|S_END
+<s>|S_START household|NN spending|NN has|VBZ been|VBN rising|VBG at|IN a|DT somewhat|RB slower|JJR pace|NN than|IN earlier|JJR in|IN the|DT year|NN </s>|S_END
+<s>|S_START despite|IN some|DT further|JJ signs|NNS of|IN improvement|NN the|DT housing|NN sector|NN remains|VBZ depressed|VBN </s>|S_END
+<s>|S_START inflation|NN has|VBZ declined|VBN since|IN earlier|JJR this|DT year|NN mainly|RB reflecting|VBG lower|JJR prices|NNS of|IN crude|JJ oil|NN and|CC gasoline|NN and|CC longerterm|NN inflation|NN expectations|NNS have|VBP remained|VBN stable|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START consistent|NN with|IN its|PRP$ statutory|JJ mandate|NN the|DT committee|NN seeks|VBZ to|TO foster|JJR maximum|NN employment|NN and|CC price|NN stability|NN </s>|S_END
+<s>|S_START the|DT committee|NN expects|VBZ economic|JJ growth|NN to|TO remain|VB moderate|JJ over|IN coming|VBG quarters|NNS and|CC then|RB to|TO pick|VB up|RP very|RB gradually|RB </s>|S_END
+<s>|S_START consequently|RB the|DT committee|NN anticipates|VBZ that|IN the|DT unemployment|NN rate|NN will|MD decline|VB only|RB slowly|RB toward|IN levels|NNS that|WDT it|PRP judges|VBZ to|TO be|VB consistent|JJ with|IN its|PRP$ dual|JJ mandate|NN </s>|S_END
+<s>|S_START furthermore|IN strains|NNS in|IN global|JJ financial|JJ markets|NNS continue|VBP to|TO pose|VB significant|JJ downside|NN risks|NNS to|TO the|DT economic|JJ outlook|NN </s>|S_END
+<s>|S_START the|DT committee|NN anticipates|VBZ that|IN inflation|NN over|IN the|DT medium|NN term|NN will|MD run|VB at|IN or|CC below|IN the|DT rate|NN that|IN it|PRP judges|VBZ most|JJS consistent|JJ with|IN its|PRP$ dual|JJ mandate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO support|VB a|DT stronger|JJR economic|JJ recovery|NN and|CC to|TO help|VB ensure|NN that|WDT inflation|NN over|IN time|NN is|VBZ at|IN the|DT rate|NN most|JJS consistent|JJ with|IN its|PRP$ dual|JJ mandate|NN the|DT committee|NN expects|VBZ to|TO maintain|VB a|DT highly|RB accommodative|JJ stance|NN for|IN monetary|JJ policy|NN </s>|S_END
+<s>|S_START in|IN particular|JJ the|DT committee|NN decided|VBD today|NN to|TO keep|VB the|DT target|NN range|NN for|IN the|DT federal|JJ funds|NNS rate|NN at|IN 0|-NONE- to|TO 14|CD percent|NN and|CC currently|RB anticipates|VBZ that|IN economic|JJ conditionsincluding|NN low|JJ rates|NNS of|IN resource|NN utilization|NN and|CC a|DT subdued|VBN outlook|NN for|IN inflation|NN over|IN the|DT medium|NN runare|NN likely|JJ to|TO warrant|JJ exceptionally|RB low|JJ levels|NNS for|IN the|DT federal|JJ funds|NNS rate|NN at|IN least|JJS through|IN late|JJ 2014|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT committee|NN also|RB decided|VBD to|TO continue|VB through|IN the|DT end|NN of|IN the|DT year|NN its|PRP$ program|NN to|TO extend|VB the|DT average|JJ maturity|NN of|IN its|PRP$ holdings|NNS of|IN securities|NNS as|IN announced|VBN in|IN june|NN and|CC it|PRP is|VBZ maintaining|VBG its|PRP$ existing|VBG policy|NN of|IN reinvesting|VBG principal|JJ payments|NNS from|IN its|PRP$ holdings|NNS of|IN agency|NN debt|NN and|CC agency|NN mortgagebacked|VBD securities|NNS in|IN agency|NN mortgagebacked|VBD securities|NNS </s>|S_END
+<s>|S_START the|DT committee|NN will|MD closely|RB monitor|VB incoming|VBG information|NN on|IN economic|JJ and|CC financial|JJ developments|NNS and|CC will|MD provide|VB additional|JJ accommodation|NN as|IN needed|VBN to|TO promote|VB a|DT stronger|JJR economic|JJ recovery|NN and|CC sustained|VBD improvement|NN in|IN labor|NN market|NN conditions|NNS in|IN a|DT context|NN of|IN price|NN stability|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START voting|VBG for|IN the|DT fomc|NN monetary|NN policy|NN action|NN were|VBD ben|VBN s|NNS bernanke|VBP chairman|NN william|NN c|NN dudley|NN vice|NN chairman|NN elizabeth|NN a|DT duke|NN dennis|VBZ p|NN lockhart|NN sandra|NN pianalto|NN jerome|NN h|NN powell|NN sarah|NN bloom|NN raskin|NN jeremy|NN c|NN stein|NN daniel|NN k|NN tarullo|NN john|NN c|NN williams|NNS and|CC janet|NN l|NN yellen|NN </s>|S_END
+<s>|S_START voting|VBG against|IN the|DT action|NN was|VBD jeffrey|NN m|NN lacker|NN who|WP preferred|VBN to|TO omit|VB the|DT description|NN of|IN the|DT time|NN period|NN over|IN which|WDT economic|JJ conditions|NNS are|VBP likely|JJ to|TO warrant|JJ an|DT exceptionally|RB low|JJ level|NN of|IN the|DT federal|JJ funds|NNS rate |-NONE- </s>|S_END
+</p>|P_END
+

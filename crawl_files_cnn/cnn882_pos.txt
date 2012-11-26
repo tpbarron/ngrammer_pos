@@ -1,0 +1,65 @@
+<p>|P_START
+<s>|S_START sen|NN max|NN baucus|VBZ the|DT top|JJ democratic|JJ tax|NN writer|NN in|IN the|DT senate|NN said|VBD hes|NNS making|VBG progress|NN on|IN a|DT tax|NN reform|NN proposal|NN that|WDT he|PRP promised|VBD would|MD garner|VB bipartisan|JJ support|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN calling|VBG the|DT us|PRP tax|NN code|NN the|DT worst|JJS of|IN all|DT worlds|NNS sen|VBP max|NN baucus|NN said|VBD monday|NN he|PRP is|VBZ working|VBG on|IN a|DT detailed|JJ tax|NN reform|NN proposal|NN that|WDT he|PRP promised|VBD would|MD draw|VB bipartisan|JJ support|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START baucus|NN the|DT top|JJ democratic|JJ tax|NN writer|NN in|IN the|DT senate|NN also|RB suggested|VBD that|IN his|PRP$ proposal|NN would|MD raise|VB more|RBR revenue|NN than|IN the|DT current|JJ tax|NN system|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START deficits|NNS and|CC debt|NN are|VBP not|RB just|RB a|DT spending|NN problem|NN </s>|S_END
+<s>|S_START revenues|NNS as|IN a|DT share|NN of|IN gdp|NN over|IN the|DT past|JJ few|JJ years|NNS are|VBP the|DT lowest|JJS they|PRP have|VBP been|VBN since|IN world|NN war|NN ii|NN </s>|S_END
+<s>|S_START we|PRP simply|RB dont|VBP raise|VB enough|JJ revenue|NN he|PRP said|VBD in|IN a|DT speech|NN at|IN the|DT bipartisan|NN policy|NN center|NN in|IN washington|NN dc|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN he|PRP offered|VBD no|DT specific|JJ details|NNS or|CC timetable|JJ for|IN his|PRP$ proposal|NN baucus|VBZ noted|VBN that|IN policymakers|NNS will|MD need|VB to|TO rethink|VB the|DT hundreds|NNS of|IN tax|NN breaks|NNS on|IN the|DT books|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tax|NN breaks|NNS have|VBP doubled|VBN since|IN 1986|CD he|PRP said|VBD </s>|S_END
+<s>|S_START they|PRP now|RB cost|VBP as|IN much|JJ in|IN revenue|NN as|IN the|DT entire|JJ income|NN tax|NN brings|NNS in|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN 2011|CD the|DT government|NN collected|VBD $|$ 23|CD trillion|CD in|IN revenue|NN of|IN which|WDT $|$ 11|CD trillion|CD comes|NNS from|IN the|DT individual|JJ income|NN tax|NN and|CC $|$ 181|CD billion|CD from|IN corporations|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START baucus|NN who|WP chairs|NNS the|DT senate|NN finance|NN committee|NN likened|VBD the|DT current|JJ tax|NN code|NN to|TO hydra|VB the|DT mythical|JJ beast|NN with|IN many|JJ heads|NNS who|WP grows|VBZ back|RB two|CD every|DT time|NN one|CD is|VBZ chopped|VBN off|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START case|NN in|IN point|NN in|IN 1986|CD the|DT last|JJ time|NN congress|NN overhauled|VBD the|DT tax|NN code|NN there|EX were|VBD 14|CD temporary|JJ tax|NN breaks|NNS on|IN the|DT books|NNS </s>|S_END
+<s>|S_START today|NN there|EX are|VBP 132|CD many|JJ of|IN which|WDT have|VBP been|VBN automatically|RB extended|VBN time|NN and|CC again|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC complexity|NN has|VBZ grown|VBN throughout|IN the|DT tax|NN code|NN </s>|S_END
+<s>|S_START baucus|NN noted|VBD that|IN since|IN 1986|CD there|EX have|VBP been|VBN 15000|CD changes|NNS made|VBN to|TO the|DT tax|NN code|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START no|DT one|NN realistically|RB expects|VBZ congress|NN to|TO adequately|RB address|NN tax|NN reform|NN before|IN the|DT end|NN of|IN the|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD big|JJ reason|NN lawmakers|NNS have|VBP to|TO address|VB the|DT socalled|VBN fiscal|JJ cliff|NN a|DT set|NN of|IN tax|NN hikes|NNS and|CC spending|NN cuts|NNS that|WDT would|MD take|VB more|RBR than|IN $|$ 500|CD billion|CD out|IN of|IN the|DT economy|NN in|IN 2013|CD alone|NN enough|RB to|TO cause|VB a|DT recession|NN economists|NNS say|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT reason|NN why|WRB theres|NNS really|RB no|DT broad|JJ agreement|NN on|IN the|DT starting|NN point|NN for|IN tax|NN reform|NN like|IN how|WRB much|JJ revenue|NN the|DT tax|NN system|NN should|MD raise|VB said|VBD howard|NN gleckman|NN editor|NN of|IN the|DT blog|NN taxvox|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unlike|IN democrats|NNS many|JJ republicans|NNS do|VBP not|RB want|VB tax|NN reform|NN to|TO raise|VB any|DT more|RBR revenue|NN than|IN the|DT current|JJ system|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC both|DT parties|NNS will|MD have|VB a|DT hard|JJ time|NN beating|VBG back|RB lobbyists|NNS whose|WP$ job|NN it|PRP is|VBZ to|TO ensure|VB that|IN the|DT industries|NNS they|PRP represent|VBP get|VB a|DT good|JJ tax|NN deal |NN </s>|S_END
+</p>|P_END
+

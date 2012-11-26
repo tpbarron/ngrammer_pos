@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 30|CD gdp|NN $|$ 518bn|CD ppp|CD $|$ 1007bn|CD inflation|NN 17|CD population|NN 233m|CD gdp|NN per|IN head|NN $|$ 22170|CD ppp|CD $|$ 43120|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT year|NN will|MD open|VB with|IN parliamentary|JJ and|CC presidential|JJ elections|NNS the|DT outcome|NN will|MD hang|VB on|IN the|DT opposition|NN democratic|JJ progressive|JJ partys|NNS ability|NN to|TO satisfy|VB a|DT public|JJ appetite|NN for|IN rapprochement|NN with|IN the|DT mainland|NN without|IN betraying|NN its|PRP$ proindependence|NN root|NN </s>|S_END
+<s>|S_START the|DT ruling|NN kuomintang|NN will|MD be|VB hard|RB to|TO shift|VB given|VBN the|DT strong|JJ economy|NN and|CC the|DT generally|RB positive|JJ reception|NN for|IN its|PRP$ crossstrait|NN policies|NNS it|PRP is|VBZ likely|JJ to|TO retain|VB power|NN </s>|S_END
+<s>|S_START reduced|VBD exports|NNS will|MD slow|VB growth|NN </s>|S_END
+</p>|P_END
+

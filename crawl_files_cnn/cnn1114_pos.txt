@@ -1,0 +1,48 @@
+<p>|P_START
+<s>|S_START the|DT irish|JJ government|NN raised|VBD 500|CD million|CD euros|NNS or|CC $|$ 626|CD million|CD by|IN selling|NN 3month|JJ treasury|NN bills|NNS at|IN a|DT yield|NN of|IN 180|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN ireland|NN rejoined|VBD the|DT bond|NN market|NN thursday|NN with|IN its|PRP$ first|JJ debt|NN sale|NN since|IN its|PRP$ bailout|NN in|IN 2010|CD a|DT promising|NN step|NN in|IN its|PRP$ return|NN to|TO the|DT capital|NN markets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT government|NN raised|VBD €500|-NONE- million|CD or|CC $|$ 626|CD million|CD as|IN planned|VBN </s>|S_END
+<s>|S_START ireland|NN sold|VBD 3month|JJ treasury|NN bills|NNS at|IN a|DT yield|NN of|IN 180|CD </s>|S_END
+<s>|S_START the|DT dublinbased|VBN national|JJ treasury|NN management|NN agency|NN ntma|NN said|VBD it|PRP received|VBD €14|-NONE- billion|CD or|CC $|$ 18|CD billion|CD in|IN bids|NNS an|DT indication|NN of|IN healthy|JJ demand|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP are|VBP encouraged|VBN by|IN the|DT strong|JJ demand|NN the|DT competitive|JJ interest|NN rate|NN and|CC the|DT presence|NN of|IN significant|JJ international|JJ interest|NN in|IN todays|NNS action|NN said|VBD john|NN corrigan|NN head|NN of|IN the|DT ntma|NN </s>|S_END
+<s>|S_START however|RB we|PRP are|VBP conscious|JJ that|IN this|DT only|JJ the|DT first|JJ step|NN towards|NNS our|PRP$ ultimate|JJ goal|NN of|IN full|JJ access|NN to|TO the|DT capital|NN markets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ireland|NN received|VBD an|DT €85|JJ billion|NN bailout|IN in|IN november|NN 2010|CD from|IN the|DT european|JJ union|NN the|DT international|JJ monetary|NN fund|NN and|CC three|CD nations|NNS the|DT united|VBN kingdom|NN denmark|NN and|CC sweden|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN investors|NNS view|NN irelands|NNS willingness|NN to|TO rejoin|VB the|DT bond|NN market|NN as|RB a|DT positive|JJ sign|NN thursdays|NNS auction|NN only|RB covers|VBZ a|DT small|JJ portion|NN of|IN the|DT irish|JJ governments|NNS financing|VBG needs|NNS warned|VBD ben|VBN may|MD european|VB economist|NN at|IN capital|NN economics|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ encouraging|NN to|TO see|VB ireland|NN is|VBZ trying|VBG to|TO get|VB on|IN top|JJ of|IN its|PRP$ problems|NNS but|CC the|DT hope|NN is|VBZ that|IN this|DT is|VBZ the|DT first|JJ step|NN to|TO something|NN bigger|NN may|MD said|VBD </s>|S_END
+<s>|S_START investor|NN confidence|NN in|IN ireland|NN will|MD only|RB hold|VB if|IN it|PRP can|MD issue|VB bonds|NNS for|IN a|DT sustained|VBN period|NN and|CC with|IN a|DT much|JJ longer|NN maturity|NN than|IN three|CD months|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN irelands|NNS destiny|NN is|VBZ mostly|RB in|IN its|PRP$ own|JJ hands|NNS its|PRP$ fate|NN will|MD also|RB depend|VB on|IN how|WRB economies|NNS fare|VBP elsewhere|RB in|IN the|DT region|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN greece|NN ends|NNS up|IN leaving|VBG the|DT eurozone|NN or|CC spain|NN falls|NNS into|IN deeper|NN trouble|NN may|MD said|VBD yields|NNS in|IN ireland|NN may|MD jump|VB back|RB up|IN again|RB and|CC derail|NN any|DT progress|NN the|DT nation|NN has|VBZ made|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT yield|NN on|IN benchmark|NN irish|NN 10year|JJ bonds|NNS is|VBZ currently|RB 82|CD that|WDT is|VBZ obviously|RB very|RB high|JJ but|CC it|PRP is|VBZ down|IN significantly|RB from|IN levels|NNS of|IN more|JJR than|IN 14|CD a|DT year|NN ago|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN thursday|NN the|DT european|JJ central|JJ bank|NN lowered|VBD interest|NN rates|NNS to|TO alltime|VB lows|NNS but|CC did|VBD not|RB introduce|VB any|DT unconventional|JJ moves|NNS to|TO stimulate|VB economic|JJ activity|NN in|IN the|DT cashstrapped|JJ region |NN </s>|S_END
+</p>|P_END
+

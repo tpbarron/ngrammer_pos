@@ -1,0 +1,61 @@
+<p>|P_START
+<s>|S_START after|IN the|DT treasury|NN put|VBD up|RP $|$ 190|CD billion|CD to|TO save|VB fannie|NN mae|NN and|CC freddie|VB mac|NN from|IN collapse|NN in|IN 2008|CD it|PRP was|VBD widely|RB thought|VBN to|TO be|VB finished|VBN with|IN housing|NN bailout|IN </s>|S_END
+<s>|S_START yet|RB buried|VBD in|IN the|DT office|NN of|IN management|NN and|CC budget’s|NNP projections|NNS for|IN 2012|CD was|VBD a|DT $|$ 688m|CD bailout|IN for|IN a|DT much|JJ less|NN wellknown|NN public|JJ mortgage|NN insurer|NN the|DT federal|JJ housing|NN administration|NN fha|NN </s>|S_END
+<s>|S_START the|DT fha|NN is|VBZ now|RB expected|VBN to|TO survive|VB the|DT year|NN without|IN taxpayer|NN assistance|NN </s>|S_END
+<s>|S_START if|IN the|DT economy|NN deteriorates|VBZ however|RB it|PRP will|MD not|RB be|VB able|JJ to|TO slip|VB under|IN the|DT public’s|NNP radar|NN for|IN long|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fha|NN was|VBD set|VBN up|RP to|TO make|VB mortgages|NNS available|JJ during|IN the|DT depression|NN </s>|S_END
+<s>|S_START today|NN it|PRP guarantees|VBZ loans|NNS to|TO borrowers|NNS with|IN spotty|JJ credit|NN making|VBG downpayments|NNS as|IN low|JJ as|IN 35|CD of|IN the|DT purchase|NN price|NN </s>|S_END
+<s>|S_START in|IN exchange|NN it|PRP charges|VBZ 175|CD upfront|NN and|CC a|DT modest|JJ annual|JJ premium|NN </s>|S_END
+<s>|S_START o|NN far|RB it|PRP has|VBZ been|VBN financially|RB selfsufficient|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT early|JJ 2000s|CD the|DT fha|NN lost|VBD market|NN share|NN </s>|S_END
+<s>|S_START ubprime|NN lenders|NNS began|VBD offering|VBG loans|NNS at|IN lower|JJR rates|NNS and|CC with|IN even|RB looser|JJR requirement|NN </s>|S_END
+<s>|S_START meanwhile|RB fannie|VBP and|CC freddie|VB relaxed|VBN their|PRP$ credit|NN standards|NNS and|CC started|VBD buying|NN mortgages|NNS from|IN borrowers|NNS who|WP otherwise|RB would|MD have|VB used|VBN the|DT fha|NN </s>|S_END
+<s>|S_START in|IN 2007|CD an|DT audit|NN by|IN the|DT government|NN accountability|NN office|NN wondered|VBD whether|IN the|DT fha|NN was|VBD still|RB necessary|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT few|JJ months|NNS later|JJ the|DT subprime|NN market|NN collapsed|VBD and|CC the|DT next|JJ year|NN fannie|NN and|CC freddie|VB fell|VBD apart|NN </s>|S_END
+<s>|S_START that|DT left|VBN the|DT fha|NN as|IN the|DT only|JJ game|NN in|IN town|NN for|IN borrowers|NNS without|IN big|JJ downpayments|NNS or|CC with|IN less|JJR than|IN sterling|NN credit|NN </s>|S_END
+<s>|S_START in|IN 2009|CD it|PRP insured|VBD loans|NNS worth|IN $|$ 330|CD billion|CD up|IN from|IN just|RB $|$ 52|CD billion|CD in|IN 2006|CD </s>|S_END
+<s>|S_START it|PRP now|RB commands|VBZ a|DT bigger|JJR share|NN of|IN financing|NN for|IN home|NN purchases|NNS than|IN fannie|NN and|CC freddie|VB combined|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN serving|NN as|IN the|DT lender|NN of|IN last|JJ resort|NN the|DT fha|NN almost|RB singlehandedly|RB kept|VBD the|DT housing|NN market|NN functioning|VBG through|IN the|DT credit|NN crunch|NN </s>|S_END
+<s>|S_START however|RB that|IN contribution|NN came|VBD at|IN a|DT cost|NN a|DT book|NN of|IN some|DT 700000|CD dicey|NN loans|NNS worth|IN roughly|RB $|$ 100|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT mortgages|NNS are|VBP now|RB going|VBG sour|PRP$ </s>|S_END
+<s>|S_START according|VBG to|TO data|NNS analysed|VBN by|IN andrew|NN caplin|NN an|DT economics|NN professor|NN at|IN new|JJ york|NN university|NN one|CD in|IN five|CD borrowers|NNS who|WP took|VBD out|RP fhainsured|VBN mortgages|NNS in|IN 200709|CD are|VBP at|IN least|JJS three|CD months|NNS behind|IN with|IN their|PRP$ payment|NN </s>|S_END
+<s>|S_START mr|NN caplin|NN thinks|NNS this|DT share|NN will|MD rise|VB to|TO over|IN 30|CD by|IN 2017|CD </s>|S_END
+<s>|S_START and|CC the|DT fha|NN has|VBZ precious|JJ few|JJ reserves|NNS to|TO cover|VB such|JJ losses|NNS its|PRP$ capital|NN position|NN was|VBD last|JJ reported|VBN at|IN 024|CD of|IN its|PRP$ loan|NN book|NN eight|NN times|NNS smaller|JJR than|IN the|DT legal|JJ minimum|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fha|NN has|VBZ taken|VBN big|JJ steps|NNS to|TO improve|VB its|PRP$ financial|JJ health|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ tightened|VBN its|PRP$ lending|NN standards—the|NNP average|NN credit|NN score|NN of|IN its|PRP$ borrowers|NNS has|VBZ risen|VBN from|IN 640|CD in|IN 2006|CD to|TO nearly|RB 700|CD today—and|JJ increased|VBN its|PRP$ annual|JJ premium|NN </s>|S_END
+<s>|S_START because|IN the|DT fha|NN has|VBZ grown|VBN so|RB fast|RB these|DT higherquality|NN mortgages|NNS now|RB make|VBP up|RP around|IN 75|CD of|IN its|PRP$ loan|NN book|NN </s>|S_END
+<s>|S_START carol|NN galante|VBD its|PRP$ acting|NN commissioner|NN is|VBZ concerned|VBN the|DT fha|NN may|MD tighten|VB too|RB much|RB abandoning|VBG the|DT homebuyers|NNS that|WDT need|VBP it|PRP most|JJS and|CC possibly|RB slowing|VBG down|IN the|DT broader|JJR economic|JJ recovery|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fha|NN has|VBZ also|RB become|VBN much|RB more|RBR aggressive|JJ in|IN contesting|NN dubious|JJ reimbursement|NN claim|NN </s>|S_END
+<s>|S_START during|IN the|DT boom|NN private|JJ lenders|NNS often|RB cut|VBD corner|NN </s>|S_END
+<s>|S_START the|DT fha|NN recently|RB received|VBD $|$ 1|CD billion|CD from|IN a|DT group|NN of|IN five|CD big|JJ banks|NNS in|IN compensation|NN for|IN improper|NN procedures|NNS in|IN selling|VBG and|CC servicing|VBG fhainsured|VBN mortgage|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ also|RB begun|VBN monitoring|VBG lenders|NNS and|CC cutting|VBG off|RP those|DT who|WP generate|NN unusually|RB high|JJ proportions|NNS of|IN bad|JJ loan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whether|IN all|DT that|DT will|MD be|VB enough|RB to|TO avoid|VB a|DT full|JJ bailout|IN costing|NN tens|NNS of|IN billions|NNS of|IN dollars|NNS is|VBZ hotly|RB debated|VBN </s>|S_END
+<s>|S_START the|DT answer|NN probably|RB depends|VBZ on|IN home|NN prices|NNS and|CC the|DT overall|JJ economy|NN </s>|S_END
+<s>|S_START for|IN the|DT moment|NN the|DT fha|NN is|VBZ squeezing|VBG by|IN </s>|S_END
+<s>|S_START but|CC a|DT doubledip|NN recession|NN could|MD push|VB it|PRP over|IN the|DT edge|NN </s>|S_END
+</p>|P_END
+

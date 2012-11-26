@@ -1,0 +1,73 @@
+<p>|P_START
+<s>|S_START it|PRP is|VBZ tempting|VBG to|TO think|VB of|IN the|DT process|NN of|IN evolution|NN as|IN one|CD of|IN continuous|JJ stately|RB progress|NN towards|NNS betterdesigned|VBD organism|NN </s>|S_END
+<s>|S_START in|IN fact|NN it|PRP is|VBZ full|JJ of|IN blind|JJ alleys—as|JJ a|DT fossil|NN called|VBN microraptor|NN show|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN some|DT point|NN during|IN the|DT jurassic|JJ period|NN a|DT group|NN of|IN dinosaurs|NNS evolved|VBN feather|NN </s>|S_END
+<s>|S_START these|DT may|MD have|VB been|VBN for|IN warmth|NN for|IN display|NN or|CC for|IN both|DT </s>|S_END
+<s>|S_START they|PRP were|VBD certainly|RB not|RB at|IN the|DT beginning|NN for|IN flight|NN </s>|S_END
+<s>|S_START but|CC in|IN one|CD line|NN of|IN these|DT dinosaurs|NNS evolution|NN modified|VBD them|PRP for|IN precisely|RB that|WDT purpose|NN </s>|S_END
+<s>|S_START this|DT modification|NN led|VBD via|IN archaeopteryx|NN a|DT species|NN that|WDT lived|VBD 150m|CD years|NNS ago|RB to|TO bird|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START feathered|VBD dinosaurs|NNS did|VBD not|RB go|VB away|RB just|RB because|IN they|PRP had|VBD spun|VBN off|RP the|DT birds|NNS though|IN </s>|S_END
+<s>|S_START they|PRP persisted|VBD right|RB up|IN until|IN the|DT end|NN of|IN the|DT cretaceous|JJ period|NN 65m|CD years|NNS ago|RB when|WRB all|DT nonavian|JJ dinosaurs|NNS met|VBP their|PRP$ end|NN </s>|S_END
+<s>|S_START and|CC well|RB before|IN that|IN in|IN a|DT part|NN of|IN the|DT cretaceous|JJ called|VBN the|DT aptian|JJ 120m|CD years|NNS ago|RB the|DT whole|JJ thing|NN happened|VBD again|RB in|IN the|DT form|NN of|IN microraptor|NN </s>|S_END
+<s>|S_START except|IN that|DT this|DT time|NN the|DT flying|NN animal|NN in|IN question|NN had|VBD four|CD wings|NNS rather|RB than|IN two|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microraptor’s|NNS existence|VBP raises|NNS two|CD questions|NNS exactly|RB how|WRB did|VBD it|PRP deploy|VB its|PRP$ four|CD wings|NNS and|CC why|WRB does|VBZ it|PRP have|VB no|DT living|NN descendant|NN </s>|S_END
+<s>|S_START the|DT answers|NNS according|VBG to|TO michael|VB habib|NN and|CC justin|NN hall|NN of|IN the|DT university|NN of|IN southern|NN california|NN are|VBP linked|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START until|IN recently|RB there|RB were|VBD two|CD schools|NNS of|IN thought|NN about|IN how|WRB microraptor|NN carried|VBN its|PRP$ wings|NNS when|WRB in|IN flight|NN </s>|S_END
+<s>|S_START one|CD school|NN proposed|VBD that|IN it|PRP looked|VBD like|IN a|DT biplane|NN holding|VBG one|CD set|NN of|IN wings|NNS above|IN the|DT other|JJ when|WRB it|PRP flew|VBP </s>|S_END
+<s>|S_START the|DT second|JJ school|NN suggested|VBD that|IN all|DT four|CD wings|NNS were|VBD coplanar|NN </s>|S_END
+<s>|S_START dr|NN habib|NN and|CC mr|NN hall|NN however|RB think|VBP both|DT are|VBP wrong|JJ </s>|S_END
+<s>|S_START they|PRP see|VBP a|DT division|NN of|IN labour|PRP$ between|IN the|DT two|CD sets|NNS of|IN wing|VBG </s>|S_END
+<s>|S_START the|DT front|NN pair|NN they|PRP agree|VBP provided|VBN lift|NN </s>|S_END
+<s>|S_START but|CC they|PRP believe|VBP that|IN the|DT back|NN pair|NN were|VBD for|IN steering|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microraptor’s|NNS hindwings|NNS were|VBD radically|RB different|JJ in|IN shape|NN from|IN its|PRP$ forewing|NN </s>|S_END
+<s>|S_START rather|RB than|IN being|VBG lithe|DT and|CC graceful|JJ they|PRP were|VBD short|JJ and|CC stubby|JJ </s>|S_END
+<s>|S_START but|CC they|PRP would|MD have|VB made|VBN good|JJ rudders|NNS as|IN dr|NN habib|NN and|CC mr|NN hall|NN have|VBP demonstrated|VBN using|VBG a|DT computer|NN model|NN of|IN them|PRP </s>|S_END
+<s>|S_START this|DT suggests|VBZ they|PRP would|MD have|VB allowed|VBN the|DT animal|JJ to|TO reduce|VB the|DT radius|NN of|IN its|PRP$ turning|NN circle|NN by|IN 40|CD and|CC almost|RB triple|JJ the|DT speed|NN of|IN a|DT turn|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT makes|VBZ sense|NN </s>|S_END
+<s>|S_START the|DT rocks|NNS microraptor|NN fossils|NNS are|VBP found|VBN in|IN are|VBP also|RB full|JJ of|IN tree|NN </s>|S_END
+<s>|S_START clearly|RB it|PRP was|VBD a|DT forest|NN animal|NN </s>|S_END
+<s>|S_START predatory|NN birds|NNS that|WDT dwell|NN in|IN modern|JJ forests|NNS such|JJ as|IN the|DT sharpshinned|VBN hawk|NN are|VBP masters|NNS of|IN making|VBG tight|JJ quick|NN turns|VBZ around|IN trunks|NNS and|CC over|IN branches|NNS as|IN they|PRP pursue|VBP their|PRP$ prey|NN </s>|S_END
+<s>|S_START that|DT microraptor|NN was|VBD a|DT predator|NN is|VBZ known|VBN because|IN one|CD specimen|NNS has|VBZ a|DT bird|JJ in|IN its|PRP$ belly|RB </s>|S_END
+<s>|S_START it|PRP would|MD surely|RB have|VB benefited|VBN from|IN a|DT similar|JJ capability|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START why|WRB then|RB was|VBD such|JJ an|DT aerial|JJ paragon|NN not|RB ancestral|JJ to|TO any|DT modern|JJ creature|NN </s>|S_END
+<s>|S_START one|CD possibility|NN is|VBZ bad|JJ luck|NN </s>|S_END
+<s>|S_START the|DT mass|NN extinction|NN at|IN the|DT end|NN of|IN the|DT cretaceous|JJ was|VBD caused|VBN by|IN a|DT collision|NN between|IN earth|JJ and|CC an|DT asteroid|JJ or|CC comet|NN </s>|S_END
+<s>|S_START though|IN some|DT groups|NNS of|IN animals|NNS did|VBD better|RBR than|IN others|NNS survival|NN was|VBD often|RB at|IN random|NN </s>|S_END
+<s>|S_START however|RB the|DT fossil|NN record|NN does|VBZ not|RB prove|VB that|IN any|DT microraptor–like|JJ animal|JJ actually|RB made|VBN it|PRP to|TO the|DT end|NN of|IN the|DT cretaceou|NN </s>|S_END
+<s>|S_START they|PRP probably|RB become|VBP extinct|JJ well|RB before|IN that|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN habib|NN proposes|NNS that|WDT what|WP actually|RB did|VBD for|IN microraptor|NN was|VBD what|WP he|PRP calls|VBZ a|DT drag|NN tax|NN </s>|S_END
+<s>|S_START his|PRP$ model|NN suggests|VBZ the|DT manoeuvrability|NN that|IN its|PRP$ hind|NN wings|NNS granted|VBD the|DT animal|JJ came|NN at|IN the|DT expense|NN of|IN increased|VBN drag|NN </s>|S_END
+<s>|S_START modern|JJ birds|NNS do|VBP not|RB pay|VB the|DT drag|NN tax|NN because|IN their|PRP$ manoeuvrability|NN results|NNS from|IN a|DT single|JJ pair|NN of|IN wings|NNS that|WDT are|VBP better|RBR able|JJ to|TO cope|VB with|IN stress|NN than|IN microraptor’s|NNS forewings|NNS were|VBD </s>|S_END
+<s>|S_START that|DT stressresistance|NN is|VBZ provided|VBN by|IN muscles|NNS which|WDT are|VBP attached|VBN to|TO a|DT keellike|NN extension|NN of|IN the|DT sternum|NN </s>|S_END
+<s>|S_START microraptor|NN lacked|VBD this|DT keel|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START according|VBG to|TO dr|VB habib|NN birds|NNS adapted|VBD for|IN forest|JJS flight|NN are|VBP able|JJ to|TO make|VB the|DT same|JJ turns|NNS that|WDT microraptor|NN made|VBD but|CC without|IN losing|VBG nearly|RB as|IN much|JJ energy|NN to|TO drag|VB </s>|S_END
+<s>|S_START this|DT he|PRP argues|VBZ made|VBN bird|NN flight|NN more|RBR efficient—and|JJ that|IN would|MD have|VB made|VBN it|PRP impossible|JJ for|IN microraptor|NN to|TO compete|VB </s>|S_END
+</p>|P_END
+

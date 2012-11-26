@@ -1,0 +1,85 @@
+<p>|P_START
+<s>|S_START house|NN republicans|NNS and|CC top|VB postal|JJ officials|NNS dont|VBP like|IN the|DT senates|NNS postal|VBP bill|NN </s>|S_END
+<s>|S_START postal|JJ closures|NNS could|MD happen|VB before|IN congress|NN comes|VBZ to|TO a|DT deal|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START washington|NN cnnmoney|NN a|DT senate|NN bill|NN passed|VBD this|DT week|NN to|TO rescue|VB the|DT indebted|VBN us|PRP </s>|S_END
+<s>|S_START postal|JJ service|NN is|VBZ drawing|VBG fire|NN from|IN key|JJ agency|NN officials|NNS and|CC house|NN republican|NN leaders|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC its|PRP$ looking|NN increasingly|RB unlikely|RB that|IN the|DT house|NN and|CC senate|NN will|MD agree|VB on|IN a|DT plan|NN to|TO save|VB the|DT postal|JJ service|NN by|IN may|MD 15|CD when|WRB a|DT moratorium|NN on|IN closing|JJ postal|NN processing|NN plants|NNS expires|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT postal|JJ service|NN board|NN of|IN governors|NNS the|DT panel|NN that|IN runs|VBZ the|DT service|NN issued|VBD a|DT statement|NN late|NN wednesday|NN saying|VBG the|DT senate|NN bill|NN falls|NNS short|JJ and|CC would|MD not|RB enable|VB the|DT postal|JJ service|NN to|TO return|VB to|TO financial|JJ viability|NN </s>|S_END
+<s>|S_START the|DT senate|NN bill|NN passed|VBD wednesday|NN night|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START rep|NN darrell|VBD issa|NN of|IN california|NN who|WP has|VBZ authored|VBN a|DT house|NN plan|NN to|TO save|VB the|DT postal|JJ service|NN called|VBN the|DT senate|NN bill|NN wholly|RB unacceptable|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START aides|NNS say|VBP republican|JJ leaders|NNS dont|VBP feel|NN pressured|VBN to|TO take|VB up|RP the|DT house|NN bill|NN right|RB away|RB because|IN theyre|NN not|RB worried|VBN about|IN postal|JJ closures|NNS </s>|S_END
+<s>|S_START in|IN fact|NN the|DT house|NN legislation|NN paves|NNS the|DT way|NN for|IN more|JJR closures|NNS as|IN well|RB as|IN the|DT end|NN of|IN saturday|NN service|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT house|NN bill|NN also|RB breaks|VBZ union|NN contracts|NNS making|VBG it|PRP easier|JJR to|TO lay|VB off|RP postal|JJ employees|NNS or|CC force|VB those|DT eligible|JJ to|TO retire|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START without|IN congressional|JJ help|NN the|DT postal|JJ service|NN will|MD pursue|VB its|PRP$ own|JJ plans|NNS to|TO cut|VB saturday|NN service|NN delay|NN mail|NN delivery|NN and|CC close|JJ hundreds|NNS of|IN postal|JJ processing|NN plants|NNS and|CC post|NN offices|NNS triggering|VBG thousands|NNS of|IN job|NN cuts|NNS nationwide|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT recession|NN declining|VBG mail|NN volume|NN and|CC a|DT congressional|JJ mandate|NN to|TO prefund|VB retirement|NN health|NN care|NN benefits|NNS have|VBP put|VBN the|DT service|NN in|IN a|DT bind|NN </s>|S_END
+<s>|S_START it|PRP reported|VBD a|DT $|$ 51|CD billion|CD loss|NN for|IN the|DT year|NN ended|VBD sept|NN 30|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START postmaster|NN general|JJ patrick|NN donahoe|NN said|VBD the|DT senate|NN bill|NN doesnt|NN move|NN fast|NN enough|RB to|TO address|VB cost|NN reduction|NN goals|NNS </s>|S_END
+<s>|S_START but|CC at|IN a|DT hearing|NN last|JJ month|NN he|PRP said|VBD likes|NNS practically|RB everything|VBG in|IN the|DT house|NN bill|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD of|IN the|DT things|NNS that|IN postal|JJ service|NN chiefs|NNS and|CC house|VB republicans|NNS dont|NN like|IN in|IN the|DT senate|NN bill|NN are|VBP all|DT the|DT extra|JJ roadblocks|NNS that|WDT would|MD prevent|VB the|DT closing|JJ of|IN postal|JJ plants|NNS and|CC offices|NNS </s>|S_END
+<s>|S_START they|PRP also|RB dont|VBP like|IN how|WRB senators|NNS delayed|VBN the|DT elimination|NN of|IN saturday|NN mail|NN service|NN by|IN at|IN least|JJS two|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT house|NN bill|NN would|MD give|VB the|DT postal|JJ service|NN two|CD years|NNS to|TO make|VB drastic|JJ cuts|NNS to|TO plants|NNS offices|NNS and|CC saturday|NN service|NN </s>|S_END
+<s>|S_START if|IN the|DT cuts|NNS dont|VBP take|VB the|DT house|NN bill|NN sets|VBZ up|RP an|DT independent|JJ panel|NN that|WDT would|MD supplant|VB the|DT us|PRP </s>|S_END
+<s>|S_START postal|JJ service|NN board|NN and|CC make|VB the|DT cuts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX are|VBP similarities|NNS between|IN the|DT house|NN and|CC senate|NN bills|NNS </s>|S_END
+<s>|S_START both|DT give|JJ the|DT postal|JJ service|NN the|DT ability|NN to|TO borrow|VB more|JJR in|IN different|JJ situations|NNS </s>|S_END
+<s>|S_START and|CC both|DT tap|NN an|DT $|$ 11|CD billion|CD overpayment|NN in|IN the|DT federal|JJ employees|NNS retirement|NN system|NN to|TO pay|VB down|RP postal|JJ service|NN debt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT senate|NN would|MD also|RB use|VB that|IN money|NN to|TO offer|VB buyout|IN packages|NNS to|TO entice|VB longtime|NN employees|NNS to|TO retire|VB </s>|S_END
+<s>|S_START the|DT house|NN doesnt|NN force|NN the|DT postal|JJ service|NN to|TO use|VB that|IN money|NN on|IN incentives|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT house|NN would|MD limit|VB the|DT postal|JJ services|NNS ability|NN to|TO tap|VB future|JJ overpayments|NNS in|IN the|DT retirement|NN service|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unions|NNS dont|VBP like|IN either|DT bill|NN </s>|S_END
+<s>|S_START but|CC they|PRP particularly|RB dont|JJ like|IN the|DT house|NN bill|NN as|IN it|PRP would|MD gut|VB collective|JJ bargaining|NN according|VBG to|TO the|DT american|NN postal|NN workers|NNS union|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT house|NN bill|NN also|RB continues|VBZ to|TO require|VB that|IN the|DT postal|JJ service|NN make|VBP regular|JJ billiondollar|JJ payments|NNS to|TO treasury|VB to|TO prefund|VB health|NN care|NN benefits|NNS for|IN retirees|NNS which|WDT the|DT unions|NNS blame|VBD as|IN the|DT main|JJ culprit|NN of|IN the|DT services|NNS woes|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN the|DT congressional|JJ budget|NN office|NN said|VBD the|DT senate|NN bill|NN costs|NNS $|$ 336|CD billion|CD the|DT house|NN bill|NN costs|NNS $|$ 8|CD billion |CD </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,53 @@
+<p>|P_START
+<s>|S_START “why|JJ did|VBD the|DT turtle|NN stick|NN its|PRP$ head|NN in|IN a|DT bucket”|NN sounds|VBZ like|IN the|DT sort|NN of|IN riddle|NN asked|VBD by|IN tenyearolds|NNS in|IN school|NN playground|NN </s>|S_END
+<s>|S_START but|CC it|PRP was|VBD also|RB asked|VBN recently|RB by|IN yuen|NN ip|NN of|IN the|DT national|JJ university|NN of|IN singapore|NN </s>|S_END
+<s>|S_START and|CC his|PRP$ answer|NN it|PRP has|VBZ to|TO be|VB said|VBN is|VBZ precisely|RB the|DT sort|NN that|IN would|MD appeal|VB to|TO a|DT tenyearold|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ that|IN turtles|NNS pee|VBP through|IN their|PRP$ mouth|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT turtles|NNS in|IN question|NN are|VBP a|DT species|NNS known|VBN as|IN the|DT chinese|NN softshell|NN </s>|S_END
+<s>|S_START by|IN preference|NN they|PRP live|VBP in|IN brackish|JJ swamp|NN </s>|S_END
+<s>|S_START but|CC such|JJ swamps|NNS are|VBP liable|JJ to|TO dry|JJ up|IN and|CC then|RB the|DT turtles|NNS often|RB do|VBP something|NN which|WDT has|VBZ puzzled|VBN zoologists|NNS for|IN centuries|NNS they|PRP put|VBD their|PRP$ heads|NNS into|IN those|DT small|JJ pools|NNS of|IN water|NN which|WDT remain|NN and|CC hold|VB them|PRP there|EX for|IN as|RB long|JJ as|IN two|CD hour|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN 1886|CD a|DT pair|NN of|IN american|JJ biologists|NNS called|VBN gage|NN who|WP were|VBD investigating|VBG this|DT curious|JJ behaviour|NN dissected|VBD several|JJ turtles|NNS and|CC found|VBN something|NN strange|NN in|IN the|DT animals’|NN mouths|NNS namely|RB a|DT set|NN of|IN structures|NNS that|WDT look|NN like|IN gill|NN </s>|S_END
+<s>|S_START that|DT they|PRP felt|VBD explained|VBN how|WRB turtles|NNS were|VBD able|JJ to|TO perform|NN their|PRP$ headinapool|NN trick|NN but|CC not|RB why|WRB </s>|S_END
+<s>|S_START oftshells|NNS are|VBP not|RB compelled|VBN to|TO breathe|DT through|IN their|PRP$ gills|NNS they|PRP have|VBP a|DT perfectly|RB adequate|JJ pair|NN of|IN lungs|NNS to|TO do|VB the|DT job|NN </s>|S_END
+<s>|S_START nor|CC did|VBD zoologists|NNS take|VB seriously|RB the|DT hypothesis|NN that|IN the|DT reptiles|NNS were|VBD pining|VBG for|IN their|PRP$ aquatic|JJ homes|NNS and|CC putting|VBG their|PRP$ heads|NNS in|IN puddles|NNS to|TO keep|VB their|PRP$ spirits|NNS up|IN </s>|S_END
+<s>|S_START o|NN with|IN the|DT aid|NN of|IN a|DT dozen|NN turtles|NNS purchased|VBD from|IN a|DT local|JJ market|NN dr|NN ip|NN decided|VBD he|PRP would|MD try|VB to|TO solve|VB the|DT mystery|NN once|RB and|CC for|IN all|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO do|VB so|RB he|PRP strapped|VBD the|DT animals|NNS down|IN to|TO stop|VB them|PRP moving|VBG and|CC provided|VBN each|DT with|IN a|DT container|NN of|IN water|NN into|IN which|WDT it|PRP could|MD dip|VB its|PRP$ head|NN if|IN it|PRP chose|VBD </s>|S_END
+<s>|S_START he|PRP also|RB fitted|VBD each|DT turtle|NN with|IN a|DT plastic|JJ box|NN that|WDT collected|VBN its|PRP$ urine|NN for|IN he|PRP had|VBD a|DT suspicion|NN that|WDT therein|NN lay|VBP the|DT key|JJ to|TO the|DT mystery|NN </s>|S_END
+<s>|S_START this|DT done|NN he|PRP monitored|VBD the|DT animals|NNS for|IN six|CD days|NNS paying|VBG particular|JJ attention|NN to|TO the|DT chemistry|NN of|IN the|DT water|NN in|IN the|DT container|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN expected|VBN the|DT turtles|NNS periodically|RB submerged|VBD their|PRP$ heads|NNS in|IN the|DT water|NN for|IN between|IN 20|CD and|CC 100|CD minutes|NNS at|IN a|DT time|NN </s>|S_END
+<s>|S_START during|IN these|DT periods|NNS dr|VBP ip|NN noted|VBD that|IN oxygen|NN was|VBD being|VBG extracted|VBN from|IN it|PRP </s>|S_END
+<s>|S_START this|DT confirmed|VBN that|IN turtles|NNS can|MD indeed|VB breathe|DT underwater|NN through|IN their|PRP$ mouth|NN </s>|S_END
+<s>|S_START as|IN the|DT oxygen|NN level|NN fell|VBD though|IN something|NN else|RB rose|VBD the|DT level|NN of|IN urea|NN </s>|S_END
+<s>|S_START clearly|RB the|DT animals|NNS were|VBD disposing|VBG of|IN this|DT waste|NN product|NN by|IN secreting|NN it|PRP from|IN their|PRP$ mouths|NNS into|IN the|DT water|NN </s>|S_END
+<s>|S_START indeed|RB a|DT calculation|NN dr|NN ip|NN performed|VBD based|VBN on|IN the|DT volume|NN and|CC composition|NN of|IN the|DT urine|NN he|PRP collected|VBD in|IN the|DT plastic|JJ buckets|NNS and|CC of|IN the|DT headdunking|NN water|NN at|IN the|DT end|NN of|IN each|DT day|NN suggested|VBD that|IN only|RB 6|CD of|IN the|DT urea|NN excreted|VBD by|IN the|DT turtles|NNS was|VBD leaving|VBG them|PRP in|IN the|DT traditional|JJ manner|NN via|IN urine|NN </s>|S_END
+<s>|S_START the|DT question|NN was|VBD why|WRB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT most|RBS likely|JJ answer|NN as|IN he|PRP explains|VBZ in|IN a|DT paper|NN in|IN the|DT journal|NN of|IN experimental|JJ biology|NN is|VBZ that|IN urine|NN though|IN cheap|NN to|TO produce|VB when|WRB water|NN is|VBZ plentiful|JJ is|VBZ a|DT physiologically|RB costly|JJ product|NN when|WRB water|NN is|VBZ scarce|NN </s>|S_END
+<s>|S_START turtle|NN kidneys|NNS have|VBP difficulty|NN processing|VBG salt|NN water|NN so|RB for|IN an|DT animal|JJ that|IN lives|NNS in|IN a|DT brackish|JJ environment|NN potable|JJ water|NN is|VBZ always|RB scarce|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD way|NN round|NN this|DT for|IN a|DT swimming|NN animal|NN is|VBZ to|TO develop|VB an|DT outlet|NN which|WDT allows|VBZ urea|NN to|TO dissolve|VB directly|RB in|IN the|DT water|NN as|IN it|PRP swims|VBZ which|WDT is|VBZ what|WP the|DT turtles|NNS seem|VBP to|TO have|VB done|VBN </s>|S_END
+<s>|S_START dr|NN ip|NN looked|VBD at|IN which|WDT genes|NNS were|VBD active|JJ in|IN the|DT gilllike|NN structures|NNS of|IN the|DT mouth|NN and|CC found|VBD one|CD that|WDT appears|VBZ from|IN its|PRP$ similarity|NN to|TO genes|NNS of|IN known|VBN function|NN from|IN other|JJ species|NNS to|TO encode|VB a|DT urea|NN transporter|NN </s>|S_END
+<s>|S_START the|DT turtle’s|JJ gills|NNS then|RB not|RB only|RB take|VB in|IN oxygen|NN they|PRP also|RB excrete|VBP urea|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN there|EX is|VBZ insufficient|NN water|NN to|TO swim|VB in|IN however|NN the|DT turtles|NNS have|VBP to|TO resort|VB to|TO desperate|VB measure|NN </s>|S_END
+<s>|S_START the|DT reason|NN they|PRP stick|VBP their|PRP$ heads|NNS in|IN puddles|NNS is|VBZ in|IN order|NN to|TO relieve|VB themselve|JJ </s>|S_END
+</p>|P_END
+

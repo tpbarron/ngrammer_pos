@@ -1,0 +1,43 @@
+<p>|P_START
+<s>|S_START capital|NN </s>|S_END
+<s>|S_START by|IN john|NN lanchester|NN </s>|S_END
+<s>|S_START faber|NN faber|NN 577|CD pages|NNS £1799|-NONE- </s>|S_END
+<s>|S_START to|TO be|VB published|VBN in|IN america|NN in|IN june|NN by|IN norton|NN </s>|S_END
+<s>|S_START buy|NN from|IN amazoncouk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START any|DT neighbourhood|NN in|IN london|NN might|MD merit|VB its|PRP$ own|JJ novel|NN </s>|S_END
+<s>|S_START but|CC john|VBP lanchester|NN author|NN of|IN the|DT bestselling|NN “fragrant|JJ harbour”|NN chose|NN the|DT fictional|JJ pepys|NNS road|NN as|IN the|DT setting|NN for|IN “capital”|NN his|PRP$ new|JJ stateofthenation|NN story|NN </s>|S_END
+<s>|S_START like|IN many|JJ streets|NNS in|IN london|NN pepys|NNS road|VBP was|VBD smartened|VBN up|RP by|IN the|DT glory|NN days|NNS before|IN the|DT financial|JJ crisi|NN </s>|S_END
+<s>|S_START and|CC like|IN others|NNS elsewhere|RB the|DT tenants|NNS of|IN this|DT street|NN lived|VBD on|IN rather|RB shaky|JJ ground|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT novel|NN begins|VBZ in|IN december|NN 2007|CD and|CC ends|NNS a|DT year|NN later|JJ after|IN the|DT unwieldy|NN collapse|NN of|IN lehman|NN brother|NN </s>|S_END
+<s>|S_START this|DT is|VBZ a|DT london|NN of|IN swagger|JJR and|CC hubris|NNS and|CC the|DT story|NN is|VBZ cluttered|VBN with|IN more|JJR characters|NNS than|IN roger|JJR yount|NN the|DT banker|NN protagonist|NN knows|VBZ ways|NNS to|TO spend|VB money|NN </s>|S_END
+<s>|S_START each|DT character|NN lives|VBZ on|IN pepys|NNS road|NN or|CC orbits|NNS it|PRP and|CC their|PRP$ stories|NNS are|VBP fraught|VBN with|IN a|DT sense|NN of|IN impending|VBG lo|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT outset|NN residents|NNS receive|VBP eerie|NN postcards|NNS that|WDT say|VBP “we|JJ want|NN what|WP you|PRP have”|VBP petunia|NNS howe|VBP the|DT only|JJ tenant|NN born|NN on|IN pepys|NNS road|NN wonders|NNS how|WRB anyone|NN could|MD envy|VB her|PRP </s>|S_END
+<s>|S_START her|PRP$ struggle|NN with|IN a|DT brain|NN tumour|NN is|VBZ the|DT books|NNS most|JJS emotionally|RB resonant|JJ subplot|NN </s>|S_END
+<s>|S_START there|EX are|VBP countless|JJ others|NNS including|VBG a|DT city|NN banker|NN and|CC his|PRP$ selfobsessed|VBN wife|NN a|DT polish|JJ construction|NN worker|NN a|DT senegalese|NN footballer|NN and|CC pakistani|NN shopkeeper|NN </s>|S_END
+<s>|S_START what|WP binds|NNS these|DT stories|NNS together|RB is|VBZ a|DT growing|VBG awareness|NN of|IN how|WRB quickly|RB fortunes|VBZ can|MD change|VB and|CC how|WRB easily|RB perception|NN diverges|NNS from|IN reality|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN lanchester|NN is|VBZ not|RB the|DT first|JJ postcrisis|NN novelist|NN to|TO consider|VB londoners|NNS and|CC their|PRP$ money|NN </s>|S_END
+<s>|S_START there|EX was|VBD justin|NN cartwrights|NNS very|RB funny|JJ “other|JJ peoples|NNS money”|-NONE- and|CC sebastian|JJ faulkss|NN “a|NN week|NN in|IN december”|NNP </s>|S_END
+<s>|S_START “capital”|NN manages|NNS to|TO be|VB both|DT less|JJR entertaining|VBG and|CC shallower|JJR than|IN these|DT books|NNS while|IN also|RB running|VBG quite|RB a|DT bit|NN longer|NN </s>|S_END
+<s>|S_START flabby|NN and|CC repetitive|JJ writing|NN explains|VBZ some|DT of|IN this|DT heft|NN </s>|S_END
+<s>|S_START there|EX is|VBZ also|RB plenty|JJ of|IN lazy|JJ imagery|NN which|WDT compares|VBZ one|CD characters|NNS breakdown|IN to|TO “an|JJ iceberg|NN cracking|VBG or|CC a|DT huge|JJ sheet|NN of|IN glass|NN shattering|VBG into|IN fragments”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT might|MD be|VB forgiven|VBN if|IN mr|NN lanchesters|NNS characters|NNS could|MD carry|VB the|DT weight|NN of|IN his|PRP$ book|NN </s>|S_END
+<s>|S_START but|CC there|EX are|VBP so|RB many|JJ of|IN them|PRP and|CC they|PRP are|VBP so|RB lightly|RB sketched|VBN that|IN only|RB ten|VBN pages|NNS before|IN the|DT end|NN of|IN the|DT book|NN he|PRP feels|VBZ the|DT need|NN to|TO remind|VB readers|NNS about|IN the|DT identity|NN of|IN a|DT central|JJ figure|NN </s>|S_END
+<s>|S_START in|IN this|DT way|NN “capital”|NN is|VBZ like|IN the|DT city|NN he|PRP is|VBZ trying|VBG to|TO evoke|VB so|RB crowded|VBN with|IN people|NNS that|IN they|PRP pass|VBP each|DT other|JJ impersonally|RB </s>|S_END
+<s>|S_START no|DT one|NN needs|VBZ to|TO read|VB so|RB many|JJ pages|NNS to|TO recreate|VB that|IN experience|NN </s>|S_END
+</p>|P_END
+

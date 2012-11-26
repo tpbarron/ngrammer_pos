@@ -1,0 +1,15 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 02|CD gdp|NN $|$ 638bn|CD ppp|CD $|$ 363bn|CD inflation|NN 04|CD population|NN 80m|CD gdp|NN per|IN head|NN $|$ 79810|CD ppp|CD $|$ 45450|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT swiss|NN francs|NNS safehaven|RB status|VBZ poses|NNS a|DT threat|NN to|TO the|DT economy|NN as|IN capital|NN fleeing|VBG global|JJ financial|JJ risk|NN drives|NNS up|IN the|DT currencys|NNS value|NN eroding|VBG the|DT countrys|NNS export|NN competitiveness|NN and|CC threatening|VBG deflation|NN </s>|S_END
+<s>|S_START the|DT authorities|NNS have|VBP demonstrated|VBN their|PRP$ willingness|NN to|TO adopt|VB unconventional|JJ defences|NNS against|IN currency|NN appreciation|NN but|CC this|DT will|MD be|VB tested|VBN if|IN crises|NNS in|IN the|DT rich|JJ worlds|NNS economy|NN deepen|NN </s>|S_END
+<s>|S_START the|DT economy|NN will|MD languish|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB closed|VBN door|NN </s>|S_END
+<s>|S_START the|DT rightwing|NN swiss|NN peoples|NNS party|NN will|MD succeed|VB in|IN forcing|NN a|DT referendum|NN on|IN tightening|NN immigration|NN policy|NN but|CC will|MD probably|RB fail|VB to|TO prise|VB switzerland|NN out|IN of|IN its|PRP$ accord|NN with|IN the|DT eu|NN on|IN labour|PRP$ mobility|NN </s>|S_END
+</p>|P_END
+

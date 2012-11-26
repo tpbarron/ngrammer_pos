@@ -1,0 +1,75 @@
+<p>|P_START
+<s>|S_START microsoft|NN ceo|VBD steve|NN ballmer|NN says|VBZ the|DT company|NN will|MD make|VB more|RBR devices|NNS like|IN the|DT surface|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN microsoft|NN is|VBZ undergoing|VBG a|DT significant|JJ shift|NN in|IN the|DT way|NN it|PRP does|VBZ business|NN moving|VBG away|RB from|IN software|NN as|IN its|PRP$ sole|JJ focus|NN and|CC toward|IN making|VBG hardware|NN online|NN services|NNS and|CC apps|NNS work|VBP together|RB seamlessly|RB across|IN multiple|NN screens|NNS and|CC gadgets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN that|DT strategy|NN sounds|VBZ familiar|JJ thats|NNS because|IN its|PRP$ embodied|VBN by|IN microsoft|NN rival|NN apple|NN aapl|NN fortune|NN 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ceo|NN steve|VBP ballmer|NN who|WP mapped|VBN out|RP microsofts|NNS new|JJ course|NN in|IN a|DT letter|NN to|TO shareholders|NNS said|VBD he|PRP now|RB sees|VBZ microsoft|VBN as|IN a|DT devices|NNS and|CC services|NNS company|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoft|NN msft|VBD fortune|NN 500|CD has|VBZ already|RB begun|VBN that|IN shift|NN by|IN designing|NN its|PRP$ first|JJ personal|JJ computer|NN the|DT surface|NN tablet|NN which|WDT will|MD go|VB on|IN sale|NN oct|NN 26|CD </s>|S_END
+<s>|S_START ballmer|NN said|VBD to|TO expect|VB more|JJR microsoftbuilt|JJ gadgets|NNS in|IN the|DT future|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX will|MD be|VB times|NNS when|WRB we|PRP build|VBP specific|JJ devices|NNS for|IN specific|JJ purposes|NNS as|IN we|PRP have|VBP chosen|VBN to|TO do|VB with|IN xbox|NN and|CC the|DT recently|RB announced|VBD microsoft|NN surface|NN ballmer|NN wrote|VBD </s>|S_END
+<s>|S_START it|PRP truly|RB is|VBZ a|DT new|JJ era|NN at|IN microsoft|NN an|DT era|NN of|IN incredible|JJ opportunity|NN for|IN us|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsoft|NN will|MD not|RB do|VB away|RB with|IN its|PRP$ traditional|JJ business|NN model|NN of|IN selling|VBG its|PRP$ software|NN to|TO device|NN makers|NNS he|PRP stressed|VBD as|IN it|PRP will|MD continue|VB to|TO work|VB with|IN its|PRP$ vast|JJ ecosystem|NN of|IN partners|NNS </s>|S_END
+<s>|S_START ballmer|NN believes|NNS that|WDT a|DT dual|JJ strategy|NN packaging|NN microsofts|NNS software|NN with|IN its|PRP$ own|JJ devices|NNS while|IN still|RB licensing|VBG operating|NN systems|NNS to|TO other|JJ hardware|NN makers|NNS will|MD help|VB his|PRP$ company|NN expand|NN enormous|VBZ user|NN base|NN of|IN 13|CD billion|CD windows|NNS customers|NNS across|IN the|DT globe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN other|JJ words|NNS microsoft|VBP wants|NNS to|TO borrow|VB some|DT of|IN the|DT tactics|NNS apple|VBP used|VBN to|TO become|VB the|DT largest|JJS tech|NN company|NN in|IN the|DT world|NN by|IN sales|NNS and|CC market|NN value|NN while|IN also|RB hanging|VBG on|IN to|TO the|DT strategy|NN that|IN made|VBN windows|NNS the|DT worlds|NNS mostubiquitous|JJ operating|NN system|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD story|NN microsofts|NNS solution|NN to|TO its|PRP$ vision|NN problem|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ a|DT playbook|NN that|WDT google|NN goog|VBP fortune|NN 500|CD is|VBZ also|RB testing|VBG out|RP </s>|S_END
+<s>|S_START googles|NNS android|VBD dominates|NNS apple|VBP in|IN terms|NNS of|IN overall|JJ smartphone|NN share|NN but|CC in|IN buying|NN motorola|NN mobility|NN google|NN catapulted|VBD itself|PRP into|IN the|DT consumer|NN electronics|NNS market|NN </s>|S_END
+<s>|S_START it|PRP plans|VBZ to|TO follow|VB apples|NNS script|VB and|CC better|JJR pair|NN its|PRP$ software|NN with|IN innovative|JJ hardware|NN offerings|NNS that|WDT it|PRP designs|VBZ and|CC manufacturers|NNS itself|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START microsofts|NNS strategy|VBP shift|NN comes|VBZ at|IN a|DT critical|JJ time|NN for|IN the|DT company|NN </s>|S_END
+<s>|S_START the|DT business|NN is|VBZ still|RB performing|VBG well|RB overall|JJ but|CC windows|VBZ sales|NNS fell|VBD 3|CD between|IN june|NN 2011|CD and|CC june|NN 2012|CD and|CC windows|VBZ phone|NN has|VBZ failed|VBN to|TO catch|VB on|IN despite|IN a|DT massive|JJ advertising|NN blitz|NN and|CC highprofile|JJ partnership|NN with|IN nokia|NN nok|NN </s>|S_END
+<s>|S_START microsofts|NNS bing|VBG search|NN engine|NN maps|NNS outlook|VBP email|NN and|CC other|JJ online|NN services|NNS have|VBP progressed|VBN more|RBR slowly|RB than|IN the|DT company|NN had|VBD hoped|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT are|VBP the|DT revenue|NN streams|NNS of|IN the|DT future|NN </s>|S_END
+<s>|S_START if|IN it|PRP doesnt|VBP start|NN generating|VBG some|DT hits|NNS microsoft|VBP risks|NNS being|VBG left|VBN behind|IN with|IN a|DT large|JJ but|CC steadily|RB eroding|VBG empire|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START because|IN of|IN those|DT mixed|VBN results|NNS ballmer|NN was|VBD one|CD of|IN two|CD microsoft|JJ executives|NNS this|DT past|JJ year|NN who|WP didnt|NN take|VBP home|NN his|PRP$ full|JJ performance|NN bonus|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ballmer|NN got|VBD just|RB 91|CD of|IN his|PRP$ target|NN or|CC $|$ 620000|CD </s>|S_END
+<s>|S_START it|PRP was|VBD his|PRP$ lowest|JJS bonus|NN since|IN 2009|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START windows|NNS chief|VBP steven|VBN sinofsky|NN was|VBD the|DT other|JJ executive|NN who|WP didnt|NN get|VBP his|PRP$ full|JJ bonus|NN </s>|S_END
+<s>|S_START he|PRP took|VBD home|NN 90|CD of|IN his|PRP$ target|NN bonuses|NNS and|CC incentives|NNS which|WDT still|RB totaled|VBD more|JJR than|IN $|$ 7|CD million|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sinofsky|NN and|CC ballmer|NN had|VBD their|PRP$ bonuses|NNS trimmed|VBD in|IN part|NN because|IN of|IN the|DT companys|NNS failure|VBP to|TO provide|VB a|DT browser|NN choice|NN screen|NN on|IN european|JJ windows|NNS pcs|NNS as|IN required|VBN by|IN its|PRP$ 2009|CD antitrust|JJ settlement|NN </s>|S_END
+<s>|S_START microsoft|NN said|VBD it|PRP was|VBD an|DT inadvertent|NN mistake|NN but|CC the|DT european|JJ commission|NN said|VBD it|PRP could|MD fine|VB microsoft|JJ up|IN to|TO $|$ 7|CD billion|CD for|IN the|DT error|NN </s>|S_END
+</p>|P_END
+

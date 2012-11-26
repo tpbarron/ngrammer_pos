@@ -1,0 +1,45 @@
+<p>|P_START
+<s>|S_START chinese|NN manufacturing|NN is|VBZ still|RB growing|VBG but|CC its|PRP$ slowing|NN down|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN chinese|NN manufacturing|NN growth|NN slowed|VBD to|TO a|DT near|NN standstill|NN in|IN july|RB the|DT government|NN reported|VBD wednesday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT national|JJ bureau|NN of|IN statistics|NNS said|VBD its|PRP$ index|NN of|IN purchasing|VBG managers|NNS sentiment|NN slipped|VBD to|TO 501|CD from|IN 502|CD in|IN june|NN </s>|S_END
+<s>|S_START anything|NN reading|NN above|IN 50|CD indicates|NNS growth|NN while|IN anything|NN below|IN 50|CD indicates|NNS contraction|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP was|VBD the|DT eighth|NN straight|NN month|NN of|IN expansion|NN for|IN chinese|JJ manufacturing|NN according|VBG to|TO the|DT index|NN after|IN slipping|VBG to|TO 49|CD last|JJ november|NN </s>|S_END
+<s>|S_START it|PRP grew|VBD steadily|RB from|IN that|DT point|NN until|IN april|NN when|WRB it|PRP peaked|VBD at|IN 533|CD before|IN dropping|NN for|IN the|DT past|JJ three|CD months|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT report|NN was|VBD another|DT indication|NN that|IN chinese|JJ growth|NN is|VBZ slowing|VBG </s>|S_END
+<s>|S_START last|JJ month|NN the|DT government|NN said|VBD the|DT nations|NNS gross|VBP domestic|JJ product|NN grew|VBD at|IN an|DT annual|JJ rate|NN of|IN 76|CD in|IN the|DT second|JJ quarter|NN down|IN from|IN 81|CD in|IN the|DT prior|NN quarter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT separate|JJ purchasing|NN managers|NNS survey|NN from|IN hsbc|NN said|VBD that|IN manufacturing|NN was|VBD declining|VBG but|CC at|IN a|DT slower|JJR pace|NN </s>|S_END
+<s>|S_START hsbc|NN said|VBD its|PRP$ pmi|NN rose|VBD to|TO 493|CD in|IN july|RB from|IN 482|CD in|IN the|DT prior|NN month|NN signaling|VBG only|RB a|DT marginal|JJ deterioration|NN in|IN chinese|JJ manufacturing|NN sector|NN operating|NN conditions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS weaker|VBP than|IN the|DT pmi|NN of|IN 495|CD that|WDT hsbc|NN projected|VBD in|IN its|PRP$ preliminary|JJ report|NN released|VBN on|IN july|RB 24|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START qinwei|NN wang|VBD china|NN economist|NN for|IN capital|NN economics|NNS said|VBD the|DT countrys|NNS manufacturing|VBG activity|NN appears|VBZ to|TO be|VB getting|VBG some|DT lift|NN from|IN government|NN stimulus|NN measures|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START chinese|NN authorities|NNS yesterday|NN reaffirmed|VBD that|IN growth|NN will|MD remain|VB their|PRP$ top|JJ priority|NN said|VBD wang|NN in|IN a|DT written|VBN report|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT economist|NN said|VBD that|IN pmi|NN is|VBZ likely|JJ to|TO pick|VB up|RP in|IN coming|VBG months|NNS boosted|VBN by|IN further|JJ policy|NN support|NN to|TO come|VB </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

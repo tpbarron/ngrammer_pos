@@ -1,0 +1,96 @@
+<p>|P_START
+<s>|S_START prices|NNS on|IN packages|NNS of|IN folgers|NNS and|CC dunkin|NN donuts|NNS coffee|VBP are|VBP going|VBG up|RP 11|CD </s>|S_END
+<s>|S_START click|NN photo|IN to|TO track|VB coffee|NN prices|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN your|PRP$ caffeine|NN kick|NN is|VBZ getting|VBG more|JJR expensive|JJ by|IN the|DT day|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START starbucks|NNS said|VBD wednesday|NN that|IN its|PRP$ hiking|NN prices|NNS of|IN its|PRP$ packaged|JJ coffee|NN by|IN an|DT average|JJ of|IN 17|CD in|IN its|PRP$ us|PRP retail|JJ stores|NNS </s>|S_END
+<s>|S_START the|DT price|NN increase|NN goes|VBZ into|IN effect|NN july|RB 16|CD and|CC will|MD mark|VB the|DT first|JJ time|NN starbucks|NNS sbux|VBP fortune|NN 500|CD has|VBZ raised|VBN prices|NNS of|IN packaged|JJ coffee|NN in|IN starbucks|NNS stores|NNS since|IN september|NN 2009|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN march|NN starbucks|NNS announced|VBD a|DT 12|CD hike|NN for|IN the|DT packaged|JJ brand|NN thats|NNS sold|VBD in|IN grocery|NN stores|NNS </s>|S_END
+<s>|S_START the|DT caféchain|JJ also|RB raised|VBD prices|NNS of|IN some|DT of|IN its|PRP$ more|JJR labor|NN intensive|JJ drinks|NNS late|JJ last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC starbucks|NNS isnt|VBP the|DT only|JJ one|CD inflicting|VBG higher|JJR prices|NNS on|IN its|PRP$ customers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START coffee|NN makers|NNS across|IN the|DT country|NN are|VBP doing|VBG the|DT same|JJ as|IN they|PRP struggle|VBP to|TO absorb|VB the|DT surging|NN cost|NN of|IN green|JJ coffee|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START green|JJ coffee|NN is|VBZ used|VBN to|TO make|VB the|DT different|JJ blends|NNS of|IN coffee|NN you|PRP buy|VB at|IN cafes|NNS or|CC grocery|NN stores|NNS and|CC poor|JJ growing|VBG conditions|NNS in|IN south|NN america|NN and|CC other|JJ coffeegrowing|NN countries|NNS have|VBP led|VBN to|TO fears|NNS of|IN an|DT imminent|JJ supply|NN crunch|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT supply|NN fears|NNS have|VBP also|RB caused|VBN coffee|NN futures|NNS to|TO soar|VB </s>|S_END
+<s>|S_START prices|NNS on|IN the|DT futures|NNS market|NN are|VBP up|IN a|DT whopping|NN 95|CD over|IN the|DT past|JJ 12|CD months|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN a|DT result|NN some|DT brands|NNS have|VBP been|VBN forced|VBN to|TO make|VB even|RB more|RBR drastic|JJ increases|NNS than|IN starbucks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT jm|NN </s>|S_END
+<s>|S_START smucker|NN sjm|NN fortune|NN 500|CD the|DT owner|NN of|IN folgers|NNS dunkin|VBP donuts|NNS and|CC millstone|NN along|IN with|IN kraft|NN foods|NNS kft|VBP fortune|NN 500|CD owner|NN of|IN maxwell|NN house|NN coffee|NN and|CC yuban|NN have|VBP raised|VBN prices|NNS of|IN coffee|NN products|NNS more|RBR than|IN three|CD times|NNS in|IN just|RB the|DT past|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START jm|NN </s>|S_END
+<s>|S_START smucker|NN said|VBD tuesday|NN that|IN it|PRP was|VBD increasing|VBG prices|NNS by|IN an|DT average|JJ of|IN 11|CD for|IN most|JJS of|IN its|PRP$ coffee|NN products|NNS </s>|S_END
+<s>|S_START that|DT follows|VBZ a|DT 10|CD hike|NN in|IN february|JJ and|CC another|DT 10|CD increase|NN in|IN august|NN last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB in|IN march|NN kraft|NN hiked|VBD prices|NNS of|IN select|NN coffee|NN products|NNS by|IN 70|CD cents|NNS per|IN pound|NN on|IN ground|NN coffee|NN and|CC 625|CD cents|NNS per|IN ounce|NN of|IN instant|JJ coffee|NN </s>|S_END
+<s>|S_START kraft|NN had|VBD already|RB raised|VBN those|DT prices|NNS in|IN december|NN 2010|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT increases|NNS were|VBD due|JJ to|TO the|DT significant|JJ sustained|VBN increase|NN in|IN the|DT cost|NN of|IN green|JJ coffee|NN a|DT kraft|NN spokeswoman|NN said|VBD </s>|S_END
+<s>|S_START krafts|NNS first|RB price|NN hike|RB came|VBD in|IN august|NN 2010|CD when|WRB the|DT company|NN announced|VBD a|DT 9|CD increase|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC its|PRP$ not|RB alone|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN an|DT attempt|NN to|TO offset|VB rising|VBG green|JJ coffee|NN costs|NNS as|RB well|RB as|IN increases|NNS in|IN other|JJ input|NN costs|NNS we|PRP are|VBP currently|RB in|IN the|DT process|NN of|IN raising|NN prices|NNS for|IN all|DT package|NN types|NNS said|VBD green|JJ mountain|NN ceo|NN larry|NN blanford|NN said|VBD on|IN the|DT companys|NNS earnings|NNS conference|NN call|NN on|IN may|MD 3|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START green|JJ mountain|NN coffee|NN roasters|NNS gmcr|VBP said|VBN consumers|NNS can|MD expect|VB to|TO see|VB an|DT increase|NN of|IN about|RB 10|CD at|IN the|DT point|NN of|IN purchase|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT unavoidable|JJ price|NN increases|NNS at|IN suppliers|NNS have|VBP had|VBN a|DT ripple|NN effect|NN on|IN grocery|NN stores|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START publix|NN for|IN example|NN has|VBZ been|VBN forced|VBN to|TO raise|VB prices|NNS by|IN 10|CD to|TO 12|CD each|DT time|NN its|PRP$ suppliers|NNS increase|VB their|PRP$ prices|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN prices|NNS vary|JJ weekly|RB a|DT pound|NN of|IN national|JJ brand|NN coffee|NN could|MD roughly|RB have|VB been|VBN around|IN $|$ 371|CD last|JJ year|NN and|CC $|$ 479|CD today|NN a|DT spokeswoman|NN said|VBD </s>|S_END
+<s>|S_START thats|NNS a|DT 29|CD jump|NN </s>|S_END
+<s>|S_START and|CC unless|IN growing|VBG conditions|NNS improve|VB and|CC supply|RB fears|NNS ease|VBP even|RB higher|JJR prices|NNS could|MD be|VB on|IN their|PRP$ way|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC so|RB far|RB this|DT hasnt|NN stopped|VBD java|NN lovers|NNS from|IN slurping|VBG down|IN their|PRP$ caffeinated|VBN beverages|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT international|JJ coffee|NN organization|NN expects|VBZ global|JJ coffee|NN consumption|NN to|TO continue|VB to|TO rise|VB this|DT year|NN despite|IN higher|JJR prices|NNS </s>|S_END
+<s>|S_START consumption|NN increased|VBD an|DT estimated|VBN 24|CD to|TO a|DT record|NN 134|CD million|CD 60kg|CD bags|NNS last|JJ year |NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,30 @@
+<p>|P_START
+<s>|S_START john|NN cerone|NN fills|NNS his|PRP$ gas|NN containers|NNS at|IN a|DT valero|NN gas|NN station|NN in|IN the|DT aftermath|NN of|IN superstorm|NN sandy|NN on|IN november|NN 5|CD 2012|CD in|IN mastic|JJ new|JJ york|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN gas|NN stations|NNS in|IN the|DT new|JJ york|NN metro|NN area|NN are|VBP gradually|RB coming|VBG back|RB online|JJ providing|NN hope|NN to|TO motorists|NNS and|CC also|RB those|DT who|WP are|VBP still|RB without|IN power|NN from|IN last|JJ weeks|NNS superstorm|NN sandy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT us|PRP energy|NN information|NN administration|NN said|VBD monday|NN that|IN 24|CD of|IN gas|NN stations|NNS in|IN the|DT metro|NN area|NN did|VBD not|RB have|VB gasoline|NN available|JJ for|IN sale|NN one|CD week|NN after|IN the|DT deadly|RB storm|NN swept|IN through|IN the|DT northeast|NN on|IN oct|NN 29|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS compared|VBN to|TO 27|CD of|IN gas|NN stations|NNS that|WDT were|VBD unavailable|JJ on|IN sunday|NN and|CC 67|CD on|IN friday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD gas|NN lines|NNS continue|VBP after|IN superstorm|NN sandy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START long|RB lines|VBZ of|IN cars|NNS have|VBP become|VBN a|DT common|JJ sight|NN at|IN gas|NN stations|NNS in|IN new|JJ york|NN city|NN and|CC new|JJ jersey|NN </s>|S_END
+<s>|S_START pedestrians|NNS holding|VBG gas|NN cans|NNS are|VBP also|RB queuing|VBG up|RP seeking|VBG fuel|NN for|IN the|DT generators|NNS powering|VBG their|PRP$ homes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shipping|VBG problems|NNS at|IN the|DT ports|NNS as|IN well|RB as|IN traffic|JJ jams|NNS resulting|VBG from|IN the|DT loss|NN of|IN mass|NN transit|NN have|VBP fouled|VBN up|RP supply|RB lines|NNS in|IN the|DT wake|NN of|IN the|DT storm|NN </s>|S_END
+<s>|S_START in|IN addition|NN many|JJ gas|NN stations|NNS lost|VBD power|NN during|IN sandy|NN and|CC with|IN it|PRP the|DT ability|NN to|TO pump|VB gas|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,100 @@
+<p>|P_START
+<s>|S_START about|IN 26000|CD teachers|NNS and|CC support|NN staff|NN are|VBP striking|VBG in|IN chicago|NN for|IN the|DT second|JJ week|NN in|IN a|DT row|NN </s>|S_END
+<s>|S_START the|DT strike|NN could|MD impact|VB the|DT governments|NNS monthly|RB jobs|NNS report|NN for|IN september|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN as|IN it|PRP drags|VBZ on|IN for|IN a|DT second|JJ week|NN the|DT chicago|NNP teachers|NNS strike|VBP is|VBZ so|RB large|JJ it|PRP could|MD distort|VB national|JJ economic|JJ statistics|NNS including|VBG the|DT labor|NN departments|NNS key|JJ monthly|JJ jobs|NNS report|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START about|IN 26000|CD teachers|NNS and|CC support|NN staff|NN are|VBP striking|VBG in|IN chicago|NN demanding|VBG higher|JJR pay|NN better|JJR job|NN security|NN and|CC changes|NNS to|TO a|DT new|JJ evaluation|NN system|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT strikes|NNS timing|VBG is|VBZ key|JJ in|IN that|DT it|PRP coincides|VBZ with|IN the|DT period|NN in|IN which|WDT the|DT government|NN collects|NNS data|NNS for|IN the|DT national|JJ jobs|NNS report|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START last|JJ month|NN that|WDT report|NN showed|VBD the|DT economy|NN added|VBD only|RB 96000|CD jobs|NNS </s>|S_END
+<s>|S_START the|DT number|NN was|VBD seen|VBN as|IN weak|JJ posing|NN a|DT challenge|NN for|IN president|NN obama|NN as|IN he|PRP faces|VBZ reelection|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START septembers|NNS report|VBP could|MD look|VB far|RB worse|JJR if|IN the|DT strike|NN continues|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD chicago|RB schools|NNS go|VBP to|TO court|NN to|TO end|VB strike|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START every|DT month|NN the|DT labor|NN department|NN surveys|NNS 141000|CD employers|NNS throughout|IN the|DT country|NN during|IN the|DT week|NN that|IN includes|VBZ the|DT 12th|JJ </s>|S_END
+<s>|S_START while|IN the|DT labor|NN department|NN does|VBZ not|RB release|VB the|DT names|NNS of|IN the|DT companies|NNS cnnmoney|NN has|VBZ confirmed|VBN independently|RB that|IN chicago|IN public|JJ schools|NNS the|DT third|JJ largest|JJS school|NN district|NN in|IN the|DT country|NN is|VBZ included|VBN in|IN the|DT sample|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START employers|NNS surveyed|VBN respond|NN to|TO simple|VB questions|NNS </s>|S_END
+<s>|S_START for|IN example|NN how|WRB many|JJ employees|NNS were|VBD on|IN their|PRP$ payroll|NN during|IN the|DT current|JJ pay|NN period|NN </s>|S_END
+<s>|S_START how|WRB many|JJ hours|NNS did|VBD they|PRP work|VBP </s>|S_END
+<s>|S_START what|WP wages|NNS did|VBD they|PRP earn|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT case|NN of|IN chicago|NN public|JJ schools|NNS teachers|NNS are|VBP paid|VBN on|IN a|DT biweekly|JJ schedule|NN </s>|S_END
+<s>|S_START the|DT current|JJ pay|NN period|NN started|VBD september|NN 9|CD and|CC runs|VBZ through|IN this|DT saturday|NN september|NN 22|CD </s>|S_END
+<s>|S_START the|DT teachers|NNS that|WDT are|VBP striking|VBG are|VBP not|RB receiving|VBG any|DT pay|NN from|IN the|DT school|NN district|NN during|IN that|DT time|NN unless|IN they|PRP report|VBP back|RB to|TO work|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START only|RB chicago|VBP teachers|NNS union|NN members|NNS who|WP we|PRP can|MD confirm|VB reported|VBN to|TO work|VB during|IN the|DT strike|NN will|MD be|VB paid|VBN by|IN cps|NNS during|IN that|DT time|NN frame|NN said|VBD marielle|NN sainvilus|NN a|DT spokeswoman|NN for|IN the|DT school|NN district|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT teachers|NNS dont|VBP go|RB back|RB to|TO work|VB by|IN the|DT end|NN of|IN the|DT week|NN they|PRP will|MD be|VB recorded|VBN as|IN out|IN of|IN work|NN for|IN the|DT entire|JJ pay|NN period|NN </s>|S_END
+<s>|S_START that|DT could|MD subtract|VB roughly|RB 26000|CD jobs|NNS from|IN the|DT national|JJ jobs|NNS report|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT effect|NN it|PRP has|VBZ on|IN the|DT national|JJ number|NN has|VBZ yet|RB to|TO be|VB seen|VBN but|CC the|DT strike|NN is|VBZ big|JJ enough|RB to|TO swing|VB things|NNS said|VBD labor|NN department|NN economist|NN john|NN coughlan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ not|RB unusual|JJ for|IN strikes|NNS to|TO impact|VB the|DT jobs|NNS report|NN </s>|S_END
+<s>|S_START when|WRB 45000|CD verizon|NN workers|NNS went|VBD on|IN strike|NN last|JJ year|NN it|PRP distorted|VBD the|DT august|NN 2011|CD jobs|NNS report|NN so|IN drastically|RB the|DT labor|NN department|NN initially|RB reported|VBD exactly|RB zero|CD jobs|NNS were|VBD created|VBN that|IN month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT effect|NN was|VBD only|RB temporary|JJ </s>|S_END
+<s>|S_START later|JJ the|DT number|NN was|VBD revised|VBN upward|NN and|CC the|DT following|VBG months|NNS report|NN showed|VBD verizon|NN employees|NNS went|VBD back|RB to|TO work|VB in|IN september|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START similarly|RB as|IN long|RB as|IN the|DT chicago|NNP teachers|NNS strike|VBP is|VBZ resolved|VBN soon|RB any|DT impact|NN would|MD only|RB be|VB temporary|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN that|DT reason|NN economists|NNS arent|NN too|RB worried|VBN about|IN the|DT strikes|NNS impact|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT type|NN of|IN events|NNS are|VBP usually|RB built|VBN into|IN consensus|NN estimates|NNS and|CC are|VBP discounted|VBN by|IN the|DT market|NN well|RB in|IN advance|NN so|IN we|PRP are|VBP not|RB very|RB concerned|VBN about|IN the|DT temporary|JJ impact|NN said|VBD brett|NN ryan|NN us|PRP economist|VBP at|IN deutsche|NN bank|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB the|DT strike|NN is|VBZ unlikely|JJ to|TO have|VB any|DT effect|NN on|IN the|DT unemployment|NN rate|NN </s>|S_END
+<s>|S_START that|DT number|NN is|VBZ calculated|VBN from|IN a|DT separate|JJ survey|NN of|IN households|NNS and|CC only|RB includes|VBZ people|NNS who|WP lost|VBD a|DT job|NN through|IN no|DT fault|NN of|IN their|PRP$ own|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB workers|NNS strike|VBP they|PRP are|VBP not|RB counted|VBN as|IN unemployed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT labor|NN department|NN plans|NNS to|TO issue|VB its|PRP$ monthly|JJ strike|NN report|NN on|IN september|NN 28|CD which|WDT is|VBZ expected|VBN to|TO give|VB more|JJR clarity|NN about|IN how|WRB the|DT chicago|NNP teacher|NN dispute|NN could|MD impact|VB the|DT monthly|JJ jobs|NNS numbers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT september|NN jobs|NNS report|NN will|MD be|VB released|VBN on|IN october|NN 5|CD </s>|S_END
+</p>|P_END
+

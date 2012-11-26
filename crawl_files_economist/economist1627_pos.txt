@@ -1,0 +1,76 @@
+<p>|P_START
+<s>|S_START every|DT love|NN story|NN is|VBZ a|DT ghost|NN story|NN a|DT life|NN of|IN david|JJ foster|NN wallace|NN </s>|S_END
+<s>|S_START by|IN dt|NN </s>|S_END
+<s>|S_START max|NN </s>|S_END
+<s>|S_START viking|VBG 352|CD pages|NNS $|$ 2795|CD </s>|S_END
+<s>|S_START granta|NN £20|-NONE- </s>|S_END
+<s>|S_START buy|NN from|IN amazoncom|NN amazoncouk|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START few|JJ literary|JJ authors|NNS achieve|VBP the|DT cult|NN celebrity|NN of|IN rock|NN star|NN </s>|S_END
+<s>|S_START but|CC there|EX was|VBD something|NN about|IN david|JJ foster|NN wallace|NN that|WDT seemed|VBD bigger|JJR than|IN his|PRP$ book|NN </s>|S_END
+<s>|S_START in|IN distressed|VBN clothing|NN and|CC workman’s|NNP boots|NNS his|PRP$ scraggly|RB hair|JJ often|RB tied|VBN up|RP in|IN a|DT bandanna|NN he|PRP looked|VBD every|DT bit|NN the|DT grubby|NN savant|NN </s>|S_END
+<s>|S_START an|DT arsenal|JJ of|IN wittgenstein|NN hipster|NN slang|NN and|CC literary|JJ experimentation|NN helped|VBD him|PRP pick|VB apart|NN the|DT existentially|RB terrifying|VBG contradictions|NNS of|IN american|JJ life|NN at|IN the|DT turn|NN of|IN the|DT 21st|CD century|NN </s>|S_END
+<s>|S_START this|DT earned|VBD him|PRP the|DT label|NN of|IN genius|NN and|CC the|DT regard|NN of|IN the|DT young|JJ affluent|NN and|CC similarly|RB confused|VBD </s>|S_END
+<s>|S_START his|PRP$ death|NN by|IN suicide|NN in|IN 2008|CD aged|VBN 46|CD has|VBZ lent|VBN him|PRP the|DT grim|JJ patina|NN of|IN a|DT martyr|NN preserving|VBG the|DT vitality|NN of|IN his|PRP$ voice|NN from|IN the|DT erosion|NN of|IN time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT of|IN which|WDT makes|VBZ wallace|NN a|DT seductive|JJ subject|NN for|IN a|DT biography|NN but|CC also|RB a|DT tricky|JJ one|CD </s>|S_END
+<s>|S_START given|VBN his|PRP$ complexities|NNS and|CC his|PRP$ unwieldy|NN fiction|NN a|DT lesser|NN writer|NN might|MD have|VB turned|VBN in|IN an|DT overwrought|NN tome|NN to|TO rival|NN “infinite|JJ jest”|NN wallace’s|NNS biggest|JJS and|CC bestknown|NN novel|NN </s>|S_END
+<s>|S_START yet|RB dt|VBD </s>|S_END
+<s>|S_START max|NN of|IN the|DT new|JJ yorker|NN has|VBZ managed|VBN an|DT elegant|JJ tribute|NN </s>|S_END
+<s>|S_START restrained|VBD and|CC incisive|JJ his|PRP$ book|NN is|VBZ respectful|JJ without|IN succumbing|NN to|TO hagiography|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START an|DT awkward|NN youth|NN skinny|NN and|CC pimply|RB wallace|NN earned|VBD a|DT reputation|NN at|IN university|NN for|IN being|VBG a|DT stellar|JJ student|NN with|IN a|DT unique|JJ mind—racing|NN recursive|JJ “beset|JJ by|IN anxiety|NN and|CC whipped|VBD by|IN consciousness”|NN </s>|S_END
+<s>|S_START marijuana|NNS soothed|VBD his|PRP$ nerves|NNS and|CC television|NN afforded|VBD countless|NN hours|NNS of|IN nearcatatonic|JJ pleasure|NN </s>|S_END
+<s>|S_START he|PRP took|VBD to|TO studying|NN philosophy|NN and|CC particularly|RB enjoyed|VBN logic|NN problems|NNS for|IN the|DT way|NN they|PRP turned|VBD messy|JJ questions|NNS of|IN free|JJ will|NN into|IN technical|JJ solvable|JJ puzzle|NN </s>|S_END
+<s>|S_START but|CC early|RB exposure|NN to|TO donald|VB barthelme|NN and|CC thomas|VBZ pynchon|NN opened|VBD his|PRP$ eyes|NNS to|TO the|DT power|NN of|IN fiction|NN to|TO address|VB what|WP was|VBD so|RB confusing|VBG in|IN life|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START wallace|NN wrote|VBD his|PRP$ first|JJ novel|NN “the|NN broom|NN of|IN the|DT system”|JJ as|IN his|PRP$ senior|JJ thesi|NN </s>|S_END
+<s>|S_START the|DT words|NNS just|RB poured|VBN out|RP of|IN him|PRP an|DT easy|JJ stream|NN that|WDT made|VBN him|PRP feel|VBP less|JJR an|DT author|NN than|IN a|DT transcriber|NN he|PRP told|VBD a|DT friend|NN </s>|S_END
+<s>|S_START the|DT smart|NN and|CC entertaining|VBG result|NN published|VBD in|IN 1987|CD when|WRB wallace|NN was|VBD 24|CD is|VBZ covered|VBN in|IN the|DT fingerprints|NNS of|IN his|PRP$ literary|JJ heroes|NNS particularly|RB mr|JJ pynchon|NN but|CC also|RB don|VBP delillo|RB with|IN whom|WP he|PRP went|VBD on|IN to|TO enjoy|VB an|DT epistolary|JJ friendship|NN </s>|S_END
+<s>|S_START wallace|NN would|MD later|VB dismiss|NNS the|DT book|NN as|IN written|VBN by|IN “a|NNP very|RB smart|NN 14yearold”|CD </s>|S_END
+<s>|S_START but|CC after|IN several|JJ bouts|NNS of|IN serious|JJ depression|NN requiring|VBG hospitalisation|NN and|CC lifelong|JJ medication|NN his|PRP$ debut|NN taught|VBD him|PRP that|IN writing|VBG fiction|NN “took|NN him|PRP out|RP of|IN time|NN and|CC released|VBD him|PRP from|IN some|DT of|IN the|DT pain|NN of|IN being|VBG himself”|JJ writes|NNS mr|VBP max|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT aim|NN of|IN wallace’s|JJ work|NN was|VBD to|TO “distil|JJ the|DT experience|NN of|IN being|VBG human|NN in|IN a|DT human|NN community”|NN he|PRP explained|VBD to|TO his|PRP$ first|JJ editor|NN </s>|S_END
+<s>|S_START what|WP this|DT meant|NN on|IN the|DT page|NN changed|VBD over|IN time|NN in|IN stories|NNS and|CC essays|NNS that|WDT ranged|VBD from|IN playful|JJ postmodernism|NN to|TO sardonic|JJ surrealism|NN in|IN language|NN that|IN dazzled|VBN with|IN a|DT semantic|JJ mix|NN of|IN high|JJ and|CC low|JJ </s>|S_END
+<s>|S_START but|CC he|PRP always|RB took|VBD fiction|NN very|RB seriously|RB ultimately|RB believing|VBG its|PRP$ purpose|NN was|VBD to|TO alleviate|VB loneliness|NN and|CC give|VB comfort|NN </s>|S_END
+<s>|S_START he|PRP wrote|VBD by|IN hand|NN because|IN this|DT forced|VBN his|PRP$ brain|NN to|TO wait|VB and|CC he|PRP strove|VBD for|IN a|DT style|NN that|WDT preserved|VBD an|DT “oralish|JJ outloud|NN feel”|NN a|DT detail|NN mr|NN max|NN tucks|NNS away|RB in|IN the|DT endnotes|NNS which|WDT read|VB like|IN entertaining|NN outtakes|NNS from|IN a|DT fine|NN film|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START wallace|NN was|VBD preoccupied|VBN with|IN the|DT manipulative|JJ desiremill|NN of|IN a|DT mediasaturated|VBN society|NN </s>|S_END
+<s>|S_START he|PRP believed|VBD americans|NNS were|VBD obsessed|VBN with|IN being|VBG entertained|VBN which|WDT resulted|VBN in|IN senseless|NN addictions|NNS and|CC deadened|VBD affect|NN </s>|S_END
+<s>|S_START this|DT social|JJ verdict|NN was|VBD an|DT extension|NN of|IN wallace’s|JJ personal|JJ demons|NNS which|WDT included|VBD bingeing|VBG on|IN television|NN struggles|NNS with|IN intimacy|NN alcoholism|NN and|CC substanceabuse|VB which|WDT kept|IN him|PRP in|IN rehab|NN for|IN most|JJS of|IN his|PRP$ life|NN writes|VBZ mr|NN max|NN </s>|S_END
+<s>|S_START yet|RB wallace’s|JJ effort|NN to|TO comment|VB on|IN this|DT condition|NN and|CC map|NN a|DT way|NN out|IN of|IN it|PRP led|VBD to|TO his|PRP$ most|JJS important|JJ literary|NN breakthrough|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START weighing|VBG in|IN at|IN nearly|RB 1100|CD pages|NNS “infinite|JJ jest”|NN was|VBD informed|VBN by|IN wallace’s|NNP need|VBP for|IN a|DT new|JJ sincerity|NN a|DT literary|JJ alternative|NN to|TO the|DT popular|JJ defeatist|NN culture|NN of|IN irony|NN </s>|S_END
+<s>|S_START et|NN in|IN america|NN in|IN the|DT nottoodistant|NN future|NN the|DT novel|NN braided|VBD countless|NN characters|NNS and|CC ideas|NNS into|IN a|DT deliriously|RB strange|NN and|CC selfconsciously|RB literary|JJ plot|NN involving|VBG a|DT tennis|NN academy|NN a|DT recovery|NN facility|NN a|DT dysfunctional|JJ family|NN and|CC a|DT debilitatingly|RB gripping|VBG film|NN </s>|S_END
+<s>|S_START though|IN some|DT found|NN the|DT book|NN “tedious|JJ and|CC effulgent”|JJ such|JJ as|IN jay|NN mcinerney|NN writing|VBG in|IN the|DT new|JJ york|NN times|NNS many|JJ embraced|VBN it|PRP as|IN a|DT weirdly|RB compassionate|JJ new|JJ “catcher|JJ in|IN the|DT rye”|NN for|IN the|DT newly|RB lonesome|VBN and|CC misunderstood|NN </s>|S_END
+<s>|S_START wallace’s|NNS style|VBP inspired|VBN a|DT host|NN of|IN self|NN consciously|RB antiironic|JJ follower|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uccess|NN and|CC ambition|NN made|VBD writing|VBG more|JJR fraught|JJ with|IN time|NN </s>|S_END
+<s>|S_START wallace|NN grew|VBD to|TO worry|VB that|IN he|PRP was|VBD merely|RB a|DT “highlevel|JJ entertainer”|NN and|CC he|PRP became|VBD suspicious|JJ of|IN the|DT many|JJ accolades|NNS tossed|VBN in|IN his|PRP$ direction|NN including|VBG a|DT macarthur|NN “genius”|NN grant|NN in|IN 1997|CD </s>|S_END
+<s>|S_START he|PRP spent|VBD years|NNS trying|VBG to|TO get|VB some|DT traction|NN on|IN a|DT new|JJ novel|NN which|WDT considered|VBN the|DT value|NN of|IN boredom|NN specifically|RB among|IN irs|NNS accountants|NNS released|VBN postmortem|NN as|IN “the|JJ pale|NN king”|NN in|IN 2011|CD </s>|S_END
+<s>|S_START but|CC “work”|JJ wallace|NN wrote|VBD to|TO his|PRP$ friend|NN and|CC fellow|JJ novelist|NN jonathan|IN franzen|NN in|IN 2006|CD “is|NNS like|IN shitting|VBG sharp|JJ stones|NNS still”|-NONE- </s>|S_END
+<s>|S_START to|TO help|VB jog|JJ his|PRP$ creativity|NN wallace|NN tried|VBD to|TO wean|VB himself|PRP off|IN antidepressant|JJ </s>|S_END
+<s>|S_START but|CC this|DT precipitated|VBN the|DT despair|NN that|IN led|VBN him|PRP to|TO end|VB his|PRP$ life|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP remains|VBZ unclear|JJ whether|IN wallace’s|JJ work|NN truly|RB criticised|VBN america’s|-NONE- self|PRP absorbed|VBD obsessive|JJ culture|NN or|CC was|VBD merely|RB a|DT uniquely|RB clever|RB product|NN of|IN it|PRP </s>|S_END
+<s>|S_START till|NN mr|NN max’s|NNS biography|VBP reminds|NNS readers|NNS of|IN what|WP has|VBZ been|VBN lost|VBN in|IN the|DT untimely|RB death|NN of|IN this|DT rare|NN and|CC serious|JJ writer|NN who|WP spoke|NN for|IN those|DT who|WP remain|NN vexed|VBD by|IN what|WP it|PRP means|VBZ to|TO live|VB a|DT meaningful|JJ life|NN amid|IN so|RB much|RB plenty|JJ and|CC noise|VB </s>|S_END
+</p>|P_END
+

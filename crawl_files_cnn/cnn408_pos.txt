@@ -1,0 +1,80 @@
+<p>|P_START
+<s>|S_START job|NN seekers|NNS attend|VBP a|DT career|NN fair|NN in|IN san|NN francisco|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN did|VBD the|DT job|NN market|NN seem|NN any|DT better|RBR in|IN july|RB than|IN it|PRP did|VBD in|IN june|NN </s>|S_END
+<s>|S_START dont|NN count|NN on|IN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economists|NNS surveyed|VBN by|IN cnnmoney|NN are|VBP predicting|VBG the|DT economy|NN added|VBD 95000|CD jobs|NNS last|JJ month|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS only|RB a|DT slight|NN improvement|NN over|IN the|DT 80000|CD jobs|NNS added|VBD in|IN june|NN and|CC is|VBZ not|RB strong|JJ enough|RB to|TO keep|VB up|RP with|IN population|NN growth|NN let|NN alone|RB reduce|VB the|DT unemployment|NN rate|NN from|IN its|PRP$ current|JJ 82|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT government|NN will|MD report|VB its|PRP$ official|NN numbers|NNS on|IN friday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START generally|RB speaking|VBG todays|NNS current|JJ economic|JJ environment|NN is|VBZ not|RB conducive|JJ to|TO employers|NNS ramping|VBG up|RP their|PRP$ pace|NN of|IN hiring|VBG said|VBD wells|NNS fargo|IN economist|NN sam|NN bullard|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START factories|NNS which|VBP were|VBD hiring|VBG at|IN a|DT stronger|JJR pace|NN earlier|JJR this|DT year|NN have|VBP seen|VBN their|PRP$ business|NN slow|RB </s>|S_END
+<s>|S_START weak|JJ demand|NN from|IN abroad|RB is|VBZ part|NN of|IN the|DT problem|NN amid|IN europes|NNS debt|NN crisis|NN and|CC chinas|VBZ slowdown|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START back|RB at|IN home|NN american|JJ consumers|NNS are|VBP not|RB giving|VBG businesses|NNS much|RB incentive|JJ to|TO hire|VB either|DT </s>|S_END
+<s>|S_START consumer|NN confidence|NN fell|VBD in|IN july|RB and|CC retail|JJ sales|NNS have|VBP been|VBN weak|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC its|PRP$ not|RB just|RB the|DT hereandnow|NN thats|NNS holding|VBG employers|NNS back|RB </s>|S_END
+<s>|S_START the|DT bigger|JJR drag|NN on|IN hiring|NN lies|NNS in|IN the|DT unknown|NN that|IN looms|NNS ahead|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START companies|NNS concerns|NNS about|IN europe|NN the|DT fiscal|JJ cliff|NN of|IN tax|NN increases|NNS and|CC automatic|JJ spending|NN cuts|NNS health|NN care|NN costs|NNS and|CC regulation|NN have|VBP now|RB been|VBN compounded|VBN by|IN slowing|NN sales|NNS both|DT in|IN the|DT us|PRP and|CC around|IN the|DT world|NN said|VBD lynn|NN reaser|NN chief|NN economist|NN for|IN the|DT fermanian|JJ business|NN and|CC economic|JJ institute|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thanks|NNS to|TO congress|NN many|JJ businesses|NNS still|RB dont|VBP know|RB what|WP their|PRP$ tax|NN rates|NNS will|MD be|VB in|IN 2013|CD or|CC where|WRB exactly|RB the|DT government|NN plans|VBZ to|TO make|VB its|PRP$ $|$ 110|CD billion|CD in|IN cuts|NNS when|WRB the|DT new|JJ year|NN triggers|NNS the|DT socalled|JJ sequester|NN </s>|S_END
+<s>|S_START businesses|NNS that|IN often|RB rely|RB on|IN government|NN contracts|NNS simply|RB dont|JJ know|NN how|WRB to|TO plan|NN for|IN the|DT year|NN ahead|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START weve|NN stopped|VBD investing|VBG and|CC hiring|VBG because|IN we|PRP dont|VBP know|VBP what|WP programs|NNS are|VBP going|VBG to|TO get|VB cut|VBN said|VBD chad|VBN moutray|NN chief|NN economist|NN for|IN the|DT national|JJ association|NN of|IN manufacturers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START health|NN care|NN costs|NNS are|VBP also|RB a|DT top|JJ concern|NN for|IN businesses|NNS after|IN the|DT supreme|NN court|NN upheld|VBD healthcare|NN reform|NN in|IN late|JJ june|NN </s>|S_END
+<s>|S_START the|DT ruling|NN could|MD have|VB an|DT impact|NN on|IN small|JJ business|NN hiring|VBG in|IN particular|JJ given|VBN a|DT rule|NN that|WDT requires|VBZ companies|NNS with|IN 50|CD or|CC more|JJR fulltime|JJ employees|NNS to|TO provide|VB health|NN insurance|NN for|IN all|DT workers|NNS by|IN 2014|CD or|CC face|NN stiff|NN penalties|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN course|NN the|DT outlook|NN isnt|NN all|DT negative|JJ </s>|S_END
+<s>|S_START one|CD bright|JJ spot|NN lies|NNS in|IN the|DT housing|NN sector|NN which|WDT has|VBZ recently|RB shown|VBN some|DT signs|NNS of|IN improvement|NN </s>|S_END
+<s>|S_START construction|NN spending|NN has|VBZ started|VBN to|TO pick|VB up|RP and|CC that|IN could|MD eventually|RB lead|VB to|TO a|DT small|JJ gain|NN in|IN construction|NN jobs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START auto|NN manufacturers|NNS could|MD also|RB make|VB the|DT july|JJ jobs|NNS report|NN look|NN a|DT bit|NN better|NN than|IN june|NN but|CC the|DT effect|NN might|MD be|VB artificial|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START every|DT year|NN in|IN early|JJ july|NN auto|NN factories|NNS temporarily|RB shut|VBN down|IN and|CC lay|NN off|RP some|DT workers|NNS to|TO retool|VB their|PRP$ factories|NNS </s>|S_END
+<s>|S_START there|EX were|VBD far|RB fewer|JJR of|IN those|DT furloughs|NNS this|DT year|NN and|CC that|IN could|MD artificially|RB distort|VB the|DT labor|NN departments|NNS seasonal|JJ adjustments|NNS </s>|S_END
+<s>|S_START the|DT result|NN could|MD be|VB job|NN growth|NN looks|VBZ stronger|JJR in|IN july|RB than|IN it|PRP actually|RB was|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START correcting|VBG for|IN annual|JJ shutdowns|NNS in|IN auto|NN production|NN can|MD often|RB distort|VB july|RB employment|NN figures|NNS reaser|VBP said|VBN </s>|S_END
+<s>|S_START the|DT underlying|VBG mood|NN for|IN hiring|NN however|RB remains|VBZ subdued|VBN </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

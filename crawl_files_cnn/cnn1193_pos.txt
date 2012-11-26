@@ -1,0 +1,65 @@
+<p>|P_START
+<s>|S_START tropical|JJ storm|NN isaac|NN could|MD cause|VB up|RP to|TO $|$ 2|CD billion|CD in|IN insured|JJ losses|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START washington|NN cnnmoney|NN tropical|JJ storm|NN isaacs|NNS slow|VBP rainy|NN march|NN up|IN the|DT mississippi|NN river|NN valley|NN is|VBZ expected|VBN to|TO cause|VB as|IN much|JJ as|IN $|$ 2|CD billion|CD in|IN insured|JJ losses|NNS according|VBG to|TO one|CD disaster|NN modeling|NN firm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT storm|NN which|WDT hit|NN louisiana|NN tuesday|NN night|NN as|IN a|DT catagory|NN 1|CD hurricane|NN continues|VBZ to|TO wreak|VB havoc|NN with|IN heavy|JJ rainfall|NN flooding|NN waterways|NNS </s>|S_END
+<s>|S_START working|VBG its|PRP$ way|NN up|IN to|TO missouri|VB the|DT storm|NN has|VBZ left|VBN more|JJR than|IN 800000|CD without|IN power|NN in|IN louisiana|NN mississippi|NN alabama|NN and|CC arkansas|VBZ power|NN companies|NNS told|VBD cnn|NN </s>|S_END
+<s>|S_START hundreds|NNS of|IN residents|NNS in|IN coastal|JJ areas|NNS and|CC along|IN rivers|NNS have|VBP had|VBN to|TO be|VB rescued|VBN </s>|S_END
+<s>|S_START and|CC 28|CD louisiana|NNS parishes|NNS were|VBD without|IN safe|JJ clean|NN water|NN on|IN friday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT catastrophe|NN modeling|VBG firm|NN air|NN worldwide|NN said|VBD early|RB friday|NN they|PRP estimate|VBP the|DT storm|NN has|VBZ caused|VBN between|IN $|$ 700|CD million|CD and|CC $|$ 2|CD billion|CD in|IN insured|JJ losses|NNS </s>|S_END
+<s>|S_START that|DT includes|VBZ residential|JJ property|NN commercial|JJ property|NN energy|NN production|NN and|CC the|DT interruption|NN of|IN business|NN but|CC excludes|VBZ most|RBS flooding|VBG damage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START isaacs|NNS slow|VBP forward|RB speed|VBN and|CC refusal|NN to|TO dissipate|VB will|MD exacerbate|VB wind|NN damage|NN said|VBD tim|NN doggett|NN chief|NN scientist|NN at|IN air|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD gas|NN prices|NNS rise|VBP again|RB on|IN isaac|NN impact|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START earlier|JJR this|DT week|NN another|DT modeling|NN firm|NN eqecat|NN a|DT catastrophe|NN modeling|VBG firm|NN suggested|VBD onshore|NN insured|VBN damage|NN would|MD run|VB between|IN $|$ 500|CD million|CD and|CC $|$ 15|CD billion|CD </s>|S_END
+<s>|S_START the|DT firm|NN has|VBZ yet|RB to|TO update|VB its|PRP$ figures|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT firms|NNS exclude|VBP flooding|VBG because|IN the|DT federal|JJ government|NN insures|NNS against|IN flood|NN damage|NN for|IN most|JJS properties|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN those|DT estimates|NNS isaac|VBP with|IN winds|NNS topping|VBG out|RP at|IN 80|CD miles|NNS an|DT hour|NN is|VBZ far|RB less|JJR damaging|VBG than|IN hurricane|NN katrina|NN a|DT category|NN 3|CD storm|NN with|IN winds|NNS around|IN 125|CD per|IN hour|PRP$ </s>|S_END
+<s>|S_START some|DT 1800|CD people|NNS died|VBD after|IN that|DT storm|NN when|WRB new|JJ orleans|NNS levees|NNS failed|VBD to|TO hold|VB back|RB rising|VBG flood|NN waters|NNS </s>|S_END
+<s>|S_START katrina|NN caused|VBD $|$ 45|CD billion|CD in|IN private|JJ insurance|NN damage|NN excluding|VBG flood|NN losses|NNS according|VBG to|TO the|DT insurance|NN information|NN institute|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC isaac|NN resembled|VBD hurricane|NN gustav|NN a|DT 2008|CD category|NN 2|CD storm|NN that|WDT followed|VBD a|DT similar|JJ path|NN and|CC caused|VBD $|$ 2|CD billion|CD in|IN insured|JJ damages|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN flooding|VBG isnt|NN included|VBD in|IN the|DT newly|RB released|VBN damage|NN estimates|NNS isaacs|NNS total|VBP economic|JJ damages|NNS including|VBG damage|NN due|JJ to|TO floods|NNS are|VBP expected|VBN to|TO grow|VB as|IN the|DT storm|NN slowly|RB crawls|VBZ through|IN arkansas|NNS today|NN </s>|S_END
+<s>|S_START more|JJR flash|NN flooding|VBG and|CC tornadoes|VBZ are|VBP expected|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ looking|NN more|JJR disorganized|JJ but|CC it|PRP is|VBZ still|RB putting|VBG out|RP quite|RB a|DT bit|NN of|IN rain|NN said|VBD charles|NNS dalton|IN a|DT national|JJ weather|NN service|NN meteorologist|NN in|IN little|JJ rock|NN which|WDT was|VBD expected|VBN to|TO get|VB 5|CD inches|NNS of|IN rain|NN on|IN friday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT longer|NN the|DT storm|NN lasts|NNS the|DT risk|NN that|IN more|JJR flooding|VBG damage|NN occurs|NNS said|VBD michael|NN kistler|NN director|NN of|IN model|NN solutions|NNS at|IN rms|NNS another|DT catastrophe|NN modeling|VBG firm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START because|IN of|IN its|PRP$ staying|NN in|IN one|CD place|NN a|DT long|JJ time|NN theres|NNS the|DT potential|NN for|IN storm|NN surge|NN kistler|NN said|VBD </s>|S_END
+<s>|S_START this|DT is|VBZ not|RB a|DT katrina|NN he|PRP added|VBD later|JJ </s>|S_END
+</p>|P_END
+

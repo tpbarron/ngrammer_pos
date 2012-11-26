@@ -1,0 +1,93 @@
+<p>|P_START
+<s>|S_START click|NN chart|NN for|IN more|JJR information|NN on|IN apples|NNS stock|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START las|NNS vegas|VBD cnnmoney|NN apple|NN reported|VBD sales|NNS tuesday|NN that|WDT rose|VBD nearly|RB 24|CD from|IN a|DT year|NN ago|IN and|CC a|DT profit|NN that|WDT soared|VBD 21|CD </s>|S_END
+<s>|S_START in|IN case|NN you|PRP were|VBD wondering|VBG thats|NNS what|WP a|DT bad|JJ quarter|NN for|IN apple|NN looks|NNS like|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apples|NNS revenue|VBP earnings|NNS per|IN share|NN and|CC iphone|NN sales|NNS in|IN its|PRP$ fiscal|JJ third|JJ quarter|NN badly|RB missed|VBN wall|NN street|NN analysts|NNS forecasts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT worlds|NNS most|JJS valuable|JJ company|NN said|VBD net|NN income|NN rose|VBD to|TO $|$ 88|CD billion|CD or|CC $|$ 932|CD per|IN share|NN in|IN its|PRP$ fiscal|JJ third|JJ quarter|NN </s>|S_END
+<s>|S_START analysts|NNS polled|VBD by|IN thomson|NN reuters|NNS forecasted|VBD earnings|NNS of|IN $|$ 1036|CD per|IN share|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sales|NNS for|IN the|DT cupertino|NN califbased|VBD company|NN rose|VBD to|TO $|$ 35|CD billion|CD falling|NN well|RB short|JJ of|IN analysts|NNS forecasts|NNS of|IN $|$ 372|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT good|JJ news|NN apple|NN sold|VBD a|DT record|NN 17|CD million|CD ipads|NNS </s>|S_END
+<s>|S_START the|DT launch|NN of|IN the|DT third|JJ generation|NN of|IN the|DT tablet|NN which|WDT debuted|VBN in|IN the|DT united|VBN states|NNS in|IN march|NN and|CC in|IN most|JJS other|JJ countries|NNS last|JJ quarter|NN boosted|VBD demand|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apples|NNS decision|NN to|TO continue|VB selling|NN the|DT very|JJ similar|JJ ipad|NN 2|CD at|IN a|DT $|$ 100|CD discount|NN also|RB helped|VBD boost|VBN unit|NN sales|NNS </s>|S_END
+<s>|S_START the|DT company|NN said|VBD the|DT reduced|VBN price|NN ipad|NN is|VBZ selling|VBG particularly|RB well|RB in|IN schools|NNS where|WRB twice|NN as|IN many|JJ ipads|NNS were|VBD sold|VBN as|IN macs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB analysts|NNS were|VBD concerned|VBN that|IN the|DT introduction|NN of|IN the|DT lower|JJR price|NN point|NN is|VBZ hurting|VBG revenue|NN </s>|S_END
+<s>|S_START average|JJ revenue|NN per|IN ipad|NN fell|VBD to|TO $|$ 538|CD last|JJ quarter|NN from|IN $|$ 653|CD a|DT year|NN ago|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START delays|NNS in|IN getting|VBG the|DT ipad|NN on|IN store|NN shelves|NNS in|IN china|NN didnt|NN help|NN either|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT biggest|JJS disappointment|NN was|VBD apples|NNS no|DT </s>|S_END
+<s>|S_START 1|LS revenue|NN driver|RB the|DT iphone|NN </s>|S_END
+<s>|S_START the|DT tech|NN giant|NN said|VBD it|PRP sold|VBD 26|CD million|CD iphones|NNS during|IN the|DT quarter|NN a|DT steep|NN dropoff|NN from|IN previous|JJ quarters|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apple|NN had|VBD warned|VBN that|IN iphone|NN sales|NNS would|MD decline|VB from|IN the|DT past|JJ two|CD quarters|NNS but|CC wall|JJ street|NN analysts|NNS had|VBD been|VBN expecting|VBG about|IN 29|CD million|CD of|IN the|DT smartphones|NNS to|TO be|VB sold|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apple|NN ceo|VBD tim|NN cook|NN said|VBD on|IN a|DT conference|NN call|NN with|IN investors|NNS that|IN rumors|NNS of|IN a|DT soontobereleased|VBN new|JJ 4g|CD iphone|NN are|VBP weighing|VBG on|IN sales|NNS as|IN is|VBZ a|DT weakening|NN european|NN economy|NN </s>|S_END
+<s>|S_START he|PRP said|VBD chinese|JJ demand|NN remains|VBZ strong|JJ however|RB despite|IN reports|NNS of|IN slumping|VBG electronics|NNS sales|NNS in|IN the|DT region|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mac|NN sales|NNS grew|VBD to|TO 4|CD million|CD and|CC ipod|NN sales|NNS slipped|VBD to|TO 68|CD million|CD </s>|S_END
+<s>|S_START cook|NN said|VBD that|IN the|DT companys|NNS widely|RB anticipated|VBN refresh|JJ of|IN the|DT macintosh|JJ line|NN which|WDT didnt|NN happen|VBP until|IN late|JJ in|IN the|DT quarter|NN due|JJ to|TO intels|NNS intc|NN fortune|NN 500|CD nextgeneration|NN chip|NN delays|NNS was|VBD the|DT primary|JJ driver|NN of|IN tepid|JJ mac|NN sales|NNS </s>|S_END
+<s>|S_START he|PRP said|VBD the|DT weak|JJ overall|JJ pc|NN market|NN was|VBD less|JJR of|IN a|DT factor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START investors|NNS were|VBD also|RB likely|JJ disappointed|VBN by|IN apples|NNS guidance|IN </s>|S_END
+<s>|S_START peter|NN oppenheimer|NN apples|NNS chief|NN financial|JJ officer|NN said|VBD he|PRP expects|VBZ the|DT company|NN to|TO produce|VB sales|NNS of|IN $|$ 34|CD billion|CD and|CC earnings|NNS per|IN share|NN of|IN about|RB $|$ 765|CD during|IN the|DT current|JJ quarter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT fell|VBD far|RB short|JJ of|IN analysts|NNS median|JJ forecast|NN of|IN $|$ 38|CD billion|CD in|IN sales|NNS and|CC earnings|NNS per|IN share|NN of|IN $|$ 1022|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apples|NNS outlook|VBP is|VBZ typically|RB ultraconservative|JJ and|CC should|MD be|VB taken|VBN with|IN a|DT grain|NN of|IN salt|NN </s>|S_END
+<s>|S_START but|CC apple|VBP barely|RB beat|VB its|PRP$ own|JJ forecasts|NNS for|IN the|DT third|JJ quarter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shares|NNS of|IN apple|JJ aapl|NN fortune|NN 500|CD fell|VBD 5|CD after|IN hours|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT company|NN also|RB announced|VBD that|IN its|PRP$ longanticipated|VBN quarterly|JJ cash|NN dividend|NN would|MD begin|VB to|TO be|VB paid|VBN out|RP to|TO shareholders|NNS on|IN aug|NN 16|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START apples|NNS dividend|VBP yield|NN the|DT percentage|NN of|IN a|DT companys|NNS share|NN price|NN that|WDT it|PRP pays|VBZ out|RP in|IN annual|JJ dividends|NNS is|VBZ currently|RB 18|CD factoring|VBG in|IN the|DT stocks|NNS afterhours|NNS selloff|IN </s>|S_END
+<s>|S_START thats|NNS higher|JJR than|IN the|DT dividend|NN yields|NNS of|IN other|JJ technology|NN giants|NNS such|JJ as|IN ibm|NN ibm|NN fortune|NN 500|CD cisco|NN csco|NN fortune|NN 500|CD and|CC oracle|NN orcl|NN fortune|NN 500|CD but|CC its|PRP$ lower|JJR than|IN the|DT yields|NNS of|IN more|JJR direct|JJ rivals|NNS like|IN microsoft|NN msft|NN fortune|NN 500|CD and|CC hewlettpackard|NN hpq|NN fortune|NN 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT dividend|NN as|IN well|RB as|IN a|DT new|JJ sharebuyback|NN program|NN is|VBZ apples|NNS response|NN to|TO investors|NNS pleas|IN to|TO do|VB something|NN with|IN its|PRP$ giant|JJ cash|NN hoard|NN that|WDT grew|VBD to|TO a|DT stunning|NN $|$ 117|CD billion|CD in|IN the|DT past|JJ quarter |NN </s>|S_END
+</p>|P_END
+

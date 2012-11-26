@@ -1,0 +1,11 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 35|CD gdp|NN $|$ 200bn|CD ppp|CD $|$ 292bn|CD inflation|NN 10|CD population|NN 113m|CD gdp|NN per|IN head|NN $|$ 17710|CD ppp|CD $|$ 25820|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START europes|NNS heavyweights|NNS are|VBP determined|VBN to|TO preserve|VB the|DT single|JJ currency|NN so|IN will|MD attempt|VB to|TO keep|VB greece|NN upright|NN by|IN hook|NN or|CC by|IN crook|NN until|IN its|PRP$ debt|NN can|MD be|VB restructured|VBN in|IN an|DT orderly|JJ way|NN that|IN does|VBZ not|RB destroy|VB the|DT euro|NN </s>|S_END
+<s>|S_START the|DT country|NN is|VBZ insolvent|JJ in|IN all|DT but|CC name|NN trapped|VBD between|IN the|DT scylla|NN of|IN austerity|NN and|CC the|DT charybdis|NNS of|IN violent|NN protest|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ become|VBN harder|JJR and|CC harder|JJR for|IN the|DT government|NN to|TO steer|NN a|DT steady|JJ course|NN </s>|S_END
+<s>|S_START regardless|NN of|IN who|WP governs|NNS the|DT economy|NN will|MD plummet—more|VB quickly|RB and|CC deeply|RB outside|IN the|DT euro|NN zone|NN than|IN in |JJ </s>|S_END
+</p>|P_END
+

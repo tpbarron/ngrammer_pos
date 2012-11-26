@@ -1,0 +1,53 @@
+<p>|P_START
+<s>|S_START in|IN 1999|CD crows|NNS in|IN new|JJ york|NN started|VBN dying|VBG in|IN unusual|JJ number|NN </s>|S_END
+<s>|S_START but|CC it|PRP took|VBD weeks|NNS of|IN further|JJ clues|NNS including|VBG the|DT deaths|NNS of|IN two|CD flamingos|NNS and|CC a|DT cormorant|NN at|IN the|DT bronx|NN zoo|NN for|IN officials|NNS to|TO find|VB the|DT culprit|NN </s>|S_END
+<s>|S_START the|DT west|NN nile|NN virus|VBZ had|VBN invaded|VBN new|JJ york|NN </s>|S_END
+<s>|S_START it|PRP was|VBD the|DT first|JJ time|NN the|DT virus|NN had|VBD been|VBN recorded|VBN in|IN the|DT western|NN hemisphere|RB </s>|S_END
+<s>|S_START ince|NN then|RB west|JJ nile|NN has|VBZ reappeared|VBN each|DT summer|NN </s>|S_END
+<s>|S_START as|IN of|IN august|JJ 29th|CD cases|NNS were|VBD up|RB 40|CD from|IN a|DT week|NN earlier|RBR reaching|VBG 1590|CD with|IN 66|CD death|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mosquitoes|NNS contract|VBP the|DT virus|NN when|WRB they|PRP bite|VBP infected|VBN bird|NN </s>|S_END
+<s>|S_START then|RB with|IN their|PRP$ typical|JJ generosity|NN they|PRP give|VBP the|DT virus|NN to|TO human|JJ </s>|S_END
+<s>|S_START eighty|NN per|IN cent|NN show|NN no|DT symptom|NN </s>|S_END
+<s>|S_START the|DT rest|NN may|MD get|VB a|DT fever|NN nausea|NN or|CC a|DT rash|NN </s>|S_END
+<s>|S_START about|IN one|CD in|IN 150|CD however|RB will|MD develop|VB a|DT serious|JJ illness|NN such|JJ as|IN inflammation|NN of|IN the|DT brain|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT year’s|JJ outbreak|NN is|VBZ notable|JJ mainly|RB for|IN its|PRP$ scale|NN and|CC the|DT apprehension|NN that|IN future|JJ years|NNS will|MD unleash|VB equal|JJ havoc|NN </s>|S_END
+<s>|S_START nearly|RB half|NN of|IN the|DT cases|NNS have|VBP been|VBN in|IN texas|NNS no|DT stranger|NN to|TO vaguely|RB biblical|JJ event|NN </s>|S_END
+<s>|S_START the|DT winter|NN was|VBD mild|VBN the|DT spring|NN and|CC summer|NN hot|VBD </s>|S_END
+<s>|S_START throughout|IN the|DT year|NN it|PRP has|VBZ rained|VBN intermittently—in|JJ short|JJ ideal|NN conditions|NNS for|IN mosquitoe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT centre|NN of|IN the|DT outbreak|NN is|VBZ dalla|NN </s>|S_END
+<s>|S_START by|IN august|NN 15th|CD county|NN leaders|NNS had|VBD reported|VBN some|DT 200|CD west|JJS nile|JJ infections|NNS and|CC ten|RB death|NN </s>|S_END
+<s>|S_START the|DT mayor|NN declared|VBD a|DT state|NN of|IN emergency|NN and|CC authorised|VBD aerial|JJ spraying—the|NN first|RB time|NN dallas|RB has|VBZ done|VBN so|RB since|IN 1969|CD according|VBG to|TO the|DT dallas|NNS morning|VBG new|JJ </s>|S_END
+<s>|S_START health|NN officials|NNS started|VBD fogging|VBG distributing|NN larvicide|NN and|CC bug|NN repellent|NN and|CC scouting|VBG for|IN standing|NN water|NN </s>|S_END
+<s>|S_START complicating|VBG matters|NNS dallas|NNS county|NN also|RB includes|VBZ 30|CD or|CC so|RB smaller|JJR towns|NNS some|DT were|VBD wary|JJ of|IN aerial|JJ spraying|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START west|NN nile|VBD is|VBZ not|RB the|DT only|JJ developingcountry|NN disease|NN that|WDT has|VBZ seeped|VBN into|IN america|NN </s>|S_END
+<s>|S_START ince|NN 2001|CD three|CD states|NNS have|VBP seen|VBN outbreaks|NNS of|IN dengue|NN fever|NN </s>|S_END
+<s>|S_START the|DT centres|NNS for|IN disease|NN control|NN and|CC prevention|NN cdc|NN estimate|NN that|WDT 300000|CD people|NNS in|IN the|DT united|VBN states|NNS overwhelmingly|RB immigrants|NNS are|VBP infected|VBN with|IN chagas|NNS disease|VBP caught|VBN from|IN parasites|NNS that|WDT feed|VBN on|IN the|DT face|NN and|CC are|VBP usually|RB found|VBN in|IN central|JJ and|CC south|NN america|NN </s>|S_END
+<s>|S_START a|DT cdc|NN survey|NN found|VBD that|IN 14|CD of|IN americans|NNS have|VBP been|VBN exposed|VBN to|TO toxocara|VB roundworms|NNS that|WDT often|RB cause|VBP no|DT symptoms|NNS but|CC which|WDT can|MD damage|VB inner|NN organs|NNS and|CC the|DT eye|NN </s>|S_END
+<s>|S_START worryingly|RB the|DT cdc|NN found|VBD higher|JJR rates|NNS among|IN those|DT who|WP are|VBP poor|JJ and|CC black|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT study|NN of|IN houston|NN observed|VBN that|IN west|JJS nile|JJ was|VBD more|RBR common|JJ among|IN the|DT homele|JJ </s>|S_END
+<s>|S_START in|IN general|JJ mosquitoes|NNS find|VBP the|DT poor|JJ inviting|NN hosts|NNS explains|VBZ peter|NN hotez|NN of|IN the|DT baylor|NN college|NN of|IN medicine|NN </s>|S_END
+<s>|S_START they|PRP often|RB live|VBP near|IN potholed|VBN roads|NNS with|IN standing|NN water|NN and|CC are|VBP less|RBR likely|JJ to|TO have|VB insect|JJ spray|NN and|CC window|NN screen|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START by|IN august|NN 29th|CD the|DT number|NN of|IN documented|VBN west|NN nile|IN infections|NNS in|IN dallas|NNS had|VBD reached|VBN 309|CD and|CC the|DT deaths|NNS had|VBD crept|VBN to|TO 13|CD </s>|S_END
+<s>|S_START in|IN better|JJR news|NN the|DT dallas|NNS city|NN council|NN announced|VBD that|IN it|PRP had|VBD set|VBN out|RP five|CD mosquito|NN traps|NNS and|CC that|IN none|NN of|IN the|DT insects|NNS it|PRP caught|VBD carried|VBN the|DT viru|NN </s>|S_END
+<s>|S_START if|IN the|DT outbreak|NN is|VBZ abating|VBG though|IN it|PRP is|VBZ too|RB soon|RB to|TO be|VB complacent|JJ </s>|S_END
+<s>|S_START it|PRP will|MD not|RB be|VB the|DT last|JJ </s>|S_END
+</p>|P_END
+

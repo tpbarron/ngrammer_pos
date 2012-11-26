@@ -1,0 +1,90 @@
+<p>|P_START
+<s>|S_START when|WRB remodeling|VBG create|NN a|DT financial|JJ plan|NN upfront|NN and|CC contractors|NNS can|MD tailor|VB proposals|NNS to|TO fit|VB what|WP you|PRP can|MD afford|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START money|NN magazine|NN budgeting|VBG for|IN a|DT large|JJ remodeling|NN project|NN presents|NNS a|DT bit|NN of|IN a|DT chickenandegg|NN problem|NN you|PRP wont|VBP have|VBP a|DT feel|NN for|IN the|DT cost|NN until|IN you|PRP get|VBP bids|NNS from|IN contractors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC unless|IN you|PRP give|VBP pros|NNS a|DT ballpark|NN figure|NN from|IN the|DT start|NN theyll|NN have|VBP to|TO guess|NNS at|IN what|WP to|TO include|VB in|IN their|PRP$ bids|NNS and|CC theyll|NN come|NN back|RB to|TO you|PRP with|IN a|DT huge|JJ range|NN of|IN prices|NNS for|IN very|RB different|JJ plans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT faucet|NN can|MD cost|VB $|$ 200|CD to|TO $|$ 900|CD a|DT window|NN can|MD be|VB $|$ 400|CD to|TO $|$ 1200|CD says|VBZ madison|NN contractor|NN mike|NN gasch|NN </s>|S_END
+<s>|S_START i|PRP need|VBP to|TO know|VB where|WRB to|TO aim|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO solve|VB this|DT conundrum|NN do|VBP some|DT calculations|NNS first|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START 1|LS </s>|S_END
+<s>|S_START start|NN with|IN average|JJ costs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB insurance|NN companies|NNS need|VBP to|TO pinpoint|VB construction|NN costs|NNS they|PRP multiply|RB the|DT length|NN by|IN the|DT width|NN of|IN the|DT space|NN and|CC then|RB multiply|RB that|IN by|IN the|DT projects|NNS typical|JJ cost|NN per|IN square|JJ foot|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START albert|NN paxton|VBD an|DT estimator|NN who|WP provides|VBZ such|JJ data|NNS to|TO claims|NNS adjusters|NNS and|CC contractors|NNS pegs|NNS average|VBP persquarefoot|NN costs|NNS of|IN remodeling|VBG jobs|NNS at|IN this|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START 2|LS </s>|S_END
+<s>|S_START tweak|NN to|TO fit|VB the|DT scope|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT numbers|NNS are|VBP for|IN gut|NN remodels|NNS meaning|VBG the|DT room|NN is|VBZ demolished|VBN right|RB down|IN to|TO the|DT framing|NN and|CC rebuilt|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN a|DT less|JJR involved|VBN project|NN in|IN the|DT kitchen|NN say|VBP you|PRP might|MD be|VB refacing|VBG the|DT cabinets|NNS and|CC replacing|VBG the|DT countertops|NNS and|CC appliances|NNS instead|RB of|IN tearing|VBG out|IN everything|NN cut|VBD your|PRP$ number|NN by|IN about|RB 30|CD says|VBZ paxton|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN a|DT cosmetic|JJ update|NN as|IN in|IN fresh|JJ paint|NN on|IN the|DT cabinets|NNS plus|VBZ new|JJ lighting|NN and|CC hardware|NN reduce|NN it|PRP by|IN about|IN 60|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START 3|LS </s>|S_END
+<s>|S_START adjust|RB for|IN your|PRP$ location|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT plumber|NN working|VBG in|IN manhattan|NN might|MD charge|VB twice|NN the|DT hourly|RB rate|NN of|IN one|CD in|IN statesboro|NN ga|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START same|JJ goes|NNS for|IN everyone|NN from|IN laborers|NNS to|TO architects|NNS </s>|S_END
+<s>|S_START in|IN a|DT metro|NN area|NN along|IN the|DT northeast|NN or|CC pacific|JJ seaboards|NNS add|VBP 30|CD to|TO 40|CD use|NN your|PRP$ judgment|NN about|IN your|PRP$ market|NN </s>|S_END
+<s>|S_START in|IN a|DT rural|JJ area|NN especially|RB in|IN the|DT south|NN or|CC midwest|JJS drop|NN it|PRP by|IN 15|CD to|TO 20|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START 4|LS </s>|S_END
+<s>|S_START modify|NN for|IN style|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT figures|NNS assume|VBP youre|NN buying|VBG midrange|NN fixtures|NNS and|CC finishes|NNS </s>|S_END
+<s>|S_START if|IN youre|NN going|VBG upscale|NN as|IN in|IN granite|JJ countertops|NNS and|CC stainlesssteel|NN appliances|NNS or|CC stone|NN bathroom|NN tiles|NNS and|CC a|DT separate|JJ soaking|NN tub|NN and|CC walkin|NN shower|NN raise|NN your|PRP$ number|NN by|IN 30|CD to|TO 40|CD depending|VBG on|IN how|WRB elaborate|JJ youre|NN getting|VBG </s>|S_END
+<s>|S_START for|IN an|DT economy|NN job|NN say|VB at|IN a|DT rental|JJ property|NN cut|VBD it|PRP by|IN 25|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START make|VB your|PRP$ number|NN fit|NN your|PRP$ finances|NNS by|IN adjusting|VBG items|NNS 2|CD and|CC 4|CD then|RB be|VB upfront|NN about|IN your|PRP$ bottom|NN line|NN with|IN contractors|NNS who|WP look|NN at|IN the|DT job|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN i|PRP have|VBP a|DT good|JJ feel|NN for|IN your|PRP$ budget|NN says|VBZ cambridge|NN mass|NN contractor|NN charlie|NN allen|NN i|PRP can|MD deliver|VB maximum|NN value|NN within|IN your|PRP$ financing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START money|NN magazine|NN is|VBZ celebrating|VBG people|NNS both|DT famous|JJ and|CC unsung|JJ who|WP have|VBP done|VBN extraordinary|JJ work|NN to|TO improve|VB others|NNS financial|JJ wellbeing|NN </s>|S_END
+<s>|S_START nominate|NN your|PRP$ money|NN hero |-NONE- </s>|S_END
+</p>|P_END
+

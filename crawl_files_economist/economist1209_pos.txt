@@ -1,0 +1,16 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 22|CD gdp|NN $|$ 6410bn|CD ppp|CD $|$ 4540bn|CD inflation|NN 10|CD population|NN 1261m|CD gdp|NN per|IN head|NN $|$ 50830|CD ppp|CD $|$ 36000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yoshihiko|NN noda|NN was|VBD elected|VBN prime|JJ minister|NN in|IN late|JJ 2011|CD and|CC faces|NNS political|JJ deadlock|NN and|CC economic|JJ stagnation|NN </s>|S_END
+<s>|S_START none|NN of|IN his|PRP$ recent|JJ predecessors|NNS managed|VBN to|TO complete|VB more|JJR than|IN 18|CD months|NNS in|IN office|NN and|CC he|PRP will|MD need|VB to|TO show|VB quick|JJ results|NNS if|IN he|PRP is|VBZ to|TO avoid|VB their|PRP$ fate|NN </s>|S_END
+<s>|S_START elfdeprecating|VBG free|JJ so|RB far|RB of|IN the|DT scandals|NNS that|WDT saw|VBD off|RP some|DT of|IN his|PRP$ predecessors|NNS and|CC fairly|RB hawkish|JJ on|IN japans|NNS fiscal|JJ malaise|NN he|PRP has|VBZ an|DT opportunity|NN to|TO lift|VB the|DT country|NN out|IN of|IN its|PRP$ 20year|JJ funk|NN but|CC a|DT mountain|NN of|IN challenges|NNS and|CC a|DT dearth|JJ of|IN popular|JJ support|NN lengthen|NN the|DT odd|JJ </s>|S_END
+<s>|S_START posttsunami|NN reconstruction|NN will|MD lift|VB the|DT economy|NN a|DT little|RB but|CC the|DT 2012|CD growth|NN rate|NN will|MD be|VB a|DT high|JJ point|NN for|IN some|DT time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB blue|JJ moon|NN </s>|S_END
+<s>|S_START the|DT shinto|NN festival|NN of|IN hadaka|NN matsuri|NN sees|NNS a|DT naked|JJ shaved|VBN man|NN chased|VBN through|IN the|DT streets|NNS of|IN inazawa|NN city|NN by|IN up|IN to|TO 9000|CD men|NNS clad|VBD in|IN loincloths|NNS all|DT hoping|VBG to|TO secure|VB good|JJ luck|NN for|IN the|DT year|NN ahead|RB by|IN touching|NN him|PRP </s>|S_END
+</p>|P_END
+

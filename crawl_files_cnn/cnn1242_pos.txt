@@ -1,0 +1,61 @@
+<p>|P_START
+<s>|S_START us|PRP money|NN market|NN funds|NNS have|VBP cut|VBN their|PRP$ holdings|NNS of|IN eurozone|NN bank|NN debt|NN by|IN onethird|JJ since|IN may|MD 2011|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN after|IN three|CD years|NNS of|IN rapidly|RB unwinding|VBG holdings|NNS in|IN banks|NNS that|WDT share|NN the|DT euro|NN currency|NN us|PRP money|NN market|NN funds|NNS have|VBP dipped|VBN back|RP in|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT funds|NNS increased|VBD their|PRP$ holdings|NNS by|IN 15|CD since|IN the|DT end|NN of|IN december|NN according|VBG to|TO a|DT fitch|NN report|NN released|VBD thursday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS of|IN that|DT increase|NN stems|NNS from|IN money|NN markets|NNS adding|VBG to|TO their|PRP$ positions|NNS in|IN french|NN banks|NNS according|VBG to|TO fitch|VB which|WDT looked|VBN at|IN roughly|RB 45|CD of|IN the|DT $|$ 14|CD trillion|CD managed|VBN by|IN us|PRP money|NN market|NN funds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START even|RB with|IN the|DT 15|CD increase|NN us|PRP money|NN market|NN funds|NNS are|VBP still|RB holding|VBG 65|CD less|JJR eurozone|NN bank|NN debt|NN than|IN they|PRP did|VBD nine|CD months|NNS ago|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT funds|NNS now|RB hold|VBP roughly|RB 11|CD of|IN their|PRP$ assets|NNS in|IN eurozone|NN banks|NNS compared|VBN with|IN 31|CD at|IN the|DT end|NN of|IN may|MD 2011|CD </s>|S_END
+<s>|S_START thats|NNS about|IN onethird|JJ of|IN the|DT historical|JJ average|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fund|NN managers|NNS are|VBP putting|VBG their|PRP$ toes|NNS back|RB in|IN the|DT water|NN but|CC very|RB conservatively|RB said|VBD alex|NN roever|NN managing|VBG director|NN and|CC senior|JJ credit|NN strategist|NN at|IN jpmorgan|NN chase|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN its|PRP$ report|NN fitch|NN warns|NNS that|WDT this|DT modest|NN turnaround|NN might|MD actually|RB represent|VB a|DT new|JJ equilibrium|NN in|IN which|WDT us|PRP money|NN market|NN funds|NNS remain|VB more|RBR cautious|JJ than|IN optimistic|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START additionally|RB the|DT drop|NN in|IN us|PRP money|NN market|NN funding|NN has|VBZ forced|VBN many|JJ banks|NNS in|IN eurozone|NN countries|NNS to|TO scramble|JJ for|IN alternative|JJ sources|NNS of|IN financing|NN and|CC also|RB cut|VBD back|RB on|IN businesses|NNS dependent|NN on|IN us|PRP dollars|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC thats|NNS a|DT trend|NN that|WDT may|MD continue|VB said|VBD fitch|NN </s>|S_END
+<s>|S_START so|IN even|RB if|IN money|NN market|NN funds|NNS regain|VBP a|DT hearty|NN appetitive|NN for|IN eurozone|NN debt|NN the|DT banks|NNS may|MD not|RB be|VB willing|JJ participants|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START jpmorgans|NNS roever|VBP said|VBN that|IN he|PRP expects|VBZ that|IN us|PRP money|NN market|NN funds|NNS will|MD likely|RB wait|VB to|TO see|VB if|IN ratings|NNS firm|NN moodys|NNS downgrades|VBZ any|DT of|IN the|DT eurozone|NN banks|NNS it|PRP placed|VBD on|IN review|NN before|IN investing|NN more|JJR significantly|RB in|IN the|DT eurozone|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START moodys|NNS placed|VBD bnp|NN paribas|NNS deutsche|VBP bank|NN db|NN societe|NN generale|NN and|CC 14|CD other|JJ banks|NNS on|IN review|NN last|JJ week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT report|NN notes|NNS that|WDT 27|CD of|IN money|NN market|NN funds|NNS exposure|NN to|TO european|VB banks|NNS is|VBZ in|IN the|DT form|NN of|IN socalled|VBN repurchase|NN agreements|NNS or|CC repos|NNS </s>|S_END
+<s>|S_START with|IN repos|NNS the|DT banks|NNS selling|VBG them|PRP have|VBP agreed|VBN to|TO buy|VB back|RP their|PRP$ own|JJ securities|NNS at|IN a|DT later|JJ date|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START money|NN market|NN funds|NNS are|VBP continuing|VBG to|TO flee|VB for|IN the|DT safety|NN of|IN us|PRP treasuries|VBZ with|IN about|IN 19|CD of|IN their|PRP$ cash|NN in|IN lowyielding|NN governmentbacked|VBD bonds|NNS </s>|S_END
+<s>|S_START thats|NNS above|VBP historical|JJ averages|NNS </s>|S_END
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+

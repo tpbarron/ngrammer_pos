@@ -1,0 +1,56 @@
+<p>|P_START
+<s>|S_START protecting|VBG the|DT air|NN let|VBD alone|RB improving|VBG it|PRP is|VBZ a|DT challenge|NN </s>|S_END
+<s>|S_START america|NN was|VBD reminded|VBN of|IN that|DT last|JJ month|NN as|IN courts|NNS handed|VBD federal|JJ regulators|NNS two|CD setbacks|NNS in|IN as|IN many|JJ week|NN </s>|S_END
+<s>|S_START on|IN august|JJ 13th|CD a|DT federal|JJ appeals|NNS court|NN ruled|VBD that|IN the|DT environmental|JJ protection|NN agency|NN epa|NN had|VBD overstepped|VBN its|PRP$ authority|NN in|IN rejecting|NN a|DT plan|NN texas|VBZ had|VBN devised|VBN in|IN 1994|CD for|IN curbing|NN emission|NN </s>|S_END
+<s>|S_START and|CC on|IN august|JJ 21st|CD a|DT different|JJ appeals|NNS court|NN struck|NN down|IN the|DT epa’s|NNP crossstate|NN air|NN pollution|NN rule|NN a|DT 2011|CD measure|NN designed|VBN to|TO protect|VB states|NNS from|IN pollutants|NNS emitted|VBN by|IN coal|NN and|CC naturalgasfired|VBD power|NN plants|NNS in|IN neighbours|NNS upwind|VBP of|IN them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT conflicts|NNS were|VBD almost|RB inevitable|JJ </s>|S_END
+<s>|S_START the|DT 1970|CD clean|JJ air|NN act|NN gives|VBZ the|DT federal|JJ government|NN the|DT right|NN to|TO set|VB airquality|NN standards|NNS and|CC emissions|NNS limit|NN </s>|S_END
+<s>|S_START the|DT states|NNS however|RB retain|VB the|DT right|NN to|TO decide|VB how|WRB they|PRP will|MD meet|VB those|DT standards|NNS and|CC may|MD also|RB set|VB stricter|JJR standards|NNS of|IN their|PRP$ own|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT led|VBN to|TO the|DT first|JJ case|NN </s>|S_END
+<s>|S_START texas|NNS unsurprisingly|RB did|VBD not|RB feel|VB moved|VBN to|TO be|VB especially|RB strict|JJ and|CC it|PRP took|VBD the|DT opportunity|NN to|TO devise|VB its|PRP$ own|JJ programme|NN for|IN reducing|NN emission|NN </s>|S_END
+<s>|S_START the|DT state’s|JJ flexible|JJ permit|NN system|NN required|VBN power|NN plants|NNS and|CC certain|JJ other|JJ polluters|NNS to|TO reduce|VB their|PRP$ overall|JJ emissions|NNS but|CC left|VBN them|PRP considerable|JJ latitude|NN over|IN how|WRB to|TO get|VB there|RB </s>|S_END
+<s>|S_START the|DT idea|NN was|VBD to|TO help|VB businesses|NNS contain|VB cost|NN </s>|S_END
+<s>|S_START in|IN 2010|CD the|DT epa|NN announced|VBD that|IN the|DT scheme|NN did|VBD not|RB pass|VB muster|NN </s>|S_END
+<s>|S_START it|PRP left|VBD too|RB much|RB to|TO chance|VB and|CC was|VBD too|RB hard|RB to|TO enforce|VB </s>|S_END
+<s>|S_START that|DT ruling|NN itself|PRP has|VBZ now|RB been|VBN overturned|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT second|JJ case|NN also|RB involved|VBD the|DT clean|JJ air|NN act’s|NNS uneasy|JJ federalism|NN </s>|S_END
+<s>|S_START the|DT states|NNS are|VBP resigned|VBN to|TO being|VBG responsible|JJ for|IN their|PRP$ own|JJ emissions|NNS but|CC they|PRP are|VBP assessed|VBN on|IN the|DT quality|NN of|IN the|DT air|NN itself|PRP even|RB if|IN some|DT of|IN the|DT emissions|NNS present|VBP have|VBP sneaked|VBN across|IN the|DT border|NN </s>|S_END
+<s>|S_START the|DT federal|JJ law|NN includes|VBZ a|DT “good|JJ neighbour”|NN provision|NN but|CC it|PRP also|RB emphasises|VBZ the|DT autonomy|NN of|IN the|DT state|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN states|NNS have|VBP cooperated|VBN with|IN each|DT other|JJ even|RB without|IN the|DT federal|JJ government|NN telling|VBG them|PRP to|TO do|VB so|RB </s>|S_END
+<s>|S_START voluntary|JJ efforts|NNS however|RB may|MD not|RB go|VB far|RB enough|RB and|CC can|MD not|RB be|VB enforced|VBN </s>|S_END
+<s>|S_START in|IN 2008|CD the|DT epa|NN issued|VBD the|DT crossstate|NN air|NN pollution|NN rule|NN to|TO revise|VB a|DT 2005|CD regulation|NN that|WDT had|VBD also|RB been|VBN challenged|VBN in|IN court|NN </s>|S_END
+<s>|S_START the|DT new|JJ rule|NN required|VBN about|IN half|PDT the|DT states|NNS to|TO reduce|VB their|PRP$ emissions|NNS of|IN sulphur|NN dioxide|NN nitrogen|NN oxide|NN and|CC other|JJ emissions|NNS based|VBN on|IN projections|NNS of|IN how|WRB many|JJ pollutants|NNS were|VBD crossing|VBG state|NN lines|NNS and|CC told|VBD them|PRP how|WRB to|TO do|VB it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT states|NNS affected|VBD argued|VBN that|IN this|DT was|VBD an|DT unfair|JJ burden|NN </s>|S_END
+<s>|S_START the|DT epa|NN had|VBD estimated|VBN the|DT cost|NN of|IN the|DT new|JJ rule|NN at|IN $|$ 800m|CD in|IN 2014|CD the|DT year|NN the|DT emissions|NNS standards|NNS were|VBD officially|RB meant|JJ to|TO take|VB effect|NN </s>|S_END
+<s>|S_START the|DT appeals|NNS court|NN agreed|VBD that|IN the|DT epa’s|NNS new|JJ rule|NN was|VBD too|RB bossy|JJ and|CC federal|JJ law|NN trumps|NNS it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN these|DT setbacks|NNS however|RB the|DT environmentalists|NNS should|MD not|RB be|VB wholly|RB bereft|VBN </s>|S_END
+<s>|S_START by|IN the|DT time|NN the|DT epa|NN lost|VBD the|DT court|NN case|NN in|IN texas|NNS for|IN example|NN it|PRP had|VBD already|RB achieved|VBN its|PRP$ immediate|JJ goal|NN </s>|S_END
+<s>|S_START elena|NN craft|VBD a|DT health|NN scientist|NN with|IN the|DT environmental|JJ defence|NN fund’s|NNS austin|VBP office|NN points|NNS out|IN that|DT since|IN the|DT epa|NN had|VBD rejected|VBN the|DT texas|NNS scheme|VBP and|CC no|DT one|NN had|VBD expected|VBN the|DT court|NN to|TO secondguess|NN the|DT agency|NN the|DT texas|NNS plants|NNS had|VBD all|DT complied|VBN anyway|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START worth|NN noting|VBG too|RB is|VBZ that|IN in|IN both|DT cases|NNS the|DT plaintiffs|NNS were|VBD complaining|VBG about|IN authority|NN and|CC expense|NN </s>|S_END
+<s>|S_START none|NN was|VBD disputing|VBG the|DT premise|NN that|IN pollution|NN is|VBZ bad|JJ </s>|S_END
+<s>|S_START this|DT seems|VBZ to|TO be|VB a|DT public|JJ consensu|NN </s>|S_END
+<s>|S_START in|IN a|DT survey|NN published|VBD by|IN the|DT american|JJ lung|NN association|NN in|IN march|NN 2012|CD threequarters|NNS of|IN respondents|NNS said|VBD that|IN protecting|NN air|NN quality|NN was|VBD “extremely”|JJ or|CC “very”|JJ important|JJ </s>|S_END
+<s>|S_START the|DT clean|JJ air|NN act|NN itself|PRP was|VBD more|JJR popular|JJ than|IN congress|NN barack|NN obama|NN and|CC for|IN that|DT matter|NN the|DT epa|NN </s>|S_END
+</p>|P_END
+

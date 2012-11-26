@@ -1,0 +1,10 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 43|CD gdp|NN $|$ 419bn|CD ppp|CD $|$ 427bn|CD inflation|NN 21|CD population|NN 75m|CD gdp|NN per|IN head|NN $|$ 55520|CD ppp|CD $|$ 56550|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT royal|JJ families|NNS of|IN the|DT seven|CD emirates|NNS hold|VBP a|DT tight|NN grip|NN on|IN power|NN </s>|S_END
+<s>|S_START popular|JJ discontent|NN will|MD be|VB expressed|VBN on|IN the|DT street|NN but|CC in|IN peaceful|JJ demonstrations|NNS that|WDT dont|NN threaten|VBP the|DT elite|NN </s>|S_END
+<s>|S_START governments|NNS will|MD focus|VB on|IN social|JJ projects|NNS and|CC subsidies|NNS to|TO keep|VB frustrations|NNS at|IN bay |JJ </s>|S_END
+</p>|P_END
+

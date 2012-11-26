@@ -1,0 +1,73 @@
+<p>|P_START
+<s>|S_START parents|NNS give|VBP their|PRP$ kids|NNS an|DT average|JJ of|IN $|$ 780|CD a|DT year|NN in|IN allowance|NN according|VBG to|TO a|DT survey|NN by|IN the|DT american|JJ institute|NN of|IN cpas|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN kids|NNS are|VBP raking|VBG in|IN an|DT average|JJ of|IN $|$ 15|CD a|DT week|NN in|IN allowance|NN according|VBG to|TO a|DT recent|JJ survey|NN </s>|S_END
+<s>|S_START but|CC money|NN earned|VBD isnt|NN money|NN saved|VBD and|CC a|DT majority|NN of|IN parents|NNS say|VBP their|PRP$ kids|NNS are|VBP spending|VBG their|PRP$ allowance|NN just|RB as|IN quickly|RB as|IN they|PRP receive|VBP it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN children|NNS generally|RB receive|JJ a|DT larger|JJR allowance|NN the|DT older|NN they|PRP get|VBP the|DT average|JJ across|NN all|DT ages|NNS is|VBZ $|$ 780|CD a|DT year|NN according|VBG to|TO a|DT survey|NN by|IN the|DT american|JJ institute|NN of|IN cpas|NNS </s>|S_END
+<s>|S_START thats|NNS enough|RB to|TO buy|VB an|DT ipad|JJ and|CC an|DT ipod|NN touch|NN or|CC an|DT xbox|NN 360|CD with|IN 10|CD video|NN games|NNS </s>|S_END
+<s>|S_START in|IN just|RB four|CD years|NNS a|DT diligent|NN saver|NN could|MD buy|VB their|PRP$ first|JJ clunker|NN to|TO drive|VB their|PRP$ friends|NNS around|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC as|IN the|DT survey|NN found|VBD allowance|NN money|NN is|VBZ rarely|RB saved|VBN </s>|S_END
+<s>|S_START parents|NNS say|VBP most|JJS of|IN their|PRP$ kids|NNS allowance|NN is|VBZ quickly|RB spent|VBN on|IN outings|NNS with|IN friends|NNS or|CC toys|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT aicpas|NNS survey|NN found|VBD that|IN 61|CD of|IN parents|NNS pay|VBP an|DT allowance|NN and|CC more|JJR than|IN half|PDT of|IN them|PRP starting|VBG making|VBG these|DT payments|NNS to|TO their|PRP$ kids|NNS by|IN the|DT time|NN theyre|NN eight|NN years|NNS old|JJ </s>|S_END
+<s>|S_START yet|RB only|RB 1|CD of|IN parents|NNS say|VBP their|PRP$ child|NN ever|RB saves|VBZ any|DT of|IN that|DT money|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START poll|NN how|WRB much|JJ do|VBP you|PRP give|VB your|PRP$ kids|NNS for|IN an|DT allowance|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START part|NN of|IN the|DT problem|NN more|JJR parents|NNS teach|VBP their|PRP$ kids|NNS about|IN good|JJ manners|NNS eating|VBG habits|NNS and|CC grades|NNS than|IN money|NN management|NN </s>|S_END
+<s>|S_START eightyone|NN percent|VBD of|IN parents|NNS say|VBP theyve|JJ discussed|VBN managing|VBG money|NN with|IN their|PRP$ kids|NNS compared|VBN to|TO 95|CD who|WP discuss|NNS good|VBD manners|NNS 87|CD who|WP discuss|NNS good|VBD eating|VBG habits|NNS and|CC grades|NNS and|CC 84|CD who|WP discuss|NNS the|DT dangers|NNS of|IN drugs|NNS and|CC alcohol|NN the|DT survey|NN found|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START surprisingly|RB parents|VBZ who|WP pay|NN allowances|VBZ are|VBP more|JJR likely|JJ to|TO cover|VB other|JJ costs|NNS for|IN their|PRP$ kids|NNS than|IN parents|NNS who|WP dont|NN </s>|S_END
+<s>|S_START nearly|RB 9|CD out|IN of|IN 10|CD parents|NNS who|WP pay|NN an|DT allowance|NN also|RB pick|VB up|RP other|JJ discretionary|JJ costs|NNS including|VBG sports|NNS and|CC hobby|VB expenses|NNS cell|VBP phone|NN bills|NNS and|CC music|JJ downloads|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START although|IN many|JJ parents|NNS are|VBP quick|JJ to|TO point|NN out|RP that|IN their|PRP$ kids|NNS arent|NN getting|VBG a|DT free|JJ ride|NN </s>|S_END
+<s>|S_START almost|RB all|DT of|IN the|DT parents|NNS 89|CD who|WP responded|VBN to|TO the|DT survey|NN said|VBD they|PRP expect|VBP their|PRP$ children|NNS to|TO work|VB at|IN least|JJS one|CD hour|NN a|DT week|NN </s>|S_END
+<s>|S_START on|IN average|JJ these|DT kids|NNS work|VBP 62|CD hours|NNS a|DT week|NN </s>|S_END
+<s>|S_START and|CC good|VBD grades|NNS also|RB get|VB rewarded|VBN with|IN each|DT a|DT harnessing|NN an|DT average|JJ of|IN $|$ 1660|CD above|IN and|CC beyond|IN regular|JJ allowance|NN pay|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN more|JJR kids|NNS moving|VBG back|RB home|NN after|IN college|NN these|DT parents|NNS could|MD be|VB paying|VBG up|RP for|IN the|DT long|JJ haul|NN </s>|S_END
+<s>|S_START nearly|RB half|NN of|IN the|DT parents|NNS surveyed|VBN said|VBD they|PRP expect|VBP to|TO support|VB their|PRP$ children|NNS financially|RB until|IN age|NN 22|CD or|CC older|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD child|VBN care|NN costs|NNS what|WP do|VBP you|PRP pay|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START kids|NNS who|WP are|VBP taught|VBD to|TO handle|VB money|NN at|IN an|DT early|JJ age|NN will|MD be|VB better|JJR prepared|VBN once|RB they|PRP leave|VBP the|DT nest|JJS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT aicpas|NNS financial|JJ literacy|NN commission|NN advises|NNS parents|NNS to|TO set|VB clear|JJ parameters|NNS on|IN allowances|NNS with|IN details|NNS on|IN why|WRB the|DT child|NN receives|VBZ it|PRP and|CC how|WRB they|PRP can|MD lose|VB it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START parents|NNS should|MD use|VB an|DT allowance|NN as|IN a|DT gateway|NN for|IN budgeting|NN by|IN setting|NN aside|NN a|DT percentage|NN of|IN the|DT money|NN each|DT week|NN for|IN certain|JJ spending|NN categories|NNS like|IN outings|NNS with|IN friends|NNS shortterm|VBP savings|NNS and|CC a|DT college|NN fund|NN the|DT group|NN said|VBD </s>|S_END
+<s>|S_START to|TO encourage|NN even|RB more|RBR savings|NNS offer|VBP to|TO match|VB the|DT longterm|NN stockpile|NN dollar|NN for|IN dollar|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START finally|RB talk|VBP to|TO kids|NNS about|IN finances|NNS early|RB and|CC often|RB </s>|S_END
+<s>|S_START the|DT more|RBR they|PRP hear|VBP the|DT more|RBR likely|JJ they|PRP are|VBP to|TO follow|VB the|DT guidelines|NNS they|PRP learned|VBD from|IN a|DT young|JJ age|NN </s>|S_END
+</p>|P_END
+

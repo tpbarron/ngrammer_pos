@@ -1,0 +1,82 @@
+<p>|P_START
+<s>|S_START barclays|NNS agreed|VBD to|TO pay|VB $|$ 453|CD million|CD to|TO regulators|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN banks|NNS implicated|VBD in|IN the|DT liborfixing|NN scandal|NN will|MD likely|RB take|VB billions|NNS more|RBR in|IN losses|NNS as|IN a|DT result|NN of|IN pending|VBG litigation|NN and|CC regulatory|JJ penalties|NNS according|VBG to|TO industry|NN analysts|NNS at|IN morgan|JJ stanley|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT analysis|NN which|WDT the|DT authors|NNS admit|VBP is|VBZ crude|JJ is|VBZ based|VBN in|IN part|NN on|IN the|DT experience|NN of|IN barclays|NNS the|DT british|JJ bank|NN which|WDT admitted|VBN that|IN its|PRP$ staffers|NNS attempted|VBN to|TO manipulate|VB the|DT london|NN interbank|NN offered|VBD rate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ of|IN the|DT worlds|NNS major|JJ banks|NNS including|VBG deutsche|NN bank|NN db|NN royal|NN bank|NN of|IN scotland|NN rbs|NNS credit|NN suisse|NN cs|NNS citigroup|NN c|NN fortune|NN 500|CD ubs|NNS ubs|NNS and|CC jpmorgan|VBD chase|NN jpm|NN fortune|NN 500|CD have|VBP disclosed|VBN that|IN they|PRP are|VBP being|VBG investigated|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START barclays|NNS has|VBZ agreed|VBN to|TO pay|VB $|$ 453|CD million|CD to|TO us|PRP and|CC uk|VB regulators|NNS a|DT settlement|NN which|WDT provided|VBN the|DT basis|NN for|IN morgan|NN stanleys|NNS calculation|NN that|IN at|IN least|JJS ten|NNS additional|JJ banks|NNS could|MD be|VB fined|VBN between|IN $|$ 420|CD and|CC $|$ 651|CD million|CD by|IN regulators|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START other|JJ banks|NNS implicated|VBD in|IN the|DT scandal|NN but|CC not|RB included|VBN in|IN the|DT morgan|NN stanley|NN analysis|NN could|MD also|RB face|VB penalties|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banks|NNS that|IN have|VBP not|RB yet|RB settled|VBN with|IN regulators|NNS will|MD likely|RB pay|VB a|DT premium|NN as|IN barclays|NNS received|VBN preferential|JJ treatment|NN from|IN regulators|NNS because|IN it|PRP was|VBD cooperative|JJ and|CC settled|VBD quickly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT other|JJ banks|NNS according|VBG to|TO the|DT analysis|NN should|MD expect|VB to|TO pay|VB 30|CD more|JJR </s>|S_END
+<s>|S_START under|IN another|DT scenario|NN the|DT banks|NNS could|MD face|VB even|RB higher|JJR fines|NNS after|IN the|DT uk|NN serious|JJ fraud|NN office|NN completes|VBZ its|PRP$ investigation|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD geithner|NN identified|VBD libor|NN problems|NNS in|IN 08|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START banks|NNS also|RB face|VBP significant|JJ losses|NNS resulting|VBG from|IN litigation|NN </s>|S_END
+<s>|S_START sixteen|IN firms|NNS already|RB face|VBP legal|JJ action|NN which|WDT morgan|NN stanley|NN estimated|VBD could|MD result|VB in|IN total|JJ losses|NNS of|IN $|$ 6|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN the|DT banks|NNS analyzed|VBD one|CD would|MD face|VB an|DT estimated|VBN loss|NN of|IN $|$ 59|CD million|CD from|IN litigation|NN while|IN two|CD others|NNS would|MD face|VB losses|NNS of|IN over|IN $|$ 1|CD billion|CD underscoring|NN the|DT wide|JJ range|NN of|IN potential|JJ outcomes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT morgan|NN stanley|NN analysts|NNS freely|RB acknowledge|VBP the|DT limitations|NNS of|IN their|PRP$ estimates|NNS which|WDT they|PRP say|VBP are|VBP the|DT result|NN of|IN significant|JJ assumptions|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT analysis|NN for|IN example|NN assumes|NNS the|DT banks|NNS acted|VBD to|TO suppress|NN the|DT libor|NN rate|NN every|DT day|NN over|IN a|DT fouryear|NN period|NN </s>|S_END
+<s>|S_START and|CC the|DT chance|NN of|IN a|DT lawsuit|NN succeeding|VBG estimated|VBN to|TO be|VB 36|CD is|VBZ pegged|VBN to|TO a|DT study|NN of|IN completed|VBN financial|JJ crisis|NN lawsuits|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD winners|NNS and|CC losers|NNS in|IN libor|NN mess|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START other|JJ analysts|NNS are|VBP downplaying|VBG the|DT scandals|NNS likely|JJ impact|NN </s>|S_END
+<s>|S_START glenn|NN schorr|NN an|DT analyst|NN at|IN nomura|NN said|VBD in|IN a|DT note|NN of|IN his|PRP$ own|JJ on|IN friday|NN that|IN there|EX are|VBP a|DT handful|JJ of|IN reasons|NNS that|WDT the|DT ultimate|JJ financial|JJ exposure|NN could|MD be|VB less|RBR than|IN worst|JJS fears|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ individuals|NNS and|CC corporations|NNS likely|JJ benefited|VBN from|IN liborfixing|VBG schorr|NN argued|VBD and|CC the|DT system|NN is|VBZ so|RB complex|JJ that|IN joint|JJ manipulation|NN will|MD be|VB hard|RB to|TO prove|VB and|CC losses|NNS difficult|VBD to|TO quantify|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nomura|NN made|VBD an|DT effort|NN to|TO estimate|VB the|DT industrys|NNS total|VBP exposure|NN to|TO the|DT libor|NN scandal|NN but|CC found|VBD too|RB many|JJ variables|NNS </s>|S_END
+<s>|S_START depending|VBG on|IN the|DT assumptions|NNS made|VBN losses|NNS could|MD range|VB from|IN a|DT few|JJ billion|NN dollars|NNS to|TO hundreds|NNS of|IN billions|NNS nomura|VBP said|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP think|VBP that|IN given|VBN the|DT complexity|NN involved|VBN with|IN this|DT type|NN of|IN case|NN that|WDT the|DT parties|NNS including|VBG the|DT regulators|NNS may|MD be|VB persuaded|VBN at|IN some|DT point|NN to|TO pursue|VB the|DT settlement|NN route|NN schorr|NN wrote|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START correction|NN an|DT earlier|JJR version|NN of|IN this|DT story|NN indicated|VBD that|IN losses|NNS from|IN litigation|NN could|MD range|VB from|IN $|$ 59|CD billion|CD to|TO over|IN $|$ 1|CD billion|CD according|VBG to|TO morgan|VB stanleys|NNS analysis|NN </s>|S_END
+<s>|S_START in|IN fact|NN the|DT range|NN of|IN possible|JJ outcomes|NNS is|VBZ $|$ 59|CD million|CD to|TO over|IN $|$ 1|CD billion|CD </s>|S_END
+</p>|P_END
+

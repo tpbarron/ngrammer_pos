@@ -1,0 +1,121 @@
+<p>
+<s>a recent hacker forum posting advertised linkedin connections for sale</s>
+</p>
+
+<p>
+<s>san francisco cnnmoney  if you use linkedin youve probably told the site where you work what you do and who you work with</s>
+<s>thats a gold mine for hackers who are increasingly savvy in using that kind of public  but personal  information for pinpoint attacks</s>
+</p>
+
+<p>
+<s>its called spear phishing and it paid off last year in two especially highprofile security breaches a gmail attack that ensnared several top us government officials and a separate attack on rsa whose securid authentication tokens are used by millions</s>
+</p>
+
+<p>
+<s>in both cases the attackers successfully tricked their targets into opening email attachments that appeared to come from trusted sources or colleagues</s>
+</p>
+
+<p>
+<s>investigators havent disclosed how the attackers gathered information on their victims but at rsas security conference last month the risks of social networking sites  and linkedin lnkd in particular  were a hot topic</s>
+<s>dozens of presenters said the business networking site could be a potent weapon in the hacker toolkit</s>
+</p>
+
+<p>
+<s>businesspeople are using linkedin for research purposes and headhunters and marketers use it to recruit</s>
+<s>why wouldnt chinese intelligence agents use it as well to spear phish</s>
+<s> said security analyst ira winkler the author of spies among us</s>
+</p>
+
+<p>
+<s>most of the discussion about linkedins risks was theoretical  investigators say its almost impossible to trace back the original source of personal data used in successful social engineering attacks</s>
+</p>
+
+<p>
+<s>but in one arresting case study selfdescribed hacker for hire ryan ohoro demonstrated how he used linkedin to get inside a clients corporate network</s>
+</p>
+
+<p>
+<s>ohoro is a managing security consultant for ioactive a services firm that offers vulnerability testing</s>
+<s>his customer a highprofile company with tens of thousands of employees had topnotch technical protections</s>
+</p>
+
+<p>
+<s>we needed to go to the next level ohoro said of his efforts to crack its network</s>
+</p>
+
+<p>
+<s>ohoro created a fake account on linkedin posing as a company employee</s>
+<s>he stocked the profile with realistic details  a plausible job history and skill set  plus a few credibilityestablishing flourishes like a membership in a local hockey league</s>
+<s>from his dummy account ohoro sent out 300 connection requests to current company employees</s>
+<s>sixtysix were accepted</s>
+</p>
+
+<p>
+<s>next ohoro requested access to a private linkedin discussion forum the companys employees had created</s>
+<s>the groups moderators granted his request without ever checking a company directory to confirm his identity</s>
+</p>
+
+<p>
+<s>now i had an audience of 1000 company employees ohoro said</s>
+<s>i posted a link to the group wall that purported to be a beta test signup page for a new project</s>
+<s>in two days i got 87 hits  40 from inside the corporate network</s>
+</p>
+
+<p>
+<s>ohoro got caught just three days into his linkedin attack an astute employee figured out he didnt belong and blew the whistle</s>
+<s>but hed already made his point</s>
+</p>
+
+<p>
+<s>they were definitely surprised that the group existed ohoro said of his clients response to his report</s>
+<s>it wasnt a formal company group there was no oversight or policy covering that aspect of their social presence</s>
+<s>the people in charge of their information security didnt know it was there</s>
+</p>
+
+<p>
+<s>hackers dont need anything so fancy as private discussion forums to take advantage of linkedin though</s>
+<s>the sites users openly display plenty of valuable data</s>
+</p>
+
+<p>
+<s>at last summers defcon security conference a group of social engineering hackers staged a game in which contestants attempted to trick employees at more than a dozen major companies  including apple aapl fortune 500 att t fortune 500 calmar wmt fortune 500 and united airlines ual fortune 500  into disclosing sensitive corporate information</s>
+<s>next to google goog fortune 500 linkedin was the competitors most widely used resource</s>
+</p>
+
+<p>
+<s>some people divulged specific technical information about their employers infrastructure in their profiles while others offered up details that could be used for stealth attacks</s>
+<s>for example if you can learn the name of a targets colleagues its fairly easy to fake an email that appears to come from one of them</s>
+</p>
+
+<p>
+<s>linkedin says it urges users to think carefully about the information they choose to reveal</s>
+</p>
+
+<p>
+<s>we recommend members connect only with people that they know and trust says company spokesman richard george</s>
+<s>all internet users should of course be aware of the fact that there are bad guys out there who unfortunately resort to things like phishing attacks and that people should use common sense and tools available to them to ensure that they dont fall prey</s>
+</p>
+
+<p>
+<s>linkedins vulnerability though is inextricably tied to its growth</s>
+<s>the site now has 150 million users  almost twice as many as it had just one year ago</s>
+<s>as its database grows richer its value increases for both its members and those wishing to exploit them</s>
+</p>
+
+<p>
+<s>security researcher rob rachwald regularly monitors the chatter on sites and chat rooms where hackers meet to swap tips</s>
+<s>linkedins prominence there is rising he says</s>
+</p>
+
+<p>
+<s>to illustrate the point he pulled up a scattering of recent messages from one online hub hackforumsnet</s>
+<s>one posting solicited for someone to break into a target linkedin account while others advertised real linkedin connections for sale</s>
+</p>
+
+<p>
+<s>hackers go where people go says rachwald the director of security strategy for software firm imperva</s>
+<s>as facebook grew they went there</s>
+<s>as linkedin grows theyre going there</s>
+<s> </s>
+</p>
+

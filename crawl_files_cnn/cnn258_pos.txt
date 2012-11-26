@@ -1,0 +1,68 @@
+<p>|P_START
+<s>|S_START think|NN that|IN pricey|NN private|JJ college|NN is|VBZ out|RP of|IN reach|NN for|IN your|PRP$ budget|NN </s>|S_END
+<s>|S_START think|NN again|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT growing|VBG number|NN of|IN private|JJ colleges|NNS are|VBP awarding|VBG most|JJS or|CC even|RB all|DT of|IN their|PRP$ students|NNS scholarships|NNS that|WDT bring|VBG tuition|NN close|NN to|TO public|JJ college|NN levels|NNS </s>|S_END
+<s>|S_START ripon|IN college|NN in|IN wisconsin|NN for|IN example|NN gives|VBZ nearly|RB all|DT of|IN its|PRP$ students|NNS enough|RB grants|NNS to|TO make|VB its|PRP$ price|NN tag|NN competitive|JJ with|IN that|DT of|IN public|JJ universities|NNS </s>|S_END
+<s>|S_START and|CC a|DT few|JJ private|JJ colleges|NNS such|JJ as|IN seton|NN hall|NN have|VBP started|VBN to|TO offer|VB to|TO match|VB the|DT price|NN of|IN public|JJ colleges|NNS for|IN good|JJ students|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN course|NN theres|NNS no|DT way|NN to|TO determine|VB which|WDT schools|NNS will|MD give|VB you|PRP enough|RB scholarship|VBP money|NN to|TO make|VB their|PRP$ school|NN more|JJR affordable|JJ than|IN the|DT next|JJ one|CD youre|NN best|JJS bet|NN is|VBZ to|TO estimate|VB the|DT cost|NN using|VBG our|PRP$ calculator|NN but|CC we|PRP can|MD tell|VB you|PRP which|WDT schools|NNS offer|VBP midpriced|VBN educations|NNS $|$ 5000|CD to|TO $|$ 15000|CD in|IN tuition|NN and|CC fees|NNS per|IN year|NN for|IN all|DT students|NNS who|WP get|VB accepted|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START public|JJ colleges|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT average|JJ public|JJ university|NN charges|VBZ instate|JJ residents|NNS about|IN $|$ 8200|CD a|DT year|NN in|IN tuition|NN and|CC fees|NNS for|IN the|DT 201112|CD academic|JJ year|NN according|VBG to|TO the|DT college|NN board|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT flagship|NN state|NN universities|NNS in|IN the|DT rocky|JJ mountain|NN region|NN and|CC in|IN the|DT south|NN charge|NN their|PRP$ residents|NNS less|JJR than|IN $|$ 6000|CD a|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unfortunately|RB some|DT of|IN the|DT most|RBS populous|JJ states|NNS such|JJ as|IN pennsylvania|NN california|NN and|CC new|JJ jersey|NN also|RB have|VBP the|DT most|RBS expensive|JJ public|JJ universities|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START penn|NN state|NN for|IN example|NN has|VBZ the|DT dubious|JJ distinction|NN of|IN having|VBG the|DT highest|JJS public|JJ tuition|NN with|IN the|DT average|JJ tuition|NN and|CC fee|NN bill|NN exceeding|VBG $|$ 17000|CD in|IN 201112|CD </s>|S_END
+<s>|S_START after|IN adding|VBG in|IN living|NN costs|NNS in|IN expensive|JJ communities|NNS like|IN berkeley|NN the|DT total|NN cost|NN of|IN attendance|NN at|IN the|DT flagship|NN university|NN of|IN california|NN campuses|NNS exceeded|VBD $|$ 30000|CD in|IN 201112|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC most|JJS of|IN these|DT expensive|JJ states|NNS also|RB offer|VBP less|JJR expensive|JJ fouryear|NN public|JJ universities|NNS </s>|S_END
+<s>|S_START the|DT california|NN state|NN university|NN campuses|NNS for|IN example|NN generally|RB charged|VBD less|JJR than|IN $|$ 7000|CD a|DT year|NN in|IN tuition|NN during|IN the|DT 201112|CD academic|JJ year|NN and|CC have|VB a|DT total|NN cost|NN of|IN attendance|NN typically|RB less|JJR than|IN $|$ 25000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START private|JJ colleges|NNS that|WDT promise|VBP to|TO match|VB public|JJ university|NN costs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START california|NN lutheran|VBD university|NN </s>|S_END
+<s>|S_START this|DT thousand|NN oaks|VBZ calif|IN college|NN promises|NNS to|TO match|VB the|DT cost|NN of|IN attending|VBG some|DT of|IN the|DT university|NN of|IN california|NN campuses|NNS for|IN students|NNS who|WP have|VBP been|VBN admitted|VBN to|TO a|DT competing|VBG uc|NN and|CC clu|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START northland|NN college|NN </s>|S_END
+<s>|S_START this|DT wisconsin|NN college|NN promises|VBZ to|TO match|VB public|JJ school|NN costs|NNS for|IN students|NNS with|IN at|IN least|JJS a|DT b|NN average|NN from|IN families|NNS earning|VBG up|RP to|TO $|$ 150000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START seton|NN hall|VBD university|NN </s>|S_END
+<s>|S_START this|DT new|JJ jersey|NN college|NN promises|VBZ to|TO match|VB the|DT cost|NN of|IN rutgers|NNS which|WDT charged|VBN tuition|NN and|CC fees|NNS of|IN about|IN $|$ 13000|CD in|IN 201112|CD for|IN early|JJ applicants|NNS with|IN excellent|NN test|NN scores|NNS who|WP are|VBP in|IN the|DT top|JJ 10|CD of|IN their|PRP$ class|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START international|JJ colleges|NNS some|DT overseas|JJ schools|NNS including|VBG the|DT highly|RB ranked|VBN university|NN of|IN hong|JJ kong|JJ and|CC many|JJ canadian|JJ colleges|NNS charge|VBP americans|NNS about|IN $|$ 15000|CD a|DT year|NN for|IN tuition|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START next|JJ understanding|NN financial|JJ aid |NN </s>|S_END
+</p>|P_END
+

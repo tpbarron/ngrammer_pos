@@ -1,0 +1,72 @@
+<p>|P_START
+<s>|S_START in|IN 2011|CD american|JJ bank|NN bosses|NNS will|MD start|VB trying|VBG to|TO reverse|VB one|CD of|IN the|DT biggest|JJS mistakes|NNS their|PRP$ firms|NNS made|VBN over|IN the|DT past|JJ two|CD decade|NN </s>|S_END
+<s>|S_START that|DT was|VBD not|RB the|DT creation|NN of|IN subprime|NN debt|NN nor|CC the|DT culture|NN of|IN excess|NN on|IN wall|NN street|NN but|CC the|DT decision|NN to|TO grow|VB bigger|JJR in|IN their|PRP$ home|NN market|NN rather|RB than|IN try|NN to|TO dominate|VB global|JJ banking|NN </s>|S_END
+<s>|S_START given|VBN that|IN the|DT demand|NN for|IN financial|JJ services|NNS in|IN america|NN will|MD stagnate|VB or|CC even|RB decline|VBP over|IN the|DT next|JJ decade|NN and|CC a|DT barrage|NN of|IN new|JJ rules|NNS will|MD hurt|VB profits|NNS the|DT shift|NN into|IN reverse|NN makes|VBZ sense|NN </s>|S_END
+<s>|S_START but|CC since|IN the|DT 1960s|CD and|CC 1970s|CD when|WRB american|JJ banks|NNS had|VBD their|PRP$ last|JJ big|JJ push|NN abroad|NN international|JJ competition|NN has|VBZ got|VBN far|RB tougher|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START americas|NNS big|JJ industrial|JJ firms|NNS are|VBP truly|RB global|JJ </s>|S_END
+<s>|S_START compared|VBN with|IN them|PRP its|PRP$ banks|NNS are|VBP pygmie|JJ </s>|S_END
+<s>|S_START of|IN the|DT biggest|JJS four|CD three|CD get|NN a|DT quarter|NN or|CC less|JJR of|IN their|PRP$ revenue|NN from|IN outside|JJ north|NN america|NN </s>|S_END
+<s>|S_START although|IN some|DT american|JJ firms|NNS are|VBP prominent|JJ in|IN financial|JJ centres|NNS such|JJ as|IN hong|JJ kong|NN and|CC london|NN beyond|NN these|DT entrepôts|NNS and|CC beyond|IN investment|NN banking|NN their|PRP$ presence|NN is|VBZ lightweight|VBN </s>|S_END
+<s>|S_START this|DT weakness|NN is|VBZ glaring|VBG in|IN emerging|VBG markets|NNS where|WRB the|DT top|JJ two|CD foreign|JJ firms|NNS are|VBP usually|RB european|JJ the|DT main|JJ exceptions|NNS are|VBP citigroup|RB in|IN mexico|NN and|CC in|IN south|NN korea|NN </s>|S_END
+<s>|S_START the|DT total|NN amount|NN of|IN american|JJ banks|NNS loans|NNS to|TO emerging|VBG economies|NNS is|VBZ a|DT fifth|JJ of|IN the|DT total|JJ lent|NN to|TO those|DT markets|NNS by|IN european|JJ firm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START much|RB of|IN this|DT reflects|NNS a|DT late|JJ and|CC faltering|VBG start|NN </s>|S_END
+<s>|S_START nationally|RB licensed|VBD american|JJ banks|NNS were|VBD allowed|VBN abroad|RB only|RB in|IN 1913|CD </s>|S_END
+<s>|S_START whereas|IN citigroup|NN steadily|RB built|VBN its|PRP$ international|JJ presence|NN in|IN 1960|CD only|RB seven|CD others|NNS of|IN the|DT several|JJ thousand|CD american|JJ banks|NNS had|VBD any|DT foreign|JJ branche|NN </s>|S_END
+<s>|S_START that|DT quickly|RB changed|VBD as|IN banks|NNS rushed|VBD overseas|JJ to|TO sidestep|VB balanceofpayments|NNS restrictions|NNS and|CC tap|VB into|IN new|JJ offshore|NN lending|VBG market|NN </s>|S_END
+<s>|S_START but|CC after|IN a|DT peak|NN of|IN activity|NN in|IN the|DT late|JJ 1970s|CD many|JJ firms|NNS retrenched|VBD again|RB </s>|S_END
+<s>|S_START chase|NN manhattan|VBD for|IN example|NN shut|NN down|IN much|RB of|IN its|PRP$ emergingmarkets|NNS network|NN in|IN the|DT 1980|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT banks|NNS then|RB fell|VBD for|IN americas|NNS comfort|NN </s>|S_END
+<s>|S_START by|IN the|DT 1990s|CD the|DT debt|NN boom|NN had|VBD begun|VBN and|CC banks|NNS were|VBD at|IN last|JJ allowed|VBN to|TO operate|VB in|IN lots|NNS of|IN different|JJ states|NNS and|CC to|TO run|VB investment|NN banks|NNS and|CC insurance|NN operation|NN </s>|S_END
+<s>|S_START a|DT wave|NN of|IN consolidation|NN followed|VBN </s>|S_END
+<s>|S_START citibank|NN became|VBD a|DT financial|JJ supermarket|NN chase|NN and|CC jp|VB morgan|JJ combined|VBN </s>|S_END
+<s>|S_START bank|NN of|IN america|NN a|DT serial|JJ acquirer|NN at|IN home|NN sold|VBD its|PRP$ big|JJ latin|NN american|NN operation|NN in|IN 2006|CD </s>|S_END
+<s>|S_START its|PRP$ former|JJ boss|NN ken|NN lewis|VBZ took|NN a|DT certain|JJ gleeful|JJ pleasure|NN in|IN expressing|NN his|PRP$ lack|NN of|IN interest|NN in|IN banking|NN abroad|RB </s>|S_END
+<s>|S_START lots|NNS of|IN european|JJ firms|NNS were|VBD seduced|VBN by|IN america|NN too|RB buying|VBG brokerages|NNS regional|JJ banks|NNS and|CC even|RB subprime|VB outfit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN 2010|CD was|VBD the|DT year|NN in|IN which|WDT bankers|NNS began|VBD to|TO appreciate|VB just|RB how|WRB sluggish|JJ and|CC heavily|RB regulated|VBN the|DT american|NN banking|NN market|NN will|MD become|VB then|RB in|IN 2011|CD they|PRP will|MD grapple|VB with|IN two|CD other|JJ strategic|JJ reasons|NNS to|TO shift|VB abroad|RB </s>|S_END
+<s>|S_START the|DT first|JJ is|VBZ that|IN if|IN global|JJ trade|NN changes|NNS its|PRP$ balance|NN banks|NNS will|MD have|VB to|TO react|VB </s>|S_END
+<s>|S_START american|NN companies|NNS that|WDT are|VBP keen|VBN to|TO export|VB more|JJR will|MD expect|VB their|PRP$ banks|NNS to|TO help|VB them|PRP more|JJR oversea|NN </s>|S_END
+<s>|S_START and|CC assuming|VBG asian|JJ countries|NNS save|VBP less|JJR and|CC spend|NN more|RBR there|EX will|MD be|VB a|DT big|JJ rise|NN in|IN their|PRP$ consumers|NNS demand|NN for|IN financial|JJ product|NN </s>|S_END
+<s>|S_START american|NN banks|NNS will|MD be|VB keen|VBN to|TO profit|NN from|IN thi|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT late|JJ shift|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT second|JJ reason|NN is|VBZ that|IN in|IN their|PRP$ hearts|NNS most|RBS american|JJ banks|NNS made|VBD the|DT wrong|JJ bet|NN they|PRP assumed|VBD that|IN the|DT world|NN would|MD develop|VB in|IN their|PRP$ image|NN with|IN bond|NN and|CC securitisation|NN markets|NNS playing|VBG a|DT dominant|JJ role|NN in|IN providing|NN credit|NN </s>|S_END
+<s>|S_START this|DT is|VBZ why|WRB most|RBS firms|NNS put|VBD their|PRP$ energy|NN abroad|RB into|IN investment|NN banking|NN </s>|S_END
+<s>|S_START but|CC after|IN the|DT crisis|NN many|JJ developing|VBG countries|NNS want|VBP a|DT different|JJ sort|NN of|IN finance|NN one|CD in|IN which|WDT foreign|JJ banks|NNS lend|VBP raise|VBP local|JJ deposits|NNS and|CC have|VBP lots|NNS of|IN branches|NNS rather|RB than|IN just|RB trade|NN from|IN offshore|NN hubs|NNS and|CC rely|RB on|IN borrowed|VBN money|NN to|TO fund|VB themselve|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT shift|NN has|VBZ already|RB begun|VBN </s>|S_END
+<s>|S_START citigroup|NN is|VBZ shrinking|VBG back|RB to|TO its|PRP$ core|NN business|NN of|IN international|JJ banking|NN and|CC bank|NN of|IN americas|NNS new|JJ boss|NN has|VBZ tried|VBN to|TO emphasise|VB its|PRP$ global|JJ credentials|NNS more|RBR </s>|S_END
+<s>|S_START jpmorgan|NN chase|NN wants|VBZ to|TO expand|VB in|IN the|DT worthy|JJ business|NN of|IN transaction|NN banking—helping|JJ corporate|JJ customers|NNS shift|VBP their|PRP$ cash|NN around|IN the|DT world|NN </s>|S_END
+<s>|S_START perhaps|RB even|RB wells|VBZ fargo|RB still|RB an|DT almost|RB entirely|RB domestic|JJ operation|NN will|MD start|VB to|TO broaden|VB its|PRP$ horizon|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yet|RB as|IN they|PRP push|VBP abroad|RB in|IN 2011|CD american|JJ banks|NNS will|MD discover|VB how|WRB competitive|JJ things|NNS have|VBP become|VBN </s>|S_END
+<s>|S_START big|JJ takeovers|NNS are|VBP no|DT longer|JJR popular|JJ at|IN home|NN or|CC abroad|RB </s>|S_END
+<s>|S_START european|JJ firms|NNS have|VBP already|RB established|VBN themselves|PRP in|IN most|JJS developing|VBG markets|NNS and|CC governments|NNS there|RB are|VBP reluctant|JJ to|TO see|VB more|JJR of|IN their|PRP$ banking|NN systems|NNS in|IN foreign|JJ hand|NN </s>|S_END
+<s>|S_START lastly|RB emergingmarket|VBD banks|NNS from|IN china|NN brazil|NN and|CC india|NN are|VBP now|RB building|VBG exactly|RB the|DT kind|NN of|IN global|JJ presence|NN that|WDT was|VBD once|RB the|DT preserve|NN of|IN western|JJ firm|NN </s>|S_END
+<s>|S_START while|IN american|JJ banks|NNS have|VBP been|VBN consumed|VBN at|IN home|NN the|DT rest|NN of|IN the|DT worlds|NNS banks|NNS have|VBP grown|VBN up|RP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START patrick|NN foulis|NNS banking|VBG editor|NN the|DT economist|NN </s>|S_END
+</p>|P_END
+

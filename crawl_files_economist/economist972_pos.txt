@@ -1,0 +1,50 @@
+<p>|P_START
+<s>|S_START olar|JJ panels|NNS get|VBP better|RBR and|CC cheaper|JJR with|IN every|DT passing|VBG year|NN </s>|S_END
+<s>|S_START in|IN one|CD way|NN though|IN they|PRP are|VBP still|RB quite|RB primitive|JJ </s>|S_END
+<s>|S_START they|PRP work|VBP only|RB with|IN light|JJ in|IN the|DT visible|JJ part|NN of|IN the|DT spectrum|NN </s>|S_END
+<s>|S_START yet|RB 40|CD of|IN the|DT solar|JJ energy|NN that|WDT reaches|VBZ the|DT earth|NN is|VBZ in|IN or|CC very|RB close|JJ to|TO the|DT infrared|VBN </s>|S_END
+<s>|S_START a|DT cell|NN that|WDT could|MD harvest|VB such|JJ radiation|NN would|MD be|VB a|DT boon|NN to|TO the|DT solarpower|NN business|NN but|CC building|VBG one|CD has|VBZ proved|VBN difficult|JJ </s>|S_END
+<s>|S_START now|RB though|IN as|IN they|PRP report|VBP in|IN advanced|JJ materials|NNS a|DT group|NN of|IN researchers|NNS led|VBN by|IN michael|NN strano|RB at|IN the|DT massachusetts|NNS institute|VBP of|IN technology|NN have|VBP worked|VBN out|RP how|WRB to|TO do|VB it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB sunlight|VBD strikes|VBZ the|DT silicon|NN atoms|NNS in|IN an|DT ordinary|JJ solar|NN cell|NN it|PRP knocks|VBZ electrons|NNS loose|VBP and|CC allows|NNS them|PRP to|TO flow|VB as|IN an|DT electrical|JJ current|JJ </s>|S_END
+<s>|S_START light|NN of|IN other|JJ frequencies|NNS can|MD do|VB the|DT same|JJ trick|NN with|IN other|JJ material|NN </s>|S_END
+<s>|S_START researchers|NNS have|VBP known|VBN for|IN several|JJ years|NNS for|IN example|NN that|WDT carbon|NN nanotubes—tiny|-NONE- cylinders|NNS whose|WP$ walls|NNS are|VBP sheets|NNS of|IN carbon—will|NNP release|NN electrons|NNS when|WRB stimulated|VBN by|IN infrared|VBN light|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT discovery|NN led|VBD to|TO much|RB experimentation|NN but|CC little|RB progre|VBP </s>|S_END
+<s>|S_START the|DT chief|NN difficulty|NN lies|NNS in|IN the|DT process|NN used|VBD to|TO make|VB the|DT tube|NN </s>|S_END
+<s>|S_START this|DT actually|RB produces|VBZ a|DT mixture|NN of|IN two|CD different|JJ sorts|NNS ones|NNS that|WDT have|VBP metallike|VBP properties|NNS and|CC ones|NNS that|WDT are|VBP semiconducting|VBG </s>|S_END
+<s>|S_START olar|JJ cells|NNS need|VBP the|DT semiconducting|VBG variety|NN </s>|S_END
+<s>|S_START metallic|JJ ones|NNS poison|NN the|DT process|NN and|CC must|MD be|VB removed|VBN before|IN a|DT cell|NN can|MD work|VB properly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START until|IN now|RB researchers|NNS wishing|VBG to|TO do|VB that|DT have|VB been|VBN forced|VBN to|TO play|VB a|DT tedious|JJ game|NN of|IN pickupsticks|NNS selecting|VBG the|DT semiconducting|VBG nanotubes|NNS one|CD by|IN one|CD and|CC then|RB sticking|VBG them|PRP in|IN place|NN with|IN glue|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ possible|JJ to|TO make|VB a|DT solar|JJ cell|NN this|DT way|NN but|CC it|PRP is|VBZ timeconsuming|VBG and|CC expensive|JJ </s>|S_END
+<s>|S_START worse|NN the|DT chemical|JJ instability|NN of|IN the|DT glue|NN means|VBZ such|JJ cells|NNS tend|VBP to|TO break|VB down|RP rapidly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN strano|VBD however|RB has|VBZ exploited|VBN a|DT new|JJ manufacturing|NN process|NN based|VBN on|IN a|DT polymer|NN gel|NN that|WDT has|VBZ an|DT affinity|NN for|IN semiconducting|NN nanotubes|NNS but|CC not|RB metallic|JJ one|CD </s>|S_END
+<s>|S_START he|PRP is|VBZ thus|RB able|JJ to|TO extract|VB large|JJ numbers|NNS of|IN semiconducting|VBG tubes|NNS from|IN a|DT mixture|NN </s>|S_END
+<s>|S_START that|DT done|NN he|PRP deposits|VBZ them|PRP in|IN a|DT 100|CD nanometrethick|NN layer|NN on|IN top|JJ of|IN a|DT piece|NN of|IN glass|NN to|TO which|WDT they|PRP stick|VBP without|IN the|DT need|NN for|IN glue|NN </s>|S_END
+<s>|S_START the|DT whole|JJ thing|NN is|VBZ then|RB topped|VBN with|IN a|DT layer|NN of|IN buckminsterfullerene|NN a|DT form|NN of|IN carbon|NN in|IN which|WDT the|DT atoms|NNS are|VBP arranged|VBN in|IN tiny|NN cagelike|NN sphere|RB </s>|S_END
+<s>|S_START this|DT layer|NN acts|VBZ as|IN an|DT electrode|NN so|IN that|IN the|DT solar|JJ panel|NN can|MD be|VB connected|VBN to|TO a|DT circuit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT result|NN is|VBZ not|RB exactly|RB efficient|JJ </s>|S_END
+<s>|S_START it|PRP transforms|VBZ only|RB around|IN 01|CD of|IN the|DT infrared|VBN light|NN thrown|NN at|IN it|PRP into|IN electricity|NN compared|VBN with|IN 20|CD for|IN an|DT ordinary|JJ solar|NN cell|NN </s>|S_END
+<s>|S_START but|CC dr|PRP$ strano|NN and|CC his|PRP$ colleagues|NNS are|VBP nonetheless|RB jubilant|JJ </s>|S_END
+<s>|S_START after|IN all|DT 01|CD is|VBZ a|DT big|JJ step|NN up|IN from|IN nothing|NN at|IN all|DT and|CC most|JJS existing|VBG solar|JJ technologies|NNS began|VBD with|IN similarly|RB poor|JJ efficiencies|NNS that|WDT were|VBD improved|VBN gradually|RB over|IN the|DT course|NN of|IN time|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START moreover|RB the|DT new|JJ technology|NN has|VBZ one|CD big|JJ benefit|NN </s>|S_END
+<s>|S_START though|IN the|DT carbon|NN nanotubes|VBZ absorb|NN infrared|VBN light|JJ they|PRP are|VBP almost|RB totally|RB transparent|JJ to|TO the|DT visible|JJ variety|NN </s>|S_END
+<s>|S_START this|DT means|VBZ that|IN if|IN and|CC when|WRB they|PRP become|VBP commercially|RB viable|JJ they|PRP can|MD be|VB overlaid|VBN on|IN traditional|JJ silicon|NN cells|NNS to|TO produce|VB a|DT device|NN that|WDT converts|VBZ a|DT larger|JJR fraction|NN of|IN the|DT incident|NN sunlight|NN into|IN electricity|NN </s>|S_END
+</p>|P_END
+

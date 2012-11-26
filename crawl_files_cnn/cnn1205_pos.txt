@@ -1,0 +1,114 @@
+<p>|P_START
+<s>|S_START williamspyro|NN supplies|NNS defense|NN contractors|NNS but|CC its|PRP$ ceo|NN worries|NNS that|WDT the|DT fiscal|JJ cliffs|NNS looming|VBG cuts|NNS would|MD drastically|RB cut|VB business|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN potential|NN massive|JJ cuts|NNS in|IN federal|JJ spending|NN are|VBP still|RB months|NNS away|RB but|CC some|DT small|JJ businesses|NNS that|WDT rely|RB on|IN government|NN contracts|NNS are|VBP already|RB feeling|VBG the|DT pinch|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT looming|NN cutbacks|NNS part|NN of|IN the|DT fiscal|JJ cliff|NN are|VBP causing|VBG firms|NNS to|TO slow|VB business|NN or|CC shrink|NN production|NN and|CC could|MD threaten|VB jobs|NNS according|VBG to|TO company|NN owners|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT $|$ 110|CD billion|CD in|IN cuts|NNS for|IN 2013|CD will|MD kick|VB in|IN on|IN jan|NN 2|CD unless|IN congress|NN agrees|VBZ on|IN an|DT alternative|JJ </s>|S_END
+<s>|S_START they|PRP will|MD hit|VB defense|NN spending|NN particularly|RB hard|JJ but|CC also|RB affect|VBP other|JJ popular|JJ nondefense|NN programs|NNS funded|VBD by|IN washington|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START last|JJ year|NN small|JJ firms|NNS received|VBN $|$ 91|CD billion|CD in|IN federal|JJ contracts|NNS slightly|RB more|RBR than|IN a|DT fifth|JJ of|IN all|DT the|DT money|NN awarded|VBD by|IN the|DT federal|JJ government|NN to|TO private|JJ enterprise|NN in|IN 2011|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ not|RB yet|RB clear|JJ exactly|RB which|WDT government|NN agencies|VBZ or|CC programs|NNS would|MD be|VB affected|VBN or|CC how|WRB deeply|JJ the|DT axe|NN would|MD slash|VB at|IN each|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC contractors|NNS say|VBP agencies|NNS have|VBP responded|VBN to|TO the|DT uncertainty|NN by|IN throttling|NN back|RB projects|VBZ delaying|VBG bids|NNS and|CC terminating|VBG programs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD cutting|VBG washington|NN could|MD hit|VB main|JJ street|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START among|IN the|DT businesses|NNS seeing|VBG it|PRP firsthand|VBP is|VBZ invertix|CD in|IN mclean|JJ va|NN located|VBN just|RB outside|IN washington|NN dc|NN with|IN numerous|JJ other|JJ small|JJ companies|NNS that|WDT depend|NN on|IN government|NN contracts|NNS </s>|S_END
+<s>|S_START the|DT firm|NN develops|VBZ software|NN for|IN the|DT army|NN federal|JJ emergency|NN management|NN agency|NN and|CC others|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START theres|NNS just|RB paralysis|VBZ </s>|S_END
+<s>|S_START people|NNS arent|VBD making|VBG long|RB term|NN strategic|NN decisions|NNS </s>|S_END
+<s>|S_START theyre|NN inching|VBG along|IN said|VBD craig|JJ parisot|NN the|DT companys|NNS chief|NN operating|VBG officer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT immobilization|NN is|VBZ not|RB new|JJ </s>|S_END
+<s>|S_START small|JJ businesses|NNS that|WDT get|VB government|NN contracts|NNS say|VBP the|DT system|NN is|VBZ fraught|VBN with|IN uncertainty|NN </s>|S_END
+<s>|S_START congress|NN hasnt|VBD passed|VBN a|DT formal|JJ budget|NN since|IN 2009|CD relying|VBG instead|RB on|IN shortterm|NN extensions|NNS of|IN current|JJ spending|NN levels|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC now|RB loom|VBP the|DT socalled|VBN sequestration|NN cuts|NNS which|WDT parisot|NN calls|VBZ a|DT line|NN in|IN the|DT sand|NN where|WRB the|DT problems|NNS will|MD intensify|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START parisot|NN cites|VBZ a|DT recent|JJ project|NN in|IN which|WDT three|CD of|IN his|PRP$ employees|NNS spent|VBD five|CD months|NNS developing|VBG software|NN for|IN a|DT federal|JJ agency|NN only|RB to|TO have|VB the|DT agency|NN drop|NN it|PRP after|IN what|WP he|PRP said|VBD was|VBD a|DT successful|JJ pilot|NN phase|NN </s>|S_END
+<s>|S_START he|PRP declined|VBD to|TO name|VB the|DT agency|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN the|DT 175employee|CD company|NN the|DT opportunity|NN cost|NN was|VBD massive|JJ parisot|NN said|VBD </s>|S_END
+<s>|S_START we|PRP have|VBP to|TO pick|VB and|CC choose|VB how|WRB we|PRP invest|VBP our|PRP$ time|NN and|CC money|NN </s>|S_END
+<s>|S_START we|PRP could|MD have|VB taken|VBN those|DT same|JJ resources|NNS and|CC put|VBD them|PRP on|IN another|DT project|NN that|IN would|MD have|VB gone|VBN forward|RB and|CC grown|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT firm|NN already|RB struggling|VBG with|IN the|DT slowdown|NN is|VBZ port|NN tobacco|NN consulting|NN in|IN la|NN plata|NN md|NN </s>|S_END
+<s>|S_START the|DT firms|NNS vice|NN president|NN dennis|VBZ chappell|NN said|VBD projects|NNS with|IN the|DT navy|JJ have|VBP been|VBN whittled|VBN down|RP and|CC few|JJ projects|NNS are|VBP getting|VBG renewed|VBN </s>|S_END
+<s>|S_START a|DT year|NN ago|IN the|DT firm|NN had|VBD six|CD contracts|NNS up|IN and|CC running|VBG </s>|S_END
+<s>|S_START now|RB there|EX are|VBP only|RB two|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT inability|NN of|IN congress|NN to|TO compromise|VB and|CC arrive|JJ at|IN decisions|NNS on|IN how|WRB to|TO conduct|VB the|DT business|NN of|IN the|DT united|VBN states|NNS means|VBZ were|VBD losing|VBG business|NN chappell|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ small|JJ firms|NNS that|WDT supply|RB larger|JJR contractors|NNS also|RB fear|VBP the|DT oncoming|VBG fiscal|JJ cliff|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START williamspyro|NN a|DT company|NN in|IN fort|NN worth|NN texas|NNS that|WDT sells|VBZ testing|NN equipment|NN to|TO lockheed|VB martin|NN lmt|NN fortune|NN 500|CD and|CC boeing|VBG recently|RB lost|VBD a|DT top|JJ manager|NN spooked|VBN by|IN the|DT cuts|NNS </s>|S_END
+<s>|S_START the|DT employee|NN left|VBD a|DT few|JJ weeks|NNS ago|IN for|IN a|DT job|NN outside|IN the|DT defense|NN industry|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB long|JJ can|MD you|PRP keep|VB people|NNS on|IN like|IN that|DT </s>|S_END
+<s>|S_START said|VBD ceo|VBN della|NN williams|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD banks|NNS keep|VB lending|VBG standards|NNS tight|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START lockheed|VBD said|VBD the|DT sequestration|NN threat|NN hasnt|NN affected|VBD its|PRP$ work|NN with|IN williamspyro|NN </s>|S_END
+<s>|S_START boeing|VBG ba|NN fortune|NN 500|CD spokeswoman|NN sara|NN tournade|NN while|IN declining|VBG to|TO comment|VB on|IN its|PRP$ supplier|NN noted|VBD that|IN sequestration|NN would|MD have|VB a|DT devastating|VBG impact|NN on|IN the|DT defense|NN industrial|JJ base|NN including|VBG the|DT many|JJ small|JJ and|CC medium|NN sized|VBD us|PRP suppliers|NNS that|WDT make|VBP up|RP this|DT industry|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN franklin|NN ohio|NN defense|NN contractor|NN ferco|NN aerospace|NN group|NN is|VBZ bracing|VBG for|IN what|WP could|MD be|VB a|DT complete|JJ transition|NN to|TO commercial|JJ buyers|NNS </s>|S_END
+<s>|S_START although|IN military|JJ programs|NNS fund|NN 25|CD of|IN its|PRP$ yearly|JJ sales|NNS drastic|JJ government|NN cuts|NNS would|MD mean|VB more|RBR work|NN with|IN commercial|JJ airliners|NNS and|CC less|JJR work|NN on|IN jet|NN engines|NNS for|IN the|DT f35|NNP lightning|NN ii|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT companys|NNS chairman|NN joe|NN murphy|NN said|VBD he|PRP would|MD be|VB forced|VBN to|TO let|VB go|RB of|IN 20|CD to|TO 30|CD employees|NNS if|IN the|DT f35|NNP program|NN is|VBZ scaled|VBN back|RB </s>|S_END
+<s>|S_START moving|VBG entirely|RB to|TO the|DT commercial|JJ sector|NN would|MD also|RB redefine|VB the|DT company|NN </s>|S_END
+<s>|S_START serving|VBG the|DT us|PRP military|JJ was|VBD a|DT cornerstone|NN of|IN the|DT beliefs|NNS of|IN its|PRP$ founder|NN a|DT cuban|NN man|NN who|WP fled|VBN the|DT communist|NN island|NN decades|VBZ ago|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN noted|VBN by|IN deputy|NN secretary|NN of|IN defense|NN ashton|NN carter|NN in|IN testimony|NN on|IN capitol|NN hill|NN last|JJ week|NN the|DT best|JJS thing|NN that|WDT can|MD happen|VB for|IN private|JJ companies|NNS is|VBZ for|IN congress|NN to|TO act|VB soon|RB to|TO avoid|VB the|DT 2013|CD spending|NN cuts|NNS </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,34 @@
+<p>|P_START
+<s>|S_START voters|NNS in|IN texas|NNS have|VBP had|VBN three|CD electoral|JJ excitements|NNS lately|RB </s>|S_END
+<s>|S_START the|DT first|JJ was|VBD that|IN in|IN february|JJ after|IN a|DT series|NN of|IN rejections|NNS federal|JJ judges|NNS in|IN san|NN antonio|NN finally|RB approved|VBD a|DT new|JJ map|NN for|IN the|DT states|NNS congressional|JJ districts|NNS meaning|VBG that|IN texas|NNS could|MD finally|RB set|VB a|DT date|NN for|IN its|PRP$ primary|JJ may|MD 29th|CD </s>|S_END
+<s>|S_START the|DT second|JJ is|VBZ that|IN their|PRP$ votes|NNS may|MD actually|RB matter|VB a|DT lot|NN in|IN the|DT race|NN for|IN the|DT republican|JJ presidential|JJ nomination|NN </s>|S_END
+<s>|S_START the|DT third|JJ came|NN on|IN march|NN 12th|CD when|WRB the|DT justice|NN department|NN blocked|VBD a|DT controversial|JJ state|NN law|NN passed|VBD last|JJ year|NN which|WDT would|MD have|VB required|VBN people|NNS to|TO produce|VB identification|NN carrying|VBG a|DT photograph|NN before|IN voting|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN it|PRP stands|VBZ almost|RB 30|CD states|NNS require|VBP some|DT form|NN of|IN identification|NN at|IN the|DT polls|NNS although|IN most|JJS of|IN those|DT do|VBP not|RB require|VB photographic|JJ id|NN </s>|S_END
+<s>|S_START the|DT justice|NN department|NN blocked|VBD a|DT similar|JJ measure|NN in|IN south|NN carolina|NN in|IN december|NN and|CC this|DT week|NN a|DT judge|NN in|IN wisconsin|NN overturned|VBD a|DT voteridentification|NN law|NN there|EX on|IN the|DT ground|NN that|IN it|PRP was|VBD unconstitutional|JJ </s>|S_END
+<s>|S_START future|JJ cases|NNS are|VBP expected|VBN alabama|NN for|IN example|NN has|VBZ a|DT photo|NN requirement|NN scheduled|VBN to|TO take|VB effect|NN in|IN 2014|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START upporters|NNS of|IN identification|NN who|WP are|VBP usually|RB republicans|NNS say|VBP it|PRP is|VBZ a|DT necessary|JJ protection|NN against|IN voter|NN fraud|NN even|RB though|IN the|DT number|NN of|IN people|NNS who|WP have|VBP been|VBN caught|VBN sneaking|VBG into|IN the|DT polls|NNS is|VBZ negligible|JJ </s>|S_END
+<s>|S_START democrats|NNS argue|VBP that|IN such|JJ provisions|NNS have|VBP the|DT effect|NN of|IN disenfranchising|VBG minorities|NNS young|JJ people|NNS and|CC the|DT poor|JJ who|WP are|VBP more|RBR likely|JJ to|TO lack|VB suitable|JJ id|NN than|IN other|JJ groups|NNS and|CC who|WP mostly|RB vote|VBP for|IN them|PRP </s>|S_END
+<s>|S_START in|IN texas|NNS nearly|RB 800000|CD people|NNS would|MD have|VB been|VBN affected|VBN </s>|S_END
+<s>|S_START because|IN of|IN the|DT racial|JJ disparities|NNS the|DT justice|NN department|NN determined|VBD that|IN this|DT would|MD be|VB a|DT violation|NN of|IN the|DT 1965|CD voting|NN rights|NNS act|NN designed|VBN to|TO bar|VB discrimination|NN at|IN the|DT poll|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ince|NN both|DT political|JJ parties|NNS have|VBP an|DT interest|NN both|DT will|MD press|NN on|IN </s>|S_END
+<s>|S_START rick|NN perry|NN the|DT republican|JJ governor|NN of|IN texas|NNS condemned|VBN the|DT decision|NN as|IN an|DT example|NN of|IN federal|JJ meddling|NN </s>|S_END
+<s>|S_START the|DT law|NN he|PRP said|VBD “requires|NNS nothing|NN more|JJR extensive|JJ than|IN the|DT type|NN of|IN photo|NN identification|NN necessary|JJ to|TO receive|VB a|DT library|NN card|NN or|CC board|NN an|DT airplane”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT raises|VBZ a|DT good|JJ point|NN </s>|S_END
+<s>|S_START identification|NN is|VBZ important|JJ people|NNS often|RB need|VBP it|PRP to|TO get|VB financial|JJ services|NNS or|CC a|DT job|NN or|CC just|RB books|VBZ from|IN the|DT library|NN </s>|S_END
+<s>|S_START if|IN hundreds|NNS of|IN thousands|NNS of|IN people|NNS in|IN texas|NNS do|VBP not|RB have|VB it|PRP that|IN is|VBZ a|DT problem|NN that|WDT should|MD be|VB fixed|VBN </s>|S_END
+<s>|S_START no|DT doubt|NN both|DT parties|NNS would|MD agree|VB </s>|S_END
+<s>|S_START but|CC in|IN the|DT meantime|NN people|NNS will|MD at|IN least|JJS be|VB a|DT little|RB more|RBR confident|JJ about|IN their|PRP$ ability|NN to|TO vote|VB </s>|S_END
+</p>|P_END
+

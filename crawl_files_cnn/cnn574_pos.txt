@@ -1,0 +1,112 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN we|PRP own|VBP some|DT mutual|JJ funds|NNS that|WDT are|VBP doing|VBG well|RB </s>|S_END
+<s>|S_START but|CC our|PRP$ financial|JJ adviser|NN would|MD like|VB us|PRP to|TO sell|VB them|PRP and|CC invest|VBP the|DT proceeds|NNS in|IN a|DT variable|JJ annuity|NN </s>|S_END
+<s>|S_START do|VBP you|PRP think|VB this|DT is|VBZ a|DT good|JJ move|NN </s>|S_END
+<s>|S_START renate|NN m|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP dont|VBP want|JJ to|TO give|VB the|DT impression|NN that|IN every|DT time|NN a|DT financial|JJ adviser|NN recommends|NNS a|DT variable|JJ annuity|NN it|PRP means|VBZ hes|NNS up|IN to|TO no|DT good|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC when|WRB you|PRP consider|VBP the|DT plethora|NN of|IN dubious|JJ sales|NNS tactics|NNS that|WDT have|VBP been|VBN used|VBN to|TO peddle|VB variable|JJ annuities|NNS over|IN the|DT years|NNS and|CC the|DT fact|NN that|IN both|DT insurance|NN and|CC securities|NNS regulators|NNS stress|VBP caution|NN when|WRB faced|VBN with|IN an|DT annuity|NN pitch|NN its|PRP$ only|JJ prudent|NN that|WDT you|PRP should|MD be|VB wary|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN fact|NN i|PRP wouldnt|VBP even|RB think|VBP of|IN following|VBG an|DT advisers|NNS recommendation|NN to|TO sell|VB funds|NNS and|CC invest|JJS in|IN a|DT variable|JJ annuity|NN until|IN i|PRP asked|VBD him|PRP the|DT following|VBG three|CD questions|NNS and|CC then|RB took|VBD some|DT time|NN to|TO weigh|VB the|DT answers|NNS either|CC alone|RB or|CC with|IN the|DT help|NN of|IN another|DT adviser|NN who|WP doesnt|NN have|VBP a|DT vested|VBN interest|NN in|IN my|PRP$ decision|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START question|NN 1|CD why|WRB exactly|RB do|VBP i|PRP need|VBP a|DT variable|JJ annuity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START you|PRP say|VBP the|DT mutual|JJ funds|NNS you|PRP own|VBP are|VBP doing|VBG pretty|RB well|RB </s>|S_END
+<s>|S_START but|CC even|RB if|IN their|PRP$ performance|NN were|VBD lagging|VBG you|PRP could|MD just|RB as|IN easily|RB replace|NN them|PRP with|IN other|JJ funds|NNS </s>|S_END
+<s>|S_START so|IN why|WRB is|VBZ the|DT adviser|NN suggesting|VBG you|PRP go|VBP into|IN a|DT completely|RB different|JJ type|NN of|IN investment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP suspect|VBP the|DT adviser|NN is|VBZ going|VBG to|TO offer|VB two|CD reasons|NNS either|CC individually|RB or|CC in|IN combination|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT first|JJ is|VBZ taxdeferral|JJ </s>|S_END
+<s>|S_START when|WRB you|PRP invest|VBP in|IN a|DT variable|JJ annuity|NN you|PRP get|VBP to|TO spread|VB your|PRP$ money|NN among|IN investments|NNS known|VBN as|IN subaccounts|NNS that|WDT are|VBP much|RB like|IN mutual|JJ funds|NNS in|IN that|DT they|PRP allow|VBP you|PRP to|TO invest|VB in|IN a|DT portfolio|NN of|IN stocks|NNS bonds|NNS or|CC both|DT </s>|S_END
+<s>|S_START but|CC unlike|IN with|IN a|DT regular|JJ mutual|JJ fund|NN any|DT investment|NN gains|NNS generated|VBD by|IN the|DT subaccount|NN go|NN untaxed|VBD as|IN long|RB as|IN those|DT gains|NNS remain|VBP within|IN the|DT annuity|NN </s>|S_END
+<s>|S_START this|DT taxdeferral|JJ has|VBZ the|DT potential|JJ to|TO boost|VB your|PRP$ aftertax|NN returns|NNS beyond|IN what|WP you|PRP might|MD earn|VB in|IN taxable|JJ investments|NNS like|IN conventional|JJ mutual|JJ funds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC that|DT potential|JJ comes|NNS with|IN a|DT downside|NN when|WRB you|PRP eventually|RB withdraw|VBD investment|NN gains|NNS from|IN a|DT variable|JJ annuity|NN they|PRP are|VBP taxed|VBN at|IN ordinary|JJ income|NN tax|NN rates|NNS even|RB if|IN those|DT gains|NNS are|VBP longterm|JJ capital|NN gains|NNS </s>|S_END
+<s>|S_START that|DT means|VBZ that|DT the|DT same|JJ capital|NN gain|NN that|WDT would|MD be|VB taxed|VBN at|IN no|DT more|RBR than|IN 15|CD today|NN in|IN a|DT mutual|JJ fund|NN could|MD be|VB taxed|VBN at|IN a|DT rate|NN as|IN high|JJ as|IN 35|CD in|IN a|DT variable|JJ annuity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN effect|NN by|IN investing|NN in|IN a|DT variable|JJ annuity|NN you|PRP may|MD be|VB turning|VBG gains|NNS taxed|VBN at|IN 15|CD into|IN profit|NN taxed|VBN at|IN 35|CD </s>|S_END
+<s>|S_START that|DT difference|NN can|MD pretty|RB much|RB destroy|RB any|DT benefit|NN of|IN an|DT annuitys|NNS tax|NN deferral|JJ and|CC erode|NN if|IN not|RB eliminate|VBP a|DT variable|JJ annuitys|NNS value|NN as|IN a|DT vehicle|NN for|IN building|NN a|DT nest|NN egg|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT second|JJ reason|NN your|PRP$ adviser|NN might|MD say|VB you|PRP need|VBP an|DT annuity|NN is|VBZ for|IN guaranteed|VBN retirement|NN income|NN </s>|S_END
+<s>|S_START its|PRP$ true|JJ that|IN most|JJS variable|JJ annuities|NNS sold|VBN these|DT days|NNS come|VBP with|IN a|DT rider|NN known|VBN as|IN a|DT glwb|NN or|CC guaranteed|VBN lifetime|NN withdrawal|NN benefit|NN </s>|S_END
+<s>|S_START this|DT rider|NN assures|VBZ that|IN you|PRP can|MD draw|VB a|DT given|VBN percentage|NN of|IN the|DT annuitys|NNS value|NN usually|RB 4|CD to|TO 6|CD depending|VBG on|IN your|PRP$ age|NN throughout|IN retirement|NN </s>|S_END
+<s>|S_START annuities|NNS with|IN this|DT rider|NN also|RB often|RB tout|IN a|DT guaranteed|NN rate|NN of|IN return|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC this|DT income|NN benefit|NN and|CC the|DT return|NN guarantee|NN can|MD be|VB devilishly|RB difficult|JJ to|TO evaluate|VB </s>|S_END
+<s>|S_START and|CC after|IN youve|NN taken|VBN the|DT effort|NN to|TO do|VB that|DT youll|JJ often|RB find|VBP that|IN these|DT benefits|NNS much|RB like|IN the|DT taxdeferral|JJ mentioned|VBN above|IN sound|NN more|JJR appealing|VBG than|IN they|PRP actually|RB are|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START question|NN 2|CD what|WP will|MD the|DT annuity|NN cost|NN me|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS of|IN the|DT variable|JJ annuities|NNS sold|VBN by|IN advisers|NNS are|VBP weighed|VBN down|RP by|IN several|JJ layers|NNS of|IN fees|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN this|DT securities|NNS and|CC exchange|NN primer|NN on|IN variable|JJ annuities|NNS points|NNS out|IN there|RB are|VBP insurance|NN charges|NNS investment|NN management|NN fees|NNS and|CC fees|NNS for|IN various|JJ riders|NNS and|CC extra|JJ features|NNS </s>|S_END
+<s>|S_START these|DT can|MD often|RB total|JJ upwards|NNS of|IN 3|CD a|DT year|NN </s>|S_END
+<s>|S_START there|EX are|VBP also|RB surrender|JJR fees|NNS if|IN you|PRP pull|VBP out|RP your|PRP$ money|NN within|IN a|DT certain|JJ period|NN of|IN time|NN typically|RB six|CD to|TO eight|CD years|NNS after|IN buying|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START whats|NNS more|JJR ascertaining|VBG exactly|RB how|WRB much|RB youll|JJ pay|NN in|IN fees|NNS is|VBZ tough|JJ for|IN most|JJS investors|NNS as|IN it|PRP can|MD require|VB slogging|VBG through|IN a|DT long|JJ mindnumbing|NN prospectus|NN </s>|S_END
+<s>|S_START for|IN a|DT look|NN at|IN a|DT simpler|NN quicker|NN way|NN to|TO disclose|VB annuity|NN fees|NNS that|WDT ive|JJ proposed|VBD check|NN out|IN my|PRP$ ez|NN annuity|NN fee|NN disclosure|NN checklist|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START question|NN 3|CD can|MD i|PRP achieve|VB my|PRP$ goal|NN without|IN a|DT variable|JJ annuity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START although|IN salespeople|NN may|MD make|VB it|PRP seem|VB like|IN a|DT variable|JJ annuity|NN is|VBZ if|IN not|RB the|DT only|JJ then|RB certainly|RB the|DT ideal|NN solution|NN for|IN your|PRP$ needs|NNS i|PRP find|VBP that|IN there|EX are|VBP usually|RB better|RBR ways|NNS to|TO go|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB it|PRP comes|VBZ to|TO building|NN a|DT nest|NN egg|NN you|PRP should|MD certainly|RB go|VB with|IN 401ks|CD and|CC iras|NNS first|RB </s>|S_END
+<s>|S_START and|CC even|RB after|IN youve|JJ maxed|VBN them|PRP out|RP id|JJ say|NN taxefficient|NN index|NN funds|NNS and|CC taxmanaged|VBD mutual|JJ funds|NNS rank|VBP ahead|RB of|IN variable|JJ annuities|NNS as|IN wealthbuilding|VBG vehicles|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC while|IN a|DT variable|JJ annuity|NN with|IN a|DT lifetime|NN income|NN rider|NN can|MD provide|VB reliable|JJ income|NN throughout|IN retirement|NN i|PRP think|VBP a|DT combination|NN of|IN mutual|JJ funds|NNS and|CC a|DT plain|NN oldfashioned|VBN immediate|JJ annuity|NN is|VBZ a|DT smarter|NN and|CC less|JJR costly|RB way|NN to|TO go|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP suggest|VBP you|PRP take|VBP some|DT time|NN to|TO mull|VB this|DT over|IN before|IN making|VBG a|DT move|NN </s>|S_END
+<s>|S_START during|IN that|DT time|NN you|PRP can|MD also|RB get|VB a|DT better|JJR handle|NN on|IN how|WRB annuities|NNS work|VBP by|IN checking|NN out|IN the|DT annuities|NNS section|NN of|IN our|PRP$ ultimate|JJ guide|NN to|TO retirement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT money|NN youve|NN invested|VBD in|IN funds|NNS represents|NNS a|DT significant|JJ portion|NN of|IN your|PRP$ savings|NNS or|CC youre|NN just|RB not|RB confident|JJ about|IN sorting|VBG through|IN these|DT issues|NNS alone|RB you|PRP might|MD want|VB to|TO consult|VB an|DT adviser|NN who|WP will|MD be|VB willing|JJ to|TO work|VB for|IN an|DT hourly|JJ fee|NN and|CC thus|RB have|VBP no|DT interest|NN in|IN selling|NN you|PRP an|DT annuity|NN or|CC any|DT other|JJ product|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bottom|NN line|NN though|IN is|VBZ that|IN you|PRP should|MD have|VB reservations|NNS about|IN making|VBG this|DT switch|NN </s>|S_END
+<s>|S_START and|CC you|PRP shouldnt|VBP proceed|VBN at|IN all|DT unless|NN youre|NN confident|NN the|DT move|NN will|MD benefit|VB you|PRP and|CC not|RB just|RB the|DT adviser |JJ </s>|S_END
+</p>|P_END
+

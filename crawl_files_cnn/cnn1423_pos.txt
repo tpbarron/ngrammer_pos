@@ -1,0 +1,86 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN shares|NNS of|IN daily|JJ deals|NNS site|VBP groupon|NN closed|VBD at|IN $|$ 2611|CD roughly|RB 31|CD above|IN their|PRP$ initial|JJ offering|NN price|NN in|IN the|DT public|NN debut|NN of|IN the|DT stock|NN on|IN friday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START groupon|IN grpn|NN had|VBD priced|VBN its|PRP$ initial|JJ public|JJ offering|NN at|IN $|$ 20|CD a|DT share|NN late|NN thursday|NN the|DT last|JJ step|NN on|IN a|DT rocky|JJ journey|NN to|TO its|PRP$ debut|NN </s>|S_END
+<s>|S_START under|IN the|DT ticker|NN grpn|NN groupon|NN began|VBD trading|NN friday|NN at|IN about|RB 1045|CD am|NN </s>|S_END
+<s>|S_START et|NN on|IN the|DT nasdaq|NN stock|NN exchange|NN and|CC opened|VBD at|IN $|$ 28|CD 40|CD above|IN the|DT target|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START raising|VBG $|$ 700|CD million|CD for|IN the|DT company|NN groupons|NNS ipo|VBP was|VBD the|DT secondbiggest|JJS tech|NN ipo|NN in|IN history|NN behind|IN the|DT $|$ 17|CD billion|CD google|NN raised|VBD in|IN 2004|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT stock|NN ticked|VBD up|RP as|IN high|JJ as|IN $|$ 3114|CD before|IN falling|VBG back|RB to|TO around|IN $|$ 28|CD later|JJ in|IN the|DT morning|NN </s>|S_END
+<s>|S_START in|IN midafternoon|NN trading|NN it|PRP remained|VBD in|IN that|DT range|NN at|IN $|$ 2829|CD and|CC then|RB slipped|VBD a|DT bit|NN just|RB before|IN the|DT close|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START groupon|IN ended|VBD the|DT day|NN with|IN a|DT valuation|NN of|IN more|JJR than|IN $|$ 16|CD billion|CD </s>|S_END
+<s>|S_START at|IN that|DT price|NN the|DT pioneering|NN coupon|NN company|NN is|VBZ worth|JJ more|RBR than|IN many|JJ traditional|JJ retailers|NNS including|VBG whole|NN foods|NNS wfm|VBP best|JJS buy|NN bby|RB fortune|JJ 500|CD and|CC bed|VBD bath|NN beyond|IN bbby|NN fortune|NN 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START because|IN of|IN groupons|NNS recognizable|JJ name|NN and|CC cachet|NN some|DT stock|NN analysts|NNS had|VBD expected|VBN an|DT even|RB bigger|JJR rise|NN at|IN the|DT open|JJ particularly|RB because|IN a|DT miniscule|NN number|NN of|IN shares|NNS were|VBD being|VBG offered|VBN </s>|S_END
+<s>|S_START at|IN the|DT last|JJ minute|NN groupons|NNS underwriters|NNS threw|VBP in|IN an|DT additional|JJ 5|CD million|CD shares|NNS to|TO make|VB the|DT offering|NN 35|CD million|CD shares|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START thats|NNS still|RB only|RB around|IN 6|CD of|IN the|DT companys|NNS outstanding|JJ shares|NNS a|DT very|RB small|JJ amount|NN given|VBN the|DT publics|NNS interest|NN in|IN the|DT company|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP think|VBP highly|RB disappointed|VBN is|VBZ the|DT operative|JJ phrase|NN said|VBD david|JJ menlow|NN president|NN of|IN ipofinancial|JJ </s>|S_END
+<s>|S_START with|IN such|JJ a|DT limited|JJ number|NN of|IN shares|NNS offered|VBD in|IN what|WP could|MD have|VB been|VBN unlimited|VBN demand|NN i|PRP thought|VBD thought|VBD the|DT markets|NNS should|MD have|VB responded|VBN better|RBR </s>|S_END
+<s>|S_START now|RB that|DT it|PRP didnt|VBP happen|JJ its|PRP$ causing|NN people|NNS to|TO take|VB a|DT second|JJ look|NN at|IN the|DT companys|NNS fundamentals|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START those|DT fundamentals|NNS arent|VBP pretty|RB since|IN the|DT moment|NN groupon|NN filed|VBN its|PRP$ paperwork|NN its|PRP$ been|VBN hit|VBN with|IN criticism|NN for|IN unorthodox|NN accounting|VBG measures|NNS which|WDT led|VBN to|TO several|JJ downward|NN revisions|NNS of|IN its|PRP$ financials|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START groupons|NNS initial|JJ filing|NN in|IN june|NN drew|VBD heavy|JJ scrutiny|NN for|IN the|DT companys|NNS reliance|VBP on|IN a|DT nonstandard|NN metric|JJ called|VBN adjusted|VBN consolidated|VBN segment|NN operating|NN income|NN </s>|S_END
+<s>|S_START the|DT unwieldy|NN acsoi|NN stripped|VBD out|RP groupons|NNS steep|VBP costs|NNS for|IN marketing|NN and|CC acquiring|VBG new|JJ subscribers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START under|IN pressure|NN from|IN regulators|NNS groupon|IN refiled|VBN in|IN august|JJ to|TO instead|RB use|VB only|RB standard|JJ accounting|NN procedures|NNS </s>|S_END
+<s>|S_START as|IN a|DT result|NN the|DT operating|NN profits|NNS that|WDT groupon|IN cited|VBD in|IN its|PRP$ first|JJ filing|NN became|VBD operating|NN losses|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START then|RB in|IN late|JJ september|NN groupon|NN revised|VBD its|PRP$ reported|VBN revenue|NN to|TO correct|VB for|IN an|DT error|NN namely|RB including|VBG in|IN its|PRP$ revenue|NN the|DT cash|NN it|PRP has|VBZ to|TO hand|VB back|RB to|TO merchants|NNS for|IN their|PRP$ share|NN of|IN the|DT coupons|NNS groupon|VBP sells|NNS </s>|S_END
+<s>|S_START that|DT effectively|RB whacked|VBD groupons|NNS sales|NNS in|IN half|DT to|TO $|$ 688|CD million|CD for|IN the|DT first|JJ half|DT of|IN 2011|CD down|IN from|IN the|DT $|$ 15|CD billion|CD it|PRP claimed|VBD previously|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START tech|NN ipos|NNS this|DT year|NN several|JJ other|JJ online|NN companies|NNS have|VBP gone|VBN public|JJ in|IN 2011|CD and|CC while|IN theyve|JJ generally|RB done|VBN well|RB on|IN their|PRP$ first|JJ trading|NN days|NNS their|PRP$ longer|NN term|NN performance|NN is|VBZ mixed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN an|DT ominous|JJ sign|NN for|IN groupon|NN professional|JJ networking|NN site|NN linkedins|VBZ lnkd|NN announced|VBD late|JJ thursday|NN that|WDT it|PRP would|MD offer|VB another|DT $|$ 100|CD million|CD in|IN stock|NN to|TO raise|VB even|RB more|RBR money|NN for|IN the|DT company|NN following|VBG its|PRP$ may|MD ipo|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shares|NNS more|JJR than|IN doubled|VBN after|IN linkedins|NNS ipo|VBP even|RB though|IN the|DT company|NN turned|VBD only|RB slight|VBN profits|NNS in|IN 2010|CD and|CC 2006|CD and|CC has|VBZ otherwise|RB has|VBZ been|VBN in|IN the|DT red|NN every|DT year|NN since|IN its|PRP$ 2003|CD inception|NN </s>|S_END
+<s>|S_START the|DT stock|NN is|VBZ still|RB trading|VBG well|RB above|IN its|PRP$ ipo|NN price|NN but|CC shares|NNS fell|VBD 7|CD friday|NN after|IN it|PRP announced|VBD a|DT $|$ 16|CD million|CD loss|NN for|IN the|DT third|JJ quarter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START other|JJ tech|NN ipos|NNS posted|VBD gains|NNS on|IN their|PRP$ first|JJ day|NN and|CC then|RB fizzled|VBD </s>|S_END
+<s>|S_START internet|NN radio|NN service|NN pandora|NN p|NN performed|VBD well|RB in|IN its|PRP$ ipo|NN even|RB though|IN the|DT unprofitable|JJ company|NN had|VBD warned|VBN investors|NNS that|IN it|PRP expected|VBD to|TO continue|VB losing|VBG money|NN through|IN at|IN least|JJS fiscal|JJ 2012|CD </s>|S_END
+<s>|S_START but|CC shares|NNS are|VBP down|RB more|RBR than|IN 15|CD since|IN its|PRP$ debut|NN and|CC theyre|NN trading|NN below|IN the|DT ipo|NN price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shares|NNS of|IN demand|NN media|NNS dmd|VBP an|DT online|NN content|NN creator|NN that|WDT faced|VBN its|PRP$ own|JJ accounting|VBG smackdown|NN closed|VBD 33|CD higher|JJR on|IN its|PRP$ first|JJ day|NN </s>|S_END
+<s>|S_START those|DT shares|NNS are|VBP now|RB trading|VBG below|IN $|$ 8|CD compared|VBN with|IN the|DT ipo|NN price|NN of|IN $|$ 17|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START groupons|NNS ipo|VBP could|MD set|VB the|DT stage|NN for|IN zynga|NN the|DT gaming|NN company|NN filed|VBD in|IN june|NN and|CC is|VBZ rumored|VBN to|TO start|VB trading|NN this|DT month|NN and|CC serve|VB as|IN an|DT indicator|NN of|IN the|DT overall|JJ ipo|NN market |-NONE- </s>|S_END
+</p>|P_END
+

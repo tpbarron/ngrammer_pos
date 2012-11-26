@@ -1,0 +1,59 @@
+<p>|P_START
+<s>|S_START click|NN the|DT chart|NN for|IN more|JJR on|IN zillow|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN shares|NNS of|IN real|JJ estate|NN site|NN zillow|NN shot|NN up|IN 120|CD early|JJ in|IN its|PRP$ public|JJ debut|NN wednesday|NN though|IN they|PRP cooled|VBD a|DT bit|NN as|IN the|DT day|NN continued|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START zillow|NN z|NN priced|VBN its|PRP$ ipo|NN late|JJ tuesday|NN at|IN $|$ 20|CD per|IN share|NN </s>|S_END
+<s>|S_START the|DT stock|NN quickly|RB rose|VBD to|TO $|$ 44|CD a|DT share|NN wednesday|NN where|WRB it|PRP traded|VBD for|IN most|JJS of|IN the|DT morning|NN before|IN drifting|NN as|IN low|JJ as|IN $|$ 3250|CD </s>|S_END
+<s>|S_START the|DT stock|NN ended|VBD at|IN $|$ 3577|CD or|CC 79|CD higher|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT company|NN sold|VBD 346|CD million|CD shares|NNS in|IN the|DT ipo|NN and|CC the|DT stock|NN is|VBZ trading|VBG on|IN the|DT nasdaq|NN under|IN the|DT ticker|NN symbol|NN z|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START zillow|NN provides|VBZ information|NN about|IN homes|NNS real|JJ estate|NN listings|NNS and|CC mortgages|NNS through|IN its|PRP$ website|JJ and|CC mobile|JJ app|NN </s>|S_END
+<s>|S_START the|DT company|NN which|WDT is|VBZ based|VBN in|IN seattle|NN operates|VBZ zillowcom|NN zillow|NN mortgage|NN marketplace|NN and|CC zillow|VB mobile|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unprofitable|JJ zillow|NN has|VBZ not|RB yet|RB turned|VBD a|DT profit|NN just|RB like|IN many|JJ other|JJ internet|NN companies|NNS to|TO make|VB ipo|NN filings|NNS this|DT year|NN including|VBG pandora|NN p|NN and|CC groupon|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START zillow|NN revealed|VBD in|IN its|PRP$ s1|NNP filing|NN to|TO the|DT sec|NN that|IN losses|NNS narrowed|VBD to|TO $|$ 68|CD million|CD in|IN 2010|CD from|IN a|DT $|$ 129|CD million|CD loss|NN in|IN 2009|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN the|DT first|JJ quarter|NN of|IN 2011|CD zillow|NN lost|VBD $|$ 865000|CD </s>|S_END
+<s>|S_START in|IN the|DT same|JJ quarter|NN last|JJ year|NN the|DT company|NN lost|VBD $|$ 28|CD million|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN a|DT revenue|NN basis|NN zillow|NN took|VBD in|IN $|$ 305|CD million|CD in|IN 2010|CD versus|NN $|$ 175|CD million|CD in|IN 2009|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START zillows|NNS ipo|VBP comes|NNS at|IN a|DT rocky|JJ period|NN for|IN the|DT housing|NN sector|NN which|WDT has|VBZ yet|RB to|TO stage|VB a|DT sustained|VBN recovery|NN </s>|S_END
+<s>|S_START earlier|JJR wednesday|NN a|DT real|JJ estate|NN groups|NNS report|NN showed|VBD sales|NNS of|IN existing|VBG homes|NNS dipped|VBD in|IN june|NN as|IN buyers|NNS unexpectedly|RB backed|VBN out|RP of|IN contracts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT underwriters|NNS of|IN the|DT zillow|NN ipo|NN citigroup|NN allen|NN co|NN pacific|NN crest|NN securities|NNS thinkequity|NN and|CC first|JJ washington|NN corp|NN have|VBP a|DT 30day|JJ option|NN to|TO purchase|VB up|RP to|TO an|DT additional|JJ 519300|CD shares|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN the|DT ipo|NN is|VBZ complete|JJ zillow|NN said|VBD it|PRP will|MD sell|VB 274999|CD shares|NNS at|IN $|$ 20|CD each|DT to|TO certain|JJ existing|NN investors|NNS in|IN the|DT company|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN other|JJ ipo|NN news|NN wednesday|NN headphone|NN maker|NN skullcandy|NN also|RB made|VBD its|PRP$ public|JJ debut|NN </s>|S_END
+<s>|S_START but|CC skullcandy|RB skul|JJ shares|NNS didnt|VBP get|NN a|DT zillowlike|NN pop|NN </s>|S_END
+<s>|S_START the|DT stock|NN was|VBD up|RB 8|CD in|IN early|JJ trading|NN but|CC ended|VBD completely|RB flat|JJ exactly|RB at|IN the|DT initial|JJ price|NN of|IN $|$ 20 |CD </s>|S_END
+</p>|P_END
+

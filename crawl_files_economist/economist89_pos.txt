@@ -1,0 +1,81 @@
+<p>|P_START
+<s>|S_START paul|NN ryan’s|NNS speech|VBP to|TO the|DT republican|NN convention|NN in|IN late|JJ august|NN contained|VBN a|DT cracking|NN line|NN </s>|S_END
+<s>|S_START “college|JJ graduates|NNS should|MD not|RB have|VB to|TO live|VB out|RP their|PRP$ 20s|CD in|IN their|PRP$ childhood|NN bedrooms”|-NONE- said|VBD the|DT republican|JJ vicepresidential|JJ nominee|NN “staring|JJ up|IN at|IN fading|NN obama|NN posters|NNS and|CC wondering|VBG when|WRB they|PRP can…get|VBP going|VBG with|IN life”|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN mr|NN ryan’s|NNS words|NNS suggest|VBP the|DT republican|JJ strategy|NN for|IN youth|NN voters|NNS is|VBZ to|TO harness|NN disappointment|NN with|IN barack|NN obama’s|NNS presidency|NN </s>|S_END
+<s>|S_START television|NN ads|NNS for|IN mitt|NN romney|NN show|NN earnest|NN youngsters|NNS scornfully|RB intoning|VBG the|DT 2008|CD slogans|NNS they|PRP once|RB found|VBD so|RB inspiring|VBG </s>|S_END
+<s>|S_START after|IN a|DT fouryear|NN failed|VBD experiment|NN with|IN hope|NN these|DT voters|NNS seem|VBP to|TO be|VB saying|VBG it’s|-NONE- time|NN for|IN change|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT strategy|NN seems|VBZ sound|NN </s>|S_END
+<s>|S_START young|JJ voters|NNS backed|VBN mr|NN obama|NN by|IN such|JJ a|DT huge|JJ margin|NN in|IN 2008|CD 66|CD to|TO john|VB mccain’s|JJ 32|CD that|WDT the|DT republicans|NNS have|VBP no|DT choice|NN but|CC to|TO hope|VB they|PRP can|MD turn|VB some|DT of|IN the|DT disillusioned|VBN </s>|S_END
+<s>|S_START the|DT economic|JJ message|NN seems|VBZ on|IN point|NN too|RB </s>|S_END
+<s>|S_START the|DT unemployment|NN rate|NN for|IN 18|CD to|TO 29yearolds|CD stands|NNS at|IN 118|CD although|IN despite|IN mr|NN ryan’s|NNS appeal|VBP it|PRP is|VBZ far|RB higher|JJR for|IN young|JJ people|NNS without|IN college|NN experience|NN </s>|S_END
+<s>|S_START there|EX are|VBP so|RB many|JJ with|IN work|NN but|CC not|RB enough|RB of|IN it|PRP that|IN mtv|NN has|VBZ given|VBN them|PRP a|DT drama|NN series|NN the|DT first|JJ episode|NN of|IN “underemployed”|NNP aired|VBD last|JJ week|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC something|NN is|VBZ muffling|VBG the|DT message|NN mr|NN obama|NN is|VBZ still|RB winning|VBG the|DT young|JJ vote|NN by|IN some|DT distance|NN </s>|S_END
+<s>|S_START in|IN early|RB october|NN a|DT harvard|NN institute|NN of|IN politics|NNS poll|VBP found|VBN 55|CD support|NN for|IN mr|NN obama|NN among|IN under30s|NNP next|JJ to|TO 36|CD for|IN mr|NN romney|NN </s>|S_END
+<s>|S_START the|DT lead|NN though|IN was|VBD slightly|RB smaller|JJR in|IN the|DT allimportant|NN swing|VBG states|NNS which|WDT could|MD be|VB good|JJ news|NN for|IN the|DT challenger|NN who|WP needs|VBZ to|TO perform|NN only|RB a|DT bit|NN better|NN than|IN mr|NN mccain|NN did|VBD four|CD years|NNS ago|RB to|TO win|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN of|IN this|DT may|MD represent|VB the|DT lingering|NN potency|NN of|IN a|DT candidacy|NN that|WDT four|CD years|NNS ago|RB in|IN the|DT democratic|JJ primaries|NNS and|CC then|RB in|IN the|DT presidential|JJ race|NN roused|VBD many|JJ youngsters|NNS to|TO a|DT state|NN of|IN nearmania|NN </s>|S_END
+<s>|S_START curiously|RB though|IN turnout|IN was|VBD barely|RB up|RP on|IN 2004|CD </s>|S_END
+<s>|S_START today|NN voters|NNS aged|VBD 25|CD to|TO 29|CD who|WP were|VBD of|IN voting|NN age|NN in|IN 2008|CD prefer|NN mr|NN obama|NN in|IN much|JJ larger|NN numbers|NNS than|IN 18|CD to|TO 24yearolds|CD many|JJ of|IN whom|WP were|VBD not|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT young|JJ also|RB prefer|VBP mr|NN obama’s|NNS message|NN </s>|S_END
+<s>|S_START respondents|NNS to|TO the|DT harvard|NN poll|NN rated|VBD the|DT president|NN more|JJR highly|RB than|IN his|PRP$ opponent|NN in|IN each|DT of|IN seven|CD policy|NN areas|NNS they|PRP were|VBD asked|VBN to|TO consider|VB </s>|S_END
+<s>|S_START just|RB 28|CD said|VBD they|PRP preferred|VBD mr|NN romney’s|NNS economic|JJ policie|NN </s>|S_END
+<s>|S_START and|CC just|RB as|IN mr|NN mccain’s|NNS selection|NN of|IN sarah|NN palin|NN failed|VBD to|TO impress|NN the|DT young|JJ electorate|NN four|CD years|NNS ago|RB 40|CD of|IN young|JJ voters|NNS say|VBP the|DT presence|NN of|IN mr|NN ryan’s|NNS name|VBD on|IN the|DT republican|JJ ticket|NN makes|VBZ them|PRP much|RB less|JJR likely|JJ to|TO vote|VB for|IN it|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN romney|NN can|MD win|VB the|DT presidency|NN without|IN winning|NN the|DT youth|NN vote|NN </s>|S_END
+<s>|S_START but|CC he|PRP should|MD be|VB doing|VBG better|JJR </s>|S_END
+<s>|S_START young|JJ support|NN for|IN democrats|NNS is|VBZ not|RB written|VBN in|IN the|DT star|NN </s>|S_END
+<s>|S_START almost|RB as|IN many|JJ under30s|NNP describe|NN themselves|PRP as|IN conservative|JJ 33|CD as|IN liberal|JJ 37|CD </s>|S_END
+<s>|S_START most|JJS voted|VBN for|IN ronald|NN reagan|NN in|IN 1984|CD and|CC the|DT first|JJ george|NN bush|NN in|IN 1988|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START till|NN the|DT effects|NNS of|IN any|DT obama|NN landslide|NN among|IN the|DT young|JJ this|DT year|NN will|MD be|VB weaker|NN than|IN they|PRP might|MD have|VB been|VBN </s>|S_END
+<s>|S_START “all|JJ the|DT signs|NNS are|VBP pointing|VBG to|TO a|DT decrease|NN in|IN turnout”|NNP over|IN 2008|CD says|VBZ john|NN della|NN volpe|NN polling|VBG director|NN for|IN the|DT harvard|NN institute|NN </s>|S_END
+<s>|S_START tudent|NN recruiters|NNS and|CC university|NN professors|NNS report|NN a|DT muted|JJ atmosphere|NN on|IN campuses|NNS and|CC mr|NN obama’s|NNS regular|JJ college|NN visits|NNS have|VBP not|RB come|VBN close|RB to|TO attracting|VBG the|DT stadiumsized|JJ crowds|NNS of|IN 2008|CD </s>|S_END
+<s>|S_START in|IN its|PRP$ polling|NN throughout|IN 2012|CD the|DT pew|NN centre|NN has|VBZ found|VBN that|IN just|RB half|DT of|IN young|JJ voters|NNS claim|VBP to|TO be|VB registered|VBN to|TO vote|VB lower|JJR than|IN at|IN any|DT time|NN since|IN 1996|CD when|WRB the|DT centre|NN began|VBD asking|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT quieter|NN mood|NN this|DT year|NN reminds|VBZ heather|NN smith|IN president|NN of|IN rock|NN the|DT vote|NN which|WDT organises|NNS voterregistration|VBP drives|NNS among|IN the|DT young|JJ of|IN the|DT 2000|CD and|CC 2004|CD presidential|JJ election|NN </s>|S_END
+<s>|S_START in|IN 2008|CD she|PRP says|VBZ young|JJ voters|NNS would|MD weep|VB tears|NNS of|IN frustration|NN when|WRB told|VBD they|PRP had|VBD missed|VBN the|DT deadline|NN to|TO register|VB during|IN the|DT primarie|NN </s>|S_END
+<s>|S_START this|DT year|NN few|JJ paid|VBN attention|NN until|IN labour|PRP$ day|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START are|VBP they|PRP too|RB wrapped|VBD up|RP in|IN their|PRP$ own|JJ live|JJ </s>|S_END
+<s>|S_START hardly|RB </s>|S_END
+<s>|S_START few|JJ young|JJ voters|NNS today|NN resemble|JJ the|DT placardwielding|NN idealists|NNS of|IN the|DT late|JJ 1960s|CD and|CC early|RB 1970s|CD even|RB if|IN they|PRP are|VBP more|RBR liberal|JJ than|IN their|PRP$ elders|NNS on|IN issues|NNS like|IN gay|NN marriage|NN and|CC immigration|NN </s>|S_END
+<s>|S_START but|CC neither|DT are|VBP they|PRP well|RB captured|VBD by|IN the|DT idea|NN of|IN the|DT generationx|NN slacker|NN a|DT specimen|NN of|IN the|DT 1990s|CD whose|WP$ solipsistic|JJ regard|NN helped|VBD depress|NN turnout|IN rates|NNS during|IN that|DT decade|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START today’s|NNS “millennials”|VBP the|DT term|NN of|IN art|NN preferred|VBN by|IN most|JJS analysts|NNS volunteer|NN in|IN large|JJ numbers|NNS lead|VBP active|JJ civic|NN lives|NNS and|CC profess|NN interest|NN in|IN politic|JJ </s>|S_END
+<s>|S_START but|CC says|VBZ mr|NN della|NN volpe|NN despite|IN this|DT “service|NN gene”|NN they|PRP don’t|VBP particularly|RB believe|JJ in|IN voting|NN and|CC have|VB lost|VBN trust|NN in|IN political|JJ institution|NN </s>|S_END
+<s>|S_START their|PRP$ immediate|JJ elders|NNS came|VBD of|IN age|NN around|IN 911|CD and|CC were|VBD galvanised|VBN in|IN many|JJ cases|NNS by|IN the|DT faults|NNS of|IN the|DT george|NN w|NN bush|NN administration|NN </s>|S_END
+<s>|S_START mr|NN obama|NN connected|VBD strongly|RB with|IN them|PRP </s>|S_END
+<s>|S_START but|CC since|IN 2008|CD the|DT story|NN has|VBZ been|VBN the|DT inability|NN of|IN government|NN to|TO protect|VB citizens|NNS from|IN the|DT ravages|NNS of|IN recession|NN </s>|S_END
+<s>|S_START what|WP can|MD a|DT vote|NN do|VBP to|TO change|VB that|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT year|NN the|DT tightness|NN of|IN the|DT race|NN and|CC the|DT disengagement|NN of|IN the|DT young|JJ have|VBP forced|VBN both|DT campaigns|NNS to|TO focus|VB on|IN getting|VBG their|PRP$ respective|JJ votes|NNS out|IN </s>|S_END
+<s>|S_START the|DT slight|NN edge|NN mr|NN romney|NN enjoys|NNS in|IN enthusiasm|NN may|MD be|VB neutralised|VBN by|IN the|DT stronger|JJR organisation|NN of|IN mr|NN obama’s|NNS ground|VBP campaign|NN </s>|S_END
+<s>|S_START but|CC either|DT way|NN it’s|VBZ back|RB to|TO business|NN as|IN usual|JJ </s>|S_END
+</p>|P_END
+

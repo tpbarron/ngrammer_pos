@@ -1,0 +1,196 @@
+<p>
+<s>in 1879 james ritty a saloonkeeper in dayton ohio received a patent for a wooden contraption that he dubbed the “incorruptible cashier”</s>
+<s>with a set of buttons and a loud bell the device sold by national cash register ncr was little more than a simple adding machine</s>
+<s>yet as an early form of managing information flows in american business the cash register had a huge impact</s>
+<s>it not only reduced pilferage by alerting the shopkeeper when the till was opened by recording every transaction it also provided an instant overview of what was happening in the business</s>
+</p>
+
+<p>
+<s>sales data remain one of a companys most important assets</s>
+<s>in 2004 walmart peered into its mammoth databases and noticed that before a hurricane struck there was a run on flashlights and batteries as might be expected but also on poptarts a sugary american breakfast snack</s>
+<s>on reflection it is clear that the snack would be a handy thing to eat in a blackout but the retailer would not have thought to stock up on it before a storm</s>
+<s>the company whose system crunched walmarts numbers was none other than ncr and its datawarehousing unit teradata now an independent firm</s>
+</p>
+
+<p>
+<s>a few years ago such technologies called “business intelligence” were available only to the worlds biggest companies</s>
+<s>but as the price of computing and storage has fallen and the software systems have got better and cheaper the technology has moved into the mainstream</s>
+<s>companies are collecting more data than ever before</s>
+<s>in the past they were kept in different systems that were unable to talk to each other such as finance human resources or customer management</s>
+<s>now the systems are being linked and companies are using datamining techniques to get a complete picture of their operations—“a single version of the truth” as the industry likes to call it</s>
+<s>that allows firms to operate more efficiently pick out trends and improve their forecasting</s>
+</p>
+
+<p>
+<s>consider cablecom a swiss telecoms operator</s>
+<s>it has reduced customer defections from onefifth of subscribers a year to under 5 by crunching its numbers</s>
+<s>its software spotted that although customer defections peaked in the 13th month the decision to leave was made much earlier around the ninth month as indicated by things like the number of calls to customer support services</s>
+<s>so cablecom offered certain customers special deals seven months into their subscription and reaped the rewards</s>
+</p>
+
+<p>
+<s>agony and torture</s>
+</p>
+
+<p>
+<s>such datamining has a dubious reputation</s>
+<s>“torture the data long enough and they will confess to anything” statisticians quip</s>
+<s>but it has become far more effective as more companies have started to use the technology</s>
+<s>best buy a retailer found that 7 of its customers accounted for 43 of its sales so it reorganised its stores to concentrate on those customers needs</s>
+<s>airline yield management improved because analytical techniques uncovered the best predictor that a passenger would actually catch a flight he had booked that he had ordered a vegetarian meal</s>
+</p>
+
+<p>
+<s>the it industry is piling into business intelligence seeing it as a natural successor of services such as accountancy and computing in the first and second half of the 20th century respectively</s>
+<s>accenture pricewaterhousecoopers ibm and sap are investing heavily in their consulting practices</s>
+<s>technology vendors such as oracle informatica tibco sas and emc have benefited</s>
+<s>ibm believes business intelligence will be a pillar of its growth as sensors are used to manage things from a citys traffic flow to a patients blood flow</s>
+<s>it has invested $12 billion in the past four years and is opening six analytics centres with 4000 employees worldwide</s>
+</p>
+
+<p>
+<s>analytics—performing statistical operations for forecasting or uncovering correlations such as between poptarts and hurricanes—can have a big payoff</s>
+<s>in britain the royal shakespeare company rsc sifted through seven years of sales data for a marketing campaign that increased regular visitors by 70</s>
+<s>by examining more than 2m transaction records the rsc discovered a lot more about its best customers not just income but things like occupation and family status which allowed it to target its marketing more precisely</s>
+<s>that was of crucial importance says the rscs mary butlin because it substantially boosted membership as well as fundraising revenue</s>
+</p>
+
+<p>
+<s>yet making the most of data is not easy</s>
+<s>the first step is to improve the accuracy of the information</s>
+<s>nestlé for example sells more than 100000 products in 200 countries using 550000 suppliers but it was not using its huge buying power effectively because its databases were a mess</s>
+<s>on examination it found that of its 9m records of vendors customers and materials around half were obsolete or duplicated and of the remainder about onethird were inaccurate or incomplete</s>
+<s>the name of a vendor might be abbreviated in one record but spelled out in another leading to doublecounting</s>
+</p>
+
+<p>
+<s>plainer vanilla</s>
+</p>
+
+<p>
+<s>over the past ten years nestlé has been overhauling its it system using sap software and improving the quality of its data</s>
+<s>this enabled the firm to become more efficient says chris johnson who led the initiative</s>
+<s>for just one ingredient vanilla its american operation was able to reduce the number of specifications and use fewer suppliers saving $30m a year</s>
+<s>overall such operational improvements save more than $1 billion annually</s>
+</p>
+
+<p>
+<s>nestlé is not alone in having problems with its database</s>
+<s>most cios admit that their data are of poor quality</s>
+<s>in a study by ibm half the managers quizzed did not trust the information on which they had to base decisions</s>
+<s>many say that the technology meant to make sense of it often just produces more data</s>
+<s>instead of finding a needle in the haystack they are making more hay</s>
+</p>
+
+<p>
+<s>still as analytical techniques become more widespread business decisions will increasingly be made or at least corroborated on the basis of computer algorithms rather than individual hunches</s>
+<s>this creates a need for managers who are comfortable with data but statistics courses in business schools are not popular</s>
+</p>
+
+<p>
+<s>many new business insights come from “dead data” stored information about past transactions that are examined to reveal hidden correlations</s>
+<s>but now companies are increasingly moving to analysing realtime information flows</s>
+</p>
+
+<p>
+<s>walmart is a good example</s>
+<s>the retailer operates 8400 stores worldwide has more than 2m employees and handles over 200m customer transactions each week</s>
+<s>its revenue last year around $400 billion is more than the gdp of many entire countries</s>
+<s>the sheer scale of the data is a challenge admits rollin ford the cio at walmarts headquarters in bentonville arkansas</s>
+<s>“we keep a healthy paranoia”</s>
+</p>
+
+<p>
+<s>not a sparrow falls</s>
+</p>
+
+<p>
+<s>walmarts inventorymanagement system called retail link enables suppliers to see the exact number of their products on every shelf of every store at that precise moment</s>
+<s>the system shows the rate of sales by the hour by the day over the past year and more</s>
+<s>begun in the 1990s retail link gives suppliers a complete overview of when and how their products are selling and with what other products in the shopping cart</s>
+<s>this lets suppliers manage their stocks better</s>
+</p>
+
+<p>
+<s>the technology enabled walmart to change the business model of retailing</s>
+<s>in some cases it leaves stock management in the hands of its suppliers and does not take ownership of the products until the moment they are sold</s>
+<s>this allows it to shed inventory risk and reduce its costs</s>
+<s>in essence the shelves in its shops are a highly efficiently managed depot</s>
+</p>
+
+<p>
+<s>another company that capitalises on realtime information flows is li  fung one of the worlds biggest supplychain operators</s>
+<s>founded in guangzhou in southern china a century ago it does not own any factories or equipment but orchestrates a network of 12000 suppliers in 40 countries sourcing goods for brands ranging from kate spade to walt disney</s>
+<s>its turnover in 2008 was $14 billion</s>
+</p>
+
+<p>
+<s>li  fung used to deal with its clients mostly by phone and fax with email counting as high technology</s>
+<s>but thanks to a new webservices platform its processes have speeded up</s>
+<s>orders flow through a web portal and bids can be solicited from prequalified suppliers</s>
+<s>agents now audit factories in real time with handheld computers</s>
+<s>clients are able to monitor the details of every stage of an order from the initial production run to shipping</s>
+</p>
+
+<p>
+<s>one of the most important technologies has turned out to be videoconferencing</s>
+<s>it allows buyers and manufacturers to examine the colour of a material or the stitching on a garment</s>
+<s>“before we werent able to send a 500mb image—wed post a dvd</s>
+<s>now we can stream it to show vendors in our offices</s>
+<s>with realtime images we can make changes quicker” says manuel fernandez li  fungs chief technology officer</s>
+<s>data flowing through its network soared from 100 gigabytes a day only 18 months ago to 1 terabyte</s>
+</p>
+
+<p>
+<s>the information system also allows li  fung to look across its operations to identify trends</s>
+<s>in southern china for instance a shortage of workers and new legislation raised labour costs so production moved north</s>
+<s>“we saw that before it actually happened” says mr fernandez</s>
+<s>the company also got advance warning of the economic crisis and later the recovery from retailers orders before these trends became apparent</s>
+<s>investment analysts use country information provided by li  fung to gain insights into macroeconomic patterns</s>
+</p>
+
+<p>
+<s>now that they are able to process information flows in real time organisations are collecting more data than ever</s>
+<s>one use for such information is to forecast when machines will break down</s>
+<s>this hardly ever happens out of the blue there are usually warning signs such as noise vibration or heat</s>
+<s>capturing such data enables firms to act before a breakdown</s>
+</p>
+
+<p>
+<s>similarly the use of “predictive analytics” on the basis of large data sets may transform health care</s>
+<s>dr carolyn mcgregor of the university of ontario working with ibm conducts research to spot potentially fatal infections in premature babies</s>
+<s>the system monitors subtle changes in seven streams of realtime data such as respiration heart rate and blood pressure</s>
+<s>the electrocardiogram alone generates 1000 readings per second</s>
+</p>
+
+<p>
+<s>this kind of information is turned out by all medical equipment but it used to be recorded on paper and examined perhaps once an hour</s>
+<s>by feeding the data into a computer dr mcgregor has been able to detect the onset of an infection before obvious symptoms emerge</s>
+<s>“you cant see it with the naked eye but a computer can” she says</s>
+</p>
+
+<p>
+<s>open sesame</s>
+</p>
+
+<p>
+<s>two technology trends are helping to fuel these new uses of data cloud computing and opensource software</s>
+<s>cloud computing—in which the internet is used as a platform to collect store and process data—allows businesses to lease computing power as and when they need it rather than having to buy expensive equipment</s>
+<s>amazon google and microsoft are the most prominent firms to make their massive computing infrastructure available to clients</s>
+<s>as more corporate functions such as human resources or sales are managed over a network companies can see patterns across the whole of the business and share their information more easily</s>
+</p>
+
+<p>
+<s>a free programming language called r lets companies examine and present big data sets and free software called hadoop now allows ordinary pcs to analyse huge quantities of data that previously required a supercomputer</s>
+<s>it does this by parcelling out the tasks to numerous computers at once</s>
+<s>this saves time and money</s>
+<s>for example the new york times a few years ago used cloud computing and hadoop to convert over 400000 scanned images from its archives from 1851 to 1922</s>
+<s>by harnessing the power of hundreds of computers it was able to do the job in 36 hours</s>
+</p>
+
+<p>
+<s>visa a creditcard company in a recent trial with hadoop crunched two years of test records or 73 billion transactions amounting to 36 terabytes of data</s>
+<s>the processing time fell from one month with traditional methods to a mere 13 minutes</s>
+<s>it is a striking successor of rittys incorruptible cashier for a datadriven age</s>
+</p>
+

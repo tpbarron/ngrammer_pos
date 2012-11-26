@@ -1,0 +1,42 @@
+<p>|P_START
+<s>|S_START the|DT best|JJS time|NN to|TO come|VB before|IN a|DT judge|NN is|VBZ never|RB </s>|S_END
+<s>|S_START but|CC courtroom|NN lore|NN suggests|VBZ that|IN after|IN lunch|NN is|VBZ better|RBR than|IN before|IN it|PRP </s>|S_END
+<s>|S_START a|DT study|NN of|IN israeli|NN parole|NN hearings|NNS shows|VBZ that|IN just|RB before|IN a|DT meal|NN the|DT chances|NNS of|IN success|NN are|VBP slim|JJ </s>|S_END
+<s>|S_START but|CC other|JJ biases|NNS abound|IN too|RB </s>|S_END
+<s>|S_START a|DT study|NN of|IN 181|CD american|JJ trial|NN judges|NNS this|DT summer|NN in|IN science|NN a|DT journal|JJ showed|VBN that|IN explaining|NN the|DT biology|NN of|IN psychopathy|JJ brought|NN lighter|NN sentences|NNS by|IN an|DT average|JJ of|IN one|CD year|NN </s>|S_END
+<s>|S_START when|WRB the|DT defence|NN simply|RB told|VBD the|DT judges|NNS that|WDT the|DT convict|NN was|VBD a|DT psychopath|NN the|DT average|JJ sentence|NN was|VBD 14|CD year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START judges—flawed|JJ decision|NN makers|NNS like|IN all|DT humans—find|JJ sentencing|NN the|DT hardest|JJS bit|NN of|IN their|PRP$ job|NN </s>|S_END
+<s>|S_START paul|NN chernoff|IN a|DT retired|VBN american|NN judge|NN says|VBZ determining|NN guilt|NN or|CC innocence|NN is|VBZ easier|JJR </s>|S_END
+<s>|S_START biases|NNS are|VBP visible|JJ across|IN countries|NNS and|CC cultures|NNS for|IN the|DT same|JJ offence|NN male|NN culprits|NNS get|VBP harsher|RB sentences|NNS than|IN women|NNS </s>|S_END
+<s>|S_START black|NN criminals|NNS serve|VBP longer|JJR sentences|NNS than|IN white|JJ one|CD </s>|S_END
+<s>|S_START attractive|JJ women|NNS and|CC babyfaced|VBD men|NNS get|VBP shorter|NN sentence|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START eemingly|RB peripheral|JJ factors|NNS can|MD skew|VB decisions|NNS too|RB </s>|S_END
+<s>|S_START in|IN a|DT 2006|CD german|NN study|NN judges|NNS were|VBD asked|VBN to|TO roll|VB rigged|JJ dice|NN between|IN reading|NN the|DT documents|NNS in|IN a|DT hypothetical|JJ case|NN and|CC making|VBG their|PRP$ judgment|NN </s>|S_END
+<s>|S_START those|DT who|WP rolled|VBN a|DT one|CD gave|NN lower|JJR sentences|NNS than|IN those|DT who|WP rolled|VBN a|DT six|CD </s>|S_END
+<s>|S_START a|DT response|NN to|TO such|JJ studies|NNS has|VBZ been|VBN the|DT introduction|NN of|IN mandatory|NN guidelines|NNS for|IN judges|NNS in|IN america|NN </s>|S_END
+<s>|S_START they|PRP recommend|VBP what|WP sentence|NN to|TO give|VB for|IN which|WDT crime|NN based|VBN on|IN previous|JJ case|NN </s>|S_END
+<s>|S_START judges|NNS dislike|VBP having|VBG their|PRP$ hands|NNS tied|VBN down|RP in|IN such|JJ a|DT way|NN </s>|S_END
+<s>|S_START this|DT week|NN a|DT freedomofinformation|NN request|NN showed|VBD 22|CD judges|NNS in|IN ohio|NN are|VBP trying|VBG to|TO have|VB such|JJ rules|NNS relaxed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START other|JJ perhaps|RB better|RBR remedies|NNS are|VBP on|IN offer|NN too|RB </s>|S_END
+<s>|S_START one|CD is|VBZ training|VBG </s>|S_END
+<s>|S_START birte|NN englich|NN a|DT psychologist|NN at|IN the|DT university|NN of|IN cologne|NN suggests|VBZ exposing|VBG judges|NNS to|TO the|DT occurrence|NN of|IN biases|NNS and|CC playing|VBG games|NNS that|WDT make|VBP them|PRP less|JJR susceptible|JJ </s>|S_END
+<s>|S_START another|DT would|MD be|VB to|TO use|VB several|JJ judges|NNS in|IN criminal|JJ case|NN </s>|S_END
+<s>|S_START for|IN instance|NN in|IN germany|NN three|CD judges|NNS decide|VBP on|IN crimes|NNS carrying|VBG a|DT maximum|NN sentence|NN of|IN less|JJR than|IN three|CD years|NNS for|IN more|JJR serious|JJ crimes|NNS five|CD judges|NNS are|VBP required|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN believe|VBP that|IN juries|NNS would|MD do|VB better|RBR </s>|S_END
+<s>|S_START in|IN new|JJ south|NN wales|NNS australia|VBP the|DT law|NN reform|NN commission|NN wants|VBZ to|TO increase|VB public|JJ involvement|NN in|IN sentencing|NN </s>|S_END
+<s>|S_START judges|NNS say|VBP that|IN laymen|NNS can|MD not|RB grasp|VB the|DT complexities|NNS of|IN the|DT law|NN </s>|S_END
+<s>|S_START but|CC nobody|NN has|VBZ studied|VBN what|WP lunch|NN does|VBZ to|TO laymen’s|VB mood|NN </s>|S_END
+</p>|P_END
+

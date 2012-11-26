@@ -1,0 +1,91 @@
+<p>|P_START
+<s>|S_START after|IN spending|NN much|RB of|IN her|PRP$ political|JJ capital|NN fighting|VBG corruption|NN dilma|NN rousseff|NN brazils|NNS president|NN has|VBZ had|VBN to|TO pick|VB her|PRP$ battle|NN </s>|S_END
+<s>|S_START even|RB senators|NNS from|IN her|PRP$ resentful|JJ coalition|NN have|VBP already|RB quit|VBN and|CC more|RBR warn|JJ they|PRP may|MD follow|VB </s>|S_END
+<s>|S_START ms|NNS rousseff|VBP has|VBZ put|VBN most|RBS of|IN her|PRP$ legislative|JJ plans|NNS on|IN hold|NN until|IN relations|NNS improve|VBP </s>|S_END
+<s>|S_START but|CC she|PRP is|VBZ training|VBG her|PRP$ remaining|VBG firepower|NN on|IN what|WP may|MD be|VB brazils|NNS biggest|JJS publicpolicy|NN problem|NN a|DT voracious|JJ pension|NN system|NN that|WDT threatens|VBZ to|TO bust|VB the|DT budget|NN and|CC damage|NN the|DT economy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN february|JJ 29th|CD the|DT lower|JJR house|NN of|IN congress|NN approved|VBD a|DT reform|NN of|IN civil|NN servants|NNS pension|NN </s>|S_END
+<s>|S_START it|PRP would|MD cap|VB the|DT definedbenefit|NN plans|VBZ of|IN future|JJ federalgovernment|NN employees|NNS at|IN 3916|CD reais|NNS $|$ 2150|CD a|DT month|NN the|DT same|JJ level|NN as|IN privatesector|NN worker|NN </s>|S_END
+<s>|S_START those|DT who|WP want|VBP more|JJR would|MD have|VB to|TO contribute|VB to|TO a|DT separate|JJ fund|NN </s>|S_END
+<s>|S_START that|DT would|MD make|VB the|DT system|NN less|NN unfair|JJ and|CC in|IN the|DT long|JJ term|NN a|DT bit|NN cheaper|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT bill|NN still|RB must|MD pass|VB the|DT senate|NN and|CC ms|NNS rousseffs|NNS powers|NNS of|IN persuasion|NN may|MD not|RB prove|VB sufficient|JJ </s>|S_END
+<s>|S_START even|RB if|IN it|PRP is|VBZ approved|VBN however|RB it|PRP would|MD only|RB be|VB a|DT first|JJ step|NN towards|NNS fixing|VBG a|DT system|NN that|WDT fabio|NN giambiagi|VBP an|DT economist|NN at|IN the|DT national|JJ development|NN bank|NN calls|VBZ “absolutely|JJ the|DT most|RBS generous|JJ in|IN the|DT world|NN </s>|S_END
+<s>|S_START the|DT economy|NN of|IN brazil|NN is|VBZ very|RB different|JJ from|IN greece|NN </s>|S_END
+<s>|S_START but|CC in|IN terms|NNS of|IN retirement|NN rules|NNS we|PRP are|VBP worse”|-NONE- </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START uniquely|RB among|IN large|JJ economies|NNS brazil|VBP is|VBZ a|DT young|JJ country|NN with|IN the|DT pensions|NNS bill|NN of|IN an|DT old|JJ one|CD see|NN chart|NN </s>|S_END
+<s>|S_START it|PRP has|VBZ just|RB ten|VBN over65s|NNP for|IN every|DT hundred|CD 15|CD to|TO 64yearolds|CD fewer|JJR than|IN anywhere|RB in|IN the|DT g7|NNP </s>|S_END
+<s>|S_START and|CC yet|RB it|PRP spends|VBZ 13|CD of|IN gdp|NN on|IN pensions|NNS more|RBR than|IN any|DT g7|NNP member|NN except|IN italy|RB where|WRB the|DT share|NN of|IN old|JJ people|NNS is|VBZ three|CD times|NNS higher|JJR than|IN in|IN brazil|NN </s>|S_END
+<s>|S_START in|IN fact|NN so|IN few|JJ brazilians|NNS pay|VBP for|IN pensions|NNS and|CC so|RB many|JJ get|NN them|PRP that|IN the|DT country|NN has|VBZ 35|CD pensioners|NNS for|IN every|DT 100|CD contributing|VBG workers|NNS a|DT higher|JJR ratio|NN than|IN in|IN the|DT united|VBN state|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START brazils|NNS pensions|NNS are|VBP among|IN the|DT worlds|NNS most|JJS generous|JJ too|RB replacing|VBG 75|CD of|IN average|JJ income|NN </s>|S_END
+<s>|S_START ome|NN of|IN this|DT is|VBZ welfare|NN spending|NN intended|VBD to|TO cut|VB poverty|NN </s>|S_END
+<s>|S_START rural|JJ workers|NNS aged|VBD over|IN 60|CD and|CC anyone|NN poor|NN and|CC over|IN 65|CD can|MD get|VB a|DT pension|NN of|IN 622|CD reais—the|JJ minimum|JJ wage—without|NN ever|RB having|VBG paid|VBN into|IN the|DT system|NN </s>|S_END
+<s>|S_START but|CC this|DT only|JJ costs|NNS around|IN 2|CD of|IN gdp|NN a|DT year|NN </s>|S_END
+<s>|S_START the|DT real|JJ culprits|NNS are|VBP rules|NNS that|IN let|NN contributing|VBG workers|NNS retire|VBP earlier|JJR on|IN bigger|JJR pensions|NNS than|IN anywhere|RB else|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO retire|VB on|IN full|JJ pay|NN most|JJS brazilians|NNS need|VBP only|RB contribute|JJ for|IN 15|CD years|NNS and|CC keep|VB going|VBG until|IN 65|CD for|IN men|NNS and|CC 60|CD for|IN women|NNS </s>|S_END
+<s>|S_START but|CC after|IN 35|CD years|NNS paying|VBG in|IN a|DT man|NN of|IN any|DT age|NN can|MD retire|VB on|IN a|DT smaller|JJR though|IN still|RB generous|JJ pension|NN </s>|S_END
+<s>|S_START a|DT woman|NN must|MD pay|VB in|IN for|IN just|RB 30|CD year|NN </s>|S_END
+<s>|S_START all|DT pensions|NNS must|MD exceed|VB the|DT minimum|JJ wage|NN which|WDT has|VBZ trebled|VBN in|IN real|JJ terms|NNS since|IN 1995|CD </s>|S_END
+<s>|S_START as|IN a|DT result|NN most|JJS brazilians|NNS retire|VBP startlingly|RB early|JJ at|IN 54|CD on|IN average|JJ for|IN a|DT man|NN in|IN the|DT private|JJ sector|NN and|CC just|RB 52|CD for|IN a|DT woman|NN </s>|S_END
+<s>|S_START urvivors|NNS benefits|NNS have|VBP no|DT age|NN limit|NN </s>|S_END
+<s>|S_START families|NNS inherit|VBP pensions|NNS in|IN their|PRP$ entirety|NN meaning|VBG young|JJ childless|NN widows|VBZ never|RB need|VBP work|NN </s>|S_END
+<s>|S_START a|DT tenth|NN of|IN all|DT 45yearolds|CD are|VBP already|RB receiving|VBG a|DT pension|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT young|JJ country|NN a|DT payasyougo|NN system|NN should|MD yield|VB surpluses|NNS which|WDT can|MD be|VB invested|VBN in|IN infrastructure|NN and|CC education|NN </s>|S_END
+<s>|S_START but|CC brazils|NNS is|VBZ already|RB in|IN deficit|NN </s>|S_END
+<s>|S_START investment|NN is|VBZ only|RB about|IN 20|CD of|IN gdp|NN and|CC just|RB 29|CD of|IN gdp|NN comes|VBZ from|IN the|DT government|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START children|NNS get|VBP particularly|RB slim|JJ pickings|NNS after|IN pensions|NNS are|VBP paid|VBN </s>|S_END
+<s>|S_START taking|VBG income|NN levels|NNS and|CC differing|VBG demographies|NNS into|IN account|NN brazil|NN spent|NN twice|NN as|IN lavishly|RB on|IN each|DT pensioner|NN as|IN the|DT oecd|NN average|NN but|CC only|RB twothirds|VBZ as|IN generously|RB on|IN the|DT education|NN of|IN each|DT child|NN </s>|S_END
+<s>|S_START the|DT only|JJ handout|IN a|DT poor|JJ child|NN can|MD hope|VB for|IN is|VBZ the|DT bolsa|NN família|NNP a|DT grant|NN averaging|VBG 115|CD reais|NNS per|IN family|NN per|IN month|NN </s>|S_END
+<s>|S_START if|IN he|PRP were|VBD over|RB 65|CD his|PRP$ family|NN would|MD receive|VB over|IN five|CD times|NNS as|RB much|JJ </s>|S_END
+<s>|S_START as|IN a|DT result|NN very|RB few|JJ old|JJ people|NNS are|VBP below|IN the|DT poverty|NN line|NN but|CC a|DT third|JJ of|IN children|NNS are|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT price|NN for|IN such|JJ distorted|JJ priorities|NNS is|VBZ already|RB high|JJ </s>|S_END
+<s>|S_START but|CC soon|RB it|PRP will|MD be|VB unpayable|JJ </s>|S_END
+<s>|S_START payroll|NN taxes|NNS for|IN pensions|NNS are|VBP already|RB greater|JJR in|IN brazil|NN at|IN 32|CD of|IN gross|JJ salary|NN than|IN in|IN all|DT g7|NNP countries|NNS except|IN italy|RB </s>|S_END
+<s>|S_START according|VBG to|TO bernardo|VB queiroz|NN of|IN the|DT federal|JJ university|NN of|IN minas|NNS gerais|NNS without|IN reforms|NNS by|IN 2050|CD they|PRP would|MD have|VB to|TO reach|VB a|DT crushing|NN 86|CD to|TO keep|VB the|DT system|NN going|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START averting|VBG such|JJ a|DT disaster|NN will|MD take|VB big|JJ changes|NNS more|RBR people|NNS contributing|VBG less|JJR generous|JJ pensions|NNS and|CC a|DT ban|NN on|IN early|JJ retirement|NN </s>|S_END
+<s>|S_START rerunning|VBG his|PRP$ calculations|NNS mr|VBP queiroz|NN found|VBD that|IN together|NN these|DT would|MD cause|VB the|DT pensions|NNS payroll|VBP tax|NN in|IN 2050|CD to|TO rise|VB to|TO 40|CD still|RB a|DT daunting|NN figure|NN </s>|S_END
+<s>|S_START but|CC such|JJ reforms|NNS are|VBP not|RB even|RB being|VBG discussed|VBN </s>|S_END
+<s>|S_START “its|NNS a|DT puzzle”|JJ he|PRP say|VBP </s>|S_END
+<s>|S_START “the|DT unions|NNS are|VBP against|IN change|NN </s>|S_END
+<s>|S_START but|CC without|IN them|PRP the|DT workers|NNS they|PRP represent|VBP are|VBP paying|VBG for|IN other|JJ people|NNS to|TO get|VB much|RB more|JJR generous|JJ pensions|NNS than|IN they|PRP will|MD ever|RB get|VB themselves”|-NONE- </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START brazil|NN will|MD have|VB to|TO face|VB reality|NN sooner|NN or|CC later|JJ </s>|S_END
+<s>|S_START but|CC the|DT risk|NN is|VBZ that|IN it|PRP will|MD take|VB an|DT economic|JJ crisis|NN to|TO goad|VB the|DT government|NN into|IN action|NN </s>|S_END
+<s>|S_START big|JJ reforms|NNS were|VBD pushed|VBN through|IN in|IN 1999|CD when|WRB the|DT country|NN was|VBD struggling|VBG to|TO pay|VB its|PRP$ foreign|JJ debt|NN </s>|S_END
+<s>|S_START incredibly|RB pensions|NNS used|VBN to|TO be|VB even|RB more|RBR generous|JJ with|IN no|DT cap|NN in|IN the|DT private|JJ sector|NN and|CC retirement|NN on|IN full|JJ pay|NN at|IN any|DT age|NN after|IN 35|CD years|NNS in|IN work|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mr|NN queiroz|NN says|VBZ the|DT lesson|NN from|IN abroad|RB is|VBZ that|IN once|RB those|DT in|IN or|CC near|IN retirement|NN are|VBP very|RB numerous|JJ reform|NN becomes|VBZ so|RB urgent|JJ that|IN it|PRP will|MD have|VB to|TO hit|VB them|PRP too|RB </s>|S_END
+<s>|S_START at|IN that|DT point|NN they|PRP will|MD mobilise|VB and|CC block|VB all|DT changes|NNS even|RB to|TO the|DT brink|NN of|IN collapse|NN </s>|S_END
+<s>|S_START an|DT unaffordable|JJ system|NN can|MD only|RB be|VB fixed|VBN while|IN the|DT share|NN of|IN old|JJ people|NNS is|VBZ small|JJ </s>|S_END
+<s>|S_START brazils|NNS chance|VBP to|TO change|VB is|VBZ brief|JJ he|PRP says—perhaps|VBZ ten|VBN year|NN </s>|S_END
+</p>|P_END
+

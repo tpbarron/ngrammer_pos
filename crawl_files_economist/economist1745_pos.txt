@@ -1,0 +1,44 @@
+<p>|P_START
+<s>|S_START from|IN the|DT air|NN the|DT flint|NN river|NN basin|NN in|IN southwestern|NN georgia|NN looks|NNS monotonou|PRP </s>|S_END
+<s>|S_START appearances|NNS however|RB deceive|JJ </s>|S_END
+<s>|S_START what|WP seems|VBZ a|DT euclidian|JJ as|IN well|RB as|IN a|DT geographical|JJ plain|NN is|VBZ actually|RB a|DT landscape|NN of|IN low|JJ hills|NNS shallow|VBP valleys|NNS stream|VBP beds|NNS drainage|NN ditches|NNS and|CC river|NN bank|NN </s>|S_END
+<s>|S_START nor|CC is|VBZ the|DT soil|NN the|DT same|JJ everywhere|NN </s>|S_END
+<s>|S_START ome|NN is|VBZ sandy|JJ some|DT is|VBZ rich|JJ in|IN clay|NN some|DT is|VBZ a|DT mixture|NN of|IN the|DT two|CD </s>|S_END
+<s>|S_START these|DT details|NNS matter|NN if|IN you|PRP are|VBP a|DT farmer|NN which|WDT many|JJ residents|NNS are|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START from|IN the|DT air|NN too|RB something|NN else|RB is|VBZ apparent|JJ a|DT strange|NN tendency|NN for|IN the|DT basins|NNS crops|NNS to|TO grow|VB in|IN circular|JJ patche|NN </s>|S_END
+<s>|S_START this|DT is|VBZ caused|VBN by|IN the|DT way|NN they|PRP are|VBP watered|VBN for|IN the|DT predominant|NN system|NN employs|NNS sprinkler|JJR heads|NNS attached|VBN to|TO hoses|NNS that|IN dangle|JJ from|IN wheeled|JJ trusses|NNS which|WDT move|NN in|IN a|DT circular|JJ pattern|NN around|IN a|DT central|JJ tower|NN </s>|S_END
+<s>|S_START the|DT whole|JJ arrangement|NN is|VBZ portable|JJ and|CC can|MD thus|RB be|VB transported|VBN from|IN field|NN to|TO field|VB in|IN order|NN to|TO water|VB a|DT whole|JJ farm|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START centrepivot|NN irrigation|NN as|IN this|DT system|NN is|VBZ known|VBN is|VBZ reasonably|RB effective|JJ </s>|S_END
+<s>|S_START but|CC it|PRP is|VBZ a|DT onesizefitsall|NN approach|NN to|TO distributing|NN water|NN </s>|S_END
+<s>|S_START craig|NN kvien|VBN of|IN the|DT university|NN of|IN georgia|NN thinks|NNS he|PRP can|MD do|VB better|RBR </s>|S_END
+<s>|S_START in|IN 1999|CD dr|NN kvien|NN came|VBD up|RP with|IN the|DT idea|NN of|IN varying|VBG the|DT amount|NN of|IN irrigation|NN water|NN applied|VBD across|IN a|DT field|NN in|IN light|JJ of|IN a|DT detailed|JJ examination|NN of|IN that|DT fields|NNS characteristic|JJ </s>|S_END
+<s>|S_START in|IN collaboration|NN with|IN farmscan|JJ ag|NN an|DT australian|JJ manufacturer|NN of|IN agricultural|JJ equipment|NN he|PRP and|CC his|PRP$ colleagues|NNS have|VBP developed|VBN this|DT approach|NN into|IN a|DT technique|JJ called|VBN variablerate|NN irrigation|NN vri|NN </s>|S_END
+<s>|S_START more|JJR than|IN 80|CD farms|NNS in|IN georgia|NN now|RB use|VBP it|PRP </s>|S_END
+<s>|S_START farmers|NNS in|IN australia|NN germany|NN new|JJ zealand|NN south|NN africa|NN and|CC spain|NN are|VBP taking|VBG an|DT interest|NN and|CC two|CD other|JJ firms—zimmatic|JJ and|CC valley|NN irrigation|NN both|DT based|VBN in|IN nebraska—have|JJ joined|VBN farmscan|NN ag|NN in|IN selling|NN the|DT kit|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START vri|NN requires|VBZ some|DT effort|NN to|TO set|VB up|RP </s>|S_END
+<s>|S_START a|DT farmer|NN must|MD produce|VB a|DT map|NN of|IN his|PRP$ land|NN with|IN a|DT resolution|NN of|IN less|JJR than|IN a|DT metre|NN to|TO determine|VB its|PRP$ topography—particularly|JJ any|NN lowlying|VBG areas|NNS where|WRB water|NN might|MD pool|VB and|CC higher|JJR spots|NNS that|WDT are|VBP prone|RB to|TO runoff|VB </s>|S_END
+<s>|S_START fallow|NN areas|NNS uncropped|VBD parts|NNS watercourses|NNS dirt|VBP tracks|NNS and|CC wetlands|NNS also|RB need|VBP to|TO be|VB fed|VBN into|IN the|DT system|NN </s>|S_END
+<s>|S_START for|IN further|JJ precision|NN a|DT farmer|NN can|MD use|VB soilmoisture|NN probes|NNS to|TO let|VB him|PRP know|VB how|WRB much|RB water|JJR each|DT bit|NN of|IN a|DT field|NN is|VBZ using|VBG since|IN denser|NN claybased|VBN soil|NN requires|VBZ less|JJR irrigation|NN than|IN looser|NN sandy|NN soil|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT farmer|NN or|CC his|PRP$ agent|NN uploads|NNS all|DT this|DT information|NN into|IN a|DT piece|NN of|IN software|NN written|VBN by|IN one|CD of|IN the|DT companies|NNS involved|VBN </s>|S_END
+<s>|S_START this|DT software|NN uses|VBZ the|DT global|JJ positioning|NN system|NN a|DT network|NN of|IN satellites|NNS whose|WP$ signals|NNS provide|VB precise|JJ location|NN information|NN to|TO monitor|NN the|DT position|NN of|IN each|DT sprinkler|NN head|NN as|IN it|PRP turns|VBZ on|IN the|DT pivot|NN </s>|S_END
+<s>|S_START the|DT software|NN then|RB works|VBZ out|RP on|IN the|DT fly|NN how|WRB much|JJ water|NN should|MD be|VB emerging|VBG from|IN each|DT head|NN at|IN any|DT given|VBN moment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START vri|NN systems|NNS are|VBP not|RB cheap|VB </s>|S_END
+<s>|S_START depending|VBG on|IN the|DT size|NN of|IN the|DT pivot|NN and|CC the|DT complexity|NN of|IN the|DT installation|NN it|PRP can|MD cost|VB $|$ 500030000|CD to|TO smarten|CD up|IN a|DT single|JJ irrigation|NN system|NN in|IN this|DT way|NN </s>|S_END
+<s>|S_START the|DT payoff|NN though|IN is|VBZ an|DT average|JJ 15|CD reduction|NN in|IN water|NN consumption|NN a|DT reduction|NN in|IN fertiliser|NN use|NN because|IN less|JJR is|VBZ washed|VBN away|RB by|IN runoff|NN and|CC savings|NNS of|IN $|$ 40110|CD per|IN hectare|JJ </s>|S_END
+</p>|P_END
+

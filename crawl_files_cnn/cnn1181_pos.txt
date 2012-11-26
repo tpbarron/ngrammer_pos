@@ -1,0 +1,56 @@
+<p>|P_START
+<s>|S_START people|NNS wait|VBP on|IN line|NN at|IN a|DT government|NN unemployment|NN office|NN in|IN a|DT madrid|NN suburb|NN </s>|S_END
+<s>|S_START spain|NN had|VBD the|DT highest|JJS unemployment|NN rate|NN in|IN europe|NN in|IN april|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT 17nation|CD eurozones|NNS unemployment|NN rate|NN reached|VBD the|DT highest|JJS level|NN since|IN the|DT creation|NN of|IN the|DT common|JJ currency|NN 13|CD years|NNS ago|IN climbing|VBG to|TO 11|CD in|IN april|NN as|IN employers|NNS slashed|VBD 110000|CD jobs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT unemployment|NN rate|NN in|IN the|DT broader|JJR 27nation|CD area|NN that|WDT makes|VBZ up|RP the|DT european|JJ union|NN rose|VBD to|TO 103|CD in|IN april|NN as|IN employers|NNS trimmed|VBN 102000|CD jobs|NNS from|IN their|PRP$ payrolls|NNS </s>|S_END
+<s>|S_START that|DT was|VBD highest|JJS eu|NN unemployment|NN rate|NN on|IN records|NNS that|IN go|NN back|RB to|TO 2000|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX were|VBD 247|CD million|CD unemployed|VBN in|IN the|DT eu|NN in|IN april|NN of|IN whom|WP 174|CD million|CD were|VBD in|IN the|DT eurozone|NN </s>|S_END
+<s>|S_START both|DT figures|NNS are|VBP far|RB above|RB the|DT 127|CD million|CD unemployed|VBN in|IN the|DT united|VBN states|NNS which|WDT has|VBZ a|DT population|NN about|IN 6|CD less|JJR than|IN the|DT eurozone|NN </s>|S_END
+<s>|S_START cnn|NN explains|VBZ unemployment|NN rate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT us|PRP may|MD jobs|NNS report|VB also|RB released|VBN friday|NN showed|VBD that|IN us|PRP employers|NNS added|VBD 69000|CD jobs|NNS while|IN unemployment|NN ticked|VBD up|RP to|TO 82|CD </s>|S_END
+<s>|S_START while|IN both|DT results|NNS were|VBD much|RB worse|JJR than|IN the|DT forecasts|NNS of|IN economists|NNS surveyed|VBN by|IN cnnmoney|NN who|WP had|VBD been|VBN expecting|VBG 150000|CD new|JJ jobs|NNS to|TO keep|VB unemployment|NN at|IN 81|CD it|PRP was|VBD far|RB better|RBR than|IN europes|NNS job|NN picture|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START while|IN the|DT unemployment|NN rate|NN in|IN the|DT united|VBN states|NNS has|VBZ been|VBN falling|VBG steadily|RB over|IN the|DT last|JJ seven|CD months|NNS before|IN fridays|NNS report|NN its|PRP$ been|VBN climbing|VBG across|IN europe|NN </s>|S_END
+<s>|S_START the|DT unemployment|NN rate|NN for|IN march|NN for|IN the|DT 17|CD nations|NNS that|WDT use|NN the|DT euro|NN was|VBD also|RB raised|VBN to|TO 11|CD in|IN fridays|NNS jobs|NNS report|NN from|IN the|DT initial|JJ reading|NN of|IN 109|CD while|IN the|DT march|NN reading|NN for|IN the|DT eu|NN was|VBD 102|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT ongoing|JJ european|NN sovereign|NN debt|NN crisis|NN is|VBZ getting|VBG most|RBS of|IN the|DT blame|NN for|IN the|DT employer|NN job|NN cuts|NNS </s>|S_END
+<s>|S_START it|PRP has|VBZ cut|VBN into|IN lending|VBG by|IN banks|NNS reduced|VBN government|NN employment|NN as|IN part|NN of|IN austerity|NN plans|NNS to|TO deal|VB with|IN rising|VBG debt|NN and|CC led|VBD to|TO privatesector|NN job|NN losses|NNS due|JJ to|TO decreased|VBN customer|NN demand|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START both|DT the|DT eu|NN and|CC eurozone|NN suffered|VBD from|IN zero|CD economic|JJ growth|NN in|IN the|DT first|JJ quarter|NN as|IN both|DT teetered|VBN on|IN the|DT brink|NN of|IN a|DT recession|NN </s>|S_END
+<s>|S_START eleven|RB nations|NNS have|VBP suffered|VBN a|DT decline|NN in|IN their|PRP$ gdp|NN for|IN at|IN least|JJS the|DT last|JJ two|CD quarters|NNS which|WDT is|VBZ the|DT common|JJ definition|NN of|IN a|DT recession|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT worst|JJS unemployment|NN problems|NNS were|VBD in|IN spain|NN where|WRB the|DT jobless|NN rate|NN hit|VBD 243|CD </s>|S_END
+<s>|S_START greek|NN unemployment|NN hit|VBD 217|CD in|IN february|JJ the|DT most|RBS recent|JJ month|NN for|IN which|WDT figures|NNS are|VBP available|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START greece|NN is|VBZ at|IN risk|NN defaulting|VBG on|IN its|PRP$ sovereign|NN debt|NN especially|RB if|IN a|DT european|JJ bailout|NN deal|NN collapses|NNS as|IN a|DT result|NN of|IN elections|NNS now|RB set|VBN for|IN june|NN 17|CD </s>|S_END
+<s>|S_START such|JJ a|DT move|NN could|MD force|VB it|PRP out|RP of|IN the|DT eurozone|NN </s>|S_END
+<s>|S_START spain|NN is|VBZ dealing|VBG with|IN a|DT crisis|NN in|IN its|PRP$ banking|NN system|NN and|CC could|MD need|VB a|DT european|JJ bailout|NN of|IN its|PRP$ own|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT unemployment|NN problem|NN is|VBZ especially|RB severe|JJ for|IN young|JJ workers|NNS across|IN europe|NN as|IN 224|CD of|IN those|DT age|NN 24|CD or|CC younger|JJR were|VBD jobless|NN in|IN the|DT eu|NN in|IN april|NN </s>|S_END
+<s>|S_START more|JJR than|IN half|PDT of|IN the|DT young|JJ workers|NNS without|IN jobs|NNS in|IN spain|NN and|CC greece |NNP </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,73 @@
+<p>|P_START
+<s>|S_START verizon|NN shot|VBD this|DT photo|NN monday|NN night|NN in|IN the|DT lobby|NN of|IN one|CD of|IN its|PRP$ primary|JJ lower|NN manhattan|NN facilities|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN verizon|NN on|IN friday|NN said|VBD it|PRP is|VBZ making|VBG progress|NN in|IN getting|NN its|PRP$ cellular|JJ service|NN back|RB online|JJ for|IN customers|NNS impacted|VBN by|IN superstorm|NN sandy|NN but|CC the|DT repair|NN work|NN may|MD take|VB a|DT chunk|NN out|IN of|IN its|PRP$ fourthquarter|NN earnings|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT regulatory|JJ filing|NN the|DT company|NN said|VBD it|PRP is|VBZ directing|VBG its|PRP$ resources|NNS towards|NNS powering|VBG up|RP cell|NN towers|NNS and|CC rebuilding|VBG its|PRP$ network|NN which|WDT may|MD take|VB some|DT time|NN </s>|S_END
+<s>|S_START verizon|NN said|VBD it|PRP is|VBZ not|RB yet|RB able|JJ to|TO estimate|VB how|WRB much|RB impact|VBP the|DT storm|NN will|MD have|VB on|IN operating|NN profit|NN but|CC we|PRP expect|VBP that|IN it|PRP could|MD be|VB significant|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT nations|NNS largest|JJS wireless|NN carrier|NN said|VBD 96|CD of|IN its|PRP$ towers|NNS in|IN sandyimpacted|JJ areas|NNS are|VBP operational|JJ up|IN from|IN 94|CD on|IN wednesday|NN </s>|S_END
+<s>|S_START but|CC getting|VBG the|DT remaining|VBG towers|NNS online|NN will|MD take|VB a|DT tremendous|JJ effort|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START unfortunately|RB the|DT extent|NN of|IN the|DT storm|NN damage|NN including|VBG lingering|NN power|NN outages|NNS and|CC inaccessible|JJ roadways|NNS in|IN harderhit|NN areas|NNS like|IN new|JJ jersey|NN and|CC the|DT new|JJ york|NN city|NN metro|NN area|NN makes|VBZ full|JJ restoration|NN a|DT marathon|NN and|CC not|RB a|DT sprint|NN bob|NN mudge|NN president|NN of|IN verizons|NNS consumer|NN division|NN said|VBD in|IN a|DT prepared|VBN statement|NN </s>|S_END
+<s>|S_START we|PRP ask|VBP for|IN customers|NNS patience|NN and|CC understanding|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START verizon|NN vz|NN fortune|NN 500|CD isnt|NN the|DT only|JJ carrier|NN that|WDT got|VBD nailed|VBN </s>|S_END
+<s>|S_START the|DT federal|JJ communications|NNS commission|NN said|VBD thursday|NN that|IN 19|CD of|IN cell|NN sites|NNS in|IN the|DT core|NN area|NN affected|VBD by|IN the|DT storm|NN 158|CD counties|NNS across|IN 10|CD states|NNS from|IN virginia|NN all|DT the|DT way|NN up|RP to|TO massachusetts|NNS remained|VBD nonoperational|JJ </s>|S_END
+<s>|S_START thats|NNS an|DT improvement|NN from|IN 25|CD earlier|RBR in|IN the|DT week|NN but|CC wireless|NN companies|NNS still|RB have|VBP much|JJ work|NN to|TO be|VB done|VBN fcc|NN chairman|NN julius|VBZ genachowski|NN said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sprint|NN s|NNS fortune|VBP 500|CD appears|NNS to|TO be|VB the|DT most|JJS damaged|JJ of|IN the|DT three|CD major|JJ national|JJ carriers|NNS </s>|S_END
+<s>|S_START in|IN massachusetts|NNS new|JJ hampshire|NN pennsylvania|NN and|CC rhode|NN island|NN the|DT sprint|NN network|NN is|VBZ more|RBR than|IN 90|CD operational|JJ the|DT company|NN said|VBD </s>|S_END
+<s>|S_START but|CC in|IN the|DT harderhit|NN areas|NNS including|VBG new|JJ york|NN new|JJ jersey|NN and|CC connecticut|VBD sprints|NNS network|NN is|VBZ only|RB around|IN 80|CD functional|JJ and|CC just|RB 75|CD of|IN its|PRP$ new|JJ york|NN city|NN towers|NNS are|VBP online|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START att|NN t|VBD fortune|NN 500|CD said|VBD the|DT vast|JJ majority|NN of|IN its|PRP$ towers|NNS are|VBP back|RB online|JJ but|CC it|PRP continues|VBZ working|VBG to|TO restore|VB service|NN in|IN areas|NNS with|IN significant|JJ damage|NN and|CC power|NN outages|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT rare|NN show|NN of|IN cooperation|NN in|IN the|DT wireless|NN industry|NN att|NN and|CC tmobile|JJ are|VBP allowing|VBG customers|NNS in|IN stormaffected|JJ areas|NNS to|TO roam|VB on|IN one|CD anothers|NNS networks|NNS free|VBP of|IN charge|NN </s>|S_END
+<s>|S_START the|DT two|CD carriers|NNS networks|NNS are|VBP technically|RB compatible|JJ which|WDT made|VBN such|JJ a|DT move|NN possible|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT carriers|NNS noted|VBD that|IN they|PRP are|VBP making|VBG efforts|NNS to|TO reopen|VB their|PRP$ retail|NN stores|NNS where|WRB customers|NNS can|MD charge|VB phones|NNS </s>|S_END
+<s>|S_START for|IN those|DT without|IN service|NN many|JJ stores|NNS are|VBP allowing|VBG customers|NNS to|TO make|VB free|JJ landline|NN calls|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sandys|NNS impact|VBP on|IN the|DT wireless|NN infrastructure|NN is|VBZ likely|JJ second|JJ only|RB to|TO hurricane|VB katrina|NN said|VBD ken|VBN rehbehn|NN wireless|NN infrastructure|NN analyst|NN with|IN yankee|NN group|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT big|JJ difference|NN between|IN new|JJ york|NN city|NN and|CC katrina|NN is|VBZ that|IN the|DT flooding|NN is|VBZ not|RB lasting|VBG as|IN long|RB in|IN as|IN large|JJ an|DT area|NN he|PRP said|VBD </s>|S_END
+<s>|S_START but|CC the|DT failure|NN of|IN key|JJ power|NN stations|NNS and|CC power|NN distribution|NN in|IN a|DT complex|JJ dense|NN area|NN such|JJ as|IN lower|JJR manhattan|NN means|VBZ that|DT secondary|JJ power|NN being|VBG brought|NN in|IN is|VBZ essential|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START many|JJ irate|NN customers|NNS took|VBD to|TO social|JJ networks|NNS saying|VBG that|IN regulators|NNS should|MD require|VB carriers|NNS to|TO have|VB more|JJR robust|JJ backups|NNS </s>|S_END
+<s>|S_START that|DT kind|NN of|IN fallback|NN system|NN exists|NNS in|IN hurricaneprone|NN areas|NNS like|IN florida|NN with|IN backup|NN generators|NNS at|IN practically|RB every|DT cell|NN site|NN </s>|S_END
+<s>|S_START but|CC rehben|VBN said|VBD the|DT costs|NNS of|IN doing|VBG that|IN in|IN the|DT northeast|NN would|MD likely|RB outweigh|VB the|DT benefits|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT good|JJ news|NN for|IN consumers|NNS is|VBZ that|IN new|JJ 4g|CD network|NN equipment|NN that|WDT carriers|NNS are|VBP deploying|VBG is|VBZ significantly|RB more|RBR energyefficient|JJ than|IN 3g|CD or|CC 2g|CD technology|NN </s>|S_END
+<s>|S_START once|RB carriers|NNS 4g|CD networks|NNS are|VBP fully|RB deployed|VBN cell|NN towers|NNS battery|NN backups|NNS should|MD last|VB longer|RBR giving|VBG carriers|NNS more|JJR time|NN to|TO make|VB repairs|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START verizon|NN was|VBD among|IN the|DT first|JJ major|JJ companies|NNS to|TO say|VB that|IN sandy|JJ would|MD have|VB a|DT significant|JJ financial|JJ impact|NN but|CC the|DT storm|NN will|MD likely|RB hurt|VB airlines|NNS insurance|NN companies|NNS and|CC hotels|NNS as|IN well|RB </s>|S_END
+</p>|P_END
+

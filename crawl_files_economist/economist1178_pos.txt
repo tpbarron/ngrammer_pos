@@ -1,0 +1,15 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 43|CD gdp|NN $|$ 67bn|CD ppp|CD $|$ 132bn|CD inflation|NN 43|CD population|NN 146m|CD gdp|NN per|IN head|NN $|$ 4610|CD ppp|CD $|$ 9040|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START healthy|JJ oil|NN receipts|NNS and|CC lending|VBG from|IN china|NN have|VBP allowed|VBN the|DT administration|NN of|IN rafael|NN correa|NN a|DT leftwing|NN populist|NN to|TO support|VB growth|NN through|IN government|NN spending|NN </s>|S_END
+<s>|S_START although|IN mr|NN correas|NNS popularity|NN is|VBZ declining|VBG a|DT fragmented|JJ opposition|NN offers|NNS little|RB alternative|JJ </s>|S_END
+<s>|S_START heavy|JJ state|NN control|NN and|CC regulatory|JJ instability|NN will|MD deter|VB all|DT but|CC the|DT most|RBS intrepid|JJ investor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB airborne|NN </s>|S_END
+<s>|S_START a|DT new|JJ international|JJ airport|NN will|MD open|VB in|IN 2012|CD as|IN mariscal|JJ sucre|NN airport|NN in|IN quito|NN gives|VBZ way|NN to|TO a|DT modern|JJ facility|NN 15km|CD to|TO the|DT northeast|NN </s>|S_END
+</p>|P_END
+

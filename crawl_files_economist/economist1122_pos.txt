@@ -1,0 +1,16 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 22|CD gdp|NN $|$ 57bn|CD ppp|CD $|$ 99bn|CD inflation|NN 26|CD population|NN 73m|CD gdp|NN per|IN head|NN $|$ 7870|CD ppp|CD $|$ 13520|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT centreright|NN government|NN of|IN citizens|NNS for|IN european|JJ development|NN of|IN bulgaria|NN lacks|NNS an|DT outright|JJ majority|NN and|CC having|VBG fallen|NN out|IN with|IN the|DT nationalist|JJ attack|NN party|NN relies|NNS on|IN independents|NNS in|IN parliament|NN for|IN a|DT majority|NN making|VBG it|PRP vulnerable|JJ to|TO defection|NN </s>|S_END
+<s>|S_START nevertheless|RB it|PRP is|VBZ likely|JJ to|TO see|VB out|RP its|PRP$ term|NN helped|VBD by|IN a|DT modest|JJ rally|NN in|IN the|DT economy|NN </s>|S_END
+<s>|S_START the|DT government|NN will|MD continue|VB the|DT hard|JJ slog|NN against|IN official|NN corruption|NN not|RB least|JJS because|IN the|DT disbursement|NN of|IN european|JJ funds|NNS to|TO this|DT the|DT eus|NN poorest|NN country|NN depends|NNS on|IN it|PRP </s>|S_END
+<s>|S_START protests|NNS have|VBP been|VBN a|DT perennial|JJ problem|NN and|CC the|DT need|NN for|IN a|DT squeeze|NN on|IN public|JJ spending|NN to|TO tame|VB the|DT deficit|NN will|MD ensure|VB more|RBR trouble|JJ in|IN 2012|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START to|TO watch|VB borderline|NN case|NN </s>|S_END
+<s>|S_START bulgaria|NN is|VBZ due|JJ to|TO become|VB the|DT latest|JJS member|NN of|IN europes|NNS “schengen”|-NONE- borderfree|VBP area|NN </s>|S_END
+</p>|P_END
+

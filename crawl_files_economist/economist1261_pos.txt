@@ -1,0 +1,11 @@
+<p>|P_START
+<s>|S_START gdp|NN growth|NN 28|CD gdp|NN $|$ 28bn|CD ppp|CD $|$ 36bn|CD inflation|NN 30|CD population|NN 22m|CD gdp|NN per|IN head|NN $|$ 12850|CD ppp|CD $|$ 16360|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START valdis|NNS zatlers|NNS ousted|VBD by|IN the|DT legislature|NN as|IN president|NN after|IN engineering|NN its|PRP$ dissolution|NN lost|VBD out|RP to|TO the|DT prorussian|JJ harmony|NN centre|NN in|IN the|DT resulting|VBG legislative|JJ election|NN in|IN late|JJ 2011|CD </s>|S_END
+<s>|S_START but|CC his|PRP$ newly|RB minted|VBN party|NN looked|VBD likely|JJ to|TO take|VB power|NN anyway|NN at|IN the|DT head|NN of|IN a|DT centreright|NN majority|NN coalition|NN </s>|S_END
+<s>|S_START whoever|NN governs|NNS there|EX is|VBZ little|JJ wiggle|NN room|NN over|IN policy|NN </s>|S_END
+<s>|S_START an|DT imf|NN rescue|NN programme|NN expires|NNS as|IN the|DT year|NN begins|VBZ but|CC another|DT may|MD be|VB in|IN the|DT works|NNS and|CC preparations|NNS to|TO join|VB the|DT euro|NN zone|NN in|IN 2014|CD assuming|VBG it|PRP still|RB exists|VBZ will|MD impose|VB overarching|VBG policy|NN guidelines |-NONE- </s>|S_END
+</p>|P_END
+

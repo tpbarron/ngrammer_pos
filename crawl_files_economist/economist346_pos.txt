@@ -1,0 +1,44 @@
+<p>|P_START
+<s>|S_START deep|NN in|IN the|DT rolling|NN treeclad|NN hills|NNS of|IN pennsylvania|NN on|IN a|DT hilltop|NN close|NN to|TO a|DT group|NN of|IN barns|NNS and|CC farmhouses|NNS chevron’s|-NONE- kikta|NN well|RB pad|JJ can|MD be|VB found|VBN at|IN the|DT end|NN of|IN a|DT narrow|NN country|NN lane|NN </s>|S_END
+<s>|S_START this|DT is|VBZ part|NN of|IN the|DT marcellus|NN shale|NN 250000|CD sq|NN km|NN 96500|CD square|NN miles|NNS of|IN gasfields|NNS stretching|VBG across|IN pennsylvania|NN west|NN virginia|NN and|CC new|JJ york|NN state|NN </s>|S_END
+<s>|S_START the|DT drilling|NN rig|NN is|VBZ 30|CD metres|NNS high|JJ so|IN large|JJ that|IN it|PRP is|VBZ hard|RB to|TO imagine|VB how|WRB it|PRP could|MD have|VB got|VBN to|TO the|DT site|NN but|CC it|PRP comes|VBZ apart|NN and|CC the|DT components|NNS fit|VBP onto|IN lorrie|NN </s>|S_END
+<s>|S_START it|PRP sits|VBZ on|IN an|DT acre|NN of|IN flattened|VBN hilltop|NN along|IN with|IN a|DT milliongallon|NN reservoir|NN to|TO provide|VB the|DT huge|JJ quantities|NNS of|IN water|NN needed|VBN for|IN extracting|NN shale|NN ga|NN </s>|S_END
+<s>|S_START vehicles|NNS and|CC machines|NNS are|VBP poised|VBN for|IN action|NN </s>|S_END
+<s>|S_START four|PRP$ wells|NNS will|MD be|VB drilled|VBN from|IN this|DT one|CD pad|NN </s>|S_END
+<s>|S_START the|DT drill|NN will|MD first|RB bore|VB 23002600|CD metres|NNS 7500|CD 8500|CD feet|NNS downwards|NNS then|RB the|DT drill|NN bit|NN is|VBZ coaxed|VBN to|TO the|DT horizontal|JJ and|CC the|DT drilling|NN continues|VBZ outward|NN </s>|S_END
+<s>|S_START gas|NN will|MD start|VB rising|VBG to|TO the|DT wellheads|NNS just|RB a|DT few|JJ metres|NNS apart|NN after|IN the|DT next|JJ task|NN is|VBZ performed|VBN hydraulic|JJ fracturing|NN or|CC fracking|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START hale|NN is|VBZ a|DT hard|JJ rock|NN made|VBD up|RP of|IN sediments|NNS deposited|VBN on|IN sea|NN and|CC lake|VB beds|NNS hundreds|NNS of|IN millions|NNS of|IN years|NNS ago|IN </s>|S_END
+<s>|S_START to|TO make|VB it|PRP give|VB up|RP the|DT gas|NN held|VBD within|IN it|PRP needs|VBZ to|TO be|VB broken|VBN up|RP </s>|S_END
+<s>|S_START along|IN up|IN to|TO 2km|CD of|IN horizontal|JJ pipes|NNS 14cm|CD wide|JJ holes|NNS open|JJ out|IN onto|IN the|DT shale|NN </s>|S_END
+<s>|S_START along|IN small|JJ sections|NNS water|NN fine|NN sand|NN the|DT “proppant”|NN and|CC fracking|VBG fluid|NN are|VBP injected|VBN under|IN high|JJ pressure|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fracking|NN fluid|VBD which|WDT makes|VBZ up|RP about|IN 1|CD of|IN the|DT brew|NN is|VBZ a|DT combination|NN of|IN gelling|VBG polymers|NNS of|IN the|DT sort|NN found|VBD in|IN food|NN and|CC cosmetics|NNS to|TO keep|VB the|DT sand|NN suspended|VBD in|IN the|DT fluid|NN as|IN it|PRP is|VBZ pumped|VBN into|IN the|DT well|RB chelants|VBZ like|IN kettle|NN descaler|NN to|TO break|VB down|RP the|DT polymer|NN and|CC release|NN the|DT sand|NN when|WRB it|PRP arrives|VBZ in|IN the|DT fractured|VBN shale|NN friction|NN reducer|NN as|IN found|NN in|IN nappies|NNS to|TO keep|VB the|DT flow|NN smooth|NN and|CC biocide|VB a|DT disinfectant|JJ that|IN stops|NNS bacteria|VBP gumming|VBG up|RP the|DT well|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN reaching|NN the|DT shale|NN the|DT mixture|NN of|IN water|NN and|CC fracking|VBG fluid|NN bursts|NNS open|JJ the|DT rock|NN and|CC the|DT sand|NN keeps|VBZ the|DT fractures|NNS open|JJ allowing|NN the|DT gas|NN to|TO flow|VB to|TO the|DT surface|NN </s>|S_END
+<s>|S_START the|DT power|NN for|IN the|DT operation|NN is|VBZ supplied|VBN by|IN the|DT engines|NNS of|IN a|DT fleet|NN of|IN trucks|NNS so|IN this|DT stage|NN of|IN the|DT process|NN can|MD be|VB noisy|JJ </s>|S_END
+<s>|S_START but|CC it|PRP takes|VBZ only|RB five|CD days|NNS to|TO complete|VB and|CC then|RB the|DT shale|NN gas|NN begins|VBZ to|TO flow|VB and|CC the|DT trucks|NNS portable|JJ offices|NNS and|CC hoppers|NNS are|VBP taken|VBN to|TO another|DT site|NN to|TO start|VB all|DT over|IN again|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START after|IN a|DT little|RB over|IN a|DT year|NN of|IN activity|NN at|IN least|JJS half|NN of|IN which|WDT is|VBZ taken|VBN up|RP with|IN planning|VBG and|CC obtaining|VBG permits|NNS most|JJS of|IN the|DT land|NN is|VBZ reclaimed|VBN apart|NN from|IN a|DT little|RB pipework|NN and|CC a|DT water|NN tank|NN on|IN a|DT small|JJ section|NN of|IN the|DT original|JJ site|NN </s>|S_END
+<s>|S_START at|IN elias|NN a|DT completed|JJ chevron|NN operation|NN the|DT only|JJ sound|NN to|TO disturb|VB the|DT replanted|VBN clover|NN meadow|NN is|VBZ a|DT faint|NN whooshing|VBG as|IN gas|NN passes|NNS to|TO an|DT underground|NN pipe|NN network|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ the|DT sound|NN of|IN dollars|NNS clocking|VBG up|RP and|CC it|PRP could|MD go|VB on|IN for|IN 3050|CD year|NN </s>|S_END
+<s>|S_START the|DT gas|NN rushes|VBZ out|RP rapidly|RB in|IN the|DT first|JJ year|NN or|CC so|RB before|IN tailing|VBG off|IN quite|JJ fast|NN to|TO a|DT third|JJ of|IN the|DT original|JJ flow|NN and|CC gradually|RB declining|VBG thereafter|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT remarkable|JJ thing|NN about|IN extracting|VBG shale|NN gas|NN says|VBZ bruce|NN niemeyer|NN chevron’s|NNS regional|JJ boss|NNS is|VBZ “the|JJ absence|NN of|IN anything|NN remarkable|JJ going|NN on”|NN above|IN the|DT ground|NN </s>|S_END
+<s>|S_START the|DT marcellus|NN is|VBZ not|RB what|WP you|PRP might|MD expect|VB a|DT gasfield|NN to|TO look|VB like|IN the|DT views|NNS can|MD be|VB spectacularly|RB beautiful|JJ </s>|S_END
+<s>|S_START and|CC not|RB only|RB is|VBZ it|PRP good|JJ to|TO look|VB at|IN its|PRP$ gas|NN is|VBZ also|RB cheap|VB to|TO develop|VB and|CC cheap|VB to|TO produce|VB </s>|S_END
+<s>|S_START the|DT average|JJ cost|NN per|IN well|RB is|VBZ $|$ 6m7m|CD against|IN $|$ 7m11m|CD in|IN the|DT haynesville|NN shale|NN spread|NN across|IN parts|NNS of|IN arkansas|NNS louisiana|NNS and|CC texa|NN </s>|S_END
+<s>|S_START moreover|RB the|DT marcellus|NN is|VBZ close|JJ to|TO the|DT big|JJ markets|NNS of|IN the|DT atlantic|JJ coast|NN so|IN the|DT gas|NN is|VBZ cheap|NN to|TO transport|VB too|RB </s>|S_END
+<s>|S_START if|IN only|RB every|DT gasfield|NN were|VBD like|IN that|DT </s>|S_END
+</p>|P_END
+

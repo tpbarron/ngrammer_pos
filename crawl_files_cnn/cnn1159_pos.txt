@@ -1,0 +1,89 @@
+<p>|P_START
+<s>|S_START money|NN magazine|NN this|DT is|VBZ the|DT fourth|JJ part|NN of|IN money|NN magazines|NNS series|NNS on|IN how|WRB to|TO make|VB your|PRP$ money|NN safer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN jittery|NN times|NNS count|VBP on|IN the|DT financial|JJ services|NNS industry|NN to|TO wheel|VB out|RP products|NNS that|WDT play|NN to|TO your|PRP$ fears|NNS </s>|S_END
+<s>|S_START such|JJ investments|NNS are|VBP often|RB marketed|VBN as|IN low|JJ risk|NN but|CC that|IN safety|NN is|VBZ often|RB oversold|VBN or|CC too|RB expensive|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT pitch|NN these|DT funds|NNS use|VBP shorting|VBG selling|VBG borrowed|VBN shares|NNS in|IN hopes|NNS of|IN profiting|VBG if|IN stocks|NNS drop|NN and|CC options|NNS contracts|NNS to|TO ensure|VB that|IN when|WRB the|DT market|NN sinks|VBZ your|PRP$ returns|NNS will|MD soar|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT reality|NN even|RB when|WRB the|DT market|NN isnt|NN plummeting|VBG and|CC thats|NNS most|RBS of|IN the|DT time|NN these|DT funds|NNS keep|VB shorting|VBG </s>|S_END
+<s>|S_START over|IN the|DT past|JJ three|CD years|NNS bear|JJ funds|NNS lost|VBN 28|CD a|DT year|NN on|IN average|JJ vs|NNS the|DT sps|NNS 19|CD gain|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT pitch|NN well|RB give|JJ you|PRP hedgefundlike|VBP performance|NN low|JJ risk|NN with|IN steady|JJ returns|NNS regardless|NN of|IN whether|IN stocks|NNS go|VBP up|RB or|CC down|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT reality|NN because|IN these|DT funds|NNS typically|RB rely|RB on|IN complex|JJ strategies|NNS including|VBG options|NNS shortselling|VBG and|CC derivatives|NNS costs|NNS average|VBP a|DT steep|NN 2|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START not|RB surprisingly|RB returns|VBZ have|VBP been|VBN disappointing|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD type|NN known|NN as|IN absolute|JJ return|NN funds|NNS promises|VBZ to|TO beat|VB set|NN goals|NNS </s>|S_END
+<s>|S_START putnams|NNS absolute|VBP return|NN 700|CD fund|NN pdmax|NN for|IN instance|NN seeks|NNS to|TO outpace|VB tbills|NNS by|IN seven|CD percentage|NN points|NNS over|IN three|CD years|NNS </s>|S_END
+<s>|S_START it|PRP wound|VBD up|RP outperforming|VBG by|IN eight|CD </s>|S_END
+<s>|S_START in|IN the|DT past|JJ year|NN though|IN its|PRP$ short|JJ by|IN five|CD points|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT pitch|NN why|WRB settle|NN for|IN sub2|NNP yields|NNS on|IN 10year|JJ treasuries|NNS when|WRB high|JJ dividend|NN payers|NNS are|VBP giving|VBG 4|CD or|CC more|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT reality|NN stocks|NNS are|VBP not|RB bonds|NNS </s>|S_END
+<s>|S_START theyre|NN a|DT lot|NN riskier|NN in|IN 2008|CD the|DT sp|NN sank|NN 37|CD while|IN the|DT average|NN taxable|JJ bond|NN fund|NN fell|VBD just|RB 5|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC stocks|NNS with|IN the|DT highest|JJS yields|NNS tend|VBP to|TO be|VB in|IN the|DT biggest|JJS financial|JJ trouble|NN </s>|S_END
+<s>|S_START their|PRP$ yields|NNS may|MD be|VB high|JJ because|IN investors|NNS are|VBP taking|VBG a|DT sledge|NN hammer|NN to|TO the|DT prices|NNS not|RB because|IN payouts|NNS are|VBP rising|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT pitch|NN earn|NN the|DT returns|NNS of|IN stocks|NNS with|IN no|DT risk|NN of|IN losing|VBG money|NN thanks|NNS to|TO the|DT underlying|JJ insurance|NN on|IN your|PRP$ investment|NN </s>|S_END
+<s>|S_START your|PRP$ money|NN will|MD also|RB grow|VB taxdeferred|VBN and|CC you|PRP can|MD convert|VB to|TO an|DT annuity|NN later|JJ on|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT reality|NN these|DT are|VBP complex|JJ policies|NNS that|WDT dont|NN deliver|VBP what|WP you|PRP might|MD expect|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START instead|RB of|IN mirroring|VBG a|DT stock|NN market|NN index|NN the|DT annuitys|NNS returns|NNS are|VBP capped|VBN recently|RB many|JJ policies|NNS limited|VBN gains|NNS to|TO 35|CD annually|RB the|DT specific|JJ cap|NN can|MD change|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START worse|NN those|DT returns|NNS dont|VBP include|VBP dividends|NNS which|WDT have|VBP historically|RB accounted|VBN for|IN the|DT bulk|NN of|IN the|DT markets|NNS longterm|VBP returns|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START index|NN annuities|NNS also|RB incur|VBP high|JJ costs|NNS </s>|S_END
+<s>|S_START and|CC unless|IN you|PRP hold|VBP for|IN 10|CD years|NNS or|CC more|JJR youll|JJ have|VBP to|TO pay|VB steep|JJ surrender|NN charges|NNS to|TO sell|VB as|IN much|JJ as|IN 20|CD to|TO start|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START more|JJR ways|NNS to|TO make|VB your|PRP$ money|NN safer|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START how|WRB to|TO pick|VB stocks|NNS without|IN being|VBG burned|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START 7|CD lowrisk|NN funds|NNS for|IN the|DT long|JJ haul|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fixed|VBN income|NN 4|CD safer|NN bets|NNS for|IN todays|NNS market|NN  |: </s>|S_END
+</p>|P_END
+

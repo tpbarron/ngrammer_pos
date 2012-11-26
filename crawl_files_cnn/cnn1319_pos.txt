@@ -1,0 +1,84 @@
+<p>|P_START
+<s>|S_START martin|NN feldstein|NN an|DT economics|NN professor|NN at|IN harvard|NN is|VBZ an|DT adviser|NN to|TO republican|JJ nominee|NN mitt|NN romney|NN </s>|S_END
+<s>|S_START he|PRP served|VBD as|IN the|DT chairman|NN of|IN the|DT council|NN of|IN economic|JJ advisers|NNS under|IN president|NN ronald|NN reagan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP spoke|VBP with|IN him|PRP at|IN the|DT federal|JJ reserves|NNS economic|JJ symposium|NN in|IN jackson|NN hole|NN wyo|NN shortly|RB after ben|JJ bernanke|NN seemed|VBD to|TO make|VB a|DT case|NN for|IN more|JJR stimulus|NNS from|IN the|DT central|JJ bank|NN </s>|S_END
+<s>|S_START heres|NNS what|WP feldstein|NN said|VBD were|VBD some|DT of|IN the|DT potential|JJ risks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT risk|NN that|IN worries|NNS me|PRP most|JJS is|VBZ the|DT risk|NN about|IN the|DT exit|NN strategy|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP dont|VBP have|VBP a|DT clear|JJ idea|NN of|IN how|WRB far|JJ they|PRP would|MD have|VB to|TO raise|VB rates|NNS to|TO deal|VB with|IN banks|NNS that|IN have|VBP more|JJR than|IN a|DT trillion|NN dollars|NNS of|IN excess|NN reserves|NNS deposited|VBD at|IN the|DT fed|VBN </s>|S_END
+<s>|S_START when|WRB the|DT time|NN comes|VBZ they|PRP may|MD have|VB to|TO raise|VB rates|NNS a|DT lot|NN and|CC at|IN that|DT time|NN unemployment|NN may|MD be|VB higher|JJR than|IN it|PRP normally|RB is|VBZ when|WRB the|DT fed|VBN normally|RB wants|VBZ to|TO raise|VB rates|NNS thats|NNS because|IN of|IN this|DT big|JJ amount|NN of|IN longterm|NN unemployment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP can|MD imagine|VB a|DT situation|NN where|WRB the|DT economy|NN starts|VBZ to|TO recover|VB where|WRB the|DT unemployment|NN rate|NN is|VBZ still|RB nevertheless|RB quite|RB high|JJ and|CC if|IN theres|NNS pricing|VBG capability|NN on|IN the|DT part|NN of|IN businesses|NNS the|DT fed|JJ wants|NNS to|TO deal|VB with|IN that |JJ congress|NN may|MD be|VB very|RB unhappy|JJ with|IN the|DT thought|NN of|IN fed|VBN tightening|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fed|VBN may|MD feel|VB they|PRP ought|MD to|TO tighten|VB but|CC feel|VB threatened|VBN that|IN if|IN they|PRP do|VBP congress|RB may|MD take|VB away|RP some|DT of|IN their|PRP$ powers|NNS </s>|S_END
+<s>|S_START what|WP does|VBZ the|DT fed|VBN do|VBP if|IN it|PRP thinks|VBZ it|PRP could|MD lose|VB the|DT right|NN to|TO buy|VB anything|NN other|JJ than|IN treasury|NN bonds|NNS or|CC the|DT right|NN to|TO buy|VB the|DT quantity|NN of|IN bonds|NNS its|PRP$ been|VBN buying|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP would|MD be|VB a|DT difficult|JJ decision|NN </s>|S_END
+<s>|S_START when|WRB i|PRP talk|VBP to|TO people|NNS at|IN the|DT fed|VBN about|IN this|DT they|PRP say|VBP we|PRP will|MD do|VB the|DT right|NN thing|NN </s>|S_END
+<s>|S_START the|DT only|JJ question|NN is|VBZ what|WP is|VBZ the|DT right|NN thing|NN </s>|S_END
+<s>|S_START is|VBZ it|PRP the|DT right|NN thing|NN not|RB to|TO risk|VB losing|VBG authority|NN or|CC is|VBZ it|PRP the|DT right|NN thing|NN to|TO raise|VB interest|NN rates|NNS even|RB if|IN it|PRP involves|VBZ that|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT more|RBR liquidity|NN you|PRP put|VBD out|RP there|RB the|DT greater|JJR that|IN problem|NN is|VBZ going|VBG to|TO be|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT economists|NNS have|VBP recently|RB raised|VBN more|RBR fears|NNS about|IN the|DT fed|VBN fueling|NN a|DT bond|NN bubble|JJ </s>|S_END
+<s>|S_START how|WRB would|MD the|DT scenario|NN play|NN out|IN if|IN a|DT bond|NN bubble|JJ burst|NN </s>|S_END
+<s>|S_START who|WP would|MD the|DT main|JJ victims|NNS be|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START is|VBZ there|EX a|DT potential|JJ bond|NN bubble|JJ now|RB </s>|S_END
+<s>|S_START absolutely|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN the|DT fed|VBN werent|NN buying|VBG and|CC if|IN the|DT chinese|JJ achieved|VBN their|PRP$ trade|NN goal|NN ceasing|VBG to|TO have|VB a|DT current|JJ account|NN surplus|NN as|IN they|PRP have|VBP said|VBN in|IN their|PRP$ fiveyear|NN plan|NN they|PRP will|MD not|RB have|VB the|DT ability|NN to|TO buy|VB our|PRP$ bonds|NNS </s>|S_END
+<s>|S_START in|IN fact|NN they|PRP would|MD have|VB to|TO sell|VB bonds|NNS if|IN they|PRP want|VBP to|TO go|VB around|IN buying|NN other|JJ things|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN a|DT similar|JJ fashion|NN if|IN the|DT japanese|NNS economy|NN begins|VBZ to|TO pick|VB up|RP they|PRP could|MD also|RB be|VB in|IN a|DT position|NN where|WRB theyre|NN no|DT longer|NN buying|VBG our|PRP$ bonds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START put|VB all|DT that|DT together|NN and|CC you|PRP could|MD see|VB interest|NN rates|NNS returning|VBG to|TO more|JJR normal|JJ levels|NNS </s>|S_END
+<s>|S_START this|DT spills|NNS over|IN into|IN equity|NN markets|NNS and|CC if|IN longterm|NN bonds|NNS go|VBP up|RP mortgages|NNS go|VBP up|RP and|CC the|DT housing|NN market|NN gets|NNS hurt|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP would|MD all|VB be|VB the|DT victims|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP would|MD this|DT mean|JJ for|IN the|DT feds|NNS balance|NN sheet|NN </s>|S_END
+<s>|S_START would|MD there|RB be|VB a|DT real|JJ loss |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN theyre|NN sitting|VBG there|EX holding|VBG longterm|NN bonds|NNS the|DT fed|VBN is|VBZ at|IN risk|NN of|IN a|DT capital|NN loss|NN </s>|S_END
+<s>|S_START in|IN a|DT sense|NN that|WDT doesnt|NN matter|NN </s>|S_END
+<s>|S_START its|PRP$ a|DT paper|NN loss|NN they|PRP havent|VBP sold|VBN it|PRP theyre|RB just|RB holding|VBG it|PRP so|RB i|PRP guess|VBP in|IN that|DT sense|NN there|EX is|VBZ no|DT loss|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC their|PRP$ opponents|NNS in|IN congress|NN will|MD say|VB the|DT fed|VBN just|RB lost|VBN $|$ 200|CD billion|CD and|CC in|IN an|DT accounting|NN sense|NN that|IN will|MD be|VB true|JJ </s>|S_END
+<s>|S_START its|PRP$ an|DT extra|JJ risk|NN that|WDT the|DT fed|VBD takes|VBZ about|IN its|PRP$ own|JJ longterm|NN authority|NN </s>|S_END
+</p>|P_END
+

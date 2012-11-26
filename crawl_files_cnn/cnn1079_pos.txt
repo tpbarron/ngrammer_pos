@@ -1,0 +1,200 @@
+<p>|P_START
+<s>|S_START lucky|JJ brand|NN blue|NN jeans|NNS founders|NNS gene|VBP montesano|RB left|VBN and|CC barry|NN perlman|NN in|IN civilianaire|NN in|IN la|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START fortune|NN when|WRB gene|NN montesano|NN 63|CD and|CC barry|JJ perlman|NN 57|CD launched|VBD lucky|JJ brand|NN blue|NN jeans|NNS in|IN 1989|CD it|PRP was|VBD almost|RB unheardof|IN to|TO charge|VB $|$ 70|CD for|IN denim|NN pants|NNS </s>|S_END
+<s>|S_START but|CC they|PRP understood|VBD fashion|NN and|CC the|DT zeitgeist|NN </s>|S_END
+<s>|S_START their|PRP$ jeans|NNS were|VBD designed|VBN with|IN an|DT irreverent|NN sense|NN of|IN humor|NN that|IN bucked|VBN the|DT politically|RB correct|JJ 90s|CD and|CC they|PRP appealed|VBD to|TO rockandroll|VB stars|NNS and|CC the|DT fans|NNS who|WP wanted|VBN to|TO be|VB like|IN them|PRP </s>|S_END
+<s>|S_START in|IN 1999|CD the|DT founders|NNS sold|VBD the|DT business|NN to|TO liz|VB claiborne|NN for|IN $|$ 125|CD million|CD </s>|S_END
+<s>|S_START lucky|JJ brand|NN remains|VBZ a|DT moneymaker|NN for|IN claiborne|NN now|RB fifth|JJ pacific|NN fnp|NN with|IN sales|NNS of|IN $|$ 4182|CD million|CD in|IN 2011|CD but|CC montesano|RB and|CC perlman|NN left|VBD in|IN 2009|CD </s>|S_END
+<s>|S_START theyre|NN back|RB with|IN a|DT new|JJ clothing|NN line|NN of|IN jeans|NNS shirts|NNS and|CC sweaters|NNS called|VBN civilianaire|NN </s>|S_END
+<s>|S_START their|PRP$ story|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gene|NN montesano|VBD i|PRP got|VBD a|DT job|NN at|IN 19|CD working|VBG in|IN a|DT store|NN called|VBN the|DT red|NN hanger|NN in|IN north|JJ miami|NN beach|NN </s>|S_END
+<s>|S_START back|RB in|IN 1968|CD jeans|NNS sold|VBN for|IN $|$ 6|CD </s>|S_END
+<s>|S_START id|VBD sell|VBP $|$ 1200|CD worth|NN of|IN stuff|NN and|CC the|DT manager|NN thought|VBD i|PRP was|VBD a|DT genius|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START barry|NN perlman|NN a|DT few|JJ years|NNS later|RBR id|JJ gotten|NN a|DT job|NN my|PRP$ senior|JJ year|NN of|IN high|JJ school|NN at|IN that|DT same|JJ store|NN and|CC fell|VBD in|IN love|NN with|IN the|DT apparel|NN business|NN </s>|S_END
+<s>|S_START the|DT manager|NN billy|RB rudnick|NN and|CC i|PRP talked|VBD about|IN doing|VBG a|DT store|NN ourselves|VBZ and|CC billy|RB said|VBD youve|NN got|VBD to|TO meet|VB my|PRP$ friend|NN gene|NN </s>|S_END
+<s>|S_START it|PRP was|VBD 1973|CD and|CC my|PRP$ parents|NNS were|VBD cool|JJ with|IN it|PRP </s>|S_END
+<s>|S_START when|WRB my|PRP$ grandfather|NN died|VBD he|PRP left|VBD me|PRP $|$ 5000|CD in|IN ibm|NN ibm|NN fortune|NN 500|CD and|CC international|JJ paper|NN ip|NN fortune|NN 500|CD stock|NN </s>|S_END
+<s>|S_START we|PRP used|VBD that|IN money|NN and|CC $|$ 5000|CD that|WDT billy|RB had|VBD borrowed|VBN from|IN a|DT friend|NN to|TO open|VB the|DT store|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gene|NN we|PRP built|VBD the|DT interior|JJ ourselves|NNS and|CC called|VBN it|PRP four|CD way|NN street|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START barry|NN we|PRP had|VBD no|DT money|NN so|IN we|PRP stacked|VBD cinder|NN blocks|NNS and|CC put|VBD particle|NN board|NN between|IN them|PRP to|TO put|VB the|DT jeans|NNS on|IN </s>|S_END
+<s>|S_START wed|VBD hang|VBN rope|NN from|IN the|DT ceiling|NN with|IN wood|NN dowels|NNS and|CC thats|NNS how|WRB we|PRP did|VBD the|DT window|NN displays|VBZ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gene|NN we|PRP sold|VBD jeans|NNS tshirts|NNS and|CC jackets|NNS and|CC id|VBD be|VB in|IN the|DT back|NN making|VBG leather|NN bags|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START barry|NN we|PRP started|VBD to|TO buy|VB lines|NNS we|PRP thought|VBD were|VBD cool|JJ </s>|S_END
+<s>|S_START we|PRP bought|VBD all|PDT mens|NNS wear|VBP but|CC when|WRB all|DT these|DT cool|JJ women|NNS started|VBD walking|VBG in|IN we|PRP figured|VBD we|PRP needed|VBD to|TO get|VB stuff|NN for|IN them|PRP </s>|S_END
+<s>|S_START it|PRP was|VBD really|RB about|RB being|VBG in|IN the|DT store|NN and|CC selling|VBG jeans|NNS </s>|S_END
+<s>|S_START we|PRP never|RB talked|VBD about|IN how|WRB to|TO make|VB money|NN </s>|S_END
+<s>|S_START we|PRP were|VBD gut|VBN merchants|NNS </s>|S_END
+<s>|S_START in|IN 1975|CD we|PRP opened|VBD a|DT second|JJ store|NN in|IN coconut|NN grove|NN it|PRP pulled|VBD in|IN $|$ 950000|CD a|DT year|NN </s>|S_END
+<s>|S_START people|NNS loved|VBD hanging|VBG out|IN in|IN our|PRP$ stores|NNS </s>|S_END
+<s>|S_START we|PRP had|VBD long|RB hair|JJ and|CC loud|NN music|NN which|WDT was|VBD a|DT different|JJ way|NN of|IN doing|VBG things|NNS then|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gene|NN in|IN 1975|CD i|PRP left|VBD the|DT store|NN </s>|S_END
+<s>|S_START when|WRB i|PRP came|VBD back|RB i|PRP opened|VBD a|DT shoe|NN store|NN inside|NN four|CD way|NN street|NN for|IN 2½|CD years|NNS but|CC there|EX wasnt|NN enough|RB profit|NN for|IN three|CD owners|NNS </s>|S_END
+<s>|S_START i|PRP decided|VBD to|TO leave|VB in|IN august|JJ 1978|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START barry|NN when|WRB gene|NN made|VBN his|PRP$ decision|NN i|PRP decided|VBD to|TO take|VB a|DT break|NN too|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gene|NN barry|NN took|VBD off|RP for|IN a|DT year|NN then|RB went|VBD back|RB to|TO four|CD way|NN street|NN for|IN 10|CD years|NNS </s>|S_END
+<s>|S_START i|PRP worked|VBD for|IN a|DT couple|NN of|IN jeans|NNS companies|NNS and|CC by|IN 1982|CD i|PRP was|VBD doing|VBG production|NN and|CC design|NN for|IN the|DT marciano|NN brothers|NNS at|IN guess|NN ges|NNS </s>|S_END
+<s>|S_START thats|NNS where|WRB i|PRP learned|VBD hard|RB work|NN pays|NNS off|IN </s>|S_END
+<s>|S_START i|PRP decided|VBD i|PRP wanted|VBD to|TO start|VB a|DT business|NN of|IN my|PRP$ own|JJ </s>|S_END
+<s>|S_START michael|NN caruso|RB was|VBD a|DT salesman|NN there|EX and|CC had|VBD a|DT little|RB money|NN </s>|S_END
+<s>|S_START i|PRP didnt|VBP have|VBP any|DT money|NN but|CC i|PRP put|VBD a|DT bug|NN in|IN his|PRP$ ear|NN and|CC we|PRP started|VBD bongo|RB jeans|NNS </s>|S_END
+<s>|S_START he|PRP kicked|VBD in|IN some|DT $|$ 50000|CD </s>|S_END
+<s>|S_START i|PRP was|VBD making|VBG $|$ 35000|CD a|DT year|NN at|IN guess|NN which|WDT was|VBD a|DT fortune|NN to|TO me|PRP </s>|S_END
+<s>|S_START but|CC when|WRB i|PRP left|VBP guess|JJ i|PRP had|VBD $|$ 18|CD in|IN a|DT coffee|NN can|MD </s>|S_END
+<s>|S_START it|PRP was|VBD tough|JJ until|IN a|DT couple|NN of|IN years|NNS into|IN bongo|NN jeans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START barry|NN i|PRP came|VBD back|RB to|TO la|VB in|IN 1988|CD </s>|S_END
+<s>|S_START gene|NN had|VBD bongo|VBN and|CC i|PRP started|VBD doing|VBG bongo|NN for|IN kids|NNS and|CC iggywear|JJ a|DT kids|NNS clothing|VBG line|NN to|TO learn|VB the|DT business|NN of|IN manufacturing|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gene|NN bongo|VBD was|VBD a|DT womens|NN junior|NN jean|NN company|NN locked|VBD into|IN a|DT price|NN point|NN of|IN $|$ 2999|CD </s>|S_END
+<s>|S_START i|PRP told|VBD michael|NN id|NN like|IN to|TO do|VB something|NN separate|VB </s>|S_END
+<s>|S_START so|IN i|PRP decided|VBD to|TO make|VB jeans|NNS for|IN $|$ 60|CD twice|NN the|DT price|NN of|IN bongo|NN jeans|NNS and|CC make|VB them|PRP just|RB for|IN men|NNS so|RB that|IN it|PRP wouldnt|VBP conflict|NN with|IN bongo|NN </s>|S_END
+<s>|S_START i|PRP just|RB wanted|VBD to|TO make|VB the|DT best|JJS jeans|NNS i|PRP could|MD </s>|S_END
+<s>|S_START i|PRP figured|VBD twice|NN the|DT price|NN would|MD cover|VB better|JJR materials|NNS </s>|S_END
+<s>|S_START that|DT was|VBD the|DT start|NN of|IN lucky|JJ brand|NN in|IN 1989|CD </s>|S_END
+<s>|S_START i|PRP needed|VBD some|DT help|NN and|CC barry|VB came|VBD in|IN as|IN my|PRP$ partner|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START barry|NN gene|NN was|VBD in|IN chinatown|NN one|CD day|NN where|WRB everything|NN was|VBD lucky|JJ this|DT and|CC lucky|JJ that|IN </s>|S_END
+<s>|S_START he|PRP called|VBD me|PRP and|CC said|VBD what|WP do|VBP you|PRP think|VB of|IN the|DT name|NN lucky|NN </s>|S_END
+<s>|S_START everyone|NN else|RB was|VBD trying|VBG to|TO sound|VB french|JJ european|JJ </s>|S_END
+<s>|S_START so|IN the|DT name|NN started|VBD as|IN lucky|JJ </s>|S_END
+<s>|S_START gene|NN added|VBD brand|NN to|TO it|PRP shortly|RB thereafter|JJR </s>|S_END
+<s>|S_START then|RB it|PRP became|VBD lucky|JJ brand|NN jeans|NNS </s>|S_END
+<s>|S_START there|EX were|VBD times|NNS it|PRP was|VBD lucky|JJ jeans|NNS </s>|S_END
+<s>|S_START wed|VBD have|VBP so|RB many|JJ different|JJ labels|NNS on|IN the|DT same|JJ jeans|NNS and|CC people|NNS were|VBD buying|VBG them|PRP </s>|S_END
+<s>|S_START we|PRP were|VBD always|RB bucking|VBG the|DT system|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gene|NN to|TO me|PRP it|PRP wasnt|VBP hard|RB starting|VBG lucky|JJ brand|NN </s>|S_END
+<s>|S_START in|IN 1989|CD bongo|NN was|VBD a|DT $|$ 60|CD million|CD business|NN and|CC was|VBD supporting|VBG me|PRP </s>|S_END
+<s>|S_START i|PRP started|VBD lucky|JJ brand|NN with|IN a|DT little|RB over|IN $|$ 100000|CD of|IN my|PRP$ own|JJ money|NN </s>|S_END
+<s>|S_START barry|NN had|VBD the|DT kids|NNS company|NN at|IN the|DT time|NN so|RB id|JJ get|NN a|DT cut|NN of|IN 1200|CD jeans|NNS and|CC ship|NN them|PRP out|RP of|IN his|PRP$ warehouse|NN </s>|S_END
+<s>|S_START lucky|JJ gave|VBD me|PRP the|DT freedom|NN to|TO design|VB whatever|NN i|PRP wanted|VBD </s>|S_END
+<s>|S_START with|IN the|DT higher|JJR price|NN point|NN i|PRP could|MD put|VB four|CD or|CC five|CD woven|CD labels|NNS into|IN the|DT jeans|NNS instead|RB of|IN one|CD paper|NN one|CD </s>|S_END
+<s>|S_START i|PRP could|MD use|VB a|DT wider|NN zipper|NN buy|NN great|NN fabric|JJ try|NN new|JJ rivets|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START barry|NN in|IN 1990|CD lucky|JJ jeans|NNS retailed|VBD for|IN almost|RB $|$ 70|CD the|DT top|JJ price|NN then|RB </s>|S_END
+<s>|S_START rock|NN artists|NNS would|MD wear|VB our|PRP$ products|NNS and|CC we|PRP would|MD hang|VB their|PRP$ photos|NNS in|IN the|DT stores|NNS </s>|S_END
+<s>|S_START we|PRP were|VBD known|VBN for|IN our|PRP$ twiceayear|JJ parties|NNS at|IN the|DT trade|NN shows|VBZ in|IN vegas|NN </s>|S_END
+<s>|S_START when|WRB bob|NN dylan|NN played|VBN for|IN us|PRP in|IN the|DT mid90s|NNP we|PRP knew|VBD we|PRP were|VBD a|DT success|NN </s>|S_END
+<s>|S_START artists|NNS like|IN jackson|NN browne|NN who|WP wouldnt|NN normally|RB play|VBP trade|NN shows|NNS loved|VBD our|PRP$ brand|NN </s>|S_END
+<s>|S_START they|PRP wore|VBP our|PRP$ stuff|NN and|CC would|MD perform|VB for|IN us|PRP because|IN lucky|JJ was|VBD rock|NN and|CC roll|NN </s>|S_END
+<s>|S_START the|DT first|JJ full|JJ year|NN we|PRP did|VBD $|$ 35|CD million|CD and|CC the|DT company|NN made|VBD a|DT 30|CD profit|NN </s>|S_END
+<s>|S_START our|PRP$ second|JJ year|NN we|PRP did|VBD $|$ 10|CD million|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gene|NN michael|NN and|CC i|PRP ran|VBD bongo|RB together|RB until|IN i|PRP left|VBD around|IN 1992|CD or|CC 1993|CD to|TO concentrate|VB on|IN lucky|JJ brand|NN </s>|S_END
+<s>|S_START we|PRP sold|VBD bongo|RB in|IN 1998|CD to|TO candies|NNS for|IN $|$ 15|CD million|CD in|IN stock|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START barry|NN lucky|NN just|RB grew|VBD and|CC grew|VBD </s>|S_END
+<s>|S_START we|PRP were|VBD doing|VBG about|IN $|$ 60|CD million|CD in|IN volume|NN and|CC thought|VBD maybe|RB we|PRP needed|VBD some|DT help|NN to|TO expand|VB </s>|S_END
+<s>|S_START we|PRP had|VBD eight|CD stores|NNS and|CC the|DT bulk|NN of|IN the|DT volume|NN was|VBD wholesale|JJ </s>|S_END
+<s>|S_START in|IN 1999|CD we|PRP did|VBD the|DT deal|NN with|IN liz|NN claiborne|NN </s>|S_END
+<s>|S_START they|PRP talked|VBD about|IN helping|VBG us|PRP manufacture|NN around|IN the|DT world|NN and|CC expand|NN in|IN retail|JJ </s>|S_END
+<s>|S_START it|PRP was|VBD a|DT way|NN for|IN us|PRP to|TO secure|VB what|WP wed|VBN started|VBD and|CC grow|NN it|PRP </s>|S_END
+<s>|S_START they|PRP bought|VBD 85|CD of|IN the|DT company|NN for|IN $|$ 125|CD million|CD and|CC we|PRP were|VBD under|IN contract|NN for|IN five|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gene|NN it|PRP was|VBD seductive|JJ </s>|S_END
+<s>|S_START for|IN the|DT first|JJ years|NNS it|PRP was|VBD pretty|RB cool|JJ </s>|S_END
+<s>|S_START five|CD years|NNS into|IN it|PRP things|VBZ got|VBN squirrelly|RB </s>|S_END
+<s>|S_START corporate|JJ america|NN is|VBZ about|IN making|VBG the|DT quarter|NN </s>|S_END
+<s>|S_START we|PRP left|VBD liz|NN claiborne|NN with|IN no|DT noncompete|JJ clause|NN </s>|S_END
+<s>|S_START they|PRP said|VBD we|PRP could|MD have|VB another|DT company|NN but|CC the|DT jeans|NNS would|MD have|VB to|TO be|VB a|DT different|JJ price|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START barry|NN we|PRP bought|VBD this|DT building|NN a|DT mile|NN from|IN the|DT lucky|JJ office|NN and|CC started|VBD the|DT next|JJ day|NN thinking|VBG about|IN what|WP we|PRP wanted|VBD to|TO do|VB next|JJ </s>|S_END
+<s>|S_START you|PRP gravitate|VBP to|TO what|WP you|PRP love|VBP </s>|S_END
+<s>|S_START so|IN in|IN 2010|CD we|PRP started|VBD civilianaire|NN an|DT array|NN of|IN sportswear|JJ thats|NNS made|VBN of|IN the|DT best|JJS material|NN we|PRP can|MD find|VB </s>|S_END
+<s>|S_START the|DT first|JJ store|NN opened|VBD in|IN la|NN in|IN february|JJ 2011|CD </s>|S_END
+<s>|S_START we|PRP have|VBP five|CD now|RB and|CC will|MD open|VB three|CD more|JJR soon|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gene|NN everythings|NNS made|VBN in|IN los|NNS angeles|NNS and|CC the|DT prices|NNS range|VBP from|IN $|$ 210|CD to|TO $|$ 235|CD for|IN the|DT jeans|NNS </s>|S_END
+<s>|S_START shirts|NNS are|VBP under|IN $|$ 200|CD </s>|S_END
+<s>|S_START our|PRP$ jeans|NNS are|VBP raw|JJ and|CC unwashed|JJ made|NN of|IN the|DT finest|JJS japanese|JJ denim|NN you|PRP can|MD get|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START barry|NN were|VBD not|RB doing|VBG any|DT advertising|NN just|RB concentrating|VBG on|IN the|DT product|NN </s>|S_END
+<s>|S_START the|DT revenue|NN is|VBZ small|JJ so|RB far|RB but|CC people|NNS are|VBP coming|VBG in|IN and|CC reordering|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START gene|NN were|VBD doing|VBG it|PRP out|RP of|IN our|PRP$ own|JJ pockets|NNS </s>|S_END
+<s>|S_START we|PRP just|RB love|VBP jeans|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START our|PRP$ advice|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START balance|NN work|NN and|CC play|NN </s>|S_END
+<s>|S_START life|NN is|VBZ full|JJ of|IN ups|NNS and|CC downs|NNS so|RB weave|VBP work|NN and|CC play|NN together|RB at|IN the|DT office|NN because|IN its|PRP$ got|NN to|TO be|VB about|RB having|VBG a|DT good|JJ time|NN </s>|S_END
+<s>|S_START as|IN hard|JJ as|IN the|DT job|NN was|VBD bongo|RB and|CC lucky|JJ had|VBD a|DT culture|NN of|IN being|VBG a|DT little|RB irreverent|NN and|CC fun|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START your|PRP$ customers|NNS are|VBP your|PRP$ best|JJS salespeople|NN </s>|S_END
+<s>|S_START a|DT story|NN broke|NN on|IN cnn|NN about|IN a|DT girl|NN in|IN indiana|NN whose|WP$ car|NN got|VBD hit|VBN by|IN a|DT train|NN </s>|S_END
+<s>|S_START she|PRP attributed|VBD her|PRP$ life|NN to|TO her|PRP$ faith|NN in|IN jesus|NN and|CC wearing|VBG a|DT lucky|JJ brand|NN tshirt|NN </s>|S_END
+<s>|S_START we|PRP flew|VBD her|PRP to|TO la|VB put|VBN her|PRP on|IN jay|NN leno|NN and|CC gave|VBD her|PRP a|DT shopping|NN spree|NN </s>|S_END
+<s>|S_START the|DT whole|JJ thing|NN of|IN wearing|VBG lucky|JJ brand|NN too|RB tough|JJ to|TO die|VB grew|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dont|NN stop|VBP when|WRB youre|NN a|DT success|NN </s>|S_END
+<s>|S_START make|VB your|PRP$ product|NN better|NN </s>|S_END
+<s>|S_START keep|VB taking|VBG risks|NNS </s>|S_END
+<s>|S_START you|PRP can|MD either|VB have|VB a|DT job|NN or|CC you|PRP can|MD build|VB something|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT story|NN is|VBZ from|IN the|DT september|NN 24|CD 2012|CD issue|NN of|IN fortune|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,116 @@
+<p>|P_START
+<s>|S_START hospital|NN visits|NNS are|VBP costly|RB </s>|S_END
+<s>|S_START reduce|NN your|PRP$ chances|NNS of|IN landing|VBG right|RB back|RB inside|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START money|NN magazine|NN spending|NN time|NN in|IN the|DT hospital|NN is|VBZ bad|JJ enough|RB </s>|S_END
+<s>|S_START worse|NN theres|NNS a|DT decent|NN chance|NN youll|NN have|VBP to|TO return|VB for|IN a|DT second|JJ round|NN shortly|RB after|IN departure|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START according|VBG to|TO a|DT study|NN in|IN the|DT new|JJ england|NN journal|JJ of|IN medicine|NN about|IN 20|CD of|IN medicare|NN beneficiaries|NNS are|VBP readmitted|VBN to|TO the|DT hospital|NN within|IN 30|CD days|NNS of|IN discharge|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START common|JJ reasons|NNS for|IN readmission|NN include|NN infection|NN medication|NN errors|NNS and|CC confusion|NN about|IN your|PRP$ ongoing|JJ care|NN plan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT majority|NN of|IN this|DT is|VBZ preventable|JJ says|NNS eric|JJ coleman|NN coauthor|NN of|IN the|DT study|NN and|CC director|NN of|IN the|DT care|NN transitions|NNS program|NN at|IN the|DT university|NN of|IN colorado|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START besides|IN being|VBG unpleasant|JJ landing|NN back|RB in|IN the|DT hospital|NN isnt|NN cheap|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT average|JJ stay|NN for|IN rehospitalized|JJ patients|NNS is|VBZ 13|CD longer|NN than|IN for|IN patients|NNS with|IN the|DT same|JJ condition|NN who|WP hadnt|NN recently|RB been|VBN hospitalized|VBN </s>|S_END
+<s>|S_START readmissions|NNS account|VBP for|IN 17|CD of|IN medicares|NNS hospital|JJ payments|NNS in|IN october|NN the|DT agency|NN began|VBD penalizing|VBG facilities|NNS deemed|VBD to|TO have|VB excessive|JJ rates|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD the|DT painful|JJ new|JJ trend|NN in|IN medicare|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT center|NN for|IN studying|VBG health|NN system|NN change|NN found|VBD that|IN the|DT average|NN total|NN bill|NN for|IN a|DT readmission|NN is|VBZ $|$ 14500|CD </s>|S_END
+<s>|S_START hospital|NN patients|NNS usually|RB have|VBP to|TO pay|VB at|IN least|JJS $|$ 500|CD to|TO $|$ 1000|CD out|IN of|IN pocket|NN says|VBZ coleman|NN but|CC you|PRP could|MD owe|VB far|RB more|RBR if|IN you|PRP have|VBP a|DT highdeductible|JJ plan|NN or|CC coinsurance|NN that|IN requires|NNS you|PRP to|TO pay|VB 20|CD to|TO 30|CD of|IN the|DT tab|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT following|VBG tips|NNS can|MD help|VB you|PRP and|CC your|PRP$ family|NN members|NNS limit|NN return|NN trips|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START prevent|NN errors|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT recent|JJ study|NN in|IN health|NN affairs|NNS found|VBD that|IN patients|NNS are|VBP unintentionally|RB injured|VBN in|IN about|IN a|DT third|JJ of|IN hospital|JJ stays|NNS far|RB more|RBR than|IN previously|RB thought|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT events|NNS often|RB errors|NNS increase|VBP your|PRP$ risk|NN for|IN both|DT extended|JJ stays|NNS and|CC readmission|NN later|JJ on|IN says|NNS david|VBD classen|VBN a|DT university|NN of|IN utah|NN professor|NN and|CC coauthor|NN of|IN the|DT study|NN </s>|S_END
+<s>|S_START since|IN medication|NN issues|NNS are|VBP the|DT most|RBS common|JJ problem|NN its|PRP$ a|DT good|JJ idea|NN to|TO ask|VB nurses|NNS to|TO say|VB your|PRP$ full|JJ name|NN and|CC the|DT drug|NN name|NN and|CC dosage|NN each|DT time|NN they|PRP hand|VBP over|IN pills|NNS or|CC insert|VB an|DT iv|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START get|NN a|DT companion|NN for|IN discharge|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START patients|NNS are|VBP typically|RB satisfied|VBN with|IN their|PRP$ inhospital|JJ care|NN </s>|S_END
+<s>|S_START its|PRP$ the|DT exit|NN process|NN that|WDT earns|VBZ poor|JJ marks|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP call|VBP it|PRP driveby|RB discharge|VB says|VBZ coleman|NN </s>|S_END
+<s>|S_START before|IN you|PRP walk|VBP out|RP the|DT door|NN you|PRP need|VBP to|TO be|VB clear|JJ on|IN when|WRB its|PRP$ okay|NN to|TO resume|VB normal|JJ activity|NN and|CC what|WP warning|VBG signs|NNS to|TO look|VB out|RP for|IN </s>|S_END
+<s>|S_START fever|NN redness|NN and|CC confusion|NN for|IN example|NN can|MD indicate|VB infection|NN which|WDT can|MD lead|VB to|TO septic|JJ shock|NN a|DT fatal|JJ condition|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START find|NN out|IN whom|WP to|TO call|VB if|IN you|PRP have|VBP questions|NNS or|CC if|IN symptoms|NNS develop|VBP and|CC ask|NN the|DT person|NN who|WP will|MD serve|VB as|IN your|PRP$ primary|JJ caregiver|NN at|IN home|NN to|TO listen|VB and|CC take|VB notes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START youll|NN also|RB want|VBP to|TO make|VB sure|JJ the|DT hospital|JJ doctor|NN has|VBZ the|DT names|NNS and|CC dosages|NNS of|IN any|DT medications|NNS you|PRP were|VBD taking|VBG at|IN home|NN and|CC tells|NNS you|PRP if|IN and|CC when|WRB to|TO resume|VB taking|VBG them|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related|VBD cut|VBN your|PRP$ healthcare|NN bills|NNS at|IN any|DT age|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT patients|NNS leave|VBP the|DT hospital|JJ with|IN a|DT prescription|NN for|IN a|DT generic|JJ drug|NN not|RB realizing|VBG its|PRP$ the|DT same|JJ as|IN the|DT brandname|NN version|NN theyre|NN already|RB taking|VBG says|NNS nancy|NN foster|NN vice|NN president|NN for|IN quality|NN at|IN the|DT american|JJ hospital|NN association|NN </s>|S_END
+<s>|S_START and|CC some|DT drugs|NNS like|IN blood|NN thinners|NNS require|VBP a|DT followup|NN test|NN to|TO make|VB sure|JJ the|DT dosage|NN is|VBZ correct|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START finally|RB inquire|VBP about|IN home|NN support|NN </s>|S_END
+<s>|S_START medicare|NN and|CC insurers|NNS cover|RB home|NN care|NN for|IN some|DT patients|NNS who|WP need|VBP help|VBP with|IN medical|JJ things|NNS like|IN changing|VBG bandages|NNS and|CC administering|VBG injections|NNS but|CC dont|NN pay|NN for|IN home|NN aides|NNS for|IN routine|NN activities|NNS such|JJ as|IN bathing|NN and|CC dressing|VBG </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START some|DT hospitals|NNS or|CC insurers|NNS however|RB have|VBP begun|VBN sending|VBG transition|NN coaches|NNS to|TO patients|NNS homes|NNS to|TO teach|VB them|PRP and|CC their|PRP$ family|NN how|WRB to|TO manage|VB posthospital|JJ selfcare|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START follow|NN up|IN with|IN your|PRP$ doctor|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START though|IN your|PRP$ hospital|NN doctor|NN is|VBZ supposed|VBN to|TO communicate|VB with|IN your|PRP$ primarycare|NN doc|NN it|PRP doesnt|VBD always|RB happen|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN soon|RB as|IN you|PRP leave|VBP the|DT hospital|JJ notify|NN your|PRP$ primarycare|NN physician|NN and|CC arrange|NN for|IN a|DT followup|NN appointment|NN </s>|S_END
+<s>|S_START about|IN half|DT of|IN nonsurgical|JJ hospital|NN patients|NNS readmitted|VBD within|IN 30|CD days|NNS never|RB followed|VBD up|RP with|IN their|PRP$ physician|JJ according|VBG to|TO the|DT new|JJ england|NN journal|JJ of|IN medicine|NN study|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START feeling|VBG healthier|JJR than|IN dr|NN oz|NN by|IN the|DT time|NN your|PRP$ appointment|NN date|NN arrives|NNS </s>|S_END
+<s>|S_START your|PRP$ physician|NN may|MD want|VB to|TO tweak|VB what|WP the|DT hospital|JJ has|VBZ prescribed|VBN says|VBZ foster|NN so|IN go|NN see|NN the|DT doctor|NN anyway|NN </s>|S_END
+</p>|P_END
+

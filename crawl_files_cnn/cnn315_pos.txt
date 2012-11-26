@@ -1,0 +1,80 @@
+<p>|P_START
+<s>|S_START click|NN chart|NN for|IN more|JJR information|NN about|IN ciscos|NNS stock|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN cisco|NN systems|NNS major|JJ turnaround|NN efforts|NNS are|VBP beginning|VBG to|TO pay|VB off|RP as|IN the|DT networking|NN giant|NN reported|VBD a|DT quarterly|JJ profit|NN and|CC sales|NNS wednesday|NN that|WDT rose|VBD from|IN yearago|RB results|NNS and|CC beat|VB wall|JJ streets|NNS forecasts|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT company|NN also|RB announced|VBD that|IN it|PRP would|MD increase|VB its|PRP$ dividend|NN by|IN 75|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ciscos|NNS core|VBP switching|VBG and|CC routing|VBG businesses|NNS have|VBP remained|VBN strong|JJ and|CC big|JJ bets|NNS on|IN emerging|VBG products|NNS have|VBP paid|VBN off|RP </s>|S_END
+<s>|S_START although|IN economic|JJ uncertainty|NN in|IN europe|NN and|CC china|NN hit|VBD cisco|NN and|CC its|PRP$ rivals|NNS particularly|RB hard|JJ this|DT year|NN cisco|IN has|VBZ proven|VBN more|JJR able|JJ to|TO weather|NN the|DT storm|NN </s>|S_END
+<s>|S_START the|DT companys|NNS overall|VBP product|NN orders|NNS rose|VBD 2|CD over|IN the|DT past|JJ three|CD months|NNS while|IN other|JJ networking|NN companies|NNS have|VBP lost|VBN business|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START with|IN a|DT truly|RB global|JJ reach|NN and|CC a|DT wide|JJ array|NN of|IN product|NN offerings|NNS cisco|VBP is|VBZ often|RB viewed|VBN as|IN a|DT bellwether|NN of|IN the|DT global|JJ economy|NN </s>|S_END
+<s>|S_START on|IN a|DT conference|NN call|NN with|IN analysts|NNS cisco|VBP ceo|RB john|JJ chambers|NNS said|VBD he|PRP doesnt|VBD expect|VBP any|DT major|JJ improvement|NN to|TO the|DT global|JJ economic|JJ situation|NN in|IN the|DT near|NN future|NN but|CC doesnt|NN anticipate|NN things|NNS will|MD get|VB much|RB worse|JJR either|DT </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START not|RB surprisingly|RB european|JJ orders|NNS fell|VBD 6|CD dragged|VBN down|RP by|IN particularly|RB hardhit|JJ countries|NNS in|IN southern|NN and|CC central|JJ europe|NN </s>|S_END
+<s>|S_START the|DT company|NN said|VBD it|PRP expects|VBZ business|NN to|TO continue|VB to|TO deteriorate|VB there|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC american|JJ product|NN orders|NNS grew|VBD by|IN 4|CD </s>|S_END
+<s>|S_START chambers|NNS said|VBD he|PRP was|VBD encouraged|VBN by|IN the|DT strong|JJ showing|NN in|IN the|DT united|VBN states|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START its|PRP$ way|NN too|RB early|RB to|TO call|VB it|PRP a|DT trend|NN but|CC if|IN this|DT continues|VBZ this|DT quarter|NN it|PRP could|MD be|VB viewed|VBN as|IN a|DT potential|JJ sign|NN of|IN market|NN improvement|NN in|IN america|NN chambers|NNS said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ cisco|NN products|NNS that|WDT take|VB advantage|NN of|IN the|DT growing|VBG shift|NN to|TO the|DT cloud|NN strongly|RB boosted|VBN its|PRP$ servers|NNS and|CC data|NNS center|NN business|NN which|WDT grew|VBD 90|CD </s>|S_END
+<s>|S_START new|JJ wireless|NN routing|VBG products|NNS helped|VBD increase|NN sales|NNS by|IN 22|CD in|IN that|DT division|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT san|NN jose|NN califbased|VBD company|NN said|VBD its|PRP$ net|JJ income|NN rose|VBD 56|CD to|TO $|$ 19|CD billion|CD in|IN its|PRP$ fiscal|JJ fourth|JJ quarter|NN which|WDT ended|VBD in|IN july|RB </s>|S_END
+<s>|S_START a|DT large|JJ chunk|NN of|IN that|DT growth|NN was|VBD due|JJ to|TO the|DT winding|NN down|IN of|IN the|DT companys|NNS restructuring|VBG charges|NNS related|VBN to|TO last|JJ years|NNS transition|NN the|DT company|NN had|VBD just|RB $|$ 79|CD million|CD in|IN restructuring|NN charges|NNS last|JJ quarter|NN compared|VBN to|TO $|$ 768|CD million|CD in|IN the|DT same|JJ period|NN a|DT year|NN ago|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START excluding|VBG those|DT charges|NNS cisco|VBP earned|VBN 47|CD cents|NNS per|IN share|NN </s>|S_END
+<s>|S_START analysts|NNS polled|VBD by|IN thomson|NN reuters|NNS who|WP typically|RB exclude|VBP onetime|JJ items|NNS from|IN their|PRP$ estimates|NNS had|VBD forecast|VBN earnings|NNS of|IN 45|CD cents|NNS per|IN share|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START sales|NNS rose|VBD 4|CD to|TO $|$ 117|CD billion|CD topping|NN analysts|NNS forecasts|NNS of|IN $|$ 116|CD billion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN the|DT current|JJ quarter|NN the|DT company|NN said|VBD it|PRP expects|VBZ revenue|NN to|TO grow|VB by|IN 4|CD to|TO 6|CD and|CC earnings|NNS per|IN share|NN to|TO be|VB between|IN 45|CD cents|NNS and|CC 47|CD cents|NNS </s>|S_END
+<s>|S_START ciscos|NNS profit|VBP outlook|NN was|VBD inline|NN with|IN wall|JJ street|NN analysts|NNS expectations|NNS but|CC the|DT sales|NNS outlook|NN fell|VBD just|RB short|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START shares|NNS of|IN cisco|NN csco|NN fortune|NN 500|CD rose|VBD 5|CD after|IN hours|NNS on|IN the|DT news|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START cisco|NN upped|VBD its|PRP$ dividend|NN as|IN its|PRP$ enormous|JJ cash|NN hoard|NN grew|VBD to|TO $|$ 487|CD billion|CD </s>|S_END
+<s>|S_START shareholders|NNS had|VBD been|VBN clamoring|VBG for|IN the|DT company|NN to|TO dole|VB more|JJR of|IN that|DT out|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT dividend|NN was|VBD increased|VBN by|IN 6|CD cents|NNS to|TO 14|CD cents|NNS per|IN share|NN and|CC will|MD start|VB being|VBG paid|VBN out|RP on|IN oct|NN 24|CD </s>|S_END
+<s>|S_START following|VBG the|DT increase|NN ciscos|NNS dividend|NN will|MD yield|VB about|IN 32|CD one|CD of|IN the|DT highest|JJS in|IN the|DT tech|NN industry|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN the|DT companys|NNS strong|JJ quarter|NN the|DT company|NN isnt|NN growing|VBG at|IN the|DT pace|NN it|PRP had|VBD been|VBN before|IN the|DT economic|JJ turmoil|NN began|VBD to|TO take|VB hold|NN several|JJ years|NNS ago|IN </s>|S_END
+<s>|S_START cisco|NN announced|VBD layoffs|NNS of|IN 1300|CD employees|NNS or|CC about|IN 2|CD of|IN its|PRP$ workforce|NN last|JJ month|NN </s>|S_END
+</p>|P_END
+

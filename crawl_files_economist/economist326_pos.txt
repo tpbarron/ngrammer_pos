@@ -1,0 +1,62 @@
+<p>|P_START
+<s>|S_START in|IN september|NN britain’s|NNS human|NN fertilisation|NN and|CC embryology|NN authority|NN launched|VBD a|DT public|JJ consultation|NN on|IN what|WP sounds|NNS like|IN a|DT crackpot|NN idea|NN to|TO create|VB children|NNS with|IN three|CD genetic|JJ parent|NN </s>|S_END
+<s>|S_START yet|RB this|DT could|MD be|VB a|DT way|NN to|TO eliminate|VB a|DT set|NN of|IN rare|NN but|CC nasty|NN diseases|NNS caused|VBN by|IN problems|NNS with|IN pieces|NNS of|IN cellular|JJ machinery|NN called|VBN mitochondria|NN </s>|S_END
+<s>|S_START according|VBG to|TO research|NN published|VBD this|DT week|NN see|VBP article|NN the|DT basic|JJ technique|NN of|IN substituting|VBG problemfree|JJ mitochondria|NN has|VBZ now|RB been|VBN tested|VBN in|IN a|DT laboratory|NN and|CC the|DT researchers|NNS seem|VBP confident|JJ that|IN given|VBN the|DT green|JJ light|NN they|PRP could|MD bring|VB a|DT healthy|JJ child|NN into|IN the|DT world|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START most|JJS of|IN a|DT child’s|JJ genes|NNS would|MD come|VB from|IN the|DT couple|NN it|PRP would|MD learn|VB to|TO call|VB mum|NN and|CC dad|VBD </s>|S_END
+<s>|S_START a|DT tiny|NN fraction|NN of|IN the|DT dna|NN however|RB would|MD come|VB from|IN a|DT female|JJ donor|NN who|WP would|MD provide|VB part|NN of|IN the|DT egg|NN from|IN which|WDT the|DT child|NN grew|VBD </s>|S_END
+<s>|S_START at|IN present|NN the|DT law|NN in|IN britain|NN like|IN that|DT in|IN most|JJS other|JJ places|NNS prohibits|VBZ any|DT genetic|JJ modification|NN of|IN embryo|NN </s>|S_END
+<s>|S_START it|PRP should|MD be|VB changed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START an|DT ingeneious|JJ idea|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START mitochondria|NN turn|NN the|DT energy|NN in|IN sugar|NN into|IN a|DT form|NN a|DT cell|NN can|MD use|VB so|RB if|IN they|PRP go|VBP wrong|JJ the|DT consequences|NNS are|VBP dire|RB </s>|S_END
+<s>|S_START the|DT brain|NN the|DT nerves|NNS and|CC the|DT muscles|NNS all|DT huge|JJ consumers|NNS of|IN energy|NN are|VBP the|DT organs|NNS that|WDT suffer|VBP most|JJS </s>|S_END
+<s>|S_START mitochondria|NN are|VBP also|RB special|JJ because|IN they|PRP contain|VBP their|PRP$ own|JJ genes|NNS completely|RB separate|JJ from|IN those|DT in|IN the|DT cell|NN nucleus|VBZ which|WDT are|VBP thus|RB transmitted|VBN from|IN mother|NN to|TO child|VB in|IN the|DT egg|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ome|NN mitochondrial|JJ disease|NN is|VBZ caused|VBN by|IN mutations|NNS in|IN these|DT genes|NNS and|CC is|VBZ thus|RB also|RB inherited|VBD solely|RB from|IN the|DT mother|NN </s>|S_END
+<s>|S_START uch|JJ diseases|NNS affect|VBP one|CD person|NN in|IN 5000|CD during|IN his|PRP$ or|CC her|PRP$ lifetime|NN </s>|S_END
+<s>|S_START but|CC the|DT separateness|NN of|IN mitochondrial|JJ genes|NNS means|VBZ that|IN by|IN moving|VBG the|DT nucleus|NN from|IN an|DT afflicted|VBN egg|NN into|IN a|DT healthy|JJ one|CD the|DT mutated|JJ diseasecausing|NN genes|NNS can|MD be|VB left|VBN behind|IN </s>|S_END
+<s>|S_START in|IN effect|NN the|DT nucleus|NN would|MD receive|VB a|DT mitochondrial|JJ transplant|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT incorporation|NN of|IN the|DT dna|NN of|IN two|CD women|NNS might|MD be|VB seen|VBN by|IN the|DT nervous|JJ as|IN a|DT step|NN down|RP the|DT slippery|NN slope|NN towards|NNS the|DT genetic|JJ engineering|NN of|IN people|NNS </s>|S_END
+<s>|S_START but|CC that|DT is|VBZ unlikely|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT principal|JJ worry|NN about|IN genetic|JJ engineering|NN is|VBZ that|IN it|PRP will|MD lead|VB to|TO “designer|JJ babies”|NN with|IN customised|VBN dna|NNS </s>|S_END
+<s>|S_START but|CC mitochondrial|JJ transplants|NNS involve|VBP no|DT tinkering|NN with|IN the|DT dna|NN itself|PRP </s>|S_END
+<s>|S_START though|IN on|IN a|DT microscopic|JJ scale|NN the|DT process|NN is|VBZ quite|RB like|IN a|DT heart|NN liver|NN or|CC kidney|NN transplant|NN with|IN the|DT caveat|NN that|IN the|DT transplant|NN will|MD be|VB passed|VBN on|IN to|TO the|DT recipient’s|NNS children|NNS if|IN she|PRP is|VBZ female|JJ </s>|S_END
+<s>|S_START any|DT organ|NN transplant|NN introduces|NNS new|JJ genes|NNS into|IN the|DT body|NN </s>|S_END
+<s>|S_START mitochondrial|JJ genes|NNS are|VBP ubiquitous|JJ it|PRP is|VBZ true|JJ but|CC this|DT difference|NN is|VBZ one|CD of|IN degree|NN not|RB kind|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT reason|NN not|RB to|TO worry|VB is|VBZ that|IN the|DT mitochondria|NN carry|NN only|RB 37|CD genes|NNS compared|VBN with|IN about|RB 20000|CD in|IN the|DT cell|NN nucleus|VBZ and|CC these|DT genes|NNS are|VBP exclusively|RB concerned|VBN with|IN energy|NN metabolism|NN </s>|S_END
+<s>|S_START pushy|NN parents|NNS will|MD not|RB be|VB picking|VBG mitochondrial|JJ donors|NNS on|IN the|DT basis|NN of|IN looks|NNS personality|NN or|CC intelligence|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START nonbiological|JJ objections|NNS are|VBP sometimes|RB raised|VBN as|IN well|RB </s>|S_END
+<s>|S_START ome|NN worry|NN for|IN instance|NN that|WDT a|DT person|NN with|IN three|CD genetic|JJ parents|NNS might|MD suffer|VB an|DT identity|NN crisi|NN </s>|S_END
+<s>|S_START but|CC that|DT seems|VBZ less|JJR likely|JJ than|IN in|IN the|DT case|NN of|IN people|NNS conceived|VBN by|IN in|IN vitro|NN fertilisation|NN using|VBG sperm|NN donated|VBD by|IN strangers|NNS who|WP have|VBP contributed|VBN half|NN of|IN their|PRP$ offspring’s|JJ genes|NNS not|RB a|DT paltry|JJ three|CD dozen|NN </s>|S_END
+<s>|S_START and|CC for|IN that|DT reason|NN mitochondrial|NN donors|NNS are|VBP even|RB less|RBR likely|JJ than|IN sperm|NN donors|NNS to|TO want|VB to|TO be|VB involved|VBN with|IN bringing|JJ up|IN children|NNS in|IN whom|WP they|PRP have|VBP but|CC a|DT fractional|JJ genetic|JJ interest|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC is|VBZ the|DT process|NN safe|NN </s>|S_END
+<s>|S_START doing|VBG the|DT experiment|NN is|VBZ the|DT only|JJ way|NN of|IN finding|NN out|IN </s>|S_END
+<s>|S_START it|PRP should|MD be|VB preceded|VBN by|IN a|DT lot|NN of|IN tests|NNS in|IN petri|NN dishes|NNS and|CC laboratory|NN animal|NN </s>|S_END
+<s>|S_START but|CC in|IN the|DT end|NN you|PRP just|RB have|VBP to|TO try|VB it|PRP and|CC see|VB </s>|S_END
+</p>|P_END
+

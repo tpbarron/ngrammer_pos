@@ -1,0 +1,96 @@
+<p>|P_START
+<s>|S_START the|DT treasury|NN under|IN secretary|NN tim|NN geithner|NN has|VBZ said|VBN raising|VBG investment|NN taxes|NNS on|IN highincome|NN investors|NNS will|MD help|VB reduce|VB deficits|NNS and|CC increase|VB the|DT tax|NN codes|VBZ progressivity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN eighteen|NN ceos|NNS urged|VBD treasury|NN secretary|NN tim|NN geithner|NN this|DT week|NN to|TO rethink|VB the|DT obama|NN administrations|NNS proposal|NN to|TO raise|VB the|DT 15|CD tax|NN rate|NN on|IN dividends|NNS and|CC capital|NN gains|NNS for|IN highincome|NN households|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT hike|NN in|IN investment|NN tax|NN rates|NNS could|MD spark|VB a|DT new|JJ wave|NN of|IN volatility|NN in|IN our|PRP$ financial|JJ markets|NNS and|CC give|VB a|DT competitive|JJ edge|NN to|TO overseas|JJ corporations|NNS at|IN a|DT time|NN when|WRB we|PRP need|VBP capital|NN formation|NN here|RB in|IN america|NN to|TO create|VB jobs|NNS and|CC expand|VB our|PRP$ economy|NN the|DT ceos|NNS said|VBD in|IN an|DT opinion|NN article|NN for|IN politico|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START among|IN those|DT signing|VBG the|DT letter|NN were|VBD the|DT leaders|NNS of|IN duke|NN energy|NN duk|NN fortune|NN 500|CD dominion|NN resources|NNS d|VBD fortune|NN 500|CD united|VBN parcel|NN service|NN ups|NNS fortune|VBP 500|CD windstream|NN win|NN and|CC verizon|NN vz|NN fortune|NN 500|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START president|NN obama|VBD wants|NNS congress|NN to|TO make|VB permanent|JJ the|DT 15|CD investment|NN tax|NN rate|NN for|IN everyone|NN except|IN those|DT making|VBG more|JJR than|IN $|$ 200000|CD $|$ 250000|CD if|IN married|JJ </s>|S_END
+<s>|S_START the|DT president|NN wants|VBZ to|TO raise|VB the|DT capital|NN gains|NNS rate|NN to|TO 20|CD for|IN highincome|NN taxpayers|NNS and|CC to|TO tax|NN their|PRP$ dividends|NNS at|IN their|PRP$ top|JJ ordinary|JJ income|NN tax|NN rate|NN which|WDT would|MD be|VB either|RB 36|CD or|CC 396|CD under|IN his|PRP$ budget|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT treasury|NN department|NN declined|VBD to|TO comment|NN on|IN the|DT ceos|NNS letter|NN </s>|S_END
+<s>|S_START but|CC in|IN documents|NNS explaining|VBG obamas|NNS 2013|CD budget|NN proposals|NNS treasury|NN offered|VBD two|CD key|JJ reasons|NNS for|IN the|DT administrations|NNS proposals|NNS to|TO help|VB reduce|VB the|DT deficit|NN and|CC make|VB the|DT tax|NN system|NN more|RBR progressive|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT effects|NNS on|IN the|DT economy|NN and|CC the|DT stock|NN market|NN of|IN an|DT investment|NN tax|NN hike|NN will|MD be|VB a|DT matter|NN of|IN debate|NN since|IN several|JJ factors|NNS come|VBP into|IN play|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN example|NN stock|NN prices|NNS could|MD fall|VB as|IN investors|NNS recalibrate|VBP their|PRP$ expectations|NNS for|IN aftertax|NN returns|NNS </s>|S_END
+<s>|S_START and|CC to|TO the|DT extent|NN that|IN dividend|NN income|NN is|VBZ relied|VBN upon|IN to|TO live|VB say|NN by|IN retirees|NNS with|IN individual|JJ holdings|NNS a|DT higher|JJR tax|NN rate|NN could|MD meaningfully|RB reduce|VB their|PRP$ aftertax|NN income|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START on|IN the|DT other|JJ hand|NN many|JJ investors|NNS have|VBP money|NN in|IN taxdeferred|VBN vehicles|NNS such|JJ as|IN 401ks|CD and|CC iras|NNS </s>|S_END
+<s>|S_START so|IN an|DT investment|NN tax|NN hike|NN wouldnt|NN directly|RB affect|JJ their|PRP$ holdings|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC while|IN anticipation|NN of|IN a|DT tax|NN hike|NN can|MD cause|VB churn|NN in|IN the|DT stock|NN market|NN as|IN investors|NNS seek|VBP to|TO capture|VB gains|NNS at|IN the|DT lower|JJR rate|NN investors|NNS over|IN time|NN typically|RB dont|JJ base|NN their|PRP$ investment|NN decisions|NNS solely|RB or|CC primarily|RB on|IN taxes|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START just|RB what|WP will|MD happen|VB to|TO investment|NN tax|NN rates|NNS in|IN 2013|CD is|VBZ and|CC will|MD likely|RB remain|VB a|DT huge|JJ question|NN mark|NN until|IN after|IN election|NN day|NN and|CC very|RB possibly|RB into|IN the|DT first|JJ quarter|NN of|IN next|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX is|VBZ little|JJ indication|NN that|IN democrats|NNS and|CC republicans|NNS will|MD be|VB able|JJ to|TO easily|RB broker|NN a|DT deal|NN on|IN what|WP to|TO do|VB about|RB the|DT socalled|VBN fiscal|JJ cliff|NN a|DT host|NN of|IN expiring|VBG policies|NNS that|WDT would|MD result|VB in|IN $|$ 7|CD trillion|CD worth|NN of|IN tax|NN increases|NNS and|CC spending|NN cuts|NNS over|IN the|DT next|JJ decade|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START if|IN congress|NN does|VBZ nothing|NN by|IN dec|NN 31|CD the|DT bush|JJ tax|NN cuts|NNS expire|VBP and|CC investment|NN tax|NN rates|NNS go|VBP up|RP for|IN everyone|NN regardless|NN of|IN income|NN </s>|S_END
+<s>|S_START capital|NN gains|NNS would|MD be|VB taxed|VBN at|IN 20|CD 18|CD if|IN an|DT investment|NN is|VBZ held|VBN more|RBR than|IN five|CD years|NNS and|CC dividends|NNS would|MD be|VB taxed|VBN as|IN ordinary|JJ income|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN addition|NN assuming|VBG the|DT supreme|NN court|NN doesnt|NN overturn|NN the|DT health|NN reform|NN law|NN a|DT new|JJ 38|CD medicare|NN surtax|NN on|IN investment|NN income|NN will|MD go|VB into|IN effect|NN for|IN highincome|NN tax|NN payers|NNS in|IN 2013|CD </s>|S_END
+<s>|S_START that|DT surtax|NN would|MD apply|VB to|TO capital|NN gains|NNS and|CC dividends|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START so|IN a|DT highincome|NN taxpayer|NN could|MD face|VB a|DT dividend|NN tax|NN rate|NN as|IN high|JJ as|IN 434|CD 396|CD 38|CD </s>|S_END
+<s>|S_START but|CC in|IN reality|NN those|DT with|IN incomes|NNS topping|VBG $|$ 200000|CD $|$ 250000|CD for|IN couples|NNS wont|VBP necessarily|RB owe|VB 38|CD on|IN all|DT of|IN their|PRP$ investment|NN income|NN </s>|S_END
+<s>|S_START heres|NNS why|WRB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START of|IN course|NN congress|NN may|MD well|RB decide|VB to|TO retain|VB the|DT 15|CD tax|NN rate|NN on|IN capital|NN gains|NNS and|CC dividends|NNS in|IN which|WDT case|NN highincome|VBD households|NNS would|MD end|VB up|RP paying|VBG up|RP to|TO 188|CD on|IN each|DT once|NN the|DT medicare|NN surtax|NN is|VBZ thrown|VBN in|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START or|CC if|IN lawmakers|NNS opt|VBP for|IN obamas|NNS proposal|NN the|DT maximum|NN rate|NN for|IN highincome|NN households|NNS would|MD go|VB to|TO 238|CD on|IN gains|NNS and|CC 434|CD on|IN dividends|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT mitt|NN romney|NN win|NN in|IN the|DT presidential|JJ election|NN may|MD influence|VB lawmakers|NNS decision|NN </s>|S_END
+<s>|S_START he|PRP wants|VBZ to|TO eliminate|VB the|DT tax|NN on|IN capital|NN gains|NNS and|CC dividends|NNS altogether|RB on|IN income|NN up|IN to|TO $|$ 200000|CD </s>|S_END
+<s>|S_START and|CC he|PRP has|VBZ said|VBN he|PRP would|MD repeal|VB the|DT medicare|NN surtax|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START congress|NN could|MD also|RB do|VB something|NN entirely|RB different|JJ since|IN investment|NN income|NN likely|JJ wont|NN be|VB treated|VBN in|IN isolation|NN given|VBN the|DT logjam|NN of|IN fiscal|JJ issues|NNS that|WDT have|VBP to|TO be|VB addressed|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT in|IN all|DT its|PRP$ not|RB a|DT given|VBN investors|NNS will|MD have|VB clarity|NN before|IN dec|NN 31|CD </s>|S_END
+<s>|S_START if|IN lawmakers|NNS fail|VBP to|TO reach|VB an|DT accord|NN by|IN then|RB they|PRP may|MD do|VB so|RB sometime|VB in|IN the|DT first|JJ half|DT of|IN next|JJ year|NN making|VBG any|DT changes|NNS retroactive|VBP to|TO jan|VB 1|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT likelihood|NN that|IN any|DT deal|NN will|MD be|VB permanent|JJ is|VBZ well|RB dream|RB on|IN </s>|S_END
+<s>|S_START changes|NNS this|DT or|CC the|DT next|JJ congress|NN agree|NN to|TO will|MD be|VB subject|JJ to|TO revision|NN especially|RB as|IN lawmakers|NNS move|VBP closer|JJR to|TO overhauling|VBG the|DT tax|NN code|NN and|CC coming|VBG up|RP with|IN a|DT longterm|NN deficitreduction|NN plan |NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,81 @@
+<p>|P_START
+<s>|S_START click|NN the|DT chart|NN to|TO check|VB rates|NNS on|IN the|DT 10year|JJ treasury|NN and|CC other|JJ bonds|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT united|VBN states|NNS lost|VBN its|PRP$ pristine|NN aaa|NN credit|NN rating|NN a|DT year|NN ago|IN sunday|NN but|CC you|PRP wouldnt|VBP know|VBP it|PRP by|IN looking|VBG at|IN the|DT treasury|NN market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT telltale|NN sign|NN was|VBD day|NN one|CD standard|JJ and|CC poors|NNS downgraded|VBD the|DT us|PRP credit|NN rating|NN on|IN a|DT friday|NN night|NN and|CC monday|NN morning|NN us|PRP treasuries|VBZ exploded|VBN said|VBD paul|JJ montaquila|NN head|NN of|IN fixedincome|NN trading|NN at|IN the|DT bank|NN of|IN the|DT west|NN </s>|S_END
+<s>|S_START since|IN then|RB its|PRP$ been|VBN a|DT year|NN of|IN relentless|NN purchasing|VBG and|CC incredible|JJ demand|NN for|IN us|PRP </s>|S_END
+<s>|S_START treasuries|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START yields|NNS on|IN us|PRP government|NN debt|NN across|IN all|DT maturities|NNS have|VBP hit|VBN record|NN lows|VBZ in|IN the|DT postaaa|NN world|NN as|IN investors|NNS enthusiasm|VBP for|IN treasuries|NNS intensified|VBD amid|IN a|DT tepid|JJ us|PRP economic|JJ recovery|NN a|DT growing|VBG european|JJ debt|NN crisis|NN and|CC slowing|VBG growth|NN in|IN emerging|VBG markets|NNS particularly|RB china|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related sp|JJ us|PRP credit|NN at|IN risk|NN without|IN debt|NN deal|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START in|IN recent|JJ weeks|NNS the|DT yield|NN on|IN the|DT 10year|JJ treasury|NN note|NN has|VBZ fallen|VBN to|TO a|DT record|NN low|JJ below|IN 14|CD from|IN 26|CD a|DT year|NN ago|IN </s>|S_END
+<s>|S_START the|DT 30year|JJ yield|NN has|VBZ dropped|VBN to|TO less|JJR than|IN 25|CD from|IN almost|RB 4|CD last|JJ august|NN </s>|S_END
+<s>|S_START as|IN investors|NNS buy|VB treasuries|NNS and|CC drive|JJ up|RP the|DT price|NN yields|NNS decline|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB there|EX is|VBZ a|DT lot|NN of|IN turmoil|NN and|CC unease|NN in|IN financial|JJ markets|NNS investors|NNS look|VBP for|IN a|DT safe|NN haven|VBN said|VBD david|VBN coard|NN head|NN of|IN fixed|VBN income|NN sales|NNS and|CC trading|NN at|IN the|DT williams|NNS capital|NN group|NN </s>|S_END
+<s>|S_START investors|NNS have|VBP said|VBN it|PRP all|RB </s>|S_END
+<s>|S_START in|IN their|PRP$ minds|NNS the|DT us|PRP is|VBZ still|RB worth|JJ a|DT aaa|NN rating|NN and|CC us|PRP treasuries|VBZ continue|VBP to|TO be|VB the|DT premier|JJR safe|NN haven|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START central|JJ banks|NNS around|IN the|DT world|NN have|VBP also|RB helped|VBN push|NN down|IN treasury|NN rates|NNS </s>|S_END
+<s>|S_START since|IN october|NN the|DT federal|JJ reserve|NN has|VBZ been|VBN purchasing|VBG longerdated|VBN treasury|NN bonds|NNS in|IN an|DT effort|NN to|TO keep|VB longterm|JJ borrowing|NN costs|NNS low|JJ for|IN americans|NNS and|CC their|PRP$ businesses|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START china|NN and|CC japan|NN the|DT two|CD largest|JJS foreign|JJ holders|NNS of|IN treasuries|NNS have|VBP also|RB continued|VBN to|TO buy|VB up|RP us|PRP debt|NN </s>|S_END
+<s>|S_START china|NN holds|NNS nearly|RB $|$ 12|CD trillion|CD of|IN treasuries|NNS while|IN japan|NN boasts|NNS $|$ 11|CD trillion|CD according|VBG to|TO the|DT latest|JJS treasury|NN international|JJ capital|NN report|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ever|RB since|IN the|DT 2008|CD financial|JJ crisis|NN rocked|VBD financial|JJ markets|NNS around|IN the|DT world|NN investors|NNS have|VBP been|VBN increasingly|RB willing|JJ to|TO accept|VB even|RB record|VB low|JJ yields|NNS in|IN return|NN for|IN the|DT safety|NN and|CC liquidity|NN of|IN the|DT $|$ 105|CD trillion|CD treasury|NN market|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START and|CC that|DT trend|NN will|MD likely|RB continue|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START right|RB now|RB we|PRP have|VBP a|DT market|NN that|WDT is|VBZ being|VBG driven|VBN by|IN fear|NN said|VBD coard|NN </s>|S_END
+<s>|S_START because|IN of|IN europes|NNS debt|NN crisis|NN investors|NNS will|MD keep|VB buying|NN treasuries|NNS to|TO preserve|VB their|PRP$ capital|NN and|CC rates|NNS will|MD remain|VB near|IN record|NN lows|NNS </s>|S_END
+<s>|S_START they|PRP could|MD even|RB go|VB lower|JJR if|IN we|PRP get|VBP more|JJR bad|JJ news|NN out|IN of|IN europe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT continued|VBN slowdown|NN in|IN chinas|NNS growth|NN momentum|NN further|RB weakness|NN in|IN the|DT us|PRP economy|NN and|CC the|DT failure|NN of|IN us|PRP lawmakers|NNS to|TO address|VB the|DT impending|JJ fiscal|JJ cliff|NN could|MD also|RB push|VB investors|NNS toward|IN us|PRP government|NN debt|NN said|VBD kim|NN rupert|NN fixed|VBN income|NN analyst|NN at|IN action|NN economics|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START related fiscal|JJ cliff|NN what|WP you|PRP need|VBP to|TO know|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT outcome|NN of|IN the|DT combination|NN of|IN sequestration and|JJ expiration|NN of|IN the|DT bush|NN era|NN tax|NN cuts|NNS will|MD knock|VB the|DT united|VBN states|NNS into|IN a|DT recession|NN said|VBD rupert|NN </s>|S_END
+<s>|S_START equities|NNS will|MD tank|VB and|CC investors|NNS will|MD park|VB more|RBR cash|NN into|IN treasuries|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START all|DT in|IN all|DT there|EX arent|NN any|DT looming|VBG catalysts|NNS that|WDT could|MD push|VB interest|NN rates|NNS higher|JJR said|VBD bank|NN of|IN the|DT wests montaquila|NNP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START there|EX doesnt|NN appear|NN to|TO be|VB any|DT inflation|NN on|IN the|DT shortterm|NN horizon|NN he|PRP said|VBD </s>|S_END
+<s>|S_START the|DT fed|VBN has|VBZ pledged|VBN to|TO peg|VB rates|NNS to|TO zero|VB through|IN 2014|CD </s>|S_END
+<s>|S_START when|WRB youre|NN operating|VBG under|IN an|DT environment|NN like|IN that|DT theres|NNS no|DT real|JJ good|JJ reason|NN for|IN treasury|NN rates|NNS to|TO go|VB higher|JJR </s>|S_END
+</p>|P_END
+

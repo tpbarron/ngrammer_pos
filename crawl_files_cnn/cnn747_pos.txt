@@ -1,0 +1,38 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN the|DT comeback|NN continues|VBZ at|IN chrysler|JJR </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT automaker|NN reported|VBD thirdquarter|NN profits|NNS monday|NN that|IN rose|VBD 80|CD versus|NNS a|DT year|NN ago|IN buoyed|VBN by|IN strong|JJ sales|NNS in|IN us|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START chryslers|NNS thirdquarter|VBP net|JJ income|NN hit|VBD $|$ 381|CD million|CD up|IN from|IN $|$ 212|CD million|CD last|JJ year|NN though|IN down|IN versus|NN the|DT first|JJ two|CD quarters|NNS of|IN this|DT year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START revenues|NNS came|VBD in|IN at|IN $|$ 156|CD billion|CD up|IN 18|CD versus|NNS last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN being|VBG majorityowned|VBN by|IN italian|JJ automaker|NN fiat|NN chrysler|NN is|VBZ less|JJR exposed|VBN to|TO europe|VB that|IN competitors|NNS ford|VBP and|CC general|JJ motors|NNS both|DT of|IN which|WDT had|VBD their|PRP$ secondquarter|NN results|NNS weighed|VBD down|RP by|IN the|DT continents|NNS ongoing|VBG crisis|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START last|JJ week|NN ford|NN f|NN fortune|NN 500|CD announced|VBD plans|NNS to|TO close|VB two|CD plants|NNS in|IN england|NN continuing|VBG a|DT string|NN of|IN recent|JJ cuts|NNS in|IN europe|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START but|CC the|DT american|JJ auto|NN market|NN has|VBZ been|VBN a|DT different|JJ story|NN </s>|S_END
+<s>|S_START us|PRP auto|VBP sales|NNS last|JJ month|NN hit|VBD their|PRP$ highest|JJS level|NN in|IN more|JJR than|IN four|CD years|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START chryslers|NNS worldwide|VBP vehicle|NN sales|NNS for|IN the|DT third|JJ quarter|NN were|VBD 556000|CD up|IN 12|CD from|IN last|JJ year|NN due|JJ mainly|RB to|TO the|DT companys|NNS 13|CD sales|NNS gain|NN in|IN the|DT us|PRP </s>|S_END
+<s>|S_START the|DT company|NN confirmed|VBD its|PRP$ 2012|CD guidance|NN projecting|VBG net|NN income|NN of|IN roughly|RB $|$ 15|CD billion|CD for|IN 2012|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ford|NN is|VBZ scheduled|VBN to|TO report|VB its|PRP$ thirdquarter|NN results|NNS tuesday|NN morning|NN with|IN general|JJ motors|NNS gm|VBP fortune|NN 500|CD up|IN wednesday|NN assuming|VBG the|DT presentations|NNS arent|VBP rescheduled|VBN because|IN of|IN hurricane|NN sandy|NN </s>|S_END
+</p>|P_END
+

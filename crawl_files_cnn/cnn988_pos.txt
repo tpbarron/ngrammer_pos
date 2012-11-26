@@ -1,0 +1,24 @@
+<p>|P_START
+<s>|S_START a|DT 401k|CD plan|NN is|VBZ a|DT retirement|NN plan|NN offered|VBN to|TO you|PRP through|IN your|PRP$ employer|NN </s>|S_END
+<s>|S_START 401ks|NNS are|VBP the|DT most|RBS common|JJ kind|NN of|IN defined|VBN contribution|NN retirement|NN plan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START heres|NNS how|WRB it|PRP works|VBZ you|PRP decide|VBP how|WRB much|RB you|PRP want|VBP to|TO contribute|VB and|CC your|PRP$ employer|NN puts|NNS the|DT money|NN into|IN your|PRP$ individual|JJ account|NN on|IN your|PRP$ behalf|NN </s>|S_END
+<s>|S_START the|DT investment|NN happens|NNS through|IN payroll|NN deduction|NN you|PRP decide|VBP what|WP percentage|NN of|IN your|PRP$ salary|NN youd|NN like|IN to|TO contribute|VB and|CC from|IN then|RB on|IN that|DT amount|NN comes|VBZ straight|NN out|IN of|IN your|PRP$ paycheck|NN and|CC goes|VBZ into|IN your|PRP$ account|NN automatically|RB without|IN you|PRP having|VBG to|TO lift|VB a|DT finger|NN </s>|S_END
+<s>|S_START your|PRP$ paycheck|NN will|MD be|VB smaller|JJR as|IN a|DT result|NN though|IN not|RB as|IN small|JJ as|IN you|PRP might|MD think|VB thanks|NNS to|TO the|DT tax|NN benefits|NNS involved|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START your|PRP$ company|NN serves|VBZ as|IN the|DT plan|NN sponsor|NN for|IN the|DT 401k|CD but|CC it|PRP doesnt|VBD have|VBP anything|NN to|TO do|VB with|IN investing|NN the|DT money|NN </s>|S_END
+<s>|S_START instead|RB the|DT plan|NN sponsor|NN hires|NNS another|DT company|NN to|TO administer|VB the|DT plan|NN and|CC its|PRP$ investments|NNS </s>|S_END
+<s>|S_START the|DT plan|NN administrator|NN may|MD be|VB a|DT mutual|JJ fund|NN company|NN such|JJ as|IN fidelity|NN vanguard|NN or|CC t|NN rowe|NN price|NN a|DT brokerage|NN firm|NN such|JJ as|IN schwab|NN or|CC merrill|NN lynch|NN or|CC even|RB an|DT insurance|NN company|NN such|JJ as|IN prudential|JJ or|CC metlife|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START your|PRP$ employer|NN sends|NNS your|PRP$ payroll|NN deductions|NNS directly|RB to|TO the|DT company|NN managing|VBG your|PRP$ plan|NN </s>|S_END
+<s>|S_START but|CC you|PRP are|VBP responsible|JJ for|IN deciding|NN how|WRB to|TO invest|VB your|PRP$ money|NN among|IN the|DT options|NNS offered|VBD by|IN your|PRP$ plan|NN </s>|S_END
+<s>|S_START typically|RB a|DT 401k|CD offers|NNS five|CD or|CC more|JJR mutual|JJ funds|NNS that|WDT invest|JJS in|IN various|JJ sectors|NNS of|IN the|DT financial|JJ markets|NNS </s>|S_END
+<s>|S_START some|DT 401k|CD plans|NNS also|RB offer|VBP shares|NNS of|IN your|PRP$ employers|NNS stock|NN </s>|S_END
+</p>|P_END
+

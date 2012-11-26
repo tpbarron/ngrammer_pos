@@ -1,0 +1,46 @@
+<p>
+<s>kinect microsofts videogame controller that registers a users intentions from his gestures will be the shape of things to come if chris harrison a researcher at the humancomputer interaction institute at carnegie mellon university in pittsburgh has his way</s>
+<s>mr harrison thinks the kinects basic principles could be used to make a technological panopticon that monitors peoples movements and gives them what they want wherever they want it</s>
+</p>
+
+<p>
+<s>someone in a shopping mall for example might hold up his hand and see a map appear instantly at his fingertips</s>
+<s>this image might then be locked in place by the user sticking his thumb out</s>
+<s>a visitor to a museum armed with a suitable earpiece could get the lowdown on what he was looking at simply by pointing at it</s>
+<s>and a person who wanted to send a text message could tap it out with one hand on a keyboard projected onto the other and then send it by flipping his hand over</s>
+<s>in each case sensors in the wall or ceiling would be watching what he was up to looking for significant gestures and reacting accordingly</s>
+</p>
+
+<p>
+<s>mr harrisons prototype for this idea called armura started off as an extension to a project he worked on at microsoft</s>
+<s>this was to project interactive displays onto nearby surfaces including the users body</s>
+<s>that project omnitouch combined a kinectlike array of sensors with a small shouldermounted projector</s>
+<s>armura takes the idea a stage further by mounting both sensors and projector in the ceiling</s>
+<s>this frees the user from the need to carry anything and also provides a convenient place from which to spot his gestures</s>
+</p>
+
+<p>
+<s>the actual detection is done by infrared light which reflects off the users skin and clothes</s>
+<s>a camera records the various shapes made by the users hands and arms</s>
+<s>software then identifies different arrangements of the users arms hands and fingers such as armscrossed thumbsin thumbsout book palmsup palmsdown and so on</s>
+</p>
+
+<p>
+<s>according to mr harrison the hands alone are capable of tens of thousands of interactions and gestures</s>
+<s>the trick is to distinguish between them matching the gesturers intention to his pose precisely enough that the correct consequence follows but not so precisely that slightly nonstandard gestures are ignored</s>
+</p>
+
+<p>
+<s>the result is that if someone holds his hands out like a book information is displayed on each palm as if that palm were a page</s>
+<s>folding his hands turns the page</s>
+<s>arm movements will reveal the locations of particular exhibits or shops</s>
+<s>and if someone fancies a bit of background music the appropriate hand and arm movements will control which track is played and at what volume</s>
+<s>with clever use of microphones and directional loudspeakers indeed it may even be possible to make phone calls</s>
+</p>
+
+<p>
+<s>of course armura will only work in areas where the technology to support it has been installed</s>
+<s>but the same is true of mobile phones</s>
+<s>it is a slightly disturbing thought that if mr harrisons technology can be made to operate routinely the worlds streets and train carriages could be filled with people making odd gestures at no one in particular—hoping as they do so for enlightenment</s>
+</p>
+

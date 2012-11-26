@@ -1,0 +1,116 @@
+<p>|P_START
+<s>|S_START economies|NNS benefit|VBP when|WRB people|NNS start|VBP having|VBG smaller|JJR familie|NN </s>|S_END
+<s>|S_START as|IN fertility|NN falls|NNS the|DT share|NN of|IN workingage|NN adults|NNS in|IN the|DT population|NN creeps|VBZ up|RP laying|VBG the|DT foundation|NN for|IN the|DT socalled|VBN “demographic|JJ dividend”|NN </s>|S_END
+<s>|S_START with|IN fewer|JJR children|NNS parents|NNS invest|VBP more|JJR in|IN each|DT child’s|JJ education|NN increasing|VBG human|NN capital|NN </s>|S_END
+<s>|S_START people|NNS tend|VBP to|TO save|VB more|JJR for|IN their|PRP$ retirement|NN so|IN more|JJR money|NN is|VBZ available|JJ for|IN investment|NN </s>|S_END
+<s>|S_START and|CC women|NNS take|VBP paid|VBN jobs|NNS boosting|VBG the|DT size|NN of|IN the|DT workforce|NN </s>|S_END
+<s>|S_START all|DT this|DT is|VBZ good|JJ for|IN economic|JJ growth|NN and|CC household|NN income|NN </s>|S_END
+<s>|S_START a|DT recent|JJ nber|NN study|NN estimated|VBD that|IN a|DT decrease|NN of|IN nigeria’s|JJ fertility|NN rate|NN by|IN one|CD child|NN per|IN woman|NN would|MD boost|VB gdp|NN per|IN head|NN by|IN 13|CD over|IN 20|CD year|NN </s>|S_END
+<s>|S_START but|CC not|RB every|DT consequence|NN of|IN lower|JJR fertility|NN is|VBZ peachy|JJ </s>|S_END
+<s>|S_START a|DT new|JJ study|NN by|IN researchers|NNS at|IN the|DT harvard|NN school|NN of|IN public|JJ health|NN identifies|NNS another|DT and|CC surprising|JJ effect|NN higher|JJR inequality|NN in|IN the|DT short|JJ term|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START countries|NNS with|IN very|RB high|JJ fertility|NN are|VBP usually|RB dirtpoor—peasants|NNS value|VBP extra|JJ hands|NNS however|RB small|JJ to|TO help|VB in|IN the|DT field|NN </s>|S_END
+<s>|S_START in|IN niger|JJR which|WDT has|VBZ a|DT gdp|NN per|IN person|NN of|IN $|$ 700|CD the|DT average|JJ woman|NN can|MD expect|VB to|TO bear|VB more|JJR than|IN seven|CD children|NNS </s>|S_END
+<s>|S_START lowfertility|NN countries|NNS with|IN significant|JJ exceptions|NNS such|JJ as|IN china|NN tend|NN to|TO be|VB rich|JJ </s>|S_END
+<s>|S_START the|DT harvard|NN study|NN confirms|VBZ that|IN this|DT pattern|NN is|VBZ replicated|VBN within|IN countries|NNS as|IN a|DT rule|NN the|DT poor|JJ tend|NN to|TO have|VB larger|JJR familie|NN </s>|S_END
+<s>|S_START the|DT authors|NNS use|VBP demographic|JJ and|CC health|NN surveys|NNS dhs|NNS which|WDT contain|NN a|DT lot|NN of|IN detail|NN about|IN family|NN structure|NN and|CC household|NN asset|NN </s>|S_END
+<s>|S_START dhs|NNS data|VBP from|IN 60|CD developing|VBG countries|NNS enable|JJ them|PRP to|TO divide|VB households|NNS into|IN five|CD income|NN groups|NNS and|CC to|TO show|VB that|IN in|IN every|DT continent|NN the|DT “youthdependency|NN ratio”|NN the|DT number|NN of|IN children|NNS under|IN 15|CD compared|VBN with|IN the|DT workingage|NN population|NN is|VBZ lowest|JJS in|IN the|DT richest|NN group|NN next|IN lowest|JJS in|IN the|DT nextrichest|NN group|NN and|CC so|RB on|IN </s>|S_END
+<s>|S_START the|DT poorest|JJS group|NN has|VBZ the|DT highest|JJS youthdependency|NN ratio|NN </s>|S_END
+<s>|S_START the|DT gap|NN between|IN top|JJ and|CC bottom|NN is|VBZ marked|VBN </s>|S_END
+<s>|S_START ratios|NNS in|IN the|DT richest|NN households|NNS are|VBP a|DT third|JJ below|IN those|DT in|IN the|DT poorest|NN one|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START over|IN time|NN the|DT differences|NNS in|IN fertility|NN between|IN rich|JJ and|CC poor|JJ should|MD narrow|VB as|IN everyone|NN has|VBZ fewer|JJR anklebiter|NN </s>|S_END
+<s>|S_START o|NN fertility|NN will|MD eventually|RB fall|VB furthest|JJS among|IN the|DT poor|JJ where|WRB it|PRP is|VBZ highest|JJS to|TO start|VB with|IN </s>|S_END
+<s>|S_START you|PRP might|MD expect|VB poor|JJ people|NNS to|TO lead|VB this|DT process|NN of|IN transition|NN because|IN they|PRP have|VBP more|JJR scope|NN to|TO cut|VB family|NN size|NN </s>|S_END
+<s>|S_START in|IN fact|NN they|PRP lower|JJR their|PRP$ fertility|NN rates|NNS more|RBR slowly|RB than|IN the|DT wealthy|JJ </s>|S_END
+<s>|S_START according|VBG to|TO the|DT harvard|NN study|NN during|IN the|DT past|JJ 20|CD years|NNS the|DT average|JJ number|NN of|IN children|NNS fell|VBD by|IN about|RB 50|CD more|JJR in|IN the|DT richest|NN households|NNS than|IN it|PRP did|VBD in|IN the|DT poorest|NN </s>|S_END
+<s>|S_START in|IN côte|JJ d’ivoire|JJ for|IN example|NN the|DT childdependency|NN rate|NN in|IN the|DT poorest|NN group|NN fell|VBD by|IN 13|CD between|IN 1994|CD and|CC 2005|CD </s>|S_END
+<s>|S_START among|IN the|DT richest|JJS it|PRP fell|VBD by|IN 32|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START this|DT finding|NN does|VBZ not|RB come|VB out|RB of|IN the|DT blue|JJ </s>|S_END
+<s>|S_START a|DT 2008|CD study|NN of|IN african|JJ countries|NNS found|VBD that|IN as|IN total|JJ fertility|NN falls|NNS the|DT difference|NN in|IN fertility|NN by|IN education|NN group|NN adjusted|VBD for|IN their|PRP$ changing|NN sizes|NNS rise|VBP </s>|S_END
+<s>|S_START earlier|JJR research|NN in|IN latin|NN america|NN found|VBD that|IN demographic|JJ change|NN increased|VBD the|DT income|NN gap|NN between|IN rich|JJ and|CC poor|JJ </s>|S_END
+<s>|S_START inequality|NN tends|NNS to|TO rise|VB as|IN fertility|NN rates|NNS start|VB to|TO fall|VB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START why|WRB should|MD this|DT be|VB </s>|S_END
+<s>|S_START poor|NN families|NNS seem|VBP to|TO face|VB a|DT demographiccumincome|NN trap|NN poverty|NN in|IN the|DT parents’|NN generation|NN promotes|VBZ higher|JJR fertility|NN which|WDT is|VBZ then|RB associated|VBN with|IN poverty|NN in|IN the|DT next|JJ generation|NN </s>|S_END
+<s>|S_START a|DT tendency|NN to|TO have|VB large|JJ poor|NN families|NNS seems|VBZ to|TO be|VB handed|VBN down|RP from|IN mother|DT to|TO daughter|NN </s>|S_END
+<s>|S_START conversely|RB the|DT rich|JJ are|VBP more|RBR likely|JJ to|TO educate|VB their|PRP$ daughters|NNS and|CC have|VBP no|DT trouble|NN obtaining|VBG contraceptives|NNS so|RB smaller|JJR bettereducated|VBN families|NNS also|RB pass|VBZ from|IN mother|NN to|TO daughter|VB </s>|S_END
+<s>|S_START these|DT trends|NNS reduce|VBP fertility|NN among|IN the|DT rich|JJ while|NN leaving|VBG it|PRP higher|JJR among|IN the|DT poor|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START however|RB things|NNS change|VBP when|WRB income|NN rise|VBP </s>|S_END
+<s>|S_START the|DT three|CD countries|NNS in|IN the|DT harvard|NN study|NN which|WDT saw|VBD the|DT largest|JJS declines|NNS in|IN child|NN dependency|NN were|VBD côte|JJ d’ivoire|JJ with|IN a|DT gdp|NN per|IN head|NN in|IN 2011|CD of|IN $|$ 1800|CD namibia|NNS $|$ 6800|CD and|CC peru|NN $|$ 10300|CD </s>|S_END
+<s>|S_START the|DT pattern|NN of|IN their|PRP$ demographic|JJ change|NN shows|VBZ a|DT clear|JJ progression|NN </s>|S_END
+<s>|S_START poor|NN côte|JJ d’ivoire|JJ saw|NN its|PRP$ childdependency|NN ratios|NNS fall|VBP most|JJS among|IN the|DT rich|JJ and|CC least|JJS among|IN the|DT poor|JJ </s>|S_END
+<s>|S_START in|IN namibia|NN child|NN dependency|NN fell|VBD furthest|NN in|IN the|DT middle|NN of|IN the|DT income|NN range|NN the|DT decline|NN in|IN the|DT secondpoorest|NN group|NN was|VBD largest|JJS of|IN all|DT </s>|S_END
+<s>|S_START in|IN middleincome|NN peru|NN the|DT pattern|NN was|VBD different|JJ again|RB </s>|S_END
+<s>|S_START there|EX child|VBN dependency|NN fell|VBD across|IN the|DT board|NN by|IN roughly|RB equal|JJ amount|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START what|WP seems|VBZ to|TO happen|VB is|VBZ that|IN falling|VBG fertility|NN widens|NNS demographic|JJ differences|NNS in|IN countries|NNS with|IN a|DT perperson|NN gdp|NN of|IN around|IN $|$ 2000|CD that|WDT the|DT forces|NNS of|IN inequality|NN and|CC convergence|NN are|VBP balanced|VBN in|IN countries|NNS where|WRB gdp|NN per|IN person|NN is|VBZ $|$ 5000|CD and|CC that|IN by|IN the|DT time|NN this|DT figure|NN has|VBZ reached|VBN $|$ 10000|CD per|IN person|NN the|DT forces|NNS of|IN convergence|NN are|VBP dominant|JJ </s>|S_END
+<s>|S_START to|TO put|VB it|PRP another|DT way|NN the|DT rich|NN lead|NN the|DT decline|NN in|IN fertility|NN producing|VBG a|DT shortterm|NN increase|NN in|IN income|NN inequality|NN as|IN they|PRP capture|VBP the|DT benefits|NNS of|IN demographic|JJ change|NN first|RB </s>|S_END
+<s>|S_START then|RB the|DT middle|NN catches|VBZ up|RP as|RB they|PRP educate|VBP daughters|NNS and|CC plan|VBP families|NNS followed|VBN by|IN the|DT poor|JJ so|RB that|IN eventually|RB fertility|NN is|VBZ lower|JJR across|IN the|DT board|NN and|CC the|DT economic|JJ benefits|NNS of|IN the|DT demographic|JJ dividend|NN are|VBP spread|VBN more|RBR evenly|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START moothing|VBG out|IN the|DT spike|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START that|DT has|VBZ two|CD implication|NN </s>|S_END
+<s>|S_START first|JJ the|DT fall|NN in|IN fertility|NN helps|NNS explain|VBP why|WRB income|NN inequality|NN is|VBZ widening|VBG in|IN developing|VBG countrie|NN </s>|S_END
+<s>|S_START a|DT world|NN bank|NN paper|NN from|IN 2008|CD reckoned|VBN that|IN twothirds|NNS of|IN poor|JJ and|CC middleincome|NN countries|NNS would|MD experience|VB a|DT rise|NN in|IN inequality|NN before|IN 2030|CD with|IN demographic|JJ shifts|NNS adding|VBG to|TO inequality|NN in|IN fourfifths|NNS of|IN all|DT case|NN </s>|S_END
+<s>|S_START econd|NN to|TO counteract|VB this|DT initial|JJ spurt|NN in|IN inequality|NN there|EX is|VBZ an|DT argument|NN for|IN doing|VBG things|NNS that|WDT reduce|VB fertility|NN among|IN the|DT poor—such|JJ as|IN making|VBG contraception|NN more|JJR widely|RB available|JJ and|CC encouraging|VBG girls|NNS to|TO go|VB to|TO school|NN </s>|S_END
+<s>|S_START this|DT would|MD not|RB only|RB reduce|VB the|DT youthdependency|NN ratio|NN more|RBR quickly|RB but|CC also|RB make|VBP people|NNS happier|JJR since|IN most|JJS of|IN the|DT poor|JJ say|NN that|IN they|PRP want|VBP smaller|JJR familie|NN </s>|S_END
+<s>|S_START falling|VBG fertility|NN benefits|NNS poor|JJ countries|NNS a|DT lot|NN but|CC it|PRP can|MD not|RB do|VB everything|NN by|IN itself|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogsfreeexchange|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ource|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “the|DT effect|NN of|IN interventions|NNS to|TO reduce|VB fertility|NN on|IN economic|JJ growth”|NN by|IN quamrul|NN ashraf|NN david|VBD weil|NN and|CC joshua|NN wilde|NN </s>|S_END
+<s>|S_START nber|NN working|VBG paper|NN 17377|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “microeconomic|JJ foundations|NNS of|IN the|DT demographic|JJ dividend”|NN by|IN david|NN bloom|NN david|VBD canning|VBG gunther|NN fink|NN and|CC jocelyn|NN finlay|NN </s>|S_END
+<s>|S_START harvard|NN school|NN of|IN public|JJ health|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “inequality|NN and|CC the|DT family|NN in|IN latin|NN america”|NN by|IN ricardo|NN hausman|NN and|CC miguel|NN szekely|RB </s>|S_END
+<s>|S_START “population|NN matters”|NN oxford|NN university|NN press|NN 2001|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “reproductive|JJ inequality|NN in|IN subsaharan|NN africa|NN differentials|NNS versus|CC concentration”|NNP by|IN sarah|NN giroux|NN parfait|NN eloundouenyegue|NN and|CC daniel|NN lichter|NN </s>|S_END
+<s>|S_START tudies|NNS in|IN family|NN planning|VBG september|NN 2008|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “is|NNS the|DT developing|VBG world|NN catching|VBG up|RP </s>|S_END
+<s>|S_START ”|NN by|IN maurizio|NN bussolo|NN rafael|NN de|IN hoyos|NNS and|CC denis|NNS medvedev|VBP </s>|S_END
+<s>|S_START world|NN bank|NN policy|NN research|NN working|VBG paper|NN 4733|CD </s>|S_END
+</p>|P_END
+

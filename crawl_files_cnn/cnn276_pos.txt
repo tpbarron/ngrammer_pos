@@ -1,0 +1,40 @@
+<p>|P_START
+<s>|S_START holiday|NN shoppers|NNS outside|IN a|DT toys|NNS r|NN us|PRP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN toys|NNS r|VBP us|PRP is|VBZ gearing|VBG up|RP for|IN what|WP it|PRP hopes|VBZ will|MD be|VB a|DT strong|JJ holiday|NN shopping|VBG season|NN by|IN hiring|NN 45000|CD seasonal|JJ workers|NNS nationwide|VBP 5000|CD more|JJR than|IN last|JJ year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START toys|NNS r|VBP us|PRP announced|VBD the|DT extra|JJ job|NN slots|NNS monday|NN saying|VBG they|PRP will|MD help|VB the|DT company|NN implement|NN various|VBZ new|JJ retail|NN strategies|NNS </s>|S_END
+<s>|S_START this|DT includes|VBZ an|DT enhanced|VBN program|NN to|TO buy|VB toys|NNS online|NN and|CC pick|NN them|PRP up|IN in|IN the|DT store|NN as|IN well|RB as|IN a|DT free|JJ layaway|NN program|NN and|CC its|PRP$ hot|JJ toy|NN reservation|NN plan|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT retailer|NN said|VBD there|EX are|VBP growth|NN opportunities|NNS for|IN the|DT workers|NNS and|CC the|DT seasonal|JJ jobs|NNS could|MD become|VB fulltime|JJ for|IN those|DT who|WP perform|NN well|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT company|NN said|VBD that|IN 15|CD of|IN its|PRP$ seasonal|JJ employees|NNS from|IN last|JJ year|NN were|VBD hired|VBN fulltime|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START toys|NNS r|VBP us|PRP isnt|VBP the|DT only|JJ retailer|NN thats|NNS ramping|VBG up|RP its|PRP$ work|NN force|NN ahead|RB of|IN the|DT holiday|NN shopping|VBG season|NN </s>|S_END
+<s>|S_START the|DT department|NN store|NN chain|NN kohls|NNS kss|VBP fortune|NN 500|CD announced|VBD on|IN sept|NN 18|CD that|WDT it|PRP plans|VBZ to|TO hire|VB 52700|CD seasonal|JJ workers|NNS a|DT 10|CD jump|NN compared|VBN to|TO the|DT year|NN before|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START also|RB toys|VBZ r|NN us|PRP announced|VBD sept|IN 4|CD that|WDT its|PRP$ offering|NN free|JJ layaway|NN through|IN oct|NN 31|CD </s>|S_END
+<s>|S_START after|IN that|DT date|NN it|PRP will|MD charge|VB a|DT $|$ 5|CD service|NN fee|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START walmart|NN wmt|VBD fortune|NN 500|CD has|VBZ also|RB made|VBN changes|NNS to|TO its|PRP$ layaway|NN plan|NN to|TO make|VB it|PRP more|JJR attractive|JJ </s>|S_END
+<s>|S_START the|DT retailer|NN said|VBD on|IN sept|NN 4|CD that|WDT its|PRP$ cutting|VBG the|DT upfront|NN fee|NN that|IN it|PRP charges|VBZ customers|NNS on|IN its|PRP$ layaway|NN plan|NN to|TO $|$ 5|CD from|IN $|$ 15|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START these|DT retailers|NNS and|CC their|PRP$ competitors|NNS target|VBP tgt|NN fortune|NN 500|CD and|CC sears|NNS shld|VBD fortune|NN 500|CD are|VBP bracing|VBG for|IN another|DT holiday|NN shopping|VBG season|NN amid|IN a|DT weak|JJ economy|NN and|CC high|JJ unemployment|NN </s>|S_END
+</p>|P_END
+

@@ -1,0 +1,80 @@
+<p>|P_START
+<s>|S_START the|DT world|NN has|VBZ accumulated|VBN too|RB much|RB debt|NN </s>|S_END
+<s>|S_START issuing|VBG more|JJR equity|NN would|MD reduce|VB risk|NN particularly|RB in|IN the|DT banking|NN sector|NN and|CC create|VB the|DT seed|NN capital|NN for|IN new|JJ industries|NNS to|TO emerge|VB </s>|S_END
+<s>|S_START but|CC global|JJ investors|NNS may|MD be|VB losing|VBG their|PRP$ appetite|NN for|IN share|NN </s>|S_END
+<s>|S_START that|DT is|VBZ the|DT conclusion|NN of|IN a|DT new|JJ report|NN by|IN the|DT mckinsey|NN global|JJ institute|NN which|WDT argues|NNS that|WDT by|IN 2020|CD a|DT $|$ 123|CD trillion|CD gap|NN will|MD have|VB emerged|VBN between|IN the|DT amount|NN of|IN equity|NN that|IN needs|VBZ to|TO be|VB supplied|VBN and|CC the|DT likely|JJ level|NN of|IN demand|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT problem|NN is|VBZ that|IN investors|NNS in|IN the|DT developed|JJ world|NN are|VBP shifting|VBG from|IN equities|NNS into|IN other|JJ assets|NNS thanks|NNS to|TO demographic|JJ changes|NNS regulatory|JJ pressures|NNS and|CC the|DT disappointing|JJ returns|NNS suffered|VBN over|IN the|DT past|JJ ten|NN year|NN </s>|S_END
+<s>|S_START pension|NN funds|NNS are|VBP maturing|VBG with|IN more|JJR of|IN their|PRP$ members|NNS in|IN retirement|NN and|CC fewer|JJR in|IN work|NN so|IN bonds|NNS are|VBP a|DT more|RBR appropriate|JJ investment|NN than|IN equitie|NN </s>|S_END
+<s>|S_START insurance|NN companies|NNS have|VBP shed|VBN equities|NNS in|IN the|DT face|NN of|IN regulations|NNS such|JJ as|IN the|DT european|JJ unions|NNS solvency|NN ii|NN regime|NN they|PRP could|MD sell|VB as|IN much|JJ as|IN $|$ 150|CD billion|CD of|IN shares|NNS over|IN the|DT next|JJ five|CD year|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START meanwhile|RB the|DT financial|JJ assets|NNS of|IN developingworld|NN investors|NNS are|VBP growing|VBG fast|RB but|CC such|JJ investors|NNS tend|VBP to|TO have|VB a|DT very|RB small|JJ exposure|NN to|TO stockmarket|VB </s>|S_END
+<s>|S_START indians|NNS have|VBP only|RB 8|CD of|IN their|PRP$ wealth|NN in|IN equitie|NN </s>|S_END
+<s>|S_START as|IN they|PRP get|VBP richer|RB investors|NNS in|IN the|DT developing|VBG world|NN will|MD diversify|VB their|PRP$ portfolio|NN </s>|S_END
+<s>|S_START but|CC mckinsey|NN estimates|NNS they|PRP would|MD have|VB to|TO raise|VB their|PRP$ equity|NN allocations|NNS to|TO the|DT 42|CD owned|VBN by|IN american|JJ households|NNS to|TO close|VB the|DT gap|NN completely|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START developingworld|NN investors|NNS have|VBP understandable|JJ reasons|NNS for|IN caution|NN </s>|S_END
+<s>|S_START companies|NNS in|IN emerging|VBG markets|NNS are|VBP often|RB not|RB as|IN transparent|NN as|IN those|DT in|IN the|DT developed|JJ world|NN nor|CC do|VB they|PRP have|VB a|DT record|NN of|IN treating|VBG minority|NN shareholders|NNS well|RB </s>|S_END
+<s>|S_START institutional|JJ investors—mutual|JJ funds|NNS insurance|NN companies|NNS pension|NN schemes—are|JJ not|RB as|IN well|RB established|VBN in|IN developing|NN countries|NNS as|IN they|PRP are|VBP in|IN europe|NN and|CC america|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START despite|IN the|DT subdued|VBN level|NN of|IN demand|NN companies|NNS will|MD still|RB need|VBP to|TO issue|VB equity|NN either|DT to|TO strengthen|VB their|PRP$ balance|NN sheets|NNS or|CC to|TO support|VB their|PRP$ expansion|NN </s>|S_END
+<s>|S_START the|DT banks|NNS will|MD need|VB to|TO raise|VB equity|NN to|TO meet|VB the|DT basel|NN rule|NN </s>|S_END
+<s>|S_START meanwhile|RB the|DT faster|NN growth|NN rate|NN of|IN developing|VBG countries|NNS means|NNS that|WDT more|JJR companies|NNS are|VBP likely|JJ to|TO float|VB on|IN their|PRP$ domestic|JJ markets|NNS more|RBR than|IN half|PDT of|IN all|DT new|JJ issues|NNS in|IN 2010|CD by|IN volume|NN and|CC by|IN value|NN were|VBD in|IN emerging|NN market|NN </s>|S_END
+<s>|S_START indeed|RB mckinsey|VBP reckons|NNS the|DT net|JJ excess|NN of|IN supply|NN over|IN demand|NN for|IN equities|NNS in|IN emerging|VBG markets|NNS will|MD be|VB some|DT $|$ 7|CD trillion|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START now|RB of|IN course|NN this|DT gap|NN is|VBZ entirely|RB notional|JJ </s>|S_END
+<s>|S_START the|DT actual|JJ level|NN of|IN equity|NN supply|NN and|CC demand|NN will|MD exactly|RB balance|VB out|RP </s>|S_END
+<s>|S_START but|CC if|IN desired|VBN supply|NN exceeds|NNS desired|VBD demand|NN one|CD of|IN two|CD things|NNS can|MD happen|VB </s>|S_END
+<s>|S_START hare|NN prices|NNS will|MD fall|VB so|RB that|IN expected|VBN returns|NNS rise|VBP and|CC investors|NNS become|VBP willing|JJ to|TO buy|VB shares|NNS again|RB </s>|S_END
+<s>|S_START this|DT might|MD happen|VB if|IN dividend|NN yields|NNS on|IN shares|NNS exceed|VBN governmentbond|NN yields|NNS for|IN an|DT extended|JJ period|NN as|IN was|VBD the|DT case|NN in|IN the|DT first|JJ half|DT of|IN the|DT 20th|JJ century|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START it|PRP is|VBZ also|RB possible|JJ that|IN governments|NNS can|MD encourage|VB greater|JJR demand|NN for|IN equitie|NN </s>|S_END
+<s>|S_START in|IN the|DT developing|VBG world|NN that|WDT would|MD require|VB better|JJR protection|NN for|IN the|DT small|JJ investor|NN </s>|S_END
+<s>|S_START in|IN the|DT developed|JJ world|NN taxcode|NN reform|NN is|VBZ the|DT big|JJ issue|NN </s>|S_END
+<s>|S_START corporate|JJ interest|NN payments|NNS are|VBP taxdeductible|JJ in|IN most|JJS countries|NNS while|IN dividends|NNS are|VBP not|RB </s>|S_END
+<s>|S_START but|CC that|DT would|MD be|VB a|DT difficult|JJ reform|NN to|TO pull|VB off|RP </s>|S_END
+<s>|S_START given|VBN the|DT state|NN of|IN public|JJ finances|NNS governments|NNS are|VBP unlikely|RB to|TO be|VB handing|VBG out|RP new|JJ tax|NN break|NN </s>|S_END
+<s>|S_START and|CC removing|VBG the|DT taxdeductibility|NN of|IN interest|NN even|RB if|IN it|PRP was|VBD accompanied|VBN by|IN a|DT lowering|VBG of|IN the|DT overall|JJ corporatetax|NN rate|NN would|MD endanger|VB the|DT health|NN of|IN highly|RB indebted|VBN companie|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT alternative|NN possibility|NN is|VBZ that|IN firms|NNS will|MD eschew|VB issuing|VBG equity|NN and|CC raise|VB capital|NN in|IN the|DT form|NN of|IN debt|NN instead|RB </s>|S_END
+<s>|S_START there|EX may|MD well|RB be|VB an|DT appetite|JJ for|IN such|JJ paper|NN since|IN government|NN bond|NN yields|NNS are|VBP so|RB low|JJ at|IN least|JJS in|IN the|DT likes|NNS of|IN america|NN britain|NN and|CC germany|NN that|IN investors|NNS will|MD be|VB attracted|VBN to|TO the|DT higher|JJR income|NN offered|VBD by|IN corporate|JJ bond|NN </s>|S_END
+<s>|S_START but|CC the|DT risks|NNS ought|MD to|TO be|VB obvious|JJ after|IN the|DT past|JJ few|JJ year|NN </s>|S_END
+<s>|S_START a|DT highly|RB geared|VBN economy|NN is|VBZ likely|JJ to|TO suffer|VB from|IN bigger|JJR booms|NNS and|CC bigger|JJR bust|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START equity|NN is|VBZ a|DT very|RB useful|JJ form|NN of|IN longterm|NN capital|NN for|IN the|DT corporate|JJ sector|NN and|CC also|RB offers|VBZ a|DT way|NN for|IN private|JJ investors|NNS to|TO participate|VB in|IN the|DT longterm|NN growth|NN of|IN the|DT economy|NN </s>|S_END
+<s>|S_START but|CC in|IN europe|NN and|CC america|NN companies|NNS have|VBP been|VBN retiring|VBG equities|NNS through|IN share|NN buybacks|NNS while|IN the|DT volume|NN of|IN initial|JJ public|JJ offerings|NNS has|VBZ dropped|VBN considerably|RB from|IN the|DT peak|NN years|NNS of|IN 2000|CD and|CC 2007|CD </s>|S_END
+<s>|S_START if|IN the|DT developed|VBN world|NN is|VBZ to|TO recover|RB its|PRP$ mojo|NN equity|NN issuance|NN has|VBZ to|TO come|VB back|RB into|IN fashion|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START “the|DT emerging|VBG equity|NN gap|NN growth|NN and|CC stability|NN in|IN the|DT new|JJ investor|NN landscape”|NN mckinsey|NN global|JJ institute|NN december|NN 2011|CD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START  |NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START economistcomblogsbuttonwood|NN </s>|S_END
+</p>|P_END
+

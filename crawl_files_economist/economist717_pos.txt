@@ -1,0 +1,49 @@
+<p>|P_START
+<s>|S_START modern|JJ warfare|NN involves|NNS plenty|NN of|IN new|JJ technology|NN from|IN pilotless|NN drones|NNS to|TO powerful|JJ computer|NN networks|NNS and|CC satellite|VB sensor|NN </s>|S_END
+<s>|S_START but|CC the|DT explosives|NNS which|WDT are|VBP used|VBN in|IN battle|NN were|VBD invented|VBN a|DT long|JJ time|NN ago|RB </s>|S_END
+<s>|S_START the|DT two|CD most|JJS commonly|RB deployed|VBN belong|JJ to|TO a|DT class|NN of|IN organic|JJ chemicals|NNS called|VBN nitramine|NN </s>|S_END
+<s>|S_START one|CD rdx|NN is|VBZ also|RB widely|RB used|JJ in|IN industrial|JJ applications|NNS like|IN mining|NN and|CC demolishing|VBG building|NN </s>|S_END
+<s>|S_START its|PRP$ use|NN as|IN an|DT explosive|JJ began|NN in|IN the|DT 1920|CD </s>|S_END
+<s>|S_START hmx|NN a|DT related|JJ compound|NN and|CC one|CD of|IN the|DT most|RBS powerful|JJ explosives|NNS dates|VBZ back|RB to|TO the|DT second|JJ world|NN war|NN </s>|S_END
+<s>|S_START both|DT are|VBP sometimes|RB used|VBN with|IN trinitrotoluene|NN a|DT different|JJ type|NN of|IN compound|NN more|JJR commonly|RB known|VBN as|IN tnt|NN </s>|S_END
+<s>|S_START it|PRP is|VBZ over|IN 100|CD years|NNS old|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START a|DT good|JJ explosive|NN needs|VBZ to|TO be|VB extremely|RB powerful|JJ but|CC not|RB too|RB sensitive|JJ to|TO avoid|VB its|PRP$ being|VBG detonated|VBN accidentally|RB such|JJ as|IN by|IN dropping|NN it|PRP </s>|S_END
+<s>|S_START these|DT can|MD be|VB conflicting|VBG propertie|NN </s>|S_END
+<s>|S_START as|IN alex|NN contini|NN of|IN the|DT centre|NN for|IN defence|NN chemistry|NN at|IN cranfield|NN university|NN in|IN britain|NN points|NNS out|IN explosives|NNS developed|VBD in|IN recent|JJ years|NNS are|VBP either|RB too|RB sensitive|JJ or|CC too|RB expensive|JJ for|IN largescale|NN use|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START one|CD such|JJ explosive|JJ is|VBZ cl20|NNP </s>|S_END
+<s>|S_START this|DT was|VBD developed|VBN by|IN the|DT american|JJ navy|NN as|IN a|DT rocket|NN propellant|NN a|DT substance|NN which|WDT involves|VBZ the|DT sudden|JJ release|NN of|IN energy|NN by|IN rapid|JJ oxidisation|NN in|IN effect|NN a|DT controlled|JJ explosion|NN </s>|S_END
+<s>|S_START cl20|NNP is|VBZ more|JJR powerful|JJ than|IN rdx|NN and|CC hmx|NN but|CC its|PRP$ higher|JJR sensitivity|NN means|VBZ that|DT it|PRP also|RB explodes|VBZ more|JJR easily|RB </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT most|RBS common|JJ way|NN to|TO desensitise|VB an|DT explosive|JJ is|VBZ by|IN mixing|NN it|PRP with|IN a|DT nonexplosive|JJ material|NN such|JJ as|IN wax|NN or|CC paper|NN </s>|S_END
+<s>|S_START although|IN that|DT works|VBZ it|PRP also|RB reduces|VBZ the|DT amount|NN of|IN bang|NN you|PRP get|VBP </s>|S_END
+<s>|S_START what|WP if|IN the|DT desensitising|NN material|NN is|VBZ itself|PRP an|DT explosive|JJ of|IN lower|JJR sensitivity|NN </s>|S_END
+<s>|S_START the|DT problem|NN is|VBZ that|IN the|DT resulting|VBG material|NN is|VBZ as|IN sensitive|JJ as|IN its|PRP$ most|RBS sensitive|JJ component|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START adam|NN matzger|NN of|IN the|DT university|NN of|IN michigan|NN and|CC his|PRP$ colleagues|NNS have|VBP discovered|VBN a|DT way|NN around|IN that|DT problem|NN by|IN using|VBG a|DT process|NN called|VBN cocrystallisation|NN which|WDT is|VBZ commonly|RB used|VBN by|IN drugmakers|NNS to|TO modify|VB the|DT physical|JJ properties|NNS of|IN a|DT pharmaceutical|JJ </s>|S_END
+<s>|S_START they|PRP report|VBP in|IN crystal|NN growth|NN design|NN that|IN by|IN mixing|NN cl20|NNP in|IN such|JJ a|DT way|NN they|PRP have|VBP been|VBN able|JJ to|TO lower|JJR its|PRP$ sensitivity|NN but|CC retain|NN most|RBS of|IN its|PRP$ explosive|JJ power|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN the|DT heart|NN of|IN the|DT process|NN is|VBZ the|DT formation|NN of|IN crystals|NNS an|DT ability|NN endowed|VBD to|TO some|DT materials|NNS by|IN nature|NN </s>|S_END
+<s>|S_START crystals|NNS are|VBP the|DT result|NN of|IN molecules|NNS arranging|VBG themselves|PRP in|IN a|DT regular|JJ pattern|NN extending|VBG in|IN all|DT three|CD dimension|NN </s>|S_END
+<s>|S_START ometimes|NNS two|CD crystalline|NN materials|NNS that|WDT do|VBP not|RB react|VB with|IN each|DT other|JJ can|MD be|VB mixed|VBN to|TO form|NN a|DT socalled|JJ cocrystal|NN </s>|S_END
+<s>|S_START to|TO do|VB that|DT they|PRP are|VBP both|DT dissolved|VBN in|IN a|DT common|JJ solvent|NN then|RB left|VBN alone|NN to|TO crystallise|VB together|RP </s>|S_END
+<s>|S_START because|IN the|DT arrangement|NN of|IN molecules|NNS within|IN the|DT cocrystal|JJ is|VBZ very|RB different|JJ from|IN the|DT original|JJ crystal|NN it|PRP modifies|VBZ the|DT physical|JJ properties|NNS of|IN the|DT material—in|JJ this|DT case|NN cl20’s|VBZ sensitivity|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START dr|NN matzger|NN made|VBD a|DT cocrystal|JJ consisting|NN of|IN two|CD parts|NNS of|IN cl20|NNP and|CC one|CD part|NN hmx|NN </s>|S_END
+<s>|S_START the|DT hybrid|NN explosive|JJ has|VBZ nearly|RB the|DT same|JJ explosive|JJ power|NN as|IN cl20|NNP but|CC the|DT lower|JJR sensitivity|NN of|IN hmx|NN </s>|S_END
+<s>|S_START because|IN the|DT process|NN of|IN crystallisation|NN can|MD be|VB scaled|VBN up|RP relatively|RB easily|RB dr|JJ matzger|NN whose|WP$ work|NN was|VBD funded|VBN by|IN america’s|NNP defence|NN threat|NN reduction|NN agency|NN thinks|NNS this|DT new|JJ explosive|JJ could|MD make|VB a|DT bigger|JJR bang|NN soon|RB </s>|S_END
+</p>|P_END
+

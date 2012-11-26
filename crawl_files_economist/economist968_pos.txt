@@ -1,0 +1,47 @@
+<p>|P_START
+<s>|S_START a|DT nation|NN of|IN deadbeats|NNS an|DT uncommon|NN history|NN of|IN america’s|JJ financial|JJ disaster|NN </s>|S_END
+<s>|S_START by|IN scott|NN reynolds|NNS nelson|NN </s>|S_END
+<s>|S_START knopf|NN 330|CD pages|NNS $|$ 2795|CD </s>|S_END
+<s>|S_START buy|NN from|IN amazoncouk|NN isbnunknown|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT current|JJ financial|JJ crisis|NN is|VBZ merely|RB a|DT severe|JJ example|NN of|IN the|DT panics|NNS and|CC crashes|NNS that|WDT have|VBP dotted|VBN economic|JJ history|NN </s>|S_END
+<s>|S_START lenders|NNS and|CC borrowers|NNS have|VBP regularly|RB overestimated|VBN the|DT latter’s|NNP ability|NN to|TO repay|VB their|PRP$ debts|NNS when|WRB the|DT truth|NN becomes|VBZ clear|JJ banks|NNS collapse|VBP and|CC confidence|NN in|IN the|DT financial|JJ system|NN deteriorate|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN scott|NN reynolds|NNS nelson|NN shows|NNS in|IN his|PRP$ history|NN of|IN american|JJ financial|JJ crises|NNS there|EX have|VBP been|VBN many|JJ parallels|NNS with|IN recent|JJ event|NN </s>|S_END
+<s>|S_START the|DT subprime|NN loans|NNS that|WDT sparked|VBD the|DT current|JJ crisis|NN were|VBD modern|JJ versions|NNS of|IN the|DT promissory|NN notes|NNS bills|NNS of|IN exchange|NN and|CC bankers’|NNP acceptances|NNS that|WDT were|VBD used|VBN in|IN the|DT past|JJ all|DT are|VBP “promises|NNS to|TO repay”|NNP </s>|S_END
+<s>|S_START uch|JJ promises|NNS are|VBP easy|JJ to|TO make|VB in|IN a|DT boom|NN but|CC harder|JJR to|TO keep|VB when|WRB times|NNS change|VBP </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START america|NN was|VBD slow|JJ in|IN developing|VBG its|PRP$ own|JJ financial|JJ system|NN depending|VBG on|IN credit|NN from|IN britain|NN </s>|S_END
+<s>|S_START this|DT made|VBN american|NN banks|NNS vulnerable|JJ to|TO the|DT tightening|NN of|IN monetary|JJ policy|NN across|IN the|DT atlantic|JJ </s>|S_END
+<s>|S_START but|CC there|EX were|VBD plenty|NN of|IN internal|JJ drivers|NNS of|IN crise|NN </s>|S_END
+<s>|S_START as|IN a|DT 19thcentury|JJ emerging|NN market|NN america|NN was|VBD the|DT natural|JJ focus|NN for|IN speculative|JJ bubbles|NNS in|IN land|NN railroads|NNS and|CC cotton|NN </s>|S_END
+<s>|S_START there|EX were|VBD also|RB political|JJ fights|NNS over|IN central|JJ banking|NN and|CC over|IN the|DT backing|NN for|IN the|DT currency|NN gold|NN silver|NN or|CC just|RB paper|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT author|NN does|VBZ an|DT excellent|NN job|NN of|IN putting|VBG these|DT crises|NNS in|IN a|DT wider|NN context|NN </s>|S_END
+<s>|S_START he|PRP recounts|VBZ how|WRB herman|NN melville’s|-NONE- family|NN was|VBD ruined|VBN by|IN president|NN andrew|VBD jackson’s|NNP battle|NN with|IN the|DT second|JJ bank|NN of|IN the|DT united|VBN states|NNS an|DT early|JJ version|NN of|IN a|DT central|JJ bank|NN </s>|S_END
+<s>|S_START in|IN “moby|JJ dick”|NN captain|NN ahab|NN who|WP like|IN jackson|NN was|VBD disfigured|VBN by|IN a|DT scar|NN obsessively|RB pursued|VBN the|DT great|JJ white|JJ whale|NN bringing|VBG disaster|NN on|IN the|DT crew|NN just|RB as|IN jackson’s|JJ obsession|NN with|IN the|DT banking|NN leviathan|NN plunged|VBD the|DT economy|NN into|IN recession|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START he|PRP also|RB shows|VBZ how|WRB speculation|NN played|VBN its|PRP$ part|NN in|IN the|DT buildup|NN to|TO the|DT civil|NN war|NN as|IN slavers|NNS and|CC northern|JJ investors|NNS sought|VBN to|TO acquire|VB land|NN </s>|S_END
+<s>|S_START the|DT south|NN was|VBD led|VBN by|IN jefferson|NN davis|NNS who|WP had|VBD been|VBN a|DT prominent|NN supporter|NN in|IN the|DT 1840s|CD of|IN mississippi’s|JJ debt|NN repudiation|NN making|VBG it|PRP difficult|VBD for|IN the|DT fledgling|VBG state|NN to|TO raise|VB capital|NN in|IN europe|NN </s>|S_END
+<s>|S_START by|IN contrast|NN the|DT northerners|NNS were|VBD led|VBN by|IN abraham|NN lincoln|NN a|DT lawyer|NN who|WP had|VBD supported|VBN the|DT railroad|NN industry|NN and|CC thus|RB european|JJ bondholders|NNS against|IN land|NN seizures|NNS by|IN state|NN </s>|S_END
+<s>|S_START that|DT was|VBD one|CD factor|NN giving|VBG the|DT north|JJ a|DT crucial|JJ financial|JJ advantage|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START at|IN times|NNS however|RB mr|NN nelson|NN seems|VBZ to|TO have|VB a|DT shaky|JJ grasp|NN of|IN dates|NNS as|IN when|WRB he|PRP writes|VBZ that|IN the|DT “first|JJ new|JJ deal|NN seemed|VBD to|TO have|VB little|JJ effect|NN on|IN the|DT us|PRP economy|NN as|IN the|DT number|NN of|IN unemployed|VBN went|NN from|IN 48m|CD in|IN 1930|CD to|TO 145m|CD in|IN march|NN 1933”|CD </s>|S_END
+<s>|S_START president|NN roosevelt|VBD was|VBD only|RB inaugurated|VBN on|IN march|NN 4th|CD 1933|CD so|RB his|PRP$ new|JJ deal|NN can|MD hardly|RB have|VB reduced|VBN unemployment|NN before|IN he|PRP took|VBD office|NN </s>|S_END
+<s>|S_START at|IN another|DT stage|NN he|PRP seems|VBZ to|TO confuse|VB america’s|JJ annual|JJ deficit|NN with|IN its|PRP$ total|JJ debt|NN of|IN $|$ 14|CD trillion|CD </s>|S_END
+<s>|S_START in|IN that|DT context|NN his|PRP$ last|JJ chapter|NN which|WDT dismisses|NNS how|WRB other|JJ historians|NNS have|VBP written|VBN about|IN financial|JJ panics|NNS is|VBZ too|RB much|JJ of|IN a|DT hostage|NN to|TO fortune|VB </s>|S_END
+<s>|S_START “manias|JJ panics|NNS and|CC crashes”|JJ by|IN the|DT master|NN of|IN the|DT genre|NN the|DT late|JJ charles|NNS kindleberger|JJR is|VBZ still|RB the|DT book|NN to|TO beat|VB </s>|S_END
+</p>|P_END
+

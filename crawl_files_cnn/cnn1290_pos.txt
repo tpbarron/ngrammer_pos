@@ -1,0 +1,113 @@
+<p>|P_START
+<s>|S_START new|JJ york|NN cnnmoney|NN a|DT federal|JJ judge|NN approved|VBD the|DT $|$ 26|CD billion|CD settlement|NN deal|NN reached|VBD between|IN the|DT nations|NNS five|CD largest|JJS mortgage|NN lenders|NNS and|CC the|DT attorneys|NNS general|JJ of|IN 49|CD states|NNS and|CC the|DT district|NN of|IN columbia|NN over|IN foreclosure|NN processing|NN abuses|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START judge|NN rosemary|NN collyer|NN in|IN the|DT us|PRP district|VBP court|NN for|IN the|DT district|NN of|IN columbia|NN approved|VBD consent|NN judgments|NNS with|IN bank|NN of|IN america|NN bac|NN fortune|NN 500|CD citibank|NN c|NN fortune|NN 500|CD jpmorgan|NN chase|NN jpm|NN fortune|NN 500|CD wells|NNS fargo|IN wfc|NN fortune|NN 500|CD and|CC ally|RB financial|JJ the|DT former|JJ gmac|NN late|JJ thursday|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT approval|NN clears|VBZ the|DT way|NN for|IN the|DT banks|NNS to|TO compensate|VB homeowners|NNS who|WP may|MD have|VB been|VBN impacted|VBN by|IN the|DT socalled|VBN robosigning|VBG scandal|NN in|IN which|WDT bank|NN employees|NNS signed|VBD hundreds|NNS of|IN documents|NNS a|DT day|NN attesting|VBG to|TO facts|NNS that|IN they|PRP had|VBD little|JJ or|CC no|DT knowledge|NN of|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START under|IN the|DT settlement|NN the|DT banks|NNS committed|VBD at|IN least|JJS $|$ 17|CD billion|CD toward|IN modifying|NN mortgages|NNS for|IN delinquent|NN borrowers|NNS </s>|S_END
+<s>|S_START the|DT modifications|NNS will|MD include|VB large|JJ principal|NN reductions|NNS of|IN as|RB much|JJ as|IN $|$ 100000|CD or|CC more|JJR for|IN roughly|RB one|CD million|CD homeowners|NNS who|WP are|VBP underwater|RBR on|IN their|PRP$ mortgages|NNS and|CC behind|IN on|IN payments|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START another|DT $|$ 3|CD billion|CD or|CC more|JJR will|MD go|VB toward|IN refinancing|VBG mortgages|NNS for|IN borrowers|NNS who|WP are|VBP current|JJ on|IN their|PRP$ payments|NNS </s>|S_END
+<s>|S_START this|DT is|VBZ supposed|VBN to|TO help|VB some|DT 750000|CD borrowers|NNS take|VBP advantage|NN of|IN historic|JJ low|JJ interest|NN rates|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT banks|NNS will|MD also|RB pay|VB $|$ 5|CD billion|CD in|IN fines|NNS to|TO the|DT states|NNS and|CC the|DT federal|JJ government|NN the|DT only|JJ hard|JJ money|NN involved|VBN in|IN the|DT deal|NN </s>|S_END
+<s>|S_START out|IN of|IN that|DT fund|NN will|MD come|VB payments|NNS of|IN $|$ 1500|CD to|TO $|$ 2000|CD to|TO homeowners|NNS who|WP lost|RB their|PRP$ homes|NNS to|TO foreclosure|VB </s>|S_END
+<s>|S_START those|DT payments|NNS will|MD total|VB $|$ 15|CD billion|CD according|VBG to|TO the|DT consent|NN agreement|NN </s>|S_END
+<s>|S_START other|JJ funds|NNS will|MD be|VB paid|VBN to|TO legal|JJ aid|NN and|CC homeowner|NN advocacy|NN organizations|NNS to|TO help|VB individuals|NNS facing|VBG foreclosure|NN or|CC experiencing|VBG servicer|NN abuses|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT judges|NNS approval|NN capped|VBD more|JJR than|IN a|DT year|NN of|IN hard|JJ negotiations|NNS between|IN the|DT banks|NNS and|CC the|DT states|NNS attorneys|NNS general|JJ as|IN well|RB as|IN the|DT us|PRP department|NN of|IN housing|NN and|CC urban|NN development|NN said|VBD amy|NN bonitatibus|NN a|DT spokeswoman|NN for|IN chase|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT settlement|NN includes|VBZ farreaching|VBG relief|NN that|IN will|MD help|VB many|JJ of|IN our|PRP$ customers|NNS and|CC complement|NN our|PRP$ already|RB extensive|JJ efforts|NNS to|TO improve|VB our|PRP$ borrower|NN assistance|NN efforts|NNS and|CC servicing|VBG processes|NNS she|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START as|IN a|DT result|NN of|IN the|DT settlement|NN banks|NNS will|MD get|VB immunity|NN from|IN future|JJ claims|NNS by|IN the|DT state|NN governments|NNS as|IN long|RB as|IN they|PRP abide|VBP by|IN the|DT terms|NNS of|IN the|DT settlement|NN although|IN homeowners|NNS may|MD still|RB pursue|VB individual|JJ claims|NNS </s>|S_END
+<s>|S_START the|DT states|NNS can|MD also|RB press|VB criminal|JJ charges|NNS if|IN theyre|NN merited|VBN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START only|RB one|CD state|NN attorney|NN general|NN oklahomas|NNS e|VBP scott|NN pruitt|NN declined|VBD to|TO participate|VB in|IN the|DT agreement|NN </s>|S_END
+<s>|S_START the|DT state|NN reached|VBD a|DT separate|JJ $|$ 186|CD million|CD settlement|NN with|IN the|DT five|CD lenders|NNS in|IN early|JJ february|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT banks|NNS have|VBP also|RB agreed|VBN to|TO adhere|VB to|TO a|DT strict|NN standard|NN of|IN foreclosure|NN processing|NN one|CD that|WDT does|VBZ not|RB allow|VB for|IN robosigning|VBG and|CC other|JJ abusive|JJ practices|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START now|RB that|DT the|DT settlement|NN has|VBZ been|VBN approved|VBN the|DT banks|NNS are|VBP now|RB free|JJ to|TO identify|VB and|CC reach|VB out|RP to|TO delinquent|VB borrowers|NNS to|TO offer|VB them|PRP more|JJR affordable|JJ mortgage|NN terms|NNS </s>|S_END
+<s>|S_START bank|NN of|IN america|NN has|VBZ already|RB compiled|VBN a|DT list|NN of|IN 200000|CD potential|JJ beneficiaries|NNS of|IN its|PRP$ principal|JJ reduction|NN modifications|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START chase|NN said|VBD it|PRP is|VBZ currently|RB reviewing|VBG anyone|NN who|WP applied|VBD for|IN a|DT mortgage|NN modification|NN to|TO see|VB if|IN the|DT borrower|NN qualifies|NNS under|IN the|DT settlement|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP have|VBP been|VBN taking|VBG calls|NNS from|IN customers|NNS since|IN march|NN 1|CD for|IN this|DT program|NN said|VBD mark|NN rodgers|NNS a|DT citibank|NN spokesman|NN </s>|S_END
+<s>|S_START we|PRP have|VBP already|RB moved|VBN a|DT few|JJ hundred|VBN cases|NNS into|IN the|DT pipeline|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START wells|NNS fargo|VBP began|VBD accepting|VBG applications|NNS on|IN march|NN 1|CD and|CC will|MD start|VB to|TO reach|VB out|RP to|TO customers|NNS by|IN mail|NN in|IN a|DT matter|NN of|IN days|NNS according|VBG to|TO spokeswoman|NN vickee|NN adams|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START ally|RB financial|JJ didnt|NN immediately|RB return|NN calls|VBZ seeking|VBG comment|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START when|WRB the|DT settlement|NN was|VBD first|JJ announced|VBN it|PRP triggered|VBD a|DT flow|NN of|IN both|DT optimism|NN and|CC outrage|NN among|IN mortgage|NN borrowers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT terms|NNS of|IN the|DT settlement|NN will|MD only|RB apply|VB to|TO certain|VB borrowers|NNS who|WP have|VBP mortgages|NNS held|VBN by|IN the|DT five|CD major|JJ lenders|NNS </s>|S_END
+<s>|S_START borrowers|NNS who|WP have|VBP a|DT mortgage|NN held|VBN by|IN fannie|NN mae|NN fnma|NN fortune|NN 500|CD or|CC freddie|VB mac|NN fre|NN roughly|RB half|DT the|DT market|NN are|VBP out|RP of|IN luck|NN however|RB </s>|S_END
+<s>|S_START loans|NNS insured|VBD by|IN the|DT federal|JJ housing|NN administration|NN are|VBP also|RB ineligible|JJ </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START for|IN hector|NN ibarra|NN who|WP lives|NNS in|IN the|DT ground|NN zero|NN for|IN foreclosures|NNS las|VBP vegas|NNS the|DT news|NN is|VBZ a|DT devastating|NN </s>|S_END
+<s>|S_START ibarra|NN owes|NNS $|$ 137000|CD on|IN his|PRP$ townhouse|NN which|WDT is|VBZ now|RB worth|JJ less|NN than|IN $|$ 40000|CD in|IN todays|NNS market|NN but|CC because|IN his|PRP$ mortgage|NN is|VBZ owned|VBN by|IN freddie|NN mac|NN he|PRP doesnt|VBD qualify|VB for|IN a|DT principal|NN reduction|NN or|CC modification|NN under|IN the|DT settlement|NN deal|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START i|PRP can|MD afford|VB my|PRP$ mortgage|NN but|CC it|PRP is|VBZ pretty|RB depressing|VBG seeing|VBG so|RB many|JJ people|NNS getting|VBG out|IN of|IN deals|NNS they|PRP made|VBD just|RB a|DT few|JJ years|NNS back|RB and|CC living|VBG much|RB better|JJR than|IN i|PRP am|VBP he|PRP said|VBD </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START the|DT fact|NN that|IN the|DT principalreduction|NN provisions|NNS apply|RB only|RB to|TO delinquent|VB borrowers|NNS is|VBZ also|RB a|DT sore|NN point|NN for|IN many|JJ borrowers|NNS </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START we|PRP are|VBP current|JJ and|CC always|RB have|VBP been|VBN said|VBN chad|NN ghorley|NN of|IN north|JJ carolina|NN </s>|S_END
+<s>|S_START i|PRP am|VBP more|JJR upset|JJ about|IN this|DT program|NN because|IN it|PRP doesnt|VBP help|NN those|DT who|WP work|NN and|CC keep|VB current|JJ </s>|S_END
+<s>|S_START it|PRP seems|VBZ we|PRP are|VBP working|VBG to|TO bail|VB everybody|NN else|RB out|IN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START do|VBP you|PRP qualify|VB for|IN a|DT principal|NN reduction|NN or|CC a|DT modification|NN under|IN the|DT foreclosure|NN settlement|NN </s>|S_END
+<s>|S_START we|PRP want|VBP to|TO hear|VB from|IN you|PRP </s>|S_END
+<s>|S_START send|NN your|PRP$ story|NN and|CC contact|NN information|NN to|TO leslie|VB christie|NN and|CC you|PRP could|MD be|VB featured|VBN in|IN an|DT upcoming|NN article|NN on|IN cnnmoney|NN </s>|S_END
+</p>|P_END
+
+<p>|P_START
+<s>|S_START correction|NN an|DT earlier|JJR version|NN of|IN this|DT story|NN said|VBD the|DT amount|NN allocated|VBD to|TO refinancing|NN loans|NNS was|VBD $|$ 37|CD billion|CD </s>|S_END
+<s>|S_START the|DT amount|NN is|VBZ actually|RB closer|JJR to|TO $|$ 3|CD billion |CD </s>|S_END
+</p>|P_END
+
